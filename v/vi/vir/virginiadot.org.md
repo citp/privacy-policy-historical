@@ -1,35 +1,41 @@
-> *The following text is extracted and transformed from the virginiadot.org privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginiadot.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/legal.asp) for the most accurate reproduction.*
 
 # VDOT: Legal Disclaimer
 
-|  [](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/infoservice/news/is-newsctr.asp) **Wed., February 19, 2020  ** |  |  |   
----|---|---  
+|   
+---  
   
-· [Bidding & Results](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/business/rfps.asp)  
-· [Driver Licensing](http://www.dmv.state.va.us/)  
-· [FAQs](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/infoservice/faq-default.asp)  
-· [HOV Lanes](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/comtravel/hov-default.asp)  
-· [Jobs](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/careers/default.asp)  
-· [Links](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/infoservice/is-links.asp)  
-· [Long-Range Planning](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/projects/pr-studieslongrange.asp)  
-· [Maps](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/comtravel/maps-default.asp)  
-· [Road Conditions](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/comtravel/eoc/eoc-main.asp)  
-· [Smart Tag](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/comtravel/smart-tag-default.asp)  
-· [Traffic Cameras](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/comtravel/default.asp)
+February 19, 2020   
+  
+---  
+| Choose a county or city for  
+local information  
+---  
+  
+· [About VDOT](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/infoservice/vdot-welcome.asp)  
+· [What's New?](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/infoservice/is-what-is-new.asp)  
+· [Road Conditions ](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/comtravel/eoc/eoc-main.asp)  
+· [Report a Problem](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/comtravel/eoc/citizen.asp)  
+· [Commuting & Traffic](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/comtravel/default.asp)  
+· [Contact Us  
+](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/infoservice/contact-us.asp)· [HOV](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/comtravel/hov-default.asp)  
+· [Smart Tag ](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/comtravel/smart-tag-default.asp)  
+· [Frequent Questions](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/infoservice/faq-default.asp)  
+· [Maps](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/comtravel/MAPs-default.asp)  
+· [New Construction](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/projects/default.asp)  
+· [Public Record](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/infoservice/public-record.asp)  
+· [RFPs & Bidding](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/business/default.asp)  
+· [Vendors List](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/business/const/listpage.asp)
 
   
 · [Aviation](http://www.doav.state.va.us/)  
-· [Bicycling](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/infoservice/bk-default.asp)  
+· [Bicycling](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/infoservice/bk-default.asp)  
 · [Motor Vehicles(DMV)](http://www.dmv.state.va.us/)  
 · [Rail/Public Transport](http://www.drpt.state.va.us/)  
 · [Shipping - Port Authority](http://www.vaports.com/)  
-· [Trucking](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/infoservice/is-trucking-main.asp)  
+· [Trucking](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/infoservice/is-trucking-main.asp)  
 · [Sec. of Transportation](http://www.sotrans.state.va.us/)  
 · [Research Council](http://www.virginiadot.org/vtrc/default.htm)
-
-[**HIGHWAY HELPLINE**](mailto:eocwatchofficer@virginiadot.org)  
-1-800-367-ROAD  
-(TTY users, call 1-800-432-1843)
 
 |    
 **Privacy Statement**
@@ -89,4 +95,6 @@ In general, you can tell if you are on a secure page by looking at the symbol at
 
 **Customer Comments**
 
-If you have questions about this privacy statement, the practices of this site, or your interaction with this Web site please [contact us](https://web.archive.org/web/20020609064659id_/http%3A//www.virginiadot.org/infoservice/contact-us.asp).
+If you have questions about this privacy statement, the practices of this site, or your interaction with this Web site please [contact us](https://web.archive.org/web/20040603030033id_/http%3A//www.virginiadot.org/infoservice/contact-us.asp).
+
+|  | 
