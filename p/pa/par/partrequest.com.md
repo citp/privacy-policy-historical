@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605121507id_/http%3A//www.partrequest.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partrequest.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805003357id_/http%3A//www.partrequest.com/privacy.htm) for the most accurate reproduction.*
 
 # Used Auto Parts Online - PartRequest.com
 
@@ -25,12 +25,6 @@ PartRequest.com reserves the right to collect and store information and statisti
 
 At PartRequest.com we strive to help you find the part you need at the price you want. We also value your use of our service and recognize that without you there wouldn't be a business to run. 
 
-Happy motoring!
-
-[Home](https://web.archive.org/web/20040605121507id_/http%3A//www.partrequest.com/default.htm "Home") | [Part Request](https://web.archive.org/web/20040605121507id_/http%3A//www.partrequest.com/part_request.htm "Part Request") | [Subscribe](https://web.archive.org/web/20040605121507id_/http%3A//www.partrequest.com/subscribe.htm "Subscribe") | [Members](https://web.archive.org/web/20040605121507id_/http%3A//www.partrequest.com/members.htm "Members") | [About Us](https://web.archive.org/web/20040605121507id_/http%3A//www.partrequest.com/about.htm "About Our Service") | [Support](https://web.archive.org/web/20040605121507id_/http%3A//www.partrequest.com/support.htm "Support") | [Privacy](https://web.archive.org/web/20040605121507id_/http%3A//www.partrequest.com/privacy.htm "Privacy") | [Links](https://web.archive.org/web/20040605121507id_/http%3A//www.partrequest.com/links.htm "Links") | [Site Map](https://web.archive.org/web/20040605121507id_/http%3A//www.partrequest.com/sitemap.htm "Site Map") | [Contact Us](mailto:support@partrequest.com "Contact Us")
-
-Copyright © 2000 - 2004  
-CarNet Communications  
-[All Rights Reserved](https://web.archive.org/web/20040605121507id_/http%3A//www.partrequest.com/legal.htm)  
+Happy motoring!  
   
 ---|---
