@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petvalu.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207194948id_/http%3A//www.petvalu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petvalu.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210191850id_/http%3A//www.petvalu.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
