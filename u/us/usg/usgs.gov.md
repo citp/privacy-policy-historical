@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2000-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000604090822id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usgs.gov privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207085000id_/http%3A//www.usgs.gov/privacy.html) for the most accurate reproduction.*
 
 # USGS Privacy Policy and Disclaimers
 
 [](http://www.usgs.gov/)   
+
+
   
 
+
+End navigation links
 
 The following statements and disclaimers apply to all web sites managed by the U.S. Geological Survey (USGS) unless otherwise noted. 
 
@@ -20,7 +24,7 @@ The USGS web site which referred you to this document conforms to the general U.
 
 Like most web servers on the Internet, our servers collect and store all of the information that your web browser sends when it requests a web page, including:
 
-  * the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet. For example, your host computer's name is crawl2.alexa.com and its numerical address is 206.132.186.140; 
+  * the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet. For example, your host computer's name is ai-209-247-40-205.alexa.com and its numerical address is 209.247.40.205; 
   * the date and time you accessed our site; 
   * the Internet address of the web page that you came from (for this visit that address is (none)); 
   * the page you requested from our site and the number of characters sent to your computer; and 
@@ -147,5 +151,5 @@ Reston, VA 20192
 U.S. Department of the Interior, U.S. Geological Survey, Reston, VA, USA  
 URL http://www.usgs.gov/privacy.html  
 Contact: [USGS Web Team](http://www.usgs.gov/mail.html)  
-Last modification: 05-Apr-2000@12:52 (jaf)  
+Last modification: 24-Jul-2000@10:41 (jaf)  
 
