@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204184904id_/http%3A//www.centurynovelty.com/default.aspx%3Fid%3D143) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centurynovelty.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403170529id_/http%3A//www.centurynovelty.com/default.aspx%3Fid%3D143) for the most accurate reproduction.*
 
 # Century Novelty - Welcome
 
