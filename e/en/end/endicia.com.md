@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2003-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030614115229id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm) for the most accurate reproduction.*
 
 # Endicia Internet Postage - Privacy Statement
 
@@ -6,12 +6,12 @@
 Your privacy is extremely important to us, we are committed to protecting your privacy rights. We do not disclose your personal to any third party.   
 
 
-  * [Information Collected When You Visit Our Web Site](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#visit)
-  * [Information Collected From E-mails](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#email)
-  * [Information Collected During The Registration Process](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#register)
-  * [Information Collected While Using Dazzle](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#using)
-  * [Security Practices For Information Collected](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#security)
-  * [Your Access To Information Collected](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#access)
+  * [Information Collected When You Visit Our Web Site](https://web.archive.org/web/20030614115229id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#visit)
+  * [Information Collected From E-mails](https://web.archive.org/web/20030614115229id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#email)
+  * [Information Collected During The Registration Process](https://web.archive.org/web/20030614115229id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#register)
+  * [Information Collected While Using Dazzle](https://web.archive.org/web/20030614115229id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#using)
+  * [Security Practices For Information Collected](https://web.archive.org/web/20030614115229id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#security)
+  * [Your Access To Information Collected](https://web.archive.org/web/20030614115229id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#access)
 
   
 **Information Collected When You Visit Our Web Site**   
@@ -29,4 +29,4 @@ To use our Dazzle product, you must register via our web-enabled on-line registr
 When you purchase postage Using Internet Postage, the only additional information collected by us, is the amount and date of your postage purchase. Everytime you purchase postage a validation is performed with the credit card information collected during the registration process ensuring that unathorized parties do not have access to your information. When you use Internet Postage, we verify your destination addresses against the Postal Service's Address Matching System (AMS). We collect the date, destination ZIP code, and rate category of each indicium created. The primary purpose of this information is for accounting and reporting purposes.  **Security Practices For Information Collected**   
 We will safeguard, according to strict standards of security and confidentiality, any information you share with us. To ensure that your personal information remains confidential, the information is sent via a "secure session" established by Secure Sockets Layer (SSL) or equivalent technology. These technologies encrypt - or scramble - your personal information to guard against unauthorized access.  **Your Access To Information Collected**   
 We make every effort to ensure the data we collect is accurate, complete and timely. If you believe our data pertaining to you requires correction, you have been given access to your information via our online account management web site.  [Company Info](https://web.archive.org/endicia-usa/Site/company.cfm)  |  [Contact Us](mailto:sales@endicia.com)  |   1-800-576-3279 x140  |  [Privacy Policy](https://web.archive.org/endicia-usa/Site/privacy.cfm)  |  [USPS Guidelines](https://web.archive.org/endicia-usa/Site/ibiguidelines.cfm)   
-Copyright © 2000-2002, Envelope Manager Software.  [All rights reserved](https://web.archive.org/endicia-usa/Site/legal.cfm).
+Copyright © 2000-2003, Envelope Manager Software.  [All rights reserved](https://web.archive.org/endicia-usa/Site/legal.cfm).
