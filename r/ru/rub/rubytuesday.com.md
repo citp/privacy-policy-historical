@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rubytuesday.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202013731id_/http%3A//www.rubytuesday.com/legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rubytuesday.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608104346id_/http%3A//rubytuesday.com/legal/privacy_policy.htm) for the most accurate reproduction.*
 
 # Ruby Tuesday, Inc. - Privacy Policy
 
@@ -16,4 +16,4 @@ Sometimes there may be links on our web site that allow you to leave our site. W
 
 Although unlikely, we may be required by law enforcement or judicial authorities to provide personally identifiable information to the appropriate governmental authorities. If requested as part of a legal proceeding, we will provide this information upon receipt of the appropriate documentation. By using this web site, you agree to our Privacy Policy. We may also change the Policy from time to time, so please be sure to visit this web site often to see if anything has changed. If we post changes and you continue to use the web site, you will be deemed to have agreed to the changes. 
 
-[_Return to Main Menu_](https://web.archive.org/web/20031202013731id_/http%3A//www.rubytuesday.com/default.htm)
+[_Return to Main Menu_](https://web.archive.org/web/20040608104346id_/http%3A//rubytuesday.com/default.htm)
