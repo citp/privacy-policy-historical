@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshipdirect.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205223157id_/http%3A//www.dropshipdirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipdirect.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618094652id_/http%3A//dropshipdirect.com/privacy.html) for the most accurate reproduction.*
 
 # Dropship Direct : Privacy Policy
 
