@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the capterra.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201230418id_/http%3A//www.capterra.com/privacy.tcl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capterra.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601111828id_/http%3A//www.capterra.com/privacy.tcl) for the most accurate reproduction.*
 
 # Capterra - Privacy Policy
-
-[Home](https://web.archive.org/web/20011201230418id_/http%3A//www.capterra.com/index.tcl) : [About Us](https://web.archive.org/about-us.tcl) : [Legal Notices](https://web.archive.org/about-us.tcl?section=leg) : Privacy Policy 
 
 **Privacy Policy**
 
