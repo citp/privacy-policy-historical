@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217134300id_/http%3A//weddingsonline.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingsonline.ie privacy policy that was archived on 2001-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010425173221id_/http%3A//weddingsonline.ie/privacy) for the most accurate reproduction.*
 
 # WeddingsOnline.ie - Privacy Policy
 
