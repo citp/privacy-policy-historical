@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204223910id_/http%3A//corp.clubrsx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubrsx.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605103759id_/http%3A//corp.clubrsx.com/privacy.html) for the most accurate reproduction.*
 
 # Club RSX | Corporate | Privacy Policy
 
-The following states the Club RSX.com policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. 
+|    
+[> Corporate - Home](https://web.archive.org/web/20040605103759id_/http%3A//corp.clubrsx.com/index.html)  
+  
+|  |    
+Club RSX Privacy PolicyThe following states the Club RSX.com policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience. 
 
 Our postal address is:  
 4975 Stilwell Drive  
@@ -34,3 +38,4 @@ If you would like to change any of your transactional information in our databas
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 *  **Links to Other Sites**  
 This site contains links to other sites. It is not responsible for the privacy practices or the content of such Web sites. 
+| 
