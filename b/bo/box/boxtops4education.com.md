@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxtops4education.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008064243id_/http%3A//www.boxtops4education.com/global/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxtops4education.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202104618id_/http%3A//www.boxtops4education.com/global/privacy.asp) for the most accurate reproduction.*
 
 # Box Tops for Education > Your Privacy
 
