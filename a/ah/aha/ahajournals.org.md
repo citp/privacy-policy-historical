@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahajournals.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203010153id_/http%3A//www.americanheart.org/presenter.jhtml%3Fidentifier%3D11405) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahajournals.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611161507id_/http%3A//www.americanheart.org/presenter.jhtml%3Fidentifier%3D11405) for the most accurate reproduction.*
 
 # Privacy Statement
 
