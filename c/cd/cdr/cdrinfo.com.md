@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626171627id_/http%3A//cdrinfo.com/Sections/Privacy/Home.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2003-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031128192803id_/http%3A//cdrinfo.com/Sections/Privacy/Home.asp) for the most accurate reproduction.*
 
 # CDR-Info, The Recording Authority
 
@@ -39,19 +39,25 @@ To find out more about how [AdTegrity](http://www.adtegrity.com/) manages the pr
 **This site has security measures in place to protect the loss, misuse and alteration of the information under our control. (*Please elaborate on the security measures that you have in place.) 
 
 **Choice/Opt-Out  
-**Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to _[johnm@cdrinfo.com](mailto:johnm@cdrinfo.com)_
+**Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send us email by submitting the form at this [page](https://web.archive.org/Sections/About)
 
 **Correct/Update  
-**This site gives users the following options for changing and modifying information previously provided. email _[johnm@cdrinfo.com](mailto:johnm@cdrinfo.com)_
+**This site gives users the following options for changing and modifying information previously provided. Email us [here](https://web.archive.org/Sections/About)
 
 **Contacting the Web Site  
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us by submitting the form at this [page](https://web.archive.org/Sections/About). 
 
-_John Makos  
-CDR Info.COM  
-[johnm@cdrinfo.com](mailto:johnm@cdrinfo.com)_
+* * *
 
-[](mailto:marketing@cdrinfo.com?Subject=Advertise)
+Third Party Advertising 
+
+We use BUDS INC, MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp). 
+
+Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+* * *
 
 |  _**  
 **_  
