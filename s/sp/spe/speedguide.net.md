@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602160343id_/http%3A//www.speedguide.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedguide.net privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023101500id_/http%3A//www.speedguide.net/privacy.shtml) for the most accurate reproduction.*
 
 # SpeedGuide.net - Copyright Information, Privacy Policy, Terms of Use
 
@@ -20,6 +20,8 @@ Third Parties
 SpeedGuide.net works with third parties that serve ads to this site. Often, advertisers will employ a third-party measurement service other than SpeedGuide.net for tracking the performance of an ad program. In these instances, we have no control over the information collected by the third-party, and may not be held responsible for the actions of the third-party measurement service where collected information is concerned. If you have questions regarding different third-party measurement services and their respective methods of information collection, please contact [webmaster@speedguide.net](mailto:webmaster@speedguide.net). For your convenience, following are links and disclaimers of such third parties:
 
 This site, SpeedGuide.net, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+
+We also use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here: [ http://www.networkadvertising.org/optout_nonppii.asp](http://www.networkadvertising.org/optout_nonppii.asp). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
 Notification of Changes
 
