@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionsuniversity.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606141151id_/http%3A//options-university.com/Legal/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionsuniversity.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204051520id_/http%3A//www.options-university.com/Legal/privacy_policy) for the most accurate reproduction.*
 
 # DISCLAIMER AND TERMS OF USE AGREEMENT
 
