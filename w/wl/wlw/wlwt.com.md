@@ -1,74 +1,10 @@
-> *The following text is extracted and transformed from the wlwt.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601122838id_/http%3A//www.channelcincinnati.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlwt.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621062043id_/http%3A//www.channelcincinnati.com/news/1014422/detail.html) for the most accurate reproduction.*
 
-# ChannelCincinnati.com - Privacy Policy
+# channelcincinnati.com - News
 
-| 
-
-[Help You Need](https://web.archive.org/thehelpyouneed/)  
-  
----  
-  
-[JobChannel](http://www.channelcincinnati.com/employment/)  
-  
-[AutoChannel](http://www.channelcincinnati.com/automotive/)  
-  
-[Yellow Pages](http://y.ibsys.com/event.ng/Type=click&Tracker=sbcind&Redirect=http:%2f%2fwww.cincinnatiexchange.com)  
-  
-[Legal Center](http://www.channelcincinnati.com/legalcenter/)  
-  
-[House & Home](http://www.channelcincinnati.com/houseandhome/)  
-  
-[Travel](http://www.channelcincinnati.com/travelgetaways/)  
-  
-[Shopping](http://www.channelcincinnati.com/shopping/)  
-  
-[Dating](http://www.channelcincinnati.com/dating/)  
-  
-   
-  
-[News](https://web.archive.org/news/)  
-  
-[Weather](https://web.archive.org/weather/)  
-  
-[Sports](https://web.archive.org/sports/)  
-  
-[Rhino Cam](https://web.archive.org/rhinocam/)  
-  
-[Feedback 5](http://forums.ibsys.com/index.cfm?sitekey=cin)  
-  
-[Entertainment](https://web.archive.org/entertainment/)  
-  
-[Commitment   2002](https://web.archive.org/politics/)  
-  
-[Business](https://web.archive.org/money/)  
-  
-[Health](https://web.archive.org/health/)  
-  
-[Technology](https://web.archive.org/technology/)  
-  
-[Live Cams](https://web.archive.org/weather/sky5cams/)  
-  
-[TV Listings](http://tv.tribune.com/whatson/home/0,1002,wlwt,00.html)  
-  
-[WLWT TV](https://web.archive.org/station/)  
-  
-[Education](https://web.archive.org/education/)  
-  
-[Take 5](https://web.archive.org/station/take5/)  
-  
-[E-Mail News](https://web.archive.org/news/email-newsletters.html)  
-  
-  
-|   
----  
-  
-## Privacy Policy
-
-### __
+[](https://web.archive.org/news//detail.html)
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.ChannelCincinnati.com](http://www.channelcincinnati.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
-
-[](https://www.truste.org/validate/7298)
 
 **Information Collection and Use**  
 This website makes use of browser "cookies". Cookies are files written to a user's hard disk and read by the server programs to inform a website if the user has previously visited that site. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. We often use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with ads are not being collected by us and we do not have access to this information. Cookies can be rejected by you and if so none of the functions listed above will be performed. 
@@ -105,15 +41,11 @@ Security Administrator
 Internet Broadcasting Systems  
 1333 Northland Drive  
 Mendota Heights, MN 55120  
-[security@ibsys.com](mailto:security@ibsys.com)  
-
+[security@ibsys.com](mailto:security@ibsys.com)
 
 **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
-**TRUSTe Confirmation**  
-This confirms that Internet Broadcasting Systems, Inc. and ChannelCincinnati.com are licensees of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Last Revised 09/02   
+  
 
-If you have questions or concerns regarding this statement, you should first contact [security@ibsys.com](mailto:security@ibsys.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
-
-Last Revised 03/11/02 
