@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news.com.au privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205115548id_/http%3A//www.news.com.au/common/privacy/0%2C4841%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news.com.au privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202071943id_/http%3A//www.news.com.au/common/privacy/0%2C4841%2C%2C00.html) for the most accurate reproduction.*
 
 # News Interactive Privacy
 
@@ -18,13 +18,11 @@ We usually collect personal information such as your name, address, telephone nu
 
 We use your information to provide our services to you, to fulfil administrative functions associated with these services, for example billing, to enter into contracts with you or third parties and for marketing and client relationship purposes. 
 
-We may share your information with other companies which are related to News Limited, within and outside of Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you. 
-
-When we collect your information, we will give you the ability to indicate that you do not want us to use your personal information for disclosed secondary purposes. At any time, you may notify us of your preference on this issue by contacting our privacy officer as set out at the end of this document. Please allow a reasonable time for your preference to be implemented. 
+We may share your information with other companies which are related to News Limited, within Australia. We or they may also use your personally identifiable information to assist us in improving our products and services and any of us might be in touch to let you know about goods, services, or promotions which may interest you. 
 
 **_Use by Third Parties_**
 
-News may disclose your information to its service providers and contractors from time to time in Australia or overseas to help us to provide and market our goods and services to you. If we do this we generally require these parties to protect your information in the same way we do. 
+News may disclose your information to its service providers and contractors from time to time to help us to provide and market our goods and services to you. We may also share your information with third parties who provide prizes for competitions or reader offers. If we do this we generally require these parties to protect your information in the same way we do. 
 
 **_Use of Aggregate Data_**
 
@@ -72,6 +70,7 @@ Brook Milbank
 Privacy Officer   
 News Interactive   
 [privacy@news.com.au](mailto:privacy@news.com.au)   
-02 9004 5400   
-Level 1, Wharf 12   
-Pyrmont 2009 
+02 9288 3000   
+Level 3   
+2 Holt Street   
+Surry Hills 2010 
