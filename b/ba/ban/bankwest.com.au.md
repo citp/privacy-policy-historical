@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603013933id_/http%3A//www.bankwest.com.au/newsroom/Legal_Notices/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207212000id_/http%3A//www.bankwest.com.au/newsroom/Legal_Notices/Privacy_Policy) for the most accurate reproduction.*
 
 # BankWest - Privacy Policy
 
@@ -34,7 +34,7 @@ The National Privacy Principles came into force on 21 December 2001 but some of 
 
 
 
-Except in so far as this Privacy Policy further addresses the particular Principles reflected in those five latters, the remainder of this document is concerned with personal information which is collected on or after 21 December 2001.
+Except in so far as this Privacy Policy further addresses the particular Principles reflected in those five matters, the remainder of this document is concerned with personal information which is collected on or after 21 December 2001.
 
 ### Collection of Personal Information
 
@@ -81,9 +81,7 @@ If at any time you supply us with personal information about another person (for
 
 We will not use or disclose information collected about you other than for a purpose made known to you, a purpose you would reasonably expect, a purpose required or permitted by or under any law or a purpose otherwise authorised by you. 
 
-You authorise us to disclose necessary information to related companies and to any agents or contractors who provide services to us in connection with the provision of products or services you have sought from us.
-
-These parties are prohibited from using your personal information except for the specific purpose for which we supply it to them.
+You authorise us to disclose necessary information to related companies and to any agents or contractors who provide services to us in connection with the provision of products or services you have sought from us. These parties are prohibited from using your personal information except for the specific purpose for which we supply it to them.
 
 Subject to what is permitted by law, the types of third parties we may disclose your personal information to include, where relevant:
 
@@ -107,7 +105,7 @@ any person or organisation who introduces you to us;
 
   * other financial institutions; 
 
-  * your franchisor (if applicable); 
+  * your franchiser (if applicable); 
 
   * external payment systems operators; 
 
@@ -152,17 +150,17 @@ We will take reasonable steps to ensure that your personal information is accura
 
 We maintain strict procedures and standards and take all reasonable care to prevent unauthorised access to, and modification and disclosure of, your personal information. We will take all reasonable steps to protect your personal information from misuse and loss. 
 
-We also protect the security of your personal information when transmitted over the Internet. We use a Secure Socket Layer (SSL) to transfer personal information between you and our web servers, and DSS encryption when we transfer data to third parties. However no data transmission over the Internet can be guaranteed as fully secure and accordingly, we cannot guarantee or warrant the security of any information you send to us using our on-line forms or products. You submit information over the Internet at your own risk.
+We also protect the security of your personal information when transmitted over the Internet between you and our webservers or to third parties by encrypting the data. However no data transmission over the Internet can be guaranteed as fully secure and accordingly, we cannot guarantee or warrant the security of any information you send to us using our on-line forms or products. You submit information over the Internet at your own risk.
 
 If we no longer need your information, we will destroy or de-identify it.
 
 ### Direct Marketing
 
-We adhere to the Direct Marketing Code of Conduct produced by ADMA. 
+We adhere to the Direct Marketing Code of Conduct produced by the Australian Direct Marketing Association (ADMA). 
 
-We will use your personal details, including your email address, to provide you with information, specific promotions and products that may be of interest to you. We also provide your details to other organisations (including our related companies) but only for specific marketing purposes.
+We will use your personal details, including any electronic addresses you provide to us, to provide you with information, and to tell you about products and services, including third party products and services which we consider may be of interest to you. We also provide your details to other organisations (including our related companies) but only for specific marketing purposes.
 
-If at any time you do not wish to receive further marketing information, you have the option to ask us not to send you any further information about products and services and not to disclose your information to other organisations for that purpose. You may do this by telephoning our Customer Help Centre on 13 17 18.
+If at any time you do not wish to receive further marketing information, you have the option to ask us not to send you any further information about products and services and not to disclose your information to other organisations for that purpose. You may do this by telephoning our Customer Help Centre on 13 17 18, or in the case of email marketing material, you may use an unsubscribe facility included with a commercial electronic message to withdraw your consent.
 
 ### Government Identifiers
 
@@ -184,9 +182,10 @@ We encourage you to periodically review our Privacy Policy for any changes.
 
 ### Our Internet Website
 
-This Privacy Policy applies to any website operated by us under the domain name [www.bankwest.com.au](http://www.bankwest.com.au/). 
+This Privacy Policy applies to any website operated by us under the domain name www.bankwest.com.au  
+("the BankWest Website"), the website operated on our behalf by Pinpoint Pty Ltd ACN 002 693 656 under the domain name bankwestextra.rewardscard.com.au ("the Rewards Website") and any other website operated on our behalf which we authorise to provide a link to this Privacy Policy. 
 
-When you use a link from our website to the websites of third parties, those websites are not subject to our privacy standards. Those third parties are responsible for informing you of their own privacy policies.
+When you use a link from the BankWest Website, or from any other website to which this Privacy Policy applies, to the websites of third parties, those websites are not subject to our privacy standards. Those third parties are responsible for informing you of their own privacy policies.
 
 If personal information about you is collected by third parties on any websites you have accessed through our website, we may also collect or have access to that information as part of our arrangement with those third parties.
 
