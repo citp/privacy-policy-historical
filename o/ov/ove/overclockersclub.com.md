@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the overclockersclub.com privacy policy that was archived on 2001-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011102072900id_/http%3A//overclockersclub.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overclockersclub.com privacy policy that was archived on 2002-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020127072804id_/http%3A//www.overclockersclub.com/privacy.shtml) for the most accurate reproduction.*
 
-# OverclockersClub computer hardware, tech news, reviews, benchmark, overclocking
+# OverclockersClub hardware reviews, tech news, help forum, overclocking, case modding
 
 |  | 
 
