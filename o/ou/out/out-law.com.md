@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204200303id_/http%3A//www.out-law.com/php/page.php%3Fpage_id%3Dprivacy6831%26area%3Dabout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the out-law.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060237id_/http%3A//out-law.com/php/page.php%3Fpage_id%3Dprivacy6831%26area%3Dabout) for the most accurate reproduction.*
 
 # out-law.com - legal news and business guides
 
@@ -44,4 +44,4 @@ Once you register with OUT-LAW.COM, we offer you a cookie to save your log in de
 
 More information about cookies, including how to block them and/or delete them, can be found at [AboutCookies.org](http://www.aboutcookies.org/).
 
-[© Masons 2000 - 2003](https://web.archive.org/php/page.php?page_id=disclaimer)
+[© Masons 2000 - 2004](https://web.archive.org/php/page.php?page_id=disclaimer)
