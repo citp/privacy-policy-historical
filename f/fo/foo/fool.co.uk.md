@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610070813id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210153543id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # The Motley Fool UK: Privacy Statement
 
@@ -14,7 +14,11 @@ The Motley Fool Limited takes the issue of privacy very seriously and we are com
 
 **Emailing an Article or Message Board Post:** If you use our recommendation service to email an article or post to a friend, you will need to provide us with your friend's email address. The Motley Fool will automatically send this person a one-time email, attaching the recommended article as well as inviting them to visit and register with our site. We will not use these email addresses for any other purpose.
 
-**Making a purchase or Signing Up for a Seminar:** If you place an order with Fool Shop or sign up for any of our online seminars, our sister company FoolMart in the USA will process the personal information that you provide. By submitting an order, you consent to this transfer outside the European Economic Area. FoolMart will collect your personal information including your credit card number, shipping information and telephone number and all of this information is encrypted, using Secure Socket Layers (SSL) technology. For more information on FoolMart's privacy practices, please click [ here](http://www.foolmart.com/market/help/security.asp). If you wish to order our books online, those orders are filled by Amazon ([www.amazon.co.uk](http://www.amazon.co.uk/)), which has its own [ privacy and data collection practices](http://www.amazon.co.uk/exec/obidos/subst/help/privacy.html). The Motley Fool does not collect, see or have access to any personal information you may provide to Amazon when purchasing these books.
+**Making a purchase:** Orders placed with us for goods and services from areas like the [Fool Shop](http://www.fool.co.uk/foolshop/foolshop.htm) are fulfilled in a variety of different ways. Some products are handled entirely by the Motley Fool Limited, some are handled via our sister company FoolMart in the USA whilst others, such as books, are handled entirely by third parties. 
+
+If you place an order with [FoolMart](http://www.foolmart.com/default.asp) in the USA it will process the personal information that you provide. By submitting an order via FoolMart, you consent to this transfer outside the European Economic Area. FoolMart will collect your personal information including your credit card number, shipping information and telephone number and all of this information is encrypted, using Secure Socket Layers (SSL) technology. For more information on FoolMart's privacy practices, please click [here](http://www.foolmart.com/Customer_Service/CSP.asp?ID=CS_Privacy). 
+
+If you order a product or service of ours via a third party, for example Global-Investor, Quicken or BT click&buy, please be aware that these sites have their own privacy and data collection practices. The Motley Fool does not collect, see or have access to any personal information you may provide to such third parties. 
 
 **Optional Services:** We may also ask for additional information when providing special, personalised services. If you don't want to give us the information requested, you certainly don't have to, but you will not be able to take advantage of such offerings. For example, we can't track your personal stock portfolio unless you input the stocks you own or fulfill a product order unless you provide us with your mailing address. On occasion, we may also ask you for other personal information in connection with surveys, sweepstakes or other promotional offers running on our site but again, your participation in these features are purely voluntary.
 
@@ -92,5 +96,3 @@ The Fool may amend this Privacy Statement from time to time. If we make any subs
   
 |  |    
 
-
-[](http://click.fool.com/7304/16726/1718/http%3A%2F%2Fwjshjo.pajmc.com%2Fcgi-bin%2Frr.cgi%2FR2_EMBED_PARAMS%2Ffool%2Fbankn%2Fvarly%2Fhttp%3A%2F%2Fwww.virginone.com%2F)
