@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rvusa.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204190329id_/http%3A//www.rvusa.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rvusa.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402005722id_/http%3A//www.rvusa.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy or Statement : RVUSA - The Original Online RV Guide
 
