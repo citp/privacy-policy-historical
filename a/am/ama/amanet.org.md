@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607095855id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amanet.org privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020134644id_/http%3A//www.amanet.org/privacy.htm) for the most accurate reproduction.*
 
 # Equal Employment Opportunity Policy
 
