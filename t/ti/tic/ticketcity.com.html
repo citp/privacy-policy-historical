@@ -1,38 +1,14 @@
-<!--The following is the downloaded HTML source of the ticketcity.com privacy policy that was archived on 2000-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001204024800id_/http%3A//ticketcity.com/security.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ticketcity.com privacy policy that was archived on 2002-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601104158id_/http%3A//www.ticketcity.com/security.asp) for the most accurate reproduction.-->
 
-<html><!-- #BeginTemplate "/Templates/plainpages.dwt" --><head>
-<!-- #BeginEditable "doctitle" --> 
-<title>TicketCity.com - Secure Ordering</title>
-<meta name="description" content="TicketCity.com sells tickets online in a secure fashion."> <meta name="keywords" content="tickets,tickets online,secure ordering,security,verisign,olympics,super bowl,final four,ryder cup,masters,world cup,us open,all-star game">
-<!-- #EndEditable --> 
-<style type="text/css">
-<!--
-.menu {position:absolute; 
-       visibility:hidden; 
-       background-color: #3366CC; 
-       color: #000000;
-       width: 90px;
-       border-style: solid; 
-       border-color: #000099; 
-       border-width: 1px; 
-       padding: 2px;
-       font-size : 12px;
-       font-family: arial,helvetica;
-       font-weight: bold;
-       line-height: 16px;}
-	
-.menu A:hover {color: orange;}
+<html><head>
+<title>TicketCity.com - Sports Tickets</title>
+<meta name="description" content="Ticket City.com sells tickets for the NFL, NBA, NHL, NCAA football, Nascar, the Superbowl, Final Four, World Series, auto racing, U.S. Open, Masters, and bowl games.">
+<meta name="keywords" content="tickets online,tickets,pro football,basketball,major league baseball,final four,world series,U.S. Open,hockey,NFL,NBA,NHL">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-.menu A {text-decoration: none; color: white;}
-
-.bob A {text-decoration: none; color: white;}
-
-.bob A:hover {color: #FFFF00;}
--->
-</style>
+<link rel="stylesheet" type="text/css" href="css/AAmenu.css" title="master">
 <script language="javascript">
-
 //do browser detect stuff
 var isNS = (navigator.appName == "Netscape");
 var isMacIE = ( (navigator.userAgent.indexOf("IE 4")  > -1) && (navigator.userAgent.indexOf("Mac")  > -1) );
@@ -44,9 +20,76 @@ var activeMenu = 0;
 var finalClip;
 
 
+function activateMenu(menuLayerRef, offset) {
+	
+	if (isDynamic && activeMenu != menuLayerRef) {
+
+		if (activeMenu) hideMenu("menu" + activeMenu);
+			
+		menuID = "menu" + menuLayerRef;
+		activeMenu = menuLayerRef;
+	
+		if (isNS) {
+			document[menuID].top = 77;
+			document[menuID].left = offset-2;
+		} else {
+			document.all[menuID].style.pixelTop = 81;
+			document.all[menuID].style.pixelLeft = offset;
+		}
+
+		showMenu(menuID)
+		
+	}
+	if (isDynamic && !isNS) window.event.cancelBubble = true;
+}
+
+function showMenu(layerID) {
+	eval(layerRef + '["' + layerID + '"]' + styleRef + '.visibility = "visible"');
+}
+
+function hideMenu(layerID) {
+	eval(layerRef + '["' + layerID + '"]' + styleRef + '.visibility = "hidden"');
+}
+
+function killMenu(e) {
+	//check if theres a menu active
+	if (activeMenu) {
+		menuID = "menu" + activeMenu;
+		if (isNS) {
+			menuX1 = document[menuID].left;
+			menuX2 = menuX1 + document[menuID].clip.right;
+			menuY1 = document[menuID].top;
+			menuY2 = menuY1 + document[menuID].clip.bottom;
+			
+			if (e.pageX < menuX1 || e.pageX > menuX2 || e.pageY > menuY2) {
+				hideMenu(menuID);
+				activeMenu = 0;
+			}
+		} else {
+				hideMenu(menuID);
+				activeMenu = 0;
+
+		}
+	}  
+
+}
+
+
+function init() {
+	if (isDynamic) {
+		if (isNS) { 
+			document.captureEvents(Event.MOUSEMOVE); 
+			document.onmousemove = killMenu;
+		} else {
+			document.onmouseover = killMenu;
+		}
+		
+	}
+}
+
 function ChckSts()
 {
-	popupWin = window.open("chcksts.asp", 'checkstatus', 'width=150,height=180');
+	popupWin = window.open("http://www.ticketcity.com/chcksts.asp", 'checkstatus', 'width=150,height=220');
 	window.top.name = 'opener';
 }
 
@@ -75,138 +118,264 @@ if (document.layers) {
 document.captureEvents(Event.MOUSEDOWN);
 }
 document.onmousedown=click;
-
 //-->
-</script>
+</script><script language="javascript">
+// this will open a new window, submit the poll form, and send the results to the popup window
+function pollSubPop (url, name, widgets, specialsURL) 
+{
+	popupWin = window.open(url, name, widgets);
+	popupWin.opener.top.name = "opener";
+	popupWin.focus();
+}
+</script><script language="javascript">
+window.name = "_thewindow";
+browser = navigator.appName;
+version = navigator.appVersion;
+os = navigator.platform;
+ie = "Microsoft Internet Explorer";
+netscape = "Netscape";
+mac = "MacPPC";
 
-<!-- #BeginEditable "javascript" -->
-<!-- #EndEditable -->
+if(browser == netscape && os != mac) {
+   document.write('<link rel=stylesheet type="text/css" href="/css/NSNAV.css" title=master>');
+}  else {
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+   document.write('<link rel=stylesheet type="text/css" href="/css/ieNAV.css" title=master>'); 
+}
+</script><link rel="stylesheet" type="text/css" href="/css/NSNAV.css" title="master">
 
-</head><body bgcolor="#FFFFFF" leftmargin="0" topmargin="2" marginwidth="0" marginheight="0" link="#000066">
+</head><body bgcolor="#FFFFFF" leftmargin="0" alink="orange" topmargin="2" marginwidth="0" marginheight="0" link="#000066" onload="init();">
+
 <table border="0" cellspacing="0" cellpadding="0" width="727">
   <tbody><tr> 
-    <td colspan="6" bgcolor="#000000"><img src="images/blackdot.GIF" width="1" height="4"></td>
-    <td colspan="2" rowspan="3"><img src="images/rightsportscorner2.gif" width="28" height="62"></td>
+    <td colspan="6" bgcolor="#000000"><img src="/images/blackdot.GIF" width="1" height="4"></td>
+    <td colspan="2" rowspan="3"><img src="/images/rightsportscorner2.GIF" width="28" height="62" border="0"></td>
   </tr>
+  
   <tr> 
-    <td rowspan="5" bgcolor="#6699CC" width="119" valign="bottom"><a href="index.asp"><img src="images/logo.gif" width="119" height="94" border="0"></a></td>
+    <td rowspan="5" bgcolor="#6699CC" width="119" valign="bottom"><a href="http://www.ticketcity.com/index.asp"><img height="102" width="119" src="/images/logonew.gif" border="0"></a></td>
+    
     <td bgcolor="#6699CC">&nbsp;</td>
-    <td colspan="2"><img src="images/bluegrad.jpg" width="258" height="32"></td>
+    <td colspan="2"><img src="/images/bluegrad.jpg" width="258" height="32"></td>
     <td height="32">&nbsp;</td>
-    <td rowspan="2" width="153" align="left" bgcolor="#000099"><!-- #BeginEditable "image" --><img src="images/img_natb.jpg" width="153" height="58"><!-- #EndEditable --></td>
+    <td rowspan="2" width="153" align="left" bgcolor="#FFFFFF"><img src="/images/img_major.jpg" width="153" height="58"></td>
   </tr>
+  
   <tr> 
     <td bgcolor="#6699CC">&nbsp;</td>
-    <td colspan="3"><img src="images/tabs_unselected.gif" width="400" height="26" usemap="#Map" border="0"><map name="Map"><area shape="poly" coords="86,3" href="#"><area shape="rect" coords="3,2,86,26" href="index.asp"><area shape="rect" coords="87,1,198,24" href="sports.asp"><area shape="rect" coords="200,2,387,31" href="entertainment.asp"></map></td>
+    <td colspan="3" align="left" width="420"><img src="/images/tabs_unselected.gif" width="400" height="26" usemap="#MapMap" border="0"><map name="MapMap"><area shape="rect" coords="209,5,379,24" href="http://www.ticketcity.com/entertainment.asp"><area shape="rect" coords="97,5,187,25" href="http://www.ticketcity.com/sports.asp"><area shape="rect" coords="9,5,76,24" href="http://www.ticketcity.com/index.asp"></map></td>
   </tr>
-  <tr> 
-    <td width="8" bgcolor="#000099" align="left"><img src="images/leftbluearc.GIF" width="4" height="24"></td>
-    <td colspan="4" bgcolor="#000099" align="right"><!-- #BeginEditable "catergories" --><font face="ARIAL" size="2" color="#FFFFFF"><font face="ARIAL" size="2" color="#FFFFFF"><font face="ARIAL" size="2" color="#FFFFFF"><font face="ARIAL" size="2" color="#FFFFFF"><font face="ARIAL" size="2" color="#FFFFFF"><b>&nbsp;THE 
-      ONLINE TICKET SOURCE - SPORTS, CONCERTS, THEATRE</b></font></font></font></font></font><!-- #EndEditable --></td>
+    <tr> 
+    <td width="8" bgcolor="#000099" align="left"><img src="/images/leftbluearc.GIF" width="4" height="24"></td>
+    <!--MENU on topnav-->
+    <td colspan="4" bgcolor="#000099" class="bobig" align="right">&nbsp;</td>
     <td width="26" bgcolor="#000099">&nbsp;</td>
-    <td width="2" bgcolor="#000000"><img src="images/blackdot.GIF" width="2" height="1"></td>
+    <td width="2" bgcolor="#000000"><img src="/images/blackdot.GIF" width="2" height="1"></td>
   </tr>
   <tr> 
     <td bgcolor="#000099" rowspan="2">&nbsp;</td>
-    <form name="form" method="get" action="search.asp"></form>
-      <td colspan="3" rowspan="2" bgcolor="#000099" valign="bottom"> <font color="#FF9933" face="arial"><b>&nbsp;&nbsp;search 
+    <form name="form" method="get" action="http://www.ticketcity.com/search.asp"></form>
+      
+      <td colspan="3" rowspan="2" bgcolor="#000099" valign="bottom" align="left">
+      <table border="0" bgcolor="#000099">
+      <tbody><tr>
+      <td width="280" bgcolor="#000099" align="center">
+		 <font color="#FF9933" face="arial"><b>&nbsp;&nbsp;search 
         <font size="2"> 
-        <input type="text" name="strSearch" size="20">
+        <input type="text" name="strSearch" maxlength="20" size="15">
         </font> </b></font> 
-        <input type="submit" name="Submit2" value="get!">
+        <input type="image" src="/images/getit.gif" name="Submit" value="Submit" width="23" height="23" border="0">
       </td>
+      <td width="*">
+      &nbsp;
+      </td>
+      </tr>
+      </tbody></table>
+      
+      
+     </td>
+     
     
-    <td colspan="2" bgcolor="#000099" valign="bottom"><img src="images/orngshad.GIF" width="179" height="8"></td>
-    <td bgcolor="#000000" width="2"><img src="images/blackdot.GIF" width="1" height="1"></td>
+     
+    <td colspan="2" bgcolor="#000099" valign="bottom">
+    
+    <table>
+    <tbody><tr>
+    <td></td>
+    </tr>
+    </tbody></table>
+    
+    </td>
+    <td bgcolor="#000000" width="2"><img src="/images/blackdot.GIF" width="1" height="1"></td>
   </tr>
   <tr> 
-    <td bgcolor="#FF9933" align="center" height="24" colspan="2"><!-- #BeginEditable "boxoflove" --><b><font face="arial" size="2" color="#00000"><a href="specials.htm">ticket 
-      specials</a> </font></b><!-- #EndEditable --></td>
-    <td bgcolor="#000000"><img src="images/blackdot.GIF" width="1" height="1"></td>
+    <td bgcolor="#000099" align="left" valign="bottom" height="24" colspan="2" class="bob">&nbsp;<!--<img src="/images/shippingnew.gif" height="26" width="163" border="0">--></td>
+    <td bgcolor="#000000"><img src="/images/blackdot.GIF" width="1" height="1"></td>
   </tr>
   <tr> 
-    <td height="4" bgcolor="#000099"><img src="images/blackdot.GIF" width="1" height="4"></td>
-    <td colspan="7" height="4" bgcolor="#000000"><img src="images/dkbluedot.gif" width="1" height="1"></td>
+    <td height="4" bgcolor="#000000"><img src="/images/blackdot.GIF" width="1" height="1"></td>
+    <td colspan="7" height="4" bgcolor="#000000"><img src="/images/dkbluedot.gif" width="1" height="1"></td>
   </tr>
 </tbody></table>
 <table width="727" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr> 
-    <td width="120" height="194" valign="top" bgcolor="#6699CC"> 
-      <table width="119" border="0" cellpadding="0" cellspacing="0" height="530">
-        <tbody><tr> 
-          <td width="2" rowspan="2" bgcolor="#FFFFFF">&nbsp;</td>
-          <td width="117" bgcolor="#000099" height="136" valign="top" align="right" class="bob"> 
-            <!-- #BeginEditable "community" --><div align="CENTER">
-              <div align="center"><font color="#FFFFFF"><b><font face="Arial, Helvetica, sans-serif" size="2" color="#99CCFF">SECURITY 
-                </font></b></font><br>
-              </div>
-              <hr width="80%" noshade="" align="center">
-              <font face="Arial" size="2"><b><a href="#secure"><font color="#FFFFFF">SECURE ORDERS&nbsp;</font></a><br>
-              <a href="#privacy"><font color="#FFFFFF">PRIVACY POLICY&nbsp;</font></a><br>
-              <a href="#cont"><font color="#FFFFFF">CONTACT US&nbsp;</font></a><br>
-              </b></font></div>
-            <!-- #EndEditable --></td>
-        </tr>
-        <tr> 
-          <td width="117" height="12"><img src="images/blucategoryshado.GIF" width="117" height="12"></td>
-        </tr>
-        <tr> 
-          <td width="117" bgcolor="#6699CC" colspan="2"> 
-            <table border="1" cellpadding="0" cellspacing="0" bordercolor="#000000" bgcolor="#6699CC" width="120">
-              <tbody><tr bgcolor="#CCCCFF" valign="middle"> 
-                <td align="center" height="61"> <a href="events.asp"><img src="images/mseaninew.gif" width="114" height="57" border="0"></a></td>
+  <td width="120" height="194" valign="top" bgcolor="#6699CC">    <table width="120" border="0" cellpadding="0" cellspacing="0" height="530">
+     <tbody><tr> 
+     <td width="120" bgcolor="#6699CC" colspan="2"> 
+           
+           <!--FEATURED EVENTSa-->
+           <table border="0" cellpadding="0" cellspacing="0" bgcolor="#ffffff" width="120">
+              <tbody><tr valign="middle"> 
+                <!--td align="center" height="61" bgcolor="#000099"--> <!--a href="http://www.ticketcity.com/events.asp"--><!--img src="images/mseaninew.gif" width="114" height="57" border="0"--><!--/a--><!--/td-->
+                <td align="center" height="61" bgcolor="#000099"> <a href="liveinventory/home.htm"><img src="/images/rttlnk2.gif" width="114" height="57" border="0"></a></td>
+              </tr>			  
+			  <tr>
+			  <td height="17" class="navCat"><b><a href="http://www.ticketcity.com/specials.asp">&nbsp;FEATURED EVENTS</a></b></td>
+              </tr>    
+                            
+               <tr class="lnBGS" align="center"><td height="17" class="lns"><a href="http://www.ticketcity.com/worldcup.asp">World Cup Soccer</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  		    
+			  <tr class="lnBGS" align="center"><td height="17" class="lns"><a href="/list.asp?team=mjusopen&amp;request=the+US+Open">US Open Golf</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+			  <tr class="lnBGS" align="center"><td height="17" class="lns"><a href="/hockey.asp#playoffs">NHL Playoffs</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>			  
+			 
+			  <tr class="lnBGS" align="center"><td height="17" class="lns"><a href="/basketball.asp#playoffs">NBA Playoffs</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr> 
+			  
+         </tbody></table> 
+          
+		 <!-- END FEATURED EVENTS -->
+		 
+		 <table border="0" cellpadding="0" cellspacing="0" bgcolor="#000099" width="120">
+			 <tbody><tr><td><spacer type="block" width="1" height="2"></spacer></td></tr>
+          <tr><td height="18" class="navCat">&nbsp;SHOPPING</td>
               </tr>
-              <tr> 
-                <td bgcolor="#000099"><font face="arial" size="2" color="#FFFFFF"><b>&nbsp;SHOPPING</b></font></td>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="javascript:ChckSts();">Order Status</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="https://secure.ticketcity.com/ticket/ShopCart.asp">Shopping Cart</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/schedule.asp">Future Events</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="https://secure.ticketcity.com/ticketcity/sell2.shtml">Selling Tickets</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="https://secure.ticketcity.com/ticketcity/giftcert.shtml">Gift Certificates</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="https://secure.ticketcity.com/ticketcity/boxoffice.shtml">Event Request</a></td></tr>
+			  
+			   			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			    <tr><td height="17" class="navCat"><a href="http://www.ticketcity.com/sports.asp">&nbsp;SPORTS</a></td>
               </tr>
-              <tr> 
-                <td bgcolor="#6699CC" height="134" valign="top"> &nbsp;<a href="javascript:ChckSts();"><font face="arial" size="2" color="#FFFFFF">Order 
-                  Status</font></a><br>
-                  &nbsp;<a href="https://secure.ticketcity.com/ticket/ShopCart.asp"><font face="arial" size="2" color="#FFFFFF">Shopping 
-                  Cart</font></a><br>
-                  &nbsp;<a href="schedule.htm"><font face="arial" size="2" color="#FFFFFF">Future 
-                  Events</font></a><br>
-                  &nbsp;<a href="https://secure.ticketcity.com/ticketcity/sell.htm"><font face="arial" size="2" color="#FFFFFF">Selling 
-                  Tickets</font></a><br>
-                  &nbsp;<a href="https://secure.ticketcity.com/ticketcity/giftcert.htm"><font face="arial" size="2" color="#FFFFFF">Gift 
-                  Certificates</font></a><br>
-                  &nbsp;<a href="https://secure.ticketcity.com/ticketcity/boxoffice.htm"><font face="arial" size="2" color="#FFFFFF">Event 
-                  Request</font></a></td>
+              
+              <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/events.asp">Major Events..</a></td></tr>
+			
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/basketball.asp">Pro Basketball</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/hockey.asp">Hockey</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/football.asp">Pro Football</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/baseball.asp">Baseball</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/golf.asp">Golf</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/soccer.asp">Soccer</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/list.asp?team=boxing&amp;request=Boxing">Boxing</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  			   
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/nascar.asp">Auto Racing</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/horseracing.asp">Horse Racing</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			 
+			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/tennis.asp">Tennis</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			 
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/cfoot.asp">College Football</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/cbasket.asp">College Basketball</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+			 		  
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/other.asp">More..</a></td></tr>
+			  
+			  
+			    			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			    <tr><td height="17" class="navCat"><a href="http://www.ticketcity.com/entertainment.asp">&nbsp;ENTERTAINMENT</a></td>
               </tr>
-              <tr> 
-                <td bgcolor="#000099"><b><font face="ARIAL" size="2" color="#FFFFFF">&nbsp;HELP 
-                  DESK</font></b></td>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/concerts.asp">Concerts</a></td></tr>
+			   <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/theatre.asp">Broadway Theatre</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			   <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/lvtheatre.asp">Las Vegas Shows</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/awards.asp">Awards Shows</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/othertheatre.asp">Other Theatre..</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+	
+			  <tr><td height="17" class="navCat"><b>&nbsp;HELP DESK</b></td>
               </tr>
-              <tr bgcolor="#6699CC"> 
-                <td height="105" valign="top">&nbsp;<a href="faq.htm"><font face="ARIAL" size="2" color="#FFFFFF">FAQs</font></a><br>
-                  &nbsp;<a href="info.htm"><font face="arial" size="2" color="#FFFFFF">Company 
-                  Info</font></a><br>
-                  &nbsp;<a href="policy.htm"><font face="arial" size="2" color="#FFFFFF">Sales 
-                  Policies</font></a><br>
-                  &nbsp;<a href="email_form.asp"><font face="arial" size="2" color="#FFFFFF">E-mail 
-                  Us</font></a><br>
-                  &nbsp;<a href="affiliate.asp"><font color="#FFFFFF" face="arial" size="2">Affiliates</font></a> 
-                </td>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/faq.asp">FAQs</a></td></tr>
+			   <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/info.asp">Company Info</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/policy.asp">Sales Policies</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/email_form.asp">Contact Us</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+			  <tr><td height="17" class="navCat"><b>OTHER SERVICES</b></td>
               </tr>
-              <tr align="center" valign="middle"> 
-                <td height="72" bgcolor="#CCCCFF"><a href="travel.htm"><img src="images/trvlqot.gif" width="114" height="68" border="0" alt="travel tickets quotes online"></a></td>
-              </tr>
-              <tr align="right" valign="bottom"> 
-                <td><br>
-                  <font size="2" face="arial" color="#000099">or call direct</font></td>
-              </tr>
-              <tr align="left" bgcolor="#000099"> 
-                <td valign="top"><font face="ARIAL" size="2" color="#FFFFFF"><b> 
-                  &nbsp;(888) 888-4253</b></font></td>
-              </tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/travel.asp">Travel Quotes</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://ticketcity.store.fanbuzz.com">Apparel</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.hallofsports.com/index.cfm/store/ticketcity">Memorabilia</a></td></tr>
+			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.limolink.com/ticketcity">Limousine Rental</a></td></tr>
+   			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+	          <tr class="lnBG"><td height="17" class="ln">&nbsp;&nbsp;&nbsp;<a href="http://www.ticketcity.com/affiliate.asp">Affiliate Program</a></td></tr>
+   			  <tr><td height="2"><spacer type="block" width="1" height="2"></spacer></td></tr>
+			  
+			  
+             
             </tbody></table>
+            
+          </td>
+        </tr>
+		</tbody></table>
+		
+<!-- html below is to complete the navigation table cell,
+ and create the middle (main) content cell on a page 
+ that includes this file -->
+      
+        </td>     
+  <td width="577" valign="top" align="center">
+
+<table width="100%" border="2" cellspacing="0" cellpadding="0" bordercolor="#CCCCCC">
+        <tbody><tr align="right"> 
+          <td> 
+            <h1><font face="arial">TICKET CITY SECURITY</font></h1>
           </td>
         </tr>
       </tbody></table>
-    </td>
-    <td width="603" rowspan="2" align="right" valign="top"> <!-- #BeginEditable "mainarea" -->
       <p> 
         </p><p> 
         </p><table width="85%">
@@ -214,39 +383,45 @@ document.onmousedown=click;
           <td> <a name="secure"></a> 
             <p><font face="Arial" size="4"><br>
               Secure Ordering</font> 
-            </p><p><font face="Arial" size="2">Your information is secure because 
-              TicketCity.com uses state-of-the-art secure server software (SSL) 
-              to prevent your valuable information from being tampered with or 
-              compromised in any way.<br>
+            </p><p align="justify"><font face="Arial, Helvetica, sans-serif" size="2">Your 
+              information is secure with TicketCity.com. We use state-of-the-art 
+              secure server software (SSL) to prevent your valuable information 
+              from being visible to third parties.<br>
               </font> 
             </p><p> 
-            </p><p align="justify"><font face="Arial" size="2"> Our secure server 
-              software encrypts the information you enter before it is sent over 
-              the Internet. This greatly decreases the ability of outsiders to 
-              gain access to, and use your personal data or credit card information. 
-              When you order from TicketCity.com, you will be joining one of the 
-              thousands of people who have placed orders or inquiries with us 
-              online without credit card fraud. </font> 
-            </p><p> 
-          </p></td>
+            </p><p align="justify"><font face="Arial, Helvetica, sans-serif" size="2"> 
+              Our secure server software encrypts the information you enter before 
+              it is sent over the Internet. This greatly decreases the ability 
+              of outsiders to gain access to, and use your personal data or credit 
+              card information. When you order from TicketCity.com, you will be 
+              joining one of the thousands of people who have placed orders or 
+              inquiries with us online without credit card fraud.<br>
+              <br>
+              </font><font size="2" face="Arial, Helvetica, sans-serif" color="#000000">You 
+              can know which pages are secure on our site and any site by looking 
+              at the URL in your browser's address bar. You will see that our 
+              shopping cart pages begin with "http<b>s</b>://" instead of "http://," 
+              indicating that those pages are secure. Many browers also display 
+              a lock symbol <img src="images/mini_lock.gif"> at the bottom of 
+              the page which you can view to check a page's security.</font></p>
+          </td>
         </tr>
         <tr> 
           <td> 
             <hr color="000000" size="3">
             <a name="privacy"></a> 
             <p><font face="Arial" size="4">Privacy Statement</font> 
-            </p><p><font face="Arial" size="2">TicketCity.com has created this privacy 
-              statement in order to demonstrate our firm commitment to privacy. 
-              The following discloses our information gathering and dissemination 
-              practices for this website. We use your IP address to help diagnose 
-              problems with our server, and to administer our web site. Your privacy 
-              is assured because you have our promise that any personal information 
-              you provide will never be used by anyone not employed by TicketCity.com. 
-              It is not the policy of TicketCity.com to loan, sell, or share customer 
-              information to anyone.<br>
-              </font> 
-            </p><p> 
-            </p><p align="justify"><font face="Arial" size="2"> Our site uses an order 
+            </p><p align="justify"><font face="Arial" size="2">TicketCity.com has 
+              created this privacy statement in order to demonstrate our firm 
+              commitment to privacy. The following discloses our information gathering 
+              and dissemination practices for this website. We use your IP address 
+              to help diagnose problems with our server, and to administer our 
+              web site. Your privacy is assured because you have our promise that 
+              any personal information you provide will never be used by anyone 
+              not employed by TicketCity.com. It is not the policy of TicketCity.com 
+              to loan, sell, or share customer information to anyone.<br>
+              </font></p>
+            <p align="justify"><font face="Arial" size="2"> Our site uses an order 
               form for customers to request information, products, and services. 
               We collect visitor's contact information and financial information. 
               Contact information from the order form is used to send orders and 
@@ -273,38 +448,44 @@ document.onmousedown=click;
         </tr>
       </tbody></table>
       <!-- #EndEditable --></td>
-    <td width="4" rowspan="3" align="right" valign="top" bgcolor="#000000"><img src="images/blackdot.GIF" width="1" height="1"></td>
+
+
+
+    <td width="4" rowspan="3" align="right" valign="top" bgcolor="#000000"><img src="/images/blackdot.GIF" width="1" height="1"></td>
   </tr>
   <tr> 
     <td width="120" valign="top" bgcolor="#6699CC" height="100%">&nbsp;</td>
   </tr>
 </tbody></table>
+
 <table width="727" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr> 
-    <td width="120" bgcolor="#6699CC"><img src="images/bluedot.gif" width="1" height="1"></td>
-    <td width="94" align="left"><img src="images/bluarc.gif" width="94" height="41"></td>
-    <td width="510">&nbsp;</td>
-    <td width="4" bgcolor="#000000"><img src="images/blackdot.GIF" width="3" height="1"></td>
+    <td width="123" bgcolor="#6699CC"><img src="/images/bluedot.gif" width="1" height="1"></td>
+    <td width="94" align="left"><img src="/images/bluarc.gif" width="94" height="41"></td>
+    <td width="504">&nbsp;</td>
+    <td width="4" bgcolor="#000000"><img src="/images/blackdot.GIF" width="3" height="1"></td>
   </tr>
 </tbody></table>
 <table width="727" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr bgcolor="#000000"> 
     <td align="left" height="18"> 
-      <div align="center"><img src="images/blkarc.gif" width="13" height="18"></div>
+      <div align="center"><img src="/images/blkarc.gif" width="13" height="18"></div>
     </td>
-    <td width="236" height="18" align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><a href="https://secure.ticketcity.com/ticketcity/guestbook.htm"><b><font size="1" color="#ffffff">MAILING 
+    <td width="236" height="18" align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><a href="https://secure.ticketcity.com/ticketcity/guestbook.shtml"><b><font size="1" color="#ffffff">MAILING 
       LIST </font></b></a></font></td>
-    <td width="2" height="18" align="center" bgcolor="#FFFFFF"><img src="images/white_dot.gif" width="2" height="1"></td>
+    <td width="2" height="18" align="center" bgcolor="#FFFFFF"><img src="/images/white_dot.gif" width="2" height="1"></td>
     <td width="237" align="center" valign="middle"> 
-      <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><font size="1"><b><a href="security.htm"><font color="#ffffff">PRIVACY 
-        &amp; SECURITY</font></a> <a href="security.htm"><img src="images/Header/mini_lock.gif" width="12" height="15" border="0" alt="Secure Site!"></a></b></font></font></div>
+      <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><font size="1"><b><a href="http://www.ticketcity.com/security.asp"><font color="#ffffff">PRIVACY 
+        &amp; SECURITY</font></a> <a href="security.asp"><img src="/images/Header/mini_lock.gif" width="12" height="15" border="0" alt="Secure Site!"></a></b></font></font></div>
     </td>
-    <td width="2" align="center" valign="middle" bgcolor="#FFFFFF"><img src="images/white_dot.gif" width="2" height="1"></td>
+    <td width="2" align="center" valign="middle" bgcolor="#FFFFFF"><img src="/images/white_dot.gif" width="2" height="1"></td>
     <td width="237"> 
       <div align="center"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><font size="1"><b>© 
-        1998-2000 TICKETCITY.COM</b></font></font></div>
+        1998-2001 TICKETCITY.COM</b></font></font></div>
     </td>
   </tr>
 </tbody></table>
 
-<!-- #EndTemplate --></body></html>
+
+
+</body></html>
