@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the rockymountainnews.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002032103id_/http%3A//www.rockymountainnews.com/drmn/home/article/1%2C1299%2CDRMN_1_3162%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockymountainnews.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623075948id_/http%3A//www.rockymountainnews.com/drmn/home/article/1%2C1299%2CDRMN_1_3162%2C00.html) for the most accurate reproduction.*
 
 # Rocky Mountain News
-
-|   [Classifieds](http://www.postnewsmarketplace.com/)| |   [Autos](http://www.postnewsautos.com/)| |   [Jobs](http://www.postnewsjobs.com/)| |   [Homes](http://www.postnewsrealestate.com/)| |   [Ad Search](http://www.post-newsadsearch.com/)| |   [Yellow Pages](http://www.ypengine.com/yp.cfm?brd=2389) |  |   
----|---|---|---|---|---|---|---|---|---|---|---|---  
-  |    
-|   | 
 
   
 RockyMountainNews.com privacy policy
@@ -45,6 +40,3 @@ We use our best efforts to ensure the security of personal information submitted
 At any time while assessing our site(s), any user while online may "opt-out" of further e-mail contact from us (while still allowing access to our sites). For further information about opting-out, contact us at the e-mail address, postal address or telephone number stated above. **VII. Use of Materials**   
 The right to download and store or output the materials in our sites is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **talktous@RockyMountainNews.com**. To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](https://web.archive.org/home/article/1,1299,DRMN_1_3088,00.html).   
 
-
-|    
----|---|---|---|---
