@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623090403id_/http%3A//www.mysql.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysql.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009220847id_/http%3A//www.mysql.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,3 +72,5 @@ You can review and validate the information, that we have collected about you by
 ## Contacting the Web Site
 
 If you have any questions or comments about this privacy statement, the practices of this site, or your dealings with this Web Site, you can contact <[webmaster@mysql.com](mailto:webmaster@mysql.com)> and/or <[privacy@mysql.com](mailto:privacy@mysql.com)>
+
+_Last modified: October 12, 2001_
