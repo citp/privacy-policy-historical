@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astro.com.my privacy policy that was archived on 2002-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021213155640id_/http%3A//astro.com.my/v2/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astro.com.my privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608231128id_/http%3A//astro.com.my/v3/footer/privacy.html) for the most accurate reproduction.*
 
 # www.astro.com.my
 
