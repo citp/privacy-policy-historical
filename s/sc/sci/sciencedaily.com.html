@@ -1,385 +1,699 @@
-<!--The following is the downloaded HTML source of the sciencedaily.com privacy policy that was archived on 2004-06-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040623092249id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sciencedaily.com privacy policy that was archived on 2004-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206195706id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>ScienceDaily: Our Privacy Policy</title>
 	<meta content="text/html; charset=ISO-8859-1">
 	<meta name="Description" content="<!-- SUMMARY -->">
 	<meta name="Keywords" content="<!-- KEYWORDS -->">
 	<meta name="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; by &quot;editor@sciencedaily.com&quot; for &quot;http://www.sciencedaily.com&quot; on &quot;1997.05.07T20:05-0500&quot; r (n 0 s 0 v 0 l 0))">
-	<script language="JavaScript">
+	<link rel="top" title="Your link to the latest research news" href="http://www.sciencedaily.com">
+	<link rel="search" title="Search ScienceDaily" href="http://www.sciencedaily.com/search/">
+	<link rel="alternate" title="ScienceDaily RSS" href="http://www.sciencedaily.com/newsfeed.xml" type="application/rss+xml">
+	<script language="JavaScript" type="text/javascript">
 	<!--
-	document.domain = document.domain.substring(document.domain.indexOf('.') + 1);
-	if (document.domain != 'sciencedaily.com' && document.domain != 'sciencedaily.org' && document.domain != 'sciencedaily.net' && document.domain != 'localhost') {
+	thisDomain = document.domain.substring(document.domain.indexOf('.') + 1);
+	if (thisDomain != 'sciencedaily.com' && thisDomain != 'sciencedaily.org' && thisDomain != 'sciencedaily.net' && document.domain != 'localhost' && document.domain != '127.0.0.1') {
 		document.open();
 		document.write('<base href="http://www.sciencedaily.com">');
 		document.close();
 	}
+	sfHover = function() {
+		if (document.getElementById && document.getElementsByTagName) {
+			var sfEls = document.getElementById("nav").getElementsByTagName("LI");
+			for (var i=0; i<sfEls.length; i++) {
+				sfEls[i].onmouseover=function() {
+					this.className+=" sfhover";
+				}
+				sfEls[i].onmouseout=function() {
+					this.className=this.className.replace(new RegExp(" sfhover\\b"), "");
+				}
+			}
+		}
+	}
+	if (window.attachEvent) window.attachEvent("onload", sfHover);
+	toggle = function() {
+		if (readCookie('menutoggle')) {
+			displayValue = readCookie('menutoggle');
+		} else {
+			displayValue = 'block';
+		}
+		if (document.getElementById) {
+			document.getElementById('menutoggle').style.display = displayValue;
+		}
+	}
+	if (window.attachEvent) window.attachEvent("onload", toggle);
 	//-->
 	</script><base href="http://www.sciencedaily.com">
+	<script language="JavaScript" src="/scripts/functions.js" type="text/javascript"></script>
+	<script language="JavaScript" src="/scripts/setbasestyle.js" type="text/javascript"></script>
  	<script language="JavaScript1.2" src="/scripts/links.js"></script>
- 	<script language="JavaScript" src="/scripts/browser.js"></script>
+	<style type="text/css">
+		@import "/styles/navbar.css";
+		@import "/styles/tabStyles.css";
+	</style>
 	<noscript>
-		<link href="/styles/small.css" rel="stylesheet" type="text/css">
+		<link href="/styles/smallfont.css" rel="stylesheet" type="text/css">
 	</noscript>
 </head>
 
-<body bgcolor="#232850" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0" onload="search.keyword.focus();">
 
-<script language="JavaScript" src="/scripts/styles.js" type="text/javascript"></script>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="300" align="left"><a href="/"><img src="/images/banner.gif" alt="ScienceDaily Magazine Your source for the latest research news" width="300" height="100" border="0"></a></td>
-		<td width="100%" align="center" valign="top">
-			<form id="form" action="/search/">
-			<img src="/images/spacer.gif" height="10" width="315" alt=""><br>
-			<table width="285" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td width="270" colspan="3" valign="top" align="left"><span class="searchhead"><a href="/search/" class="searchhead" title="... more search options"><strong>Search news, books, &amp; links</strong></a></span><br>
-						<table width="270" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="270" bgcolor="#ffd700" class="gold"><img src="/images/spacer.gif" height="1" width="270" alt=""></td></tr></tbody></table>
-					</td>
-					<td width="15" rowspan="4"><img src="/images/spacer.gif" height="1" width="15" alt=""></td>
-				</tr>
-				<tr>
-					<td width="270" colspan="3"><img src="/images/spacer.gif" height="8" width="270" alt=""></td>
-				</tr>
-				<tr>
-					<td valign="middle" align="right"><span class="searchtext"><strong>Match: &nbsp;</strong></span></td>
-					<td valign="top" align="right" colspan="2"><span class="searchtext"><input type="text" name="keyword" value="keyword(s)" size="18" class="keyword" onfocus="this.value=''"></span></td>
-				</tr>
-				<tr>
-					<td valign="middle" align="right"><span class="searchtext"><strong>sort&nbsp;by: &nbsp;</strong></span></td>
-					<td valign="middle" align="left"><span class="searchtext"><input type="radio" name="sort" checked="" value="relevance" class="radio">relevance <input type="radio" name="sort" value="date" class="radio">date</span></td>
-					<td valign="bottom" align="right"><input type="submit" value="Find" class="find"></td>
-				</tr>
-			</tbody></table>
-			</form>
-		</td>
-		<td width="176" align="right" valign="top">
-			<img src="/images/spacer.gif" height="10" width="176" alt=""><br>
-			<table width="176" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td width="168" valign="top" align="right">
-						<span class="searchhead"><strong>Free Services</strong></span><br>
-						<table width="168" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="168" bgcolor="#ffd700" class="gold"><img src="/images/spacer.gif" height="1" width="168" alt=""></td></tr></tbody></table>
-					</td>
-					<td width="8"><img src="/images/spacer.gif" height="1" width="8" alt=""></td>
-				</tr>
-				<tr>
-					<td width="176" colspan="2"><img src="/images/spacer.gif" height="7" width="176" alt=""></td>
-				</tr>
-				<tr>
-					<td width="168" valign="top" align="left"><span class="header">&gt; <a href="/subscribe/updates.htm" class="header"><strong>Subscribe by email</strong></a></span><br>
-						<img src="/images/spacer.gif" width="168" height="2" alt=""><br>
-						<span class="header">&gt; <a href="/subscribe/newsfeed.htm" class="header"><strong>RSS newsfeeds</strong></a> <img src="/images/new.gif" alt="new" width="28" height="14" border="0"></span><br>
-						<img src="/images/spacer.gif" width="168" height="2" alt=""><br>
-						<span class="header">&gt; <a href="/subscribe/pda.htm" class="header"><strong>PDA-friendly format</strong></a></span></td>
-					<td width="8"><img src="/images/spacer.gif" height="1" width="8" alt=""></td>
-				</tr>
-            </tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+<script language="JavaScript" src="/scripts/changestyle.js" type="text/javascript"></script>
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td valign="top" colspan="4">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td class="navbar">
-<script>loc="/images/"</script>
-<script src="/scripts/xaramenu.js"></script>
-<script src="/images/navbar.js"></script>
-					</td>
-					<td bgcolor="#83A3CB" width="100%"><img src="/images/spacer.gif" height="1" width="1" alt=""></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td valign="top" rowspan="2" align="center" class="sidebar">
-		
-		<table border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-				<td><img src="/images/spacer.gif" height="2" width="176" alt=""></td>
-			</tr>
-			<tr>
-				<td><div align="right"><img src="/images/spacer.gif" height="23" width="1" alt=""><span class="textsize"><strong>Text size &gt;</strong> &nbsp;<a href="#" class="textsize1" onclick="setStyle('/styles/small.css'); return false;"><strong>A</strong></a> &nbsp;<a href="#" class="textsize2" onclick="setStyle('/styles/medium.css'); return false;"><strong>A</strong></a> &nbsp;<a href="#" class="textsize3" onclick="setStyle('/styles/large.css'); return false;"><strong>A</strong></a>&nbsp;&nbsp;&nbsp;</span></div></td>
-			</tr>
-			<tr>
-				<td><img src="/images/spacer.gif" height="3" width="176" alt=""></td>
-			</tr>
-		</tbody></table>
-
-		<table border="0" cellspacing="0" cellpadding="0">
+		<td width="265" bgcolor="#000066"><table border="0" cellspacing="0" cellpadding="0">
 		<tbody><tr>
-			<td class="career">
-			<table width="160" border="0" cellspacing="5" cellpadding="0" class="career">
-				<tbody><tr>
-					<form></form>
-					<td valign="top" align="left"><img src="/jobs/images/careerbuilder.gif" alt="Find great jobs with 
-CareerBuilder today!" width="140" height="31" border="0">
-					<div class="career"><strong>Find Jobs In:</strong></div>
-					&nbsp;&gt; <a href="http://healthcare.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyhc" class="career"><strong>Healthcare</strong></a><br>
-					&nbsp;&gt; <a href="http://sciencebiotech.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlysci" class="career"><strong>Science &amp; Biotech</strong></a><br>
-					&nbsp;&gt; <a href="http://engineering.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyeng" class="career"><strong>Engineering</strong></a><br>
-					<select id="channel" name="channel" onchange="window.location=channel.options[channel.selectedIndex].value" class="career">
-						<option value="http://www.careerbuilder.com/JobSeeker/Jobs/jobfindall.asp?lr=cbscidly&amp;siteid=scidlyall">&gt; more categories</option>
-						<option value="http://accounting.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyacc">Accounting</option>
-						<option value="http://accounting.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyadm">Admin &amp; Clerical</option>
-						<option value="http://bankingfinance.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlybank">Banking &amp; Finance</option>
-						<option value="http://college.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlycol">College</option>
-						<option value="http://www.sologig.com/">Contract / Freelance</option>
-						<option value="http://customerservice.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlycust">Customer Service</option>
-						<option value="http://www.careerbuilder.com/JobSeeker/Jobs/Diversity.htm?lr=cbscidly&amp;siteid=scidlydiv">Diversity</option>
-						<option value="http://engineering.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyeng">Engineering</option>
-						<option value="http://executive.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyexec">Executive</option>
-						<option value="http://healthcare.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyhc">Healthcare</option>
-						<option value="http://hospitality.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyhosp">Hospitality</option>
-						<option value="http://humanresources.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyhr">Human Resources</option>
-						<option value="http://informationtechnology.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyit">Information Tech</option>
-						<option value="http://www.careerbuilder.com/JobSeeker/Jobs/jobfindil.asp?lr=cbscidly&amp;siteid=scidlyintl">International</option>
-						<option value="http://manufacturing.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlymanf">Manufacturing</option>
-						<option value="http://nonprofit.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlynp">Nonprofit</option>
-						<option value="http://retail.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyret">Retail</option>
-						<option value="http://salesmarketing.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlysal">Sales &amp; Marketing</option>
-						<option value="http://sciencebiotech.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlysci">Science &amp; BioTech</option>
-						<option value="http://www.careerbuilder.com/JobSeeker/Jobs/jobfindall.asp?lr=cbscidly&amp;siteid=scidlyall">All Jobs by Job Type</option>
-						<option value="http://www.careerbuilder.com/JobSeeker/Jobs/jobfindin.asp?lr=cbscidly&amp;siteid=scidlyind">All Jobs by Industry</option>
-					</select><br>
-					</td>
-					
-				</tr>
-			</tbody></table>
-			</td>
+			<td colspan="2"><img src="/images/spacer.gif" height="8" width="1" alt=""></td>
 		</tr>
-		</tbody></table>
-
-			<div>&nbsp;</div>
-
-<table cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td>
-<!-- SKYSCRAPER AD 1 BEGIN -->
-<!-- TF 160x600 JScript VAR code -->
-<center><script language="javascript"><!--
-document.write('<scr'+'ipt language=javascript src="http://a.tribalfusion.com/j.ad?site=ScienceDailyMagazine&adSpace=ROS&size=160x600&type=var&pop=0&requestID='+((new Date()).getTime() % 2147483648) + Math.random()+'"></scr'+'ipt>');
-//-->
-</script><script language="javascript" src="http://a.tribalfusion.com/j.ad?site=ScienceDailyMagazine&amp;adSpace=ROS&amp;size=160x600&amp;type=var&amp;pop=0&amp;requestID=21188304680.5324581261192236"></script>
-<noscript>
-   <a href="http://a.tribalfusion.com/i.click?site=ScienceDailyMagazine&adSpace=ROS&size=160x600&requestID=608689093" target=_blank>
-   <img src="http://a.tribalfusion.com/i.ad?site=ScienceDailyMagazine&adSpace=ROS&size=160x600&requestID=608689093" 
-                  width=160 height=600 border=0 alt="Click Here"></a>
-</noscript>
-</center>
-<!-- TF 160x600 JScript VAR code -->
-<!-- SKYSCRAPER AD 1 END -->
-		</td>
-	</tr>
-</tbody></table>
-
-			<div>&nbsp;</div>
-
-<table cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td>
-<!-- SKYSCRAPER AD 2 BEGIN -->
+		<tr>
+			<td><img src="/images/spacer.gif" height="7" width="7" alt=""></td>
+			<td><a href="/"><img src="/images/sdlogo-blue.gif" alt="ScienceDaily Logo" title="ScienceDaily: Your link to the latest research news" width="260" height="80" border="0"></a></td>
+		</tr></tbody></table></td>
+		<td width="100%" bgcolor="#000066" rowspan="2"><table border="0" cellspacing="0" cellpadding="10"><tbody><tr>
+			<td>
 <!-- BEGIN RICH-MEDIA BURST! CODE -->
 <script language="JavaScript">
 rnum=Math.round(Math.random() * 100000);
-document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/sk10548a.cgi/v=2.0S/sz=120x600A|160x600A/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/sk10548a.cgi/v=2.0S/sz=120x600A|160x600A/27679/RETURN-CODE/JS/"></script>
-<noscript><a href="http://www.burstnet.com/ads/sk10548a-map.cgi/ns/v=2.0S/sz=120x600A|160x600A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/sk10548a.cgi/ns/v=2.0S/sz=120x600A|160x600A/" border="0" alt="Click Here"></a>
+
+document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi/v=2.0S/sz=468x60A|728x90A/'+rnum+'/NI/RETURN-CODE/JS/"></scr'+'ipt>');
+
+</script><script src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi/v=2.0S/sz=468x60A|728x90A/6886/NI/RETURN-CODE/JS/"></script>
+<noscript><a href="http://www.burstnet.com/ads/ad10548a-map.cgi/ns/v=2.0S/sz=468x60A|728x90A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi/ns/v=2.0S/sz=468x60A|728x90A/" border="0" alt="Click Here"></a>
 </noscript>
 <!-- END BURST CODE -->
-<!-- SKYSCRAPER AD 2 END -->
-		</td>
-	</tr>
-</tbody></table>
 
-			<div>&nbsp;</div>
-
-		</td>
+			</td>
+		</tr></tbody></table></td>
 	</tr>
 	<tr>
-		<td width="120" valign="top" class="menu">
-			<p class="menuhead"><a href="/" class="menuhead"><strong>Front Page</strong></a></p>
-				<div class="menutopic">&gt; <a href="/news/summaries.htm" class="menutopic">Today's Digest</a></div>
-				<div class="menutopic">&gt; <a href="/news/headlines.htm" class="menutopic">Week in Review</a></div>
-				<div class="menutopic">&gt; <a href="/subscribe/updates.htm" class="menutopic">Email Updates</a></div>
-				<div class="menutopic">&gt; <a href="/subscribe/newsfeed.htm" class="menutopic">Free Newsfeed</a></div>
+		<td bgcolor="#000066" valign="top"><table width="265" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td><img src="/images/spacer.gif" height="22" width="5" alt=""></td>
+			<td valign="top"><div class="home">&nbsp;<a href="#" onclick="javascript:setHomepage();">Set home page</a> &nbsp;·&nbsp; <a href="#" onclick="javascript:addBookmark();">Bookmark site</a> &nbsp;·&nbsp; <a href="#" onclick="javascript:addEngine();">Add search</a></div></td>
+		</tr></tbody></table></td>
+	</tr>
+</tbody></table>
 
-			<p class="menuhead"><a href="/news/" class="menuhead"><strong>News Sections</strong></a></p>
-				<div class="menutopic">&gt; <a href="/news/health_medicine.htm" class="menutopic">Health &amp; Medicine</a></div>
-				<div class="menutopic">&gt; <a href="/news/mind_brain.htm" class="menutopic">Mind &amp; Brain</a></div>
-				<div class="menutopic">&gt; <a href="/news/plants_animals.htm" class="menutopic">Plants &amp; Animals</a></div>
-				<div class="menutopic">&gt; <a href="/news/space_time.htm" class="menutopic">Space &amp; Time</a></div>
-				<div class="menutopic">&gt; <a href="/news/earth_climate.htm" class="menutopic">Earth &amp; Climate</a></div>
-				<div class="menutopic">&gt; <a href="/news/matter_energy.htm" class="menutopic">Matter &amp; Energy</a></div>
-				<div class="menutopic">&gt; <a href="/news/computers_math.htm" class="menutopic">Computers &amp; Math</a></div>
-				<div class="menutopic">&gt; <a href="/news/fossils_ruins.htm" class="menutopic">Fossils &amp; Ruins</a></div>
-
-			<p class="menuhead"><a href="/directory/Science" class="menuhead"><strong>Science Topics</strong></a></p>
-				<div class="menutopic">&gt; <a href="/directory/Science/Agriculture" class="menutopic">Agriculture</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Science/Astronomy" class="menutopic">Astronomy</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Science/Biology" class="menutopic">Biology</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Science/Chemistry" class="menutopic">Chemistry</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Science/Earth_Sciences" class="menutopic">Earth Sciences</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Science/Environment" class="menutopic">Environment</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Science/Math" class="menutopic">Math</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Science/Physics" class="menutopic">Physics</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Science/Social_Sciences" class="menutopic">Social Sciences</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Science/Technology" class="menutopic">Technology</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Science" class="menutopic"><em><strong>more topics</strong></em></a></div>
-			
-			<p class="menuhead"><a href="/directory/Health" class="menuhead"><strong>Health Topics</strong></a></p>
-				<div class="menutopic">&gt; <a href="/directory/Health/Aging" class="menutopic">Aging</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Health/Conditions_and_Diseases" class="menutopic">Diseases</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Health/Fitness" class="menutopic">Fitness</a></div>
-				<div class="menutopic">&gt; <a href="/directory//Health/Medicine" class="menutopic">Medicine</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Health/Men%27s_Health" class="menutopic">Men's Health</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Health/Mental_Health" class="menutopic">Mental Health</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Health/Nutrition" class="menutopic">Nutrition</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Health/Reproductive_Health" class="menutopic">Reproduction</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Health/Senses" class="menutopic">Senses</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Health/Women%27s_Health" class="menutopic">Women's Health</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Health" class="menutopic"><em><strong>more topics</strong></em></a></div>
-			
-			<p class="menuhead"><a href="/directory/Computers" class="menuhead"><strong>Computing</strong></a></p>
-				<div class="menutopic">&gt; <a href="/directory/Computers/Artificial_Intelligence" class="menutopic">Artificial Intell.</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Computers/Data_Communications" class="menutopic">Communications</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Computers/Computer_Science" class="menutopic">Computer Science</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Computers/Graphics" class="menutopic">Graphics</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Computers/Human-Computer_Interaction" class="menutopic">Human Interface</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Computers/Internet" class="menutopic">Internet</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Computers/Robotics" class="menutopic">Robotics</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Computers/Security" class="menutopic">Security</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Computers/Supercomputing" class="menutopic">Supercomputing</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Computers/Virtual_Reality" class="menutopic">Virtual Reality</a></div>
-				<div class="menutopic">&gt; <a href="/directory/Computers" class="menutopic"><em><strong>more topics</strong></em></a></div>
-			
-			<p class="menuhead"><a href="/encyclopedia/" class="menuhead"><strong>Encyclopedia</strong></a></p>
-				<div class="menutopic">&gt; <a href="/encyclopedia/agriculture" class="menutopic">Agriculture</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/anthropology" class="menutopic">Anthropology</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/archaeology" class="menutopic">Archaeology</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/astronomy" class="menutopic">Astronomy</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/biology" class="menutopic">Biology</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/chemistry" class="menutopic">Chemistry</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/communication" class="menutopic">Communication</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/computing" class="menutopic">Computing</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/earth_science" class="menutopic">Earth Science</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/engineering" class="menutopic">Engineering</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/health_science" class="menutopic">Health Science</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/mathematics" class="menutopic">Mathematics</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/physics" class="menutopic">Physics</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/psychology" class="menutopic">Psychology</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/technology" class="menutopic">Technology</a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/list_of_science_topics" class="menutopic"><em><strong>science topics</strong></em></a></div>
-				<div class="menutopic">&gt; <a href="/encyclopedia/list_of_medical_topics" class="menutopic"><em><strong>medical topics</strong></em></a></div>
-
-			<p align="left" class="menuhead"><a href="/shop/" class="menuhead"><strong>Science Shop</strong></a></p>
-
-				<div align="left" class="menutopic"><a href="/shop/books/" class="menutopic"><strong>Books ...</strong></a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/books/75" class="menutopic">Science</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/books/10" class="menutopic">Mind &amp; Body</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/books/13643" class="menutopic">Engineering</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/books/5" class="menutopic">Computers etc.</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/books/290060" class="menutopic">Outdoors &amp; Nature</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/books/173507" class="menutopic">Prof'l &amp; Technical</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/books/21" class="menutopic">Reference</a></div>
-
-				<div align="left" class="menutopic"><a href="/shop/magazines/" class="menutopic"><strong>Magazines ...</strong></a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/magazines/602364" class="menutopic">Science &amp; Nature</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/magazines/602340" class="menutopic">Health &amp; Fitness</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/books/13643" class="menutopic">Engineering</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/magazines/602324" class="menutopic">Computers etc.</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/magazines/602326" class="menutopic">Electronics etc.</a></div>
-
-				<div align="left" class="menutopic"><a href="/shop/" class="menutopic"><strong>More ...</strong></a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/electronics/" class="menutopic">Electronics</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/pc_hardware/" class="menutopic">Computers</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/videogames/" class="menutopic">Video Games</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/garden/" class="menutopic">Outdoor Living</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/photo/" class="menutopic">Camera &amp; Photo</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/universal/" class="menutopic">Tools &amp; Hardware</a></div>
-				<div align="left" class="menutopic">&gt; <a href="/shop/toys/" class="menutopic">Toys &amp; Games</a></div>
-
-				<img src="/images/spacer.gif" height="20" width="120" alt=""><br>
-
-		</td>
-		<td valign="top" width="8" class="white"><img src="/images/spacer.gif" width="8" height="1500" alt=""></td>
-		<td valign="top" class="white">
-
-			<!-- TOP BANNER BEGIN -->
-			<img src="/images/spacer.gif" width="468" height="15" alt=""><br>
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="7" bgcolor="#6699cc"><img src="/images/spacer.gif" height="1" width="7"></td>
+		<td width="100%" bgcolor="#6699cc"><img src="/images/spacer.gif" height="1" width="545"></td>
+		<td width="190" bgcolor="#000099"><img src="/images/spacer.gif" height="1" width="190"></td>
+	</tr>
+	<tr>
+		<td width="7" bgcolor="#6699cc"><table border="0" cellspacing="7" cellpadding="2"><tbody><tr><td bgcolor="#cc0000" class="menutoggle"><div class="menutoggle"><a href="#" class="menutoggle" title="Hide/show menu" onclick="javascript:menuToggle('menutoggle');">menu</a></div></td></tr></tbody></table></td>
+		<td width="100%" bgcolor="#6699cc">
+			<div id="staticbar"><table border="0" cellspacing="4" cellpadding="4">
 				<tbody><tr>
-					<td align="center">
-<!-- BEGIN RICH-MEDIA BURST! CODE -->
-<script language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
+					<td align="center" width="130" bgcolor="#000066"><div id="button"><a href="/">Latest News</a></div></td>
+					<td align="center" width="130" bgcolor="#000066"><div id="button"><a href="/directory">Browse Topics</a></div></td>
+					<td align="center" width="130" bgcolor="#000066"><div id="button"><a href="/encyclopedia">Encyclopedia</a></div></td>
 
-document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi/v=2.0S/sz=468x60A/'+rnum+'/NI/RETURN-CODE/JS/"></scr'+'ipt>');
+					<td align="center" width="130" bgcolor="#000066"><div id="button"><a href="/shop">Science Shop</a></div></td>
+				</tr>
+			</tbody></table></div>
+			<ul id="nav">
+        		<li class="menubar">
+          			<a href="#" class="starter" accesskey="1">Latest News</a>
+          			<ul id="menu1" class="menu">
+						<li><a href="/"><strong>Front Page</strong></a></li>
 
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi/v=2.0S/sz=468x60A/46507/NI/RETURN-CODE/JS/"></script>
-<noscript><a href="http://www.burstnet.com/ads/ad10548a-map.cgi/ns/v=2.0S/sz=468x60A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad10548a.cgi/ns/v=2.0S/sz=468x60A/" border="0" alt="Click Here"></a>
-</noscript>
-<!-- END BURST CODE -->
-					</td>
+						<li><a href="/topix/">&gt; Breaking News</a></li>
+						<li><a href="/news/summaries.htm">&gt; Today's Digest</a></li>
+						<li><a href="/news/headlines.htm">&gt; Week in Review</a></li>
+						<li><a href="/subscribe/updates.htm">&gt; Email Updates</a></li>
+						<li><a href="/subscribe/newsfeed.htm">&gt; RSS Newsfeed</a></li>
+
+						<li><a href="/news/"><strong>News Sections</strong></a></li>
+						<li><a href="/news/health_medicine.htm">&gt; Health &amp; Medicine</a></li>
+						<li><a href="/news/mind_brain.htm">&gt; Mind &amp; Brain</a></li>
+						<li><a href="/news/plants_animals.htm">&gt; Plants &amp; Animals</a></li>
+						<li><a href="/news/space_time.htm">&gt; Space &amp; Time</a></li>
+						<li><a href="/news/earth_climate.htm">&gt; Earth &amp; Climate</a></li>
+						<li><a href="/news/matter_energy.htm">&gt; Matter &amp; Energy</a></li>
+						<li><a href="/news/computers_math.htm">&gt; Computers &amp; Math</a></li>
+						<li><a href="/news/fossils_ruins">&gt; Fossils &amp; Ruins</a></li>
+						
+          			</ul>
+        		</li>
+        		<li class="menubar">
+          			<a href="#" class="starter" accesskey="1">Browse Topics</a>
+          			<ul id="menu1" class="menu">
+						<li><a href="/directory/Science"><strong>Science</strong></a></li>
+
+						<li><a href="/directory/Science/Astronomy">&gt; Astronomy</a></li>
+						<li><a href="/directory/Science/Biology">&gt; Biology</a></li>
+						<li><a href="/directory/Science/Chemistry">&gt; Chemistry</a></li>
+						<li><a href="/directory/Science/Earth_Sciences">&gt; Earth Sciences</a></li>
+						<li><a href="/directory/Science/Physics">&gt; Physics</a></li>
+
+						<li><a href="/directory/Science">&gt; <em>more topics</em></a></li>
+						<li><a href="/directory/Health"><strong>Health</strong></a></li>
+						<li><a href="/directory/Health/Conditions_and_Diseases">&gt; Diseases</a></li>
+						<li><a href="/directory/Health/Medicine">&gt; Medicine</a></li>
+						<li><a href="/directory/Health/Men%27s_Health">&gt; Men's Health</a></li>
+
+						<li><a href="/directory/Health/Mental_Health">&gt; Mental Health</a></li>
+						<li><a href="/directory/Health/Women%27s_Health">&gt; Women's Health</a></li>
+						<li><a href="/directory/Health">&gt; <em>more topics</em></a></li>
+						<li><a href="/directory/Computers"><strong>Computing</strong></a></li>
+						<li><a href="/directory/Computers/Artificial_Intelligence">&gt; Artificial Intell.</a></li>
+
+						<li><a href="/directory/Computers/Computer_Science">&gt; Computer Science</a></li>
+						<li><a href="/directory/Computers/Internet">&gt; Internet</a></li>
+						<li><a href="/directory/Computers/Robotics">&gt; Robotics</a></li>
+						<li><a href="/directory/Computers/Virtual_Reality">&gt; Virtual Reality</a></li>
+						<li><a href="/directory/Computers">&gt; <em>more topics</em></a></li>
+
+          			</ul>
+        		</li>
+        		<li class="menubar">
+          			<a href="#" class="starter" accesskey="2">Encyclopedia</a>
+          			<ul id="menu2" class="menu">
+						<li><a href="/encyclopedia/agriculture">&gt; Agriculture</a></li>
+						<li><a href="/encyclopedia/anthropology">&gt; Anthropology</a></li>
+
+						<li><a href="/encyclopedia/archaeology">&gt; Archaeology</a></li>
+						<li><a href="/encyclopedia/astronomy">&gt; Astronomy</a></li>
+						<li><a href="/encyclopedia/biology">&gt; Biology</a></li>
+						<li><a href="/encyclopedia/chemistry">&gt; Chemistry</a></li>
+						<li><a href="/encyclopedia/communication">&gt; Communication</a></li>
+
+						<li><a href="/encyclopedia/computing">&gt; Computing</a></li>
+						<li><a href="/encyclopedia/earth_science">&gt; Earth Science</a></li>
+						<li><a href="/encyclopedia/engineering">&gt; Engineering</a></li>
+						<li><a href="/encyclopedia/health_science">&gt; Health Science</a></li>
+						<li><a href="/encyclopedia/mathematics">&gt; Mathematics</a></li>
+
+						<li><a href="/encyclopedia/physics">&gt; Physics</a></li>
+						<li><a href="/encyclopedia/psychology">&gt; Psychology</a></li>
+						<li><a href="/encyclopedia/technology">&gt; Technology</a></li>
+						<li><a href="/encyclopedia/list_of_science_topics">&gt; <em>science topics</em></a></li>
+						<li><a href="/encyclopedia/list_of_medical_topics">&gt; <em>medical topics</em></a></li>
+
+          			</ul>
+        		</li>
+        		<li class="menubar">
+          			<a href="#" class="starter" accesskey="3">Science Shop</a>
+          			<ul id="menu3" class="menu">
+						<li><a href="/shop/books/"><strong>Books ...</strong></a></li>
+						<li><a href="/shop/books/75">&gt; Science</a></li>
+
+						<li><a href="/shop/books/10">&gt; Mind &amp; Body</a></li>
+						<li><a href="/shop/books/13643">&gt; Engineering</a></li>
+						<li><a href="/shop/books/5">&gt; Computers etc.</a></li>
+						<li><a href="/shop/books/290060">&gt; Outdoors &amp; Nature</a></li>
+
+						<li><a href="/shop/books/173507">&gt; Prof'l &amp; Technical</a></li>
+						<li><a href="/shop/books/21">&gt; Reference</a></li>
+						<li><a href="/shop/magazines/"><strong>Magazines ...</strong></a></li>
+						<li><a href="/shop/magazines/602364">&gt; Science &amp; Nature</a></li>
+
+						<li><a href="/shop/magazines/602340">&gt; Health &amp; Fitness</a></li>
+						<li><a href="/shop/books/13643">&gt; Engineering</a></li>
+						<li><a href="/shop/magazines/602324">&gt; Computers etc.</a></li>
+						<li><a href="/shop/magazines/602326">&gt; Electronics etc.</a></li>
+
+						<li><a href="/shop/"><strong>More ...</strong></a></li>
+						<li><a href="/shop/electronics/">&gt; Electronics</a></li>
+						<li><a href="/shop/pc_hardware/">&gt; Computers</a></li>
+						<li><a href="/shop/videogames/">&gt; Video Games</a></li>
+						<li><a href="/shop/garden/">&gt; Outdoor Living</a></li>
+
+						<li><a href="/shop/photo/">&gt; Camera &amp; Photo</a></li>
+						<li><a href="/shop/universal/">&gt; Tools &amp; Hardware</a></li>
+						<li><a href="/shop/toys/">&gt; Toys &amp; Games</a></li>
+          			</ul>
+
+        		</li>
+      		</ul>
+		</td>
+		<td width="190" bgcolor="#000099">
+			<table width="190" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td align="right" width="190" bgcolor="#000099"><div id="textsize"><strong>Text Size</strong> &gt; &nbsp;<a href="#" onclick="setStyle('/styles/smallfont.css'); return false;"><span class="small">A</span></a> &nbsp;<a href="#" onclick="setStyle('/styles/mediumfont.css'); return false;"><span class="medium">A</span></a> &nbsp;<a href="#" onclick="setStyle('/styles/largefont.css'); return false;"><span class="large">A</span></a>&nbsp;&nbsp;</div></td>
 				</tr>
 			</tbody></table>
-			<img src="/images/spacer.gif" width="468" height="15" alt=""><br>
-			<!-- TOP BANNER END -->
-			
+		</td>
+	</tr>
+</tbody></table>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td valign="top" bgcolor="#000099" id="menutoggle">
+			<table width="140" border="0" cellspacing="4" cellpadding="4">
+				<tbody><tr>
+					<td width="132" valign="top" bgcolor="#000099"><div id="leftmenu">
+
+	<div class="menuheader"><a href="/">Front Page</a></div>
+	
+	<div>&gt; <a href="/topix/">Breaking News</a></div>
+	<div>&gt; <a href="/news/summaries.htm">Today's Digest</a></div>
+	<div>&gt; <a href="/news/headlines.htm">Week in Review</a></div>
+	<div>&gt; <a href="/subscribe/updates.htm">Email Updates</a></div>
+	<div>&gt; <a href="/subscribe/newsfeed.htm"><span class="rss"><strong>&nbsp;RSS&nbsp;</strong></span> Newsfeed</a></div>
+	
+	<div class="menuspacer">&nbsp;</div>
+	
+	<div class="menuheader"><a href="/news/">News Sections</a></div>
+	
+	<div>&gt; <a href="/news/health_medicine.htm">Health &amp; Medicine</a></div>
+	<div>&gt; <a href="/news/mind_brain.htm">Mind &amp; Brain</a></div>
+
+	<div>&gt; <a href="/news/plants_animals.htm">Plants &amp; Animals</a></div>
+	<div>&gt; <a href="/news/space_time.htm">Space &amp; Time</a></div>
+	<div>&gt; <a href="/news/earth_climate.htm">Earth &amp; Climate</a></div>
+	<div>&gt; <a href="/news/matter_energy.htm">Matter &amp; Energy</a></div>
+
+	<div>&gt; <a href="/news/computers_math.htm">Computers &amp; Math</a></div>
+	<div>&gt; <a href="/news/fossils_ruins.htm">Fossils &amp; Ruins</a></div>
+	<div class="menuspacer">&nbsp;</div>
+	
+	<div class="menuheader"><a href="/directory/Science">Science Topics</a></div>
+
+	<div>&gt; <a href="/directory/Science/Agriculture">Agriculture</a></div>
+
+	<div>&gt; <a href="/directory/Science/Astronomy">Astronomy</a></div>
+	<div>&gt; <a href="/directory/Science/Biology">Biology</a></div>
+	<div>&gt; <a href="/directory/Science/Chemistry">Chemistry</a></div>
+	<div>&gt; <a href="/directory/Science/Earth_Sciences">Earth Sciences</a></div>
+	<div>&gt; <a href="/directory/Science/Environment">Environment</a></div>
+
+	<div>&gt; <a href="/directory/Science/Math">Mathematics</a></div>
+	<div>&gt; <a href="/directory/Science/Physics">Physics</a></div>
+	<div>&gt; <a href="/directory/Science/Social_Sciences">Social Sciences</a></div>
+	<div>&gt; <a href="/directory/Science/Technology">Technology</a></div>
+	<div>&gt; <a href="/directory/Science"><em><strong>more topics</strong></em></a></div>
+
+	<div class="menuspacer">&nbsp;</div>
+	
+	<div class="menuheader"><a href="/directory/Health">Health Topics</a></div>
+
+	<div>&gt; <a href="/directory/Health/Aging">Aging</a></div>
+	<div>&gt; <a href="/directory/Health/Conditions_and_Diseases">Diseases</a></div>
+	<div>&gt; <a href="/directory/Health/Fitness">Fitness</a></div>
+
+	<div>&gt; <a href="/directory/Health/Medicine">Medicine</a></div>
+	<div>&gt; <a href="/directory/Health/Men%27s_Health">Men's Health</a></div>
+	<div>&gt; <a href="/directory/Health/Mental_Health">Mental Health</a></div>
+	<div>&gt; <a href="/directory/Health/Nutrition">Nutrition</a></div>
+	<div>&gt; <a href="/directory/Health/Reproductive_Health">Reproduction</a></div>
+
+	<div>&gt; <a href="/directory/Health/Senses">Senses</a></div>
+	<div>&gt; <a href="/directory/Health/Women%27s_Health">Women's Health</a></div>
+	<div>&gt; <a href="/directory/Health"><em><strong>more topics</strong></em></a></div>
+	<div class="menuspacer">&nbsp;</div>
+
+	<div class="menuheader"><a href="/directory/Computers">Computing</a></div>
+
+	<div>&gt; <a href="/directory/Computers/Artificial_Intelligence">Artificial Intell.</a></div>
+	<div>&gt; <a href="/directory/Computers/Data_Communications">Communications</a></div>
+	<div>&gt; <a href="/directory/Computers/Computer_Science">Computer Science</a></div>
+	<div>&gt; <a href="/directory/Computers/Graphics">Graphics</a></div>
+
+	<div>&gt; <a href="/directory/Computers/Human-Computer_Interaction">Human Interface</a></div>
+	<div>&gt; <a href="/directory/Computers/Internet">Internet</a></div>
+	<div>&gt; <a href="/directory/Computers/Robotics">Robotics</a></div>
+	<div>&gt; <a href="/directory/Computers/Security">Security</a></div>
+	<div>&gt; <a href="/directory/Computers/Supercomputing">Supercomputing</a></div>
+
+	<div>&gt; <a href="/directory/Computers/Virtual_Reality">Virtual Reality</a></div>
+	<div>&gt; <a href="/directory/Computers"><em><strong>more topics</strong></em></a></div>
+	<div class="menuspacer">&nbsp;</div>
+
+	<div class="menuheader"><a href="/encyclopedia/">Encyclopedia</a></div>
+
+	<div>&gt; <a href="/encyclopedia/agriculture">Agriculture</a></div>
+
+	<div>&gt; <a href="/encyclopedia/anthropology">Anthropology</a></div>
+	<div>&gt; <a href="/encyclopedia/archaeology">Archaeology</a></div>
+	<div>&gt; <a href="/encyclopedia/astronomy">Astronomy</a></div>
+	<div>&gt; <a href="/encyclopedia/biology">Biology</a></div>
+	<div>&gt; <a href="/encyclopedia/chemistry">Chemistry</a></div>
+
+	<div>&gt; <a href="/encyclopedia/communication">Communication</a></div>
+	<div>&gt; <a href="/encyclopedia/computing">Computing</a></div>
+	<div>&gt; <a href="/encyclopedia/earth_science">Earth Science</a></div>
+	<div>&gt; <a href="/encyclopedia/engineering">Engineering</a></div>
+	<div>&gt; <a href="/encyclopedia/health_science">Health Science</a></div>
+
+	<div>&gt; <a href="/encyclopedia/mathematics">Mathematics</a></div>
+	<div>&gt; <a href="/encyclopedia/physics">Physics</a></div>
+	<div>&gt; <a href="/encyclopedia/psychology">Psychology</a></div>
+	<div>&gt; <a href="/encyclopedia/technology">Technology</a></div>
+	<div>&gt; <a href="/encyclopedia/list_of_science_topics"><em><strong>science topics</strong></em></a></div>
+
+	<div>&gt; <a href="/encyclopedia/list_of_medical_topics"><em><strong>medical topics</strong></em></a></div>
+	<div class="menuspacer">&nbsp;</div>
+
+	<div class="menuheader"><a href="/shop/">Science Shop</a></div>
+
+	<div><a href="/shop/books/"><strong>Books ...</strong></a></div>
+	<div><a href="/shop/books/75">&gt; Science</a></div>
+
+	<div><a href="/shop/books/10">&gt; Mind &amp; Body</a></div>
+	<div><a href="/shop/books/13643">&gt; Engineering</a></div>
+	<div><a href="/shop/books/5">&gt; Computers etc.</a></div>
+	<div><a href="/shop/books/290060">&gt; Outdoors &amp; Nature</a></div>
+
+	<div><a href="/shop/books/173507">&gt; Prof'l &amp; Technical</a></div>
+	<div><a href="/shop/books/21">&gt; Reference</a></div>
+	<div><a href="/shop/magazines/"><strong>Magazines ...</strong></a></div>
+	<div><a href="/shop/magazines/602364">&gt; Science &amp; Nature</a></div>
+
+	<div><a href="/shop/magazines/602340">&gt; Health &amp; Fitness</a></div>
+	<div><a href="/shop/books/13643">&gt; Engineering</a></div>
+	<div><a href="/shop/magazines/602324">&gt; Computers etc.</a></div>
+	<div><a href="/shop/magazines/602326">&gt; Electronics etc.</a></div>
+
+	<div><a href="/shop/"><strong>More ...</strong></a></div>
+	<div><a href="/shop/electronics/">&gt; Electronics</a></div>
+	<div><a href="/shop/pc_hardware/">&gt; Computers</a></div>
+	<div><a href="/shop/videogames/">&gt; Video Games</a></div>
+	<div><a href="/shop/garden/">&gt; Outdoor Living</a></div>
+
+	<div><a href="/shop/photo/">&gt; Camera &amp; Photo</a></div>
+	<div><a href="/shop/universal/">&gt; Tools &amp; Hardware</a></div>
+	<div><a href="/shop/toys/">&gt; Toys &amp; Games</a></div>
+	<div class="menuspacer">&nbsp;</div>
+
+	<div class="menuheader"><a href="/about.htm">About This Site</a></div>
+
+	<div>&gt; <a href="/staff.htm">Editorial Staff</a></div>
+	<div>&gt; <a href="/awards.htm">Awards &amp; Reviews</a></div>
+	<div>&gt; <a href="/contribute/">Contribute News</a></div>
+
+	<div>&gt; <a href="/advertise/">Advertise With Us</a></div>
+	<div>&gt; <a href="/privacy.htm">Privacy Policy</a></div>
+
+	<div>&nbsp;</div>
+					</div></td>
+				</tr>
+			</tbody></table>
+
+		</td>
+		<td valign="top" width="100%" bgcolor="#ffffff">
+			<table width="100%" border="0" cellspacing="5" cellpadding="5">
+				<tbody><tr>
+					<td valign="top" width="100%" bgcolor="#ffffff">
+
 			<h2>Our Privacy Policy</h2>
 			
 			<!-- BODY BEGIN --><p>Most web sites collect some sort of information about their visitors in order to gather statistics about how many visitors they get each month, what are the most and least popular pages on the web site, where there may be problems in serving certain pages to visitors, etc. In an effort to answer questions such as these, Science<i>Daily</i> also collects certain basic information about its visitors. </p><p>Please note, however, that Science<i>Daily</i> has no interest in personally identifying its users. This would be practically quite difficult, and quite an unnecessary task to accomplish anyway. The only thing that Science<i>Daily</i> is interested in is the overall statistics of its readership. Cumulative figures that provide a picture of visitor traffic to our site are vital in our efforts to attract advertisers--upon whose support the site depends--and to monitor how well our web server is keeping up with our ever-increasing readership. </p><p>So what information does Science<i>Daily</i> collect about its visitors? Each time someone visits the site, our web server logs a number of details--if they are available--including the IP address of the visitor's computer and/or Internet service provider, the domain name and country of origin of that computer, its operating system, and the type of web browser being used.</p><p>In addition to the statistics that our own web server collects, the third-party advertising agencies that we work with may also collect certain information through the use of banner ads. </p><p><b>Third Party Advertising</b></p><p>We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click <a href="http://www.maxonline.com/privacy_policy/index.php">here</a>.</p><p><b>Third Party Cookies</b></p><p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.</p><p>If you wish not to have Science<i>Daily</i> keep any records of your visit to our site, even though it is our policy not to personally identify individual users but only to gather overall cumulative information about our visitors, then we suggest that you use an anonymous web browsing service such as <a href="http://www.anonymizer.com/">Anonymizer.com</a>. Such services typically hide all information about particular users from web sites, which log visits from the anonymizing service instead of the users' own computers. </p><p>If you have any questions about our privacy policy, please contact Dan Hogan, editor of Science<i>Daily</i>, at <a href="mailto:editor@sciencedaily.com">editor@sciencedaily.com</a>.</p><p></p><!-- BODY END -->
 <p>&nbsp;</p>
-
-			<p>&nbsp;</p>
 			
+			<div>&nbsp;</div>
 			
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td bgcolor="#6699cc"><img src="/images/spacer.gif" width="1" height="1" alt=""></td>
+	</tr>
 
-			<p>&nbsp;</p>
+	<tr>
+		<td><img src="/images/spacer.gif" width="10" height="10" alt=""></td>
+	</tr>
+	<tr>
+		<td align="center" valign="top"><div>Can't find it? Try searching Science<em>Daily</em> or the entire web with:</div></td>
+	</tr>
+	<tr>
 
-			<!-- BOTTOM BANNER BEGIN -->
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td align="center">
-<!-- BEGIN RICH-MEDIA BURST! CODE -->
-<script language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/ba10548a.cgi/v=2.0S/sz=468x60B/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ba10548a.cgi/v=2.0S/sz=468x60B/47036/RETURN-CODE/JS/"></script>
-<noscript><a href="http://www.burstnet.com/ads/ba10548a-map.cgi/ns/v=2.0S/sz=468x60B/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ba10548a.cgi/ns/v=2.0S/sz=468x60B/" border="0" alt="Click Here"></a>
-</noscript>
-<!-- END BURST CODE -->
+		<td align="center" valign="top">
+<!-- SiteSearch Google -->
+<form method="GET" action="http://www.google.com/custom">
+<table bgcolor="#FFFFFF">
+<tbody><tr><td nowrap="nowrap" valign="top" align="center" height="32">
+<a href="http://www.google.com/">
+<img src="http://www.google.com/logos/Logo_25wht.gif" border="0" alt="Google"></a>
+</td>
+<td>
+<input type="hidden" name="domains" value="sciencedaily.com"><input type="text" name="q" size="25" maxlength="255" value="">
+<input type="submit" name="sa" value="Search">
+</td></tr>
+<tr><td>&nbsp;</td>
+<td>
+<font size="-1">
+<input type="radio" name="sitesearch" value=""> Web
+
+<input type="radio" name="sitesearch" value="sciencedaily.com" checked="">sciencedaily.com
+<br>
+</font>
+
+
+<input type="hidden" name="client" value="pub-1787672658759074">
+<input type="hidden" name="forid" value="1">
+<input type="hidden" name="channel" value="5997393799">
+<input type="hidden" name="ie" value="ISO-8859-1">
+<input type="hidden" name="oe" value="ISO-8859-1">
+<input type="hidden" name="safe" value="active">
+<input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:663399;AH:center;BGC:FFFFFF;LBGC:232850;ALC:000000;LC:000000;T:0000FF;GFNT:0000FF;GIMP:0000FF;LH:50;LW:150;L:http://www.sciencedaily.com/images/search.gif;S:http://www.sciencedaily.com;FORID:1;">
+<input type="hidden" name="hl" value="en">
+
+</td></tr></tbody></table>
+</form>
+<!-- SiteSearch Google -->
+
+		</td>
+	</tr>
+</tbody></table>
+
+			<div>&nbsp;</div>
+			
 					</td>
 				</tr>
 			</tbody></table>
-			<!-- BOTTOM BANNER END -->
- 
-			<p>&nbsp;</p>
+		</td>
+		<td valign="top" width="190" bgcolor="#000099">
+
+			<table width="190" border="0" cellspacing="0" cellpadding="5">
+				<tbody><tr>
+					<td bgcolor="#6699cc"><div class="searchhead">&nbsp;<strong>Search Our Archives</strong></div></td>
+				</tr>
+			</tbody></table>
+			
+			<table width="190" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#dddddd">
+				<table width="190" border="0" cellspacing="3" cellpadding="0"><form action="/search/" method="get" id="search"></form>
+					<tbody><tr>
+						<td colspan="3"><img src="/images/spacer.gif" height="2" width="2" alt=""></td>
+					</tr>
+					<tr>
+						<td align="right" nowrap=""><div class="searchtext"><strong>Find:</strong></div></td>
+						<td colspan="2"><input type="text" size="11" name="keyword" class="keyword"></td>
+					</tr>
+					<tr>
+						<td align="right" nowrap=""><div class="searchtext"><strong>in:</strong></div></td>
+						<td colspan="2"><select name="topic" class="topic">
+		<option value="all">All News Sections</option>
+		<option value="Health &amp; Medicine">Health &amp; Medicine</option>
+	
+		<option value="Mind &amp; Brain">Mind &amp; Brain</option>
+		<option value="Plants &amp; Animals">Plants &amp; Animals</option>
+		<option value="Space &amp; Time">Space &amp; Time</option>
+		<option value="Earth &amp; Climate">Earth &amp; Climate</option>
+		<option value="Matter &amp; Energy">Matter &amp; Energy</option>
+	
+		<option value="Computers &amp; Math">Computers &amp; Math</option>
+		<option value="Fossils &amp; Ruins">Fossils &amp; Ruins</option>
+	</select></td>
+					</tr>
+					<tr>
+						<td align="right"><div class="searchtext"><strong>from:</strong></div></td>
+						<td colspan="2"><select name="dates">
+		<option value="1995">1995</option>
+		<option value="1996">1996</option>
+		<option value="1997">1997</option>
+		<option value="1998">1998</option>
+		<option value="1999">1999</option>
+		<option value="2000">2000</option>
+		<option value="2001">2001</option>
+		<option value="2002">2002</option>
+		<option value="2003">2003</option>
+		<option value="2004">2004</option>
+	</select> <span class="searchtext"><strong>to</strong></span> <select name="dates">
+		<option value="1995">1995</option>
+		<option value="1996">1996</option>
+		<option value="1997">1997</option>
+		<option value="1998">1998</option>
+		<option value="1999">1999</option>
+		<option value="2000">2000</option>
+		<option value="2001">2001</option>
+		<option value="2002">2002</option>
+		<option value="2003">2003</option>
+		<option value="2004" selected="">2004</option>
+	</select></td>
+					</tr>
+					<tr>
+						<td align="right"><div class="searchtext"><strong>sort:</strong></div></td>
+						<td colspan="2"><div class="searchtext"><input type="radio" name="sort" value="relevance" class="radio" checked="">relevance <input type="radio" name="sort" value="date" class="radio">date</div></td>
+					</tr>
+					<tr>
+						<td>&nbsp;</td>
+						<td><input type="submit" value="Go"></td>
+						<td align="right"><div class="searchtext">&gt; <a href="/search/" class="searchtext"><strong><em>more options</em></strong></a>&nbsp;</div></td>
+					</tr>
+					<tr>
+						<td colspan="3"><img src="/images/spacer.gif" height="3" width="3" alt=""></td>
+					</tr>
+				</tbody></table>
+			</td></tr></tbody></table>
+
+			<table width="190" border="0" cellspacing="0" cellpadding="5">
+				<tbody><tr>
+					<td bgcolor="#6699cc"><div class="careerhead">&nbsp;<strong>New Job Postings</strong></div></td>
+				</tr>
+			</tbody></table>
+			
+			<table width="190" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#dddddd">
+				<table width="190" border="0" cellspacing="3" cellpadding="0"><form action="http://www.CareerBuilder.com/PLI/QuickSrchV2.asp" target="_top"></form>
+					<input type="hidden" name="SiteID" value="SCIDLYBOX">
+					<input type="hidden" name="lr" value="CBSCIDLY">
+					<tbody><tr>
+						<td colspan="3"><img src="/images/spacer.gif" height="2" width="2" alt=""></td>
+					</tr>
+					<tr>
+						<td align="right" nowrap=""><div class="careertext"><strong>Find:</strong></div></td>
+						<td colspan="2"><input type="text" name="QSKWD" size="11" class="job"></td>
+					</tr>
+					<tr>
+						<td align="right" nowrap=""><div class="careertext"><strong>City:</strong></div></td>
+						<td colspan="2"><input type="text" name="QSCTY" size="11" class="job"></td>
+					</tr>
+					<tr>
+						<td align="right" nowrap=""><div class="careertext"><strong>State:</strong></div></td>
+						<td><select name="QSSTS" size="1" class="state">
+			<option value="ALL,US">ALL
+			</option><option value="AL,US">AL
+			</option><option value="AK,US">AK
+			</option><option value="AZ,US">AZ
+			</option><option value="AR,US">AR
+			</option><option value="CA,US">CA
+			</option><option value="CO,US">CO
+			</option><option value="CT,US">CT
+			</option><option value="DE,US">DE
+			</option><option value="DC,US">DC
+			</option><option value="FL,US">FL
+			</option><option value="GA,US">GA
+			</option><option value="HI,US">HI
+			</option><option value="ID,US">ID
+			</option><option value="IL,US">IL
+			</option><option value="IN,US">IN
+			</option><option value="IA,US">IA
+			</option><option value="KS,US">KS
+			</option><option value="KY,US">KY
+			</option><option value="LA,US">LA
+			</option><option value="ME,US">ME
+			</option><option value="MD,US">MD
+			</option><option value="MA,US">MA
+			</option><option value="MI,US">MI
+			</option><option value="MN,US">MN
+			</option><option value="MS,US">MS
+			</option><option value="MO,US">MO
+			</option><option value="MT,US">MT
+			</option><option value="NE,US">NE
+			</option><option value="NV,US">NV
+			</option><option value="NH,US">NH
+			</option><option value="NJ,US">NJ
+			</option><option value="NM,US">NM
+			</option><option value="NY,US">NY
+			</option><option value="NC,US">NC
+			</option><option value="ND,US">ND
+			</option><option value="OH,US">OH
+			</option><option value="OK,US">OK
+			</option><option value="OR,US">OR
+			</option><option value="PA,US">PA
+			</option><option value="RI,US">RI
+			</option><option value="SC,US">SC
+			</option><option value="SD,US">SD
+			</option><option value="TN,US">TN
+			</option><option value="TX,US">TX
+			</option><option value="UT,US">UT
+			</option><option value="VT,US">VT
+			</option><option value="VA,US">VA
+			</option><option value="WA,US">WA
+			</option><option value="WV,US">WV
+			</option><option value="WI,US">WI
+			</option><option value="WY,US">WY
+		</option></select></td>
+						<td align="right"><input type="submit" value="Search"></td>
+					</tr>
+					<form></form><tr>
+						<td align="right"><div class="careertext"><strong>View:</strong></div></td>
+						<td colspan="2"><select id="channel" name="channel" onchange="window.location=channel.options[channel.selectedIndex].value" class="category">
+			<option value="http://www.careerbuilder.com/JobSeeker/Jobs/jobfindall.asp?lr=cbscidly&amp;siteid=scidlyall">All Jobs by Type</option>
+			<option value="http://www.careerbuilder.com/JobSeeker/Jobs/jobfindin.asp?lr=cbscidly&amp;siteid=scidlyind">All Jobs by Industry</option>
+			<option value="http://accounting.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyacc">Accounting</option>
+			<option value="http://accounting.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyadm">Admin &amp; Clerical</option>
+			<option value="http://bankingfinance.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlybank">Banking &amp; Finance</option>
+			<option value="http://college.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlycol">College</option>
+			<option value="http://www.sologig.com/">Contract / Freelance</option>
+			<option value="http://customerservice.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlycust">Customer Service</option>
+			<option value="http://www.careerbuilder.com/JobSeeker/Jobs/Diversity.htm?lr=cbscidly&amp;siteid=scidlydiv">Diversity</option>
+			<option value="http://engineering.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyeng">Engineering</option>
+			<option value="http://executive.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyexec">Executive</option>
+			<option value="http://healthcare.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyhc">Healthcare</option>
+			<option value="http://hospitality.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyhosp">Hospitality</option>
+			<option value="http://humanresources.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyhr">Human Resources</option>
+			<option value="http://informationtechnology.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyit">Information Tech</option>
+			<option value="http://www.careerbuilder.com/JobSeeker/Jobs/jobfindil.asp?lr=cbscidly&amp;siteid=scidlyintl">International</option>
+			<option value="http://manufacturing.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlymanf">Manufacturing</option>
+			<option value="http://nonprofit.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlynp">Nonprofit</option>
+			<option value="http://retail.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlyret">Retail</option>
+			<option value="http://salesmarketing.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlysal">Sales &amp; Marketing</option>
+			<option value="http://sciencebiotech.careerbuilder.com/?lr=cbscidly&amp;siteid=scidlysci">Science &amp; BioTech</option>
+		</select></td>
+					</tr>
+					<tr>
+						<td align="right"><div class="careertext"><strong>Post:</strong></div></td>
+						<td colspan="2"><div class="careertext">&nbsp;<a href="http://www.careerbuilder.com/JobPoster/Products/PostingSolutions.htm?lr=cbscidly&amp;siteid=scidlypstjob" class="careertext"><strong>Jobs</strong></a> / <a href="http://www.careerbuilder.com/JobSeeker/Resumes/FastResume.asp?lr=cbscidly&amp;siteid=scidlypstres" class="careertext"><strong>Resumes</strong></a></div></td>
+					</tr>
+					<tr>
+						<td colspan="3"><img src="/images/spacer.gif" height="3" width="3" alt=""></td>
+					</tr>
+				</tbody></table>
+			</td></tr></tbody></table>
+
+			<table width="190" border="0" cellspacing="0" cellpadding="15" bgcolor="#000066">
+				<tbody><tr>
+					<td valign="top" align="center" bgcolor="#000066">
+<!-- BEGIN RICH-MEDIA BURST! CODE -->
+<script language="JavaScript">
+rnum=Math.round(Math.random() * 100000);
+document.write('<scr'+'ipt src="http://www.burstnet.com/cgi-bin/ads/sk10548a.cgi/v=2.0S/sz=120x600A|160x600A/'+rnum+'/RETURN-CODE/JS/"></scr'+'ipt>');
+</script><script src="http://www.burstnet.com/cgi-bin/ads/sk10548a.cgi/v=2.0S/sz=120x600A|160x600A/18693/RETURN-CODE/JS/"></script>
+<noscript><a href="http://www.burstnet.com/ads/sk10548a-map.cgi/ns/v=2.0S/sz=120x600A|160x600A/" target="_top">
+<img src="http://www.burstnet.com/cgi-bin/ads/sk10548a.cgi/ns/v=2.0S/sz=120x600A|160x600A/" border="0" alt="Click Here"></a>
+</noscript>
+<!-- END BURST CODE -->
+
+					</td>
+				</tr>
+			</tbody></table>
+
+			<table width="190" border="0" cellspacing="0" cellpadding="15" bgcolor="#000066">
+				<tbody><tr>
+					<td valign="top" align="center" bgcolor="#000066">
+<!-- SKYSCRAPER AD 2 -->
+					</td>
+				</tr>
+			</tbody></table>
 
 		</td>
-		<td width="10" class="white"><img src="/images/spacer.gif" width="8" height="1" alt=""></td>
 	</tr>
 </tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td width="100%" bgcolor="#000066">
+			<table width="100%" border="0" cellspacing="20" cellpadding="0">
+				<tbody><tr>
+					<td align="center" valign="top"><span class="footer"><em>———————&nbsp;&nbsp; <a href="/copyright.htm" class="footer">Copyright © 1995-2004</a> Science<em>Daily</em> LLC &nbsp;&nbsp;|&nbsp;&nbsp; Contact: <a href="mailto:editor@sciencedaily.com" class="footer">editor@sciencedaily.com</a> &nbsp;&nbsp;———————</em></span></td>
 
-<div><img src="/images/spacer.gif" height="5" width="1" alt=""></div>
-
-<table width="100%" border="0" cellspacing="5" cellpadding="0">
-  <tbody><tr>
-  	<td align="center"><span class="footer"><a href="/about.htm" class="footer"><b>About This Site</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/staff.htm" class="footer"><b>Editorial Staff</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/awards.htm" class="footer"><b>Awards &amp; Reviews</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/contribute/" class="footer"><b>Contribute News</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/advertise/" class="footer"><b>Advertise With Us</b></a> &nbsp;&nbsp;|&nbsp;&nbsp; <a href="/privacy.htm" class="footer"><b>Privacy Policy</b></a></span></td>
-  </tr>
-	<tr>
-		<td align="center" valign="top"><span class="footer"><em>———————&nbsp;&nbsp; <a href="/copyright.htm" class="footer">Copyright © 1995-2004</a> Science<em>Daily</em> LLC &nbsp;&nbsp;|&nbsp;&nbsp; Contact: <a href="mailto:editor@sciencedaily.com" class="footer">editor@sciencedaily.com</a> &nbsp;&nbsp;———————</em></span></td>
+				</tr>
+			</tbody></table>
+		</td>
 	</tr>
 </tbody></table>
-
-<div>&nbsp;</div>
 
 
 
