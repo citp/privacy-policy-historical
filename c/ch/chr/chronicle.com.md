@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617141827id_/http%3A//www.chronicle.com/about-help.dir/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205120700id_/http%3A//chronicle.com/about-help.dir/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle: Privacy Statement
 
