@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the keh.com privacy policy that was archived on 2000-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000417091310id_/http%3A//keh.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keh.com privacy policy that was archived on 2000-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001217041100id_/http%3A//www.keh.com/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -27,6 +27,9 @@ if (document.images) {
   
   sellon = new Image();
   sellon.src = "images/buttons/on/sell.gif";
+  
+  repairon = new Image();
+  repairon.src = "images/buttons/on/repair.gif";
   
   shopon = new Image();
   shopon.src = "images/buttons/on/shop.gif";
@@ -57,6 +60,9 @@ if (document.images) {
   
   testimonialson = new Image();
   testimonialson.src = "../images/buttons/on/testimonials.gif";
+
+  closeoutson = new Image();
+  closeoutson.src = "images/buttons/on/closeouts.gif";
   
   selltabon = new Image();
   selltabon.src = "images/tabs/on/sell.gif";
@@ -75,6 +81,9 @@ if (document.images) {
   
   selloff = new Image();
   selloff.src = "images/buttons/off/sell.gif";
+  
+  repairoff = new Image();
+  repairoff.src = "images/buttons/off/repair.gif";
   
   homeoff = new Image();
   homeoff.src = "images/buttons/off/home.gif";
@@ -106,6 +115,9 @@ if (document.images) {
   catrequestoff = new Image();
   catrequestoff.src = "images/buttons/off/catrequest.gif";
 
+  closeoutsoff = new Image();
+  closeoutsoff.src = "images/buttons/off/closeouts.gif";
+  
   testimonialsoff = new Image();
   testimonialsoff.src = "../images/buttons/off/testimonials.gif";
   
@@ -146,14 +158,15 @@ function turnOff(imageName) {
 		<td bgcolor="#000000"><img src="http://209.35.112.41/images/spacer.gif" alt="" width="344" height="30" border="0"></td>
 		<td bgcolor="#000000" colspan="5"><img src="http://209.35.112.41/images/spacer.gif" alt="" width="346" height="30" border="0"></td>
 	</tr>
-	<tr>
-		<td><img src="http://209.35.112.41/images/header-marketplace.gif" alt="The Photographer’s Marketplace" width="344" height="30" border="0"></td>
-		<td bgcolor="#000000"><a href="sell/sell.cfm" onmouseover="turnOn('selltab')" onmouseout="turnOff('selltab')"><img src="http://209.35.112.41/images/tabs/off/sell.gif" alt="sell" name="selltab" width="64" height="30" border="0"></a></td>
-		<td bgcolor="#000000"><a href="shop/new.cfm" onmouseover="turnOn('newtab')" onmouseout="turnOff('newtab')"><img src="http://209.35.112.41/images/tabs/off/new.gif" alt="new" name="newtab" width="64" height="30" border="0"></a></td>
-		<td bgcolor="#000000"><a href="shop/used.cfm" onmouseover="turnOn('usedtab')" onmouseout="turnOff('usedtab')"><img src="http://209.35.112.41/images/tabs/off/used.gif" alt="Used" name="usedtab" width="66" height="30" border="0"></a></td>
-		<td bgcolor="#000000"><a href="shop/newused.cfm" onmouseover="turnOn('newusedtab')" onmouseout="turnOff('newusedtab')"><img src="http://209.35.112.41/images/tabs/off/newused.gif" alt="new &amp; used" name="newusedtab" width="86" height="30" border="0"></a></td>
-		<td bgcolor="#000000"><a href="shop/closeout.cfm" onmouseover="turnOn('closeoutstab')" onmouseout="turnOff('closeoutstab')"><img src="http://209.35.112.41/images/tabs/off/closeouts.gif" alt="closeouts" name="closeoutstab" width="66" height="30" border="0"></a></td>
-	</tr>
+        <tr>
+                <td bgcolor="#000000"><img src="images/header-marketplace.gif" alt="The Photographer’s Marketplace" width="344" height="30" border="0"></td>
+               <td bgcolor="#000000"><a href="repair/repair.cfm" onmouseover="turnOn('rep_centertab')" onmouseout="turnOff('rep_centertab')"><img src="images/tabs/off/rep_center.gif" alt="rep_center" name="rep_centertab" width="66" height="30" border="0"></a></td>
+                <td bgcolor="#000000"><a href="sell/sell.cfm" onmouseover="turnOn('selltab')" onmouseout="turnOff('selltab')"><img src="images/tabs/off/sell.gif" alt="sell" name="selltab" width="64" height="30" border="0"></a></td>
+                <td bgcolor="#000000"><a href="shop/brand.cfm?sid=new" onmouseover="turnOn('newtab')" onmouseout="turnOff('newtab')"><img src="images/tabs/off/new.gif" alt="new" name="newtab" width="64" height="30" border="0"></a></td>
+                <td bgcolor="#000000"><a href="shop/brand.cfm?sid=used" onmouseover="turnOn('usedtab')" onmouseout="turnOff('usedtab')"><img src="images/tabs/off/used.gif" alt="Used" name="usedtab" width="66" height="30" border="0"></a></td>
+                <td bgcolor="#000000"><a href="shop/brand.cfm?sid=newused" onmouseover="turnOn('newusedtab')" onmouseout="turnOff('newusedtab')"><img src="images/tabs/off/newused.gif" alt="new &amp; used" name="newusedtab" width="86" height="30" border="0"></a></td>
+               
+        </tr>
 </tbody></table>
 <div align="left">
 <table cellpadding="0" cellspacing="0" border="0" width="770">
@@ -300,7 +313,16 @@ practices of this site, or your dealings with this Web site, you can contact:</f
 		<!-- Begin Footer -->		
 		<br>
 <hr width="630">
-<font size="-1"><a href="privacy.cfm">Privacy Statement</a><br>Copyright: © 1998 - 2000 <a href="legal.cfm">KEH Camera Brokers, Inc.</a></font><br>
+<font size="-1">
+<div align="center"><b>KEH.com</b> <br>
+<b>2310 Marietta Boulevard NW</b><br>
+<b> Atlanta, GA 30318</b><br></div>
+
+<b>Sales - (404) 892-5522</b>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Repairs - (404) 748-6050</b><br>
+<br>
+<a href="privacy.cfm">Privacy Statement</a><br>Copyright: © 1998 - 2000 <a href="legal.cfm">KEH Camera Brokers, Inc.</a></font><br>
 <font size="-2">Site Design: © 1998 - 2000 <a href="http://www.d-p.com/" target="top">Digital Positions</a></font><br>
 <!--<FONT SIZE="-2">Site Updated: #echo var="LAST_MODIFIED"</FONT>-->
 <p><img src="images/spacer.gif" alt="" width="50" height="1" border="0">
@@ -309,7 +331,6 @@ practices of this site, or your dealings with this Web site, you can contact:</f
 	</tr>
 </tbody></table>
 </div>
-
 
 
 
