@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202055850id_/http%3A//www.terminix.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606035727id_/http%3A//terminix.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Information | Terminix.com | No Bugs. No Hassles.
+
+|   
+
 
 At ServiceMaster, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy for all ServiceMaster Quality Service Network Web sites, including:
 
@@ -14,7 +17,7 @@ At ServiceMaster, we are committed to protecting your privacy. We use the inform
 [www.Terminix.com](http://www.terminix.com/)  
 [www.TruGreen.com](http://www.trugreen.com/)  
 [www.weservegift.com](http://www.weservegift.com/)  
-[Corporate.ServiceMaster.com](http://corporate.servicemaster.com/)  
+[www.weservehomes.com](http://www.weservehomes.com/)  
 
 
 What information do we collect? How do we use it?  
@@ -30,6 +33,8 @@ This site contains links to other sites. ServiceMaster is not responsible for th
 
 We monitor customer traffic patterns and site usage to help us develop the design and layout of the ServiceMaster Quality Service Network Web sites (listed above). We may also use the information we collect to occasionally notify you about important changes to the Web site, new ServiceMaster services, and special offers and information we think you'll find valuable. If you would rather not receive this information, please contact us through one of the channels identified in the choice/ opt-out section.
 
+ _Note to Parents:_  Your child's privacy is important to us and that is why we take additional measures to protect the privacy of the younger visitors to our Web site. We have created a children's area, "Just For Kids," in which we offer content specially designed for children. Currently, we do not collect any personally identifiable information in the children's area of our site. If we do in the future, we will do so consistent with the requirements of the Children's Online Privacy Protection Act (COPPA). _ _
+
 How does ServiceMaster protect customer information?  
 When you place orders or access your account information, we use a secure server. This secure server software, SSL (Secure Sockets Layer) encrypts all information you input before it is sent to us. Furthermore, all of the customer transactional data we collect is protected against unauthorized access with the use of digital certificates. ServiceMaster's digital certificates are issued by VeriSign, one of the most established signers of digital certificates. To learn more about ServiceMaster's online security simply click on the "Security" icon in your browser tool bar.
 
@@ -44,7 +49,7 @@ ServiceMaster does not sell, trade, or rent your personal information to others.
 Choice / Opt-Out  
 Our site provides users the opportunity to opt-out of receiving communications from ServiceMaster and our partners at the point where we request information about the visitor.
 
-This site allows us the following options for removing your information from the database. If you do so, you will not receive future communications from us. 
+This site allows us the following options for removing your information from the database. If you do so, you will not receive future communications from us.
 
   1. You can send email to [customercare@svm.com](mailto:customercare@svm.com)
   2. You can send mail to the following postal address:  
@@ -58,7 +63,7 @@ Memphis, TN 38120
 
 
 Correct / Update  
-This site gives users the following options for changing and modifying information previously provided. 
+This site gives users the following options for changing and modifying information previously provided.
 
   1. You can send email to [customercare@svm.com](mailto:customercare@svm.com)
   2. You can send mail to the following postal address:  
@@ -84,4 +89,6 @@ ServiceMaster Consumer Services, A4-1831
 860 Ridge Lake Boulevard  
 Memphis, TN 38120  
 [ConsumerServices@svm.com](mailto:ConsumerServices@svm.com)  
-1-800 WE SERVE ext. 1000
+1-800 WE SERVE ext. 1000  
+  
+---|---
