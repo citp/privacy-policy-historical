@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207223650id_/http%3A//www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx%3Fpromo%3DTI_silopriv_FT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webtrends.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406011847id_/http%3A//www.webtrends.com/AboutWebTrends/PrivacyPolicy.aspx%3Fpromo%3DTI_silopriv_FT) for the most accurate reproduction.*
 
 # WebTrends and NetIQ Privacy Policy
 
@@ -10,7 +10,7 @@ Collection and Use of Personal Information
 
 Personal information means any information that may be used to identify you, such as, your name, title, phone number, email address, or mailing address.   
 
-In general, you can browse our web site without giving us any personal information. We use our own product, [WebTrends On Demand](https://web.archive.org/Products/WebTrends7.aspx), to analyze traffic to this web site in order to understand our customer's and visitor's needs and to continually improve our site for them. WebTrends Reporting Services collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address. For more information, see [Privacy Statement for Visitors to Sites Tracked by WebTrends Reporting Service](https://reports.webtrends.com/privacypolicy.asp#PSFV). 
+In general, you can browse our web site without giving us any personal information. We use our own product, [WebTrends On Demand](https://web.archive.org/Home/Products/WebTrends7.aspx), to analyze traffic to this web site in order to understand our customer's and visitor's needs and to continually improve our site for them. WebTrends Reporting Services collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address. For more information, see [Privacy Statement for Visitors to Sites Tracked by WebTrends Reporting Service](https://reports.webtrends.com/privacypolicy.asp#PSFV). 
 
 If you want to subscribe to one of our newsletters, we ask you to simply provide your business email address. In that case, we use your email address only in connection with providing you the newsletter and for no other purpose. 
 
