@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findit.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101050705id_/http%3A//findit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findit.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603154026id_/http%3A//www.findit.com/privacy.html) for the most accurate reproduction.*
 
 # Findit.com - Find everything on the Internet.
 
