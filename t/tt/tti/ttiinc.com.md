@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ttiinc.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095254id_/http%3A//www.ttiinc.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttiinc.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604042612id_/http%3A//www.ttiinc.com/privacy.asp) for the most accurate reproduction.*
 
-# TTI Inc
+# TTI Inc. - Electronic Components Distributor
 
 **STATEMENT OF PRIVACY**
 
