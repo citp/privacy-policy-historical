@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the aessuccess.org privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603044629id_/http%3A//www.aessuccess.org/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aessuccess.org privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207132312id_/http%3A//aessuccess.org/about/pp.shtml) for the most accurate reproduction.*
 
-# Privacy Policy
-
-  
-
-
-### ****American Education Service's (AES) Website Privacy Policy
+# AES - Privacy Policy
 
   * AES’ Commitment To Privacy Protection For Users Of Its Website
   * Notice And Disclosure
@@ -56,7 +51,7 @@ Return to Privacy Policy Menu
 
 **Choice and Consent**
 
-AES provides users access on its website to users’ individual account, eligibility for financial aid status, and much more personal user level information. AES fully understands and wishes to fully serve its website users that do not desire to have personally identifying account and status information available on the AES website. Users may request the deletion of their AES account information available to them on the AES website by sending an email to [slsccs@pheaa.org](mailto:slsccs@pheaa.org) or call 1-800-233-0557 extension 4500. Upon receipt of an email from a user, AES will remove the user’s account information from its website but will continue to retain all of the information on its computer systems as required by state and federal laws and regulations governing financial aid. 
+AES provides users access on its website to users’ individual account, eligibility for financial aid status, and much more personal user level information. AES fully understands and wishes to fully serve its website users that do not desire to have personally identifying account and status information available on the AES website. Users may request the deletion of their AES account information available to them on the AES website by sending an email to [ecomm@aessuccess.org](mailto:ecomm@aessuccess.org%0A) or call 1-877-603-6010. Upon receipt of an email from a user, AES will remove the user’s account information from its website but will continue to retain all of the information on its computer systems as required by state and federal laws and regulations governing financial aid. 
 
 Unless specifically notified by the user, AES will operate as though the user consents to the user’s account information being available on its websites. Please review the sections on data security and AES’ privacy commitment for explanations of the security utilized by AES in protecting personal account information from unauthorized disclosure.
 
@@ -88,11 +83,13 @@ Return to Privacy Policy Menu
 
 The AES Website Privacy Policy may be modified when necessary to conform to federal, state, local, and international laws and regulations, and at other times to conform with technological changes, court decisions, and changes in agency policy. Changes to the AES Website Privacy Policy will be notated here when made so that you may be fully informed about the privacy protections afforded to you by AES enabling you to make an informed decision concerning your use of the AES website. It is recommended that you check the AES Website Privacy Policy each time that you visit the AES website. 
 
-Originally Adopted: February 2, 2001
+**Originally Adopted:** February 2, 2001
 
-Date last Modified: 
+**Date last Modified:** January 10, 2002
 
-Section Modified:
+**Section Modified:** Choice and Consent 
+
+**Description of Modification:** Updates were made to the email address and telephone number provided to users to request the deletion of their AES account information available to them on the AES website.
 
 Return to Privacy Policy Menu
 
@@ -100,9 +97,9 @@ Return to Privacy Policy Menu
 
 ****Should you have any questions, concerns or desire additional information concerning the AES Website Privacy Policy please contact AES by one of the following means:
 
-E-mail: nettech@pheaa.org
+E-mail:[ nettech@aessuccess.org](mailto:%20nettech@pheaa.org)
 
-Phone: 1-800-233-0557 ext. 4500
+Phone: 1-877-603-6010
 
 Mail your inquiry to:
 
@@ -116,7 +113,7 @@ Return to Privacy Policy Menu
 * * *
 
   
-1For the purposes of the AES Website Privacy Policy, any reference to PHEAA or AES means PHEAA and all of its divisions including but not limited to: American Education Services (AES), Student Loan Servicing Center (SLSC) and the GraduateLoan CenterSM (GLC). 
+1For the purposes of the AES Website Privacy Policy, any reference to PHEAA or AES means PHEAA and all of its divisions including but not limited to: American Education Services (AES), Loan Servicing and Graduate Services. 
 
 2PHEAA is a guarantor, servicer, lender, and secondary market of student loans as well as the state agency responsible for administering the Pennsylvania State Higher Educational Assistance Grant Program and various other state and federal higher education financial aid programs. As such, PHEAA has very different relationships with the users of its websites. It is important to note that PHEAA may be required, dependent upon its relationship with website users, to share information about the users with authorized third parties. 
 
