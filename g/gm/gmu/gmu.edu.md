@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmu.edu privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621121648id_/http%3A//www.gmu.edu/mlnavbar/webdev/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmu.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204205800id_/http%3A//www.gmu.edu/mlnavbar/webdev/privacy) for the most accurate reproduction.*
 
 # Web Development -- Privacy - George Mason University
 
@@ -7,15 +7,15 @@
 
 The following information explains the Internet Privacy Policy which George Mason has adopted for its website (web pages at addresses beginning with "http://www.gmu.edu"). The following is intended to explain our current Internet privacy practices but shall not be construed as a contractual promise. We reserve the right to amend our Internet Privacy Policy Statement at any time without notice. 
 
-Virginia Law
+**Virginia Law**
 
 We protect our records in accordance with our obligations as defined by applicable Virginia statutes, including, but not limited to, the Virginia Privacy Protection Act of 1976, the Virginia Freedom of Information Act, and by any applicable U.S. federal laws. 
 
-Links to Other Web Sites
+**Links to Other Web Sites**
 
 Our website includes links to external sites. George Mason is not responsible for the privacy practices of these outside sites. Although these sites have been evaluated, it is recommended that users read the individual policy statements of each website when they leave a George Mason University server. 
 
-Information We Collect
+**Information We Collect**
 
 When you access our website, the routing, or client, information and the essential and nonessential technical information listed below is automatically collected. No other information is collected through our website except when you deliberately decide to send it to us (for example, by clicking on a link to send us an email). The information you might choose to send us is listed below as "optional information." George Mason bears no responsibility for material presented that is unrelated to the University's mission. 
 
@@ -53,5 +53,5 @@ If you have questions about this privacy statement or the practices of this webs
 
 Commonwealth of Virginia: [Internet Web Page Privacy Statement Guidelines](http://state.vipnet.org/cts/papers/covitrmguide.pdf). 
 
-Updated November 9, 2001  
+Updated November 12, 2003  
 Mason Web Team
