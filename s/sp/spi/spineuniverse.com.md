@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208074156id_/http%3A//www.spineuniverse.com/displayarticle.php/article62.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spineuniverse.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404042137id_/http%3A//www.spineuniverse.com/displayarticle.php/article62.html) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
+| | **Use FREE SpineUniverse Tools. Enter your Zipcode and we'll show you the best doctors and treatments in your area. **  
+---|---  
+  
 SpineUniverse was founded by doctors. Patient privacy has a longstanding tradition in medicine. In fact, the Hippocratic Oath (which is sworn to by physicians around the world), is over 2000 years old, and contains very specific requirements about patient privacy. Our privacy policy is stringent.
 
 We will only collect information that is voluntarily provided by our visitors. No cookies, scripts or other method will ever be employed to obtain extra information without the approval of our member.
@@ -17,5 +20,3 @@ Statistical information on our members as a group (usage habits, demographics) m
 Any financial transaction occuring via SpineUniverse will occur over an encrypted channel.
 
 If you have any questions about our privacy policy, please feel free to contact us at [feedback@SpineUniverse.com](mailto:feedback@spineuniverse.com)
-
-| 
