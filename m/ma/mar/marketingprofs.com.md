@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014131240id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622043308id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,7 +14,7 @@ Our site uses cookies to save your username and password if you become a member 
 
 Aside from that, we use session variables to aid in the development of various features on the site. Session variables disappear after 20 minutes or when the user exits a browser. Thus, this information is not stored for any reason other than as indicated.
 
-The user's contact information is also used to send a newsletter if you are a member or subscribe to the newsletter. All recipients of the newsletter may opt-out of receiving future newsletterer when so desired, and are given opportunity to opt-out of these newsletters at any time \- using the [Member Services](https://web.archive.org/memberservices/index.asp) page.
+The user's contact information is also used to send a newsletter if you are a member or subscribe to the newsletter. Special offers are sometimes sent to subscribers as well. However, all recipients of the newsletter may opt-out of receiving future newsletters or offers when so desired, and are given opportunity to opt-out of these emails at any time - at the bottom of each newsletter or using the [My Subscription ](https://web.archive.org/d.asp) link on the top navigation bar on the site.
 
 Aside from these uses of user information - and we have no knowledge of this information except at an anonymous level - we do not sell, nor plan to sell any user information to anyone.
 
