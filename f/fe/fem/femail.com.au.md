@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604193130id_/http%3A//www.femail.com.au/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210143953id_/http%3A//www.femail.com.au/privacypol.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
