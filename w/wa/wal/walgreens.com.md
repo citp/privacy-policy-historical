@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602204413id_/http%3A//www.walgreens.com/help/privacyandsecurity.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walgreens.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205191648id_/http%3A//www.walgreens.com/help/privacyandsecurity.jhtml) for the most accurate reproduction.*
 
 # Walgreens | Help | Online Privacy and Security Statement
 
@@ -21,12 +21,12 @@ You may choose to supply personalized information that will enable you to receiv
 
 We will not intentionally release your particular prescription information other than to you, our contracted fulfillment parties (if any), your authorized representative, or your prescriber or other authorized medical professional. We may forward your prescription information to your insurance plan, so that we can handle reimbursement of your prescription purchase for your convenience. 
 
-We may share non-medical information and summary or aggregate statistical information and data with our content providers, suppliers, vendors and other third parties. You may elect to decline these additional e-mails by clicking [See & Edit My Account](https://www.walgreens.com/pharmacy/register/viewpersonalinfo.jhtml). Your medical information will not be intentionally provided to third parties unless: we have received your permission; we believe in good faith that we are legally obligated to do so; or such release is necessary to protect our rights or property. In compliance with the Methamphetamine Control Act of 1996, Walgreens.com will provide the Drug Enforcement Agency with the name and address of each individual who purchases products on Walgreens.com which contain the ingredients ephedrine or pseudophedrine. We will disclose medical and other information which may relate to you as and if required by law. 
+We may share non-medical information and summary or aggregate statistical information and data with our content providers, suppliers, vendors and other third parties. You may elect to decline these additional e-mails by clicking [See & Edit Your Account](https://www.walgreens.com/pharmacy/register/viewpersonalinfo.jhtml). Your medical information will not be intentionally provided to third parties unless: we have received your permission; we believe in good faith that we are legally obligated to do so; or such release is necessary to protect our rights or property. In compliance with the Methamphetamine Control Act of 1996, Walgreens.com will provide the Drug Enforcement Administration with the name and address of each individual who purchases products on Walgreens.com which contain the ingredients ephedrine or pseudophedrine. We will disclose medical and other information which may relate to you as and if required by law. 
 
 **Receiving E-mail from Walgreens**  
 We will contact you by e-mail throughout the ordering process. Certain prescription-related issues may require your response to complete your order successfully. Please be sure to check your e-mail regularly once you have placed your order online. If we are unable to reach you by e-mail, we may try to contact you by phone. 
 
-In addition, we may occasionally send useful information to you by e-mail, including new products and services offered by us or other organizations. Although it still may be necessary for our pharmacists to contact you regarding your prescription, you may decline to receive any additional e-mail concerning new products and services by clicking [See & Edit My Account](https://www.walgreens.com/pharmacy/register/viewpersonalinfo.jhtml) in the pharmacy department. Click **Edit Personal Information** , and select **No** in answer to the question about receiving e-mail. Then click **Done**. 
+In addition, we may occasionally send useful information to you by e-mail, including new products and services offered by us or other organizations. Although it still may be necessary for our pharmacists to contact you regarding your prescription, you may decline to receive any additional e-mail concerning new products and services by clicking [See & Edit Your Account](https://www.walgreens.com/pharmacy/register/viewpersonalinfo.jhtml) in the pharmacy department. Click **Edit Personal Information** , and select **No** in answer to the question about receiving e-mail. Then click **Update**. 
 
 **Security (Secure Socket Layer)**  
 Walgreens is committed to securing your personal information. We use technology that is designed for use with secure Web servers. Prescription drug information resides in a database behind a firewall where it cannot be accessed without proper authorization. Secure Sockets Layer ("SSL") technology encrypts your personal information as well as your prescription health history as it is transmitted over the Internet. You maintain the security of your medical information by keeping your user name, password, [PIN](http://www.walgreens.com/help/pin.jhtml) and other personal-identifying information confidential. In addition, Walgreens customer service representatives will never ask you or call you to request your password. 
@@ -47,5 +47,12 @@ Under the Fair Credit Billing Act, you cannot be held liable for more than $50.0
 Walgreens.com also supports the Verified by Visa Security Service.  
 Learn more about this feature.
 
-|  |   
+|  | 
+
+**MOST COMMON QUESTIONS**
+
+Need additional help? 
+
+[Click here](https://web.archive.org/web/20021205191648id_/http%3A//www.walgreens.com/help/faq/default.jhtml)  
+  
 ---|---|---
