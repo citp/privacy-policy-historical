@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001201714id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806153530id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement :: Names.Co Internet Plc
+# Privacy Statement :: Namesco Limited Domain Names, Hosting and Dedicated Server Solutions
 
-This privacy statement discloses the privacy practices for Names.co Internet plc.
+This privacy statement discloses the privacy practices for Namesco Limited.
 
 This web site agrees to notify you of: 
 
@@ -11,16 +11,16 @@ This web site agrees to notify you of:
   3. How the information is used 
   4. With whom the information may be shared 
   5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Names.co Internet's control 
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Namesco Limited control 
   7. How you can correct any inaccuracies in the information. 
 
 
 
-If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20031001201714id_/http%3A//www.names.co.uk/contact.html)
+If you feel that this company is not abiding by its posted privacy policy, you should [contact us](https://web.archive.org/web/20040623011325id_/http%3A//www.names.co.uk/contact.html)
 
 Information Collection and Use 
 
-Names.co Internet is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Names.co Internet collects information from our users at several different points on our website. 
+Namesco Limited is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Namesco Limited collects information from our users at several different points on our website. 
 
 Order 
 
@@ -44,7 +44,7 @@ We use a credit card processing company to bill users for services. These compan
 
 Links 
 
-This web site may contain links to other sites. Please be aware that we [Names.co Internet plc] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
+This web site may contain links to other sites. Please be aware that we [Namesco Limited] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site. 
 
 Security 
 
