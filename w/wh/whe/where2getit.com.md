@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603173635id_/http%3A//where2getit.com/whoweare/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207064951id_/http%3A//www.where2getit.com/whoweare/privacy.php) for the most accurate reproduction.*
 
 # where2getit: Who We Are
 
@@ -70,7 +70,7 @@ From time to time we may send our users Website and service announcement updates
 
 ###### Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as zip code), or if a user no longer desires our service, please send an email to [data@where2getit.com](mailto:data@where2getit.com) or call customer support at 847.498.0111.
+If a user's personally identifiable information changes (such as zip code), or if a user no longer desires our service, please send an email to [data@where2getit.com](mailto:data@where2getit.com) or call customer support at 888.377.2767.
 
 ###### Choice/Opt-out
 
