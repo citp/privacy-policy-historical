@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004052920id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603225120id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
 
 # Great Buildings Online Privacy Statement
 
@@ -12,15 +12,19 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 This site contains links to other sites. **www.ArchitectureWeek.com** is not responsible for the privacy practices or the content of such Web sites. 
 
-We belong to the [24/7 Media Network](http://www.247media.com/), one of the largest advertising networks on the Internet. This network uses an outside company, AdForce, to display [ads on this site](http://www.architectureweek.com/advertising.html). Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site itself does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site, and we do not provide AdForce with any special information including keywords, subject areas, zip codes or area codes. 
+Ads displayed at this site may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site itself does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site, and we do not provide advertisers with any special information including keywords, subject areas, zip codes or area codes. 
 
-_AdForce's Use of Cookies_
+_Use of Cookies_
 
-AdForce uses a feature of your browser to set a "cookie" on your computer. This allows us to measure and report aggregate information to advertisers such as the number of people who see their ad (reach) and the number of times people see their ad (frequency). It also allows us to deliver ads that are more relevant to you and avoid delivering the same ads too many times. Cookies, by themselves, cannot be used to find out the identity of any user. AdForce will only store information provided voluntarily, but this information is not personally identifiable. If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept. 
+Ad servers may use a feature of your browser to set a "cookie" on your computer. This allows us to measure and report aggregate information to advertisers such as the number of people who see their ad (reach) and the number of times people see their ad (frequency). It also allows us to deliver ads that are more relevant to you and avoid delivering the same ads too many times. 
 
-_AdForce's Use of IP Addresses_
+Cookies, by themselves, cannot be used to find out the identity of any user. Our ad servers will only store information provided voluntarily, but this information is not personally identifiable. If for some reason you would rather not take advantage of the benefits made possible with cookies, most browsers allow you to reject cookies or to choose which cookies to accept. 
 
-AdForce delivers Internet advertisements for AdForce-enabled Web sites. In the process of delivering ads AdForce recognizes the URL and category of the active Web Page, information about your computer, such as the browser, operating system and IP address, and the home server from which you access the Internet. In some cases AdForce-enabled Web sites provide AdForce with information such as keywords, subject areas, zip codes or area codes. IMGIS uses this information to select advertisements that will work on your computer and are more relevant to your interests. Information regarding visitors to AdForce-enabled sites is aggregated for the purposes of reporting to advertisers, ad sales organizations and the Web sites. Information about specific visitors is not made available to any of these organizations. 
+_Use of IP Addresses_
+
+Ad servers deliver Internet advertisements for enabled Web sites. In the process of delivering ads, ad servers recognize the URL and category of the active Web Page, information about your computer, such as the browser, operating system and IP address, and the home server from which you access the Internet. In some cases enabled Web sites provide ad servers with information such as keywords, subject areas, zip codes or area codes. This information may be used to select advertisements that will work on your computer and are more relevant to your interests. 
+
+Information regarding visitors to enabled sites is aggregated for the purposes of reporting to advertisers, ad sales organizations and the Web sites. Information about specific visitors is not made available to any of these organizations. 
 
 **Public Forums**
 
