@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204021658id_/http%3A//www.privacyrights.org/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyrights.org privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325084502id_/http%3A//www.privacyrights.org/policy.htm) for the most accurate reproduction.*
 
 # PRC's Privacy Policy
 
@@ -19,11 +19,11 @@ We do not sell, rent, share, or otherwise disclose mailing lists or other person
 
 On occasion we are asked by the media or legislative staff for names of individuals who have experienced particular privacy abuses. We do not share such names or other identifying information unless you specifically authorize us to do so. 
 
-If you have given consent for us to release your information, whether to a reporter or legislator or otherwise, and later decide you no longer wish to consent, send an email to [ jbeebe@privacyrights.org](mailto:jbeebe@privacyrights.org), notify us through our inquiry form at [ www.privacyrights.org/inquiryform.html](https://web.archive.org/web/20041204021658id_/http%3A//www.privacyrights.org/inquiryform.html), or contact us by phone or mail.
+If you have given consent for us to release your information, whether to a reporter or legislator or otherwise, and later decide you no longer wish to consent, send an email to [ jbeebe@privacyrights.org](mailto:jbeebe@privacyrights.org), notify us through our inquiry form at [ www.privacyrights.org/inquiryform.html](https://web.archive.org/web/20050325084502id_/http%3A//www.privacyrights.org/inquiryform.html), or contact us by phone or mail.
 
-We do not enable "cookies" on our web site. (For an explanation of cookies, see our [fact sheet number 18](https://web.archive.org/web/20041204021658id_/http%3A//www.privacyrights.org/fs/fs18-cyb.htm)). The server of our Internet Service Provider collects information about the date and time in which our web site was accessed and the Internet address of the web site from which you linked to our site for aggregated statistical purposes, to measure the number of visitors to our site and the addresses of the web sites from which our visitors come. Email addresses and other personally identifiable information are not available to us. 
+We do not enable "cookies" on our web site. (For an explanation of cookies, see our [fact sheet number 18](https://web.archive.org/web/20050325084502id_/http%3A//www.privacyrights.org/fs/fs18-cyb.htm)). The server of our Internet Service Provider collects information about the date and time in which our web site was accessed and the Internet address of the web site from which you linked to our site for aggregated statistical purposes, to measure the number of visitors to our site and the addresses of the web sites from which our visitors come. Email addresses and other personally identifiable information are not available to us. 
 
-Any future updates to this policy will be noted on this web page. If you have any questions or concerns about this privacy policy, please contact us: [ www.privacyrights.org/inquiryform.html](https://web.archive.org/web/20041204021658id_/http%3A//www.privacyrights.org/inquiryform.html)
+Any future updates to this policy will be noted on this web page. If you have any questions or concerns about this privacy policy, please contact us: [ www.privacyrights.org/inquiryform.html](https://web.archive.org/web/20050325084502id_/http%3A//www.privacyrights.org/inquiryform.html)
 
 > [Beth Givens](mailto:bgivens@privacyrights.org?subject=PRC%20Privacy%20Policy), Director  
 >  Privacy Rights Clearinghouse  
@@ -31,4 +31,4 @@ Any future updates to this policy will be noted on this web page. If you have an
 >  San Diego, CA 92103  
 >  Phone: (619) 298-3396  
 >  Fax: (619) 298-5681  
->  Web: [www.privacyrights.org](https://web.archive.org/web/20041204021658id_/http%3A//www.privacyrights.org/index.htm)
+>  Web: [www.privacyrights.org](https://web.archive.org/web/20050325084502id_/http%3A//www.privacyrights.org/index.htm)
