@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610113935id_/http%3A//www.learning.com/Privacy_Policy/0%2C1117%2C28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015001914id_/http%3A//www.learning.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Learning.com :: Privacy Policy
 
-PLEASE REVIEW CAREFULLY LEARNING.COM'S USER AGREEMENT AND THIS PRIVACY POLICY, AND THE CHILD PRIVACY POLICY BELOW (IF APPLICABLE), BEFORE USING THIS WEBSITE. 
+PLEASE CAREFULLY  REVIEW THE LEARNING.COM USER AGREEMENT, THIS PRIVACY POLICY, AND THE CHILD PRIVACY POLICY BELOW (IF APPLICABLE) BEFORE USING THIS WEBSITE. 
 
 The Privacy Policies are incorporated into Learning.com's User Agreement, and by using Learning.com's Website, you indicate your assent to the terms of that Agreement (including the Privacy Policies). 
 
