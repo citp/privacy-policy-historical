@@ -1,8 +1,33 @@
-> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2004-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041213193431id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-| | [](https://web.archive.org/web/20041213193431id_/http%3A//www.entirelypets.com/index.html)
+| •| [Advantage Flea Control for Dogs](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/eccon.html)  
+---|---  
+•| [Advantage Flea Control for Cats](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/adfleconforc.html)  
+•| [Frontline Flea/Tick Control for Dogs](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/fronfleandti.html)  
+•| [Frontline Flea/Tick Control for Cats](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/fronfleandti1.html)  
+•| [Frontline PLUS for Dogs/Cats](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/fronplusford.html)  
+•| [Program for Dogs](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/progfleconfo.html)  
+•| [Program for Cats](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/progfleconfo1.html)  
+•| [K9 ADVANTIX](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/neadk9flkipl.html)  
+•| [Arthritis & Joint Supplements](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/nutsupforjoi.html)  
+•| [Nutritional Supplements](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/nutsup.html)  
+•| [Shampoos & Sprays](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/shampoos.html)  
+•| [Ear & Eye Products](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/earproducts.html)  
+•| [Preventic Tick Collar](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/prevticcol1.html)  
+•| [Dental Products](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/dentalproducts.html)  
+•| [Dewormers](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/dewormers.html)  
+•| [Topicals](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/topicals.html)  
+•| [Heartworm Preventives](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/hearprev.html)  
+•| [Medications](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/medications.html)  
+•| [Toys and Treats](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/toysandtreats.html)  
+•| [Birds and Other Pets](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/birandotpet.html)  
+•| [Supplies](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/supplies.html)  
+•| [Vaccines](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/vaccines.html)  
+  
+| [](https://web.archive.org/web/20050402235913id_/http%3A//www.entirelypets.com/index.html)  
+
 
 EntirelyPets.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: EntirelyPets.com.
 
