@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kronos.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203204824id_/http%3A//www.kronos.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kronos.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401112907id_/http%3A//kronos.com/Privacy.htm) for the most accurate reproduction.*
 
-# Privacy statement/Terms of use > Kronos
+# Privacy Statement/Terms of Use > Kronos
 
 Kronos® Incorporated respects your right to privacy. This statement discloses the privacy practices for the Kronos Incorporated website. This statement also describes other important topics relating to your privacy.
 
