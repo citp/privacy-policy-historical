@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202125300id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentearth.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413113042id_/http%3A//www.entertainmentearth.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Action Figures, Toys and Movie Collectibles at EntertainmentEarth.com
 
@@ -96,7 +96,7 @@ Top of Page   
   
 
 
-[Welcome](http://www.entertainmentearth.com/home.asp) | [Browse](http://www.entertainmentearth.com/browse.asp) | [New Products](http://www.entertainmentearth.com/hitlist.asp?new=1) | [Clearance](http://www.entertainmentearth.com/hitlist.asp?clearance=1) | [Really Cool Expensive Stuff](http://www.entertainmentearth.com/hitlist.asp?premium=1)  
+[Welcome](http://www.entertainmentearth.com/home.asp) | [Browse](http://www.entertainmentearth.com/browse.asp) | [Coming Soon](http://www.entertainmentearth.com/hitlist.asp?coming=1) | [New Products](http://www.entertainmentearth.com/hitlist.asp?new=1) | [Clearance](http://www.entertainmentearth.com/hitlist.asp?clearance=1) | [Really Cool Expensive Stuff](http://www.entertainmentearth.com/hitlist.asp?premium=1)  
 [Cart](http://www.entertainmentearth.com/cart.asp) | [Your Account](https://www.entertainmentearth.com/youraccount.asp) | [Help](http://www.entertainmentearth.com/help/help.asp)
 
 [About Us](http://www.entertainmentearth.com/help/aboutee.asp) | [Privacy Policy](http://www.entertainmentearth.com/help/privacy.asp) | [Affiliates](http://www.entertainmentearth.com/affiliates/affiliates.asp)  
@@ -104,7 +104,7 @@ Top of Page   
 
 [Contact Us](http://www.entertainmentearth.com/help/help.asp)
 
-[Copyright](http://www.entertainmentearth.com/help/disclaimer.asp) 1996-2000 Entertainment Earth. All Rights Reserved. [Legal Disclaimer](http://www.entertainmentearth.com/help/disclaimer.asp).   
+[Copyright](http://www.entertainmentearth.com/help/disclaimer.asp) 1996-2001 Entertainment Earth. All Rights Reserved. [Legal Disclaimer](http://www.entertainmentearth.com/help/disclaimer.asp).   
 
 
 [](http://www.bizrate.com/merchant/reports/index.xpml?mid=484) [](http://www.gomez.com/certification/verify.cfm?topcat_id=62&firm_id=1645) [](http://www.mastercard.com/cgi-bin/shopsmart/763620) [](http://www.emerchandise.com/EE)
