@@ -1,32 +1,98 @@
-> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208164337id_/http%3A//www.websense.com/w3c/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623135047id_/http%3A//www.websense.com/w3c/Visitor.php) for the most accurate reproduction.*
 
-# Websense > Privacy Policy
+# Websense.com Privacy Policy
 
-**Websense Web Site  
-Privacy Policy Statement**
+Privacy Policy for Websense Inc.
 
-For contact information, [click here](https://web.archive.org/web/20031208164337id_/http%3A//www.websense.com/w3c/company/contact/index.cfm). 
+About Us
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address. 
+This is a privacy policy for Websense Inc's Web site visitors. **To view the Online Privacy Statement that applies when you fill out any personal information on our site,[click here.](https://web.archive.org/w3c/user.php)**
 
-We only collect user-specific information when someone downloads our software, requests a key, requests a Premium Group evaluation, submits a technical support question, or uses our Site Lookup Tool. 
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
-The information we collect is used for internal review, prospective sales analysis, and to improve the content of our Web site. It is not shared with other organizations for commercial purposes. 
+Websense Inc.  
+10240 Sorrento Valley Road  
+San Diego, CA 92121   
+USA 
 
-We use cookies to record past activity on our site in order to provide better service when visitors return. 
 
-We send out a monthly email newsletters (The WebsenseWire) to prospects and current customers to let them know about new upgrades and useful information about our product and the Employee Internet Management industry. You may unsubscribe at <http://www.websense.com/websensewire/index.cfm>. 
+You may contact us by e-mail at [privacy@websense.com](mailto:privacy@websense.com). You may call us at 800.723.1166 (US) or 858.320.8000 (intl). 
 
-We occasionally send out customer bulletins to our customers to let them know about important issues relating to Websense software. To unsubscribe from these customer bulletins or from all Websense email communications, go to <http://www.websense.com/customerbulletins/listremoval.cfm>. 
+Dispute Resolution and Privacy Seals
 
-Persons who supply us with their telephone numbers on-line will receive telephone contact from us with information regarding orders they have placed online or regarding new products that may interest them. If you do not wish to receive telephone calls, please let us know by e-mailing us at [webmaster@websense.com](mailto:webmaster@websense.com). Please provide us with your name and phone number. 
+We have no privacy seals or other assurance mechanisms. 
 
-We do not partner with or have special relationships with any ad server companies. 
+Additional Information
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
+This policy is valid until 15 Jan, 2005 at 12:00:00 PST. 
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by writing to us at: 10240 Sorrento Valley Road, San Diego, CA 92121. 
+Data Collection
 
-Upon request we provide site visitors with access to all information that we maintain about them. Consumers can access this information by emailing [webmaster@websense.com](mailto:webmaster@websense.com). 
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately. 
 
-Upon request we offer visitors the ability to have factual inaccuracies corrected in information that we maintain about them. If you feel that this site is not following its stated information policy, you may contact us by emailing [webmaster@websense.com](mailto:webmaster@websense.com). 
+* * *
+
+**Group "Basic information"**
+
+We collect the following information: 
+
+  * Navigation and click-stream data
+  * HTTP protocol elements
+  * Search terms
+  * Computer information
+
+
+
+This data will be used for the following purposes:
+
+  * Web site and system administration.
+  * Research and development.
+
+
+
+This data will be used by ourselves and our agents. 
+
+The data in this group has been marked as non-identifiable. This means that there is no reasonable way for the site to identify the individual person this data was collected from. 
+
+The following explanation is provided for why this data is collected:
+
+We track "basic" information from all our Web visitors, to improve the navigation and content of our site. 
+
+
+* * *
+
+**Group "Cookies"**
+
+We collect the following information: 
+
+  * HTTP cookies
+  * State management mechanisms
+
+
+
+This data will be used for the following purposes:
+
+  * Research and development.
+  * One-time tailoring.
+
+
+
+This data will be used by ourselves and our agents. 
+
+The following explanation is provided for why this data is collected:
+
+Cookies are used to track visitors to our site, so we can get an understanding of what portions of our site serve you best.
+
+
+* * *
+
+Cookies
+
+Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+
+Our site makes use of cookies. Cookies are used for the following purposes: 
+
+  * User targeting 
+  * Research and development 
+
+
