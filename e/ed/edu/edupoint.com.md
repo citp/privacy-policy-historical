@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edupoint.com privacy policy that was archived on 2000-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000524115130id_/http%3A//www.edupoint.com/company/privacy_policy.html%3Fid%3D7395943) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edupoint.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207013500id_/http%3A//www.edupoint.com/global/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# EduPoint.com: Privacy Policy: The Marketplace for Continuing Education -- the Internet's largest, centralized source for college degrees, certificates, training programs and classes -- with Academic Advisors and online course enrollment.
+# EduPoint - Privacy Statement for EduPoint
 
-EduPoint.com (the "Company") has created this privacy statement to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL [www.edupoint.com](http://www.edupoint.com/?id=7395943) and any other site provided by the Company (collectively, the "Site"). The Company reserves the right to change this policy at any time by posting a new privacy policy at this location. 
+EduPoint (the "Company") has created this privacy statement to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL [www.edupoint.com](http://www.edupoint.com/?id=7446713) and any other site provided by the Company (collectively, the "Site"). The Company reserves the right to change this policy at any time by posting a new privacy policy at this location. 
 
 _**What Information We Collect and How We Use That Information:**_
 
@@ -25,7 +25,7 @@ Your browser is probably set to accept cookies. However, if you would prefer not
 This Site may make chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
 **Security:**  
-This Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. The Internet is a 'public packet network'; this means documents sent over the Internet could be read or modified by people who are not intended to access them. To guard against this, Edupoint.com uses the encryption protocol "Secure Socket Layer" for sensitive data our members supply us via the web. Most networks today use a "Firewall" computer to protect their servers and network from unauthorized access. Edupoint.com uses industry standard firewall technology to protect our servers.
+This Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. The Internet is a 'public packet network'; this means documents sent over the Internet could be read or modified by people who are not intended to access them. To guard against this, EduPoint uses the encryption protocol "Secure Socket Layer" for sensitive data our members supply us via the web. Most networks today use a "Firewall" computer to protect their servers and network from unauthorized access. Edupoint uses industry standard firewall technology to protect our servers.
 
 **Choice/Opt-Out:**  
 EduPoint may send out communications regarding its services, the Site or otherwise. EduPoint provides you the opportunity to opt-out of receiving such communications by:
@@ -46,6 +46,6 @@ If you have any questions about this privacy statement, the practices of this Si
 
 Our Address:
 
-> Edupoint.com  
+> EduPoint  
 >  380 Stevens, Suite 210  
->  San Diego, CA 92075 
+>  Solana Beach, CA 92075 
