@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402123635id_/http%3A//my.countrywide.com/Privacy.asp%3Flinkid%3DPCFT014) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrywide.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202161821id_/http%3A//my.countrywide.com/Privacy.asp%3Flinkid%3DPCFT014) for the most accurate reproduction.*
 
 # Countrywide Privacy
 
-|   
----  
-|  |  |   | contents:    
-PRIVACY AND SECURITY |  ABOUT INTERNET SECURITY| PERSONAL INFORMATION  |COOKIES, PIXEL TAGS OR SIMILAR DEVICES  
+|  |  |  |  | Privacy and Security in The Countrywide family  
 ---|---  
-  |   
-| Privacy and Security in The Countrywide family  
 |  | Individual Needs. Individual Solutions.®  
 The opportunities you deserve, the privacy you expect  
 ---  
@@ -22,7 +17,7 @@ To offer you all the greatest advantages as a Countrywide customer, we find that
    
 Your protection is our priority  
   
- We use advanced data-encryption and storage technology to protect your sensitive personal information. Also, most of our companies benefit from membership in recognized online privacy and security organizations such as [TruSecure](http://www.trusecure.com/)®[Corporation](http://www.trusecure.com/) and [VeriSign Inc.](http://www.verisign.com/about/index.html)
+ We use advanced data-encryption and storage technology to protect your sensitive personal information. Also, most of our companies benefit from membership in recognized online privacy and security organizations such as [ TruSecure](http://www.trusecure.com/)®[Corporation](http://www.trusecure.com/) and [VeriSign Inc.](http://www.verisign.com/about/index.html)
 
 We implemented extensive administrative, technical and physical safeguards and quality controls. These include:
 
@@ -44,7 +39,7 @@ When you are asked to enter your personal information on a Countrywide website, 
 
   * Sophisticated, industry-leading encryption and authentication technologies 
   * Website design that blocks or limits online display of customer information when not necessary to you or the transaction 
-  * IDs and passwords to protect sensitive information
+  * IDs and passwords to protect sensitive information 
 
 
 
@@ -53,7 +48,7 @@ For more details on Internet security, please see our "About Internet Security" 
   |    
 Use of cookies | Back to top  
   
-Unlike some companies, we designed many features of our site to let new visitors anonymously learn about our financial products and services, view today’s rates and use our educational tools without revealing their identities. For these new visitors, the only information we collect online is from cookies, pixel tags or similar devices, which provide limited data, such as the date, time and areas of our site that were visited, interactions with the site, and the Web path/domain where the visitor came from. This general information enables us to serve customers better by continually improving our Web site, making it more convenient, and improving our Internet marketing efforts. When you go online and select one of our financial products or services, log in to review your accounts, or respond to our marketing materials sent directly to you, we will try to identify your browser and may combine information from cookies, pixel tags or other similar devices with other information you have provided to us and other data we maintain about you. We do this to better serve your financial needs and make your online experience more convenient.
+Unlike some companies, we designed many features of our site to let new visitors anonymously learn about our financial products and services, view today’s rates and use our educational tools without revealing their identities. For these new visitors, the only information we collect online is from cookies, pixel tags or similar devices, which provide limited data, such as the date, time and areas of our site that were visited, interactions with the site, and the Web path/domain where the visitor came from. This general information enables us to serve customers better by continually improving our Web site, making it more convenient, and improving our Internet marketing efforts. When you go online and select one of our financial products or services, log in to review your accounts, or respond to our marketing materials sent directly to you, we will try to identify your browser and may combine information from  cookies, pixel tags or other similar devices with other information you have provided to us and other data we maintain about you. We do this to better serve your financial needs and make your online experience more convenient.
 
 Cookies are Required to operate the Your Accounts feature
 
@@ -105,6 +100,11 @@ Countrywide Bank, a division of Treasury Bank, N.A., offers checking, savings, C
 New Products and Services  
 From time to time, the Countrywide family of companies may expand to offer you new products and services by forming, acquiring or merging with a new company  
   
+For privacy and security policies of specific companies within the Countrywide family not covered hereunder please visit:  
+[Countrywide Home Loans](https://web.archive.org/web/20031202161821id_/http%3A//my.countrywide.com/PortalExit.aspx?ACTION=LoanPrivacy&dest=1)  
+[Countrywide Insurance Services](https://web.archive.org/web/20031202161821id_/http%3A//my.countrywide.com/PortalExit.aspx?ACTION=InsPrivacy&dest=3)  
+[Countrywide Bank](https://web.archive.org/web/20031202161821id_/http%3A//my.countrywide.com/PortalExit.aspx?ACTION=BankPrivacy&dest=2)  
+[Countrywide Investments](https://web.archive.org/web/20031202161821id_/http%3A//my.countrywide.com/PortalExit.aspx?ACTION=InvestPrivacy&dest=6)  
    
 Benefits to sharing outside the Countrywide family | Back to top  
   
@@ -127,6 +127,7 @@ Additional, in order to provide you with valuable product and service offers, we
   
    
 You have choices | Back to top  
+   
   
 Because we respect your right to privacy, we give you the choice of how your personal information may be shared. You may choose to
 
@@ -161,23 +162,7 @@ Some state laws already require us to maintain more restrictive practices for sh
   
 For loans to multiple borrowers, we will treat an opt out by any borrower as applying to all borrowers on the loan. Please be aware that even if you decide to opt out, Countrywide will continue to share non-public personal information with companies that perform services on our behalf (such as the vendor who prepares our monthly statements) and with third parties as otherwise required or permitted by law (such as to credit reporting agencies or regulators), as well as share transactions and experience (such as your loan balance or payment history) within the Countrywide family of companies.
 
-During the application process, you'll be provided with a privacy notice that includes a toll-free phone number to call if you decide to exercise either of the opt out choices. Or, if you have any questions about our privacy policy, please send an email message to: : [privacypolicy@countrywide.com](mailto:privacypolicy@countrywide.com)
-
-In today's ever-changing, competitive market, opting out may mean missing timely information about money-saving products and services that help you accomplish your homeownership or other financial goals. It's something to think about carefully. We don't want you to miss out on any opportunities.
-
-Effective: July 1, 2001  
-For privacy and security policies of consumer accessible websites of Countrywide subsidiaries not covered hereunder, please visit:
-
-http://www.balboainsurance.com  
-http://www.directnetinsurance.com/about/privacy.xml?FromSource=dni  
-http://www.cwbc.com/  
-[http://www.globalhomeloans.co.uk](http://www.globalhomeloans.co.uk/)
-
-© 2003 Countrywide Financial Corporation. Trade/service marks are the property of Countrywide Financial Corporation and/or its subsidiaries. All rights reserved. 
-
-Countrywide Financial Corporation’s family of companies is the trusted source for a full range of financial services: home loans, banking, insurance, investments, capital markets, global, and closing services. These companies include Countrywide Home Loans, Inc., Countrywide Bank, a division of Treasury Bank, N.A., Countrywide Insurance Services, Inc., Countrywide Investments Services, Inc., Countrywide Capital Markets, Inc,., Global Home Loans, inc., and Landsafe, Inc.
-
-Countrywide Home Loans, Inc. and Countrywide Bank, a division of Treasury Bank, N.A., are Equal Housing Lenders. Countrywide Bank, a division of Treasury Bank, N.A. is an FDIC member.   
+During the application process, you'll be provided with a privacy notice that includes a toll-free phone number to call if you decide to exercise either of the opt out choices. Or, if you have any questions about our privacy policy, please send an email message to: : [privacypolicy@countrywide.com](mailto:privacypolicy@countrywide.com)  
   
    
 | About Internet Security  
@@ -209,7 +194,8 @@ Security may be operating without displaying any security icons (or Netscape may
 >   2. About a consumer resulting from any transaction involving a financial product or service between Countrywide and a consumer; or 
 >   3. Countrywide otherwise obtains about a consumer in connection with providing a financial product or service to that consumer. 
 > 
-Personal information includes: 
+  
+>  Personal information includes: 
 > 
 >   1. Information a consumer provides to Countrywide on an application to obtain a loan or other financial product or service; 
 >   2. Account balance information, payment history, overdraft history, and credit or debit card purchase information; 
@@ -223,16 +209,117 @@ Personal information includes:
   
    
 | cookies, pixel tags or similar devices  
-|  |  Cookies | Back to top  
+|  | Cookies | Back to top  
 ---|---  
 When you visit a site, a file called a “cookie” may be saved to your computer’s hard drive during your visit. When you revisit the site, the Web site’s server may open the cookie file and access the stored information. You can set your browser to limit or let you know about cookies that a Web site places on your computer.   
    
 Pixel tags and Third-Party cookies | Back to top  
 A pixel tag is a graphic on a Web page or in an email message that is designed to monitor whether the Web page or email message is read or clicked. Pixel tags are often invisible because they are very small in size, typically 1-by-1 pixels. Pixel files are also used for alignment purposes on Web pages of many Web sites. We sometimes use pixel tags to provide an independent accounting of how many people visit our Web sites or to gather statistics about browser usage at our Web sites. It is difficult for you to limit the use of pixel tags because there is no easy method of distinguishing pixel tags from alignment pixel files. A pixel tag may be loaded from a different Web server than the rest of the page.
 
-We sometimes use third party as serving companies to serve our internet ad banners on our site and other sites on which we advertise. If you click on one of those ads, you can go to one of the Countrywide Financial sites offering that particular product or service. These ads contain small graphics with “tags” to tell us how many people responded to our ads. They do not identify you personally. The companies that distribute our ads are prohibited by contract from using information other than for the agreed upon purpose – to help us market our products and services and to measure response rates.   
+We sometimes use third party ad serving companies to serve our internet ad banners on our site and other sites on which we advertise. If you click on one of those ads, you can go to one of the Countrywide Financial sites offering that particular product or service. These ads contain small graphics with “tags” to tell us how many people responded to our ads. They do not identify you personally. The companies that distribute our ads are prohibited by contract from using information other than for the agreed upon purpose – to help us market our products and services and to measure response rates.   
   
    
 Similar Devices | Back to top  
 For example, we include unique URLs in email marketing materials sent directly to you (such as special offers) so that we can identify that it is you responding to the campaign and provide details on the offer available to you.   
+   
+| identity theft  
+|  | What is Identity Theft? | Back to top  
+---|---  
+Identity theft is when someone takes and uses your personal information (such as your name, social security or credit card number) without your permission to commit fraud or other crimes. These criminals take the identities of others to open new credit cards; obtain phone or utility accounts, loans, or employment; open bank accounts; and/or pass fraudulent checks. According to the FBI, identity theft is the fastest growing crime in America.  
+   
+How Does Identity Theft Occur? | Back to top  
+Criminals gain access to personal information in many ways, but the most common method is to take it from the victim themselves - you. They steal mail (such as account statements, new checks and offers of credit) left in a mailbox, discarded in the trash or stored in an easy to get to location in your home or office. They take credit card and personal identification from your purse or wallet. Without knowing it, you may give the information directly to the criminal when you enter data at an unsecured or unknown website, or in response to a fraudulent request for account information through an unverified e-mail ("[phishing](http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm)"). Imposters also ask for information from you in unsolicited phone calls, tricking you into thinking it is someone you know, such as your bank ("[pretexting](http://www.ftc.gov/bcp/conline/pubs/credit/pretext.htm)").   
+   
+What Happens to the Victim? | Back to top  
+Identity thieves can damage the credit reputations and lives of victims. Studies have shown that victims spend an average of $808 and 205 hours resolving the identity theft. Time and money is spent clearing credit reports, reporting the theft to lenders and merchants, and filing complaints with law enforcement and governmental agencies. One of the menacing problems of identity theft is that it can happen more than once. Once the initial incident is resolved, the thief may begin using the victim’s identity again after waiting 6 months to a year and the cycle begins all over again.   
+   
+How Can I Prevent Becoming a Victim? | Back to top  
+Identity theft requires someone to gain access to your personal information. You can take steps to decrease the risk of someone stealing your information.  
+  
+  * Destroy papers you throw out. Shred or completely destroy any documents that contain personal information before discarding them in the trash. This includes information about you, your family, your home, or your accounts such as credit card solicitations, pre-approved credit offers, convenience checks contained in your statements, bills, cancelled checks, loan offerings, ATM or credit card receipts, insurance or tax information. Just as important are receipts from ATM’s or self-service devices such as gasoline pumps. Don’t just leave them behind or throw them in the trash. Criminals only need a few pieces of information about you to get credit in your name and access your existing accounts. 
+  * Be careful who you give your information to over the telephone. Do not give out personal information such as your social security number, credit card or bank account numbers, or loan numbers over the phone to anyone who has called you without first confirming who you are speaking to, why they need the information and that they are who they claim to be. 
+  * Guard your PINs. Never give out your Personal Identification Number (PIN). Memorize your PINs and never write them on your cards or carry them in your wallet.
+  * Report lost or stolen credit cards, checks or identification immediately.
+  * Store your personal information securely. Keep it where it is not easily available in the event of a burglary or other unauthorized access.
+  * Be cautious online. Make sure it is safe when you are asked to provide information at websites or with online merchants you do not have an existing relationship with. Always confirm that you are in a secure session before entering personal information online (see [How Do I Know if Security is Operating?](https://web.archive.org/web/20031202161821id_/http%3A//my.countrywide.com/Privacy.asp?linkid=PCFT014#about_internet_security)). 
+  * Check your credit reports. Review your credit report regularly to identify any inquiries or accounts that you are not aware of and did not apply for. 
+  * Protect your mailbox. If your residential mailbox is not secure, don’t put outgoing mail in the box and promptly pick up incoming mail or obtain a secure postal mailbox. 
+  * Safeguard your checks. Never print your personal information such as a Social Security Number or driver’s license number on your checks.
+
+  
+   
+What Should I Do if I Become a Victim of Identity Theft? | Back to top  
+  
+  * Contact the three major credit bureaus  | Equifax  
+P.O. Box 05873  
+Atlanta, GA 30348  
+1-800-525-6285  
+[www.equifax.com](http://www.equifax.com/) | Experian  
+P.O. Box 2002  
+Allen, TX 75013  
+1-888-397-3742  
+[www.experian.com](http://www.experian.com/) | TransUnion  
+P.O. Box 1000  
+Chester, PA 19022  
+1-800-680-7289  
+[www.tuc.com](http://www.tuc.com/)  
+---|---|---  
+Ask them to send you a copy of your credit report and instruct them to place a fraud alert on your record. Once you receive the report, review it carefully. Contact any creditors listed that you did not apply for credit with and inform them that you have been a victim of identity theft. Instruct them to close the account, send you copies of the application and any transactions, and to promptly clear your credit record. 
+  * Contact your local police or sheriff’s department and file an identity theft complaint.
+  * File a [complaint](https://rn.ftc.gov/pls/dod/widtpubl$.startup?Z_ORG_CODE=PU03) with the Federal Trade Commission at [www.consumer.gov/idtheft](http://www.consumer.gov/idtheft) or via their hotline at 1-877-IDTHEFT (438-4338).
+
+  
+   
+Identity Theft Resources | Back to top  
+| [Federal Trade Commission (FTC)](http://www.consumer.gov/idtheft/) | 1-877-438-4338 | [Privacy Rights Clearinghouse](http://www.privacyrights.org/fs/fs17a.htm) | 1-619-298-3396  
+---|---|---|---  
+[Social Security Administration Fraud Hotline](http://www.ssa.gov/oig/public_fraud_reporting/index.htm) | 1-800-269-0271 | [Identity Theft Resource Center](http://www.idtheftcenter.org/index.shtml) | 1-619-693-7935  
+[Department of Justice](http://www.usdoj.gov/criminal/fraud/idtheft.html) |   | [Identity Theft Statistics](http://www.consumer.gov/sentinel/trends.htm) |    
+[US Postal Inspection Service](http://www.usps.gov/postalinspectors/idthft_ncpw.htm) | 1-800-372-8347 | [Identity Theft Laws (by state)](http://www.ncvc.org/policy/issues/identitytheft/statetable.html) |    
+   
+What is Countrywide Doing to Assist in the Battle Against Identity Theft? | Back to top  
+Protecting the confidentiality and security of our customers’ personal information is a priority for Countrywide and its family of companies. You can find more information in our [Privacy and Security Policy](https://web.archive.org/web/20031202161821id_/http%3A//my.countrywide.com/Privacy.asp?linkid=PCFT014). We understand the implications identity theft can have and take very specific steps to reduce the chance that identity thieves can damage the credit reputations of our customers. As a result, Countrywide has put multiple safety measures in place to combat identity theft.  
+   
+| Training  
+---  
+  | Countrywide trains key employees in customer identification and authentication. Our training is designed to reduce the chance of an account or loan being opened in your name without your permission. We regularly update training to educate our employees on changing trends in identity theft.  
+   
+Fraud Hotline  
+  | For many years, Countrywide has maintained a Fraud Hotline for consumers, employees and the public to report crimes, including identity theft. Fraud Hotline staff work with departments across the Countrywide family of companies to block credit reporting based on claims of identity theft, conduct investigations including reviews of the account or loan documentation, and, if identity theft is confirmed, notify the credit bureaus and correct credit reporting history on affected Countrywide relationships. The Fraud Hotline serves as a single point of contact for consumers to report identity theft complaints to Countrywide and we respond within 48 hours. You can reach the Fraud Hotline by any method described under the _Reporting Identity Theft on a Countrywide Relationship_ section below.  
+   
+CreditGuard™  
+  | Countrywide also offers a variety of services to help customers protect themselves against identity theft including [CreditGuard](http://www.countrywidecreditguard.com/order_guard_info.jsp?login=&reporttype=&source=EMPL0000). Offered through Countrywide’s LandSafe subsidiary, CreditGuard provides round-the-clock monitoring of your credit report and notification if any critical information changes.   
+   
+Education  
+  | Consumer awareness is a critical component in reducing the incidence of identity theft. Countrywide provides consumer education and training on identity theft through featured articles in our quarterly newsletters, statement messaging and our websites.  
+   
+Industry Associations  
+  | Countrywide works in concert with industry groups in developing legislation, policies and practices to fight identity theft and other crimes in the businesses we operate in. Countrywide also works with these industry groups in the establishment and adherence to security and customer authentication programs to ensure that we remain an industry leader in protecting your identity and assets held with us.  
+   
+Law Enforcement  
+  | Countrywide coordinates with local, state and federal law enforcement when identity theft cases arise.  
+   
+Reporting Identity Theft on a Countrywide Relationship | Back to top  
+If you think your identity has been stolen, affecting any of your loans or accounts with any of the companies in the Countrywide family, or resulting in the establishment of a fraudulent relationship with us, please contact us immediately. The Identity Theft Complaint provided below should be completed and then faxed or mailed back to us at the address shown below. The Complaint, which requires Adobe Acrobat Reader, can be obtained by clicking the link below:  
+|  |    
+---  
+e-mail   | [fraud_hotline@countrywide.com](mailto:fraud_hotline@countrywide.com)  
+   
+phone   | 1-877-CUFRAUD (283-7283)  
+   
+fax   | 1-805-577-0918  
+   
+mail   | Countrywide Financial Corporation  
+Fraud Prevention & Investigation  
+593 Moorpark Rd., Suite 2, TO/MK-259  
+Thousand Oaks, CA 91360   
+  |  |  [](http://www.ftc.gov/bcp/conline/pubs/credit/affidavit.pdf)  
+[ID Theft Complaint](http://www.ftc.gov/bcp/conline/pubs/credit/affidavit.pdf) | Requires  
+Adobe Acrobat Reader
+
+Click to downloaded free  
+[](http://www.adobe.com/products/acrobat/readstep2.html)  
+  
+---|---  
+Due to the insecure nature of e-mail, the ID Theft Complaint should be faxed or mailed to Countrywide as shown to the left.  
  
