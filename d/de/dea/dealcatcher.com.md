@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the dealcatcher.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217220559id_/http%3A//dealcatcher.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealcatcher.com privacy policy that was archived on 2002-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020415035841id_/http%3A//dealcatcher.com/privacy.asp) for the most accurate reproduction.*
 
 # DealCatcher.com - Free Coupons & Deals for Books, DVD, Music, Toys & More!
 
 ****  
-
-
-* * *
-
 eCatcher, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Dealcatcher.com. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Our site uses cookies to keep track of sessions on our server. 
