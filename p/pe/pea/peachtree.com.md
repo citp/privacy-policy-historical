@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peachtree.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212201723id_/http%3A//www.peachtree.com/policies/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peachtree.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612041946id_/http%3A//www.peachtree.com/policies/privacy.cfm) for the most accurate reproduction.*
 
 # Peachtree Software Privacy Policy
 
