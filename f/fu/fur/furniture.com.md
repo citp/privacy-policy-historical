@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206121851id_/http%3A//www.furniture.com/Common/CustomerService/policies/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the furniture.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616133658id_/http%3A//www.furniture.com/Common/CustomerService/policies/default.asp) for the most accurate reproduction.*
 
 # Furniture.com
 
@@ -8,13 +8,15 @@
 |   
 ---  
 **Furniture.com Respects Your Privacy** |   
+Effective April 17, 2002
+
 []() When you visit any website, your computer “talks” with other computers. Each computer asks the others questions, and information passes among them. Except for information or commands you enter yourself, most of this process just saves you the bother of entering all kinds of technical codes. That’s what makes the Web so easy to use. 
 
 At Furniture.com, we believe you’re entitled to decide what information you share with us and how it is used, so we answer your questions about privacy up front! 
 
 Furniture.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Furniture.com’s privacy coordinator by e-mailing privacy@furniture.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/users/users_watchdog.html. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.   
+If you have questions or concerns regarding this statement, you should first contact Furniture.com’s privacy coordinator by e-mailing privacy@furniture.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [ http://www.truste.org/users/users_watchdog.html ](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.   
   
 **1\. Why does Furniture.com gather visitor information?**  
 We gather information with three objectives in mind: 
@@ -42,7 +44,7 @@ Getting a user account is easy:
 If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and e-mail address. Furniture.com will automatically send the friend a one-time e-mail inviting them to visit the site. Furniture.com stores this information for the sole purpose of sending this one-time e-mail and tracking the success of our referral program. The friend may contact Furniture.com at privacy@furniture.com to request the removal of this information from our database.   
   
 **2\. How does Furniture.com remember me automatically?**  
-Furniture.com uses a technology called “cookies” to remember you and the information you are saving. When you visit Furniture.com, we send you back a cookie, a small text file that includes a temporary inquiry number, your IP address, plus any items you’ve chosen. Your web browser has a special folder on your computer where it keeps cookies. Cookies cannot harm your computer in any way. Only the website that places a cookie on your computer is allowed to read it; no other website may access the cookie Furniture.com places on your computer. 
+Furniture.com uses a technology called “cookies” to remember you and the information you are saving. When you visit Furniture.com, we send you back a cookie, a small text file that includes a temporary inquiry number, your IP address, plus any items you’ve chosen. The information we store in cookies is also linked to any personally identifiable information you submit while on our site. Your web browser has a special folder on your computer where it keeps cookies. Cookies cannot harm your computer in any way. Only the website that places a cookie on your computer is allowed to read it; no other website may access the cookie Furniture.com places on your computer. 
 
 If you are visiting Furniture.com from a computer that only you or your family use, cookies present no security concern. However, if you are using a shared computer in a public environment (i.e. a library, Cyber Café or work), others using that computer to visit Furniture.com can log in as you. Although Furniture.com never displays your credit card information on our website, someone logging in as you could access less confidential data, such as your name or shipping address. If this applies to you, consider choosing not to be “remembered” when you register using a shared computer in a public environment. Instead, log in at each visit.
 
