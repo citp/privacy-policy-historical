@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604061909id_/http%3A//www.comingsoon.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comingsoon.net privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214143931id_/http%3A//www.comingsoon.net/policy.php) for the most accurate reproduction.*
 
 # Coming Soon! - Privacy Policy
 
@@ -32,7 +32,7 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.  For more information about our security measures, you may send an e-mail to [staff@comingsoon.net](mailto:staff@comingsoon.net). 
 
-** Choice/Opt-Out **
+**Choice/Opt-Out**
 
 Our site provides users with the opportunity to opt-out of receiving  
 communications from us at any time.
@@ -42,4 +42,5 @@ communications from us at any time.
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 _The Webmaster  
 Coming Soon!_  
-[staff@comingsoon.net](mailto:staff@comingsoon.net)
+[staff@comingsoon.net](mailto:staff@comingsoon.net)  
+
