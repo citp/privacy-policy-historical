@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alliancedata.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207034702id_/http%3A//www.alliancedata.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alliancedata.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620074324id_/http%3A//alliancedata.com/privacy.html) for the most accurate reproduction.*
 
 # ADC: Our Company: Who We Are
 
