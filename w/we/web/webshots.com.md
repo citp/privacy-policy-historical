@@ -1,53 +1,97 @@
-> *The following text is extracted and transformed from the webshots.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002123032id_/http%3A//www.webshots.com/r/mdocs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webshots.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230105833id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
 
-# Webshots Customer Information Privacy Policy
+# Editorial Center - CNET Networks.com
 
-**Webshots Privacy Policy**
+|    
+|  |    
+**Privacy policy**  
+CNET Networks, Inc. is the world's leading source of information and services for buyers, sellers and suppliers of technology, including IS/IT professionals, enterprise decision makers, executives, gamers and technology shoppers. A company with established Web sites throughout the United States, Europe and Asia, CNET Networks provides its award-winning content via the Web, wireless devices, broadband, radio and print. Our respected brand portfolio includes CNET, ZDNet, TechRepublic, mySimon, News.com, Download.com, GameSpot, Builder.com, Shopper.com, EDventure.com, _Computer Shopper Magazine_ , and CNET Channel. For more information about the company, go here: <http://www.cnetnetworks.com/>. 
 
-Webshots is committed to protecting the privacy of its users, and making your Webshots experience enjoyable and safe. When you download our software, our photos, register for our online services, send our electronic greetings, or other email, the information you provide to us is used only to customize your experience and to deliver email notifications to you (or people you designate as your recipients). The names and email addresses you give us when you simply send a card are NOT sold, compiled into any type of mailing list, or otherwise used for any type of email solicitation. Our data collection policies with regard to current and future services allow you to choose how much information you provide to us, and to control how we use that information. Read below to find out more. 
+This privacy policy applies to the U.S. operations of all brands and services within the CNET Networks family.
 
-**Privacy Philosophy  
-**  
-The Internet is rapidly changing the way all of us communicate and interact with each other. While the Internet allows each of us access to a greater array of information and services than has ever been available, these new online activities do raise new challenges, such as the privacy issues addressed in this policy. Webshots is committed to working with public policy organizations, industry groups, and government institutions to understand and address these challenges as they arise. But most importantly, having a relationship with our customers that is founded on trust is not only good manners, it is also good business. Any feedback you'd like to provide to help us better meet your expectations in this arena is welcomed. 
+**Overall privacy statement**  
+We take your privacy seriously. Because we gather certain types of information about our users we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated by us directly, our partner, or our affiliate. 
 
-**Our Commitment to You  
-**  
-Webshots wants to make your online experience satisfying and safe. Our data collection policies allow you to choose how much information to provide to us, and to control how we use that information. Our goal is to provide you with a robust online experience while allowing you to control your privacy. Webshots collects information online primarily to make it easier and more rewarding for you to use our services. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address, or information about what you like and do not like. On other occasions such as when we provide items for purchase online, we may request your credit card number to conclude the transaction, or your mailing address to ensure proper delivery. We request this information to provide our strongest value to you - a personalized online experience. Customers who personalize our service come back more often - and it's the customers that visit us often who make us successful \- so we do everything we can to make Webshots your service with your name on it and to give you just the content you want.  
-Information collected online is often defined as being either anonymous or personally identifiable:  
-1\. Anonymous Information refers to information that cannot be tied back to a specific individual. For instance, we may know that 10,000 people visit this Privacy Policy today, but we do not necessarily know their names, where they live, or their date of birth. What we collect from transactions such as this constitutes anonymous information, much like how your hometown's bus service knows how many people take a given route \- but doesn't necessarily know who those people are. Many of the individuals who access our services decline to use the personalization features that are available to them, and therefore those individuals are anonymous to us and the data we collect is similarly anonymous information.   
-2\. Personally Identifiable Information refers to information that tells us specifically who you are, such as your name or email address. In many cases we need this information to provide the personalized or enhanced service that have requested. An example of the use of such information would be the Webshots eCards. We hope that, like many of our customers, you will find it beneficial to judiciously provide Personally Identifiable Information to Webshots so that we may provide more valuable free content and products to you. The only way we know something about you personally is if you register as a user on our site. In other words, we will know Personally Identifiable Information about you only if you choose to share this type of information with us.
+**1\. What information does CNET Networks collect?**  
+Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Because we derive revenue mainly from advertising, collecting information is essential to keeping our services affordable to users.
 
-**Third Party Advertisers.  
-**  
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>
+We collect personally identifiable information when you provide it to us, such as when you register on one of our sites, when you subscribe for a print magazine or an e-mail newsletter or when you register to use certain services. Several of the services that we offer on our sites, such as auctions and message boards, may require registration as a condition of use. Once you register with one of our CNET Networks sites you are no longer anonymous to us. We may also receive information about you from other sources and add it to the information you provided to us.
 
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+This personally identifiable information is limited to: 
 
-**Our Commitment to Your Family  
-**  
-Like you, we at Webshots have children of our own and are concerned about their safety when they use the Internet. We want you and your family to be safe while visiting Webshots. That is why we have established a special policy with regard to the use of our services by children. The Federal Children's Online Privacy Protection Act of 1998 (COPPA) requires that service providers never knowingly request Personally Identifiable Information from anyone under the age of 13 without requesting verifiable parental consent. In accordance with COPPA, Webshots does not knowingly collect any Personally Identifiable Information from children under the age of 13. No one under the age of 15 should submit any Personally Identifiable Information to our Site. In the event that Webshots determines that a user of this site is under the age of 13, Webshots will not maintain or use his or her Personally Identifiable Information. To ensure children's privacy, we urge parents and guardians to spend time online with their children to become familiar with the types of content available on the Internet. Control tools are available on the Internet from online services and software manufacturers to help create a safer environment for children. For additional information on protecting children's privacy, visit <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html>. 
+  1. First and last name
+  2. Address, including street name & city
+  3. Email address
+  4. Telephone number
+  5. Credit card information in the event a user purchases products or services online
 
-**What Personally Identifiable Information of yours is collected  
-**  
-As always, we are committed to making your Webshots experience enjoyable and safe. When you download our software, our photos, register for our online services or send our electronic greetings, the information you provide to us is used only to customize your experience and to deliver email notifications to you (or people you designate as your recipients). The names and email addresses you give us are NOT sold, compiled into any type of mailing list, or otherwise used for any type of email solicitation. To enable many of the features provided by Webshots, we will assign "cookies" to your Internet browser (such as Netscape Navigator or Microsoft Internet Explorer). A cookie is a small text file that contains a unique identification number stored on your computer. Cookies by themselves cannot be used to find out the identity of any user. This unique identification number automatically identifies your browser - but not you - to our computers whenever you interact on our site. When you visit our site, a cookie in effect says to our server computers "Hello, I'm browser #655. What do you do just for me?" Every Web page that you access that includes advertising or content served from the Webshots will have the contents of your cookie reported in our server logs. But only when you agree to provide Personally Identifiable Information directly to Webshots, such as through registration, will we be able to know anything about you other than the random number that our server computers originally assign to your browser. 
 
-There is a lot of confusion about cookies, how they are used, and what they can do. Cookies only contain information that the server computer "knew" in the first place, and can only be read by the serving domain that placed them. For instance, Yahoo! utilizes cookies, but Webshots’ servers can't read their contents nor can Yahoo!'s servers read ours. Cookies are an essential part of how the Internet works today, and allow server computers to recognize your computer's browser when you return. If you have ever gone to a Web page that automatically provides personalized content without you having to "sign in" this is almost certainly being accomplished with a cookie. Since cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information, or transmit it to anyone. 
 
-**Information Distribution  
-**  
-If you are providing us Personally Identifiable Information, it will only be used within Webshots’ site. Webshots will never share, rent or sell your information to third parties without your permission. Although unlikely, Webshots may be required by law enforcement or judicial authorities to provide Personally Identifiable Information to the appropriate governmental authorities. If requested by law enforcement or judicial authorities, we will provide this information upon receipt of the appropriate documentation. 
+**2\. What is CNET Networks' practice regarding cookies?**  
+Your Internet browser has a feature called "cookies" which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information when, in which case we use the information to enhance your services in the ways described below. You may elect not to allow cookies to be collected by adjusting your settings on your browser. 
 
-**What choices are available to you regarding collection, use, and distribution of the information  
-**  
-Webshots offers you the ability to control the email communications we make to you. It is our intention to give you as much control over our relationship as possible. First, as mentioned earlier, the consumer always has the final word on whether Webshots \- or any Internet company - knows who you are. It is your choice to share Personally Identifiable Information with Webshots and we encourage you to consider only sharing information with any site on the Internet if you receive true value in exchange for that information transfer and if you respect the privacy practices of the firm. Webshots will always give you a chance to unsubscribe to any email communication from us - clear directions for doing so will appear in any email message we send to you. At times, Webshots may enter into cobranding arrangements with other companies, and if so, an opt-in question may be present for contact from these firms as well. Their opt-out features are specific to each organization, but you should never receive email from these organizations unless you have indicated that it is acceptable. All email from from co-brand partners who gain your permission to send you commercial email, will include an opportunity to opt out of future communications. Webshots reserves the right to send a one-time registration confirmation email, and infrequent Service Alert messages to its customers to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status. An example of a Service Alert message would be notification of the impending closing of an account that is believed to be abandoned. Finally, we also reserve the right to contact you if compelled to do so as part of a legal proceeding or if there has been a violation of our Terms of Service. Webshots is retaining these rights because in limited cases we feel that we may need the right to contact you as a matter of law or regarding matters which will be important to you. These rights do not allow us to contact you to market a new or existing service if you have asked us not to do so, and issuance of these types of communications are rare. 
+We use technologies, including electronic images known as Web bugs--sometimes called transparent GIFs, clear GIFs, or beacons--that allow us to track general user traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you unless you have specifically given us personally identifiable information, in which case we use the information to enhance your services in the ways described below.
 
-**What kind of security procedures are in place to protect against the loss, misuse, or alteration of information under the company's control  
-**  
-Webshots operates secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary, and only authorized individuals have access to the information provided by our customers. Any particularly sensitive information, such as a customer's credit card number collected for a commerce transaction, is encrypted prior to transmission. You the consumer are ultimately responsible for the security of your Webshots Member Name and password. Please take care to store you Webshots Member Name separately from your account password, or better yet, choose a password that you don't need to write down at all. 
+We use cookies and tracking technologies in a variety of ways, including: 
 
-**How you can correct any inaccuracies in the information  
-**  
-Webshots believes strongly in providing you with the ability to access and edit the personal information that you have provided to us. To update the information retained about you, please visit our Webshots User Info area. 
+  * Keeping count of return visits to our site or our advertisers' or partners' sites
+  * Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web site and advertisement usage
+  * Determining which features our overall user population likes best
+  * Saving your password so you don't have to re-enter it each time you visit our sites
+  * Display the most appropriate advertising based on your interests
 
-© 1995-2003 Twofold Photos, Inc. All rights reserved.
+
+
+We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the website of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
+
+**3\. How does CNET Networks use the information?**  
+We use the information we gather for four general purposes: 
+
+  * To customize the advertising and content you see
+  * To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you.
+  * To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling users to participate in paid services, polls, contests, message boards, and auctions
+  * To send you information you agreed to receive about topics we think will be of interest to you
+
+**4\. How does CNET Networks share the information**  
+_Personally identifiable information_  
+We will make your personally identifiable information available to other companies or people when: 
+
+  * We have your consent to share the information 
+  * We have engaged companies to work with us or on our behalf to provide a product or service that you have requested, such as opt-in e-mail announcements 
+  * You use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
+  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, CNET Networks' [Terms of Use](https://web.archive.org/web/20041230105833id_/http%3A//www.cnet.com/html/aboutcnet/editorial/terms.html) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
+
+_Aggregate information_  
+We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+
+_ChannelOnline data_  
+Companies that use our ChannelOnline services may enter account data for third-party services. This information is necessarily passed on to those third parties when their ordering system is accessed. ChannelOnline users may also enter data about their customer orders. This information is shared only in aggregate form with third parties.
+
+_Business transfers_  
+We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
+
+**5\. What are my options?**  
+Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.  
+We also give users the following options: 
+
+  * Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt-in may remove themselves from mailing lists at any time through the subscription management pages or by following the instructions at the end of the e-mail they received from us;
+  * Opting not to provide certain personal information when registering for a site, provided, however that you may not be able to utilize certain of our products or services without providing us with certain information.
+
+**6\. How can I review and update my personally identifiable information?**  
+You can review, correct or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page. Currently, we do not offer users a means by which to completely delete personal information established at the time of registration.
+
+_Places to update personal information on CNET Networks sites_ **7\. How will I know if the privacy policy is changed?**  
+Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection we will send affected users written notice by email of the change.
+
+**8\. Privacy of children**  
+Our network of sites is not directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
+
+**Questions, comments**  
+Questions regarding this privacy statement, or regarding any other aspects of our network of Web sites, should be sent via e-mail below or to our corporate offices at 235 Second Street, San Francisco, CA 94105, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information
+
+[Click here](http://www.cnet.com/cnetsupport/contact/1,10161,0-3945,00.html) to contact us regarding a privacy issue. Please include the brand you are referring to in your e-mail to us. 
+
+Updated September 2004
+
+  
+|  |  | 
