@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nj.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603201918id_/http%3A//www.state.nj.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.gov privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004155610id_/http%3A//www.state.nj.us/privacy.html) for the most accurate reproduction.*
 
 # State of New Jersey - Privacy Notice
 
@@ -45,11 +45,11 @@
 > 
 
 > 
-> We use this information to help us make our site more useful to visitors \- to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits. 
+> We use this information to help us make our site more useful to visitors - to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits. 
 > 
 > **If You Send Us Personal Information**
 > 
-> If you choose to provide us with personal information -- as in an e-mail to Governor or someone else, or by filling out a form with your personal information and submitting it to us through our web site \-- we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or to give it to any private organizations. The State of New Jersey does not collect information for commercial marketing. 
+> If you choose to provide us with personal information -- as in an e-mail to Governor or someone else, or by filling out a form with your personal information and submitting it to us through our web site -- we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or to give it to any private organizations. The State of New Jersey does not collect information for commercial marketing. 
 > 
 > **Section B. Personal Information and Choice**
 > 
