@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the superpages.com privacy policy that was archived on 2001-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011222041815id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superpages.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021611id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
 
 # SuperPages.com: About Us & Help: Privacy Policy
 
   | 
 
-**Straight talk about Internet privacy** Verizon New Media Services, Inc. ("Verizon") respects your right to privacy. When you visit this site you may provide information on two different levels about your visit: 
+**This privacy policy applies only to the the privacy of users of the SuperPages.com web site. It does not apply to the offline activities of Verizon Directories Corp. or any of its affiliates.** **
+
+Straight talk about Internet privacy
+
+** Verizon New Media Services, Inc. ("Verizon") respects your right to privacy. When you visit this site you may provide information on two different levels about your visit: 
 
   * Anonymous statistics collected as you browse the site, and 
   * Personal information you knowingly give us.
