@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telugumatrimony.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603213345id_/http%3A//www.telugumatrimony.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telugumatrimony.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001163936id_/http%3A//www.telugumatrimony.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
