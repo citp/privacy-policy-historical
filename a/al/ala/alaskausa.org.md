@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202023100id_/http%3A//www.alaskausa.org/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405044802id_/http%3A//www.alaskausa.org/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
