@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollargeneral.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203025108id_/http%3A//www.dollargeneral.com/disclaimers/dg_privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollargeneral.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605200612id_/http%3A//www.dollargeneral.com/disclaimers/dg_privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,7 +60,7 @@ We secure your Personally Identifiable Information on servers located in control
 
 7\. **Can I review the information Dollar General has collected?**
 
-If you would like to review or correct any Personally Identifiable Information we have retained about you in our active databases, please send an e-mail request to [privacypolicy@dollargeneral.com](mailto:privacypolicy@dollargeneral.com;ccumming@dollargeneral.com).
+If you would like to review or correct any Personally Identifiable Information we have retained about you in our active databases, please send an e-mail request to [privacypolicy@dollargeneral.com](mailto:privacypolicy@dollargeneral.com;ccumming@dollargeneral.com). All such e-mail requests must be written in the English language. 
 
 8\. **Can Dollar General change this Privacy Policy?**
 
