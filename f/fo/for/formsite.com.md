@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formsite.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200035id_/http%3A//www.formsite.com/forms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formsite.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207055944id_/http%3A//www.formsite.com/forms/privacy.html) for the most accurate reproduction.*
 
 # FormSite - html form builder
 
@@ -12,4 +12,4 @@ We strive to protect your data from unauthorized access. All security measures a
 any data collected from your form without your permission. Furthermore, we will not give out your name or any identifying information about specific users to any third party. Nor will we use any email address you provide for any third-party  
 solicitations without your permission. Subject to court order, we will release any information as required by law. 
 
-The systems containing the FormSite.com data are password protected and well administered. The data within the database is not encrypted however. If our server is in some way compromised, the data may be revealed. Such an event is extremely unlikely.
+The systems containing the FormSite.com data are password protected and well administered. If our server is in some way compromised, the data may be revealed. Such an event is extremely unlikely.
