@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the mol.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816044109id_/http%3A//www.mol.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mol.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409115421id_/http%3A//www.mol.com/policy.htm) for the most accurate reproduction.*
 
 # MOL - Privacy Policy
-
-| 
 
 **Privacy Policy**  
 This Privacy Policy has been incorporated into our [Terms and Conditions](http://www.mol.com/terms&con.htm), which govern your use of the Web Site and its related services.
 
 If you do not agree to all of the terms and conditions of this Privacy Policy and those set forth in the Terms and Conditions, 1800ASSIST.com Sdn Bhd is not willing to permit you to use the Web Site or its services. 
 
-1800ASSIST.com (hereinafter MOL.com), is committed to protecting the privacy of our Members and users (hereinafter "you"). For a variety of reasons, including our desire to maintain your privacy at the highest levels in a rapidly changing industry, we may occasionally revise our privacy policy.   
-  
----  
-  
+1800ASSIST.com (hereinafter MOL.com), is committed to protecting the privacy of our Members and users (hereinafter "you"). For a variety of reasons, including our desire to maintain your privacy at the highest levels in a rapidly changing industry, we may occasionally revise our privacy policy. 
+
+| 
+
   1. **Minors and Children**  
 Minors and children (people under the age of 18) are not authorised to use our services without adult or guardian supervision. If you are under 18, you must have parental or guardian permission to use the service. 
   2. **What We Collect and Why**  
@@ -53,7 +51,9 @@ At anytime, if you wish to have your account and related information erased, you
 We strongly oppose unsolicited junk email (also known as "spam"). We reserve the right to terminate services, cancel benefits, and possibly take legal action against any users who we have reason to believe are directly or indirectly sending spam. 
   9. **Links to Other Sites and Third Parties**   
 This site contains links to other sites and third parties. We are not responsible for the privacy practices or the content of such sites and third parties. We encourage you to be aware of who you are giving information to at all times on the internet. In the event you believe another site or third party associated, or claiming to be associated, with us is acting improperly, please contact us at the address below.
-  10. **We Want to Promote Accountability**  
+  10. **Banner**  
+This site, mol, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [http://www.engage.com/privacy](http://www.engage.com/privacy/). 
+  11. **We Want to Promote Accountability**  
 We always have an employee designated as a data controller, to assist us in our efforts to protect your privacy. If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact the data controller by e-mail at: [molrewards@1800assist.com](mailto:molrewards@1800assist.com)
 
 Or by regular mail at: 
@@ -66,3 +66,5 @@ Bukit Jalil, 57000 Kuala Lumpur
 
 
 
+
+This site, **www.mol.com** , uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data, typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [www.engage.com/privacy](http://www.engage.com/privacy). 
