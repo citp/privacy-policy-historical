@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollandsentinel.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208233523id_/http%3A//www.hollandsentinel.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollandsentinel.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204172639id_/http%3A//hollandsentinel.com/privacy.shtml) for the most accurate reproduction.*
 
 # The Holland Sentinel - Privacy Policy
 
