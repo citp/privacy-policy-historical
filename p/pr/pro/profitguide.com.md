@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitguide.com privacy policy that was archived on 2000-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000605193248id_/http%3A//www.profitguide.com/Y/Y5.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitguide.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204211000id_/http%3A//www.profitguide.com/Y/Y5.html) for the most accurate reproduction.*
 
 # PROFITguide | Privacy Policy
 
@@ -16,5 +16,7 @@ PROFITguide does not solicit information from children and will not knowingly co
 PROFITguide includes links, ad banners and other references to many other websites and businesses. These other organizations may have different marketing and privacy policies; visitors are urged to review these, as PROFITguide, PROFIT Magazine and Rogers Media will not be responsible for activities and policies at other websites.
 
 If you have any questions about PROFITguide or our privacy policy, or to change or cancel any information we may have on file, please [e-mail us](mailto:feedback@profitmag.ca). 
+
+Occasionally we make our magazine postal address subscriber list available to reputable companies and organizations whose products or servicies may be of interest to you. If you are a magazine subscriber and do not want your name to be made available, please call us at 1-800-465-0700, or email us, or write to us at Profit, 777 Bay St, Toronto ON M5W 1A7. 
 
 |  
