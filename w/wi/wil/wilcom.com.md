@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilcom.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008221848id_/http%3A//www.wiltel.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilcom.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607055658id_/http%3A//www.wiltel.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -16,12 +16,12 @@ This site contains links to other sites. WilTel is not responsible for the priva
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-You can send email to:  [wiltel.webmaster@wcg.com ](mailto:wiltel.webmaster@wcg.com)
+You can send email to:  [wiltel.webmaster@wiltel.com ](mailto:wiltel.webmaster@wiltel.com)
 
 **CORRECT/UPDATE**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-You can send email to:  [wiltel.webmaster@wcg.com ](mailto:wiltel.webmaster@wcg.com)
+You can send email to:  [wiltel.webmaster@wiltel.com ](mailto:wiltel.webmaster@wiltel.com)
 
 **CONTACTING THE WEB SITE  
 ** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
@@ -30,6 +30,6 @@ WilTel Communications
 Attn: WilTel Webmaster  
 One Technology Center,  MD TC-8J  
 Tulsa, OK 74103  
-[wiltel.webmaster@wcg.com ](mailto:wiltel.webmaster@wiltelcommunications.com)
+[wiltel.webmaster@wiltel.com ](mailto:wiltel.webmaster@wiltel.com)
 
 ©COPYRIGHT 2003 WilTel, LLC. All rights reserved. 
