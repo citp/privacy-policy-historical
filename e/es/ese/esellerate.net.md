@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207053611id_/http%3A//www.esellerate.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629084438id_/http%3A//www.esellerate.net/privacy.asp) for the most accurate reproduction.*
 
 # eSellerate - Privacy Policy
 
 **eSellerate's Online Privacy Policy**  
-_Last revision date: February 3, 2003_
+_Last revision date: January 29, 2004_
 
 [](https://www.truste.org/validate/11866)eSellerate, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
@@ -17,7 +17,15 @@ _Last revision date: February 3, 2003_
 
 
 
-If you have questions or concerns regarding this statement, you should first contact eSellerate Privacy at [privacy@esellerate.net](mailto:privacy@esellerate.net) or through postal mail to eSellerate, Attn: Privacy, 5901 N. 58th, Lincoln NE 68507-3249. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact eSellerate Privacy through one of the following: 
+
+  * E-mail: [privacy@esellerate.net](mailto:privacy@esellerate.net)
+  * Postal mail: eSellerate, Attn: Privacy, 5901 N. 58th, Lincoln NE 68507-3249 
+  * Telephone: (402) 323-6600 
+
+
+
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the web site to resolve your concerns. 
 
 **About this statement**  
 This statement describes the privacy policy for the eSellerate web site. By accessing this site, you agree to the terms of the eSellerate Online Privacy Policy, as outlined below. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection, we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
@@ -31,6 +39,11 @@ This statement describes the privacy policy for the eSellerate web site. By acce
 > 
 > During the software delivery process, eSellerate will collect the customer's name, e-mail address, mailing address and phone number. (Company name is optional.) The customer may also indicate a preference to receive the publisher's product update information. When applicable, the purchaser's credit card number and expiration date will also be collected. This information will be used to process orders and provide order notification. 
 > 
+> **From software publishers' approved partners (payees)**  
+>  eSellerate offers a program called SplitPay that enables eSellerate publishers to split the sales proceeds from select products with their approved partners (payees). eSellerate will collect the following information about parties that sign up for this program: company name, address and web site URL and the primary contact's name, e-mail address and phone number. This information will be used to process SplitPay product orders and to provide order notification to the appropriate parties. 
+> 
+> eSellerate archives system-generated, event-driven e-mails for events such as a publisher adding a payee account to its list of payees. This information is collected for archival purposes only. 
+> 
 > **From affiliates and portals**  
 >  eSellerate offers affiliate and portal programs that enable other web sites to direct sales to an eSellerate publisher's web stores. eSellerate will collect the following information about parties that sign up for either of these programs: company name, address and web site URL and the primary contact's name, e-mail address and phone number. This information will be used to process the orders generated by the affiliate or portal and to provide order notification to the appropriate parties. 
 > 
@@ -40,7 +53,7 @@ This statement describes the privacy policy for the eSellerate web site. By acce
 >  Participants in eSellerate newsgroups and forums should remember that any personal information they disclose in these areas is available for public display, and may be collected and used by unknown parties. 
 
 **How eSellerate protects this information**  
-First, eSellerate takes several security measures to protect all collected information in storage. For example, access to a publisher, affiliate or portal account requires a special login name and password. Additionally, all information transmitted between the eSellerate servers and the customer is encrypted. For further customer protection, eSellerate does not store complete credit card numbers after the transaction. 
+First, eSellerate takes several security measures to protect all collected information in storage. For example, access to a publisher, payee, affiliate or portal account requires a special login name and password. Additionally, all information transmitted between the eSellerate servers and the customer is encrypted. For further customer protection, eSellerate does not store complete credit card numbers after the transaction. 
 
 **Disclosure of information**  
 While making every effort to preserve user privacy, eSellerate may need to disclose personal information when required by law or in the good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on the eSellerate web site. 
@@ -52,7 +65,7 @@ To access the eSellerate web site, the visitor's browser must be set to allow co
 eSellerate automatically logs the following information about visitors to this web site: IP addresses, browser type, domain names, access times and the number of hits to specific pages within the site. This information is used to administer the site and to evaluate its usability. This information is not used to create any type of personal profiles for the visitors. 
 
 **eSellerate Privacy Guarantee**  
-eSellerate will not provide publisher, customer, affiliate or portal information to third parties. Accordingly, only the publisher and our credit card processor have access to a given customer's address information. 
+eSellerate will not provide publisher, customer, payee, affiliate or portal information to third parties. Accordingly, only the publisher, publisher approved payees and our credit card processor have access to a given customer's address information. 
 
 eSellerate does not control how our publishers use their customers' personally identifiable information. Therefore, customers should read the publisher's privacy policy before providing personally identifiable information. Customers also should note that eSellerate's TRUSTe certification applies only to www.esellerate.net, and does not extend to our publishers. Also, eSellerate's certification covers only information collected through this web site, and does not cover information collected through our publishers' software, which can be downloaded from this site. 
 
@@ -73,9 +86,10 @@ eSellerate does not control how our publishers use their customers' personally i
 > **For publishers**  
 >  Publishers can access and modify their information at any time. They should log in to the eSellerate Sales Manager and click one of the links in the Sales Information box. After making any modifications, they should click Save Changes. 
 > 
-> **For affiliates and portals**  
->  Affiliates and portals can access and modify their information at any time. 
+> **For payess, affiliates and portals**  
+>  Payees, affiliates and portals can access and modify their information at any time. 
 > 
+>   * Payees should log in to the SplitPay Manager and click the My Account link. 
 >   * Affiliates should log in to the Affiliate Manager and click the My Account link. 
 >   * Portals should log in to the Portals Manager and click the Portal Info link. 
 > 
@@ -83,7 +97,7 @@ eSellerate does not control how our publishers use their customers' personally i
 > 
 > After making any modifications, they should click Save Changes. 
 
-_Last revision date: February 3, 2003_
+_Last revision date: January 29, 2004_
 
   **eSellerate's Product Activation Privacy Policy**
 
