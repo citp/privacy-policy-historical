@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidscom.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616203114id_/http%3A//www.kidscom.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidscom.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208063131id_/http%3A//www.kidscom.com/info/privacy_policy.html) for the most accurate reproduction.*
 
 # KidsCom - Privacy Policy
 
