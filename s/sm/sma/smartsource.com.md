@@ -1,45 +1,94 @@
-> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604063417id_/http%3A//smartsource.com/aboutus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212150517id_/http%3A//smartsource.com/aboutus/privacy.shtml) for the most accurate reproduction.*
 
-# Grocery coupons, health coupons and household coupons from SmartSource.com. Save with exclusive online offers redeemable nationwide. Free samples, money and time saving recipes, and homekeeping and wellness tips.
+# Grocery coupons, health coupons and household coupons from SmartSource.com. Exclusive coupons you can print or receive in the mail, redeemable nationwide. Recipes, money and timesaving ideas and homekeeping and wellness advice.
 
-| | |  By using this site, you agree to the Privacy Policy of SMARTSOURCE. If you do not agree to this Policy, please do not use this site. SMARTSOURCE reviews its Privacy Policy periodically and reserves the right, at its discretion, to modify or remove portions of this Policy at any time. This page should be reviewed from time to time so that you are updated on any changes. If you want to communicate with us about our Policy, or about the use of or changes to personal information you may have submitted, please e-mail us at:  
-[webmaster@smartsource.com](mailto:webmaster@smartsource.com).  
-| |    
-| | **General**  
-SMARTSOURCE recognizes the privacy concerns of visitors to its site on the Internet (www.smartsource.com). Specifically, SMARTSOURCE recognizes the importance of protecting the privacy of personally identifiable information collected about the visitors to the SMARTSOURCE web site. As a general policy, no personally identifiable information, such as your name, address, or e-mail address, is automatically collected from you when you visit the SMARTSOURCE site. SMARTSOURCE may collect certain non-personal information, which is used only to optimize SMARTSOURCE web pages for your computer (e.g., the identity of your Internet browser, the type of operating system you use, and the domain name of your Internet service provider). This non-personal information may also be used by SMARTSOURCE to determine the total number of visitors to its web site. 
+|  |  | 
 
-SMARTSOURCE does not knowingly collect personally identifiable information from children under the age of 13. 
+SmartSource is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. SmartSource has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
 
-Personally identifiable information about visitors to SMARTSOURCE sites is collected only when knowingly and voluntarily submitted. In those instances when SMARTSOURCE does collect such information, the following applies:   
+From time to time SmartSource may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. Therefore, you should review it periodically so that you are up to date on our most current policies and practices.  
   
-| |    
-| | **Notice**  
-SMARTSOURCE will notify you when it is collecting personally identifiable information about you, as well as the use or uses SMARTSOURCE intends to make of such information. In general, we will be collecting your personal information to respond to your requests for offers and information about products and services you are interested in.   
-| |    
-| | **Use and Security**  
-Except as described in this Privacy Policy, personally identifiable information that is submitted knowingly and voluntarily by visitors to the SMARTSOURCE site is retained by SMARTSOURCE and is not sold or otherwise transferred to an outside company, unless otherwise stated at the time of collection. 
+|  |    
+|  | 
 
-Personal information you submit in connection with the SMARTSOURCE Internet Coupons service is currently collected on our behalf by planet U, which shares this data with us. Please refer to the U-pons privacy policy, which can be accessed on the Frequently Asked Questions page or the "Get Coupons" registration page, for information about planet U's privacy practices. 
+**_COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY SMARTSOURCE_**  
+_General_. SmartSource collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address, demographic data and preferential data) in order to respond to your requests for offers and information about products and services you are interested in. When we collect PII from you it is because you are voluntarily submitting the information to us so that we can respond to your requests. On those occasions when we obtain PII from a third party, we use only reputable sources of such information.
 
-SMARTSOURCE may use a reputable third party to manage some of its sweepstakes and contests, and this company may have access to some of the personally identifiable information that is provided in a contest or sweepstakes entry form. The contest administrator will use the personally identifiable information only for the specific contest-related purpose for which it was submitted, and it will not be sold, marketed or transferred to other companies without the user's permission. 
+PII you submit in connection with the SmartSource Internet Coupons service is currently collected on our behalf by our business partners, planet U and Coupons, Inc., who share this information with us. For information on how PII information is gathered and used for "Mail To Home" offers, please refer to the planet U "U-pons Privacy Policy," <http://www.planetu.com/apages/privacy.html>. For information on how PII information is gathered and used for our "Printable" offers, please refer to the Coupons, Inc. Privacy Policy <http://www.coupons.com/privacy.asp>. Both of these links can be accessed on the "Get Coupons" registration page or the Frequently Asked Questions page.
 
-SMARTSOURCE may also share your personally identifiable information with its affiliated companies for research and marketing purposes. 
+SmartSource does not knowingly collect PII from children under the age of 13. 
 
-From time to time SMARTSOURCE may want to send you additional information about products or services we think you will find interesting. However, at the time of registration, you will have the ability to instruct us not to do so. If you want to remove your personal information from our files, send an email message to [webmaster@smartsource.com](mailto:webmaster@smartsource.com) with your name, address, e-mail address and member identification number. We will not be able to remove your historical usage information from our aggregate files. 
+_Cookies_. Cookies are small bits of information that the Internet site operated by SmartSource places on the hard drive of your computer. Cookies remember information about your activities on our site and enable Smartsource to make your visits to our site more enjoyable. For example, cookies can store your password for easy logon to a site you have previously visited, can save your preferences for a personalized home page or can track the items you have placed in your "shopping cart" during a visit to our online store. The cookie itself does not contain PII. 
 
-In addition to using the information that you provide to respond to your specific requests, SMARTSOURCE may use the information you submit in aggregate, non-personal form to make the SMARTSOURCE site better and more responsive to the needs of SMARTSOURCE visitors. The statistical compilation of non-identifiable information may also be used by SMARTSOURCE or provided to others for marketing, advertising or research purposes. 
-
-SMARTSOURCE maintains reasonable and appropriate safeguards to ensure the security, integrity and privacy of personally identifiable information collected at our site.   
+We use third-party advertising companies to serve ads when you visit the SmartSource web site. In the course of serving ads to this site, our third-party ad servers may place or recognize a unique cookie on your browser, and may use information (not including your name, address, email address or telephone number) about your visits to the SmartSource web site and other sites to provide ads to you on this site and other sites about goods and services that may be of interest to you. If you would like more information about the information collection practices of the third-party advertising companies that place ads on our web site, and about your choices about not having this information used by these companies, click here:   
+<http://www.doubleclick.net/naiprivacy>   
+You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely.   
   
-| |    
-| | **Use of Cookies**  
-Cookies are pieces of information that our web site transfers to your hard drive that make your visit and future visits to our sites more enjoyable. Cookies are not used to obtain information about a user that was not previously provided in a Cookie. The Cookie itself does not contain any personally identifiable information about a user, and SMARTSOURCE will not use Cookies to obtain such information. Most major sites on the Internet use Cookies. Users should consult their browser owner's manual for instructions on how to refuse Cookies.   
-| |    
-| | **Links to Other Sites**  
-SMARTSOURCE may establish relationships with reputable business partners that allow visitors to SMARTSOURCE sites to link directly to sites operated by these partners. In some cases, the linked site may be branded or "co-branded" with a SMARTSOURCE logo; however, it is not operated or maintained by SMARTSOURCE or its affiliated companies. For example, the SMARTSOURCE site may contain links to sites operated by newspapers or retailers that have a business relationship with SMARTSOURCE. These sites may collect personal information from you and share it with SMARTSOURCE. SMARTSOURCE chooses its advertisers and business partners carefully. However, SMARTSOURCE is not responsible for the content or privacy practices of third party web sites that may be linked to this site. These links are meant for the user's convenience only, and do not constitute sponsorship, endorsement or approval by SMARTSOURCE of the content, policies or practices of such sites. Once you have left the SMARTSOURCE site via such a link, you should check the applicable privacy policy of the third party site. SMARTSOURCE sites are also linked to web sites operated by companies affiliated with SMARTSOURCE. Visitors to those sites should refer to each site's separate privacy policy.   
-| |    
-| |    
-| |    
-| |    
-| |    
-| |  
+|  |    
+|  | 
+
+**_NOTICE:_** _SMARTSOURCE WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES._
+
+When SmartSource collects PII from you, we will make sure you are informed about who is collecting the information and the types of usage.
+
+This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your PII (See "Use" below). However, at the time your PII is collected, SmartSource will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies (See "Choice" below). Sometimes we collect personally identifiable information from consumers in manual format, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us. 
+
+The SmartSource web site may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with a SmartSource logo, even though they are not operated or maintained by SmartSource (for example, sites operated by newspapers or retailers that have a business relationship with SmartSource). The SmartSource web site may also carry advertisements from other companies as well as advertisements placed by national Internet ad agencies. Although we choose our business partners and advertisers carefully, SmartSource is not responsible for the privacy practices of web sites operated by third parties that are linked to our site, of third party or so-called national advertisers, or third party ad servers. Once you've left the SmartSource site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you. 
+
+The SmartSource web site may also be linked to sites operated by companies affiliated with SmartSource. Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy.   
+  
+|  |    
+|  | 
+
+_**CHOICE:** SMARTSOURCE WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII_  
+
+
+SmartSource will provide you with the opportunity to choose whether your PII may be used for purposes in addition to those for which it was originally submitted. You will also be able to choose whether your information is shared with companies that are not affiliated with SmartSource (i.e., not part of the News America Group).  
+  
+|  |    
+|  | 
+
+_**USE:** SMARTSOURCE'S USE OF PII_
+
+SmartSource will use your PII in a manner that is consistent with this Policy and only to provide you with specific offers that you may be interested in, unless other uses are disclosed to you and you allow us to use your information in these other ways.
+
+SmartSource may share your PII with companies that are affiliated with us, that is part of the News America Group of companies. SmartSource may also share your PII with companies that are not affiliated with SmartSource, but would like to send you information about their products and services. For example, if you enter a sweepstakes promotion hosted by SmartSource.com, we may share the information you submit on the sweepstakes entry form with our sweepstakes partners and prize sponsors. Neither SmartSource.com nor any of its partners will provide your name or other uniquely identified information to a third party without your permission.
+
+SmartSource employees, agents and contractors must have a legitimate business reason to obtain access to your PII. Outside contractors or agents who help us manage our information activities (i.e., sweepstakes and contest administration, order fulfillment, statistical analyses) may only use PII to provide SmartSource with a specific service and not for any other purpose.
+
+If SmartSource obtains PII from a third party, such as a business partner, our use of this information is governed by this Policy once the PII is in our possession.
+
+SmartSource may be required to disclose PII to comply with legal requirements, such as a court order, and to protect the safety and security of visitors to our web sites.  
+  
+|  |    
+|  | 
+
+_**SECURITY:** SMARTSOURCE PROTECTS THE SECURITY OF PII_
+
+SmartSource uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, SmartSource uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete.  
+  
+|  |    
+|  | 
+
+**_ACCESS:_** _HOW TO ACCESS, CORRECT OR DELETE YOUR PII_
+
+Whenever possible, SmartSource will permit you to review the PII we have collected from you, to correct any PII that is incorrect and to instruct us to make your PII inactive in our files. If you want to do any of these things, click on the "Personal Profile" link on the Get Coupons page. On your Personal Profile Page, you can modify any of your PII elements and opt out of further communication from SmartSource.com. Additionally, you can send an email message to [webmaster@smartsource.com](mailto:webmaster@smartsource.com) with your name, mailing address, and email address to specify what actions you would like to be taken with respect to your PII. Please note that we will not be able to delete your historical usage information from our aggregate files.  
+  
+|  |    
+|  | 
+
+_**REMEDIES AND COMPLIANCE:** HOW TO CONTACT SMARTSOURCE ABOUT PRIVACY CONCERNS_
+
+If you want to communicate with SmartSource about this Privacy Policy, or have questions about our use of your PII, please send an email to:  
+webmaster@smartsource.com.  
+We can also be contacted by mail at the following address:
+
+Webmaster  
+SmartSource.com   
+101 East 52nd Street, 20th Floor   
+New York, NY 10022   
+  
+|  |    
+|  |    
+|  |  |    
+|  |  |  
