@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expressindia.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603191258id_/http%3A//www.expressindia.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expressindia.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205022121id_/http%3A//www.expressindia.com/about/privacy.html) for the most accurate reproduction.*
 
 # Expressindia.com: PRIVACY POLICY
 
@@ -26,4 +26,4 @@ We also use a reputable third party to serve the advertisements that you see on 
 
 Our website(s) has links to other website(s) in the World Wide Web. The privacy policies of these website(s) is not under our control. Once you leave our servers, use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. It is advisable to read their privacy policies for further information.
 
-If you wish to send us your comments, please visit our Feedback page at [http://www.expressindia.com/about/feedback.html](http://www.expressindia.com/about/feedback.html?https://web.archive.org/web/20030603191258id_/http%3A//www.expressindia.com/about/privacy.html)
+If you wish to send us your comments, please visit our Feedback page at [http://www.expressindia.com/about/feedback.html](http://www.expressindia.com/about/feedback.html?https://web.archive.org/web/20031205022121id_/http%3A//www.expressindia.com/about/privacy.html)
