@@ -1,26 +1,45 @@
-> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605223553id_/http%3A//www.recreation.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recreation.gov privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624211010id_/http%3A//recreation.gov/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy for this Website for www.recreation.gov
+# Recreation.gov
 
-_
+**Privacy & Security Notice**
 
-Privacy Policy for this Website
+Thanks for visiting therecreation.gov website and reviewing our privacy policy. Our privacy policy is plain and simple. We collect NO personal information like names or addresses when you visit our website. If you choose to provide that information to us it is only used to fulfill your request for information. 
 
-_
+We do collect some technical information when you visit to make your visit seamless. The section below explains how we handle and collect technical information when you visit our website. 
 
-* * *
+**Information Collected and Stored Automatically**
 
-This is how we will handle information we learn about you from your visit to our website. The information we receive depends upon what you do when visiting our site.
+When you browse, read pages or download information on Recreation.gov, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:  
+\- The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;  
+\- The type of browser (e.g., Netscape, Internet Explorer) and operating system (Windows, Unix) used to access our site;  
+\- The date and time you access our site;  
+\- The pages you visit; and 
 
-If you visit our site to read or download information, such as consumer brochures or press releases: 
+If you linked to the Recreation.gov website from another website, the address of that website. This information is only used to help us make the site more useful for you. With this data we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits. 
 
-    We collect and store _only_ the following information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account, or princeton.edu if you are connecting from Princeton University's domain); the date and time you access our site; and the Internet address of the website from which you linked directly to our site. **We do not store any personal identifiers. This information is not stored in any particular fashion, but is part of a systems log file.**  
-    For site management, information is collected for statistical purposes. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. We use the information we collect to measure the number of visitors to the different sections of our site, and to help us make our site more useful to visitors. **This information is only used internally, does not contain personal identifiers, and will only be used for internal management purposes.**
- ********
+**Cookies**
 
-If you identify yourself by sending an E-mail or filling out a questionnaire or guestbook:
+When you visit some websites, their webservers generate pieces of information known as cookies. Some cookies collect personal information to recognize your computer in the future. This is not the case atRecreation.gov, where we only use non-persistent cookies or "per-session cookies." These cookies do not collect personal information on users and they are erased as soon as you leave our website. 
 
-    You also may decide to send us personally-identifying information, for example, in an electronic mail message containing a complaint. We use personally-identifying information from consumers in various ways to further our **customer's protection and to provide better service. This may be to correct broken links that you have identified or provide additional information that you have requested.** ******Any information that we collect via a questionnaire or a guestbook may be subject to disclosure, but will be handled in accordance with the requirements of the**[ **Privacy Act**](http://www.usdoj.gov/oip/overview.pdf) **and the**[ **Freedom of Information Act**](http://www.doi.gov/foia/foiaregs.html) **to ensure the greatest protection of personal privacy in the face of any required disclosure.**  
-**_    We will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. Except as might be required by law, we do not share any information we receive with outside parties.
-_**
-    Return to [www.recreation.gov](https://web.archive.org/web/20010605223553id_/http%3A//www.recreation.gov/index.htm)
+Per-session cookies serve technical purposes like providing seamless navigation through Recreation.gov. These cookies do not permanently record data and they are not stored on your computer's hard drive. Recreation.gov cookies are stored in memory and are only available during an active browser session. Again, once you close your browser, the cookie disappears. 
+
+**If You Send Us Personal Information**
+
+If you choose to provide us with personal information -- like filling out a Contact Us form with personal information and submitting it to us through the website -- we use that information to respond to your message and to help us get you the information you have requested. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. We never create individual profiles or give it to any private organizations. Recreation.gov never collects information for commercial marketing. 
+
+**Site Security**
+
+For site security purposes and to ensure that this service remains available to all users, this government computer system employs commercial software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines. 
+
+Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. 
+
+**Disclaimer of Endorsement**   
+The information posted on the Recreation.gov website includes hypertext links or pointers to information created and maintained by other public and/or private organizations. Recreation.gov provides these links and pointers solely for our users' information and convenience. When users select a link to an outside website, they are leaving the Recreation.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website. Recreation.gov:   
+\- does not control or guarantee the accuracy, relevance, timeliness or completeness of information contained on a linked website  
+\- endorse the organizations sponsoring linked websites, and we do not endorse the views they express or the products/services they offer  
+\- cannot authorize the use of copyrighted materials contained in linked websites. Users must request such authorization from the sponsor of the linked website  
+\- are not responsible for transmissions that users receive from linked websites  
+\- do not guarantee that outside websites comply with Section 508 (Accessibility Requirements) of the Rehabilitation Act. 
