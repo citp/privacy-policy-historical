@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sextracker.com privacy policy that was archived on 2001-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010405185842id_/http%3A//www.sextracker.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sextracker.com privacy policy that was archived on 2001-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011201130925id_/http%3A//www.sextracker.com/about/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <!-- Copyright 2000 Flying Crocodile, Inc. All rights reserved. -->
@@ -127,12 +127,20 @@ function aoff(thisimg) {
 	exec_img.src = "http://graphics2.sextracker.com/navbar/webmasters/navbar_exec_off.gif";
 	exec_img_on.src = "http://graphics2.sextracker.com/navbar/webmasters/navbar_exec_on.gif";
 
+    manual_img = new Image;
+	manual_img_on = new Image;
+	manual_img.src = "http://graphics2.sextracker.com/navbar/webmasters/navbar_manual_off.gif";
+	manual_img_on.src = "http://graphics2.sextracker.com/navbar/webmasters/navbar_manual_on.gif";	
+
 	resources_img = new Image;
 	resources_img_on = new Image;
 	resources_img.src = "http://graphics2.sextracker.com/navbar/webmasters/navbar_resources_off.gif";
 	resources_img_on.src = "http://graphics2.sextracker.com/navbar/webmasters/navbar_resources_on.gif";
 	
-	
+	contact_img = new Image;
+	contact_img_on = new Image;
+	contact_img.src = "http://graphics2.sextracker.com/navbar/navbar_contact.gif";
+	contact_img_on.src = "http://graphics2.sextracker.com/navbar/navbar_contact_on.gif";
   }
 
 function highlight_img(thisimg) {
@@ -303,6 +311,8 @@ document.write('<font face="verdana,arial,helvetica,san-serif" size="1" color="#
 <a href="http://www.sextracker.com/about/" target="_top" onmouseover="highlight_img('about'); window.status='About SexTracker'; return true" onmouseout="unhighlight_img('about'); return true"><img src="http://graphics2.sextracker.com/navbar/navbar_about.gif" border="0" height="19" width="132" vspace="2" alt="about us" name="about"></a><br>
 
 <a href="http://webmasters.sextracker.com/" target="_top" onmouseover="highlight_img('webmasters'); window.status='For Webmasters Only'; return true" onmouseout="unhighlight_img('webmasters'); return true"><img src="http://graphics2.sextracker.com/navbar/navbar_webmasters.gif" border="0" height="19" width="132" alt="webmasters" name="webmasters"></a><br>
+
+<a href="http://www.sextracker.com/contact/" target="_top" onmouseover="highlight_img('contact'); window.status='Contact SexTracker'; return true" onmouseout="unhighlight_img('contact'); return true"><img src="http://graphics2.sextracker.com/navbar/navbar_contact.gif" border="0" height="19" width="132" vspace="2" alt="contact us" name="contact"></a><br>
 </p><p>
 </p><center>
 
