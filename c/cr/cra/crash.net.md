@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607053736id_/http%3A//www.crash.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101032458id_/http%3A//www.crash.net/privacy.asp) for the most accurate reproduction.*
 
 # Crash.Net, The Ultimate Global Motorsport Portal.
 
