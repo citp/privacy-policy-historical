@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621181541id_/http%3A//www.bellaonline.com/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202014721id_/http%3A//www.bellaonline.com/misc/privacy.asp) for the most accurate reproduction.*
 
-# Privacy at BellaOnline
+# All About BellaOnline - The Voice of Women
 
- P R I V A C Y   P O L I C Y 
+[About BellaOnline](https://web.archive.org/misc/about.asp) | [Terms of Use](https://web.archive.org/misc/terms.asp) | [Privacy Policy](https://web.archive.org/misc/privacy.asp) | [Press Releases](https://web.archive.org/misc/press.asp) | [Advertising](https://web.archive.org/misc/advertising.asp) | [Contact Info](https://web.archive.org/misc/contact.asp)
+
+## P R I V A C Y   P O L I C Y
 
 This statement discloses the privacy practices for BellaOnline.com ("Website"). Because this Website wants to demonstrate its commitment to respecting your privacy and to build users' trust and confidence in the Internet, it has agreed to disclose its information practices. You can expect to be notified of: 
 
@@ -17,7 +19,7 @@ This statement discloses the privacy practices for BellaOnline.com ("Website"). 
 
 Questions regarding this statement should be directed to BellaOnline.com by sending an email to [info@bellaonline.com](mailto:info@bellaonline.com) and writing "Privacy Policy" in the subject line.
 
-This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement](https://web.archive.org/web/20030621181541id_/http%3A//www.bellaonline.com/misc/terms.asp). Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
+This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement](https://web.archive.org/web/20031202014721id_/http%3A//www.bellaonline.com/misc/terms.asp). Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
 
 How We Collect Information 
 
@@ -85,3 +87,5 @@ Security
 We use industry-standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers where appropriate. However, "perfect security" does not exist on the Internet.
 
 We hope this policy clarifies our procedures regarding your personal information. We at BellaOnline encourage you to learn as much as you can about your privacy on the Internet. To learn more, visit TRUSTe at: <http://www.truste.org/> and GetNetWise at: <http://www.getnetwise.org/>. 
+
+[About BellaOnline](https://web.archive.org/misc/about.asp) | [Terms of Use](https://web.archive.org/misc/terms.asp) | [Privacy Policy](https://web.archive.org/misc/privacy.asp) | [Press Releases](https://web.archive.org/misc/press.asp) | [Advertising](https://web.archive.org/misc/advertising.asp) | [Contact Info](https://web.archive.org/misc/contact.asp)
