@@ -1,67 +1,8 @@
-> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2001-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010605185002id_/http%3A//www.owners.com/About/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the owners.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205123308id_/http%3A//www.owners.com/About/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Owners.com : Privacy Policy and Security Statement
 
-|   
----  
-  Search Homes  
-|    
-   |   
-   
-|  |   
-  My Desktop  
-|    
-  
-|   
-|  |   
-| [New User?](http://www.owners.com/Accounts/AccountEntry.asp)  
-  Shortcuts  
-| [Get an Agent](http://www.owners.com/OAN/GetAnAgent.asp)  
-| [Prequalify for a Loan](http://www.owners.com/Services/LoanPrequal/LoanPrequal.asp)  
-| [New Listing Updates](http://www.owners.com/Tools/EmailUpdates/EmailUpdates.asp)  
-| [Agent Sign Up](http://www.owners.com/Services/Centers/Agents/AgentsMain.asp)  
-  Buyers  
-| [Buyer Handbook](http://www.owners.com/Tools/BuyerHandbook/DecideToBuy.asp)  
-| [Tools & Services](http://www.owners.com/Tools/BuyerMain.asp)  
-| [Search Homes](http://www.owners.com/Search/BeginSearch.asp)  
-  Sellers  
-| [Seller Handbook](http://www.owners.com/Tools/SellerHandbook/DecideToSell.asp)  
-| [Tools & Services](http://www.owners.com/Tools/SellerMain.asp)  
-| [Sell My Home](http://www.owners.com/Seller/solutions.asp)  
-  Company  
-| [Contact Us](http://www.owners.com/About/Contacts.asp)  
-| [Press Room](http://www.owners.com/About/PressReleases.asp)  
-| [Careers](http://www.owners.com/About/JobsAtOwners.asp)  
-| [Partners](http://www.owners.com/About/Partners.asp)  
-| [About Us](http://www.owners.com/About/AboutUs.asp)  
-  
-  
-Equal Housing Opportunity
-
-|   |   
-
-
-[](http://www.owners.com/PageRedirect.asp?URL=https%3A%2F%2Fwww%2Etruste%2Eorg%2Fvalidate%2F4527)
-
 **Owners.com** is dedicated to safeguarding your privacy online. The following explains how your information will be treated as you make use of our products and services. 
-
-**_TRUSTe_**
-
-This confirms that **Owners.com** is a licensee of the TRUSTe Privacy Program. 
-
-TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
-
-  1. What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site 
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under **Owners.com** 's control 
-  7. How you can correct any inaccuracies in the information. 
-
-
-
-If you have questions or concerns regarding this statement, you should first contact the Owners.com Privacy Department by email to [privacy@owners.com](mailto:privacy@owners.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [(http://www.truste.org/users/users_watchdog.html)](http://www.owners.com/PageRedirect.asp?URL=http%3A%2F%2Fwww%2Etruste%2Eorg%2Fusers%2Fusers%5Fwatchdog%2Ehtml). TRUSTe will then serve as a liaison with the Web site to resolve your concerns 
 
 **_Your Information_**
 
@@ -70,7 +11,7 @@ If you have questions or concerns regarding this statement, you should first con
 **Personal Information**  
 
 
-Personal information is defined as information entered when registering on our Web site. **Owners.com** does not sell or distribute any of your individual personal information to other companies or vendors. We will not release any of your personal information to other users without your permission. Owners.com does share contact information with its parent company, homebytes.com, to offer upgrades and other products. We may use or provide partners with aggregate information from the information provided by all users. 
+Personal information is defined as information entered when registering on our Web site. **Owners.com** does not sell or distribute any of your individual personal information to other companies or vendors. We will not release any of your personal information to other users without your permission. We may use or provide partners with aggregate information from the information provided by all users. 
 
 **Listing Information**  
 
