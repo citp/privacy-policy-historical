@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcrg.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205111100id_/http%3A//www.fyiowa.com/family/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcrg.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404221025id_/http%3A//www.fyiowa.com/family/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -60,6 +60,6 @@ If you supply us with your postal address online, you may receive periodic maili
 **Information shared with other organizations**  
 From time to time, we make our customer list available to other companies or organizations whose products or services we think you might find interesting. This list can include your email address and, if you have provided it to us online, your postal address and your telephone number. If you do not want us to share your e-mail address, postal address and/or telephone number with other companies or organizations, please let us know by sending email to us at the above-listed address, calling us at the above-listed telephone number or writing to us at the above-listed address. In your request, please specify what information you do not want to be shared, your email address, postal address and/or telephone number, and provide us with your exact name, postal address and telephone number. We will be sure your name is removed from the list we share with other organizations.
 
-[](https://web.archive.org/web/20001205111100id_/http%3A//www.fyiowa.com/index.htm) [](http://www.gazetteonline.com/) [](https://web.archive.org/web/20001205111100id_/http%3A//www.fyiowa.com/imi/index.htm) [](http://www.iowafarmer.com/) [](http://www.kcrg.com/)   
+[](https://web.archive.org/web/20010404221025id_/http%3A//www.fyiowa.com/index.htm) [](http://www.gazetteonline.com/) [](https://web.archive.org/web/20010404221025id_/http%3A//www.fyiowa.com/imi/index.htm) [](http://www.iowafarmer.com/) [](http://www.kcrg.com/)   
 _E-mail comments to FYIowa[fyiowa@fyiowa.com](mailto:fyiowa@fyiowa.com)_  
 All local content copyright © 1998 by The Gazette Company, Cedar Rapids, Iowa
