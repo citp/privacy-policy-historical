@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotvmail.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602155853id_/http%3A//www.gotvmail.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotvmail.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205001901id_/http%3A//www.gotvmail.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Small Business Voicemail & Toll Free Numbers - GotVMail Communications
 
@@ -39,7 +39,7 @@
 > 
 > ### Cookies
 > 
-> A cookie is a piece of data stored on the user’s computer tied to information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  We DO NOT use cookies on this site.
+> A cookie is a piece of data stored on the user’s computer tied to information about the user.  Usage of a cookie is in no way linked to any personally identifiable information while on our site.  We use cookies on this site.
 > 
 >   **Log Files**
 > 
@@ -77,7 +77,7 @@
 > 
 > ## Service Providers
 > 
-> We partner with other third parties FreedomVoice Systems to provide toll free services. When the user signs up for these particular services, we share names, or all contact information that is necessary for the third party to provide these services.  These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+> We do not partner with other third party Systems to provide toll free services. When the user signs up for these particular services, we share names, or all contact information that is necessary for the third party to provide these services.  These third parties are not allowed to use personally identifiable information except for the purpose of providing these services.
 > 
 > Business Transitions
 > 
