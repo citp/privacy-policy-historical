@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207160156id_/http%3A//www.planetrugby.com/HOME/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetrugby.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610103630id_/http%3A//planetrugby.com/Home/privacy_policy.shtml) for the most accurate reproduction.*
 
-# Rugby World Cup news, fun, results, fixtures and features from Planet-Rugby.com ....
+# Rugby news, results, fixtures and features from Planet-Rugby.com
+
+## Privacy
 
   
 **1.** **Planet Rugby** has a firm commitment to privacy. 
@@ -23,4 +25,4 @@
 
 * * *
 
-**Thank you for reading our legal section and thank you for choosing Planet Rugby as your reliable source of sports news and views on the Internet. If you have any questions about anything contained in this site, or about your dealings with this site, you can contact Customer Service at  Rivals Digital Media, 151 Freston Road, London W10 6TH, United Kingdom or e-mail us on [customerservice@rivalsdm.com](mailto:customerservice@rivalsdm.com).  **
+**Thank you for reading our legal section and thank you for choosing Planet Rugby as your reliable source of sports news and views on the Internet. If you have any questions about anything contained in this site, or about your dealings with this site, you can contact Customer Service at  Rivals Digital Media, 4th Floor, 46 Loman Street, London, SE1 OEH, United Kingdom or e-mail us on [customerservice@rivalsdm.com](mailto:customerservice@rivalsdm.com).  **
