@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gamestation.co.uk privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604011225id_/http%3A//www.gamestation.co.uk/site/gamestation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestation.co.uk privacy policy that was archived on 2002-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020810175912id_/http%3A//www.gamestation.co.uk/site/gamestation/privacy) for the most accurate reproduction.*
 
 # Gamestation :: Gamestation :: Privacy
 
-We are committed to protecting your privacy. We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. If you do not wish to receive any email correspondence from us pleas email us with the words "Unsubscribe" on the subject line of the email.
+We are committed to protecting your privacy. We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service. If you do not wish to receive any email correspondence from us please email us with the words "Unsubscribe" on the subject line of the email.
 
 The type of information we will collect about you includes:
 
