@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the scientificsonline.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803010435id_/http%3A//www.edmundscientific.com/corporate/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scientificsonline.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408165935id_/http%3A//www.scientificsonline.com/catalogs/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Edmund Scientifics - Privacy Policy
+# Edmund Scientifics: Privacy Policy
 
+Privacy Policy
+
+  
 Our customers' privacy is very important to us here at Edmund Scientific. That is why we are offering this page of information describing what information we collect when you come onto our site. 
 
 Our postal address is:   
@@ -28,5 +31,3 @@ If you prefer that we do not make your name and address available for these care
          Edmund Scientific  
          60 Pearce Ave.  
          Tonawanda, NY 14150-6711 
-
-* * *
