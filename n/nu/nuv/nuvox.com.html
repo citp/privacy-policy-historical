@@ -1,0 +1,422 @@
+<!--The following is the downloaded HTML source of the nuvox.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204033012id_/http%3A//www.nuvox.com/index.php/22) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>NuVox Communications</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/styles.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/styles/layersmenu-gtk2.css" type="text/css">
+<script language="JavaScript">
+   // ----------- Start Auto Highlight Code ----------- //
+   function assign_events() {
+      for(fm = 0; fm < document.forms.length; fm++) {
+         for(c = 0; c < document.forms[fm].elements.length; c++) {
+            elem = document.forms[fm].elements;
+            if (elem[c].type == 'text' || elem[c].type == 'password' || elem[c].type == 'select-one' || elem[c].type == 'textarea') {
+               if (window.Event) {
+                  this.captureEvents(Event.ONFOCUS | Event.ONBLUR);
+                  elem[c].onfocus = hilight_ns;
+                  elem[c].onblur = unhilight_ns;
+               } else {
+                  elem[c].onfocus = hilight_ie;
+                  elem[c].onblur = unhilight_ie;
+               }
+            }
+         }
+      }
+   }
+   
+   function hilight_ie() {
+      event.srcElement.style.backgroundColor='#AEBCE6'; 
+   }
+   
+   function unhilight_ie() {
+      event.srcElement.style.backgroundColor='#D1D7ED'; 
+   }
+   
+   function hilight_ns(e) {
+      e.target.style.backgroundColor='#AEBCE6'; 
+   }
+   
+   function unhilight_ns(e) {
+      e.target.style.backgroundColor='#D1D7ED';
+   }
+
+   function autoFocus() {
+      if (typeof( document.form1 ) == 'object' && (typeof( document.form1.f_user ) == 'object'))
+         document.form1.f_user.focus();
+   }
+
+</script>
+<script language="JavaScript">
+<!--
+// PHP Layers Menu 3.1.1 (C) 2001-2003 Marco Pratesi (marco at telug dot it)
+
+DOM = (document.getElementById) ? 1 : 0;
+NS4 = (document.layers) ? 1 : 0;
+// We need to explicitly detect Konqueror
+// because Konqueror 3 sets IE = 1 ... AAAAAAAAAARGHHH!!!
+Konqueror = (navigator.userAgent.indexOf("Konqueror") > -1) ? 1 : 0;
+// We need to detect Konqueror 2.2 as it does not handle the window.onresize event
+Konqueror22 = (navigator.userAgent.indexOf("Konqueror 2.2") > -1 || navigator.userAgent.indexOf("Konqueror/2.2") > -1) ? 1 : 0;
+Opera = (navigator.userAgent.indexOf("Opera") > -1) ? 1 : 0;
+Opera5 = (navigator.userAgent.indexOf("Opera 5") > -1 || navigator.userAgent.indexOf("Opera/5") > -1) ? 1 : 0;
+Opera6 = (navigator.userAgent.indexOf("Opera 6") > -1 || navigator.userAgent.indexOf("Opera/6") > -1) ? 1 : 0;
+Opera56 = Opera5 || Opera6;
+IE = (navigator.userAgent.indexOf("MSIE") > -1) ? 1 : 0;
+IE = IE && !Opera;
+IE5 = IE && DOM;
+IE4 = (document.all) ? 1 : 0;
+IE4 = IE4 && IE && !DOM;
+
+
+menuTopShift = 6;
+menuRightShift = 7;
+menuLeftShift = 2;
+
+var thresholdY = 1;
+var abscissaStep = 140;
+
+toBeHidden = new Array();
+toBeHiddenLeft = new Array();
+toBeHiddenTop = new Array();
+
+listl = ['L1','L4','L9'];
+var numl = listl.length;
+
+father = new Array();
+for (i=1; i<=15; i++) {
+        father['L' + i] = '';
+}
+father_keys = ['L5','L10','L6','L8','L11','L12','L3','L13'];
+father_vals = ['L4','L9','L4','L9','L9','L1','L9'];
+for (i=0; i<father_keys.length; i++) {
+        father[father_keys[i]] = father_vals[i];
+}
+
+
+lwidth = new Array();
+var lwidthDetected = 0;       
+
+function moveLayers() {
+        if (!lwidthDetected) {
+                for (i=0; i<numl; i++) {
+                        lwidth[listl[i]] = getOffsetWidth(listl[i]);
+                }
+                lwidthDetected = 1;
+        }
+        if (IE4) {
+                for (i=0; i<numl; i++) {
+                        setWidth(listl[i], abscissaStep);
+                }
+        }
+        var hormenu1TOP = getOffsetTop('hormenu1L1');
+        var hormenu1HEIGHT = getOffsetHeight('hormenu1L1');
+        setTop('L1', hormenu1TOP + hormenu1HEIGHT);
+        moveLayerX1('L1', 'hormenu1');
+        setTop('L4', hormenu1TOP + hormenu1HEIGHT);
+        moveLayerX1('L4', 'hormenu1');
+        setTop('L9', hormenu1TOP + hormenu1HEIGHT);
+        moveLayerX1('L9', 'hormenu1');
+
+}
+
+back = new Array();
+for (i=1; i<=15; i++) {
+        back['L' + i] = 0;
+}
+ 
+function mClick(loc) {
+   window.location.href = loc;
+}
+//-->
+</script>
+<script language="JavaScript" type="text/javascript" src="/libjs/layersmenu-library.js"></script>
+<script language="JavaScript" type="text/javascript" src="/libjs/layersmenu.js"></script>
+
+</head>
+
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="184"><a href="/"><img border="0" src="/images/logo.gif" width="184" height="64"></a></td>
+    <td class="hdr">
+      <div id="horbar">
+      <table border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td class="topNav"><div id="hormenu1L1" onmouseover="moveLayerX1('L1', 'hormenu1') ; LMPopUp('L1', false);"><a href="/index.php/25">Products &amp; Services</a></div></td>
+          <td class="topNav"><div id="hormenu1L4" onmouseover="moveLayerX1('L4', 'hormenu1') ; LMPopUp('L4', false);"><a href="/index.php/19">News</a></div></td>
+          <td class="topNav"><div id="hormenu1L9" onmouseover="moveLayerX1('L9', 'hormenu1') ; LMPopUp('L9', false);"><a href="/index.php/47">Who We Are</a></div></td>
+          <td class="topNav"><div id="hormenu1L14" onmouseover="shutdown();"><a href="/index.php/16">Contact Us</a></div></td>
+          <td class="topNav"><a href="/">Home</a></td>
+         </tr>
+      </tbody></table>
+      </div>
+      </td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td class="subNav"><img src="/images/subnav_bg.gif" width="21" height="7"></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top" class="sidebar">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td>
+		  		  <img src="/images/main_image3.gif" width="184" height="87"></td>
+        </tr>
+        <tr>
+          <td>
+<table width="100%" border="0" cellpadding="0" cellspacing="0" class="menu">
+            </table>
+          </td>
+        </tr>
+        <tr>
+          <td><img src="/images/sidebar_menu_ftr.gif" width="184" height="14"></td>
+        </tr>
+      </tbody></table>
+    </td>
+    <td valign="top" class="content"> <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td valign="top">
+
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td valign="top"><p class="pageHdr"></p>
+            <table width="95%" border="0" cellpadding="5" cellspacing="10" class="contentTbl">
+              <tbody><tr>
+
+                <td class="sectionTitle">Privacy Policy</td>
+              </tr>
+              <tr>
+                <td class="contentTd">
+        NuVox Communications is committed to your privacy and guards your data
+carefully. We realize that the exciting growth of the Internet and
+online services have also brought concern for consumers about what
+information is collected about them, and we want you to know that we
+apply that long-standing commitment to all of our online and Internet
+activities.&nbsp;
+<p>Currently, NuVox does not share, disclose or sell any personally
+identifiable information collected at this site with other companies or
+organizations. In the future, should NuVox decide to share its
+customers' personal or transactional data with third parties, it will,
+in advance, provide notification and the opportunity for its users to
+indicate whether they would prefer that the company not provide the
+information to third parties.&nbsp;</p>
+<p>NuVox may collect some personally identifiable information when you
+are at this site such as your name, telephone number, or email address.
+NuVox may also include information about your visit in collective or
+aggregated data that does not identify you specifically. We use that
+information to help maintain accurate accounts, providing and changing
+service, billing, shipping, answering your inquiries, marketing
+services and products, and to help make our Web site useful to
+you:&nbsp;</p>
+<ul>
+<li>Our server recognizes your domain name and the pages that you
+visit. This data is gathered in an aggregate manner for quality control
+and improvement of our site.&nbsp;</li>
+<li>We collect your email address when you send email to us so that we can respond 
+to your inquiry.&nbsp;</li>
+<li>We collect information that you volunteer to us on surveys, contest sites, and 
+registration sites.&nbsp;</li>
+<li>We use your information to provide you with service, online
+customer service, billing, and fulfillment materials. (For example, we
+will use your postal address to provide you with software or calling
+cards you may request.)&nbsp;</li>
+<li>We do not market to children nor collect personal information about children 
+at this site.&nbsp;</li>
+<li>We use strong technology to ensure your sensitive information
+is secure and is protected from unauthorized access or improper
+use.&nbsp;</li></ul>
+<p>At some Web sites, you can purchase products and services or
+register to receive materials, such as a catalog or new product and
+service updates. In many cases, you may be asked to provide contact
+information, such as your name, address, email address, phone number,
+and credit/debit card information. If you complete an order for someone
+else, such as an online gift order sent directly to a recipient, you
+may be asked to provide information about the recipient, such as the
+recipient's name, address, and phone number. NuVox has no control over
+the third parties' use of any personal information you provide when
+placing such an order. Please exercise care when doing so.&nbsp;</p>
+<p>When visitors or customers send email inquiries to NuVox, the return
+email address is used to answer the email inquiry we receive. NuVox
+does not use the return email address for any other purpose and does
+not share the return email address with any third party.&nbsp;</p>
+<p>At any time, you may review or update the available personally
+identifiable information that we collect online by contacting NuVox at
+the address noted below. To better safeguard your information, we will
+also take reasonable steps to verify your identity before granting
+access or making corrections in your information. NuVox has developed
+this privacy policy in accordance with current U.S. standards.&nbsp;</p>
+<p>We may periodically conduct both business and individual customer
+surveys. We encourage our customers to participate in these surveys
+because they provide us with important information that helps us to
+improve the types of services we offer and how we provide them to you.
+Your personal information and responses will remain strictly
+confidential, even if a third party conducts the survey. Participation
+in our customer surveys is voluntary.&nbsp;</p>
+<p>It is NuVox's policy not to use or share the personal information
+about visitors or customers in ways unrelated to the ones described
+above without also providing you an opportunity to opt-out or otherwise
+prohibit such unrelated uses. However, NuVox may disclose personal
+information about visitors or customers, or information regarding your
+use of the Services or Web sites accessible through our Services, for
+any reason if, in our sole discretion, we believe that it is reasonable
+to do so, including: to comply with the law, such as the Electronic
+Communications Privacy Act, regulations, or governmental or legal
+requests for such information; to disclose information that is
+necessary to identify, contact, or bring legal action against someone
+who may be violating our Acceptable Use Policy or other user policies;
+to operate the Services properly; or to protect NuVox and our
+customers.&nbsp;</p>
+<p>A "cookie" is a small data file that can be placed on your hard
+drive when you visit certain Web sites. NuVox may use cookies to
+collect, store, and sometimes track information for statistical
+purposes to improve the products and services we provide and to manage
+our telecommunications networks. If you are a customer and have created
+your own personal start page, we will use a cookie to save your
+settings and to provide customizable and personalized services. These
+cookies do not enable third parties to access any of your customer
+information. Additionally, be aware that if you visit non-NuVox Web
+sites where you are prompted to log-in or that are customizable, you
+may be required to accept cookies.&nbsp;</p>
+<p>For questions regarding the above policy, contact:&nbsp;</p>
+<p>NuVox Consumer Affairs
+<br>PO Box 6068&nbsp;&nbsp;
+<br>Greenville, SC 29606
+<br>1-800-460-1101</p>
+<p>NuVox reserves the right to revise, amend, or modify this policy at
+any time and in any manner. Any revision, amendment, or modification
+will be effective thirty (30) days after NuVox posts notice to
+customers in accordance with our Acceptable Use Policy.&nbsp;</p>
+<p>&nbsp;</p>       <br>
+
+              </td>
+              </tr>
+            </tbody></table>
+            </td></tr></tbody></table>
+          </td>
+          <td width="150" valign="top">
+            <table width="150" border="0" cellspacing="0" cellpadding="0">     
+              <tbody><tr>
+                <td class="sidebarTitle">Availability</td>
+              </tr>
+              <tr>
+                <td class="sidebarContent"><a href="/index.php/15">NUVOX MARKETS</a></td>
+              </tr>
+              <tr>
+                <td class="sidebarContent"><a href="/index.php/69">SIGN-UP FOR SERVICE</a></td>
+              </tr>
+              <tr>
+                <td class="sidebarTitle">&nbsp;</td>
+              </tr>
+              <tr>
+                <td class="sidebarTitle">Customer Care</td>
+              </tr>
+              <tr>
+<td class="sidebarContent"><a href="javascript:void(window.open('/popup.php?section=support','example2','width=350,height=470,left=0,top=0,location=no,menubar=no,status=no,toolbar=no,scrollbars=no,resizable=yes'))">I'M A CUSTOMER</a></td>
+              </tr>
+              <tr>
+<td class="sidebarContent"><a href="javascript:void(window.open('/popup.php?section=mymail','example2','width=350,height=470,left=0,top=0,location=no,menubar=no,status=no,toolbar=no,scrollbars=no,resizable=yes'))">MY EMAIL</a></td>              
+</tr>
+              <tr>
+                <td class="sidebarContent"><a href="http://dealer.nuvox.com">I'M A DEALER</a></td>
+              </tr>
+              <tr>
+                <td class="sidebarTitle">&nbsp;</td>
+              </tr>
+            </tbody></table>
+          </td>
+        </tr>
+      </tbody></table>
+   
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#EEEEEE">&nbsp;</td>
+    <td class="ftr"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td><a href="/index.php/21">Tariffs </a>&nbsp;|&nbsp; <a href="/index.php/22">Privacy Policy </a>&nbsp;|&nbsp;
+            <a href="/index.php/23">Acceptable Use Policy</a>
+&nbsp;|&nbsp;
+            <a href="/index.php/16">Contact Us</a>
+&nbsp;|&nbsp; 800-672-1450
+</td>
+          <td align="right">©&nbsp;2004 NuVox Communications</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+</tbody></table>
+   
+      <div id="L1" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0" width="180">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+          <div id="refL2" class="item"><a href="/index.php/25" onmouseover="LMPopUp('L1', true);"><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;FLEXLinx&nbsp;</a></div>
+          <div id="refL2" class="item"><a href="/index.php/27" onmouseover="LMPopUp('L1', true);"><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Voice Services&nbsp;</a></div>
+          <div id="refL2" class="item"><a href="/index.php/26" onmouseover="LMPopUp('L1', true);"><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Internet &amp; Web Services&nbsp;</a></div>
+          <div id="refL2" class="item"><a href="/index.php/28" onmouseover="LMPopUp('L1', true);"><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Networking Services&nbsp;</a></div>
+          <div id="refL2" class="item"><a href="/index.php/29" onmouseover="LMPopUp('L1', true);"><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Internet Security&nbsp;</a></div>
+          <div id="refL2" class="item"><a href="/index.php/30" onmouseover="LMPopUp('L1', true);"><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Conferencing Services&nbsp;</a></div>
+        </div>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div id="L4" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0" width="150">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+          <div id="refL5" class="item"><a href="/index.php/19" onmouseover="LMPopUp('L4', true);" title=""><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">Press
+            Releases</a></div>
+          <div id="refL6" class="item"><a href="/index.php/42" onmouseover="LMPopUp('L4', true);" title=""><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">NewsRoom</a></div>
+        </div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<div id="L9" class="submenu" onmouseover="clearLMTO();" onmouseout="setLMTO();">
+<table border="0" cellspacing="0" cellpadding="0" width="200">
+<tbody><tr>
+<td nowrap="nowrap">
+<div class="subframe">
+
+
+<div id="refL10" class="item"><a href="/index.php/47" onmouseover="LMPopUp('L9', true);" title=""><img align="top" src="images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Corporate Profile</a></div>
+
+<div id="refL24" class="item"><a href="/index.php/11" onmouseover="LMPopUp('L9', true);" title=""><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;History</a></div>
+
+          <div id="refL10" class="item"><a href="/index.php/8" onmouseover="LMPopUp('L9', true);" title=""><img align="top" src="images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Management Team</a></div>
+          <div id="refL11" class="item"><a href="/index.php/9" onmouseover="LMPopUp('L9', true);" title=""><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Board of Directors</a></div>
+
+<div id="refL12" class="item"><a href="/index.php/17" onmouseover="LMPopUp('L9', true);" title=""><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Investor Information</a></div>
+
+<div id="refL12" class="item"><a href="/index.php/15" onmouseover="LMPopUp('L9', true);" title=""><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Locations</a></div>
+
+<div id="refL12" class="item"><a href="/index.php/10" onmouseover="LMPopUp('L9', true);" title=""><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;NuVox Network</a></div>
+
+          <div id="refL13" class="item"><a href="/index.php/12" onmouseover="LMPopUp('L9', true);" title=""><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Customer Testimonials</a></div>
+          <div id="refL23" class="item"><a href="/index.php/13" onmouseover="LMPopUp('L9', true);" title=""><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Dealer Program</a></div>
+          <div id="refL25" class="item"><a href="/index.php/75" onmouseover="LMPopUp('L9', true);" title=""><img align="top" src="/images/spacer.gif" width="1" height="16" border="0" alt="">&nbsp;Careers</a></div>
+        </div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+loaded = 1;
+// -->
+</script>
+
+
+
+</body></html>
