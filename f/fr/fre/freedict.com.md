@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedict.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603201852id_/http%3A//freedict.com/onldict/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedict.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207100111id_/http%3A//freedict.com/onldict/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
