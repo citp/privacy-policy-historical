@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rentacoder.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203233151id_/http%3A//www.rentacoder.com/RentACoder/misc/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentacoder.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630174305id_/http%3A//www.rentacoder.com/RentACoder/misc/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -15,16 +15,16 @@ As a result,  Rent A Coder openly volunteers its practices of collecting informa
 
 **Credit Card Information, Pay Pal Account Information, Bank Account Information, Real Name, Phone#, Address Information, Social Security/EIN information and other personal information:**  
   
-The above information is gathered from either buyer or seller to facilitate payment into or from escrow accounts.  All of this information is used for internal purposes and is not sold to any external companies.
-
-     Social Security/EIN information is required to comply with IRS filing requirements.  We will not issue payments to U.S. citizens over the IRS mandated maximums without this information.  City, state and country information are posted publicly on the web site to allow buyer and sellers in similar locations and time-zones to more easily locate each other. If you feel uncomfortable having your name associated with a city, state and country, we recommend that you make use of the anonymous 'Screen Name' feature to protect your identity.
-
-Other than the address information specified above, none of this information is shared with the other party at any time in the bid request process by Exhedra (with the exception of email address...as follows). Once a buyer accepts a bid from a coder, email address information is released to facilitate the transaction between both parties. At that point, both sides may work out which additional pieces of information (if any) they would like to exchange. 
+The above information is gathered from either buyer or seller to facilitate payment into or from escrow accounts.  All of this information is used for the website(s) and internal purposes only. It is not sold to any external companies.
+* Social Security/EIN information is required to comply with IRS filing requirements.  We will not issue payments to U.S. citizens without this information. 
+* City, state and country information are posted publicly on the web site to allow buyer and sellers in similar locations and time-zones to more easily locate each other. If you feel uncomfortable having your name associated with a city, state and country, we recommend that you make use of the anonymous 'Screen Name' feature to protect your identity. 
+* If a Seller chooses to release contact information to buyers via their 'My alerts/ Info release'...this information will be provided to buyers as the Seller authorizes on the website.
+* If two parties enter arbitration, the arbitrator will use each party's real First Name in addressing them, (unless a party instructs the arbitrator not to at the beginning of the arbitration).
+* Once a buyer accepts a bid from a seller, email address information is exchanged between the parties by the site. (but not beforehand)
+  
+Other than the address information specified above, none of the other information is shared with the other party at any time in the bid request process by Exhedra. 
 
 Additionally...no information will be divulged or sold to any 3rd parties without your permission. If a user signs up for an opt-in email list, they will always be given the opportunity to opt out of it at any time, using a link at the bottom of the email. 
-
-  
-
 
 _**Email Address and Name Info**_
 
