@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207005500id_/http%3A//www.sprint.com/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604065510id_/http%3A//www.sprint.com/privacypolicy) for the most accurate reproduction.*
 
-# Sprint Privacy Policy
+# Sprint | Online Privacy Policy
 
-**Sprint Online Privacy Statement**
-
-The policies below are applicable to Sprint.com and other sites on the World Wide Web owned and operated by Sprint.
+The policies below are applicable to Sprint.com and other sites on the World Wide Web owned and operated by Sprint. 
 
   1. General
   2. Security
@@ -15,7 +13,10 @@ The policies below are applicable to Sprint.com and other sites on the World Wid
   7. Declining Email Offers
   8. Who to Contact
 
-  
+Sprint's Privacy Policy for its high speed Internet services can be accessed at:
+
+[www.sprint.com/privacypolicy/broadbandservices](http://www.sprint.com/privacypolicy/broadbandservices/index.html)
+
 **I. General**  
 Sprint respects the privacy of every individual who visits our Web sites, responds to our interactive advertisements or sends us e-mail. This Privacy Statement outlines the information Sprint will collect and how we will use that information. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit Sprint Web sites, respond to our Web-based advertisements or send us email. 
 
@@ -55,7 +56,7 @@ Similar to personally identifiable information, we will not sell non-personally-
 When you view one of our Web sites or advertisements, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will be used to determine ways to improve our Web sites, advertisements, products or services. For example, Cookies allow us to tailor a Web site to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. 
 
 **VII. Declining E-mail Offers**  
-As outlined in Section III. of this Statement, we will only send email promotions or announcements to you if you have previously provided your permission for us to do so. Although many customers tell us they appreciate receiving notice of these carefully designed promotions and announcements, we recognize the importance of providing you with choices. At any time, you may unsubscribe from our e-mail list by filling out our simple online [un-subscription form](http://csg.sprint.com/opt_in/privacy_24.html). All e-mail offers that you receive from Sprint will inform you of how to decline receiving further email offers. 
+As outlined in Section III. of this Statement, we will only send email promotions or announcements to you if you have previously provided your permission for us to do so. Although many customers tell us they appreciate receiving notice of these carefully designed promotions and announcements, we recognize the importance of providing you with choices. At any time, you may unsubscribe from our e-mail list by filling out our simple online [un-subscription form](http://shop.sprint.com/residential/voiceservices/customerCenter/newsOptOut/newsOptOut.jsp). All e-mail offers that you receive from Sprint will inform you of how to decline receiving further email offers. 
 
 **VIII. Who to Contact**  
 If you have submitted personally-identifiable information through a Sprint Web site or interactive advertisement, and would like that information deleted from our records, please contact us at our email address, [privacy@mail.sprint.com](mailto:privacy@mail.sprint.com). We will use reasonable efforts to delete this information from our existing files. 
