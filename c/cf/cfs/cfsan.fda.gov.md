@@ -1,35 +1,32 @@
-> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202072039id_/http%3A//www.cfsan.fda.gov/required.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603180659id_/http%3A//www.cfsan.fda.gov/required.html) for the most accurate reproduction.*
 
 # REQUIRED NOTICES
 
-[ Skip Navigation.](http://www.cfsan.fda.gov/required.html#main)   
+[Skip Navigation.](http://www.cfsan.fda.gov/required.html#main)
 
+Thank you for visiting the FDA/CFSAN web site and for reviewing our Privacy Policy. Please note that:
 
-[ ](http://www.cfsan.fda.gov/list.html) **C** enter for **F** ood **S** afety & **A** pplied **N** utrition
-
-> Thank you for visiting the FDA/CFSAN web site and for reviewing our Privacy Policy. Please note that: 
->
->> **We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us.**
+> **We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us.**
 
 ## Privacy Policy for The FDA/CFSAN VM Web Site
 
 **Information Collected and Stored Automatically**
 
-When you visit the "vm.cfsan.fda.gov" (aka "www.cfsan.fda.gov") web site, if you do nothing during your visit but browse through the web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following aggregated general information about your visit: 
+When you visit the "vm.cfsan.fda.gov" (aka "www.cfsan.fda.gov") web site, if you do nothing during your visit but browse through the web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following aggregated general information about your visit:
 
-  * the pages you visit, 
-  * the date and time you access our site, 
+  * the pages you visit,
+  * the date and time you access our site,
   * the name of the domain from which you access the Internet (for example, aol.com, if you are coming from an America Online account, or purdue.edu if you are connecting from Purdue University's domain), 
   * the Internet address of the website from which you linked directly to our site, and 
-  * your operating system and browser. 
+  * your operating system and browser.
 
 
 
-We use this information 
+We use this information
 
-  * to measure the number of visitors to the different food and nutrition sections of our site, 
-  * to help us make our site more useful 
-  * to develop and code content pages so that most people will be able to view the pages correctly. 
+  * to measure the number of visitors to the different food and nutrition sections of our site,
+  * to help us make our site more useful
+  * to develop and code content pages so that most people will be able to view the pages correctly.
 
 
 
@@ -39,11 +36,11 @@ If you choose to provide us with personal information, as in an e-mail message o
 
 **Children's Privacy**
 
-We collect no information from children under 13. If a child sends us an e-mail inquiry or comment, we answer, then delete the e-mail from our files. 
+We collect no information from children under 13. If a child sends us an e-mail inquiry or comment, we answer, then delete the e-mail from our files.
 
 **CFSAN Listservs**
 
-If you subscribe to a CFSAN Listserv, CFSAN considers your e-mail address confidential and it will not be released under FOI. For your convenience, you can subscribe to other government and non-government Listservs from our site. Each Listserv has its own privacy policy which you should check prior to subscribing. 
+If you subscribe to a CFSAN Listserv, CFSAN considers your e-mail address confidential and it will not be released under FOI. For your convenience, you can subscribe to other government and non-government Listservs from our site. Each Listserv has its own privacy policy which you should check prior to subscribing.
 
 ## Disclosure
 
@@ -57,37 +54,33 @@ Also, e-mail is not necessarily secure against interception. If you are worried 
 
 **Links to Other Sites**
 
-Our web site has links to many other federal agencies, and in a few cases we link to private organizations. If you access another site through a link we provide, you are subject to the privacy policy of the new site. 
+Our web site has links to many other federal agencies, and in a few cases we link to private organizations. If you access another site through a link we provide, you are subject to the privacy policy of the new site.
 
-Reference in this web site to any specific commercial products, process, service, manufacturer, or company does not constitute its endorsement or recommendation by the US Government, FDA, or CFSAN. FDA/CFSAN is not responsible for the contents of any 'OFF-SITE' web pages referenced from this server. 
+Reference in this web site to any specific commercial products, process, service, manufacturer, or company does not constitute its endorsement or recommendation by the US Government, FDA, or CFSAN. FDA/CFSAN is not responsible for the contents of any 'OFF-SITE' web pages referenced from this server.
 
 ## Required Disclaimer Notice
 
-The information provided using this WEB Server is only intended to be General Summary Information to the Public. It is not intended to take the place of either the written law or regulations. For an authoritative source, the [FDA Regulations](http://www.cfsan.fda.gov/~dms/reg-2.html) are published in the CFR - Code of Federal Regulations, and are available in book format from the Superintendent of Documents, [US Government Printing Office](http://www.gpo.gov/). 
+The information provided using this WEB Server is only intended to be General Summary Information to the Public. It is not intended to take the place of either the written law or regulations. For an authoritative source, the [FDA Regulations](http://www.cfsan.fda.gov/~dms/reg-2.html) are published in the CFR - Code of Federal Regulations, and are available in book format from the Superintendent of Documents, [US Government Printing Office](http://www.gpo.gov/).
 
 ## Information Quality Guidelines
 
-FDA/CFSAN is dedicated to ensuring that all data it disseminates reflect a level of quality commensurate with the nature and timeliness of the information. Futher, FDA seeks to disseminate all its data as broadly and promptly as possible so that the public can benefit from FDA's work of ensuring that foods are safe, wholesome, sanitary, and properly labeled and that cosmetics are safe and properly labeled. In keeping with this commitment, and in accordance with OMB requirements, the FDA has developed draft [Information Quality Guidelines](http://www.hhs.gov/infoquality/fda.html) for public review and comment. 
+FDA/CFSAN is dedicated to ensuring that all data it disseminates reflect a level of quality commensurate with the nature and timeliness of the information. Futher, FDA seeks to disseminate all its data as broadly and promptly as possible so that the public can benefit from FDA's work of ensuring that foods are safe, wholesome, sanitary, and properly labeled and that cosmetics are safe and properly labeled. In keeping with this commitment, and in accordance with OMB requirements, the FDA has developed draft [Information Quality Guidelines](http://www.hhs.gov/infoquality/fda.html) for public review and comment.
 
 ## US Government Computer
 
-This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court. 
+This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court.
 
 **Intrusion Detection**
 
-For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual. 
+For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
 
 [Comments or Questions](http://www.cfsan.fda.gov/~dms/qa-top.html)  
-Privacy Policies for [FDA](http://www.fda.gov/privacy.html) and [HHS](http://www.hhs.gov/siteinfo/privacy.html)  
-CFSAN is a part of the Food and Drug Administration (FDA) and of the Department of Health and Human Services (HHS).  
-
+Privacy Policies for [FDA](http://www.fda.gov/privacy.html) and [HHS](http://www.hhs.gov/Privacy.html)  
+CFSAN is a part of the Food and Drug Administration (FDA) and of the Department of Health and Human Services (HHS).
 
 * * *
 
 CFSAN Privacy Policy Statement originally posted by LRD on 1998-FEB-26   
-Updated 2002-MAY-16  
-
+Updated 2002-MAY-16
 
 * * *
-
-[Foods Home](http://www.cfsan.fda.gov/list.html)   |   [FDA Home](http://www.fda.gov/)   |   [HHS Home](http://www.hhs.gov/)   |   [Search/Subject Index](http://www.cfsan.fda.gov/~dms/wsearch.html)   |   [Accessibility/Help](http://www.cfsan.fda.gov/~dms/help.html)
