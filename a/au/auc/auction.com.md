@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the auction.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602082214id_/http%3A//www.auction.com/modules/browse.asp%3Faction%3Dshowtemplate%26template%3Dprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auction.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208041155id_/http%3A//www.auction.com/modules/browse.asp%3Faction%3Dshowtemplate%26template%3Dprivacy.htm) for the most accurate reproduction.*
 
 # Auction.com - Everyone's Internet Marketplace
 
