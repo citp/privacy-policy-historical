@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604064815id_/http%3A//www.4arabs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4arabs.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204123701id_/http%3A//4arabs.com/privacy.html) for the most accurate reproduction.*
 
 # Arabic Sites and Links
 
@@ -14,10 +14,6 @@ Our site contains links to other sites. 4Arabs Internet Sites is not responsible
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
 
-#### Flycast Network
-
-4Arabs Internet Sites works with a third party that serves ads to this site. to find out more how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>
-
 #### Public Forums
 
 We make forums, and message boards available to our users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
@@ -28,7 +24,7 @@ We provide users the opportunity to opt-out of receiving communications from us 
 
 We give users the following option for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. visit [http://www.4arabs.com/search/subscribe.cgi ](http://www.4arabs.com/search/subscribe.cgi)
+  1. visit [http://www.4arabs.com/cgi-bin/search/subscribe.cgi ](http://www.4arabs.com/cgi-bin/search/subscribe.cgi)
 
 
 
@@ -36,7 +32,7 @@ We give users the following option for removing their information from our datab
 
 We give users the following option for changing and modifying information previously provided. 
 
-  1. visit [http://www.4arabs.com/search/modify.cgi ](http://www.4arabs.com/search/modify.cgi)
+  1. visit [http://www.4arabs.com/cgi-bin/search/modify.cgi ](http://www.4arabs.com/cgi-bin/search/modify.cgi)
 
 
 
