@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handmark.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209111552id_/http%3A//www.handmark.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handmark.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606141907id_/http%3A//www.handmark.com/company/privacy.php) for the most accurate reproduction.*
 
 # Handmark Software: Privacy Notice
 
