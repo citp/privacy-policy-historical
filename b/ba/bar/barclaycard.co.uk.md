@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602002824id_/http%3A//www.barclaycard.co.uk/About_Us/TandC/privacy_policy.html%3Fprevious_page_id%3D1%26link_type%3DFTR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaycard.co.uk privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202015223id_/http%3A//www.barclaycard.co.uk/About_Us/TandC/privacy_policy.html%3Fprevious_page_id%3D1%26link_type%3DFTR) for the most accurate reproduction.*
 
 # Barclaycard: Privacy Policy
 
@@ -11,9 +11,7 @@ We collect personal and financial information which we obtain from you or from a
 
 We will also collect information about you when you register to use the services provided on this Site or when you contact us. We may also collect information through the use of cookies. 
 
-## 
-
-A cookie is a piece of information stored on your computer's hard drive by your web browser. Cookies can store information about your preferences and other information that you need when you visit a site. We can also use cookies to show us how you are using our Site. We believe cookies help you to use the Site. However, if your browser allows you to, you may switch them off. If you choose not to accept cookies, you will be unable to use the account servicing section of the Site. 
+For more information on what cookies are, and how to change your cookie settings, [please click here](https://web.archive.org/About_Us/TandC/Privacy_Policy/Cookies/). 
 
 ## 
 
