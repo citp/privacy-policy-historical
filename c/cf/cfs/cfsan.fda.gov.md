@@ -1,16 +1,11 @@
-> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604122218id_/http%3A//www.cfsan.fda.gov/required.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218020813id_/http%3A//www.cfsan.fda.gov/required.html) for the most accurate reproduction.*
 
 # REQUIRED NOTICES
 
-  
+[ Skip Navigation.](http://www.cfsan.fda.gov/required.html#main)   
 
 
-#### U. S. Food and Drug Administration  
-Center for Food Safety and Applied Nutrition  
-
-
-  
-
+[ ](http://www.cfsan.fda.gov/list.html) **C** enter for **F** ood **S** afety & **A** pplied **N** utrition
 
 > Thank you for visiting the FDA/CFSAN web site and for reviewing our Privacy Policy. Please note that: 
 >
@@ -78,7 +73,7 @@ This site is maintained by the U.S. Government. It is protected by various provi
 
 For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual. 
 
-[Comments or Questions](http://vm.cfsan.fda.gov/~dms/qa-top.html)  
+[Comments or Questions](http://www.cfsan.fda.gov/~dms/qa-top.html)  
 Privacy Policies for [FDA](http://www.fda.gov/privacy.html) and [HHS](http://www.hhs.gov/siteinfo/privacy.html)  
 CFSAN is a part of the Food and Drug Administration (FDA) and of the Department of Health and Human Services (HHS).  
 
@@ -86,9 +81,9 @@ CFSAN is a part of the Food and Drug Administration (FDA) and of the Department 
 * * *
 
 CFSAN Privacy Policy Statement originally posted by LRD on 1998-FEB-26   
-Updated 2001-JAN-25  
+Updated 2001-OCT-10  
 
 
 * * *
 
-[Foods Home](http://vm.cfsan.fda.gov/list.html)   |   [FDA Home](http://www.fda.gov/)   |   [HHS Home](http://www.hhs.gov/)   |   [Search/Subject Index](http://vm.cfsan.fda.gov/~dms/wsearch.html)
+[Foods Home](http://www.cfsan.fda.gov/list.html)   |   [FDA Home](http://www.fda.gov/)   |   [HHS Home](http://www.hhs.gov/)   |   [Search/Subject Index](http://www.cfsan.fda.gov/~dms/wsearch.html)   |   [Accessibility/Help](http://www.cfsan.fda.gov/~dms/help.html)
