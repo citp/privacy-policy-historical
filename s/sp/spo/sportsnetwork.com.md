@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsnetwork.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815082630id_/http%3A//www.sportsnetwork.com/sports/misc/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsnetwork.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201213714id_/http%3A//www.sportsnetwork.com/sports/misc/privacy_policy.htm) for the most accurate reproduction.*
 
-# About The Sports Network's Privacy Policy
+# The Sports Network - Privacy Policy
 
 **SportsNetwork.com Privacy Policy**
 
@@ -28,6 +28,4 @@ The Internet is a fast-paced, quickly-changing environment. It is critical that 
 
 We invite you to explore what we believe to be the most innovative sports site at [http://www.sportsnetwork.com](http://www.sportsnetwork.com/home.asp). 
 
-For more information contact: Ken Zajac ([kzajac@sportsnetwork.com](mailto:kzajac@sportsnetwork.com?subject=TSN%20Info)) or Rob Dougherty ([rdougherty@sportsnetwork.com](mailto:rdougherty@sportsnetwork.com?subject=TSN%20Info)) * 95 James Way * Suites 107-109 * Southampton, PA 18966 215/942-7890 * Fax: 215/942-7647. 
-
-[sportsnetwork.com](http://www.sportsnetwork.com/home.asp) | [your comments](mailto:comments@sportsnetwork.com?subject=website%20comments)
+For more information contact: Ken Zajac ([kzajac@sportsnetwork.com](mailto:kzajac@sportsnetwork.com?subject=TSN%20Info)) or Rob Dougherty ([rdougherty@sportsnetwork.com](mailto:rdougherty@sportsnetwork.com?subject=TSN%20Info)) * 2200 Byberry Road * Suite 200 * Hatboro, PA 19040 * 215.441.8444 * Fax: 215.441.5767. 
