@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603224512id_/http%3A//www.agl.com.au/AGL/Global/Privacy%2BStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agl.com.au privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204115120id_/http%3A//www.agl.com.au/AGL/Global/Privacy%2BStatement.htm) for the most accurate reproduction.*
 
 # AGL - Privacy Statement
 
@@ -12,7 +12,7 @@
 
 
 
-The Australian Gas Light Company ABN 95 052 167 405 ("AGL", including Agility and all of AGL's related companies other than dingo blue Pty Limited ABN 26 086 565 862 which has a separate Privacy Statement) respects and is committed to protect the privacy of our customers, shareholders and other people who we deal with in our business. We are bound by the [National Privacy Principles](http://www.privacy.gov.au/publications/npps01.html) in the Privacy Act 1988. This Privacy Statement outlines how and when personal information is typically collected, stored and distributed by AGL and how we provide for verification and correction.
+The Australian Gas Light Company ABN 95 052 167 405 ('AGL', including Agility and all of AGL's related companies) respects and is committed to protect the privacy of our customers, shareholders and other people who we deal with in our business. We are bound by the [National Privacy Principles](http://www.privacy.gov.au/publications/npps01.html) in the Privacy Act 1988. This Privacy Statement outlines how and when personal information is typically collected, stored and distributed by AGL and how we provide for verification and correction.
 
 If you are an AGL customer we will have personal information about you for the primary purpose of supplying you with energy and related services. This will include your name, addresses and phone numbers. We have secure systems to keep this information. We collect certain information to help identify you and to assist in keeping your information secure. We may obtain banking, credit card, email or other details as part of making business with us easier for you. We may also collect information to allow us to qualify you for benefits such as a pension number to ensure eligibility for a pensioner discount. If there are special reasons like the Victorian Government sponsored program regarding life support electricity supply, we may with your prior express consent, collect sensitive information such as information about a medical condition. Without contact details we cannot provide services to you. 
 
@@ -32,7 +32,7 @@ _AGL aims to provide our customers with a full range of options to meet their en
 
 If you have any queries on how we deal with your personal information or you want to inspect our records of your personal information see Access and correction below.
 
-If you are an AGL shareholder (or Proprietor as AGL's Constitution describes you) we will have personal information about you to help us meet your needs as a shareholder. This could include your name, address, phone number and banking details. This information may be supplied by AGL to you, your stockbroker or some other agent acting on your behalf. AGL has secure systems operated by us to keep this information.
+If you are an AGL shareholder we will have personal information about you to help us meet your needs as a shareholder. This could include your name, address, phone number and banking details. This information may be supplied by AGL to your stockbroker or some other agent acting on your behalf. AGL has secure systems operated by us to keep this information.
 
 If in accordance with Australian tax laws, you choose to supply your Tax File Number (TFN), we give the relevant advice to the Australian Taxation Office (ATO). We may also provide dividend information to the ATO. AGL maintains TFNs in a secure area on the share register.
 
@@ -42,7 +42,7 @@ Under Section 173 of Corporation's Act 2001, AGL must allow inspection of the Co
 
 We may disclose your personal information to your stockbroker, accountant, a family member or other person who reasonably identifies themselves as authorised. We will generally seek some indication that the party contacting us is you or an authorised agent. If you cease to be a shareholder your records are kept securely by us.
 
-If you have any queries on how we deal with your personal information contact the AGL Share Registry on  **02 9922 8259**. If you want to review the personal information we have on you as a shareholder contact the contact us as described in Access and correction below.
+If you have any queries on how we deal with your personal information contact the AGL Share Registry on  **02 9922 8259**. If you want to review the personal information we have on you as a shareholder contact us as described in Access and correction below.
 
 If you provide personal information to us via our web sites it will be treated with the same attention to your privacy as other forms of communication. AGL's web sites do not provide systems for secure transmission across the internet, except where indicated. Users should be aware that there are inherent risks in transmitting information across the internet.
 
@@ -94,12 +94,10 @@ E-mail: [customer.enquiries@agl.com.au](mailto:customer.enquiries@agl.com.au)
 
 If your enquiry is detailed or covers a number of areas of our business we may ask you to complete an Information Request Form which will assist us to fully respond to your enquiry. For your protection you will be asked to provide information that helps us confirm your identity.
 
-  2. A basic enquiry about your customer details or shareholder information will be at no cost. However, where your enquiry involves a more extensive search of our records a fee may be payable to cover our costs in collating information and arranging access.  
- 
+  2. A basic enquiry about your customer details or shareholder information will be at no cost. However, where your enquiry involves a more extensive search of our records a fee may be payable to cover our costs in collating information and arranging access. 
   3. In many cases we will deal with your enquiry on the telephone. If it is more involved, we will aim to provide you with access to the information within 15 working days. If your enquiry requires additional searching this time may be extended.  
 
-  4. If we have information which you want to inspect in person, we will normally provide you with access at a location as convenient as possible to you. To inspect the information we will require you to  show photo identification, such as a driver's licence. This is for your security.  
-
+  4. If we have information which you want to inspect in person, we will normally provide you with access at a location as convenient as possible to you. To inspect the information we will require you to  show photo identification, such as a driver's licence. This is for your security.
   5. We will consider any recommendation by you to change or correct information and advise you of the action taken.
 
 
