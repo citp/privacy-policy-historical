@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the onlineinvestmentbank.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603065024id_/http%3A//virtualology.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineinvestmentbank.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203030543id_/http%3A//virtualology.com/privacy) for the most accurate reproduction.*
 
 # Virtualology Privacy Policy
-
-**The President's House in Philadelphia  
-Needs your _Autograph_ _!_   \-- [Click Here](http://www.ushistory.org/presidentshouse/)**
 
   
   
