@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interbike.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623082507id_/http%3A//www.vnuemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interbike.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208033829id_/http%3A//www.vnuemedia.com/privacy.html) for the most accurate reproduction.*
 
 # VNU eMedia Inc.
 
