@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criticalhit.net privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603022243id_/http%3A//www.criticalhit.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticalhit.net privacy policy that was archived on 2002-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020905043811id_/http%3A//www.criticalhit.net/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for Critical Hit
 
