@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605200656id_/http%3A//www.ellisisland.org/EIinfo/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208131124id_/http%3A//www.ellisisland.org/EIinfo/privacy.asp) for the most accurate reproduction.*
 
-# American Family Immigration History Center
+# Ellis Island Passenger Arrivals : American Family Immigration History Center
 
 |  |   
   
