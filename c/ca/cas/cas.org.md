@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cas.org privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207043438id_/http%3A//www.cas.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cas.org privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402025114id_/http%3A//www.cas.org/privacy.html) for the most accurate reproduction.*
 
 # CAS Privacy Statement
 
@@ -76,4 +76,4 @@ P.O. Box 3012
 Columbus, Ohio 43210-0012  
 [webmaster@cas.org](mailto:webmaster@cas.org)  
   
-Copyright ©2000 American Chemical Society All Rights Reserved.
+Copyright ©2004 American Chemical Society All Rights Reserved.
