@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovetest.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204081755id_/http%3A//www1.lovetest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovetest.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622101714id_/http%3A//www.lovetest.com/privacy.html) for the most accurate reproduction.*
 
 # Free Love Test - Privacy Statement
 
@@ -37,7 +37,7 @@
 > This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 > 
 >   1. You can send email to [unsubscribe@lovetest.com](mailto:unsubscribe@lovetest.com)
->   2. You can visit the following URL: [http://www.lovetest.com/newsletter.html](https://web.archive.org/web/20021204081755id_/http%3A//www1.lovetest.com/newsletter.html)
+>   2. You can visit the following URL: [http://www.lovetest.com/newsletter.html](https://web.archive.org/web/20030622101714id_/http%3A//www.lovetest.com/newsletter.html)
 >   3. You can send mail to the following postal address:  Euregio.Net AG, Wirtzfeld 140, 4760 Büllingen, Belgium 
 > 
 
@@ -46,7 +46,7 @@
 > 
 > This site gives users the following options for changing and modifying information previously provided. 
 > 
->   1. email [administrator@lovetest.com](mailto:administrator@lovetest.com)
+>   1. email [webmaster@lovetest.com](mailto:webmaster@lovetest.com)
 >   2. send mail to the following postal address:  Euregio.Net AG, Wirtzfeld 140, 4760 Büllingen, Belgium 
 > 
 
