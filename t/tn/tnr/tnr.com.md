@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619092331id_/http%3A//tnr.com/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnr.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208034808id_/http%3A//www.tnr.com/privacy.mhtml) for the most accurate reproduction.*
 
 # The New Republic Online: Privacy Policy
 
