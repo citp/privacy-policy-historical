@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2003-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030930175015id_/http%3A//gunbroker.com/user/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunbroker.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607201943id_/http%3A//www.gunbroker.com/user/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # GunBroker.com Privacy Policy
 
