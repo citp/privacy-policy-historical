@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the streetdirectory.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413010423id_/http%3A//www.streetdirectory.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetdirectory.com privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815033946id_/http%3A//www.streetdirectory.com/mapprivacy.cgi%3Ffile%3Dprivacypolicy.htm) for the most accurate reproduction.*
 
-# Streetdirectory
+# Streetdirectory.com
 
 **Virtual Map and its site Streetdirectory.com** pledge to protect their customers’ and users’ privacy online.  This page explains the policy.  The policy may be updated periodically.  You can contact [webmaster@virtual-map.com](mailto:webmaster@virtual-map.com) for more information as necessary. 
 
