@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the conforums.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207192618id_/http%3A//www.conforums.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conforums.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608220458id_/http%3A//www.conforums.com/privacy.html) for the most accurate reproduction.*
 
 # Conforums.com - Features
 
-Conforums has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Conforums](https://web.archive.org/web/20021207192618id_/http%3A//www.conforums.com/index.html).
+Conforums has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Conforums](https://web.archive.org/web/20030608220458id_/http%3A//www.conforums.com/index.html).
 
 **Server Logged Information**  
 Whenever a user views a page located on Conforums.com, the [Apache](http://www.apache.org/) Web server automatically logs certain information about the visitor. This information includes the user's IP address, browser, and where the user came from. This is standard information collected by most Web servers.
