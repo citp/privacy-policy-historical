@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shef.ac.uk privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003075554id_/http%3A//www.shef.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shef.ac.uk privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608030903id_/http%3A//www2.shef.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -38,10 +38,9 @@ These security measures include the necessary protection to prevent, as far as p
   
 Access to information 
 
-You have the right to request a copy of the personal information The University of Sheffield holds about you and to have any inaccuracies corrected. (We charge 10 for information requests). Upon such a request we will provide you with access to all the information we maintain about you subject to the conditions of the Data Protection Act 1998. Please request this service by writing to us at the address below.   
+You have the right to request a copy of the personal information The University of Sheffield holds about you and to have any inaccuracies corrected. (We charge £10 for information requests). Upon such a request we will provide you with access to all the information we maintain about you subject to the conditions of the Data Protection Act 1998. Please request this service by writing to us at the address below.   
   
 Feedback 
 
-If you feel this site is not following its stated information policy, you may contact us at a.cutler@shef.ac.uk or write to John Hawley, Corporate Information & Computing Services  
-285 Glossop Road, Sheffield, S10 2HB.   
-
+If you feel this site is not following its stated information policy, you may contact us at [a.cutler@shef.ac.uk](mailto:a.cutler@shef.ac.uk) or write to John Hawley, Corporate Information & Computing Services  
+285 Glossop Road, Sheffield, S10 2HB. 
