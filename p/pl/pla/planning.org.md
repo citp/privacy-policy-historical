@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planning.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622061427id_/http%3A//www.planning.org/aboutapa/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planning.org privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609060414id_/http%3A//www.planning.org/aboutapa/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
