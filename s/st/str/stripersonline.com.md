@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206222000id_/http%3A//www.stripersonline.com/Pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripersonline.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602052241id_/http%3A//www.stripersonline.com/Pages/privacy.shtml) for the most accurate reproduction.*
 
 # StripersOnline - Privacy Promise
-
-  
-[](https://web.archive.org/cart/shop.cgi/page=index.html/SID=PUT_SID_HERE)
 
 * * *
 
@@ -29,7 +26,7 @@
 >  Phone number   
 >  Credit/Debit Card Information 
 > 
-> SurfTalk, the message board on StripersOnline uses cookies **only** to store your preferences, login, and password. No information is collected, tracked, or shared from those cookies. No other portion of this web site, as of today, uses cookies in any fashion. Our online shopping cart does not take, store, or utilize and information from cookies. It requires extra effort on this end to use, but for your peace of mind and security shopping, we chose to use this cookie-less shopping cart. If in the future we are to change or add any software that utilizes cookies that it stores on your computer, you will be notified here of those changes and they will be explained in the greatest detail possible. We take your comfort and security while visiting our website to be an extremely serious matter and will make every effort to keep you fully informed of every change.
+> SurfTalk, the message board on StripersOnline uses cookies **only** to store your preferences, login, and password. No information is collected, tracked, or shared from those cookies. No other portion of this web site, as of today, uses cookies in any fashion. Our online shopping cart does not take, store, or utilize any information from cookies. It requires extra effort on this end to use, but for your peace of mind and security shopping, we chose to use this cookie-less shopping cart. If in the future we are to change or add any software that utilizes cookies that it stores on your computer, you will be notified here of those changes and they will be explained in the greatest detail possible. We take your comfort and security while visiting our website to be an extremely serious matter and will make every effort to keep you fully informed of every change.
 
 **The Way We Use Information:  **
 
@@ -63,9 +60,5 @@
 
 >   Should you have other questions or concerns about these privacy policies, please call us at **(732) 681-3962** between 9am and 8pm or send us an email at **[webmaster@stripersonline.com](mailto:webmaster@stripersonline.com) **
 
-[**SOL Tackle Shop**](https://web.archive.org/cart/shop.cgi/page=index.html/SID=PUT_SID_HERE) | [**Fishing Reports**](https://web.archive.org/web/20001206222000id_/http%3A//www.stripersonline.com/forms/reports_2000.htm) | [**Photo Pages**](https://web.archive.org/web/20001206222000id_/http%3A//www.stripersonline.com/Pages/photo_pages/index.htm) | [**Guest Book**](http://www.stripersonline.com/forms/guest_book.htm) | [**Tides**](https://web.archive.org/web/20001206222000id_/http%3A//www.stripersonline.com/Pages/tides_monthly.htm) | [**Archives**](https://web.archive.org/web/20001206222000id_/http%3A//www.stripersonline.com/Pages/archives/index.html) | [**e-Surf Auction**](http://www.stripersonline.com/cgi-bin/auction.pl) | [**Calendar**](http://www.stripersonline.com/cgi-bin/framecal/cal.html)  
----|---|---|---|---|---|---|---  
-  
-Copyright © **[Tim Surgent](mailto:TimS@StripersOnline.com)** **** and [**StripersOnline**](http://www.stripersonline.com/) 1999,2000. All rights reserved.  
-This page was last updated on August 30, 2000.   
-We take your privacy very seriously, see our [**Privacy Notice**](https://web.archive.org/web/20001206222000id_/http%3A//www.stripersonline.com/Pages/privacy.htm) for details. 
+[**SOL Tackle Shop**](http://www.stripersonline.net/cart/shop.cgi/page=index.html/SID=PUT_SID_HERE) | [**Fishing Reports**](http://www.stripersonline.net/forms/reports_2000.htm) | [**Photo Pages**](https://web.archive.org/Pages/photo_pages/) | [**Articles**](https://web.archive.org/Pages/Articles/) | [**Tides**](https://web.archive.org/Pages/tides_monthly.shtml) | [**Archives**](https://web.archive.org/Pages/archives/) | [**e-Surf Auction**](http://www.stripersonline.com/cgi-bin/ubb_547C/auction.pl) | [**Guest Book**](http://www.stripersonline.net/forms/guest_book.htm)  
+---|---|---|---|---|---|---|---
