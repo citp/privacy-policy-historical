@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esmarttax.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618233543id_/http%3A//www2.esmarttax.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esmarttax.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202195952id_/http%3A//www.esmarttax.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Tax forms for Microsoft Word that compute taxes and do e-File, electronic tax filing
 
