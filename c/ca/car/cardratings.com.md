@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331022132id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607153725id_/http%3A//cardratings.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# 
 
-**CardRatings.org - U.S. Citizens for Fair Credit Card Terms** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ CardRatings.org - U.S. Citizens for Fair Credit Card Terms ](http://www.cardratings.org/)
+**CardRatings.com - U.S. Citizens for Fair Credit Card Terms, Inc.** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ CardRatings.com - U.S. Citizens for Fair Credit Card Terms, Inc. ](http://www.cardratings.org/)
 
 ####  Information Automatically Logged 
 
@@ -32,11 +32,11 @@ Contact information from the contests is used to get in touch with the consumer 
 
 ####  External Links 
 
-This site contains links to other sites. **CardRatings.org - U.S. Citizens for Fair Credit Card Terms** is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. **CardRatings.com - U.S. Citizens for Fair Credit Card Terms, Inc.** is not responsible for the privacy practices or the content of such Web sites. 
 
 ####  Special Relationships 
 
-The cardholders card review section of our site is hosted on servers administered by CreditCardFreedom.com. Therefore, contact information that is volunteered in the cardholder card reviews section is also subject to the privacy policies of CreditCardFreedom.com. 
+The cardholders card review section of our site is hosted on servers administered by CreditCardFreedom.com. Therefore, contact information that is volunteered in the cardholder card reviews section is also subject to the privacy policies of CreditCardFreedom.com. Anonymous reviews are welcome. 
 
 ####  Public Forums 
 
@@ -46,25 +46,13 @@ This site offers features a message board. Please remember that any information 
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
 
-####  Choice/Opt-Out 
-
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us . 
-
-  1. You can visit the following URL: [ http://creditcardtips.listbot.com ](http://creditcardtips.listbot.com/)
-
-
-
-####  Data Quality/Access 
-
-This site gives users the following options for changing and modifying information previously provided: 
-
-  1. You can visit the following URL: [ http://creditcardtips.listbot.com ](http://creditcardtips.listbot.com/)
-
-
-
 ##  Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[ feedback@cardratings.org ](mailto:feedback@cardratings.org)
+[ privacy@cardratings.com ](mailto:privacy@cardratings.com)
+
+* * *
+
+Updated on 9/05/01 by [Privacy Wizard](http://privacy.linkexchange.com/)
