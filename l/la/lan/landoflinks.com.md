@@ -1,30 +1,26 @@
-> *The following text is extracted and transformed from the landoflinks.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206150900id_/http%3A//www.landoflinks.com/docs/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landoflinks.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413091805id_/http%3A//www.landoflinks.com/docs/info/privacy.html) for the most accurate reproduction.*
 
-# Land of Links: Privacy Statement
+# Land of Links: Privacy Policy
 
-### Land of Link's Privacy Statement
+  | 
 
-Land of Links values the privacy of our users. The following policies are in effect  
-for all of our Web pages: 
+** [Home](http://www.landoflinks.com/index.html) : Privacy Policy **
 
-**Submitting a Site**  
-When a web page is submitted to Land of Links, contact information from the site  
-is collected including email addresses. This information is used only to notify  
-the point of contact that their site was successfully added to our database. They  
-are also notified when they modify their site listing in our database. We do not  
-make their e-mail addresses available to any organizations. 
+  
 
-**Cookies**  
-Cookies are not used at Land of Links, but advertisers may if you click through  
-from their banners here. 
 
-**Links**  
-This web site contains links to other sites. Please be aware that we are not  
-responsible for the privacy practices of such other sites. We encourage our  
-users to be aware when they leave our site and to read the privacy statements  
-of each and every web site that collects personally identifiable information.  
-This privacy statement applies solely to information collected by this Web  
-site. 
+### Privacy Policy for LandofLinks.com
 
-If you have any questions or concerns about this privacy policy please contact  
-us at [contact@landoflinks.com](mailto:contact@landoflinks.com)
+LandofLinks.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: **Information Automatically Logged** We use your IP address to help diagnose problems with our server, to administer our Web site, and to produce statistical visitor data reports. 
+
+**E-mails Automatically Sent**
+
+When a web page is submitted to LandofLinks.com, contact information from the site is collected including email addresses. This information is used only to notify the point of contact that their site was successfully added to our database. They are also notified when they modify their site listing in our database. We do not make their e-mail addresses available to any organizations. 
+
+**Advertisers** We use a variety of outside ad companys to display ads on our site. These ads may contain cookies. While we do not use cookies in any part of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information.  **External Links** This site contains links to other sites. LandofLinks.com is not responsible for the privacy practices or the content of such Web sites.  **Public Forums** LandofLinks.com makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  **Contacting LandofLinks.com** If you have any questions about this privacy statement, the practices of LandofLinks.com, or your dealings with LandofLinks.com, you can contact: 
+
+[Privacy@landoflinks.com](mailto:privacy@landoflinks.com)
+
+|     
+  
+Copyright © 2000-2001 TDE Web Services.  All rights reserved. 
