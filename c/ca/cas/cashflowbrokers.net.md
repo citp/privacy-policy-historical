@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashflowbrokers.net privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203012430id_/http%3A//corporation.americancashflow.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashflowbrokers.net privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604211223id_/http%3A//corporation.americancashflow.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # American Cash Flow Corporation - Privacy Policy
 
@@ -14,7 +14,7 @@
 [Contact Us](http://corporation.americancashflow.com/Contact_Us.aspx)  
 Visit our  
 member sites[  
-Click Here](http://www.americancashflow.com/accessfs)  
+Click Here](http://www.americancashflow.com/oceanic)  
 |   
 ---  
 | 
