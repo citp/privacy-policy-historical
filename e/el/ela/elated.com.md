@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610044905id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elated.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206102456id_/http%3A//www.elated.com/privacy) for the most accurate reproduction.*
 
 # ELATED.com Privacy Statement
 
@@ -17,6 +17,10 @@ Our site uses an order form for customers to request information and services. W
 ### Public Forums
 
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+
+### Choice / Opt-Out ("ELATED Extra" Newsletter)
+
+Users can sign up for the **ELATED Extra** Newsletter using their email address. The user can unsubscribe from this mailing list at any time by following the **Unsubscribe** link at the bottom of each newsletter email. Unsubscribe requests are honoured within 24 hours of receipt.
 
 ### Choice / Opt-Out (Webmaster Forums)
 
@@ -42,8 +46,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 The Webmaster  
 Elated Communications Ltd  
-65 Liverpool Road  
-Reading  
-RG1 3PN  
+212 Freshfield Road  
+Brighton  
+BN2 9YD  
 United Kingdom  
 webmaster@elated.com
