@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201173900id_/http%3A//www.discoveryeurope.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604125244id_/http%3A//www.discoveryeurope.com/policy.html) for the most accurate reproduction.*
 
 # Discoveryeurope.com | Policy
 
