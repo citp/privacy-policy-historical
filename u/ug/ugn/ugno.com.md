@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ugno.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206170710id_/http%3A//ugno.com/info_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugno.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204092011id_/http%3A//www.ugno.com/info_privacy.php) for the most accurate reproduction.*
 
 # ugno
 
-[Home](https://web.archive.org/web/20041206170710id_/http%3A//ugno.com/index.php) : Privacy
+[Home](https://web.archive.org/web/20050204092011id_/http%3A//www.ugno.com/index.php) : Privacy
 
   
 1\. All information collected as a result of your membership in ugno will be controlled by ugno. ugno may transfer and share your information within the ugno group of international affiliated entities ("ugno Group") as part of a transfer of your membership agreement. We will do this to improve the administration of the services. At all times the companies that make up the ugno Group ("We") will follow this privacy policy.
