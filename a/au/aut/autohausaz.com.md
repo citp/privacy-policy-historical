@@ -1,28 +1,42 @@
-> *The following text is extracted and transformed from the autohausaz.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620161735id_/http%3A//www.autohausaz.com/html/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autohausaz.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205150200id_/http%3A//www.autohausaz.com/html/privacystatement.html) for the most accurate reproduction.*
 
-# Autohaus values your trust & respects your privacy!
+# Auto Parts Shopping Where Your Security and Privacy are Guaranteed
 
-This Privacy Statement details our firm commitment to the privacy and security of our valued website visitors:
+You, our valued [Winners Circle Member](http://www.autohausaz.com/html/winners.html), can rest assured that  
+Autohaus is firmly committed to protecting the  
+privacy and security of all your communications with us.  
+Here's our commitment to you:
 
- **Registration & Parts Request Forms: ** Our [Winners Circle](http://www.autohausaz.com/html/register.html) registration and [Free Parts Request](http://www.autohausaz.com/html/freequote.html) forms ask you to for contact information (like your name, email, phone, and address), as well as basic information on your import car.
+**Registration & Parts Request Forms: ** Our [Winners Circle](http://www.autohausaz.com/html/register.cfm) registration and [Free Parts Request](http://www.autohausaz.com/html/freequote.html) forms ask you to for contact information (like your name, email, phone, & address), as well as basic information on your import car.
 
-Contact information from these forms is used to respond to your requests and get in touch with you when necessary.  Vehicle information is used to locate the correct part numbers for the parts being requested.
+Contact information from these forms is used to respond to your requests and get in touch with you when necessary.  Car information is used to locate the correct part numbers for the parts being requested.
 
- **Order Forms:   **Our site uses a secure [Order Form](https://www.autohausaz.com/secure/orderpage.html) for you to request the auto parts you wish to purchase.  We collect contact information (like your email address, phone, and shipping address) and financial information (like your credit card data).
+ **Order Form:   **Our site provides you with a 
 
-Contact information from these forms is used to ship your order out and to get in touch with you when necessary.  Financial information is used to bill you for the auto parts ordered.
+[Secure Order Form](https://www.autohausaz.com/secure/orderpage.html) to order your import auto parts.  Contact information (like your email address, phone, & shipping address) and credit card information is used only for the purpose of processing and shipping your import auto parts to you.
 
- **External Links:** This site contains links to other sites.  Autohaus AZ is not responsible for the privacy practices or the content of such websites.
+ **External Links:**   This site contains links to other sites.  Autohaus AZ is not responsible for the privacy practices or the content of such websites.
 
- **Opt-In/Opt-Out: ** Our site provides you with the opportunity to opt-in or opt-out of receiving the Winners Circle Hot Updates newsletter.  You are given the choice to opt-in or opt-out at any time.  To subscribe/unsubscribe you may: 
+ **Opt-In/Opt-Out:** Our site provides you with the opportunity to opt-in or opt-out of receiving the Winners Circle Hot Updates newsletter.  You are given the choice to opt-in or opt-out at any time. To do so, just log into the 
 
-1.  Send us a request via email at:  [membersonly@autohausaz.com](mailto:membersonly@autohausaz.com) with Subscribe or  
-     Unsubscribe in the subject area.  
-2.   Write us at 3402 East Atlanta, Phoenix, AZ 85040  
-3.   Call us at (800) 240-4620
+[Members Only](http://www.autohausaz.com/membersonly/) area, select "Update Personal Data" from the [Members Only Menu](http://www.autohausaz.com/membersonly/), go to the last question on this form, and click on Yes or No (as appropriate).
 
-We have a deep respect for your privacy.  We do not provide any personal identifying information, regardless of its source, to any third party for any purpose whatsoever. 
+Your privacy is  
+highly respected & carefully safeguarded at Autohaus AZ.  
+We do not provide any personal identifying information,  
+regardless of its source, to any third party for any purpose.
 
-Any information that you provide for the purposes of registering for the [ Winners Circle](http://www.autohausaz.com/html/winners.html), requesting a [Free Parts Quote ](http://www.autohausaz.com/html/freequote.html), or placing an [Order](https://www.autohausaz.com/secure/orderpage.html) is used only to improve our service to you, our valued customer.
+Any information you provide for the purposes of  
+registering as a member of the 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, please feel free to contact the [Webmaster](mailto:webmaster@autohausaz.com).
+[Winners Circle](http://www.autohausaz.com/html/winners.html),  
+requesting a [Free Parts Quote](http://www.autohausaz.com/html/freequote.html) or placing a [Secure Order](https://www.autohausaz.com/secure/orderpage.html)  
+is used only to improve our service to you.
+
+If you have any questions or concerns about this  
+Privacy Policy or any of your dealings with Autohaus AZ,  
+please contact our 
+
+[Webmaster](mailto:webmaster@autohausaz.com).
+
+**[Return to Secure Order Form](https://www.autohausaz.com/secure/orderpage.html)**
