@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chiff.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203200523id_/http%3A//www.chiff.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiff.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212713id_/http%3A//www.chiff.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for chiff.com Internet Directory
 
-**Privacy Policy **
+Privacy Policy
 
 A Guide to What Personal Information We Collect  
 and How We Use and Protect Your Information
