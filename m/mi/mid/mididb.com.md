@@ -1,33 +1,39 @@
-> *The following text is extracted and transformed from the mididb.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201025149id_/http%3A//www.ifni.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mididb.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603161007id_/http%3A//www.ifni.com/privacy) for the most accurate reproduction.*
 
 # Ifni Music Privacy Policy
 
- Site Map  
- [Today's Hits](http://ifni.mididb.com/hits/)  
- [Classic Rock](http://ifni.mididb.com/hits/)  
- [Film Themes](http://ifni.mididb.com/themes/films.php)  
- [TV Themes](http://ifni.mididb.com/themes/tv.php)  
- [Disney Themes](http://ifni.mididb.com/themes/dismusic.php)  
- [Game Themes](http://ifni.mididb.com/themes/games.php)  
- [Holiday Themes](http://ifni.mididb.com/themes/holidays.php)  
- [Top Ten](http://ifni.mididb.com/hot/miditopten.php)  
- [Very Best](http://ifni.mididb.com/hot/verybestmidi.php)  
- [Attila's Punk](http://ifni.mididb.com/attila/)  
- [Angel Grrl's Dance](http://ifni.mididb.com/angelgrrl/)  
- [Country](http://www.countrymidi.com/)  
- [Beatles](http://ifni.mididb.com/beatles/)  
- [Led Zeppelin](http://ifni.mididb.com/ledzep/)  
- [Madonna](http://ifni.mididb.com/madonna/)  
- [Metallica](http://ifni.mididb.com/metallica/)  
- [Nirvana](http://ifni.mididb.com/nirvana/)  
- [Search](http://www.ifni.com/search/)  
- [Top 100](http://www.ifni.com/top100/)  
+  **Site Map:**  
+  [Home](http://www.ifni.com/)  
+  [Hit Songs](http://hits.mididb.com/)  
+  [Classic Rock](http://rock.mididb.com/)  
+  [Rap Music](http://rap.mididb.com/)  
+  [Country Music](http://www.countrymidi.com/)  
+  [Film Themes](http://www.mididb.com/themes_film)  
+  [TV Themes](http://www.mididb.com/themes_tv)  
+  [Disney Themes](http://www.mididb.com/themes_disney)  
+  [Video Games](http://www.mididb.com/themes_games)  
+  [Punk](http://hot.mididb.com/attila)  
+  [Dance/Trance](http://clubkeithx.mididb.com/)  
+  [Christmas Songs](http://www.mididb.com/christmas)  
+  [Nat'l Anthems](http://www.mididb.com/anthems)  
+  [Copyright FAQ](http://www.ifni.com/copyright/)  
+  [Contact Us](http://www.ifni.com/contact/)  
+  [Privacy Policy](http://www.ifni.com/privacy/)  
+  [MIDI Database](http://www.mididb.com/)  
+  [Top 100 MIDI](http://www.ifni.com/top100/)  
+  [MIDI Search](http://www.mididb.com/search/)
 
-
- Partners:  
- [Beatles Gallery](http://www.001pic.com/TheBeatles/)  
- [MIDI Database](http://www.mididb.com/)  
- [Bored](http://www.bored.com/)  
+  **Partners:**  
+  [My Love Casino](http://www.mylovecasino.com/English/click/click.php?kw_userid=keithx)  
+  [Bored.com](http://www.bored.com/)  
+  [Mystiqal Music](http://www.mystiqal.com/)  
+  [MIDI Buddy](http://www.degster.com/midi/board/)  
+  [Free Fun](http://www.ifni.com/fun/)  
+  [Lemonade Stand Game](http://www.lemonadestandgame.com/)  
+  [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/ifnimusic-20)  
+  [Yahbooks Net Guides](http://www.1automationwiz.com/app/aftrack.asp?afid=29714)  
+  [Quality CGI Scripts](http://www.jmbsoft.com/?ref=angelg)  
+  [Pro MIDI Tracks](http://www.elitemidi.com/)  
 
 
 | 
@@ -99,16 +105,21 @@
 > 
 > [Ifni Music](mailto:music@ifni.com)
 
-### [Amazon.com Hot 100 CDs](http://www.amazon.com/exec/obidos/redirect?tag=ifnimusic-20&path=subst/music/charts/hot-100-music.html)
+### More great FREE MIDI at:
 
-More great FREE MIDI at:
+### [Free Music Directory](http://www.freemusicdir.com/cgi-bin/directory/in.cgi?id=mididb)
 
-[Free Music Directory](http://www.angelgrrl.com/cgi-bin/directory/in.cgi?id=ifnimidi)
+### [Top 52 MIDI](http://www.top52.com/cgi-bin/sites/rankem.cgi?id=mididb) | [MIDI Elite](http://www.midielite.com/cgi-bin/top/rankem.cgi?id=mididb) | [Top 219 MIDI](http://www.top219.org/vote.php?midi&140)
 
-[The MIDI Database](http://www.mididb.com/)
+##### Copyright ©1996-2002 by [Ifni Music](http://www.ifni.com/)  
+Last Update 1 June 2002
 
-[Top 52 MIDI](http://www.top52.com/cgi-bin/sites/rankem.cgi?id=ifnimidi) | [Top 69 MIDI](http://johnsworld.com/cgibin/top69/midi/rank.cgi?id=mididb) | [Top 219 MIDI](http://www.top219.org/cgi-bin/vote.cgi?c=midi&id=202)
+|  
 
-  
-[](http://leader.linkexchange.com/34/X196878/clicklogo) |    
+  **Top Sites:**  
+  [Top 52 MIDI](http://www.top52.com/cgi-bin/sites/rankem.cgi?id=mididb)  
+  [Top 69 MIDI](http://degster.com/cgibin/top69/midi/rank.cgi?id=mididb)  
+  [Top 219 MIDI](http://www.top219.org/vote.php?midi&140)  
+  [MIDI Elite](http://www.midielite.com/cgi-bin/top/rankem.cgi?id=mididb)  
+  [Free Music](http://www.freemusicdir.com/cgi-bin/directory/in.cgi?id=mididb)  
 
