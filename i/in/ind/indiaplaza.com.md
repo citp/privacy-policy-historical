@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaplaza.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602195604id_/http%3A//www.indiaplaza.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaplaza.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204164246id_/http%3A//www.indiaplaza.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # IndiaPlaza.com COMPLETE INDIAN SHOPPING
 
