@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601100215id_/http%3A//www.arizonahighways.com/GeneralInfo/privpol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arizonahighways.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204211440id_/http%3A//arizonahighways.com/GeneralInfo/privpol.html) for the most accurate reproduction.*
 
 # Arizona Highways Privacy Policy
 
@@ -7,11 +7,11 @@
 **_Arizona Highways  
 _****Privacy Policy**
 
-This is the web site of _Arizona Highways_ magazine and WitWorks™. We are divisions of the Arizona Department of Transportation, State of Arizona.
+This is the web site of _Arizona Highways_ magazine and WitWorks®. We are divisions of the Arizona Department of Transportation, State of Arizona.
 
 Our postal address is 2039 West Lewis Avenue, Phoenix, AZ 85009. You may contact us by telephone at 602-712-2200, by fax at 602-254-4505, or by e-mail as noted below.
 
-[**customerservice@arizonahighways.com**](mailto:customerservice@arizonahighways.com): subscriptions, questions regarding catalog products, changes of address, customer service and back issue requests.
+[**customerservice@arizonahighways.com**](mailto:customerservice@arizonahighways.com%0d): subscriptions, questions regarding catalog products, changes of address, customer service and back issue requests.
 
 [**webwrangler@arizonahighways.com**](mailto:webwrangler@arizonahighways.com): general comments, questions, or link requests.
 
@@ -28,6 +28,6 @@ We may occasionally use e-mail and postal addresses to notify consumers about up
 
 All online catalog purchase transactions are Secure Socket Layer (SSL) encrypted for your protection. You will be sent e-mail confirming your catalog order. A user name and password will be assigned to you on your order confirmation, which you can retain and use for faster checkout on future catalog orders.
 
-The _Arizona Highways_ magazine and WitWorks™ Web sites include links to other sites whose privacy policies we do not control. Once you leave our server, use of any information you provide is governed by the privacy policy of the site you are visiting.
+The _Arizona Highways_ magazine and WitWorks® Web sites include links to other sites whose privacy policies we do not control. Once you leave our server, use of any information you provide is governed by the privacy policy of the site you are visiting.
 
 | 
