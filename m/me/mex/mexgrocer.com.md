@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201030543id_/http%3A//www.mexgrocer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mexgrocer.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604014449id_/http%3A//www.mexgrocer.com/privacy.asp) for the most accurate reproduction.*
 
 # MexGrocer.com - Online grocery shopping store for mexican food, cooking recipes and culture
 
