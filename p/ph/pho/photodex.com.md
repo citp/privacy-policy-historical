@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the photodex.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607211314id_/http%3A//www.photodex.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photodex.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204171857id_/http%3A//www.photodex.com/company/privacy.html) for the most accurate reproduction.*
 
 # Photodex Corporation - Photodex Privacy Policy
-
-[](http://www.photodex.com/products/)  
-[](http://www.photodex.com/downloads/)  
-[](http://www.photodex.com/purchase/)  
-[](http://www.photodex.com/sharing/)  
-[](http://www.photodex.com/support/)  
-[](http://www.photodex.com/company/)  
-  
-  
-  
-[](http://www.photodex.com/products/)   
-|   | 
 
 Photodex Privacy Policy
 
@@ -24,7 +12,7 @@ These forms are used in several different places:
 
   * Online ordering / product registration 
   * Requesting technical support on a product 
-  * Creating a member account on one of our sites (such as PictureCD.com) 
+  * Creating a member account on one of our sites 
 
 
 
@@ -36,9 +24,9 @@ Creating a member account uses your personal information to validate and protect
 
 Photodex Corporation does not send unsolicited mail. Photodex may occassionally notify you of product updates and releases. 
 
-In situations not related to a specific product, such as creating a member account on PictureCD.com, Photodex provides an option to 'opt-in' to these occasional product notifications. If you do not opt-in, you will not receive e-mail from Photodex aside from account maintenance messages (necessary to create and maintain your account). 
-
 At no time will Photodex make your e-mail address available to a third party. The personal information you provide to Photodex will never be used by an outside company, and will never result in unsolicited (spam) e-mail. 
+
+You may unsubscribe from our mailing list at any time. If you choose to do so, Photodex will no longer send you e-mail notifications of product updates. To unsubscribe, [click here.](http://www.photodex.com/support/unsubscribe.html)
 
 To continue receiving product upgrade notifications after your information changes, simply notify Photodex Corporation of your new information. 
 
@@ -50,20 +38,3 @@ Updates may be sent to:
 >  512.419.7000  
 >  [support@photodex.com](mailto:support@photodex.com)  
 > 
-
-|    
-  
-  
-  | 
-
-Copyright © 2004 Photodex Corporation and its licensors  
-Photodex Corporation reserves the right to refuse service.  
-1.01.0942 
-
-|  | 
-
-[Home](http://www.photodex.com/) |  [Privacy](http://www.photodex.com/company/privacy.html) |  [Legal Notices](http://www.photodex.com/company/legal.html) |  [Contact Us](http://www.photodex.com/company/contact.html)   
-
-
-|    
----|---|---|---|---
