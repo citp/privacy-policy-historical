@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinellascounty.org privacy policy that was archived on 2003-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030803115349id_/http%3A//www.pinellascounty.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinellascounty.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605094721id_/http%3A//pinellascounty.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Security Notice
 
