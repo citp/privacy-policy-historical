@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beseen.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214124154id_/http%3A//aboutus.looksmart.com/corp.jhtml%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beseen.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602003400id_/http%3A//aboutus.looksmart.com/corp.jhtml%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # LookSmart About Us
 
