@@ -1,0 +1,36 @@
+> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207074900id_/http%3A//www.proboards.com/Home-Privacy.html) for the most accurate reproduction.*
+
+# ProBoards.com - Free Customizable Hosted Message Boards!
+
+ [ **Home**](https://web.archive.org/web/20001207074900id_/http%3A//www.proboards.com/index.html)  
+ \- [Sign Up!](https://web.archive.org/web/20001207074900id_/http%3A//www.proboards.com/Home-Sign_Up!.html)  
+ \- [Features](https://web.archive.org/web/20001207074900id_/http%3A//www.proboards.com/Home-Features.html)  
+ \- [Privacy](https://web.archive.org/web/20001207074900id_/http%3A//www.proboards.com/Home-Privacy.html)  
+ \- [Friends](https://web.archive.org/web/20001207074900id_/http%3A//www.proboards.com/Home-Friends.html)  
+ \- [Examples](https://web.archive.org/boards/index.cgi?user=proboards)  
+  
+ [ **Support**](https://web.archive.org/web/20001207074900id_/http%3A//www.proboards.com/Support.html)  
+ \- [FAQ](https://web.archive.org/web/20001207074900id_/http%3A//www.proboards.com/Support-FAQ.html)  
+ \- [Contact Us](https://web.archive.org/web/20001207074900id_/http%3A//www.proboards.com/Support-Contact_Us.html)  
+|  |  **Privacy Policy**
+
+ProBoards has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ProBoards](https://web.archive.org/).
+
+**Server Logged Information**  
+Whenever a user views a page located on ProBoards.com, the [Apache](http://www.apache.org/) Web server automatically logs certain information about the visitor. This information includes the user's IP address, browser, and where the user came from. This is standard information collected by most Web servers.
+
+**Sign Up Process**  
+When a user joins ProBoards as a member, certain information is asked for. This information includes the user's name, email address, Web site name, and web site URL. When the sign up process has completed, our script automatically logs the IP address into the user's profile as well.
+
+**Public Forums**  
+Please keep in mind that any information that is disclosed in forums hosted by ProBoards becomes public information. You should exercise caution when deciding to disclose your personal information.
+
+Opinions in messages posted in any forums located on our service are not necessarily the views of ProBoards.com. ProBoards.com maintains no liability for any legal action resulting from postings in forums located on our service.
+
+When posting a message to a forum hosted by ProBoards, your IP address is automatically logged with your post. The administrator of the forum you are posting in has the option to have IP addresses displayed publicly when reading the posts in the forum.
+
+**Cookies**  
+This Web site does not utilize any cookies.
+
+**Message Board Monitoring**  
+ProBoards reserves the right to monitor any and all message boards located on our server. Our staff has access to login to every password protected board to view the contents of those boards, as well as the ability to remove posts and/or boards that are found in violation of our terms of service. 
