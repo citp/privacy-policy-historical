@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jacquielawson.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010212600id_/http%3A//www.jacquielawson.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacquielawson.com privacy policy that was archived on 2005-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050303013357id_/http%3A//www.jacquielawson.com/privacy.asp) for the most accurate reproduction.*
 
-# E-cards and Web Cards by Jacquie Lawson, animated e-cards, Christmas cards
+# Jacquie Lawson privacy policy, cookies, history & data information collected
 
 ### Name and address data
 
