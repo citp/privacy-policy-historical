@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesaver.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605170220id_/http%3A//freesaver.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesaver.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208075641id_/http%3A//www.freesaver.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,5 +13,5 @@ We log statistical information about browsers, operating systems, and referring 
 
 Freesaver.Com works with third parties that serve ads to this site. These ads may contain cookies but we do not have access to this information. 
 
-This site contains links to other sites. We are not responsible for the privacy practices or the content of these Web sites.   
+This site contains links to other sites. We do not accept any responsibility for the privacy practices or content of these Web sites. These links are provided in good faith, and we cannot be held responsible for any subsequent changes in character or content of the sites we are linking to.   
 
