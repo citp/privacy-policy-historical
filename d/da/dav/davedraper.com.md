@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606231224id_/http%3A//davedraper.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davedraper.com privacy policy that was archived on 2001-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011025005652id_/http%3A//davedraper.com/privacy-policy.html) for the most accurate reproduction.*
 
 # IronOnline Privacy Policy
 
@@ -33,12 +33,11 @@ Your email address is used as a mailbox destination for our free weekly email ne
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [davedraper.com-unsubscribe@listbot.com](mailto:davedraper.com-unsubscribe@listbot.com) to unsubscribe from Dave's free weekly email newsletter. 
-  2. You can visit the following URL: [http://listbot.com](http://listbot.com/) to unsubscribe from the newsletter via web. 
-  3. You can email Laree directly for assistance at [laree@davedraper.com](mailto:laree@davedraper.com)
-  4. You can send mail to the following postal address:  P. O. Box 1335, Aptos, CA 95001
-  5. You can call the following toll-free telephone number: 888-466-9185 
-  6. You can send mail via FAX to 831-466-9183 
+  1. You can [**click here**](http://lb.bcentral.com/ex/manage/subscriberprefs?customerid=11196) to unsubscribe from the newsletter via web. 
+  2. You can email Laree directly for assistance at [laree@davedraper.com](mailto:laree@davedraper.com)
+  3. You can send mail to the following postal address:  P. O. Box 1335, Aptos, CA 95001
+  4. You can call the following toll-free telephone number: 888-466-9185 
+  5. You can send mail via FAX to 831-466-9183 
 
 
 
@@ -58,10 +57,6 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 Laree Draper Dave Draper's IronOnline P. O. Box 1335 Aptos, CA 95001 831-466-9182
-
-[What's New](https://web.archive.org/iron-online-whats-new.html) | [Online Store](https://web.archive.org/irononline-store-contents.html) | [Weekly Columns](https://web.archive.org/dave-draper-columns.html) | [Photo Archive](https://web.archive.org/photo-archive-intro.html) | [Weight Training](https://web.archive.org/weight-training-tips-contents.html) | [General Nutrition](https://web.archive.org/nutrition-contents.html) | [Draper History](https://web.archive.org/bodybuilding-history-contents.html) | [Discussion Group](https://web.archive.org/irononline-group-contents.html) | [Mag Cover Shots](https://web.archive.org/mag-cover-archive.html) | [Magazine Articles](https://web.archive.org/mag-muscle-contents.html) |[ Bodybuilding Q&A](https://web.archive.org/bodybuilding-questions-online.html) | [Bomber Talk](https://web.archive.org/draper-bomber-talk.html) | [Workout FAQs](https://web.archive.org/workout-faqs.html) | [World Gym Listing](https://web.archive.org/world-gym-list.html) | [Santa Cruz Locals](https://web.archive.org/santa-cruz-local-contents.html) | [Muscle Links](https://web.archive.org/muscle-links-new.html) | [Need More Help?](https://web.archive.org/irononline-email-faqs.html) |[Site Map](https://web.archive.org/irononline-sitemap.html) | [Contact IronOnline](https://web.archive.org/contact-irononline.html) | [Advertising](https://web.archive.org/advertising-info.html) | [Privacy Policy](https://web.archive.org/privacy-policy.html)
-
-[What's New](https://web.archive.org/iron-online-whats-new.html) | [Online Store](https://web.archive.org/irononline-store-contents.html) | [Weekly Columns](https://web.archive.org/dave-draper-columns.html) | [Photo Archive](https://web.archive.org/photo-archive-intro.html) | [Weight Training](https://web.archive.org/weight-training-tips-contents.html) | [General Nutrition](https://web.archive.org/nutrition-contents.html) | [Draper History](https://web.archive.org/bodybuilding-history-contents.html) | [Discussion Group](https://web.archive.org/irononline-group-contents.html) | [Mag Cover Shots](https://web.archive.org/mag-cover-archive.html) | [Magazine Articles](https://web.archive.org/mag-muscle-contents.html) |[ Bodybuilding Q&A](https://web.archive.org/bodybuilding-questions-online.html) | [Bomber Talk](https://web.archive.org/draper-bomber-talk.html) | [Workout FAQs](https://web.archive.org/workout-faqs.html) | [World Gym Listing](https://web.archive.org/world-gym-list.html) | [Santa Cruz Locals](https://web.archive.org/santa-cruz-local-contents.html) | [Muscle Links](https://web.archive.org/muscle-links-new.html) | [Need More Help?](https://web.archive.org/irononline-email-faqs.html) |[Site Map](https://web.archive.org/irononline-sitemap.html) | [Contact IronOnline](https://web.archive.org/contact-irononline.html) | [Advertising](https://web.archive.org/advertising-info.html) | [Privacy Policy](https://web.archive.org/privacy-policy.html)
 
 [What's New](https://web.archive.org/iron-online-whats-new.html) | [Online Store](https://web.archive.org/irononline-store-contents.html) | [Weekly Columns](https://web.archive.org/dave-draper-columns.html) | [Photo Archive](https://web.archive.org/photo-archive-intro.html) | [Weight Training](https://web.archive.org/weight-training-tips-contents.html) | [General Nutrition](https://web.archive.org/nutrition-contents.html) | [Draper History](https://web.archive.org/bodybuilding-history-contents.html) | [Discussion Group](https://web.archive.org/irononline-group-contents.html) | [Mag Cover Shots](https://web.archive.org/mag-cover-archive.html) | [Magazine Articles](https://web.archive.org/mag-muscle-contents.html) |[ Bodybuilding Q&A](https://web.archive.org/bodybuilding-questions-online.html) | [Bomber Talk](https://web.archive.org/draper-bomber-talk.html) | [Workout FAQs](https://web.archive.org/workout-faqs.html) | [World Gym Listing](https://web.archive.org/world-gym-list.html) | [Santa Cruz Locals](https://web.archive.org/santa-cruz-local-contents.html) | [Muscle Links](https://web.archive.org/muscle-links-new.html) | [Need More Help?](https://web.archive.org/irononline-email-faqs.html) |[Site Map](https://web.archive.org/irononline-sitemap.html) | [Contact IronOnline](https://web.archive.org/contact-irononline.html) | [Advertising](https://web.archive.org/advertising-info.html) | [Privacy Policy](https://web.archive.org/privacy-policy.html)
 
