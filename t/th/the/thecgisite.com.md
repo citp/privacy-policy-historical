@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecgisite.com privacy policy that was archived on 2001-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010418215723id_/http%3A//www.thecgisite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecgisite.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101054524id_/http%3A//www.thecgisite.com/privacy.html) for the most accurate reproduction.*
 
 # TheCgiSite.com: Privacy Policy
 
@@ -40,6 +40,6 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 
 TheCgiSite.com is provided on an "as is" basis and makes no representations or warranties of any kind with respect to this website or its contents. By downloading, modifying, copying, viewing, or using this website, you agree that neither the author of this site nor the owners or administrators are liable for any breach of security, damages of any kind, including compensatory, direct, indirect or consequential damages, loss of data, income or profit, loss of or damage to property and claims of third parties. You also consent to the collection and use of information as specified above. 
 
-[](http://www.clickey.com/r.cgi?affid=thecgisite.com|www.|490039)  
-[Click here to support our sponsor](http://www.clickey.com/r.cgi?affid=thecgisite.com|www.|490039)   
+[](http://sitepoint.com/books/?bookid=bookinfo-SP)  
+[Webmasters! - Learn and Master PHP & MySQL](http://sitepoint.com/books/?bookid=bookinfo-SP)   
 
