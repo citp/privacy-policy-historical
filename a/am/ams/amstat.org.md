@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2002-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021220101341id_/http%3A//www.amstat.org/publications/amstat_online/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620075033id_/http%3A//www.amstat.org/publications/amstat_online/policy/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement for www.amstat.org
+# American Statistical Association
+
+Privacy Statement for www.amstat.org
+
+## Privacy Statement for www.amstat.org
 
 Below: Choice/Opt Out | Contacting the Web Site | Cookie Information     
 Correct/Update User Profile | Security and more!
@@ -129,5 +133,5 @@ This page was constructed with assistance from [TRUSTe](http://www.truste.org/).
 * * *
 
 [Copyright](https://web.archive.org/site/copyright.html) | [Privacy Statement](https://web.archive.org/publications/amstat_online/policy/privacy.html) | [Disclaimer](https://web.archive.org/publications/amstat_online/policy/disclaimer.html)  
-© 2002 American Statistical Association. All Rights Reserved.  
+© 2003 American Statistical Association. All Rights Reserved.  
 Upgrading to the latest version of browser software [Microsoft](http://www.microsoft.com/windows/ie/), [Netscape](http://www.netscape.com/download/), or [Opera](http://www.opera.com/download) may enhance your online experience.
