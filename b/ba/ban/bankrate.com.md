@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankrate.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204334id_/http%3A//www.bankrate.com/coinfo/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankrate.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202024411id_/http%3A//www.bankrate.com/coinfo/privacy.asp) for the most accurate reproduction.*
 
 # About Bankrate.com
 
@@ -29,7 +29,7 @@ In addition, submitting your personally identifiable information for entry into 
 Cookie technology  
 Bankrate may set and access cookies on your computer. Bankrate gathers anonymous information about its users through cookie technology on an aggregate level only. Other advertisers or other companies do not have access to Bankrate cookies.
 
-Bankrate gives you the ability to edit your Bankrate account information and preferences at any time, including whether you want us to contact you about specials and new products. You may request deletion of your Bankrate account by sending an e-mail to [Webmaster@Bankrate.com](mailto:Webmaster@Bankrate.com).
+Bankrate gives you the ability to edit your Bankrate account information and preferences at any time, including whether you want us to contact you about specials and new products. You may request deletion of your Bankrate account by sending an e-mail to [bankratemail@bankratemail.com](mailto:bankratemail@bankratemail.com).
 
 Security  
 Your Bankrate account information is password-protected for your privacy and security. In certain areas Bankrate uses industry-standard SSL-encryption to protect data transmissions.
