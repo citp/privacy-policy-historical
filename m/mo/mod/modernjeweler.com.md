@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernjeweler.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609070230id_/http%3A//modernjeweler.com/privacy/index.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernjeweler.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210153247id_/http%3A//www.modernjeweler.com/privacy/index.shtm) for the most accurate reproduction.*
 
 # Modern Jeweler - Privacy Statement
 
@@ -44,8 +44,8 @@ email [webmaster@modernjeweler.com](mailto:webmaster@modernjeweler.com)
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   
 
 
-**Chris Orr  
-_Cygnus Business Media_  
-1233 Janesville Ave.  
-Fort Atkinson, WI 53538  
-[Chris.Orr@cygnuspub.com](mailto:chris.orr@cygnuspub.com)**
+**Interactive Director  
+Cygnus Business Media  
+P.O. Box 55886  
+Birmingham, AL 35255-5886  
+[interactivedirector@cygnusinteractive.com](mailto:interactivedirector@cygnusinteractive.com)**
