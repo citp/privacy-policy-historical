@@ -1,0 +1,663 @@
+<!--The following is the downloaded HTML source of the winelibrary.com privacy policy that was archived on 2004-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040605202526id_/http%3A//winelibrary.com/privacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+    <meta name="ROBOTS" content="ALL"> 
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="2.css">
+    <link rel="shortcut icon" href="fav/favicon.ico">
+    <title>Winelibrary</title>
+    <script language="javascript" type="text/javascript">
+        function chgQty2(delta, target) {
+            it = document.getElementById(target);
+            //alert("delta is - " + delta + " -- target: " + it + " -- " + it.value);
+            qty = parseFloat(it.value) + delta;
+            //alert (it.value);
+            if (isNaN(qty) || qty < 1.0) {
+                qty = 1.0;
+            } else if (qty >= 999.99) {
+                qty = 999.99;
+            }
+            qty = Math.floor( (qty-3.0)/1.0 )*1.0  + 3.0;
+            it.value = qty;
+        }
+        function chgQty(delta) {
+            qty = parseFloat(document.productForm.count.value) + delta;
+            if (isNaN(qty) || qty < 1.0) {
+                qty = 1.0;
+            } else if (qty >= 999.99) {
+                qty = 999.99;
+            }
+            qty = Math.floor( (qty-3.0)/1.0 )*1.0  + 3.0;
+            document.productForm.count.value = qty;
+        }
+    </script>
+    <script language="javascript" type="text/javascript">
+        <!--
+        var x, y;
+        var offsetx, offsety;
+        window.onload = init;
+
+        function init() {
+            if (window.Event) {
+                if (document.captuerEvents){
+                  document.captureEvents(Event.MOUSEMOVE);
+                } else {
+                  window.captureEvents(Event.MOUSEMOVE);
+                }
+            }
+          document.onmousemove = getXY;
+          if (document.getElementById("logo").style) {
+            var offme = document.getElementById("logo");
+            offsetx = offme.style.left;
+            offsety = offme.style.top;
+          }
+        }
+
+        function getXY(e) {
+          x = (window.Event) ? e.pageX - 40 : event.clientX - 10;
+          y = (window.Event) ? e.pageY - 95 + document.body.scrollTop : event.clientY - 95 + document.documentElement.scrollTop + document.body.scrollTop;
+          //x = (window.Event) ? e.pageX : event.clientX ;
+          //y = (window.Event) ? e.pageY + document.body.scrollTop : event.clientY + document.documentElement.scrollTop + document.body.scrollTop;
+          //x += (document.documentElement) ? document.documentElement.scrollLeft : document.body.scrollLeft;
+          //y += (document.documentElement) ? document.documentElement.scrollTop : document.body.scrollTop;
+          //x += document.body.scrollLeft + body.scrollLeft;
+          //y += document.body.scrollTop; 
+        }
+
+        function doShow(id, show) {
+            var it = document.getElementById(id);
+            var itd = document.getElementById("test");
+            it.style.display=(show == 0) ? "block" : "";
+            //alert(x);
+            //it.style.left=x + "px";
+            //it.style.top=y + "px";
+            it.style.left=x - 10 + "px";
+            
+            it.style.top=y + 10 + "px";
+            
+
+        }
+        -->
+    </script>
+</head>
+
+<body bgcolor="" text="" vlink="" link="" alink="">
+
+    <div style="position: relative; " id="logo">
+        <a href="default.asp"><img src="images/wlnewlogo.gif" border="0" alt="Winelibrary - 888-980-WINE"></a>
+    </div>
+    <div id="personal">
+    
+        You are <span class="red">Not</span> logged in<br>
+        
+        <ul>
+            <li id="first">
+                <a href="mycart.asp" title="Click here for your shopping cart">Your<br>Cart</a>
+            </li>
+            <li>
+            <a href="cha.asp?re=http://hc2.humanclick.com/hc/74999169/?cmd=file&amp;file=visitorWantsToChat&amp;site=74999169&amp;byhref=1" onclick="window.open(&quot;http://hc2.humanclick.com/hc/74999169/?cmd=file&amp;file=visitorWantsToChat&amp;site=74999169&quot;,&quot;chat74999169&quot;,&quot;width=525,height=340&quot;);return false;" title="Click here to talk to somemone now!">Live<br>Help</a>
+            </li>
+            <li>
+            
+            <a href="login.asp" title="Click here to Log into Winelibrary.com">Your<br>Account</a>
+            </li>
+            <li>
+            <a href="myordertracking.asp">Track<br>Order</a>
+            </li>
+            <li>
+            
+            <a href="login.asp" title="Log in!">Log<br>In</a>
+            
+            </li>
+        </ul>
+    </div>
+
+    <div style="" id="header">
+        <ul>
+            
+            <li id="current"><a href="default.asp"><span>Home</span></a></li>
+                
+            <li><a href="wine.asp"><span>Wine</span></a></li>
+                
+            <li><a href="collect.asp"><span>Collectors</span></a></li>
+                
+            <li><a href="bestbuys.asp"><span>Best Buys</span></a></li>
+                
+            <li><a href="gifts.asp"><span>Gifts</span></a></li>
+                
+            <li><a href="show_90plus.asp?section=a"><span>90+ Pointers</span></a></li>
+                
+
+        </ul>
+    </div> <!--/Header-->
+
+
+    <div id="topbar">
+        <div id="search">
+        <center>
+            <form action="search.asp" method="get">
+            <span>Vintage:</span> 
+            <select name="Vint">
+                <option value="">[ all ]</option>
+                <option value="4">2004</option>
+                <option value="3">2003</option>
+                <option value="2">2002</option>
+                <option value="1">2001</option>
+                <option value="0">2000</option>
+                <option value="99">1999</option>
+                <option value="98">1998</option>
+                <option value="97">1997</option>
+                <option value="96">1996</option>
+                <option value="95">1995</option>
+                <option value="94">1994</option>
+                <option value="93">1993</option>
+                <option value="92">1992</option>
+                <option value="91">1991</option>
+                <option value="90">1990</option>
+                <option value="89">1989</option>
+                <option value="88">1988</option>
+                <option value="87">1987</option>
+                <option value="86">1986</option>
+                <option value="85">1985</option>
+                <option value="84">1984</option>
+                <option value="83">1983</option>
+                <option value="82">1982</option>
+                <option value="81">1981</option>
+                <option value="80">1980</option>
+                <option value="70s">70's</option>
+                <option value="60s">60's</option>
+                <option value="50s">50's</option>
+                <option value="40s">40's</option>
+                <option value="00s">00-41</option>
+            </select>
+            <span>Size:</span>
+            <select name="size">
+                <option>[ all ]</option>
+                <option value="375ML">375 mL</option>
+                <option value="500ML">500 mL</option>
+                <option value="750ML">750 mL</option>
+                <option value="1.5L">1.5 L</option>
+                <option value="3L">3 L</option>
+                <option value="5L">5 L</option>
+                <option value="6L">6 L</option>
+            </select>
+            <b>Type:</b> 
+	<select name="sDept">
+		<option value="">Any/All Type(s)</option>
+		<option value="ALSACE">Alsace</option>
+		<option value="APERITIFS">Aperitifs</option>
+		<option value="ARGENTINA">Argentina</option>
+		<option value="AUSTRALIAN">Australian</option>
+		<option value="AUSTRIAN WINES">Austrian Wines</option>
+		<option value="BEAUJOLAIS">Beaujolais (all)</option>
+		<option value="BEAUJOLAIS CRU">Beaujolais Cru</option>
+		<option value="BEAUJOLAIS NOUVEAU">Beaujolais Nouveau</option>
+		<option value="BEAUJOLAIS VILLAGE">Beaujolais Village</option>
+		<option value="BORDEAUX">Bordeaux (all)</option>
+		<option value="BORDEAUX FUTURES">Bordeaux Futures</option>
+		<option value="BORDEAUX FUTURES 00">Bordeaux Futures 00</option>
+		<option value="BORDEAUX GRAVES RED">Bordeaux Graves Red</option>
+		<option value="BORDEAUX GRAVES WHITE">Bordeaux Graves White</option>
+		<option value="BORDEAUX HAUT MEDOC">Bordeaux Haut Medoc</option>
+		<option value="BORDEAUX MARGAUX">Bordeaux Margaux</option>
+		<option value="BORDEAUX MEDOC">Bordeaux Medoc</option>
+		<option value="BORDEAUX PAUILLAC">Bordeaux Pauillac</option>
+		<option value="BORDEAUX POMEROL">Bordeaux Pomerol</option>
+		<option value="BORDEAUX RED OTHER">Bordeaux Red Other</option>
+		<option value="SAUTERNES BARSAC">Bordeaux Sauterne Barsac</option>
+		<option value="BORDEAUX ST EMILION">Bordeaux St Emilion</option>
+		<option value="BORDEAUX ST ESTEPHE">Bordeaux St Estephe</option>
+		<option value="BORDEAUX ST. JULIEN">Bordeaux St. Julien</option>
+		<option value="BORDEAUX WHITE OTHER">Bordeaux White Other</option>
+		<option value="BOURGOGNE MACON BLANC">Bourgogne Macon Blanc</option>
+		<option value="BOURGOGNE RED">Bourgogne Red</option>
+		<option value="BOURGOGNE WHITE">Bourgogne White</option>
+		<option value="BURGUNDY RED">Burgundy Red</option>
+		<option value="BURGUNDY WHITE">Burgundy White</option>
+		<option value="CALIFORNIA">California (all)</option>
+		<option value="CALIFORNIA CABERNET">California Cabernet</option>
+		<option value="CALIFORNIA CHARDONNAY">California Chardonnay</option>
+		<option value="CALIFORNIA CHENIN BLANC">California Chenin Blanc</option>
+		<option value="CALIFORNIA FUME BLANC">California Fume Blanc</option>
+		<option value="CALIFORNIA GEWURZTRAMINER">California Gewurztraminer</option>
+		<option value="CALIFORNIA ITALIAN VERITALS">California Italian Veritals</option>
+		<option value="CALIFORNIA JUG WINE">California Jug Wine</option>
+		<option value="CALIFORNIA MERITAGE">California Meritage</option>
+		<option value="CALIFORNIA MERLOT">California Merlot</option>
+		<option value="CALIFORNIA PINOT NOIR">California Pinot Noir</option>
+		<option value="CALIFORNIA RED OTHER">California Red Other</option>
+		<option value="CALIFORNIA RHONE VERTIALS">California Rhone Vertials</option>
+		<option value="CALIFORNIA RIESLING">California Riesling</option>
+		<option value="CALIFORNIA SAUVIGNON BLANC">California Sauvignon Blanc</option>
+		<option value="CALIFORNIA SPARKLING">California Sparkling</option>
+		<option value="CALIFORNIA TABLE">California Table</option>
+		<option value="CALIFORNIA VARIETAL BLUSH">California Varietal Blush</option>
+		<option value="CALIFORNIA WHT OTHER">California Wht Other</option>
+		<option value="CALIFORNIA ZINFANDEL">California Zinfandel</option>
+		<option value="CHAMPAGNE">Champagne (all)</option>
+		<option value="CHAMPAGNE">Champagne</option>
+		<option value="CHAMPAGNE PREMIUM">Champagne Premium</option>
+		<option value="CHILE">Chile</option>
+		<option value="DESSERT">Dessert</option>
+		<option value="DOMESTIC">Domestic</option>
+		<option value="DOMESTIC BULK CHAMPAGNE">Domestic Bulk Champagne</option>
+		<option value="EAST COAST">East Coast</option>
+		<option value="FORTIFIED">Fortified</option>
+		<option value="FRENCH RED TABLE">French Red Table</option>
+		<option value="FRENCH SPARKLING">French Sparkling</option>
+		<option value="FRENCH WHITE MISC.">French White Misc.</option>
+		<option value="GERMAN WINE">German Wine</option>
+		<option value="HUNGARY">Hungary</option>
+		<option value="IMPORTED">Imported</option>
+		<option value="ITALY">Italy (all)</option>
+		<option value="ITALY-OTHER">Italy-other</option>
+		<option value="ITALY-PIEDMONT">Italy-piedmont</option>
+		<option value="ITALY-SWEET">Italy-sweet</option>
+		<option value="ITALY-TUSCANY">Italy-tuscany</option>
+		<option value="ITALY-UMBRIA">Italy-umbria</option>
+		<option value="ITALY-VENETO">Italy-veneto</option>
+		<option value="ITALY-WHITE">Italy-white</option>
+		<option value="KOSHER">Kosher</option>
+		<option value="LOIRE">Loire</option>
+		<option value="MADIERA">Madiera</option>
+		<option value="MARSALA">Marsala</option>
+		<option value="MISCELLANEOUS">Miscellaneous</option>
+		<option value="MONBAZILLAC">Monbazillac</option>
+		<option value="MUSCADET">Muscadet</option>
+		<option value="N Y STATE">N Y State</option>
+		<option value="NEW ZEALAND">New Zealand</option>
+		<option value="OREGON WINES">Oregon Wines</option>
+		<option value="ORIENTAL">Oriental</option>
+		<option value="OTHER">Other</option>
+		<option value="PETITE CHATEAU">Petite Chateau</option>
+		<option value="PETITE SIRAH/SYRAH">Petite Sirah/syrah</option>
+		<option value="PORT">Port (all)</option>
+		<option value="PORT - NON VINTAGE">Port - Non Vintage</option>
+		<option value="PORT - VINTAGE">Port - Vintage</option>
+		<option value="PORTUGUESE RED">Portuguese Red</option>
+		<option value="PORTUGUESE ROSE/BLUSH">Portuguese Rose/blush</option>
+		<option value="PORTUGUESE WHITE">Portuguese White</option>
+		<option value="RHONE RED">Rhone Red</option>
+		<option value="RHONE WHITE">Rhone White</option>
+		<option value="ROMANIA">Romania</option>
+		<option value="ROSE">Rose</option>
+		<option value="SHERRY">Sherry</option>
+		<option value="SOUTH AFRICAN">South African</option>
+		<option value="SOUTHWEST FRANCE">Southwest France</option>
+		<option value="SPANISH">Spanish (all)</option>
+		<option value="SPANISH">Spanish</option>
+		<option value="SPANISH RED">Spanish Red</option>
+		<option value="SPANISH ROSE">Spanish Rose</option>
+		<option value="SPANISH WHITE">Spanish White</option>
+		<option value="SPARKING WINE">Sparking Wine</option>
+		<option value="SUPER TASTING">Super Tasting</option>
+		<option value="URUGUAY">Uruguay</option>
+		<option value="WASHINGTON STATE">Washington State</option>
+		<option value="WEST COAST (OTHER)">West Coast (other)</option>
+</select>
+
+            <span>Search:</span> <input type="text" value="" name="search" size="19">
+            
+            <input type="submit" value="Search">
+            </form>
+            </center>
+        </div> <!--/Search-->
+    </div>
+<div id="overall">
+    <div id="content">
+        
+        <div id="leftcolumn">
+            <div class="node" id="cart">
+            <div class="midbar"><h3 class="title">Shopping Cart</h3>No products in your cart<br><div class="cartTotal" style="position: relative; top: 73px;">Total $0.00</div></div>
+            <div class="reviewHidden" id="total_terms">Does not include Tax and/or Shipping.</div>
+            </div>
+            <div class="node" id="justin">
+                <h3 class="title">This just in</h3>
+                <a class="nounder" href="thisjustin.asp">
+                    <img width="93" src="/images/topsec.gif" alt="this just in!" align="left" border="0">
+                    Click here for new arrivals!
+                </a>
+            </div>
+            <div class="node">
+                <h3 class="title">Winelibrary's Best</h3>
+                <!--
+                <ul class="best">
+                    <li><a href="top5reds.asp?DCMP=ILC-top5"><img border=0 alt="Best Reds" src="images/wlbestred.jpg" /></a></li>
+                    <li><a href="top5whites.asp?DCMP=ILC-top5"><img border=0 alt="Best Whites" src="images/wlbestwhite.jpg" /></a></li>
+                    <li><a href="top520.asp?DCMP=ILC-top5"><img border=0 alt="Best Bargins" src="images/wlbestbargin.jpg" /></a></li>
+                    <li><a href="top5staff.asp?DCMP=ILC-top5"><img border=0 alt="Staff Selections" src="images/wlbeststaff.jpg" /></a></li>
+                    <li><a href="top5collectors.asp?DCMP=ILC-top5"><img border=0 alt="Collectors" src="images/wlbestcollect.jpg" /></a></li>
+                    <li><a href="top5rated.asp?DCMP=ILC-top5"><img border=0 alt="Top Rated" src="images/wlbestrated.jpg" /></a></li>
+                </ul>
+                -->
+                    <a href="top5reds.asp?DCMP=ILC-top5"><img border="0" alt="Best Reds" src="images/wlbestred.jpg"></a><br>
+                    <a href="top5whites.asp?DCMP=ILC-top5"><img border="0" alt="Best Whites" src="images/wlbestwhite.jpg"></a><br>
+                    <a href="top520.asp?DCMP=ILC-top5"><img border="0" alt="Best Bargins" src="images/wlbestbargin.jpg"></a><br>
+                    <a href="top5staff.asp?DCMP=ILC-top5"><img border="0" alt="Staff Selections" src="images/wlbeststaff.jpg"></a><br>
+                    <a href="top5collectors.asp?DCMP=ILC-top5"><img border="0" alt="Collectors" src="images/wlbestcollect.jpg"></a><br>
+                    <a href="top5rated.asp?DCMP=ILC-top5"><img border="0" alt="Top Rated" src="images/wlbestrated.jpg"></a>
+            </div>
+        </div>
+        
+        
+        <div id="rightcolumn">
+            <div class="node" id="emailbox">
+                <h3 class="title">Join the Email service</h3>
+                <form style="margin:0; " action="addEmail.asp" method="get">
+                <input type="hidden" name="from" value="left_side">
+                <input type="text" id="eBox" name="email" value="your@email.com" onfocus="if (this.value == 'your@email.com') this.value=''; " size="22"><br>
+                <input type="submit" value="Add me!"><br>
+                </form>
+                <!--
+                Be the FIRST to grab the hottest new releases . . . Join here with a valid e-mail address<br />
+                If you're not on this list - You're not in the game!
+                -->
+                <br>
+                <span id="why">
+                Join our world-class email list to be the first to know about:
+                </span>
+                <div id="reasons">
+                <ul>
+                    <li>New 90+ point wines like Opus and Silver Oak.</li>
+                    <li>Wine tastings and other events.</li>
+                    <li>Special sales and in-store specials.</li>
+                    <li>Classified wines like Lafite and Margaux.</li>
+                </ul>
+                </div>
+            </div>
+            <div class="node">
+                <a href="free_shipping.asp"><img alt="Free Shipping Items!" border="0" src="images/freeshipbw.jpg"></a>
+            </div>
+            <!--
+            <div class="node">
+                <!img src="images/gvpicks.gif" />
+                <!img src="images/bigthing.jpg" />
+            </div>
+            -->
+        </div>
+        <script language="javascript">
+            <!--
+            
+            //document.write("<style> #centercolumn { position: absolute; top: 0px; left: 4px; }</style>");
+            
+            -->
+        </script>
+        <div style="margin-top: 3px;" id="centercolumn">
+        
+<center>
+<table border="0">
+   <tbody><tr>
+      <td>
+        <h1><font face="Arial, Helvetica, sans-serif"> Privacy Statement</font></h1>
+      </td>
+   </tr>
+</tbody></table>
+</center>
+
+<table height="100%" border="0" cellspacing="0" cellpadding="12">
+<tbody><tr align="left" valign="top"> 
+<td height="100%"> 
+<p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">Our 
+Commitment to Privacy</font></b></font></p>
+<p><font face="Arial, Helvetica, sans-serif">Wine Library 
+</font><font face="Arial, Helvetica, sans-serif"> is committed 
+to respecting and protecting your privacy as a visitor to our Web site 
+at </font><font face="Arial, Helvetica, sans-serif">http://winelibrary.com. We take the issue 
+of privacy very seriously and value the trust you place in us each time you use our services and access this 
+Web site. </font><font face="Arial, Helvetica, sans-serif">This 
+Privacy Statement describes the practices and policies we have put into 
+place to safeguard your personal information 
+that may be gathered and used as you visit our Web site. </font></p>
+
+
+<p><font face="Arial, Helvetica, sans-serif">The policy may 
+change from time to time so please check back periodically. If you have 
+any questions about our privacy policies, we encourage you to contact 
+us using any of the methods outlined at the end of our Privacy Statement.</font></p>
+<p>&nbsp;</p>
+<p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">Who 
+Is Collecting the Information?</font></b></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif" size="-1">Wine Library is collecting information on this Web site as outlined in this privacy statement.</font></p><p>&nbsp;</p>
+<p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">What 
+Information Do We Collect?</font></b></font></p>
+<i><font face="Arial, Helvetica, sans-serif" color="#6666FF">Automatic 
+Collection of Information: </font></i><br>
+<font face="Arial, Helvetica, sans-serif">If you do nothing 
+during your visit but browse through the web site or download information, 
+our system will automatically gather and store certain information about 
+your visit. This information does not identify you personally and is 
+used in an aggregate way to help us improve our web site and tell us 
+the number of visitors to our site each day.</font>
+
+<p><font face="Arial, Helvetica, sans-serif" size="-1">Our Web server 
+automatically collects and records the following information:</font></p><ul><li><font face="Arial, Helvetica, sans-serif" size="-1">The visitor's domain name and e-mail address, when possible</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">The visitor's domain name, but not the e-mail address</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">The visitor's IP address</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Aggregate information on what pages are accessed</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">The name and release number of web browser software used</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">The operating system used</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Date and time you access our site</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">The address of the Web site that linked to us (referrer URL)</font></li></ul><i><font face="Arial, Helvetica, sans-serif" color="#6666FF">Permission-based 
+Collection of Information:</font></i><br>
+
+<font face="Arial, Helvetica, sans-serif">At different places 
+on our site depending upon the feature you use, you may be asked to 
+volunteer personal information such as your name, 
+email, mailing address, and telephone number. </font>
+
+<p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">How 
+Do We Use the Information We Collect?</font></b></font></p>
+<p><font face="Arial, Helvetica, sans-serif">The information 
+we gather automatically and with your permission during your visit to 
+our Web site is used in the following ways:</font></p>
+<ul><li><font face="Arial, Helvetica, sans-serif" size="-1">Monitor, review, measure, and analyze Web site utilization</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Modify and enhance the Web site</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Improve the content and design of our Web site</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Determine the need for new programs and services</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Respond to your requests</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Customize the content and/or layout of our page for each individual visitor</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Monitor and improve our customer service efforts</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Study general usage habits and demographic information for our own marketing research purposes</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Distribute news and other information requested by Web visitors</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Notify visitors about updates to our Web site</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Determine the effectiveness of special promotion and marketing programs</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Contact consumers for marketing purposes</font></li></ul><p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">With 
+Whom Will the Information Be Shared?</font></b></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif" size="-1">The personally 
+identifiable information gathered during your visit to this Web site 
+is not shared with any organization for any purpose. </font></p><p>&nbsp;</p>
+<p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">Additional 
+Use of Personal Information</font></b></font></p>
+<i><font face="Arial, Helvetica, sans-serif" color="#6666FF">Requesting No E-mail 
+Communication</font></i><br>
+<p><font face="Arial, Helvetica, sans-serif">You may receive 
+e-mail messages from us about special promotions, upcoming events and other relevant information that may be of interest 
+to you. If you do not wish 
+to receive such email messages, please let us know by the following means:</font></p>
+<ul><li><font face="Arial, Helvetica, sans-serif" size="-1">Sending us e-mail to that effect at: remove@winelibrary.com</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Calling us by telephone at: (973) 376-0005</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Writing to us at the contact address</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Visiting the following URL: http://winelibrary.com/myaccount.asp</font></li></ul><i><font face="Arial, Helvetica, sans-serif" color="#6666FF">Requesting No Postal 
+Mailings</font></i><br>
+
+<p><font face="Arial, Helvetica, sans-serif">You may receive 
+periodic mailings from us with information on new products and services 
+or upcoming events. If you do not wish 
+to receive such mailings, please let us know by the following means:</font></p>
+<ul><li><font face="Arial, Helvetica, sans-serif" size="-1">Sending us e-mail to that effect at: remove@winelibrary.com</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Calling us by telephone at: (973) 376-0005</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Writing to us at the contact address</font></li></ul><p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">Our 
+Use of Cookies</font></b></font></p>
+<p><font face="Arial, Helvetica, sans-serif">Many Web sites 
+now use "cookies" to provide useful features to their visitors 
+by providing customizable and personalized services.</font></p>
+<p><font face="Arial, Helvetica, sans-serif">A cookie is a small 
+amount of data that is sent to your browser from a web server and stored 
+on your computer's hard drive. For example, a Web site may use cookies 
+to store and sometimes track information about you, your preferences, 
+or the pages you last visited. </font></p>
+<p><font face="Arial, Helvetica, sans-serif">Your browser software 
+can be set to reject all cookies, or to ask you if you would like to 
+accept or decline a cookie from a particular site before it is set. 
+Most browsers offer instructions on how to reset the browser to reject 
+cookies in the Help section of the toolbar. You should know, however, 
+that if you reject a cookie, certain functions and conveniences of a 
+site may not work properly.</font></p>
+<p><font face="Arial, Helvetica, sans-serif">We use cookies 
+on our Web site for the following purposes:</font></p>
+
+<ul><li><font face="Arial, Helvetica, sans-serif" size="-1">Store and sometimes track visitor preferences</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Store personal identifying information </font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Record session information, such as items that consumers add to their shopping cart. </font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Record user-specific information on what pages users access or visit</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Alert visitors to new areas that we think might be of interest to them when they return to our site</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">To record past activity at a site in order to provide better service when visitors return to our site </font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Customize web page content on visitors browser type or other information that the visitor sends</font></li></ul><p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">Registration 
+for Access</font></b></font></p>
+<p><font face="Arial, Helvetica, sans-serif">Some Web sites 
+require you to provide some personal information through a registration 
+process in order to take advantage of certain Web site features and 
+to access content areas. For example, a registration form might request 
+your name, telephone number and e-mail address. </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="-1">Access to some 
+		of the features on this Web site requires registration,and the disclosure 
+		of some personal information, which may include:</font></p><ul><li><font face="Arial, Helvetica, sans-serif" size="-1">Billing and shipping information</font></li></ul><p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">Our 
+Children's Privacy Policy</font></b></font></p>
+
+<p><font face="Arial, Helvetica, sans-serif">Our site does 
+not feature information and services of interest to children or anyone under the age of 21.</font></p>
+<p>&nbsp;</p><p><b><font face="Arial, Helvetica, sans-serif" color="#000066">Interactive 
+Services and Tools</font></b></p>
+<p><font face="Arial, Helvetica, sans-serif">Interactive services 
+tools and 
+other technology-based features provide Web site users with a richer 
+and more valuable experience. The tools can provide you with information 
+that is customized according to your personal needs.</font></p>
+
+<p><font face="Arial, Helvetica, sans-serif">This site does 
+not use interactive tools that ask you for identifying  
+personal information.</font></p>
+<p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">Security 
+of Communications</font></b></font></p>
+<p> </p>
+<p><font face="Arial, Helvetica, sans-serif">We recognize that 
+many people are concerned about the privacy and protection of information 
+as it is transmitted over the Internet. You should keep in mind that 
+the possibility exists for unauthorized individuals to intercept any 
+email message you send over the Internet. In some cases, information 
+can be encrypted (scrambled or encoded) to make it very difficult to 
+read if it is intercepted during communication. Certain technology and 
+practices allow Web sites to provide an increased level of security 
+for your personal information when appropriate.</font></p>
+<p><font face="Arial, Helvetica, sans-serif">We use the following 
+practices on our Web site to enhance the level of security for communication 
+and the transmission of personal information:</font></p>
+
+<ul><li><font face="Arial, Helvetica, sans-serif" size="-1">We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site </font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">We have taken reasonable steps to ensure the integrity and confidentiality of personally identifiable information that you may provide. </font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">We have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site</font></li></ul><p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">E-Commerce and Online Shopping</font></b></font></p>
+<p><font face="Arial, Helvetica, sans-serif">Purchasing items 
+ over the Internet usually requires you to provide 
+your personal identifying information and credit card information on 
+a Web site. Many people have become accustomed to on-line commerce as 
+a time-saving and useful convenience. There are a number of practices 
+that can make providing your sensitive credit card information more 
+secure and therefore make you feel more comfortable about doing so. 
+</font></p>
+<p><font face="Arial, Helvetica, sans-serif">We do process 
+credit card payments for merchandise, or services on our 
+Web site. We have the following e-commerce practices:</font></p>
+<ul><li><font face="Arial, Helvetica, sans-serif" size="-1">When processing your credit card payment, we will ask for the card type, number, expiration date, and your card's billing address.</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">We will transmit credit card numbers in an encrypted format using industry-standard, SSL (secure socket layer) encryption.</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">We will keep this information in the strictest confidence and will make every effort to maintain the privacy and security of the information at all times. </font></li></ul><p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif" color="#000066"><b>Advertising 
+Servers</b></font></p>
+<p><font face="Arial, Helvetica, sans-serif">On-line advertising, 
+such as banner ads, has become commonplace on many Web sites. Certain 
+Web sites have developed relationships with third-party advertising 
+servers to display these advertisements on their sites. By clicking 
+on one of these banner ads, you will be taken to another site with different 
+privacy policies. These third party ad servers may also use cookies 
+to collect non-personal information on your preferences and interests 
+via the advertisement you decide to view. </font></p>
+<p><font face="Arial, Helvetica, sans-serif">At this time, 
+we do not partner with or have special relationships with any advertising 
+server companies.</font></p>
+
+<p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">Links 
+to Other Sites</font></b></font></p>
+<p><font face="Arial, Helvetica, sans-serif">Web sites often 
+provide a number of links that offer direct access to other useful or 
+interesting web sites holding potential value to site visitors. Inclusion 
+of the other sites by links does not imply any endorsement of the material 
+or information on the other sites. Users are encouraged to review the 
+privacy policy of each linked site before sharing personal  
+information.</font></p>
+
+<p><font face="Arial, Helvetica, sans-serif">This site includes 
+links to non-affiliated external Web sites. We have the following practices:</font></p>
+<ul><li><font face="Arial, Helvetica, sans-serif" size="-1">We encourage users to review the privacy policy of each linked site, as we cannot be responsible for the privacy practices of other sites.</font></li></ul><p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">Changes 
+in Our Privacy Policy </font></b></font></p>
+<p><font face="Arial, Helvetica, sans-serif">From time to time, 
+we may use customer information for new, unanticipated uses not previously 
+disclosed in our privacy notice. If our information practices change 
+at some time in the future, we have the following practices:</font></p>
+<ul><li><font face="Arial, Helvetica, sans-serif" size="-1">We will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.</font></li></ul><i><font face="Arial, Helvetica, sans-serif" color="#6666FF">Preference for 
+Future Use of Information</font></i><br>
+<font face="Arial, Helvetica, sans-serif">You may prevent 
+your information from being used for purposes other than those for 
+which it was originally collected by:</font>
+
+<ul><li><font face="Arial, Helvetica, sans-serif" size="-1">Sending us e-mail to that effect at: swl@winelibrary.com</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Calling us by telephone at: (973) 376-0005</font></li><li><font face="Arial, Helvetica, sans-serif" size="-1">Writing to us at the contact address</font></li></ul><p>&nbsp;</p><p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">Web 
+Site Contact Information</font></b></font></p>
+<p><font face="Arial, Helvetica, sans-serif">If you have questions 
+about our privacy policy, or feel that this site is not following its 
+stated information policy, please contact us.</font></p>
+
+<b><font face="Arial, Helvetica, sans-serif">Wine Library</font></b><br>
+<font face="Arial, Helvetica, sans-serif">8 Millburn Ave</font><br>
+<font face="Arial, Helvetica, sans-serif">Springfield, NJ 08830	</font><br>
+<font face="Arial, Helvetica, sans-serif" size="-1">Contact: Gary Vaynerchuk</font><br><font face="Arial, Helvetica, sans-serif" size="-1">E-mail: info@winelibrary.com</font><br><font face="Arial, Helvetica, sans-serif" size="-1">Telephone: (973) 376-0005</font><br><p>&nbsp;</p>
+
+<p><font face="Arial, Helvetica, sans-serif"><b><font color="#000066">Modification 
+Date</font></b></font></p>
+<p> <font face="Arial, Helvetica, sans-serif">This privacy statement 
+was last modified on May 25, 2004.</font></p>
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody></table>
+
+        </div> <!-- Main div -->
+    </div> <!-- Contenet -->
+</div> <!-- overall -->
+<script language="javascript">
+    <!--
+    
+    //for (var i=0; i<1000; i++) {
+        //var bo = document.getElementById("centercolumn").offsetTop;
+        //alert(bo);
+
+        var bob = document.getElementById("centercolumn");
+        var bo = bob.offsetTop;
+        //alert(bo);
+        if (bo > 10) {
+            //alert("Crap - " + bo );
+            var oH = bob.offsetHeight;
+            bob.style.position = "absolute";
+            bob.style.top = "0px";
+            bob.style.left = "0px";
+            var bob2 = document.getElementById("leftcolumn");
+            var bob3 = document.getElementById("rightcolumn");
+            var bob4 = document.getElementById("content");
+            bob4.style.height='auto';
+            bob4.style.height=oH + 50;
+        }
+    //}
+    //document.write("<style> #footer { position: absolute; top: " + bo + "px;  }</style>");
+    
+    -->
+</script>
+<div id="footer">
+<table width="100%">
+    <tbody><tr>
+        <td align="center">
+            <a href="wiz_shipping.asp">Shipping Info</a> |
+            <a href="wiz_case.asp">Discount Policy</a> |
+            <a href="wiz_storepolicy.asp">Store Policy</a> |
+            <a href="wiz_directions.asp">Directions</a> |
+            <a href="mailto:info@winelibrary.com">info@winelibrary.com</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+            8 Millburn Ave | Springfield, NJ 07081 | 888-980-WINE (9463) 
+        </td>
+    </tr>
+    <tr>
+        <td align="center"> 
+            <a href="privacy.asp">Privacy Statement</a> | <a href="tos.asp">Terms of Service</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center"> 
+            Copyright © 2004 Wine Library.  All rights reserved. 
+        </td>
+    </tr>
+</tbody></table>
+</div>
+
+
+
+
+
+</body></html>
