@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207224049id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisegator.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401221232id_/http%3A//www.franchisegator.com/privacy.html) for the most accurate reproduction.*
 
 # Franchise and Business Opportunities for Entrepreneurs
 
@@ -30,8 +30,7 @@ If you would like to
 [contact us](https://web.archive.org/contact.html) or have questions about or [privacy policy](https://web.archive.org/privacy.html) please email us at [info@franchisegator.com](mailto:info@franchisegator.com).
 
 Franchise Gator, LLC  
-815 Gable Ridge Road  
-Suite 101  
+703 Macy Drive  
 Roswell, GA 30076
 
   
