@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604183139id_/http%3A//www.drugabuse.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208103925id_/http%3A//www.drugabuse.com/privacy) for the most accurate reproduction.*
 
 # drugabuse.com: DrugAbuse.com Privacy Policy
 
