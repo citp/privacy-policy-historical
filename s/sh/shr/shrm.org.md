@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032208id_/http%3A//www2.shrm.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shrm.org privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622085835id_/http%3A//www2.shrm.org/privacy) for the most accurate reproduction.*
 
 # SHRM Online Privacy Statement
 
@@ -141,3 +141,5 @@ This site makes bulletin boards, discussion lists, and moderated chats available
   3. **Tell your children: "Never talk to strangers!"** While SHRM Online does not include material directed to children, it's a good rule of thumb to teach children that they should not reveal their names or other personal information to anyone they encounter on the Internet. They should also be instructed not to fill out any forms or register at any website without your knowledge and consent. 
 
 
+
+**Privacy Policy Effective May, 2002**
