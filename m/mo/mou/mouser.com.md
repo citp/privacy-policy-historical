@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618162455id_/http%3A//www.mouser.com//index.cfm%3Fhandler%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouser.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204234227id_/http%3A//www.mouser.com/index.cfm%3Fhandler%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Mouser Electronics - Electronic Component Distributor
 
@@ -47,7 +47,7 @@ If you have any questions or comments concerning our privacy statement contact u
 
 * * *
 
-_What we do:_ 2002 Top rated **electronic components** and **parts distributor; vendor; manufacturer authorized reseller**. Products: **semiconductor, IC, LED, LCD, capacitor, resistor, inductor, transformer, potentiometer, connector, relay, switch, power supply, converter, test equipment**. 
+_What we do:_ 2002 Top rated electronic components and parts distributor; supplier; vendor; manufacturer authorized reseller. Products: semiconductor, IC, LED, LCD, capacitor, resistor, inductor, transformer, potentiometer, connector, relay, switch, power supply, converter, test equipment supplier. 
 
 Copyright © 1996 - 2003 Mouser Electronics, Inc. 
 
