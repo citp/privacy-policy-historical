@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604015229id_/http%3A//www2.osec.doc.gov/public.nsf/docs/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doc.gov privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202073213id_/http%3A//www.commerce.gov/privacystatement.html) for the most accurate reproduction.*
 
-# Privacy Statement - U.S. Department of Commerce
-
-  
-
-
-## Department of Commerce Web Site Privacy Statement
+# Department of Commerce Home Page - Commerce Privacy Statement
 
 Thank you for visiting the Department of Commerce web site, a service of the U.S. Department of Commerce. This policy establishes how we will handle information we learn about you from your visit to our site. Please be assured that the privacy of our visitors is of utmost importance to us. **We collect no personal information about you when you visit our site unless you choose to provide that information to us.**
 
@@ -25,12 +20,12 @@ Some of our web pages contain links to web sites outside the Department of Comme
 > 
 > We may store non-personally-identifying information we collect (such as search engine queries and anonymous survey responses) indefinitely to help us better understand and meet the needs of our visitors. We may share non-personally-identifying information with others, including the the public, in aggregated form (for instance, in a list of our most popular search engine queries), in partial or edited form (such as in a report summarizing responses to a questionnaire), or verbatim (for example, in a complete listing of survey responses).
 > 
-> Before collecting personally-identifying information, we will prominently disclose:
+> Before collecting personally-identifying information, we will prominently disclose: 
 > 
->   * why we are requesting the information;
->   * how it will be used;
->   * how long it may be retained; and
->   * under what conditions, and with whom, it may be shared.
+>   * why we are requesting the information; 
+>   * how it will be used; 
+>   * how long it may be retained; and 
+>   * under what conditions, and with whom, it may be shared. 
 > 
 
 > 
@@ -40,5 +35,7 @@ Some of our web pages contain links to web sites outside the Department of Comme
 
 We want to be very clear: **regardless of the information being transmitted to any unit of the Department of Commerce, we will protect all such information consistent with applicable law** including, but not limited to, the [Privacy Act of 1974 and the Freedom of Information Act](http://www4.law.cornell.edu/uscode/5/552.html). It is also the policy of the Department to follow the [Principles for Providing and Using Personal Information](http://www.iitf.nist.gov/ipc/ipc/ipc-pubs/niiprivprin_final.html) ("Privacy Principles"), published by the Information Infrastructure Task Force on June 6, 1995.
 
-|   
----|---
+  
+  
+[  
+](https://web.archive.org/web/20021202073213id_/http%3A//www.commerce.gov/bureau_acronyms.html)[](https://web.archive.org/web/20021202073213id_/http%3A//www.commerce.gov/bureau_acronyms.html)
