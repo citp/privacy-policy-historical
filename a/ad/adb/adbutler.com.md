@@ -1,15 +1,40 @@
-> *The following text is extracted and transformed from the adbutler.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330094500id_/http%3A//www.pollit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbutler.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205052806id_/http%3A//www.sparklit.com/privacy) for the most accurate reproduction.*
 
-# Pollit.com - Privacy Policy
+# Sparklit.com - Privacy Policy
 
+| |   
+---|---  
+[ Member Login](http://www.sparklit.com/commonlogin?)  
+[ Feature Request](http://www.sparklit.com/feature_request.spark?)  
+[ Feedback](http://www.sparklit.com/feedback.spark?)  
+[ Support Request](http://www.sparklit.com/support?)  
+[ Bug Report](http://www.sparklit.com/bug_report.spark?)  
+[ Featured Clients](http://www.sparklit.com/about/clients.spark?)  
+[ Our Network](http://www.sparklit.com/about/our_network?)  
+   
+  
+  
+---  
+ CORPORATE INFO  
+|   
+---|---  
+[ About Us](http://www.sparklit.com/about?)  
+[ Business Dev](http://www.sparklit.com/busdev?)  
+[ Contact Us](http://www.sparklit.com/contact?)  
+[ Press Room](http://www.sparklit.com/press?)  
+[ Privacy Policy](http://www.sparklit.com/privacy?)  
+   
+   
+   
+  
   
 |    
-**Pollit.com’s privacy policy**  
+**Sparklit.com’s privacy policy**  
   
 ---  
 |   
 ---  
- | Pollit.com recognizes your right to confidentiality and is committed to protecting your privacy. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. You can expect to be notified of:  
+ | Sparklit.com recognizes your right to confidentiality and is committed to protecting your privacy. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. You can expect to be notified of:  
      
 | |  |   
 ---  
@@ -34,7 +59,7 @@
 *   
 | How you can correct any inaccuracies in the information.  
 ---  
- | You should direct questions regarding this statement via e-mail to Privacy@Pollit.com.  
+ | You should direct questions regarding this statement via e-mail to Privacy@Sparklit.com.  
   
   
 ****Your personal information****  
@@ -59,7 +84,7 @@
 | We share general demographic information with advertisers and partners as aggregated information that cannot be used in any way to identify you.  
 ---  
 *   
-|  Pollit.com certifies that all personal information relating to its members and clients, including email addresses and personal information, will be kept confidential. We do not share, sell, rent or barter any identifiable personal information to any third party without your permission.  
+|  Sparklit.com certifies that all personal information relating to its members and clients, including email addresses and personal information, will be kept confidential. We do not share, sell, rent or barter any identifiable personal information to any third party without your permission.  
   
   
 ****Security****  
@@ -70,26 +95,26 @@
 ****Cookies****  
   
 ---  
- | To better serve you, we use "cookies" to reduce the time required to login. A cookie is a small amount of information sent from a Web server to your computer. We use cookies to retrieve certain information you previously provided to Pollit.com, so that you do not need to reenter this information every time you login into the members area. Additionaly we use cookies to prevent multiple votes on our Web Poll and Survey services (See the FAQ for more information). Cookies are not used to access information entered on the secure server; this information can only be accessed when you enter your name and password. No other company has access to our cookies. We do not use the cookie to track your Internet activity once you leave Pollit.com.  
+ | To better serve you, we use "cookies" to reduce the time required to login. A cookie is a small amount of information sent from a Web server to your computer. We use cookies to retrieve certain information you previously provided to Sparklit.com, so that you do not need to reenter this information every time you login into the members area. Additionaly we use cookies to prevent multiple votes on our Web Poll and Survey services (See the FAQ for more information). Cookies are not used to access information entered on the secure server; this information can only be accessed when you enter your name and password. No other company has access to our cookies. We do not use the cookie to track your Internet activity once you leave Sparklit.com.  
   
 ****Your choice/opt out****  
   
 ---  
- | Pollit.com provides you with the opportunity to remove your personal information from our database and opt out of receiving communications from us at any time. Login to the members section and delete any products that you have signed for (See FAQ for more information).  
+ | Sparklit.com provides you with the opportunity to remove your personal information from our database and opt out of receiving communications from us at any time. Login to the members section and delete any products that you have signed for (See FAQ for more information).  
 ---  
- | Pollit.com provides you with the opportunity to update or change any information you previously provided. Please login to the members area and make your changes (See FAQ for more information).  
+ | Sparklit.com provides you with the opportunity to update or change any information you previously provided. Please login to the members area and make your changes (See FAQ for more information).  
   
 ****Your consent****  
   
 ---  
- | By using our Web site, you consent to Pollit.com collecting and using this information as outlined here. If we ever change our privacy policy, we will post any changes on this page so you are always aware of the information we collect, how we use it and under what circumstances we disclose it.  
+ | By using our Web site, you consent to Sparklit.com collecting and using this information as outlined here. If we ever change our privacy policy, we will post any changes on this page so you are always aware of the information we collect, how we use it and under what circumstances we disclose it.  
   
-****3rd party sites that Pollit.com works with****  
+****3rd party sites that Sparklit.com works with****  
   
 ---  
- | Pollit.com - works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.   
+ | Sparklit.com - works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.   
   
 ****Your comments/how to reach us****  
   
 ---  
- | If you have questions or comments about Pollit.com’s privacy policy, please feel free to contact us via e-mail at privacy@pollit.com
+ | If you have questions or comments about Sparklit.com’s privacy policy, please feel free to contact us via e-mail at privacy@sparklit.com
