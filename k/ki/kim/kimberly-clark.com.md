@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kimberly-clark.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217043500id_/http%3A//www.kimberly-clark.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kimberly-clark.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409014528id_/http%3A//www.kimberly-clark.com/privacy.asp) for the most accurate reproduction.*
 
 # Kimberly-Clark: Legal Statement
 
