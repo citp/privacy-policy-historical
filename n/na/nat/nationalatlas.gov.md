@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401114737id_/http%3A//nationalatlas.gov/disclaimers.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalatlas.gov privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207050917id_/http%3A//nationalatlas.gov/disclaimers.html) for the most accurate reproduction.*
 
 # Notices and Disclaimers - National Atlas of the United States
 
