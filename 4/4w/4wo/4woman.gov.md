@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4woman.gov privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602204021id_/http%3A//www.4woman.gov/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4woman.gov privacy policy that was archived on 2002-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020815062625id_/http%3A//www.4woman.gov/about/privacy.htm) for the most accurate reproduction.*
 
 # NWHIC's Privacy Policy
 
@@ -34,6 +34,8 @@
 >> You do not have to give us personal information to use this web site. 
 >> 
 >> If you choose to provide us with information about yourself through an e-mail message, form, survey, etc., we will only maintain the information as long as needed to respond to your question or to fulfill the stated purpose of the communication. 
+>> 
+>> If you use our contact form, we will send an automated confirmation e-mail to the address you provide.
 > 
 > ### Disclosure: 
 >
