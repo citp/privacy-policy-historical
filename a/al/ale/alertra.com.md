@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621100519id_/http%3A//www.alertra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alertra.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208191755id_/http%3A//alertra.com/privacy.php) for the most accurate reproduction.*
 
 # Alertra Web Site Monitoring
-
-Privacy >
 
 **Privacy Statement**
 
@@ -33,3 +31,6 @@ When you log in to your account we send your browser one cookie containing a ses
 
 **External Links**  
 This site contains links to other sites. Alertra, Inc. is not responsible for the privacy practices or the content of such web sites. 
+
+  
+
