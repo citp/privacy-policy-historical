@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-n.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609154421id_/http%3A//www.the-n.com/footerPage.php%3Fipv_sectionID%3D46%26ipv_articleID%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-n.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604093631id_/http%3A//www.the-n.com/footerPage.php%3Fipv_sectionID%3D46%26ipv_articleID%3D53) for the most accurate reproduction.*
 
 # The N: Privacy Policy
 
