@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204111602id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403212857id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
 # DVD Recorders at Shop 4 Tech: DVD Media, Cell Phone Accessories, Printer Ink, Ink Cartridges
 
@@ -48,9 +48,9 @@ This site gives users the following options for removing their information from 
   * You can [click here](http://www.shop4tech.com/user.htm?go=remove) to unsubscribe
   * You can send mail to the following postal address:   
 _Leda Multimedia Inc (Optout)  
-5185 Cliffwood Dr.   
+4664 Mission Blvd   
 Montclair CA 91763_
-  * You can call the following telephone number: 1-866-907-3626
+  * You can call the following telephone number: 1-909-590-5490
 
 
 
@@ -59,7 +59,7 @@ Montclair CA 91763_
   * email [support@shop4tech.com ](mailto:%20support@shop4tech.com)
   * send mail to the following postal address:   
 _Leda Multimedia Inc (Optout)  
-5185 Cliffwood Dr.   
+4664 Mission Blvd   
 Montclair CA 91763_
 
 
@@ -70,7 +70,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 _Damon Nguyen  
 Leda Multimedia Inc   
-5185 Cliffwood Dr.   
+4664 Mission Blvd   
 Montclair CA 91763_   
 [webmaster@shop4tech.com ](mailto:%20webmaster@shop4tech.com)
 
