@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the businessfinancemag.com privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609204750id_/http%3A//www.businessfinancemag.com/about/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessfinancemag.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205110500id_/http%3A//www.businessfinancemag.com/about/privacypolicy.htm) for the most accurate reproduction.*
 
 # Duke Communications International Privacy Statement
 
-Duke Communications International (DCI), doing business as _Business Finance_ , strives to protect the privacy of all information provided by users at the _Business Finance_ Web site (http://www.businessfinancemag.com) and our other related Web sites (hereinafter referred to as "the Web sites").
+Duke Communications International (DCI) is a subsidiary of [Penton Media](http://www.penton.com/) (see the [corporate privacy statement for Penton Media](http://www.penton.com/privacy.html)). DCI, doing business as _Business Finance_ , strives to protect the privacy of all information provided by users at the _Business Finance_ Web site (http://www.businessfinancemag.com) and our other related Web sites (hereinafter referred to as "the Web sites").
 
 The Web sites are maintained by
 
