@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2003-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031214004823id_/http%3A//www.deshigreetings.com/privacy_polcy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621114341id_/http%3A//www.deshigreetings.com/privacy_polcy.htm) for the most accurate reproduction.*
 
 # >>>DeshiGreetings.Com<<<
 
