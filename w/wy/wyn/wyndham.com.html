@@ -1,898 +1,318 @@
-<!--The following is the downloaded HTML source of the wyndham.com privacy policy that was archived on 2001-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011216204237id_/http%3A//www.wyndham.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wyndham.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605074926id_/http%3A//www.wyndham.com/privacy_policy/default.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-	<title>Wyndham Hotels and Resorts - Privacy</title>
-	<link rel="stylesheet" type="text/css" href="/wincludes/default.css">
-	
+  <title>Wyndham Hotels &amp; Resorts - Privacy Policy</title>
+  <meta content="text/html; charset=windows-1252" http-equiv="Content-Type">
+  <link href="scripts/wyndham.css" rel="stylesheet" type="text/css">
+  <script language="JavaScript" src="scripts/common.js"></script>
+  <script language="JavaScript" src="scripts/error.js"></script>
 
-<script language="javascript">
-<!--
-var currentMenuChoice = 0
-var newPage = 0
-var lastMenuChoice = 100
-var lastLayerChoice = 100
-
-var isNS4 = (navigator.appName == "Netscape" && parseInt(navigator.appVersion) == 4 );
-var isIE5 = (navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) < 6 );
-
-// gParam sets a global variable for the purpose of showing or hidding the mainnav "on" layer while the mouse is over the respective subnav element
-var gParam = null;
-
-if ( (navigator.userAgent == "Opera") && (parseFloat(navigator.appVersion) < 3.5) )
-	{
-		location.href = "/oldbrowser.asp";
-	}
-
-if ( (navigator.userAgent == "Netscape" || "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) < 4 ) )
-	{
-		location.href = "/oldbrowser.asp";
-	}
-	
-var isNS4 = (navigator.appName == "Netscape" && parseInt(navigator.appVersion) == 4 );
-var isIE5 = (navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) < 6 );
-
-function WatchTheMouse()
-{
-/*
- NOTE: This watch the mouse function kept the same name as a version 1 function so we don't have to change the name
- of the function on every page in the Wyndham site.  This function shows the default submenu.
-*/
-	if (isNS4)
-	{
-		document.layers["submenu" + lastLayerChoice].visibility = "visible";
-		document.layers["lay" + lastMenuChoice + "on"].visibility = "visible";
-		document.layers["undernav"].captureEvents(Event.MOUSEOVER);
-		document.layers["undernav"].onMouseOver = RemoveDefault;		
-		document.layers["MenuHead1"].captureEvents(Event.MOUSEOVER);		
-		document.layers["MenuHead1"].onMouseOver = RemoveDefault;
-		document.layers["MenuHead2"].captureEvents(Event.MOUSEOVER);		
-		document.layers["MenuHead2"].onMouseOver = RemoveDefault;
-		document.layers["MenuHead3"].captureEvents(Event.MOUSEOVER);		
-		document.layers["MenuHead3"].onMouseOver = RemoveDefault;
-		document.layers["MenuHead4"].captureEvents(Event.MOUSEOVER);				 
-		document.layers["MenuHead4"].onMouseOver = RemoveDefault;
-		/*turn off clear layer that covers navigation.  The clear layer keeps users from 
-		** clicking before everything loads on the page.
-		*/
-		document.layers.laycover.visibility = "hidden";
-	}
-	else if (isIE5)
-	{
-		eval("submenu" +  lastLayerChoice + ".style.visibility = 'visible'");
-		eval("lay" + lastMenuChoice + "on" + ".style.visibility = 'visible'");
-		eval("undernav.onmouseover = RemoveDefault");
-		eval("MenuHead1.onmouseover = RemoveDefault");
-		eval("MenuHead2.onmouseover = RemoveDefault");
-		eval("MenuHead3.onmouseover = RemoveDefault");
-		eval("MenuHead4.onmouseover = RemoveDefault");
-		/*turn off clear layer that covers navigation.  The clear layer keeps users from 
-		** clicking before everything loads on the page.
-		*/
-		document.all.laycover.style.visibility = "hidden";
-	}
-	else
-	{
-		document.getElementById("submenu" + lastLayerChoice).style.visibility = "visible";
-		document.getElementById("lay" + lastLayerChoice + "on").style.visibility = "visible";
-		document.getElementById("undernav").addEventListener("mouseover",RemoveDefault, false);
-		document.getElementById("MenuHead1").addEventListener("mouseover",RemoveDefault, false);
-		document.getElementById("MenuHead2").addEventListener("mouseover",RemoveDefault, false);
-		document.getElementById("MenuHead3").addEventListener("mouseover",RemoveDefault, false);
-		document.getElementById("MenuHead4").addEventListener("mouseover",RemoveDefault, false);
-		/*turn off clear layer that covers navigation.  The clear layer keeps users from 
-		** clicking before everything loads on the page.
-		*/
-		document.getElementById("laycover").style.visibility = "hidden";
-	}
-	
-}
-
-function ShowDefault()
-{
-	if (isNS4)
-	{
-		document.layers["submenu" + lastLayerChoice].visibility = "visible";
-		document.layers["lay" + lastMenuChoice + "on"].visibility = "visible";
-	}
-	else if (isIE5)
-	{
-		eval("submenu" +  lastLayerChoice + ".style.visibility = 'visible'");
-		eval("lay" + lastMenuChoice + "on" + ".style.visibility = 'visible'");
-	}
-	else
-	{
-		document.getElementById("submenu" + lastLayerChoice).style.visibility = "visible";
-		document.getElementById("lay" + lastMenuChoice + "on").style.visibility = "visible";
-	}
-}
-
-function RemoveDefault()
-{
- /*NOTE: This function turns the default menu item off when the mouseout for the main nav it called when you
- are trying to turn on a sub navigation menu.*/
-	if (isNS4)
-	{
-	document.layers["submenu" + lastLayerChoice].visibility = "hidden";
-	document.layers["lay" + lastMenuChoice + "on"].visibility = "hidden";
-	}
-	else if (isIE5)
-	{
-	eval("submenu" +  lastLayerChoice + ".style.visibility = 'hidden'");
-	eval("lay" + lastMenuChoice + "on" + ".style.visibility = 'hidden'");
-	}
-	else
-	{
-	document.getElementById("submenu" + lastLayerChoice).style.visibility = "hidden";
-	document.getElementById("lay" + lastMenuChoice + "on").style.visibility = "hidden";
-	}
-}
-
-
-function showSubNav(param,param1)
-{
-	var whichlayershow;
-	if(param == lastMenuChoice)
-	{
-	whichlayershow = lastLayerChoice;
-	}
-	else
-	{
-	whichlayershow = param;
-	}
-/**/	
-RemoveDefault();
-/**/
-	if (isNS4)
-	{
-		document.layers["lay" + param + "on"].visibility = "visible";
-		document.layers["submenu" + whichlayershow].visibility = "visible";
-	}	
-	else if (isIE5)
-	{
-		eval("submenu" + lastLayerChoice + ".style.visibility = 'hidden'");
-		eval("lay" + param + "on" + ".style.visibility = 'visible'");
-		eval("submenu" + whichlayershow + ".style.visibility = 'visible'");
-	}
-	else
-	{
-		document.getElementById("lay" + param + "on").style.visibility = "visible";
-		document.getElementById("submenu" + whichlayershow).style.visibility = "visible";
-	}
-	gParam = param;
-}
-
-
-
-function hideSubNav(param,param1)
-{
-/*
-    1. Hide the visible sublayer. This is done in case the user moves the mouse off the main nav element without rolling onto the respective subnav element. 
-	2. Capture the onMouseOver and onMouseOut events for the sublayer that has been passed in as "param". 
-	3. Pass the captured events to the showSubLayer() and hideSubLayer() functions. 
-*/
-var whichlayerhide
-if(param == lastMenuChoice)
-{
-whichlayerhide = lastLayerChoice;
-}
-else
-{
-whichlayerhide = param;
-}
-
-	if(param != lastMenuChoice)
-	//checks to see if this is the default menu item.
-	{	
-		if(isNS4)
-		{
-			document.layers["submenu" + param].visibility = "hidden";
-			document.layers["lay" + gParam + "on"].visibility = "hidden";
-			document.layers["submenu" + whichlayerhide].captureEvents(Event.MOUSEOVER | Event.MOUSEOUT);		
-			document.layers["submenu" + whichlayerhide].onMouseOver = showSubLayer;
-			document.layers["submenu" + whichlayerhide].onMouseOut = hideSubLayer;		
-		}
-		else if (isIE5)
-		{
-			eval("submenu" +  param + ".style.visibility = 'hidden'");
-			eval("lay" + gParam + "on" + ".style.visibility = 'hidden'");
-			eval("submenu" +  whichlayerhide + ".onmouseover = showSubLayer");
-			eval("submenu" +  whichlayerhide + ".onmouseout = hideSubLayer");
-		}	
-		else
-		{
-			document.getElementById("submenu" + param).style.visibility = "hidden";
-			document.getElementById("lay" + gParam + "on").style.visibility = "hidden";
-			document.getElementById("submenu" + whichlayerhide).addEventListener("mouseover",showSubLayer, false);		
-			document.getElementById("submenu" + whichlayerhide).addEventListener("mouseout",hideSubLayer, false);
-		}
-	/**/		
-	ShowDefault();
-	/**/	
-	}
-}
-
-function showSubLayer(evnt)
-{
-RemoveDefault();
-	if(isNS4)
-	{	
-		this.visibility = "visible";	
-		document.layers["lay" + gParam + "on"].visibility = "visible";								
-	}
-	else if(isIE5)
-	{
-		this.style.visibility = "visible";
-		eval("lay" + gParam + "on" + ".style.visibility = 'visible'");
-		
-	}
-	else
-	{
-		this.style.visibility = "visible";
-		document.getElementById("lay" + gParam + "on").style.visibility = "visible";
-	}
-}				
-
-function hideSubLayer(evnt)
-{
-	if(isNS4)
-	{
-		if(evnt.target == this)  this.visibility = "hidden";
-		document.layers["lay" + gParam + "on"].visibility = "hidden";	
-	}		
-	else if(isIE5)
-	{
-		var toTagName = window.event.toElement.tagName.toUpperCase();
-		if(toTagName == "BODY" || toTagName == "DIV") this.style.visibility = "hidden";
-		eval("lay" + gParam + "on" + ".style.visibility = 'hidden'");
-		
-	}	
-	else
-	{
-		if(evnt.id == this)  this.visibility = "hidden";
-		document.getElementById("lay" + gParam + "on").style.visibility = "hidden";
-	}
-	/**/	
-	ShowDefault();
-	/**/	
-}
-
-function openWin(url) 
-{
-	//showIt = window.open(url,"details","width=400,height=400,scrollbars=yes,location=no,toolbar=no,status=no,resizable=yes,screenX=400px,screenY=50px");
-	showIt = window.open(url,"HistoricHotels","width=400px,height=435px,vscroll=yes,scrollbars=yes,location=no,toolbar=no,resizable=yes,screenX=400px,screenY=50px");
-}
-
-function openSampleWin(url) 
-{
-	showIt = window.open(url,"TheWyndhamWay","width=840px,height=640px,scrollbars=yes,location=no,toolbar=no,resizable=no,screenX=200px,screenY=75px");
-}
-	
-if (isNS4) 
-{
-	window.onResize = resizeIt;
-	window.saveOuterHeight = window.outerHeight;
-	window.saveInnerHeight = window.innerHeight;
-	window.saveOuterWidth = window.outerWidth;
-	window.saveInnerWidth = window.innerWidth;
-	
-	function resizeIt() 
-	{
-	    if (saveOuterWidth < window.outerWidth ||
-	        saveOuterWidth > window.outerWidth ||
-	        saveOuterHeight > window.outerHeight ||
-	        saveOuterHeight < window.outerHeight )
-	    {
-			location.reload();
-		}
-	}
-}
-
-function getObj(obj) 
-{
-	
-	if (NS) 
-	{
-		navLayer = document.layers[obj]
-	}
-	
-	else 
-	{	
-		navLayer = eval("document.all." + obj + ".style")	
-	}
-	
-	return navLayer
-}
-
-function show(layer) 
-{	
-	obj = getObj(layer)
-	obj.visibility = "visible"
-}
-
-function hide(layer) 
-{	
-	obj = getObj(layer)
-	obj.visibility = "hidden"
-}
-
-//-->
-</script>
+  <meta content="MSHTML 5.00.2920.0" name="GENERATOR">
 </head>
 
 
-
-<body leftmargin="0" topmargin="0" marginleft="0" margintop="0" onload="WatchTheMouse()">
-
-<div id="laycover" style="visibility: hidden;"><img src="/wimages/spacerclear.gif" width="200" height="600" alt="" border="0"></div>
-
-<script language="javascript">
+<body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
 <!--
-	
-	function switchSubs(From, To, Curr, Top) 
-	{
-		for (i=From; i<=To; i++)
-		{
-			hide("submenu" + Top);
-			hide("submenu" + i); 
+  --Recognized ByRequest Members, who are NOT signed in should be served header_r.inc;  when they sign in, they should be served header_in.inc.
+  --Recognized ByRequest Members, who are corporate and are
+  NOT signed in should be served header_r_corp.inc; when they sign in, they should be
+  served header_in_corp.
+  --Visitors should be served header_nr.inc; when nonrecognized ByRequest members sign in,
+  they should be served header_in.inc.
+  --><!-- HEADER TABLE -->
+<script language="JavaScript" type="text/javascript">
+<!--
+// setting focus on the first item that was invalid on the form
+var focusItemGS = "";
+var bgColorArrayGS = new Array(); // array for changing background color of invalid items
+var arrayCounterGS = 0;
+
+function setFocusGS(itemGS) {
+	if (focusItemGS == "") focusItemGS = itemGS;
+}
+// Begin form validation
+function validateSearchForm(form)	{
+	if ((document.getElementById) || (document.all)) {
+		for (var loop=0; loop < bgColorArrayGS.length; loop++) {
+			var path = eval("document.headerSearch." + bgColorArrayGS[loop] + ".style");
+			path.backgroundColor = '#FFFFFF';
 		}
-		
-		show("submenu" + Curr);
+		for (var loop=0; loop < bgColorArrayGS.length; loop++) {
+			bgColorArrayGS[loop] = "";
+		}
 	}
 
-//-->	
+
+		var output = "";
+
+		if (!validateAlphaNum(form.searchWord.value,1,30)) {
+				output += "* Search word or phrase\n";
+				setFocusGS(form.searchWord);
+				if ((document.getElementById) || (document.all)) {
+					bgColorArrayGS[arrayCounterGS] = "searchWord";
+					arrayCounterGS += 1;
+				}
+			}
+
+		//final validation error message
+		if (output != "")
+			{
+				alert("The following information was missing or incorrect:\n\n"+output);
+				focusItemGS.focus();
+				focusItemGS = "";
+				if ((document.getElementById) || (document.all)) {
+					bgColorArrayGS.length = arrayCounterGS;
+					arrayCounterGS = 0;
+
+					//loop through to change background color of incorrect items
+					for (var loop=0; loop < bgColorArrayGS.length; loop++) {
+						var path = eval("document.headerSearch." + bgColorArrayGS[loop] + ".style");
+						path.backgroundColor = '#FFFFCC';
+					}
+				}
+				return false;
+			}
+
+		return true;
+	}
+//  End form validation
+// -->
 </script>
 
-
-<!-- ------------------------------------- Navigation Layers ------------------------------------------- -->
-
-
-
-<!-- ----------------------------------- About Wyndham ----------------------------------------------- -->
-
-
-
-<div id="submenu11">
-<table width="196" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="top" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="142"><span class="nav"><a href="http://www.wyndham.com/AboutWyndham/amenities.cfm" class="brownnav">Wyndham Amenities</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/wired.cfm" class="brownnav">Wyndham Wired</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/travel_partners.cfm" class="brownnav">Travel Partners</a></span><br>
-
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-
-<div id="submenu22">
-<table width="212" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="158"><span class="nav"><a href="http://www.wyndham.com/AboutWyndham/amenities.cfm" class="brownnav">Wyndham Amenities</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/AboutWyndham/room_performs.cfm" class="blue">The Room That<br><img src="/wimages/spacer.gif" width="40" height="1" border="0" alt="">Performs</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/AboutWyndham/room_service.cfm" class="blue">In-Room Dining</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/AboutWyndham/restaurants.cfm" class="blue">Signature Restaurants</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/wired.cfm" class="brownnav">Wyndham Wired</a></span><br>
-
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/travel_partners.cfm" class="brownnav">Travel Partners</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/e_magazine.cfm" class="brownnav">Wyndham's e-Magazine</a></span><br>
-
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-
-<div id="submenu21">
-<table width="230" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="158"><span class="nav"><a href="http://www.wyndham.com/AboutWyndham/amenities.cfm" class="brownnav">Wyndham Amenities</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/wired.cfm" class="brownnav">Wyndham Wired</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/brands.cfm" class="brownnav">Wyndham Brands</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/AboutWyndham/resorts.cfm" class="blue">Resorts</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/AboutWyndham/hotels.cfm" class="blue">Hotels</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/AboutWyndham/historic_hotels.cfm" class="blue">Historic Hotels</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/AboutWyndham/garden.cfm" class="blue">Garden Hotels</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/AboutWyndham/luxury.cfm" class="blue">Luxury Resorts</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/AboutWyndham/summerfield.cfm" class="blue">Summerfield Suites</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/travel_partners.cfm" class="brownnav">Travel Partners</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/e_magazine.cfm" class="brownnav">Wyndham's e-Magazine</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/by_request.cfm" class="brownnav">Wyndham ByRequest</a></span><br>
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-
-<div id="submenu23">
-<table width="212" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="158"><span class="nav"><a href="http://www.wyndham.com/AboutWyndham/amenities.cfm" class="brownnav">Wyndham Amenities</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/wired.cfm" class="brownnav">Wyndham Wired</a></span><br>
-
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/travel_partners.cfm" class="brownnav">Travel Partners</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/AboutWyndham/airline_partners.cfm" class="blue">Airline Partners</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/AboutWyndham/other_partners.cfm" class="blue">Other Travel Partners</a></span><br>				
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/e_magazine.cfm" class="brownnav">Wyndham's e-Magazine</a></span><br>
-
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-<div id="submenu21">
-<table width="230" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="158"><span class="nav"><a href="http://www.wyndham.com/AboutWyndham/amenities.cfm" class="brownnav">Wyndham Amenities</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/wired.cfm" class="brownnav">Wyndham Wired</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/brands.cfm" class="brownnav">Wyndham Brands</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/travel_partners.cfm" class="brownnav">Travel Partners</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/e_magazine.cfm" class="brownnav">Wyndham's e-Magazine</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="#" onclick="openSampleWin('e_magazine_sample.cfm');" class="blue">Sample Issue</a></span><br>				
-				<span class="nav"><a href="http://www.wyndham.com/AboutWyndham/by_request.cfm" class="brownnav">Wyndham ByRequest</a></span><br>
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-
-<!-- ------------------------- Specials and Deals  ------------------------------------------ -->
-
-
-
-
-<div id="submenu24">
-<table width="212" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="154"><span class="nav"><a href="http://www.wyndham.com/Specials_Deals/weekend_deals.cfm" class="brownnav">Weekend Deals</a></span><br>
-
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/Specials_Deals/weekend_escape.cfm" class="blue">50/50 Weekend Escape</a></span><br>								
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/resort_offers.cfm" class="brownnav">Resort Offers</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/vacations.cfm" class="brownnav">Wyndham Vacations</a></span><br>				
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/seasonal_specials.cfm" class="brownnav">Seasonal Specials</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/miles.cfm" class="brownnav">Wyndham Miles</a></span><br>
-
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-
-<div id="submenu25">
-<table width="212" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="154"><span class="nav"><a href="http://www.wyndham.com/Specials_Deals/weekend_deals.cfm" class="brownnav">Weekend Deals</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/resort_offers.cfm" class="brownnav">Resort Offers</a></span><br>
-
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/vacations.cfm" class="brownnav">Wyndham Vacations</a></span><br>				
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/seasonal_specials.cfm" class="brownnav">Seasonal Specials</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/miles.cfm" class="brownnav">Wyndham Miles</a></span><br>
-
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-
-<div id="submenu12">
-<table width="200" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="top" width="44"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="156">
-				<span class="nav"><a href="http://www.wyndham.com/corporate/investor.cfm" class="brownnav">Investor Information</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/corporate/Corporate_Strategy.cfm" class="brownnav">Corporate Strategy</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/corporate/franchise.cfm" class="brownnav">Franchise Opportunities</a></span><br>				
-				<span class="nav"><a href="http://www.wyndham.com/corporate/news.cfm" class="brownnav">Wyndham News</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/corporate/corporatecontacts.cfm" class="brownnav">Corporate Contacts</a></span><br>
-
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-
-<div id="submenu14">
-<table width="212" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="154"><span class="nav"><a href="http://www.wyndham.com/Specials_Deals/weekend_deals.cfm" class="brownnav">Weekend Deals</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/resort_offers.cfm" class="brownnav">Resort Offers</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/vacations.cfm" class="brownnav">Wyndham Vacations</a></span><br>				
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/seasonal_specials.cfm" class="brownnav">Seasonal Specials</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/Specials_Deals/memories2001.cfm" class="blue">Vacations ByRequest</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/Specials_Deals/miles.cfm" class="brownnav">Wyndham Miles</a></span><br>
-
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-
- <!-- ------------------------------------------- Resorts ------------------------------------------ -->
-
-
-<div id="submenu21">
-<table width="211" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="163">
-				<span class="nav" align="left"><a href="http://www.wyndham.com/ArubaResort/default.cfm" class="brownnav">Aruba</a></span><br>
-				<span class="nav" align="left"><a href="http://www.wyndham.com/colorado_resorts.cfm" class="brownnav">Colorado</a></span><br>				
-				<span class="nav" align="left"><a href="http://www.wyndham.com/florida_resorts.cfm" class="brownnav">Florida</a></span><br>
-				<span class="nav" align="left"><a href="http://www.wyndham.com/RoseHallResort/default.cfm" class="brownnav">Jamaica</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MyrtleBeachResort/default.cfm" class="brownnav">Myrtle Beach</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/puertorico_resorts.cfm" class="brownnav">Puerto Rico</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MorganBayResort/default.cfm" class="brownnav">St. Lucia</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/SugarBayResort/default.cfm" class="brownnav">St. Thomas</a></span><br>
-				<span class="nav" align="left"><a href="http://www.wyndham.com/luxury_resorts.cfm" class="brownnav">Luxury Resorts</a></span><br>
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-<div id="submenu15">
-<table width="212" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="163">
-				<span class="nav"><a href="http://www.wyndham.com/ArubaResort/default.cfm" class="brownnav">Aruba</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/colorado_resorts.cfm" class="brownnav">Colorado</a></span><br>	
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/LodgeResort/default.cfm" class="blue">Wyndham Mountain<br><img src="/wimages/spacer.gif" width="30" height="1" border="0" alt="">Lodge</a></span><br>			
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/PeaksResort/default.cfm" class="blue">Wyndham Peaks Resort<br><img src="/wimages/spacer.gif" width="30" height="1" border="0" alt="">&amp; Golden Door Spa</a></span><br>		
-						
-				<span class="nav"><a href="http://www.wyndham.com/florida_resorts.cfm" class="brownnav">Florida</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/RoseHallResort/default.cfm" class="brownnav">Jamaica</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MyrtleBeachResort/default.cfm" class="brownnav">Myrtle Beach</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/puertorico_resorts.cfm" class="brownnav">Puerto Rico</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MorganBayResort/default.cfm" class="brownnav">St. Lucia</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/SugarBayResort/default.cfm" class="brownnav">St. Thomas</a></span><br>
-				<span class="nav" align="left"><a href="http://www.wyndham.com/luxury_resorts.cfm" class="brownnav">Luxury Resorts</a></span><br>				
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-<div id="submenu16">
-<table width="212" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="163">
-				<span class="nav"><a href="http://www.wyndham.com/ArubaResort/default.cfm" class="brownnav">Aruba</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/colorado_resorts.cfm" class="brownnav">Colorado</a></span><br>				
-				<span class="nav"><a href="http://www.wyndham.com/florida_resorts.cfm" class="brownnav">Florida</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/PalaceResort/default.cfm" class="blue">Wyndham Palace</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/MiamiBeachResort/default.cfm" class="blue">Wyndham Miami</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/Bonaventure/default.cfm" class="blue">Wyndham<br><img src="/wimages/spacer.gif" width="30" height="1" border="0" alt="">Bonaventure</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/CasaMarinaResort/default.cfm" class="blue">Wyndham<br><img src="/wimages/spacer.gif" width="30" height="1" border="0" alt="">Casa Marina</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/OrlandoResort/default.cfm" class="blue">Wyndham Orlando</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/ReachResort/default.cfm" class="blue">Wyndham Reach</a></span><br>				
-				<span class="nav"><a href="http://www.wyndham.com/RoseHallResort/default.cfm" class="brownnav">Jamaica</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MyrtleBeachResort/default.cfm" class="brownnav">Myrtle Beach</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/puertorico_resorts.cfm" class="brownnav">Puerto Rico</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MorganBayResort/default.cfm" class="brownnav">St. Lucia</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/SugarBayResort/default.cfm" class="brownnav">St. Thomas</a></span><br>
-
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-
-<div id="submenu17">
-<table width="212" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="163">
-				<span class="nav"><a href="http://www.wyndham.com/ArubaResort/default.cfm" class="brownnav">Aruba</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/colorado_resorts.cfm" class="brownnav">Colorado</a></span><br>				
-				<span class="nav"><a href="http://www.wyndham.com/florida_resorts.cfm" class="brownnav">Florida</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/RoseHallResort/default.cfm" class="brownnav">Jamaica</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MyrtleBeachResort/default.cfm" class="brownnav">Myrtle Beach</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/puertorico_resorts.cfm" class="brownnav">Puerto Rico</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/ELConquistadorResort/default.cfm" class="blue">Wyndham<br><img src="/wimages/spacer.gif" width="30" height="1" border="0" alt="">El Conquistador</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/ELSanJuanResort/default.cfm" class="blue">Wyndham<br><img src="/wimages/spacer.gif" width="30" height="1" border="0" alt="">El San Juan</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MorganBayResort/default.cfm" class="brownnav">St. Lucia</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/SugarBayResort/default.cfm" class="brownnav">St. Thomas</a></span><br>
-
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-
-
-
-
-<!-- ---------------------------------- Meetings and Weddings --------------------------------------- -->
-
-
-<div id="submenu6">
-<table width="204" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="156">
-		<span class="nav"><a href="http://www.planitonline.com/contact.taf?client_id=wynd" class="brownnav" target="blank">Request a Proposal</a></span><br> 
-		<span class="nav"><a href="http://wyndham.mpoint.com/global/search/facsearch.asp" class="brownnav" target="blank">Meeting Facility Search</a></span><br>
-
-
-
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/value_dates.cfm" class="brownnav">Value Dates</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/wyndham_meetings.cfm" class="brownnav">Wyndham Meetings</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/meeting_rewards.cfm" class="brownnav">Meeting Rewards</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/weddings_socials.cfm" class="brownnav">Weddings &amp; Social Events</a></span><br>
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-<div id="submenu18">
-<table width="200" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="156">
-		<span class="nav"><a href="http://www.planitonline.com/contact.taf?client_id=wynd" class="brownnav" target="blank">Request a Proposal</a></span><br> 
-		<span class="nav"><a href="http://wyndham.mpoint.com/global/search/facsearch.asp" class="brownnav" target="blank">Meeting Facility Search</a></span><br>
-
- 
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/value_dates.cfm" class="brownnav">Value Dates</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/wyndham_meetings.cfm" class="brownnav">Wyndham Meetings</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/meeting_rewards.cfm" class="brownnav">Meeting Rewards</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/weddings_socials.cfm" class="brownnav">Weddings &amp; Social Events</a></span><br>
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-<div id="submenu19">
-<table width="200" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="156">
-		<span class="nav"><a href="http://www.planitonline.com/contact.taf?client_id=wynd" class="brownnav" target="blank">Request a Proposal</a></span><br> 
-		<span class="nav"><a href="http://wyndham.mpoint.com/global/search/facsearch.asp" class="brownnav" target="blank">Meeting Facility Search</a></span><br>
-
-
-
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/value_dates.cfm" class="brownnav">Value Dates</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/wyndham_meetings.cfm" class="brownnav">Wyndham Meetings</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/meeting_rewards.cfm" class="brownnav">Meeting Rewards</a></span><br>
-				<span class="nav"><a href="http://www.wyndham.com/MeetingsAndWeddings/weddings_socials.cfm" class="brownnav">Weddings &amp; Social Events</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/MeetingsAndWeddings/social_events.cfm" class="blue">Social Events</a></span><br>
-				<span class="nav1"><img src="/wimages/spacer.gif" width="15" height="1" border="0" alt=""><a href="http://www.wyndham.com/MeetingsAndWeddings/Weddings.cfm" class="blue">Weddings at Wyndham</a></span><br>
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-<!-- ---------------------------------------- Rates and Reservations ---------------------------------------- -->
-
-
-<div id="submenu0">
-<table width="191" border="0" cellspacing="3" cellpadding="0">
-	<tbody><tr>
-		<td align="left" valign="middle" width="45"><img src="/wimages/nav_roll_bar.gif" width="45" height="55" border="0" alt=""></td>
-		<td align="left" width="143">
-		
-
-		
-	
-			
-				
-				
-				
-				
-				
-		
-			
-				
-				
-				
-				
-				
-		
-			
-				
-				
-				
-				
-				
-		
-	
-		
-		
-		
-		
-		
-	
-
-
-	
-	<span class="nav"><a href="http://www.wyndham.com/Rates_Reservations/make_reservation.cfm" class="brownnav">Make A Reservation</a></span><br>
-	<span class="nav"><a href="http://www.wyndham.com/Rates_Reservations/check_availability.cfm" class="brownnav">Check Availability</a></span><br>
-	  
-	<span class="nav"><a href="https://wynres.wyndham.com/pls/wbe/html_ui_search.resv?ref=12162001023849&amp;cha=WYNDHAM&amp;usr=&amp;gue=" class="brownnav">Cancel Reservation</a></span><br>
-	
-
-	<span class="nav"><a href="http://www.wyndham.com/Rates_Reservations/aircar_reservations.cfm" class="brownnav">Air &amp; Car Reservations</a></span><br>
-
-		</td>
-	</tr>
-</tbody></table>
-</div>
-
-<div id="submenu100" style="visibility: visible;"><img src="/wimages/spacer.gif" width="1" height="1" border="0" alt=""></div>
-<div id="submenu1"><img src="/wimages/spacer.gif" width="1" height="1" border="0" alt=""></div>
-<div id="submenu2"><img src="/wimages/spacer.gif" width="1" height="1" border="0" alt=""></div>
-<div id="submenu3"><img src="/wimages/spacer.gif" width="1" height="1" border="0" alt=""></div>
-<div id="submenu4"><img src="/wimages/spacer.gif" width="1" height="1" border="0" alt=""></div>
-<div id="submenu5"><img src="/wimages/spacer.gif" width="1" height="1" border="0" alt=""></div>
-<div id="submenu7"><img src="/wimages/spacer.gif" width="1" height="1" border="0" alt=""></div>
-<div id="submenu8"><img src="/wimages/spacer.gif" width="1" height="1" border="0" alt=""></div>
-<div id="submenu9"><img src="/wimages/spacer.gif" width="1" height="1" border="0" alt=""></div>
-<div id="submenu10"><img src="/wimages/spacer.gif" width="1" height="1" border="0" alt=""></div>
-<div id="submenu13"><img src="/wimages/spacer.gif" width="1" height="1" border="0" alt=""></div>
-
-
-
-
-<div id="fence"><img src="/wimages/fence_row.gif" width="731" height="106" border="0" alt=""></div>
-
-<div id="logo"><a href="http://www.wyndham.com/default.cfm"><img src="/wimages/wyn_logo.gif" width="163" height="99" border="0" alt="Wyndham Hotels and Resorts"></a></div>
-
-
-<div id="MenuHead0"><img src="/wimages/nav_header_search.jpg" width="110" height="21" alt="Search Wyndham" border="0"></div>
-<div id="SearchEdit">
-	<form method="post" action="http://www.wyndham.com/sitesearch.cfm">
-		<input type="hidden" name="sp_a" value="00021a9b-sp00000002">
-		<input size="15" name="sp_q"><input type="image" src="/wimages/button_go.gif" width="27" height="21" alt="Submit" border="0">
-	</form>
-</div>
-<div id="MenuHead1"><img src="/wimages/nav_header_atyourservice.jpg" width="110" height="21" alt="At Your Service" border="0"></div> 
-
-<!-- MAIN NAV OFF --------------------------------------------------------------------------------------------->
-<div id="lay0off"><a href="http://www.wyndhampromotions.com/reservations/index.html" onmouseover="showSubNav(0,true)" onmouseout="hideSubNav(0,false)">	<img src="/wimages/nav_reserverates.gif" border="0" width="132" height="22" alt="Reservations &amp; Rates"></a></div>
-
-<div id="lay1off"><a href="http://www.wyndham.com/Hotel_Locator/hotellocator.cfm" onmouseover="showSubNav(1,true)" onmouseout="hideSubNav(1,false)">	<img src="/wimages/nav_locator.gif" border="0" width="151" height="22" alt="Hotel &amp; Resort Locator"></a></div>
-
-<div id="lay2off"><a href="http://www.wyndhampromotions.com/so/index.html" onmouseover="showSubNav(2,true)" onmouseout="hideSubNav(2,false)"> <img src="/wimages/nav_specialoffers.gif" border="0" width="97" height="22" alt="Special Offers"></a></div>
-
-<div id="MenuHead2"><img src="/wimages/nav_header_specinterest.jpg" width="110" height="21" alt="Special Interest" border="0"></div>
-
-<div id="lay3off"><a href="http://www.wyndham.com/WOTW/default.cfm" onmouseover="showSubNav(3,true)" onmouseout="hideSubNav(3,false)"> <img src="/wimages/nav_womenway.gif" width="146" height="22" border="0" alt="Women On their Way"></a></div>
-<div id="lay4off"><a href="https://www.wyndham-byrequest.com/" onmouseover="showSubNav(4,true)" onmouseout="hideSubNav(4,false)"> <img src="/wimages/nav_byrequest.gif" width="140" height="22" border="0" alt="Wyndham By Request"></a></div>
-<div id="lay5off"><a href="http://www.wyndham.com/AboutWyndham/subscriptions.cfm" onmouseover="showSubNav(5,true)" onmouseout="hideSubNav(5,false)"> <img src="/wimages/nav_subscriptions.gif" width="154" height="22" border="0" alt="Wyndham Subscriptions"></a></div>
-
-<!-- MEETINGS AND WEDDINGS -->
-<div id="lay6off"><a href="http://www.wyndham.com/meetingsandweddings/meetings.cfm" onmouseover="showSubNav(6,true)" onmouseout="hideSubNav(6,false)"> <img src="/wimages/nav_meetandwed.gif" width="141" height="22" border="0" alt="Meetings &amp; Weddings"></a></div>
-
-<div id="MenuHead3"><img src="/wimages/nav_header_wynprops.jpg" width="126" height="21" alt="Wyndham Properties" border="0"></div>
-
-<div id="lay7off"><a href="http://www.wyndham.com/AboutWyndham/hotels.cfm" onmouseover="showSubNav(7,true)" onmouseout="hideSubNav(7,false)"> <img src="/wimages/nav_hotels.gif" width="56" height="22" border="0" alt="Hotels"></a></div>
-<!-- RESORTS -->
-<div id="lay8off"><a href="http://www.wyndham.com/AboutWyndham/resorts.cfm" onmouseover="showSubNav(8,true)" onmouseout="hideSubNav(8,false)"> <img src="/wimages/nav_resorts.gif" width="63" height="22" border="0" alt="Resorts"></a></div>
-<div id="lay9off"><a href="http://www.wyndham.com/AboutWyndham/luxury.cfm" onmouseover="showSubNav(9,true)" onmouseout="hideSubNav(9,false)"> <img src="/wimages/nav_luxresorts.gif" width="103" height="22" border="0" alt="Luxury Resorts"></a></div>
-<div id="lay10off"><a href="http://www.wyndham.com/AboutWyndham/summerfield.cfm" onmouseover="showSubNav(10,true)" onmouseout="hideSubNav(10,false)"> <img src="/wimages/nav_summerfield.gif" width="126" height="35" border="0" alt="Summerfield Suites"></a></div>
-
-<div id="MenuHead4"> <img src="/wimages/nav_header_wyntrad.jpg" width="126" height="21" alt="Wyndham Tradition" border="0"></div>
-<!-- ABOUT WYNDHAM -->
-<div id="lay11off"><a href="http://www.wyndham.com/AboutWyndham/about.cfm" onmouseover="showSubNav(11,true)" onmouseout="hideSubNav(11,false)"> <img src="/wimages/nav_aboutwyn.gif" width="115" height="22" border="0" alt="About Wyndham"></a></div>
-<div id="lay12off"><a href="http://www.wyndham.com/Corporate/corporate.cfm" onmouseover="showSubNav(12,true)" onmouseout="hideSubNav(12,false)"> <img src="/wimages/nav_corpinfo.gif" width="146" height="22" border="0" alt="Corporate Information"></a></div>
-<div id="lay13off"><a href="http://www.wyndham.com/Employment/employment.cfm" onmouseover="showSubNav(13,true)" onmouseout="hideSubNav(13,false)"> <img src="/wimages/nav_employment.gif" width="173" height="22" border="0" alt="Employment Opportunities"></a></div>
-<div id="lay100off"><img src="/wimages/spacer.gif" width="1" height="1" alt="" border="0"></div>
-
-
-<!-- MAIN NAV ON --------------------------------------------------------------------------------------------->
-<div id="lay0on"><a href="http://www.wyndhampromotions.com/reservations/index.html" onmouseover="showSubNav(0,true)" onmouseout="hideSubNav(0,false)"> <img src="/wimages/nav_reserverates_roll.gif" width="132" height="22" border="0" alt="Reservations &amp; Rates"><img src="/wimages/spacer.gif" width="9" height="18" alt="" border="0"></a></div>
-
-<div id="lay1on"><a href="http://www.wyndham.com/Hotel_Locator/hotellocator.cfm" onmouseover="showSubNav(1,true)" onmouseout="hideSubNav(1,false)"> <img src="/wimages/nav_locator_roll.gif" width="151" height="22" border="0" alt="Hotel &amp; Resort Locator"></a></div>
-<div id="lay2on"><a href="http://www.wyndhampromotions.com/so/index.html" onmouseover="showSubNav(2,true)" onmouseout="hideSubNav(2,false)"> <img src="/wimages/nav_specialoffers_roll.gif" width="97" height="22" border="0" alt="Special Offers"><img src="/wimages/spacer.gif" width="44" height="18" alt="" border="0"></a></div>
-<div id="lay3on"><a href="http://www.wyndham.com/WOTW/default.cfm" onmouseover="showSubNav(3,true)" onmouseout="hideSubNav(3,false)"> <img src="/wimages/nav_womenway_roll.gif" width="146" height="22" border="0" alt="Women On Their Way"></a></div>
-<div id="lay4on"><a href="https://www.wyndham-byrequest.com/" onmouseover="showSubNav(4,true)" onmouseout="hideSubNav(4,false)"> <img src="/wimages/nav_byrequest_roll.gif" width="140" height="22" border="0" alt="Wyndham By Request"></a></div>
-<div id="lay5on"><a href="http://www.wyndham.com/AboutWyndham/subscriptions.cfm" onmouseover="showSubNav(5,true)" onmouseout="hideSubNav(5,false)"> <img src="/wimages/nav_subscriptions_roll.gif" width="154" height="22" border="0" alt="Wyndham Subscriptions"></a></div>
-
-<!-- MEETINGS AND WEDDINGS ON -->
-<div id="lay6on"><a href="http://www.wyndham.com/meetingsandweddings/meetings.cfm" onmouseover="showSubNav(6,true)" onmouseout="hideSubNav(6,false)"> <img src="/wimages/nav_meetandwed_roll.gif" width="141" height="22" border="0" alt="Meetings &amp; Weddings"></a></div>
-
-<div id="lay7on"><a href="http://www.wyndham.com/AboutWyndham/hotels.cfm" onmouseover="showSubNav(7,true)" onmouseout="hideSubNav(7,false)"> <img src="/wimages/nav_hotels_roll.gif" width="56" height="22" border="0" alt="Hotels"></a></div>
-<!-- RESORTS -->
-<div id="lay8on"><a href="http://www.wyndham.com/AboutWyndham/resorts.cfm" onmouseover="showSubNav(8,true)" onmouseout="hideSubNav(8,false)"> <img src="/wimages/nav_resorts_roll.gif" width="63" height="22" border="0" alt="Resorts"><img src="/wimages/spacer.gif" width="78" height="18" alt="" border="0"></a></div>
-<div id="lay9on"><a href="http://www.wyndham.com/AboutWyndham/luxury.cfm" onmouseover="showSubNav(9,true)" onmouseout="hideSubNav(9,false)"> <img src="/wimages/nav_luxresorts_roll.gif" width="103" height="22" border="0" alt="Luxury Resorts"><img src="/wimages/spacer.gif" width="38" height="18" alt="" border="0"></a></div>
-<div id="lay10on"><a href="http://www.wyndham.com/AboutWyndham/summerfield.cfm" onmouseover="showSubNav(10,true)" onmouseout="hideSubNav(10,false)"> <img src="/wimages/nav_summerfield_roll.gif" width="126" height="35" border="0" alt="Summerfield Suites"></a></div>
-<!-- ABOUT WYNDHAM ON -->
-<div id="lay11on"><a href="http://www.wyndham.com/AboutWyndham/about.cfm" onmouseover="showSubNav(11,true)" onmouseout="hideSubNav(11,false)"> <img src="/wimages/nav_aboutwyn_roll.gif" width="115" height="22" border="0" alt="About Wyndham"><img src="/wimages/spacer.gif" width="26" height="18" alt="" border="0"></a></div>
-<div id="lay12on"><a href="http://www.wyndham.com/Corporate/default.cfm" onmouseover="showSubNav(12,true)" onmouseout="hideSubNav(12,false)"> <img src="/wimages/nav_corpinfo_roll.gif" width="146" height="22" border="0" alt="Corporate Information"></a></div>
-<div id="lay13on"><a href="http://www.wyndham.com/Employment/employment.cfm" onmouseover="showSubNav(13,true)" onmouseout="hideSubNav(13,false)"> <img src="/wimages/nav_employment_roll.gif" width="173" height="22" border="0" alt="Employment Opportunities"></a></div>
-<div id="lay100on" style="visibility: visible;"><img src="/wimages/spacer.gif" width="1" height="1" alt="" border="0"></div>
-<div id="undernav"><img src="/wimages/spacer.gif" width="141" height="375" alt="" border="0"></div>
-
-
-
-
-
-
-<div id="PLHeader"><img src="/wimages/headers/P1_header.gif" width="132" height="33" border="0" alt="Privacy"></div>
-
-<div id="PLText">
-<p><b>Wyndham International, Inc. Privacy Policy</b></p>
-
-<p>This site is owned and operated by Wyndham International, Inc.  Here at Wyndham International, we recognize that many visitors to our Site 
-are concerned about both the information they provide to us and how we treat that information.  So we've developed the Privacy Policy described 
-below.  We may update or change the Privacy Policy from time to time, so please check in occasionally.</p>
-
-<p>If you have any questions about our Privacy Policy, you can contact us at:</p>
-	
-<p>	
-	<img src="/wimages/spacer.gif" width="25" height="1" border="0" alt="">Wyndham International, Inc.<br>
-	<img src="/wimages/spacer.gif" width="25" height="1" border="0" alt="">1950 Stemmons Freeway<br>
-	<img src="/wimages/spacer.gif" width="25" height="1" border="0" alt="">Suite 6001<br>
-	<img src="/wimages/spacer.gif" width="25" height="1" border="0" alt="">Dallas, Texas 75207<br>
-	<img src="/wimages/spacer.gif" width="25" height="1" border="0" alt="">Attention: Corporate-Legal Department<br>
-	<img src="/wimages/spacer.gif" width="25" height="1" border="0" alt="">1-214-863-1000<br>
-</p>
-	
-<p>Our office is open from 9 a.m. - 5 p.m. Central Time, Monday through Friday.  Please feel free to email us anytime by visiting our email box at 
-<a href="mailto:webmaster@Wyndham.com" class="brown">webmaster@Wyndham.com</a>.  We'll be happy to answer your questions or hear your concerns.</p>
-
-<p><b>Our Policy</b><br>
-Wyndham International respects the privacy of every individual who visits our Site or responds to our interactive advertisements.  
-At our Site, we don't collect personally-identifiable information from individuals unless they provide it to us voluntarily and knowingly.  
-We don't require you to register or provide information to us in order to view our Site.  If you register in order to use various features of our Site, 
-we use the information you supply for the purpose of providing the services you've requested.  If you agreed to follow-up contacts by us or asked 
-us to be put on our mailing list when you registered, we may also contact you from time to time.  You can always change your preference for follow-up 
-contacts just by emailing us at any time.  We don't share any information you give us with anyone outside of Wyndham International.</p>
-
-<p>In the email section of our Site, we ask for some personally identifiable information, such as your name, address and phone number.  
-We use this information only if we need to contact you directly because our attempts to contact you by email were unsuccessful.  We don't share 
-the information with anyone outside of Wyndham International.  We don't use your email address for any purpose other than responding to the 
-message you've sent.  Wyndham International does not intend to collect any personally identifiable information from individuals under thirteen 
-years of age.  Where appropriate, we will specifically instruct children not to submit such information on our websites or advertisements.  
-If a child has provided us with personally identifiable information, a parent or guardian of that child may contact us at the email address or address 
-listed in this Privacy Statement if they would like this information deleted from our records and we will use reasonable efforts to delete the child's 
-information from our databases.</p>
-
-<p>Our Site sometimes includes notices of promotions we are conducting, and we may permit you to enter electronically in some cases.  
-If that occurs, we will use the information you provide for the purpose of conducting the promotion (e.g., to contact you if you're a winner).  
-We don't share the information you give us with anyone outside of Wyndham International.</p>
-
-<p><b>Cookies</b><br>
-Like most companies, we use "cookie" technology on our Site.  When you log in, the cookie tells us whether you've visited us before or are a 
-new visitor.  The cookie doesn't track any personal information about you or provide us with any way to contact you, and the cookie doesn't 
-extract any information from your computer. </p>
-
-
-<div id="gptFooter">
-&nbsp;<table width="763" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-	<td colspan="2"><img src="/wimages/footer.gif" width="763" height="9" border="0" alt=""></td>
-</tr>
-<tr>
-	<td class="footer">&nbsp;&nbsp;&nbsp;<a href="../contactus.cfm" class="lightblue">Contact Us</a></td>
-	<td align="right" class="footer"><a href="../privacy.cfm" class="lightblue">Privacy</a></td>
-</tr>
-<tr>
-	<td class="footer">&nbsp;&nbsp;&nbsp;Copyright 2001, Wyndham</td>
-	<td align="right" class="footer"><a href="../legal.cfm" class="lightblue">Legal</a></td>
-</tr>
-<tr>
-	<td class="footer">&nbsp;&nbsp;&nbsp;<a href="http://www.imc2.com" target="blank" class="lightblue">Site Created By imc<sup class="squared">2</sup></a></td>
-	</tr><tr></tr>
-
-<tr>
-	<td>&nbsp;</td><td>&nbsp;</td>
-</tr>
-</tbody></table>
-</div>
-</div>
-
-
-
-
-
+<table border="0" cellpadding="0" cellspacing="0" width="740">
+  <tbody>
+  <tr>
+    <td class="nav" valign="top" width="170" rowspan="4"><a href="http://www.wyndham.com"><img title="Wyndham Hotels and Resorts" height="64" alt="Wyndham Hotels and Resorts" src="images/wyndham_logo.gif" width="170" border="0"></a></td>
+    <td><img height="5" src="images/spacer.gif" width="2"></td></tr>
+  <tr>
+    <td class="nav" valign="center"><img height="14" alt="" src="images/arrow_single.gif" width="11" align="absMiddle" border="0"><a href="https://www.wyndham-byrequest.com/WBR/commerce/login.jsp">Sign In</a><img height="1" src="images/spacer.gif" width="10"><a href="https://www.wyndham-byrequest.com/WBR/application/commercewf?origin=main.jsp&amp;event=link(joinWBR)">Join
+      Wyndham ByRequest</a><span class="sm"><sup>SM</sup></span></td>
+    <td valign="top" align="right">
+    <form name="searchForm01" method="post" action="http://www.wyndham.com/sitesearch.cfm">
+
+<img alt="Search" src="images/global_search_label.gif" align="absMiddle" vspace="2" border="0" width="40" height="14">
+        <input size="10" name="sp_q">
+<a href="#" onclick="document.forms['searchForm01'].submit()" onmouseover="document.images['searchGo'].src='images/go_in_box_on.gif'" onmouseout="document.images['searchGo'].src='images/go_in_box.gif'">
+<img src="images/go_in_box.gif" width="36" height="17" border="0" name="searchGo">
+</a>
+    </form></td></tr>
+  <tr>
+    <td class="welcome" valign="top" height="8">&nbsp;</td>
+    <td class="welcome" valign="top" height="8"></td></tr>
+  <tr>
+    <td class="nav" valign="top" height="16">&nbsp;</td>
+    <td class="nav" valign="top" align="right" height="16"><a href="http://www.wyndham.com/contactus.cfm">Contact
+      Wyndham</a><img height="1" src="images/spacer.gif" width="10"><a href="http://www.wyndham.com">Home</a></td></tr></tbody></table><!-- /HEADER TABLE --><!-- GLOBAL NAV TABLE -->
+<table cellspacing="0" cellpadding="0" width="740" border="0">
+  <tbody>
+  <tr>
+    <td><a onmouseover="setImg('nav_rr',IMGOVER)" onclick="setImg('nav_rr',IMGON);" onmouseout="setImg('nav_rr',IMGOFF)" href="http://www.wyndham.com/Rates_Reservations/make_reservation.cfm"><img title="Rates and Reservations" height="32" alt="Rates and Reservations" src="images/nav_rr_off.gif" width="107" border="0" name="nav_rr"></a><a onmouseover="setImg('nav_locate',IMGOVER)" onclick="setImg('nav_locate',IMGON);" onmouseout="setImg('nav_locate',IMGOFF)" href="http://www.wyndham.com/Hotel_Locator/hotellocator.cfm"><img title="Hotel and Resort Locator" height="32" alt="Hotel and Resort Locator" src="images/nav_locate_off.gif" width="105" border="0" name="nav_locate"></a><a onmouseover="setImg('nav_byr',IMGOVER)" onclick="setImg('nav_byr',IMGON);" onmouseout="setImg('nav_byr',IMGOFF)" href="https://www.wyndham-byrequest.com/WBR/index.jsp"><img title="Wyndham ByRequest" height="32" alt="Wyndham ByRequest" src="images/nav_byr_off.gif" width="106" border="0" name="nav_byr"></a><a onmouseover="setImg('nav_so',IMGOVER)" onclick="setImg('nav_so',IMGON);" onmouseout="setImg('nav_so',IMGOFF)" href="http://www.wyndham.com/specials/index.html"><img title="Special Offers" height="32" alt="Special Offers" src="images/nav_so_off.gif" width="105" border="0" name="nav_so"></a><a onmouseover="setImg('nav_mw',IMGOVER)" onclick="setImg('nav_mw',IMGON);" onmouseout="setImg('nav_mw',IMGOFF)" href="http://www.wyndham.com/meetingsandweddings/meetings.cfm"><img title="Meetings and Weddings" height="32" alt="Meetings and Weddings" src="images/nav_mw_off.gif" width="106" border="0" name="nav_mw"></a><a onmouseover="setImg('nav_di',IMGOVER)" onclick="setImg('nav_di',IMGON);" onmouseout="setImg('nav_di',IMGOFF)" href="http://www.wyndham.com/AboutWyndham/resorts.cfm"><img title="Destinations and Interests" height="32" alt="Destinations and Interests" src="images/nav_di_off.gif" width="106" border="0" name="nav_di"></a><a onmouseover="setImg('nav_wotw',IMGOVER)" onclick="setImg('nav_wotw',IMGON);" onmouseout="setImg('nav_wotw',IMGOFF)" href="http://www.wyndham.com/WOTW/default.cfm"><img title="Women On Their Way" height="32" alt="Women On Their Way" src="images/nav_wotw_off.gif" width="105" border="0" name="nav_wotw"></a></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="740">
+  <tbody>
+  <tr><!-- LEFT NAV -->
+    <td valign="top" width="145"><!-- left nav nested table -->
+      <table border="0" cellpadding="0" cellspacing="0" width="145">
+        <tbody>
+        <tr>
+          <td width="10"><img height="10" src="images/spacer.gif" width="10"></td>
+          <td width="5"><img height="1" src="images/spacer.gif" width="5"></td>
+          <td width="5"><img height="1" src="images/spacer.gif" width="5"></td>
+          <td width="125"><img height="1" src="images/spacer.gif" width="125"></td></tr>
+<!-- //////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+///////////			 left nav starts here  					///////////
+///////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////// -->
+        <tr>
+          <td><img height="1" src="images/spacer.gif" width="10"></td>
+          <td class="leftnavhdr" colspan="3" valign="top">Privacy Policy</td></tr></tbody></table><!-- left nav nested table --></td><!-- /LEFT NAV --><!-- GUTTER -->
+<!-- //////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+///////////			 left nav ends here						///////////
+///////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////// -->
+    <td width="10"><img height="1" src="images/spacer.gif" width="10"></td><!-- /GUTTER --><!-- INNER CONTENT -->
+    <td valign="top"><!-- inner content nested header table -->
+      <table border="0" cellpadding="0" cellspacing="0" width="585">
+        <tbody>
+        <tr>
+          <td valign="top"><img height="5" src="images/spacer.gif" width="2"></td></tr>
+<!-- //////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+///////////			 terms of use banner starts here		///////////
+///////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////// -->
+        <tr>
+          <td valign="top"><!-- TAG 16.07--><img alt="Terms of Use" border="0" height="27" src="images/small-header.gif" width="585"><!-- /TAG 16.07--></td></tr></tbody></table><!-- /inner content nested header table --><!-- inner content nested table -->
+      <table border="0" cellpadding="0" cellspacing="0" width="585">
+        <tbody>
+        <tr>
+          <td><img height="15" src="images/spacer.gif" width="2"></td></tr>
+<!-- //////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+///////////			 		header 1 starts here  			///////////
+///////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////// -->
+        <tr>
+          <td class="hdrmedium"><!-- TAG 16.08-->Wyndham International, Inc. Privacy Policy<!-- /TAG 16.08--></td></tr>
+        <tr>
+          <td><img height="5" src="images/spacer.gif" width="1"></td></tr>
+        <tr>
+          <td bgcolor="#ff6633"><img height="1" src="images/spacer.gif" width="1"></td></tr>
+        <tr>
+          <td><img height="10" src="images/spacer.gif" width="1"></td></tr>
+<!-- //////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+///////////			 text for header 1 starts here  		///////////
+///////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////// -->
+        <tr>
+          <td class="copymedium"><!-- TAG 16.08-->This site is owned and operated by Wyndham
+            International, Inc. Here at Wyndham International, we recognize that many visitors to
+            our Site are concerned about both the information they provide to us and how we treat
+            that information. So we've developed the Privacy Policy described below.
+			We may update or change the Privacy Policy from time to time, so please check in
+			occasionally.<br><br>
+			If you have any questions about our Privacy Policy, you can contact us at:<br>
+			Wyndham International, Inc.<br>
+			1950 Stemmons Freeway<br>
+			Suite 6001<br>
+			Dallas, Texas 75207<br>
+			Attention: Corporate-Legal Department<br>
+			1-214-863-1000<br>
+			Our office is open from 9 a.m. - 5 p.m. Central Time, Monday through Friday. Please feel
+			free to email us anytime by visiting our email box at webmaster@Wyndham.com. We'll be
+			happy to answer your questions or hear your concerns.
+ 			<!-- /TAG 16.08--></td></tr>
+        <tr>
+          <td><img height="25" src="images/spacer.gif" width="2"></td></tr>
+<!-- //////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+///////////			 		header 2 starts here  			///////////
+///////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////// -->
+        <tr>
+          <td class="hdrmedium"><!-- TAG 16.08-->Our Policy<!-- /TAG 16.08--></td></tr>
+        <tr>
+          <td><img height="5" src="images/spacer.gif" width="1"></td></tr>
+        <tr>
+          <td bgcolor="#ff6633"><img height="1" src="images/spacer.gif" width="1"></td></tr>
+        <tr>
+          <td><img height="10" src="images/spacer.gif" width="1"></td></tr>
+<!-- //////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+///////////			 text for header 2 starts here  		///////////
+///////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////// -->
+        <tr>
+          <td class="copymedium"><!-- TAG 16.08-->Wyndham International respects the privacy of every individual who
+visits our Site or responds to our interactive advertisements. At our
+Site, we don't collect personally-identifiable information from
+individuals unless they provide it to us voluntarily and knowingly. We
+don't require you to register or provide information to us in order to
+view our Site. If you register in order to use various features of our
+Site, we use the information you supply for the purpose of providing the
+services you've requested. If you agreed to follow-up contacts by us or
+asked us to be put on our mailing list when you registered, we may also
+contact you from time to time. You can always change your preference for
+follow-up contacts just by emailing us at any time. We don't share any
+personal information you give us with anyone outside of Wyndham
+International. <br><br>
+
+
+			In the email section of our Site, we ask for some personally
+identifiable information, such as your name, address and phone number.
+We use this information only if we need to contact you directly because
+our attempts to contact you by email were unsuccessful. We don't share
+your personal information with anyone outside of Wyndham International.
+We don't use your email address for any purpose other than responding to
+the message you've sent. Wyndham International does not intend to
+collect any personally identifiable information from individuals under
+thirteen years of age. Where appropriate, we will specifically instruct
+children not to submit such information on our websites or
+advertisements. If a child has provided us with personally identifiable
+information, a parent or guardian of that child may contact us at the
+email address or address listed in this Privacy Statement if they would
+like this information deleted from our records and we will use
+reasonable efforts to delete the child's information from our databases. <br><br>
+
+
+			Our Site sometimes includes notices of promotions we are conducting, and
+we may permit you to enter electronically in some cases. If that occurs,
+we will use the information you provide for the purpose of conducting
+the promotion (e.g., to contact you if you're a winner). We don't share
+the information you give us with anyone outside of Wyndham
+International. <br><br>
+
+
+Wyndham treats all customer information as confidential and regularly
+monitors access to such information and its use within Wyndham by its
+employees to ensure that level of privacy described in this Policy is
+maintained. Wyndham has also adopted security measures intended to
+prevent an unauthorized third party such as a hacker from gaining access
+to Wyndham data bases.&nbsp;
+		<!-- /TAG 16.08--></td></tr>
+        <tr>
+          <td><img height="25" src="images/spacer.gif" width="2"></td></tr>
+<!-- //////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+///////////			 		header 3 starts here  			///////////
+///////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////// -->
+        <tr>
+          <td class="hdrmedium"><!-- TAG 16.08-->Cookies<!-- /TAG 16.08--></td></tr>
+        <tr>
+          <td><img height="5" src="images/spacer.gif" width="1"></td></tr>
+        <tr>
+          <td bgcolor="#ff6633"><img height="1" src="images/spacer.gif" width="1"></td></tr>
+        <tr>
+          <td><img height="10" src="images/spacer.gif" width="1"></td></tr>
+<!-- //////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////
+///////////			 	text for header 3 starts here  		///////////
+///////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////// -->
+        <tr>
+          <td class="copymedium"><!-- TAG 16.08-->Like most companies, we use "cookie" technology on our Site. When you
+log in, the cookie tells us whether you've visited us before or are a
+new visitor. The cookie doesn't track any personal information about you
+or provide us with any way to contact you, and the cookie doesn't
+extract any information from your computer. <br><br>
+
+Wyndham International uses pixels, or transparent GIF files, to help
+manage online advertising. These GIF files are provided by our ad
+management partner, DoubleClick. These files enable DoubleClick to
+recognize a unique cookie on your Web browser, which in turn enables us
+to learn which advertisements bring users to our website. The cookie was
+placed by us, or by another advertiser who works with DoubleClick. With
+both cookies and Spotlight technology, the information that we collect
+and share is anonymous and not personally identifiable. It does not
+contain your name, address, telephone number, or email address.&nbsp; For
+more information about DoubleClick, including information about how to
+opt out of these technologies, go to <a href="http://www.doubleclick.net/us/corporate/privacy" target="_blank">http://www.doubleclick.net/us/corporate/privacy</a><br><br>
+<!-- /TAG 16.08--></td></tr>
+        <tr>
+          <td><img height="25" src="images/spacer.gif" width="2"></td></tr></tbody></table><!-- /inner content nested table --></td><!-- /INNER CONTENT --></tr></tbody></table><!-- /BODY TABLE --><!-- This file will need some logic so that the Text for the current page
+will be be a link --><!-- FOOTER TABLE -->
+<table cellspacing="0" cellpadding="0" width="740" border="0">
+  <tbody>
+  <tr>
+    <td><img height="30" src="images/spacer.gif" width="1"></td></tr>
+  <tr>
+    <td bgcolor="#999999"><img height="3" src="images/spacer.gif" width="740"></td></tr>
+  <tr>
+    <td><img height="2" src="images/spacer.gif" width="1"></td></tr>
+  <tr>
+    <td bgcolor="#000000"><img height="1" src="images/spacer.gif" width="740"></td></tr>
+  <tr>
+    <td><img height="5" src="images/spacer.gif" width="1"></td></tr>
+  <tr>
+    <td class="nav" style="TEXT-ALIGN: center" align="middle"><a href="http://www.wyndham.com/AboutWyndham/subscriptions.cfm">E-Mail
+      Subscriptions</a><img height="1" src="images/spacer.gif" width="27"><a href="http://www.wyndham.com/Corporate/default.cfm">Corporate
+      Information</a><img height="1" src="images/spacer.gif" width="27"><a href="http://www.wyndham-recruiting.com/">Employment
+      Opportunities</a><img height="1" src="images/spacer.gif" width="27"><a href="http://www.wyndham.com/corporate/franchise.cfm">Franchise
+      Opportunities</a><img height="1" src="images/spacer.gif" width="27"><br><img height="3" src="" width="1"><br>©&nbsp;2002
+      Wyndham International<img height="1" src="images/spacer.gif" width="27"><a href="http://www.wyndham.com/Privacy_Policy/">Privacy
+      Policy</a><img height="1" src="images/spacer.gif" width="27"><a href="http://www.wyndham.com/resorts/Terms/default.asp">Terms of Use</a><br><br></td></tr></tbody></table><!-- /FOOTER TABLE -->
 </body></html>
