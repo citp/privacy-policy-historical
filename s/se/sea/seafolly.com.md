@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seafolly.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606133015id_/http%3A//www.seafolly.com/section.aspx%3Fsectionid%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seafolly.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011122832id_/http%3A//seafolly.com/section.aspx%3Fsectionid%3D6) for the most accurate reproduction.*
 
 # Section
 
