@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604063815id_/http%3A//www.slickdeals.net/s/privacy/%3Fsite%3Dslickdeals) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slickdeals.net privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207220120id_/http%3A//www.slickdeals.net/s/privacy/%3Fsite%3Dslickdeals) for the most accurate reproduction.*
 
 # SlickDeals.net [New Deals] - Today's Hot Deals!
 
