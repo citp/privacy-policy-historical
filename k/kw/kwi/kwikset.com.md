@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kwikset.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622013416id_/http%3A//www.kwikset.com/website/asp/Kw_npp_Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwikset.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204171633id_/http%3A//www.kwikset.com/website/Asp/Kw_npp_Privacy.asp) for the most accurate reproduction.*
 
 # Privacy
 
-| **__**|   
----|---  
-|  We believe that your privacy on the Internet is extremely important. For this reason, Kwikset does not trade, sell or rent personal information collected about you to any third parties. The Privacy Policy outlined below explains how Kwikset may gather and use the information you provide.  | 1\.  | What information does Kwikset collect and how does Kwikset use this information?  
+We believe that your privacy on the Internet is extremely important. For this reason, Kwikset does not trade, sell or rent personal information collected about you to any third parties. The Privacy Policy outlined below explains how Kwikset may gather and use the information you provide. 
+
+1\.  | What information does Kwikset collect and how does Kwikset use this information?  
 ---|---  
 2\.  | Does Kwikset share your information with other third parties?  
 3\.  | How do I stop Kwikset from contacting me via e-mail in the future?  
@@ -12,7 +12,9 @@
 5\.  | Will this Privacy Policy change?  
 6\.  | What about Kwikset's links to other sites?  
   
-**What information does Kwikset collect and how does Kwikset use this information?** If you have previously given your personal information to us and no longer want to be contacted by Kwikset via email, you may take yourself off of our distribution list by doing any one of the following options:
+**What information does Kwikset collect and how does Kwikset use this information?**
+
+If you have previously given your personal information to us and no longer want to be contacted by Kwikset via email, you may take yourself off of our distribution list by doing any one of the following options:
 
  **Option 1**   
 If you have previously registered to receive emails from Kwikset or its   
@@ -61,8 +63,8 @@ location on our web site, simply follow the below steps:
 
   * Click on the button labeled "Save".
 
-  
-  
+
+
 **Does Kwikset share your information with other third parties?**
 
   
@@ -83,7 +85,8 @@ None of this data is related to any individual's name without their consent
 
 
 
-  
+
+
 **How do I stop Kwikset from contacting me via e-mail in the future?**
 
 If you have previously given your personal information to us and no longer want to be contacted by Kwikset via email, you may take yourself off of our distribution list by doing any one of the following options:
@@ -115,23 +118,14 @@ Please visit _Review My Questions._ Once you have arrived at the location on our
 
 
 
-  
-
-
 **What is the policy regarding Kwikset's ownership of information?**
 
-All opinions, ideas, suggestions, and other feedback submitted to our web-sites may be used by Kwikset, without any restriction and free of charge, and nothing contained in this policy shall limit or otherwise affect this. There may be instances where we request or permit the submission of your opinions/ideas. In such instances you will be required to agree to the terms of a Kwikset prepared agreement related to the provision of such information prior to its submission.  
-  
-
+All opinions, ideas, suggestions, and other feedback submitted to our web-sites may be used by Kwikset, without any restriction and free of charge, and nothing contained in this policy shall limit or otherwise affect this. There may be instances where we request or permit the submission of your opinions/ideas. In such instances you will be required to agree to the terms of a Kwikset prepared agreement related to the provision of such information prior to its submission.
 
 **Will this Privacy Policy change?**
 
-Kwikset may change this policy at any time, so please review this policy periodically.  
-  
-
+Kwikset may change this policy at any time, so please review this policy periodically.
 
 **What about Kwikset's links to other sites?**
 
-We may add external links to other related web-sites. We will certainly try to link to web-sites that maintain the same high regard for privacy on the Internet as we do; however, we are not responsible for the content that may be on such linked sites. Additionally, the existence of any external link does not suggest that Kwikset endorses the linked company, product or service.  
-  
-
+We may add external links to other related web-sites. We will certainly try to link to web-sites that maintain the same high regard for privacy on the Internet as we do; however, we are not responsible for the content that may be on such linked sites. Additionally, the existence of any external link does not suggest that Kwikset endorses the linked company, product or service.
