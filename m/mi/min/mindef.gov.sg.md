@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the mindef.gov.sg privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609172403id_/http%3A//mindef.gov.sg/index.asp%3Fcat%3Dprivacypol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mindef.gov.sg privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404094215id_/http%3A//www.mindef.gov.sg/index2.asp%3Fcat%3Dprivacypol) for the most accurate reproduction.*
 
 # iMINDEF
+
+**Government of Singapore Privacy Statement**
 
 1\. This is a Government of Singapore website. Thank you for examining our privacy statement.
 
