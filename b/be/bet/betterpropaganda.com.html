@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the betterpropaganda.com privacy policy that was archived on 2004-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041220152513id_/http%3A//betterpropaganda.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the betterpropaganda.com privacy policy that was archived on 2005-02-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050227092517id_/http%3A//betterpropaganda.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -17,7 +17,7 @@
 
 <script>
 	function RandomArtist() 
-	{ location.href = "artist_page.asp?id=29"; }
+	{ location.href = "artist_page.asp?id=315"; }
 	
 	function OnLoad( div_id )
 	{
@@ -88,6 +88,64 @@ Please wait while we load the selected song...
 
 </div>
 
+<div id="listen_menu_dl" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
+<table>
+<tbody><tr>
+	<td class="div_black">Stream <a href="javascript:OnMenuListenLo()" class="bp_radio_hi_low">low</a><font class="bp_radio_hi_low"> | </font><a href="javascript:OnMenuListenHi()" class="bp_radio_hi_low">high</a> bandwidth</td>
+</tr>
+<tr>
+	<td class="black"><a href="javascript:OnMenuDownload()" class="bp_radio_hi_low">Download song to my computer</a></td>
+</tr>
+<tr>
+	<td class="black"><a href="javascript:OnMenuAdd()" class="bp_radio_hi_low">Add to My Propaganda Playlist</a></td>
+</tr>
+
+<tr><td align="center" class="black"><br><a href="javascript:ShowPanel('listen_menu_dl', false)" class="popup_alert_button"><b>CANCEL</b></a></td></tr>
+</tbody></table>
+</div>
+
+<div id="listen_menu" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
+<table>
+<tbody><tr>
+	<td class="div_black">Stream <a href="javascript:OnMenuListenLo()" class="bp_radio_hi_low">low</a><font class="bp_radio_hi_low"> | </font><a href="javascript:OnMenuListenHi()" class="bp_radio_hi_low">high</a> bandwidth</td>
+</tr>
+<tr>
+	<td class="black"><a href="javascript:OnMenuAdd()" class="bp_radio_hi_low">Add to My Propaganda Playlist</a></td>
+</tr>
+
+<tr><td align="center" class="black"><br><a href="javascript:ShowPanel('listen_menu', false)" class="popup_alert_button"><b>CANCEL</b></a></td></tr>
+</tbody></table>
+</div>
+
+<div id="listen_menu_remote_dl" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
+<table>
+<tbody><tr>
+	<td class="div_black"><a href="javascript:OnMenuListenRemote()" class="bp_radio_hi_low">Listen to song</a></td>
+</tr>
+<tr>
+	<td class="black"><a href="javascript:OnMenuDownload()" class="bp_radio_hi_low">Download song to my computer</a></td>
+</tr>
+<tr>
+	<td class="black"><a href="javascript:OnMenuAdd()" class="bp_radio_hi_low">Add to My Propaganda playlist</a></td>
+</tr>
+
+<tr><td align="center" class="black"><br><a href="javascript:ShowPanel('listen_menu_remote_dl', false)" class="popup_alert_button"><b>CANCEL</b></a></td></tr>
+</tbody></table>
+</div>
+
+<div id="listen_menu_remote" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
+<table>
+<tbody><tr>
+	<td class="div_black"><a href="javascript:OnMenuListenRemote()" class="bp_radio_hi_low">Listen to song</a></td>
+</tr>
+<tr>
+	<td class="black"><a href="javascript:OnMenuAdd()" class="bp_radio_hi_low">Add to My Propaganda playlist</a></td>
+</tr>
+
+<tr><td align="center" class="black"><br><a href="javascript:ShowPanel('listen_menu_remote', false)" class="popup_alert_button"><b>CANCEL</b></a></td></tr>
+</tbody></table>
+</div>
+
 <div id="no_song" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
 
 Sorry, no sample is available for this song.
@@ -149,11 +207,9 @@ Sorry, no site is available for purchasing this CD.
 <td class="topnavback" background="images/nav_button.gif" height="17" width="112">
 <a href="reviews.asp" class="topnavbutton">Reviews</a></td>
 <td class="topnavback" background="images/nav_button.gif" height="17" width="112">
-<a href="content_overview.asp" class="topnavbutton">Archive</a></td>
-<td class="topnavback" background="images/nav_button.gif" height="17" width="112">
 <a href="new_releases.asp" class="topnavbutton">New Releases</a></td>
 <td class="topnavback" background="images/nav_button.gif" height="17" width="112">
-<a href="staff_picks.asp" class="topnavbutton">Staff Picks</a></td>
+<a href="staff_picks.asp" class="topnavbutton">Playlists</a></td>
 
 <td class="topnavback" background="images/nav_button.gif" height="17" width="112">
 <a href="top_downloads.asp" class="topnavbutton">Top Downloads</a></td>
@@ -161,6 +217,9 @@ Sorry, no site is available for purchasing this CD.
 <a href="artist_overview.asp" class="topnavbutton">Artists</a></td>
 <td class="topnavback" background="images/nav_button.gif" height="17" width="112">
 <a href="label_overview.asp" class="topnavbutton">Labels</a></td>
+<td class="topnavback" background="images/nav_button.gif" height="17" width="112">
+<a href="content_overview.asp" class="topnavbutton">Archive</a></td>
+
 <td bgcolor="white"><img src="images/clear.gif" width="3" height="17"></td>
 </tr></tbody></table>
 
@@ -224,7 +283,7 @@ Sorry, no site is available for purchasing this CD.
       document.write ("&amp;referer=" + escape(document.referer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://downloads.betterpropaganda.com/adserver/adjs.php?n=043465196&amp;what=zone:3&amp;target=_blank&amp;block=1&amp;exclude=,"></script><noscript><a href='http://downloads.betterpropaganda.com/adserver/adclick.php?n=a2638eaa' target='_blank'><img src='http://downloads.betterpropaganda.com/adserver/adview.php?what=zone:3&amp;n=a2638eaa' border='0' alt=''></a></noscript>
+</script><script language="JavaScript" type="text/javascript" src="http://downloads.betterpropaganda.com/adserver/adjs.php?n=807857742&amp;what=zone:3&amp;target=_blank&amp;block=1&amp;exclude=,"></script><noscript><a href='http://downloads.betterpropaganda.com/adserver/adclick.php?n=a2638eaa' target='_blank'><img src='http://downloads.betterpropaganda.com/adserver/adview.php?what=zone:3&amp;n=a2638eaa' border='0' alt=''></a></noscript>
 <!-- End Ad #1 -->
 <br>
 <!-- Start Ad #2 -->
@@ -242,41 +301,26 @@ Sorry, no site is available for purchasing this CD.
       document.write ("&amp;referer=" + escape(document.referer));
    document.write ("'><" + "/script>");
 //-->
-</script><script language="JavaScript" type="text/javascript" src="http://downloads.betterpropaganda.com/adserver/adjs.php?n=427584809&amp;what=zone:4&amp;target=_blank&amp;block=1&amp;exclude=,"></script><noscript><a href='http://downloads.betterpropaganda.com/adserver/adclick.php?n=afa7f1c7' target='_blank'><img src='http://downloads.betterpropaganda.com/adserver/adview.php?what=zone:4&amp;n=afa7f1c7' border='0' alt=''></a></noscript>
+</script><script language="JavaScript" type="text/javascript" src="http://downloads.betterpropaganda.com/adserver/adjs.php?n=128293569&amp;what=zone:4&amp;target=_blank&amp;block=1&amp;exclude=,"></script><noscript><a href='http://downloads.betterpropaganda.com/adserver/adclick.php?n=afa7f1c7' target='_blank'><img src='http://downloads.betterpropaganda.com/adserver/adview.php?what=zone:4&amp;n=afa7f1c7' border='0' alt=''></a></noscript>
 <!-- End Ad #2 -->
 <br>
-<img src="images/clear.gif" width="120" height="9" class="white4pxbottom white4pxtop"><br>
 <!-- Start Ad #3 (vlaueclick) -->
-<script language="JavaScript">
+<img src="images/clear.gif" width="120" height="9" class="white4pxbottom white4pxtop"><br>
+<script language="JavaScript" type="text/javascript">
 <!--
-// ValueParameters
-ValueHost = "hs0291205";
-ValueLoaded = false;
-ValueID = "pagebuster";
-ValueVersion = "1.2";
-ValueBannerType = "std";
-var ValueWidths_Heights = new Array("120x60");
-
-ValueNoText = 1;
-ValueBannerSizeOrder =  "listed";
-
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substring(2,11);
+   
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://downloads.betterpropaganda.com/adserver/adjs.php?n=" + phpAds_random);
+   document.write ("&amp;what=zone:5&amp;target=_blank");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   if (document.referer)
+      document.write ("&amp;referer=" + escape(document.referer));
+   document.write ("'><" + "/script>");
 //-->
-</script>
-<script language="Javascript" src="http://oz.valueclick.com/jsmaster"></script>
-<script language="JavaScript">
-<!--
-if (ValueLoaded) ValueShowAd();
-//-->
-</script>
-
-
-<noscript>
-
-<A HREF="http://oz.valueclick.com/redirect?host=hs0291205&t=std&b=indexpage&noscript=1&v=0;msizes=120x60;bso=listed" TARGET="_top"><IMG BORDER="0" WIDTH="120" HEIGHT="60" ALT="Click here to visit our sponsor"
-SRC="http://oz.valueclick.com/cycle?host=hs0291205&t=std&b=indexpage&noscript=1;msizes=120x60;bso=listed"></A>
-
-</noscript>
-<!-- End Ad #3 (vlaueclick) -->
+</script><script language="JavaScript" type="text/javascript" src="http://downloads.betterpropaganda.com/adserver/adjs.php?n=292225483&amp;what=zone:5&amp;target=_blank&amp;exclude=,"></script><noscript><a href='http://downloads.betterpropaganda.com/adserver/adclick.php?n=a71fd896' target='_blank'><img src='http://downloads.betterpropaganda.com/adserver/adview.php?what=zone:5&amp;n=a71fd896' border='0' alt=''></a></noscript>
+<!-- End Ad #3  -->
 <br>
 <img src="images/clear.gif" width="120" height="1" class="white4pxtop"><br>	
 
@@ -367,7 +411,7 @@ By using this site, you consent to the collection and use of your Personal Infor
 </td></tr></tbody></table>
 
 <!-- END MAIN BODY -->
-<script language="javascript" type="text/javascript" src="footer.js"></script><style> .footerlink:hover { text-decoration:underline } .footerfont  { font-family:arial,helvetica; font-size:9px; line-height:11px; color:#999999 } .footerlink  { font-family:arial,helvetica; font-size:9px; line-height:11px; color:999999; text-decoration:none } </style> <br><table width="790" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="footerfont">©&nbsp;2004 <a class="footerlink" href="http://www.betterpropaganda.com" target="_top">BetterPropaganda</a>. All rights reserved. <a class="footerlink" href="http://betterpropaganda.com/privacy_policy.asp">Privacy Policy</a>. <a class="footerlink" href="http://betterpropaganda.com/terms&amp;conditions.asp">Terms &amp; Conditions</a>.
+<script language="javascript" type="text/javascript" src="footer.js"></script><style> .footerlink:hover { text-decoration:underline } .footerfont  { font-family:arial,helvetica; font-size:9px; line-height:11px; color:#999999 } .footerlink  { font-family:arial,helvetica; font-size:9px; line-height:11px; color:999999; text-decoration:none } </style> <br><table width="790" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="footerfont">©&nbsp;2004-2005 <a class="footerlink" href="http://www.betterpropaganda.com" target="_top">betterPropaganda</a>. All rights reserved. <a class="footerlink" href="http://betterpropaganda.com/privacy_policy.asp">Privacy Policy</a>. <a class="footerlink" href="http://betterpropaganda.com/terms&amp;conditions.asp">Terms &amp; Conditions</a>.
 
 
 
