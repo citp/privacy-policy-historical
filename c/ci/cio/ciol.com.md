@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2001-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010814084110id_/http%3A//www.ciol.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciol.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604023035id_/http%3A//www.ciol.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for Cyber India Online
 
