@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upperroom.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217185417id_/http%3A//www.upperroom.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upperroom.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208210839id_/http%3A//www.upperroom.org/privacy) for the most accurate reproduction.*
 
 # Upper Room | Privacy Policy
 
@@ -42,9 +42,9 @@ Individuals and churches who supply us with their telephone numbers on-line may 
 
 **Policies for Children (Under the Age of 13)**
 
-The Upper Room encourages parents and guardians to spend time online with their children and to participate in the activities offered on the Pockets web site. No personally identifiable information should be submitted to or posted at The Upper Room by visitors under 13 years of age without the consent of their parent or guardian. 
+The Upper Room encourages parents and guardians to spend time online with their children and to participate in the activities offered on the Upper Room web site. No personally identifiable information should be submitted to or posted at The Upper Room by visitors under 13 years of age without the consent of their parent or guardian. 
 
-This web site does not solicit or allow children under 13 to publicly post or otherwise distribute personally identifiable contact information. In the event that we ask for information from children under the age of 13, we do not include personally identifiable information such as child's last name, city, or e-mail address. 
+This web site does not solicit or allow children under 13 to publicly post or otherwise distribute personally identifiable contact information. In the event that we ask for information online from children under the age of 13, we do not require personally identifiable information such as child's last name, city, or e-mail address. 
 
 If our Upper Room staff receive e-mail from children under 13, we may contact the child under the following circumstances:  
 
