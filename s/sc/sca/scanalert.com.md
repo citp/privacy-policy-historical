@@ -1,13 +1,23 @@
-> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602191645id_/http%3A//scanalert.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scanalert.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205030613id_/http%3A//www.scanalert.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # ScanAlert - Privacy Policy
 
+Our privacy and security policies exceed industry standards. The nature of our services dictates that we restrict our use of information to only what is needed to deliver the best services in our industry, and no more. We encourage you to read our Privacy Statement as part of your evaluation process and to read it again when we notify you of changes from time to time.
+
+If you have questions or concerns regarding this statement, please contact ScanAlert's Privacy Officer by sending an email to [privacy@scanalert.com](mailto:privacy@scanalert.com). If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, please contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process.](https://web.archive.org/Link?url=http%3A%2F%2Fwww.truste.org%2Fusers%2Fusers_watchdog_new.php) TRUSTe will serve as a liaison with us to resolve your concerns.
+
+About TRUSTe
+
+ScanAlert is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices including full and honest disclosure of specific practices in a Privacy Statement. 
+
+Each change to ScanAlert’s Privacy Statement is reviewed by TRUSTe before publication to ensure compliance with their strict standards. However, our goal is always to raise the bar, and exceed industry standards wherever possible. 
+
 What is Covered in This Statement
 
-This privacy statement covers the sites www.ScanAlert.com and its mirror, www.OnSpark.com, and services running on asp.ScanAlert.com. These sites are operated by OnSpark, Inc., a California corporation doing business as ScanAlert with headquarters located at:
+This privacy statement covers the site www.ScanAlert.com This site is operated by ScanAlert, Inc., a California corporation with its headquarters located at:
 
-625 Imperial Way, Suite 7  
-Napa CA 94559
+860 Napa Valley Corporate Way, Suite R  
+Napa CA 94558
 
 Our Privacy Statement clearly discloses:
 
@@ -34,6 +44,10 @@ Registration (Sign-Up)
 In order to use ScanAlert's products and services, a user must first complete the registration form. During registration a user is required to give contact information such as name, company name, address, email address, URLs and/or IP addresses. We use this information to verify the ownership of servers, URLs, and IP addresses, to do non-invasive informational testing of user's servers, and to contact the user about services on our site for which he has expressed interest. In order to use the ScanAlert services, users must provide a username and password.
 
 In addition to personally identifying and company information, a user must provide payment information (such as credit card number, expiration date). This information is used for one-time and recurring billing purposes according to requested services and terms of service agreement, and to fulfill customer's orders. If we have trouble processing an order, personal and company information is used to contact the user.
+
+Our "IsItSafe" Service
+
+ScanAlert will contact the sites where you have shopped, or plan to shop, when you enter your email address into our IsItSafe request form. Your email address will not be used for any other purpose or shared with anyone except the merchant in question. In this way the merchant will know their own customer instigated the request. We store this information to track the success of the program.
 
 Delivery of Services
 
@@ -101,10 +115,6 @@ Surveys
 
 From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users. personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys, they may not use users. personally identifiable information for any secondary purposes. 
 
-Tell-A-Friend
-
-From time to time we will implement a referral function. If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. ScanAlert will automatically send the friend a one-time email inviting them to visit the site. ScanAlert uses this information for the sole purpose of sending this one-time email and tracking the success of our referral program. If stored, the friend may contact ScanAlert at remove@scanalert.com to request the removal of this information from our database.
-
 Information Sharing
 
 Legal Disclaimer
@@ -151,8 +161,6 @@ Supplementation of Information
 
 In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
 
-Verisign Inc. Privacy Statement
-
 We use Verisign Inc. as both a certificate authority and Payment Gateway to process our user's credit card and virtual check transactions. [Click here to view their current privacy statement.](http://www.verisign.com/truste/index.html)
 
 Correcting/Updating/Deleting/Deactivating Personal Information
@@ -176,5 +184,5 @@ If users have any questions or suggestions regarding our privacy statement inclu
 **Mail:**  
 ScanAlert  
 Attn: Privacy Officer  
-625 Imperial Way, Suite 7  
-Napa CA 94559
+860 Napa Valley Corporate Way, Suite R  
+Napa CA 94558
