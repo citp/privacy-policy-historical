@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ppi2pass.com privacy policy that was archived on 2000-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001031100801id_/http%3A//www.ppi2pass.com/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppi2pass.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409223750id_/http%3A//ppi2pass.com/priv.html) for the most accurate reproduction.*
 
-# PPI's Privacy Policy
+# PPI Privacy Notice
+
+## Privacy Policy
 
 When you request information, a catalog, or literature, enroll in a course or program, or purchase a product from Professional Publications, our order-processing software creates a permanent, historical record containing information ("Personal Information") about you. The software gives you a unique identification number which helps us to track all of your transactions. When you buy a Professional Publications product, we may ask you to return a registration card that comes with the product. If you install software or enroll in an online course, we may ask you to register electronically. When you do, we may merge your registration information with any other information you've already left with us. If you ever want to review or update that information, please contact Professional Publications's [Marketing Department.](mailto:marketing@ppi2pass.com) If you haven't already given us your e-mail address, we will ask you to do so. This ensures that only you can access your information. 
 
@@ -18,6 +20,4 @@ Professional Publications occasionally shares Personal Information with an affil
 
 * * *
 
-[Return to PPI Home Page](https://web.archive.org/web/20001031100801id_/http%3A//index.html)
-
-Professional Publications, Inc. | www.ppi2pass.com | 800-426-1178 
+Copyright © 2001 Professional Publications, Inc. | www.ppi2pass.com | 800-426-1178 
