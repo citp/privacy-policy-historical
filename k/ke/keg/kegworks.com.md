@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201221816id_/http%3A//kegworks.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kegworks.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212005815id_/http%3A//www.kegworks.com/pages/privacy.html) for the most accurate reproduction.*
 
 # KegWorks.com...Privacy Statement for KegWorks.com
 
