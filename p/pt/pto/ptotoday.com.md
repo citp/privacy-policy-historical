@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2000-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000608171446id_/http%3A//www.ptotoday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ptotoday.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204230700id_/http%3A//ptotoday.com/privacy.html) for the most accurate reproduction.*
 
-# PTOtoday Online: Link to Us
+# PTOtoday Online: Our Privacy Policy
 
 |  PTOtoday has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: PTOtoday.com.
 
