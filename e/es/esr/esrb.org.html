@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the esrb.org privacy policy that was archived on 2002-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207070122id_/http%3A//www.esrb.org/privacy_stmt.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esrb.org privacy policy that was archived on 2003-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621090522id_/http%3A//esrb.org/privacy_statement.asp) for the most accurate reproduction.-->
 
 <html><head>
-<title>Privacy - Privacy Statement</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>ESRB - Privacy Statement</title>
+<meta name="description" content="The Entertainment Software Rating Board (ESRB) is a non- profit organization that rates PC, video, and wireless games in terms of content and age-appropriateness.">
+<meta name="keywords" content="ESRB, Entertainment Software Rating Board, ratings, games, videogames, PC games, computer games, wireless games, X-box, PlayStation, PlayStation 2, Nintendo Game Cube, parent's guide to ratings, parent's guide to computer games, parent's guide to videogames, M for Mature, T for Teen, E for Everyone">
 <link rel="stylesheet" href="style_sheet.css" type="text/css">
-<link rel="P3Pv1" href="/w3c/p3p.xml"><script language="JavaScript">
+<link rel="P3Pv1" href="http://www.esrb.org/w3c/p3p.xml">
+<script language="JavaScript">
 <!--
 // look for navigator 3+
 /*
@@ -14,9 +16,17 @@ bVer = parseInt(navigator.appVersion);
 br = 0;
 */
 detectBrowser();
+
+//alert(window.navigator.userAgent.toLowerCase());
+//alert(parseFloat(navigator.appVersion));
+//alert(navigator.OS);
+//alert(navigator.version);
+//alert(navigator.org);
+//alert(navigator.family);
+
 if(navigator.OS != "nix")
 {
-	if((navigator.org == "netscape" && navigator.version >= 4) || (navigator.org == "microsoft" && navigator.version >= 4))
+	if((navigator.org == "netscape" && navigator.version >= 4) || (navigator.org == "microsoft" && navigator.version >= 4) || navigator.org == "mozilla" && parseFloat(navigator.appVersion)>= 4)
 	{
 		br = "4";
 	}
@@ -38,34 +48,42 @@ function hiLite(oldImage,newImage)
 // preload  navigation images
 if (br == 4 || navigator.OS == "nix")
 {
-	// home
-	home_off = new Image(160,32); home_off.src = "images/nav_home.gif";
-	home_on = new Image (160,32); home_on.src = "images/nav_home_hil.gif";
-	// about esrb
-	aboutesrb_off = new Image(160,32); aboutesrb_off.src = "images/nav_aboutesrb.gif";
-	aboutesrb_on = new Image (160,32); aboutesrb_on.src = "images/nav_aboutesrb_hil.gif";
-	// esrb video
-	esrbvideo_off = new Image (160,32); esrbvideo_off.src = "images/nav_esrbvideo.gif";
-	esrbvideo_on = new Image (160,32); esrbvideo_on.src = "images/nav_esrbvideo_hil.gif";
-	// esrbi online
-	esrbionline_off = new Image (160,32); esrbionline_off.src = "images/nav_esrbionline.gif";
-	esrbionline_on = new Image (160,32); esrbionline_on.src = "images/nav_esrbionline_hil.gif";
-	// search rating
-	search_off = new Image (160,32); search_off.src = "images/nav_searchrating.gif";
-	search_on = new Image (160,32); search_on.src = "images/nav_searchrating_hil.gif";
-	// esrb privacy
-	esrbprivacy_off = new Image (160,32); esrbprivacy_off.src = "images/nav_esrbprivacy.gif";
-	esrbprivacy_on = new Image (160,32); esrbprivacy_on.src = "images/nav_esrbprivacy_hil.gif";
-	// arc
-	arc_off = new Image (160,32); arc_off.src = "images/nav_arc.gif";
-	arc_on = new Image (160,32); arc_on.src = "images/nav_arc_hil.gif";
-	// publisher
-	publisher_off = new Image (160,32); publisher_off.src = "images/nav_publisher.gif";
-	publisher_on = new Image (160,32); publisher_on.src = "images/nav_publisher_hil.gif";
-	//Retailer Information
-	retailerinfo_off = new Image (160,32); retailerinfo_off.src = "images/nav_retailerinfo.gif";
-	retailerinfo_on = new Image (160,32); retailerinfo_on.src = "images/nav_retailerinfo_hil.gif";
-	
+
+// about esrb
+nav_aboutesrb_off = new Image(160,32); nav_aboutesrb_off.src = "images/nav_aboutesrb.gif";
+nav_aboutesrb_on = new Image (160,32); nav_aboutesrb_on.src = "images/nav_aboutesrb_hil.gif";
+
+// arc
+nav_arc_off = new Image (160,32); nav_arc_off.src = "images/nav_arc.gif";
+nav_arc_on = new Image (160,32); nav_arc_on.src = "images/nav_arc_hil.gif";
+
+// esrbi ratings
+nav_esrbiratings_off = new Image (160,32); nav_esrbiratings_off.src = "images/nav_esrbiratings.gif";
+nav_esrbiratings_on = new Image (160,32); nav_esrbiratings_on.src = "images/nav_esrbiratings_hil.gif";
+
+// esrb privacy
+nav_esrbprivacy_off = new Image (160,32); nav_esrbprivacy_off.src = "images/nav_esrbprivacy.gif";
+nav_esrbprivacy_on = new Image (160,32); nav_esrbprivacy_on.src = "images/nav_esrbprivacy_hil.gif";
+
+// esrb ratings
+nav_esrbratings_off = new Image (160,32); nav_esrbratings_off.src = "images/nav_esrbratings.gif";
+nav_esrbratings_on = new Image (160,32); nav_esrbratings_on.src = "images/nav_esrbratings_hil.gif";
+
+// home
+nav_home_off = new Image(160,32); nav_home_off.src = "images/nav_home.gif";
+nav_home_on = new Image (160,32); nav_home_on.src = "images/nav_home_hil.gif";
+
+// publisher
+nav_publisher_off = new Image(160,32); nav_publisher_off.src = "images/nav_publisher.gif";
+nav_publisher_on = new Image (160,32); nav_publisher_on.src = "images/nav_publisher_hil.gif";
+
+// retailer
+nav_retailerinfo_off = new Image(160,32); nav_retailerinfo_off.src = "images/nav_retailerinfo.gif";
+nav_retailerinfo_on = new Image (160,32); nav_retailerinfo_on.src = "images/nav_retailerinfo_hil.gif";
+
+// consumer
+nav_consumer_off = new Image(160,32); nav_consumer_off.src = "images/nav_consumerhotline.gif";
+nav_consumer_on = new Image (160,32); nav_consumer_on.src = "images/nav_consumerhotline_hil.gif";
 }
 
 // work around bug in xpcdom Mozilla 0.9.1
@@ -213,219 +231,325 @@ function detectBrowser()
 </script>
 </head>
 
-<body bgcolor="#FFFFFF" background="images/tile_background.gif" link="#990000" alink="#990000" vlink="#990000" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
+<body bgcolor="#FFFFFF" background="images/tile_background.gif" link="#990000" alink="#990000" vlink="#990000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 <!-- main table start -->
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td width="160" valign="top" bgcolor="#000066">
-
-<!-- nested nav bar table -->
-<table width="160" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td valign="top" bgcolor="#000066" background="images/tile_blackandblue.gif"><img src="images/dot_clr.gif" width="1" height="17" alt=""></td>
+<!-- spacer row -->
+<tbody><tr valign="top">
+<td width="160" bgcolor="#000066" background="images/tile_blackandblue.gif"><img src="images/dot_clr.gif" width="160" height="17" alt=""></td>
+<td width="20" bgcolor="#000066" background="images/tile_blackandblue.gif"><img src="images/dot_clr.gif" width="15" height="17" alt=""></td>
+<td width="100%" bgcolor="#000066" background="images/tile_blackandblue.gif"><img src="images/dot_clr.gif" width="1" height="17" alt=""></td>
+<td width="20" bgcolor="#000066" background="images/tile_blackandblue.gif"><img src="images/dot_clr.gif" width="15" height="17" alt=""></td>
 </tr>
 
+<tr valign="top">
+<td bgcolor="#000066" width="160">
 <!-- logo -->
-<tr>
-<td width="160" valign="top" bgcolor="#000066"><img src="images/dot_clr.gif" width="1" height="12" alt=""><br>
-<center><a href="index.asp"><img src="images/logo_esrb.gif" width="120" height="86" alt="ESRB" border="0"></a></center><br>
-<img src="images/dot_clr.gif" width="1" height="3" alt=""></td>
+<img src="images/logo_esrb.gif" width="120" height="89" alt="ESRB" border="0" hspace="12" vspace="20"><br>
+
+<!-- navigation -->
+<a href="index.asp" onmouseover="hiLite('nav_home','nav_home_on')" onmouseout="hiLite('nav_home','nav_home_off')"><img src="/images/nav_home.gif" width="160" height="32" alt="Home" border="0" name="nav_home"></a><br>
+<a href="esrbratings.asp" onmouseover="hiLite('nav_esrbratings','nav_esrbratings_on')" onmouseout="hiLite('nav_esrbratings','nav_esrbratings_off')"><img src="/images/nav_esrbratings.gif" width="160" height="32" alt="ESRB Game Ratings" border="0" name="nav_esrbratings"></a><br>
+<a href="esrbiratings.asp" onmouseover="hiLite('nav_esrbiratings','nav_esrbiratings_on')" onmouseout="hiLite('nav_esrbiratings','nav_esrbiratings_off')"><img src="/images/nav_esrbiratings.gif" width="160" height="32" alt="ESRBi Website Ratings" border="0" name="nav_esrbiratings"></a><br>
+<a href="privacy.asp" onmouseover="hiLite('nav_esrbprivacy','nav_esrbprivacy_on')" onmouseout="hiLite('nav_esrbprivacy','nav_esrbprivacy_off')"><img src="/images/nav_esrbprivacy.gif" width="160" height="32" border="0" alt="ESRB Privacy Online" name="nav_esrbprivacy"></a><br>
+<a href="arc.asp" onmouseover="hiLite('nav_arc','nav_arc_on')" onmouseout="hiLite('nav_arc','nav_arc_off')"><img src="/images/nav_arc.gif" width="160" height="32" border="0" alt="Advertising Review Council" name="nav_arc"></a><br>
+<a href="about.asp" onmouseover="hiLite('nav_aboutesrb','nav_aboutesrb_on')" onmouseout="hiLite('nav_aboutesrb','nav_aboutesrb_off')"><img src="/images/nav_aboutesrb.gif" width="160" height="32" border="0" alt="About ESRB" name="nav_aboutesrb"></a><br>
+<a href="publisher/index.asp" onmouseover="hiLite('nav_publisher','nav_publisher_on')" onmouseout="hiLite('nav_publisher','nav_publisher_off')"><img src="/images/nav_publisher.gif" width="160" height="32" border="0" alt="Publisher Information" name="nav_publisher"></a><br>
+<a href="retailer/index.asp" onmouseover="hiLite('nav_retailerinfo','nav_retailerinfo_on')" onmouseout="hiLite('nav_retailerinfo','nav_retailerinfo_off')"><img src="/images/nav_retailerinfo.gif" width="160" height="32" border="0" alt="Retailer Information" name="nav_retailerinfo"></a><br>
+<a href="/consumer_online_hotline.asp" onmouseover="hiLite('nav_consumer','nav_consumer_on')" onmouseout="hiLite('nav_consumer','nav_consumer_off')"><img src="/images/nav_consumerhotline.gif" width="160" height="32" border="0" alt="Consumer Online-Hotline" name="nav_consumer"></a><br>
+<!-- end navbar -->
+
+<!-- join newsletter row -->
+<a name="navNews"></a>
+
+
+<!-- begin nested table -->
+<table width="160" border="0" cellpadding="0" cellspacing="0">
+<form name="frmNavNews" action="/includes/navbar_newsletter.asp" method="post"></form>
+<!-- spacer row -->
+<tbody><tr>
+<td width="6"><img src="/images/dot_clr.gif" width="6" height="30" alt="" border="0"></td>
+<td width="148"><img src="/images/dot_clr.gif" width="148" height="1" alt="" border="0"></td>
+<td width="6"><img src="/images/dot_clr.gif" width="6" height="1" alt="" border="0"></td>
 </tr>
 
-<!-- nav bar images row -->
-<tr bgcolor="#330000">
-<td width="160" valign="top"><a href="index.asp" onmouseover="hiLite('home','home_on')" onmouseout="hiLite('home','home_off')"><img src="images/nav_home.gif" name="home" width="160" height="32" border="0"></a><br>
-<a href="about.asp" onmouseover="hiLite('aboutesrb','aboutesrb_on')" onmouseout="hiLite('aboutesrb','aboutesrb_off')"><img src="images/nav_aboutesrb.gif" name="aboutesrb" width="160" height="32" border="0"></a><br>
-<a href="esrb.asp" onmouseover="hiLite('esrbvideo','esrbvideo_on')" onmouseout="hiLite('esrbvideo','esrbvideo_off')"><img src="images/nav_esrbvideo.gif" name="esrbvideo" width="160" height="32" border="0"></a><br>
-<a href="online.asp" onmouseover="hiLite('esrbionline','esrbionline_on')" onmouseout="hiLite('esrbionline','esrbionline_off')"><img src="images/nav_esrbionline.gif" name="esrbionline" width="160" height="32" border="0"></a><br>
-<a href="search.asp" onmouseover="hiLite('search','search_on')" onmouseout="hiLite('search','search_off')"><img src="images/nav_searchrating.gif" name="search" width="160" height="32" border="0"></a><br>
-<a href="privacy.asp" onmouseover="hiLite('esrbprivacy','esrbprivacy_on')" onmouseout="hiLite('esrbprivacy','esrbprivacy_off')"><img src="images/nav_esrbprivacy.gif" name="esrbprivacy" width="160" height="32" border="0"></a><br>
-<a href="arc_brochure.asp" onmouseover="hiLite('arc','arc_on')" onmouseout="hiLite('arc','arc_off')"><img src="images/nav_arc.gif" name="arc" width="160" height="32" border="0"></a><br>
-<a href="publisher/" onmouseover="hiLite('publisher','publisher_on')" onmouseout="hiLite('publisher','publisher_off')"><img src="images/nav_publisher.gif" name="publisher" width="160" height="32" border="0"></a><br>
-<a href="retailer/retailer_info.pdf" onmouseover="hiLite('retailerinfo','retailerinfo_on')" onmouseout="hiLite('retailerinfo','retailerinfo_off')"><img src="images/nav_retailerinfo.gif" name="retailerinfo" width="160" height="32" border="0"></a><br></td>
+<tr valign="top">
+<td><img src="/images/dot_clr.gif" width="1" height="1" alt="" border="0"></td>
+<td><img src="/images/title_newsletter_purple.gif" width="136" height="14" alt="Join Our Newsletter!" border="0">
+<p class="navFormText">
+Enter E-Mail Address:
+</p>
+</td>
+<td><img src="/images/dot_clr.gif" width="1" height="1" alt="" border="0"></td>
 </tr>
 
-<!-- esrb address row -->
-<tr>
-<td width="160"><img src="images/dot_clr.gif" width="5" height="100" alt="" align="left"><br>
-<font class="nav" face="Verdana, Arial, Helvetica, san-serif" size="1" color="#ffffff">ESRB<br>
-845 Third Avenue<br>
-New York, NY 10022 1.800.771.3772 phone<br>
-<a href="mailto:info@esrb.org"><font color="#FFFF00"><b>info@esrb.org</b></font></a>
-<br>
-</font></td>
+<tr valign="top">
+<td><img src="/images/dot_clr.gif" width="1" height="1" alt="" border="0"></td>
+<td>
+<input type="text" class="xsmall" size="11" name="theEmail" value="">
+<input type="hidden" name="thePage" value="/privacy_statement.asp">
+</td>
+<td><img src="/images/dot_clr.gif" width="1" height="1" alt="" border="0"></td>
 </tr>
+
+<tr>
+<td colspan="3"><img src="/images/dot_clr.gif" width="1" height="12" alt="" border="0"></td>
+</tr>
+
+<tr valign="top">
+<td><img src="/images/dot_clr.gif" width="1" height="1" alt="" border="0"></td>
+<td align="right"><input type="image" src="/images/butn_submit_purple.gif" alt="Submit" border="0">
+</td>
+<td><img src="/images/dot_clr.gif" width="1" height="1" alt="" border="0"></td>
+</tr>
+
 </tbody></table>
-<!-- nested nav bar table end -->
+<!-- end nested table -->
+
+
+
+
+
 
 </td>
-<td valign="top" width="100%">
-
-<!-- Begin Body Table -->
-<table border="0" width="100%" cellpadding="0" cellspacing="0">
-<!-- Spacer Row -->
-<tbody><tr bgcolor="#000066">
-<td width="15"><img src="images/dot_clr.gif" width="15" height="17" alt="" border="0"></td>
-<td width="100%"><img src="images/dot_clr.gif" width="1" height="1" alt="" border="0"></td>
-<td width="15"><img src="images/dot_clr.gif" width="15" height="1" alt="" border="0"></td>
-</tr>
-
-<tr>
-<td colspan="3"><img src="images/dot_clr.gif" width="1" height="15" alt="" border="0"></td>
-</tr>
-
-<tr align="left" valign="top">
 <td><img src="images/dot_clr.gif" width="1" height="1" alt="" border="0"></td>
-<td><img src="images/title_privacystatement.gif" width="310" height="28" alt="" border="0"><br>
-<br>
-<font class="black12" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#000000">
-<font color="#CC0000"><i>Updated April 30, 2002</i></font><br>
-<br>
-<font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">Welcome</font><br>
-<br>
-Welcome, The Entertainment Software Rating Board ("ESRB") would like to thank you for visiting our website. We are pleased to have the opportunity to help make the Internet a secure, private, and reliable place to share information and conduct business. This privacy policy explains how we collect and use information from our website visitors. All of ESRB's divisions prescribe to essentially the same information collection and use practices, and all of these practices are stated in this privacy policy. If a practice is specific to a particular ESRB division, this policy will describe that practice in detail and refer directly to the appropriate division (the divisions will be referred to as either: "the Rating Board"; "ESRB Privacy Online"; "ESRB interactive"; or "Advertising Review Council"). If a practice is consistent among all of the divisions, this policy will refer to "ESRB" as a whole.<br>
-<br>
-Whenever you visit a website that displays the ESRB Privacy Online certification seal, you can expect to be notified of the following:
-<ul>
-<li><a href="#one">The websites and information covered by this Privacy Policy</a>;
-</li><li><a href="#two">Exactly what information may be collected and how it will be used</a>;
-</li><li><a href="#three">The consequences, if any, resulting from your refusal to provide personal information</a>;
-</li><li><a href="#four">Whether a company uses cookies, tracks IP addresses, or uses other passive means to collect information</a>;
-</li><li><a href="#five">Who, if anyone, is collecting your personal information</a>;
-</li><li><a href="#six">With whom, if anyone, is your personal information shared</a>;
-</li><li><a href="#seven">What is a company's policy regarding links to third party sites</a>;
-</li><li><a href="#eight">What choices you have with regard to the use of your personal information</a>;
-</li><li><a href="#nine">How you can access, and if necessary, change the personal information a company collects and maintains</a>;
-</li><li><a href="#ten">How a company ensures data security, quality, and integrity</a>; and,
-</li><li><a href="#eleven">Where and how to ask questions or file complaints</a>.
-</li></ul>
+<td><img src="images/dot_clr.gif" width="1" height="15" alt="" border="0"><br>
+<a name="top"></a>
+<img src="images/title_privacystatement.gif" width="310" height="28" alt="Privacy Statement" border="0"><br>
+<p class="subheadRed">
+</p>
 
-<a name="one"></a>This privacy policy applies to the following websites operated by ESRB:
-<ul>
-<li><a href="http://www.ESRB.com">www.ESRB.com</a>
-</li><li><a href="http://www.ESRB.org">www.ESRB.org</a>
-</li><li><a href="http://www.ESRB.net">www.ESRB.net</a>
-</li></ul>
+<p class="bodyText">
+<i>April 4, 2003</i><br>
+<br>
+Welcome. The Entertainment Software Rating Board ("ESRB") would like to thank you for visiting our website. We are pleased to have the opportunity to help make the Internet a secure, private, and reliable place to share information and conduct business. This privacy policy explains how we collect and use information from our website visitors. All of ESRB's divisions prescribe to essentially the same information collection and use practices, and all of these practices are stated in this privacy policy. If a practice is specific to a particular ESRB division, this policy will describe that practice in detail and refer directly to the appropriate division (the divisions will be referred to as either: "the Rating Board"; "ESRB Privacy Online"; "ESRB interactive"; or "Advertising Review Council"). If a practice is consistent among all of the divisions, this policy will refer to "ESRB" as a whole.<br>
+<br>
+Whenever you visit a website that displays the ESRB Privacy Online certification seal, you can expect to be notified of the following:<br>
 
-Please note that this privacy policy applies only to information submitted and collected online through the website(s) listed above, and does not apply to information that may be collected by ESRB offline.  In addition, this privacy policy applies only to sites maintained by ESRB and not to websites maintained by other companies or organizations to which we link.  ESRB is therefore not responsible for the content or activities provided on such sites.<br>
+</p><ul class="smallIndent">
+<li><a href="#one" class="red">The websites and information covered by this Privacy Policy</a>;</li>
+<li><a href="#two" class="red">Exactly what information may be collected and how it will be used</a>;</li>
+<li><a href="#three" class="red">The consequences, if any, resulting from your refusal to provide personal information</a>;</li>
+<li><a href="#four" class="red">Whether a company uses cookies, tracks IP addresses, or uses other passive means to collect information</a>;</li>
+<li><a href="#five" class="red">Who, if anyone, is collecting your personal information</a>;</li>
+<li><a href="#six" class="red">With whom, if anyone, is your personal information shared</a>;</li>
+<li><a href="#seven" class="red">What is a company's policy regarding links to third party sites</a>;</li>
+<li><a href="#eight" class="red">What choices you have with regard to the use of your personal information</a>;</li>
+<li><a href="#nine" class="red">How you can access, and if necessary, change the personal information a company collects and maintains</a>;</li>
+<li><a href="#ten" class="red">How a company ensures data security, quality, and integrity</a>; and,</li>
+<li><a href="#eleven" class="red">Where and how to ask questions or file complaints</a>.</li>
+</ul><p></p>
+
 <br>
-<font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">European Union</font><br>
+<img src="images/dot_gray.gif" width="100%" height="1" alt="" border="0"><br>
 <br>
+
+<a name="one"></a>
+<p class="redTitle">What does this Privacy Policy apply to?</p>
+<p class="bodyText">This privacy policy applies to the following websites operated by ESRB:<br>
+<br>
+</p><ul class="smallIndent">
+<li><a href="http://www.ESRB.com" class="red">www.ESRB.com</a></li>
+<li><a href="http://www.ESRB.org" class="red">www.ESRB.org</a></li>
+</ul><br>
+<p></p>
+
+<p class="bodyText">Please note that this privacy policy applies only to information submitted and collected online through the website(s) listed above, and does not apply to information that may be collected by ESRB offline. In addition, this privacy policy applies only to sites maintained by ESRB and not to websites maintained by other companies or organizations to which we link.  ESRB is therefore not responsible for the content or activities provided on such sites.<br>
+<br>
+<b>European Union</b><br>
 ESRB abides by the Safe Harbor principles as set forth by the United States Department of Commerce regarding the collection, use, and retention of data from the European Union.<br>
 <br>
-<br>
-<a name="two"></a><font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">What types of information does ESRB collect and how will it be used?</font><br>
-<br>
-ESRB only collects information on a voluntary basis. The personal information ESRB collects is used almost exclusively for communications purposes and will usually take the form of: (1) ESRB Privacy Online's company registration form; (2) ESRB Privacy Online's Sentinel Consumer Online-Hotline; (3) a consumer complaint or inquiry directed to the Rating Board; (4) an ESRB survey; (5) ESRB Privacy Online's Privacy Statement Composer and/or (6) other general information contained in an email (e.g., comments).   The types of information that may be requested for each activity and the way the information may be used are detailed below.<br>
-<br>
-<blockquote>
-<font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000"><u>ESRB Privacy Online Company Registration</u></font><br>
-Companies that wish to participate in the privacy online program are required to complete ESRB Privacy Online's company registration form. The requested information may include the company name, address, telephone number and the name of a company representative who will oversee the company's privacy policy initiatives.<br>
-<br>
-<font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000"><u>ESRB Privacy Online Sentinel Consumer Online-Hotlin</u>e</font><br>
-If a consumer believes a privacy violation has taken place at a participating company's website, the consumer has the option of reporting the violation to the Sentinel Consumer Online-Hotline. The requested information may include the consumer's name and e-mail address. The submitted email address will be used solely for the purposes of contacting the consumer about the privacy complaint, updating the consumer concerning the status of a complaint, and to help resolve the complaint. We will never release this information to an external third party unless we have specific, prior-permission from the consumer to do so. In an effort to investigate a possible privacy violation and to resolve a complaint, ESRB Privacy Online may disclose a consumer's first name, last name, and e-mail address to the participating company referenced in a complaint.  We will never release additional personal information to the participating company referenced in a complaint unless we have specific, prior-permission from the consumer to do so.<br>
-<br>
-Unless an inquiry or complaint has not been resolved, all ESRB Privacy Online complaints and inquiries are purged within three (3) years.<br>
-<br>
-<font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000"><u>Consumer Complaints Directed to the Rating Board</u></font><br>
-From time to time, the Rating Board receives complaints or inquiries regarding the ESRB rating system and/or the rating icons/symbols. When a complaint or inquiry is received, the Rating Board promptly investigates the complaint or inquiry, and then, when appropriate, responds to the individual who sent the complaint or inquiry via the e-mail address from where the request originated. Unless an inquiry or complaint has not been resolved, all complaints and inquiries are purged within thirty (30) days.<br>
-<br>
-<font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000"><u>ESRB Survey</u></font><br>
-Any one of the ESRB divisions may conduct surveys. The surveys are conducted strictly for internal profiling purposes and only keep track of anonymous demographic data (e.g., whether you are a parent, a game player, or a publisher).<br>
-<br>
-<font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000"><u>ESRB Privacy Online's Privacy Statement Composer</u></font><br>
-ESRB Privacy Online's Privacy Statement Composer is designed to help you create a first draft of your privacy statement that can subsequently be customized to meet your company's particular business model and privacy practices. The Privacy Statement Composer asks for information such as your company name, company address, company telephone number, and contact information. The collected information is used for the sole purpose of creating a privacy statement. ESRB Privacy Online does not store the personal information submitted after the privacy statement is generated.<br>
-<br>
-<font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000"><u>General Information Contained in Email</u></font><br>
-ESRB's website provides a number of links through which an online visitor can e-mail us. ESRB collects personal information contained in the e-mail for the purpose of responding to a consumer's questions and/or comments. Unless an inquiry or complaint has not been resolved, all complaints and inquiries are purged within thirty (30) days.<br>
-<br>
-</blockquote>
-No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.<br>
-<br>
-<br>
-<a name="three"></a><font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">What happens if I refuse to provide my personal information to ESRB?</font><br>
-<br>
-If you choose not to submit personal information when requested, you may not be able to access certain areas of our site and may considerably limit the services we can provide you.  To simply use our site, however, you do not need to give us any personal information.<br>
-<br>
-<br>
-<a name="four"></a><font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">Does ESRB use cookies, track IP addresses or use other passive means to collect information?</font><br>
-<br>
-<blockquote>
-<font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000"><u>Cookies</u></font><br>
-ESRB does not use cookies on its website.  A "cookie" is a small file or record-keeping device that websites often store on a user's computer.<br>
-<br>
-<font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000"><u>IP Addresses</u></font><br>
-ESRB may collect your IP address for safety and security purposes.  An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.<br>
-<br>
-<br>
-</blockquote>
+<a href="#top" class="red">Back to Top</a></p>
 
-<a name="five"></a><font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">Who is collecting my personal information?</font><br>
 <br>
-The information that you disclose while visiting any of our websites is collected by ESRB, and is used in the manner specified <a href="#four">above</a>.<br>
-<br>
+<img src="images/dot_gray.gif" width="100%" height="1" alt="" border="0"><br>
 <br>
 
-<a name="six"></a><font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">With whom does ESRB share my personal information?</font><br>
+<a name="two"></a>
+<p class="redTitle">What types of information does ESRB collect and how will it be used? </p>
+
+<p class="bodyText">ESRB only collects information on a voluntary basis. The personal information ESRB collects is used almost exclusively for communications purposes and will usually take the form of: (1) ESRB Privacy Online's company registration form; (2) ESRB Privacy Online's Sentinel Consumer Online-Hotline; (3) a consumer complaint or inquiry directed to the Rating Board; (4) an ESRB survey; (5) ESRB Privacy Online's Privacy Statement Composer; (6) ESRB's newsletter; (7) Retailer Information and Request Form; and/or, (8) other general information contained in an email (e.g., comments). The types of information that may be requested for each activity and the way the information may be used are detailed below.<br></p>
+
+<ul class="smallIndent">
+<li><b>ESRB Privacy Online Company Registration</b><br>
+Companies that wish to participate in the privacy online program are required to complete ESRB Privacy Online's company registration form. The requested information may include the company name, address, telephone number and the name of a company representative who will oversee the company's privacy policy initiatives.  ESRB Privacy Online uses this information to contact the company representative regarding participation and, if eligible, to communicate with such company on an ongoing basis regarding certification and compliance.</li><br>
 <br>
-From time to time, ESRB may employ and share your personal information with entities who use it solely to provide support for the internal operations of ESRB's website(s) (e.g., technical support). These entities will not use your personal information for any other purpose, and have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us.<br>
+<li><b>ESRB Privacy Online Sentinel Consumer Online-Hotline</b><br>
+If a consumer believes a privacy violation has taken place at a participating company's website, the consumer has the option of reporting the violation to the Sentinel Consumer Online-Hotline. The requested information may include the consumer's name and e-mail address. The submitted email address will be used solely for the purposes of contacting the consumer about the privacy complaint, updating the consumer concerning the status of a complaint, and to help resolve the complaint. We will never release this information to an external third party unless we have specific, prior-permission from the consumer to do so. In an effort to investigate a possible privacy violation and to resolve a complaint, ESRB Privacy Online may disclose a consumer's first name, last name, and e-mail address to the participating company referenced in a complaint.  We will never release additional personal information to the participating company referenced in a complaint unless we have specific, prior-permission from the consumer to do so.<br></li><br>
 <br>
-It is our policy not to sell or rent your personal information.  We may, however, disclose your personal information to outside third parties as described in this privacy policy.  In addition, we may also disclose your personal information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; respond to any claims; or, to protect the rights, property, or personal safety of ESRB or the public.<br>
+<li><b>Consumer Complaints Directed to the Rating Board</b><br>
+From time to time, the Rating Board receives complaints or inquiries regarding the ESRB rating system and/or the rating icons/symbols. When a complaint or inquiry is received, the Rating Board promptly investigates the complaint or inquiry, and then, when appropriate, responds to the individual who sent the complaint or inquiry via the e-mail address from where the request originated.</li><br>
 <br>
+<li><b>ESRB Survey</b><br>
+Any one of the ESRB divisions may conduct surveys. The surveys are conducted strictly for internal profiling purposes and only keep track of anonymous demographic data (e.g., whether you are a parent, a game player, or a publisher).</li><br>
+<br>
+<li><b>ESRB Privacy Online's Privacy Statement Composer</b><br>
+ESRB Privacy Online's Privacy Statement Composer is designed to help you create a first draft of your privacy statement that can subsequently be customized to meet your company's particular business model and privacy practices. The Privacy Statement Composer asks for information such as your company name, company address, company telephone number, and contact information. The collected information is used for the sole purpose of creating a privacy statement.</li><br>
+<br>
+<li><b>ESRB Newsletter</b><br>
+Visitors who wish to subscribe to the ESRB newsletter will be asked to provide their e-mail address. The submitted e-mail address is then used to send you, via e-mail, our quarterly newsletter and to otherwise keep you informed as to what's going on at the ESRB.</li><br>
+<br>
+<li><b>Retailer Information and Request Form</b><br>
+Retailers who wish to have access to the retailer portion of our website or receive updates regarding ESRB's ongoing outreach efforts will be asked to submit their company name, the number of stores operated by such company, and contact information such as contact name, mailing address, phone number, and e-mail address. This information will be stored for purposes of developing a relationship with retailers and helping them educate consumers about the ESRB rating system. Retailers who order collateral materials (e.g., brochures, posters, etc.) through our site may be asked for shipping information.</li><br>
+<br>
+<li><b>General Information Contained in Email</b><br>
+ESRB's website provides a number of links through which an online visitor can e-mail us. ESRB collects personal information contained in the e-mail for the purpose of responding to a consumer's questions and/or comments.</li><br>
+<br>
+</ul>
+
+<p class="bodyText">No matter what method we use to collect information and no matter how we use that information, we will only collect the information deemed reasonably necessary to fulfill your online requests and our legitimate business objectives.<br>
+<br>
+<a href="#top" class="red">Back to Top</a></p>
+
+<br>
+<img src="images/dot_gray.gif" width="100%" height="1" alt="" border="0"><br>
 <br>
 
-<a name="seven"></a><font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">What is ESRB's policy regarding links to third party sites?</font><br>
+<a name="three"></a>
+<p class="redTitle">What happens if I refuse to provide my personal information to ESRB?</p>
+
+<p class="bodyText">If you choose not to submit personal information when requested, you may not be able to access certain areas of our site and may considerably limit the services we can provide you.  To simply use our site, however, you do not need to give us any personal information.<br>
 <br>
-You should be aware that while you are on a website operated by ESRB, you may be directed to other sites that are beyond our control and for which we are not responsible.  Because we cannot guarantee that the privacy policies of these websites meet our high standards and the requirements of the ESRB Privacy Online Program, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.<br>
+<a href="#top" class="red">Back to Top</a></p>
+
 <br>
+<img src="images/dot_gray.gif" width="100%" height="1" alt="" border="0"><br>
 <br>
-<a name="eight"></a><font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">Can I choose how my personal information is used?</font><br>
+
+<a name="four"></a>
+<p class="redTitle">Does ESRB use cookies, track IP addresses or use other passive means to collect information?</p>
+
+<p class="bodyText">
+</p><ul class="smallIndent">
+<li><b>Cookies</b><br>
+ESRB does not use cookies on its website. A "cookie" is a small file or record-keeping device that websites often store on a user's computer.</li><br>
 <br>
-If you have opted-in and, at a later time, you wish to opt-out, please contact us, at any time, via e-mail at <a href="mailto:privacyinfo@esrb.org">privacyinfo@esrb.org</a>, or by regular mail at ESRB, 845 Third Avenue, 14th Floor, New York, New York 10022.  We will be happy to honor your request.<br>
+<li><b>IP Addresses</b><br>
+ESRB may collect your IP address for safety and security purposes. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.</li>
+</ul>
 <br>
+<a href="#top" class="red">Back to Top</a><p></p>
+
 <br>
-<a name="nine"></a><font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">How can I access my personal information?</font><br>
+<img src="images/dot_gray.gif" width="100%" height="1" alt="" border="0"><br>
 <br>
-If you wish to review, update, or delete any other personal information that we may have collected about you, please contact us via e-mail at <a href="mailto:privacyinfo@esrb.org">privacyinfo@esrb.org</a>, or by regular mail at ESRB, 845 Third Avenue, 14th Floor, New York, New York 10022.<br>
+
+<a name="five"></a>
+<p class="redTitle">Who is collecting my personal information?</p>
+
+<p class="bodyText">The information that you disclose while visiting any of our websites is collected by ESRB or a vendor on ESRB's behalf, and is used in the manner specified above.<br>
 <br>
+<a href="#top" class="red">Back to Top</a></p>
+
+
 <br>
-<a name="ten"></a><font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">What safeguards does ESRB use to protect my personal information?</font><br>
+<img src="images/dot_gray.gif" width="100%" height="1" alt="" border="0"><br>
 <br>
-ESRB maintains appropriate safeguards that ensure the security, integrity and privacy of the personal information we collect from all users.  Personal information collected by ESRB is stored in secure operating environments that are not available to the public and is only accessible by authorized employees.  We also have security measures in place to protect the loss, misuse and alteration of the information under our control.<br>
+
+<a name="six"></a>
+<p class="redTitle">With whom does ESRB share my personal information?</p>
+
+<p class="bodyText">From time to time, ESRB may employ and share your personal information with vendors who use it solely to provide support for the internal operations of ESRB's website(s) (e.g., technical support, order fulfillment, and newsletter delivery). These entities will not use your personal information for any other purpose, and have agreed to maintain the confidentiality, security, and integrity of the personal information they obtain from us.<br>
 <br>
+It is our policy not to sell or rent your personal information. We may, however, disclose your personal information to outside third parties as described in this privacy policy. In addition, we may also disclose your personal information in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to comply with legal processes; respond to any claims; or, to protect the rights, property, or personal safety of ESRB or the public.<br>
 <br>
-<a name="eleven"></a><font class="redbold" face="Verdana, Arial, Helvetica, san-serif" size="2" color="#CC0000">How do I ask a question or file a complaint?</font><br>
+<a href="#top" class="red">Back to Top</a></p>
+
+
 <br>
-If you have any questions, complaints or comments regarding our privacy policy or practices, please contact us via email at <a href="mailto:privacyinfo@esrb.org">privacyinfo@esrb.org</a>, or by regular mail at:<br>
+<img src="images/dot_gray.gif" width="100%" height="1" alt="" border="0"><br>
+<br>
+
+<a name="seven"></a>
+<p class="redTitle">What is ESRB's policy regarding links to third party sites?</p>
+
+<p class="bodyText">You should be aware that while you are on a website operated by ESRB, you may be directed to other sites that are beyond our control and for which we are not responsible.  Because we cannot guarantee that the privacy policies of these websites meet our high standards, we recommend that you read the privacy policy of the website to which you link before you submit any personal information.<br>
+<br>
+<a href="#top" class="red">Back to Top</a>
+</p>
+
+
+<br>
+<img src="images/dot_gray.gif" width="100%" height="1" alt="" border="0"><br>
+<br>
+
+<a name="eight"></a>
+<p class="redTitle">Can I choose how my personal information is used?</p>
+
+<p class="bodyText">If you wish to opt-out from receiving our newsletter or any other communication, please contact us, at any time, via e-mail at <a href="mailto:privacyinfo@esrb.org" class="red">privacyinfo@esrb.org</a>, or by regular mail at ESRB, 845 Third Avenue, 14th Floor, New York, New York 10022. We will be happy to honor your request.<br>
+<br>
+<a href="#top" class="red">Back to Top</a></p>
+
+
+<br>
+<img src="images/dot_gray.gif" width="100%" height="1" alt="" border="0"><br>
+<br>
+
+<a name="nine"></a>
+<p class="redTitle">How can I access my personal information?</p>
+
+<p class="bodyText">If you wish to review, update, or delete any personal information that we may have collected about you, please contact us via e-mail at <a href="mailto:privacyinfo@esrb.org" class="red">privacyinfo@esrb.org</a>, or by regular mail at ESRB, 845 Third Avenue, 14th Floor, New York, New York 10022.<br>
+<br>
+<a href="#top" class="red">Back to Top</a></p>
+
+
+<br>
+<img src="images/dot_gray.gif" width="100%" height="1" alt="" border="0"><br>
+<br>
+
+<a name="ten"></a>
+<p class="redTitle">What safeguards does ESRB use to protect my personal information?</p>
+
+<p class="bodyText">ESRB maintains appropriate safeguards that ensure the security, integrity and privacy of the personal information we collect from all users. Personal information collected by ESRB is stored in secure operating environments that are not available to the public and is only accessible by authorized employees. We also have security measures in place to protect the loss, misuse and alteration of the information under our control.<br>
+<br>
+<a href="#top" class="red">Back to Top</a></p>
+
+
+<br>
+<img src="images/dot_gray.gif" width="100%" height="1" alt="" border="0"><br>
+<br>
+
+<a name="eleven"></a>
+<p class="redTitle">How do I ask a question or file a complaint?</p>
+
+<p class="bodyText">If you have any questions, complaints or comments regarding our privacy policy or practices, please contact us via email at <a href="mailto:privacyinfo@esrb.org" class="red">privacyinfo@esrb.org</a>, or by regular mail at:<br>
 <br>
 ESRB<br>
 845 Third Avenue, 14th Floor<br>
 New York, NY 10022.<br><br>
 <br>
-<i>By using this site, you signify your assent to the ESRB Online Privacy Policy.  If you do not agree to this Privacy Policy, please do not use this site.  We reserve the right to make changes to this Policy.  Please check back from time to time to ensure you aware of these changes.  Your continued use of this site will signify your acceptance of these changes.</i></font></td>
+<i>By using this site, you signify your assent to the ESRB Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use this site. We reserve the right to make changes to this Policy. Please check back from time to time to ensure you are aware of these changes. Your continued use of this site will signify your acceptance of these changes.</i><br>
+<br>
+<a href="#top" class="red">Back to Top</a>
+</p>
+
+</td>
+<td><img src="images/dot_clr.gif" width="1" height="1" alt="" border="0"></td>
+</tr>
+
+<tr align="center" valign="bottom">
+<td bgcolor="#000066">
+<img src="/images/dot_clr.gif" width="1" height="30" alt="" border="0"><br>
+<a href="/privacy_statement.asp"><img src="/images/privacy.jpg" width="116" height="43" border="0" alt="Privacy Certified"></a><br>
+<img src="/images/dot_clr.gif" width="1" height="12" alt="" border="0"><br>
+
+</td>
+<td><img src="images/dot_clr.gif" width="1" height="1" alt="" border="0"></td>
+<td><img src="/images/dot_clr.gif" width="1" height="30" alt="" border="0"><br>
+<p class="footer">
+View our <a href="/privacy_statement.asp" class="red">Privacy Statement</a><br>
+Questions? Comments? <a href="/consumer_online_hotline.asp" class="red">Click here</a>.<br>
+Copyright © 1999-2003 ESRB/IDSA<br> 
+All Rights Reserved<br>
+</p>
+<img src="/images/dot_clr.gif" width="1" height="12" alt="" border="0">
+
+</td>
 <td><img src="images/dot_clr.gif" width="1" height="1" alt="" border="0"></td>
 </tr>
 </tbody></table>
-<!-- End Body Table -->
+<!-- end main body table -->
 
-</td>
-</tr>
-
-<!-- privacy logo/footer row -->
-<tr>
-<td width="160" bgcolor="#000066" align="center" valign="top"><br>
-<img src="images/e_interactive.gif" width="71" height="43"><br>
-<br><a href="privacy_stmt.asp"><img src="images/privacy.jpg" width="116" height="43" border="0"></a><br>
-<br></td>
-<td><img src="images/dot_clr.gif" width="1" height="16" alt=""><br>
-<center><font class="footer" face="Verdana, Arial, Helvetica, san-serif" size="1" color="#000000">View our <a href="privacy_stmt.asp">Privacy Statement</a><br>
-Send comments to <a href="mailto:privacyinfo@esrb.org">privacyinfo@esrb.org</a><br>
-Copyright © 1999-2002 ESRB/IDSA<br> 
-All Rights Reserved<br></font></center>
-<br></td>
-</tr>
-
-</tbody></table>
 
 </body></html>
