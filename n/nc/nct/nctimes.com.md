@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nctimes.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207084925id_/http%3A//nctimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nctimes.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402175336id_/http%3A//nctimes.com/privacy) for the most accurate reproduction.*
 
 # North County Times - North San Diego and Southwest Riverside County News
 
