@@ -1,6 +1,38 @@
-> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625101740id_/http%3A//triumphrat.net/modules.php%3Fop%3Dmodload%26name%3DPrivacy_Statement%26file%3Dindex) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triumphrat.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php%3Fop%3Dmodload%26name%3DPrivacy_Statement%26file%3Dindex) for the most accurate reproduction.*
 
 # TriumphRat.Net :: Triumph Motorcycles, RAT Discussions, Triumph Web Links, Motorcycle News, Events, Triumph FAQ
+
+| 
+
+|  **Login**  
+---  
+Don't have a profile yet? You can [create one](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/user.php) for free. Registered Users can contribute through the discussion groups, posting comments to articles, sharing photos, and other available features.  
+  
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+  
+
+
+**Today's Events**  
+---  
+No events found for today!  
+Why not [**submit**](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=submit) yours?  
+  
+  
+| 
 
 Privacy Statement for TriumphRat.Net
 
@@ -66,3 +98,107 @@ Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 [ webmaster@TriumphRat.Net](mailto:webmaster@triumphrat.net)
+
+| | 
+
+|  **Event Calendar**  
+---  
+| [June 2004](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/1/2004&type=month)  
+---  
+  | [1](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/1/2004&type=day)  
+| [2](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/2/2004&type=day)  
+| **[3](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/3/2004&type=day)**  
+| [4](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/4/2004&type=day)  
+| [5](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/5/2004&type=day)  
+  
+[6](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/6/2004&type=day)  
+| [7](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/7/2004&type=day)  
+| [8](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/8/2004&type=day)  
+| [9](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/9/2004&type=day)  
+| [10](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/10/2004&type=day)  
+| [11](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/11/2004&type=day)  
+| [12](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/12/2004&type=day)  
+  
+[13](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/13/2004&type=day)  
+| [14](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/14/2004&type=day)  
+| [15](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/15/2004&type=day)  
+| [16](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/16/2004&type=day)  
+| [17](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/17/2004&type=day)  
+| [18](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/18/2004&type=day)  
+| [19](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/19/2004&type=day)  
+  
+[20](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/20/2004&type=day)  
+| [21](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/21/2004&type=day)  
+| [22](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/22/2004&type=day)  
+| [23](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/23/2004&type=day)  
+| [24](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/24/2004&type=day)  
+| [25](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/25/2004&type=day)  
+| [26](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/26/2004&type=day)  
+  
+[27](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/27/2004&type=day)  
+| [28](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/28/2004&type=day)  
+| [29](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/29/2004&type=day)  
+| [30](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=index&Date=06/30/2004&type=day)  
+|   
+[Submit event](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=submit)| [Search](https://web.archive.org/web/20040603122701id_/http%3A//www.triumphrat.net/modules.php?op=modload&name=PostCalendar&file=searchevents)  
+---|---  
+  
+  
+
+
+  
+
+
+**Past Articles**  
+---  
+| **·**|  [**May 12, 2004**  
+Drink a Beer, Win a T100](https://web.archive.org/article.php?sid=249&mode=nested&order=0&thold=0)  
+---|---  
+**·**|  [**May 10, 2004**  
+Thruxton 900 Concept Bike Questionnaire](https://web.archive.org/article.php?sid=248&mode=nested&order=0&thold=0)  
+**·**|  [**May 10, 2004**  
+Rocket Stocker Shocker!!!](https://web.archive.org/article.php?sid=247&mode=nested&order=0&thold=0)  
+**·**|  [**May 09, 2004**  
+Rocket 111 Preview Sydney Bike Show](https://web.archive.org/article.php?sid=246&mode=nested&order=0&thold=0)  
+**·**|  [**May 05, 2004**  
+Rumours of Updated 600 Confirmed!!](https://web.archive.org/article.php?sid=245&mode=nested&order=0&thold=0)  
+**·**|  [**May 05, 2004**  
+Pre-registration for Daytona/Speed Triple 2002+ Sargent Seats](https://web.archive.org/article.php?sid=244&mode=nested&order=0&thold=0)  
+**·**|  [**May 04, 2004**  
+Inexpensive Fuel Filter](https://web.archive.org/article.php?sid=243&mode=nested&order=0&thold=0)  
+**·**|  [**May 01, 2004**  
+MotorcycleUSA Calls Them "Reality Bikes"](https://web.archive.org/article.php?sid=242&mode=nested&order=0&thold=0)  
+**·**|  [**April 29, 2004**  
+Thruxton Reviewed in June Cycle World!](https://web.archive.org/article.php?sid=241&mode=nested&order=0&thold=0)  
+**·**|  [**April 29, 2004**  
+2004 Fuel System Connector Recall](https://web.archive.org/article.php?sid=240&mode=nested&order=0&thold=0)  
+**·**|  [**April 28, 2004**  
+MCN: Triumph 955i vs Yamaha YZF-R1](https://web.archive.org/article.php?sid=239&mode=nested&order=0&thold=0)  
+**·**|  [**April 27, 2004**  
+Aprilia Halts Motorcycle Production](https://web.archive.org/article.php?sid=238&mode=nested&order=0&thold=0)  
+**·**|  [**April 26, 2004**  
+Daytona 955 in Eight-Bike On-Line Comparo](https://web.archive.org/article.php?sid=237&mode=nested&order=0&thold=0)  
+**·**|  [**April 23, 2004**  
+RAT / US - April 2004 Monthly Newsletter available for download](https://web.archive.org/article.php?sid=236&mode=nested&order=0&thold=0)  
+**·**|  [**April 23, 2004**  
+RAT Pack in Sydney, Australia](https://web.archive.org/article.php?sid=235&mode=nested&order=0&thold=0)  
+**·**|  [**April 23, 2004**  
+Complete Demo Truck Schedule Through June](https://web.archive.org/article.php?sid=234&mode=nested&order=0&thold=0)  
+**·**|  [**April 23, 2004**  
+Ducati to Buy Moto Guzzi?](https://web.archive.org/article.php?sid=233&mode=nested&order=0&thold=0)  
+**·**|  [**April 22, 2004**  
+Respected Triumph Tuner Dies](https://web.archive.org/article.php?sid=232&mode=nested&order=0&thold=0)  
+**·**|  [**April 20, 2004**  
+Good Rumours [note deference to British Spelling]](https://web.archive.org/article.php?sid=231&mode=nested&order=0&thold=0)  
+**·**|  [**April 19, 2004**  
+Bloor is Loaded!](https://web.archive.org/article.php?sid=230&mode=nested&order=0&thold=0)  
+**·**| [ **Older Articles...**](https://web.archive.org/modules.php?op=modload&name=Archives&file=index)  
+  
+  
+
+
+  
+
+
+  
+
