@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629084438id_/http%3A//www.esellerate.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esellerate.net privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216092219id_/http%3A//www.esellerate.net/privacy.asp) for the most accurate reproduction.*
 
 # eSellerate - Privacy Policy
 
@@ -86,7 +86,7 @@ eSellerate does not control how our publishers use their customers' personally i
 > **For publishers**  
 >  Publishers can access and modify their information at any time. They should log in to the eSellerate Sales Manager and click one of the links in the Sales Information box. After making any modifications, they should click Save Changes. 
 > 
-> **For payess, affiliates and portals**  
+> **For payees, affiliates and portals**  
 >  Payees, affiliates and portals can access and modify their information at any time. 
 > 
 >   * Payees should log in to the SplitPay Manager and click the My Account link. 
