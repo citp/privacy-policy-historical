@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sonlight.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604000920id_/http%3A//www.sonlight.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonlight.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205095421id_/http%3A//sonlight.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Sonlight Curriculum :: Privacy Policy
 
@@ -100,8 +100,8 @@
 
 :::
 
-[Latest News](http://www.sonlight.com/news/)  
-as of 5/29/2001
+[Latest News:](http://www.sonlight.com/news/)  
+as of 10/24/2001
 
 :::
 
@@ -109,5 +109,5 @@ Go To:
 
 [](http://www.sonlightcurriculum.com/basket.asp)
 
-"I love what Sonlight has put together. As a first time home schooler this program has been very easy to implement. Also using one basic for three kids has a wonderful way of bringing us together rather than each of us going our own separate ways."  
-\- Kevin and Linda O., Hudson, WI, December 29, 2000. 
+"You have a fabulous list of suggested reading material. We liked everything you recommend!"  
+\- Robin R., Little Rock, AR, October 24, 2000 
