@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2001-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010612160659id_/http%3A//www.computerjobs.com/about_us/main.cfm%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkjobs.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217224451id_/http%3A//www.computerjobs.com/about_us/main.cfm%3Fdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # ComputerJobs.com - Privacy Statement
 
@@ -77,8 +77,6 @@ ComputerJobs.com is committed to safeguarding your personal information. We take
 > COMPUTERJOBS.COM DOES NOT SELL YOUR PERSONAL INFORMATION TO ANYONE. It is important to note that information provided in the resume registration process is completely available to subscribing employers. Our employers sign contracts that legally prohibit them from redistributing ComputerJobs.com information without consent. 
 > 
 > Information provided in the Consultant's Corner registration process is online, public information. 
-> 
-> Information provided in the Direct Connect registration process is not available to all employers, but is available to a career specialist employed by ComputerJobs.com. 
 > 
 > Internally, ComputerJobs.com uses your personal information for validation purposes only. To predict broad trends about our Web site, we request general or generic input from our users in a clearly identifiable fashion, such as our Salary Survey or the Question of the Day. 
 > 
