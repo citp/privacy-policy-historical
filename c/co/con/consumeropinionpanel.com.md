@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeropinionpanel.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612034303id_/http%3A//www.consumeropinionpanel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeropinionpanel.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206220514id_/http%3A//www.consumeropinionpanel.com/privacy.htm) for the most accurate reproduction.*
 
 # Synovate Consumer Opinion Panel - Privacy Policy
 
@@ -24,7 +24,7 @@ Our Privacy Policy In Detail
 
 Synovate Consumer Opinion Panel is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for [** ConsumerOpinionPanel.com**](http://www.consumeropinionpanel.com/). If you have questions or concerns regarding this statement, you should first contact our Privacy Officer by e-mail at **[ privacy@synovate.net](mailto:privacy@synovate.net)**. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe ( _[ **http://www.truste.org/watchdog.html**](http://www.truste.org/watchdog.html)_ ). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-Privacy is very important to Synovate. We are committed to protecting the information you provide to us. If you have any questions or you feel we have not addressed your concerns, please feel free to [** contact us**](https://web.archive.org/web/20040612034303id_/http%3A//www.consumeropinionpanel.com/contact.htm).
+Privacy is very important to Synovate. We are committed to protecting the information you provide to us. If you have any questions or you feel we have not addressed your concerns, please feel free to [** contact us**](https://web.archive.org/web/20041206220514id_/http%3A//www.consumeropinionpanel.com/contact.htm).
 
 You can be assured that Synovate will conduct research in a professional and ethical manner. As a member of [** CASRO**](http://www.casro.org/) (The Council of American Survey Research Organizations), we are committed to maintaining panelists’ privacy. Our privacy policy and Web site conform to the Code of Standards and Ethics for Survey Research put forth by [** CASRO**](http://www.casro.org/).
 
@@ -48,7 +48,7 @@ Synovate observes the following principles of behavior regarding information pri
 
 **Principle of Accountability:** Synovate has designated a Chief Privacy Officer responsible for ** accountability** of all actions involving our privacy policy.
 
-If you have any questions or concerns about this policy, please **[contact us](https://web.archive.org/web/20040612034303id_/http%3A//www.consumeropinionpanel.com/contact.htm)**.
+If you have any questions or concerns about this policy, please **[contact us](https://web.archive.org/web/20041206220514id_/http%3A//www.consumeropinionpanel.com/contact.htm)**.
 
 Privacy Policy Principles
 
@@ -142,7 +142,7 @@ Links to Other Sites
 
 _**
 
-The Synovate web site provides links to other World Wide Web pages that provide additional opportunities and information from third parties. Synovate’s privacy policy cannot and does not apply to external Web areas. Even if a business partnership or third party affiliation exists between Synovate and the operator of a linked Web page, once you depart the Synovate site you are subject to the linked site’s privacy policies and procedures. Because Synovate has no control over such Web operators, you should consult each Web site’s privacy policy before providing personally identifying information. However, we invite you to [** contact us**](https://web.archive.org/web/20040612034303id_/http%3A//www.consumeropinionpanel.com/contact.htm) if you have concerns about privacy policies of sites linked on [** ConsumerOpinionPanel.com**](http://www.consumeropinionpanel.com/). We will use your feedback to determine whether to continue providing those links.
+The Synovate web site provides links to other World Wide Web pages that provide additional opportunities and information from third parties. Synovate’s privacy policy cannot and does not apply to external Web areas. Even if a business partnership or third party affiliation exists between Synovate and the operator of a linked Web page, once you depart the Synovate site you are subject to the linked site’s privacy policies and procedures. Because Synovate has no control over such Web operators, you should consult each Web site’s privacy policy before providing personally identifying information. However, we invite you to [** contact us**](https://web.archive.org/web/20041206220514id_/http%3A//www.consumeropinionpanel.com/contact.htm) if you have concerns about privacy policies of sites linked on [** ConsumerOpinionPanel.com**](http://www.consumeropinionpanel.com/). We will use your feedback to determine whether to continue providing those links.
 
 **_
 
