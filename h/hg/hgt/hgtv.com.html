@@ -1,416 +1,562 @@
-<!--The following is the downloaded HTML source of the hgtv.com privacy policy that was archived on 2002-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605041903id_/http%3A//hgtv.com/HGTV/about/privacy/0%2C1121%2C%2CFF.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hgtv.com privacy policy that was archived on 2002-11-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021124155042id_/http%3A//www.hgtv.com/hgtv/about_us/article/0%2C1783%2CHGTV_3080_1424715%2C00.html) for the most accurate reproduction.-->
 
 <html><head>
-	<title>Privacy Policy</title>
-	<link rel="stylesheet" type="text/css" href="/HGTV/css/site/0,2171,about_win,FF.css">
-	
-		<link rel="stylesheet" type="text/css" href="/HGTV/css/pageSpecific/0,2181,privacy_about_win,FF.css">
-	 <script type="text/javascript" src="/sno/cr/javascript/0,1912,,00.js"></script> </head>
-<body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0">
+		<title>Home and Garden Television: About Us</title>
+		
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Refresh" content="1800">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 
-<div align="center">
+		<link rel="stylesheet" href="/hgtv/cda/styles/about_us">
+		<script language="JavaScript">
 
-<!-- Include Top Layout -->
+function popup(url,w,h,menu) {
+	x = Math.floor((screen.width - w) / 2);
+	y = Math.floor((screen.height - h) / 2);        
+	now = new Date();
+	features = "screenx="+x+",screeny="+y+",left="+x+",top="+y+",width="+w+",height="+h+",location=no,resizable=yes"+",directories=no,status=no,scrollbars=yes";
 
-
-<script language="JavaScript">
-<!--
-function MM_findObj(n, d) { //v3.0
-
-	var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-		d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if (!(x=d[n])&&d.all) 
-  		x=d.all[n]; 
-		for (i=0;!x&&i < d.forms.length;i++) x=d.forms[i][n];
-		for (i=0;!x&&d.layers&&i < d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+	if (menu != null) {
+		//features += ",menubar=yes,toolbar=yes,scrollbars=yes";
+		features += ",menubar=yes,toolbar=yes";
+	} else {
+		//features += ",menubar=no,toolbar=no,scrollbars=no"; 
+		features += ",menubar=no,toolbar=no"; 
 	}
+	window.open(url,"newwin",features);
+}
 
-function MM_swapImage() { //v3.0
-	var i,j=0,x,a=MM_swapImage.arguments; 
-	document.MM_sr=new Array; 
-	for (i=0;i < (a.length-2);i+=3)
-	if ((x=MM_findObj(a[i])) != null)
-   		{document.MM_sr[j++]=x; 
-	if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+
+function MM_reloadPage(init) {  
+  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {
+    if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+     document.MM_pgW=innerWidth; 
+	 document.MM_pgH=innerHeight;
+	 onresize=MM_reloadPage; 
+    }
+  } else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH)
+    location.reload();
+}
+
+// for Netscape thisdomain = www.scripps.com
+// for other browser thisdomain = scripps.com
+
+thisdomain = document.location + "";
+thisdomain = thisdomain.substring(thisdomain.indexOf('//')+2,thisdomain.length);
+thisdomain = thisdomain.substring(0,thisdomain.indexOf('/'));
+thisdomain = (navigator.appName != "Netscape")? thisdomain.substring(thisdomain.indexOf('.')+1,thisdomain.length): thisdomain;
+
+
+
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf(';',offset);
+	if (endstr == -1) {
+		endstr = document.cookie.length;
 	}
+	return unescape(document.cookie.substring(offset,endstr))
+}
+
+
+function SetCookie (name, value, expires, path, domain, secure) {
+	document.cookie = name + "=" + escape (value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+} 
+
+
+function GetCookie (name) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+
+	while (i < clen) {
+		var j = i + alen;
+		if (document.cookie.substring(i,j) == arg) {
+			return getCookieVal(j);
+		}
+		i = document.cookie.indexOf(" ", i) + 1;
+		if (i==0) break;
+	}
+	return null;  
+}
+
+
+function DeleteCookie (name, path, domain) {
+   if (GetCookie(name)) {
+    document.cookie = name + "=" + ((path) ? "; path=" + path : "") +  ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+   }
+}
+
+
+function FixCookieDate (date) { 
+	var base = new Date(0); 
+	var skew = base.getTime();
+	if(skew > 0)
+		date.setTime (date.getTime() - skew);     
+}
 
 function MM_swapImgRestore() { //v3.0
-	var i,x,a=document.MM_sr; 
-	for (i=0;a&&i < a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-	}
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
 
 function MM_preloadImages() { //v3.0
-	var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-	var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i < a.length; i++)
-	if (a[i].indexOf("#")!=0) { 
-   		d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-	}	
-	
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
 
-//-->
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
 
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function vod (url,streamtitle,customfeatures) {
+	windowFeatures = 'toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=210,height=480';
+
+	//Browser Detection
+	var browser = "";
+	var browsername = navigator.appName;
+	var browserversion = parseInt(navigator.appVersion);
+	var browserplatform = navigator.userAgent;
+	if (browsername == "Netscape") {
+		browser = "ns" + browserversion;
+	} else {
+		if (browsername == "Microsoft Internet Explorer") {
+			if (browserversion >= 4) {
+				browser = "ie" + browserversion;
+			} else {
+				browser = "ie3";
+			}
+		}
+	}
+
+	if ((customfeatures) && customfeatures != '') {
+		windowFeatures = customfeatures;
+	}
+
+	if (url.indexOf(".rm",(url.length-10)) != -1) {
+		if (browser != 'ie3') {
+			hasplugin = 'false';
+			// Mac Browser (Not Netscape)
+			if ( (browserplatform.indexOf('Mac') !=-1) && ( browsername != "Netscape")) {
+				numPlugins = 0;
+				// Real Strange never goes into the followinf loop
+				// because numPlugins is 0
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.embeds[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			} else {
+				numPlugins = navigator.plugins.length;
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.plugins[i];
+					if (plugin.name.substring(0,10)=="RealPlayer") {
+						hasplugin = 'true';
+					}
+				}
+			}
+			if (browser.substring(0,2) == 'ie') {
+				hasplugin = 'true';
+			}
+			if (hasplugin == 'true') {
+				videoWin = window.open (url , 'video', windowFeatures);
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+				videoWin.document.close();              
+			} else {
+				stream = url.substring(0,(url.length-5));
+				location.href=stream + '.ram';
+			}
+		} else {
+			videoWin = window.open (url , 'video', windowFeatures);
+			if (document.images) {
+				if (streamtitle != '') {
+					videoWin.streamtitle=streamtitle;
+				}
+			}
+			videoWin.document.close();                      
+		}               
+	} else {
+		videoWin = window.open (url , 'video', windowFeatures);
+		if (document.images) {
+			if (streamtitle != '') {
+				videoWin.streamtitle=streamtitle;
+			}
+		}
+		videoWin.document.close();
+	}
+}
 </script>
 
-	<table width="780" border="0" cellpadding="0" cellspacing="0" align="center">
 		
-			<tbody><tr>
-		 		<td rowspan="2" width="177" height="110" align="center" valign="middle" background="http://images.scrippsnetworks.com/HGTV/images/about/logo_bg.gif"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="35" height="15" border="0" alt=" "><a href="/HGTV/0,1100,,FF.shtml"><img src="http://images.scrippsnetworks.com/HGTV/images/about/hgtv_alogo.gif" border="0" alt="HGTV Logo"></a><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="35" height="15" border="0" alt=" "></td>
-				<td height="60"><iframe width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/params.richmedia=yes&amp;site=hgtv.com&amp;Section=about&amp;adsize=468x60&amp;PagePos=1">
-			<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=hgtv.com&Section=about&adsize=468x60&PagePos=1"></script><noscript>
-			<a href="http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=hgtv.com&Section=about&adsize=468x60&PagePos=1">
-			<img src="http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=hgtv.com&Section=about&adsize=468x60&PagePos=1" alt="" border=0 width=468 height=60></a>
-			</noscript></iframe></td>
-		   		<td width="7" height="60">&nbsp;</td>
-				<td height="60" valign="absbottom" align="left">
-			<iframe width="120" height="60" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/params.richmedia=yes&amp;site=hgtv.com&amp;Section=about&amp;adsize=120x60&amp;PagePos=1">
-			<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=hgtv.com&Section=about&adsize=120x60&PagePos=1"></script>
-			<noscript>
-			<a href="http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=hgtv.com&Section=about&adsize=120x60&PagePos=1">
-			<img src="http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=hgtv.com&Section=about&adsize=120x60&PagePos=1" alt="Visit Our Sponsor" border=0 width=120 height=60></a>
-			</noscript></iframe>
-		</td>
-			</tr>
-		  	<tr> 
-		    	<td colspan="3" height="50"><img src="http://images.scrippsnetworks.com/HGTV/images/about/header.gif" width="603" height="50" alt="about"></td>
-			</tr>
-	 <tr> 
-		  	<!-- Top navigation bar -->
-	    	<td colspan="4" height="25" align="left">
-		    <table width="780" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-			    	<td colspan="3"><img src="http://images.scrippsnetworks.com/HGTV/images/topnav/topnav_topline.gif" width="780" height="2" alt=""></td>
-			  	</tr>
-				<tr>
-					<td width="160"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="160" height="13" border="0" alt=" "></td>				
-					<td class="topNav" width="620" nowrap=""><a href="/HGTV/0,1100,,FF.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('clear1','','http://images.scrippsnetworks.com/HGTV/images/clear.gif','topnav_extra','','http://images.scrippsnetworks.com/HGTV/images/topnav/home_extra.gif',1)"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" name="clear1" width="18" height="21" border="0" align="absmiddle">home</a><a href="/HGTV/onTV/0,1146,,FF.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('clear2','','http://images.scrippsnetworks.com/HGTV/images/clear.gif','topnav_extra','','http://images.scrippsnetworks.com/HGTV/images/topnav/ontv_extra.gif',1)"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" name="clear2" width="18" height="21" border="0" align="absmiddle">on tv</a><a href="/HGTV/about/newsletter/0,2182,,FF.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('clear3','','http://images.scrippsnetworks.com/HGTV/images/clear.gif','topnav_extra','','http://images.scrippsnetworks.com/HGTV/images/topnav/newsletter_extra.gif',1)"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" name="clear3" width="18" height="21" border="0" align="absmiddle">newsletter</a><a href="/HGTV/advice/0,1191,,00.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('clear4','','http://images.scrippsnetworks.com/HGTV/images/clear.gif','topnav_extra','','http://images.scrippsnetworks.com/HGTV/images/topnav/chatsboards_extra.gif',1)"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" name="clear4" width="18" height="21" border="0" align="absmiddle">chats/boards</a><a href="/HGTV/store/0,1287,,FF.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('clear5','','http://images.scrippsnetworks.com/HGTV/images/clear.gif','topnav_extra','','http://images.scrippsnetworks.com/HGTV/images/topnav/store_extra.gif',1)"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" name="clear5" width="18" height="21" border="0" align="absmiddle">store</a><a href="/HGTV/calculatorHomepage/0,1182,,FF.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('clear6','','http://images.scrippsnetworks.com/HGTV/images/clear.gif','topnav_extra','','http://images.scrippsnetworks.com/HGTV/images/topnav/calculators_extra.gif',1)"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" name="clear6" width="18" height="21" border="0" align="absmiddle">calculators</a><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="10" height="1" border="0" alt=" "><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" name="topnav_extra" width="160" height="21" align="absmiddle"></td>
-			  	</tr>
-			  	<tr>
-			  		<td colspan="3"><img src="http://images.scrippsnetworks.com/HGTV/images/topnav/topnav_botline.gif" width="780" height="2" alt=""></td>
-			  	</tr>
-			</tbody></table>
-			<!-- End of top navigation bar -->
+		
+	<script language="javascript">
+	function mmLoadMenus() {
+	
+			mm_menu_.writeMenus();
 			
+	}
+	</script><script language="JavaScript" src="/cr/cda/javascript/dHtmlDropDownMenu/0,1838,,00.js">
+
+		</script>
+		
+		<script type="text/javascript">
+		<!--
+		// Prevent others from including this site
+		var preview = 'no'
+		if (preview != 'yes') {
+			if (top != self) {
+				top.location = location;
+			}
+		}
+
+		MM_reloadPage(true);
+
+		if (GetCookie('cookieChk') == null) { 
+			var expdate = new Date ();
+
+			// Correct for Mac date bug - call only once for given Date object!
+			FixCookieDate (expdate); 
+
+			// expires 30 days from now
+			expdate.setTime (expdate.getTime() + (30 * 24 * 60 * 60 * 1000)); 
+			SetCookie ('cookieChk', 'OK', expdate, '/', thisdomain, null);
+		}
+		// -->
+		</script>
+		</head><body bgcolor="#BACE99" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#A13C00" vlink="#A13C00" alink="#A13C00">
+
+<!-- AREA: 201x555x0-PAGE-->
+<!-- LNBSpaceHolder: /hgtv/images -->
+	
+	<!-- Vignette V/5 Wed Nov 13 15:27:22 2002 -->
+
+<!-- chris oneal. testing hgtv web dot. ID(HGTV_3080_ARTICLE-DETAIL_50746_HEADER_no) -->
+	<table width="100%" height="128" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+	<td width="773" height="128" rowspan="2">
+		<table width="773" height="128" border="0" cellpadding="0" cellspacing="0" background="/hgtv/images/headers/header_show.jpg"><tbody><tr><td>
+		    <!-- BEGIN TABLE THAT HAS BLANK BACKGROUND - NS 4.x DUPE -->	  
+		  	<table width="773" height="128" border="0" cellpadding="0" cellspacing="0" background=""><tbody><tr>
+			<td width="218" height="90" rowspan="2" align="center" valign="middle"><a href="http://www.hgtv.com"><img src="/hgtv/images/spacers/spacer.gif" alt="HGTV Home" width="218" height="90" border="0"></a></td>
+			<td width="555" height="90" colspan="2" valign="top">
+	 <!-- BEGIN CODE FOR 468x60 AD TABLE - LEAVE SPACER GIF IN PLACE FOR POSITIONING -->
+					  <img src="/hgtv/images/spacers/spacer.gif" width="555" height="18">
+		<table width="468" border="0" cellspacing="0" cellpadding="0" bgcolor="#000033" height="60" align="center">
+		<tbody><tr><td valign="top" align="center">
+		<!-- AdSpace vgncontent=ABOUT_US adsize=468x60 pos.1  &pagetype=ARTICLE_DETAIL -->
+		<iframe width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" bordercolor="000000" scrolling="no" src="http://adsremote.scripps.com/html.ng/site=HGTV&amp;category=ABOUT_US&amp;vgncontent=ABOUT_US&amp;pagetype=ARTICLE_DETAIL&amp;adsize=468x60&amp;PagePos=1">
+		<script language='JavaScript1.1' src='http://adsremote.scripps.com/js.ng/params.richmedia=yes&site=HGTV&category=ABOUT_US&vgncontent=ABOUT_US&pagetype=ARTICLE_DETAIL&adsize=468x60&PagePos=1'>
+		</script>
+		<noscript>
+		<a href='http://adsremote.scripps.com/click.ng/params.richmedia=yes&site=HGTV&category=ABOUT_US&vgncontent=ABOUT_US&pagetype=ARTICLE_DETAIL&adsize=468x60&PagePos=1'>
+		<img src='http://adsremote.scripps.com/image.ng/params.richmedia=yes&site=HGTV&category=ABOUT_US&vgncontent=ABOUT_US&pagetype=ARTICLE_DETAIL&adsize=468x60&PagePos=1' border=0></a>
+		</noscript>
+		</iframe>
+		<!-- /AdSpace -->
+	</td>
+		</tr>
+		</tbody></table></td>
+					</tr>
+					<tr>
+					  <td width="264" height="38"> <table width="100%" height="38" border="0" cellpadding="0" cellspacing="0">   
+						  <tbody><tr>
+						  	<form name="form2" method="post" action=""></form>
+							  <td align="center" valign="middle">
+		<script language="JavaScript">
+		<!--
+		function FF_jumpPage(target,selectedObject,restore){ //v3.0
+  			if (selectedObject.options[selectedObject.selectedIndex].value!="dummy") eval(target+".location='"+selectedObject.options[selectedObject.selectedIndex].value+"'");
+  			if (restore) selectedObject.selectedIndex=0;
+		}
+		//-->
+		</script>
+		
+		
+		<select name="Site Shortcuts" size="" class="dropdown" onchange="FF_jumpPage(&quot;parent&quot;,this,0)">
+			<option value="dummy">Site Shortcuts</option>
+			<option value="/hgtv/spcl_prsntn/0,1804,HGTV_3909,00.html">TV Specials</option>
+			<option value="/hgtv/pac_ctnt_lnb/text/0,1783,HGTV_3937_4761,00.html">Home Finance Center</option>
+			<option value="/hgtv/calculators/0,1783,HGTV_3223,00.html">Calculators</option>
+			<option value="/hgtv/about_us/0,1783,HGTV_3080,00.html">About Us</option>
+			<option value="/hgtv/site_map/0,1783,HGTV_3908,00.html">Site Map</option>
+			<option value="http://www.hgtv.com/hgtv/about_us/article/0,1783,HGTV_3080_1462654,00.html">HGTV On Demand</option>
+			<option value="/hgtv/home/0,1783,HGTV_3655,00.html">Homepage</option>
+		</select></td>
+						
+					  </tr>						  
+					</tbody></table></td>
+					  <td width="291" height="38" valign="bottom">
+					  <table width="339" border="0" cellspacing="0" cellpadding="0" align="center">
+                    <tbody><tr> 
+                      <td width="88" align="left" valign="top"><a href="http://library.hgtv.com"><img src="/hgtv/images/nav/headerlink_interactive.gif" alt="Interactive Library" width="88" height="37" border="0"></a></td>
+                      <td><img src="/hgtv/images/spacers/spacer.gif" width="1" height="1" border="0"></td>
+                      <td width="97" align="left" valign="top">
+					  	<a href="/hgtv/sweepstakes/"><img src="/hgtv/images/nav/headerlink_sweepstakes.gif" alt="Sweepstakes" width="97" height="19" border="0"></a><br>
+                        <a href="/hgtv/be_on_hgtv/"><img src="/hgtv/images/nav/headerlink_beonhgtv.gif" alt="Be On HGTV" width="97" height="18" border="0"></a></td>
+                      <td><img src="/hgtv/images/spacers/spacer.gif" width="1" height="1" border="0"></td>
+                      <td width="96" align="left" valign="top">
+					  	<a href="/hgtv/chats/"><img src="/hgtv/images/nav/headerlink_boardschat.gif" alt="Boards/Chat" width="96" height="19" border="0"></a><br>
+                        <a href="/hgtv/newsletter/"><img src="/hgtv/images/nav/headerlink_newsletter.gif" alt="Newsletter" width="96" height="18" border="0"></a></td>
+                      <td width="16"><img src="/hgtv/images/spacers/spacer.gif" width="16" height="1" border="0"></td>
+                    </tr>
+                  </tbody></table> 
+				      </td>
+					</tr>
+				  </tbody></table>
+				  <!-- END LAYOUT TABLE FOR HEADER COMPONENTS - MUST LEAVE IN &NBSPs for NS -->
 			</td>
-		</tr>
-		<tr>
-			<td colspan="4" height="15"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="780" height="15" border="0" alt=" "></td>
-		</tr>
-	</tbody></table><!-- End Top Layout -->
-
-<!-- Start Page Body -->
-
-<div align="center">
-<table width="780" border="0" cellpadding="0" cellspacing="0" valign="top">
-
-	<tbody><tr valign="top">
-		<td width="15"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="15" height="1" border="0" alt=" "></td>
-		
-		<td width="161">
-			<img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="161" height="1" border="0" alt=" "><br>
-			
-
-<form action="/HGTV/searchResults/1,1185,,FF.html" method="post" name="SiteSearch" target="_self">
-<input type="hidden" name="searchType" value="category">
-<table border="0" width="160" cellpadding="0" cellspacing="0">
-	<tbody><tr valign="top">
-		<td align="left" width="50"><input type="text" name="searchString" size="4" value="" style="width: 92px;"></td>
-		<td align="left" width="90"><input type="image" src="http://images.scrippsnetworks.com/HGTV/images/search_button.gif" value="search" border="0" alt="Search"></td>
-	</tr>
-</tbody></table>
-<select name="searchCategoryID">
-	<option selected="" value="HGTV">search entire site
-	</option><option value="BDRE">Build/Remodel
-	</option><option value="CRHO">Crafts/Collectibles
-	</option><option value="DEID">Design/Decorate
-	</option><option value="FOLI">Food/Lifestyle
-	</option><option value="GALA">Garden/Landscape
-	</option><option value="REFI">Real Estate/Finance
-</option></select>
-</form>
-
-
-<p>
-	<img src="http://images.scrippsnetworks.com/HGTV/images/spacer.gif" width="130" height="21" alt="----"><br>
-	
-		<a href="/HGTV/categoryHomepage/0,1103,BDRE,FF.html" class="nav_bdre">building &amp; remodeling</a><br><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="10" height="3" border="0" alt=" "><br>
-		<a href="/HGTV/categoryHomepage/0,1103,CRHO,FF.html" class="nav_crho">crafts &amp; collectibles</a><br><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="10" height="3" border="0" alt=" "><br>
-		<a href="/HGTV/categoryHomepage/0,1103,DEID,FF.html" class="nav_deid">design &amp; decorating</a><br><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="10" height="3" border="0" alt=" "><br>
-		<a href="/HGTV/categoryHomepage/0,1103,FOLI,FF.html" class="nav_foli">food &amp; lifestyle</a><br><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="10" height="3" border="0" alt=" "><br>
-		<a href="/HGTV/categoryHomepage/0,1103,GALA,FF.html" class="nav_gala">gardening &amp; landscaping</a><br><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="10" height="3" border="0" alt=" "><br>
-		<a href="/HGTV/categoryHomepage/0,1103,REFI,FF.html" class="nav_refi">real estate &amp; finance</a> <br>
-	<img src="http://images.scrippsnetworks.com/HGTV/images/spacer.gif" width="130" height="21" alt="----">
-</p>
-
-			
-			
-		</td>
-		
-		<td width="1" class="verticalRule"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="1" height="1" border="0" alt=" "></td>
-		<td width="15"><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="15" height="1" border="0" alt=" "></td>
-		<td width="588">
-			
-		
-		<table width="100%" border="0" cellpadding="1" cellspacing="1">
-			<tbody><tr>
-				<td class="SubNavLink" valign="top">
-					&gt;  <a href="/HGTV/about/cable/0,1124,,FF.html">Cable in the Classroom</a><br>
-					&gt;  <a href="/HGTV/about/cablemodem/0,2366,,00.html">Cable Modem</a><br>
-					&gt;  <a href="/HGTV/about/community/0,1126,,FF.html">Community Outreach</a><br>
-					&gt;  <a href="/HGTV/about/international/0,1123,,FF.html">HGTV International</a><br>
-					&gt;  <a href="/HGTV/about/ITV/0,1125,,FF.html">Interactive Television</a>
-				</td>
-				<td class="SubNavLink" valign="top">
-					&gt;  <a href="/HGTV/about/legal/0,1129,,FF.html">Legal Information</a><br>
-					&gt;  <a href="/HGTV/about/linkto/0,1137,,FF.html">Link to Us</a><br>
-					&gt;  <a href="/HGTV/about/network/0,1140,,FF.html">Network Providers</a><br>
-					&gt;  <a href="/HGTV/about/newsletter/0,2182,,FF.html">Newsletter</a><br>
-					&gt;  <a href="/HGTV/about/pressInfo/0,1130,,FF.html">Press Information</a>
-				</td>
-				<td class="SubNavLink" valign="top">
-					&gt;  <a href="/HGTV/about/pressReleaseList/0,2184,,FF.html">Press Releases</a><br>
-					&gt;  <a href="/HGTV/about/privacy/0,1121,,FF.html">Privacy Policy</a><br>
-					&gt;  <a href="/HGTV/about/questions/0,2328,,00.html">Questions?</a><br>
-					&gt;  <a href="/HGTV/contest/0,1808,,FF.html">Sweepstakes</a>
-				</td>
 			</tr>
-		</tbody></table>
-	
-	<p>
-		<!-- Begin BreadCrumbs Section -->
-		<img src="http://images.scrippsnetworks.com/HGTV/images/about/dot_line_horiz.gif" width="563" height="9" alt="horizontal line" border="0"><br>
-		<span class="largeblue">Privacy Policy</span><br>
-		<img src="http://images.scrippsnetworks.com/HGTV/images/about/dot_line_horiz.gif" width="563" height="9" alt="horizontal line" border="0">
+				  </tbody></table>
+	<!-- DO NOT DELETE SPACER IMAGES BELOW  -->
+	</td>
+<td width="100%" height="14" class="pagebg1"><img src="/hgtv/images/spacers/spacer.gif" width="1" height="14"></td>
+ </tr>
+ <tr>
+<td width="100%" height="114" class="pagebg2"><img src="/hgtv/images/spacers/spacer.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<!-- BEGIN HORIZONTAL NAVBAR CODE -->
+<table width="100%" height="31" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+	<td width="17" class="pagebg13"><img src="/hgtv/images/spacers/spacer.gif" width="17" height="8"></td>
+	<td width="756" valign="top" bgcolor="#A96B60">
+		<script language="JavaScript1.2">mmLoadMenus();</script> 
 		
-		</p><p>
-			HGTV.com is committed to protecting the online privacy of visitors to 
-			its Web site. We believe that greater protection of personal 
-			privacy on the Web will not only protect consumers, but also 
-			increase consumer confidence and ultimately their participation 
-			in online activities. At hgtv.com, we intend to give you as 
-			much control as possible over your personal information.
-		</p>
-		<p>
-			The purpose of our policy is to inform you about the types 
-			of information we gather about you when you visit our site, 
-			how we may use that information, whether we disclose it to 
-			anyone, and the choices you have regarding our use of, and 
-			your ability to correct, the information.
-		</p>
-		<p>
-			Our site may contain links to other Web sites, including 
-			Web sites directed to children. We have no control over the 
-			privacy practices or the content of any of our business partners, 
-			advertisers, sponsors or other sites to which we provide links 
-			from our sites. You should check the applicable privacy policy 
-			of the Web site sponsor when linking to other Web sites. 
-		</p>
-		<p>
-			<b>I. Personal Information Which We Collect</b><br>
-			We may request that you voluntarily supply us with personal 
-			information, including your e-mail address, postal address, 
-			home or work telephone number, credit card number (only if 
-			you choose to purchase a product online), for such purposes 
-			as correspondence, making a purchase, or participating in 
-			online contests, surveys or games. If you choose to give us 
-			personal information via the Internet that we or our business 
-			partners may need--to correspond with you, to process an order 
-			or to provide you with a subscription, for example--then it 
-			is our intent to let you know how we will use such information. 
-			Like many other commercial sites, our site may utilize a standard 
-			technology called a "cookie" to collect information about 
-			how our site is used. Cookies were designed to help a Web 
-			site recognize a user's browser as a previous visitor and 
-			thus save and remember any preferences that may have been 
-			set while the user was previously browsing the site. Our cookie 
-			cannot retrieve any other data from your hard drive or pass 
-			on a computer virus. Our Web site may use cookies to enhance 
-			your visit. Cookies can securely store a user's password, 
-			personalize Homes, identify which parts of a site have been 
-			visited or keep track of selections, such as those selected 
-			in a "shopping cart." Our cookies may collect a domain name 
-			(for example, "aol.com" or "netcom.com") and track a path 
-			through our Web pages. We only use "cookies" to gather the 
-			information indicated in this policy and do not use cookies 
-			to gather personal identifying information about you (such 
-			as your name) without your consent.
-		</p>
-		<p>
-			We also use cookies in connection with our chat rooms in 
-			order to record your preferences. These cookies store automatically 
-			information pertaining to the last chat room you visited, 
-			as well as certain comments that can be issues in the chat 
-			room, in order to facilitate your experience with the chat 
-			rooms. No additional identifying information is stored on 
-			these cookies. You also have the option of choosing to allow 
-			us to use a cookie to store your username, or "handle", and 
-			password on your computer for use in that chat rooms, forums 
-			and other sites as indicated on the particular site.
-		</p>
-		<p>
-			We may require you to supply us with personal information 
-			(demographic information such as age, income, education, population 
-			data, zip codes) during a "registration" process online prior 
-			to using certain features of our site (for example, prior 
-			to entering an online sweepstakes). We use this general information 
-			in statistical form to understand our site's demographics, 
-			such as percentage of male and female users, geographic location, 
-			age ranges, or a combination of these or other demographics. 
-			As detailed below, we will not share specific information 
-			about you to advertisers or third parties without your consent.
-		</p>
-		<p>
-			<b>II. Use of User Information </b><br>
-			We may perform statistical analyses of aggregate (group) user 
-			behavior. This allows us to measure relative consumer interest 
-			in the various areas of our Web sites for product development 
-			purposes. Any information we collect is used for our own internal 
-			purposes to improve the content of the Web site, to enhance 
-			users' experiences when visiting our site, to customize the 
-			content and/or layout of our pages, and to provide the services 
-			required by an individual user. We do not use personal identifying 
-			information for any reason that is not disclosed either in 
-			this Policy or at the time the information is requested. Aside 
-			from an automatic reply to an e-mail received by us, it is 
-			our intent not to e-mail to you unless you request a particular 
-			service, or consent to being contacted by e-mail. There may 
-			be instances where you will have the opportunity to subscribe 
-			to an e-mail list that will send information about the site 
-			or our advertisers to your e-mail address, but after an initial 
-			mailing gauging your interest this will be continued only 
-			with your permission and consent.
-		</p>
-		<p>
-			DoubleClick, Inc. utilizes certain technologies to deliver 
-			specific advertisements, which appear on pages throughout this 
-			Web site, to the site's users. DoubleClick may place or recognize 
-			a unique "cookie" on your browser, and may use information 
-			(not including your name, address, e-mail address or telephone number) 
-			about your visits to this and other Web sites in order to provide 
-			advertisements about goods and services of interest to you. Privacy 
-			issues surrounding DoubleClick's use of certain non-personally 
-			identifiable user information by its technology are discussed in 
-			DoubleClick's privacy policy. If you would like to view its policy, 
-			get more information about its practices, and to know your choices 
-			about not having this information used, please see 
-			<a href="http://www.doubleclick.net/naiprivacy" target="_blank">DoubleClick's 
-			Privacy Policy page</a>.
-		</p>
-		<p>
-			<b>III. Disclosure to Third Parties</b><br>
-			We do not share personal identifying information with any 
-			third party without your permission. We disclose only in aggregate 
-			(group) form our statistical analyses or demographics of users 
-			to third parties, such as advertisers or other business partners. 
-			This aggregate information does not include names or e-mail 
-			addresses. In some instances, we operate shared Web sites 
-			with businesses affiliated with us. Our Privacy Policy will 
-			apply to these Web sites. PLEASE BE AWARE that when you voluntarily 
-			disclose personal information (such as your name or e-mail 
-			address) in chat areas or bulletin boards or to third parties, 
-			that information may be collected by others outside our control 
-			and may result in unsolicited messages from others.
-		</p>
-		<p>
-			<b>IV. Accuracy of User Information</b><br>
-			Questions regarding our Privacy Policy, the accuracy of your 
-			personal information or the use of the information collected 
-			should be directed via e-mail to <a href="mailto:webmaster@hgtv.com">webmaster@hgtv.com</a>, 
-			or you can reach us by telephone at (865) 694-2700. You also 
-			can write us at:
-		</p>
-		<p>
-			Home &amp; Garden Television<br>
-			Attn: Web Site Privacy Policy<br>
-			P.O. Box 50970<br>
-			Knoxville, Tennessee 37950<br>
-		</p>
-		<p>
-			These privacy policies are effective as of January 1, 2000. 
-			We reserve the right to change this Policy at any time, and 
-			will post any changes to this Policy as soon as they go into 
-			effect.
-		</p>
-		<p>
-			<b>V. Security of Information</b><br>
-			We seek to ensure the security of personal information submitted 
-			by our users. When collecting credit card information for 
-			online purchases, we offer secured-server transactions that 
-			encrypt your information in transit to thwart someone from 
-			intercepting it and misusing it. When we collect other information 
-			from our users, it is stored in an area to which the general 
-			public does not have access.
-		</p>
-		<p>
-			<b>VI. Opting-out</b><br>
-			At times while assessing our site, a user may be given a choice 
-			of "opting-out" of certain uses of his or her information. 
-			We will provide this choice where appropriate.
-		</p>
-		<p>
-			<b>VII. Permission to Use of Materials</b><br>
-			The right to download and store or output the materials in our site is granted for the user's personal 
-			use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, 
-			performance, display or editing of these materials by any means mechanical or electronic without the 
-			express written permission of the Company is strictly prohibited. Users wishing to obtain permission 
-			to reprint or reproduce any materials appearing on this site may contact us at 
-			<a href="mailto:webmaster@hgtv.com">webmaster@hgtv.com</a>.
-		</p>
-		<p></p>
-	
-	<p></p>
-	
-		</td>
+		<!-- ------------------ BEGIN TABLE FOR HORIZONTAL SITE NAV ------------------ -->
+		<table width="756" border="0" cellspacing="0" cellpadding="0" height="31">
+		<tbody><tr>
+	<td valign="middle" align="center" class="navbartext">&nbsp;&nbsp;&nbsp;<a href="/hgtv/program_guide/0,1783,HGTV_3658,00.html" class="navbartext">Program Guide</a>&nbsp;&nbsp;&nbsp;</td>
+								<td width="7" align="center" valign="middle"><img src="/hgtv/images/bullets/nav_divider_line2.gif" width="7" height="31"></td>
+								<td valign="middle" align="center" class="navbartext">&nbsp;&nbsp;&nbsp;<a href="/hgtv/shows/0,1804,HGTV_3810,00.html" class="navbartext">Shows A - Z</a>&nbsp;&nbsp;&nbsp;</td>
+								<td width="7" align="center" valign="middle"><img src="/hgtv/images/bullets/nav_divider_line2.gif" width="7" height="31"></td>
+								<td valign="middle" align="center" class="navbartext">&nbsp;&nbsp;&nbsp;<a href="/hgtv/decorating/0,1792,HGTV_3545,00.html" class="navbartext">Decorating</a>&nbsp;&nbsp;&nbsp;</td>
+								<td width="7" align="center" valign="middle"><img src="/hgtv/images/bullets/nav_divider_line2.gif" width="7" height="31"></td>
+								<td valign="middle" align="center" class="navbartext">&nbsp;&nbsp;&nbsp;<a href="/hgtv/remodeling/0,1796,HGTV_3659,00.html" class="navbartext">Remodeling</a>&nbsp;&nbsp;&nbsp;</td>
+								<td width="7" align="center" valign="middle"><img src="/hgtv/images/bullets/nav_divider_line2.gif" width="7" height="31"></td>
+								<td valign="middle" align="center" class="navbartext">&nbsp;&nbsp;&nbsp;<a href="/hgtv/gardening/0,1784,HGTV_3546,00.html" class="navbartext">Gardening</a>&nbsp;&nbsp;&nbsp;</td>
+								<td width="7" align="center" valign="middle"><img src="/hgtv/images/bullets/nav_divider_line2.gif" width="7" height="31"></td>
+								<td valign="middle" align="center" class="navbartext">&nbsp;&nbsp;&nbsp;<a href="/hgtv/at_home/0,1800,HGTV_3221,00.html" class="navbartext">At Home</a>&nbsp;&nbsp;&nbsp;</td>
+								<td width="7" align="center" valign="middle"><img src="/hgtv/images/bullets/nav_divider_line2.gif" width="7" height="31"></td>
+								<td valign="middle" align="center" class="navbartext">&nbsp;&nbsp;&nbsp;<a href="/hgtv/crafting/0,1788,HGTV_3352,00.html" class="navbartext">Crafts</a>&nbsp;&nbsp;&nbsp;</td>
+								<td width="7" align="center" valign="middle"><img src="/hgtv/images/bullets/nav_divider_line2.gif" width="7" height="31"></td>
+								<td valign="middle" align="center" class="navbartext">&nbsp;&nbsp;&nbsp;<a href="http://store.hgtv.com" class="navbartext" target="_blank">Shop</a>&nbsp;&nbsp;&nbsp;</td>
+								
 	</tr>
+	</tbody></table>
+	<!-- ------------------ END TABLE FOR HORIZONTAL SITE NAV ------------------ -->
+	  </td>
+	<td width="100%" class="pagebg3"><img src="/hgtv/images/spacers/spacer.gif" width="1" height="1" border="0"></td>
+  </tr>
 </tbody></table>
-</div><!-- End Page Body -->
-
-
-<!-- Start Bottom Layout -->
-
-<!-- Vignette V/5 Thu Apr 25 14:58:01 2002 -->
-
-
-
-
-<style type="text/css">
-.footer a, .footer a:link, .footer a:visited, .footer a:hover {
-	color:#666666;
-	text-decoration:underline;
-}
-</style>
-
-<table width="780" border="0" align="center">
-	<tbody><tr valign="top"> 
-    	<td height="17"><img src="http://images.scrippsnetworks.com/HGTV/images/footer_top.gif" width="780" height="17" alt="footer"></td>
-  	</tr>
-  	<tr> 
-    	<td align="center" height="150" background="http://images.scrippsnetworks.com/HGTV/images/footer.gif">
-      		<p align="center" class="small"><img src="http://images.scrippsnetworks.com/HGTV/images/imagine2.gif" width="214" height="17" alt="imagine what you can do"><br>
-				<span class="footer">
-        			<a href="/HGTV/0,1100,,FF.shtml">Home</a> | 
-					<a href="/HGTV/about/0,1120,,FF.html">About Us</a> | 
-					<a href="/HGTV/newsletter/subscribeForm/0,2209,,00.html">Newsletter</a> | 
-					<a href="/HGTV/about/questions/0,2328,,00.html">Questions?</a> | 
-				    <a href="/HGTV/about/advertisePageOne/0,1143,,FF.html">Advertising</a> | 
-					<a href="http://cfapps.scripps.com/jobposting/jobopp.asp">Jobs</a><br>
-					<a href="http://www.diynet.com">DIY</a> | 
-					<a href="http://www.fineliving.com">FINE LIVING</a> | 
-					<a href="http://www.foodtv.com">Food Network</a> | 
-					<a href="http://www.scripps.com">Scripps</a> | 
-					<a href="/HGTV/about/siteMap/0,1145,,00.html">Site Map</a> | 
-					<a href="/HGTV/about/privacy/0,1121,,FF.html">Privacy Policy</a> | 
-				    <a href="/HGTV/about/legal/0,1129,,FF.html">Legal Info.</a><br>
-				</span>
-      		</p>
-			<p class="small">
-				<span class="footer">
-					<a href="/HGTV/categoryHomepage/0,1103,BDRE_4,FF.html">Building &amp; Remodeling</a><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="6" height="1" border="0" alt=" "><a href="/HGTV/categoryHomepage/0,1103,CRHO_1,FF.html">Crafts &amp; Collectibles</a><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="6" height="1" border="0" alt=" "><a href="/HGTV/categoryHomepage/0,1103,DEID_3,FF.html">Design &amp; Decorating</a><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="6" height="1" border="0" alt=" "><a href="/HGTV/categoryHomepage/0,1103,FOLI_2,FF.html">Food &amp; Lifestyle</a><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="6" height="1" border="0" alt=" "><a href="/HGTV/categoryHomepage/0,1103,GALA_6,FF.html">Gardening &amp; Landscaping</a><img src="http://images.scrippsnetworks.com/HGTV/images/clear.gif" width="6" height="1" border="0" alt=" "><a href="/HGTV/categoryHomepage/0,1103,REFI_2204,FF.html">Real Estate &amp; Finance</a> </span>
-			</p>
-    	</td>
-  	</tr>
+<!-- END HORIZONTAL NAVBAR CODE -->
+<!-- BEGIN SERIES OF NESTED TABLES THAT HOLD HORIZONTAL DROP SHADOW UNDER NAV -->
+<table width="100%" height="6" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+	<td width="17" class="pagebg12"><img src="/hgtv/images/spacers/spacer.gif" width="17" height="1"></td>
+	<td width="756">
+	
+	  <table width="756" height="6" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+		  <td class="headerdropshadow">
+		  
+		    <!-- BEGIN NS 4.x DUPE TABLE FOR BG IMAGE -->
+			<table width="756" height="6" border="0" cellpadding="0" cellspacing="0" background="">
+			  <tbody><tr>
+				<td><img src="/hgtv/images/spacers/spacer.gif" width="1" eight="1"></td>
+			  </tr>
+			</tbody></table>
+			<!-- END NS 4.x DUPE TABLE FOR BG IMAGE -->
+			
+		  </td>
+		</tr>
+	  </tbody></table></td>
+	<td width="100%" class="pagebg4"><img src="/hgtv/images/spacers/spacer.gif" width="1" height="1"></td>
+  </tr>
 </tbody></table>
-<!-- End Bottom Layout -->
-</div>
+<!-- END SERIES OF NESTED TABLES THAT HOLD HORIZONTAL DROP SHADOW UNDER NAV -->
+<!-- BEGIN MAIN BODY CODE -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+	<td width="17" class="pagebg11"><img src="/hgtv/images/spacers/spacer.gif" width="17" height="1"></td>
+	<td width="756">
+	
+	  <!-- BEGIN TABLE THAT HOLDS BODY BG IMAGE -->
+	  <table width="756" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+		  <td width="756" class="maintablebg">
+	
+			<!-- BEGIN TABLE THAT HAS BLANK BACKGROUND - NS 4.x DUPE -->	
+			<table width="756" border="0" cellpadding="0" cellspacing="0" background="">
+			  <tbody><tr>
+				
+<!-- ------------------------------------------------------------------------------- -->
+
+
+
+	<!-- BEGIN CELL FOR LEFT SIDE CONTENT -->
+
+				
+	<td width="201" valign="top" class="">
+		
+		<!-- Vignette V/5 Thu Oct 24 11:06:04 2002 -->
+
+	<table width="100%" cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td>
+				<table width="100%" border="0" align="center" cellpadding="15" cellspacing="0">
+					<tbody><tr>
+						<td class="searchtext">
+							
+			<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+				<form name="LnbSearchForm" action="http://web.hgtv.com/hgtv/web/searchResults" method="get"></form>
+					<td class="searchtext">
+						SEARCH<br>
+						<input size="15" style="FONT-SIZE: 12px; FONT-FAMILY: Courier New, Courier, mono" name="searchString">
+						<input type="hidden" value="HGTV" name="site">
+						<input type="hidden" value="site" name="searchType">
+						<input name="GoSearch" type="image" src="/hgtv/images/nav/go_search.gif" alt="Go!" align="absmiddle" width="28" height="16" border="0">
+					</td>
+				
+				</tr>
+			</tbody></table>
+							
+						</td>
+					</tr>
+				</tbody></table><p>
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr valign="top">
+				
+			<td class="lnbtablebody" width="15">
+				<table width="15" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td class="lnbtableheader" width="15" height="29"><img src="/hgtv/images/spacers/spacer.gif" width="15" height="1"></td>
+					</tr>
+				</tbody></table>
+			</td>
+				<td class="lnbtablebody" width="100%"><!-- Begin getVerticalCompnStackHTML --><table cellpadding="0" cellspacing="0" width="100%" class="lnbtablebody" border="0"><!-- start getRowHTMLFromText --><tbody><tr height="29"><td class="lnbtableheader" height="29" width="100%">ABOUT US</td></tr><!-- end   getRowHTMLFromText --><tr><td><img src="/hgtv/images/spacers/spacer.gif" width="10" height="15"></td></tr><tr height=""><td class="lnbtablebody" height="" width="100%"><table border="0" cellpadding="0" cellspacing="0" class="lnbtablenav" width="100%">
+<tbody><tr>
+<td>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1424635,00.html/">About Us</a><br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1424914,00.html">Cable in the Classroom</a><br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1420308,00.html">Cable Modem</a><br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1424641,00.html">Community  Outreach</a><br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1420379,00.html">HGTV International</a><br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1462654,00.html">HGTV On Demand</a><br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1420416,00.html">Interactive Television</a> <br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1424672,00.html">Legal Information</a><br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1426898,00.html">Link to Us</a><br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1422962,00.html">Network Providers</a><br>
+<a href="/hgtv/newsletter/">Newsletter</a> <br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1424834,00.html">Press Information</a> <br>
+<a href="/hgtv/press_release/">Press Releases</a><br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1424715,00.html">Privacy Policy</a><br>
+<a href="/hgtv/about_us/article/0,1783,HGTV_3080_1433559,00.html">Questions?</a><br>
+<a href="/hgtv/sweepstakes/">Sweepstakes</a> <br>
+<br>
+</td>
+</tr>
+</tbody></table></td></tr><tr><td><img src="/hgtv/images/spacers/spacer.gif" width="10" height="15"></td></tr><!-- MaxSize (2) --></tbody></table><!-- End getVerticalCompnStackHTML --></td>
+				
+			<td width="18">
+				<table width="18" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td class="lnbdropshadow" width="18" height="29"><img src="/hgtv/images/spacers/spacer.gif" width="18" height="1"></td>
+					</tr>
+				</tbody></table>
+			</td>
+			</tr>
+		</tbody></table><!-- MaxSize (2) --></p></td></tr></tbody></table> <img src="/hgtv/images/spacers/spacer.gif" width="201" height="1">
+	</td>
+	 <!-- END OF CELL FOR LEFT SIDE CONTENT -->
+
+
+
+	<!-- BEGIN CELL FOR CONTENT AREA -->
+	
+	<td width="555" valign="top">
+											    
+						<!-- Vignette V/5 Tue Sep 24 15:35:15 2002 -->
+
+	<table cellspacing="0" cellpadding="0" width="100%" border="0" valign="TOP"><tbody><tr><td valign="TOP">
+			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+				<tbody><tr><td height="12"><img src="/hgtv/images/spacers/spacer.gif" width="1" height="1" border="0"></td></tr>
+				<tr><td align="RIGHT" class="deeplinks"><a href="javascript:popup('/cr/cda/article_print/1,1250,HGTV_3080_1424715,00.html',700,500,1)"><img src="/hgtv/images/icons/print_version.gif" width="137" height="16" name="print1" border="0"></a></td></tr>
+				<tr><td align="RIGHT" class="deeplinks"><a href="javascript:popup('/cr/cda/email/article/1,1249,HGTV_3080_1424715,00.html',400,350)"><img src="/hgtv/images/icons/email.gif" width="137" height="16" name="email1" border="0"></a></td></tr>
+			</tbody></table><table cellspacing="0" cellpadding="20" width="100%" border="0"><tbody><tr><td class="bodytext"><span class="headline1">Privacy Policy</span><br><p>HGTV.com is committed to protecting the online privacy of visitors to its website. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At hgtv.com, we intend to give you as much control as possible over your personal information. </p><p>The purpose of our policy is to inform you about the types of information we gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. </p><p>Our site may contain links to other websites, including websites directed to children. We have no control over the privacy practices or the content of any of our business partners, advertisers, sponsors or other sites to which we provide links from our sites. You should check the applicable privacy policy of the Website sponsor when linking to other websites. </p><p></p><ol type="I"><b></b><li><b>Personal Information Which We Collect</b><br>We may request that you voluntarily supply us with personal information, including your e-mail address, postal address, home or work telephone number, credit card number (only if you choose to purchase a product online), for such purposes as correspondence, making a purchase, or participating in online contests, surveys or games. If you choose to give us personal information via the Internet that we or our business partners may need—to correspond with you, to process an order or to provide you with a subscription, for example—then it is our intent to let you know how we will use such information. Like many other commercial sites, our site may utilize a standard technology called a "cookie" to collect information about how our site is used. <p>Cookies were designed to help a website recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was previously browsing the site. Our cookie cannot retrieve any other data from your hard drive or pass on a computer virus. Our website may use cookies to enhance your visit. Cookies can securely store a user's password, personalize Homes, identify which parts of a site have been visited or keep track of selections, such as those selected in a "shopping cart." Our cookies may collect a domain name (for example, "aol.com" or "netcom.com") and track a path through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal identifying information about you (such as your name) without your consent. </p><p>We also use cookies in connection with our chat rooms in order to record your preferences. These cookies store automatically information pertaining to the last chat room you visited, as well as certain comments that can be issues in the chat room, in order to facilitate your experience with the chat rooms. No additional identifying information is stored on these cookies. You also have the option of choosing to allow us to use a cookie to store your username, or "handle", and password on your computer for use in that chat rooms, forums and other sites as indicated on the particular site. </p><p>We may require you to supply us with personal information (demographic information such as age, income, education, population data, zip codes) during a "registration" process online prior to using certain features of our site (for example, prior to entering an online sweepstakes). We use this general information in statistical form to understand our site's demographics, such as percentage of male and female users, geographic location, age ranges, or a combination of these or other demographics. As detailed below, we will not share specific information about you to advertisers or third parties without your consent. </p><p><b></b></p></li><li><b>Use of User Information</b><br>We may perform statistical analyses of aggregate (group) user behavior. This allows us to measure relative consumer interest in the various areas of our websites for product development purposes. Any information we collect is used for our own internal purposes to improve the content of the website, to enhance users' experiences when visiting our site, to customize the content and/or layout of our pages, and to provide the services required by an individual user. We do not use personal identifying information for any reason that is not disclosed either in this Policy or at the time the information is requested. Aside from an automatic reply to an e-mail received by us, it is our intent not to e-mail to you unless you request a particular service, or consent to being contacted by e-mail. There may be instances where you will have the opportunity to subscribe to an e-mail list that will send information about the site or our advertisers to your e-mail address, but after an initial mailing gauging your interest this will be continued only with your permission and consent. <p>Third-Party advertising companies such as DoubleClick Inc. utilize certain technologies to deliver specific advertisements, which appear on pages throughout this website, to the site's users. These companies may collect, store and use non-personally identifiable user information. If you want to prevent a third-party advertiser from collecting such user information, you may either visit each third party advertiser's website directly and opt-out (for example <a target="blank" href="http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp">click here</a> for DoubleClick's privacy policy and opt-out options), or <a target="blank" href="http://www.networkadvertising.org/optout_nonppii.asp">click here</a> to visit the NAI gateway opt-out site. The NAI gateway opt-out site will allow you to review various third-party advertising companies' privacy policies and opt-out options. </p><p><b></b></p></li><li><b>Disclosure to Third Parties</b><br>We do not share personal identifying information with any third party without your permission. We disclose only in aggregate (group) form our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. This aggregate information does not include names or e-mail addresses. In some instances, we operate shared websites with businesses affiliated with us. Our Privacy Policy will apply to these websites. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name or e-mail address) in chat areas or bulletin boards or to third parties, that information may be collected by others outside our control and may result in unsolicited messages from others. <p><b></b></p></li><li><b>Accuracy of User Information</b><br>Questions regarding our Privacy Policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to <a target="blank" href="mailto:webmaster@hgtv.com">webmaster@hgtv.com</a> or you can reach us by telephone at (865) 694-2700. You also can write us at: <p>Home &amp; Garden Television<br>Attn: Website Privacy Policy<br>P.O. Box 50970<br>Knoxville, Tennessee 37950</p><p>These privacy policies are effective as of January 1, 2000. We reserve the right to change this Policy at any time, and will post any changes to this Policy as soon as they go into effect. </p><p><b></b></p></li><li><b>Security of Information</b><br>We seek to ensure the security of personal information submitted by our users. When collecting credit card information for online purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area to which the general public does not have access. <p><b></b></p></li><li><b>Opting-out</b><br>At times while assessing our site, a user may be given a choice of "opting-out" of certain uses of his or her information. We will provide this choice where appropriate. <p><b></b></p></li><li><b>Permission to Use of Materials</b><br>The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of the Company is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on this site may contact us at <a target="blank" href="mailto:webmaster@hgtv.com">webmaster@hgtv.com</a></li></ol> <br></td></tr></tbody></table></td></tr></tbody></table>   <img src="/hgtv/images/spacers/spacer.gif" width="555" height="1">
+	</td>
+	 <!-- END OF CELL FOR CONTENT -->
+	
+	
+	<!--GutterWidth: 0 -->
+	<!-- BEGIN CELL THAT HOLDS RIGHT GUTTER INFO -->
+	 <!-- END CELL THAT HOLDS RIGHT GUTTER INFO -->
+
+			  </tr>
+	  		</tbody></table>
+			<!-- END TABLE THAT HAS BLANK BACKGROUND - NS 4.x DUPE -->	
+	  
+	  	  </td>
+		</tr>
+	  </tbody></table>
+	  <!-- END TABLE THAT HOLDS BODY BG IMAGE -->
+	  
+	</td>
+	<td width="100%" class="pagebg5"><img src="/hgtv/images/spacers/spacer.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<!-- END MAIN BODY CODE -->
+
+
+	
+<table width="100%" height="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr valign="top">
+	<td width="17" class="pagebg10"><img src="/hgtv/images/spacers/spacer.gif" width="17" height="1"></td>
+	<td width="201" class="pagebg9"><img src="/hgtv/images/spacers/spacer.gif" width="201" height="1"></td>
+	<td width="555" class="pagebg8">
+	<!-- ----------------------BEGIN SITE FOOTER LIBRARY ----------------------- -->	 
+	<!-- Vignette V/5 Mon Sep 23 12:27:33 2002 -->
+
+  
+			
+				  <!-- --------------------BEGIN FOOTER FF TEXT ELEMENT---------------- -->
+	<table width="100%" height="165" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+		  <td align="center" valign="middle" class="footertext">
+			<p><img src="/hgtv/images/spacers/green_footer_line.gif" width="403" height="8" vspace="2">
+			<a href="/hgtv/home/">Home</a> | <a href="/hgtv/about_us/">About Us</a> | <a href="/hgtv/newsletter/">Newsletter</a> | <a href="/hgtv/about_us/article/0,1783,HGTV_3080_1433559,00.html">Questions?</a> | <a href="/hgtv/about_us/article/0,1783,HGTV_3080_1420227,00.html">Advertising</a> | <a href="/hgtv/site_map/">Site Map</a><br>
+			<img src="/hgtv/images/spacers/spacer.gif" width="403" height="4"><br>
+			<a href="http://www.diynet.com" target="_new">DIY</a> | <a href="http://www.fineliving.com" target="_new">Fine Living</a> | <a href="http://www.foodtv.com" target="_new">Food Network</a> | <a href="http://www.scripps.com" target="_new">Scripps</a> | <a href="/hgtv/about_us/article/0,1783,HGTV_3080_1424715,00.html">Privacy Policy</a> | <a href="/hgtv/about_us/article/0,1783,HGTV_3080_1424672,00.html">Legal Info</a><br>
+			<img src="/hgtv/images/spacers/green_footer_line.gif" width="403" height="8" vspace="2"></p>
+			<p>© 2002 Home and Garden Television. All rights reserved.</p></td>
+		</tr>
+	  </tbody></table>
+	  <!-- --------------------END FOOTER FF TEXT ELEMENT---------------- --><!-- MaxSize (1) --> <!-- ----------------------END SITE FOOTER LIBRARY ----------------------- -->
+	  </td>
+	<td width="0" class="pagebg7"><a href="http://www.hgtv.com"><img src="/hgtv/images/logos/footer_icon.gif" width="152" height="120" border="0" alt="HGTV"></a></td>
+	<td width="100%" class="pagebg6"><img src="/hgtv/images/spacers/spacer.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+
+		<!-- AdSpace adtype=SUPERSTITIAL pos.1 -->
+			<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/site=HGTV&amp;category=ABOUT_US&amp;vgncontent=ABOUT_US&amp;pagetype=ARTICLE-DETAIL&amp;adtype=SUPERSTITIAL&amp;PagePos=1">
+			</script>
+		<!-- /AdSpace -->
+		<!-- AdSpace adtype=SUPERSTITIAL pos.1 -->
+			<script language="JavaScript1.1" src="http://adsremote.scripps.com/js.ng/site=HGTV&amp;category=ABOUT_US&amp;vgncontent=ABOUT_US&amp;pagetype=ARTICLE-DETAIL&amp;adtype=SUPERSTITIAL&amp;PagePos=2">
+			</script>
+		<!-- /AdSpace -->
 
 </body></html>
