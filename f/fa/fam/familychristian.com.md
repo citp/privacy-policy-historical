@@ -1,11 +1,22 @@
-> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603132621id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familychristian.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605164013id_/http%3A//www.familychristian.com/privacy.asp) for the most accurate reproduction.*
 
-# Family Christian Stores
+# Privacy Policy & Security - FamilyChristian.com
 
+|   |    
+
+
+**Father's Day Is 06.16.02** ****** Standard Ship: 06.06  
+2nd Day: 06.10  
+Overnight: 06.11**  
   
-FamilyChristian.com respects and wants to protect the privacy of our users. We do not sell, rent, or loan any identifiable information regarding our customers to any third party. Any personal information you give us will not be given to other third parties without your consent. 
+---|---  
+  
+  | 
 
-**Use of IP Addresses**  
+**Our commitment to You, Our Customer** **  
+** FamilyChristian.com respects and wants to protect the privacy of our users. We do not sell, rent, or loan any identifiable information regarding our customers to any third party. Any personal information you give us will not be given to other third parties without your consent. 
+
+**Use of IP Addresses **  
 An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers identify your computer by its IP address. FamilyChristian.com uses your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information. 
 
 **Use of Cookies**  
@@ -24,47 +35,44 @@ Our site uses an order form for customers to request information, products, and 
 
 Our online surveys and promotions ask visitors for contact information (like their email address) and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-**Security** **  
-[](https://digitalid.verisign.com/as2/23b6bcc1d3004d5d9af57b4a045a4185)At FamilyChristian.com protecting your personal information through online security is of the utmost importance. Thus, we have taken reasonable means to ensure that before your information is transmitted across the Internet, it is encrypted to prevent the information from being read or tampered with during the transmission. Our site uses the industry standard, SSL (secured socket layer) encryption. **
+**Security**   
+At FamilyChristian.com protecting your personal information through online security is of the utmost importance. Thus, we have taken reasonable means to ensure that before your information is transmitted across the Internet, it is encrypted to prevent the information from being read or tampered with during the transmission. Our site uses the industry standard, SSL (secured socket layer) encryption. 
 
-**If you use one of the following browsers then SSL encryption is protecting your information:**
+If you use one of the following browsers then SSL encryption is protecting your information: 
 
- **
   * Microsoft Internet Explorer 3.0 or higher 
   * Netscape 2.0 or higher 
   * America Online 3.0 or higher 
-**
-**While we at FamilyChristian.com consider online security a priority, we cannot provide absolute assurances against, and will not be liable for, any breaches of confidentiality due to system failures or unauthorized access by third parties.
 
- **Choice/Opt-out** **  
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.**
+While we at FamilyChristian.com consider online security a priority, we cannot provide absolute assurances against, and will not be liable for, any breaches of confidentiality due to system failures or unauthorized access by third parties. 
 
- **
-  1. You can send email to [info@familychristian.com](mailto:info@familychristian.com). 
+**Choice/Opt-out**   
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+
+  1. You can send email to [**info@familychristian.com**](mailto:info@familychristian.com). 
   2. You can call the following telephone number: 616-554-8700 
-**
-**
 
-**Correct/ Update** **  
-This site gives users the following options for changing and modifying information previously provided.**
 
- **
-  1. Email [info@familychristian.com](mailto:info@familychristian.com). 
+
+**Correct/ Update**   
+This site gives users the following options for changing and modifying information previously provided. 
+
+  1. Email [**info@familychristian.com**](mailto:info@familychristian.com). 
   2. Call the following telephone number: 616-554-8700 
-**
-**
 
-**Contacting the Web Site** **  
+
+
+**Contacting the Web Site**   
 If you have any questions about this Privacy and Security Statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-_Familychristian.com  
-5300 Patterson Ave SE - A3  
-Grand Rapids, MI 49530  
-[info@familychristian.com](mailto:info@familychristian.com) _
+> Familychristian.com  
+>  5300 Patterson Ave SE - A3  
+>  Grand Rapids, MI 49530  
+>  [**info@familychristian.com**](mailto:info@familychristian.com)
 
-**
+**Use of Web Site**   
+This website is intended for use only by individuals who are 13 years of age or older. If you are not at least 13 years of age, do not submit any information to this site. 
 
-**_**Use of Web Site** **  
-This website is intended for use only by individuals who are 13 years of age or older. If you are not at least 13 years of age, do not submit any information to this site.**_**
+Use of this Site will constitute your acceptance of this privacy policy. 
 
-******
+|  
