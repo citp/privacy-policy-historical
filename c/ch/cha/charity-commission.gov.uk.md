@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2004-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040205040415id_/http%3A//www.charity-commission.gov.uk/common/copyright.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charity-commission.gov.uk privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210090838id_/http%3A//www.charity-commission.gov.uk/common/copyright.asp) for the most accurate reproduction.*
 
 # COPYRIGHT STATEMENT
 
@@ -55,12 +55,17 @@ We will confirm that the requested changes have been made if you specifically re
 
 4\. Site usage information
 
-**i) Session cookies**  
-Cookies are pieces of data created when you visit a website. The cookies our site uses are "session cookies", which means that your "preferences", such as your choice of background colour and use of text version, are stored temporarily while you move around the site. You can set your computer not to accept cookies. However, if you do this, you will not be able to view www.charitycommission.gov.uk in text only or in black and white because we need to record your preferences in order to give you the information you need during your visit.
+**Cookies**
 
-Session cookies are deleted when you exit from the Internet. They do not contain any personal information about you, and do not hold any information about which sites you visited before www.charitycommission.gov.uk.
+We will be unable to display certain pages such as the Welsh version of our site and other accessibility options if your browser is set up to refuse our cookies. 
 
-**ii) Log files**  
+**What are Cookies?**
+
+Cookies are small text files that are often created when you visit a website, and which are stored in the cookie directory of your computer. The cookies contain small pieces of data which are used on our website to store your current choices such as language and [accessibility options](https://web.archive.org/web/20041210090838id_/http%3A//www.charity-commission.gov.uk/access.asp) . By reading the data in the cookie we are able to apply your preferences from page to page as you move through our site. The cookies our site uses are called "session cookies", which means that your choices, such as the Welsh language version and your preferred accessibility choices are stored temporarily while you move around the site. The cookies do not contain any personal information about you, and they cannot be used to identify an individual user. You can set your computer not to accept cookies but, if you do, you will not be able to use some facilities on the website. Session cookies are deleted when you exit from the Internet. They do not contain any personal information about you, and do not hold any information about which sites you visited before www.charitycommission.gov.uk 
+
+**Log files**
+
+  
 Log files allow us to record visitors' use of the site. Specialist software puts together log file information from all our visitors, which we use to make changes to the layout of the site and to the information in it, based on the way that visitors move around it. Log files do not contain any personal information. 
 
 What happens when I link to another site?
