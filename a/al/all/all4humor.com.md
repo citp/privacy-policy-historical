@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the all4humor.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608015921id_/http%3A//www.all4humor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the all4humor.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202115846id_/http%3A//www.all4humor.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - All4Humor.com
 
-**[[Back to the Main Page](https://web.archive.org/web/20010608015921id_/http%3A//www.all4humor.com/index.html) ]**
+**[[Back to the Main Page](https://web.archive.org/web/20011202115846id_/http%3A//www.all4humor.com/index.html) ]**
 
 **Privacy Policy**
 
