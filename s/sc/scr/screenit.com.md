@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenit.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenit.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604144329id_/http%3A//screenit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SCREEN IT! PRIVACY STATEMENT
 
@@ -16,7 +16,7 @@ The 3rd party advertising companies our site uses to sell advertising on our sit
 We run an optional survey to collect brief personal and activity based information of our users who opt to fill out the survey. The information is used only in aggregate with such information that's collected from all users only being used in the form of an average profile of our users. After such compilation, the individual information is deleted and is never distributed to any outside entity. 
 
 **Screen It Newsletter**  
-We provide a free weekly newsletter for those who opt-in to receive it. Email addresses submitted by users for this purpose are only used to distribute our weekly newsletter and are never distributed/sold/leased to any outside entity. For those who wish to opt-out from receiving our newsletter, please send an email to [screenit@oaknetpub.com](mailto:screenit@oaknetpub.com) with only the word REMOVE in the body of the email message (from the email account you wish to remove). 
+We provide a free weekly newsletter for those who opt-in to receive it. Email addresses submitted by users for this purpose are only used to distribute our weekly newsletter and are never distributed/sold/leased to any outside entity. For those who wish to opt-out from receiving our newsletter, please send an email to [screenit@reply.mb00.net](mailto:screenit@reply.mb00.net) with only the word REMOVE in the subject of the email message (from the email account you wish to remove). 
 
 **Registration Forms**  
 Our site's registration form (for signing up for the possibility to win sneak preview passes -- Washington, DC area only) requires users to give us contact information (like their name, email, and postal address). Such contact information from the registration forms is only used to verify that those who are registering actually live in the Washington, DC area. Those who sign up for this service will only receive email notices related directly to the availability of sneak preview passes. Those who no longer wish to receive them can opt-out of receiving future mailings by notifying us at: [reviews@screenit.com](mailto:reviews@screenit.com). 
@@ -35,14 +35,3 @@ This site does not collect specific information from children (other than as sta
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [reviews@screenit.com](mailto:reviews@screenit.com). 
-
-* * *
-
-[**Advertising Info**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/advertise.html) | [**Info/FAQ**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/info.html) | [**Mail**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/mail.html) | [**Newsletter**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/newsletter.html) | [**Sneak Previews**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/sneak_previews.html) | [**Syndication**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/syndication.html)  
----|---|---|---|---|---  
-  
-[Privacy Statement](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/privacy_policy.html) and [Terms of Use and Disclaimer](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/disclaimer.html)  
-_By entering this site you acknowledge to having read and agreed to the above conditions._
-
-All Rights Reserved,  
-©1996-2002 Screen It, Inc. 
