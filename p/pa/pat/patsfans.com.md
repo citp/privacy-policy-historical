@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patsfans.com privacy policy that was archived on 2003-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030824115104id_/http%3A//www.patsfans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patsfans.com privacy policy that was archived on 2004-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040330071118id_/http%3A//www.patsfans.com/privacy) for the most accurate reproduction.*
 
 # PatsFans.com - Privacy Policy
 
@@ -28,6 +28,10 @@ We may use the information that you provide for account set up and to fulfill yo
 The non-personal information we collect is used to monitor traffic and also allows us to improve our site to better fit the needs of the fans who use it. 
 
 **COLLECTION OF INFORMATION BY THIRD-PARTY SITES AND SPONSORS**
+
+PatsFans.com currently has sponsorship agreements with the following companies: 
+
+Covers.com 
 
 PatsFans.com currently has Affiliate agreements with the following Companies: 
 
