@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthplan.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203160449id_/http%3A//healthplan.com/corp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthplan.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603144829id_/http%3A//www.healthplan.com/corp/privacy.php) for the most accurate reproduction.*
 
 # HealthPlan Holdings, Inc. Privacy Statement
 
@@ -79,4 +79,4 @@ Tampa, Florida 33630-3208
 
 You may also file a complaint with the Secretary of Health and Human Services. There will be no retaliation for filing a complaint.
 
-[Our Internet Security Policy.](https://web.archive.org/web/20031203160449id_/http%3A//healthplan.com/corp/infosec.php)
+[Our Internet Security Policy.](https://web.archive.org/web/20040603144829id_/http%3A//www.healthplan.com/corp/infosec.php)
