@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nissan.com.au privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611092250id_/http%3A//nissan.com.au/disclaimer.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nissan.com.au privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015021751id_/http%3A//www.nissan.com.au/disclaimer.asp) for the most accurate reproduction.*
 
 # Welcome to Nissan Australia
 
