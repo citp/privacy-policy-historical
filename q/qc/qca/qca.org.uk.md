@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qca.org.uk privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409225757id_/http%3A//www.qca.org.uk/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qca.org.uk privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408043556id_/http%3A//www.qca.org.uk/help/privacy.asp) for the most accurate reproduction.*
 
 # QCA - Help - Privacy
 
@@ -10,7 +10,10 @@
 
 [Resource Links](https://web.archive.org/help/links/res/ "Resource Links")
 
-[Feedback](https://web.archive.org/help/feedback.asp "Feedback")
+[How to find us](https://web.archive.org/annual_report/qca_location.asp "How to find us")
+
+[Customer services  
+and enquiries](https://web.archive.org/help/customer_services/ "Customer services and enquiries")
 
 |   |   | 
 
@@ -27,5 +30,6 @@ For further information about Data Protection issues within QCA you can contact 
   
   
 http://www.qca.org.uk/help/privacy.asp  
-Last Updated: 09/02/01 17:39:18  
-[Email this page](https://web.archive.org/email.asp?u=/help/privacy.asp? "Email this page") | [Print this page](https://web.archive.org/printable.php?p=/help/content/privacy.htm "Print This Page") | 
+Last Updated: 09 February 2001 22:39:00  
+[ Email this page](https://web.archive.org/email.asp?u=/help/privacy.asp? "Email this page") | [ Print this page](https://web.archive.org/printable.php?p=/help/content/privacy.htm "Print This Page")  
+| 
