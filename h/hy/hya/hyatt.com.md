@@ -1,105 +1,49 @@
-> *The following text is extracted and transformed from the hyatt.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217204404id_/http%3A//www.hyatt.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyatt.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210090018id_/http%3A//www.hyatt.com/corporate/contact/privacy_policy.jhtml%3Fssnav%3D1%26pg%3Dprivacy) for the most accurate reproduction.*
 
-# Hyatt Hotels and Resorts: Privacy Policy
-
-  
-
-
-**INTERNET PRIVACY STATEMENT**
+# Hyatt Privacy Policy
 
   
-We are committed to safeguarding your privacy online. We have posted this privacy policy to help you, the user, to understand the nature of the personal information about you that is collected when you visit and use this web site and how that information will be treated. This policy may change from time to time, so please check back here periodically.
+  
+|  |   
+|  [](https://web.archive.org/corporate/contact/hyatt_privacy_policy.pdf;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)  
+  
+[](http://www.adobe.com/products/acrobat/readermain.html)  
+  
+---|---  
+  
+  
+At Hyatt, we have always been committed to providing our customers with the utmost in customer service. Hyatt.com now offers you the opportunity to create a customized online experience as you explore the exciting world of Hyatt, guided by the interests and preferences you choose to share. As described in this Internet Privacy Policy ("policy"), we are committed to properly using and safeguarding the privacy of all personally identifiable information ("personal information") that is collected from you when you visit and use hyatt.com and when you link through hyatt.com to Hyattvacationclub.com and the web pages or web sites for individual Hyatt Hotels & Resorts worldwide (sometimes collectively referred to herein as "our web sites"). In particular, the policy identifies the personal information that may be collected from you through our web sites, how it is used and with whom it may be shared, the choices available to you regarding its collection, use and distribution, the security procedures in place on our web sites and how you can change or correct inaccuracies in the personal information you provide on our web sites. Effective Date: June 1, 2004   
+  
+  
+| Privacy Policy Summary | [](https://web.archive.org/corporate/contact/privacy_policy_summary.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| When You Visit Our Web Sites | [](https://web.archive.org/corporate/contact/privacy_policy_visiting_hyatt.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| When you Create a User Profile | [](https://web.archive.org/corporate/contact/privacy_policy_create_user_profile.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Making a Hotel Reservation | [](https://web.archive.org/corporate/contact/privacy_policy_making_hotel_reservation.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Purchasing a Gift Certificate | [](https://web.archive.org/corporate/contact/privacy_policy_purchasing_gift_certificate.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Meeting Planning - Request for Proposal | [](https://web.archive.org/corporate/contact/privacy_policy_meeting_planning_request_proposal.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Travel Professionals | [](https://web.archive.org/corporate/contact/privacy_policy_travel_professionals.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Hyatt Vacation Club Information Requests | [](https://web.archive.org/corporate/contact/privacy_policy_vacation_club.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Applying for a Job Online | [](https://web.archive.org/corporate/contact/privacy_policy_applying_for_job_online.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Sending e-Postcards | [](https://web.archive.org/corporate/contact/privacy_policy_epostcards.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Contact Us | [](https://web.archive.org/corporate/contact/privacy_policy_contact_us.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Use of Personal Information | [](https://web.archive.org/corporate/contact/privacy_policy_use_of_personal_info.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Security | [](https://web.archive.org/corporate/contact/privacy_policy_security.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Links to Other Web Sites | [](https://web.archive.org/corporate/contact/privacy_policy_links_other_websites.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+| Children | [](https://web.archive.org/corporate/contact/privacy_policy_children.jhtml;jsessionid=OWBPCALQSGYNLTQSNWDVAF4OCJWYYUP4)     
+---|---  
+  
 
-**Making a Hotel Reservation**
-
-If you elect to make a room reservation through this web site, you will be seamlessly linked to a web site maintained by CSC Outsourcing, Inc., a subsidiary of Computer Sciences Corporation, from its offices in Oak Brook Terrace, Illinois ("CSCO"). To obtain a reservation, you will need to furnish your name, telephone number, e-mail address, billing address and credit card type, number and expiration date in addition to the dates of your stay, the number of rooms you will require and the number of adults and children in your party. In order to permit us to serve you better, you will also be asked to furnish the following additional information, although it is not required in order for you to obtain a reservation: the name of your company; your Gold Passport Membership Number; your Group/Corporate Number (i.e., if we have assigned an identification code to your group, company or organization); your flight arrival details; whether you qualify for a special rate as a Senior Citizen, employee of the U.S. Government or member of the American Automobile Association; whether you have any special requests, which you can indicate by either ticking one of the pre-selected choices found in the online form or by entering a note in the Comments field; and if you are a travel agent making a reservation on behalf of a client, you will be asked to provide your Travel Agent I.D. (i.e., your ARC/IATA/TIDS number). Once you have completed and submitted the online reservation form, the information included in the form is then automatically sent by CSCO to SPIRIT (the Hyatt Central Reservations System that is operated for the benefit of all Hyatt Hotels and Resorts by CSCO) and to the hotel or resort where you will be staying. If a guarantee or advance deposit is required in order to secure your reservation, the hotel or resort where you will be staying will then process your credit card for that purpose, gaining appropriate billing authorization from your credit card company. You will receive a confirmation of your reservation by e-mail. The information that you furnish when making a reservation will be used in fulfilling your reservation and may be used by us or entities acting on our behalf for marketing and quality assurance purposes. However, that information will not be shared with or sold to third parties for their own marketing purposes without your permission unless it is done on an aggregated basis for statistical purposes without any information that could be used to link that information to you.
-
-**Purchasing a Gift Certificate**
-
-If you elect to purchase a gift certificate through this web site, you will need to provide your name, billing address, home and daytime telephone number, e-mail address and credit card type, number and expiration date along with information concerning the type and amount of the gift certificate you wish to purchase and the message you wish to send to the recipient. If you want the gift certificate to be sent to an address other than your billing address, you will also be asked to provide the name, address and home and daytime telephone number of the recipient. The information that you furnish will then be encrypted and made available to Hyatt Fulfillment of Maryland, Inc., a subsidiary of Hyatt Corporation, the company that will issue and send you the gift certificates you purchase. The information you furnish in purchasing a gift certificate will be used in fulfilling your purchase, inclusive of obtaining authorization/approval from your credit card company, and may be used by us or entities acting on our behalf for marketing and quality assurance purposes. However, that information will not be shared with or sold to third parties for their own marketing purposes without your permission unless it is done on an aggregated basis for statistical purposes without any information that could be used to link that information to you.
-
-**Making an Airline Reservation or Renting a Car**
-
-Visitors to this web site can check the status of a flight, the price and availability of airfares and rental cars and, subject to the restrictions described elsewhere, purchase their airline tickets or reserve their rental cars. If you elect to do so, you will be seamlessly linked to a web site maintained by GetThere L.P. of Menlo Park, California, an affiliate of Sabre Inc. If you are merely checking the availability and price of airfares or rental cars, you will be asked to answer questions concerning your desired travel or car rental arrangements. You will not be asked to provide any personal information that identifies you or the person(s) whose arrangements you are making.
-
-If you proceed to purchase one or more airline tickets and/or to reserve a rental car, you will be asked to provide the names of the travelers, their frequent flyer numbers, whether they have any special needs or requests and your contact (i.e., name, address, day and evening telephone number and e-mail address) and credit card (i.e., card type, number and expiration date) information. Once the reservation is made and your credit card payment is verified, you will be sent an e-mail confirmation of your purchase and/or reservation. If you would like your travel companions, friends, family or colleagues to be informed of your travel plans, you can also provide their e-mail addresses and a copy of your confirmation will be sent to them. The information that you provide in purchasing airline tickets and/or reserving a rental car will then be provided to the airline and/or rental car company that you selected. That information will be used by us and by GetThere in facilitating the fulfillment of your ticket purchase or car rental reservation and may be used by us or entities acting on our behalf for marketing and quality assurance purposes. However, that information will not be shared with or sold to third parties for their own marketing purposes without your permission by either GetThere or us unless it is done on an aggregated basis for statistical purposes without any information that could be used to link that information to you.
-
-While you are on the GetThere web site, you will also be given an opportunity to provide your feedback or questions concerning the design and functionality of that site or to ask questions about an air or car reservation. If you would like a response, you will be given the opportunity to provide your name, e-mail address and telephone number.
-
-**E-Mail Profiles**
-
-Visitors to this web site can create an e-mail profile in order to receive promotional e-mails which match their travel and leisure interests. If you elect to create an e-mail profile, you will be seamlessly linked to a web site maintained by RappDigital, a division of Rapp Collins WorldWide of Dallas, Texas ("RappDigital"). In order to create an e-mail profile, you will need to furnish your name, e-mail address and home or business address. You will also be asked to provide your company name and title, your telephone number and your Gold Passport Number, although you are not required to provide that information to subscribe. If you are an individual traveler, you will be asked to identify the types of information you would like to receive, including "Hyatt Extras" e-mails. You will also be asked to indicate whether you would like to receive news and information concerning our travel partners ([click here](https://web.archive.org/web/20011217204404id_/http%3A//www.hyatt.com/explore_hyatt/travel_partners/index.html) for a list of our travel partners). Currently, you can change your profile or cancel your subscription by clicking on an e-mail link that will appear at the bottom of each e-mail you will receive.
-
-If you are a Travel Professional/Agent or a Meetings, Conventions or Incentives Planner, you will also be asked questions pertinent to your business or organization, which will then be provided to First Marketing of Pompano Beach, Florida ("First Marketing"), the company that we have engaged to send out e-mails to the travel trade on our behalf. Since the information that is submitted is typically not of a personal nature, it is not encrypted for the purposes of transmission to First Marketing. If you subsequently decide to cancel your subscription to that e-mail service, you can do so by replying to one of those e-mail messages and requesting to be removed from the list used for future e-mailings.
-
-Except as described above, neither we, RappDigital nor First Marketing will share or sell the personal information you provide in creating an e-mail profile with third parties for their own marketing purposes without your permission unless it is done on an aggregated basis for statistical purposes without any information that could be used to link that information to you.
-
-**Meeting Planning**
-
-Meeting Planners that are interested in receiving information concerning rates and availability at a particular hotel or resort can do so by completing an online form with their contact information (i.e., name, company or organization, address, telephone and fax number and e-mail address) and meeting requirements (e.g., dates, number of guest rooms per night, function type, event name and meeting requirements). Requests for information concerning Hyatt Hotels and Resorts located within the United States, Canada and the Caribbean are forwarded for response to the National Sales Office of Hyatt Hotels Corporation located in Omaha, Nebraska. Requests for information concerning Hyatt Hotels and Resorts located elsewhere are forwarded for response to the individual hotel or resort. Since the information that is submitted is typically not of a personal nature, it is not encrypted for the purposes of transmission. The information that you furnish in your request for information will be used in responding to your request and may be used by us or entities acting on our behalf for marketing and quality assurance purposes. However, that information will not be shared with or sold to third parties for their own marketing purposes without your permission unless it is done on an aggregated basis for statistical purposes without any information that could be used to link that information to you.
-
-**Travel Professionals**
-
-Travel Professionals that choose to submit "Slice of Paradise" award request forms online will be asked to provide information concerning themselves, their travel agency and the qualifying reservations they make, including the agent's name, travel agency name and IATAN number, their client's name, destination, dates of stay, number of rooms and total number of room nights and reservation confirmation number and the method of booking. The information input into the online form is transmitted by e-mail to the North American Corporation of Glenview, Illinois ("North American"), the company we have engaged to handle the fulfillment of Slice of Paradise Awards. North American subsequently transmits that information to the Hyatt Central Reservations Center in Omaha, Nebraska for the purposes of verifying that the terms and conditions of the program have been met.
-
-Travel Professionals visiting this web site can also request information concerning the Slice of Paradise Awards Program online by completing and submitting an online form with their name, travel agency name, address, telephone and fax number, e-mail address and a description of the information requested. The information input into the online form is currently transmitted via e-mail to the Marketing Department of Hyatt Hotels Corporation of Chicago, Illinois for response.
-
-The information submitted in an online award request form will be used by North American and by us in fulfilling your Slice of Paradise award. The information concerning you and your travel agency (but not the information concerning your clients) may also be used by us or entities acting on our behalf for marketing and quality assurance purposes. However, neither we nor North American will share or sell any of the information submitted in an online request form or request for information to third parties for their own marketing purposes without your permission unless it is done on an aggregated basis for statistical purposes without any information that could be used to link that information to you.
-
-Travel Professionals visiting this web site can also take advantage of the opportunity to become "Hyatt Resort Specialists" and the special benefits offered to individuals that achieve that status by completing an online course offered by Travel Agent University On-line, a program run by the Education & Training Division of Travel Agent Magazine published by Advanstar Communications Inc. of Cleveland, Ohio. Visitors choosing to complete that online course will be linked to the Travel Agent University Online web site. As with other web sites that can be reached through links from this site, we are not responsible for the data collection and data privacy practices of that web site.
-
-**Careers@Hyatt**
-
-Visitors to this web site who are interested in pursing career opportunities within the United States, Canada and the Caribbean can review and apply for job openings listed in an online jobs database. Visitors can also forward job descriptions that they believe would be of interest to others by e-mail. By clicking on the "Career Opportunities" button located at the bottom of the U.S., Canada, and Caribbean page of the Careers@Hyatt section of this web site, visitors are seamlessly linked to a web site maintained by Recruitsoft Inc. of San Francisco, California ("Recruitsoft") from their facility in Montreal, Canada.
-
-If you choose to apply online for a posted job, you will be required to provide your name, address and home telephone number and to complete a Questionnaire that is specific to the job for which you apply. Your responses to the Questionnaire will be used in evaluating your qualifications for that position. While not required in order to complete the online application process, you will also be asked to provide your work telephone number, Social Security Number and information concerning your educational background, previous work experience (you will even have the opportunity to copy your resume into our electronic form) and your gender and racial/ethnic origin (which will be used only for the purposes of satisfying government reporting requirements). At the beginning of the application process, you will be asked to provide your e-mail address. If you do not have an e-mail address or don't wish to provide one, you can still apply online for a posted position by following the instructions concerning how to create a non-active address, which is required based on the current functionality of the Recruitsoft database. If you want to update the information that you submit at a later date, you will need to remember the e-mail address that you create or provide and the password that you will be asked to create at the end of the online submission process. The only information that cannot be updated at a later date is the Questionnaire that must be completed with respect to an individual job posting. You will also be given the opportunity to indicate whether you would like us to e-mail you about career opportunities that correspond to your profile. If you subsequently decide you no longer want to receive e-mails concerning other career opportunities, you can remove yourself from consideration by either going back to your profile and deselecting that option or by clicking on a link that will appear in all e-mails sent to you concerning other career opportunities.
-
-The information that you submit online will be accessed by the Human Resources professionals of Hyatt Hotels Corporation and at the various Hyatt Hotels and Resorts located throughout the United States, Canada and the Caribbean through a secured connection to the Recruitsoft database and used for evaluating your qualifications for the job for which you have applied and other jobs that may suit your experience and qualifications, provided you indicate a desire to be notified about other positions. We or entities acting on our behalf may also use that information for quality assurance purposes. However, neither we nor Recruitsoft will sell or share your information with third parties without your permission unless it is done on an aggregated basis for statistical purposes without any information that could be used to link that information to you unless we are other otherwise required to do so under applicable law.
-
-**Cookies**
-
-To make your travel planning more convenient, CSCO uses "cookie" technology that allows their system to temporarily remember your travel dates and preferences while you are in the process of making a reservation. To make your online job application process more convenient, Recruitsoft uses cookie technology that allows their system to temporarily remember the data you input while in the process of applying for a job online. Additionally, we use "persistent" cookies on this web site (that remain on your computer's hard drive after you leave our site) so we can track how users navigate through the site and to track any referring web site that may have linked you to a page on this site, both of which allow us to evaluate and improve the functionality of this site.
-
-Cookies are strings of text that a website transmits to a user's computer. Cookies are not programs that will corrupt or damage your computer or computer files. These cookies can not be used to ascertain your identity or to gather personal information concerning you. If you do not want to accept cookies, you can disable cookies through your Internet browser. If you do so, however, you won't be able to benefit from the convenience afforded through the use of the cookie.
-
-**IP Addresses**
-
-An IP Address is a number automatically assigned to a user's computer each time the user browses the Internet. When you visit this web site, the server used by our Web Host (described below) will make a record of your IP Address, together with the date and time of your visit, the type of Internet Browser you use and the URL of any other web site that referred you to this web site. The same is true when you are transferred from this web site to other web sites in the manner described elsewhere in this statement. We use that information in order to evaluate and improve the design and functionality of this web site.
-
-**Security**
-
-Our Web Host, CSCO, RappDigital, GetThere and Recruitsoft use Secured Socket Layer ("SSL") software up to 128-bit encryption in order to encrypt the personal information that you provide to us through them. Provided that you use a SSL enabled Internet Browser like the most current versions of Microsoft Internet Explorer or Netscape Navigator, your transmissions of personal information to us through them online will be secure. You can verify whether the information you will be asked to provide on any particular page of this or any other web site will be transmitted using SSL encryption by confirming the presence of a "closed lock" (for users of Microsoft Internet Explorer) or a "solid key" (for users of Netscape Navigator) symbol on the bottom bar of your browser window. You can also verify that your information will be encrypted using SSL encryption by making sure that the prefix for the web address listed for that page has changed from "http" to "https". If you do not see the appropriate symbol and the "https" prefix, you should not assume that the personal information that you are being asked to provide will be encrypted prior to transmission.
-
-The personal information that we collect from you online is stored by Hyatt Hotels and Resorts, OpenWorld Ltd. (our Web Host) and CSCO on databases protected through a combination of physical and electronic access controls, firewall technology and other reasonable security measures.
-
-**Web Host**
-
-This web site is hosted and maintained by OpenWorld Ltd. of Bath, England for the benefit of all Hyatt Hotels and Resorts, which include the various hotels and resorts managed, franchised or operated by Hyatt Corporation and its affiliates and affiliates of Hyatt International Corporation.
-
-**Customer Surveys**
-
-We have engaged OpinionWare of Chicago, Illinois ("OpinionWare") to evaluate user perceptions of the features, functionality and usefulness of this web site and its capabilities through the use of an online Customer Survey. If you elect to help us by responding to the online Customer Survey, you will be seamlessly linked to a web site maintained by OpinionWare, where you will be asked several questions concerning you, your family and your use and perceptions of this web site. Since the information submitted is done so on an anonymous basis and can't be linked back to you, it is not encrypted for the purposes of transmission.
-
-**Gold Passport**
-
-[Goldpassport.com](http://www.goldpassport.com/), the distinct web site relating to the Gold Passport frequent traveler program has its own Internet Privacy Statement, which you can review by [clicking here](http://www.goldpassport.com/InternetPrivacy.html).
-
-**Links To Other Web Sites**
-
-We are not responsible for the data collection practices or the privacy policies or the content of web sites other than this web site, including any web sites that are accessible using a link from this web site. We urge you to read the privacy and security policies of any external sites before providing any personal information to those sites.
-
-**Legal Requirements**
-
-We reserve the right to disclose any personal information you submit to us if we are compelled to do so by a court of law or governmental entity or if we determine it is necessary to protect the rights of Hyatt Hotels and Resorts.
-
-**Contact Us With Your Questions and Comments**
-
-If you elect to contact us with any questions, comments or requests using one of the online forms that form part of this web site, you will need to provide your full name, mailing address, telephone number and e-mail address so that we can be sure to be able to contact you. Depending on which online form you complete, you will be given the opportunity to provide additional information that will allow us to serve you better, although the additional information is not required in order for you to complete and submit the online form. If you are submitting an online form relating to Spa services, you will be given the opportunity to indicate the dates of your stay and to specify your question or request. For any other question, comment or request, you will also be asked: to identify the nature of your comments (by selecting from a pick list); to provide your Gold Passport Number; if you are writing to comment on a particular stay, you will be asked to identify the name of the hotel where you stayed and the dates of your arrival and departure; and to include any comments you may have in a free text field at the end of the form. If you would also like to give us feedback concerning a particular stay, you will be given the opportunity to complete on online feedback survey which gives you the opportunity to rate your overall stay, indicate whether you would recommend Hyatt Hotels to a friend or colleague, indicate whether you had a problem during your stay, describe the nature of the problem (in a free text field at the end of the form) and to indicate whether the problem was handled by the hotel to your satisfaction.
-
-The information that you include in any of the online forms described above will not be encrypted prior to transmission, so you should exercise good judgement about the nature of the information that you include in the form (e.g., do not include things like your credit card number in the comments field). The information that you include in those online forms will be used in responding to your questions, comments and requests and may be used by us or entities acting on our behalf for marketing and quality assurance purposes. However, that information will not used or disclosed for any other purposes without your permission unless it is done on an aggregated basis for statistical purposes without any information that could be used to link that information to you.
-
-You can also contact us by simply sending us an e-mail addressed to [concierge@hyatt.com](mailto:concierge@hyatt.com).
-
-**Questions Concerning This Internet Privacy Statement**
-
-If you have questions regarding this Internet Privacy Statement, please feel free to e-mail us at [concierge@hyatt.com](mailto:concierge@hyatt.com).
