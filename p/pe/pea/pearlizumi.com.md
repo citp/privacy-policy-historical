@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pearlizumi.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603155200id_/http%3A//www.pearlizumi.com/pearlizumi/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearlizumi.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208035252id_/http%3A//www.pearlizumi.com/pearlizumi/about/privacy.asp) for the most accurate reproduction.*
 
-# PEARL IZUMI :::: SPRING 02
+# PEARL IZUMI :::: FALL 02
 
 ---  
 The following states the Pearl Izumi USA policy regarding the privacy rights of visitors to this website. We respect your right to privacy and your desire for a secure online shopping experience.
