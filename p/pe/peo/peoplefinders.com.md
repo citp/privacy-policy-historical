@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peoplefinders.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208224824id_/http%3A//www.people-finders.ws/ProcHelp.asp%3Ffc%3D17%26site%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplefinders.com privacy policy that was archived on 2003-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030213075425id_/http%3A//www.people-finders.ws/ProcHelp.asp%3Ffc%3D17%26site%3D6) for the most accurate reproduction.*
 
-# Enformion People Finders!™ - Terms of Service
+# Enformion People Finders!; - Terms of Service
 
 Thank you for visiting Enformion People Finders!™. We realize how important your privacy is to you and have implemented the following privacy policy to govern this web site. 
 
@@ -42,7 +42,7 @@ The information contained in any Enformion People Finders!™ report may contain
 
 ### Enformion Background Check™
 
-An Enformion Background Check scans over 2 billion records to create a comprehensive report on virtually any individual contained in our database. Enformion Background Checks and Enformion Locate Reports are not included in the price of a paid membership and are billed on a per report basis. You will always receive a confirmation before the system runs an Enformion Background Check.
+An Enformion Background Check scans over 10 billion records to create a comprehensive report on virtually any individual contained in our database. Enformion Background Checks and Enformion Locate Reports are not included in the price of a paid membership and are billed on a per report basis. You will always receive a confirmation before the system runs an Enformion Background Check.
 
 ### Refund Policy
 
