@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2001-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm%3FPage%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripres.com privacy policy that was archived on 2001-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011225195942id_/http%3A//tripres.com/lasvegas/index.cfm%3FPage%3DPrivacy) for the most accurate reproduction.*
 
-# TripReservations.com - discount hotel room rates in Las Vegas
+# TripReservations.com - Your source for the best hotel room rate discounts in Las Vegas!
 
+|   
+---  
   
-[](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=HotelMap&HotelNav=ON) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=CheckRates) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=Airfare-Cities) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=Tours) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=Specials) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=Weddings) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=CheckConventionInfo) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=Nightclubs) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=Golf) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=ExoticCars) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=CasinoGames) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=EMailList1) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=FAQs) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=AboutUs) [](https://web.archive.org/web/20010110175300id_/http%3A//www.tripres.com/lasvegas/index.cfm?Page=Home)   
+**TripReservations.com's E-Mail List**   
+You will be notified of specials available from TripReservations.com!   
   
-**Press Ctrl-D to bookmark this page!** |  |    
-Your Privacy
+|  Your Privacy
 
 At TripReservations.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized travel experience. Please read on for more details about our privacy policy. 
 
@@ -32,4 +34,7 @@ We are committed to protecting your privacy. We use the information we collect o
 By using our Web site, you consent to the collection and use of this information by TripReservations.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
 **Tell us what you think**   
-TripReservations.com welcomes your questions and comments about privacy. Please send e-mail to [**feedback@tripreservations.com**](mailto:Feedback@TripReservations.com). 
+TripReservations.com welcomes your questions and comments about privacy. Please send e-mail to [feedback@tripreservations.com](mailto:feedback@tripreservations.com&Subject=Website%20Feedback).   
+  
+[Privacy Policy](https://web.archive.org/web/20011225195942id_/http%3A//tripres.com/lasvegas/index.cfm?Page=Privacy)   |   [Terms & Conditions](https://web.archive.org/web/20011225195942id_/http%3A//tripres.com/lasvegas/index.cfm?Page=TermsAndConditions)   |   [Employment](https://web.archive.org/web/20011225195942id_/http%3A//tripres.com/lasvegas/index.cfm?Page=Employment)          North America: **800-255-0372**     International: **+1-702-946-5200**   
+All Rights Reserved. Copyright ©1998-2001 by TripReservations.com 
