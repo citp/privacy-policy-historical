@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008100348id_/http%3A//www.lawguru.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawguru.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612004006id_/http%3A//www.lawguru.com/privacy.html) for the most accurate reproduction.*
 
 # LawGuru.com - Privacy Policy
 
