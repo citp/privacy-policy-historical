@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616035150id_/http%3A//www.ktvb.com/news/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203230800id_/http%3A//www.ktvb.com/news/privacy.html) for the most accurate reproduction.*
 
-# KTVB.COM - Idaho News on Demand - HOME
+# KTVB.COM - News - Idaho News on Demand
 
-BELO INTERACTIVE PRIVACY POLICY
+KTVB/ BELO INTERACTIVE PRIVACY POLICY
 
 This Privacy Policy discloses the general privacy practices for www.ktvb.com.
 
@@ -38,4 +38,4 @@ Belo Interactive cares about the safety of children and their use of the Interne
 
  **Effective Date and Changes**
 
-This Privacy Policy is effective as of April 11, 2000. Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
+This Privacy Policy is effective as of April 11, 2000. Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes.
