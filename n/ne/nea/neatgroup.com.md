@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neatgroup.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201205758id_/http%3A//neatgroup.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neatgroup.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405141846id_/http%3A//www.neatgroup.com/policy.asp) for the most accurate reproduction.*
 
 # Neat Group : Privacy Policy
 
