@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405001948id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201041029id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
 
 # CyberAstro.com - Vedic Astrology for the new Millennium
 
@@ -14,15 +14,12 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under (Name of the Company) control  
 7\. How you can correct any inaccuracies in the information.
 
-If you have questions or concerns regarding this statement, you should first contact :  
-Runa Chatterji  
-Chief Operating Officer  
-Cyber Astro, Inc.  
-27108 Fielding Drive  
-Hayward, CA 94542  
-[runa@cyberastro.com](mailto:runa@cyberastro.com)  
-Phone: 510.708.3177  
-Fax: 510.581.0287
+If you have questions or concerns regarding this statement, you should first contact :
+
+**Gautam Mukerjee**  
+Vice President & CFO  
+Cyber Astro Ltd.  
+[gautam@cyberastro.com](mailto:gautam@cyberastro.com)
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>  
 TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
@@ -131,11 +128,15 @@ This website is in compliance and with accordance with the Children's Online Pri
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-**Runa Chatterji  
-Chief Operating Officer  
-Cyber Astro, Inc.  
-27108 Fielding Drive  
-Hayward, CA 94542  
-[runa@cyberastro.com](mailto:runa@cyberastro.com)  
-Phone: 510.581.6699  
-Fax: 510.581.0287**
+**Gautam Mukerjee**  
+Vice President & CFO  
+Cyber Astro Ltd.  
+Cyber House  
+35 (4 Bays)  
+Echelon Institutional Area  
+Sector 32  
+Gurgaon - 122 022  
+Haryana  
+India
+
+[gautam@cyberastro.com](mailto:gautam@cyberastro.com)
