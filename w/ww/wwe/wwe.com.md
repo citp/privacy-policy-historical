@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the wwe.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004215819id_/http%3A//www.wwe.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwe.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601225007id_/http%3A//www.wwe.com/help/privacy) for the most accurate reproduction.*
 
 # WWE.com - Privacy
 
 WORLD WRESTLING ENTERTAINMENT, INC. PRIVACY POLICY   
-Last updated 05/03/02
+Last updated 04/12/02
 
-The web site you have entered is operated by, or on behalf of, WWE Entertainment, Inc. or its subsidiaries (“WWE”). 
+The web site you have entered is operated by, or on behalf of, WWE ,Inc. or its subsidiaries (“WWE”). 
 
 **Introduction**   
 WWE wants to help you make the most of your visit to our web sites, and that includes helping to protect your personal privacy. Most of the features on our web sites are offered without collecting any Personal Information from you. You can surf WWE’s web sites and view much of our content anonymously. For those areas of our web sites and services that do require us to collect Personal Information, this Privacy Policy will tell you what you need to know to make good decisions for yourself and your family.
@@ -43,7 +43,7 @@ The use of any of these services is entirely optional and voluntary; however, if
 If you send us an e-mail, you should know that e-mail is not necessarily secure against interception. So, if your communication needs to include sensitive information like your bank account, credit card, or social security number, please contact us by postal mail or telephone (see Contact Us, below) rather than e-mail.
 
  **Cookies**  
-In order to track your use of the site, "cookies" may be employed.  Cookies are pieces of information that are sent by web sites and stored in your computer's hard drive, which provide you a service by allowing us to recognize your computer to save you from having to re-enter the same data every time you visit our web sites. They also allow us to learn how visitors use our web sites. This user data is aggregated for tracking purposes primarily by tallying pages viewed throughout our web sites and logging Internet Protocol (“IP”) addresses and browser types. 
+In order to track your use of the site, "cookies" may be employed. Cookies are pieces of information that are sent by web sites and stored in your computer's hard drive, which provide you a service by allowing us to recognize your computer to save you from having to re-enter the same data every time you visit our web sites. They also allow us to learn how visitors use our web sites. This user data is aggregated for tracking purposes primarily by tallying pages viewed throughout our web sites and logging Internet Protocol (“IP”) addresses and browser types. 
 
 Aggregated usage data enables us to tailor our content to our visitors’ interests and to help our advertisers better understand the preferences of our audience. Providing such usage data to advertisers is essential to keeping as many of our services free to visitors as is reasonably possible. This information does not reveal your identity although, in some cases, we may have to combine this non-identifiable information with Personal Information to enforce compliance with our Terms of Service or to protect our service, web sites, visitors or others.
 
@@ -74,26 +74,32 @@ We will only use or retain your Personal Information in accordance with the term
 We take reasonable precautions to keep your Personal Information secure, including the use of Secure Socket Layer (“SSL”) technology to protect credit card information and other Personal Information you provide in connection with purchases, paid subscriptions or other similar transactions. 
 
 **Opt-Out**  
-Any feature on our web sites requiring registration allows you to opt-out from receiving any newsletters, product offers, or other correspondence from either us or our business affiliates. In addition, if after registering, you would no longer like to receive any such materials or correspondence, please send an e-mail to [memberservices.com](mailto:memberservices@wwe.com) indicating your preference to “unsubscribe,” and we will promptly remove you from our list. Please be sure to include your name and e-mail address in the e-mail. You will need to send separate e-mails if you are registered for more than one of our features or services.
+Any feature on our web sites requiring registration allows you to opt-out from receiving any newsletters, product offers, or other correspondence from either us or our business affiliates. In addition, if after registering, you would no longer like to receive any such materials or correspondence,send an e-mail by [clicking here.](http://shopzone.wwe.com/webapp/wcs/stores/servlet/shopzone/KANA/WWEContactUs.jsp?MAJOR_GROUP_ID=OTHER&ACTION_ID=OTHER_OTHER) Indicate your preference to “unsubscribe,” and we will promptly remove you from our list. Please be sure to include your name and e-mail address in the e-mail. You will need to send separate e-mails if you are registered for more than one of our features or services.
 
 If you want to prevent a third party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt-out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third party advertising companies' privacy policies."
 
-If you believe your child (age 12 or younger) has provided us with Personal Information and/or is receiving access to certain features or services, including marketing communications, we invite you to notify us at [memberservices@wwe.com](mailto:memberservices@wwe.com) so that we may delete such Personal Information and/or discontinue your child’s access to the related features or services.
+If you believe your child (age 12 or younger) has provided us with Personal Information and/or is receiving access to certain features or services, including marketing communications, we invite you to notify us via e-mail by [clicking here.](http://shopzone.wwe.com/webapp/wcs/stores/servlet/shopzone/KANA/WWEContactUs.jsp?MAJOR_GROUP_ID=OTHER&ACTION_ID=OTHER_OTHER) We will delete this Personal Information and/or discontinue your child’s access to the related features or services.
 
  **Access/ Correct/ Update Personal Information**  
-If you would like to know what Personal Information WWE has concerning you, please send an e-mail to [access@wwe.com](mailto:access@wwe.com). We will contact you by mail to verify your identity and provide you the information you request. If you would like to correct or update your Personal Information, including providing a new e-mail address, please send an e-mail to [correction@wwe.com](mailto:correction@wwe.com). Please be sure to include your old e-mail address.
+If you would like to know what Personal Information WWE has concerning you, send an e-mail by [clicking here.](http://shopzone.wwe.com/webapp/wcs/stores/servlet/shopzone/KANA/WWEContactUs.jsp?MAJOR_GROUP_ID=OTHER&ACTION_ID=OTHER_OTHER)   
+We will contact you by mail to verify your identity and provide you the information you request.   
+If you would like to correct or update your Personal Information, including providing a new e-mail address, send an e-mail by [clicking here.](http://shopzone.wwe.com/webapp/wcs/stores/servlet/shopzone/KANA/WWEContactUs.jsp?MAJOR_GROUP_ID=OTHER&ACTION_ID=OTHER_OTHER) Please be sure to include your old e-mail address.
 
  **Changes in This Privacy Policy**  
 WWE reserves the right to change this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes here and we will change the “Last Updated” date at the top of this page. We encourage you to visit this area frequently to stay informed.
 
  **Contact Us**  
-Please write to us at [feedback@wwe.com](mailto:feedback@wwfent.com) if you have any comments or questions about this Privacy Policy. You may also contact at us by postal mail or telephone at:
+If you have any comments or questions about this Privacy Policy, please send an e-mail by [clicking here.](http://shopzone.wwe.com/webapp/wcs/stores/servlet/shopzone/KANA/WWEContactUs.jsp?MAJOR_GROUP_ID=OTHER&ACTION_ID=OTHER_OTHER)
+
+You may also contact at us by postal mail or telephone at:
 
 WWE Member Services  
 1241 East Main Street  
 Stamford,   
 CT 06902  
-(203) 352-8600, ext. 5053 [memberservices@wwe.com](mailto:memberservices@wwe.com)
+(203) 352-8600
+
+Send an e-mail by [clicking here.](http://shopzone.wwe.com/webapp/wcs/stores/servlet/shopzone/KANA/WWEContactUs.jsp?MAJOR_GROUP_ID=OTHER&ACTION_ID=OTHER_OTHER)
 
  **Complaints**  
 If you wish to lodge a complaint about any conduct that you believe is not consistent with the terms of this Privacy Policy, please contact:
@@ -102,5 +108,5 @@ WWE Member Services
 1241 East Main Street  
 Stamford,   
 CT 06902  
-(203) 352-8600, ext. 5053 [memberservices@wwe.com](mailto:memberservices@wwe.com)  
-
+(203) 352-8600   
+send an e-mail by [clicking here.](http://shopzone.wwe.com/webapp/wcs/stores/servlet/shopzone/KANA/WWEContactUs.jsp?MAJOR_GROUP_ID=OTHER&ACTION_ID=OTHER_OTHER)
