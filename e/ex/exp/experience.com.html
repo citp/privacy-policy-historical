@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the experience.com privacy policy that was archived on 2000-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001206084100id_/http%3A//experience.com/tools/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the experience.com privacy policy that was archived on 2001-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010608001145id_/http%3A//experience.com/tools/privacy.jsp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Experience, Privacy Policy</title>
@@ -52,7 +52,7 @@ function change(Name, OnOff) {
 };
 
 // call the setImagesOver function to initialize the main menu graphics
-setImagesOver('http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/', 'm', 1,5);
+setImagesOver('/pic/', 'm', 1,5);
 
 // popup window script to enable popup windows
 function popWindow(popURL,popWidth,popHeight) {
@@ -81,6 +81,15 @@ function selectOption(value, desc) {
     this.value = value;
     this.description = desc;
 }
+
+var w = "";
+function newWindow() {
+   var page = "/includes/receiveInfo.jsp";
+   windowprops = "location=no,scrollbars=no,menubars=no,toolbars=no,resizable=yes,height=300,width=200";
+   w = window.open(page, "subwindow", windowprops);
+   w.focus();
+}
+
 
 // move selected options to new text box
 function moveSelected(from,to)  {
@@ -123,7 +132,8 @@ function selectAll(from)  {
 }
 
 
-// done hiding  -->
+// done hiding -->
+
 
 
 <!-- end mouseoverscript include -->
@@ -138,40 +148,44 @@ function selectAll(from)  {
 <!-- end Javascript -->
 
 </head>
-
 <!-- begin StartBody -->
-<body bgcolor="#ffffff" text="#000000" link="#cc0000" vlink="#996666" alink="#ff9900">
+
+
+<body bgcolor="#ffffff" text="#000000" link="#cc0000" vlink="#996666" alink="#ff9900" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+
+
+
 <center><a name="top"></a>
 <!-- end StartBody -->
+
+<br>
+
 
 
 <!-- begin TopNavTable -->
 <table width="590" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
+    <tbody><tr>
 
+        <!-- begin LogoColumn -->
+        <td width="270" valign="top">
+        <a href="/"><img src="/pic/s_logo.gif" border="0" alt="Go to the Home Page"></a></td>
+        <!-- end LogoColumn -->
 
+        <!-- begin People getting high -->
+        <td width="320" valign="top"><img src="/pic/s_topillustration.gif" border="0" width="320" height="49" alt=""></td>
+	<!-- end People getting high -->
 
-<!-- begin LogoColumn -->
-<td width="270" valign="top"><a href="/"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/s_logo.gif" border="0" width="270" height="49" alt="Go to the experience.com Home Page"></a></td>
-<!-- end LogoColumn -->
+   </tr>
 
-<!-- begin TopAdBranding  -->
-<td width="320" valign="top"><!-- begin topad include -->
+   <!-- begin MainMenuRow -->
+   <tr>
 
-<img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/s_topillustration.gif" border="0" width="320" height="49" alt=""><!-- end topad include - NO SPACES OR CR's --></td></tr>
-
-
-
-
-
-<!-- end TopAdBranding - NO SPACES OR CR's The <td> and <tr> tags are in the include -->
-
-
-<!-- begin MainMenuRow -->
-<tr>
-<td colspan="2" width="590" valign="top"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/s_leftcap.gif" border="0" alt=""><a href="/student/jobcenter.jsp" onmouseover="change('m1','on');" onmouseout="change('m1','off');"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m1off.gif" name="m1" border="0" alt="Go to the Job Center"></a><a href="/company/" onmouseover="change('m2','on');" onmouseout="change('m2','off');"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m2off.gif" name="m2" border="0" alt="Go to Company Profiles"></a><a href="/topics/" onmouseover="change('m3','on');" onmouseout="change('m3','off');"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m3off.gif" name="m3" border="0" alt="Advice and Info"></a><a href="/shared/" onmouseover="change('m4','on');" onmouseout="change('m4','off');"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m4off.gif" name="m4" border="0" alt="Go to Networking"></a><a href="/marketplace/" onmouseover="change('m5','on');" onmouseout="change('m5','off');"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m5off.gif" name="m5" border="0" alt="Go to the Store"></a><br><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/s_blackbar.gif" border="0" width="590" height="6" alt=""></td>
-</tr>
-<!-- end MainMenuRow -->
+<!-- begin MainMenu -->
+<td colspan="2" width="590" valign="top"><img src="/pic/s_leftcap.gif" border="0" alt=""><a href="/student/jobcenter.jsp" onmouseover="change('m1','on');" onmouseout="change('m1','off');"><img src="/pic/m1off.gif" name="m1" border="0" alt="Go to the Job Center"></a><a href="/career_research/" onmouseover="change('m2','on');" onmouseout="change('m2','off');"><img src="/pic/m2off.gif" name="m2" border="0" alt="Go to Company Profiles"></a><a href="/topics/" onmouseover="change('m3','on');" onmouseout="change('m3','off');"><img src="/pic/m3off.gif" name="m3" border="0" alt="Advice and Info"></a><a href="/shared/" onmouseover="change('m4','on');" onmouseout="change('m4','off');"><img src="/pic/m4off.gif" name="m4" border="0" alt="Go to Networking"></a><a href="/marketplace/" onmouseover="change('m5','on');" onmouseout="change('m5','off');"><img src="/pic/m5off.gif" name="m5" border="0" alt="Go to the Store"></a><br><img src="/pic/s_blackbar.gif" border="0" width="590" height="6" alt=""></td>
+<!-- end MainMenu -->
+  
+  </tr>
+  <!-- end MainMenuRow -->
 
 </tbody></table>
 <!-- end TopNavTable -->
@@ -183,11 +197,11 @@ function selectAll(from)  {
 <tbody><tr>
 
 <!-- begin BlackStripe -->
-<td width="1" bgcolor="#000000" valign="bottom" rowspan="2"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/spacer.gif" width="1" height="1" border="0" alt=""></td>
+<td width="1" bgcolor="#000000" valign="bottom" rowspan="2"><img src="/pic/spacer.gif" width="1" height="1" border="0" alt=""></td>
 <!-- end BlackStripe -->
 
 <!-- begin RedStripe -->
-<td width="8" bgcolor="#cc6600" valign="bottom" rowspan="2"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/spacer.gif" width="8" height="1" border="0" alt=""></td>
+<td width="8" bgcolor="#cc6600" valign="bottom" rowspan="2"><img src="/pic/spacer.gif" width="8" height="1" border="0" alt=""></td>
 <!-- end RedStripe -->
 
 <!-- begin SideMenuColumn -->
@@ -201,30 +215,29 @@ function selectAll(from)  {
 
 
 
-<img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/section_abo.gif" width="131" height="53" border="0" alt="About Experience Inc"><br>
+<img src="/pic/section_abo.gif" width="131" height="53" border="0" alt="About Experience Inc"><br>
 
-<a href="/tools/companyinfo.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m_abo_companyinfo.gif" border="0" width="131" height="21" alt="Company Information"></a><br>
+<a href="/tools/companyinfo.jsp"><img src="/pic/m_abo_companyinfo.gif" border="0" width="131" height="21" alt="Company Information"></a><br>
 
-<a href="/tools/ourproducts.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m_abo_ourproducts.gif" border="0" width="131" height="21" alt="Learn About Our Products"></a><br>
+<a href="/tools/ourproducts.jsp"><img src="/pic/m_abo_ourproducts.gif" border="0" width="131" height="21" alt="Learn About Our Products"></a><br>
 
-<a href="/tools/testimonials.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m_abo_testimonials.gif" border="0" width="131" height="21" alt="Read Customer Testimonials"></a><br>
+<a href="/tools/testimonials.jsp"><img src="/pic/m_abo_testimonials.gif" border="0" width="131" height="21" alt="Read Customer Testimonials"></a><br>
 
-<a href="/tools/pressroom.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m_abo_pressroom.gif" border="0" width="131" height="21" alt="Visit Our Press Room"></a><br>
+<a href="/tools/pressroom.jsp"><img src="/pic/m_abo_pressroom.gif" border="0" width="131" height="21" alt="Visit Our Press Room"></a><br>
 
-<a href="/tools/jobs.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m_abo_jobs.gif" border="0" width="131" height="21" alt="Available Jobs at Experience"></a><br>
+<a href="/tools/jobs.jsp"><img src="/pic/m_abo_jobs.gif" border="0" width="131" height="21" alt="Available Jobs at Experience"></a><br>
 
-<a href="/tools/advisory.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m_abo_advisoryboard.gif" border="0" width="131" height="21" alt="About Our Advisory Board"></a><br>
+<a href="/tools/advisory.jsp"><img src="/pic/m_abo_advisoryboard.gif" border="0" width="131" height="21" alt="About Our Advisory Board"></a><br>
 
-<a href="/tools/partners.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m_abo_careerctrpartner.gif" border="0" width="131" height="35" alt="Our Career Center Partners"></a><br>
+<a href="/tools/partners.jsp"><img src="/pic/m_abo_careerctrpartner.gif" border="0" width="131" height="35" alt="Our Career Center Partners"></a><br>
 
-<a href="/tools/privacy.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m_abo_privacypolicy.gif" border="0" width="131" height="21" alt="Our Privacy Policy"></a><br>
+<a href="/tools/privacy.jsp"><img src="/pic/m_abo_privacypolicy.gif" border="0" width="131" height="21" alt="Our Privacy Policy"></a><br>
 
-<a href="/tools/termsofuse.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/m_abo_termsofuse.gif" border="0" width="131" height="21" alt="Terms of Service"></a><br>
+<a href="/tools/termsofuse.jsp"><img src="/pic/m_abo_termsofuse.gif" border="0" width="131" height="21" alt="Terms of Service"></a><br>
 
 
 
 <!-- end sidemenu_abo include -->
-
 
 
 
@@ -240,40 +253,56 @@ function selectAll(from)  {
 <!-- begin SideAdvertCareerLinks -->
 
 
+
+
+
+
+
+
+
+
+
 <!-- end SideAdvertCareerLinks -->
+
+<!-- begin hoover banner -->
+
+
+<!-- end hoover banner -->
+
+<img src="/pic/spacer.gif" width="131" height="40" border="0" alt=""><br>
 
 </td>
 <!-- end SideMenuColumn -->
 
 <!-- begin BlackStripe2 -->
-<td width="1" valign="top" bgcolor="#000000" rowspan="2"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/s_curvesliver1.gif" width="1" height="53" border="0" alt=""></td>
+<td width="1" valign="top" bgcolor="#000000" rowspan="1"><img src="/pic/s_curvesliver1.gif" width="1" height="53" border="0" alt=""></td>
 <!-- end BlackStripe2 -->
 
 <!-- begin WhiteMargin -->
-<td width="14" valign="top" rowspan="2"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/s_curvesliver2.gif" width="14" height="53" border="0" alt=""></td>
+<td width="14" valign="top" rowspan="1"><img src="/pic/s_curvesliver2.gif" width="14" height="53" border="0" alt=""></td>
 <!-- end WhiteMargin -->
 
 <!-- begin ContentColumn -->
-<td width="435" valign="top" rowspan="2">
+<td width="435" valign="top" rowspan="1">
 
 <!-- begin Tools -->
 
 <table width="400" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
 
-      <td><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/s_topspacer.gif" border="0" width="156" height="19" alt=""></td>
+      <td><img src="/pic/s_topspacer.gif" border="0" width="156" height="19" alt=""></td>
 
-      <td><a href="/magazine/"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/tool_magazine.gif" border="0" width="62" height="19" alt="Go to Magazine"></a></td>
-      <td><a href="/tools/aboutus.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/tool_aboutus.gif" border="0" width="55" height="19" alt="Go to About Us"></a></td>
-      <td><a href="/student/contactus.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/tool_contactus.gif" border="0" width="62" height="19" alt="Go to Contact Us"></a></td>
-      <td><a href="/tools/sitemap.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/tool_sitemap.gif" border="0" width="56" height="19" alt="Go to Site Map"></a></td>
+      <td><a href="/magazine/"><img src="/pic/tool_magazine.gif" border="0" width="62" height="19" alt="Go to Magazine"></a></td>
+      <td><a href="/tools/aboutus.jsp"><img src="/pic/tool_aboutus.gif" border="0" width="55" height="19" alt="Go to About Us"></a></td>
+      <td><a href="/student/contactus.jsp"><img src="/pic/tool_contactus.gif" border="0" width="62" height="19" alt="Go to Contact Us"></a></td>
+      <td><a href="/tools/sitemap.jsp"><img src="/pic/tool_sitemap.gif" border="0" width="56" height="19" alt="Go to Site Map"></a></td>
 
-      <td><a href="/login.jsp"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/tool_login.gif" border="0" width="42" height="19" alt="Log in to the Job Center"></a></td>
+      <td><a href="/login.jsp"><img src="/pic/tool_login.gif" border="0" width="42" height="19" alt="Log in to the Job Center"></a></td>
 
-      <td><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/r_endcap.gif" border="0" width="2" height="19"></td>
+      <td><img src="/pic/r_endcap.gif" border="0" width="2" height="19"></td>
 </tr>
 <tr>
-      <td colspan="7"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/s_shadow.gif" border="0" width="435" height="7" alt=""></td>
+      <td colspan="7"><img src="/pic/s_shadow.gif" border="0" width="435" height="7" alt=""></td>
 </tr>
 </tbody></table>
 
@@ -300,17 +329,18 @@ Privacy Policy
 
 <!-- end ContextMenu -->
 <font face="geneva, arial, helvetica, sans serif" size="2" color="#000000">
-At experience, we value your privacy.  experience does not collect personally identifiable information about individuals except when such individuals specifically provide information on a voluntary basis.  We do not otherwise track or monitor users of the Web Site.  The very nature of the service experience provides requires that we gather, process, use, store and distribute information about you with which you have provided us (e.g. name, address, academic history, e-mail address, resume and its contents) as well as information regarding how you use the system.  The information you give us will be used for the purpose stated when collected or to communicate with you with regard to your use of the Web Site and its services.  experience reserves the right to provide third-parties with aggregated, anonymous data about users of the Web Site and their information but, in no event, will experience sell or distribute personally identifiable information about its users to any third party.
+At Experience, we value your privacy. Experience does not collect personally identifiable information about individuals except when such individuals specifically provide information on a voluntary basis. We do not otherwise track or monitor users of the Web Site. The very nature of the service Experience provides requires that we gather, process, use, store and distribute information about you with which you have provided us (e.g. name, address, academic history, e-mail address, resume and its contents) as well as information regarding how you use the system. The information you give us will be used for the purpose stated when collected or to communicate with you with regard to your use of the Web Site and its services. Experience reserves the right to provide third-parties with aggregated, anonymous data about users of the Web Site and their information but, in no event, will Experience sell or distribute personally identifiable information about its users to any third party.
 <br><br>
-experience's unique and patent-pending e-mail approval process allows you, the user, to control when and to whom your resume is released.  We will make every reasonable effort to ensure the privacy of your resume.  Please be advised that we may not always be able to control, and therefore cannot be liable for, the disclosure, distribution, transmission or posting of, or failure to disclose, distribute, transmit or post, a resume or for the actions of any third parties, including employers.  Therefore, we recommend that users should, in every case, take care not to submit or post any information which they would not want disclosed to others.  experience cannot be responsible for the use or misuse of information posted to the Web Site by users or third-parties.
+We use third-party advertising companies to serve ads when you visit our web site.  These companies may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, <a href="http://www.doubleclick.net/us/corporate/privacy/" target="_blank">click here</a>.
 <br><br>
-If at any point you have submitted information and would like us to remove it from our database or take it down for correction from the Web Site, please contact us at the e-mail address or phone number listed below and we will make commercially reasonable efforts to accommodate your request within 48 hours and to forward your request to up to five users specified by you.  However, we cannot control, or be liable for, such efforts, or for any past, present or future action or inaction by any of our users.
+We will make every reasonable effort to ensure the privacy of your resume and the other information you provide to us. Please be advised that we may not always be able to control, and therefore cannot be liable for, the disclosure, distribution, transmission or posting of, or failure to disclose, distribute, transmit or post, a resume or other information by any third parties, including employers. Therefore, we recommend that users should, in every case, take care not to submit or post any information which they would not want disclosed to others. Experience cannot be responsible for the use or misuse of information posted to the Web Site by users or third-parties, including employers. 
 <br><br>
-As experience expands the range of options and services available from our Web Site, the collection and use of personal data will also change to serve you better.  We therefore reserve the specific right to modify this Privacy Statement at any time and will post notice of such changes to the Web Site.<br><br>
-
+If at any point you have submitted information and would like us to remove it from our database or take it down for correction from the Web Site, please contact us at the e-mail address or phone number listed below and we will make commercially reasonable efforts to accommodate your request within 48 hours and to forward your request to up to five users specified by you. However, we cannot control, or be liable for, such efforts, or for any past, present or future action or inaction by any of our users. 
+<br><br>
+As Experience expands the range of options and services available from our Web Site, the collection and use of personal data will also change to serve you better. We therefore reserve the specific right to modify this Privacy Statement at any time and will post notice of such changes to the Web Site.
+<br><br>
 <b>Choice of Law and Forum; Severability; Entire Agreement; No Modifications</b>
-<br>
-The Terms of Service are governed by the law of the Commonwealth of Massachusetts, without respect to its conflict of law principles.  Jurisdiction for any claim arising under the Terms of Service shall lie exclusively with the state or federal courts sitting in Boston, Massachusetts.  If any provision of the Terms of Service is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of the Terms of Service, which shall remain in full force and effect. Except as expressly otherwise provided, the Terms of Service constitute the entire agreement between you, the user, and experience with respect to the use of the Web Site.  No changes to these Terms of Service shall be made except by a revised posting on the Web Site.<br><br>
+The Terms of Service are governed by the law of the Commonwealth of Massachusetts, without respect to its conflict of law principles.  Jurisdiction for any claim arising under the Terms of Service shall lie exclusively with the state or federal courts sitting in Boston, Massachusetts.  If any provision of the Terms of Service is found to be invalid by any court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of the Terms of Service, which shall remain in full force and effect. Except as expressly otherwise provided, the Terms of Service constitute the entire agreement between you, the user, and Experience with respect to the use of the Web Site.  No changes to these Terms of Service shall be made except by a revised posting on the Web Site.<br><br>
 
 <b>Customer Inquiries</b>
 <br>
@@ -329,39 +359,50 @@ Boston, Ma., 02109.  For further information relating to these Terms and Conditi
 
 
 
-<!-- begin viral maketing -->
-		<br><br clear="all">
 
 
 
-<!-- begin PageFooter -->
-		<br><br><br>
 
-<a href="#top"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/b_top.gif" width="31" height="11" border="0" alt="Top of Page"></a>
-<br><br><br>
-		</font></td>
+
+		<!-- begin viral maketing -->
+		
+		<!-- end viral maketing -->
+
+	        <br><br><br>
+
+		<!-- begin TopButton -->          
+		<a href="#top"><img src="/pic/b_top.gif" width="31" height="11" border="0" alt="Top of Page"></a>
+		<!-- end TopButton -->
+
+                </font></td>
 		<!-- end ContentColumn -->
+
 	</tr>
-	<!-- end MainRow -->
-	<!-- begin MagazineLinkRow - this row must be left here, even if magazinelink include is removed!!!-->
-	<tr>
-		<td width="131" valign="bottom">
-		<br><br><br>
-		<!-- begin MagazineLink -->
-		<a href="/student/quick_register.jsp?magazine=yes"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/spacer.gif" width="7" height="74" border="0" alt=""><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/smaller_mag.gif" width="56" height="74" border="0" alt="Subscribe to Experience Magazine FREE!"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/s_freeforayear.gif" width="68" height="74" border="0" alt="Subscribe to Experience Magazine FREE!"><br>
-		<img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/s_subscribenow.gif" width="131" height="21" border="0" alt="Subscribe to Experience Magazine FREE!"></a>
-		<!-- end MagazineLink -->
+
+<!-- begin bottomAdRow - this row must be left here, even if magazinelink include is removed!!!-->
+        <tr>
+
+                <td width="581" valign="bottom" colspan="4" align="center">
 		</td>
-	</tr>
-	<!-- end MagazineLinkRow -->
-	<!-- begin BottomLineRow -->
-	<tr>
-		<td colspan="6" width="590" valign="top"><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/s_bottomline.gif" width="590" height="11" border="0" alt=""></td>
-	</tr>
-	<!-- end BottomLineRow -->
-</tbody></table>	
+
+        </tr>
+
+
+
+
+<!-- end bottomAdRow -->
+
+
+        <!-- begin BottomLineRow -->
+        <tr>
+
+                <td colspan="6" width="590" valign="top"><img src="/pic/s_bottomline.gif" width="590" height="11" border="0" alt=""></td>
+        </tr>
+        <!-- end BottomLineRow -->
+</tbody></table>        
 <!-- end ContentTable -->
-<!-- begin Footer -->
+
+
 
 
 <!-- begin FooterTable -->
@@ -380,12 +421,12 @@ All rights reserved.<br>Patent Pending.
 </td>
 <!-- end CopyRightColumn -->
 <!-- begin SpacerColumn -->
-<!--<td><img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/spacer.gif" border=1 alt="" width=20 height=14></td>-->
+<!--<td><img src="/pic/spacer.gif" border=1 alt="" width=20 height=14></td>-->
 <!-- end SpacerColumn -->
 <!-- begin LinkColumn -->
 <td align="right" valign="top">
 <font face="verdana, geneva, arial, helvetica, sans serif" size="1">
-<!--<img src="http://a856.g.akamai.net/f/856/99/1d/www.experience.com/pic/spacer.gif" border=0 alt="" width=1 height=14>-->
+<!--<img src="/pic/spacer.gif" border=0 alt="" width=1 height=14>-->
 <!-- begin LinkMenu -->
 
 [<a href="/recruiters/rec_welcome.jsp">for employers</a>] [<a href="/career/career_home.jsp">for career centers</a>] [<a href="/tools/privacy.jsp">privacy policy</a>]  [<a href="/tools/termsofuse.jsp">terms of service</a>]
@@ -399,6 +440,18 @@ All rights reserved.<br>Patent Pending.
 <!-- end FooterTable -->
 
 <!-- end Footer -->
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
