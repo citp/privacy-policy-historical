@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605095205id_/http%3A//www.gandermountain.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gandermountain.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009200041id_/http%3A//www.gandermountain.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Gander Mountain™ > We Live Outdoors - Hunting, Fishing, Camping, Outdoor Recreation, Apparel & Footwear, Gunsmithing
 
