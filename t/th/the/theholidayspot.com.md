@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the theholidayspot.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411184938id_/http%3A//theholidayspot.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theholidayspot.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023101040id_/http%3A//theholidayspot.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**TheHolidaySpot.com Privacy Policy**
 
 TheHolidaySpot.com is deeply committed to protecting the privacy of Internet users. Below is the information outlining our continued support for the responsible management of consumer information.
 
@@ -13,9 +15,10 @@ We share aggregate information (not individual data) with our advertisers to hel
 
 TheHolidaySpot.com also links to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users. 
 
-TheHolidaySpot.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>  
-This site, Celebrate Your Holidays at The Holiday Spot, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [http://www.engage.com/privacy.](http://www.engage.com/privacy)
+### Privacy Language
 
-If you have any questions concerning the privacy policies of TheHolidaySpot.com which are not covered in this statement, please send email with your questions to support@theholidayspot.com with the words "Privacy Policy" in the subject field.
+**Third Party Advertising**  
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <<http://www.networkadvertising.org/optout_nonppii.asp>>
 
-[Back To TheHolidaySpot.com Home ](https://web.archive.org/web/20010411184938id_/http%3A//theholidayspot.com/index.htm)
+Third Party Cookies  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
