@@ -1,0 +1,360 @@
+<!--The following is the downloaded HTML source of the akvis.com privacy policy that was archived on 2004-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041015160349id_/http%3A//akvis.com/en/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+
+
+
+         <title>Image editing and photo restoration software by AKVIS LLC. Privacy Policy</title>
+         <meta name="Robots" content="index,follow">
+         <meta name="Description" content="Image editing and photo restoration software by AKVIS LLC. Privacy Policy.">
+         <meta http-equiv="Description" content="Image editing and photo restoration software by AKVIS LLC. Privacy Policy.">
+         <meta name="Keywords" content="Photo Editing, Image Editing, Digital Photo Editing Software, Digital Photos, Photos, Images, Digital Photography, contacts, developers">
+         <meta http-equiv="Keywords" content="Photo Editing, Image Editing, Digital Photo Editing Software, Digital Photos, Photos, Images, Digital Photography, contacts, developers">
+         <meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+         <meta name="Author" content="© 2004, AKVIS, info@akvis.com">
+         <link rel="stylesheet" href="/style.css" type="text/css">
+         <link rel="shortcut icon" href="/favicon.ico">
+  <script type="text/javascript" language="JavaScript">
+  <!--
+
+  var height=0;
+  var width=0;
+
+  if (self.screen) { // for NN4 and IE4
+  width = screen.width
+  height = screen.height
+  }
+  else if (self.java) { // for NN3 with enabled Java
+  var jkit = java.awt.Toolkit.getDefaultToolkit();
+  var scrsize = jkit.getScreenSize();
+  width = scrsize.width;
+  height = scrsize.height;
+  }
+
+
+  // open window
+
+  function openwin(path,width,height)
+  {
+  	window.open(path,"","fullscreen=0,statusbar=0,resizable=0,width=" + width +",height=" + height);
+  }
+
+  function openwinscroll(path,width,height)
+  {
+  	window.open(path,"","fullscreen=0,statusbar=0,scrollbars=yes,resizable=yes,location=no,width=" + width +",height=" + height)
+  }
+
+
+  // main menu
+
+  var isID = 0;
+  var isDHTML = 0;
+  var isAll = 0;
+  var isLayers = 0;
+
+  if (document.getElementById) { isID = 1; isDHTML = 1; }
+  else {
+  	if (document.all) {isAll = 1; isDHTML = 1; }
+  	else {
+  		browserVersion = parseInt(navigator.appVersion);
+  		if ((navigator.appName.indexOf('Netscape') != -1) && (browserVersion == 4)) {isLayers = 1; isDHTML = 1; }
+  	} }
+
+  	function findDOM(objectID,withStyle) {
+  		if (withStyle == 1) {
+  			if (isID) { return (document.getElementById(objectID).style); }
+  			else {
+  				if (isAll) { return (document.all[objectID].style); }
+  				else {
+  					if (isLayers) { return (document.layers[objectID]); }
+  				} ; }
+  		}
+  		else {
+  			if (isID) { return (document.getElementById(objectID)); }
+  			else {
+  				if (isAll) { return (document.all[objectID]); }
+  				else {
+  					if (isLayers) {return (document.layers[objectID]); }
+  				} ; }
+  		}
+  	}
+
+  	var Top = 0;
+  	var Left = 0;
+
+  	var Menu = null;
+  	var tmp = null;
+  	var t = 0;
+  	var tD = 10;
+  	var Cnt = 0;
+  	var pause = 100;
+
+  	function see(N) {
+  		if (isDHTML) {
+
+  			t = 2;
+
+  			if (tmp) {
+  				tmp.visibility = 'hidden';
+  				tmp.zIndex = '0';
+  				Cnt = 0;
+  			}
+
+  			var idMenu = 'bar' + N;
+  			var domMenu = findDOM(idMenu,0);
+  			var idMenuOpt = 'button' + N;
+  			var domMenuOpt = findDOM(idMenuOpt,0);
+  			var idZzz = 'zzz';
+  			var domZzz = findDOM(idZzz,0);
+  			var idGrd = 'grd';
+  			var domGrd = findDOM(idGrd,0);
+  			
+
+  			var idSMenu = 'sub' + N;
+  			var Menu = findDOM(idSMenu,1);
+
+  			if (isID || isAll) {
+  				var mLeft = (domZzz.offsetLeft) + (domMenu.offsetLeft) + (domMenuOpt.offsetLeft) + 1;
+				//ń÷čňŕĺě ďîçčöčţ îň ďîëîńęč - id=grd
+  				var mTop = (domGrd.offsetTop) + (domMenu.offsetTop) + 4; //0 (4 for Mozilla & Safari)
+  				
+  			}
+
+  			if (isLayers) {
+  				var mLeft = document.layers[idMenu].layers[idMenuOpt].pageX - 5;
+  				var mTop = domMenu.pageY + domMenu.clip.height - 5;
+  			}
+  			if (tmp != Menu) {
+  				hide( 0 );
+  				Menu.left = mLeft;
+  				Menu.top = mTop;
+  				Menu.visibility = 'visible';
+  				Menu.zIndex = '100';
+  				tmp = Menu;
+  			}
+  			else { tmp = null; }
+  		}
+  		else { return null; }
+  	}
+
+  	function hide() {
+  		if ((tmp) && (t == 0)) {
+  			tmp.visibility = 'hidden';
+  			tmp.zIndex = '0';
+  			tmp = null;
+  			Cnt = 0;
+  			return false;
+  		}
+  		if (t == 2) { Cnt = 0; return false; }
+  		if (t == 1) {
+  			Cnt = Cnt + 1;
+  			if (tD <= Cnt) { t = 0; }
+  			if (tD >= Cnt) { setTimeout('hide(' + t + ')',pause); }
+  		}
+  	}
+
+
+  	-->
+  </script> </head>
+
+<body>
+<!-- NO_SEARCH_START --><div id="sub1" align="left" onmouseout="t=1; hide()" onmouseover="t=2" onclick="t=0; hide()">
+<div class="submenuborder">
+                                                   &nbsp;&nbsp;<a href="/en/retoucher/index.php">Retoucher</a><br>                                                   &nbsp;&nbsp;<a href="/en/chameleon/index.php">Chameleon </a><br>                                                   &nbsp;&nbsp;<a href="/en/stamp/index.php">Stamp </a><br>                                                   &nbsp;&nbsp;<a href="/en/enhancer/index.php">Enhancer</a><br></div></div><div id="sub3" onmouseout="t=1; hide()" onmouseover="t=2" onclick="t=0; hide()">
+<div class="submenuborder">
+
+                                                   <a href="/en/retoucher-tutorial/index.php">Retoucher</a><br>                                                   <a href="/en/chameleon-tutorial/index.php">Chameleon </a><br>                                                   <a href="/en/stamp-tutorial/index.php">Stamp </a><br>                                                   <a href="/en/enhancer-tutorial/index.php">Enhancer</a><br><a href="/en/graphic-tips/index.php"> Tips&nbsp;&amp;&nbsp;Tricks</a><br>
+<a href="/en/articles/index.php"> Articles</a><br>
+
+</div></div><div id="sub4" onmouseout="t=1; hide()" onmouseover="t=2" onclick="t=0; hide()">
+<div class="submenuborder">
+<a href="/en/support/index.php">&nbsp;&nbsp;FAQ</a><br>
+<a href="/en/support/feedback.php">&nbsp;&nbsp;FeedBack</a>
+</div></div><div id="sub5" onmouseout="t=1; hide()" onmouseover="t=2" onclick="t=0; hide()">
+<div class="submenuborder">
+<a href="/en/company/index.php">AKVIS LLC</a><br>
+<a href="/en/company/news.php">News</a><br>
+<a href="/en/company/press-room.php">Press Room</a><br>
+<a href="/en/company/testimonials-photo-editing-software.php">Testimonials</a><br>
+<a href="/en/company/partners.php">Partners</a><br>
+<a href="/en/company/contacts-developers.php">Contact Us</a>
+</div></div><table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
+<!-- 2nd menu level : -->
+<!-- Products -->
+
+
+<!-- Tutorial -->
+
+
+<!-- Support -->
+
+
+<!-- Company -->
+<tbody><tr valign="bottom">
+<td rowspan="2" align="left" valign="bottom" bgcolor="#FFFFFF" class="logo" height="64">
+<div class="logo">
+<a href="/en/index.php" class="logo"><img src="/img/logo.gif" alt="AKVIS LLC" border="0" align="left" hspace="0" vspace="0" title="AKVIS LLC"> </a></div>
+</td>
+<td height="30" valign="bottom" align="left" class="logo">
+<a href="/en/index.php" class="logo">&nbsp;&nbsp;&nbsp;Creative Tools for Digital Camera</a></td>
+</tr>
+
+<tr valign="bottom">
+<td id="zzz" width="100%">
+     <table width="100%" border="0" cellspacing="0" cellpadding="0">
+         <tbody><tr valign="bottom">
+<!-- menu -->
+		 <!-- 1st menu  level -->
+
+<td valign="bottom" id="bar1" nowrap="" align="left">&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/en/products-photo-editing-software.php" id="button1" onmouseout="t=1; hide()" onmouseover="see(1)">&nbsp;&nbsp;Products</a>&nbsp;&nbsp;&nbsp;</td>
+<td valign="bottom" id="bar2" nowrap="" align="left"><a href="/en/download-photo-editing-software.php" id="button2"><!-- onmouseout="t=1; hide()" onmouseover="see(2)" -->Download</a>&nbsp;&nbsp;</td>
+<td valign="bottom" id="bar3" nowrap="" align="left"><a href="/en/tutorials-photo-editing-software.php" id="button3" onmouseout="t=1; hide()" onmouseover="see(3)">&nbsp;&nbsp;Tutorial</a>&nbsp;&nbsp;</td>
+<td valign="bottom" id="bar4" nowrap="" align="left">
+<a href="/en/support-photo-editing-software.php" id="button4" onmouseout="t=1; hide()" onmouseover="see(4)">&nbsp;&nbsp;Support&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>&nbsp;&nbsp;</td>
+<td valign="bottom" id="bar5" nowrap="" align="left"><a href="/en/about-software-development-company.php" id="button5" onmouseout="t=1; hide()" onmouseover="see(5)">&nbsp;&nbsp;About Company</a>&nbsp;&nbsp;</td>
+
+		 <td width="80%">&nbsp;</td>
+
+<!-- services -->
+<td align="left" nowrap="" valign="bottom"><form name="subscribe" action="/en/subscribe.php" method="get" class="form"><input type="hidden" name="lang" value="en"><input class="form" type="text" name="email" onfocus="this.value=&quot;&quot;" value="Subscribe" size="10">&nbsp;<input type="image" src="/img/design/ok.gif" class="form" alt="OK" title="Subscribe" align="bottom"></form>
+</td>
+<td valign="bottom">&nbsp;&nbsp;&nbsp;</td>
+<td align="left" nowrap="" valign="bottom"><form action="/en/search.php" name="search" id="search" class="form">
+<input type="text" name="query_string" class="form" onfocus="this.value=&quot;&quot;" value="Search" size="10">&nbsp;<input type="image" src="/img/design/go.gif" class="form" alt="GO" title="Search" align="bottom">
+</form>
+</td>
+
+
+<td width="40%">&nbsp;</td>
+
+<!-- languages -->
+<td valign="bottom" nowrap="" align="right" class="lang">&nbsp;&nbsp;&nbsp;en&nbsp;&nbsp;<a href="/fr/privacy.php" title="Français">fr</a>&nbsp;&nbsp;<a href="/de/privacy.php" title="Deutsch">de</a>&nbsp;&nbsp;<a href="/es/privacy.php" title="Español">es</a>&nbsp;&nbsp;<a href="/ru/privacy.php" title="Russian">ru</a>&nbsp;&nbsp;&nbsp;</td>
+
+		 </tr>
+      </tbody></table>
+</td>
+</tr>
+
+<tr><td id="grd" colspan="2" class="gradient" bgcolor="#DFC5B1"><img src="/img/design/e.gif" width="1" height="1" align="middle" hspace="0" vspace="0" alt=""></td></tr>
+
+<tr><td colspan="2"><img src="/img/design/e.gif" width="1" height="10" align="middle" hspace="0" vspace="0" alt="" title="">
+</td></tr>
+
+</tbody></table>
+
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+  <tbody><tr valign="top">
+  <td><img src="/img/design/e.gif" width="15" height="400" align="left" alt=""></td>
+  <td align="left" valign="top">
+<!-- NO_SEARCH_END --><table bgcolor="#FFFFFF" width="100%" border="0" cellspacing="5" cellpadding="0" class="p" align="left">
+<tbody><tr valign="top">
+<td valign="top" align="left" height="1" nowrap="" width="285">
+<img src="/img/design/e.gif" height="1" width="280"></td>
+<td></td></tr>
+
+<tr valign="top">
+<td>
+<table cellspacing="7" border="0"><tbody><tr>
+<td width="200" align="left" valign="top" class="2sidesborder">
+<h1>I want to...</h1><p>
+<img src="/img/design/red-button.gif" alt="">&nbsp;<a href="download-photo-editing-software.php" class="first">Download a free trial</a>
+</p><p>
+<img src="/img/design/red-button.gif" alt="">&nbsp;<a href="compatibility-software.php" class="first">Check the compatibility</a>
+</p><p>
+<img src="/img/design/red-button.gif" alt="">&nbsp;<a href="buy-software.php" class="first">Buy software</a>
+</p><p>
+<img src="/img/design/red-button.gif" alt="">&nbsp;<a href="discounts.php" class="first">Get a discount</a>
+</p><p>
+<img src="/img/design/red-button.gif" alt="">&nbsp;<a href="free-license.php" class="first">Get a free license</a>
+</p><p>
+<img src="/img/design/red-button.gif" alt="">&nbsp;<a href="register-software.php" class="first">Register software</a>
+<!--<p>
+<img src="/img/design/red-button.gif" alt="">&nbsp;<a href="upgrade-software.php" class="first">Upgrade software</a>-->
+</p><p>
+<img src="/img/design/red-button.gif" alt="">&nbsp;<a href="/en/support/feedback.php" class="first">Access online support</a>
+</p><p>
+<img src="/img/design/red-button.gif" alt="">&nbsp;<a href="tutorials-photo-editing-software.php" class="first">Learn to use plug-ins</a>
+</p><p>
+<img src="/img/design/red-button.gif" alt="">&nbsp;<a href="/en/company/partners.php" class="first">Get partner program info</a> 
+
+</p></td></tr>
+<tr valign="top">
+<td width="200" align="left" class="2sidesborder" valign="top">
+<h1>Solutions</h1><p>
+<img src="/img/design/red-button.gif" alt="">&nbsp;<a href="discounts.php#restoration_bandle" class="first">Restoration Bundle</a>
+
+
+<!--<p>
+<img src="/img/design/red-button.gif">&nbsp;All in One - AKVIS Pack #1-->
+</p></td>
+</tr></tbody></table></td>
+<td width="100%" valign="top" align="left"> 
+
+ <h1>Privacy Policy</h1>
+
+<p>
+This Privacy Policy has been created to demonstrate our commitment to your privacy and 
+protection of your information. The Policy applies only to the AKVIS company. 
+</p><p>
+We do not give, share, sell or transfer any personal information to a third party.  
+</p><div class="darkgrey">
+Communication with the company 
+</div>  
+<p>
+If you choose to provide us with additional information through an e-mail message or the
+ feedback form, we ensure you that your personal data will be used only to complete the 
+purpose of your communication. 
+</p><p>
+When you leave your opinion in the Testimonials section, you automatically authorize us to 
+publish it on the web-site and translate it without any changes to other languages 
+supported by the site. In this case only your name or nickname is visible, while your 
+e-mail is not shown to the web-site visitors. 
+</p><p>
+You can subscribe to our mailing list to get announcements about new programs, updates and 
+special offers. We will not use your e-mail address for purposes other than for this 
+subscription. You can unsubscribe at any time using the instructions provided in every message. 
+We respect your time and attention by controlling the frequency of our mailings.
+</p><div class="darkgrey">
+If you register with us
+</div>
+<p> 
+All personal information you provide when you purchase our products (e-mail, 
+your name, country, etc.) will not be divulged to any third party. It will be used only for statistical purposes.
+</p><p>
+When you place an online order with us, we re-direct you to secure paying systems. These companies have their own privacy policies, please read them before making an order. We do not receive any credit card information as part of your product registration. 
+</p><p>
+When you buy our products elsewhere and register with us, we keep your registration code along with your contact information: name, address, phone (optional), email. 
+We use security measures to protect against loss, misuse and alteration of data used by our system. 
+</p><p>
+For more information on AKVIS privacy policy please contact us at:  <a href="mailto:info@akvis.com">info@akvis.com</a>.
+ </p><p>&nbsp; 
+</p></td></tr>
+</tbody></table>
+ 
+  </td>
+  <td><img src="/img/design/e.gif" width="15" height="1" align="left" alt="">
+</td></tr>
+
+<tr><td colspan="3" class="gradient" bgcolor="#DFC5B1"><img src="/img/design/e.gif" width="1" height="1" align="middle" hspace="0" vspace="0" alt=""></td></tr>
+
+<tr valign="top">
+<td>&nbsp;</td>
+<td valign="top">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left">
+    <tbody><tr valign="top">
+    <td valign="top" class="p-2" nowrap="">
+     <a href="/en/privacy.php">Privacy Policy</a>
+       | <a href="/en/map-site-photo-editing-software.php">Site Map</a>
+</td>
+<td>&nbsp;</td>
+<td nowrap="" class="p" align="right"><div align="right" class="p-2">
+© 2004, Developed by  AKVIS LLC. All rights reserved.</div></td></tr>
+
+</tbody></table>
+
+
+
+
+</td></tr></tbody></table></body></html>
