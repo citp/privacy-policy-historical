@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securedservers.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211034439id_/http%3A//securedservers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securedservers.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206215127id_/http%3A//www.securedservers.com/privacy.htm) for the most accurate reproduction.*
 
 # Secured Managed Dedicated and Co-Location Hosting
 
