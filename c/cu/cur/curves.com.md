@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017063755id_/http%3A//www.curves.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curves.com privacy policy that was archived on 2003-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030611052447id_/http%3A//curves.com/f_privacy.htm) for the most accurate reproduction.*
 
-# Privacy Information - Curves.com
+# Curves.com - woman's clothing brand name fashions designer womens wear the invisible breast enhancerNew Page 1
 
 **_Curves.com_ Privacy Statement**
 
@@ -50,14 +50,7 @@ If you want to control which cookies you accept: You can order your browser to a
 
 **Choice/Opt-Out**
 
-Our site provides users the opportunity to "opt-out" of receiving information about future sales, specials and new product announcements from us. If you do not want _Curves.com_ to send you e-mail or postal mail regarding _Curves.com_ products or services, you may "opt-out" when you: 
-
-  * Register in the Guest Book, request a catalog to be mail, or when ordering.
-  * Send email to [opt-out@curves.com](mailto:opt-out@curves.com).
-  * Send mail to the following postal address: _Curves.com_ , c/o 951-2 Old County Road, M/S 255, Belmont, CA 94002
-  * Call the following telephone number: (650) 631-0130
-
-
+Our site provides users the opportunity to "opt-out" of receiving information about future sales, specials and new product announcements from us. If you do not want _Curves.com_ to send you e-mail or postal mail regarding _Curves.com_ products or services, you may "opt-out" when by following the instructions at the bottom of any _Curves.com_ emailing. 
 
 **Notification of Changes, Logs & Sharing of Information**
 
