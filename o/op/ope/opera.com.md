@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208174735id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opera.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622084944id_/http%3A//www.opera.com/privacy) for the most accurate reproduction.*
 
 # Opera Privacy Statement
 
@@ -20,7 +20,7 @@ Opera has a built-in Web search feature introduced in Opera 5. This gives the us
 
 ## Privacy on Our Web Sites
 
-The following statement discloses the information gathering and dissemination practices for Opera.com, Opera.no, and OperaSoftware.com. This privacy statement does not include privacy information for the Web sites MyOpera or OperaMail. Please consult the privacy statements of MyOpera or OperaMail for information regarding their privacy policies.
+The following statement discloses the information gathering and dissemination practices for Opera.com, Opera.no, and OperaSoftware.com. This privacy statement does not include privacy information for the Web sites My Opera or Opera Web Mail. Please consult the privacy statements of My Opera or Opera Web Mail for information regarding their privacy policies.
 
 ### Collection of data
 
