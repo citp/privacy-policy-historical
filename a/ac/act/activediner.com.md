@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204174222id_/http%3A//activediner.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activediner.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601183046id_/http%3A//www.activediner.com/privacy.cfm) for the most accurate reproduction.*
 
 # ActiveDinerŽ - Privacy Statement
 
@@ -57,4 +57,10 @@
 
 * * *
 
-|  [](http://affiliate.doteasy.com/index.cfm?M=red&B=5&T=729826&A=pling) [](http://www.cqwater.com/show.cgi/activediner/index.html)
+|  [](http://www.cqwater.com/show.cgi/activediner/index.html)   
+  
+  
+[](http://service.bfast.com/bfast/click?bfmid=30719175&siteid=38208930&bfpage=save50_120x90)   
+[ ](http://www.myaffiliateprogram.com/u/primusd/b.asp?id=1304) [](http://service.bfast.com/bfast/click?bfmid=115761&siteid=39103041&categoryid=box_3) [](http://affiliate.doteasy.com/index.cfm?M=red&B=5&T=729826&A=pling) [](http://www.cqwater.com/show.cgi/activediner/index.html)
+
+[](http://service.bfast.com/bfast/click?bfmid=5327311&siteid=39563486&bfpage=specials)
