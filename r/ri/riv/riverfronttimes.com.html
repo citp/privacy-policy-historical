@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the riverfronttimes.com privacy policy that was archived on 2000-06-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000615080658id_/http%3A//www.riverfronttimes.com/about/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the riverfronttimes.com privacy policy that was archived on 2000-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001204161400id_/http%3A//riverfronttimes.com/about/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 <!-- Begin standard_html_header (actually it start above the html tag) -->
@@ -21,7 +21,7 @@ var c = new adsize(120,60);
 var d = new adsize(120,90);
 var v = new adsize("120v");     
 
-function ad(site,category,size,id) {
+function ad(site,category,size,id,ad_loc) {
 if (size == "") {
     size = "a";
 } // default size
@@ -35,6 +35,7 @@ var ad = "";
 var path_info = "site=" + site +
                 "&category=" + category +
                 "&size=" + size_name +
+                "&loc=" + ad_loc +
                 "&id=" + id;
 var yourHREF = "http://ads.newtimes.com/click.ng/?" + path_info;
 var yourSRC = "http://ads.newtimes.com/image.ng/?" + path_info;
@@ -61,7 +62,13 @@ document.write(ad);
 
 <!--//
 function openElink() {
-window.open("http://www.riverfronttimes.com/about/elink","thwindow","toolbar=no,width=325,height=425,status=no,scrollbars=yes,resize=no,menubar=no");
+window.open("http://www.riverfronttimes.com/about/elink.html","thwindow","toolbar=no,width=325,height=425,status=no,scrollbars=yes,resize=no,menubar=no");
+}
+//-->
+
+<!--//
+function openElink2(theLink) {
+window.open(theLink,"thwindow","toolbar=no,width=325,height=425,status=no,scrollbars=yes,resize=no,menubar=no");
 }
 //-->
 
@@ -114,6 +121,8 @@ function clearField(field){
      A:link { color: #993300; }
      A:visited { color: #993300; }
      A:active { color: #993300; } 
+       
+
        
   
     <!-- story page styles -->
@@ -171,7 +180,7 @@ function clearField(field){
 
 
         .tocsubhead { font-family: "Helvetica", "Arial",  "Verdana", san-serif;
-          font-size: 10pt;
+          font-size: 10pt; color: black;
         }
 
         .tocbyline { font-family: "Times New Roman", "Georgia", serif;
@@ -189,12 +198,26 @@ function clearField(field){
           color: white; 
    }
       
-        .navigation { font-family: "Verdana", "Helvetica", "Arial",  san-serif;
-   }
+	div.navigation { font-family: "Helvetica", "Arial", "Verdana", san-serif;
+          font-size: 9pt;
+          font-percentage:70%;
+           }
 
-         .navigation A {text-decoration: none; color: black;}
+         .navigation A {text-decoration: none; color: #606060;}
          .navigation A:visited { color: #993300; }
          .navigation A:active { text-decoration: underline; color: #606060; } 
+
+         div.navigation A {text-decoration: none; }
+         div.navigation A:link { color: #993300; }
+         div.navigation A:visited { color: #993300; }
+         div.navigation A:active { color: #ffffff; }
+
+
+         div.navigation2 A {text-decoration: black; }
+         div.navigation2 A:link { color: #993300; }
+         div.navigation2 A:visited { color: #993300; }
+         div.navigation2 A:active { color: #ffffff; } 
+
         
          .white { 
            color: white;
@@ -231,8 +254,8 @@ function clearField(field){
     }else{
       var adid = "folonari";
     }
-     ad("stl","other","c",adid);
-   </script><a href="http://ads.newtimes.com/click.ng/?site=stl&amp;category=other&amp;size=c&amp;id=about&amp;transactionID=1580424620521"><center><img src="http://ads.newtimes.com/image.ng/?site=stl&amp;category=other&amp;size=c&amp;id=about&amp;transactionID=1580424620521" width="120" height="60" border="0" alt="advertisement"></center></a>
+     ad("stl","other","c",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=stl&amp;category=other&amp;size=c&amp;loc=1&amp;id=about&amp;transactionID=1580424619811"><center><img src="http://ads.newtimes.com/image.ng/?site=stl&amp;category=other&amp;size=c&amp;loc=1&amp;id=about&amp;transactionID=1580424619811" width="120" height="60" border="0" alt="advertisement"></center></a>
 
    <noscript>
     <A HREF="http://ads.newtimes.com/click.ng/?site=stl&category=other&size=c&id=about">
@@ -264,8 +287,8 @@ function clearField(field){
     }else{
       var adid = "folonari";
     }
-     ad("stl","other","a",adid);
-   </script><a href="http://ads.newtimes.com/click.ng/?site=stl&amp;category=other&amp;size=a&amp;id=about&amp;transactionID=1580424620522"><center><img src="http://ads.newtimes.com/image.ng/?site=stl&amp;category=other&amp;size=a&amp;id=about&amp;transactionID=1580424620522" width="468" height="60" border="0" alt="advertisement"></center></a>
+     ad("stl","other","a",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=stl&amp;category=other&amp;size=a&amp;loc=1&amp;id=about&amp;transactionID=1580424619812"><center><img src="http://ads.newtimes.com/image.ng/?site=stl&amp;category=other&amp;size=a&amp;loc=1&amp;id=about&amp;transactionID=1580424619812" width="468" height="60" border="0" alt="advertisement"></center></a>
 
    <noscript>
     <A HREF="http://ads.newtimes.com/click.ng/?site=stl&category=other&size=a&id=about">
@@ -304,9 +327,9 @@ function clearField(field){
     <table cellspacing="0" cellpadding="0" width="110" border="0" align="center">
      <tbody><tr>
       <td valign="middle" align="left" height="30">
-      <small><small><div class="navigation"><b>	
-       Thursday</b>
-       <br>June 15, 2000</div></small></small>
+     <div class="navigation"><small><small><b>	
+       Monday</b>
+       <br>December 4, 2000</small></small></div>
       </td>
      </tr>
     </tbody></table>
@@ -316,7 +339,7 @@ function clearField(field){
  <tr>
   <td bgcolor="#993300" valign="middle" align="left" nowrap="">
    <img src="/palette0/spacer_t.gif" alt="" width="1" height="0" align="LEFT">
-   <div class="navigationhead">Site Search</div>
+   <div class="navigationhead"><small><small>Site Search</small></small></div>
   </td>
  </tr>
 
@@ -330,7 +353,7 @@ function clearField(field){
   <tr>
   <td align="left" bgcolor="#fdf5e6">
     <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <small><small><div class="navigation"><a href="/search/index.html">Enhanced search</a></div></small></small>
+  <div class="navigation"><a href="/search/index.html"><small><small>Enhanced search</small></small></a></div>
   </td>
  </tr>
 
@@ -340,9 +363,9 @@ function clearField(field){
  <tr>
   <td bgcolor="#993300" valign="middle" align="left">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <div class="navigationhead">
-          In About
-      </div>
+   <div class="navigationhead"><small><small>
+          In <small><small>About</small></small>
+      </small></small></div>
   </td>
  </tr>
    
@@ -381,7 +404,7 @@ function clearField(field){
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
   <small><small><div class="navigation">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <a href="/about/contact.html" onmouseover="window.status='Contact Us'; return true">Contact info</a>
+   <a href="/about/contact.html" onmouseover="window.status='Contact Us'; return true">Contact Info</a>
       </div></small></small>
   </td>
  </tr>
@@ -401,7 +424,17 @@ function clearField(field){
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
   <small><small><div class="navigation">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <a href="/about/subscription.html" onmouseover="window.status='Subscribe to the print version'; return true">Subscription info</a>
+   <a href="/about/internships.html" onmouseover="window.status='Internship Opportunities'; return true">Internships</a>
+      </div></small></small>
+  </td>
+ </tr>
+   
+		
+ <tr>
+  <td valign="middle" bgcolor="#fdf5e6" nowrap="">
+  <small><small><div class="navigation">
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+   <a href="/about/subscribe.html" onmouseover="window.status='Subscribe to the print version'; return true">Subscription Info</a>
       </div></small></small>
   </td>
  </tr>
@@ -440,179 +473,161 @@ function clearField(field){
  <tr>
   <td bgcolor="#993300" valign="middle" align="left">
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-   <div class="navigationhead">Site Contents</div>
+  <div class="navigationhead"><small><small>Site Contents</small></small></div>
   </td>
  </tr>
 	
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/news_toc.html" onmouseover="window.status='News &amp; Features'; return true">News</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/columnists_toc.html" onmouseover="window.status='Columns'; return true">Columns</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/arts_toc.html" onmouseover="window.status='Art, Theater &amp; Dance'; return true">Arts</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/music_toc.html" onmouseover="window.status='Music'; return true">Music</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/cafe_toc.html" onmouseover="window.status='Cafe Reveiws &amp; Columns'; return true">Cafe</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/film_toc.html" onmouseover="window.status='Film &amp; Movie Reviews'; return true">Film</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/issues/current/calendar_toc.html" onmouseover="window.status='Calendar, Night &amp; Day'; return true">Calendar</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/classified/index.html" onmouseover="window.status='Classified'; return true">Classified</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/romance/index.html" onmouseover="window.status='Romance'; return true">Romance</a>
-   </div></small></small>
+<a href="/webextra/index.html" onmouseover="window.status='Web Extra'; return true">Web Extra</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/listings/wildside/index.html" onmouseover="window.status='Walk on the Wild Side'; return true">Wild Side</a>
-   </div></small></small>
+<a href="http://romance.riverfronttimes.com/index.html" onmouseover="window.status='Romance'; return true">Romance</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
+   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
+<a href="/wild/index.html" onmouseover="window.status='Walk on the Wild Side'; return true">Wild Side</a>
+   </small></small></div>
+  </td>
+ </tr>
+		
+ <tr>
+  <td valign="middle" bgcolor="#fdf5e6" nowrap="">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/discussions/" onmouseover="window.status='Discussions'; return true">Discussions</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/letters/" onmouseover="window.status='Letters to the Editor'; return true">Letters</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/search/index.html" onmouseover="window.status='Archives'; return true">Archives</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/bostl/1999/" onmouseover="window.status='Best Of'; return true">Best Of</a>
-   </div></small></small>
+<a href="/bestof/2000/index.html" onmouseover="window.status='Best Of'; return true">Best Of St. Louis</a>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
-   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/slammies2000/index.html" onmouseover="window.status='Slammies 2000'; return true">Slammies 2000</a>
-   </div></small></small>
-  </td>
- </tr>
-		
- <tr>
-  <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
-   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/summertime/summertime00/index.html" onmouseover="window.status='Summertime St. Louis'; return true">Summertime St. Louis</a>
-   </div></small></small>
-  </td>
- </tr>
-		
- <tr>
-  <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
-   <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
-<a href="/ballotpoll/rest_poll/winners01.html" onmouseover="window.status='Restaurants 2000'; return true">Restaurants 2000</a>
-   </div></small></small>
-  </td>
- </tr>
-		
- <tr>
-  <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/about/subscribe.html" onmouseover="window.status='Subscribe to our newsletter'; return true">Get our eLetter</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
 		
  <tr>
   <td valign="middle" bgcolor="#fdf5e6" nowrap="">
- <small><small><div class="navigation">
+<div class="navigation"><small><small>
    <img src="/palette0/spacer_t.gif" alt="" width="1" align="LEFT">
 <a href="/about/index.html" onmouseover="window.status='About riverfronttimes.com'; return true">About</a>
-   </div></small></small>
+   </small></small></div>
   </td>
  </tr>
  
@@ -682,9 +697,16 @@ function clearField(field){
 </p><p></p>
 
 
+
 <p></p>
 
-  <!--Begin nd_ad-->
+
+
+
+  
+
+      <p>
+    <!--Begin nd_ad-->
 
 
 
@@ -701,24 +723,26 @@ function clearField(field){
     }else{
       var adid = "folonari";
     }
-     ad("stl","other","v",adid);
-   </script><a href="http://ads.newtimes.com/click.ng/?site=stl&amp;category=other&amp;size=120v&amp;id=about&amp;transactionID=1580424620550"><center><img src="http://ads.newtimes.com/image.ng/?site=stl&amp;category=other&amp;size=120v&amp;id=about&amp;transactionID=1580424620550" width="120" border="0" alt="advertisement"></center></a>
+     ad("stl","other","v",adid,"1");
+   </script><a href="http://ads.newtimes.com/click.ng/?site=stl&amp;category=other&amp;size=120v&amp;loc=1&amp;id=about&amp;transactionID=1580424619818"></a></font></p><center><font color="white"><a href="http://ads.newtimes.com/click.ng/?site=stl&amp;category=other&amp;size=120v&amp;loc=1&amp;id=about&amp;transactionID=1580424619818"><img src="http://ads.newtimes.com/image.ng/?site=stl&amp;category=other&amp;size=120v&amp;loc=1&amp;id=about&amp;transactionID=1580424619818" width="120" border="0" alt="advertisement"></a></font></center><font color="white">
 
    <noscript>
-    <A HREF="http://ads.newtimes.com/click.ng/?site=stl&category=other&size=v&id=about">
-    <IMG SRC="http://ads.newtimes.com/image.ng/?site=stl&category=other&size=v&id=about" width=120 height= Border=0 ALT="riverfronttimes.com Advertiser"></A>
+    <A HREF="http://ads.newtimes.com/click.ng/?site=stl&category=other&size=120v&id=about">
+    <IMG SRC="http://ads.newtimes.com/image.ng/?site=stl&category=other&size=120v&id=about" width=120 height= Border=0 ALT="riverfronttimes.com Advertiser"></A>
    </noscript>
   </font>
 <!--End ng_ad-->
-
-
+    <p></p>
+  
 <p></p>
+
+<br><img src="/palette0/spacer_t.gif" height="10"><br>
 
 <!-- </td> is on the standard_footer -->
 
 <!-- End right_column -->
 
-
+ 
 </td>
 </tr>
 </tbody></table>
@@ -756,15 +780,13 @@ function clearField(field){
 						 | <a href="/issues/current/film_toc.html" onmouseover="window.status='Film &amp; Movie Reviews'; return true">Film</a>
 						 | <a href="/issues/current/calendar_toc.html" onmouseover="window.status='Calendar, Night &amp; Day'; return true">Calendar</a>
 						 | <a href="/classified/index.html" onmouseover="window.status='Classified'; return true">Classified</a>
-						 | <a href="/romance/index.html" onmouseover="window.status='Romance'; return true">Romance</a>
-						 | <a href="/listings/wildside/index.html" onmouseover="window.status='Walk on the Wild Side'; return true">Wild Side</a>
+						 | <a href="/webextra/index.html" onmouseover="window.status='Web Extra'; return true">Web Extra</a>
+						 | <a href="http://romance.riverfronttimes.com/index.html" onmouseover="window.status='Romance'; return true">Romance</a>
+						 | <a href="/wild/index.html" onmouseover="window.status='Walk on the Wild Side'; return true">Wild Side</a>
 						 | <a href="/discussions/" onmouseover="window.status='Discussions'; return true">Discussions</a>
 						 | <a href="/letters/" onmouseover="window.status='Letters to the Editor'; return true">Letters</a>
 						 | <a href="/search/index.html" onmouseover="window.status='Archives'; return true">Archives</a>
-						 | <a href="/bostl/1999/" onmouseover="window.status='Best Of'; return true">Best Of</a>
-						 | <a href="/slammies2000/index.html" onmouseover="window.status='Slammies 2000'; return true">Slammies 2000</a>
-						 | <a href="/summertime/summertime00/index.html" onmouseover="window.status='Summertime St. Louis'; return true">Summertime St. Louis</a>
-						 | <a href="/ballotpoll/rest_poll/winners01.html" onmouseover="window.status='Restaurants 2000'; return true">Restaurants 2000</a>
+						 | <a href="/bestof/2000/index.html" onmouseover="window.status='Best Of'; return true">Best Of St. Louis</a>
 						 | <a href="/about/subscribe.html" onmouseover="window.status='Subscribe to our newsletter'; return true">Get our eLetter</a>
 						 | <a href="/about/index.html" onmouseover="window.status='About riverfronttimes.com'; return true">About</a>
 						<hr size="1">
@@ -782,9 +804,11 @@ function clearField(field){
 
 
 
-<!-- Served by: node5.newtimes.com on: 2000/06/15 01:06:58.0732 US/Mountain -->
+<!-- Served by: node5.newtimes.com on: 2000/12/04 02:11:1.0478 US/Mountain -->
 
 
 <!-- End standard_html_footer -->
 
-<!-- End privay_policy --></body></html>
+<!-- End privay_policy -->
+<!-- Cached: Mon Dec  4 02:11:01 2000 -->
+</body></html>
