@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halloweenhorrornights.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602204914id_/http%3A//themeparks.universalstudios.com/orlando/website/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halloweenhorrornights.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013215438id_/http%3A//themeparks.universalstudios.com/orlando/website/privacy_policy.html) for the most accurate reproduction.*
 
 # Universal Orlando - Privacy Policy
 
@@ -36,12 +36,16 @@ Although children under 13 years of age may be allowed to participate in some co
 
 **Contact Us:** If you have any questions about this privacy statement, the practices of our Sites, or your dealings with our Sites, you can contact: 
 
-> Universal Studios Online Feedback 10 Universal City Plaza, Suite 3200 Universal City, CA 91608 [E-mail us](http://www.universalstudios.com/homepage/html/contact_us/contact_form.cgi?email_id=38)
+> Universal Studios Feedback  
+>  100 Universal City Plaza  
+>  Universal City, CA 91608  
+>  Phone: 818-777-1000  
+>  [E-mail us](http://www.universalstudios.com/homepage/html/contact_us/contact_form.cgi?email_id=38)
 
 Information provided by you via general e-mail inquiries to Universal such as your e-mail address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties.
 
 To view educational material on consumer privacy, please see <http://www.ftc.gov/> .
 
-**Your Acceptance of These Terms:** By using Universal's Sites, you signify your acceptance of the Universal Studios Online Privacy Policy. If you do not agree to this policy, please do not use our Sites. Universal Studios reserves the right to modify, alter or otherwise update this policy at any time, so visitors are encouraged to review this policy from time to time. Your continued use of the Universal Sites following the posting of changes to these terms will mean you accept those changes.
+**Your Acceptance of These Terms:** By using Universal's Sites, you signify your acceptance of the Universal Studios Privacy Policy. If you do not agree to this policy, please do not use our Sites. Universal Studios reserves the right to modify, alter or otherwise update this policy at any time. Should Universal modify, alter or otherwise update this policy, we will notify you by sending you an e-mail at the last e-mail address that you provided us, and/or by prominently posting notice of the changes on the Websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective upon the earlier of our dispatch of an e-mail notice to you or our posting of the notice of the changes on the Websites covered by this Privacy Policy. Please note: you are responsible, at all times, for updating your personal information within your profile maintained by us and providing us with your current e-mail address. In the event that the last e-mail address provided by you to us is invalid, or for any other reason is not capable of delivering the notification to you, then the notification sent by us to you will constitute effective notice of the changes to this Privacy Policy. 
 
-Last updated May 19, 2000
+Last updated July 1, 2004
