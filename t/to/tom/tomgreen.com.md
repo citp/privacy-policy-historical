@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomgreen.com privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815082044id_/http%3A//tomgreen.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomgreen.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609184203id_/http%3A//tomgreen.com/policy.html) for the most accurate reproduction.*
 
 # :: Tom Green Offical Site ::
 
@@ -71,8 +71,6 @@ How to Contact Us
 If you have any questions or concerns about TomGreen.com's Privacy Policy, you may contact us via e-mail at info@TomGreen.com or mail us at the following address:
 
 TomGreen.com  
-11111 Santa Monica Blvd., Suite 300  
-Los Angeles, CA 90025  
-(v) (213) 401.2137  
-(f) (213) 401.2137  
-
+(v) (866) 212-2664  
+(f) (866) 212-2664  
+email: glenn@tomgreen.com
