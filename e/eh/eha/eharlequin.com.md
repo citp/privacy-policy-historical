@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205112713id_/http%3A//www.eharlequin.com/harl/globals/help/00pprv11.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharlequin.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211031512id_/http%3A//www.eharlequin.com/harl/globals/help/00pprv11.htm) for the most accurate reproduction.*
 
 # eHarlequin.com: Our Privacy Policy
 
@@ -26,7 +26,7 @@ You can access and update your personal information by clicking on the account i
 
 **Privacy of Children**
 
-eHarlequin.com understands that children and young adults need special safeguards and privacy protection. These young people may not understand all the provisions of our policy or be able to make well-informed decisions about the choices available to our adult users. We believe our success is not only defined by our ability to bring you online services that make your life more convenient and enjoyable, but also by the steps we take to ensure that the interactive medium is available to everyone and guided by policies that make sense for families. In concert with our efforts, eHarlequin.com urges all parents to supervise their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
+eHarlequin.com understands that children and young adults need special safeguards and privacy protection. These young people may not understand all the provisions of our policy or be able to make well-informed decisions about the choices available to our adult users. We believe our success is not only defined by our ability to bring you online services that make your life more convenient and enjoyable, but also by the steps we take to ensure that the interactive medium is available to everyone and guided by policies that make sense for families. If you are under 18, you may use eHarlequin.com only with involvement of a parent or guardian. eHarlequin.com and its affiliates reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in its sole discretion. In concert with our efforts, eHarlequin.com urges all parents to supervise their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
 
 eHarlequin.com maintains the following policies to protect the privacy of our users who are less than 13 years of age:
 
