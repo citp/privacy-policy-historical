@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208090931id_/http%3A//www.hrw.org/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrw.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604142045id_/http%3A//hrw.org/about/privacy.htm) for the most accurate reproduction.*
 
 # Human Rights Watch Privacy Policy
 
@@ -6,7 +6,7 @@
 [](https://web.archive.org/)  
 [](http://www.hrwdonations.org/)  
 [](https://web.archive.org/community/)  
-[](https://web.archive.org/press/2002/index.htm)  
+[](https://web.archive.org/press/2003/index.htm)  
 [](https://web.archive.org/events/index.htm)  
 [](https://web.archive.org/research/nations.html)  
 [](https://web.archive.org/about/)  
@@ -27,6 +27,7 @@
 | [Prisons](https://web.archive.org/prisons/)  
 | [Refugees](https://web.archive.org/refugees/)  
 | [Women's Rights](https://web.archive.org/women/)  
+| [United Nations](https://web.archive.org/un/)  
 | [More...](https://web.archive.org/advocacy/index.htm)  
   
 [](https://web.archive.org/campaigns/campaigns.html)  
