@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the californiagasprices.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the californiagasprices.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/privacy.asp) for the most accurate reproduction.*
 
 # California Gas Prices - Privacy Policy
 
-|  |  | [](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/index.asp)  
+|  | [](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/index.asp)  
 ---  
-[](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/logbook_choose_car.asp)  
-[](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/announce.asp)  
-[](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/in_the_news.asp)  
-[](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/contact.asp)  
+[](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/logbook_choose_car.asp)  
+[](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/announce.asp)  
+[](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/in_the_news.asp)  
+[](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/contact.asp)  
   
-[](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/index.asp)
+[](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/index.asp)
 
-|  | [](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/index.asp#members_area)  
+|  | [](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/index.asp#members_area)  
 ---  
-[](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/forum_category.asp)  
-[](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/tips.asp)  
-[](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/retail_price_chart.asp)  
-[](https://web.archive.org/web/20030626103737id_/http%3A//www.californiagasprices.com/USA_links.asp)  
+[](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/forum_category.asp)  
+[](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/tips.asp)  
+[](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/retail_price_chart.asp)  
+[](https://web.archive.org/web/20040603195309id_/http%3A//californiagasprices.com/USA_links.asp)  
 | [California City Guide](http://service.bfast.com/bfast/click?bfmid=27359743&siteid=38250479&bfpage=city_guides) |  | [NEW! Auto Guide](http://service.bfast.com/bfast/click?bfmid=27359743&siteid=38250479&bfpage=auto1)  
 ---|---|---  
 Privacy Policy  
@@ -35,6 +35,8 @@ Cookies are employed in the normal operation of the web site where they are used
 We record visitors IP addresses to analyze trends and administer the site. IP addresses are not linked to personally identifiable information and they cannot be used to track users identities without the permission of their internet service provider.  
 **External Links:**  
 This site contains links to many other sites. We are not in any way responsible for the privacy policies and practices or the content of such web sites.   
+**Advertisers:**  
+This site contains advertising from other companies. We do not verify the claims of all advertisers, and cannot be held responsible for the claims of the advertisers. We are not in any way responsible for the privacy policies and practices or the content of such web sites.   
 **Copyrights:**  
 GasBuddy Organization Inc. reserves all rights and copyrights the site text, site images, site code, content, and usage of the CaliforniaGasPrices.com web site. All trademarks are property of their respective companies.   
   
