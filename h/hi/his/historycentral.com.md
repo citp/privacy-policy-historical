@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historycentral.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802024740id_/http%3A//www.historycentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historycentral.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603213649id_/http%3A//www.historycentral.com/privacy.html) for the most accurate reproduction.*
 
 # HistoryCentral.com: Privacy Policy
 
