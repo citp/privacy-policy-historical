@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdaily.com privacy policy that was archived on 2004-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040205214336id_/http%3A//artistdaily.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdaily.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204023058id_/http%3A//www.artistdaily.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy artistdaily.com
 
