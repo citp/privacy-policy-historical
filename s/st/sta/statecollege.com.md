@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statecollege.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207165718id_/http%3A//statecollege.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statecollege.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607033830id_/http%3A//statecollege.com/privacy.html) for the most accurate reproduction.*
 
 # StateCollege.com: Statement of Privacy
 
@@ -24,4 +24,4 @@ We may disclose Personal Information if required to do so by law or in the good-
 **Policy 6.**  
 If at any time you believe that we have violated these Policies, please notify us by e-mail at support@lazerpro.com and we will use all commercially reasonable efforts to promptly investigate and remedy the problem. 
 
-For more information about our privacy statement, see the following [Frequently Asked Questions](https://web.archive.org/web/20031207165718id_/http%3A//statecollege.com/faqs.html).
+For more information about our privacy statement, see the following [Frequently Asked Questions](https://web.archive.org/web/20040607033830id_/http%3A//statecollege.com/faqs.html).
