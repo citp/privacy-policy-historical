@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the specially4u.net privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206162645id_/http%3A//www.specially4u.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specially4u.net privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602180017id_/http%3A//specially4u.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -28,26 +28,12 @@ This site contains links to other sites. **specially4u** is not responsible for 
 
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.
 
-#### Choice/Opt-Out 
-
-  1. You can send email to [support@specially4u.net](mailto:support@specially4u.net)
-
-
-
-#### Data Quality/Access 
-
-This site gives users the following options for changing and modifying information previously provided: 
-
-  1. You can send email to [manager@specially4u.net ](mailto:manager@specially4u.net)
-
-
-
 ## Contacting the Web Site 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
 
 
-[webmaster@specially4u.net](mailto:webmaster@specially4u.net)
+[http://www.specially4u.net/contact.htm](https://web.archive.org/web/20030602180017id_/http%3A//specially4u.net/contact.htm)
 
 * * *
 
