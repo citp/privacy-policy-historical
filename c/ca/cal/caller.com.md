@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206071100id_/http%3A//www.caller.com/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404235645id_/http%3A//www.caller.com/policies/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Corpus Christi Caller-Times - Columns
 
-**
+Privacy Policy   
+| [News](https://web.archive.org/newsindex.shtml) | [Sports](https://web.archive.org/sportsindex.shtml) | [Business](https://web.archive.org/bizindex.shtml) | [Opinions](https://web.archive.org/opinions.shtml) | [Columns](https://web.archive.org/columns.html) | [Entertainment](https://web.archive.org/Arts&Ent/) |   
+| [Science/Technology](https://web.archive.org/sctech.shtml)| [Weather](https://web.archive.org/weather/) | [Archives](https://web.archive.org/autoconv/archives.htm) | [E-mail Us](https://web.archive.org/commcentral) |   
 
-**Caller Times Interactive** Privacy Policy
 
-**
+* * *
 
-**Caller Times Interactive** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **Caller Times Interactive** we intend to give you as much control as possible over your personal information.
+**Caller Times New Media** is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At **Caller.com** we intend to give you as much control as possible over your personal information.
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our **site(s)** , how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.
 
@@ -36,9 +37,9 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to **ctinter@scripps.com** , or you can reach us by telephone at **512-886-4390**. You can also write us at:
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to **ctinter@scripps.com** , or you can reach us by telephone at **361-886-4390**. You can also write us at:
 
-**Caller Times Interactive  
+**Caller Times New Media  
 P. O. Box 9136  
 Corpus Christi, TX 78401  
 **
@@ -55,4 +56,14 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **ctinter@scripps.com]**. To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](https://web.archive.org/web/20001206071100id_/http%3A//www.caller.com/policies/user.htm).
+The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **ctinter@scripps.com]**. To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](https://web.archive.org/web/20010404235645id_/http%3A//www.caller.com/policies/user.htm).
+
+
+  
+
+
+* * *
+
+  
+  © 2001 Caller Times Publications, a [ Scripps Howard](http://www.scripps.com/) newspaper. All rights reserved.  
+
