@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205094017id_/http%3A//www.bbb.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbb.org privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605044822id_/http%3A//www.bbb.org/about/privacy.asp) for the most accurate reproduction.*
 
 # BBB Online Privacy Policy
 
@@ -14,7 +14,7 @@
 
 
 
-The Council of Better Business Bureaus (CBBB) is the umbrella association for the United States Better Business Bureaus (BBBs), and the CBBB works closely with the Canadian Better Business Bureaus (BBBs) through the Canadian Council of Better Business Bureaus. What follows is CBBB's online privacy policy, which governs personal information gathered on our Internet sites ([www.bbb.org](http://www.bbb.org/), [www.bbbonline.org](http://www.bbbonline.org/) and their aliases) but not the sites of BBBs. Each BBB has its own privacy and security policies for its web site, consistent with policy established by the CBBB Board of Directors, whether that site is a sub-domain of [www.bbb.org](http://www.bbb.org/) (for example, www.city.bbb.org) or is hosted independently of CBBB. To check out the privacy and security policies of each BBB, please [look here](http://www.bbb.org/BBBComplaints/lookup.asp) for a list of the BBB websites.
+The Council of Better Business Bureaus (CBBB) is the umbrella association for the United States Better Business Bureaus (BBBs), and the CBBB works closely with the Canadian Better Business Bureaus (BBBs) through the Canadian Council of Better Business Bureaus. What follows is CBBB's online privacy policy, which governs personal information gathered on our Internet sites ([www.bbb.org](http://www.bbb.org/), [www.bbbonline.org](http://www.bbbonline.org/) and their aliases) but not the sites of BBBs. Each BBB has its own privacy and security policies for its web site, consistent with policy established by the CBBB Board of Directors, whether that site is a sub-domain of [www.bbb.org](http://www.bbb.org/) (for example, www.city.bbb.org) or is hosted independently of CBBB. To check out the privacy and security policies of each BBB, please [look here](http://lookup.bbb.org/) for a list of the BBB websites.
 
 **CBBB's Commitment to Online Security**
 
