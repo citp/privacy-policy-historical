@@ -1,0 +1,71 @@
+> *The following text is extracted and transformed from the safeco.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603064830id_/http%3A//www.safeco.com/safeco/legal/privacy.asp) for the most accurate reproduction.*
+
+# SAFECO - Consumer Privacy Statement
+
+### Consumer Privacy Statement
+
+SAFECO and its affiliated companies appreciate the trust you place in us when you ask us to help protect and accumulate your assets. You trust us with your private, personal information when you invest with us or purchase insurance from us. We are committed to protecting your private information. SAFECO does not sell information about you to others.
+
+To learn more about how SAFECO collects and uses your personal information, please read the following notice. For additional information about privacy and security on SAFECO web sites, please see the “Information about SAFECO web sites” section.
+
+#### SAFECO's sources of information about you
+
+We collect personal information about you from:
+
+  * The information you provide on applications or other forms (such as your name, address and Social Security number)
+  * Your transactions with us, our affiliates or others (such as your payment history and claims information)
+  * The information we receive from a consumer reporting agency (such as your credit history)
+  * Your insurance agent or financial advisor (such as updated information pertaining to your account)
+
+
+
+#### SAFECO's use of your personal information
+
+We treat your information with respect and concern for your privacy. We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law.
+
+For example, we may share any or all of your information with our affiliated companies and independent SAFECO representatives – Independent Insurance Agents and Financial Advisors authorized to sell SAFECO products. We may also disclose any or all information we have collected about you to companies that perform services on our behalf and to other financial institutions with whom we have joint marketing agreements.
+
+When we make this type of disclosure it is done to service your SAFECO account or policy, or to inform you about SAFECO products and services. Before disclosing your information, we require these companies to promise to keep it confidential and use it only for the transaction we request.
+
+#### Independent SAFECO Representatives
+
+The Independent Insurance Agents and Financial Advisors authorized to sell SAFECO products and services are not SAFECO employees and not subject to SAFECO's Privacy Policy. Because they have a unique business relationship with you, they may have additional personal information about you that SAFECO does not have. They may use this information differently than SAFECO. Contact your SAFECO agent or advisor to learn more about their privacy practices.
+
+#### Information about SAFECO web sites
+
+> **Information collected**  
+>  We collect personal information (for example, name, address, e-mail address) on our web site only when you voluntarily provide it to us. Only your domain is recognized when you visit our website; your individual e-mail address is not.
+> 
+> **Information sharing and use**  
+>  SAFECO does not sell information about you to others. If you only browse our web site and do not supply any information, you will not receive unsolicited e-mail, telephone calls, or other marketing materials from SAFECO as a result of your visit.
+> 
+> When you make changes to your account or request more information about our products we may forward information you supply to us to your SAFECO Independent Insurance Agent or Financial Advisor. We do this so they can service your account or contact you with additional information about our products.
+> 
+> **Cookies**  
+>  Our website sends cookies to your computer. We use cookies to carry forward information you entered on one page to other pages you visit. The data in the cookies we serve can be used only by our web site and do not contain your personal information. Our cookies do not read data from your computer's hard disk or other web sites' cookies.
+> 
+> SAFECO does not serve or use cookies that store and track your visits to other web sites.
+> 
+> **Browsers & Security**  
+>  We use Secure Socket Layer (SSL) encryption technology. SSL protects information as it crosses the Internet. You can tell if you are visiting a secure area by looking at the padlock symbol at the bottom of your browser screen. If it is "locked," you have a secure session.
+> 
+> SAFECO has security measures in place to protect the loss, misuse, and alteration of your personal information. Our servers are located in the United States of America and are designed to prevent unauthorized access.
+> 
+> **Links to other sites**  
+>  SAFECO.com contains links to other web sites. These other web sites are not under SAFECO's direct control, and they may collect information about you that SAFECO does not. We are not responsible for the privacy practices or the content of linked web sites.
+
+#### Protecting your personal information from unauthorized access
+
+We limit employee access to customer information to those employees with a legitimate business reason for such access. We maintain physical, electronic and procedural safeguards to protect your personal information from being accessed by unauthorized persons.
+
+#### Your medical information
+
+SAFECO obtains medical information only in connection with specific products or claims. We will not use or share personally identifiable medical information for any purpose other than the underwriting or administration of your policy, claim or account, or as otherwise disclosed to you when the information is collected.
+
+#### SAFECO Affiliates not subject to this policy
+
+This policy applies to all members of the SAFECO family of companies except Talbot Financial Corporation, a wholly owned subsidiary.
+
+#### Changes to this statement
+
+We may occasionally make changes to this statement. Any change will be posted on this page.
