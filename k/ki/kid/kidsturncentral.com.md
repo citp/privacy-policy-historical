@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the kidsturncentral.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604013147id_/http%3A//kidsturncentral.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsturncentral.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208214640id_/http%3A//www.kidsturncentral.com/privacy.htm) for the most accurate reproduction.*
 
 # Kids' Turn Central - Privacy Policy
 
 **Privacy Statement** **Kids/Parents:**  
 When using kidsturncentral.com you may be asked to provide your e-mail address and age to participate in some areas of the site. If you are under the age of 13, we will also ask you for your parent or guardian's e-mail address, so we can let them know you may be participating in the site. No email addresses are stored, or sold. We will not use this information to contact you, only to allow you to participate on the site. 
 
-You may also be asked to create a screen name and password in order to participate in certain areas of the site. If you are asked to create a screen name, please do not use your real name. kidsturncentral.com forums are run through Delphi.com. Read their [Privacy Policy](http://www.delphi.com/dir-html/privacy.html). 
+You may also be asked to create a screen name and password in order to participate in certain areas of the site. If you are asked to create a screen name, please do not use your real name. kidsturncentral.com forums are run through Delphi.com. Read their [Privacy Policy](http://www.delphiforums.com/privacy.html). 
 
-The kidsturncentral chat room* is run through Parachat. The chat room will only be open when an adult supervisor is available to monitor. Misbehavior in the chat room will not be tolerated. Personal information is not required to log into chat. Only use of a nickname is required. Strick rules are enforced, those breaking rules are banned immediately. 
+The kidsturncentral chat room* is run through Parachat. The chat room will only be open when an adult supervisor is available to monitor. Misbehavior in the chat room will not be tolerated. Personal information is not required to log into chat. Only use of a nickname is required. Strick rules are enforced, those breaking rules are banned immediately. [Parachat Privacy Policy](http://www.parachat.com/faq/privacypolicy.html). Kids Turn Central [Chat Rules](https://web.archive.org/chat/chatrules.htm). 
 
 You are encouraged to surf with parental permission. 
 
