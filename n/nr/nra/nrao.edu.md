@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrao.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202162904id_/http%3A//www.nrao.edu/policy/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrao.edu privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606230704id_/http%3A//www.nrao.edu/policy/privacy.shtml) for the most accurate reproduction.*
 
 # NRAO Privacy Policy
 
