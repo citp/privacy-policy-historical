@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628060105id_/http%3A//www.greenfieldonline.com/memberservices/Privstate.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2003-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031227045806id_/http%3A//greenfieldonline.com/memberservices/Privstate.htm) for the most accurate reproduction.*
 
 # Greenfield Online
 
@@ -37,7 +37,7 @@ If you take a survey or provide us with personal information without being a mem
 
 ### Use of This Information 
 
-Greenfield Online does not sell or transfer the personally indentifiable information collected about the members of its panels or the individuals that take surveys for us. Information which is personally indentifiable will only be transferred with your prior permission on a case by case basis. If you are a member of the **Greenfield Online** panel, your information is stored in our proprietary database so we may call upon it to determine which people match up with specific research studies. If we think your profile makes you a potential candidate for a study, we will email you an invitation to make you aware of this opportunity. From time to time **Greenfield Online** may use third-party software for email list management and email distribution. In such cases only a minimum amount of information is transferred to these third parties so as to enable them to perform specific functions on out behalf. 
+Greenfield Online does not sell or transfer the personally indentifiable information collected about the members of its panels or the individuals that take surveys for us. Information which is personally indentifiable will only be transferred with your prior permission on a case by case basis. If you are a member of the **Greenfield Online** panel, your information is stored in our proprietary database so we may call upon it to determine which people match up with specific research studies. If we think your profile makes you a potential candidate for a study, we will email you an invitation to make you aware of this opportunity. From time to time **Greenfield Online** may use third-party software for email list management and email distribution. In such cases only a minimum amount of information is transferred to these third parties so as to enable them to perform specific functions on our behalf. 
 
 ### The Use of Cookies on Our Site 
 
