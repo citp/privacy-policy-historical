@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204040237id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailchimp.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306043832id_/http%3A//www.mailchimp.com/privacy.phtml) for the most accurate reproduction.*
 
 # MailChimp Privacy Policy
 
 _Last edited: 08/16/2004_
 
 MailChimp is a product of **[The Rocket Science Group, LLC](http://www.rocketsciencegroup.com/)**.  
-We can be reached via e-mail [by clicking here...](https://web.archive.org/web/20041204040237id_/http%3A//www.mailchimp.com/contact.phtml)  
+We can be reached via e-mail [by clicking here...](https://web.archive.org/web/20050306043832id_/http%3A//www.mailchimp.com/contact.phtml)  
 or you can reach us by telephone at (678) 999-0141  
 
 
@@ -48,7 +48,7 @@ The information we collect is used to improve the content of our Web page, not s
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart and temporarily store session information, so that registered users do not have to login everytime they visit the site..
 
-If you do not want to receive e-mail from us in the future, please let us know by or [sending an email](https://web.archive.org/web/20041204040237id_/http%3A//www.mailchimp.com/contact.phtml)
+If you do not want to receive e-mail from us in the future, please let us know by or [sending an email](https://web.archive.org/web/20050306043832id_/http%3A//www.mailchimp.com/contact.phtml)
 
 If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services, or changes to your account. If you do not wish to receive such mailings, please let us know by or sending an email to accountservices@mailchimp.com.
 
