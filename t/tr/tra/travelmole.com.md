@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209094858id_/http%3A//www.travelmole.com/service/help/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelmole.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616205644id_/http%3A//www.travelmole.com/service/help/help_privacy.php) for the most accurate reproduction.*
 
 # TravelMole - Privacy Policy
 
@@ -51,7 +51,7 @@ When our registration/order form asks users to enter sensitive information (such
 If you have any questions about the security at our website, you can send an email to [service@travelmole.com](mailto:service@travelmole.com)
 
 **Correcting/Updating Personal Information**  
-If a user’s personally identifiable information changes (such as your postcode), or if a user no longer desires our service, we will endeavour to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the personal profile page or by sending an email to [service@travelmole.com](mailto:service@travelmole.com)
+If a user’s personally identifiable information changes (such as your postcode), or if a user no longer desires our service, we will endeavour to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the [personal profile page](https://web.archive.org/web/20040616205644id_/http%3A//www.travelmole.com/profile.php?PHPSESSID=1f76d36be14d49485168860635a0631a) or by sending an email to [service@travelmole.com](mailto:service@travelmole.com)
 
 **Notification of Changes**  
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
