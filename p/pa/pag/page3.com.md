@@ -1,105 +1,47 @@
-> *The following text is extracted and transformed from the page3.com privacy policy that was archived on 2004-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040208030803id_/http%3A//www.page3.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page3.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230044805id_/http%3A//www.nidp.com) for the most accurate reproduction.*
 
-# Page3.com - PRIVACY POLICY
+# News International Data Protection
 
-PRIVACY POLICY - NEWS GROUP NEWSPAPERS LTD. 
+Data Protection Notice
 
-**News Group Newspapers Limited** takes the privacy of all its users and customers very seriously, and takes great care with user and customer information. This Privacy Statement outlines how your personal information is treated and forms part of the [Terms and Conditions](https://web.archive.org/termsandconds.html) of this site. We may occasionally modify our Privacy Statement, and when this happens, we will notify you via our homepage. 
+This notice explains how we will process your personal information.
 
-**What information do we collect?**  
-In order to provide our users and customers with a range of services, we may collect personal information from our websites, from telephone responses, from written information sent to us and from other communications. We may for example, keep a record of your name, mailing address, email address, telephone number, gender and preferences. 
+When you provide personal information to The Sun or News of the World, the data controller is News Group Newspapers Limited.
 
-Unless you have voluntarily given us the information, or we have legally permitted reasons for processing it without your consent, we will always ask for your explicit consent if we need to process any data categorised as "sensitive" by the Data Protection Act, 1998. 
+When you provide personal information to The Times or The Sunday Times, the data controller is Times Newspapers Limited.
 
-Information defined under the Data protection Act, 1998 as "Sensitive Personal Data" is as follows: 
+If another company is the data controller, this will be made clear when you provide your personal information.
 
-  * Information as to the racial or ethnic origin of the data subject; 
-  * Their religious beliefs or other beliefs of a similar nature; 
-  * Their political opinions; 
-  * Whether they are a member of a Trade Union; 
-  * Their physical or mental health or condition; 
-  * Their sexual life; 
-  * The commission or alleged commission by them of any offence, or 
-  * Any proceedings for any offence committed or alleged to have been committed by them, the disposal of such proceedings or the sentence of any court in such proceedings. 
+News Group Newspapers Limited and Times Newspapers Limited are part of the News International Limited group of companies whose registered address is 1 Virginia Street London E98 1XY. 
 
-**How do we use your information?**
+The data controller will use your information together with other information for administration (including providing any goods, services or information you have requested), marketing, credit scoring, customer services and profiling your purchasing preferences. We will disclose your information to our service providers and agents for these purposes. We may keep your information for a reasonable period.
 
-Any personal data relating to you will be used and recorded by us in accordance with current data protection legislation and this Privacy Statement. 
+When you visit one of our websites, we may send you a cookie. A cookie is a small file that can be placed on your computer’s hard disk for record keeping purposes and we may use them to do a number of things:
 
-We may use your personal information to communicate with you, for record keeping purposes, and in aggregate (and therefore anonymously) for market research purposes, to track activity on our web sites, to publish trends or to improve usefulness and content. 
+| 
 
-**In addition:**
+Cookies help us to recognise you when you next visit one of our websites and note the advertisements displayed to you. This allows us to tailor the advertisements we provide to your preferences. We may use the services of third party ad servers for this purpose.  
+  
+---|---  
+  |    
+| 
 
-We would like to use the details you give us to inform you of products and services in which you might be interested. 
+Cookies may be used to compile anonymous statistics related to the take up or use of services, or to patterns of browsing. A third party collects such data on our behalf to measure web site performance. Information collected is aggregated for reporting purposes. No personally identifiable information is collected by this service. The use of this service assists us in measuring and improving the structure and ease of use of our web sites.  
+  
+You are not obliged to accept cookies and may modify your browser so that it will not accept cookies.[ **Click here**](http://www.allaboutcookies.org/) for instructions on how to manage cookies. Please be aware that if you disable cookies, many services on our websites will not be available to you.
 
-We may also share your personal information with: 
+If you apply for credit then to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
 
-  * **Associated companies** including the following: News International plc, Times Newspapers Ltd, News Group Newspapers Ltd, News Network Ltd, News Promotions Ltd, TSL Education Ltd, NI Syndication Ltd, News Omnimedia Ltd, NI Syndication Ltd, News International Advertisements Ltd, Homeground Marketing Ltd. 
-  * **Other companies** approved by us so that they may send you details of products and services in which you may be interested.
+We would like to share your information with organisations who are our business partners. We or they may contact you by mail, telephone, SMS or e-mail to let you know about any goods, services or promotions which may be of interest to you. When you give us your personal information, we will give you the opportunity to opt out of receiving such information by post or telephone from us but remember that this will preclude you from receiving any of our special offers or promotions in future. We will also give you the oppportunity to opt in to receive such information by e-mail or SMS and will only send it to you if you do opt in or if you are an existing customer and the information relates to similar goods or services to those which you have previously purchased from us. You will also have the opportunity to opt [out of receiving]/[in to receive] information from our business partners and other third parties.
 
-Because the Internet is an international medium, these companies may be both inside and outside the European Economic area. 
+You may also exercise your right to opt out of the use of your information for marketing purposes at any time by contacting us by the methods explained at the end of this notice. 
 
-**Your choice** : When asking you for your details, we will give you the opportunity to opt out of these additional uses of your data. The Unsubscribe section at the end of this policy also tells you how you may opt out.
+By returning or submitting a form with your personal information to us, you consent to:  
+a) our processing your sensitive personal data such as health data for the above purposes; and  
+b) our transferring your information to countries which do not provide the same level of data protection as the UK if necessary for the above purposes. If we do make such a transfer we will put a contract in place to ensure your information is protected. 
 
-We will endeavour to ensure there is adequate and appropriate protection for any personal data transferred outside the European Economic Area (which includes the United Kingdom).  
-In the unlikely event that this website and the customer data relating to it are sold to another data controller, we will endeavour to ensure that your rights and freedoms in respect of the processing of your personal data are adequately and appropriately protected.
+You have a right to ask for a copy of your information (for which we charge a small fee) and to ask us to correct any inaccuracies in your personal information (which is free). To make sure we follow your instructions correctly and to improve our service to you through training of our staff, we may monitor or record telephone calls.
 
-We reserve the right to pass on your personal information to any law enforcement agencies requesting it in connection with the commission of any offence, once we are reasonably satisfied as to the circumstances surrounding the request.
+When you give us information about another person, you confirm that they have appointed you to act for them, to consent to the processing of their personal data, including sensitive personal data and to the transfer of their information abroad and to receive on their behalf any data protection notices. 
 
-**Security**
-
-We take every precaution to protect your personal information. When we ask you to submit sensitive personal financial information, such as your credit card number, we use industry standard Secure Sockets Layer (SSL) encryption technology, making these pages secure. In addition, we have strict security protocols in place to protect our customer database, and only allow access to it when absolutely necessary, and then under strict guidelines as to what use may be made of such details.
-
-Our websites may contain links to other websites, and you should be aware that we are clearly not responsible for the privacy practices on other sites. We recommend that you individually check the privacy statements of each and every other website that you visit.
-
-**Surveys and User Groups**
-
-We always aim to improve the services we offer. As a result we occasionally canvass our customers using surveys. Participation in surveys is voluntary, and you are under no obligation to reply to any survey you might receive from us. Should you choose to do so, we will treat the information you provide with the same high standard of care as all other customer information.
-
-From time to time, we ask customers whether they wish to participate in User Groups, often to assist us in the development of new features, services or sites. Participation in User Groups is voluntary, and you are under no obligation to join any User Group. Should you choose to join a User Group, however, we will treat the information you provide with the same high standard of care as all other customer information.
-
-**Contests**
-
-Your participation on our sites may mean that we occasionally contact you with the opportunity to enter competitions. Entry to competitions is voluntary, and you are under no obligation to take up an invitation from us to enter. Should you choose to enter a competition, we will treat the information you provide with the same high standard of care as all other customer information, and use the information provided strictly within the entry terms of the competition and this Privacy Statement.
-
-**Email a Friend**
-
-We may from time to time operate a "Tell a friend" service. This is a referral service, designed to make it easy for customers to recommend our websites or offers to a friend, and is a two-step process. First, a customer sends us the friend's name and email address, and secondly, we contact the friend, telling them who we are, and inviting them to take advantage of a particular offer, or to visit our website. When we contact your friend, we always advise them of the name and email address of the friend who made the original referral . We will not use your friend's details for any other purpose.
-
-**Cookies**
-
-When you first visit one of our websites, upon entering your name and address, we may send you a cookie. A cookie is a small file that can be placed on your computer's hard disc for record keeping purposes, and we may use them to do a number of things:
-
-    * Cookies help us to recognise you when you next visit one of our websites and note the advertisements displayed to you. This allows us to tailor the service we provide to your preferences; 
-    * Cookies may be used to compile anonymous statistics related to the take up or use of services, or to patterns of browsing. When used in this manner, you are not individually identified, and data collected in this manner is only used in aggregate. 
-You are not obliged to accept a cookie from us, or any other web site, and may modify your browser so that it will not accept cookies at your discretion. Here are instructions on how to do this for Netscape and Internet Explorer browsers:
-
-**_If you do not wish to receive cookies from us or any other website, you can turn cookies off on your browser._**
-
-**Internet Explorer:**
-
-**_Here is how you turn off cookies for Internet Explorer 5.0: First, on your top menu, click on "Tools", and then click on "Internet Options". This will bring up the "Internet Options" Dialogue Box. On the top of the dialogue box, click on "Security", then "Custom Level" or "Customize" This will bring up the "Security Settings" box. Scroll down using the scroll bar on the right hand side of the box, until you come to the section carrying the title "allow cookies to be stored on your computer". Of the options available, click on "Disable", and then click the "OK" button on the bottom of the menu box. Following these instructions will stop your computer from accepting cookies in future. You may reconfigure your computer to accept cookies again by following these instructions, but by selecting "Enable", and clicking on the "OK" button on the bottom of the menu box."_**
-
-**_To download the current version of Internet Explorer, go to_**
-
-<http://www.microsoft.com/uk/windows/ie5/>
-
-**Netscape Navigator:**
-
-**_Here is how you turn cookies off for Netscape Communicator 4.7: First, on your top menu, click on "Edit", and then click on "Preferences". This will bring up the "Preferences" menu box. From the options on the left hand side, select "Advanced" which will bring up another menu. Half way down, you will see a section on cookies, and if you wish to turn cookies off, you should select "Disable", and then click the "OK" button on the bottom of the menu box. You may reconfigure your computer to accept cookies again by following these instructions, but by selecting "Accept All Cookies," and then clicking the "OK" button on the bottom of the menu box._**
-
-**_To download a current version of Netscape Navigator, go to:_**
-
-<http://home.netscape.com/computing/download/index.html>
-
-Some of our associated companies may themselves use cookies on their own websites. We have no access to, or control of these cookies, should this occur. 
-
-**Unsubscribe**
-
-We hope that you will be delighted with the range of services you are offered. However, you may request that your personal information is not used in the ways outlined above. This is called unsubscribing, and may be achieved by any of the following methods:
-
-Email us at [master@page3.com](mailto:master@page3.com), or Telephone us between 9.00am and 5.00pm seven days per week on: 020 7860 1133 Or write to us at: Unsubscribe, The Customer Liaison Department, 1, Virginia Street, London, E98 1RL.  
-Please allow forty days for the unsubscribe process to be completed. 
-
-
-
+**How to contact us**
