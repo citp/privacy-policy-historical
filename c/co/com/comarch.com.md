@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comarch.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623045345id_/http%3A//www.comarch.com/en/privacy%2Bpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comarch.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209203354id_/http%3A//www.comarch.com/en/privacy%2Bpolicy.htm) for the most accurate reproduction.*
 
 # COMARCH - Knowledge Experience Technology
 
