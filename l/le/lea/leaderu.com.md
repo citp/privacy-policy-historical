@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaderu.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603220829id_/http%3A//www.leaderu.com/menus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaderu.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203050304id_/http%3A//www.leaderu.com/menus/privacy.html) for the most accurate reproduction.*
 
 # Leadership University Privacy Policy
 
