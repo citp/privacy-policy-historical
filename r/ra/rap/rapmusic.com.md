@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapmusic.com privacy policy that was archived on 2003-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031018164537id_/http%3A//www.rapmusic.com/rapmusic/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapmusic.com privacy policy that was archived on 2004-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040326070119id_/http%3A//www.rapmusic.com/rapmusic/privacy.php) for the most accurate reproduction.*
 
 # Rapmusic.com - Rap / Hip hop music and culture. Your total source for Rap/Hip-hop Entertainment and Information Online.
 
@@ -39,4 +39,4 @@ If you have any questions on our privacy policy, the practices of this site, or 
   
 Copyright © 1998-2002 800Media, Inc. All Rights Reserved.  
 No portions of this site may be duplicated without permission from 800Media, Inc. Design by cypherworkz.com.  
-[Privacy Policy](http://www.rapmusic.com/rapmusic/privacy.php)
+**[Advertising](http://www.rapmusic.com/rapmusic/advertising.php)** | [Privacy Policy](http://www.rapmusic.com/rapmusic/privacy.php)
