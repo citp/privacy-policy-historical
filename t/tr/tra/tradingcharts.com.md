@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402225906id_/http%3A//www.tradingcharts.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingcharts.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206035202id_/http%3A//www.tradingcharts.com/privacy_statement.html) for the most accurate reproduction.*
 
 # TradingCharts.Com, Inc. Privacy Statement
 
@@ -27,9 +27,6 @@
  
 **Why and how we use "cookies" ...**
     TradingCharts.Com, and thousands of other web sites use cookies extensively to enhance the experience of visitors to our site. Cookies can be used to temporarily store information that you have provided to our site in the course of your visits. Cookies are used on our site solely to store your "preferences" on our site. For example, if you use the "My Menu" feature of our site, a cookie is used to remember the selections you made for your customized menu. Similarly, a cookie is used to "remember" the settings you use when viewing a chart, so that the next time you view a chart you will not have to enter your settings again. At no time is personal information recorded in a cookie used on our site. At no time is the content of a cookie served from our site available to anything except our web server software.
- 
-**Third Party Advertising**
-    We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <<http://www.networkadvertising.org/optout_nonppii.asp>>
  
 **Third Party Cookies**
     In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
