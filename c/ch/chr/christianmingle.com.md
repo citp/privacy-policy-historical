@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the christianmingle.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212024219id_/http%3A//www.christianmingle.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianmingle.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619083754id_/http%3A//www.christianmingle.com/privacy.html) for the most accurate reproduction.*
 
-# CHRISTIAN SINGLES MINGLE: Online Christian Dating Services & Personals Network. 2003-12-11 - 2003-12-11
+# CHRISTIAN SINGLES MINGLE: Online Christian Dating Services & Personals Network. - 2004-06-19
 
 Privacy Policy
 
