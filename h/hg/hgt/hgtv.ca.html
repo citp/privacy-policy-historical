@@ -1,160 +1,492 @@
-<!--The following is the downloaded HTML source of the hgtv.ca privacy policy that was archived on 2001-10-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011029181409id_/http%3A//hgtv.ca/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hgtv.ca privacy policy that was archived on 2002-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020610033923id_/http%3A//hgtv.ca/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
-<title>HGTV Canada - Privacy</title>
-<link rel="STYLESHEET" type="text/css" href="inc/hgtv.css">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="JavaScript" src="inc/preload.js"></script>
-<!-- My new code -->
-<script language="JavaScript" src="/includes/AAC_Engage_Banners.js"></script> 
+	<title>HGTV :: Privacy Policy</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	<link rel="stylesheet" href="/css/main.css" type="text/css">
+	<link rel="stylesheet" href="/css/main_new.css" type="text/css">
+	
+<!--include virtual="/includes/timezone_sniffer.asp"-->
+	
+	<script language="JavaScript" src="/includes/javascripts.js"></script>
+
+<script language="javascript">
+<!--
+	function init() {
+	MM_preloadImages('/imagescommon/nav_home_over.gif','/imagescommon/nav_garden_over.gif','/imagescommon/nav_tv_over.gif','/imagescommon/nav_etools_over.gif','/imagescommon/nav_whatshot_over.gif');
+		//MM_preloadImages('images/common/nav_home_over.gif','images/common/nav_garden_over.gif','images/common/nav_tv_over.gif','images/common/nav_etools_over.gif','images/common/nav_whatshot_over.gif');
+	}
+//-->
+
+function submitNewsletter() {
+			//document.forms.newsletterForm.action = '/newsletter_submission.asp';
+			document.forms.newsletterForm.action = '/newsletter_submission.asp';
+
+			document.forms.newsletterForm.target = 'newsletter_results';
+			document.forms.newsletterForm.method = 'post';
+			windowReference = window.open('','newsletter_results', "height=160,width=400");
+			//document.newsletterForm.EMail_Address.value='';
+}
+
+function openWindow(theURL) {
+			//windowReference = window.open('theURL','newWindow',"height=500,width=400");
+			window.open(theURL);
+}
+
+function validateNewsletter(){
+	if ((document.newsletterForm.EMail_Address.value!=='') && (document.newsletterForm.EMail_Address.value.indexOf('@') !== -1) && (document.newsletterForm.EMail_Address.value.indexOf('.') !== -1)){
+	//if ((formObj.EMail_Address.value == "") || (formObj.EMail_Address.value.indexOf('@') == -1) || (formObj.EMail_Address.value.indexOf('.') == -1)){
+		submitNewsletter();
+		return true;
+	}
+	else{
+		alert("Please enter a valid Email Address.");
+		return false;
+	}
+	return false;
+}
+</script>
+<script language="JavaScript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
 </head>
-<body bgcolor="#FFFFFF" text="#000000" link="#0099FF" vlink="#0099FF" alink="#0099FF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('images/buttons/program_schedule_on.gif','images/buttons/show_hosts_on.gif','images/buttons/show_info_on.gif','images/buttons/expert_ideas_on.gif')">
-<script src="http://alliance.adbureau.net/jserver/SITE=HGTV/AREA=DHTML/AAMSZ=468X60"></script> 
-<table width="775" border="0" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr> 
-    <td width="150" valign="top"><a href="/default.asp" valign="top"><img src="/images/logos/hgtv_logo.gif" width="150" height="60" border="0"></a></td>
-    <td width="475" align="center" valign="top">
-<script src="http://alliance.adbureau.net/jserver/SITE=HGTV/area=/aamsz=468x60"></script>
-	 </td>
-    <td width="150" align="right" valign="top"> 
-      <div align="center"></div>
+<body bgcolor="#FFFFFF" text="#000000" onload="init();">
+<meta name="keywords" content="HGTV, Home and Garden, Home, Garden, Decor, Free ecard, TV, television, home decorating, entertaining, gardening advice, home decorating advice, canada, home decor">
+<meta name="author" content="Home and Garden Televison Canada : HGTV.ca">
+<meta name="description" content="HGTV.ca was re-launched in November 2001 to bring online visitors helpful, comprehensive, entertaining and interactive information about HGTV. Whether looking to read home décor articles and gardening advice, find sewing project instructions, print the TV Schedule or send an eCard to a friend, HGTV.ca offers visitors a welcoming home online.">
+<!-- BEGIN TOP BANNER -->
+<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+    <td width="152" valign="top"><a href="/etools/helpers/wallpaper.asp"><img src="/images/ads/free_wallpaper_button.gif" width="152" height="60" border="0"></a></td>
+    <td width="10"><img src="/images/common/single.gif" width="10" height="1"></td>
+    <td width="468" valign="top">
+<script src="http://alliance.adbureau.net/jserver/SITE=HGTV/area=HOME/aamsz=468x60"></script>
     </td>
+    <td width="10"><img src="/images/common/single.gif" width="10" height="1"></td>
+    <td width="120" valign="top"><a href="/newsletter.asp" class="utilitylinks"><img src="/images/ads/newsletter_button_spring.gif" width="120" height="60" border="0"></a></td>
+<!-- <a href="javascript:;" onClick="window.open('/newsletter.asp', 'Tags', 'width=400,height=460,menubar=no,location=no,scrollbars=auto,resize=no')" class="utilitylinks"> -->
   </tr>
-  <tr> 
-    <td width="150" valign="top"><br>
-      <div align="center">
-	   		<a href="/schedule.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','/images/buttons/program_schedule_on.gif',1)"><img src="/images/buttons/program_schedule_off.gif" width="150" height="26" border="0" name="Image1" alt="Program Schedule"></a><br>
-      <a href="/hostlist.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','/images/buttons/show_hosts_on.gif',1)"><img src="/images/buttons/show_hosts_off.gif" width="150" height="18" border="0" alt="Show Hosts" name="Image2"></a><br>
-      <a href="/showlist.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','/images/buttons/show_info_on.gif',1)"><img src="/images/buttons/show_info_off.gif" width="150" height="19" border="0" name="Image3" alt="Show Info"></a><br>
-      <a href="/tipslist.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','/images/buttons/expert_ideas_on.gif',1)"><img src="/images/buttons/expert_ideas_off.gif" width="150" height="19" border="0" name="Image4" alt="Expert Ideas"></a><br>
-      <a href="/workshop.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','/images/buttons/project_plans_on.gif',1)"><img src="/images/buttons/project_plans_off.gif" width="150" height="22" border="0" name="Image5" alt="Project Plans"></a><br>
-<!-- New Code Here 
-      <a href="/workshop.asp"><img src="/images/buttons/workshop_button.gif" width=150 height=30 alt="" border="0"></a><br> -->
-<!-- New Code Ends Here -->
-		<img src="/images/buttons/nav_divider.gif"> <br>
-		<table bgcolor="#0099CC" cellspacing="0" cellpadding="0" border="0" width="120"><tbody><tr><td>
-      <table cellspacing="2" cellpadding="2" border="0" width="120">
-        <tbody><tr>
-          <td align="center"><a href="contests.asp" class="black"><img src="images/buttons/contest_module.gif" width="120" height="25" alt="" border="0"></a></td>
+  <tr>
+    <td colspan="5" height="10"><img src="/images/common/single.gif" width="1" height="5"></td>
+  </tr>
+</tbody></table>
+<!-- END TOP BANNER -->
+
+
+
+<!-- BEGIN BODY TABLE -->
+<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr>
+		<!-- BEGIN HOME BODY TITLE AREA -->
+    <td colspan="3" width="628" valign="top" height="80" background="/images/common/header_mainpage.jpg"> 
+		<table width="628" border="0" cellspacing="0" cellpadding="0" height="80" background="images/common/single.gif">
+        <tbody><tr> 
+          <td width="183" rowspan="2"><a href="/default.asp"><img src="/images/common/single.gif" width="183" height="80" border="0" alt="Home"></a></td>
+          
+      <td align="right" valign="bottom" width="444" height="76"><span class="utilitylinks"><a class="utilitylinks" href="/help.asp">FAQS</a> 
+        | <a class="utilitylinks" href="/aboutus.asp">about us</a> | <a class="utilitylinks" href="/contact.asp">contact 
+        us</a> | <a class="utilitylinks" href="/contests.asp">contests</a> | <a href="newsletter.asp" class="utilitylinks">newsletters</a>&nbsp;</span></td>
         </tr>
         <tr> 
-          <td bgcolor="#FFFFFF">
-<p class="contest"><img src="images/buttons/contest_arrow.gif" width="4" height="10" alt="" border="0"> 
-              <a href="http://www.newtvchannels.com/media/contest.asp" target="_blank" class="contest">Made for TV contest</a> <br>
-              From hbc.com and newTVchannels.com </p>
-            </td>
+          <td width="444" height="4"><img src="/images/common/single.gif" width="1" height="4" border="0" alt="Home"></td>
         </tr>
-      </tbody></table>
-</td></tr></tbody></table>
-
-		<br>
-		<script language="JavaScript">document.write(AAC_Engage_Banner("SITE=HGTV/AREA=BUTTON3/AAMSZ=120x90",120,90))</script><a href="https://web.archive.org/web/20010920145911/http://alliance.adbureau.net/accipiter/adclick/SITE=HGTV/AREA=BUTTON3/AAMSZ=120x90/ACC_RANDOM=1582143286834" target="_blank"><img src="https://web.archive.org/web/20010920145911/http://alliance.adbureau.net/accipiter/nserver/SITE=HGTV/AREA=BUTTON3/AAMSZ=120x90/ACC_RANDOM=1582143286834" border="0" height="90" width="120&quot;"></a>
-<!-- New Code Here -->
-		<br>
-		<script language="JavaScript">document.write(AAC_Engage_Banner("SITE=HGTV/AREA=BUTTON1/AAMSZ=120x90",120,90))</script><a href="https://web.archive.org/web/20010920145911/http://alliance.adbureau.net/accipiter/adclick/SITE=HGTV/AREA=BUTTON1/AAMSZ=120x90/ACC_RANDOM=1582143286835" target="_blank"><img src="https://web.archive.org/web/20010920145911/http://alliance.adbureau.net/accipiter/nserver/SITE=HGTV/AREA=BUTTON1/AAMSZ=120x90/ACC_RANDOM=1582143286835" border="0" height="90" width="120&quot;"></a>
-		<br>
-		<script language="JavaScript">document.write(AAC_Engage_Banner("SITE=HGTV/AREA=BUTTON2/AAMSZ=120x90",120,90))</script><a href="https://web.archive.org/web/20010920145911/http://alliance.adbureau.net/accipiter/adclick/SITE=HGTV/AREA=BUTTON2/AAMSZ=120x90/ACC_RANDOM=1582143286835" target="_blank"><img src="https://web.archive.org/web/20010920145911/http://alliance.adbureau.net/accipiter/nserver/SITE=HGTV/AREA=BUTTON2/AAMSZ=120x90/ACC_RANDOM=1582143286835" border="0" height="90" width="120&quot;"></a>
-<!-- New Code Ends Here -->
-
-      </div>
-    </td> 
-    <td colspan="2" width="625" valign="top"> 
-            <!--- BEGIN MAIN CONTENT --->
-	
-      <h3>Privacy Policy</h3>
-      <p><b><br>
-        </b>This is the web site of&nbsp; <b>www.HGTV.com</b>. Our postal address 
-        is 121 Bloor St., Toronto, Ontario, M4W 3M5
-      </p><p><br>
-        We can be reached via e-mail at <a href="mailto:privacy@hgtv.ca">privacy@hgtv.ca</a> 
-        or you can reach us by telephone at 416.934.5254. 
-      </p><p><br>
-        For each visitor to our Web page, our Web server automatically recognizes 
-        the consumer's domain name and e-mail address (where possible). 
-      </p><p><br>
-        Please note that we collect the domain name, email address and other user-specific 
-        information of visitors to this website and use this information for specific 
-        purposes which are described below in this policy. By providing us with 
-        this information, you are consenting to the collection, disclosure and 
-        specific use of this information as described in this policy. You may 
-        withdraw this consent at any time by sending us an email at the above 
-        address. 
-      </p><p><br>
-        As mentioned, we collect the domain name and e-mail address (where possible) 
-        of visitors to our Web page, the e-mail addresses of those who communicate 
-        with us via e-mail, as well as aggregate information on what pages consumers 
-        access or visit, user-specific information on what pages consumers access 
-        or visit, information volunteered by the consumer, such as survey information 
-        and/or site registrations. 
-      </p><p><br>
-        The information we collect is used to improve the content of our Web page, 
-        used to customize the content and/or layout of our page for each individual 
-        visitor, used to notify consumers about updates to our Web site, used 
-        by us to contact consumers for marketing purposes. 
-      </p><p><br>
-        With respect to cookies: Cookies are used in a responsible manner to help 
-        our visitors. We use cookies to store visitors preferences, record session 
-        information, such as items that consumers add to their shopping cart, 
-        record user-specific information on what pages users access or visit, 
-        alert visitors to new areas that we think might be of interest to them 
-        when they return to our site, record past activity at a site in order 
-        to provide better service when visitors return to our site, to help rotate 
-        banner advertising, so to ensure that visitors are not repeatedly sent 
-        the same banner ads, customize Web page content based on visitors' browser 
-        type or other information that the visitor sends. We do not collect or 
-        use this information from cookies to develop a profile about our users. 
-      </p><p><br>
-        If you do not want to receive e-mail from us in the future, please let 
-        us know by sending us an e-mail at the above address. 
-      </p><p><br>
-        From time to time, we make the e-mail addresses of those who access our 
-        site available to other reputable organizations whose products or services 
-        we think you might find interesting. If you do not want us to share your 
-        e-mail address with other companies or organizations, please let us know 
-        by sending us an e-mail at the above address. If you supply us with your 
-        postal address on-line you may receive periodic mailings from us with 
-        information on new products and services or upcoming events. 
-      </p><p><br>
-        This site uses the services of Engage for the serving and/or targeting 
-        of ads, promotions and other marketing messages. To do this, Engage collects 
-        anonymous data about your visit to this and other Web sites, typically 
-        through the use of cookies. To learn more about Engage, including your 
-        ability to opt out of the Engage system, go to <a href="http://www.engage.com/privacy/" target="_blank">http://www.engage.com/privacy/</a> 
-      </p>
-      <br>
-<!---END MAIN CONTENT--->
-<br><br></td>
-  </tr>
-		  
-      </tbody></table>
- 
- 
-            <!---BEGIN TIPS LINK--->
-
-            <center>
-
-              <p class="tips">An Expert Idea: <a href="/tips.asp?sid=13&amp;targ=5&amp;grp=" class="tips">Square Dance With Your Deck Posts 
-                (click for more)</a> 
-
-            </p></center>
-            <!---END TIP--->
-			 
+		</tbody></table>
+    </td>
+<!-- END HOME BODY TITLE AREA -->
+    <td width="10"><img src="/images/common/single.gif" width="10" height="1"></td>
+    <td rowspan="4" valign="top" width="122" align="center">
+<!-- BEGIN BODY RIGHT AD COLUMN -->
 		
+<!--
+		<script src="http://alliance.adbureau.net/jserver/SITE=HGTV/area=BUTTON2/aamsz=120x90"></script><br>
+		<script src="http://alliance.adbureau.net/jserver/SITE=HGTV/area=BUTTON3/aamsz=120x90"></script><br>
+      <script src="http://alliance.adbureau.net/jserver/SITE=HGTV/AREA=SKY/AAMSZ=120X600"></script><BR>-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+  <td><script src="http://alliance.adbureau.net/jserver/SITE=HGTV/area=BUTTON1/aamsz=120x90"></script></td>
+</tr>
+<!-- 
+<tr>
+  <td><script src="http://alliance.adbureau.net/jserver/SITE=HGTV/area=BUTTON2/aamsz=120x90"></script></td>
+</tr>
+ -->
+<tr>
+  <td>
+		<script src="http://alliance.adbureau.net/jserver/SITE=HGTV/AREA=SKY/AAMSZ=120x600"></script>
+		<!--<a href="javascript:void window.open('/garden/spring_popup/default.htm','','width=656,height=615,menubar=no,location=no,scrollbars=yes');"><img src="/images/ads/celebrate_spring_sky.gif" border="0"></a>--> 
+	</td>
+</tr>
+</tbody></table>
 
-<table width="775" border="0" cellspacing="0" cellpadding="0" align="center">
-        <tbody><tr> 
-          <td bgcolor="#EEEEEE" valign="top"> <a href="http://www.allianceatlantis.com" target="_new"><img src="/images/logos/aa_logo.gif" width="65" height="35" border="0"></a> 
-          </td>
-          <td colspan="3" bgcolor="#EEEEEE" valign="bottom"> 
-            <div align="right"><a href="http://www.allianceatlantis.com/sales" class="footer" target="_blank">ADVERTISE 
-              </a> |<a href="/faq.asp" class="footer">FAQ</a> | <a href="/contact_us.asp" class="footer">CONTACT 
-              US</a> | <a href="privacy.asp" class="footer">PRIVACY POLICY</a> 
-              | <a href="/terms.asp" class="footer">TERMS &amp; CONDITIONS</a> 
-              | <a href="/copyright.asp" class="footer">COPYRIGHT</a> | <a href="http://www.allianceatlantis.com" target="_new" class="footer">CORPORATE</a></div>
-          </td>
-        </tr>
-      </tbody></table>
+	
+
+	
+	
+<!-- END BODY RIGHT AD COLUMN -->
+	 </td>
+  </tr>
+<!-- BEGIN BODY TOP MENU -->
+
+	<tr><td bgcolor="#990000">
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	    <tbody><tr> 
+	      <td><a href="/default.asp"><img src="/images/common/nav_title_mainpage.gif" width="183" height="17" alt="Home &amp; Garden Television" border="0"></a></td>
+	      <td><a href="/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('mainpage1','','/images/common/nav_mainpage_over.gif',1)"><img src="/images/common/nav_mainpage.gif" width="83" height="17" alt="MAIN PAGE" name="mainpage1" border="0"></a></td>
+			<td><a href="/home/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home1','','images/common/nav_home_over.gif',1)"><img src="/images/common/nav_home.gif" width="65" height="17" alt="HOME" name="home1" border="0"></a></td>
+	      <td><a href="/garden/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('garden1','','images/common/nav_garden_over.gif',1)"><img src="/images/common/nav_garden.gif" width="75" height="17" alt="GARDEN" name="garden1" border="0"></a></td>
+	      <td><a href="/tv/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tv1','','images/common/nav_tv_over.gif',1)"><img src="/images/common/nav_tv.gif" width="57" height="17" alt="TV" name="tv1" border="0"></a></td>
+	      <td><a href="/etools/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('etools1','','images/common/nav_etools_over.gif',1)"><img src="/images/common/nav_etools.gif" width="71" height="17" alt="eTOOLS" name="etools1" border="0"></a></td>
+	      <td><a href="/whatsHot/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('whatshot1','','images/common/nav_whatshot_over.gif',1)"><img src="/images/common/nav_whatshot.gif" width="94" height="17" alt="WHAT'S HOT" name="whatshot1" border="0"></a></td>
+	    </tr>
+	  </tbody></table>
+	</td>
+
+<!-- END BODY TOP MENU -->
+  </tr><tr valign="top">
+    <td colspan="3" valign="top" bgcolor="#9D899F"> 
+		 
+<p class="white"><b><br>
+  Quick Reference: <a class="whitelink" href="#terms">Terms of Use</a> | <a class="whitelink" href="#disclaimer">Disclaimer</a> 
+  | <a class="whitelink" href="/contact/">Contact Us</a></b><br>
+  <br>
+  <b><br>
+  USER AGREEMENT</b> </p>
+<p class="white">Alliance Atlantis Communications Inc. and its related and affiliated companies 
+  ("Alliance Atlantis") welcomes you to its family of web site(s). Using 
+  this web site(s) indicates your consent and agreement to be bound by this User 
+  Agreement and any policies or practices contained herein.</p>
+<p class="white"><b>A. PRIVACY POLICY </b></p>
+<p class="white">Your privacy and the integrity of any information you provide are important 
+  to us. We have developed the following policy pursuant to the Personal Information 
+  Protection and Electronic Documents Act, 2000 c.5. (the "Privacy Act").</p>
+<p class="white"> <b>We're Here To Protect You - What This Policy Is About:</b></p>
+<p class="white">This policy applies to the family of Alliance Atlantis web site(s) only. It 
+  is designed to inform you of how and why Alliance Atlantis gathers personal 
+  and non-personal information about you.</p>
+<p class="white">This web site(s) is connected by "hyperlinks" to other web site(s). 
+  We are not responsible in any way for the privacy practices on other web site(s) 
+  and suggest that you review the privacy policies on those linked web site(s) 
+  before using them.</p>
+<p class="white">We protect the personal information we gather and it is used or may be used 
+  or disclosed only to Alliance Atlantis, its affiliates and related companies, 
+  agents, suppliers, sponsors and advertisers to enhance products or services 
+  and our marketing to you. We are accountable for our Privacy Policy and our 
+  practices on our web site(s). If you have any questions or concerns regarding 
+  the privacy practices on this web site(s), please address them, in writing to 
+  the following e-mail address: <a class="whitelink" href="mailto:privacypolicy@allianceatlantis.com">privacypolicy@allianceatlantis.com</a></p>
+<p class="white"><b>What Information Is Collected?</b></p>
+<p class="white">Alliance Atlantis collects three kinds of information from our web site(s):</p>
+<p class="white">(1) your voluntarily provided personal information; (2) anonymous information 
+  about your visit, and: (3) "cookie" based information to help us track 
+  which pages on our web site(s) you're most interested in.</p>
+<p class="white"><b>1. Your Personal Information:</b></p>
+<p class="white">During normal Web site(s) usage, you can visit our site without communicating 
+  any personal information. However, to make use of certain features on our site, 
+  such as contests, quizzes, promotions, personalized services, subscriptions 
+  or newsletters, users may need to register with the Alliance Atlantis web site(s). 
+  As part of this voluntary registration, Alliance Atlantis may request contact 
+  information (such as name, mailing address, e-mail address, etc.) and other 
+  data required for operating these services. The only way we can collect personal 
+  information from you is if you voluntarily provide it to us with your consent. 
+  By voluntarily providing this personal information to us by sending us a comment 
+  or suggestion, by entering a chatroom or bulletin board, or by entering a contest 
+  that is posted on our web site(s), you will be consenting to the collection, 
+  use and distribution of your personal information by Alliance Atlantis for the 
+  purposes of running the contest and/or for distribution to sponsors who manage 
+  the contests and for purposes of marketing (for example the sponsor may directly 
+  contact the contestant to promote products and services) and/or distribution 
+  to third parties who may participate in chatrooms and bulletin boards on the 
+  web site(s). You are under no obligation to provide us with this personal information 
+  and can access and enjoy many parts of the Alliance Atlantis web site(s) without 
+  providing us any personal information. However, for clarity, please understand 
+  that by volunteering this personal information you are also agreeing to its 
+  collection, use and distribution for the purposes stated below.<br>
+  We will or may at our discretion, use the personal information collected in 
+  the following ways:</p>
+<ul>
+  <li class="white">To run contests, select entrants, and choose prize winners;<br>
+    <br>
+  </li>
+  <li class="white">To respond to your questions or the comments you e-mail to us;<br>
+    <br>
+  </li>
+  <li class="white">To provide you with newsletters or other information about our programming, 
+    special offers or services;<br>
+    <br>
+  </li>
+  <li class="white">To distribute to sponsors and advertisers who run the contests and/or for 
+    purposes of marketing by our sponsors and advertisers;<br>
+    <br>
+  </li>
+  <li class="white">To run chatrooms, discussion groups and bulletin boards;<br>
+    <br>
+  </li>
+  <li class="white">To keep aggregate information on web site(s) use.</li>
+</ul>
+<p class="white">You should be aware that when you share personal information in public areas 
+  of our web site(s), such as chat rooms, discussion groups or bulletin boards, 
+  this information might be seen and used by other members of the public. We urge 
+  you to exercise good judgment when sharing personal information in these forums.</p>
+<p class="white"><b>2. Anonymous Information About Your Visit:</b></p>
+<p class="white">When you visit our site, information about your visit (e.g. how you navigate 
+  the site) may be collected and stored. This information may include the length 
+  of your visit, the date and time of your visit, the pages you look at and the 
+  sites you visit before and after leaving our site. It does not include personally 
+  identifiable information such as your name, mailing or e-mail address or telephone 
+  number. We use this non-identifiable and aggregate information to better design 
+  our Web site(s). We also may share this information with our affiliates, suppliers, 
+  sponsors and advertisers. We collect the following non-identifiable information 
+  when you visit our web site(s):</p>
+<ul>
+  <li class="white">Your IP address<br>
+    <br>
+  </li>
+  <li class="white">Your Internet Service Provider (ISP)<br>
+    <br>
+  </li>
+  <li class="white">Your Web Browser</li>
+</ul>
+<p class="white"><b>3. "Cookie"-Based Information:</b></p>
+<p class="white">To tailor our site to the needs and interests of our visitors, we keep track 
+  of the pages visited by our users by placing a small entry-in text file, called 
+  a "cookie", on your hard drive. A cookie is transferred to your browser 
+  by a Web server and can only be read by the server that gave it to you.</p>
+<p class="white">Cookies do not reveal personal information. The only personal information a 
+  cookie can contain is information you supply yourself such as passwords, purchases 
+  and preferences. Cookies cannot read data from your hard drive.</p>
+<p class="white">You may visit the site with your cookies turned off. However, you may not be 
+  able to access some of the areas of our site, which require cookies for customization 
+  and personalization.</p>
+<p class="white">This site uses the services of Engage for the serving and/or targeting of ads, 
+  promotions and other marketing messages. To do this, Engage collects anonymous 
+  data about your visit to this and other Web sites, typically through the use 
+  of cookies. To learn more about Engage, including your ability to opt out of 
+  the Engage system, go to <a class="whitelink" href="http://www.engage.com/privacy/" target="_blank">http://www.engage.com/privacy/</a>.</p>
+<p class="white"><b>How Is My Personal Information Protected?</b></p>
+<p class="white">Alliance Atlantis is committed to protecting your personal information and 
+  has developed policies and procedures to ensure our compliance with our own 
+  Security and Privacy Policy and with applicable Federal and Provincial laws.</p>
+<p class="white">We also understand your concerns about online security and we do our best to 
+  prevent the loss, misuse or alteration of information under our control. We 
+  encourage parties linked to our site to follow similar practices, however we 
+  have no control over how other websites fulfill their obligations and conduct 
+  their privacy policies. We encourage you to review the privacy policies posted 
+  on the websites linked to our website.</p>
+<p class="white"><b>Will Alliance Atlantis Share My Information?</b></p>
+<p class="white">When you voluntarily provide Alliance Atlantis with personally identifiable 
+  information online, that information is kept within the Alliance Atlantis family 
+  of web site(s) and may be shared or distributed to our affiliates, partners, 
+  sponsors or advertisers.</p>
+<p class="white">As a general rule, the non-identifiable information and passive information 
+  we collect on our web site(s) will or may be shared with our affiliates, partners, 
+  sponsors or advertisers.</p>
+<p class="white">Our Web site(s) contains hyperlinks to other websites. While we encourage these 
+  organizations to follow similar security practices, Alliance Atlantis is not 
+  responsible for the policies or content of such Web site(s).</p>
+<p class="white"><b>How does the Privacy Policy deal with Children?</b></p>
+<p class="white">Children should always get permission from their parents before sending information 
+  about themselves (such as their names, e-mail addresses, and phone numbers) 
+  over the Internet. We will not knowingly encourage any minor to register with 
+  our site or to access those features which require registration. If a child 
+  has provided us with personal information, Alliance Atlantis asks that any concerned 
+  parent or guardian of the child contact us.</p>
+<p class="white"><b>Can I Opt Out?</b></p>
+<p class="white">By visiting our web site(s) and voluntarily providing personal information 
+  to the Alliance Atlantis web site(s), you agree to the terms of this online 
+  User Agreement and the Privacy Policy contained herein. If you do not want to 
+  be contacted for product, service or marketing initiatives, or do not agree 
+  with this Privacy Policy, do not provide us with any personal information. If 
+  you have already provided us with personal information and you would like to 
+  be removed from any direct marketing initiatives, or direct mail or e-mail list, 
+  please e-mail us or call * to remove your personal information from our lists.</p>
+<p class="white"><b>How Can I Correct Errors In My Information?</b></p>
+<p class="white">You can correct errors in your personally identifiable information by sending 
+  an e-mail to us or by contacting us at <a class="whitelink" href="mailto:privacypolicy@allianceatlantis.com">privacypolicy@allianceatlantis.com</a>.</p>
+<p class="white"><b>What If I Do Not Agree With Your Privacy Policy?</b></p>
+<p class="white">By visiting our web site(s) and voluntarily providing personal information 
+  to the Alliance Atlantis web site(s), you agree to the terms of this online 
+  User Agreement and the Privacy Policy contained herein. However, we welcome 
+  your comments and/or suggestions on improving our web site(s) and policies. 
+  If you do not agree to these terms, or wish to limit the use of any of your 
+  personal information that we may have, you may contact us.</p>
+<p class="white"><b><br>
+  <a name="terms"></a>B. TERMS OF USE</b></p>
+<p class="white">All content and information (including, but not limited to, broadcast schedules, 
+  guides, promotional contests, press releases, articles, plans, recipes, reviews, 
+  photos, images, illustrations, audio clips, and video clips) displayed on our 
+  web site(s) is owned or licensed by Alliance Atlantis and is protected by copyright 
+  and other intellectual property laws. Any names, titles, logos and designs displayed 
+  on the web site(s) that contain Alliance Atlantis names, titles, logos, or brands 
+  are the exclusive property and trademarks of Alliance Atlantis or its partners. 
+  You may not modify, publish, transmit, transfer, sell, reproduce, re-post or 
+  alter any such content. Alliance Atlantis hereby grants you a personal, non-exclusive, 
+  non-assignable and non-transferable license to use and display, for home, noncommercial 
+  and personal use only, one copy of any content that you may download from this 
+  web site(s). Any other use or reproduction of this web site(s), in whole or 
+  in part, will be considered to be a violation of Alliance Atlantis's intellectual 
+  property rights.</p>
+<p class="white">Your use of this web site(s) constitutes your agreement to abide by these terms 
+  of use included in this online User Agreement. Alliance Atlantis reserves the 
+  right to modify, alter or otherwise update this User Agreement at any time and 
+  visitors are encouraged to review this User Agreement from time to time.<br>
+  If you disagree with any of the above terms of use or any part of the User Agreement, 
+  do not use this Alliance Atlantis web site(s).</p>
+<p class="white"><b><br>
+  <a name="disclaimer"></a>C. DISCLAIMER</b></p>
+<p class="white">You are visiting this web site(s) at your own risk. Alliance Atlantis, its 
+  subsidiaries, affiliates, successors, assigns, agents, officers, directors, 
+  employees, representatives, licensors or licensees shall not be responsible 
+  for any damages of any nature arising out of or relating to the use of this 
+  web site(s) or any hyperlinked web site(s). </p>
+<p class="white">The material that appears on this web site(s) is for informational purposes 
+  only. Despite our efforts to provide useful and accurate information, errors 
+  may appear from time to time. Before you act on information you've found on 
+  this web site(s), you should confirm any facts that are important to your decision. 
+  Alliance Atlantis and its information providers make no warranty as to the reliability, 
+  accuracy, timeliness, usefulness or completeness of the information on the web 
+  site(s). Any opinion, view or idea contained in any article, story or column 
+  published on the web site(s) is the author's own and does not reflect or represent 
+  the views of Alliance Atlantis or any of its subsidiaries, affiliates, successors, 
+  assigns, agents, officers, directors, employees, representatives, partners, 
+  or licensees.</p>
+<p class="white">Alliance Atlantis is not responsible for, and cannot guarantee the performance 
+  of, goods and services provided by our advertisers or others to whose sites 
+  we link. A link to another web site does not constitute an endorsement of that 
+  site (nor of any product, service or other material offered on that site) by 
+  Alliance Atlantis or its licensors, affiliates, information providers, advertisers, 
+  sponsors or partners. The materials on this web site(s) and the hyperlinked 
+  third party sites are provided "as is" and without warranties or representations 
+  of any kind either express or implied including but not limited to the implied 
+  warranties of timeliness, merchantability, fitness or non-infringement. Further, 
+  Alliance Atlantis does not represent warrant or endorse the accuracy, reliability, 
+  completeness or timeliness of any information, content, views, opinions, recommendations 
+  or advertisements distributed through or accessed from any of the services contained 
+  on this web site(s). Alliance Atlantis does not represent, warrant or endorse 
+  any product, information or material that is displayed, purchased or obtained 
+  by you as a result of an advertisement or any other information or offer displayed 
+  on Alliance Atlantis web site(s) or any hyperlinked websites.</p>
+<p class="white">Alliance Atlantis does not warrant that the functions contained on its web 
+  site(s) or the third party hyperlinked websites will be error-free or accessible 
+  on an uninterrupted basis, that defects will be corrected, including Discussion 
+  Groups or bulletin boards, or that the server that makes the web site(s) available 
+  are free of viruses or other harmful components.</p>
+<p class="white">By visiting this web site(s) you are agreeing to save Alliance Atlantis, its 
+  subsidiaries, affiliates, successors, assigns, agents, officers, directors, 
+  employees, representatives and licensors harmless from any damages, actions 
+  or causes of actions that may now or hereinafter arise out of your use of the 
+  web site(s).</p>
+<p class="white"><br>
+  <b>D. JURISDICTION</b></p>
+<p class="white">Alliance Atlantis is a Canadian company with headquarters in Toronto, Ontario, 
+  Canada. Consequently, by visiting this web site(s) you agree that in all matters 
+  relating to this web site(s) you shall be governed by the laws of the province 
+  of Ontario or Canada, as applicable, and further, that you submit to the jurisdiction 
+  of the courts of the province of Ontario.</p>
+<p class="white">You may not use this web site(s) if law prohibits you from doing so in the 
+  country in which you reside.</p>
+<p class="white"><b><br>
+  E. SUBMISSIONS</b></p>
+<p class="white">Alliance Atlantis does not condone any lewd, defamatory, offensive or discriminatory 
+  submissions of its users. Alliance Atlantis monitors the contents of its chatrooms, 
+  discussion groups and bulletin boards and reserves the right to pull any submissions 
+  from the site at its sole discretion.</p>
+<p class="white">Alliance Atlantis reminds you to check this User Agreement from time to time 
+  as it may change without notice.</p>
+<p class="white">BY CONTINUING TO USE THE ALLIANCE ATLANTIS WEB SITE(S), YOU ARE 
+  AGREEING TO ABIDE BY ALL THE TERMS AND CONDITIONS SET OUT IN THIS USER AGREEMENT.<br>
+</p>
+<p class="white">&nbsp; </p>
+
+    </td>
+   </tr>
+</tbody></table>
+<!-- END BODY TABLE -->
+
+<!-- BEGIN FOOTER -->
+
+<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr> 
+    <td colspan="3" height="1" bgcolor="#FFFFFF"><img src="/images/common/single.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td width="70"><img src="/images/common/aa-logo.gif" width="74" height="30" alt="Alliance Atlantis"></td>
+    <td class="footer" align="center"><a href="http://www.allianceatlantis.com/sales/" class="footer">Advertise</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy.asp" class="footer">Privacy 
+      Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy.asp#terms" class="footer">Terms 
+      of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/privacy.asp#disclaimer" class="footer">Disclaimer</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/contact.asp" class="footer">Contact 
+      Us</a><br>
+    </td>
+    <form name="changeChannels"></form>
+      <td align="center"> 
+        <select class="footer" name="select" size="1" onchange="if (this.options[this.selectedIndex].value != '#') { window.location=this.options[this.selectedIndex].value }">
+          <option value="#" selected="">&nbsp;&nbsp;&nbsp;Change Channels</option>
+		  <option value="#">------------------------</option>
+		  <option value="#">LIFESTYLE</option>
+          <option value="http://www.foodtv.ca">&nbsp;&nbsp;Food Network</option>
+          <option value="http://www.hgtv.ca">&nbsp;&nbsp;HGTV</option>
+          <option value="http://www.lifenetwork.ca">&nbsp;&nbsp;Life Network</option>
+          <option value="http://www.discoveryhealth.ca">&nbsp;&nbsp;Discovery Health</option>
+		  <option value="http://www.u8tv.com">&nbsp;&nbsp;U8TV</option>
+		  <option value="#">------------------------</option>
+          <option value="#">DRAMATIC</option>
+		  <option value="http://www.showcase.ca">&nbsp;&nbsp;Showcase</option>
+          <option value="http://www.showcase.ca/action/">&nbsp;&nbsp;Showcase Action</option>
+		  <option value="http://www.showcase.ca/diva/">&nbsp;&nbsp;Showcase Diva</option>
+		  <option value="http://www.ifctv.ca">&nbsp;&nbsp;IFC</option>
+          <option value="#">------------------------</option>
+          <option value="#">FACTUAL</option>
+		  <option value="http://www.bbccanada.com">&nbsp;&nbsp;BBC CANADA</option>
+		  <option value="http://www.bbckids.ca">&nbsp;&nbsp;BBC Kids</option>
+          <option value="http://www.historytelevision.ca">&nbsp;&nbsp;History Television</option>
+          <option value="http://www.nationalgeographic.ca">&nbsp;&nbsp;National Geographic</option>
+          <option value="#">------------------------</option>
+		  <option value="http://www.newtvchannels.com">&nbsp;&nbsp;NewTVchannels</option>
+        </select>
+      </td>
+    
+  </tr>
+  <tr> 
+    <td colspan="3" bgcolor="#CCCCCC" height="1"><img src="/images/common/single.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td width="70">&nbsp;</td>
+    <td class="footer" align="center"><span class="footer">Copyright © 2001 
+      Alliance Atlantis Communications Inc., All Rights Reserved.</span></td>
+    <td align="center">&nbsp;</td>
+  </tr>
+</tbody></table>
+<!-- END FOOTER -->
+
+<script src="http://alliance.adbureau.net/jserver/SITE=HGTV/AREA=INTERSTITIAL/AAMSZ=250X250"></script>
+
+
 
 
 </body></html>
