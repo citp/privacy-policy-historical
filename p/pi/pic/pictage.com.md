@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pictage.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pictage.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/privacy.html) for the most accurate reproduction.*
 
 # Pictage.com
 
-|  |  | [](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/index.jsp) |  |   
+|  |  | [](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/index.jsp) |  |   
 ---|---|---  
 |   
-[](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/index.jsp) | [](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/management_team.html) | [](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/partners.html) | [](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/team.html) | [](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/press.html) | [](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/contact.html) | [](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/tour.html) |   
+[](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/index.jsp) | [](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/management_team.html) | [](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/partners.html) | [](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/team.html) | [](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/press.html) | [](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/contact.html) | [](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/tour.html) |   
 |  |    
   
-You may search by typing in the last name of the bride & groom or the event name. 
+You may search by typing in the last name of the bride or groom or the event name. 
 
   
   
@@ -58,16 +58,16 @@ From time-to-time our site requests information from users via surveys or contes
 Your responses are completely confidential and are used to help us tailor our services to you. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. We appreciate your participation in the on-going development of our service. 
 
 **Referral Promotional Programs**   
-If a user elects to participate in any of our promotional referral programs for directing guests to our site, we will ask them for the friend's name and email address. Pictage will automatically send the friend an e-mail inviting them to visit the site. Pictage stores this information for the sole purpose of sending this e-mail. The guest may contact Pictage at [remove@Pictage.com](mailto:remove@Pictage.com) to request the removal of this information from their database.  **Changes to privacy policy**   
+If a user elects to participate in any of our promotional referral programs for directing guests to our site, we will ask them for the friend's name and email address. Pictage will automatically send the friend an e-mail inviting them to visit the site. Pictage stores this information for the sole purpose of sending this e-mail. The guest may contact Pictage at [remove@Pictage.com](mailto:remove@Pictage.com) to request the removal of this information from our database.  **Changes to privacy policy**   
 Pictage reserves the right from time to time to make changes to its Privacy Policy. 
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email if you have "opted-in" to receive e-mail notifications. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact [support@Pictage.com](mailto:support@Pictage.com).   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, [please contact us](https://www.qualte.com/Templates/TemplateBlank.cfm?Page=FAQ&C=21072)!   
   
 ---|---  
   
-[](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/Back)
+[](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/Back)
 
-**© 2001 Pictage, Inc. All rights reserved.**   
-[Privacy Policy](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/privacy.html) | [Terms of Service](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/tos.html) | [About Pictage](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/about.html) | [Photographers](https://web.archive.org/web/20010607081820id_/http%3A//www.pictage.com/photographer.html)
+**© 2002 Pictage, Inc. All rights reserved.**   
+[Privacy Policy](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/privacy.html) | [Terms of Service](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/tos.html) | [About Pictage](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/about.html) | [Photographers](https://web.archive.org/web/20021211221300id_/http%3A//www.pictage.com/photographer.html)
