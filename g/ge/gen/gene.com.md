@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gene.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204045300id_/http%3A//www.gene.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gene.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613162833id_/http%3A//www.gene.com/gene/privacy.html) for the most accurate reproduction.*
 
-# Genentech, Inc.: Privacy Policy
+# Genentech, Inc.: Contact Information
+
+Privacy Policy
 
 Genentech, Inc. respects the privacy of visitors to its website, and we recognize your need for appropriate protection and management of personally identifiable information you share with us (any information by which you can be identified, such as name, address, e-mail address, and telephone number). That is why Genentech has established this privacy policy, so that you can understand the care with which we intend to treat your information. 
 
