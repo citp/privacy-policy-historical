@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the geisinger.org privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009153628id_/http%3A//www.geisinger.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geisinger.org privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402113506id_/http%3A//www.geisinger.org/privacy.shtml) for the most accurate reproduction.*
 
 # Geisinger Health System
 
----  
-The success of the Geisinger Health System in achieving its mission is critically dependent on maintaining the trust of our patients and all those with whom we interact. This trust, in turn, is built on honoring our commitment to respect your privacy. Geisinger Health System has created this privacy statement to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this Web site: [www.geisinger.org](http://www.geisinger.org/). 
+Geisinger.org Website Privacy Statement
+
+The success of the Geisinger Health System in achieving its mission is critically dependent on maintaining the trust of our patients and all those with whom we interact. This trust, in turn, is built on honoring our commitment to respect your privacy. Geisinger Health System has created this privacy statement to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this Web site: [www.geisinger.org](http://www.geisinger.org/).
 
 Our commitment to you
 
@@ -23,7 +24,7 @@ Our site uses web-based forms that allow customers to communicate and conduct bu
 
 Geisinger uses a registration/login process for access to secured, private areas of our web site, such as MyChart. Individual access to this information is password protected. You are the only one who has access to your password. You can change your password at anytime. You should always log out and close your browser when you’re done with your session to ensure that others cannot access your personal information.
 
-We gather technical information such as your personal computer’s IP (Internet Protocol) address or browser type to help diagnose problems with our server, derive site usage statistics, and to administer our web site. You will never be personally identified.
+We gather technical information such as your personal computer’s IP (Internet Protocol) address or browser type to help diagnose problems with our server, derive site usage statistics, and to administer our web site. You will never be personally identified. Traffic between Geisinger and the Internet will at times be recorded for analysis (technical and physical). [Geisinger's Notice of Privacy Practices](https://web.archive.org/npp.shtml) would apply to this recorded information.
 
 Geisinger utilizes cookies in conjunction with certain applications, for example with our web security application to allow you to easily move through secured pages once you have logged on. At times we may use cookies to know that you have accessed an online course or to administer certain surveys, for example, to allow a user to reply to a survey only once.
 
