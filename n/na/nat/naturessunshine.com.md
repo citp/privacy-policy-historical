@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205082936id_/http%3A//www.naturessunshine.com/Home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturessunshine.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184541id_/http%3A//www.naturessunshine.com/Home/privacy.asp) for the most accurate reproduction.*
 
 # Nature's Sunshine | Privacy Statement
 
