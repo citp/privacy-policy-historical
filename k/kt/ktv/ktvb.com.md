@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208120744id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403170816id_/http%3A//www.ktvb.com/registration/privacy.html) for the most accurate reproduction.*
 
 # KTVB.COM | Idaho News Weather & Sports | Privacy Policy
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.ktvb.com/aboutus/908674030/Left1/default/empty.gif/7a2f4869356c347a644877414168546d?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.ktvb.com/aboutus/144025266/Left1/default/empty.gif/7a2f486f6546347a33773841444c5879?x)
 
 | 
 
@@ -109,8 +109,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 | 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.ktvb.com/aboutus/410610384/Position1/default/empty.gif/7a2f4869356c347a644877414168546d?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.ktvb.com/aboutus/1020380689/Position1/default/empty.gif/7a2f486f6546347a33773841444c5879?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.ktvb.com/aboutus/528152351/Position4/default/empty.gif/7a2f4869356c347a644877414168546d?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.ktvb.com/aboutus/1680106275/Position4/default/empty.gif/7a2f486f6546347a33773841444c5879?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.ktvb.com/aboutus/442317902/Position5/default/empty.gif/7a2f4869356c347a644877414168546d?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.ktvb.com/aboutus/1029116795/Position5/default/empty.gif/7a2f486f6546347a33773841444c5879?x)
