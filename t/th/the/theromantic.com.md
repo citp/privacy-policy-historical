@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the theromantic.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209102231id_/http%3A//www.theromantic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theromantic.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610090452id_/http%3A//www.theromantic.com/privacy.htm) for the most accurate reproduction.*
 
 # Contact Information
 
  
 
-## Privacy Statement for The RoMANtic's Guide
+## Privacy Statement for The Romantic.com
 
-The RoMANtic has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: The RoMANtic's Guide.
+The RoMANtic has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: TheRomantic.com.
 
-This site contains links to other sites. **The RoMANtic's Guide** is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. **TheRomantic.com** is not responsible for the privacy practices or the content of such Web sites. 
 
-Our site uses an order form for customers to request information, products, and services. We do NOT keep visitor's contact information (like their email address). Contact information from the order form is only used to send orders to our customers. The RoMANtic Tip of the Week is the only mailing list we maintain. We do not sell or rent any addresses.
+Our site uses an order form for customers to request information, products, and services. We do NOT keep visitor's contact information (like their email address). Contact information from the order form is only used to send orders to our customers. The Romantic Tip of the Week is the only mailing list we maintain. We do not sell or rent any addresses.
 
 We use an outside ad company to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Our site does not use cookies. We do not have access to any information about you from cookies you might receive while visiting our site.
 
@@ -22,7 +22,7 @@ The RoMANtic's Guide works with a third party that serves ads to this site. To f
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  1. email [webmaster@theromantic.com](mailto:webmaster@theromantic.com)
+  1. email webmaster @theromantic.com
 
 
 
@@ -30,4 +30,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
-Michael Webb  The RoMANtic  PO Box 1567  Dept W  Cary, NC 27512  webmaster@theromantic.com 
+Michael Webb  TheRomantic.com  PO Box 1567  Dept W  Cary, NC 27512 
