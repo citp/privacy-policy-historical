@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605193435id_/http%3A//www.uaex.edu/Statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204064441id_/http%3A//www.uaex.edu/Statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
 
 # Mission Statement; Cooperating Statement; EEO; Disclaimer; Privacy Statement for Cooperative Extension Service Web Site
 
@@ -43,3 +43,29 @@ Thank you for visiting the University of Arkansas Cooperative Extension Service 
 ****
 
 **E-mail** \- Personal information collected via e-mail or through other online means will be used only for purposes necessary to serve your needs, such as responding to an inquiry for information. This may involve redirecting your inquiry or comment to another person or department better suited to meeting your needs. 
+
+**Payment Collection -** This policy also collects, at the user's option, transaction information. This data will be used for completion and support of the current activity, the recording of data required to process credit card, EFT or electronic checks through financial institutions. This data includes contact information, demographic data and purchase information in order to deliver the product or service. Depending on the service, this data may or may not be required. Additionally, users must opt-in (agree or decline) to allow use the data for marketing purposes. If cookies are used to complete the user's current activity, cookies are optional.
+
+#### Freedom of Information at the University of Arkansas Cooperative Extension Service
+
+In compliance with the Arkansas Freedom of Information Act of 2001 (Arkansas Code 25-19), the University of Arkansas Cooperative Extension Service makes applicable records available for public review. 
+
+**Description of Records  
+**  
+The University of Arkansas Cooperative Extension Service maintains records in two (2) sources:
+
+1\. Central Paper Files - physical filing cabinets containing hard copies of printed documents, records and files.   
+2\. Electronic Files - digital documents, records and files. 
+
+**Requesting a Record**
+
+All records are subject to the access and confidentiality provisions of the Arkansas Freedom of Information Act, Ark Code Ann., §§ 25-19-101 through 25-19-107, or to other applicable sections of the Arkansas Code. Requests for records under the Freedom of Information Act should be directed to: 
+
+Ms. Donna Rothberg  
+Director, Human Resources & Program Compliance  
+2301 South University Avenue  
+Room 104D  
+Little Rock, AR 72203   
+Voice: 501-671-2219   
+Fax: 501-671-2251   
+E-mail: drothberg@uaex.edu 
