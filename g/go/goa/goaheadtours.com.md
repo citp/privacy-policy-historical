@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204212711id_/http%3A//goaheadtours.com/bin/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606204427id_/http%3A//goaheadtours.com/bin/privacy.asp) for the most accurate reproduction.*
 
 # Go Ahead Vacations - Privacy Policy
 
 Our Commitment to Privacy
-
-[](https://www.truste.org/validate/5126) Go Ahead Vacations is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.goaheadvacations.com. If you have questions or concerns regarding this statement, you should first contact our Webmaster by email: [goahead@ef.com](mailto:goahead@ef.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe: <http://www.truste.org/users/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 Goaheadvacations.com is committed to protecting the privacy of our users. We would like to share our online information practices and the choices you can make about the way your information is collected and used. This notice is available at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on the goaheadvacations.com website. 
 
