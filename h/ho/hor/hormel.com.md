@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618180950id_/http%3A//www.hormel.com/cm/templates/corporate.asp%3Farticleid%3D120%26zoneid%3D45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206221536id_/http%3A//www.hormel.com/cm/templates/corporate.asp%3Farticleid%3D120%26zoneid%3D45) for the most accurate reproduction.*
 
 # Hormel Corporate - Privacy Policy
 
