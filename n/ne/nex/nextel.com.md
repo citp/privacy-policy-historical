@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nextel.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212141215id_/http%3A//www.nextel.com/registration/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextel.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603234217id_/http%3A//nextel.com/registration/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Nextel - Privacy Policy
 
   
-Nextel Communications respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. If you have any questions about this Privacy Policy, please contact us at [Customer Care](https://web.archive.org/NASApp/nol/CustomerCareServlet/). 
+Nextel Communications respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. If you have any questions about this Privacy Policy, please [contact Customer Care online](https://web.archive.org/NASApp/care/WCGeneralQuestionsFeedbackServlet). 
 
 Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you're under 13, please don't provide any personally identifying information during your visit to nextel.com. 
 
@@ -29,7 +29,7 @@ For new accounts, we may request a social security number, which we use to order
 
 To take advantage of personalized services available on nextel.com, you may need to supply additional information, such as: 
 
-  * Nextel phone number or Direct Connect (two way radio) number 
+  * Nextel Phone Number or Direct Connect (two way radio) number 
 
   * Industry category 
 
@@ -40,7 +40,7 @@ To take advantage of personalized services available on nextel.com, you may need
 
 We use this data to provide you with billing information, equipment discounts, and rate plan promotions. 
 
-If you provide us your email address, from time to time we may send you email about new products and services, or offers that we believe will interest you. We may also share your email address with providers of products or services that we think will interest you. Though we hope you'll find this information useful, if you do not wish to receive such email, please indicate, when you give us your email address, that you'd prefer not to receive such information or offers. You can always change your election by clicking on "Update Registration," which appears on the Customer Support page of our site or just click on this link [update registration information](https://web.archive.org/NASApp/nol/UpdateRegistrationServlet). You'll need your Member Name and Password to make changes to your profile. If you've forgotten your Password, you may [change your password](https://web.archive.org/NASApp/nol/ChangeMyPasswordServlet) online. Of course, we also use your email address to answer any email you send us.
+If you provide us your email address, from time to time we may send you email about new products and services, or offers that we believe will interest you. We may also share your email address with providers of products or services that we think will interest you. Though we hope you'll find this information useful, if you do not wish to receive such email, please indicate, when you give us your email address, that you'd prefer not to receive such information or offers. You can always change your election by clicking on "Update Registration," which appears on the Customer Support page of our site or just click on the [update registration information](https://web.archive.org/NASApp/registration/UpdateRegistrationServlet) link. You'll need your Member Name and Password to make changes to your profile. If you've forgotten your Password, you may [change your password](https://web.archive.org/NASApp/registration/ChangeMyPasswordServlet) online. Of course, we also use your email address to answer any email you send us.
 
 To help us tailor our site to the needs and interests of our visitors, we keep track of the pages visited by our users by placing a small entry in text file, called a cookie, on your hard drive. The cookie contains an ID number that allows us to track the pages you've visited. We aggregate this data with data on the pages visited by other users to track overall visitor traffic patterns. We use this information to improve our site by making it more responsive to the needs of our users. The help function on most browsers contains information on how to set your browser to notify you before accepting a cookie or to disable cookies entirely. However, if you don't accept cookies, you won't be able to take advantage of various features on our site that are available to other visitors. 
 
