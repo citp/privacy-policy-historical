@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 1999-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991104092952id_/http%3A//www.bodyforlife.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617010125id_/http%3A//www.bodyforlife.com/privacy.asp) for the most accurate reproduction.*
 
 # Body for Life | Privacy Policy
 
@@ -26,12 +26,12 @@ A cookie is a small text file a Web site can place on a customer's computer hard
 
 **If I submit my e-mail address to EAS, how will it be used?**
 
-EAS occasionally uses e-mail to send announcements regarding new products, services, and/or promotions that would be of interest to our customers. You can choose to [unsubscribe](https://web.archive.org/mailinglist.html) to BodyforLIFE.com e-mail lists at any time. EAS will also send replies to customer e-mail. Finally, if you have sent a request to us about which we need to communicate with you, we may do so by e-mail.
+EAS occasionally uses e-mail to send announcements regarding new products, services, and/or promotions that would be of interest to our customers. You can choose to [unsubscribe](https://web.archive.org/mailinglist.asp) to BodyforLIFE.com e-mail lists at any time. EAS will also send replies to customer e-mail. Finally, if you have sent a request to us about which we need to communicate with you, we may do so by e-mail.
 
 **What if I need to update or correct personal information I previously provided?**
 
   * If you need to change your name, address, phone number, or e-mail address, simply e-mail the request to us at [service@bodyforlife.com](mailto:service@bodyforlife.com). 
-  * If you want to subscribe or unsubscribe to the e-mail list, visit the "[mailing list](https://web.archive.org/mailinglist.html)" area of this Web site. 
+  * If you want to subscribe or unsubscribe to the e-mail list, visit the "[mailing list](https://web.archive.org/mailinglist.asp)" area of this Web site. 
   * Information provided in questionnaires or promotional surveys is not available for updates, corrections, or changes.
 
 **How will I know if BodyforLIFE.com changes provisions of its privacy policy?**
