@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ipetitions.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209034343id_/http%3A//www.ipetitions.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipetitions.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305221055id_/http%3A//www.ipetitions.com/privacy.html) for the most accurate reproduction.*
 
-# iPetitions: Create and host an online petition, FREE - Your voice counts
+# Start an online petition, FREE
 
 **INFORMATION COLLECTION AND USE**
 
