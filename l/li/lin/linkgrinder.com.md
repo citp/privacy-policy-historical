@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2001-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011225194208id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkgrinder.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603180059id_/http%3A//www.linkgrinder.com//privacy.cfm) for the most accurate reproduction.*
 
-# Gnutella Grinder - Free Engine for Fast Searching of Shared Files on the Gnutella Peer to Peer Network - Find what you want FAST! Gnutella, MP3, DIVX, Shareware, Music, Movies, Film, Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, National Symbols and Songs Paradoxes Games Media History Weddings Business Schools Television Education Organizations Criticism and Theory
+# Gnutella Grinder - Free Engine for Fast Searching of Shared Files on the Gnutella Peer to Peer Network - Find what you want FAST! Gnutella, MP3, DIVX, Shareware, Music, Movies, Film, Search Engine,Links,Free Advertising,Free Links,Hot Links, banner, ad, Gender Medicine Meteorology Toys Alternative Law Broadcasting Cultures and Groups Music Outdoors
 
 | 
 
