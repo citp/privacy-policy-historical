@@ -1,28 +1,22 @@
-> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604082156id_/http%3A//www.kmov.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2002-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020615041711id_/http%3A//www.kmov.com/registration/privacy) for the most accurate reproduction.*
 
-# KMOV.com | PRIVACY POLICY
+# KMOV.com | St. Louis | Privacy Policy
 
-* * *
+  This Privacy Policy discloses the general privacy practices for the Belo Interactive web sites, including “www.kmov.com”, Belo Interactive, Inc. is a subsidiary of Belo Corp. ("Belo Interactive"). 
 
-  Like many other commercial sites, KMOV.com collects information that helps us to improve our services and bring you information suited to your individual needs. At the same time, we recognize the importance of protecting the privacy of personal identifying information of our visitors. We believe that protection of personal privacy on the web not only protects consumers, but also increases consumer confidence. In adopting this privacy policy, our intent is to balance our legitimate business interests with your reasonable expectations of privacy.
+Belo Interactive is committed to respecting your privacy rights when visiting any Belo Interactive web site, such as this one. To protect your Personal Information, Belo Interactive has created the guidelines outlined below. Understanding that Internet technologies are rapidly evolving, any changes to this policy will be promptly posted on this page, with an updated "effective date" posted at the end of this policy. 
 
-This privacy policy describes what information KMOV.com collects, how we use it, and to whom we may disclose it. As described below, you may opt-out of certain uses of your personal information - and we require your consent for any online collection of your child’s information, and for the use and disclosure of that information. If anything in this privacy policy changes, we will post the changes on our homepage, and we will not disclose your information in a way that you have not authorized. 
-
-**Information Collection and Use** ****
+**Information Collected** ****
 
 * * *
 
-**** KMOV.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
+**** While visiting any of the Belo Interactive web sites (collectively, the "Site"), we may ask you to register and/or provide information that personally identifies you ("Personal Information") for purposes of interacting with the Site. Such Personal Information may include, but is not limited to, your name, phone number, street address and e-mail address. On any page that collects Personal Information, we will specifically describe what information is required in order to provide you with the product or service or enter you in the promotion you have requested, as well as respond to your inquiry or comment. 
 
-Users are advised that KMOV.com does not operate the “My Finance” service promoted on our website, a service which customizes financial data, weather information, and news for individual users. Users leave KMOV.com and link to a separate site operated by MicroStrategy, Inc. at strategy.com. The privacy policy for MicroStrategy can be found at [http://home.strategy.com/BELO/Help/Help_PortalPrivacy.asp ](http://home.strategy.com/BELO/Help/Help_PortalPrivacy.asp). You should review that policy before submitting information at strategy.com. MicroStrategy may share your personal information with KMOV.com.
-
-In addition, the television listings information service is provided by one.clicktv.com, a separate website which may follow different information practices than those described here. Similarly, features in the 4 More section may be provided by other websites which are not under the control of KMOV.com, such as www.ParentTime.com. And the content and information practices of CBSNEWS.com are under the control of the CBS network, which is under separate ownership than KMOV.com. 
-
-**Children’s Privacy** ****
+**What are Cookies?** ****
 
 * * *
 
-**** If KMOV.com has reason to believe that a visitor under the age of 13 has submitted any personal information, KMOV.com will use that information for no other purpose than to answer, on a single time basis, a question asked by that visitor. KMOV.com will discard all information received from that website user, and KMOV.com will not share the information with its parent company or with any other person, business or organization. 
+**** A cookie is an element of data that a web site can send to your browser, which may then be stored on your system. This element of data is a piece of text, not a program. The Site can only access the information from a cookie sent by the Site. We cannot access other cookies sent by other web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, by entering a sweepstakes or promotion, etc. 
 
 **Cookies** ****
 
@@ -30,80 +24,114 @@ In addition, the television listings information service is provided by one.clic
 
 **** A cookie is a piece of data stored on the user’s hard drive containing information about the user. KMOV.com may use cookies to collect non-personally identifiable information. Also, our parent company, A.H. Belo, uses a feature of your web browser to place an electronic file - or cookie - on your computer. We do not collect any information from, or have access to, this file. Inquiries concerning this cookie should be directed to Belo.com. In addition, some of our business partners and advertisers may use cookies on our site. However, KMOV.com has no access to or control over these cookies.
 
-**Log Files** ****
+**Why does the Site use cookies?** ****
 
 * * *
 
-**** We may use IP addresses to analyze trends, administer the site, track users’ movement, and gather broad demographic information for aggregate use. We would not, however, link IP addresses to personally identifiable information.
+**** Belo Interactive uses cookies to track usage of the Site and further personalize your experience when you are visiting the Site. By tracking usage, we can best determine what features of the Site best serve the users.
 
-**Sharing Information with Other Parties** ****
-
-* * *
-
-**** We will share aggregated demographic information with our partners and advertisers. For example, we may inform an advertiser that a certain percentage of our registered users are men over the age of 30. The aggregate demographic information is not linked to any personal information that can identify any individual person.
-
-We may partner with other parties to provide specific services. When the user signs up for these services, we will share names or other contact information necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
-
-**Special Offers and Promotions** ****
+**What benefits do I receive from cookies?** ****
 
 * * *
 
-**** Registered users may occasionally receive from us information on products, services, and special deals. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out section below. 
+**** Overall, the use of cookies helps to give you a more personalized experience at the Site. The information is used to keep our Site fresh and relevant to you the user. Cookies also allow you to avoid retyping your e-mail address and password each time you access the Site. 
 
-The promotional information will always be sent to you by KMOV; we will not give your contact information to third parties.
-
-**Links** ****
+**May I decline to accept a cookie?** ****
 
 * * *
 
-**** This website contains links to other sites. Please be aware that KMOV.com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
+**** You may decline to accept cookies sent by the Site by selecting an option on your browser to reject cookies. However, some portions of the Site may require registration in order to access those areas. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user; and will eliminate the need for you to log in each time you access our Site. In addition, our registration system may require that you accept the cookies from the Site in order to access that portion of the Site. 
 
-For example, KMOV.com provides a link to CBSNEWS.com, which is under separate ownership and control. KMOV.com is not responsible for the content or information practices of that site. The privacy policy for CBSNEWS.com can be found at [ http://cbsnews.cbs.com/now/story/0,1597,53940-412,00.shtml](http://cbsnews.cbs.com/now/story/0,1597,53940-412,00.shtml). Other examples of independently controlled linked websites include ParentTime.com and one.clicktv.com.
+We use an advertising server developed by a third party to display ads on the Site. Some of these ads may contain cookies that are set by third parties (i.e. advertising agencies or advertising clients). We do not have access to these cookies or any information that they may contain; please contact the advertiser for more information on these cookies. Other sites linked to the Site may also send cookies; however we do not control such activities. 
 
-**Contests** ****
+**What happens with the information collected in a cookie?** ****
 
 * * *
 
-**** From time-to-time our site may conduct contests. Participation in these contests is entirely voluntary, and does not affect your access to other features of the website. However, you must provide us with contact information in order to participate, so that we can notify the winners and award prizes. 
+**** The information stored in a cookie is used to identify you to our server, to allow us to personalize your experience on the Site, and to serve content and communications that may be of interest to you. 
+
+**IP Addresses:** ****
+
+* * *
+
+**** Belo Interactive does log IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage. 
+
+**Use of Personal Information** ****
+
+* * *
+
+**** We believe in protecting your privacy, and will not share Personal Information with third parties outside of Belo Corp. except as described in this Privacy Policy. We believe that we can enhance your experience on our Site with the information you share with us. We use Personal Information about you to improve our advertising and marketing efforts, to statistically analyze Site usage, to improve our content and product offerings and to personalize the Site's content, layout, and services. We may also use your Personal Information, such as your e-mail address or mailing address, to contact you regarding products and/or services that may be of interest to you, to respond to an inquiry from you regarding the information that we have collected or respond to your comments and suggestions. 
+
+Belo Interactive may match specific and/or aggregated Personal Information with third party data to provide you with product and content offerings that interest you and improve our advertising and marketing efforts. Belo Interactive also may disclose aggregated user statistics in order to describe our services to potential advertisers, partners, other third parties, our affiliate companies, and for other lawful purposes. For example, we provide our advertisers with aggregate information about our users, such as "2,000 people viewed your ad today." 
+
+As part of your experience on our Site, you may receive communications from us related to products and services that might interest you. While we believe these services will enhance your experience at our Site, you will at all times be able to opt out from receiving these communications, either by specifically opting out of these services or by deleting your profile from our database. 
+
+We have today, and will in the future have, arrangements with third party service providers, such as credit card processors, shipping companies and fulfillment services. When you sign up for a service we offer on the Site, we may be required to share Personal Information with that service provider in order to provide the service. These third party providers are not permitted to retain or use Personal Information for any purpose unrelated to providing the service. 
+
+Belo Interactive may also offer other services as a part of our Site (e.g., car buying service, personalized finance and weather information alerts, contests, sweepstakes and other promotions with unaffiliated third parties). If you choose to use these optional services or opportunities, we may provide some of your Personal Information to third parties, such as service providers and other parties assisting us in providing the service. We will not do so without telling you how we will use that information, and you can avoid having us make such disclosures by choosing not to use these services or features of the Site. 
+
+We reserve the right to disclose Personal Information when needed to comply with the law or a legal process, cooperate with investigations of purported unlawful activities, to identify persons violating the law, or in connection with the sale of part or all of Belo Interactive's or its affiliate's stock or assets 
+
+**Party Collecting the Information** ****
+
+* * *
+
+**** This Privacy Policy only addresses the use and dissemination of information that we collect from you. To the extent that you disclose any information to other parties, whether through, for example, on-line auctions, chat rooms, personal ads, or the like, through third party services or promotions offered on or through the Site or through other web sites throughout the Internet, different policies may apply and Belo Interactive shall not be responsible for the use or dissemination of such information. 
+
+Our Sites may operate as part of a larger group of sites, and may carry co-branded pages. In addition, other sites may use the Site's or Belo Interactive's name. Since Belo Interactive does not control the privacy policies of third parties, you are subject to the privacy customs and policies, if any, of such third parties, and Belo Interactive shall not be responsible for the use or dissemination of your private information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your Personal Information to others. 
+
+**Links to Other Materials** ****
+
+* * *
+
+**** Third party sites linked to and from the Site are not necessarily under the control of Belo Interactive. Belo Interactive shall have no responsibilities or liabilities whatsoever for the content or privacy practices of any such linked site or any link or linking program at any time. Belo Interactive does not necessarily endorse companies (or related products or services) to or from which the Site is linked. If you decide to access any of the third party sites linked to the Site, you do so entirely at your own risk. Belo Interactive hereby disclaims any rights to trademarks, service marks, trade names, logos, copyrights, patents, domain names or other intellectual property interests of third parties.
+
+**Children's Privacy** ****
+
+* * *
+
+**** Belo Interactive cares about the safety of children and their use of the Internet. Therefore, in accordance with the Children's Online Privacy Protection Act of 1998, we will never knowingly request or solicit personally identifiable information from anyone under the age of 13 without verifiable parental consent. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practical.
+
+**Opting-Out** ****
+
+* * *
+
+**** We respect your privacy and ability to choose whether to share information with us and any third party. You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features or services on the Site, you can choose whether to share optional Personal Information in connection with the feature or service. If you receive communications from us that you prefer not to receive, you may opt out from receiving these communications, either by specifically indicating this preference in a communication to us or by deleting your registration profile from our database. 
+
+You may also "opt-out" altogether from providing Personal Information to us by not registering on the Site and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database. To do so, please follow the process described below. 
+
+Certain portions of the Site and certain services provided on the Site, however, do require registration in order to access or use these areas and services. If you choose not to register or provide certain information, these areas will not be accessible to you
+
+. 
+
+**Reviewing, Changing and Deleting Your Personal Information** ****
+
+* * *
+
+**** You may access all of the Personal Information that we collect from you online and maintain by using the procedure that follows. We use this procedure to better safeguard your Personal Information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+You may also at any time choose to change or delete your profile from our database using this procedure. You should know that as a result of deregistration, certain areas of our Site may no longer be accessible to you. 
+
+1\. Enter (or click) http://signin.dallasnews.com in your browser. 
+
+2\. Sign in by entering your e-mail address and password. Your account information will then be displayed. 
+
+3\. Modify your information and submit the form. 
 
 **Security** ****
 
 * * *
 
-**** This website takes every precaution to protect our users’ information. All of our users’ information is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Additionally, our website is hosted by a company that employs the latest technological security measures to protect data.
+**** Belo Interactive maintains industry standard safeguards to ensure the security, integrity and privacy of the Personal Information that you provide to Belo Interactive. 
 
-**Supplementation of Information** ****
-
-* * *
-
-**** In order for this website to enhance its ability to tailor the site to an individual’s preference, we will combine information submitted by users with other information which we have collected, such as contest awards.
-
-**Access to Personal Information** ****
+**Contacting Us** ****
 
 * * *
 
-**** If a user’s personally identifiable information (such as your address) changes, or if a user no longer desires to receive services from our website, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. Users can send an email to [ webmaster@kmov.com ](mailto:webmaster@kmov.com).
+**** If you have any questions or comments about our Privacy Policy, please e-mail us at [helpcenter@belointeractive.com](mailto:helpcenter@belointeractive.com). 
 
-**Choice/Opt-out** ****
-
-* * *
-
-**** Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for the information. 
-
-Users who no longer wish to receive promotional materials from us on behalf of our partners may opt-out of receiving these communications by sending an email message to [ webmaster@kmov.com ](mailto:webmaster@kmov.com).
-
-Parents always have the right to prevent us from collecting or disclosing the information described in this policy, as it relates to their children under the age of 13. 
-
-**Notification of Changes** ****
+**Effective Date and Changes** ****
 
 * * *
 
-**** If we decide to change our privacy policy, we will post those changes on our home page so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-If you have any questions about this privacy policy, please contact [webmaster@kmov.com](mailto:webmaster@kmov.com) or contact:
-
-**KMOV.com**  
-One Memorial Drive  
-St. Louis, MO. 63102
-
-Last updated April 21, 2000.
+**** This Privacy Policy is effective as of May 21, 2001. Belo Interactive reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes. 
