@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneychannel-asia.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803150527id_/http%3A//www.disneychannel-asia.com/priv_pol/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneychannel-asia.com privacy policy that was archived on 2003-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030202143119id_/http%3A//disneychannel-asia.com/priv_pol/policy.html) for the most accurate reproduction.*
 
 # Disney Channel Asia : DISNEY ONLINE PRIVACY POLICY
 
