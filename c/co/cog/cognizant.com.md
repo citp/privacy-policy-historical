@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cognizant.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203020504id_/http%3A//www.cognizant.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cognizant.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606130948id_/http%3A//www.cognizant.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Cognizant.com
 
