@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605104554id_/http%3A//www.friendster.com/info/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendster.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202203224id_/http%3A//friendster.com/info/privacy.jsp) for the most accurate reproduction.*
 
 # Friendster Privacy Policy
 
