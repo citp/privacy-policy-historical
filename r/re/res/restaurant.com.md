@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208083133id_/http%3A//www.restaurant.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurant.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608172108id_/http%3A//www.restaurant.com/about/privacy.asp) for the most accurate reproduction.*
 
-# Restaurant.com Where to Eat
+# 
 
-|  |  |  |  |  |   
----|---|---|---|---|---  
-|  **December  8, 2002** |  |    |  [About Us](http://www.restaurant.com/about/) | [Site Map](http://www.restaurant.com/sitemap/) | [Help](http://www.restaurant.com/help/) | [Feedback](http://www.restaurant.com/feedback/) |   
 |  | 
 
 **Privacy Policy**
@@ -21,5 +18,4 @@ Restaurant.com is committed to safeguarding your online privacy. Because we resp
 
 
 
-|  |   
----|---|---|---|---
+|  | 
