@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630210151id_/http%3A//pages.ebay.ca/help/community/png-priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208051658id_/http%3A//pages.ebay.ca/help/community/png-priv.html) for the most accurate reproduction.*
 
 # eBay Canada: Help : Policies and Guidelines : Privacy Policies
 
 eBay Privacy Policy 
 
-| 
-
-Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. We want you to fully understand our privacy practices and therefore, in addition to this Privacy Policy, we have created [Privacy Central](http://pages.ebay.ca/help/privacycentral1.html) to help you fully evaluate our practices and answer your privacy questions. 
+|  Your privacy is very important to us. We do not sell or rent your personal information to third parties for their marketing purposes without your explicit consent. Please read this privacy policy to learn more about the ways in which we use and protect your personal information. We want you to fully understand our privacy practices and therefore, in addition to this Privacy Policy, we have created [Privacy Central](http://pages.ebay.ca/help/privacycentral1.html) to help you fully evaluate our practices and answer your privacy questions. 
 
 If you have additional questions, you may send email to [privacy@ebay.ca](mailto:privacy@ebay.ca). 
 
-To view a more user friendly description of our Privacy Policy and to answer questions regarding this policy, please go to our Privacy Central web pages at <http://pages.ebay.ca/help/privacycentral1.html>. Your questions may also be answered by using our webform located at: <http://pages.ebay.ca/help/new/customer-support.html>. 
+To view a more user friendly description of our Privacy Policy and to answer questions regarding this policy, please go to our Privacy Central web pages at <http://pages.ebay.ca/help/privacycentral1.html>. Your questions may also be answered by using our webform located at: <http://pages.ebay.ca/help/welcome/customer-support.html>. 
 
 |  [ ](https://www.truste.org/validate/398)  
 ---|---  
@@ -48,11 +46,11 @@ Table of Contents
 
 
 
-1\. A Special Note About Children.
+1\. A Special Note About Children
 
 Children (persons under the age of 18) are not eligible to use the Site unsupervised and we ask that children do not submit any personal information to us. If you are under the age of 18, you may only use this Site only in conjunction with and under the supervision of your parents or guardians. 
 
-2\. Information We Collect.
+2\. Information We Collect
 
 Our primary purpose in collecting personal information from you is to provide you with a safe, smooth, efficient, and customised experience. This allows us to provide services and features that most likely meet your needs, and to customise our service to make your experience safer and easier. We only collect personal information about you that we consider necessary for achieving this purpose. 
 
@@ -62,7 +60,7 @@ Under some circumstances, we may require some additional financial information, 
 
 We automatically track certain information about you based upon your behaviour on our Site. We use this information to do internal research on our users' demographics, interests, and behaviour to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on our Site or not), which URL you next go to (whether this URL is on our Site or not), your computer browser information, and your IP address. 
 
-We use data collection devices such as "cookies" on certain pages of the Site to help analyse our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie." We also use "cookies" allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. (For more information about why we use cookies, visit http://pages.ebay.ca/help/new/cookies-web-beacons.html.) Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our Site and you may be required to re-enter your password more frequently during a session. 
+We use data collection devices such as "cookies" on certain pages of the Site to help analyse our web page flow, measure promotional effectiveness, and promote trust and safety. "Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie." We also use "cookies" allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests. (For more information about why we use cookies, visit <http://pages.ebay.ca/help/welcome/cookies-web-beacons.html>.) Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may not be able to use certain features on our Site and you may be required to re-enter your password more frequently during a session. 
 
 Additionally, you may encounter "cookies" or other similar devices on certain pages of our Site that are placed by third parties. For example, if you view a web page created by a user, there may be a "cookie" placed within that web page. We do not control the use of cookies by third parties. 
 
@@ -78,7 +76,7 @@ If you register for eBay on another web site or use a web site providing a servi
 
 For a more detailed list of information we collect from or about you, please see the [Appendix](http://pages.ebay.ca/help/policies/privacy-appendix.html). 
 
-3\. Our Use of Your Information.
+3\. Our Use of Your Information
 
 We use your personal information to facilitate the services you request. We use personal information in the file we maintain about you, and other information we obtain from your current and past activities on the Site to: resolve disputes; troubleshoot problems; bill your account; help promote safe trading; measure consumer interest in our products and services, inform you about online and offline offers, products, services, and updates; customise your experience; detect and protect us against error, fraud and other criminal activity; enforce our User Agreement; and as otherwise described to you at the time of collection, use or disclosure. At times we look across multiple users to identify problems or resolve disputes, and in particular we may examine your personal information to identify users using multiple User ID's or aliases. We may compare and review your personal information for errors, omissions and for accuracy. 
 
@@ -86,9 +84,9 @@ If you choose to list an item for sale on the Site or open a Credit account, or 
 
 You agree that we may use personal information about you to improve our marketing and promotional efforts, to analyse Site usage, to improve our content and product offerings, and to customise the Site's content, layout, and services. These uses improve the Site and better tailor it to meet your needs, so as to provide you with a smooth, efficient, safe and customized experience while using the Site. 
 
-You agree that we may also use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications on the [notification preferences](http://cgi3.ebay.ca/aw-cgi/eBayISAPI.dll?SignIn&pNextPage=OptinLoginShow). You may make changes to your notification preferences at any time. 
+You agree that we may also use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the User Agreement and Privacy Policy, you expressly agree to receive this information. If you do not wish to receive these communications, we encourage you to opt out of the receipt of certain communications on the [notification preferences](https://signin.ebay.ca/ws/eBayISAPI.dll?SignIn&pNextPage=OptinLoginShow). You may make changes to your notification preferences at any time. 
 
-4\. Our Disclosure of Your Information.
+4\. Our Disclosure of Your Information
 
 As a matter of policy, we do not sell or rent any of your personal information to third parties for their marketing purposes without your explicit consent. However the following describes some of the ways that your personal information may be disclosed in the normal scope of business to provide our services. 
 
@@ -108,48 +106,48 @@ Due to the existing regulatory environment, we cannot ensure that all of your pr
 
 For a chart showing what information we collect from or about you, and who has access to that information, please see the [Appendix](http://pages.ebay.ca/help/policies/privacy-appendix.html). 
 
-5\. Your Use of Other Users' Information.
+5\. Your Use of Other Users' Information
 
 In order to facilitate interaction among all eBay community members, our Site provides you with limited access other users' contact and shipping information. As a seller you have access to the User ID, email address and other contact and shipping information of the buyer or winning bidder(s), and as the buyer or a winning bidder you have access to the User ID, email address and other contact information of the seller. 
 
 By entering into our User Agreement, you agree that, with respect to other user's personal information that you obtain through the Site or through an eBay-related communication or eBay-facilitated transaction, eBay hereby grants to you a license to use such information only for: (a) eBay-related communications that are not unsolicited commercial messages, (b) using co-branded services offered through eBay (e.g. escrow, insurance, shipping and fraud complaints), and (c) any other purpose that a such user expressly agrees to after you tell them the purpose you would like to use it for. In all cases, you must give users an opportunity to remove themselves from your database and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this Section, can you disclose personal information about another user to any third party without our consent and the consent of that user. You agree that other users may use your personal information to communicate with you in accordance with this Section. Note that law enforcement personnel, Verified Rights Owner programme participants, and other rights holders are given different rights with respect to information they access. 
 
-eBay and our users do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add an eBay user, even a user who has purchased an item from you, to your mail list (email or physical mail) without their express consent. To report eBay related spam to eBay, please contact us using our [webform](http://pages.ebay.ca/help/new/customer-support.html). 
+eBay and our users do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add an eBay user, even a user who has purchased an item from you, to your mail list (email or physical mail) without their express consent. To report eBay related spam to eBay, please contact us using our [webform](http://pages.ebay.ca/help/welcome/customer-support.html). 
 
-Use of Email Tools.
+6\. Use of Email Tools
 
 You may not use the Email This Item to a Friend service or other email services that we offer to send spam or otherwise send content that would violate our User Agreement. We do not permanently store email messages or the email addresses sent from these tools. 
 
 If you do send an email using the Email This Item to a Friend service to an email address that is not registered on our Site, we do not use that email address for any purpose other than to send your email. We do not rent or sell these email addresses. 
 
-7\. Control of Your Password.
+7\. Control of Your Password
 
-You are responsible for all actions take with your User ID and password, including fees charged to your account. Therefore, we do not recommend that you disclose your eBay password to any third parties.. If you choose to share your User ID and password or your personal information with third parties, you are responsible for all actions take with your account and therefore you should review that third party's privacy policy before doing so. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed in Section 8. 
+You are responsible for all actions take with your User ID and password, including fees charged to your account. Therefore, we do not recommend that you disclose your eBay password to any third parties. If you choose to share your User ID and password or your personal information with third parties, you are responsible for all actions take with your account and therefore you should review that third party's privacy policy before doing so. If you lose control of your password, you may lose substantial control over your personal information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed in Section 8. 
 
-8\. Accessing, Reviewing and Changing Your Personal Information.
+8\. Accessing, Reviewing and Changing Your Personal Information
 
 We offer you the ability to automatically review and change the personal information you submit to us by logging into the Site and entering the new information yourself. Generally, we will not modify your personal information based upon your request because it is very difficult to authenticate your account manually. You can change your User ID, email address, contact information, financial information, shipping information and user preferences by going to the preferences and setup section in [My eBay](http://cgi1.ebay.ca/aw-cgi/eBayISAPI.dll?MyEbayLogin). You must promptly update your information if it changes or is inaccurate. Once posted, you cannot change or remove any public postings made in our chat rooms or other message areas or the feedback area. 
 
-Upon your request, we will deactivate your account, contact information, billing information, shipping information and financial information from our active databases. To make this request, please use our webform located at http://pages.ebay.ca/help/new/customer-support.html. Such information will be deactivated as soon as reasonably possible based upon your account activity and in accordance with our deactivation policy and applicable law. 
+Upon your request, we will deactivate your account, contact information, billing information, shipping information and financial information from our active databases. To make this request, please use our webform located at <http://pages.ebay.ca/help/welcome/customer-support.html>. Such information will be deactivated as soon as reasonably possible based upon your account activity and in accordance with our deactivation policy and applicable law. 
 
 We will retain in our files some personal information you have requested to remove to prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement and comply with legal requirements as is permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such personal information will be deactivated from public and member viewing and will only be available to select eBay personal. 
 
-9\. Other Information Collectors.
+9\. Other Information Collectors
 
 Except as otherwise expressly included in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are bidders, buyers or sellers on our Site or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. Since eBay does not control the privacy policies of third parties, you are subject to the privacy customs and policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
 
-10\. Security.
+10\. Security
 
 Your information is stored and processed on computers located in the United States. eBay uses procedural and technical safeguards to protect your personal information against loss or theft, as well as against unauthorized access or disclosure, to protect your privacy, including firewalls and encryption. We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, "perfect security" does not exist on the Internet. 
 
-11\. Privacy Tools.
+11\. Privacy Tools
 
 It is our goal to make our privacy practices easy to understand. We have created easy-to-read summaries, privacy principles, a privacy chart and, are working on privacy enhancing technology to help summarize our full privacy policy. If you have questions about any summary or if you would like more detailed information, we encourage you to review our full privacy policy. 
 
-12\. Notice.
+12\. Notice
 
-We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. In addition, we will notify you in accordance with your [Notification Preferences](http://cgi3.ebay.ca/aw-cgi/eBayISAPI.dll?SignIn&pNextPage=OptinLoginShow). 
+We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms shall automatically be effective 30 days after they are initially posted on the Site. In addition, we will notify you in accordance with your [Notification Preferences](https://signin.ebay.ca/ws/eBayISAPI.dll?SignIn&pNextPage=OptinLoginShow). 
 
-13\. Accountability.
+13\. Accountability
 
-Our privacy office is responsible for ensuring that our day-to-day procedures comply with this Privacy Policy. If you have any questions or concerns, please contact eBay through our [webform](http://pages.ebay.ca/help/new/customer-support.html). 
+Our privacy office is responsible for ensuring that our day-to-day procedures comply with this Privacy Policy. If you have any questions or concerns, please contact eBay through our [webform](http://pages.ebay.ca/help/welcome/customer-support.html). 
