@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623015136id_/http%3A//www.womentowomen.com/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204124022id_/http%3A//www.womentowomen.com/legal.asp) for the most accurate reproduction.*
 
 # WomenToWomen.com - Legal/Privacy
-
-## Privacy & Legal
 
 The HealthCare Center and the Personal Program are separate organizations that share this website. As a medical practice, the HealthCare Center conforms to the strict regulations of Federal law, as detailed below. Both organizations protect your privacy to the fullest extent required by law.
 
