@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210224932id_/http%3A//www.toonboom.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toonboom.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204231618id_/http%3A//www.toonboom.com/help/privacy.php) for the most accurate reproduction.*
 
 # 2D Animation | Computer Animation Software | Toon Boom
 
-|  **TOON BOOM PRIVACY POLICY**  
+**TOON BOOM PRIVACY POLICY**  
 ---  
   
-At TOON BOOM TECHNOLOGIES Inc. ("TOON BOOM"), protecting your privacy is very important to us. Our goal is to treat the personal information you furnish us with the utmost respect, and in accordance with this Privacy Policy. Please read on for details about our practices for handling and securing your personal information. 
+At TOON BOOM ANIMATION Inc. ("TOON BOOM"), protecting your privacy is very important to us. Our goal is to treat the personal information you furnish us with the utmost respect, and in accordance with this Privacy Policy. Please read on for details about our practices for handling and securing your personal information. 
 
 By accessing, using and/or downloading materials from this Site, you agree on your own behalf and on behalf of each entity on whose behalf you act to the terms of this Privacy Policy. 
 
