@@ -1,70 +1,151 @@
-> *The following text is extracted and transformed from the ticketmaster.ca privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204212510id_/http%3A//www.ticketmaster.ca/h/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.ca privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610003202id_/http%3A//www.ticketmaster.ca/h/privacy.html) for the most accurate reproduction.*
 
-# ticketmaster canada / help / privacy policy
+# Ticketmaster-Help
 
-| 
-
+|  |  |   
+---  
+  
 |   
+|  |    
+**Ticketmaster Privacy Policy**
+
+We have created this privacy policy to demonstrate our firm commitment to protecting information you submit. This privacy policy only applies to transactions made, and data gathered, on the ticketmaster.com or ticketmaster.ca web site (both sites collectively, the "Site"), and does not apply to any other transactions, information, web site or Internet, telephone or offline point of contact between Ticketmaster and you or other consumers (subject to the paragraph below entitled "Special Provisions Regarding Canadian Call Centres and Customers" which applies to telephone calls made to Ticketmaster Canada Ltd. telephone call centres and contains additional policies applicable to customers that register on the Site using Canadian postal codes). Please review this privacy policy periodically as we may update it from time to time. This privacy policy was last revised on February 23, 2004. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described below in this privacy policy. 
+
+|  | **Who We Are**  
+---|---  
+  | When we say "we" or "Ticketmaster" in this privacy policy, we mean Ticketmaster, a Delaware corporation, and those Ticketmaster subsidiaries used to provide ticketing services in the United States and Canada that operate primarily under the "Ticketmaster" brand name (i.e., not those ticketing companies operating under other brand names such as TicketWeb or Admission). Accordingly, all information we receive may be shared among the different parts of Ticketmaster in connection with Ticketmaster's operations, and all information that is subject to this privacy policy will be used in accordance with this privacy policy by all parts of Ticketmaster. However, "Ticketmaster" does not include the subsidiaries and businesses of Ticketmaster that are not in the business of providing ticketing services in the United States or Canada (such as Match.com, Citysearch and Evite), does not include subsidiaries and businesses of Ticketmaster that operate primarily under a brand name other than "Ticketmaster" (such as TicketWeb, ReserveAmerica and Admission), and does not include Ticketmaster's other (i.e., non-subsidiary) affiliated companies (such as Expedia.com, HSN and Hotels.com). Companies that are not part of Ticketmaster (such as Match.com and Expedia and companies that are not affiliated with Ticketmaster) are referred to in this privacy policy as "others," "other companies" or "third parties."  
+| **Information We Collect From You**  
+---|---  
+  | In order to operate the Site and provide you with information on products and services that may be of interest to you, we may collect "contact information" (i.e., information that could be used to contact you such as full name, postal address, phone number and email address as well as your computer's unique IP address (if any)), "financial information" (i.e., passwords, credit and debit card numbers and bank and other financial institution account numbers) and "demographic information" (e.g., zip code, postal code, hometown, gender, purchase history information and age as well as IP addresses that are not unique to your computer) from you. Please note that nowhere on the Site do we knowingly collect contact information or financial information from children under the age of 13.  
+| **How We Use Contact Information; Responsibility**  
+---|---  
+  |  |   | **Order and Payment Processing, Customer Service, Credit Card Issuers and Quality Assurance.** We use contact information to help us efficiently perform transactions, to deliver the services you have requested, to perform quality assurance, sales analyses and other business analyses, and to contact you in connection with events for which you purchased tickets (including event confirmations, changes and cancellations). In some cases we may use service providers to help us perform some of these tasks, including, but not limited to, processing or fulfilling your orders, or performing customer service, business analyses or quality control, and consequently we may share your contact information with these service providers. In such cases, we often require these service providers to enter into agreements with us regarding the confidential handling of your information. We may also provide your contact information to your credit card issuer or to credit card processors for their purposes. When you make a purchase through the Site, or register with the Site, you will provide us with an email address where we, or these service providers, may contact you for the purposes described in this paragraph.   
+---|---  
+  
+  | **Contacting You for Offers and Promotions.** After you provide us with an email address in connection with ordering tickets through the Site or registering with the Site, or in connection with any Special Offers as described below, you may visit the "My Account" section of the Site, where you will be given the opportunity to tell us not to use that email address to send you promotional emails (if you register with the Site using a Canadian postal code, please see "Special Provisions Regarding Canadian Call Centres and Customers" below). "Promotional emails" are emails that are sent solely for promotional purposes. By submitting an email address to us, you agree that Ticketmaster (on behalf of itself or on behalf of others) may send promotional emails to that email address until such time that you so indicate your preference not to receive them. Because many consumers like to receive some, but not all, types of promotional emails, "My Account" provides you with the opportunity to choose which types of promotional emails you do not want to receive. Please note that if you ask not to receive promotional emails from Ticketmaster, you may still receive promotional emails during the next 72 hour period (as it may take some time for your preferences to be updated throughout our computer systems), you may still receive non-promotional emails from Ticketmaster, and you may still receive emails from certain others (including, but not limited to, Event Providers (defined below)); please read the rest of this privacy policy to learn how others may contact you.   
+---|---  
+  
+  | **Providing Event Providers with Contact Information.** Ticketmaster sells tickets on behalf of others; it does not produce or otherwise bring you events. Venues, promoters, bands, teams, leagues and others ("Event Providers") produce and bring you events. When you use Ticketmaster to order tickets (or to register while attempting to order Tickets), instead of providing your information directly to Event Providers, you provide your contact information to Ticketmaster who may then pass that information on to the Event Providers on your behalf-in fact, when you purchase or register to purchase tickets from Ticketmaster you affirmatively and expressly consent for us to provide your email address and other information to the Event Providers that bring you the event. This will allow Event Providers to contact you using the email address or other contact information you provided. If, before we provide your contact information to an Event Provider, you request not to receive promotional emails from Ticketmaster, then we will pass that request on to the Event Provider (unless you register with the Site using a Canadian postal code, as further described in "Special Provisions Regarding Canadian Call Centres and Customers" below). Nonetheless, because Event Providers are not part of Ticketmaster, Event Providers are not subject to this privacy policy and may still use your contact information to communicate with you by sending emails or through other means, and may share your contact information with others. If you want to learn about a particular Event Provider's privacy policies, or you do not want to receive communications from a particular Event Provider, or you have other questions, instructions or concerns to which you would like an Event Provider to respond, then you must contact that Event Provider directly. Also, you may contact an Event Provider directly to learn whether you may purchase tickets to the Event Provider's event anonymously (i.e., without having that Event Provider receive your contact information) by purchasing tickets directly through the Event Provider's box office using cash instead of purchasing through Ticketmaster. Alternatively, you may purchase tickets at a Ticketmaster in-store outlet and not provide any contact information.  
+---|---  
+  
+  | **Providing Merchants with Contact Information.** In addition to selling event tickets on the Site, Ticketmaster may sell other goods or services, allow you to make reservations, or allow you to participate in (or register for) contests, sweepstakes or other offers or programs (such as discount or rewards programs, magazine subscriptions, hotel bookings or cruises) on the Site. Typically, these goods, services, contests, sweepstakes or other offers or programs ("Special Offers") for which you make purchases, orders or reservations, or for which you participate in or register, are provided by third parties ("Merchants"). Consequently, if you elect to engage in a Merchant's Special Offer, Ticketmaster may provide that Merchant with your contact information-in fact, when you elect to engage in a Merchant's Special Offer you affirmatively and expressly consent for us to provide your email address and other information to that Merchant. Because Merchants are not part of Ticketmaster, Merchants are not subject to this privacy policy and may use your contact information to communicate with you by sending emails or through other means, and may share your contact information with others. If you want to learn about a particular Merchant's privacy policies, or you do not want to receive communications from a particular Merchant, or you have other questions, instructions or concerns to which you would like a Merchant to respond, then you must contact that Merchant directly.  
+---|---  
+  
+  | **Divulging Your Contact Information for Legal and Administrative Reasons**. We may disclose specific contact information when we determine that such disclosure is necessary to comply with law, to cooperate with or seek assistance from law enforcement or to protect the interests or safety of Ticketmaster or other visitors to the Site or users of services or products provided by Ticketmaster. Also, your contact information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of Ticketmaster.  
+---|---  
+  
+  | **Providing Non-Ticketing Affiliates with Contact Information.** We may also share your contact information with our Non-Ticketmaster Affiliates (defined below), but each Non-Ticketmaster Affiliate who receives your contact information will comply with the terms of this privacy policy with respect to its use and disclosure of the contact information we share with it, unless the Non-Ticketmaster Affiliate is also receiving it because it is an Event Provider or Merchant as described above (in which case it will not be required to comply with this privacy policy with respect to its use or disclosure of such information). When we say "Non-Ticketmaster Affiliates" we mean Ticketmaster's subsidiaries, parents and affiliates (and businesses owned by Ticketmaster and such companies) that are not part of Ticketmaster (please see the above paragraph entitled "Who We Are" to see how "Ticketmaster" is defined). Examples of Non-Ticketmaster Affiliates include, but are not limited to, Expedia, Match.com, HSN, Hotels.com and TicketWeb.  
+---|---  
+  
+  | **Other Instances where Contact Information may be Shared.** If you are opted out of receiving all promotional emails, then we will not share your contact information with unaffiliated third parties, unless we are otherwise permitted to under this privacy policy (for example, we will still be permitted to share your contact information with Event Providers or Merchants but only to the extent permitted above). If you do not opt out of receiving all promotional emails, then we may share your contact information if we believe it makes business sense. These third parties may communicate directly with you about their products and services.  
+---|---  
+  
+  | **Responsibility.** Ticketmaster will not be responsible or otherwise liable for any use or disclosure of your contact information by a third party to whom Ticketmaster is allowed to disclose your contact information under this privacy policy.  
+---|---  
+| **How We Use Financial Information; Responsibility**  
+---|---  
+  | We use your financial information to check your qualifications, to help us efficiently perform sales and other transactions on the Site, to deliver the goods and services you have requested, to enroll you in the discount, rebate and other programs in which you elect to participate and to perform quality assurance. In some cases we may use, and consequently we may provide to service providers, your financial information to help us perform some of these tasks. In such cases, we will require these service providers to enter into agreements with us regarding the confidential handling of your information. We may also provide your financial information to your credit card issuer, financial institutions or credit card processors to process transactions and for their other purposes. We may provide your financial information to Event Providers, primarily for facilitating "will call" ticket pick up, dispute resolution and customer service at the event venue on the date of the event, and may provide your financial information to those Merchants who are providing you with the goods, services or reservations you purchase or order, or who are administering the offers or programs you enter, through the Site. 
+
+We may disclose specific financial information when we determine that such disclosure is necessary to comply with law, to cooperate with or seek assistance from law enforcement or to protect the interests or safety of Ticketmaster or other visitors to the Site or users of services or products provided by Ticketmaster. Also, your financial information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of Ticketmaster.
+
+Ticketmaster will not be responsible or otherwise liable for any use or disclosure of your financial information by a third party to whom Ticketmaster is allowed to disclose your financial information under this privacy policy.  
+  
+  
+| **How We Use Demographic Information**  
+---|---  
+  | 
+
+We may use your demographic information to perform business analyses or to tailor the Site and communications to your interests. We may share anonymous, aggregated (grouped) demographic information with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. Any time that we are allowed under this privacy policy to share your contact information or financial information, we may also share your demographic information along with it.  
+  
+  
+| **Information Other Web Sites Collect From You**  
+---|---  
+  | 
+
+On the Site, we place links to other web sites operated by other parties. Some of these other web sites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this privacy policy does not apply to these other web sites. Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions.  
+  
+  
+| **Your IP Address**  
+---|---  
+  | 
+
+Like most e-commerce websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you.  
+  
+| **Cookies**  
+---|---  
+  | 
+
+Like most websites, the Site uses cookies to help it keep track of your purchases and other activity on the Site and enhance your experience on the Site. We also use cookies to deliver content specific to your interests and to facilitate the retrieval of information so you do not have to re-enter it each time you visit the Site. On the Site, others may place or read cookies on your browser as well. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas or features of the Site.  
+  
+  
+| **Our Security Precautions; Geographic Location of Information**  
+---|---  
+  | 
+
+The Site has security measures in place to help protect against the loss, misuse and alteration of the information under our control. We use secure socket layer (SSL) technology to help protect the security of commerce transactions. We encrypt your contact information and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained in whole or in part on computer networks which may be located outside of the state, province, country or other governmental jurisdiction in which you reside, and may be stored on equipment or in facilities leased or licensed from third parties.  
+  
+  
+| **Public Areas**  
+---|---  
+  | 
+
+The Site may provide you with the opportunity to post information for display in areas of the site that are accessible to viewing by the general public ("public areas"), including, but not limited to, bulletin boards, chat rooms and user-submitted concert or other event reviews. This privacy policy does not apply to any information that you submit for use in public areas. We ask that you do not submit any contact information or financial information for display in public areas, as other people who use the Site will see it. If you submit such information for display in public areas, Ticketmaster cannot prevent it from being used in a manner that violates the law, your personal privacy or your safety. By submitting such information for display in public areas, you assume the risks and sole liability arising as a result of such information being displayed.  
+  
+| **How You Can Access and Update Your Email Preferences, Contact information and other My Account Information; Deleting Information**  
+---|---  
+  | 
+
+You may click on the Site's My Account link and follow the instructions to modify information you have previously provided to us or to indicate (in greater detail) which types of promotional emails you want (or do not want) to receive from us. Emails that we send you may also have links to the Site's My Account section. If you would like to delete a My Account account that contains your information, please contact customer service. Please note that deleting your account on My Account will not delete all of your contact information or other information contained on our systems, as much or all of this information will be retained to preserve records of our commercial relationship with you. Further, certain information may have already been provided to third parties as described above.
+
+Please note that changing information through your My Account profile, or otherwise opting-out of receipt of email communications from Ticketmaster and third parties (other than Event Providers or others for whom you cannot use the Site to cause an opt-out to be effective as stated above) will only change the data reflected in My Account for purposes of transacting future business on the Site and for managing future communications from Ticketmaster. If Ticketmaster has already provided your information to a third party before you have changed it on My Account, then it is possible that the third party will not receive an update of the information reflecting the change.  
+  
+  
+| **How to Contact Us Regarding Privacy; Notice**  
+---|---  
+  | 
+
+If you have any questions or concerns about this privacy policy or would like to contact us regarding the information you have submitted to us, you can contact us at the following addresses:
+
+To contact us from Canada:  
+
+
+  * By email: [legal@ticketmaster.ca](mailto:legal@ticketmaster.ca)
+  * By Mail:  
+c/o Legal Department   
+Ticketmaster Canada Ltd.  
+Suite 3900, 1 Blue Jays Way  
+Toronto, Ontario M5V 1J3
+
+
+
+To contact us from the United States or anywhere other than Canada:  
+
+
+  * By email: [legal@ticketmaster.com](mailto:legal@ticketmaster.com)  
+
+  * By Mail:  
+Privacy Officer  
+c/o Legal Department   
+Ticketmaster, L.L.C.  
+8800 Sunset Blvd.  
+West Hollywood, CA 90069
+
+
+
+If, to the extent required by law or otherwise, we notify you that the security of the information you submit has been compromised, then you agree that we may give you such notice by email instead of by regular mail.   
+  
+| **Special Provisions Regarding Canadian Call Centres and Customers**  
+---|---  
+  | 
+
+This privacy policy also applies to transactions made, and data gathered, by Ticketmaster Canada Ltd. telephone call centres in connection with selling tickets to Canada-based events (and associated goods and services) ("Canadian Call Centres"). All information you provide to our Canadian Call Centres may be used and disclosed in the same way that the information you provide to the Site may be used and disclosed by us under this privacy policy or by any third party to whom Ticketmaster is not prohibited (under this privacy policy) from disclosing your information (including, but not limited to, being used in connection with contacting you). Also, if you provide an email address when placing an order through a Canadian Call Centre, then you agree that we may use that email address in order to send you promotional emails and may provide it to Event Providers. 
+
+If you provide a Canadian postal code when registering with the Site, then we may send you an email inviting you to select the types of promotional emails that you would like to receive from Ticketmaster, and then, if you do not make any selections, we will not send you any more promotional emails at that email address. Event Providers may still communicate with you, however, regardless of whether or not you opt-in to receive further promotional emails, and it is possible that in most cases we may not share with them whether or not you have elected to receive promotional emails from us.   
+  
+[Return to Policies](https://web.archive.org/h/policies.html)  
+  
+|  |   
+  
 |   
-**Privacy Policies**  
-Ticketmaster Canada Ltd. ("we" or "Ticketmaster") has created this privacy policy to demonstrate our firm commitment to protecting your personal information and informing you about how we handle it. This privacy policy only applies to transactions made, and data gathered, on the ticketmaster.ca web site (the "Site"), and to transactions made, and data gathered, by Ticketmaster Canada Ltd. telephone call centers in connection with selling tickets to Canada-based events (and associated goods and services) (our "Telephone Ordering System"). This privacy policy does not apply to any other web site or offline point of contact between Ticketmaster and consumers. Please review this privacy policy periodically as we may update it from time to time. **This privacy policy was last revised on September 12, 2002**. Each time you visit the Site or provide us with information, by doing so you are accepting the practices described in this privacy policy at that time. |   
----|---|---  
   
-|  | **Your IP Address**  
-Like most e-commerce websites, each time you visit the Site, we automatically collect your IP address and the web page from which you came. In order to administer and optimize the Site for you and to diagnose problems with our Site, we use your IP address to help identify you and to gather broad demographic information about you.  |   
-  
-|  | **Cookies**  
-Like most websites, the Site uses cookies to keep track of your purchases and other activity on the Site and enhance your experience on the Site. We also use cookies to deliver content specific to your interests, to save your password, and if you choose, to save other personal and financial information so you do not have to re-enter it each time you visit the Site. Third parties advertisers on the Site may also place cookies on your browser. If you wish to disable these cookies, the "help" portion of the toolbar on most browsers will tell you how. However, if you set your browser to disable cookies, you may not be able to access certain areas on the Site. |   
-  
-|  | **Information We Collect From You**  
-In order to operate the Site, or our Telephone Ordering System, and provide you with information on products and services that may be of interest to you, we may collect personal information (i.e. information that could be used to contact you such as full name, postal address, phone number and email address), financial information (e.g. passwords and credit card numbers) and demographic information (postal code, hometown, gender, purchase history information and age) from you. Please note that nowhere on the Site do we knowingly collect personal information from children under the age of 13. |   
-  
-|  | **Information Other Web Sites Collect From You**  
-On the Site, we place links to other web sites operated by other parties. Some of these other web sites contain our brand names and trademarks and other intellectual property that we own; others do not. When you click on these links and visit these other web sites, regardless of whether or not they contain our brand names, trademarks and other intellectual property, you need to be aware that we do not control these other web sites or these other web sites' business practices, and that this privacy policy does not apply to these other web sites. Consequently, the operators of these other web sites may collect different kinds of information about you, and may use and disclose that information in different ways than we would if it were collected on the Site. We encourage you to review their privacy policies and remind you that we will not be responsible for their actions. |   
-  
-|  | **How We Use Personal Information**  
-We use your personal information to help us efficiently perform transactions on the Site and our Telephone Ordering System, to deliver the services you have requested, to contact you when necessary in connection with events for which you purchased tickets on the Site or through our Telephone Ordering System (including event confirmations, changes and cancellations), and to send you information, offers and other promotional materials from Ticketmaster and selected third parties. We carefully select the information we send to you and attempt to send you offers that are of value to you, such as discounts, exclusive offers or special event information. The Site provides you with the option of declining to receive offers from Ticketmaster by "opting-out" of receiving this type of communication. If you are ordering through our Telephone Ordering System, then you can opt out of receiving offers from Ticketmaster by not providing an email address to be used for newsletters, special offers and upcoming event information. Ticketmaster's marketing emails contain a link to the Site so you can "opt-out" as well. 
-
-To process transactions on the Site or via our Telephone Ordering System, we may share your personal information with our agents, representatives, contractors and service providers so they can provide us with support services such as authorization of credit card transactions, order fulfillment and sweepstakes and promotional fulfillment. We require these entities not to use your information for any other purpose. 
-
-By purchasing tickets on the Site or via our Telephone Ordering System, you consent to us sharing your personal information with the venues, promoters, artists, teams, leagues and other third parties associated with the concerts and events for which you purchase tickets ("Event Partners"). Due to our contractual obligations with Event Partners, we are required to provide this information to deliver the services you have requested and we cannot offer you the opportunity to opt-out of our sharing of your personal information with them. Event Partners may use your personal information in accordance with their own privacy policies. You will need to contact those Event Partners who contact you to instruct them directly regarding your preferences for the use of your personal information by them. 
-
-By purchasing, or making reservations for, products or services (such as magazine subscriptions, hotel bookings or cruises), electing to receive communications (such as emails) or electing to participate in contests, sweepstakes, or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site or via our Telephone Ordering System, you consent to our providing your personal information to those third parties. Those third parties may use your personal information in accordance with their own privacy policies. You will need to contact those third parties to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we will have the right to use and disclose all such information submitted by you in the same manner in which we use and disclose all other information submitted by you. 
-
-We may select third parties with whom we will share your personal information so that they can communicate directly with you about their products and services. In order to decline having your personal information that we collected on the Site shared with these selected third parties, you must, in the My Account section of the Site, uncheck both the box for receiving Special Ticket Offers and the box for receiving Ticket Related Merchandise and Services. In order to decline having your personal information that we collected via our Telephone Ordering System shared with these selected third parties, you must not provide to our Telephone Ordering System operator an email address that may be used for newsletters, special offers and upcoming event information. 
-
-Your personal information may be passed on to a third party in the event of a transfer of ownership or assets, or a bankruptcy, of Ticketmaster. We may also disclose specific information when we determine that such disclosure is necessary to comply with law, to cooperate with law enforcement or to protect the interests or safety of Ticketmaster or other visitors to the Site or users of services or products provided by Ticketmaster. We may also disclose your personal information to our subsidiary and parent companies and businesses, and other affiliated legal entities and businesses with whom we are under common corporate control. However, all of these parent, subsidiary and affiliated legal entities and businesses that receive your personal information from us will comply with the terms of this privacy policy with respect to their use and disclosure of such personal information. 
-
-Except as may otherwise be described in this policy, we have no control over the personal information practices of Event Partners and other third parties. As described above, by purchasing tickets on the Site or through our Telephone Ordering System, purchasing other products or services from third parties, electing to receive communications from or to participate in contests, sweepstakes or other programs associated with, or sponsored by, third parties, or otherwise opting to allow us to share your information with third parties as permitted in this policy, you authorize us to share your personal information with Event Partners and these other third parties, and you agree that we are not responsible or liable for any of their actions or omissions. These Event Partners and these other third parties may use your personal information in accordance with our contractual arrangements with them and in accordance with their own privacy policies, over which we have no control. You will need to contact them directly in order to instruct them regarding your preferences for how they use your personal information. 
-
-|   
-  
-|  | **How We Use Financial Information**  
-We use your financial information to check your qualifications, to bill you for products and services and to enable you to participate in discount, rebate and similar programs in which you may elect to participate. By making a purchase, or engaging in any other kind of activity that uses financial information, on the Site or via our Telephone Ordering System, you consent to our providing your financial information to our service providers and to such third parties as we determine is necessary to process your transactions, as well as to your credit card issuer for their purposes. These third parties may include the credit card companies and banking institutions used to process the transaction. Also, depending on the circumstances of our arrangements, we may share your financial information with applicable Event Partners, primarily for facilitating "will call" ticket pick up and dispute resolution and customer service at the event venue on the date of the event. By purchasing, or making reservations for, products or services of third parties (such as magazine subscriptions, hotel bookings or cruises) offered on the Site or through our Telephone Ordering System, or by participating in programs offered on the Site or through our Telephone Ordering System that are administered by third parties and that require you to submit financial information in order to use them, you also consent to our providing your financial information to those third parties. Any of these various third parties are authorized to use your financial information in accordance with our contractual arrangements with such third parties and in accordance with their own privacy policies, over which we have no control.  |   
-  
-|  | **How We Use Demographic Information**  
-We use demographic information to tailor the Site and communications to the interests of our users. We may share your personal and demographic information with our Event Partners. We may share anonymous, aggregated (grouped) demographic information with advertisers and other third parties so that they can tailor their advertisements and communications to the appropriate audience. If you consent to have us share, or we are otherwise allowed to share, your personal information, as described above, then the demographic information that we provide to third parties may be linked to your personal information so that they will be able to know about your demographic information on a non-anonymous basis. |   
-  
-|  | **Our Security Precautions**  
-The Site has security measures in place to protect against the loss, misuse and alteration of the information under our control. Our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. We encrypt all of your personal and financial information as it travels over the Internet and we store your financial information on our servers in encrypted form. Your information may be transferred to and maintained on computer networks which may be located outside of the province, state, country or other governmental jurisdiction in which you reside, and the country or jurisdiction in which these computer networks are located may not have privacy laws as protective as the laws in your country or jurisdiction. |   
-  
-|  | **How You Can Access and Update Your Email Preferences, Personal Information and other My Account Information**  
-During the creation of your "My Account" account on the Site, we will give you the opportunity to opt-out of the receipt of certain communications from us and third parties, other than our Event Partners. We also give you the opportunity to opt-out and modify information you provided to us through the Site at any time by clicking on the My Account link, navigating to your "My Account" account and selecting those portions of your account you would like to update. Please note that if you have multiple accounts on the Site or on our Telephone Ordering System, you may need to set preferences for each such account separately, because if you change the preferences on one account it may not automatically change the preferences for your other accounts. 
-
-When you complete a purchase transaction through our Telephone Ordering System and provide an email address to opt-in (as described above), or when you complete a purchase transaction through the Site, we will automatically set certain email preferences for you. We will then send you an email in which you will be reminded of these email preferences and provided with a link to change your preferences. If you have already created a "My Account" account that has been associated with that purchase, then the link will take you to the My Account section of the Site where you can change your preferences. If you have not already created such an associated "My Account" account then the link will permit you to opt-out of email communications from Ticketmaster and third parties (other than Event Partners) except those related to your purchase. After we collect personal information that you submit in connection with purchasing or reserving products or services, electing to receive communications or electing to participate in contests, sweepstakes, or other programs (such as discount or rewards programs), offered or sponsored by third parties on the Site (other than event tickets), we may use such information to send you marketing emails. However, if we do so, we will provide a link that you can click on to opt-out of receiving subsequent marketing emails generated from the same such information. 
-
-Please note that changing or deleting your information through your My Account Profile, or otherwise opting-out of receipt of email communications from Ticketmaster and third parties (other than Event Partners) will only change or delete the data in our My Account database for purposes of transacting future business on the Site and for managing future communications from Ticketmaster and third parties. These changes and deletions will not change or delete: 
-
-A) Information already collected as part of a particular ticket purchase in our transactions database which may be shared with our Event Partners regardless of your email preferences; or 
-
-B) Information that we may have already forwarded to Event Partners, credit card companies or any other third parties, all as provided above in this privacy policy.
-
-|   
-  
-|  | If you have any questions or concerns about this privacy policy, the practices of the Site or our Telephone Ordering System, or your dealings with the Site or our Telephone Ordering System, you can contact us at [legal@ticketmaster.ca](mailto:legal@ticketmaster.ca). 
-
-You can also send us mail to: Privacy Officer, Ticketmaster.ca, c/o Legal Department, #3900, 1 Blue Jays Way, Toronto, Ontario M5V 1J3.
-
-|   
-  
-
+|  |  |  |  | 
