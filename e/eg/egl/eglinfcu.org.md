@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601114756id_/http%3A//www.eglinfcu.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eglinfcu.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000622id_/http%3A//www.eglinfcu.org/privacy.asp) for the most accurate reproduction.*
 
 # Eglin Federal Credit Union - Privacy Statement
 
@@ -17,7 +17,7 @@ We are committed to taking reasonable steps to protect the privacy of our member
   * We comply with requests to provide information when legally required or permitted to do so; upon receipt of your written authorization; for credit reporting; and to prevent fraud. 
   * We may share member information with companies that assist us in providing services such as ATM, debit and credit cards; checking accounts; bill paying service; insurance; investments; statement mailing; etc. These business partners will be given only the information they need in order to provide the service. As part of their contract with us they must agree to protect our members' information by meeting our confidentiality requirements. We disclose the identity of any third-party contractor upon request. 
   * We do not disclose information about former members except as permitted by law. 
-  * Any member who does not want to receive information from our business partners who offer products designed to enhance their financial well-being (such as insurance or investments), may [call or write](https://web.archive.org/web/20030601114756id_/http%3A//www.eglinfcu.org/contact.asp) us requesting that they be excluded from any future offerings. 
+  * Any member who does not want to receive information from our business partners who offer products designed to enhance their financial well-being (such as insurance or investments), may [call or write](https://web.archive.org/web/20031203000622id_/http%3A//www.eglinfcu.org/contact.asp) us requesting that they be excluded from any future offerings. 
 
 This statement updates and replaces any other notices about our privacy policy. 
 
