@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobilerainbow.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204032324id_/http%3A//www.mobilerainbow.co.uk/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilerainbow.co.uk privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405085151id_/http%3A//www.mobilerainbow.co.uk/policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 The purpose of this Privacy Policy is to inform you of what kinds of information we gather about you as a visitor to our website, how we may use that information and who we may share that information with. Our customer privacy policy is contained within the 'Privacy Policy' pdf. Click the link below to download this document. 
 
-[](https://web.archive.org/web/20041204032324id_/http%3A//www.mobilerainbow.co.uk/policy.pdf)
+[](https://web.archive.org/web/20050405085151id_/http%3A//www.mobilerainbow.co.uk/policy.pdf)
 
 By accessing, browsing and/or using our website you agree to the following terms. If you do not agree you must cease to use our website. 
 
