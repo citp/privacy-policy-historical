@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212151644id_/http%3A//naplesnews.com/cgi-bin/sendto.pl%3Flocation%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408052125id_/http%3A//www.naplesnews.com/cgi-bin/sendto.pl%3Flocation%3Dprivacy) for the most accurate reproduction.*
 
 # naplesnews.com | Privacy Policy
 
@@ -76,14 +76,13 @@ The right to download and store or output the materials in our sites is granted 
   
 
 
-|  |  |  |  [](http://www.goshopnaples.com/)  
+|  |  |  |    
+  
+[](http://www.goshopnaples.com/)  
 Searchable Directory of Online Advertisers  
   
-[](http://cfapps.naplesnews.com/topjobs/hotjobs.cfm)  
+[](http://admaster.scripps.com/cfapps/2/jobs_more.cfm?&site_id=2&rail_type=jobs)  
 Employment ads from The Naples Daily News  
-  
-[](http://www.naplesnews.com/contest/christmas)  
-Enter for a chance to win hundreds of holiday dollars!  
   
   
   
@@ -100,11 +99,11 @@ Save at local area businesses.
 **[Ad Rates:](http://www.naplesnews.com/advertising/)**  
 For Naples Daily News and naplesnews.com
 
-**[CD Busniess Cards](http://www.naplesnews.com/business_cds/)**  
+**[CD Business Cards](http://www.naplesnews.com/business_cds/)**  
 Impress your business associates and clients with this new sales tool
 
 **[BillPay](http://www.naplesnews.com/billpay/)**  
 Manage your advertising account payments
 
-**[Subscribe:](http://www.naplesnews.com/circulation/)**  
-Get the print edition of the Daily News delivered to your door.
+[**Circulation Customer Service**](http://chatter.naplesnews.com/transactiontype.asp)  
+Use our NEW automated WEB service to report delivery problems, start or stop delivery, change of address and for any other reason you need to contact the circulation department.
