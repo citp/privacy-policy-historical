@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2004-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040216161411id_/http%3A//www.itworldcanada.com/Pages/ContentPage.aspx%3Fname%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207012439id_/http%3A//www.itworldcanada.com/Pages/ContentPage.aspx%3Fname%3DPrivacy) for the most accurate reproduction.*
 
-# IT WORLD CANADA INC. ONLINE PRIVACY STATEMENT
+# IT World Canada Inc. Online Privacy Statement
 
-IT WORLD CANADA INC. ONLINE PRIVACY STATEMENT
+IT World Canada Inc. Online Privacy Statement
 
 Effective January 1, 2004
 
@@ -22,19 +22,13 @@ Please read this Privacy Statement completely before using or submitting informa
 ITWorldCanada.com is the Web site for IT World Canada Inc. and its publications: _CIO Canada, ComputerWorld Canada, Network World Canada, CIO Governments' Review_ and _IT Focus_.
 
 This site is maintained by:  
-
-
-IT World Canada
-
-302-55 Town Centre Court
-
-Scarborough, ON, M1P 4X4
-
-Phone: (416) 290-0240
-
+IT World Canada  
+302-55 Town Centre Court  
+Scarborough, ON, M1P 4X4  
+Phone: (416) 290-0240  
 Fax: (416) 290-0238
 
-If you have a question about this statement, contact IT World Canada's Privacy Officer by mail at the above address, by phone, or email [privacy@itworldcanada.com](mailto:privacy@itworldcanada.com)
+If you have a question about this statement, contact IT World Canada's Privacy Officer by mail at the above address, by phone at (800)565-4007, or email [privacy@itworldcanada.com](mailto:privacy@itworldcanada.com)
 
 You can also contact us at this address if you have a question about IT World Canada's handling of your information, if you wish to obtain a copy of information you have provided to us, or if you become aware that information you have provided is incorrect and would like us to correct it. Before we can provide information or correct any inaccuracies, however, we may ask you to verify your identity and other details that will help us to respond to your request. We will endeavour to respond within a reasonable timeframe.
 
