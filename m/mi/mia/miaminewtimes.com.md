@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810114727id_/http%3A//miaminewtimes.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miaminewtimes.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603081850id_/http%3A//www.miaminewtimes.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Miami New Times | miaminewtimes.com | About The Alternative Miami connection for events, event listings, music reviews, CD reviews, and all of the latest alternative news from the Miami area.
+# Miami New Times | miaminewtimes.com | About |
 
 ****
 
