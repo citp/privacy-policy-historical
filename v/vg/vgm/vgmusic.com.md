@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vgmusic.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204194806id_/http%3A//vgmusic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgmusic.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607165406id_/http%3A//www.vgmusic.com/privacy.php) for the most accurate reproduction.*
 
 # VGMusic.com - Privacy Policy
 
