@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603162206id_/http%3A//jobscience.com/corporate/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204174001id_/http%3A//jobscience.com/corporate/Privacy.cfm) for the most accurate reproduction.*
 
 # Jobscience | Privacy Policy
 
@@ -6,10 +6,10 @@
 
 Date : 1/31/2020 
 
-** |   
+** |  [ ](http://ad.doubleclick.net/jump/N763.jobscience/B46445;sz=468x60;ord=D15BD888-A9FD-4797-A9E1272DE2BA3728?)  
 ---|---  
    
-[](https://web.archive.org/) | [](https://web.archive.org/) | [](https://web.archive.org/) |  |  | [](https://web.archive.org/LoginForm.cfm)  
+[](https://web.archive.org/) | [](https://web.archive.org/) | [](https://web.archive.org/) |  | [](https://web.archive.org/search/) | [](https://web.archive.org/LoginForm.cfm)  
 [](https://web.archive.org/)[](https://web.archive.org/jsr/)[](https://web.archive.org/emp/)[](https://web.archive.org/partner/)[](https://web.archive.org/help/)  
 |  |  |   
 ---  
@@ -18,10 +18,10 @@ Date : 1/31/2020
    
 **     · [About Us](https://web.archive.org/corporate/)**   
 **     · [Business Summary](https://web.archive.org/corporate/Summary.cfm)**   
-**     · [Jobscience Fact Sheet](https://web.archive.org/web/20010603162206id_/http%3A//jobscience.com/corporate/Fact.cfm)**   
-**     · [Industry Background](https://web.archive.org/web/20010603162206id_/http%3A//jobscience.com/corporate/Industry.cfm)**   
+**     · [Jobscience Fact Sheet](https://web.archive.org/web/20011204174001id_/http%3A//jobscience.com/corporate/Fact.cfm)**   
+**     · [Industry Background](https://web.archive.org/web/20011204174001id_/http%3A//jobscience.com/corporate/Industry.cfm)**   
 **     · [Our Team](https://web.archive.org/corporate/Team.cfm)**   
-**     · [Careers with](https://web.archive.org/web/20010603162206id_/http%3A//jobscience.com/corporate/Careers.cfm)  
+**     · [Careers with](https://web.archive.org/web/20011204174001id_/http%3A//jobscience.com/corporate/Careers.cfm)  
       [Jobscience](https://web.archive.org/corporate/Careers.cfm)**   
 **     · [Press](https://web.archive.org/corporate/Press.cfm)**   
 **     · [Terms of Use](https://web.archive.org/corporate/Terms.cfm)**   
@@ -32,7 +32,7 @@ Date : 1/31/2020
     
 **     · [Site Map](https://web.archive.org/Sitemap.cfm)**   
 **     · [Take the Tour](https://web.archive.org/tour/)**   
-**     · Live Support**   
+**     · [Live Support](https://web.archive.org/Support.cfm)**   
 **     · [About Us](https://web.archive.org/corporate/)**   
 **     · [FAQ - Help](https://web.archive.org/help/)**   
 **     · [Contact Us](https://web.archive.org/feedback/)**   
