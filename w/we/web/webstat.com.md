@@ -1,17 +1,11 @@
-> *The following text is extracted and transformed from the webstat.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611223725id_/http%3A//www.webstat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webstat.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206223214id_/http%3A//www.webstat.com/privacy.php) for the most accurate reproduction.*
 
 # WebSTAT
 
-|  **Member Login:**  
----  
-Click [HERE](http://www.webstat.com/password.php) if you forgot your username and/or password.  
-**Webstat Options:**  
-  
-  
-[ ](http://www.thefreesite.com/)  
-   
-  
-   
+|  |   
+---|---  
+|     
+|     
 WebSTAT.Com - Privacy Statement |  Privacy Statement  
 ---  
 **Commitment to Privacy:**  
@@ -21,7 +15,7 @@ WebSTAT.Com respects the sensitive nature of the information you provide us. Our
 When you sign up for an account on WebSTAT.Com, you provide us with some personal information.  Some of it is optional but most is required.  Personal information includes such things as your name, zip code, time zone, and email address which is used to help identify unique accounts, provide you with web traffic statistics tailored to your website, and to provide a level of accountability for use of our services.  Optional information includes a demographic and interest survey.  This information is not used in conjunction with your personal information.  It is used abstractly in part to help us develop our services to meet the needs of the majority of our users and to deliver relevant advertising content.  WebSTAT does not collect, store, or use information about children under 13. You must be at least 13 years of age in order to use a WebSTAT account. E-mail addresses are utilized only to notify users of significant changes, to address support concerns, or to resolve abuse issues.  WebSTAT.Com does not provide or sell **any** sensitive user information, including e-mail addresses, billing information, street addresses, phone numbers, etc. to any third party without the express permission of the user.  Your e-mail address will ONLY be provided to our trusted third party marketing partners if you "opt-in" (specifically choose) to receive e-mail offers about products and services.  Any email you receive as a result of an "opt-in" request will provide you with the opportunity to "opt-out" of receiving future e-mails.  WebSTAT does not promote, support, or tolerate e-mail spam! 
 
 **Cookies:**  
-WebSTAT uses cookies to facilitate your navigation around the member area of our website.  This cookie information is set to expire every 20 minutes or when you expressly log out of your account.  Cookies are not used for any other purpose. 
+Cookies are used to facilitate tracking with framed sites. Cookies are not currently used for anything else, although we do have plans to use cookies in the near future for better and more accurate tracking and statistics on returning/unique visitors. 
 
 **Advertising & Third Party Partnerships:**  
 WebSTAT works with reputable third parties such as Sonar Network (Doubleclick), Engage (Flycast), and ValueClick to serve ads to this site. In the course of delivering an ad to you these companies collect certain non-personally identifiable information about you. This information is used to deliver tailored ads to you.  To find out more about how these companies manage the privacy of information in conjunction with serving ads on this site, please visit the following links: [Sonar Network](http://www.sonar.com/content/privacy.htm) | [Engage](http://www.engage.com/privacy/) | [ValueClick](http://www.valueclick.com/privacy.html). 
@@ -29,5 +23,4 @@ WebSTAT works with reputable third parties such as Sonar Network (Doubleclick), 
 **Contact us:**  
 If you have any questions/concerns about our privacy statement, feel free to contact us with [THIS FORM](http://www.webstat.com/email.php). Thank You!   
   
-   
-
+Copyright 1998-2002 WebSTAT.COM, LLC   All rights Reserved.
