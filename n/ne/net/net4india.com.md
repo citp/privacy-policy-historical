@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the net4india.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603160808id_/http%3A//www.net4india.com/html/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net4india.com privacy policy that was archived on 2004-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040807021842id_/http%3A//www.net4india.com/html/privacypolicy.html) for the most accurate reproduction.*
 
-# Net4India ::: Internet Service that means business
+# Net4India ::: Think Net, Think Net4India.
 
   
 Net 4 India knows that you care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting our Web site or by otherwise interacting with Net 4 India, you agree to accept the practices described in this Privacy Notice. The Privacy Policy applies only to Net 4 India and those websites that carry the Net 4 India brand. It does not apply to any other organization’s websites that we provide links to. 
