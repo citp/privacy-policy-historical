@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630073115id_/http%3A//www.democrats.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democrats.org privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216214701id_/http%3A//www.democrats.org/privacy.html) for the most accurate reproduction.*
 
 # DNC: Privacy Policy
 
@@ -43,7 +43,7 @@ We collect your name, contact information, and email address, and certain other 
 
 The DNC respects your privacy. We will not give, sell or rent your email address to any other organization unless you specifically authorize us.
 
-The DNC will not sell, rent, or disclose email addresses or other information about persons obtained solely from members of the eCaptains program when creating their ePrecincts.
+The DNC will not sell, rent, or disclose email addresses or other information about persons obtained solely from members of the online team program when creating their teams.
 
 **When you sign one of our petitions:**
 
