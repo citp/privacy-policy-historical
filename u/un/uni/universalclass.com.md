@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601115404id_/http%3A//home.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalclass.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202231458id_/http%3A//home.universalclass.com/myinterests/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - UniversalClass
 
-|    |   
----|---  
   |  |   Categories  
 ---  
 [Accounting](http://home.universalclass.com/i/subjects/accounting.htm)  
 [Alternative Medicine](http://home.universalclass.com/i/subjects/AlerMed.htm)  
-[Biology/Sciences](http://home.universalclass.com/i/subjects/sciences.htm)  
+[Animal Care and Pets](http://home.universalclass.com/i/subjects/AnimalCareandPets.htm)  
+[Arts and Photography](http://home.universalclass.com/i/subjects/photographycategory.htm)  
 [Business](http://home.universalclass.com/i/subjects/Business.htm)  
 [Career Training](http://home.universalclass.com/i/subjects/careertraining.htm)  
-[Computing/Technology](http://home.universalclass.com/i/subjects/computers.htm)  
+[Computers & Internet](http://home.universalclass.com/i/subjects/computers.htm)  
 [Cooking](http://home.universalclass.com/i/subjects/Cooking.htm)  
 [Counseling Psychology](http://home.universalclass.com/i/subjects/counseling.htm)  
 [Crafts/ Hobbies](http://home.universalclass.com/i/subjects/artsandcrafts.htm)  
 [Creative Writing](http://home.universalclass.com/i/subjects/writinggenre.htm)  
 [Criminal Studies](http://home.universalclass.com/i/subjects/Criminal.htm)  
-[Family Studies](http://home.universalclass.com/i/subjects/familyresources.htm)  
+[Fitness and Nutrition](http://home.universalclass.com/i/subjects/FitnessandNutrition.htm)  
+[General Education](http://home.universalclass.com/i/subjects/GeneralEducation.htm)  
 [Health Care](http://home.universalclass.com/i/subjects/healthcare.htm)  
-[Health/Fitness](http://home.universalclass.com/i/subjects/fitness.htm)  
+[Health/Mind and Body](http://home.universalclass.com/i/subjects/mind-body.htm)  
 [History](http://home.universalclass.com/i/subjects/History.htm)  
-[Home Improvements](http://home.universalclass.com/i/subjects/HomeImprovements.htm)  
+[Home and Garden](http://home.universalclass.com/i/subjects/HomeandGarden.htm)  
 [Home Schooling](http://home.universalclass.com/i/subjects/homeschooling.htm)  
 [How To Start...](http://home.universalclass.com/i/subjects/howtostart.htm)  
 [Language Arts](http://home.universalclass.com/i/subjects/LanguageArts.htm)  
@@ -30,20 +30,24 @@
 [Literature](http://home.universalclass.com/i/subjects/Literature.htm)  
 [Mathematics](http://home.universalclass.com/i/subjects/mathematics.htm)  
 [Medical Billing](http://home.universalclass.com/i/subjects/medicalbilling.htm)  
-[Mind and Body](http://home.universalclass.com/i/subjects/mind-body.htm)  
 [Money Strategies](http://home.universalclass.com/i/subjects/makingmoney.htm)  
-[Performing Arts](http://home.universalclass.com/i/subjects/PerformArts.htm)  
-[Philosophy/Religion](http://home.universalclass.com/i/subjects/religion.htm)  
-[Photography](http://home.universalclass.com/i/subjects/photographycategory.htm)  
-[Professional Dev.](http://home.universalclass.com/i/subjects/professionaldev.htm)  
+[New Age](http://home.universalclass.com/i/subjects/newagebeliefs.htm)  
+[Parenting and Family](http://home.universalclass.com/i/subjects/ParentingandFamily.htm)  
+[Performing Arts](http://home.universalclass.com/i/subjects/PerformingArts.htm)  
+[Professional Skills](http://home.universalclass.com/i/subjects/ProfessionalandTechnical.htm)  
 [Reference](http://home.universalclass.com/i/subjects/Reference.htm)  
+[Religious Studies](http://home.universalclass.com/i/subjects/religiousstudies.htm)  
+[Sciences](http://home.universalclass.com/i/subjects/sciences.htm)  
+[Self-Help](http://home.universalclass.com/i/subjects/selfhelp.htm)  
 [Social Sciences](http://home.universalclass.com/i/subjects/social.htm)  
 [Special Education](http://home.universalclass.com/i/subjects/specialed.htm)  
-[Spiritual Studies](http://home.universalclass.com/i/subjects/Spiritual.htm)  
 [Teacher Tools](http://home.universalclass.com/i/subjects/teacher-tools.htm)  
+[Terminology](http://home.universalclass.com/i/subjects/Terminology.htm)  
+[Test Preparation](http://home.universalclass.com/i/subjects/TestPreparationStudies.htm)  
+[Violence Prevention](http://home.universalclass.com/i/subjects/Violenceprevention.htm)  
 [Web Development](http://home.universalclass.com/i/subjects/learnhtml.htm)  
-[Wildlife Studies](http://home.universalclass.com/i/subjects/animalstudies.htm)  
 [Special Offers](http://home.universalclass.com/i/subjects/specials.htm)  
+[Degrees / Programs](http://home.universalclass.com/degree.htm)  
   
    
  My Views  
@@ -135,13 +139,11 @@ If you don't find the area of your interest, you may suggest a new UniversalClas
   
 ---  
   
-  1. [**Finding Your Soul Purpose**](http://home.universalclass.com/i/crn/7778.htm) (Hot Class!) **4 Stars.** ~Finding Your Soul Purpose~ The purpose of this course is to support you in making choices that are aligned with your authentic self to create a fulfilling life and to live within your true power. This course will guide you in finding your soul, which means becoming aware of yourself as a Soul and as one with God, not as a theory but as a living reality. Your Soul is who you truly are; it is more than your body, your thoughts, or your feelings. It is the highest aspect of you, where you and God are one. Through this course you will learn trust. Learning to tap into your personal power and learn to enhance your self-awareness is really about tuning in and trusting yourself on a deeper level. You gain confidence by being your own confidante: being honest with yourself, asking the right questions and trusting that all the answers lie within. Listening to that inner voice of wisdom, you are empowered to take a stand, be your own person and live your truth. This course Finding Your Soul Purpose doesn't advocate any particular religious or spiritual belief system. I invite you to do the same; set aside any preconceived notions and be open to the ideas presented.  [Rondell Demmings](http://experts.universalclass.com/starfire)
-  2. [**Angels Among Us 2**](http://home.universalclass.com/i/crn/7796.htm) (Hot Class!) **3 Stars.** This course is a continuation of the initial course Angels Among Us. The entire course is found in the material provided. No purchased reading material is required. Discussions will include such topics as how angels are understood in religions other than Christianity, more craft angels, and true testimonies of angels on the earth today. Biblical references to angels and statistics of angels in both the Old and New Testament will be covered. Students can look forward to seeing both sides of angels, good and bad. Also included in the material is the belief and use of angels according to occultic principle.  [Loretta Emmons](http://experts.universalclass.com/lae)
-  3. [**Health Insurance Portability and Accountability Act Compliance Course**](http://home.universalclass.com/i/crn/7564.htm) (Hot Class!) **3 Stars.** Course participants will learn the most recent Details of the (HIPAA legislation) Health Insurance Portability Accountability Act passed by congress. This course will simplify the administrative components of the act. The course covers history and implementation requirements. This interpretation of HIPAA regulations is taught in plain English. The most recent HIPAA regulations are reviewed including but not limited to: * Privacy Standards * Security Standards * Uniform Identifier Standards * Transaction and Code Set Standards Many industry resources will be referenced. We cut your research time down and send you directly to the source. The information will assist medical providers, insurance carrier professionals understand mandated regulations so that they may be in Compliance. You may choose to document your course completion with a Course Participation certificate Students may opt to purchase additional letters of recommendation for work completed in this course. Once achievement of successful passing of the quiz, examination, and assignments you may want to document your success with a certifciate. There is a fee in addition to the course fee for the certificate. Completing this course starts you on your way to compliance.  [Martha Green](http://experts.universalclass.com/valumed)
-  4. [**Celtic Reiki Levels 1 & 2**](http://home.universalclass.com/i/crn/7775.htm) (Hot Class!) **4 Stars.** Celtic Reiki combines the healing energy of Reiki with the ancient wisdom of the Celts and can be used for both healing purposes and goal manifestation. It contains a variety of new techniques based on Celtic ritual and diverse frequencies of energy, which offer the ability to tackle a range of everyday issues such as health, prosperity and finance, work, love and relationships. This practitioner level course will guide you through the various frequencies of energy, symbols and techniques that you can use to improve and enrich your life. Celtic philosophy and tradition is covered and incorporated into the treatments and goal manifestation techniques. With its diverse range of treatment methods, Celtic Reiki can not only be used to treat health issues, but can assist your clients in manifesting their goals too!  [Pamela Jordan](http://experts.universalclass.com/pamelajordan)
-  5. [**Medical Coding - Evaluation and Management Codes**](http://home.universalclass.com/i/crn/7925.htm) (Hot Class!) **3 Stars.** Evaluation and Management Procedural Coding can seem extremely complex and difficult to understand and changes throughout the years seem to add to the confusion. This course is designed for outpatient, as well as inpatient coding subjects; and will assist you in appropriate code selection to help secure full and accurate reimbursement while alerting you to the requirements and guidelines set forth for E&Ms. [Annette Derks](http://experts.universalclass.com/akaderks)[](http://my.universalclass.com/certificate.htm?ID=498&cn=akaderks)[](http://my.universalclass.com/certificate.htm?ID=540&cn=akaderks)[](http://my.universalclass.com/certificate.htm?ID=664&cn=akaderks)[](http://my.universalclass.com/certificate.htm?ID=2026&cn=akaderks)[](http://my.universalclass.com/certificate.htm?ID=14972&cn=akaderks)
+  1. [**Exploring the Chakra System Part I**](http://home.universalclass.com/i/crn/9763.htm) (Hot Class!) **3 Stars.** Exploring The Chakra System We will explore what the Chakra system is all about. To help you understand the Chakra system, it is useful to understand how energy works and how it affects our daily existence. There are many different cultures that have their own unique system of energy or Chakra system. The number of chakras will reflect the philosophy you adopt in terms of cultures, as well as your spiritual path. In this course we will focus on the Hindu 7 Chakra system. Our goal in this course is to learn to understand how energy impacts us as people and how we can learn to identify ways to improve our daily lives by tapping into that information within the Chakras. You will learn about what the different Chakras are, their attributes and corresponding elements. This course is divided into two sections. The first section will offer a brief introduction into the different chakras and how they impact our lives. The second section will cover the Chakra system more indepth and offer various techniques for balancing and doing healing work through the Chakra system.  [Rosa Castro](http://experts.universalclass.com/dragonro)
+  2. [**Netiquette, Emoticons, & Abbreviations for Online Communications**](http://home.universalclass.com/i/crn/9802.htm) (Hot Class!) **4 Stars.** This course introduces, explores, and illustrates netiquette, emoticons, abbreviations, acronyms, concepts and terminology related to online communications, including (but not limited to) email, online discussion forums, chat, and instant messaging. Students will learn terminologies used in the various online communications tools with definitions, image and picture illustrations. The focus is on netiquette rules, use of emoticons, commonly used abbreviations and acronyms for online communications, and instant messaging. If you are more interested in understanding how computers work, you might want to take my Understanding Computers course. If you are interested in general computing or Internet related concepts and terminology, I recommend you take my Understanding Computer & Internet Terminology course. (All these courses may be taken in any order.)  [Dr Yaping Gao](http://experts.universalclass.com/yapingg)
+  3. [**Intuitive Development**](http://home.universalclass.com/i/crn/9635.htm) (Hot Class!) **3 Stars.** Learn how to fine-tune your natural intuitive skills. This course on intuitive development allows students of all levels to enhance and advance their natural psychic abilities through a series of lessons, exercises and group discussions. This course allows students to gain an understanding on how the psychic world works and how they can access it. The course demystifies what the psychic realm is all about. It provides students with simple explanations on how energy and symbolism impacts a person's ability to psychically tap into their environment. In short, this course allows students to tap into the symbolic language of the psychic world. In this course, students will be provided with information on several hands-on techniques, and learn how energy and symbols play a role. Students will learn how to achieve concrete results through a variety of simple drills. Exercises are designed to help students develop their abilities to concentrate, understand the symbolism they tap into and put the information to concrete use. Students will explore energy patterns, symbolism and meditation techniques, as well as get an opportunity to discuss class topics during group discussions. All students are encouraged to participate in the group discussions, as well as submit questions via email whenever they need to. Students can work at own pace.  [Rosa Castro](http://experts.universalclass.com/dragonro)
+  4. [**Finding Your Psychic Niche**](http://home.universalclass.com/i/crn/9687.htm) (Hot Class!) **3 Stars.** There are various psychic techniques that allow us to tap into our lives. Each one requires the use of one of our senses or at least a combination of them. Some techniques you will find are easier to use than others. What you find easy has a lot to do with personal preference and how easy it is for you to apply certain techniques. In order to help you decide which method will suit you best, it will be useful to explore a few of them and see how comfortable there are to use. In this section you will explore how to use the techniques mentioned through the practicing of various simple exercises. Below is a brief list of the technique we will explore: Aura Reading, Opening the psychic eye, Clairvoyance, Scrying, Psychomtery, Crystal reading, Telepathy, Meditation, Visualization [Rosa Castro](http://experts.universalclass.com/dragonro)
+  5. [**CNC Machining Center Setup and Operation**](http://home.universalclass.com/i/crn/9552.htm) (Hot Class!) **4 Stars.** This class will present the concepts related to machining center setup and operation. CNC machining centers are among the most popular metal-cutting machine tools in use today. Almost every company that manufactures any metal products has more than one - and is constantly searching for qualified people to run them. To fully master the use of a CNC machining center, a person must become proficient in three distinct skills - programming, setup, and completing production runs. This class addresses two of the three; setting up a machining center and how to complete a production run (another class is available for helping you learn CNC machining center programming). Special requirement: Note that you need to have two software viewers (Microsoft PowerPoint Viewer and Adobe Acrobat Reader) installed on your computer before you can view material presented in the lessons. Both of these viewers are freely distributed and can be downloaded from our website (www.cncci.com). From the navigation buttons on our website, click SERVICES and then click ON-LINE COURSES. The two viewers can be found at the bottom of this page.  [Mike Lynch](http://experts.universalclass.com/mlynch)
   6. [**More Online Classes...**](http://universalclass.com/i/courses/1.htm)
 
-  
-  
-  |   
+
