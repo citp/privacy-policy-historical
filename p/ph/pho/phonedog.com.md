@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207223135id_/http%3A//www.phonedog.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonedog.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609002010id_/http%3A//www.phonedog.com/us/en/content/privacy.aspx) for the most accurate reproduction.*
 
 # PhoneDog.com - Find the Top 20 Long Distance Plans in Your State
 
-**Privacy, Security, and Your Information**
+**Privacy Policy**
 
-  
 **Phonedog LLC. respects your privacy.** We have created this privacy statement in order to demonstrate our commitment to you, our consumer. This privacy statement discloses the privacy practices for this site, www.phonedog.com. 
 
   * We do not give 3rd parties access to your personal information. 
@@ -20,7 +19,7 @@ We use information gathered about you from our site statistics (for example your
 This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
 **Sending Emails**  
-We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our "[Ask a Question](https://web.archive.org/questions.aspx)" page, to allow you to contact us directly. We strive to promptly reply to your messages. 
+We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our "[Ask a Question](https://web.archive.org/us/en/content/questions.aspx)" page, to allow you to contact us directly. We strive to promptly reply to your messages. 
 
 The information you send to us may be stored and used to improve this site and our products, or it may be reviewed and discarded. However, your information will only be shared with third parties with your explicit permission. 
 
@@ -33,7 +32,7 @@ The only other exceptions to this are, when we are required by law, in the good-
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
 **Tell-A-Friend**  
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Phonedog.com will automatically send the friend a one-time email inviting them to visit the site. We store this information for the sole purpose of sending this one-time email. The friend may contact Phonedog.com using our [Ask a Question Link](https://web.archive.org/Questions.aspx) to request the removal of this information from our database. 
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Phonedog.com will automatically send the friend a one-time email inviting them to visit the site. We store this information for the sole purpose of sending this one-time email. The friend may contact Phonedog.com using our [Ask a Question Link](https://web.archive.org/us/en/content/Questions.aspx) or via email at [infodog@phonedog.com](mailto:infodog@phonedog.com) to request the removal of this information from our database. 
 
 **Contacting the Web Site**  
 If you have any questions about our privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
@@ -41,7 +40,7 @@ If you have any questions about our privacy statement, the practices of this sit
 Phonedog LLC.  
 3524 51st Ave Dr W  
 Bradenton, FL 34210  
-[Contact The PhoneDog Online](https://web.archive.org/Questions.aspx)  
+[infodog@phonedog.com](mailto:infodog@phonedog.com)  
 Thank you for your support.  
 Sincerely,  
-Phonedog CIO 
+Phonedog CIO
