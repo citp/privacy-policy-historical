@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wxyz.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603210720id_/http%3A//www.detnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wxyz.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205001402id_/http%3A//www.detnow.com/privacy.html) for the most accurate reproduction.*
 
 # Detroit Now / WXYZ-TV : Copyright
 
@@ -34,5 +34,5 @@ At any time while assessing our site, any user while online may "opt-out" of fur
 VII. Use of Materials   
 The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at talkback@wxyztv.com. 
 
-To link to the full Terms of Use Agreement pertaining to use of our site, please[ click here](https://web.archive.org/web/20030603210720id_/http%3A//www.detnow.com/copyright.html).  
+To link to the full Terms of Use Agreement pertaining to use of our site, please[ click here](https://web.archive.org/web/20031205001402id_/http%3A//www.detnow.com/copyright.html).  
 
