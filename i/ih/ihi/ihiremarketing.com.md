@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihiremarketing.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602202847id_/http%3A//ihiremarketing.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihiremarketing.com privacy policy that was archived on 2003-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031005044812id_/http%3A//www.ihiremarketing.com/Privacy.asp) for the most accurate reproduction.*
 
 # iHireMarketing Marketing Professionals Job Search and Resume Posting Service FREE To Candidates
 
