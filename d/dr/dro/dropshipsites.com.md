@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the dropshipsites.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209094249id_/http%3A//dropshipsites.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshipsites.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404081027id_/http%3A//www.dropshipsites.com/legal/privacy.html) for the most accurate reproduction.*
 
-# DropshipSites - Privacy Policy
+# Our Privacy Policy - DropshipSites.com
 
-This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please [contact us](https://web.archive.org/web/20041209094249id_/http%3A//dropshipsites.com/contact/index.php).
+This Privacy Policy describes the information we collect from you, what we do with the information, and our information security practices. If you have any questions about our Privacy Policy, please [contact us](http://www.dropshipsites.com/component/option,com_contact/Itemid,3/).
 
-### Information
-
+Information  
 When you sign up for our service, we will ask you to provide contact information such as your name, address, telephone numbers, e-mail addresses, and payment information such as credit card number and expiration date. 
 
 We may ask you to complete user surveys, and to provide certain demographic information, such as age, gender, special interests, etc. You do not have to provide this type of information to use our service if you do not want to. 
@@ -18,8 +17,7 @@ We will also place a cookie that will identify you to us as a repeat visitor or 
 
 [If we send you an e-mail, we may include a marker that will allow to identify e-mail that is opened and viewed.] 
 
-### Use of Personally Identifiable Information
-
+Use of Personally Identifiable Information  
 We will use your personally identifiable information only as follows: 
 
 * For payment purposes and to provide customer support.
@@ -36,18 +34,14 @@ We will not provide any personally identifiable information about you to any oth
 
 _**We absolutely do not transfer or sell your information for inclusion on third party e-mail or other marketing lists.**_
 
-### Use of Non-Personally Identifiable Information
-
+Use of Non-Personally Identifiable Information  
 We may share aggregate statistical data about our customers with third parties, such as advertisers or suppliers. This aggregate statistical data will not identify you personally. 
 
-### What is a Cookie
-
+What is a Cookie  
 A "cookie" is an alphanumeric identifier that is unique to your browser. The cookie will identify your browser to us when you visit our web site so that we may customize your visit. 
 
-### Security of Your Information
-
+Security of Your Information  
 We store your personally identifiable information and payment information [describe secure method of storage]. 
 
-### Children's Privacy
-
+Children's Privacy  
 Our service is not available to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13. 
