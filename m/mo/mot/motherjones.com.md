@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013030412id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621145205id_/http%3A//www.motherjones.com/about/admin/privacy.html) for the most accurate reproduction.*
 
 # MotherJones.com | About Us
 
