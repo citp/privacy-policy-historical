@@ -1,70 +1,127 @@
-> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210113544id_/http%3A//www.epocrates.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204080835id_/http%3A//www2.epocrates.com/company/privacy.html) for the most accurate reproduction.*
 
-# ePocrates, Inc. - Privacy
+# Epocrates Privacy Policy
 
-  
+### Your Privacy
+
+Epocrates, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.epocrates.com](http://www.epocrates.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact Epocrates Customer Support at [support@epocrates.com](mailto:support@epocrates.com?subject=Epocrates%20TRUSTe%20Privacy%20Program%20Statement). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. However, please understand the TRUSTe Privacy Program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
+
+#### Please take a moment to read the following policy to learn how we handle your personal information.
+
+At Epocrates, we are committed to respecting your privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. We take this trust very seriously, and that's why we have put a policy in place to protect your personal information and to document our commitment to you that we will not sell or share your personally identifiable information, including your name, email address, or the information you look up in our medical references, without your permission or as required by law.
+
+The Epocrates Privacy Policy set out below describes our policies and practices regarding the information we collect from you, how we use that information and our commitment to you to safeguard that information. Specifically, this policy addresses the following topics:
+
+[](http://www.truste.org/ivalidate.php?url=www.epocrates.com)
+
+  * What information does Epocrates collect?
+  * How does Epocrates use the information we collect?
+  * Does Epocrates track your use of its products?
+  * How does Epocrates protect your information?
+  * Will Epocrates share the information it collects with others?
+  * Choice and access to your information
+  * Cookies, links and other matters
+  * Important terms
 
 
-* * *
 
-   
-[ FAQs ](https://web.archive.org/web/20030210113544id_/http%3A//www.epocrates.com/company/FAQ/)  
-   
+### What information does Epocrates collect?
 
+At times, we may request that you voluntarily supply us with personal information. Generally this information is requested when you register for a software subscription or online service or when you provide information in connection with an online transaction.
 
-* * *
-
-|  |  |  | 
-
-INTRODUCTION  
-ePocrates has created this privacy policy to demonstrate our commitment to your privacy and the privacy of your patients. This statement sets forth our policies and practices regarding the [http://www.epocrates.com](http://www.epocrates.com/) web site (“Site”), the ePocrates software products (“Software”) and other ePocrates programs, activities and services such as ePocrates Honors™ (“Services”). It is possible, however, that from time to time users participating in particular programs or who use particular products may be subject to different policies, in which case you will be appraised of the applicable policies when you elect to participate in those programs or use those products. 
-
-IMPORTANT TERMS  
-In this policy, when we use the term "we," we mean both ePocrates and third parties with whom ePocrates contracts to assist in its business operations. These contractors may, however, only access your information in furtherance of their services to ePocrates and may not use or disclose your information except as permitted by ePocrates. 
-
-When reviewing any privacy policy on the Internet, you should be familiar with the terms "personally identifiable" and "non-personally identifiable" information. "Personally identifiable information" is any information that can be used to identify, contact or locate you as an individual, as well as any additional data tied to such information. Common examples are your name and email address, along with purchase information associated with those fields. Non-personally identifiable information is information-either in "profile" or "aggregate" form-that, in contrast, is not intended to identify you as an individual. For instance, we may store a profile of an oncologist in New York without tying this information to a name, address or other personally identifiable information. We may also aggregate information to produce general data, such as figures that show that half of our users are over thirty-five years old. 
-
-WHAT INFORMATION DO WE COLLECT?  
+  * When you order, we ask you for your name, e-mail address, shipping and billing addresses, telephone number, and credit card information so that we can complete the transaction.
+  * When you register with Epocrates, we ask for demographic and contact information including your name, e-mail address, date of birth, profession, specialty and medical school attended so that we can provide you with more customized service and information.
+  * When you use Epocrates products, we may track your use of the product, including responses to opportunities to receive further information about clinical messages that you found interesting, as well as what screens you personally review. We do this to provide you with a better experience. For more information on this practice, please refer to "Does Epocrates track your use of its products?" below.
+  * There may be other instances when we ask for information from you. For example, when you participate in a survey or product test or when you enter a contest or other promotional event, we may ask for additional personal information. The information collected, its purpose and how it will be used and by whom will be explained to you at the point of collection if jointly offered with a partner organization or within the accompanying terms for other situations. 
 
 
-CONTACT AND DEMOGRAPHIC INFORMATION  
-If you wish to register to use our Software, receive our Services or make a purchase on our Site, you are asked provide a variety of information, including (a) contact information such as your name and email address, and (b) demographic information such as your date of birth, profession, specialty and medical school attended. We may also collect similar information through contests or other promotions, or through your emailed information and technical support inquiries. Finally, we may supplement your data with information from third parties, including the AMA. 
 
-SITE TECHNICAL AND USAGE INFORMATION  
-As with most Internet sites, the Site collects a variety of technical data, including your IP address (a unique number that identifies your access account on the Internet), domain, and Web browser information. We may track the pages you visited before coming to the Site, the pages to which you jump when you leave the Site, which of our pages you access, and how long you spend on each page. 
+Additionally, we may supplement your data with information from third parties, including the AMA. For example, we compare the name, medical school and graduation information you provide with the AMA database to help verify the accuracy of our subscriber database.
 
-The Site uses "cookies," which are small pieces of information stored on your computer and accessed by our Site. Cookies let our Site recognize returning visitors to our Site, record a visitor's progress from page to page, and recall certain information a visitor entered previously. For instance, a cookie may store your password, or note your particular areas of interest. You can choose to decline our cookies (e.g., by setting your browser to reject cookies), but if you do, some parts of the Site may not operate properly. 
+top
 
-SOFTWARE USAGE DATA  
-ePocrates collects information about your Software usage, and stores this information in both personally identifiable and aggregate forms. This data may include, for instance, which Software screens you visit most often and the number of times you have looked up a certain drug. 
+### How does Epocrates use the information we collect?
 
-HOW DO WE USE THE INFORMATION WE COLLECT?  
-As stated above, your satisfaction with our services is essential to our success, and so we are careful how we use the information we collect. We use contact and demographic information to alert you to developments in the use of pharmaceuticals, from new drugs approved to new studies on existing drugs. We also use this information to contact you regarding relevant ePocrates services and products. For instance, we may contact you (e.g., by email or through PDA-based or desktop messaging products) to you to let you know that we have released a new version of Software or Services, that there are new drug interactions of which you should be aware or that we are modifying one of our policies. We may also use contact and demographic information to send you materials from some of our partners. Please be assured, however, that we do NOT share or sell your name, e-mail address or other contact information with anyone for these purposes. Additionally, we may share aggregated demographic data about our users, such as the number of ePocrates users in California, with a variety of third parties such as current and potential investors and business partners. 
+One of Epocrates' strengths is its community of subscribers. At Epocrates, we strive to extend beyond our applications and provide other services that bring additional value to our subscribers. This includes services such as our Epocrates Honors™ and Advocate programs, and in particular DocAlert messages. These are brief, timely messages that sometimes may be sent to the entire subscriber base if warranted (such as safety alerts from the FDA), but more often are of interest to select groups of subscribers, for example, a particular sub-specialty. To do this, we need to understand who our subscribers are and collect information that will assist us in tailoring subscribers' experiences.
 
-We use technical and usage information in personally identifiable form to tailor your experience at our Site, on our Software or in connection with Services. This may involve displaying content according to your preferences, or showing you new information that we believe will interest you. We also use technical and usage information to help improve the design and function of our Software, Services and Site, and may contact you with questions about your use of these. For example, our development effort has typically considered drug reference usage information and user feedback to establish priorities. 
+Your satisfaction with our services is essential to our success, and so we are careful how we use the information we collect. Epocrates uses your personal information to operate our web site and/or affect your transactions and to assist with the continual improvement of the content and function of Epocrates products. For this reason, we monitor customer traffic patterns and usage to help us improve the design, layout and usability of our products and to provide content and product features of interest to you.
 
-Though we may use aggregate demographic and usage information in business relationships with third parties, we strictly limit the personally identifiable information we share and how it may be used. Specifically, we provide personally identifiable information only to those third parties that in turn use this data to produce and distribute aggregate or non-personally identifiable information. For instance, we may forward drug look-up and other Software usage data to companies that merge this information with their own records and produce aggregate results about the processes doctors follow when prescribing certain drugs. However, be assured that NO drug company will have access to information from us about your particular drug lookups or other personally identifiable information. If you do not wish us to collect any personal data, we recommend that you discontinue using ePocrates software. 
+We use contact and demographic information to alert you to developments in the use of pharmaceuticals, from new drugs approved to new studies on existing drugs. We also use this information to contact you regarding relevant Epocrates services and products. For instance, we may contact you (for example, by email or through PDA-based or desktop messaging products) to let you know that we have released a new product or service or a new version of an existing product, that there are new drug interactions of which you should be aware or that we are modifying one of our policies. We may also use contact and demographic information to send you materials from some of our partners or to invite you to provide us with feedback or to participate in a survey being conducted by one of our partners. If you do not wish to receive these kinds of emails, you may choose to opt out by updating your profile. Click here to learn more about "Choice and Access to Your Data."
 
-Finally, notwithstanding anything else in this policy: (i) in the unlikely event that ePocrates (or substantially all of its assets) are acquired, personally identifiable and aggregate information may be transferred as part of such assets; and (ii) we may share any information with third parties if we are compelled to do so by force of law. 
+top
 
-Note regarding patient data: To the extent we begin collecting patient data, we will treat this data in accordance with the Health Insurance Portability and Accountability Act of 1996 (HIPAA) and other applicable laws and regulations. 
+### Does Epocrates track your use of its products?
 
-LINKS TO OTHER SITES  
-The Site may contain links to or from other sites. We are not responsible for the privacy practices or content of such sites. 
+Epocrates does collect usage information about our products, such as which clinical messages have been read or what screens are viewed. We use this data to improve our subscribers’ experience and to prioritize new product development. For example, if such tracking data were to show that a significant number of our subscribers are accessing dosing information, we may decide to add additional or more extensive dosing calculators in future product updates.
 
-SECURITY  
-ePocrates is committed to ensuring the security of your information. We safeguard the security of the data you send us with physical, electronic and managerial procedures. We urge you to take every precaution to protect your personal data while on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser. 
+Most importantly, WE DO NOT SELL PERSONALLY IDENTIFIABLE INFORMATION about your use of Epocrates products to anyone, including pharmaceutical companies, HMOs or others.
 
-Our commerce site uses industry standard secure sockets layer (SSL) encryption. To make purchases from our store you must use an SSL enabled browser. This protects the confidentiality of your information while it is transmitted over the Internet. As part of real-time payment processing, ePocrates subscribes to a fraud management service. This service provides an extra level of protection to guard against credit card fraud. 
+top
 
-CHOICE/OPT-OUT  
-You may opt out of receiving the following information by updating your profile on our website: E-mails of our newsletter and other updates or information about incentive programs or opportunities to assist ePocrates with product development that we may offer from time to time. To opt out of any of these services, please return to our website, and log in using your ePocrates username and password. Then, click “My Profile” and click “Edit”. Go to the bottom of the form and opt out of your choice, if you select a box, you will NOT receive information. If you wish to opt out of ePocrates' software and services altogether, whereupon we will cease contacting you, please send an e-mail to [info@epocrates.com](mailto:info@epocrates.com) and we will not contact you again. 
+### How does Epocrates protect your information?
 
-CORRECT/UPDATE  
-The Site gives visitors the option of correcting, updating and/or changing contact and demographic information previously provided and stored on our database. Visitors wishing to correct, update or change their information on our database should go to the online registration form at [http://www.epocrates.com](http://www.epocrates.com/) and provide the appropriate information. 
+Epocrates safeguards the security of the data you send us with physical, electronic, and managerial procedures. These procedures include limiting access to the information in various ways depending on the nature of the information as well as training our employees on the proper handling of subscriber information. While we believe we have taken appropriate measures to protect the information that we have received, we urge you to take every precaution to protect your personal data when you are on the Internet. Change your passwords often, use a combination of letters and numbers, and make sure you use a secure browser.
 
-CHANGE POLICY  
-We reserve the right to change this Privacy Policy at any time by providing notice of the existence of a revised Privacy Policy via email or notice on the Site or Software. Your continued use of the Site, Software or Services following the posting of changes to this privacy policy will indicate that you have accepted those changes. 
+When you place orders or access your account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, we take extra steps to protect this data from unauthorized access, disclosure, alteration, or destruction.
 
-CONTACTING ePOCRATES  
-If you have any questions or suggestions about this privacy statement, you may contact: [info@epocrates.com](mailto:info@epocrates.com)
+top
+
+### Will Epocrates share the information it collects with others?
+
+As a rule, Epocrates does not share or sell our subscribers email addresses, we do not disclose the identity of our subscribers; and most importantly, we do not disclose information on how subscribers are using Epocrates products except in aggregate or non-personally identifiable form. Such tracking data is used internally by Epocrates primarily for developing and enhancing products and improving technical usability. For more information, refer to "How does Epocrates use the information we collect?"
+
+However, we obviously must disclose certain information to credit card processors when you make an online purchase. The service providers we use are not permitted to use your information for any secondary purposes. Epocrates may also disclose personal information as allowed or required by applicable law, including making disclosures that are necessary or advisable to: (a) protect the rights, safety or property of subscribers of our web site and products, the public, or Epocrates, and (b) conform to legal or regulatory requirements. No other disclosures of personally identifiable information will be made without your prior consent.
+
+Epocrates may provide aggregate or non-personally identifiable statistics about our customers, sales, product usage or traffic patterns, and related site information, but these statistics will not include any personally identifying information. For example, we may share aggregated demographic data about our subscribers, such as the number of Epocrates subscribers in California or that psychiatrists have more need for drug interaction information relating to psychotropic drugs than primary care practitioners.
+
+Please be assured, however, that we do not sell your name, e-mail address or contact information, software usage information or any other personally identifiable information to outside or third parties.
+
+top
+
+### Choice and Access to Your Information
+
+Epocrates tries to provide you with relevant information on a variety of topics through our newsletters and other email communications. At the same time, we understand that not every subscriber is interested in all of the information and opportunities we offer. So that you may customize your experience with Epocrates, we ask you to select the types of email that you want to receive. The initial selection is made during the registration process, but you can opt into or out of any of these email services at any time by updating your profile as described below. Go to the bottom of the form and make the selection of your choices, if you select a box, you will NOT receive emails of the type listed.
+
+You also have the option of correcting, updating and/or changing contact and demographic information and other matters previously provided and stored on our database. If you wish to correct, update or change your information, simply update your profile.
+
+To update your profile, please log in from the home page of our website at http://www.epocrates.com/ using your Epocrates username and password. Then, click "My Profile" and provide or edit the appropriate information.
+
+top
+
+### Cookies, Links and Other Matters
+
+#### What about "cookies" and web server log files?
+
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use both session and persistent cookies on our website to help us provide you with more personalized service. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use. Disabling cookies in your browser may prevent access to some parts of our site.
+
+As is true of most Web sites, we gather and use certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp. We use this information to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We link this automatically-collected data to personally identifiable information as part of our Web site analysis and to prevent fraud or abuse of our system.
+
+#### What about links to other sites?
+
+The Epocrates website contains links to or from other sites. Epocrates does not share your personal information with those websites and is not responsible for their privacy practices. We encourage you to learn about the privacy policies of those companies.
+
+#### What about changes to this statement?
+
+The Epocrates Privacy Policy is subject to change at any time.
+
+By using our web site, you consent to the collection and use of this information by Epocrates as disclosed in this statement. If we decide to materially change our privacy practices, we will post a prominent notice of those changes on the homepage and/or send an email so that you are always kept informed of what data we collect, how we use it, and under what circumstances we disclose it. Please check this page for changes from time to time to make sure you are aware of our latest privacy practices.
+
+top
+
+### Important Terms
+
+In this policy, when we use the term "we" or "our", we mean both Epocrates and third parties with whom Epocrates contracts to assist in its business operations. These contractors may, however, only access your information in furtherance of their services to Epocrates and may not use or disclose your information except as permitted by Epocrates.
+
+#### What is "personally identifiable" information?
+
+When reviewing any privacy policy on the Internet, you should be familiar with the terms "personally identifiable" and "non-personally identifiable" information. "Personally identifiable information" is any information that can be used to identify, contact or locate you as an individual, as well as any additional data tied to such information. Common examples are your name and email address, along with purchase information associated with those fields. Non-personally identifiable information is information-either in "profile" or "aggregate" form-that, in contrast, is not intended to identify you as an individual. For instance, we may store a profile of an oncologist in New York without tying this information to a name, address or other personally identifiable information. We may also aggregate information to produce general data, such as figures that show that half of our subscribers are over thirty-five years old.
+
+top
+
+### Tell us what you think
+
+Our goal is to respect your privacy. To help us improve our privacy policies, please give us your feedback. If you have any questions or suggestions about this privacy statement, please contact us at: [suggestionbox@epocrates.com](mailto:suggestionbox@epocrates.com?subject=Epocrates%20Privacy%20Statement).
+
+Last updated July 2004
