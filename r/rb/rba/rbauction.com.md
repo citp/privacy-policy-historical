@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610101056id_/http%3A//www.rbauction.com/legal/privacy_statement.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbauction.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208060216id_/http%3A//www.rbauction.com/legal/privacy_statement.jsp) for the most accurate reproduction.*
 
 # Privacy Statement
 
