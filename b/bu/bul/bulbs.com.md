@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405114906id_/http%3A//www.bulbs.com/default.asp%3Fpage%3Dhome%26pagespec%3Dyourprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulbs.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205120317id_/http%3A//bulbs.com/default.asp%3Fpage%3Dhome%26pagespec%3Dyourprivacy) for the most accurate reproduction.*
 
 # bulbs.com - Buy Light Bulbs From The Web's #1 Light Bulb Superstore!
 
 |  |   
-  
+[](http://www.bulbs.com/ballastsLha.htm) [](http://www.bulbs.com/bulbsLha.htm) [](http://www.bulbs.com/flourscentLha.htm) [](http://www.bulbs.com/fluorscentLha.htm) [](http://www.bulbs.com/metalhalideLha.htm) [](http://www.bulbs.com/halogenLha.htm) [](http://www.bulbs.com/halogenlightbulbsLha.htm) [](http://www.bulbs.com/lightingLha.htm) [](http://www.bulbs.com/outdoorlightingsLha.htm) [](http://www.bulbs.com/homelightingsLha.htm) [](http://www.bulbs.com/spotlightsLha.htm) [](http://www.bulbs.com/lightbulbsLha.htm) [](http://www.bulbs.com/blacklightsLha.htm) [](http://www.bulbs.com/fluorescentlightbulbsLha.htm) [](http://www.bulbs.com/fullspectrumlightbulbsLha.htm) [](http://www.bulbs.com/incandescentlightbulbsLha.htm) [](http://www.bulbs.com/fluorescentlampsLha.htm) [](http://www.bulbs.com/heatlampsLha.htm) [](http://www.bulbs.com/philipslightingLha.htm) [](http://www.bulbs.com/lightbulbLha.htm) [](http://www.bulbs.com/ourbsfriends.html) [](http://www.xtremewebworks.com/ourfriends.html)   
 Our Privacy Statement:  
 bulbs.com Assures Your Privacy  
 When you visit any web site, your computer exchanges information with other computers. Except for information or commands you enter yourself, most of this process eliminates your need to enter numerous technical codes. That's what makes your bulbs.com experience so user friendly! At bulbs.com, we support your right to decide what information you share and how it is used!
@@ -122,4 +122,4 @@ bulbs.com
 40 Jackson St.  
 Suite 2000  
 Worcester, MA 01608  
-[mconnors@bulbs.com](mailto:mconnors@bulbs.com) | 
+[mconnors@bulbs.com](mailto:mconnors@bulbs.com) [](http://www.bulbs.com/ballastrecyclingLha.htm) [](http://www.bulbs.com/ballastsLha.htm) [](http://www.bulbs.com/bulbsLha.htm) [](http://www.bulbs.com/cflLha.htm) [](http://www.bulbs.com/compactfluorescentLha.htm) [](http://www.bulbs.com/energysavingbulbsLha.htm) [](http://www.bulbs.com/energysavinglightbulbLha.htm) [](http://www.bulbs.com/fluorescentbulbsLha.htm) [](http://www.bulbs.com/fluorescentlightrecyclingLha.htm) [](http://www.bulbs.com/fluorescentlightbulbLha.htm) [](http://www.bulbs.com/halogenbulbsLha.htm) [](http://www.bulbs.com/lamprecyclingLha.htm) [](http://www.bulbs.com/lampsLha.htm) [](http://www.bulbs.com/light_bulbsLha.htm) [](http://www.bulbs.com/lightbulbsLha.htm) [](http://www.bulbs.com/lightingLha.htm) [](http://www.bulbs.com/longlifelightbulbLha.htm) [](http://www.bulbs.com/metalhalideLha.htm) [](http://www.bulbs.com/metalhalidebulbsLha.htm) [](http://www.bulbs.com/spotlightLha.htm) | 
