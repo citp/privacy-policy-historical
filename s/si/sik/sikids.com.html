@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sikids.com privacy policy that was archived on 2001-08-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010802033628id_/http%3A//www.sikids.com/admin/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sikids.com privacy policy that was archived on 2002-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020608012114id_/http%3A//www.sikids.com/admin/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Time Warner Children's Privacy Policy</title>
@@ -17,7 +17,7 @@
 // these are the user defined globals
 // modify the following variables to customize the inspection behaviour
 
-var requiredVersion = 4;			// version the user needs to view site (max is 5, min is 2)
+var requiredVersion = 4;			// version the user needs to view site (max is 6, min is 2)
 var useRedirect = false; 			// "true" loads new flash or non-flash page into browser
 									// "false" embeds movie or alternate html code into current page
 
@@ -31,7 +31,8 @@ var flash2Installed = false;		// boolean. true if flash 2 is installed
 var flash3Installed = false;		// boolean. true if flash 3 is installed
 var flash4Installed = false;		// boolean. true if flash 4 is installed
 var flash5Installed = false;		// boolean. true if flash 5 is installed
-var maxVersion = 5;					// highest version we can actually detect
+var flash6Installed = false;		// boolean. true if flash 6 is installed
+var maxVersion = 6;					// highest version we can actually detect
 var actualVersion = 0;				// version the user really has
 var hasRightVersion = false;		// boolean. true if it's safe to embed the flash movie in the page
 var jsVersion = 1.0;				// the version of javascript supported
@@ -55,7 +56,8 @@ if(isIE && isWin){ // don't write vbscript tags on anything but ie win
 	document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
 	document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
 	document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
-	document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');	
+	document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');
+	document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');	
 	document.write('</SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
 }
 // -->
@@ -85,6 +87,7 @@ function detectFlash(){
 			flash3Installed = flashVersion == 3;
 			flash4Installed = flashVersion == 4;
 			flash5Installed = flashVersion == 5;
+			flash6Installed = flashVersion == 6;
 		}
 	}
 	
@@ -178,6 +181,18 @@ a.fourboxtext:link {  color: #FFFFFF}
 a.fourboxtext:visited {  color: #FFFFFF}
 -->
 </style>
+<script language="JavaScript1.1" src="http://ar.atwola.com/file/adsWrapper.js"></script>
+<style type="text/css">
+<!--
+span.aoltextad { text-align: justify; font-size: 10pt; color: black; font-family: Georgia, sans-serif }
+-->
+</style>
+<script language="JavaScript1.1" src="http://ar.atwola.com/file/adsPopup2.js"></script>
+<script language="JavaScript">
+document.adoffset = 0;
+document.adPopupFile = '/sikids_adspaces/adsPopup2_exclude.html';
+</script>
+
 </head>
 <body bgcolor="#999999" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <center>
@@ -187,10 +202,25 @@ a.fourboxtext:visited {  color: #FFFFFF}
 <table width="600" cellpadding="0" cellspacing="0" border="0">
     <tbody><tr> 
       <td height="60" width="475" valign="top"> 
-	    <a href="/event.ng/Type=click&amp;RunID=47772&amp;ProfileID=471&amp;AdID=35455&amp;GroupID=401&amp;FamilyID=10856&amp;TagValues=4.8.594.647.666&amp;Redirect=http:%2F%2Fwww.sikids.com%2Fgames%2Fdaytona2112" target="_top"><img src="http://www.sikids.com/ads/sifk/gamepromos/daytonaban.gif" border="1" height="60" width="468" alt=""></a>
+<!-- home/top_left.468x60 -->
+<script language="JavaScript1.1">
+<!--
+adSetTarget('_top');
+htmlAdWH( (new Array(93129590,93129590,93129590,93129590))[document.adoffset||0] , 468, 60);
+//-->
+</script>
+<noscript><a href="http://ar.atwola.com/link/93129590/aol" target="_top"><img src="http://ar.atwola.com/image/93129590/aol" width="468" height="60" border="0"></a></noscript>
+
       </td>
       <td height="60" width="125" valign="top">
-	   <a href="/event.ng/Type=click&amp;RunID=46620&amp;ProfileID=1982&amp;AdID=34609&amp;GroupID=296&amp;FamilyID=10594&amp;TagValues=4.8.645.666.2872&amp;Redirect=http:%2F%2Fwww.sikids.com%2Fgames%2Flunarshred" target="_top"><img src="http://www.sikids.com/ads/sifk/gamepromos/lunarbutton.gif" border="0" height="60" width="120" alt=""></a>
+<!-- home/top_right.120x60 -->
+<script language="JavaScript1.1">
+<!--
+adSetTarget('_top');
+htmlAdWH( (new Array(93129591,93129591,93129591,93129591))[document.adoffset||0] , 120, 60);
+//-->
+</script>
+<noscript><a href="http://ar.atwola.com/link/93129591/aol" target="_top"><img src="http://ar.atwola.com/image/93129591/aol" alt="Click here for our advertiser" width="120" height="60" border="0"></a></noscript>
 </td>
     </tr>
   </tbody></table>
@@ -492,6 +522,9 @@ document.write(date + ", " + year);
     <area shape="rect" coords="335,5,396,66" href="/fantasy/index.html">
   </map>
 </center> <img src="/cookie.crumb" width="1" height="1"> 
+
+<script language="JavaScript1.1" src="http://ar.atwola.com/file/adsEnd.js"></script>
+
 
 
 </body></html>
