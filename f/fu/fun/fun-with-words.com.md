@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fun-with-words.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217093923id_/http%3A//fun-with-words.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun-with-words.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605035642id_/http%3A//fun-with-words.com/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
