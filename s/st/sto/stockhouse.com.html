@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stockhouse.com privacy policy that was archived on 2004-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604015712id_/http%3A//www.stockhouse.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockhouse.com privacy policy that was archived on 2004-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041205011601id_/http%3A//stockhouse.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -10,226 +10,174 @@
 
 	
 
+<link href="/includes/master.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript" src="/includes/js/general_functions.js"></script>
 <script language="JavaScript">
-<!--
-function resized()
-{
-	if ( navigator.appName.indexOf("Netscape") == 0 && navigator.appVersion.indexOf("4.") == 0 && navigator.appVersion.indexOf("4.0") == -1)
-		window.location = window.location.toString();
-}
-// -->
-</script>
-
-<table bgcolor="#FFCC00" width="100%" cellpadding="0" cellspacing="0" border="0">
+	function checkOptions(thisform) {
+		// place any other field validations that you require here
+		// validate myradiobuttons
+		var valid = true
+		myOption = -1;
+		for (i=0; i<thisform.surveyResult.length; i++) {
+			if (thisform.surveyResult[i].checked) {
+				myOption = i;
+			}
+			if (thisform.surveyResult[i].value == "Other") {
+				if ((thisform.surveyResult[i].checked)&&(thisform.otherType.value == "")) {
+					alert("Please specify");
+					valid = false;
+				}
+			}
+		}
+		if (myOption == -1) {
+			alert("You must make a selection.");
+			valid = false;
+		}
+		return valid;	
+	}
+</script> 
+<table width="100%" height="22" border="0" cellpadding="0" cellspacing="0" background="/gfx/row_1_back.jpg" bgcolor="#3E3E3E" style="background-repeat:repeat-x">
 <tbody><tr>
-	<td>
-	<table bgcolor="#FFCC00" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td><a href="/" target="_top"><img src="/headerimages/sh_logo_noflag.gif" width="194" height="49" border="0" alt=""></a></td>
-	</tr>
-	<tr>
-		<td><img src="/headerimages/shim.gif" width="1" height="5" border="0" alt=""></td>
-	</tr></tbody></table>	
-	</td>
-	<td valign="top">
-		<table bgcolor="#FFCC00" cellspacing="0" cellpadding="2" border="0">
-		 <tbody><tr>
-			<td colspan="3"><img src="/headerimages/shim.gif" width="1" height="1" border="0" alt=""></td>
-		</tr> 
-		<tr>
-			<td bgcolor="#FFCC00"><a href="/" target="_top"><img src="/headerimages/flag_usa_glow.gif" width="34" height="19" alt="" border="0"></a></td>
-			<td bgcolor="#FFCC00" align="right"><img src="/headerimages/div2.gif" alt="" border="0"></td>
-		<!--- 	<td bgcolor="#FFCC00" align=right><a href="http://www.stockhouse.com.au" target="_top"><img src="/headerimages/flag_australia.gif" width="30" height="15" alt="Australia" border="0"></a></td> --->
-			<td bgcolor="#FFCC00" align="right"><a href="http://www.stockhouse.ca" target="_top"><img src="/headerimages/flag_canada.gif" width="30" height="15" alt="" border="0"></a></td>
-		</tr>
-		<tr>
-		<td bgcolor="#FFCC00" nowrap="" colspan="3"><font face="Arial,Helvetica" size="1" color="#336699">US Edition</font></td>
-		</tr>
-		<tr>
-			<td colspan="3"><img src="/headerimages/shim.gif" width="1" height="5" border="0" alt=""></td>
-		</tr>
-		</tbody></table>
 	
-    </td> 
-	<td width="100%" align="right"><img src="/headerimages/shim.gif" width="1" height="1" alt="" border="0"></td>
-    <td>
-<!-- form section --> 
-	<table width="100%" bgcolor="#FFCC00" cellspacing="0" cellpadding="0" border="0">
-    <tbody><tr>
-    	<td>&nbsp;<form action="/comp_database/lookup.asp" method="post" name="formOne"></form></td>
-		<td width="100%" align="right" nowrap=""><font face="arial" size="2"><a target="_top" href="/comp_database/lookup.asp?noSearch=1">Company Search</a>:</font></td>
-		<td>
-	    <table width="100%" cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td><input name="lookup" type="radio" value="2" checked="checked" style="background-color:#FFCC00; color:#FFCC99"></td>
-			<td><font face="arial" size="1">Symbol</font></td>
-		</tr><tr>		
-			<td><input name="lookup" type="radio" value="1" style="background-color:#FFCC00; color:#FFCC99"></td>
-			<td><font face="arial" size="1">Name&nbsp;</font></td>
-		</tr></tbody></table></td><td>
-		<table width="100%" bgcolor="#FFCC00" cellspacing="0" cellpadding="0" border="0">		
-	    <tbody><tr><td align="right" nowrap="">&nbsp;
-       	    <input name="CompanyString" maxlength="40" size="5">
-			<select name="exchange" size="1">
-			<option value="all">All
-        	</option><option value="USA">USA
-			</option><option value="CDN">Canada
-<!--			<option value="x.">Australia -->
-			</option></select>
-			</td></tr></tbody></table></td>
-		<td><img src="/images/shim.gif" width="10" height="1" border="0" alt=""></td>		
-		<td><input type="image" src="/headerimages/go.gif" width="21" height="21" alt="Go" border="0"></td>
-		<td><img src="/images/shim.gif" width="10" height="1" border="0" alt=""></td>
-	</tr>
-		</tbody></table>
-	</td>
-<!-- end form section -->
-	<td>	
-	
-        <table cellspacing="0" cellpadding="0" border="0" bgcolor="#FFCC00">
-        <tbody><tr>
-			<td><img src="/images/shim.gif" width="1" height="40" border="0" alt=""></td>
-			<td nowrap="">
-<iframe width="88" height="31" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adserver.stockgroup.com/RealMedia/ads/adstream_sx.ads/www.stockhouse.com/@Top"></iframe><noframes><ILAYER WIDTH=88 HEIGHT=31><script language=Javascript src=http://adserver.stockgroup.com/RealMedia/ads/adstream_jx.ads/www.stockhouse.com/@Top></SCRIPT></ILAYER></noframes>
-</td><td>&nbsp;&nbsp;</td>
-		</tr>
-        </tbody></table>
+		<form action="/members/login_check_fp.asp" method="post" name="frmLogin" target="_top"></form>
+			
+		<input type="hidden" name="storecookie" expires="now()+365" value="1">
+		<input name="url" type="hidden" value="/privacy.asp">
+		<td width="345" valign="middle" nowrap="" class="textlabel">&nbsp;Login:&nbsp;<input name="username" type="text" class="formEntryToolbar" style="width:60px;height:19px">&nbsp;Password:&nbsp;<input name="password" type="password" class="formEntryToolbar" style="width:60px;height:19px">&nbsp;<input name="Submit" type="submit" class="formSubmitLogin" value="Go" style="width:20px;height:19px"></td><td align="left" class="textheadWhite"><a target="_top" href="/members/login_prob.asp" class="yellowlink">Forgot Password?</a></td>		
+		<td valign="middle" nowrap="" class="textheadWhite"><a href="/members/newmember_agree.asp" class="yellowlink" target="_top">FREE Membership</a></td>
 		
-	</td>
-	<td>
-
-		<!-- START RedSheriff Measurement V5.01 -->
-		<!-- COPYRIGHT 2002 RedSheriff Limited -->
-		<script language="JavaScript" type="text/javascript"><!--
-		  var _rsCI="us-stockgroup";
-		  //var _rsCG="0";
-		  var _rsCG="Non-Member";
-		  var _rsDT=0;
-		  var _rsSI=escape(window.location);
-		  var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
-		  var _rsRP=escape(document.referrer);
-		  var _rsND=_rsLP+'//secure-us.imrworldwide.com/';
-		
-		  if (parseInt(navigator.appVersion)>=4) {
-		    var _rsRD=(new Date()).getTime();
-		    var _rsSE=1;
-		    var _rsSV="";
-		    var _rsSM=0.0;
-		    _rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v5.js"></scr'+'ipt>';
-		  } else {
-		    _rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
-		  }
-		  document.write(_rsCL);
-		//--></script><script language="JavaScript" type="text/javascript" src="https://secure-us.imrworldwide.com/v5.js"></script>
-		<noscript>
-		<!-- <img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-stockgroup&amp;cg=0" alt=""> -->
-		<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-stockgroup&amp;cg=Non-Member" alt="">
-		</noscript>
-		<!-- END RedSheriff Measurement V5.01 -->
-    </td>
-</tr>
-</tbody></table>
-
-<table background="/headerimages/background_nav.gif" width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr><td><table cellpadding="0" cellspacing="0" border="0"><tbody><tr>
-		<td><img src="/headerimages/shim.gif" hspace="5" width="1" height="33"></td>
-		<td nowrap=""><a target="_top" href="/"><font face="arial" color="#FFFFFF" size="2"><b>Home</b></font></a></td>
-		<td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>	
-    	<td nowrap=""><a target="_top" href="/portfolio/"><font face="arial" color="#FFFFFF" size="2"><b>My Portfolio</b></font></a></td>
-		<td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-        <td nowrap=""><a target="_top" href="/bullboards/"><font face="arial" color="#FFFFFF" size="2"><b>BullBoards</b></font></a></td>
-        <td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-        <td nowrap=""><a target="_top" href="/news/"><font face="arial" color="#FFFFFF" size="2"><b>News</b></font></a></td>
-		<td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-		<td nowrap=""><a target="_top" href="/mediascan/"><font face="arial" color="#FFFFFF" size="2"><b>MediaScan</b></font></a></td>
-		<td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-		<td nowrap=""><a target="_top" href="/quote/index.asp"><font face="arial" color="#FFFFFF" size="2"><b>The Markets</b></font></a></td>
-		<td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-		<td nowrap=""><a href="/fund/" target="_top"><font face="arial" color="#FFFFFF" size="2"><b>Mutual Funds</b></font></a></td>
-        <td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-        <td nowrap=""><a target="_top" href="/commodities/index.asp"><font face="arial" color="#FFFFFF" size="2"><b>Commodities</b></font></a></td>
-		<td width="100%" nowrap="nowrap">&nbsp;&nbsp;&nbsp;</td>
-		
-		<td nowrap=""><a target="_top" href="http://www.stockhouse.com/adredirect.asp?sid=1588"><img src="/headerimages/button_pm_bolt.gif" width="130" height="24" border="0" align="center"></a>&nbsp;&nbsp;&nbsp;</td>
-<td nowrap=""><a target="_top" href="/help/index.asp"><font face="arial" color="#FFFFFF" size="2">Help</font></a></td>
-		
-		<td nowrap="nowrap">&nbsp;&nbsp;</td>			
-	</tr></tbody></table></td></tr></tbody></table>
-
-
-	<table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td valign="top">
-	<form action="/members/login_check_fp.asp" method="post" name="frmLogin">
-	<input type="hidden" name="storecookie" expires="now()+365" value="1">
-	<input name="url" type="hidden" value="/privacy.asp">
-	<table width="160" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr bgcolor="#6293D8"><td><img src="/headerimages/member.gif" width="99" height="24" border="0" alt=""></td></tr>
-	<tr bgcolor="#FFFFFF"><td><img src="/headerimages/shim.gif" width="1" height="5" border="0" alt=""></td></tr>
-	</tbody></table>
-	<table width="145" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr><td align="right" valign="top">
-		&nbsp;<img src="/headerimages/username.gif" width="44" height="7" border="0" alt="" align="absmiddle">&nbsp;<input name="username" maxlength="40" size="10" value="" tabindex="1"><br>
-		&nbsp;<img src="/headerimages/password.gif" width="41" height="7" border="0" alt="" align="absmiddle">&nbsp;<input name="password" type="password" maxlength="40" size="10" value="" tabindex="2"></td>
-	</tr>
-	</tbody></table>
-	<table width="160" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr bgcolor="#FFFFFF"><td colspan="2"><img src="/headerimages/shim.gif" width="1" height="5" border="0" alt=""></td></tr>	
-	<tr bgcolor="#ECECEC">
-    	<td align="left"><font size="1" face="arial">&nbsp;&nbsp;*&nbsp;<a target="_top" href="/members/newmember_agree.asp">FREE Membership</a><br>&nbsp;&nbsp;*&nbsp;<a href="/members/login_prob.asp" target="_top">Forgot Password?</a></font></td>
-		<td align="right"><input type="image" src="/headerimages/login.gif" alt="Login" width="55" height="19" tabindex="3" border="0"></td>
-	</tr>
-	</tbody></table></form>
-  
-	</td><td width="100%" valign="center">
-		
-	<table width="100%" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr><td align="center" valign="middle">
-<iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adserver.stockgroup.com/RealMedia/ads/adstream_sx.ads/www.stockhouse.com/@Middle"></iframe><noframes><ILAYER WIDTH=468 HEIGHT=60><script language=Javascript src=http://adserver.stockgroup.com/RealMedia/ads/adstream_jx.ads/www.stockhouse.com/@Middle></SCRIPT></ILAYER></noframes>
-</td></tr>
-	</tbody></table></td><td valign="top">	
-		<table width="100%" cellspacing="0" cellpadding="0" border="0">		
-		<tbody><tr bgcolor="#6293D8"><form action="/site_map_form.asp"></form>
-    		<td valign="bottom"><img src="/headerimages/bottomleftcurve_blue.gif" width="4" height="2" border="0" alt=""></td>	
-			<td valign="center"><img src="/headerimages/shim.gif" width="1" height="2" border="0" alt=""><br>
-
-
-	<select name="sitemapselect" onchange="if(options[selectedIndex].value)window.location.href=(options[selectedIndex].value)">
-	<option value="" selected="">&nbsp;&nbsp;&nbsp;- Site Map -</option>
+	<form target="_top"></form>
+	<td align="right" valign="middle" class="textlabel"><a target="_top" href="/help/index.asp" class="yellowlink">HELP</a> | <a href="/feedback.asp" class="yellowlink">FEEDBACK</a> | 
+	<select class="formEntryToolbar" name="sitemapselect" onchange="if(options[selectedIndex].value)window.parent.location.href=(options[selectedIndex].value)" style="width:100px;height:18px">
+	<option value="" selected="">Site Map</option>
 	<option value="/">- Home</option>
 	<option value="/aboutus/">- About Us</option>
 	<option value="/advertise/">- Advertise</option>			
 	<option value="/bullboards/">- BullBoards</option>
-    <option value="/bookstore/">- Bookstore</option>
-	<option value="/comp_showcase/index.asp">- Company</option>
-	<option value="/comp_showcase/index.asp">&nbsp;&nbsp;&nbsp;&nbsp;Showcase</option>
+	<option value="/Commodities/">- Commodities</option>
 	<option value="/comp_database/lookup.asp?noSearch=1">- Company</option>
 	<option value="/comp_database/lookup.asp?noSearch=1">&nbsp;&nbsp;&nbsp;Search</option>
+	<option value="/comp_showcase/index.asp">- Company</option>
+	<option value="/comp_showcase/index.asp">&nbsp;&nbsp;&nbsp;&nbsp;Showcase</option>
+	<option value="/exec_casts/index.asp">- Executive</option>
+	<option value="/exec_casts/index.asp">&nbsp;&nbsp;&nbsp;&nbsp;Broadcasts</option>
+	<option value="/help/index.asp">- Help</option>
 	<option value="/employment/jobs.asp">- Jobs @</option>		
-	<option value="/employment/jobs.asp">&nbsp;&nbsp;&nbsp;&nbsp;StockHouse</option>							
+	<option value="/employment/jobs.asp">&nbsp;&nbsp;&nbsp;&nbsp;StockHouse</option>		
+	<option value="/quote/">- Markets</option>
 	<option value="/mediascan/">- MediaScan</option>
 	<option value="/members/">- Member</option>
 	<option value="/members/">&nbsp;&nbsp;&nbsp;&nbsp;Preferences</option>	
+	<option value="/fund/">- Mutual Funds</option>	
 	<option value="/news/">- News</option>
 	<option value="/news/">&nbsp;&nbsp;&nbsp;&nbsp;Releases</option>			
-	<option value="/portfolio/">- My Portfolio</option>
-	<option value="/resource_center/">- Resource</option>
-	<option value="/resource_center/">&nbsp;&nbsp;&nbsp;&nbsp;Center</option>		
+	<option value="/portfolio/">- Portfolio</option>
 	<option value="/corp_services/">- Public</option>
 	<option value="/corp_services/">&nbsp;&nbsp;&nbsp;&nbsp;Company</option>	
 	<option value="/corp_services/">&nbsp;&nbsp;&nbsp;&nbsp;Products</option>	
-	<option value="/shfn/">- SHfn</option>
-	<option value="/quote/">- The Markets</option>
-	<option value="/fund/">- Mutual Funds</option>
+	<option value="/shfn/">- SHfn</option>	
 	</select>
-	
+	</td>
+  	
+</tr>
+</tbody></table>
 
-	<img src="/headerimages/shim.gif" width1="" height="3" border="0" alt=""></td>
-	<td width="100%" nowrap=""><img src="/headerimages/shim.gif" width="3" height="1" border="0" alt=""><noscript><input type=image src=/headerimages/go_onblue.gif width=21 height=21 border=0 alt=""></td><td><img src=/images/shim.gif width=3 height=1 border=0 alt=""></noscript></td>
-	</tr></tbody></table>
-<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center"><tbody><tr><td align="center"><img src="/headerimages/shim.gif" width="1" height="14" border="0"><br>
+<table width="100%" height="70" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFDC00">
+  		<tbody><tr>
+		 
+		  <td background="/gfx/row_2_back_left.jpg" class="backlock" align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><img src="gfx/shim.gif" width="1" height="4"><br><a href="/index.asp" target="_top"><img src="/gfx/sh_logo_sm.gif" width="122" height="30" border="0"></a></td></tr><tr><td align="right"><a class="textSmallBlack" href="/index.asp" target="_top">Home</a></td></tr></tbody></table></td>
+		  <td background="/gfx/row_2_back_right.jpg" width="100%" align="center" class="backlock" style="background-position: right;"><img src="gfx/shim.gif" width="1" height="4"><br>
+<iframe width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adserver.stockgroup.com/RealMedia/ads/adstream_sx.ads/www.stockhouse.com/@Middle2"></iframe><noframes><ILAYER WIDTH=728 HEIGHT=90 bgcolor=#FFDC00><script language=Javascript src=http://adserver.stockgroup.com/RealMedia/ads/adstream_jx.ads/www.stockhouse.com/@Middle2></SCRIPT></ILAYER></noframes>
+<br><img src="gfx/shim.gif" width="1" height="4"></td>			
+		 
+		</tr>
+	  </tbody></table>
+	  <table width="100%" height="32" border="0" cellpadding="0" cellspacing="0" background="/gfx/row_tools_back.jpg">
+  		<tbody><tr>
+		  <td width="100" class="backlock">
+			<table width="95" height="21" border="0" cellpadding="0" cellspacing="0" background="/gfx/search_box_back.jpg">
+				<tbody><tr>
+					<td><img src="/gfx/search_box_left.jpg"></td>
+					<td valign="middle" nowrap=""><a target="_top" href="http://www.stockhouse.com"><img src="/gfx/us_flag_on.gif" width="25" height="15" border="0" align="absmiddle"></a><img src="/gfx/header_com_flag.gif" align="absmiddle" hspace="3"><a href="http://www.stockhouse.ca" target="_top"><img src="/gfx/cdn_flag.gif" width="25" height="15" border="0" align="absmiddle"></a><img src="/gfx/header_ca_flag.gif" align="absmiddle" hspace="3"></td>
+					<td><img src="/gfx/search_box_right.jpg"></td>
+			 	</tr>
+			</tbody></table>
+		  </td>
+		  <td width="290" class="backlock">
+			<table width="290" height="21" border="0" cellpadding="0" cellspacing="0" background="/gfx/search_box_back.jpg">
+				  <tbody><tr>
+				  	<form action="/comp_database/lookup.asp" method="post" name="formOne" target="_top"></form><input type="hidden" name="exchange" value="all">
+					<td><img src="/gfx/search_box_left.jpg"></td>
+					<td valign="middle" height="21"><img src="/gfx/header_quote_search.gif" hspace="3" border="0"></td>
+					<td valign="middle"><input name="companystring" maxlength="40" type="text" class="formEntryToolbar" style="width:50px;height:19px"></td>
+					<td valign="middle" nowrap=""><input name="lookup" value="2" type="radio" checked=""><img src="/gfx/header_symbol.gif" hspace="3" border="0" align="absmiddle"><input type="radio" name="lookup" value="1"><img src="/gfx/header_name.gif" hspace="3" border="0" align="absmiddle"></td>
+					<td valign="middle"><input name="imageField" type="image" src="/gfx/go_button.gif" align="absmiddle" width="25" height="17" border="0"></td>
+					<td><img src="/gfx/search_box_right.jpg"></td>
+					
+				  </tr>
+			</tbody></table>
+		  </td>
+		  <td class="backlock">
+			<table width="315" height="21" border="0" cellpadding="0" cellspacing="0" background="/gfx/search_box_back.jpg">
+				<tbody><tr>  
+					<form action="/comp_database/lookup_bullboards.asp" name="quote_search" method="post" target="_top"></form><input type="hidden" name="exchange" value="all">
+					<td><img src="/gfx/search_box_left.jpg"></td>
+					<td valign="middle"><img src="/gfx/header_bull_search.gif" align="absmiddle" hspace="3"></td>
+					<td valign="middle"><input name="companystring" maxlength="40" type="text" class="formEntryToolbar" style="width:50px;height:19px"></td>
+					<td valign="middle" nowrap=""><input name="lookup" type="radio" value="2" checked=""><img src="/gfx/header_symbol.gif" hspace="3" border="0" align="absmiddle"><input type="radio" name="lookup" value="1"><img src="/gfx/header_name.gif" hspace="3" border="0" align="absmiddle"></td>
+					<td valign="middle"><input name="imageField" type="image" src="/gfx/go_button.gif" align="absmiddle" width="25" height="17" border="0"></td>
+					<td><img src="/gfx/search_box_right.jpg"></td>
+					
+				  </tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table width="100%" height="32" border="0" cellpadding="0" cellspacing="0" background="/gfx/row_3_back.jpg">
+	<tbody><tr>
+	  <td nowrap="">
+	  	<a href="/comp_database/lookup.asp?noSearch=1" target="_top" class="navmajor">Quotes</a>
+		<a href="/portfolio/" class="navmajor" target="_top">Portfolio</a>
+		<a href="/bullboards/" class="navmajor" target="_top">BullBoards</a>
+		<a href="/news/" class="navmajor" target="_top">News</a>
+		<a href="/quote/index.asp" class="navmajor" target="_top">Markets</a>
+		<a href="/fund/" class="navmajor" target="_top">Mutual Funds</a>
+		<a href="/commodities/index.asp" class="navmajor" target="_top">Commodities</a>
+		<a href="/productsandservices.asp" class="navmajor" target="_top">Products &amp; Services</a></td>
+	  <td>
+			<!-- START RedSheriff Measurement V5.01 -->
+			<!-- COPYRIGHT 2002 RedSheriff Limited -->
+			<script language="JavaScript" type="text/javascript"><!--
+			  var _rsCI="us-stockgroup";
+			  //var _rsCG="0";
+			  var _rsCG="Non-Member";
+			  var _rsDT=0;
+			  var _rsSI=escape(window.location);
+			  var _rsLP=location.protocol.indexOf('https')>-1?'https:':'http:';
+			  var _rsRP=escape(document.referrer);
+			  var _rsND=_rsLP+'//secure-us.imrworldwide.com/';
+			  if (parseInt(navigator.appVersion)>=4) {
+			    var _rsRD=(new Date()).getTime();
+			    var _rsSE=1;
+			    var _rsSV="";
+			    var _rsSM=0.0;
+			    _rsCL='<scr'+'ipt language="JavaScript" type="text/javascript" src="'+_rsND+'v5.js"></scr'+'ipt>';
+			  } else {
+			    _rsCL='<img src="'+_rsND+'cgi-bin/m?ci='+_rsCI+'&cg='+_rsCG+'&si='+_rsSI+'&rp='+_rsRP+'">';
+			  }
+			  document.write(_rsCL);
+			//--></script><script language="JavaScript" type="text/javascript" src="https://secure-us.imrworldwide.com/v5.js"></script>
+			<noscript>
+			<img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-stockgroup&amp;cg=Non-Member" alt="">
+			</noscript>
+			<!-- END RedSheriff Measurement V5.01 -->
+		</td>
+		<td align="right" valign="top">
+<iframe width="220" height="20" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adserver.stockgroup.com/RealMedia/ads/adstream_sx.ads/www.stockhouse.com/@TopRight"></iframe><noframes><ILAYER WIDTH=220 HEIGHT=20><script language=Javascript src=http://adserver.stockgroup.com/RealMedia/ads/adstream_jx.ads/www.stockhouse.com/@TopRight></SCRIPT></ILAYER></noframes>
+</td>
 
-<iframe width="120" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adserver.stockgroup.com/RealMedia/ads/adstream_sx.ads/www.stockhouse.com/@TopRight"></iframe><noframes><ILAYER WIDTH=120 HEIGHT=60><script language=Javascript src=http://adserver.stockgroup.com/RealMedia/ads/adstream_jx.ads/www.stockhouse.com/@TopRight></SCRIPT></ILAYER></noframes>
-<br></td><td><img src="/headerimages/shim.gif" width="5" height="20" border="0"></td></tr><tr><td colspan="2"><img src="/headerimages/shim.gif" width="1" height="5" border="0"></td></tr></tbody></table>
-</td></tr></tbody></table>
+	</tr>
+</tbody></table>
 
 
 <br>
@@ -251,7 +199,7 @@ function resized()
 
 </p><p>Stockgroup believes that you should understand how we use the information you provide and furthermore that you should have the right to approve the use of that information. In handling of your information Stockgroup follows a policy of "informed consent". In using the varied features of this web site, you may provide information (such as name, contact information, or other registration information) to Stockgroup, service providers, or other business you contact. Stockgroup and these entities may use, and you agree that Stockgroup may use, this information and technical information about your use of this web site, or communicate separately with you. Stockgroup will not provide information to companies you have not interacted with, and we prohibit the companies that get such information from selling or redistributing it without your prior notice. Stockgroup will not disclose your personal information, except as described herein, and Stockgroup will not disclose information to others that would connect your user name with your actual name unless Stockgroup is compelled to by law. In our sole discretion we still reserve the right to make exceptions, whenever we believe an emergency, illegal activity or some other reasonable basis exists for notifying or providing such information to the appropriate authorities. 
 
-</p><p>Stockgroup intends this policy to reduce uninvited use of your personal information. If, however, you do not want to receive any future communications from Stockgroup, please contact us at <a href="mailto:feedback@stockhouse.com">feedback@stockhouse.com</a> and we will do our best to avoid such communications. 
+</p><p>Stockgroup intends this policy to reduce uninvited use of your personal information. If, however, you do not want to receive any future communications from Stockgroup, please contact us using our <a href="/feedback.asp">feedback</a> form and we will do our best to avoid such communications. 
 
 </p><p><b>Opt-out policy</b>
 
@@ -277,50 +225,38 @@ function resized()
 
 
 
-<!-- footer -->
 
 	&nbsp;&nbsp;
-<iframe width="468" height="270" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://stockgroup.stockgroup.com/baimg/img/overtureAds.asp?site=shcom&amp;page=ros&amp;size=468&amp;tag=stockhouse_ros_468_ctxt&amp;maxcount=4&amp;showhost=1&amp;shownext=1&amp;strnd=8963"></iframe><noframes><ILAYER WIDTH=468 HEIGHT=270><script language=Javascript  src=http://stockgroup.stockgroup.com/baimg/img/overtureAds.asp?site=shcom&page=ros&size=468&tag=stockhouse_ros_468_ctxt&maxcount=4&showhost=1&js=1&strnd=8963></SCRIPT></ILAYER></noframes>
-
-<table width="100%" cellspacing="0" cellpadding="3" border="0" bgcolor="#FFFFFF"><tbody><tr><td>&nbsp;</td></tr></tbody></table>
-<table width="100%" cellspacing="0" cellpadding="6" border="0" bgcolor="#FFCC00"><tbody><tr><td>
-	<table cellspacing="0" cellpadding="0" border="0"><tbody><tr>
-		<td align="right"><img src="/headerimages/shnetwork_logo.gif" width="53" height="16" border="0" alt=""></td>	
-<!--- 		<td align=right><img src=/headerimages/shim.gif width=1 height=1 hspace=3><a href="http://www.stockhouse.com.au" target="_top"><img src=/headerimages/flag_australia.gif hspace=4 width=30 height=15 alt="Australia" border=0></a></td>
-		<td nowrap><a href="http://www.stockhouse.com.au" target="_top"><font face=arial size=1>Australia</font></a></td> --->
-		<td align="right"><a href="http://www.stockhouse.ca" target="_top"><img src="/headerimages/flag_canada.gif" hspace="4" width="30" height="15" alt="Canada" border="0"></a></td>
-		<td nowrap=""><a href="http://www.stockhouse.ca" target="_top"><font face="arial" size="1">Canada</font></a></td>
-		<td align="right" valign="middle"><a href="http://www.smallcapcenter.com" target="_blank"><img src="/headerimages/smallcap_sm.gif" hspace="10" alt="smallcapcenter" border="0"></a></td>
-	</tr></tbody></table>
-</td></tr></tbody></table>
-
-<table background="/headerimages/background_nav.gif" width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
-    <table cellpadding="0" cellspacing="0" border="0"><tbody><tr>
-		<td><img src="/headerimages/shim.gif" hspace="5" width="1" height="33"></td>
-		<td nowrap=""><a href="/"><font face="arial" color="#FFFFFF" size="2"><b>Home</b></font></a></td><td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>	
-    	<td nowrap=""><a href="/portfolio/"><font face="arial" color="#FFFFFF" size="2"><b>My Portfolio</b></font></a></td><td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-        <td nowrap=""><a href="/bullboards/"><font face="arial" color="#FFFFFF" size="2"><b>BullBoards</b></font></a></td><td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-        <td nowrap=""><a href="/news/"><font face="arial" color="#FFFFFF" size="2"><b>News</b></font></a></td><td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-		<td nowrap=""><a href="/mediascan/"><font face="arial" color="#FFFFFF" size="2"><b>MediaScan</b></font></a></td><td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-		<td nowrap=""><a href="/quote/"><font face="arial" color="#FFFFFF" size="2"><b>The Markets</b></font></a></td><td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-		<td nowrap=""><a href="/fund/"><font face="arial" color="#FFFFFF" size="2"><b>Mutual Funds</b></font></a></td><td nowrap="">&nbsp;<img src="/headerimages/nav_divider.gif" hspace="6" width="1" height="13" border="0">&nbsp;</td>
-        <td nowrap=""><a href="/commodities/index.asp"><font face="arial" color="#FFFFFF" size="2"><b>Commodities</b></font></a></td>
-		<td width="100%" nowrap="">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
-		<td nowrap=""><a href="/help/"><font face="arial" color="#FFFFFF" size="2"><b>Help/Feedback</b></font></a></td>
-		<td nowrap="">&nbsp;&nbsp;</td>		
-	</tr></tbody></table>
-</td></tr></tbody></table>
-
-<table border="0" cellspacing="0" cellpadding="6" width="100%"><tbody><tr>
-	<td valign="top" width="100%" nowrap=""><font face="arial,sans-serif" size="1" color="#000000">Copyright 2004 Stockgroup Media Inc. All Rights Reserved.<br><font face="arial,sans-serif" size="1" color="0033CC"><a href="/disclaimer.asp">Disclaimer / Terms of Use</a>&nbsp;&nbsp;-&nbsp;&nbsp;<a href="/privacy.asp">Privacy Policy</a></font></font></td>
+<iframe width="468" height="270" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://stockgroup.stockgroup.com/baimg/img/overtureAds.asp?site=shcom&amp;page=ros&amp;size=468&amp;tag=stockhouse_ros_468_ctxt&amp;maxcount=4&amp;showhost=1&amp;shownext=1&amp;strnd=910"></iframe><noframes><ILAYER WIDTH=468 HEIGHT=270><script language=Javascript  src=http://stockgroup.stockgroup.com/baimg/img/overtureAds.asp?site=shcom&page=ros&size=468&tag=stockhouse_ros_468_ctxt&maxcount=4&showhost=1&js=1&strnd=910></SCRIPT></ILAYER></noframes>
+<table width="100%" height="32" border="0" cellpadding="0" cellspacing="0" background="/gfx/footer_nave_back.jpg">
+<tbody><tr>
+	<td nowrap="">
+		<a href="/comp_database/lookup.asp?noSearch=1" target="_top" class="navmajor">Quotes</a>
+		<a href="/portfolio/" class="navmajor" target="_top">Portfolio</a>
+		<a href="/bullboards/" class="navmajor" target="_top">BullBoards</a>
+		<a href="/news/" class="navmajor" target="_top">News</a>
+		<a href="/quote/index.asp" class="navmajor" target="_top">Markets</a>
+		<a href="/fund/" class="navmajor" target="_top">Mutual Funds</a>
+		<a href="/commodities/index.asp" class="navmajor" target="_top">Commodities</a>
+		<a href="/productsandservices.asp" class="navmajor" target="_top">Products &amp; Services</a></td>
 	
-	<td align="right" valign="top" nowrap=""><font face="arial,sans-serif" size="1" color="#000000">Charts provided by <a href="http://www.stockgroup.com" target="_blank">Stockgroup</a>.<br>
-	<table border="0" cellspacing="0" cellpadding="2"><tbody><tr><td valign="top" align="right" nowrap=""><font face="arial,sans-serif" size="1" color="#000000">Quotes provided by NAQ.</font></td></tr></tbody></table>
-</font></td></tr></tbody></table>
+	<td class="textlabel"><div align="right">The StockHouse<br>Network:</div></td>
+  	<td width="30" align="center"><a href="http://www.stockhouse.com" target="_top"><img src="/gfx/row_2_flag_us_on.gif" width="24" height="11" border="0"></a><br><a href="http://www.stockhouse.ca" target="_top"><img src="/gfx/row_2_flag_cdn_on.gif" width="23" height="11" border="0"></a></td>
+</tr>
+</tbody></table>
+<table width="100%" height="21" border="0" cellpadding="0" cellspacing="0" background="/gfx/footer_bottom_back.jpg">
+<tbody><tr>
+	<td width="33%" class="textSmallBlack">Copyright 2004 Stockgroup Media Inc. All Rights Reserved.<br><a href="/disclaimer.asp" target="_top">Disclaimer / Terms of Use</a>  -  <a href="/privacy.asp" target="_top">Privacy Policy</a> </td>
+	<td width="33%"><div align="center"><img src="/gfx/logos/footer.jpg" width="397" height="23" border="0" usemap="#Map" href="#"></div></td>
+	<td width="33%" align="right" class="textSmallBlack">Charts provided by <a href="http://www.stockgroup.com/products.asp?p=financialcontent" target="_top">Stockgroup</a>.<br>Intraday data provided by <a href="http://www.comstock-interactivedata.com" target="_blank">ComStock Inc.</a>, a division of <br>Interactive Data Corp. and subject to <a href="/comstockTerms.html" target="comstockTerms" onclick="window.open('comstockTerms.html','comstockTerms','scrollbars=yes,toolbar=no,resizable=no,width=500,height=400');">terms of use</a>. </td>
+</tr>
+</tbody></table>
 
-
-	
-	<img src="images/shim.gif" height="1" width="1">
-
+<map name="Map">
+  <area shape="rect" coords="2,-1,110,20" href="http://www.stockhouse.com/adredirect.asp?sid=3099" target="_blank">
+  <area shape="rect" coords="119,2,203,20" href="http://www.stockhouse.com" target="_blank">
+  <area shape="rect" coords="214,3,325,20" href="http://www.smallcapcenter.com" target="_blank">
+  <area shape="rect" coords="332,3,399,21" href="http://www.stockgroup.com" target="_blank">
+</map>
 
 </body></html>
