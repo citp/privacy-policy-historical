@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d2g.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217191318id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d2g.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604063817id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
 
 # Deerfield.com Privacy Statement
 
@@ -7,7 +7,7 @@
 
 Deerfield.com is firmly committed to protecting the privacy of its customers and those who sample Deerfield.com products. Deerfield.com is the sole owner of the information collected on this site. We will not share, sell, or otherwise distribute the financial or personal information of our customers or those who otherwise provide personal information to sample our products, to any other organizations in any way other than what is disclosed in this document. 
 
-This confirms that Deerfield.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.deerfield.com. If you have questions or concerns regarding this statement, you should first contact the Deerfield.com Privacy Department by email at [privacy@deerfield.com](mailto:privacy@deerfield.com). If you do not receive acknowledgment of your inquiry, or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/watchdog.html). TRUSTe will serve as a liaison with the website to resolve your concerns. In accordance with COPPA, Deerfield.com does not, at any time, knowingly collect information from, or market our products to, children under the age of 13. 
+This privacy statement discloses the privacy practices for http://www.deerfield.com. If you have questions or concerns regarding this statement, you should first contact the Deerfield.com Privacy Department by email at [privacy@deerfield.com](mailto:privacy@deerfield.com).  In accordance with COPPA, Deerfield.com does not, at any time, knowingly collect information from, or market our products to, children under the age of 13. 
 
 All financial and personal information collected by Deerfield.com is held in the strictest confidentiality. Any information, such as an email address, billing and shipping addresses, and other contact information, submitted via a download form, purchase form, beta team registration, or newsletter subscription, remains the sole property of Deerfield.com. This information is used to help us process payment and to send registration information to our customers. 
 
