@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622180308id_/http%3A//www.jockey.com/templates/Legal/JCKY_legal_privacypolicy.tem) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jockey.com privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220231219id_/http%3A//www.jockey.com/templates/Legal/JCKY_legal_privacypolicy.tem) for the most accurate reproduction.*
 
 # Jockey - Legal - Privacy Policy
 
@@ -13,7 +13,7 @@ PO Box 1417
 Kenosha, WI 53141-1417 
 
 We can be reached via e-mail at privacy@jockeycomfort.com   
-or you can reach us by telephone at 1-866-2JOCKEY (1-866-256-2539) 
+or you can reach us by telephone at 1-800-Jockey1 (weekdays 9:00 a.m. - 5:00 p.m. Central) 
 
 What Information We Collect  For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address until a registered visitor logs in (password protected). 
 
