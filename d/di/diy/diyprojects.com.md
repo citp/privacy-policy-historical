@@ -1,0 +1,13 @@
+> *The following text is extracted and transformed from the diyprojects.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412154959id_/http%3A//diyprojects.com/privacy.html) for the most accurate reproduction.*
+
+# CornerHardware.com - CornerHardware Privacy Policy
+
+#### CornerHardware.com's Privacy Policy
+
+Your privacy is important to us, so our pledge to you is ironclad: We will not sell, rent, loan or otherwise make available your personal information, such as your name, e-mail address, shipping address or credit card number, to any third party. 
+
+We may ask you for certain types of information (your address and credit card number, for example) because we need it to process your transaction. We also want to know if our site works for you. So we record your IP address (your computer's location on the Internet), which allows us to tell how easily you're able to navigate through our site and whether you can find what you're looking for. IP addresses also give us a sense of general traffic flow, for example, whether you came to us from AOL or Yahoo. But, and this is important, we record IP addresses in what's called aggregate form only, in other words, as general patterns. Your IP address is never linked to any personal information. 
+
+To remember your preferences, just as a local shop owner remembers your individual likes and "druthers", we use "cookies" to customize portions of our site. Cookies are small data files that are stored on your Internet browser. When you visit our site, a cookie tells us, for example, whether you've bought something from us before. If you have, you don't have to type in your personal information all over again if you want to make a purchase or take part in a discussion group. A cookie doesn't tell us (or anyone else) anything personal about you. You give us that information when you register, and only CornerHardware.com has access to it. To learn more about cookies, visit [Cookie Central](http://www.cookiecentral.com/) or the [World Wide Web Security FAQ](http://www.w3.org/Security/Faq/wwwsf7.html#Q66). 
+
+From time to time, we work with carefully chosen partners like iFLOOR.com to sponsor co-branded sites. You'll know if you're on one of our co-branded sites because at the top of the page you'll see our logo as well as our partner's. In that case, we may share with that partner some of the data we receive. Rest assured, however, that our partners fully subscribe to the stringent privacy and security policies spelled out here, or they wouldn't be our partners. 
