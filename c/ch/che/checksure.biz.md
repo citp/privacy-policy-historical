@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624164610id_/http%3A//www.checksure.biz/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211190921id_/http%3A//www.checksure.biz/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -33,7 +33,9 @@ You agree that we may disclose your personal information amongst members of the 
 
 We sometimes use an Internet device called a cookie to store login or other information on your computer. A cookie is a small piece of information stored by your browser on your computer's hard drive. Cookies are used to make the link between you and the information you have provided to the website, to identify users and personalise their visit by customising web pages for them. Most websites automatically accept cookies although you do not have to. If you disable cookies from your browser, you may not be able to access certain features of our website.
 
-For certain services, we will allow you to have an ID or password stored in a cookie. We do not store payment details in cookies.   
+For certain services, we will allow you to have an ID or password stored in a cookie. We do not store payment details in cookies. 
+
+[_View Cookie Policy_](https://web.archive.org/web/20031211190921id_/http%3A//www.checksure.biz/cookies.htm)  
 
 
 **Security of personal information**
