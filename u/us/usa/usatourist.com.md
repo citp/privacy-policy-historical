@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usatourist.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619160816id_/http%3A//www.usatourist.com/english/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatourist.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214101900id_/http%3A//www.usatourist.com/english/privacypolicy.html) for the most accurate reproduction.*
 
 # Travel USA Travel - Privacy Policy - USA Tourist
 
@@ -9,5 +9,3 @@ In some cases, you may voluntarily provide personal information in response to a
 USATourist works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>
 
 USATourist sometimes works with other advertisers, and we normally offer useful links to other Internet resources. We can not know the privacy policies of all these other sites. We encourage you to question the privacy policies and the intended usage of any personal information requested from you. 
-
-| 
