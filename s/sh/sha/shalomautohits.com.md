@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shalomautohits.com privacy policy that was archived on 2003-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031213190503id_/http%3A//shalomautohits.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shalomautohits.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610220557id_/http%3A//www.shalomautohits.com/privacy.asp) for the most accurate reproduction.*
 
 # ShalomAutoHits.com: Privacy Policy
 
