@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408053304id_/http%3A//www.tasteofhome.com/shared/pages/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasteofhome.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201162359id_/http%3A//tasteofhome.com/shared/pages/privacy.asp) for the most accurate reproduction.*
 
 # Reiman_Privacy_Policy
 
-At Reiman Publications, we respect you and your choice to do business with us, both online and off. That’s why we’ve taken extra care to thoroughly explain what you can expect from us.
+At Reiman Publications, we respect you and your choice to do business with us, both on-line and off. That’s why we’ve taken extra care to thoroughly explain what you can expect from us.
 
 As a company, we strive to provide our customers with quality magazines, books and merchandise. We are also committed to exceptional service, which includes maintaining your privacy and any information that you provide to us.
 
@@ -29,9 +29,9 @@ Reiman Publications also retains any customer information volunteered, such as a
 
 ## **Building a better business for you**
 
-The information we collect is used to improve the content of our Web site, making it easier for you to enjoy your time online with us.
+The information we collect is used to improve the content of our Web site, making it easier for you to enjoy your time on-line with us.
 
-If you supply us with your postal address or e-mail address, you may receive periodic mailings from us about new products, services or upcoming events. Likewise, if you provide us with your telephone number, we may contact you by telephone regarding your online order.
+If you supply us with your postal address or e-mail address, you may receive periodic mailings from us about new products, services or upcoming events. Likewise, if you provide us with your telephone number, we may contact you by telephone regarding your on-line order.
 
 From time to time, your postal address or e-mail address may be made available to other reputable companies that we think may have a product or service you’d be interested in. However, you have the right to request that your name, postal address 
 
@@ -43,16 +43,16 @@ It is our policy NOT to allow disclosure of your telephone number to outside ind
 
 If you do not wish to receive mailings or telephone calls from Reiman Publications, or if you wish to request that your name not be shared with other reputable companies, simply let us know by e-mailing [subscriberservices@reimanpub.com](mailto:subscriberservices@reimanpub.com) or by calling toll-free, 1-800/344-6913.
 
-Correspondence can also be mailed to the attention of Subscription Services at the following address:
+Correspondence can also be mailed to the attention of Subscriber Services at the following address:
 
 Reiman Publications  
 5400 South 60th Street  
 Greendale WI 53129
 
-All requests to be removed from telephone or mailing lists will be honored promptly. However, please note that there may be circumstances where your request overlaps current promotions. We apologize for any temporary inconvenience this may cause.
+All requests to be removed from telephone or mailing lists will be honored promptly. However, please note that there may be circumstances where your request overlaps current mailings. We apologize for any temporary inconvenience this may cause.
 
-Any questions regarding this privacy policy may be directed to Subscription Services by mail at the above address, by calling 1-800/344-6913 or by e-mailing [subscriberservices@reimanpub.com](mailto:subscriberservices@reimanpub.com).
+Any questions regarding this privacy policy may be directed to Subscriber Services by mail at the above address, by calling 1-800/344-6913 or by e-mailing [subscriberservices@reimanpub.com](mailto:subscriberservices@reimanpub.com).
 
-## About Your Online Security...
+## About Your On-line Security...
 
-Every online purchase you make with Reiman Publications is 100% safe. That’s because our server uses the best software available (Secure Sockets Layer protocol) for secure Internet transactions. When you place an online order, your information, such as a credit card number, is encrypted to prevent unauthorized access. This means that any information you send to Reiman Publications via the Internet is unreadable in transit. That makes ordering online through a secure connection one of the safest ways to shop!
+Every on-line purchase you make with Reiman Publications is 100% safe. That’s because our server uses the best software available (Secure Sockets Layer protocol) for secure Internet transactions. When you place an on-line order, your information, such as a credit card number, is encrypted to prevent unauthorized access. This means that any information you send to Reiman Publications via the Internet is unreadable in transit. That makes ordering on-line through a secure connection one of the safest ways to shop!
