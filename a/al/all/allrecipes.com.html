@@ -1,28 +1,42 @@
-<!--The following is the downloaded HTML source of the allrecipes.com privacy policy that was archived on 2003-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030602171833id_/http%3A//allrecipes.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allrecipes.com privacy policy that was archived on 2003-10-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031002102440id_/http%3A//www.allrecipes.com/privacy.asp%3Flnkid%3D159) for the most accurate reproduction.-->
 
 <html><head><script language="javascript">
 <!--
+var iMaxRich = 3;
+var numServed = "";
+var iNumServed = parseInt(numServed);
+var sourceid = "";	//only there for recipe pages
+var doPop = showPopPos();
+
 function arAdsHandleError() {
 	return true;
 }
 
 window.onerror = arAdsHandleError;
 
-var iMaxRich = 3;
-var numServed = "";
-var iNumServed = parseInt(numServed);
-var doPop = showPopPos();
-
 function arAdsSetRichCookie(value){
 	var exp = new Date();
 	// cookie expires in one day 
-	// 24 hours in a day, 60 minutes in an hour, 60 seconds in a minute, 1000 milliseconds in a second
-	exp.setTime(exp.getTime() + 24 * 60 * 60 * 1000);
+	//	exp.setTime(exp.getTime() + 24 * 60 * 60 * 1000);
+	//new: set cookie to expire at midnight instead of 24 hours
+	var expDate = new Date(exp.getFullYear(), exp.getMonth(), exp.getDate(), 0, 0, 0);
+	//set to next day @midnight (aka midnight tonight):
+	expDate.setTime(expDate.getTime() + 24 * 60 * 60 * 1000);
 	// fix the bug in Navigator 2.0, Macintosh
-	arAdsFixDate(exp);
-	arAdsSetCookie("richads", value, exp, "/", "allrecipes.com");
+	arAdsFixDate(expDate);
+	arAdsSetCookie("richads", value, expDate, "/", "allrecipes.com");
 }
+
+function arAdsSetCLSLCookie(name, value){
+	var exp = new Date();
+	var expDate = new Date(exp.getFullYear(), exp.getMonth(), exp.getDate(), 0, 0, 0);
+	//set to next day @midnight (aka midnight tonight):
+	expDate.setTime(expDate.getTime() + 24 * 60 * 60 * 1000);
+	arAdsFixDate(expDate);
+	arAdsSetCookie(name, value, expDate, "/", "allrecipes.com");
+}
+
 function arAdsFixDate(date) {
   var base = new Date(0);
   var skew = base.getTime();
@@ -32,7 +46,7 @@ function arAdsFixDate(date) {
 
 function arAdsSetCookie(name, value, expires, path, domain, secure) {
   var curCookie = name + "=" + escape(value) +
-      ((expires) ? "; expires=" + expires.toGMTString() : "") +
+      ((expires) ? "; expires=" + expires.toUTCString() : "") +
       ((path) ? "; path=" + path : "") +
       ((domain) ? "; domain=" + domain : "") +
       ((secure) ? "; secure" : "");
@@ -40,20 +54,20 @@ function arAdsSetCookie(name, value, expires, path, domain, secure) {
 }
 
 function showPopPos(){
-	if (window.navigator.cookieEnabled)
-	{
-		if (isNaN(iNumServed)){
-			return true;
-		}else{
-			if (iNumServed < iMaxRich){
-				return true;
+	var retVal = false;
+	
+	if (sourceid == "0" || sourceid == ""){	
+		if (window.navigator.cookieEnabled)	{
+			if (isNaN(iNumServed)){
+				retVal = true;
 			}else{
-				return false;
+				if (iNumServed < iMaxRich){
+					retVal = true;
+				}
 			}
 		}
-	}else{
-		return false;
 	}
+	return retVal;
 }
 //-->
 </script>
@@ -127,12 +141,20 @@ A:hover { COLOR: #cc0000; TEXT-DECORATION: underline}
 <script language="JavaScript">
 <!--
 //configuration:
+bIsPartnerSite = 'False';
+
 OAS_url = 'http://ads.allrecipes.com/RealMedia/ads/';
 OAS_fileext = 'cgi';
 OAS_sitepage = 'allrecipes.com';
 OAS_listpos = 'x01,x04';
-if (doPop == true)
-	OAS_listpos += ',x03';
+if (doPop == true && bIsPartnerSite == 'False')
+	OAS_listpos += ',x03,x08';
+//-->
+</script>
+
+<script language="JavaScript">
+<!--
+
 OAS_query = '';
 OAS_target = '_top';
 //end configuration
@@ -173,8 +195,8 @@ function OAS_AD(pos){
 		<!--
 			OAS_AD('x01');
 		//-->
-		</script><a href="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/1376935620@x01,x04,x03!x01?" target="_top"><img src="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/1376935620@x01,x04,x03!x01?" border="0"></a>
-		<noscript><A HREF="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/18463@x01,x04!x01?" TARGET="_top"><IMG SRC="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/18463@x01,x04!x01?" BORDER=0></A>
+		</script><a href="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/1434401143@x01,x04,x03,x08!x01?" target="_top"><img src="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/1434401143@x01,x04,x03,x08!x01?" border="0"></a>
+		<noscript><A HREF="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/12577@x01,x04!x01?" TARGET="_top"><IMG SRC="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/12577@x01,x04!x01?" BORDER=0></A>
 		</noscript>
 		</td>
 </tr>
@@ -240,36 +262,78 @@ function OAS_AD(pos){
 
 <div style="BORDER-RIGHT: #ffffff 0px solid; BORDER-TOP: #ffffff 0px solid; BORDER-LEFT: #ffffff 0px solid; WIDTH: 136px; LINE-HEIGHT: 10px; BORDER-BOTTOM: #ff6600 2px solid"></div>
 <font style="FONT-SIZE: 8px">&nbsp;<br></font>
-<a href="http://allrecipes.com/np/default.asp?nplsrcid=5&amp;lnkid=66"><img src="http://emage.allrecipes.com/allrecipes/images/net/nav/nutriplanner_button_137x43.gif" width="137" height="43" alt="click for a free demo" border="0"></a> 
 
-<table cellspacing="5" cellpadding="0" width="120" border="0">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FF9900">
 <tbody><tr> 
-<td colspan="2" valign="top"><font class="V10" color="#CC0000"><b>FREE Demo for...</b></font></td>
+<td rowspan="2" align="left" valign="top"><img src="http://emage.allrecipes.com/allrecipes/images/net/o_corner_tl_3x3.gif" width="3" height="3"></td>
+<td colspan="2" align="right" valign="top"><img src="http://emage.allrecipes.com/allrecipes/images/net/o_corner_tr_3x3.gif" width="3" height="3"></td>
 </tr>
 <tr> 
-<td valign="top"><font class="V10pt" color="#ff3300">•</font></td>
-<td valign="top"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/diabetes.asp?nplsrcid=1&amp;lnkid=67">Diabetes</a></font></td>
+<td>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFCC66">
+<tbody><tr bgcolor="#FF9900"> 
+<td colspan="3" valign="top"><a href="http://allrecipes.com/np/start/site/front/other/program.asp?nplsrcid=5&amp;lnkid=66"><img src="http://emage.allrecipes.com/allrecipes/images/net/nutri_logo_129x36.gif" width="129" height="36" border="0"></a></td>
+</tr>
+<tr bgcolor="#FF9900"> 
+<td colspan="3" valign="top" class="V4">&nbsp;</td>
+</tr>
+</tbody></table>
+                        
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFDC93">
+<tbody><tr> 
+<td colspan="2"><span style="font-size:5px;"><br></span></td>
 </tr>
 <tr> 
-<td valign="top"><font class="V10pt" color="#ff3300">•</font></td>
-<td valign="top"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/cancer.asp?nplsrcid=2&amp;lnkid=68">Cancer Prevention</a></font></td>
+<td valign="top" colspan="2" bgcolor="#FFDC93">&nbsp;<img src="http://emage.allrecipes.com/allrecipes/images/net/healthy_solutions_header_118x13.gif" width="118" height="13"></td>
+</tr>
+
+<tr> 
+<td valign="top" bgcolor="#FFDC93"><font class="V10pt" color="#ff3300">&nbsp;•&nbsp;</font></td>
+<td valign="top" bgcolor="#FFDC93"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/start/site/front/weight/weight.asp?nplsrcid=170&amp;lnkid=205">Weight Management&nbsp;</a></font></td>
 </tr>
 <tr> 
-<td valign="top"><font class="V10pt" color="#ff3300">•</font></td>
-<td valign="top"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/bloodpressure.asp?nplsrcid=4&amp;lnkid=69">High Blood Pressure</a></font></td>
+<td colspan="2"><span style="font-size:5px;"><br></span></td>
 </tr>
 <tr> 
-<td valign="top"><font class="V10pt" color="#ff3300">•</font></td>
-<td valign="top"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/cholesterol.asp?nplsrcid=13&amp;lnkid=70">High Cholesterol</a></font></td>
+<td valign="top" bgcolor="#FFDC93"><font class="V10pt" color="#ff3300">&nbsp;•&nbsp;</font></td>
+<td valign="top" bgcolor="#FFDC93"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/start/site/front/diabetes/diabetes.asp?nplsrcid=1&amp;lnkid=67">Diabetes&nbsp;</a></font></td>
 </tr>
 <tr> 
-<td valign="top"><font class="V10pt" color="#ff3300">•</font></td>
-<td valign="top"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/default.asp?nplsrcid=3&amp;lnkid=71">General Wellness</a></font></td>
+<td colspan="2"><span style="font-size:5px;"><br></span></td>
+</tr>
+<tr> 
+<td valign="top" bgcolor="#FFDC93"><font class="V10pt" color="#ff3300">&nbsp;•&nbsp;</font></td>
+<td valign="top" bgcolor="#FFDC93"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/start/site/front/heart/bloodpressure.asp?nplsrcid=4&amp;lnkid=69">High Blood Pressure&nbsp;&nbsp;</a></font></td>
+</tr>
+<tr> 
+<td colspan="2"><span style="font-size:5px;"><br></span></td>
+</tr>
+<tr> 
+<td valign="top" bgcolor="#FFDC93"><font class="V10pt" color="#ff3300">&nbsp;•&nbsp;</font></td>
+<td valign="top" bgcolor="#FFDC93"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/start/site/front/heart/cholesterol.asp?nplsrcid=13&amp;lnkid=70">High Cholesterol&nbsp;</a></font></td>
+</tr>
+<tr> 
+<td colspan="2"><span style="font-size:5px;"><br></span></td>
+</tr>
+<tr> 
+<td valign="top" bgcolor="#FFDC93"><font class="V10pt" color="#ff3300">&nbsp;•&nbsp;</font></td>
+<td valign="top" bgcolor="#FFDC93"><font class="V10pt"><a class="lslink" href="http://allrecipes.com/np/start/site/front/general/general.asp?nplsrcid=3&amp;lnkid=71">General Wellness&nbsp;</a></font></td>
+</tr>
+<tr> 
+<td colspan="2"><span style="font-size:5px;"><br></span></td>
 </tr>
 </tbody></table>
 
-<div style="BORDER-RIGHT: #ffffff 0px solid; BORDER-TOP: #ffffff 0px solid; BORDER-LEFT: #ffffff 0px solid; WIDTH: 136px; LINE-HEIGHT: 10px; BORDER-BOTTOM: #ff6600 2px solid"></div>
-<font style="FONT-SIZE: 2px">&nbsp;<br><br>
+</td>
+<td rowspan="2" align="right" valign="bottom"><img src="http://emage.allrecipes.com/allrecipes/images/net/o_corner_br_3x3.gif" width="3" height="3"></td>
+</tr>
+<tr> 
+<td colspan="2" align="left" valign="bottom"><img src="http://emage.allrecipes.com/allrecipes/images/net/o_corner_bl_3x3.gif" width="3" height="3"></td>
+</tr>
+</tbody></table>
+<span class="V6">&nbsp;</span><br>
 
 
 
@@ -285,57 +349,57 @@ function OAS_AD(pos){
 													 
 
 	
-<b><font class="V13"><a class="lslink" href="http://AppetizerRecipe.com/default.asp?lnkid=27">Appetizer</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://appetizer.allrecipes.com/default.asp?lnkid=27">Appetizer</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://SoupRecipe.com/default.asp?lnkid=28">Soup</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://soup.allrecipes.com/default.asp?lnkid=28">Soup</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://SaladRecipe.com/default.asp?lnkid=29">Salad</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://salad.allrecipes.com/default.asp?lnkid=29">Salad</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://MainDishrecipe.com/default.asp?lnkid=30">Main Dish</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://maindish.allrecipes.com/default.asp?lnkid=30">Main Dish</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://SideDishrecipe.com/default.asp?lnkid=31">Side Dish</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://sidedish.allrecipes.com/default.asp?lnkid=31">Side Dish</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://BeverageRecipe.com/default.asp?lnkid=32">Beverage</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://beverage.allrecipes.com/default.asp?lnkid=32">Beverage</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://BrunchRecipe.com/default.asp?lnkid=33">Brunch</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://brunch.allrecipes.com/default.asp?lnkid=33">Brunch</a></font></b><br>
 		
 
 <br>
 
 	
-<b><font class="V13"><a class="lslink" href="http://ChickenRecipe.com/default.asp?lnkid=34">Chicken</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://chicken.allrecipes.com/default.asp?lnkid=34">Chicken</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://BeefRecipe.com/default.asp?lnkid=35">Beef</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://beef.allrecipes.com/default.asp?lnkid=35">Beef</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://PorkRecipe.com/default.asp?lnkid=36">Pork</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://pork.allrecipes.com/default.asp?lnkid=36">Pork</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://SeafoodRecipe.com/default.asp?lnkid=37">Seafood</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://seafood.allrecipes.com/default.asp?lnkid=37">Seafood</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://PastaRecipe.com/default.asp?lnkid=38">Pasta</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://pasta.allrecipes.com/default.asp?lnkid=38">Pasta</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://VegetarianRecipe.com/default.asp?lnkid=39">Vegetarian</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://vegetarian.allrecipes.com/default.asp?lnkid=39">Vegetarian</a></font></b><br>
 		
 
 <br>
@@ -349,60 +413,58 @@ function OAS_AD(pos){
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://BarbequeRecipe.com/default.asp?lnkid=42">Barbeque</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://barbeque.allrecipes.com/default.asp?lnkid=42">Barbeque</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://KidRecipe.com/default.asp?lnkid=43">Kids</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://kid.allrecipes.com/default.asp?lnkid=43">Kids</a></font></b><br>
 		
 
 <br>
 
 	
-<b><font class="V13"><a class="lslink" href="http://DessertRecipe.com/default.asp?lnkid=44">Dessert</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://dessert.allrecipes.com/default.asp?lnkid=44">Dessert</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://CookieRecipe.com/default.asp?lnkid=45">Cookie</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://cookie.allrecipes.com/default.asp?lnkid=45">Cookie</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://PieRecipe.com/default.asp?lnkid=46">Pie</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://pie.allrecipes.com/default.asp?lnkid=46">Pie</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://CakeRecipe.com/default.asp?lnkid=47">Cake</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://cake.allrecipes.com/default.asp?lnkid=47">Cake</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://BreadRecipe.com/default.asp?lnkid=48">Bread</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://bread.allrecipes.com/default.asp?lnkid=48">Bread</a></font></b><br>
 		
 
 <br>
 
 	
-<b><font class="V13"><a class="lslink" href="http://HolidayRecipe.com/default.asp?lnkid=49">Holiday</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://holiday.allrecipes.com/default.asp?lnkid=49">Holiday</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://ThanksgivingRecipe.com/default.asp?lnkid=50">Thanksgiving</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://thanksgiving.allrecipes.com/default.asp?lnkid=50">Thanksgiving</a></font></b><br>
 		
 
 	
-<b><font class="V13"><a class="lslink" href="http://ChristmasRecipe.com/default.asp?lnkid=51">Christmas</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://christmas.allrecipes.com/default.asp?lnkid=51">Christmas</a></font></b><br>
 		
 
 <br>
 
 	
-<b><font class="V13"><a class="lslink" href="http://BestBrand.Allrecipes.com/default.asp?lnkid=52">Best Brands</a></font></b><br>
+<b><font class="V13"><a class="lslink" href="http://bestbrand.allrecipes.com/default.asp?lnkid=52">Best Brands</a></font></b><br>
 		
 
-		<font class="V10"><a class="lslink" href="http://hersheys.allrecipes.com/default.asp?lnkid=53">Hershey's</a></font><br>
+		<font class="V10"><a class="lslink" href="http://hersheys.allrecipes.com/default.asp">Hershey®'s Special Dark® Chips</a></font><br>
 
-		<font class="V10"><a class="lslink" href="http://Bestbrand.allrecipes.com/weightwatchers/default.asp?lnkid=54">Weight Watchers</a></font><br>
-
-<font class="A10">&nbsp;</font><br>	
+		<font class="V10"><a class="lslink" href="http://ads.allrecipes.com/RealMedia/ads/click_lx.cgi/weightwatchers.allrecipes.com/hub/1112745096/x32/WW_Sep03_LinkTrack/Empty2.gif/1">Weight Watchers</a></font><br>
 		
 <font class="V10"><a class="lslink" href="http://bestbrand.allrecipes.com/default.asp?lnkid=55">&gt;<b> More...</b></a></font>
 </td>
@@ -413,7 +475,7 @@ function OAS_AD(pos){
 
 <tr>
 <td>
-<font class="V13"><b><a class="lslink" href="http://ecommerce.allrecipes.com/quicksmart/home.asp?lnkid=56">Premium Quick·Smart™</a></b></font><br><font class="V10"><a class="lslink" href="http://clfivestar.allrecipes.com/default.asp?lnkid=57">Cooking Light<br>Five-Star</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://cldia.allrecipes.com/default.asp?lnkid=58">Delicious Ways to Control Diabetes</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://lowcarb.allrecipes.com/default.asp?lnkid=59">Lauri's Low-Carb</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://tohfff.allrecipes.com/default.asp?lnkid=60">Taste of Home Fast Family Favorites</a></font><br></td>
+<font class="V13"><b><a class="lslink" href="http://ecommerce.allrecipes.com/quicksmart/home.asp?lnkid=56">Premium Quick·Smart™</a></b></font><br><font class="V10"><a class="lslink" href="http://clfivestar.allrecipes.com/default.asp?lnkid=57">Cooking Light<br>Five-Star</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://cldia.allrecipes.com/default.asp?lnkid=58">Delicious Ways to Control Diabetes</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://hpcook.allrecipes.com/default.asp?lnkid=204">The High Performance Cookbook</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://lowcarb.allrecipes.com/default.asp?lnkid=59">Lauri's Low-Carb</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://perfrec.allrecipes.com/default.asp?lnkid=208">The Perfect Recipe</a><br><font class="V4">&nbsp;<br></font><a class="lslink" href="http://tohfff.allrecipes.com/default.asp?lnkid=60">Taste of Home Fast Family Favorites</a></font><br></td>
 </tr>
 
 
@@ -442,7 +504,7 @@ function OAS_AD(pos){
 </tr>
 </tbody></table>
 
-</font></td>
+</td>
 <td><font class="F10">&nbsp;&nbsp;&nbsp;</font></td>
 </tr>
 <tr>
@@ -745,35 +807,8 @@ cookies set by the third party. Allrecipes does not control or monitor the
 use of the information collected by third parties through the web beacons 
 placed on the Allrecipes.com Web site.
 
-</p><p>
 
-
-
-<b>V.  DoubleClick</b>
-
-<br>
-DoubleClick is a third-party advertising company we partner with to 
-display the advertisements on our site. These advertisements also contain 
-"cookies." "Cookies" received with DoubleClick's banner ads are collected by 
-DoubleClick and used to provide broad demographic information for better 
-advertisement targeting.  Privacy issues surrounding DoubleClick's use 
-of certain non-personally identifiable user information by its technology 
-are discussed in DoubleClick's privacy policy, and are the sole 
-responsibility of DoubleClick. That policy can be viewed on 
-DoubleClick's 
-<a href="http://www.doubleclick.net:8080/privacy_policy/" class="wnlink">Privacy Policy page</a>. 
-</p><p></p><p align="right"><a href="#top" class="wnlink">TOP</a></p>
-<b>VI.  Sonar Network</b>
-
-<br>
-Sonar, a division of DoubleClick, is another third-party advertising company that we partner with to deliver 
-ads to you.  In the course of delivering an ad, Sonar Network collects certain 
-non-personally identifiable information about you.  Sonar's collection and use 
-of your information is the responsibility of Sonar.  For more information about 
-their information gathering practices and "opt-out" procedure of Sonar Network, 
-please click here: Sonar's 
-<a href="http://www.sonar.com/naiprivacy" class="wnlink">Privacy Policy page</a>. 
-<p align="right"><a href="/privacy.asp#top" class="wnlink">TOP</a></p>
+</p><p align="right"><a href="/privacy.asp#top" class="wnlink">TOP</a></p>
 
 <b>VII. Log Files</b>
 
@@ -841,7 +876,7 @@ or use the following address:
 
 <a name="allrecipes"><br></a>
 <b>Allrecipes.com </b><br>
-524 Dexter Avenue North<br>
+400 Mercer Street, Suite 302<br>
 Seattle, WA 98109<br>
 USA</p><p>
 Phone: (206) 292-3990<br>
@@ -857,17 +892,23 @@ Fax: (206) 292-1793</p><p><br>
 
 
 </td>
-<td valign="top">
+<td valign="top" height="100%">
 
 
-<table cellspacing="2" cellpadding="8" border="0">
+<table cellspacing="2" cellpadding="8" border="0" height="100%">
 <tbody><tr>
-<td>&nbsp;</td>
+<td valign="top">&nbsp;</td>
+</tr>
+<tr>
+<td valign="bottom"></td>
 </tr>
 </tbody></table>
 <!--
 <IMG height="1" width="1" src="http://emage.allrecipes.com/allrecipes/images/trans.gif" border="0">
 -->
+
+
+
 </td>
 
 </tr>
@@ -895,21 +936,22 @@ Fax: (206) 292-1793</p><p><br>
 
 </div>
 
-<script language="javascript">
-<!--
-	if (doPop == true){
-		if (isNaN(iNumServed)){
-			//set cookie to 1 and serve
-			arAdsSetRichCookie(1);
-		}else{
-			//increment iNumServed by one, reset cookie, serve
-			arAdsSetRichCookie(iNumServed + 1);
+	<script language="javascript">
+	<!--
+		if (doPop == true){
+			if (isNaN(iNumServed)){
+				//set cookie to 1 and serve
+				arAdsSetRichCookie(1);
+			}else{
+				//increment iNumServed by one, reset cookie, serve
+				arAdsSetRichCookie(iNumServed + 1);
+			}
+			OAS_AD('x03');
+			OAS_AD('x08');
 		}
-		OAS_AD('x03');
-	}
-//-->
-</script><a href="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/1376935620@x01,x04,x03!x03?" target="_top"><img src="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/1376935620@x01,x04,x03!x03?" border="0"></a>
-	
+	//-->
+	</script><a href="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/1434401143@x01,x04,x03,x08!x03?" target="_top"><img src="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/1434401143@x01,x04,x03,x08!x03?" border="0"></a><a href="http://ads.allrecipes.com/RealMedia/ads/click_nx.cgi/allrecipes.com/1434401143@x01,x04,x03,x08!x08?" target="_top"><img src="http://ads.allrecipes.com/RealMedia/ads/adstream_nx.cgi/allrecipes.com/1434401143@x01,x04,x03,x08!x08?" border="0"></a>
+		
 
 
 </body></html>
