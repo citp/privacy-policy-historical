@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202033748id_/http%3A//bakersfield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersfield.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206161548id_/http%3A//www.bakersfield.com/privacy) for the most accurate reproduction.*
 
 # bakersfield.com - Privacy Policy
 
-|  February 1, 2002   
+|  January 30, 2020   
 [Homepage](http://www.bakersfield.com/) > [News Home](https://web.archive.org/news/) > [**Privacy Policy**](https://web.archive.org/privacy/)   
   
 
@@ -15,6 +15,10 @@ Participate in online chats with other bakersfield.com users.
 
 **[Newsletters](http://www.bakersfield.net/maillist/)**   
 Stay up-to-date on local news and entertainment by getting newsletters sent to your email. 
+
+**[Sound Off](http://www.bakersfield.com/soundoff)**  
+Share your criticisms, compliments or questions about news coverage. Questions are answered by Executive Editor Mike Jenner.  
+
 
 |   
 ---|---|---  
@@ -167,5 +171,9 @@ e-mail: [webmaster@bakersfield.com](mailto:webmaster@bakersfield.com)
 * * *
 
 [](http://www.nandomedia.com/) Copyright © 2002, [The Bakersfield Californian](http://www.bakersfield.com/help/whoweare.html) | [Email the Webmaster](mailto:webmaster@bakersfield.com)  
-[Privacy Policy Statement](https://web.archive.org/privacy/) | [Terms of Use](https://web.archive.org/terms/)   
+[Privacy Policy Statement](https://web.archive.org/privacy/) | [Terms of Use](https://web.archive.org/terms/)
+
+[Lightspeed Systems](http://www.lightspeedsystems.com/)
+
+  
 
