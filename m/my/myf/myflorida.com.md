@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the myflorida.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202150200id_/http%3A//www.myflorida.com/myflorida/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myflorida.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008201252id_/http%3A//www6.myflorida.com/privacy.html) for the most accurate reproduction.*
 
-# MyFlorida.com
+# Privacy Statement - Florida Department of Corrections
 
-Thank you for visiting the MyFlorida.com™ Web site. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit the MyFlorida.com™ Web site, unless you affirmatively choose to make such information available to us. 
+### Internet Privacy Policy
 
-When you visit the MyFlorida.com™ portal, the Web server automatically recognizes only the Internet domain and IP address from which you accessed the site. This information does not result in the identification of your personal e-mail address or other personal information.
+Thank you for visiting the Department of Corrections website. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit our website unless you affirmatively choose to make such information available to us. 
 
-In addition, information is only gathered regarding the volume and timing of access to the site by collecting information on the date, time and pages you visited while at the site. This is done so that the content of the site can be improved, and your personal information is not identified.
+When you visit our website, our web server automatically recognizes only the internet domain and IP address from which you accessed our website. This information does not result in the identification of your personal e-mail address or other personal information. 
 
-If you choose to share personal information, such as by subscribing to an e-newsletter, sending a message, or filling out an electronic form with personal information, the information will be saved for a designated period of time in order to comply with the state of Florida's archiving policies. However, information will not be disclosed to third parties or other government agencies, unless required by state or federal law. Please note that Florida's public records law requires that all information received in connection with state business be made available to anyone upon request, unless the information is subject to a specific statutory exemption.
+In addition, we gather information regarding the volume and timing of access to our website by collecting information on the date, time and website pages accessed by visitors to the website. We do this to improve the content of our website, and this information is not shared with other organizations. Again, only aggregate information is collected, and individual visitors' personal information is not identified. 
 
-If you have other questions about this privacy policy, or have suggestions on how it may be improved, please feel free to e-mail us at [info@MyFlorida.com](mailto:info@MyFlorida.com), or contact us by telephone at (850.410.4777).
+If you share personal information with us - by subscribing to an e-newsletter, sending us a message, or filling out an electronic form with personal information - we will use the information only for the purposes you authorized. Some of it may be saved for a designated period of time to comply with Florida's archiving policies, but we will not disclose the information to third parties or other government agencies, unless required to do so by law. 
+
+If you have questions or ideas about improving our policies, please e-mail us at [www.dc.state.fl.us](https://web.archive.org/web/20031008201252id_/http%3A//www6.myflorida.com/orginfo/contact.html), or call our public affairs office at (850) 488-0420. 
