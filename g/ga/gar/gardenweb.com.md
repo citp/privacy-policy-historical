@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603090059id_/http%3A//www.vmirror.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gardenweb.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206201446id_/http%3A//www.vmirror.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for The Virtual Mirror
 
@@ -44,7 +44,7 @@ Tracking
 
 Cookies
 
-> Cookies are used to track general usage patterns and to make the forums easier to use. For instance, after you have posted a message, your name and email address will be "remembered" in a cookie so the next time you post, you won't have to enter this information again. We could save this information in a central file on our server, but in the interest of privacy, we save it to a cookie, which resides on _your_ computer. Cookies are also necessary for members to log in. 
+> Cookies are used to track general usage patterns and to make the forums easier to use. For instance, after you have posted a message, your name and email address will be "remembered" in a cookie so the next time you post, you won't have to enter this information again. We could save this information in a central file on our server, but in the interest of privacy, we save it to a cookie, which resides on _your_ computer. Cookies are also necessary for members to log in. Cookies are used both by ourselves and the various ad networks with which we are associated (see: Third Parties.) 
 > 
 > There are many misconceptions about cookies. Here are some facts: 
 > 
@@ -61,7 +61,7 @@ Third Parties
 
 > Some of our sites, including gardenweb.com, thathomesite.com and nature.net, work with third parties that serve ads to these sites. Our third-party advertising companies also separately place or recognize a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about how these networks gather information and to know your choices about not having this information used by these companies, please visit the following pages: 
 > 
->   * <http://www.sonar.com/content/privacy.htm>
+>   * <http://www.maxonline.com/privacy_policy/index.php>
 > 
 
 
