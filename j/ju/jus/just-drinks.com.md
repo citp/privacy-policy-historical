@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604013737id_/http%3A//just-drinks.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004191103id_/http%3A//just-drinks.com/about/privacy.asp) for the most accurate reproduction.*
 
 # just-drinks.com Privacy Statement
 
@@ -50,14 +50,9 @@ This site gives users the following options for removing their information from 
 
 ## Correct/Update
 
-Please e-mail [privacy@just-sites.com](mailto:privacy@just-sites.com) if information previously provided is believed inaccurate or incorrect. Where membership schemes exist, automatic update mechanisms are provided for self-modification of registration details.   
- 
-
-## Engage
-
-This site, just-drinks.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+Please e-mail [privacy@aroq.com](mailto:privacy@aroq.com) if information previously provided is believed inaccurate or incorrect. Where membership schemes exist, automatic update mechanisms are provided for self-modification of registration details. 
 
 ## Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact Mike Gove  
-Chief Operations Officer Aroq Ltd. 3 Vale Business Park Vale Park Evesham, WR11 1GN, UK [mike.gove@just-sites.com](mailto:mike.gove@just-sites.com)  
+Chief Operations Officer Aroq Ltd. 3 Vale Business Park Vale Park Evesham, WR11 1GN, UK [mike.gove@aroq.com](mailto:mike.gove@aroq.com)  
