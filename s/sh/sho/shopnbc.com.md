@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopnbc.com privacy policy that was archived on 2003-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030224230256id_/http%3A//www.shopnbc.com/pom2k.aspx%3Fcategory%3Dcc/assistance%26page%3Dprivacystatement%26title%3DPrivacy%2BStatement%26displaytype%3D1%26ft%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopnbc.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202022017id_/http%3A//www.shopnbc.com/pom2k.aspx%3Fcategory%3Dcc/assistance%26page%3Dprivacystatement%26title%3DPrivacy%2BStatement%26displaytype%3D1%26ft%3D0) for the most accurate reproduction.*
 
 # ShopNBC.com Privacy Statement
 
