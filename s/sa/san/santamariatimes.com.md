@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the santamariatimes.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202020115id_/http%3A//www.santamariatimes.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the santamariatimes.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605230905id_/http%3A//santamariatimes.com/policies/privacy) for the most accurate reproduction.*
 
 # SantaMariaTimes.com
 
