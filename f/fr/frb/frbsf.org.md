@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frbsf.org privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202083940id_/http%3A//frbsf.org/tools/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frbsf.org privacy policy that was archived on 2002-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021114203548id_/http%3A//www.frbsf.org/tools/legal/privacy.html) for the most accurate reproduction.*
 
 # Federal Reserve Bank of San Francisco Privacy Policy
 
@@ -38,7 +38,7 @@ For a good explanation of how server log statistical analysis works, see the [ex
 
 Any information collected on this web site, whether individual or aggregate, is for Federal Reserve use only. No information about visitors to this web site is released or sold to third parties.
 
-Questions or comments about the Federal Reserve Bank of San Francisco's privacy policy may be directed to our web site administrators at [frbsf.web@sf.frb.org](mailto:frbsf.web@sf.frb.org).
+Questions or comments about the Federal Reserve Bank of San Francisco's privacy policy may be directed to our web site administrators at Frbsf Web.
 
 _If filling out a form, close this window to return to the form._
 
