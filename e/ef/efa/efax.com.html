@@ -1,7 +1,31 @@
-<!--The following is the downloaded HTML source of the efax.com privacy policy that was archived on 2002-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020610201146id_/http%3A//www.efax.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the efax.com privacy policy that was archived on 2002-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021206185926id_/http%3A//www.efax.com/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head><script language="javascript">
+var sServerLink = "http://www.efax.com"
+var sSecureServerLink = "https://www.efax.com"
+var sImageServerLink = "http://a248.g.akamai.net/7/248/528/2000092804/efax.com/"
+
+//My Account
+//var sSecureMyAcctLink = "https://account.efax.com"
+//var sMyAcctLink = "http://account.efax.com"
+var sSecureMyAcctLink = sSecureServerLink + "/account/inetpub/wwwroot"
+var sMyAcctLink = sServerLink + "/account/inetpub/wwwroot"
+
+//Signup/Register
+//var sSecureRegLink = "https://register.efax.com"
+//var sRegLink = "http://register.efax.com"
+var sSecureRegLink = sSecureServerLink + "/register"
+var sRegLink = sServerLink + "/register/inetpub/wwwroot"
+
+//Help
+//var sSecureHelpLink = "https://help.efax.com"
+//var sHelpLink = "http://help.efax.com"
+var sSecureHelpLink = sSecureServerLink + "/help/inetpub/wwwroot"
+var sHelpLink = sServerLink + "/help/inetpub/wwwroot"
+</script>
+
+
 <!--@@TITLE@@-->
 <title>Privacy Policy</title>
 <!--@@@@TITLE-->
@@ -34,6 +58,29 @@ section = 1;
 	var nav_hp = 0
 </script>
 
+<script language="javascript">
+var sServerLink = "http://www.efax.com"
+var sSecureServerLink = "https://www.efax.com"
+var sImageServerLink = "http://a248.g.akamai.net/7/248/528/2000092804/efax.com/"
+
+//My Account
+//var sSecureMyAcctLink = "https://account.efax.com"
+//var sMyAcctLink = "http://account.efax.com"
+var sSecureMyAcctLink = sSecureServerLink + "/account/inetpub/wwwroot"
+var sMyAcctLink = sServerLink + "/account/inetpub/wwwroot"
+
+//Signup/Register
+//var sSecureRegLink = "https://register.efax.com"
+//var sRegLink = "http://register.efax.com"
+var sSecureRegLink = sSecureServerLink + "/register"
+var sRegLink = sServerLink + "/register/inetpub/wwwroot"
+
+//Help
+//var sSecureHelpLink = "https://help.efax.com"
+//var sHelpLink = "http://help.efax.com"
+var sSecureHelpLink = sSecureServerLink + "/help/inetpub/wwwroot"
+var sHelpLink = sServerLink + "/help/inetpub/wwwroot"
+</script>
 <script language="javascript">
 <!--
 function openWindow(myLink,windowName)
@@ -86,7 +133,7 @@ var names = new Array("signup", "home", "products", "account", "help", "download
 var sec_login = new Array( 1 );
 var sec_login_icon = new Array( 1 );
 var sec_login_alts = new Array( 1 );
-sec_login[0] = "/upgrades/splash.asp";       // upgrade
+sec_login[0] = sSecureMyAcctLink + "/upgrades/splash.asp";       // upgrade
 sec_login_icon[0] = 0;
 sec_login_alts[0] = "Upgrade Free to Plus";
 
@@ -107,27 +154,27 @@ if ( bHasSend ) iEntries++;
 var sec_account = new Array( iEntries );
 var sec_account_icon = new Array( iEntries );
 var sec_account_alts = new Array( iEntries );
-sec_account[0] = "/myaccount/plus/profile.asp";       // profile
+sec_account[0] = sSecureMyAcctLink + "/myaccount/plus/profile.asp";       // profile
 sec_account_icon[0] = 1;
 sec_account_alts[0] = "Profile";
-sec_account[1] = "/myaccount/plus/logs_menu.asp";       // activity log
+sec_account[1] = sSecureMyAcctLink + "/myaccount/plus/logs_menu.asp";       // activity log
 sec_account_icon[1] = 2;
 sec_account_alts[1] = "Activity Log";
 
-sec_account[2] = "/myaccount/plus/prefs.asp";        // preferences
+sec_account[2] = sSecureMyAcctLink + "/myaccount/plus/prefs.asp";        // preferences
 sec_account_icon[2] = 11;
 sec_account_alts[2] = "Preferences";
 
 var iLogOutIndex = 3;
 if ( bHasSend ) 
 {
-sec_account[3] = "/websend1.asp";       // efax send
+sec_account[3] = sSecureServerLink + "/websend1.asp";       // efax send
 sec_account_icon[3] = 8;
 sec_account_alts[3] = "WebSend";
 iLogOutIndex = 4;
 }
 
-sec_account[iLogOutIndex] = "http://www.efax.com/logout.asp";       // logout
+sec_account[iLogOutIndex] = sServerLink + "/logout.asp";       // logout
 sec_account_icon[iLogOutIndex] = 6;
 sec_account_alts[iLogOutIndex] = "Log Out";
 
@@ -136,59 +183,72 @@ else
 {
 //-----If user is a Plus user
 if (fprod != "FINBOX"){
+//--confcall --var sec_account = new Array( 8 );
+//--confcall --var sec_account_icon = new Array( 8 );
+//--confcall --var sec_account_alts = new Array( 8 );
 var sec_account = new Array( 7 );
 var sec_account_icon = new Array( 7 );
 var sec_account_alts = new Array( 7 );
-sec_account[0] = "/myaccount/plus/profile.asp";       // profile
+sec_account[0] = sSecureMyAcctLink + "/myaccount/plus/profile.asp";       // profile
 sec_account_icon[0] = 1;
 sec_account_alts[0] = "Profile";
-sec_account[1] = "/myaccount/plus/logs_menu.asp";       // activity log
+sec_account[1] = sSecureMyAcctLink + "/myaccount/plus/logs_menu.asp";       // activity log
 sec_account_icon[1] = 2;
 sec_account_alts[1] = "Activity Log";
-sec_account[2] = "/upgrades/splash.asp";     // upgrade
+sec_account[2] = sSecureMyAcctLink + "/upgrades/splash.asp";     // upgrade
 sec_account_icon[2] = 3;
 sec_account_alts[2] = "Add a Number";
-
-sec_account[3] = "/myaccount/plus/prefs.asp";        // preferences
+sec_account[3] = sSecureMyAcctLink + "/myaccount/plus/prefs.asp";        // preferences
 sec_account_icon[3] = 11;
 sec_account_alts[3] = "Preferences";
-sec_account[4] = "/websend1.asp";       // efax send
+sec_account[4] = sSecureServerLink + "/websend1.asp";       // efax send
 sec_account_icon[4] = 8;
 sec_account_alts[4] = "WebSend";
-sec_account[5] = "/myaccount/plus/bil_collinfo.asp";      // billing info		
+//sec_account[5] = sSecureMyAcctLink + "/conf_validate.asp";       // Conf Call
+//sec_account_icon[5] = 13;
+//sec_account_alts[5] = "eFax Voice Conference";
+sec_account[5] = sSecureMyAcctLink + "/myaccount/plus/bil_collinfo.asp";      // billing info		
 sec_account_icon[5] = 5;
 sec_account_alts[5] = "Billing";
-sec_account[6] = "http://www.efax.com/logout.asp";       // logout
+sec_account[6] = sServerLink + "/logout.asp";       // logout
 sec_account_icon[6] = 6;
 sec_account_alts[6] = "Log Out";
+
 }
 else{
 
+//var sec_account = new Array( 8 );
+//var sec_account_icon = new Array( 8 );
+//var sec_account_alts = new Array( 8 );
 var sec_account = new Array( 7 );
 var sec_account_icon = new Array( 7 );
 var sec_account_alts = new Array( 7 );
-sec_account[0] = "/myaccount/free/profile.asp";       // profile
+sec_account[0] = sSecureMyAcctLink + "/myaccount/free/profile.asp";       // profile
 sec_account_icon[0] = 1;
 sec_account_alts[0] = "Profile";
-sec_account[1] = "/myaccount/free/logs_menu.asp";       // activity log
+sec_account[1] = sSecureMyAcctLink + "/myaccount/free/logs_menu.asp";       // activity log
 sec_account_icon[1] = 2;
 sec_account_alts[1] = "Activity Log";
-sec_account[2] = "/upgrades/splash.asp";     // upgrade
+sec_account[2] = sSecureMyAcctLink + "/upgrades/splash.asp";     // upgrade
 sec_account_icon[2] = 12;
 sec_account_alts[2] = "Upgrade to eFax Plus";
 
-sec_account[3] = "/myaccount/free/prefs.asp";        // preferences
+sec_account[3] = sSecureMyAcctLink + "/myaccount/free/prefs.asp";        // preferences
 sec_account_icon[3] = 11;
 sec_account_alts[3] = "Preferences";
-sec_account[4] = "http://www.efax.com/send4web/";       // efax send
+sec_account[4] = sSecureServerLink + "/send4web/";       // efax send
 sec_account_icon[4] = 8;
 sec_account_alts[4] = "WebSend";
-sec_account[5] = "/myaccount/free/bil_collinfo.asp";      // billing info		
+//sec_account[5] = sSecureMyAcctLink + "/conf_validate.asp";       // Conf Call
+//sec_account_icon[5] = 13;
+//sec_account_alts[5] = "eFax Voice Conference";
+sec_account[5] = sSecureMyAcctLink + "/myaccount/free/bil_collinfo.asp";      // billing info		
 sec_account_icon[5] = 5;
 sec_account_alts[5] = "Billing";
-sec_account[6] = "http://www.efax.com/logout.asp";       // logout
+sec_account[6] = sServerLink + "/logout.asp";       // logout
 sec_account_icon[6] = 6;
 sec_account_alts[6] = "Log Out";
+
 }
 }
 
@@ -206,10 +266,10 @@ var sec_products_alts = new Array( 0 );
 var sec_download = new Array( 2 );
 var sec_download_icon = new Array( 2 );
 var sec_download_alts = new Array( 2 );
-sec_download[0] = "http://www.efax.com/need/downloads.asp";
+sec_download[0] = sServerLink + "/need/downloads.asp";
 sec_download_icon[0] = 1;
 sec_download_alts[0] = "eFax Messenger/Messenger Plus";
-sec_download[1] = "http://www.efax.com/products/corporate/corp_downloads.html";
+sec_download[1] = sServerLink + "/products/corporate/corp_downloads.html";
 sec_download_icon[1] = 3;
 sec_download_alts[1] = "Corporate Downloads";
 
@@ -217,13 +277,13 @@ sec_download_alts[1] = "Corporate Downloads";
 var sec_partner = new Array(3);
 var sec_partner_icon = new Array( 3 );
 var sec_partner_alts = new Array( 3 );
-sec_partner[0] = "http://www.efax.com/partners";
+sec_partner[0] = sServerLink + "/partners";
 sec_partner_icon[0] = 1;
 sec_partner_alts[0] = "Premiere Partners";
-sec_partner[1] = "http://www.efax.com/toolkit";
+sec_partner[1] = sServerLink + "/toolkit";
 sec_partner_icon[1] = 6;
 sec_partner_alts[1] = "Web Toolkit Program";
-sec_partner[2] = "http://www.efax.com/partners/affiliate.html";
+sec_partner[2] = sServerLink + "/partners/affiliate.html";
 sec_partner_icon[2] = 2;
 sec_partner_alts[2] = "Affiliate Program";
 // SED UsrTrack
@@ -432,7 +492,7 @@ function MM_openBrWindow(theURL,winName,features) {
 		document.write( "</TD></TR></TABLE>" );
 	}        
         // -->
-</script><table border="0" cellpadding="5" cellspacing="0" width="651"><tbody><tr valign="TOP"><td valign="TOP" align="LEFT" width="471" height="60" nowrap=""><nobr><nolayer><iframe src="//ad.doubleclick.net/adi/efax.dart/homepage;ord=0.08565390496659053?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><A HREF='http://ad.doubleclick.net/jump/efax.b2bworks.dart/homepage;fold=top;hpos=right;vpos=1;sz=160x60;tile=2;ord=73706834760418570?'><IMG SRC='http://ad.doubleclick.net/ad/efax.b2bworks.dart/homepage;fold=top;hpos=right;vpos=1;sz=160x60;tile=2;ord=73706834760418570?' border=0 height=60 width=160></A></iframe></nolayer><ilayer id="ph1" visibility="hide" width="468" height="60"></ilayer></nobr><br></td><td valign="TOP" align="LEFT" width="159" height="60" nowrap=""><nolayer><img src="http://www.efax.com/images/banners/order_by_phone.gif" alt="To order eFax by phone call (800) 958-2983" border="0"></nolayer><ilayer id="layer1" visibility="hidden" width="160" height="60"></ilayer></td></tr></tbody></table>
+</script><table border="0" cellpadding="5" cellspacing="0" width="651"><tbody><tr valign="TOP"><td valign="TOP" align="LEFT" width="471" height="60" nowrap=""><nobr><nolayer><iframe src="//ad.doubleclick.net/adi/efax.dart/homepage;ord=0.6907058151725558?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"><A HREF='http://ad.doubleclick.net/jump/efax.b2bworks.dart/homepage;fold=top;hpos=right;vpos=1;sz=160x60;tile=2;ord=73706834760418570?'><IMG SRC='http://ad.doubleclick.net/ad/efax.b2bworks.dart/homepage;fold=top;hpos=right;vpos=1;sz=160x60;tile=2;ord=73706834760418570?' border=0 height=60 width=160></A></iframe></nolayer><ilayer id="ph1" visibility="hide" width="468" height="60"></ilayer></nobr><br></td><td valign="TOP" align="LEFT" width="159" height="60" nowrap=""><nolayer><img src="http://www.efax.com/images/banners/order_by_phone.gif" alt="To order eFax by phone call (800) 958-2983" border="0"></nolayer><ilayer id="layer1" visibility="hidden" width="160" height="60"></ilayer></td></tr></tbody></table>
 <!-- PSF end banner ad table -->
 
 <!-- begin top bar table -->
@@ -441,8 +501,7 @@ function MM_openBrWindow(theURL,winName,features) {
 	<td><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/top_left.gif" width="250" height="12" alt="" border="0"><a href="http://www.efax.com/aboutus" onmouseover="swapTop('companyinfo', 'on')" onmouseout="swapTop('companyinfo', 'off')"><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/topnav_companyinfo_off.gif" width="87" height="12" alt="Company Information" border="0" name="companyinfo"></a><a href="http://www.efax.com/aboutus/pr" onmouseover="swapTop('news', 'on')" onmouseout="swapTop('news', 'off')"><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/topnav_news_off.gif" width="44" height="12" alt="News" border="0" name="news"></a><a href="http://www.efax.com/partners" onmouseover="swapTop('partners', 'on')" onmouseout="swapTop('partners', 'off')"><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/topnav_partners_off.gif" width="60" height="12" alt="Partners" border="0" name="partners"></a><a href="http://www.efax.com/contactus/inquiries.asp" onmouseover="swapTop('contact', 'on')" onmouseout="swapTop('contact', 'off')"><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/topnav_contact_off.gif" width="74" height="12" alt="Contact Us" border="0" name="contact"></a><a href="mailto:advertising@mail.efax.com" onmouseover="swapTop('advertise', 'on')" onmouseout="swapTop('advertise', 'off')"><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/topnav_advertise_off.gif" width="64" height="12" alt="Advertise With Us" border="0" name="advertise"></a><a href="http://www.efax.com/sitemap" onmouseover="swapTop('sitemap', 'on')" onmouseout="swapTop('sitemap', 'off')"><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/topnav_sitemap_off.gif" width="71" height="12" alt="Site Map" border="0" name="sitemap"></a></td>
 </tr>
 <tr>
-	<td><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/top_bottom_left2.gif" width="384" height="59" alt="eFax.com Home" border="0" ismap="" usemap="#top_bottom_leftMap"><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/top_bottom_middle.gif" width="196" height="59" alt="" border="0" ismap="" usemap="#top_bottom_middleMap"><!--<a
-    href="http://www.efax.com/signup/free/page1.asp">--><!--@@@@--><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/top_bottom_right_nofree.gif" width="70" height="59" alt="Sign Up Now!" border="0"><!--</a>--></td>
+	<td><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/top_bottom_left2.gif" width="384" height="59" alt="eFax.com Home" border="0" ismap="" usemap="#top_bottom_leftMap"><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/top_bottom_middle.gif" width="196" height="59" alt="" border="0" ismap="" usemap="#top_bottom_middleMap"><img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/top_bottom_right_nofree.gif" width="70" height="59" alt="Sign Up Now!" border="0"></td>
 </tr>
 </tbody></table>
 <!-- end top bar table -->
@@ -466,15 +525,15 @@ function MM_openBrWindow(theURL,winName,features) {
 			<tr>
 				<td>
 				<script>
-				document.write('<a href="http://www.efax.com/signup/plus/page1.asp" onMouseOver="navOn(\'signup\',0)">')
-				</script><a href="http://www.efax.com/signup/plus/page1.asp" onmouseover="navOn('signup',0)">
+				document.write('<a href="' + sRegLink + '/plus/page1.asp" onMouseOver="navOn(\'signup\',0)">')
+				</script><a href="http://www.efax.com/register/inetpub/wwwroot/plus/page1.asp" onmouseover="navOn('signup',0)">
 				<img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/sidenav_signup_off.gif" width="114" height="44" alt="Sign Up" border="0" name="sidenav_signup"></a></td>
 			</tr>
 			<tr>
 				<td>
 				<script>
-				document.write('<a href="https://www.efax.com/login/login.asp" onMouseOver="navOn(\'account\',3)">')
-				</script><a href="https://www.efax.com/login/login.asp" onmouseover="navOn('account',3)">
+				document.write('<a href="' + sSecureMyAcctLink + '/login/login.asp" onMouseOver="navOn(\'account\',3)">')
+				</script><a href="https://www.efax.com/account/inetpub/wwwroot/login/login.asp" onmouseover="navOn('account',3)">
 				<img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/sidenav_account_off.gif" width="114" height="44" alt="Log In" border="0" name="sidenav_account"></a></td>
 			</tr>
 
@@ -495,15 +554,15 @@ function MM_openBrWindow(theURL,winName,features) {
 			<tr>
 				<td>
 				<script>
-				document.write('<a href="http://www.efax.com/need/try2splash.html" onMouseOver="navOn(\'trial\',6)">')
-				</script><a href="http://www.efax.com/need/try2splash.html" onmouseover="navOn('trial',6)">
+				document.write('<a href="' + sRegLink + '/free/page1.asp" onMouseOver="navOn(\'trial\',6)">')
+				</script><a href="http://www.efax.com/register/inetpub/wwwroot/free/page1.asp" onmouseover="navOn('trial',6)">
 				<img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/sidenav_trial_off.gif" width="114" height="44" alt="Trial version of eFax" border="0" name="sidenav_trial"></a></td>
 			</tr>
 			<tr>
 				<td>
 				<script>
-				document.write('<a href="http://www.efax.com/help/" onMouseOver="navOn(\'help\',4)">')
-				</script><a href="http://www.efax.com/help/" onmouseover="navOn('help',4)">
+				document.write('<a href="' + sHelpLink + '" onMouseOver="navOn(\'help\',4)">')
+				</script><a href="http://www.efax.com/help/inetpub/wwwroot" onmouseover="navOn('help',4)">
 				<img src="http://a1270.g.akamai.net/f/1270/5371/1d/www.efax.com/images/nav/sidenav_help_off.gif" width="114" height="44" alt="Help" border="0" name="sidenav_help"></a></td>
 			</tr>
 
@@ -540,10 +599,21 @@ if ( typeof( section ) != "undefined" && section != null && section != 4 ) {
             else
                 ison = "";
 
-            if ( i != 0 )
-                document.write( "<img src='/images/nav/secnav_divider.gif'>" );
-            document.write( "<a href='" + slinks[i] + "'>" );
-            document.write( "<img src='/images/nav/secnav_" + names[section] + "_" + sicons[i] + ison + ".gif' alt='" + salts[i] +"' border='0'></a>" );
+            if ( i != 0 ){
+	  			if ( salts[i] != 'WebSend' ){
+	    			document.write( "<img src='/images/nav/secnav_divider.gif'>" );
+            		document.write( "<a href='" + slinks[i] + "'>" );
+            		document.write( "<img src='/images/nav/secnav_" + names[section] + "_" + sicons[i] + ison + ".gif' alt='" + salts[i] +"' border='0'></a>" );
+				}
+				else{
+					document.write( "<img src='/images/nav/secnav_divider.gif'>" );
+            		document.write( "<a href='#'  onclick=javascript:MM_openBrWindow('" + slinks[i] + "','websend','scrollbars=yes,resizable=yes,width=700,height=675') >" );
+            		document.write( "<img src='/images/nav/secnav_" + names[section] + "_" + sicons[i] + ison + ".gif' alt='" + salts[i] +"' border='0'></a>" );
+				}
+            }
+			else{
+					document.write( "<a href='" + slinks[i] + "'>" );
+            		document.write( "<img src='/images/nav/secnav_" + names[section] + "_" + sicons[i] + ison + ".gif' alt='" + salts[i] +"' border='0'></a>" );			}
         }
     }
 }
@@ -704,8 +774,17 @@ We use an outside credit card processing company to bill users for goods and ser
 	<center>
 
 	<font face="arial,helvetica" size="-2" color="#0033cc">
-
-	<a href="http://www.efax.com/signup/plus/page1.asp">sign up</a> | <a href="http://www.efax.com/">home</a> | <a href="http://www.efax.com/products/plus/">products</a> | <a href="http://www.efax.com/need">download</a> | <a href="https://www.efax.com/login/login.asp">my account</a> | <a href="http://www.efax.com/help">help</a> | <a href="http://www.efax.com/contactus/inquiries.asp">contact us</a> | <a href="http://www.efax.com/partners">partners</a> | <a href="http://www.j2global.com" target="_blank">about j2</a> | <a href="http://www.efax.com/sitemap">site map</a> <br> <a href="javascript:MM_openBrWindow('http://www.efax.com/legal/popup_legal_generic.asp','agreement','resizable,scrollbars=yes,top=50,left=50,width=660,height=560')">Customer Agreement</a> | <a href="http://www.efax.com/privacy.html">privacy policy</a>
+	<script language="javascript">
+	document.write('<a href="' + sRegLink + '/plus/page1.asp">sign up</a> | <a href="http://www.efax.com/">home</a> | ')
+	document.write('<a href="http://www.efax.com/products/plus/">products</a> | <a href="http://www.efax.com/need">download</a> | ')
+	document.write('<a href="' + sSecureMyAcctLink + '/login/login.asp">my account</a> | <a href =' + sHelpLink + '>help</a> | ')
+	document.write('<a href="http://www.efax.com/contactus/inquiries.asp">contact us</a> | <a href="http://www.efax.com/partners">partners</a> | ')
+	document.write('<a href="http://www.j2global.com" target="_blank">about j2</a> | <a href="http://www.efax.com/sitemap">site map</a> <BR> ')
+	</script><a href="http://www.efax.com/register/inetpub/wwwroot/plus/page1.asp">sign up</a> | <a href="http://www.efax.com/">home</a> | <a href="http://www.efax.com/products/plus/">products</a> | <a href="http://www.efax.com/need">download</a> | <a href="https://www.efax.com/account/inetpub/wwwroot/login/login.asp">my account</a> | <a href="http://www.efax.com/help/inetpub/wwwroot">help</a> | <a href="http://www.efax.com/contactus/inquiries.asp">contact us</a> | <a href="http://www.efax.com/partners">partners</a> | <a href="http://www.j2global.com" target="_blank">about j2</a> | <a href="http://www.efax.com/sitemap">site map</a> <br> 
+	<a href="javascript:MM_openBrWindow('http://www.efax.com/legal/popup_legal_generic.asp','agreement','resizable,scrollbars=yes,top=50,left=50,width=660,height=560')">Customer Agreement</a> | 
+	<script language="javascript">
+	document.write('<a href="http://www.efax.com/privacy.html">privacy policy</a>')
+	</script><a href="http://www.efax.com/privacy.html">privacy policy</a>
 
    <br><br>© 2002 eFax.com. All rights reserved.<br>
 	eFax is a registered trademark of eFax.com.
@@ -746,33 +825,21 @@ We use an outside credit card processing company to bill users for goods and ser
 	}
 	document.write("<img src=/cgi-bin/usrtrack.cgi?visited_path=" + window.location.pathname + "&cid=" + usrTrackCUSTID + "&did=" + usrTrackDID + "&bref=" + bref +" height=1 width=1 border=0>");
 // -->
-</script><img src="/cgi-bin/usrtrack.cgi?visited_path=/web/20020610201146id_/http%3A//www.efax.com/privacy.html&amp;cid=0&amp;did=0&amp;bref=" height="1" width="1" border="0">
+</script><img src="/cgi-bin/usrtrack.cgi?visited_path=/web/20021206185926id_/http%3A//www.efax.com/privacy.html&amp;cid=0&amp;did=0&amp;bref=" height="1" width="1" border="0">
 
 <map name="topNav">
 <area shape="rect" coords="0,0,67,11" href="#" onmouseover="swapTop(1)" onmouseout="swapTop(0)"><!-- contact us -->
-
 <area shape="rect" coords="68,0,131,11" href="#" onmouseover="swapTop(1)" onmouseout="swapTop(0)"><!-- partners -->
-
 <area shape="rect" coords="132,0,193,11" href="#" onmouseover="swapTop(1)" onmouseout="swapTop(0)"><!-- about j2 -->
-
 <area shape="rect" coords="194,0,264,11" href="#" onmouseover="swapTop(1)" onmouseout="swapTop(0)"><!-- site map -->
-
 </map>
 <map name="top_bottom_leftMap"> 
-
  <area shape="rect" coords="0,-7,191,42" href="http://www.efax.com/"> 
-
- <area shape="rect" coords="190,19,385,41" href="/products/plus/"> 
-
+ <area shape="rect" coords="190,19,385,41" href="http://www.efax.com/products/plus/"> 
 </map> 
-
 <map name="top_bottom_middleMap"> 
-
- <area shape="rect" coords="-21,20,124,40" href="/products/plus/"> 
-
+ <area shape="rect" coords="-21,20,124,40" href="http://www.efax.com/products/plus/"> 
 </map> 
-
-
 
 <!-- end page container table -->
 <layer src="http://ad.doubleclick.net/adl/ efax.dart/Superstitial ;sz=1x1;ord=" +="" random_number="" +"?"="" width="1" height="1" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=1;clip.width=1; visibility='show';"></layer>
@@ -784,8 +851,6 @@ We use an outside credit card processing company to bill users for goods and ser
 </nolayer>
 <ilayer id="layer1" visibility="hidden" width="1" height="1"></ilayer>
 <!-- End Supersticial Ad -->
-
-
 
 
 </body></html>
