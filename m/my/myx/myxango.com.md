@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myxango.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211051316id_/http%3A//www.myxango.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myxango.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609185656id_/http%3A//myxango.com/privacy.asp) for the most accurate reproduction.*
 
 # MyXanGo Privacy Policy
 
