@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the usairwaysvacations.com privacy policy that was archived on 2003-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031210223503id_/http%3A//www.usairwaysvacations.com/policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the usairwaysvacations.com privacy policy that was archived on 2004-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607030756id_/http%3A//www.usairwaysvacations.com/policy.asp) for the most accurate reproduction.-->
 
-<html><head>	<link rel="stylesheet" type="text/css" href="/IUSstyle.css">
+<html><head>	
 <title>US Airways Vacations</title>
+<link rel="stylesheet" type="text/css" href="http://www.usairwaysvacations.com//IUSstyle.css">
 
 <style type="text/css">
 <!--
@@ -38,29 +39,285 @@ function MM_findObj(n, d) { //v4.0
 </script>
 	
 		
-	</head>
+	<script language="javascript">
+<!--
 
-<!--<body bgcolor="#336699" text="#333333" link="#333333" vlink="#666666" alink="#cccccc" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" onLoad="MM_preloadImages('/images/menu/destinations_over.gif','/images/menu/pricing_res_over.gif','/images/menu/cust_service_over.gif','/images/menu/usairways_over.gif','/images/menu/faqs_over.gif','/images/menu/vac_savers_over.gif')">-->
+// apppends a query string to the href of a link
+//function appendQS_toLinks()
+function BodyLoadHandler()
+{
+	var OAC;
+	OAC = "";
+//	pl = "";
+// This function adds the PseudoARC to all FORMs and LINKs on the page.
+	var i, workString
+	al = "Now the forms on this page:";
+	for (i = 0; i < document.forms.length; i++) {
+		al += "\n" + document.forms[i].name + " ==> " + document.forms[i].action;
+	}
+	for (i = 0; i < document.links.length; i++) {
+		workString = document.links[i].href;
+		if ((workString.toLowerCase().indexOf("javascript:") == -1)&&(workString.indexOf("#") == -1)&&(workString.indexOf("mailto:") == -1)&&(workString.indexOf("http://www.vacationrx.com") == -1) ) {
 
-<body onscroll="window.event.cancelBubble = true;" bgcolor="#336699" text="#333333" link="#0066CC" vlink="666666" alink="#cccccc" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" onload="MM_preloadImages('images/menu/destinations_over.gif','images/menu/pricing_res_over.gif','images/menu/cust_service_over.gif','images/menu/usairways_over.gif','images/menu/faqs_over.gif','images/menu/vac_savers_over.gif')">
+			if (workString.indexOf("?") != -1) {				
+				document.links[i].href = document.links[i].href + "&OAC=" + OAC.substring(0, 3);// + "&pl=" + pl;
+			} else {				
+				document.links[i].href = document.links[i].href + "?OAC=" + OAC.substring(0, 3);// + "&pl=" + pl;
+			}
+
+		}
+	}
+	al = "Now Links on this page:";
+	for (i = 0; i < document.links.length; i++) {
+		al += "\n" + document.links[i].href;
+	}
+}
+window.onload = BodyLoadHandler;
+//-->
+</script><script language="JavaScript" type="text/JavaScript">
+<!--
+var isActive = false;
+    function menuItem(url,text){
+      this.url = url;
+      this.text = text;
+    }
+    
+    function showMenu(){
+      isActive = true;
+      document.getElementById("Origin").style.visibility="hidden";
+      //document.getElementById("NAV-about").style.visibility="visible";
+      document.getElementById("NAV-contact").style.visibility="visible";	  
+    }
+	function showMenu2(){
+      isActive = true;
+      document.getElementById("Origin").style.visibility="hidden";
+      document.getElementById("NAV-about").style.visibility="visible";
+      //document.getElementById("NAV-contact").style.visibility="visible";	  
+    }
+    
+    function hideMenu(){
+      isActive = false;
+      setTimeout('hide()',100);
+    }
+ 
+   function hide(){
+      if(!isActive){
+        document.getElementById("NAV-about").style.visibility = "hidden";
+        document.getElementById("NAV-contact").style.visibility = "hidden";		
+        document.getElementById("Origin").style.visibility="visible";
+      }
+    }
+
+var timerID = "global";
+function hideMenus() {
+   MM_showHideLayers('NAV-dest','','hide','NAV-res','','hide','NAV-vacsave','','hide','NAV-cust','','hide','NAV-contact','','hide','NAV-about','','hide');
+}
+function startTimer() {
+   stopTimer();
+   // the number "1000" is the number of thousands-of-a-second
+   timerID = setTimeout("hideMenus()", 500);
+}
+function stopTimer() {
+   clearTimeout(timerID);
+}
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function P7_Snap() { //v2.62 by PVII
+  var x,y,ox,bx,oy,p,tx,a,b,k,d,da,e,el,args=P7_Snap.arguments;a=parseInt(a);
+  for (k=0; k<(args.length-3); k+=4)
+   if ((g=MM_findObj(args[k]))!=null) {
+    el=eval(MM_findObj(args[k+1]));
+    a=parseInt(args[k+2]);b=parseInt(args[k+3]);
+    x=0;y=0;ox=0;oy=0;p="";tx=1;da="document.all['"+args[k]+"']";
+    if(document.getElementById) {
+     d="document.getElementsByName('"+args[k]+"')[0]";
+     if(!eval(d)) {d="document.getElementById('"+args[k]+"')";if(!eval(d)) {d=da;}}
+    }else if(document.all) {d=da;} 
+    if (document.all || document.getElementById) {
+     while (tx==1) {p+=".offsetParent";
+      if(eval(d+p)) {x+=parseInt(eval(d+p+".offsetLeft"));y+=parseInt(eval(d+p+".offsetTop"));
+      }else{tx=0;}}
+     ox=parseInt(g.offsetLeft);oy=parseInt(g.offsetTop);var tw=x+ox+y+oy;
+     if(tw==0 || (navigator.appVersion.indexOf("MSIE 4")>-1 && navigator.appVersion.indexOf("Mac")>-1)) {
+      ox=0;oy=0;if(g.style.left){x=parseInt(g.style.left);y=parseInt(g.style.top);
+      }else{var w1=parseInt(el.style.width);bx=(a<0)?-5-w1:-10;
+      a=(Math.abs(a)<1000)?0:a;b=(Math.abs(b)<1000)?0:b;
+      x=document.body.scrollLeft + event.clientX + bx;
+      y=document.body.scrollTop + event.clientY;}}
+   }else if (document.layers) {x=g.x;y=g.y;var q0=document.layers,dd="";
+    for(var s=0;s<q0.length;s++) {dd='document.'+q0[s].name;
+     if(eval(dd+'.document.'+args[k])) {x+=eval(dd+'.left');y+=eval(dd+'.top');break;}}}
+   if(el) {e=(document.layers)?el:el.style;
+   var xx=parseInt(x+ox+a),yy=parseInt(y+oy+b);
+   if(navigator.appName=="Netscape" && parseInt(navigator.appVersion)>4){xx+="px";yy+="px";}
+   if(navigator.appVersion.indexOf("MSIE 5")>-1 && navigator.appVersion.indexOf("Mac")>-1){
+    xx+=parseInt(document.body.leftMargin);yy+=parseInt(document.body.topMargin);
+    xx+="px";yy+="px";}e.left=xx;e.top=yy;}}
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script></head>
 
 
 
-<center>
 
-<table width="750" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-    <td rowspan="2" valign="top"><a href="/index.asp"><img src="/images/usav_logo_inside.gif" width="176" height="103" border="0"></a></td><td colspan="3" valign="top"><img src="/images/destinations/mast_customer_service.jpg" width="574" height="76" border="0"></td>
-</tr>
-<tr>
 
-<!-- ************************************** Start Main Menu ************************************** -->
-      <td colspan="3" valign="top"><a href="/dest/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','/images/menu/destinations_over.gif',1)"><img src="/images/menu/destinations.gif" width="91" height="27" border="0" name="Image1"></a><a href="/pricing_res.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','/images/menu/pricing_res_over.gif',1)"><img src="/images/menu/pricing_res.gif" width="142" height="27" border="0" name="Image2"></a><a href="/vacation_savers/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','/images/menu/vac_savers_over.gif',1)"><img src="/images/menu/vac_savers.gif" width="109" height="27" border="0" name="Image6"></a><a href="/customer/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','/images/menu/cust_service_over.gif',1)"><img src="/images/menu/cust_service_over.gif" width="113" height="27" border="0" name="Image3"></a><a href="http://www.usairways.com" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','/images/menu/usairways_over.gif',1)"><img src="/images/menu/usairways.gif" width="77" height="27" border="0" name="Image4"></a><a href="/customer/faqs.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','/images/menu/faqs_over.gif',1)"><img src="/images/menu/faqs.gif" width="42" height="27" border="0" name="Image5"></a></td>
-<!-- *************************************** End Main Menu *************************************** -->
 
-</tr>
+<body leftmargin="15" topmargin="15" marginwidth="15" marginheight="15" bgcolor="#336699" onload="P7_Snap('mainDealSpace','mainDeal',2,2,'HotDropSpace','hotDrop',3,-2,'travPlanImg','NAV-dest',12,19,'NAV-destImg','spec',74,19,'specImg','custServ',53,19,'custServImg','midAir',104,19,'homeImg','travPlan',43,19);MM_preloadImages('http://www.usairwaysvacations.com//images/homepage/menu_DS_on.gif','http://www.usairwaysvacations.com//images/homepage/menu_PV_on.gif','http://www.usairwaysvacations.com//images/homepage/menu_VS_on.gif','http://www.usairwaysvacations.com//images/homepage/menu_CS_on.gif','http://www.usairwaysvacations.com//images/homepage/menu_CU_on.gif','http://www.usairwaysvacations.com//images/homepage/menu_AU_on.gif')" onabort="P7_Snap('homeImg','travPlan',43,19,'travPlanImg','dest',91,19,'destImg','spec',74,19,'specImg','custServ',53,19,'custServImg','midAir',104,19,'HotDropSpace','hotDrop',3,-2)">
+
+<div id="NAV-dest" style="position:absolute; left:176px; top:96px; z-index:2; width: 135px; height: 45px; visibility: hidden;">
+
+<table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#CCCCCC">
+	<tbody><tr>
+		<td bgcolor="#336699" class="bodyTextBlue"><font class="menu-nav">       
+			<a href="http://www.usairwaysvacations.com//dest/bda.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Bermuda</a><br>
+			<a href="http://www.usairwaysvacations.com//dest/0ca.asp" onmouseover="stopTimer()" onmouseout="startTimer()">California</a><br>
+			<!--   <a href="http://www.usairwaysvacations.com//dest/0cn.asp" onMouseOver="stopTimer()" onMouseOut="startTimer()">Canada</a><br> -->
+			<a href="http://www.usairwaysvacations.com//dest/0cb.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Caribbean</a><br>
+			<a href="http://www.usairwaysvacations.com//dest/moreinfo/distinctive.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Distinctive Vacations</a><br>
+			<a href="http://www.usairwaysvacations.com//dest/0eu.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Europe</a><br>
+			<a href="http://www.usairwaysvacations.com//dest/0fl.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Florida</a><br>
+			<a href="http://www.usairwaysvacations.com//dest/0hi.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Hawaiian Islands</a><br>
+			<a href="http://www.usairwaysvacations.com//dest/las.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Las Vegas</a><br>
+			<a href="http://www.usairwaysvacations.com//dest/0la.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Latin America</a><br>
+			<a href="http://www.usairwaysvacations.com//dest/0mx.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Mexico</a><br>
+			<a href="http://www.usairwaysvacations.com//dest/0ski.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Ski</a><br>
+			<a href="http://www.usairwaysvacations.com//dest/0us.asp" onmouseover="stopTimer()" onmouseout="startTimer()">U.S. Cities</a><br>
+			<!-- <a href="http://www.usairwaysvacations.com//dest/moreinfo/distinctive.asp" onMouseOver="stopTimer()" onMouseOut="startTimer()">Distinctive Vacations</a><br>	 -->
+			</font></td>
+	</tr>
+</tbody></table>
+</div>
+
+
+<div id="NAV-res" style="position:absolute; left:260px; top:96px; z-index:4; width: 145px; height: 45px; visibility: hidden;">
+
+
+
+<table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#CCCCCC">
+	<tbody><tr>
+		<td bgcolor="#336699" class="bodyTextBlue"><font class="menu-nav">
+			<a href="http://www.usairwaysvacations.com//pricing_res.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Reservations</a><br>
+			<a href="http://www.usairwaysvacations.com//modify.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Modify</a><br>
+			<a href="http://www.usairwaysvacations.com//modify.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Inquiries</a><br>
+		</font></td>
+	</tr>
+</tbody></table>
+</div>
+
+
+<div id="NAV-vacsave" style="position:absolute; left:405px; top:96px; z-index:5; width: 115px; height: 45px; visibility: hidden;">
+
+
+<table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#CCCCCC">
+	<tbody><tr>
+		<td bgcolor="#336699" class="bodyTextBlue"><font class="menu-nav">
+			<a href="http://www.usairwaysvacations.com//vacation_savers/index.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Current Specials</a><br>
+						
+			<a href="http://www.usairwaysvacations.com//vacation_savers/sign_up.asp" onmouseover="stopTimer()" onmouseout="startTimer()">E-mail Sign-up</a><br>
+			
+		</font></td>
+	</tr>
+</tbody></table>
+</div>
+
+
+
+
+<div id="NAV-cust" style="position:absolute; left:505px; top:96px; z-index:6; width: 100px; height: 45px; visibility: hidden;">
+
+
+<table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#CCCCCC">
+	<tbody><tr>
+		<td bgcolor="#336699" class="bodyTextBlue"><font class="menu-nav">
+			
+			<a href="http://www.usairwaysvacations.com//contact/index.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Contact Us</a><br>
+			
+			<a href="http://www.usairwaysvacations.com//customer/faqs.asp" onmouseover="stopTimer()" onmouseout="startTimer()">FAQs</a><br>
+			<a href="http://www.usairwaysvacations.com//terms.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Terms &amp; Conditions</a><br>
+			<a href="http://www.usairwaysvacations.com//customer/faqs.asp#codeshare" onmouseover="stopTimer()" onmouseout="startTimer()">Codeshare</a><br>						
+		</font></td>
+	</tr>
+</tbody></table>
+</div>
+
+
+
+<div id="NAV-contact" onmouseover="showMenu();" onmouseout="hideMenu();" style="position:absolute; left:605px; top:96px; z-index:7; width: 160px; height: 45px; visibility: hidden;">
+
+<table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#CCCCCC">
+	<tbody><tr>
+		<td bgcolor="#336699" class="bodyTextBlue"><font class="menu-nav">
+			<a href="http://www.usairwaysvacations.com//pricing_res.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Plan Your Vacation Now</a><br>
+			<a href="http://www.usairwaysvacations.com//contact/index.asp#specialists" onmouseover="stopTimer()" onmouseout="startTimer()">Customer Care Specialists</a><br>
+			<a href="http://www.usairwaysvacations.com//contact/index.asp#group" onmouseover="stopTimer()" onmouseout="startTimer()">Group Sales</a><br>
+			<a href="http://www.usairwaysvacations.com//contact/index.asp#usair" onmouseover="stopTimer()" onmouseout="startTimer()">Airline</a><br>
+			<a href="http://www.usairwaysvacations.com//contact/index.asp#technical" onmouseover="stopTimer()" onmouseout="startTimer()">Technical Help</a><br>						
+		</font></td>
+	</tr>
 </tbody></table>
 
+</div>
+
+
+<div id="NAV-about" onmouseover="showMenu2();" onmouseout="hideMenu();" style="position:absolute; left:605px; top:96px; z-index:8; width: 160px; height: 45px; visibility: hidden;">
+
+
+
+<table width="100%" border="0" cellpadding="5" cellspacing="1" bgcolor="#CCCCCC">
+	<tbody><tr>
+		<td bgcolor="#336699" class="bodyTextBlue"><font class="menu-nav">
+			<a href="http://www.usairwaysvacations.com//about/index.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Who We Are</a><br>
+			<a href="http://www.usairwaysvacations.com//about/index.asp#why" onmouseover="stopTimer()" onmouseout="startTimer()">Why Vacation With Us?</a><br>
+			<a href="http://www.usairwaysvacations.com//contact/index.asp" onmouseover="stopTimer()" onmouseout="startTimer()">Contact Us</a><br>	
+		</font></td>
+	</tr>
+</tbody></table>
+</div>
+
+
+<table width="750" cellpadding="0" cellspacing="0" border="0" bgcolor="white">
+	<tbody><tr>
+		<td rowspan="2" valign="top"><a href="http://www.usairwaysvacations.com//index.asp" target="_top"><img src="http://www.usairwaysvacations.com//images/homepage/USV-logo.gif" width="161" height="79" alt="" border="0"></a></td>
+		<td>
+		<img src="http://www.usairwaysvacations.com//images/headers/mast_customer_service.jpg" width="589" height="62" alt="" border="0"></td></tr>
+	<tr><td><a href="http://www.usairwaysvacations.com//dest/index.asp" onmouseover="MM_showHideLayers('NAV-dest','','show','NAV-cust','','hide','NAV-res','','hide','NAV-vacsave','','hide','NAV-contact','','hide','NAV-about','','hide');MM_swapImage('NAV-destImg','','http://www.usairwaysvacations.com//images/homepage/menu_DS_on.gif',1); stopTimer();" onmouseout="MM_swapImgRestore(); startTimer();" target="_top"><img src="http://www.usairwaysvacations.com//images/homepage/menu_DS_off.gif" width="85" height="17" alt="" border="0" name="NAV-destImg" id="NAV-destImg"></a><a href="http://www.usairwaysvacations.com//pricing_res.asp" onmouseover="MM_showHideLayers('NAV-dest','','hide','NAV-cust','','hide','NAV-res','','show','NAV-vacsave','','hide','NAV-contact','','hide','NAV-about','','hide');MM_swapImage('NAV-resImg','','http://www.usairwaysvacations.com//images/homepage/menu_PV_on.gif',1); stopTimer();" onmouseout="MM_swapImgRestore(); startTimer();" target="_top"><img src="http://www.usairwaysvacations.com//images/homepage/menu_PV_off.gif" name="NAV-resImg" width="145" height="17" border="0" id="NAV-resImg"></a><a href="http://www.usairwaysvacations.com//vacation_savers/index.asp" onmouseover="MM_showHideLayers('NAV-dest','','hide','NAV-cust','','hide','NAV-res','','hide','NAV-vacsave','','show','NAV-contact','','hide','NAV-about','','hide');MM_swapImage('NAV-vacsaveImg','','http://www.usairwaysvacations.com//images/homepage/menu_VS_on.gif',1); stopTimer();" onmouseout="MM_swapImgRestore(); startTimer();" target="_top"><img src="http://www.usairwaysvacations.com//images/homepage/menu_VS_off.gif" width="101" height="17" alt="" border="0" name="NAV-vacsaveImg" id="NAV-vacsaveImg"></a><a href="http://www.usairwaysvacations.com//customer/index.asp" onmouseover="MM_showHideLayers('NAV-dest','','hide','NAV-cust','','show','NAV-res','','hide','NAV-vacsave','','hide','NAV-contact','','hide','NAV-about','','hide');MM_swapImage('NAV-custImg','','http://www.usairwaysvacations.com//images/homepage/menu_CS_on.gif',1); stopTimer();" onmouseout="MM_swapImgRestore(); startTimer();" target="_top"><img src="http://www.usairwaysvacations.com//images/homepage/menu_CS_off.gif" width="113" height="17" alt="" border="0" name="NAV-custImg" id="NAV-custImg"></a><a href="http://www.usairwaysvacations.com//contact/index.asp" onmouseover="MM_showHideLayers('NAV-dest','','hide','NAV-cust','','hide','NAV-res','','hide','NAV-vacsave','','hide','NAV-contact','','show','NAV-about','','hide');MM_swapImage('NAV-contactImg','','http://www.usairwaysvacations.com//images/homepage/menu_CU_on.gif',1); stopTimer(); showMenu();" onmouseout="MM_swapImgRestore(); startTimer(); hideMenu();" target="_top"><img src="http://www.usairwaysvacations.com//images/homepage/menu_CU_off.gif" width="76" height="17" alt="" border="0" name="NAV-contactImg" id="NAV-contactImg"></a><a href="http://www.usairwaysvacations.com//about/index.asp" onmouseover="MM_showHideLayers('NAV-dest','','hide','NAV-cust','','hide','NAV-res','','hide','NAV-vacsave','','hide','NAV-contact','','hide','NAV-about','','show');MM_swapImage('NAV-aboutImg','','http://www.usairwaysvacations.com//images/homepage/menu_AU_on.gif',1); stopTimer(); showMenu2();" onmouseout="MM_swapImgRestore(); startTimer(); hideMenu();" target="_top"><img src="http://www.usairwaysvacations.com//images/homepage/menu_AU_off.gif" width="69" height="17" alt="" border="0" name="NAV-aboutImg" id="NAV-aboutImg"></a></td></tr>
+	<tr><td colspan="2"><img src="http://www.usairwaysvacations.com//images/homepage/header-redwhiteline.gif" width="750" height="3" alt="" border="0"></td></tr>
+</tbody></table>
 <!-- Start ViewHotel -->
 <script language="javascript">
 function viewhotels(TEMPHotel)
@@ -68,10 +325,8 @@ function viewhotels(TEMPHotel)
 urlname = "hotels.asp?hlist=&strDestName" + '=' + escape(TEMPHotel);
 location.href = urlname;
 }
-</script>
-
-			
-		
+</script>	
+	
 <table height="100%" width="569" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
 	  <td valign="top" height="110" colspan="5"><img src="images/header_privacy_policy.gif" width="569" height="110"></td>
@@ -405,26 +660,27 @@ location.href = urlname;
 	<td bgcolor="#ffffff" height="100%"><img src="images/spacer.gif" width="1" height="1" border="0"></td>
 </tr>
 </tbody></table>
-<table width="750" cellspacing="0" cellpadding="0" border="0" bgcolor="#336699">
-<tbody><tr>
-<td colspan="2"><img src="/images/dest/footer-bar.gif" width="750" height="4" alt="" border="0"></td>
-</tr>
-<tr>
-    <td valign="top" width="660">
-	<div align="center">
-	<span class="footer"><br>
-	<a href="/index.asp">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/dest/index.asp">Destinations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/pricing_res.asp">Pricing &amp; Reservations</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="../../vacation_savers/index.asp">Vacation Savers</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/customer/index.asp">Customer Service</a><br>
-	<a href="http://www.usairways.com">US Airways</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/customer/faqs.asp">FAQ’s</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/policy.asp">Privacy Policy</a> &nbsp;&nbsp;|&nbsp;&nbsp;<a href="/dest/sitemap.asp">Site Map</a> 
-	
-	</span></div>
-	</td>
-    <td width="90">
-	<div align="center"><img src="/images/dest/verisign.gif" width="59" height="25" alt="" border="0" vspace="7"></div>
-	<font class="footer">CST 2009218-20</font>
-	</td>
-</tr>
-</tbody></table>			
-		</center>
+<table width="750" cellpadding="0" cellspacing="0" border="0" bgcolor="#336699">
+<tbody><tr><td colspan="2"><img src="http://www.usairwaysvacations.com//images/homepage/bot-line.gif" width="750" height="3" alt="" border="0"></td></tr>
+<tr><td width="691">
+<font class="HP-footer">
+<a href="http://www.usairwaysvacations.com//dest/index.asp"><b>Destinations</b></a> | <a href="http://www.usairwaysvacations.com//pricing_res.asp"><b>Plan Your Vacation Now</b></a> | <a href="http://www.usairwaysvacations.com//vacation_savers/index.asp"><b>Vacation Savers</b></a> | <a href="http://www.usairwaysvacations.com//customer/index.asp"><b>Customer Service</b></a> | <a href="http://www.usairwaysvacations.com//contact/index.asp"><b>Contact Us</b></a> | <a href="http://www.usairwaysvacations.com//about/index.asp"><b>About Us</b></a><br>
+<a href="http://www.usairwaysvacations.com//terms.asp"><b>Terms and Conditions</b></a> | <a href="http://www.usairwaysvacations.com//policy.asp"><b>Privacy Policy</b></a> | <a href="http://www.usairwaysvacations.com//dest/sitemap.asp"><b>Site Map</b></a>&nbsp;&nbsp;&nbsp;&nbsp;©1998-2003 US Airways, Inc., US Airways Vacations
+</font>
+<script language="JavaScript">
+function popUp(url) {
+sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
+self.name = "mainWin";
+}
+</script>
+</td><td valign="top" align="right" width="79"><a href="javascript:popUp('https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;type=GOLD&amp;sealid=0&amp;dn=WWW.SECURE02.COM&amp;lang=en','Verisign','toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=475,height=300')"><img src="http://www.usairwaysvacations.com//images/homepage/verisign2.gif" width="59" height="25" alt="" border="0"></a><br>
+<font class="verisign">CST 2009218-20</font></td></tr>
+</tbody></table>
+
+
+
+			
+		
 	
 
 </body></html>
