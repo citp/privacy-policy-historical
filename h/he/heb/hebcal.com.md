@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202090923id_/http%3A//www.hebcal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hebcal.com privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610024513id_/http%3A//www.hebcal.com/privacy) for the most accurate reproduction.*
 
 # hebcal.com Privacy Policy
 
@@ -45,7 +45,7 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 In particular, the Hebcal Cookie stores information like your zip code and time zone, and also preferences such as whether you want Ashkenazis Hebrew or the weekly Torah portion to be listed in your Hebcal results.
 
-To clear your hebcal.com cookie settings any time, click this link: **[clear my hebcal.com cookie](http://www.hebcal.com/hebcal/del_cookie?static)**. We also offer you the option of a persistent "blank" or "opt-out" cookie so you can opt-out of hebcal.com cookies, without erasing or altering other cookies associated with your browser. To opt-out permanently, click this link: **[opt-out from hebcal.com](http://www.hebcal.com/hebcal/del_cookie?optout)**.
+To clear your hebcal.com cookie settings any time, click this link: **[clear my hebcal.com cookie](http://www.hebcal.com/hebcal/del_cookie.cgi?static)**. We also offer you the option of a persistent "blank" or "opt-out" cookie so you can opt-out of hebcal.com cookies, without erasing or altering other cookies associated with your browser. To opt-out permanently, click this link: **[opt-out from hebcal.com](http://www.hebcal.com/hebcal/del_cookie.cgi?optout)**.
 
 ## Information Collected
 
@@ -113,5 +113,5 @@ The following explanation is provided for why this data is collected:
 
 * * *
 
-Copyright © 2002 Michael J. Radwin. All rights reserved. [Help](http://www.hebcal.com/help/) \- [Contact](http://www.hebcal.com/contact/) \- [Donate](http://www.hebcal.com/donations/)   
-Last modified: Tue Sep 17 15:37:31 EDT 2002  ($Revision: 1.15 $) 
+Copyright © 2003 Michael J. Radwin. All rights reserved. [Help](http://www.hebcal.com/help/) \- [Contact](http://www.hebcal.com/contact/) \- [Donate](http://www.hebcal.com/donations/)   
+Last modified: Sun Mar 16 20:34:24 EST 2003  ($Revision: 1.17 $) 
