@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehousedesigners.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205183637id_/http%3A//www.thehousedesigners.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehousedesigners.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610185916id_/http%3A//www.thehousedesigners.com/privacy.asp) for the most accurate reproduction.*
 
 # The House Designers; house plans, garage plans, vacation homes
 
@@ -76,6 +76,6 @@ All of our transactions automatically take place on a secure server. All of your
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 | 
 
-Copyright 2003. The House Designers, LLC. All rights reserved. All house plans and images on The House Designers websites are protected under Federal and International Copyright Law. Reproductions of the illustrations or working drawings by any means is strictly prohibited. No part of this electronic publication may be reproduced, stored or transmitted in any form by any means without prior written permission of The House Designers, LLC.  
+Copyright 2004. The House Designers, LLC. All rights reserved. All house plans and images on The House Designers websites are protected under Federal and International Copyright Law. Reproductions of the illustrations or working drawings by any means is strictly prohibited. No part of this electronic publication may be reproduced, stored or transmitted in any form by any means without prior written permission of The House Designers, LLC.  
   
-Copyright 2003
+Copyright 2004
