@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the formsite.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601144226id_/http%3A//www.formsite.com/forms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formsite.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095356id_/http%3A//www.formsite.com/forms/privacy.html) for the most accurate reproduction.*
 
-# FormSite.com Privacy Statement
+# FormSite - html form builder
 
 Your privacy is of the utmost importance to FormSite.com. FormSite.com attempts to minimize personal information members need to reveal. However, we do ask for some basic personal information when creating forms at FormSite.com. This information provides aggregate demographic data that FormSite.com uses to better understand the types of people using FormSite.com. This data also allows us to do a better job of recommending content that may be of interest to you on FormSite.com, and to show you advertisements that are relevant to your age and geographic location. Ultimately, however, the decision to provide this information is yours. Information that FormSite.com requests, but does not require, includes Home Zip Code, Birth Year, and Gender.
 
