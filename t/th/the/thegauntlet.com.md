@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214084423id_/http%3A//thegauntlet.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegauntlet.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602112006id_/http%3A//www.thegauntlet.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
