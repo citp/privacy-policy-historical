@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204075346id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esri.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203210106id_/http%3A//www.esri.com/company/privacy.html) for the most accurate reproduction.*
 
 # ESRI Web Site Privacy Policy
 
-ESRI values the privacy of those who visit our Web sites and register for our software and services online. We think it is important for you to understand when and why we collect personally identifiable information and how we may use it. This Privacy Policy describes ESRI data collection and use policies. Please read the entire Privacy Policy before providing any personally identifiable information to us.
+**ESRI values the privacy of those who visit our Web sites and register for our software and services online.** It is important for you to understand when and why ESRI collects personally identifiable information and how it may be used. This Privacy Policy describes ESRI data collection and use policies. Please read the entire Privacy Policy before providing any personally identifiable information to us.
 
 ### Notice
 
-ESRI collects personally identifiable information, such as your name, address, telephone number, or e-mail address, only if you provide this information to us voluntarily. The voluntary information we collect is used for internal verification to complete transactions, ensure appropriate legal use of licensed ESRI software, provide notification to licensees about updates to ESRI's and our Affiliates' software, data, services, and to help provide technical and product support to our users. Where appropriate, ESRI may pass this data to an ESRI international distributor who provides the above services in your country, or to an ESRI Affiliate whose software, data, and services provide solutions to meet your needs. Our Affiliates are also committed to protecting personally identifiable information as described in their privacy statements/policies.
+ESRI collects personally identifiable information, such as your name, address, telephone number, or e-mail address, only if you provide this information to us voluntarily. The voluntary information we collect is used for internal verification to complete transactions, ensure appropriate legal use of licensed ESRI software, provide notification to licensees about updates to ESRI's and our Affiliates' software, data, services, and to help provide technical and product support to our users. Where appropriate, ESRI may pass this data to an [ESRI international distributor](http://gis.esri.com/intldist/contactint.cfm) who provides the above services in your country, or to an ESRI Affiliate whose software, data, and services provide solutions to meet your needs. Our Affiliates are also committed to protecting personally identifiable information as described in their privacy statements/policies.
 
 ESRI may also use your name, address, and e-mail to send you marketing materials, user conference information, and newsletters unless you notify us that you do not want to receive these materials. Occasionally, ESRI uses the services of bonded mailing houses that are authorized to use your personally identifiable data only for the benefit of ESRI and its Affiliates.
 
@@ -22,7 +22,7 @@ ESRI also collects personally identifiable information you provide when you orde
 
 ### Choice
 
-ESRI will contact you or send you marketing information about software or services unless you notify ESRI that you do not wish to receive it. You may notify us by sending an e-mail to [info@esri.com](http://gis.esri.com/company/moreinfo/index.cfm) as indicated below. Keep in mind, however, that you may not receive information on the ESRI User Conference or other valuable information as a result of your election to be removed from mailing lists.
+ESRI will contact you or send you marketing information about software or services unless you notify ESRI that you do not wish to receive it. You may notify us by sending an e-mail to [info@esri.com](mailto:info@esri.com) as indicated below. Keep in mind, however, that you may not receive information on the ESRI User Conference or other valuable information as a result of your election to be removed from mailing lists.
 
 Other than as described in this Privacy Policy, ESRI will not disclose your personally identifiable information unless required to do so by law or in the good faith belief that such action is necessary to (1) conform to the edicts of the law, (2) protect and defend the rights or property of ESRI, or (3) as part of a transfer of assets to a successor in interest.
 
@@ -30,7 +30,9 @@ Except as stated herein, ESRI's corporate policy is not to rent, sell, or otherw
 
 ### Access
 
-ESRI will permit you to access information about you in our database by contacting [info@esri.com](http://gis.esri.com/company/moreinfo/index.cfm). If you believe any of the information is incorrect or needs updating, please advise us. We will correct our records upon verification of the requested change. If you no longer wish to receive e-mail or postal notifications about software, services, or special promotions, please let us know by sending an e-mail to us at [info@esri.com](http://gis.esri.com/company/moreinfo/index.cfm) and specifying that you do not want to receive these notifications. Please provide us with your exact name and address as well as a description of the publication or mail piece you received. We will use reasonable efforts to refrain from including you when sending marketing materials to ESRI clients by noting your election in our database.
+ESRI will permit you to access information about you in our database by contacting [info@esri.com](mailto:info@esri.com). If you believe any of the information is incorrect or needs updating, please advise us. We will correct our records upon verification of the requested change. 
+
+If you no longer wish to receive e-mail or postal notifications about software, services, or special promotions, please let us know by sending an e-mail to us at [info@esri.com](http://gis.esri.com/company/moreinfo/index.cfm) and specifying that you do not want to receive these notifications. Please provide us with your exact name and address as well as a description of the publication or mail piece you received. We will use reasonable efforts to refrain from including you when sending marketing materials to ESRI clients by noting your election in our database.
 
 ### Security
 
@@ -38,4 +40,4 @@ ESRI will take reasonable and prudent precautions to ensure that your personally
 
 ### Enforcement
 
-If you believe for any reason that ESRI has not followed these principles, please contact us at [info@esri.com](http://gis.esri.com/company/moreinfo/index.cfm), and ESRI will act promptly to investigate, correct as appropriate, and advise you of the correction. Please identify the issue as a Privacy Policy concern in your communication to ESRI.
+If you believe for any reason that ESRI has not followed these principles, please contact us at [info@esri.com](mailto:info@esri.com), and ESRI will act promptly to investigate, correct as appropriate, and advise you of the correction. Please identify the issue as a Privacy Policy concern in your communication to ESRI.
