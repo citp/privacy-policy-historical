@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the shoptalk.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605165145id_/http%3A//shoptalk.com/otherPrivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptalk.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206055434id_/http%3A//www.shoptalk.com/otherPrivacy.php) for the most accurate reproduction.*
 
 # Shoptalk
 
 |  |  |   
 ---|---  
-| [Privacy Policy](https://web.archive.org/web/20020605165145id_/http%3A//shoptalk.com/otherPrivacy.php)  
-| [Terms of Use](https://web.archive.org/web/20020605165145id_/http%3A//shoptalk.com/otherTerms.php)  
-| [General Info Form](https://web.archive.org/web/20020605165145id_/http%3A//shoptalk.com/otherRequest.php)  
-| [Partner Info Form](https://web.archive.org/web/20020605165145id_/http%3A//shoptalk.com/otherRequestP.php)  
+| [Privacy Policy](https://web.archive.org/web/20021206055434id_/http%3A//www.shoptalk.com/otherPrivacy.php)  
+| [Terms of Use](https://web.archive.org/web/20021206055434id_/http%3A//www.shoptalk.com/otherTerms.php)  
+| [General Info Form](https://web.archive.org/web/20021206055434id_/http%3A//www.shoptalk.com/otherRequest.php)  
+| [Partner Info Form](https://web.archive.org/web/20021206055434id_/http%3A//www.shoptalk.com/otherRequestP.php)  
 |   
 |   
 
