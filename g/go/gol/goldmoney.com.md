@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410025439id_/http%3A//www.goldmoney.com/public/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldmoney.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020062727id_/http%3A//goldmoney.com/public/privacy.html) for the most accurate reproduction.*
 
 # GoldMoney
 
@@ -11,6 +11,6 @@ GoldMoney does not sell, rent, loan, trade or lease any personal information col
 
 GoldMoney will place a cookie in your browser, but this cookie will only be used for the purpose of maintaining the integrity of secure communications with the website. GoldMoney does not use cookies on its website for marketing or profiling purposes, nor does it allow other companies to use cookies on its site. For security reasons, your Holding number and Passphrase are not recorded on your computer's memory. Consequently, you must enter your Holding number and Passphrase each time you begin a new browser session and wish to view your Holding. 
 
-GoldMoney maintains e-mail lists to keep its users, the media, and interested members of the public informed about news and events. Individuals must ask to join our mailing lists by e-mailing their request to [Lists@GoldMoney.com](mailto:Lists@GoldMoney.com). 
+GoldMoney maintains several [E-mail Lists](https://web.archive.org/web/20011020062727id_/http%3A//goldmoney.com/public/news/email.html) to keep its users, the media and interested members of the public informed about news and events. 
 
 Questions regarding the GoldMoney privacy policy should be directed to [Support@GoldMoney.com](mailto:Support@GoldMoney.com). 
