@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2001-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010905035718id_/http%3A//www.drjays.com/cgi/show_generic.cgi%3Ffile%3Dcs_privacypolicy.html%26id%3DDJQyR73eDd3XM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drjays.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408131800id_/http%3A//www.drjays.com/cgi/show_generic.cgi%3Ffile%3Dcs_privacypolicy.html%26id%3DDJADu4y98k3C2) for the most accurate reproduction.*
 
 # DrJays.com
 
