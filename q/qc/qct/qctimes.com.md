@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qctimes.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171532id_/http%3A//www.qctimes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qctimes.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008122750id_/http%3A//qctimes.com/privacy) for the most accurate reproduction.*
 
 # Quad-City Times Newspaper Online - the Quad-Cities Home Page
 
