@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ep.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613203456id_/http%3A//www.ep.com/js/help/c0/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ep.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206120800id_/http%3A//ep.com/js/help/c0/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
