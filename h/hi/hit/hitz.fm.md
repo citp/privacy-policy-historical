@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611224900id_/http%3A//www.hitz.fm/03/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitz.fm privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204071827id_/http%3A//www.hitz.fm/04/privacy.asp) for the most accurate reproduction.*
 
 # www.hitz.fm :: Today's Hit Music
 
-**Privacy Policy**  
+|  | **Privacy Policy**  
+---  
+  
+| ****  
+---  
 **Our Policy**  
 Airtime Management & Programming Sdn Bhd. (403472-D) ("AMP"), our subsidiaries, affiliates and employees are committed to your privacy and security. We have created this privacy statement in order to demonstrate our firm commitment to protecting your privacy on-line. Keeping your information secure is our top priority. We want you to understand what we do, so we ask that you read.  
 **Addresses**  
@@ -11,7 +15,7 @@ We use your Internet Protocol Address (IP Address) to help diagnose problems wit
 AMP recognises that each user is a unique individual with their own distinct preferences. Our aim is to provide you with information and services which are most relevant to you. In order to achieve this, we need to get to know you and collect information to understand what differentiates you from each of our other users.   
 **Registration**  
   
-**** For the purpose of registration you may be requested to provide personal data that includes but is not limited to the following, without which it may not be possible to provide you with the personalised service:
+For the purpose of registration you may be requested to provide personal data that includes but is not limited to the following, without which it may not be possible to provide you with the personalised service:
 
   * Your name; 
   * Correspondence address;
@@ -39,10 +43,10 @@ All personal data held by us will be kept confidential but we may, where such di
 
 Your information is password-protected so that only you have access to this personal information. We recommend that you do not divulge your password to anyone. We will never ask you for your password in an unsolicited phone call or in an unsolicited email. Remember to log out and close your browser window when you have finished your work to ensure that others cannot access your personal information.   
   
-**Links** ****  
+**Links**  
 This site contains links to other sites. AMP is not responsible for the privacy practices or the content of such websites. We have not reviewed all of the sites linked to the Website. Linkage to another site does not indicate any approval or endorsement of any material contained in a linked site, and AMP is not responsible for their contents. Your connection to linked sites is at your own risk and subject to the terms of access and privacy policy therein.  
 **User Submissions**  
-Any material including but not limited to creative ideas, suggestions, original creative works (including character ideas, screen plays, artwork), data, information or other communications ("Submissions") transmitted or posted to the Website will be considered a voluntary submission to the public domain and as non-proprietary information. AMP will have no obligations whatsoever, either express or implied, with respect to these Submissions. AMP will be free to copy, disclose, distribute, incorporate and otherwise use the Submissions and all data, images, sound, text or other content embodied therein for any purpose it deems fit, commercial or non-commercial, without liability or compensation to any person or entity.  
+Any material including but not limited to creative ideas, suggestions, original creative works (including character ideas, screen plays, artwork), data, information or other communications ("Submissions") transmitted or posted to the Website will be considered a voluntary submission to the public domain and as non-proprietary information. AMP will have no obligations whatsoever, either expressed or implied, with respect to these Submissions. However AMP has the right to edit, delete or reject any materials or pictures uploaded or posted on the Website at its own discretion. AMP will be free to copy, disclose, distribute, incorporate and otherwise use the Submissions and all data, images, sound, text or other content embodied therein for any purpose it deems fit, commercial or non-commercial, without liability or compensation to any person or entity.  
 **Prohibitions**  
 You are prohibited from posting or transmitting to or from this Website any unlawful, harassing, threatening, libelous, defamatory, abusive, harmful, vulgar, obscene, pornographic, or other material, information or data that would violate any civil or criminal laws. AMP will cooperate to the fullest extent possible to assist authorities in prosecuting those persons responsible for such postings.  
 **Personal Data Access and Updating of Information**  
@@ -53,4 +57,6 @@ AMP may amend this policy from time to time. If we make any substantial changes 
   
 We take privacy and security matters very seriously and it is important to us that you understand and are comfortable with our privacy standards. If you have any questions, comments, criticisms or complaints about our Privacy and Security Statement and the way it affects you, please feel free to e-mail us at [webmaster@hitz.fm](mailto:webmaster@hitz.fm) or write or call us during regular business hours.
 
-[ **TOP**]
+[ **TOP**]  
+  
+ 
