@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the unleash.com privacy policy that was archived on 2000-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000614181613id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unleash.com privacy policy that was archived on 2001-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011211215645id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.-->
 
-<html><head><meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true comment &quot;RSACi North America Server&quot; by &quot;foster@unleash.com&quot; for &quot;http://www.unleash.com&quot; on &quot;1997.05.15T11:05-0500&quot; r (n 0 s 0 v 0 l 0))">
+<html><head><meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://www.unleash.com&quot; r (cz 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.unleash.com&quot; r (n 0 s 0 v 0 l 0))">
 
 
 
 <title>Privacy Statement for Graphics Unleashed</title>
 
-	
+
+<link rel="SHORTCUT ICON" href="/favicon.ico">
+
 <script language="javascript">
 
 <!--
@@ -15,88 +17,74 @@
 function tipson()
 {
 if (!document.images) return
-document.tips.src = "/nav0400/tipstricksgreen.gif";
+document.tips.src = "/nav0701/tipsandtricks-green.gif";
 }
 
 function tipsoff()
 {
 if (!document.images) return
-document.tips.src = "/nav0400/tipstricksred.gif";
+document.tips.src = "/nav0701/tipsandtricks-red.gif";
 }
 
 function trainingon()
 {
 if (!document.images) return
-document.training.src = "/nav0400/traininggreen.gif";
+document.training.src = "/nav0701/trainingsolutions-green.gif";
 }
 
 function trainingoff()
 {
 if (!document.images) return
-document.training.src = "/nav0400/trainingred.gif";
+document.training.src = "/nav0701/trainingsolutions-red.gif";
 }
 
-function linkson()
+function pickson()
 {
 if (!document.images) return
-document.links.src = "/nav0400/linksgreen.gif";
+document.picks.src = "/nav0701/ourpicks-green.gif";
 }
 
-function linksoff()
+function picksoff()
 {
 if (!document.images) return
-document.links.src = "/nav0400/linksred.gif";
+document.picks.src = "/nav0701/ourpicks-red.gif";
 }
 
 function webdesignon()
 {
 if (!document.images) return
-document.webdesign.src = "/nav0400/webdesigngreen.gif";
+document.webdesign.src = "/nav0701/webdesign-green.gif";
 }
 
 function webdesignoff()
 {
 if (!document.images) return
-document.webdesign.src = "/nav0400/webdesignred.gif";
+document.webdesign.src = "/nav0701/webdesign-red.gif";
 }
 
 function abouton()
 {
 if (!document.images) return
-document.about.src = "/nav0400/aboutgreen.gif";
+document.about.src = "/nav0701/unleashedinfo-green.gif";
 }
 
 function aboutoff()
 {
 if (!document.images) return
-document.about.src = "/nav0400/aboutred.gif";
-}
-
-function homeon()
-{
-if (!document.images) return
-document.home.src = "/nav0400/homegreen.gif";
-}
-
-function homeoff()
-{
-if (!document.images) return
-document.home.src = "/nav0400/homered.gif";
+document.about.src = "/nav0701/unleashedinfo-red.gif";
 }
 
 function newson()
 {
 if (!document.images) return
-document.news.src = "/nav0400/newsgreen.gif";
+document.news.src = "/nav0701/graphicsnews-green.gif";
 }
 
 function newsoff()
 {
 if (!document.images) return
-document.news.src = "/nav0400/newsred.gif";
+document.news.src = "/nav0701/graphicsnews-red.gif";
 }
-
-
 
 //-->
 </script>
@@ -117,6 +105,178 @@ aWindow=window.open("/store/videoformats.html","thewindow2","width=300,height=40
 // -->
 
 </script>
+
+<script type="text/javascript">
+/*----------------------------------------------------
+||Banner Ad Rotater v3.00                            ||
+||Script by:  Anarchos                               ||
+||URL: http://anarchos.xs.mw/                        ||
+||E-mail: anarchos3@hotmail.com                      ||
+||ICQ: 12007422                                      ||
+||                                                   ||
+||E-mail or ICQ me if you have any questions or need ||
+||help setting up your banner ad rotator. Check out  ||
+||my webpage every once in a while for updates to    ||
+||this script.                                       ||
+-----------------------------------------------------*/
+
+function Banner(objName,refreshTime, width, height, altText, start, random){
+	//Methods
+		this.output = b_output //output the initial banner code
+		this.Ad = b_Ad //add an ad to the ads array
+		this.newAd = b_newAd //display the next ad
+		this.randomAd = b_randomAd //make a random ad
+		this.nextAd = b_nextAd //queue the next ad
+		this.link = b_link //open the new url
+		this.showStatus = b_showStatus //show the statusbar message
+	//Properties
+		if (!objName) this.objName = "myAd"; else this.objName = objName
+		if (!refreshTime) this.refreshTime = 5000; else this.refreshTime = refreshTime*1000 //init refresh time
+		if (!width) this.width = 460; else this.width = width;
+		if (!height) this.height = 68; else this.height = height;
+		if (random == null) this.random = 1; else this.random = random //cycle randomly
+		this.altText = altText;
+		this.ads = new Array() //init ads array
+		if (start) this.currentAd = start-1; else start = null;
+		this.mySize = 0 //init size
+}
+
+function b_Ad(src, href, target, mouseover) {
+	var tempImage = new Image()
+	tempImage.src = src
+	this.ads[this.mySize] = new Object()
+	this.ads[this.mySize].src = src
+	if (!target) this.ads[this.mySize].target = "_self"; else this.ads[this.mySize].target = target;
+	this.ads[this.mySize].href = href
+	this.ads[this.mySize].mouseover = mouseover
+	this.mySize++;
+}
+
+function b_link(){
+	var ad = this.ads[this.currentAd];
+	if (ad.target == "_self"){
+		window.location.href = ad.href;
+		}
+	else if (ad.target == "_blank" || ad.target == "_new"){
+		window.open(ad.href,this.objName + "Win","location,status,scrollbars,resizable,toolbar,location,directories,menubar");
+	}
+	else top.frames[ad.target].location.href = ad.href;
+}
+
+function b_showStatus(){
+	var ad = this.ads[this.currentAd];
+	if (ad.mouseover)
+		window.status = ad.mouseover;
+	else window.status = ad.href;
+}
+
+function b_randomAd(){
+	var n
+	do { n = Math.floor(Math.random() * (this.mySize)) } 
+	while(n == this.currentAd)
+	this.currentAd = n
+}
+
+function b_output(){
+	tempCode = "";
+	if (this.mySize > 1){
+		if (this.currentAd == null) this.randomAd();
+		if (this.currentAd >= this.mySize) this.currentAd = this.mySize - 1;
+		tempCode = '<a href="javascript:'+this.objName+'.link()"';
+		tempCode += ' onMouseOver="' + this.objName + '.showStatus(); return true"';
+		tempCode += ' onMouseOut="status=\'\';return true">';
+		tempCode += '<img src="' + this.ads[this.currentAd].src + '" width="' + this.width;
+		tempCode += '" name="' + this.objName + 'Img" height="' + this.height + '" ';
+		if (this.altText) tempCode += 'alt="'+this.altText + '" ';
+		tempCode += 'border="0" ></a>';
+		document.write(tempCode);
+		this.nextAd();
+	} else document.write("Error: two banners must be defined for the script to work.");
+}
+
+function b_newAd(){
+    if (!this.random){	
+		this.currentAd++;
+		if (this.currentAd >= this.mySize)
+		   this.currentAd = 0;
+    }
+	else {
+	     this.randomAd();
+		}
+	this.nextAd();
+}
+
+function b_nextAd(){
+	document.images[this.objName+ 'Img'].src = this.ads[this.currentAd].src;
+	setTimeout(this.objName+'.newAd()',this.refreshTime)
+}
+
+<!-- End Banner Ad Rotator Code -->
+</script>
+
+
+<script language="JavaScript">
+function fwLoadMenus() {
+  if (window.fw_menu_0) return;
+  window.fw_menu_0 = new Menu("root",260,16,"Verdana, Arial, Helvetica, sans-serif",11,"#0000ff","#ffffff","#ffffff","#0000ff");
+  fw_menu_0.addMenuItem("List of All Tutorials","location='/tipstricks/'");
+  fw_menu_0.addMenuItem("Complete Idiot's Guide to Flash","location='/davidk/flash/'");
+  fw_menu_0.addMenuItem("Logos for the Design Challenged Series","location='/gary/logo/'");
+  fw_menu_0.addMenuItem("Son of Makeover Maven Series","location='/gary/maven/'");
+  fw_menu_0.addMenuItem("Rick Altman's Drawing Conclusions","location='/rick/'");
+  fw_menu_0.addMenuItem("Graphics Product Reviews","location='/oneuser/'");
+  fw_menu_0.addMenuItem("Weaving Webs with David Karlins","location='/davidk/'");
+  fw_menu_0.addMenuItem("Anzai! Step-by-Step Tutorials","location='/tom/'");
+   fw_menu_0.hideOnMouseOut=true;
+  window.fw_menu_1 = new Menu("root",230,16,"Verdana, Arial, Helvetica, sans-serif",11,"#0000ff","#ffffff","#ffffff","#0000ff");
+  fw_menu_1.addMenuItem("List of All Training Solutions","location='/training/'");
+  fw_menu_1.addMenuItem("CorelDRAW Click 'N Learn CD-ROMs","location='/cnl/'");
+  fw_menu_1.addMenuItem("CorelDRAW & Corel Photo-Paint 10","location='/video/draw10.html'");
+  fw_menu_1.addMenuItem("Macromedia Flash 5","location='/video/flash5.html'");
+  fw_menu_1.addMenuItem("Adobe Photoshop 6","location='/video/photoshop6.html'");
+  fw_menu_1.addMenuItem("Macromedia Dreamweaver / Fireworks 4","location='/video/dreamweaver4.html'");
+  fw_menu_1.addMenuItem("Smart Designs Utilities and Clip Art","location='/sd/'");
+  fw_menu_1.addMenuItem("On Site Training","location='/training/corporate.html'");
+   fw_menu_1.hideOnMouseOut=true;
+  window.fw_menu_2 = new Menu("root",300,16,"Verdana, Arial, Helvetica, sans-serif",11,"#0000ff","#ffffff","#ffffff","#0000ff");
+  fw_menu_2.addMenuItem("Computer Hardware for the Dream PC","location='/picks/dreampc.html'");
+  fw_menu_2.addMenuItem("Photoshop/Photo-Paint Plug-Ins","location='/picks/plugin.html'");
+  fw_menu_2.addMenuItem("Digital Camera Buyer's Guide","location='/picks/digitalcamera.html'");
+  fw_menu_2.addMenuItem("Image Editing Software Buyer's Guide","location='/picks/imageediting.html'");
+  fw_menu_2.addMenuItem("Gamer's Guide","location='/picks/gaming.html'");
+  fw_menu_2.addMenuItem("Top DVDs of 2001","location='/picks/dvd.html'");
+  fw_menu_2.addMenuItem("CorelDRAW Utilities & Patches","location='/picks/drawutils.html'");
+  fw_menu_2.addMenuItem("Internet Utilities","location='/picks/netutils.html'");
+   fw_menu_2.hideOnMouseOut=true;
+  window.fw_menu_3 = new Menu("root",200,16,"Verdana, Arial, Helvetica, sans-serif",11,"#0000ff","#ffffff","#ffffff","#0000ff");
+  fw_menu_3.addMenuItem("Graphics Unleashed Newsletter","location='/news/'");
+  fw_menu_3.addMenuItem("Adobe News","location='/press/index.html#adobe'");
+  fw_menu_3.addMenuItem("Corel News","location='/press/index.html#corel'");
+  fw_menu_3.addMenuItem("Macromedia News","location='/press/index.html#macromedia'");
+  fw_menu_3.addMenuItem("Xara News","location='/press/index.html#xara'");
+  fw_menu_3.addMenuItem("Adobe Releases Photoshop Elements","location='/press/adobephotoshopelementsavailable.html'");
+  fw_menu_3.addMenuItem("Xara Releases Webstyle 2","location='/press/xarawebstyle2.html'");
+  fw_menu_3.addMenuItem("Corel Releases Bryce 5","location='/press/corelbryce5.html'");
+  fw_menu_3.hideOnMouseOut=true;
+  window.fw_menu_4 = new Menu("root",170,16,"Verdana, Arial, Helvetica, sans-serif",11,"#0000ff","#ffffff","#ffffff","#0000ff");
+  fw_menu_4.addMenuItem("Web Design Services","location='/webdesign'");
+  fw_menu_4.addMenuItem("Buttons Unleashed","location='/buttons'");
+  fw_menu_4.addMenuItem("Create FREE 3D Headings","location='/webdesign/xara3dheadingmaker.html'");
+   fw_menu_4.hideOnMouseOut=true;
+  window.fw_menu_5 = new Menu("root",122,16,"Verdana, Arial, Helvetica, sans-serif",11,"#0000ff","#ffffff","#ffffff","#0000ff");
+  fw_menu_5.addMenuItem("About Unleashed","location='/aboutupi/'");
+  fw_menu_5.addMenuItem("Advertise","location='/advertising.html'");
+  fw_menu_5.addMenuItem("Privacy Policy","location='/privacy.html'");
+  fw_menu_5.addMenuItem("Contacting Us","location='/aboutupi/'");
+   fw_menu_5.hideOnMouseOut=true;
+
+  fw_menu_5.writeMenus();
+} // fwLoadMenus()
+
+//-->
+</script>
+
+<script language="JavaScript1.2" src="/nav0701/fw_menu.js"></script>
 
 
 
@@ -184,7 +344,7 @@ responsible for the privacy practices or the content of such Web sites.
 </p>
 
 <p>
-We are part of affiliate programs for Amazon.com, Cyberian Outpost, Cutting Edge, Dell and i/us.
+We are part of affiliate programs for Amazon.com, Cutting Edge, and Dell.
 Information that you provide to companies will not be shared with Unleashed
 Productions.
 </p>
@@ -199,8 +359,7 @@ also used to get in touch with the visitor when necessary. Users may opt-out
 of receiving future mailings; see the choice/opt-out section below. Financial
 information that is collected is used to bill the user for products and services.
 Orders placed for Smart Designs products are forwarded to Smart Designs for
-payment and fulfillment. Unleashed Productions does not store a record of your
-order information.
+payment and fulfillment.
 </p>
 
 <p>
@@ -227,7 +386,7 @@ to disclose your personal information.
 
 <p>
 This site has security measures in place to protect the loss, misuse and
-alteration of the information under our control. All of our orders forms
+alteration of the information under our control. All of our order forms
 and the data they collect are encrypted with SSL security. This provides
 additional protection to the information you provide.
 </p>
@@ -261,15 +420,6 @@ previously provided.
 <li>call the following telephone number: 480/595-0065</li>
 </ol>
 
-<h2>Advertising</h2>
-
-<p>
-Graphics Unleashed works with a third party that serves ads to this site. To
-find out more about how About.com manages the privacy of information in
-conjunction with serving ads on this site, please go to
-<a href="http://www.about.com/gi/pages/privacy.htm?PM=59_1106_T">http://www.about.com/gi/pages/privacy.htm?PM=59_1106_T</a>.
-</p>
-
 <h2>Contacting the Web Site</h2>
 
 <p>
@@ -289,97 +439,76 @@ webmaster@unleash.com<br>
 
 <sub>
 <br>
-Last Updated February 22, 2000.
+Last Updated Friday August 10 2001.
 </sub>
 
 <br>
 
-<!-- Atomz.com Search HTML for Graphics Unleashed -->
+<table align="center">
+<tbody><tr>
+<td>
+<table width="200" bgcolor="#66CCFF">
+<tbody><tr>
+<td>
+
+<img src="/gifs/searchgraphicsunleashed.gif" width="200" height="50" border="0" alt="">
+<br clear="all">
+<form action="/index/query.idq" method="get">
+<input type="text" name="CiRestriction" size="15" maxlength="100" value=" ">
+<input type="image" name="Go" src="/gifs/searchbutton.gif" align="bottom" width="80" height="20" border="0">
+</form>
+</td>
+</tr>
+</tbody></table>
+
+</td>
+
+<td>
+<p class="med" align="center">
+[<a href="http://www.unleash.com/tipstricks">Tips &amp; Tricks</a>]
+[<a href="http://www.unleash.com/training">Training Solutions</a>]<br>
+[<a href="http://www.unleash.com/picks">Hot Links</a>]
+[<a href="http://www.unleash.com/webdesign">Web Design Services</a>]<br>
+[<a href="http://www.unleash.com/aboutupi">About Unleashed</a>]
+[<a href="http://www.unleash.com">Graphics Unleashed Home</a>]<br>
+[<a href="http://www.unleash.com/news">Graphics Unleashed News</a>]<br>
+Copyright © 1995-2001 Unleashed Productions, Inc., All Rights Reserved, copying
+of any materials or content on this site is strictly prohibited.
+</p>
+</td>
+</tr>
+</tbody></table>
 
 <div align="center">
-<h4>Search Graphics Unleashed</h4>
-<form method="get" action="http://search.atomz.com/search/">
-<input size="15" name="sp-q">
-<input type="submit" value="Search">
-<input type="hidden" name="sp-a" value="0003028c-sp00000000">
-</form>
+
+<a href="http://www.hemera.com/downloads/downloadstrial.htm"><img src="http://www.unleash.com/gifs/hemeraad.gif" width="468" height="60" border="0" alt="Hemera Photo-Objects Royalty Free Images"></a>
+
+<br clear="all">
+
+<a href="http://www.amazon.com/exec/obidos/redirect?tag=graphicsunleashe&amp;path=tg/stores/recs/gift-wizard-refine/-/holiday"><img src="/amazon/holiday125-2.gif" width="125" height="125" border="0" alt=""></a>
+
+<a href="http://www.altman.com/corelworld.htm"><img src="/altman.gif" width="200" height="100" border="0"></a>
+
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" id="HotProducts" width="120" height="120">
+<param name="movie" value="/HotProducts.swf">
+<param name="align" value="default">
+<param name="quality" value="best">
+<param name="bgcolor" value="#FFFFFF">
+<embed src="/HotProducts.swf" quality="best" align="default" bgcolor="#FFFFFF" width="120" height="120" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">
+
+</object>
+
+<a href="http://www.amazon.com/exec/obidos/redirect?tag=graphicsunleashe&amp;path=tg/stores/recs/gift-wizard-refine/-/holiday"><img src="/amazon/holiday120-3.gif" width="120" height="90" border="0" alt=""></a>
+
+<br clear="all">
+
+<script src="http://rcm.amazon.com/e/cm?t=ubiquity147-20&amp;l=st1&amp;p=24&amp;mode=Software&amp;search=macromedia&amp;o=1" type="text/JavaScript"></script>
 </div>
-<p>
-</p><center>
-<sub>
-<br>
-[<a href="http://www.unleash.com/tipstricks">Tips &amp; Tricks</a>]
-[<a href="http://www.unleash.com/training">Training Solutions</a>]
-[<a href="http://www.unleash.com/picks">Hot Links</a>]
-[<a href="http://www.unleash.com/webdesign">Web Design</a>]<br>
-[<a href="http://www.unleash.com/aboutupi">About Unleashed</a>]
-[<a href="http://www.unleash.com">Graphics Unleashed Home</a>]
-[<a href="http://www.unleash.com/news">Graphics Unleashed News</a>]<br>
-Copyright © 1995-2000 Unleashed Productions, Inc., All Rights Reserved.
-</sub>
-<br>
-<a href="http://www.radiofreecash.com/home.asp?ref=unleashpro"><img src="/radiofreecashbanner.gif" border="0" width="468" height="60"></a>
-</center>
-<p></p>
 
 
-<a href="http://www.altman.com/seminars"><img src="/rick/seminars.gif" width="200" height="100" border="0" align="left"></a>
-
-<a href="http://tracker.clicktrade.com/tracker/tracker.dll?to='http://www.cedesign.com/cefx/cefx.html'&amp;ad=313915.0&amp;lp=321769"><img src="/picks/cefxbanner6.gif" width="125" height="125" border="0" align="left" alt="Cutting Edge F/X"></a>
-
-<a href="http://www.alladvantage.com/go.asp?refid=OIN-112"><img src="/allad120x100_web.gif" width="120" height="100" border="0" align="left" alt="Get Paid to Surf the Web"></a>
-
-<a href="https://ads.Cybergold.com/do/goldbar?gbrefid=612fd9e2f71eea0c"><img src="/picks/goldbar120x100.gif" width="120" height="100" border="0" align="left" alt=""></a>
-
-<br clear="all">
-
-<!--
-
-<p align=center>
-<a href="http://www.unleash.com/cnl">
-<img src="/cnl234x60.gif" width=234 height=60 alt="CorelDRAW Multimedia Training CD-ROM">
-</a>
-
-<a href="http://www.unleash.com/training/bootcamp.html">
-<img src="/bc234x60.gif" width=234 height=60 alt="CorelDRAW and Corel PHOTO-PAINT Boot Camp Info">
-</a>
-</p>
-
-<p align=center>
-<a href="http://www.unleash.com/cnl"><img src="/cnlbanner468x60.gif" width=468 height=60 border=0 alt"CorelDRAW Effects Multimedia Training CD-ROMs"></a>
-</p>
-
-<p align=center>
-<a href="http://click.linksynergy.com/fs-bin/stat?id=7z4zMH4HsMM&offerid=6548&subid=0">
-<IMG alt="Dell" border=0 src="http://ad.linksynergy.com/fs-bin/show?id=7z4zMH4HsMM&bids=6548&gridnum=-1&catid=-1&subid=0"></a>
-</p>
-
--->
-
-<br clear="all">
 
 
-<script language="javascript">
-<!--
 
-var imgslist = new Array(
-"/nav0400/aboutgreen.gif",
-"/nav0400/homegreen.gif",
-"/nav0400/linksgreen.gif",
-"/nav0400/newsgreen.gif",
-"/nav0400/tipstricksgreen.gif",
-"/nav0400/traininggreen.gif",
-"/nav0400/webdesigngreen.gif"
-);
-
-var imgs=new Array();
-if (document.images)
- for (x=0; x<imgslist.length; x++)
-  {imgs[x]=new Image(); imgs[x].src = imgslist[x];}
-
-//-->
-
-</script>
 
 
 
