@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mos.org privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209133122id_/http%3A//mos.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mos.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603060018id_/http%3A//www.mos.org/privacy) for the most accurate reproduction.*
 
 # MoS | Privacy Policy
 
