@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyextra.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206092541id_/http%3A//www4.moneyextra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyextra.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610122303id_/http%3A//www1.moneyextra.com/privacy.html) for the most accurate reproduction.*
 
 # MX Moneyextra: Privacy of your information
 
