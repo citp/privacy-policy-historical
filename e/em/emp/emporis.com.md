@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the emporis.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603012827id_/http%3A//www.emporis.com/en/ab/he/cn/ps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emporis.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204162417id_/http%3A//www.emporis.com/en/ab/he/cn/ps) for the most accurate reproduction.*
 
 # Privacy statement for using Emporis.com
 
-[](http://www.emporis.com/trc/?l=3) |  | Please visit  
-our sponsors:  
+[](https://web.archive.org/trc/?l=3)  
+|  | [](https://web.archive.org/en/ab/se/av/md/fo/sp/)  
 | [](http://www.kone.com/)  
-| [](http://www.wacker.com/)  
-| [](https://web.archive.org/en/ab/se/av/md/fo/sp/)  
+| [](http://www.schueco.com/)  
+| [](http://www.sika.com/)  
 | [](http://www.db.com/)  
   
 ---|---|---|---|---  
