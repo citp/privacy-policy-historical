@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603051636id_/http%3A//www.cdrinfo.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdrinfo.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214161144id_/http%3A//cdrinfo.com/privacy.shtml) for the most accurate reproduction.*
 
 # CDR-Info, The Recording Authority
 
