@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211233146id_/http%3A//www.ishafoundation.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609160013id_/http%3A//www.ishafoundation.org/privacy.asp) for the most accurate reproduction.*
 
 # Isha's Privacy Policy Statement
 
 > This is the web site of **Isha Foundation**. 
 > 
 > Our postal address is   
->  **2878 Spinnaker Loop  
->  Reynoldsburg, OH 43068 USA**
+>  **10 Belcaro Circle  
+>  Nashville, TN 37215 USA**
 > 
 > We can be reached via e-mail at [info@ishafoundation.org](mailto:info@ishafoundation.org)  
->  or you can reach us by telephone at 614-575-1748 or from the numbers provided on our [contact page](https://web.archive.org/web/20011211233146id_/http%3A//www.ishafoundation.org/contact.asp)
+>  or you can reach us by telephone at (615)-665-3812 or from the numbers provided on our [contact page](https://web.archive.org/web/20020609160013id_/http%3A//www.ishafoundation.org/contact.asp)
 > 
 > For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 > 
@@ -49,6 +49,8 @@
 > If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <http://www.ftc.gov/ftc/complaint.htm>.
 
 |    
+  
+[](http://www.amazon.com/exec/obidos/ASIN/8187910003)   
 
 
 |   
@@ -60,7 +62,20 @@ The Web
   All words  
 Any Word   
   
+**How committed are you to your practices?**  
+---  
+  
+Very much  
+Somewhat committed  
+Not much  
+What practices?  
+I cant live without it
+
+Current results  
+Earlier poll results
+
+44 votes polled in this poll  
   
   
-[](https://web.archive.org/web/20011211233146id_/http%3A//www.ishafoundation.org/forums/default.asp)   
+[](https://web.archive.org/web/20020609160013id_/http%3A//www.ishafoundation.org/forums/default.asp)   
 
