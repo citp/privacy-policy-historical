@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602112443id_/http%3A//www.wmal.com/abcprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803133241id_/http%3A//wmal.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # WMAL
 
-| [](http://adcreatives.radcity.net/event.ng/Type=click&ProfileID=233&RunID=2234&AdID=78&GroupID=1&FamilyID=6&TagValues=240&Redirect=http://media.fastclick.net/w/click.here?sid=1504&m=1&pageid=1)  
+| [](https://web.archive.org/event.ng/Type=click&ProfileID=233&RunID=2234&AdID=2475&TagValues=240&FamilyID=6&GroupID=1&Redirect=http:%2F%2Fwww.epa.gov)  
   
 |   
-June 2, 2001  
+August 3, 2001  
 ---|---  
   
 |  |   
@@ -146,7 +146,8 @@ By using this site, you signify your assent to the ABC Privacy Policy. If you do
 [Adopt-A-Pet](https://web.archive.org/adoptapet.asp) I [Money](https://web.archive.org/goout.asp?u=http://www.abcnews.go.com/sections/business) I [WMAL Sports](https://web.archive.org/wmalsports.asp) I [Downloads](https://web.archive.org/downloads.asp) I [Destination Disney](https://web.archive.org/destinationdisney.asp) I [Join The Club](https://web.archive.org/jointheclub.asp)  
 [Free E-Mail](http://www.wmalfreemail.com/) I [Contact Us](https://web.archive.org/contactus.asp) I [WMAL Advertisers](https://web.archive.org/wmaladvertisers.asp) I [Buy This](https://web.archive.org/marketplace/default.asp) I [Listen Live](https://web.archive.org/listenlive.asp)   
 [Health Center 630](http://209.217.36.33/hcenter/hcenter.php3?call_letters=WMAL) I [FAQ's](https://web.archive.org/faqs.asp) I [Advertise on WMAL](https://web.archive.org/advertiseonwmal.asp) I  [About This Website](https://web.archive.org/aboutthiswebsite.asp) I  [Home](https://web.archive.org/default.asp)   
-Copyright © 2001 WMAL-ABC Radio and [Innuity](javascript:displayNotice\(\);)  
-[Powered by Innuity](http://www.innuitymedia.com/) [ABC Privacy Policy](https://web.archive.org/abcprivacypolicy.asp)  
+Copyright © 2001 WMAL-ABC Radio and [First MediaWorks](javascript:displayNotice\(\);)  
+[Powered by First MediaWorks](http://www.firstmediaworks.com/)   
+[Terms of Use](https://web.archive.org/termsofuse.asp)   [Privacy Policy](https://web.archive.org/privacypolicy.asp)  
   
 | 
