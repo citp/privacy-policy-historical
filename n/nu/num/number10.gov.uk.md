@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220090105id_/http%3A//www.number10.gov.uk/output/Page52.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603113345id_/http%3A//www.number10.gov.uk/output/Page52.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,18 +14,20 @@ If you register to receive updates your information will be held on a secure ser
 
 This privacy statement only covers the No10 website at:
 
-\- [http://www.pm.gov.uk](http://www.pm.gov.uk/)  
-\- [http://www.pmo.gov.uk](http://www.pmo.gov.uk/)  
-\- [http://www.number10.gov.uk](http://www.number10.gov.uk/)  
-\- [http://www.number-10.gov.uk](http://www.number-10.gov.uk/)[  
-](http://www.10downingstreet.gov.uk/)\- [http://www.tendowningstreet.gov.uk](http://www.tendowningstreet.gov.uk/)  
-\- [http://www.numberten.gov.uk](http://www.numberten.gov.uk/)  
-\- [http://www.news.gov.uk](http://www.news.gov.uk/)  
-\- [http://www.primeminister.gov.uk](http://www.primeminister.gov.uk/)  
-\- [http://www.annualreport.gov.uk](http://www.annualreport.gov.uk/)  
-\- [http://www.annual-report.gov.uk](http://www.annual-report.gov.uk/)  
-\- [http://www.inyourarea.gov.uk](http://www.inyourarea.gov.uk/)  
-\- [http://www.ukgov.info](http://www.ukgov.info/)
+  * [http://www.pm.gov.uk](http://www.pm.gov.uk/)
+  * [http://www.pmo.gov.uk](http://www.pmo.gov.uk/)
+  * [http://www.number10.gov.uk](http://www.number10.gov.uk/)
+  * [http://www.number-10.gov.uk](http://www.number-10.gov.uk/)
+  * [http://www.tendowningstreet.gov.uk](http://www.tendowningstreet.gov.uk/)
+  * [http://www.numberten.gov.uk](http://www.numberten.gov.uk/)
+  * [http://www.news.gov.uk](http://www.news.gov.uk/)
+  * [http://www.primeminister.gov.uk](http://www.primeminister.gov.uk/)
+  * [http://www.annualreport.gov.uk](http://www.annualreport.gov.uk/)
+  * [http://www.annual-report.gov.uk](http://www.annual-report.gov.uk/)
+  * [http://www.inyourarea.gov.uk](http://www.inyourarea.gov.uk/)
+  * [http://www.ukgov.info](http://www.ukgov.info/)
+
+
 
 Other links within this site to other websites are not covered by this privacy statement. 
 
