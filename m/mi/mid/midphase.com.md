@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205010613id_/http%3A//midphase.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midphase.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619061625id_/http%3A//midphase.com/privacy.shtml) for the most accurate reproduction.*
 
 # midPhase Services, Inc. - Cheap Web Hosting & Quality Customer Service. Home of Mega-PHASE!
 
@@ -6,11 +6,12 @@
 
 This is the web site of midPhase Services, Inc. (midphase.com)
 
-Our postal for legal and privacy issues is satellite office:  
-PO Box 53 Bowling Green, KY, 42102-0053  
-Our postal address for our home office is:  
-1954 N. Jamestown Dr., Palatine, IL 60074 USA  
-We can be reached via e-mail at privacy@midphase.com 
+Our postal for legal and privacy issues is satellite office:
+
+midPhase Services, Inc.  
+Privacy Policy Statement  
+117 E. Palatine Rd. Suite 104  
+Palatine, IL 60067 USA
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
