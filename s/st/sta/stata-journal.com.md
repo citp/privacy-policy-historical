@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stata-journal.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805152335id_/http%3A//www.stata-journal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stata-journal.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404015218id_/http%3A//www.stata-journal.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,4 +24,4 @@ This privacy notice is provided by [StataCorp LP](http://www.stata.com/). Orders
 
 Contact [service@stata-journal.com](mailto:service@stata-journal.com) if you have questions about the Stata Journal. 
 
-© Copyright 2004 StataCorp LP.   [Terms of Use.](https://web.archive.org/terms.html)   [Privacy Notice.](https://web.archive.org/privacy.html)
+© Copyright 2005 StataCorp LP.   [Terms of Use.](https://web.archive.org/terms.html)   [Privacy Notice.](https://web.archive.org/privacy.html)
