@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603161600id_/http%3A//www.nib.com.au/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204030704id_/http%3A//www.nib.com.au/about/privacy.asp) for the most accurate reproduction.*
 
 # NIB Health Funds - Private Health Cover - NIB Privacy Policy
 
@@ -16,7 +16,7 @@ Collecting Your Information
 > 
 > Your Information NIB collects may include your name, email address, business and company name (if applicable), and any other information NIB requires to contact you regarding matters which may be of interest to you. NIB will take reasonable steps to protect Your Information from unauthorised access or use by third parties.
 > 
-> When you visit this website, NIB's Internet Service Provider ( _ **ISP**_ ) may record information about your visit for statistical purposes. The information collected by the ISP may include:
+> When you visit this website, NIB may record information about your visit for statistical purposes. The information collected on a daily basis may include:
 > 
 >   * your server address; 
 >   * your domain name; 
@@ -28,8 +28,7 @@ Collecting Your Information
 > 
 
 > 
-> The ISP provides statistical information to NIB on a daily basis.  
-> 
+> [](http://www.nib.com.au/about/privacy.asp#top)
 
 How NIB uses Your Information
 
@@ -37,15 +36,17 @@ How NIB uses Your Information
 > 
 >   * for the purposes set out in [NIB's Privacy Policy](http://www.nib.com.au/about/privacy.asp#2); 
 >   * to communicate with you regarding your use of this website; and 
->   * to understand how NIB might improve services, the navigation and content of this website
+>   * to understand how NIB might improve services, the navigation and content of this website.
 > 
 
 > 
-> If you do not wish to be kept informed of NIB's marketing or promotional activities electronically, please contact NIB’s Privacy Officer at [PrivacyOfficer@nib.com.au](mailto:PrivacyOfficer@nib.com.au), and they will remove your details from all future marketing correspondence
+> If you do not wish to be kept informed of NIB's marketing or promotional activities electronically, please contact NIB’s Privacy Officer at [PrivacyOfficer@nib.com.au](mailto:PrivacyOfficer@nib.com.au), and they will remove your details from all future marketing correspondence.
 
 Disclosure to others
 
-> Unless it required otherwise by law, NIB’s disclosure of Your Information will be limited to the types third parties referred to in the section titled “ _ **Will your personal information be given to anyone else?**_ ” in [NIB’s Privacy Policy](http://www.nib.com.au/about/privacy.asp#2), and then such information will only be disclosed on a need to know basis
+> Unless it required otherwise by law, NIB’s disclosure of Your Information will be limited to the types third parties referred to in the section titled “ _ **Will your personal information be given to anyone else?**_ ” in [NIB’s Privacy Policy](http://www.nib.com.au/about/privacy.asp#2), and then such information will only be disclosed on a need to know basis.
+> 
+> [](http://www.nib.com.au/about/privacy.asp#top)
 
 Access and Correction
 
@@ -56,6 +57,8 @@ Access and Correction
 Internet security
 
 > You acknowledge that the Internet is not a secure environment. If you send NIB any information when you use this website, such information is sent at your own risk.
+> 
+> [](http://www.nib.com.au/about/privacy.asp#top)
 
 External Website Links
 
@@ -66,16 +69,18 @@ Cookies
 > "Cookies" are a technology which can be used to provide you with tailored information from a website. A cookie is an element of data which a website can send to your Internet browser, for storage on your system. Most Internet browsers can be set to notify you when you receive a cookie, giving you the chance to decide whether to accept it or not.
 > 
 > This website uses cookies so that NIB can better serve you when you return to this website again.
+> 
+> [](http://www.nib.com.au/about/privacy.asp#top)
 
 Reviewing this policy
 
-> NIB reserves the right to review and amend this Policy without notice. This Policy was last updated in August 2003.
+> NIB reserves the right to review and amend this Policy without notice. This Policy was last updated in June 2004.
 
 Want more information?
 
 > For further information regarding this Policy or any other steps NIB has taken to protect Your Information or privacy, please contact NIB’s Privacy Officer on 13 14 63 or at [PrivacyOfficer@nib.com.au](mailto:PrivacyOfficer@nib.com.au).
 > 
-> © 2003 NIB Health Funds Limited. All rights reserved
+> [](http://www.nib.com.au/about/privacy.asp#top)
 
 NIB Privacy Policy  
 
@@ -87,21 +92,23 @@ About this document
 Why does NIB collect my personal information? 
 
 > We collect your personal information primarily to enable us to provide health benefits and related services to you. NIB may also use this information to promote or market its current and future health and related services to you.
+> 
+> [](http://www.nib.com.au/about/privacy.asp#top)
 
 What personal information does NIB keep? 
 
 > The personal information NIB holds will depend on whether you are a member and which services you have used. Information may include:
 > 
->   * Name, address, contact details, date of birth
->   * Payment details
->   * Current or past details of private health insurance including level of cover
->   * Claim details
->   * 30% rebate registration details
->   * Medicare number
->   * Financial Institution account details
->   * Pension / Health Care card numbers
->   * Employment details
->   * Pre-existing condition information
+>   * Name, address, contact details, date of birth;
+>   * Payment details;
+>   * Current or past details of private health insurance including level of cover;
+>   * Claim details;
+>   * 30% rebate registration details;
+>   * Medicare number;
+>   * Financial Institution account details;
+>   * Pension / Health Care card numbers;
+>   * Employment details; and
+>   * Pre-existing condition information.
 > 
 
 
@@ -109,13 +116,15 @@ How does NIB collect my personal information?
 
 > NIB may collect personal information directly from you when:
 > 
->   * you complete an application form to become an NIB member 
->   * you request information concerning NIB’s services in person, by phone or online
->   * you lodge a claim
+>   * you complete an application form to become an NIB member; 
+>   * you request information concerning NIB’s services in person, by phone or online; and
+>   * you lodge a claim.
 > 
 
 > 
 > In addition to collecting personal information directly from you, NIB may collect personal information from other NIB companies or health service providers such as health insurers, government agencies, private and public hospitals, and doctors and medical specialists.
+> 
+> [](http://www.nib.com.au/about/privacy.asp#top)
 
 How does NIB use my information?
 
@@ -141,9 +150,12 @@ Will your personal information be given to anyone else?
 > 
 >   * You authorise NIB to do so;
 >   * Your safety or the safety of others in the community is at risk; or
->   * NIB is required or permitted by law.
+>   * NIB is required or permitted by law.  
+> 
 > 
 
+> 
+> [](http://www.nib.com.au/about/privacy.asp#top)
 
 How do I obtain access to my personal information?
 
@@ -152,6 +164,8 @@ How do I obtain access to my personal information?
 Is my personal information accurate? Can it be corrected? 
 
 > The accuracy of your personal information is important to us. NIB will take reasonable steps to ensure your personal information is accurate, complete and up-to-date. If you believe that any personal information NIB holds about you is not accurate, complete or up-to-date, please contact NIB’s Privacy Officer on 13 14 63 or **[privacyofficer@nib.com.au](mailto:privacyofficer@nib.com.au)**.
+> 
+> [](http://www.nib.com.au/about/privacy.asp#top)
 
 Is my personal information secure?
 
@@ -161,6 +175,8 @@ Need more information?
 
 > For further information regarding this Privacy Policy or any other steps NIB has taken to protect your personal information or privacy, please contact NIB’s Privacy Officer on 13 14 63 or [**privacyofficer@nib.com.au**](mailto:privacyofficer@nib.com.au).
 > 
-> _Changes to this Privacy Policy: NIB reserves the right to change this Privacy Policy from time to time. This Privacy Policy was last updated November 2003._
+> _Changes to this Privacy Policy: NIB reserves the right to change this Privacy Policy from time to time. This Privacy Policy was last updated June 2004._
 > 
-> © 2003 NIB Health Funds Limited. All rights reserved.
+> © 2004 NIB Health Funds Limited. All rights reserved.
+
+[](http://www.nib.com.au/about/privacy.asp#top)
