@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the ntchosting.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206102200id_/http%3A//www.ntchosting.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntchosting.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608204925id_/http%3A//www.ntchosting.com/privacy.html) for the most accurate reproduction.*
 
-# NTCHosting.com
+# NTCHosting Privacy Policy
 
-**PRIVACY OF YOUR ACCOUNT**. We consider your registration data and the content of all of your messages to be private. Messages that you send will be received with your name and Internet Protocol (IP) address contained within the header of your message. We will not intentionally monitor or disclose any of your e-mail messages or registration data unless we believe in good faith that we are required to do so  
+**PRIVACY OF YOUR ACCOUNT.** We consider your registration data and the content of all of your messages to be private. The header of the messages that you send will contain your name (e-mail address) and Internet Protocol (IP) address. We will not intentionally monitor or disclose any of your e-mail messages or registration data unless we are required to do so:  
 \- to enforce these Terms and Conditions,   
 \- by law,  
-\- to defend us in any action,   
+\- to defend us in any legal action,  
 \- to protect our property.  
-Additionally, you agree to respect the privacy and confidentiality of others. Since privacy is a function of your password, we encourage you to change your password frequently and to not share it with anyone.
+Additionally, you agree to respect the privacy and confidentiality of others. Since your password is essential for protecting your privacy, we encourage you not to share it with anyone and change it frequently. 
 
-**PRIVACY OF YOUR REGISTRATION DATA.** NTCHosting collects information during the registration process. The personally identifiable information NTCHosting collects includes first and last name. In addition, NTCHosting also collects non-personally identifiable information such as: country, age, gender, etc. You may update your Registration Information at any time from the members area.  
-You understand that we may disclose statistics about our aggregate registration information in connection with our marketing activities.
+**PRIVACY OF YOUR REGISTRATION DATA.** NTCHosting collects information during the registration process. The personally identifiable information that NTCHosting collects includes first and last name. NTCHosting also collects non-personally identifiable information such as country, age, gender, etc. You may update your Registration Information at any time from the members' area.  
+We may disclose aggregate registration statistics in connection with our marketing activities.
 
-**WHY DO WE NEED THIS INFORMATION**. Your registration information is used to operate the site, for demographic statistics, for supporting your account, etc. NTCHosting will not send you any unsolicited information, including e-mail, except as mentioned below. New Customers will receive a NTCHosting welcome letter explaining the features provided by the service. NTCHosting may also send periodic member letters to announce important service changes, new features, technical issue updates and news about the Service.   
-NTCHosting keeps your personally identifiable information private and does not share it with any third parties.
-
-These Terms and Conditions will be governed by and construed in accordance with the international and native laws without giving effect to principles of conflict of laws. If any provision of this Agreement is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced. Our failure to act with respect to your breach does not waive our right to act with respect to subsequent or similar breaches. These Terms and Conditions set forth the entire understanding and agreement between you and us.
+**WHY DO WE NEED THIS INFORMATION?** Your registration information is needed to operate the site, to provide support for your account, for statistical purposes, etc. NTCHosting will not send you any unsolicited information, including e-mail, except as mentioned below. New Customers will receive a NTCHosting welcome letter explaining the features provided by the service. NTCHosting may also send periodic member letters to announce important service changes, new features, technical issue updates and news about the Service.   
+NTCHosting keeps your personally identifiable information private and does not share it with any unauthorized third parties.
