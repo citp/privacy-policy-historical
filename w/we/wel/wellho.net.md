@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellho.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204135051id_/http%3A//www.wellho.net/resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellho.net privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204041950id_/http%3A//www.wellho.net/resources/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy and Copyright - Well House Consultants
 
@@ -17,10 +17,10 @@ We are registered with the Data Protection Commissioner under the Data Protectio
 **Legal Notices**  
 This site is not intended for persons located or resident in juristictions which restrict the distribution of information. People accessing these pages are required to inform themselves about and observe any relevant restrictions.
 
-Whilst every attempt has been made to ensure the accuracy of this site, Well House Consultants provide this information with no specific warranty, and cannot be held liable for any errors contained herein, nor the consequences thereof. 
+Whilst every attempt has been made to ensure the accuracy of this site, Well House Consultants provide this information with no specific warranty, and cannot be held liable for any errors contained herein, nor the consequences thereof. Views in the personal diary areas, book reviews and in the forums expressed by staff members may be their personal views rather than the views of the company [(further details)](https://web.archive.org/net/postpolicy.html) and views expressed by posters who are not employees in these areas are independent of Well House Consultants and may even offer views which are the opposite of our views. 
 
 **Copyright**  
-Material on this web site is Copyright 2004, Well House Consultants Ltd. You may view and print the material for your own personal use, or for your use in your employment. You may not save any information from this page in electronic form (save for storage in caches, proxies, and backups thereof), nor copy nor modify the information in any way without our prior written consent.
+Material on this web site is Copyright 2005, Well House Consultants Ltd. You may view and print the material for your own personal use, or for your use in your employment. You may not save any information from this page in electronic form (save for storage in caches, proxies, and backups thereof), nor copy nor modify the information in any way without our prior written consent.
 
 See also:  
 ["Registation email addresses"](https://web.archive.org/forum/Assistance/Registation-email-addresses.html) on [the "Opentalk" forum](http://www.wellho.net/cgi-bin/opentalk/YaBB.pl)
