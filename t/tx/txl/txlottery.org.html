@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the txlottery.org privacy policy that was archived on 2001-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011204194854id_/http%3A//www.txlottery.org/privacypolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the txlottery.org privacy policy that was archived on 2002-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020607182734id_/http%3A//www.txlottery.org/privacypolicy.cfm) for the most accurate reproduction.-->
 
 <html><head>
 <title>Lottery Commission Information</title>
@@ -40,9 +40,9 @@ if (browserVer == 1) {
 		S1drk = new Image (95,27);
 		S1drk.src = "/images/recentstories.gif";
 
-		S2lit = new Image (95,35);
+		S2lit = new Image (95,27);
 		S2lit.src = "/images/ask_on.gif";
-		S2drk = new Image (95,35);
+		S2drk = new Image (95,27);
 		S2drk.src = "/images/ask_off.gif";
 		
 		S3lit = new Image (95,27);
@@ -55,14 +55,14 @@ if (browserVer == 1) {
 		S4drk = new Image (95,27);
 		S4drk.src = "/images/bingohall.gif";
 		
-		S7lit = new Image (95,14);
+		S7lit = new Image (95,27);
 		S7lit.src = "/images/faqhi.gif";
-		S7drk = new Image (95,14);
+		S7drk = new Image (95,27);
 		S7drk.src = "/images/faq.gif";
 		
-		S5lit = new Image (95,14);
+		S5lit = new Image (95,27);
 		S5lit.src = "/images/sitemaphi.gif";
-		S5drk = new Image (95,14);
+		S5drk = new Image (95,27);
 		S5drk.src = "/images/sitemap.gif";
 		
 		S6lit = new Image (95,27);
@@ -70,25 +70,36 @@ if (browserVer == 1) {
 		S6drk = new Image (95,27);
 		S6drk.src = "/images/contact.gif";
 		
-		S8lit = new Image (95,45);
-		S8lit.src = "/images/lottery_sales_lic_app_menu_on.gif";
-		S8drk = new Image (95,45);
-		S8drk.src = "/images/lottery_sales_lic_app_menu.gif";
+		S8lit = new Image (95,40);
+		S8lit.src = "/images/menuforms_on.gif";
+		S8drk = new Image (95,40);
+		S8drk.src = "/images/menuforms.gif";
 
-		S9lit = new Image (95,35);
+		S9lit = new Image (95,27);
 		S9lit.src = "/images/employ_opportunities_on.gif";
-		S9drk = new Image (95,35);
+		S9drk = new Image (95,27);
 		S9drk.src = "/images/employ_opportunities_off.gif";
 		
-		S10lit = new Image (95,35);
+		S10lit = new Image (95,27);
 		S10lit.src = "/images/media_on.gif";
-		S10drk = new Image (95,35);
+		S10drk = new Image (95,27);
 		S10drk.src = "/images/media_off.gif";
 		
-		S12lit = new Image (95,35);
+		S12lit = new Image (95,27);
 		S12lit.src = "/images/playconn_on.gif";
-		S12drk = new Image (95,35);
+		S12drk = new Image (95,27);
 		S12drk.src = "/images/playconn_off.gif";
+		
+		S13lit = new Image (95,27);
+		S13lit.src = "/images/menulegalhi.gif";
+		S13drk = new Image (95,27);
+		S13drk.src = "/images/menulegal.gif";
+		
+		S14lit = new Image (95,27);
+		S14lit.src = "/images/menunewson.gif";
+		S14drk = new Image (95,27);
+		S14drk.src = "/images/menunews.gif";
+
 }
 function hiLite(imgDocID,imgObjName) {
 if (browserVer == 1) {
@@ -107,45 +118,54 @@ document.images[imgDocID].src = eval(imgObjName + ".src")
 					</td>
 				</tr>
 				<tr>
-					<td align="CENTER"><a href="/newsalert.cfm"><img src="/images/arrow_new.gif" width="95" height="27" border="0" alt="News Alert"></a>
+					<td><a href="/newsalert.cfm" onmouseover="hiLite('Sub14','S14lit'); window.status='News Alert'; return true" onmouseout="hiLite('Sub14','S14drk'); window.status='Texas Lottery'; return true"><img src="/images/menunews.gif" width="95" height="27" border="0" alt="News Alert" name="Sub14"></a>
 					</td>
 				</tr>
+
 				<tr>
-				</tr><tr>
-					<td><a href="/info/askdir.cfm" onmouseover="hiLite('Sub2','S2lit'); window.status='Ask the Director'; return true" onmouseout="hiLite('Sub2','S2drk'); window.status='Texas Lottery'; return true"><img src="/images/ask_off.gif" width="95" height="35" border="0" alt="Ask the Director" name="Sub2"></a>
+					<td><a href="/info/askdir.cfm" onmouseover="hiLite('Sub2','S2lit'); window.status='Ask the Director'; return true" onmouseout="hiLite('Sub2','S2drk'); window.status='Texas Lottery'; return true"><img src="/images/ask_off.gif" width="95" height="27" border="0" alt="Ask the Director" name="Sub2"></a>
 					</td>
 				</tr>
+
 				<tr>
-					<td><a href="/claimloc.cfm" onmouseover="hiLite('Sub3','S3lit'); window.status='Claim Center Locations'; return true" onmouseout="hiLite('Sub3','S3drk'); window.status='Texas Lottery'; return true"><img src="/images/claimloc.gif" width="95" height="27" border="0" alt="Claim Center Locations" name="Sub3"></a>
+					<td><a href="/legal/" onmouseover="hiLite('Sub13','S13lit'); window.status='Legal Notices'; return true" onmouseout="hiLite('Sub13','S13drk'); window.status='Texas Lottery'; return true"><img src="/images/menulegal.gif" width="95" height="27" border="0" alt="Legal Notices" name="Sub13"></a>
+					</td>
+				</tr>
+
+				<tr>
+					<td><a href="/jobs.cfm" onmouseover="hiLite('Sub9','S9lit'); window.status='Jobs'; return true" onmouseout="hiLite('Sub9','S9drk'); window.status='Texas Lottery'; return true"><img src="/images/employ_opportunities_off.gif" width="95" height="27" border="0" alt="Jobs" name="Sub9"></a>
+					</td>
+				</tr>
+				
+				<tr><td><a href="/faq.cfm" onmouseover="hiLite('Sub7','S7lit'); window.status='FAQ'; return true" onmouseout="hiLite('Sub7','S7drk'); window.status='Texas Lottery'; return true"><img src="/images/faq.gif" width="95" height="27" border="0" alt="FAQ" name="Sub7"></a></td></tr>
+				
+				<tr>
+					<td><a href="/claimloc.cfm" onmouseover="hiLite('Sub3','S3lit'); window.status='Claim Centers'; return true" onmouseout="hiLite('Sub3','S3drk'); window.status='Texas Lottery'; return true"><img src="/images/claimloc.gif" width="95" height="27" border="0" alt="Claim Centers" name="Sub3"></a>
 					</td>
 				</tr>
 
 				
-				<tr>
-					<td><a href="/jobs.cfm" onmouseover="hiLite('Sub9','S9lit'); window.status='Employment Opportunities'; return true" onmouseout="hiLite('Sub9','S9drk'); window.status='Texas Lottery'; return true"><img src="/images/employ_opportunities_off.gif" width="95" height="35" border="0" alt="Employment Opportunities" name="Sub9"></a>
-					</td>
-				</tr>
 				
 				 
-				<tr><td><a href="/faq.cfm" onmouseover="hiLite('Sub7','S7lit'); window.status='FAQ'; return true" onmouseout="hiLite('Sub7','S7drk'); window.status='Texas Lottery'; return true"><img src="/images/faq.gif" width="95" height="14" border="0" alt="FAQ" name="Sub7"></a></td></tr>
-
-				<tr><td height="50" align="right"><a href="/applications/appforms.cfm" onmouseover="hiLite('Sub8','S8lit'); window.status='Lottery Sales License and Retailer Accounting Forms'; return true" onmouseout="hiLite('Sub8','S8drk'); window.status='Texas Lottery'; return true"><img src="/images/lottery_sales_lic_app_menu.gif" width="95" height="45" border="0" alt="Lottery Sales License and Retailer Accounting Forms" name="Sub8"></a></td></tr> 
 				
 				<tr>
-					<td><a href="/contact.cfm" onmouseover="hiLite('Sub6','S6lit'); window.status='How To Contact Us'; return true" onmouseout="hiLite('Sub6','S6drk'); window.status='Texas Lottery'; return true"><img src="/images/contact.gif" width="95" height="27" border="0" alt="How To Contact Us" name="Sub6"></a>
+					<td><a href="/contact.cfm" onmouseover="hiLite('Sub6','S6lit'); window.status='Contact Us'; return true" onmouseout="hiLite('Sub6','S6drk'); window.status='Texas Lottery'; return true"><img src="/images/contact.gif" width="95" height="27" border="0" alt="Contact Us" name="Sub6"></a>
 					</td>
 				</tr>
 				<tr>
-					<td><a href="/news/news.cfm" onmouseover="hiLite('Sub10','S10lit'); window.status='Media Guide'; return true" onmouseout="hiLite('Sub10','S10drk'); window.status='Texas Lottery'; return true"><img src="/images/media_off.gif" width="95" height="35" border="0" alt="Media Guide" name="Sub10"></a>
+					<td><a href="/news/news.cfm" onmouseover="hiLite('Sub10','S10lit'); window.status='Media Info'; return true" onmouseout="hiLite('Sub10','S10drk'); window.status='Texas Lottery'; return true"><img src="/images/media_off.gif" width="95" height="27" border="0" alt="Media Information" name="Sub10"></a>
 					</td>
 				</tr>
 				
 				<tr>
-					<td><a href="/playerconnect/pcintro.cfm" onmouseover="hiLite('Sub12','S12lit'); window.status='Request for Information'; return true" onmouseout="hiLite('Sub12','S12drk'); window.status='Texas Lottery'; return true"><img src="/images/playconn_off.gif" width="95" height="35" border="0" alt="Join Player Connect™" name="Sub12"></a>
+					<td><a href="/playerconnect/pcintro.cfm" onmouseover="hiLite('Sub12','S12lit'); window.status='Player Connect'; return true" onmouseout="hiLite('Sub12','S12drk'); window.status='Texas Lottery'; return true"><img src="/images/playconn_off.gif" width="95" height="27" border="0" alt="Player Connect" name="Sub12"></a>
 					</td>
 				</tr>
+				
+				<tr><td height="50" align="right"><a href="/applications/appforms.cfm" onmouseover="hiLite('Sub8','S8lit'); window.status='License &amp; Retailer Forms'; return true" onmouseout="hiLite('Sub8','S8drk'); window.status='Texas Lottery'; return true"><img src="/images/menuforms.gif" width="95" height="40" border="0" alt="License &amp; Retailer Forms" name="Sub8"></a></td></tr> 
+				
 				<tr>
-					<td><a href="/sitemap.cfm" onmouseover="hiLite('Sub5','S5lit'); window.status='Sitemap'; return true" onmouseout="hiLite('Sub5','S5drk'); window.status='Texas Lottery'; return true"><img src="/images/sitemap.gif" width="95" height="14" border="0" alt="Sitemap" name="Sub5"></a>
+					<td><a href="/sitemap.cfm" onmouseover="hiLite('Sub5','S5lit'); window.status='Sitemap'; return true" onmouseout="hiLite('Sub5','S5drk'); window.status='Texas Lottery'; return true"><img src="/images/sitemap.gif" width="95" height="27" border="0" alt="Sitemap" name="Sub5"></a>
 					</td>
 				</tr>
 				<tr>
@@ -192,11 +212,11 @@ document.images[imgDocID].src = eval(imgObjName + ".src")
 		<td valign="top" colspan="1" bgcolor="000000" height="56" width="152">
 			<center>
 				<font face="verdana, arial, sans-serif" size="4" color="#ffe579">
-					<b>$10 Million</b>
+					<b>$25 Million</b>
 				</font><br>
 				<font face="arial, verdana , sans-serif" size="1" color="#ffffff">
 					ESTIMATED JACKPOT<br>
-					for <b>12/05/01 </b>
+					for <b>06/08/02 </b>
 				</font>
 			</center>
 		
@@ -210,7 +230,7 @@ document.images[imgDocID].src = eval(imgObjName + ".src")
 				</font><br>
 				<font face="arial, verdana , sans-serif" size="1" color="#ffffff">
 					ESTIMATED JACKPOT<br>
-					for <b>12/04/01 </b>
+					for <b>06/07/02 </b>
 				</font>
 			</center>
 		
@@ -282,36 +302,39 @@ This site contains links to other sites.  We do not control the authenticity, ac
 			<br>
 				
 				<font color="gray" size="-2" face="verdana">
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<font face="verdana, helvetica" size="1" color="#253c82">
-	<b>
-		<a href="../index.cfm">HOME</a> 
-		| 
-		<a href="../scratchoffs/scratchoffs.cfm">SCRATCH OFFS</a> 
-		| 
-		<a href="../online/online.cfm">DRAWING RESULTS AND MORE</a> 
-		| 
-		<a href="../bingo/bingo.cfm">CHARITABLE BINGO</a> 
-		<br> 
-		<a href="../news/news.cfm">NEWS AND EVENTS</a> 
-		| 
-		<a href="../info/info.cfm">LOTTERY COMMISSION INFORMATION</a> 
-		<br>
-		<a href="../privacypolicy.cfm">LOTTERY COMMISSION PRIVACY POLICY</a> 
-		| 
-		<a href="../responsible.cfm">COMPULSIVE GAMBLING</a>
-	</b>
-	</font>
-	<br>
-	<br>
-	<br>
-	<i>Must be 18 years or older to purchase a Lottery ticket.
-	&nbsp;&nbsp;&nbsp;
-	Copyright © 2001 Texas Lottery Commission</i>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <font face="verdana, helvetica" size="1" color="#253c82">
+        <b>
+                <a href="/index.cfm">HOME</a> 
+                | 
+                <a href="/scratchoffs/scratchoffs.cfm">SCRATCH OFFS</a> 
+                | 
+                <a href="/online/online.cfm">DRAWING RESULTS AND MORE</a> 
+                | 
+                <a href="/bingo/bingo.cfm">CHARITABLE BINGO</a> 
+                <br> 
+                <a href="/news/news.cfm">NEWS AND EVENTS</a> 
+                | 
+                <a href="/info/info.cfm">LOTTERY COMMISSION INFORMATION</a> 
+                <br>
+                <a href="/privacypolicy.cfm">LOTTERY COMMISSION PRIVACY POLICY</a> 
+                | 
+                <a href="/responsible.cfm">COMPULSIVE GAMBLING</a>
+                <br>
+                <a href="../playerconnect/pcintro.cfm">PLAYERCONNECT</a>
+
+        </b>
+        </font>
+        <br>
+        <br>
+        <br>
+        <i>Must be 18 years or older to purchase a Lottery ticket.
+        <br>
+        Copyright © 2002 Texas Lottery Commission</i>
 </font>
 				
 
