@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knowledgebase.net privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208213352id_/http%3A//www.knowledgebase.net/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgebase.net privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622092252id_/http%3A//knowledgebase.net/company/privacy.html) for the most accurate reproduction.*
 
-# Knowledge Base Privacy Policy
+# Knowledge Base Acceptable Use Policy
 
   
 |  Knowledgebase Solutions, Inc. (KnowledgeBase.net) is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for KnowledgeBase.net.   
