@@ -1,41 +1,6 @@
-> *The following text is extracted and transformed from the inetgiant.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetgiant.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610122243id_/http%3A//www.inetgiant.com/privacypolicy) for the most accurate reproduction.*
 
-# Free Advertising Free Classified Ads by Inetgiant.com
-
-|  |   
----  
-**Please**[Login](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=login&url=default.asp?action=myhome)  
- **to access your account.**  
-  
----  
-| [Best Promotion Tools](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=marketingtools)  
----  
-[Home Business Opportunities](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=workathome)  
-[Recommended Search Engines](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=searchengines)  
-[Web Tools](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=webtools)  
-[Free Sites](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=freesites)  
-[Affiliate Programs](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=affiliate)  
-[Traffic Programs](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=traffic)  
-[Web Design](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=webdesign)  
-[Web Hosting](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=webhosting)  
-[Partner Sites](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=recommended)  
----  
-[ ](http://www.qksrv.net/click-1036292-9756736)  
-[ ](http://www.qksrv.net/click-1036292-9320391)  
-|   
----  
-   
-[Advanced Search](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=advsearch)  
-[](http://www.inetgiant.com/email_blaster.html "free internet advertising")  
-[ ](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/free%20classifieds%20affiliate.html "free classifieds affiliate")  
-  
-| 
-
-**InetGiant.com offers[Free Classifieds Advertising](http://www.inetgiant.com/free-classifieds/index.html).**
-
-All free classified ads are posted instantly!  No waiting for approval. No confusing or time consuming sign up process. Just register and select your personal username and password, then login and go from there. You can edit your free classified ad when ever you feel. Choose from a range of extra optional features: Featured Ads, Bold Titling, Premiere Ad, Option to add an icon with Classified Ad, and Option to upload your own image or photo with your free Classified Ad.
-
-#### PRIVACY POLICY
+# Free Advertising, Free Classifieds, Free Classified Ads, Classified Ads, Free Classified, Classified, Free Ad, Advertising Free, Classifieds, Classified Ad, Free Classified Ad by www.inetgiant.com
 
 To protect your privacy, InetGiant.com follows the following principles for customer privacy and data protection: 
 
@@ -52,21 +17,3 @@ Parents or guardians: we want to help you guard your children's privacy. We enco
 
   
 
-
-  
-
-
-|  |  |   
----  
-| [Free Classifieds](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=classifieds)  
----  
-[Advertise Here](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=advertise)  
-[Search Engine Placement](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/default.asp?action=searchsubmitintro)  
-[InetGiant Email Blaster](http://www.inetgiant.com/email_blaster.html)  
-[Buy Targeted Visitors ](http://www.inetgiant.com/traffic_on_sale/buy_visitors.htm)  
-[Become an Affiliate](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/free%20classifieds%20affiliate.html "free classifieds affiliate")  
-[Classified Advertising Tips](https://web.archive.org/web/20031009044754id_/http%3A//www.inetgiant.com/free_classifieds_art_of_writing.html "free classified ads tips")  
-  
-[](http://server.iad.liveperson.net/hc/88496895/?cmd=file&file=visitorWantsToChat&site=88496895&byhref=1)  
----  
-[](http://server.iad.liveperson.net/hc/88496895/?cmd=PoweredByPage&site=88496895)
