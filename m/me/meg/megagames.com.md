@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2004-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040408225557id_/http%3A//www.megagames.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megagames.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204144404id_/http%3A//www.megagames.com/policy.htm) for the most accurate reproduction.*
 
 # MegaGames - Privacy Statement
 
 |   
 ---  
-| [](http://www.gamingtrivia.com/adimages/match/click-url.asp) |  |   
+| [](http://www.sagonet.com/) |  |   
 ---|---|---  
   
 **Privacy Statement for MegaGames**
