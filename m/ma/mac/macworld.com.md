@@ -107,3 +107,52 @@ Part 1 in a 3-part series Web Watch: A Question of Privacy
 > * * *
 
 * * *
+April 27, 1999 
+
+**Your Privacy Matters To Us**
+
+Macworld collects personal information about our users only during registration for the Macworld Online service, from our use of "cookie" technology as you use the service, and during entry into a Macworld contest or sweepstakes. 
+
+Macworld respects your right to privacy. As part of the registration process, we give you the opportunity to decline to receive any mailings from either Macworld or other parties to whom Macworld may provide such information. 
+
+The data we collect is used in the aggregate to give us demographic information about the entire Macworld audience in order to improve the Macworld service. The personal information you provide allows us to inform you about updates to the service and to notify you of products and services of Macworld, its affiliates and third parties that we believe may be of interest to you. We also share aggregate information --not individual data-- with our advertisers to help them better understand our services and to monitor the reach of their advertising on the service. 
+
+Macworld uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. 
+
+You may correct your member information or select the option not to receive additional mailings by going to [http://www.tipworld.com/macworld/cgi-bin/sub.cgi/macworld/change.](http://www.tipworld.com/macworld/cgi-bin/sub.cgi/macworld/change) If you have questions we can be reached by e-mail at [webmaster@macworld.com](mailto:webmaster@macworld.com). 
+
+Search Macworld Online For:  
+  
+  
+---  
+  
+* * *  
+  
+**Magazine** |  **Online Areas**  
+  
+News   
+Reviews   
+Features   
+Columns 
+
+|  1998  
+1997  
+1996  
+1995  
+| 
+
+Features   
+Netsmart   
+Media   
+Gameline   
+  
+* * *  
+  
+|   
+  
+* * *
+
+If you use Internet Explorer 4.0, click the button below: 
+
+[](http://www.macworld.com/channels/macworld.cdf)   
+
