@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206103349id_/http%3A//www1.jonesday.com/admin/privacy.asp%3Flanguage%3DEnglish) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonesday.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606062340id_/http%3A//www1.jonesday.com/admin/privacy.asp%3Flanguage%3DEnglish) for the most accurate reproduction.*
 
 # Jones Day - Privacy Statement
 
