@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalgazette.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201230238id_/http%3A//www.capitalgazette.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalgazette.com privacy policy that was archived on 2003-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030524122945id_/http%3A//capitalgazette.com/privacy.html) for the most accurate reproduction.*
 
 # HometownAnnapolis.com, Privacy Policy & Terms of Use
 
@@ -31,4 +31,4 @@ If you have any questions regarding the use of Capital-Gazette materials, please
 
 Use of any Capital-Gazette Communications site constitutes acceptance of the above terms of use. Updates to our policy will be posted on this page.
 
-[Contact us!](https://web.archive.org/web/20021201230238id_/http%3A//www.capitalgazette.com/contactus.html)
+[Contact us!](https://web.archive.org/web/20030524122945id_/http%3A//capitalgazette.com/contactus.html)
