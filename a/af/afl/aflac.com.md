@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008200524id_/http%3A//www.aflac.com/action_item/privacy_notices.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604205342id_/http%3A//aflac.com/action_item/privacy_notices.asp) for the most accurate reproduction.*
 
 # AFLAC - Privacy
 
