@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the interexchange.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603221804id_/http%3A//interexchange.org/interexchange/ix10.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interexchange.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202234318id_/http%3A//www.interexchange.org/interexchange/ix10.html) for the most accurate reproduction.*
 
 # InterExchange Privacy Policy
-
-InterExchange Privacy Policy
 
 Information Collection and Use  
 InterExchange, Inc. is the sole owner of the information collected on this site. We will not sell, share or rent this information, or use it in ways other than what is disclosed on this site. 
