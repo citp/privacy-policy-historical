@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402175924id_/http%3A//teach12.com/ttc/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teach12.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211154907id_/http%3A//www.teach12.com/ttc/Privacy.asp) for the most accurate reproduction.*
 
 # The Teaching Company - Privacy Information
 
@@ -15,7 +15,9 @@ How we protect your information
 
 When you order from us on-line at [www.teach12.com](http://www.teach12.com/), we protect your information by using Secure Sockets Layer (SSL) protocol.  SSL encryption electronically codes any information you send us.  With this state-of-the-art system, you can enter your credit-card number, delivery and billing information safely through the secure server.  The encryption process protects the information by scrambling it before it is sent to us from your computer. 
 
-If you feel uncomfortable with buying on-line, we’re still taking orders by phone 1-800-TEACH-12 (1-800-832-2412), fax (703-378-3819), or surface mail (4151 Lafayette Center Drive; Suite 100; Chantilly, VA 20151-1232). Return To Top
+If you feel uncomfortable with buying on-line, we’re still taking orders by phone 1-800-TEACH-12 (1-800-832-2412), fax (703-378-3819), or surface mail (4151 Lafayette Center Drive; Suite 100; Chantilly, VA 20151-1232).
+
+Return To Top
 
 How we use "cookies" information
 
