@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoomtown.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205045017id_/http%3A//www.cincinnatibell.com/customerservice/resourcecenter/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomtown.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609005350id_/http%3A//www.cincinnatibell.com/customerservice/resourcecenter/privacy.asp) for the most accurate reproduction.*
 
 # Cincinnati Bell - Customer Service - Resource Center - Privacy Policy
 
