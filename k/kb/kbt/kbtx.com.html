@@ -1,878 +1,1279 @@
-<!--The following is the downloaded HTML source of the kbtx.com privacy policy that was archived on 2001-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010616192102id_/http%3A//kbtx.com/now/story/0%2C1597%2C53940-321%2C00.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kbtx.com privacy policy that was archived on 2004-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206105129id_/http%3A//www.kbtx.com/unclassified/647.html) for the most accurate reproduction.-->
 
-<html><head>
- 
-<title>CBS.com--CBS.com Privacy Statement</title>
-
-<script language="JavaScript">
-<!--
-if (document.layers)
-{
-	document.write('<link rel=stylesheet type="text/css" href="/common/css/main_nn.css">')
-}
-// -->
-</script>
-
-<script language="JavaScript">
-<!--
-if (document.all)
-{
-	document.write('<link rel=stylesheet type="text/css" href="/common/css/main_ie.css">')
-}
-
-function gothereNow(selectElement)
-{
-var theLocation = selectElement.options[selectElement.selectedIndex].value;
-if(theLocation)
-{
-parent.location.replace(theLocation);
-}
-else
-{
-return false;
-}
-}
-
-function no_externals()
-{
-	if( confirm("The function you have requested is notnsupported by your browser.nnTo see a further explanation of the problem,nas well as instructions on how to downloadna more up-to-date browser, simply click [OK]."))
-		self.location.href =  "story_112201.html";
-}
-
-function PopUp(url,w,h) {
-var dim = eval('"width=' + w + ',height=' + h + '"');
-Npop = window.open(url,"pop",dim);
-}
-
-// -->
-</script>
-
-<script language="JavaScript" src="/common/js/vlaunch_flat.js">
-<!--
-vlaunch = no_externals;
-// -->
-</script>
-<script language="JavaScript">
-
-
-function generateOrd() {
-// returns time in milliseconds
-var now = new Date();
-	return now.getTime();
-}
-
-function getAdCode (p_Type) {
-var affiliateCode =  'kbtx';
-if (affiliateCode == 'cbs') {
-	affiliateCode = 'network';
-}
-
-switch (p_Type) {
-    
-	case 'network':
-		return 'network.now.com/' + affiliateCode + ';';
-
-	case 'affiliate':
-		return affiliateCode + '.now.com/' + affiliateCode + ';';
-
-	case 'cbs':
-		return 'network.now.com/network;';
-
-	case 'CBS':
-		return 'network.now.com/network;';
-
-	case 'split':
-		if (generateOrd() % 2 == 1) {
-			return getAdCode ('network');
-		} else {
-			return getAdCode ('affiliate');
-		}
-	default:
-		return getAdCode ('affiliate');
-	}
-}
-
-function getAdTag (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// a href tag
-adText =			"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0></A>"
-
-return adText;
-}
-
-function getEnhancedAd (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// iframe tag
-adText =			"<NOLAYER><IFRAME src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " marginwidth=0 marginheight=0 "
-adText = adText	+	"hspace=0 vspace=0 frameborder=0 scrolling=no ALIGN=\"top\">"
-
-// a href tag
-adText = adText +	"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0>"
-adText = adText	+	"</A><BR></IFRAME></NOLAYER>"
-
-// ilayer tag
-adText = adText	+	"<ILAYER id=topbanner visibility=hidden width=" + htmlSize + "></ILAYER>"
-
-return adText;
-}
-
-function getEnhancedLayer (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// layer tag
-adText =			"<LAYER src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " visibility=hidden "
-adText = adText	+	"onload=\"moveToAbsolute((topbanner.pageX), (topbanner.pageY)); "
-adText = adText	+	"clip.width=" + p_Width + "; clip.height=" + p_Height
-adText = adText	+	"; visibility='show';\"></LAYER>"
-
-return adText;
-}
-
-// ** end of AD TAG procedures **********
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD html 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
+			<title>KBTX | GRAY TELEVISION GROUP, INC.  PRIVACY POLICY</title>		
+							<link rel="stylesheet" href="http://www.kbtx.com/includes/kbtx_Stylesheet" type="text/css"> 
+				
+				
+	
+							<script language="Javascript">var js="0.0";</script><script language="Javascript1.0">js="1.0";</script><script language="Javascript1.1">js="1.1";</script><script language="Javascript1.2">js="1.2";</script><script language="Javascript1.3">js="1.3";</script><script language="Javascript1.4">js="1.4";</script><script language="Javascript1.5">js="1.5";</script><script language="javascript1.1" type="text/javascript"> 
+<!-- 
+var aa=new Image();function _dg(_d) {var _cs=""+document.cookie; var _c=",;expires=Sunday, November 26, 2006 4:12:44 AM GMT; path=/"; if(_cs.indexOf("di")==-1){ document.cookie="di=,"+_d+_c; return true; } var _i=_cs.indexOf("di"); var _j=_cs.indexOf(';',_i); var _ds=_cs.substring(_i+3,_j); if(_ds.indexOf(","+_d+",")==-1){ document.cookie="di="+_ds+_d+_c; return true; }  else{  return false; } }var _ti=910;var _q="";var na=(navigator.appName=="Netscape");var ns=(navigator.appName.substring(0,9)=="Microsoft");var _qDate=new Date();var _q="http://stats.clickability.com/t?";var _r=document.referrer;_q+="&5="+(parseInt(_qDate.getTimezoneOffset()/60));_q+="&6=647";_q+="&7=72797";_q+="&8="+escape(document.location);_q+="&9="+escape(_r);_q+="&10="+escape(document.title);_q+="&11="+escape(navigator.userAgent);_q+="&12="+escape((na?navigator.language:navigator.userLanguage));_q+="&13="+((navigator.javaEnabled()?'1':'0'));_q+="&14="+escape(js);_q+="&30="+(_dg(72797)?"0":"1");if(document.cookie.indexOf("cc")==-1)document.cookie="cc=t;";_q+="&15="+((document.cookie.indexOf("cc")==-1)?"0":"1");_q+="&16="+escape((screen.width+'x'+screen.height));_q+="&17="+escape(((ns)?screen.colorDepth:screen.pixelDepth));_q+="&18="+escape(Math.random());_q+="&19="+_ti;aa.src=_q;
 //-->
+</script><noscript>
+<img width="1" height="1" src="http://stats.clickability.com/t.gif?19=990&14=0&6=647&7=72797&18=0.747394229613707">
+</noscript>
 
-</script></head>
+				     
+			<script language="Javascript" type="text/javascript">
+<!--  // Cookie functions 
+var expDays = 1000;
+var exp = new Date(); 
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
 
+function GetCookie (name) {  
+    var arg = name + "=";  
+    var alen = arg.length;  
+    var clen = document.cookie.length;  
+    var i = 0;  
+    while (i < clen) {    
+        var j = i + alen;    
+        if (document.cookie.substring(i, j) == arg)      
+        return getCookieVal (j);    
+        i = document.cookie.indexOf(" ", i) + 1;    
+        if (i == 0) break;   
+    }  
+}
+function getCookieVal (offset) {  
+    var endstr = document.cookie.indexOf (";", offset);  
+    if (endstr == -1)    
+    endstr = document.cookie.length;  
+    return unescape(document.cookie.substring(offset, endstr));
+}
 
-<body bgcolor="#FFFFFF" text="#000000" link="#000099" alink="#CC0000" vlink="#660000" leftmargin="4" topmargin="4">
+function SetCookie (name, value,domain) {  
+    document.cookie = name + "=" + escape (value) + "; expires=" + exp.toGMTString() +
+    ("; domain="+domain);
+}
+function SetCookie (name, value,domain,expHours) {  
+	var cookieExp = new Date();
+	cookieExp.setTime(cookieExp.getTime() + (expHours*60*60*1000));
+    document.cookie = name + "=" + escape (value) + "; expires=" + cookieExp.toGMTString() +
+    ("; domain="+domain);
+}
 
-<!-- Vignette StoryServer 4 Thu May 10 06:18:58 2001 -->
-<!-- BEGIN TOP BAR -->
+function DeleteCookie (name,domain) {  
+    var now= new Date();  
+    now.setTime (exp.getTime() - 1);  
+    var cval = GetCookie (name);  
+    document.cookie = name + "=; expires=" + now.toGMTString()+
+    ("; domain="+domain);
+}
 
-
-<script language="JavaScript">
-<!--
-if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
-	{
-        document.write('<link rel=stylesheet type="text/css" href="/common/css/sec_35.css">')
+function addToCookie(name, value,domain){
+	var oldValue = GetCookie(name);
+	if(oldValue){
+		value = oldValue +'|'+value;
 	}
+	//alert(value)
+	SetCookie(name, value,domain);
+}
+function getCookieValues(name){
+	var values = GetCookie(name);
+	//alert(values)
+	if(values){
+		var valueArray = new Array();
+		var i = 0;
+		var valueNum = 0;
+		var lastindex = 0;
+		while(i>-1){
+			i = values.indexOf("|", lastindex)
+			//alert(i);
+			//alert(lastindex);
+			//alert(valueNum);
+			if(i == -1){
+				valueArray[valueNum] = values.substring(lastindex);
+			}else{
+				valueArray[valueNum] = values.substring(lastindex,i);
+			}
+			//alert(valueArray[valueNum]);
+			valueNum = valueNum  + 1;
+			lastindex = i + 1;
+			if(valueNum == 100) break;
+		}
+		return valueArray;
+	}
+	
+}
+
+function removeCookieValue(name, value,domain){
+	var favorites = getCookieValues(name);
+	var newvalue = "";
+	for(var i= 0; i<favorites.length;i++){
+		var fav = favorites[i];
+		if(fav != value){
+			if(i > 0 &&  newvalue != ''){ newvalue = newvalue + "|";}
+			newvalue = newvalue + fav;
+		}
+	}
+	SetCookie(name, newvalue,domain);
+}
+
+
+function setFavorite(value, domain){
+	var fav = value;
+	var len = fav.length;
+	//alert(city);
+	if(fav.indexOf("http://") == 0){
+		fav = fav.substring(7,len);
+	}
+	if(fav.indexOf("https://") == 0){
+		fav = fav.substring(8,len);
+	}
+
+	addToCookie("favorites",fav,domain);
+}
+-->
+</script>
+
+			<script language="JavaScript"> <!--
+_version=10; //--> </script>
+<script language="JavaScript1.1"> <!--
+_version=11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1){
+    _version=10;}
 // -->
 </script>
-<script language="JavaScript">
+<script>
+<!--
+function pollSubPop (url, name, widgets ) 
+{
+	popupWin = window.open(url, name, widgets);
+	var agt=navigator.userAgent.toLowerCase();
+	var is_major = parseInt(navigator.appVersion);
+     var is_ie     = ((agt.indexOf("msie") != -1) && (agt.indexOf("opera") == -1));
+     var is_ie3    = (is_ie && (is_major < 4));
+     var is_ie4    = (is_ie && (is_major == 4) && (agt.indexOf("msie 4")!=-1) );
+     var is_aol   = (agt.indexOf("aol") != -1);
+     var is_aol3  = (is_aol && is_ie3);
+     var is_aol4  = (is_aol && is_ie4);
+     var is_aol5  = (agt.indexOf("aol 5") != -1);
+     var is_aol6  = (agt.indexOf("aol 6") != -1);
+     var is_comp   = (agt.indexOf("compuserve") != -1);
+     var is_compie = (is_comp && is_ie);
 
+     if(!is_aol6 && !is_aol3 && !is_aol4 && !is_aol5 && !is_compie) { popupWin.opener.top.name = "opener"; }
 
-function generateOrd() {
-// returns time in milliseconds
-var now = new Date();
-	return now.getTime();
+	popupWin.focus();
 }
-
-function getAdCode (p_Type) {
-var affiliateCode =  'kbtx';
-if (affiliateCode == 'cbs') {
-	affiliateCode = 'network';
-}
-
-switch (p_Type) {
-    
-	case 'network':
-		return 'network.now.com/' + affiliateCode + ';';
-
-	case 'affiliate':
-		return affiliateCode + '.now.com/' + affiliateCode + ';';
-
-	case 'cbs':
-		return 'network.now.com/network;';
-
-	case 'CBS':
-		return 'network.now.com/network;';
-
-	case 'split':
-		if (generateOrd() % 2 == 1) {
-			return getAdCode ('network');
-		} else {
-			return getAdCode ('affiliate');
-		}
-	default:
-		return getAdCode ('affiliate');
-	}
-}
-
-function getAdTag (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// a href tag
-adText =			"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0></A>"
-
-return adText;
-}
-
-function getEnhancedAd (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// iframe tag
-adText =			"<NOLAYER><IFRAME src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " marginwidth=0 marginheight=0 "
-adText = adText	+	"hspace=0 vspace=0 frameborder=0 scrolling=no ALIGN=\"top\">"
-
-// a href tag
-adText = adText +	"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0>"
-adText = adText	+	"</A><BR></IFRAME></NOLAYER>"
-
-// ilayer tag
-adText = adText	+	"<ILAYER id=topbanner visibility=hidden width=" + htmlSize + "></ILAYER>"
-
-return adText;
-}
-
-function getEnhancedLayer (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// layer tag
-adText =			"<LAYER src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " visibility=hidden "
-adText = adText	+	"onload=\"moveToAbsolute((topbanner.pageX), (topbanner.pageY)); "
-adText = adText	+	"clip.width=" + p_Width + "; clip.height=" + p_Height
-adText = adText	+	"; visibility='show';\"></LAYER>"
-
-return adText;
-}
-
-// ** end of AD TAG procedures **********
-
-
-
 //-->
-
-</script><table cellspacing="0" cellpadding="0" border="0" bgcolor="#FFCC33" width="610">
-<tbody><tr>
-  <td rowspan="3" width="120" valign="top" bgcolor="#FFCC33" nowrap=""><a href="/now/section/0,1636,100-321,00.shtml" target="_top"><img src="http://a1800.g.akamai.net/7/1800/121/971915760/newsimages.cbsig.net/common/images/logos/logo_KBTX_boom.gif" width="120" height="64" hspace="0" vspace="0" border="0" alt="HOME"></a><br>
-  </td>
-  <td width="340" bgcolor="#000000" colspan="2" height="14">
-    <table width="340" cellspacing="0" cellpadding="0" border="0" height="14">
-    <tbody><tr>
-      <td width="160"><img src="http://a1800.g.akamai.net/f/1800/121/1h/newsimages.cbsig.net/common/images/elements/date_CDT.gif" width="153" height="11" hspace="0" vspace="1" border="0"><br></td>
-      <td width="180"><img src="http://a1800.g.akamai.net/7/1800/121/917997696/newsimages.cbsig.net/common/images/cities/city_KBTX.gif" width="180" height="11" hspace="0" vspace="1" border="0"><br></td>
-    </tr>
-	</tbody></table>
-  </td>
-  <td rowspan="3" width="150" valign="top">
-   <script language="javascript">
- var section = 'sec=' + 10340 +';';
- var ordNumber = 'ord=' + generateOrd() + '?';
-
-var affiliate1 = 'KBTX';
-document.write(getAdTag(150,64,1,'split'));
-</script><a href="http://ad.doubleclick.net/jump/kbtx.now.com/kbtx;tile=1;sec=10340;sz=150x64;ord=1580371218497?"><img src="http://ad.doubleclick.net/ad/kbtx.now.com/kbtx;tile=1;sec=10340;sz=150x64;ord=1580371218497?" align="top" width="150" height="64" border="0"></a>
-  </td>
-</tr>
-<tr>
-  <form name="formy" method="post" action="/topnav/go/1,1715,,00.html"></form>
-  <input type="hidden" name="affiliateID" value="321">
-  <td valign="top" align="center" nowrap="" height="49">
-    <table cellspacing="0" cellpadding="0" border="0">
-    <tbody><tr>
-	  <td nowrap="" height="4" colspan="3"></td>
-    </tr>
-	    <tr>
-      <td rowspan="3" valign="top" width="11"><img src="http://a1800.g.akamai.net/7/1800/121/918654803/newsimages.cbsig.net/common/images/elements/curv_forms_l.gif" width="11" height="26" hspace="0" vspace="0" border="0"><br></td>
-      <td height="1" bgcolor="#666666"><table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td>
-      <td rowspan="3" valign="top" width="26"><input type="Image" src="http://a1800.g.akamai.net/7/1800/121/918654802/newsimages.cbsig.net/common/images/elements/curv_forms_go.gif" border="0" width="26" height="26" vspace="0" hspace="0" alt="go" class="form"><br></td>
-    </tr>
-    <tr>
-      <td bgcolor="#ffffff" align="center" height="16" nowrap=""><font face="arial, helvetica" size="2" color="#000000" class="toptext"><b>navigate</b></font></td>
-    </tr>
-    <tr>
-      <td valign="top" height="24">
-<select name="goWhere" onchange="gothereNow(this)">
-
-<option value="/now/section/0,1636,10340-321,00.shtml">HELP</option>
-<option></option>
+</script>
 
 
-	
-		
-			<option value="/now/eframeset/1,1616,321,00.html?URL=%2Fsitemap%2F0%2C1585%2C321%2C00%2Ehtml">SITE MAP</option>
-		 
-	
-		
-			<option value="/now/eframeset/1,1616,321,00.html?URL=%2Fnow%2Ffeedback%2F0%2C1611%2C321%2C00%2Ehtml">FEEDBACK</option>
-		 
-	
-		
-			<option value="/now/eframeset/1,1616,321,00.html?URL=%2Fnow%2Fchange%5Fcity">CHANGE CITY</option>
-		 
-	
-<option value="/now/section/0,1636,100-321,00.shtml">HOME</option>
-	<option></option>
+<script>
+<!--
+function openPopup (url, name, widgets ) 
+{
+	popupWin = window.open(url, name, widgets);
+	popupWin.focus();
+}
+//-->
+</script>
 
-
+						<script language="Javascript1.1" type="text/javascript">
+				function displayVideoHelp(){var videohelppage = window.open('http://www.kbtx.com/unclassified/769277.html', 'CONTENT');}
+				function playVideoClip () 	{displayVideoHelp();}
+				function playVideoClips ()	{displayVideoHelp();} 
+				function checkLaunchVideo() {} 
+			</script>
+			<script src="http://www.kbtx.com/includes/videofunctions.js" type="text/javascript" language="javascript1.3"></script>
+							<script language="JavaScript" type="text/javascript">
+					 <!--
+					function DisplayAds (position, width, height) {
+					}
+					// -->
+					</script>
+		 			 			 	<script language="JavaScript" type="text/javascript">
+			<!--
+				function getRandomFromArray(theArray){
+					if(theArray){
+						var numImages = theArray.length;
+						if(numImages > 0){
+							numImages = numImages - 1;
+							var imageNum = Math.round(Math.random() * numImages);
+							return theArray[imageNum];
+						}
+					}
+				}
+			-->
+			</script>
+			<!-- design copyright 2003 http://www.graycommunications.com -->
+		</head>
 	
-<option value="/now/story/0,1597,238918-321,00.shtml">CALENDAR</option>
+		<body>
+		<center>
+				<!-- START: table 1 / LOGO, BANNER -->
+												
+																        
+        							
+				<table border="0" cellspacing="0" cellpadding="0" width="800" class="bodycolor">
+					<tbody><tr>
+						<td colspan="2">
+							<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="680">
 	
-	
-		
-<option vaule="http://www.kbtx.com/now/story/0,1597,242287-321,00.shtml">CONTESTS</option>
-		 
-	
-		
-			<option value="/now/eframeset/1,1616,321,00.html?URL=http%3A%2F%2Fenn4%2Eenewsnotifier%2Ecom%2Fwwwroot%2Fkbtx%2F">ENEWS NOTIFIER</option>
-		 
-	
-<option value="/now/story/0,1597,238917-321,00.shtml">FEATURED LINKS</option>
-	
-	
-<option value="/now/story/0,1597,37220-321,00.shtml">KBTX FEATURES</option>
-	
-	
-<option value="/now/story/0,1597,213253-321,00.shtml">LATER TODAY</option>
-	
-	
-<option value="/now/section/0,1636,600-321,00.shtml">LOCAL GUIDE</option>
-	
-	
-<option value="/now/story/0,1597,241918-321,00.shtml">LOCAL NEWS</option>
-	
-	
-<option value="/now/story/0,1597,237422-321,00.shtml">NEWS CREW</option>
-	
-	
-<option value="/now/story/0,1597,236582-321,00.shtml">ONLINE POLL</option>
-	
-	
-<option value="/now/story/0,1597,241148-321,00.shtml">TEXAS NEWS</option>
-	
-	
-		
-<option vaule="http://www.kbtx.com/now/eframeset/1,1616,321,00.html?URL=http%3A%2F%2Fwww%2Eaccuweather%2Ecom%2Fadcbin%2Flocal%5Findex%3Fpartner%3Dkbtx%26amp%3Bzipcode%3D77802">WEATHER</option>
-		 
-	
-		
-<option vaule="http://www.kbtx.com/now/story/0,1597,285159-321,00.shtml">WHAT'S ON</option>
-		 
-	
-<option value="/now/section/0,1636,100-321,00.shtml">-------------------------</option>
-	
-	
-<option value="/now/section/0,1636,200-321,00.shtml">CBS NEWS</option>
-	
-	
-		
-<option vaule="http://www.cbs.com">CBS SHOWS</option>
-		 
-	
-<option value="/now/section/0,1636,204-321,00.shtml">HEALTH</option>
-	
-	
-<option value="/now/section/0,1636,525-321,00.shtml">HOROSCOPE</option>
-	
-	
-<option value="/now/section/0,1636,500-321,00.shtml">LIFE</option>
-	
-	
-		
-<option vaule="http://store.cbs.com/">SHOPPING</option>
-		 
-	
-		
-<option vaule="http://cbs.marketwatch.com">MONEY</option>
-		 
-	
-<option value="/now/section/0,1636,207-321,00.shtml">SHOWBIZ</option>
-	
-	
-<option value="/now/section/0,1636,400-321,00.shtml">SPORTS</option>
-	</select>
-	  </td>
-    </tr>
-    </tbody></table>
-  </td>
-  
-
-<form name="keyword" method="get" action="/now/shortcuts/1,1608,321,00.shtml" target="_top"></form>
-    <td valign="top" align="center">
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-	<td nowrap="" height="4" colspan="3"></td>
-</tr>
-<tr>
-    <td rowspan="3" valign="top" width="11"><img src="http://a1800.g.akamai.net/7/1800/121/918654803/newsimages.cbsig.net/common/images/elements/curv_forms_l.gif" width="11" height="26" hspace="0" vspace="0" border="0"><br></td>
-        <td height="1" bgcolor="#666666"><table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td>
-    <td rowspan="3" valign="top" width="26"><input type="Image" src="/common/images/elements/curv_forms_go.gif" border="0" width="26" height="26" vspace="0" hspace="0" alt="go" class="form"><br><a href="/now/shortcuts/help/0,1607,321,00.shtml" target="_top"><img src="http://a1800.g.akamai.net/7/1800/121/918654843/newsimages.cbsig.net/common/images/elements/question.gif" width="13" height="13" hspace="4" vspace="2" border="0" alt="View Our Shortcut List"></a><br></td>
-</tr>
-<tr>
-        <td bgcolor="#ffffff" align="center" height="16" nowrap=""><font face="arial, helvetica" size="2" color="#000000" class="toptext"><b>shortcut</b></font></td>
-</tr>
-<tr>
-    <td valign="top" height="24">
-<input type="text" size="11" maxlength="64" name="p_key" class="form"><br>
-	</td>
-</tr>
-</tbody></table>
-	</td>
-
-</tr>
-
-<tr>
-	<td colspan="2" height="1" bgcolor="#000000">
-		<table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table>
-	</td>
-</tr>
-</tbody></table><table width="610" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-    <td width="108" valign="top" nowrap="">
-<!-- Vignette StoryServer 4 Thu May 10 06:18:59 2001 -->
- <table width="108" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFCC33">
-				<tbody><tr>
-					<td colspan="3">
-					<table width="108" cellspacing="0" cellpadding="0" border="0">
-        			<tbody><tr>
-               			<td colspan="3" width="108"><a href="/now/section/0,1636,100-321,00.shtml"><img src="http://a1800.g.akamai.net/7/1800/121/918654840/newsimages.cbsig.net/common/images/elements/home_curve.gif" width="108" height="23" hspace="0" vspace="0" border="0" alt="HOME"></a><br>
+															<script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r='+Math.random()+'&p=21&c=6500&m=1952&d=72797"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r=0.45138051710836247&amp;p=21&amp;c=6500&amp;m=1952&amp;d=72797"></script>
+														</td>
+							<td width="120" valign="middle" align="center">
+																	<script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r='+Math.random()+'&p=16&c=6500&m=1952&d=72797"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r=0.6871822636356717&amp;p=16&amp;c=6500&amp;m=1952&amp;d=72797"></script>
+															</td></tr></tbody></table>
 						</td>
 					</tr>
-				
 				</tbody></table>
 
-
-	 
-		 <!-- nav_level = 1 curr_level = -1 -->
-					<!-- begin open_level 1 -->
-        			</td></tr><tr>
-					<td colspan="3" width="108" bgcolor="#000000" height="14" align="center" nowrap=""><font face="arial, helvetica" size="1" color="#ffffff" class="navhead">&nbsp; U T I L I T I E S &nbsp;</font><br></td>
+				<table border="0" cellspacing="0" cellpadding="0" width="800" class="bodycolor">
+															
+										<tbody><tr>
+						<td valign="top" width="130" class="navcolor">
+													<table cellspacing="0" cellpadding="0">
+								<tbody><tr>
+							<td class="features" style="padding-left: 3px; padding-top: 2px">
+							<script type="text/javascript">
+							var d=new Date();
+							var hours = d.getHours();
+							var minutes =  d.getMinutes();
+							if(minutes < 10) minutes = "0"+minutes;
+							if(hours > 12) hours = hours -12;
+							var monthname=new Array("Jan","Feb","Mar","Apr","May","June","July","Aug","Sept","Oct","Nov","Dec")
+							document.write(monthname[d.getMonth()] + " ")
+							document.write(d.getDate() + ", ")
+							document.write(d.getFullYear()+"&nbsp;&nbsp;")
+							document.write(hours+":")
+							document.write(minutes)
+							</script>Jan 30, 2020&nbsp;&nbsp;8:00
+							</td></tr>
+							</tbody></table>
+												</td>
+						<td valign="top" width="670" class="navcolor"> 
+							<table cellspacing="0" cellpadding="0">
+								<tbody><tr>
+									<td style="padding-left: 5px; padding-right: 10px" class="features"> Featured Sections:</td>
+																																														<td>
+										<table cellspacing="0" cellpadding="0">
+										<tbody><tr>
+																					<td><img src="http://media.graytvinc.com/designimages/upper-left-off-004CAC.gif" border="0"></td>
+											<td background="http://media.graytvinc.com/designimages/middle-off-004CAC.gif">
+												<a class="topnav" href="/recipes">
+												Christopher's Kitchen</a>
+											</td>
+											<td><img src="http://media.graytvinc.com/designimages/upper-right-off-004CAC.gif" border="0"></td>
+																				</tr>
+										</tbody></table>
+										</td>
+																			<td>
+										<table cellspacing="0" cellpadding="0">
+										<tbody><tr>
+																					<td><img src="http://media.graytvinc.com/designimages/upper-left-off-004CAC.gif" border="0"></td>
+											<td background="http://media.graytvinc.com/designimages/middle-off-004CAC.gif">
+												<a class="topnav" href="/community">
+												Calendar</a>
+											</td>
+											<td><img src="http://media.graytvinc.com/designimages/upper-right-off-004CAC.gif" border="0"></td>
+																				</tr>
+										</tbody></table>
+										</td>
+																			<td>
+										<table cellspacing="0" cellpadding="0">
+										<tbody><tr>
+																					<td><img src="http://media.graytvinc.com/designimages/upper-left-off-004CAC.gif" border="0"></td>
+											<td background="http://media.graytvinc.com/designimages/middle-off-004CAC.gif">
+												<a class="topnav" href="/computers101">
+												Computers 101</a>
+											</td>
+											<td><img src="http://media.graytvinc.com/designimages/upper-right-off-004CAC.gif" border="0"></td>
+																				</tr>
+										</tbody></table>
+										</td>
+																			<td>
+										<table cellspacing="0" cellpadding="0">
+										<tbody><tr>
+																					<td><img src="http://media.graytvinc.com/designimages/upper-left-off-004CAC.gif" border="0"></td>
+											<td background="http://media.graytvinc.com/designimages/middle-off-004CAC.gif">
+												<a class="topnav" href="/news/features/3">
+												From the Ground Up</a>
+											</td>
+											<td><img src="http://media.graytvinc.com/designimages/upper-right-off-004CAC.gif" border="0"></td>
+																				</tr>
+										</tbody></table>
+										</td>
+																			<td>
+										<table cellspacing="0" cellpadding="0">
+										<tbody><tr>
+																					<td><img src="http://media.graytvinc.com/designimages/upper-left-off-004CAC.gif" border="0"></td>
+											<td background="http://media.graytvinc.com/designimages/middle-off-004CAC.gif">
+												<a class="topnav" href="http://media.graytvinc.com/documents/kbtxperts.htm">
+												KBTXperts</a>
+											</td>
+											<td><img src="http://media.graytvinc.com/designimages/upper-right-off-004CAC.gif" border="0"></td>
+																				</tr>
+										</tbody></table>
+										</td>
+																	</tr>
+							</tbody></table>
+						</td>
+					</tr>		 
+				</tbody></table>
+				<table border="0" cellspacing="0" cellpadding="0" width="800" class="bodycolor">
+					<tbody><tr valign="top">
+						<td width="130">
+														 <table border="0" cellspacing="0" cellpadding="0" width="100%">
+		<tbody><tr>
+			<td width="100%" height="2"></td>
+		</tr>
+		<tr>
+			<td>
+				<table cellspacing="0" cellpadding="0" width="100%">
+  					<tbody><tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+  					<tr>
+						<td class="navborder" width="1" align="left"></td>
+													<td style="padding: 3px; padding-left: 8px" width="100%" align="left" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff">
+								<a class="nav" href="/">Home</a>
+							</td>
+												<td class="navborder" width="1" align="left"></td>
 					</tr>
+					<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+											<tr>
+							<td class="navborder" width="1" align="left"></td>
+							<td style="padding: 3px; padding-left: 8px" width="100%" align="left" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/news">News</a></td>
+							<td class="navborder" width="1" align="left"></td>
+						</tr>
+					  					<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+  																		<tr>
+								<td class="navborder" width="1" align="left"></td>
+								<td style="padding: 3px; padding-left: 8px" width="100%" align="left" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/news/features/8">News 3 In-depth</a></td>
+								<td class="navborder" width="1" align="left"></td>
+							</tr>
+							  					<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+  					  																		<tr>
+								<td class="navborder" width="1" align="left"></td>
+								<td style="padding: 3px; padding-left: 8px" width="100%" align="left" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/weather">Weather</a></td>
+								<td class="navborder" width="1" align="left"></td>
+							</tr>
+						  					  					
+					<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+  
+											<tr>
+							<td class="navborder" width="1" align="left"></td>
+							<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/sports">Sports</a></td>
+							<td class="navborder" width="1" align="left"></td>
+						</tr>
+					  
+ 																				
+						<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+													<tr>
+								<td class="navborder" width="1" align="left"></td>
+								<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="http://www.txlottery.org" target="_blank">Lottery</a></td>
+								<td class="navborder" width="1" align="left"></td>
+							</tr>
+																	<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+													<tr>
+								<td class="navborder" width="1" align="left"></td>
+								<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/entertainment">Entertainment</a></td>
+								<td class="navborder" width="1" align="left"></td>
+							</tr>
+																<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+										  
 					<tr>
-				<td colspan="3" class="bgon" bgcolor="#999999">
-				<!-- close open_level 1 -->
-			 <div class="dl1on"><a href="/now/section/0,1636,10340-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;<b>HELP</b></font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 1 -->
-			<!-- begin open_level 2 -->
-   			</td></tr>
-			<tr>
-        		<td rowspan="3" width="6" nowrap="" bgcolor="#999999"><div class="nbsp">&nbsp;</div></td>
-	   			<td colspan="2" bgcolor="#000000" width="101" height="1">
-					<table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table>
-				</td>
-			</tr>
-			<tr>
-	    		<td width="1" bgcolor="#000000"><div class="nbsp"><br></div></td>
-        		<td width="101">
-    		<table width="101" cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-			<td colspan="3" width="101" bgcolor="#CCCCCC">
-			<!-- close open_level 2 -->
-			 <div class="dl2off"><a href="/now/story/0,1597,31133-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Browsers</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31142-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Cookies</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31147-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Plug-ins</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31163-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Start Page</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31165-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Multimedia</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,41194-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Shortcuts</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/section/0,1636,10345-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Copyright</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,53940-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Privacy Statement</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 2 -->
-				</td>
-			    </tr>
+						<td class="navborder" width="1" align="left"></td>
+						<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/enews">News 3 NOW!</a></td>
+						<td class="navborder" width="1" align="left"></td>
+					</tr>
+    
+	
+				
+					<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+																							<tr>
+							<td class="navborder" width="1" align="left"></td>
+							<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/station">Station Info/<br> Programming</a></td>
+							<td class="navborder" width="1" align="left"></td>
+						</tr>
+					  
+					<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+  
+											<tr>
+							<td class="navborder" width="1" align="left"></td>
+							<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/station/contact">Contact Us</a></td>
+							<td class="navborder" width="1" align="left"></td>
+						</tr>
+					  
+					<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>  
+  
+																					<tr>
+							<td class="navborder" width="1" align="left"></td>
+							<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/station/jobs">Jobs @ KBTX</a></td>
+							<td class="navborder" width="1" align="left"></td>
+						</tr>
+					    				  
+					  					
+																<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+					<tr>
+						<td class="navborder" width="1" align="left"></td>
+						<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/unclassified/forms/971391.html">Mail Call</a></td>
+						<td class="navborder" width="1" align="left"></td>
+					</tr>
+																	<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+					<tr>
+						<td class="navborder" width="1" align="left"></td>
+						<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/unclassified/971586.html">Coupons</a></td>
+						<td class="navborder" width="1" align="left"></td>
+					</tr>
+																	<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+					<tr>
+						<td class="navborder" width="1" align="left"></td>
+						<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/unclassified/971646.html">Contests</a></td>
+						<td class="navborder" width="1" align="left"></td>
+					</tr>
+																	<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+					<tr>
+						<td class="navborder" width="1" align="left"></td>
+						<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="javascript:openPopup('http://media.graytvinc.com/documents/heroes_page_1.htm','navitempop','');">Heroes From Home</a></td>
+						<td class="navborder" width="1" align="left"></td>
+					</tr>
+																	<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+					<tr>
+						<td class="navborder" width="1" align="left"></td>
+						<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/unclassified/1028091.html">Featured Links</a></td>
+						<td class="navborder" width="1" align="left"></td>
+					</tr>
+																	<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+					<tr>
+						<td class="navborder" width="1" align="left"></td>
+						<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/polls">SpeakOut Poll</a></td>
+						<td class="navborder" width="1" align="left"></td>
+					</tr>
+																	<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
+					<tr>
+						<td class="navborder" width="1" align="left"></td>
+						<td width="100%" align="left" style="padding: 3px; padding-left: 8px" onmouseover="this.style.backgroundColor ='#0046E1'" onmouseout="this.style.backgroundColor ='#004CAC'" class="boxnavoff"><a class="nav" href="/unclassified/1143796.html ">Bonfire Memorial</a></td>
+						<td class="navborder" width="1" align="left"></td>
+					</tr>
+						<tr><td colspan="3" class="navborder" width="100%" height="1"></td></tr>
 				</tbody></table>
-				</td>
+
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" height="5"></td>
+		</tr>
+
+		<tr>
+			<td width="100%">
+				<table cellspacing="0" cellpadding="0" border="0">
+					<tbody><tr><td colspan="3" width="100%" height="1" style="background-color: #000000" <="" td=""></td></tr>
+					<tr>
+						<td style="background-color: #000000" width="1"></td>
+						<td width="100%">
+							<table align="left" class="subnavcolor" width="100%">
+								<form name="search" method="get" action="/searchresults"></form>
+								<tbody><tr>
+									<td width="100%" align="center"><span class="textbold">
+									Search </span>&nbsp;
+																		                   
+									 <img src="http://media.graytvinc.com/designimages/magnifying_glass.gif">   
+									</td>
+								</tr>
+								<tr>
+									<td width="100%"><input type="text" name="searchKeywords" style="width: 120px" maxlength="40"></td>
+								</tr>
+								<tr>
+									<td width="100%">
+										<select name="section" style="width: 120px">
+											<option value="/">All of KBTX</option>
+																						<option value="/entertainment">Entertainment</option>
+											<option value="/home">Home</option>
+											<option value="/station/jobs">Jobs @ KBTX</option>
+																						<option value="/lottery">Lottery</option>
+																						<option value="/news">News</option>
+																						<option value="/recipes">Recipes</option>
+																																	<option value="/sports">Sports</option>
+											<option value="/station">Station Info</option>
+											<option value="/weather">Weather</option>
+										</select>
+									</td>
+								</tr>
+								<tr>
+									<td width="100%"><input type="submit" value="submit"></td>
+								</tr>
+   
+								
+							</tbody></table> 
+						</td>
+						<td style="background-color: #000000" width="1"></td>
+					</tr>
+					
+					<tr><td colspan="3" width="100%" height="2" style="background-color: #000000" <="" td=""></td></tr>
+					
+					
+					<tr>
+						<td style="background-color: #000000" width="1"></td>
+						<td width="100%">
+							<table align="left" class="subnavcolor" width="100%">
+								 <form method="get" name="googlesearch" action="http://www.google.com/search"></form>
+					                <tbody><tr>
+									<td width="100%" align="center">
+									</td>
+								</tr>
+								<tr>
+									<td width="100%">
+										<input type="hidden" name="safe" value="vss"><input type="text" name="q" style="width: 120px" maxlength="255" value=""><br>
+						<a href="http://www.google.com/search?safe=vss">  <img src="http://media.graytvinc.com/designimages/google-white.gif" border="0" alt="Google" width="53" height="21" align="absmiddle"></a>
+						<input type="submit" name="sa" value="Search" style="font-size: 10px">
+									</td>
+								</tr>
+								<tr>
+									<td width="100%"></td>
+								</tr>
+								
+							</tbody></table> 
+						</td>
+						<td style="background-color: #000000" width="1"></td>
+					</tr>
+					<tr><td colspan="3" width="100%" height="1" style="background-color: #000000"></td></tr>
+				</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" height="5"></td>
+		</tr>
+						<tr>
+			<td width="100%" height="5"></td>
+		</tr>
+		<tr>
+			<td width="100%">
+								<table cellspacing="0" cellpadding="0" width="100%" style="margin-top: 1px;margin-bottom: 1px">
+								  <tbody><tr>
+								    <td style="background-color: #000000"></td>
+								    <td width="100%" class="toutheader" align="center">What's On</td>
+								    <td style="background-color: #000000"></td>
+								  </tr>
+								     </tbody></table>
+								    <table cellspacing="0" cellpadding="0" width="100%">
+								  <tbody><tr valign="top">
+								    <td style="background-color: #000000"></td>
+								    <td width="100%" style="padding: 5px" class="subnavcolor">
+											<script src="/whatson" type="text/javascript" language="javascript"> </script>
+											<script type="text/javascript" language="javascript">
+												if(shows){
+													for (i=0; i<shows.length; i++){
+														var thisShow = shows[i];
+														document.write('<div class="whatson">');
+																													document.write('<a class="more" href="/whatson/tonight">');
+																												document.write(getShowStartTime(thisShow)+' '+ getShowTitle(thisShow));
+																													document.write('</a>');
+																												document.write('</div>');
+													}
+												}
+											</script><div class="whatson"><a class="more" href="/whatson/tonight">12:00 NFL Football</a></div><div class="whatson"><a class="more" href="/whatson/tonight">3:00 NFL Today</a></div><div class="whatson"><a class="more" href="/whatson/tonight">3:15 NFL Football</a></div><div class="whatson"><a class="more" href="/whatson/tonight">6:00 60 Minutes</a></div>
+								    </td>
+								    <td style="background-color: #000000"></td>
+								  </tr>
+								  <tr>
+								    <td colspan="3" width="100%" style="background-color: #000000"></td>
+								  </tr>
+								</tbody></table>
+						</td>
+					</tr>
+					
+
+<!-- lefttoutpath: /home/leftcolumn -->
+
+ 	  			<tr>
+   				<td style="padding-bottom: 5px">  
+  				<table cellspacing="0" cellpadding="0" width="100%">
+       			<tbody><tr>
+           			<td colspan="3" width="100%" class="toutborder"></td>
+       			</tr>
+       	       		
+				 					 <tr>
+	<td class="toutborder"></td>
+   	<td width="100%" align="center" class="tout" style="padding-top: 5px;text-align: center">
+   		   		
+	    	      <a href="/unclassified/1108502.html"><img border="0" src="http://media.graytvinc.com/images/bonfire+memorial+dvd+set+copy.jpg"></a>
+		  	</td>
+	<td class="toutborder"></td>
+</tr>
+
+				 				 				 				 				 			   			   			   			   			              <tr>
+             <td colspan="3" width="100%" class="toutborder"></td>
+           </tr>
+			   </tbody></table>
+ 				</td>
+  		</tr>
+
+  	  			<tr>
+   				<td style="padding-bottom: 5px">  
+  				<table cellspacing="0" cellpadding="0" width="100%">
+       			<tbody><tr>
+           			<td colspan="3" width="100%" class="toutborder"></td>
+       			</tr>
+       	       		
+				 					 <tr>
+	<td class="toutborder"></td>
+   	<td width="100%" align="center" class="tout" style="padding-top: 5px;text-align: center">
+   		   		
+	    	      <a href="http://www.kbtx.com/unclassified/1100731.html"><img border="0" src="http://media.graytvinc.com/images/kbtx+120x50.jpg"></a>
+		  	</td>
+	<td class="toutborder"></td>
+</tr>
+
+				 				 				 				 				 			   			   			   			   			              <tr>
+             <td colspan="3" width="100%" class="toutborder"></td>
+           </tr>
+			   </tbody></table>
+ 				</td>
+  		</tr>
+
+  	  			<tr>
+   				<td style="padding-bottom: 5px">  
+  				<table cellspacing="0" cellpadding="0" width="100%">
+       			<tbody><tr>
+           			<td colspan="3" width="100%" class="toutborder"></td>
+       			</tr>
+       	       		
+				 				 				 				 				 			   			   			   		       <tr valign="top">
+		        <td class="toutborder"><img src="http://media.graytvinc.com/designimages/spacer.gif" width="1"></td>
+		        <td width="100%" align="center" class="tout" style="text-align: center">
+			   					   		
+		      	<a href="http://www.texasgasprices.com/gasbuddy_link.asp?link=Texas" target="_blank"><img height="90" src="http://www.texasgasprices.com/gb/Texasgasbuddy.gif" width="120" border="0"></a>
+		       </td>
+		       <td class="toutborder"><img src="http://media.graytvinc.com/designimages/spacer.gif" width="1"></td>
+		       </tr>
+			   			   			              <tr>
+             <td colspan="3" width="100%" class="toutborder"></td>
+           </tr>
+			   </tbody></table>
+ 				</td>
+  		</tr>
+
+  	  			<tr>
+   				<td style="padding-bottom: 5px">  
+  				<table cellspacing="0" cellpadding="0" width="100%">
+       			<tbody><tr>
+           			<td colspan="3" width="100%" class="toutborder"></td>
+       			</tr>
+       	       		
+				 					 <tr>
+	<td class="toutborder"></td>
+   	<td width="100%" align="center" class="tout" style="padding-top: 5px;text-align: center">
+   		   		
+	    	      <a href="http://www.kbtx.com/unclassified/1192856.html"><img border="0" src="http://media.graytvinc.com/images/community_links.jpg"></a>
+		  	</td>
+	<td class="toutborder"></td>
+</tr>
+
+				 				 				 				 				 			   			   			   			   			              <tr>
+             <td colspan="3" width="100%" class="toutborder"></td>
+           </tr>
+			   </tbody></table>
+ 				</td>
+  		</tr>
+
+ 
+</tbody></table>
+
+													</td>
+		
+						<td width="670">
+																					
+																																					
+							<table border="0" cellspacing="0" cellpadding="0" width="670">
+								<tbody><tr valign="top">
+									<td width="3"></td>
+									<td width="666">
+										<table cellspacing="0" cellpadding="0" border="0">
+											<tbody><tr>
+												<td style="padding-left: 5px; padding-right: 10px">&nbsp;</td>
+																																																																		<td><img src="http://media.graytvinc.com/designimages/lower-left-off-004CAC.gif" border="0"></td>
+															<td background="http://media.graytvinc.com/designimages/middle-off-004CAC.gif"><a class="topnav" href="/community">BV Roadtrips </a></td>
+															<td><img src="http://media.graytvinc.com/designimages/lower-right-off-004CAC.gif" border="0"></td>
+																																																								<td><img src="http://media.graytvinc.com/designimages/lower-left-off-004CAC.gif" border="0"></td>
+															<td background="http://media.graytvinc.com/designimages/middle-off-004CAC.gif"><a class="topnav" href="/schools/headlines/971481.html">Classroom Champions </a></td>
+															<td><img src="http://media.graytvinc.com/designimages/lower-right-off-004CAC.gif" border="0"></td>
+																																																								<td><img src="http://media.graytvinc.com/designimages/lower-left-off-004CAC.gif" border="0"></td>
+															<td background="http://media.graytvinc.com/designimages/middle-off-004CAC.gif"><a class="topnav" href="/news/features/4">Health Scene </a></td>
+															<td><img src="http://media.graytvinc.com/designimages/lower-right-off-004CAC.gif" border="0"></td>
+																																																								<td><img src="http://media.graytvinc.com/designimages/lower-left-off-004CAC.gif" border="0"></td>
+															<td background="http://media.graytvinc.com/designimages/middle-off-004CAC.gif"><a class="topnav" href="javascript:openPopup('http://media.graytvinc.com/documents/kbtx_class_of_The_Week.htm','featurepop','');">Class of the Week </a></td>
+															<td><img src="http://media.graytvinc.com/designimages/lower-right-off-004CAC.gif" border="0"></td>
+																																																								<td><img src="http://media.graytvinc.com/designimages/lower-left-off-004CAC.gif" border="0"></td>
+															<td background="http://media.graytvinc.com/designimages/middle-off-004CAC.gif"><a class="topnav" href="/unclassified/1156196.html">Legal Line </a></td>
+															<td><img src="http://media.graytvinc.com/designimages/lower-right-off-004CAC.gif" border="0"></td>
+																																																			
+											</tr>
+										</tbody></table>
+									</td>
+									<td width="1"></td>
+								</tr>
+															</tbody></table>
+							<table border="0" cellspacing="0" cellpadding="0" width="670">
+																<tbody><tr valign="top">
+									<td width="470" style="padding-left: 5px;padding-top: 5px">   
+											<script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r='+Math.random()+'&p=6&c=6500&m=1952&d=72797"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r=0.001104564031594979&amp;p=6&amp;c=6500&amp;m=1952&amp;d=72797"></script>
+ 								    
+										<div style="padding-bottom: 3px"></div>
+								
+
+
+ <!-- startclickprintinclude -->
+ <table border="0" cellspacing="0" cellpadding="0" width="470" style="background-color: #ffffff">
+ 	<tbody><tr>
+		<td colspan="3" class="headercolor"><img src="http://media.graytvinc.com/designimages/spacer.gif" height="1"></td>    
+	</tr>
+	<tr valign="top">
+		<td width="1" class="headercolor"><img src="http://media.graytvinc.com/designimages/spacer.gif" width="1"></td>    
+		<td width="468" valign="top" style="padding: 10px">
+		<!-- startclickprintexclude -->
+			<br>
+			<span class="imware"><script language="javascript1.2">var clickTitle="GRAY TELEVISION GROUP, INC.  PRIVACY POLICY";</script>
+
+
+<!-- BEGIN CLICKABILITY imWARE TOOLS -->
+<!-- Copyright 2001-2004, Clickability, Inc.  All rights reserved.-->
+<center>
+<table><tbody><tr><td width="100%" class="imware">
+<script language="javascript1.2">var partnerID=72797;</script><script language="javascript1.2" src="http://www.clickability.com/includes/button.js"></script><script language="javascript1.2">var _hb=1;	initBtn(1,1,1,1,0,'000066','000066');initSponsor(0,'right',' ','000000',' ',' ',' ');initAlt(1,1,1,1);eval(sponFunc);drawBtn('H',1);</script>
+</td></tr></tbody></table>
+</center>
+<!-- END CLICKABILITY imWARE TOOLS -->
+
+</span>
+			<br>
+		<!-- endclickprintexclude -->
+			<div class="articleheader">
+				GRAY TELEVISION GROUP, INC.  PRIVACY POLICY
+			</div>
+																																<p></p><p>
+									</p><p>
+				        	</p><table border="0" cellspacing="0" cellpadding="0" width="430" style="width:322.5pt;
+ mso-cellspacing:0in;mso-padding-alt:3.75pt 3.75pt 3.75pt 3.75pt">
+  <tbody><tr>
+    <td width="430" style="width:322.5pt;padding:3.75pt 3.75pt 3.75pt 3.75pt">
+      <p>At Gray Television Group, Inc. ("GTGI"), we are committed to protecting the privacy,
+      accuracy and reliability of any personal information you choose to provide
+      and to safeguarding such information from loss, misuse, unauthorized
+      access, disclosure, alteration, and destruction. This privacy policy
+      applies to those websites that are part of the GTGI Network. For a list of
+      those websites, <a href="#sites">click here</a>.</p>
+      <p>Please read this privacy policy carefully. This privacy policy may
+      change from time to time, so please check back often. If you have any
+      questions or comments regarding this privacy policy, please contact us by
+      sending an e-mail message to <a href="mailto:lisa.bishop@gray.tv">lisa.bishop@gray.tv</a>.</p>
+      <p><b>1. Collection of Personal Information</b></p>
+      <p>You do not need to provide any information that identifies you
+      ("personal information") to use a GTGI site or to obtain
+      information from most of the features of a GTGI site. In general, you can
+      visit our websites without telling us who you are or revealing any
+      personal information.</p>
+      <p>However, if you want to use certain online services, you may be asked
+      to provide some personal information, such as your name, mailing address
+      or e-mail address. We also may ask you to choose a user name and password,
+      and provide that information when accessing certain online features. If
+      you do not want to give us any personal information, you can always decide
+      not to use the services. The choice is yours. We are only interested in
+      offering you convenient online services that match your interests and
+      needs.</p>
+      <p>Some examples of when we may request personal information include the
+      following:</p>
+      <p><b>E-News.</b> You can register to receive notifications from GTGI
+      sites about issues of personal interest, such as local weather, traffic
+      and sports information. In order to provide you with these e-mail
+      notifications, we may ask you to provide certain personal information,
+      such as your name and e-mail address.</p>
+      <p><b>Polls.</b> Many GTGI sites offer polling areas, which provide users
+      with an opportunity to vote on local and national issues of concern. When
+      you choose to participate in a poll, we may ask you to provide your name
+      and e-mail address. This information helps us ensure the accuracy of our
+      polling data.</p>
+      <p><b>Surveys.</b> GTGI sites also may allow users to complete surveys
+      about products or services offered by GTGI or other companies. These
+      surveys may ask for your name and e-mail address, and/or other
+      information, such as your gender and income level. This information helps
+      us understand our survey results.</p>
+      <p><b>Contests/Trivia.</b> GTGI sites also afford users many opportunities
+      to play contests or trivia games. When you enter into a contest, trivia
+      game or any other promotional opportunity, we may ask for your name,
+      password information and address (physical and electronic) so that we can
+      contact you if you win. Sometimes we may require you to provide additional
+      information, such as your gender and income level. Of course, if you do
+      not want to provide such information, you do not need to participate in
+      the online activity.</p>
+      <p><b>Purchases.</b> Some GTGI sites enable users to purchase products.
+      When you purchase products, we may request your name, address, telephone
+      number and credit card information. This information allows us to send you
+      the items you ordered, to process payment information, and to respond to
+      product and billing questions.</p>
+      <p><b>Chat/Message Boards.</b> GTGI sites also may offer users the chance
+      to participate in public forums, such as chat rooms, message boards and/or
+      news groups. When you choose to participate in any of these forums, we may
+      request your name, password information and address (physical and
+      electronic). This information helps us respond to questions or concerns
+      about use of these public areas.</p>
+      <p><b>Comments/Questions.</b> You may send us comments or questions about
+      your use of a GTGI site. You need not identify yourself to send a comment
+      or question, but we may collect your e-mail address so that we can send
+      you a response. If you choose to provide other personal information in
+      your comment or question, we may keep it in our correspondence files.</p>
+      <div class="MsoNormal" align="center" style="text-align:center">
+        <hr size="1" width="300" style="width:225.0pt" noshade="" color="gray" align="center">
+      </div>
+      <p>The above list contains some of the instances when a GTGI website may
+      collect your personal information. Please note that many of our websites
+      may offer additional online features and services and may ask you to
+      provide some personal information before permitting you to access those
+      areas. This privacy policy governs the collection of any personal
+      information you provide to a GTGI site that is part of the GTGI Network.</p>
+      <p><b>2. Use and Disclosure of Personal Information</b></p>
+      <p>GTGI sites use your personal information for three general purposes.
+      First, we use the information to provide you with the services you request
+      and to respond to billing and/or other questions related to such service
+      offerings. Second, we use the information to understand your use of our
+      websites and to notify you about updates to one of our sites or to send
+      you marketing materials or promotional offers that may be of interest to
+      you. Third, we may use this information in aggregate form to help us
+      evaluate and modify existing services, and to help us develop additional
+      services that are likely to be of interest to our users.</p>
+      <p>On occasion, GTGI may or one of its network stations may share your
+      personal information with our affiliated advertisers, sponsors and
+      promotional partners. You will have an opportunity to "opt-out"
+      of such sharing a the time of registration for the event or feature, or by
+      contacting the Service at <a href="mailto:lisa.bishop@gray.tv">lisa.bishop@gray.tv</a></p>
+      <p>We may share your personal information with unaffiliated third parties
+      in limited instances. For example, we may share your personal information
+      with unaffiliated third parties as is necessary to process or collect
+      payments, or service registered-user accounts. We also may hire
+      third-party technology providers to host the GTGI Network and to store
+      your personal information.</p>
+      <p>We may also share aggregate, non-personal information about website
+      usage with unaffiliated third parties, including, but not limited to,
+      government agencies, advertisers, and the media (i.e., __% of GTGI users
+      are female, __% of users have visited certain sections, etc.). This
+      aggregate information does not contain any personal information about an
+      individual.</p>
+      <p>Finally, we may be required to disclose personal information by law or
+      legal process, to protect and defend the rights or property of a GTGI
+      site, or to protect the personal safety of users to one of our sites. We
+      also reserve the right to contact appropriate authorities when activities
+      that are illegal or violate our policies are taking place on a GTGI
+      website.</p>
+      <p>Except under the limited circumstances described above, we will not
+      disclose any of your personal information to unaffiliated third parties.</p>
+      <p><b>3. How We Protect Personal Information</b></p>
+      <p>We take reasonable measures to protect the privacy, accuracy, and
+      reliability of any information you choose to provide and to protect such
+      information from loss, misuse, unauthorized access, disclosure,
+      alteration, and destruction. Only authorized employees are permitted to
+      access personal information, and they only may do so for permitted
+      business functions. Any employee who violates our privacy access policies
+      will be subject to disciplinary action.</p>
+      <p><b>4. Accessing or Deleting Your Personal information</b></p>
+      <p>If you have submitted personal information through a GTGI site and you
+      would like to access that information, please send an e-mail to <a href="mailto:lisa.bishop@gray.tv">lisa.bishop@gray.tv</a>.
+      We will use reasonable efforts to supply you with this information and to
+      correct any factual inaccuracies that you identify. Upon your request, we
+      also will remove your personal information from our databases.</p>
+      <p><b>5. Collection, Use and Disclosure of Non-Personal Information</b></p>
+      <p>In some cases, a GTGI site may collect information about you that is
+      not personally identifiable, as described below.</p>
+      <p><b>6. Internet Protocol Addresses</b></p>
+      <p>An Internet Protocol (IP) address is a number automatically assigned to
+      your computer whenever you access the Internet. This number does not
+      identify your name, e-mail address or other personal information. If you
+      request pages from any GTGI website, that site's server will enter your IP
+      address into a log. To maintain user anonymity, GTGI does not associate IP
+      addresses with records containing personal information. We also do not
+      permit IP addresses to be associated and viewed with posts to chat rooms
+      and bulletin boards. We store IP addresses for a period of time to help us
+      to identify anyone who refuses to comply with our in-house rules or terms
+      of service, and to identify visitors who threaten our service, site,
+      customers or others. We also will use this information to measure site
+      traffic for purposes of system administration and for our sponsors. This
+      aggregate data also helps us to understand how people are using the
+      website and helps us improve your online experience.</p>
+      <p><b>7. Cookies</b></p>
+      <p>GTGI sites also automatically gather certain non-personal information
+      through the use of "cookies." "Cookies" are small text
+      files that recognize repeat visitors, facilitate ongoing access to some
+      sites, and allow sites to understand how and when pages are visited and by
+      how many people. We use cookies primarily to make improvements and updates
+      based on which areas are popular and which are not. We also use cookies to
+      ensure the accuracy of our polling data. Except for personal information
+      voluntarily provided by you (i.e., during any registration process), we do
+      not use information transferred through cookies for promotional or
+      marketing purposes, and that information is not shared with third parties.</p>
+      <p>Our advertisers may occasionally place cookies on your computer, which
+      is standard in the Internet industry. Please note that GTGI does not
+      control these cookies, and these cookies are not subject to this privacy
+      policy.</p>
+      <p><b>8. Safeguarding Children's Privacy</b></p>
+      <p>GTGI sites will not knowingly collect personal information or any other
+      identifying data from children under 13 years of age without first
+      obtaining verifiable consent from a parent or legal guardian. Requests for
+      parental consent will explain how we collect, use, and disclose children's
+      personal information, and will include an opportunity for parents to
+      prevent use of their children's information, as well as to prevent their
+      children from participating in features which involve the collection of
+      personal information. Should a child whom we know to be under 13 send
+      personal information to a GTGI site without first obtaining parental
+      consent, the site will immediately delete that information from its
+      database.</p>
+      <p>We will not use, distribute or disclose any child's personal
+      information to third parties without prior parental consent. If, at any
+      time. a parent withdraws his or her consent to our use or maintenance of
+      personal information collected from his or her child, we will promptly
+      remove such information from our database. In addition, we will not
+      require children under 13 years of age to disclose more personal
+      information than is necessary in order to participate in any online
+      feature or service.</p>
+      <p><b>9. External Links</b></p>
+      <p>GTGI sites may provide links to various websites. When you click on one
+      of these links, you will be transferred from a GTGI website and connected
+      to the website of the organization or company that you selected. Even if
+      an affiliation exists between GTGI and a third-party website, GTGI
+      exercises no control over linked sites. Each of these linked sites
+      maintains its own independent privacy and data collection policies and
+      procedures. If you visit a website that is linked to a GTGI site, you
+      should consult that site's privacy policy before providing those sites
+      with any of your personal information.</p>
+      <p><b>10. Framed Websites/Pages</b></p>
+      <p>The Service may also include certain pages that are "framed"
+      and link to third party websites ("Framed Pages"). We provide
+      these Framed Pages as a convenience to our users. A Framed Page may have
+      the same look and feel as other pages on the Service, with a GTGI or
+      network station logo and border, but Framed Pages are often merely
+      gateways to other websites. Even if an affiliation exists between GTGI and
+      a Framed Page, GTGI exercises no control over Framed Pages, and GTGI is
+      not responsible for any content or the privacy policies or data-collection
+      practices of a Framed Page. The privacy policy of the Framed Page, if any,
+      will control your use of, and provision of information to or through, the
+      Framed Page. If you visit a Framed Page, you should consult the Framed
+      Page's privacy policy before providing any personal information.</p>
+      <p><b>11. Terms, Changes and Questions</b></p>
+      <p>By using a GTGI website, you signify your agreement to the terms of our
+      privacy policy. If you do not agree with these terms, please do not use or
+      disclose any personal information through one of our sites.</p>
+      <p>If we decide to change this privacy policy, we will post those changes
+      here so that you will always know what information we gather, how we might
+      use that information, and whether we will disclose it to anyone.</p>
+      <p>If you have any questions or comments about this policy or our use of
+      personal information, you may send an e-mail to <a href="mailto:lisa.bishop@gray.tv.com">lisa.bishop@gray.tv</a>
+      or send a letter to the following address:</p>
+      <p>Gray Television Group, Inc.<br>
+      Attn: Lisa Bishop<br>
+      Manager<br>
+      126 North Washington Street<br>
+      Atlanta, GA 31701</p>
+      <p>We will use reasonable efforts to promptly investigate any complaint
+      you may have regarding our use of personal information.</p>
+      <p><b>GTGI Network Sites:</b></p>
+      <ul type="disc">
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.kwtx.com">www.kwtx.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.kake.com">www.kake.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.kxii.com">www.kxii.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.kbtx.com">www.kbtx.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.kolnkgin.com">www.kolnkgin.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.kolotv.com">www.kolotv.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.kktv.com">www.kktv.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wbko.com">www.wbko.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wcav.tv">www.wcav.tv</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.weau.com">www.weau.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.whsv.com">www.whsv.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wibw.com">www.wibw.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wifr.com">www.wifr.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wilx.com">www.wilx.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wjhg.com">www.wjhg.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.witntv.com">www.witntv.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wowt.com">www.wowt.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wctv6.com">www.wctv6.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wsaw.com">www.wsaw.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wtap.com">www.wtap.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wtok.com">www.wtok.com</a></li>
+        <li class="MsoNormal" style="mso-margin-top-alt:auto;mso-margin-bottom-alt:
+       auto;mso-list:l0 level1 lfo1;tab-stops:list .5in"><a href="http://www.wtvynews4.com">www.wtvynews4.com</a></li>
+      </ul>
+      <p>Copyright © 2004 Gray Television Group, Inc. All rights reserved.</p>
+    </td>
+  </tr>
+</tbody></table>
+					</td>
+		<td width="1" class="headercolor"><img src="http://media.graytvinc.com/designimages/spacer.gif" width="1"></td>    
+	</tr>
+
+<!-- startclickprintexclude -->
+	      
+  <!-- endclickprintexclude -->    
+	<tr>
+		<td colspan="3" class="headercolor"><img src="http://media.graytvinc.com/designimages/spacer.gif" height="1"></td>    
+	</tr>
+
+</tbody></table>
+<!-- endclickprintinclude -->
+<!-- END: STORY -->
+</td>
+								<td width="200" style="padding-left: 5px;padding-top: 5px;padding-right: 3px" valign="top">
+																			<!-- false: false <br /> -->
+		<!-- showWeatherBox: false <br />weatherPosition $weatherPosition <br /> -->
+					
+
+
+
+
+<!-- right tout path: /home/rightcolumn -->
+
+
+<table cellspacing="0" cellpadding="0" width="100%">
+      			  			<tbody><tr>
+   				<td style="padding-bottom: 5px">  
+  				<table cellspacing="0" cellpadding="0" width="100%">
+       			<tbody><tr>
+           			<td colspan="3" width="100%" class="toutborder"></td>
+       			</tr>
+       	       		
+				 					 <tr>
+	<td class="toutborder"></td>
+   	<td width="100%" align="center" class="tout" style="padding-top: 5px;text-align: center">
+   		   		
+	    	      <a href="javascript:playVideoClip('plV303559');"><span id="plV303559" clipid="303559" headline="Evening 90 Sec. Webcast" videotype="v" adtag="Sales - Legal" duration="89100" hostdomain="ww2.KBTX.com"><img border="0" src="http://media.graytvinc.com/images/kbtx_90_webcast.jpg"></span></a>
+		  	</td>
+	<td class="toutborder"></td>
+</tr>
+
+				 				 				 				 				 			   			   			   			   			              <tr>
+             <td colspan="3" width="100%" class="toutborder"></td>
+           </tr>
+			   </tbody></table>
+ 				</td>
+  		</tr>
+
+          	<tr>
+   	<td style="padding-bottom: 5px"><iframe id="wn_frame46890810728072" allowtransparency="true" scrolling="no" width="100%" height="0" marginwidth="0" marginheight="0" frameborder="0" src="http://ww2.kbtx.com/global/category.asp?c=52862&amp;WNResizeIframeID=wn_frame46890810728072&amp;clientType=wn_video_c&amp;WNResizeFileURL=http://www.kbtx.com/video"></iframe>
+</td>
+		</tr>
+		  			  			<tr>
+   				<td style="padding-bottom: 5px">  
+  				<table cellspacing="0" cellpadding="0" width="100%">
+       			<tbody><tr>
+           			<td colspan="3" width="100%" class="toutborder"></td>
+       			</tr>
+       	       		
+				 					 <tr>
+	<td class="toutborder"></td>
+   	<td width="100%" align="center" class="tout" style="padding-top: 5px;text-align: center">
+   		   		
+	    	      <a href="javascript:playVideoClip('plV303930');"><span id="plV303930" clipid="303930" headline="Weekend Weather" videotype="v" adtag="Weather" duration="40200" hostdomain="ww2.KBTX.com"><img border="0" src="http://media.graytvinc.com/images/kbtx_weather_webcast.jpg"></span></a>
+		  	</td>
+	<td class="toutborder"></td>
+</tr>
+
+				 				 				 				 				 			   			   			   			   			              <tr>
+             <td colspan="3" width="100%" class="toutborder"></td>
+           </tr>
+			   </tbody></table>
+ 				</td>
+  		</tr>
+
+          			  			<tr>
+   				<td style="padding-bottom: 5px">  
+  				<table cellspacing="0" cellpadding="0" width="100%">
+       			<tbody><tr>
+           			<td colspan="3" width="100%" class="toutborder"></td>
+       			</tr>
+       	       		
+				 					 <tr>
+	<td class="toutborder"></td>
+   	<td width="100%" align="center" class="tout" style="padding-top: 5px;text-align: center">
+   		   		
+	    	      <img border="0" src="http://media.graytvinc.com/images/KBTX_Header.jpg">
+		  	</td>
+	<td class="toutborder"></td>
+</tr>
+
+				 				 				 				 				 			   			   			   			   			              <tr>
+             <td colspan="3" width="100%" class="toutborder"></td>
+           </tr>
+			   </tbody></table>
+ 				</td>
+  		</tr>
+
+            <tr>
+   <td style="padding-bottom: 5px">  
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr valign="top"> 
+           <td width="100%" align="center" style="text-align: center" class="tout">
+                      	<script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r='+Math.random()+'&p=61&c=6500&m=1952&d=72797"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r=0.2097528087567766&amp;p=61&amp;c=6500&amp;m=1952&amp;d=72797"></script>           
+                    </td>
+        </tr>
+      </tbody></table>
+    </td>
+   </tr>
+  <!-- END: Advertising Tout -->
+           <tr>
+   <td style="padding-bottom: 5px">  
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr valign="top"> 
+           <td width="100%" align="center" style="text-align: center" class="tout">
+                      	<script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r='+Math.random()+'&p=66&c=6500&m=1952&d=72797"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r=0.6667472831776615&amp;p=66&amp;c=6500&amp;m=1952&amp;d=72797"></script>           
+                    </td>
+        </tr>
+      </tbody></table>
+    </td>
+   </tr>
+  <!-- END: Advertising Tout -->
+         			  			<tr>
+   				<td style="padding-bottom: 5px">  
+  				<table cellspacing="0" cellpadding="0" width="100%">
+       			<tbody><tr>
+           			<td colspan="3" width="100%" class="toutborder"></td>
+       			</tr>
+       	       		
+				 				 				 				 				 			   			   			   		       <tr valign="top">
+		        <td class="toutborder"><img src="http://media.graytvinc.com/designimages/spacer.gif" width="1"></td>
+		        <td width="100%" align="center" class="tout" style="text-align: center">
+			   					   		
+		      	<div style="TEXT-ALIGN: left">
+<ul>
+<li><a class="more" href="http://www.kbtx.com/news/features/7/1038046.html">Food for Families</a> 
+</li><li><a class="more" href="/sports/fridayfootball">High School Scoreboard</a> 
+</li><li><a class="more" href="/homeoftheweek">Home of the Week</a> 
+</li><li><a class="more" href="http://www.kbtx.com/unclassified/1176256.html">Deck the House</a> 
+</li><li><a class="more" href="http://www.kbtx.com/unclassified/forms/1064476.html">Tailgate Party Contest</a> 
+</li><li><a class="more" href="http://www.kbtx.com/unclassified/1111046.html">KBTX on DirecTV</a> 
+</li><li><a class="more" href="http://www.kbtx.com/unclassified/1143796.html">Bonfire Memorial</a> 
+</li><li><a class="more" href="http://www.kbtx.com/unclassified/forms/1169486.html">Cavender's Giveaway</a> 
+</li><li><a class="more" href="http://www.kbtx.com/unclassified/1204106.html">Holiday Program Guide</a> 
+</li><li><a class="more" href="http://www.kbtx.com/unclassified/1214296.html">16 Days of Christmas</a> </li></ul></div>
+		       </td>
+		       <td class="toutborder"><img src="http://media.graytvinc.com/designimages/spacer.gif" width="1"></td>
+		       </tr>
+			   			   			              <tr>
+             <td colspan="3" width="100%" class="toutborder"></td>
+           </tr>
+			   </tbody></table>
+ 				</td>
+  		</tr>
+
+            <tr>
+   <td style="padding-bottom: 5px">  
+      <table border="0" cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr valign="top"> 
+           <td width="100%" align="center" style="text-align: center" class="tout">
+                      	<script language="Javascript" type="text/javascript">document.write('<scr'+'ipt language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r='+Math.random()+'&p=131&c=6500&m=1952&d=72797"></scr'+'ipt>');</script><script language="Javascript" type="text/javascript" src="http://ad.clickability.com/ads/ad.js?r=0.9825037235338809&amp;p=131&amp;c=6500&amp;m=1952&amp;d=72797"></script>           
+                    </td>
+        </tr>
+      </tbody></table>
+    </td>
+   </tr>
+  <!-- END: Advertising Tout -->
+   	</tbody></table>
+
+																	</td>
+							</tr>
+						</tbody></table>
+						<br><br>
+					</td>
+				</tr>
+			</tbody></table>
+			<table border="0" cellspacing="0" cellpadding="0" width="800" class="bodycolor">
+
+				<tbody><tr>
+					<td align="center" width="800" class="bottomnav" style="padding-top: 5px; text-align: center"> 
+						<span class="bottomnavbold">Quick Links: </span>
+						<a class="bottomnav" href="/">Home</a> |
+						<a class="bottomnav" href="/news">News</a> |
+						<a class="bottomnav" href="/weather">Weather</a> |
+						<a class="bottomnav" href="/sports">Sports</a> |
+																									<a class="bottomnav" href="http://www.txlottery.org" target="_blank">Lottery</a> |
+												<a class="bottomnav" href="/enews">News 3 NOW!</a> | 
+																		<a class="bottomnav" href="/station">Station Info</a> | 
+						<a class="bottomnav" href="/station/contact">Contact Us</a>
+						| <a class="bottomnav" href="/station/jobs">Jobs @ KBTX</a>
+																					| <a class="bottomnav" href="/unclassified/forms/971391.html">Mail Call</a>
+																												| <a class="bottomnav" href="/unclassified/971586.html">Coupons</a>
+																												| <a class="bottomnav" href="/unclassified/971646.html">Contests</a>
+																												| <a class="bottomnav" href="javascript:openPopup('http://media.graytvinc.com/documents/heroes_page_1.htm','navitempop','');">Heroes From Home</a>
+																												| <a class="bottomnav" href="/unclassified/1028091.html">Featured Links</a>
+																												| <a class="bottomnav" href="/polls">SpeakOut Poll</a>
+																												| <a class="bottomnav" href="/unclassified/1143796.html ">Bonfire Memorial</a>
+																			<br>
+					</td>
 				</tr>
 				<tr>
-			    <td colspan="2" bgcolor="#000000" height="1">
-				<table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table>
-				</td>
-			    </tr>
+					<td align="center" width="800" class="bottomnav" style="padding-top: 5px; text-align: center"> 
+						<span class="bottomnavbold">Featured Sections:</span>
+															<a class="bottomnav" href="/community"> 
+								Calendar 
+								</a>
+								 | 															<a class="bottomnav" href="/schools/headlines/971481.html"> 
+								Classroom Champions 
+								</a>
+								 | 															<a class="bottomnav" href="/community"> 
+								BV Roadtrips 
+								</a>
+								 | 															<a class="bottomnav" href="/news/features/3"> 
+								From the Ground Up 
+								</a>
+								 | 															<a class="bottomnav" href="http://media.graytvinc.com/documents/kbtxperts.htm"> 
+								KBTXperts 
+								</a>
+								 | 															<a class="bottomnav" href="/recipes"> 
+								Christopher's Kitchen 
+								</a>
+								 | 															<a class="bottomnav" href="/unclassified/1156196.html"> 
+								Legal Line 
+								</a>
+								 | 															<a class="bottomnav" href="javascript:openPopup('http://media.graytvinc.com/documents/kbtx_class_of_The_Week.htm','featurepop','');"> 
+								Class of the Week 
+								</a>
+								 | 															<a class="bottomnav" href="/computers101"> 
+								Computers 101 
+								</a>
+								 | 															<a class="bottomnav" href="/news/features/4"> 
+								Health Scene 
+								</a>
+																					<br>
+						<br>
+					</td>
+				</tr>
 				<tr>
-	        <td colspan="3" width="101" bgcolor="#999999">
-			 <div class="dl1off"><a href="/now/eframeset/1,1616,321,00.html?URL=%2Fsitemap%2F0%2C1585%2C321%2C00%2Ehtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;SITE MAP</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/eframeset/1,1616,321,00.html?URL=%2Fnow%2Ffeedback%2F0%2C1611%2C321%2C00%2Ehtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;FEEDBACK</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/eframeset/1,1616,321,00.html?URL=%2Fnow%2Fchange%5Fcity"><font size="1" color="000000" face="arial, helvetica"> &nbsp;CHANGE CITY</font></a></div>
-	 
-	 
-		 <!-- nav_level = 1 curr_level = -1 -->
-				</td>
-			    </tr>
-			
-					<!-- begin open_level 1 -->
-        			<tr>
-					<td colspan="3" width="108" bgcolor="#000000" height="14" align="center" nowrap=""><font face="arial, helvetica" size="1" color="#ffffff" class="navhead">&nbsp; N A V I G A T E &nbsp;</font><br></td>
-					</tr>
-					<tr>
-				<td colspan="3" class="bgon" bgcolor="#CC9933">
-				<!-- close open_level 1 -->
-			 <div class="dl1off"><a href="/now/story/0,1597,238918-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;CALENDAR</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://www.kbtx.com/now/story/0,1597,242287-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;CONTESTS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/eframeset/1,1616,321,00.html?URL=http%3A%2F%2Fenn4%2Eenewsnotifier%2Ecom%2Fwwwroot%2Fkbtx%2F"><font size="1" color="000000" face="arial, helvetica"> &nbsp;ENEWS NOTIFIER</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/story/0,1597,238917-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;FEATURED LINKS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/story/0,1597,37220-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;KBTX FEATURES</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/story/0,1597,213253-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;LATER TODAY</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,600-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;LOCAL GUIDE</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/story/0,1597,241918-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;LOCAL NEWS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/story/0,1597,237422-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;NEWS CREW</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/story/0,1597,236582-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;ONLINE POLL</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/story/0,1597,241148-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;TEXAS NEWS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://www.kbtx.com/now/eframeset/1,1616,321,00.html?URL=http%3A%2F%2Fwww%2Eaccuweather%2Ecom%2Fadcbin%2Flocal%5Findex%3Fpartner%3Dkbtx%26amp%3Bzipcode%3D77802"><font size="1" color="000000" face="arial, helvetica"> &nbsp;WEATHER</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://www.kbtx.com/now/story/0,1597,285159-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;WHAT'S ON</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,100-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;-------------------------</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,200-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;CBS NEWS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://www.cbs.com"><font size="1" color="000000" face="arial, helvetica"> &nbsp;CBS SHOWS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,204-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;HEALTH</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,525-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;HOROSCOPE</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,500-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;LIFE</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://store.cbs.com/"><font size="1" color="000000" face="arial, helvetica"> &nbsp;SHOPPING</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://cbs.marketwatch.com"><font size="1" color="000000" face="arial, helvetica"> &nbsp;MONEY</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,207-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;SHOWBIZ</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,400-321,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;SPORTS</font></a></div>
-	 </td></tr><tr><td colspan="3" height="11">
-<img src="http://a1800.g.akamai.net/7/1800/121/918654841/newsimages.cbsig.net/common/images/elements/nav_cap.gif" width="108" height="11" hspace="0" vspace="0" border="0"><br>
-</td></tr>
-</tbody></table>
-
-<br><br><center>
-
-			<a href="http://ad.doubleclick.net/jump/network.now.com/kbtx;tile=1;sec=10340;sz=100x54;ord=247372485?" target="_blank">
-			<img src="http://ad.doubleclick.net/ad/network.now.com/kbtx;tile=1;sec=10340;sz=100x54;ord=247372485?" align="top" width="100" height="54" border="0"></a>
-		</center> </td>
-	<td width="502" valign="top" nowrap="">
-
-	<table width="502" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-    	<td rowspan="3" width="6" nowrap=""></td>
-    	<td nowrap="" height="6"></td>
-	</tr>
-	<tr>
-    	<td width="468" height="60">
-		 <script language="javascript">
-var affiliate1 = 'KBTX';
-var section = 'sec=' + 10340 +';';
- var ordNumber = 'ord=' + generateOrd() + '?';
-document.write(getEnhancedAd(468,60,2,'split'));
- 
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/network.now.com/kbtx;tile=2;sec=10340;sz=468x60;ord=1580371218542?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" align="top"><A HREF="http://ad.doubleclick.net/jump/network.now.com/kbtx;tile=2;sec=10340;sz=468x60;ord=1580371218542?"><IMG src="http://ad.doubleclick.net/ad/network.now.com/kbtx;tile=2;sec=10340;sz=468x60;ord=1580371218542?" align="top" width=468 height=60 border=0></A><BR></iframe></nolayer><ilayer id="topbanner" visibility="hidden" width="width=468" height="60"></ilayer>
-		</td>
-	</tr>
-	<tr>
-    	<td nowrap="" height="6"></td>
-	</tr>
-	</tbody></table>
-<!-- Vignette StoryServer 4 Thu May 10 06:19:02 2001 -->
- <table width="502" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-        <td rowspan="2" width="6" nowrap=""> </td>
-    <td bgcolor="#FFCC33" width="441" height="19" nowrap="">
-	       <nobr>&nbsp;&nbsp;
-
-
-	<a href="/now/section/0,1636,10340-321,00.shtml"><b><font face="Arial" size="3" color="#996600" class="link">HELP</font></b></a> </nobr>
-        </td>
-        <td width="55" bgcolor="#FFCC33" valign="top" align="right">
-        <img src="http://a1800.g.akamai.net/7/1800/121/918654800/newsimages.cbsig.net/common/images/elements/cbs_FFCC33.gif" width="55" height="19" hspace="0" vspace="0" border="0" alt="CBS"><br>
-        </td>
-</tr>
-<tr>
-    <td colspan="2" height="1" bgcolor="#000000"><table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td>
-</tr>
-</tbody></table><table width="502" cellspacing="0" cellpadding="0" border="0" align="left">
-<tbody><tr>
-    <td width="6" nowrap="">&nbsp;</td>
-    <td width="370" valign="top">
-
-<table cellpadding="0" cellspacing="0" border="0" width="370">
-<tbody><tr>
-<td nowrap="" height="10"> </td>
-</tr>
-<tr>
-<td align="left" valign="top"><font size="5" face="arial, helvetica" color="#333333"><b>CBS.com Privacy Statement</b></font></td>
-</tr>
-<tr>
-<td nowrap="" height="5"> </td>
-</tr>
-
-<tr>
-<td><ul><font color="#333333" face="Times New Roman" size="3">
-	<i>
-		 </i>
-	</font>
-</ul></td>
- 
-</tr>
-
-<tr>
-<td nowrap="" height="10"> </td>
-</tr>
-<tr>
- 
-<td align="left"><font size="1" font="" face="arial,helvetica"><b></b>
-<br>Tuesday, April 17, 2001 - 04:48 PM ET</font></td>
-</tr>
-<tr>
-<td nowrap="" height="5"> </td>
-</tr>
-<tr>
-<td valign="top">
-<font size="2" face="verdana, arial, helvetica"><b>(CBS)</b>&nbsp;We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the cbs.com Privacy Coordinator by email at  <a href="mailto:privacy@cbs.com">privacy@cbs.com</a>. You may also send inquiries by mail to: 
-<br>
-<br><b>Privacy Coordinator
-<br>CBS.com (555/13)
-<br>524 West 57th Street
-<br>New York, New York 10019</b>
-<br>
-<br>We reserve the right to change our policy from time to time as we deem appropriate in our sole discretion.
-<br> 
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>KINDS OF INFORMATION</b></font>
-<br>There are two kinds of information Web sites can obtain about you: 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="2" color="#336699">AGGREGATE INFORMATION</font>: Aggregate Information is anonymous data that Web sites use to diagnose problems on the sites' servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="2" color="#336699">PERSONALLY IDENTIFIABLE INFORMATION</font>: Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online or subscribe to an email newsletter. Other times, web sites collect this information to help target advertising and marketing. 
-<br>
-<br>We collect Aggregate Information - such as your IP address (a number that's automatically assigned to your computer whenever you're surfing the Internet), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. We share Aggregate Information with third parties for advertising and promotional purposes.  None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>COOKIES</b></font>
-<br>
-<br>We use <a href="/now/story/0,1597,31142-321,00.shtml">cookies</a> to remember your zip code so that you can maintain a customized view of CBS.com showing your city's CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, chat rooms and contests to limit multiple responses and registrations. 
-<br>
-<br>We will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. We do not use information transferred through cookies for any promotional or marketing purposes.
-<br>
-<br>You may occasionally get cookies from our advertisers and our vendors. We do not control these cookies, and these cookies are not subject to our privacy policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
-<br>
-<br>Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the polls, surveys, contest, and game areas, will not function properly if you do so. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SURVEYS AND REGISTRATION FORMS</b></font> 
-<br>
-<br>Sometimes CBS.com posts surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information: 
-<br>
-<br>To send you information about CBS and this Web site
-<br>To give to our content partners, who may send you promotional material
-<br>To give to our advertisers, who may send you information about their products and services
-<br>
-<br>The choice is yours - you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates.
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CONTESTS AND SWEEPSTAKES</b></font>
-<br>
-<br>From time to time CBS.com runs contests and sweepstakes in which we ask for Personally 
-<br>Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect: 
-<br><ul>
-<br><li type="1">To notify you if you are a winner</li>
-<br><li type="1">To send you information about CBS and our site</li>
-<br><li type="1">To give to content partners, who may send you promotional email</li>
-<br><li type="1">To give to advertisers, who may send you emails about their products and services</li></ul>
-<br>We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates.
-<br>
-<br>If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the Site unless you give us your permission. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>OPT OUT</b></font>
-<br>
-<br>If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don't want us to share the information or if you don't want to receive promotional and/or marketing information about products, services, and offerings from CBS.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SUBPOENAS AND LAW ENFORCEMENT AGENCIES</b></font>
-<br>
-<br>We reserve the right to cooperate with government and law enforcement agencies engaged in investigations of activities that are, or are believed to be, illegal.  Further, we may share your Personally Identifiable Information with such agencies if we believe that a crime or any act that endangers the health and safety of others may have been or may be committed.  We may also share your Personally Identifiable Information in response to an appropriate subpoena. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>COMMUNITY AND PUBLIC AREAS</b></font>
-<br>
-<br>Information posted to message boards or chat areas is available to the general public.  Please use caution when posting any such information.  Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. We reserve the right to, but are not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. Please see our Terms of Service for additional information.
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>FEEDBACK AND EMAIL</b></font>
-<br>
-<br>On every page at CBS.com there is a link to a <a href="javascript:openWin();">"feedback"</a> email form so you can comment, complaint, make suggestions, and ask questions.  Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way.  We may also track your browser type and referring URL to better diagnose technical issues you may be having.  We do not share this information with third parties and we will use it only to answer your correspondence.
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CBS-TV AFFILIATES</b></font> 
-<br>CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be "branded" to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. 
-<br>
-<br>Some of our affiliates provide their own content, such as local news stories. This content may be mixed with the content we produce. And some affiliates sell ads or run contests that will appear on their branded sites only.
-<br>
-<br>We are not responsible for content or contests posted by our affiliates or for the use of any information that an affiliate may collect.
-<br>
-<br>We use reasonable efforts to require that all content on our site conforms to our privacy policy. But we do not control, and we are not responsible for, the content or privacy policies of our affiliates. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>LINKS TO OTHER SITES</b></font>
-<br>
-<br>When you visit our site, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave our site. This includes links to sites operated by advertisers, sponsors and partners that may use our logo as part of an agreement with us. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to our privacy policy and we are not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect. 
-<br> 
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CBS STORE</b></font>
-<br>
-<br>The CBS Store uses a third-party fulfillment house to accept orders for CBS products purchased online. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders or for billing questions when necessary. However, neither CBS nor the fulfillment house shares this information with third parties. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>DELETING OR MODIFYING YOUR INFORMATION</b></font>
-<br>
-<br>If you've given us Personally Identifiable Information in the past and then have second thoughts or want to update it, here are your choices:
-<br>
-<br>Email to <a href="mailto:privacy@cbs.com">privacy@cbs.com</a>.
-<br>
-<br>Regular mail to:
-<br>
-<br><b>Privacy Coordinator
-<br>CBS.com (555/13)
-<br>524 West 57th Street
-<br>New York, New York 10019</b>
-<br>
-<br>Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above and we've already passed it on, we cannot delete or change the information. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SECURITY OF PRIVATE INFORMATION</b></font>
-<br>
-<br>Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at <a href="/now/section/0,1636,100-321,00.shtml">CBS.com</a>, to protect your information from theft, misuse and alteration.
-<br>
- </font></td></tr><tr><td nowrap="" height="10"> </td></tr><tr><td><font face="arial,helvetica" size="-2"></font></td></tr><tr><td height="10"></td></tr>
-
-
-</tbody></table>
-
- <!-- BEGIN FOOTER OBJECT -->
-
-<br>
-	<table width="370" cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td nowrap="" width="15" bgcolor="#999999" rowspan="2" height="15"><a href="#top"><img width="9" src="http://a1800.g.akamai.net/7/1800/121/918654794/newsimages.cbsig.net/common/images/elements/arrow_top.gif" height="7" hspace="3" border="0"></a></td>
-			<td valign="top" width="355" height="14" nowrap="">
-			<a href="#top" style="TEXT-DECORATION: none"><font color="#000000" face="arial, verdana, helvetica" size="2">&nbsp;back to top</font></a>
-			<br>
-			</td>
-		</tr>
-		<tr>
-			<td bgcolor="#cccccc" height="1">
-				<table width="355" cellspacing="0" cellpadding="0" border="0" height="2">
-					<tbody><tr>
-						<td>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" bgcolor="#000000" height="1">
-				<table width="370" cellspacing="0" cellpadding="0" border="0" height="1">
-					<tbody><tr>
-						<td>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" align="middle">
-				<br>
-				<a href="/now/section/0,1636,100-321,00.shtml" target="_top"><img width="83" src="http://a1800.g.akamai.net/7/1800/121/925508327/newsimages.cbsig.net/common/images/elements/footer_logo.gif" alt="CBS.com" height="70" hspace="0" border="0"></a><br>
-				<font face="arial,helvetica" size="1">
-				
-					
-						©2001, CBS Worldwide Inc. &amp; KBTX-TV, Inc., All Rights Reserved.
-					  </font><br>
-				<font face="arial,helvetica" size="1">
-				<a href="/now/story/0,1597,284172-321,00.shtml" target="_top">Advertise With Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="/now/section/0,1636,10345-321,00.shtml" target="_top">Copyright Information</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="/now/story/0,1597,53940-321,00.shtml" target="_top">Privacy Statement</a> </font>
-				<br>
-				<br>
-			</td>
-		</tr>
-		 </tbody></table>
-<!-- END FOOTER OBJECT --> </td>
-    <td width="6" nowrap="">&nbsp;</td>
-    <td width="120" valign="top" align="center" bgcolor="#dddddd">
-
- </td>
-</tr>
-</tbody></table>
-
-</td>
-</tr>
-</tbody></table>
+					<td align="center" width="800" class="subnavcolor" style="padding-top: 5px; text-align: center">
+																		<a class="legallinks" href="/unclassified/666.html">Terms of Use</a> |
+						<a class="legallinks" href="/unclassified/647.html">Privacy Policy</a> 
+											   							
+						| <a class="legallinks" href="http://media.graytvinc.com/documents/KBTX_EEO_Public_File_Report.htm">EEO</a>
+												<br>
+						<a class="legallinks" href="http://www.graycommunications.com" target="_blank">Gray Television Group, Inc.</a>
+						<br>
+						Copyright © 2002-2004
+	      				<br><br>
+	      				Designed and Powered by <a class="legallinks" href="http://www.clickability.com" target="_blank">Clickability</a>
+						<br>
+						<br>
+					</td>
+				</tr>
+			</tbody></table>
+</center>
 	
 
 
-
-
-<script language="javascript">
-var affiliate1 = 'KBTX';
-document.write(getEnhancedLayer(468,60,2,'split'));
- 
-</script><layer src="http://ad.doubleclick.net/adi/kbtx.now.com/kbtx;tile=2;sec=10340;sz=468x60;ord=1580371218542?" width="468" height="60" visibility="hidden" onload="moveToAbsolute((topbanner.pageX), (topbanner.pageY)); clip.width=468; clip.height=60; visibility='show';"></layer>
 
 </body></html>
