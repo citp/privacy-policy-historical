@@ -1,21 +1,89 @@
-> *The following text is extracted and transformed from the weather.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619133902id_/http%3A//www.weather.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201230400id_/http%3A//www.weather.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # weather.com - The Weather Channel Privacy Statement
 
-If you have questions about this statement or would like to modify your contact information or personal preferences, please [e-mail us](https://web.archive.org/aboutus/talk/privacy.html). If we have not responded to your inquiry or your inquiry has not been satisfactorily addressed within 5 business days, please contact TRUSTe (<http://www.truste.org/users/users_watchdog.html>). 
+  1. What personally identifiable information of yours or third party personally identifiable information is collected from you.
+  2. The organization collecting the information.
+  3. How the information is used.
+  4. With whom the information may be shared.
+  5. What choices are available to you regarding collection, use and distribution of the information.
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under The Weather Channel’s control.
+  7. How you can correct any inaccuracies in the information.
 
-**Overview**   
-The Weather Channel collects personally identifiable information (name, e-mail address, etc.) and/or demographic data (zip code, gender, interests, etc.) that you submit when you: 1) register for our services, 2) complete a survey, 3) register for a promotion, contest, or sweepstakes, 4) make a purchase from our online store, or 5) send us an email. We and/or our 3rd party partners may use this information to process and maintain your account, compile demographic statistics about our users, and display to you information and advertisements that match your interests and profile. 
 
-Credit card information will be provided to third parties only to provide products and services that you order. We may use the contact information you provide to contact you about your account and/or to send you necessary information directly related to the product(s) or service(s) for which you have registered. With your permission, we may use your contact information to inform you of new features and special offers from The Weather Channel. We will not provide your contact information to unaffiliated third parties without your express permission. As part of the registration process, you have the option to inform us that you do not wish to receive information about other special offers and promotions. 
 
-**IP Addresses and Cookies**   
-The Weather Channel uses IP addresses (random numbers assigned to individual computers) to help diagnose problems with our servers, administer our web site, and anonymously track content preferences and traffic patterns. We also use cookies (small text files transferred from our Web site to your hard drive) to recognize repeat users, track usage behavior, and facilitate your access to and use of our site. Cookies do not damage files or allow anyone to access your personally identifiable information – they simply allow us to tailor information and advertisements to make your visits more enjoyable and meaningful (and enable us to provide you with personalized weather information, if you choose). They also provide information to us about site usage to help us improve and update our site. We may share aggregate (not individual) site usage statistics and demographic information with advertisers and other third parties, but this information will not include any personally identifiable information. 
+If you have questions or concerns regarding this statement or would like to modify your contact information or personal preferences, please send us an [e-mail message](https://web.archive.org/aboutus/talk/privacy.html). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed within five business days, you should then contact TRUSTe ([http://www.truste.org](http://www.truste.org/)). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-**Security and Links**   
-The security of the information you provide to The Weather Channel is important to us. We use encryption software and other security measures to protect the loss, misuse, and alteration of sensitive information under our control. However, the Weather Channel’s site includes links to other sites, and when you choose to visit those sites, we are not responsible for their privacy policies or how they treat user information. In addition, we may permit third parties to offer registration-based services through our site. We are not responsible for the actions and policies of these third parties, and you should review the privacy policies of these parties when supplying personally identifiable information to them. 
+##### Information Collected
 
-**Additional Information**   
-The Weather Channel reserves the right to alter our Privacy Policy as business needs require. Any changes will be posted to our web site in a timely manner. This statement and the policies outlined here are not intended to and do not give you any contractual or other legal rights. 
+The Weather Channel collects personally identifiable information (name, e-mail address, etc.) and demographic data (zip code, gender, interests, etc.) provided by you when you:
 
-**To return to weather.com, close this window.**
+  * Register for our services 
+  * Complete a survey 
+  * Register for a promotion, contest or sweepstakes 
+  * Make a purchase from our online store, or 
+  * Send us an e-mail message.
+
+
+
+You are not required to disclose any personally identifiable information to us, although portions of our Web site may be unavailable to you without such information. 
+
+**
+
+How We Use Information
+
+**
+
+We use the information you provide to process and maintain your account, compile demographic statistics about our users and display information and advertisements that match your interests and profile.
+
+We may also use the information you provide to contact you about your account or to send you necessary information directly related to the products or services you have requested. We share personally identifiable information with our third party partners where necessary to process the services you have requested; for instance, if you request e-mail notifications, we will share the information necessary to send those notifications with our e-mail service partner.
+
+With your permission, we may use your contact information to inform you of new features and special offers from The Weather Channel. As part of the registration process, you have the option to inform us if you do not wish to receive information about special offers and promotions.
+
+****
+
+**We will not provide your contact information to unaffiliated third parties without your express permission.** Credit card information will be shared with third parties only as necessary to provide products and services that you request. 
+
+**
+
+Children’s Privacy
+
+**
+
+The Weather Channel is committed to protecting the safety and privacy of young people using the Internet. We do not knowingly collect personally identifiable information about children and believe that children should get their parents' consent before giving out any personal information.
+
+Our Web site may contain links to third party Web sites geared to children. The linked sites are not under the control of The Weather Channel. We are not responsible for the contents of any linked site or any link contained in a linked site, nor are we responsible for the privacy policies relative to children on those linked sites. We strongly encourage parents to review the privacy policies of all linked sites.
+
+****
+
+**IP Addresses and Cookies**
+
+The Weather Channel uses IP addresses (random numbers assigned to individual computers) to help diagnose problems with our servers, administer our Web site and anonymously track content preferences and traffic patterns. We also use cookies (small text files transferred from our Web site to your hard drive) to recognize repeat users, track usage behavior and facilitate your access to and use of our site. Cookies do not damage files or allow anyone to access your personally identifiable information – they simply allow us to tailor information and advertisements to make your visits more enjoyable and meaningful (and enable us to provide you with personalized weather information, if you choose). They also provide information to us about site usage to help us improve and update our site. We may share aggregate (not individual) site usage statistics and demographic information with advertisers and other third parties, but this information will not include any personally identifiable information.
+
+****
+
+**Security and Links**
+
+The security of the information you provide to The Weather Channel is important to us. We use encryption software and other security measures to protect the loss, misuse and alteration of sensitive information under our control. However, The Weather Channel’s site includes links to other sites, and when you choose to visit those sites, we are not responsible for their privacy policies or how they treat user information. In addition, we may permit third parties to offer registration-based services through our site. We are not responsible for the actions and policies of these third parties, and you should review the privacy policies of these parties when supplying personally identifiable information to them.
+
+**
+
+Making Changes
+
+**
+
+To make changes to your preferences, update your personally identifiable information, unsubscribe to any e-mail subscriptions or to opt-out of any services, please [contact us](https://web.archive.org/aboutus/talk/privacy.html) directly. 
+
+****
+
+**Additional Information**
+
+The Weather Channel reserves the right to alter our Privacy Policy as business needs require. Any changes to this policy will be posted on our Web site in a timely manner. This statement and the policies outlined here are not intended to and do not give you any contractual or other legal rights. 
+
+All Personally Identifiable Information and/or Third Party Personally Identifiable Information is subject to disclosure (i) pursuant to judicial or other government subpoenas, warrants, or orders, (ii) where otherwise required by law, or (iii) where The Weather Channel believes our property or an individual's safety or security is at risk.
+
+**
+
+To return to weather.com, close this window.
+
+**
