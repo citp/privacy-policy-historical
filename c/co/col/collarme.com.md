@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collarme.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204023548id_/http%3A//www.collarme.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collarme.com privacy policy that was archived on 2005-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050314035811id_/http%3A//www.collarme.com/privacy.asp) for the most accurate reproduction.*
 
 # CollarMe.com - Free BDSM Personals and Chat
 
