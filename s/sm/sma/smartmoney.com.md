@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartmoney.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207082300id_/http%3A//smartmoney.com/policies/index.cfm%3Fstory%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartmoney.com privacy policy that was archived on 2001-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010625071922id_/http%3A//www.smartmoney.com/policies/index.cfm%3Fstory%3Dprivacy) for the most accurate reproduction.*
 
-# Smartmoney.com: : Privacy Statement
+# Smartmoney.com: Policies: Privacy Statement
 
 SmartMoney.com Privacy Statement
 
