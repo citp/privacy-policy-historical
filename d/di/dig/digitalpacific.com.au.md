@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208145207id_/http%3A//www.digitalpacific.com.au/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalpacific.com.au privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/privacy.php) for the most accurate reproduction.*
 
 # Digital Pacific Web Hosting
 
@@ -6,19 +6,19 @@
 ---  
 **»**   | 
 
-[Compare Plans](https://web.archive.org/web/20021208145207id_/http%3A//www.digitalpacific.com.au/hosting.php)  
+[Compare Plans](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/hosting.php)  
   
 **»**   | 
 
-[Forums](https://web.archive.org/web/20021208145207id_/http%3A//www.digitalpacific.com.au/forum/)  
+[Video Tutorials](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/tutorials.php) NEW !  
   
 **»**   | 
 
-[E-Commerce](https://web.archive.org/web/20021208145207id_/http%3A//www.digitalpacific.com.au/ecomm.php)  
+[E-Commerce](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/ecomm.php)  
   
 **»**   | 
 
-[Support](https://web.archive.org/web/20021208145207id_/http%3A//www.digitalpacific.com.au/support.php)  
+[Support](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/support.php)  
   
 **»**   | 
 
@@ -26,7 +26,7 @@
   
 **»**   | 
 
-[Contact Us](https://web.archive.org/web/20021208145207id_/http%3A//www.digitalpacific.com.au/contact.php)  
+[Contact Us](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/contact.php)  
   
   
 | 
@@ -34,7 +34,7 @@
 Make $$$ through our affiliate program   
   
 ---|---  
-[](https://web.archive.org/web/20021208145207id_/http%3A//www.digitalpacific.com.au/affiliates.php)   
+[](https://web.archive.org/web/20030412202445id_/http%3A//www.digitalpacific.com.au/affiliates.php)   
 
 
 Digital Pacific Privacy Statement
