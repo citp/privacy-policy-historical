@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the davidbach.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608205436id_/http%3A//www.davidbach.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidbach.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208032150id_/http%3A//davidbach.com/privacy.html) for the most accurate reproduction.*
 
 # Finish Rich - David Bach
 
 **Privacy Statement and Policy**
 
-David Bach and FinishRich take your privacy seriously. Please read the following to learn more about our Privacy Policy. To learn more about our other website policies, please read our [Terms of Use](https://web.archive.org/web/20020608205436id_/http%3A//www.davidbach.com/termsofuse.html). 
+David Bach and FinishRich take your privacy seriously. Please read the following to learn more about our Privacy Policy. To learn more about our other website policies, please read our [Terms of Use](https://web.archive.org/web/20021208032150id_/http%3A//davidbach.com/termsofuse.html). 
 
 **What this Privacy Policy Covers**
 
