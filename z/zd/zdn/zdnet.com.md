@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the zdnet.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202154222id_/http%3A//www.cnet.com/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnet.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627083451id_/http%3A//www.cnet.com/html/aboutcnet/editorial/privacy.html) for the most accurate reproduction.*
 
 # Editorial Center - CNET Networks.com
 
 |    
 |  |    
 **Privacy policy**  
-CNET Networks, Inc. is the world's leading source of information and services for buyers, sellers and suppliers of technology, including IS/IT professionals, enterprise decision makers, executives, gamers and technology shoppers. A company with established Web sites throughout the United States, Europe and Asia, CNET Networks provides its award-winning content via the Web, wireless devices, broadband, radio and print. Our respected brand portfolio includes CNET, ZDNet, TechRepublic, mySimon, News.com, Download.com, GameSpot, Builder.com, Shopper.com, _Computer Shopper Magazine_ , and CNET Channel. For more information about the company, go here: <http://www.cnetnetworks.com/>. 
+CNET Networks, Inc. is the world's leading source of information and services for buyers, sellers and suppliers of technology, including IS/IT professionals, enterprise decision makers, executives, gamers and technology shoppers. A company with established Web sites throughout the United States, Europe and Asia, CNET Networks provides its award-winning content via the Web, wireless devices, broadband, radio and print. Our respected brand portfolio includes CNET, ZDNet, TechRepublic, mySimon, News.com, Download.com, GameSpot, Builder.com, Shopper.com, EDventure.com, _Computer Shopper Magazine_ , and CNET Channel. For more information about the company, go here: <http://www.cnetnetworks.com/>. 
 
 This privacy policy applies to the U.S. operations of all brands and services within the CNET Networks family.
 
@@ -49,7 +49,7 @@ We will make your personally identifiable information available to other compani
   * We have your consent to share the information 
   * We have engaged companies to work with us or on our behalf to provide a product or service that you have requested, such as opt-in e-mail announcements 
   * You use co-branded services. When you use a co-branded service within our network of sites you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies. 
-  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, CNET Networks' [Terms of Use](https://web.archive.org/web/20031202154222id_/http%3A//www.cnet.com/aboutcnet/editorial/terms.html) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
+  * We respond to subpoenas, court orders, or legal process; or we believe that your actions violate applicable laws, CNET Networks' [Terms of Use](https://web.archive.org/web/20040627083451id_/http%3A//www.cnet.com/html/aboutcnet/editorial/terms.html) or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others 
 
 _Aggregate information_  
 We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
