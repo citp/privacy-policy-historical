@@ -1,24 +1,61 @@
-> *The following text is extracted and transformed from the bizjournals.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202015100id_/http%3A//www.bizjournals.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizjournals.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204185913id_/http%3A//bizjournals.bcentral.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - bizjournals.com
 
-The American City Business Journals web site is maintained by American City Business Journals, 120 South Morehead St., Suite 400, Charlotte, NC 28202. We can be reached by email at [info@amcity.com](mailto:info@amcity.com). 
+**Last revised November 16, 2001**
 
-**How American City Business Journals uses information provided by you:** This site does not collect personally identifying information about individuals except when specifically and knowingly provided by such individuals. A user's personally identifying information may be used by American City Business Journals for editorial purposes. American City Business Journals may also use such information for marketing and promotional purposes and may share the information with companies that it has pre-screened. Individuals may request that their information not be used for commercial purposes by contacting American City Business Journals. 
+Kids and parents click here!
 
-A user's personally identifying information will not be transferred to any other party unless otherwise stated at the time of collection. While American City Business Journals will seek to require third parties with whom it has agreements to follow appropriate privacy policies, American City Business Journals does not bear any responsibility for any actions or policies of such third parties. 
+In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/web/20011204185913id_/http%3A//bizjournals.bcentral.com/user_agreement.html). Your use of Bizjournals.com constitutes agreement to its terms and conditions. 
 
-American City Business Journals web site users should be aware that when they voluntarily disclose personal information (e.g., user name, email address) on areas of the American City Business Journals web site, such as Internet Directory, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. 
+Bizjournals.com is produced by American City Business Journals. This policy does not cover information collected on sites linked to or from Bizjournals.com. 
 
-While your personally identifying information is protected as outlined above, we sometimes collect anonymous aggregated data and provide it to our advertisers for statistical purposes. For example, we might report to advertisers that a certain percentage of users are between the ages of 35 and 45. 
+This Privacy Policy may be modified from time to time; the date of the most recent revision will appear on this page, so check back often. Continued access of Bizjournals.com by you will constitute your acceptance of any changes or revisions to the Privacy Policy. 
 
-**Cookies:** American City Business Journals may place a "cookie" in your browser files of an American City Business Journals web site user's computer. The cookie itself does not contain any personally identifying information although it will enable American City Business Journals to relate a user's use of American City Business Journals' web site to information that the user has specifically and knowingly provided to American City Business Journals. If you link to our advertisers, you also may occasionally get cookies from them. American City Business Journals does not control these cookies and these cookies are not subject to this policy. The use of advertising cookies sent by third-party servers is common in the Internet industry. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some portions of American City Business Journals' web site will not function properly if you do so. 
+It is the goal of Bizjournals.com to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site. 
 
-**Kids:** Be sure to ask your parents for permission before you send any information about yourself (your name, address, email address, etc.) to us or anyone else over the Internet, and before making any purchases online. 
+### THE TYPE OF INFORMATION BIZJOURNALS.COM COLLECTS
 
-**Parents:** We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating. Any personally identifying information collected by American City Business Journals from children (that we are aware are children) will only be used for American City Business Journals' internal purposes such as market research and sweepstakes fulfillment, and may sometimes be included in our database. However, such information will not be posted or published by us, or provided to any third parties, without your prior consent. Additionally, **anonymous** aggregated data is sometimes provided to our advertisers for statistical purposes as described above. Finally, you should be aware that if your child voluntarily discloses his name, email address, etc. on various bulletin boards or chat areas, such disclosure may result in unsolicited messages from other parties. Accordingly, you should discourage your child from doing so. 
+Bizjournals.com generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our newspapers, or register for any portion of our services, you are asked to provide information, such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested. 
 
-Cookies placed by American City Business Journals for use throughout American City Business Journals' web site will not be used to collect information in areas within American City Business Journals that are geared to children. If you have any concerns, do not hesitate to contact us at the above email address. 
+### HOW BIZJOURNALS.COM USES INFORMATION PROVIDED BY YOU
+
+Bizjournals.com uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your newspaper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your neeeds. 
+
+Bizjournals.com does not sell any of our users' personal information. We may however, share information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [info@bizjournals.com](mailto:info@bizjournals.com). If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained with the e-mail. If you are registered on any part of Bizjournals.com, you may also change or updated your member preferences or information with any section of the site where you have signed up, registered or created any type of account. 
+
+We also allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. And if you choose to purchase items through features on our site, we may forward your information to third parties for services such as credit card processing and order fulfillment. There are also times when you provide information about yourself to us in areas of the site that are managed or participated in by third parties, such as our shopping areas. In such cases, the information may be used by us and by such third party(ies), each pursuant to its own policies. We may also provide your information to our advertisers, so that they can serve ads to you that meet your needs or match your interests. While Bizjournals.com will seek to require such third parties to follow appropriate privacy policies and will not authorize them to use this information except for the express purpose for which it is provided, Bizjournals.com does not bear any responsibility for any actions or policies of third parties. There may also be occasion when we are legally required to provide access to our database in order to cooperate with police investigations or other legal proceedings. In those instances, the information is provided only for that purpose. 
+
+###  COOKIES 
+
+You may have read about "cookies," nuggets of information that are placed by a Web site in a storage place on your own computer. We use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. For example, if you register on any part of Bizjournals.com you can opt to save your user name and password on your computer. We can provide this convenience by placing a cookie on your computer. 
+
+Our cookies may contain personally identifiable information and such cookies may be shared with our affiliated companies. 
+
+Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. 
+
+If you don't want cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of Bizjournals.com may not function properly. 
+
+While your individual information is protected as outlined above, we reserve the right to use aggregated anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners. 
+
+### IP ADDRESS
+
+Your Internet Protocol ("IP") address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may use your IP address to help diagnose problems with our server, gather broad demographic information, and administer our Web site. 
+
+###  KIDS AND PARENTS 
+
+Bizjournals.com is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardians(s) before making purchases, including subscriptions, on this site. 
+
+If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so. 
+
+If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at [info@bizjournals.com](mailto:info@bizjournals.com)
+
+If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address:
+
+Privacy Policy Coordinator  
+Bizjournals.com  
+120 W. Morehead St.  
+Charlotte, NC 28202
 
   
   
