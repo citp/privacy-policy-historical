@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the heritage.org privacy policy that was archived on 2002-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021225235032id_/http%3A//www.heritage.org/about/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heritage.org privacy policy that was archived on 2003-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030420162000id_/http%3A//www.heritage.org/about/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//IETF//DTD HTML//EN"><html xmlns:v="urn:schemas-microsoft-com:vml"><head><script language="JavaScript"> <!--
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns:v="urn:schemas-microsoft-com:vml"><head><title>The Heritage Foundation:  About Us:  Privacy Policy</title><meta name="Description" content="heritage.org privacy policy and terms of use agreement">
+<meta name="Keywords" content="policy, privacy, terms, use">
+<meta name="Generator" content="CommonSpot Content Server Version 3.2 SP2 (preview)"><script language="JavaScript"> <!--
 var gMenuControlID=0;
 var menus_included = 0;
 var jsPageAuthorMode = 0;
@@ -9,15 +11,9 @@ var jsSessionPreviewON = 1;
 var jsDlgLoader = '/About/loader.cfm';
 var jsSiteID = 2;
 var jsSubSiteID = 5;
-function newWindow (name, url)
-{
-if (url.indexOf ("?") == -1)
-url = url + "?kurrentPageID=8029";
-else
-url = url + "&kurrentPageID=8029";
-window.open (url, name, "toolbar=no,resizable=yes,scrollbars=yes,menubar=no,location=no,width=1,height=1,top=" + window.screen.height + ",left=" + window.screen.width);}
+var kurrentPageID = 8029;
 // -->
-</script>
+</script><script language="JavaScript" src="/commonspot/nw-lame.js"></script>
 <script src="/ui/mm.js" language="JavaScript" type="text/javascript">
 <SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
 <!--
@@ -40,23 +36,234 @@ NewWindow('/customcf/rsvp/index.cfm?EventID='+EventID+'&EventDate='+EventDate+'&
 }
 </script>
 <link rel="STYLESHEET" href="/ui/application.css" type="text/css">
-<meta name="Description" content="heritage.org privacy policy and terms of use agreement">
-<meta name="Keywords" content="policy,privacy,terms,use">
-<meta name="Generator" content="CommonSpot v2.5">
-
-	<script language="JavaScript"> <!--
-	var gShowKeywords = 0;
-	var gHaveKeywords = 0;
-	// -->
-	</script>
-
+</head><body lang="en" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="EFEFEF"><a name="__topdoc__"></a><script language="JavaScript"><!--
+// always-include-ie.js  Copyright 1998-2003 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if ((bName == "Netscape" && bVer >= 3) ||
+(bName == "Microsoft Internet Explorer" && bVer >= 4))
+bCanRollover=1;
+function ImageSet(imgID,newTarget)
+{
+if (bCanRollover)
+document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+window.status = "";
+}
+function setStatbar(statbar)
+{
+var strStatbar=unescape(statbar);
+window.status=strStatbar;
+}
+function onLoadComplete()
+{
+if( menus_included == 1 )
+document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link)
+{
+// links are in one of the following formats:
+// 		cpe_60_0,CP___PAGEID=100
+// 		CPNEWWIN:WindowName^params@CP___
+// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+if( jsPageAuthorMode == 0 )
+{
+windowname = "";
+windowparams = "";
+// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL;
+pos = link.indexOf("CPNEWWIN:");
+if (pos != -1)
+{
+pos1 = link.indexOf ("^");
+windowname = link.substring (pos+9, pos1);
+pos2 = link.indexOf ("@");
+windowparams = link.substring (pos1 + 1, pos2);
+link = link.substring (pos2 + 1, link.length);
+}
+if (link.indexOf ("CP___") != -1)
+{
+if (windowname == "")
+window.location = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+else
+{
+urltoopen = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+windowparams = FormatWindowParams(windowparams);
+window.open (urltoopen, windowname, windowparams);
+}
+}
+else
+{
+if (windowname == "")
+window.location = link;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (link, windowname, windowparams);
+}
+}
+}
+else if( jsSessionPreviewON == 1 )
+{
+previewLink(link);
+}
+else
+{
+if( document.all[parentID] )
+document.all[parentID].click();
+}
+}
+function doWindowOpen(href,name,params)
+{
+window.open (href, name, params);
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 ||
+windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+{
+windowparams = substringReplace(windowparams,':left=',',left=');
+windowparams = substringReplace(windowparams,'left=','left=');
+windowparams = substringReplace(windowparams,':ww=',',width=');
+windowparams = substringReplace(windowparams,'ww=','width=');
+windowparams = substringReplace(windowparams,':hh=',',height=');
+windowparams = substringReplace(windowparams,'hh=','height=');
+windowparams = substringReplace(windowparams,':loc=',',location=');
+windowparams = substringReplace(windowparams,'loc=','location=');
+windowparams = substringReplace(windowparams,':dir=',',directories=');
+windowparams = substringReplace(windowparams,'dir=','directories=');
+windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+windowparams = substringReplace(windowparams,'tb=','toolbar=');
+windowparams = substringReplace(windowparams,':stat=',',status=');
+windowparams = substringReplace(windowparams,':mb=',',menubar=');
+windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+windowparams = substringReplace(windowparams,':rs=',',resizable=');
+}
+return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+var pos = 0;
+var target="";
+while ((pos = source.indexOf(pattern)) != (-1))
+{
+target = target + source.substring(0,pos) + replacement;
+source = source.substring(pos+pattern.length);
+pos = source.indexOf(pattern);
+}
+return (target + source);
+}
+// handle scheduled element links
+function show_sched_element(eid)
+{
+evalCol = String(self.element_collection);
+dispFlag = false;
+ua = navigator.userAgent.toLowerCase();
+if (bName == "Netscape" || ua.indexOf('aol') >= 0)
+{
+// cloned from always-include-ns.js
+tmp = "";
+if  (evalCol != 'undefined')
+{
+str = self.location.search;
+for(i=0;i<self.element_collection.length;i++)
+{
+sp = 'sched_elements_' + self.element_collection[i].id;
+if  (self.element_collection[i].id == eid)
+{
+dispFlag = true;
+if  (str == '')
+{
+tmp = "?forceElement=" + eid;
+self.location.search = tmp;
+}
+else
+{
+qArray = str.split("&");
+forceExists = false;
+for(i=0; i < qArray.length; i++)
+{
+el = qArray[i];
+qel = el.split('=');
+if  (qel.length == 1)
+qel[1] = '';
+if  (qel[0] == 'forceElement' || qel[0] == '?forceElement')
+{
+forceExists = true;
+qel[1] = eid;
+}
+qArray[i] = qel;
+}
+// reassemble
+searchStr = '';
+for (i=0; i < qArray.length; i++)
+{
+if  (i == 0)
+searchStr = qArray[i][0] + '=' + qArray[i][1];
+else
+searchStr = searchStr + '&' + qArray[i][0] + '=' + qArray[i][1];
+}
+if  (!forceExists)
+searchStr = searchStr + '&forceElement=' + eid;
+tmp = searchStr;
+self.location.search = searchStr;
+break;
+}
+}
+}
+}
+if  (!dispFlag)
+alert("You do not have access to the requested element.")
+}
+else
+{
+if ( evalCol != 'undefined' )
+{
+for(i=0;i<self.element_collection.length;i++)
+{
+sp = 'sched_elements_' + self.element_collection[i].id;
+obj = document.all.item(sp);
+//alert(sp);
+if ( self.element_collection[i].id == eid && obj != null)
+{
+dispFlag = true;
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'block';
+}
+}
+else
+document.all(sp).style.display = 'block';
+}
+else if ( obj != null )
+{
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'none';
+}
+}
+else
+document.all(sp).style.display = 'none';
+}
+}
+}
+if ( !dispFlag )
+alert("You do not have access to the requested element.")
+}
+}
+// --></script>
 <script language="JavaScript"> <!--
-var js_userID=0;
-
-// -->
-</script>
-<title>The Heritage Foundation:  About Us:  Privacy Policy</title></head><body onload="onLoadFinished();" lang="en" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="EFEFEF"><a name="__topdoc__"></a><script language="JavaScript" src="/commonspot/ns-resize.js"></script><script language="JavaScript" src="/commonspot/pagemode/always-include-ns.js"></script>
-<script language="JavaScript"> <!--
+function glblLinkHandler(lobj, attr, val)
+{
+return;
+}
 function onLoadFinished()
 {
 onLoadComplete();
@@ -78,7 +285,7 @@ var js_gvPageID = 8029;
 			document[imgID].src=newTarget;
 	}
 	// -->
-</script>
+</script><!-- -->
 <table width="762" bgcolor="#FFFFFF" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td width="762">
 <table width="762" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr valign="top" bgcolor="#000066">
@@ -96,10 +303,13 @@ var js_gvPageID = 8029;
 <td rowspan="2" valign="top" width="6"><img src="/ui/top_banner/spacer.gif" width="5" height="35"></td>
 <td width="134" align="right" valign="top"><a href="/about/sitemap.cfm" alt="site map"><font face="arial" size="1" color="ffffff">site map</font></a> <font face="arial" size="1" color="ffffff">|</font> <a href="/about/help/" alt="help"><font face="arial" size="1" color="ffffff">help</font></a> <font face="arial" size="1" color="ffffff">|</font> <a href="/about/contact.cfm" alt="contact us"><font face="arial" size="1" color="ffffff">contact us</font></a></td>
 <td width="138" colspan="2">
-<table class="clsControlBorder" border="0" cellpadding="2" cellspacing="0" width="100%">
+<table class="clsControlBorder" border="0" cellpadding="2" cellspacing="0" width="100%" summary="">
+<tbody><tr><td width="100%" valign="top" align="left">
+</td></tr>
 <form action="/about/searchresults.cfm" method="post" name="dlgform791"></form>
-<tbody><tr><td width="100%" valign="top" align="left"><input type="hidden" name="searchType" value="text"><div align="LEFT">
-<input type="hidden" name="incl_subsites" value="0">
+<tr><td width="100%" valign="top" align="left">
+<input type="hidden" name="searchType" value="text">
+<div align="LEFT"><input type="hidden" name="incl_subsites" value="0">
 <script language="JavaScript"> <!--
 function doLink791()
 {
@@ -115,7 +325,7 @@ function doSubmit791()
 {
 if (document.dlgform791.srchString.value.length == 0)
 {
-alert ("Please enter a search string");
+alert ("Please enter something to search for");
 return false;
 }
 document.dlgform791.startpage.value=1;
@@ -124,18 +334,23 @@ return true;
 }
 // -->
 </script>
-&nbsp;<font size="1"><big><input type="text" size="15" name="srchString" value="">
-</big></font>&nbsp;
-<font size="1"><big><input type="button" name="searchbutton" value="go!" onclick="SubmitForm791()"></big></font>&nbsp;
-</div>
-</td>
+<span class="cpHideForMenus">
+<input type="text" name="srchString" value="" id="cs_search_form" size="15">
+</span>
+<font size="1"><big>
+<span class="cpHideForMenus">
+<input type="button" name="searchbutton" value="go!" onclick="SubmitForm791();" id="" size="10">
+</span>
+&nbsp;</big></font>
+</div></td>
 </tr>
 <tr>
 <td valign="baseline">
+<div align="LEFT">
 <input type="hidden" name="showSummaryCheckBox" value="0">
-</td>
+</div></td>
 </tr>
-<tr><td valign="baseline"><input type="hidden" name="UserSelectedSubSites" value="1,3,4,5,6,7,8,9,10,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,61,62,63,64,66,67,68,69,70,72,73,74,75,76,77,78,79,80"></td></tr>
+<tr><td valign="baseline"><input type="hidden" name="UserSelectedSubSites" value=""></td></tr>
 <input type="hidden" value="1" name="startpage"><input type="hidden" value="1" name="curpage"></tbody></table>
 </td>
 <td rowspan="3" valign="top" background="/ui/top_banner/new/right_border.gif" width="3" align="right"><img src="/ui/top_banner/new/right_border.gif" width="3" height="20"></td>
@@ -172,9 +387,9 @@ return true;
 <td colspan="6" bgcolor="#999999" height="2">
 <div align="left">
 <span class="normal"><font face="Verdana,Arial,Helvetica" size="1" color="000066"><a href="/" style="text-decoration:none; color:000066" onmouseover=" setStatbar('/');  return true;" onmouseout=" setStatbar('');  return true;">The Heritage Foundation</a></font></span>
-<img name="AIID--4" src="/images/4289148.gif" border="0" align="absbottom">
+<span class="normal"><font face="Verdana,Arial,Helvetica" size="1" color="000066">&gt;</font></span>
 <span class="normal"><font face="Verdana,Arial,Helvetica" size="1" color="000066"><a href="/About/" style="text-decoration:none; color:000066" onmouseover=" setStatbar('/About/');  return true;" onmouseout=" setStatbar('');  return true;">About Heritage</a></font></span>
-<img name="AIID--7" src="/images/4289148.gif" border="0" align="absbottom">
+<span class="normal"><font face="Verdana,Arial,Helvetica" size="1" color="000066">&gt;</font></span>
 <span class="normal"><font face="Verdana,Arial,Helvetica" size="1" color="000066">Privacy Policy</font></span>
 <span class="normal"><font face="Verdana,Arial,Helvetica" size="1" color="000066">&nbsp;</font></span>
 </div>
@@ -201,13 +416,11 @@ return true;
 <table width="762" height="100%" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr valign="top">
 <td width="152" valign="top" background="/ui/left_links/left_background.gif">
-<table id="idLayout803" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td id="idCell803x1x1" align="default" valign="top">
+<table id="idLayout803" cellpadding="0" cellspacing="0" border="0" width="100%" summary="">
+<tbody><tr><td id="idCell803x1x1" align="default" valign="top">
 <span id="8029-832">
-<table id="idLayout835" border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td id="idCell835x1x1" align="default" valign="top">
+<table id="idLayout835" cellpadding="0" cellspacing="0" border="0" width="100%" summary="">
+<tbody><tr><td id="idCell835x1x1" align="default" valign="top">
 <span class="leftnavlink">
 </span><table width="150" border="0" align="center" cellpadding="0" cellspacing="0">
 <tbody><tr>
@@ -339,12 +552,11 @@ return true;
 </td>
 <td width="10">&nbsp;</td>
 <td>
-<table id="idLayout825" border="0" cellpadding="5" cellspacing="0">
-<tbody><tr>
-<td id="idCell825x1x1" align="default" valign="top">
+<table id="idLayout825" cellpadding="5" cellspacing="0" border="0" summary="">
+<tbody><tr><td id="idCell825x1x1" align="default" valign="top">
 <span id="8029-827">
 <div id="8029-4641">
-<div align="center"><img name="AIID--10" src="/Research/images/about_Privacy.gif" border="0"></div>
+<div align="center"><img src="/Research/images/about_Privacy.gif" border="0" width="585" height="43"></div>
 </div>
 </span>
 </td>
@@ -352,11 +564,10 @@ return true;
 </tbody></table>
 <span class="standardcontent">
 <div align="center">
-<table id="idLayout2" border="0" cellpadding="5" cellspacing="0" width="100%">
-<tbody><tr>
-<td id="idCell2x1x1" align="default" valign="top">
+<table id="idLayout2" cellpadding="5" cellspacing="0" border="0" width="100%" summary="">
+<tbody><tr><td id="idCell2x1x1" align="default" valign="top">
 <div id="8029-8031">
-<span class="normal"><div align="left"><font face="Verdana,Arial,Helvetica" size="2" color="#000000"><p><font face="Arial"><b>The Heritage Foundation's Privacy Policy</b><br>Your privacy on the Internet is important to us. As part of the operation and customization feature of The Heritage Foundation's web site ("heritage.org"), we gather certain types of information from users, and we would like to explain the types of information we gather, what we do with them, and how to correct or change the information.<br></font><font face="Arial"><br><b>Information Collected By heritage.org</b><br>heritage.org collects two types of information from users: personal data such as zip code, email address and demographic information; and aggregated data such as information about traffic patterns on heritage.org (for example, how many users log on to heritage.org on a daily basis). <br><br></font><font face="Arial"><b>Aggregated Information</b><br>Aggregated information, such as which pages users visit, is collected through various means. One of these ways is through an IP address, a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from heritage.org, our servers log your IP address. heritage.org does not link IP addresses to anything personally identifiable, so although your session will be logged, your session will remain anonymous to us. heritage.org collects IP addresses for the purposes of system administration only. <br><br></font><font face="Arial"><b>Use of Cookies</b><br>heritage.org uses cookies to automate the process of logging on to certain areas of the site. The heritage.org cookie is a small data file stored on your computer that contains a single, randomly assigned user ID number. By recognizing this ID number, heritage.org can automatically provide you with the personalized content for which you requested. Cookies can neither read any other files on your computer, nor damage your computer. Most browsers are initially set to accept cookies. If you'd prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. <br><br></font><font face="Arial"><b>Use of Information Collected by heritage.org</b><br>heritage.org uses both the personal and aggregated information we collect for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for each individual user, and if requested, to provide information services by email to the user. After registration, users will receive a single email message confirming registration. The Heritage Foundation will never disclose your personally identifiable information to a third party unless required to do so by court order, law or governmental agency. <br><br></font><font face="Arial"><b>Information Security at heritage.org </b><br>Heritage Foundation employees understand the need for user privacy and heritage.org has appointed a privacy policy administrator to monitor privacy practices. Access to user data is strictly limited and can only be accessed by specific individuals who have the necessary username and password combination. A log is maintained to record who has accessed the data. This log is checked at least weekly for possible security breaches. <br><br></font><font face="Arial"><b>Children and Privacy</b><br>The Heritage Foundation encourages parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. In general, heritage.org will not contain content that is reasonably considered unsuitable for children. <br><br></font><font face="Arial"><b>Links to Other Sites</b><br>It is important to note that heritage.org contains links to sites other than heritage.org, and that those sites may not follow the same privacy policies as heritage.org. For instance, a link in the "Helpful Links" section of heritage.org will take you away from heritage.org to an entirely different site. <br><br></font><font face="Arial"><b>Changes to the Privacy Policy</b><br>The Heritage Foundation reserves the right to change the policy on use of information collected. Any changes in policy will be noted in a revised privacy policy statement and will be posted at least 30 days prior to implementation. You may direct any privacy policy questions to <a href="mailto:info@heritage.org">info@heritage.org</a>.&nbsp;</font></p></font></div></span>
+<div align="left"><span class="normal"><font face="Verdana,Arial,Helvetica" size="2" color="#000000"><p><font face="Arial"><b>The Heritage Foundation's Privacy Policy</b><br>Your privacy on the Internet is important to us. As part of the operation and customization feature of The Heritage Foundation's web site ("heritage.org"), we gather certain types of information from users, and we would like to explain the types of information we gather, what we do with them, and how to correct or change the information.<br></font><font face="Arial"><br><b>Information Collected By heritage.org</b><br>heritage.org collects two types of information from users: personal data such as zip code, email address and demographic information; and aggregated data such as information about traffic patterns on heritage.org (for example, how many users log on to heritage.org on a daily basis). <br><br></font><font face="Arial"><b>Aggregated Information</b><br>Aggregated information, such as which pages users visit, is collected through various means. One of these ways is through an IP address, a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address. When you request a page from heritage.org, our servers log your IP address. heritage.org does not link IP addresses to anything personally identifiable, so although your session will be logged, your session will remain anonymous to us. heritage.org collects IP addresses for the purposes of system administration only. <br><br></font><font face="Arial"><b>Use of Cookies</b><br>heritage.org uses cookies to automate the process of logging on to certain areas of the site. The heritage.org cookie is a small data file stored on your computer that contains a single, randomly assigned user ID number. By recognizing this ID number, heritage.org can automatically provide you with the personalized content for which you requested. Cookies can neither read any other files on your computer, nor damage your computer. Most browsers are initially set to accept cookies. If you'd prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. <br><br></font><font face="Arial"><b>Use of Information Collected by heritage.org</b><br>heritage.org uses both the personal and aggregated information we collect for multiple purposes. The information is used to improve the content of the site, to customize the content and/or layout of the site for each individual user, and if requested, to provide information services by email to the user. After registration, users will receive a single email message confirming registration. The Heritage Foundation will never disclose your personally identifiable information to a third party unless required to do so by court order, law or governmental agency. <br><br></font><font face="Arial"><b>Information Security at heritage.org </b><br>Heritage Foundation employees understand the need for user privacy and heritage.org has appointed a privacy policy administrator to monitor privacy practices. Access to user data is strictly limited and can only be accessed by specific individuals who have the necessary username and password combination. A log is maintained to record who has accessed the data. This log is checked at least weekly for possible security breaches. <br><br></font><font face="Arial"><b>Children and Privacy</b><br>The Heritage Foundation encourages parents and guardians to spend time with their children online and to be fully familiar with the sites visited by their children. In general, heritage.org will not contain content that is reasonably considered unsuitable for children. <br><br></font><font face="Arial"><b>Links to Other Sites</b><br>It is important to note that heritage.org contains links to sites other than heritage.org, and that those sites may not follow the same privacy policies as heritage.org. For instance, a link in the "Helpful Links" section of heritage.org will take you away from heritage.org to an entirely different site. <br><br></font><font face="Arial"><b>Changes to the Privacy Policy</b><br>The Heritage Foundation reserves the right to change the policy on use of information collected. Any changes in policy will be noted in a revised privacy policy statement and will be posted at least 30 days prior to implementation. You may direct any privacy policy questions to <a href="mailto:info@heritage.org">info@heritage.org</a>.&nbsp;</font></p></font></span></div>
 </div>
 </td>
 </tr>
