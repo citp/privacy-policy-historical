@@ -1,18 +1,17 @@
-> *The following text is extracted and transformed from the componentsource.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606030848id_/http%3A//componentsource.com/Services/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the componentsource.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217022321id_/http%3A//www.componentsource.com/Services/Privacy.asp) for the most accurate reproduction.*
 
 # ComponentSource - Privacy Statement
 
-| **ComponentSource Privacy Statement** |   
+|  |  |  |  |  | **ComponentSource Privacy Statement** |   
 ---|---  
   
 ComponentSource may ask you to register and provide information that identifies you when you buy a product, download an evaluation, enter a competition, or when you want information about your personal account.
 
 |   
   
-|   
+|    
 ---  
 We use this information for two purposes:  
-  
   • To personalize your Web site so that you can change your own account details, create your own quotes, and receive unlimited access to our Web site.  
   • To receive product upgrades, special offers, information on new releases and product selection assistance.  
   
