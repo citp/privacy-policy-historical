@@ -1,106 +1,127 @@
-> *The following text is extracted and transformed from the gifts.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209143910id_/http%3A//amos.shop.com/amos/cc/main/ccn_privacy/ccsyn/173) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gifts.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405183937id_/http%3A//www.gifts.com/public/info%3Ffile%3Dprivacy.html) for the most accurate reproduction.*
 
-# gifts.com
+# Gifts.com - Privacy Policy
 
-|  gifts.com is a member of the Altura Network. Click here for [more details about the Network](http://admin-amos.catalogcity.com/amos/cc/main/portal_solutions/act/120%2Cgifts.com/ccsyn/251). 
+  |    
+Gifts.com Privacy Policy
 
-This privacy statement discloses the privacy and security practices for the gifts.com website
+**YOUR PRIVACY RIGHTS**
 
-**Information Collection and Use**  
-We want you to feel safe while visiting any site developed or managed by Altura ("powered by Altura"), and we promise: We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. We will never share your credit card number or personal details with any third party, other than merchants from whom you make purchases. gifts.com collects information from our users at several different points on our website. Information is collected when you: 
+The following policy explains our information gathering and dissemination practices. 
 
-  * Register 
-  * Place an order 
-  * Make changes or additions to your account settings 
-  * Use our Shopping/Gift Services such as Wish List and Catalog Requests 
-  * Enter site contests, such as sweepstakes 
-  * Participate in a site survey 
-  * Use our customer service and feedback links to communicate with us 
+**Information Collected**
 
+  
+1.  Your Personally Identifiable Information Collected by Gifts.com
 
+When you register as a new user with the Gifts.com Web site (the “Site”), our registration form may require you to give us certain information such as your first and last name, email address, date of birth, and zip code. Gifts.com will also collect other information you volunteer to us through use of our service that can identify you as a specific individual. We refer to this information as Personally Identifiable Information (“PII”). You may always choose not to provide PII, however, this may limit our ability to provide you with a specific service or particular information. We may also collect demographic and other data, which may include PII, generally through surveys and forms which you may or may not choose to participate in. If you place an order for goods on Gifts.com or through a Gifts.com Partner, you may be required to enter your credit card number and information, as well as your shipping address and/or other contact information.
 
-**Registration**  
-To make a purchase, request a catalog, redeem a gift certificate or coupon, send or redeem an eGift or create a Wish List on our site, you must first register with us. When filling out our registration form you are required to give your contact information (such as name, street address, phone number and email address). Your registration information becomes part of your personal account, which you can access by selecting the Your Account tab at the top of our site.
+Reviews of gift ideas and merchants will display PII of those users who have posted such reviews, as will public gift lists. The PII displayed on user postings will be limited to first name and initial of last name.
 
-During registration, you are given the opportunity to receive offers from different sources:
+2\. Gift Recipients’ Personally Identifiable Information Added by Users
 
-  * gifts.com 
-  * catalogs that you order from or request. 
+Once registered, a user will be able to create profiles for friends and family or any other gift recipients. In order to save such profiles in an account, the user will be required to enter some PII for the gift recipient such as the gift recipient’s name, birth date, gender, and their relationship to the user. This information is stored on the My Gift Lists and Saved Profiles area of the user’s Gifts.com account. As such, any user should obtain the consent of other individuals prior to entering their information on the Site. Gifts.com respects the privacy of the gift recipients entered into our system and will not share any PII of gift recipients with third parties other than for the purposes enumerated under Use of Gift Recipient’s Personally Identifiable Information by Gifts.com below.
 
-Selecting to receive offers from gifts.com lets us know that you would like to occasionally receive email updates about new features on our site and special offers we think will interest you. Selecting to receive offers from "catalogs that I ordered from or request" tells us that it's okay for these catalogs to put you on their catalog mailing list. Selecting to receive offers from our marketing partners tells us that it's okay to share your contact information with third-party marketing partners. For more information on our sharing policies, please see **Sharing** below.
+3\. Personally Identifiable Information Collected by Gifts.com Business Partners
 
-**Placing an Order**  
-We request information from you in our checkout area when you place orders with any of the catalogs on our site. During checkout you must provide your credit card number and shipping address information if it's different than your default account. You also have the option to have your credit card information securely stored in Your Account for future use (see **Your  Account** below). After the checkout process is complete, your purchase information is securely forwarded to the catalog merchant you have made the purchase with. They will use this information so they can fulfill your order and contact you if they have questions regarding your order. In addition to your purchasing data, we forward all of your privacy settings to the catalog merchant. If you selected to receive offers from catalogs when you registered, or in Your Account privacy settings, then the catalog merchant may use your contact information to mail you catalogs, and/or send you special offers and email promotions.
+Gifts.com works with third-party advertising companies, sponsors and other companies with whom we do business (“Business Partners”) to place advertising on our site and in email communications sent to our registered users and other communications related to the Gifts.com service. In order to complete a transaction, Business Partners may collect PII of a gift recipient on their respective Web site. Such collection of PII is governed by that Business Partner’s privacy policy. 
 
-**Your Account**  
-The personal information you enter during registration and/or during checkout is stored in your personal account area, also known as Your Account. You can access Your Account to add or change information, including changing your privacy settings, by entering the email address you used when you registered and the password you created. You also have the ability to add new credit card or shipping information to Your Account when placing an order. If you have elected to store your credit cards with us, we only display the last five digits of your credit card number in your account area. The full credit card information is stored on secure offline servers. For more information on how we protect your credit card information, please see our **Security** section below.
+Gifts.com may correlate or match registered users' information, including PII, with information held by our Business Partners to target ads or otherwise improve the effectiveness of our service. Our Business Partners may read or set cookies on your hard drive, use pixel tags, track which ads you have viewed, or collect other information about you.
 
-**Address Book**  
-Your Address Book is the area in Your Account where the billing address you enter during registration is stored. After registration, you also have the option to add shipping addresses. You can do this by going directly to Your Account, or by entering a new shipping address when placing an order. Shipping addresses are used solely for the purpose of fulfilling your orders, and will not be used for any marketing purposes either by gifts.com or the catalog merchant you have made the purchase with.
+From time to time, Gifts.com may also have special offers or promotions that are sponsored by a Business Partner. In order to participate in these offers, you may be required to follow a separate registration process. If you consent to receive information from a Business Partner through an opt-in or opt-out process Gifts.com may pass your information to such Business Partner.
 
-**Shopping/Gift Services**  
-gifts.com provides you with a number of Shopping and Gift services. Some of these require personal information in order to carry out the given task. For example, to create a gifts.com you may want to provide us with the name of a second recipient other than yourself, or a shipping address if different than that in your address book. With services like eGifts, E-Cards, and "send this product to a friend" we will need to know the recipient's email address so that we can send the requested communication to them via email. If you choose to purchase a Gift Certificate, you will need to provide us with the recipient's name and email address or street address, depending on how you wish the certificate to be sent. These services only require the minimal amount of information necessary to carry out the task at hand and nothing more. Although we do store this information in our database for tracking purposes, we make no other use of it beyond which it was intended.
+Gifts.com may also offer goods or services for purchase available by our Business Partners by way of email communications to our users. If you purchase goods or services offered through Gifts.com by a Business Partner, then you may be required to submit PII in order to complete the transaction and Gifts.com may provide your PII to such Business Partner for that purpose.
 
-**Contests**  
-In order to participate in gifts.com sponsored contests or sweepstakes you will be required to provide us some information. Participation in these contests is completely voluntary and you have a choice whether or not to disclose this information. You also have the option not to have the information you give us distributed to other third parties not specifically involved with the promotion. Information requested may include contact information (such as name, email address and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Contests may be managed by a third party and this third party is not allowed to use the information you supply us for any other purpose except to manage the contest. Prizes are provided directly from gifts.com unless the contest is being sponsored by a catalog merchant or other specified third party. In this case, the prize will be awarded by the catalog merchant or third party and the information you provide will be shared with them.
+In some cases, we may enter into a promotional relationship with a Business Partner in which we prominently display their brand name or trademarks on pages that appear the same as or very similar to the pages of the Gifts.com service. These pages are known as "Co-Branded Pages" and these particular Business Partners are known as “Co-Branded Business Partners.” If the page on which you submit information is a Co-Branded Page, or was accessed by clicking on a link on a Co-Branded Page, then we may share your personal information with the associated Co-Branded Business Partner. Co-Branded Business Partners may use your personal information in accordance with their own privacy policies. Gifts.com disclaims all liability for the privacy policies and procedures on any Business Partner or Co-Branded Business Partner Web site. You will need to contact the Co-Branded Business Partner to instruct them directly regarding your preferences for the use of your personal information by them. Additionally, you agree that we may use and disclose all such information so submitted to such Co-Branded Business Partners in the same manner in which we are entitled to use and disclose any other information you submit to us (see Use of your PII by Business Partners below). 
 
-**Surveys**  
-From time to time our site requests information from you via surveys. Participation in a survey is completely voluntary and you have a choice whether or not to disclose this information. Information requested may include contact information (such as name and email address), and demographic information (such as zip code, age level). Survey information will be used for purposes of monitoring or improving the use and customer satisfaction of our site.
+4.  Cookies 
 
-**Customer Service / Feedback Links**  
-gifts.com uses an email link located on the Customer Service page to allow you to contact us directly with any questions or comments you may have. We read every message and do our best to reply within 24 hours. The information you provide in these emails is used to respond directly to your questions or comments you may have.
+Gifts.com wants to optimize your experience by ensuring our Site’s ease of use, and that the most relevant information, promotions and offers are displayed to you while using the Gifts.com Site. A common manner in which to do this is by placing cookies on your computer. Cookies are strings of text and numbers that can identify your computer to us when you visit our site, and which may be correlated with your PII in our log files. 
 
-We also have an email link located on our "Tell Us What You Think" page. This link allows you to give us feedback about our site and make suggestions on what we can do to improve it. We read every message sent in. We may file your comments to improve the site, or review and discard the information. We do not use the email address you supply us for any marketing purposes.
+5.  IP Address
 
-**Sharing**  
-If you have agreed to receive offers from our catalog merchants, we will provide them your contact information when we forward your order or catalog request to them. They will then include you on their catalog mailing list.
+When you visit our site, we log standard information such as your IP address, which is a number that can be used to identify your location and Internet Service Provider, along with the URL from which you came to our site and the URLs visited on our site. A URL is the full address of a Web site page, which may or may not contain some PII about the person who is viewing it.
 
-If you have agreed to receive offers from third-party marketing partners, the personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources to make their future marketing efforts more effective. It may also be used by them to bring you offers of interest. If you prefer that your name and address not be shared with these third parties, do not select these options when you create your account and we will not share your information without your prior consent.
+When we send messages to you or others, we may provide a URL link to the Gifts.com site that contains an alphanumeric identifier, which allows us to identify the person to whom we sent the message so that we can personalize our content for that individual.
 
-**Postal Address Info**  
-If you have agreed to receive offers from gifts.com we occasionally provide your name and postal address (but not your email address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please email us at [donotshare@altura.com](mailto:donotshare@altura.com) with your name and postal address if you do not want us to share this information.
+ **Use of Information**
 
-**Opt Out**  
-gifts.com gives you the option to opt out from receiving offers from us and the catalogs that you've made purchases from on our site. You can opt out by de-selecting "Yes, send me offers from gifts.com" and "Yes, send me offers from catalogs that I order from or request." You can do this during the registration process or by going to the privacy settings in your account area (Your Account) after you've registered. You can also opt out by e-mailing us, phoning us or writing us, using the contact information provided above. If you do not wish to receive offers from our marketing partners, simply leave that checkbox unchecked. Additionally, if you have previously agreed to receive offers from our catalog merchants and marketing partners, and would like to discontinue receiving these offers, you can do so by following the simple opt out procedures they provide in the email or contacting them directly.
+1.  Use Of Your Personally Identifiable Information by Gifts.com
 
-**Security**  
-Our website takes every precaution to protect your information. When you submit sensitive information, that information is protected both online and offline. Website security is reviewed regularly to ensure we are up to date with industry standards and technology.
+Gifts.com does not sell, share or otherwise provide any PII you give to us without your express consent, which may be obtained through an opt-in or opt-out request, unless required by law, court order or as required to technically operate the service, or to complete a transaction or order. Gifts.com does reserve the right to share your PII with its parent, subsidiary or affiliated entities. We use the collected PII to contact you in connection with your transactions and other activities on the site and to operate the Gifts.com service. These types of communications may contain commercial messages, such as banner ads and special offers. Each communication we send to you, other than communications sent to you for the sole purpose of addressing a technical or operational issue regarding the Gifts.com service, will give you the opportunity to opt-out of receiving further communications from us. In addition, we reserve the right to use your PII to help us provide you with personalized content, advertising, and commercial messages (collectively, "Content").
 
-Whether you're ordering a catalog or making a purchase, we want you to feel safe and secure while visiting gifts.com. You can feel confident making purchases from established catalogs that have been in business for many years. To ensure that your credit card information is even more secure, use our secure transmission (SSL) when you give us your credit card information. We encrypt all credit card information and store it on a server that isn't accessible on the Internet. Once we store that information, it cannot be displayed anywhere on gifts.com.
-
-Internally, gifts.com takes extra caution to limit access to customers' information. Only a few individuals within the company are given degrees of access to customers' personal information according to job function and necessity. Access is granted to these employees through special passwords. All employees are kept up to date on our security and privacy practices. Finally, the servers that we store personally identifiable information on are kept in a secure guarded environment.
-
-**How do we know who you are? Cookie settings**  
-Cookie based settings allow gifts.com to welcome you back by name each time you return. We use these cookies only for customer convenience. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We keep track of your gifts.com ID and your name in the cookies we set on your browser. If you set your browser to reject cookies, usage of our site will be limited. For example, without cookies you will not be able to see the merchants you have requested information from, your favorites, address book and your shopping cart without having to log in each time you visit gifts.com. For more information please visit our Privacy Policy page. There is a link to it at the bottom of every page on our site.
-
-Some of our business partners use cookies on our site. However, we have no access to or control over these cookies.
-
-**Third Party Advertising**  
-Some of our advertising is served by third party advertising companies which deliver a cookie to you so the ads you see can be tracked and ensures that you are not shown the same ad too many times. Since the third party advertising company only tags your computer with a number, they have no personal information about you. FreeShop.com does not provide these third party advertising companies with any personally identifiable information. However, these companies may use non-personally identifiable information about your visits to the Altura Network and other sites in order to provide advertisements on our sites and other sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.net/us/corporate/privacy).
-
-**Log Files**  
-gifts.com uses our Web server log files to help track the performance of our site. We do not tie the IP addresses within the log files to your personally identifiable information.
-
-**Legal Disclaimer**  
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website.
-
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on our Privacy Policy page so you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point gifts.com decides to use personally identifiable information in a manner different from that stated at the time it was collected, we will take commercially reasonable measures to obtain email consent from you. You will have a choice as to whether or not we use your information in this different manner. We will still use information in accordance with the privacy policy under which the information was collected.
-
-**Links**  
-This web site contains links to other sites. Please be aware that we, gifts.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-**Contact Information**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at:  
-Altura International  
-1 Lower Ragsdale Drive  
-Building 1, Suite 210  
-Monterey, CA 93940  
-Telephone: (831) 649-2489  
-E-mail: [Customer Service](mailto:customerservicegifts@altura.com)  
-Web: [Contact Customer Service](http://amos.shop.com/amos/cc/main/ccn_cs_email/ccsyn/173)  
+  
 
 
-Updated: 8/13/04
+2\. Use of Gift Recipients’ Personally Identifiable Information by Gifts.com
 
-Back to top of page | 
+Gifts.com does not use the PII of gift recipients for any purpose unless required by law, court order or as required to technically operate the service, or to complete a transaction or order. 
+
+3.  Use of Your Personally Identifiable Information by Gifts.com’s Business Partners  
+  
+
+
+Gifts.com will not share PII of registered users or gift recipients with our Business Partners without your express consent, which may be provided by way of an opt-in or opt-out process in an email communication from Gifts.com.   
+  
+
+
+PLEASE NOTE: The privacy practices of advertisers and other companies who provide services or advertising through our site are not covered by this privacy policy. Please contact those companies directly for more information about their privacy practices. If you wish to prevent those companies from setting cookies on your browser, you may set your browser to refuse cookies or to warn you before setting a cookie. Disabling cookies set by companies whose products or services are advertised on this site should not affect your ability to use this site.
+
+4.  Use of Cookies
+
+We use cookies to deliver content specific to your interests. You can always choose not to accept cookies through your browser's preference options, but you may not be able to use some of our services if you do not accept cookies. 
+
+As described in more detail above, Business Partners display ads through our service. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our Business Partners, and we do not have access to this information. Likewise, some of our Business Partners may use cookies. We do not control their use of cookies nor have access to the information contained in or related to those cookies. Please contact our Business Partners directly for more information about their privacy practices.
+
+5.   Use Of IP Addresses
+
+We use your IP Address to help diagnose problems with our server, and to administer our Web site and otherwise provide our service to you. IP addresses may be disclosed to Business Partners if Gifts.com believes in good faith that the law or legal process requires it, or to protect the rights or property of Gifts.com or others. In addition, our Business Partners may use information derived from your IP address, such as conducting a reverse domain name lookup, in order to provide advertisements more tailored to your interests.
+
+ **When We May Disclose Your Personally Identifiable Information**
+
+  
+Gifts.com may disclose your PII or the contact information of your gift recipients if required to do so by law or court order. Your PII may also be disclosed if necessary in order to complete a transaction such as the fulfillment of an order or purchase placed by you. Also, certain technical processing of email messages and their content may be required to: (1) send and receive messages; (2) conform to connecting networks' technical requirements; (3) conform to the limitations of the Service; or (4) conform to other similar requirements.
+
+It is possible that as we continue to develop our Web site and our business, Gifts.com and/or related assets might be acquired. In such a transaction, customer information may be transferred to the acquiring entity.
+
+ **Security**
+
+This site has industry standard security measures in place to protect the loss, misuse and integrity of the information under our control. Although we make good faith efforts to store the information collected by the Gifts.com service in a secure operating environment that is not available to the public, we cannot guarantee complete security.
+
+ **Other Web Sites; Links**
+
+Gifts.com contains links to other Web sites and is not responsible for the privacy practices or the content of such Web sites.
+
+ **Opt-Out/Correct/Delete/Deactivate**
+
+While Gifts.com does not give you the opportunity to remove your information from our database, you may edit your registration information from your My Account page as described below. In addition, you may elect not to receive future communications from Gifts.com or to discontinue use of our service. If you are a registered user, please log in and visit you’re My Account page and uncheck the box related to sending communications to you via email. 
+
+Gifts.com allows its users the option to change information previously provided. This may be done through the following method:
+
+1\. Visit Gifts.com and log in
+
+2\. Click on the “My Account” link
+
+3\. Change the relevant information
+
+  
+
+
+  
+**Changes to this Policy**
+
+Gifts.com reserves the right to amend this privacy policy at its sole discretion. If we make any substantive changes to the policy in the future with regard to how we use your information, we will notify registered users who have agreed to receive the Gifts.com newsletter through that newsletter. For those users who have not agreed to accept the newsletter, substantive changes will be posted on the site in this location, and the date of the changes will be noted on the Web site for a period of time. Your continued use of the site after the changes are posted constitutes your agreement to the changes with regard to information collected in the past and in the future from you. If you do not agree to the changes, you may opt-out as described above.
+
+ **Contacting the Web Site**
+
+We strive to do everything we can to protect the privacy of our users. Please feel free to share any comments and concerns with us. If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+
+Privacy Officer  
+Gifts.com  
+3731 Wilshire Blvd.  
+Suite 300  
+Los Angeles, CA 90010
+
+This Privacy Policy was last updated on March 10, 2005.
+
+|  
