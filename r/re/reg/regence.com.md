@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regence.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603092642id_/http%3A//www.regence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regence.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204111237id_/http%3A//www.regence.com/privacy) for the most accurate reproduction.*
 
 # The Regence Group Privacy Policy
 
@@ -75,7 +75,7 @@ Evolving technology will continue to provide Regence with new and better ways to
 
 We are committed to protecting the privacy of your personal information. The purpose of this is to inform you of the types of personal information we obtain and how we protect that information.
 
-View the Notice of Privacy Practices for [Regence BlueShield of Idaho](http://www.id.regence.com/consumerPrivacy.pdf), [Regence BlueCross BlueShield of Oregon](http://www.or.regence.com/docs/notice/privacyNotice.pdf), [Regence BlueCross BlueShield of Utah](http://www.ut.regence.com/consumerPrivacy.pdf), or [Regence BlueShield](http://www.wa.regence.com/member/notice/docs/consumerPrivacy.pdf).
+View the Notice of Privacy Practices for [Regence BlueShield of Idaho](http://www.id.regence.com/privacy/index.html), [Regence BlueCross BlueShield of Oregon](http://www.or.regence.com/docs/notice/privacyNotice.pdf), [Regence BlueCross BlueShield of Utah](http://www.ut.regence.com/privacy/index.html), or [Regence BlueShield](http://www.wa.regence.com/member/notice/docs/consumerPrivacy.pdf).
 
 Note: To view and print the PDF document(s) listed on this page, you must have the Adobe® Acrobat® Reader installed. Get more information and/or download the free [Adobe Acrobat Reader](http://www.adobe.com/products/acrobat/readstep2.html). For help with printing and working with PDF files, [visit our PDF File Help page](https://web.archive.org/pdf.html).   
     
