@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arlingtonpark.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604204204id_/http%3A//www.churchilldownsincorporated.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arlingtonpark.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012065331id_/http%3A//www.churchilldownsincorporated.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Churchill Downs Incorporated | About CDI | Privacy Policy |
 
