@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202162245id_/http%3A//usatf.org/about/privacyStatement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usatf.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602223934id_/http%3A//www.usatf.org/about/privacyStatement.asp) for the most accurate reproduction.*
 
 # USATF - Privacy Statement
+
+|   
+|   
+
 
 USA Track & Field Privacy Statement
 
@@ -74,7 +78,7 @@ Sharing with USATF entities
 
 USATF Associations receive reports about members in their Association, including name, address, phone, e-mail address, etc. This information is used to contact members about general-interest matters and specialized topics in the same manner as described in Section 2 above. Associations may occasionally share aggregated demographic information with their partners and advertisers. Again, this is not linked to any personal information that can identify any individual person.
 
-USATF Associations are required to abide by the National USATF privacy policy. Certain Associations may have their own privacy policies, but these will always be more restrictive, never less, than the national policy. The national policy always supersedes any Association's policies. Please direct any questions first to the Association and then to the National Headquarters.
+USATF Associations are required to abide by the National USATF privacy policy. Certain Associations may have their own privacy policies, but these will always be more restrictive, never less, than the national policy. The national policy always supersedes any Association's policies. Please direct any questions first to the Association and then to the National Office.
 
 Sharing with non-USATF third parties
 
@@ -88,7 +92,7 @@ We use an outside shipping company to ship orders, an outside printing company t
 
 We occasionally share aggregated demographic information with our corporate sponsors, suppliers, partners, and advertisers. This is not linked to any personal information that can identify any individual person.
 
-We occasionally provide postal mailing lists to magazines which we think might be of interest to our members. From time to time, we also provide postal or e-mail lists to USATF corporate sponsors, suppliers, or other partners for the specific purpose of offering discounts or perquisites which we think might be of interest to our members. These companies or organizations are directed not to use these mailing lists for any other purposes or to disclose them to any third party. Members may opt out of inclusion in such lists on our website or by writing to the USATF National Headquarters.
+We occasionally provide postal mailing lists to magazines which we think might be of interest to our members. From time to time, we also provide postal or e-mail lists to USATF corporate sponsors, suppliers, or other partners for the specific purpose of offering discounts or perquisites which we think might be of interest to our members. These companies or organizations are directed not to use these mailing lists for any other purposes or to disclose them to any third party. Members may opt out of inclusion in such lists on our website or by writing to the USATF National Office.
 
 We will also share information to prevent fraud, to respond to a legal process, or as otherwise required by law.
 
@@ -124,7 +128,7 @@ Users of our site are always notified when their information is being collected 
 
 Correction/Updating Personal Information
 
-If a user's personally identifiable information changes (such as your address, phone, e-mail address, etc.), we will endeavor to provide a way to correct or update that personal data provided to us. This can usually be done at the member profile page (accessed through the members-only area) or by contacting your local Association or the National Headquarters.
+If a user's personally identifiable information changes (such as your address, phone, e-mail address, etc.), we will endeavor to provide a way to correct or update that personal data provided to us. This can usually be done at the member profile page (accessed through the members-only area) or by contacting your local Association or the National Office.
 
 For elite athletes, biographies are updated throughout the year, and any inaccuracies may be corrected by notifying Jill Geer, Director of Communications, at [Jill.Geer@usatf.org](mailto:Jill.Geer@usatf.org). Such changes will be reflected in the next release of the athlete biographies.
 
@@ -133,3 +137,17 @@ For the website and printed directories, contact information may be corrected/ad
 Notification of Changes
 
 If USATF changes its privacy policy, we will post a notice of the change on our homepage for at least seven days so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point USATF decides to use personally identifiable information in a manner different from that stated at the time it was collected, users will have a choice whether to consent to such use.
+
+| [](https://web.archive.org/membership/)  
+[](https://web.archive.org/store/)
+
+  
+
+
+* * *
+
+* * *
+
+* * *
+
+* * *
