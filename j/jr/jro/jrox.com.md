@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jrox.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611164427id_/http%3A//www.jrox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jrox.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204014105id_/http%3A//www.jrox.com/privacy.php) for the most accurate reproduction.*
 
-# Affordable Web Hosting and E-Commerce Solutions
+# Privacy Policy
 
 JROX.COM demonstrates its commitment to our customers' privacy by providing this statement. We will do everything in our power to ensure your right to privacy. We are committed to developing long lasting relationships that are built on trust. JROX.COM will never violate that trust. 
 
@@ -25,3 +25,7 @@ JROX.COM uses cookies to inform us of a repeat visit. The cookie does not tell u
 
 Cookies For Banner Rewards Program  
 To offer our customers continued savings, JROX.COM uses cookies to help monitor the traffic generated from JROX.COM banners and logo buttons displayed on our customers' websites. For every new JROX.COM customer that was introduced to JROX.COM through a customer's website, our client receives a credited discount!
+
+Cookies For Customer Account Management  
+For our customers, JROX.COM uses cookies to store user names for added convenience to the Webmaster. As part of our web hosting package, JROX.COM offers password-protected web-based management tools. By storing the customers' Usernames in a cookie, the Webmaster will not have to keep filling out form fields when they desire to manage their account. (The cookie does not store Passwords.) JROX.COM is dedicated to using the newest technologies in order to simplify our customers' lives.  
+
