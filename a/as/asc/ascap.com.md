@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ascap.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205223900id_/http%3A//ascap.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascap.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405010859id_/http%3A//ascap.com/privacy.html) for the most accurate reproduction.*
 
 # ASCAP Privacy Policy
 
