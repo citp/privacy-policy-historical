@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602035241id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the party411.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211174757id_/http%3A//www.party411.com/privacy.html) for the most accurate reproduction.*
 
 # Party411 Privacy Policy
 
@@ -6,19 +6,15 @@
 • [Party411 Home](http://www.party411.com/index.html)  
 • [Using Party411](http://www.party411.com/using.html)  
 • [Holidays & Events](http://www.party411.com/holidays.html)  
-• [New Product News](http://www.party411.com/news.html)  
 • [The Shops](http://www.party411.com/theshops.html)  
     [@ Party411.com](http://www.party411.com/theshops.html)  
 • [Creations for You](http://www.party411.com/custom.html)  
+• [Banner Guide](http://www.party411.com/bannerguide.html)  
 • [e-Party Greetings](http://www.party411.com/eparty.html)  
 • [Discussion Forums](http://www.party411.com/forums.html)  
 • [Party Girl Help](http://www.party411.com/partyhelp.html)  
 • [Your Parties](http://www.party411.com/yourparties.html)  
-• [Door Prizes ](http://www.party411.com/guestbook.html) For Party Pros Only:  
-•  [Get a Yellow](http://www.party411.com/listform.html)  
-    [Pages Listing](http://www.party411.com/listform.html)  
-•  [Wholesalers](http://www2.party411.com/cgi-win/catlist.dll?NAT+2)  
-    [Yellow Pages](http://www2.party411.com/cgi-win/catlist.dll?NAT+2)
+• [Door Prizes ](http://www.party411.com/guestbook.html)
 
   
 • [PartyMenu411](http://www.party411.com/partymenu.html)  
@@ -26,6 +22,7 @@
 • [Party Games](http://www.party411.com/gameguide.html)  
 • [Planning Guides](http://www.party411.com/guides.html)  
 • Expert Advice:  
+    \- [Fashion Queen](http://www.party411.com/fashion.html)  
     \- [The Party Doctor](http://www.party411.com/doctor.html)  
     \- [The Party Girl](http://www.party411.com/advice.html)  
     \- [The Game Girl](http://www.party411.com/gamegirl.html)  
@@ -51,7 +48,7 @@
 
 Our site uses cookies to keep track of the city you are from, and only during the current website visit. 
 
-Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20010602035241id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
+Many of this site's interactive forms require users to give us contact information (like their name and email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. In some cases, such as our [discussion forums](https://web.archive.org/web/20011211174757id_/http%3A//www.party411.com/forums.html), your name and e-mail address will be posted to public pages of this website. Contact [mail@party411.com](mailto:mail@party411.com) to have your information removed. 
 
 This site contains links to other sites. **Party411.com** is not responsible for the privacy practices or the content of such Web sites. 
 
@@ -59,11 +56,15 @@ Our site uses an order form for customers to request information, products, and 
 
 ## Advertising
 
-In some cases, Party411 works with third parties that serves ads to this site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information. 
+In some cases, Party411 works with third parties who serve ads to this site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information. These companies may also use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. 
 
-To find out more about how one third party, **Flycast** , manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
+For policy  information specific to the third party ad servers, including opt-out choices, visit the company websites through the links below: 
 
-Another of these companies, **Sonar Network** , may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by the Sonar Network, please see <http://www.sonar.com/naiprivacy>.
+  * [Aptimus](http://network.aptimus.com/html/aptimus_terms.html)
+  * [Flycast](http://www.engage.com/privacy/)
+  * [Sonar Network](http://www.sonar.com/naiprivacy)
+
+
 
 ## Public Forums
 
