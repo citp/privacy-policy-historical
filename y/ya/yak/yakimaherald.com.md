@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202161303id_/http%3A//www.yakimaherald.com/pages/privacy.news) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602220227id_/http%3A//yakimaherald.com/privacy.php) for the most accurate reproduction.*
 
-# Yakima Herald-Republic Local News, Sports, Real Estate, Obituaries, Shopping and Advertising
+# Yakima Herald-Republic Privacy Statement
 
-  
 Yakima-Herald.com is firmly committed to protecting your privacy online. We respect your right to privacy and have taken steps to protect the information you share with us. Here is how we typically use the information you provide. ****
 
 **Your Personal Information**
