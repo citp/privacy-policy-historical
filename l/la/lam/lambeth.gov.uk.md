@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lambeth.gov.uk privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605082532id_/http%3A//www.lambeth.gov.uk/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lambeth.gov.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204205132id_/http%3A//www.lambeth.gov.uk/privacy.shtml) for the most accurate reproduction.*
 
 # London Borough of Lambeth | Privacy policy
 
