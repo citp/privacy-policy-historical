@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gate1travel.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204172835id_/http%3A//www.gate1travel.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gate1travel.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205234814id_/http%3A//www.gate1travel.com/privacy.htm) for the most accurate reproduction.*
 
 # Gate 1 Travel Privacy Policy
 
@@ -62,7 +62,7 @@ top
 
 A: It is an important new Internet security feature that now appears on the back of most Visa and MasterCards, and on the front of American Express cards. This new code is a three or four-digit number which provides a cryptographic check of the information embossed on the card.  
 The security code helps validate that the customer placing the online order actually has the credit card in his/her possession, and that the credit/debit card account is legitimate.  
-Click here for image showing location of [security code](https://web.archive.org/web/20041204172835id_/http%3A//www.gate1travel.com/Destinations/vcode.htm).
+Click here for image showing location of [security code](https://web.archive.org/web/20050205234814id_/http%3A//www.gate1travel.com/Destinations/vcode.htm).
 
 top
 
