@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the wrox.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602224624id_/http%3A//wrox.com/misc-pages/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrox.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205043659id_/http%3A//www.wrox.com/WileyCDA/Section/id-105117.html) for the most accurate reproduction.*
 
-# Wrox.com - Privacy Policy
-
-Privacy Policy   
-
-
-**Programmer to Programmer isn't just our slogan — it's the way we write our books.**
+# Wrox::Privacy Policy
 
 | 
 
@@ -17,8 +12,12 @@ If use of an electronic product, feature, or service offered by Wiley on this We
 
 Wiley may disclose to carefully chosen third parties navigational and transactional information in the form of anonymous, aggregate usage statistics (including "page views" on this Web site and the products herein) and demographics but only in forms that do not reveal a User's identity or confidential information, except as required by law, as needed in connection with legal proceedings, or unless we have received your consent.
 
+We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Action Tags and cookies provided by our marketing company on this site. The information we collect helps us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can "opt-out" of this web-site analysis tool by clicking [here](http://optout.wiley.rpts.net/cgi-bin/rpts/optout.pl). 
+
 Links may be provided from this Web site to other third party Web sites. In using such links, Users should be aware that each third-party Web site will vary in terms of its privacy and data protection policies, and Wiley does not take responsibility for the privacy policies of, and usage of, personal information collected by others including, without limitation, those of any partner or affiliate.
 
 You should be aware that identifiable personal information — such as your name or e-mail address — that you voluntarily disclose that are accessible to other Users (e.g., on bulletin boards or in chat areas) could be collected and disclosed by others. Wiley cannot take any responsibility for such collection and disclosure.
 
-Please note that Wiley's Privacy and Data Protection Policy is reviewed periodically. Wiley reserves the right to modify its Privacy and Data Protection Policy at any time without notice. Any changes to the policy will be posted on this page. Your continued use of this Web site will be deemed conclusive acceptance of such modification. Any comments or questions concerning this policy should be addressed by entering your comments through our [Contact Us](https://web.archive.org/misc-pages/contact.shtml) page.
+Please note that Wiley's Privacy and Data Protection Policy is reviewed periodically. Wiley reserves the right to modify its Privacy and Data Protection Policy at any time without notice. Any changes to the policy will be posted on this page. Your continued use of this Web site will be deemed conclusive acceptance of such modification. Any comments or questions concerning this policy should be addressed by entering your comments through our [Contact Us](https://web.archive.org/WileyCDA/Section/id-105071.html) page.
+
+| 
