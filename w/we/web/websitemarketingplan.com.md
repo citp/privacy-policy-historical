@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602115300id_/http%3A//websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203024521id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,13 +14,15 @@ During use of this Web site, a user may complete a registration or subscription 
 
 **Log Files**
 
-Like most standard Web sites we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. **IP addresses, etc.** **are not linked to personally identifiable information**. We use a tracking utility called Urchin ([www.urchin.com](http://www.urchin.com/)) that uses log files to analyze user movement.
+Like most standard Web sites we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. **IP addresses, etc.** **are not linked to personally identifiable information**.
 
 **Cookies**
 
-WebSiteMarketingPlan.com does not use cookies. Third party sites providing content or advertising, however, may use cookies, typically for fulfilling a request or for tracking purposes. Third party sites are governed by their own privacy policies. 
+WebSiteMarketingPlan.com uses cookies to avoid repeating some advertising messages to returning visitors. We do **not** use cookies to develop individual profiles.
 
-You are not required to accept cookies when viewing WebSiteMarketingPlan.com.  If you are concerned about third party cookies, you have the option of setting your browser to block or prompt for cookies.
+Third party sites providing content, links, or advertising, however, may use cookies, typically for fulfilling a request or for tracking purposes. Third party sites are governed by their own privacy policies. 
+
+You are not required to accept cookies when viewing WebSiteMarketingPlan.com.  If you are concerned about cookies, you have the option of setting your browser to block or prompt for cookies.
 
 **Business Transitions**
 
@@ -36,11 +38,11 @@ Users who no longer wish to receive our newsletter and service announcements may
 
 **Special Offers and Updates**
 
-Information on products, services and/or special deals is included in the body of each _newsletter_. Unsubscribe instructions are included in each newsletter.
+Information on products, services and/or special deals is included in the body of each newsletter. Unsubscribe instructions are included in each newsletter.
 
 **Service Announcements**
 
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our site is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their subscription. However, these communications are not promotional in nature.
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our site is temporarily suspended for maintenance we might send users an email. These communications are not promotional in nature. Generally, users may not opt-out of these communications, though they can deactivate their subscription. 
 
 **Sharing, Legal Disclaimer**
 
