@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605153810id_/http%3A//www.stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207033005id_/http%3A//www.stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
 
 # Stumps Prom
 
@@ -80,7 +80,7 @@
 >  [Customer Service](mailto:csr@stumpsprom.com)
 >>> 
 >>> _Or call us at:_  
->  1-800-348-5084
+>  1-800-227-2789
 >> 
 >> We will occasionally share our customers’ mailing information with select companies that we feel might be of interest to you. If you prefer that we do not share your name, simply mail or e-mail us your name and mailing address. Again, be sure to provide your exact name and address so that we may identify you correctly.
 >> 
@@ -97,7 +97,7 @@
 > 
 > ### Questions or Concerns
 >
->> If you at any time have questions, concerns, or need assistance with our Privacy Policy, please feel free to e-mail us at [Customer Service](mailto:csr@stumpsprom.com), call us toll free at 1-800-348-5084 or write to us at:
+>> If you at any time have questions, concerns, or need assistance with our Privacy Policy, please feel free to e-mail us at [Customer Service](mailto:csr@stumpsprom.com), call us toll free at 1-800-227-2789 or write to us at:
 >>
 >>> Stumps Prom  
 >  Attn: Customer Service  
