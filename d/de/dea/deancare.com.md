@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deancare.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209181036id_/http%3A//www.deancare.com/general/privacylegal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deancare.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411083232id_/http%3A//www.deancare.com/general/privacylegal.htm) for the most accurate reproduction.*
 
 # Dean Health System Privacy Statement, Medical Disclaimer and Copyright Statement
 
