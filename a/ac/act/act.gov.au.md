@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2000-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000603234628id_/http%3A//www.act.gov.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the act.gov.au privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205074700id_/http%3A//www.act.gov.au/privacy.cfm) for the most accurate reproduction.*
 
 # ACT Government - Privacy Statement for ACT Government
 
