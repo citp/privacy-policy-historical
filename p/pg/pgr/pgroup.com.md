@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgroup.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625093532id_/http%3A//us.st.com/stonline/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgroup.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008141737id_/http%3A//us.st.com/stonline/legal/privacy.htm) for the most accurate reproduction.*
 
 # STMicroelectronics | Templates | One Column
 
