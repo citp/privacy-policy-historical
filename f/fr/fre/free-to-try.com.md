@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-to-try.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605180405id_/http%3A//free-to-try.com/MoreInfo/FTT%2520Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-to-try.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206171053id_/http%3A//free-to-try.com/MoreInfo/FTT%2520Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy:
 
