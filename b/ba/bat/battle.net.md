@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battle.net privacy policy that was archived on 2001-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011010194925id_/http%3A//www.battle.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battle.net privacy policy that was archived on 2002-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020210113245id_/http%3A//www.battle.net/privacy.shtml) for the most accurate reproduction.*
 
 # Battle.net - Blizzard Entertainment On-Line Privacy Policy
 
@@ -71,7 +71,7 @@ Blizzard Entertainment also owns other domain names, such as www.warcraft.com, t
 
 > Blizzard Entertainment allows you to control the way we use personal identifying information that we might obtain. In fact, many of the "mailings" Blizzard Entertainment may send you, such as newsletters, tell you how to cancel the receipt of any future mailings. 
 > 
-> If, at any time, you wish to opt-out of: (1) providing us your personal information, (2) having your personal information shared with third parties, and/or (3) receiving information, via email or postal mail, about new products, services and promotions, you can do so by calling (800) 953-7669, by sending an email to [opt-out@blizzard.com](mailto:opt-out@blizzard.com), or by writing to Blizzard Entertainment Privacy / Opt-Out at 19840 Pioneer Avenue, Torrance, California 90503. Please indicate in your request what publications or services you no longer wish to receive so that we may better address your needs. 
+> If, at any time, you wish to opt-out of: (1) providing us your personal information, (2) having your personal information shared with third parties, and/or (3) receiving information, via email or postal mail, about new products, services and promotions, you can do so by calling (800) 953-7669, by sending an email to [opt-out@blizzard.com](mailto:opt-out@blizzard.com), or by writing to Blizzard Entertainment Privacy / Opt-Out at 6080 Center Drive, 10th Floor Los Angeles, California 90045. Please indicate in your request what publications or services you no longer wish to receive so that we may better address your needs. 
 
 **What about Children?**
 
