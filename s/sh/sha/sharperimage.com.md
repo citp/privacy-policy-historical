@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616143523id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharperimage.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012082246id_/http%3A//www.sharperimage.com/us/en/cust_help/cserv_newcustomers_securityandprivacy.jhtml) for the most accurate reproduction.*
 
 # The Sharper Image - Privacy & Security
 
@@ -12,8 +12,8 @@
        · Data Use  
        · Communications  
        · Mailing Lists  
+       · Email List  
        · Unsubscribe to Email  
-       · Third Party  
        · "Cookie" Use  
        · To Contact Us  
        · Access/Correction
@@ -24,15 +24,13 @@ Our postal address is:
 San Francisco, CA, 94111**  
 We can be reached via [**care@web.sharperimage.com**](mailto:care@web.sharperimage.com). Or you can reach us by telephone at **1-800-344-5555** , our customer service line, Monday-Friday 6 am to 6 pm PST and Sunday 8 am to 6 pm PST.
 
-Sharperimage.com is a safe and secure shopping environment. At The Sharper Image we appreciate your business and respect your privacy. In order to complete your order or to satisfy your request for information, you will be asked to provide us with certain personal information. We have put safeguards in place to ensure the security and privacy or your information. These safeguards are detailed below.
+Sharperimage.com is committed to protecting your privacy. In order to complete your order or to satisfy your request for information, you will be asked to provide us with certain personal information. We offer 128-bit SSL encryption, which encrypts your personal and credit card information as it is transferred over the Internet. 
+
+We electronically verify each order with the credit company, returning an order confirmed message **only** if the issuing bank authorizes it. Our experienced staff then manually checks all orders which still appear unusual, canceling any order we feel is not valid. 
 
 **Security** (top)
 
-> You are safe shopping online with The Sharper Image. Our secure server software is among the best available today for safe commerce transactions. It encrypts all of your personal information, including credit card number, name and address so that unauthorized persons cannot access it over the Internet. 
-> 
-> We guarantee that your credit card information will be safe when you place an order at sharperimage.com. This means that you'll never have to pay any money related to unauthorized charges to your credit card account if those charges result from a transaction at sharperimage.com. Bottom line: You're always protected when you shop our site. 
-> 
-> Here's how the guarantee works: If you're ever a victim of credit card fraud, the Fair Credit Act specifies that your credit card company can hold you liable for no more than $50 in fraudulent charges to your account. With sharperimage.com, you'll be reimbursed for any amount up to $50 billed to you by your credit card company for unauthorized charges to your account if those charges result from an order you've placed on our secure server. For this protection, you must promptly notify your credit card company of any fraudulent charges and follow the procedures for doing so as outlined in your credit card agreement. 
+> If you're ever a victim of credit card fraud, the Fair Credit Act specifies that your credit card company can hold you liable for no more than $50 in fraudulent charges to your account. With sharperimage.com, you'll be reimbursed for any amount up to $50 billed to you by your credit card company for fraudulent charges to your account if the credit card number was obtained from purchases made at sharperimage.com while using our secure server. For this protection, you must promptly notify your credit card company of any fraudulent charges and follow the procedures for doing so as outlined in your credit card agreement. 
 
 **How You Can Tell You're Browsing a Secure Website** (top)
 
@@ -91,6 +89,14 @@ Sharperimage.com is a safe and secure shopping environment. At The Sharper Image
 >  (nine digit number that usually begins with a #P and is found above your name/address on the back of the catalog). 
 > 
 > Please note that such requests may take up to 8 to 12 weeks to become effective. In addition, if you ask us to remove your name and address from our email or postal mailing lists, we will maintain your name in a "do not mail" file to ensure that we can honor your request. Please also note that when you make a purchase, we will send you emails to confirm your order and may also need to contact you via phone, postal mail or email if we have other questions regarding your order. 
+> 
+> From time to time we make portions of our customer mailing lists, which include name and street address, available to carefully screened companies. This may include your name and postal address, but never your email address. 
+> 
+> By purchasing online, you are automatically added to our catalog mailing list. You may also receive periodic mailings from us with information on new products and services or upcoming events. You may also request to be added to our mailing list online by [requesting a catalog](https://web.archive.org/us/en/account/requestcatalog.jhtml). 
+
+**Email List** (top)
+
+> As a strict policy, sharperimage.com does not sell, trade, rent or otherwise share your email address with any other company or third party. To change your email preferences, this includes opting in or opting out, [click here](https://web.archive.org/us/en/account/emailoptinout.jhtml). 
 
 **Unsubscribe to Email** (top)
 
@@ -101,14 +107,6 @@ Sharperimage.com is a safe and secure shopping environment. At The Sharper Image
 > Please allow one week for your changes to take place. If you have any questions or concerns you may also contact us by email at [care@web.sharperimage.com](mailto:care@web.sharperimage.com) or by telephone at 1-800-344-5555, Monday-Friday 6 am to 6 pm PT, Saturday 8 am to 4 pm PT. 
 > 
 > You may also click the unsubscribe link on any special offer email you receive from us and follow the instructions onscreen. 
-
-**Third Party** (top)
-
-> As a strict policy, sharperimage.com does not sell, trade, rent or otherwise share your email address with any other company or third party. From time to time we make portions of our customer mailing lists available to carefully screened companies. This may include your name and postal address, but never your email address. You can change your preferences at any time by accessing the Account Info section of the Website with your email account and password. 
-> 
-> By purchasing online, you are automatically added to our catalog mailing list. You may also receive periodic mailings from us with information on new products and services or upcoming events. You may also request to be added to our mailing list online by requesting a catalog. 
-> 
-> We contract with Coremetrics, a service partner, to provide us with a data collection and reporting service. As a result of your accessing our site, Coremetrics may on our behalf collect information about you. For further information, including how to opt out, consult Coremetrics privacy policies at: <http://www.coremetrics.com/info_eluminate2.html>. 
 
 **"Cookie" Use** (top)
 
