@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the henryfields.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201210806id_/http%3A//henryfields.com/article_disp.asp%3Fai%3D113) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henryfields.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210104825id_/http%3A//henryfields.com/article_disp.asp%3Fai%3D113) for the most accurate reproduction.*
 
 # Henry Field's Seed and Nursery Co.
 
