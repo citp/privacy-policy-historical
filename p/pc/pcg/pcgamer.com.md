@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcgamer.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203062654id_/http%3A//pcgamer.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcgamer.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604010236id_/http%3A//pcgamer.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
