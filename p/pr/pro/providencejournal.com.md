@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providencejournal.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606175157id_/http%3A//providencejournal.com/cgi-bin/include.pl/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providencejournal.com privacy policy that was archived on 2001-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011031035617id_/http%3A//providencejournal.com/cgi-bin/include.pl/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # projo.com/aboutus
 
