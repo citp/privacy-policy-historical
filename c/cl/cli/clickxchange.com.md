@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2001-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010627185635id_/http%3A//www.clickxchange.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2001-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011222104215id_/http%3A//www.clickxchange.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement for clickXchange.com
 
+  
 [](https://www.truste.org/validate/5007) This confirms that clickXchange.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://clickXchange.com. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
   1. What personally identifiable information of yours or third party personally identification is collected from you through the web site 
@@ -9,10 +10,10 @@
   3. How the information is used 
   4. With whom the information may be shared 
   5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under (Name of the Company) control 
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under CA Web Designs control 
   7. How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this statement, you should first contact (insert name of individual, department or group responsible for inquires) by (insert contact information; email, phone, postal mail, etc.) If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/users/watchdog.html. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact our staff by calling 949.673.7451. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org/users/watchdog.html. TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
 
 |  CA Web Designs has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: clickXchange.com.
 
@@ -66,4 +67,4 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Bill Mansfield CA Web Designs 8855 Atlanta Ave. #119 Huntington Beach CA 92646 admin@clickXchange.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Bill Mansfield clickXchange.com 3419 Via Lido #461 Newport Beach CA 92663 admin@clickXchange.com
