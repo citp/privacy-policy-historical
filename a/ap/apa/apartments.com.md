@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330090910id_/http%3A//apartments.com/LegalInfo.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartments.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205120227id_/http%3A//www.apartments.com/LegalInfo.htm) for the most accurate reproduction.*
 
 # Apartments.com Legal Information and Privacy Policy
 
-|  **
+  |  **
 
 Legal Information and Privacy Policy
 
@@ -46,7 +46,7 @@ IF YOU SUSPECT DISCRIMINATION:
 
 **
 
-Despite our zero tolerance policy, much of the information regarding real estate and related matters in this Web Site is provided by third parties or via hyperlink to third party sites. As such, there may be an instance of potential discrimination by these third parties that we are not yet aware of. If you suspect discrimination by one of these sites, please contact our staff at [feedback@apartments.com](mailto:feedback@apartments.com).
+Despite our zero tolerance policy, much of the information regarding real estate and related matters in this Web Site is provided by third parties or via hyperlink to third party sites. As such, there may be an instance of potential discrimination by these third parties that we are not yet aware of. If you suspect discrimination by one of these sites, please contact our staff at [feedback@apartments.com](mailto:feedback@apartments.com) .
 
 Complaints alleging discrimination in housing may be filed with the nearest office of the United States Department of Housing and Urban Development (HUD), or by calling HUD’s toll free number, 1-800-669-9777 (voice), or 1-800-543-8294 (TDD).
 
@@ -54,92 +54,74 @@ You can contact HUD on the internet at [http://www.hud.gov/fhe/fheo.html](http:/
 
 **
 
-PRIVACY STATEMENT
+Apartments.com Privacy Guarantee
 
 **
 
-Apartments.com respects the privacy of its users. In this document we explain how we use information you supply us via the Apartments.com Web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on our web sites.
+Apartments.com respects the privacy of its users. In this document we explain how we use information you supply us via the Apartments.com Web site. This privacy policy may be modified in the future. If it is, a new policy will be posted on our Web sites and you will have the opportunity to modify your information on file with us as explained below. 
 
-This Web site is the product of Apartments.com, a division of Classified Ventures, Inc. You may have linked to this Web site from an Apartments.com affiliate (the newspaper or other partner whose name appears at the top of the home page of this Web site). If so, please be aware that this Web site was customized by Apartments.com for the affiliate, that Apartments.com may share your information with the affiliate (as described below in the Section entitled "With whom do we share the information we collect?) and that during your visit to this Web site the affiliate may independently collect other information from you.
+This Web site is the product of apartments.com, a division of Classified Ventures, Inc. You may have arrived at this Web site by following a link from a apartments.com newspaper affiliate or other affiliate, in which case that affiliate will be clearly identified at the top of the home page of this Web site. If so, please be aware that this Web site was customized by apartments.com for the affiliate, with whom apartments.com may share your information (as described below in the Section entitled "With whom do we share the information we collect?"). During your visit to this Web site the affiliate may independently collect other information from you. 
 
-The policy that follows is applicable to Apartments.com’s information collection, use and disclosure practices. For information on the policy applicable to the affiliate’s information collection, use and disclosure practices, please review the privacy statement on the affiliate’s Web site (this may be the site from which you linked to get here). Also, please note that this Web site contains links to other Web sites. Apartments.com and its affiliates are not responsible for the content or the privacy policies of any Web sites to which you may link. Apartments.com and its affiliates are not responsible for the content or the privacy policies of any Web sites to which you may link. 
+The policy that follows is applicable to apartments.com's information collection, use and disclosure practices. For information on the policy applicable to the affiliate's information collection, use and disclosure practices, please review the privacy statement on the affiliate's Web site (this may be the site from which you linked to get here). Also, please note that this Web site contains links to other Web sites. Apartments.com and its affiliates are not responsible for the content or the privacy policies of any Web sites to which this site may link. 
 
-**
+**What personal information do we collect?**
 
-What personal information do we collect?
+**Visiting:** You are not required to provide personally identifiable information to visit the apartments.com site. We do collect usage data, ZIP codes and other information on all users, but it is not personally identifiable except as described below under the section IP addresses. 
 
-**
+**Registration, Service Requests and Web Forms:** You may be asked to provide personal information to use certain services on this site, which will be apparent from the forms we ask you to complete. When you sign up to join apartments.com as a registered user, request more information, use one of our other interactive services, or enter a contest, we may request specific information about you, including your name, age, address and phone number, as well as demographic and vehicle information. To sign up to join apartments.com as a registered user, use one of our other interactive services, or enter a contest, you must be 18 years of age or older and agree to the Terms and Conditions of the Web site. 
 
-**Registration** : When you sign up to use one of our services, request a price quote or enter a contest, we may ask for information about you, including your name, age, address, and phone number, as well as demographic information. To sign up to use one of our services, request a price or enter a contest, you must be at least 18 years of age and agree to the Terms and Conditions of the web site.
+**Premium Services:** Visitors 18 years of age or older may use an order form to request optional services at some parts of our Web site. We may collect your credit card information to bill you for these optional services. All other areas of our Web site are free and may be used by visitors 18 years of age or older without a fee. 
 
-****
+**Cookies:** Cookies are small text files that are placed on your computer's hard drive by our computers (or servers) to identify your computer. Cookies are read only by the server that placed them there and are unable to execute any code or virus. We use cookies to recognize you when you visit our site, to personalize your experience and generally to serve you better. For example, if you enter your name, address or ZIP code on one of our forms, it may be stored in a cookie so you do not have to enter it again. Cookies also can tell us what advertising you have seen on our site, which allows us to offer you a more diverse selection of advertising information. Cookies also may compile data about our visitors that may be shared with other companies, such as an outside advertising company. However, no personally identifiable information stored in cookies will be shared with outside companies for any purpose without your permission. You can disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages. If you turn off cookies, many apartments.com features will not work as well or at all. IP addresses: Apartments.com compiles IP addresses -- the location of your computer on the Internet -- for administrative and analytical purposes. Apartments.com does not routinely collect any personally identifiable information through its compilation of your IP address or the location of your computer on the Internet. However, in cases of suspected abuse or service problems, we may use an IP address in conjunction with other personally identifiable information to enforce our terms of service and to protect or troubleshoot the service, the site, its users or others who may be affected. No personally identifiable information associated with IP addresses will be shared with third parties for marketing purposes without your permission. 
 
-**Premium Services** : Visitors 18 years of age and older may use an order form to request optional services at some parts of our Web site. We collect a visitor’s credit card information to bill the visitor for these optional services. All other areas of our web site are free and may be used by visitors over 18 years of age or older.
+**How do we use the information we collect?**
 
-****
+**Site Interaction:** The information you provide when you register with apartments.com or fill out other forms on our site may be stored on our servers or, in some cases, in a cookie on your computer. This information will be used to compile aggregate data that is not personally identifiable and may be used internally or shared with third parties. This information may also be used to confirm and fulfill a request you are making, to follow up on that request and to communicate with you about the apartments.com service. The messages that apartments.com sends for these purposes may incidentally include promotional material or other content from apartments.com or its partners. In the case of these messages, we are not sharing your personally identifiable information with third parties, nor will we continue to send you promotional messages if you ask us not to, as described below in the Section entitled "Accessing, changing or deactivating information collected by apartments.com." 
 
-**Cookies** : Cookies are small text files that are placed on your computer's hard drive by our computers (or servers) to identify your computer. Cookies are only read by the server that placed them there and are unable to execute any code or virus. We use cookies to recognize you when you visit our site, to personalize your experience and generally to serve you better. . For example, if you enter your name, address, telephone number, email address, ZIP code or other personally identifiable information on one of our forms, such information will be stored in a cookie so you do not have to enter this information again. Cookies can also tell us which advertising you have seen on our site, allowing us to offer you a more diverse selection of advertising information. Cookies may also compile data about our visitors.
+**Direct Promotion:** Using the contact information provided by registrants 18 years of age and older, including e-mail addresses, apartments.com, its affiliates, or third parties to whom apartments.com discloses such information in accordance with this privacy policy (including its partners or advertisers) may periodically send you promotional or informational messages. In any case where we might use your contact information for this purpose, you will be able to indicate at registration whether you wish to receive such promotional or informational messages. However, by providing us your personal contact information when you register or request specific services, you agree that apartments.com may contact you regarding account status, changes to this privacy policy or other terms of service, and to confirm, fulfill and follow up on your registration, service or information request. 
 
-****
+**Visitor Behavior:** Apartments.com may perform statistical analyses of user behavior in order to measure interest in the various areas of our site, for development purposes, and to inform advertisers and partners about consumers who click on their advertising or other messages. In these analyses, we will disclose information to third parties only in aggregate form, except as specified below. We also may use personally identifiable information to improve your experience while you are visiting our site. This might include prefilling your personal information into Web forms so that you do not have to retype it or presenting you with editorial and advertising content that may be of interest. 
 
-**IP Addresses** : Apartments.com also compiles your IP address - the location of your computer on the Internet - for administrative purposes only. Apartments.com does not collect any personally identifiable information through its compilation of your IP addresses or the location of your computer on the Internet.
+**With whom do we share the information we collect?**
 
-**
+Apartments.com will share personally identifiable information with third parties in the following cases:  
+1\. With affiliated newspapers and other affiliate for whom we provide Web sites. Certain affiliates have Web pages that are branded with both their trademarks and ours. You may visit us through a co-branded page of such a site, for example a apartments.com page that is co-branded with XYZ Newspaper's Web site. If you entered the apartments.com Web site through a site maintained by one of these affiliates, then your personally identifiable information may be shared with that affiliate on the condition that the affiliate's use of the information is consistent with this privacy policy.   
+2\. As is necessary for third parties to provide information or perform services specifically requested by you. If through apartments.com you request additional information from an apartment community or property manager, we will share your information with those companies. Personally identifiable information may also be included in reports to these third parties, but only when you have already submitted the information to the third party as described above. After information is provided to such third parties, apartments.com does not and cannot control their subsequent use or disclosure of information.   
+3\. For direct marketing purposes, but only if you have authorized apartments.com to do so and only if you are 18 years of age or older. Although apartments.com will notify all third party direct marketers that the information provided to them is confidential, apartments.com does not and cannot control the use or disclosure of information by such marketers after the information is provided to them.   
+4\. To perform analytical and other services as an agent of apartments.com. In some cases we may work with third parties that do analysis and development on our behalf. We may share your personally identifiable information with such a third party on the condition that the third party maintains the information as confidential and only uses the information to perform the services specified by apartments.com. 
 
-How do we use the information we collect?
+**E-mail a Friend**
 
-**
+Apartments.com sometimes offers you the ability to send e-mail to a friend or other third party. E-mail a Friend functionality is for informational purposes only and may not be used for any unlawful purpose. This includes all harassment or threats. Apartments.com expressly reserves the right to release information you provide through use of this functionality (including but not limited to e-mail addresses, names and IP addresses) to third parties in any case of suspected abuse or other problems, in order to enforce our terms of service and to protect or troubleshoot the service, the site, its users or others who may be affected. Information collected under the "e-mail a friend" functionality is otherwise subject to the same limitations of use, access, security and disclosure described elsewhere in this privacy policy. 
 
-Apartments.com may perform statistical analyses of user behavior in order to measure interest in the various areas of our site, for development purposes, and to inform advertisers and partners about consumers clicking on their advertising or other messages. In these analyses, we will disclose information to third parties only in aggregate form.
+**How do we handle changes to your information or to this policy?**
 
-****
+**Notification of changes:** Any changes to this policy will be posted on our Web site in this location. If those changes affect how we use your personally identifiable information, we will contact you at the e-mail address in our records to notify you of the change before it takes effect in regard to your information. You can then either agree to the changes, modify your personally identifiable information or deactivate your user record. 
 
-**E-mail** : Using the e-mail addresses provided by registrants 18 years of age and older, Apartments.com, its advertisers, affiliates, partners, or third parties may periodically send promotional e-mail. In any case where we might use an email address for this purpose, you will be able to indicate at registration that you do not wish to receive such promotional e-mails from Apartments.com, its advertisers, affiliates, partners or third parties. However, by registering, you agree that Apartments.com may contact you by e-mail regarding account status, changes to the registrant agreement, and to confirm registration. In addition, if you provide your email address or other contact data in connection with a request for product information, Apartments.com, an advertiser, affiliate, partner or third parties, as applicable, will use that information to contact you.
+**Accessing, changing or deactivating information collected by apartments.com:** If you wish to access, verify the accuracy of, change or deactivate your personal information on file with apartments.com; change your permissions regarding use of personally identifiable information for direct promotion purposes by apartments.com or its partners (including affiliates and third parties identified in this policy). 
 
-****
+**Deactivation of user information:** If you deactivate your user information, your account information will no longer be used by apartments.com or made available to any third parties except in an aggregate form or as required by law. 
 
-**Data Security** : To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have put in place appropriate procedures to protect the information we collect online, including reasonable and appropriate security for credit card submissions.
+**Security**
 
-**
+Your personal information is one of our most valuable assets. It is kept physically secure in our data centers and is accessible only to authorized personnel as needed to perform operations governed by this policy. In addition, when we collect credit card or other highly sensitive information from you, such as a Social Security number, we use Secure Socket Layer (SSL) encryption, the industry standard for ensuring privacy in Web transactions. 
 
-What is Apartments.com’s relationship with affiliates and business partners?
+**Children's guidelines**
 
-**
+We believe that it is especially important to protect children's privacy online. We encourage parents to get involved with their children's online usage and to be aware of the activities in which they are participating. Note: We define "children" as minors younger than 13 years old. We do not knowingly collect or use any personally identifiable information from children, and we do not provide any personally identifiable information, regardless of its source, to any third party for any purpose whatsoever from our visitors younger than 13 years old. We do not knowingly allow children to register with us or to participate in any of our promotions or contests. No information should be submitted to or posted at apartments.com by visitors younger than 13 years old. In the event that apartments.com obtains information from an individual who indicates that he/she is younger than 13 years old, apartments.com will promptly discard the personally identifiable information without collecting, using or disclosing such information to any third party. You should be aware that if your child voluntarily discloses his or her name, e-mail address or other information on any Web site, such disclosures may result in unsolicited messages. 
 
-We have close relationships with affiliated newspapers and other business partners. Certain of those affiliates and partners have web pages that are branded both with our trademarks and the trademarks of our business partners. You may visit us through a co-branded page that is, for example, an Apartments.com page that is co-branded with XYZ Newspaper’s web site. 
+Does this privacy statement extend to links to other sites? 
 
-**
+This site contains links to other sites. While we encourage our business partners to adopt privacy policies that build users' trust and confidence in the Internet, we are not responsible for the privacy practices or the content of Web sites linked to any of our sites. We may allow third parties to sponsor promotions and sweepstakes through our site. Use of any personal information provided to such a third party will be governed by that party's privacy policy. 
 
-With whom do we share the information we collect?
+**Collection of information by third parties**
 
-**
+**Engage** : This site, Apartments.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [Engage.com](http://www.engage.com/privacy)
 
-In the future, Apartments.com may share your personally identifiable information with third parties for direct marketing purposes, but only if you have authorized Apartments.com to do so and only if you are over the age of 18. At the present time, Apartments.com will only share personally identifiable information with third parties as is necessary for those third parties to provide information or perform services specifically requested by you. Additionally, if you entered the Apartments.com web site through a site maintained by one of our affiliates or business partners, then your personally identifiable information may be shared with that affiliate or business partner, provided that use of the information does not violate this privacy policy. 
+Apartments.com uses a third-party advertising company to serve ads when you visit our site. This company may use information (not including your name, address, e-mail address or telephone number) about your visits to our and other Web sites in order to provide advertisements about goods and services of interest to you. In addition, we share Web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements on our site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our site through the use of pixel tags (also called clear gifs or single-pixel gifs). In the course of serving advertisements to this site, our third-party advertising company may place or recognize a unique "cookie" on your computer. If you would like more information about the information collection practices of this third-party advertising company and to know your choices about not having this information used by this company,[click here.](http://www.doubleclick.net/us/corporate/privacy/default.asp)
 
-****
+If you have any questions about this privacy statement, please e-mail us at [customerservice@apartments.com.](mailto:customerservice@apartments.com)
 
-**Engage** : This site, Apartments.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [Engage.com](http://www.engage.com/privacy). 
-
-****
-
-**Third Party Advertising Company** : **** Apartments.com uses a third-party advertising company to serve ads when you visit our site. This company may use information (not including your name, address, email address or telephone number) about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. In addition, we share web site usage information about visitors to our sites with this company for the purpose of managing and targeting advertisements on our site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our site through the use of pixel tags (also called clear gifs). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your computer. **** If you would like more information about the information collection practices of this third-party advertising company and to know your choices about not having this information used by this company, click here [http: //www.doubleclick.net/naiprivacy](http://www.doubleclick.net/naiprivacy)
-
-****
-
-**Message Boards** : Apartments.com offers message boards, or forums, on some of its web sites for use by visitors who are 18 years of age and older. Any information you disclose when posting a message in these forums becomes public. Moreover, registrants who post a message in our forums make their e-mail addresses available to others through a feature of our software, which could result in unsolicited e-mail from third parties.
-
-****
-
-**Children's Guidelines** : We believe that it is especially important to protect children’s privacy online. We encourage parents to get involved with your children’s online usage and to be aware of the activities in which they are participating. Note: we define "children" as minors younger than 13 years of age. We do not knowingly collect or use any personally identifiable information from children, and we do not provide any personally identifiable information, regardless of its source, to any third party for any purpose whatsoever from our visitors under 13 years of age. We do not knowingly allow children to register with us, or to participate in any of our promotions or contents. No information should be submitted to or posted at MovingCenter.com by visitors under 13 years of age. You should be aware that if your child voluntarily discloses his or her name, e-mail address, or other information on any web site, such disclosures may result in unsolicited messages.
-
-**
-
-Does this privacy statement extend to links to other sites?
-
-**
-
-This site contains links to other sites. While we encourage our business partners to adopt privacy policies that build users’ trust and confidence in the Internet, we are not responsible for the privacy practices or the content of web sites linked to any of our sites. We may allow third parties to sponsor promotions and sweepstakes through our site. Use of any personal information provided to such a third party will be governed by that party’s privacy policy.
-
-If you have any questions about this privacy statement, please e-mail us at feedback@apartments.com  
+Last updated: August 15, 2001   
   
 ---|---
