@@ -1,56 +1,111 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2000-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001017050159id_/http%3A//www.xml.com/pub/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603232939id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
 
-# XML.com - Privacy Policy
+# XML.com: O'Reilly & Associates, Inc. Privacy Policy [Feb. 06, 2001]
 
-Dec. 3, 1999
+|  |     
+  
+---  
+[Business](https://web.archive.org/business/)  
+[Graphics](https://web.archive.org/graphics/)  
+[Metadata](https://web.archive.org/metadata)  
+[Mobile](https://web.archive.org/mobile/)  
+[Programming](https://web.archive.org/programming/)  
+[Protocols](https://web.archive.org/protocols)  
+[Schemas](https://web.archive.org/schemas)  
+[Style](https://web.archive.org/style)  
+[Web](https://web.archive.org/web/)  
+  
+[Manage Your Account](http://www.xml.com/cs/user/login)  
+[Forgot Your Password?](http://www.xml.com/cs/user/lostpw)
 
-## XML.com's Privacy Policy
+[ ](https://web.archive.org/pub/a/2001/03/21/xml_com_feed.html)
 
-XML.com works to bring you the best XML development information. To fulfill that mission, we try to understand our readers information needs, while at the same time pledging to protect your privacy. 
+   
+[XML-Deviant](https://web.archive.org/pub/q/xmldeviant)  
+[Style Matters](https://web.archive.org/pub/q/stylematters)  
+[XML Q&A](https://web.archive.org/pub/q/xmlqanda)  
+[Transforming XML](https://web.archive.org/pub/q/transformingxml)  
+[Perl and XML](https://web.archive.org/pub/q/perlxml)
 
-XML.com collects customer information on our site, from registration and measuring traffic, to more effectively tailor our offerings. This FAQ should help you understand our methods and your choices about how you make information available to us. 
+  
+   
+[XML Resources](https://web.archive.org/resourceguide/)  
+[Buyer's Guide](https://web.archive.org/buyersguide/)  
+[Events Calendar](https://web.archive.org/pub/q/Events)  
+[Standards List](https://web.archive.org/pub/q/stdlist)  
+[Submissions List](https://web.archive.org/pub/q/submlist)    
+  
+[Syntax Checker](https://web.archive.org/pub/a/tools/ruwf/check.html)  
+[XML Testbed](https://web.archive.org/pub/a/tools/xmlt/index.html) [](http://www.seyboldreport.com/)
 
-  * What information does XML.com gather and track?
-  * What is Registration at XML.com?
-  * How does XML.com share information?
-  * How do I unsubscribe or have my registration removed from the list?
-  * How else can I contact XML.com?
+[](http://www.oreillynet.com/)  
+
+
+  
+| 
+
+[](https://web.archive.org/lpt/a/admin/policy.html)  
+
+
+February 06, 2001
+
+### Purpose and Scope
+
+This policy discloses what information we gather about you when you visit any of our Web sites (all oreilly.com and O'Reilly Network sites) or buy product directly from us. It describes how we use that information and how you can control it. Our privacy policy addresses: 
+
+Information O'Reilly gathers and tracks  
+Personal information  
+Aggregated tracking information  
+Cookies  
+Notification of Changes  
+How to update, correct, or delete your information
+
+### Information O'Reilly gathers and tracks
+
+O'Reilly collects two kinds of information about users: 1) data that users volunteer by signing up to receive news and product information, entering contests, completing surveys, downloading demo versions of O'Reilly software, or buying directly from us; and 2) aggregated tracking data we collect when users interact with us. 
+
+### Personal information
+
+We use the personal information you provide voluntarily to send information you've requested and to fulfill orders. The specific use of your personal information varies, depending on how you contact us: 
+
+  * When you sign up to receive O'Reilly Network newsletters and/or O'Reilly product and company news at elists.oreilly.com, you must provide your name, email address, and a password. We never sell or rent your email address or other personally identifiable information you provide when subscribing to our elists.
+  * When you register for an O'Reilly conference, or sign up for a conference email list, we will send you email announcements and updates about O'Reilly conferences. We send conference brochures to past conference attendees.
+  * When you order books directly from us, or request book catalogs, we add you to our snailmail list, and we'll send you catalogs and other marketing pieces.
+  * When you download demo versions of O'Reilly software from software.oreilly.com, we may provide a distributor with your contact information. Our software distributors are restricted from selling or re-using the contact information we share with them. We provide contact information only for software.oreilly.com users who actually download software.
+  * When you enter a contest, we may ask for your name, address, and email address so we can administer the contest and notify winners.
 
 
 
-**What information does XML.com gather and track?**
+We share customer information only with affiliated companies (see http://www.oreilly.com/affiliates.html and http://www.oreillynet.com/pub/q/all_affiliates) and as described below: 
 
-Each time you come to XML.com, we collect some information that helps us improve our site. We look at how traffic flows throughout our site, what parts you visit, and what parts you don't. 
+  * With third parties we retain to perform functions on our behalf, such as fulfilling orders, processing credit card payments, managing mailing lists, and delivering packages. These parties are restricted from using your information for any other purpose.
+  * We rent our snailmail list for one-time use to third parties we deem relevant and appropriate. We do not rent or sell our email lists.
+  * We release personal information when we believe that release is appropriate to comply with the law, or to protect the rights, property, or safety of O'Reilly & Associates, our users, or others. This may include exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-We might compile this data to create profiles of XML.com users, and we share this with our advertisers. 
 
-**What is Registration at XML.com?**
 
-We value member registration at XML.com because by registering you can tell us what your interests are. It's useful information for our business. 
+### Aggregated tracking information
 
-By registering, you receive our free weekly email update, _XML.com Xtra!_. We use this registration information only within the O'Reilly Network. 
+We analyze visitors' use of our sites by tracking information such as pageviews, traffic flow, search terms, and click through. We use this information to improve our sites. We also share this anonymous traffic and demographic information in aggregate form with advertisers and other business partners. We do not share any information with advertisers that can identify an individual user. 
 
-When you register, you can also opt to receive information from selected partners. 
+### Cookies
 
-**How does XML.com share information?**
+A cookie is a small data file that we transfer to your computer's hard drive through your web browser when you visit our sites. Cookies enable our systems to recognize your computer, so that we can provide you with personalized information and features. We also use cookies to track user traffic patterns. 
 
-XML.com may share information with advertisers to help them present products our users might find interesting. We may share information with our partners so that we can study ways to be more productive and informative. 
+On O'Reilly Network sites, we and some of our advertisers use a third-party ad server to display ads. These ads may contain cookies. The ad server receives these cookies, and we don't have access to them. 
 
-We want XML.com to be useful to you at all times, and don't provide information about you to other organizations without your consent when you register. 
+You can set your browser to warn you before accepting cookies or to block cookies. If you block cookies, you may not be able to use certain site features or functions. 
 
-**How do I unsubscribe or have my registration removed from the list?**
+### Notification of Changes
 
-If you want to cancel a subscription to XML.com Xtra!, please email the word "unsubscribe" in the body of the message to [xml-update-request@lists.songline.com](mailto:xml-update-request@lists.songline.com)
+If we change our Privacy Policy, we will post those changes on www.oreilly.com. If we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users via email. Users will be able to opt out of any new use of their personal information. 
 
-NOTE: Please make certain to unsubscribe from the email address at which you receive XML.com Xtra!, or let us know if you have other email accounts, which may be forwarding XML.com Xtra! to you. 
+### How to update, correct, or delete your information
 
-**How else can I contact XML.com?**
+**Email** : To update or unsubscribe from our email newsletters or product announcements, go to elists.oreilly.com. To get help from a human, send email to xml-help@xml.com or call 800-998-9938 or 707-829-0515. 
 
-If you have any questions about this privacy statement, the practices of XML.com, or your dealings with us, you can contact: 
+**Snailmail** : To change your address or delete your name from our mailing list for paper catalogs, brochures, or advertisements, send email to catalog@oreilly.com or call 800-998-9938 or 707-829-0515.
 
-Margaret de Santos  
-O'Reilly Network  
-101 Morris Street  
-Sebastopol, CA 95472  
-[margaret@oreilly.com](mailto:margaret@oreilly.com)  
-(707) 829-6500 
+  
+|  |    
+
