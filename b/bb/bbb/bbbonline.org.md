@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbbonline.org privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408214306id_/http%3A//www.bbbonline.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbbonline.org privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217104714id_/http%3A//www.bbbonline.org/about/privacy.asp) for the most accurate reproduction.*
 
 # BBBOnLine, Inc.
 
