@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discoverykids.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604021727id_/http%3A//kids.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverykids.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207223616id_/http%3A//kids.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Discovery Kids :: Privacy Policy
 
@@ -42,7 +42,7 @@ _Cookies and Non-Personally Identifiable Information_
 
 To help make our sites more responsive to the needs of our visitors, we invoke a standard feature found in browser software, called a "cookie", to assign each visitor a unique, random number, a sort of anonymous user ID that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. A cookie can't read data off your hard drive. We do not link cookie data with personally identifiable information, nor do we store kid's personal information in our cookies. You can disable cookies at any time by changing the preferences in your browser.
 
-Also, please note that our advertisers or third-party ad servers may assign their own cookies to your browser, a process that we don't control. For more about third-party ad servers, click here. 
+Also, please note that our advertisers or third-party ad servers may assign their own cookies to your browser, a process that we don't control. For more about third-party ad servers, [click here.](http://www.networkadvertising.org/optout_nonppii.asp)
 
 Finally, Discovery keeps records of certain non-personally identifiable information such as the number of hits a Web page receives, IP address, and other aggregate data. We do not link this aggregate data with any personal information. Third parties that help us administer our Web sites may have access to this non-personally identifiable, aggregate data, as may our third-party ad servers. However, these third parties are bound to keep this information confidential. 
 
