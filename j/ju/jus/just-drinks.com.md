@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401220341id_/http%3A//www.just-drinks.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just-drinks.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209142709id_/http%3A//www.just-drinks.com/about/privacy.asp) for the most accurate reproduction.*
 
 # just-drinks.com: About Us
 
@@ -48,6 +48,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Mike Gove  
 Chief Operations Officer Aroq Ltd. Seneca House  
-Buntsford Hill Business Park  
+Buntsford Park Road  
 Bromsgrove  
 Worcestershire B60 3DX [mike.gove@aroq.com](mailto:mike.gove@aroq.com)
