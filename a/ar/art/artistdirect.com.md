@@ -1,27 +1,11 @@
-> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 1999-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991012192534id_/http%3A//www.artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdirect.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205213500id_/http%3A//www.artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
 
-# ARTISTdirect - Help/FAQ
+# ARTISTdirect.com on the ARTISTdirect Network
 
-| 
-
-[](http://www.truste.org/validate/3735)
-
-**TRUSTe Licensee**
-
-ARTISTdirect is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the ARTISTdirect websites. 
-
-TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.   Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  By displaying the TRUSTe trustmark, this web site has agreed to notify you of:   
-1\. What personally identifiable information of yours or third party personally identification is collected from you through the web site   
-2\. The organization collecting the information   
-3\. How the information is used   
-4\. With whom the information may be shared   
-5\. What choices are available to you regarding collection, use and distribution of the information   
-6\. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ARTISTdirect's control   
-7\. How you can correct any inaccuracies in the information.  
-If you have questions or concerns regarding this statement, you should first contact Customer Service via email at [customerservice@artistdirect.com](mailto:customerservice@artistdirect.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [http://www.truste.org](http://www.truste.org/). TRUSTe will then serve as a liason with the Web site to resolve your concerns.
-
-**  
-Privacy Policy Overview**
+  
+**ARTISTdirect NETWORK - PRIVACY STATEMENT**  
+  
+** Privacy Policy Overview**
 
 We understand your need to maintain your privacy when using the Internet for your communication, shopping, exploration and play.  
 
@@ -108,7 +92,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-> 1.send email to [_customerservice@artistdirect.com_](mailto:customerservice@artistdirect.com)  
+> 1.send email to [customerservice@artistdirect.com](mailto:customerservice@artistdirect.com)  
 >  2\. call the toll-free: 1-877-5-ARTIST (1-877-527-8478)
 
 ****
@@ -126,9 +110,9 @@ ARTISTdirect.com gives users the following options for reviewing and modifying i
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 _Customer Service  
-ARTISTdirect  
-17835 Ventura Blvd., Ste 310  
-Encino, CA 91316  
+ARTISTdirect, Inc.  
+5670 Wilshire Blvd., Suite 200  
+Los Angeles, CA 90036  
 USA  
-Email: [customerservice@artistdirect.com](mailto:customerservice@artistdirect.com)  
+Email: [policy@ubl.com](mailto:policy@ubl.com)  
 Phone: 1-877-5-ARTIST (1-877-527-8478)_
