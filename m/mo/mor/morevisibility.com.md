@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2004-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040803110023id_/http%3A//www.morevisibility.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morevisibility.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206210232id_/http%3A//www.morevisibility.com/privacy_policy.html) for the most accurate reproduction.*
 
-# MoreVisibility - The Leaders in Search Engine Positioning and Marketing
+# MoreVisibility - Leaders in Search Engine Marketing and Optimization
 
 **General Information**
 
@@ -19,4 +19,6 @@ Cookies are information files which a Web server places on your computer when yo
 **Personal Information**  
 We never sell, trade or otherwise disclose personally identifiable information to anyone. We do not share your e-mail address with any other company. The information collected is for the sole purpose of fulfilling and discussing the Free Position Report offered on our site, at your request.
 
-You are given the opportunity with each e-mail newsletter correspondence we send, for updates and additional marketing information, to remove yourself from our e-mail contact list. We will make all reasonable attempts to remove requested email addresses from our files. All inquiries regarding this Privacy Policy should be directed to [privacy@morevisibility.com](mailto:privacy@morevisibility.com). 
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [Click Here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+You are given the opportunity with each e-mail newsletter correspondence we send, for updates and additional marketing information, to remove yourself from our e-mail contact list. We will make all reasonable attempts to remove requested email addresses from our files. All inquiries regarding this Privacy Policy should be directed to [privacy@morevisibility.com](mailto:privacy@morevisibility.com).
