@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the valenciacc.edu privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607193705id_/http%3A//www.valenciacc.edu/AboutUs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valenciacc.edu privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404001027id_/http%3A//valenciacc.edu/AboutUs/privacy.asp) for the most accurate reproduction.*
 
-# Valencia Community College
+# Who We Are - Privacy Statement - Valencia Community College
 
 * **Online Privacy Statement** The policy of Valencia Community College is to respect the privacy of all web site visitors to the extent permitted by law. This online privacy statement is intended to inform you of the ways in which this web site collects information, the uses to which that information will be put, and the ways in which we will protect any information you choose to provide us. 
 
