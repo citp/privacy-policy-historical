@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edwardwadsworth.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203115008id_/http%3A//www.edwardwadsworth.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edwardwadsworth.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611034447id_/http%3A//edwardwadsworth.com/html/privacy_policy.html) for the most accurate reproduction.*
 
 # Edward Wadsworth for Hair Privacy Policy
 
@@ -60,6 +60,6 @@ Edward Wadsworth For Hair is committed to maintaining its position as a premier 
 
 Questions regarding this statement should be directed to the Don Dutro edwardwadsworth.com 8650 SW Canyon Rd. Portland, OR  97225 or send an email to the [President] at ddutro@edwardwadsworth.com. 
 
-To return to the Web site, please use the "Back" button on your browser or [Click Here](https://web.archive.org/web/20031203115008id_/http%3A//www.edwardwadsworth.com/index.html) to go to our Products Page.
+To return to the Web site, please use the "Back" button on your browser or [Click Here](https://web.archive.org/web/20040611034447id_/http%3A//edwardwadsworth.com/index.html) to go to our Products Page.
 
  
