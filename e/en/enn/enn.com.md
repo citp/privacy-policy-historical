@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216224813id_/http%3A//enn.com/aboutenn/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2002-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021114132620id_/http%3A//www.enn.com/aboutenn/privacy.asp) for the most accurate reproduction.*
 
 # 
 
-[](http://www.truste.org/validate/9256)This confirms that Environmental News Network/ENN.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Read ENN.com in complete confidence that your privacy will be protected. If you have any questions or concerns, please do not hesitate to contact us at the number listed below. 
 
 When a user subscribes to ENN's Daily E-mail service, personal information and e-mail address are used for subscriber maintenance only. At no point will this information be disclosed to a third party or be used by ENN for any other purpose. Email addresses are only used to distribute the daily email newsletter the users by their request. 
 
@@ -34,7 +34,7 @@ The information given to ENN.com, including, but not limited to, all posted info
 
 Links to other web sites are often used in ENN stories and pages to supply the user with additional information. Please be advised that the ENN privacy policy does not apply to those web sites and ENN is not responsible for information collected on those sites. Users are encouraged to view the privacy policy posted by that web site company. 
 
-If you have questions or concerns regarding this statement, you should first contact:
+If you have questions or concerns regarding this statement, you should contact:
 
 Customer Service  
 Environmental News Network  
@@ -43,7 +43,3 @@ P.O. Box 1996, Sun Valley, ID 83353
 (208) 726-3649 ext. 10  
 (208) 726-2476 — FAX  
 [customerservice@enn.com](mailto:customerservice@enn.com)
-
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact:  
-TRUSTe: <http://www.truste.org/watchdog.html>  
-TRUSTe will then serve as a liaison with the Web site to resolve your concerns. 
