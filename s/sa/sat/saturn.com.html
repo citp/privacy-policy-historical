@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the saturn.com privacy policy that was archived on 1999-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/19991127211225id_/http%3A//saturn.com/quick_links/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the saturn.com privacy policy that was archived on 2000-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000614101652id_/http%3A//saturn.com/quick_links/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Transitional//EN"><html><head>
 <title>Saturn: Privacy Policy</title>
@@ -9,8 +9,8 @@
 if (document.images) {
 
 		// Begin quicklinks image preload ssi
-		ishowroomOff = new Image(); ishowroomOff.src="/images/quick_links_text/ishowroom.gif";
-		ishowroomOn = new Image(); ishowroomOn.src="/images/quick_links_text/ishowroom_F2.gif";
+				researchCenterOff = new Image(); researchCenterOff.src="/images/new_coupes/quick_links_text/research_center.gif";
+		researchCenterOn = new Image(); researchCenterOn.src="/images/new_coupes/quick_links_text/research_center_F2.gif";
 		pricingOff = new Image(); pricingOff.src="/images/quick_links_text/pricing.gif";
 		pricingOn = new Image(); pricingOn.src="/images/quick_links_text/pricing_F2.gif";
 		find_retailerOff = new Image(); find_retailerOff.src="/images/quick_links_text/find_retailer.gif";
@@ -23,99 +23,102 @@ if (document.images) {
 		whats_newOn = new Image(); whats_newOn.src="/images/quick_links_text/whats_new_F2.gif";
 		talk_to_usOff = new Image(); talk_to_usOff.src="/images/quick_links_text/talk_to_us.gif";
 		talk_to_usOn = new Image(); talk_to_usOn.src="/images/quick_links_text/talk_to_us_F2.gif";
-		searchOff = new Image(); searchOff.src="/images/quick_links_text/search.gif";
-		searchOn = new Image(); searchOn.src="/images/quick_links_text/search_F2.gif";
 		site_mapOff = new Image(); site_mapOff.src="/images/quick_links_text/site_map.gif";
 		site_mapOn = new Image(); site_mapOn.src="/images/quick_links_text/site_map_F2.gif";
+		searchOff = new Image(); searchOff.src="/images/quick_links_text/search.gif";
+		searchOn = new Image(); searchOn.src="/images/quick_links_text/search_F2.gif";
 		// End quicklinks image preload ssi
 
 		// Begin main nav image preload ssi
-				companyMainOff = new Image(); companyMainOff.src="/images/main_nav/company_off_white.gif";
-		companyMainOn = new Image(); companyMainOn.src ="/images/main_nav/company_on_white.gif";
-		carMainOff = new Image(); carMainOff.src="/images/main_nav/car_off_white.gif";
-		carMainOn = new Image(); carMainOn.src ="/images/main_nav/car_on_white.gif";
-		researchMainOff = new Image(); researchMainOff.src="/images/main_nav/research_off_white.gif";
-		researchMainOn = new Image(); researchMainOn.src ="/images/main_nav/research_on_white.gif";
-		
-		//mysaturnMainOff = new Image(); mysaturnOff.src="/images/main_nav/mysaturn_off_white.gif";
-		//mysaturnMainOn = new Image(); mysaturnOn.src ="/images/main_nav/mysaturn_on_white.gif";
+				companyMainOff = new Image(); companyMainOff.src="/images/main_nav_new/white_off_company.gif";
+		companyMainOn = new Image(); companyMainOn.src ="/images/main_nav_new/white_on_company.gif";
+		carMainOff = new Image(); carMainOff.src="/images/main_nav_new/white_off_models.gif";
+		carMainOn = new Image(); carMainOn.src ="/images/main_nav_new/white_on_models.gif";
+		ishowroomMainOff = new Image(); ishowroomMainOff.src="/images/main_nav_new/white_off_ishowroom.gif";
+		ishowroomMainOn = new Image(); ishowroomMainOn.src="/images/main_nav_new/white_on_ishowroom.gif";
 
 		// End main nav image preload ssi
 }
 
 		// begin javascript functions ssi
-		function imgOn(imgGroup, imgName) {
-       if (document.images) {
-       document[imgGroup].src = eval(imgGroup + imgName + "On.src");
-       }
-}
-
-function imgOff(imgName) {
-      if (document.images) {
-       document[imgName].src = eval(imgName + "Off.src");
-       }
-}
-
-function imgOnT(imgName) {
-       if (document.images) {
-       document[imgName].src = eval(imgName + "On.src");
-	   document['secTitle'].src = eval(imgName + "Title.src");
-       }
-}
-
-function imgOffT(imgName) {
-      if (document.images) {
-       document[imgName].src = eval(imgName + "Off.src");
-	   document['secTitle'].src = eval("companyTitle.src");
-       }
-}
-
-function img_act(imgName) {
-       if (document.images) {
-       imgOn = eval(imgName + "On.src");
-       document [imgName].src = imgOn;
-       }
-}
-
-function img_inact(imgName) {
-       if (document.images) {
-       imgOff = eval(imgName + "Off.src");
-       document [imgName].src = imgOff;
-       }
-}
-
-//Simple, Watered-Down Javascript
-function imgOnSimple(imgName) {
-        if (document.images) {
-		document[imgName].src = eval(imgName + "On.src"); 
+				function imgOn(imgGroup, imgName) {
+			if (document.images) {
+			document[imgGroup].src = eval(imgGroup + imgName + "On.src");
+			}
 		}
 
-}
-
-function imgOffSimple(imgName) {
-        if (document.images) {
-        document[imgName].src = eval(imgName + "Off.src"); 
+		function imgOff(imgName) {
+			if (document.images) {
+			document[imgName].src = eval(imgName + "Off.src");
+       		}
 		}
-}
 
-function openIPwin() { 
-	IPopen = window.open("/cgi-bin/br.cgi","Info","toolbar=yes,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=650, height=350");
-	}
-	
-function openEmailwin() { 
-	Emailopen = window.open("/cgi-bin/em.cgi","Email","toolbar=yes,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=650, height=350");
-	 }
+		function imgOnT(imgName) {
+			if (document.images) {
+			document[imgName].src = eval(imgName + "On.src");
+			document['secTitle'].src = eval(imgName + "Title.src");
+      		 }
+		}
 
-function openRetailerwin() { 
-	Retaileropen = window.open("/cgi-bin/retlarea.cgi","Retailer","toolbar=yes,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=650, height=350");
-	}
+		function imgOffT(imgName) {
+			if (document.images) {
+			document[imgName].src = eval(imgName + "Off.src");
+			document['secTitle'].src = eval("companyTitle.src");
+			}
+		}
+
+		function img_act(imgName) {
+		       if (document.images) {
+		       imgOn = eval(imgName + "On.src");
+		       document [imgName].src = imgOn;
+		       }
+		}
+		
+		function img_inact(imgName) {
+		       if (document.images) {
+		       imgOff = eval(imgName + "Off.src");
+		       document [imgName].src = imgOff;
+		       }
+		}
+
+		//Simple, Watered-Down Javascript
+			function imgOnSimple(imgName) {
+        	if (document.images) {
+			document[imgName].src = eval(imgName + "On.src"); 
+			}
+		}
+
+		function imgOffSimple(imgName) {
+        	if (document.images) {
+        	document[imgName].src = eval(imgName + "Off.src"); 
+			}
+		}
+
+		function openIPwin() { 
+			IPopen =	
+			window.open("/cgi-bin/br.cgi","Info","toolbar=yes,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=650, height=350");
+			}
 	
-function openPLwin() { IPCopen = window.open("/car/ipc/index.html","IPC","toolbar=yes,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=650, height=350");
-	} 
+		function openEmailwin() { 
+			Emailopen =
+			window.open("/communication/email.html","Email","toolbar=yes,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=650,height=350");
+	 		}
+
+		function openRetailerwin() { 
+			Retaileropen = window.open("/cgi-bin/retlarea.cgi","Retailer","toolbar=yes,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=650,height=350");
+			}
 	
-function openIPCwin() { 
-	IPCopen = window.open("/car/ipc/index.html","IPC","toolbar=yes,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=650, height=350");
-	}
+		function openPLwin() { 
+			IPCopen = window.open("/car/ipc/index.html","IPC","toolbar=yes,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=650,height=350");
+			} 
+	
+		function openIPCwin() { 
+			IPCopen = window.open("/car/ipc/index.html","IPC","toolbar=yes,location=no,directories=no,status=yes,menubar=yes,scrollbars=yes,resizable=yes,copyhistory=no,width=650,height=350");
+			}
+	
+		function MM_openBrWindow(theURL,winName,features) { //v2.0
+ 			 window.open(theURL,winName,features);
+			}
 		// end javascript functions ssi
 		
 		</script>
@@ -134,13 +137,13 @@ function openIPCwin() {
 	<td bgcolor="#FFFFFF"><img src="/images/spacer.gif" width="1" height="7" border="0" alt=""></td>
 </tr>
 <tr><!-- row 2 -->
-	<td bgcolor="#FFFFFF"><div align="center"><a href="/models/index.html" onmouseover="img_act('carMain'); return true" onmouseout="img_inact('carMain'); return true"><img name="carMain" src="/images/main_nav/car_anim_white.gif" width="126" height="70" border="0" alt="A Different Kind of Car" vspace="10"></a></div></td>
+	<td bgcolor="#FFFFFF"><div align="center"><a href="/models/index.html" onmouseover="imgOnSimple('carMain');" onmouseout="imgOffSimple('carMain');"><img name="carMain" src="/images/main_nav_new/white_off_models.gif" width="165" height="98" border="0" alt="A Different Kind of Car" vspace="5"></a></div></td>
 </tr>
 <tr><!-- row 3 -->
-	<td bgcolor="#FFFFFF"><div align="center"><a href="/company/index.html" onmouseover="img_act('companyMain'); return true" onmouseout="img_inact('companyMain'); return true"><img name="companyMain" src="/images/main_nav/company_anim_white.gif" width="158" height="70" border="0" alt="A Different Kind of Company" vspace="10"></a></div></td>
+	<td bgcolor="#FFFFFF"><div align="center"><a href="/company/index.html" onmouseover="imgOnSimple('companyMain');" onmouseout="imgOffSimple('companyMain');"><img name="companyMain" src="/images/main_nav_new/white_off_company.gif" width="165" height="104" border="0" alt="A Different Kind of Company" vspace="5"></a></div></td>
 </tr>
 <tr><!-- row 4 -->
-	<td bgcolor="#FFFFFF"><div align="center"><a href="/research/index.html" onmouseover="img_act('researchMain'); return true" onmouseout="img_inact('researchMain'); return true"><img name="researchMain" src="/images/main_nav/research_anim_white.gif" width="85" height="70" border="0" alt="Research Center" vspace="10"></a></div></td>
+	<td bgcolor="#FFFFFF"><div align="center"><a href="javascript:openIPCwin()" onmouseover="img_act('ishowroomMain'); return true" onmouseout="img_inact('ishowroomMain'); return true"><img name="ishowroomMain" src="/images/main_nav_new/white_off_ishowroom.gif" width="165" height="74" border="0" alt="iShowroom" vspace="5"></a></div></td>
 </tr>
 </tbody></table>
 	<!--- end main nav circles table ssi --->
@@ -194,7 +197,7 @@ function openIPCwin() {
 
          <font face="arial, helvetica, sans-serif" size="-2">
 
-         © 1999 Saturn Corp. All rights reserved.
+         © 2000 Saturn Corp. All rights reserved.
 
 		 <br>
 
@@ -231,15 +234,15 @@ function openIPCwin() {
 	<tr>
 		<td align="CENTER" valign="MIDDLE">
 		<img src="/images/space_white.gif" width="1" height="13" alt="" border="0"><br>
-		<a href="javascript:openIPCwin()" onmouseover="imgOnSimple('ishowroom');" onmouseout="imgOffSimple('ishowroom');"><img name="ishowroom" src="/images/quick_links_text/ishowroom.gif" width="119" height="20" border="0" alt=""></a><br>
-		<a href="javascript:openPLwin()" onmouseover="imgOnSimple('pricing');" onmouseout="imgOffSimple('pricing');"><img name="pricing" src="/images/quick_links_text/pricing.gif" width="119" height="20" border="0" alt=""></a><br>
-		<a href="javascript:openRetailerwin()" onmouseover="imgOnSimple('find_retailer');" onmouseout="imgOffSimple('find_retailer');"><img name="find_retailer" src="/images/quick_links_text/find_retailer.gif" width="119" height="20" border="0" alt=""></a><br>
-		<a href="javascript:openIPwin()" onmouseover="imgOnSimple('request_brochure');" onmouseout="imgOffSimple('request_brochure');"><img name="request_brochure" src="/images/quick_links_text/request_brochure.gif" width="119" height="20" border="0" alt=""></a><br>
-		<a href="http://www.saturnstuff.com/" onmouseover="imgOnSimple('buy_stuff');" onmouseout="imgOffSimple('buy_stuff');"><img name="buy_stuff" src="/images/quick_links_text/buy_stuff.gif" width="119" height="20" border="0" alt=""></a><br>
-		<a href="/quick_links/new.html" onmouseover="imgOnSimple('whats_new');" onmouseout="imgOffSimple('whats_new');"><img name="whats_new" src="/images/quick_links_text/whats_new.gif" width="119" height="20" border="0" alt=""></a><br>
-		<a href="/quick_links/talk.html" onmouseover="imgOnSimple('talk_to_us');" onmouseout="imgOffSimple('talk_to_us');"><img name="talk_to_us" src="/images/quick_links_text/talk_to_us.gif" width="119" height="20" border="0" alt=""></a><br>
-		<a href="/quick_links/search.html" onmouseover="imgOnSimple('search');" onmouseout="imgOffSimple('search');"><img name="search" src="/images/quick_links_text/search.gif" width="119" height="20" border="0" alt=""></a><br>
-		<a href="/quick_links/site_map.html" onmouseover="imgOnSimple('site_map');" onmouseout="imgOffSimple('site_map');"><img name="site_map" src="/images/quick_links_text/site_map.gif" width="119" height="20" border="0" alt=""></a><br>
+        <a href="/research/index.html" onmouseover="img_act('researchCenter');" onmouseout="img_inact('researchCenter');"><img name="researchCenter" src="/images/new_coupes/quick_links_text/research_center.gif" width="119" height="20" alt="" border="0"></a><br>
+		<a href="javascript:openPLwin()" onmouseover="img_act('pricing');" onmouseout="img_inact('pricing');"><img name="pricing" src="/images/quick_links_text/pricing.gif" width="119" height="20" border="0" alt="Pricing"></a><br>
+		<a href="javascript:openRetailerwin()" onmouseover="img_act('find_retailer');" onmouseout="img_inact('find_retailer');"><img name="find_retailer" src="/images/quick_links_text/find_retailer.gif" width="119" height="20" border="0" alt="Find a Retailer"></a><br>
+		<a href="javascript:openIPwin()" onmouseover="img_act('request_brochure');" onmouseout="img_inact('request_brochure');"><img name="request_brochure" src="/images/quick_links_text/request_brochure.gif" width="119" height="20" border="0" alt="Request a Brochure"></a><br>
+		<a href="http://www.saturnstuff.com/" onmouseover="img_act('buy_stuff');" onmouseout="img_inact('buy_stuff');"><img name="buy_stuff" src="/images/quick_links_text/buy_stuff.gif" width="119" height="20" border="0" alt="Buy Saturn Stuff"></a><br>
+		<a href="/quick_links/new.html" onmouseover="img_act('whats_new');" onmouseout="img_inact('whats_new');"><img name="whats_new" src="/images/quick_links_text/whats_new.gif" width="119" height="20" border="0" alt="What's New"></a><br>
+		<a href="/quick_links/talk.html" onmouseover="img_act('talk_to_us');" onmouseout="img_inact('talk_to_us');"><img name="talk_to_us" src="/images/quick_links_text/talk_to_us.gif" width="119" height="20" border="0" alt="Talk to Us"></a><br>
+		<a href="/quick_links/search.html" onmouseover="img_act('search');" onmouseout="img_inact('search');"><img name="search" src="/images/quick_links_text/search.gif" width="119" height="20" border="0" alt="Search"></a><br>
+		<a href="/quick_links/site_map.html" onmouseover="img_act('site_map');" onmouseout="img_inact('site_map');"><img name="site_map" src="/images/quick_links_text/site_map.gif" width="119" height="20" border="0" alt="Site Map"></a><br>
 		<img src="/images/space_white.gif" width="1" height="20" alt="" border="0"><br>
 		</td>
 	</tr>
