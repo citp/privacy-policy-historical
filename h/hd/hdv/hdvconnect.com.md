@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hdvconnect.com privacy policy that was archived on 2004-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041015051344id_/http%3A//cineform.com/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdvconnect.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173321id_/http%3A//www.cineform.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# CineForm Technology
-
-**CineForm Privacy Policy **
+# Privacy Policy
 
 **Effective July 1, 2004 **
 
@@ -34,4 +32,4 @@ We may revise this Privacy Policy from time to time. If we decide to change our 
 
 You have the ability to review, change and correct the personally identifiable information you provide us. If you are a registered user, you can change your personally identifiable information at any time by logging into your account and making required changes.  If you are a registered user, you may also request that we remove from our databases the information you provided when you registered at the Web site, by e-mailing us at [privacy@cineform.com](mailto:privacy@cineform.com).  If you are not a registered user, but have provided personally identifiable information to us, you may also request removal from our database by e-mailing us at [privacy@cineform.com](mailto:privacy@cineform.com).
 
-When you register or place an order at this Web site, you may opt out of receiving future e-mail communications from us. You may change your e-mail preferences at any time by revising your profile, clicking the "unsubscribe" link at the bottom of each e-mail you receive from us and following the instructions provided or, if you do not have a profile, by e-mailing us at [privacy@cineform.com](mailto:privacy@cineform.com)
+When you register or place an order at this Web site, you may opt out of receiving future e-mail communications from us. You may change your e-mail preferences at any time by revising your profile, clicking the "unsubscribe" link at the bottom of each e-mail you receive from us and following the instructions provided or, if you do not have a profile, by e-mailing us at [privacy@cineform.com](mailto:privacy@cineform.com)  
