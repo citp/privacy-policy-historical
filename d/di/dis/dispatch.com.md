@@ -1,35 +1,43 @@
-> *The following text is extracted and transformed from the dispatch.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171108id_/http%3A//www.dispatch.com/services-story.php%3Fstory%3Ddispatch/services/Faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dispatch.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000512id_/http%3A//www.dispatch.com/services-story.php%3Fstory%3Ddispatch/services/Faq/privacy.html) for the most accurate reproduction.*
 
-# The Columbus Dispatch
+# The Columbus Dispatch -
 
-|   |  |    
-
-
-* * *
+  
+| 
 
 Privacy Policy
 
 Also: Special note on children's privacy
 
-**Information we keep about you:** Dispatch.com respects the privacy of Web visitors. We do not sell the email addresses, names, street addresses, phone numbers or interests information about the users of our services. 
+**Information we keep about you:** Dispatch.com respects the privacy of Web visitors. We do not sell the email addresses, names, street addresses, phone numbers or interests information about the users of our services.
 
-We will periodically send you promotional email about services offered by Dispatch.com and its advertisers and marketers on the Web. These promotions will be tailored to the interest categories you have indicated and are controlled by _The Columbus Dispatch._ Your identity will not be revealed to the marketer unless you respond directly to the marketer's offer and provide your information. **You may "opt out" of receiving these offers.** To change your mailings and newsletter settings, click to [My Information.](https://shop.dispatch.com/signin.asp?page=http://www.dispatch.com&fl=nl) Enter the email address and password you used to register, then click the Sign In button. Uncheck the Mailings box, then click the Submit button. 
+We will periodically send you promotional email about services offered by Dispatch.com and its advertisers and marketers on the Web. These promotions will be tailored to the interest categories you have indicated and are controlled by _The Columbus Dispatch._ Your identity will not be revealed to the marketer unless you respond directly to the marketer's offer and provide your information.
 
-We ask for your home phone number to help us determine whether you are a print subscriber to _The Columbus Dispatch_ newspaper. This information is valuable to us and also will allow us to extend future Web benefits to Dispatch.com users who are also print subscribers. We do not use your phone number to telemarket. However, if you are a print subscriber, you may already have received or will receive periodic phone calls asking whether you are satisfied with the quality of your home-delivery service. 
+**You may "opt out" of receiving these offers.** To change your mailings and newsletter settings:
 
-In addition to any personal-interests information that you provide to us, and which you can view by following the instructions in the previous paragraph, we use standard Web server log files to track the use of certain features of our pages. All accesses to our Web servers are recorded by software on our Web server platform. Your IP address, file accessed and time of access are recorded. This is done to correlate users' interests and our services, to determine how we can improve our services and to allow us to better determine which of our services will be of value to you. Your usage on our site is not revealed to third parties. 
+  1. Click here for [My Newsletters.](https://shop.dispatch.com/signin.asp?page=http://www.Dispatch.com&fl=nl)
+  2. Enter the email address and password you used to register
+  3. Then click the Sign In button.
+  4. Uncheck the Mailings box
+  5. Then click the Submit button.
 
-**Letters to the Editor** : Letters to the Editor of _The Columbus Dispatch_ are presumed to be intended for publication. Identifying information provided with the letter is used only for verification of the letter's authenticity. Letter authors' real names, cities of residence and title (where applicable) are published along with the letter. Due to the volume of letters received, we cannot guarantee either publication or a personal response to any given letter. 
 
-**Advertising submissions** : Personal information provided with online classified advertising submissions is used only for verification and billing purposes. 
+
+We ask for your home phone number to help us determine whether you are a print subscriber to _The Columbus Dispatch_ newspaper. This information is valuable to us and also will allow us to extend future Web benefits to Dispatch.com users who are also print subscribers. We do not use your phone number to telemarket. However, if you are a print subscriber, you may already have received or will receive periodic phone calls asking whether you are satisfied with the quality of your home-delivery service.
+
+In addition to any personal-interests information that you provide to us, and which you can view by following the instructions in the previous paragraph, we use standard Web server log files to track the use of certain features of our pages. All accesses to our Web servers are recorded by software on our Web server platform. Your IP address, file accessed and time of access are recorded. This is done to correlate users' interests and our services, to determine how we can improve our services and to allow us to better determine which of our services will be of value to you. Your usage on our site is not revealed to third parties.
+
+**Letters to the Editor** : Letters to the Editor of _The Columbus Dispatch_ are presumed to be intended for publication. Identifying information provided with the letter is used only for verification of the letter's authenticity. Letter authors' real names, cities of residence and title (where applicable) are published along with the letter. Due to the volume of letters received, we cannot guarantee either publication or a personal response to any given letter.
+
+**Advertising submissions** : Personal information provided with online classified advertising submissions is used only for verification and billing purposes.
 
 **Electronic mail to staff members and departments** : Staff members at _The Columbus Dispatch_ and Dispatch.com have broad discretion as to the handling of mail sent to their individual accounts. The company reserves the right to track or record such correspondence when circumstances warrant. Electronic mail sent to departments within The Dispatch Printing Co. is handled at the department's discretion. We do not have a policy of sharing contents of e-mail with any other entities. However, we reserve the right to disclose such correspondence as necessary to protect the company's legal interests. 
 
-**Credit-card purchasing:**
+Credit-card purchasing:
 
-We are committed to making your credit-card purchase as secure as possible, and to ensuring your privacy. Please read the following before you make a purchase: 
+We are committed to making your credit-card purchase as secure as possible, and to ensuring your privacy. Please read the following before you make a purchase:
 
-  * To process your order, we need to know your name, e-mail address, billing address, credit card number and expiration date, and telephone number. 
+  * To process your order, we need to know your name, e-mail address, billing address, credit card number and expiration date, and telephone number.
   * The e-mail address and the password you choose will become your "identifier" -- we will use it to process and fulfill your order and to welcome you back to the site for future purchases. IF you choose to receive future promotional notices from Dispatch.com, we will save your email address for that purpose. If you do not choose to receive future e-mail notices, we will not use your information for anything other than to process your order. Your telephone number is needed in case we are unable to notify you by e-mail of any questions about your order. 
   * Personal information you provide us is solely the property of _The Columbus Dispatch_ and Dispatch.com and is stored on a separate, secured server that is accessible only to authorized personnel. We do not track individual behavior of our customers while they are making credit-card purchases. We will record only aggregate numbers of products purchased and general traffic patterns on the site; that information will be used only to help us continue to improve. It will not be shared with any other parties. 
   * Secure Sockets Layer (SSL) technology is used to encrypt and protect your credit-card account information, and transactions are carried out on a secure server (please be sure that your own Web browser, such as Netscape or Explorer, is able to handle secure transactions). Products are billed to your account when they are shipped or electronically delivered. 
@@ -37,7 +45,7 @@ We are committed to making your credit-card purchase as secure as possible, and 
 
 
 
-**Special note on children's privacy**
+Special note on children's privacy
 
 Dispatch.com is a general audience Web site. Under the Children's Online Privacy Protection Act, no Web site operator can require as a condition of participating in an activity that a child under the age of 13 disclose more information than is reasonably necessary. Dispatch.com abides by this requirement. 
 
@@ -48,15 +56,3 @@ If you register on behalf of a child, we suggest that the "Mailings" box on the 
 Children are invited to share information on Dispatch.com when they participate in features of the NOW! section, such as contributing movie reviews, holiday greetings, short stories or entering contests. Children can respond to those features via U.S. mail or by email. This information -- the child's mailing address or email address -- is used or saved only to respond to the child if needed. It is not used for any other purpose. 
 
 If a parent chooses to not allow Dispatch.com to further collect or use the child's information, that parent can email us to request that the information be deleted. Please send email to: [onlineeditors@dispatch.com.](mailto:onlineed@dispatch.com)
-
-|   | 
-
-**New feature:  
-Electronic Edition**
-
-It's our new electronic edition -- a new way to read the paper! The electronic edition is viewable online, and it looks just like the print newspaper that's delivered to your doorstep.
-
-No registration is payment is required during our free trial period. Later, the Electronic Edition, and our regular Dispatch.com Web site, will be available free to print _Dispatch_ subscribers and to non-subscribers who pay $4.95 per month. 
-
-[Click here](http://ee.dispatch.com/) to check it out!   
-
