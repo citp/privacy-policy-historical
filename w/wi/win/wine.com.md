@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622032300id_/http%3A//www.wine.com/shop/shop_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wine.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330101555id_/http%3A//www.wine.com/shop/shop_privacy.shtml) for the most accurate reproduction.*
 
 # wine.com--Privacy and Security
 
@@ -44,4 +44,4 @@ Note: Most banks either cover all the charges that result from unauthorized use 
 
 ### If You Have Questions
 
-If you have questions about any of these policies, please let us know. Details on the various ways to contact us are provided on the [Contact Us](https://web.archive.org/web/20000622032300id_/http%3A//www.wine.com/shop/shop_contact.shtml) page. 
+If you have questions about any of these policies, please let us know. Details on the various ways to contact us are provided on the [Contact Us](https://web.archive.org/web/20010330101555id_/http%3A//www.wine.com/shop/shop_contact.shtml) page. 
