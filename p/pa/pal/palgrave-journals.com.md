@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palgrave-journals.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211095948id_/http%3A//www.palgrave-journals.com/pal/subscribe/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palgrave-journals.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604235344id_/http%3A//www.palgrave-journals.com/pal/subscribe/privacy.html) for the most accurate reproduction.*
 
 # Palgrave: Journals: Privacy
 
