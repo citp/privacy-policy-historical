@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614200521id_/http%3A//www.gurl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204100900id_/http%3A//www.gurl.com/privacy.html) for the most accurate reproduction.*
 
 # gURL Privacy Policy
 
