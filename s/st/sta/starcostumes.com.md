@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starcostumes.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210141207id_/http%3A//www.starcostumes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcostumes.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233910id_/http%3A//www.starcostumes.com/privacy.asp) for the most accurate reproduction.*
 
-# Christmas Costumes - Adult, Children at Star Costumes
+# Costumes - Adult,Children at Star Costumes
 
 Privacy Information  
 
