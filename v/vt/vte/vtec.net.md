@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the vtec.net privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208091348id_/http%3A//www.vtec.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtec.net privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409194144id_/http%3A//www.vtec.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+|  |   
+---  
+  
 **Privacy Policy Statement  
 **This is the web site of Velocitech, Inc., <http://www.vtec.net/>
 
@@ -25,3 +28,5 @@ Consumers can have this information corrected by logging in and correcting it in
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above email address.
+
+| 
