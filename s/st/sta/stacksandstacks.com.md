@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208070322id_/http%3A//www.stacksandstacks.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stacksandstacks.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621062000id_/http%3A//stacksandstacks.com/html/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Stacks & Stacks Site
 
@@ -21,7 +21,9 @@
 > 
 > **Encrypted in Transit** — The system takes advantage of Secure Sockets Layer (SSL) security, protecting both shoppers and merchants while sensitive information is in transit over the internet. 
 > 
-> ## Contacting the Web Site
+> Stacks and Stacks, in attempting to reduce fraudulent use of credit card numbers, asks for the CVV2 number on the back of credit cards. By doing this, we insure that anyone making a purchase on our site has the credit card in his possession. This protects both our customers and our company.
+> 
+> **Contacting the Web Site**
 > 
 > If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 > 
