@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206092800id_/http%3A//www.screenthemes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digiday.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602033807id_/http%3A//www.screenthemes.com/privacy.htm) for the most accurate reproduction.*
 
 # SCREENTHEMES: pc wallpaper, screen savers, backgrounds, and themes for Windows 95, 98, 2000, NT
 
