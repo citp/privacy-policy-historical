@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010093219id_/http%3A//www.newegg.com/app/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628004257id_/http%3A//newegg.com/app/privacy.asp) for the most accurate reproduction.*
 
 # newegg.com
 
@@ -62,7 +62,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 All of our users’ information is classified and restricted. The Newegg facility is a secured and locked facility requiring all employees to check in and wear valid ID badges. Security cameras are stationed throughout the building in conjunction with several alarm systems. Only employees who need the information to perform a specific job are granted access to personally identifiable information. If you wish to have your financial information removed, at the time of your order you may opt to choose the feature listed which will delete your financial information upon completion of your order.  Otherwise you may contact us at [service@newegg.com](mailto:service@newegg.com) or call our toll free number (800) 390-1119 to request that your information be deleted from our database. For future transactions, you will be required to re-enter your information.
 
-All Newegg servers including web servers and database servers are housed and maintained in-house by Newegg. Access to the database is strictly monitored and protected from outside access. Internet access is restricted and protected by multiple Checkpoint and Cisco firewalls and password protection. The servers that we store personally identifiable information on are kept in a secured environment, behind a secured and locked room. All backups are stored and locked in a high-level security room where our database servers are under lock and alarm. Only personal with proper security clearance has access to such restricted areas. Tape backups are not permitted to leave the premise.
+All Newegg servers including web servers and database servers are housed and maintained in-house by Newegg. Access to the database is strictly monitored and protected from outside access. Internet access is restricted and protected by multiple Checkpoint and Cisco firewalls and password protection. The servers that we store personally identifiable information on are kept in a secured environment, behind a secured and locked room. All backups are stored and locked in a high-level security room where our database servers are under lock and alarm. Only personnel with proper security clearance has access to such restricted areas. Tape backups are not permitted to leave the premise.
 
 In addition, our employees must use password-protected screen-savers when they leave their desk.  When they return, they must re-enter their password to re-gain access to your information. 
 
@@ -76,9 +76,9 @@ If you choose to receive special offers, Newegg may send you such pertinent info
 
 Out of respect for the privacy of our users we present the option to not receive these types of communications. At the time of your order, you may opt to not receive special offers and news by un-checking the appropriate field. Furthermore, all special offers are sent via e-mail and have a "remove link" if you wish to no longer receive special offers and news. Otherwise, customers may occasionally receive information on products, services, special deals or news. Please see our choice and opt-out below for further details of how to be removed from our mailing list.
 
-**Correction/Updating Personal Information**
+**Correction/Updating/Reviewing Personal Information**
 
-Customers may change their recorded account information such as address or e-mail through our website at [http://www.newegg.com/app/Customersvc.asp ](http://www.newegg.com/) or by going to the home page at www/Newegg.com and clicking on the "online service" button. You must have your user name and password in order to make changes to your account.
+Customers may change or review their recorded account information such as address or e-mail thought our website at <http://www.newegg.com/app/Customersvc.asp> or by going to the home page at [www.newegg.com](https://web.archive.org/web/20030628004257id_/http%3A//newegg.com/app/www.newegg.com) and clicking on the "online service" button. You must have your username and password in order to access your account.
 
 **Choice/Opt-out**
 
@@ -92,4 +92,4 @@ However, for customers who wish to opt-out or be removed from Newegg special off
 
 If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-[](https://www.truste.org/validate/10586)If you have opted out of receiving any communications from Newegg, you may visit out website at [www.newegg.com](http://www.newegg.com/) where news of changes will be posted. Otherwise, you may e-mail us at [service@newegg.com](mailto:service@newegg.com) or call us toll free at (800) 390 1119 and ask our customers service department for changes and updates. If you send us an e-mail request, we will respond to that e-mail only. You will not receive promotional materials unless you specifically grant us permission to do so.
+[](https://www.truste.org/validate/10586)If you have opted out of receiving any communications from Newegg, you may visit our website at [www.newegg.com](http://www.newegg.com/) where news of changes will be posted. Otherwise, you may e-mail us at [service@newegg.com](mailto:service@newegg.com) or call us toll free at (800) 390 1119 and ask our customers service department for changes and updates. If you send us an e-mail request, we will respond to that e-mail only. You will not receive promotional materials unless you specifically grant us permission to do so.
