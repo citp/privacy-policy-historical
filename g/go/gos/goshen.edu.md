@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goshen.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202174746id_/http%3A//www.goshen.edu/policies/privacy_copyright1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goshen.edu privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610160929id_/http%3A//www.goshen.edu/policies/privacy_copyright1.html) for the most accurate reproduction.*
 
 # Goshen College | Public Web Site Privacy and Copyright Policy
 
