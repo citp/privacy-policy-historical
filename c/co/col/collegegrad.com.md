@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623004821id_/http%3A//www.collegegrad.com/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217151348id_/http%3A//www.collegegrad.com/privacy/index.shtml) for the most accurate reproduction.*
 
 # CollegeGrad.com Internet Privacy Statement
 
@@ -27,11 +27,4 @@ Our site contains links to other Web sites. CollegeGrad.com is not responsible f
 **Cookies**   
 A cookie is an element of data that a Web site can send to your browser, which may then store it on your system in a filed named "cookies.txt" which is used to identify you to the site. We use cookies in order to store your personal preferences, but do not collect personal information about you. You can set your browser to notify you when you receive a cookie, giving you the chance to personally decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some areas of our site may not function properly. 
 
-If you have further questions on our Internet Privacy Statement or privacy at our site, you can [contact us online](https://web.archive.org/contact/index.shtml) or you can mail, phone, or fax us at: 
-
-CollegeGrad.com, Inc.   
-1629 Summit, Suite 200   
-Cedarburg, WI 53012-9399   
-Phone: 262-376-1000   
-Fax: 262-376-1030
-
+If you have further questions on our Internet Privacy Statement or privacy at our site, you can [contact us online](https://web.archive.org/contact/index.shtml). 
