@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203200026id_/http%3A//www.connextra.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connextra.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604194507id_/http%3A//connextra.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Connextra | Services
 
