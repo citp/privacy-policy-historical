@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209043950id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertrating.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207025645id_/http%3A//www.expertrating.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
