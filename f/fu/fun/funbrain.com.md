@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funbrain.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204101133id_/http%3A//www.funbrain.com/mission.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funbrain.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621061532id_/http%3A//funbrain.com/mission.html) for the most accurate reproduction.*
 
 # FunBrain.com - Privacy Policy
 
@@ -8,7 +8,7 @@ Family Education Network is committed to protecting the privacy and security of 
 
 We encourage our visitors to read through and understand our privacy statement. We may update it from time to time to address new issues or reflect changes on our site. Please refer to this privacy statement regularly. Family Education Network reserves the right to make nonsubstantive changes to this Policy.
 
-If you have any questions or concerns about the statement, please contact us at [CustomerCare@fen.com](mailto:customercare@fen.com). To quickly access a particular section of this policy, you can click directly on the links below: 
+If you have any questions or concerns about the statement, please contact us at [CustomerCare@ fen.com ](mailto:customercare@fen.com). To quickly access a particular section of this policy, you can click directly on the links below: 
 
 _  
 _
@@ -25,11 +25,11 @@ A Notice About Our Advertisers
 A Notice About External Links   
 Public Forums  
 Security  
-Contacting Family Education Network_
+Contacting Family Education Network _
 
 **Information You Provide to Us:**
 
-Providing personal information and becoming a Family Education Network member is both voluntary and free. Nonmembers can still use the majority of our site. However, nonmembers will not have the opportunity to access certain enhanced content and application areas, win our seasonal promotions, experience future personalization, and voice their questions and concerns as quickly. When you register with Family Education Network, you provide personal information. Family Education Network uses this information to better create and organize our content programming to meet your needs.
+Providing personal information and becoming a Family Education Network member is both voluntary and free. Nonmembers can still use the majority of our site. However, nonmembers will not have the opportunity to access certain enhanced content and application areas, win our seasonal promotions, experience future personalization, and voice their questions and concerns as quickly. When you register with Family Education Network , you provide personal information. Family Education Network uses this information to better create and organize our content programming to meet your needs.
 
 The personally identifiable information we request from you, and with which we identify you as a member, includes the following: first name, last name, email address, gender, date of birth, ZIP code, username, and password. When you wish to purchase something, we will also ask you for the following: street address, city, state, phone number (for special promotions), and credit card number. When you wish to register for our SchoolCash program, you will be asked to identify the name and address of the school or group you wish to benefit. 
 
@@ -40,12 +40,21 @@ Please note: Children under the age of 13 cannot become Family Education Network
 
 Family Education Network uses your personal information to tailor the content programming, information services, and software applications that we provide to meet your needs and interests. We do not share any personal information you provide to us with any partner, sponsor, affiliate, agent, or third party, unless you have given us express consent to do so. Family Education Network may occasionally involve a paying or nonpaying partner in our registration areas because they share our educational mission and they provide a highly valued service to our members. 
 
-Family Education Network also collects information on our audience as a whole. Here, no audience members are identified by their personal information -- we are only interested in how Family Education Network looks demographically and statistically. This basic market research allows us to identify the trends, developments, and needs of our audience. The information is organized into reports that are used internally and only shared with partners and sponsors to make sure that their product or services are appropriately suited to our audience. Every audience member remains completely anonymous. 
+Family Education Network also collects information on our audience as a whole. Here, no audience members are identified by their personal information \-- we are only interested in how Family Education Network looks demographically and statistically. This basic market research allows us to identify the trends, developments, and needs of our audience. The information is organized into reports that are used internally and only shared with partners and sponsors to make sure that their product or services are appropriately suited to our audience. Every audience member remains completely anonymous. 
 
-  
+Family Education Network uses WebTrends Live, a third party service, to collect anonymous visitor data on our network of sites. The WebTrends Live service does not collect any personal information such as names, ages, phone numbers, addresses or e-mail addresses from visitors to any Family Education Network site. Family Education Network uses the WebTrends Live service to collect anonymous visitor information like IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited and time spent on a particular site. Family Education Network uses the WebTrends Live service to collect this non-personally identifiable information for the following purposes: 
+
+(1) to provide anonymous statistical analysis of web page traffic patterns;  
+(2) to administer our site and servers;  
+(3) to allow for auditing of our services by third parties; and   
+(4) to improve our services. 
+
+If you would like to learn more about the WebTrends Live service and to view the complete WebTrends Live privacy statement, please click here:  
+<http://www.webtrendslive.com/privacy_policy.htm>
+
 **Choice/Opt-out:**
 
-When you register, you are given the option to receive important Family Education Network news, events, products, and special offers. If you wish not to be contacted, you must simply "opt-out" by unchecking the demarcated box (you will find the box already checked). At any time, you may change this decision and either opt-in or opt-out of this service by sending an email to: [CustomerCare@fen.com](mailto:customercare@fen.com). When emailing, please provide your first name and last name, and also tell us if you are opting out of an email or postal mail communication. If you would like to be contacted by one of our partners or sponsors, you must actively opt-in to this service by checking the demarcated box (you will find the box unchecked).  
+When you register, you are given the option to receive important Family Education Network news, events, products, and special offers. If you wish not to be contacted, you must simply "opt-out" by unchecking the demarcated box (you will find the box already checked). At any time, you may change this decision and either opt-in or opt-out of this service by sending an email to: [CustomerCare@ fen.com ](mailto:customercare@fen.com). When emailing, please provide your first name and last name, and also tell us if you are opting out of an email or postal mail communication. If you would like to be contacted by one of our partners or sponsors, you must actively opt-in to this service by checking the demarcated box (you will find the box unchecked).  
   
 **We Protect Kids' Privacy:** **  
 **  
