@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kompass.co.uk privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210125557id_/http%3A//www.kompass.co.uk/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kompass.co.uk privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618102216id_/http%3A//www.kompass.co.uk/info/privacy.htm) for the most accurate reproduction.*
 
-# Kompass Connects Business to Business
+# Kompass Connects Buyers to Sellers
 
 Privacy Policy
 
