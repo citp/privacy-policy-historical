@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investorlinks.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209014540id_/http%3A//www.investorlinks.com/about/aboutusprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investorlinks.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403235350id_/http%3A//www.investorlinks.com/about/aboutusprivacy.asp) for the most accurate reproduction.*
 
 # InvestorLinks - Financial Directory
 
@@ -56,4 +56,4 @@ Users may unsubscribe to any of our electronic newsletters at any time by follow
 
 9\. InvestorLinks.com - Contact
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact at[info@investorlinks.com](mailto:info@investorlinks.com?subject=Information%20Request%20via%20Website)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, [click here to contact us](https://web.archive.org/contactus.asp)
