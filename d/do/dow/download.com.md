@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603030645id_/http%3A//download.cnet.com/aboutcnet/0-13611-7-811039.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download.com privacy policy that was archived on 2002-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021001113618id_/http%3A//download.com.com/redir%3FedId%3D3%26ontId%3D20%26lop%3Dft%26destUrl%3Dhttp%253A%252F%252Fwww.cnet.com%252Faboutcnet%252F0-13611-7-811039.html%26oId%3D1001-20-0%26siteId%3D4) for the most accurate reproduction.*
 
 # Editorial Center - CNET Networks.com
 
