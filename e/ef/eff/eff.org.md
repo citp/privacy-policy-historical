@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611181121id_/http%3A//eff.org/policy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216212238id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
 
 # EFF: Privacy Policy (May 22, 2002)
 
@@ -20,7 +20,7 @@ We do not use "cookies" on this site unless you decide to click on "Remember Me"
 
 ### Membership Privacy Policy
 
-EFF will never share or use your personal information for any reason other than to manage your membership or contribution. These records are stored with a third-party grassroots campaign consultant, Carol/Trevelyan Strategy Group (CTSG). Our agreement with CTSG specifies that the records cannot be reproduced (except for back-up copies) and cannot be disclosed to anyone, or used for any purpose, without EFF's prior written consent. EFF will never grant that consent.
+EFF will never share or use your personal information for any reason other than to manage your membership or contribution. These records are stored with a third-party grassroots campaign consultant, Kintera. Our agreement with Kintera specifies that the records cannot be reproduced (except for back-up copies) and cannot be disclosed to anyone, or used for any purpose, without EFF's prior written consent. EFF will never grant that consent.
 
 We respect anonymous donations. Please note that your email address is required if you choose to donate using our online form.
 
