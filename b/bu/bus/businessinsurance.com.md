@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616122932id_/http%3A//businessinsurance.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessinsurance.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020043939id_/http%3A//businessinsurance.com/privacy.php3) for the most accurate reproduction.*
 
 # Business Insurance - Privacy Policy
 
