@@ -1,55 +1,43 @@
-> *The following text is extracted and transformed from the aetna.com privacy policy that was archived on 2001-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011207184012id_/http%3A//aetna.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aetna.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212205447id_/http%3A//www.aetna.com/about/privacy.html) for the most accurate reproduction.*
 
-# Aetna - Web Privacy Statement
+# Aetna: Web Privacy Statement
 
-[](https://web.archive.org/web/20011207184012id_/http%3A//aetna.com/index.htm) | 
+Web Privacy Statement
 
-[Home](https://web.archive.org/web/20011207184012id_/http%3A//aetna.com/index.htm) : Web Privacy Statement  
-  
----|---  
-  
-Collecting and Using Personal Information |  | 
+  * Collecting and Using Personal Information
+  * Your E-Mail
+  * Other Information; “Cookies”
+  * Linking to Other Sites
+  * Security
+  * Changes to This Statement
 
-Welcome to Aetna Inc.’s websites. We appreciate your interest in us. When you visit and navigate our sites and when you communicate with us via our sites, we will not collect personal information about you, unless you provide us that information voluntarily. If you provide personal information to us voluntarily via our websites, we will not sell, license or transmit that information outside of Aetna Inc. and those affiliated companies involved in administering or providing services for our health benefits plans and financial products, unless required to do so by legal, judicial or governmental proceedings, or unless we do so in accordance with an express authorization you have given us. Also, in some cases, we may disclose information to our contractors or agents for the purpose of enabling them to perform certain functions for us. We will disclose information in compliance with applicable laws and regulations and will require the recipient to protect the information and use it only for the purpose provided.
 
-By “personal information,” we mean data that is unique to an individual, such as a name, address, social security number, or telephone number. From time to time, we may request personal information from you at our sites in order to deliver requested materials to you, respond to your questions, or deliver a product or service.   
-  
----|---|---  
-Your E-Mail |  | 
 
+Collecting and Using Personal Information  
+Welcome to Aetna's websites. We appreciate your interest in us. When you visit and navigate our sites and when you communicate with us via our sites, we will not collect personal information about you unless you provide us that information voluntarily. Any non-public personal information that you may provide via our sites will be used solely for the purpose stated on the page where it is collected. Aetna will not sell, license, transmit or disclose this information outside of Aetna and its affiliated companies unless (a) expressly authorized by you, (b) necessary to enable Aetna contractors or agents to perform certain functions for us, or (c) required or permitted by law. In all cases, we will disclose the information consistent with applicable laws and regulations and we will require the recipient to protect the information and use it only for the purpose it was provided. 
+
+By “personal information,” we mean data that is unique to an individual, such as a name, address, social security number, or telephone number. From time to time, we may request personal information from you at our sites in order to deliver requested materials to you, respond to your questions, or deliver a product or service. 
+
+Your E-Mail  
 We welcome your comments or questions about our websites and have provided e-mail boxes for that purpose. We will share your comments and questions with our customer service representatives and those employees most capable of addressing your questions and concerns. 
 
-Please note that your e-mail, like most, if not all, non-encrypted Internet e-mail communications, may be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use e-mail to communicate information to us that you consider confidential. If you wish, you may contact us instead via telephone at the numbers provided at various locations on our sites or, in the case of our health plan members, at the Member Services toll free number that appears on your identification card. 
+Please note that your e-mail, like most, if not all, non-encrypted Internet e-mail communications, may be accessed and viewed by other Internet users, without your knowledge and permission, while in transit to us. For that reason, to protect your privacy, please do not use e-mail to communicate information to us that you consider confidential. If you wish, you may contact us instead via non-cellular telephone at the numbers provided at various locations on our sites or, in the case of our health plan members, at the Member Services toll free number that appears on your identification card. 
 
-There are some locations on Aetna Inc.’s websites where we have made special provisions for a more secure environment in which we can exchange information with you. At each of these locations, we will provide you with appropriate instructions.   
-  
-Other Information; "Cookies" |  | 
+There are some locations on Aetna’s websites where we have made special provisions for a more secure environment in which we can exchange information with you. At each of these locations, we will provide you with appropriate instructions. 
 
+Other Information; "Cookies"  
 You should also be aware that when you visit our websites, we collect certain information that does not identify you personally, but provides us with “usage data,” such as the number of visitors we receive or what pages are visited most often. This data helps us to analyze and improve the usefulness of the information we provide at these websites. 
 
-Like most commercial website owners, we may also use what is known as “cookie” technology. A “cookie” is an element of data that a website can send to your browser when you link to that website. It is not a computer program and has no ability to read data residing on your computer or instruct it to perform any step or function. By assigning a unique data element to each visitor, the website is able to recognize repeat users, track usage patterns and better serve you when you return to that site. The cookie does not extract other personal information about you, such as your name or address. Most browsers provide a simple procedure that will enable you to control whether you want to receive cookies by notifying you when a website is about to deposit a cookie file.   
-  
-Linking to Other Sites |  | 
+Like most commercial website owners, we may also use what is known as “cookie” technology. A “cookie” is an element of data that a website can send to your browser when you link to that website. It is not a computer program and has no ability to read data residing on your computer or instruct it to perform any step or function. By assigning a unique data element to each visitor, the website is able to recognize repeat users, track usage patterns and better serve you when you return to that site. The cookie does not extract other personal information about you, such as your name or address. Most browsers provide a simple procedure that will enable you to control whether you want to receive cookies by notifying you when a website is about to deposit a cookie file. 
 
-From time to time, Aetna Inc. websites may provide links to other websites, not owned or controlled by Aetna Inc., that we think might be useful or of interest to you. We cannot, however, be responsible for the privacy practices used by other website owners or the content or accuracy of those other websites. Links to various non-Aetna Inc. websites do not constitute or imply endorsement by Aetna Inc. of these websites, any products or services described on these sites, or of any other material contained in them.   
-  
-Changes to This Statement. |  | 
+Linking to Other Sites  
+From time to time, Aetna websites may provide links to other websites, not owned or controlled by Aetna, that we think might be useful or of interest to you. We cannot, however, be responsible for the privacy practices used by other website owners or the content or accuracy of those other websites. Links to various non-Aetna websites do not constitute or imply endorsement by Aetna of these websites, any products or services described on these sites, or of any other material contained in them. 
 
-Aetna Inc. may change this Statement from time to time without notice. This Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party.   
-  
-  |   |   |    
----|---|---|---  
-  |  [Aetna](http://www.aetna.com/index.htm) is the nation's leading provider of health care and related benefits, serving more than 19 million health care members, 14 million dental members and 12 million group insurance customers as of December 31, 2000. 
+Security  
+Aetna has adopted and adheres to stringent security standards designed to protect non-public personal information at aetna.com against accidental or unauthorized access or disclosure. Among the safeguards that Aetna has developed for this site are administrative, physical and technical barriers that together form a protective firewall around the information stored at this site. We periodically subject our site to simulated intrusion tests and have developed comprehensive disaster recovery plans. 
 
-[Aetna U.S. Healthcare](http://www.aetnaushc.com/)
+Changes to This Statement  
+Aetna may change this Statement from time to time without notice. This Statement is not intended to and does not create any contractual or other legal rights in or on behalf of any party. 
 
-|   |  Aetna Inc.  
-151 Farmington Avenue   
-Hartford, CT 06156 USA   
-Phone 860-273-0123   
-© 2000 Aetna Inc.
-
-[Legal statement](http://www.aetna.com/legal.htm)   
-[Privacy Statement](http://www.aetna.com/privacy.htm)  
-  
- 
+|   
+---
