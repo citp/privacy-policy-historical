@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanprofile.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610132016id_/http%3A//americanprofile.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanprofile.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210094318id_/http%3A//www.americanprofile.com/privacy.asp) for the most accurate reproduction.*
 
 # American Profile: Email a Page
 
@@ -78,3 +78,7 @@ _Last Updated: February 10, 2004._
 
 |    
 
+
+[](https://web.archive.org/dodge/)
+
+[](https://web.archive.org/recipecontest/)
