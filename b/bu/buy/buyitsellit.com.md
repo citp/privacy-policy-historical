@@ -1,18 +1,13 @@
-> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401201220id_/http%3A//www.buyitsellit.com/newbuyitsellit/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205162012id_/http%3A//www1.buyitsellit.com/bisi/privacy_policy.vhtml) for the most accurate reproduction.*
 
-# BuyItSellIt.com Auctions and Classifieds: Don't Pay Unless You Sell!
+# BuyItSellIt.com: Privacy Policy
 
-  
-  
-[](http://www.bidxs.com/) [ ](http://www.bidfind.com/) | 
+|  BuyItSellIt.com Privacy Policy
 
-**BuyItSellIt.com Corporate Information:  
-Privacy Statement and Information for our Users** |  |  BuyItSellIt.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BuyItSellIt.com. 
+BuyItSellIt.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BuyItSellIt.com. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your user session and to gather broad demographic information.   
-  
----|---  
-  
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your user session and to gather broad demographic information. 
+
 Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. 
 
 When necessary, customer information can also be shared with parties to assist in contact related to transactions arranged within BuyItSellIt.com's marketplace. 
@@ -58,32 +53,10 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. email [webmaster@buyitsellit.com](mailto:webmaster@buyitsellit.com)' 
-  2. Log into "[My Home"](https://web.archive.org/newbuyitsellit/login.html) and edit contact preference to be removed from any contact from us. 
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Kyle Wilgus BuyItSellIt.com 117 Hall Street Suite C Santa Cruz, CA 95062 kwilgus@buyitsellit.com  
-  
-**Featured BuyItSellIt.com StoreFronts**  
----  
-Visit our Featured [BuyItSellIt.com StoreFronts](http://store.buyitsellit.com/) and take advantage of their special offers.  
-  
-[](http://www.gardenbuilt.com/)
-
-| **GardenBuilt.com:**   **Quality birding products and garden accessories**  
-Bird feeders, nestboxes and garden planters built to beautify and last.  
-[http://www.gardenbuilt.com](http://www.gardenbuilt.com/)  
-  
-[](http://www.bulldogplumbing.com/)
-
-| **Bulldog Plumbing.com :**  **Plumbing fixtures and supplies for less**  
-Brand name faucets, sinks and bathroom accessories with free shipping.  
-[http://www.bulldogplumbing.com](http://www.bulldogplumbing.com/)  
-  
-[](http://stores.buyitsellit.com/rpgolf)
-
-| **RP Golf :**  **Handmade golf clubs for all golfers**  
-Let Master Clubmaker Rick Prose build the clubs of your dreams  
-[http://stores.buyitsellit.com/rpgolf](http://snarf.buyitsellit.com/StoreFront/welcomePage?store=1131)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Kyle Wilgus BuyItSellIt.com kwilgus@buyitsellit.com |  |  |  |  |   
+---
