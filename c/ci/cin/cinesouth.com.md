@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinesouth.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601223330id_/http%3A//www.cinesouth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinesouth.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215102618id_/http%3A//www.cinesouth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Cinesouth.com
 
