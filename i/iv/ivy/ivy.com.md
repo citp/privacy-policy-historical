@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivy.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209112400id_/http%3A//www.ivy.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivy.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331115840id_/http%3A//ivy.com/privacy.asp) for the most accurate reproduction.*
 
 # Ivy.com Privacy Policy
 
