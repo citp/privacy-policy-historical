@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backstage.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622033640id_/http%3A//www.backstage.com/mast/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backstage.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206162200id_/http%3A//backstage.com/mast/privacy.asp) for the most accurate reproduction.*
 
 # BackStage.com
 
@@ -15,7 +15,7 @@ BACKSTAGE ONLINE collects information on our users in three ways: by voluntary s
 
 The information BACKSTAGE.COM collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; and to notify customers about updates to the service.
 
-From time to time we share this information with other reputable organizations for marketing purposes or the information is used by BACKSTAGE ONLINE to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt in," or agree to accept these marketing opportunities. If at any time you change your mind and do not want BACKSTAGE ONLINE to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: [webmaster@backstage.com](mailto:webmaster@BACKSTAGE.com) or by writing us at BPI Communications, Electronic Media, 1515 Broadway, New York, NY 10036-8956.
+From time to time we share this information with other reputable organizations for marketing purposes or the information is used by BACKSTAGE ONLINE to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt in," or agree to accept these marketing opportunities. If at any time you change your mind and do not want BACKSTAGE ONLINE to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: [webmaster@backstage.com](mailto:webmaster@BACKSTAGE.com) or by writing us at BPI Communications, Electronic Media, 770 Broadway, New York, NY 10003-9595.
 
 OPT-IN EMAIL 
 
