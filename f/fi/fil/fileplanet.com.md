@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203022516id_/http%3A//www.gamespy.com/legal/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileplanet.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402055355id_/http%3A//www.gamespy.com/legal/%23privacy) for the most accurate reproduction.*
 
 # GameSpy.com - Legal Info
 
