@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pingidentity.com privacy policy that was archived on 2004-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041028120331id_/http%3A//www.pingidentity.com/index.php%3Fcid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pingidentity.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205014942id_/http%3A//www.pingidentity.com/index.php%3Fcid%3Dprivacy) for the most accurate reproduction.*
 
 # Identity Federation Management - Ping Identity Corporation
 
