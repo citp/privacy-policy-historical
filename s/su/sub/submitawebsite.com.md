@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitawebsite.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607191506id_/http%3A//www.submitawebsite.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitawebsite.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209182939id_/http%3A//www.submitawebsite.com/privacypolicy.html) for the most accurate reproduction.*
 
 # search engine submission and free registration to hundreds of engines
 
