@@ -1,26 +1,10 @@
-> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 1999-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991104153630id_/http%3A//allrecipes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2000-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000623061612id_/http%3A//www.allrecipes.com/privacy.asp) for the most accurate reproduction.*
 
-# AllRecipes.com -- The Recipe Network | Privacy Policy
+# All recipes .com -- The Recipe Network | Privacy Policy
 
-Here at AllRecipes.com -- The Recipe Network, we recognize that many visitors to our sites may be concerned about the information they provide to us, and what is done with that information. So, we have developed this Privacy Policy to address any concerns you may have. If you have any questions about our Privacy Policy, you can contact us at [thestaff@AllRecipes.com](mailto:%20thestaff@allrecipes.com). 
+Here at Allrecipes.com -- The Recipe Network, we recognize that many visitors to our sites may be concerned about the information they provide to us, and what is done with that information. We have developed this Privacy Policy to address any concerns you may have. If you have any questions about our Privacy Policy, you can contact us at [**thestaff@Allrecipes.com**](mailto:%20thestaff@allrecipes.com). 
 
-**Our Policy**
-
-At our sites, we don't collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we don't require you to register or provide information to us in order to view our sites. When you provide information for our "RecipeNotes Newsletter", "Recipe Request" or "Email to a Friend" features of our site, we use the information you supply for the purpose of providing the services you've requested. If you have specifically agreed to follow-up contacts by us or asked to be put on our mailing list, we may also contact you from time to time. You can always change your preference for follow-up contacts just by e-mailing us at any time. We does not disclose any personally identifiable information you give us with anyone outside of the sites that make up AllRecipe.com -- The Recipe Network. 
-
-A user's personally identifying information may be used for editorial purposes and we may also use such information for marketing and promotional purposes. Individuals always have the ability to stop their information being used for such purposes by sending an e-mail request to us at the address given above. 
-
-Like most web sites, we use "cookie" technology on our web site. We may place a "cookie" in the browser files of a user's computer, however the "cookie" itself does not contain any personally identifying information. The "cookie" doesn't track any personal information about you or provide us with any way to contact you, and the "cookie" doesn't extract any information from your computer. We use the "cookie" to provide functional information about your browser allowing us to provide a better user experience. We also use "cookies" to gather broad demographic information and general usage patterns of the visitors to our sites. A third-party ad company is used to display the ads on our site. These ads may contain "cookies". "Cookies" received with banner ads are collected by our ad company and used to provide broad demographic information for better ad targeting. 
-
-Finally, children should always ask their parents for permission before sending any information about themselves to us or anyone else over the Internet. 
-
-By using our websites, you consent to the collection and use of this information by AllRecipes.com -- The Recipe Network and its producer Emergent Media, Inc. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at [thestaff@AllRecipes.com](mailto:%20thestaff@allrecipes.com). 
-Here at AllRecipes.com -- The Recipe Network, we recognize that many visitors to our sites may be concerned about the information they provide to us, and what is done with that information. We have developed this Privacy Policy to address any concerns you may have. If you have any questions about our Privacy Policy, you can contact us at [thestaff@AllRecipes.com](mailto:%20thestaff@allrecipes.com). 
-
-**Our Policy**
-
+**Our Policy**  
 At our sites, we don't collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we don't require you to register or provide information to us in order to view our sites. When you provide information for the "RecipeNotes Newsletter," "Recipe Request" or "Email to a Friend" features of our site, we use the information you supply only for the purpose of providing the services you've requested. If you have specifically agreed to receive follow-up contacts from us or asked to be put on our mailing list, we may also contact you from time to time. You can always change your preference for follow-up contacts just by e-mailing us at any time. We do not disclose any personally identifiable information you give us with anyone outside of the sites that make up AllRecipe.com -- The Recipe Network. 
 
 A user's personally identifying information may be used for editorial purposes and we may also use such information for internal marketing and promotional purposes. Individuals always have the ability to stop their information from being used for such purposes by sending an e-mail request to us at the address given above. 
@@ -29,6 +13,6 @@ Like most web sites, we use "cookie" technology on our web site. We may place a 
 
 Children should always ask their parents for permission before sending any information about themselves to us or anyone else over the Internet. 
 
-By using our Websites, you consent to the collection and use of the information, as described above, by AllRecipes.com -- The Recipe Network. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+By using our Websites, you consent to the collection and use of the information, as described above, by Allrecipes.com -- The Recipe Network. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at [thestaff@AllRecipes.com](mailto:%20thestaff@allrecipes.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at [**thestaff@Allrecipes.com**](mailto:%20thestaff@allrecipes.com). 
