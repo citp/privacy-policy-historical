@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816052634id_/http%3A//epocrates.com/companyinfo/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epocrates.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405203940id_/http%3A//epocrates.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # ePocrates, Inc. - Privacy
 
@@ -18,7 +18,7 @@ CONTACT INFORMATION
 Our site's registration form requires visitors to give us contact information (including, but not limited to, name and email address) and demographic information (including, but not limited to, zip code and age). We use visitor contact information from the registration form to send the visitor information about our product updates and general company information as well as occasional promotional materials from some of our partners. The visitor's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Visitors may opt-out of receiving future mailings; see the choice/opt-out section, below unless they are a sponsored user. 
 
 DEMOGRAPHIC, PROFILE, AND USAGE DATA  
-Demographic, profile, and usage data is also collected at our site and/or on our applications. We use this data for understanding our users better and learning how best to meet their needs. We may use this data to tailor the visitor's experience at our site or on our applications, show them content that we think they might be interested in, and display the content according to their preferences. This information may also be shared with advertisers or partners on an aggregate or individual basis. 
+Demographic, profile, and usage data is also collected at our site and/or on our applications. We use this data for understanding our users better and learning how best to meet their needs. We may use this data to tailor the visitor's experience at our site or on our applications, show them content that we think they might be interested in, and display the content according to their preferences. This information may also be shared with advertisers or partners on an aggregate basis. 
 
 LINKS TO OTHER SITES  
 This site may contain links to other sites. ePocrates, Inc. is not responsible for the privacy practices or the content of such Web sites. 
