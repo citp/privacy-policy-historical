@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marvel.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020070408id_/http%3A//marvel.com/about/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvel.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608011811id_/http%3A//marvel.com/about/privacy/privacy_policy.htm) for the most accurate reproduction.*
 
 # Marvel Entertainment -
 
@@ -11,7 +11,7 @@ It is Marvel's policy to respect and protect the privacy of visitors to Marvel's
 
 Marvel will collect personal information such as names, home addresses, e-mail addresses, age, etc., but only when a visitor voluntarily gives it to us in the process of ordering subscriptions or the Marvel newsletters, entering contests or sweepstakes, or registering with the Marvel website. This information is used internally by Marvel to fulfill your requests and for marketing and research purposes. Marvel will NOT sell, rent or give a visitor's personal information to any third party unless Marvel asks for and receives the visitor's permission at the time the personal information is collected. Marvel does however, share aggregate information about the users of Marvel's website with our advertisers, business partners, sponsors and certain others. As mentioned above, this aggregate information is used to develop, improve and customize Marvel's website to better serve visitors to our website. Where Marvel.com's information collection activities involve children, Marvel.com provides special privacy protections. 
 
-Marvel is committed to protecting the online privacy of children. In accordance with the Children's Online Privacy Protection Act ("COPPA"), Marvel will not knowingly collect any personally identifiable information from children under the age of thirteen (13) without first obtaining parental consent. Prior to providing any personally identifiable information (your name, email address, address, phone number etc.), either by placing an order for merchandise, setting up a Marvel.com account, entering a contest or sweepstakes (if eligible), or participating in any other activity offered through the Marvel.com site, children under the age of thirteen (13) must have a parent or legal guardian complete and return (by mail or fax) a Parental Consent Form to MARVEL.COM - Marvel Enterprises, Inc., 10 East 40th Street, 11th Floor, New York, NY 10016; or by fax to: 917 472 2257. The consent form states that the child's "Parent" or "Legal Guardian", by his or her signature, consents to the collection and transfer of the child's personally identifiable information. Consent may be revoked by completing a "Marvel Revocation of Parental Consent Form" and sending it to the address or fax number above. 
+Marvel is committed to protecting the online privacy of children. In accordance with the Children's Online Privacy Protection Act ("COPPA"), Marvel will not knowingly collect any personally identifiable information from children under the age of thirteen (13) without first obtaining parental consent. Prior to providing any personally identifiable information (your name, email address, address, phone number etc.), either by placing an order for merchandise, setting up a Marvel.com account, entering a contest or sweepstakes (if eligible), or participating in any other activity offered through the Marvel.com site, children under the age of thirteen (13) must have a parent or legal guardian complete and return (by mail or fax) a Parental Consent Form to MARVEL.COM - Marvel Enterprises, Inc., 10 East 40th Street, 11th Floor, New York, NY 10016; or by fax to: 212 576 8507. The consent form states that the child's "Parent" or "Legal Guardian", by his or her signature, consents to the collection and transfer of the child's personally identifiable information. Consent may be revoked by completing a "Marvel Revocation of Parental Consent Form" and sending it to the address or fax number above. 
 
 In compliance with COPPA, Marvel is sensitive about children consulting with parents or guardians before furnishing personal information or ordering anything online. It's also Marvel's intention to adhere to the Children's Advertising Review Unit (CARU) Guidelines on Internet advertising with its special sensitivities regarding solicitations to children under thirteen (13). Marvel encourages parents/guardians to supervise and join their children in exploring cyberspace. Marvel is proud of its website and believes that it is suitable for Marvel fans of all ages. 
 
@@ -65,21 +65,29 @@ Attn: Online Privacy
 10 East 40th Street, 11th Floor   
 New York, NY 10016   
 privacy@marvel.com   
-Fax: 917-472-2257 
+Fax: 212-576-8535 
 
 **QUESTIONS, SUGGESTIONS & COMMENTS **
 
-Please contact us at privacy@marvel.com or write to us at: Business & Legal Affairs, Marvel Enterprises, Inc., 10 East 40th Street, 9th Floor, New York, New York, 10016 with any questions regarding Marvel's privacy policy. 
+Please contact the Marvel.com Manager/Privacy Coordinator:   
+Phone: 212.576.4000   
+Email:privacy@marvel.com   
+or write to us at:   
+Business & Legal Affairs, Marvel Enterprises, Inc.,   
+10 East 40th Street,   
+9th Floor   
+New York, NY, 10016   
+with any questions regarding Marvel's privacy policy. 
 
 **KIDS:** Never provide any information about yourself on the Internet without your parent's/guardian's permission. Please read Marvel's Parental Consent Policy (see below) with your parent's/guardian's before you go any further. Marvel requires your parents'/guardian's written permission for children under thirteen (13) to provide us with certain information required to get the Marvel Newsletter, order subscriptions or enter certain clubs etc. on the Marvel websites. 
 
-**[MARVEL'S PARENTAL CONSENT POLICY](https://web.archive.org/web/20011020070408id_/http%3A//marvel.com/about/privacy/pdfs/consent.pdf) **
+**[MARVEL'S PARENTAL CONSENT POLICY](https://web.archive.org/web/20020608011811id_/http%3A//marvel.com/about/privacy/pdfs/consent.pdf) **
 
 Marvel is committed to protecting the online privacy of children. In accordance with the Children's Online Privacy Protection Act, Marvel will not knowingly collect any personally identifiable information from children under the age of thirteen (13) without first obtaining parental consent. 
 
 **IMPORTANT NOTICE to Children Under the Age of thirteen (13):**
 
-Prior to providing any personally identifiable information (your name, email address, address, phone number etc.), either by placing an order for merchandise, setting up a Marvel.com account, entering a contest or sweepstakes (if eligible), or participating in any other activity offered through the Marvel.com site, children under the age of thirteen (13) must have a "Parent" or "Legal Guardian" complete and return (by mail or fax) a [Parental Consent Form](https://web.archive.org/web/20011020070408id_/http%3A//marvel.com/about/privacy/pdfs/consent.pdf) to MARVEL.COM - Marvel Enterprises, Inc., 10 East 40th Street, 11th Floor, New York, NY 10016; or by fax to: 917 472 2257. The consent form states that the child's "Parent" or "Legal Guardian," by his or her signature, consents to the collection and transfer of the child's personally identifiable information. Consent may be revoked by completing a "[Marvel Revocation of Parental Consent Form](https://web.archive.org/web/20011020070408id_/http%3A//marvel.com/about/privacy/pdfs/revocation.pdf)" and sending it to the address or fax number above. 
+Prior to providing any personally identifiable information (your name, email address, address, phone number etc.), either by placing an order for merchandise, setting up a Marvel.com account, entering a contest or sweepstakes (if eligible), or participating in any other activity offered through the Marvel.com site, children under the age of thirteen (13) must have a "Parent" or "Legal Guardian" complete and return (by mail or fax) a [Parental Consent Form](https://web.archive.org/web/20020608011811id_/http%3A//marvel.com/about/privacy/pdfs/consent.pdf) to MARVEL.COM - Marvel Enterprises, Inc., 10 East 40th Street, 11th Floor, New York, NY 10016; or by fax to: 212.576.8507. The consent form states that the child's "Parent" or "Legal Guardian," by his or her signature, consents to the collection and transfer of the child's personally identifiable information. Consent may be revoked by completing a "[Marvel Revocation of Parental Consent Form](https://web.archive.org/web/20020608011811id_/http%3A//marvel.com/about/privacy/pdfs/revocation.pdf)" and sending it to the address or fax number above. 
 
 If parental consent has been given, Marvel will only collect and use personal information (e.g., email address, mailing address, payment method and details) to the extent necessary to administer the requested activity. For example, the information will be used to: 1. To process and fulfill orders for subscriptions; 2\. To send the Marvel Newsletter or other pertinent information by email; and 3. To notify winners of contests and sweepstakes (if children under thirteen (13) were eligible). 
 
