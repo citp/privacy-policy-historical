@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624035728id_/http%3A//www.reviewcentre.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewcentre.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207002842id_/http%3A//www.reviewcentre.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Review Centre - Privacy Policy
 
-## About Us
+### About Us
 
-This is a privacy policy for Resource Team Ltd. Our homepage on the Web is located at [ http://www.resourceteam.co.uk](http://www.resourceteam.co.uk/). The full text of our privacy policy is available on the Web at [ http://www.reviewcentre.com/privacypolicy.html](http://www.reviewcentre.com/privacypolicy.html) This policy does not tell users where they can go to exercise their opt-in or opt-out options. 
+This is a privacy policy for Resource Team Ltd. Our homepage on the Web is located at www.resourceteam.co.uk. The full text of our privacy policy is available on the Web at [ www.reviewcentre.com/privacypolicy.html](http://www.reviewcentre.com/privacypolicy.html) This policy does not tell users where they can go to exercise their opt-in or opt-out options. 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
     
@@ -17,17 +17,17 @@ We invite you to contact us if you have questions about this policy. You may con
     United Kingdom
     
 
-You may contact us by e-mail at [ richard @ reviewcentre.com](mailto:richard@reviewcentre.com). You may call us at +44 (0)1457 833444 or fax on (0)1457 839923. 
+You may contact us by e-mail at [ Enquiries](mailto:enquiries@reviewcentre.com). You may call us at +44 (0)1457 833444 or fax on (0)1457 839923. 
 
-## Dispute Resolution and Privacy Seals
+### Dispute Resolution and Privacy Seals
 
 We have no privacy seals or other assurance mechanisms. 
 
-## Additional Information
+### Additional Information
 
 This policy is valid until 1 Jan, 2010 at 12:00:00 GMT. 
 
-## Data Collection
+### Data Collection
 
 P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 4 data groups. The data practices of each group will be explained seperately. 
 
@@ -128,7 +128,7 @@ This data will be used by ourselves and our agents.
 
 * * *
 
-## Cookies
+### Cookies
 
 Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
 
@@ -141,7 +141,7 @@ Our site makes use of cookies. Cookies are used for the following purposes:
 
 * * *
 
-## Compact Policy Summary
+### Compact Policy Summary
 
 The compact policy which corresponds to this policy is: 
     
@@ -177,7 +177,7 @@ The compact policy is sent by the Web server along with the cookies it describes
 
 * * *
 
-## Policy Evaluation
+### Policy Evaluation
 
 Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
 
