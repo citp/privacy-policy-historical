@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622083135id_/http%3A//pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203031520id_/http%3A//www2.pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
 
 # PCWorld.com - Privacy Policy
 
@@ -6,7 +6,7 @@ PCWorld.com Privacy Policy
 
 [](https://www.truste.org/validate/554)
 
-PCWorld.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because PC World.com wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this Website has agreed to answer the following questions: 
+PCWorld.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because PCWorld.com wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this Web site has agreed to answer the following questions: 
 
   1. What information does PCWorld.com collect, and how is it used?
   2. What are _cookies,_ and how are they used?
@@ -18,17 +18,17 @@ PCWorld.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independen
   8. What security procedures are in place to protect the loss, misuse, or alteration of my information?
   9. What about children? 
   10. How will I be notified of changes to this privacy policy?
-  11. What is _PC World's_ print magazine subscriber privacy policy?
+  11. What is _PC World_ magazine's (in print and digital format) subscriber privacy policy?
 
 
 
 If you have questions or concerns regarding this statement, please contact:
 
 Customer Service  
-PC World.com  
+PCWorld.com  
 501 Second Street  
 San Francisco, CA 94107  
-e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20030622083135id_/http%3A//pcworld.com/resource/webmaster@pcworld.com)
+e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20031203031520id_/http%3A//www2.pcworld.com/resource/webmaster@pcworld.com)
 
 If you do not receive acknowledgment of your inquiry, or your questions have not been satisfactorily addressed, you should then contact TRUSTe: <http://www.truste.org/users/users_watchdog.html>
 
@@ -48,13 +48,13 @@ PCWorld.com will occasionally place a cookie on the visitor's hard drive in orde
 
 PCWorld.com also uses cookies to enhance site content by compiling aggregate information about what specific sections and pages users visit. Advertisers or independent third parties who operate the servers on which the ads reside will occasionally also place cookies. Although PCWorld.com encourages third parties to adhere to appropriate privacy standards and policies, PCWorld.com is not responsible for the actions or policies of such parties.
 
-PCWorld.com also has a third party partnership with WebSite Story, which sets cookies that track Web usage of visitors. WebSite Story does not use the information for any other purpose than statistical information shared solely with PCWorld.com.
+PCWorld.com also has a third-party partnership with WebSite Story, which sets cookies that track Web usage of visitors. WebSite Story does not use the information for any other purpose than statistical information shared solely with PCWorld.com.
 
-Visitors to PCWorld.com may disable their cookies and retain full functionality of the PC World Website, with the exception of being unable to subscribe to or make changes to subscriptions to _PC World_ magazine through PCWorld.com.
+Visitors to PCWorld.com may disable their cookies and retain full functionality of the Web site, with the exception of being unable to subscribe to or make changes to subscriptions to _PC World_ magazine through PCWorld.com.
 
 What are _Clear GIFs,_ and how are they used?
 
-Our Web pages contain electronic images (called "Clear GIF", "Single-Pixel Gif", or "Web Beacon") that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a Web page, including an ad banner, can act as a _Clear GIF_. Typically, though, _Clear GIFs_ are very small (1-by-1 pixel size) files. They are often invisible on the Web page, but their presence can be easily detected within Internet Explorer by clicking on "View" and then on "Source." _Clear GIFs_ are so small in order not to use valuable space on the computer screen that is better used to display helpful content. We also include _Clear GIFs_ in HTML-formatted newsletters in order to count how many newsletters have been read. In addition, some advertising networks that serve ads on our Web site will occasionally use _Clear GIFs_ within banner advertisements. Our _Clear GIFs_ do not collect, gather, monitor or share any personal information about our Web site visitors; they are simply the technique we use to compile our anonymous, aggregated statistics about Web site usage.
+Our Web pages contain electronic images (called "Clear GIF," "Single-Pixel Gif," or "Web Beacon") that allow us to count page views or to access cookies. In general, any electronic image viewed as part of a Web page, including an ad banner, can act as a _Clear GIF_. Typically, though, _Clear GIFs_ are very small (1-by-1-pixel size) files. They are often invisible on the Web page, but their presence can be easily detected within Internet Explorer by clicking on "View" and then on "Source." _Clear GIFs_ are so small in order not to use valuable space on the computer screen that is better used to display helpful content. We also include _Clear GIFs_ in HTML-formatted newsletters in order to count how many newsletters have been read. In addition, some advertising networks that serve ads on our Web site will occasionally use _Clear GIFs_ within banner advertisements. Our _Clear GIFs_ do not collect, gather, monitor, or share any personal information about our Web site visitors; they are simply the technique we use to compile our anonymous, aggregated statistics about Web site usage.
 
 What is PCWorld.com's relationship with the DoubleClick advertising network?
 
@@ -64,22 +64,22 @@ The pages that a user calls up on PCWorld.com and that are noted by Doubleclick 
 
 Does PCWorld.com share the information it collects with others?
 
-PC World will occasionally share some of the non-identifying visitor information it collects on the site in the aggregate with third parties for marketing and promotional purposes. However, PCWorld.com never shares personal identifying information with any third party, except in these cases:
+PCWorld.com will occasionally share some of the non-identifying visitor information it collects on the site in the aggregate with third parties for marketing and promotional purposes. However, PCWorld.com never shares personal identifying information with any third party, except in these cases:
 
   * with the individual sponsor of a contest, promotion, or sweepstakes, and only if you as the participant specifically ask to receive additional information from a specific sponsor.
-  * with trusted third-party intermediaries such as subscription service bureaus, credit card companies, sweepstakes services companies, payment services companies, and banks, or third-party providers of PCWorld.com services that the user selects at our site. These intermediaries work with PC World under confidentiality agreements and do not have any independent right to share this information. 
-  * with third party billing services for magazine subscriptions. Shared information includes credit card number and expiration date from subscribers who wish to pay for PC World print magazine subscriptions.
-  * Though we make every effort to preserve user privacy, we and/or our third party service providers may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+  * with trusted third-party intermediaries such as subscription service bureaus, credit card companies, sweepstakes services companies, payment services companies, and banks, or third-party providers of PCWorld.com services that the user selects at our site. These intermediaries work with PCWorld.com under confidentiality agreements and do not have any independent right to share this information. 
+  * with third-party billing services for magazine subscriptions. Shared information includes credit card number and expiration date from subscribers who wish to pay for _PC World_ print magazine subscriptions.
+  * Though we make every effort to preserve user privacy, we and/or our third-party service providers may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order, or legal process served on our Web site.
 
 
 
-PCWorld.com and its parent company IDG and sister IDG companies occasionally inform registered users and newsletter subscribers via e-mail of special deals, new products, and other third-party product and service offers that we believe they will find interesting. All such offers are carefully screened. PCWorld.com registered users and newsletter subscribers are given the option to choose whether they would like to receive such mailings upon registration and can change their choice at any time (see below). All mailings are sent by PC World and IDG, through their contracted e-mail delivery service. Under no circumstances is your e-mail address or other personally identifying information shared with the vendor of the third party products or services offered in the mailing. Furthermore, under no circumstances will PCWorld.com or its parent company mail information from known spammers, get-rich-quick sites, or pornographic sites.
+PCWorld.com and its parent company IDG and sister IDG companies occasionally inform registered users and newsletter subscribers via e-mail of special deals, new products, and other third-party product and service offers that we believe they will find interesting. All such offers are carefully screened. PCWorld.com registered users and newsletter subscribers are given the option to choose whether they would like to receive such mailings upon registration and can change their choice at any time (see below). All mailings are sent by _PC World_ and IDG, through their contracted e-mail delivery service. Under no circumstances is your e-mail address or other personally identifying information shared with the vendor of the third-party products or services offered in the mailing. Furthermore, under no circumstances will PCWorld.com or its parent company mail information from known spammers, get-rich-quick sites, or pornographic sites.
 
 How can I make changes to my personal information?
 
-Subscribers to newsletter services can change or delete their personal identifying information by visiting the "[Subscription Changes](https://web.archive.org/resource/subservices.asp)" pages on PCWorld.com and clicking the appropriate Unsubscribe or Change Subscription buttons.
+Subscribers to newsletter services can change or delete their personal identifying information by visiting the [Subscription Changes](https://web.archive.org/resource/subservices.asp) pages on PCWorld.com and clicking the appropriate Unsubscribe or Change Subscription buttons.
 
-We allow users to "opt out" of receiving mailings from PC World or its parent company IDG regarding special offers and deals from third parties. Users can opt out at the time their e-mail information is requested, or by sending e-mail to [webmaster@pcworld.com](mailto:webmaster@pcworld.com). For all other changes, please contact PCWorld.com at [webmaster@pcworld.com](mailto:webmaster@pcworld.com).
+We allow users to "opt out" of receiving mailings from _PC World_ or its parent company, IDG, regarding special offers and deals from third parties. Users can opt out at the time their e-mail information is requested, or by sending e-mail to [webmaster@pcworld.com](mailto:webmaster@pcworld.com). For all other changes, please contact PCWorld.com at [webmaster@pcworld.com](mailto:webmaster@pcworld.com).
 
 What else should I know about my privacy and PCWorld.com?
 
@@ -108,19 +108,15 @@ How will I be notified of changes to this privacy policy?
 
 If PCWorld.com plans to use information collected from users in a manner different from that stated at the time of collection, it will directly contact users to obtain written or active e-mail consent prior to using their personal information. In some cases and with prior approval from TRUSTe, PCWorld.com will also post a notice on the site to obtain user consent.
 
-What is _PC World's_ print magazine subscriber privacy policy?
+What is _PC World_ magazine's (in print and digital format) subscriber privacy policy?
 
-Subscribers to _PC World_ magazine are asked to provide postal addresses and e-mail addresses (e-mail is optional). Postal addresses, which are necessary to send each monthly issue, will be used to promote PC World and IDG products and services, and will occasionally be rented to selected outside firms for promotional purposes. Offers for which the names are rented are screened, and renters are required to target their offers carefully.
+Subscribers to _PC World_ magazine are asked to provide postal addresses and e-mail addresses (e-mail is optional for print format and necessary for digital format). Magazine subscribers may be contacted by _PC World_ editorial and research staff and IDG, to improve the content of _PC World_ and for research surveys.
 
-E-Mail addresses of _PC World_ print subscribers will occasionally be used for PC World renewal promotions and for customer service purposes. These e-mail addresses can also be used to collect feedback for members of our editorial and research staffs to promote and develop PC World and IDG products and services. We allow users to opt-out of receiving e-mail from PC World Communications, Inc. when e-mail information is collected and with each e-mail use of the user's address. All mailings are sent by PC World and/or its contracted e-mail delivery services.
+Postal addresses, which are necessary to send each monthly issue, will be used to promote _PC World_ and IDG products and services, and will occasionally be rented to selected outside firms for promotional purposes. Offers for which the names are rented are screened, and renters are required to target their offers carefully.
 
-_PC World_ print subscribers who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to:
+E-mail addresses of _PC World_ magazine subscribers will occasionally be used for _PC World_ renewal promotions, billing promotions, customer service purposes, and PCWorld.com Web site notifications. These e-mail addresses can also be used to collect feedback for members of our editorial and research staffs to promote and develop _PC World_ and IDG products and services, and they may be rented to other firms for promotional purposes. We allow subscribers to “opt-out” of receiving e-mail from outside firms and/or PC World Communications, Inc. and its sister IDG companies when e-mail information is collected and with each e-mail use of the subscriber’s address. All mailings are sent by _PC World_ and IDG, through their contracted e-mail delivery services. All mailings are carefully screened by _PC World_ and IDG, and renters are required to target their offers carefully. Under no circumstances is your e-mail address or other personally identifying information shared with the vendor of the third-party products or services offered in the mailing. Furthermore, under no circumstances will _PC World_ or its parent company, IDG, mail information from known spammers, get-rich quick sites, or pornographic sites.
 
-PC World  
-Attn: Subscriber Services  
-P.O. Box 37571  
-Boone, IA 50037-0571  
-Or e-mail us at: [customer_service@pcworld.com ](mailto:customer_service@pcworld.com)
+_PC World_ magazine subscribers who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to (please include your mailing label or name and address):
 
 Further notification of how to be removed from the mailing list can be found in each issue of _PC World_ magazine and in subscription order confirmations.
 
