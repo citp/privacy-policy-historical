@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the footballlocks.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402213314id_/http%3A//www.footballlocks.com/privacy.shtml%23PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballlocks.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204223757id_/http%3A//www.footballlocks.com/privacy.shtml%23PRIVACY) for the most accurate reproduction.*
 
 # FootballLOCKS.com: Privacy Policy for online NFL pick purchases at FootballLOCKS.com.
-
- 
 
 ## Privacy Policy
 
@@ -14,7 +12,7 @@ All credit card transactions for Football _LOCKS_.com are processed securely, an
 
 The e-mail address you provide in connection with billing of Football _LOCKS_.com lock picks will be used to provide you with a receipt for your records as well as to provide you with any "make up lock quality football picks" that may be due to you in the event of a game invalidating occurrence as described in our general policies. 
 
-If you have subscribed for [lock pick e-mail notification,](http://www.footballlocks.com/notification.shtml#NOTIFICATION) the e-mail address you provide will be used for lock pick e-mail notification, updates of pick records, special offers and replacement picks only. You may opt out of Football _LOCKS_.com lock pick e-mail notification at any time by choosing the e-mail notification link from the main menu. 
+If you have subscribed for [NFL pick e-mail notification,](http://www.footballlocks.com/notification.shtml#NOTIFICATION) the e-mail address you provide will be used for NFL pick e-mail notification, updates of pick records, special offers and replacement picks only. You may opt out of Football _LOCKS_.com lock pick e-mail notification at any time by choosing the e-mail notification link from the main menu. 
 
 Football _LOCKS_.com may share aggregate demographic information about users to advertisers and others for the purposes of customizing ads for the site. For example, Football _LOCKS_.com might say that x% of users live in the U.S., but no personal information will be revealed. 
 
