@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amway.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622140020id_/http%3A//www.amway.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amway.com privacy policy that was archived on 2004-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040906033414id_/http%3A//www.amway.com/privacy.asp) for the most accurate reproduction.*
 
 # Amway | Privacy Statement
 
