@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206214457id_/http%3A//www.linkclicks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyfreestuff.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802103308id_/http%3A//www.linkclicks.com/privacy.html) for the most accurate reproduction.*
 
 # Link Clicks, Inc. Privacy Policy
 
