@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wookle.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205015117id_/http%3A//www.wookle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wookle.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203235400id_/http%3A//www.wookle.com/privacy.htm) for the most accurate reproduction.*
 
 # Wookle - The Wookle Network
 
