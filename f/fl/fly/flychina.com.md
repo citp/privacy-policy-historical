@@ -1,34 +1,69 @@
-> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409081305id_/http%3A//flychina.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2004-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040409081725id_/http%3A//www.flychina.com/privacy.htm) for the most accurate reproduction.*
 
 # FlyChina Privacy Statement
 
-FlyChina, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
+This privacy policy covers the site www.flychina.com. Your privacy is important to us, by visiting the website you are accepting the practices described in the following Privacy Policy. To demonstrate our commitment to our users' privacy, we have agreed to disclose our information practices. This Privacy policy is an integral part of our website and the services offered to you and cannot, in any way, be separated from the User Agreement, usage or transaction process. If you do not agree to our privacy policy in whole, you must not use our website. 
 
-During the process of delivering an ad to you, FlyChina does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, FlyChina does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by FlyChina is used for the purpose of targeting ads and measuring ad effectiveness on behalf of our advertisers.
+**Information Collected Online About You and Information that you provide us.**
 
-If you would like additional information about the types of non-personally identifiable information that is collected by FlyChina's advertisers please [click here.](http://www.flycast.com/about_us/index.cfm?sub=pri&content=priv-coll)
+When using FlyChina you provide your name, login name, password, address, telephone number, fax number, email address, credit card number and billing information. This information is collected for several reasons including but not limited to: (a) personal identification; (b) to complete air, hotel and car reservations; (c) to allow us to contact you for customer service; (d) customize the content of our site to meet your needs; and (e) make product improvements. Your email address is collected to send you an email confirming your reservation. You may receive faxes confirming your reservation. You may occasionally receive updates about special offers, new services, and other news items. However, you may always decline to receive these emails and fax messages. Please see our Opt Out policy described below. 
 
-FlyChina.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please [click here](http://www.flycast.com/about_us/about-privacy.html).
+**Reservations**
 
-In some cases, you may voluntarily provide personal information in response to a specific ad (this ad may ask you to fill out a survey or provide your zip code). If this does occur, FlyChina may collect this information on behalf of an advertiser. This information is used by an advertiser to respond to your request. In addition, FlyChina may combine this information with other users' information and review it in an aggregate form to understand the type of individuals who view a specific type of ad or visit a particular kind of website.
+When using our site, we ask you to provide personally identifiable information. This information includes your name, home or work telephone number, fax number, email address, and your credit card number, expiration date and billing information. This information is used to process and book your reservation and to notify you by email, fax or telephone and is used to access to your reservation information. We may also ask you for personally identifiable information about other people for whom you are booking reservations. This information is to reserve the room with the hotel or other services. 
 
-**Data Collection and Opt Out**
+**Cookies**
 
-FlyChina and its advertisers, as well as most sites on the Internet, use "cookies" to enhance your experience on the web. FlyChina and its advertisers cannot use these cookies to personally identify you in any way. What are cookies and why do we use them? A cookie is a unique number that is provided to you the first time FlyChina serves you an ad. This unique number, which is stored in a cookie file on your computer, helps FlyChina target ads to you. This cookie can help FlyChina ensure that we don't serve you the same ad multiple times, and help our advertisers understand what you like and don't like about their offerings so that they can cater better to your needs the next time you are interested in their products or services. While we believe that cookies enhance your Internet experience by limiting the number of times you see the same ad and delivering more relevant content to you, they are not required for FlyChina to deliver you an ad.
+Cookies are small pieces of information stored on your computer tied to information about you. Most Web browsers automatically accept cookies. Cookies help us gather and analyze information about our customers. We also use cookies to track usage of the "Guest" path. The "help" section of most browsers will tell you how to disable this feature or let you know when new cookies are added. The only drawback to this is that you will be limited in some areas of our website. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our website.
 
-If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information.
+**Log Files**
 
-You may opt out of eDispatch's services at any time. Please click here to: 
+Like most standard Website servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, diagnose problems with our servers and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
-  * review or update any contact information stored by eDispatch, 
-  * unsubscribe from any newsletter hosted by eDispatch, 
-  * permanently remove all contact information stored by eDispatch, 
-  * stop using additional information you have provided to better target advertisements within the emailings you have requested. 
+**Advertisers and Third Party Intermediaries**
 
+Some of our business partners use cookies and log files on our site (for example, advertisers/links/banners). However, we have no access to or control over these. We use an outside credit card / bank processing and software companies to bill and provide user goods and services. These companies do not share or use personally identifiable information for any secondary purposes. This privacy policy covers FlyChina only and does not cover use of information by any others.
 
+**Newsletter**
 
-**Opt Out Procedure**
+If a user wishes to subscribe to our newsletter, we collect information such as name, address, telephone and email address. Users who no longer wish to receive our newsletter may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at customercare@FlyChina.com. 
 
-If you would like to "opt out," that is, to prevent any data from being stored by FlyChina's advertisers, please [click here](http://www.flycast.com/about_us/index.cfm?sub=pri&content=priv-optout).
+**Changing/Updating Information**
 
-If you have any additional questions about FlyChina's dedication to consumer privacy, please contact us at [privacy@flychina.com](mailto:privacy@flychina.com).
+You can update your account information at any time by contacting FlyChina.
+
+**Sharing Information (personally identifiable and non-identifiable)**
+
+FlyChina may be required by law to disclose information you have provided in obtaining our travel products or services. FlyChina may also disclose information against someone who poses a threat to FlyChina interests (such as customer fraud) or whose activities could bring harm to others. 
+
+We may also share non-personally identifiable demographic information with our partners and advertisers. FlyChina will occasionally share information to develop featured programs and content that will be of interest to our website visitors
+
+**Suppliers / Partners**
+
+We provide information about your activities to the suppliers who fulfill your travel reservation. Although FlyChina offers products from reputable suppliers and companies, we can not control or limit these suppliers from using or disclosing your information without your permission. FlyChina may contract a reputable third-party to facilitate the distribution of survey, promotion, or sweepstakes programs.
+
+**Affiliated Websites**
+
+If you were referred to FlyChina from another website, we may personally identifiable information about you to the referring website. We believes that the website companies from which you were referred to us are reputable companies, we have not placed limitations on the referring websites companies from using or disclosing your information without your permission.
+
+**Opt-out**
+
+Our users may 'opt-out' of having their information used for purposes not directly related to our site or services. Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at hqFlyChina.com. 
+
+**Surveys & Contests **
+
+From time-to-time our site requests information from users via completely voluntary surveys or contests. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). This information will be used to notify the winners, award prizes, monitoring or improving the use and satisfaction of this website. We may use an intermediary to conduct these surveys or contests, they may not use user’ personally identifiable information for any secondary purposes. 
+
+**Security**
+
+FlyChina takes every precaution to protect our users' information. When users submit sensitive information via the website, their information is protected both online and off-line. Reservation order form asks users to enter sensitive information (such as credit card number and billing information), that information is encrypted and is protected with the best encryption software. 
+
+**Contact Information**
+
+If users have any questions or suggestions regarding our privacy policy, please contact us at:
+
+Phone: (954) 233-0680  
+Fax: (954) 233-0670  
+E-mail: hqFlyChina.com
+
+Postal Address: 5300 NW 33 Ave, Ste 219, Ft Lauderdale, FL 33309, USA
