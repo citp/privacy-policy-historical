@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the buffalo.com privacy policy that was archived on 2003-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621080417id_/http%3A//www.buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the buffalo.com privacy policy that was archived on 2004-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040404031621id_/http%3A//www.buffalo.com/link.asp%3Flink%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head><meta name="description" content="Buffalo.com Privacy Policy">
 
 	<title>Buffalo.com(SM) Privacy Policy</title>
+
 	
 <script language="JavaScript">
 <!--   hide this script from non-javascript-enabled browsers
@@ -57,8 +58,15 @@ function dmim(msgStr) {
                   <img alt="" border="0" src="images/space.gif" width="5">
               </td>
              <td>
-<!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.buffalo.com/adredir.asp?ciid=1169&amp;url=http://www.superpages.com/maps/" target="_new"><img src="http://www.buffalo.com/images/banners3/468verizon_easiertoget050103.gif" width="468" height="60" border="0" alt="Verizon Super Pages"></a>
+				<!-- begin ZEDO -->
+				<script language="JavaScript">
+				var zflag_nid="311"; var zflag_cid="271/270"; var zflag_sid="0"; var zflag_width="468"; var zflag_height="60"; var zflag_sz="0"; 
+				</script>
+				<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=311;c=271/270;w=468;h=60" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="468" height="60"><script language="JavaScript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script><noscript>
+				<a href="http://xads.zedo.com/ads2/r?n=311;c=271/270;u=j;z=44200431636" target="_blank"><img border="0" width="468" height="60" src="http://xads.zedo.com/ads2/x?n=311;c=271/270;u=j;z=44200431636" alt="Click here"></a>
+				</noscript>
+				</iframe>
+				<!-- end ZEDO -->
              </td>
            </tr>
         </tbody></table>
@@ -96,6 +104,230 @@ a.nav:hover{text-decoration:underline;}
 <table border="0" cellpadding="0" cellspacing="0" width="150">
 	<tbody><tr>
 		<td bgcolor="#8e359b" height="25">
+			<font size="2" face="arial, helvetica" color="#ffffff"><b>Directory Search</b></font><b>
+		</b></td>
+	</tr>
+	<tr>
+		<td valign="top" bgcolor="#eae2f8">
+			<style>
+.searchbox
+{
+	font-family: sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #fff19f
+}
+
+.boxborder
+{
+	background-color: #0D1B71;
+}
+
+a.searchbox
+{
+	font-family: sans-serif;
+	color: #0d1b71;
+	font-size: 10px;
+}
+
+.textbox
+{
+	background-color: #ffffff;
+	color: #000000;
+	font-size: 10px;
+}
+
+</style>
+
+<script>
+	function checkPeople() {
+		if(document.searchLN.searchType.selectedIndex == 99) {
+			runSearch();
+			document.searchLN.submit();
+		}
+	}
+						
+	function runSearchLN() {
+		index = document.searchLN.searchType.selectedIndex;
+
+		//Local Business Search - open in same window...
+		if(index == 0) {
+			document.searchLN.keywords.name = 'businessName';
+			document.searchLN.searchurl.value = 'http://www.buffalotalks.com/2771.jhtml';
+			document.searchLN.action = "http://www.buffalo.com/TPBSearchResults.asp"
+			document.searchLN.target = "";
+		}
+
+
+		//WNY Web Directory - open in same window...
+		if(index == 1) {
+			document.searchLN.keywords.name = 'qu';
+			document.searchLN.action = 'http://www.buffalo.com/search/web_dir_rslts.asp';
+			document.searchLN.target = "";
+		}
+
+
+		//Keyword Search - open in same window...
+		if(index == 2) {
+			document.searchLN.keywords.name = 'keywords';
+			document.searchLN.searchurl.value = 'http://www.buffalotalks.com/2771.jhtml';
+			document.searchLN.action = "http://www.buffalo.com/TPBSearchResults.asp"
+			document.searchLN.target = "";
+		}
+
+		
+		//News Article search - open in same window...	
+		if(index == 3) {
+			document.searchLN.keywords.name = 'newskey';
+			document.searchLN.action = "http://www.buffalonews.com/search/results.asp?B1=Submit";
+			document.searchLN.target = "";
+		}
+
+		//National Business Search - open in new window...
+		if(index == 4) {
+			document.searchLN.keywords.name = 'L';
+			document.searchLN.action = "http://search.worldpages.com/bin/cgidir.dll";
+			//document.searchLN.searchurl.value = "http://search.worldpages.com/bin/cgidir.dll";
+			document.searchLN.target = "new";
+			//document.searchLN.action = "http://www.buffalo.com/TPBSearchResults.asp";
+			
+		}
+
+
+		//Local Events search - open in same window...
+		if(index == 5){
+			document.searchLN.keywords.name = 'search_keyword';
+			document.searchLN.action = "http://www.buffalo.com/calendar/calendar_events.asp?search_category=ALL";
+			document.searchLN.target = "";
+		}
+
+
+		//People Search - open in new window (form default)...
+		if(index == 99) {
+			document.searchLN.keywords.name = 'people';
+			//document.searchLN.action = 'http://www.buffalotalks.com/2552.jhtml';
+			document.searchLN.searchurl.value = 'http://www.buffalotalks.com/2552.jhtml';
+			document.searchLN.action = "http://www.buffalo.com/TPBSearchResults.asp"
+			
+		}
+	}
+
+	function YellowPageCategoriesOver(strLetter)
+	{
+		window.status='Search by Yellow Page Categories - ' + strLetter;
+		return true;
+	}	
+
+	function YellowPageCategoriesOut()
+	{
+		window.status='';
+		return true;
+	}	
+	
+</script>
+
+
+<div align="center">
+	<table width="150" border="0" cellpadding="0" cellspacing="0" class="boxborder">
+		<tbody><tr>
+			<td width="150">
+				<table width="150" border="0" cellpadding="0" cellspacing="0" class="searchbox">
+					<tbody><tr>
+						<td align="center">
+							<a href="/TPBSearch.asp" onmouseover="window.status='Search Using The Talking Phone Book - The Official Phone Directory of The Buffalo News.com';return true;" onmouseout="window.status='';return true;">
+							<img src="http://www.buffalo.com/images/maxSearch_new.gif" border="1">
+							</a>
+						</td>
+					</tr>
+					<tr>
+						<td align="center">
+							<form action="" method="GET" target="searchwin" name="searchLN" onsubmit="runSearchLN()">
+								<input type="hidden" name="book_code" value="49411">
+								<input type="hidden" name="id" value="315605">
+								<input type="hidden" name="FUNC" value="FORMATSEARCH">
+								<input type="hidden" name="MEM" value="288">
+								<input type="hidden" name="searchurl" value="">
+								<table width="100%" border="0" cellpadding="2" cellspacing="0">
+									<tbody><tr>
+										<td class="searchbox" align="center">
+											<select name="searchType" style="width: 130px; font-size: 10px" onchange="checkPeople();">
+												<option value="businessName" selected="">Local Business Name</option>
+												<option value="people">WNY Web Directory</option>
+												<option value="keyword">Keyword Search</option>
+												<option value="news">Buffalo News Articles</option>
+												<option value="businessName">National Business Search</option>
+												<option value="events">Local Events</option>
+											</select>
+										</td>
+									</tr>
+									<tr>
+									 	<td class="searchbox" colspan="2" align="center" nowrap="nowrap">
+									 			<input type="text" name="keywords" value="" style="width: 110px; font-size: 9px">
+			            						<input type="image" name="imageField" src="http://www.buffalotalks.com/images/bnews/go4.gif" align="absmiddle" border="none">
+										</td>
+									
+									</tr>
+									<tr>
+										<td class="searchbox" colspan="2" align="center">
+											Yellow Page Categories:<br>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=A&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('A');return true;" onmouseout="YellowPageCategoriesOut();return true;">A</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=B&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('B');return true;" onmouseout="YellowPageCategoriesOut();return true;">B</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=C&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('C');return true;" onmouseout="YellowPageCategoriesOut();return true;">C</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=D&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('D');return true;" onmouseout="YellowPageCategoriesOut();return true;">D</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=E&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('E');return true;" onmouseout="YellowPageCategoriesOut();return true;">E</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=F&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('F');return true;" onmouseout="YellowPageCategoriesOut();return true;">F</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=G&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('G');return true;" onmouseout="YellowPageCategoriesOut();return true;">G</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=H&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('H');return true;" onmouseout="YellowPageCategoriesOut();return true;">H</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=I&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('I');return true;" onmouseout="YellowPageCategoriesOut();return true;">I</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=J&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('J');return true;" onmouseout="YellowPageCategoriesOut();return true;">J</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=K&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('K');return true;" onmouseout="YellowPageCategoriesOut();return true;">K</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=L&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('L');return true;" onmouseout="YellowPageCategoriesOut();return true;">L</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=M&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('M');return true;" onmouseout="YellowPageCategoriesOut();return true;">M</a><br>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=N&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('N');return true;" onmouseout="YellowPageCategoriesOut();return true;">N</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=O&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('O');return true;" onmouseout="YellowPageCategoriesOut();return true;">O</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=P&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('P');return true;" onmouseout="YellowPageCategoriesOut();return true;">P</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=Q&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('Q');return true;" onmouseout="YellowPageCategoriesOut();return true;">Q</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=R&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('R');return true;" onmouseout="YellowPageCategoriesOut();return true;">R</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=S&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('S');return true;" onmouseout="YellowPageCategoriesOut();return true;">S</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=T&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('T');return true;" onmouseout="YellowPageCategoriesOut();return true;">T</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=U&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('U');return true;" onmouseout="YellowPageCategoriesOut();return true;">U</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=V&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('V');return true;" onmouseout="YellowPageCategoriesOut();return true;">V</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=W&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('W');return true;" onmouseout="YellowPageCategoriesOut();return true;">W</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=X&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('X');return true;" onmouseout="YellowPageCategoriesOut();return true;">X</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=Y&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('Y');return true;" onmouseout="YellowPageCategoriesOut();return true;">Y</a>
+											<a href="http://www.buffalo.com/TPBSearchResults.asp?searchURL=http://www.buffalotalks.com/2551.jhtml&amp;letter=Z&amp;book_code=49411" class="searchbox" onmouseover="YellowPageCategoriesOver('Z');return true;" onmouseout="YellowPageCategoriesOut();return true;">Z</a>
+										</td>
+									</tr>
+								</tbody></table>
+						</form></td>
+					</tr>
+					<tr>
+						<td class="searchbox" align="center"><br><a href="/TPBSearch.asp?people=1"><u>People Search</u></a><br>&nbsp;</td>
+					</tr>
+					<tr>
+						<td align="center" class="searchbox">
+							Use the printed directory<br><a href="http://cd.buffalotalks.com" class="searchbox" target="_blank" onmouseover="window.status='View the Printed Directory'; return true;" onmouseout="window.status=''; return true;">View</a> or <a href="http://www.buffalotalks.com/pagedisplay.jsp?pageId=161" class="searchbox" target="_blank" onmouseover="window.status='Download the Printed Directory'; return true;" onmouseout="window.status=''; return true;">Download</a></td>
+					</tr>
+				</tbody></table>
+			</td>
+		</tr>
+	</tbody></table>
+</div>
+
+<!-- End search box -->
+		</td>
+	</tr>
+	<tr>
+		<td valign="top">	
+			
+			<img height="2" alt="" src="http://www.buffalo.com/images/space.gif" width="1" border="0">
+			
+
+		</td>
+	</tr>
+	<tr>
+		<td bgcolor="#8e359b" height="25">
 			<font size="2" face="arial, helvetica" color="#ffffff"><b>Do It!</b>-On Buffalo.com<font size="-1"><sup>SM</sup></font></font>
 		</td>
 	</tr>
@@ -108,7 +340,7 @@ a.nav:hover{text-decoration:underline;}
 						<font face="arial, helvetica" size="2" color="#1b69a8">•<br></font>
 					</td>
 					<td valign="top">
-						<font face="arial, helvetica" size="2" color="#1b69a8">&nbsp;<a class="nav" onmouseover="window.status='Free Email'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=freemail">Read e-mail</a><br></font>
+						<font face="arial, helvetica" size="2" color="#1b69a8">&nbsp;<a class="nav" onmouseover="window.status='Free Email'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=freemail">Read eMail</a><br></font>
 					</td>
 				</tr>
 				<tr>
@@ -117,15 +349,6 @@ a.nav:hover{text-decoration:underline;}
 					</td>
 					<td valign="top">
 						<font face="arial, helvetica" size="2" color="#1b69a8">&nbsp;<a class="nav" onmouseover="window.status='MyCalendar@Buffalo.com(SM)'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=mycalendar">Check MyCalendar</a><br></font>
-					</td>
-				</tr>
-				
-				<tr>
-					<td width="4" valign="top">
-						<font face="arial, helvetica" size="2" color="#1b69a8">•<br></font>
-					</td>
-					<td valign="top">
-						<font face="arial, helvetica" size="2" color="#1b69a8">&nbsp;<a class="nav" onmouseover="window.status='Latest Sports Scores'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=scores">Latest Sports Scores</a><br></font>
 					</td>
 				</tr>
 				<tr>
@@ -165,7 +388,9 @@ a.nav:hover{text-decoration:underline;}
 	</tr>
 	<tr>
 		<td valign="top">	
+			
 			<img height="2" alt="" src="http://www.buffalo.com/images/space.gif" width="1" border="0">
+			
 		</td>
 	</tr>
 	<tr>
@@ -184,12 +409,19 @@ a.nav:hover{text-decoration:underline;}
 	</tr>
 	<tr>
 		<td valign="top">	
+			
 			<img height="2" alt="" src="http://www.buffalo.com/images/space.gif" width="1" border="0">
+			
+
 		</td>
 	</tr>
 	<tr>
 		<td bgcolor="#8e359b" height="25">
-			<img height="1" alt="" src="http://www.buffalo.com/images/space.gif" width="2" border="0"><font size="2" face="arial, helvetica" color="#ffffff"><b>WNY Web Directory</b><font size="-1"><sup>SM</sup></font></font>
+			
+			<img height="1" alt="" src="http://www.buffalo.com/images/space.gif" width="2" border="0">
+			
+			
+			<font size="2" face="arial, helvetica" color="#ffffff"><b>WNY Web Directory</b><font size="-1"><sup>SM</sup></font></font>
 		</td>
 	</tr>
 	<tr valign="top"><form action="http://www.buffalo.com/link.asp" method="get" id="form885" name="form885"></form>
@@ -224,12 +456,16 @@ a.nav:hover{text-decoration:underline;}
 	</tr>
 	<tr>
 		<td align="center" bgcolor="#eae2f8">
+			
 			<input type="image" src="http://www.buffalo.com/images/xgo3.gif" border="0" id="form885" name="form885">
+			
 		</td>
 	</tr>
 	<tr>
 		<td valign="top">	
+			
 			<img height="2" alt="" src="http://www.buffalo.com/images/space.gif" width="1" border="0">
+			
 		</td>
 	</tr>
 	<tr>
@@ -250,11 +486,13 @@ a.nav:hover{text-decoration:underline;}
 			<!--br-->
 			<a class="nav" href="http://www.buffalo.com/link.asp?link=cars" onmouseover="window.status='BuffaloCars.com(SM)'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">BuffaloCars.com<font size="-1"><sup>SM</sup></font></a>
 			<br>
-			<a class="nav" href="http://www.buffalo.com/link.asp?link=design" onmouseover="window.status='Build Your Own Website'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">Build Your Own Website</a>
+			<a class="nav" href="http://www.buffalo.com/link.asp?link=bbest" onmouseover="window.status='Buffalo Niagara\'s Best Restaurants'; return true" onmouseout="window.status=''; return true">Buffalo Niagara's<br>&nbsp;Best Restaurants</a>
 			<br>
 			<a class="nav" href="http://www.buffalo.com/link.asp?link=cancellations" onmouseover="window.status='Cancellations'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">Cancellations</a>
 			<br>
 			<a class="nav" href="http://www.buffalo.com/link.asp?link=careers" onmouseover="window.status='Career Fair'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">Career Fair</a>
+			<br>
+			<a class="nav" href="http://www.buffalo.com/link.asp?link=classroom" onmouseover="window.status='Classified'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">Classroom Connection</a>
 			<br>
 			<a class="nav" href="http://www.buffalo.com/link.asp?link=classified" onmouseover="window.status='Classified'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">Classified</a>
 			<br>
@@ -288,7 +526,7 @@ a.nav:hover{text-decoration:underline;}
 		</td>
 <!-- Left side nav end -->
 		<td align="left" valign="top">
-			<img alt="" border="0" height="1300" hspace="4" align="left" src="/images/line.gif" width="2">
+			<img alt="" border="0" height="1515" hspace="4" align="left" src="/images/line.gif" width="2">
 		</td>
 <!-- Right side start -->
 		<td align="left" valign="top" width="100%">
@@ -360,7 +598,7 @@ a.nav:hover{text-decoration:underline;}
             <p><font size="2">Children must be 13 years of age or older to become a registered member of E-vents@Buffalo.com<font size="-1"><sup>SM</sup></font> and post events on the community calendar.  
 			See the <a href="/calendar/StandardsOfContent.asp">Standards of Content</a> for E-vents@Buffalo.com<font size="-1"><sup>SM</sup></font>
             </font></p>
-            <p><font size="2">See the <a href="http://www.buffalo.com/registration/policy.asp">Terms of Service</a> for Buffalo.com<font size="-1"><sup>SM</sup></font> Free Email Service.</font></p>
+            <p><font size="2">See the <a href="http://mail.buffalo.com/templates/common/us/tos.htm">Terms of Service</a> for Buffalo.com<font size="-1"><sup>SM</sup></font> Free Email Service.</font></p>
             <p><font size="2">Please take a few minutes to review Buffalo.com's<font size="-1"><sup>SM</sup></font> <a href="http://www.buffalo.com/visitor.asp">Visitor Agreement</a>.</font></p>
             <p><font size="2">Any changes to our privacy policy will be posted. 
             </font></p>
@@ -397,7 +635,7 @@ a.nav:hover{text-decoration:underline;}
 			<a class="nav" onmouseover=" window.status='Visitor Agreement'; return true" onmouseout=" window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=visitor">Visitor Agreement</a> |
 			<a class="nav" onmouseover=" window.status='Privacy Policy'; return true" onmouseout=" window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=privacy">Privacy Policy</a> | 
 			<a class="nav" onmouseover=" window.status='Advertise on Buffalo.com(SM)'; return true" onmouseout=" window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=advertise">Advertise On Buffalo.com<font size="-1"><sup>SM</sup></font></a><br>
-			<a class="nav" onmouseover=" window.status='Copyright - Buffalo.com(SM)'; return true" onmouseout=" window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=copyright">Copyright 2002 - 2003 - Buffalo.com<font size="-1"><sup>SM</sup></font></a>
+			<a class="nav" onmouseover=" window.status='Copyright - Buffalo.com(SM)'; return true" onmouseout=" window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" href="http://www.buffalo.com/link.asp?link=copyright">Copyright 2003 - 2004 - Buffalo.com<font size="-1"><sup>SM</sup></font></a>
 			<br>
 			<a class="nav" href="http://www.buffalo.com/link.asp?link=homepage" onmouseover="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true" onmouseout="window.status='Welcome to Buffalo.com(SM) - Everything Buffalo!(SM)'; return true">	 Buffalo.com<font size="-1"><sup>SM</sup></font> - Everything Buffalo<font size="-1"><sup>SM</sup></font></a><br>
 			<font color="#012c8b">Buffalo, NY</font></font>
@@ -407,18 +645,47 @@ a.nav:hover{text-decoration:underline;}
 </tbody></table>
 
 </p>
-        </td><td align="middle" valign="top" width="10"> <img border="0" height="1385" src="/images/line.gif" width="2"> </td>
+        </td><td align="middle" valign="top" width="10"> <img border="0" height="1600" src="/images/line.gif" width="2"> </td>
 		<td valign="top"><br>
-            <!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.buffalo.com/adredir.asp?ciid=1208&amp;url=http://www.funjet.com/partners/index.asp%3Freferrer=J38" target="_new"><img src="http://www.buffalo.com/images/banners3\120funjet_060103.gif" width="120" height="90" border="0" alt="Funjet Vacations"></a><p>
-            <!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.buffalo.com/adredir.asp?ciid=1187&amp;url=http://www.artonwheels.org" target="_new"><img src="http://www.buffalo.com/images/banners3/120artonwheels_051203_2.gif" width="120" height="90" border="0" alt="Art on Wheels"></a></p><p>
-            <!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.buffalo.com/adredir.asp?ciid=993&amp;url=http://www.brierwoodcc.com" target="_new"><img src="http://www.buffalo.com/images/banners2/120_brierFVC_102202.gif" width="120" height="90" border="0" alt="Brierwood Country Club"></a></p><p>
-            <!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.buffalo.com/adredir.asp?ciid=1145&amp;url=http://www.HomeFinderExtra.com" target="_new"><img src="http://www.buffalo.com/images/banners3/120homefinder_031903.gif" width="120" height="90" border="0" alt="HomeFinderExtra.com"></a></p><p>
-            <!--Inserted HTML code from MSASv1.0-->
-<a href="http://www.buffalo.com/adredir.asp?ciid=1154&amp;url=http://www.buffalojobfinder.com/" target="_new"><img src="http://www.buffalo.com/images/banners3/120jobfinder_031903_2.gif" width="120" height="90" border="0" alt="BuffaloJobFinder.com"></a></p><p></p>
+            <!-- begin ZEDO TILE 120.1-->
+				<script language="JavaScript">
+				var zflag_nid="311"; var zflag_cid="252/250"; var zflag_sid="0"; var zflag_width="120"; var zflag_height="90"; var zflag_sz="3"; 
+				</script>
+				<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=311;c=252/250;d=3;w=120;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="120" height="90"><script language="JavaScript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script><noscript>
+				<a href="http://xads.zedo.com/ads2/r?n=311;c=252/250;x=768;u=j;z=44200431636" target="_blank"><img border="0" width="120" height="90" src="http://xads.zedo.com/ads2/x?n=311;c=252/250;x=768;u=j;z=44200431636" alt="Click here"></a>
+				</noscript>
+				</iframe>
+				<!-- end ZEDO --><p>
+				
+				<!-- begin ZEDO TILE 120.2-->
+				<script language="JavaScript">
+				var zflag_nid="311"; var zflag_cid="253/250"; var zflag_sid="0"; var zflag_width="120"; var zflag_height="90"; var zflag_sz="3"; 
+				</script>
+				<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=311;c=253/250;d=3;w=120;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="120" height="90"><script language="JavaScript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script><noscript>
+				<a href="http://xads.zedo.com/ads2/r?n=311;c=253/250;x=768;u=j;z=44200431636" target="_blank"><img border="0" width="120" height="90" src="http://xads.zedo.com/ads2/x?n=311;c=253/250;x=768;u=j;z=44200431636" alt="Click here"></a>
+				</noscript>
+				</iframe>
+				<!-- end ZEDO --></p><p>
+				
+				<!-- begin ZEDO TILE 120.3-->
+				<script language="JavaScript">
+				var zflag_nid="311"; var zflag_cid="254/250"; var zflag_sid="0"; var zflag_width="120"; var zflag_height="90"; var zflag_sz="3"; 
+				</script>
+				<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=311;c=254/250;d=3;w=120;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="120" height="90"><script language="JavaScript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script><noscript>
+				<a href="http://xads.zedo.com/ads2/r?n=311;c=254/250;x=768;u=j;z=44200431636" target="_blank"><img border="0" width="120" height="90" src="http://xads.zedo.com/ads2/x?n=311;c=254/250;x=768;u=j;z=44200431636" alt="Click here"></a>
+				</noscript>
+				</iframe>
+				<!-- end ZEDO --></p><p>
+				
+				<!-- begin ZEDO SKY AD-->
+				<script language="JavaScript">
+				var zflag_nid="311"; var zflag_cid="255/250"; var zflag_sid="0"; var zflag_width="120"; var zflag_height="240"; var zflag_sz="5"; 
+				</script>
+				<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=311;c=255/250;d=5;w=120;h=240" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="120" height="240"><script language="JavaScript" src="http://c5.zedo.com/jsc/c5/ff2.js"></script><noscript>
+				<a href="http://xads.zedo.com/ads2/r?n=311;c=255/250;x=1280;u=j;z=44200431636" target="_blank"><img border="0" width="120" height="240" src="http://xads.zedo.com/ads2/x?n=311;c=255/250;x=1280;u=j;z=44200431636" alt="Click here"></a>
+				</noscript>
+				</iframe>
+				<!-- end ZEDO --></p>
 		</td></tr></tbody></table>
 <p>
 
