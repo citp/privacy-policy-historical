@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206152600id_/http%3A//www.hippieshop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hippieshop.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411145412id_/http%3A//www.hippieshop.com/privacy.htm) for the most accurate reproduction.*
 
 # HippieShop.com -Privacy
 
@@ -10,7 +10,7 @@ When you purchase products from HippieShop.com or register for any HippieShop.co
 
 **Use of Information**
 
-HippieShop.com will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. Examples of such information are: name, postal address, e-mail address, phone number, birthdays, and product commentary. 
+HippieShop.com will not collect any personal information about individuals except when specifically and knowingly provided by such individuals. Examples of such information are: name, postal address, e-mail address, phone number, birthdays, and product commentary.
 
 HippieShop.com may share non-personal aggregate, or summary, information regarding its customers with partners or other third parties, but HippieShop.com does not sell or share any information at the individual customer level. 
 
