@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607124306id_/http%3A//www.bellaonline.com/company/privacy_01.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815091815id_/http%3A//www.bellaonline.com/company/privacy_01.html) for the most accurate reproduction.*
 
 # BellaOnline Privacy Policy
 
-[Company Info](https://web.archive.org/web/20000607124306id_/http%3A//www.bellaonline.com/company/index.html) | [Partners](https://web.archive.org/web/20000607124306id_/http%3A//www.bellaonline.com/company/partners.html) | [Contact Info](https://web.archive.org/help)
+[Company Info](https://web.archive.org/web/20000815091815id_/http%3A//www.bellaonline.com/company/index.html) | [Partners](https://web.archive.org/web/20000815091815id_/http%3A//www.bellaonline.com/company/partners.html) | [Contact Info](https://web.archive.org/help)
 
  **Privacy Policy**
 
@@ -19,7 +19,7 @@ Questions regarding this statement should be directed to BellaOnline.com by send
 
 Bella-Online is currently seeking review and certification of its Privacy Policy by an independent privacy organization. The terms of this Privacy Policy are subject to revision in order to obtain certification. 
 
-This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement. ](https://web.archive.org/web/20000607124306id_/http%3A//www.bellaonline.com/company/terms_01.html) Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
+This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement. ](https://web.archive.org/web/20000815091815id_/http%3A//www.bellaonline.com/company/terms_01.html) Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
 
  **How We Collect Information**
 
