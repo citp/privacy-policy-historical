@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207043606id_/http%3A//www.cheapflights.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623214846id_/http%3A//cheapflights.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -9,10 +9,9 @@ Please [contact us](https://web.archive.org/feedback.html) by email if you have 
 
 Or by post at the following address: 
 
-Graham Duffill  
-Publisher   
-90 Westbourne Grove  
-London W2 5RT   
+Content Editor  
+49 Marylebone High Street  
+London W1U 5HJ  
 United Kingdom
 
 **Validity**  
