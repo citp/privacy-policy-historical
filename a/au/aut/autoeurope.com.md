@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013035152id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoeurope.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622110718id_/http%3A//www.autoeurope.com/privacy.cfm) for the most accurate reproduction.*
 
 # Auto Europe Car Rental, Discounted Airfare and Hotel Reservations
 
@@ -37,4 +37,4 @@ If you are having trouble reading our email travel newsletter, this will allow y
 
 [**Opt-In/Opt-Out**](https://www.autoeurope.com/opt_out.cfm)  
 You can use this form to specify whether we may share your personal information with others.   
-[](https://digitalid.verisign.com/as2/4b1099975889523ff09c9e01c8d53930)
+[](https://digitalid.verisign.com/as2/69901a4fd0319bc59b7ba13cbee66ead)
