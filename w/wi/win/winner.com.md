@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winner.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626170928id_/http%3A//winner.com/General_Pages/Privacy_Statement/Privacy_Statement614077.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winner.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205021918id_/http%3A//winner.com/Online-Casino-Guide/General-Pages/Privacy-Statement/Privacy-Statement-614077.asp) for the most accurate reproduction.*
 
 # Winner.com Online Casino Guide - Privacy Statement
 
