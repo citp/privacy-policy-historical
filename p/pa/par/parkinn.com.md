@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parkinn.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605093122id_/http%3A//www.parkinn.com/customerservice/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinn.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209004925id_/http%3A//www.parkinn.com/customerservice/privacy.jsp) for the most accurate reproduction.*
 
-# Welcome to Park Inn - Your Privacy Rights
+# Park Inn hotels - Your Privacy Rights
 
 **Privacy Philosophy**  
 We want to make your experience online satisfying and safe. We want to provide you with the means to control your privacy and give you a way to voice questions or concerns you may have. 
