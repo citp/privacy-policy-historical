@@ -1,52 +1,29 @@
-> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604120504id_/http%3A//www.installshield.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624124915id_/http%3A//installshield.com/company/privacy.asp) for the most accurate reproduction.*
 
-# InstallShield : : Privacy : Home
+# InstallShield - Privacy Policy
 
-This statement discloses the privacy practices for InstallShield Software Corporation, hereafter referred to as InstallShield. In this document, you will find information on: 
+Privacy Policy 
 
-  * Visitor information collected on InstallShield.com 
-  * How the information is used 
-  * Visitors' control of their information 
-  * Relevant other topics: cookies, security measures, and protection of credit card data 
+Dear Web Site Visitor, 
 
-**Visitor information collected on InstallShield.com**  
-For each visitor to our site, our Web server automatically attempts to collect general, non-personally identifiable information. Examples of this type of information include the visitor's domain name, which pages the user visits, and from which site he/she came. 
+Welcome to our Web site. Our privacy policy is outlined in a few simple words below, words that don't require you to have a law degree. 
 
-On certain pages of the site, including software evaluation downloads and product support requests, the user will be prompted to enter information into an online form. Although the site itself does not store this information (via cookie or otherwise), the information is eventually transferred to a customer management database not directly linked to our Web site systems. 
+Simply put, your privacy is our policy. And we will do everything we can to protect your trust. 
 
-On pages that include online ordering, billing information will be collected to process the order. InstallShield will ask visitors to re-enter this information every time they visit the site, as the company does not save it with personally identifiable information for security reasons. 
+We are a fifteen-year-old global software development tools company. We request your contact and profile information to market, support, update, and communicate with you about our products and services - in the most efficient manner possible. 
 
-**How the information is used**  
-Information generated from our Web site may be used as aggregate data or to identify individual users or segments of users. In general, InstallShield uses information generated from user activities on the site to: 
+We do not sell, rent, or give your information to any 3rd party. And we do not use your information for any purpose outside the scope of communicating with you in the most efficient manner. 
 
-  * Give users notification of changes or updates to company products, services, or support 
-  * Identify demographics of users 
-  * Identify overall site user-ship patterns 
+We request your contact, profile, and system information so that we can route your request to the appropriate team more efficiently. We track service and support communications so that we can provide you with the highest levels of service. We will protect and manage your information the same way we protect and manage our own company's property and information. 
 
-InstallShield will not release, sell, barter, or trade any individual or personal information you provide to us to any entities or individuals outside of InstallShield or authorized InstallShield partners and resellers, except in aggregate (anonymous) form. When information is provided in aggregate form, all identifiers are stripped out first. Certain affiliates, as a condition of transacting the business of InstallShield, will be provided with user information if necessary. 
+We also email new product information, tips and tricks, training class schedules, a monthly newsletter, and other related information to our current and future customers. Not all of the information we send to you may be relevant to you at a given moment. However, we go to great lengths to make sure that when we send information, it is appropriate for the vast majority of you, our customers. At any time, you may request removal of your email address and any other information from our database - we honor every request and update our database weekly. 
 
-Credit card information is never used by InstallShield for purposes other than processing an order nor shared with any outside party. 
+In the upcoming months, we plan to introduce an email Subscription Preferences System that will allow you to better set your preferences regarding the type and frequency of email communication that you want to receive from us. This is just one way that we respond to your feedback. Please continue to contact us with your comments, concerns, and ideas. 
 
-**Visitors' control of their information**  
-InstallShield or one of our InstallShield authorized partners or resellers may choose to send users information, such as product updates at any time. Should users wish not to be included in email subscriptions, they must contact the company directly by phone or by visiting www.installshield.com/news/unsubscribe.asp. 
+Regards,
 
-**Relevant other topics: cookies, security measures, and protection of credit card data**  
-Cookies are very small text files, usually just a few lines, so they will have minimal impact on hard drive space. Cookies are non-executable files; therefore, known viruses cannot be run from them. Cookies do allow us to ease the process of filling out forms on InstallShield.com 
+Viresh Bhatia   
+CEO & Founder   
+InstallShield Software Corp   
+My Direct Email is:  
 
-InstallShield values the security of the information you submit. The company has taken steps to ensure the security of the personally identifiable data and ordering information you submit by encrypting each sensitive transmission with secure socket layer (SSL) technology. 
-
-InstallShield encrypts, with 128-bit SSL, each transaction that involves credit card information. After processing every order, the system purges this sensitive financial information to maintain the customer's privacy. This information is neither used by InstallShield for purposes other than completing your order nor shared with any outside party. 
-
-This site contains links to outside resources and InstallShield is not responsible for the privacy practices of these external sites. 
-
-**Updates**  
-The InstallShield privacy policies are subject to change without notice. Changes to these policies will be reflected in this statement. 
-
-**Feedback**  
-InstallShield appreciates your feedback on this privacy statement and the policies it reflects. The following information can be used to contact the company with any questions or comments pertaining to these practices: 
-
-InstallShield Software Corporation  
-900 National Parkway, Suite 125  
-Schaumburg, IL 60173-5108  
-[privacy@installshield.com](mailto:privacy@installshield.com)  
-(847) 240-9111 
