@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411235505id_/http%3A//www.nydailynews.com/scontent/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212181207id_/http%3A//nydailynews.com/scontent/private_policy) for the most accurate reproduction.*
 
-# NY Daily News - Private Policy
+# New York Daily News - Private Policy
 
 **GENERAL**
 
@@ -26,13 +26,11 @@ Our website sometimes includes surveys, contests, sweepstakes and promotions tha
 
 **THIRD PARTY ADVERTISING AND CONTENT:**
 
-Our website contains links to websites that are not operated by the Daily News. The Daily News makes no representations about the privacy practices of these third party sites. Be aware that during your visit to our site you may link to, or view as part of a frame that includes Daily News content, certain content that is actually created or hosted by a third party. Through our website, you may also be introduced to, or able to access, information, other websites, features, contests or sweepstakes offered by other parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information. 
+Our website contains links to websites that are not operated by the Daily News, and also receives content from third parties such as The Associated Press, Nando Media, UClick, The Sports Network, and CBSMarketwatch, among others. The Daily News makes no representations about the privacy practices of these third party sites. Be aware that during your visit to our site you may link to, or view as part of a frame that includes Daily News content, certain content that is actually created or hosted by a third party. Through our website, you may also be introduced to, or able to access, information, other websites, features, contests or sweepstakes offered by other parties. 
 
-Below are some of the third parties affiliated with the Daily News: 
+Users should check the applicable privacy policies of those third parties when providing personally identifiable information. 
 
-**Doubleclick:** The advertisements appearing on our website are delivered to you by a third party, Doubleclick. Doubleclick uses cookies, which may be used to gather information about you, to track user activity. The Daily News does not have access to or control these cookies. To find out more about [Doubleclick's privacy policy](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&) and Doubleclick's use of cookies or to learn how to "opt out" from cookies, visit [Doubleclick](http://www.doubleclick.net/) for additional information. 
-
-**Engage:** This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. Engage collects data through the use of cookies, which may include information about you. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+In addition, the advertisements appearing on our website are delivered to you by various third parties, including MaxOnline and RealMedia. These third parties may or may not use cookies, which may be used to gather information about you, or simply to track user activity. The Daily News does not have access to or control these cookies. Users should check the applicable privacy policies of these third parties when providing personally identifiable information. 
 
 **CHILDREN:**
 
@@ -44,14 +42,10 @@ The Daily News uses administrative, technical, personnel and physical measures t
 
 **OPTING OUT, CORRECTIONS, CANCELLATIONS & QUESTIONS:**
 
-Upon request, the Daily News will a) remove your personal information from our database; b) correct personal information that you state is erroneous; c) permit you to opt out of further email contact while still allowing you access to site. To request a correction or cancellation, or to ask a question regarding this policy, contact:
-
-[webmaster@web.nydailynews.com](mailto:webmaster@web.nydailynews.com)
-
-or
+Upon request, the Daily News will a) remove your personal information from our database; b) correct personal information that you state is erroneous; c) permit you to opt out of further email contact while still allowing you access to site. To request a correction or cancellation, or to ask a question regarding this policy, contact: [webmaster@web.nydailynews.com](mailto:webmaster@web.nydailynews.com) or write to:
 
 Webmaster  
 New York Daily News Online  
 New York Daily News  
 450 W. 33rd St.  
-New York, NY 10001.
+New York, NY 10001
