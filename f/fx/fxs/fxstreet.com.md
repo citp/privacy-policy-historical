@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxstreet.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622083813id_/http%3A//www.fxstreet.com/nou/userdisclaimerfx.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxstreet.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204203403id_/http%3A//fxstreet.com/nou/userdisclaimerfx.asp) for the most accurate reproduction.*
 
 # FXstreet DISCLAIMER & Privacy Policy
 
