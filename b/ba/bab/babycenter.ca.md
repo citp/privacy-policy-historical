@@ -1,93 +1,79 @@
-> *The following text is extracted and transformed from the babycenter.ca privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602204653id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.ca privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620172317id_/http%3A//www.babycenter.com/help/aboutus/privacy) for the most accurate reproduction.*
 
 # BabyCenter Privacy Policy
 
 |    
-**Privacy & security**
+**Privacy & Security**
 
- **•[Our pledge](https://web.archive.org/help/privacy#0)**  
- **•[Use of information](https://web.archive.org/help/privacy#1)**  
- **•[Parental consent for kids' information](https://web.archive.org/help/privacy#2)**  
- **•[E-mail this to a friend service](https://web.archive.org/help/privacy#3)**  
- **•[Cookies and IP addresses](https://web.archive.org/help/privacy#4)**  
- **•[Other sites](https://web.archive.org/help/privacy#5)**  
- **•[Online surveys and contests](https://web.archive.org/help/privacy#6)**  
- **•[General security](https://web.archive.org/help/privacy#7)**  
- **•[Sponsored educational areas](https://web.archive.org/help/privacy#8)**  
- **•[Sponsored promotional pages](https://web.archive.org/help/privacy#9)**  
- **•[Reviewing and changing your member profile](https://web.archive.org/help/privacy#10)**  
- **•[Changes](https://web.archive.org/help/privacy#11)**  
- **•[Limits on our abilities](https://web.archive.org/help/privacy#12)**  
- **•[Security for personal information](https://web.archive.org/help/privacy#13)**  
- **•[Your consent](https://web.archive.org/help/privacy#14)**  
- **•[Your questions and comments](https://web.archive.org/help/privacy#15)**
+**Welcome**  
+Welcome to **BabyCenter.com** and **ParentCenter.com** , **baby.com** , and **pregnancy.com** , web sites owned by BabyCenter, L.L.C. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site. 
 
-* * *
+**Your Consent**  
+By using this site, you agree to the terms of this Privacy Policy and the BabyCenter [Terms of Use](https://web.archive.org/help/aboutus/terms). Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
 
-**• Our pledge**  
-BabyCenter respects your privacy and pledges to earn and keep your trust. All personal information you give us is maintained in accordance with our privacy policy and will not be used in ways that are contrary to that policy. 
+**About Children**  
+This site is not intended for children under the age of 13. We will not knowingly collect personally identifiable information via this site from visitors in this age group. We do, however, collect information about children and babies from their parents. We ask that our users not provide information about a baby or child without first getting the parents' consent. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites 
 
-**• Use of information**  
-Information collected by BabyCenter about its users is used internally by authorized employees of BabyCenter and its affiliates for three main purposes: First, we collect information to figure out which areas, features, and products our users like the most and find most helpful, so we can continue to improve the site. Second, we collect information in order to personalize the site for our users (for example, it allows us to recommend products or features based on what you have liked in the past). Finally, we collect information to enable our users to participate in sweepstakes, contests, services, and other activities on our site. 
+**Information You Provide**  
+This site actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via e-mail, feedback forms, and/or chat rooms. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, e-mail address, phone number, and so on). 
 
-On occasion, BabyCenter may also share non-personal, summary information about our users with unrelated third parties (for example, we publicly disclose how many people have signed up for BabyCenter membership). However, BabyCenter will not share personally identifiable information about any particular user with unrelated third parties unless the user has specifically agreed to sharing it. 
+Some areas of this site may ask you to submit personally identifiable information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, order processing, or resume submission) or to participate in a particular activity (such as sweepstakes or other promotions). You will be informed what information is required and what information is optional. 
 
-BabyCenter also uses certain third-party advertising services (including, in particular, DoubleClick) to display advertising for our advertisers. These third-party services may place a cookie on your computer for the purposes of ad tracking and presentation. (See "Cookies and IP Addresses," below, if you're not sure what a cookie is.) BabyCenter does not share personally identifiable information about users with DoubleClick or any other advertising service. If you'd like to know more about the information-gathering practices and "opt-out" procedures of DoubleClick, [click here](http://www.doubleclick.net/privacy_policy/). 
+**Passive Information Collection**  
+As you navigate through this site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your Internet browser automatically transmits to this site some of this anonymous information, such as the URL of the Web site you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This site may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site might not work without cookies. 
 
-**• Parental consent for kids' information**  
-BabyCenter is designed for adults. Therefore, BabyCenter generally doesn't collect personal information about babies and children other than from their parents, and we won't collect personal information about babies or children without first getting their parents' consent. After giving consent, parents will also have the option of reviewing, changing, or deleting a child's personal information, revoking the consent, or refusing to permit collection of further information. We ask that our users not provide information about a baby or child without first getting the parents' consent. Examples of personal information include full name, home address, e-mail address, and phone number. 
+This site may use and combine such passively collected anonymous information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve the site for your use. We may at times combine personally identifiable information with passively collected information in order to personalize offers and the site for our users (for example, combined information may allow us to recommend products or features to you based on what you have liked in the past). For more information about cookies and other passive tracking methods discussed above, please click [here](http://www.babycenter.com/misc/privacy-passive-information.jhtml). 
 
-**• E-mail this to a friend service**  
-You can choose to electronically forward a story from our site to a friend by entering the friend's e-mail address. We don't use your friend's e-mail address for any purpose other than to send your e-mail. We don't rent or sell the addresses used in our E-mail This to a Friend service. 
+**Use and Disclosure of Information**  
+Except as otherwise stated, we may use information collected via this site to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it), for our marketing and research purposes, and for any other purpose specified. We may use personally identifiable information to contact you in relation to a transaction (e.g., we may telephone you to update you on the delivery status of an order for goods). In addition, we may make full use of all information acquired through this site that is not in personally identifiable form. 
 
-**• Cookies and IP addresses**  
-We do not and cannot use cookies or IP address tracking to retrieve personal information from your computer. To find out what cookies and IP addresses are, keep reading. 
+If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We also may disclose personally identifiable information you provide via this site to third parties, but only: 
 
-_Cookies:_ At times we send your computer a "cookie," a small data file that's stored on your hard drive. We use cookies to give you better, more personalized service once you've bought something from us or become a member of BabyCenter. This information is for internal use only; we don't share it with others. You're always free to decline our cookies if your browser permits, but some parts of our site may not work properly for you if you do.   
-Note: You'll see advertising on our site that originates with outside advertisers and/or advertising agencies. In some cases, if you click on or view these ads, the advertiser will assign a cookie. BabyCenter does not control these cookies. 
+> (i) to carefully selected partners who have offers that may be of interest to you, provided you have requested such offers, in which case we will require such partners to agree to treat it in accordance with this Privacy Policy and use it for the same purposes. 
+> 
+> (ii) to contractors we use to support our business (such as fulfillment services, technical support, delivery services, and financial institutions), in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy and use it for the same purposes. One such contractor is DoubleClick, Inc., who manages many of the advertisements you see on the Web site. For more information on DoubleClick, including your choices on how DoubleClick uses certain non-personal information, click [here](http://www.babycenter.com/misc/privacy-doubleclick.jhtml); 
+> 
+> (iii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy and use it for the same purposes; or 
+> 
+> (iv) to respond to law enforcement requests or where required by applicable laws, court orders, or government regulations. 
 
-_IP address tracking:_ All computers and servers on the Internet use IP addresses to recognize and communicate with each other. Collecting IP addresses allows us to administer and analyze our site and report non-personal information (such as how many members we have) to sponsors and advertisers. When you call up a BabyCenter page on your computer, BabyCenter's servers enter the IP address of that computer into a log. To maintain our users' anonymity, BabyCenter does not associate IP addresses with records containing personal information. 
+The collection, use, and disclosure of information contemplated in this Privacy Policy may involve a transfer of the information to jurisdictions located outside your country of residence that may not have equivalent laws and rules regarding personally identifiable information. In these cases, you will be asked to consent to such transfers and disclosures in accordance with this Privacy Policy. 
 
-**• Other sites**  
-Please note that if you provide any information on your own or directly to parties who provide service to our network or to Internet sites other than BabyCenter (even if these sites display the BabyCenter name and logo in addition to their own), different rules may apply to their use or disclosure of any personal information you might give them. We encourage you to investigate and ask questions before disclosing information to third parties. 
+**Public Areas**  
+Our site also has public areas such as chat rooms and message boards. Please remember that any information you share in these areas becomes public, so you should be careful about what you disclose. If you post comments about BabyCenter products or services on our site, there's a chance we'll publish them for editorial purposes or in promotional advertising and/or marketing materials. 
 
-**• Online surveys and contests**  
-Sometimes we conduct user surveys to find out how we can improve our site for you. We may share non-personal information about our users with partners or other third parties. For example, we might disclose that a certain percentage of our users are female. But we will not sell personal information to or share any personal information with an unrelated third party without your consent. Sometimes we and our sponsors offer contests and sweepstakes in which we request certain personal information. For example, a sponsor might require your name and e-mail address to participate in a contest. Because the rules and terms of each promotion can vary, all information about the contest is posted during the event, and those disclosures shall override anything to the contrary in this policy. 
+**Access, Correction, and Deletion**  
+To keep personally identifiable information that you provide via this site accurate, current, and complete, please contact us as specified below and we will take appropriate steps to update or correct such information in our possession, or to delete your information from our contact list. 
 
-**• General security**  
-Your credit card, your personal information, and your password are safe. We use the latest encryption technologies, rigorous password protections, and limits on the number of people who have access to your information, all to guard against unauthorized access to your data. 
+**Security**  
+This site takes reasonable steps to protect personally identifiable information as you transmit it to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever completely secure or error-free. In particular, e-mail sent to or from this site may not be secure. 
 
-**• Sponsored educational areas**  
-BabyCenter publishes "sponsored content" pages, which are paid for by advertisers. These provide high-quality, educational information that we believe will be of interest to you. We clearly identify these pages so you'll know which area of the site you're visiting. Sponsored content pages are written, edited, and fact-checked by the BabyCenter staff before being sent to the sponsor for review, and are held to the same high standards as BabyCenter content that is not sponsored. We never publish information we believe to be erroneous or misleading. And we accept sponsorships only from trusted, reputable companies, such as Johnson & Johnson and Procter & Gamble. 
+**Links to Other Web Sites**  
+This site may contain links or references to other Web sites to which this Privacy Policy does not apply. We encourage you to read the Privacy Policy of every Web site you visit. 
 
-**• Sponsored promotional pages**  
-BabyCenter also publishes promotional pages sponsored by advertisers who offer product and promotional information that might be of interest to you, including contests, free samples, discounts, etc. We clearly identify these pages. Sometimes the advertiser or BabyCenter will request personal information from users. Because the rules and terms of each promotion can vary, all information is posted during the event. Different rules may apply to these sponsors' use or disclosure of any personal information you might give them. We encourage you to investigate and ask questions before disclosing information to third parties. 
+**How to Contact Us**  
+To keep your personally identifiable information accurate, current, and complete, please visit our member center at [http://www.babycenter.com/members](http://www.babycenter.com/members/), or contact us as follows: 
 
-**• Reviewing and changing your member profile**  
-As a member of BabyCenter, you can review and change the information in your Member Profile at any time. To do that, [click here](http://www.babycenter.com/members/profile). 
+> **BabyCenter, L.L.C.  
+>  Attention: Customer Service  
+>  163 Freelon St.  
+>  San Francisco, CA 94107  
+>  [http://www.babycenter.com/contactus](http://www.babycenter.com/contactus/?form=membership)  
+>  1-866-241-2229  
+>  **
 
-**• Changes**  
-BabyCenter may modify this privacy policy at any time, and such modifications shall be effective as soon as the modified policy is posted. Accordingly, you agree to review the policy periodically, and your continued access or use of this site shall be deemed your acceptance of the modified agreement. 
+If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, please contact us as follows: 
 
-**• Limits on our abilities**  
-Although your privacy is very important to us, in the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personal information will not be disclosed to third parties. For example, under certain circumstances the government or unrelated third parties might force us to disclose information to them, or third parties might unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities and law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.   
+> **BabyCenter, L.L.C.  
+>  Attention: Chief Privacy Officer  
+>  163 Freelon St.  
+>  San Francisco, CA 94107  
+>  privacy@babycenter.com  
+>  **
 
-
-**• Security for personal information**  
-BabyCenter won't intentionally collect any personally identifiable information about you except when you specifically provide us with it. For example, if you become a member of BabyCenter to take advantage of certain features, such as the My Baby This Week developmental newsletter, we ask for your e-mail address. When you sign up for BabyCenter membership, you can also sign up to receive promotional offers and information from BabyCenter and other qualified merchants. These qualified merchants are prescreened organizations or companies whose products or services we believe are of interest to parents and parents-to-be. But if you don't want to receive these offers, simply uncheck the Additional Offers box as you sign up. If you sign up to receive the offers but later decide you don't want them, just [click here](http://www.babycenter.com/members/profile) to go to your Member Profile page, where you can unsubscribe by unchecking the Additional Offers box. 
-
-We won't sell or disclose your personally identifiable information to unrelated third parties without your consent. However, on particular pages where we ask for your personal information, we may explicitly tell you that the data we're collecting on that page might be shared with third parties, such as our sponsors or parties providing services to our users. In such cases, those disclosures shall override anything to the contrary in this policy. For example, before you submit answers to questions we ask in an advertiser-sponsored promotion or service, we'll tell you that your answers might be shared with that advertiser. In all of these cases, we'll collect personally identifiable information only if you voluntarily submit it to us or our sponsors. 
-
-Our site also has public areas such as chat rooms and message boards. Please remember that any information you share in these areas becomes public, so you should be careful about what you disclose. If you post comments about BabyCenter products or services on our site, there's a chance we'll publish them for editorial purposes or in promotional advertising and/or marketing materials (especially if you say nice things about us). See our [Terms of Use](http://www.babycenter.com/topic/copyrights.html). 
-
-**• Your consent**  
-By using our Web site, you consent to our Terms of Use policy. To review that policy, [click here](http://www.babycenter.com/topic/copyrights.html). 
-
-**• Your questions and comments**  
-Feel free to call us toll-free at (888) 397-5544, [e-mail us](mailto:feedback@babycenter.com), or write to 163 Freelon Street, San Francisco, CA 94107 with comments or questions. See [About BabyCenter](http://www.babycenter.com/topic/company.html) to find out more about our company and our policies. 
+**Changes to This Privacy Policy**  
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on **April 20, 2004**. 
 
 [](https://web.archive.org/help)
 
                                                                                                                                        
-
-|  | 
