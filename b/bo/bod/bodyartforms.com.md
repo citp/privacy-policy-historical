@@ -1,34 +1,52 @@
-> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207064959id_/http%3A//www.bodyartforms.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyartforms.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609222317id_/http%3A//bodyartforms.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# BodyArtForms :: Privacy Policy
+# Bodyartforms online privacy policy
+
+| 
+
+Bodyartforms online privacy policy
+
+> | Bodyartforms commitment to online security | back to top ^   
+---|---  
+Electronic procedures have been employed to safeguard the security and integrity of personal information. Billing information is encrypted whenever transmitted or received online. Personal information is accessible only by staff designated to handle online complaints or requests. All Bodyartforms agents and contractors with access to personal information obtained on the Bodyartforms web site is also bound to adhere to this policy. To protect the security of information supplied by customers for registration, customers are provided user names and passwords to access their information.  
+  
+Personal information that Bodyartforms may collect online | back to top ^   
+---|---  
+  
+Bodyartforms collects the following types of personal information: names, postal and e-mail addresses, and billing information. 
+
+Bodyartforms does not collect or maintain information from those actually known to be under the age of 13, and no part of our site is structured to attract anyone under the age of 13.  
+  
+  
+**How Bodyartforms uses personal information collected online** | back to top ^   
+---|---  
+Unless you consent, we will not use your personal information for any purpose other than that for which it is submitted. We use personal information to reply to inquiries, handle complaints, provide operational notices and in program record-keeping. At certain points where personal information is collected on our site, there may be a box where you may indicate you would like to be on a newsletter to receive information about Bodyartforms updates. At any time you can add or remove your name from a Bodyartforms newsletter by sending an email to [subscribe@bodyartforms.com](mailto:subscribe@bodyartforms.com) OR [unsubscribe@bodyartforms.com](mailto:unsubscribe@bodyartforms.com)  
+  
+**How your information may be shared** | back to top ^   
+---|---  
+  
+We NEVER sell or rent your personal information.  
+Bodyartforms may release personal information to appropriate companies under the following circumstances: 
+
+  * Where our records indicate a person may be engaged in fraudulent charges or other deceptive practices; 
+  * Where your communication suggests possible harm to others. 
 
   
-**Information Collection and Use**
+  
+**Help us keep your personal information accurate** | back to top ^   
+---|---  
+  
+If your personal information changes or you would like to review the personal information we may have on file, please e-mail us with the new information or your review request at [orders@bodyartforms.com](mailto:orders@bodyartforms.com?subject=Account%20update).  
+  
+  
+**Computer tracking and cookies** | back to top ^   
+---|---  
+  
+Our web site is not set up to track, collect or distribute personal information not entered by visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our sites. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information. 
 
-Bodyartforms owns all the information collected at this site about it's users. We do NOT disclose any of this information to any other third parties.
-
-**User Registration**
-
-The user registration is to help customers ease the process of return orders. This information is stored in a secure database and is not disclosed to anyone.
-
-**Ordering form**
-
-Order forms only ask users for pertinent shipping and billing information . ONLY shipping information is stored in our database. We do not store any credit card numbers or billing information.
-
-**Log Files**
-
-We use IP addresses to analyze trends, administer the site, track user’s movement, and gather broad demographic information for our use. IP addresses are not linked to personally identifiable information. 
-
-**Links**
-
-This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. This privacy statement applies solely to information collected by this web site. 
-
-**Surveys & Contests **
-
-From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Bodyartforms will automatically send the friend a one-time email inviting them to visit the site. We do not store this information for future use. 
-
-Please contact Amanda Farr at [amanda@bodyartforms.com](mailto:amanda@bodyartforms.com) if you have any questions or concerns about the Privacy Policy.
+A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. Bodyartforms uses non-identifying cookies to provide easier site navigation and access to forms. You can still use the Bodyartforms site if your browser is set to reject cookies. Our cookies do not generate personal data, do not read personal data from your machine and are _never_ tied to anything that could be used to identify you.   
+  
+  
+**Problems or complaints with Bodyartforms privacy policy** | back to top ^   
+---|---  
+If you have a complaint about Bodyartforms compliance with this privacy policy, you may contact us at [orders@bodyartforms.com](mailto:orders@bodyartforms.com?subject=Privacy%20policy%20complaint).
