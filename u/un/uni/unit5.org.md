@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207231350id_/http%3A//www.unit5.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204193624id_/http%3A//www.unit5.org/privacy.html) for the most accurate reproduction.*
 
 # Unit 5 Online. McLean County Unit 5, Normal, Illinois.
 
@@ -73,7 +73,7 @@ Aside from any information you may actively disclose to us, there is other, less
 
 **Aggregate Information.** Finally, our system automatically gathers information about the areas visitors to our site utilize and view. We use this navigational information in the aggregate to understand how our visitors as a group use the site(s) so that we can make our sites better. We do not share any of this information outside of the district if it in anyway contains information of a private or personal nature, and on average the information gathered is anonymous in nature.
 
-**Cookies.** Cookies are pieces of information that our Web Site transfers to your computer's hard drive in order to make your experience on our Site more efficient. While other sites may use them to gather information that may be considered private, the few cookies in use by Unit 5 do not gather information of a private nature. Cookies used only serve to automate certain functions like Polls and Message Bards, and are limited to storing information for a set period of time after which they are discarded. Cookies built and uploaded to your computer by Unit 5 do not contain code that compromise your privacy, and they are not retrieved and read by Unit 5 except when needed to verify use of services.
+**Cookies.** Cookies are pieces of information that our Web Site transfers to your computer's hard drive in order to make your experience on our Site more efficient. While other sites may use them to gather information that may be considered private, the few cookies in use by Unit 5 do not gather information of a private nature. Cookies used only serve to automate certain functions like Polls and Message Boards, and are limited to storing information for a set period of time after which they are discarded. Cookies built and uploaded to your computer by Unit 5 do not contain code that compromise your privacy, and they are not retrieved and read by Unit 5 except when needed to verify use of services.
 
 **IP Addresses.** An IP address is a number that is automatically assigned to your computer whenever you begin service with an Internet Service Provider. McLean County Unit 5 collects IP addresses for the purposes of system administration and to audit the use of our Site. Each time you connect to our Site and each time you request one of our pages, our server logs your IP address. Although we log your session with us, we will not normally link your IP address to anything that can enable us to identify you. However, we can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our rules or terms of service or to protect our service, Site, users or others.
 
@@ -147,7 +147,7 @@ Document Revised 7/11/2001.  Version 1.01
 
 This document is in Adobe PDF format and requires that you have Adobe Acrobat 5 installed on your computer (it's a free download).  Just click on the View PDF! button to see the document you are interested in. 
 
-[](https://web.archive.org/web/20041207231350id_/http%3A//www.unit5.org/pdf/privacypolicy.pdf)
+[](https://web.archive.org/web/20050204193624id_/http%3A//www.unit5.org/pdf/privacypolicy.pdf)
 
 * * *
 
