@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lubbockonline.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603171422id_/http%3A//lubbockonline.com/housekeeping/about_us.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lubbockonline.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207050511id_/http%3A//lubbockonline.com/housekeeping/about_us.shtml) for the most accurate reproduction.*
 
 # LubbockOnline.com
 
@@ -53,7 +53,7 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 **VII. Use of materials**  
 The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact the webmaster: [webmaster@lubbockonline.com](mailto:webmaster@lubbockonline.com).
 
-**
+ **
 
   
 The LubbockOnline Network Privacy Statement 
@@ -91,7 +91,7 @@ Director, Online Services
 The Lubbock Avalanche-Journal  
 710 Ave. J  
 Lubbock, Texas 79401  
-[bbarth@lubbockonline.com](mailto:robert@lubbockonline.com)_
+[bob.barth@lubbockonline.com](mailto:bob.barth@lubbockonline.com)_
 
 * * *
 
