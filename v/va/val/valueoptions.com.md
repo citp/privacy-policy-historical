@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601114925id_/http%3A//www.valueoptions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valueoptions.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207034558id_/http%3A//www.valueoptions.com/privacy.htm) for the most accurate reproduction.*
 
 # ValueOptions.com Privacy Statement
 
@@ -9,7 +9,7 @@ ValueOptions.com Privacy Statement
 
 **
 
-| Link to [**ValueOptions Privacy Policy**](https://web.archive.org/web/20020601114925id_/http%3A//www.valueoptions.com/news/releases&news/privacy_policy.htm) |
+| Link to [**ValueOptions Privacy Policy**](https://web.archive.org/web/20021207034558id_/http%3A//www.valueoptions.com/news/releases&news/privacy_policy.htm) |
 
 This Web site offered by ValueOptions, Inc. (the "ValueOptions site") is designed to help you learn more about getting help with life issues that are sensitive, emotional and often private. We respect your personal privacy and provide this informational statement so that you may better understand how we may collect and use aggregate and personal information about you. This Privacy Statement describes ValueOptions privacy and security practices for this Web site.
 
@@ -107,6 +107,6 @@ Falls Church, VA 22042
 
 Revised: December 28, 2000 
 
-| Link to [**ValueOptions Privacy Policy**](https://web.archive.org/web/20020601114925id_/http%3A//www.valueoptions.com/news/releases&news/privacy_policy.htm) |
+| Link to [**ValueOptions Privacy Policy**](https://web.archive.org/web/20021207034558id_/http%3A//www.valueoptions.com/news/releases&news/privacy_policy.htm) |
 
 Privacy Statement 
