@@ -1,121 +1,165 @@
-> *The following text is extracted and transformed from the carpoint.com.au privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013032246id_/http%3A//ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpoint.com.au privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209094147id_/http%3A//ninemsn.com.au/support/privacy.asp) for the most accurate reproduction.*
 
 # ninemsn support
 
 Privacy Policy  
 ---  
- **Introduction**  
-ninemsn Pty Limited ("ninemsn") is a joint venture between Microsoft Corporation and ecorp Limited. As the operator of Australia's leading online network, ninemsn delivers content drawn from the Nine Network television programs and ACP magazines, as well as providing access to leading global Microsoft applications such as Hotmail, Messenger and MSN Search. 
+[](https://web.archive.org/support/privacy.asp) Last updated: 28 July, 2004
 
-This statement sets out ninemsn's policies relating to the collection and use of your personal information. It applies to your conduct on the ninemsn network of websites (the "Network"). These policies are in addition to ninemsn's general [Terms of Use](https://web.archive.org/support/terms_of_use.asp) governing the Network and should be read in conjunction with such Terms of Use. 
+**Introduction**   
+ninemsn Pty Limited ("ninemsn") is a joint venture between Microsoft Corporation and Publishing and Broadcasting Limited. As the operator of Australia's leading online network, ninemsn delivers content drawn from the Nine Network television programs and ACP magazines, as well as providing access to leading global MSN applications such as Hotmail, Messenger and Search. Any information that you provide under MSN services provided through our site may be collected and used both by MSN, governed by the [MSN Privacy Statement](http://privacy.msn.com/), and by ninemsn, governed by this privacy policy. 
 
-Please note that separate privacy policies apply to the use of co-branded sites that are available through the Network but are not operated by ninemsn directly ("third party Network sites"). Before disclosing your personal information to any third party Network sites you should read the relevant policy or terms of use. In addition, any information that you provide under services provided by Microsoft through our site are governed by specific Microsoft privacy policies. Those policies can be found on specific MSN sites including: [Hotmail](http://www.hotmail.msn.com/cgi-bin/dasp/hminfo_shell.asp?_lang=&beta=&in=yes&content=pstate), [Passport](http://passport.com/privacypolicy.asp) and [LinkExchange](http://www.linkexchange.com/privacy.html). 
+This statement sets out ninemsn's policies relating to the collection and use of your personal information. It applies to your conduct on the ninemsn network of websites (the "Network"). These policies are in addition to ninemsn's general Terms of Use governing the Network and should be read in conjunction with such [Terms of Use](https://web.archive.org/support/terms_of_use.asp). 
+
+Please note that separate privacy policies apply to the use of co-branded sites that are available through the Network but are not operated by ninemsn or MSN directly ("Co-Branded Sites"). Before disclosing your personal information to any Co-branded Sites you should read the relevant policy or terms of use. 
 
 **Contents**
 
-  1. Your personal information is important to us
-  2. ninemsn Membership
-  3. Collecting information about you
-  4. Preserving your privacy
-  5. Our use of cookies
-  6. Using and disclosing your personal information
-  7. "SPAM" (promotional material)
-  8. Storage and security of your personal information
-  9. You can access the information we keep about you
-  10. ninemsn and links to other websites
-  11. What to do if you have a problem or question
-  12. Future changes
-  13. Specific conditions: ninemsn sites
-  14. Further information on privacy
+  * Your personal information is important to us
+  * ninemsn Membership
+  * How we collect information about you
+  * How we preserve your privacy
+  * Our use of cookies
+  * How we use and disclose your information
+  * Communicating with ninemsn members: service messages and promotional messages we send to you
+  * How we store your information and keep it secure
+  * How you can access your information
+  * What happens on Co-branded Sites and ninemsn links to other websites
+  * What to do if you have a problem or question
+  * Changes to the Privacy Policy
+  * Further information on privacy
 
   
-.......................................................................................................................................1\. Your personal information is important to us  
-ninemsn recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. Unless you give us explicit consent to act otherwise, the following policy will govern how ninemsn handles your personal information and safeguards your privacy. ninemsn is committed to protecting your personal information and giving you choice in who can use your personal information and how it can be used. We believe that our privacy policy not only complies with relevant laws but represents industry best practice.  
-.......................................................................................................................................2\. ninemsn Membership  
-ninemsn has implemented a membership system, designed to offer users a more rewarding and personalised customer experience ("Membership"). To obtain the full benefits of Membership, users are required to register with ninemsn and login as members each time they visit the Network. However, even if you don't you sign up for Membership or log onto the Network as a member, you are still able to access many of the Network sites and much of the ninemsn content. You can learn more about enhancing your online experience through Membership by clicking [here](http://ninemsn.com.au/membership/).  
-.......................................................................................................................................3\. Collecting personal information about you  
-There are two main ways we collect information about you: 
+.......................................................................................................................................Your personal information is important to us  
+We recognise that your privacy is very important and that you have a right to control personal information. We know that providing personal information is an act of trust and we take that seriously. The following sections set out how we handle and protect your personal information and safeguard your privacy. 
 
-**If you do not log in as a ninemsn member**   
-Whenever you visit our site, our servers automatically record information about your usage of the Network such as the time of the visit, its duration and the pages which you visit. This is intended to help us to understand what parts of our Network our users enjoy the most, and to help us to ensure that any advertising is most directly relevant to your interests. The information we collect about you remains anonymous, and we do not link it to any other personal information. Therefore if you have not identified yourself on the site, such as by registering for Membership or logging on as a member, we will not link a record of your usage of our Network to you personally. 
+Return to top  
+  
+.......................................................................................................................................ninemsn Membership  
+ninemsn has implemented a membership system which offers a more rewarding and personalised Network experience ("Membership"). To become a member and obtain the full benefits of Membership, you register your details with us and log in as a member each time you visit the Network. (Membership is not necessary to access many of the Network websites.) The benefits of Membership include: your own personalised home page on the Network; e-mail newsletters; interactive tools and services and access to competitions. Also, to keep you up to date with what’s happening on the Network, we'll send you member only offers from our selected partners and regular updates of our products and services. 
 
-If you do not want us to retain any information at all, even in an anonymous form, you can use the Preferences on your browser program to remove all cookies and set the browser not to accept cookies in the future. For more information on disabling cookies, [click here](http://www.microsoft.com/info/cookies.htm)
+We use .NET Passport as an authentication system for Membership. To become a ninemsn member, you must obtain a .NET Passport first. At sign-up, you will be prompted for information such as your e-mail address, password, secret question, country, state and postcode. Because MSN services are an integrated part of ninemsn, when you sign-in with your .NET Passport to ninemsn, you will automatically be signed-in to MSN, and vice versa. If you would like more information on how .NET Passport works, or how your information is managed, the .NET Passport Privacy Statement is [located here](http://www.passport.net/Consumer/PrivacyPolicy.asp). 
+
+Return to top  
+  
+.......................................................................................................................................How we collect information about you  
+There are three main ways we collect information about you: 
+
+**If you are not or do not log in as a ninemsn member**   
+Whenever you visit the Network, our servers automatically record information about your usage of the Network, such as the time of the visit, its duration and the pages you visit. This is to help us understand what parts of our Network our users enjoy the most and to help us ensure that advertisements on the Network are most directly relevant to your interests. If you have not identified yourself on the Network, such as by registering for Membership or logging in as a member, the information we collect about you remains anonymous. 
 
 **If you log in as a ninemsn member**   
-Once you have become a ninemsn member, we collect personal information about you in order to provide you with the full benefits of Membership. When you first register for Membership, we collect information from you directly and also from time to time thereafter if you provide us additional information. 
+Once you have become a ninemsn member, we collect personal information about you in order to provide you with the full benefits of Membership. When you first register for Membership, we collect information from you such as your e-mail, name and suburb, and will continue to add to your member profile as you interact more on the Network, for example, if you enter a competition or subscribe to our newsletters. 
 
-Once you have logged on as a member, we keep a record of how you use the Network. This helps us to build a profile of what interests you, so that we can personalise your experience of the Network and publish you information which is directly relevant to your interests. 
+**If you register with one of our paid services**   
+When you register to receive our paid services, for example, ninemsn Music, we or our carefully selected providers collect certain information, such as your name, e-mail address and credit card details, so that we can process your orders, authenticate returning users or help users who experience problems. 
 
-Any further collection of your personal information than that explained above will only occur with consent from you. ninemsn only collects information from your use of our Network. We do not collect information about you from other organizations or from websites outside the Network that you may visit.   
+**If you subscribe to Hoyts**   
+If you become a Hoyts Movie Club member, you will be asked to first join ninemsn Membership. At the registration point, you will be prompted for both required and optional information. ninemsn will share personal information such as your name, address, e-mail and phone number with Hoyts. From time to time you may be prompted to provide further information, for example, if you enter a Hoyts competition. This further information will also be shared with Hoyts. You can view the Hoyts privacy policy [here](http://hoyts.ninemsn.com.au/help/privacy.asp). 
+
+**If you enter into a competition**   
+When you enter into a competition on the Network, you may be prompted to sign in to Membership. This will streamline the entry process, as many of the competition entry fields will be pre-populated with information we already hold about you. You may be required to provide further information to satisfy the entry conditions. If the competition is being sponsored by an advertiser, you may be prompted to opt-in to receive further promotional material from that third party. If you consent to this, then at the end of the competition, we will provide the information on your entry form to that third party. Use of your personal information will be in accordance with this Privacy Policy as well as that of the third party. The URL or contact details for third party privacy policies will appear in the competition terms and conditions. 
+
+Return to top  
   
-.......................................................................................................................................4\. Preserving your privacy  
-Surveys show that most internet users are concerned about their privacy, want to keep control of their personal information, and do not trust many of the web sites which they visit. In fact, research shows around a third of internet users give false information online rather than saying who they really are. 
+.......................................................................................................................................How we preserve your privacy  
+We understand that even with our Privacy Policy, some people will not feel comfortable disclosing personal information in order to become a ninemsn member. If you don't feel comfortable disclosing your real identity but still want to take advantage of ninemsn Membership, you can register for Membership using a pseudonym (or "nym") - a different name. This way, you choose your own nym, which might be "Joe Bloggs" or "Jane Doe", and that's what we will call you. We won't know who you really are, but we will still be able to find out what you like most on our Network and therefore give you the most enjoyable and customised experience of the Network possible. 
 
-ninemsn understands that even with our privacy policy, some people still will not feel comfortable disclosing their personal information in order to become a ninemsn member. So if you don't feel comfortable with disclosing your real identity, but you still want to take advantage of ninemsn Membership, then you can register for Membership using a pseudonym (or "nym") - a different name. This way, you choose your own nym, which might be "Mickey Mouse" or "Blinky Bill" and that's what we will call you. We won't know who you really are, but we will still be able to find out what you like most on our Network and therefore give you the most enjoyable and customised experience of the Network possible. This also helps us to match the advertising on our site to the people most likely to be interested in those ads (which help to pay for the cost of operating the Network). However, the advertisers on the Network are never given information that identifies you as an individual (such as your name or your email address), unless you have given us your express consent to disclose such information.   
+Return to top  
   
-.......................................................................................................................................5\. Our use of cookies and applets  
-Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your browser to refuse cookies (for more information on disabling cookies, [click here](http://www.microsoft.com/info/cookies.htm). In some instances this may mean you will not be able to take full advantage of parts of the Network. For instance, you may not be able to login to Hotmail, or access your Personal Tab page (if you are a ninemsn Member), your Account Master service or your ninemsn Investor portfolio details. 
+.......................................................................................................................................Our use of cookies  
+Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most web browsers are set to accept cookies. However, if you do not wish to receive any cookies, you may set your browser to refuse them (for more information on disabling cookies, [click here](http://www.microsoft.com/info/cookies.htm)). In some instances this may mean you will not be able to take full advantage of parts of the Network. 
 
-The use of cookies can enhance your enjoyment of what is offered by ninemsn, because they can help personalise your experience of our website. They can make it easier for you to shop online and can ensure that information provided to you is most relevant to your interests. Cookies can provide us with aggregated information on how people use our websites, and which advertisements are effective, which helps us to keep improving our Network. We also use cookies to operate the Membership system, as they help us to identify visitors to the site who have previously registered. 
+The use of cookies can enhance your enjoyment of what we offer, because they help us personalise your experience of our Network by providing information which is most relevant to your interests. Cookies provide us with aggregated information on how users interact on our Network, track which advertisements are effective and help us improve your Network experience. We also use cookies to operate the Membership system, as they help us identify visitors to the Network who have previously registered. Cookies do not personally identify you, but your browser. 
 
-Cookies in and of themselves do not personally identify users, although they do identify a user's browser. The cookies simply contain a unique identifier which help us to know what our customers find interesting and useful on our website, almost like a continuing questionnaire. 
+We use the independent company Nielsen//NetRatings to measure and analyse Internet usage across the Network. The Nielsen//NetRatings SiteCensus tracking code collects the following core information on usage of the ninemsn Network: 
 
-ninemsn uses Engage Technologies to manage advertising on the Network and provide aggregate information on the use of our website. Engage Technologies uses cookies to build anonymous profiles which can be used by websites to tailor their content, promotions and advertising and perform anonymous market research. We do not allow Engage Technologies to collect any personally identifiable information, nor is the information ever merged with personal information such as your name, address or email address, or any information that is considered sensitive or would compromise your privacy. We do not believe that the Engage cookies pose any threat to your privacy, however at any time you can still opt out of having any information on your use of our site collected. For more information on Engage, including how you can opt out of anonymous profiling, go to [www.engage.com](http://www.engage.com/). To opt out, go to <http://www.engage.com/privacy/site_privacy.cfm>. 
-
-Like many web site operators, ninemsn also uses the independent company Red Sheriff to measure and analyse the internet usage across the Network. RedSheriff is a leader in the internet industry in interactive measurement technologies and market research. ninemsn uses Red Sheriff's Red Measure tracking code to collect the following core information on the usage of the ninemsn network: 
-
-  * The number of page views (or page impressions) that occur on the Network; 
-  * The number of unique visitors to the Network; 
-  * How long these unique visitors (on average) spend on the Network when they do visit; and 
+  * The number of page views (or page impressions) ; 
+  * The number of unique visitors; 
+  * How long these unique visitors (on average) spend on the Network 
   * Common entry and exit points into the Network. 
 
-This aggregate, non-personal information is collated by Red Sheriff and provided to ninemsn to assist in analysing the usage of the Network. The Red Sheriff data is also accessible by media organizations and research companies, for the purpose of conducting industry comparisons with other internet portals. 
+This aggregate, non-personal information is collated by Nielsen//NetRatings and provided to us to assist in analysing usage of the Network. The Nielsen//NetRatings data is also accessible by media organisations and research companies for the purpose of conducting industry comparisons with other Internet portals. 
 
-All pages on the Network are coded with the Red Measure software. This is transparent to the user as the software makes use of an invisible image (via Javascript) or an invisible Java Applet*, at the bottom of the web page. This software stores a "cookie" in the browser, which contains a unique identifier. This enables Red Sheriff to track the number of unique visitors to the Network. This information is collected and aggregated by Red Sheriff, and in no way does this unique identifier identify a user personally. ninemsn does not and will not marry any data collected by Red Sheriff with any personal information collected on the Network. 
+All pages on the Network are coded with the SiteCensus software. This is transparent to the user, as the software makes use of an invisible image (via Javascript) or an invisible Java Applet*, at the bottom of the web page. This software stores a cookie in your browser, which contains a unique identifier. This enables Nielsen//NetRatings to track the number of unique visitors to the Network. In no way does this unique identifier identify a user personally. We do not and will not marry any data collected by Nielsen//NetRatings with any personal information collected on the Network. 
 
-Red Sheriff software code cannot be disabled entirely on the ninemsn pages, as the Red Measure code takes into account all web-browser configurations, including the disabling of Java and Javascript. However, if cookies are disabled in your browser, then Red Sheriff cannot track you as a unique visitor, and will consider you as a new visitor each time you browse a new page on the Network. To learn how to disable your cookies, please refer Section 5 above. To learn more about Red Sheriff's privacy policy, [click here](http://www.redsheriff.com/uk/6.0.0.htm). 
+Nielsen//NetRatings software code cannot be disabled entirely on the ninemsn pages, as the SiteCensus code takes into account all web-browser configurations, including the disabling of Java and Javascript. However, if cookies are disabled in your browser, then Nielsen//NetRatings cannot track you as a unique visitor and will consider you a new visitor each time you browse a new page on the Network. To learn how to disable your cookies, refer to the beginning of this section. 
 
-*The use of Javascript and/or Java Applet is dictated by the browser you use. Typically Internet Explorer users with Version 4 or above will use the Javascript method. Netscape users, or users whose browser does not support Javascript 1.1, will use the Java Applet method.   
+To learn more about Nielsen//NetRatings' privacy policy, [click here](http://www.redsheriff.com/us/content/privacy_1.html). 
+
+ninemsn uses Accipiter to manage advertising on the Network and provide aggregate information on the use of our Network. Accipiter uses cookies to build anonymous profiles which can be used by the various websites on the Network to tailor their content, promotions and advertising and perform anonymous market research. We do not allow Accipiter to collect any personally-identifiable information, nor is the information ever merged with personal information such as your name, address or e-mail address or any information that is considered sensitive or would compromise your privacy. You can view the Accipiter privacy statement [here](http://www.accipiter.com/about/privacy.php). 
+
+*The use of Javascript and/or Java Applet is dictated by the browser you use. Typically, Internet Explorer users with Version 4 or above will use the Javascript method. Netscape users or users whose browser does not support Javascript 1.1 will use the Java Applet method.
+
+Return to top  
   
-.......................................................................................................................................6\. Using and disclosing your personal information  
-ninemsn will not use or disclose any information about you without your consent, or access your communications on our websites, unless: 
+.......................................................................................................................................How we use and disclose your information  
+We will not disclose any information about you without your consent unless it is: 
 
-  * Required by law. 
-  * We believe it necessary to provide you with a service which you have requested. 
-  * To implement our terms of use. 
-  * To protect the rights or property of ninemsn, any ninemsn user, or any member of the public. 
+  * Required by law; 
+  * We believe it necessary in order to provide you with a service which you have requested; 
+  * We suspect that your use of the Network is in breach of the Terms of Use; 
+  * To protect the rights or property of ninemsn, any ninemsn user or any member of the public; or 
   * To lessen a serious threat to a person's health or safety. 
 
-
-
-ninemsn and its affiliates recognise the trust you place in us when you give us personal information. In order to operate the website or deliver a service you have requested we may sometimes share your personal information with an affiliate or with a service partner (such as Microsoft, which operates the Passport and Hotmail services). 
-
-ninemsn uses the Passport service as an authentication system for Membership. This means that if you wish to become a ninemsn member, you must obtain a Microsoft Passport. In order to complete your registration for Membership you must provide the following personal registration information to Microsoft in order to obtain a Passport: (a) your email address; (b), your password; (c) your secret question; (d) your country and (e) your state and (f) your postcode. Like ninemsn, Microsoft is committed to sound privacy practices. The Passport privacy policy is [located here](http://passport.com/Consumer/PrivacyPolicy.asp?lc=3081)
-
-We will not give any of your personal information to advertisers or any other organisation without your express consent.   
   
-.......................................................................................................................................7\. "Spam" (promotional email)  
-We will not send you "spam" (advertising information) without first asking you whether you wish to have promotional information sent to you. If you are receiving promotional information about ninemsn or its affiliates and do not wish to receive this information any longer, you may remove your name from our list either by visiting the website from which the communication was sent and following the instructions on how to withdraw your information from that site (where that facility is available), or emailing us on our [privacy feedback form](https://web.archive.org/support/feedbackform.asp?area=privacy) and asking to be removed from our mailing list. Please allow seven days for this request to be processed. 
+We will never share your personal information with a third party or allow a third party to promote its products and services directly to you without your explicit consent. 
 
-**Hotmail customers**  
-If you are receiving unsolicited emails from within your Hotmail account, or would like to enquire about how to protect yourself online, please view our support page on this topic: <http://ninemsn.com.au/support/hotmail/junkmail.asp>.   
+In order to operate the Network or deliver a service you have **explicitly** requested, we sometimes share your personal information with an affiliate or with a service partner (such as Microsoft, which operates .NET Passport, and MSN for Hotmail and Messenger applications). 
+
+Return to top  
   
-.......................................................................................................................................8\. Storage and security of your personal information  
-ninemsn will endeavour to take all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. Your information is stored on secure servers that are protected in controlled facilities. Where an MSN service is provided from overseas, such as Hotmail and Passport, your folder is kept in secure databases and is protected by Microsoft's security policies. 
+.......................................................................................................................................Communicating with ninemsn members: service messages and promotional messages we send to you  
+We send our members service e-mails which contain important information about updates, changes and developments on the Network, such as if we take down a service which we know you are currently using, or, if we have improved a service and want to communicate its new functionality to you. For you to continue to make the most of what’s available on the Network, it is essential that we send these communications. 
 
-In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by ninemsn. However, ninemsn will not be held responsible for events arising from unauthorised access to your personal information. 
+From time to time, we will send you member-only offers from our carefully selected partners, e-mail newsletters to which you have subscribed, and tell you about new competitions. 
 
-You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any password and accounts used on the ninemsn website. Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security.   
+You can manage the type of information you receive from us by: 
+
+  * updating your Membership profile; 
+  * unsubscribing from the message you receive; or 
+  * e-mailing us on our [privacy feedback form](https://web.archive.org/support/feedbackform.asp?area=privacy) (please allow seven days for this request to be processed). 
+
   
-.......................................................................................................................................9\. You can access the information we keep about you  
-As indicated above in section 3, if you do not log on as a ninemsn member, we do not collect information which identifies you personally. If, however, you log on as a ninemsn Member, you are able to access, change and update your Membership profile at any time. If you wish to know what other information we hold about you whilst you have been logged onto the Network, please send an email to us via our [privacy feedback form](https://web.archive.org/support/feedbackform.asp?area=privacy) setting out your Membership ID, your Hotmail address and the details of your request. We will endeavour to respond to your request within 30 days.  
-.......................................................................................................................................10\. ninemsn and links to other websites  
-ninemsn provides links to websites outside of the Network, as well as to third party Network sites. These linked sites are not under the control of ninemsn, and we cannot accept responsibility for the conduct of companies linked to our website. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using their websites.  
-.......................................................................................................................................11\. What to do if you have a problem or question  
-If ninemsn becomes aware of any ongoing concerns or problems with sites on our Network, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our privacy policy, or you have a problem or complaint, please contact us via our [privacy feedback form](https://web.archive.org/support/feedbackform.asp?area=privacy).   
-.......................................................................................................................................12\. Future changes  
-Our commitment to make ninemsn Australia's leading Web network means that we are constantly adding new sites and features to the Network. Because of this, from time to time, our policies will be reviewed and may be revised. ninemsn reserves the right to change its privacy policy at any time and notify you by posting an updated version of the policy on its website.  
-.......................................................................................................................................13\. Specific conditions: ninemsn sites  
-These principles apply generally to the ninemsn Network. As mentioned above, different policies apply for MSN sites and services. In addition, some ninemsn sites such as Monster Jobs are operated jointly with other reputable organisations. These sites may have special terms and conditions that differ from these and may affect the handling of your personal information. Please check these when using these sites. In a situation where these privacy principles and the specific terms and conditions of a ninemsn website differ, the specific terms will prevail.  
-.......................................................................................................................................14\. Further information on privacy  
-For more information about privacy issues in Australia and protecting your privacy, visit the [Australian Federal Privacy Commissioner's](https://web.archive.org/web/20021013032246id_/http%3A//ninemsn.com.au/support/www.privacy.gov.au) website.
+**Hotmail customers**   
+If you are receiving unsolicited e-mails from within your Hotmail account or would like to enquire about how to protect yourself online, view our support page on this topic by clicking [here](https://web.archive.org/support/spambuster.asp). 
+
+Return to top  
+  
+.......................................................................................................................................How we store your information and keep it secure  
+We will take all reasonable steps to keep secure any information we hold about you and to keep this information accurate and up to date. Your information is stored on secure servers that are protected in controlled facilities. 
+
+In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. However, we will not be held responsible for events arising from unauthorised access to your personal information. 
+
+You can also play an important role in keeping your personal information secure by maintaining the confidentiality of any password and accounts used on the ninemsn Network. Please notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security. 
+
+Return to top  
+  
+.......................................................................................................................................How you can access your information  
+If you are a ninemsn member, you can access, change and update your Membership profile at any time on the Network. If you wish to know what other information we have gathered about you while you have been logged in to the Network, you can request this information via our [privacy feedback form](https://web.archive.org/support/feedbackform.asp?area=privacy). We will endeavour to respond to your request within seven days. 
+
+Return to top  
+  
+.......................................................................................................................................What happens on Co-Branded sites and ninemsn links to other websites  
+We provide links to websites outside the Network. These linked sites are not under the control of ninemsn and we do not accept responsibility for the conduct of companies linked to our Network. Before disclosing your personal information on any other website, we advise you to read the terms and conditions and privacy policy of that website. 
+
+There are also a number of Co-Branded sites on the Network which may operate under their own terms and conditions and privacy policy. 
+
+Before disclosing your personal information to any Co-Branded sites, you should read the relevant policy or terms of use. In some cases, the specific terms on the Co-Branded site will override ninemsn’s own policies. 
+
+Return to top  
+  
+.......................................................................................................................................What to do if you have a problem or question  
+If you make us aware of any ongoing concerns or problems with our Network, we will take these issues seriously and work to address these concerns. You can contact us using the [privacy feedback form](https://web.archive.org/support/feedbackform.asp?area=privacy). 
+
+Return to top  
+  
+.......................................................................................................................................Changes to the Privacy Policy  
+Our commitment to make ninemsn Australia's leading website means that we are constantly adding new sites and features to the Network. We will continuously review our Privacy Policy to ensure that it protects your privacy while supporting your user experience on the Network. We encourage you to keep visiting our Privacy Policy to see if any updates have been made. 
+
+Return to top  
+  
+.......................................................................................................................................Further information on privacy  
+For more information about privacy issues in Australia, visit the [Australian Federal Privacy Commissioner's](http://www.privacy.gov.au/) website. 
+
+Return to top
