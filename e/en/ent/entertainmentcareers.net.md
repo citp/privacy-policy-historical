@@ -1,57 +1,235 @@
-> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409174956id_/http%3A//www.entertainmentcareers.net/sbjobs/privacyfly.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604044922id_/http%3A//www.entertainmentcareers.net/sbjobs/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement for Entertainment Employment Guide
+# Entertainment Jobs and Internships - Entertainment Careers.Net
 
-## Privacy Statement for _EntertainmentCareers.Net_
+## About Us
 
-EntertainmentCareers.Net has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: EntertainmentCareers.Net.
+This is a privacy policy for EntertainmentCareers.Net, LLC. Our homepage on the Web is located at [ http://www.entertainmentcareers.net](http://www.entertainmentcareers.net/). The full text of our privacy policy is available on the Web at [ http://www.entertainmentcareers.net/sbjobs/privacy.asp](http://www.entertainmentcareers.net/sbjobs/privacy.asp) Users may go to [ http://www.entertainmentcareers.net/sbjobs/privacy.asp](http://www.entertainmentcareers.net/sbjobs/privacy.asp) for information on how to opt-in or opt-out of use of their information. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm).
+We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
+    
+    
+    EntertainmentCareers.Net, LLC
+    10622 Kinnard Ave - A		
+    Los Angeles, CA 90024 
+    USA
+    
 
-This site, EntertainmentCareers.Net, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
+You may contact us by e-mail at [ info@entertainmentcareers.net](mailto:info@entertainmentcareers.net). You may call us at 310-441-9963. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+## Dispute Resolution and Privacy Seals
 
-Our site uses cookies to make sure you don't see the same ad repeatedly. We use cookies for other purposes. 
+We have the following privacy seals: 
 
-Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Demographic and profile data is also collected at our site. This information is shared with advertisers on an aggregate basis. ** MAKE SURE that you explain the other data that you mentioned you collect here. ** 
-
-This site contains links to other sites. **EntertainmentCareers.Net** is not responsible for the privacy practices or the content of such Web sites. 
-
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
-
-## Security
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-
-## Children's Guidelines
-
-Our site does
-
-  1. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent
-  2. NOT collect personally identifiable offline contact information without prior parental consent 
-  3. NOT distribute to third parties any personally identifiable information with out prior parental consent 
-  4. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent 
-  5. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
+  * **SquareTrade** : As the market leader in online dispute resolution and building trust, SquareTrade: 
 
 
 
-## Choice/Opt-Out
+## Additional Information
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
+This policy is valid for 1 week from the time that it is loaded by a client. 
 
-  1. You can visit the following URL: <http://www.entertainmentcareers.net/sbjobs>
+## Data Collection
+
+P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 4 data groups. The data practices of each group will be explained seperately. 
+
+* * *
+
+### Group "Access log information"
+
+We collect the following information: 
+
+  * HTTP protocol elements
 
 
 
-## Correct/Update
+At the user's option, we may also collect the following data: 
 
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. visit <http://www.entertainmentcareers.net/sbjobs>
+  * Click-stream data
 
 
 
-## Contacting the Web Site
+This data will be used for the following purposes:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact  EntertainmentCareers.Net  10622 Kinnard Ave - A  Los Angeles, CA 90024    310-475-8985   
+  * Completion and support of the current activity.
+  * Web site and system administration.
+  * Research and development.
+  * One-time tailoring.
+  * Anonymous user analysis.
+  * Anonymous user profiling and decision-making.
+  * User analysis.
+  * User profiling and decision-making.
+
+
+
+This data will be used by ourselves and our agents. 
+
+The following explanation is provided for why this data is collected:
+
+> Our Web server collects access logs containing this information.
+
+* * *
+
+### Group "Cookies"
+
+We collect the following information: 
+
+  * HTTP cookies
+
+
+
+This data will be used for the following purposes:
+
+  * Research and development.
+  * One-time tailoring.
+  * Anonymous user analysis.
+  * Anonymous user profiling and decision-making.
+  * User analysis.
+  * User profiling and decision-making.
+
+
+
+This data will be used by ourselves and our agents. 
+
+The following explanation is provided for why this data is collected:
+
+> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you. We also use cookies to allow our server to maintain information about the contents of your shopping cart.
+
+* * *
+
+### Group "Transaction info (required)"
+
+We collect the following information: 
+
+  * Physical contact information
+  * Online contact information
+  * Demographic data
+  * Purchase information
+
+
+
+This data will be used for the following purposes:
+
+  * Completion and support of the current activity.
+  * Research and development.
+  * One-time tailoring.
+  * Anonymous user analysis.
+  * Anonymous user profiling and decision-making.
+  * User analysis.
+  * User profiling and decision-making.
+  * Contacting visitors for marketing of services or products.
+  * Telemarketing.
+
+
+
+This data will be used by ourselves and our agents. 
+
+The following explanation is provided for why this data is collected:
+
+> Information we collect in order to process your purchase.
+
+* * *
+
+### Group "Transaction info (optional)"
+
+At the user's option, we will collect the following data: 
+
+  * Physical contact information
+  * Online contact information
+  * Demographic data
+  * Purchase information
+
+
+
+This data will be used for the following purposes:
+
+  * Contacting visitors for marketing of services or products.
+
+
+
+This data will be used by ourselves and our agents. In addition, the following types of entities will receive this information: 
+
+  * Delivery services.
+
+
+
+The following explanation is provided for why this data is collected:
+
+> Information we collect in order to process your purchase.
+
+* * *
+
+## Cookies
+
+Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+
+Our site makes use of cookies. Cookies are used for the following purposes: 
+
+  * User targeting 
+  * Pseudononymous analysis 
+  * Pseudonym-based decision-making 
+  * User analysis 
+  * Individual-based decision-making 
+  * Research and development 
+
+
+
+* * *
+
+## Policy Evaluation
+
+Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
+
+**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
+
+**Unsatisfactory policy** : this compact policy is considered _unsatisfactory_ according to the rules defined by Internet Explorer 6. The behavior of Internet Explorer 6 regarding cookies set under this compact policy is as follows: 
+
+| **First-party usage**|  **Third-party usage**  
+---|---|---  
+**Persistent Cookies** | 
+
+  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
+  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **downgraded** to a session cookie. 
+  * **Medium High:** No opt-out is provided, so the cookie will be **blocked**. 
+  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
+
+| 
+
+  * **Low:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **downgraded** to a session cookie. 
+  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **blocked**. 
+  * **Medium High:** Since opt-in is not required, the cookie will be **blocked**. 
+  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
+
+  
+**Session Cookies** | 
+
+  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
+  * **Medium:** Policy satisfactory at this level; cookies will be accepted. 
+  * **Medium High:** Policy satisfactory at this level; cookies will be accepted. 
+  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
+
+| 
+
+  * **Low:** Policy satisfactory at this level; cookies will be accepted. 
+  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **blocked**. 
+  * **Medium High:** Since opt-in is not required, the cookie will be **blocked**. 
+  * **High:** Since opt-in is not required, the cookie will be **blocked**. 
+
+  
+A policy which is considered unsatisfactory by Internet Explorer 6 contains certain categories of data which are used or shared in a particular manner. This policy is placed in the unsatisfactory category, because the following categories of data are associated with this policy's cookies: 
+
+  * Physical contact information is collected. 
+  * Online contact information is collected. 
+
+
+
+In addition, the data is used in the following manner, marking the policy as unsatisfactory: 
+
+  * The data is used for contacting the user. 
+  * The data is used for analysis, including knowledge of the visitor's identity. 
+  * The data is used for decision-making, including knowledge of the visitor's identity. 
+  * The data is used for telemarketing. 
+
+
+
+Note that allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory. 
