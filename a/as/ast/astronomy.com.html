@@ -1,130 +1,7 @@
-<!--The following is the downloaded HTML source of the astronomy.com privacy policy that was archived on 2002-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602144231id_/http%3A//www.astronomy.com/content/static/misc/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the astronomy.com privacy policy that was archived on 2002-08-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020813141206id_/http%3A//www.astronomy.com/content/static/misc/privacy.asp) for the most accurate reproduction.-->
 
-<html><head><script type="text/javascript" language="JavaScript">
-	<!--
-	_version=10;
-	//-->
-	</script>
-
-	<script type="text/javascript" language="JavaScript1.1">
-	<!--
-	_version=11;
-	//-->
-	</script>
-
-	<script type="text/javascript" language="JavaScript">
-	<!--
-
-		if (navigator.userAgent.indexOf('Mozilla/3') != -1){
-			_version=10;
-		}
-
-		// ##### KPC ADSERVER CODE #####
-
-		// Ad Server script for zone implmentation
-		// Mod 20020304 (drv)
-
-		// use the following to enable/disable serving ads on the site
-		var ADserverstatus = 1;
-
-		// initialize the zone/position array
-		arrayAdZones = new Array(4);
-
-		// ad code variables
-		var thispage = '';
-		var ADserver = 'http://ads.kalmbach.com/scripts/asy/';
-		// var thissite = 'www.astronomy.com/';
-		// var sitepage = thissite + thispage;
-		var RN = new String (Math.random());
-		var RNS = RN.substring (2, 11);
-		var wrdScript = 'script'
-
-		// ad insertion function
-		function DisplayAds (affiliate,zoneid,width,height,bannerid,clientid,wtext,name,zoneonly) {
-
-			// ADSERVER STATUS
-			// Check server status variable [0:not ready;1:ready]
-			if (ADserverstatus!=1) {return;}
-
-			// ZONEID TEST
-			// Check to see if there is a valid zoneid, otherwise don't execute the script.
-			// Note: Astronomy.com is restricted to zone-only 03/05/2002
-			if (isNaN(zoneid)==true) {return;}
-			if (zoneid==0) {return;}
-
-			// AFFILIATE TEST
-			if (isNaN(affiliate)==true) {affiliate=1;} // set it to default of 1
-
-			// AD POSITION
-			// Check for thispage variable and set pos_name variable
-			if (thispage.length>1) {
-				pos_name = thispage + '@' + name;
-			} else {
-				pos_name = 'default';
-			}
-
-			// DIMENSIONS
-			// Check for Banner Dimensions (width and height)
-			if (isNaN(width)==true) {
-				ADdimensions = '';
-			} else {
-				(isNaN(height))?ADdimensions='width:'+width:ADdimensions=width+'x'+height;
-			}
-
-			// ZONES
-			// Check for ZoneID
-			if (isNaN(zoneid)==true) {
-				ADzone = '';
-			} else {
-				ADzone = 'zone:'+zoneid;
-			}
-
-			// WHAT PARAM (for zone implementation)
-			if (isNaN(zoneid)==true) {
-				(ADdimensions.length>1)?ADwhat='&what='+ADdimensions:ADwhat='&what=';
-			} else {
-				ADwhat = ADwhat='&what='+ADzone;
-			}
-
-			// WITH TEXT
-			// Check for with text parameter
-			(wtext=1)?ADwtext='&withText=1':ADwtext='&withText=0';
-
-			// ADNAME
-			// Used to keep track of which adview belongs with which adclick when using js ver < 1.1
-			var ADname = pos_name;
-
-
-			// AD REQUEST TO ADSERVER
-			if (_version < 11) {
-				document.write ('<a href="' + ADserver + 'adclick.php?n=' + ADname + '" target="_top" ><img src="' + ADserver + 'adview.php?pos=' + pos_name + ADwtext + ADwhat + '&z=' + zoneonly + '&aid=' + affiliate + '&n=' + ADname + RNS + '&target=_top&cache-id=1' + RNS + '" border="0" width="' + width + '" height="' + height + '"></a>');
-			} else {
-				document.write ('<' + wrdScript + ' type="text/javascript" language="JavaScript1.1" src="' + ADserver + 'adjs.php?pos=' + pos_name + ADwtext + ADwhat + '&z=' + zoneonly + '&aid=' + affiliate + '&target=_top&cache-id=1' + RNS + '">');
-				document.write ('\<\!-- --\>');
-				document.write ('\<\/' + wrdScript + '\>');
-				document.write ('\<\!-- --\>');
-			}
-		}
-
-
-		// TEMPLATE
-		// function DisplayAdsTemplate() {DisplayAds(affiliate,zoneid,width,height,bannerid,clientid,wtext,name,zoneonly);}
-
-
-		// AD WRAPPER FUNCTIONS
-
-		// ASTRONOMY.COM
-		// Ad Positions: TP,SP,L1,L2
-		// Last Modified: 3/04/2002 (drv)
-
-		function DisplayAdsTP(zoneid) {DisplayAds(1,zoneid,468,60,'','',0,'tp',1);}
-		function DisplayAdsSP(zoneid) {DisplayAds(1,zoneid,234,60,'','',0,'sp',1);}
-		function DisplayAdsL1(zoneid) {DisplayAds(1,zoneid,120,120,'','',0,'l1',1);}
-		function DisplayAdsL2(zoneid) {DisplayAds(1,zoneid,120,90,'','',0,'l2',1);}
-
-	//-->
-	</script>
+<html><head><script type="text/javascript" src="/include/ext_ads_scripts.js" language="JavaScript1.1"></script>
 	
 
 
@@ -134,18 +11,13 @@
 <body bgcolor="#000000" marginheight="0" marginwidth="0" leftmargin="0" topmargin="0">
 <!-- Category: :0,0,0,0 -->
 
-<!-- Zone Array - Conversion script (temporary) -->
+<!-- Zone List -->
 <script type="text/javascript" language="JavaScript">
 <!--
 
+	// Ad Zones
 	strAdZoneList = "0,0,0,0";
-	tempAdArray = strAdZoneList.split(",");
-	if (tempAdArray.length == 4) {
-		arrayAdZones[0] = tempAdArray[0];
-		arrayAdZones[1] = tempAdArray[1];
-		arrayAdZones[2] = tempAdArray[2];
-		arrayAdZones[3] = tempAdArray[3];
-	}
+	SetAdZones(strAdZoneList);
 
 //-->
 </script>
@@ -178,7 +50,7 @@
 		<table width="100%" border="0" cellpadding="0" cellspacing="0" valign="top" height="65">
 		<tbody><tr>
 			<td valign="center" height="65" width="281">
-				<a href="http://astronomy.com/home.asp"><img src="/images/common/contentlogo.gif" width="281" height="65" border="0"></a><br>
+				<a href="http://www2.astronomy.com/home.asp"><img src="/images/common/contentlogo.gif" width="281" height="65" border="0"></a><br>
 			</td>
 			<td align="right" bgcolor="#FFFFCC" width="532">
 				
@@ -215,10 +87,11 @@ function StarChartWindow(id)
 {
 var today = new Date();
 var timezone = today.getTimezoneOffset()/60;
-var strURL = 'http://64.73.24.163/default.asp?tz=' + timezone + '&id=' + id ;
+var strURL = 'http://64.73.42.18/default.asp?tz=' + timezone + '&id=' + id ;
 var StarChartPopup = window.open(strURL, 'StarChartPopup', 'status=yes,menubar=yes,scrollbars=yes,width=643,height=675');
 }
 </script>
+
 
 <table border="0" cellpadding="0" cellspacing="0" valign="top">
 <tbody><tr>
@@ -338,51 +211,63 @@ function PullThree()
 </tbody></table>
 	</td>
 </tr>
+
 <tr>
-	<td align="right" valign="bottom" bgcolor="#000000">
-		<img src="/images/spacer.gif" width="60" height="1"><br>
-	</td>
-	<td valign="top" width="150" bgcolor="#006699">
-		<img src="/images/spacer.gif" width="1" height="3"><br>
-		<font face="arial, helvetica" size="2" color="white">
-		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/story/story_list.asp?idArticleType=2">News</a><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/story/story_list.asp?idArticleType=2&amp;idArticleClassification=1">Science</a><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/story/story_list.asp?idArticleType=2&amp;idArticleClassification=2">Hobby</a><br>
-		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/story/story_list.asp?idArticleType=1">Features</a><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/story/story_list.asp?idArticleType=1&amp;idArticleClassification=1">Science</a><br>
-		&nbsp;&nbsp;&nbsp;&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/story/story_list.asp?idArticleType=1&amp;idArticleClassification=2">Hobby</a><br>
-		<!-- &nbsp;<A class="nolines-white" href="http://shops.astronomy.com/default.asp?chrUserName=&ProfileGUID=">Shopping</A><br> -->
-		<br>
-		&nbsp;<a class="nolines-white" href="http://astronomy.com/photogallery/gallery_list.asp">Photo Gallery</a><br>
-		&nbsp;<a class="nolines-white" href="http://astronomy.com/content/static/magazine/default.asp">Astronomy Magazine</a><br>
-		<br>
-		
-			&nbsp;<a class="nolines-lightyellow" href="/signin.asp?Message=signin&amp;skychar=1&amp;Goto=/content/static/misc/privacy.asp">TheSky Online</a><br>
-		
-		<!--&nbsp;<a class="nolines-lightyellow" href="javascript: WeatherWindow()">Weather</a><br>
-		-->
-		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Content/static/beginners/default.asp">For Beginners</a><br>
-		<!-- &nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Content/static/parentsteachers/default.asp">Parents &amp; Teachers</a> <br>
-		<br>
-		-->
-		&nbsp;<a class="nolines-white" href="http://astronomy.com/Forums/">Discussion Forums</a><br>
-		&nbsp;<a class="nolines-white" href="http://astronomy.com/Quiz/">Astronomy Quiz</a><br>
-		<br>
-		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Clubs/">Organization Guide</a><br>
-		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Calendar/Default.asp">Calendar of Events</a><br>
-		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Profile/">Update Profile</a><br>
-		&nbsp;<a class="nolines-lightyellow" href="http://astronomy.com/Vendors/">Vendor Directory</a><br>
-		<br>
-		</font>
+<td align="right" valign="bottom" bgcolor="#000000">
+	<img src="/images/spacer.gif" width="60" height="1"><br>
+</td>
+<td valign="top" width="150" bgcolor="#006699">
+	<img src="/images/spacer.gif" width="1" height="3"><br>
+	<font face="arial, helvetica" size="2" color="white">
+
+	&nbsp;<a class="nolines-lightyellow" href="/signin.asp?Goto=/home.asp">Login</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="nolines-lightyellow" href="/profile/logout.asp">Logout</a><br>
+
+	&nbsp;<a class="nolines-lightyellow" href="/profile/Signup.asp?action=newuser">Register</a><br>
+	&nbsp;<a class="nolines-lightyellow" href="/Profile/">Update Profile</a><br>
+	<br>
+	&nbsp;<a class="nolines-lightyellow" href="/story/story_list.asp?idArticleType=2">News</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;<a class="nolines-lightyellow" href="/story/story_list.asp?idArticleType=2&amp;idArticleClassification=1">Science</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;<a class="nolines-lightyellow" href="/story/story_list.asp?idArticleType=2&amp;idArticleClassification=2">Hobby</a><br>
+	&nbsp;<a class="nolines-lightyellow" href="/story/story_list.asp?idArticleType=1">Feature Stories</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;<a class="nolines-lightyellow" href="/story/story_list.asp?idArticleType=1&amp;idArticleClassification=1">Science</a><br>
+	&nbsp;&nbsp;&nbsp;&nbsp;<a class="nolines-lightyellow" href="/story/story_list.asp?idArticleType=1&amp;idArticleClassification=2">Hobby</a><br>
+	<br>
+	&nbsp;<a class="nolines-white" href="/photogallery/gallery_list.asp">Photo Gallery</a><br>
+	&nbsp;<a class="nolines-white" href="/content/static/magazine/default.asp">Astronomy Magazine</a><br>
+	<br>
+	
+		&nbsp;<a class="nolines-lightyellow" href="/signin.asp?Message=signin&amp;skychart=1&amp;Goto=/content/static/misc/privacy.asp">TheSky Online</a><br>
+	
+	<!--&nbsp;<a class="nolines-lightyellow" href="javascript: WeatherWindow()">Weather</a><br>
+	-->
+	&nbsp;<a class="nolines-lightyellow" href="/Content/static/beginners/default.asp">For Beginners</a><br>
+	<br>
+	<!-- &nbsp;<a class="nolines-lightyellow" href="/Content/static/parentsteachers/default.asp">Parents &amp; Teachers</a> <br>
+	<br>
+	-->
+	&nbsp;<a class="nolines-white" href="/Forums/">Discussion Forums</a><br>
+	&nbsp;<a class="nolines-white" href="/Quiz/">Astronomy Quiz</a><br>
+	<br>
+	&nbsp;<a class="nolines-lightyellow" href="/Clubs/">Organization Guide</a><br>
+	&nbsp;<a class="nolines-lightyellow" href="/Calendar/Default.asp">Calendar of Events</a><br>
+
+	&nbsp;<a class="nolines-lightyellow" href="http://www2.astronomy.com/Vendors/">Vendor Directory</a><br>
+	<br>
+	&nbsp;<a class="nolines-lightyellow" href="/profile/Signup.asp?action=newuser"><img src="/images/restricted.gif" width="10" height="10" border="0"> = registered content</a><br>
+	<!--&nbsp;<a class="nolines-lightyellow" HREF="/profile/Signup.asp?action=newuser"><img SRC="/images/subscriber.gif" WIDTH="10" HEIGHT="10" border=0> = subscriber content</a><br>-->
+
+	<br>
+	</font>
 	</td>
 </tr>
 <tr>
 	<td valign="top" align="right" colspan="2" bgcolor="#000000">
-		<a href="http://astronomy.com/AstroForKids/default.asp"><img src="/images/common/kidsfull.gif" width="203" height="36" border="0"></a><br>
+		<a href="/astroforkids/default.asp"><img src="/images/common/kidsfull.gif" width="203" height="36" border="0"></a><br>
 	</td>
 </tr>
 <tr>
 	<td valign="top" align="right" colspan="2">
+
 		<!-- SEARCH -->
 <noscript>
 	<HR>
@@ -465,6 +350,7 @@ function SearchBubbleSubmit()
 </tbody></table>
 	</td>
 </tr>
+
 <tr>
 	<td valign="top" align="right" colspan="2">
 		<img src="/images/spacer.gif" width="1" height="10" border="0"><br>
@@ -482,8 +368,8 @@ function SearchBubbleSubmit()
 
 	</td>
 </tr>
-</tbody></table>
 
+</tbody></table>
 			</td>
 			<td width="584" valign="top" rowspan="2">
 				<table bgcolor="#FFFFCC" border="0" cellpadding="0" cellspacing="0" valign="top" width="584">
