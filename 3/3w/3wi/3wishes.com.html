@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 3wishes.com privacy policy that was archived on 2004-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040406120243id_/http%3A//www.3wishes.com/privacy.asp%23Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 3wishes.com privacy policy that was archived on 2004-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041210135738id_/http%3A//3wishes.com/privacy.asp%23Privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>3 Wishes Lingerie - Privacy Statement &amp; Security Policy</title>
@@ -11,7 +11,7 @@
 
 var millisecs = "900000"
 
-setTimeout("window.location.href='http://www.3wisheslingerie.com/new_items.asp'", millisecs);
+setTimeout("window.location.href='http://www.3wishes.com/new_items.asp'", millisecs);
 
 //-->
 </script>
@@ -28,7 +28,7 @@ setTimeout("window.location.href='http://www.3wisheslingerie.com/new_items.asp'"
     <td width="34%" align="right" valign="top"><font size="2" face="Arial">
     <script language="JavaScript">
 var txt = "Bookmark this site!";
-var url = "http://www.3wisheslingerie.com/privacy.asp";
+var url = "http://www.3wishes.com/privacy.asp";
 var who = "3 Wishes Lingerie";
 var ver = navigator.appName;
 var num = parseInt(navigator.appVersion);
@@ -44,45 +44,85 @@ txt += "  (Ctrl+D)";
 document.write(txt);
 }
       </script>Bookmark this site!  (Ctrl+D)
+<script language="JavaScript">
+function isEmailAddr(email)
+{
+  var result = false
+  var theStr = new String(email)
+  var index = theStr.indexOf("@");
+  if (index > 0)
+  {
+    var pindex = theStr.indexOf(".",index);
+    if ((pindex > index+1) && (theStr.length > pindex+1))
+	result = true;
+  }
+  return result;
+}
+
+function FormValidator(theForm)
+{
+
+  if (theForm.email.value == "")
+  {
+    alert("Please enter a valid email address in the \"email\" field.");
+    theForm.email.focus();
+    return (false);
+  }
+
+  if (!isEmailAddr(theForm.email.value))
+  {
+    alert("Please enter a complete email address in the form: yourname@yourdomain.com");
+    theForm.email.focus();
+    return (false);
+  }
+   
+  if (theForm.email.value.length < 3)
+  {
+    alert("Please enter a valid email address in the \"email\" field.");
+    theForm.email.focus();
+    return (false);
+  }
+  return (true);
+}
+</script>      
     </font></td>
   </tr>
 </tbody></table>
 <p align="center"><b><font size="6">
 Privacy Statement</font></b><br>
-<strong><a href="/">
-<font face="Arial" size="2" color="#0000FF">Home</font></a><font size="2" face="Arial">&nbsp;</font></strong><font size="2" face="Arial"> 
-· &nbsp;<a href="new_items.asp"><font color="#0000FF">New 
-Items</font></a>&nbsp; · <a href="accessor.asp">Accessories</a>&nbsp; ·
-<a href="all_american.asp">All American</a> &nbsp;·&nbsp;
-<a href="bras_panties.asp">Bras &amp; Panties</a>&nbsp; ·&nbsp;
-<a href="bride.asp">Bride</a> &nbsp;· &nbsp;<a href="bunny.asp">Bunny, Tiger &amp; Cat</a> 
-&nbsp;·&nbsp; <a href="butterflies.asp">Butterflies, Bees &amp; More</a>&nbsp; ·&nbsp;&nbsp;<a href="collegedays.asp">Cheerleaders</a>&nbsp; 
-·&nbsp; <a href="Christmas.asp">Christmas</a>&nbsp; · <a href="police.asp">
-Cops &amp; Robbers</a>&nbsp;&nbsp;·&nbsp; <a href="country.asp">Country Girl</a>&nbsp; ·&nbsp;
-<a href="cowgirl.asp">Cowgirls &amp; Indians</a> &nbsp;·&nbsp;
-<a href="dresses.asp">Dresses</a>&nbsp; ·&nbsp; <a href="executiv.asp">
-Executive Lady</a> &nbsp;· &nbsp;<a href="fairy.asp">Fairy Tale</a>&nbsp; · &nbsp;<a href="formal.asp">Formal</a> 
-&nbsp;·&nbsp; <a href="french.asp">French Maid</a>&nbsp;&nbsp;·&nbsp; &nbsp;<a href="genie.asp"> 
-Genie</a>&nbsp; ·&nbsp; <a href="halloween.asp">Halloween</a>&nbsp; ·&nbsp;
-<a href="his_and_hers.asp">His &amp; Hers</a>&nbsp; ·&nbsp;
-<a href="international.asp">International</a>&nbsp;&nbsp;·&nbsp;
-<a href="jungle.asp">Jungle Girl</a>&nbsp;&nbsp;·&nbsp; <a href="Lingerie.asp">
-Lingerie</a>&nbsp; ·&nbsp; <a href="lotions.asp">Lotions, Bubbles &amp; More</a>&nbsp; 
-·&nbsp; <a href="military.asp">Military</a>&nbsp; ·&nbsp;
-<a href="nurse.asp">Nurse</a>&nbsp; · &nbsp;<a href="victoria.asp">Old 
-Fashioned</a>&nbsp; ·&nbsp; <a href="pirate.asp">Pirate</a>&nbsp;&nbsp;·&nbsp;
-<a href="plussize.asp">Plus Size</a>&nbsp; ·&nbsp;
-<a href="schoolgirl.asp">School Girl</a> &nbsp;·&nbsp;
-<a href="shoesandboots.asp">Shoes &amp; Boots</a>&nbsp; ·&nbsp;
-<a href="sports.asp">Sports</a>&nbsp; ·&nbsp;
-<a href="stockings_etc___.asp">Stockings etc.</a>&nbsp;&nbsp;·&nbsp;
-<a href="sugar.asp">Sugar &amp; Spice</a> &nbsp;·&nbsp; <a href="tropical.asp">
-Tropical</a>&nbsp; · &nbsp;<a href="uniforms.asp">Uniforms</a> &nbsp;·&nbsp;
-<a href="valentine.asp">Valentine</a>&nbsp; ·&nbsp; <a href="wigs.asp">
-Wigs &amp; Hats</a>&nbsp; ·&nbsp;<a href="shipping.asp"><b><font color="#0000FF">Free
-Shipping</font></b></a><br>
- </font><big><font color="#006600" face="Franklin Gothic Demi"><br>
-<a href="http://www.3wisheslingerie.com/order.asp">
+<strong><a href="/"><font face="Arial" size="2" color="#0000FF">Home</font></a><font size="2" face="Arial">&nbsp;</font></strong><font size="2" face="Arial"> 
+· &nbsp;<a href="/new_items.asp"><font color="#0000FF">New Items</font></a>&nbsp; ·&nbsp;
+<a href="/accessor.asp">Accessories</a>&nbsp; ·&nbsp;
+<a href="/all_american.asp">All American</a> &nbsp;·&nbsp;
+<a href="/bras_panties.asp">Bras &amp; Panties</a>&nbsp; ·&nbsp;
+<a href="/bride.asp">Bride</a> &nbsp;· &nbsp;<a href="/bunny.asp">Bunny, Tiger &amp; Cat</a> 
+&nbsp;·&nbsp; <a href="/butterflies.asp">Butterflies, Bees &amp; More</a>&nbsp; ·&nbsp;&nbsp;<a href="/collegedays.asp">Cheerleaders</a>&nbsp; 
+·&nbsp; <a href="/Christmas.asp">Christmas</a>&nbsp; · <a href="/police.asp">
+Cops &amp; Robbers</a>&nbsp;&nbsp;·&nbsp; <a href="/country.asp">Country Girl</a>&nbsp; ·&nbsp;
+<a href="/cowgirl.asp">Cowgirls &amp; Indians</a> &nbsp;·&nbsp; <a href="/dresses.asp">
+Dresses</a>&nbsp; ·&nbsp; <a href="/executiv.asp">Executive Lady</a> &nbsp;·&nbsp;
+<a href="fairies.asp">Fairies, Angels &amp; More</a>&nbsp; ·&nbsp;
+<a href="/fairy.asp">Fairy Tale</a>&nbsp; ·&nbsp; <a href="/formal.asp">Formal</a> 
+&nbsp;·&nbsp; <a href="/french.asp">French Maid</a>&nbsp;&nbsp;· &nbsp;<a href="/genie.asp">Genie</a>&nbsp; 
+·&nbsp; <a href="/halloween.asp">Halloween</a>&nbsp; ·&nbsp;
+<a href="heroes.asp">Heroes</a>&nbsp; ·&nbsp; <a href="/his_and_hers.asp">His 
+&amp; Hers</a>&nbsp; ·&nbsp; <a href="/international.asp">International</a>&nbsp;&nbsp;·&nbsp;
+<a href="/jungle.asp">Jungle Girl</a>&nbsp;&nbsp;·&nbsp; <a href="/Lingerie.asp">Lingerie</a>&nbsp; 
+·&nbsp; <a href="/lotions.asp">Lotions, Bubbles &amp; More</a>&nbsp; ·&nbsp;<a href="/mens.asp">Men's 
+Collection</a>&nbsp; · <a href="/military.asp">Military</a>&nbsp; ·&nbsp;
+<a href="/nurse.asp">Nurse</a>&nbsp; · &nbsp;<a href="/victoria.asp">Old Fashioned</a>&nbsp; 
+·&nbsp; <a href="/pirate.asp">Pirate</a>&nbsp;&nbsp;·&nbsp; <a href="/plussize.asp">Plus 
+Size</a>&nbsp; ·&nbsp; <a href="/schoolgirl.asp">School Girl</a> &nbsp;·&nbsp;
+<a href="/shoesandboots.asp">Shoes &amp; Boots</a>&nbsp; ·&nbsp;
+<a href="/sports.asp">Sports</a>&nbsp; ·&nbsp; <a href="/stockings_etc___.asp">
+Stockings etc.</a>&nbsp;&nbsp;·&nbsp; <a href="/sugar.asp">Sugar &amp; Spice</a> &nbsp;·&nbsp;
+<a href="/tropical.asp">Tropical</a>&nbsp; · &nbsp;<a href="/uniforms.asp">Uniforms</a> 
+&nbsp;·&nbsp; <a href="/valentine.asp">Valentine</a>&nbsp; ·&nbsp;
+<a href="/wigs.asp">Wigs &amp; Hats</a>&nbsp; ·&nbsp; <a href="/shipping.asp"><font color="#0000FF"><b>Free Shipping<br>
+</b></font></a>
+<br>
+</font><big><font color="#006600" face="Franklin Gothic Demi"><br>
+<a href="http://www.3wishes.com/order.asp">
 <img border="0" src="images/buttons/viewcart.gif" width="124" height="27"></a>
 </font></big></p>
 </td></tr><!--msnavigation--></tbody></table><!--msnavigation--><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><!--msnavigation--><td valign="top">
@@ -220,20 +260,19 @@ Shipping</font></b></a><br>
 <table border="0" width="100%" cellspacing="1">
   <tbody><tr>
     <td width="33%" nowrap="">
-    <form name="form1" action="http://lyris.dundee.net/subscribe/subscribe.tml" method="GET">
+    <form name="dundeeForm" action="http://lyris.dundee.net/subscribe/subscribe.tml" method="GET" onsubmit="return FormValidator(this)">
       <input type="hidden" name="list" value="3-wishes-lingerie">
       <input type="hidden" name="confirm" value="one">
       <input type="hidden" name="showconfirm" value="F">
       <input type="hidden" name="url" value="http://www.3wishes.com/emailcon.asp">
       <p align="center"><font face="Arial" size="2">What's Hot, New &amp; on Sale?</font><br>
       <input type="text" name="email" size="15"><input type="submit" value="Join"><br>
-      <font face="Arial" size="1">Join our <a href="#Privacy">
-      <font color="#0000FF">
-      private</font></a> e-mail list to find out.</font> </p>
+      <font face="Arial" size="2">Join our e-mail list to find out.</font>
+      </p>
     </form>
     </td>
     <td width="33%" nowrap="">
-    <p align="center"><a href="http://www.3wisheslingerie.com/order.asp">
+    <p align="center"><a href="http://www.3wishes.com/order.asp">
     <img border="0" src="images/buttons/viewcart.gif" width="124" height="27"></a><br>
     <br>
     </p></td>
@@ -252,9 +291,8 @@ Shipping</font></b></a><br>
     <td width="100%" height="36" colspan="3">
     <p align="center"><b><i><font face="Verdana" size="2">Shop With Confidence!</font></i></b>
     <font face="Verdana" size="2">We value your <a href="/privacy.asp#Privacy">
-    <font color="#0000FF">
-    privacy</font></a> &amp; security with a 100% safe shopping
-    <a href="/privacy.asp#security"><font color="#0000FF">guarantee</font></a>.<br>
+    <font color="#0000FF">privacy</font></a> &amp; security with a 100% safe 
+    shopping <a href="/privacy.asp#security"><font color="#0000FF">guarantee</font></a>.<br>
     </font></p></td>
   </tr>
   <tr>
@@ -262,10 +300,10 @@ Shipping</font></b></a><br>
     <p align="center">
     <img border="0" src="images/135-43mc-ax.gif" width="135" height="44"><br>
     <img border="0" src="images/135-43dis-v.GIF" width="135" height="43"></p></td>
-    <td width="33%" height="40">
+    <td width="33%" height="40" nowrap="">
     <p align="center"><font face="Arial" size="2">3 Wishes Lingerie<br>
     <i>Lingerie and Costumes for the fun at heart.</i><br>
-    www.3wisheslingerie.com<br>
+    www.3wishes.com<br>
     Copyright <sup>©</sup> 1998 - 2004 All rights reserved.</font></p></td>
     <td width="34%" height="36">
     <p align="center"><a href="javascript:OpenCertDetails()">
@@ -274,7 +312,7 @@ Shipping</font></b></a><br>
     <!--
     function OpenCertDetails()
     	{
-    	thewindow = window.open('https://www.thawte.com/cgi/server/certdetails.exe?code=USWISH7', 'anew', config='height=400,width=450,toolbar=no,menubar=no,scrollbars=yes,resizable=no,location=no,directories=no,status=yes');
+    	thewindow = window.open('https://www.thawte.com/cgi/server/certdetails.exe?code=USWISH12', 'anew', config='height=400,width=450,toolbar=no,menubar=no,scrollbars=yes,resizable=no,location=no,directories=no,status=yes');
     	}
     // -->
     </script>
@@ -286,14 +324,17 @@ Shipping</font></b></a><br>
   <table border="0" cellpadding="0" width="100%">
     <tbody><tr>
       <td width="33%" height="40" align="center"><font face="Arial" size="2">
-      <a href="/"><font color="#0000FF">Home</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/ordering.asp#Contact"><font color="#0000FF">Contact 
-      Us</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/ordering.asp#Sizing"><font color="#0000FF">Sizing Info</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/ordering.asp#Returns"><font color="#0000FF">Returns</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/ordering.asp#Shipping"><font color="#0000FF">Shipping</font></a></font></td>
+      <a href="/"><font color="#0000FF">Home</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/ordering.asp#Contact"><font color="#0000FF">Contact</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/ordering.asp#Sizing"><font color="#0000FF">Sizing</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/ordering.asp#Returns"><font color="#0000FF">Returns</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/ordering.asp#Shipping"><font color="#0000FF">Shipping</font></a></font></td>
     </tr>
   </tbody></table>
   </center></div>
 <p>
-<script language="JavaScript" src="http://keywordmax.com/tracking/show.php?id=926342636&amp;location=Products"></script>
-</p>
+<!-- ***  CLICK TRACKING CODE 3.0 *** -->
+<script language="JavaScript" type="text/javascript" defer="1" src="http://keywordmax.com/tracking/show.php?id=926342636&amp;location=Product"></script>
+<noscript>
+<img src="http://keywordmax.com/tracking/log.php?id=926342636&loc=Product" border="0">
+</noscript>
+<!-- ^^^ CLICK TRACKING CODE 3.0 ^^^ --></p>
 </td></tr><!--msnavigation--></tbody></table>
 
 
