@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancerresearchuk.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603212724id_/http%3A//cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerresearchuk.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205003412id_/http%3A//cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
 
 # Cancer Research UK: Privacy statement
 
@@ -20,7 +20,15 @@ We may share your information with other organisations who are supportive of our
 
 **Do we use 'Cookies' ?**
 
-'Cookies' are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that organisation to recognise the user when you next visit. We do not currently make use of them.
+'Cookies' are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that organisation to recognise the user when you next visit.
+
+Cancer Research UK may store information about you and your activity in cookies. If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. 
+
+Our cookies will have the files names [abc.txt and xyz.txt]. If you want to stop cookies being stored on your computer in future, please refer to your internet browser's instructions by clicking "Help" in its menu.
+
+Futher information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/).
+
+Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas of our site. 
 
 **How do we protect personal information?**
 
