@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kwtx.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622221657id_/http%3A//kwtx.com/kwtx/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kwtx.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812073936id_/http%3A//kwtx.com/kwtx/privacy_statement.htm) for the most accurate reproduction.*
 
 # KWTX-TV News 10 KWTX-DT Channel 53
 
