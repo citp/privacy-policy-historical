@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the nextel.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411174854id_/http%3A//www.nextel.com/registration/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextel.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212141215id_/http%3A//www.nextel.com/registration/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Nextel - Privacy Policy
 
   
-Nextel Communications respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. If you have any questions about this Privacy Policy, please contact us at [ecare@nextel.com](mailto:ecare@nextel.com). 
+Nextel Communications respects the privacy of visitors to our site. Please read this Privacy Policy carefully so that you understand our privacy practices. If you have any questions about this Privacy Policy, please contact us at [Customer Care](https://web.archive.org/NASApp/nol/CustomerCareServlet/). 
 
 Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you're under 13, please don't provide any personally identifying information during your visit to nextel.com. 
 
@@ -50,7 +50,7 @@ Of course, our site includes links to other websites, and provides access to pro
 
 From time to time, we request information from users via pop-up surveys. Participation in these surveys is completely voluntary; if you don't want to provide the requested information, just don't respond to the survey. The information we gather through these surveys will be used to improve our site. 
 
-The information we collect from our visitors is encrypted for storage within a database we control. Physical access to the servers on which we store visitor information is restricted. To protect the privacy of your credit card number and other ordering information, we encrypt this information for transit over the Internet using a Secure Socket Layer ("SSL") connection. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted over the Internet. 
+The information we collect from our visitors is stored within a database we control. Physical access to the servers on which we store visitor information is restricted. To protect the privacy of your credit card number and other ordering information, we encrypt this information for transit over the Internet using a Secure Socket Layer ("SSL") connection. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted over the Internet. 
 
 Most web browsers allow use of an SSL connection. If your browser does not support use of an SSL connection, or if you prefer not to send your credit card number over the Internet, you can place your order by calling us toll free at 1-800-NEXTEL9 (U.S. only). 
 
