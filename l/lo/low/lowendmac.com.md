@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602204403id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208054608id_/http%3A//www.lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -33,18 +33,18 @@ We do not use any type of cookies on Low End Mac, although BackBeat Media (which
   
 ---  
   
-[**4 All Memory:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/793/clickHTML?ajkey=7C1AD6FED8162D25D1EDEEB000001A1600001A1D00000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFFDFBB0A78) Computer running slow? Speed it up with more RAM memory! We have great Mac memory, guaranteed compatibility, and FREE SHIPPING! Buy RAM at 4AllMemory.com today!
+[**4 All Memory:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/856/clickHTML?ajkey=EEED51FBD8162D25D1EDEEB100001A1600001A1D00000CEA00001B6AFFFFFF91FFFFFF91FFFFFFFF3B06EBB1) Computer running slow? Speed it up with more RAM memory! We have great Mac memory, guaranteed compatibility, and FREE SHIPPING! Buy RAM at 4AllMemory.com today!
 
-[ **Memory To Go Special:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/218/clickHTML?ajkey=58071E01D8162D25D1EDEEB000000A3A000019D400000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFFD6BD64CE) PBook G4/iBook G4: 512mb $101,1GB $349 | G5: 1gb kit $190, 2gb kit $450 | G4 PC133: 512mb $93 256mb $55 | Flat Imac/ Titanium: 512mb $105 | 256mb $55 2.5” DRIVES 40gb $112, 60gb $159 | 3.5” IDE DRIVES 120gb $97, 160gb $115 [$2.00 off shipping when you mention this site by name.](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/218/clickHTML?ajkey=58071E01D8162D25D1EDEEB000000A3A000019D400000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFFD6BD64CE)
+[ **Memory To Go Special:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/336/clickHTML?ajkey=4CAEBC14D8162D25D1EDEEB100000A3A000019D400000CEB00001B6AFFFFFF91FFFFFF91FFFFFFFFD3970C43) Imac G5/ 1GB $192 512mb $80 | PowerBook G4 / iBook G4: 1GB $275, 512mb $97 | G5: 1GB kit $160, 2GB kit $384 | G4 PC133: 512mb $93 256mb $55 | Flat Imac/ Titanium: 512mb $105 256mb $55 | iBook 500 512mb $84 | 2.5" & 3.5" HARD DRIVES AVAILABLE
 
-[ **Download Typestyler,**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/943/clickHTML?ajkey=71293275D8162D25D1EDEEB000001BAC00001B2200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFFDCF7F7BF) still the Ultimate Styling Tool for Internet, Print and Video Graphics. Works great in Classic with a Native OS X Version on the way. [Free Tryout: www.typestyler.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/943/clickHTML?ajkey=71293275D8162D25D1EDEEB000001BAC00001B2200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFFDCF7F7BF)
+[ **Download Typestyler,**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/165/clickHTML?ajkey=CA5206E0D8162D25D1EDEEB100001BAC00001B2200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFF32293A92) still the Ultimate Styling Tool for Internet, Print and Video Graphics. Works great in Classic with a Native OS X Version on the way. [Free Tryout: www.typestyler.com](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/165/clickHTML?ajkey=CA5206E0D8162D25D1EDEEB100001BAC00001B2200001A5700001B6AFFFFFF91FFFFFF91FFFFFFFF32293A92)
 
- **[PowerMax:](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/466/clickHTML?ajkey=3C9ACBFAD8162D25D1EDEEB000001FA700001EA600001A5800001B6AFFFFFF91FFFFFF91FFFFFFFFCF9B6543)** Get into a 12-inch PowerBook for minimal coin! We're offering the Apple G4/867-MHz 'Mini' PowerBook with 256MB RAM, 40GB hard drive, SuperDrive and built-in 56k modem for just $1288! [Click or call 800-769-9065 today!](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/466/clickHTML?ajkey=3C9ACBFAD8162D25D1EDEEB000001FA700001EA600001A5800001B6AFFFFFF91FFFFFF91FFFFFFFFCF9B6543)
+ **[PowerMax:](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/432/clickHTML?ajkey=BFCBE451D8162D25D1EDEEB100001EA900001EA600001A5800001B6AFFFFFF91FFFFFF91FFFFFFFF2F4F3E41)** Looking for quality, used Apple computers? Look no further than PowerMax! All our used merchandise is inspected, cleaned, tested and carries a 90-day warranty. [Click or call 800-769-9065 today! ](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/432/clickHTML?ajkey=BFCBE451D8162D25D1EDEEB100001EA900001EA600001A5800001B6AFFFFFF91FFFFFF91FFFFFFFF2F4F3E41)
 
-[ **Other World Computing:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/449/clickHTML?ajkey=DFDDA1E2D8162D25D1EDEEB00000028000001EC400001EC700001B6AFFFFFF91FFFFFF91FFFFFFFF374B6A3A) Warning!!!! Running on Reserve Power..... Go longer without plugging in With NewerTech PowerBook Batteries providing up to 37.5% MORE Capacity!  
+[**Other World Computing:**](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/350/clickHTML?ajkey=96B93E20D8162D25D1EDEEB1000017D400001EC400001EC700001B6AFFFFFF91FFFFFF91FFFFFFFF25131882) Get a New Video Card for faster Frame Rates, Faster Screen Redraws, Dual Display Support, Etc! ATI Radeons from $119; Apple/Nvidia 64MB $139.
+
+ **[FastMac:](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/527/clickHTML?ajkey=01A9C16ED8162D25D1EDEEB1000020EF000020F000001EC800001B6AFFFFFF91FFFFFF91FFFFFFFFC0D5A54E)** Performance Upgrades Designed to Extend the Life of Your Current Mac. Easy to Install. Easy to Afford. Hard to Live Without. Painless Evolution. [Click here.](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/527/clickHTML?ajkey=01A9C16ED8162D25D1EDEEB1000020EF000020F000001EC800001B6AFFFFFF91FFFFFF91FFFFFFFFC0D5A54E)  
   
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/398/clickHTML?ajkey=3F99E0DCD8162D25D1EDEEB000001EB800001EB40000010D00001B68FFFFFF91FFFFFF91FFFFFFFFCF5BA5BD)
-
 Entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-2004 by [Cobweb Publishing, Inc.](http://cobwebpublishing.com/), unless otherwise noted. All rights reserved.  
   Advice presented in good faith, but what works for one may not work for all.  
   Please report errors to [the webmaster](mailto:webmaster@lowendmac.com).  
@@ -60,32 +60,28 @@ Entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-
 [](http://leader.linkexchange.com/X1576050/clicklogo)  
 
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/574/clickHTML?ajkey=F09810DED8162D25D1EDEEB000001749000018D3000003BD00001B6BFFFFFF91FFFFFF91FFFFFFFF3C9B7726)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/323/clickHTML?ajkey=A342739CD8162D25D1EDEEB10000235A000018D3000003BD00001B6BFFFFFF91FFFFFF91FFFFFFFF286EAECE)
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/287/clickHTML?ajkey=FDAE7517D8162D25D1EDEEB000001FC900001C99000003BE00001B6BFFFFFF91FFFFFF91FFFFFFFF3FD64407)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/41/clickHTML?ajkey=AD2E8EC2D8162D25D1EDEEB10000235800002355000003BE00001B6BFFFFFF91FFFFFF91FFFFFFFF2BF44D8A)
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/224/clickHTML?ajkey=4EF7AD84D8162D25D1EDEEB000001D8500001D8A00001B1C00001B6BFFFFFF91FFFFFF91FFFFFFFFD30006D9)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/826/clickHTML?ajkey=9551DE3DD8162D25D1EDEEB10000232C00001D8A0000048C00001B6BFFFFFF91FFFFFF91FFFFFFFF25EA6F3F)
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/639/clickHTML?ajkey=D6998D32D8162D25D1EDEEB000001AB300001AA70000048D00001B65FFFFFF91FFFFFF91FFFFFFFF351BDB63)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/893/clickHTML?ajkey=10B277D1D8162D25D1EDEEB10000224F00001B1800001D1900001B6BFFFFFF91FFFFFF91FFFFFFFFC492BE71)
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/414/clickHTML?ajkey=2D3B0FDFD8162D25D1EDEEB000001E5000001B1800001D1900001B6BFFFFFF91FFFFFF91FFFFFFFFCBF3218A)
-
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/595/clickHTML?ajkey=FEA3148DD8162D25D1EDEEB000001F3B00001F1800001D8E00001B6BFFFFFF91FFFFFF91000441B4C0EEAF32)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/584/clickHTML?ajkey=3795EE64D8162D25D1EDEEB100001F3B00001F1800001D8E00001B6BFFFFFF91FFFFFF91000C325C32AB6268)
 
 **Mac of the Day**  
- [Mac II](https://web.archive.org/ii/ii.shtml) **  
+ [Outbound Laptop and Notebook](https://web.archive.org/clones/outbound.html) **  
 List of the Day**  
- [MacVoice](http://www.themacintoshguy.com/lists/MacVoiceFAQ.html) **  
+ [G-Books](http://lowendmac.com/lists/g-books.html) **  
 Book of the Day**  
- [The Little iMac Book, 2d ed](http://www.amazon.com/exec/obidos/ASIN/0201704463/lowendmac)  
-
-
+ [Microsoft Office v.X for Mac OS X: Visual QuickStart Guide](http://www.amazon.com/exec/obidos/ASIN/0201794837/lowendmac)  
  **Channels**  
  [Power Macs](https://web.archive.org/ppc/index.shtml)  
  [iMac Channel](https://web.archive.org/imac/index.shtml)  
  [iBook/PowerBook](https://web.archive.org/ibook/index.shtml)  
  [MacInSchool](https://web.archive.org/macinschool/index.shtml)  
- **Computer Profiles**  
+**Computer Profiles**  
  [iMac](https://web.archive.org/imacs/index.shtml)  
  [Power Mac](https://web.archive.org/ppc/index.shtml)  
  [PowerBook/iBook](https://web.archive.org/powerbooks.html)  
@@ -93,42 +89,49 @@ Book of the Day**
  [Mac Clones](https://web.archive.org/clones/index.shtml)  
  [Older Macs](https://web.archive.org/early-macs.html)  
  [Lisa](https://web.archive.org/lisa/index.shtml) • [NeXT](https://web.archive.org/next/index.html)  
-[ **Editorial Archive**](https://web.archive.org/editorials.html)  
-[ **Mac Daniel's Advice**](https://web.archive.org/macdan/index.shtml)  
-[ **Email Lists**](https://web.archive.org/lists/index.shtml)  
-[ **LEMchat**](aim:gochat?roomname=LEMchat) (uses AIM)  
-[ **Message Boards**](http://lowendmac.master.com/texis/master/search/msgbd.html)  
-[ **Online Tech Journal**](https://web.archive.org/tech/index.shtml)  
-[ **Consumer**](https://web.archive.org/consumer.html)  
+[**Editorial Archive**](https://web.archive.org/editorials.html)  
+[**Mac Daniel's Advice**](https://web.archive.org/macdan/index.shtml)  
+[**Email Lists**](https://web.archive.org/lists/index.shtml)  
+[**LEMchat**](aim:gochat?roomname=LEMchat) (uses AIM)  
+[**Message Boards**](http://lowendmac.master.com/texis/master/search/msgbd.html)  
+[**Online Tech Journal**](https://web.archive.org/tech/index.shtml)  
+[**Consumer**](https://web.archive.org/consumer.html)  
  advice, reviews  
  guides, deals  
-[ **Software**](https://web.archive.org/sw.html)  
-[ **Apple History**](https://web.archive.org/history/index.shtml)  
-[ **Best of the Web**](https://web.archive.org/links.shtml)  
+[**Software**](https://web.archive.org/sw.html)  
+[**Apple History**](https://web.archive.org/history/index.shtml)  
+[**Best of the Web**](https://web.archive.org/links.shtml)  
  [Best of the Mac Web surveys](https://web.archive.org/botmw/index.html)  
- **Miscellaneous Links  
-**  [Best Used Mac Buys](https://web.archive.org/best/index.shtml)  
+**Miscellaneous Links  
+** [Best Used Mac Buys](https://web.archive.org/best/index.shtml)  
  [Used Mac Dealers](https://web.archive.org/dealers/index.shtml)  
  [Video Cards](https://web.archive.org/video/index.html)  
  [Mac OS X](https://web.archive.org/osx/index.shtml)  
  [Mac Linux](https://web.archive.org/linux/index.shtml)  
  [Macspeak](https://web.archive.org/macspeak.shtml)  
  [RAM Upgrades](https://web.archive.org/ram/index.shtml)  
-[ **About Low End Mac**](https://web.archive.org/about.shtml) **  
-**[ **Site Contacts**](https://web.archive.org/contact.html)
+[**About Low End Mac**](https://web.archive.org/about.shtml) **  
+**[**Site Contacts**](https://web.archive.org/contact.html)
 
 [ ](https://web.archive.org/link.shtml)
 
 ### [Support LEM](https://web.archive.org/support.shtml)
 
-**Affiliates**  
- [Club Mac](http://www.qksrv.net/click-272632-5529762)  
- [MacZone](http://clickserve.cc-dt.com/link/click?lid=41000000000587906)  
- [eBay](http://www.qksrv.net/click-272632-2202639)  
- [CoolVCD](http://www.coolvcd.com/?referralid=LowEndMac)  
- [123Inkjets.com](http://www.commission-junction.com/track/track.dll?AID=512018&PID=272632&URL=http%3A%2F%2Fwww%2E123Inkjets%2Ecom)  
- [ Handspring](http://click.linksynergy.com/fs-bin/stat?id=ORKVdjntKuM&offerid=26018&type=3&subid=0)  
- [ Iomega](http://click.linksynergy.com/fs-bin/click?id=ORKVdjntKuM&offerid=25511.10000018&type=3&subid=0)
+**Affiliates**
 
-[ **Advertise on LEM**](http://www.backbeatmedia.com/) **  
-**Our advertising is handled by BackBeat Media. For detailed price quotes and advertising information, please contact[ Greg Snyder](mailto:lowendmac@backbeatmedia.com) at BackBeat Media (512-441-1852). This number is for advertising only.
+#### [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/lowendmac)  
+[ iTunes Music Store](http://click.linksynergy.com/fs-bin/click?id=ORKVdjntKuM&offerid=78941.10000007&type=3&subid=0)  
+[ The Apple Store](http://click.linksynergy.com/fs-bin/click?id=ORKVdjntKuM&offerid=77305.10000656&type=4&subid=0)  
+[ClubMac](http://www.anrdoezrs.net/click-272632-167536)  
+[CompUSA](http://www.kqzyfj.com/click-272632-10291898)  
+[MacMall](http://www.kqzyfj.com/click-272632-53427)  
+[MacResQ](http://www.myaffiliateprogram.com/u/macresq/b.asp?id=1046)  
+[Crucial Memory](http://www.qksrv.net/click-272632-5032657)  
+[eBay](http://www.qksrv.net/click-272632-2202639)  
+[CoolVCD](http://www.coolvcd.com/?referralid=LowEndMac)  
+[ 123Inkjets](http://www.commission-junction.com/track/track.dll?AID=512018&PID=272632&URL=http%3A%2F%2Fwww%2E123Inkjets%2Ecom)  
+[ Buy.com](http://click.linksynergy.com/fs-bin/stat?id=O7sajHhUCjc&offerid=13541.10000575&type=4&subid=0)  
+[ Handspring](http://click.linksynergy.com/fs-bin/stat?id=ORKVdjntKuM&offerid=26018&type=3&subid=0)  
+[ Iomega](http://click.linksynergy.com/fs-bin/click?id=ORKVdjntKuM&offerid=25511.10000018&type=3&subid=0)
+
+Our advertising is handled by [BackBeat Media](http://www.backbeatmedia.com/). For detailed price quotes and advertising information, please contact [Greg Snyder](mailto:lowendmac@backbeatmedia.com) at BackBeat Media (512-441-1852). This number is for advertising only.
