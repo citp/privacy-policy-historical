@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lamar.edu privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607211109id_/http%3A//www.lamar.edu/contact/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lamar.edu privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206004610id_/http%3A//www.lamar.edu/contact/privacypolicy.htm) for the most accurate reproduction.*
 
 # Lamar University: Contact LU
 
@@ -25,7 +25,7 @@ We do use server logs to collect general information regarding your Internet con
 
 Websites on other servers at Lamar University (such as http://hal.lamar.edu) may use cookies and/or collect personal information about you and use it in ways other than stated above. Each website that collects information will provide its own privacy policy and disclose their uses of your information.
 
-If you have questions or concerns about this privacy policy, the practices of this or other Lamar University websites, or your use of this site, please contact the webmaster at [webmaster@hal.lamar.edu](mailto:webmaster@hal.lamar.edu) , or through postal mail at:
+If you have questions or concerns about this privacy policy, the practices of this or other Lamar University websites, or your use of this site, please contact the webmaster at [webmaster@lamar.edu](mailto:webmaster@lamar.edu) , or through postal mail at:
 
 Office of Information Technologies  
 Attn: Webmaster  
