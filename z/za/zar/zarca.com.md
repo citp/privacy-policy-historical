@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zarca.com privacy policy that was archived on 2003-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030204055613id_/http%3A//www.zarca.com/privacy.asp) for the most accurate reproduction.*
 
 # Zarca Interactive - Privacy Policy
 
@@ -111,4 +111,4 @@ Our Site has substantial and elaborate security measures in place to protect you
 As we are constantly improving our services and expanding our business, we retain the right to modify this privacy policy at any time. In the event we make such changes, we will announce the changes and post the new policy on the Site. Information collected after the new policy is posted will be used in conformance with the new policy. Information gathered under the old policy will continue to be used in conformance with that policy unless we, in conjunction with Customer, notify Survey Participants of the changes and the Survey Participant does not prohibit the use of the Information in conformance with the new policy.  
   
    
-[About Us](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/help/aboutus.asp) | [Solutions](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/help/solutions.asp) | [Careers](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/help/careers.asp) | [Contact](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/help/contact.asp) | [Home](https://web.archive.org/web/20021210102559id_/http%3A//zarca.com/index.asp)
+[About Us](https://web.archive.org/web/20030204055613id_/http%3A//www.zarca.com/help/aboutus.asp) | [Solutions](https://web.archive.org/web/20030204055613id_/http%3A//www.zarca.com/help/solutions.asp) | [Careers](https://web.archive.org/web/20030204055613id_/http%3A//www.zarca.com/help/careers.asp) | [Contact](https://web.archive.org/web/20030204055613id_/http%3A//www.zarca.com/help/contact.asp) | [Home](https://web.archive.org/web/20030204055613id_/http%3A//www.zarca.com/index.asp)
