@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the ud.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211231901id_/http%3A//members.ud.com/about/getting_started/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ud.com privacy policy that was archived on 2002-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020409121944id_/http%3A//members.ud.com/about/getting_started/privacy.htm) for the most accurate reproduction.*
 
 # How It Works : Member Privacy and Security - United Devices, Inc.™
-
-The United Devices Member Policy   
-
 
 [](https://www.truste.org/validate/10269) If you have questions or concerns regarding this policy, you should first contact [member services](https://www.ud.com/company/contact/member_services.htm). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -11,7 +8,7 @@ United Devices' Community Members have placed great trust in us to allow our pro
 
 United Devices assures Members that applications will not damage their systems or invade their privacy in any way. Our agent runs unobtrusively in the computing background and is not invasive. It cannot detect or change any other files or material on Members machines. It can only update project-specific data in its own files.
 
-United Devices Members will always be told what projects they are running. They also will have access to Web pages outlining which organizations are providing the project applications and explaining those projects. Members always have the option of opting out of a project. United Devices offers the opportunity to win prizes and other rewards to thank our members who choose to run our commercial applications in addition to non-profit projects. 
+United Devices Members will always be told what projects they are running. They also will have access to Web pages outlining which organizations are providing the project applications and explaining those projects. Members always have the option of opting out of a project. 
 
 Members will be able to control how much of their system resources are used by United Devices and will be given user preference options on a wide range of factors, including:   
   
@@ -19,7 +16,7 @@ Members will be able to control how much of their system resources are used by U
 
 To protect Member privacy, Members are asked to create a member name when they install the UD Agent. This member name is maintained in the Member profile and used to identify each member on the UD web site and on any scoreboards.
 
-We use standard tracking technology on our Web site, commonly known as "cookies," to help us deliver a customized experience to Members. Our Web site will save a small temporary file on your computer only while you are visiting our site; it will be removed when you exit the United Devices Web site. Our primary use for cookies is to help us determine which service and support information is appropriate to a Member's machine. Our use of this technology does not mean that we automatically know any information about individual members — we do not.
+We use standard tracking technology on our Web site, commonly known as "cookies," to help us deliver a customized experience to Members. Our Web site will save a small temporary file on your computer only while you are visiting our site; it will be removed when you exit the United Devices Web site. Our primary use for cookies is to help us determine which service and support information is appropriate to a Member's machine. Our use of this technology does not mean that we automatically know any information about individual members—we do not.
 
 In order to run our projects, United Devices software automatically detects certain basic information from a Member's machine; this includes info about the Member's processor speed, and set preferences regarding disk space, memory and times to run the projects on the machine. Members will have access to the information about the properties that are measured by the UD Agent and for what purpose this information will be used.
 
