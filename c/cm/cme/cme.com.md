@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cme.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203053513id_/http%3A//www.cme.com/abt/privacy3403.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cme.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401104005id_/http%3A//www.cme.com/abt/privacy3403.html) for the most accurate reproduction.*
 
 # CME Privacy Policy
 
@@ -16,7 +16,7 @@ As a part of our normal operations we collect, and in some cases, disclose infor
 
 
 
-If you are not comfortable with any of the terms or policies described in this Statement, we ask that you discontinue use of our site and encourage you to send confidential correspondence through the postal service (Chicago Mercantile Exchange, Internet Marketing, 30 S. Wacker Drive, 9-North, Chicago, Illinois 60606). Please be aware that we may periodically update or revise this Statement. Please check our Privacy Statement frequently for changes. 
+If you are not comfortable with any of the terms or policies described in this Statement, we ask that you discontinue use of our site and encourage you to send confidential correspondence through the postal service (Chicago Mercantile Exchange, Internet Marketing, 20 South Wacker Drive, Chicago, Illinois 60606). Please be aware that we may periodically update or revise this Statement. Please check our Privacy Statement frequently for changes. 
 
 **Personal, Financial and Product Information  
 ** We collect personally identifiable information in order to identify and register you as a CME customer. In addition, we collect personal, financial and product information in order to provide you with services tailored to your particular needs. By learning a little about you, CME can deliver more relevant content and product offerings and thus offer you better services. 
@@ -59,13 +59,13 @@ In order to better serve your particular needs, CME and certain companies workin
 
 When we share personal information with companies working on CME's behalf, we generally protect that personal information with a confidentiality agreement. In addition, we may, as permitted by law, provide information about you without your permission to certain persons or organizations, such as: regulatory and law enforcement authorities; our affiliated companies. We may also disclose statistical information about the use of our Web site. 
 
-We may also give information about you, such as your name and address, to persons or organizations that may wish to provide you with information about their non-financial related products or services. These organizations may include affiliates of CME. If you do not want us to give information about you for this purpose, please contact us via e-mail or write to us at the Chicago Mercantile Exchange, Internet Marketing, 30 S. Wacker Drive, 9-North, Chicago, Illinois 60606. 
+We may also give information about you, such as your name and address, to persons or organizations that may wish to provide you with information about their non-financial related products or services. These organizations may include affiliates of CME. If you do not want us to give information about you for this purpose, please contact us via e-mail or write to us at the Chicago Mercantile Exchange, Internet Marketing, 20 South Wacker Drive, Chicago, Illinois 60606. 
 
-Any information you submit to us via our online forms or e-mail is done so on a voluntary basis. When you access our site, the collection, use, and distribution of your information will be handled according to the terms and policies outlined in this Privacy Statement. If you object to the collection, use, and distribution policies outlined in this Privacy Statement, we ask that you do not submit information or access our site. We encourage you to send confidential correspondence via the postal service (Chicago Mercantile Exchange, Internet Marketing, 30 S. Wacker Drive, 9-North, Chicago, Illinois 60606). 
+Any information you submit to us via our online forms or e-mail is done so on a voluntary basis. When you access our site, the collection, use, and distribution of your information will be handled according to the terms and policies outlined in this Privacy Statement. If you object to the collection, use, and distribution policies outlined in this Privacy Statement, we ask that you do not submit information or access our site. We encourage you to send confidential correspondence via the postal service (Chicago Mercantile Exchange, Internet Marketing, 20 S. Wacker Drive, Chicago, Illinois 60606). 
 
-You may obtain from us by mail, the information about you in our files. If you believe the information we have about you in our records or files is incomplete or inaccurate, you may request via e-mail (or other form of communication) that we make any necessary additions or corrections or, to the extent that it is feasible, that we delete this information from our files. You may send such requests via e-mail or write to us at the Chicago Mercantile Exchange, Internet Marketing, 30 S. Wacker Drive, 9-North, Chicago, Illinois 60606. 
+You may obtain from us by mail, the information about you in our files. If you believe the information we have about you in our records or files is incomplete or inaccurate, you may request via e-mail (or other form of communication) that we make any necessary additions or corrections or, to the extent that it is feasible, that we delete this information from our files. You may send such requests via e-mail or write to us at the Chicago Mercantile Exchange, Internet Marketing, 20 South Wacker Drive, Chicago, Illinois 60606. 
 
-If you would like a description of the required procedures for reviewing and requesting correction of this information, or if you would like a more complete description of the persons to whom we disclose information about you, or the circumstances which might warrant such disclosures, please contact us via e-mail or write to us at the Chicago Mercantile Exchange, Internet Marketing, 30 S. Wacker Drive, 9-North, Chicago, Illinois 60606. 
+If you would like a description of the required procedures for reviewing and requesting correction of this information, or if you would like a more complete description of the persons to whom we disclose information about you, or the circumstances which might warrant such disclosures, please contact us via e-mail or write to us at the Chicago Mercantile Exchange, Internet Marketing, 20 South Wacker Drive, Chicago, Illinois 60606. 
 
 We use a secure server and security protocol to safeguard the information you submit.
 
@@ -89,7 +89,7 @@ We take seriously the issue of safeguarding your privacy online. However, please
 Questions  
 
 
-If you have any questions or comments regarding this Privacy Statement, please submit them via e-mail to [legalinfo@cme.com](mailto:legalinfo@cme.com) or write to us at the Chicago Mercantile Exchange, Internet Marketing, 30 S. Wacker Drive, 9-North, Chicago, Illinois 60606. 
+If you have any questions or comments regarding this Privacy Statement, please submit them via e-mail to [legalinfo@cme.com](mailto:legalinfo@cme.com) or write to us at the Chicago Mercantile Exchange, Internet Marketing, 20 South Wacker Drive, Chicago, Illinois 60606. 
 
 Copyright © 19__ - 2000 Chicago Mercantile Exchange Inc.. All rights reserved. Revised September 2000.
 
