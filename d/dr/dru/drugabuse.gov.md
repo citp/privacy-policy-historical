@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416022926id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugabuse.gov privacy policy that was archived on 2004-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041023042953id_/http%3A//www.drugabuse.gov/tools/Privacy.html) for the most accurate reproduction.*
 
 # NIDA - Privacy Notice
 
   
-|    
-  
+| 
+
 \- Information Collected and Stored Automatically  
 \- Personally Provided Information  
 \- Disclosure  
