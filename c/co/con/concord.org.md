@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206162357id_/http%3A//www.concord.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concord.org privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624034012id_/http%3A//www.concord.org/privacy.html) for the most accurate reproduction.*
 
 # Concord.org -> Privacy
 
-[Home](https://web.archive.org/ "Go to the Concord Conortium home page
+[Home](https://web.archive.org/?concord_session=f03b7b59684a07d982ba3d2677994ea5 "Go to the Concord Conortium home page
 ") >> **Privacy**
 
 ## Summary
