@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the ktvu.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010135554id_/http%3A//www.ktvu.com/station/1862830/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvu.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403210836id_/http%3A//www.ktvu.com/station/1862830/detail.html) for the most accurate reproduction.*
 
 # KTVU.com - KTVU - Privacy Policy
 
-Effective date: 1/2/03KTVU-TV respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by KTVU Partnership, d/b/a KTVU-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to: 
+Effective date: 1/2/03
+
+KTVU-TV respects the privacy of visitors to our site. This Privacy Policy governs the use and collection of information from you by KTVU Partnership, d/b/a KTVU-TV ("we" or "us") through your use of this site. This Privacy Policy does not apply to any information you may provide to us through other means; for example, at a live event, via mail, or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to: 
 
 Steve Patterson  
 Website Manager  
@@ -15,7 +17,9 @@ Oakland, CA 94607
 
 Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information. If you're under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). 
 
-**TYPES OF INFORMATION WE COLLECT** The information we gather falls into two categories: (1) information (for example, your name and address) that you voluntarily supply when you register or initiate transactions, and (2) information gathered on usage patterns and preferences as visitors navigate through our sites, use our services such as free email, or read our email newsletters. In some cases, it is an agent or affiliate of ours that collects the information on our behalf. Third party providers featured on or linked to by our site, such as vendors of products and services offered through our site, may be gathering the same kinds of information. 
+**TYPES OF INFORMATION WE COLLECT**
+
+The information we gather falls into two categories: (1) information (for example, your name and address) that you voluntarily supply when you register or initiate transactions, and (2) information gathered on usage patterns and preferences as visitors navigate through our sites, use our services such as free email, or read our email newsletters. In some cases, it is an agent or affiliate of ours that collects the information on our behalf. Third party providers featured on or linked to by our site, such as vendors of products and services offered through our site, may be gathering the same kinds of information. 
 
 **Registration Information.** To make use of certain features on our site (such as to receive email newsletters, or post a classified ad) visitors need to register and to provide certain information as part of the registration process. We may also ask for information from those who buy products or services or conduct other transactions on our site. (We may ask, for example, for your name, email address, sex, age, zip code or credit card number, and we might request information on your interest in sports, personal finance, the performing arts, and the like.) The information you supply will help us to offer you more personalized features, to tailor our site to your interests and make them more useful to you, and to process e-commerce transactions that may be made available on our site. 
 
@@ -72,7 +76,3 @@ All information gathered on our site is stored within a database operated by us 
 **CHANGES TO THIS PRIVACY POLICY**
 
 A final note: The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes before they take effect.
-
-  
-  
-
