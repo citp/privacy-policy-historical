@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621212411id_/http%3A//www.qrz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qrz.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205134200id_/http%3A//www.qrz.com/privacy.html) for the most accurate reproduction.*
 
-# QRZ.COM Ham Radio Callsign Server
+# 
 
 **QRZ.COM Privacy Policy**  
 
 
 QRZ, is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. We welcome all users to our site and want to insure that you are comfortable. We pledge that as we gather and use information about you, we do so responsibly. 
 
-> QRZ works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.fl ycast.com/about_us/about-privacy.html](http://www.flycast.com/about_us/about-privacy.html). 
+> This site, QRZ.COM, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy 
 
 **Consumer Information**
 
