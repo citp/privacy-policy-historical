@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marshall.edu privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207223904id_/http%3A//www.marshall.edu/www/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marshall.edu privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305001038id_/http%3A//www.marshall.edu/www/privacy.asp) for the most accurate reproduction.*
 
 # Marshall University Privacy Policy
 
