@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sungard.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207130217id_/http%3A//sungard.com/Company_Info/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sungard.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607030445id_/http%3A//www.sungard.com/Company_Info/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
