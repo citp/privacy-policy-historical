@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616171338id_/http%3A//www.westpac.co.nz/olcontent/olcontent.nsf/content/Your%2Bprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westpac.co.nz privacy policy that was archived on 2002-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020613130832id_/http%3A//www.westpac.co.nz/olcontent/olcontent.nsf/content/Your%2Bprivacy) for the most accurate reproduction.*
 
 # WestpacTrust Privacy statement
 
@@ -9,7 +9,7 @@ At WestpacTrust, we are commited to ensuring the privacy of your information. We
 
 The following statement has been developed in recognition that Internet technologies, and specifically WestpacTrust's application of these, are rapidly evolving. This statement addresses privacy issues relevant to the WestpacTrust website. 
 
-Should we change our website privacy statement for any reason, such changes will always be posted to this page. However, if you have any further questions relating to this privacy statement, please do not hestitate to [email us.](https://web.archive.org/web/20010616171338id_/http%3A//www.westpac.co.nz/olcontent/olcontent.nsf/content/Talktous)
+Should we change our website privacy statement for any reason, such changes will always be posted to this page. However, if you have any further questions relating to this privacy statement, please do not hestitate to [email us.](https://web.archive.org/web/20020613130832id_/http%3A//www.westpac.co.nz/olcontent/olcontent.nsf/content/Talktous)
 
 **Information we collect**  
 Our web server collects the following type of information: 
@@ -57,7 +57,7 @@ For example, when capturing customer information through our Online Banking serv
 Additionally, all stored customer information is protected from unauthorised access through the use of secure passwords, user log-ons and other security procedures.   
 | | **For more information ... ******  
 ---|---  
- | [Email us](http://www.westpactrust.co.nz/olcontent/olcontactus.nsf/content/talktous?opendocument), call in at your [local branch](https://web.archive.org/olcontent/olcontent.nsf/Content/Locate+us), or call us on 0800 400 600 ( 7am-11pm, 7 days a week).  
+ | [Email us](http://www.westpactrust.co.nz/olcontent/olcontent.nsf/content/talktous?opendocument), call in at your [local branch](https://web.archive.org/olcontent/olcontent.nsf/Content/Locate+us), or call us on 0800 400 600 ( 7am-11pm, 7 days a week).  
    
 Products referred to on this site are only offered to people in New Zealand.  
 The information appearing on this site is for preliminary and general information only and is not to be relied on as being complete, accurate and up to date, and it is subject to change. Full details of up to date terms and conditions, product information, charges and interest rates are available from any WestpacTrust branch in New Zealand. You can get a copy of the Bank's current disclosure statement and the investment statement relating to any WestpacTrust security, or any security offered by any other New Zealand member of the Westpac Group for which an investment statement is required from any WestpacTrust branch in New Zealand free of charge. All applications for finance are subject to WestpacTrust's applicable lending criteria.  
