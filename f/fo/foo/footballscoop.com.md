@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballscoop.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203173039id_/http%3A//www.footballscoop.com/z-privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballscoop.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607040507id_/http%3A//www.footballscoop.com/z-privacy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
