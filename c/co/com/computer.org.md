@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the computer.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603122206id_/http%3A//www.computer.org/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computer.org privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017131707id_/http%3A//www.computer.org/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Guidlines
 
 [](https://web.archive.org/)[](https://web.archive.org/toc.htm)[](https://web.archive.org/search.htm)[](https://web.archive.org/help.htm)[](https://web.archive.org/contact.htm)[](https://newton.computer.org/DocDelivery/Shopping.nsf/DisplayCart?OpenAgent)  
-
+[](http://www.computer.org/)
 
 ## IEEE Computer Society Privacy Guidelines 
 
