@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the adbutler.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206193000id_/http%3A//www.pollit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbutler.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330094500id_/http%3A//www.pollit.com/privacy) for the most accurate reproduction.*
 
 # Pollit.com - Privacy Policy
 
-| |  **Privacy Policy**  
----  
   
 |    
 **Pollit.com’s privacy policy**  
@@ -89,10 +87,7 @@
 ****3rd party sites that Pollit.com works with****  
   
 ---  
- | Pollit.com - works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
-
-We have ads served onto our site by Advertising.com. To visit their privacy statement, please [Click Here](http://www.advertising.com/privacy/index.html).   
-  
+ | Pollit.com - works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.   
   
 ****Your comments/how to reach us****  
   
