@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203012955id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610213556id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -15,6 +15,8 @@ DirectX
 ActiveDVD  
   
 ActiveMac  
+  
+Downloads  
   
 Forums  
   
@@ -45,8 +47,6 @@ Windows/Microsoft
 DVD  
   
 Apple/Mac  
-  
-Hardware  
   
 Xbox  
   
@@ -92,7 +92,7 @@ FAQ
   
 Links  
   
-Tips  
+TopTechTips  
   
 ** FAQ's**  
   
@@ -118,7 +118,7 @@ DirectX
   
 DVD's  
   
-** Tips & Tricks**  
+** TopTechTips**  
   
 Registry Tips  
   
@@ -126,11 +126,7 @@ Windows 95/98
   
 Windows 2000  
   
-Internet Explorer 4  
-  
 Internet Explorer 5  
-  
-Windows NT Tips  
   
 Program Tips  
   
@@ -158,37 +154,31 @@ News Archive
   
 Links  
   
-Easter Eggs  
-  
 Drivers  
   
 ** Latest Reviews**  
   
 **Games**  
   
-Asheron's Call: Fallen Kings  
-  
-The Thing  
+Halo (PC)  
   
 **Xbox**  
   
-Whacked!  
+Amped 2  
   
-James Bond: Nightfire  
+Rainbow 6: 3  
   
 **Applications**  
   
-MSN 8  
+JBuilder X Enterprise Edition  
   
-Adobe InDesign 2.0  
+Office 2003  
   
 **Hardware**  
   
-Microsoft Wireless Optical Desktop Pro  
+Apple iPod  
   
-Microsoft Wireless Optical Mouse Special Edition  
-  
-Microsoft Wireless Optical Desktop for Bluetooth  
+Logitech Quickcam Pro 4000  
   
 ** Site News/Info**  
   
@@ -215,11 +205,10 @@ Site Search
 Awards  
   
 ** Credits**  
-©1997/2003, Active Network, Inc. All Rights Reserved.  
-Layout, & Design by [Designer Dream](http://www.designerdream.co.uk/). Content written by the Active Network team. Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
+©1997/2004, Active Network, Inc. All Rights Reserved.  
+Layout, & Design by [ Designer Dream](http://www.designerdream.co.uk/). Content written by the Active Network team. Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
   
-[  
-](http://www.amazon.com/exec/obidos/redirect-home/activedvd-20)
+[ ](http://www.amazon.com/exec/obidos/redirect-home/activedvd-20)
 
   |  |   | 
 
