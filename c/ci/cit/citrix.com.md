@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citrix.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406004316id_/http%3A//citrix.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citrix.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203002525id_/http%3A//www.citrix.com/privacy.asp) for the most accurate reproduction.*
 
 # Citrix Systems, Inc. : Citrix Privacy Policy
 
@@ -16,7 +16,7 @@ Like many other commercial web sites, the Citrix web site may use a standard tec
 At times we may request that you voluntarily supply us with personal information, such as your e-mail address, for purposes such as corresponding with us, registering at a site, making a purchase, entering a sweepstakes, registering a new product, or participating in an online survey. 
 
 **Information Use**  
-When you supply Citrix with your personal information, we may use the information to to learn more about you so that we can develop better products and services or use the information, sharing it with our business partners, to inform you about new products, services and offers that may be of interest to you. 
+When you supply Citrix with your personal information, we may use the information to learn more about you so that we can develop better products and services or use the information, sharing it with our business partners, to inform you about new products, services and offers that may be of interest to you. 
 
 **Declining E-mail Offers**  
 Although most customers tell us they appreciate receiving notice of these opportunities, we recognize the importance of providing you with choices. At any time after receiving an e-mail offer from Citrix, you may request to discontinue receiving these offers. All e-mail offers that you receive from Citrix will tell you how to decline further e-mail offers. Our partners may have different policies. 
