@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603160743id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerdirect.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202205133id_/http%3A//www.tigerdirect.com/sectors/aboutus/privacy.asp) for the most accurate reproduction.*
 
-# TigerDirect.com
+# Privacy Policy at TigerDirect.com
 
 For more than 16 years, TigerDirect has developed relationships with our customers based on respect and integrity. We're aware of the of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history. 
 
 We will never share your email address , phone number or credit card information with any unrelated 3rd party except as necessary to fulfill transactions that you initiate.
 
-If you have any questions or concerns about our Privacy Notice, please call us toll-free at:1-800-800-8300; e-mail us at privacy@TigerDirect.com ; or send a letter to: TigerDirect Privacy Officer, 7795 West Flagler Street Suite #35; Miami, FL 33144
+If you have any questions or concerns about our Privacy Notice, please call us toll-free at **1-800-800-8300** ; e-mail us at privacy@TigerDirect.com ; or send a letter to: TigerDirect Privacy Officer, 7795 West Flagler Street Suite #35; Miami, FL 33144
 
 TigerDirect Privacy Notice 
 
@@ -58,4 +58,4 @@ TigerDirect has been in business for 16 years and is a wholly owned subsidiary o
 We employ the latest 128-bit encryption technology in all areas of the site which require you to provide your personal or account information, including online ordering, order status, catalog request and most contest forms. Your name, your personal information and especially your credit card number are safely stored in our proprietary systems behind our firewall. Once you type your personal information, it is sent instantly, encrypted, directly to our order processing system which is on a server separate from our internet server. To make sure you have the latest security features on your browser, you may want to download the most recent version of your favorite browser, which should have full SSL support.
 
 **Choice/Opt-Out:**  
-Our Web site gives you the opportunity to opt-out of receiving marketing communications from us. If you no longer wish to receive communications from us you may opt-out by calling 1-800-800-8300.
+Our Web site gives you the opportunity to opt-out of receiving marketing communications from us. If you no longer wish to receive communications from us you may opt-out by calling **1-800-800-8300**.
