@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktrh.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603213716id_/http%3A//ktrh.com/jacor-common/tou.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktrh.com privacy policy that was archived on 2002-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021016004051id_/http%3A//www.ktrh.com/jacor-common/tou.html) for the most accurate reproduction.*
 
 # NEWSRADIO 740 KTRH - Houston
 
@@ -132,5 +132,5 @@ This Clear Channel website is governed by and operated in accordance with the la
 * * *
 
 **[HOME](https://web.archive.org/main.html) | [PROMOTIONS](https://web.archive.org/street.html)  
-[LOCAL NEWS](https://web.archive.org/local.html) | [NATIONAL NEWS](https://web.archive.org/national.html) | [WEATHER](https://web.archive.org/weather.html) | [TRAFFIC](https://web.archive.org/traffic.html) | [SPORTS](https://web.archive.org/sports.html) | [YOUR MONEY](https://web.archive.org/business.html)  
-[ENTERTAINMENT NEWS](https://web.archive.org/entertainmentnews.html) | [LIVE AUDIO](https://web.archive.org/audio.html) | [CONTACT KTRH](https://web.archive.org/contact.html) | [PROGRAM SCHEDULE](https://web.archive.org/sked.html) **
+[LOCAL NEWS](https://web.archive.org/local.html) | [NATIONAL NEWS](https://web.archive.org/national.html) | [TRAFFIC](https://web.archive.org/traffic.html) | [SPORTS](https://web.archive.org/sports.html) | [YOUR MONEY](https://web.archive.org/business.html)  
+[ENTERTAINMENT NEWS](https://web.archive.org/entertainment.html) | [LIVE AUDIO](https://web.archive.org/audio.html) | [CONTACT KTRH](https://web.archive.org/contact.html) | [PROGRAM SCHEDULE](https://web.archive.org/sked.html) **
