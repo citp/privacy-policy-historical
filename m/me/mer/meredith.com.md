@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meredith.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622082500id_/http%3A//meredith.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meredith.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210092111id_/http%3A//www.meredith.com/privacy.html) for the most accurate reproduction.*
 
 # Meredith Corporation Online Privacy Statement
 
@@ -52,6 +52,8 @@ In addition, we may share some personal information (but not your email address)
 
 We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Visitor Agreement](http://www.bhg.com/terms.htm), or to protect the rights, property or safety of visitors to our sites, the public, or Meredith Corporation. As our business grows, we may buy or sell various assets. In the unlikely event that Meredith Corporation, substantially all of our assets, or one or more of our sites (or substantially all of its assets) is acquired by another company, information on our visitors would be among the transferred assets.
 
+ 
+
 **How to correct or update your information:**  
 Meredith Corporation believes strongly in providing you with the ability to access and edit the personal information that you have provided to us. To update the information retained about you please visit our [Member Services](http://www.bhg.com/members) area.
 
@@ -68,6 +70,8 @@ Meredith Corporation believes strongly in providing you with the ability to acce
 **Miscellaneous:**   
 The Internet is an evolving medium. If we need to change our Privacy Policy at some point in the future, we'll post the changes before they take effect. By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our [Visitor Agreement](http://www.bhg.com/terms.htm). Please read both carefully before using or registering with any of our sites.
 
-Copyright 2001 Meredith Corporation. All rights reserved.   
+**Copyright 2004 Meredith Corporation. All rights reserved.**
+
+**Effective date: July 1, 2004**  
   
 ---|---
