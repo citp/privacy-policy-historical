@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the dyndns.biz privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203042620id_/http%3A//www.dyndns.org/about/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyndns.biz privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617130013id_/http%3A//www.dyndns.org/about/legal/privacy.html) for the most accurate reproduction.*
 
 # DynDNS.org -- Legal -- Privacy Policy
 
-It is the policy of Dynamic DNS Network Services, LLC ("DynDNS") to protect and respect the privacy and personal information of its Members. Therefore, DynDNS will not monitor, edit, or disclose the contents of a Member's private communications or data to third parties unless required to do so by law or in the good faith belief that such action is necessary to:
+It is the policy of Dynamic Network Services, Inc. ("DynDNS") to protect and respect the privacy and personal information of its Members. Therefore, DynDNS will not monitor, edit, or disclose the contents of a Member's private communications or data to third parties unless required to do so by law or in the good faith belief that such action is necessary to:
 
   1. Conform to the edicts of the law or comply with legal processes served on DynDNS;
   2. Identify, contact or bring legal action to defend and protect the rights or property of DynDNS, its Members or anyone else;
   3. Act under exigent circumstances to protect the personal safety of its Members or the public;
-  4. Administer the system to maintain performance for its Members.
+  4. Administer the system to maintain performance for its Members;
+  5. Provide authenticated domain owners (registrant, administrative, or technical contacts) with contact information for the account which controls DNS for their domain.
 
 
 
-DynDNS will not give out personal information of its Members to advertisers, business partners, sponsors, and other third parties in any form other than aggregate usage data. 
+DynDNS will not give out personal information of its Members to advertisers, business partners, sponsors, and other third parties in any form other than aggregate usage data.
 
 Any financial data collected shall be stored in encrypted form, and will be made available for future transactions immediately upon request, and stored only for as long as required by applicable financial regulations.
 
