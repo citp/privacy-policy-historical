@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freewareweb.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024901id_/http%3A//www.freewareweb.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewareweb.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607180111id_/http%3A//freewareweb.com/privacy.shtml) for the most accurate reproduction.*
 
 # FreewareWeb -> Privacy Statement
 
-| | [](https://web.archive.org/cgi-bin/go.pl?http://media.fastclick.net/w/click.here?sid=3975&m=1&pageid=70)[](https://web.archive.org/adv.shtml)
+| | [](http://bsgyyfnyqgs.cd3400.directresponse.com/c/)[](https://web.archive.org/adv.shtml)
 
 ** Privacy Statement**
 
@@ -17,20 +17,20 @@ FreewareWeb does not sell, rent, loan, trade, or lease any personal information 
 
 FreewareWeb analyzes website logs to constantly improve the value of the materials available on website. Our website logs **are not personally identifiable** , and we make no attempt to link them with the individuals that actually browse the site.
 
-[](https://web.archive.org/cgi-bin/go.pl?btm4)[](https://web.archive.org/adv.shtml)
+[](http://bsgyyfnyqgs.cd3400.directresponse.com/c/)[](https://web.archive.org/adv.shtml)
 
 |    Advertisement  
 ---  
-| [](https://web.archive.org/cgi-bin/go.pl?ad2)| Access Your PC from Anywhere!  
-GoToMyPC allows you to securely access your PC from any Web browser. Access your email, transfer files, access your network, print remotely and more.  
-2 Minute setup! [Click Here To Try It for Free](https://web.archive.org/cgi-bin/go.pl?ad2)  
+| [](https://web.archive.org/cgi-bin/go.pl?glb)|  **Great Hosting at a Great Price!**  
+Get 60 GB Data Transfer, 2,000 MB webspace, 2,000 email accounts, FTP, Frontpage, SQL, PHP, Perl, SSI support, Web-based email, Live support and more.  
+[Try it with a FULL money back guarantee today!](https://web.archive.org/cgi-bin/go.pl?glb)  
 ---|---  
   
 
 
-[](http://ads15.bpath.com/url.cfm/ID=911&Page=4083&Ver=32&Pos=)
+[](http://ads15.bpath.com/url.cfm/ID=911&Page=7283&Ver=32&Pos=)
 
-   [Copyright Information & Disclaimer](https://web.archive.org/copyright.shtml), [Privacy Policy](https://web.archive.org/privacy.shtml) [AL](https://web.archive.org/alpha_freeware_ltr.shtml) [DL](https://web.archive.org/alpha_desktop_ltr.shtml) [A](https://web.archive.org/alpha_freeware_list.shtml) [D](https://web.archive.org/alpha_desktop_list.shtml) [Models](https://web.archive.org/modelsandcelebs.shtml) [TR](https://web.archive.org/smvtorrents.shtml)
+[Copyright Information & Disclaimer](https://web.archive.org/copyright.shtml), [Privacy Policy](https://web.archive.org/privacy.shtml) [AL](https://web.archive.org/alpha_freeware_ltr.shtml) [DL](https://web.archive.org/alpha_desktop_ltr.shtml) [A](https://web.archive.org/alpha_freeware_list.shtml) [D](https://web.archive.org/alpha_desktop_list.shtml) [Models](https://web.archive.org/modelsandcelebs.shtml) [TR](https://web.archive.org/smvtorrents.shtml)[2](https://web.archive.org/24torrents.shtml)[3](https://web.archive.org/aliastorrents.shtml)[G](https://web.archive.org/cgi-bin/ufm.cgi?t=1)[A](https://web.archive.org/cgi-bin/ufm.cgi?t=2)[3](https://web.archive.org/cgi-bin/ufm.cgi?t=3)[A](https://web.archive.org/cgi-bin/ufm.cgi?t=4)[5](https://web.archive.org/cgi-bin/ufm.cgi?t=5)[C](https://web.archive.org/cgi-bin/cheats.cgi)[D](https://web.archive.org/dvdxcopy.shtml)[n](https://web.archive.org/nickberg.shtml)[e](https://web.archive.org/cgi-bin/deskdb.cgi?ID=631) [b](https://web.archive.org/cgi-bin/deskdb.cgi?ID=622) [t](https://web.archive.org/cgi-bin/deskdb.cgi?ID=509) [a](https://web.archive.org/cgi-bin/deskdb.cgi?ID=574) [h](https://web.archive.org/cgi-bin/deskdb.cgi?ID=600) [s](https://web.archive.org/cgi-bin/deskdb.cgi?ID=609) [u](https://web.archive.org/cgi-bin/deskdb.cgi?ID=613) [s](https://web.archive.org/cgi-bin/deskdb.cgi?ID=612) [j](https://web.archive.org/cgi-bin/deskdb.cgi?ID=601) [j](https://web.archive.org/cgi-bin/deskdb.cgi?ID=517) [p](https://web.archive.org/cgi-bin/deskdb.cgi?ID=630) [t](https://web.archive.org/cgi-bin/deskdb.cgi?ID=435) [m](https://web.archive.org/cgi-bin/archive.cgi?ID=288) [n](https://web.archive.org/cgi-bin/archive.cgi?ID=1592) [k](https://web.archive.org/cgi-bin/deskdb.cgi?ID=638) [k](https://web.archive.org/cgi-bin/deskdb.cgi?ID=641) [a](https://web.archive.org/cgi-bin/deskdb.cgi?ID=642) [b](https://web.archive.org/cgi-bin/deskdb.cgi?ID=595) [j](https://web.archive.org/cgi-bin/deskdb.cgi?ID=560) [s](https://web.archive.org/cgi-bin/deskdb.cgi?ID=501) [s](https://web.archive.org/cgi-bin/deskdb.cgi?ID=656)
 
 | 
 
