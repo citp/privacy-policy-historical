@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the algebrahelp.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217001700id_/http%3A//algebrahelp.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the algebrahelp.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404224552id_/http%3A//algebrahelp.com/misc/siteinfo/privacypolicy.htm) for the most accurate reproduction.*
 
-# Algebra.help -- UNTITLED
+# Algebra.help -- Privacy Policy
 
 Privacy Statement for algebra.help
 
@@ -46,4 +46,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Algebra.Help jrmski @ algebrahelp.com
 
-You may also contact us through our [feedback page](https://web.archive.org/web/20001217001700id_/http%3A//algebrahelp.com/feedback.htm). 
+You may also contact us through our [feedback page](https://web.archive.org/misc/feedback/). 
