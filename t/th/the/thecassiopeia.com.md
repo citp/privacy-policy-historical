@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thecassiopeia.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406173438id_/http%3A//www.thecassiopeia.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecassiopeia.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023072937id_/http%3A//www.thecassiopeia.com/ppolicy.html) for the most accurate reproduction.*
 
-# Internet Business Consultants For the Third Millennium, always by YOUR side in all YOUR needs on the way to YOUR Success in YOUR Online Business
+# Privacy Policy For Internet Business Consultants For 3rd Millennium
 
   
 with respect to information gathered on their web pages. Such information is received by the above and the Partners. 
@@ -50,7 +50,7 @@ with respect to information gathered on their web pages. Such information is rec
 
   **How to Contact Us**
 
-  Should you have other questions or concerns about this privacy policy, please contact us at the [ Contact Us](http://the.2000pages.com/ContactUs.html) or email us ([ webmaster@thecassiopeia.com](mailto:webmaster@thecassiopeia.com)) 
+  Should you have other questions or concerns about this privacy policy, please contact us at the [ Contact Us](https://web.archive.org/Portal/ContactUs.html) or email us ([ webmaster@thecassiopeia.com](mailto:webmaster@thecassiopeia.com)) 
 
 **Email, Search, and Community Specific Terms and Conditions**
 
@@ -70,5 +70,5 @@ To find out more about how Advertising.com manages the privacy of information in
 
 In case you have any more questions on the topic, please email us at the above addresses.
 
-**Internet Business Consultants For the 3rd Millennium** [**Home**](http://the.2000pages.com/Home.html) [About Us](https://web.archive.org/AboutUs) [Privacy Policy](https://web.archive.org/ppolicy.html) [Contact Us](http://the.2000pages.com/ContactUs.html) [ Link To Us](https://web.archive.org/Guide/Links.html) **Copyright 2000-2001 ©© theCassiopeia.com All Rights Reserved**  
+**Internet Business Consultants For 3rd Millennium** [**Home**](https://web.archive.org/Portal/Home.html) [About Us](https://web.archive.org/AboutUs) [Privacy Policy](https://web.archive.org/ppolicy.html) [Contact Us](https://web.archive.org/Portal/ContactUs.html) [ Link To Us](https://web.archive.org/Guide/Links.html) **Copyright 2000-2001 ©©[ theCassiopeia.com](https://web.archive.org/) All Rights Reserved**  
 
