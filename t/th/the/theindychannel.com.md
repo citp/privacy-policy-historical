@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208222856id_/http%3A//www.theindychannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theindychannel.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308105258id_/http%3A//www.theindychannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheIndyChannel.com - News
-
-  
-
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.TheIndyChannel.com](http://www.theindychannel.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
 
@@ -64,6 +61,8 @@ Last Revised 11/03
 |   
 ---  
   
+Premium Weather
+
 [](http://theindychannel.premiumweather.com/info/?c=IBS-newstory-11-17-04)
 
 How will the weather affect you? Know for sure. Monitor storms, animate your forecast, create personal alerts! [Try it now! ](http://theindychannel.premiumweather.com/info/?c=IBS-newstory-11-17-04)or [Log in here.](http://theindychannel.premiumweather.com/)  
