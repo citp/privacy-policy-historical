@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204200130id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610193530id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
 
 # TIAS Privacy Statement
 
@@ -34,6 +34,8 @@ If you have received unwanted, unsolicited email sent via this system or purport
 TIAS strives to keep your personally identifiable information accurate.  If you wish to correct your information, you may correct it yourself by clicking [here](http://www.tias.com/mytias/) or by contacting us at [postmaster@tias.com](mailto:postmaster@tias.com?subject=Corrected%20Personal%20Information)  with corrected information.
 
 You can review and change your current mailing lists and personal information at any time by clicking [here](http://www.tias.com/mytias/).
+
+TIAS is committed to honoring your intellectual property rights. If you believe that these rights have been violated by any TIAS merchant, please contact us at [privacy@tias.com](mailto:privacy@tias.com?subject=Intellectual%20Property%20Ownership) and provide the details of the infringement.
 
 **Security**  
 TIAS is committed to ensuring the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. Read about why your [order data is secure](https://web.archive.org/other/data_protection.html) at TIAS.
