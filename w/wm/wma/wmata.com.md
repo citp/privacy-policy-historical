@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215191027id_/http%3A//www.wmata.com/about/datause.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622072625id_/http%3A//www.wmata.com/about/datause.cfm) for the most accurate reproduction.*
 
 # Metro privacy and data use policy
 
@@ -8,7 +8,7 @@ Metro respects your privacy. We collect personal data only if you buy from us on
 
 If you do not supply personal information for one of the purposes listed above, we make no attempt to identify you individually. Rather, we track only aggregate usage data to help us improve site content and organization. The policy details section below specifies what information we collect and how we use it.
 
-#### Policy details
+## Policy details
 
   * Information collected and stored automatically for each visit to the Web site
   * Cookies
@@ -58,7 +58,7 @@ Metro's Web site links to external sites for services provided by Metro contract
 
 We also provide links to selected sites unconnected to Metro, such as other area transit providers, and visitor centers, which we feel would be of benefit to you as transit riders. If you follow these links, you are leaving the Metro Web site and are subject to the privacy policies of those sites. 
 
-**Note that the links we provide to outside sites are offered for your convenience. Metro takes no responsibility for outside sites' content or policies.**
+_Note that the links we provide to outside sites are offered for your convenience. Metro takes no responsibility for outside sites' content or policies._
 
 **Copyright**
 
@@ -77,11 +77,10 @@ Metro diligently protects its intellectual property and will take all steps to p
 
 
 
-**Please note:  
-We are required to release personal information if it is subpoenaed by a court or grand jury. We may also provide statistics based on the information automatically collected from your visit to federal, state and city officials.**
+_Please note: We are required to release personal information if it is subpoenaed by a court or grand jury. We may also provide statistics based on theinformation automatically collected from your visit to federal, state and city officials._
 
-If you have any questions or concerns about our privacy policy, please [contact customer service](https://web.archive.org/web/20021215191027id_/http%3A//www.wmata.com/riding/ridercomment.cfm). 
+If you have any questions or concerns about our privacy policy, please [contact customer service](https://web.archive.org/riding/ridercomment.cfm). 
 
 | 
 
-[ ](https://web.archive.org/tile_rotator/redirect.cfm?BanID=3)
+[ ](https://web.archive.org/tile_rotator/redirect.cfm?BanID=37)
