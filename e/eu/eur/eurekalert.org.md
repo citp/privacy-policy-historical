@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218013027id_/http%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurekalert.org privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610080002id_/http%3A//www.eurekalert.org/privacy.php) for the most accurate reproduction.*
 
 # EurekAlert! Disclaimer
 
@@ -10,7 +10,7 @@ Please note that this policy applies only to the EurekAlert! site, and not to ot
 
 Inquiries about policies governing EurekAlert! should be forwarded to [webmaster@eurekalert.org](mailto:webmaster@eurekalert.org). 
 
-EurekAlert! is a public service project of the [American Association for the Advancement of Science](http://www.aaas.org/) in Washington, D.C., and is administered within the News & Information Office. 
+EurekAlert! is a public service project of the [American Association for the Advancement of Science](http://www.aaas.org/) in Washington, D.C., and is administered within the Office of Public Programs. 
 
   1. **Information Gathered by EurekAlert!**
 
