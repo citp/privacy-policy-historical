@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morningstar.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203044610id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morningstar.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602203722id_/http%3A//members.morningstar.com/memberstpages/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
