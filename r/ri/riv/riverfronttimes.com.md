@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the riverfronttimes.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206055617id_/http%3A//riverfronttimes.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverfronttimes.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606112331id_/http%3A//www.riverfronttimes.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Riverfront Times | riverfronttimes.com | About The Alternative St. Louis connection for events, event listings, music reviews, CD reviews, and all of the latest alternative news from the St. Louis area.
+# Riverfront Times | riverfronttimes.com | About |
 
 ****
 
