@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212004144id_/http%3A//www.crateandbarrel.com/assistance/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crateandbarrel.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605203622id_/http%3A//www.crateandbarrel.com/assistance/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Crate and Barrel: Assistance
-
-Last Updated: December 3rd, 2003 
 
 The front door to your home. Open, it invites and welcomes friends and family. Closed, it provides important privacy and security. 
 
@@ -42,10 +40,9 @@ The personal information we collect is primarily intended to offer better custom
 When you shop at a Crate and Barrel or CB2 store, order from our catalogues, or visit us online, it is also an opportunity for you to provide us with information and feedback that helps us continue to bring new ideas, unique products, and a creative approach to shopping for your home. 
 
 **Information Secure Under Lock And Key**  
-We take all reasonable steps to protect our customers' personal information against loss, misuse, and alteration. We use encryption technology whenever receiving and transferring your personal information on our site.
-
-When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact Crate and Barrel at 800-967-6696 to complete your purchase. 
-
+We take all reasonable steps to protect our customers' personal information against loss, misuse, and alteration. We use encryption technology whenever receiving and transferring your personal information on our site. |   
+---|---  
+When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact Crate and Barrel at 800-967-6696 to complete your purchase.   
   
 
 
@@ -105,3 +102,7 @@ Customer Service Department
 1860 W. Jefferson Avenue  
 Naperville, IL 60540-3918  
 
+
+* * *
+
+_Last Updated: December 3rd, 2003_
