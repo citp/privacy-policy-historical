@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the referralblast.com privacy policy that was archived on 2002-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021223043602id_/http%3A//referralblast.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralblast.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624043230id_/http%3A//www.referralblast.com/privacy.htm) for the most accurate reproduction.*
 
 # Referral Blast - Privacy Policy
 
