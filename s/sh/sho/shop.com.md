@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603232142id_/http%3A//amos.catalogcity.com/cc.class/cc%3Fmain%3Dccn_privacy%26ccsyn%3D260) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2003-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030901091107id_/http%3A//amos.catalogcity.com/cc.class/cc%3Fmain%3Dccn_privacy%26ccsyn%3D260) for the most accurate reproduction.*
 
 # Shop.com
 
