@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efax.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206185926id_/http%3A//www.efax.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efax.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621102923id_/http%3A//www.efax.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -123,4 +123,4 @@ If, however, we are going to use users' personally identifiable information in a
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at: [privacy@mail.j2.com](mailto:privacy@mail.j2.com).
 
-**© 2002 j2 Global Communications, Inc., all rights reserved.**
+**© 2003 j2 Global Communications, Inc., all rights reserved.**
