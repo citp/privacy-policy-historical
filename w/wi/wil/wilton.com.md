@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2003-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030201171314id_/http%3A//www.wilton.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilton.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203121242id_/http%3A//www.wilton.com/privacy.cfm) for the most accurate reproduction.*
 
-# Rowoco Division of Wilton Industries
+# Wilton
+
+_At Wilton, we are committed to protecting your privacy. We use the information we collect about you to process orders and to improve your Wilton Web site experience. Please read on for more details about our privacy policy._
 
 **Is it safe to make online purchases from Wilton?**  
 Yes. We have made data security a priority. When a purchase is made or when personal information is provided to us, we use Secure Sockets Layer (SSL) technology to ensure that your information is encrypted. This means that no one else can read it while it is being transmitted over the Internet. SSL is regarded as the industry standard among encryption technologies. It is among the best software available today for secure commerce transactions. 
@@ -17,4 +19,4 @@ If, for any reason, you would like to be taken off our email list, please email 
 **How will I know when Wilton changes its privacy policy?**  
 Our privacy policy is regularly reviewed to make sure we continue to serve the privacy interests of our customers. We reserve the right to change and update the privacy policy and these changes will be posted on our Web site. If we make a change to how we collect, store or share personally identifiable information we will update the Web site privacy policy accordingly. We encourage you to visit this page from time to time to ensure you are aware of any changes we may have made.
 
-This privacy policy was last modified on November 15, 2001.
+This privacy policy was last modified on November 15, 2001. 
