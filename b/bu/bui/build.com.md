@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2002-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020615125740id_/http%3A//www.build.com/bcom_pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208081556id_/http%3A//www.build.com/bcom_pp.shtml) for the most accurate reproduction.*
 
 # Build.com - Get Listed
 
@@ -6,8 +6,8 @@ Build.com has created this privacy policy in order to demonstrate our firm commi
 
 We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
-**Information Collection and Use  
-** Build.com does not collect any consumer information. 
+**Information Collection and Use**  
+Build.com does not collect any consumer information.
 
 **Links**  
 This site contains links to other sites. Build.com is not responsible for the privacy practices of the sites outside of Build.com.  
