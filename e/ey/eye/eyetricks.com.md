@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyetricks.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608204852id_/http%3A//www.eyetricks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyetricks.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207223517id_/http%3A//www.eyetricks.com/privacy.htm) for the most accurate reproduction.*
 
 # eyetricks Privacy Statement - Optical illusions from eyetricks.com.
 
@@ -16,7 +16,7 @@ BWH Ventures, LLC has created this privacy statement in order to demonstrate our
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
-This site contains links to other sites. **eyetricks.com** is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. **eyetricks.com** is not responsible for the privacy practices or the content of such Web sites. Certain links on this website are provided by Adtegrity.com, a third party. Please follow this link <http://www.adtegrity.com/privacy.asp> to view Adtegrity.com's Privacy Statement.
 
 We offer a newsletter to our visitors which is used to distribute information regarding our Web Site. We use contact data from our newsletter to send the user information about our company. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
 
@@ -50,10 +50,8 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Brad
 
 BWH Ventures, LLC 
-
-webmaster@eyetricks.com
