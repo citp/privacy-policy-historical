@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207215547id_/http%3A//www.handbag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handbag.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608173520id_/http%3A//handbag.com/privacy) for the most accurate reproduction.*
 
-# handbag.com : your privacy
+# handbag.com : About us
 
-**handbag.com limited's commitment to your privacy**  
-The principal activity of Handbag.com Limited ('Handbag') is owning and operating the web site www.handbag.com. Protecting your privacy and your personal data is an important aspect of the way we create, organise and implement our activities on and offline. Handbag's activities are also governed by the provisions of the Data Protection Act 1998, which you can access at http://www.hmso.gov.uk/acts/acts1998/19980029.htm#aofs. 
+The principal activity of Handbag.com Limited (Handbag) is owning and operating the web site www.handbag.com. Protecting your privacy and your personal data is an important aspect of the way we create, organise and implement our activities on and offline. Handbag's activities are also governed by the provisions of the Data Protection Act 1998, which you can access at http://www.hmso.gov.uk/acts/acts1998/19980029.htm 
 
 **Where this privacy policy applies**  
-This privacy policy only applies to Handbag's site http://www.handbag.com ('handbag.com'). It does not apply to sites or pages that are linked to handbag.com or, even though co-branded, provided by other providers. You will generally be able to tell whether this privacy policy applies as there will be a link to this privacy policy on that page of the site. By your use of handbag.com and/or the submission of personal information to us, you consent to the use of your personal information on and subject to the terms of this privacy policy. 
+This privacy policy only applies to Handbag's site http://www.handbag.com (handbag.com It does not apply to sites or pages that are linked to handbag.com or, even though co-branded, provided by other providers. You will generally be able to tell whether this privacy policy applies as there will be a link to this privacy policy on that page of the site. By your use of handbag.com and/or the submission of personal information to us, you consent to the use of your personal information on and subject to the terms of this privacy policy. 
 
-In particular, 'Discussion Groups', 'Chat', 'Funmail' and 'Free Email' features are provided by business partners of Handbag and are subject to the privacy policies found on those pages and sites. Any information which you choose to provide on a co-branded page or site or on any other site will be subject to the privacy policy that applies to that page or site. You should carefully read the privacy policies of those sites and pages. 
+In particular, Discussion Groups, Funmail and Free Email features are provided by business partners of Handbag and are subject to the privacy policies found on those pages and sites. Any information which you choose to provide on a co-branded page or site or on any other site will be subject to the privacy policy that applies to that page or site. You should carefully read the privacy policies of those sites and pages. 
 
 **Information we collect about handbag.com users**  
 Registration Information   
@@ -16,8 +15,8 @@ You can access handbag.com and browse through certain parts of handbag.com witho
 
 If you choose not to provide the information that is requested, you may not be able to use the service which is being offered or obtain the information you seek. Handbag may also collect information that you provide as part of registrations, orders, surveys, contests and promotions and other communications with us. Handbag will collect your personal information only with your knowledge and your consent. 
 
-Cookies  
-Handbag.com Limited uses “cookies” in order to track your visit to handbag.com. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. The use of cookies is an industry standard, and many websites use them to provide useful features for their customers. Most browsers are initially set to accept cookies. If you'd prefer, you can set your browser to refuse cookies. You should be aware that areas of certain websites (which may include handbag.com) will not operate properly if you do not accept the cookies sent by it (For example, in 'Horoscopes' you can select to always show your star sign first. If you do not accept cookies this selection can not be made.) 
+**Cookies**  
+Handbag.com Limited uses cookies in order to track your visit to handbag.com. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. The use of cookies is an industry standard, and many websites use them to provide useful features for their customers. Most browsers are initially set to accept cookies. If you'd prefer, you can set your browser to refuse cookies. You should be aware that areas of certain websites (which may include handbag.com) will not operate properly if you do not accept the cookies sent by it (For example, in Horoscopes you can select to always show your star sign first. If you do not accept cookies this selection can not be made.) 
 
 Additionally, Handbag may associate the information stored in a user's cookie with other personal data and information that the user has provided to Handbag. Advertisers and business partners that you access on or through handbag.com may also send you cookies. Handbag does not control these cookies. 
 
@@ -40,7 +39,7 @@ When users provide handbag.com with registration information such as name, email
 Handbag logs IP addresses for purposes of site administration and collecting aggregate information about the visitors to handbag.com. 
 
 **Who we share information with**  
-Generally, any personal information which you provide to Handbag on or through handbag.com will be collected and used by Handbag and its parents (The Boots Company PLC and Hollinger Telegraph New Media Holdings Limited) and members of their groups only. Where goods or services are offered on handbag.com (such as the 'Discussion Groups' 'Free Email', 'Funmail' and 'Chat' features) by a business partner Handbag does not control the use of your personal information that you may share with those business partners. that information will be subject to their privacy policies. 
+Generally, any personal information which you provide to Handbag on or through handbag.com will be collected and used by Handbag and its parents (The Boots Company PLC and Hollinger Telegraph New Media Holdings Limited) and members of their groups only. Where goods or services are offered on handbag.com (such as the Discussion Groups Free Email, Funmail and Chat features) by a business partner Handbag does not control the use of your personal information that you may share with those business partners. that information will be subject to their privacy policies. 
 
 Third parties may also need to process personal information about you when providing services to us and we may share any necessary data with them to enable them to do so. These third parties may be located in countries outside the European Union where an adequate level of protection for the rights and freedoms of data subjects exists. 
 
