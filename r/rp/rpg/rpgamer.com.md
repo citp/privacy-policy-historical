@@ -1,19 +1,8 @@
-> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2000-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001109085800id_/http%3A//www.efront.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331024005id_/http%3A//www.efront.com/privacy.shtml) for the most accurate reproduction.*
 
-# Welcome to eFront
+# eFront Privacy Policy
 
-[Company Overview](https://web.archive.org/web/20001109084500id_/http://www.efront.com/about.php)  
-[Corporate Offices](https://web.archive.org/web/20001109084500id_/http://www.efront.com/offices.php)  
-[Press Room](https://web.archive.org/web/20001109084500id_/http://www.efront.com/press.php)  
-[Strategic Partners](https://web.archive.org/web/20001109084500id_/http://www.efront.com/partners.php)  
-[Investor Relations](https://web.archive.org/web/20001109084500id_/http://www.efront.com/investors.php)  
-[Career Opportunities](https://web.archive.org/web/20001109084500id_/http://www.efront.com/careers.php)  
-[Advertising](https://web.archive.org/web/20001109084500id_/http://www.efront.com/advertising.php)  
-[Contact Us](https://web.archive.org/web/20001109084500id_/http://www.efront.com/contact.php)  
-[Management](https://web.archive.org/web/20001109084500id_/http://www.efront.com/management.php)  
-[Copyright Infringement](https://web.archive.org/web/20001109084500id_/http://www.efront.com/copyright.php)  
-[Terms of Use](https://web.archive.org/web/20001109084500id_/http://www.efront.com/terms.php)  
-[Privacy Policy](https://web.archive.org/web/20001109084500id_/http://www.efront.com/privacy.php) |  **Privacy Statement for eFront.com**   
+**Privacy Statement for eFront.com**   
 
 
 eFront Media, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: **eFront.com** and network sites. The eFront.com, and network Web sites ("sites") are operated by eFront Media, Inc., located in Costa Mesa, California. You can reach us with questions regarding this statement via e-mail at [privacy@efront.com](mailto:privacy@eFront.com). 
@@ -44,9 +33,13 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 This site gives children between the ages of 13 and 18 the ability to publicly post or distribute personally identifiable contact information without prior parental consent. Please take proper measures if you do not wish your child to have access to public forums and message boards. As always, exercise caution when deciding to disclose personal information in a public forum. 
 
-In order to comply with the new [COPPA ruling](http://www.cdt.org/legislation/105th/privacy/coppa.html), if you are younger than 13 years of age, you are forbidden from becoming a member of eFront or posting information on eFront message boards without direct parental consent. You may have your parent or guardian e-mail us at [permission@efront.com](mailto:permission@efront.com) to verify that you have been granted permission to use this site. 
+In order to comply with the new 
 
-**Choice/Opt-Out** Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
+[COPPA ruling](http://www.cdt.org/legislation/105th/privacy/coppa.html), if you are younger than 13 years of age, you are forbidden from becoming a member of eFront or posting information on eFront message boards without direct parental consent. You may have your parent or guardian e-mail us at [permission@efront.com](mailto:permission@efront.com) to verify that you have been granted permission to use this site. 
+
+**Choice/Opt-Out**
+
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
