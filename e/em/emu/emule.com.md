@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emule.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409154251id_/http%3A//emule.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emule.com privacy policy that was archived on 2001-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010812225338id_/http%3A//emule.com/privacy.htm) for the most accurate reproduction.*
 
 # privacy
 
