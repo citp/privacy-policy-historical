@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603062716id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametz.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019195146id_/http%3A//gametz.com/Privacy.html) for the most accurate reproduction.*
 
 # Game Trading Zone - Privacy
 
@@ -44,11 +44,8 @@ This site gives users the following options for changing and modifying informati
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact William Marrs Game Trading Zone bill@gametz.com A  
-D  
-| [](http://www.chipsbits.com/cgi-bin/order.cbi_home?source=82276&newpage=infopages/ROGUSPUOEP.IR.html)  
----|---  
-  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact William Marrs Game Trading Zone bill@gametz.com
+
   
 Copyright © 2000 William Marrs. All rights reserved.  
 [Take our Poll](http://38.148.250.3/cgi-win/client.exe?readers,welcome,ad5418a,2000) \- [Privacy Statement](https://web.archive.org/Privacy.html) \- [Advertising](https://web.archive.org/Advertising.html) \- [Subscribe](https://web.archive.org/Subscribe.html)
