@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404075557id_/http%3A//liveperson.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveperson.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801172027id_/http%3A//www.liveperson.com/help/privacy.asp) for the most accurate reproduction.*
 
 # live help software for support, customer service, sales with chat
 
