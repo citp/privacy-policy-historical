@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acoustica.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202231919id_/http%3A//www.acoustica.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acoustica.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611030843id_/http%3A//www.acoustica.com/company/privacy.htm) for the most accurate reproduction.*
 
 # Acoustica - Privacy Policy
 
@@ -6,9 +6,9 @@ Acoustica will never sell or give our customer or client information to third pa
 
 **What information do we collect? How do we use it?**
 
-_When ordering our software_ from any of our sites or partner sites, we collect the purchaser's name, email address, mailing address, phone number, credit card number, and expiration date. This allows us to process and fulfill orders and provide notification of the order status.   
+_When ordering our software_ from any of our sites or partner sites, we collect the purchaser's name, email address, mailing address, phone number, credit card number, and expiration date. This allows us to process and fulfill orders and provide notification of the order status.  
 
-_When downloading and installing our software,_ if you enter your email address we will send you a follow up email a few days later.  If you elected to be added to the company newsletter, you will be sent a confirmation signup email that will require you to reply to the message in order to be added to the newsletter.  If you wish to be removed from the newsletter at any time, [please go to this page.](https://web.archive.org/web/20031202231919id_/http%3A//www.acoustica.com/newsletter/unsubscribe.htm)  If you do not enter an email address, we log that an installation has been made so that we can track the number of installs.
+_When downloading and installing our software,_ if you enter your email address we will send you a follow up email a few days later.  If you elected to be added to the company newsletter, you will be sent a confirmation signup email that will require you to reply to the message in order to be added to the newsletter.  If you wish to be removed from the newsletter at any time, [please go to this page.](https://web.archive.org/web/20040611030843id_/http%3A//www.acoustica.com/newsletter/unsubscribe.htm)  If you do not enter an email address, we log that an installation has been made so that we can track the number of installs.
 
 **How do 3rd party credit card processors protect customer information?**
 
