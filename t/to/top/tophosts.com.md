@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211222135id_/http%3A//www.tophosts.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401131019id_/http%3A//www.tophosts.com/pages/privacy.html) for the most accurate reproduction.*
 
 # TopHosts.Com - The Complete Web Hosting Resource
 
@@ -77,16 +77,13 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 |  |  |   
 ---  
 [ ](https://web.archive.org/pages/top25/)  
+[](https://web.archive.org/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/795939013/Right/expert-sky-th/TopHosts_skyscraper_.com.gif/64316564656561313365383938666230)  
   
-[](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1578849835/TopRight/thsurvey-flash/winclie.html/64316564656561323364663762386330)
+[**Template Monster**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1641548718/Middle1/templatemonster-spons-th/New_Text_Document.txt/64316564656561313365383938666230)  
+•The largest website template provider in the world. Over 2500+ designs available for immediate download!
 
-[](https://web.archive.org/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/878750748/Right/datapipe-sky-th/datapipe_160X600.gif/64316564656561323364663762386330)  
-  
-[**WEB.com**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/964407737/Middle1/webcom-textlink-300102M1/webcom.txt/64316564656561323364663762386330)  
-•The most trusted name on the net! Free Domains and Setup!
+[**Digital Space**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1901715171/Middle2/digitalspace-featurelink-th/digitalspace-sponsorlink-th.html/64316564656561313365383938666230)  
+•$3/month / FREE setup, Free Trial, Webmail, Control Panel, JSP, MySQL, PHP
 
-[**Interland**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1444998034/Middle2/interland-sponsor-th/interland-sponsor-th.html/64316564656561323364663762386330)  
-•Get the BEST shared hosting - 3 months FREE, NO money down, NO setup fees!
-
-[ **EZpublishing**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/921742071/Middle3/ezpublishing-spon-th/ezpubspon.html/64316564656561323364663762386330)  
-•EZpublishing - Backend web hosting services. The key to private label is Automation.
+[ **ANhosts**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1777922676/Middle3/anhosts-sponsorlink-th/anhosts-sponsorlink-th.html/64316564656561313365383938666230)  
+•Hosting from $6.95/mth with 500 MB storage, 35 GB transfer and more
