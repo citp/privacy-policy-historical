@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamewinners.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607065132id_/http%3A//www.gamewinners.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamewinners.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204143256id_/http%3A//gamewinners.com/privacy.html) for the most accurate reproduction.*
 
 # Game Winners - Privacy Policy
 
