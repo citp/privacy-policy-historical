@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2000-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000503122332id_/http%3A//www.autoworld.com.my/Auto2000/helpfiles/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209114100id_/http%3A//www.autoworld.com.my/auto2000/helpfiles/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Autoweb Sdn Bhd
-
-Autoworld.com.my
 
 **_Autoweb Sdn Bhd Privacy Policy Statement_**
 
@@ -50,3 +48,33 @@ We rarely use your email address or your mailing address or phone number, except
 > **We do not sell, lease or share our email lists, or list of any other individually identifiable information to other parties.**
 
 This Privacy Policy is incorporated into and subject to the terms of the autoworld.com.my User Agreement.
+
+   
+---  
+| **Autoworld Auction**
+
+* * *
+
+[Home](http://www.autotrade.com.my/),  [Browse](http://www.autotrade.com.my/aw/list/automobile/br.asp?cat=RT.AM&DataAction=Apply),  [Search](http://www.autotrade.com.my/aw/list/automobile/searchfrm.asp?DataAction=Search&Cat=RT.AM),  [Sell](http://www.autotrade.com.my/Aw/Member/Item/Chooser.asp),  [Register](http://www.autotrade.com.my/Aw/Registration/Register.asp),  [My Account](http://www.autotrade.com.my/Aw/Member/),  [Help](http://www.autotrade.com.my/Aw/help/index.asp?name=help),  [Feedback](http://www.autotrade.com.my/Aw/Gen/Feedback.asp)
+
+[New Today](http://www.autotrade.com.my/aw/list/automobile/br.asp?Cat=RT.AM&DataAction=Apply&New=Y&SI=3),  [Closing Today](http://www.autotrade.com.my/aw/list/automobile/br.asp?Cat=RT.AM&DataAction=Apply&Closing=Y),  [Hot Items](http://www.autotrade.com.my/aw/list/automobile/br.asp?Cat=RT.AM&DataAction=Apply&Hits=100&SI=5),  [Suggest A Category](http://www.autotrade.com.my/Aw/Gen/Suggest.asp) ,  [Browse By State](http://www.autotrade.com.my/Aw/List/BrowseByState.asp)
+
+| **Autoworld.com.my**
+
+* * *
+
+[Home](http://www.autoworld.com.my/),  [Auction](http://www.autotrade.com.my/),  [Used Car](http://www.autoworld.com.my/auto2000/usedcar/usedcarhome.asp),  [Dealers](http://www.autoworld.com.my/auto2000/dealers/dealerhome.asp),  [Financing](https://www.ecloan.com.my/carloan/getloan.asp?client=autoworld),  [AAM](http://www.autoworld.com.my/aam/),  [Emzine](http://www.autotrade.com.my/emzine/),  [CarTalk](http://www.autotrade.com.my/iforum/forums/),  [Chinese](http://www.autoworld.com.my/auto2000/chinese/cdefault.asp)
+
+[Employment](http://www.autoworld.com.my/employment.asp)
+
+|  | **Related Links:**
+
+* * *
+
+[Hong Leong Finance Berhad](http://www.hongleongfinance.com.my/)  
+[Lelong.com.my](http://www.lelong.com.my/)  
+[EC Loan](https://www.ecloan.com.my/carloan/getloan.asp?client=autoworld)  
+[The SaxyClub](https://www.thesaxyclub.com.my/)  
+[Fragrance](https://www.fragrance.com.my/)  
+  
+  ©2000 Autoweb Sdn Bhd. All rights reserved. [Disclaimer](http://www.autoworld.com.my/auto2000/helpfiles/disclaimer.asp)   [Privacy Policy](http://www.autoworld.com.my/auto2000/helpfiles/privacy.asp)  Email: support@autoworld.com.my  Tel: 603-7722 2820 
