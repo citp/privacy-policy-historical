@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the consumersearch.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606101210id_/http%3A//www.consumersearch.com/www/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersearch.com privacy policy that was archived on 2002-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021126155431id_/http%3A//www.consumersearch.com/www/privacy.html) for the most accurate reproduction.*
 
 # Product Reviews and Reports by Consumer Search - ConsumerSearch.com
-
-  
-[](https://www.truste.org/validate/6899)
 
 ConsumerSearch Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the ConsumerSearch.com Web site. No third parties are involved in these practices. This document was last updated on Sept. 21, 2000. 
 
@@ -25,18 +22,18 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 **Choice/Opting Out**
 
-Whenever we request information or contact data from the user, we provide the opportunity to opt out of receiving communications from us. No business partners of ours are permitted to contact our users directly at this point. To remove your user information from our database or not receive further communication from our Web site, send e-mail to damonmcclure@consumersearch.com. 
+Whenever we request information or contact data from the user, we provide the opportunity to opt out of receiving communications from us. No business partners of ours are permitted to contact our users directly at this point. To remove your user information from our database or not receive further communication from our Web site, send e-mail to derekdrew@consumersearch.com. 
 
 **Correct/Update**
 
-This site gives users the following options for changing and modifying information previously provided. To correct or update your information, send e-mail to damonmcclure@consumersearch.com. 
+This site gives users the following options for changing and modifying information previously provided. To correct or update your information, send e-mail to derekdrew@consumersearch.com. 
 
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
-Damon McClure  
-ConsumerSearch Inc.  
-80 South St., 2nd Floor  
-New York, N.Y. 10038  
-damonmcclure@consumersearch.com 
+ConsumerSearch, Inc.  
+Attn: Derek Drew  
+5467 31st Street NW  
+Washington, DC 20015  
+derekdrew@consumersearch.com 
