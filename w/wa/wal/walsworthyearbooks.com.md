@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walsworthyearbooks.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606173441id_/http%3A//www.walsworthyearbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walsworthyearbooks.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211110528id_/http%3A//walsworthyearbooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
