@@ -1,60 +1,6 @@
-> *The following text is extracted and transformed from the wakeworld.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204010400id_/http%3A//www.wakeworld.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wakeworld.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602155835id_/http%3A//www.wakeworld.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # WakeWorld Privacy Policy
-
-   **[WakeWorld Home](https://web.archive.org/default.htm)**
-
-   **Equipment and**  
-   **Training**  
-    [Board Guide](https://web.archive.org/BoardGuide/)  
-    [Binding Guide](https://web.archive.org/Boots/)  
-    [Product Reviews](https://web.archive.org/Reviews/)  
-    [Fins](https://web.archive.org/Fins/)  
-    [Pylon Extensions](https://web.archive.org/Pylons/)  
-    [Bigger Wakes](https://web.archive.org/PhatterWakes/)  
-    [Frequently Asked Q's](https://web.archive.org/FAQ/)  
-    [Trick List](https://web.archive.org/TrickList/)  
-    [Training/Camps](https://web.archive.org/Training/)
-
-   **Events**  
-    [Pro Events](https://web.archive.org/TourDates.asp)  
-    [Pro Standings](https://web.archive.org/News/2000/StandingsWorldCup.asp)  
-    [TV Schedule](https://web.archive.org/TVSchedule.asp)  
-    [Boardstock](https://web.archive.org/Boardstock/)  
-
-
-   **Online Community**  
-    [Online Tournament](https://web.archive.org/Tourney/)  
-    [Discussion Board](https://web.archive.org/Discus)  
-    [Rider Link](https://web.archive.org/RiderLink/)  
-    [Classifieds](https://web.archive.org/Discus)  
-
-
-   **Features**  
-    [News, News, News](https://web.archive.org/News/)  
-    [Interviews](https://web.archive.org/Interviews/)  
-    [Contests](https://web.archive.org/Contests/)  
-    [Cool Links](https://web.archive.org/CoolLinks/)  
-    [Article Archives](https://web.archive.org/Articles/)  
-
-
-   **Other Stuff**  
-    [Take Our Survey](https://web.archive.org/Contests/SurveyForm.asp)  
-    [Get WakeWorld Gear](https://web.archive.org/Products/)  
-    [Advertise on WakeWorld](https://web.archive.org/Advertising.asp)  
-    [Submit a Press Release](mailto:News@WakeWorld.com?Subject=Press%20Release)  
-    [Submit Article or Photos](mailto:Articles@WakeWorld.com?Subject=Article/Photo%20Submission)  
-    [Terms of Use](https://web.archive.org/TermsOfUse.asp)  
-    [Privacy Policy](https://web.archive.org/PrivacyPolicy.asp)  
-    [Contact Us](mailto:Contact@WakeWorld.com)  
-
-
-  
-[](https://web.archive.org/Wake/)
-
-  
-[](https://web.archive.org/adredir.asp?url=/Sponsors/Redirects/BoardersParadiseButton2.htm&image=/Sponsors/Buttons/BoardersParadise2.gif) |  Visit our Sponsor by clicking on the banner below...    
-[](https://web.archive.org/adredir.asp?url=http://www.vvm.com/~mwiz/&image=/sponsors/Banners/Y2KpBanner.gif)
 
 ### _WakeWorld Privacy Policy_
 
