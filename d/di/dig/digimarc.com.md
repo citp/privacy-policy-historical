@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212141707id_/http%3A//digimarc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605060121id_/http%3A//digimarc.com/privacy.htm) for the most accurate reproduction.*
 
 # Digimarc | DIGIMARC'S PRIVACY STATEMENT
 
@@ -8,36 +8,19 @@
 ---  
 • | [Management Team](https://web.archive.org/about/mgt.htm)  
 • | [Corporate Investors](https://web.archive.org/about/corpinvest.htm)  
-• | [Events](https://web.archive.org/about/events.htm)  
 • | [Our Partners](https://web.archive.org/about/partners.htm)  
 • | [Case Studies & Whitepapers](https://web.archive.org/about/case_whitep.htm)  
   
-  
-**  
-[Technical Support](https://web.archive.org/support/index.htm)  
-  
-[Licensing](https://web.archive.org/licensing/index.htm)  
-  
-[News](https://web.archive.org/news/index.htm)  
-  
-[Our Partners](https://web.archive.org/about/partners.htm)  
-  
-[Employment](https://web.archive.org/employment/index.htm)  
-  
-[Contact Us](https://web.archive.org/contact/index.htm)  
-  
-[Home](https://web.archive.org/index.htm)  
-**  
-  
-[](https://web.archive.org/login.htm)  
   
 | 
 
 ### Digimarc Corporation Internet Privacy Policy
 
-[](https://www.truste.org/validate/10647) This confirms that Digimarc is a licensee of the TRUSTe Privacy Program. TRUSTe's certification is valid for Digimarc's website gathering and dissemination practices only and does not cover any software or services.
+Digimarc recently withdrew from participation in the [TRUSTe](http://www.truste.com/) program. Since this withdrawal, there has been no change to Digimarc's Privacy Policy and Digimarc remains committed to a Privacy Policy that provides users of the Digimarc web site assurance that their personal information is treated with the appropriate respect. For further information, please read the Privacy Policy below.
 
-If you have questions or concerns regarding this statement, you should first contact the webmaster by email at [webmaster@digimarc.com](mailto:webmaster@digimarc.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog_intro.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+\----------
+
+If you have questions or concerns regarding this statement, you should first contact the webmaster by email at [webmaster@digimarc.com](mailto:webmaster@digimarc.com).
 
 This statement discloses the privacy practices for the Digimarc.com website. You may provide Digimarc with information about yourself through two of Digimarc's offerings: the Digimarc MediaBridge Internet-Access System and the Digimarc Media Commerce Watermark Subscription Registration Program. This page discusses our privacy practices concerning each offering and then presents practices that apply to both. We also provide e-mail addresses and phone numbers to contact us concerning these offerings. 
 
@@ -60,7 +43,7 @@ We may send administrative type emails to you. As long as you are a registrant, 
 We run contests and promotions on our site in which we ask visitors for contact information (such as their email address). We use this information to contact the winners and to send visitors information about our company. Users may opt-out of receiving future mailings from digimarc.com; see the opt-out section below. Personal information on contest participants, including name, email, likeness, etc. are not disclosed on our web site, nor is said information distributed to third parties. Contestants should read the rules of each contest for more information.
 
 **Newsletter/Opt-Out**  
-You are given the opportunity to opt-out to receive e-mail regarding new products and features from Digimarc and promotional offers and information from our partners. If you no longer wish to receive promotional materials, you may opt-out of receiving these communications by contacting us at 503-495-4623 or [info@digimarc.com](mailto:info@digimarc.com).
+You are given the opportunity to opt-out to receive e-mail regarding new products and features from Digimarc and promotional offers and information from our partners. If you no longer wish to receive promotional materials, you may opt-out of receiving these communications by contacting us at 877-477-9992 or [info@digimarc.com](mailto:info@digimarc.com).
 
 **Security**  
 This web site takes precautions to protect our users' information. When you submit sensitive information via the web site, we endeavor to protect your information both online and off-line. When our registration/order form asks you to enter sensitive information (such as credit card number), that information is encrypted and is protected with encryption software known as Secure Sockets Layer. 
@@ -91,5 +74,5 @@ Personally Identifiable Information and/or Third Party Personally Identifiable I
 Digimarc reserves the right to change its privacy policy. If we change our privacy practices, the changes will not relate to previously collected data. If we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
 
 Copyright 2001, Digimarc Corporation, 19801 SW 72nd Avenue, Suite 100, Tualatin, Oregon 97062.  
-**PRIVACY POLICY UPDATED 07/03/2001**  
+**PRIVACY POLICY UPDATED 04/29/2002**  
 
