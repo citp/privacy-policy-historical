@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pta.gov.pk privacy policy that was archived on 2003-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030804160923id_/http%3A//www.pta.gov.pk/others/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pta.gov.pk privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604204803id_/http%3A//www.pta.gov.pk/others/pp.htm) for the most accurate reproduction.*
 
 # New Issues / Challenges - Pakistan Telecommunication Authority
 
