@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseweb.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607173715id_/http%3A//www.houseweb.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseweb.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120313id_/http%3A//www.houseweb.co.uk/privacy.html) for the most accurate reproduction.*
 
 # HouseWeb Terms of Use
 
@@ -50,7 +50,7 @@ Cambridge
 CB4 OWS  
 UK
 
-  3. You can fax us on (0870) 460 1290 
+  3. You can fax us on (0870) 432 1975 
   4. You can call Customer Services on (0845) 123 5181 (during office hours) 
 
 
