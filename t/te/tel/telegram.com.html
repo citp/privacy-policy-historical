@@ -1,486 +1,1089 @@
-<!--The following is the downloaded HTML source of the telegram.com privacy policy that was archived on 2002-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605184312id_/http%3A//www.telegram.com/tools/telegram/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the telegram.com privacy policy that was archived on 2002-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021208040520id_/http%3A//www.telegram.com/tools/telegram/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 
-  <title>Worcester Telegram &amp; Gazette Online</title>
-
-<title>Worcester Telegram &amp; Gazette Online</title><meta name="generator" content="BBEdit 5.0"><meta name="Description" content="Telegram.com is the number one news and information site in Central Massachusetts. Find out what is going on in 70 Worcester County communities - community affairs, sports, business, entertainment and much more!"><meta name="keywords" content="Tango, Worcester, Worcester County, Massachusetts, Central Massachusetts, newspapers, Worcester Telegram &amp; Gazette, Sunday Telegram, Telegram &amp; Gazette, local news"></head>
 
 
+		<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
 
 
 
-	
-
-	
-
-	
+		<title>Worcester Telegram &amp; Gazette</title>
 
 
 
 
 
-<body bgcolor="#003366" vlink="#6666FF" background="http://www.telegram.com/images/template/bkgrd3.gif" alink="#0099FF" link="#003399"><script language="JavaScript"><!--
 
-if (top.frames.length != 0) {
 
-top.location=self.document.location;
+		</head><body bgcolor="white" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" style="margin: 0" "="" link="#003399" background="http://www.telegram.com/images/bluebkrd.gif"><cascade>
 
- }
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<script language="JavaScript">
+<!-- Hide from older browsers
+var bites = document.cookie.split('; '); // break cookie into array of bites
 
-// -->
+function getCookie(name) 		// use: getCookie('name');
+{ 
+	for (var i=0; i < bites.length; i++) 
+	{
+		nextbite = bites[i].split('='); // break into name and value
+		if (nextbite[0] == name) // if name matches
+		return unescape(nextbite[1]); // return value
+    }
+    return null;
+}
 
+var today = new Date();
+var expiry = new Date(today.getTime() + 28 * 24 * 60 * 60 * 1000); // plus 28 days
+
+function setCookie(name, value) 	// use: setCookie('name', value);
+{ 
+	if (value != null && value != '')
+	{
+		document.cookie=name + '=' + escape(value) + '; expires=' + expiry.toGMTString();
+		bites = document.cookie.split('; '); // update cookie bites
+	}
+}
+
+// Stop Hiding -->
 </script>
 
-<table border="0" width="645" height="93" cellspacing="0" cellpadding="0">
+<script language="JavaScript">
+<!-- // Hide
+function ShowOrNo() 
+{ 
+	var CookieName = "hitCountf";
+	var hitCount = getCookie(CookieName)||1; 
+	if (hitCount == 1) 
+	{ 
+		open("http://www.telegram.com/tour/popup.html","asterisk","toolbar=no,width=600,height=450");
+	} 
+	hitCount++;
+	setCookie(CookieName, hitCount); 
+}
+-->
+</script>
+
+<!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
+<script language="JavaScript1.2">
+<!-- // Hide
+
+//http://www.twinhelix.com/dhtml/scripts/backup/popup_v23.html
+
+// *** CROSS-BROWSER COMPATIBILITY ***
+var isDOM = (document.getElementById ? true : false); 
+var isIE4 = ((document.all && !isDOM) ? true : false);
+var isNS4 = (document.layers ? true : false);
+var isDyn = (isDOM || isIE4 || isNS4);
+
+
+function getRef(id)
+{
+ return (isDOM ? document.getElementById(id) :
+  (isIE4 ? document.all[id] : document.layers[id]));
+}
+
+function getSty(id)
+{
+ return (isNS4 ? getRef(id) : getRef(id).style);
+} 
+
+// *** MOUSEOVER/OUT CONTROL FUNCTIONS ***
+
+// Hide timeout.
+var popTimer = 0;
+// Arrays holding highlighted menu items.
+var litNow = new Array();
+
+function popOver(menuNum, itemNum)
+{
+ clearTimeout(popTimer);
+
+ // Hide all other menus & dim old highlighted items, still showing this menu.
+ hideAllBut(menuNum);
+
+ // Get tree of parent menu items and light them up - global variable!
+ litNow = getTree(menuNum, itemNum);
+ changeCol(true);
+
+ // Get target menu to show - if it's nonzero, position & show it.
+ targetNum = menu[menuNum][itemNum].target;
+ if (targetNum > 0)
+ {
+  // Get current menu position - menu position plus item position in menu.
+  thisX = parseInt(menu[menuNum][0].ref.left) + parseInt(menu[menuNum][itemNum].ref.left);
+  thisY = parseInt(menu[menuNum][0].ref.top) + parseInt(menu[menuNum][itemNum].ref.top);
+
+  // Add those to the target's offset to set the target's position, show it.
+  with (menu[targetNum][0].ref)
+  {
+   left = thisX + menu[targetNum][0].x;
+   top = thisY + menu[targetNum][0].y;
+   visibility = 'visible';
+  }
+ }
+}
+
+function popOut(menuNum, itemNum)
+{
+ // If it's a root menu item that doesn't trigger a popout, hide now, else set timeout
+ // to hide all menus in 1/2 sec... remember, another mouseover clears the timeout.
+ if ((menuNum == 0) && !menu[menuNum][itemNum].target) hideAllBut(0);
+ else popTimer = setTimeout('hideAllBut(0)', 500);
+}
+
+function popClick(menuNum, itemNum)
+{
+ with (menu[menuNum][itemNum])
+ {
+  switch (type)
+  {
+   // A JavaScript function? Eval() it and break out of switch.
+   case 'js:': { eval(href); break }
+   // Otherwise, point to the window if nothing else and navigate.
+   case '': type = 'window';
+   default: if (href) eval(type + '.location.href = "' + href + '"');
+  }
+ }
+
+ // Whatever happens, hide the menus when clicked.
+ hideAllBut(0);
+}
+
+
+function getTree(menuNum, itemNum)
+{
+ // Array index is the menu number. The contents are null (if that menu is not a parent)
+ // or the item number in that menu that is an ancestor (to light it up).
+ itemArray = new Array(menu.length);
+
+ while(1)
+ {
+  itemArray[menuNum] = itemNum;
+  // If we've reached the top of the hierarchy, return.
+  if (menuNum == 0) break;
+  itemNum = menu[menuNum][0].parentItem;
+  menuNum = menu[menuNum][0].parentMenu;
+ }
+ return itemArray;
+}
+
+// Pass an array and a boolean to specify colour change, true = over colour.
+// N.B: Uses global litNow array which contains items in hierarchy.
+function changeCol(isOver)
+{
+ // Cycle through array searching for items to change.
+ for (count = 0; count < litNow.length; count++)
+ {
+  // If item number is present, change its colour.
+  if (litNow[count])
+  {
+   // Nest two WITH's, the last being more specific to allow item hover colours.
+   with (menu[count][0]) with (menu[count][litNow[count]])
+   {
+    newCol = isOver ? overCol : backCol;
+
+    // Change the colours of the div/layer background.
+    if (isNS4) ref.bgColor = newCol;
+    else ref.backgroundColor = newCol;
+   }
+  }
+ }
+}
+
+function hideAllBut(menuNum)
+{
+ // Get array of parent menus (item numbers irrelevant, just pass '1').
+ var keepMenus = getTree(menuNum, 1);
+
+ // ...and work through it, hiding menus that are not its ancestors/itself.
+ for (count = 0; count < menu.length; count++)
+  if (!keepMenus[count] && menu[count]) menu[count][0].ref.visibility = 'hidden';
+
+ // Dim all the items in litNow array.
+ changeCol(false);
+}
+
+// *** MENU ARRAY CONSTRUCTION FUNCTIONS ***
+
+// This is incredibly, incredibly cool. Really. It takes an array of data and names and
+// assigns the values to a specified object -- used to slim down the constructors here.
+function addProps(obj, data, names, addNull)
+{
+ for (i = 0; i < names.length; i++)
+  if(i < data.length || addNull) obj[names[i]] = data[i];
+}
+
+// Use above function to add our list of arguments to the menu array.
+function Menu()
+{
+ var names = ['isVert', 'popInd', 'x','y', 'width', 'pad', 'overCol', 'backCol',
+  'borderClass', 'textClass',      'parentMenu', 'parentItem', 'ref'];
+ addProps(this, arguments, names, true);
+}
+
+function Item()
+{
+ var names = ['text', 'href', 'type', 'length', 'spacing', 'target',    'ref'];
+ addProps(this, arguments, names, true);
+}
+
+// *** MAIN MENU SETUP FUNCTION ***
+
+function createMenus()
+{
+//ShowOrNo();
+ if (!isDyn) return;
+
+ // Loop through menus, using properties of menu description object, i.e. x, y, width etc...
+ for (currMenu = 0; currMenu < menu.length; currMenu++)
+ if (menu[currMenu]) with (menu[currMenu][0])
+ {
+  // Variable for holding HTML for items and positions of next item.
+  var str = '', itemX = 0, itemY = 0;
+
+  // In NS4, since borders are assigned to the table rather than layer, increase padding.
+  if (isNS4) pad++;
+
+  // Remember, items start from 1 in the array (0 is menu object itself, above).
+  // Also use properties of each item nested in the other with() for construction.
+  for (currItem = 1; currItem < menu[currMenu].length; currItem++) with (menu[currMenu][currItem])
+  {
+   var itemID = 'menu' + currMenu + 'item' + currItem;
+
+   // The width and height of the menu item - dependent on orientation!
+   // NS6 disagrees with other browsers as to whether borders increase widths, so fix here.
+   var shrink = (borderClass && isDOM && !document.all ? 2 : 0)
+   var w = (isVert ? width : length) - shrink;
+   var h = (isVert ? length : width) - shrink;
+
+   // Create a div or layer text string with appropriate styles/properties.
+   if (isDOM || isIE4)
+   {
+    str += '<div id="' + itemID + '" style="position: absolute; left: ' + itemX +
+     '; top: ' + itemY + '; width: ' + w + '; height: ' + h + '; visibility: inherit; ';
+    if (backCol) str += 'background: ' + backCol;
+    str += '" ';
+   }
+   if (isNS4)
+   {
+    str += '<layer id="' + itemID + '" left="' + itemX + '" top="' + itemY + '" width="' + 
+     w + '" height="' + h + '" visibility="inherit" ';
+    if (backCol) str += 'bgcolor="' + backCol + '" ';
+   }
+   if (borderClass) str += 'class="' + borderClass + '" ';
+   
+   // Add mouseover and click handlers and finish div/layer.
+   str += 'onMouseOver="popOver(' + currMenu + ',' + currItem + ')" onMouseOut="popOut(' +
+     currMenu + ',' + currItem + ')" onClick="popClick(' + currMenu + ',' + currItem + ')">';
+
+   // Add contents of item...
+
+   if (target > 0)
+   {
+    // Set target's parents to this menu item.
+    menu[target][0].parentMenu = currMenu;
+    menu[target][0].parentItem = currItem;
+
+    // Add a popout indicator - before text so it shows up below text in NS4.
+    if (popInd)
+    {
+     if (isNS4) str += '<layer class="' + textClass + '" left="'+ (w - 15) + '" top="' +
+      pad + '">' + popInd + '</layer>';
+     else str += '<div class="' + textClass + '" style="position: absolute; left: ' + (w - 15) +
+      '; top: ' + pad + '">' + popInd + '</div>';
+    }
+   }
+
+   // For NS4, if a border is assigned, add a spacer to push border out to layer edges.
+   // The text layer must completely overlay this table as well for proper click capturing.
+   // Add a link both to generate an onClick event and to stop the ugly I-beam text cursor appearing.
+   if (isNS4) str += (borderClass ? '<spacer type="block" width="' + (w - 8) + '" height="' +
+    (h - 8) + '">' : '') +
+    '<layer left="' + pad + '" top="' + pad + '" width="' + (w - (2 * pad)) + '" height="' +
+    (h - (2 * pad)) + '"><a class="' + textClass + '" href="#" ' +
+    'onClick="popClick(' + currMenu + ',' + currItem + '); return false" ' +
+    'onMouseOver="status=\'\'; return true;">' + text + '</a></layer>';
+
+   // IE4+/NS6 is an awful lot easier to work with sometimes.
+   else str += '<div class="' + textClass + '" style="position: absolute; left: ' + pad +
+    '; top: ' + pad + '; width: ' + (w - (2 * pad)) + '; height: ' + (h - (2 * pad)) +
+    '">' + text + '</div>';
+
+   // Finish off item.
+   str += (isNS4 ? '</layer>' : '</div>');
+
+   // Move next item position down or across by this item's length and additional spacing.
+   // Subtract 1 so borders overlap slightly.
+   if (isVert) itemY += length + spacing - 1;
+   else itemX += length + spacing - 1;
+
+  // End loop through items and with([menu[currMenu][currItem]).
+  }
+
+  // Now, write the menu to the document depending on browser capabilities.
+  // N.B: Still using properties of menu[currMenu][0] like 'ref' etc...
+   
+  // Insert a div tag to the end of the BODY with menu HTML in place for IE4+.
+  if (document.all)
+  {
+   // Give a small width and height to stop IE4 sizing to full body. Thanks to Jeff Blum
+   // for pointing this out. Also, thanks to Paul Maden for helping debug this, apparently
+   // the width must be a miniumum of 3 for it to work in IE4.
+   document.body.insertAdjacentHTML('beforeEnd', '<div id="menu' + currMenu + 'div" ' +
+    'style="position: absolute; width: 3; height: 3; visibility: hidden; z-index: 1000">' +
+     str + '</div>');
+   ref = getSty('menu' + currMenu + 'div');
+  }
+  // In NS6+ or other DOM but non-IE browsers, create a new DIV node and add text...
+  else if (isDOM)
+  {
+   var newDiv = document.createElement('div');
+   document.body.appendChild(newDiv);
+   newDiv.innerHTML = str;
+   ref = newDiv.style;
+    
+   ref.position = 'absolute';
+   ref.visibility = 'hidden';
+  }
+  // In NS4, create a reference to a new layer and write the items to it.
+  else if (isNS4)
+  {
+   ref = new Layer(0);
+   ref.document.write(str);
+   ref.document.close();
+  }
+
+  // Chuck some positions in here. Only really relevant for root menu.
+  ref.left = x;
+  ref.top = y;
+  // Set the default cursor for the menu to be the hand (or 'pointer' if you're the W3C or
+  // Mozilla Project and just trying to be difficult :)...
+  if (!isNS4) ref.cursor = (document.all ? 'hand' : 'pointer');
+  // IE has z-indices assigned already, IE4 doesn't like them done here for some reason.
+  if (!document.all) ref.zIndex = 1000;
+
+  // Now items have been written, loop through them again to set up references.
+  for (currItem = 1; currItem < menu[currMenu].length; currItem++)
+  {
+   itemName = 'menu' + currMenu + 'item' + currItem;
+   if (isDOM || isIE4) menu[currMenu][currItem].ref = getSty(itemName);
+   if (isNS4)
+   {
+    menu[currMenu][currItem].ref = ref.document[itemName];
+    // Also capture clicks on that item layer's document...
+    with (ref.document[itemName])
+    {
+     document.captureEvents(Event.CLICK);
+     document.onclick = new Function('popClick(' + currMenu + ', ' + currItem + ')');
+    }
+   }
+  }
+
+ // End loop through menus and with (menu[currMenu][0]).
+ }
+
+ // *** CENTRING FUNCTION ***  Uncomment this to centre menus.
+ //positionMenu()
+
+ // Show the root menu now that's all over. Phew!
+ menu[0][0].ref.visibility = 'visible';
+}
+
+var menu = new Array();
+
+// Default colours passed to most menu constructors (just passed to functions, not
+// a global variable - makes things easier to change later in bulk).
+var defOver = '#336699', defBack = '#003366';
+
+// Default 'length' of menu items - item height if menu is vertical, width if horizontal.
+var defLength = 20;
+var vertical_gap = 0;
+
+if ((navigator.appName.indexOf("Microsoft Internet Explorer") != -1) && 
+	(navigator.appVersion.indexOf("5.") != -1) &&
+	(navigator.userAgent.indexOf("Mac") != -1))
+{
+	var index_page_position = 138;
+	var non_index_page_position = 115;
+}
+else
+{
+	if ((navigator.appName.indexOf("Microsoft Internet Explorer") != -1) && 
+	(navigator.appVersion.indexOf("4.5") != -1) &&
+	(navigator.userAgent.indexOf("Mac") != -1))
+	{
+		var index_page_position = 141;
+		var non_index_page_position = 120;
+	}
+	else
+	{
+		var index_page_position = 140;
+		var non_index_page_position = 115;
+	}
+}
+var posTarget = document.URL.indexOf('www.telegram.com/index.html');
+
+if (location.href == "http://www.telegram.com/new/index.html" || 
+location.href == "http://www.telegram.com/new/" || 
+location.href == "http://www.telegram.com/new" || 
+location.href == "http://www.telegram.com/new/index2.html" || 
+location.href == "http://www.telegram.com/new/cty2.html" ||
+location.href == "http://www.telegram.com/index.html" ||
+location.href == "http://www.telegram.com/" ||
+location.href == "http://www.telegram.com" ||
+posTarget != -1
+)
+{
+	var pixels_from_top_of_page = index_page_position;
+}
+else
+{
+	var pixels_from_top_of_page = non_index_page_position;
+}
+	
+menu[0] = new Array();
+menu[0][0] = new Menu(true, '', 0, pixels_from_top_of_page, 100, 0,'#0099cc', defOver, '', 'itemText');
+menu[0][1] = new Item('  Home', 'http://www.telegram.com/index.html', '', defLength, vertical_gap, 0);
+menu[0][2] = new Item('&nbsp;&nbsp;News', 'http://www.telegram.com/news/zones.html', '', defLength, vertical_gap, 1);
+menu[0][3] = new Item('  Sports', 'http://www.telegram.com/sports/index.html', '', defLength, vertical_gap, 0);
+menu[0][4] = new Item('  Business', 'http://www.telegram.com/business/index.html', '', defLength, vertical_gap, 0);
+menu[0][5] = new Item('  Opinion', 'http://www.telegram.com/oped/index.html', '', defLength, vertical_gap, 2);
+menu[0][6] = new Item('  Features', 'http://www.telegram.com/features/index.html', '', defLength, vertical_gap, 3);
+menu[0][7] = new Item('  Home delivery', 'https://secure1.infi.net/telegram/secure/homedelivery/index.html', '', defLength, vertical_gap, 4);
+menu[0][8] = new Item('  Tools', 'http://www.telegram.com/tools/index.html', '', defLength, vertical_gap, 5);
+menu[0][9] = new Item('  Going out', 'http://www.eworcester.com/index.html', '', defLength, vertical_gap, 9);
+menu[0][10] = new Item('  Talk', 'http://talk.telegram.com/index.html', '', defLength, vertical_gap, 10);
+menu[0][11] = new Item('  Area info', 'http://www.telegram.com/tools/areainfo.html', '', defLength, vertical_gap, 11);
+menu[0][12] = new Item('  About us', 'http://www.telegram.com/tools/aboutus.html', '', defLength, vertical_gap, 6);
+menu[0][13] = new Item('  Subscriber links', 'http://www.telegram.com/tools/subscriberlinks.html', '', defLength, vertical_gap, 12);
+
+// Local News menu.
+menu[1] = new Array();
+menu[1][0] = new Menu(true, '>', 105, 2, 120, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[1][1] = new Item('Local news', '#', '', defLength, 1, 7);
+menu[1][2] = new Item('World/Regional', 'http://www.telegram.com/news/index.html', '', defLength, 0, 0);
+menu[1][3] = new Item('Obituaries', 'http://www.telegram.com/news/obits/index.html', '', defLength, 0, 0);
+menu[1][4] = new Item('Photo gallery', 'http://www.telegram.com/gallery/index.html', '', defLength, 0, 0);
+menu[1][5] = new Item('Court listings', 'http://www.telegram.com/news/court/index.html', '', defLength, 0, 0);
+menu[1][6] = new Item('Weather', 'http://www.weatherpoint.com/telegram/index.html', '', defLength, 0, 0);
+menu[1][7] = new Item('Public safety info', 'http://www.telegram.com/publicsafety/index.html', '', defLength, 0, 0);
+
+// Opinions menu.
+menu[2] = new Array();
+menu[2][0] = new Menu(true, '>', 105, 2, 150, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[2][1] = new Item('Editorial / OpEd / letters', 'http://www.telegram.com/oped/index.html', '', defLength, 0, 0);
+menu[2][2] = new Item('Columnists', 'http://www.telegram.com/columnists/index.html', '', defLength, 0, 0);
+menu[2][3] = new Item('Dianne Williamson', 'http://www.telegram.com/columnists/williamson/index.html', '', defLength, 0, 0);
+menu[2][4] = new Item('Cartoon', 'http://www.telegram.com/columnists/hitch/index.html', '', defLength, 0, 0);
+
+// Features menu.
+menu[3] = new Array();
+menu[3][0] = new Menu(true, '>', 105, 2, 150, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[3][1] = new Item('People & Entertainment', 'http://www.telegram.com/features/index.html', '', defLength, 0, 0);
+menu[3][2] = new Item('Food', 'http://www.telegram.com/features/food/index.html', '', defLength, 0, 0);
+menu[3][3] = new Item('Health', 'http://www.telegram.com/features/health/index.html', '', defLength, 0, 0);
+menu[3][4] = new Item('Travel', 'http://www.telegram.com/features/travel/index.html', '', defLength, 0, 0);
+menu[3][5] = new Item('Movies', 'http://cf.telegram.com/datebook/showtimes1.cfm', '', defLength, 0, 0);
+menu[3][6] = new Item('Events calendar', 'http://cf.telegram.com/events/events1.cfm', '', defLength, 0, 0);
+menu[3][7] = new Item('Announcements', 'http://www.telegram.com/weddings/index.html', '', defLength, 0, 0);
+menu[3][8] = new Item('Extra', 'http://www.telegram.com/extra/index.html', '', defLength, 0, 0);
+menu[3][9] = new Item('Comics', 'http://www.telegram.com/features/comics/index.html', '', defLength, 0, 0);
+menu[3][10] = new Item('TV listings', 'http://tvlistings.zap2it.com/partners/zipcode.asp?partner_id=mawote', '', defLength, 0, 0);
+
+// Home Delivery menu.
+menu[4] = new Array();
+menu[4][0] = new Menu(true, '>', 105, 2, 120, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[4][1] = new Item('Subscribe', 'https://secure1.infi.net/telegram/secure/homedelivery/new_subscribe.html', '', defLength, 0, 0);
+menu[4][2] = new Item('Renew', 'https://secure1.infi.net/telegram/secure/homedelivery/renew.html', '', defLength, 0, 0);
+menu[4][3] = new Item('Vacation stops', 'https://secure1.infi.net/telegram/secure/homedelivery/vacation.html', '', defLength, 0, 0);
+menu[4][4] = new Item('Billing changes', 'https://secure1.infi.net/telegram/secure/homedelivery/billing.html', '', defLength, 0, 0);
+menu[4][5] = new Item('Help page', 'https://secure1.infi.net/telegram/secure/homedelivery/deliveryprob.html', '', defLength, 0, 0);
+
+// Tools menu.
+menu[5] = new Array();
+menu[5][0] = new Menu(true, '>', 105, 2, 120, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[5][1] = new Item('FAQs', 'http://www.telegram.com/tools/faqs', '', defLength, 0, 0);
+menu[5][2] = new Item('Report a bug', 'http://www.telegram.com/tools/forms/bugline.html', '', defLength, 0, 0);
+menu[5][3] = new Item('Send a suggestion', 'http://www.telegram.com/tools/forms/feedback.html', '', defLength, 0, 0);
+menu[5][4] = new Item('Search the site', 'http://www.telegram.com/search-telegram/index.html', '', defLength, 0, 0);
+menu[5][5] = new Item('Site index', 'http://www.telegram.com/tools/siteindex.html', '', defLength, 0, 0);
+
+// About Us menu.
+menu[6] = new Array();
+menu[6][0] = new Menu(true, '>', 105, 2, 120, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[6][1] = new Item('Advertise online', 'http://www.telegram.com/advertising/index.html', '', defLength, 0, 0);
+menu[6][2] = new Item('Media Kit', 'http://www.telegram.com/mediakit/index.html', '', defLength, 0, 0);
+menu[6][3] = new Item('Contact us', 'http://www.telegram.com/tools/contacts/index.html', '', defLength, 0, 8);
+menu[6][4] = new Item('Privacy policy', 'http://www.telegram.com/tools/telegram/privacy.html', '', defLength, 0, 0);
+menu[6][5] = new Item('Copyright', 'http://www.telegram.com/tools/telegram/copyright.html', '', defLength, 0, 0);
+
+// Zones menu.
+menu[7] = new Array();
+menu[7][0] = new Menu(true, '>', 124, 2, 130, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[7][1] = new Item('Worcester / Wachusett', 'http://www.telegram.com/news/city/index.html', '', defLength, 0, 0);
+menu[7][2] = new Item('North', 'http://www.telegram.com/news/north/index.html', '', defLength, 0, 0);
+menu[7][3] = new Item('South', 'http://www.telegram.com/news/south/index.html', '', defLength, 0, 0);
+menu[7][4] = new Item('East', 'http://www.telegram.com/news/east/index.html', '', defLength, 0, 0);
+menu[7][5] = new Item('West', 'http://www.telegram.com/news/west/index.html', '', defLength, 0, 0);
+menu[7][6] = new Item('Blackstone Valley', 'http://www.telegram.com/news/valley/index.html', '', defLength, 0, 0);
+
+// Contact Us menu.
+menu[8] = new Array();
+menu[8][0] = new Menu(true, '>', 125, 2, 120, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[8][1] = new Item('General info', 'http://www.telegram.com/tools/contacts/index.html', '', defLength, 0, 0);
+menu[8][2] = new Item('Corporate', 'http://www.telegram.com/tools/contacts/corporate.html', '', defLength, 0, 0);
+menu[8][3] = new Item('Online', 'http://www.telegram.com/tools/contacts/eworcester.html', '', defLength, 0, 0);
+menu[8][4] = new Item('Marketing', 'http://www.telegram.com/tools/contacts/marketing.html', '', defLength, 0, 0);
+menu[8][5] = new Item('Advertising', 'http://www.telegram.com/tools/contacts/advertising.html', '', defLength, 0, 0);
+menu[8][6] = new Item('Circulation', 'http://www.telegram.com/tools/contacts/circulation.html', '', defLength, 0, 0);
+menu[8][7] = new Item('News', 'http://www.telegram.com/tools/contacts/newz.html', '', defLength, 0, 0);
+menu[8][8] = new Item('Business news', 'http://www.telegram.com/tools/contacts/biz.html', '', defLength, 0, 0);
+menu[8][9] = new Item('Sports', 'http://www.telegram.com/tools/contacts/sportz.html', '', defLength, 0, 0);
+menu[8][10] = new Item('Features', 'http://www.telegram.com/tools/contacts/feat.html', '', defLength, 0, 0);
+menu[8][11] = new Item('Editorial', 'http://www.telegram.com/tools/contacts/editorial.html', '', defLength, 0, 0);
+menu[8][12] = new Item('Photo', 'http://www.telegram.com/tools/contacts/photo.html', '', defLength, 0, 0);
+
+// Going out menu.
+menu[9] = new Array();
+menu[9][0] = new Menu(true, '>', 105, 2, 120, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[9][1] = new Item('Movie listings', 'http://cf.telegram.com/datebook/showtimes1.cfm', '', defLength, 0, 0);
+menu[9][2] = new Item('Dining', 'http://www.eworcester.com/food/index.html', '', defLength, 0, 0);
+menu[9][3] = new Item('Events calendar', 'http://cf.telegram.com/events/events1.cfm', '', defLength, 0, 0);
+menu[9][4] = new Item('Theater reviews', 'http://cf.telegram.com/theatre/theatreSearch1.cfm', '', defLength, 0, 0);
+menu[9][5] = new Item('More...', 'http://www.eworcester.com/index.html', '', defLength, 0, 0);
+
+// Talk menu.
+menu[10] = new Array();
+menu[10][0] = new Menu(true, '>', 105, 2, 120, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[10][1] = new Item('Current events', 'http://thediner.eworcester.com/webx/cgi-bin/WebX?13@@.ee6d06e', '', defLength, 0, 0);
+menu[10][2] = new Item('Talk of your town', 'http://thediner.eworcester.com/webx/cgi-bin/WebX?13@@.ee6d0a1', '', defLength, 0, 0);
+menu[10][3] = new Item('Sports Talk', 'http://thediner.eworcester.com/webx/cgi-bin/WebX?13@@.ee6d05e', '', defLength, 0, 0);
+menu[10][4] = new Item('Going out', 'http://thediner.eworcester.com/webx/cgi-bin/WebX?13@@.ee6d153', '', defLength, 0, 0);
+
+// Area info menu.
+menu[11] = new Array();
+menu[11][0] = new Menu(true, '>', 105, 2, 140, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[11][1] = new Item('City Hall cam', 'http://www.telegram.com/cams/index.html', '', defLength, 0, 0);
+menu[11][2] = new Item('Community profiles', 'http://cf.telegram.com/community/searchby1.cfm', '', defLength, 0, 0);
+menu[11][3] = new Item('Worcester facts', 'http://www.eworcester.com/community/facts.html', '', defLength, 0, 0);
+menu[11][4] = new Item('Meetings', 'http://cf.telegram.com/events/events2.cfm?date_range=SPECIFY&category=Meetings', '', defLength, 0, 0);
+menu[11][5] = new Item('Community sites', 'http://www.onthecommon.com/index.html', '', defLength, 0, 0);
+menu[11][6] = new Item('Community calendar', 'http://www.onthecommon.com/index.html', '', defLength, 0, 0);
+menu[11][7] = new Item('Weather', 'http://www.weatherpoint.com/eworcester/index.html', '', defLength, 0, 0);
+
+// Subscriber links menu.
+menu[12] = new Array();
+menu[12][0] = new Menu(true, '>', 105, 2, 100, 0, defOver, defBack, 'itemBorder', 'itemText');
+menu[12][1] = new Item('Tour of features', 'http://www.telegram.com/tour/index.html', '', defLength, 0, 0);
+menu[12][2] = new Item('Account center', 'https://home.telegram.com/clickshare/CSPLogin?CSTargetURL=/clickshare/cs-protected/UserRegistration/myhome.html', '', defLength, 0, 0);
+menu[12][3] = new Item('My.telegram.com', 'http://my.telegram.com', '', defLength, 0, 0);
+menu[12][4] = new Item('NewsRewind', 'http://www.telegram.com/newsrewind/newsrewind1.html', '', defLength, 0, 0);
+menu[12][5] = new Item('Live web cam', 'http://www.telegram.com/cams/index.html', '', defLength, 0, 0);
+menu[12][6] = new Item('Screen savers', 'http://www.telegram.com/screensavers', '', defLength, 0, 0);
+menu[12][7] = new Item('Log in', 'https://home.telegram.com/clickshare/cs-protected/UserRegistration/myhome.html', '', defLength, 0, 0);
+menu[12][8] = new Item('FAQs', 'https://home.telegram.com/faqs.html', '', defLength, 0, 0);
+
+window.onload = createMenus;
+window.onresize = resizeHandler;
+
+
+// *** OPTIONAL CODE FROM HERE DOWN ***
+
+// This handles the window resize bug in NS4, and optionally centres your menus. I suggest
+// leaving this here as otherwise when you resize NS4 horizontally menus are hidden.
+
+var popOldWidth = window.innerWidth;
+function resizeHandler()
+{
+ // If no menus have been created, nothing to do here...
+ if (!menu[0][0].ref) return;
+ 
+ if (isNS4 && popOldWidth != window.innerWidth) location.reload()
+
+ //positionMenu();
+}
+
+function positionMenu()
+{
+ // Uncomment these next lines to *** CENTRE/RIGHT ALIGN YOUR MENU ***
+ // You must uncomment the positionMenu() call in the resizeHandler() function right above, and
+ // also at the end of the createMenus() function above the menu[] array.
+ // Edit this expression to anything you want -- note the menu width is hard-coded :).
+
+ //var winWidth = (document.all ? document.body.clientWidth : window.innerWidth)
+ //menu[0][0].ref.left = (winWidth / 2) - 120;
+ 
+ // You can extend this code any way you want. Each menu or item has a 'ref' property that
+ // is a reference to its style object, so you can move/resize pretty much anything.
+}
+
+// Optional 'coloured item' object you can add to your menu array. Delete this if you aren't
+// using it, it's not necessary.
+
+// You can alter most constructors, shifting properties between the default Menu() and Item()
+// constructors, this is just an example. I built simple polymorphism into the menus beginning
+// with v2.1 by nesting with()'s, just make sure everything gets included at least once
+// somewhere. If in doubt, the script uses item properties over menu properties as they're more
+// specific. Good luck!
+
+function colItem()
+{
+ // If you want, add borderClass and textClass in here too. Make sure to add them as
+ // parameter to this function above! You can add most parameters of the 'menu' object
+ // used in writing menus to the document, such as popout indicators if you want.
+ // Alternatively, it could be simpler to just use a bit of JS: menu[x][y].popInd = '...';
+ // before creating the menus. Note: 'ref' isn't passed to the function.
+ var names = ['text', 'href', 'type', 'length', 'spacing', 'overCol', 'backCol', 'target',
+  'ref'];
+ addProps(this, arguments, names, true);
+}
+
+//alert(navigator.appName + '---' +navigator.appVersion);
+
+// End Hide -->
+</script>
+
+<style>
+<!--
+
+.itemBorder { border: 1px solid black }
+.itemText { text-decoration: none; color: #FFFFFF; font: 12px Arial, Helvetica, Verdana }
+
+.crazyBorder { border: 2px outset #663399 }
+.crazyText { text-decoration: none; color: #FFCC99; font: Bold 12px Arial, Helvetica, Verdana }
+
+-->
+</style>
+</cascade>
+
+
+
+<style>
+
+<!--
+
+
+
+.itemBorder { border: 1px solid black }
+
+.itemText { text-decoration: none; color: #FFFFFF; font: 12px Arial, Helvetica, Verdana }
+
+
+
+.crazyBorder { border: 2px outset #663399 }
+
+.crazyText { text-decoration: none; color: #FFCC99; font: Bold 12px Arial, Helvetica, Verdana }
+
+
+
+-->
+
+</style>
 
-	<tbody><tr>
 
-		<td width="144" align="right" valign="top"><a href="http://www.eworcester.com"><img src="http://www.telegram.com/images/template/eworcester_blue.gif" alt="eWorcester" width="144" height="93" border="0"></a></td><td width="501" valign="top" bgcolor="#006699"><br><center><script language="JavaScript1.1" src="http://ads.telegram.com/RealMedia/ads/adstream_jx.ads/www.telegram.com/news/page_one/@Top"></script></center></td></tr>
 
-</tbody></table><table border="0" cellspacing="0" cellpadding="0">
 
-<tbody><tr><td width="144" bgcolor="#006699" valign="top"><img src="http://www.telegram.com/images/template/corner_blue.gif" alt="" width="144" height="20" border="0"><br>
-
-<center><a href="https://secure1.infi.net/telegram/secure/homedelivery/new_subscribe.html" target="_blank"><img src="http://www.telegram.com/images/template/home_delivery.gif" alt="Home Delivery" width="120" height="36" border="0"></a><br><br>
-
-
-
-<font face="Arial,Helvetica,Verdana" size="1" color="#FFFFFF">Last updated:<br>
-
-10:59 AM EDT
-
-</font>
-
-										
-
-
-
-
-
-<table border="0" width="130" cellspacing="0" cellpadding="0">
-
-	<tbody><tr>
-
-		<td valign="top"><table border="0" width="128" cellspacing="2" cellpadding="2">
-
-	<tbody><tr>
-
-		<td valign="top">
-
-<form method="post" action="http://www.telegram.com/search-telegram/cgi-bin/search">
-
-										<input type="hidden" name="method" value="and"><input type="hidden" name="format" value="builtin-long"><input type="hidden" name="config" value="search"><font size="2" face="verdana,arial" color="#ccffff"><b>Site search:</b></font><br>
-
-										<input type="text" size="10" name="words"><input type="submit" value="Go!"><br><a href="http://www.telegram.com/search-telegram/index.html"><font size="1" face="verdana,arial" color="white">Advanced search</font></a>
-
-										</form><a href="http://www.telegram.com/archives/index.html"><font size="1" face="verdana,arial" color="white">Search our archives</font></a>
-
-		</td>
-
-	</tr>
-
-</tbody></table>
-
-<form name="MyForm">
-
-										<select name="select1" size="1" onchange="if (options[selectedIndex].value) 
-
-{ location = options[selectedIndex].value }">
-
-											<option value="http://www.telegram.com/">Quick links
-
-											</option><option value="">LOCAL NEWS
-
-											</option><option value="http://www.telegram.com/">&nbsp;Home
-
-											</option><option value="http://www.telegram.com/news/city/index.html">&nbsp;City
-
-											</option><option value="http://www.telegram.com/news/north/">&nbsp;North
-
-											</option><option value="http://www.telegram.com/news/south/">&nbsp;South
-
-											</option><option value="http://www.telegram.com/news/east/">&nbsp;East
-
-											</option><option value="http://www.telegram.com/news/west/">&nbsp;West
-
-											</option><option value="http://www.telegram.com/news/valley/">&nbsp;Valley
-
-											</option><option value="http://www.telegram.com/news/">&nbsp;Regional
-
-											</option><option value="http://www.telegram.com/news/court/">&nbsp;Court
-
-											</option><option value="http://www.telegram.com/business/index.html"> &nbsp;Business
-
-											</option><option value="http://www.telegram.com/sports/">&nbsp;Sports
-
-											
-
-											</option><option value="http://www.telegram.com/features/index.html">&nbsp;Features
-
-                                            </option><option value="http://www.telegram.com/gallery/index.html">&nbsp;Photos
-
-											</option><option value="http://www.telegram.com/news/obits/">&nbsp;Obituaries</option><option value="http://www.weatherpoint.com/telegram">&nbsp;Weather
-
-
-
-</option><option value="">ENTERTAINMENT
-
-											</option><option value="http://cf.telegram.com/events/events1.cfm">&nbsp;Events
-
-											</option><option value="http://cf.telegram.com/datebook/showtimes1.cfm">&nbsp;Movies
-
-											</option><option value="http://cf.telegram.com/dining/diningSearch1.cfm">&nbsp;Dining
-
-											</option><option value="http://tvlistings.zap2it.com/partners/zipcode.asp?partner_id=mawote">&nbsp;TV Listings
-
-											</option><option value="http://worcester.webfriends.com">&nbsp;Personals
-
-											</option><option value="">OPINION
-
-											</option><option value="http://www.telegram.com/oped/">&nbsp;Editorials
-
-											</option><option value="http://www.telegram.com/columnists/williamson/">&nbsp;Williamson
-
-											
-
-											</option><option value="http://www.telegram.com/columnists/hitch/index.html">&nbsp;Hitch
-
-
-
-											</option><option value="">HOME DELIVERY
-
-											</option><option value="http://www.telegram.com/homedelivery">&nbsp;Subscribe
-
-										</option></select>
-
-										</form>
-
-										
-
-										<table border="0" cellpadding="0" cellspacing="2" width="120">
-
-											<tbody><tr>
-
-												
-
-												<td><font face="Arial,Helvetica" size="3" color="#ccffff"><b>Local News</b></font><br>
-
-													<a href="http://www.telegram.com/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Home</font></a><br>
-
-													<a href="http://www.telegram.com/news/city/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Worcester/Wachusett</font></a><br>
-
-													<a href="http://www.telegram.com/news/north/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">North County</font></a><br>
-
-													<a href="http://www.telegram.com/news/south/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">South County</font></a><br>
-
-													<a href="http://www.telegram.com/news/east/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">East of Worcester</font></a><br>
-
-													<a href="http://www.telegram.com/news/west/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">West of Worcester</font></a><br>
-
-													<a href="http://www.telegram.com/news/valley/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Blackstone Valley</font></a><br>
-
-													<a href="http://www.telegram.com/news/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">World/Regional</font></a><br>
-
-													<a href="http://www.telegram.com/business/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Business</font></a><br>
-
-													<a href="http://www.telegram.com/sports/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Sports</font></a><br>
-
-													
-
-<a href="http://www.telegram.com/gallery/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Photo Gallery</font></a><br>
-
-
-
-
-
-													<a href="http://www.telegram.com/news/court"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Court</font></a><br>
-
-													<a href="http://www.telegram.com/news/obits"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Obituaries</font></a><br><a href="http://www.weatherpoint.com/telegram"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Weather</font></a><br>
-
-												</td>
-
-											</tr>
-
-										</tbody></table><br>
-
-										
-
-										
-
-										<table border="0" cellpadding="0" cellspacing="2" width="120">
-
-											<tbody><tr>
-
-												
-
-												<td><font face="Arial,Helvetica" size="3" color="#ccffff"><b>Features</b></font><br>
-
-													<a href="http://www.telegram.com/features/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">People/Entertainment</font></a><a href="http://www.telegram.com/features/food/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF"><br>
-
-													Food</font></a><font face="Verdana,Arial,Helvetica" size="1"><br>
-
-													</font><a href="http://www.telegram.com/features/health/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Health</font></a><font face="Verdana,Arial,Helvetica" size="1"><br>
-
-													</font><a href="http://www.telegram.com/features/travel/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Travel</font></a><font face="Verdana,Arial,Helvetica" size="1"><br>
-
-													</font><a href="http://www.telegram.com/weddings/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Weddings/Engagements</font></a><br></td>
-
-											</tr>
-
-										</tbody></table>	
 
 	
 
-										
 
-										<br>
 
-										<table border="0" cellpadding="0" cellspacing="2" width="120">
 
-											<tbody><tr>
 
-												
 
-												<td><font face="Arial,Helvetica" size="3" color="#ccffff"><b>Opinion</b></font><a href="http://www.telegram.com/oped/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF"><br>
 
-													Editorials</font></a><br>
+	
 
-													
 
-													<a href="http://www.telegram.com/letters/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">
 
-													Letters to the editor</font></a><br>
+		<table border="0" cellpadding="0" cellspacing="0">
 
-													<a href="http://www.telegram.com/columnists/williamson/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Dianne Williamson</font></a><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF"><br>
 
-													</font><a href="http://www.telegram.com/columnists/hitch/index.html" target="popup" onclick="window.open('','popup','width=600,height=600,scrollbars=yes')"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">David Hitch</font></a><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF"><br></font>
 
+			<tbody><tr>
 
 
-<a href="http://www.telegram.com/columnists/oflaherty/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Call to Duty</font></a><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF"><br></font>
 
+				<td bgcolor="#006699" colspan="2"><img height="19" width="463" src="http://www.telegram.com/images/interiortabs.gif" border="0" usemap="#interiortabsb8bcdbb8"><map name="interiortabsb8bcdbb8"><area href="http://www.cars.com/worcestr/" coords="420,3,458,14" shape="rect"><area href="http://www.worcesterworks.com/" coords="381,2,415,16" shape="rect"><area href="http://classifieds.telegram.com/osform/MVCCService?osform_template=/standard/Front.oft&amp;publication=telegram&amp;displayCount=10&amp;category=RealEstateRentals" coords="304,1,376,16" shape="rect"><area href="http://eworcester.switchboard.com/" coords="219,0,298,16" shape="rect"><area href="http://www.onthecommon.com/" coords="140,2,213,15" shape="rect"><area href="http://www.eworcester.com/" coords="53,2,136,16" shape="rect"><area href="http://www.telegram.com/index.html" coords="5,4,46,16" shape="rect"></map></td>
 
 
-<a href="http://www.telegram.com/columnists/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">All columns</font></a><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF"><br></font>
 
-</td>
+			</tr>
 
-											</tr>
 
-										</tbody></table><br>
 
+			<tr>
 
 
-<table border="0" cellpadding="0" cellspacing="2" width="120">
 
-<tbody><tr>
+				<td width="190" bgcolor="white"><img height="83" width="190" src="http://www.telegram.com/images/telegram_left.gif" border="0" usemap="#business_leftb8eaf211"><map name="business_leftb8eaf211"><area href="http://www.telegram.com/index.html" coords="50,7,150,30" shape="rect"></map></td>
 
-												
 
-<td>
 
+				<td valign="top" width="469" bgcolor="white">
 
 
-<font face="Arial,Helvetica" size="3" color="#ccffff"><b>Extra</b></font><br>
 
+					<center>
 
+						<!--AD BANNER GOES HERE
 
-<a href="http://www.telegram.com/extra/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Full List</font></a><br>
+--><script language="JavaScript1.1" src="http://ads.telegram.com/RealMedia/ads/adstream_jx.ads/www.telegram.com/news/city/@Top"></script>
 
-<a href="http://www.telegram.com/extra/housing/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Affordable Housing</font></a><br>
+<img src="http://www.telegram.com/images/telegramedition.gif" width="325" height="18" border="0"></center>
 
-<a href="http://www.telegram.com/extra/marathon/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Boston Marathon</font></a><br>
 
-<a href="http://www.telegram.com/business/bizreview2002/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Business Review</font></a><br>
 
-<a href="http://www.telegram.com/extra/bosnia/index.html"><font color="#ffffff" face="Verdana,Arial,Helvetica" size="1">Keeping the Peace</font></a><br>
+				</td>
 
-<a href="http://www.telegram.com/extra/visions/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Visions Awards</font></a><br>
 
-<a href="http://www.telegram.com/pathways/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Pathways to Progress</font></a><br>
 
-<a href="http://www.telegram.com/extra/pearlharbor/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Pearl Harbor 60th</font></a><br>
+			</tr>
 
-<a href="http://www.telegram.com/extra/terror/"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">America Under Attack</font></a><br>
 
-<a href="http://cf.telegram.com/community/searchby1.cfm"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Community Profiles</font></a><br>
 
-<a href="http://www.telegram.com/extra/ceo/index.html" target="_blank"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">What they earn</font></a><br>
+			<tr>
 
-<a href="http://www.telegram.com/fire"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Warehouse Tragedy</font></a><br>
 
 
+				<td colspan="2"><img src="http://www.telegram.com/images/bluefourpixel.gif" width="660" height="4"></td>
 
 
-</td>
 
-</tr>
+			</tr>
 
-</tbody></table>
 
-										<br>
 
-										<table border="0" cellpadding="0" cellspacing="2" width="120">
+		</tbody></table>
 
-											<tbody><tr>
 
-												
 
-												<td><font face="Arial,Helvetica" size="3" color="#ccffff"><b>Home Delivery</b></font><br>
+		<table width="830" border="0" cellpadding="0" cellspacing="0">
 
 
 
-<a href="https://secure1.infi.net/telegram/secure/homedelivery/new_subscribe.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Subscribe</font></a><br>
+			<tbody><tr>
 
 
 
+				<td width="100" valign="top" bgcolor="#0099cc">
 
 
-<a href="https://secure1.infi.net/telegram/secure/homedelivery/renew.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Renewal Payments</font></a><br>
 
+					<table border="0" width="100" cellspacing="0" cellpadding="0" bgcolor="#336699">
 
 
 
+						<tbody><tr>
 
-<a href="https://secure1.infi.net/telegram/secure/homedelivery/renew.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Vacation Stops </font></a><br>
 
 
+							<td valign="top" width="100"><img src="http://www.telegram.com/images/cornermenu.gif" width="100" height="12" border="0"></td>
 
 
 
-<a href="https://secure1.infi.net/telegram/secure/homedelivery/billing.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Billing Changes</font></a><br>
+						</tr>
 
 
 
+						<tr>
 
 
 
+							<td valign="top" width="100"><a href="http://www.telegram.com/index.html"><font size="1" face="verdana,arial,helvetica" color="white">News</font></a></td>
 
-<a href="https://secure1.infi.net/telegram/secure/homedelivery/deliveryprob.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Help Page</font></a><br> 
 
 
+						</tr>
 
-													<br>
 
-												</td>
 
-											</tr>
+						<tr>
 
-										</tbody></table>
 
-										<table border="0" cellpadding="0" cellspacing="2" width="120">
 
-											<tbody><tr>
+							<td valign="top" width="100"><a href="http://www.telegram.com/news/city/index.html"><font size="1" face="verdana,arial,helvetica" color="white">Worcester</font></a></td>
 
-												
 
-												<td><font face="Arial,Helvetica" size="3" color="#ccffff"><b>About Us</b></font><br>
 
+						</tr>
 
 
-<a href="http://www.eworcester.com/advertising/emarketspace.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">eMarketspace</font></a><br><a href="http://www.telegram.com/advertising/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Advertise online</font></a><br>
 
+						<tr>
 
 
-<a href="http://www.telegram.com/tools/contacts/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Contact us</font></a><br>
 
-													<a href="http://www.telegram.com/tools/telegram/privacy.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Privacy Policy</font></a><br>
+							<td valign="top" width="100"><a href="http://www.telegram.com/news/north/index.html"><font size="1" face="verdana,arial,helvetica" color="white">North</font></a></td>
 
 
 
-<a href="http://www.telegram.com/tools/telegram/copyright.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Copyright</font></a></td>
+						</tr>
 
-											</tr>
 
-										</tbody></table><br>
 
-										<table border="0" cellpadding="0" cellspacing="2" width="115">
+						<tr>
 
-											<tbody><tr>
 
-												
 
-												<td><font face="Arial,Helvetica" size="3" color="#ccffff"><b>Tools</b></font><br>
+							<td valign="top" width="100"><a href="http://www.telegram.com/news/south/index.html"><font size="1" face="verdana,arial,helvetica" color="white">South</font></a></td>
 
-													<a href="http://www.telegram.com/search-telegram/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Search site</font></a><br>
 
-													<a href="http://www.telegram.com/archives/index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Search archives</font></a><br>
 
-													<a href="http://www.telegram.com/tools/forms/bugline.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Report a bug </font></a><br>
+						</tr>
 
-													
 
-													<a href="http://www.telegram.com/tools/forms/feedback.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Feedback</font></a><br>
 
-													<a href="http://cgi.telegram.com/cgi-bin/birdcast.cgi"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">E-mail this page<br>
+						<tr>
 
-													</font></a><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF"><a href="http://www.eworcester.com/tools/site_index.html"><font face="Verdana,Arial,Helvetica" size="1" color="#FFFFFF">Site index</font></a><br>
 
-													</font><br>
 
-													</td>
+							<td valign="top" width="100"><a href="http://www.telegram.com/news/west/index.html"><font size="1" face="verdana,arial,helvetica" color="white">West</font></a></td>
 
-											</tr>
 
-										</tbody></table>
 
+						</tr>
 
 
-		</td>
 
-	</tr>
+						<tr>
 
-</tbody></table>
 
 
+							<td valign="top" width="100"><a href="http://www.telegram.com/news/east/index.html"><font size="1" face="verdana,arial,helvetica" color="white">East</font></a></td>
 
 
 
+						</tr>
 
 
-</center></td>
 
+						<tr>
 
 
-<td width="501" valign="top" bgcolor="#FFFFFF"><img height="23" width="501" src="http://www.telegram.com/images/template/newtelegramtab.gif" border="0" usemap="#newtelegramtabb7da0dd3"><map name="newtelegramtabb7da0dd3"><area href="http://www.cars.com/worcestr" coords="457,4,493,15" shape="rect"><area href="http://www.worcesterworks.com" coords="364,3,444,16" shape="rect"><area href="http://classifieds.telegram.com/" coords="299,2,356,17" shape="rect"><area href="http://eworcester.switchboard.com/" coords="216,3,293,16" shape="rect"><area href="http://www.onthecommon.com" coords="135,3,213,15" shape="rect"><area href="http://www.telegram.com" coords="74,2,126,18" shape="rect"><area href="http://www.eworcester.com" coords="7,3,66,17" shape="rect"></map>
 
+							<td valign="top" width="100"><a href="http://www.telegram.com/news/valley/index.html"><font size="1" face="verdana,arial,helvetica" color="white">Valley</font></a></td>
 
 
-<table border="0" width="501" cellspacing="0" cellpadding="0">
 
-	<tbody><tr>
+						</tr>
 
-		<td valign="top" bgcolor="#FFFFFF"><table border="0" cellpadding="2">
 
-	<tbody><tr>
 
-		<td width="255" valign="top" bgcolor="#FFFFFF">
+						<tr>
 
-<a href="http://www.telegram.com"><img src="http://www.telegram.com/images/template/telegram.gif" alt="" width="255" height="71" border="0"></a>
 
-		</td>		<td width="100" align="center" valign="top" bgcolor="#FFFFFF">
 
-											<!-- Vignette StoryServer 4 Wed Jun 05 11:41:15 2002 -->     <!-- BOF --><a href="http://www.weatherpoint.com/telegram" target="_parent"><img src="http://www.telegram.com/images/weather/cloudy.gif" alt="Overcast" width="60" height="35" border="0"></a><br><center><font size="1" face="Arial,Verdana"><ahref="http: www.weatherpoint.com="" telegram"="" target="_parent">Overcast<br>and <font face="arial, verdana" size="1" color="blue">65°<br></font>Worcester, Mass.<br></ahref="http:></font></center>
-<!-- This weather file was created by miles machine Wed Jun  5 14:40:02 2002 -->
+							<td valign="top" width="100"><a href="http://www.telegram.com/news/court/index.html"><font size="1" face="verdana,arial,helvetica" color="white">Court</font></a></td>
 
 
 
+						</tr>
 
-		</td>
 
-	</tr>
 
-</tbody></table><center><img src="http://www.telegram.com/images/template/wtg_online2.gif" alt="" width="354" height="18" border="0"></center>
+						<tr>
 
 
 
-<table border="0" width="355" cellspacing="2" cellpadding="2">
+							<td valign="top" width="100"><a href="http://www.telegram.com/news/obits/index.html"><font size="1" face="verdana,arial,helvetica" color="white">Obituaries</font></a></td>
 
-	<tbody><tr valign="top">
 
-		<td valign="top"><ezprint><!------ stories start here ---------->
+
+						</tr>
+
+
+
+						<tr>
+
+
+
+							<td valign="top" width="100"><a href="http://www.telegram.com/business/index.html"><font size="1" face="verdana,arial,helvetica" color="white">Business</font></a></td>
+
+
+
+						</tr>
+
+
+
+						<tr>
+
+
+
+							<td valign="top" width="100"><a href="http://www.telegram.com/sports/index.html"><font size="1" face="verdana,arial,helvetica" color="white">Sports</font><br>
+
+
+
+								</a></td>
+
+
+
+						</tr>
+
+
+
+						<tr>
+
+
+
+							<td valign="top" width="100"><a href="http://www.telegram.com/features/index.html"><font size="1" face="verdana,arial,helvetica" color="white">Features</font></a><br>
+
+
+
+							</td>
+
+
+
+						</tr>
+
+
+
+						<tr>
+
+
+
+							<td valign="top" width="100"><a href="https://secure1.infi.net/telegram/secure/homedelivery/new_subscribe.html"><font size="1" face="verdana,arial,helvetica" color="white">Home Delivery</font></a><br>
+
+
+
+								<br>
+
+
+
+							</td>
+
+
+
+						</tr>
+
+
+
+					
+
+
+
+				</tbody></table>
+
+
+
+				<br><br><br><br>
+
+
+
+				<!-- SEARCH BEGINS -->
+
+
+
+				<center>
+
+
+
+					<p>
+
+
+
+					</p><form method="post" action="http://www.telegram.com/search-telegram/cgi-bin/search">
+
+
+
+					<input type="hidden" name="method" value="and"><input type="hidden" name="format" value="builtin-long"><input type="hidden" name="config" value="search"><font size="1" face="verdana,arial" color="white">Site search:</font><br>
+
+
+
+					<input type="text" size="10" name="words"><br>
+
+
+
+					<input border="0" src="http://www.telegram.com/images/gobutton.gif" name="I6" type="IMAGE" width="21" height="21"><br>
+
+
+
+					<a href="http://www.telegram.com/search-telegram/index.html"><font size="1" face="verdana,arial" color="white">Advanced search</font></a>
+
+
+
+					</form>
+
+
+
+					<a href="http://www.telegram.com/archives/index.html"><font size="1" face="verdana,arial" color="white">Search archives</font></a><br>
+
+
+
+					<br>
+
+
+
+					<p></p>
+
+
+
+				</center><!-- SEARCH ENDS -->
+
+
+
+			</td>
+
+
+
+			<td width="1" bgcolor="black"><img src="http://www.telegram.com/images/clearpixel.gif" width="1" height="1"></td>
+
+
+
+			<td width="2" bgcolor="white"><img src="http://www.telegram.com/images/whitepixel.gif"></td>
+
+
+
+			<td width="399" valign="top" bgcolor="white"><font size="1" face="Verdana,Arial,Helvetica"><b><script language="JavaScript">
+
+<!--Hide from JavaScript-Impaired Browsers
+
+days_of_the_week = new
+
+Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+
+names_of_the_months = new
+
+Array("January","February","March","April","May","June","July","August","September","October","November","December");
+
+targetDate = new Date();
+
+var year = targetDate.getYear();
+
+if (year < 2000){year = year + 1900};
+
+var month = targetDate.getMonth();
+
+var day = targetDate.getDate();
+
+var day_of_week_num = targetDate.getDay();
+
+var day_of_week_nice = days_of_the_week[day_of_week_num];
+
+var month_nice = names_of_the_months[month];
+
+document.write(day_of_week_nice + " " + month_nice + " " + day + ", " +
+
+year);
+
+// END HIDING CONTENTS -->
+
+</script>Friday January 31, 2020</b></font>
+
+							
+
+<font face="Arial,Helvetica,Verdana" size="1">Last updated: 
+
+
+
+								09:09 AM EDT</font><br>
+
+		<!--CONTENT STARTS HERE-->
+
+		
 
 
 
@@ -574,301 +1177,275 @@ top.location=self.document.location;
 
 
 
+		
 
+	<center>
 
 
 
+					<p><!--BOTTOM LINKS START-->
 
+					
 
-<br><br>
+					<br><br>
 
-<font size="1" face="verdana,arial"><a href="http://www.eworcester.com">eWorcester</a> | 
 
-<a href="http://www.telegram.com">telegram</a> | 
 
-<a href="http://www.onthecommon.com/">On the Common</a>
+					<a href="http://www.telegram.com"><font size="1" color="#333399" face="verdana,arial">News</font></a><font size="1" color="#333399" face="verdana,arial"> | <a href="http://www.eworcester.com">Entertainment</a> | <a href="http://www.onthecommon.com/">Community</a><br>
 
-<br> 
 
 
+					<a href="http://eworcester.switchboard.com/">Yellow Pages</a> | <a href="http://classifieds.telegram.com">Classifieds</a> | <a href="http://thediner.eworcester.com/webx/cgi-bin/WebX">Talk</a> | <a href="http://worcester.webfriends.com/">Personals</a><br>
 
-<a href="http://eworcester.switchboard.com/">Yellow Pages</a> | 
 
-<a href="http://classifieds.telegram.com">Classifieds</a> | 
 
-<a href="http://thediner.eworcester.com/webx/cgi-bin/WebX">The Diner</a> | 
+					<a href="http://www.telegram.com/weather/">Weather</a> | <a href="http://www.telegram.com/tools/telegram/privacy.html">Privacy Policy</a> | <a href="http://www.telegram.com/tools/contacts/index.html">Contact us</a> </font></p>
 
-<a href="http://worcester.webfriends.com/">Personals</a>
 
-<br>
 
+					<p><a href="http://www.telegram.com/tools/telegram/copyright.html"><font size="1" color="#333399" face="verdana,arial">©2002</font></a><font size="1" color="#333399" face="verdana,arial"> Worcester Telegram &amp; Gazette Corp.<br>
 
 
-<a href="http://www.telegram.com/weather/">Weather</a> | 
 
-<a href="http://www.telegram.com/tools/telegram/privacy.html">Privacy Policy</a> | 
+					<br>
 
-<a href="http://www.telegram.com/tools/contacts/index.html">Contact us</a>
 
-</font>
 
-<p></p>
+					<a href="https://secure1.infi.net/telegram/secure/homedelivery/new_subscribe.html">Order the Telegram &amp; Gazette,<br>
 
-										
 
-<font size="1" color="#333399" face="verdana,arial"><a href="http://www.telegram.com/tools/telegram/copyright.html">©2002</a> Worcester Telegram &amp; Gazette Corp.
 
-</font><br><br>
+					delivered daily to your home or office!</a><br>
 
-										</font></center><font face="arial,helvetica,verdana" size="2">
 
 
+					</font></p></center>
 
 
 
+			</font></center></td>
 
 
 
+			<td width="2" bgcolor="white"><img src="http://www.telegram.com/images/whitepixel.gif"></td>
 
 
 
+			<td width="1" bgcolor="black"></td>
 
 
 
+			<td width="165" bgcolor="#f5f5f5" valign="top">
 
 
 
+				<center>
 
 
-		</font></ezprint></td>
 
-	</tr>
+					<br>
 
-</tbody></table>
 
 
+					<!---- RIGHT RAIL FOR ADVERTISING ----><script language="JavaScript1.1" src="http://ads.telegram.com/RealMedia/ads/adstream_jx.ads/www.telegram.com/news/city/@Right"></script><br><br>
 
 
 
+					<table border="0" width="155" cellspacing="1" cellpadding="0" bgcolor="#000099">
 
 
 
+						<tbody><tr>
 
 
 
+							<td valign="top" width="155">
 
 
-		</td>		<td width="3" valign="top" bgcolor="#FFFFFF">
 
-<img src="http://www.telegram.com/images/template/vert.gif" alt="" width="1" height="1500" border="0">
+								<table border="0" cellpadding="2" cellspacing="1" width="155" bgcolor="#d4eef4">
 
-		</td>		<td width="135" valign="top" bgcolor="#FFFFFF"><center><script language="JavaScript1.1" src="http://ads.telegram.com/RealMedia/ads/adstream_jx.ads/www.telegram.com/news/page_one/@Right1"></script><br><br>
 
 
+									<tbody><tr>
 
-<script language="JavaScript1.1" src="http://ads.telegram.com/RealMedia/ads/adstream_jx.ads/www.telegram.com/news/page_one/@Right2"></script>
 
-</center>
 
+										<td><font color="#000066" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="2"><b>Marketplace</b></font><br>
 
 
 
+											<a href="http://www.cars.com/worcestr"><font size="1" face="verdana,arial,helvetica">Cars</font></a><font size="1" face="verdana,arial,helvetica"><br>
 
-<p><table border="0" cellpadding="0" cellspacing="2" width="125">
 
-  <tbody>
 
-  <tr>
+											<a href="http://classifieds.telegram.com/osform/MVCCService?osform_template=/standard/Front.oft&amp;publication=telegram&amp;displayCount=10&amp;category=RealEstateRentals">Real Estate</a><br>
 
-    <td><font color="#000066" face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3"><b>Classifieds</b></font><a href="http://classifieds.telegram.com/"><font face="Verdana,Arial,Helvetica" size="1"><br>All ads</font></a><font face="Verdana,Arial,Helvetica" size="1"><br><a href="http://www.cars.com/worcestr">Cars</a> <br><a href="http://classifieds.telegram.com/osform/MVCCService?osform_template=/standard/Front.oft&amp;publication=telegram&amp;displayCount=10&amp;category=TransportationVehicles">All 
 
-      vehicles</a><br><a href="http://classifieds.telegram.com/osform/MVCCService?osform_template=/standard/Front.oft&amp;publication=telegram&amp;displayCount=10&amp;category=MerchandiseArticlesForSale">Marketplace</a><br><a href="http://classifieds.telegram.com/osform/MVCCService?osform_template=/standard/Front.oft&amp;publication=telegram&amp;displayCount=10&amp;category=RealEstateRentals">Real 
 
-      Estate</a><br><a href="http://classifieds.telegram.com/osform/MVCCService?osform_template=/standard/Front.oft&amp;publication=telegram&amp;displayCount=10&amp;category=EmploymentTrainingHelpWantedJobsCareers">Employment</a><br><a href="http://www.telegram.com/classifieds/classified.html">Place an ad</a> 
+											<a href="http://www.worcesterworks.com">WorcesterWorks</a><br>
 
-      </font>
 
-	 </td>
 
-   </tr>
+											<a href="http://classifieds.telegram.com/">Classifieds</a><br>
 
-   </tbody>
 
-</table>
 
-   
+											<a href="http://worcester.webfriends.com/">Personals</a><br>
 
-   
 
-   
 
+											<a href="http://www.telegram.com/classifieds/classified.html">Place an ad</a><br>
 
 
 
 
-</p><p><table border="0" cellpadding="0" cellspacing="2" width="125">
 
-													<tbody><tr>
+<a href="http://shopping.newspaperads.com/worcester/">T&amp;G advertisers</a>
 
-<td>
 
-<font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#000066"><b>WorcesterWorks</b></font><br>
 
+											<br>
 
 
-<a href="http://jobs.boston.com/texis/profile/newProfile.html?lookid=wtg"><font face="Verdana,Arial,Helvetica" size="1">My WorcesterWorks</font></a><font face="Verdana,Arial,Helvetica" size="1"><br>
 
+											</font>
 
 
-<a href="http://worcesterworks.boston.com/texis/js">Search for a
 
-job</a><br>
+										</td>
 
-														<a href="http://worcesterworks.boston.com/texis/rp?lookid=wtg&amp;new=1">Submit a resume</a>
 
-<br>
 
+									</tr>
 
 
-<a href="http://worcesterworks.boston.com/texis/ja/editAgent.html?lookid=wtg&amp;page=1&amp;view=2&amp;mode=Save">Create a job agent</a><br>
 
+								</tbody></table>
 
 
-<a href="http://worcesterworks.boston.com/texis/jm/jobPostForm.html&amp;jp=C">Post
 
-a job</a><br>															</font></td>
+							</td>
 
-												</tr>
 
 
+						</tr>
 
 
 
+					</tbody></table>
 
 
 
+					<br>
 
-											</tbody></table>
 
-											
 
-											</p><p><table border="0" cellpadding="0" cellspacing="2" width="125">
+					<br>
 
-												<tbody><tr>
 
-													
 
-													<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#000066"><b>Yellow Pages</b></font><br><font face="verdana,arial" size="1" color="#000066"><a href="http://www.switchboard.com/bin/cgidir.dll?MEM=38">Find a business</a><br><a href="http://www.switchboard.com/bin/cgiqa.dll?MEM=38">Find a person</a><br><a href="http://www.mapsonus.com/jump.cgi/refsrc=Telegram/usr=~new">Maps &amp; Directons</a></font><br>
+				</center>
 
-														
 
-														</td>
 
-												</tr>
+			</td><td width="172" valign="top"><table border="0" width="170" cellspacing="0" cellpadding="2" align="center" bgcolor="#FFFFFF">
 
-											</tbody></table>
+	<tbody><tr>
 
-											</p><p>
+		<td valign="top">
 
-												<table border="0" cellpadding="0" cellspacing="2" width="125">
+<img src="http://www.telegram.com/images/subscriberlinks.gif" width="155" height="28" border="0"><br><font size="1" face="verdana,arial,helvetica">
 
-													<tbody><tr>
+<img src="http://www.telegram.com/images/arrow.gif" width="7" height="10"><a href="#" onclick="OpenWindow(window.open('http://www.telegram.com/tour/','photo','width=600,height=450,scrollbars=yes,menubar=no'))">Tour of features</a><br>
 
-														
+<img src="http://www.telegram.com/images/arrow.gif" width="7" height="10"><a href="https://home.telegram.com/clickshare/cs-protected/UserRegistration/myhome.html">Account center</a><br>
 
-														<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#000066"><b>OntheCommon</b></font><br><a href="http://onthecommon.com"><font size="1" face="verdana,arial,helvetica">View community events</font></a><br>
+<img src="http://www.telegram.com/images/arrow.gif" width="7" height="10"><a href="https://home.telegram.com/clickshare/UserRegistration/cs-forgotpw.html">Forget/change password</a><br>
 
-<a href="http://onthecommon.com"><font size="1" face="verdana,arial,helvetica">Discover local groups</font><br>
+<img src="http://www.telegram.com/images/arrow.gif" width="7" height="10"><a href="http://my.telegram.com/">my.telegram.com</a><br>
 
-</a><a href="http://www.telegram.com/koz/form.html"><font size="1" face="verdana,arial,helvetica">Get your group listed</font></a><br>
+<img src="http://www.telegram.com/images/arrow.gif" width="7" height="10"><a href="http://www.telegram.com/newsrewind/newsrewind1.html">NewsRewind</a><br>
 
+<img src="http://www.telegram.com/images/arrow.gif" width="7" height="10" <a="" href="http://www.telegram.com/cams/"><a href="http://www.telegram.com/cams/">Live Web Cam</a><br>
 
+<img src="http://www.telegram.com/images/arrow.gif" width="7" height="10"><a href="http://www.telegram.com/screensavers/">Screensavers</a><br>
 
-</td>
+<img src="http://www.telegram.com/images/arrow.gif" width="7" height="10" <a="" href="http://www.telegram.com/cams/"><a href="https://home.telegram.com/clickshare/cs-protected/UserRegistration/myhome.ht&#10;&#10;ml">Log in</a><br><br><a href="http://my.telegram.com/"><img src="http://www.telegram.com/images/my_telegram_button.gif" width="157" height="43" border="0"></a><br><br><table border="0" width="150" cellspacing="0" cellpadding="1" align="center">
 
-													</tr>
+	<tbody><tr>
 
-												</tbody></table></p><p><table border="0" cellpadding="0" cellspacing="2" width="125">
+		<td valign="top">
 
-													<tbody><tr>
 
-														
 
-														<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#000066"><b>eWorcester</b></font><br>
+<script language="JavaScript">
 
-															<a href="http://www.eworcester.com/"><font face="Verdana,Arial,Helvetica" size="1">Home</font></a><br>
+<!--Hide from JavaScript-Impaired Browsers
 
-													<a href="http://cf.telegram.com/events/events1.cfm"><font face="Verdana,Arial,Helvetica" size="1">Events Calendar</font></a><a href="http://cf.telegram.com/datebook/showtimes1.cfm"><font face="Verdana,Arial,Helvetica" size="1"><br>
 
-													Movie Listings</font></a><font face="Verdana,Arial,Helvetica" size="1"><br>
 
-													</font><a href="http://cf.telegram.com/dining/diningSearch1.cfm"><font face="Verdana,Arial,Helvetica" size="1">Dining Reviews</font></a><font face="Verdana,Arial,Helvetica" size="1"><br>
+function load_page(passed_selectbox) 
 
-													</font><a href="http://tvlistings.zap2it.com/partners/index.asp?partner_id=mawote"><font face="Verdana,Arial,Helvetica" size="1">TV Listings</font></a><font face="Verdana,Arial,Helvetica" size="1"><br>
+{
 
-													</font><a href="http://relationshipnetwork.com/relnet/index02.asp?PortalId=50100&amp;client_id=2&#10;&#10;79"><font face="Verdana,Arial,Helvetica" size="1">Personals</font></a><font face="Verdana,Arial,Helvetica" size="1"><br><a href="http://cf.telegram.com/addurl/addurlSearch1.cfm"><font face="Verdana,Arial,Helvetica" size="1">Area web sites</font></a><font face="Verdana,Arial,Helvetica" size="1"><br>
+	location.href = passed_selectbox.options[passed_selectbox.selectedIndex].value;
 
-															<a href="http://www.eworcester.com/newsletters">Get a newsletter</a><br>
+}
 
-															</font></font></td>
 
-													</tr>
 
-												</tbody></table></p><p>
+document.write("<FORM NAME='NEWSREWIND'>");
 
-												
+document.write("<font size='2' COLOR='#000066' face='Arial,Helvetica'><b>NewsRewind</b><br></font>");
 
-												<table border="0" cellpadding="0" cellspacing="2" width="125">
+document.write("<SELECT name='NEWSREWIND' onChange='load_page(this)' size=1 style='font-size: 10px; font-family: verdana, geneva, arial; background-color: ##DCDCDC; color: ##000000' >");
 
-													<tbody><tr>
+document.write("<option value=''>Previous days' stories");
 
-														
+	
 
-														<td><font face="Arial,Helvetica,Geneva,Swiss,SunSans-Regular" size="3" color="#000066"><b>The Diner</b></font><br>
+days_of_the_week = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
 
-<a href="http://thediner.eworcester.com/webx/cgi-bin/WebX"><font face="Verdana,Arial,Helvetica" size="1">Join a discussion</font></a><font face="Verdana,Arial,Helvetica" size="1"><br>
+var oneMinute = 60 * 1000;
 
-															</font><a href="http://thediner.eworcester.com/webx/cgi-bin/WebX?18@161.g7uZaqoXbxq^0@14%40"><font face="Verdana,Arial,Helvetica" size="1">Register</font></a></td>
+var oneHour = oneMinute * 60;
 
-													</tr>
+var oneDay = oneHour *24;
 
-												</tbody></table><br><br>
+	
 
+for (var counter=1; counter<7; counter++) 
 
+{
 
+	targetDate = new Date();
 
+	dateInMs = targetDate.getTime();
 
+	dateInMs -= (oneDay * counter);
 
+	targetDate.setTime(dateInMs);
 
+	var year = targetDate.getYear();
 
+	var month = targetDate.getMonth();
 
+	var day = targetDate.getDate();
 
+	var day_of_week_num = targetDate.getDay();
 
-		</p></td>
+	var day_of_week_nice = days_of_the_week[day_of_week_num];
 
-	</tr>
+	document.write("<option value=http://www.telegram.com/newsrewind/newsrewind" + counter + ".html>" + day_of_week_nice + " " + month + "/" + day + "/" + year);
 
-</tbody></table><p></p><center><script language="JavaScript1.1" src="http://ads.telegram.com/RealMedia/ads/adstream_jx.ads/www.telegram.com/news/page_one/@Bottom"></script></center><br>
+}
 
+document.write("</SELECT></FORM>");
 
+// END HIDING CONTENTS -->
 
-
-
-
-
-</td>
-
-
-
-
-
-
-
-
-
-<td width="170" valign="top"><br><br><br><table border="0" width="159" cellpadding="2" cellspacing="2">
-
-</table>
+</script><form name="NEWSREWIND"><font size="2" color="#000066" face="Arial,Helvetica"><b>NewsRewind</b><br></font><select name="NEWSREWIND" onchange="load_page(this)" size="1" style="font-size: 10px; font-family: verdana, geneva, arial; background-color: ##DCDCDC; color: ##000000"><option value="">Previous days' stories</option><option value="http://www.telegram.com/newsrewind/newsrewind1.html">Thursday 0/30/120</option><option value="http://www.telegram.com/newsrewind/newsrewind2.html">Wednesday 0/29/120</option><option value="http://www.telegram.com/newsrewind/newsrewind3.html">Tuesday 0/28/120</option><option value="http://www.telegram.com/newsrewind/newsrewind4.html">Monday 0/27/120</option><option value="http://www.telegram.com/newsrewind/newsrewind5.html">Sunday 0/26/120</option><option value="http://www.telegram.com/newsrewind/newsrewind6.html">Saturday 0/25/120</option></select></form>
 
 		</td>
 
@@ -876,6 +1453,11 @@ a job</a><br>															</font></td>
 
 </tbody></table>
 
+</font></td>
+
+			</tr>
+
+	</tbody></table>
 
 
 
@@ -885,11 +1467,12 @@ a job</a><br>															</font></td>
 
 
 
+			</td></tr>
 
 
 
+	</tbody></table>
 
 
 
-
-</body></html>
+<div style="position: absolute; visibility: visible; left: 0px; top: 115px; cursor: pointer; z-index: 1000;"><div id="menu0item1" style="position: absolute; left: 0; top: 0; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,1)" onmouseout="popOut(0,1)" onclick="popClick(0,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; Home</div></div><div id="menu0item2" style="position: absolute; left: 0; top: 19; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,2)" onmouseout="popOut(0,2)" onclick="popClick(0,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp;&nbsp;News</div></div><div id="menu0item3" style="position: absolute; left: 0; top: 38; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,3)" onmouseout="popOut(0,3)" onclick="popClick(0,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; Sports</div></div><div id="menu0item4" style="position: absolute; left: 0; top: 57; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,4)" onmouseout="popOut(0,4)" onclick="popClick(0,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; Business</div></div><div id="menu0item5" style="position: absolute; left: 0; top: 76; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,5)" onmouseout="popOut(0,5)" onclick="popClick(0,5)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; Opinion</div></div><div id="menu0item6" style="position: absolute; left: 0; top: 95; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,6)" onmouseout="popOut(0,6)" onclick="popClick(0,6)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; Features</div></div><div id="menu0item7" style="position: absolute; left: 0; top: 114; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,7)" onmouseout="popOut(0,7)" onclick="popClick(0,7)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; Home delivery</div></div><div id="menu0item8" style="position: absolute; left: 0; top: 133; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,8)" onmouseout="popOut(0,8)" onclick="popClick(0,8)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; Tools</div></div><div id="menu0item9" style="position: absolute; left: 0; top: 152; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,9)" onmouseout="popOut(0,9)" onclick="popClick(0,9)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; Going out</div></div><div id="menu0item10" style="position: absolute; left: 0; top: 171; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,10)" onmouseout="popOut(0,10)" onclick="popClick(0,10)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; Talk</div></div><div id="menu0item11" style="position: absolute; left: 0; top: 190; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,11)" onmouseout="popOut(0,11)" onclick="popClick(0,11)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; Area info</div></div><div id="menu0item12" style="position: absolute; left: 0; top: 209; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,12)" onmouseout="popOut(0,12)" onclick="popClick(0,12)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; About us</div></div><div id="menu0item13" style="position: absolute; left: 0; top: 228; width: 100; height: 20; visibility: inherit; background: #336699" onmouseover="popOver(0,13)" onmouseout="popOut(0,13)" onclick="popClick(0,13)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 100; height: 20">&nbsp; Subscriber links</div></div></div><div style="position: absolute; visibility: hidden; left: 105px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu1item1" style="position: absolute; left: 0; top: 0; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(1,1)" onmouseout="popOut(1,1)" onclick="popClick(1,1)"><div class="itemText" style="position: absolute; left: 103; top: 0">&gt;</div><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Local news</div></div><div id="menu1item2" style="position: absolute; left: 0; top: 20; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(1,2)" onmouseout="popOut(1,2)" onclick="popClick(1,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">World/Regional</div></div><div id="menu1item3" style="position: absolute; left: 0; top: 39; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(1,3)" onmouseout="popOut(1,3)" onclick="popClick(1,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Obituaries</div></div><div id="menu1item4" style="position: absolute; left: 0; top: 58; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(1,4)" onmouseout="popOut(1,4)" onclick="popClick(1,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Photo gallery</div></div><div id="menu1item5" style="position: absolute; left: 0; top: 77; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(1,5)" onmouseout="popOut(1,5)" onclick="popClick(1,5)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Court listings</div></div><div id="menu1item6" style="position: absolute; left: 0; top: 96; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(1,6)" onmouseout="popOut(1,6)" onclick="popClick(1,6)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Weather</div></div><div id="menu1item7" style="position: absolute; left: 0; top: 115; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(1,7)" onmouseout="popOut(1,7)" onclick="popClick(1,7)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Public safety info</div></div></div><div style="position: absolute; visibility: hidden; left: 105px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu2item1" style="position: absolute; left: 0; top: 0; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(2,1)" onmouseout="popOut(2,1)" onclick="popClick(2,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Editorial / OpEd / letters</div></div><div id="menu2item2" style="position: absolute; left: 0; top: 19; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(2,2)" onmouseout="popOut(2,2)" onclick="popClick(2,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Columnists</div></div><div id="menu2item3" style="position: absolute; left: 0; top: 38; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(2,3)" onmouseout="popOut(2,3)" onclick="popClick(2,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Dianne Williamson</div></div><div id="menu2item4" style="position: absolute; left: 0; top: 57; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(2,4)" onmouseout="popOut(2,4)" onclick="popClick(2,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Cartoon</div></div></div><div style="position: absolute; visibility: hidden; left: 105px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu3item1" style="position: absolute; left: 0; top: 0; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(3,1)" onmouseout="popOut(3,1)" onclick="popClick(3,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">People &amp; Entertainment</div></div><div id="menu3item2" style="position: absolute; left: 0; top: 19; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(3,2)" onmouseout="popOut(3,2)" onclick="popClick(3,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Food</div></div><div id="menu3item3" style="position: absolute; left: 0; top: 38; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(3,3)" onmouseout="popOut(3,3)" onclick="popClick(3,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Health</div></div><div id="menu3item4" style="position: absolute; left: 0; top: 57; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(3,4)" onmouseout="popOut(3,4)" onclick="popClick(3,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Travel</div></div><div id="menu3item5" style="position: absolute; left: 0; top: 76; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(3,5)" onmouseout="popOut(3,5)" onclick="popClick(3,5)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Movies</div></div><div id="menu3item6" style="position: absolute; left: 0; top: 95; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(3,6)" onmouseout="popOut(3,6)" onclick="popClick(3,6)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Events calendar</div></div><div id="menu3item7" style="position: absolute; left: 0; top: 114; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(3,7)" onmouseout="popOut(3,7)" onclick="popClick(3,7)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Announcements</div></div><div id="menu3item8" style="position: absolute; left: 0; top: 133; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(3,8)" onmouseout="popOut(3,8)" onclick="popClick(3,8)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Extra</div></div><div id="menu3item9" style="position: absolute; left: 0; top: 152; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(3,9)" onmouseout="popOut(3,9)" onclick="popClick(3,9)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">Comics</div></div><div id="menu3item10" style="position: absolute; left: 0; top: 171; width: 148; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(3,10)" onmouseout="popOut(3,10)" onclick="popClick(3,10)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 148; height: 18">TV listings</div></div></div><div style="position: absolute; visibility: hidden; left: 105px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu4item1" style="position: absolute; left: 0; top: 0; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(4,1)" onmouseout="popOut(4,1)" onclick="popClick(4,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Subscribe</div></div><div id="menu4item2" style="position: absolute; left: 0; top: 19; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(4,2)" onmouseout="popOut(4,2)" onclick="popClick(4,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Renew</div></div><div id="menu4item3" style="position: absolute; left: 0; top: 38; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(4,3)" onmouseout="popOut(4,3)" onclick="popClick(4,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Vacation stops</div></div><div id="menu4item4" style="position: absolute; left: 0; top: 57; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(4,4)" onmouseout="popOut(4,4)" onclick="popClick(4,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Billing changes</div></div><div id="menu4item5" style="position: absolute; left: 0; top: 76; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(4,5)" onmouseout="popOut(4,5)" onclick="popClick(4,5)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Help page</div></div></div><div style="position: absolute; visibility: hidden; left: 105px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu5item1" style="position: absolute; left: 0; top: 0; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(5,1)" onmouseout="popOut(5,1)" onclick="popClick(5,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">FAQs</div></div><div id="menu5item2" style="position: absolute; left: 0; top: 19; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(5,2)" onmouseout="popOut(5,2)" onclick="popClick(5,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Report a bug</div></div><div id="menu5item3" style="position: absolute; left: 0; top: 38; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(5,3)" onmouseout="popOut(5,3)" onclick="popClick(5,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Send a suggestion</div></div><div id="menu5item4" style="position: absolute; left: 0; top: 57; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(5,4)" onmouseout="popOut(5,4)" onclick="popClick(5,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Search the site</div></div><div id="menu5item5" style="position: absolute; left: 0; top: 76; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(5,5)" onmouseout="popOut(5,5)" onclick="popClick(5,5)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Site index</div></div></div><div style="position: absolute; visibility: hidden; left: 105px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu6item1" style="position: absolute; left: 0; top: 0; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(6,1)" onmouseout="popOut(6,1)" onclick="popClick(6,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Advertise online</div></div><div id="menu6item2" style="position: absolute; left: 0; top: 19; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(6,2)" onmouseout="popOut(6,2)" onclick="popClick(6,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Media Kit</div></div><div id="menu6item3" style="position: absolute; left: 0; top: 38; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(6,3)" onmouseout="popOut(6,3)" onclick="popClick(6,3)"><div class="itemText" style="position: absolute; left: 103; top: 0">&gt;</div><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Contact us</div></div><div id="menu6item4" style="position: absolute; left: 0; top: 57; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(6,4)" onmouseout="popOut(6,4)" onclick="popClick(6,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Privacy policy</div></div><div id="menu6item5" style="position: absolute; left: 0; top: 76; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(6,5)" onmouseout="popOut(6,5)" onclick="popClick(6,5)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Copyright</div></div></div><div style="position: absolute; visibility: hidden; left: 124px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu7item1" style="position: absolute; left: 0; top: 0; width: 128; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(7,1)" onmouseout="popOut(7,1)" onclick="popClick(7,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 128; height: 18">Worcester / Wachusett</div></div><div id="menu7item2" style="position: absolute; left: 0; top: 19; width: 128; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(7,2)" onmouseout="popOut(7,2)" onclick="popClick(7,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 128; height: 18">North</div></div><div id="menu7item3" style="position: absolute; left: 0; top: 38; width: 128; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(7,3)" onmouseout="popOut(7,3)" onclick="popClick(7,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 128; height: 18">South</div></div><div id="menu7item4" style="position: absolute; left: 0; top: 57; width: 128; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(7,4)" onmouseout="popOut(7,4)" onclick="popClick(7,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 128; height: 18">East</div></div><div id="menu7item5" style="position: absolute; left: 0; top: 76; width: 128; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(7,5)" onmouseout="popOut(7,5)" onclick="popClick(7,5)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 128; height: 18">West</div></div><div id="menu7item6" style="position: absolute; left: 0; top: 95; width: 128; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(7,6)" onmouseout="popOut(7,6)" onclick="popClick(7,6)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 128; height: 18">Blackstone Valley</div></div></div><div style="position: absolute; visibility: hidden; left: 125px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu8item1" style="position: absolute; left: 0; top: 0; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,1)" onmouseout="popOut(8,1)" onclick="popClick(8,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">General info</div></div><div id="menu8item2" style="position: absolute; left: 0; top: 19; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,2)" onmouseout="popOut(8,2)" onclick="popClick(8,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Corporate</div></div><div id="menu8item3" style="position: absolute; left: 0; top: 38; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,3)" onmouseout="popOut(8,3)" onclick="popClick(8,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Online</div></div><div id="menu8item4" style="position: absolute; left: 0; top: 57; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,4)" onmouseout="popOut(8,4)" onclick="popClick(8,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Marketing</div></div><div id="menu8item5" style="position: absolute; left: 0; top: 76; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,5)" onmouseout="popOut(8,5)" onclick="popClick(8,5)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Advertising</div></div><div id="menu8item6" style="position: absolute; left: 0; top: 95; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,6)" onmouseout="popOut(8,6)" onclick="popClick(8,6)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Circulation</div></div><div id="menu8item7" style="position: absolute; left: 0; top: 114; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,7)" onmouseout="popOut(8,7)" onclick="popClick(8,7)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">News</div></div><div id="menu8item8" style="position: absolute; left: 0; top: 133; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,8)" onmouseout="popOut(8,8)" onclick="popClick(8,8)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Business news</div></div><div id="menu8item9" style="position: absolute; left: 0; top: 152; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,9)" onmouseout="popOut(8,9)" onclick="popClick(8,9)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Sports</div></div><div id="menu8item10" style="position: absolute; left: 0; top: 171; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,10)" onmouseout="popOut(8,10)" onclick="popClick(8,10)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Features</div></div><div id="menu8item11" style="position: absolute; left: 0; top: 190; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,11)" onmouseout="popOut(8,11)" onclick="popClick(8,11)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Editorial</div></div><div id="menu8item12" style="position: absolute; left: 0; top: 209; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(8,12)" onmouseout="popOut(8,12)" onclick="popClick(8,12)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Photo</div></div></div><div style="position: absolute; visibility: hidden; left: 105px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu9item1" style="position: absolute; left: 0; top: 0; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(9,1)" onmouseout="popOut(9,1)" onclick="popClick(9,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Movie listings</div></div><div id="menu9item2" style="position: absolute; left: 0; top: 19; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(9,2)" onmouseout="popOut(9,2)" onclick="popClick(9,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Dining</div></div><div id="menu9item3" style="position: absolute; left: 0; top: 38; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(9,3)" onmouseout="popOut(9,3)" onclick="popClick(9,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Events calendar</div></div><div id="menu9item4" style="position: absolute; left: 0; top: 57; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(9,4)" onmouseout="popOut(9,4)" onclick="popClick(9,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Theater reviews</div></div><div id="menu9item5" style="position: absolute; left: 0; top: 76; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(9,5)" onmouseout="popOut(9,5)" onclick="popClick(9,5)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">More...</div></div></div><div style="position: absolute; visibility: hidden; left: 105px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu10item1" style="position: absolute; left: 0; top: 0; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(10,1)" onmouseout="popOut(10,1)" onclick="popClick(10,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Current events</div></div><div id="menu10item2" style="position: absolute; left: 0; top: 19; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(10,2)" onmouseout="popOut(10,2)" onclick="popClick(10,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Talk of your town</div></div><div id="menu10item3" style="position: absolute; left: 0; top: 38; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(10,3)" onmouseout="popOut(10,3)" onclick="popClick(10,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Sports Talk</div></div><div id="menu10item4" style="position: absolute; left: 0; top: 57; width: 118; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(10,4)" onmouseout="popOut(10,4)" onclick="popClick(10,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 118; height: 18">Going out</div></div></div><div style="position: absolute; visibility: hidden; left: 105px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu11item1" style="position: absolute; left: 0; top: 0; width: 138; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(11,1)" onmouseout="popOut(11,1)" onclick="popClick(11,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 138; height: 18">City Hall cam</div></div><div id="menu11item2" style="position: absolute; left: 0; top: 19; width: 138; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(11,2)" onmouseout="popOut(11,2)" onclick="popClick(11,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 138; height: 18">Community profiles</div></div><div id="menu11item3" style="position: absolute; left: 0; top: 38; width: 138; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(11,3)" onmouseout="popOut(11,3)" onclick="popClick(11,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 138; height: 18">Worcester facts</div></div><div id="menu11item4" style="position: absolute; left: 0; top: 57; width: 138; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(11,4)" onmouseout="popOut(11,4)" onclick="popClick(11,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 138; height: 18">Meetings</div></div><div id="menu11item5" style="position: absolute; left: 0; top: 76; width: 138; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(11,5)" onmouseout="popOut(11,5)" onclick="popClick(11,5)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 138; height: 18">Community sites</div></div><div id="menu11item6" style="position: absolute; left: 0; top: 95; width: 138; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(11,6)" onmouseout="popOut(11,6)" onclick="popClick(11,6)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 138; height: 18">Community calendar</div></div><div id="menu11item7" style="position: absolute; left: 0; top: 114; width: 138; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(11,7)" onmouseout="popOut(11,7)" onclick="popClick(11,7)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 138; height: 18">Weather</div></div></div><div style="position: absolute; visibility: hidden; left: 105px; top: 2px; cursor: pointer; z-index: 1000;"><div id="menu12item1" style="position: absolute; left: 0; top: 0; width: 98; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(12,1)" onmouseout="popOut(12,1)" onclick="popClick(12,1)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 98; height: 18">Tour of features</div></div><div id="menu12item2" style="position: absolute; left: 0; top: 19; width: 98; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(12,2)" onmouseout="popOut(12,2)" onclick="popClick(12,2)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 98; height: 18">Account center</div></div><div id="menu12item3" style="position: absolute; left: 0; top: 38; width: 98; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(12,3)" onmouseout="popOut(12,3)" onclick="popClick(12,3)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 98; height: 18">My.telegram.com</div></div><div id="menu12item4" style="position: absolute; left: 0; top: 57; width: 98; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(12,4)" onmouseout="popOut(12,4)" onclick="popClick(12,4)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 98; height: 18">NewsRewind</div></div><div id="menu12item5" style="position: absolute; left: 0; top: 76; width: 98; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(12,5)" onmouseout="popOut(12,5)" onclick="popClick(12,5)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 98; height: 18">Live web cam</div></div><div id="menu12item6" style="position: absolute; left: 0; top: 95; width: 98; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(12,6)" onmouseout="popOut(12,6)" onclick="popClick(12,6)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 98; height: 18">Screen savers</div></div><div id="menu12item7" style="position: absolute; left: 0; top: 114; width: 98; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(12,7)" onmouseout="popOut(12,7)" onclick="popClick(12,7)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 98; height: 18">Log in</div></div><div id="menu12item8" style="position: absolute; left: 0; top: 133; width: 98; height: 18; visibility: inherit; background: #003366" class="itemBorder" onmouseover="popOver(12,8)" onmouseout="popOut(12,8)" onclick="popClick(12,8)"><div class="itemText" style="position: absolute; left: 0; top: 0; width: 98; height: 18">FAQs</div></div></div></body></html>
