@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810015203id_/http%3A//www.moving.com/footer/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moving.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012104130id_/http%3A//www.moving.com/footer/privacy.asp) for the most accurate reproduction.*
 
 # Moving.com - Find Moving Companies, Real Estate Agents, Mortgage Quotes and more
 
