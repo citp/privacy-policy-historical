@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menshealth.co.uk privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207230535id_/http%3A//www.menshealth.co.uk/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menshealth.co.uk privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602141104id_/http%3A//www.menshealth.co.uk/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Men's Health I Privacy policy
 
