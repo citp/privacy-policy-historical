@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402141421id_/http%3A//www.ireland.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irishtimes.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008044241id_/http%3A//www.ireland.com/about/privacy) for the most accurate reproduction.*
 
 # ireland.com / mediakit
 
@@ -27,9 +27,7 @@ We use your IP address, log user agents and referring address to help diagnose p
 
 We also provide our log file data to two third parties on a regular basis to verify our traffic figures to the website. The information is used solely for auditing purposes. These third parties: 
 
-Commtech eSolutions destroy all data following analysis. Full details on their privacy policy are available at: <http://www.commtech.ie/about/privacy_policy.html>
-
-Finally, the data may on occasion of abuse or harassment be used to find and locate individuals abusing the network system and or services of ireland.com. In these cases this data may be passed on to appropriate individuals, organisations or companies, if specifically requested. 
+ABC electronic auditing bureau. Finally, the data may on occasion of abuse or harassment be used to find and locate individuals abusing the network system and or services of ireland.com. In these cases this data may be passed on to appropriate individuals, organisations or companies, if specifically requested. 
 
 **Irish Data Protection Commissioner:**  
 Further information on your data privacy rights are available on the website of the Irish Data Protection Commissioner. <http://www.dataprivacy.ie/2.htm#Your%20Rights>
@@ -58,8 +56,8 @@ This site contains links to other sites. ireland.com is not responsible for the 
 **Security:**  
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, ireland.com cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
-**Opt-Out:**  
-Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us. To unsubscribe please go to <http://www.ireland.com/services/unsubscribe.htm> and enter your e-mail address. 
+**Opt-In:**  
+Our site provides users the opportunity to opt-in to receive promotional/marketing information from our The Irish Times, ireland.com and select advertisers. To unsubscribe please go to <http://www.ireland.com/services/unsubscribe.htm> and enter your e-mail address. 
 
 **Special Interest Sites:**  
 ireland.com provides certain services in conjunction with third parties: These third parties have their own security and privacy policies. You are advised to check them out separately as it pertains to their individual security and privacy policies. 
