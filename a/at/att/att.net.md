@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the att.net privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217213516id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the att.net privacy policy that was archived on 2002-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020222234400id_/http%3A//www.att.com/privacy) for the most accurate reproduction.*
 
 # AT&T Privacy Policy
 
