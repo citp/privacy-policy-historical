@@ -1,23 +1,40 @@
-> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204171120id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpgamer.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604020931id_/http%3A//www.rpgamer.com/header/privacy.html) for the most accurate reproduction.*
 
 # RPGamer Privacy Policy
 
-[](https://web.archive.org/) [ Games](https://web.archive.org/games/games.html)  
-[ News](https://web.archive.org/news/news.html)  
-[ Media](https://web.archive.org/newmedia.html)  
-[ Reviews](https://web.archive.org/pointsofview/updates/paws/120301.html)  
-[ Information](https://web.archive.org/info/120201.html)  
-[ Q & A](https://web.archive.org/ask/aegis/la120301.html)  
-[ Editorials](https://web.archive.org/editor/ed112601.html)  
-[ Fan Art](https://web.archive.org/fanart/fanart112701.html)  
-[ Themes](https://web.archive.org/mc/112501.html)  
-[ Music](https://web.archive.org/music/music111401.html)  
-[ Fan Fiction](https://web.archive.org/fanfics/updates/fanfics120101.html)  
-[ Message Boards](https://web.archive.org/board/index.html)  
-[ Release Dates](https://web.archive.org/games/release.cgi)  
-[ Links](https://web.archive.org/links/links.cgi)  
-[ Contests](https://web.archive.org/contests/contests.html)  
-[ Feedback](https://web.archive.org/feedback.html)  
+[](http://www.rpgamer.com/) [ E3 2002](http://www.rpgamer.com/event/e3-2002/e3-2002.html)  
+[ Games](http://www.rpgamer.com/games/upcoming.html)  
+[ News](http://www.rpgamer.com/news/news.html)  
+[ Media](http://www.rpgamer.com/media.html)  
+[ Q & A](http://www.rpgamer.com/ask/rico/ar060302.html)  
+[ Reviews](http://www.rpgamer.com/pointsofview/updates/2002/051702.html)  
+[ Information](http://www.rpgamer.com/info/update.html)  
+[ Editorials](http://www.rpgamer.com/editor/ed042102.html)  
+[ Fan Art](http://www.rpgamer.com/fanart/fanart052602.html)  
+[ Themes](http://www.rpgamer.com/mc/052002.html)  
+[ Music](http://www.rpgamer.com/music/music240502.html)  
+[ Fan Fiction](http://www.rpgamer.com/fanfics/updates/fanfics052902.html)  
+[ Message Forums](http://board.rpgamer.com/)  
+[ Release Dates](http://www.rpgamer.com/games/release.cgi)  
+[ Links](http://www.rpgamer.com/links/links.cgi)  
+[ Contests](http://www.rpgamer.com/contests/contests.html)  
+[ Staff Bios](http://www.rpgamer.com/bios/bios.html)  
+[ Feedback](http://www.rpgamer.com/feedback.html)  
+
+
+* * *
+
+__Features__  
+[](http://www.rpgamer.com/contests/may02/fanart.html)
+
+__Recent Reviews__  
+[](http://www.rpgamer.com/games/bof/bof2/reviews/bof2strev2.html)  
+[](http://www.rpgamer.com/games/arc/arccol/reviews/arccolstrev1.html)
+
+__Past Features__  
+[](http://www.rpgamer.com/contests/may02/togba.html)  
+[](http://www.rpgamer.com/music/articles/interviews/stephenkennedy.html)
+
 |  |    
 
 
@@ -42,4 +59,5 @@ In addition to the Main Site, RPGamer also has a section for message boards. Whi
 RPGamer uses third parties in order to serve ads for the Web site. Currently RPGamer is seeking new advertisers. When RPGamer has located advertising, return here to view their Privacy Policies as well. 
 
   
-
+  
+|  | 
