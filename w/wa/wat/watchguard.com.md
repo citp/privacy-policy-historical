@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202174542id_/http%3A//www.watchguard.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401214343id_/http%3A//www.watchguard.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement: About WatchGuard | WatchGuard Technologies, Inc.
 
+Privacy Statement  
 This Privacy Statement discloses the privacy practices for the entire WatchGuard Technologies, Inc. Web site.
 
 Because WatchGuard wants to demonstrate its commitment to your privacy, WatchGuard Technologies, Inc. has agreed to disclose the following information practices:
@@ -17,7 +18,7 @@ Because WatchGuard wants to demonstrate its commitment to your privacy, WatchGua
 
 
 
-Questions regarding this statement should be directed to the WatchGuard Technologies, Inc. [Site Coordinator](https://web.archive.org/web/20031202174542id_/http%3A//www.watchguard.com/about/contact.asp) at WatchGuard Technologies for clarification.
+Questions regarding this statement should be directed to the WatchGuard Technologies, Inc. [Site Coordinator](https://web.archive.org/web/20040401214343id_/http%3A//www.watchguard.com/about/contact.asp) at WatchGuard Technologies for clarification.
 
 This site contains links to other sites. Upon selecting one of these links and leaving watchguard.com this privacy statement no longer applies.
 
@@ -52,4 +53,4 @@ Understanding the distinction between Security and Privacy
 Security involves making sure that any sensitive information you may provide is safe and secure. Privacy refers to information we gather about you, and the use we make of it in the course of our business. 
 
 Interacting with WatchGuard via e-mail.  
-We do our best to promptly respond to all messages sent to [webmaster@watchguard.com](mailto:webmaster@watchguard.com), and save messages that we think might be needed if the sender contacts us again. We do not sell or rent e-mail addresses to other companies. Should you have a concern regarding e-mail, please feel free to contact us by phone at 206.521.8340. 
+We do our best to promptly respond to all messages sent to [webmaster@watchguard.com](mailto:webmaster@watchguard.com), and save messages that we think might be needed if the sender contacts us again. We do not sell or rent e-mail addresses to other companies. Should you have a concern regarding e-mail, please feel free to contact us by phone at 206.613.0895. 
