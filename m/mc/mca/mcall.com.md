@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607202516id_/http%3A//www.mcall.com/services/newspaper/all-privacypolicy.htmlstory) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcall.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205010531id_/http%3A//www.mcall.com/services/newspaper/all-privacypolicy.htmlstory) for the most accurate reproduction.*
 
 # mcall.com - Privacy Policy
-
-  
-
 
 From The Morning Call
 
@@ -57,6 +54,3 @@ mcall.com reserves the right to change this policy at any time. Please check thi
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. Users of mcall.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. mcall.com is controlled, operated and administered entirely within the United States. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
 Copyright © 2002, [The Morning Call](http://www.mcall.com/)
-
-  
-
