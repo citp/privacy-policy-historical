@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ebookers.ie privacy policy that was archived on 2002-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021211055608id_/http%3A//www.ebookers.com/helpandinfo/privacy.html%3FVERSION%3DIE%26LANG%3DAA%26CURRENCY%3DEUR) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ebookers.ie privacy policy that was archived on 2003-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030618063253id_/http%3A//www.ebookers.ie/helpandinfo/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
 <title>ebookers.ie -- Privacy Statement</title>
@@ -53,80 +53,124 @@ function preloadImages() {
 		button_red_01_over = newImage("furniture/buttons/button_red_01-over.gif");
 		preloadFlag = true;
 	}
+	
 }
+
+
+function link(pathname, hash){
+//alert(pathname);
+//alert(hash);
+var link = "http://www.ebookers.com/" + pathname + "?VERSION=IE&LANG=EN&CURRENCY=EUR";
+if (hash){
+link = link + hash;
+}
+window.location = link;
+return false;
+}
+
 
 // -->
 
 //-->
 </script>
 <style type="text/css">
-BODY {	font-family : Arial, Helvetica, sans-serif;	font-size : 12px;	color : Black;	font : normal;}
-TR {font-family : Arial, Helvetica, sans-serif;	font-size : 12px;	color : Black;	font : normal;}
-TD {font-family : Arial, Helvetica, sans-serif;	font : normal Arial, Helvetica, sans-serif;	font-size : 12px;}
-TABLE {	font-family : Arial, Helvetica, sans-serif;	font-size : 12px;	color : Black;	font : normal;}
-.button { BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: none; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #ffffff 1px solid; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #2963a5; FONT-VARIANT: normal; TEXT-DECORATION: none}
-.buttonbar_text { FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #2963a5; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none}
-.heading {  font-family: Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; font-weight: bold; color: #3366FF}
-.small { font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none }
-.smallbold { font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none }
+/* Styles start */
+BODY, TD, TABLE, TR, P { font-family : Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size : 12px; }
+INPUT {	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size:9pt; font-weight: bold; }
+SELECT  { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; }
+.selec  { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; border: 1px solid Black; background-color : #D5DAEC; }
+.selec2  { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;	font-size: 9pt; font-weight: bold; border: 1px solid Black; background-color: #E3D0E3; }
+.questions { font-size : 8pt; font-family : Verdana; border: 1px solid Black; background-color: #BCCCE5; font-weight: 600; }
+TEXTAREA  {	font-family:verdana; font-weight:bold; font-size:9pt; }
+.button { BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: none; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #ffffff 1px solid; FONT-STYLE: normal; FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #2963a5; FONT-VARIANT: normal; TEXT-DECORATION: none }
+.boxout { BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; FONT-WEIGHT: bold; FONT-SIZE: 10px; TEXT-TRANSFORM: none; BORDER-LEFT: #ffffff 1px solid; COLOR: #ffffff; BORDER-BOTTOM: #ffffff 1px solid; FONT-STYLE: normal; FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #2963a5; FONT-VARIANT: normal; TEXT-DECORATION: none }
+
+a.littleNav:active { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight:500; color:#333399; text-decoration:none; padding-top : 14px; }
+a.littleNav:visited { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight:500; color:#000080; text-decoration:none; padding-top : 14px; }
+a.littleNav:hover {	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;	font-size: 9pt; font-weight: 500; color: #8888dd; text-decoration: underline; padding-top: 14px; }
+a.littleNav:link { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: 500; color: #333399; text-decoration: none; padding-top: 14px; }
+
+a.darklittleNav:hover { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 7pt; font-weight:400; color:#BBBBFF; text-decoration:none; }
+a.darklittleNav:link { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size:7pt; font-weight:400; color:#9999FF; text-decoration: none; }
+a.darklittleNav:visited { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size:7pt; font-weight:400; color:#9999FF; text-decoration: none; }
+a.BotNav:active { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: #335899; text-decoration: none; padding-top: 14px; }
+a.BotNav:visited { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color: #000390; text-decoration: none; padding-top: 14px; }
+a.BotNav:hover { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: bold; color:#8888dd; text-decoration:none; padding-top: 14px; }
+a.BotNav:link {	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;	font-size: 9pt;	font-weight: bold; color:#333399; text-decoration:none; padding-top: 14px; }
+a.Nav_right:active { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: 500; color: #335899; text-decoration: none; padding-top: 14px; }
+a.Nav_right:visited { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: 500; color: #000390; text-decoration: none; padding-top : 14px; }
+a.Nav_right:hover { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;	font-size: 8pt; font-weight: 500; color: #8888dd; text-decoration: none; padding-top: 14px;}
+a.Nav_right:link { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: 500; color:#333399; text-decoration: none; padding-top: 14px; }
+a.whitelink:visited { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: 400; color:#000077; text-decoration: none; }
+a.whitelink:hover { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: 400; color:#0000ff; text-decoration: underline; }
+a.whitelink:active { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: 400; color: #000077; text-decoration: none; }
+a.whitelink:link { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9pt; font-weight: 400; color: #000077; text-decoration: none; }
+.buttonbar_text { FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #2963a5; FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica, sans-serif; TEXT-DECORATION: none}
+.heading {  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 18px; font-style: normal; font-weight: bold; color: #3366FF}
+.small { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none }
+.smallbold { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none }
 .default {  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal}
-.defaultwhite{ font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold; color: White; text-decoration : none;}
+.defaultwhite{ font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold; color: White; text-decoration : none;}
 .bold { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold}
 A:hover.boldwhite { color: red }
-.headingContextNav {font-family:arial,helvetica,sans-serif; font-size:12px; font-weight:bold; color:#a5c6ef; text-decoration:none;}
-a.headingContextNav:hover {font-family:arial,helvetica,sans-serif; font-size:12px; font-weight:bold; color:#ffffff; text-decoration:none;}
-.boldwhite {font-family: Arial, Helvetica, sans-serif;	font-size: 12px;font-style: normal;	font-weight: bold ;	color: #FFFFFF;	text-decoration : none;}
+.headingContextNav {font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; color:#a5c6ef; text-decoration:none;}
+a.headingContextNav:hover {font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size:12px; font-weight:bold; color:#ffffff; text-decoration:none;}
+.boldwhite {font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;	font-size: 12px;font-style: normal;	font-weight: bold ;	color: #FFFFFF;	text-decoration : none;}
 .medium { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none }
-.mediumbold { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none }
+.mediumbold { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none }
 .tiny { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 9px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none }
 .mediumwhite { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none ; color: #FFFFFF}
 Submit { border-bottom:thin solid #000033; border-right:thin solid #000033; border-top:thin solid #CCCCCC; border-left:thin solid #CCCCCC; font-size:11px; font-family:Arial; font-weight:bold; background-color:#2A63A6; color:#FFFFFF; line-height:.85; padding-top:3px; text-transform: capitalize; cursor: hand }
-input {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal}
+input {  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal}
 select  {  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: normal}
-.title {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-style: normal; font-weight: bold}
-.boldItalic { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold }
-.defaultItalic { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: normal }
-.mediumitalic { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: italic; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none }
-.box { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-weight: bold; font-variant: normal; text-transform: none; color: #FFFFFF; text-decoration: none; background-color: #FFFFFF; border: 1px #336699 solid}
-.context_nav {font-family:verdana,arial,helvetica,sans-serif; font-size:10px; font-weight:bold; color:#ffffff; text-decoration:none;}
-.context_nav_header {font-family:verdana, arial, helvetica, sans-serif; font-size:10px; font-weight:bold; color:#000000; text-decoration:none;}
-a.context_nav {font-family:verdana,arial,helvetica,sans-serif; font-size:10px; font-weight:bold; color:#ffffff; text-decoration:none;}
-a.context_nav:hover, a.context_nav:active {font-family:verdana,arial,helvetica,sans-serif; font-size:10px; font-weight:bold; color:#a5c6ef; text-decoration:none;}
-.headingHome { COLOR: #336699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 22px; FONT-STYLE: normal; FONT-WEIGHT: bold }
-.headingSmallHome { COLOR: #336699; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; FONT-SIZE: 14px; FONT-STYLE: italic; FONT-WEIGHT: bold }
-.boldItalicsubhead { FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold ; color: #336699}
+.title {  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-weight: bold}
+.boldItalic { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: bold }
+.defaultItalic { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12px; font-style: italic; font-weight: normal }
+.mediumitalic { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 11px; font-style: italic; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none }
+.box { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-weight: none; font-variant: normal; text-transform: none; color: #000000; text-decoration: none; background-color: #FFFFFF; border: 1px #336699 solid}
+.boxhotel { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal;  font-variant: normal; text-transform: none; color: #FFFFFF; text-decoration: none; background-color: #BCCCE5; border: 1px #336699 solid}
+.context_nav {font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; color:#ffffff; text-decoration:none;}
+.context_nav_header {font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; color:#000000; text-decoration:none;}
+a.context_nav {font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; color:#ffffff; text-decoration:none;}
+a.context_nav:hover, a.context_nav:active {font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size:10px; font-weight:bold; color:#a5c6ef; text-decoration:none;}
+.headingHome { COLOR: #336699; FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica, sans-serif; FONT-SIZE: 22px; FONT-STYLE: normal; FONT-WEIGHT: bold }
+.headingSmallHome { COLOR: #336699; FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica, sans-serif; FONT-SIZE: 14px; FONT-STYLE: italic; FONT-WEIGHT: bold }
+.boldItalicsubhead { FONT-FAMILY: Verdana, Tahoma, Arial, Helvetica, sans-serif; FONT-SIZE: 12px; FONT-WEIGHT: bold ; color: #336699}
 europe { border : none;}
-.boldwhiteHeader { font-family: Arial, Helvetica, sans-serif; font-size: 14px;font-style: normal; font-weight: bold ; color: #FFFFFF; text-decoration : none; }
-.ph_heading {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: bold; font-variant: small-caps}
-.ph_number {  font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none}
-.error{	color : #990000}
+.boldwhiteHeader { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 14px;font-style: normal; font-weight: bold ; color: #FFFFFF; text-decoration : none; }
+.ph_heading {  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: bold; font-variant: small-caps}
+.ph_number {  font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none}
+.error{	color: #990000}
 
 /*Form Button classes*/
 .blueSrchBtn { border-bottom:thin solid #000033; border-right:thin solid #000033; border-top:thin solid #CCCCCC; border-left:thin solid #CCCCCC; font-size:11px; font-family:Arial; font-weight:bold; background-color:#2A63A6; color:#FFFFFF; line-height:.85; padding-top:3px; text-transform: capitalize; cursor: hand }
 
 /*Spacers*/	  
-.one { font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 1px; font-weight: normal; } 
-.two { font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 2px; font-weight: normal; }  
-.five { font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 5px; font-weight: normal; }  
-.ten { font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 5px; font-weight: normal; }  
-.fifteen { font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; font-weight: normal; }	
-.twenty { font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 20px; font-weight: normal; }
-.phead { font-family: Arial, Helvetica, sans-serif; color: #000000; font-size: 20px; font-weight: Bold; }
-.blackbold { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold ; color: #000000}
-.blackbold:hover { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold ; color: #FF0000}
-.greybold { font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold ; color: #666666}
-.mediumboldunderline { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none ; text-decoration: underline}
-.largebold { font-family: Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-weight: bold }
-.mediumunderline { font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none ; text-decoration: underline}
+.one { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; color: #000000; font-size: 1px; font-weight: normal; } 
+.two { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; color: #000000; font-size: 2px; font-weight: normal; }  
+.five { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; color: #000000; font-size: 5px; font-weight: normal; }  
+.ten { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; color: #000000; font-size: 5px; font-weight: normal; }  
+.fifteen { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; color: #000000; font-size: 15px; font-weight: normal; }	
+.twenty { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; color: #000000; font-size: 20px; font-weight: normal; }
+.phead { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; color: #000000; font-size: 20px; font-weight: Bold; }
+.blackbold { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold ; color: #000000}
+.blackbold:hover { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold ; color: #FF0000}
+.greybold { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12px; font-style: normal; font-weight: bold ; color: #666666}
+.mediumboldunderline { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: bold; font-variant: normal; text-transform: none ; text-decoration: underline}
+.largebold { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 13px; font-style: normal; font-weight: bold }
+.mediumunderline { font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 11px; font-style: normal; line-height: normal; font-weight: normal; font-variant: normal; text-transform: none ; text-decoration: underline}
+.bluedefault { color: #0000FF}
+/*this is the default font for all body text... like hotel descriptions*/
+.formblue { font-family: Arial, Helvetica, sans-serif; color: #1A4196; font-size: 12px; font-weight: normal; margin-left: 5px; text-decoration:none; }
 
-/* Styles end here */.bluedefault {  color: #0000FF}
+/* Styles end here */
 
 </style>
 </head>
 <body bgcolor="#ffffff" text="#000000" vlink="#993399" alink="#0000ff" leftmargin="0" topmargin="0">
 <table width="740" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td><a href="http://www.ebookers.com/ie"><img src="http://ebookers.earthc.net/content1.ebookers.com/images/IE/page_headers/banner_new_01.gif" border="0" alt="cheap, discounted flights and holidays from ebookers.ie" width="222" height="72"></a><img src="http://ebookers.earthc.net/content1.ebookers.com/images/IE/page_headers/banner_new_02.jpg" width="518" height="72"></td>
+<td><a href="http://www.ebookers.com/ie"><img src="http://ebookers.earthc.net/content1.ebookers.com/images/IE/mastheads/new/shebooked.jpg" border="0" alt="cheap, discounted flights and holidays from ebookers.ie" width="740" height="70"></a></td>
 </tr>
 </tbody></table>
 
@@ -161,7 +205,7 @@ europe { border : none;}
       
 <table width="120" border="0" cellpadding="0" cellspacing="0" align="left" valign="top">
 <tbody><tr><td width="4">&nbsp;</td>
-<td align="center" class="boldwhite">11th December 02</td>
+<td align="center" class="boldwhite">18th June 03</td>
 </tr>
 </tbody></table>
 <br clear="all">
@@ -169,8 +213,29 @@ europe { border : none;}
     </td>
   </tr>
   <tr> 
-    <td width="4" rowspan="12"><img src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="4" height="1" alt="" border="0"></td>
-    <td height="15" class="medium"><img src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="100" height="5"></td>
+    <td width="4" rowspan="13"><img src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="4" height="1" alt="" border="0"></td>
+    <td class="medium" align="left" valign="top"> 
+      <table cellspacing="0" cellpadding="0" width="110" bgcolor="#2963a5" border="0">
+        <tbody> 
+        <tr bgcolor="#5a94d0"> 
+          <td class="medium"><img height="1" alt="" src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="1"></td>
+          <td class="medium"><img height="1" alt="" src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="108"></td>
+          <td class="medium"><img height="1" alt="" src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="1"></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#5a94d0" class="medium"><img height="17" alt="" src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="1"></td>
+          <td valign="center" bgcolor="#255284" class="medium"><a class="headingContextNav" style="A.hover:color : red" href="/" onclick="return link(this.pathname);">&nbsp;Home</a></td>
+          <td bgcolor="#152542" class="medium"><img height="17" alt="" src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="1"></td>
+        </tr>
+        <tr> 
+          <td bgcolor="#152542" colspan="3" class="medium"><img height="1" alt="" src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="110"></td>
+        </tr>
+        </tbody> 
+      </table>
+    </td>
+  </tr>
+  <tr> 
+    <td height="8" class="medium"><img src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="100" height="15"></td>
   </tr>
   <tr> 
     <td align="left" class="medium"> 
@@ -182,7 +247,7 @@ europe { border : none;}
         </tr>
         <tr> 
           <td bgcolor="#5a94d0" class="medium"><img height="17" alt="" src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="1"></td>
-          <td valign="center" bgcolor="#255284" class="medium"><a class="headingContextNav" href="http://www.ebookers.com/helpandinfo/?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">&nbsp;Help 
+          <td valign="center" bgcolor="#255284" class="medium"><a class="headingContextNav" href="/helpandinfo/" onclick="return link(this.pathname);">&nbsp;Help 
             and Info</a></td>
           <td bgcolor="#152542" class="medium"><img height="17" alt="" src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="1"></td>
         </tr>
@@ -196,40 +261,31 @@ europe { border : none;}
     <td class="medium"><img src="http://ebookers.earthc.net/content1.ebookers.com/furniture/IE/tiny.gif" width="100" height="5"></td>
   </tr>
   <tr> 
-    <td width="116" class="bold">&nbsp;<a href="http://www.ebookers.com/helpandinfo/faq_general.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR" class="context_nav">FAQ 
-      - General</a></td>
+    <td width="116" class="bold">&nbsp;<a href="/helpandinfo/faq_general.html" class="context_nav" onclick="return link(this.pathname);">FAQ - General</a></td>
   </tr>
   <tr> 
-    <td width="116" class="bold">&nbsp;<a href="http://www.ebookers.com/helpandinfo/flights.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR" class="context_nav">FAQ 
-      - Flights</a></td>
+    <td width="116" class="bold">&nbsp;<a href="/helpandinfo/flights.html" class="context_nav" onclick="return link(this.pathname);">FAQ - Flights</a></td>
   </tr>
   <tr> 
-    <td width="116" class="bold">&nbsp;<a href="http://www.ebookers.com/helpandinfo/carhire.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR" class="context_nav">FAQ 
-      - Car Hire</a></td>
+    <td width="116" class="bold">&nbsp;<a href="/helpandinfo/carhire.html" class="context_nav" onclick="return link(this.pathname);">FAQ - Car Hire</a></td>
   </tr>
   <tr> 
-    <td width="116" class="bold">&nbsp;<a href="http://www.ebookers.com/helpandinfo/insurance.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR" class="context_nav">FAQ 
-      - Insurance</a></td>
+    <td width="116" class="bold">&nbsp;<a href="/helpandinfo/insurance.html" class="context_nav" onclick="return link(this.pathname);">FAQ - Insurance</a></td>
   </tr>
   <tr> 
-    <td width="116" class="bold">&nbsp;<a href="http://www.ebookers.com/helpandinfo/holidays.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR" class="context_nav">FAQ 
-      - Holidays</a></td>
+    <td width="116" class="bold">&nbsp;<a href="/helpandinfo/holidays.html" class="context_nav" onclick="return link(this.pathname);">FAQ - Holidays</a></td>
   </tr>
   <tr> 
-    <td width="116" class="bold">&nbsp;<a href="http://www.ebookers.com/helpandinfo/hotels.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR" class="context_nav">FAQ 
-      - Hotels</a></td>
+    <td width="116" class="bold">&nbsp;<a href="/helpandinfo/hotels.html" class="context_nav" onclick="return link(this.pathname);">FAQ - Hotels</a></td>
   </tr>
   <tr> 
-    <td width="116" class="bold">&nbsp;<a href="http://www.ebookers.com/helpandinfo/register_help.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR" class="context_nav">FAQ 
-      - Registering</a></td>
+    <td width="116" class="bold">&nbsp;<a href="/helpandinfo/register_help.html" class="context_nav" onclick="return link(this.pathname);">FAQ - Registering</a></td>
   </tr>
   <tr> 
-    <td width="116" class="bold">&nbsp;<a href="http://www.ebookers.com/aboutus/gift_voucher.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR" class="context_nav">Gift 
-      Vouchers</a></td>
+    <td width="116" class="bold">&nbsp;<a href="/aboutus/gift_voucher.html" class="context_nav" onclick="return link(this.pathname);">Gift Vouchers</a></td>
   </tr>
   <tr> 
-    <td width="116" class="bold">&nbsp;<a href="http://www.ebookers.com/aboutus/contact.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR" class="context_nav">Contact 
-      Us</a></td>
+    <td width="116" class="bold">&nbsp;<a href="/aboutus/contact.html" class="context_nav" onclick="return link(this.pathname);">Contact Us</a></td>
   </tr>
 </tbody></table>
 <br clear="all">
@@ -484,20 +540,24 @@ europe { border : none;}
 
 <tr> 
 <td class="tiny"> 
-<div align="center"><a href="http://www.ebookers.com/index.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR"><br>
+<div align="center"><a href="/index.html" onclick="return link(this.pathname)"><br>
 Home</a> 
-        | <a href="http://www.ebookers.com/services/">Services</a> | <a href="http://www.ebookers.com/news_sub_eng/popup.html?VERSION=IE" onclick="popWin('','new_win','toolbar=no,location=no,status=no,menubar=no,scrollbars=auto,resizable=yes,width=370,height=200');" target="new_win">Register</a> | <a href="http://www.ebookers.com/helpandinfo/?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">Help and 
-        info</a> | <a href="http://www.ebookers.com/aboutus/?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">About us</a> | <a href="http://www.ebookers.com/aboutus/contact.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">Contact 
-        us</a> | <a href="http://www.ebookers.com/aboutus/recruitment.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">Jobs</a> | <a href="http://www.ebookers.com/helpandinfo/faq_general.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">FAQs</a> | <a href="http://www.ebookers.com/sitemap/?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">Sitemap</a><br>
+        | <a href="/services/" onclick="return link(this.pathname)">Services</a> | <a href="/news_sub_eng/popup.html?VERSION=IE" onclick="popWin('','new_win','toolbar=no,location=no,status=no,menubar=no,scrollbars=auto,resizable=yes,width=370,height=200');" target="new_win">Register</a> | <a href="/helpandinfo/" onclick="return link(this.pathname)">Help and 
+        info</a> | <a href="/aboutus/" onclick="return link(this.pathname)">About ebookers.ie</a> | <a href="/aboutus/contact.html" onclick="return link(this.pathname)">Contact 
+        us</a> | <a href="/aboutus/recruitment.html" onclick="return link(this.pathname)">Jobs</a> | <a href="/helpandinfo/faq_general.html" onclick="return link(this.pathname)">FAQs</a> | <a href="/sitemap/" onclick="return link(this.pathname)">Sitemap</a><br>
 
 </div>
 </td>
 </tr><tr> 
 <td class="tiny"> 
-<div align="center">  <a href="http://www.ebookers.com/helpandinfo/privacy.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">Privacy</a> 
-        | <a href="http://www.ebookers.com/helpandinfo/security.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">Security</a> 
-        | <a href="http://www.ebookers.com/aboutus/disclaimer.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">Policies</a> | <a href="http://production.investis.com/ebookers/whatsnew/?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">Investor 
-        relations</a> | <a href="http://www.ebookers.com/aboutus/company_affiliates.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">Affiliates</a> | <a href="http://www.ebookers.com/aboutus/international_sites.html?VERSION=IE&amp;LANG=EN&amp;CURRENCY=EUR">International Sites</a></div>
+      <div align="center"> <a href="http://www.gov.ie/iveagh/">Government Travel 
+        Advice</a> | <a href="/helpandinfo/privacy.html" onclick="return link(this.pathname)">Privacy</a> 
+        | <a href="/helpandinfo/security.html" onclick="return link(this.pathname)">Security</a> 
+        | <a href="/aboutus/disclaimer.html" onclick="return link(this.pathname)">Policies</a> 
+        | <a href="http://production.investis.com/ebookers/whatsnew/">Investor 
+        relations</a> | <a href="/aboutus/company_affiliates.html" onclick="return link(this.pathname)">Affiliates</a> 
+        | <a href="/aboutus/international_sites.html" onclick="return link(this.pathname)">International 
+        Sites</a></div>
 </td>
 </tr>
 </tbody></table>
