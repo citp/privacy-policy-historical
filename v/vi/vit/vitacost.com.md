@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603033911id_/http%3A//www.vitacost.com/otherfiles/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitacost.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216215227id_/http%3A//www.vitacost.com/otherfiles/privacy.html) for the most accurate reproduction.*
 
 # vitacost.com - Privacy Statement
 
-| [](https://digitalid.verisign.com/as2/f8eb2ff02bd04d4197e66b6a64dd375a)| [](https://web.archive.org/web/20010603033911id_/http%3A//www.vitacost.com/guarantee/index.html)| [](http://www.bbbonline.org/r2.cfm?ID=724000305)| [](https://www.truste.org/validate/5776)| [](http://www.gomez.com/certification/verify.cfm?topcat_id=9&firm_id=4864)  
+| [](https://digitalid.verisign.com/as2/f8eb2ff02bd04d4197e66b6a64dd375a)| [](https://web.archive.org/web/20011216215227id_/http%3A//www.vitacost.com/guarantee/index.html)| [](http://www.bbbonline.org/r2.cfm?ID=724000305)| [](https://www.truste.org/validate/5776)| [](http://www.gomez.com/certification/verify.cfm?topcat_id=9&firm_id=4864)  
 ---|---|---|---|---  
   
 **Vitacost.com, Inc.** is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, we agree to notify you of: 
@@ -87,7 +87,7 @@ Boynton Beach, Fl 32426
 
 
  **When You Send Email to our Customer Service Department  
-** We provide email links on our "[Customer Services](https://web.archive.org/web/20010603033911id_/http%3A//www.vitacost.com/help/index.html)" page that allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. The information you send us is used to respond directly to your questions and comments. We also keep your email correspondence on file so that we may better serve you should you have additional questions in the future. Your personal information is shared with third parties (such as manufacturers) only with your explicit permission.
+** We provide email links on our "[Customer Services](https://web.archive.org/web/20011216215227id_/http%3A//www.vitacost.com/help/index.html)" page that allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. The information you send us is used to respond directly to your questions and comments. We also keep your email correspondence on file so that we may better serve you should you have additional questions in the future. Your personal information is shared with third parties (such as manufacturers) only with your explicit permission.
 
  **How We Notify You of Changes to our Privacy Policy  
 ** Whenever we change our privacy policy, we will post a notice on our website indicating that a new version is available. If Vitacost.com changes how it uses a users personally identifiable information, the user will be notified by email and they may opt-out at that time. However, if you have opted-out of all communication with the site you will not be contacted, nor will your personally identifiable information be used in this new manner.
