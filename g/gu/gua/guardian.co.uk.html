@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the guardian.co.uk privacy policy that was archived on 2003-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604032405id_/http%3A//www.guardian.co.uk/article/0%2C5814%2C250227%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guardian.co.uk privacy policy that was archived on 2003-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031204183353id_/http%3A//www.guardian.co.uk/article/0%2C5814%2C250227%2C00.html) for the most accurate reproduction.-->
 
 <html><head>
 		<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
@@ -32,180 +32,25 @@
 	 </head>
 
 <body bgcolor="#FFFFFF" text="#000000" link="#003366" alink="#006699" vlink="#003366" topmargin="8" leftmargin="0">
-<center><table border="0" cellpadding="0" cellspacing="0" width="608"><tbody><tr><td valign="top" align="left" height="68" width="128"><a href="/0,6961,,00.html"><img src="http://image.guardian.co.uk/sitelogos/Guardian.gif" alt="Guardian Unlimited" height="60" width="120" border="0"></a><br></td><td valign="top" align="right" width="480"><!-- Vignette V/5 Thu May 15 17:13:23 2003 -->
+<center><table border="0" cellpadding="0" cellspacing="0" width="608"><tbody><tr><td valign="top" align="left" height="68" width="128"><a href="/0,6961,,00.html"><img src="http://image.guardian.co.uk/sitelogos/Guardian.gif" alt="Guardian Unlimited" height="60" width="120" border="0"></a><br></td><td valign="top" align="right" width="480"><!-- Vignette V/5 Fri Oct 31 16:12:13 2003 -->
 
- <script language="Javascript" type="text/javascript">
-<!--
 
-var args_array,cookie_array = new Array();
-var splitbit;
-var adserver = 'http://ads.guardian.co.uk';
-var persistcode = '';
-var persistentnow = 0;
+  		<!-- There is no requirement for persistent javascript code on this site -->
 
-function documentwriter(data) {
-document.write(data);
-}
-function alterCookie(passedcookie,passedyear,passedmonth,passedday,passedhost) {
-var datein = new Date(passedyear,passedmonth,passedday);
-var newpassed = passedcookie.substring(0,passedcookie.indexOf('=',0) + 1) + escape(passedcookie.substring(passedcookie.indexOf('=',0) + 1, passedcookie.length ));
-document.cookie = newpassed + '; expires=' + datein.toGMTString() + '; domain=' + passedhost + '; path= / ';
-}
+ <!-- Vignette V/5 Tue Sep 30 11:57:30 2003 -->
 
-function processCookie(cookievar,wholecookie,valuepart,inyear,inmonth,inday,inhost) {
-var start1 = wholecookie.indexOf(cookievar,0);
-start1 = wholecookie.indexOf('=',start1);
-var end1 =   wholecookie.indexOf(',',start1);
 
-if (end1 == -1 ) { end1 = wholecookie.length }
-var newcookie = wholecookie.substring(0,start1 + 1);
-newcookie = newcookie + valuepart +  wholecookie.substring(end1, wholecookie.length);
-alterCookie(newcookie,inyear,inmonth,inday,inhost);
-return newcookie;
-}
-function checkpersistcode(start) {
-var end = document.cookie.indexOf(';',start);
-if (end == -1 ) {var end = document.cookie.length};
-var totalcookie = unescape(document.cookie.substring(start,end));
-splitbit = totalcookie.split(',')
-var temp = '';
-for(var i=0; i < splitbit.length ; i++) 
-	{ temp  = splitbit[i].split('=')
-      cookie_array[temp[0]] = temp[1];
-	  }	
-if ( cookie_array['enabledsites'].indexOf(args_array['site']) != -1 &&
-	cookie_array['sessionend'] == 'notended' )
-	{   if (args_array['banner'] == 'yes')
-	   {   if  ( cookie_array['sessionstart'] == 'notstarted' )
-	       { var newcook = processCookie('sessionstart',totalcookie,new Date().getTime(),2003,5,1,'.guardian.co.uk')
-		     processCookie('currseq',newcook,1,2003,5,1,'.guardian.co.uk')
-             persistcode = 'surround=yes&amp;sequence=1&amp;'
-			 }
-		 else   
-			{  if (( parseInt(cookie_array['sessionstart']) + ( parseInt(cookie_array['sessionlength']) * 60 * 1000 ) ) < new Date().getTime() )
-	           {processCookie('sessionend',totalcookie,new Date().getTime(),2003,5,1,'.guardian.co.uk');
-			   }	
-	          else 
-			   { var newcook = processCookie('sessionstart',totalcookie,new Date().getTime(),2003,5,1,'.guardian.co.uk');
-			     if ( parseInt(cookie_array['currseq']) < parseInt(cookie_array['maxseq']))					  
-				    { cookie_array['currseq'] = parseInt(cookie_array['currseq']) + 1;
-					  processCookie('currseq',newcook,parseInt(cookie_array['currseq']),2003,5,1,'.guardian.co.uk');
-                    }
-					  persistentnow = 1;	
-                      persistcode = 'surround=yes&amp;sequence=' + parseInt(cookie_array['currseq']) + '&amp;';
-               }   
-	   	    }	
-	   		}
-	   else 
-	   	      { if  (  cookie_array['sessionstart'] != 'notstarted' ) 
-			     {  persistcode = 'surround=yes&amp;sequence=' + cookie_array['currseq'] + '&amp;';}
-	   	      }
-	}
-}
-
-function codebuilder(spacedesc) 
-{ persistentnow = 0;
-if ( document.cookie.indexOf('persistentcookie7=show',0) != -1 )
-{ checkpersistcode(document.cookie.indexOf('persistentcookie7=show',0))};	
-var amp = '&amp;';
-var widthheight = args_array['width'] + '" HEIGHT="' + args_array['height'];
-var filler ='';
-if (spacedesc) { 
-if ( args_array['startpoint'] == '1a' ) {spacedesc = args_array['startpoint'];}
-else if (args_array['startpoint'] == 999) { spacedesc = 'article';}
-else { var filler = ( spacedesc < 10 ? 0 :'') };};
-var targetting = persistcode + 'location=' + args_array['location'] + amp + 'site=' + args_array['site'] + amp + 'section=' + args_array['section'] + '&amp;country=usa&amp;' + 'rand=' + new Date().getTime() + Math.floor(Math.random() * 1000 )
-if ( args_array['location'] != 'top' ) { targetting +=  amp + 'spacedesc=' + filler + spacedesc };
-if (  ( args_array['location'] != 'top' && parseInt(args_array['startpoint']) == 1 && spacedesc != '1a') || ( args_array['location'] == 'top' && persistentnow ) ) 
-{ return '<SCRI' + 'PT LANG' + 'UAGE="Javasc' + 'ript" SRC="' + adserver + '/js.ng/Params.richmedia=yes' + amp + targetting + '"></SCR' + 'IPT>';}
-else { var returntags = '<A HREF="' + adserver + '/click.ng/' + targetting + '"><IM' + 'G WIDTH="' + widthheight + '" BORDER="0" ' + 'SRC="' + adserver + '/image.ng/' + targetting + '"></A>';
-       return ' <IFR' + 'AME WIDTH="' + widthheight + '" MARGIN' + 'HEIGHT="0" HSPACE="0" VSPACE="0" FRAMEBORDER="0" SCROLLING="no" BORDERCOLOR="#000000" ' + ' SRC="' + adserver + '/html.ng/Params.richmedia=yes' + amp + targetting + '">' + returntags + '</IF' + 'RAME>';}
-}
-
-function adbuilder() {
-//For ease of use treat everything as if it were a matrix unless it is spacedesc 1
-//which needs to be written as a script
- if ( ( args_array['location'] != 'top' && parseInt(args_array['startpoint']) == 1 )
-      || args_array['location'] == 'top' )
-  { var adhtml  = codebuilder(1)}
- else { 
-  var adhtml = '<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">';	
-  for ( var i = 1 ; i <= parseInt(args_array['matrixh']) ; i++ ) 	
-     {    var colhtml  = '\n<TR>';
-     	 for ( var j = 1 ; j <= parseInt(args_array['matrixw']) ; j++ ) 	
-     	    { colhtml += '\n<TD>' + codebuilder(args_array['location'] == 'top' ? 0 : parseInt(args_array['startpoint']) ) ;
-     	      colhtml += ( j < parseInt(args_array['matrixw']) ? '<\/TD><TD WIDTH=""><\/TD>' : '<\/TD>' );
- 		args_array['startpoint'] = parseInt(args_array['startpoint']) + 1;
-  	    }
-  	  adhtml +=  ( parseInt(args_array['startpoint']) < 5 || args_array['banner']  ? colhtml + '\n<\/TR>' : colhtml + '\n<\/TR><TR><TD>&nbsp<\/TD><\/TR>' );
-     }
- adhtml +=  '\n<\/TABLE>';}    
-documentwriter(adhtml);	
-}	
- 
-function adcontroller() {
-args_array = new Array();
-cookie_array = new Array();
-splitbit = '';
-persistcode = ''; 	
- document.open();
- if ( arguments.length > 0 ) 
-	{	for(var i=0; i < arguments.length ; i++) 
-		{splitbit  = arguments[i].split('=');
-// If article ad. Set it temporarily to being a normal type ad , to allow
-// it to fall through the processing			
-			if (splitbit[1] == 'article') { splitbit[1] = 999;} 		
-		    args_array[splitbit[0]] = splitbit[1];
-			}
-		adbuilder(); 
-	} else {  documentwriter('<!-- problem writing ads with the parameters that have been passed -->')}
-document.close();		
-}
- 
-
-var index = document.cookie.indexOf('persistentcookie7'); 
-if (index == -1 ) 	 
-	{
-		if ( new Date().getTime() >= new Date(2003,4,15).getTime() &&
-	     new Date().getTime() <= new Date(2003,5,1 ).getTime() ) 
-		{			 
-		  	  if ( ( Math.floor(Math.random() * 100) + 1 )  <= 1  ) {
-			  var cookiedetails = 'persistentcookie7=show,enabledsites=Guardian,sessionstart=notstarted,sessionend=notended,sessionlength=' + 15 + ',currseq=0,maxseq=9';
-			  alterCookie(cookiedetails,2003,5,1,'.guardian.co.uk');
-			  }
-		}		  
-	}
-//-->
-</script>  	
-
- <!-- Vignette V/5 Fri May 02 16:43:03 2003 -->
-
+  		
 <!-- Advert banner-->
-<script language="Javascript">
-if (window.adcontroller) {
-adcontroller('location=top','height=60','width=468','site=Guardian','section=103435','startpoint=1','matrixh=1','matrixw=1','banner=yes')
 
-}
-</script> <iframe width="468" height="60" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.guardian.co.uk/html.ng/Params.richmedia=yes&amp;location=top&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=1580352525087919"><A HREF="http://ads.guardian.co.uk/click.ng/location=top&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=1580352525087919"><IMG WIDTH="468" HEIGHT="60" BORDER="0" SRC="http://ads.guardian.co.uk/image.ng/location=top&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=1580352525087919"></A></iframe>
-<noscript>
+<iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" src="http://ads.guardian.co.uk/html.ng/Params.richmedia=yes&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=4933338&amp;location=top">
+<A HREF="http://ads.guardian.co.uk/click.ng/Params.richmedia=yes&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=4933338&amp;location=top">
+<IMG SRC="http://ads.guardian.co.uk/image.ng/Params.richmedia=yes&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=4933338&amp;location=top" 
+WIDTH="468" HEIGHT="60" BORDER="0"></A></iframe>
+<!-- end of Advert banner-->
 
-
-<IFRAME 
-WIDTH="468" 
-HEIGHT="60" 
-MARGINWIDTH="0" 
-MARGINHEIGHT="0" 
-HSPACE="0" 
-VSPACE="0" 
-FRAMEBORDER="0" 
-SCROLLING="no" 
-SRC="http://ads.guardian.co.uk/html.ng/Params.richmedia=yes&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=0524155&amp;location=top">
-<A HREF="http://ads.guardian.co.uk/click.ng/Params.richmedia=yes&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=0524155&amp;location=top">
-<IMG SRC="http://ads.guardian.co.uk/image.ng/Params.richmedia=yes&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=0524155&amp;location=top" 
-WIDTH="468" HEIGHT="60" BORDER="0"></A></IFRAME>
-</noscript>
-<!-- end of Advert banner--> </td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="608"><tbody><tr><td valign="top" align="left"><!-- Vignette V/5 Wed May 07 14:49:10 2003 -->
- <font size="1" face="Geneva, Arial, sans-serif">
+ </td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="608"><tbody><tr><td valign="top" align="left"><!-- Vignette V/5 Wed Aug 06 14:33:14 2003 -->
+<font size="1" face="Geneva, Arial, sans-serif">
 <script type="text/javascript" language="JavaScript">
 function URLStack_getCookie(name) {
 	if (!document.cookie) {
@@ -270,11 +115,11 @@ document.write(' <a href="javascript:URLStack_push(document.location);location.h
 </script><a href="javascript:URLStack_push(document.location);location.href='/Users/signin/0,12930,-1,00.html'">Sign in</a> <img src="http://image.guardian.co.uk/sys-images/Users/Pix/Site_furniture/2003/02/20/toolbar_divider_transparent.gif" width="3" height="10"> <a href="javascript:URLStack_push(document.location);location.href='/Users/register/1,12904,-1,00.html'">Register</a>&nbsp;
 
 <noscript>
-<a href="/Users/signin/0,12930,-1,00.html?url=http%3A%2F%2Fwww%2Eguardian%2Eco%2Euk/">Sign in</a>
+<a href="/Users/signin/tr/1,13542,-1,00.html?url=%2FGuardian%2F">Sign in</a>
  <img src="http://image.guardian.co.uk/sys-images/Users/Pix/Site_furniture/2003/02/20/toolbar_divider_transparent.gif" width="3" height="10" />
- <a href="/Users/register/1,12904,-1,00.html?url=http%3A%2F%2Fwww%2Eguardian%2Eco%2Euk">Register</a>
+ <a href="/Users/register/1,12904,-1,00.html?url=%2FGuardian%2F">Register</a>
 </noscript>
-</font></td><td height="40" valign="top" align="right"><!-- Vignette V/5 Fri Apr 04 11:20:12 2003 -->
+</font></td><td height="40" valign="top" align="right"><!-- Vignette V/5 Wed Sep 24 10:21:19 2003 -->
 <form name="network" method="post" action="/redirect/1,1437,,00.html"><nobr><font face="Geneva,Arial,sans-serif" size="2"><b>Go to:</b>&nbsp;</font><select name="Url" onchange="goUrl(this)">
 
 	 <option value="/0,6961,,00.html">Guardian Unlimited home
@@ -317,19 +162,21 @@ document.write(' <a href="javascript:URLStack_push(document.location);location.h
 	 </option><option value="/syndication/0,11047,,00.html">Syndication services
 	 </option><option value="/eventsandoffers/0,5993,,00.html">Events / offers
 	 </option><option value="/Guardian/gu_contacts/0,5816,180767,00.html">Help / contacts
-	 </option><option value="/information/0,5816,,00.html">Information
+	 </option><option value="/information/0,11984,,00.html">Information
 	 </option><option value="/newsroom/0,11717,,00.html">Newsroom
 	 </option><option value="/notesandqueries/0,5753,,00.html">Notes &amp; Queries
+	 </option><option value="http://www.guardianoffers.co.uk/mall/departmentpage.cfm/Guardian">Reader Offers
 	 </option><option value="/styleguide/0,5817,,00.html">Style guide
 	 </option><option value="/Travel/readeroffers/0,12298,,00.html">Travel offers
 	 </option><option value="/TV/0,4658,,00.html">TV listings
 	 </option><option value="/Weather/0,4469,,00.html">Weather
 	 </option><option value="/index/webguides/0,3109,,00.html">Web guides
+	 </option><option value="http://gnl.peoplebank.com">Working at GNL
 	 </option><option value=" ">----------------------
 	 </option><option value="/guardianweekly/0,12598,,00.html">Guardian Weekly
 	 </option><option value="http://www.moneyobserver.com">Money Observer</option></select>&nbsp;<input type="submit" value="Go" onclick="goUrl(this.form.Url);return false;"></nobr></form>
-</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="608"><tbody><tr><td width="608" valign="top"><img src="http://image.guardian.co.uk/sp.gif" width="204" height="1" alt=""><a href="/"><img src="http://image.guardian.co.uk/sitecrumbs/Guardian.gif" width="143" height="22" alt="Guardian Unlimited" border="0"></a><a href="http://guardianunlimited.co.uk"><img src="http://image.guardian.co.uk/guardian/site/headers/information_crumb.gif" width="95" height="22" alt="Information" border="0"></a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="608"><tbody><tr><td valign="top"><!-- Vignette V/5 Tue May 06 14:11:59 2003 -->
- <!-- start gnric Txt Locnav -->
+</td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="608"><tbody><tr><td width="608" valign="top"><img src="http://image.guardian.co.uk/sp.gif" width="204" height="1" alt=""><a href="/"><img src="http://image.guardian.co.uk/sitecrumbs/Guardian.gif" width="143" height="22" alt="Guardian Unlimited" border="0"></a><a href="http://guardianunlimited.co.uk"><img src="http://image.guardian.co.uk/guardian/site/headers/information_crumb.gif" width="95" height="22" alt="Information" border="0"></a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="608"><tbody><tr><td valign="top"><!-- Vignette V/5 Wed Aug 13 11:49:37 2003 -->
+ <!-- start gnric TxtLocnav -->
  			
 
 	<!-- Localnav: 669. Subnavs:  -->
@@ -352,7 +199,8 @@ document.write(' <a href="javascript:URLStack_push(document.location);location.h
 <td><img src="http://image.guardian.co.uk/sp.gif" width="4" height="8" alt=""></td><td width="1" bgcolor="#999999"><img src="http://image.guardian.co.uk/sp.gif" width="1" height="1" alt=""></td><td><img src="http://image.guardian.co.uk/sp.gif" width="4" height="10" alt=""></td><td align="top"><a href="http://www.guardianunlimited.co.uk/eventsandoffers" class="GULOCALNAV0"><font face="Geneva,Arial,sans-serif" size="2" color="#999999"><nobr><b>Events and offers</b></nobr></font></a></td><td></td>
 <td><img src="http://image.guardian.co.uk/sp.gif" width="4" height="8" alt=""></td><td width="1" bgcolor="#999999"><img src="http://image.guardian.co.uk/sp.gif" width="1" height="1" alt=""></td><td><img src="http://image.guardian.co.uk/sp.gif" width="4" height="10" alt=""></td><td align="top"><a href="/information" class="GULOCALNAV0"><font face="Geneva,Arial,sans-serif" size="2" color="#999999"><nobr><b>Information</b></nobr></font></a></td><td></td>
 <td><img src="http://image.guardian.co.uk/sp.gif" width="4" height="8" alt=""></td><td width="1" bgcolor="#999999"><img src="http://image.guardian.co.uk/sp.gif" width="1" height="1" alt=""></td></tr></tbody></table>
-<!-- end Gnric Text Locnav --></td></tr></tbody></table></center>
+<!-- end gnric TxtLocnav -->
+</td></tr></tbody></table></center>
 <br clear="ALL">
 <center>
 <!-- start grid -->
@@ -360,7 +208,7 @@ document.write(' <a href="javascript:URLStack_push(document.location);location.h
 <td><img src="http://image.guardian.co.uk/sp.gif" width="32" height="1" alt=""></td>
 <td><img src="http://image.guardian.co.uk/sp.gif" width="512" height="1" alt=""></td>
 </tr>
-<tr><td> </td><td height="1" valign="top"><!-- Vignette V/5 Tue Mar 04 01:51:06 2003 -->
+<tr><td> </td><td height="1" valign="top"><!-- Vignette V/5 Thu Oct 09 02:54:46 2003 -->
 <!-- Start netclass whereami widget --->
 
 	<table width="512" height="64" cellspacing="0" cellpadding="0" border="0" bgcolor="#CCCC66">
@@ -370,7 +218,7 @@ document.write(' <a href="javascript:URLStack_push(document.location);location.h
 			<td valign="top" align="left"><img src="http://www.pixunlimited.co.uk//sys-images/Global/generated/web_guide_headers/2000/04/16/guardian3col.gif" height="64" width="128" alt="Guardian Unlimited"></td>
 		</tr>
 		<tr>
-			<td valign="top" align="right"><b><a href="/information/0,5816,,00.html"><font face="Geneva,Arial,sans-serif" size="2" color="#000000">Information</font></a>&nbsp;</b></td>
+			<td valign="top" align="right"><b><a href="/information/old/0,5816,,00.html"><font face="Geneva,Arial,sans-serif" size="2" color="#000000">Information</font></a>&nbsp;</b></td>
 		</tr>
 	 </tbody></table>
 <!-- End netclass whereami widget --->
@@ -386,7 +234,7 @@ document.write(' <a href="javascript:URLStack_push(document.location);location.h
 <td><img src="http://image.guardian.co.uk/sp.gif" width="12" height="1" alt=""></td>
 <td><img src="http://image.guardian.co.uk/sp.gif" width="372" height="1" alt=""></td>
 </tr>
-<tr><td> </td><td height="1" valign="top"><!-- interp: /Widgets/Toolbox/0,4690,3923811,00.html -->
+<tr><td> </td><td height="1" valign="top"><!-- interp: /Widgets/Toolbox/0,4690,3923811-103435,00.html -->
 	<table border="0" cellpadding="0" cellspacing="0" width="128">
 		<tbody><tr align="Left">
 			<td bgcolor="#999999" height="18" width="2">&nbsp;</td>
@@ -403,46 +251,36 @@ document.write(' <a href="javascript:URLStack_push(document.location);location.h
 		<tr align="Left">
 			<td bgcolor="#FFFFFF" width="118" colspan="2">
 				<font face="Geneva,Arial,sans-serif" size="2">
-					<a href="/Print/0,3858,3923811,00.html" class="GU">Text-only version</a>
+					<a href="/print/0,3858,3923811-103435,00.html" class="GU">Text-only version</a>
 				</font>
 			</td>
 			<td>
-				<a href="/Print/0,3858,3923811,00.html"><img src="http://image.guardian.co.uk/global/black_right_10x8.gif" width="10" height="8" border="0"></a>
+				<a href="/print/0,3858,3923811-103435,00.html"><img src="http://image.guardian.co.uk/global/black_right_10x8.gif" width="10" height="8" border="0"></a>
 			</td>
 		</tr>
 
 		<!-- send to a friend -->
 		<tr align="Left">
-			<td bgcolor="#FFFFFF" width="118" colspan="2"><font face="Geneva,Arial,sans-serif" size="2"><a href="/Widgets/SendIt_Form/1,3637,3923811,00.html" target="_new" onclick="window.open('/Widgets/SendIt_Form/1,3637,3923811,00.html','GuardianUnlimited','width=500,height=300,resizable,scrollbars=1');return false;" class="GU">Send it to a friend</a></font></td>
-			<td><a href="/Widgets/SendIt_Form/1,3637,3923811,00.html" target="_new" onclick="window.open('/Widgets/SendIt_Form/1,3637,3923811,00.html','GuardianUnlimited','width=500,height=300,resizable,scrollbars=1');return false;"><img src="http://image.guardian.co.uk/global/black_right_10x8.gif" width="10" height="8" border="0"></a></td>
+			<td bgcolor="#FFFFFF" width="118" colspan="2"><font face="Geneva,Arial,sans-serif" size="2"><a href="/sendarticle/1,3637,3923811-103435,00.html" target="_new" onclick="window.open('/sendarticle/1,3637,3923811-103435,00.html','GuardianUnlimited','width=500,height=300,resizable,scrollbars=1');return false;" class="GU">Send it to a friend</a></font></td>
+			<td><a href="/sendarticle/1,3637,3923811-103435,00.html" target="_new" onclick="window.open('/sendarticle/1,3637,3923811-103435,00.html','GuardianUnlimited','width=500,height=300,resizable,scrollbars=1');return false;"><img src="http://image.guardian.co.uk/global/black_right_10x8.gif" width="10" height="8" border="0"></a></td>
 		</tr>
-		<!-- read it later -->
+
+		<!-- save story -->
 		<tr align="Left">
 			<td bgcolor="#FFFFFF" width="118" colspan="2">
 				<font face="Geneva,Arial,sans-serif" size="2">
-					<a href="/Widgets/Read_It_Later/TR/1,4694,3923811,00.html" class="GU">Read it later</a>
+					<a href="/Users/savedstories/save/tr/1,13196,3923811,00.html" class="GU">Save story</a>
 				</font>
 			</td>
 			<td>
-				<a href="/Widgets/Read_It_Later/TR/1,4694,3923811,00.html"><img src="http://image.guardian.co.uk/global/black_right_10x8.gif" width="10" height="8" border="0"></a>
+				<a href="/Users/savedstories/save/tr/1,13196,3923811,00.html"><img src="http://image.guardian.co.uk/global/black_right_10x8.gif" width="10" height="8" border="0"></a>
 			</td>
 		</tr>
-		
-		<!-- see saved stories -->
-		<tr align="Left">
-			<td bgcolor="#FFFFFF" width="118" colspan="2">
-				<font face="Geneva,Arial,sans-serif" size="2">
-					<a href="/Read_It_Later/1,4924,,FF.html" class="GU" target="Later">See saved stories</a>
-				</font>
-			</td>
-			<td>
-				<a href="/Read_It_Later/1,4924,,FF.html" target="Later"><img src="http://image.guardian.co.uk/global/black_right_10x8.gif" width="10" height="8" border="0"></a>
-			</td>
-		</tr>
+
 	</tbody></table>
 <!-- /interp -->
 <br>
-<!-- Image Widget: no scribbling --></td><td></td><td height="1" valign="top"><!-- Vignette V/5 Fri May 30 17:22:26 2003 -->
+<!-- Image Widget: no scribbling --></td><td></td><td height="1" valign="top"><!-- Vignette V/5 Tue Dec 02 18:27:30 2003 -->
 
 	 <font face="arial,helvetica,sans-serif" size="5"><b>Privacy policy</b></font>
     <br>		
@@ -452,7 +290,7 @@ document.write(' <a href="javascript:URLStack_push(document.location);location.h
 	 </font>
 	
 	  <font face="Geneva,Arial,sans-serif" size="2">At Guardian Unlimited we collect different types of information about our users for three main reasons:<p>1. To help us to improve the services we offer.</p><p>2. To provide personalised services unique to individual users.</p><p>3. To use anonymous details about our users to sell appropriate advertising space on the site. This might mean showing an advertiser how many female users we have on the site; it does not mean sharing an individual's details with an advertiser.  Where we collect registration information from an individual, we will never share that individual's information with a third party, including an advertiser, without that user's explicit permission.</p><p><b>Our principles</b></p><p>We are absolutely committed to protecting your privacy. Our policy can be summarised in one sentence: we will not share your information with others without your prior consent. We have also established the following four principles:</p><p>1. We will continue to invest in high-quality security and do our utmost to protect user privacy through the use of the latest security technology.</p><p>2. We will respect your email privacy. You will receive unsolicited mail from the Guardian and/or from third parties screened by Guardian Newspapers Limited only if you have agreed to this. We will, however, mail you occasionally with information about your registration and/or your subscription account.</p><p>3. We will not pass on any individual user details (including your email address) unless we have your prior consent.</p><p>4. Otherwise, we will only share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers.</p><p>Should we elect to change our privacy policy we will post the changes here. Where the changes are significant, we may also choose to email all our registered users with the new details.</p><p>We also offer a 'My details' page, where you can update your personal information at any time. You can get to this page from most pages on the site - simply click on the 'My details' link at the top of the screen when you are signed in.</p><p><b>What information do we collect?</b></p><p>We collect information on our users in two ways: through cookies, and through registration. For more information about cookies, please see below.</p><p>The minimum information we need to register a user is an email address, a password and a country. UK and US users will also need to provide a postcode/zipcode. We will ask further questions for different services, including competitions. Unless stated, all registration questions are compulsory. We also ask some further, voluntary questions so we can gain a clearer understanding of our users. Your responses help us to sell appropriate advertising space and so keep the site free.  They also enable us to personalise services for our users. We do not share this information with third parties unless you have specifically consented to this.</p><p>We also collect data listing which of our pages are most frequently visited and by which types of users.</p><p><b>Why does Guardian Unlimited use 'cookies'?</b></p><p>'Cookies' are small pieces of information that are stored by your browser on your computer's hard drive. They make it possible for us to identify registered users without needing to ask for registration details every time you access one of our sites. Using cookies makes accessing our sites more convenient as you don't need to enter your email address and password each time you enter.</p><p>Occasionally, we may also use cookies to track registered or unregistered users as they travel through the site - for instance, we might use cookies to count the total number of unique users who are accessing the site over a particular period of time, or to ensure that you don't see a particular advert more than once. This information will never be shared with a third party, and is only used to make our systems more efficient.</p><p>Finally, some advertising on the site is served by third parties such as Doubleclick. Occasionally, these third parties will serve cookies on your browser as well, for instance to gauge the effectiveness of a particular advertisement. Please note: this will not enable these third parties to access your personal details.</p><p>If you are concerned about cookies, you can turn them off in your browser. However, if you do this please note that some areas of the site may not work properly.</p><p><b>How does Guardian Unlimited protect customer information?</b></p><p>We invest in high-quality security and do our utmost to protect user privacy. UK Data Protection Legislation means we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access.</p><p><b>Will Guardian Unlimited disclose the information it collects to outside parties?</b></p><p>Guardian Unlimited will not sell, trade or rent your personal information to others unless you have given us your permission. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties. Also, Guardian Unlimited may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. </p><p>Guardian Unlimited follows the relevant legal requirements and uses all reasonable precautions to ensure only responsible third parties see the information, however we are not responsible for any breach of security or any actions of any third parties who receive the information.</p><p>Please note that we reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both ourselves and our users.</p><p><b>Some useful links for further reading<b></b></b></p></font><p><font face="Geneva,Arial,sans-serif" size="2"><b><b><a href="http://www.hmso.gov.uk/acts/acts1998/19980029.htm">Data Protection Act</a><br>  <a href="http://www.dataprotection.gov.uk/">Data Protection Commissioner</a><br>  <a href="http://www.microsoft.com/info/cookies.htm">Microsoft's cookie guide</a><br>  <a href="http://hotwired.lycos.com/webmonkey/webmonkey/geektalk/96/45/index3a.html">Hotwired's technical cookie guide</a><br>  <a href="http://www.fipr.org/">Foundation for Information Policy Research</a><br>  <a href="http://www.dpforum.org.uk/">UK Data Protection Forum</a><br></b></b></font><b><b><br>
-<!-- Vignette V/5 Fri May 30 19:01:06 2003 -->
+<!-- Vignette V/5 Wed Dec 03 12:49:45 2003 -->
 <!-- Start article trailblock widget -->
 <!-- End article trailblock widget -->
 
@@ -466,53 +304,76 @@ document.write(' <a href="javascript:URLStack_push(document.location);location.h
 <td><img src="http://image.guardian.co.uk/sp.gif" width="128" height="1" alt=""></td>
 <td><img src="http://image.guardian.co.uk/sp.gif" width="128" height="1" alt=""></td>
 </tr>
-<tr><td> </td><td height="1" valign="top"><!-- Vignette V/5 Fri May 02 16:43:04 2003 -->
+<tr><td> </td><td height="1" valign="top"><!-- Vignette V/5 Fri Nov 21 15:09:58 2003 -->
 <!-- start bottom of page netgravity ad widget -->
 
+
+  		
 <script language="Javascript">
 <!--
-function build_ad() {
+	function build_ad() {
 
-var theseCookies 	= document.cookie;
-var pos = theseCookies.indexOf('GUDHTMLAds=');
-
-if 	( 	pos == -1 ) {	var seconds 		= 180;
-						var expireTime 		= new Date();
-						var currenttimeinmills	= expireTime.getTime();
-						expireTime.setTime(currenttimeinmills + seconds * 1000 );
-						document.cookie = 'GUDHTMLAds=Dummy; expires=' + expireTime.toGMTString() + ' ; path= / ; domain = .www.guardian.co.uk' 						
-						 if (window.adcontroller) { adcontroller('location=bottom','height=64','width=128','site=Guardian','section=103435','startpoint=1','matrixh=1','matrixw=1')}
-}
-else  {					 if (window.adcontroller) { adcontroller('location=bottom','height=64','width=128','site=Guardian','section=103435','startpoint=1a','matrixh=1','matrixw=1')}	}
-}
-build_ad();
+	var theseCookies 	= document.cookie;
+	var pos = theseCookies.indexOf('GUDHTMLAds=');
+	
+	if 	( 	pos == -1 ) {	
+		var seconds 		= 180;
+		var expireTime 		= new Date();
+		var currenttimeinmills	= expireTime.getTime();
+		expireTime.setTime(currenttimeinmills + seconds * 1000 );
+		document.cookie = 'GUDHTMLAds=Dummy; expires=' + expireTime.toGMTString() + ' ; path= / ; domain = guardian.co.uk' 						
+		var	intrusad  = '<';	
+		intrusad +=	'SCRIPT LANGUAGE="Javascript"';
+		intrusad +=	' SRC="http://ads.guardian.co.uk/js.ng/spacedesc=01&amp;location=bottom';
+		intrusad +=	'&amp;site=Guardian&amp;navsection=1701&amp;';
+		intrusad +=	'section=103435&amp;country=usa&amp;rand=4933338"><';
+		intrusad +=	'/SCRIPT>';
+		document.write(intrusad);
+		document.close();	
+	} else  {					
+		var regularad 	= '<'; 
+		regularad		+= 'IFRAME WIDTH="128" HEIGHT="64" MARGINWIDTH="0" MARGINHEIGHT="0" HSPACE="0" VSPACE="0" FRAMEBORDER="0" SCROLLING="no" BORDERCOLOR="#000000" SRC="http://ads.guardian.co.uk/html.ng/Params.richmedia=yes&amp;location=bottom&amp;spacedesc=1a&amp;site=Guardian&amp;navsection=1701&amp;section=103435&amp;country=usa&amp;rand=4933338">'; 
+		regularad		+= '<'; 
+		regularad		+= 'A HREF="http://ads.guardian.co.uk/click.ng/Params.richmedia=yes&amp;location=bottom&amp;spacedesc=1a&amp;site=Guardian&amp;navsection=1701&amp;section=103435&amp;country=usa&amp;rand=4933338"><IMG SRC="http://ads.guardian.co.uk/image.ng/Params.richmedia=yes&amp;location=bottom&amp;spacedesc=1a&amp;site=Guardian&amp;navsection=1701&amp;section=103435&amp;country=usa&amp;rand=4933338" WIDTH="128" HEIGHT="64" BORDER="0"></A>'; 
+		regularad		+= '<';
+		regularad		+= '/IFRAME> ';
+		document.write(regularad);
+		document.close();	}
+	}
+	build_ad();
 // --> 
-</script><script language="Javascript" src="http://ads.guardian.co.uk/js.ng/Params.richmedia=yes&amp;location=bottom&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=1580352525133368&amp;spacedesc=01"></script>
-<!-- end bottom of page netgravity ad widget --></td><td height="1" valign="top"><!-- Vignette V/5 Fri May 02 16:40:07 2003 -->
+</script><script language="Javascript" src="http://ads.guardian.co.uk/js.ng/spacedesc=01&amp;location=bottom&amp;site=Guardian&amp;navsection=1701&amp;section=103435&amp;country=usa&amp;rand=4933338"></script>
+
+
+<!-- end bottom of page netgravity ad widget -->
+</td><td height="1" valign="top"><!-- Vignette V/5 Fri Nov 21 15:09:56 2003 -->
 <!-- start bottom of page netgravity ad widget -->
- <img src="http://image.guardian.co.uk/global/netgravity/generic1.gif" width="128" height="64"><!-- end bottom of page netgravity ad widget --></td><td height="1" valign="top"><!-- Vignette V/5 Fri May 02 16:43:05 2003 -->
+
+
+  		 <img src="http://image.guardian.co.uk/global/netgravity/generic1.gif" width="128" height="64">
+
+<!-- end bottom of page netgravity ad widget -->
+</td><td height="1" valign="top"><!-- Vignette V/5 Fri Nov 21 15:12:43 2003 -->
 <!-- start bottom of page netgravity ad widget -->
-<!-- Advert banner-->
-	                        
-<script language="Javascript">
- if (window.adcontroller) {adcontroller('location=bottom','height=64','width=128','site=Guardian','section=103435','startpoint=03','matrixh=1','matrixw=1')
-}</script><table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td> <iframe width="128" height="64" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.guardian.co.uk/html.ng/Params.richmedia=yes&amp;location=bottom&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=1580352525142796&amp;spacedesc=03"><A HREF="http://ads.guardian.co.uk/click.ng/location=bottom&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=1580352525142796&amp;spacedesc=03"><IMG WIDTH="128" HEIGHT="64" BORDER="0" SRC="http://ads.guardian.co.uk/image.ng/location=bottom&amp;site=Guardian&amp;section=103435&amp;country=usa&amp;rand=1580352525142796&amp;spacedesc=03"></A></iframe></td>
-</tr>
-</tbody></table>
-							
-<!-- Advert banner end-->
-<noscript> <!-- Advert banner-->
-							
-							<IFRAME
-							WIDTH="128" HEIGHT="64" MARGINWIDTH="0" MARGINHEIGHT="0" HSPACE="0" VSPACE="0" FRAMEBORDER="0" SCROLLING="no" BORDERCOLOR="#000000" SRC="http://ads.guardian.co.uk/html.ng/Params.richmedia=yes&amp;location=bottom&amp;spacedesc=03&amp;site=Guardian&amp;navsection=1701&amp;section=103435&amp;country=usa&amp;rand=0524155"> 
-						    <A HREF="http://ads.guardian.co.uk/click.ng/Params.richmedia=yes&amp;location=bottom&amp;spacedesc=03&amp;site=Guardian&amp;navsection=1701&amp;section=103435&amp;country=usa&amp;rand=0524155"><IMG SRC="http://ads.guardian.co.uk/image.ng/Params.richmedia=yes&amp;location=bottom&amp;spacedesc=03&amp;site=Guardian&amp;navsection=1701&amp;section=103435&amp;country=usa&amp;rand=0524155" WIDTH="128" HEIGHT="64" BORDER="0"></A> 
-							</IFRAME> 
-							<!-- /Advert banner-->
-					   	   </noscript><!-- end bottom of page netgravity ad widget --></td><td height="1" valign="top"><!-- Vignette V/5 Fri May 02 16:43:06 2003 -->
+
+
+  		<!-- Advert banner-->
+			
+			<iframe width="128" height="64" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://ads.guardian.co.uk/html.ng/Params.richmedia=yes&amp;location=bottom&amp;spacedesc=03&amp;site=Guardian&amp;navsection=1701&amp;section=103435&amp;country=usa&amp;rand=4933338"> 
+			<A HREF="http://ads.guardian.co.uk/click.ng/Params.richmedia=yes&amp;location=bottom&amp;spacedesc=03&amp;site=Guardian&amp;navsection=1701&amp;section=103435&amp;country=usa&amp;rand=4933338"><IMG SRC="http://ads.guardian.co.uk/image.ng/Params.richmedia=yes&amp;location=bottom&amp;spacedesc=03&amp;site=Guardian&amp;navsection=1701&amp;section=103435&amp;country=usa&amp;rand=4933338" WIDTH="128" HEIGHT="64" BORDER="0"></A> 
+			</iframe> 
+			<!-- /Advert banner-->
+		
+
+<!-- end bottom of page netgravity ad widget -->
+</td><td height="1" valign="top"><!-- Vignette V/5 Fri Nov 21 15:12:17 2003 -->
 <!-- start bottom of page netgravity ad widget -->
- <img src="http://image.guardian.co.uk/global/netgravity/generic2.gif" width="128" height="64"><!-- end bottom of page netgravity ad widget --></td></tr></tbody></table>
+
+
+  		 <img src="http://image.guardian.co.uk/global/netgravity/generic2.gif" width="128" height="64">
+
+<!-- end bottom of page netgravity ad widget -->
+</td></tr></tbody></table>
 <!-- start grid -->
 <table width="544" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
 <td><img src="http://image.guardian.co.uk/sp.gif" width="32" height="1" alt=""></td>
