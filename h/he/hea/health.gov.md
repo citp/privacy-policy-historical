@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.gov privacy policy that was archived on 2004-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040113090125id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.gov privacy policy that was archived on 2004-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041112105557id_/http%3A//www.hhs.gov/Privacy.html) for the most accurate reproduction.*
 
 # HHS - HHS Privacy Notice
 
