@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pogo.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207071000id_/http%3A//www.pogo.com/corporate/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pogo.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406161034id_/http%3A//www.pogo.com/corporate/privacy.html) for the most accurate reproduction.*
 
 # pogo.com > privacy policy > privacy statement
 
 privacy policy: privacy statement  
   
-**Last Updated: August 14, 2000**
+**Last Updated: March 9, 2001**
 
 [](https://www.truste.org/validate/7182) |  This confirms that pogo.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:   
 ---|---  
@@ -19,7 +19,7 @@ privacy policy: privacy statement
 
 
 
-If you have questions or concerns regarding this statement, you should first contact Todd Heringer by e-mail at [theringe@pogo.com](mailto:theringe@pogo.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Tahd Frentzel by e-mail at [tahd@pogo.com](mailto:tahd@pogo.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
 
 pogo.com's Privacy Statement  
 
@@ -62,7 +62,7 @@ We occasionally run marketing surveys on our site. These surveys are used to ful
 Data collected from member surveys are used by our marketing department and occasionally shared in aggregate form with our advertisers and sponsors. We may also use a member's survey data to direct advertising that is more likely to be of interest to the member. No member's personally identifiable information is disclosed to a third party as part of our member surveys without the member's consent. 
 
 **Prizes and verification information**  
-Some of pogo.com's games reward successful players with prizes that can take the form of cash or other prizes. Only certain residents of the United States and Canada (excluding Quebec) who are 18 years of age or more are eligible to receive prizes, and all prize programs are void where prohibited by law. See the [Prize Rules](https://web.archive.org/web/20001207071000id_/http%3A//www.pogo.com/corporate/prizerules.html) for complete details. 
+Some of pogo.com's games reward successful players with prizes that can take the form of cash or other prizes. Only certain residents of the United States and Canada (excluding Quebec) who are 18 years of age or more are eligible to receive prizes, and all prize programs are void where prohibited by law. See the [Prize Rules](https://web.archive.org/web/20010406161034id_/http%3A//www.pogo.com/corporate/prizerules.html) for complete details. 
 
 In order to award cash and other prizes, we must collect specific personally identifiable information for income tax purposes. This specific information includes: full legal name, complete address (city, state, country and zip/postal code), a social security number (social insurance number in Canada) and date of birth. All information must be completed in full as described in our Affidavit of Eligibility and must be accurate in order to receive a prize. If this information is not collected and verified, the prize will not be awarded. 
 
@@ -84,7 +84,7 @@ The aggregate demographic information we collect from our members is shared with
 **How we may use and disclose non-personally identifiable information**  
 During the registration process, each member is asked to provide his or her year of birth, gender, ZIP code and country. In marketing surveys, we may request additional information, including household income, education level, type of employment, hobbies and other types of information. This information may be used by pogo.com to select and direct advertising that is more likely to be of interest to a particular member. This information is transmitted to an ad server owned by DoubleClick to match members with ads that they are more likely to be interested in. We do not disclose any member's personally identifiable information to our advertisers without the member's consent. Participation in member surveys is entirely optional. 
 
-In addition, DoubleClick may use information regarding your activities on pogo.com and other web sites (including search terms, ads you click on and sites you visit online) to create more detailed user profiles. These profiles are not associated with any personally identifiable information, but are used by DoubleClick and its partners (including pogo.com) to understand members and to direct advertising that is more relevant to you. For more information on DoubleClick's services and how you can opt out of those services, please visit [DoubleClick's website](http://www.doubleclick.com:8080/privacy_policy/). 
+In addition, Doubleclick may use non-personally identifiable information about a consumer's visit to this and other websites (including search terms, ads you click on and sites you visit online) to create more detailed user profiles. These profiles are not associated with any personally identifiable information, but are used by Doubleclick and its partners (including pogo.com) to understand members and to direct advertising on this and other websites that is more relevant to you. For more information on Doubleclick's services and how you can opt out of those services, please visit [Doubleclick's website.](http://www.doubleclick.com:8080/privacy_policy/)
 
 **How we may use and disclose personally identifiable information:**  
 **A:** _E-mail promotions and offers from pogo.com and our partners._ During the registration process, you may choose to receive promotional e-mail from pogo.com and selected partners we do business with. If you do not opt out of the pogo.com e-mail information, or if you opt in to the other promotions and offers, we will use your e-mail address to send you the pogo.com newsletter and updates and to send you information on products or services from our selected partners and sponsors. You can, at any time, choose to unsubscribe from these e-mail lists by following the instructions contained in the e-mails. We also offer members the ability to register for other related services from our site (for example, MyPoints). If you opt in to any of these services, we may collect additional information requested by a service provider and pass this information, together with all other registration information (including personally identifiable information), to that service provider. Use of your information by a service provider will be governed by the terms of service (including the privacy statement) of that service provider. We may also retain any additional information collected for use in accordance with the terms of this Privacy Statement. Participation in these other related services is optional and is not required to play games on pogo.com. 
@@ -167,9 +167,9 @@ Contacting Us
 
 If you have any further questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact: 
 
-Todd Heringer  
+Tahd Frentzel  
 pogo.com  
 300 California Street  
 Suite 800  
 San Francisco, CA 94105  
-[theringe@pogo.com](mailto:theringe@pogo.com)
+[tahd@pogo.com](mailto:tahd@pogo.com)
