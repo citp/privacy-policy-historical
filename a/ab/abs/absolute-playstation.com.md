@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolute-playstation.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614192445id_/http%3A//www.absolute-playstation.com/api_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolute-playstation.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205052400id_/http%3A//www.absolute-playstation.com/api_privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Absolute PlayStation International
 
