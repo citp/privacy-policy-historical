@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pa.gov privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602115120id_/http%3A//www.state.pa.us/papower/cwp/view.asp%3Fa%3D3%26q%3D414879) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pa.gov privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210055534id_/http%3A//www.state.pa.us/papower/cwp/view.asp%3Fa%3D3%26q%3D414879) for the most accurate reproduction.*
 
-# PAPower: COMMONWEALTH OF PENNSYLVANIA PRIVACY POLICY
+# PAPower: Pennsylvania PowerPort Privacy Policy
 
-** **
+****
 
-**COMMONWEALTH OF PENNSYLVANIA PRIVACY POLICY**  
+**Pennsylvania PowerPort Privacy Policy**  
 
 
 Thank you for visiting the Commonwealth of Pennsylvania on the World Wide Web. Our web sites are designed to make it easier and more efficient for Pennsylvania citizens and businesses to interact with their State Government. But as with all online resources, we appreciate that many visitors to our sites will be concerned about their privacy. The Commonwealth is committed to preserving your privacy when you visit our sites. 
@@ -77,4 +77,4 @@ Cookies created on your computer by using our web sites do not contain personall
 **Information Disclaimer  
 ** Information provided on the Commonwealth’s web sites is intended to allow the public immediate access to public information.  While all attempts are made to provide accurate, current and reliable information we recognize the possibility of human and/or mechanical error.  Therefore, the Commonwealth of Pennsylvania, its employees, officers and agencies expressly deny any warranty of the accuracy, reliability or timeliness of any information published by this system and shall not be held liable for any losses caused by reliance upon the accuracy, reliability or timeliness of such information.  Any person who relies upon such information obtained from this system does so at his or her own risk.  
 
-Content Last Modified on 5/1/2002 3:52:42 PM
+Content Last Modified on 10/9/2002 11:29:11 AM
