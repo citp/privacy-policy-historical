@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metafaq.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609164848id_/http%3A//transversal.com/html/global/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metafaq.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011074300id_/http%3A//www.transversal.com/html/global/privacy.php) for the most accurate reproduction.*
 
 # Transversal Corporation - web-based customer support and information sharing solutions
 
