@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the fannation.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603020346id_/http%3A//www.artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fannation.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204154330id_/http%3A//artistdirect.com/faq/privacy.html) for the most accurate reproduction.*
 
-# ARTISTdirect.com on the ARTISTdirect Network
+# Free Music Download, MP3 Music, Music Chat, Music Video, Music CD, ARTIST direct Network
 
+  
 **ARTISTdirect NETWORK - PRIVACY POLICY**
 
 **Privacy Policy Overview**  
@@ -43,7 +44,7 @@ We also may share your personally identifiable information with third parties wh
 
 We use the personal information we collect to communicate with you purchases, to deliver purchases, to notify you if you've won a prize for a contest that you've entered, or to be able to personalize a part of the site with the services and information you choose. If you choose to subscribe to our newsletter, we use your personal information to select and deliver messages to you.
 
-ARTISTdirect uses aggregated information to sell and deliver advertising. We disclose aggregated information about our Sites to third parties, including information regarding the effectiveness of our advertisers' advertisements. Some online activities necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in an email to a third party or when you order merchandise in our Sites' shopping areas. Remember, information you provide as part of your community Profile of preferences ([User Profiles](http://www.imusic.com/users/a.html)) is not confidential, and is accessible by the public. Similarly, any information you provide in chat rooms, message boards, or other public forums is not confidential and we may not remind you, so please keep this in mind if you're going to use these parts of our Sites. Your choice to disclose personally identifiable information in such cases is up to you. 
+ARTISTdirect uses aggregated information to sell and deliver advertising. We disclose aggregated information about our Sites to third parties, including information regarding the effectiveness of our advertisers' advertisements. Some online activities necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in an email to a third party or when you order merchandise in our Sites' shopping areas. Remember, information you provide as part of your community Profile of preferences ([User Profiles](http://bbs.artistdirect.com/memberlist.php?s=)) is not confidential, and is accessible by the public. Similarly, any information you provide in chat rooms, message boards, or other public forums is not confidential and we may not remind you, so please keep this in mind if you're going to use these parts of our Sites. Your choice to disclose personally identifiable information in such cases is up to you. 
 
 In addition, if ARTISTdirect is acquired by or merges with another company, we may transfer your information to such a company. 
 
