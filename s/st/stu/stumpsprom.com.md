@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211173513id_/http%3A//stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D14%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603145217id_/http%3A//www.stumpsprom.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
 
 # StumpsProm: Customer Service: Site Security & Privacy
 
@@ -6,7 +6,7 @@
 
 At StumpsProm.com, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security. 
 
-We have followed and surpassed all industry standards necessary for a secure site. We are a [VeriSign™](https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=353c9cd78ce35001eb06c1419c003624) secure site. This means that all information sent to our site is encrypted and protected against disclosure to third parties. 
+We have followed and surpassed all industry standards necessary for a secure site. We are a [VeriSign™](https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=d98a955b1a1605f205c665609c4e8ee9) secure site. This means that all information sent to our site is encrypted and protected against disclosure to third parties. 
 
 Our servers use SSL (Secure Sockets Layer). This is an advanced technology that **encrypts all of the information you send us** (this includes all of your personal information such as your name, address, credit card number, etc.) so that it cannot be read as the information as it travels over the Internet. 
 
@@ -56,7 +56,7 @@ We do not request any information from children under the age of 13, although we
 
 At no time is this information shared with third parties. Additionally, we do request e-mail consent from a parent if we receive any information from a child under 13. 
 
-If you at any time have questions about our Privacy Policy, please feel free to e-mail us [Customer Service](mailto:csr@StumpsProm.com), call toll free at 1-800-348-5084 or write to us at: 
+If you at any time have questions about our Privacy Policy, please feel free to e-mail us [Customer Service](mailto:csr@stumpsparty.com), call toll free at 1-800-348-5084 or write to us at: 
 
 **StumpsProm**  
 Attn: Customer Service  
