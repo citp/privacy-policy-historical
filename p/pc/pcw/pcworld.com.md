@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217204637id_/http%3A//www.pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcworld.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184531id_/http%3A//www.pcworld.com/resource/privacy.asp) for the most accurate reproduction.*
 
 # PCWorld.com -
 
@@ -26,7 +26,7 @@ If you have questions or concerns regarding this statement, please contact:
 >  PC World.com  
 >  501 Second Street  
 >  San Francisco, CA 94107  
->  e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20011217204637id_/http%3A//www.pcworld.com/resource/webmaster@pcworld.com)
+>  e-mail: [webmaster@pcworld.com ](https://web.archive.org/web/20020601184531id_/http%3A//www.pcworld.com/resource/webmaster@pcworld.com)
 
 If you do not receive acknowledgment of your inquiry, or your questions have not been satisfactorily addressed, you should then contact TRUSTe: <http://www.truste.org/users/users_watchdog.html>
 
@@ -89,10 +89,8 @@ Also, PCWorld.com has several reputable partners (listed below) that produce co-
 
 | Partner| PCWorld.com Branded Service  
 ---|---  
-ePeople  
 PriceGrabber  
-PC Pitstop|  _PC World_ Expert Help  
- _PC World_ Product Finder  
+PC Pitstop|  _PC World_ _PC World_ Product Finder  
 PC Pitstop  
   
 In some cases, users will be referred to third-party sites from PCWorld.com. User information collected on these third-party sites or co-branded partner sites will occasionally be shared with PCWorld.com in aggregate form for internal tracking purposes, but is not linked to any personal information.
