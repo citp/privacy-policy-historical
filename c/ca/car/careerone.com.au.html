@@ -1,0 +1,799 @@
+<!--The following is the downloaded HTML source of the careerone.com.au privacy policy that was archived on 2001-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011021173043id_/http%3A//careerone.com.au/about/home/0%2C6202%2C%2C00.html%23privacy) for the most accurate reproduction.-->
+
+<html><head>
+   <title>CareerOne powered by Hot Jobs </title>
+	
+	<meta name="description" content=" CareerOne is the ultimate online career resource with thousands of Australian jobs and free access to job seeking tools such as building your resume online and " job="" search="" agent",="" which="" emails="" you="" jobs="" daily."="">
+	<meta name="keywords" content=" CareerOne, HotJobs, jobs, career, employment, CV, resume, recruitment, human resources, IT, news ">
+	  <script language="Javascript">
+<!--
+function mouse(img_name, actual_image) 
+{
+   document[img_name].src = actual_image ;
+}
+// -->
+</script>
+
+ <script language="Javascript">
+<!--
+// odds for Ninnbar flash
+var randomN=Math.floor(Math.random()*2);
+
+// *** Flash Detection ***
+// checking for flash (2-5)
+var targetVersion = 4;			
+
+var flash2Installed = false;		
+var flash3Installed = false;		
+var flash4Installed = false;		
+var flash5Installed = false;		
+var maxVersion = 5;					
+var detectedVersion = 0;				
+var hasFlash = false;		
+var jsVersion = 1.0;				
+
+browserName = navigator.appName;
+// -->
+</script>
+
+<script language="JavaScript1.1">
+<!--
+var isIE = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;		// true if ie
+var isWin = (navigator.appVersion.indexOf("Windows") != -1) ? true : false; // true if windows
+var isMac = (navigator.appVersion.indexOf("Mac") != -1) ? true : false; // true if mac
+jsVersion = 1.1;
+
+function ieVer()    {
+  // fix for IE 5/6 appVersion bug, which returns 4.x instead of 5/6
+  if ((isIE) && ((navigator.userAgent.indexOf("5.") != -1)||(navigator.userAgent.indexOf("6.") != -1)))
+    { 
+    var ieVersion = "";
+    var str = navigator.userAgent;
+    var pos = str.indexOf("IE ");  // real version num follows "IE "
+    for (pos=pos+3; pos<str.length; pos++)  // build verNum string
+      if (str.charAt(pos) == "." || 
+         (str.charAt(pos) <= "9" && str.charAt(pos) >= "0"))
+        ieVersion += str.charAt(pos);
+      else
+        break;
+    return ieVersion;
+    }
+  var verArray = navigator.appVersion.split(" ");
+  return verArray[0];
+}
+
+// ie windows detection
+if(isIE && isWin){ 
+	document.write('<SCR' + 'IPT LANGUAGE=VBScript> \n');
+	document.write('on error resume next \n');
+	document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
+	document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
+	document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
+	document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');	
+	document.write('</SCR' + 'IPT> \n'); 
+}
+// -->
+</script>
+
+<script language="JavaScript" type="text/javascript">
+<!--
+function detectFlash()	{
+// For now we'll just assume that IE6 has Flash5
+if (ieVer() >=6 ) {hasFlash=true;}
+// Not possible to check for Flash on less than IE5 on Mac
+if (!(isMac && ((browserName == "Microsoft Internet Explorer") && (ieVer() < 5 ))))
+	{
+	if (navigator.plugins)
+		{						
+	// flash 2 or 3?
+		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"])
+			{		
+			// set pointers to flash 2 and the plugin description
+			var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
+			var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
+			var flashVersion = parseInt(flashDescription.charAt(flashDescription.indexOf(".") - 1));
+			// we know the version, now set appropriate version flags
+			flash2Installed = flashVersion == 2;		
+			flash3Installed = flashVersion == 3;
+			flash4Installed = flashVersion == 4;
+			flash5Installed = flashVersion == 5;
+			}
+		}
+	// set detected version
+	for (var i = 2; i <= maxVersion; i++) {	
+		if (eval("flash" + i + "Installed") == true) detectedVersion = i;
+		}
+	if (detectedVersion >= targetVersion) { 		
+		hasFlash = true;
+		}
+	}
+	else
+	{	// if < ie5 on mac then assume they have flash
+		hasFlash = true;
+	}
+}
+
+detectFlash();
+
+// *** End Flash Detection ***	
+//-->
+</script>	
+
+<script language="JavaScript">
+<!--
+// Flash object(s)
+// 1. Flash News Ticker:
+var flashTicker = '<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"'
++ 'WIDTH="360" HEIGHT="30"'
++ 'codebase="http://active.macromedia.com/flash2/cabs/swflash.cab#version=4,0,0,0" ID=ticker>'
++ '<PARAM NAME="movie" VALUE="/common/topnavbarflash/news_topnews.swf">'
++ '<PARAM NAME="quality" VALUE="high">'
++ '<PARAM NAME="bgcolor" VALUE="#000033">' 
++ '<EMBED src="/common/topnavbarflash/news_topnews.swf"'
++ 'quality="high"'
++ 'bgcolor="#000033"'
++ 'WIDTH="360" HEIGHT="30"'
++ 'TYPE="application/x-shockwave-flash"'
++ 'PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash">'
++ '</EMBED>'
++ '</OBJECT>';
+
+// 2. Flash Ninnbar:
+var flashNinnbar = '<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">'
++ '<tr><td align="LEFT" bgcolor="#FFFFFF">'
++ '<table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#ffffff">'
++ '<tr bgcolor="#FFFFFF">'
++ '<td width="760" bgcolor="#ffffff">'
++ '<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' 
++ 'width="760" height="27"'
++ 'codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" name=ninnbarf>'
++ '<param name="movie" value="http://www.news.com.au/common/ninnbar3_2o.swf">'
++ '<param name="quality" value="low">'
++ '<PARAM NAME=menu VALUE=false>'
++ '<PARAM NAME="devicefont" VALUE="true">'
++ '<param name="bgcolor" value="#FFFFFF">'
++ '<embed src="http://www.news.com.au/common/ninnbar3_2o.swf"'
++ 'width="760" height="27" autostart="false" quality="low" menu=false devicefont=true bgcolor="#FFFFFF"'
++ 'TYPE="application/x-shockwave-flash"'
++ 'PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"'
++ 'name=ninnbarf></EMBED></object>'
++ '</td></tr></table></td></tr></table>';
+
+// Alternative no-flash content
+// var noFlashContent = '';
+//-->
+</script> <link rel="stylesheet" href="http://careerone.com.au/common/style.css" type="text/css">
+</head>
+<body bgcolor="#ffffff" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">
+<table cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td colspan="3">
+<!--start top nav-->
+	<!-- Vignette StoryServer 4 Wed Oct 17 15:00:25 2001 -->
+<script language="JavaScript" type="text/javascript">
+<!--
+document.writeln('<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF">\
+<tr><td align="LEFT" bgcolor="#FFFFFF">\
+<table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#ffffff">\
+<tr bgcolor="#FFFFFF">\
+<td width="120" bgcolor="#ffffff"><img src="http://central.news.com.au/ninnbar/images/ni_logo.gif" width="120" height="24" alt="News Interactive" border="0" vspace="1"></td>\
+<td align="center" bgcolor="#FFFFFF">\
+<table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%">\
+<tr><td colspan="20" height="2"><spacer type="block" width="1" height="2"></td></tr>\
+<tr><td width=1 bgcolor="#FFFFFF"><spacer type="block" width=1 height=1></td><td bgcolor="#959595"><spacer type="block" width=1 height=1></td>\
+<td rowspan=2><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
+<td bgcolor=\'#959595\'><spacer type=block width=1 height=1></td>\
+<td rowspan=2><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
+<td bgcolor=\'#959595\'><spacer type=block width=1 height=1></td>\
+<td rowspan=2><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
+<td bgcolor=\'#959595\'><spacer type=block width=1 height=1></td>\
+<td rowspan=2><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
+<td bgcolor=\'#959595\'><spacer type=block width=1 height=1></td>\
+<td rowspan=2><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
+<td bgcolor=\'#959595\'><spacer type=block width=1 height=1></td>\
+<td rowspan=2><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
+<td bgcolor=\'#959595\'><spacer type=block width=1 height=1></td>\
+<td rowspan=2><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
+<td bgcolor=\'#959595\'><spacer type=block width=1 height=1></td>\
+<td rowspan=2><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
+<td bgcolor=\'#959595\'><spacer type=block width=1 height=1></td>\
+<td rowspan=2><img src=http://central.news.com.au/ninnbar/images/tab_corner.gif width=6 height=18 border=0></td>\
+<td rowspan=2 width=40><spacer type="block" width=30 height=1></td></tr>\
+<tr><td width=1 bgcolor="#353535"><spacer type="block" width=1 height=1></td>\
+<td bgcolor=\'#EEEEEE\' align=center onMouseover=this.style.backgroundColor=\'#CCCCCC\' onMouseout=this.style.backgroundColor=\'#EEEEEE\'><a href="http://www.news.com.au" target="_top"><a href="http://www.news.com.au" target="_top" STYLE=\'font-weight:bold; font-size:11px; text-decoration:none; color:#000000;\'><font face=\'arial,helvetica,sans-serif\'>&nbsp;News&nbsp;</font></a></a></td>\
+<td bgcolor=\'#EEEEEE\' align=center onMouseover=this.style.backgroundColor=\'#CCCCCC\' onMouseout=this.style.backgroundColor=\'#EEEEEE\'><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=money" target="_top" STYLE=\'font-weight:bold; font-size:11px; text-decoration:none; color:#000000;\'><font face=\'arial,helvetica,sans-serif\'><nobr>&nbsp;Money&nbsp;</nobr></font></a></td>\
+<td bgcolor=\'#EEEEEE\' align=center onMouseover=this.style.backgroundColor=\'#CCCCCC\' onMouseout=this.style.backgroundColor=\'#EEEEEE\'><a href="http://www.australianit.com.au" target="_top" STYLE=\'font-weight:bold; font-size:11px; text-decoration:none; color:#000000;\'><font face=\'arial,helvetica,sans-serif\'><nobr>&nbsp;&nbsp;IT&nbsp;&nbsp;</nobr></font></a></td>\
+<td bgcolor=\'#EEEEEE\' align=center onMouseover=this.style.backgroundColor=\'#CCCCCC\' onMouseout=this.style.backgroundColor=\'#EEEEEE\'><a href="http://foxsports.com.au" target="_top" STYLE=\'font-weight:bold; font-size:11px; text-decoration:none; color:#000000;\'><font face=\'arial,helvetica,sans-serif\'><nobr>&nbsp;Fox Sports&nbsp;</nobr></font></a></td>\
+<td bgcolor=\'#EEEEEE\' align=center onMouseover=this.style.backgroundColor=\'#CCCCCC\' onMouseout=this.style.backgroundColor=\'#EEEEEE\'><a href="http://classifieds.news.com.au" target="_top" STYLE=\'font-weight:bold; font-size:11px; text-decoration:none; color:#000000;\'><font face=\'arial,helvetica,sans-serif\'><nobr>&nbsp;Classifieds&nbsp;</nobr></font></a></td>\
+<td bgcolor=\'#EEEEEE\' align=center onMouseover=this.style.backgroundColor=\'#CCCCCC\' onMouseout=this.style.backgroundColor=\'#EEEEEE\'><a href="http://www.realestate.com.au" target="_top" STYLE=\'font-weight:bold; font-size:11px; text-decoration:none; color:#000000;\'><font face=\'arial,helvetica,sans-serif\'><nobr>&nbsp;Real Estate&nbsp;</nobr></font></a></td>\
+<td bgcolor=\'#EEEEEE\' align=center onMouseover=this.style.backgroundColor=\'#CCCCCC\' onMouseout=this.style.backgroundColor=\'#EEEEEE\'><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=cars" target="_top" STYLE=\'font-weight:bold; font-size:11px; text-decoration:none; color:#000000;\'><font face=\'arial,helvetica,sans-serif\'><nobr>&nbsp;Cars&nbsp;</nobr></font></a></td>\
+<td bgcolor=\'#EEEEEE\' align=center onMouseover=this.style.backgroundColor=\'#CCCCCC\' onMouseout=this.style.backgroundColor=\'#EEEEEE\'><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=jobs" target="_top" STYLE=\'font-weight:bold; font-size:11px; text-decoration:none; color:#000000;\'><font face=\'arial,helvetica,sans-serif\'><nobr>&nbsp;Jobs&nbsp;</nobr></font></a></td>\
+<td bgcolor=\'#EEEEEE\' align=center onMouseover=this.style.backgroundColor=\'#CCCCCC\' onMouseout=this.style.backgroundColor=\'#EEEEEE\'><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=auction" target="_blank" STYLE=\'font-weight:bold; font-size:11px; text-decoration:none; color:#000000;\'><font face=\'arial,helvetica,sans-serif\'><nobr>&nbsp;Auctions&nbsp;</nobr></font></a></td></tr></table></td>\
+<td align=right>\
+<table width=135 border="0" cellspacing="0" cellpadding="0">\
+<tr><td align=right><a href="http://ad.au.doubleclick.net/clk;2954358;5999579;o?http://www.myworldvision.com.au" target=_blank><img src="http://central.news.com.au/ninnbar/images/my_world_vision.gif" border=0></td></tr></table></td></tr>\
+<tr bgcolor="#FFFFFF"><td height="1" width="120" bgcolor="#959595"><spacer type="block" width=120 height=1></td><td height="1" colspan="2" bgcolor="#959595"><spacer type="block" width=1 height=1></td></tr></table></td></tr></table>');
+//-->
+</script><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF"><tbody><tr><td align="LEFT" bgcolor="#FFFFFF"><table cellpadding="0" cellspacing="0" border="0" width="760" bgcolor="#ffffff"><tbody><tr bgcolor="#FFFFFF"><td width="120" bgcolor="#ffffff"><img src="http://central.news.com.au/ninnbar/images/ni_logo.gif" width="120" height="24" alt="News Interactive" border="0" vspace="1"></td><td align="center" bgcolor="#FFFFFF"><table border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFFF" width="100%"><tbody><tr><td colspan="20" height="2"><spacer type="block" width="1" height="2"></spacer></td></tr><tr><td width="1" bgcolor="#FFFFFF"><spacer type="block" width="1" height="1"></spacer></td><td bgcolor="#959595"><spacer type="block" width="1" height="1"></spacer></td><td rowspan="2"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595"><spacer type="block" width="1" height="1"></spacer></td><td rowspan="2"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595"><spacer type="block" width="1" height="1"></spacer></td><td rowspan="2"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595"><spacer type="block" width="1" height="1"></spacer></td><td rowspan="2"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595"><spacer type="block" width="1" height="1"></spacer></td><td rowspan="2"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595"><spacer type="block" width="1" height="1"></spacer></td><td rowspan="2"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595"><spacer type="block" width="1" height="1"></spacer></td><td rowspan="2"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595"><spacer type="block" width="1" height="1"></spacer></td><td rowspan="2"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td bgcolor="#959595"><spacer type="block" width="1" height="1"></spacer></td><td rowspan="2"><img src="http://central.news.com.au/ninnbar/images/tab_corner.gif" width="6" height="18" border="0"></td><td rowspan="2" width="40"><spacer type="block" width="30" height="1"></spacer></td></tr><tr><td width="1" bgcolor="#353535"><spacer type="block" width="1" height="1"></spacer></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor='#CCCCCC'" onmouseout="this.style.backgroundColor='#EEEEEE'"><a href="http://www.news.com.au" target="_top"></a><a href="http://www.news.com.au" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif">&nbsp;News&nbsp;</font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor='#CCCCCC'" onmouseout="this.style.backgroundColor='#EEEEEE'"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=money" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>&nbsp;Money&nbsp;</nobr></font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor='#CCCCCC'" onmouseout="this.style.backgroundColor='#EEEEEE'"><a href="http://www.australianit.com.au" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>&nbsp;&nbsp;IT&nbsp;&nbsp;</nobr></font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor='#CCCCCC'" onmouseout="this.style.backgroundColor='#EEEEEE'"><a href="http://foxsports.com.au" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>&nbsp;Fox Sports&nbsp;</nobr></font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor='#CCCCCC'" onmouseout="this.style.backgroundColor='#EEEEEE'"><a href="http://classifieds.news.com.au" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>&nbsp;Classifieds&nbsp;</nobr></font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor='#CCCCCC'" onmouseout="this.style.backgroundColor='#EEEEEE'"><a href="http://www.realestate.com.au" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>&nbsp;Real Estate&nbsp;</nobr></font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor='#CCCCCC'" onmouseout="this.style.backgroundColor='#EEEEEE'"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=cars" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>&nbsp;Cars&nbsp;</nobr></font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor='#CCCCCC'" onmouseout="this.style.backgroundColor='#EEEEEE'"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=jobs" target="_top" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>&nbsp;Jobs&nbsp;</nobr></font></a></td><td bgcolor="#EEEEEE" align="center" onmouseover="this.style.backgroundColor='#CCCCCC'" onmouseout="this.style.backgroundColor='#EEEEEE'"><a href="http://redirect.news.com.au/servlet/jsp/Redirect.jsp?redirect=auction" target="_blank" style="font-weight:bold; font-size:11px; text-decoration:none; color:#000000;"><font face="arial,helvetica,sans-serif"><nobr>&nbsp;Auctions&nbsp;</nobr></font></a></td></tr></tbody></table></td><td align="right"><table width="135" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="right"><a href="http://ad.au.doubleclick.net/clk;2954358;5999579;o?http://www.myworldvision.com.au" target="_blank"><img src="http://central.news.com.au/ninnbar/images/my_world_vision.gif" border="0"></a></td></tr></tbody></table></td></tr><tr bgcolor="#FFFFFF"><td height="1" width="120" bgcolor="#959595"><spacer type="block" width="120" height="1"></spacer></td><td height="1" colspan="2" bgcolor="#959595"><spacer type="block" width="1" height="1"></spacer></td></tr></tbody></table></td></tr></tbody></table>
+ <table width="755" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td rowspan="2"><a href="http://careerone.com.au"><img src="http://careerone.com.au/images/logo_c1hj.gif" width="181" height="103" alt="CareerOne powered by Hot Jobs" border="0"></a></td>
+    <td height="78" background="http://careerone.com.au/images/bg_greencurve.gif" align="right" valign="bottom">
+	 
+	 
+	
+
+		<!-- AdSpace  site=careerone&section=c1jobsearch&adsize=468x60&pagepos=1-->
+<iframe width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adserver.news.com.au/html.ng/site=careerone&amp;section=c1jobsearch&amp;adsize=468x60&amp;pagepos=1"><SCRIPT LANGUAGE=JavaScript1.1 SRC=http://adserver.news.com.au/js.ng/Params.richmedia=yes&site=careerone&section=c1jobsearch&adsize=468x60&pagepos=1></SCRIPT><NOSCRIPT><A HREF=http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=careerone&section=c1jobsearch&adsize=468x60&pagepos=1><IMG SRC=http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=careerone&section=c1jobsearch&adsize=468x60&pagepos=1></A></NOSCRIPT></iframe>
+<!-- /AdSpace -->
+&nbsp;&nbsp;</td>
+  </tr>
+
+  <tr>
+   
+    <td><a href="/"><img src="http://careerone.com.au/images/nav_home.gif" width="82" height="25" alt="home" border="0"></a><a href="http://jobseekers.careerone.com.au/htdocs/job-search-page.html"><img src="http://careerone.com.au/images/nav_jobseekers.gif" width="82" height="25" alt="for jobseekers" border="0"></a><a href="http://careerone.com.au/advertisers/home/0,6209,,00.html"><img src="http://careerone.com.au/images/nav_advertisers.gif" width="82" height="25" alt="for advertisers" border="0"></a><a href="http://careerone.com.au/cone_channels/home/0,6203,channels,00.html"><img src="http://careerone.com.au/images/nav_channels.gif" width="82" height="25" alt="careerone channels" border="0"></a><a href="http://careerone.com.au/career_resources/home/0,6295,resources,00.html"><img src="http://careerone.com.au/images/nav_resources.gif" width="82" height="25" alt="career resources" border="0"></a><a href="http://jobseekers.careerone.com.au/htdocs/company-list/company-list-a-flat.html"><img src="http://careerone.com.au/images/nav_search.gif" width="82" height="25" alt="company search" border="0"></a><a href="http://careerone.com.au/about/home/0,6202,,00.html"><img src="http://careerone.com.au/images/nav_about_a.gif" width="82" height="25" alt="about us" border="0"></a></td>
+   </tr>
+
+   <tr>  
+  
+  	<td><img src="http://careerone.com.au/images/bg_scoop.gif" width="181" height="23" alt=""></td>
+	<td background="http://careerone.com.au/images/bg_subnav.gif" height="23" align="center" valign="bottom"><a href="http://careerone.com.au/about/home/0,6202,,00.html"><img src="http://careerone.com.au/images/subnav_corpprofile_a.gif" width="119" height="19" alt="corp profile" border="0"></a><a href="http://careerone.com.au/about/news_room/0,6205,about|abnewsroom,00.html"><img src="http://careerone.com.au/images/subnav_newsroom.gif" width="86" height="19" alt="news room" border="0"></a><a href="http://careerone.com.au/about/contacts/0,6201,about|abcontact,00.html"><img src="http://careerone.com.au/images/subnav_contact.gif" width="83" height="19" alt="contact" border="0"></a></td>
+   </tr>
+</tbody></table><!--end top nav-->
+    </td>
+  </tr>
+
+  <tr>
+    <td valign="top" width="181">
+<!--start left nav-->
+	
+ 		<table width="181" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td width="38"><spacer type="block" width="38" height="1"></spacer></td>
+    <td width="15" background="/images/leftnav_line.gif"><spacer type="block" width="15" height="1"></spacer></td>
+    <td colspan="2"><img src="/images/leftnav_pic_buildings.gif" width="128" height="236" alt="" border="0"></td>
+  </tr> 
+
+  <tr>
+    <td></td>
+    <td colspan="3"><img src="/images/leftnav_base2.gif" width="143" height="21" alt=""></td>
+  </tr>
+</tbody></table>
+ <!--end left nav-->
+    </td>
+
+    <td valign="top" width="435">
+    <!--start content-->
+	<table width="427" cellpadding="0" cellspacing="0" border="0">
+	    <tbody><tr>        
+          <td align="right"><p class="breadcrumb">Your Location: <a href="/">Home</a> &gt; About Us (Corporate profile)</p></td>
+        </tr>
+
+        <tr>
+          <td>&nbsp;</td>
+        </tr>
+
+        <tr>
+          <td height="24" background="/images/bg_headdot.gif"><p class="headred">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;CORPORATE PROFILE</p></td>
+        </tr>
+
+		 
+		<!--start segment module-->
+        <tr>
+          <td>
+            <p><br>CareerOne powered by HotJobs is owned by News Interactive, the online division of News Ltd.
+</p><p>
+The site first went live in November 1999 and has continued to develop and introduce new features for job seekers and advertisers ever since.
+</p><p>
+A recent milestone was the alliance formed between CareerOne and HotJobs in April 2001.
+</p><p>
+By combining the strengths of careerone.com.au and hotjobs.com.au, we are able to offer jobseekers, employers and recruitment firms an unparalleled  service.
+</p><p>
+With more than 30,000 jobs listed daily, the resources of News Limited and the best technology in the business, CareerOne powered by HotJobs is the benchmark other online employment sites will have to aspire to. 
+<br>
+</p><ul><li> View the <a href="#privacy">News Interactive Privacy Policy</a>
+</li><li> View the <a href="#legal">Career One Terms and Conditions</a>
+</li></ul> </td>
+        </tr>
+        <!--end segment module-->
+		
+		<!--start segment between module-->
+        <tr>
+          <td height="20"><spacer type="block" width="1" height="20"></spacer></td>
+        </tr>
+
+        <tr>
+          <td height="1" background="/images/dash_hori.jpg"><img src="/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+        <!--end segment between module-->
+		   
+	<!--start segment module-->
+	
+       
+      
+        <tr>
+          <td>
+            <p class="headpurple"><br>News Interactive Privacy Policy<a name="privacy">&nbsp;</a> </p><p>By using this Site, you agree to the Privacy Policy of News Interactive Pty Limited set out below. 
+News Interactive reviews its Privacy Policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. News Interactive welcomes your comments and feedback. Please send an email to <a_href=mailto:feedback@news.com.au>feedback@news.com.au
+News Interactive recognises the importance of protecting the privacy of personally identifiable information collected about visitors to our sites.
+</a_href=mailto:feedback@news.com.au></p><p>
+<span class="subheadpurple">Personal Information</span>
+</p><p>
+Personally identifiable information about visitors to our sites is collected only when knowingly and voluntarily submitted. For example, we may need to collect such information to provide you with information or a product you requested, in connection with membership, contest entry forms or for billing purposes, or in connection with community postings such as chat and bulletin boards.
+</p><p>
+Sometimes News Interactive engages in activities with business partners and sponsors with whom personal information is jointly collected or shared. In situations where your information will be shared, it is recommended that you also review the privacy policy of our business partner or sponsor.
+</p><p>
+<span class="subheadpurple">Use of Information</span>
+</p><p>
+Personally identifiable information that visitors submit to our sites is used only for the purpose for which it is submitted unless we disclose other uses in this Privacy Policy or at the time of collection. 
+</p><p>
+<span class="subheadpurple">CareerOne Resume Details</span>
+</p><p>
+With respect to the CareerOne site, all personal information requested by CareerOne is encrypted and cannot be viewed by anyone other than you. If you choose to post your resume on the CareerOne site, you have the option of three security levels to determine the amount of personal information revealed. 
+</p><p>
+<span class="subheadpurple">Use by Third Parties and Public Information</span>
+</p><p>
+News Interactive may use reputable third parties to manage activities available on our sites including, but not limited to, contests, statistical analysis or chats. These parties may have access to personally identifiable information submitted by visitors who participate in those activities. Similarly, we may contract with third parties to handle the fulfillment of subscriptions or requests for information you submit to our sites, such as sending you a newsletter. In most instances, News Interactive instructs these third parties to use personally identifiable information only for the specific purpose for which it is collected. 
+</p><p>
+Any information posted on bulletin boards and/or communicated in chat areas becomes public information. While News Interactive strives to protect and respect your privacy, we cannot guarantee the security of any information you disclose in a chat room or bulletin board. 
+</p><p>
+<span class="subheadpurple">Use of Aggregate Data</span>
+</p><p>
+We may collect certain non-personal information to optimise our Web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, your IP address and the domain name of your Internet service provider). We may use such non-personal information for internal purposes, including but not limited to improving the content of our sites. 
+</p><p>
+News Interactive may use personally identifiable information in aggregate form - not individual - to improve our sites and make them more responsive to the needs of our visitors. This statistical compilation and analysis of information may also be used by News Interactive or provided to others as a summary report for marketing, advertising or research purposes. An example of a summary report may be "20,000 people clicked on an advertiser's banner advertisement on the sports headline page of news.com.au on a particular date." 
+</p><p>
+<span class="subheadpurple">Disclosure</span>
+</p><p>
+Personal information may be disclosed in special situations where News Interactive has reason to believe that doing so is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with News Interactive's rights, property, users, or anyone else who could be harmed by such activities. Also, News Interactive may reveal information when we believe in good faith that the law requires it. 
+</p><p>
+<span class="subheadpurple">Security</span></p><p>
+News Interactive strives to ensure the security, integrity and privacy of personally identifiable information submitted to our sites, and periodically reviews and updates its security measures in light of current technologies. Unfortunately, no data transmission over the Internet can be guaranteed to be totally secure. Although News Interactive strives to protect your personal information, we cannot ensure or warranty the security of any information you may transmit to us or from our online products and services. Once we do receive your transmission, however, we make our best effort to ensure its security on our systems. When credit card information is transmitted, industry standard encryption is used. 
+</p><p>
+<span class="subheadpurple">Changing Personal Information and Discontinuing Membership</span>
+</p><p>
+You may access and change personal information News Interactive has obtained from you at any time, for example, in relation to membership information.
+If at any time after submitting your personal information to our sites you would no longer like to receive information from us, simply follow the "unsubscribe" directions at the end of any email communication you receive.
+</p><p>
+<span class="subheadpurple">Cookies</span>
+</p><p>
+Cookies are data that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies, which are an industry standard used by most Web sites, including those operated by News Interactive, can facilitate a user's ongoing access to and use of a site. They allow us to track usage patterns and to compile data that can help us improve our content and target advertising. If you do not want information collected through the use of Cookies, there is a simple procedure in most browsers that allows you to deny or accept the Cookie feature. But you should note that Cookies may be necessary to provide you with features such as merchandise transactions or registered services. 
+</p><p>
+<span class="subheadpurple">Links to Third Party Ad Serving; Links to Third Party and Co-Branded Sites</span>
+</p><p>
+News Interactive uses the services of third parties for the serving and/or targeting of advertisements. Some of these third parties collect non-personal information through the use of Cookies. More information on the privacy and third party serving of advertisements can be found at http://www.ni.com.au. 
+News Interactive may establish relationships with reputable business partners that allow visitors to our Internet sites to link directly to sites operated by these partners. Some of these sites may be "co-branded" with a News Interactive logo; however, these sites may not be operated or maintained by News Interactive. These sites may collect personal information from you that may be shared with News Interactive. This Privacy Policy will apply to any personal information we obtain in this manner.
+News Interactive is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by News Interactive of the content, policies or practices of such third party sites. Once you have left a News Interactive site via such a link, you should check the applicable privacy policy of the third party site. 
+News Interactive sites may also be linked to Web sites operated by companies affiliated with News Interactive. Visitors to those sites should refer to their separate privacy policies and practices.</p>
+		  </td>
+		</tr>
+		    <!--end segment module-->
+
+    </tbody></table>
+       <p>&nbsp;
+
+
+    <!--end content-->
+    </p></td>
+
+    <!--start right promo-->
+    <td width="144" valign="top" rowspan="2">
+	<!-- Vignette StoryServer 4 Thu Oct 18 15:49:29 2001 -->
+
+	  <table width="138" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td colspan="5" height="10"><spacer type="block" width="1" height="10"></spacer></td>
+  </tr>
+  
+  <tr>
+    <td colspan="5" background="http://careerone.com.au/images/dash_hori.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+  </tr>
+      
+  <!--start 'brought to you by' module-->
+  <tr>
+    <td width="1" rowspan="4" background="http://careerone.com.au/images/dash_vert.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+    <td width="7"><spacer type="block" width="7" height="1"></spacer></td>
+    <td><img src="http://careerone.com.au/images/rightpromo_brought.gif" width="122" height="15" alt="brought to you by" border="0"></td>
+    <td width="7"><spacer type="block" width="7" height="1"></spacer></td>
+    <td width="1" rowspan="4" background="http://careerone.com.au/images/dash_vert.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+  </tr>
+
+  <tr>
+    <td width="7"><spacer type="block" width="7" height="1"></spacer></td>
+    <td align="center"><a href="http://jobseekers.careerone.com.au/cgi-bin/company-job-list?G__GID=30341"><img src="/images/logos/ni_logo.gif" width="120" height="24" border="0"></a></td>
+    <td width="7"><spacer type="block" width="7" height="1"></spacer></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" height="7"><spacer type="block" width="1" height="7"></spacer></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" background="http://careerone.com.au/images/dash_hori.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+  </tr>
+
+  <tr>
+    <td rowspan="5" background="http://careerone.com.au/images/dash_vert.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+    <td colspan="3" height="7"><spacer type="block" width="1" height="7"></spacer></td>
+    <td rowspan="5" background="http://careerone.com.au/images/dash_vert.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+  </tr>
+  <!--end 'brought to you by' module-->
+  </tbody></table>
+
+<table width="138" cellpadding="0" cellspacing="0" border="0">
+
+<!-- have you say -->
+<tbody><tr>
+	<td width="1" background="http://hjc1.careerone.com.au/images/dash_vert.jpg" rowspan="2">
+	<img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="1"></td>
+	<td align="center" width="136" colspan="3">
+	<table cellspacing="0" cellpadding="0" width="122" border="0">
+	<tbody><tr>
+		<td colspan="5"><img height="19" alt="have your say" src="http://hjc1.careerone.com.au/images/rightpromo_haveyoursay.gif" width="122"></td>
+	</tr>
+	<!--start text part-->
+	<tr>
+		<td width="1" bgcolor="#99cc00"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="1"></td>
+		<td colspan="3" height="5"><spacer height="5" width="1" type="block"></spacer></td>
+		<td width="1" bgcolor="#99cc00"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="1"></td>
+	</tr>
+	<tr>
+		<td width="1" bgcolor="#99cc00"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="1"></td>
+		<td width="5"><spacer height="1" width="5" type="block"></spacer></td>
+		<td width="110" class="regpurple">
+		
+		<!-- poll question go here -->
+		
+
+	   
+<script language="Javascript">
+<!-- 
+function openWin(filename, prop) {
+   winObj = eval("open('"+filename+"','newspolls','"+prop+"')");
+   winObj.focus();
+ }
+ 
+// -->
+</script>
+What part of the job hunt do you find most challenging?<br><a href="#" onclick="javascript:openWin('http://www.careerone.com.au/poll/','toolbar=no,scrolling=auto,status=no,menubar=no,scrollbars=yes,resizable=yes,width=565,height=385')">Vote now</a><br>
+ </td>
+		<td width="5"><spacer height="1" width="5" type="block"></spacer></td>
+		<td width="1" bgcolor="#99cc00"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="1"></td>
+	</tr>
+	<tr>
+		<td width="1" bgcolor="#99cc00"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="1"></td>
+		<td colspan="3" height="5"><spacer height="5" width="1" type="block"></spacer></td>
+		<td width="1" bgcolor="#99cc00"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="1"></td>
+	</tr><!--end text part-->
+	<tr>
+		<td width="1" bgcolor="#99cc00"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="1"></td>
+		<td width="5" bgcolor="#99cc00"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="5"></td>
+		<td width="110" bgcolor="#99cc00"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="110"></td>
+		<td width="5" bgcolor="#99cc00"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="5"></td>
+		<td width="1" bgcolor="#99cc00"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="1"></td>
+	</tr>
+	</tbody></table>
+	</td>
+	<td width="1" background="http://hjc1.careerone.com.au/images/dash_vert.jpg" rowspan="2"><img height="1" alt="" src="http://hjc1.careerone.com.au/images/trans.gif" width="1"></td>
+</tr>
+<tr>
+	<td colspan="3" height="7"><spacer height="7" width="1" type="block"></spacer></td>
+</tr>
+<!-- end have your say -->
+
+    
+  <!--start hot jobs from sponsor module-->
+  <tr>
+    <td rowspan="2" background="http://careerone.com.au/images/dash_vert.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+    <td align="center" colspan="3">
+		<table width="122" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+          <td colspan="6" align="center" valign="top" bgcolor="#99cc00"><p><img src="http://hjc1.careerone.com.au/images/rightpromo_hotjobsfrom.gif" width="122" height="15" alt="hot jobs from"><br></p></td>
+        </tr>
+
+        <!--start between-->
+        <tr>
+          <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td colspan="4" height="5"><spacer type="block" width="5" height="1"></spacer></td>
+          <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+        <!--end between-->
+
+        <!--start job-->
+        <tr>
+          <td bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td><spacer type="block" width="5" height="1"></spacer></td>
+          <td valign="top"><p class="regpurple"><a href="http://jobseekers.careerone.com.au/cgi-bin/job-show?TEMPLATE=/htdocs/job-show.html&amp;J__PINDEX=JQGTUG3G6">Admin Support</a><br>Sydney</p></td>
+          <td align="right" valign="top"><p class="regpurple">$45k</p></td>
+          <td><spacer type="block" width="5" height="1"></spacer></td>
+          <td bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+        <!--end job-->
+
+        <!--start between-->
+        <tr>
+          <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td colspan="4" height="5"><spacer type="block" width="5" height="1"></spacer></td>
+          <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+        <!--end between-->
+
+        <!--start job-->
+        <tr>
+          <td bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td><spacer type="block" width="5" height="1"></spacer></td>
+          <td valign="top"><p class="regpurple"><a href="http://jobseekers.careerone.com.au/cgi-bin/job-show?TEMPLATE=/htdocs/job-show.html&amp;J__PINDEX=J0N4VGQOT">Snr Sales Exec</a><br>Brisbane</p></td>
+          <td align="right" valign="top"><p class="regpurple">$100k</p></td>
+          <td><spacer type="block" width="5" height="1"></spacer></td>
+          <td bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+        <!--end job-->
+
+<!--start between-->
+        <tr>
+          <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td colspan="4" height="5"><spacer type="block" width="5" height="1"></spacer></td>
+          <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+        <!--end between-->
+
+        <!--start job-->
+        <tr>
+          <td bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td><spacer type="block" width="5" height="1"></spacer></td>
+          <td valign="top"><p class="regpurple"><a href="http://jobseekers.careerone.com.au/cgi-bin/job-show?TEMPLATE=/htdocs/job-show.html&amp;J__PINDEX=JOR4HUDPH">Network Admin'r</a><br>Melbourne</p></td>
+          <td align="right" valign="top"><p class="regpurple">$65k</p></td>
+          <td><spacer type="block" width="5" height="1"></spacer></td>
+          <td bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+        <!--end job-->
+
+        <!--start between-->
+        <tr>
+          <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td colspan="4" height="5"><spacer type="block" width="5" height="1"></spacer></td>
+          <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+        <!--end between-->
+
+
+        <tr>
+          <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td> 
+          <td width="5" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="5" height="1" alt=""></td> 
+          <td width="70" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="70" height="1" alt=""></td>
+          <td width="40" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="40" height="1" alt=""></td>
+          <td width="5" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="5" height="1" alt=""></td> 
+          <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td> 
+        </tr>  
+      </tbody></table>
+ </td>
+    <td rowspan="2" background="http://careerone.com.au/images/dash_vert.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+  </tr>
+  <tr>
+    <td colspan="3" height="7"><spacer type="block" width="1" height="7"></spacer></td>
+  </tr>
+  <!--end hot jobs from sponsor module-->
+   <!--start essential reading module-->
+      
+    	<tr>
+  <td rowspan="2" width="1" background="http://hjc1.careerone.com.au/images/dash_vert.jpg"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+  <td align="center" colspan="3" width="136">
+   <table width="122" cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr>
+      <td colspan="5"><img src="http://hjc1.careerone.com.au/images/rightpromo_essential.gif" width="122" height="19" alt="essential reading"></td>
+    </tr>
+
+    <!--start text part-->
+    <tr>
+      <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+      <td colspan="3" height="5"><spacer type="block" width="1" height="5"></spacer></td>
+      <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+     </tr>
+
+     <tr>
+       <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+       <td width="5"><spacer type="block" width="5" height="1"></spacer></td>
+       <td width="110">	  
+       <p class="regpurple">
+<a href="http://www.careerone.com.au/technology/">Technology News</a><br>
+<a href="http://www.careerone.com.au/finance/">Finance News</a><br>
+<a href="http://www.careerone.com.au/executive/">ExecutiveNews</a>
+<a href="http://www.careerone.com.au/graduate/">Graduate News</a>
+<a href="http://www.careerone.com.au/health/">Health News</a>  
+  </p></td>
+       <td width="5"><spacer type="block" width="5" height="1"></spacer></td>
+       <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+      </tr>
+
+      <tr>
+        <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        <td colspan="3" height="5"><spacer type="block" width="1" height="5"></spacer></td>
+        <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+      </tr>
+      <!--end text part-->
+      
+	  
+        <tr>
+         <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td> 
+         <td width="5" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="5" height="1" alt=""></td> 
+         <td width="110" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="110" height="1" alt=""></td>
+         <td width="5" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="5" height="1" alt=""></td> 
+         <td width="1" bgcolor="#99cc00"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td> 
+        </tr>      
+      </tbody></table>
+    </td>
+    <td rowspan="2" width="1" background="http://hjc1.careerone.com.au/images/dash_vert.jpg"><img src="http://hjc1.careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+</tr>
+ <tr>
+    	<td colspan="3" height="7"><spacer type="block" width="1" height="7"></spacer></td>
+  	</tr>
+	 <!--end essential reading module-->
+  
+    
+  <!--start member benefit module-->
+  <tr>
+    <td rowspan="2" width="1" background="http://careerone.com.au/images/dash_vert.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+    <td align="center" colspan="3" width="136">
+	  <table width="122" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+          <td colspan="5"><img src="http://careerone.com.au/images/rightpromo_benefits.gif" width="122" height="19" alt="essential reading"></td>
+        </tr>
+        <!--start text part-->
+        <tr>
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td colspan="3" height="5"><spacer type="block" width="1" height="5"></spacer></td>
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+
+        <tr>
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td width="5"><spacer type="block" width="5" height="1"></spacer></td>
+          <td width="110">
+		  <p class="regpurple">
+		  	 </p>
+		  </td>
+          <td width="5"><spacer type="block" width="5" height="1"></spacer></td>
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+
+        <tr>
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td colspan="3" height="5"><spacer type="block" width="1" height="5"></spacer></td>
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+        <!--end text part-->
+        
+		  
+        <!--start button part-->
+        <tr>
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td colspan="3">
+		  
+		  <a href="http://jobseekers.careerone.com.au/htdocs/job-search-page.html"><img src="http://careerone.com.au/promotions/P12114D20010913163750.com.au03 - Banner Adslooking_120x60.gif" width="120" height="60" border="0" alt=""></a>
+		   </td>
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>       
+        </tr>
+
+        <tr>
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+          <td colspan="3" height="5"><spacer type="block" width="1" height="5"></spacer></td>
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+        </tr>
+        <!--end button part-->
+		 <tr>
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td> 
+          <td width="5" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="5" height="1" alt=""></td> 
+          <td width="110" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="110" height="1" alt=""></td>
+          <td width="5" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="5" height="1" alt=""></td> 
+          <td width="1" bgcolor="#99cc00"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td> 
+        </tr>      
+      </tbody></table>
+    </td>
+    <td rowspan="2" width="1" background="http://careerone.com.au/images/dash_vert.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" height="7"><spacer type="block" width="1" height="7"></spacer></td>
+  </tr>
+  <!--end member benefit module-->
+   <!--start sales ad button module-->
+  <tr>
+    <td rowspan="2" background="http://careerone.com.au/images/dash_vert.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+    <td colspan="3" align="center">
+	 
+	
+	
+		<!-- AdSpace  site=careerone&section=c1jobsearch&adsize=120x60&pagepos=1--><iframe width="120" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://adserver.news.com.au/html.ng/site=careerone&amp;section=c1jobsearch&amp;adsize=120x60&amp;pagepos=1"><SCRIPT LANGUAGE=JavaScript1.1 SRC=http://adserver.news.com.au/js.ng/Params.richmedia=yes&site=careerone&section=c1jobsearch&adsize=120x60&pagepos=1></SCRIPT><NOSCRIPT><A HREF=http://adserver.news.com.au/click.ng/Params.richmedia=yes&site=careerone&section=c1jobsearch&adsize=120x60&pagepos=1><IMG SRC=http://adserver.news.com.au/image.ng/Params.richmedia=yes&site=careerone&section=c1jobsearch&adsize=120x60&pagepos=1 width=120 height=60></A></NOSCRIPT></iframe><!-- /AdSpace --><br> </td>
+    <td rowspan="2" background="http://careerone.com.au/images/dash_vert.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+  </tr>
+
+  <tr>
+    <td colspan="3" height="7"><spacer type="block" width="1" height="7"></spacer></td>
+  </tr>
+  <!--end sales ad button module-->
+
+  <tr>
+    <td colspan="5" background="http://careerone.com.au/images/dash_hori.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+  </tr>
+  
+  <tr>
+    <td colspan="5" height="10"><spacer type="block" width="1" height="10"></spacer></td>
+  </tr>
+</tbody></table> </td>
+    <!--end right promo-->
+
+  </tr>
+
+  <tr>
+    <td colspan="2" align="right">
+	<!--start footer-->
+	<!-- Vignette StoryServer 4 Mon Sep 24 14:14:42 2001 -->
+<table width="579" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td background="http://careerone.com.au/images/dash_hori.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+  </tr>
+
+  <tr>
+    <td height="20">
+      <table width="579" height="20" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+          <td width="8%"><a href="http://careerone.com.au/about/home/0,6202,,00.html#legal" class="footer">&nbsp;legal</a></td>
+          <td width="15%" align="center"><a href="http://careerone.com.au/about/home/0,6202,,00.html#privacy" class="footer">privacy</a></td>
+          <td width="15%" align="center"><a href="http://careerone.com.au/about/home/0,6202,,00.html" class="footer">about us</a></td>
+          <td width="15%" align="center"><a href="http://jobseekers.careerone.com.au/htdocs/help/index.html" class="footer">new user</a></td>
+          <td width="21%" align="center"><a href="http://careerone.com.au/about/contacts/0,6201,about|abcontact,00.html" class="footer">customer service</a></td>
+          <td width="18%" align="right"><a href="http://www.advertising.ni.com.au" target="blank" class="footer">advertise with us</a>&nbsp;</td>
+        </tr>
+      </tbody></table>
+
+    </td>
+  </tr>
+
+  <tr>
+    <td background="http://careerone.com.au/images/dash_hori.jpg"><img src="http://careerone.com.au/images/trans.gif" width="1" height="1" alt=""></td>
+  </tr>
+
+  <tr>
+    <td>
+      <table width="579" height="40" cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+          <td valign="middle" width="411">
+            <p class="breadcrumb">'CAREERONE' is a trademark of CareerOne Services Pty Limited. 
+            <br> © 2001 CareerOne Pty Limited ABN 14 090 615 722 | © News Limited
+          </p></td>
+          <td width="168" valign="top"><a href="http://www.ni.com.au"><img src="http://careerone.com.au/images/logo_ni.gif" width="168" height="33" alt="news interactive" border="0"></a></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+</tbody></table> <!--end footer-->
+    </td>
+  </tr>
+</tbody></table>
+
+
+<!--- WebMeasure code start --->
+<script language="JavaScript"><!--
+var w0=1;
+var refR=escape(document.referrer);
+if (refR.length>=252) refR=refR.substring(0,252)+"...";
+//--></script>
+<script language="JavaScript1.1"><!--
+var w0=0;
+//--></script>
+<script language="JavaScript1.1" src="http://server-au.imrworldwide.com/a0.js">
+</script>
+<script language="JavaScript"><!--
+if(w0){
+var imgN='<img src="http://server-au.imrworldwide.com/cgi-bin/count?ref=' + refR + '" width=1 height=1>';
+if(navigator.userAgent.indexOf('Mac')!=-1){document.write(imgN);}else{document.write('<applet code="Measure.class" codebase="http://server-au.imrworldwide.com/" width=1 height=2><param name="ref " value="' + refR + '"><textflow>'+imgN+'</textflow></applet>');}
+}
+document.write("<COMMENT>");
+//-->
+</script><comment>
+<noscript>
+<img src="http://server-au.imrworldwide.com/cgi-bin/count" width=1 height=1>
+</noscript>
+</comment>
+<!--- WebMeasure code end ---></body></html>
