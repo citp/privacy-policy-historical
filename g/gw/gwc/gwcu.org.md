@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gwcu.org privacy policy that was archived on 2003-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031215214421id_/http%3A//www.gwcu.org/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gwcu.org privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629175408id_/http%3A//www.gwcu.org/privacy.phtml) for the most accurate reproduction.*
 
 # Terms and Conditions
 
@@ -32,7 +32,7 @@ If you terminate your membership at Goldenwest Credit Union, we will not share i
 
 Goldenwest Credit Union uses Verisign’s digital certificate key to secure account information sent between our server and your browser. Whenever you use Account Access, Goldenwest’s server will respond to your transmission by sending this key that is authenticated by your browser. This communication key encrypts the data sent by you and Goldenwest Credit Union decrypts it when we receive it. Goldenwest uses firewalls that are designed to protect your accounts from unauthorized access from outside the credit union. 
 
-You are responsible for protecting the secrecy of your password. We recommend you not store secure pages in your cache or leave your computer unattended while you are logged into Account Access. 
+You are responsible for protecting the secrecy of your password. We recommend you not store secure pages in your cache or leave your computer unattended while you are logged into Account Access. To give you the the best online experience, our Internet home banking system utilizes 'cookies,' which are very small files that a Web site sends to the member's browser for record-keeping purposes. Cookies function as identification cards, recording passwords and preferences. Cookies cannot be executed as code, nor can they deliver viruses. Browsers can be set to deliver a message when a cookie has been sent, allowing the member to decide whether to accept or reject it. In order to tailor Web site content to our members' interests, all cookies must be accepted. All of our cookies are temporary, which means that they are active only as long as the member's browser is running. Cookies expire when the session has ended. 
 
 **How We Protect Your Information**
 
