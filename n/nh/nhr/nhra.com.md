@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602190727id_/http%3A//nhra.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhra.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204065432id_/http%3A//nhra.com/privacy.html) for the most accurate reproduction.*
 
 # NATIONAL HOT ROD ASSOCIATION PRIVACY POLICY
 
@@ -195,3 +195,5 @@ Most browsers can be set to refuse to accept cookies. Doing so will not interfer
 **Will This Policy Change?**
 
 We reserve the right to change this policy at any time, and will do so by providing notice of such changes on our home page and make changes in our online forms requesting personal information. If we make any material changes in the way we use or disclose information about your child, we will notify you with an email message to you and your child. If you do not wish us to use your child's information then please go to [remove@nhra.com](mailto:remove@nhra.com) and ask us to delete, edit, update or remove any information at that time. 
+
+Effective date: 3/21/2003 
