@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisionboard.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207051421id_/http%3A//www.invisionpower.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionboard.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606151901id_/http%3A//www.invisionpower.com/%3Fprivacy) for the most accurate reproduction.*
 
 # Invision Power Services
 
