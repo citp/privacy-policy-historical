@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyse.com privacy policy that was archived on 1999-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991117145327id_/http%3A//www.wyse.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyse.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613173756id_/http%3A//www.wyse.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
