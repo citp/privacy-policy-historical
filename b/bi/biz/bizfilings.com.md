@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bizfilings.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizfilings.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205094418id_/http%3A//bizfilings.com/privacy.htm) for the most accurate reproduction.*
 
-# Welcome to Business Filings, Inc. - About Our Privacy Policy
+# Online Incorporation - Business Filings Incorporated Privacy Policy
 
 ---  
 |  |   
@@ -8,12 +8,12 @@
 ---|---  
 |  |  | 
 
-[](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/sitemap.htm)  
+[](https://web.archive.org/web/20011205094418id_/http%3A//bizfilings.com/sitemap.htm)  
   
 ---|---|---  
-| [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/index.html) | [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/orderonline.htm) | [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/livehelp.htm) |  | [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/learning/index.html) | [](https://web.archive.org/web/20010606171340id_/http%3A//products/index.htm) | [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/pricing/index.html) | [](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/international/index.html) | [](https://www.bizfilings.com/status) | 
+| [](https://web.archive.org/web/20011205094418id_/http%3A//bizfilings.com/index.html) | [](https://web.archive.org/web/20011205094418id_/http%3A//bizfilings.com/orderonline.htm) | [](https://web.archive.org/web/20011205094418id_/http%3A//bizfilings.com/livehelp.htm) |  | [](https://web.archive.org/web/20011205094418id_/http%3A//bizfilings.com/learning/index.html) | [](https://web.archive.org/web/20011205094418id_/http%3A//products/index.htm) | [](https://web.archive.org/web/20011205094418id_/http%3A//bizfilings.com/pricing/index.html) | [](https://web.archive.org/web/20011205094418id_/http%3A//bizfilings.com/international/index.html) | [](https://www.bizfilings.com/status) | 
 
-[](https://web.archive.org/web/20010606171340id_/http%3A//bizfilings.com/businessresources.htm)  
+[](https://web.archive.org/web/20011205094418id_/http%3A//bizfilings.com/businessresources.htm)  
   
 ---|---|---|---|---|---|---|---|---|---  
   
@@ -27,7 +27,7 @@ In order to process your order, we need to know some standard information such a
 
  **E-mail Updates.**
 
-Business Filings Incorporated or its sister company NameProtect.com, may occasionally notify you of new services and special offers via e-mail updates. If you would rather not receive any updates from us, please send a request to be removed from our e-mail update list to: info@bizfilings.com.
+Business Filings Incorporated may occasionally notify you of new services and special offers via e-mail updates. If you would rather not receive any updates from us, please send a request to be removed from our e-mail update list to: info@bizfilings.com.
 
  **No Computer Tracking of Identifiable Information**
 
