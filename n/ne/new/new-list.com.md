@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the new-list.com privacy policy that was archived on 1999-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991006064833id_/http%3A//new-list.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the new-list.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815054734id_/http%3A//new-list.com/privacy) for the most accurate reproduction.*
 
 # New-List.com, Privacy Statement
 
@@ -25,8 +25,8 @@ Christopher M. Knight
 [chris@new-list.com](mailto:chris@new-list.com)  
 920.490.5903 x212  
 Fax 920.490.5909  
-1800 West Mason Street  
-Green Bay, WI 54303
+1592 Union Street, Suite 185  
+San Francisco, CA 94123
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
@@ -55,6 +55,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Christopher M. Knight  
 New-List.com  
-1800 West Mason Street  
-Green Bay, WI 54303  
+1592 Union Street, Suite 185  
+San Francisco, CA 94123  
 [chris@new-list.com](mailto:chris@new-list.com)
