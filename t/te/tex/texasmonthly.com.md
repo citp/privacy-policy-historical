@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216034815id_/http%3A//www.texasmonthly.com/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasmonthly.com privacy policy that was archived on 2003-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031005223507id_/http%3A//www.texasmonthly.com/privacy) for the most accurate reproduction.*
 
 # Texas Monthly: Privacy Statement
 
@@ -6,18 +6,18 @@
 
 TEXAS MONTHLY has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site. This information may be updated or changed without notice.
 
-|  |  |   
-[](https://web.archive.org/clickthru/12/)   
+|  |  |    
+[](https://web.archive.org/clickthru/69/)   
   
-[](https://web.archive.org/shopping/lifestyletx/index.php)  
+[](https://web.archive.org/contest/veryirresistiblegivenchyseptember03)  
   
-[](https://web.archive.org/events/forecast)  
+[](https://web.archive.org/shopping/southpadre/index.php)  
   
-[](https://web.archive.org/shopping/texpress/index.php)  
+[](https://web.archive.org/shopping/prime_properties)  
   
-[](https://web.archive.org/shopping/shopacrosstexas/index.php)  
+[](https://web.archive.org/travel/travel_planner/index.php)  
   
-[](https://web.archive.org/shopping/winterretreats/index.php)  
+[](https://web.archive.org/events/newnext)  
   
 |   
 Our Pledge | 
