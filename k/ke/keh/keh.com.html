@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the keh.com privacy policy that was archived on 2000-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001217041100id_/http%3A//www.keh.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the keh.com privacy policy that was archived on 2001-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604130112id_/http%3A//keh.com/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -13,7 +13,7 @@
 
 	<meta name="description" content="KEH is Americas leading and largest buyer and seller of quality used camera equipment.">
 	<meta name="keywords" content="used camera, used camera equipment, camera, camera equipment, photo equipment, digital camera, digital video, 35mm camera, medium format camera, large format camera, point and shoot, camcorder, video camera, slr camera, panorama camera, underwater camera, canon, nikon, hasselblad, pentax, olympus, minolta, mamiya, contax, bronica, leica, yashica, afga, tamron, sony, rollei, zeiss, fuji, polaroid, kodak, sigma, rangefinder, panasonic, collectible, camera accessories, binoculars, lens, flash, tripod, camera bag, filters, studio lighting, darkroom equipment, meter, loupe, digital imaging, scanner, ink jet printer, color printer, printer, software, film, coolpix, rebel, EOS, elan, N80, N90, F100, F5, 503cw, 501c, maxxum, vectis, APS, ZX, SF, M6, M3, R8, RB, RZ, ETRS, SQ, GS, XL1, GL1, stylus, elph, auto focus, zoom, manual focus, panoramic">
-	<meta name="author" content="Digital Positions, Inc.: http://www.d-p.com/">
+<!-- 	<META NAME="author" CONTENT="Digital Positions, Inc.: http://www.d-p.com/"> -->
 	<meta name="copyright" content="This site copyright 1998 Digital Positions and KEH Camera Brokers">
 </head>
 
@@ -24,6 +24,9 @@
 if (document.images) {
   homeon = new Image();
   homeon.src = "images/buttons/on/home.gif";
+
+  searchon = new Image();
+  searchon.src = "images/buttons/on/search.gif";
   
   sellon = new Image();
   sellon.src = "images/buttons/on/sell.gif";
@@ -76,8 +79,14 @@ if (document.images) {
   newusedtabon = new Image();
   newusedtabon.src = "images/tabs/on/newused.gif";
   
+  rep_centertabon = new Image();
+  rep_centertabon.src = "../images/tabs/on/rep_center.gif";
+  
   closeoutstabon = new Image();
   closeoutstabon.src = "images/tabs/on/closeouts.gif";
+
+  searchoff = new Image();
+  searchoff.src = "images/buttons/off/search.gif";	
   
   selloff = new Image();
   selloff.src = "images/buttons/off/sell.gif";
@@ -121,6 +130,9 @@ if (document.images) {
   testimonialsoff = new Image();
   testimonialsoff.src = "../images/buttons/off/testimonials.gif";
   
+  rep_centertaboff = new Image();
+  rep_centertaboff.src = "../images/tabs/off/rep_center.gif";
+    
   selltaboff = new Image();
   selltaboff.src = "images/tabs/off/sell.gif";
   
@@ -150,25 +162,23 @@ function turnOff(imageName) {
 }
 
 // -->
-</script>
-<div align="LEFT">
+</script> <div align="LEFT">
 <table cellpadding="0" cellspacing="0" border="0" width="770">
 	<tbody><tr>
-		<td rowspan="2" bgcolor="#000000"><img src="http://209.35.112.41/images/header-logo.gif" alt="KEH.com" width="80" height="60" border="0"></td>
-		<td bgcolor="#000000"><img src="http://209.35.112.41/images/spacer.gif" alt="" width="344" height="30" border="0"></td>
-		<td bgcolor="#000000" colspan="5"><img src="http://209.35.112.41/images/spacer.gif" alt="" width="346" height="30" border="0"></td>
+		<td rowspan="2" bgcolor="#000000"><img src="images/header-logo.gif" alt="KEH.com" width="80" height="60" border="0"></td>
+		<td bgcolor="#000000"><img src="images/spacer.gif" alt="" width="344" height="30" border="0"></td>
+		<td bgcolor="#000000" colspan="5"><img src="images/spacer.gif" alt="" width="346" height="30" border="0"></td>
 	</tr>
         <tr>
                 <td bgcolor="#000000"><img src="images/header-marketplace.gif" alt="The Photographer’s Marketplace" width="344" height="30" border="0"></td>
-               <td bgcolor="#000000"><a href="repair/repair.cfm" onmouseover="turnOn('rep_centertab')" onmouseout="turnOff('rep_centertab')"><img src="images/tabs/off/rep_center.gif" alt="rep_center" name="rep_centertab" width="66" height="30" border="0"></a></td>
+               <td bgcolor="#000000"><a href="https://www.keh.com/repair/repair.cfm" onmouseover="turnOn('rep_centertab')" onmouseout="turnOff('rep_centertab')"><img src="images/tabs/off/rep_center.gif" alt="rep_center" name="rep_centertab" width="66" height="30" border="0"></a></td>
                 <td bgcolor="#000000"><a href="sell/sell.cfm" onmouseover="turnOn('selltab')" onmouseout="turnOff('selltab')"><img src="images/tabs/off/sell.gif" alt="sell" name="selltab" width="64" height="30" border="0"></a></td>
                 <td bgcolor="#000000"><a href="shop/brand.cfm?sid=new" onmouseover="turnOn('newtab')" onmouseout="turnOff('newtab')"><img src="images/tabs/off/new.gif" alt="new" name="newtab" width="64" height="30" border="0"></a></td>
                 <td bgcolor="#000000"><a href="shop/brand.cfm?sid=used" onmouseover="turnOn('usedtab')" onmouseout="turnOff('usedtab')"><img src="images/tabs/off/used.gif" alt="Used" name="usedtab" width="66" height="30" border="0"></a></td>
                 <td bgcolor="#000000"><a href="shop/brand.cfm?sid=newused" onmouseover="turnOn('newusedtab')" onmouseout="turnOff('newusedtab')"><img src="images/tabs/off/newused.gif" alt="new &amp; used" name="newusedtab" width="86" height="30" border="0"></a></td>
                
         </tr>
-</tbody></table>
-<div align="left">
+</tbody></table><div align="left">
 <table cellpadding="0" cellspacing="0" border="0" width="770">
 	<tbody><tr valign="TOP">
 		<td><img src="images/buttons/top.gif" alt="" width="175" height="64" border="0"></td>
@@ -182,6 +192,9 @@ function turnOff(imageName) {
 		<td><!-- Begin Nav -->
 		<br><table cellpadding="0" cellspacing="0" border="0" width="120">
                                 <tbody><tr>
+                                        <td><a href="search_new/form.cfm" onmouseover="turnOn('search')" onmouseout="turnOff('search')"><img src="images/buttons/off/search.gif" alt="search" name="search" width="120" height="20" border="0"></a></td>
+                                </tr>
+                                <tr>
                                         <td><a href="sell/sell.cfm" onmouseover="turnOn('sell')" onmouseout="turnOff('sell')"><img src="images/buttons/off/sell.gif" alt="sell" name="sell" width="120" height="20" border="0"></a></td>
                                 </tr>
                                 <tr>
@@ -217,7 +230,7 @@ function turnOff(imageName) {
  </script>
  <tr>
  <td align="center" valign="top">
-<a href="javascript:popUp('https://digitalid.verisign.com/as2/9c0fcea1ebc372541be3699b461254f0')">
+<a href="javascript:popUp('https://digitalid.verisign.com/as2/6b5968cecc2242bcec12c82ccc7bee21')">
 <img src="../images/verisignsealblack.gif" width="98" height="100" border="0" alt="Verisign Secure Site"></a>
 </td>
 </tr>
@@ -322,8 +335,8 @@ practices of this site, or your dealings with this Web site, you can contact:</f
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <b>Repairs - (404) 748-6050</b><br>
 <br>
-<a href="privacy.cfm">Privacy Statement</a><br>Copyright: © 1998 - 2000 <a href="legal.cfm">KEH Camera Brokers, Inc.</a></font><br>
-<font size="-2">Site Design: © 1998 - 2000 <a href="http://www.d-p.com/" target="top">Digital Positions</a></font><br>
+<a href="privacy.cfm">Privacy Statement</a><br>Copyright: © 1998 - 2001 <a href="legal.cfm">KEH Camera Brokers, Inc.</a></font><br>
+<!-- <FONT SIZE="-2">Site Design: &#169; 1998 - 2001 <A HREF="http://www.d-p.com/" TARGET="top">Digital Positions</A></FONT><BR> -->
 <!--<FONT SIZE="-2">Site Updated: #echo var="LAST_MODIFIED"</FONT>-->
 <p><img src="images/spacer.gif" alt="" width="50" height="1" border="0">
 		<!-- End Footer --></p></td>
