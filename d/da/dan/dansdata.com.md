@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the dansdata.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204000307id_/http%3A//www.dansdata.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dansdata.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603130607id_/http%3A//dansdata.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement
 
-[](https://web.archive.org/web/20011204000307id_/http%3A//www.dansdata.com/email.htm)  
-[**Give Dan some money!**](https://web.archive.org/web/20011204000307id_/http%3A//www.dansdata.com/email.htm)  
-(and no-one gets hurt)
-
-|  | Dan's Data has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for [Dan's Data](http://www.dansdata.com/).
+Dan's Data has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for [Dan's Data](http://www.dansdata.com/).
 
 ### Information Automatically Logged
 
@@ -36,5 +32,3 @@ __
 __Dan's Data works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to<http://www.flycast.com/about_us/about-privacy.html>.
 
 .
-
-|  | 
