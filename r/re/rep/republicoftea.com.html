@@ -1,0 +1,744 @@
+<!--The following is the downloaded HTML source of the republicoftea.com privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606162350id_/http%3A//www.republicoftea.com/pages/privacypolicy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+		<meta http-equiv="content-type" content="text/html;charset=ISO-8859-1">
+        <meta name="keywords" content="green tea, red tea, black tea, white tea, chai, teapots, herbal, organic, Oolong, caffeine free, caffeine-free">
+		<meta name="description" content="The leading purveyor of premium tea">
+		<meta name="author" content="360 Design Group">
+		<meta name="robots" content="ALL">
+		<meta name="revisit-after" content="30 days">
+		<meta name="document-class" content="Living Document">
+		<meta name="document-classification" content="Commerce">
+		<meta name="document-rights" content="Public">
+		<meta name="document-type" content="Public">
+		<meta name="document-rating" content="Safe for Kids">
+		<meta name="document-distribution" content="Global">
+		<meta name="cache-control" content="Public">
+		<link rel="SHORTCUT ICON" href="http://www.republicoftea.com/favicon.ico">
+            <title>The Republic of Tea - A rare selection of premium white, red, green, black, Oolong and chai teas.</title>
+<link href="/includes/styles.css" rel="stylesheet" media="screen" title="style">
+<script src="/includes/functions.js"></script>
+
+
+<script language="javascript">
+	function buildObj(inName){
+		var outObj = null;
+		if(document.all){
+			outObj = eval("document.all(\""+ inName +"\")");
+		} else if (document.getElementById && !document.all){
+			outObj = eval("document.getElementById(\""+ inName +"\")");
+		}
+		return outObj
+	}
+
+	function ShowMenu(Item, subItem, imgname, imgsrc) {
+		var outObj = buildObj (subItem);
+
+		if(document.all){
+		}else{
+			var imgleft = document.images[imgname].x;
+			outObj.style.left=imgleft;
+		}
+		outObj.style.visibility = 'Visible';
+		rollover(imgname, imgsrc);
+	}
+	function HideMenu(Item, subItem, imgname, imgsrc) {
+		var outObj = buildObj (subItem);
+		outObj.style.visibility = 'Hidden';
+		rollover(imgname, imgsrc);
+	}
+
+	function changeStyle(Item, colorval) {
+		var outObj = buildObj (Item);
+		outObj.style.backgroundColor=colorval;
+	}
+	
+	function countryChange(obj,billship){
+		//var selCountry = frm.[Billing Country].options[frm.[Billing Country].selectedIndex].value;
+		var selCountry = obj.options[obj.selectedIndex].value;
+		billship = billship + "State";
+		//alert("selState=" + selState);
+		//alert("billship=" + billship);
+		var frm = document.ordersform;
+		var icnt = frm.elements.length;
+		for (i=0;i<icnt;i++) {
+			if (frm.elements[i].name == billship ) {
+				if ((frm.elements[i].value < 51 || frm.elements[i].value == 67 || frm.elements[i].value == 68) && selCountry != 208){					
+					alert("Incorrect Country for selected State.");
+					obj.value = "208";
+					return false;				
+				}else{
+					//adfaf
+				}
+			}
+		}
+		//var selUrl = window.location.href; //+ "?ctry=" selCountry;
+		var selUrl = "/checkout/ordersmain.asp?ctry=" + selCountry;
+		//alert(obj.form.[Shipping Option].value);
+		//if ( billship = "ship" && obj.form.[Shipping Option].checked=true;){
+		//	return
+		//}
+		obj.form.action = selUrl
+		obj.form.submit();
+		//window.location.href = selUrl;
+		//alert(selUrl + "?ctry=" + selCountry);
+
+	}	
+	function stateChange(obj,billship){
+		var selState = obj.options[obj.selectedIndex].value;
+		billship = billship + "Country";
+		//alert("selState=" + selState);
+		//alert("billship=" + billship);
+		var frm = document.ordersform;
+		var icnt = frm.elements.length;
+		for (i=0;i<icnt;i++) {
+			if (frm.elements[i].name == billship ) {
+				if (selState < 51 || selState == 67 || selState == 68){
+					//alert("here...");
+					frm.elements[i].value = "208";
+				}
+			}
+		}
+	}	
+	</script>
+	
+	
+
+
+</head>
+
+
+		
+
+
+
+<!--<body onload="preloadImages();" leftmargin="0" topmargin="0" bgcolor="black">-->
+<body leftmargin="0" topmargin="0" bgcolor="#000000">
+<!-- START OF SmartSource Data Collector TAG --> <!-- © 1999-2003 NetIQ Corporation. All rights reserved. --> 
+<!-- V6.1 --> <!-- $DateTime: 2003/09/30 11:23:29 $ --> <!-- $Revision: #5 $ --> 
+<script language="Javascript"><!--
+gVersion="1.0";
+//-->
+</script>
+<script language="Javascript1.1"><!--
+gVersion="1.1";
+//-->
+</script>
+<script language="Javascript1.2"><!--
+gVersion="1.2";
+var RE={"%09":/\t/g, "%20":/ /g, "%23":/\#/g,"%26":/\&/g,"%2B":/\+/g,"%3F":/\?/g,"%5C":/\\/g};
+//-->
+</script>
+<script language="Javascript1.3"><!--
+gVersion="1.3";
+//-->
+</script>
+<script language="Javascript1.4"><!--
+gVersion="1.4";
+//-->
+</script>
+<script language="Javascript1.5"><!--
+gVersion="1.5";
+//-->
+</script>
+<script language="JavaScript"><!--
+var gImages=new Array;
+var gIndex=0;
+var DCS=new Object();
+var WT=new Object();
+var DCSext=new Object();
+
+var gDomain="stats.roftea.com";
+var gDcsId="";
+// Add customizations here
+//WT.sp="@@SPLITVALUE@@";
+
+function dcsVar(){
+	var dCurrent=new Date();
+	WT.tz=dCurrent.getTimezoneOffset()/60*-1;
+	if (WT.tz==0){
+		WT.tz="0";
+	}
+	WT.bh=dCurrent.getHours();
+	WT.ul=navigator.appName=="Netscape"?navigator.language:navigator.userLanguage;
+	if (typeof(screen)=="object"){
+		WT.cd=screen.colorDepth;
+		WT.sr=screen.width+"x"+screen.height;
+	}
+	if (typeof(navigator.javaEnabled())=="boolean"){
+		WT.jo=navigator.javaEnabled()?"Yes":"No";
+	}
+//	if (document.title){
+//		WT.ti=document.title;
+//	}
+	WT.js="Yes";
+	if (typeof(gVersion)!="undefined"){
+		WT.jv=gVersion;
+	}
+	DCS.dcsdat=dCurrent.getTime();
+	DCS.dcssip=window.location.hostname;
+	DCS.dcsuri=window.location.pathname;
+	if (window.location.search){
+		DCS.dcsqry=window.location.search;
+	}
+	if ((window.document.referrer!="")&&(window.document.referrer!="-")){
+		if (!(navigator.appName=="Microsoft Internet Explorer"&&parseInt(navigator.appVersion)<4)){
+			DCS.dcsref=window.document.referrer;
+		}
+	}
+}
+
+function A(N,V){
+	return "&"+N+"="+dcsEscape(V);
+}
+
+function dcsEscape(S){
+	if (typeof(RE)!="undefined"){
+		var retStr = new String(S);
+		for (R in RE){
+			retStr = retStr.replace(RE[R],R);
+		}
+		return retStr;
+	}
+	else{
+		return escape(S);
+	}
+}
+
+function dcsCreateImage(dcsSrc){
+	if (document.images){
+		gImages[gIndex]=new Image;
+		gImages[gIndex].src=dcsSrc;
+		gIndex++;
+	}
+	else{
+		document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+dcsSrc+'">');
+	}
+}
+
+function dcsMeta(){
+	var myDocumentElements;
+	if (document.all){
+		myDocumentElements=document.all.tags("meta");
+	}
+	else if (document.documentElement){
+		myDocumentElements=document.getElementsByTagName("meta");
+	}
+	if (typeof(myDocumentElements)!="undefined"){
+		for (var i=1;i<=myDocumentElements.length;i++){
+			myMeta=myDocumentElements.item(i-1);
+			if (myMeta.name){
+				if (myMeta.name.indexOf('WT.')==0){
+					WT[myMeta.name.substring(3)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCSext.')==0){
+					DCSext[myMeta.name.substring(7)]=myMeta.content;
+				}
+				else if (myMeta.name.indexOf('DCS.')==0){
+					DCS[myMeta.name.substring(4)]=myMeta.content;
+				}
+			}
+		}
+	}
+}
+
+function dcsMultiTrack(){
+	for (var i=0;i<arguments.length;i++){
+		if (arguments[i].indexOf('WT.')==0){
+				WT[arguments[i].substring(3)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCS.')==0){
+				DCS[arguments[i].substring(4)]=arguments[i+1];
+				i++;
+		}
+		if (arguments[i].indexOf('DCSext.')==0){
+				DCSext[arguments[i].substring(7)]=arguments[i+1];
+				i++;
+		}
+	}
+	var dCurrent=new Date();
+	DCS.dcsdat=dCurrent.getTime();
+	dcsTag();
+}
+	
+function dcsTag(){
+	var P="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+(gDcsId==""?'':'/'+gDcsId)+"/dcs.gif?";
+	for (N in DCS){
+		if (DCS[N]) {
+			P+=A(N,DCS[N]);
+		}
+	}
+	for (N in WT){
+		if (WT[N]) {
+			P+=A("WT."+N,WT[N]);
+		}
+	}
+	for (N in DCSext){
+		if (DCSext[N]) {
+			P+=A(N,DCSext[N]);
+		}
+	}
+	if (P.length>2048&&navigator.userAgent.indexOf('MSIE')>=0){
+		P=P.substring(0,2040)+"&WT.tu=1";
+	}
+	dcsCreateImage(P);
+}
+
+dcsVar();
+dcsMeta();
+dcsTag();
+//-->
+</script>
+<noscript> <img border="0" name="DCSIMG" width="1" height="1" src="http://stats.roftea.com/njs.gif?dcsuri=/nojavascript&WT.js=No"> 
+</noscript> <!-- END OF Data Collection Server TAG -->
+<table width="766" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+	<td bgcolor="#000000" height="5"><img src="/images/global/globalnav/top_spacer.gif" alt="" height="21" width="452" border="0"><a href="http://www.republicoftea.com/cgi-bin/sgdynamo.exe?HTNAME=manage.htm&amp;UID=!+USID!"><img src="/images/global/globalnav/myaccount_btn.gif" alt="" border="0"></a><a href="http://www.republicoftea.com/pages/customerservice.asp"><img src="/images/global/globalnav/customerservice_btn.gif" alt="" height="21" width="100" border="0"></a><a href="http://www.republicoftea.com/pages/aboutus.asp"><img src="/images/global/globalnav/aboutus_btn.gif" alt="" height="21" width="69" border="0"></a><a href="http://www.republicoftea.com/pages/requestacatalog.asp"><img src="/images/global/globalnav/catalog_btn.gif" alt="" height="21" width="68" border="0"></a></td>
+</tr>
+<tr>
+	<td bgcolor="#988660"><img src="/images/global/bamboo_top.gif" alt="" height="10" width="768" border="0"></td>
+</tr>
+</tbody></table>
+<table width="768" border="0" cellspacing="0" cellpadding="0" bgcolor="#fffff2" background="/images/global/header_background2.jpg">
+<tbody><tr>
+	<td rowspan="3" valign="top" width="483"><a href="http://www.republicoftea.com/index.asp"><img src="/images/global/globalnav/logo01.gif" alt="The Republic of Tea" height="60" width="325" border="0"></a><img src="/images/global/headspace1.gif" alt="" height="60" width="158" border="0"></td>
+	<td width="285"></td>
+</tr>
+<tr>
+	<form name="searchForm" method="post" action="http://www.republicoftea.com/templates/directory.asp?search=y" onsubmit="return validateSearchText('searchForm')"></form>
+	<td width="285"><a href="http://www.republicoftea.com/basket/basketmain.asp"><img src="/images/global/globalnav/viewbasket_btn.gif" alt="" height="20" width="93" align="middle" border="0"></a><input class="bodytext" type="text" name="keyword" size="15" border="0" maxlength="20" onfocus="this.select();"><input type="Image" name="Search" src="/images/global/globalnav/search_btn.gif" alt="" height="20" width="54" align="middle" border="0"></td>
+	
+</tr>
+<tr>
+	<td width="285"></td>
+</tr>
+</tbody></table>
+
+<!--show dhtml menu -->
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td bgcolor="#e2d3ba"><img src="/images/global/globalnav/nav_left.gif" alt="" height="23" width="5" border="0"></td>
+	
+<td>
+<table border="0" cellspacing="0" cellpadding="0" id="cat1" onmouseover="ShowMenu('cat1','cat1sub', 'nav1','/images/global/globalnav/nav01_on.gif' )" onmouseout="HideMenu('cat1','cat1sub', 'nav1','/images/global/globalnav/nav01_off.gif' )">
+<tbody><tr><td>
+<div><a href="http://www.republicoftea.com/templates/gateway.asp?navID=2"><img name="nav1" src="/images/global/globalnav/nav01_off.gif" alt="" height="23" border="0"></a></div>
+<div id="cat1sub" style="position:absolute;visibility:hidden">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="navtable1"><img src="/images/global/navshadow.gif" alt="" height="3" width="199" border="0"></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat1_sub1" onmouseover="changeStyle('cat1_sub1', '#F5F0E7')" onmouseout="changeStyle('cat1_sub1', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=10" class="navtext">Black Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat1_sub2" onmouseover="changeStyle('cat1_sub2', '#F5F0E7')" onmouseout="changeStyle('cat1_sub2', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=11" class="navtext">Black Blended Tea</a></td>
+</tr>
+<tr>
+<td align="center"><img src="/images/global/globalnav/cat_footer.gif" alt="" height="6" width="201" border="0"></td>
+</tr>
+</tbody></table>
+</div></td>
+</tr>
+</tbody></table></td>
+<td><img src="/images/global/globalnav/nav_diamond.gif" alt="" height="23" width="7" border="0"></td>
+
+
+<td>
+<table border="0" cellspacing="0" cellpadding="0" id="cat2" onmouseover="ShowMenu('cat2','cat2sub', 'nav2','/images/global/globalnav/nav02_on.gif' )" onmouseout="HideMenu('cat2','cat2sub', 'nav2','/images/global/globalnav/nav02_off.gif' )">
+<tbody><tr><td>
+<div><a href="http://www.republicoftea.com/templates/gateway.asp?navID=3"><img name="nav2" src="/images/global/globalnav/nav02_off.gif" alt="" height="23" border="0"></a></div>
+<div id="cat2sub" style="position:absolute;visibility:hidden">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="navtable1"><img src="/images/global/navshadow.gif" alt="" height="3" width="199" border="0"></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat2_sub1" onmouseover="changeStyle('cat2_sub1', '#F5F0E7')" onmouseout="changeStyle('cat2_sub1', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=14" class="navtext">Herbal Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat2_sub2" onmouseover="changeStyle('cat2_sub2', '#F5F0E7')" onmouseout="changeStyle('cat2_sub2', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=16" class="navtext">Red Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat2_sub3" onmouseover="changeStyle('cat2_sub3', '#F5F0E7')" onmouseout="changeStyle('cat2_sub3', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=17" class="navtext">New Herbal Tea</a></td>
+</tr>
+<tr>
+<td align="center"><img src="/images/global/globalnav/cat_footer.gif" alt="" height="6" width="201" border="0"></td>
+</tr>
+</tbody></table>
+</div></td>
+</tr>
+</tbody></table></td>
+<td><img src="/images/global/globalnav/nav_diamond.gif" alt="" height="23" width="7" border="0"></td>
+
+
+<td>
+<table border="0" cellspacing="0" cellpadding="0" id="cat3" onmouseover="ShowMenu('cat3','cat3sub', 'nav3','/images/global/globalnav/nav03_on.gif' )" onmouseout="HideMenu('cat3','cat3sub', 'nav3','/images/global/globalnav/nav03_off.gif' )">
+<tbody><tr><td>
+<div><a href="http://www.republicoftea.com/templates/gateway.asp?navID=4"><img name="nav3" src="/images/global/globalnav/nav03_off.gif" alt="" height="23" border="0"></a></div>
+<div id="cat3sub" style="position:absolute;visibility:hidden">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="navtable1"><img src="/images/global/navshadow.gif" alt="" height="3" width="199" border="0"></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat3_sub1" onmouseover="changeStyle('cat3_sub1', '#F5F0E7')" onmouseout="changeStyle('cat3_sub1', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=62" class="navtext">Green Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat3_sub2" onmouseover="changeStyle('cat3_sub2', '#F5F0E7')" onmouseout="changeStyle('cat3_sub2', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=18" class="navtext">Daily Green Tea</a></td>
+</tr>
+<tr>
+<td align="center"><img src="/images/global/globalnav/cat_footer.gif" alt="" height="6" width="201" border="0"></td>
+</tr>
+</tbody></table>
+</div></td>
+</tr>
+</tbody></table></td>
+<td><img src="/images/global/globalnav/nav_diamond.gif" alt="" height="23" width="7" border="0"></td>
+
+
+<td>
+<table border="0" cellspacing="0" cellpadding="0" id="cat4" onmouseover="ShowMenu('cat4','cat4sub', 'nav4','/images/global/globalnav/nav04_on.gif' )" onmouseout="HideMenu('cat4','cat4sub', 'nav4','/images/global/globalnav/nav04_off.gif' )">
+<tbody><tr><td>
+<div><a href="http://www.republicoftea.com/templates/gateway.asp?navID=5"><img name="nav4" src="/images/global/globalnav/nav04_off.gif" alt="" height="23" border="0"></a></div>
+<div id="cat4sub" style="position:absolute;visibility:hidden">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="navtable1"><img src="/images/global/navshadow.gif" alt="" height="3" width="199" border="0"></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat4_sub1" onmouseover="changeStyle('cat4_sub1', '#F5F0E7')" onmouseout="changeStyle('cat4_sub1', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=64" class="navtext">White Teabag Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat4_sub2" onmouseover="changeStyle('cat4_sub2', '#F5F0E7')" onmouseout="changeStyle('cat4_sub2', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=60" class="navtext">Full Leaf White Tea</a></td>
+</tr>
+<tr>
+<td align="center"><img src="/images/global/globalnav/cat_footer.gif" alt="" height="6" width="201" border="0"></td>
+</tr>
+</tbody></table>
+</div></td>
+</tr>
+</tbody></table></td>
+<td><img src="/images/global/globalnav/nav_diamond.gif" alt="" height="23" width="7" border="0"></td>
+
+
+<td>
+<table border="0" cellspacing="0" cellpadding="0" id="cat5" onmouseover="ShowMenu('cat5','cat5sub', 'nav5','/images/global/globalnav/nav05_on.gif' )" onmouseout="HideMenu('cat5','cat5sub', 'nav5','/images/global/globalnav/nav05_off.gif' )">
+<tbody><tr><td>
+<div><a href="http://www.republicoftea.com/templates/gateway.asp?navID=6"><img name="nav5" src="/images/global/globalnav/nav05_off.gif" alt="" height="23" border="0"></a></div>
+<div id="cat5sub" style="position:absolute;visibility:hidden">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="navtable1"><img src="/images/global/navshadow.gif" alt="" height="3" width="199" border="0"></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat5_sub1" onmouseover="changeStyle('cat5_sub1', '#F5F0E7')" onmouseout="changeStyle('cat5_sub1', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=34" class="navtext">Bulk Black Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat5_sub2" onmouseover="changeStyle('cat5_sub2', '#F5F0E7')" onmouseout="changeStyle('cat5_sub2', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=57" class="navtext">Bulk Caffeine Free Herbal Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat5_sub3" onmouseover="changeStyle('cat5_sub3', '#F5F0E7')" onmouseout="changeStyle('cat5_sub3', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=36" class="navtext">Bulk Green Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat5_sub4" onmouseover="changeStyle('cat5_sub4', '#F5F0E7')" onmouseout="changeStyle('cat5_sub4', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=39" class="navtext">Bulk White Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat5_sub5" onmouseover="changeStyle('cat5_sub5', '#F5F0E7')" onmouseout="changeStyle('cat5_sub5', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=38" class="navtext">Bulk Organic Tea</a></td>
+</tr>
+<tr>
+<td align="center"><img src="/images/global/globalnav/cat_footer.gif" alt="" height="6" width="201" border="0"></td>
+</tr>
+</tbody></table>
+</div></td>
+</tr>
+</tbody></table></td>
+<td><img src="/images/global/globalnav/nav_diamond.gif" alt="" height="23" width="7" border="0"></td>
+
+
+<td>
+<table border="0" cellspacing="0" cellpadding="0" id="cat6" onmouseover="ShowMenu('cat6','cat6sub', 'nav6','/images/global/globalnav/nav06_on.gif' )" onmouseout="HideMenu('cat6','cat6sub', 'nav6','/images/global/globalnav/nav06_off.gif' )">
+<tbody><tr><td>
+<div><a href="http://www.republicoftea.com/templates/gateway.asp?navID=7"><img name="nav6" src="/images/global/globalnav/nav06_off.gif" alt="" height="23" border="0"></a></div>
+<div id="cat6sub" style="position:absolute;visibility:hidden">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="navtable1"><img src="/images/global/navshadow.gif" alt="" height="3" width="199" border="0"></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat6_sub1" onmouseover="changeStyle('cat6_sub1', '#F5F0E7')" onmouseout="changeStyle('cat6_sub1', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=59" class="navtext">Decaffeinated Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat6_sub2" onmouseover="changeStyle('cat6_sub2', '#F5F0E7')" onmouseout="changeStyle('cat6_sub2', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=58" class="navtext">Decaffeinated Bulk Tea</a></td>
+</tr>
+<tr>
+<td align="center"><img src="/images/global/globalnav/cat_footer.gif" alt="" height="6" width="201" border="0"></td>
+</tr>
+</tbody></table>
+</div></td>
+</tr>
+</tbody></table></td>
+<td><img src="/images/global/globalnav/nav_diamond.gif" alt="" height="23" width="7" border="0"></td>
+
+
+<td>
+<table border="0" cellspacing="0" cellpadding="0" id="cat7" onmouseover="ShowMenu('cat7','cat7sub', 'nav7','/images/global/globalnav/nav07_on.gif' )" onmouseout="HideMenu('cat7','cat7sub', 'nav7','/images/global/globalnav/nav07_off.gif' )">
+<tbody><tr><td>
+<div><a href="http://www.republicoftea.com/templates/gateway.asp?navID=8"><img name="nav7" src="/images/global/globalnav/nav07_off.gif" alt="" height="23" border="0"></a></div>
+<div id="cat7sub" style="position:absolute;visibility:hidden">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="navtable1"><img src="/images/global/navshadow.gif" alt="" height="3" width="199" border="0"></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub1" onmouseover="changeStyle('cat7_sub1', '#F5F0E7')" onmouseout="changeStyle('cat7_sub1', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=65" class="navtext">Bottled Varietal Iced Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub2" onmouseover="changeStyle('cat7_sub2', '#F5F0E7')" onmouseout="changeStyle('cat7_sub2', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=28" class="navtext">Bottled No Carb-No Cal Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub3" onmouseover="changeStyle('cat7_sub3', '#F5F0E7')" onmouseout="changeStyle('cat7_sub3', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=21" class="navtext">Imperial Republic Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub4" onmouseover="changeStyle('cat7_sub4', '#F5F0E7')" onmouseout="changeStyle('cat7_sub4', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=27" class="navtext">Healthy Chai Tea Lattes</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub5" onmouseover="changeStyle('cat7_sub5', '#F5F0E7')" onmouseout="changeStyle('cat7_sub5', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=22" class="navtext">Organic Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub6" onmouseover="changeStyle('cat7_sub6', '#F5F0E7')" onmouseout="changeStyle('cat7_sub6', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=24" class="navtext">Kosher Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub7" onmouseover="changeStyle('cat7_sub7', '#F5F0E7')" onmouseout="changeStyle('cat7_sub7', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=54" class="navtext">Seasonal Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub8" onmouseover="changeStyle('cat7_sub8', '#F5F0E7')" onmouseout="changeStyle('cat7_sub8', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=63" class="navtext">Traveler's Tea Tins</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub9" onmouseover="changeStyle('cat7_sub9', '#F5F0E7')" onmouseout="changeStyle('cat7_sub9', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=61" class="navtext">Full Leaf Sampler Pouches</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub10" onmouseover="changeStyle('cat7_sub10', '#F5F0E7')" onmouseout="changeStyle('cat7_sub10', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=25" class="navtext">Childrens Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub11" onmouseover="changeStyle('cat7_sub11', '#F5F0E7')" onmouseout="changeStyle('cat7_sub11', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=13" class="navtext">Oolong Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub12" onmouseover="changeStyle('cat7_sub12', '#F5F0E7')" onmouseout="changeStyle('cat7_sub12', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=23" class="navtext">Sip Right Tea</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat7_sub13" onmouseover="changeStyle('cat7_sub13', '#F5F0E7')" onmouseout="changeStyle('cat7_sub13', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=26" class="navtext">Sip for the Cure Products</a></td>
+</tr>
+<tr>
+<td align="center"><img src="/images/global/globalnav/cat_footer.gif" alt="" height="6" width="201" border="0"></td>
+</tr>
+</tbody></table>
+</div></td>
+</tr>
+</tbody></table></td>
+<td><img src="/images/global/globalnav/nav_diamond.gif" alt="" height="23" width="7" border="0"></td>
+
+
+<td>
+<table border="0" cellspacing="0" cellpadding="0" id="cat8" onmouseover="ShowMenu('cat8','cat8sub', 'nav8','/images/global/globalnav/nav08_on.gif' )" onmouseout="HideMenu('cat8','cat8sub', 'nav8','/images/global/globalnav/nav08_off.gif' )">
+<tbody><tr><td>
+<div><a href="http://www.republicoftea.com/templates/gateway.asp?navID=9"><img name="nav8" src="/images/global/globalnav/nav08_off.gif" alt="" height="23" border="0"></a></div>
+<div id="cat8sub" style="position:absolute;visibility:hidden">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="navtable1"><img src="/images/global/navshadow.gif" alt="" height="3" width="199" border="0"></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat8_sub1" onmouseover="changeStyle('cat8_sub1', '#F5F0E7')" onmouseout="changeStyle('cat8_sub1', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=49" class="navtext">Tea Oil</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat8_sub2" onmouseover="changeStyle('cat8_sub2', '#F5F0E7')" onmouseout="changeStyle('cat8_sub2', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=48" class="navtext">Tea Jam</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat8_sub3" onmouseover="changeStyle('cat8_sub3', '#F5F0E7')" onmouseout="changeStyle('cat8_sub3', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=47" class="navtext">Tea Honey</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat8_sub4" onmouseover="changeStyle('cat8_sub4', '#F5F0E7')" onmouseout="changeStyle('cat8_sub4', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=30" class="navtext">Gifts &amp; Accessories</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat8_sub5" onmouseover="changeStyle('cat8_sub5', '#F5F0E7')" onmouseout="changeStyle('cat8_sub5', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=45" class="navtext">&gt; Gift Certificates</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat8_sub6" onmouseover="changeStyle('cat8_sub6', '#F5F0E7')" onmouseout="changeStyle('cat8_sub6', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=33" class="navtext">TeaMind Library</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat8_sub7" onmouseover="changeStyle('cat8_sub7', '#F5F0E7')" onmouseout="changeStyle('cat8_sub7', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=31" class="navtext">Teaware</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat8_sub8" onmouseover="changeStyle('cat8_sub8', '#F5F0E7')" onmouseout="changeStyle('cat8_sub8', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=53" class="navtext">&gt; Teapots</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat8_sub9" onmouseover="changeStyle('cat8_sub9', '#F5F0E7')" onmouseout="changeStyle('cat8_sub9', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=51" class="navtext">&gt; Teacups</a></td>
+</tr>
+<tr>
+<td class="navtable2" id="cat8_sub10" onmouseover="changeStyle('cat8_sub10', '#F5F0E7')" onmouseout="changeStyle('cat8_sub10', '')"><a href="http://www.republicoftea.com/templates/directory.asp?navID=50" class="navtext">&gt; Tea Trivets</a></td>
+</tr>
+<tr>
+<td align="center"><img src="/images/global/globalnav/cat_footer.gif" alt="" height="6" width="201" border="0"></td>
+</tr>
+</tbody></table>
+</div></td>
+</tr>
+</tbody></table></td>
+	
+	<td><img src="/images/global/globalnav/nav_right.gif" alt="" height="23" width="4" border="0"></td>
+	</tr>
+</tbody></table>
+		
+		
+
+<!-- page specific includes -->
+		<table width="768" border="0" cellspacing="0" cellpadding="0" bgcolor="white">
+			<tbody><tr>
+				<td colspan="3"><img src="/images/local/localgraphics/shadow_top.gif" alt="" height="3" width="768" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3"><img src="/images/local/localgraphics/toptear.gif" alt="" height="40" width="200" border="0"></td>
+			</tr>
+			<tr>
+				<td rowspan="2" width="30"><img src="/images/global/spacer.gif" alt="" height="278" width="30" border="0"></td>
+				<td valign="top">
+					<table border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td valign="top">
+								<table width="171" border="0" cellspacing="0" cellpadding="0">
+									<tbody><tr>
+										<td width="200"><a href="http://www.republicoftea.com/pages/customerservice.asp" target="_self"><img src="/images/local/headers/customerservice_hd.gif" alt="Customer Service" height="22" width="155" border="0"></a></td>
+									</tr>
+									<tr>
+										<td width="200"><img src="/images/global/spacer.gif" alt="" height="13" width="1" border="0"></td>
+									</tr>
+									<tr>
+										<td width="200"><a href="http://www.republicoftea.com/pages/customerservice.asp" target="_self"><img src="/images/local/localnav/orderstatus_off.gif" alt="My Account" height="20" width="106" border="0"></a></td>
+									</tr>
+									<tr>
+										<td width="200"><a href="http://www.republicoftea.com/pages/shippingpolicy.asp" target="_self"><img src="/images/local/localnav/shippingpolicy_off.gif" alt="Shipping Policy" height="20" width="115" border="0"></a></td>
+									</tr>
+									<tr>
+										<td width="200"><a href="http://www.republicoftea.com/pages/returnpolicy.asp" target="_self"><img src="/images/local/localnav/returnpolicy_off.gif" alt="Return Policy" height="20" width="115" border="0"></a></td>
+									</tr>
+									<tr>
+										<td width="200"><a href="http://www.republicoftea.com/pages/privacypolicy.asp" target="_self"><img src="/images/local/localnav/privacysecurity_off.gif" alt="Privacy &amp; Security" height="20" width="138" border="0"></a></td>
+									</tr>
+							<tr>
+								<td width="200"><a href="http://www.republicoftea.com/pages/termsofuse.asp"><img src="/images/local/localnav/termsofuse_off.gif" alt="" height="20" width="138" border="0"></a></td>
+							</tr>
+							<tr>
+										<td width="200"><a href="http://www.republicoftea.com/pages/contactinformation.asp"><img src="/images/local/localnav/contactinfo_off.gif" alt="Contact Information" height="20" width="156" border="0"></a></td>
+									</tr>
+								</tbody></table>
+							</td>
+							<td width="30"><img src="/images/global/spacer.gif" alt="" height="278" width="30" border="0"></td>
+							<td valign="top">
+								<table width="478" border="0" cellspacing="0" cellpadding="0">
+									<tbody><tr>
+										<td width="486"><img src="/images/local/headers/privacyandsecurity_subhd.gif" alt="" height="22" width="128" border="0"></td>
+									</tr>
+									<tr>
+										<td width="486"><img src="/images/global/spacer.gif" alt="" height="13" width="1" border="0"></td>
+									</tr>
+									<tr>
+										<td width="486">
+											<p class="bodytext">The Republic of Tea has created this privacy statement in order to demonstrate our firm commitment to our Citizens' privacy. Note that some of the information is related to the upgrades planned for the web site through the year. The following discloses our information gathering and dissemination practices for this web site.<br>
+												<br>
+												Questions regarding this statement should be directed to: <br>
+												<a href="http://www.republicoftea.com/pages/questionsanswers.asp" class="defaultbld" target="_self">Query the Ministry</a> <br>
+												<br>
+												The information collected on this site is only used by The Republic of Tea and is never sold or given to third parties for their use.<br>
+												<br>
+												<b>Registration</b> - Our site's various registration forms require users to give us contact information (such as their name, email, and postal address) and various other information depending on what product or service the user is requesting. For example, when requesting a catalogue we ask for your name and postal address so we can send you the catalogue. Also, you have the option of entering your title, company, phone, fax and email which we use to send catalogues, product, prizes or other information. The customer's contact information is also used to contact the visitor when necessary, like if we have a question about your order or request. Our Web site also offers users the ability to sign up for our newsletter and special offers. Users may opt-out of receiving future emailing; see the choice/opt-out section below. Demographic and profile data is also collected at our site. We use this data to tailor the visitors' experiences at our site, showing them content in which they might be interested, and displaying the content according to their preferences.<br>
+												<br>
+												<b>Orders</b> - Our site uses an order form for customers to request information, products, and services. We collect visitors' contact information (their name, email, and postal address), unique identifiers (such as birthday for example), financial information (such as account or credit card numbers), and demographic information (like zipcode, age, or tea preference). Contact information from the order form is used to send orders to our customers. The customer's contact information is used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as birthday) are collected from Web site visitors to verify the user's identity. Demographic and profile data is also collected at our site. We use this data to tailor our visitors' experience at our site, showing them content in which they might be interested and displaying the content according to their preferences.<br>
+												<br>
+												<b>Contests</b> - We run contests on our site in which we ask visitors for contact information (such as name, email, and postal address) and age. The customer's contact information is used to contact the visitor when necessary (such as notifying you if you are a winner). Users may opt-out of receiving future mailings ; see the choice/opt-out section below. We ask if you are over the age of 18 to help determine whether or not you are eligible to enter the contest. Demographic and profile data is also collected at our site. We use this data to tailor our visitors' experience at our site, showing them content in which they might be interested, and displaying the content according to their preferences.<br>
+												<br>
+												<b>Public Forums</b> - This site makes forums, message boards, and/or other interactive functions available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.<br>
+												<br>
+												<b>Security</b> - This site has security measures in place to protect the loss, misuse and alteration of the information under our control.<br>
+												<br>
+												<b>Choice/Opt-Out</b> - This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our features. You may also request to have your information corrected or updated by contacting us as well. In future updates to the web site you will be able to remove and update your own information.<br>
+												<br>
+												<br>
+												<b>Send mail to</b>:<br>
+												<br>
+												The Republic of Tea<br>
+												Attn: Minister of Innovation<br>
+												8 Digital Drive, Suite 100<br>
+												Novato, CA 94949 USA<br>
+												<br>
+												Or Call: 1-800-298-4832<br>
+												<br>
+												<br>
+												If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you may contact us at the addresses above.<br>
+											</p>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td rowspan="2" width="30"><img src="/images/global/spacer.gif" alt="" height="1" width="30" border="0"></td>
+			</tr>
+			<tr>
+				<td><img src="/images/global/spacer.gif" alt="" height="30" width="1" border="0"></td>
+			</tr>
+			<tr>
+				<td colspan="3"><img src="/images/local/localgraphics/footer_texture.jpg" alt="" height="31" width="768" border="0"></td>
+			</tr>
+		</tbody></table>
+
+
+
+<!-- end page specific includes -->
+		
+<table width="768" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td><img src="/images/global/bamboo_bottom.gif" alt="" height="9" width="768" border="0"></td>
+			</tr>
+			<tr>
+				<td><img src="/images/global/spacer.gif" alt="" height="25" width="1" border="0"></td>
+			</tr>
+			<tr>
+				<td align="center">
+					
+      <p class="footertext"><a class="footertext" href="http://www.republicoftea.com/pages/customerservice.asp"><b>Customer 
+        Service 1-800-298-4832</b></a><b> | <a class="footertext" href="http://www.republicoftea.com/pages/customerservice.asp">Order 
+        Status</a> | <a class="footertext" href="http://www.republicoftea.com/cqs/catalogquickshop.asp">Catalogue 
+        Quick Shop</a></b></p>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="/images/global/spacer.gif" alt="" height="10" width="1" border="0"></td>
+			</tr>
+			<tr>
+				<td align="center">
+					<p class="footertext"><a class="footertext" href="http://www.republicoftea.com/pages/questionsanswers.asp">Questions &amp; Answers</a>  |  <a class="footertext" href="http://www.republicoftea.com/pages/ambassadorsembassies.asp">Ambassadors &amp; Embassies</a>  |  <a class="footertext" href="http://www.republicoftea.com/pages/privacypolicy.asp">Privacy &amp; Security</a>  |  <a href="javascript:openpopup('https://digitalid.verisign.com/as2/0d8a6539ee15ddf2ff480682953076c5', 'verisign');" class="footertext">Verisign Secured</a></p>
+				</td>
+			</tr>
+			<tr>
+				<td align="center"><a class="footertext" href="http://www.republicoftea.com/index.asp"><img src="/images/global/globalnav/copyright.gif" alt="" height="21" width="162" border="0" vspace="4"></a></td>
+			</tr>
+		</tbody></table>
+		<p></p>
+		
+		
+
+<script language="javascript">
+	var arImageList = new Array();
+	var the_Images = new Array('/images/global/spacer.gif')
+	preLoadImages(the_Images);
+</script>
+<!--PAGE_URL: /pages/privacypolicy.asp --><br>
+
+
+
+</body></html>
