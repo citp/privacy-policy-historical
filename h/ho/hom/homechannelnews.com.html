@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homechannelnews.com privacy policy that was archived on 2002-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020611223525id_/http%3A//www.homechannelnews.com/users/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homechannelnews.com privacy policy that was archived on 2002-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207082303id_/http%3A//www.homechannelnews.com/users/privacy_policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
    <link rel="stylesheet" href="/_styles/nhcn_mainstyle.css" type="text/css">
@@ -20,6 +20,90 @@
    
    // -->
 </script>
+
+
+<script language="JAVASCRIPT" type="text/javascript">
+
+<!--
+
+
+function _CF_onError(form_object, input_object, object_value, error_message)
+    {
+	alert(error_message);
+       	return false;	
+    }
+
+
+
+function _CF_hasValue(obj, obj_type)
+    {
+    if (obj_type == "TEXT" || obj_type == "PASSWORD")
+	{
+    	if (obj.value.length == 0) 
+      		return false;
+    	else 
+      		return true;
+    	}
+    else if (obj_type == "SELECT")
+	{
+        for (i=0; i < obj.length; i++)
+	    	{
+		if (obj.options[i].selected)
+			return true;
+		}
+
+       	return false;	
+	}
+    else if (obj_type == "SINGLE_VALUE_RADIO" || obj_type == "SINGLE_VALUE_CHECKBOX")
+	{
+
+		if (obj.checked)
+			return true;
+		else
+       		return false;	
+	}
+    else if (obj_type == "RADIO" || obj_type == "CHECKBOX")
+	{
+
+        for (i=0; i < obj.length; i++)
+	    	{
+		if (obj[i].checked)
+			return true;
+		}
+
+       	return false;	
+	}
+	}
+
+
+function  _CF_checkCFForm_1(_CF_this)
+
+    {
+
+    if  (!_CF_hasValue(_CF_this.SearchCriteria, "TEXT" )) 
+
+        {
+
+        if  (!_CF_onError(_CF_this, _CF_this.SearchCriteria, _CF_this.SearchCriteria.value, "REQUIRED: Search Criteria"))
+
+            {
+
+            return false; 
+
+            }
+
+        }
+
+
+    return true;
+
+    }
+
+
+//-->
+
+</script>
+
 </head>
 
 
@@ -100,7 +184,6 @@ function jump() {
          <option value="/market_media_guide/">&nbsp;&nbsp;&nbsp;&gt;&gt;&gt; Ad Info</option>
          <option value="http://www.leadnet.com/pubs/achc.html">&nbsp;&nbsp;&nbsp;&gt;&gt;&gt; Rapid Request</option>
          <option value="/users/">&nbsp;&nbsp;&nbsp;&gt;&gt;&gt; User Account</option>
-         <option value="/users/non_reg.htm">&nbsp;&nbsp;&nbsp;&gt;&gt;&gt; Past Purchases</option> 
          <option value="/industry_events/">Industry Events</option>
          <option value="/industry_links/">&nbsp;&nbsp;&nbsp;&gt;&gt;&gt; Industry Links</option>
          <option value="/stock_quotes/">&nbsp;&nbsp;&nbsp;&gt;&gt;&gt; Industry Stock Quotes</option>
@@ -112,7 +195,7 @@ function jump() {
          <option value="/financial_reports/">Financial Reports</option>
          <option value="/ecommerce_report/">E-Commerce Reports</option>   
          <option value="/research_data/">Research &amp; Data</option>
-         <option value="/search/">&nbsp;&nbsp;&nbsp;&gt;&gt;&gt; Search Archives</option>
+         <option value="http://archives.lf.com/index.cfm?RefPub=NHCN">&nbsp;&nbsp;&nbsp;&gt;&gt;&gt; Search Archives</option>
          <option value="/top_500/">&nbsp;&nbsp;&nbsp;&gt;&gt;&gt; Top 500</option>
          <option value="/pro_dealer_350/">&nbsp;&nbsp;&nbsp;&gt;&gt;&gt; Pro Dealer Top 350</option>
          <option value="/business_barometer/">&nbsp;&nbsp;&nbsp;&gt;&gt;&gt; Business Barometer</option>
@@ -127,8 +210,14 @@ function jump() {
 </tbody></table>
          </td>
          <td align="left" valign="bottom">
-            <form action="/search/index.htm" method="post">
-            <span class="formfield"><input type="text" name="CriteriaNav" size="10" maxlength="255"></span>
+            <form name="CFForm_1" action="http://archives.lf.com/search.cfm" method="POST" onsubmit="return _CF_checkCFForm_1(this)">
+            <input type="hidden" name="RefPub" value="NHCN">
+            <input type="hidden" name="SearchType" value="1">
+            <input type="hidden" name="SearchDataSources" value="NHCN">
+            <input type="hidden" name="SearchYears" value="2002">
+            <input type="hidden" name="SearchSortBy" value="1">
+            <input type="hidden" name="SearchMaxRecords" value="1">
+            <span class="formfield"><input type="text" name="SearchCriteria" size="10" maxlength="50"></span>
          </form></td>
          <td align="left" valign="bottom">
             <input type="image" src="/home_page/images/btn_go.gif" border="0" alt="Submit Search" name="search_submit">
@@ -168,9 +257,9 @@ function jump() {
    <td align="right" valign="top" bgcolor="#4DA619" colspan="2">
       <table border="0" cellspacing="0" cellpadding="4" width="100%">
 <tbody><tr>
-   <td align="center" valign="middle" width="16%"><a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehomechannelnews%2Ecom%2Fjobs%2F&amp;AD=ad%5Flfjobsite%5F1%5F120x60%2Egif"><img src="/adrotation/120x60/ad_lfjobsite_1_120x60.gif?390006" border="0" alt="Visit Our Sponsor..." height="60" width="120"></a></td>
-   <td align="center" valign="middle" width="68%"><a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehiri%2Eorg&amp;AD=ad%5Fhiri%5F1%5F468x60%2Egif"><img src="/adrotation/468x60/ad_hiri_1_468x60.gif?428001" border="0" alt="Visit Our Sponsor..." height="60" width="468"></a></td>
-   <td align="center" valign="middle" width="16%"><a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehomechannelnews%2Ecom%2Fsubscriber%5Fservices%2F&amp;AD=ad%5Fnhcnstockquotes%5F1%5F120x60%2Egif"><img src="/adrotation/120x60/ad_nhcnstockquotes_1_120x60.gif?517435" border="0" alt="Visit Our Sponsor..." height="60" width="120"></a></td>
+   <td align="center" valign="middle" width="16%"><a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehomechannelnews%2Ecom%2Fsubscriber%5Fservices%2F&amp;AD=ad%5Fnhcnstockquotes%5F2%5F120x60%2Egif"><img src="/adrotation/120x60/ad_nhcnstockquotes_2_120x60.gif?408938" border="0" alt="Visit Our Sponsor..." height="60" width="120"></a></td>
+   <td align="center" valign="middle" width="68%"><a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehiri%2Eorg&amp;AD=ad%5Fhiri%5F1%5F468x60%2Egif"><img src="/adrotation/468x60/ad_hiri_1_468x60.gif?106921" border="0" alt="Visit Our Sponsor..." height="60" width="468"></a></td>
+   <td align="center" valign="middle" width="16%"><a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehomechannelnews%2Ecom%2Fsubscriber%5Fservices%2F&amp;AD=ad%5Fnhcnsubscribe%5F2%5F120x60%2Egif"><img src="/adrotation/120x60/ad_nhcnsubscribe_2_120x60.gif?282958" border="0" alt="Visit Our Sponsor..." height="60" width="120"></a></td>
 </tr>
 </tbody></table></td>
 </tr>
@@ -187,27 +276,27 @@ function jump() {
 
       <tbody><tr>
          <td align="center" valign="top">
-            <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ecsgis%2Ecom%2Fbanners%2Fredir%2Easp%3Furl%3Dhttp%253A%252F%252Fwww%252Ecsgis%252Ecom%252Fproducts%255Fservices%252Fproduct%255Finfo%252Easp%253Fid%253D46%26affid%3DHCN2002&amp;AD=ad%5Fcsg%5Fretailing%5F2%5F80x80%2Egif"><img src="/adrotation/80x80/ad_csg_retailing_2_80x80.gif?952969" border="0" alt="Visit Our Sponsor..."></a></td>
+            <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehomechannelnews%2Ecom%2Fmini%5Fsites%2Frbmfg%2F&amp;AD=ad%5Frbmfg%5F1%5F80x80%2Egif"><img src="/adrotation/80x80/ad_rbmfg_1_80x80.gif?184623" border="0" alt="Visit Our Sponsor..."></a></td>
       </tr>
    
       <tr>
          <td align="center" valign="top">
-            <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehomechannelnews%2Ecom%2Fmini%5Fsites%2Frbmfg%2F&amp;AD=ad%5Frbmfg%5F1%5F80x80%2Egif"><img src="/adrotation/80x80/ad_rbmfg_1_80x80.gif?688828" border="0" alt="Visit Our Sponsor..."></a></td>
+            <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ezippo%2Ecom%2Fproducts%2Fmpl&amp;AD=ad%5Fzippo%5F1%5F80x80%2Egif"><img src="/adrotation/80x80/ad_zippo_1_80x80.gif?496977" border="0" alt="Visit Our Sponsor..."></a></td>
       </tr>
    
       <tr>
          <td align="center" valign="top">
-            <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ewoosterbrush%2Ecom&amp;AD=ad%5Fwooster%5F1%5F80x80%2Egif"><img src="/adrotation/80x80/ad_wooster_1_80x80.gif?187114" border="0" alt="Visit Our Sponsor..."></a></td>
+            <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ewoosterbrush%2Ecom&amp;AD=ad%5Fwooster%5F1%5F80x80%2Egif"><img src="/adrotation/80x80/ad_wooster_1_80x80.gif?887201" border="0" alt="Visit Our Sponsor..."></a></td>
       </tr>
    
       <tr>
          <td align="center" valign="top">
-            <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Emh2%2Ecom%2F&amp;AD=ad%5Fmh2tech%5F1%5F80x80%2Egif"><img src="/adrotation/80x80/ad_mh2tech_1_80x80.gif?597814" border="0" alt="Visit Our Sponsor..."></a></td>
+            <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehomechannelnews%2Ecom%2Fmini%5Fsites%2Fc%5Fhope%2Fcity%5Fhope%2Ehtm&amp;AD=ad%5Fcityhope%5F1%5F80x80%2Egif"><img src="/adrotation/80x80/ad_cityhope_1_80x80.gif?330379" border="0" alt="Visit Our Sponsor..."></a></td>
       </tr>
    
       <tr>
          <td align="center" valign="top">
-            <a href="/adclick.cfm?URL=http%3A%2F%2Fhi%2Emysourcingcenter%2Enet%2F&amp;AD=ad%5Fsourcinglink%5F1%5F80x80%2Egif"><img src="/adrotation/80x80/ad_sourcinglink_1_80x80.gif?214749" border="0" alt="Visit Our Sponsor..."></a></td>
+            <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehomechannelnews%2Ecom%2Fmini%5Fsites%2Forgill%2F&amp;AD=ad%5Forgill%5F1%5F80x80%2Egif"><img src="/adrotation/80x80/ad_orgill_1_80x80.gif?364146" border="0" alt="Visit Our Sponsor..."></a></td>
       </tr>
    
 </tbody></table>
@@ -400,11 +489,11 @@ July 17, 2000<b><o:p></o:p></b></span></i></p>
       <table border="0" cellspacing="2" cellpadding="2" width="100%">
 <tbody><tr>
    <td align="center" valign="middle" width="16%">
-      <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehomechannelnews%2Ecom%2Fsubscriber%5Fservices%2F&amp;AD=ad%5Fnhcnsubscribe%5F1%5F120x60%2Egif"><img src="/adrotation/120x60/ad_nhcnsubscribe_1_120x60.gif?697810" border="0" alt="Visit Our Sponsor..." height="60" width="120"></a></td>
+      <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ediyonline%2Ede%2F&amp;AD=ad%5Fdiyglobal%5F1%5F120x60%2Egif"><img src="/adrotation/120x60/ad_diyglobal_1_120x60.gif?561330" border="0" alt="Visit Our Sponsor..." height="60" width="120"></a></td>
    <td align="center" valign="middle" width="68%">
-      <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehomechannelnews%2Ecom%2Fsubscriber%5Fservices%2F&amp;AD=ad%5Fworlddiybusiness%5F1%5F468x60%2Egif"><img src="/adrotation/468x60/ad_worlddiybusiness_1_468x60.gif?832001" border="0" alt="Visit Our Sponsor..." height="60" width="468"></a></td>
+      <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Ehomechannelnews%2Ecom%2Fsubscriber%5Fservices%2F&amp;AD=ad%5Fhome%5Fdepot%5F2%5F468X60%2Egif"><img src="/adrotation/468x60/ad_home_depot_2_468X60.gif?367390" border="0" alt="Visit Our Sponsor..." height="60" width="468"></a></td>
    <td align="center" valign="middle" width="16%">
-      <a href="/adclick.cfm?URL=https%3A%2F%2Fsecure%2Elf%2Ecom%2Fconferences%2Fprodealer2002%2Foct02%2F&amp;AD=ad%5Fprodealerconf%5F2%5F120x60%2Egif"><img src="/adrotation/120x60/ad_prodealerconf_2_120x60.gif?899277" border="0" alt="Visit Our Sponsor..." height="60" width="120"></a></td>
+      <a href="/adclick.cfm?URL=http%3A%2F%2Fwww%2Elfbooks%2Ecom%2F&amp;AD=ad%5Flfbooks%5F1%5F120x60%2Egif"><img src="/adrotation/120x60/ad_lfbooks_1_120x60.gif?138658" border="0" alt="Visit Our Sponsor..." height="60" width="120"></a></td>
 </tr>
 </tbody></table></td>
 </tr>
