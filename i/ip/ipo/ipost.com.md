@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2001-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010618162840id_/http%3A//ipost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216210438id_/http%3A//ipost.com/privacy.htm) for the most accurate reproduction.*
 
 # iPost.com - Privacy Policy
 
@@ -10,7 +10,7 @@ Information Collection and Use
 
 iPost does not sell, share, or rent mailing lists. We deliver messages only to those addresses supplied to the iPost service by the organization or individual who desires to send a message. That means that if you receive a message from iPost, the sender of that message knows that you are receiving it. iPost also requires its clients to provide accurate information that fully identifies the sender, and verifies that information before accepting email addresses from that sender. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
 
-In the process of delivering email messages, iPost recognizes any URLs that were clicked and records some information supplied by your computer, such as the type of browser, operating system and IP address. We do not use "cookies" to identify users or to measure campaign effectiveness. Information regarding activity for email recipients is reported only to the campaign originator, who owns or has a suitable license to the list on which the recipient's email address originally appeared.
+In the process of delivering email messages, iPost recognizes any URLs that were clicked and records some information supplied by your computer, such as the type of browser, operating system and IP address. We do not use "cookies" to identify users or to measure mailing effectiveness. Information regarding activity for email recipients is reported only to the mailing originator, who owns or has a suitable license to the list on which the recipient's email address originally appeared.
 
 Although more than one sender may independently supply your address, your name, email address, zip code or other identifying information, such information given to us by one sender will not be revealed to any other sender who uses our service. Should we ever change our policy, you will be notified by email and given the chance to remove yourself from our lists before your information is disclosed.
 
@@ -52,7 +52,7 @@ From time to time we may request information from users via quote forms or surve
 
 Security
 
-This website (www.ipost.com) does not collect highly sensitive information (such as credit card numbers or Social Security numbers) from our users. For information about security on our client-only service site, see the iPost Campaign Manager ASP Site section below.
+This website (www.ipost.com) does not collect highly sensitive information (such as credit card numbers or Social Security numbers) from our users. For information about security on our client-only service site, see the iPost Mailing Manager ASP Site section below.
 
 Supplementation of Information
 
@@ -80,13 +80,13 @@ Novato, CA 94949
 
 
 
-iPost Campaign Manager ASP Site
+iPost Mailing Manager ASP Site
 
-This site (www.ipost.com) contains a link to the iPost Campaign Manager Client ASP site. This site is not a consumer site, and may only be accessed by iPost clients with passwords. By using the ASP site, clients are bound by rules and regulations found in their Service Agreement which includes content and privacy regulations for any mailing performed with the iPost service.
+This site (www.ipost.com) contains a link to the iPost Mailing Manager Client ASP site. This site is not a consumer site, and may only be accessed by iPost clients with passwords. By using the ASP site, clients are bound by rules and regulations found in their Service Agreement which includes content and privacy regulations for any mailing performed with the iPost service.
 
-The Campaign Manger ASP website takes every reasonable precaution to protect our clients' and email recipients' information. When users submit information via the website, that information is protected both online and offline. When our ASP site asks users to enter sensitive information or displays sensitive information, that information is encrypted and is protected with the standard SSL security protocol. While on an SSL-secured page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked.
+The Mailing Manger ASP website takes every reasonable precaution to protect our clients' and email recipients' information. When users submit information via the website, that information is protected both online and offline. When our ASP site asks users to enter sensitive information or displays sensitive information, that information is encrypted and is protected with the standard SSL security protocol. While on an SSL-secured page, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked.
 
-While we use SSL encryption on the iPost Campaign Manager ASP site to protect sensitive information online, we also take reasonable measures to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected.
+While we use SSL encryption on the iPost Mailing Manager ASP site to protect sensitive information online, we also take reasonable measures to protect user information offline. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected.
 
 If you have any questions about the security at our website, you can send an email to [privacy@ipost.com](mailto:privacy@ipost.com).
 
