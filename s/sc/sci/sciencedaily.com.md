@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sciencedaily.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204210926id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencedaily.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601073348id_/http%3A//www.sciencedaily.com/privacy.htm) for the most accurate reproduction.*
 
 # ScienceDaily: Our Privacy Policy
+
+Our Privacy Policy
 
 Most web sites collect some sort of information about their visitors in order to gather statistics about how many visitors they get each month, what are the most and least popular pages on the web site, where there may be problems in serving certain pages to visitors, etc. In an effort to answer questions such as these, Science _Daily_ also collects certain basic information about its visitors. 
 
@@ -10,9 +12,7 @@ So what information does Science _Daily_ collect about its visitors? Each time s
 
 > <http://www.sciencedaily.com/traffic/1999/October/complete.htm>
 
-In addition to the statistics that our own web server collects, the third-party advertising agency that we work with, FlyCast Communications, also collects certain information through the use of its banner ads, which FlyCast dynamically serves to Science _Daily_. To find out more about how FlyCast manages the privacy of information in conjunction with serving ads on our site, please go to: 
-
-> <http://www.flycast.com/about_us/about-privacy.html>
+In addition to the statistics that our own web server collects, the third-party advertising agencies that we work with may also collect certain information through the use of banner ads. 
 
 If you wish not to have Science _Daily_ keep any records of your visit to our site, even though it is our policy not to personally identify individual users but only to gather overall cumulative information about our visitors, then we suggest that you use an anonymous web browsing service such as [Anonymizer.com](http://www.anonymizer.com/). Such services typically hide all information about particular users from web sites, which log visits from the anonymizing service instead of the users' own computers. 
 
