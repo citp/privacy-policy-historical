@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212144912id_/http%3A//buyitsellit.com/newbuyitsellit/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072202id_/http%3A//buyitsellit.com/newbuyitsellit/corp/privacy.html) for the most accurate reproduction.*
 
 # BuyItSellIt.com Auctions and Classifieds: Don't Pay Unless You Sell!
 
@@ -14,6 +14,8 @@ We use your IP address to help diagnose problems with our server, and to adminis
 ---|---  
   
 Our site's registration form requires users to give us contact information (like their name and email address). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. 
+
+When necessary, customer information can also be shared with parties to assist in contact related to transactions arranged within BuyItSellIt.com's marketplace. 
 
 Our site uses an order form for customers to request information, products, and services. We collect visitor's financial information (like their account or credit card numbers). Financial information that is collected is used to check the users' qualifications and bill the user for products and services.
 
@@ -62,4 +64,32 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Kyle Wilgus BuyItSellIt.com 117 Hall Street Suite C Santa Cruz, CA 95062 kwilgus@buyitsellit.com
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Kyle Wilgus BuyItSellIt.com 117 Hall Street Suite C Santa Cruz, CA 95062 kwilgus@buyitsellit.com  
+  
+**Featured BuyItSellIt.com StoreFronts**  
+---  
+Visit our Featured [BuyItSellIt.com StoreFronts](http://store.buyitsellit.com/) and take advantage of their special offers.  
+  
+[](http://www.gatodiablo.net/)
+
+| **Casa Del Gato Diablo :**  **Gemstones, fine jewelry and other treasures**  
+Gato Diablo has made the leap from eBay. Come see his jewelry and gems.  
+[http://www.gatodiablo.net](http://www.gatodiablo.net/)  
+  
+[](http://www.gardenbuilt.com/)
+
+| **GardenBuilt.com:**   **Quality birding products and garden accessories**  
+Bird feeders, nestboxes and garden planters built to beautify and last.  
+[http://www.gardenbuilt.com](http://www.gardenbuilt.com/)  
+  
+[](http://www.bulldogplumbing.com/)
+
+| **Bulldog Plumbing.com :**  **Plumbing fixtures and supplies for less**  
+Brand name faucets, sinks and bathroom accessories with free shipping.  
+[http://www.bulldogplumbing.com](http://www.bulldogplumbing.com/)  
+  
+[](http://stores.buyitsellit.com/rpgolf)
+
+| **RP Golf :**  **Handmade golf clubs for all golfers**  
+Let Master Clubmaker Rick Prose build the clubs of your dreams  
+[http://stores.buyitsellit.com/rpgolf](http://snarf.buyitsellit.com/StoreFront/welcomePage?store=1131)
