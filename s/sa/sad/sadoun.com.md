@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024140120id_/http%3A//sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadoun.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609062045id_/http%3A//www.sadoun.com/privacy_policy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -9,7 +9,7 @@
 >  **4803 Westerville Run Dr.  
 >  Columbus, OH 43230**
 > 
-> We can be reached via e-mail at [sadoun@sadoun.com](mailto:JamalSadoun@hotmail.com) 
+> We can be reached via e-mail at [info@sadoun.com](mailto:info@sadoun.com) 
 > 
 > For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 > 
