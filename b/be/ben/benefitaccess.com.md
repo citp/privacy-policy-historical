@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benefitaccess.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203172304id_/http%3A//www.benefitaccess.com/ssb_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benefitaccess.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605043000id_/http%3A//www.benefitaccess.com/ssb_privacy.html) for the most accurate reproduction.*
 
 # Smith Barney - Terms and Conditions
 
