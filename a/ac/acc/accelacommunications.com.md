@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accelacommunications.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629085215id_/http%3A//www.accelacommunications.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accelacommunications.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216091128id_/http%3A//www.accelacommunications.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Accela Communications - Privacy Policy
 
