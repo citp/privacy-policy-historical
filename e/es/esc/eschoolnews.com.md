@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214103241id_/http%3A//eschoolnews.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202131705id_/http%3A//www.eschoolnews.com/privacy.cfm) for the most accurate reproduction.*
 
 # eSchool News online
 
@@ -20,7 +20,7 @@ eSchool News Online is not responsible for the content or the privacy policies o
 
 **Cookies** : eSchool News Online does not employ cookies to track usage on the web site. Advertising on our web site may contain cookies that are set by third parties (i.e. advertising agencies or advertising clients). We do not have access to these cookies or any information that they may contain; please contact the advertiser for more information on these cookies.
 
-**IP Addresses** : eSchool News Online also logs IP addresses, or the location of your computer on the internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behavior on our site.
+**IP Addresses** : IP Addresses: eSchool News Online also logs IP addresses, or the location of your computer on the internet, for systems administration and troubleshooting purposes.
 
 **What does eSchool News Online do with the information it gathers/tracks?**
 
@@ -40,6 +40,4 @@ eSchool News uses the information it gathers to promote special pricing and disc
 
 **Children's Guidelines:** No section of eSchool News Online is directed at children 12 and under. We collect no personally identifiable information from visitors known to be children.
 
-**Opting-Out, Corrections and Cancellations**
-
-Upon request, eSchool News Online will a) Remove you and your personal information, from our database, thereby canceling your registration; b) Correct personal information that you state is erroneous; or c) Permit you to "opt out" of further eMail contact (excepting notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation, contact [support@eschoolnews.com](mailto:support@eschoolnews.com)
+**Opting-Out, Corrections and Cancellations:** Upon request, eSchool News Online will a) Remove you and your personal information, from our database, thereby canceling your registration; b) Correct personal information that you state is erroneous; or c) Permit you to "opt out" of further eMail contact (excepting notification of major changes to the service) while still allowing access to the site. To request a correction or cancellation, contact [support@eschoolnews.org](mailto:support@eschoolnews.org)
