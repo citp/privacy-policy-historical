@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the state.me.us privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217053345id_/http%3A//www.state.me.us/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.me.us privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609140453id_/http%3A//www.state.me.us/disclaimer.html) for the most accurate reproduction.*
 
-# Welcome to the State of Maine
+# State of Maine Privacy Statement
 
-##   
-Privacy Policy  
-for the Official Website of the State of Maine
+###   
+Privacy Policy for the Official Website of the State of Maine
 
 Individuals who visit the State of Maine website are important to us. Because visitors to our website are important, we do not capture personal information about them without their permission. We endeavor to collect only the minimum amount of information needed to meet the purposes for which the website was created.
 
