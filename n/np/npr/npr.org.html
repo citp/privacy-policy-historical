@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2002-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021203005445id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2003-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030604022234id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -44,10 +44,10 @@ if (window != top)
 		top.location.href = location.href;
 	}
 
-function checkPrograms()
+function checkPrograms(queryText)
 		{
 						returnVal=false; //unless changed later in the function
-						queryText=document.search.CleanQuery.value.toLowerCase();
+						queryText=queryText.toLowerCase();
 
 						if (queryText=="morning edition") {
 								window.location="http://www.npr.org/programs/morning/index.html";
@@ -92,21 +92,24 @@ function checkPrograms()
 						else if (queryText=="national story project") {
 					window.location="http://www.npr.org/programs/watc/storyproject/index.html";
 						}
+						else if (queryText=="news") {
+							window.location="http://news.npr.org/index.html";
+						}
 						else {
 								returnVal=true;
 						}
 						return(returnVal);
 
 		}
-	function searchFields()
+	function searchFields(queryText)
 		{
-			if (document.search.CleanQuery.value=="Enter Keywords")
+			if (queryText.value=="Enter Keywords")
 				{
-					document.search.CleanQuery.value="";
+					queryText.value="";
 				}
-			else if (document.search.CleanQuery.value=="")
+			else if (queryText.value=="")
 				{
-					document.search.CleanQuery.value="Enter Keywords";
+					queryText.value="Enter Keywords";
 				}
 		}
 
@@ -249,9 +252,11 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 
 <option value="http://www.npr.org/programs/specials/vote/index.html">The NPR 100</option>
 
-<option value="http://www.npr.org/programs/worldofopera/index.html">NPR World of Opera</option>
+<option value="http://www.npr.org/programs/worldofopera/index.html">World of Opera</option>
 
 <option value="http://www.npr.org/programs/pt/index.html">Performance Today</option>
+
+<option value="http://www.npr.org/programs/pt/features/pt50.html">PT 50</option>
 
 <option value="http://www.npr.org/programs/symphonycast/index.html">SymphonyCast</option>
 
@@ -285,6 +290,8 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 
 <option value="http://www.npr.org/programs/lnfsound/?">Lost and Found Sound</option>
 
+<option value="http://www.npr.org/programs/musings/index.html">Musings with Alphonse Vinh</option>
+
 <option value="http://www.npr.org/programs/npc/index.html">National Press Club</option>
 
 <option value="http://www.npr.org/programs/watc/storyproject/index.html">National Story Project</option>
@@ -292,8 +299,6 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 <option value="http://www.npr.org/programs/now/index.html">NOW with Bill Moyers</option>
 
 <option value="http://www.npr.org/programs/specials/poll/index.html">The NPR/Kaiser/Kennedy School Polls</option>
-
-<option value="http://www.mtn.org/~jstearns/nprPH.html?">NPR Playhouse</option>
 
 <option value="http://www.onlyagame.org/?">Only A Game</option>
 
@@ -303,8 +308,6 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 
 <option value="http://www.npr.org/programs/re/index.html">Radio Expeditions</option>
 
-<option value="http://rewind.kuow.org/?">Rewind</option>
-
 <option value="http://www.wgbh.org/radio/saysyou/?">Says You!</option>
 
 <option value="http://www.symphonyspace.org/genres/shorts_static.php?id=31?">Selected Shorts</option>
@@ -312,8 +315,6 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 <option value="http://www.npr.org/programs/talkingplants/index.html">Talking Plants</option>
 
 <option value="http://www.npr.org/programs/waitwait/index.html">Wait Wait... Don't Tell Me!</option>
-
-<option value="http://www.wrn.org/overnight/?">World Radio Network from NPR</option>
 
 <option value="http://www.npr.org/programs/atc/features/2002/yiddish/index.html">Yiddish Radio Project</option>
 
@@ -331,7 +332,7 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 
 <option value="null"></option>
 
-<option value="http://www.npr.org/members/index.html">Find a local station</option>
+<option value="http://www.npr.org/stations/">Find a local station</option>
 
 <option value="null"></option>
 
@@ -339,7 +340,7 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 
 <option value="null"></option>
 
-<option value="http://www.npr.org/about/index.html">Tapes and Transcripts</option>
+<option value="http://www.npr.org/transcripts/index.html">Tapes and Transcripts</option>
 
 <option value="null"></option>
 
@@ -364,7 +365,7 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 		 		   <td width="28" valign="middle" background=""><input type="image" src="http://www.npr.org/images/go.gif" alt="go" width="28" height="20" border="0" onclick="if (document.frmPrograms.selPrograms.options[document.frmPrograms.selPrograms.selectedIndex].value=='null') document.frmPrograms.selPrograms.options.selectedIndex=0;"></td>
 
 		 		   <td width="100%" align="center" valign="middle" background=""><img src="http://www.npr.org/images/spacer.gif" width="1" height="1" border="0"></td>
-		 		   <form method="GET" action="http://search1.npr.org/search97cgi/s97_cgi" name="search" onsubmit="return checkPrograms();"></form><td align="right" valign="middle" background=""><input size="18" name="CleanQuery" value="Enter Keywords" onclick="searchFields();" onblur="searchFields();"></td>
+		 		   <form method="GET" action="http://search1.npr.org/search97cgi/s97_cgi" name="search" onsubmit="return checkPrograms(document.search.CleanQuery.value);"></form><td align="right" valign="middle" background=""><input size="18" name="CleanQuery" value=""></td>
 <input type="hidden" name="ResultTemplate" value="allow_re_sort.hts">
 		<input type="hidden" name="SortSpec" value="Date Desc Score Desc">
 		<input type="hidden" name="ViewTemplate" value="docview.hts">
@@ -380,21 +381,20 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 		 </tbody></table>
 		 		 <table border="0" cellpadding="0" cellspacing="5" width="580">
 		 	<tbody><tr>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://news.npr.org/">news</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/archives/">audio archives</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/transcripts/">transcripts</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/yourturn/">discussions</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/members/">find a station</a></p></td>
+				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://news.npr.org/index.html">news</a></p></td>
+				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/archives/index.html">audio archives</a></p></td>
+				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/transcripts/index.html">transcripts</a></p></td>
+				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/yourturn/index.html">discussions</a></p></td>
+				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/stations/index.html">find a station</a></p></td>
 				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/nprshop_top_nav.html" target="_blank">shop</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://zeus.npr.org/about/about.jhtml">about npr</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/contact/">contact npr</a></p></td>
+				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/about/index.html?loc=topnav">about npr</a></p></td>
+				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/contact/index.html">contact npr</a></p></td>
 		 	</tr>
 		 </tbody></table>
 		</td>
 		<td class="borders" width="2" valign="top"><img src="http://www.npr.org/images/spacer.gif" width="2" height="2" border="0"></td>
 	</tr>
 </tbody></table>
-
 
 <script language="JavaScript">
 	url = window.location.href;
@@ -517,7 +517,6 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 						<br>
 						<br>
 						<a class="leftcontentlink" href="http://www.npr.org/audiohelp/progstream.html">NPR Program Stream</a><br>
-						<a class="leftcontentlinklight" href="javascript:void(0);" onclick="popUp('http://stream.qtv.apple.com/channels/npr/sprites/nprlive.mov', 'height=300,width=300,scrollbars=yes,resizable=yes');">Apple QuickTime</a><br>
 						<a class="leftcontentlinklight" href="http://www.npr.org/realmedia/24hour.ram" onclick="sa_onclick(this.href);">RealAudio</a><br>
 						<a class="leftcontentlinklight" href="http://www.npr.org/windowsmedia/programstream.asx" onclick="sa_onclick(this.href);">Windows Media</a>
 						<br>
@@ -617,7 +616,7 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 
 					<!----begin paste page content---->
  <p class="pagetitle">Privacy Policy<br>
-<span style="font-size:11px;color:#FF0000">Updated June 27, 2002</span></p>
+<span style="font-size:11px;color:#FF0000">Updated February 11, 2003</span></p>
    <p class="text">
 
 At NPR Online, we recognize the importance of privacy to visitors of our Web site. This privacy policy explains what type of information is collected from you when you visit our Web site.
@@ -648,9 +647,15 @@ NPR asks visitors to provide certain personal information when they register for
 <br><br>
 <b>Cookies</b>
 <br><br>
-NPR also uses cookies to collect information.  A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a Web site.  Only the Web site that set the cookie can read it, and it can only be used as a record keeping device to store information that the site already has.  It cannot, for example, be used to read other information from the user's hard drive.
+NPR also uses co-called 'cookies' to collect information.  A cookie is a string of characters that can be written to a file on the user's hard drive when the user visits a Web site.  Only the Web site that set the cookie can read it, and it can only be used as a record keeping device to store information that the site already has.  It cannot, for example, be used to read other information from the user's hard drive.
 <br><br>
-NPR uses cookies to track users' activity through the site in order to improve the site's architecture and to offer the user interactive features that would not be possible without them.  Local station customization, the Discussions, the NPR Online Shop, and other interactive features use cookies.  If you wish to prevent cookies from being set to your hard drive you may disable them in your browser's preferences.
+NPR uses cookies to track users' activity through the site in order to improve the site's architecture and to offer the user interactive features that would not be possible without them, and to recall specific
+information to save the user time during subsequent visits to the site. For example, cookies 
+allow NPR to remember your media player preference. Local station customization, the Discussions, the NPR Online Shop, and other  interactive features also use cookies. If you wish to prevent cookies 
+from being set to your hard drive you may disable them in your 
+browser's preferences.
+
+
 <br><br>
 <b>Use of Information</b>
 <br><br>
