@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615094029id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208215637id_/http%3A//www.keen.com/documents/help/privacypolicy.asp) for the most accurate reproduction.*
 
 # Keen: Privacy Policy
 
@@ -16,7 +16,7 @@ Your privacy is very important to us at Keen, and Keen is a licensee of the TRUS
 • What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and   
 • How you can correct any inaccuracies in the information. 
 
-If you have questions or concerns regarding this statement, you should first contact Keen by sending an email to [privacy@keen.com](mailto:privacy@keen.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at http://www.truste.org/users/users_watchdog.html. TRUSTe will then serve as a liaison with Keen to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Keen by sending an email to [privacy@keen.com](mailto:privacy@keen.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with Keen to resolve your concerns. 
 
 This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we've prepared a detailed policy because we believe you should know as much as possible about Keen's practices so that you can make an informed decision.
 
