@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the screenit.com privacy policy that was archived on 2000-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000505151827id_/http%3A//www.screenit.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenit.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/privacy_policy.html) for the most accurate reproduction.*
 
 # SCREEN IT! PRIVACY STATEMENT
 
@@ -10,7 +10,7 @@ Screen It! has created this privacy statement in order to demonstrate our firm c
 As with most websites, your IP address (something that looks like this: "cache-dp03.proxy.aol.com" but NOT your email address) is automatically logged by our hosting service's server to help diagnose problems with our server and to administer our Web site. Other than our [hosting service](http://www.adgrafix.com/) having access to these logs, this information is neither used nor distributed to any other entity in any form. 
 
 **Cookies & Advertisers**  
-The 3rd party advertising companies our site uses to sell advertising on our site use "cookies" in an effort to make sure that you hopefully don't see the same ad repeatedly. We do not have access to this information. Please see their respective sites for their privacy policy on using such information. [Burst](http://www.burstmedia.com/release/privacy.asp). [Flycast](http://www.flycast.com/about_us/about-privacy.html). 
+The 3rd party advertising companies our site uses to sell advertising on our site may use "cookies" in an effort to make sure that you hopefully don't see the same ad repeatedly. We do not have access to this information. 
 
 **Our online survey**  
 We run an optional survey to collect brief personal and activity based information of our users who opt to fill out the survey. The information is used only in aggregate with such information that's collected from all users only being used in the form of an average profile of our users. After such compilation, the individual information is deleted and is never distributed to any outside entity. 
@@ -38,9 +38,11 @@ If you have any questions about this privacy statement, the practices of this si
 
 * * *
 
-[](https://web.archive.org/web/20000505151827id_/http%3A//www.screenit.com/navbar.map)
-
-[ [HOME](https://web.archive.org/web/20000505151827id_/http%3A//www.screenit.com/index.html) | [INFO](https://web.archive.org/web/20000505151827id_/http%3A//www.screenit.com/info.html) | [REVIEWS](https://web.archive.org/web/20000505151827id_/http%3A//www.screenit.com/reviews.html) | [HELP](https://web.archive.org/web/20000505151827id_/http%3A//www.screenit.com/help.html) | [MAIL](https://web.archive.org/web/20000505151827id_/http%3A//www.screenit.com/mail.html) ]
+[**Advertising Info**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/advertise.html) | [**Info/FAQ**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/info.html) | [**Mail**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/mail.html) | [**Newsletter**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/newsletter.html) | [**Sneak Previews**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/sneak_previews.html) | [**Syndication**](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/syndication.html)  
+---|---|---|---|---|---  
+  
+[Privacy Statement](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/privacy_policy.html) and [Terms of Use and Disclaimer](https://web.archive.org/web/20021209221635id_/http%3A//www.screenit.com/disclaimer.html)  
+_By entering this site you acknowledge to having read and agreed to the above conditions._
 
 All Rights Reserved,  
-©1996-2000 Screen It, Inc. 
+©1996-2002 Screen It, Inc. 
