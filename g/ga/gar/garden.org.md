@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605092004id_/http%3A//garden.garden.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011125602id_/http%3A//garden.garden.org/privacy) for the most accurate reproduction.*
 
 # National Gardening: Privacy Policy
 
