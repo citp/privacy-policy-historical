@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucmerced.edu privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211221449id_/http%3A//www.ucmerced.edu/privacy_legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucmerced.edu privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607032624id_/http%3A//www.ucmerced.edu/privacy_legal.asp) for the most accurate reproduction.*
 
 # U C Merced University of California Merced
 
@@ -35,7 +35,7 @@ Atwater, CA 95301
    
 | 
 
-The following represent the information gathering and use practices of all [Official UC Merced websites](https://web.archive.org/web/20021211221449id_/http%3A//www.ucmerced.edu/this_website.asp). UC Merced web pages may be identified by the UCMerced seal in the left-hand navigation. 
+The following represent the information gathering and use practices of all [Official UC Merced websites](https://web.archive.org/web/20030607032624id_/http%3A//www.ucmerced.edu/this_website.asp). UC Merced web pages may be identified by the UCMerced seal in the left-hand navigation. 
 
 UC Merced collects information related to our users, but none of it is associated with you as an individual. 
 
