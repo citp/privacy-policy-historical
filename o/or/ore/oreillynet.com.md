@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the oreillynet.com privacy policy that was archived on 2002-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021128210816id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreillynet.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605004203id_/http%3A//www.oreillynet.com/pub/a/mediakit/privacy.html) for the most accurate reproduction.*
 
 # O'Reilly Network: Privacy Policy [Jan. 31, 2000]
 
-|  [](http://www.oreillynet.com/)  
-  
-  
-  
-|  |    
+|  |   
 
 
 ## O'Reilly & Associates, Inc. Privacy Policy
@@ -39,7 +35,7 @@ We use the personal information you provide voluntarily to send information you'
 
 
 
-We share customer information only with affiliated companies (see <http://www.oreilly.com/affiliates.html> and <http://www.oreillynet.com/pub/q/all_affiliates>) and as described below: 
+We share customer information only with affiliated companies (see <http://www.oreilly.com/affiliates.html>) and as described below: 
 
   * With third parties we retain to perform functions on our behalf, such as fulfilling orders, processing credit card payments, managing mailing lists, and delivering packages. These parties are restricted from using your information for any other purpose.
   * We rent our snailmail list for one-time use to third parties we deem relevant and appropriate. We do not rent or sell our email lists.
@@ -80,12 +76,12 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 
 **Email** : To update or unsubscribe from our email newsletters or product announcements, go to elists.oreilly.com. To get help from a human, send email to [help@oreillynet.com](mailto:help@oreillynet.com) or call 800-998-9938 or 707-829-0515. 
 
-**Snailmail** : To change your address or delete your name from our mailing list for paper catalogs, brochures, or advertisements, send email to catalog@oreilly.com or call 800-998-9938 or 707-829-0515.
+**Snailmail** : To change your address, delete your name from our mailing list (for paper catalogs or brochures) or to opt-out of third-party mail, send email to [catalog@oreilly.com](mailto:catalog@oreilly.com) or call 800-998-9938 or 707-829-0515.
 
-  
   
 |  | 
 
-Sponsored by:
+**Sponsored by:**
 
-[](http://www.oreillynet.com/sunwhitepaper.csp)
+  
+
