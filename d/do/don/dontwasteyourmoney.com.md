@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dontwasteyourmoney.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402184611id_/http%3A//wcpo.com/helpdesk/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dontwasteyourmoney.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207050408id_/http%3A//wcpo.com/helpdesk/legal/privacypolicy.html) for the most accurate reproduction.*
 
-# WCPO.com - The Web site of WCPO-TV in Cincinnati, Ohio
+# WCPO.com Privacy Policy - The Web site of WCPO-TV in Cincinnati, Ohio
 
 WCPO.com Privacy Policy
 
@@ -33,7 +33,7 @@ We do not share personal identifying information with any third party without yo
 In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to **eforeman@wcpo.com** , or you can reach us by telephone at **513-852-4069**. You can also write us at: 
 
 **WCPO.com  
-500 Central Ave.  
+1720 Gilbert Avenue  
 Cincinnati, OH 45202  
 **
 
@@ -49,4 +49,4 @@ At any time while assessing our site, any user while online may "opt-out" of fur
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **eforeman@wcpo.com**. To link to the full **Terms of Use Agreement** pertaining to use of our site, please **[click here](https://web.archive.org/web/20040402184611id_/http%3A//wcpo.com/helpdesk/legal/termsofuse.html)**. 
+The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at **eforeman@wcpo.com**. To link to the full **Terms of Use Agreement** pertaining to use of our site, please **[click here](https://web.archive.org/web/20041207050408id_/http%3A//wcpo.com/helpdesk/legal/termsofuse.html)**. 
