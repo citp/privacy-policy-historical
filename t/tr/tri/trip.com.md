@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trip.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203172300id_/http%3A//www.trip.com/information/securitrip/0%2C1865%2C1-1%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trip.com privacy policy that was archived on 2001-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010202171100id_/http%3A//www.trip.com/information/securitrip/0%2C1865%2C1-1%2C00.html) for the most accurate reproduction.*
 
 # securiTRIP
 
