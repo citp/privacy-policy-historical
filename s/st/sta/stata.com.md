@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607021447id_/http%3A//www.stata.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stata.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204082312id_/http%3A//www.stata.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-* * *
+|   
+---|---  
+| 
 
-### Stata.com Privacy Policy
+##  Stata.com Privacy Policy
 
   * We do not maintain a web database of customer names, addresses, or credit cards. 
   * Customer information for those customers residing in countries for which we have a distributor is shared with the distributor for their country. Note that we sell Stata directly to customers in the US and Canada. 
@@ -14,12 +16,8 @@
   * Purchase information is transferred to Stata using a secure connection. 
 
 
-
-
+  
+  
+---  
+  
 * * *
-
-[](https://web.archive.org/info/about.html) [**Contact StataCorp**](https://web.archive.org/info/about.html) [Home](https://web.archive.org/)   |   [Site Index](https://web.archive.org/site.html)   |   [Info](https://web.archive.org/info/)   |   [Bookstore](https://web.archive.org/bookstore/)   |   [Order Stata](https://web.archive.org/info/order/)   |   [Support](https://web.archive.org/support/)   |   [FAQs](https://web.archive.org/support/faqs)   |   [News](https://web.archive.org/news/)   |   [Search](http://www.stata.com/search/)
-
-Contact [webmaster@stata.com](mailto:webmaster@stata.com) with comments or suggestions about this web site. 
-
-**© Copyright 2004 StataCorp LP.   [Terms of Use.](https://web.archive.org/terms.html)   [Privacy Notice.](https://web.archive.org/privacy.html)**
