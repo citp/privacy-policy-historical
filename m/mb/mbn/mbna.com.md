@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619145906id_/http%3A//www.mbna.com/direct/home_nav_foot_privacy_r.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbna.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204093151id_/http%3A//www.mbna.com/direct/home_nav_foot_privacy_r.html) for the most accurate reproduction.*
 
 # MBNA.com - MBNA.com Privacy
 
@@ -104,7 +104,7 @@ MBNA will not share credit eligibility information about Vermont residents withi
 
 **Updates and Additional Information**
 
-This notice replaces any previous notices from MBNA about the privacy, security, and protection of information. For additional information regarding our Internet privacy practices, and to view the current version of this privacy notice, go to [www.mbna.com/privacy.html](https://web.archive.org/web/20040619210432id_/http://www.mbna.com/privacy.html). You may have other privacy protections under state laws. We may amend this privacy notice at any time. We will inform you of changes as required by law.
+This notice replaces any previous notices from MBNA about the privacy, security, and protection of information. For additional information regarding our Internet privacy practices, and to view the current version of this privacy notice, go to [www.mbna.com/privacy.html](https://web.archive.org/web/20041204005252id_/http://www.mbna.com/privacy.html). You may have other privacy protections under state laws. We may amend this privacy notice at any time. We will inform you of changes as required by law.
 
 **Tips to Protect Your Information**
 
@@ -116,7 +116,7 @@ MBNA works hard to keep your information secure. You can help by following these
   * Pay attention to billing cycles and statements. Inquire if you do not receive a bill.
   * Check account statements carefully to ensure all charges, checks, or withdrawals are authorized.
   * Guard your mail from theft. Do not leave bill payment envelopes in your mailbox with the flag up. Instead, deposit them in a post office collection box or at the local post office. Promptly remove incoming mail.
-  * Order copies of your credit report from each of the three major credit bureaus once a year to ensure they are accurate. The law permits the credit bureaus to charge up to $9.00 for a copy of the report (unless you live in a state that requires the credit bureaus to provide you with one free copy of your report annually).
+  * Order copies of your credit report from each of the three major credit bureaus once a year to ensure they are accurate.
   * If you believe you are a victim of identity theft take immediate action and keep records of your conversations and correspondence. While the steps you must take will vary with your individual circumstances, three basic actions are appropriate in almost every case: 
     * Contact the creditors for any accounts that have been tampered with or opened fraudulently.
     * Contact the fraud departments of each of the three major credit bureaus: 
@@ -145,7 +145,7 @@ Carmel, NY 10512
 
 
 
-From “ID Theft: When Bad Things Happen to Your Good Name”, Federal Trade Commission, September 2002
+From “ID Theft: When Bad Things Happen to Your Good Name”, Federal Trade Commission, November 2003
 
 **Internet Privacy Practices**
 
@@ -167,7 +167,7 @@ Some MBNA Web sites may use a feature of your Internet browser called a cookie. 
 
 **Advertising Services**
 
-MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimize, and measure the effectiveness of our online banner advertising programs. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [ click here](https://web.archive.org/web/20040619210432id_/http://www.mbna.com/advertising_services.html).
+MBNA uses third party companies to serve ads on our Web site and other Web sites. These companies help MBNA execute, optimize, and measure the effectiveness of our online banner advertising programs. These companies use cookies and non-personally identifiable information (for example, information that does not include name, address, e-mail address or telephone number) about your visit to this and other Web sites to measure advertising effectiveness and to provide ads about goods and services that may interest you. If you would like to learn more about these practices, view the privacy notices of these third party companies, or opt out of their use of non-personally identifiable information, [ click here](https://web.archive.org/web/20041204005252id_/http://www.mbna.com/advertising_services.html).
 
 MBNA’s banner advertisements and online applications may contain small graphics with tags in them. These tags are not personally identifiable and work in conjunction with these cookies. These tags allow us to measure the effectiveness and response rates of our advertising.
 
@@ -179,7 +179,7 @@ MBNA Web sites are not directed to children under age 13, and MBNA does not know
 
 While exploring the services offered through MBNA’s Web sites, please be aware that other online retailers, partners, third party Internet sites, and third party services accessible through MBNA’s Web sites, have separate privacy and data collection policies and practices, which are independent of and may be different from MBNA’s policies and practices. MBNA is not responsible or liable for these independent policies and practices and it is your responsibility to review them and decide whether or not they satisfactorily protect your rights.
 
-These Internet Privacy Practices were last updated August 23, 2002 and update and replace any previous Internet Privacy Practices from MBNA. We may amend these Internet Privacy Practices at any time, and when such a change is made we will post a revised version on this MBNA Web site. Changes will be effective when they are posted. It is your responsibility to review these Internet Privacy Practices from time to time to be aware of any such changes. Your continued use of this MBNA Web site indicates your agreement to any such changes.
+These Internet Privacy Practices were last updated September 16, 2004 and update and replace any previous Internet Privacy Practices from MBNA. We may amend these Internet Privacy Practices at any time, and when such a change is made we will post a revised version on this MBNA Web site. Changes will be effective when they are posted. It is your responsibility to review these Internet Privacy Practices from time to time to be aware of any such changes. Your continued use of this MBNA Web site indicates your agreement to any such changes.
 
 |  |   
   
