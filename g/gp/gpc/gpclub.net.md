@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpclub.net privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604074653id_/http%3A//www.gpclub.net/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpclub.net privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017050431id_/http%3A//www.gpclub.net/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # GPClub - Save money with us...
 
