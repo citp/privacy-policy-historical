@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khou.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208100300id_/http%3A//www.khou.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khou.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602185407id_/http%3A//www.khou.com/policy.html) for the most accurate reproduction.*
 
 # KHOU Privacy Policy
 
@@ -49,5 +49,5 @@ Effective Date and Changes
 This Privacy Policy is effective as of April 11, 2000. KHOU reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes.
 
   
-© Copyright 2000 Belo Interactive Inc., All Rights Reserved.  
+© Copyright 2001 Belo Interactive Inc., All Rights Reserved.  
 
