@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsnn.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202210753id_/http%3A//tsnn.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsnn.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619010756id_/http%3A//tsnn.com/privacy.cfm) for the most accurate reproduction.*
 
 # TSNN - The Ultimate Trade Show, Exposition, and Exhibitor Resource - Privacy Policy
 
