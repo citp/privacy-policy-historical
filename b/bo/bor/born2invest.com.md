@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the born2invest.com privacy policy that was archived on 2003-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031228065846id_/http%3A//www.estelle.tv/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the born2invest.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401154037id_/http%3A//estelle.tv/terms.php) for the most accurate reproduction.*
 
 # Estelle Reyna : Terms and Privacy Notice
 
@@ -20,7 +20,7 @@ Karma Media, Inc. does not intend to transfer any Personal Information to third 
 
 Karma Media, Inc.'s web site is not structured to attract children. Accordingly, we do not intend to collect any information at all from anyone we know to be under 13 years of age. If we learn that we have personal information concerning a child under the age of 13, we will delete that information from our systems.
 
-We are committed to privacy. Protecting your privacy on-line is an evolving area, and Karma Media, Inc.'s web sites are constantly evolving to meet these demands. If you have any comments or questions regarding our Online Privacy Policy, please contact us at [admin@estellereyna.com](mailto:admin@estellereyna.com). While we cannot and do not guarantee perfect privacy, we will strive to address any issue to the best of our abilities as soon as possible. 
+We are committed to privacy. Protecting your privacy on-line is an evolving area, and Karma Media, Inc.'s web sites are constantly evolving to meet these demands. If you have any comments or questions regarding our Online Privacy Policy, please contact us at [admin@estelle.tv](mailto:admin@estelle.tv). While we cannot and do not guarantee perfect privacy, we will strive to address any issue to the best of our abilities as soon as possible. 
 
 By using this web site, you consent to the terms of our Online Privacy Policy. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
 
