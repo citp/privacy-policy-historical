@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwombat.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401214330id_/http%3A//webwombat.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwombat.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209124720id_/http%3A//www.webwombat.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Web Wombat: Privacy Policy
 
