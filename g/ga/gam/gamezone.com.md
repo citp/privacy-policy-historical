@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201165450id_/http%3A//www.gamezone.com/privacy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204170559id_/http%3A//www.gamezone.com/privacy/privacy.htm) for the most accurate reproduction.*
 
 # GameZone.com - PC Privacy Policy
 
@@ -49,6 +49,15 @@
 >> Customer Support: [ http://www.beyond.com/support/](http://www.beyond.com/support/)  
 >  Privacy Policy: [ http://www.beyond.com/support/privacy.htm](http://www.beyond.com/support/privacy.htm)  
 > 
+> 
+> **Advertising**
+>
+>> GameZone may use user entered information in combination with site usage information to help display advertisements relevant to the users interest and navigation patterns.  GameZone may use cookies to help in tracking these patterns but does not store or collect an personal data in combination with user supplied information.
+>> 
+>> GameZone uses additional third-party advertising companies to serve ads when you visit our Web site.  You may determine the origin of a given advertisement from the URL.  We make use of the following companies so please review their separate privacy policies:
+>> 
+>> [Burst Media](https://www.burstmedia.com/release/privacy.asp)  
+>  [Adplicity](http://www.adtegrity.com/privacy.asp)
 
 **  Public Forums**
 
@@ -79,8 +88,8 @@
 > 
 > WebMaster  
 >  GameZone Online  
->  PO Box 530638  
->  Livonia, MI 48153-0638  
+>  37655 Pembroke  
+>  Livonia, MI 48152  
 >  [webmaster@gamezone.com](mailto:webmaster@gamezone.com)  
 >    
 > 
