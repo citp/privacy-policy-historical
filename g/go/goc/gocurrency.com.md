@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the gocurrency.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606070923id_/http%3A//www.gocurrency.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gocurrency.com privacy policy that was archived on 2003-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031105171949id_/http%3A//www.gocurrency.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Forex Capital Markets: Online Currency Trading
+# Currency Trading - Forex Capital Markets
 
-|  | 
-
+|  |   
+---  
+  
 |  |   
   
 ---|---  
