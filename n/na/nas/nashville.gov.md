@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashville.gov privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212091624id_/http%3A//www.nashville.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashville.gov privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624013444id_/http%3A//www.nashville.gov/privacy.htm) for the most accurate reproduction.*
 
 # Metropolitan Government of Nashville and Davidson County
 
