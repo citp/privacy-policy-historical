@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205125424id_/http%3A//multilingualbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multilingualbooks.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012164741id_/http%3A//www.multilingualbooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ---  
-|  **Multilingual Books**  
-**Courses, software, and more in over 100 languages** |  **Order Toll Free  
-1-800-218-2737**  
+|  **Order Toll Free  **  
+**1-800-218-2737  **  
   
 The Internet Language Company (ILC) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website (www.multilingualbooks.com). 
 
@@ -62,7 +61,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 **Internet Language Company**  
 **1205 East Pike Street**  
-**Seattle, WA 98122 USA**  
+**Seattle, WA 98105 USA**  
 
 
 **E-mail:** [**info@multilingualbooks.com**](mailto:info@multilingualbooks.com)
