@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golfdigest.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019200439id_/http%3A//golfdigest.com/about/index.ssf%3F/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golfdigest.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604182656id_/http%3A//golfdigest.com/about/index.ssf%3F/about/privacy.html) for the most accurate reproduction.*
 
 # GolfDigest.com | Custom-Fitted For Your Game
 
@@ -12,7 +12,7 @@ Kids and parents click here!
 
 In addition to reviewing this privacy policy, please read our [User Agreement](https://web.archive.org/about/index.ssf?/about/user_agreement.html). Your use of GolfDigest.com constitutes agreement to its terms and conditions.
 
-**GolfDigest.com** is produced by **The Golf Digest Companies**. This policy does not cover information collected on sites linked to from **GolfDigest.com**.
+**GolfDigest.com** is owned and operated by **GolfDigest.com** , an affiliate of The Golf Digest Companies. This policy does not cover information collected on sites linked to from **GolfDigest.com**.
 
 This Privacy Policy may be modified from time to time; the date of the most recent revisions will appear on this page, so check back often. Continued access of **GolfDigest.com** by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
@@ -20,11 +20,11 @@ It is the goal of **GolfDigest.com** to bring you information that is tailored t
 
 **THE TYPE OF INFORMATION **GolfDigest.com** COLLECTS**
 
-**GolfDigest.com** generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our newspapers, or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested.
+**GolfDigest.com** generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our magazines, or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested.
 
 **HOW **GolfDigest.com** USES INFORMATION PROVIDED BY YOU**
 
-**GolfDigest.com** uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your newspaper. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
+**GolfDigest.com** uses this information to provide you with the service you have requested. For example, if you subscribe to any of our magazines, we may use your e-mail address to send you a confirmation notice and your mailing address to send you your magazine. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.
 
 **GolfDigest.com** does not sell any of our users' personal information. We may, however, share information with our affiliates and with carefully selected companies who we think can offer you services and products of interest to you. If you do not wish to have your information shared, write to us at [feedback@ **GolfDigest.com** ]. If you do not wish to receive communications from us, simply follow the unsubscribe instructions contained within the e-mail. If you've registered on any part of **GolfDigest.com** , you may also change or update your member preferences or information within any section of the site where you have signed up, registered or created any type of account.
 
@@ -52,11 +52,11 @@ Your Internet Protocol ("IP") address is usually associated with the place from 
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
 
-If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at [feedback@ **GolfDigest.com**](mailto:feedback@golfdigest.com).
+If you're worried about your children's activities or their privacy on our site, we encourage you to e-mail our Privacy Policy Coordinator at [feedback@golfDdgest.com](mailto:feedback@golfdigest.com).
 
 If you have other concerns or questions about any aspect of this policy, you may also e-mail our Privacy Policy Coordinator. We welcome your feedback. You can also send us regular mail at the following address: 
 
-Privacy Policy Coordinator  
+Peter Madden  
 **GolfDigest.com**  
 5520 Park Ave.  
 Trumbull, CT 06611 
