@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the powertochange.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610044925id_/http%3A//powertochange.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powertochange.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233215id_/http%3A//www.powertochange.com/about/privacy.html) for the most accurate reproduction.*
 
 # Power to Change - powertochange.com privacy policy
 
       send page      Privacy Policy **Privacy Policy - Synopsis**
 
-Power to Change Online takes all possible measures to protect the personal information of its users. We store any personal data given to us as securely as possible, and NEVER sell, rent, give or otherwise provide that personal data (including e-mail address) to anyone outside of our organization.
+takes all possible measures to protect the personal information of its users. We store any personal data given to us as securely as possible, and NEVER sell, rent, give or otherwise provide that personal data (including e-mail address) to anyone outside of our organization.
 
   
 **Privacy Policy - Full Text**
 
 **Who we are**
 
-We are Power to Change Online, a part of Campus Crusade for Christ (International), a worldwide evangelistic and discipleship ministry, with our Canadian headquarters in Langley (B.C.) and with representative local ministries in over 160 countries. Our organization is comprised of the named ministry as well as a number of local member ministries (such as Athletes In Action, Family Life, etc) that cooperate at various levels. Throughout this document “we” and “ours” refers to the organization as a whole as well as to individual field ministries, and “you” and “yours” refers to any and all public site users.
+We are , a part of Campus Crusade for Christ (International), a worldwide evangelistic and discipleship ministry, with our Canadian headquarters in Langley (B.C.) and with representative local ministries in over 160 countries. Our organization is comprised of the named ministry as well as a number of local member ministries (such as Athletes In Action, Family Life, etc) that cooperate at various levels. Throughout this document “we” and “ours” refers to the organization as a whole as well as to individual field ministries, and “you” and “yours” refers to any and all public site users.
 
   
 **What personally identifiable information we collect from/about you**
