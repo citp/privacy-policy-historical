@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepkidshealthy.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607215020id_/http%3A//www.keepkidshealthy.com/welcome/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepkidshealthy.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203002423id_/http%3A//www.keepkidshealthy.com/welcome/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Keep Kids Healthy
 
@@ -33,8 +33,8 @@ We do not sell, trade, or rent your personal information to others.
 **In summary**  
 We are committed to protecting your privacy. We do not sell, trade, or rent your personal information to others.
 
-If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+If we decide to change our privacy policy, we will post those changes on this page, on our home page, and in our newsletters, so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
   
 **Tell us what you think**  
-We welcome your questions and comments about privacy. Please send e-mail to [feedback@keepkidshealthy.com](mailto:vincei@swbell.net).
+We welcome your questions and comments about privacy. Please [contact us](http://www.keepkidshealthy.com/welcome/contactus.html) if you have any questions or concerns about your privacy.
