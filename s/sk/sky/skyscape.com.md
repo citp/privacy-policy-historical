@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216020331id_/http%3A//www.skyscape.com/index/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscape.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618160209id_/http%3A//www.skyscape.com/index/privacy.asp) for the most accurate reproduction.*
 
 # Skyscape.com: Privacy Policy
 
@@ -42,5 +42,5 @@ Change Policy
 
 We may periodically modify this privacy policy and will provide a notification of a change via a posting on the site or email or the software license. Your continued use of the Software, Site, or Services following the posting of changes to this privacy policy will indicate that you have accepted those changes. 
 
-"The other day I couldn't remember the name of a certain disorder. I just took out my hand-held and in a few seconds it was right in front of me. It's like having volumes of information at your fingertips, but you don't have to carry heavy books with you." _Aaron Boster, Medical Student - Cincinnati, Ohio_   
+"I use your products daily and find them extremely helpful." _Aaron Boster, Medical Student - Cincinnati, Ohio_   
 [Privacy Policy](http://www.skyscape.com/index/privacy.asp)
