@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 1999-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991129041637id_/http%3A//howstuffworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2000-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000623010849id_/http%3A//howstuffworks.com/privacy.htm) for the most accurate reproduction.*
 
-# Writing for How Stuff Works
+# Howstuffworks.com's "Writing for How Stuff Works"
 
 HowStuffWorks.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for How Stuff Works. 
 
@@ -30,9 +30,8 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [remove@howstuffworks.com](mailto:remove@howstuffworks.com)
-  2. You can visit the following URL: <http://www.howstuffworks.com/remove.htm>
-  3. You can send mail to the following postal address:  P.O. Box 40492, Raleigh, NC 27629 
+  1. You can visit the following URL: <http://www.howstuffworks.com/remove.htm>
+  2. You can send mail to the following postal address:  920 Main Campus Dr., Suite 400, Raleigh, NC 27606 
 
 
 
@@ -40,23 +39,11 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [update@howstuffworks.com](mailto:update@howstuffworks.com)
-  2. visit <http://www.howstuffworks.com/update.htm>
-  3. send mail to the following postal address:  P.O. Box 40492, Raleigh, NC 27629 
+  1. visit <http://www.howstuffworks.com/register.htm>
+  2. send mail to the following postal address:  920 Main Campus Dr., Suite 400, Raleigh, NC 27606 
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Web Administration Department HowStuffWorks.com P.O. Box 40492 Raleigh, NC 27629 web@howstuffworks.com
-
-* * *
-
-© 1999 Howstuffworks.com, Inc. All rights reserved.  
-  
-  
-
-
-* * *
-
-[](http://rd1.hitbox.com/rd?acct=WQ590820M3FV57EN0&p=s)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Web Administration Department HowStuffWorks.com 920 Main Campus Dr., Suite 400
