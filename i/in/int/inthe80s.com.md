@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inthe80s.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408024753id_/http%3A//www.inthe80s.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inthe80s.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204202335id_/http%3A//www.inthe80s.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for InThe80s.Com
 
