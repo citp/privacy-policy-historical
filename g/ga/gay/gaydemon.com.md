@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaydemon.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602195625id_/http%3A//www.gaydemon.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaydemon.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209010655id_/http%3A//www.gaydemon.com/privacy.htm) for the most accurate reproduction.*
 
 # gaydemon - privacy policy
 
@@ -12,14 +12,14 @@
  [Erotica](http://www.gaydemon.com/Directory/Pornsites/Erotica/index.html)  
  [Fetish](http://www.gaydemon.com/Directory/Pornsites/Fetish/index.html)  
  [Hardcore](http://www.gaydemon.com/Directory/Pornsites/Hardcore/index.html)  
- [Men & Boys](http://www.gaydemon.com/Directory/Pornsites/Men___Boys/index.html)  
+ [Men & Boys](http://www.gaydemon.com/Directory/Pornsites/Men_and_Boys/index.html)  
  [Paysites](http://www.gaydemon.com/Directory/Pornsites/Paysites/index.html)  
  Site Categories  
  [Health & Sports](http://www.gaydemon.com/Directory/Resources/Health_and_Sports/index.html)  
  [Internet](http://www.gaydemon.com/Directory/Resources/Internet/index.html)  
- [Shopping](http://www.gaydemon.com/Directory/Resources/Shopping/index.html)  
+ [Shopping](http://www.gaydemon.com/Directory/Resources/Business___Shopping/index.html)  
  [Society & Culture](http://www.gaydemon.com/Directory/Resources/Society_and_Culture/index.html)  
- [Travel & Regional](http://www.gaydemon.com/Directory/Travel___Regional/index.html)  
+ [Travel & Regional](http://www.gaydemon.com/Directory/Travel_and_Regional/index.html)  
 ---  
  Adult Shop  
  [Mainpage](http://shop.gaydemon.com/)  
@@ -35,7 +35,7 @@
  [Search](http://gaydemon.tv/pc/powersearch.asp)  
  Other  
  [Paysite Reviews](http://www.gaydemon.com/Directory/Reviews/index.html)  
- [Male Escorts](http://www.escortrepublic.com/gaydemon/index.html)  
+ [Male Escorts](http://www.escortrepublic.com/male-escorts/index.html)  
  [Webmasters](http://www.gaydemon.com/webmasters/main.htm)  
 |  |  |   |  | 
 
