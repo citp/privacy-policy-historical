@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210114036id_/http%3A//spine-health.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spine-health.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205020405id_/http%3A//spine-health.com/about/privacy.html) for the most accurate reproduction.*
 
 # SPINE-HEALTH | Privacy policy
 
