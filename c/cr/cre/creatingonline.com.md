@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creatingonline.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119130711id_/http%3A//creatingonline.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creatingonline.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402070717id_/http%3A//creatingonline.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # PRIVACY POLICY - CreatingOnline.com
 
