@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnb.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214035337id_/http%3A//cnb.com/infocenter/terms/privstat.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnb.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407171443id_/http%3A//cnb.com/infocenter/terms/privstat.asp) for the most accurate reproduction.*
 
 # City National Bank: Information Center - Terms and Conditions - Privacy Statement
 
