@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/762.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the level3.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/762.html) for the most accurate reproduction.*
 
 # Level 3 Communications, Inc. - Privacy Policy
 
   |  |        **PRIVACY POLICY**  
 ---  
   
-|  | [ Products](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/549.html)  
+|  | [ Products](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/549.html)  
 ---|---  
-| [ Support](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/550.html)  
-| [ Sales Inquiries](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/551.html)  
-| [ Technical](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/552.html)  
-| [ Corporate](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/553.html)  
-| [ Investors](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/554.html)  
-| [ Careers](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/555.html)  
-| [ V.92 Information](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/1595.html)  
-| [ Site Map](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/654.html)  
-| [ Privacy Policy](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/762.html)  
-| [ Acceptable Use Policy](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/764.html)  
-| [ Designation of Agent](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/770.html)  
-| [ Legal Conditions, Terms of Use](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/774.html)  
+| [ Support](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/550.html)  
+| [ Sales Inquiries](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/551.html)  
+| [ Technical](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/552.html)  
+| [ Corporate](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/553.html)  
+| [ Investors](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/554.html)  
+| [ Careers](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/555.html)  
+| [ V.92 Information](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/1595.html)  
+| [ Site Map](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/654.html)  
+| [ Privacy Policy](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/762.html)  
+| [ Acceptable Use Policy](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/764.html)  
+| [ Designation of Agent](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/770.html)  
+| [ Legal Conditions, Terms of Use](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/774.html)  
   
   
 |  |  | **Level 3 Online Privacy Policy**     
@@ -58,7 +58,7 @@ Level 3
 
 's Online Privacy Policy. If you do not agree to these terms and conditions, please do not access, browse, or use this Site. 
 
-Level 3 has self-certified its adherence to the Safe Harbor principles on the [Safe Harbor website](http://www.export.gov/safeharbor). 
+Level 3 has self-certified its adherence to the Safe Harbor principles on the [Safe Harbor Web site](http://www.export.gov/safeharbor). 
 
 **The Information We Collect and How We Use It:**
 
@@ -92,7 +92,7 @@ Unless we have your permission or are required by law, we only share the persona
 
 Level 3
 
-affiliates and/or business partners that are acting on our behalf. We make every reasonable effort to ensure that such 
+affiliates and/or business partners that are acting on our behalf. Level 3 reserves the right to disclose customer information to the extent authorized by federal surveillance statutes. We make every reasonable effort to ensure that such 
 
 Level 3
 
@@ -135,7 +135,7 @@ expressly disclaims any and all liability related to such collection, use, or di
 
 **How To Correct, Amend, or Delete Your Information:**
 
-We honor requests from you to correct, amend, or delete your account information (for example, your name, address, or billing information). You may verify that appropriate corrections have been made. To correct, amend or delete account information, contact the webmaster. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+We honor requests from you to correct, amend, or delete your account information (for example, your name, address, or billing information). You may verify that appropriate corrections have been made. To correct, amend or delete account information, contact the Webmaster. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **Online Privacy Policy Changes**
 
@@ -166,8 +166,8 @@ Level 3
   
 [
 
-](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/559.html)
+](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/559.html)
 
-[](https://web.archive.org/web/20021012084151id_/http%3A//www.level3.com/590.html)  
+[](https://web.archive.org/web/20030623022510id_/http%3A//level3.com/590.html)  
   
  
