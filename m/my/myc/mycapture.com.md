@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mycapture.com privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014230211id_/http%3A//www.mycapture.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycapture.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405065306id_/http%3A//www.mycapture.com/privacy.asp) for the most accurate reproduction.*
 
-# MyCapture Event Publishing
+# myCapture -- Event Publishing - myCapture Terms of Use
 
-| 
+Privacy Policy
 
 myCapture, Inc. is committed protecting your privacy. As a user of the myCapture web site (the "Site"), you acknowledge that we will collect certain information about you, and that you may provide information regarding your tastes and preferences. Collected information is used to process your orders and personalize your experience. Required information is protected by secure server software. By using the Web site, you consent to the collection and use of this information by myCapture and our affiliates. Any changes to myCapture's Privacy Policy will be posted on this page so you will always be aware of information collected, use, and disclosure circumstances. This statement sets forth our Privacy Policy and describes the practices myCapture follows with respect to information provided by visitors to this Site. Please be aware that this Site contains links to other sites that are covered by their own privacy policies. myCapture welcomes your input. Please e-mail: support@mycapture.com with questions and comments. 
 
