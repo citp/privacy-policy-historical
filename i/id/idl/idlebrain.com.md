@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idlebrain.com privacy policy that was archived on 2000-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000604204526id_/http%3A//www.idlebrain.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idlebrain.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205072200id_/http%3A//www.idlebrain.com/privacy.html) for the most accurate reproduction.*
 
 # Idle Brain
 
