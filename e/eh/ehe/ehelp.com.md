@@ -1,78 +1,109 @@
-> *The following text is extracted and transformed from the ehelp.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603195428id_/http%3A//ehelp.com/notices/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehelp.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205175749id_/http%3A//www.ehelp.com/notices/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# Macromedia - Privacy & Security
+
+[](http://www.truste.org/ivalidate.php?url=www.macromedia.com)
+
+Macromedia is TRUSTe Compliant
 
   
 
 
-eHelp Corporation ("eHelp") has created this privacy statement in order to demonstrate our firm commitment to your privacy. This document describes eHelp’s practices with respect to the collection of user information from this website and the use and disclosure of such information.  This document only applies to the eHelp site [www.eHelp.com](http://www.ehelp.com/) and does not address the privacy of information we obtain from places other than our website.  In addition, other sites on the web (including those we link to) have their own practices; in all cases we encourage you to ask questions and to provide data only to sites whose practices you understand and trust. 
+## Macromedia is TRUSTe Compliant
 
-**Information collected and how it’s used**
+This statement discloses the privacy practices for the Macromedia website. Macromedia, Inc. is a member of the TRUSTe program. TRUSTe is an independent, non-profit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and information consent. 
 
-eHelp collects user information to make it easier and more rewarding for you to use our site.  We collect non-personally identifying information about you in a number of ways, including tracking your activities through your IP address or most-recently-visited URL or through "cookies". (For more information on IP addresses or Cookies, please see the appropriate sections below).  We use such information to tailor the content, services and advertising on our websites to your current and future needs.  Non-personally identifying information might include the type of browser you use, the type of computer, the operating system, the Internet service provider and other similar information.  We use such information in the aggregate to understand how our users as a group use the services and resources provided on our site.  This way we know which areas of our site are the most popular, which areas need improvement, and what technologies are being used so that we may continually improve our site. 
+Your information may be stored and processed in the United States or any other country in which Macromedia or Macromedia representatives and affiliates maintain facilities. This information is highly protected and is stored in a secure and controlled environment. By using this site, you consent to any such transfer of information outside of your country. Macromedia abides by the principles set forth in the Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
-We do not collect any personally identifying information about you unless you voluntarily submit such information to us.  We request such information when you register for mailing lists/contests/promotions, download our trial software and sample projects, register your software or submit a request for technical support. You will be asked to provide the personal information that we deem necessary to complete or participate in your selected activity. An eHelp sales representative may call you to determine if you are interested in other eHelp products.  Such representative may ask you if you would like to receive additional information on our products and services.  If you are not interested, please advise the eHelp sales representative accordingly, and you will not be contacted again by eHelp.  From time to time, we may notify you about new products and services we are offering.  If you do not want to receive such mailings, simply tell us when you give us your personal information. 
+Because Macromedia wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe mark, Macromedia has agreed to notify you of: 
 
-In addition, in connection with an assignment, sale, joint venture or other  transfer or disposition of some or all of the assets of the eHelp Corporation or its affiliated entities to third party successors in interest, you acknowledge and agree that we can accordingly assign, sell, license or transfer any information, including personally identifying information, that our visitors have provided to us to such third parties. 
+  * What personally identifiable information or third-party personally identifiable information is collected from you through our website. 
+  * The organization collecting the information 
+  * How the information is used. 
+  * With whom the information may be shared. 
+  * What choices are available to you regarding collection, use, and distribution of the information. 
+  * The kind of security procedures that are in place to protect the loss, misuse, or alteration of information under Macromedia control. 
+  * How you can correct any inaccuracies in the information. 
 
-**Cookies**
 
-Cookies are small text files that are written to your computer.  They make our website easier for you to use because they save your preferences while you’re at our site (although we do not save your passwords in cookies).  Cookies contain information that the server computer "knew" in the first place, and are designed to only be read by the serving domain that placed them.  Cookies are a standard part of Internet use and allow server computers to recognize your computer’s browser when you return to our site.  For example, a cookie may retain information regarding items that remain in your shopping cart when you leave our site so that you don’t have to start your shopping again from scratch when you return. The non-personally identifying information that we track with cookies is anonymous and is not used to identify, or lead us back to, any particular visitor. 
 
-Most browsers are set to accept cookies.  You can set your browser to refuse cookies, or to alert you when cookies are being sent.  If you elect not to accept cookies, please note that some parts of the eHelp site, such as shopping, contests or games, may not function properly, or at all, or may be considerably slower.
+The TRUSTe program covers information that is collected through this website. It does not cover information that may be collected through software downloaded from this website.
 
-**IP Address**
+Questions or concerns regarding this statement should be directed to the [Macromedia privacy coordinator](mailto:privacy@macromedia.com). If your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at: <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with Macromedia to resolve your concerns.
 
-An IP address is a number that’s automatically assigned to your computer whenever you’re using the worldwideweb.  Web servers – the big computers that "serve up" web pages – automatically identify your computer by its IP address. 
+## Macromedia and your privacy
 
-We use IP addresses to analyze trends, administer our site, track users’ movements and gather broad demographic information for aggregate use.  IP addresses are not normally linked to personally identifying information.  This means that a visitor’s session will be logged, but the visitor remains anonymous to us. 
+_Revised August 30, 2004_
 
-**Disclosure of Information**
+At Macromedia we respect your right to privacy and we understand that, as a visitor to macromedia.com, you prefer to control your own personal information and preferences. For this reason, we may ask you to register or to provide personal information and preferences when you visit certain areas of macromedia.com, download free software, request information, or subscribe to Macromedia Edge newsletter. 
 
-As part of the registration process, eHelp may provide you with the option of receiving information from third parties.  If you select this option, eHelp will transfer your contact information to third parties.  If you do not want to receive information from third parties in the future, call the eHelp Customer SupportDepartment at 1-800-358-9370.  (Please note that eHelp is not responsible for removing your information from third party lists or entities with which you have previously authorized eHelp to share your information.)  You will need to contact those third parties directly to request removal from their lists. 
+We will guard the personal information you share with us to ensure the content, services, and advertising that we provide on macromedia.com are always tailored to your current, designated preferences.
 
-Unless we tell you otherwise, we do not sell or rent your personally identifying information to any third parties. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will have the option of not permitting the transfer.  If you do not wish your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests. 
+When you provide Macromedia with your name (or alias), e-mail address, mailing address, or telephone number, and you do not 'opt out,' Macromedia and Macromedia representatives and affiliates may use the provided information to alert you to product upgrades, special offers, updated information, classes, new services, and other Macromedia information. Representatives and affiliates may include value-added resellers and authorized training partners. Beyond its representatives and affiliates, Macromedia does not offer or allow the selling of any user-provided information to third parties.
 
-We do sell and rent aggregated information about our users generally to our advertisers, business partners, sponsors and other third parties. We also may produce aggregated reports for advertisers identifying, for example, the number of users that visit our site or different areas of our site, the number of users that clicked on an advertisement or the number of users that read a particular article.  Aggregate information refers to information that cannot be directly linked to a specific individual. For example, we may know that 25,000 people visited our site today, or that 75% of those visitors were women but we don’t know their names. We use aggregate information to customize our content and advertising, to deliver a better experience for our visitors. Aggregated information does _not_ include personally identifying information about you or your use of our site. 
+Macromedia respects the rights users give us when opting to receive e-mail communications and enforces internal policies to preserve those rights. It is our objective to retain the long-term ability to continue to communicate with our users.
 
-**Disclosure of Information in Special Circumstances**
+If you do not want Macromedia or Macromedia representatives to contact you, you may "opt out" of this preference at any time, whether you're online or contacting Macromedia directly. As part of your preference flexibility, you'll always have the option to opt back in and have Macromedia contact you based on your previous or new preferences. For instructions, please see the section "Contact Us," below.
 
-eHelp reserves the right to disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating eHelp’s [Terms of Use](https://web.archive.org/notices/) or may be causing injury to or interference with (either intentionally or unintentionally) eHelp’s rights or property, other eHelp users, or anyone else that could be harmed by such activities.  eHelp may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service and improve our products and services. 
+If you choose not to register or provide personal information, you can still visit most Macromedia websites; however, you will not have access to areas that require personal identification.
 
-**Opt out**
+Personal information that you post to online forums is accessible by other forum participants. 
 
-You can help eHelp maintain the accuracy of your personal information by notifying us when you change your address, phone number or email address. Users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our download form has an opt-in option so users who download the trial software from us but don’t want to receive any marketing materials.  Users who no longer wish to receive our newsletter may remove their name from the distribution list at any time by going to <http://www.ehelp.com/unsubscribe> and filling out the short form provided with their name and email address or by calling us at 1-800-358-9370.  If you have subscribed under more than one email address, you will need to unsubscribe for each of your email addresses. 
+If a user elects to use our “Tell A Friend” application for forwarding a Macromedia e-mail to their friend or informing a friend about our website, we ask them for the friend’s name and e-mail address. Macromedia will automatically send the friend the specified e-mail or the specified website information. Macromedia will not use the friend's information to contact them in the future.
 
-**Links to other Sites   **
+The Macromedia Flash Player has privacy settings that you may control. Visit the [Global Privacy Settings](https://web.archive.org/support/documentation/en/flashplayer/help/settings_manager02.html) page for more information.
 
-Users will find advertising or other content on our site that links to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties.  In many cases, the links represent cooperative projects or are mutual links established with persons or entities connected with our site. We do not control the content or links that appear on these third party sites.  In addition, these third party sites or services, including their content and links, may be constantly changing.  These third party sites and services may have their own privacy policies and customer service policies, or no policy at all.  We encourage you to review the privacy policies of any third party site or service before providing any of them with your personal information. 
+## Macromedia membership and the use of log files (cookies)
 
-**Minors**
+Macromedia offers free membership to all macromedia.com visitors. In order to establish membership, visitors are requested to provide both personal information and preferences. This information is stored and protected by your user-established Member ID and Password.
 
-eHelp’s site is not designed for minors and therefore does not collect or want any personally identifying information from children. 
+There is an additional "Remember me" option. By selecting it, you allow Macromedia to store your Member ID and password so you can access certain areas of the website without re-signing in. The sign-in information is stored until you explicitly sign out. It also allows you to return to any Macromedia website on subsequent visits without having to re-enter your information. Macromedia remembers you by placing a log file (cookie) that contains only enough information to identify you upon return visits. A "cookie" is a small line of text that is stored with your web browser for record-keeping purposes and helps Macromedia provide better service to you. Your browser has options to accept, reject, or provide you with notice when a cookie is sent.
 
-**Security**
+No information, other than that found in the Membership cookie, will be accessed by any Macromedia system. Access to your membership information always requires both your Member ID and Password.
 
-Protecting your privacy and your information is a priority at eHelp.  We do not rent or sell the personal financial information you provide to us. We use industry-standard methods to protect your personally identifying information from unauthorized access.  Among other techniques, we usually store such information on a computer behind our "firewall" in a secure location, and we take measures to restrict the number of employees internally who can access such data.  When our registration or order form asks users to enter sensitive information (such as a credit card number), that information is encrypted and is protected with industry-standard encryption technology – 128-bit encryption SSL.  In addition, as an added security measure, if you use a credit card to make a purchase on our site, an eHelp representative may call you to verify the transaction. 
+Macromedia also utilizes visitor log files (cookies) and hosted tracking with our website. Once a user enters our site, a cookie follows them through their click stream path. Examples of information being collected by these cookies and the hosted tracking include the number of times a user came to our site(s), and the paths they took to get there. Macromedia uses the data collected from website visitor cookies and hosted tracking in aggregate form only and does not collect any personally identifiable information. Use of this information helps us better understand what users are seeking and learning at our website(s) and helps us identify potential navigation issues.
 
-While we use SSL encryption to protect sensitive information online, we also take steps to protect user information off-line.  Access to all of our users’ information, not just the sensitive information mentioned above, is restricted in our offices.  Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifying information.  Furthermore, employees are kept up-to-date on our security and privacy policies and practices.  Finally, the servers on which we store personally identifying information are kept in a secure environment. 
+We also gauge effectiveness of our communications by inserting transparent GIF images in our HTML e-mails. These GIF files are not unique identifiers and do not gather any personally identifiable information. They simply let us know the number of e-mails that have been opened.
 
-Of course, there is no such thing as "perfect security" on the Internet and no data transmission can be guaranteed to be secure.  As a result, while we strive to protect your personal information, eHelp cannot and does not ensure or warrant the security of any information you transmit to us or via our site, and you do so at your own risk. 
+## How Macromedia will protect your personal information
 
-**Passwords   **
+Macromedia will always protect the personal information that you share with us. Macromedia stores information internally in a controlled, secure environment. If, for example, you make a purchase online, we route all transactions through SSL (Secure Socket Layers) and will process your credit card number only to secure your current payment. The SSL transaction does not retain your credit card number subsequent to the transaction at hand and will not use the number for marketing purposes.
 
-In the near future, your eHelp account information will be password-protected so that only you are authorized to access this personal information.  Once the password system is instituted on our site, we recommend that you do not divulge your password to anyone.  eHelp will not ask for your password in an unsolicited phone call or in an unsolicited email. 
+We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose..
 
-**Amendments**  
+If Macromedia requests general demographic information, this information is limited to reporting purposes only; members remain anonymous. Phone numbers, e-mail addresses, and postal addresses are not shared for demographic reports with outside entities. Macromedia may occasionally present a special contest or promotion that is sponsored by another company. To qualify for entry, we may ask you to provide personal information. If we plan to share that information with the sponsor(s), we will provide an up-front statement to that effect.
 
-We may change this policy from time to time to address new issues and reflect changes on our site.  We will post those changes here (and such changes become effective upon posting) so that you will know what information we collect, how we might use that information, and whether we disclose that information to anyone.  Please refer back to this policy regularly. 
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website.
 
-**Your Acceptance of these Terms**  
+## Product Activation and Privacy 
 
-By accessing and using the eHelp site, you signify your agreement to and acceptance of our Privacy Policy.  If you do not agree to this policy, please do not access or use our site.  Your continued use of the eHelp site following the posting of changes to this Privacy Policy will mean that you accept those changes. 
+Macromedia products may require activation in order to authenticate licensed users. The Macromedia Product Activation System does not collect or utilize personal information, such as your name and contact information, and does not associate activation data with registration data. For more details, visit the [Macromedia Product Activation Center](https://web.archive.org/software/activation/).
 
-**Additional Information   **
+## Macromedia & Security
 
-If you have any questions about our Privacy Policy, please contact our Customer Support Department by phone 1-800-358-9370 or email [customer_support@ehelp.com](mailto:customer_support@ehelp.com). 
+Security is one of our highest priorities, and Macromedia understands that security is important to our customers as well. Macromedia uses the Security Zone to periodically publish security bulletins and technical briefs that provide information to customers about security issues.
 
-Last updated September 27th, 2000. 
+## Contact us
+
+**How to update your personal information and preferences:** You can help Macromedia maintain the accuracy of your personal information by notifying us when you change your name, address, title, phone number, e-mail address, or your content preferences. If at any time you wish to update your information or preferences, or you prefer to stop receiving communication from Macromedia, feel free to contact us at any time.
+
+**Online**  
+[www.macromedia.com/membership/](https://web.archive.org/membership/)
+
+**E-mail**  
+[privacy@macromedia.com](mailto:privacy@macromedia.com)
+
+**Postal Mail**  
+Macromedia  
+Attn: Privacy   
+600 Townsend Street  
+San Francisco, CA 94103   
+USA
+
+If you change your e-mail or postal address, please contact Macromedia. In order to make the appropriate corrections, please include both your old and new address. Macromedia will respond to your request in a reasonable timeframe.
+
+**Macromedia would like to receive your comments and questions about this Privacy Policy:** Please address comments or questions regarding the Macromedia Privacy Policy to one of the addresses listed above (online, e-mail, or postal mail). Macromedia may occasionally update, amend, or change this Privacy Policy based on user feedback and as needed or appropriate. If we decide to materially change our privacy policy, we will post those changes to this privacy statement, and will e-mail the information to our users so that they are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. Users will always have a choice as to whether or not we use their information in accordance with, and in respect to, the posted privacy policy. If users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted.
+
+##  Links
+
+Macromedia websites may contain links to other sites. Macromedia assumes no responsibility for the content or the privacy policies and practices of such websites. Macromedia encourages you to read the privacy statements of these linked sites; their privacy practices may differ from ours.
