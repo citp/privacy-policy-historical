@@ -1,91 +1,106 @@
-> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604191526id_/http%3A//www.shadowshopper.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadowshopper.com privacy policy that was archived on 2004-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040723072428id_/http%3A//www.shadowshopper.com/common_questions.cfm%23privacy_policy) for the most accurate reproduction.*
 
-# ShadowShopper.com - Website of Choice for Mystery Shopping Companies
+# ShadowShopper | Common Questions | Mystery shopper and Secret shopper shopping jobs delivered daily!
 
-PRIVACY STATEMENT
+  
+**Common Questions from Shoppers**
 
-The Shadow Shopper community consists of Mystery Shopping professionals who understand the importance of privacy when searching for job opportunities. Shadow Shopper is an industry leader in Mystery Shopping. We encourage the responsible use and dissemination of information over the Web.
+**What is mystery shopping? How much can I earn? What are the requirements? How much do assignments pay?**  
+All of these questions and more are answered in our _Mystery Shopping 101_ article. [Click here](https://web.archive.org/web/20040629230940id_/http%3A//www.shadowshopper.com/university_101.cfm) to find out more about mystery shopping in general.
 
-OVERVIEW 
+**I can't remember my password. What do I do?**  
+Simply click on the "forget password?" link at the top of any page on the website. A small popup window will appear. Type in your email address and hit submit and your password will be emailed to you immediately.
 
-Shadow Shopper is committed to respecting the privacy of our users. We strive to provide a safe, secure user experience. This Privacy Statement sets forth the online data collection and usage policies and practices that apply to our Web site. By using the Shadow Shopper Web site, you consent to the policies and practices described in this Statement.
+**I can't log in to the site. Help!**  
+First of all, make sure that you have typed in your email address and password correctly. It's important that you enter your password exactly the same as when you registered. Passwords are case sensitive so 'PASSWORD' is not the same as 'PassWord' or 'password.' If in doubt, use the "Forgot password" link located on the top right of every page to have it emailed to you.  
+    Also, the ShadowShopper site uses "cookies" to make the site easier to use. You MUST enable "cookies" on your web browser in order to use the site. You'll know you're logged in by looking at the upper right corner of the screen. If you see "You are logged in as "YOUR NAME" you're all set.
 
-Your data will be stored and processed in whole or in part in the United States. If you access the Shadow Shopper Web site outside the United States, your usage of that site constitutes consent to the transfer of your data out of your country and to the United States.
+**How do I apply for jobs?**  
+You can either click on the link at the bottom of the email notifications we send you, or you can go to the search for jobs page. The search for jobs page will bring up a list of assignments in your area. You then can click on the job and a job details page will pop up (Silver and Gold members only). At the bottom of the job details page is an apply button (again for Silver and Gold members only). Click this and write your message to the employer and hit submit. That's all there is to it! 
 
-Our site contains links to other Web sites over which we have no control. Shadow Shopper is not responsible for the privacy policies or practices of other Web sites to which you choose to link from the Shadow Shopper Web site. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information. This Privacy Statement applies solely to the information we collect on the Shadow Shopper Web site, and does not apply to information we collect in any other fashion.
+**I'm no longer receiving job notifications in my email. What happened?**  
+If we send you 3 or more emails that are returned as undeliverable, we are required to turn your job notification preference to 'off'. Returned emails can be caused by either having a full mailbox (over your disk space limit) or by mis-indentifying the job notification emails as spam with some spam-blocking software. To turn the notification feature back on, simply log into the site and go to the "My Preferences page." From there, click 'Yes' on the option that says 'Send automatic job notification emails to my inbox' and click the button that says 'Click Here to Update.'
 
-INFORMATION COLLECTION
+**I applied for a job but never heard back from you. Why?**  
+Remember, we are NOT a mystery shopping company. We are a mystery shopping matching company. We DO NOT hire shoppers, our members (mystery shopping companies, merchandising companies, etc.) do. We send you the job opportunities and give you information about how to win assignments. Make sure to [take our tour](https://web.archive.org/web/20040629230940id_/http%3A//www.shadowshopper.com/university_tour.cfm) and read our article on [how to win assignments](https://web.archive.org/web/20040629230940id_/http%3A//www.shadowshopper.com/university_win_assignment.cfm).
 
-For all processes that require information collection, Shadow Shopper is committed to providing the highest level of security and privacy for Mystery Shopping professionals and customers. 
+**What is your phone number so I can call you with my questions?**  
+We do not offer phone support. Instead, we handle all support requests and questions via email only. We do this to keep our costs down and so we have a record of members questions and comments. This is pretty common for sites with a large amount of members, such as eBay, Amazon, MSN, AOL any many others.
 
-In some areas of our Web site, Shadow Shopper requests or may request that you provide personal information, including your name, address, e-mail address, telephone number, credit card number, social security number, contact information, billing information and any other information from which your identity is discernible. In other areas, Shadow Shopper collects or may collect demographic information that is not unique to you such as your ZIP code, age, preferences, gender, interests and favorites. Sometimes we collect or may collect a combination of the two types of information. Examples of areas on the Shadow Shopper site where we collect personal or combined personal and demographic data are pages where you can open a Shadow Shopper account, sign up to use a service, post a resume, enter a contest, or purchase a product. In addition, Shadow Shopper may indirectly collect information about you when you use certain third party services on our Web site. Such information will be subject to, and treated in accordance with, the policies and practices described in this Statement.
+**I'm a little skeptical. How do I know you're a real company and not a scam?**  
+The truth of the matter is nothing we write actually proves that we're real, and not a scam. We can tell you that we were just voted the top referral service of the year for 2003 by the National Center for Professional Mystery Shopping and Merchandising, have been in business since 2001, have several tens of thousands of members, are located in a real office in Houston, Texas and have 7 employees. 
 
-We also gather or may gather certain information about your use of our site, such as what areas you visit and what services you access. Moreover, there is information about your computer hardware and software that is or may be collected by Shadow Shopper. This information can include without limitation your IP address, browser type, domain names, access times, and referring Web site addresses.
+**I want to join but I don't want to enter my credit card information online. Can I pay another way?**  
+Yes you can. We currently have two alternate payment options. Both require that you sign up for our free Bronze membership first so that all your information will be in our system. Then, when we have receipt of funds, we'll upgrade your account and notify you.
 
-Shadow Shopper may sometimes afford you the opportunity to provide descriptive, cultural, behavioral, preferential and/or life style information about yourself, but it is solely up to you whether you furnish such information. If you do provide such information, you are thereby consenting to the use of that information in accordance with the policies and practices described in this Statement. For example, such information may be used for the purpose of determining your potential interest in receiving email or other communications about particular products or services.
+NOTE: We process all checks and money orders the day we receive them and notify you immediately. Please don't email asking if we've received your check until you've allowed 10 days for us to receive payment. Thank you!
 
-Please remember that if you post any of your personal information in public areas of Shadow Shopper, such as in online forums or chat rooms, such information may be collected and used by others over whom Shadow Shopper has no control. We are not responsible for the use made by third parties of information you post or otherwise make available in public areas of Shadow Shopper.
+_Paying via PayPal_  
+Send your payment to paypal@shadowshopper.com. In the notes section please include the email address you used when you signed up on ShadowShopper so we know which account to update.
 
-USE OF INFORMATION
+_Paying by Check or Money Order_  
+Mail your payment to the following address and include your name and email address.
 
-We use the information we gather on the Shadow Shopper site, whether personal, demographic, collective, or technical, for the purpose of operating and improving the Shadow Shopper Web site, fostering a positive user experience, and delivering the products and services that we offer.
+ShadowShopper  
+21175 Tomball Parkway, Suite 387  
+Houston, TX 77070
 
-We may also use the information we gather to inform you of other products or services available from Shadow Shopper or its affiliated companies or to contact you about your opinion of current products and services or potential new products and services that may be offered. (The term "affiliated companies" is defined in the section of this Statement entitled "Contact Information")
+**Do Gold members really get opportunities to get paid to mystery shop a cruise?**  
+YES! ShadowShopper exclusively offers mystery shopping cruise jobs regularly to our Gold and Lifetime members. We do this through partnerships we've established with several major luxury cruise lines to help them improve their customer's experience onboard. Additionally, our members may be chosen to mystery shop the services and shops onboard during the cruise. [Click here](https://web.archive.org/web/20040629230940id_/http%3A//www.shadowshopper.com/university_cruise.cfm) to learn more about these exciting opportunities.
 
-We may use your contact information in order to send you e-mail or other communications regarding updates at the Shadow Shopper site, such as new Shadow Shopper opportunities and additional listings which may be of interest to you. The nature and frequency of these messages will vary depending upon the information we have about you. In addition, at the time of registration for Shadow Shopper, you may have the option to elect to receive additional communications, information, and promotions relating to topics that may be of special interest to you. 
+We're currently investigating additional job opportunities for our Gold and Lifetime members to mystery shop casinos, vacation packages, sporting events and much more. We'll notify all our members as these new partnerships take effect.
 
-We have an area where you can submit feedback. Any feedback you submit in this area becomes our property, and we can use such feedback for marketing purposes or contact you for further information.
+**A friend of mine told me that I shouldn't have to pay to mystery shop. Why should I pay to join?**  
+We agree that you shouldn't have to pay to mystery shop; and that's not why we charge a membership fee. What we do is bring the mystery shopping opportunities to you and that is what we charge you for. Our hundreds of employers post thousands of jobs to our site each month. We search for the jobs you want, in your area, and deliver those jobs straight to your email inbox. That's why thousand of shoppers are using us to do the hard work of finding the best mystery shopping jobs nationwide. You concentrate on enjoying the opportunities to get paid to eat and shop, and leave the searching to us. You can spend a large amount of your free time searching for jobs or, for the monthly equivalent of a meal at McDonald's, you can pay ShadowShopper to do all the time-consuming work for you.
 
-INFORMATION DISCLOSURE TO OTHERS 
+**Aren't all of the jobs on your site posted on various free job boards?**  
+NO! In fact, we have dozens and dozens of individual employers that exclusively post thousands of mystery shopping jobs on ShadowShopper and nowhere else. This includes our exclusive cruise line mystery shopping jobs right now; and in the months to come we expect to add casino, vacation, sporting event and many more premium mystery shopping jobs. We're constantly adding more and more employers each month. Many of whom are choosing to only post at ShadowShopper. Some of our employers do post their jobs outside of ShadowShopper on free job boards. But don't you have better things to do with your time than to spend an hour or more every night searching for jobs you want? Instead, why not leave it up to us to email these very same jobs directly to you.
 
-We do not disclose to third parties your personal information, combined personal and demographic information, or information about your use of the Shadow Shopper Web site (such as the areas you visit or the services you access), except as set forth in the following four subparagraphs. 
+**You've sent me jobs that aren't what I thought were mystery shopping jobs. What gives?**  
+Our employers have jobs that aren't just mystery shopping but also include product demonstrations, evaluations, testing and more. Sometimes the jobs won't have much to do with shopping. But that's the type of variety we get at ShadowShopper. With hundreds of employers nationwide, the jobs change constantly, and can vary from the type that you're seeing to restaurant evaluations, testers, shopping assignments, video shops, and many others. Give the site a little time and you'll be pleasantly surprised at the variety of opportunities we can provide to you. Keep in mind that you can easily change your shopping preferences so that you'll only get the exact type of jobs you want.
 
-1\. We may disclose such information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the products or services of third parties at the time you register for a Shadow Shopper account, we may supply your contact information to third parties such as employers, shoppers, recruiters, data aggregators, marketers, or others for the purpose of sending you e-mail or otherwise communicating with you. We may use data we have about you (such as the interests and preferences you have expressed) to determine whether you might be interested in the products or services of a particular third-party.
+**Why should I do non-mystery shopping jobs?**  
+One thing to consider is that while non-mystery shopping jobs don't sound as glamorous, taking a few of them, doing a great job, and getting known for your quality of performance is a great way to ensure that when those plum jobs come up, the employer will recognize your name and say "that's the shopper we need!" Still, it's up to you, and it's your valuable time, so do what you think is best.
 
-2\. We may disclose such information to companies and individuals we employ to perform functions on our behalf, such as individuals or entities hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.
+**I'm a Bronze member. Why can't I see job details or apply?**  
+We allow you to see partial views of jobs in your area as a way of showing you that the ShadowShopper system really works. When you upgrade to Gold or Silver membership you'll see the complete view and you can act on the individual jobs. We have to charge for memberships in order to be able to provide this valuable service to you. Bronze members cannot apply for these jobs using our system. Bronze members can, however, be directly contacted by employers by having their profile in our system.
 
-3\. We may disclose such information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of Shadow Shopper or its affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public. 
+**I received a job posting from ShadowShopper but when I tried to view the Job Details, it said there were no details to view. What happened to the assignment?**  
+This means that the assignment is no longer available. This could be for several reasons, the employer made a mistake in the posting and deleted it, the job may have already been filled or they may have suspended the job after receiving a certain number of email responses from interested shoppers.
 
-4\. We may disclose and transfer such information to a third party who acquires all or a substantial portion of Shadow Shopper's business, whether such acquisition is by way of merger, consolidation or purchase of all or a substantial portion of our assets. In addition, in the event Shadow Shopper becomes the subject of a bankruptcy proceeding, whether voluntary or involuntary, Shadow Shopper or its trustee in bankruptcy may sell, license or otherwise dispose of such information in a transaction approved by the bankruptcy court.
+**What is my Silver or Gold certification number?**  
+We do not issue certification numbers for either our memberships or our CertiShop certification. Many times people confuse our memberships and certification with the MSPA's Silver and Gold Shopper Certification (note: we have Silver and Gold membership levels - not certifications). We are not affiliated with the MSPA and do not know if you have certification with the MSPA. Our CertiShop certification test is free for our members. The MSPA charges $15 on up for it's certification tests.
 
-Shadow Shopper may also share aggregated anonymous information about visitors to its Web sites with its clients, partners, and other third parties so that they may understand the types of visitors to Shadow Shopper's site and how those visitors use the site. 
+**How long are the jobs posted on the site?**  
+Employers are responsible for their own job postings. The postings can only stay on our site for a maximum of 90 days. Most employers have a time frame that they leave the jobs open. For example: A job may be posted on the 10th of the month with a closing date of the 30th of that month. They will set the job up to automatically expire on the 30th. Some employers may delete the job on 20th if they fill it, or simply let the job expire on the 30th allowing them to continue to receive notification of interested shoppers in case the original shopper fails to perform the shop.
 
-BIOGRAPHIES
+**Does ShadowShopper post international shops?**  
+Currently, we do not have any international shops posted. However, we do plan to include international shoppers early next year. 
 
-Since Shadow Shopper is a career site, we give you the option of putting your biography and job listings in our database.
+**How do I cancel my membership?**  
+You can cancel your membership by either going to the Account Information page located at <https://www.shadowshopper.com/myshadowshopper_shopper_account_information.cfm> (NOTE: you must be logged in to get to this page) under Membership Cancellation, or by emailing us a request to cancel your membership and we will do it for you. In either event our system will send you a dated email confirmation for your records.
 
-We attempt to limit access to our searchable resume biographies and job listings only to paying employers, shoppers, recruiters, hiring managers, headhunters, and human resource professionals, as well as law enforcement and national security agencies, but cannot guarantee that other parties will not gain access to this database. We are not responsible for the use made of biographies by third parties who access such information while they are in our searchable database. You may remove your biography from our searchable database at any time. However, employers, recruiters, and others who have paid for access to that database or to obtain a copy of that database, as well as parties who have otherwise gained access to the database, may have retained a copy of your biography in their own files or databases. We are not responsible for the retention, use or privacy of biographies in these instances.
+**What is ShadowShopper's Privacy Policy?**  
+ShadowShopper takes your privacy seriously. The following information covers how ShadowShopper treats personal information that ShadowShopper collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
-USE OF COOKIES
+_General_  
+ShadowShopper collects personal information when you register with ShadowShopper and when you visit ShadowShopper pages. When you register we ask for information such as your name, email address, birth year, gender and zip code. Once you register with ShadowShopper and sign in to our services, you are not anonymous to us.
 
-Shadow Shopper uses "cookies" to help personalize and maximize your online experience and time online. A cookie is a text file that is placed on your hard drive by a Web page server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to your computer, and can only be read by a Web server in the domain that issued the cookie to you.
+ShadowShopper collects information about your transactions with us. ShadowShopper automatically receives and records information on our server logs from your browser, including your IP address, ShadowShopper cookie information, and the page you request. ShadowShopper uses information for the following general purposes: to customize the content you see, fulfill your requests for services, improve our services, contact you and conduct research.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Shadow Shopper pages, or register for services, a cookie helps us to recall your specific information (such as user name, password and preferences). Because of our use of cookies, we can deliver faster and more accurate results and a more personalized site experience. When you return to the Shadow Shopper site, the information you previously provided can be retrieved, so you can easily use the features that you customized.
+ShadowShopper does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:  
 
-You may have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline all cookies if you prefer. Alternatively, you may be able to modify your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. If you choose to decline cookies, however, that may hinder performance and negatively impact your experience on the Shadow Shopper Web site.
 
-INFORMATION UPDATES
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of ShadowShopper's terms of use, or as otherwise required by law.
+  * We transfer information about you if ShadowShopper is acquired by or merged with another company. In this event, ShadowShopper will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-You may review, correct, update or change your Shadow Shopper account profile information at any time. Simply log into your Shadow Shopper account, go to your Account Profile, review your account information and, if you wish, edit it with the options provided.
+_Your Ability to Edit and Delete Your Account Information and Preferences_  
+You can edit your ShadowShopper account information including your email preferences, and have the ability to delete your ShadowShopper account at any time. You can do this by visiting our Account Information page.  
+    We reserve the right to send you certain communications relating to the ShadowShopper service, such as service announcements, administrative messages and the ShadowShopper Newsletter, that are considered part of your ShadowShopper account, without offering you the opportunity to opt-out of receiving them.
 
-If you opted to receive newsletters, commercial e-mails, or other communications from Shadow Shopper or third parties at the time you registered with Shadow Shopper, but subsequently change your mind, you may opt-out by editing your Account Profile. If you previously opted not to receive such communications, you may later opt-in by editing your Account Profile.
+_Confidentiality and Security_  
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide services to you or in order to do their jobs. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
 
-SECURITY
-
-Shadow Shopper has implemented reasonable technical and organizational measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration or disclosure. However, we cannot guarantee that unauthorized third parties will never be able to defeat those measures or use your personal information for improper purposes.
-
-When you place an order online at Shadow Shopper, your credit card information is protected through the use of encryption. The encryption makes it difficult for your credit card information to be intercepted or stolen while being transmitted.
-
-CHILDREN
-
-Shadow Shopper is not intended for children. We do not knowingly or specifically collect personal information from or about children.
-
-PRIVACY STATEMENT CHANGES
-
-If we decide to change our Privacy Statement for Shadow Shopper, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we sill disclose it to anyone. If, at any time, you have questions or concerns about ShadowShopper.com’s Privacy commitment, please feel free to email or call us. We welcome your comments concerning this Privacy Statement.
-
-CONTACT INFORMATION
-
-Shadow Shopper is a name under which The Shadow Agency, Inc., a Texas corporation with its principal place of business at 1550 Norwood Drive, Suite 108, Hurst, Texas 76054, and certain of its affiliated companies worldwide, do business. ("Affiliated companies" means entities that control, are controlled by, or are under common control with The Shadow Agency, Inc.) The Shadow Agency, Inc. is the legal entity which determines the purposes and means of processing the information gathered at the Shadow Shopper Web site. The information we gather on the Shadow Shopper Web site may be shared within The Shadow Agency, Inc. and its affiliated companies.
-
-Thank you for using ShadowShopper.com.
+_Changes to this Privacy Policy_  
+ShadowShopper may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your ShadowShopper account or by placing a prominent notice on our site. 
