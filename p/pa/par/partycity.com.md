@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the partycity.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207083350id_/http%3A//partycity.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partycity.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603162006id_/http%3A//partycity.com/about/privacy.asp) for the most accurate reproduction.*
 
 # PARTY CITY - The Discount Party Super Store (r)
+
+**Privacy and Security**
 
 It is important to us that you feel confident about the security of PartyCity.com and the privacy of the information you provide to us.
 
@@ -19,6 +21,8 @@ PartyCity.com's database tracks the traffic throughout our site. This informatio
 
 Aggregate Information   
 PartyCity.com uses aggregate information from demographic surveys and traffic patterns to customize our site. State-of-the-art comparison technology allows us to use this information to make recommendations to individual members based on previous traffic patterns and purchases.
+
+PartyCity.com uses information only on an aggregate level and does not track information about individuals. Aggregate information may be shared with partners of PartyCity.com to plan advertising or promotions. We do not share any individual information.
 
 PartyCity.com has strict guidelines requiring all third parties to keep any shared personal information confidential.
 
