@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the surewest.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008165138id_/http%3A//www.surewest.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surewest.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605194547id_/http%3A//www.surewest.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - SureWest Communications
+# SureWest - Privacy Policy
 
-## SureWest Communications Privacy Policy 
+****
 
 **Our commitment to privacy**
 
-The SureWest Communications Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. This privacy policy applies to all SureWest Communications family of companies, including SureWest Communications, SureWest Broadband, SureWest Directories, SureWest Foundation, SureWest Internet, SureWest Wireless, Roseville Long Distance, Roseville Telephone Company and its divisions (Roseville Telephone Company Payphones, Roseville Telephone Museum).
+The SureWest Communications Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. This privacy policy applies to all SureWest Communications family of companies.
 
 The policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs.
 
@@ -14,7 +14,7 @@ The policy is designed to assist you in understanding how we collect, use and sa
 
 When you visit our website you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and website use information collected on an aggregate basis as you and others browse our website.
 
-### 1\. Personal information you choose to provide
+**1\. Personal information you choose to provide**
 
 **Credit card information**
 
@@ -33,7 +33,7 @@ This section applies when online credit card payment options are available throu
 
 If you choose to correspond further with us through e-mail, we may retain the content of your e-mail messages together with your e-mail address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-### 2\. Website use information
+**2\. Website use information**
 
 Similar to other commercial websites, our website may utilize a standard technology called "cookies" (see explanation below: What are cookies?) and web server logs to collect information about how our website is used. Information gathered through cookies and web server logs may include the date and time of visits, the pages viewed, time spent at our website, and the websites visited just before and after our website. This information is collected on an aggregate basis. None of this information is associated with you as an individual. 
 
@@ -103,5 +103,3 @@ Please remember that when you use a link to go from our website to another websi
 **Your consent**
 
 By using our website you consent to our collection and use of your personal information as described in this privacy policy. If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it.
-
-Top of page
