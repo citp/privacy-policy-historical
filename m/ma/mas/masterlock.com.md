@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602194759id_/http%3A//masterlock.com/general/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterlock.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202155624id_/http%3A//www.masterlock.com/general/privacy.shtml) for the most accurate reproduction.*
 
 # Master Lock: Privacy Notice
 
-Master Lock Company   
-2600 North 32nd Street   
-Milwaukee, WI 53210-0367 USA 
+  
+Master Lock Company  
+World Headquarters  
+137 W Forest Hill Avenue  
+PO Box 927  
+Oak Creek, WI 53154
 
 Welcome to the Internet site of Master Lock Company (this "Site"). Master Lock Company wants you to know what information we learn about you when you visit this Site, what we do with that information, and how you can view or change the information we have. 
 
@@ -22,6 +25,6 @@ Master Lock reserves the right to change or update this policy at any time by po
 
 Please see the Master Lock Company's 
 
-[legal notice](https://web.archive.org/web/20030602194759id_/http%3A//masterlock.com/general/legal.shtml) for more information.  
+[legal notice](https://web.archive.org/web/20031202155624id_/http%3A//www.masterlock.com/general/legal.shtml) for more information.  
   
 
