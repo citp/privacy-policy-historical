@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopathome.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004091708id_/http%3A//www.shopathome.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopathome.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621171901id_/http%3A//www.shopathome.com/privacy.htm) for the most accurate reproduction.*
 
 # Shop at Home - Privacy Statement
 
@@ -89,22 +89,22 @@ Want more great savings and special offers? Check the box below to receive promo
     * **Sign me up for more special offers from ShopAtHome partners**  
 _Note: You must be at least 14 years of age to sign up for this service._
  __
-Upon any subsequent visits to our site, you will not be asked these questions. At any time, if you would like to view and/or change your preferences, simply click on the [Edit My Preferences](https://web.archive.org/web/20021004091708id_/http%3A//www.shopathome.com/sah_editpref1.htm) page. 
+Upon any subsequent visits to our site, you will not be asked these questions. At any time, if you would like to view and/or change your preferences, simply click on the [Edit My Preferences](https://web.archive.org/web/20030621171901id_/http%3A//www.shopathome.com/sah_editpref1.htm) page. 
 
-Furthermore, if you sign up for membership, we ask you if you would like to receive special offers from ShopAtHome.com partners so we can ensure you receive only information that you are interested in! Note: You must be 14 years of age to sign up for this service. Your response will overwrite any previous submissions via the order form and can always be changed by visiting the [Edit My Preferences](https://web.archive.org/web/20021004091708id_/http%3A//www.shopathome.com/sah_editpref1.htm) page.
+Furthermore, if you sign up for membership, we ask you if you would like to receive special offers from ShopAtHome.com partners so we can ensure you receive only information that you are interested in! Note: You must be 14 years of age to sign up for this service. Your response will overwrite any previous submissions via the order form and can always be changed by visiting the [Edit My Preferences](https://web.archive.org/web/20030621171901id_/http%3A//www.shopathome.com/sah_editpref1.htm) page.
 
 #### Commitment 5:
 
 You can change the information we have on file for you at any time. 
 
-If you are one of our ShopAtHome.com members and would like to view and/or change any of the information you have selected, including your interest areas and what types of information you receive, simply visit the [Edit My Preferences](https://web.archive.org/web/20021004091708id_/http%3A//www.shopathome.com/sah_editpref1.htm) page and make the desired updates.   
+If you are one of our ShopAtHome.com members and would like to view and/or change any of the information you have selected, including your interest areas and what types of information you receive, simply visit the [Edit My Preferences](https://web.archive.org/web/20030621171901id_/http%3A//www.shopathome.com/sah_editpref1.htm) page and make the desired updates.   
 
 
 #### Commitment 6:
 
 You can choose to be removed - or to "opt-out" at any time. 
 
-If you wish to stop receiving special offers from ShopAtHome.com, simply visit the [Edit My Preferences](https://web.archive.org/web/20021004091708id_/http%3A//www.shopathome.com/sah_editpref1.htm) page and make the desired updates. Please allow up to 7 business days to be completely opted-out from ShopAtHome.com broadcasts. 
+If you wish to stop receiving special offers from ShopAtHome.com, simply visit the [Edit My Preferences](https://web.archive.org/web/20030621171901id_/http%3A//www.shopathome.com/sah_editpref1.htm) page and make the desired updates. Please allow up to 7 business days to be completely opted-out from ShopAtHome.com broadcasts. 
 
   
 Due to the rapidly evolving nature of the Internet, ShopAtHome.com reserves the right to make changes in this privacy contract. Please check this page periodically for changes. 
