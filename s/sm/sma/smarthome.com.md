@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarthome.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204065900id_/http%3A//smarthome.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarthome.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608032933id_/http%3A//www.smarthome.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy & Information Use Policy
 
