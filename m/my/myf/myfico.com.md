@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223140904id_/http%3A//www.myfico.com/myfico/PrivacyPolicy.asp%3Ffire%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfico.com privacy policy that was archived on 2005-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050107085642id_/http%3A//www.myfico.com/myfico/PrivacyPolicy.asp%3Ffire%3D4) for the most accurate reproduction.*
 
 # myFICO - Privacy Policy
 
