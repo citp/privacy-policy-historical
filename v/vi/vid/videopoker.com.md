@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videopoker.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608044719id_/http%3A//www.videopoker.com/legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videopoker.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206134130id_/http%3A//www.videopoker.com/legal.html) for the most accurate reproduction.*
 
 # The casino and video poker player's world of action gaming
 
