@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202195252id_/http%3A//www.fredericks.com/services/help.asp%3F75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fredericks.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624105009id_/http%3A//www.fredericks.com/services/help.asp%3F75) for the most accurate reproduction.*
 
-# Frederick's of Hollywood -
+# Frederick's of Hollywood - Help
 
 Privacy and security are two of the biggest issues facing users of the Internet. 
 
