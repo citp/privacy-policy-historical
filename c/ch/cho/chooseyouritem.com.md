@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chooseyouritem.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004123119id_/http%3A//www.chooseyouritem.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chooseyouritem.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603184500id_/http%3A//www.chooseyouritem.com/policy.html) for the most accurate reproduction.*
 
-# Classifieds for homes, real estate, autos, classic cars, rvs, business, airplanes, jobs, employment and more.
+# Classifieds for homes, real estate, autos, classic cars, motorcycles, rvs, business, airplanes, jobs, employment and more.
 
   
 |   | 
@@ -38,7 +38,6 @@ Trade On Our
 Premium Sites!**  
 ---  
     
-  |  |     
  |  |    
   |  |     
  |  |    
@@ -49,4 +48,8 @@ Premium Sites!**
   |  |    
  |  |    
   |  |    
+ |  |    
+  |  |    
+ |  |    
+  |  |     
 |  |  
