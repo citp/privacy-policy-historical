@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203002700id_/http%3A//www.kvue.com/kvuepriv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kvue.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331123716id_/http%3A//www.kvue.com/kvuepriv.html) for the most accurate reproduction.*
 
-# KVUE 24 Privacy Policy
+# KVUE Privacy Policy
 
 ****
 
-Like many other commercial sites, KVUE 24 collects information that helps us to improve our services and bring you information suited to your individual needs. At the same time, we recognize the importance of protecting the privacy of personal identifying information of our customers and prospects. We believe that protection of personal privacy on the web not only protects consumers, but also increases consumer confidence. In adopting this privacy policy, our intent is to balance our legitimate business interests with your reasonable expectations of privacy. 
+Like many other commercial sites, KVUE collects information that helps us to improve our services and bring you information suited to your individual needs. At the same time, we recognize the importance of protecting the privacy of personal identifying information of our customers and prospects. We believe that protection of personal privacy on the web not only protects consumers, but also increases consumer confidence. In adopting this privacy policy, our intent is to balance our legitimate business interests with your reasonable expectations of privacy. 
 
 In some instances, we operate shared web sites with businesses affiliated with us. While this privacy policy applies to our sites, we do not control the privacy policies of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks. Users should check the applicable privacy policy of the web site sponsor when linking to other sites. Users should also keep in mind that when you voluntarily disclose personal information in chat areas or bulletin boards, that information might be collected by others and could result in unsolicited messages from others.
 
@@ -22,8 +22,8 @@ Our sites may use a standard technology called a "cookie" to collect information
 
 **Future Developments**
 
-As technology on the Internet continues to develop at a rapid pace, we intend to maintain our flexibility in the online arena. Our intent is to let you know how your privacy will continue to be protected as developments arise. If we need to change our policy in the future, we will post these changes as soon as they go into effect. If you have further questions about _KVUE.COM’s_ privacy policy, you can find out more by E-mailing us at webmaster@kvue.com, or by mailing your question or request to Webmaster, KVUE 24 Television- 3201 Steck Avenue, Austin, TX 78757.
+As technology on the Internet continues to develop at a rapid pace, we intend to maintain our flexibility in the online arena. Our intent is to let you know how your privacy will continue to be protected as developments arise. If we need to change our policy in the future, we will post these changes as soon as they go into effect. If you have further questions about _KVUE.COM’s_ privacy policy, you can find out more by E-mailing us at webmaster@kvue.com, or by mailing your question or request to Webmaster, KVUE Television- 3201 Steck Avenue, Austin, TX 78757.
 
-_Last updated July 22, 1999._
+_Last updated January 19, 2001._
 
 ****
