@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003092310id_/http%3A//www.adairs.com.au/static.asp%3Fpage%3DPolicies%26section%3DPrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adairs.com.au privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412152924id_/http%3A//www.adairs.com.au/static.asp%3Fpage%3DPolicies%26section%3DPrivacyStatement) for the most accurate reproduction.*
 
 # Adairs Online / Policies / Privacy Statement
 
-|  [](https://web.archive.org/web/20021003092310id_/http%3A//www.adairs.com.au/static.asp?page=Policies&section=ReturnPolicy) [](https://web.archive.org/web/20021003092310id_/http%3A//www.adairs.com.au/static.asp?page=Policies&section=SecurityPolicy) [](https://web.archive.org/web/20021003092310id_/http%3A//www.adairs.com.au/static.asp?page=Policies&section=DeliveryPolicy) [](https://web.archive.org/web/20021003092310id_/http%3A//www.adairs.com.au/static.asp?page=Policies&section=PaymentPolicy) [](https://web.archive.org/web/20021003092310id_/http%3A//www.adairs.com.au/static.asp?page=Policies&section=PrivacyStatement)
+|  [](https://web.archive.org/web/20030412152924id_/http%3A//www.adairs.com.au/static.asp?page=Policies&section=ReturnPolicy) [](https://web.archive.org/web/20030412152924id_/http%3A//www.adairs.com.au/static.asp?page=Policies&section=SecurityPolicy) [](https://web.archive.org/web/20030412152924id_/http%3A//www.adairs.com.au/static.asp?page=Policies&section=DeliveryPolicy) [](https://web.archive.org/web/20030412152924id_/http%3A//www.adairs.com.au/static.asp?page=Policies&section=PaymentPolicy) [](https://web.archive.org/web/20030412152924id_/http%3A//www.adairs.com.au/static.asp?page=Policies&section=PrivacyStatement)
 
 Privacy Statement
 
