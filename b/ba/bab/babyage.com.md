@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142015id_/http%3A//www.babyage.com/help/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012005716id_/http%3A//www.babyage.com/help/Privacy.asp) for the most accurate reproduction.*
 
-# : BabyAge: Baby Strollers, Carseats, Cribs, and more!
+# : : BabyAge: Baby Strollers, Carseats, Cribs, and more!
 
 At BabyAge, we are fully aware of the concerns about personal privacy on the Internet. We have created this privacy statement in order to demonstrate our firm commitment to privacy. What follows is the BabyAge corporate philosophy information gathering and dissemination practices for this Web site: 
 
