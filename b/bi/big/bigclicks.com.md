@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigclicks.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607054549id_/http%3A//www.bigclicks.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigclicks.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602144320id_/http%3A//www.bigclicks.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement for http://www.bigclicks.com
 
