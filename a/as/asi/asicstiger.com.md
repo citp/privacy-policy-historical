@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asicstiger.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008070318id_/http%3A//asicstiger.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asicstiger.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612020429id_/http%3A//asicstiger.com/privacy.htm) for the most accurate reproduction.*
 
-# ASICS Privacy Policy
+# ASICS Privacy Statement
 
 **Privacy/Security Statement for ASICS America Corporation**
 
-ASICS America Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ www.asicsamerica.com ](http://www.asicstiger.com/)
+ASICS America Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [www.asicsamerica.com](http://www.asicsamerica.com/)
 
 **Information Automatically Logged**
 
@@ -12,7 +12,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 **Cookies**
 
-"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. ASICS America Corporation and **** www.asicsamerica.com may use cookies which help to collect data about the number of visitors, how long they stay and the features on the site they use the most. These cookies do not provide us with any personal information.
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. ASICS America Corporation and www.asicsamerica.com may use cookies which help to collect data about the number of visitors, how long they stay and the features on the site they use the most. These cookies do not provide us with any personal information.
 
 **Disclosure of collected information**
 
@@ -24,7 +24,7 @@ This site contains links to other sites. ASICS America Corporation is not respon
 
 **On Line Shopping**
 
-ASICS America Corporation is committed to sending you to a authorized retailer web site that enables you to conveniently select the ASICS® products you want to buy and order them directly from one of our selected Authorized Internet Dealers. When you select the Authorized Internet Dealer from whom you want to buy your ASICS® Products, your order and payment for such products will go directly to this dealer and the dealer will ship the product directly to you. **You are buying your ASICS® products from this selected Authorized Internet Dealer, not from ASICS America Corporation**. Therefore, all conditions of sale, such as guarantees, shipping procedures, return policies and pricing are governed by this selected dealer. Additionally, all inquiries relating to your order should be directed to this dealer.
+ASICS America Corporation is committed to sending you to a authorized retailer web site that enables you to conveniently select the ASICS® products you want to buy and order them directly from one of our selected Authorized Internet Dealers. When you select the Authorized Internet Dealer from whom you want to buy your ASICS® Products, your order and payment for such products will go directly to this dealer and the dealer will ship the product directly to you. **You are buying your ASICS® products from this selected Authorized Internet Dealer, not from ASICS America Corporation.** Therefore, all conditions of sale, such as guarantees, shipping procedures, return policies and pricing are governed by this selected dealer. Additionally, all inquiries relating to your order should be directed to this dealer.
 
 **Use of Files/Materials Restrictions**
 
@@ -32,8 +32,7 @@ This site is operated by ASICS America Corporation. No files from this web site 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, or the practices of this site contact: [   
-webmaster@asicsamerica.com](mailto:webmaster@asicstiger.com)
+If you have any questions about this privacy statement, or the practices of this site contact: [webmaster@asicsamerica.com](mailto:webmaster@asicsamerica.com)
 
-For all other questions including consumer inquires, product issues, and company information contact:  
-[consumer@asicsamerica.com](mailto:consumer@asicstiger.com)
+For all other questions including consumer inquires, product issues, and company information contact: [consumer@asicsamerica.com](mailto:consumer@asicsamerica.com)   
+
