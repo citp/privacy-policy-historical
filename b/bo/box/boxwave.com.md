@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxwave.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205152742id_/http%3A//www.boxwave.com/contactus/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxwave.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608144414id_/http%3A//boxwave.com/contactus/privacy.htm) for the most accurate reproduction.*
 
 # BoxWave - Privacy Policy
 
