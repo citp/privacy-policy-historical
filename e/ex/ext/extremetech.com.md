@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremetech.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407084536id_/http%3A//www.ziffdavis.com/terms/index.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremetech.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207045500id_/http%3A//www.ziffdavis.com/terms/index.asp%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Ziff Davis Media | Privacy Policy and Terms
 
@@ -23,10 +23,9 @@ Ziff Davis Media is not responsible for the information you volunteer about your
   * [eWEEK](http://www.eweek.com/view_profile/)
   * [ExtremeTech](http://www.extremetech.com/view_profile/)
   * [PC Magazine](http://www.pcmag.com/view_profile/)
+  * [1UP and Ziff Davis Game sites](http://www.1up.com/change_profile/0,4492,,00.asp)
 
 
-
-Sites for Computer Gaming World, Electonic Gaming Monthly, GameNow, Official U.S. Playstation Magazine and Xbox Nation are currently hosted by [Gamers.com](http://gamers.com/). There is no registration specifically for the gaming magazine content areas, but Gamers.com itself offers site registration. For details, please see [Gamers.com's Privacy Policy](http://gamers.com/s/privacy_policy/policy?m=1&a=0).
 
 Personally identifiable information you provide to [Microsoft Watch](http://www.microsoft-watch.com/) is not shared with anyone except on an aggregate, statistical basis.
 
@@ -40,10 +39,9 @@ _Mailing Lists_
 
 We make email and postal lists of our customers available on a rental, i.e., temporary, defined, basis, to carefully screened providers of quality goods and services. Many customers appreciate the offerings they receive, but here's what to do if you don't wish for us to share this information:
 
-  * if you are a subscriber to a Ziff Davis Media magazine, please log in and change your preferences at [http://subhelp.ziffdavis.com](http://subhelp.ziffdavis.com/). (If you are a new subscriber, your information may not be immediately available - please allow 2-4 weeks from placing your subscription order for processing.) 
+  * if you are a subscriber to a Ziff Davis Media magazine, please log in and change your preferences at [http://subhelp.ziffdavis.com](http://subhelp.ziffdavis.com/). (If you are a new subscriber, your information may not be immediately available \- please allow 2-4 weeks from placing your subscription order for processing.) 
   * if you are a registered user of our sites, you can change your preferences via the profile page links shown above. 
   * if you are a registered user of Ziff Davis eSeminars, please send email with your preference request to [eSeminars@ziffdavis.com](mailto:eSeminars@ziffdavis.com). Please see below for details on eSeminars's privacy policies. 
-  * if you are a registered user of Gamers.com, please follow this link for details: [http://gamers.com/s/privacy_policy/policy?m=1&a=0](http://gamers.com/s/privacy_policy/policy?m=1&a=0)
 
 
 
