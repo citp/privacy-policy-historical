@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206224400id_/http%3A//www.clickxchange.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2001-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010627185635id_/http%3A//www.clickxchange.com/privacystatement.htm) for the most accurate reproduction.*
 
 # Privacy Statement for clickXchange.com
 
