@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slco.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205021316id_/http%3A//www.slco.org/main/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slco.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603005442id_/http%3A//www.slco.org/main/privacy.cfm) for the most accurate reproduction.*
 
 # SLCo online: Salt Lake County Government:
 
@@ -23,7 +23,7 @@ The information collected may include:
 
 
 **Use of Personally Identifiable Information**  
-SLCo may store and process your personally identifiable information to better understand your needs and how we may improve our electronic services and we may use your personally identifiable information to contact you if so requested by you (for example, we may send you a questionnaire or we may respond to your comments or requests for information). SLCo will not give your personally identifiable information to any outside organization. 
+SLCo may store and process your personally identifiable information to better understand your needs and how we may improve our electronic services and we may use your personally identifiable information to contact you if so requested by you (for example, we may send you a questionnaire or we may respond to your comments or requests for information). SLCo will not give your personally identifiable information to any outside organization unless required by law. 
 
 **Non Personally Identifiable Information**  
 SLCo may collect information about you that is not personally identifiable. Examples of this type of information include IP address, time of visit, the type of internet browser or computer operating system you are using, and the domain name of the website from which you linked to our sites. SLCo uses this information to help diagnose problems with our server and to administer our website. We also use it to gather broad demographic information about our users in general. This information does not contain anything that can identify users personally. Additionally SLCo may store some information on your computer. This information will be in the form of a "cookie". Most internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. SLCO will not attempt to tie any personally identifiable information on individual users to non personally identifiable information. 
