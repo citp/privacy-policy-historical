@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gazette.net privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619031459id_/http%3A//www.gazette.net/gazetteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gazette.net privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207032200id_/http%3A//www.gazette.net/gazetteinfo/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement for Gazette.Net
 
 **Privacy Statement for Gazette.Net**
 
@@ -69,4 +69,5 @@ Director of New Media
 Gazette Newspapers, Inc.  
 1200 Quince Orcahrd Boulevard  
 Gaithersburg, Maryland 20878  
-[fspeight@gazette.net](mailto:fspeight@gazette.net)
+[fspeight@gazette.net](mailto:fspeight@gazette.net)   
+
