@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idexx.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205192426id_/http%3A//idexx.com/aboutidexx/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idexx.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603101042id_/http%3A//www.idexx.com/aboutidexx/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Information collected on this Web site is used by IDEXX or its affiliates solely for internal purposes, as more fully described in the full text of the IDEXX Privacy Policy below. IDEXX and its subsidiaries do not sell e-mail addresses or other personal information to other companies.**
 
-Your privacy, and the privacy of all users of idexx.com, is important to us. Accordingly, we have adopted the following Privacy Policy. This Privacy Policy applies to information derived from your use of this site. This site is administered and maintained by IDEXX Laboratories, Inc., of Westbrook, Maine, U.S.A. Use of this site is governed by the [Terms of Use](https://web.archive.org/web/20031205192426id_/http%3A//idexx.com/aboutidexx/terms.cfm) and indicates acceptance of such terms.
+Your privacy, and the privacy of all users of idexx.com, is important to us. Accordingly, we have adopted the following Privacy Policy. This Privacy Policy applies to information derived from your use of this site. This site is administered and maintained by IDEXX Laboratories, Inc., of Westbrook, Maine, U.S.A. Use of this site is governed by the [Terms of Use](https://web.archive.org/web/20040603101042id_/http%3A//www.idexx.com/aboutidexx/terms.cfm) and indicates acceptance of such terms.
 
 Our policy is based on the principles of notice, choice, access and security in the collection and use of all information regarding our users and their activities at our site.
 
