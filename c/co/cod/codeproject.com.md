@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602201256id_/http%3A//www.codeproject.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeproject.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207013531id_/http%3A//www.codeproject.com/info/privacy.asp) for the most accurate reproduction.*
 
 # The Code Project - CodeProject Privacy Policy - Free Source Code and Tutorials
 
