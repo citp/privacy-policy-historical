@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603180107id_/http%3A//www.restaurants.com/Resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209221235id_/http%3A//www.restaurants.com/Resources/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -24,4 +24,4 @@ By using our Websites, you consent to the collection and use of the information,
 
 
 _**Contact Us about Privacy**_  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:  [privacy@restaurants.com](mailto:privacy@restaurants.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:  [info@restaurants.com](mailto:info@restaurants.com?Subject=Privacy)
