@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenvogue.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603191200id_/http%3A//teenvogue.com/site/privacy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenvogue.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203002426id_/http%3A//teenvogue.com/site/privacy/privacypolicy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines: Teen Vogue: Privacy Policy
 
@@ -16,7 +16,7 @@ Last Revised June 27, 2002
 
 Kids and parents click here! 
 
-In addition to reviewing this privacy policy, please read our [User Agreement](http://teenvogue.com/site/corporate/useragreement.html). Your use of TeenVogue.com constitutes agreement to its terms and conditions.
+In addition to reviewing this privacy policy, please read our [User Agreement](http://teenvogue.com/site/useragreement/useragreement.html). Your use of TeenVogue.com constitutes agreement to its terms and conditions.
 
 TeenVogue.com is produced by CondéNet, Inc. This policy does not cover information collected on sites linked to from TeenVogue.com.
 
