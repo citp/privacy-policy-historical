@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207001400id_/http%3A//www.hirebridge.com/hirebridgea/hirebridge6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hirebridge.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403173227id_/http%3A//www.hirebridge.com/hirebridgea/hirebridge6.html) for the most accurate reproduction.*
 
 # Hirebridge :: Online Recruiting Staffing & Hiring Management Solutions
 
