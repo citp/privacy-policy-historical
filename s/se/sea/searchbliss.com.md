@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603030453id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207213927id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
 
 # SearchBliss Privacy Policies
 
@@ -25,6 +25,3 @@ SearchBliss utilizes Microsoft's bCentral Network for it's opt-in emailing list.
 SearchBliss contains many hyperlinks and advertisements linked to other Web sites. SearchBliss is NOT responsible for the privacy practices or the content of such web sites or advertisers. We encourage you to check with those sites to determine their privacy policy. Please read our [linking agreement](http://www.searchbliss.com/advertising_agreement.htm) agreement for additional information. 
 
 * * *
-
-Copyright © 2001- 2020 SearchBliss, All Rights Reserved  
-
