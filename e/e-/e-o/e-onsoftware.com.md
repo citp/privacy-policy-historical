@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-onsoftware.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008142010id_/http%3A//www.e-onsoftware.com/Home/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-onsoftware.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607054727id_/http%3A//www.e-onsoftware.com/Home/PrivacyPolicy.php) for the most accurate reproduction.*
 
-# e-on software - Price List
+# e-on software - Privacy Policy
 
   
 E-on software is committed to protecting your privacy. This Privacy Policy summarizes the policies of e-on software regarding the collection, transfer, and use of personal information on this Site, and regarding security measures e-on software employs to protect such personal information. Please read this Privacy Policy carefully to understand how your personal information will be treated as you make full use of this Site.
@@ -31,7 +31,7 @@ E-on software reserves the right to use aggregated data (data that is not indivi
 
 ## Accessing, Modifying, or Removing Information 
 
-Under applicable laws, statutes, regulations, or ordinances, you have the right to (i) check whether e-on software holds personal information collected about you through this Site, (ii) access such personal information, and (iii) correct any personal information about you that is inaccurate. If you would like e-on software to update or delete your information from e-on software's records, please contact e-on software's [Online Support Services](https://web.archive.org/feedback). E-on software will require reasonable proof of your identity before letting you access or modify your personal information.
+Under applicable laws, statutes, regulations, or ordinances, you have the right to (i) check whether e-on software holds personal information collected about you through this Site, (ii) access such personal information, and (iii) correct any personal information about you that is inaccurate. If you would like e-on software to update or delete your information from e-on software's records, please contact e-on software's [Online Support Services](https://web.archive.org/support). You can directly modify or remove your registration information yourself using our [Secure Online Registration](https://web.archive.org/OnlineReg) service. E-on software will require reasonable proof of your identity before letting you access or modify your personal information.
 
 ## Security and Integrity 
 
@@ -51,4 +51,4 @@ The personal information that is collected by e-on software is considered to be 
 
 ## Contacting Us
 
-If you have any questions, comments, complaints or concerns or require more information about this Privacy Policy, about how e-on software manages personal information or responds to complaints, or about how personal information is being used, please contact e-on software's [Online Support Services](https://web.archive.org/feedback).
+If you have any questions, comments, complaints or concerns or require more information about this Privacy Policy, about how e-on software manages personal information or responds to complaints, or about how personal information is being used, please contact e-on software's [Online Support Services](https://web.archive.org/support).
