@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xlibris.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331122144id_/http%3A//www.xlibris.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xlibris.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217160429id_/http%3A//www1.xlibris.com/about/privacy.asp) for the most accurate reproduction.*
 
-# XLibris.com : Privacy Policy
+# Xlibris.Com
 
 Xlibris respects your right to the privacy of the personal information you provide us on our website. To that end, unless we state otherwise in this policy or at the time information is collected, any personal information you provide to Xlibris will be known only to two parties: you and Xlibris. The following policy is intended to explain how your personal information will be treated as you make use of our site and its features. Personal information includes your name, street and email addresses, billing information, click-through activity and any other personal information you may provide here. This policy may change from time to time, so please check back periodically.
 
@@ -11,9 +11,6 @@ We also count, track, and aggregate the visitor's activity into our analyses of 
 
 **Use of cookies**   
 A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. We use cookies in a limited way to help identify unique browsers that visit us and to track usage throughout our site. We also use cookies on our Xlibris bookstore site to make the ordering process more convenient for users.
-
-**The Xlibris Community**   
-Xlibris visitors who register for our online community area provide us with a name, password, and a valid email address. We use this information to set up your account. We do not sell or redistribute the community membership list. The email address you register with Xlibris will be posted in the community only if you elect to have it shown when you are posting a message or submitting to a workshop. Participants in the Xlibris Community are expected to comply with the rules governing the area, but we cannot control third parties' use of information you may choose to provide in such a public forum.
 
 **Surveys**   
 From time to time, Xlibris will conduct voluntary surveys of visitors to the site to obtain information on various subjects. Such information may be compiled and shared in the aggregate with advertisers and other third parties, but no personal details will be traceable or associated with specific individuals.
