@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603220349id_/http%3A//www.freddiemac.com/terms/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009153201id_/http%3A//www.freddiemac.com/terms/privacy.htm) for the most accurate reproduction.*
 
 # Freddie Mac Terms and Conditions: Privacy Policy
 
@@ -14,7 +14,9 @@ Some parts of FreddieMac.com may use a "cookie," which is a small text file that
 
 ## **Information You Provide**
 
-If you send us an email or message and provide your name or other personal and financial information, we may keep this information. We may use this information to send an answer to your question or deliver requested information to you. We also may use information that you provide to measure general statistics about visits to FreddieMac.com and interest in particular areas. We do not sell this information to third party companies. By sending an email or making a request or inquiry, you agree to permit Freddie Mac to keep and use the information you have given us consistent with this policy. 
+If you send us an email or message and provide your name or other personal and financial information, we may keep this information. We may use this information to send an answer to your question or deliver requested information to you. We also may use information that you provide to measure general statistics about visits to FreddieMac.com and interest in particular areas. We do not sell this information to third party companies. We may disclose information from website visitors to third parties, such as contractors, consultants and other service providers, so that the third party can provide a business, professional or technical support function for the website visitor or for Freddie Mac. 
+
+By sending an email or making a request or inquiry, you agree to permit Freddie Mac to keep and use the information you have given us consistent with this policy. 
 
 If you enter personal and financial information into a financing or affordability calculator offered on FreddieMac.com – such as income, the down payment you want to make, the length of a loan you want, the price of a home you have in mind – that information is not seen or received by Freddie Mac. The calculator's functions are performed by your computer and the results are displayed in your browser and viewable only by you.   
 
@@ -38,3 +40,5 @@ We reserve the right to revise or change this policy in the future. Any changes 
 ## **How to Reach Us**
 
 If you have a question about the way that your information is used or about Freddie Mac's information practices with respect to this site, please [contact us](https://web.archive.org/corporate/about/contactus.htm).
+
+Effective date: July 1, 2004
