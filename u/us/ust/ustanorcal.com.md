@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustanorcal.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603072834id_/http%3A//www.norcal.usta.com/site_services/custom.sps%3FiType%3D1955%26icustompageid%3D4433) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustanorcal.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205004751id_/http%3A//www.norcal.usta.com/site_services/custom.sps%3FiType%3D1955%26icustompageid%3D4433) for the most accurate reproduction.*
 
 # USTA Northern California Section - Privacy Policy
 
