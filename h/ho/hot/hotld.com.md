@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotld.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402132928id_/http%3A//www.ccorders.com/order/popup_privacyStatement.asp%3FWebID%3DLDWIZ) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotld.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019120721id_/http%3A//www.ccorders.com/order/popup_privacyStatement.asp%3FWebID%3DLDWIZ) for the most accurate reproduction.*
 
 # HOTLD.COM Privacy Statement
 
