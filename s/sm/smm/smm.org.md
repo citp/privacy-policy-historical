@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603044552id_/http%3A//www.smm.org/museum/identity/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smm.org privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402203959id_/http%3A//www.smm.org/aboutus/Notices/Privacy.php) for the most accurate reproduction.*
 
 # Information Privacy Statement
 
