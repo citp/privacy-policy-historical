@@ -1,57 +1,70 @@
-> *The following text is extracted and transformed from the yellowpages.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603201213id_/http%3A//info.yellowpages.com/asp/static/corpinfo/p3p.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.com privacy policy that was archived on 2003-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031219042310id_/http%3A//info.yellowpages.com/asp/static/corpinfo/privacy.asp) for the most accurate reproduction.*
 
-# YellowPages.Com ...Means Business
+# YellowPages.com (SM) > Privacy Policy > How We Respect Yours!
 
-When you visit the YellowPages.Com site, you may provide some or all of the following information:
+How We Handle Your Privacy at YellowPages.com 
 
-Anonymous and Aggregate Data
+Welcome to YellowPages.com!
 
-  * In an effort to provide maximum benefit to you we collect information, not about you personally, but about your visit. We are constantly monitoring information in order to produce aggregate reports for internal use and for use by third parties, including advertisers. This information provides us with valuable feedback we can use to improve our site and services. For example, we can inform advertisers how many people saw or clicked on an ad and additionally, how many people saw or clicked on ads in different portions of our service. Where available, we may offer information about aggregate viewer characteristics. We do not include personally identifiable information about you or your online usage patterns. 
-  * YellowPages.Com collects information about your site usage through the use of cookies and through our server log files, including IP Addresses. YellowPages.Com does not link IP Addresses to any personally identifiable information. 
-  * Cookies allow us to customize portions of our content according to your preferences. Cookies also allow us to target our advertisements and limit the number of times you see an advertisement on our site. However, cookies tell us nothing about you personally unless you specifically give us additional information. The YellowPages.Com web site is viewable even if you disable the cookie function however you may lose the ability to use some of our advanced features. 
-  * Some of the banner and display ads on our site are provided by third party ad servers. These ads may contain cookies. Information collected through cookies associated with third party ads are collected by the third party and we do not always have access to this information. We use reputable third parties to serve some or all of the advertisements that are placed within our site. If you would like to know more about the information gathering practices and 'opt-out' procedures of our third party ad servers, please take a look at their privacy policies at:  
-<http://www.doubleclick.net/us/corporate/privacy>  
-<http://www.realmedia.com/privacy.html>  
-<http://www.advertising.com/privacy_policy.htm>  
-<http://www.specificclick.com/privacy.htm>  
+It is of the utmost importance for us at YellowPages.com to ensure that this, and every subsequent visit you make to our website, is with complete peace of mind. You have every right to trust and to expect confidentiality, and it is our duty to respect this right. 
 
+Your privacy is our priority. As such, we believe you should have an unrestricted view into how we collect data about the people who visit our site - yourself included - and what we do with that data. 
 
+So, this is the part where we show our true colors. In black, white and Yellow, here is your Privacy Policy from YellowPages.com.
 
+Every time you visit YellowPages.com, you may be providing some, even all, of the following information: 
 
-Information Use
+If you harbor any concerns about YellowPages.com selling any personally identifiable information to any telemarketing, direct marketing or commercial mass email companies, agents or representatives, don't. Because we won't. Ever.
 
-  * YellowPages.Com does not sell any personally identifiable information to any telemarketing, direct marketing or commercial mass e-mail companies, agents or representatives. 
-  * YellowPages.Com will send personally identifiable information to other companies or people when: 
-    * YellowPages.Com has obtained your consent to share the information; 
-    * YellowPages.Com needs to share the information to provide a product or service you requested; 
-    * YellowPages.Com has a good-faith belief that such action is necessary to comply with a judicial proceeding, court order or other legal process; 
-    * YellowPages.Com finds that your actions on the YellowPages.Com web site violates the YellowPages.Com Terms of Use or any of YellowPages.Com’s usage guidelines for specific products or services. 
+Okay, except if you tell us it's okay to do so. Here are the only instances YellowPages.com could maybe, perhaps, possibly send personally identifiable information to other companies or people: 
 
+It works like this: the more we know about your visit to YellowPages.com, the more you benefit. 
 
+Which is why we collect information. Not about you personally, because that would be less than honest, but about what you did while visiting our website. 
 
-Choice/OPT-OUT
+"So how do I benefit from this?" you ask? 
 
-You may choose to disable the cookie function through your browser. The YellowPages.Com web site is viewable even if you disable the cookie function however you may lose the ability to use some of our advanced features.   
+Good question. It's what we do with this information that matters. For instance, it provides YellowPages.com with valuable feedback which we use to improve both our site and our services. One good example: we can inform YellowPages.com advertisers how many people saw or clicked on their ads - plus, how many people saw or clicked on ads in different sections of our website. 
 
+We also monitor information so that we can produce aggregate reports for internal use - and for use by third parties, including YellowPages.com advertisers. Aggregate reports are mostly statistical and deal with people behavior on the website, not individual behavior. 
 
-You may choose not to provide certain personally identifiable information, but then you might not be able to participate in our surveys or contests or purchase YellowPages.Com products.  
+From time to time we may release information about aggregate user characteristics. But - and this is a big but - we do not include any personally identifiable information about you or your individual online usage patterns. Rest assured. 
 
+YellowPages.com collects information about your site usage through cookies (the computer variety!) and through our server log files, including IP Addresses. Importantly, YellowPages.com does not link IP Addresses to any personally identifiable information. 
 
-If you would like to know more about the 'opt-out' procedures of our third party ad servers, please take a look at their privacy policies at:  
-<http://www.doubleclick.net/us/corporate/privacy>  
-<http://www.realmedia.com/privacy.html>  
-<http://www.advertising.com/privacy_policy.htm>  
-<http://www.specificclick.com/privacy.htm>  
+With cookies, we can customize areas of YellowPages.com content according to your preferences. What's more, Cookies allow us to target our advertisements and limit the number of times you see pop-unders on our site. Some people consider this a distinct bonus! 
 
+Cookies tell us nothing about you personally, unless of course you elect to give us additional information about yourself. 
 
-Security
+You can always disable the cookie function if you so choose. However, the YellowPages.com website will still be viewable, even though you may lose the ability to use some of its advanced features. (Which will be a great pity because we built our website for you to enjoy. ) 
 
-YellowPages.Com takes every precaution to protect your information. When you submit sensitive information to YellowPages.Com, your information is protected both online and offline. Credit card information is encrypted and is protected with SSL.
+Some of the banner and display ads on YellowPages.com are provided by third party ad servers. These ads may also contain cookies. Information collected through cookies associated with third party ads are collected by the third party and we do not always have access to this information. It is our policy, however, to only use reputable third parties to serve the advertisements that are placed within our site. 
 
-Changes To Privacy Policy
+We urge you to find out more about the information gathering practices and 'opt-out' procedures of our third party ad servers, by looking at their privacy policies at: 
 
-YellowPages.Com may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our web site.
+<http://www.doubleclick.net/us/corporate/privacy>   
+<http://www.realmedia.com/privacy.html>   
+<http://www.advertising.com/privacy_policy.htm>   
+<http://www.specificclick.com/privacy.htm>
 
-Questions or Suggestions
+If you should (hopefully!) order any product(s) from YellowPages.com, we will collect personally identifiable data from you in order to process the transaction and to provide you with the support and tools required to maintain and modify your directory listings. 
 
-If you have questions or suggestions regarding our privacy policy, please contact us at [p3p@yellowpages.com](mailto:p3p@yellowpages.com).
+YellowPages.com also collects personally identifiable data from you when you request corrections to, or deletions of, directory listings in order to process your request. 
+
+We also collect personally identifiable data in other situations where you knowingly provide us with such information. For example, when you complete online surveys, participate in a sweepstakes or contest, or communicate with our Member Services team. 
+
+Should you ever need to, you can change or correct information about yourself and your account by contacting us at: [support@YellowPages.com](mailto:support@yellowpages.com). 
+
+YellowPages.com understands how important it is to protect you and your information. We take security seriously, online and offline. All sensitive information, including credit card details, is encrypted using the very latest server technology. 
+
+Your browser should let you know when you are about to make a secure connection by an image of an unbroken key or a closed lock (as shown below) at the bottom corner of your browser. If the image is broken or open, your connection is not secure. 
+
+Changes to this Privacy Policy 
+
+From time to time YellowPages.com may amend this Policy. 
+
+Should we at any stage make substantial changes in the way we use your personal information, we will alert you by posting a prominent announcement on our website homepage. 
+
+We invite you to return as often as possible to check for any such announcement or just because you enjoy using YellowPages.com. Or for any reason you may have, we really don't mind!
+
+Against the grain we know, but YellowPages.com actually will reply to you personally with any questions, suggestions, criticisms or unrestrained joy you may experience with this Privacy Policy. Don't be shy! Contact us at: [p3p@yellowpages.com](mailto:p3p@yellowpages.com)
