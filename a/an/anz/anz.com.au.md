@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204093800id_/http%3A//www.anz.com.au/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anz.com.au privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603121508id_/http%3A//www.anz.com/australia/support/general/Privacystatement.asp) for the most accurate reproduction.*
 
 # ANZ Privacy and Security Statement
 
@@ -37,7 +37,7 @@ The ANZ Web Site offers a number of interactive facilities including tools such 
 
 If you use any of the tools such as the budget planner or home loan calculator we generally do not capture any personal information that you may enter when using these tools. An exception is where a tool such as a budget planner allows you to suspend your plan and retrieve the details at a later time. In that case the information is stored on our systems so that you may recover the information when you resume your plan. Any information stored in a suspended budget planner or other similar tool is not processed by us. 
 
-If you decide to complete an online application form, the information that you enter onto the online form will only be collected by us if you submit your online application. If at any stage you cancel your application or log out prior to submitting your applicaton, the information you have entered up to that point will be automatically deleted. If you suspend your application, for example because you wish to complete it at another time, the information that you have entered will be retained in our systems so that you may recover the information when you resume your application. Online applications that have been suspended are not processed by us. 
+If you decide to complete an online application form, the information that you enter onto the online form will only be collected by us if you submit your online application. If at any stage you cancel your application or log out prior to submitting your application, the information you have entered up to that point will be automatically deleted. If you suspend your application, for example because you wish to complete it at another time, the information that you have entered will be retained in our systems so that you may recover the information when you resume your application. Online applications that have been suspended are not processed by us. 
 
 The ANZ Web Site also contains links to the Web Sites of third party providers of goods and services ("Third Party Web Sites"). If you have accessed Third Party Web Sites through the ANZ Web Site and if those third parties collect information about you, ANZ may also collect or have access to that information as part of our arrangements with those third parties. 
 
@@ -87,16 +87,9 @@ ANZ takes reasonable steps to preserve the security of cookie and personal infor
 
 ANZ regularly reviews developments in security and encryption technologies. Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although ANZ strives to protect such information, ANZ cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems. 
 
-You acknowledge and accept that your use of the ANZ Web Site indicates your acceptance of the [**ANZ Web Site Terms of Use**](https://web.archive.org/web/20001204093800id_/http%3A//www.anz.com.au/australia/support/general/disclaimer.asp) and the Privacy and Security Statement. 
+You acknowledge and accept that your use of the ANZ Web Site indicates your acceptance of the [**ANZ Web Site Terms of Use**](https://web.archive.org/web/20010603121508id_/http%3A//www.anz.com/australia/support/general/disclaimer.asp) and the Privacy and Security Statement. 
 
 This is the current Privacy and Security Statement. It replaces any other Privacy and Security Statement for the ANZ Web Site published on the ANZ Web Site to date. ANZ may at any time vary the Privacy and Security Statement by publishing the varied Privacy and Security Statement on the ANZ Web Site. You accept that by doing this, ANZ has provided you with sufficient notice of the variation. 
 
 Date of Publication - 18 August 2000 - Version 4   
 Adobe and Acrobat Reader are trademarks of Adobe Systems Incorporated
-
-  
-
-
-© Copyright Australia and New Zealand Banking Group Limited ABN 11 005 357 522, 1996-2000   
-Web Site Terms of Use | About This Site | Privacy and Security Statement   
-Note: These are available as links on the previous page. 
