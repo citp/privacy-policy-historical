@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startsampling.com privacy policy that was archived on 2000-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001201201500id_/http%3A//startsampling.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startsampling.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331043242id_/http%3A//startsampling.com/privacy.html) for the most accurate reproduction.*
 
 # StartSampling: Privacy Policy
 
@@ -44,10 +44,10 @@ From a link at the bottom of our main page, we encourage representatives from pr
 Periodically, contests are run on our site. Sometimes contests are sponsored by our customers. To enter these contests you need only to enter your ID and password and your guess. At the time of entry, you may decide if you wish to have your first name and state posted on our site if you are the winner. Winners names are NEVER shared with our customers without their consent.
 
 **Our Use of Cookies**  
-Cookies are pieces of information that your browser stores on your computer's hard drive which, for some sites, identifies you when you enter. The ability to select samples on our site is not cookie-driven. Our site only utilizes cookies to keep track of your Frequent Tryer Miles and to tailor offers to you. To find out more about earning prizes by collecting Frequent Tryer Miles, [click here](https://web.archive.org/web/20001201201500id_/http%3A//startsampling.com/miles.iphtml). If you have set your browser to reject cookies, our site will not recognize you when you enter and you will need to manually type in your ID and password to receive Frequent Tryer Miles for visiting and reading about manufacturers.
+Cookies are pieces of information that your browser stores on your computer's hard drive which, for some sites, identifies you when you enter. The ability to select samples on our site is not cookie-driven. Our site only utilizes cookies to keep track of your Frequent Tryer Miles and to tailor offers to you. To find out more about earning prizes by collecting Frequent Tryer Miles, [click here](https://web.archive.org/web/20010331043242id_/http%3A//startsampling.com/miles.iphtml). If you have set your browser to reject cookies, our site will not recognize you when you enter and you will need to manually type in your ID and password to receive Frequent Tryer Miles for visiting and reading about manufacturers.
 
 **Your Consent**  
 By using our Web site you consent to the collection and use of the information you provide to us as described above. If we make any material changes in our privacy practices or in how we use your personally identifiable information, we will post a prominent notice on our site prior to implementation of the change.
 
 **Your Feedback is Always Welcome**  
-We welcome your comments and questions about our privacy policy - or anything else you might want to talk about. To contact us [click here](https://web.archive.org/web/20001201201500id_/http%3A//startsampling.com/contactus.html). 
+We welcome your comments and questions about our privacy policy - or anything else you might want to talk about. To contact us [click here](https://web.archive.org/web/20010331043242id_/http%3A//startsampling.com/contactus.html). 
