@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the animeonline.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202022001id_/http%3A//www.animeonline.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeonline.net privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611215121id_/http%3A//www.animeonline.net/privacy.php) for the most accurate reproduction.*
 
 # AnimeOnline.net - Privacy Statement
 
 | **Forum Statistics**  
 ---  
-Registered: **12,581**  
-Attachments: **584**  
-Threads: **18,616**  
-Views: **2,166,791**  
-Posts: **377,586**  
+Registered: **21,030**  
+Attachments: **966**  
+Threads: **23,653**  
+Views: **2,753,094**  
+Posts: **455,581**  
   
 **Gallery Statistics**  
 ---  
-Comments: **68,263**  
-Entries: **9,474**  
-Views: **4,379,749**  
-Downloads: **96,234**  
+Comments: **126,200**  
+Entries: **14,994**  
+Views: **6,752,544**  
+Downloads: **658,420**  
   
 | 
 
