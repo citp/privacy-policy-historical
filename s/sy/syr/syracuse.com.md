@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syracuse.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204173622id_/http%3A//www.syracuse.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syracuse.com privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325092345id_/http%3A//www.syracuse.com/privacypolicy) for the most accurate reproduction.*
 
 # Syracuse.com: Privacy Policy
 
@@ -62,7 +62,7 @@ Privacy Policy Coordinator
 5795 Widewaters Parkway  
 Syracuse, NY 13214 
 
-|  |  [](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/showcase/sliding.ssf/NQS/1138536600/SponsorRight/default/empty.gif/64316564656562333431623166353930)   
+|  |  [](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/showcase/sliding.ssf/NQS/5036363/SponsorRight/SYRACUSEONLINE/SY_SECTIONSP/adwithus100x45_71901.gif/64316564656562353432343364386130)   
   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
@@ -73,8 +73,8 @@ INSIDE
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
   
-[](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/privacypolicy/index.ssf/NQS/1202962314/Tile1/SYRACUSEONLINE/GENGRANDE01SY13/SKY_GeneseeRest3.jpg/64316564656562333431623166353930)   
+[](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/privacypolicy/index.ssf/NQS/418557201/Tile1/SYRACUSEONLINE/LABRADOR08SY06A/to_lab.jpg/64316564656562353432343364386130)   
   
-[](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/privacypolicy/index.ssf/NQS/1491073751/Popup/default/empty.gif/64316564656562333431623166353930)  
+[](http://ads1.udc.advance.net/RealMedia/ads/click_lx.ads/www.syracuse.com/privacypolicy/index.ssf/NQS/689543131/Popup/default/empty.gif/64316564656562353432343364386130)  
   
 
