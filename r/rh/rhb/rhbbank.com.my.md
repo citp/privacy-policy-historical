@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhbbank.com.my privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205534id_/http%3A//rhbbank.com.my/generalinfo/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhbbank.com.my privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207031728id_/http%3A//www.rhbbank.com.my/generalinfo/privacy.shtm) for the most accurate reproduction.*
 
 # RHB BANK > Privacy
 
@@ -66,13 +66,11 @@ RHB Bank honours its commitment to protect its customers' privacy.
 If you have any queries, concerns or complaints on customer information or services, please contact us via post or facsimile transmission to us at the following address:
 
 RHB Bank Berhad (6171-M)  
-Internet Banking Section  
-Direct Service Department  
-Level 6, Menara AA  
-Jalan Tun Razak  
+Technology Banking Division  
+Level 8, Tower 2, RHB Centre,  
 50400 Kuala Lumpur  
 Malaysia  
-Facsimile number : +60-3-2143 5552  
+Facsimile number : +60-3-9280 6194  
 email: [ibanksupport@rhbbank.com.my](mailto:ibanksupport@rhbbank.com.my) 
 
 ©2003, RHB Bank Berhad. Subject to Terms & Conditions of Use
