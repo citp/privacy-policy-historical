@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the safarinow.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204234941id_/http%3A//www.safarinow.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safarinow.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616144233id_/http%3A//safarinow.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
   
 |   Privacy Declaration  
