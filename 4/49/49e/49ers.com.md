@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202235412id_/http%3A//49ers.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 49ers.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610162559id_/http%3A//www.49ers.com/help/privacy.asp) for the most accurate reproduction.*
 
 # San Francisco 49ers
 
