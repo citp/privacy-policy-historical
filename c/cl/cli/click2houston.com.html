@@ -1,31 +1,38 @@
-<!--The following is the downloaded HTML source of the click2houston.com privacy policy that was archived on 2002-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020601115908id_/http%3A//www.click2houston.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the click2houston.com privacy policy that was archived on 2002-12-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021220192536id_/http%3A//www.click2houston.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Click2Houston.com - Privacy Policy</title>
-<meta name="lastmodified" content="Fri, 15 Mar 2002 14:35:39 GMT">
+<meta name="lastmodified" content="Wed, 20 Nov 2002 21:23:01 GMT">
 <meta name="created" content="Mon, 11 Dec 2000 19:08:24 GMT">
 <meta name="publisher" content="Internet Broadcasting Systems, Inc.">
 <meta name="author" content="">
 
  <link href="/stylesheets/site.css" rel="STYLESHEET" type="text/css">
- <script type="text/javascript" language="JavaScript1.1" src="/scripts/base.js"></script>
+<script type="text/javascript" language="JavaScript1.1" src="http://images.ibsys.com/sh/scripts/base.js"></script>
+ <script type="text/javascript" language="JavaScript1.1" src="http://images.ibsys.com/hou-structure/scripts/base.js"></script>
  <!-- used in search box -->		
 <script language="javascript">
-				var IBS_action = "http://search.click2houston.com/hou/query.html";
-				var INFSPC_action = "http://y.ibsys.com/event.ng/Type=click&FlightID=7187&AdID=21129&TargetID=2900&Targets=2900&Values=2100&Redirect=http:%2F%2Fwww.infospace.com/ibsysp/dog/redir.htm";
+			var IBS_action = "http://search.click2houston.com/hou/query.html";
+	var INFSPC_action = "http://y.ibsys.com/event.ng/Type=click&FlightID=7187&AdID=21129&TargetID=2900&Targets=2900&Values=2100&Redirect=http://www.infospace.com/ibsys.hou//redirs_all.htm";
+	var YP_action = "http://y.ibsys.com/event.ng/Type=click&FlightID=7187&AdID=21129&TargetID=2900&Targets=2900&Values=2364&Redirect=http://yp.bellsouth.com/?from=IBS";
 
-				function doSubmit(form, action) {
-					/* Change the forms action attribute */
-					form.action = action;
-					
-					/* monkey with the query values if INFOSPACE search */
-					if(action == INFSPC_action) {
-						form.elements.qkw.value = form.elements.qt.value;
-					}
-					
-					form.submit();
-				}
+	function doSubmit(form, action) {
+	/* Change the forms action attribute */
+	form.action = action;
+	
+	/* monkey with the query values if INFOSPACE search */
+	if(action == INFSPC_action) {
+		form.elements.qkw.value = form.elements.qt.value;
+	}
+	
+	/* monkey with the query values if YP search */
+	if(action == YP_action) {
+		form.elements.heading.value = form.elements.qt.value;
+	}					
+	 
+	form.submit();
+}
 </script>
 <!-- used in search box -->
  
@@ -37,11 +44,11 @@
 	atts = '&version=2';
 	if(typeof appendScrooge != 'undefined') atts += appendScrooge;
 	rnd = rnd.getTime();
-	document.write('<img src="http://scrooge.ibsys.com/s/hou.gif?rnd=' + rnd + atts + '" width="1" height="1" alt="" border="0"><br>');
+	document.write('<img src="http://scrooge.click2houston.com/s/hou.gif?rnd=' + rnd + atts + '" width="1" height="1" alt="" border="0"><br>');
 	// -->
-</script><img src="http://scrooge.ibsys.com/s/hou.gif?rnd=1580467784794&amp;version=2" width="1" height="1" alt="" border="0"><br>
+</script><img src="http://scrooge.click2houston.com/s/hou.gif?rnd=1580467785398&amp;version=2" width="1" height="1" alt="" border="0"><br>
 <noscript>
-	<img src="http://scrooge.ibsys.com/s/hou.gif" width="1" height="1" border="0"><br>
+	<img src="http://scrooge.click2houston.com/s/hou.gif" width="1" height="1" border="0"><br>
 </noscript>
 
 <!-- \/ THIS TABLE RENDERS THE HEADER AND THE NAV \/ --->
@@ -60,8 +67,21 @@
 			<td align="left"><input type="text" name="qt" size="10" style="font-size: 12px;"></td>
 			<td align="left" valign="middle" nowrap="">&nbsp;&nbsp;<input type="image" src="http://a596.g.akamai.net/n/596/95/decc2a2ace7409/www.click2houston.com/images/structures/misc/search-sitekeyword-button.gif" alt="Search IBS" border="0"><a href="#" onclick="doSubmit(document.forms.IBSSearchForm, INFSPC_action);"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/search-web-button.gif" hspace="2" alt="Search the Web" border="0"></a></td>
 			<td align="left" valign="middle" width="100%">
-				<input type="hidden" name="ran" value="14482"><input type="hidden" name="qcat" value="web"><input type="hidden" name="qkw" value=""><input type="hidden" name="col" value="western"><input type="hidden" name="qc" value="western"><input type="hidden" name="ht" value="0"><input type="hidden" name="lk" value="1"><input type="hidden" name="st" value="1"><input type="hidden" name="pw" value="100%"><input type="hidden" name="ws" value="0"><input type="hidden" name="nh" value="10"><input type="hidden" name="la" value=""><input type="hidden" name="rf" value="0">
-				<input type="hidden" name="qp" value="url:www.click2houston.com/">
+					<input type="hidden" name="ran" value="14482">
+										<input type="hidden" name="qcat" value="web">
+										<input type="hidden" name="qkw" value="">
+										<input type="hidden" name="col" value="western">
+										<input type="hidden" name="qc" value="western">
+										<input type="hidden" name="ht" value="0">
+										<input type="hidden" name="lk" value="1">
+										<input type="hidden" name="st" value="1">
+										<input type="hidden" name="pw" value="100%">
+										<input type="hidden" name="ws" value="0">
+										<input type="hidden" name="nh" value="10">
+										<input type="hidden" name="la" value="">
+										<input type="hidden" name="rf" value="0">
+										<input type="hidden" name="qp" value="url:www.click2houston.com/">
+										<input type="hidden" name="pgtarg" value="wbsdogpile">
 				
 			</td>
 		</tr>
@@ -78,7 +98,7 @@
   <table width="100%" border="0" cellspacing="0" cellpadding="0">
    <tbody><tr>
     <td bgcolor="#0000cc" valign="top" align="left" width="320"><a href="/index.html"><img src="http://images.ibsys.com/hou-structure/images/structures/headers/site_header_logo.jpg" width="320" height="55" vspace="0" alt="Click 2 Houston" border="0"></a></td>
-    <td width="100%" bgcolor="#0000cc" background="/images/structures/misc/header_top_bkg.gif"><img src="http://images.ibsys.com/sh/images/structures/misc/spacer.gif" width="1" height="1" vspace="27" alt="" border="0"></td>
+    <td width="100%" bgcolor="#0000cc" background="http://images.ibsys.com/hou-structure/images/structures/misc/header_top_bkg.gif"><img src="http://images.ibsys.com/sh/images/structures/misc/spacer.gif" width="1" height="1" vspace="27" alt="" border="0"></td>
     <td bgcolor="#0000cc" valign="top" align="right" width="230"><img src="http://images.ibsys.com/hou-structure/images/structures/headers/news_header.jpg" width="230" height="55" vspace="0" alt="news" border="0"></td>
    </tr>
 	</tbody></table>
@@ -97,26 +117,33 @@
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
 	<tbody><tr>
-		<td align="right" bgcolor="#CC0000" width="3%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/site_navigation_leftfade_red.gif" alt="" border="0" width="5" height="24"></td>
-		<td bgcolor="#CC0000" align="center" width="10%"><a href="/thehelpyouneed/" class="helpyouneed">HELP&nbsp;YOU&nbsp;NEED</a></td>
+		<td align="right" bgcolor="#CC0000"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/site_navigation_leftfade_red.gif" alt="" border="0" width="5" height="24"></td>
+		<td bgcolor="#CC0000" align="center" width="8%"><a href="/thehelpyouneed/" class="helpyouneed">HELP&nbsp;YOU&nbsp;NEED</a></td>
 		<td bgcolor="#CC0000" align="center" width="2%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
-		<td bgcolor="#CC0000" align="center" width="6%"><a href="/legalcenter/" class="magicbar">LEGAL</a></td>
+		<td bgcolor="#CC0000" align="center" width="6%"><a href="http://ia.click2houston.com/legalcenter/" class="magicbar">LEGAL</a></td>
 		<td bgcolor="#CC0000" align="center" width="2%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
-		<td bgcolor="#CC0000" align="center" width="6%"><a href="/automotive/" class="magicbar">AUTO</a></td><td bgcolor="#CC0000" align="center" width="2%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
+		<td bgcolor="#CC0000" align="center" width="5%"><a href="/automotive/" class="magicbar">AUTO</a></td><td bgcolor="#CC0000" align="center" width="2%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
 		<td bgcolor="#CC0000" align="center" width="6%"><a href="http://ia.click2houston.com/houseandhome/" class="magicbar">2&nbsp;AT&nbsp;HOME</a></td>
+		<td bgcolor="#CC0000" align="center" width="3%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
+		
+		<td bgcolor="#CC0000" align="center" width="4%"><nobr><a href="http://ia.click2houston.com/family/" class="magicbar">FAMILY</a></nobr></td>
+		<td bgcolor="#CC0000" align="center" width="3%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
+<td bgcolor="#CC0000" align="center" width="6%"><nobr><a href="http://ia.click2houston.com/holidays/" class="magicbar">HOLIDAYS</a></nobr></td>
+		<td bgcolor="#CC0000" align="center" width="3%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
+		<td bgcolor="#CC0000" align="center" width="4%"><a href="http://ia.click2houston.com/food" class="magicbar">FOOD</a></td>
 		<td bgcolor="#CC0000" align="center" width="3%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
 		<td bgcolor="#CC0000" align="center" width="6%"><nobr><a href="/employment/" class="magicbar">CAREER</a></nobr></td>
 		<td bgcolor="#CC0000" align="center" width="3%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
 		<td bgcolor="#CC0000" align="center" width="6%"><a href="/travelgetaways/" class="magicbar">TRAVEL</a></td>
 		<td bgcolor="#CC0000" align="center" width="3%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
-		<td bgcolor="#CC0000" align="center" width="10%"><a href="http://y.ibsys.com/event.ng/Type=click&amp;FlightID=7187&amp;AdID=21129&amp;TargetID=2900&amp;Targets=2900&amp;Values=1973&amp;Redirect=http:%2F%2Fwww.smartpages.com/" class="magicbar">YELLOW&nbsp;PAGES</a></td>
+		<td bgcolor="#CC0000" align="center" width="5%"><a href="http://y.ibsys.com/event.ng/Type=click&amp;FlightID=7187&amp;AdID=21129&amp;TargetID=2900&amp;Targets=2900&amp;Values=1973&amp;Redirect=http://www.smartpages.com/" class="magicbar">YELLOW&nbsp;PAGES</a></td>
 		<td bgcolor="#CC0000" align="center" width="3%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
-		<td bgcolor="#CC0000" align="center" width="9%"><a href="/education/" class="magicbar">EDUCATION</a></td>
-		<td bgcolor="#CC0000" align="center" width="3%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
-		<td bgcolor="#CC0000" align="center" width="6%"><a href="/dating/" class="magicbar">DATING</a></td>
+		
+		<td bgcolor="#CC0000" align="center" width="6%"><a href="http://ia.click2houston.com/dating/" class="magicbar">DATING</a></td>
 		<td bgcolor="#CC0000" align="center" width="2%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/red-line.gif" height="24" alt="" border="0"></td>
 		<td bgcolor="#CC0000" align="center" width="7%"><a href="/shopping/" class="magicbar">SHOPPING</a></td>
 		<td bgcolor="#CC0000" width="5%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/site_navigation_rightfade_red.gif" alt="" border="0" width="5" height="24"></td>
+		
 	</tr>
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -129,7 +156,7 @@
 </tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="0" align="center">
 	<tbody><tr>
-		<td align="right" bgcolor="#0033CC" width="5%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/site_nav_leftfade_blue.gif" alt="" border="0" width="5" height="24"></td>
+		<td align="right" bgcolor="#0033CC"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/site_nav_leftfade_blue.gif" alt="" border="0" width="5" height="24"></td>
 		<td bgcolor="#0033CC" align="center" width="6%"><a href="/news/" class="mainnav">NEWS</a></td>
 		<td bgcolor="#0033CC" align="center" width="1%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/blueline.gif" width="2" height="24" alt="" border="0"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/blacklline.gif" width="1" height="24" alt="" border="0"></td>
 		<td bgcolor="#0033CC" align="center" width="10%"><a href="/weather/" class="mainnav">WEATHER</a></td>
@@ -147,10 +174,13 @@
 		<td bgcolor="#0033CC" align="center" width="10%"><a href="/entertainment/" class="mainnav">ENTERTAINMENT</a></td>
 		<td bgcolor="#0033CC" align="center" width="1%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/blueline.gif" width="2" height="24" alt="" border="0"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/blacklline.gif" width="1" height="24" alt="" border="0"></td>
 		<td bgcolor="#0033CC" align="center" width="10%"><a href="/health/" class="mainnav">HEALTHBEAT</a></td>
+		<td bgcolor="#0033CC" align="center" width="1%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/blueline.gif" width="2" height="24" alt="" border="0"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/blacklline.gif" width="1" height="24" alt="" border="0"></td>
+		<td bgcolor="#0033CC" align="center" width="10%"><a href="/education/" class="mainnav">EDUCATION</a></td>
 		<td bgcolor="#0033CC" width="10%"><img src="http://images.ibsys.com/hou-structure/images/structures/misc/site_nav_rightfade_blue.gif" alt="" border="0" width="10" height="24"></td>
+		
 	</tr>
 	<tr>
-		<td bgcolor="#000000" height="2" colspan="19"><img src="http://images.ibsys.com/sh/images/structures/misc/spacer.gif" width="1" height="2" alt="" border="0"></td>
+		<td bgcolor="#000000" height="2" colspan="21"><img src="http://images.ibsys.com/sh/images/structures/misc/spacer.gif" width="1" height="2" alt="" border="0"></td>
 	</tr>
 </tbody></table></td>
  </tr>
@@ -180,7 +210,7 @@
 <div class="Indent5">
 	<div class="Sep8"><a href="/politics/" class="LeftNav">Decision 2002</a></div>
 	<div class="Sep8"><a href="/news/akinsarmy/" class="LeftNav">Akin's Army</a></div>
-	<div class="Sep8"><a href="http://ia.click2houston.com/News/detail.html?fp=LotteryForm&amp;state=TX" class="LeftNav">Lottery</a></div>
+	<div class="Sep8"><a href="http://www.txlottery.org/" target="_new" class="LeftNav">Lottery</a></div>
 	<div class="Sep8"><a href="/news/theinvestigators/" class="LeftNav">The Investigators</a></div>
 	<div class="Sep8"><a href="/news/weekends/" class="LeftNav">Weekends</a></div>
 	<div class="Sep8"><a href="/news/firstbirthdays/" class="LeftNav">First Birthdays</a></div>
@@ -201,14 +231,14 @@
 		<div class="Sep3"><a href="http://www.click2houston.com/weather/citycams/">Web Cams</a></div>
 		<div class="Sep3"><a href="http://tv.tribune.com/whatson/home/0,1002,kprc,00.html">TV Listings</a></div>
 		<div class="Sep3"><a href="http://www.click2houston.com/discussions/">Discussion</a></div>
-		<div class="Sep3"><a href="http://ia.click2houston.com/news/detail.html?fp=LotteryForm&amp;state=TX">Lottery</a></div>
+		<div class="Sep3"><a href="http://www.txlottery.org/" target="_new">Lottery</a></div>
 		<div class="Sep3"><a href="http://www.click2houston.com/entertainment/contests/index.html">Click2Win</a></div>
    </div>
 	<br>
 	<img src="http://images.ibsys.com/hou-structure/images/structures/tabs/tab_inside_kprc.gif" border="0" width="120" height="18" alt="Inside KPRC">
 	<div class="Services" align="left">
 		<div class="Sep3"><a href="http://www.click2houston.com/news/akinsarmy/">Akin's Army</a></div>
-		<div class="Sep3"><a href="http://www.click2houston.com/thebuzz/">TheBuzz</a></div>
+		<div class="Sep3"><a href="http://www.click2houston.com/thebuzz/">What's The Buzz</a></div>
 		<div class="Sep3"><a href="http://www.click2houston.com/news/theinvestigators/">The Investigators</a></div>
 		<div class="Sep3"><a href="/hou/station/stories/kprc-20000424-150932.html">You2TV</a></div>
 		<div class="Sep3"><a href="http://www.click2houston.com/weather/traffic/">Traffic</a></div>
@@ -222,8 +252,13 @@
 	<img src="http://images.ibsys.com/hou-structure/images/structures/tabs/tab_site_services.gif" border="0" width="120" height="18" alt="Site Services"><br>
 
 	<div class="Services" align="left">
-		<div class="Sep3"><a href="http://www.apartmentassistant.net/city_info/houston-click2houston.html">Free Apartment Locators</a></div>
-		<div class="Sep3"><a href="http://www.click2houston.com/education/">Education</a></div>
+		<div class="Sep3"><a href="http://y.ibsys.com/event.ng/Type=click&amp;FlightID=7187&amp;AdID=21129&amp;TargetID=2900&amp;Targets=2900&amp;Values=2559&amp;Redirect=http://www.apartmentassistant.net/city_info/\houston-click2houstonoct.html">Free Apartment Locators</a></div>
+		<div class="Sep3"><a href="http://forums.ibsys.com/viewtopics.cfm?sitekey=hou&amp;Forum=524">Community Events</a></div>
+		<div class="Sep3"><a href="http://www.resonantconsulting.com/travel/agent.php?travel_id=ESC0000004">Click 2 Travel</a></div>
+		<div class="Sep3"><a href="http://y.ibsys.com/event.ng/Type=click&amp;FlightID=7187&amp;AdID=21129&amp;TargetID=2900&amp;Targets=2900&amp;Values=3682&amp;Redirect=http://ia.click2houston.com/sponsors/1701519/detail.html">Financial Plan</a></div>		
+		<div class="Sep3"><a href="http://y.ibsys.com/event.ng/Type=click&amp;FlightID=7187&amp;AdID=21129&amp;TargetID=2900&amp;Targets=2900&amp;Values=3102&amp;Redirect=http://www.freehoustonhomeinfo.com">Free Houston Home Info</a></div>
+		<div class="Sep3"><a href="http://y.ibsys.com/event.ng/Type=click&amp;FlightID=7187&amp;AdID=21129&amp;TargetID=2900&amp;Targets=2900&amp;Values=3103&amp;Redirect=http://www.freehoustonhomeinfo.com/homeeval.asp">Free over the net home evaluation</a></div>
+		<div class="Sep3"><a href="http://y.ibsys.com/event.ng/Type=click&amp;FlightID=7187&amp;AdID=21129&amp;TargetID=2900&amp;Targets=2900&amp;Values=3372&amp;Redirect=https://www.sleh.com/sleh/SectionSecured/index.cfm?PageName=PRForm&amp;PageMD=PHYSICIAN%20REFERRALS">Find a Doctor</a></div>
 	</div>
 </font>
     </td>
@@ -258,7 +293,6 @@
 <h3><i></i></h3>
 
 <p></p><p> Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: <a parseurl="true" href="http://www.click2houston.com">www.Click2Houston.com</a>. This privacy policy applies only to information collected by or through this website.  It does not apply to information obtained by other means.   </p> <p>
-<a parseurl="true" href="https://www.truste.org/validate/7286"><img src="http://images.ibsys.com/2001/1015/1016455.gif" align="right" height="73" width="91" border="0" alt="TRUSTe: Click to Verify"></a> </p><p>
 </p><p> <b>Information Collection and Use</b><br> This website makes use of browser "cookies". Cookies are files written to a user's hard disk and read by the server programs to inform a website if the user has previously visited that site. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. We often use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our website, cookies received with ads are not being collected by us and we do not have access to this information. Cookies can be rejected by you and if so none of the functions listed above will be performed. </p> <p>
 </p><p> We collect information from website visitors who must register for certain services on-line, from users who agree to participate in on-line surveys, from users who wish to make certain on-line information requests from us and from users who wish to participate in on-line contests and promotions sponsored by us. Because participation in these activities is completely voluntary, the user has a choice whether or not to disclose this information.  The type of information so requested or collected by us includes user contact information (like their name and email address) and user demographic information (like gender or age). Contact information will be used to notify contest winners and award prizes and, in some instances may be shared with the contest or survey sponsor.  Anonymous survey information will be used for purposes of reporting survey results and monitoring or improving the use and satisfaction of this site.  Users' personally identifiable information is not shared with third parties unless we give prior notice and choice.  Though we may use an intermediary to conduct these surveys or contests, they may not use users' personally identifiable information for any secondary purposes.  The visitor's contact information will be used to contact the visitor when the visitor has expressed interest in being contacted (visitors can opt-out of receiving future mailings by complying with the choice/output requirements noted below). The user demographic information so collected will be used by us to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying content according to their preferences. If a user elects to use our referral service for informing a friend about our site or to send an e-card through our site, we ask them for the friend's name and email address.  IBS will automatically send the friend a one-time email inviting them to visit the site or sending an e-card, as the case may be.  IBS stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.  The friend may contact <a href="mailto:security@ibsys.com">security@ibsys.com</a> to request the removal of this information from our database.  We use your IP address to help diagnose problems with our server, and to administer our website. We track and record IP addresses that access our site for reporting and profiling purposes only. We also gather anonymous browsing habits of our visitors to better identify content preferences. User demographic information is shared with advertisers on an aggregate basis in a manner which will not personally identify the individual submitting such information. We may also share personally identifiable user information with governmental authorities when legally required to do so, and to cooperate with such authorities investigating claims of illegal activity such as (but not limited to) illegal transfer of copyrighted material, or user website postings or email messages that contain threats of violence. We may also disclose personally identifiable information in other cases where we have reason to believe that disclosure is necessary to enforce compliance with our Terms of Use.  Other than these specific exceptions noted, we do not sell, rent or provide access to any data collected about or from our users. </p> <p>
 </p><p> <b>Linking and Framing</b><br> This site contains links to other sites.  This site is not responsible for the privacy practices or the content of such websites.  Occasionally when linking to another site, you may still see our site's logo or frame.  This is to provide you with a seamless experience when visiting our website.  In these cases you are no longer on Click2Houston.com and are now on a different website whose information collection practices may differ from ours.  The privacy policy of the site you are on will govern how information collected from you is used.   </p> <p>
@@ -271,7 +305,7 @@
 </p><p> <b>Contacting the Website</b><br> If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact: </p> <p>
 Security Administrator<br> Internet Broadcasting Systems<br> 1333 Northland Drive<br> Mendota Heights, MN 55120<br> <a href="mailto:security@ibsys.com">security@ibsys.com</a><br> </p><p>
 </p><p> <b>Changes to This Policy</b><br> We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected.  If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days.    </p> <p>
-</p><p> <b>TRUSTe Confirmation</b><br> This confirms that Internet Broadcasting Systems, Inc. and Click2Houston.com are licensees of the TRUSTe Privacy Program.  TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.   </p> <p> If you have questions or concerns regarding this statement, you should first contact <a href="mailto:security@ibsys.com">security@ibsys.com</a>.   If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a href="http://www.truste.org/users/users_watchdog.html">http://www.truste.org/users/users_watchdog.html</a>.  TRUSTe will then serve as a liaison with the website to resolve your concerns.  </p> Last Revised 03/11/02 <p>
+Last Revised 11/02 </p><p>
 
  
 </p></div>
@@ -297,46 +331,45 @@ Security Administrator<br> Internet Broadcasting Systems<br> 1333 Northland Driv
 								</tr> 
 								<tr> 
 									<td colspan="2" class="stockboxT1" width="120" align="center">
-										<!---<IFRAME WIDTH="120" HEIGHT="45" MARGINWIDTH="0" MARGINHEIGHT="0" HSPACE="0" VSPACE="0" FRAMEBORDER="0" SCROLLING="no" BORDERCOLOR="#000000" SRC="http://y.ibsys.com/html.ng/section=site&site=hou&station=hou&subsection=default&style=120x45&position=spboxtop&state=mi&affiliate=nbc&owner=post&region=south">
-	<SCRIPT LANGUAGE="JavaScript1.2" SRC="http://y.ibsys.com/js.ng/section=site&Params.richmedia=yes&site=hou&station=hou&subsection=default&style=120x45&position=spboxtop&state=mi&affiliate=nbc&owner=post&region=south"></SCRIPT>
-	<NOSCRIPT>
-		<A HREF="http://y.ibsys.com/click.ng/section=site&Params.richmedia=yes&site=hou&station=hou&subsection=default&style=120x45&position=spboxtop&state=mi&affiliate=nbc&owner=post&region=south">
-		<IMG SRC="http://y.ibsys.com/image.ng/section=site&Params.richmedia=yes&site=hou&station=hou&subsection=default&style=120x45&position=spboxtop&state=mi&affiliate=nbc&owner=post&region=south" HEIGHT="90" WIDTH="45" BORDER="0"></A>
-	</NOSCRIPT>
-</IFRAME>---> 
+										<!-- Ad Variables: spbox-default-spboxtop | station=hou width=120 height=45 style=120x45 -->
+<script language="JavaScript1.2" src="http://y.click2houston.com/js.ng/section=spbox&amp;richmedia=yes&amp;station=hou&amp;subsection=default&amp;style=120x45&amp;position=spboxtop&amp;state=tx&amp;affiliate=nbc&amp;owner=post"></script>
+<noscript>
+<a href="http://y.click2houston.com/click.ng/section=spbox&#38;richmedia=yes&#38;station=hou&#38;subsection=default&#38;style=120x45&#38;position=spboxtop&#38;state=tx&#38;affiliate=nbc&#38;owner=post"><img src="http://y.click2houston.com/image.ng/section=spbox&#38;richmedia=yes&#38;station=hou&#38;subsection=default&#38;style=120x45&#38;position=spboxtop&#38;state=tx&#38;affiliate=nbc&#38;owner=post" height="45" width="120" border="0" /></a>
+</noscript>
+ 
 													<table width="118" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff"> 
 				<tbody><tr> 
-					<td colspan="2" align="right"><span class="stockboxFTime"><nobr>Updated 4:15 EDT</nobr></span></td> 
+					<td colspan="2" align="right"><span class="stockboxFTime"><nobr>Updated 2:05 EDT</nobr></span></td> 
 				</tr> 
 				<tr> 
 					<td colspan="2" height="1" bgcolor="#666666"><img src="http://images.ibsys.com/sh/images/structures/spacer.gif" height="1" width="1" alt="" border="0"></td> 
 				</tr> 
 				<tr> 
 					<td><span class="stockboxDataF">&nbsp;Dow</span></td> 
-					<td align="right"><span class="stockboxDataF">9925.25&nbsp;</span></td> 
+					<td align="right"><span class="stockboxDataF">8486.85&nbsp;</span></td> 
 				</tr> 
 				<tr> 
-					<td colspan="2" align="right"><img src="http://images.ibsys.com/sh/images/structures/spacer.gif" alt="" border="0" width="15" height="7"><span class="stockboxDataF">0&nbsp;</span></td> 
+					<td colspan="2" align="right"><img src="http://images.ibsys.com/sh/images/stockbox/stockbox_greenarrow.gif" alt="" border="0" width="15" height="7"><span class="stockboxDataF">122.05&nbsp;</span></td> 
 				</tr> 
 				<tr> 
 					<td colspan="2" height="1" bgcolor="#666666"><img src="http://images.ibsys.com/sh/images/structures/spacer.gif" height="1" width="1" alt="" border="0"></td> 
 				</tr> 
 				<tr> 
 					<td><span class="stockboxDataF">&nbsp;Nasdaq</span></td> 
-					<td align="right"><span class="stockboxDataF">1615.73&nbsp;</span></td> 
+					<td align="right"><span class="stockboxDataF">1364.75&nbsp;</span></td> 
 				</tr> 
 				<tr> 
-					<td colspan="2" align="right"><img src="http://images.ibsys.com/sh/images/structures/spacer.gif" alt="" border="0" width="15" height="7"><span class="stockboxDataF">0&nbsp;</span></td> 
+					<td colspan="2" align="right"><img src="http://images.ibsys.com/sh/images/stockbox/stockbox_greenarrow.gif" alt="" border="0" width="15" height="7"><span class="stockboxDataF">10.65&nbsp;</span></td> 
 				</tr> 
 				<tr> 
 					<td colspan="2" height="1" bgcolor="#666666"><img src="http://images.ibsys.com/sh/images/structures/spacer.gif" height="1" width="1" alt="" border="0"></td> 
 				</tr> 
 				<tr> 
 					<td><span class="stockboxDataF">&nbsp;NYSE</span></td> 
-					<td align="right"><span class="stockboxDataF">570.78&nbsp;</span></td> 
+					<td align="right"><span class="stockboxDataF">478.33&nbsp;</span></td> 
 				</tr> 
 				<tr> 
-					<td colspan="2" align="right"><img src="http://images.ibsys.com/sh/images/structures/spacer.gif" alt="" border="0" width="15" height="7"><span class="stockboxDataF">0&nbsp;</span></td> 
+					<td colspan="2" align="right"><img src="http://images.ibsys.com/sh/images/stockbox/stockbox_greenarrow.gif" alt="" border="0" width="15" height="7"><span class="stockboxDataF">5.33&nbsp;</span></td> 
 				</tr> 
 				<tr> 
 					<td colspan="2" height="1" bgcolor="#666666"><img src="http://images.ibsys.com/sh/images/structures/spacer.gif" height="1" width="1" alt="" border="0"></td> 
@@ -353,12 +386,11 @@ Security Administrator<br> Internet Broadcasting Systems<br> 1333 Northland Driv
 				</tr> 
 			</tbody></table> 
 
-										<iframe width="120" height="45" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" bordercolor="#000000" src="http://y.ibsys.com/html.ng/section=spbox&amp;station=alb&amp;subsection=default&amp;style=120x45&amp;position=spboxbottom&amp;state=nm&amp;affiliate=abc&amp;owner=hearst&amp;region=west">
-  <script language="JavaScript1.2" src="http://y.ibsys.com/js.ng/section=spbox&#38;Params.richmedia=yes&#38;station=alb&#38;subsection=default&#38;style=120x45&#38;position=spboxbottom&#38;state=nm&#38;affiliate=abc&#38;owner=hearst&#38;region=west"></script>
-	  <noscript>
-	    <a href="http://y.ibsys.com/click.ng/section=spbox&#38;Params.richmedia=yes&#38;station=alb&#38;subsection=default&#38;style=120x45&#38;position=spboxbottom&#38;state=nm&#38;affiliate=abc&#38;owner=hearst&#38;region=west"><img src="http://y.ibsys.com/image.ng/section=spbox&#38;Params.richmedia=yes&#38;station=alb&#38;subsection=default&#38;style=120x45&#38;position=spboxbottom&#38;state=nm&#38;affiliate=abc&#38;owner=hearst&#38;region=west" height="45" width="120" border="0" /></a>
-	  </noscript>
-</iframe></td> 
+										<!-- Ad Variables: spbox-default-spboxbottom | station=hou width=120 height=45 style=120x45 -->
+<script language="JavaScript1.2" src="http://y.click2houston.com/js.ng/section=spbox&amp;Params.richmedia=yes&amp;station=hou&amp;subsection=default&amp;style=120x45&amp;position=spboxbottom&amp;state=tx&amp;affiliate=nbc&amp;owner=post"></script>
+  <noscript>
+    <a href="http://y.click2houston.com/click.ng/section=spbox&#38;Params.richmedia=yes&#38;station=hou&#38;subsection=default&#38;style=120x45&#38;position=spboxbottom&#38;state=tx&#38;affiliate=nbc&#38;owner=post"><img src="http://y.click2houston.com/image.ng/section=spbox&#38;Params.richmedia=yes&#38;station=hou&#38;subsection=default&#38;style=120x45&#38;position=spboxbottom&#38;state=tx&#38;affiliate=nbc&#38;owner=post" height="45" width="120" border="0" /></a>
+  </noscript></td> 
 								</tr> 
 								<tr> 
 									<td colspan="2" height="1" bgcolor="#ffffff"><img src="http://images.ibsys.com/sh/images/structures/misc/spacer.gif" height="1" width="1" alt="" border="0"></td> 
@@ -389,9 +421,8 @@ Security Administrator<br> Internet Broadcasting Systems<br> 1333 Northland Driv
   <br>
   <img src="http://www.heres2houston.com/images/structures/tabs/site_extras_latestheadlines.gif" width="120" height="18" alt="Latest Headlines" border="0"><br>
   <div class="COLHeadline"> 
-<div class="Link"><a href="/hou/news/stories/news-149022120020531-120529.html" class="MSHeadline">Dog Attacks 9-Year-Old Girl</a></div>
-<div class="Link"><img src="http://images.ibsys.com/2001/0126/435612.gif" width="22" height="12" border="0" alt="Video"><a href="/hou/news/stories/news-148956720020531-090547.html" class="MSHeadline">Apartment Complex Wall Collapses</a></div>
-<div class="Link"><a href="/hou/money/stories/money-149013720020531-110523.html" class="MSHeadline">PUC Investigating Enron Spinoff New Power</a></div>
+<div class="Link"><img src="http://images.ibsys.com/2001/0126/435612.gif" width="22" height="12" border="0" alt="Video"><a href="/hou/news/theinvestigators/stories/theinvestigators-184807120021219-171253.html" class="MSHeadline">Soldier: Store Clerk Disrespected Me</a></div>
+<div class="Link"><img src="http://images.ibsys.com/2001/0126/435612.gif" width="22" height="12" border="0" alt="Video"><a href="/hou/news/stories/news-184704020021219-111209.html" class="MSHeadline">Teacher Apologizes For 'Racially Insensitive' Lesson</a></div>
  
 
 </div></td>
@@ -429,8 +460,7 @@ Security Administrator<br> Internet Broadcasting Systems<br> 1333 Northland Driv
 	<div align="center"><b><a href="/ibs/advertise.html">Looking to Advertise?</a></b></div><br><br>
     <a href="/sh/miscellaneous/stories/termsofuse-20001211-130824.html">privacy policy</a>,&nbsp;
     <a href="/sh/miscellaneous/stories/termsofuse-20001208-110657.html">terms of use</a><br>
-	Entire Site © 2002, <a href="http://www.ibsys.com/">Internet Broadcasting Systems, Inc.</a><br><br>
-	<a href="/sh/miscellaneous/stories/termsofuse-20001211-130824.html"><img src="http://images.ibsys.com/hou-structure/sh/images/structures/misc/site_content_truste.gif" width="116" height="31" border="0" alt="Reviewed by TRUST-E: site privacy statement"></a>
+	Entire Site © 2002, <a href="http://www.ibsys.com/">Internet Broadcasting Systems, Inc.</a><br>
 </div><br>
 	
 
