@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2001-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010617221755id_/http%3A//www.horizonhobby.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horizonhobby.com privacy policy that was archived on 2001-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010806030642id_/http%3A//www.horizonhobby.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement - Horizon Hobby
 
