@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcaster.com privacy policy that was archived on 2002-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020212024602id_/http%3A//broadcaster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcaster.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618121509id_/http%3A//www.broadcaster.com/privacy.html) for the most accurate reproduction.*
 
 # Free Movies, Videos, Downloads, Animation, TV, and More
 
@@ -27,14 +27,14 @@ During the registration process, and at certain times during any member user ses
 To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, NetBroadcaster.com has put in place physical, electronic, and managerial procedures to safeguard and secure the information it collects online. You should consider any communication that you transmit to NetBroadcaster.com (such as data, questions or answers, comments, or suggestions) as non-confidential, and agree that NetBroadcaster.com will not be liable or responsible if information that belongs to you is intercepted and used by an unintended recipient. 
 
 **CHILDREN'S PRIVACY**  
-Protecting the privacy of children is VERY important to us. For that reason we do not structure any part of our subscriber or affiliate services to attract anyone under the age of 13. **Our system does not allow anyone under the age of 13 to join as a subscriber or an affiliate.** If parents believe their child (any age under 18) has accessed our system without their permission they can contact our customer service department Monday-Friday 9am-5pm PST at 818 206-0595 x4623 
+Protecting the privacy of children is VERY important to us. For that reason we do not structure any part of our subscriber or affiliate services to attract anyone under the age of 13. **Our system does not allow anyone under the age of 13 to join as a subscriber or an affiliate.** If parents believe their child (any age under 18) has accessed our system without their permission they can contact our customer service department Monday-Friday 9am-5pm PST at 800-237-6151 
 
 **Visit[ http://www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy) for information from the Federal Trade Commission about protecting children's privacy online.**
 
 **HOW TO CHANGE YOUR PROFILE INFORMATION:**  
 Subscribers to NetBroadcaster.com can modify their collected user profile information in the following ways:   
 1\. Go to the "options" section within your NetBroadcaster.com e-mail box and click on the "modify user information."   
-2\. Call our customer service hotline at 818 206-0595 x4623 and speak to one of our customer service agents Monday-Friday 9am-5pm PST 
+2\. Call our customer service hotline at 800-237-6151 and speak to one of our customer service agents Monday-Friday 9am-5pm PST 
 
 **HOW TO CANCEL YOUR ACCOUNT**  
 NetBroadcaster.com is completely ad-supported. We keep this service cost-free by generating our revenue from marketing and advertising to our members. By selecting the "I Accept" button and submitting the enrollment form you agree to view advertisements and email messages during your member session or sent to the email address you provided on you enrollment form. If you prefer not to participate, our only recourse is to cancel your account. In such case you will need to log in to your account, go to the "Options" folder, follow the link to "Cancel Your Account" and follow the instructions. If you do not remember your login password, follow the "Forgot Password" link shown adjacent to the login area. 
@@ -45,7 +45,7 @@ NetBroadcaster.com's Webmail is a separate service provided by BigMailBox.com. C
 [BigMailBox.com Email Service Privacy Policy](http://www.bigmailbox.com/privacy.html) and Email Service Terms and Conditions [BigMailBox Email Service Terms and Conditions](http://www.bigmailbox.com/termsofuse.html). 
 
 **CONTACTING THE WEBSITE**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may write to corporate headquarters using the address listed below or contact one of our customer service agents Monday-Friday 9am-5pm PST at 818 206-0595 x4623. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may write to corporate headquarters using the address listed below or contact one of our customer service agents Monday-Friday 9am-5pm PST at 800-237-6151. 
 
 Netbroadcaster.com 6300 Canoga Avenue Trillium West Tower,15th Floor Woodland Hills, CA 91367
 
