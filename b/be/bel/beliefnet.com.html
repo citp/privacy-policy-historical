@@ -1,0 +1,715 @@
+<!--The following is the downloaded HTML source of the beliefnet.com privacy policy that was archived on 2000-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000618023525id_/http%3A//www.beliefnet.com/about/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+		<link rel="stylesheet" type="text/css" href="/includes/bn_global.css">
+		<meta name="keywords" content="beliefnet beliefnet.com God god angel belief faith religion spirituality spiritual morality ethics prayer interfaith multi-faith religious traditions religions death Christian Christianity lord jesus christ bahai buddhism Buddha catholic Catholicism orthodox mormon protestant culture religions hinduism jewish jews Judaism islam islamic scientology shinto taoism holy bible meditation news discussions family memorials parent children teens news science culture dalai lama health birth death marriage angels Christmas holiday Easter travel dating good right help soul evil hell sin hope grace love care inspiration religion spirituality teens religious resources directories wisdom information community spiritualism believers agnostics hebrew koran heaven hell buddha scholars muhammad pagan feng shui health healing yoga tolerance culture muslim allah  salvation">
+		<meta name="description" content="Beliefnet is an unbiased source for spiritual &amp; religious information. Find products, services, information, inspiration &amp; community applications.">
+
+		<title>Beliefnet; The source for Spirituality, Religion and Morality</title>
+
+		<script language="JavaScript">
+
+<!-- // hide from older browsers
+
+// Another popup method!
+//
+function popup (x0, y0, w, h, url) {
+	// Ensure that each popup window gets a unique name
+	// This way, the navigation thread in each popup is separate
+	//
+	var t = new Date(0);
+	newname = "beliefnet_popup" + t.getMilliseconds();
+
+	options = "";
+	options += "width=" + w + ",";
+	options += "height=" + h + ",";
+	options += "screenX=" + x0 + ",";
+	options += "screenY=" + y0 + ",";
+	options += "scrollbars=yes,";
+	options += "resizable=yes,";
+	//options += "dependent=yes,";
+
+	window.open(url, newname, options);
+	//window[newname].focus();
+}
+
+function glossPop () {
+	var re = new RegExp("^\\W*$");
+	// To avoid returning bizarre results on null search phrases
+	// Josh Berson, January 3
+	// ... changed Jan 17 to use new RegExp() syntax and escaped \ (thanks, IE 4)
+	if (re.test(document.forms["glossary"].term.value))
+		return;
+	term = escape(document.forms["glossary"].term.value);
+	popup(100, 50, 400, 400, "/glossary/search.asp?step=search&term=" + term);
+}
+
+
+function glossPop2 (url) {
+	popup(100, 50, 400, 400, url + "&back=0");
+}
+
+function gloss (entry) {
+	glossPop2("/glossary/entry.asp?entry=" + escape(entry));
+}
+
+// open new pop up window based on browser and version
+function openNewWin(page, win_name, width, height, scrollbars) {
+	if(scrollbars) {
+		var remote = window.open(page,"","width=" + width + ",height=" + height + ",scrollbars");
+	} else {
+		var remote = window.open(page,"","width=" + width + ",height=" + height + ",scrollbars=auto,resize=no");
+	}
+}
+
+//function to display polls
+function submitPoll (pollID,randpollID,voteType) { //voteType is either "vote" or "result"
+	var f = 'poll' + pollID + "_" + randpollID;
+	var url = "/polls/poll_vote.asp";
+	var qstr = "?pollID=" + document.forms[f].pollID.value + "&voteType=" + voteType;
+	var numberOfPollResponses = document.forms[f].numberOfPollResponses.value;
+	for (i = 0; i < numberOfPollResponses; i++) {
+		if (document.forms[f].responseID[i].checked == "1") {
+			qstr += "&responseID=" + document.forms[f].responseID[i].value;
+			break;
+		}
+	}
+	openNewWin( url + qstr, 'pollResults', 350, 400, true);
+}
+
+//function to display columnist_qa agree/disagree votes
+function submitQA(answerID) {
+	var f = document.forms['form' + answerID];
+	var url = "/section/columnist_qa_submitted.asp";
+	var qstr = "?questionNumber=" + f.questionNumber.value + "&answerID=" + f.answerID.value;
+
+	for (i = 0; i < 2; i++) {
+		if (f.answer[i].checked == "1") {
+			qstr += "&answer=" + f.answer[i].value;
+			break;
+		}
+	}
+	openNewWin( url + qstr, 'voteResults', 350, 400, true);
+}
+
+// open a location and break out of frameset
+function breakFrame(url) {
+	opener.parent.location = url;
+	window.close();
+	}
+
+function altpollSubmit (form) {
+	var vote = 0;
+	if (form == "ageapprop") {
+		if (document.forms[form].vote.options[0].selected)
+			return;
+			// If the user selected the null option, don't submit
+
+		for (i = 1; i < 16; i++)
+			if (document.forms[form].vote.options[i].selected) {
+				vote = i + 2;
+				break;
+			}
+	}
+	else
+		vote = document.forms[form].vote.value;
+
+	var url = "/includes/altpoll_fn.asp";
+	var qstr = "?altpolltask=" + document.forms[form].altpolltask.value;
+	qstr += "&itemID=" + document.forms[form].itemID.value;
+	qstr += "&vote=" + vote;
+
+	var height = (form == "beliefbest") ? 200 : 255;
+	openNewWin(url + qstr, 'x', 175, height, false);
+}
+
+function altpollTell (form) {
+	var url = "/includes/altpoll_fn.asp";
+	url += "?altpolltask=" + form + "&show=1";
+	url += "&itemID=" + document.forms[form].itemID.value;
+
+	var height = (form == "beliefbest") ? 200 : 255;
+	openNewWin(url, 'x', 175, height, false);
+}
+
+function checkMaxInputLimit(elem, maxLen) {
+	var fnam= elem.form.name;
+	var elnam = elem.name;
+
+	if(elem.value.length>maxLen) {
+		alert("Please limit your comments to "+maxLen+" charachters.");
+		eval("document."+fnam+"."+elnam+".focus()");
+		}
+	}
+
+function checkSomeTextPresence(elem)
+	{
+		var validentry = false;
+		var sValue = elem.value;
+		var d;
+		if(sValue.length > 1)
+		{
+			for(d=0;d<sValue.length;d++)
+			{
+				if(sValue.charAt(d)!=" " && sValue.charAt(d) !="\n" && sValue.charAt(d) !="\r" && sValue.charAt(d) !="\t")
+				{
+					validentry = true;
+					break;
+				}
+			}
+		}
+
+		if(!validentry)
+		{
+			alert("Please include a text message.");
+			elem.focus();
+			return false;
+		}
+		else
+		{
+			return true;
+		}
+
+	}
+
+// -->
+</script>
+
+
+		<script>
+			if(document.layers)
+				{origWidth=innerWidth;origHeight=innerHeight;
+			
+				onresize=function()
+					{
+						if(innerWidth!=origWidth||innerHeight!=origHeight)
+						location.reload()
+					}
+				}
+		</script>
+	</head>
+
+
+
+	<body bgcolor="#ffffff" topmargin="0" marginwidth="0" leftmargin="0" marginheight="0" style="background-color:#ffffff; background-image:URL(/imgs/bkg.gif); background-repeat:repeat-y" alink="#ffffff" vlink="#999999">
+		<table border="0" cellspacing="0" cellpadding="0" width="616" bgcolor="#003366">
+			<tbody><tr>
+				<td align="center"><!-- beliefnet banner --><!-- beliefnet banner -->
+<a href="/" target="_top"><img src="/imgs/beliefnet_smlogo.gif" border="0"></a>
+</td>
+				<td align="right" colspan="2"><!--adbanner--><script language="javascript">
+<!--
+var axel = Math.random() + '';
+var ord = axel.substring(2, axel.length);
+//-->
+</script>
+<script language="javascript">
+<!-- //
+document.write("<a HREF='http://ad.doubleclick.net/jump/beliefnet.com/;sz=468x60;tile=1;ord=" + ord + "?' target='_top'><img src='http://ad.doubleclick.net/ad/beliefnet.com/;sz=468x60;tile=1;ord=" + ord + "?' width='468' height='60' border='0' border='0' vspace=3 alt='Click Here'></a>");
+// -->
+</script><a href="http://ad.doubleclick.net/jump/beliefnet.com/;sz=468x60;tile=1;ord=8557668863336385?" target="_top"><img src="http://ad.doubleclick.net/ad/beliefnet.com/;sz=468x60;tile=1;ord=8557668863336385?" width="468" height="60" border="0" vspace="3" alt="Click Here"></a><img src="/imgs/1pixel.gif" height="60" width="4"></td>
+				
+			</tr>
+			<!--<tr>
+				 <td colspan=4><img src="/imgs/1pixel.gif" width=616 height=1></td>
+			</tr>-->
+		</tbody></table>
+		<table border="0" cellspacing="0" cellpadding="0" width="619">
+			 <tbody><tr><td bgcolor="#003366" align="right"><img src="/imgs/1pixel.gif" name="colspacer" width="130" height="1"></td><td bgcolor="#003366"><img src="/imgs/1pixel.gif" name="colspacer" width="20" height="1"></td><td bgcolor="#003366"><img src="/imgs/1pixel.gif" name="colspacer" width="130" height="1"></td><td bgcolor="#003366" align="right"><img src="/imgs/userbar_endcap.shim.gif" name="colspacer"></td></tr>
+			<tr>
+				<td bgcolor="#003366" rowspan="2" valign="top"><!-- searchmod -->
+				<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td><img src="/imgs/1pixel.gif" width="10" height="1"></td>
+		<td rowspan="2"><form name="search" id="search" method="post" action="/search/index.asp" target="_top"></form></td>
+		<td colspan="2"><a href="/search/advanced.asp" target="_top" class="searchmodtitle">Search</a></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><img src="/imgs/1pixel.gif" width="10" height="1"></td>
+		<td><input name="search_for" type="text" size="10" style="font-size:10px"></td>
+		<td>&nbsp;<input type="image" name="nav_go" src="/imgs/nav_go.gif" border="0" alt="go"></td>
+<!-- This close form tag is in a separate table cell to negate the effects of the CRLF that it imposes. It must be left in to avoid design issues. -MG-->
+		<td></td>
+	</tr>
+</tbody></table>
+
+				</td>
+				<td bgcolor="#99ccff" valign="top"><img src="/imgs/login_curve.gif"></td>
+				<td width="100%" bgcolor="#99ccff"><!-- userbanner --><script src="/includes/nav/userbanner.asp"></script><table bgcolor="#99ccff" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><form method="post" action="/user/login2.asp" target="_top" name="ULogin" id="ULogin"></form></td><td><a href="/registration.asp" target="_top"><img src="/imgs/usr_regi.gif" border="0" name="Register" alt="Register"></a></td><td><img src="/imgs/1pixel.gif" width="10" height="1"></td><td class="usertitle">Username&nbsp;</td><td><input name="userName" type="text" size="5"></td><td>&nbsp;&nbsp;</td><td class="usertitle">Password&nbsp;</td><td><input name="password" type="password" maxlength="20" size="5"></td><td>&nbsp;&nbsp;</td><td><input type="hidden" name="redirectPage" value="https://web.archive.org/web/20000618023525id_/http%3A//www.beliefnet.com/about/privacy.asp"><input type="image" src="/imgs/usr_sign.gif" border="0" name="Sign in" alt="Sign in"></td><td></td></tr></tbody></table></td>
+			<td bgcolor="#99ccff" align="right" valign="top"><img src="/imgs/userbar_endcap.gif"></td>
+		</tr>
+	</tbody></table>
+
+	<table border="0" cellspacing="0" cellpadding="0" width="610">
+		<tbody><tr><td><img src="/imgs/1pixel.gif" name="colspacer" width="130" height="1"></td><td bgcolor="#ffffff"><img src="/imgs/1pixel.gif" name="colspacer" width="130" height="1"></td></tr>
+		<tr>
+			<td valign="top"><!--mainnav block-->
+
+				<table border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td><img src="/imgs/1pixel.gif" name="colspacer" width="130" height="1"></td>
+					</tr>
+
+					<tr>
+						<td valign="top"><!--links--><!-- This is the table for the shopping cart links -->
+<table cellspacing="0" cellpadding="2" border="0">
+	<tbody><tr>
+		<td rowspan="3"><img src="/imgs/1pixel.gif" width="6" height="1"></td>
+		<td><a href="http://www.vstore.com/cgi-bin/pagegen/vstoremarket/beliefnet/page.html?mode=home&amp;file=/page/home/home.spl" target="_top"><img src="/imgs/nav_dot.gif" border="0"></a></td><td><a href="http://www.vstore.com/cgi-bin/pagegen/vstoremarket/beliefnet/page.html?mode=home&amp;file=/page/home/home.spl" target="_top"><img src="/imgs/store/nav_shop.gif" border="0"></a></td>
+	</tr>
+	<tr>
+		<td><a href="http://www.vstore.com/cgi-bin/pagegen/vstoremarket/beliefnet/page.html?mode=order&amp;file=/scart1/cart.spl" target="_top"><img src="/imgs/nav_dot.gif" border="0"></a></td><td><a href="http://www.vstore.com/cgi-bin/pagegen/vstoremarket/beliefnet/page.html?mode=order&amp;file=/scart1/cart.spl" target="_top"><img src="/imgs/store/nav_cart.gif" border="0"></a></td>
+	</tr>
+	<tr>
+		<td><a href="/homesites/about.asp" target="_top"><img src="/imgs/nav_dot.gif" border="0"></a></td><td><a href="/homesites/about.asp" target="_top"><img src="/imgs/store/nav_build.gif" border="0"></a></td>
+	</tr>	
+</tbody></table>
+</td>
+						</tr>
+						<tr>
+							<td width="130"><!--navbar--><!--navbar-->
+<table cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td colspan="2"><img src="/imgs/1pixel.gif" name="colspacer" width="131" height="1"></td>
+	</tr>
+	<tr>
+		<td colspan="2"><a href="/index/index_90.asp" target="_top"><img src="/imgs/nav_comm.gif" vspace="5" border="0"></a></td>
+	</tr>
+	<tr>
+		<td><img src="/imgs/1pixel.gif" width="10"></td>
+		<td>
+		<a href="/boards/index.asp" class="navlinks" target="_top">Discussions</a><br>
+		<a href="/index/index_70.html" class="navlinks" target="_top">Celebrations</a><br>
+		<a href="/milestones/directory.asp?milestoneTypeID=2" class="navlinks" target="_top">Memorials</a><br>
+		<a href="/index/index_60.html?milestoneTypeID=6" class="navlinks" target="_top">Prayer Circles</a><br>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2"><a href="/index/index_10000.html" target="_top"><img src="/imgs/nav_relig.gif" vspace="5" border="0"></a></td>
+	</tr>
+	<tr>
+		<td><img src="/imgs/1pixel.gif" width="10"></td>
+		<td>
+		<a href="/index/index_10001.html" class="navlinks" target="_top">Buddhism</a><br>
+		<a href="/index/index_10002.html" class="navlinks" target="_top">Christianity</a><br>
+		<a href="/index/index_10003.html" class="navlinks" target="_top">Hinduism</a><br>
+		<a href="/index/index_10004.html" class="navlinks" target="_top"> Islam</a><br>
+		<a href="/index/index_10005.html" class="navlinks" target="_top">Judaism</a><br>
+		<a href="/index/index_10000.html" class="navlinks" target="_top">More Religions</a><br>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2"><a href="/index/index_200.html" target="_top"><img src="/imgs/nav_spirit.gif" vspace="5" border="0"></a></td>
+	</tr>
+	<tr>
+		<td><img src="/imgs/1pixel.gif" width="10"></td>
+		<td>
+		<a href="/index/index_201.html" class="navlinks" target="_top">Meditation &amp; Prayer</a><br>
+		<a href="/index/index_205.html" class="navlinks" target="_top">Inspiration</a><br>
+		<a href="/index/index_204.html" class="navlinks" target="_top">Angels &amp; Guides</a><br>
+		<a href="/index/index_203.html" class="navlinks" target="_top">Health &amp; Wellness</a><br>
+		<a href="/index/index_206.html" class="navlinks" target="_top">Travel</a><br>
+		<a href="/index/index_200.html" class="navlinks" target="_top">More...</a><br>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2"><a href="/index/index_500.html" target="_top"><img src="/imgs/nav_moral.gif" vspace="5" border="0"></a></td>
+	</tr>
+	<tr>
+		<td><img src="/imgs/1pixel.gif" width="10"></td>
+		<td>
+		<a href="/index/index_501.html" class="navlinks" target="_top">Books</a><br>
+		<a href="/index/index_503.html" class="navlinks" target="_top">Music</a><br>
+		<a href="/index/index_502.html" class="navlinks" target="_top">Movies &amp; TV</a><br>
+		<a href="/index/index_507.html" class="navlinks" target="_top">Gender &amp; Sexuality</a><br>
+		<a href="/index/index_500.html" class="navlinks" target="_top">More...</a><br>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2"><a href="/index/index_400.html" target="_top"><img src="/imgs/nav_news.gif" vspace="5" border="0"></a></td>
+	</tr>
+	<tr>
+		<td colspan="2"><a href="/index/index_600.html" target="_top"><img src="/imgs/nav_famil.gif" vspace="5" border="0"></a></td>
+	</tr>
+	<tr>
+		<td><img src="/imgs/1pixel.gif" width="10"></td>
+		<td>
+		<a href="/index/index_602.html" class="navlinks" target="_top">Parenting</a><br>
+		<a href="/index/index_603.html" class="navlinks" target="_top">Marriage</a><br>
+		<a href="/index/index_607.html" class="navlinks" target="_top">Death &amp; Dying</a><br>
+		<a href="/index/index_600.html" class="navlinks" target="_top">More...</a><br>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2"><a href="/index/index_100.html" target="_top"><img src="/imgs/nav_resou.gif" vspace="5" border="0"></a></td>
+	</tr>
+	<tr>
+		<td><img src="/imgs/1pixel.gif" width="10"></td>
+		<td>
+		<a href="/help/link_directory.asp" class="navlinks" target="_top">Sacred Texts</a><br>
+		<a href="/index/index_20000.html" class="navlinks" target="_top">Related Links</a><br>
+		<a href="/index/index_101.html" class="navlinks" target="_top">Multimedia Features</a>
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2"><a href="/index/index_30000.html" target="_top"><img src="/imgs/nav_column.gif" vspace="5" border="0"></a></td>
+	</tr>
+</tbody></table>
+</td>
+						</tr>
+						<tr>
+							<td valign="top" width="130"><!--links--><!-- <table>
+	<tr>
+		<td><img src="/imgs/1pixel.gif"></td>
+		<td><a href="/section/columnist_article_index.html" class="navlinks">Columnists</a></td>
+	</tr>
+</table> --></td>
+						</tr>
+						<tr>
+							<td><!--glossary--><script>
+function glossPop () {
+
+        var re = new RegExp("^\\W*$");
+
+        // To avoid returning bizarre results on null search phrases
+
+        // Josh Berson, January 3
+
+        // ... changed Jan 17 to use new RegExp() syntax and escaped \ (thanks, IE 4)
+
+        if (re.test(document.forms["glossary"].term.value))
+
+                return;
+
+        term = escape(document.forms["glossary"].term.value);
+
+        popup(100, 50, 400, 400, "/glossary/search.asp?step=search&term=" + term);
+
+}
+</script>
+
+<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+		<td><img src="/imgs/1pixel.gif" width="10" height="1"></td>
+		<td rowspan="2"><form name="glossary" method="post" action="javascript: glossPop();"></form></td>
+		<td colspan="2"><span class="searchmodtitle">Encyclopedia</span></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><img src="/imgs/1pixel.gif" width="10" height="1"></td>
+		<td><input name="term" type="text" size="10" style="font-size:10px"></td>
+		<td>&nbsp;<a href="javascript:glossPop();"><img src="/imgs/nav_go.gif" border="0" alt="go"></a></td>
+<!-- This close form tag is in a separate table cell to negate the effects of the CRLF that it imposes. It must be left in to avoid design issues. -MG-->
+		<td></td>
+	</tr>
+</tbody></table>
+</td>
+						</tr>
+						<tr>
+							<td width="130"><!--newsletter--><script src="/includes/nav/newsletter.js"></script><br><table border="0" cellspacing="1" cellpadding="0"><tbody><tr><td><img src="/imgs/1pixel.gif" width="10" height="1"></td><td class="searchmodtitle">FREE Newsletter</td><td></td></tr><tr><td><img src="/imgs/1pixel.gif" width="10" height="1"></td><td colspan="2"><form name="newsletterform" method="post" action="/user/subscribe.asp"><input type="hidden" name="redirectPage" value="/web/20000618023525id_/http%3A//www.beliefnet.com/about/privacy.asp"><br></form></td></tr><tr><td><img src="/imgs/1pixel.gif" width="10" height="1"></td><td><a href="javascript:checkReqs()"><img src="/imgs/nav_sub.gif" border="0"></a></td></tr></tbody></table>
+
+							</td>
+						</tr>
+						<tr>
+							<td valign="top"><!--links--><br>
+<table border="0" cellspacing="1" cellpadding="0">
+	<tbody><tr>
+		<td align="right"><img src="/imgs/1pixel.gif" width="10" height="1"><img src="/imgs/nav_dot.gif"></td>
+		<td><a href="/about/index.asp" class="searchmodtitle" target="_top">About Beliefnet</a><br></td>
+	</tr>
+	<tr>
+		<td align="right" valign="top"><img src="/imgs/1pixel.gif" width="10" height="1"><img src="/imgs/nav_dot.gif"></td>
+		<td><a href="/about/contact.asp" class="searchmodtitle" target="_top">Feedback</a><br></td>
+	</tr>
+</tbody></table>
+<br>
+
+</td>
+						</tr>
+						 <tr>
+							<td width="130" align="center"><!--navads-->
+							<script language="javascript">
+<!-- //
+document.write("<a HREF='http://ad.doubleclick.net/jump/beliefnet.com/;pos=bob;sz=120x60;tile=2;ord=" + ord + "?' target='_top'><img src='http://ad.doubleclick.net/ad/beliefnet.com/;pos=bob;sz=120x60;tile=2;ord=" + ord + "?' width='120' height='60' border='0' border='0' vspace=3 alt='Click Here'></a>");
+// -->
+</script><a href="http://ad.doubleclick.net/jump/beliefnet.com/;pos=bob;sz=120x60;tile=2;ord=8557668863336385?" target="_top"><img src="http://ad.doubleclick.net/ad/beliefnet.com/;pos=bob;sz=120x60;tile=2;ord=8557668863336385?" width="120" height="60" border="0" vspace="3" alt="Click Here"></a><br> <script language="javascript">
+<!-- //
+document.write("<a HREF='http://ad.doubleclick.net/jump/beliefnet.com/;pos=steve;sz=120x60;tile=3;ord=" + ord + "?' target='_top'><img src='http://ad.doubleclick.net/ad/beliefnet.com/;pos=steve;sz=120x60;tile=3;ord=" + ord + "?' width='120' height='60' border='0' border='0' vspace=3 alt='Click Here'></a>");
+// -->
+</script><a href="http://ad.doubleclick.net/jump/beliefnet.com/;pos=steve;sz=120x60;tile=3;ord=8557668863336385?" target="_top"><img src="http://ad.doubleclick.net/ad/beliefnet.com/;pos=steve;sz=120x60;tile=3;ord=8557668863336385?" width="120" height="60" border="0" vspace="3" alt="Click Here"></a>
+							</td>
+						</tr>
+					</tbody></table>
+
+				</td>
+
+				<td valign="top" width="100%"><!-- content block -->
+
+					<table border="0" cellspacing="0" cellpadding="0" width="100%">
+						<tbody><tr>
+							<td><img src="/imgs/1pixel.gif" width="5" height="1"></td>
+							<!-- bannernav -->
+							
+						</tr>
+						<tr>
+							<td><img src="/imgs/1pixel.gif" width="5" height="1"></td>
+							<td><!-- content-->
+<!-- template_top end -->
+
+
+<!-- right nav for About section -->
+<table border="0" cellpadding="0" cellspacing="0" width="126" align="right">
+	<tbody><tr>
+		<td width="10">
+			<!-- gutter of 10 pickles -->
+			<img src="/imgs/x.gif" width="5" height="1" border="0"></td>
+		<td colspan="5" width="117" align="left" valign="top" bgcolor="#999999">
+		<font face="arial, helvetica, sans-serif" size="2" color="#ffffff">&nbsp;&nbsp;&nbsp;Sections</font></td>
+	</tr>
+	<tr>
+		<td width="10">
+			<!-- gutter of 10 pickles -->
+			<img src="/imgs/x.gif" width="5" height="1" border="0"></td>
+		<td width="1" bgcolor="#999999">
+			<img src="/imgs/x.gif" width="1" height="1" border="0"></td>
+		<td width="10">
+			<img src="/imgs/x.gif" width="5" height="1" border="0"></td>
+		<td width="105" align="left" valign="top">
+			<img src="/imgs/x.gif" width="1" height="10" border="0"><br>		
+			<li><a href="index.asp" class="ntouttextlink">About Beliefnet</a>
+			</li><li><a href="rules.asp" class="ntouttextlink">Rules of Conduct</a>
+			</li><li><a href="privacy.asp" class="ntouttextlink">Privacy Policy</a>
+			</li><li><a href="press.asp" class="ntouttextlink">Press</a>
+			</li><li><a href="jobs.asp" class="ntouttextlink">Jobs</a>
+			</li><li><a href="contact.asp" class="ntouttextlink">Contact Us</a>
+			</li><li><a href="management.asp" class="ntouttextlink">Management</a>
+		</li></td>
+		<td width="5">
+			<img src="/imgs/x.gif" width="5" height="1" border="0"></td>
+		<td width="1" bgcolor="#999999">
+			<img src="/imgs/x.gif" width="1" height="1" border="0"><br></td>
+	</tr>
+	<tr>
+		<td width="10">
+			<!-- gutter of 10 pickles -->
+			<img src="/imgs/x.gif" width="5" height="1" border="0"></td>
+		<td colspan="5" width="1">
+			<img src="/imgs/rounded_bottom_120.gif" width="120" height="5" alt="" border="0"><p>&nbsp;</p></td>
+	</tr>
+</tbody></table>
+<!-- end right nav for About section -->
+
+<table border="0" cellpadding="1" cellspacing="0">
+	<tbody><tr>
+		<td width="39">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+
+		
+			<td align="left" valign="middle" width="420" bgcolor="#99ccff">
+			<font face="arial, helvetica, sans-serif" size="2" color="#003366">
+			ABOUT BELIEFNET&nbsp;|&nbsp;<b>PRIVACY</b>		
+
+		
+		
+			</font>
+		</td>
+	</tr>
+</tbody></table>
+
+
+<table border="0" cellpadding="2" cellspacing="0">
+	<tbody><tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<img src="/imgs/x.gif" width="1" height="10" border="0"><br>
+			<font face="arial, helvetica, sans-serif" color="#003366" size="3">
+			<b>An Overview</b>
+			</font><br>
+			<font face="arial, helvetica, sans-serif" color="#003366" size="2">
+			Beliefnet is strongly committed to both protecting privacy and providing a safe and secure environment for our users.
+			</font><p><font face="arial, helvetica, sans-serif" color="#003366" size="2">The purpose of the Beliefnet privacy policy is to help you understand what kinds of information we may gather about you when you visit Beliefnet, how we may use that information, whether we will disclose it to anyone, and how you can correct the information. Please note that this policy applies only to Beliefnet, and not to other companies' or organizations' websites to which we link. The policy also applies to websites with which we have partnered or "co-branded." 
+			</font>
+		</p></td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<img src="/imgs/x.gif" width="1" height="5" border="0"><br>
+			<img src="/imgs/x_ccc.gif" width="275" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<font face="arial, helvetica, sans-serif" color="#003366" size="3">
+			<b>Information About All Beliefnet Visitors</b>
+			</font><br>
+			<font face="arial, helvetica, sans-serif" color="#003366" size="2">
+			In general, our service automatically gathers certain usage information, for example the number and frequency of visitors to Beliefnet and its areas. We use such data only in the aggregate. This collective data helps us to determine the extent to which our customers use parts of the site. With this information, we can make the site as appealing as we can for as many of you as possible. 
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<img src="/imgs/x.gif" width="1" height="5" border="0"><br>
+			<img src="/imgs/x_ccc.gif" width="275" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<font face="arial, helvetica, sans-serif" color="#003366" size="3">
+			<b>Cookies</b>
+			</font><br>
+			<font face="arial, helvetica, sans-serif" color="#003366" size="2">
+			In our effort to provide you services customized to your interests, we use "cookies" to keep and sometimes track information about you. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. We use cookies to: access your account information (stored on our computers) in order to deliver better and more personalized services; estimate our audience size for our advertisers; identify which areas of our site you have visited; and prevent users from voting in polls more then once. You should also be aware that companies that advertise on our site may use their own cookies. This privacy policy does not cover how these companies use their cookies.
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<img src="/imgs/x.gif" width="1" height="5" border="0"><br>
+			<img src="/imgs/x_ccc.gif" width="275" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<font face="arial, helvetica, sans-serif" color="#003366" size="3">
+			<b>Information About You</b>
+			</font><br>
+			<font face="arial, helvetica, sans-serif" color="#003366" size="2">
+			When you sign up to use a service or order a product, we may ask for specific information about you. We will need certain information--such as name, Internet address or screen name, billing address, type of computer, credit card number--in order to provide that service or product to you. We may also use that information to let you know about additional products and services that may interest you. You can choose not to receive such information  by letting us know on the registration screen when you sign up for the product or service. We may ask you for information about your interests so that both you and we can take advantage of the interactivity of the online medium, but you may always choose not to respond. 
+			</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<img src="/imgs/x.gif" width="1" height="5" border="0"><br>
+			<img src="/imgs/x_ccc.gif" width="275" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<font face="arial, helvetica, sans-serif" color="#003366" size="3">
+			<b>Disclosure</b>
+			</font><br>
+			<font face="arial, helvetica, sans-serif" color="#003366" size="2">
+			We do not  disclose information about your individual visits to Beliefnet or information that you may give us, such as your name, address, e-mail address, or telephone number, to any outside companies. But as we mention above, we may share with our website partners aggregated statistical "ratings" information about the use of Beliefnet.
+ 			</font>
+		</td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<img src="/imgs/x.gif" width="1" height="5" border="0"><br>
+			<img src="/imgs/x_ccc.gif" width="275" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<font face="arial, helvetica, sans-serif" color="#003366" size="3">
+			<b>Special Attention to Kids</b>
+			</font><br>
+			<font face="arial, helvetica, sans-serif" color="#003366" size="2">
+			Beliefnet takes special care to protect the safety and privacy of young people using our services. We do not specifically collect information about children and believe that children should get their parents' consent before giving out any personal information. We encourage you to participate in your child's experience in cyberspace and to review our important safety tips before your child explores the Internet. We also encourage you and your child to visit Beliefnet's Kids section, which provides age-appropriate content. 
+			</font>
+		</td>
+	</tr>
+
+<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<img src="/imgs/x.gif" width="1" height="5" border="0"><br>
+			<img src="/imgs/x_ccc.gif" width="275" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<font face="arial, helvetica, sans-serif" color="#003366" size="3">
+			<b>Third Party Advertising Publisher</b>
+			</font><br>
+			<font face="arial, helvetica, sans-serif" color="#003366" size="2">
+			A reputable third party places the advertising you see on Beliefnet. If you would like to know more about their information-gathering practices, or if you would like to learn how you can opt-out of the information-gathering system, please
+			<a href="http://www.doubleclick.net/privacy_policy/"> click here.</a>
+			</font>
+	   	
+
+
+
+
+	</td></tr><tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<img src="/imgs/x.gif" width="1" height="5" border="0"><br>
+			<img src="/imgs/x_ccc.gif" width="275" height="1" alt="" border="0"></td>
+	</tr>
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+			<font face="arial, helvetica, sans-serif" color="#003366" size="3">
+			<b>Beliefnet Privacy Policy Changes</b>
+			</font><br>
+			<font face="arial, helvetica, sans-serif" color="#003366" size="2">
+			If we decide to change our privacy policy for Beliefnet, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
+			</font>
+		</td>
+	</tr>
+
+	<tr>
+		<td width="35">
+			<img src="/imgs/x.gif" width="35" height="1" border="0"></td>
+		<td align="left" valign="top" width="275">
+<a href="javascript:window.history.back()"><img src="/imgs/bt_backprevious.gif" border="0"></a>
+		</td>
+	</tr>
+
+</tbody></table>
+
+</td>
+						</tr>
+						<tr>
+							<td><img src="/imgs/1pixel.gif" width="5" height="1"></td>
+							<td align="center"><!--adbanner--><script language="javascript">
+<!-- //
+document.write("<a HREF='http://ad.doubleclick.net/jump/beliefnet.com/;sz=468x60;tile=4;ord=" + ord + "?' target='_top'><img src='http://ad.doubleclick.net/ad/beliefnet.com/;sz=468x60;tile=4;ord=" + ord + "?' width='468' height='60' border='0' border='0' vspace=3 alt='Click Here'></a>");
+// -->
+</script><a href="http://ad.doubleclick.net/jump/beliefnet.com/;sz=468x60;tile=4;ord=8557668863336385?" target="_top"><img src="http://ad.doubleclick.net/ad/beliefnet.com/;sz=468x60;tile=4;ord=8557668863336385?" width="468" height="60" border="0" vspace="3" alt="Click Here"></a></td>
+						</tr>
+						<tr>
+							<td><img src="/imgs/1pixel.gif" width="5" height="1"></td>
+							<td align="center"><!--disclaimer--><!--disclaimer-->
+<span class="disclaimertext">
+Copyright (c) 2000 Beliefnet, Inc. All rights reserved.<br>
+Use of this site is subject to <a href="/about/terms.asp" target="_top" class="disclaimertext">Terms of Service</a><br>
+and to our <a href="/about/privacy.asp" target="_top" class="disclaimertext">Privacy Policy</a>. Constructed by Beliefnet.
+</span>
+</td>
+						</tr>
+					</tbody></table>
+
+				</td>
+			</tr>
+		</tbody></table>
+		<br>&nbsp;
+		<br>&nbsp;
+		<br>&nbsp;
+
+	
+
+</body></html>
