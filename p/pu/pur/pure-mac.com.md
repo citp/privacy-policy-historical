@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621151938id_/http%3A//pure-mac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pure-mac.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202190827id_/http%3A//www.pure-mac.com/privacy.html) for the most accurate reproduction.*
 
 # Pure Mac
 
