@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203013709id_/http%3A//www.dallasobserver.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602154108id_/http%3A//dallasobserver.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Dallas Observer | dallasobserver.com | About
+# Dallas Observer | dallasobserver.com | About The Alternative Dallas connection for events, event listings, music reviews, CD reviews, and all of the latest alternative news from the Dallas area.
 
 ****
 
