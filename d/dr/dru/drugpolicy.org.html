@@ -1,0 +1,492 @@
+<!--The following is the downloaded HTML source of the drugpolicy.org privacy policy that was archived on 2003-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030621085434id_/http%3A//drugpolicy.org/privacy) for the most accurate reproduction.-->
+
+<html><head>
+<title>Drug Policy Alliance</title>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+<link rel="shortcut icon" href="http://www.drugpolicy.org/favicon.ico"> 
+<link rel="stylesheet" href="/templates/style.css">
+<script language="javascript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		right_menu_01_over = newImage("/templates/front/images/right_menu_01_over.gif");
+		right_menu_03_over = newImage("/templates/front/images/right_menu_03_over.gif");
+		right_menu_05_over = newImage("/templates/front/images/right_menu_05_over.gif");
+		right_menu_07_over = newImage("/templates/front/images/right_menu_07_over.gif");
+		right_menu_09_over = newImage("/templates/front/images/right_menu_09_over.gif");
+		right_menu_11_over = newImage("/templates/front/images/right_menu_11_over.gif");
+		right_menu_13_over = newImage("/templates/front/images/right_menu_13_over.gif");
+		right_menu_15_over = newImage("/templates/front/images/right_menu_15_over.gif");
+		right_menu_17_over = newImage("/templates/front/images/right_menu_17_over.gif");
+		right_menu_19_over = newImage("/templates/front/images/right_menu_19_over.gif");
+		right_menu_21_over = newImage("/templates/front/images/right_menu_21_over.gif");
+		preloadFlag = true;
+	}
+}
+
+function checkEmail(email) {
+         // email at least 5 characters long
+         if (email.length < 5)
+                 return false;
+         // email has an @ as at least the second character
+         else if (email.indexOf("@") < 1)
+                 return false;
+         // @ and . separated by at least 1 character
+         else if ((email.indexOf(".", email.indexOf("@")) - email.indexOf("@")) < 2)
+                 return false;
+
+         // email does not contain any illegal characters
+         // "\" is escape character, thus the double "\\"
+         var illegals = "()<>,;:\\[]*/";
+         for (i=0; i < illegals.length; i++) {
+                 if (email.indexOf(illegals.charAt(i)) != -1)
+                         return false;
+         }
+
+         return true;
+}
+// -->
+</script>
+
+<script language="Javascript">
+<!-- Begin
+function emailValidate (form,input,emailStr) {
+	var emailPattern=/^(.+)@(.+)$/
+	var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]"
+	var validChars="\[^\\s" + specialChars + "\]"
+	var quotedUser="(\"[^\"]*\")"
+	var ipDomainPattern=/^\[(\d{1,3})\.(\d{1,3})\.(\d{1,3})\.(\d{1,3})\]$/
+	var atom=validChars + "+"
+	var word="(" + atom + "|" + quotedUser + ")"
+	var userPat=new RegExp("^" + word + "(\\." + word + ")*$")
+	var domainPat=new RegExp("^" + atom + "(\\." + atom +")*$")
+	var matchArray=emailStr.match(emailPattern)
+	if (emailStr == ''){
+		return true;
+	}
+	else {
+		if (matchArray==null) {
+			//email address is not in a valid format.
+			return false;
+		}
+	}
+	var user=matchArray[1]
+	var domain=matchArray[2]
+	if (user.match(userPat)==null) {
+    	//The username does not seem to be valid.
+    	return false
+	}
+	var IPArray=domain.match(ipDomainPattern)
+	if (IPArray!=null) {
+   		for (var i=1;i<=4;i++) {
+	    	if (IPArray[i]>255) {
+	        	//Destination IP address is invalid.
+			return false
+	    	}
+    	}
+    	return true
+	}
+	var domainArray=domain.match(domainPat)
+	if (domainArray==null) {
+		//The domain name does not seem to be valid.
+    	return false
+	}
+	var atomPat=new RegExp(atom,"g")
+	var domArr=domain.match(atomPat)
+	var len=domArr.length
+	if (domArr[domArr.length-1].length<2) {
+    	//The E-mail address must end in a three-letter domain, or two letter country.
+   		return false
+	}
+	if (len<2) {
+   		//This E-mail address is missing a hostname.
+   		return false
+	}
+	//otheriwse return true
+	return true;
+}
+//  End -->
+</script>
+
+
+<script language="JAVASCRIPT" type="text/javascript">
+
+<!--
+
+
+function _CF_onError(form_object, input_object, object_value, error_message)
+    {
+	alert(error_message);
+       	return false;	
+    }
+
+
+function  _CF_checksignupForm(_CF_this)
+
+    {
+
+if  (!emailValidate(_CF_this, _CF_this.email, _CF_this.email.value))
+
+        {
+
+        if  (!_CF_onError(_CF_this, _CF_this.email, _CF_this.email.value, "You must enter a VALID email address."))
+
+            {
+
+            return false; 
+
+            }
+
+        }
+
+
+    return true;
+
+    }
+
+
+//-->
+
+</script>
+
+<script language="JavaScript">function openWin(cellID) { var strURL; strURL = 'page/action/_act_content_search.cfm?cellID=' + cellID;	window.open(strURL, '_contentWin', 'menubar=0, location=0, resizable, height=500, width=570, scrollbars'); } </script><meta name="keywords" content=""><!-- copyright CTSG 2001-2003 --></head>
+<body onload="preloadImages();" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
+<table width="760" border="0" cellpadding="0" cellspacing="0" align="center">
+  <!--	BEGIN VISUAL HEADER AREA-->
+  <tbody><tr> 
+	<td rowspan="2" valign="top"><a href="/"><img src="/templates/front/images/front_logo.jpg" width="209" height="47" alt="Drug Policy Alliance Logo" border="0"></a></td>
+	<td colspan="4" bgcolor="#FFFFFF"><img src="/templates/front/images/spacer.gif" alt="" width="551" height="33"></td>
+  </tr>
+  <tr> 
+	<td colspan="4"> 
+	  <!-- TOP MENU-->
+	  <table width="551" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr> 
+		  <td bgcolor="#FFFFFF"><img src="/templates/front/images/spacer.gif" width="54" height="14" alt=""></td>
+		  
+			<td><a href="/about"><img src="/templates/front/images/topmenu_about.gif" height="14" border="0" alt="About"></a></td>
+		  
+			<td><a href="/takeaction"><img src="/templates/front/images/topmenu_takeaction.gif" height="14" border="0" alt="Take Action"></a></td>
+		  
+			<td><a href="/news"><img src="/templates/front/images/topmenu_news.gif" height="14" border="0" alt="News"></a></td>
+		  
+			<td><a href="/library"><img src="/templates/front/images/topmenu_library.gif" height="14" border="0" alt="Publications and Library"></a></td>
+		  
+			<td><a href="/sitemap"><img src="/templates/front/images/topmenu_sitemap.gif" height="14" border="0" alt="Sitemap"></a></td>
+		  
+			<td><a href="/contact"><img src="/templates/front/images/topmenu_contact.gif" height="14" border="0" alt="Contact"></a></td>
+		  
+			<td><a href="/join"><img src="/templates/front/images/topmenu_join.gif" height="14" border="0" alt="Join"></a></td>
+		  
+			<td><a href="/events"><img src="/templates/front/images/topmenu_events.gif" height="14" border="0" alt="Events"></a></td>
+		  
+			<td><a href="/discussions"><img src="/templates/front/images/topmenu_discussions.gif" height="14" border="0" alt="Discussions"></a></td>
+		  
+			<td><a href="/search"><img src="/templates/front/images/topmenu_search.gif" height="14" border="0" alt="Search"></a></td>
+		  
+		</tr>
+	  </tbody></table>
+	</td>
+  </tr>
+  <tr valign="top"> 
+	<td bgcolor="#F2BC07" height="14"><img src="/templates/front/images/spacer.gif" alt="" width="209" height="14"></td>
+	<td colspan="4" bgcolor="#333333" height="14"><img src="/templates/front/images/spacer.gif" alt="" width="209" height="14"></td>
+  </tr>
+  <tr> 
+	<td colspan="5" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+  <tr valign="top"> 
+
+	<td valign="top" colspan="2"><img src="/templates/front/images/spacer.gif" width="5" height="12">
+	
+	
+
+				
+			
+		
+	<a href="http://www.drugpolicy.org/" class="breadcrumbs">Home</a> &gt; <span class="breadcrumbs">Privacy Policy</span>  </td>
+	<td bgcolor="#FFFFFF">&nbsp;</td>
+	<td width="1"><img src="/templates/front/images/spacer.gif" alt="" width="1" height="14"></td>
+	<td><img src="/templates/front/images/spacer.gif" alt="" width="1" height="14"></td>
+  </tr>
+
+  <tr valign="top"> 
+	<td valign="top" align="right"><img src="/templates/front/images/section_title_graphic_privacy.jpg" width="204" height="73" alt="Privacy Policy"></td>
+	<td bgcolor="#FFFFFF"><img src="/templates/front/images/section_title_text_privacy.gif" width="373" height="73" alt="Privacy Policy"></td>
+	<td bgcolor="#FFFFFF"><img src="/templates/front/images/spacer.gif" width="1" height="72"></td>
+	<td bgcolor="#CCCCCC" width="1"><img src="/templates/front/images/spacer.gif" width="1" height="72"></td>
+	<td valign="top" rowspan="2"> 
+	  <!--	START OF RIGHT NAV MENU - CHANGES MADE TO RIGHT MENU 01 AND RIGHT MENU MARIJ -->
+	  <table width="163" border="0" cellpadding="0" cellspacing="0">
+	
+	<tbody><tr>
+		<td valign="bottom"><img name="right_menu_1" width="13" height="50" src="/templates/front/images/right_menu_1.gif"></td>
+		<td valign="top"><a href="/marijuana" onmouseover="changeImages('right_menu_1', '/templates/front/images/right_menu_1_over.gif'); return true;" onmouseout="changeImages('right_menu_1', '/templates/front/images/right_menu_1.gif'); return true;">
+				<img src="/templates/front/images/right_menu_marijuana.gif" width="150" height="50" border="0" alt="Marijuana: The Facts"></a></td>
+		
+	</tr>
+	
+	<tr>
+		<td valign="bottom"><img name="right_menu_3" width="13" height="38" src="/templates/front/images/right_menu_3.gif"></td>
+		<td valign="top"><a href="/drugwar" onmouseover="changeImages('right_menu_3', '/templates/front/images/right_menu_3_over.gif'); return true;" onmouseout="changeImages('right_menu_3', '/templates/front/images/right_menu_3.gif'); return true;">
+				<img src="/templates/front/images/right_menu_drugwar.gif" width="150" height="38" border="0" alt="What's Wrong With the Drug War?"></a></td>
+		
+	</tr>
+	
+	<tr>
+		<td valign="bottom"><img name="right_menu_5" width="13" height="39" src="/templates/front/images/right_menu_5.gif"></td>
+		<td valign="top"><a href="/safetyfirst" onmouseover="changeImages('right_menu_5', '/templates/front/images/right_menu_5_over.gif'); return true;" onmouseout="changeImages('right_menu_5', '/templates/front/images/right_menu_5.gif'); return true;">
+				<img src="/templates/front/images/right_menu_safetyfirst.gif" width="150" height="39" border="0" alt="Safety First: Parents, Teens and Drugs"></a></td>
+		
+	</tr>
+	
+	<tr>
+		<td valign="bottom"><img name="right_menu_7" width="13" height="26" src="/templates/front/images/right_menu_7.gif"></td>
+		<td valign="top"><a href="/drugbydrug" onmouseover="changeImages('right_menu_7', '/templates/front/images/right_menu_7_over.gif'); return true;" onmouseout="changeImages('right_menu_7', '/templates/front/images/right_menu_7.gif'); return true;">
+				<img src="/templates/front/images/right_menu_drugbydrug.gif" width="150" height="26" border="0" alt="Drug By Drug"></a></td>
+		
+	</tr>
+	
+	<tr>
+		<td valign="bottom"><img name="right_menu_9" width="13" height="27" src="/templates/front/images/right_menu_9.gif"></td>
+		<td valign="top"><a href="/statebystate" onmouseover="changeImages('right_menu_9', '/templates/front/images/right_menu_9_over.gif'); return true;" onmouseout="changeImages('right_menu_9', '/templates/front/images/right_menu_9.gif'); return true;">
+				<img src="/templates/front/images/right_menu_statebystate.gif" width="150" height="27" border="0" alt="State By State"></a></td>
+		
+	</tr>
+	
+	<tr>
+		<td valign="bottom"><img name="right_menu_11" width="13" height="38" src="/templates/front/images/right_menu_11.gif"></td>
+		<td valign="top"><a href="/reducingharm" onmouseover="changeImages('right_menu_11', '/templates/front/images/right_menu_11_over.gif'); return true;" onmouseout="changeImages('right_menu_11', '/templates/front/images/right_menu_11.gif'); return true;">
+				<img src="/templates/front/images/right_menu_reducingharm.gif" width="150" height="38" border="0" alt="Reducing Harm: Treatment and Beyond"></a></td>
+		
+	</tr>
+	
+	<tr>
+		<td valign="bottom"><img name="right_menu_13" width="13" height="40" src="/templates/front/images/right_menu_13.gif"></td>
+		<td valign="top"><a href="/law" onmouseover="changeImages('right_menu_13', '/templates/front/images/right_menu_13_over.gif'); return true;" onmouseout="changeImages('right_menu_13', '/templates/front/images/right_menu_13.gif'); return true;">
+				<img src="/templates/front/images/right_menu_law.gif" width="150" height="40" border="0" alt="Drugs, Police &amp; the Law"></a></td>
+		
+	</tr>
+	
+	<tr>
+		<td valign="bottom"><img name="right_menu_15" width="13" height="39" src="/templates/front/images/right_menu_15.gif"></td>
+		<td valign="top"><a href="/communities" onmouseover="changeImages('right_menu_15', '/templates/front/images/right_menu_15_over.gif'); return true;" onmouseout="changeImages('right_menu_15', '/templates/front/images/right_menu_15.gif'); return true;">
+				<img src="/templates/front/images/right_menu_communities.gif" width="150" height="39" border="0" alt="Women, GLBT and Other Communities"></a></td>
+		
+	</tr>
+	
+	<tr>
+		<td valign="bottom"><img name="right_menu_17" width="13" height="26" src="/templates/front/images/right_menu_17.gif"></td>
+		<td valign="top"><a href="/race" onmouseover="changeImages('right_menu_17', '/templates/front/images/right_menu_17_over.gif'); return true;" onmouseout="changeImages('right_menu_17', '/templates/front/images/right_menu_17.gif'); return true;">
+				<img src="/templates/front/images/right_menu_race.gif" width="150" height="26" border="0" alt="Race and the Drug War"></a></td>
+		
+	</tr>
+	
+	<tr>
+		<td valign="bottom"><img name="right_menu_19" width="13" height="41" src="/templates/front/images/right_menu_19.gif"></td>
+		<td valign="top"><a href="/global" onmouseover="changeImages('right_menu_19', '/templates/front/images/right_menu_19_over.gif'); return true;" onmouseout="changeImages('right_menu_19', '/templates/front/images/right_menu_19.gif'); return true;">
+				<img src="/templates/front/images/right_menu_global.gif" width="150" height="41" border="0" alt="Drug Policy Around the World"></a></td>
+		
+	</tr>
+	
+	<tr>
+		<td valign="bottom"><img name="right_menu_21" width="13" height="38" src="/templates/front/images/right_menu_21.gif"></td>
+		<td valign="top"><a href="/library" onmouseover="changeImages('right_menu_21', '/templates/front/images/right_menu_21_over.gif'); return true;" onmouseout="changeImages('right_menu_21', '/templates/front/images/right_menu_21.gif'); return true;">
+				<img src="/templates/front/images/right_menu_library.gif" width="150" height="38" border="0" alt="Publications and Library"></a></td>
+		
+	</tr>
+	
+	  </tbody></table>
+
+	  <table width="163" border="0" cellpadding="0" cellspacing="0">
+	    <tbody><tr>
+		  <td colspan="3"><img src="/templates/front/images/right_column_search.jpg" width="163" height="27" alt="Search the Site"></td>
+		</tr>
+	    <tr>
+		  <td><img src="/templates/front/images/spacer.gif" alt=" " width="11" height="114"></td>
+		  <td colspan="2" valign="top">
+		<br>
+			
+			<table border="0" width="144" cellspacing="0" cellpadding="2">
+			  <tbody><tr><form action="/search/index.cfm"></form>
+				<td><img src="/templates/front/images/forkeywords.gif" alt=" For keywords"><br>
+				  <input type="text" name="criteria" size="15" style="width:140px;">
+				</td>
+			  </tr>
+			  <tr>
+				<td align="right" colspan="2"><input type="image" src="/templates/front/images/button.gif" alt="Search" border="0"></td>
+			  </tr><input type="hidden" name="requestTimeout" value="60">
+			</tbody></table>
+			<br>
+			<a href="/search/search_advanced.cfm" class="small">&gt; Advanced Search</a><br>
+		</td>
+		</tr>
+	    <tr>
+		  <td colspan="3"><img src="/templates/front/images/right_column_newsletter.gif" width="163" height="27" alt="What People are Talking About"></td>
+		</tr>
+	    <tr>
+		  <td colspan="2"><img src="/templates/front/images/spacer.gif" alt=" " width="11" height="95"></td>
+		  <td valign="top">
+		<br>
+			
+			<form name="signupForm" action="http://actioncenter.drugpolicy.org/join/emailsignup.asp" method="POST" onsubmit="return _CF_checksignupForm(this)">
+			<table border="0" width="144" cellspacing="0" cellpadding="2">
+			  <tbody><tr>
+				  <td><img src="/templates/front/images/inside_email.gif" width="57" height="8" alt="Your Email"><br>
+				    
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+
+
+
+	<input type="TEXT" name="email" style="width:140px;" size="15" maxlength="255" value=""> 
+				</td>
+			  </tr>
+			  <tr>
+				<td align="right"><input type="image" src="/templates/front/images/sign_up.gif" width="52" height="22" alt="Sign UP" border="0"></td>
+			  </tr>
+			</tbody></table>
+			<input type="hidden" name="listID" value="1">
+			</form>
+		  </td>
+		</tr>
+	  </tbody></table>
+	</td>
+  </tr>
+  <!--	END VISUAL HEADER AREA-->
+  <tr valign="top"> 
+	<!--	LEFT SIDE COLUMN-->
+	<td valign="top" colspan="2">
+
+
+
+
+	<p>&nbsp;</p>
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+				
+				
+				
+				
+				
+					
+					
+					
+				
+				
+					
+				
+			
+			
+		
+				
+	
+
+<table width="575" border="0" cellspacing="0" cellpadding="0">		
+	
+		
+		
+	<tbody><tr>			
+		
+		<td valign="top">
+				
+			
+			We are committed to protecting your privacy. To make your experience at our Website more convenient, we gather information from you. We maintain the privacy of your information using security technologies and adhere to policies that prevent unauthorized use of your personal information. 
+
+<p><strong>What personal information do we collect, and how is it used?</strong><br>
+We collect information on portions of our website visitors access or visit. We also collect information volunteered by visitors, such as survey information and/or Web site registrations. We keep confidential all personal information entered during registration. When we do collect personally identifiable information, it is always voluntarily submitted by you (e.g., when you fill out registration pages or send us feedback). The information collected is used to send our users email reminders and other information we think will be of interest. If, for any reason, you would like to be removed from our email list, you can unsubscribe by simply visiting the registration section of our website and clicking the unsubscribe button, or you can opt-out of future mailings by simply stating this desire in a reply to any email we send you. We may also monitor and track information such as customer usage patterns of our website. We compile this information into a statistical aggregate which we use, together with your personal information, for internal business and administrative purposes including improving our website, our operations and our client service.</p>
+
+<p><strong>Exchange of Drug Policy Alliance Member Addresses</strong><br>
+Names and postal addresses of current and former members of the Drug Policy Alliance may be rented or exchanged with other organizations or publications under the procedures outlined below. Email addresses, however, will NEVER be shared, traded or otherwise divulged.</p>
+
+<p>Like most other non-profit membership organizations, the Drug Policy Alliance obtains the names of potential new members by renting the membership lists or subscriber lists of like-minded organizations and publications. Lists may also be exchanged with other organizations. Whether by exchange or rental, the lists are protected by strict privacy procedures. All exchanges are made on a ""blind"" basis. Lists are never given into the physical possession of the organization which has rented or exchanged them. This safeguard is necessary to prevent one organization from knowing who the members of any other organization are. Instead, usually through a list broker, the list, either in the form of labels or electronic media, is sent to a mail house which prepares the mailing without the mailing organization ever seeing who is on the rented or exchanged list. The only time an organization gets possession of a name from a rented or exchanged list is when the person receiving the invitation to join responds by sending a reply back to the inviting organization. The Drug Policy Alliance will contractually ensure that vendors involved in this process hold all member addresses in strict confidence and do not offer lists to third parties.</p>
+
+<p>The Drug Policy Alliance will always honor a member's request to be withheld from lists made available for exchange or rental. If you would like to make such a request, please contact the membership department at membership@drugpolicy.org or (212) 613-8046.</p>
+
+<p>We keep confidential any personal information entered during registration, though we may share aggregate information about website usage and traffic patterns, stripped of any personally identifiable information, to third parties to comply with various reporting obligations and for business or marketing purposes. We may also share limited personally identifiable information with third parties on a confidential basis to enable a third party to perform certain tasks, such as maintain an email list or send email alerts and/or newsletters, on our behalf.</p>
+
+<p><strong>Use of Cookies</strong><br>
+Cookies are pieces of information that are stored on your computer and are used for record keeping purposes. We use cookies to make visiting and using our website easier. Cookies can help us see which parts of our website are the most or least popular and provide us direction to improve our customer's online experience.</p>
+
+<p><strong>Links to Other Sites</strong><br>
+This website provides links to several other third party websites. While we make efforts to choose our links carefully, we cannot take any responsibility for the content of linked websites, or for the privacy policies of websites we link to. Since we do not control these websites, we encourage you to review the privacy policies posted on these third party websites prior to any use.</p>
+
+<p><strong>Privacy Policy Changes</strong><br>
+We may amend this privacy policy from time to time. We will post electronic announcements on the website notifying you of any revisions to this Privacy Statement. Please review all revisions to our policy. We maintain the option to change this Privacy Statement at any time by electronic notice posted on our website. Your continued use of our website after the date that such notices are posted will be deemed to be your agreement to the changed terms.</p>
+
+<p>If you have any further questions regarding our privacy practices, please send email to <a href="mailto:webmaster@drugpolicy.org">webmaster@drugpolicy.org</a></p><br><br> 
+			
+		</td>
+		
+	</tr>
+</tbody></table>
+
+
+</td>
+	<!--	LEFT SIDE WHITE SPACE BEFORE CENTER CONTENT AREA-->
+	<!--	RIGHT SIDE WHITE SPACE BEFORE GREY VERTICAL LINE-->
+	<td bgcolor="#FFFFFF"><img src="/templates/front/images/spacer.gif" alt="" width="15" height="800"></td>
+	<!--	THIN GREY VERTICAL LINE-->
+	<td bgcolor="#CCCCCC" width="1"><img src="/templates/front/images/spacer.gif" alt="" width="1" height="800"></td>
+	<!--	START OF RIGHT COLUMN -->
+  </tr>
+  <!--	GOLD FOOTER  ROW-->
+  <tr> 
+	<td colspan="6" bgcolor="#F2BC07" class="footer" valign="middle" height="25" align="center"> 
+	  <table width="720" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr> 
+		  <td> Copyright ©2002 Drug Policy Alliance. All Rights Reserved 
+		  </td>
+		  <td align="right"><a href="mailto:webmaster@drugpolicy.org" class="footer">Contact 
+			Webmaster</a> | <a href="/privacy/" class="footer">Privacy Policy</a> 
+		  </td>
+		</tr>
+	  </tbody></table>
+	</td>
+  </tr>
+  <!--	BOTTOM BLACK ROW-->
+  <tr> 
+	<td colspan="6" bgcolor="#000000"><img src="/templates/front/images/spacer.gif" alt="" width="760" height="8"></td>
+  </tr>
+</tbody></table>
+
+
+
+</body></html>
