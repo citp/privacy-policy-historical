@@ -1,8 +1,40 @@
-> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601203148id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622132642id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
 
 # Privacy Policy
 
-_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+****Free $5.49 Shipping Credit  
+Deducted On Orders Over $75.00!****
+
+[](https://www.scanalert.com/RatingVerify?ref=www.herbalremedies.com)
+
+**100% Satisfaction  
+Guarantee
+
+**Customer Service**  
+[Email us](mailto:information@herbalremedies.com) or  
+Call Toll-Free  
+1-866-467-6444  
+Mon-Fri 10am to 6pm MST
+
+[](https://www.scanalert.com/RatingVerify?ref=www.herbalremedies.com)
+
+[ ](http://www.bbbonline.org/cks.asp?id=101050910263916759)
+
+****Shipping Rates  
+At or Under 1lb**  
+US USPS Priority, $5.49  
+US FedEx Ground $5.99  
+US FedEx 3 Bus days $7.99  
+US FedEx 2 Bus days $9.99  
+US FedEx Overnight $18.99  
+Worldwide FedEx $20.99 - up **
+
+********Free Shipping Credit  
+On Orders Over $75.00!  
+UP TO $5.49 credit  
+deducted at checkout!******| | [](https://web.archive.org/web/20040622132642id_/http%3A//www.herbalremedies.com/index.html)
+
+ _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
 [Home](http://www.herbalremedies.com/) > Privacy / Security / Contact Us >
 
@@ -48,24 +80,24 @@ ___________________________________________
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
 130 West 2nd Street  
 Casper, Wyoming 82601  
-e-mail us at[ info@herbalremedies.com.](mailto:info@herbalremedies.com)   
+e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)   
 Fax us at: (1-307-577-6464) 
-  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 9:30AM to 6:30PM MST). 
+  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 10AM to 6PM MST). 
 
   
 Back to Top  
 ___________________________________________
 
-## Corections/Updates/Removals
+## Corrections/Updates/Removals
 
 This site gives users the following options for changing and modifying information you may have previously provided. 
 
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
 130 West 2nd Street  
 Casper, Wyoming 82601  
-e-mail us at[ info@herbalremedies.com.](mailto:info@herbalremedies.com)   
+e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)   
 Fax us at: (1-307-577-6464) 
-  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 9:30AM to 6:30PM MST) 
+  2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 10AM to 6PM MST) 
 
   
 Back to Top  
@@ -78,7 +110,7 @@ If you have any questions about this privacy statement, the practices of this si
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
 130 West 2nd Street  
 Casper, Wyoming 82601  
-e-mail us at[ info@herbalremedies.com.](mailto:info@herbalremedies.com)   
+e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)   
 Fax us at: 1-307-577-6464 
   2. You can call the following telephone number: In the USA Toll FREE 1-866-467-6444 or World Wide 1-307-577-6444 (Monday - Friday from 10AM to 6PM MST). 
 
@@ -94,31 +126,82 @@ Unless otherwise indicated, the statements contained on the Herbal Remedies USA 
 
 The information on this Web site is designed for educational purposes only. It is not intended to be a substitute for informed medical advice or care. You should not use this information to diagnose or treat any health problems or illnesses without consulting your pediatrician or family doctor. Please consult a doctor with any questions or concerns you might have regarding your or your child's condition.
 
-©2001 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Informational material and representations have been provided by the manufacturers of the listed products. For assistance or to purchase products by phone call TOLL FREE in the USA 1-866-467-6444 or WORLDWIDE 1-307-577-6444 or e-mail us at[ info@herbalremedies.com.](mailto:info@herbalremedies.com)
+©2001,2002,2003,2004 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Informational material and representations have been provided by the manufacturers of the listed products. For assistance or to purchase products by phone call TOLL FREE in the USA 1-866-467-6444 or WORLDWIDE 1-307-577-6444 or e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)
 
-\-- -- -- -- -- -- -- -- -- -- -- -- -- Back to Top \-- -- -- -- -- -- -- -- -- -- -- -- --    
-To Find Something, type in the search box and click "search" or select an item from a "Scrolling Menu" below and click "GO". Results will display below the search box.  
+Back to Top
+
+Type in What You Want or select an item from a "Scrolling Menu" below and click "GO".  
   
+Results will display below search box.   
 | 
 
-|  |  |   
----|---|---|---  
-[Review "CART"/"CHECK OUT"](http://order.store.yahoo.com/cgi-bin/wg-order?herbal-remedies-usa), [ **SALE Herb Teas!**](http://www.herbalremedies.com/formulated-teas.html), Language Translator,   
-[ What's New](http://www.herbalremedies.com/whatsnew.html), [FREE Herbal Discoveries Newsletter](http://order.store.yahoo.com/cgi-bin/wg-request-catalog?herbal-remedies-usa), [ Customer Testimonials!](http://www.herbalremedies.com/tesabourprod.html)
+|   |   
+---|---  
+  
+|   |   
+---|---  
+  
+|   |   
+---|---  
+  
+|   |   
+---|---  
+  
+[Review Cart or Check Out](http://order.store.yahoo.com/cgi-bin/wg-order?herbal-remedies-usa) \- Translate This Site \- [Free Health Newsletter](http://order.store.yahoo.com/cgi-bin/wg-request-catalog?herbal-remedies-usa) \- [ Customer Testimonials!](http://www.herbalremedies.com/tesabourprod.html)
 
-**Shipping Information**   
-US Flat Rate USPS Priority Shipping, 3 - 10 bus. days, $5.49*.   
-US Federal Express Ground W/Tracking #, 3 - 6 bus. days, $5.99*.    
-US Federal Express 3 Bus. days W/Tracking #, $7.99*.   
-US Federal Express 2 Bus. days W/Tracking #, $9.99*.   
-U.S. Federal Express Overnight W/Tracking #, 1 bus. day, $18.99*.   
-[Worldwide Federal Express W/Tracking #, 5 - 7 bus. days, $20.99* ~ up.](http://www.herbalremedies.com/shippolandra.html#4)   
-*Exceptions to Shipping Rates: All U.S. orders over $100 are automatically shipped at a reduced rate and shipped via Federal Express 3 Business day or Ground even if you selected Priority Mail. Orders that weigh over one pound or more than 16 fl. oz. may have an extra shipping charge & may be shipped Federal Express Ground or Priority Mail ONLY. Alaska, Hawaii, and International rates may vary & do not include import fees or customs duties. Shipping Charges for expedited Federal Express delivery which is delayed due to bad weather are NOT refundable.  
-[Click here for full shipping info and rules.](http://www.herbalremedies.com/shippolandra.html)   
-
-
+**Shipping Information:**  
+---  
+Free Shipping Credit on Orders Over $75.00! ($5.49 savings applied at checkout!)  
+Shipping Methods| Shipping Time| Shipping Rates (up to 1 lb.)  
+US USPS Priority Mail(no tracking)   
+US FedEx Ground(with tracking)   
+US FedEx 3 day(with tracking)   
+US FedEx 2 day(with tracking)   
+U.S. FedEx Overnight(with tracking)   
+Worldwide FedEx (with tracking) |  3 - 10 bus. days   
+3 - 6 bus. days   
+3 bus. days   
+2 bus. days   
+1 bus. day   
+5 - 7 bus. days |  $5.49*   
+$5.99*   
+$7.99*   
+$9.99*   
+$18.99*   
+$20.99+*  
+* Exceptions to Shipping Rates:  
+* Flat Rate shipping prices are for orders up to 1 lb./16 fl.oz. You WILL SEE EXACT shipping charges "before" you checkout.  
+* Orders over $75 are shipped at a reduced rate ($5.49 credit) and may be shipped via FedEx service even if you selected Priority Mail.  
+* Alaska, Hawaii and International rates vary & **International Rates Please Note: All prices are in USA funds and do not include local duties, taxes and other import fees.**  
+* Shipping charges for expedited Federal Express delivery which is delayed due to bad weather are NOT refundable.  
+*[Click here for full shipping info and rules.](http://www.herbalremedies.com/shippolandra.html)  
+  
 To "Order" by phone call toll free in the USA 1-866-467-6444 or World Wide 1-307-577-6444.  
-For other assistance e-mail us at [info@herbalremedies.com](mailto:info@herbalremedies.com).  VISA * MASTERCARD * DISCOVER CARD * AMERICAN EXPRESS * OPTIMA * PAYPAL * YAHOO PAYDIRECT * WESTERN UNION * MONEY ORDERS * CASHIERS CHECKS * PERSONAL CHECKS  
-* The statements regarding these products have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. The information on this Web site or in emails is designed for educational purposes only. It is not intended to be a substitute for informed medical advice or care. You should not use this information to diagnose or treat any health problems or illnesses without consulting your pediatrician or family doctor. Please consult a doctor with any questions or concerns you might have regarding your or your child's condition. Informational material and representations have been provided by the manufacturers of the listed products. [Disclaimer](http://www.herbalremedies.com/privacypolicy.html#7) , [Privacy Policy](http://www.herbalremedies.com/privacypolicy.html#1) , [Yahoo & Verisign SSL Security](http://www.herbalremedies.com/privacypolicy.html#2) , [About Us](http://www.herbalremedies.com/info.html) , [Payment , Shipping , Returns](http://www.herbalremedies.com/shippolandra.html) , [Contact Information](http://www.herbalremedies.com/privacypolicy.html#4)
+For other Assistance or Questions please E-mail us at [information@herbalremedies.com](mailto:information@herbalremedies.com).  
+Due to the volume of email received, we usually reply within 24 to 48 hours. 
 
-©2001, 2002, 2003 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Reproduction or reuse of information or materials from this web site is strictly prohibited and against U.S. and international law. 
+[ ](http://www.bbbonline.org/cks.asp?id=101050910263916759) |  |  [ ](https://www.paypal.com/affil/pal=info%40herbalremedies.com) |  [ ](http://stores.search.shopping.yahoo.com/search/store?p=herbal-remedies-usa)  
+---|---|---|---  
+  
+VISA * MASTERCARD * DISCOVER CARD * AMERICAN EXPRESS * OPTIMA * [PAYPAL](https://www.paypal.com/affil/pal=info%40herbalremedies.com) * YAHOO PAYDIRECT * WESTERN UNION * MONEY ORDERS * CASHIERS CHECKS * PERSONAL CHECKS  
+* The statements regarding these products have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. The information on this Web site or in emails is designed for educational purposes only. It is not intended to be a substitute for informed medical advice or care. You should not use this information to diagnose or treat any health problems or illnesses without consulting your pediatrician or family doctor. Please consult a doctor with any questions or concerns you might have regarding you or your child's condition. Informational material and representations have been provided by the manufacturers of the listed products. [Disclaimer](http://www.herbalremedies.com/privacypolicy.html#7) , [Privacy Policy](http://www.herbalremedies.com/privacypolicy.html#1) , [Yahoo & Verisign SSL Security](http://www.herbalremedies.com/privacypolicy.html#2) , [About Us](http://www.herbalremedies.com/info.html) , [Payment , Shipping , Returns](http://www.herbalremedies.com/shippolandra.html) , [Contact Information](http://www.herbalremedies.com/privacypolicy.html#4)
+
+  
+©2001, 2002, 2003, 2004 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Reproduction or reuse of information or materials from this web site is strictly prohibited and against U.S. and international law.   
+
+
+Select a Language below to translate this site:  
+  
+  
+
+
+[Diet & Weight Loss](http://herbalremedies.com/losthatweigf.html) \- [Cosmetics](http://herbalremedies.com/lavcos.html) \- [Lotions](http://herbalremedies.com/skinfacclean.html) \- [Herbs](http://herbalremedies.com/hersinforchi.html) \- [Vitamins](http://herbalremedies.com/vitamins.html) \- [Minerals](http://herbalremedies.com/miracle-waters.html) \- [Herbal Tea](http://herbalremedies.com/hertonel.html) \- [Aromatherapy](http://herbalremedies.com/precar.html) \- [Essential Oils](http://herbalremedies.com/essentialoils.html) \- [Health Books](http://herbalremedies.com/booknatheal.html)
+
+Back to Top
+
+Some Partner sites:
+
+  * [Magnetic Therapy Magnets & Magnetic Bracelets](http://www.magnetictherapymagnets.com/)
+  * [Drug Testing & Drug Detox Products](http://www.drug-testing-solutions.net/)
+
+
