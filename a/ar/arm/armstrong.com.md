@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201232633id_/http%3A//www.armstrong.com/corporatena/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armstrong.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601134230id_/http%3A//www.armstrong.com/corporatena/privacy.jsp) for the most accurate reproduction.*
 
-# Corporate
+# Armstrong
 
-**ARMSTRONG ONLINE PRIVACY POLICY  
-**   
 Armstrong World Industries, Inc. ("Armstrong") strives to achieve the highest standards of integrity for every online visitor. When you register at the Armstrong Web site, we aim to respect your privacy. This Privacy Policy sets forth how we handle information we obtain from you and learn about you when you visit our Web site, including: 
 
   * The information we collect;
@@ -13,7 +11,7 @@ Armstrong World Industries, Inc. ("Armstrong") strives to achieve the highest st
 
 
 
-If you have any questions or comments about Armstrong's Privacy Policy, please contact us [here](https://web.archive.org/web/20011201232633id_/http%3A//www.armstrong.com/corporatena/contact_us.jsp). ** _
+If you have any questions or comments about Armstrong's Privacy Policy, please contact us [here](https://web.archive.org/web/20020601134230id_/http%3A//www.armstrong.com/corporatena/contact_us.jsp). ** _
 
 NOTICE: Information We Collect and How We Use It
 
@@ -21,7 +19,7 @@ _** Armstrong collects two types of information about you when you visit our sit
 
 **_
 
-1\. Personally-Identifiable Information – What We Collect
+1\. Personally-Identifiable Information - What We Collect
 
 _**
 
@@ -89,7 +87,7 @@ Cookies
 
 _
 
-At certain points in your visit to the Armstrong site, our server may send a "cookie" file to your computer. Your Web browser may prompt you to accept this file unless you have set your browser preferences to accept all cookies automatically. Cookies are employed primarily as a service to our customers, to extend the relevance and responsiveness of the Armstrong site. We may link cookie information with any personally-identifiable information you provide us. Cookie files are discarded at the end of each session on our site. _
+At certain points in your visit to the Armstrong site, our server may send a "cookie" file to your computer. Your Web browser may prompt you to accept this file unless you have set your browser preferences to accept all cookies automatically. Cookies are employed primarily as a service to our customers, to extend the relevance and responsiveness of the Armstrong site. We may link cookie information with any personally-identifiable information you provide us. _
 
 Other Non-Personally-Identifiable Information
 
@@ -163,7 +161,7 @@ ACCESS
 
 _**
 
-You may request to see personally-identifiable information that we have collected about you via the Internet to update it or to have factual inaccuracies corrected by clicking [here](https://web.archive.org/web/20011201232633id_/http%3A//www.armstrong.com/membership/edit_profile.jsp).
+You may request to see personally-identifiable information that we have collected about you via the Internet to update it or to have factual inaccuracies corrected by clicking [here](https://web.archive.org/web/20020601134230id_/http%3A//www.armstrong.com/membership/edit_profile.jsp).
 
 **_
 
