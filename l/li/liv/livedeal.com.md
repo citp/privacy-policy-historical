@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livedeal.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603034608id_/http%3A//www.livedeal.com/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedeal.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208122626id_/http%3A//www.livedeal.com/about/privacy.jsp) for the most accurate reproduction.*
 
 # LiveDeal.com >> About >> Privacy Policy
 
@@ -15,7 +15,7 @@ By your use of the LiveDeal web site, you expressly consent to our disclosure an
 
 We reserve the right to modify this Privacy Policy at any time, and will notify you of any such changes by posting a notice on the "General Announcements" section of the Community page of our web site. In addition, we may notify you directly (via email) of such changes.
 
-We last updated our Privacy Policy on Mar 23, 2004.
+We last updated our Privacy Policy on June 9, 2004.
 
 1\. A Special Note About Children
 
@@ -27,11 +27,11 @@ LiveDeal collects personal information from our users at several different point
 
 When you register, we ask for information such as your name, address, telephone number, email address, city, state and zip code. We may also ask you for credit card information to enable us to bill you fees for our services. Once you register with LiveDeal and login to our services, you are not anonymous to us. However, you can browse our web site without telling us who you are or revealing personal information about yourself.
 
-When you wish to contact a seller regarding an item listed on our web site, we ask you for your email address and you may also volunteer to provide your telephone number. In addition, each member may provide information about the buyers with whom they deal (including the email address, and feedback regarding the other member's  performance during the transaction).  Finally, we may also collect the Internet Protocol (IP) address and other information regarding transactions in which you participate (either as a buyer or seller) through our web site.
+When you wish to contact a seller regarding an item listed on our web site, we ask you for your email address and you may also volunteer to provide your telephone number. In addition, each member may provide information about the buyers with whom they deal (including the email address, and feedback regarding the other member's performance during the transaction). Finally, we may also collect the Internet Protocol (IP) address and other information regarding transactions in which you participate (either as a buyer or seller) through our web site.
+
+If you elect to use our referral service to inform a friend about our web site, we ask you for the friend's name and email address. We will automatically send the friend an email inviting him or her to visit our web site.
 
 We use the information that we collect to improve product offerings, fulfill your requests, bill you for services, customize the web site's content and layout, develop feedback ratings, contact you, and for marketing activities and statistical analysis.
-
-If you elect to use our referral service to inform a friend about our web site, we ask you for the friend's name and email address. We will automatically send the friend a one-time email inviting him or her to visit our web site. We store this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
 LiveDeal automatically receives and records information on our server logs from your browser, including your IP address, LiveDeal cookies information, and the page you request. Our collection and use of such information is further described below.
 
@@ -66,7 +66,7 @@ Like most standard web site servers, we use log files. This includes internet pr
 
 You can edit your LiveDeal account information by going to the My LiveDeal page. There, you may also opt-out of receiving marketing or promotional-related emails. However, we reserve the right to send you certain communications relating to the LiveDeal web site, such as service announcements and administrative messages, without offering you the opportunity to opt-out of receiving them. Occasionally, we will send you emails about new services or promotions.
 
-Upon your request, we will deactivate your account, contact information, billing information and any financial information from our active databases. To make this request, email [privacy@livedeal.com](mailto:privacy@livedeal.com). Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our User Agreement and applicable law.
+Upon your request, we will deactivate your account, contact information, billing information and any financial information from our active databases. To make this request, email [](mailto:privacy@livedeal.com). Such information will be deactivated as soon as reasonably possible based on your account activity and in accordance with our User Agreement and applicable law.
 
 We will retain in our files some personal information you have requested to edit or remove to prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our User Agreement and comply with legal requirements as is permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your requests. However, such personal information will be deactivated from public and user viewing and will only be available to select LiveDeal personnel for the limited purposes described above.
 
@@ -89,5 +89,5 @@ Customer Care - Privacy Policy Issues
 953 Industrial Avenue, Suite 125  
 Palo Alto, California 94303  
 (650) 320-9070  
-[privacy@livedeal.com](mailto:privacy@livedeal.com)  
+[](mailto:privacy@livedeal.com)  
 [http://www.livedeal.com](http://www.livedeal.com/index.jsp)
