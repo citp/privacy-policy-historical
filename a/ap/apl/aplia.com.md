@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214141014id_/http%3A//www.aplia.com/support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220000211id_/http%3A//www.aplia.com/support/privacy.jsp) for the most accurate reproduction.*
 
 # Aplia: Privacy Notice
 
@@ -16,6 +16,8 @@ You are required to register with us before you can gain access to the course se
 
 When you purchase a product or service, we collect your contact information (such as your address) and financial information (such as your credit/debit card information). We use the information you provide only to complete that product order or fulfill the service. We do not share this information with unaffiliated parties except to the extent necessary to complete that transaction. If we have trouble processing an order, we use the information to contact you. 
 
+When you enroll in a course, we may ask you to provide your student identification number for that course. We only ask for your student ID when your teacher has instructed us to do so. You have the option to not provide your student ID; however, not providing it may affect your teacher’s ability to determine your grades. 
+
 Why We Need Your Personal Information  
 Your personal information is used only for the following purposes: 
 
@@ -24,7 +26,7 @@ Your personal information is used only for the following purposes:
   * Your email address may be used to send you your password if you forget it. 
   * Your email address may be used to contact you about site and service announcement updates. You are not able to unsubscribe from service announcements, which contain important information about the service. 
   * The contact and financial information you provide when you purchase a product or service will be used to complete that product order or fulfill the service.
-  * If you are a student, all of your personal information, except for financial information such as your credit card number, will be provided to your instructor for administrative purposes. Generally, your instructor will use the information for grading and may use your email address to notify you of course issues. Please contact your instructor directly for any further questions relating to use of your personal information.
+  * All of your personal information will be provided to your Educator for his/her administrative purposes. Generally he/she will use the information for grading and may use your email address to notify you of course issues. Please contact your Educator directly for any further questions relating to his/her use of your personal information. 
 
   
 Anonymous Information  
@@ -49,7 +51,7 @@ Aplia Employees
 At Aplia, any employee access to personally identifiable information is authorized for business purposes only and is based on the sensitivity of the information and our employees' or agents' need to know. We remind employees regularly of their responsibility for using personally identifiable information. Disregard of this responsibility will result in disciplinary action, including termination in appropriate cases. 
 
 Children Under 13  
-We have no way of distinguishing the age of individuals who access our website, and so we carry out the same privacy policy for individuals of all ages. If a child has provided us with personally identifying information without parental or guardian consent, the parent or guardian should contact us to remove the information. 
+We have no way of distinguishing the age of individuals who access our website, and so we carry out the same privacy policy for individuals of all ages. If a child has provided us with personally-identifying information without parental or guardian consent, the parent or guardian should contact us to remove the information. 
 
 Accuracy and Right to Correct  
 We continually strive to maintain complete and accurate information about you. To assist in maintaining this accuracy we provide you with a way to review and update your personal information. Should you ever believe that our records contain inaccurate or incomplete information about you, please notify us. We will use reasonable efforts to investigate your concerns and correct any inaccuracies. To attempt to protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
