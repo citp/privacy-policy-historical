@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torrid.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622123952id_/http%3A//www.torrid.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torrid.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002235924id_/http%3A//www.torrid.com/services/Privacy.asp%3FLS%3D0%26) for the most accurate reproduction.*
 
 # Torrid Privacy Policy
 
@@ -40,7 +40,7 @@ On-Line Parental Consent
 City of Industry, CA 91748   
 (626) 839-4686 Fax 
 
-[Consent form](https://web.archive.org/web/20030622123952id_/http%3A//www.torrid.com/services/parentalconsent.pdf)
+[Consent form](https://web.archive.org/web/20031002235924id_/http%3A//www.torrid.com/services/parentalconsent.pdf)
 
 **
 
