@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnoldclark.co.uk privacy policy that was archived on 2001-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011004213749id_/http%3A//www.arnoldclark.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnoldclark.co.uk privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603123429id_/http%3A//www.arnoldclark.com/privacy.htm) for the most accurate reproduction.*
 
 # Arnold Clark Automobiles Privacy Statement
 
@@ -10,7 +10,7 @@
   * When you enter one of our competitions, we require your name, e-mail address and day time telephone number so we can contact the winner. Some competitions are age restricted and we may ask for your Date of Birth.
   * We monitor visitor usage patterns to help us continually improve the site.
   * We may track what type of vehicles you view so that we can make suggestions and personalise site content.
-  * Occasionally, we may use your e-mail address to send you information about changes to this website or to inform you of new products available from companies within the Arnold Clark Organisation. If you do not wish to receive this information, please send a blank e-mail to [neveremail@arnoldclark.co.uk](mailto:neveremail@arnoldclark.co.uk)
+  * Occasionally, we may use your e-mail address to send you information about changes to this website or to inform you of new products available from companies within the Arnold Clark Organisation. If you do not wish to receive this information, please send a blank e-mail to [_neveremail@arnoldclark.co.uk_](mailto:neveremail@arnoldclark.co.uk)
 
   
 **Cookies?**  
