@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408054156id_/http%3A//www.support.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218105743id_/http%3A//support.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Support.com Legal Information
 
