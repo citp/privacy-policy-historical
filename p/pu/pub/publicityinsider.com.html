@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the publicityinsider.com privacy policy that was archived on 2003-10-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031004164521id_/http%3A//www.publicityinsider.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the publicityinsider.com privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606213641id_/http%3A//publicityinsider.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy Statement, Publicity Insider - Publicity Secrets for Savvy
@@ -42,8 +42,9 @@ Businesses &amp; Entrepreneurs</title>
 </style>
 
 
-<script language="Javascript1.2" src="javascript/exitpopup.js" type="text/javascript"></script>
-<script language="Javascript1.2" src="javascript/toppagescripts.js" type="text/javascript"></script>
+<script language="Javascript1.2" src="/javascript/exitpopup.js" type="text/javascript"></script>
+<script language="Javascript1.2" src="/javascript/toppagescripts.js" type="text/javascript"></script>
+<script language="Javascript" src="/javascript/hover.js"></script>
 <script language="JavaScript1.2" type="text/javascript">
 <!--
 
@@ -68,69 +69,86 @@ function cm_bwcheck(){
 }
 var bw=new cm_bwcheck()
                  
-function submitform() {
+function submitform(myform) {
 
-	if (bw.ns4) {
-	    em=document.topicaform.email.value;
-  	} else {
-    	em=document.topicaform.email.value;
-	}
-	if (emailCheck (document.topicaform.email.value)) {
-		document.topicaform.onsubmit="";
-		document.topicaform.action="http://www.topica.com/remote/";
-		document.topicaform.submit ();
-//		document.topicaform.email.value="";
+//	if (bw.ns4) {
+//	    em=myform.email.value;
+//  	} else {
+//    	em=myform.email.value;
+//	}
+	if (emailCheck (myform.email.value)) {
+		nextpage="http://www.publicityinsider.com/freesecret.asp";
+		myform.onsubmit="";
+		myform.action="http://www.topica.com/remote/";
+		myform.submit ();
 
 	}
-	else return;
+	else return(false);
+}
+
+function minisubcheck1() {
+var emailField;
+
+   	emailField=document.bodySubscribe1.email.value;
+
+	if (emailCheck (emailField)) {
+		if (emailField=='') {
+			alert ('You must enter your first name!')
+			return (false);
+		} else
+			return(true);
+		
+	}
+	else return(false);
+
 }
 
 function writetable() {
 
-if (bw.ns4) {
-	document.writeln('<form action="http://www.topica.com/remote/" method="POST" name="topicaform">');
-	document.writeln('<INPUT TYPE="hidden" NAME="lists" VALUE="publicityinsider@topica.email-publisher.com">');
-	document.writeln('<INPUT TYPE="hidden" NAME="type" VALUE="TEXT">');
-	document.writeln('<input type="HIDDEN" name="td" value="1">');
-	document.writeln('<table border="0" width="190" height="100" cellspacing="0" cellpadding="1" bgcolor="#E8E5Ba">');
-	document.writeln('<tr><td valign="center">');
-	document.writeln('<table width="188" height="95" bgcolor="white" align="center">');
-} else {
-	document.writeln('<form action="http://www.topica.com/remote/" method="POST" name="topicaform">');
-	document.writeln('<INPUT TYPE="hidden" NAME="lists" VALUE="publicityinsider@topica.email-publisher.com">');
-	document.writeln('<INPUT TYPE="hidden" NAME="type" VALUE="TEXT">');
-	document.writeln('<input type="HIDDEN" name="td" value="1">');
+  if (bw.ns4) {
+  		document.writeln('<form action="http://www.topica.com/remote/" method="POST" name="topicaform" onSubmit="return submitform(this)">');
+  		document.writeln('<INPUT TYPE="hidden" NAME="lists" VALUE="publicityinsider@topica.email-publisher.com">');
+  	document.writeln('<INPUT TYPE="hidden" NAME="type" VALUE="TEXT">');
+  	document.writeln('<input type="HIDDEN" name="td" value="1">');
+  		document.writeln('<table border="0" width="190" height="100" cellspacing="0" cellpadding="1" bgcolor="#E8E5Ba">');
+  	document.writeln('<tr><td valign="center">');
+  	document.writeln('<table width="188" height="95" bgcolor="white" align="center">');
+  } else {
+  		document.writeln('<form action="http://www.topica.com/remote/" method="POST" name="topicaform"  onSubmit="return submitform(this)">');
+  		document.writeln('<INPUT TYPE="hidden" NAME="lists" VALUE="publicityinsider@topica.email-publisher.com">');
+  	document.writeln('<INPUT TYPE="hidden" NAME="type" VALUE="TEXT">');
+  	document.writeln('<input type="HIDDEN" name="td" value="1">');
+  		document.writeln('<table border="3" bordercolor="#E8E5BA" width="190" height="100" cellspacing="0" cellpadding="0">');
+  }
+  
+  document.writeln('  <tr>');
+  document.writeln('    <td>');
+  document.writeln('	<p align="center">');
+  if (bw.ns4) {
+  	document.writeln('	<font style="font-size:12px;">');
+  } else {
+  	document.writeln('	<font class="tiny">');
+  }
+  	document.writeln('Breaking news, cool tips, great resources...sign up for our free Publicity Insider Update e-zine!!<br>');
+  document.writeln('    </font>');
+  	document.writeln('<INPUT TYPE="hidden" NAME="redirect" VALUE="http://www.publicityinsider.com/ConfirmSubscription.asp">');
 
-	document.writeln('<table border="3" bordercolor="#E8E5BA" width="190" height="100" cellspacing="0" cellpadding="0">');
-}
-	document.writeln('  <tr>');
-	document.writeln('    <td>');
-	document.writeln('	<p align="center">');
-if (bw.ns4) {
-	document.writeln('	<font style="font-size:12px;">');
-} else {
-	document.writeln('	<font class="tiny">');
-}
-	document.writeln('Breaking news, cool tips, great resources...sign up for our free Publicity Insider Update e-zine!!<br>');
-	document.writeln('    </font>');
-	document.writeln('<INPUT TYPE="hidden" NAME="redirect" VALUE="http://www.publicityinsider.com/ConfirmSubscription.asp">');
-
-if (bw.ns4) {
-	document.writeln('<center><input type="TEXT" name="email" size="15" CLASS="textInput"><br>')
-	document.writeln('<input type="submit" onclick="nextpage=555" value="Subscribe now!" name="Submit"></center>');
-} else {
-	document.writeln('         <input type="TEXT" name="email" size="25" CLASS="textInput"><br>');
-	document.writeln('      <input class="subscribeButton" onClick="nextpage=555;return submitform();" type="button" value="Subscribe now!" name="Submit">');
-}
-	document.writeln('    </p></td>');
-	document.writeln('  </tr>');
-if (bw.ns4) {
+  if (bw.ns4) {
+	  	document.writeln('<center><input type="TEXT" name="email" size="15" CLASS="textInput"><br>')
+	  	document.writeln('<input type="submit" onclick="nextpage=555" value="Subscribe now!" name="Submit"></center>');
+  } else {
+	  	document.writeln('         <input type="TEXT" name="email" size="25" CLASS="textInput"><br>');
+	  	document.writeln('      <input class="subscribeButton" onClick="nextpage=555;" type="submit" value="Subscribe now!" name="Submit">');
+  }
+  document.writeln('    </p></td>');
+  document.writeln('  </tr>');
+  if (bw.ns4) {
     document.writeln('</table></td></tr>');
-}
-	document.writeln('</table>');
-	document.writeln('</form>');
-}
+  }
+  document.writeln('</table>');
+  document.writeln('</form>');
 
+}
 
 if (document.layers) {
   document.write ('<LAYER TOP="10" LEFT="560">');
@@ -143,7 +161,7 @@ if (document.layers) {
 }
 
 // -->
-</script><div style="position:absolute; top:10; left:560"><form action="http://www.topica.com/remote/" method="POST" name="topicaform">
+</script><div style="position:absolute; top:10; left:560"><form action="http://www.topica.com/remote/" method="POST" name="topicaform" onsubmit="return submitform(this)">
 <input type="hidden" name="lists" value="publicityinsider@topica.email-publisher.com">
 <input type="hidden" name="type" value="TEXT">
 <input type="HIDDEN" name="td" value="1">
@@ -156,7 +174,7 @@ Breaking news, cool tips, great resources...sign up for our free Publicity Insid
     </font>
 <input type="hidden" name="redirect" value="http://www.publicityinsider.com/ConfirmSubscription.asp">
          <input type="TEXT" name="email" size="25" class="textInput"><br>
-      <input class="subscribeButton" onclick="nextpage=555;return submitform();" type="button" value="Subscribe now!" name="Submit">
+      <input class="subscribeButton" onclick="nextpage=555;" type="submit" value="Subscribe now!" name="Submit">
     </p></td>
   </tr>
 </tbody></table>
@@ -214,6 +232,9 @@ Breaking news, cool tips, great resources...sign up for our free Publicity Insid
             <img src="images/Mainlogo_10.jpg" border="0" width="181" height="30"></a></td>
 	</tr>
 </tbody></table>
+
+
+
 <div style="position:absolute">
 <table border="0" cellpadding="0" cellspacing="0" bordercolor="#111111" width="228" id="AutoNumber1" bgcolor="#E8E5BA">
 <tbody><tr>
@@ -233,7 +254,7 @@ Breaking news, cool tips, great resources...sign up for our free Publicity Insid
 
 <tr>
 <td colspan="1" bgcolor="#FFFFFF" background="images/leftbar-bottomimage2.gif" height="100" valign="top">
-<br><img border="0" src="MessageBoard/images/blank.gif" width="24" height="13"><font color="#ff0000"><a class="tinynav" onclick="nextpage=this.href" href="https://secure-nt7.american-data.net/publicityinsider/OrderPage.asp">Try Free Publicity Risk-Free!</a></font><br>
+<br><img border="0" src="MessageBoard/images/blank.gif" width="24" height="13"><font color="#ff0000"><a class="tinynav" onclick="nextpage=this.href" href="https://www.PublicityInsider.com/OrderPage.asp">Try Free Publicity Risk-Free!</a></font><br>
 <br><img border="0" src="MessageBoard/images/blank.gif" width="24" height="13"><a class="nav" href="mailto:info@publicityinsider.com">E-mail the Publicity Insider</a></td>
 </tr></tbody></table>
 </div>
@@ -399,7 +420,7 @@ a:visited.links { font-family: Veranda, Arial, Sans-Serif, Helvetica; font-size:
 		document.writeln("<a onclick='nextpage=this.href' class='links' href='index.asp'><img src='images/home.jpg' border='0' alt='Home' width='82' height='30'></a><br><BR>");
 </script><a onclick="nextpage=this.href" class="links" href="index.asp"><img src="images/home.jpg" border="0" alt="Home" width="82" height="30"></a><br><br>
 
-<a onclick="nextpage=this.href" title="Your first step to public relations, publicity and press release success" href="https://secure-nt7.american-data.net/publicityinsider/OrderPage.asp">Free Publicity, The Newsletter For PR Hungry Businesses: Secure Order Page</a> <br>
+<a onclick="nextpage=this.href" title="Your first step to public relations, publicity and press release success" href="https://www.PublicityInsider.com/OrderPage.asp">Free Publicity, The Newsletter For PR Hungry Businesses: Secure Order Page</a> <br>
 <hr size="1" width="75%">
 <a onclick="nextpage=this.href" class="links" title="Your first step to public relations, publicity and press release success" href="first.asp">Your First Step To Success...</a> | <a onclick="nextpage=this.href" class="links" title="In order to learn about PR, publicity and how to write a press release, you must ask the Publicity Insider these 4 questions..." href="questions.asp">The Four Questions You Need To Ask Me</a> 
 | <a onclick="nextpage=this.href" class="links" title="What is the ultimate secret to getting valuable publicity and public relations for your business?  Click here." href="freesecret.asp">Free Report: Insider Secret</a><br>
@@ -409,8 +430,10 @@ a:visited.links { font-family: Veranda, Arial, Sans-Serif, Helvetica; font-size:
 <a onclick="nextpage=this.href" class="links" title="Publicity Insider's Public Relations Bookstore - Key Books for PR Hungry Businesses" href="books.asp">Bill's Must Have Books</a> | <a onclick="nextpage=this.href" class="links" title="Your guide to the best online publicity resources covering all aspects of PR and writing a press release" href="PRlinks.asp">Bill's Hand-Picked Publicity Links</a> | <a onclick="nextpage=this.href" class="links" title="Download Your Free Sample Copy of Free Publicity - The Newsletter for PR Hungry Businesses" href="freepub.asp">Sample Copy Of Free Publicity</a><br>
 
 <hr size="1" width="75%">
-<b><script language="javascript">writeFormattedDate();</script>February 19, 2020
-</b><br><br>
+<!--
+<b><script language="javascript">writeFormattedDate();</script></b>
+-->
+<br><br>
 <table border="1" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="630" id="AutoNumber1" bgcolor="#3366CC">
   <tbody><tr>
     <td>
@@ -421,7 +444,7 @@ a:visited.links { font-family: Veranda, Arial, Sans-Serif, Helvetica; font-size:
     Subscriptions@PublicityInsider.com</font></a><font color="#FFFFFF">&nbsp;
     <br>
     or go to the secure online order form by clicking </font>
-    <a onclick="nextpage=this.href" href="https://secure-nt7.american-data.net/publicityinsider/OrderPage.asp">
+    <a onclick="nextpage=this.href" href="https://www.PublicityInsider.com/OrderPage.asp">
     <font color="#FFFFFF">here</font></a><font color="#FFFFFF">.</font></p></td>
   </tr>
 </tbody></table>
@@ -430,7 +453,7 @@ a:visited.links { font-family: Veranda, Arial, Sans-Serif, Helvetica; font-size:
 <a onclick="nextpage=this.href" href="recommend.asp">Recommend This Page To A Friend</a> | <a onclick="nextpage=this.href" href="Link2Us.asp">Link To 
 Publicity Insider !</a><br><br>
 <a onclick="nextpage=this.href" class="links" title="Publicity Insider privacy statement" href="privacy.asp">Privacy Statement</a> | <a onclick="nextpage=this.href" class="links" title="Publicity Insider disclaimer/copyright" href="disclaimer.asp">Disclaimer/Copyright
-2003</a>
+2004</a>
 <br>
 Stoller and Bard Communications<br>6 Horizon Road - Suite 1705<br>Fort Lee, NJ 07024<br><br><font class="tiny">Site Design &amp; Programming
 <a onclick="nextpage=this.href" href="affiliate.htm?target=http://www.6footmedia.com" class="links" target="_blank">6footmedia</a></font>
