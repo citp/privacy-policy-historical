@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202020133id_/http%3A//www.asdk12.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdk12.org privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401143356id_/http%3A//www.asdk12.org/privacy.asp) for the most accurate reproduction.*
 
 # Anchorage School District General Information
 
 Information Collected and How it is Used | Personal Information |  How Personal Information is Used |  Rules for Sending Comments | Security | Cookies | Notification of Changes | Links | Contact Us | Definitions
 
-#### [PDF version](https://web.archive.org/web/20031202020133id_/http%3A//www.asdk12.org/privacy.pdf) [ ](http://www.adobe.com/products/acrobat/readstep.html) | [Text version](https://web.archive.org/web/20031202020133id_/http%3A//www.asdk12.org/privacy.txt)
+#### [PDF version](https://web.archive.org/web/20040401143356id_/http%3A//www.asdk12.org/privacy.pdf) [ ](http://www.adobe.com/products/acrobat/readstep.html) | [Text version](https://web.archive.org/web/20040401143356id_/http%3A//www.asdk12.org/privacy.txt)
 
 ## Information Collected and How it is Used
 
@@ -110,7 +110,7 @@ back to top
 > 
 > The Anchorage School District standard for e-mail addresses is lastname_firstname@asdk12.org. If you need assistance, please contact the Webmaster at [webmaster@asdk12.org](mailto:webmaster@asdk12.org).
 >
->> **_  Please note: _**Anchorage School District e-mail is a tool for business and school communication.  Public users are responsible for using this resource in an efficient, effective, ethical and lawful manner. All e-mails sent to the Anchorage School District should follow the same code of conduct expected in any other form of written communication or face-to-face business and school communication.  Please limit your e-mail to official school business.  Failure to follow these guidelines may result in the loss of access to Anchorage School District e-mail accounts. 
+>> **_Please note:_** Anchorage School District e-mail is a tool for business and school communication.  Public users are responsible for using this resource in an efficient, effective, ethical and lawful manner. All e-mails sent to the Anchorage School District should follow the same code of conduct expected in any other form of written communication or face-to-face business and school communication.  Please limit your e-mail to official school business.  Failure to follow these guidelines may result in the loss of access to Anchorage School District e-mail accounts. 
 > 
 > To offer comments about the web site or about the information presented in this privacy statement:
 >
