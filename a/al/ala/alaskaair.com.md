@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207034600id_/http%3A//www2.alaskaair.com/help/site/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2001-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010623225748id_/http%3A//www2.alaskaair.com/help/site/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Alaska Airlines and Horizon Air Privacy Policy
 
-  
 **Privacy Policy**
 
 Alaska Airlines and Horizon Air value you as a customer, and we respect your right to online privacy while using our web site. Our Privacy Policy is shared with you because we are committed to protecting your privacy while using our site. Our Privacy Policy contains information about the following:
@@ -47,7 +46,7 @@ Your personal information may be used to direct specific offers to you while usi
 
 **Cookies**
 
-The Alaska Airlines/Horizon Air Web site will in certain situations use [cookies](https://web.archive.org/web/20001207034600id_/http%3A//www2.alaskaair.com/help/site/Cookies.asp) to help you obtain information you have requested.
+The Alaska Airlines/Horizon Air Web site will in certain situations use [cookies](https://web.archive.org/web/20010623225748id_/http%3A//www2.alaskaair.com/help/site/Cookies.asp) to help you obtain information you have requested.
 
 **Your Responsibility Regarding the Use of our Site**
 
@@ -59,4 +58,5 @@ If you should have questions about our policy, or need further assistance, pleas
 
 1-877-502-5357
 
-, or send us an [email](http://www2.alaskaair.com/help/contacts/ContactUsForm.asp?mailtoName=Help%20Desk&mailtoEmail=Support@Alaskaair.com).
+, or send us an [email](http://www2.alaskaair.com/help/contacts/ContactUsForm.asp?mailtoName=Help%20Desk&mailtoEmail=Support@Alaskaair.com).   
+ 
