@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217233753id_/http%3A//primarygames.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primarygames.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602144737id_/http%3A//www.primarygames.com/privacy.htm) for the most accurate reproduction.*
 
 # PrimaryGames.com - Privacy Statement
 
@@ -39,7 +39,16 @@ We care about children and understand that they have special privacy needs. Ther
 
 This site gives users the opportunity to subscribe to our mailing list.  The mailing list is used to tell users about new additions to our site and to inform users of products they may find interesting.  The mailing list is opt-in only.  Our site provides users the opportunity to opt-out of receiving promotional/marketing information from our partners, and us .
 
-  1. You can send email to [unsubscribe@primarygames.com](mailto:unsubscribe@primarygames.com)
+  1. You can send email to [listmanager@burstmail.com](mailto:listmanager@burstmail.com) with " **unsubscribe PrimaryGames.com** " in the body of the message.
+  2. Or, you can submit your email address in the box below to be removed from the list:  
+
+
+|      
+---  
+  
+|  I don't want to be on the **PrimaryGames.com** mailing list any more!  
+---  
+  
 
 
 
