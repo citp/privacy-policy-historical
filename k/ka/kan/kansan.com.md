@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kansan.com privacy policy that was archived on 2003-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030930224307id_/http%3A//kansan.com/account/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansan.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607055409id_/http%3A//www.kansan.com/account/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Kansan.com - Privacy Policy
 
-[ Kansan.com](https://web.archive.org/web/20030930224307id_/http%3A//kansan.com/default.aspx) > Privacy Policy | Tuesday, September 30, 2003  
+[ Kansan.com](https://web.archive.org/web/20040607055409id_/http%3A//www.kansan.com/default.aspx) > Privacy Policy | Monday, June 07, 2004  
 ---|---  
   
 ## Kansan.com Privacy Policy
