@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2000-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/Acctpriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the members1st.org privacy policy that was archived on 2001-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/Acctpriv.htm) for the most accurate reproduction.*
 
 # Members 1st Federal Credit Union - Privacy Statement
 
@@ -7,47 +7,53 @@
 |  |   
 ---|---|---  
   
-Because information is an important part of our business, we understand how important it is to you to know what will happen to any credit or other personal information you give us.
+February 2001 
 
-Members 1st Federal Credit Union and its affiliated companies that serve individual members have adopted the following privacy statement: 
+Because information is an important part of our business, we understand the importance of the personal information you entrust to us. 
 
-**Member privacy is important to us**  
-At Members 1st FCU, we are committed to providing you with the finest products backed by consistently top-quality service. And, while information is fundamental to our ability to do this, we fully recognize the importance of keeping your personal and account information secure. **Our commitment to security**  
-Members 1st recognizes how important it is that sensitive information about you remains confidential. We go to great lengths to safeguard the personal financial information you entrust to us.
+The following is the privacy statement of Members 1st Federal Credit Union and its affiliated companies that service or have contact with individual members.
 
-We protect your identification from unauthorized access, using established and exacting security standards, to ensure that account information remains secure.
+**Privacy Statement**  
+Because information is an important part of our business, we understand the importance of the personal information you entrust to us. The following is the privacy statement of Members 1st Federal Credit Union and its affiliated companies that service or have contact with individual members. **Member Privacy Is Important To Us**  
+At Members 1st FCU, we are committed to providing members with the finest products backed by consistent top-quality service. And while information is fundamental to our ability to do this, we fully recognize the importance of keeping members' personal and account information secure.
 
-We actively seek to verify your identity through the use of Personal Identification Numbers (PINs) or other information before assisting you.
+**Our Commitment to Security**  
+Members 1st recognizes how important it is that sensitive information about our members remains confidential. We go to great lengths to safeguard the personal financial information they entrust to us.
 
-We take vigilant fraud protection measures (including keeping members' PINs, social security and/or Tax ID numbers in the strictest of confidence) in order to protect you.
+We protect member information from unauthorized access, using established and thorough security standards, to ensure that account information remains secure.
 
-We permit only authorized employees, who are trained in the proper handling of member information to have access to that information. Employees who violate our confidentiality policies are subject to disciplinary action.
+We actively seek to verify the identity of our members through the use of Personal Identification Numbers (PINs) or other information before assisting them.
 
-**The information we collect  
-**We collect and use member information - information from applications and from account usage, as well as information derived from other sources \- only to the extent needed to conduct our business and to meet our high quality service standards. We only obtain information in accordance with applicable laws and in response to your request for an account with us or for another legitimate business purpose.
+We are vigilant in the use of fraud protection measures (including keeping members' PINs, social security and/or Tax ID numbers in the strictest of confidence) in order to protect our members' privacy.
 
-We make every effort to keep your information files complete, up-to-date and accurate. We regularly tell you how and where to access your account information to verify its accuracy. When notified of an error, we promptly make a correction. **The information we share**  
-We exchange member information, to the extent permissible by law, for the purposes of credit reporting, verification and risk management, but only with reputable reference sources and clearinghouse services.
+We permit only authorized employees, who are trained in the proper handling of member information, to have access to that information. Employees who violate our confidentiality policies are subject to strict disciplinary action.  
+**  
+The Information We Collect**  
+We collect and use member information obtained from applications and account usage, as well as information derived from other sources. This information is used only to the extent needed to conduct our business and to meet our high quality service standards. We only obtain information in accordance with applicable laws and in response to a member's request for any legitimate business purpose(s).
 
-From time to time, we may also allow other non-affiliated companies to offer products and services that may not be account-related but that we've determined to be of particular value to you. Whenever we hire other organizations to provide such services to you, however, we require them to conform to our privacy standards.
+We make every effort to keep member information files complete, up-to-date, and accurate. We regularly tell our members how and where to access their account information to verify its accuracy. When notified of an error, we promptly make the appropriate correction(s).
 
-We never relinquish control over the confidentiality of your information for the purpose of these relationships or sell your individual member financial data \- such as personal buying habits or private details revealed on loan applications. The companies with whom we contract are not permitted to retain any information about you unless you have specifically expressed interest in their products or services.
+ **The Information We Share**  
+We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law. **Web site Privacy Details**  
+Links and other connections to other Internet web sites or mention of other companies is solely for informational purposes to our members. These links and connections should not be construed as an endorsement or relationship other than what is plainly stated where such connection is made. These sites are managed by organizations that may or may not have a business relationship with the credit union. Refer to the privacy statement at each site for additional information about how that particular organization ensures privacy to their users.
 
-**We respect members' personal privacy**  
-Members may receive valuable product and service offers from us, from our affiliates, and other well-established companies. We carefully develop these offers to meet our standards and to assure that they reach members most likely to take advantage of the opportunity. To do so, we gather information that may indicate financing and investing preferences to create marketing and telemarketing lists.
+Members 1st does not collect "cookies". A cookie is a file placed on your hard drive by a Web site that allows it to monitor your visit, usually without your knowledge.  
+**  
+We Respect Members' Personal Privacy**  
+Even though Members 1st Federal Credit Union is not currently required by the privacy regulation to do so, we are providing you with the ability to request that you do not receive certain advertising. Presently, members may receive valuable product and service offers from us and/or our well-established affiliates. We carefully develop these offers to meet our standards and to assure that they reach members most likely to take advantage of the opportunity. To do so, we gather information that may indicate financing and investing preferences to create direct marketing and telemarketing lists.
 
-At any time, you may contact us to remove your name from the mailing and telemarketing lists we utilize to keep you informed about products related to your account that you may find valuable in managing your finances. **To be removed from these lists**  
-Send a request in writing to:
+At any time, members can contact us to remove their names from these direct marketing and telemarketing lists.
 
-> > > Members 1st Federal Credit Union  
->  Attn: Marketing Department  
->  P.O. Box 40  
->  Mechanicsburg, PA 17055-0040
+Members can mail requests for a non-solicitation form to:  
+Members 1st FCU  
+Attention TeleBranch  
+P.O. Box 40  
+Mechanicsburg, PA 17055 
 
-Please include the following: one Members 1st account number; your social security or Tax ID number; full name; and address. The information should be included for each individual member who wishes this request to apply.
+Oor email us at accountinquiries@members1st.org and include their full name, address, and account number. 
 
-© 2000 Members 1st Federal Credit Union
+© 2001 Members 1st Federal Credit Union
 
-[Who We Are](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/history.htm) |[ Branches & ATMs](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/Branches.htm) | [News](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/newsmenu.htm) | [What's New](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/whatsnew.htm)  
-[Membership](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/mbrship.htm) | [Savings](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/deposits.htm) | [Loans](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/loanlist.htm) | [Rates](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/ratemenu.htm) | [Advantages](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/CONVENSV.HTM)   
-[A Great Employee Benefit](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/empleben.htm) | [Employment & Volunteer Opportunities](https://web.archive.org/web/20001122025500id_/http%3A//www.members1st.org/jobs.htm)
+[Who We Are](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/history.htm) |[ Branches & ATMs](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/Branches.htm) | [News](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/newsmenu.htm) | [What's New](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/whatsnew.htm)  
+[Membership](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/mbrship.htm) | [Savings](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/deposits.htm) | [Loans](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/loanlist.htm) | [Rates](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/ratemenu.htm) | [Advantages](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/CONVENSV.HTM)   
+[A Great Employee Benefit](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/empleben.htm) | [Employment & Volunteer Opportunities](https://web.archive.org/web/20010419103641id_/http%3A//www.members1st.org/jobs.htm)
