@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vizrt.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417012315id_/http%3A//vizrt.com/db/1/116/document245.ehtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizrt.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203040658id_/http%3A//www.vizrt.com/db/1/116/document245.ehtml) for the most accurate reproduction.*
 
 # vizrt
 
