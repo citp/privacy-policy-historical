@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silicon.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410022155id_/http%3A//silicon.com/public/door%3FREQUNIQ%3D986062188%2630001REQEVENT%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silicon.com privacy policy that was archived on 2001-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011022020917id_/http%3A//silicon.com/public/door%3FREQUNIQ%3D1001386711%2630001REQEVENT%3D) for the most accurate reproduction.*
 
 # Silicon ~ silicon.com - the who, what, when, where and why of ebusiness
 
