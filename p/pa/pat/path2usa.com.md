@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the path2usa.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207091659id_/http%3A//www.path2usa.com/PvtPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the path2usa.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608024843id_/http%3A//path2usa.com/PvtPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
