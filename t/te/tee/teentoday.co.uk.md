@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the teentoday.co.uk privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618110958id_/http%3A//www.teentoday.co.uk/other/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teentoday.co.uk privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008204655id_/http%3A//www.teentoday.co.uk/other/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Free teen chat & community from teentoday.co.uk
+
+ 
 
 **Privacy Statement for teentoday.co.uk**
 
@@ -50,6 +52,5 @@ We may from time to time change our privacy policy. The updated privacy policy w
 
 Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Oliver Meakings @ teentoday.co.uk, 41A Deepcut Bridge Road, Camberley, Surrey, GU16 6QT. Or email [ editor@teentoday.co.uk](mailto:editor@teentoday.co.uk).
-
-[ Return home >>](http://www.teentoday.co.uk/)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Oliver Meakings @ teentoday.co.uk, 41A Deepcut Bridge Road, Camberley, Surrey, GU16 6QT. Or email [ editor@teentoday.co.uk](mailto:editor@teentoday.co.uk).  
+ 
