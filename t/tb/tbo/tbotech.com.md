@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2002-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020207121621id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204093308id_/http%3A//www.tbotech.com/privacy.htm) for the most accurate reproduction.*
 
-# TBO-TECH Privacy Policy
+# privacy policy
 
 ### _Privacy Policy_
 
@@ -12,10 +12,10 @@ With respect to cookies: We use cookies to record session information, such as i
 
 If you supply us with your telephone number we will only contact you if we have questions regarding an order you have placed on-line. 
 
-We do _not_ share your information with anyone. This includes your e-mail address. 
+**We do _not_ share your information with anyone. This includes your e-mail address.**
 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. 
 
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
-If you feel that this site is not following its stated privacy policy, you may contact us at the above address or phone numbers. 
+If you feel that this site is not following its stated privacy policy, you may contact us at the above address or phone number. 
