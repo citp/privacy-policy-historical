@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circleid.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121170022id_/http%3A//www.circleid.com/internal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleid.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606103100id_/http%3A//www.circleid.com/internal/privacy.php) for the most accurate reproduction.*
 
 # CircleID: Privacy Policy
 
@@ -12,7 +12,7 @@ _IP Addresses_. An Internet protocol address ("IP address") is the unique number
 **DISCLOSURE AND USE OF INFORMATION COLLECTED**  
 Information Provided During Registration. The information you provide us when registering as a member of CircleID is publicly available on the CircleID Site as part of your member profile.
 
-This means that your member profile may be viewed by other members and visitors of CircleID. You may choose to opt-out of this public disclosure of your member profile by [contacting us](https://web.archive.org/web/20031121170022id_/http%3A//www.circleid.com/internal/contact.php). You may change or edit information about yourself in your member profile at any time using your Profile Manager in the member control panel area (My Control Panel).
+This means that your member profile may be viewed by other members and visitors of CircleID. You may choose to opt-out of this public disclosure of your member profile by [contacting us](https://web.archive.org/web/20040606103100id_/http%3A//www.circleid.com/internal/contact.php). You may change or edit information about yourself in your member profile at any time using your Profile Manager in the member control panel area (My Control Panel).
 
 _Posted Information_. The CircleID Site allows you to post information in public forums. Any information you voluntarily disclose through this medium is necessarily disclosed to the public.
 
