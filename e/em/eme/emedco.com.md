@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emedco.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003041028id_/http%3A//www.emedco.com/emed2/emed_privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emedco.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618045727id_/http%3A//www.emedco.com/emed2/emed_privacy.asp%3F) for the most accurate reproduction.*
 
 # emedco Privacy Statement
 
@@ -6,7 +6,7 @@
 
 This Privacy Policy has been amended as of July 24, 2001 to provide you with more detail regarding how we use the information that you supply us.
 
-Emedco is committed to protecting your privacy. We have made new [commitments](https://web.archive.org/web/20021003041028id_/http%3A//www.emedco.com/emed2/emed_about.asp) to you - it's a part of our approach to keep evolving to provide you better service, while working to meet your expectations. The information that is collected is used to ensure secure ordering and provide a personalized shopping experience. See below for detailed information on what information we collect and how it is used.  
+Emedco is committed to protecting your privacy. We have made new [commitments](https://web.archive.org/web/20030618045727id_/http%3A//www.emedco.com/emed2/emed_about.asp) to you - it's a part of our approach to keep evolving to provide you better service, while working to meet your expectations. The information that is collected is used to ensure secure ordering and provide a personalized shopping experience. See below for detailed information on what information we collect and how it is used.  
   
 **Information Collection and Use**  
 Emedco is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Emedco collects information from our users at several different points on our website.  
@@ -71,7 +71,7 @@ We also send users, site and service announcement updates. Members are not able 
    
 **How do I update my account information?**  
 **Correction/Updating Personal Information:**  
-If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. You can update your information at the [member information](https://web.archive.org/web/20021003041028id_/http%3A//www.emedco.com/emed2/shopper_update.asp) page or by [emailing](mailto:customerservice@emedco.com) our Customer Support.  
+If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. You can update your information at the [member information](https://web.archive.org/web/20030618045727id_/http%3A//www.emedco.com/emed2/shopper_update.asp) page or by [emailing](mailto:customerservice@emedco.com) our Customer Support.  
    
 **Our postal address is:**  
 P.O. Box 369  
