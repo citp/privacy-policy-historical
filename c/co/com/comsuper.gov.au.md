@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comsuper.gov.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203192804id_/http%3A//www.comsuper.gov.au/pages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comsuper.gov.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605111040id_/http%3A//www.comsuper.gov.au/pages/privacy.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statements
 
@@ -21,7 +21,7 @@ ComSuper places great importance on maintaining and enhancing the privacy and se
 
 ComSuper protects the privacy of your personal information in line with the Information Privacy Principles under the Privacy Act 1988. There is also other Commonwealth legislation which protects the security of your information. The Information Privacy Principles apply to any personal information you provide to us, including but not limited to email, website, correspondence or information provided by telephone. 
 
-For more information see ComSuper’s [General Privacy Guidelines](https://web.archive.org/web/20031203192804id_/http%3A//www.comsuper.gov.au/pages/privacy_statement.htm). You can also obtain further information from the Privacy Commissioner’s website [www.privacy.gov.au](http://www.privacy.gov.au/) or through direct personal contact with that agency.
+For more information see ComSuper’s [General Privacy Guidelines](https://web.archive.org/web/20040605111040id_/http%3A//www.comsuper.gov.au/pages/privacy_statement.htm). You can also obtain further information from the Privacy Commissioner’s website [www.privacy.gov.au](http://www.privacy.gov.au/) or through direct personal contact with that agency.
 
 ## Collection of information via website activity 
 
@@ -62,7 +62,7 @@ ComSuper records your e-mail address but it is used only for the purpose for whi
 
 ### Personal Information collected
 
-Personal information is collected by ComSuper in accordance with the Privacy Act 1988. For more information about the manner in which personal information is collected, see ComSuper’s [General Privacy Guidelines](https://web.archive.org/web/20031203192804id_/http%3A//www.comsuper.gov.au/pages/privacy_statement.htm). 
+Personal information is collected by ComSuper in accordance with the Privacy Act 1988. For more information about the manner in which personal information is collected, see ComSuper’s [General Privacy Guidelines](https://web.archive.org/web/20040605111040id_/http%3A//www.comsuper.gov.au/pages/privacy_statement.htm). 
 
 ## Use and disclosure of information
 
@@ -70,7 +70,7 @@ Personal information provided to ComSuper when you send us a message will only b
 
 ## Cookies
 
-Cookies are pieces of information that a website can transfer to an individual's computer hard drive. Parts of this website use a temporary “session cookie” to maintain the users current authenticated connection.  The cookie does not contain any information about the user or their PC.  The cookie becomes invalid as soon as the user closes their browser or their session times out.
+Cookies are pieces of information that a website can transfer to an individual's computer hard drive. Parts of this website use a temporary "session cookie" to maintain the users current authenticated connection.  The cookie does not contain any information about the user or their PC.  The cookie becomes invalid as soon as the user closes their browser or their session times out.
 
 ## Access to information
 
