@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612105726id_/http%3A//www.democraticunderground.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the democraticunderground.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208212201id_/http%3A//www.democraticunderground.com/privacy.html) for the most accurate reproduction.*
 
 # Democratic Underground Privacy Policy
 
@@ -18,10 +18,10 @@ Our site links to order forms for customers to purchase products and make donati
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you in our discussion forum. We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes. 
 
-Public Forums  
+**Public Forums**  
 This site makes discussion forums available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-Choice/Opt-Out  
+**Choice/Opt-Out**  
 Our site provides users the opportunity to opt-out of receiving communications from us. 
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
@@ -31,14 +31,14 @@ This site gives users the following options for removing their information from 
 
 
 
-Correct/Update  
+**Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. Send an email to: [mail@democraticunderground.com](mailto:mail@democraticunderground.com)
 
 
 
-Contacting the Web Site  
+**Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 David Allen Democratic Underground, LLC P.O. Box 53350 Washington, DC 20009 mail@democraticunderground.com
