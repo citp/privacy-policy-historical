@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204151149id_/http%3A//www.bookshare.org/web/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookshare.org privacy policy that was archived on 2004-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040403211933id_/http%3A//www.bookshare.org/web/Privacy.html) for the most accurate reproduction.*
 
 # Bookshare.org - Privacy Policy
 
@@ -84,15 +84,15 @@ Use of Data
 
 The content information uploaded to Bookshare.org by users is available for Bookshare.org to utilize for the support of our nonprofit mission. The primary limitation in our use of this information is based on our legal obligations, as we assess them in our reasonable judgment. Our uses of uploaded content information may include, but are not limited to, sharing the information with other nonprofit or for-profit organizations, licensing the information for other nonprofit or commercial uses and transferring the operation of the Bookshare.org service to a for-profit entity. If the operation of Bookshare.org is legally transferred to another entity, all user data may likewise be transferred. Revenues obtained from the provision of the Bookshare.org service or from other uses of the uploaded information are exclusively for the use of Bookshare.orgs nonprofit parent organization, and may be used to support Bookshare.org, related projects or other nonprofit objectives as it sees fit and as permitted by applicable laws.
 
-No International Use
+International Use
 
-Bookshare,org does not knowingly permit international users, so this Policy may not comply with EU Privacy Rules. We will, however, not knowingly provide any personal information to any EU entity.
+Bookshare.org provides content on a limited basis to international users, only through explicit permissions from publishers and authors. We will do our best to comply with EU Privacy Rules and will not knowingly provide any personal information in violation of these Rules.
 
 Notification of Changes
 
 If we change our Privacy Policy, we will post those changes on our website so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users through an email. Users will have a choice as to whether or not we use their information in this different manner.
 
- _Last updated on February 6, 2002_
+ _Last updated on January 29, 2004_
 
 |   |  |   |   |   |   |    
 ---|---|---|---|---  
@@ -113,7 +113,7 @@ Site Navigation
 | [About Membership](http://www.bookshare.org/web/AboutMembership.html)  
 | [Individual Subscriptions](http://www.bookshare.org/web/AboutIndividualSubscriptions.html)  
 | [School and Group Accounts](http://www.bookshare.org/web/AboutGroupAccounts.html)  
-| [Join](http://www.bookshare.org/web/MembersJoinForm.html)  
+| [Join](http://www.bookshare.org/web/AboutMembership.html)  
 | [Log In](https://www.bookshare.org/web/MembersLogin.html)  
    
 |  | Volunteers  
