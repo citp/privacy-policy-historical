@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corante.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206220100id_/http%3A//www.corante.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corante.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603044213id_/http%3A//www.corante.com/pp.html) for the most accurate reproduction.*
 
 # C O R A N T E - Tech News. Filtered Daily.
 
@@ -9,7 +9,7 @@
 Corante is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. 
 
 **Cookies**  
-A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. For instance, by setting a cookie on our site, the user would not have to log in a password mor than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. 
+A cookie is a piece of data stored on the user’s hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. If a user rejects the cookie, they may still use our site. 
 
 **Log Files**  
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use and analysis. IP addresses are not linked to personally identifiable information. 
@@ -33,8 +33,6 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 
 **Contact Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us at:  
-[info@corante.com](mailto:info@corante.com)  
-212.691.8476  
+[info@corante.com](mailto:info@corante.com)
 
-
-Copyright © 2000 Corante. All rights reserved. [Terms of use.](https://web.archive.org/web/20001206220100id_/http%3A//www.corante.com/terms.html)
+Copyright © 2001 Corante. All rights reserved. [Terms of use.](https://web.archive.org/web/20010603044213id_/http%3A//www.corante.com/terms.html)
