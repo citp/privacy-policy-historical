@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fender.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208181200id_/http%3A//fender.com/abouthecompany/privacystmnt.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fender.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405181950id_/http%3A//www.fender.com/abouthecompany/privacystmnt.html) for the most accurate reproduction.*
 
 # Fender Privacy Statement
 
@@ -16,5 +16,5 @@ No. We will use our best efforts not to transfer information that personally ide
 
 **III. Will I receive unsolicited email as a result of visiting fender.com?**
 
-No. We will only contact you in connection with services that you request, such as confirming that you have been added to a subscription list or responding to your email queries. [Copyright © 2000](https://web.archive.org/abouthecompany/copyright.html) Fender Musical Instruments Corp.  
+No. We will only contact you in connection with services that you request, such as confirming that you have been added to a subscription list or responding to your email queries. [Copyright © 2001](https://web.archive.org/abouthecompany/copyright.html) Fender Musical Instruments Corp.  
 All rights reserved
