@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerindia.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604080456id_/http%3A//www.careerindia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerindia.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205073530id_/http%3A//careerindia.com/privacy.html) for the most accurate reproduction.*
 
 # CareerIndia - Disclaimer
 
