@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206185600id_/http%3A//www.websitegoodies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602100208id_/http%3A//www.websitegoodies.com/privacy.shtml) for the most accurate reproduction.*
 
 # WebSiteGoodies - Privacy Policy
 
@@ -12,7 +12,8 @@ OnMouseOver generator, articles, free graphics, free guestbooks, and more to enh
 Promotion tips, powerful tools, and traffic-generating articles to help increase your traffic!|    
 ---|---|---  
 [](http://www.linkguard.com/online/websitegoodies/onlinelogin.htm)  
-Click for Free Link Check [](http://www.webtrendslive.com/redirect.asp?siteID=31167) [](http://www.commission-junction.com/track/track.dll?AID=346831&PID=562353&URL=http%3A%2F%2Fw%2Emoreover%2Ecom%2Fcgi%2Dlocal%2Fwizard%5Fclone%2Epl)  
+Click for Free Link Check [](http://www.webtrendslive.com/redirect.asp?siteID=31167)   
+  
 **Privacy Policy**
 
 WebSiteGoodies has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
