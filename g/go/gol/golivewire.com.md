@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golivewire.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060052id_/http%3A//www.golivewire.com/forums/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golivewire.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204181855id_/http%3A//www.golivewire.com/forums/privacy.cgi) for the most accurate reproduction.*
 
 # LiveWire Teen Forums & College Forums - Privacy Policy
 
@@ -35,7 +35,3 @@ Ikonboard.com being the authors of this Bulletin Board software have taken all r
 
 **How to contact us**   
 You are invited to email LiveWire at [webmaster@golivewire.com](mailto:webmaster@golivewire.com)
-
-Modified August 17th, 2002 
-
-« Back
