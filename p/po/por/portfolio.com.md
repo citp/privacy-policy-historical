@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the portfolio.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621234806id_/http%3A//www.brandera.com/b/B/corp_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portfolio.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205005800id_/http%3A//www.brandera.com/b/B/corp_privacy.html) for the most accurate reproduction.*
 
 # BrandEra.com | Privacy Policy
 
 Application
 
-This privacy policy is applicable to all of the websites represented by the logos above. Each website is referred to generically herein as the "Website". This Website is also governed by the [Terms and Conditions](https://web.archive.org/b/B/corp_term.html). 
+This privacy policy is applicable to all of the websites represented by the logos above. Each website is referred to generically herein as the "Website". This Website is also governed by the [Terms and Conditions](http://www.brandera.com/corp_term.html). 
 
 \- Go to top -
 
@@ -33,6 +33,8 @@ It is BrandEra.com's policy to respect your privacy. BrandEra.com will not monit
 Advertising
 
 BrandEra.com reserves the right to conduct statistical analyses of user behaviour and characteristics in order to measure interest in and use of the Website and to provide advertisers with information such as the number of users that have been exposed to or clicked on their advertising banners. BrandEra.com will provide only aggregated data from these analyses to third parties. Also, you are advised that BrandEra.com may permit third parties to offer services through the Websites. BrandEra.com is not responsible for any actions or policies of such third parties and you should check the applicable privacy policy of each such third party when providing personal information. 
+
+BrandEra.com works with a third party that serves ads to this site. To find out more about how Engage Business Media manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.engage.com/privacy>.
 
 \- Go to top -
 
