@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622085350id_/http%3A//fidm.com/Common/copyright.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fidm.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211041850id_/http%3A//www.fidm.com/Common/copyright.html) for the most accurate reproduction.*
 
 # 
 
