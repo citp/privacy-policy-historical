@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604103717id_/http%3A//www.americanmusical.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206015601id_/http%3A//www.americanmusical.com/privacy.html) for the most accurate reproduction.*
 
 # American Musical Supply
 
