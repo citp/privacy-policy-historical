@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.com privacy policy that was archived on 1999-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991122044457id_/http%3A//pages.ebay.com/help/community/png-priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.com privacy policy that was archived on 2000-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000621124257id_/http%3A//pages.ebay.com/help/community/png-priv.html) for the most accurate reproduction.*
 
 # eBay Help : Community Standards : Policies and conduct : Privacy Policies
 
@@ -17,7 +17,7 @@ eBay is also a participant in the BBBOnLine® Privacy Program. The BBBOnLine Pri
 
 So what does eBay's relationship mean for you? It means that your privacy is very important to us and you can be assured that our privacy practices are held to high standards by outside organizations. 
 
-As part of the normal operation of our services we collect and, in some cases, disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about eBay's practices so that you can make an informed decision. The privacy practices of this notice apply to the <http://www.ebay.com/> website and apply generally to our subsidiaries or joint venture partners websites (collectively the "Site") who's specific privacy policies are available at <http://pages.ebay.com/aw/uk/privacy-policy-reg.html>. Generally all of our subsidiaries and joint venture partners operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable law we strive to provide a consistent set of privacy practices throughout our global eBay trading community. 
+As part of the normal operation of our services we collect and, in some cases, disclose information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem long, we have prepared a detailed policy because we believe you should know as much as possible about eBay's practices so that you can make an informed decision. The privacy practices of this notice apply to the <http://www.ebay.com/> website and apply generally to our subsidiaries or joint venture partners websites (collectively the "Site") who's specific privacy policies are available at <http://pages.ebay.com/uk/help/community/png-priv.html>. Generally all of our subsidiaries and joint venture partners operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable law we strive to provide a consistent set of privacy practices throughout our global eBay trading community. 
 
 As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the User Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the eBay User Agreement. 
 
@@ -43,7 +43,7 @@ Security
 
 ****
   1. **A Special Note About Children.**  
-Children are not eligible to use our services and we ask that minors do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with your parents or guardians. 
+Children are not eligible to use our services and we ask that minors (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with your parents or guardians. 
   2. **Information We Collect.**  
 Our primary goal in collecting personal information from you is to provide you with a smooth, efficient, and customized experience while using our services. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier and quicker. 
 
@@ -111,7 +111,7 @@ We do not use the email addresses you enter for any purpose other than to send y
 Except as specifically permitted by this section, you may not disclose your eBay password to any third parties nor share it with any third parties. If you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed in Section 8. You may, however, disclose your password to certain third parties with whom eBay has entered into specific contractual and technical arrangements designed to safeguard your password ("Authorized Password Users"), in order to enjoy the benefits of those third parties' services in relation to the eBay services. The current list of Authorized Password Users may be found [here](http://pages.ebay.com/help/community/png-password.html), and such list may be changed by eBay at any time and without notice. 
   8. **Reviewing and Changing Your Personally Identifiable Information.**  
 Following registration, you can review and change the information you submitted during registration including:  
-Your [User ID and email address](http://cgi.ebay.com/aw-cgi/eBayISAPI.dll?ChangeUserId). If you change your User ID we keep track of your [old User ID(s) and your new User ID](http://pages.ebay.com/help/basics/f-userid.html).  
+Your [User ID and email address](http://cgi3.ebay.com/aw-cgi/eBayISAPI.dll?ChangeUserId). If you change your User ID we keep track of your [old User ID(s) and your new User ID](http://pages.ebay.com/help/basics/f-userid.html).  
 Your [name, company, address, city, state, zip code, country, primary phone number, secondary phone number, fax number and gender](http://pages.ebay.com/services/myebay/change-registration.html).  
 Your [password](http://pages.ebay.com/services/myebay/selectpass.html).  
 Your [credit card number and expiration date, if you supplied one](https://arribada.ebay.com/aw-secure/cc-update.html).  
@@ -127,4 +127,4 @@ Except as otherwise expressly discussed in this Privacy Policy, this document on
   10. **Security.**  
 eBay uses industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layers. However, "perfect security" does not exist on the Internet. 
 
-
+If you can't find an answer to your question here, [Ask eBay](http://pages.ebay.com/help/basics/select-support.html). 
