@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ussoccer.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603060420id_/http%3A//www.ussoccer.com/statements/content.sps%3FiType%3D4078%26icustompageid%3D6482) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussoccer.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208135555id_/http%3A//www.ussoccer.com/statements/content.sps%3FiType%3D4078%26icustompageid%3D6482) for the most accurate reproduction.*
 
 # ussoccer.com - Statements - Introduction
 
