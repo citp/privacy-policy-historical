@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aimini.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202160042id_/http%3A//www.aimini.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimini.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610184948id_/http%3A//aimini.com/privacypolicy.html) for the most accurate reproduction.*
 
-# aimini.com -- P2P software
+# aimini P2P software
 
 Your trust is extremely important to us and we make every effort necessary to protect your privacy. We will never sell, rent or give away any customer or client information that may be collected. 
 
