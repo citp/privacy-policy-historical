@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meijer.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217094618id_/http%3A//www.meijer.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meijer.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603180307id_/http%3A//www.meijer.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Meijer: Privacy Statement
 
@@ -41,4 +41,5 @@ If you have any comments or questions about your privacy while visiting Meijer.c
 
 [**Home**](http://www.meijer.com/)
 
-[ŠCopyright 1996-2001 Meijer Stores Limited Partnership All Rights Reserved. Please read our legal notice](https://web.archive.org/web/20011217094618id_/http%3A//www.meijer.com/legal/copyright.htm)
+[ŠCopyright 1996-2002 Meijer Stores Limited Partnership All Rights  
+Reserved. Please read our legal notice](https://web.archive.org/legal/copyright.htm) and [Privacy Statement.](https://web.archive.org/privacy/privacy.html)
