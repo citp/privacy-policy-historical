@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicvalley.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602135539id_/http%3A//magicvalley.com/tn/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicvalley.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802104911id_/http%3A//www.magicvalley.com/tn/privacy/index.asp) for the most accurate reproduction.*
 
 # The Times-News Online -- Twin Falls, Idaho
 
@@ -9,7 +9,7 @@
 |  | [Frontpage](https://web.archive.org/) |   
 ---|---|---  
 | [Business](https://web.archive.org/tn/business/) |   
-| [Family/Life](https://web.archive.org/tn/features/) |   
+| [WeekEnd](https://web.archive.org/tn/features/) |   
 | [Local News](https://web.archive.org/tn/news/) |   
 | [National News  
 Sites](https://web.archive.org/tn/national/) |   
@@ -21,6 +21,7 @@ Sites](https://web.archive.org/tn/national/) |
 | [Movies](http://movies.magicvalley.com/) |   
 | [Today's Photos](https://web.archive.org/gallery/todays/) |   
 | [The Simplot Report](https://web.archive.org/tn/special/simplot/) |   
+| [Our Way Of Life](https://web.archive.org/tn/special/ourwayoflife) |   
   
 [](https://web.archive.org/classified/)  
 [](https://web.archive.org/realestate/)  
