@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeegeek.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204131700id_/http%3A//www.coffeekid.com/reviews/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeegeek.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602173317id_/http%3A//www.coffeekid.com/reviews/privacy.htm) for the most accurate reproduction.*
 
 # CoffeeKid's Other Stuff
 
