@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremefitness.com privacy policy that was archived on 2003-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031222060058id_/http%3A//www.extremefitness.com/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremefitness.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615062336id_/http%3A//www.extremefitness.com/viewprivacy.php) for the most accurate reproduction.*
 
 # ExtremeFitness.Com: Privacy statement
 
