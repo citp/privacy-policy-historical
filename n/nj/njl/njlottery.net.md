@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the njlottery.net privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217033316id_/http%3A//www.state.nj.us/lottery/general/4-5_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njlottery.net privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606125904id_/http%3A//www.state.nj.us/lottery/general/4-5_privacy.htm) for the most accurate reproduction.*
 
-# New Jersey Lottery
+# Privacy Policy
 
 **New Jersey State Lottery Privacy Notice**
 
@@ -71,9 +71,11 @@ NJ Lottery, its officers, or employees exercise no control over the organization
 
 You may contact the NJ Lottery to review your personal information, or request correction of your personal information by contacting:
 
-> Annette Jenkins  
->  Public Information Officer  
+> Linda Melone  
+>  Deputy Director  
 >  P.O. Box 041  
 >  Trenton, NJ 08625-0041  
 >  Fax: 609-599-5829  
 >  Phone: 609-599-5875
+
+Effective: November 9, 2001
