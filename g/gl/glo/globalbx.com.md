@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalbx.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606082308id_/http%3A//www.globalbx.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalbx.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206071711id_/http%3A//www.globalbx.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Businesses for sale at GlobalBX - Business for Sale, Business Brokers, Franchise Businesses
 
@@ -10,7 +10,7 @@ Our mission is to provide a free confidential forum to facilitate the buying and
   
 **FEATURED LISTINGS**  
 ---  
-* [Bar in San Francisco](https://web.archive.org/web/20030606082308id_/http%3A//www.globalbx.com/listing.asp?bId=2106) \- This is one of hottest bars in the San Francisco Bay Area. It is completely packed on ...* [Fast Food Restaurant](https://web.archive.org/web/20030606082308id_/http%3A//www.globalbx.com/listing.asp?bId=2050) \- Fabulous, One Of A Kind Business. Features Deli, Sandwiches, Meats, ...* [Coin Laundry](https://web.archive.org/web/20030606082308id_/http%3A//www.globalbx.com/listing.asp?bId=2169) \- Busy Coin Laundry In Great Location. New Apartment Complex Development across the ...  
+* [Bar in San Francisco](https://web.archive.org/web/20031206071711id_/http%3A//www.globalbx.com/listing.asp?bId=2106) \- This is one of hottest bars in the San Francisco Bay Area. It is completely packed on ...* [Fast Food Restaurant](https://web.archive.org/web/20031206071711id_/http%3A//www.globalbx.com/listing.asp?bId=2050) \- Fabulous, One Of A Kind Business. Features Deli, Sandwiches, Meats, ...* [Coin Laundry](https://web.archive.org/web/20031206071711id_/http%3A//www.globalbx.com/listing.asp?bId=2169) \- Busy Coin Laundry In Great Location. New Apartment Complex Development across the ...  
   
   
 **PRIVACY POLICY**
