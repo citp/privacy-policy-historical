@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovingyou.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004063017id_/http%3A//www.lovingyou.com/info/content.shtml%3FID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovingyou.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605173647id_/http%3A//www.lovingyou.com/info/content.shtml%3FID%3Dprivacy) for the most accurate reproduction.*
 
 # Lovingyou.com: Love, Romance and Relationship Resources
 
@@ -46,7 +46,7 @@ Children should always ask a parent for permission before sending personal infor
 **Cookies**  
 We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
 
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](https://web.archive.org/web/20021004063017id_/http%3A//www.lovingyou.com/info/www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies’ privacy policies
+If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](https://web.archive.org/web/20030605173647id_/http%3A//www.lovingyou.com/info/www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies’ privacy policies
 
 This site also uses the services of Adtegrity.com for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Adtegrity.com collects and stores anonymous data typically through the use of cookies. To learn more about Adtegrity.com, including their privacy policy, go to <http://www.adtegrity.com/privacy.asp>.
 
