@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cebupacificair.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211171406id_/http%3A//www.cebupacificair.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cebupacificair.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627083057id_/http%3A//www.cebupacificair.com/privacy.asp) for the most accurate reproduction.*
 
 # Cebu Pacific - The Official Website
 
