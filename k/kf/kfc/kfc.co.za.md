@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kfc.co.za privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209032419id_/http%3A//www.kfc.co.za/home.asp%3Fpid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kfc.co.za privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602182026id_/http%3A//www.kfc.co.za/home.asp%3Fpid%3D9) for the most accurate reproduction.*
 
 # WebEasy | Welcome to Flux Webeasy your first choice in quality web design!
 
-"[ _Flux Interactive_](http://www.webeasyflux.fl/home.asp?pid=1#test) shall not be responsible and disclaims all liability for any loss, liability, damage (whether direct or consequential) or expense of any nature whatsoever which may be suffered as a result of or which may be attributable, directly or indirectly, to the use of or reliance upon any information, links or service provided through this website."
+"Flux Interactive shall not be responsible and disclaims all liability for any loss, liability, damage (whether direct or consequential) or expense of any nature whatsoever which may be suffered as a result of or which may be attributable, directly or indirectly, to the use of or reliance upon any information, links or service provided through this website."
 
 We respect and are committed to protecting your privacy. That is why we have adopted this Privacy Policy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the Web pages owned and operated by Flux Interactive Pty (Ltd).
 
