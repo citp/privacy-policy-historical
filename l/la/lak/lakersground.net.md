@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakersground.net privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609010205id_/http%3A//www.lakersground.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakersground.net privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205030240id_/http%3A//www.lakersground.net/privacy.php) for the most accurate reproduction.*
 
 # LakersGround.net - Premier Coverage of the L.A. Lakers
 
@@ -32,6 +32,6 @@ Our web sites are not set up to track, collect or distribute personal informatio
 A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. LG.net uses non-identifying cookies to provide easier site navigation and access to forums. You can still access LG.net if your browser is set to reject cookies, but you will not be able to post on the LG.net forums. Our cookies do not generate personal data, do not read personal data from your machine and are never tied to anything that could be used to identify you. 
 
 **Problems or Complaints with Our Privacy Policy**  
-If you have a complaint about compliance with this privacy policy, you may contact us at privacy@lakersground.net. 
+If you have a complaint about compliance with this privacy policy, you may post a comment in the [LG Forums](http://forums.lakersground.net/newtopic.php?forum=3). 
 
 |   
