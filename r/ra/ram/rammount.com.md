@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rammount.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202152724id_/http%3A//rammount.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rammount.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610111446id_/http%3A//rammount.com/privacy.htm) for the most accurate reproduction.*
 
 # NPI Privacy Page
 
@@ -7,7 +7,7 @@ National Products Inc.  respects your right to privacy and shares your concern 
 This website is owned, operated, and maintained by:
 
 National Products Inc., Inc.  
-1017 S. Elmgrove St. Seattle, WA 98108  
+1205 S. Orr St. Seattle, WA 98108  
 Phone: 206-763-8361  
 Fax: 206-763-9615  
 E-mail: [webmaster@ram-mount.com](mailto:webmaster@garmin.com)
