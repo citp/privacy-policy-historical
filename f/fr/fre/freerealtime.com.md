@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freerealtime.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603200615id_/http%3A//quotes.freerealtime.com/dl/frt/A%3FSA%3DPrivacy%2520Statement%26file%3Dmain/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freerealtime.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010135338id_/http%3A//quotes.freerealtime.com/dl/frt/A%3FSA%3DPrivacy%2520Statement%26file%3Dmain/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - FreeRealTime.com
 
