@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the brightstar.com privacy policy that was archived on 2001-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010617004419id_/http%3A//www.brightstar.com/cfapps/netGear/page51.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstar.com privacy policy that was archived on 2001-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011222093156id_/http%3A//www.brightstar.com/cfapps/netGear/page51.asp) for the most accurate reproduction.*
 
-# BrightStar - Privacy Policy
+# BrightStar Information Technology Group, Inc.
 
-|  |    |    
 **BrightStar Privacy Practices on the Internet**
 
  **Our Commitment to Privacy**  
@@ -63,11 +62,9 @@ BrightStar
 Pleasanton, California 94588  
 U.S.A. 
 
-Or e-mail to: webmaster@brightstar.com
+Or e-mail to: [webmaster@brightstar.com](mailto:webmaster@brightstar.com)
 
 
 
 
-*BrightStar will take all commercially reasonable precautions to safeguard user information but, in the event of disclosure, BrightStar will not be liable for any damages the user may experience.   
-  
----|---|---
+*BrightStar will take all commercially reasonable precautions to safeguard user information but, in the event of disclosure, BrightStar will not be liable for any damages the user may experience.
