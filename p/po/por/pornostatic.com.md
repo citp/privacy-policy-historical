@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pornostatic.com privacy policy that was archived on 2004-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040405004238id_/http%3A//www.adoreamateurs.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornostatic.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204190405id_/http%3A//www.adoreamateurs.com/privacy.htm) for the most accurate reproduction.*
 
-# adoreamateurs.com : privacy
+# Privacy Policy
 
 **An Overview**
 
