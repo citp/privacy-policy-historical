@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the henrico.k12.va.us privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the henrico.k12.va.us privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204081534id_/http%3A//www.henrico.k12.va.us/privacy_statement.htm) for the most accurate reproduction.*
 
-# Privacy & Disclaimer Statement
-
-[ [Home](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/index.html) ] [ [Employment Opportunities](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/HumanResources/Vacancies.html) ] [ [News Releases](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/happening.html) ] [ [General Information](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/GeneralInformation/index.html) ] [ [Instruction](https://web.archive.org/web/20011020074655id_/http%3A//www.henrico.k12.va.us/Instruction.html) ]
+# Disclaimer & Privacy Statement
 
   
-P. O. Box 23120  
+3820 Nine Mile Road  
 Richmond, Virginia 23223-0420  
-(804) 652-3600
+(804) 652-3600 | 
 
-|   
----|---  
+**Disclaimer & Privacy  Statement **  
   
-**Disclaimer & Privacy  Statement for Users of Henrico County Public Schools'   
-Internet Web Site**  
+---|---  
   
 _**PRIVACY STATEMENT**_
 
