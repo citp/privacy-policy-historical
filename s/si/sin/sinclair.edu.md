@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sinclair.edu privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413165315id_/http%3A//www.sinclair.edu/about/information/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sinclair.edu privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610083731id_/http%3A//www.sinclair.edu/about/information/privacy/index.cfm) for the most accurate reproduction.*
 
 # Sinclair Community College
 
@@ -6,7 +6,7 @@ Privacy Statement
 
 **Overview**
 
-Thank you for visiting the Sinclair Community College Website and reviewing our privacy policy. Sinclair Community College does not collect personal information about visitors to our Website unless you choose to provide that information to us. Sinclair Community College does not sell, exchange or release your personal information to parties outside the college without your consent. Once we obtain your consent, we consider it valid until revoked by you.
+Thank you for visiting the Sinclair Community College Website and reviewing our privacy statement. Sinclair Community College does not collect personal information about visitors to our Website unless you choose to provide that information to us. Sinclair Community College does not sell, exchange or release information gatherd from your visit to our web site to parties outside the college without your consent. Once we obtain your consent, we consider it valid until revoked by you.
 
 **Information Collected and Stored Automatically**
 
@@ -31,13 +31,13 @@ You may set your browser to refuse cookies from any website that you visit. If y
 
 The Sinclair Community College Website will only collect personal information which you knowingly and voluntarily provide by, for example, sending emails, completing membership forms, registering for classes, events, or other programs, responding to surveys or ordering merchandise. If you provide us with personal information, we will normally respond to your inquiry, request or order. We may also contact you to provide information about college activities, programs, membership and development opportunities and special events that may interest you.
 
-Sinclair Community College will only share information about you to other parties when one or more of the following conditions apply: 
+Sinclair Community College will only share information about you to other parties when one or more of the following conditions apply:
 
-  * We have your consent to share the information. 
-  * We need to share your information to provide the service or product you requested. 
-  * We need to send your information to companies who work on behalf of Sinclair Community College to provide a service or product to you. 
-  * We need to respond to subpoenas, court orders, or any other legal process. 
-  * We find it necessary to protect and defend the legal rights and/or property of Sinclair Community College. 
+  * We have your consent to share the information.
+  * We need to share your information to provide the service or product you requested.
+  * We need to send your information to companies who work on behalf of Sinclair Community College to provide a service or product to you.
+  * We need to respond to subpoenas, court orders, or any other legal process.
+  * We find it necessary to protect and defend the legal rights and/or property of Sinclair Community College.
 
 
 
