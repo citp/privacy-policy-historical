@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldlanguage.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212160025id_/http%3A//www.worldlanguage.com/PrivacyPolicies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldlanguage.com privacy policy that was archived on 2002-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020618195244id_/http%3A//www.worldlanguage.com/PrivacyPolicies.htm) for the most accurate reproduction.*
 
 # Privacy Policies
 
