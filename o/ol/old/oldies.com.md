@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207031200id_/http%3A//www.oldies.com/privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330221643id_/http%3A//www.oldies.com/privacy_statement.cfm) for the most accurate reproduction.*
 
 # Collectables Records : Privacy Statement
 
