@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directflights.com.au privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212132254id_/http%3A//www.directflights.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directflights.com.au privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610043625id_/http%3A//www.directflights.com.au/privacy.asp) for the most accurate reproduction.*
 
 # Direct Flights
 
