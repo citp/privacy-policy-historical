@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2004-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040807015613id_/http%3A//www.necu.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305041454id_/http%3A//www.necu.org/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-  
-  
-  
-  
-  
-  
-
-
-[](https://web.archive.org/web/20040807015613id_/http%3A//www.necu.org/pdf_files/memberapp.pdf)
-
-|  | 
 
 Summary
 
@@ -26,7 +14,7 @@ Privacy Notice
 
 Northeast Credit Union's single purpose is to provide you with financial products and services to meet your financial goals. We intend to offer you diverse financial services including competitive products made available by our strategic relationships with other institution or service providers. We believe these are the reasons you do business with Northeast Credit Union. We also believe you do your financial business with us because we have a strong history of protecting our members' privacy.
 
-We are required by law to give you this privacy notice. It describes our policies and practices that protect your privacy and enable us to share information to make available competitive financial products and services. These practices are followed by the credit union and its affiliate, Borthwick Associates, and therefore, this notice will be applied to both. If you have any questions after reading it, please contact us at 1-888-436-1847.
+We are required by law to give you this privacy notice. It describes our policies and practices that protect your privacy and enable us to share information to make available competitive financial products and services. These practices are followed by the credit union. If you have any questions after reading it, please contact us at 1-888-436-1847.
 
 What follows is a description of the information we collect and disclose, including the parties who receive non-public information from us. This notice also explains your right to inform us if you do not want us to disclose certain information about you to other parties.
 
@@ -55,7 +43,7 @@ If you cease to be a member of Northeast Credit Union, we will not share informa
   
 How We Protect Your Information
 
-We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+We restrict access to non-public personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your non-public personal information. Our online banking uses some of the most secure forms of online communication available, Secure Sockets Layer (SSL) protocol and user names and passwords. These technologies provide a high level of security and privacy when you access your account information, initiate online transactions or send secure messages.
 
   
 What Members Can Do To Help
@@ -65,7 +53,7 @@ Northeast Credit Union is committed to protecting the privacy of its members and
   
 Fair Credit Reporting Act Disclosure
 
-Information taken from credit reports may also be exchanged but will not be shared if you notify us in writing. If you elect to opt out of this information exchange, please indicate your intentions on the attached form and mail it as instructed. As affiliates, Northeast Credit Union and Borthwick Associates, are permitted by law to share any information about their transactions or experiences with you. Northeast Credit Union and Borthwick Associates will comply with restrictions and requirements set forth in the Fair Credit Reporting Act Disclosure. 
+Northeast Credit Union will comply with restrictions and requirements set forth in the Fair Credit Reporting Act.
 
   
 Contacting Northeast Credit Union
@@ -79,7 +67,7 @@ Northeast Credit Union
 Portsmouth, NH 03801  
 603-436-1847
 
-or you can send an e-mail to [necu@necu.org](mailto:necu@necu.org)
+or you can send an e-mail to [memberservices@necu.org](mailto:necu@necu.org)
 
 Information sent through e-mail is not secure. Please DO NOT SEND CONFIDENTIAL INFORMATION (account number, social security number, etc.) through e-mail.
 
@@ -91,7 +79,7 @@ At Northeast Credit Union we are committed to protecting your privacy.
 
 We have created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for our web site:
 
-|  | Visitors to the Northeast Credit Union web site will remain anonymous. We do not collect personal identifying information about our visitors to our site.  
+| Visitors to the Northeast Credit Union web site will remain anonymous. We do not collect personal identifying information about our visitors to our site.  
 ---|---  
 | We use your IP address to help diagnose problems with our server, and to administer our web site. Our servers collect standard identifying information about visitors to the site, such as date and time visited, IP address, city, state, and country. This information is used to compile standard statistics on site usage.  
 | We use cookies for our loan calculators, as well as to deliver content specific to your interests.  
@@ -112,7 +100,7 @@ Northeast Credit Union
 Portsmouth, NH 03801  
 603-436-1847
 
-or you can send an e-mail to [necu@necu.org](mailto:necu@necu.org)
+or you can send an e-mail to [memberservices@necu.org](mailto:necu@necu.org)
 
 Information sent through e-mail is not secure. Please DO NOT SEND CONFIDENTIAL INFORMATION (account number, social security number, etc.) through e-mail.
 
