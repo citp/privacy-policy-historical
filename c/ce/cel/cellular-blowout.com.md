@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cellular-blowout.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605093026id_/http%3A//www.cellular-blowout.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellular-blowout.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120100id_/http%3A//www.cellular-blowout.com/privacypolicy.html) for the most accurate reproduction.*
 
-# BigBookBang - Cellular Blowout Privacy Policy
+# Cellular Blowout Privacy Policy
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 * All information collected by our company is kept strictly confidential and will never be given or sold to any outside party.
