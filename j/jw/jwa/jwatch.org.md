@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204094607id_/http%3A//www.jwatch.org/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwatch.org privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307093030id_/http%3A//www.jwatch.org/misc/privacy.shtml) for the most accurate reproduction.*
 
 # Journal Watch Online: Privacy Policy
 
-This is the website of _Journal Watch_ , which is owned and published by the Massachusetts Medical Society. Our publishing offices are located at 860 Winter Street, Waltham, MA, 02451-1413, USA; telephone: (781) 893-3800.
+This is the website of _Journal Watch_ and _AIDS Clinical Care_ , which are owned and published by the Massachusetts Medical Society. Our publishing offices are located at 860 Winter Street, Waltham, MA, 02451-1413, USA; telephone: (781) 893-3800.
 
 **PRINCIPLES GOVERNING THIS SITE**
-
-_Journal Watch_ maintains this website and related online services according to the following principles:
 
   * Your privacy is important, and we take several steps to insure it. We do not release individual information about your use of our site, including your e-mail address, to any third party. We do not sell or rent your e-mail address to any third party.
   * We use an "opt-in" process concerning information we send to you. That is, we will ask your permission **before** sending you information about content or services available through this site. Whenever we send you information, we will include directions on how you can "unsubscribe" from any future notices. 
@@ -32,7 +30,7 @@ Such information may include your name, address (postal and e-mail), telephone n
 
 **ABOUT THE USE OF "COOKIES"**
 
-"Cookies" are bits of information that are stored on your computer that help identify you when you visit the _Journal Watch_ website. They can help define special information that you want to see, a default language that you may want to see the website in, or your user name and password so you don’t have to log in each time you visit. We may also use cookies to speed up your access to our site, especially if you are located outside the United States.
+"Cookies" are bits of information that are stored on your computer that help identify you when you visit the _Journal Watch Online_ website. They can help define special information that you want to see, a default language that you may want to see the website in, or your user name and password so you don't have to log in each time you visit. We may also use cookies to speed up your access to our site, especially if you are located outside the United States.
 
 When you first log into the site, you can choose whether to use the site with or without cookies. You are NOT required to accept cookies to use this site as a subscriber, but, if you choose not to accept them, please click the alternative sign-in link on the sign-in page. If you do not accept cookies, you cannot use the convenient auto sign-in feature, and the only way you can sign out is to quit your browser. If you use this site without cookies, you will have to log in each time to see certain content or to change your preferences. You may decide that you do not want to use cookies on a public or library terminal.
 
