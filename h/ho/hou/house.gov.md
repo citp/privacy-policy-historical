@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630054152id_/http%3A//www.house.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the house.gov privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231200505id_/http%3A//www.house.gov/house/privacy.shtml) for the most accurate reproduction.*
 
-# United States House of Representatives - Privacy Statement
+# United States House of Representatives, 108th Congress, 2nd Session: Privacy Policy
 
 **If you visit our site to read or download information, such as House committee jurisdictions or press releases, we collect and store only the following information:**
 
@@ -30,4 +30,4 @@ This information is used for Site Management purposes. This government computer 
 
 **Accessibility Notice**
 
-If you are having a problem accessing a U.S. House of Representatives Web site please let us know and we will work to ensure accessibility. If you have any difficulty viewing any page with adaptive technology, please use this [form](http://www.house.gov/house/house_comments.html) to submit a report on the type of error you have encountered. Please be as specific as possible in your description of the problem(s) encountered as well as the location on the House of Representatives Web site. 
+If you are having a problem accessing a U.S. House of Representatives Web site please let us know and we will work to ensure accessibility. If you have any difficulty viewing any page with adaptive technology, please use this [form](http://www.house.gov/house/house_comments.shtml) to submit a report on the type of error you have encountered. Please be as specific as possible in your description of the problem(s) encountered as well as the location on the House of Representatives Web site. 
