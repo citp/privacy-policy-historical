@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621103525id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jangomail.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203204658id_/http%3A//www.jangomail.com/privacy.asp) for the most accurate reproduction.*
 
 # JangoMail
 
 JangoMail Privacy Statement  **PRIVACY STATEMENT**
 
-JangoMail has created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with JangoMail. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+JangoMail has created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with the JangoMail public web site and the JangoMail application (for clients). We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for this website.
+
+**Your E-mail Lists and Databases**  
+JangoMail and its parent company will never sell, rent, share, or otherwise make available your e-mail lists and/or databases to anyone except internal support personnel who may be assisting you in troubleshooting your account. JangoMail is not in the business of selling data. JangoMail is in the business of providing a web-based mass e-mail service.
 
 **Website Usage Information**  
 We use your IP address to help diagnose problems with our server, and to administer our Web site. We do not link your IP address to any personally identifiable information. We use tracking information to determine which areas our site users visit based on traffic to those areas. JangoMail does not track what individual users read, but rather how often each page is visited. This helps us maintain a superior and informative website for you.
