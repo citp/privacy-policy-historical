@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617070820id_/http%3A//www.geeks.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeks.com privacy policy that was archived on 2004-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041214144445id_/http%3A//www.geeks.com/policies.asp) for the most accurate reproduction.*
 
 # ComputerGeeks.com - Sales, Return, and Privacy Policies
 
@@ -16,6 +16,7 @@ Unless otherwise indicated, products sold with a Manufacturer's/Factory/Direct W
 After 7 days following receipt of a product sold with a Manufacturer's/Factory/Direct Warranty, products must be returned directly to the product's maker (or point of contact specified at the time of purchase) for warranty service.  
 Products returned for any reason other than exchange or replacement may be subject to a 15% return fee  
 Shipping fees and/or return shipping costs are not refundable and will not be borne by ComputerGeeks.com  
+Products shipped directly from manufacturers are available for shipment to the 50 US states with the exception of Massachusetts, but not to international, APO/FPO, or US territory or possession addresses. These products are also not eligible for payment by COD, and must be signed for upon delivery. Products to which these restrictions apply are indicated as such on the page describing the product, as well as various stages of the shopping and checkout process.  
 After 30 days, only returns of non-working product will be honored; no refunds after 30 days  
 All direct replacements are limited to product availability. If an exact replacement for a returned item is not available, a credit will be issued or the product will be substituted with one of same-or-better specifications  
 Other than Gift Certificates, credits expire 6 months after the date they are issued  
@@ -47,7 +48,7 @@ ComputerGeeks.com is committed to protecting the privacy of our Visitors and Cus
 
 ComputerGeeks.com believes that our online 
 
-[**Visitors**](https://web.archive.org/web/20040617070820id_/http%3A//www.geeks.com/aboutus.asp#visitors) and [**Customers**](https://web.archive.org/web/20040617070820id_/http%3A//www.geeks.com/aboutus.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom.   
+[**Visitors**](https://web.archive.org/web/20041214144445id_/http%3A//www.geeks.com/aboutus.asp#visitors) and [**Customers**](https://web.archive.org/web/20041214144445id_/http%3A//www.geeks.com/aboutus.asp#customers) need to be provided clear and prominent notice regarding what personal information is being collected about them, how it will be used, whether or not it will be disclosed, and if so, to whom.   
 
 
 Many entities have examined the issue of privacy and developed guidelines for establishing reasonable policies. We believe that by addressing these issues, we will fulfill the goals of fair information use supported by the U.S. government and a variety of industry groups:[www.truste.org](http://www.truste.org/)  
@@ -55,7 +56,7 @@ Many entities have examined the issue of privacy and developed guidelines for es
 [www.ftc.gov](http://www.ftc.gov/)  
 [www.the-dma.org](http://www.the-dma.org/)
 
-[**The Glossary of Terms**](https://web.archive.org/web/20040617070820id_/http%3A//www.geeks.com/aboutus.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines.
+[**The Glossary of Terms**](https://web.archive.org/web/20041214144445id_/http%3A//www.geeks.com/aboutus.asp#GlossaryofTerms) at the end of this Policy defines words with specific meaning as used in these guidelines.
 
 **_Privacy Guidelines:_**
 
@@ -65,7 +66,7 @@ We do not use any navigational data about where individuals come from, leave to,
 While we may collect online navigational data about where you go on our Web site, we will not use such information at the individually identifiable level. We may use navigational data in aggregate or compiled statistical form.   
 
 
-We may use Web browser "[ **cookies**](https://web.archive.org/web/20040617070820id_/http%3A//www.geeks.com/aboutus.asp#cookies)" to track progress through our Web site, but the cookies will not be used to collect or store individually identifiable information nor be linked to other information that allows us to identify an individual. However, we may use cookies with individual identifiers to support visitor enhancements such as AOL member authentication, site personalization, or eCommerce features (like your shopping cart.)  
+We may use Web browser "[ **cookies**](https://web.archive.org/web/20041214144445id_/http%3A//www.geeks.com/aboutus.asp#cookies)" to track progress through our Web site, but the cookies will not be used to collect or store individually identifiable information nor be linked to other information that allows us to identify an individual. However, we may use cookies with individual identifiers to support visitor enhancements such as AOL member authentication, site personalization, or eCommerce features (like your shopping cart.)  
 
 
 **Information Sharing/Disclosure.**
