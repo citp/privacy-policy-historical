@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativegood.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610041421id_/http%3A//www.creativegood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativegood.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203001556id_/http%3A//www.creativegood.com/privacy.html) for the most accurate reproduction.*
 
 # Creative Good
 
