@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odili.net privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024093345id_/http%3A//odili.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odili.net privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607215349id_/http%3A//odili.net/privacy.html) for the most accurate reproduction.*
 
 # Nigeriaworld: Privacy
 
@@ -19,16 +19,11 @@ One of the biggest issues facing the internet today is the protection of the pri
 
 Odili.NET works with third parties that serves ads to this site. They include: 
 
-  * Engage
   * Burstmedia
   * ValueClick
 
 
 
-> This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. 
-> 
-> To learn more about **_Engage_** , including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
-> 
 > To find out more about how **_Burstmedia_** manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.burstmedia.com/release/privacy.asp>
 > 
 > To find out more about how **_ValueClick_** manages the privacy of information in conjunction with serving ads on this site, please go to <http://valueclick.com/privacy.html>
