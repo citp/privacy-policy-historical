@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downstate.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202150453id_/http%3A//downstate.edu/privacy/InternetPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downstate.edu privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605204521id_/http%3A//www.downstate.edu/privacy/InternetPolicy.htm) for the most accurate reproduction.*
 
 # Introduction
 
@@ -6,21 +6,21 @@
 
 **University Hospital of Brooklyn**
 
-**Privacy Policy**
+**Internet Privacy Policy**
 
 **Downstate.edu's Commitment to Privacy**
 
-At the State University of New York (SUNY) Downstate Medical Center University Hospital of Brooklyn, we are committed to protecting your privacy and making it easier and more efficient for individuals and businesses to interact with SUNY Downstate. We recognize that it is critical for individuals and businesses to be confident that their privacy is protected when they visit downstate.edu. You can travel through most of downstate.edu without giving us any information about yourself. Sometimes we do need information to provide services that you request, and this commitment of privacy explains our online information practices. 
+At the State University of New York (SUNY) Downstate Medical Center University Hospital of Brooklyn, we are committed to protecting your privacy and making it easier and more efficient for individuals and businesses to interact with SUNY Downstate. We recognize that it is critical for individuals and businesses to be confident that their privacy is protected when they visit downstate.edu. You can travel through most of downstate.edu without giving us any information about yourself. Sometimes we do need information to provide services that you request, and this commitment of privacy explains our online information practices.
 
 SUNY Downstate does not collect any _personal information_ about you unless you provide that information voluntarily by sending an e-mail, completing the SUNY Downstate Information Request Form, or completing the online application.
 
-This policy is consistent with the provisions of the Internet Security and Privacy Act, the Freedom of Information Law, and the Personal Privacy Protection Law. 
+This policy is consistent with the provisions of the Internet Security and Privacy Act, the Freedom of Information Law, and the Personal Privacy Protection Law.
 
 **Information Collected Automatically When You Visit downstate.edu**
 
 When visiting downstate.edu, SUNY automatically collects and stores the following information about your visit:
 
-·      The Internet Protocol address of the computer that accessed our Web site 
+·      The Internet Protocol address of the computer that accessed our Web site
 
 ·      The type of browser, its version and the operating system on which that browser is running
 
@@ -56,21 +56,21 @@ The information collected through downstate.edu is retained by SUNY Downstate in
 
 **Access to and Correction of _Personal Information_** **Collected Through this downstate.edu**
 
-Any _user_ may submit a request to SUNY Downstate's privacy director to determine whether _personal information_ pertaining to that _user_ has been collected through suny.edu. Any such request shall be made in writing and must be accompanied by reasonable proof of identity of the _user_. Reasonable proof of identity may include verification of a signature, inclusion of an identifier generally known only to the _user_ , or similar appropriate identification. The address of the privacy director is:
+Any _user_ may submit a request to SUNY Downstate's privacy director to determine whether _personal information_ pertaining to that _user_ has been collected through suny.edu. Any such request shall be made in writing and must be accompanied by reasonable proof of identity of the _user_. Reasonable proof of identity may include verification of a signature, inclusion of an identifier generally known only to the _user_ , or similar appropriate identification. The address of the security officer is:
 
-                                    HIPAA Privacy Director
+                                    Security Officer
 
                                     SUNY Downstate Medical Center
 
-                                    Office of Corporate Compliance
+                                    Information Services
 
                                     450 Clarkson Ave.
 
-                                    Box #1248
+                                    Box #17
 
                                     Brooklyn, New York 11203
 
-The privacy director shall, within five (5) business days of the receipt of a proper request, provide access to the _personal information_ ; deny access in writing, explaining the reasons therefore; or acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not be more than thirty (30) days from the date of the acknowledgment.
+The security officer shall, within five (5) business days of the receipt of a proper request, provide access to the _personal information_ ; deny access in writing, explaining the reasons therefore; or acknowledge the receipt of the request in writing, stating the approximate date when the request will be granted or denied, which date shall not be more than thirty (30) days from the date of the acknowledgment.
 
 In the event that SUNY Downstate has collected _personal information_ pertaining to a _user_ through downstate.edu and that information is to be provided to the _user_ pursuant to the _user’s_ request, the privacy director shall inform the _user_ of his or her right to request that the _personal information_ be amended or corrected under the procedures set forth in [section 95 of the Public Officers Law.](http://www.tenant.net/Other_Laws/Pubofc/pubofc08.txt)
 
@@ -88,21 +88,21 @@ Cookies are small pieces of information that are stored by the _user's_ browser 
 
 **Disclaimer**
 
-The information provided in this privacy policy should not be construed as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through downstate.edu. 
+The information provided in this privacy policy should not be construed as giving business, legal, or other advice, or warranting as fail proof, the security of information provided through downstate.edu.
 
 **Contact Information**
 
-For questions regarding this Internet privacy policy, please contact our privacy director via email at [privacy@downstate.edu](mailto:privacy@downstate.edu) or by regular mail at:
+For questions regarding this Internet privacy policy, please contact our security officer via regular mail at:
 
-HIPAA Privacy Director
+Security Officer
 
                                     SUNY Downstate Medical Center
 
-                                    Office of Corporate Compliance
+                                 Information Services
 
                                     450 Clarkson Ave.
 
-                                    Box #1248
+                                    Box #17
 
                         Brooklyn, New York 11203
 
