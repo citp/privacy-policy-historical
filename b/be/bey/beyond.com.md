@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604011209id_/http%3A//beyond.com/company/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyond.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802085120id_/http%3A//www.beyond.com/company/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
