@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmvnv.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604015526id_/http%3A//psp.state.nv.us/IEM_POL_5.7.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmvnv.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204223512id_/http%3A//psp.state.nv.us/IEM_POL_5.7.htm) for the most accurate reproduction.*
 
 # Department of Information Technology
 
