@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gerson.org privacy policy that was archived on 2004-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041206035325id_/http%3A//www.gerson.org/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gerson.org privacy policy that was archived on 2005-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305035040id_/http%3A//www.gerson.org/privacy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="Javascript">
 		function setValue(form, fieldname, fieldvalue) {
@@ -335,6 +335,221 @@
 				oWhich.style.display="none"
 			}
 		}
+		
+
+		function DisplayHeadCountItem(id, mode) {
+			try {
+			if (id == 1)
+				seat1.style.display = mode;			
+			else if (id == 2)
+				seat2.style.display = mode;			
+			else if (id == 3)
+				seat3.style.display = mode;			
+			else if (id == 4)
+				seat4.style.display = mode;			
+			else if (id == 5)
+				seat5.style.display = mode;			
+			else if (id == 6)
+				seat6.style.display = mode;			
+			else if (id == 7)
+				seat7.style.display = mode;			
+			else if (id == 8)
+				seat8.style.display = mode;			
+			else if (id == 9)
+				seat9.style.display = mode;			
+			else if (id == 10)
+				seat10.style.display = mode;			
+			else if (id == 11)
+				seat11.style.display = mode;			
+			else if (id == 12)
+				seat12.style.display = mode;			
+			else if (id == 13)
+				seat13.style.display = mode;			
+			else if (id == 14)
+				seat14.style.display = mode;			
+			else if (id == 15)
+				seat15.style.display = mode;			
+			else if (id == 16)
+				seat16.style.display = mode;			
+			else if (id == 17)
+				seat17.style.display = mode;			
+			else if (id == 18)
+				seat18.style.display = mode;			
+			else if (id == 19)
+				seat19.style.display = mode;			
+			else if (id == 20)
+				seat20.style.display = mode;			
+			else if (id == 21)
+				seat21.style.display = mode;			
+			else if (id == 22)
+				seat22.style.display = mode;			
+			else if (id == 23)
+				seat23.style.display = mode;			
+			else if (id == 24)
+				seat24.style.display = mode;			
+			else if (id == 25)
+				seat25.style.display = mode;			
+			else if (id == 26)
+				seat26.style.display = mode;			
+			else if (id == 27)
+				seat27.style.display = mode;			
+			else if (id == 28)
+				seat28.style.display = mode;			
+			else if (id == 29)
+				seat29.style.display = mode;			
+			else if (id == 30)
+				seat30.style.display = mode;			
+			else if (id == 31)
+				seat31.style.display = mode;			
+			else if (id == 32)
+				seat32.style.display = mode;			
+			else if (id == 33)
+				seat33.style.display = mode;			
+			else if (id == 34)
+				seat34.style.display = mode;			
+			else if (id == 35)
+				seat35.style.display = mode;			
+			else if (id == 36)
+				seat36.style.display = mode;			
+			else if (id == 37)
+				seat37.style.display = mode;			
+			else if (id == 38)
+				seat38.style.display = mode;			
+			else if (id == 39)
+				seat39.style.display = mode;			
+			else if (id == 40)
+				seat40.style.display = mode;			
+			else if (id == 41)
+				seat41.style.display = mode;			
+			else if (id == 42)
+				seat42.style.display = mode;			
+			else if (id == 43)
+				seat43.style.display = mode;			
+			else if (id == 44)
+				seat44.style.display = mode;			
+			else if (id == 45)
+				seat45.style.display = mode;			
+			else if (id == 46)
+				seat46.style.display = mode;			
+			else if (id == 47)
+				seat47.style.display = mode;			
+			else if (id == 48)
+				seat48.style.display = mode;			
+			else if (id == 49)
+				seat49.style.display = mode;			
+			else if (id == 50)
+				seat50.style.display = mode;			
+			} catch (Exception) {}
+		}
+		
+  		function UpdateHeadCount() {
+  			var MaxSeat = 50
+			var count = document.Fundraiser.HeadCount.value;
+			if (count.length > 0)
+			{
+				count = parseInt(count);
+				
+				var count2 = 1;
+				while (count2 <= count)
+				{
+					DisplayHeadCountItem(count2,"");
+					count2 = count2 + 1;				
+				}
+
+				var count3 = parseInt(count) + 1;
+				while (count3 <= MaxSeat)
+				{
+					DisplayHeadCountItem(count3,"none");
+					count3 = count3 + 1;				
+				}				
+			}
+			else 
+			{
+				//HeadCountCost.innerText  = "$0";
+				//HeadCountAttendee.style.display = "none";		
+				var count = 1;
+				while (count <= MaxSeat)
+				{
+					DisplayHeadCountItem(count,"none");
+					count = count + 1;
+				}					
+			}
+			UpdateTotalTotal();
+  		}
+
+		//To be called by onBlur
+		function RemoveNonNumerals(str) {
+			return str.replace(/[^0-9]/g,'');
+		}
+
+		function UpdateTotalTotal()
+		{
+			var headCount = 0;
+			var grandTotal = 0;
+			var donation = 0;
+			
+			try {
+				headCount = parseInt(document.Fundraiser.HeadCount.value);
+			} catch (Exception) {}
+
+			try {
+				donation = RemoveNonNumerals(document.Fundraiser.Donation.value);
+				if (donation.length > 0)
+					donation = parseInt(donation);
+				else
+					donation = 0;
+			} catch (Exception) {}
+			
+			grandTotal = donation + (1000 * headCount);
+			HeadCountCost.innerText = "$" + grandTotal;
+			GrandTotalLabel.innerText = "$" + grandTotal;
+		}
+		
+		function showhideobjects() {
+			UpdateHeadCount();
+		}
+		  		
+  		function SetTBD(form,fieldName,mode) {
+			var strFieldValue = eval(fieldName + ".value");
+			if (mode == true) {
+				if (strFieldValue == "")
+					eval(fieldName + ".value = 'tbd'");
+				else
+					eval(fieldName + ".value = '" + strFieldValue + "'");				
+			} else {
+				if (strFieldValue == "tbd")
+					eval(fieldName + ".value = ''");
+				else
+					eval(fieldName + ".value = '" + strFieldValue + "'");							
+			}
+  		}
+  		
+  		function ToggleTBD(form,seat,mode) {
+  			SetTBD(form,"form.s" + seat + "name",mode);
+  			SetTBD(form,"form.s" + seat + "email",mode);
+  			SetTBD(form,"form.s" + seat + "phone",mode);
+  			SetTBD(form,"form.s" + seat + "address1",mode);
+  			SetTBD(form,"form.s" + seat + "address2",mode);
+  			SetTBD(form,"form.s" + seat + "city",mode);
+  			SetTBD(form,"form.s" + seat + "state",mode);
+  			SetTBD(form,"form.s" + seat + "zip",mode);
+  		}
+  		
+		function ToggleHeadTDB(form)
+		{
+			var mode = false;
+			if (document.Fundraiser.chkHeadCount.checked)
+				mode = true;
+				
+			for (var i=1;i<10;i++)
+				ToggleTBD(form,i,mode);
+		}
+
+		//To be called by onBlur
+		function RemoveNonNumerals(str) {
+			return str.replace(/[^0-9]/g,'');
+		}
+						
 </script>
 
 
@@ -376,7 +591,7 @@ function MM_swapImage() { //v3.0
     <td width="669" valign="bottom"><table width="669" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td width="334">&nbsp;</td>
-          <td width="335" align="right" class="DateFont">12/5/2004&nbsp;</td>
+          <td width="335" align="right" class="DateFont">3/4/2005&nbsp;</td>
         </tr>
       </tbody></table></td>
   </tr>
@@ -459,7 +674,33 @@ function MM_swapImage() { //v3.0
 					<tbody><tr><td>&nbsp;</td></tr>
 					<tr>
 						<td valign="top"><img src="./images/arrow_right.gif" width="9" height="9" border="0" align="absbottom">&nbsp;&nbsp;</td>
-						<td>12/6/2004<br><a href="./events/detail.asp?id=23">Module II Practitioner Training</a><br><br></td>
+						<td>4/8/2005<br><a href="./events/detail.asp?id=25">Gerson Therapy Caregiver Class</a><br><br></td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr><td><img src=".images/back_quick_link_divider.gif" width="205" height="1"></td></tr>
+		
+			<tr>
+				<td>
+					<table width="90%" border="0" cellspacing="0" cellpadding="0" align="center" id="Table1">
+					<tbody><tr><td>&nbsp;</td></tr>
+					<tr>
+						<td valign="top"><img src="./images/arrow_right.gif" width="9" height="9" border="0" align="absbottom">&nbsp;&nbsp;</td>
+						<td>5/9/2005<br><a href="./events/detail.asp?id=26">Module I - Training Program for Licensed Professionals</a><br><br></td>
+					</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr><td><img src=".images/back_quick_link_divider.gif" width="205" height="1"></td></tr>
+		
+			<tr>
+				<td>
+					<table width="90%" border="0" cellspacing="0" cellpadding="0" align="center" id="Table1">
+					<tbody><tr><td>&nbsp;</td></tr>
+					<tr>
+						<td valign="top"><img src="./images/arrow_right.gif" width="9" height="9" border="0" align="absbottom">&nbsp;&nbsp;</td>
+						<td>5/16/2005<br><a href="./events/detail.asp?id=27">Module II - Internship for Graduates of Module I</a><br><br></td>
 					</tr>
 					</tbody></table>
 				</td>
