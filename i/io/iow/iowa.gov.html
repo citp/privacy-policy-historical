@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the iowa.gov privacy policy that was archived on 2003-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030610213304id_/http%3A//www.iowaccess.org/main/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iowa.gov privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202164921id_/http%3A//www.iowaccess.org/main/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Privacy Notice | The State of Iowa</title>
@@ -78,7 +78,7 @@
   <tr> 
     <td> <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.iowaccess.design.iastate.edu/">Moving 
         to Iowa</a><br>
-        </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.iowaccess.org/jobs/"><font size="1">Finding 
+        </font><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.iowajobs.org"><font size="1">Finding 
         a Job</font></a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
         <a href="http://www.iowaccess.org/main/links/traveliowa.html">Traveling 
         Iowa</a> </font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br>
@@ -97,10 +97,13 @@
         <a href="http://www2.info.state.ia.us/roi/index.html" target="_blank">ROI 
         Program</a> <br>
         <a href="http://www.iowacourtsonline.org" target="_blank">Online Court<br>
-        Records Service</a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-        <br>
-        <a href="http://www.iowaonline.state.ia.us/catv4/" target="_blank">Find 
-        a Form</a></font></p></td>
+        Records Service<br>
+        </a></font><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.icon.iowasmart.com" target="_blank">Iowa 
+        Communities <br>
+        Online Network</a> <br>
+        <a href="http://www.iowaonline.state.ia.us/catv4/ffV4Login.asp?sNode=0&amp;Exp=Y&amp;strHotLink=LatestInfo&amp;autherror=" target="_blank">Find 
+        a Form</a></font></p>
+      </td>
   </tr>
   <tr bgcolor="#001C88"> 
     <td height="26" bgcolor="#336699"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Browse 
@@ -133,7 +136,7 @@
     <td height="26" bgcolor="#336699"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Directories</font></td>
   </tr>
   <tr> 
-    <td height="10"> <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="../main/elect_officials.html">Elected 
+    <td height="10"> <p><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.iowaccess.org/main/elect_officials.html">Elected 
         Officials<br>
         </a></font><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="http://www.icn.state.ia.us/telephone/newphonedirectory/Maindirectory02a.pdf" target="_blank">State 
         Employees</a></font></p></td>
@@ -159,25 +162,32 @@
     </td>
     <td width="525" align="left" valign="top"> 
       <!--Start Search Engine -->
-      <table width="100%" border="0" cellpadding="6" cellspacing="0" title="Search">
-        <form name="sitesearch" method="get" action="http://www2.iowaccess.org/search/search.asp"></form>
+      <script>
+function doactchange(svar){
+var svar;
+document.sopt.action=svar;
+}
+</script>
+<table width="100%" border="0" cellpadding="6" cellspacing="0" title="Search">
+        <form name="sopt" method="post" action="http://search.iowaccess.org/shallow/search.aln"></form>
 			<tbody><tr> 
             
       <th align="left" valign="baseline" nowrap="" bgcolor="#CC6633" title="Search"> 
         <p><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF"><label for="Search">SEARCH</label> 
                 
-          <label for="ct"><font color="#CC6633">ct</font></label>
-          <select name="ct" id="ct" title="Select Search Type">
-            <option value="Shallow" selected="" title="Shallow Search" label="Shallow Search"> 
-            Search for a Website
-            </option>
-            <option value="FullSite" id="FullSite Search" title="FullSite Search" label="FullSite Search">Search 
-            all State documents online </option>
+          
+		  
+		  <select name="ct" onchange="doactchange('http://search.iowaccess.org/'+document.sopt.ct.options[document.sopt.ct.selectedIndex].value+'/search.aln')">
+                  <option value="shallow" selected="" onclick="doactchange('http://search.iowaccess.org/shallow/search.aln')">Search 
+                  for a Website</option>
+                  <option value="fullsite" onclick="doactchange('http://search.iowaccess.org/fullsite/search.aln')">Search 
+                  all State documents online</option>
           </select>
-                </font>
-          <label for="q1"><font color="#CC6633">q1</font></label>				
-<input name="q1" type="text" id="q1" title="q1" size="15" maxlength="90">
-          <input name="" type="submit" style="
+          
+		  </font>
+          				
+<input name="search" type="text" size="15" maxlength="90">
+<input type="submit" value="Find This" style="
 color: #ffffff;
 background: #336699;
 border-color: #ffffff;
@@ -186,7 +196,7 @@ border-bottom: 1px solid;
 border-left: 1px solid;
 border-right: 1px solid;
 font-family: Arial;
-font-size: 11px" title="Submit Search" value="Find This">
+font-size: 11px">
         </p>
             </th>
           </tr>
