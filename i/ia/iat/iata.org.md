@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624135018id_/http%3A//www1.iata.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iata.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204170438id_/http%3A//www.iata.org/privacy.htm) for the most accurate reproduction.*
 
 # IATA - Privacy Policy
 
@@ -23,7 +23,9 @@ If you have any questions regarding IATA's Privacy Policy, please e-mail us at
 
 [privacy@iata.org](mailto:privacy@iata.org)
 
- __**_
+If your request is **not** about privacy, please see our [help page](https://web.archive.org/help.htm)
+
+__**_
 
 The IATA Online Store:   
 Privacy Protection Measures
@@ -114,5 +116,7 @@ How can you be sure any connection is secure? Simply look at the lower left-hand
 **Comments or questions**
 
 If you have any comments or questions about our Privacy Policy and its application to transactions on the Online Store, send us an e-mail at the following address: [privacy@iata.org](mailto:privacy@iata.org) _._
+
+If your request is **not** about privacy, please see our [help page](https://web.archive.org/help.htm)
 
 |  | 
