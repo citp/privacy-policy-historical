@@ -1,7 +1,333 @@
-<!--The following is the downloaded HTML source of the peterglenn.com privacy policy that was archived on 2001-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217232558id_/http%3A//www.peterglenn.com/pglenn/text_2.asp%3Ftx_id%3D75%26) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the peterglenn.com privacy policy that was archived on 2003-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030620133121id_/http%3A//www.peterglenn.com/pglenn/text_2.asp%3Ftx_id%3D75%26) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script language="javascript">
+var user_firstname= "";
+var user_lastname= "";
+var user_guid= ' ';
+var user_name= "";
+var user_email= "";
+</script>
+
+<script language="javascript">
+<!--
+var basket_items= '0';
+//-->
+</script>
+
+<script language="javascript">
+var gen_msg = "";
+var addto = "";
+
+function IntURL(BaseURL,Linktext,args) {
+ if (user_guid !=' ') {
+	mlink=Linktext.link(BaseURL + '?s_id=0&mscssid='+ user_guid+ '&'+args);
+	}
+ else  {
+ 	mlink=Linktext.link(BaseURL + '?s_id=0&'+ args);
+ }
+ document.write(mlink); 
+   
+    }
+function visitargs(PageURL,args,SURL) 
+{
+	if (user_guid !=' ') 
+	{
+		PageURL =PageURL + '?s_id=0&mscssid='+ user_guid+ '&'+ args;
+	}
+	else  
+	{
+ 		PageURL =PageURL + '?s_id=0&'+ args ;
+	}
+	if (SURL=='SURL'){
+	location = 'https://www.peterglenn.com/pglenn/'+PageURL;
+	}
+	else {
+	location = 'http://www.peterglenn.com/pglenn/'+PageURL;
+	}
+	//Note: This return is required as well
+	// false tells the browser to ignore the default action entirely
+	//	usage <A HREF="#" onClick=return(visitargs('http://www.altavista.com','none','SURL'));>Click Here II</A>
+	return(false);	
+}
+
+function drawinput(type,name,value,size,target,iclass,selected) {                 
+                   document.write('<input type='+type+' name='+name+' value="'+value+'" size='+ size +' class='+iclass+' '+selected+' target='+target+' >');
+ } 
+ 
+function writeoption(option,display,select){
+if (select == option ){ selected="SELECTED" }else {selected=" "};
+     while(option.indexOf("'")>0){
+      option=option.replace("'","&#39;");
+     }
+     document.write("<OPTION Value='"+option+"' "+ selected +">"+ display);
+}  
+</script>
+
+<script language="JAVASCRIPT">
+function deptdropdown(label) {
+
+document.write('<form METHOD="POST">');
+document.write('<select class=q_jump name ="q_jump" onChange="visit(this.options[selectedIndex].value)">');
+document.write('<option value = "" >' + label + '</option>');
+
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6670 >Adio Shoes");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=4315 >Arnette Sunglasses");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15010 >Asolo Hiking Boots");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15020 >Atomic Skis");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=1619 >Blondo Après Ski Boots-Ladies");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15040 >Boeri Helmets");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=1624 >Bogner Après Ski Boots-Ladies");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15050 >Bogner Ski Wear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15790 >Bonfire Snowboard Apparel");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15060 >Burton Snowboarding");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15070 >CamelBak Hydration Systems");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15080 >Carrera Helmets & Goggles");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=90 >Clearance");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=91 >Clearance Footwear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=93 >Clearance Ski Clothing");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=94 >Clearance Snowboarding");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15780 >Cold as Ice Snowboard Clothing");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=1605 >Columbia Footwear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15100 >Columbia Travel Clothing");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7150 >Connelly Wakeboards");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15110 >Connelly Wakeboards/Waterskis");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15120 >Da Kine Snowboard Products");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15130 >DC");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6650 >DC  Shoes");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15140 >Drake Snowboard bindings");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15150 >Dynastar Skis");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15160 >Eagle Creek Pack systems");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=4219 >Eagle Creek Waist Packs & Wallets");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15180 >ExOfficio Mens/Womens");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15190 >Fleece");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15240 >Gordini gloves");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15250 >Head Alpine Skis");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15260 >HO Waterskis");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6050 >Hockey Skates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15270 >Hot Chillys");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15280 >Hyperlite Wakeboards");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7140 >Hyperlite Wakeboards");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=60 >In-line Skating");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=97 >K2 Clearance Skates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6010 >K2 Skates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15290 >K2 Skates & Skis");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15810 >K2 Snowboard");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15300 >Kamik Après Ski Boots");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15310 >Khombu Après Ski Boots");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7120 >Kneeboards & Wakeskates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15330 >Kombi Gloves");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15340 >Lange Ski Boots");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15360 >Liquid Force Wakeboards");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7130 >Liquid Force Wakeboards");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7520 >Mapei Accessories");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7515 >Mapei Jerseys");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7510 >Mapei Shorts");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15370 >Marmot Ski Clothing");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15390 >Maui Jim Sunglasses");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=4320 >Maui Jim® Sunglasses");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15400 >Medalist Thermals/Turtlenecks");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6001 >Mens Skates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7530 >Mens Sportful");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15410 >Merrell Footwear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6051 >Mission Hockey Skates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=4120 >Montrail Footwear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15430 >Nils Ski Wear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15440 >Nordica Ski boots");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15450 >Northwave Snowboard Boots");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=1649 >Oakley Footwear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=4325 >Oakley Sunglasses");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15460 >Obermeyer Ski Clothing");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7110 >Obrien Wakeboards");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15470 >Obrien Waterskis/Wakeboards");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=4335 >Optic Nerve Sunglasses");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15490 >Patagonia Travel Clothing");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15500 >PolarMax Thermals");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=3001 >Premier Snow Skates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15510 >Regina Après Ski Boots");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15540 >Rollerblade Accessories & Skates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=111 >Rollerblade Clearance Skates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6030 >Rollerblade Skates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15550 >Rossignol Skis");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15560 >Royal Robbins Travel Clothing");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15570 >Salomon Alpine Bindings");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=4130 >Salomon Footwear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6020 >Salomon Skates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=1660 >Sanuk Sandals");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15580 >Schoffel Travel Clothing");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15800 >Sessions Snowboard Clothing");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6600 >Skateboard");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6603 >Skateboard Caps");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6602 >Skateboard Packs");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6605 >Skateboard Shorts");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6604 >Skateboard T-Shirts");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6607 >Skateboard Videos");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6000 >Skates");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=1445 >SKEA Ltd. Ski Wear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15600 >Skinetics Mens/Womens");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15610 >Smartwool socks");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15620 >Smith Sunglasses");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=4330 >Smith Sunglasses");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=6606 >Socks & Belts");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15630 >Sport Tube Ski/Snowboard carrier");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7500 >Sportful Cycling Gear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15640 >Sports Graphics Ski Luggage");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=1439 >Spyder Kids");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=1437 >Spyder Mens");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15660 >Stegmann Footwear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=4310 >Sunglasses");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=4251 >Suunto Watches");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15670 >Switch Snowboard Accessories");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15680 >The North Face Travel Gear");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15690 >Thermasilk Thermals");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15700 >Thermastat Thermals");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15710 >Thorlo Socks");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15730 >Uggs Boots/Clogs");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15750 >Volant Skis");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15760 >Volkl Skis");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7155 >Wakeboard Bindings");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=7525 >Womens Sportful");
+					
+						document.write("<option value = http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&dept%5Fid=15770 >Woolrich Travel Clothing");
+					
+document.write('</select></TD>');
+document.write('</form>');
+}
+</script>
+<script language="JAVASCRIPT">
+<!--
+function visit(newURL) {
+  //--If the selected file name isn't blank, send it to reader.
+  if (newURL != "") {
+	//winObj=window.open(newURL,'_top','toolbar=1,status=1,scrollbars=1')
+	// CH 9/20/00 : stops netscape from changing browser configuration
+	winObj=window.open(newURL,'_top')
+  }
+}
+//-->
+
+ function OKStrOfPenny(X) { 
+ var T, S=new String(Math.round(X))
+ while (S.length<3) S='0'+S
+   return S.substr(0, T=(S.length-2)) + '.' + S.substr(T, 2)
+ }
+</script>
+
     <title>ski shop, snowboard shop, water ski shop, wakeboard shop, in-line skate shop</title>
     <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
       
@@ -40,7 +366,8 @@ function MM_swapImage() { //v2.0
   document.MM_swapImgData = swapArray; //used for restore
 }
 //-->
-</script><style>.deptbarlink {font-family:arial; color: #000000; font-size:10pt; text-decoration: none; font-weight:bold;} .deptbarlink:hover {font-family:arial; color: red; font-size:10pt; text-decoration: none; font-weight:bold; align: right}</style><style>.test{font-family:verdana; color: #FFFFFF; font-size:10pt; text-decoration: none; font-weight:bold;} </style><style>.deptlinkP {font-size:10pt;}</style><style>.deptbarlink2 {font-family:arial; color: #000000; font-size:8pt; text-decoration: none} .deptbarlink2:hover {font-family:none; color: "DARKBLUE"; font-size:8pt; text-decoration: none; font-weight:bold}</style><style>.deptlinkM {font-family:arial; color: darkblue; font-size:10pt; text-decoration: none; font-weight:bold} .deptlinkM:hover {font-family:arial; color: blue ; font-size:10pt; text-decoration: none; font-weight:bold; align: right}</style></head>
+</script><style>.deptbarlink {font-family:arial; color: #000000; font-size:10pt; text-decoration: none; font-weight:bold;} .deptbarlink:hover {font-family:arial; color: red; font-size:10pt; text-decoration: none; font-weight:bold; align: right}</style><style>.test{font-family:verdana; color: #FFFFFF; font-size:10pt; text-decoration: none; font-weight:bold;} </style><style>.ProductName {font-family:arial; color:green; font-size:10pt; text-decoration: none; font-weight:bold;} </style><style>.deptlinkP {font-size:10pt;}</style><style>.deptbarlink2 {font-family:arial; color: #000000; font-size:8pt; text-decoration: none} .deptbarlink2:hover {font-family:none; color: "DARKBLUE"; font-size:8pt; text-decoration: none; font-weight:bold}</style><style>.deptlinkM {font-family:arial; color: darkblue; font-size:10pt; text-decoration: none; font-weight:bold} .deptlinkM:hover {font-family:arial; color: blue ; font-size:10pt; text-decoration: none; font-weight:bold; align: right}</style></head>
+
 
 
 
@@ -65,8 +392,8 @@ function MM_swapImage() { //v2.0
 	 
 	<table width="0" height="0" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr><td width="0" valign="TOP" align="CENTER">
-	   </td>
-	</tr></tbody></table>
+	   </td></tr>
+	</tbody></table>
 </td>
 	 
  
@@ -169,11 +496,10 @@ function preloadImages() {
 
 	 
 	</td></tr> </tbody></table>
-</td>
-	
-</tr>
+</td></tr>
 </tbody></table>
-</td></tr></tbody></table>
+</td></tr>
+</tbody></table>
 
 
 
@@ -189,26 +515,27 @@ function preloadImages() {
 <!--Left Column-->
 <td width="123" valign="TOP" align="LEFT">
 <font face="arial, helvetica" size="2">  <strong> </strong>
-  <table border="0" width="123" align="Left" cellspacing="0" cellpadding="0"><tbody><tr><td>  
+   <table border="0" width="123" align="Left" cellspacing="0" cellpadding="0"><tbody><tr><td>  
 <table border="0" width="123" align="Left" cellspacing="0" cellpadding="0">
     <tbody><tr>
-      <td align="center" width="123" height="30" nbsp;=""> <form name="find_spec" method="POST" action="find.asp">
+      <td align="center" width="123" height="30"> <form name="find_spec" method="POST" action="find.asp">
   <input type="TEXT" name="find_spec" size="9" maxlength="200">
           &nbsp;<br> 
           <input type="HIDDEN" name="FindOptWhole" value="Whole">
    <input type="Image" value="Find" src="assets/images/search.gif" border="0" alt="Find It"></form>
 </td></tr>
     <tr>
-      <td width="123" height="36"><img src="assets/images/navhelpmail.gif" width="138" height="35" usemap="#Mapdept" border="0" target="basket.asp" align="left"><map name="Mapdept"><area shape="rect" coords="4,6,30,29" href="dept.asp?dept_id=99&amp;" alt="Have Questions?" title="Have Questions?"><area shape="rect" coords="37,9,59,29" href="mailto:customerservice@peterglenn.com" alt="e-mail us" title="e-mail us"><area shape="rect" coords="69,5,95,31" href="basket.asp" alt="Your Shopping Cart" title="Your Shopping Cart"><area shape="rect" coords="104,7,125,30" href="https://digitalid.verisign.com/as2/8f219ae8b57e68c916b4bb55ca25cd0e" alt="Secure e-commerce" title="Secure e-commerce"></map></td>
+      <td width="123" height="36"><img src="assets/images/navhelpmail.gif" width="138" height="35" usemap="#Mapdept" border="0" target="basket.asp" align="left"><map name="Mapdept"><area shape="rect" coords="4,6,30,29" href="dept.asp?dept_id=99&amp;" alt="Have Questions?" title="Have Questions?"><area shape="rect" coords="37,9,59,29" href="mailto:customerservice@peterglenn.com" alt="e-mail us" title="e-mail us"><area shape="rect" coords="69,5,95,31" href="basket.asp" alt="Your Shopping Cart" title="Your Shopping Cart"><area shape="rect" coords="104,7,125,30" href="https://digitalid.verisign.com/as2/9f51c2871df3b3c9022001859ad68b08" alt="Secure e-commerce" title="Secure e-commerce"></map></td>
     </tr>
 <tr>
       <td><img src="assets/images/categorieslogo.jpg" border="0" align="center" width="127" height="16"></td></tr>
    </tbody></table>
 </td></tr>
-<tr><td><ul><font face="arial, helvetica" size="1"></font></ul><table border="0" cellpadding="0" cellspacing="0" width="132"> <tbody><tr><td width="132" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15" class="deptbarlink" target="_top">Alpine Skiing</a> </td></tr> <tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1200" class="deptbarlink2" target="_top">Alpine Bindings</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1100" class="deptbarlink2" target="_top">Alpine Boots</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1300" class="deptbarlink2" target="_top">Alpine Poles</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1600" class="deptbarlink2" target="_top">Apres Ski Boots</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1400" class="deptbarlink2" target="_top">Ski Clothing</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1500" class="deptbarlink2" target="_top">Alpine Ski Accessories</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1000" class="deptbarlink2" target="_top">Alpine Skis</a> </td></tr> <tr><td width="132" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=30" class="deptbarlink" target="_top">Snowboarding</a> </td></tr> <tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3200" class="deptbarlink2" target="_top">Snowboard Bindings</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3100" class="deptbarlink2" target="_top">Snowboard Boots</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3000" class="deptbarlink2" target="_top">Snowboards</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3400" class="deptbarlink2" target="_top">Snowboard Accessories</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3300" class="deptbarlink2" target="_top">Snowboard Clothing</a> </td></tr> <tr><td width="132" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=40" class="deptbarlink" target="_top">Travel Gear</a> </td></tr> <tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4200" class="deptbarlink2" target="_top">Packs &amp; Luggage</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4000" class="deptbarlink2" target="_top">Travel Clothing</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4100" class="deptbarlink2" target="_top">Adventure Footwear</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4300" class="deptbarlink2" target="_top">Travel Accessories</a> </td></tr> <tr><td width="132" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=90" class="deptbarlink" target="_top">Clearance</a> </td></tr> <tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=91" class="deptbarlink2" target="_top">Clearance Footwear</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=92" class="deptbarlink2" target="_top">Clearance Luggage</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=93" class="deptbarlink2" target="_top">Clearance Ski Clothing</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=94" class="deptbarlink2" target="_top">Clearance Snowboarding</a> </td></tr> <tr><td width="132" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4310" class="deptbarlink" target="_top">Sunglasses</a> </td></tr> <tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4315" class="deptbarlink2" target="_top">Arnette Sunglasses</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4320" class="deptbarlink2" target="_top">Maui Jim Sunglasses</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4325" class="deptbarlink2" target="_top">Oakley Sunglasses</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4330" class="deptbarlink2" target="_top">Smith Sunglasses</a> </td></tr> <tr><td width="132" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=60" class="deptbarlink" target="_top">In-line Skating</a> </td></tr> <tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=5205" class="deptbarlink2" target="_top">Hydration Systems</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6000" class="deptbarlink2" target="_top">Skates</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6300" class="deptbarlink2" target="_top">Bearings</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6350" class="deptbarlink2" target="_top">Skate Bags &amp; Packs</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4310" class="deptbarlink2" target="_top">Sunglasses</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6400" class="deptbarlink2" target="_top">Protective Gear</a> </td></tr> <tr><td width="132" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=70" class="deptbarlink" target="_top">Water Sports</a> </td></tr> <tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7300" class="deptbarlink2" target="_top">WaterSports Accessories</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7000" class="deptbarlink2" target="_top">Waterskis</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7100" class="deptbarlink2" target="_top">Wakeboards</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7200" class="deptbarlink2" target="_top">Tubes</a> </td></tr> <tr><td width="132" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=50" class="deptbarlink" target="_top">Camping</a> </td></tr> <tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=5210" class="deptbarlink2" target="_top">How To Fit A Backpack</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=5100" class="deptbarlink2" target="_top">Sleeping Bags</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=5000" class="deptbarlink2" target="_top">Tents</a> </td></tr><tr><td width="132" align="left"> &nbsp;&nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=5200" class="deptbarlink2" target="_top">Backpacks</a> </td></tr> </tbody></table></td></tr>
-    <tr><td align="center" width="123" height="30" nbsp;="">
+<tr><td>
+<font face="arial, helvetica" size="1"></font><table border="0" cellpadding="0" cellspacing="0" width="132"> <tbody><tr><td width="135" align="left"> <a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=5" class="deptbarlink" target="_top">Gift Certificates</a> </td></tr>  <tr><td width="135" align="left"> <a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=17" class="deptbarlink" target="_top">Alpine Ski</a> </td></tr> <tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1100" class="deptbarlink2" target="_top">Alpine Boots</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1200" class="deptbarlink2" target="_top">Alpine Bindings</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1300" class="deptbarlink2" target="_top">Alpine Poles</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1000" class="deptbarlink2" target="_top">Alpine Skis</a> </td></tr> <tr><td width="135" align="left"> <a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7440" class="deptbarlink" target="_top">Car Racks &amp; Carriers</a> </td></tr> <tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7450" class="deptbarlink2" target="_top">Thule Rack Systems</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7600" class="deptbarlink2" target="_top">Yakima Rack Systems</a> </td></tr> <tr><td width="135" align="left"> <a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=30" class="deptbarlink" target="_top">Snowboarding</a> </td></tr> <tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3000" class="deptbarlink2" target="_top">Snowboards</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3100" class="deptbarlink2" target="_top">Snowboard Boots</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3200" class="deptbarlink2" target="_top">Snowboard Bindings</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3300" class="deptbarlink2" target="_top">Snowboard Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3400" class="deptbarlink2" target="_top">Snowboard Accessories</a> </td></tr> <tr><td width="135" align="left"> <a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1400" class="deptbarlink" target="_top">Ski Clothing</a> </td></tr> <tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1440" class="deptbarlink2" target="_top">Spyder</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1540" class="deptbarlink2" target="_top">Gloves</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1442" class="deptbarlink2" target="_top">Schoffel</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1443" class="deptbarlink2" target="_top">Nils</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1444" class="deptbarlink2" target="_top">Bogner Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1446" class="deptbarlink2" target="_top">Obermeyer Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1450" class="deptbarlink2" target="_top">Columbia Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1460" class="deptbarlink2" target="_top">Fire &amp; Ice Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1480" class="deptbarlink2" target="_top">Orage Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1501" class="deptbarlink2" target="_top">Metropolis Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1545" class="deptbarlink2" target="_top">Descente Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1546" class="deptbarlink2" target="_top">The North Face Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1547" class="deptbarlink2" target="_top">Marker Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3420" class="deptbarlink2" target="_top">Socks</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1560" class="deptbarlink2" target="_top">Thermals</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1445" class="deptbarlink2" target="_top">SKEA Ltd. Ski Wear</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1410" class="deptbarlink2" target="_top">Men's Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1420" class="deptbarlink2" target="_top">Women's Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1430" class="deptbarlink2" target="_top">Kid's Ski Clothing</a> </td></tr> <tr><td width="135" align="left"> <a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1600" class="deptbarlink" target="_top">Après Ski Boots</a> </td></tr> <tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1610" class="deptbarlink2" target="_top">Ladies Après Ski Boots</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1630" class="deptbarlink2" target="_top">Men's Après Ski Boots</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1650" class="deptbarlink2" target="_top">Kid's Après Ski Boots</a> </td></tr> <tr><td width="135" align="left"> <a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1500" class="deptbarlink" target="_top">Alpine Ski Accessories</a> </td></tr> <tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1540" class="deptbarlink2" target="_top">Gloves</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1510" class="deptbarlink2" target="_top">Goggles</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1520" class="deptbarlink2" target="_top">Hats and Headbands</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1550" class="deptbarlink2" target="_top">Helmets</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4310" class="deptbarlink2" target="_top">Sunglasses</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1530" class="deptbarlink2" target="_top">Ski Luggage</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3420" class="deptbarlink2" target="_top">Socks</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1560" class="deptbarlink2" target="_top">Thermals</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=5205" class="deptbarlink2" target="_top">Hydration Systems</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1565" class="deptbarlink2" target="_top">Terramar Thermals</a> </td></tr> <tr><td width="135" align="left"> <a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=35" class="deptbarlink" target="_top">Adventure Gear</a> </td></tr> <tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4251" class="deptbarlink2" target="_top">Suunto Watches</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=40" class="deptbarlink2" target="_top">Travel Gear &amp; Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=50" class="deptbarlink2" target="_top">Camping</a> </td></tr> <tr><td width="135" align="left"> <a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=70" class="deptbarlink" target="_top">Water Sports</a> </td></tr> <tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7400" class="deptbarlink2" target="_top">Kayaks</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7120" class="deptbarlink2" target="_top">Kneeboards &amp; Wakeskates</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7100" class="deptbarlink2" target="_top">Wakeboards</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7000" class="deptbarlink2" target="_top">Waterskis</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7200" class="deptbarlink2" target="_top">Tubes</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7300" class="deptbarlink2" target="_top">WaterSports Accessories</a> </td></tr> <tr><td width="135" align="left"> <a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=90" class="deptbarlink" target="_top">Clearance</a> </td></tr> <tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=91" class="deptbarlink2" target="_top">Clearance Footwear</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=92" class="deptbarlink2" target="_top">Clearance Luggage</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=93" class="deptbarlink2" target="_top">Clearance Ski Clothing</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=94" class="deptbarlink2" target="_top">Clearance Snowboarding</a> </td></tr><tr><td width="135" align="left"> &nbsp;<a href="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=113" class="deptbarlink2" target="_top">Clearance Travel Clothing</a> </td></tr> </tbody></table> </td></tr>
+    <tr><td align="center" width="123" height="30">
       
-<a href=" https://digitalid.verisign.com/as2/fa9deb96e6fc85040258ae828e76a0dc" target="_top"><img align="LEFT" border="0" hspace="0" alt="Check us out - were are secure" src="assets/images/verisignlgogreen.gif"></a>
+<a href=" https://digitalid.verisign.com/as2/9f51c2871df3b3c9022001859ad68b08" target="_top"><img align="LEFT" border="0" hspace="0" alt="Check us out - were are secure" src="assets/images/verisignlgogreen.gif"></a>
 </td></tr></tbody></table> 
 	
 		 
@@ -228,120 +555,20 @@ function preloadImages() {
     <font face="verdana" size="2"><b></b></font></td>
    <td align="LEFT" valign="TOP">
    
-<form method="POST">
-<select name="q_jump" onchange="visit(this.options[selectedIndex].value)">
-<option value="">Shop by Brand</option>
 
-						<option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15000">Airwalk
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15010">Asolo
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15020">Atomic
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15030">Blindside
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1619">Blondo Apres Ski Boots-Ladies
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15040">Boeri
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15050">Bogner
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1624">Bogner Apres Ski Boots-Ladies
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15790">Bonfire
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15060">Burton
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15070">CamelBak
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15080">Carrera
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15090">Challenge VII
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=90">Clearance
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=91">Clearance Footwear
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=93">Clearance Ski Clothing
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=94">Clearance Snowboarding
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15780">Cold as Ice
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15100">Columbia
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15110">Connelly
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15120">Da Kine
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15130">DC
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15140">Drake
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15150">Dynastar
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15160">Eagle Creek
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4219">Eagle Creek Waist Packs &amp; Wallets
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15180">ExOfficio
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15190">Fleece
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15200">Fleece
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15210">Flow
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15220">Forum
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15230">Fulltilt
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15240">Gordini
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15250">Head
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15260">HO
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15270">Hot Chillys
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15280">Hyperlite
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15290">K2
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15810">K2 Snowboard
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15300">Kamik
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15310">Khombu
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15320">Kidder
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15330">Kombi
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15340">Lange
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15350">Leedom
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15360">Liquid Force
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15370">Marker
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15390">Maui Jim
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15400">Medalist
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15410">Merrell
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15420">Montrail
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4120">Montrail Footwear
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15430">Nils
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15440">Nordica
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15450">Northwave
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1649">Oakley Footwear
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15460">Obermeyer
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15470">Obrien
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15480">Outlast
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15490">Patagonia
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15500">Polar Max
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3001">Premier Snow Skates
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15510">Regina
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15520">Relax
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15530">Ride
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15540">Rollerblade
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15550">Rossignol
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15560">Royal Robbins
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15570">Salomon Alpine
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4130">Salomon Footwear
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6020">Salomon Skates
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15580">Schoffel
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15800">Sessions
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15590">Sims
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15600">Skinetics
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15610">Smartwool
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15620">Smith
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15630">Sport Tube
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15640">Sports Graphics
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1439">Spyder Kids
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1437">Spyder Mens
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15660">Stegmann
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15670">Switch
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15680">The North Face
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15690">Thermasilk
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15700">Thermastat
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15710">Thorlo
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15720">Tubbs
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15730">Uggs
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15740">Vans
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15750">Volant
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15760">Volkl
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4251">Watches
-						</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15770">Woolrich
-</option></select>
-</form>
+
+
+
+
+
+
+
+
 <script language="JAVASCRIPT">
-<!--
-function visit(newURL) {
-  //--If the selected file name isn't blank, send it to reader.
-  if (newURL != "") {
-	//winObj=window.open(newURL,'_top','toolbar=1,status=1,scrollbars=1')
-	// CH 9/20/00 : stops netscape from changing browser configuration
-	winObj=window.open(newURL,'_top')
-  }
-}
-//-->
-</script>
+deptdropdown('Shop by Brand');
+</script><form method="POST"><select class="q_jump" name="q_jump" onchange="visit(this.options[selectedIndex].value)"><option value="">Shop by Brand</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6670">Adio Shoes</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4315">Arnette Sunglasses</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15010">Asolo Hiking Boots</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15020">Atomic Skis</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1619">Blondo Après Ski Boots-Ladies</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15040">Boeri Helmets</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1624">Bogner Après Ski Boots-Ladies</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15050">Bogner Ski Wear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15790">Bonfire Snowboard Apparel</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15060">Burton Snowboarding</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15070">CamelBak Hydration Systems</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15080">Carrera Helmets &amp; Goggles</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=90">Clearance</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=91">Clearance Footwear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=93">Clearance Ski Clothing</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=94">Clearance Snowboarding</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15780">Cold as Ice Snowboard Clothing</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1605">Columbia Footwear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15100">Columbia Travel Clothing</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7150">Connelly Wakeboards</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15110">Connelly Wakeboards/Waterskis</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15120">Da Kine Snowboard Products</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15130">DC</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6650">DC  Shoes</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15140">Drake Snowboard bindings</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15150">Dynastar Skis</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15160">Eagle Creek Pack systems</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4219">Eagle Creek Waist Packs &amp; Wallets</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15180">ExOfficio Mens/Womens</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15190">Fleece</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15240">Gordini gloves</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15250">Head Alpine Skis</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15260">HO Waterskis</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6050">Hockey Skates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15270">Hot Chillys</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15280">Hyperlite Wakeboards</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7140">Hyperlite Wakeboards</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=60">In-line Skating</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=97">K2 Clearance Skates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6010">K2 Skates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15290">K2 Skates &amp; Skis</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15810">K2 Snowboard</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15300">Kamik Après Ski Boots</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15310">Khombu Après Ski Boots</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7120">Kneeboards &amp; Wakeskates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15330">Kombi Gloves</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15340">Lange Ski Boots</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15360">Liquid Force Wakeboards</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7130">Liquid Force Wakeboards</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7520">Mapei Accessories</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7515">Mapei Jerseys</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7510">Mapei Shorts</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15370">Marmot Ski Clothing</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15390">Maui Jim Sunglasses</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4320">Maui Jim® Sunglasses</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15400">Medalist Thermals/Turtlenecks</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6001">Mens Skates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7530">Mens Sportful</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15410">Merrell Footwear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6051">Mission Hockey Skates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4120">Montrail Footwear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15430">Nils Ski Wear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15440">Nordica Ski boots</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15450">Northwave Snowboard Boots</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1649">Oakley Footwear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4325">Oakley Sunglasses</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15460">Obermeyer Ski Clothing</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7110">Obrien Wakeboards</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15470">Obrien Waterskis/Wakeboards</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4335">Optic Nerve Sunglasses</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15490">Patagonia Travel Clothing</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15500">PolarMax Thermals</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=3001">Premier Snow Skates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15510">Regina Après Ski Boots</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15540">Rollerblade Accessories &amp; Skates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=111">Rollerblade Clearance Skates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6030">Rollerblade Skates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15550">Rossignol Skis</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15560">Royal Robbins Travel Clothing</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15570">Salomon Alpine Bindings</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4130">Salomon Footwear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6020">Salomon Skates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1660">Sanuk Sandals</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15580">Schoffel Travel Clothing</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15800">Sessions Snowboard Clothing</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6600">Skateboard</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6603">Skateboard Caps</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6602">Skateboard Packs</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6605">Skateboard Shorts</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6604">Skateboard T-Shirts</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6607">Skateboard Videos</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6000">Skates</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1445">SKEA Ltd. Ski Wear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15600">Skinetics Mens/Womens</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15610">Smartwool socks</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15620">Smith Sunglasses</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4330">Smith Sunglasses</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=6606">Socks &amp; Belts</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15630">Sport Tube Ski/Snowboard carrier</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7500">Sportful Cycling Gear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15640">Sports Graphics Ski Luggage</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1439">Spyder Kids</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=1437">Spyder Mens</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15660">Stegmann Footwear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4310">Sunglasses</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=4251">Suunto Watches</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15670">Switch Snowboard Accessories</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15680">The North Face Travel Gear</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15690">Thermasilk Thermals</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15700">Thermastat Thermals</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15710">Thorlo Socks</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15730">Uggs Boots/Clogs</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15750">Volant Skis</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15760">Volkl Skis</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7155">Wakeboard Bindings</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=7525">Womens Sportful</option><option value="http://www.peterglenn.com/pglenn/dept.asp?s%5Fid=0&amp;dept%5Fid=15770">Woolrich Travel Clothing</option></select></form></td>
 
-   </td>
+   
    <td align="LEFT" valign="TOP">
      </td></tr>
    </tbody></table>
@@ -379,13 +606,13 @@ There is a technology called "cookies" which can be used to provide you with tai
 You may set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You must have cookies enabled in your browser settings to complete a purchase at Peter Glenn of Vermont. 
 </p><p>
 <b>Will Peter Glenn of Vermont disclose the information it collects to outside parties? </b></p><p>
-Peter Glenn of Vermont does not sell, trade, or rent your personal information to others. Peter Glenn of Vermont may provide aggregate statistics about our customers as well as sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. 
+Peter Glenn of Vermont does not sell, trade, or rent your personal information to others. Peter Glenn of Vermont may provide aggregate statistics about our customers as well as sales, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. <br><br> 
 
 <b>Our Commitment </b></p><p>
-We are committed to protecting your privacy. We use the information we collect on the site to make shopping at Peter Glenn of Vermont possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others. 
+We are committed to protecting your privacy. We use the information we collect on the site to make shopping at Peter Glenn of Vermont possible and to enhance your overall shopping experience. We do not sell, trade, or rent your personal information to others.<br><br> 
 
 <b>Let us know what you think </b></p><p>
-Peter Glenn of Vermont welcomes your questions and comments about privacy. Please send <a href="e-mailto:info@PeterGlenn.com">info@PeterGlenn.com</a><br <tr="">  
+Peter Glenn of Vermont welcomes your questions and comments about privacy. Please send to <a href="e-mailto:info@PeterGlenn.com">info@PeterGlenn.com</a><br <tr="">  
 </p></td></tr>
 
 </tbody></table>
@@ -405,7 +632,8 @@ Peter Glenn of Vermont welcomes your questions and comments about privacy. Pleas
 	
 </tr>
 </tbody></table>
-</td></tr></tbody></table>
+</td></tr>
+</tbody></table>
 
 
 
@@ -420,8 +648,8 @@ Peter Glenn of Vermont welcomes your questions and comments about privacy. Pleas
 	 
 	<table width="150" height="0" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr><td width="150" valign="TOP" align="CENTER">
-	   </td>
-	</tr></tbody></table>
+	   </td></tr>
+	</tbody></table>
 </td>
 	 
  
@@ -436,7 +664,17 @@ Peter Glenn of Vermont welcomes your questions and comments about privacy. Pleas
 	<table width="100%" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr><td width="100%" valign="BOTTOM" align="LEFT">
 	
-	<p> 
+	<table width="500" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td>
+      <font face="verdana," arial="" size="2"><div align="center"><a href="dept.asp?dept_id=55&amp;">Employment Opportunities</a></div></font>
+    </td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+</tbody></table>
+<p> 
 <br><font size="2">
 <small>© 1999 Peter Glenn of Vermont, All rights reserved. TradeMarks owned by their respective owners.<br> Site developed and managed using the eStore-4u solution from <a href="http://www.uniteu.com">UniteU.com</a></small></font> 
     	
@@ -452,13 +690,12 @@ Peter Glenn of Vermont welcomes your questions and comments about privacy. Pleas
 
 	 
 	</td></tr> </tbody></table>
-</td>
-	
-</tr>
+</td></tr>
 </tbody></table>
-</td></tr></tbody></table>
+</td></tr>
+</tbody></table>
 
 
-
+<!-- Copyright (c) 1999-2002 UniteU Technologies Inc.  All rights reserved.   //-->
 
 </body></html>
