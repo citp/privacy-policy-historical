@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fightnews.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606213158id_/http%3A//www.fightnews.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fightnews.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813152718id_/http%3A//www.fightnews.com/privacy.htm) for the most accurate reproduction.*
 
 # Boxing - Fightnews.com
 
