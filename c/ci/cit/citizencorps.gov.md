@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizencorps.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604014310id_/http%3A//www.citizencorps.gov/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizencorps.gov privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207210719id_/http%3A//www.citizencorps.gov/ppolicy.html) for the most accurate reproduction.*
 
 # Citizen Corps Privacy Policy
 
@@ -20,4 +20,4 @@ If you choose to provide us with personal information by sending an e-mail or by
 
 Our Web site has links to the Web sites of many other federal agencies. In a few cases, we may link to private organizations, with their permission. Once you link to another site, you are subject to the privacy policy of that site.
 
-[Privacy Policy](https://web.archive.org/web/20020604014310id_/http%3A//www.citizencorps.gov/ppolicy.html) | [USA Freedom Corps](http://www.usafreedomcorps.gov/) | [Other Resources](https://web.archive.org/web/20020604014310id_/http%3A//www.citizencorps.gov/resources.html)
+[Privacy Policy](https://web.archive.org/web/20021207210719id_/http%3A//www.citizencorps.gov/ppolicy.html) | [USA Freedom Corps](http://www.usafreedomcorps.gov/) | [Other Resources](https://web.archive.org/web/20021207210719id_/http%3A//www.citizencorps.gov/resources.html)
