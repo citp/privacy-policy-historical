@@ -1,10 +1,13 @@
-<!--The following is the downloaded HTML source of the knex.com privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603004131id_/http%3A//www.knex.com/parentzone/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the knex.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204184103id_/http%3A//www.knex.com/parentzone/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01
       Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<title>K'NEX | Parent Zone</title>
-		<script language="JavaScript" type="text/javascript" src="/utils.js"></script>
+		
+		<!-- Display the correct meta tags -->
+				
+		<script language="JavaScript" type="text/javascript" src="http://www.knex.com/utils.js"></script>
 		<link href="/common/common.css" rel="stylesheet" type="text/css">
 		<style type="text/css" media="all">
 			<!--
@@ -15,25 +18,59 @@
 	<body>
 		<div id="logo"><a href="http://www.knex.com/index.php"><img src="/common/images/logo.gif" border="0"></a></div>
 		<div id="search">
-			<form name="searchForm" action="/customer/search.php" style="margin:-2px;padding:0px;" method="GET">
-				<b>Search Products</b><br>
+		<script>
+			function trim(inputString) 
+			{
+   				// Removes leading and trailing spaces from the passed string. Also removes
+   				// consecutive spaces and replaces it with one space. If something besides
+   				// a string is passed in (null, custom object, etc.) then return the input.
+   				if (typeof inputString != "string") { return inputString; }
+   				var retValue = inputString;
+   				var ch = retValue.substring(0, 1);
+   				while (ch == " ") { // Check for spaces at the beginning of the string
+      				retValue = retValue.substring(1, retValue.length);
+      				ch = retValue.substring(0, 1);
+   				}
+   				ch = retValue.substring(retValue.length-1, retValue.length);
+   				while (ch == " ") { // Check for spaces at the end of the string
+      				retValue = retValue.substring(0, retValue.length-1);
+     	 			ch = retValue.substring(retValue.length-1, retValue.length);
+   				}
+   				while (retValue.indexOf("  ") != -1) { // Note that there are two spaces in the string - look for multiple spaces within the string
+      			retValue = retValue.substring(0, retValue.indexOf("  ")) + retValue.substring(retValue.indexOf("  ")+1, retValue.length); // Again, there are two spaces in each of the strings
+   				}
+   				document.searchForm.substring.value = retValue; // Return the trimmed string back to the user
+				return retValue;
+			} // Ends the "trim" function
+			
+			function validSearch(inputString)
+			{
+				if(inputString.length > 0)
+				{
+					return 1;
+				}
+				return 0;
+			}
+		</script>
+			<!--<form name="searchForm" action="/customer/search.php" style="margin:-2px;padding:0px;" method="GET">
+				<b>Search Products</b><br />
 				<table width="100%" cellpadding="0" cellspacing="0" border="0">
-					<tbody><tr>
-						<td valign="center"><input type="text" name="substring" style="width:95px;"></td>
-						<td valign="center" width="100%">&nbsp;<a href="javascript:document.searchForm.submit();" onmouseover="window.status = 'Search for \'' + document.searchForm.substring.value + '\''; return true;" onmouseout="window.status = ''; return true;"><img src="/common/images/search_button.gif" border="0" align="absmiddle"></a></td>
+					<tr>
+						<td valign="center"><input type="text" name="substring" style="width:95px;" /></td>
+						<td valign="center" width="100%">&nbsp;<a href="javascript: if(validSearch(trim(document.searchForm.substring.value))){ document.searchForm.submit(); }" onMouseOver="window.status = 'Search for \'' + document.searchForm.substring.value + '\''; return true;" onMouseOut="window.status = ''; return true;"><img src="/common/images/search_button.gif" border="0" align="absmiddle" /></a></td>
 					</tr>
-				</tbody></table>
+				</table>
 				<a href="">advanced search</a>
-			</form>
+			</form>-->
 		</div>
 		<div id="topBanner">
 			<a href="http://www.knex.com/clubknex/index.php"><img src="/common/images/btn_clubknex.gif" width="86" height="49" alt="" border="0"></a>
 			<a href="http://www.knex.com/builderzone/index.php"><img src="/common/images/btn_builderzone.gif" width="86" height="49" alt="" border="0"></a>
 			<a href="http://www.knex.com/parentzone/index.php"><img src="/common/images/btn_parentzone.gif" width="86" height="49" alt="" border="0"></a>
-			<a href="http://www.knex.com/customer/index.php"><img src="/common/images/btn_catalog.gif" width="206" height="49" alt="" border="0"></a>
+			<a href="http://www.knex.com/customer/home.php"><img src="/common/images/btn_catalog.gif" width="206" height="49" alt="" border="0"></a>
 		</div>
 		<div id="menuBar">
-			<a href="http://www.knex.com/customer/index.php" class="shop"><img src="/common/images/btn_shop.gif" width="42" height="17" alt="" border="0"></a>
+			<a href="http://www.knex.com/customer/home.php?cat=286" class="shop"><img src="/common/images/btn_shop.gif" width="42" height="17" alt="" border="0"></a>
 			<a href="http://www.knex.com/contact/index.php">Contact Us</a>
 			<a href="http://www.knex.com/recall/recall.php">Recall Safety Information</a>
 			<a href="http://www.knex.com/buildinghelp/index.php">Building Help</a>
@@ -85,10 +122,9 @@
 	</div>
 	<a href="/parentzone/activitycenter.php"><img src="/parentzone/images/header_2.gif" width="174" height="17" alt="" border="0"></a><br>
 	<div id="pzleftmenu">
-	<a href="/parentzone/activitycenter.php">Spring Discoveries</a>
-	<a href="/parentzone/activities/pinwheels_activity.php">Pinwheel Discoveries</a>
-	<a href="/parentzone/activities/bridge_whatwherehow_activity.php">The Bridge: Where/When/How</a>
-	<a href="/parentzone/activities/hang_glider_activity.php">Hang Glider Activity</a>
+	<a href="/parentzone/activitycenter.php">Summer Adventures</a>
+	<a href="/parentzone/activities/symmetry.php">Symmetry Activities</a>
+	<a href="/parentzone/activities/balance.php">Balance Activities</a>
 	</div>	
 	<a href="/parentzone/birthdays.php"><img src="/parentzone/images/header_3.gif" width="174" height="18" alt="" border="0"></a><br>
 	<div id="pzleftmenu">
@@ -121,7 +157,7 @@ function newWin(mypage,myname,w,h,scroll, searchType)
 	LeftPosition = (screen.width) ? (screen.width-w)/2 : 0;
 	TopPosition = (screen.height) ? (screen.height-h)/2 : 0;
 	newView = '/customer/themeSearch.php?searchType=' + searchType + '&subType=' + mypage.options[mypage.selectedIndex].value;
-	settings = 'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',toolbar=yes,scrollbars='+scroll+',resizable'
+	settings = 'height='+h+',width='+w+',top='+TopPosition+',left='+LeftPosition+',toolbar=yes,scrollbars='+scroll+',resizable=yes'
 	if(mypage.options[mypage.selectedIndex].value != "heading")
 	{
 		win = window.open(newView,"myname",settings);
@@ -137,7 +173,7 @@ function newWin(mypage,myname,w,h,scroll, searchType)
 		<!-- <b>Product Search</b> -->
 		<select name="subType" onchange="newWin(this, 'name','600','600','yes', 'education');">
 			<option value="heading">Educational Theme...
-			</option><option value="computer">Computer Technology
+			<!--<option value="computer">Computer Technology-->
 			</option><option value="contraptions">Contraptions
 			</option><option value="engineering">Engineering
 			</option><option value="building">Model Building
@@ -149,13 +185,14 @@ function newWin(mypage,myname,w,h,scroll, searchType)
 	<form name="knex">
 		<select name="subType" onchange="newWin(this, 'name','600','600','yes', 'knex');">
 			<option value="heading">K'NEX Themes...
-			</option><option value="KidK\'NEX">Kid K'NEX Sets</option>
+			</option><option value="Alive!">Alive!</option>
+			<option value="KidK\'NEX">Kid K'NEX Sets</option>
 			<option value="Cases">Tubs and Cases</option>
 			<option value="ReKonstructors">ReKonstructors</option>
-			<option value="CyberK\'NEX">Cyber K'NEX</option>
-			<option value="FamilyFun">Family Fun</option>
-			<option value="MechWarrior">Mech Warrior</option>
-			<option value="Mission">Missions in Space</option>
+			<!--<option value="CyberK\'NEX">Cyber K'NEX</option>-->
+			<option value="Big Builds">Big Builds</option>
+			<!--<option value="MechWarrior">Mech Warrior</option>-->
+			<!--<option value="Mission">Missions in Space</option>-->
 			<option value="XWheels">X-Wheels</option>
 		</select>
 	</form>
@@ -187,7 +224,7 @@ function newWin(mypage,myname,w,h,scroll, searchType)
 	<img src="/parentzone/images/right_menu_sign_up.gif" vspace="5"  /><br /> -->
 	<a href="/parentzone/parentslist.php"><img src="/parentzone/images/right_menu_email_newsletter.gif" border="0"></a><br>
 	<a href="/parentzone/birthdays.php"><img src="/parentzone/images/right_menu_bday_specials.gif" vspace="5" border="0"></a><br>
-	<a href="/customer/home.php?cat=286"><img src="/parentzone/images/btn_pz_savings.gif" width="129" height="18" alt="" border="0"></a><br>
+	<!--<a href="/customer/home.php?cat=286"><img src="/parentzone/images/btn_pz_savings.gif" width="129" height="18" alt="" border="0" /></a><br />-->
 	</div>
 	</td>
 </tr>
@@ -400,10 +437,10 @@ function newWin(mypage,myname,w,h,scroll, searchType)
 					</tr>
 				</tbody></table>
 
-			</div>
+			<div style="clear:both;"></div>
 			<div id="bottomMenu">
-				<a href=""><img src="http://www.knex.com/images/btn_uk.gif" width="31" height="16" alt="United Kingdom Site" border="0"></a>
-				<a href="http://www.knex.be/index.html"><img src="http://www.knex.com/images/btn_de.gif" width="31" height="16" alt="Belgium Site" border="0"></a>
+				<a href="http://www.hasbro.co.uk/knex"><img src="http://www.knex.com/images/btn_uk.gif" width="31" height="16" alt="United Kingdom Site" border="0"></a>
+				<a href="http://www.knex.be"><img src="http://www.knex.com/images/btn_de.gif" width="31" height="16" alt="Belgium Site" border="0"></a>
 				<a href="http://www.knex.nl/"><img src="http://www.knex.com/images/btn_fr.gif" width="31" height="16" alt="Netherlands Site" border="0"></a>
 				<a href="http://www.knex.com/contact/international.php"><img src="http://www.knex.com/images/globe.gif" alt="International Customer Service" border="0"></a>
 				<span id="copyright">Copyright© 2004 K'NEX. All rights reserved. <a href="http://www.knex.com/parentzone/disclaimer.php" class="copyright">Disclaimer</a> | <a href="http://www.knex.com/parentzone/privacypolicy.php" class="copyright">Privacy Policy</a> | <a href="http://www.knex.com/contact/index.php" class="copyright">Contact Us</a></span>
@@ -444,4 +481,4 @@ gVersion="1.5";
 		</div>
 	
 
-</body></html>
+</div></body></html>
