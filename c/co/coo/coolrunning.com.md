@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolrunning.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601113216id_/http%3A//coolrunning.com/engine/5/5_8/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolrunning.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202201244id_/http%3A//coolrunning.com/engine/5/5_8/index.shtml) for the most accurate reproduction.*
 
 # Cool Running :: Privacy Policy
 
@@ -46,7 +46,7 @@ We will NOT provide any links to Web sites that are unsuitable for children.
 Choice/Opt-Out  
 Our site provides users the opportunity to opt-out of receiving promotional or marketing information from us as well as our partners. 
 
-  * You can send e-mail to [feedback@coolrunning.com](mailto:feedback@coolrunning.com) ,
+  * You can send us e-mail by visiting us at [our contact page](http://www.coolrunning.com/engine/5/5_3/index.shtml) and selecting general feedback department ,
   * You can send mail to the following postal address: Cool Sports, Inc, 22 Winsor Drive, Dracut, Massachusetts 01826
   * To remove yourself from the Cool Running Relay mailing list, send an e-mail to [requests@coolrunning.com](mailto:requests@coolrunning.com) with the words "unsubscribe relay" (no quotes) in the BODY of the e-mail message.
 
@@ -55,7 +55,7 @@ Our site provides users the opportunity to opt-out of receiving promotional or m
 Data Quality/Access  
 This site gives users the following options for changing and modifying information previously provided: 
 
-  * You can send e-mail to [feedback@coolrunning.com](mailto:feedback@coolrunning.com)
+  * You can send us e-mail by visiting us at [our contact page](http://www.coolrunning.com/engine/5/5_3/index.shtml) and selecting general feedback department 
   * You can edit your profile by visiting the following URL: <http://www.coolrunning.com/cgi-bin/register/prefs.cgi>
   * You can send mail to the following postal address:  
 Cool Sports, Inc, 22 Winsor Drive, Dracut, Massachusetts 01826 
