@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the census.gov privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207123701id_/http%3A//www.census.gov/main/www/policies.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the census.gov privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601210729id_/http%3A//www.census.gov/main/www/policies.html%23privacy) for the most accurate reproduction.*
 
 # Census Policy Statements
-
-[](https://web.archive.org/index.html)
-
-### Privacy Statement
 
 Thank you for visiting the U.S. Census Bureau's Internet web site and reviewing our privacy policy. The purpose of this policy is to explain how we handle information we collect from you during your visit to our web site. It is important to keep in mind that we do not collect personally-identifiable information (name, address, e-mail address,social security number, or other unique identifiers) on our web site unless we specifically advise you that we are doing so. 
 
@@ -54,8 +50,6 @@ Some Census Bureau surveys and censuses permit response over the Internet. The f
 
 Questions concerning this policy may be addressed to: webmaster@census.gov, attn: Policy Office. 
 
-### Document Accessibility
-
 The Census Bureau is committed to making every document on its internet server accessible to all. Currently, we are reviewing our site and making modifications to those pages which are not in compliance with the Americans with Disabilities Acts. We use Hypertext Markup Language (HTML) to create pages that are generally accessible to persons using screen reading devices, and we are careful in our construction of HTML documents to insure maximum accessibility. We will include alternate text describing graphics.
 
 Many Census Bureau internet documents are in ASCII or HTML formats. These documents are accessible to persons using screen reading software. We also have a large number of documents in Adobe Acrobat PDF (Portable Document Format) files. Currently, many people using screen reading devices cannot read documents in PDF format.
@@ -63,14 +57,6 @@ Many Census Bureau internet documents are in ASCII or HTML formats. These docume
 Adobe Systems, Inc., is producing various products designed to make Adobe Acrobat documents accessible to persons using screen reading software. Their [ accessibility web pages](http://access.adobe.com/) describe their efforts. They also have a free downloadable accessibility plug-in, called Adobe Access, for use with the latest versions of the Adobe Acrobat Reader for Microsoft Windows 3.1, Windows 95, or Windows NT. This plug-in, which is still in a beta version, helps to overcome some of the problems of reading PDF documents with screen readers. While these tools are in development, we are committed to providing ASCII or HTML versions of these PDF files. 
 
 Comments on our accessibility policies are invited, and should be sent to: [James.R.Clark@ccMail.Census.GOV](mailto:James.R.Clark@ccMail.Census.GOV). 
-
-### Links to Third Party Sites
-
-For the benefit of our visitors, the US Census Bureau Web site contains links to third party sites not operated by the US Census Bureau. Such sites are not within the control of the US Census Bureau and may not follow the same privacy, security, or accessibility policies as the US Census Bureau Web site. The US Census Bureau is not responsible for the content or availability of those sites, their partners, or advertisers. 
-
-### Census Bureau Statement on Statistical Quality 
-
-### Confidentiality
 
 Protection of Confidential Information -- Sections 9 and 214 of Title 13 
 
@@ -93,8 +79,3 @@ Whoever, being or having been an employee or staff member referred to in subchap
   1\. The Census Address List Improvement Act of 1994, P.L. 103-430 amends section 9(a) by inserting "or local government census liaison" and adding references to section 16. P.L. 105-119, the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, adds the reference to section 210. 
 
 2\. The Census Address List Improvement Act of 1994 (P.L. 103-430) amends section 214 making references to section 16 and "census liaisons." 
-
-  
-[Census 2000](https://web.archive.org/main/www/cen2000.html)  |  [Subjects A to Z](https://web.archive.org/main/www/subjects.html)  |  [Search](https://web.archive.org/main/www/srchtool.html)  |  [Product Catalog](https://catalog.mso.census.gov/esales4boc)  |  [Data Tools](https://web.archive.org/main/www/access.html)  |  [FOIA](https://web.archive.org/po/www/foia/foiaweb.htm)  |  [Quality](http://www.census.gov/qdocs/www/)  |  [Privacy · Policies](https://web.archive.org/main/www/policies.html)  |  [Contact Us](https://web.archive.org/main/www/contacts.html)  |  [Home](https://web.archive.org/index.html)   
-  
-
