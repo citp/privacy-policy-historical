@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the portlandgeneral.com privacy policy that was archived on 2002-08-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020803204107id_/http%3A//www.portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the portlandgeneral.com privacy policy that was archived on 2003-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030407175253id_/http%3A//www.portlandgeneral.com/privacy_policy.asp) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -24,8 +24,8 @@
 	
 
 
-<script language="JavaScript">
-
+<script language="JavaScript" type="text/javascript">
+<!--//Hide from old browsers
 function swapImg(objname, newImg)
 {
 	var imgDir;
@@ -88,10 +88,36 @@ function popUpVeriSign(url) {
 	sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
 	self.name = "mainWin";
 }
+
+/*Added the following function to accomodate anything that needs a pop-up window and requires the following params:
+PARAMS:
+	url			: path to web page to load
+	windowName	: name of the window
+	toolbar		: display tool bar				(0=no, 1=yes, "yes", "no")
+	location	: display the location window	(0=no, 1=yes, "yes", "no")
+	directories	: display the directories		(0=no, 1=yes, "yes", "no")
+	status		: display the status bar		(0=no, 1=yes, "yes", "no")
+	menubar		: display the menu bar			(0=no, 1=yes, "yes", "no")
+	scrollbars	: allow scrolling				(0=no, 1=yes, "yes", "no")
+	resizable	: allow resize of window		(0=no, 1=yes, "yes", "no")
+	width		: width of window in pixels
+	height		: height of window in pixels
+
+JCILLIS 10-03-02 */
+function popUpWindow(url,windowName,toolbar,location,directories,status,menubar,scrollbars,resizable,width,height) {
+	window.open(url,windowName,'toolbar=' + toolbar + ',location=' + location + ',directories=' + directories + ',status=' + status + ',menubar=' + menubar + ',scrollbars=' + scrollbars + ',resizable=' + resizable + ',width=' + width + ',height=' + height);
+}
+
+/*Added the following function to close window:
+JCILLIS 10-03-02 */
+function closeClientWindow() {
+	this.window.close();
+}
+//-->
 </script>
 
-<script>
-
+<script language="javascript" type="text/javascript">
+<!--//Hide from old browsers
 // script to help prevent double submits (catches 'impatient' clicking of submit button)
 // Written : Rocky Parker, Added : Jason Bettineski 03.20.2002
 var submitted = false;
@@ -103,7 +129,7 @@ function dosubmit() {
 		return false;
 	}
 }
-
+//-->
 </script>
 
 <style type="text/css">
@@ -125,26 +151,28 @@ a.leftNav:hover {text-decoration: none}
 		<td valign="top" align="left"><a name="top"></a>
 
 			
-				<img src="/images/brand_photos/photo_home_summer.jpg" width="192" height="110" alt="Beach walker on the scenic Oregon coast"></td>
+				<img src="/images/brand_photos/photo_home_home.jpg" width="192" height="110" alt="Beach walker on the scenic Oregon coast"></td>
 		  
 
 		<td valign="top" align="left">
-		
+
 <script language="JavaScript" type="text/JavaScript"> //To redirect to page from select box on top of page
+<!--//Hide from old browsers
 function changePage(newLoc)
  {
    nextPage = newLoc.options[newLoc.selectedIndex].value
-		
+
    if (nextPage != "")
    {
       document.location.href = nextPage
    }
  }
+ //-->
 </script>
 
 
-		
-			<table cellpadding="0" cellspacing="0" border="0" bordercolor="red" valign="top" width="100%">
+
+			<table cellpadding="0" cellspacing="0" border="0" bordercolor="red" valign="top">
 				<tbody><tr>
 					<td width="1" align="left" bgcolor="#FFFFFF"><img src="/images/pixel.gif" width="1" height="25" border="0" alt=" "></td>
 					<td width="11" align="left" background="/images/el_teal_01.gif"><img src="/images/el_teal_01.gif" width="11" height="25" border="0" alt=" "></td>
@@ -152,55 +180,55 @@ function changePage(newLoc)
 					<td width="23" align="left" background="/images/el_teal_02.gif"><img src="/images/el_teal_02.gif" width="23" height="25" border="0" alt=" "></td>
 					<td width="1" align="left" bgcolor="#FFFFFF"><img src="/images/pixel.gif" width="1" height="25" border="0" alt=" "></td>
 					<td width="100" bgcolor="#009999" valign="middle" align="center"><nobr><a href="https://www.portlandgeneral.com/secure/formslogin.asp?/secure/default.asp" title="Sign In"><font face="arial" size="2" color="white"><b>Sign In</b></font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/siteMap.asp" title="Site map"><font face="arial" size="2" color="white"><b>Site Map</b></font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</nobr></td>
-					
+
 				<!-- Search Form & QuickLinks -->
-					
-					<td align="left" bgcolor="#009999" valign="middle">	
+
+					<td align="left" bgcolor="#009999" valign="middle">
 					<form action="http://www.portlandgeneral.com/search/searchQS.asp" method="get" name="form1">
 					<input type="hidden" name="initialQuery" size="2">
-					<input type="hidden" name="iPageNum" value="1" size="2">				
+					<input type="hidden" name="iPageNum" value="1" size="2">
+
+
 					
-					
-					
-					
+
 					<img src="/images/spacer.gif" alt=" " width="1" height="21">
+
 					
-					
-					
-					
-					
+
+
+
 					<label for="q1"><font face="arial" size="2" color="white">&nbsp;&nbsp;<b>Search PGE:</b></font></label>&nbsp;
 					<input type="text" name="q1" id="q1" size="15">&nbsp;&nbsp;
 					<input type="submit" name="Go" value="Go"></form></td>
+
 					
-										
 					</tr>
 					<tr><td colspan="7"><img src="/images/pixel.gif" width="1" height="1" border="0" alt=" "></td>
 				</tr>
-				
+
 				<tr>
 					<td colspan="7" width="10">
-					<table border="0" bordercolor="blue" cellspacing="0" cellpadding="0" width="100%">
-						<tbody><tr>
-							<td colspan="5" rowspan="3" align="right"><a href="http://www.portlandgeneral.com/" title="Portland General Electric home page"><img src="/images/home/logo_pge.gif" border="0" alt="Portland General Electric home page" width="162" height="84"></a></td>
-							<td colspan="6" align="left" background="/images/home/bkg2.gif"><img src="/images/home/bar_top.gif" border="0" alt=" " width="420" height="23"></td>							
-						</tr>
-						<tr>														
-							<td width="23" align="left"><a href="https://www.portlandgeneral.com/secure/AllMembers/index_profile.asp" onmouseover="swapImg('Update', 'nav_top_update_on.gif')" onmouseout="swapImg('Update', 'nav_top_update_off.gif')" title="Update Your Info"><img id="Update" name="Update" src="/images/navigation/nav_top_update_off.gif" width="69" height="44" border="0" alt="Update Your Info"></a></td>
-							<td width="71" align="left"><a href="https://www.portlandgeneral.com/secure/CustomerService/CSSecure/Powercheck/powercheck.asp" onmouseover="swapImg('AutoPay', 'nav_top_autopay_on.gif')" onmouseout="swapImg('AutoPay', 'nav_top_autopay_off.gif')"><img id="AutoPay" name="AutoPay" src="/images/navigation/nav_top_autopay_off.gif" width="71" height="44" border="0" alt="Automatic Payment"></a></td>
-							<td width="64" align="left"><a href="https://www.portlandgeneral.com/secure/CustomerService/CSSecure/PaymentPlan/paymentPlan.asp" onmouseover="swapImg('PayPlans', 'nav_top_payplans_on.gif')" onmouseout="swapImg('PayPlans', 'nav_top_payplans_off.gif')"><img id="PayPlans" name="PayPlans" src="/images/navigation/nav_top_payplans_off.gif" width="64" height="44" border="0" alt="Payment Plans"></a></td>
-							<td width="61" align="left"><a href="https://www.portlandgeneral.com/secure/CustomerService/CSSecure/AccountBalance/accountBalance.asp" onmouseover="swapImg('AcctBal', 'nav_top_acctbal_on.gif')" onmouseout="swapImg('AcctBal', 'nav_top_acctbal_off.gif')"><img id="AcctBal" name="AcctBal" src="/images/navigation/nav_top_acctbal_off.gif" width="61" height="44" border="0" alt="Account Balance"></a></td>
-							<td width="93" align="left"><a href="https://www.portlandgeneral.com/secure/" onmouseover="swapImg('Service', 'nav_top_startmovestop_on.gif')" onmouseout="swapImg('Service', 'nav_top_startmovestop_off.gif')" title="Manage Your Account Landing Page with options to Start, Stop or Move your service"><img name="Service" id="Service" src="/images/navigation/nav_top_startmovestop_off.gif" width="93" height="44" border="0" alt="Manage Your Account Landing Page with options to Start, Stop or Move your service"></a></td>
-							<td width="65" align="left"><a href="https://www.portlandgeneral.com/secure/CustomerService/CSSecure/ViewBill/viewbill.asp" onmouseover="swapImg('ViewBill', 'nav_top_viewbill_on.gif')" onmouseout="swapImg('ViewBill', 'nav_top_viewbill_off.gif')" title="View Your Bill"><img id="ViewBill" name="ViewBill" src="/images/navigation/nav_top_viewbill_off.gif" width="64" height="44" border="0" alt="View Your Bill"></a></td>
-						</tr>
-						<tr>							
-							<td colspan="6" align="left" background="/images/home/bkg3.gif"><img src="/images/home/bar_bottom.gif" border="0" alt=" " width="422" height="17"></td>							
-						</tr>
-					</tbody></table>
+						<table border="0" bordercolor="blue" cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td colspan="5" rowspan="3" align="right"><a href="http://www.portlandgeneral.com/" title="Portland General Electric home page"><img src="/images/home/logo_pge.gif" border="0" alt="Portland General Electric home page" width="162" height="84"></a></td>
+								<td width="420" colspan="6" align="left" background="/images/home/bkg2.gif"><img src="/images/home/bar_top.gif" border="0" alt=" " width="420" height="23"></td>
+							</tr>
+							<tr>
+								<td width="69" align="left" background="/images/home/bkg2.gif"><a href="https://www.portlandgeneral.com/secure/AllMembers/index_profile.asp" onmouseover="swapImg('Update', 'nav_top_update_over.gif')" onmouseout="swapImg('Update', 'nav_top_update.gif')" title="Update Your Info"><img id="Update" name="Update" src="/images/navigation/nav_top_update.gif" border="0" alt="Update Your Info"></a></td>
+								<td width="69" align="left" background="/images/home/bkg2.gif"><a href="https://www.portlandgeneral.com/secure/CustomerService/CSSecure/ViewBill/viewbill.asp" onmouseover="swapImg('AutoPay', 'nav_top_view_over.gif')" onmouseout="swapImg('AutoPay', 'nav_top_view.gif')"><img id="AutoPay" name="AutoPay" src="/images/navigation/nav_top_view.gif" border="0" alt="View Your Bill"></a></td>
+								<td width="69" align="left" background="/images/home/bkg2.gif"><a href="https://www.portlandgeneral.com/secure/CustomerService/CSSecure/payment/" onmouseover="swapImg('PayPlans', 'nav_top_pay_over.gif')" onmouseout="swapImg('PayPlans', 'nav_top_pay.gif')"><img id="PayPlans" name="PayPlans" src="/images/navigation/nav_top_pay.gif" border="0" alt="Make one-time or automatic monthly payments"></a></td>
+								<td width="69" align="left" background="/images/home/bkg2.gif"><a href="https://www.portlandgeneral.com/secure/CustomerService/CSSecure/paperless/" onmouseover="swapImg('AcctBal', 'nav_top_get_over.gif')" onmouseout="swapImg('AcctBal', 'nav_top_get.gif')"><img id="AcctBal" name="AcctBal" src="/images/navigation/nav_top_get.gif" border="0" alt="Get Your Bill Online"></a></td>
+								<td width="69" align="left" background="/images/home/bkg2.gif"><a href="https://www.portlandgeneral.com/secure/CustomerService/CSSecure/AccountBalance/accountBalance.asp" onmouseover="swapImg('Service', 'nav_top_account_over.gif')" onmouseout="swapImg('Service', 'nav_top_account.gif')" title="Account Balance"><img name="Service" id="Service" src="/images/navigation/nav_top_account.gif" border="0" alt="Account Balance"></a></td>
+								<td width="69" align="left" background="/images/home/bkg2.gif"><a href="https://www.portlandgeneral.com/secure/" onmouseover="swapImg('ViewBill', 'nav_top_start_over.gif')" onmouseout="swapImg('ViewBill', 'nav_top_start.gif')" title="Start, Stop or Move"><img id="ViewBill" name="ViewBill" src="/images/navigation/nav_top_start.gif" border="0" alt="Start, Stop or Move"></a></td>
+							</tr>
+							<tr>
+								<td colspan="6" align="left" background="/images/home/bkg3.gif"><img src="/images/home/bar_bottom.gif" border="0" alt=" " width="422"></td>
+							</tr>
+						</tbody></table>
 					</td>
 				</tr>
 			</tbody></table>
-			</td>
+</td>
 		
 		<td valign="top" align="left" width="100%"> <!-- The outer td and picture to extend to edge for Netscape-->
 			<table cellspacing="0" cellpadding="0" border="0" align="left" valign="top" width="100%">
@@ -381,7 +409,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
 			<ul type="square">
 				<li><b><a href="#collect_info" title="What personal information do we collect?">What personal information do we collect?</a></b></li>
-				<li><b><a href="#receive_info" title="Receiving information - It's your choice">Receiving information — It’s your choice</a></b></li>
+				<li><b><a href="#receive_info" title="Receiving information - It's your choice">Communications from the site</a></b></li>
 				<li><b><a href="#update_prefs" title="How can you update the online services information you have provided?">How can you update the online services information you have provided?</a> </b></li>
 				<li><b><a href="#cookies" title="How do we use cookies?">How do we use cookies?</a></b></li>
 				<li><b><a href="#release_info" title="Release of information">Release of information</a></b></li>
@@ -391,41 +419,47 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 				<li><b><a href="#questions" title="Questions">Questions</a></b></li>
 			</ul>
 
+		<p><a href="https://www.truste.org/ivalidate.php?url=www.portlandgeneral.com" title="This link opens a new browser window to the TRUSTe licensee validation page." target="buzz"><img src="/images/truste_seal.gif" border="0" hspace="0" vspace="0" alt="Click to verify the TRUSTe Privacy Program" align="left"></a><img src="/images/spacer.gif" alt=" " width="10" height="75" hspace="0" vspace="0" align="left">Portland General Electric is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.portlandgeneral.com.  Because we want to demonstrate our commitment to our users’ privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.</p>
+
+		<p>If users have questions or concerns regarding this statement, you should first contact PGE by e-mail at <b><a href="https://www.portlandgeneral.com/secure/emailUs.asp">customer_service@pgn.com</a></b>. If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the <a href="http://www.truste.org/watchdog.html" alt="This link opens a new Web browser to the TRUSTe Watchdog Dispute Resolution Process" target="buzz"><b>TRUSTe Watchdog Dispute Resolution Process</b></a>. TRUSTe will serve as a liaison with the Web site to resolve users’ concerns.</p>
+
+
 		<p><a name="collect_info"><font face="arial, helvetica sans-serif" size="3" color="#006666"><b>What personal information do we collect?</b></font></a><br>
-		As a visitor to this Web site, your identity will remain anonymous unless you register to access certain products or services, such as the online account services, or elect to purchase certain goods using your credit card. In such cases, you will be notified that personal information, such as your name, address, phone number and e-mail address, is required. If you are starting a new electric service account, we will ask for additional personal information for credit verification and security purposes only.  This information will be used to provide a requested service, to facilitate purchases or to provide you with an online newsletter. You may choose at any time not to receive e-mail from us.</p>
+		As a visitor to this Web site, your identity will remain anonymous unless you register to access certain products or services, such as the online account services, or elect to purchase certain goods using your credit card. In such cases, you will be notified that personal information, such as your name, address, phone number and e-mail address, is required. If you are starting a new electric service account, we will ask for additional personal information for credit verification and security purposes only.  This information will be used to provide a requested service, to facilitate purchases or to provide you with an online newsletter.</p>
 
 		<p><b>Online Purchases</b><br>
-		In the event that you elect to make a purchase through this Web site, your credit card information will be required. For purchases made on this Web site through our Home Power Protection Program, we will collect your credit card information and other personal information such as your name, address and phone number.  Your order and shipping information will be shared with our fulfillment vendor.  In order to process payment for your purchase we will pass your credit card information to the necessary financial institutions.  For purchases made using your credit card through our Home Power Protection Program, credit card numbers are received and stored in an encrypted format and remain encrypted in transit at all times.  Access to credit card numbers is highly restricted and limited to a very few employees who have a need to process the information.  PGE follows the Cardholder Information Security Program (CISP) guidelines set by VISA for handling credit card information electronically.</p>
-		
-		<p>For purchases made through the Electronics Protection Store, your credit card number, in addition to your name, address, phone number and/or e-mail address will be transmitted to the vendor via encrypted e-mail.  For these purchases, PGE does not store your credit card information.</p>
-		
+		In the event that you elect to make a purchase through this Web site, your credit card information will be required. For purchases made on this Web site through our Home Power Protection or AirAdvice programs, we will collect your credit card information and other personal information such as your name, address and phone number.  Your order and shipping information will be shared with our fulfillment vendor.  In order to process payment for your purchase we will pass your credit card information to the necessary financial institutions.  For purchases made using your credit card through our Home Power Protection or AirAdvice programs, credit card numbers are received and stored in an encrypted format and remain encrypted in transit at all times.  Access to credit card numbers is highly restricted and limited to a very few employees who have a need to process the information.  PGE follows the Cardholder Information Security Program (CISP) guidelines set by VISA for handling credit card information electronically.</p>
+
 		<p>Portland General Electric Co. will not sell or rent the information collected at this site to any party or share it in ways different from those disclosed in this statement.</p>
 
 		<p align="right"><font face="arial, helvetica, sans-serif" size="1"><a href="#top" title="back to top">Back to top</a></font></p>
 
-		<p><a name="receive_info"><font face="arial, helvetica sans-serif" size="3" color="#006666"><b>Receiving information — It’s your choice</b></font></a><br>
-		When you register for online services, in addition to receiving e-mail confirming online business transactions, you will be given the choice to “opt-in” or “opt-out” of receiving PGE’s Online News for You e-mail newsletter. You may also choose to subscribe to the newsletter without registering for online services. In both instances, you can unsubscribe from the newsletter at any time by following the Unsubscribe link in each edition.</p>
+		<p><a name="receive_info"><font face="arial, helvetica sans-serif" size="3" color="#006666"><b>Communications from the site</b></font></a><br>
+		<b>Online services</b>: We send service-related communications when you transact business on our site, such as paying your electricity bill or ordering a product or service.  Users cannot “opt out” of these communications, although you may cancel your online services at any time by following the instructions located under <b><a href="https://www.portlandgeneral.com/secure/AllMembers/unregister.asp" title="Cancel Your Online Services">Cancel Your Online Services</a></b></p>
+
+		<p><b>Newsletter</b>: When you register for online services you will be given the choice to “opt-in” or “opt-out” of receiving PGE’s Online News for You e-mail newsletter. You may also choose to subscribe to the newsletter without registering for online services. In both instances, you can unsubscribe from the newsletter at any time by following the “Unsubscribe” link in each edition.</p>
+
 
 		<p align="right"><font face="arial, helvetica, sans-serif" size="1"><a href="#top" title="back to top">Back to top</a></font></p>
 
 		<p><a name="update_prefs"><font face="arial, helvetica sans-serif" size="3" color="#006666"><b>How can you update the online services information you have provided?</b></font></a><br>
 		You can make changes to your online account information by visiting the <b><a href="https://www.portlandgeneral.com/secure/AllMembers/index_profile.asp" title="Update Your Information">Update Your Information</a></b> section of the site.</p>
 
-		<p>If you no longer wish to access your account online, you can cancel your online membership by following the instructions located under <b><a href="https://www.portlandgeneral.com/secure/AllMembers/unregister.asp" title="Cancel Your PGE Online Membership">Cancel Your PGE Online Membership</a></b>.</p>
+		<p>If you no longer wish to access your account online, you can cancel your online membership by following the instructions located under <b><a href="https://www.portlandgeneral.com/secure/AllMembers/unregister.asp" title="Cancel Your Online Services">Cancel Your Online Services</a></b>.</p>
 
 		<p align="right"><font face="arial, helvetica, sans-serif" size="1"><a href="#top" title="back to top">Back to top</a></font></p>
 
 		<p><a name="cookies"><font face="arial, helvetica sans-serif" size="3" color="#006666"><b>How do we use cookies?</b></font></a><br>
-		A cookie is data containing information about a Web visitor and is stored on the user’s hard drive. Cookies are used on this Web site for the following reasons:</p>
+		A cookie is a small text file stored on the visitor’s hard drive. We use cookies for the following reasons:</p>
 			<ul type="square">
-				<li>Security: We use cookies to enhance site security.</li>
-				<li>Tracking: We use cookies to track Web traffic patterns such as what Web sites visitors have come from and how many times they have previously visited our site. This information is used to improve our site and better meet your needs. </li>
-				<li>Personalization: Cookies enable us to personalize your experience by providing you with information that best matches your interests and remembering your interests when you return. </li>
-				<li>Interaction: The interactive portion of this site will not be available to customers who have cookies turned off on their computer systems. </li>
-			</ul>
-		
-		In addition, PGE uses pixels, or transparent GIF files, on selected pages on our Web site.  The GIF files allow us, through a third-party service, to recognize a unique cookie on your hard drive that tracks traffic patterns and enrollment success rates.  No personally identifiable information, such as your name, address, telephone number or e-mail address, is gathered or shared through this process.  We do not share the anonymous information gathered through this technology with third parties other than companies assisting us in improving our Web site or programs.  If you use Internet Explorer version 6.0, you may be notified that this technology is in use on our site.<p></p>
-		
+				<li>To indicate whether you are signed in as a registered user of the Web site.</li>
+				<li> To enhance your privacy and security while doing business with PGE. If you step away from your computer or don’t sign out, you will be signed out automatically after 10 idle minutes.</li>
+ 				<li>To ensure your Web experience will not be disrupted if a load-balancing server is down or busy.</li>
+				</ul>
+				Our cookies will expire 10 to 20 minutes after the visitor leaves the PGE Web site. The cookie file remains on the hard drive and will be renewed upon subsequent visits, but no information in the file will be reused, matched or associated with any other information. <p></p>
+
+		<p>In addition, PGE uses pixels, or transparent GIF files, on selected pages on our Web site.  The GIF files allow us, through a third-party service, to recognize a unique cookie on your hard drive that tracks traffic patterns and enrollment success rates.  No personally identifiable information, such as your name, address, telephone number or e-mail address, is gathered or shared through this process.  We do not share the anonymous information gathered through this technology with third parties other than companies assisting us in improving our Web site or programs.  If you use Internet Explorer version 6.0, you may be notified that this technology is in use on our site.</p>
+
 		<p align="right"><font face="arial, helvetica, sans-serif" size="1"><a href="#top" title="back to top">Back to top</a></font></p>
 
 		<a name="release_info"><font face="arial, helvetica sans-serif" size="3" color="#006666"><b>Release of information</b></font></a><br>
@@ -433,7 +467,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 
 		Portland General Electric Co. has agreements with other local utility companies to share customer information for credit purposes only. We have established security procedures to ensure that information is being shared only with authorized utility representatives. <br><br>
 
-		Occasionally, we may hire third parties to act on our behalf for activities such as market research surveys, billing, technical support or contest entry processing. These parties will have access to information required for the project. We expect these parties to comply with this privacy policy; however, we will not be held liable if they do not. <br><br>
+		<p>Occasionally, we may hire third parties to act on our behalf for activities such as market research surveys, billing, technical support or contest entry processing. These parties will not be permitted to use personally identifiable information except for the purpose of providing their specific services, and they are not permitted to disclose, transfer or sell personally identifiable information.</p>
 
 		<a name="home_ee"><b>Online Home Energy Analysis</b></a><br>
 		PGE has contracted with Nexus Energy to provide our customers with online energy analysis. Nexus Energy has agreed that they will not sell your online home energy analysis data to any third party. Your energy usage data, provided by PGE to Nexus Energy to complete your online energy analysis, will be transmitted via an encrypted Security Socket Layer (SSL). <br><br>
@@ -450,14 +484,14 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 		<p><a name="Security"><font face="arial, helvetica sans-serif" size="3" color="#006666"><b>Security</b></font></a><br>
 		We understand that online security is very important to our customers. Our Web site uses a variety of Web protection products including, but not limited to firewalls, digital certificates, authentication procedures, intrusion detection and Secure Socket Layer (SSL) encryption technology.</p>
 
-		For information regarding online home energy analysis, please refer to the <b><a href="#release_Info" title="Release of Information">Release of Information</a></b> section above. <br><br>
+		<p>For information regarding online home energy analysis, please refer to the <b><a href="#release_Info" title="Release of Information">Release of Information</a></b> section above.</p>
 
 		<p>As an added security measure, we encourage you to sign out of the interactive portion of our Web site when you have finished your session. You will automatically be logged off an interactive session after 10 minutes of inactivity.</p>
 
 		<p align="right"><font face="arial, helvetica, sans-serif" size="1"><a href="#top" title="back to top">Back to top</a></font></p>
 
 		<p><a name="Notification"><font face="arial, helvetica sans-serif" size="3" color="#006666"><b>Notification of changes</b></font></a><br>
-		Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site.</p>
+		Due to the rapidly evolving technologies on the Internet, this policy may be updated. All revisions will be posted to this site. If, in the unlikely event we are going to use users’ personally identifiable information in a manner substantially different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days before the new use takes effect.</p>
 
 		<p align="right"><font face="arial, helvetica, sans-serif" size="1"><a href="#top" title="back to top">Back to top</a></font></p>
 
