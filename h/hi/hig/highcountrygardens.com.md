@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002175820id_/http%3A//www.highcountrygardens.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604171107id_/http%3A//www.highcountrygardens.com/privacy.html) for the most accurate reproduction.*
 
 # Drought tolerant plants, perennials, and xeriscaping for western gardens
 
