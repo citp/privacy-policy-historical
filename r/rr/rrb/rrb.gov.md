@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620195947id_/http%3A//rrb.gov/policy.html%23Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212000400id_/http%3A//rrb.gov/policy.html%23Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy & E-mail Notice
 
@@ -12,9 +12,9 @@ You have the option of using e-mail to contact us. This is not secure e-mail! We
 
 In reply, we will send you only general information by e-mail. If we can identify you and have your telephone number or address in our records, we will furnish any personal information by telephone or letter. This helps to ensure we do not send your personal information to someone asking for it without your knowledge. 
 
-[Secure Message Option for Sensitive Information](https://web.archive.org/web/20000620195947id_/http%3A//rrb.gov/field.html#email)
+[Secure Message Option for Sensitive Information](https://web.archive.org/web/20001212000400id_/http%3A//rrb.gov/field.html#email)
 
-[Customer Service Standards for Correspondence](https://web.archive.org/web/20000620195947id_/http%3A//rrb.gov/customer.html#letter)
+[Customer Service Standards for Correspondence](https://web.archive.org/web/20001212000400id_/http%3A//rrb.gov/customer.html#letter)
 
 * * *
 
@@ -38,10 +38,10 @@ Our internet privacy policy embodies the following principles:
 
 ************************
 
-****Before sending e-mail, you must review our[e-mail notice](https://web.archive.org/web/20000620195947id_/http%3A//rrb.gov/policy.html#email)!****  
+****Before sending e-mail, you must review our[e-mail notice](https://web.archive.org/web/20001212000400id_/http%3A//rrb.gov/policy.html#email)!****  
   
 ---  
   
   ** ** ****  
   
-Page last updated February 15, 2000   
+Page last updated September 25, 2000   
