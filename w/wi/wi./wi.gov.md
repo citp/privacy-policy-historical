@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wi.gov privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216184219id_/http%3A//www.wisconsin.gov/state/core/privacy_notice_t.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wi.gov privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604124209id_/http%3A//www.wisconsin.gov/state/core/privacy_notice_t.html) for the most accurate reproduction.*
 
 # Wisconsin.gov - - Wisconsin Citizen Portal Privacy Notice
 
@@ -30,9 +30,9 @@ If you do nothing during your visit to Wisconsin.gov but browse or download info
 3\. The date and time you visited this site;
 
 4\. The web pages or services you accessed at this site;and  
-5\. The web site you visited prior to coming to this web site.
+5\. The webite you visited prior to coming to this website.
 
-The information we automatically collect or store is used to improve the content of our web services and to help us understand how people are using our services. Wisconsin.gov analyzes our web site logs to continually improve the value of the materials available on our site. Our web site logs are not personally identifiable, and we make no attempt to link them with the individuals that browse Wisconsin.gov.
+The information we automatically collect or store is used to improve the content of our web services and to help us understand how people are using our services. Wisconsin.gov analyzes our website logs to continually improve the value of the materials available on our site. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that browse Wisconsin.gov.
 
 If during your visit to Wisconsin.gov you participate in a survey or send an email, the following additional information will be collected:
 
@@ -42,7 +42,7 @@ If during your visit to Wisconsin.gov you participate in a survey or send an ema
 
 The information collected is not limited to text characters and may include audio, video, and graphic information formats you send us. The information is retained in accordance with Wisconsin Open Records Law.
 
-We use your email to respond appropriately. This may be to respond to you, to address issues you identify, to further improve our web site, or to forward the email to another agency for appropriate action. Survey information is used for the purpose designated. 
+We use your email to respond appropriately. This may be to respond to you, to address issues you identify, to further improve our website, or to forward the email to another agency for appropriate action. Survey information is used for the purpose designated. 
 
 * * *
 
@@ -52,7 +52,7 @@ We use your email to respond appropriately. This may be to respond to you, to ad
 
 We collect no personal information about you unless you voluntarily participate in an activity that asks for information (i.e. sending an e-mail or participating in a survey). If you choose not to participate in these activities, your choice will in no way affect your ability to use any other feature of Wisconsin.gov. 
 
-If personal information is requested on the web site or volunteered by the user, state law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
+If personal information is requested on the website or volunteered by the user, state law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
 
 Users are cautioned that the collection of personal information requested from or volunteered by children on-line or by email will be treated the same as information given by an adult and may be subject to public access.
 
@@ -78,11 +78,11 @@ You can review any personal information we collect about you. You may recommend 
 
 ##### What is a Cookie?
 
-A cookie is a small amount of data, which may include an anonymous unique identifier, that is sent to your browser from a web site's computers and may either be used only during your session (a "session" cookie) or may be stored on your computer's hard drive (a "persistent" cookie). Cookies can contain data about user movement during the visit to the website. If your browser software is set to allow cookies, a web site can send its own cookie to you. A web site that has set a cookie can only access those cookies it has sent to you, it cannot access cookies sent to you by other sites. 
+A cookie is a small amount of data, which may include an anonymous unique identifier, that is sent to your browser from a website's computers and may either be used only during your session (a "session" cookie) or may be stored on your computer's hard drive (a "persistent" cookie). Cookies can contain data about user movement during the visit to the website. If your browser software is set to allow cookies, a website can send its own cookie to you. A website that has set a cookie can only access those cookies it has sent to you, it cannot access cookies sent to you by other sites. 
 
-##### Why are Cookies Used on Web Sites?
+##### Why are Cookies Used on Websites?
 
-Cookies are one mechanism for maintaining continuity during a user's visit to a web site. They allow data to be maintained for users' benefit as they navigate a site. This is referred to as "session" or "state management" cookie. These cookies go away when you terminate your visit to the website as they are maintained only in your browser's active memory during your session. Cookies may be also be stored on your computer to so that you can be recognized by a website on subsequent visits. They can be read by the website that set them whenever you enter the website. They are often used on websites that require you to log in to save you entering all of your log-in information. They may store information on your unique identifier and the areas of the website you have visited before. These cookies are stored on your computer's hard drive after you have left your website visit and consequently are often referred to as "persistent" cookies. 
+Cookies are one mechanism for maintaining continuity during a user's visit to a website. They allow data to be maintained for users' benefit as they navigate a site. This is referred to as "session" or "state management" cookie. These cookies go away when you terminate your visit to the website as they are maintained only in your browser's active memory during your session. Cookies may be also be stored on your computer to so that you can be recognized by a website on subsequent visits. They can be read by the website that set them whenever you enter the website. They are often used on websites that require you to log in to save you entering all of your log-in information. They may store information on your unique identifier and the areas of the website you have visited before. These cookies are stored on your computer's hard drive after you have left your website visit and consequently are often referred to as "persistent" cookies. 
 
 ##### Choices about Cookies
 
@@ -90,24 +90,26 @@ You can configure your browser to accept all cookies, reject all cookies, or not
 
 ##### Wisconsin.gov's Practices Regarding Cookies
 
-Wisconsin.gov uses only session cookies. The information on these cookies is retained by the State only while the user's session is active in a table that lists the unique identifiers of those currently using the site. Currently session states are set to 30 minutes maximum. Wisconsin. Gov is using cookies for the following purposes: 
+Wisconsin.gov uses only session cookies. The information on these cookies is retained by the State only while the user's session is active in a table that lists the unique identifiers of those currently using the site. Currently session states are set to 30 minutes maximum. Wisconsin.gov is using cookies for the following purposes: 
 
 \- Support the rotation of the home page's banner and "Featured Site" graphic. Neither of these cookies are persistent and they contain no information about the user. 
 
 \- When you "sign in" to the Employment section of Wisconsin.gov as either an employer or a job seeker. For job seekers, the cookie enables the session to be maintained as the user moves through different pages, such as updating a multi-page resume, previewing or showing the resume posted. For employers, the cookies are used to establish the session state. 
+
+\- Session cookies are used to create a customized result page based on responses to questions in the Business Wizard. After completion of the Wizard the cookie is no longer used. Furthermore, the cookie is deleted upon exiting the browser. Bookmarked result pages are saved in a database. 
 
 * * *
 
 #### Security
 
 The Department of Administration, as developer and manager of Wisconsin.gov, has taken several steps to safeguard the integrity of its telecommunications and computing infrastructure, including but not limited to authentication, monitoring, auditing, and encryption. Security measures have been integrated into the design, implementation and day-to-day practices of the entire DOA operating environment as part of its continuing commitment to risk management.  
-This information should not be construed in any way as giving business, legal, or other advice. This information should not be construed as warranting as fail-proof the security of information provided through DOA supported web sites.
+This information should not be construed in any way as giving business, legal, or other advice. This information should not be construed as warranting as fail-proof the security of information provided through DOA supported websites.
 
 * * *
 
 #### Disclaimer
 
-Wisconsin.gov has links to other web sites. These include links to web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on Wisconsin.gov and this Privacy Notice will not apply. When you link to another web site, you are subject to the privacy policy of that new site.
+Wisconsin.gov has links to other websites. These include links to websites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on Wisconsin.gov and this Privacy Notice will not apply. When you link to another website, you are subject to the privacy policy of that new site.
 
 * * *
 
