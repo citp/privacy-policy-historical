@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209153557id_/http%3A//www.modernhealthcare.com/page.cms%3FpageId%3D57) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhealthcare.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810114747id_/http%3A//www3.modernhealthcare.com/page.cms%3FpageId%3D57) for the most accurate reproduction.*
 
 # Privacy Policy
 
-December 9, 2002
+June 30, 2003
 
-[](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/web/20021209153557id_/http%3A//www.modernhealthcare.com/page.cms%3FpageId%/13725306379@Left1,Left2,Right,Top,TopRight,BottomLeft!Top?)
+[](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/web/20030630095757id_/http%3A//www.modernhealthcare.com/page.cms%3FpageId%/13725306379@Left1,Left2,Right,Top,TopRight,BottomLeft!Top?)
 
 Privacy Policy
 
@@ -22,9 +22,9 @@ Information collected about users may be used by _Modern Healthcare_ (and our af
 
 From time to time, we may make individual user information available to carefully selected third parties to send you information through e-mail or postal mail about their products or services. During the registration process, a user can indicate on the registration form that he or she does not wish to receive such marketing materials via e-mail or postal mail. Additionally, a user can indicate that he or she does not want to receive news about new site features or marketing materials from _Modern Healthcare_ via e-mail. _Modern Healthcare_ retains the right to contact a registered user regarding account status or changes to the registration agreement. 
 
-_Modern Healthcare_ will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [plupton@crain.com](mailto:plupton@crain.com?subject=RemoveMyInformationFromModernHealthcareDatabase), or allow any registrant to "opt out" of further contact or change/correct personal information online. You may not be able to fully access modernhealthcare.com if you request removal of your personal information. 
+_Modern Healthcare_ will remove any registrant (and their personal information) from our database pursuant to a request from the registrant, including full name and e-mail address, to [lkeener@crain.com](mailto:lkeener@crain.com?subject=RemoveMyInformationFromModernHealthcareDatabase), or allow any registrant to "opt out" of further contact or change/correct personal information online. You may not be able to fully access modernhealthcare.com if you request removal of your personal information. 
 
-If you provided your postal mail address during registration and do not wish to receive marketing mailings from _Modern Healthcare_ and affiliates, you may remove your name by sending an e-mail [plupton@crain.com](mailto:plupton@crain.com?subject=DoNotMail) with "Do Not Mail" in the subject line along with your full name or by calling us at 312-649-5452.   
+If you provided your postal mail address during registration and do not wish to receive marketing mailings from _Modern Healthcare_ and affiliates, you may remove your name by sending an e-mail [lkeener@crain.com](mailto:lkeener@crain.com?subject=DoNotMail) with "Do Not Mail" in the subject line along with your full name or by calling us at 312-649-5452.    
 
 
-| |  [](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/web/20021209153557id_/http%3A//www.modernhealthcare.com/page.cms%3FpageId%/13725306379@Left1,Left2,Right,Top,TopRight,BottomLeft!TopRight?)[](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/web/20021209153557id_/http%3A//www.modernhealthcare.com/page.cms%3FpageId%/13725306379@Left1,Left2,Right,Top,TopRight,BottomLeft!Right?)
+| |  [](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/web/20030630095757id_/http%3A//www.modernhealthcare.com/page.cms%3FpageId%/13725306379@Left1,Left2,Right,Top,TopRight,BottomLeft!TopRight?)[](http://oas-central.realmedia.com/RealMedia/ads/click_nx.ads/www.modernhealthcare.com/web/20030630095757id_/http%3A//www.modernhealthcare.com/page.cms%3FpageId%/13725306379@Left1,Left2,Right,Top,TopRight,BottomLeft!Right?)
