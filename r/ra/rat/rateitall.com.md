@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the rateitall.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203184232id_/http%3A//www.rateitall.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rateitall.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602221605id_/http%3A//www.rateitall.com/wt-privacy_policy.aspx) for the most accurate reproduction.*
 
-# RateItAll - The Opinion Network
+# RateItAll - Ratings and Reviews of Everything
 
-|    
+|  |  | 
 
-
-| **Check out these popular ratings lists...**  
----  
-  
 The bottom line is that RateItAll will NOT release your personal information without your consent. 
 
 Earning the trust of our users is one of RateItAll’s primary goals. We take your privacy very seriously, and we want you to feel absolutely comfortable using our site. Our Privacy Policy answers the following questions: 
@@ -22,7 +18,7 @@ Earning the trust of our users is one of RateItAll’s primary goals. We take yo
   8. What if I have more questions?
   9. How can I be sure that you adhere to your Privacy Policy?
 
-|  **1\. What information do you collect, how is it collected and how do you use it?**  
+| **1\. What information do you collect, how is it collected and how do you use it?**  
 ---  
 Anyone can visit our site free of charge. You are welcome to browse our ratings lists and read comments without ever giving us your individual information. But we do need to gather some information about users who wish to submit ratings and comments. We collect information in two ways: directly from you and through the use of "cookies".
 
@@ -44,34 +40,26 @@ Our site occasionally requests information from users via surveys or sweepstakes
 
 From time to time we create co-branded or private label versions of our web site for third parties. A co-branded or private label version of our web site will bear the trademark or service mark, and perhaps the "look and feel", of the third party sponsor ("Co-Brand Sponsor") whose link brought you to our site. Personal information collected during the registration process from users of co-branded and private label versions of our web site will be shared with the relevant Co-Brand Sponsor. We require that each Co-Brand Sponsor commit to us that its collection and use of personal information shall be no less protective of users' privacy than permitted by this Privacy Policy, as modified from time to time. However, while we strive to associate with other businesses who value your privacy, we are not responsible for the privacy practices of the Co-Brand Sponsors.  You may wish to review those sites' privacy policies. 
 
-Of course, notwithstanding anything in this policy to the contrary, we will provide personal information if we are or believe that we are legally required to do so pursuant to a subpoena, warrant, other legal method or applicable law.
-
+Of course, notwithstanding anything in this policy to the contrary, we will provide personal information if we are or believe that we are legally required to do so pursuant to a subpoena, warrant, other legal method or applicable law.   
   
+**2\. How is my privacy protected when I leave comments?**  
+One of the great features of RateItAll is that we allow you, as a user, to leave comments - not just ratings - so you can explain your opinions in some detail. Please remember that when you post your comments they are publicly available, so you should exercise caution when deciding to disclose anything personal about yourself. This includes your e-mail address. Many of our users like to leave their e-mail addresses with their comments. That way others can e-mail them if they want to discuss the comment. You should realize that you are not obligated to attach your email address.   
+**3\. How will I know if you change your privacy policy?**  
+This privacy policy may be revised over time as new features are added to the Web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also e-mail users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.   
+**4\. What kind of security measures do you take?**  
+Any information you provide, other than information you chose to provide and make publicly available in your posts, is maintained and accessible only by us, and only by those of our employees with a need to have access to such information in the performance of their work. This site has instituted commercially reasonable security measures to protect the loss, misuse and alteration of the information under our control or in our possession. All data stores are held behind a commercial grade firewall and are only enabled through an encrypted multi-protocol pipe. All open ports and protocols have been closed on the Web servers excluding http, https, and outbound smtp mail. In addition, all user accounts are restricted to specific algorithms noting both length and complexity. Unfortunately, data transmission over the Internet can not be guaranteed to be totally secure. Additionally, we use an outside company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Therefore, although we take measures, such as those described in this Privacy Policy, to protect your personal information, we can not warrant the security of information that you provide. Accordingly, you agree that you are providing such information at your own risk.   
+**5\. What are the limits of your Privacy Policy?**  
+The RateItAll Web site contains hyperlinks and advertisements that, if activated in the manner provided by your browser, will cause your browser to access and display the contents of other Web sites. RateItAll does not control or have any knowledge concerning the provisions of the privacy policies, if any, of those sites. Accordingly, RateItAll is not responsible for the privacy practices or any of the content of those Web sites and RateitAll’s Privacy Policy does not apply to those other sites. If you choose to activate a hyperlink to another Web site, you do so at your own risk and you may wish to review that site’s privacy policy.   
+**6\. How do I opt-out of your communication lists?**  
+As mentioned previously, RateItAll provides users the opportunity to opt-out of receiving communications from us and our partners during the registration process. Users can also remove themselves from our e-mailing list by writing to us at [info@rateitall.com](http://www.rateitall.com/info@rateitall.com).   
+**7\. How can I change my personal information?**  
+Users can modify their personal information by sending an email to [info@rateitall.com](http://www.rateitall.com/info@rateitall.com).   
+**8\. What if I have more questions?**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please send an e-mail to [info@rateitall.com](http://www.rateitall.com/info@rateitall.com).  
+**9\. How can I be sure that you adhere to your Privacy Policy?**  
   
- **2\. How is my privacy protected when I leave comments?**  
-One of the great features of RateItAll is that we allow you, as a user, to leave comments - not just ratings - so you can explain your opinions in some detail. Please remember that when you post your comments they are publicly available, so you should exercise caution when deciding to disclose anything personal about yourself. This includes your e-mail address. Many of our users like to leave their e-mail addresses with their comments. That way others can e-mail them if they want to discuss the comment. You should realize that you are not obligated to attach your email address.  
-  
- **3\. How will I know if you change your privacy policy?**  
-This privacy policy may be revised over time as new features are added to the Web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via e-mail. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also e-mail users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.  
-  
- **4\. What kind of security measures do you take?**  
-Any information you provide, other than information you chose to provide and make publicly available in your posts, is maintained and accessible only by us, and only by those of our employees with a need to have access to such information in the performance of their work. This site has instituted commercially reasonable security measures to protect the loss, misuse and alteration of the information under our control or in our possession. All data stores are held behind a commercial grade firewall and are only enabled through an encrypted multi-protocol pipe. All open ports and protocols have been closed on the Web servers excluding http, https, and outbound smtp mail. In addition, all user accounts are restricted to specific algorithms noting both length and complexity. Unfortunately, data transmission over the Internet can not be guaranteed to be totally secure. Additionally, we use an outside company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Therefore, although we take measures, such as those described in this Privacy Policy, to protect your personal information, we can not warrant the security of information that you provide. Accordingly, you agree that you are providing such information at your own risk.  
-  
- **5\. What are the limits of your Privacy Policy?**  
-The RateItAll Web site contains hyperlinks and advertisements that, if activated in the manner provided by your browser, will cause your browser to access and display the contents of other Web sites. RateItAll does not control or have any knowledge concerning the provisions of the privacy policies, if any, of those sites. Accordingly, RateItAll is not responsible for the privacy practices or any of the content of those Web sites and RateitAll’s Privacy Policy does not apply to those other sites. If you choose to activate a hyperlink to another Web site, you do so at your own risk and you may wish to review that site’s privacy policy.  
-  
- **6\. How do I opt-out of your communication lists?**  
-As mentioned previously, RateItAll provides users the opportunity to opt-out of receiving communications from us and our partners during the registration process. Users can also remove themselves from our e-mailing list by writing to us at [info@rateitall.com](https://web.archive.org/web/20031203184232id_/http%3A//www.rateitall.com/info@rateitall.com).  
-  
- **7\. How can I change my personal information?**  
-Users can modify their personal information by sending an email to [info@rateitall.com](https://web.archive.org/web/20031203184232id_/http%3A//www.rateitall.com/info@rateitall.com).  
-  
- **8\. What if I have more questions?**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please send an e-mail to [info@rateitall.com](https://web.archive.org/web/20031203184232id_/http%3A//www.rateitall.com/info@rateitall.com).  
-  
- **9\. How can I be sure that you adhere to your Privacy Policy?**  
-If for any reason you believe that RateItAll has not adhered to the principles contained in this Privacy Policy, please notify us at [info@rateitall.com](https://web.archive.org/web/20031203184232id_/http%3A//www.rateitall.com/info@rateitall.com). We will do our best to address your concerns and to confirm and correct the problem promptly.  
+If for any reason you believe that RateItAll has not adhered to the principles contained in this Privacy Policy, please notify us at [info@rateitall.com](http://www.rateitall.com/info@rateitall.com). We will do our best to address your concerns and to confirm and correct the problem promptly.   
   
 _Acceptance of Terms._
 
-By using this site you acknowledge and agree to the terms of this Privacy Policy. If you disagree with any term or condition in this Privacy Policy, you must not use our site. 
+By using this site you acknowledge and agree to the terms of this Privacy Policy. If you disagree with any term or condition in this Privacy Policy, you must not use our site
