@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215145811id_/http%3A//www.local6.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413190456id_/http%3A//www.local6.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
 
 # local6.com - Privacy Policy
 
@@ -56,6 +56,8 @@ Live Cams
 
 
   
+
+
   
 
 
