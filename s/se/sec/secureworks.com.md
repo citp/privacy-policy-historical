@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2004-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040810094331id_/http%3A//www.secureworks.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secureworks.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307095623id_/http%3A//www.secureworks.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # SecureWorks: Privacy policy
 
 **The Information SECUREWORKS Collects**
 
-This site is provided by SECUREWORKS. SECUREWORKS collects information in several ways from different parts of this site. SECUREWORKS collects personal information from you when you register with this site. SECUREWORKS also may ask you for personal information at other times, such as when you ask a question or report a problem with this site. If you contact SECUREWORKS, SECUREWORKS may keep a record of that session or correspondence, including a record of your e-mail address. SECUREWORKS may also occasionally ask users to complete surveys for research purposes. There also may be services on this site that require you to fill out an online form or send SECUREWORKS an e-mail message in order to utilize these services. SECUREWORKS collects any information that you provide, including any personal information. 
+This site is provided by SECUREWORKS. SECUREWORKS collects information in several ways from different parts of this site. SECUREWORKS collects personal information from you when you register with this site. SECUREWORKS also may ask you for personal information at other times, such as when you ask a question or report a problem with this site. If you contact SECUREWORKS, SECUREWORKS may keep a record of that session or correspondence, including a record of your e-mail address. SECUREWORKS may also occasionally ask users to complete surveys for research purposes. There also may be services on this site that require you to fill out an online form or send SECUREWORKS an e-mail message in order to utilize these services. SECUREWORKS collects any information that you provide, including any personal information.
 
 SECUREWORKS also may collect IP addresses and domain names of users of this site to measure the number of visits, pages visited, average time spent on this site, and similar items.
 
@@ -16,7 +16,7 @@ SECUREWORKS uses the information it collects through this site to improve its ma
 
 Generally, SECUREWORKS may use cookies and the information they provide to: (a) remind it of who you are; (b) access your account information in order to deliver to you better and more personalized service; (c) estimate its audience size; (d) determine the nature and extent of repeat usage; and (e) measure certain traffic patterns to understand how users' habits are similar or different from one another, so that SECUREWORKS may improve its site.
 
-SECUREWORKS understands the importance of privacy and confidentiality to users of this site. SECUREWORKS will not share personal information you submit through this site with companies not affiliated with SECUREWORKS for purposes of marketing or promoting events, products, or similar items, unless such events, products, or similar items are related to SECUREWORKS, and except that SECUREWORKS may, from time to time, make personal information available to selected third parties, but only in the aggregate. 
+SECUREWORKS understands the importance of privacy and confidentiality to users of this site. SECUREWORKS will not share personal information you submit through this site with companies not affiliated with SECUREWORKS for purposes of marketing or promoting events, products, or similar items, unless such events, products, or similar items are related to SECUREWORKS, and except that SECUREWORKS may, from time to time, make personal information available to selected third parties, but only in the aggregate.
 
 SECUREWORKS may provide the information it collects through this site to one or more third parties in the event that all or part of SECUREWORKS or all or part of SECUREWORKS’ assets are acquired by, merged with, sold to, or otherwise disposed of to one or more third parties (including, without limitation, in the event of bankruptcy). SECUREWORKS may also disclose information it collects through this site when required to do so by a court, regulatory agency, subpoena, law, regulation, or other body of competent jurisdiction and authority, and for administrative and other purposes that SECUREWORKS deems necessary to maintain, service, and improve its products and services and to protect its rights and property. Finally, if you become involved in any violation of security, SECUREWORKS may release information about you to system administrators at other sites in order to assist them in resolving security incidents.
 
@@ -41,3 +41,6 @@ If you would like to review the personal information that SECUREWORKS has collec
 SECUREWORKS can revise this Privacy Policy at any time by updating this posting. Please consult this Privacy Policy regularly.
 
 **Last updated: November 20, 2002**
+
+  
+
