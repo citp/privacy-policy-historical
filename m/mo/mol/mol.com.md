@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mol.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409115421id_/http%3A//www.mol.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mol.com privacy policy that was archived on 2001-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010805182443id_/http%3A//www.mol.com/policy.htm) for the most accurate reproduction.*
 
 # MOL - Privacy Policy
 
