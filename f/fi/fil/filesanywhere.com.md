@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesanywhere.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212002400id_/http%3A//www.filesanywhere.com/Info/filesanywhere_privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesanywhere.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202043139id_/http%3A//www.filesanywhere.com/Info/filesanywhere_privacy_statement.htm) for the most accurate reproduction.*
 
 # FilesAnywhere Privacy Statement
 
@@ -119,7 +119,7 @@ In summary
 
 > FilesAnywhere welcomes your questions and comments about privacy. Please send your e-mail comments using our convenient feedback form:
 >
->> [Feedback Form](https://web.archive.org/web/20001212002400id_/http%3A//www.filesanywhere.com/Feedback.asp)
+>> [Feedback Form](https://web.archive.org/web/20011202043139id_/http%3A//www.filesanywhere.com/Feedback.asp)
 > 
 > You can always send regular postal mail to:
 >
