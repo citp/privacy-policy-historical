@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the witchvox.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205184000id_/http%3A//www.witchvox.net/wotw/wotw_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the witchvox.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602172749id_/http%3A//www.witchvox.net/wotw/wotw_privacy.html) for the most accurate reproduction.*
 
 # WOTW - The Witches' Voice Privacy & Security Policies
 
@@ -44,7 +44,7 @@ The Witches Voice has over 3,500 links leading to other Web sites. These sites a
 Protecting the online privacy of the very young is especially important. For that reason, the Witches' Voice voluntarily complies with the _Children's Online Privacy Protection Act of 1998_ and the US Federal Trade Commission's _Children's Online Privacy Protection Rule_. (16 C.F.R. Part 312). We neither collect nor maintain information at our site from those actually known to be under the age of 13, nor is any part of our site designed to serve those under the age of 13.
 
 **How To Review, Update, Or Delete:**  
-Information submitted through the Witches' Voice submission forms can be later updated or deleted using the submission form index ([www.witchvox.net/wotw/forms.html](http://www.witchvox.net/wotw/forms.html)). To later review such information, simply view your post once it goes online (usually within 24 hours). If you delete a listing, you will also be removed from the verification email list (the occasional emails we send out to verify the accuracy of email and Web site links).
+Information submitted through the Witches' Voice submission forms can be later updated or deleted using the submission form index ([www.witchvox.net/xforms.html](http://www.witchvox.net/xforms.html)). To later review such information, simply view your post once it goes online (usually within 24 hours). If you delete a listing, you will also be removed from the verification email list (the occasional emails we send out to verify the accuracy of email and Web site links).
 
 All other personally identifiable information that may be maintained in a retrievable form can be later reviewed, updated, or deleted by writing to: [workerbeez@witchvox.net](mailto:workerbeez@witchvox.com). For security reasons, the Witches' Voice will only act on such requests when they are received from the original submitter's email account.
 
