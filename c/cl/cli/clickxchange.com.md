@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623052338id_/http%3A//clickxchange.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231091343id_/http%3A//clickxchange.com/privacy.phtml) for the most accurate reproduction.*
 
 # Create or join an affiliate program with clickXchange.com
 
 |  |  | clickXchange.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://clickXchange.com. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. |   
-[](http://www.truste.org/validate/5007)  
+[](http://www.truste.org/ivalidate.php?url=www.clickXchange.com&sealid=101)  
 ---|---  
 Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -21,7 +21,7 @@ By displaying the TRUSTe trustmark, this web site has agreed to notify you of:
 
 If you have questions or concerns regarding this statement, you should first contact our staff by calling 949.673.7451. 
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.   
+If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.   
   
   
 Privacy Statement for clickXchange.com
@@ -40,11 +40,7 @@ ADVERTISER ONLY- Contact Name, Address, Email, Website Information and Credit Ca
 
 ADVERTISER and AFFILIATE- Contact Name, Address, Email, Website Information ,Credit Card Information, Social Security Number or EIN. (Social Security or EIN numbers for US affiliates are collected at time of withdrawal of commissions earned.) 
 
-SHOPPING CART ONLY- Contact Name, Address, Email, Website Information and Credit Card Information 
-
-ADVERTISER and SHOPPING CART- Contact Name, Address, Email, Website Information, Credit Card Information. The customer's contact information is used to contact the clickXchange member when necessary. 
-
-Financial information that is collected is used to bill the user for services. Unique identifiers (such as social security numbers) are collected to verify the user's identity for tax purposes. All credit card information and Affiliate Social Security or EIN numbers are collected online via a secure and encrypted browser. Paypal is utilized to process deposits and withdraws. Email address and contact name is collected and shared for this purpose, yet the company does not retain share, store or use the information for any secondary purposes. 
+The customer's contact information is used to contact the clickXchange member when necessary. Financial information that is collected is used to bill the user for services. Unique identifiers (such as social security numbers) are collected to verify the user's identity for tax purposes. All credit card information and Affiliate Social Security or EIN numbers are collected online via a secure and encrypted browser. Paypal is utilized to process deposits and withdraws. Email address and contact name is collected and shared for this purpose, yet the company does not retain share, store or use the information for any secondary purposes. 
 
 This site contains links to other sites. clickXchange.com is not responsible for the privacy practices or the content of such Web sites.   
   
@@ -56,9 +52,9 @@ This site has security measures in place to protect the loss, misuse and alterat
   
 Choice/Opt-Out
 
-Due to the monetary nature of our site, clickXchange.com reserves the right to contact users as needed. Any contact from clickXchange.com to it's members is strictly business related as we do not solicit our members. At any future date should we initiate a company newsletter, we will provide members an Opt-Out option via newsletter and announce the new service via the clickXchange.com member area. 
+Due to the monetary nature of our site, clickXchange.com reserves the right to contact users as needed. Any contact from clickXchange.com to it's members is strictly business related as we do not solicit our members. 
 
-This site gives users the following options for removing their information from our database to not receive future newsletter communications or to no longer receive our service. 
+This site gives users the following options for removing their information from our database to no longer receive our service. 
 
   1. You can send email to [admin@clickXchange.com](mailto:admin@clickxchange.com)
 
@@ -91,5 +87,6 @@ Newport Beach, CA 92663
 admin@clickXchange.com  
 ___  
   
+Effective Date: 11.08.04  
   
 
