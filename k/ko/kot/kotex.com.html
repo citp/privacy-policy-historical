@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the kotex.com privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604092514id_/http%3A//www.kotex.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kotex.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605184233id_/http%3A//www.kotex.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Kotex® Privacy Policy</title>
 	<link rel="stylesheet" type="text/css" href="kotex.css">
-	<script language="JavaScript">
+	<script language="JavaScript1.2">
 	<!--
 	function MM_swapImgRestore() { //v3.0
 		var i,x,a=document.MM_sr; 
@@ -12,6 +12,22 @@
 			x.src=x.oSrc;
 	}
 	
+
+	
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+   if(!x && document.getElementById) x=document.getElementById(n);  
+ return x;
+}
+
+
+/*	
+* old version of MM_findObj funtion
+
+
 	function MM_findObj(n, d) { //v3.0
 		var p,i,x;  if(!d) d=document; 
 		if((p=n.indexOf("?"))>0&&parent.frames.length) {
@@ -25,6 +41,9 @@
 				x=MM_findObj(n,d.layers[i].document); 
 			return x;
 	}
+
+*/
+
 	
 	function MM_showHideLayers() { //v3.0
 		var i,p,v,obj,args=MM_showHideLayers.arguments;
@@ -32,15 +51,17 @@
 			if ((obj=MM_findObj(args[i]))!=null) { 
 				v=args[i+2];
 				if (obj.style) { 
+					//alert("MM_showHideLayers \nv="+v);
 					obj=obj.style; 
 					v=(v=='show')?'visible':(v='hide')?'hidden':v; 
 				}
 				obj.visibility=v; 
 				if (v=="visible") {
-					//alert("MM_showHideLayers");
+					//alert("MM_showHideLayers visible");
 				}
 			}
 	}
+		
 	
 	function MM_preloadImages() { //v3.0
 		var d=document; 
@@ -70,6 +91,15 @@
 	//-->
 </script>
 
+<script language="JavaScript1.2">
+	var browserCheck;
+	var versionIE;
+	browserCheck = "Default0";
+	versionIE = "";
+</script>
+
+
+
 <script language="javascript" type="text/javascript">
 	var loaded = 1;
 	var currentDown = null;
@@ -79,11 +109,11 @@
 		  '/images/menu/menu_info_r.gif',
 		  '/images/menu/menu_talk_r.gif',
 		  '/images/menu/menu_kotex_r.gif',
-		  '/images/menu/menu_help_r.gif',
+		  '/images/menu/menu_extras_r.gif',
 		  '/images/menu/menu_info_d.gif',
 		  '/images/menu/menu_talk_d.gif',
 		  '/images/menu/menu_kotex_d.gif',
-		  '/images/menu/menu_help_d.gif'
+		  '/images/menu/menu_extras_d.gif'
 		  );
 	  preloadImages(the_images);
 	}
@@ -106,7 +136,7 @@
 	      chr = el.src.lastIndexOf("_") + 1;
 	      period = el.src.lastIndexOf(".");
 	      el.src = "" + el.src.substring(0, chr) + str_switch + el.src.substring(period, el.src.length);
-	      return true;
+		  return true;
 	    }
 	
 	  }
@@ -115,7 +145,7 @@
 	function imageOff (el, override) {
 	  if (loaded) {
 	    if (!currentDown || override || el.name != currentDown.name) {
-	      var str_switch = "d";
+		  var str_switch = "d";
 	      chr = el.src.lastIndexOf("_") + 1;
 	      period = el.src.lastIndexOf(".");
 	      el.src = "" + el.src.substring(0, chr) + str_switch + el.src.substring(period, el.src.length);
@@ -210,6 +240,21 @@ function openSendLinkWindow(x, y, url, targetwindow)
 
 <body bgcolor="#ffffff" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
 
+<script language="JavaScript1.2">
+//These variables are used on the HM_Arrays.js file to determine which arrays should be displayed.
+var menuSubHdrArrays;
+var menuSubNoHdrArrays;
+var menuMainArrays;
+var menuHomePage;
+menuSubHdrArrays = 0;
+menuSubNoHdrArrays = 1;
+menuMainArrays = 0;
+menuHomePage = 0;
+</script>
+
+
+<script language="JavaScript1.2" src="/javascript/HM_Loader.js" type="text/javascript">
+</script><script language="JavaScript1.2" src="/javascript/HM_Arrays.js" type="text/javascript"></script><script language="JavaScript1.2" src="/javascript/HM_ScriptDOM.js" type="text/javascript"></script>
 
 <table cellpadding="0" cellspacing="0" border="0" width="750">
 	<tbody><tr><td><form name="frmMainSrch" method="get" action="/search/searchright.asp" target="right"></form></td>
@@ -217,20 +262,20 @@ function openSendLinkWindow(x, y, url, targetwindow)
 			<a href="/"><img src="/images/menu/menu_kotexcom2.gif" width="159" height="34" border="0" alt="Kotex.com"></a></td>
 		<td align="center" valign="center"><img src="/images/menu/sm_red_dot.gif" width="8" height="8">&nbsp;</td>
 
-		<td align="left" valign="bottom"><a href="/info/" onmouseout="imageOff(info);popDown('elMenu1')" onmouseover="imageOver(info);popUp('elMenu1',event)">
+		<td align="left" valign="bottom"><a href="/info/" onmouseout="imageOff(info);popDown('HM_Menu1')" onmouseover="imageOver(info);popUp('HM_Menu1',event)">
 			<img src="/images/menu/menu_info_d.gif" width="117" height="25" name="info" alt="Click to Info, Please" border="0"></a></td>
 		<td align="center" valign="center"><img src="/images/menu/sm_red_dot.gif" width="8" height="8"></td>
 		
-		<td align="left" valign="bottom"><a href="/talk/" onmouseout="imageOff(talk);popDown('elMenu2')" onmouseover="imageOver(talk);popUp('elMenu2',event)">
+		<td align="left" valign="bottom"><a href="/talk/" onmouseout="imageOff(talk);popDown('HM_Menu2')" onmouseover="imageOver(talk);popUp('HM_Menu2',event)">
 			<img src="/images/menu/menu_talk_d.gif" width="88" height="25" name="talk" alt="Click to Let's Talk" border="0"></a></td>
 		<td align="center" valign="center"><img src="/images/menu/sm_red_dot.gif" width="8" height="8">&nbsp;</td>
 	
-		<td align="left" valign="bottom"><a href="/products/" onmouseout="imageOff(products);popDown('elMenu3')" onmouseover="imageOver(products);popUp('elMenu3',event)">
+		<td align="left" valign="bottom"><a href="/products/" onmouseout="imageOff(products);popDown('HM_Menu3')" onmouseover="imageOver(products);popUp('HM_Menu3',event)">
 			<img src="/images/menu/menu_kotex_d.gif" width="135" height="25" name="products" alt="Click to Kotex Products" border="0"></a></td>	
 		<td align="center" valign="center"><img src="/images/menu/sm_red_dot.gif" width="8" height="8">&nbsp;</td>
 			
-		<td align="left" valign="bottom"><a href="#" onmouseout="imageOff(extras);popDown('elMenu4')" onmouseover="imageOver(extras);popUp('elMenu4',event)">
-			<img src="/images/menu/menu_extras_d.gif" width="69" height="25" name="extras" alt="eXtras" border="0" tabindex="5"></a></td>
+		<td align="left" valign="bottom"><a href="/" onmouseout="imageOff(extras);popDown('HM_Menu4')" onmouseover="imageOver(extras);popUp('HM_Menu4',event)">
+			<img src="/images/menu/menu_whatsnew_d.gif" width="108" height="25" name="extras" alt="" border="0"></a></td>
 	</tr>
 
 
@@ -301,16 +346,16 @@ function openSendLinkWindow(x, y, url, targetwindow)
 	</tr>
 	<tr><td></td>
 		<td valign="top" align="center" class="txtFooter">
-			<a href="http://www.kimberly-clark.com/" target="new"><img src="/images/logo_kc.gif" width="128" height="24" alt="Kimberly-Clark" border="0"></a>
+			<img src="/images/logo_kc.gif" width="128" height="24" alt="Kimberly-Clark" border="0">
 			<p>
-			For more information about other great Kimberly-Clark brands, visit our <a href="http://www.kimberly-clark.com/" target="new"> Kimberly-Clark Corporation website</a>.
+			For more information about other great Kimberly-Clark brands, visit our <a href="http://www.kimberly-clark.com" target="new"> Kimberly-Clark Corporation website</a>.
 			</p><p>
 			Want to contact us?<br>For comments and questions about our<br>products or web site, 
 			<a href="https://www.kimberly-clark.com/ask/kotex/index.asp?site=www.kotex.com&amp;ssl=true">e-mail us</a>.
 			</p><p>
 		    All names, logos and trademarks are the property of<br>Kimberly-Clark Corporation or its affiliates.
 			</p><p>
-		    Copyright 1996-2000 Kimberly-Clark Corporation. All Rights Reserved. 
+		    Copyright 1996-2001 Kimberly-Clark Corporation. All Rights Reserved. 
 		    Your visit to this site and use of the information hereon is subject to
 		    the terms of our <a href="/legal.asp">Legal Statement</a>.
 			<br>Please review our <a href="/privacy.asp"> PRIVACY POLICY</a>.
@@ -320,4 +365,4 @@ function openSendLinkWindow(x, y, url, targetwindow)
 
 
 
-</body></html>
+<div id="HM_Menu1" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 166px; border-width: 2px; border-color: red; border-style: solid; overflow: hidden; cursor: default; height: 90px;"><div id="HM_Item1_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 166px; top: 0px;">Period Central</div><div id="HM_Item1_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 166px; top: 15px;">Pregnancy &amp; Your Body</div><div id="HM_Item1_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 166px; top: 30px;">Health &amp; Well-Being</div><div id="HM_Item1_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 166px; top: 45px;">Primetime Women</div><div id="HM_Item1_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 166px; top: 60px;">FAQs</div><div id="HM_Item1_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; left: 0px; width: 166px; top: 75px;">Education Kit</div></div><div id="HM_Menu2" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 166px; border-width: 2px; border-color: red; border-style: solid; overflow: hidden; cursor: default; height: 90px;"><div id="HM_Item2_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 166px; top: 0px;">Teens</div><div id="HM_Item2_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 166px; top: 15px;">Women</div><div id="HM_Item2_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 166px; top: 30px;">Educators</div><div id="HM_Item2_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 166px; top: 45px;">Your&nbsp;Feedback</div><div id="HM_Item2_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 166px; top: 60px;">Talk To Kotex</div><div id="HM_Item2_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; left: 0px; width: 166px; top: 75px;">Join Kotex Connection</div></div><div id="HM_Menu3" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 176px; border-width: 2px; border-color: red; border-style: solid; overflow: hidden; cursor: default; height: 105px;"><div id="HM_Item3_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px 5px 0px 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 171px; top: 0px;"><img src="/images/mouse_over/HM_More_black_right.gif" hspace="0" vspace="0" width="5" style="position: absolute; top: 2px; left: 171px;">Everything Kotex</div><div id="HM_Item3_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px 5px 0px 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 171px; top: 15px;">Your Needs. Your Kotex</div><div id="HM_Item3_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px 5px 0px 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 171px; top: 30px;">Where to Buy</div><div id="HM_Item3_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px 5px 0px 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 171px; top: 45px;">Product Q&amp;A</div><div id="HM_Item3_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px 5px 0px 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 171px; top: 60px;">Talk To Kotex</div><div id="HM_Item3_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px 5px 0px 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 171px; top: 75px;">Join Kotex Connection</div><div id="HM_Item3_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px 5px 0px 0px; font: bold 10pt Arial, sans-serif; left: 0px; width: 171px; top: 90px;">Kotex Sweepstakes</div></div><div id="HM_Menu3_1" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 176px; border-width: 2px; border-color: red; border-style: solid; overflow: hidden; cursor: default; height: 60px;"><div id="HM_Item3_1_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px 5px 0px 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 171px; top: 0px;">Thick Pads</div><div id="HM_Item3_1_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px 5px 0px 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 171px; top: 15px;">Ultra Thin Pads</div><div id="HM_Item3_1_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px 5px 0px 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 171px; top: 30px;">Pantiliners</div><div id="HM_Item3_1_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px 5px 0px 0px; font: bold 10pt Arial, sans-serif; left: 0px; width: 171px; top: 45px;">Tampons</div></div><div id="HM_Menu4" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 156px; border-width: 2px; border-color: red; border-style: solid; overflow: hidden; cursor: default; height: 90px;"><div id="HM_Item4_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 156px; top: 0px;">Join Kotex Connection</div><div id="HM_Item4_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 156px; top: 15px;">Where to Buy</div><div id="HM_Item4_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 156px; top: 30px;">Site Map</div><div id="HM_Item4_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 156px; top: 45px;">Period Calendar</div><div id="HM_Item4_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; border-bottom: 0px solid red; left: 0px; width: 156px; top: 60px;">Send This Page</div><div id="HM_Item4_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: white; color: gray; padding: 0px; font: bold 10pt Arial, sans-serif; left: 0px; width: 156px; top: 75px;">Talk to Kotex</div></div></body></html>
