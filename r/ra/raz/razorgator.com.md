@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the razorgator.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206040601id_/http%3A//razorgator.com/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razorgator.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202234724id_/http%3A//www.razorgator.com/policies.asp) for the most accurate reproduction.*
 
-# Razorgator
+# Policies - RazorGator.com
 
-##   
+Policies Governing Use of This Website and Our Services
 
+* * *
 
 Please read this page carefully and in its entirety as it details important information on our policies and the terms and conditions you are agreeing to when utilizing our website and services.
 
@@ -86,7 +87,7 @@ Your payment information, home address and other contact details are NOT stored 
 
 **d. Security of sensitive data**
 
-We have established and rigorous security measures in place, both online and offline, in order to protect sensitive data from mailing list members and customers.
+We have rigorous security measures in place, both online and offline, in order to protect sensitive data from mailing list members and customers.
 
 **For online security:**
 
@@ -115,10 +116,15 @@ Razor Gator, Inc. is in **no way affiliated** with any box office or official or
 If you have any questions about the above Terms and Conditions, please contact: 
 
 Razor Gator, Inc.   
-9601 Wilshire Blvd, Suite GL-8   
-Beverly Hills, California 90210   
+9464 Wilshire Blvd.   
+Beverly Hills, California 90212   
 Tel : 1-800-852-7771   
 Or 1-310-277-4788   
 Fax : 1-310-277-5528
 
 Back To Top
+
+Back to Previous Page
+
+  
+
