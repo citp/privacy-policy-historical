@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ssl.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204113134id_/http%3A//www.ssl.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssl.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606080044id_/http%3A//www.ssl.com/privacy.jsp) for the most accurate reproduction.*
 
 # SSL Repository - Privacy Policy
 
-_Last Revised Date, 2003_
+_Last Revised Date, 2004_
 
 As an information service provider and a specialist in Internet security, Secure Sockets Laboratories, LLC ("SSL") is entrusted with many types of enterprise data. Protecting the security and confidentiality of that data is a responsibility that we take very seriously. No less important to us is the protection of your personal privacy. We hope that the following statement will help you to more fully understand how SSL collects, uses and safeguards the information you provide to us through this web site and the growing family of SSL Trust products and services.
 
