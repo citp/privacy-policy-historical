@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capcom.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204164839id_/http%3A//www.capcom.com/legal.xpml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capcom.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603162619id_/http%3A//www.capcom.com/legal.xpml) for the most accurate reproduction.*
 
 # Corporate Information
 
@@ -62,7 +62,7 @@ __
 >
 >> __
 >> 
->> By registering with Capcom, you are automatically entered in our monthly raffles and other promotional giveaways. If you would like to be a member of the Capcom Edge, and you would like to be entered into the Capcom Arcade System giveaway, you must also provide your mailing address.
+>> By registering with Capcom, you are automatically entered in our monthly raffles and other promotional giveaways. 
 
   * _Message Boards_
 
@@ -138,15 +138,7 @@ Children 12 years old and under
 
 _
 
-We require children 12 years old and under to obtain prior parental consent before we collect any information from that child. If you indicate that you are 12 years old or under, we will ask you to print out a permission form from our site, which must be signed and returned by your parent or guardian before we will accept information from you. It is also our policy not to require a child to disclose more information than is reasonably necessary to participate in an activity as a condition of participation.
-
-_
-
-Children 13 to 17 years old
-
-_
-
-We will not collect personal information from children over 12 and under 18 without notifying a parent or guardian via email.
+We do not collect any information about children 12 years old and under. If you indicate that you are 12 years old or under, you will not be allowed to register.
 
 _
 
