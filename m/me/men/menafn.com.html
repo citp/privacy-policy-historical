@@ -1,1305 +1,1124 @@
-<!--The following is the downloaded HTML source of the menafn.com privacy policy that was archived on 2003-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031207100202id_/http%3A//menafn.com/mf_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the menafn.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603073321id_/http%3A//www.menafn.com/mf_privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <meta name="GENERATOR" content="Microsoft FrontPage 4.0">
 <meta name="ProgId" content="FrontPage.Editor.Document">
-<title>MENAFN.COM - Middle East North Africa - Financial Network</title>
-<link rel="stylesheet" type="text/css" href="menafn.css">
+<title>MENAFN - Middle East North Africa . Financial Network</title>
+<link rel="stylesheet" type="text/css" href="/includes/styles/menafn_new.css">
+<link rel="SHORTCUT ICON" href="http://www.menafn.com/favicon.ico">
 <base target="_self">
-<script language="javascript">
-var ns =(document.layers)? 1 : 0;
-var ie = (document.all)? 1 : 0 ;
-var init_width;
-var doc;
-var sty;
-var h_id=null;
-var s_id=null;
-layerRef =0;
-if (ns)
-m_border=1;
-if (ie)
-m_border=0;
-lastmenu=0;
-//m_height=142;
-
-
-
-if(ns) {
-		if (innerWidth<770) 
-		{  init_width=760; }
-			else
-		{  init_width=innerWidth-12; }
-		layerRef="document.layers";
-		doc = "document"; sty = ""; f_hide="hide";
-	    } else if(ie) {
-		layerRef="document.all";  f_hide="hidden";
-	        doc = "document.all"; sty = ".style";
-	    }
-
-function tmenu()
-{
-
-
-menu = new Menu();
-	menu.addItem("Homeid", '<img border="0" src="/images/inc_images/top/img_home.gif" width="109" height="15">',  "http://www.menafn.com/",null,"","_top");
-	menu.addItem("Qutesid", '<img border="0" src="/images/inc_images/top/img_quo.gif" width="115" height="15">',  "/qn_quotes.asp",null,"","_self");
-	menu.addItem("Marketid", '<img border="0" src="/images/inc_images/top/img_inv.gif" width="104" height="15">',  "/qn_market.asp",null,"","_self");
-	menu.addItem("Financialid", '<img border="0" src="/images/inc_images/top/img_mob.gif" width="128" height="15">',  "/menafnmobile.asp",null,"","_self");
-	menu.addItem("Community", '<img border="0" src="/images/inc_images/top/img_comm.gif" width="92" height="15">',  "#top",null,"","_self");
-	menu.addItem("Toolsid", '<img border="0" src="/images/inc_images/top/img_tool.gif" width="62" height="15">',  "#top",null,"","_self");
-	menu.addItem("Shopid", '<img border="0" src="/images/inc_images/top/img_shop.gif" width="59" height="15">',  "/research",null,"","_self");
-	menu.addItem("Cartid", '<img border="0" src="/images/inc_images/top/img_cart.gif" width="78" height="15">',  "/research/research_login.asp?type=payment",null,"","_self");
-
-    menu.addSubItem("Qutesid","&nbsp;Quotes & News","/qn_quotes.asp","","130");
-	menu.addSubItem("Qutesid","&nbsp;News","/qn_news.asp","","130");
-	menu.addSubItem("Qutesid", "&nbsp;Charts & Quotes", "/qn_quotes_charts.asp","","");
-	menu.addSubItem("Qutesid", "&nbsp;Research Center", "/rc_research.asp","","");
-
-	menu.addSubItem("Marketid", "&nbsp;Capital Markets", "/qn_market.asp","","140");
-	menu.addSubItem("Marketid", "&nbsp;FX & Money Markets", "/qn_currencies.asp","","");
-	menu.addSubItem("Marketid", "&nbsp;Commodities", "/qn_commodities_r.asp","","");
-	menu.addSubItem("Marketid", "&nbsp;Oil/Energy", "/qn_energy_r.asp","","");
-
-	menu.addSubItem("Financialid", "&nbsp;Jordan", "/fastlink.asp","","125");
-	menu.addSubItem("Financialid", "&nbsp;Lebanon", "/LibanCell.asp","","125");
-
-	menu.addSubItem("Community", "&nbsp;Investment Game", "/snap/ic/ic_login.asp?client=MENAFN","","152");
-	menu.addSubItem("Community", "&nbsp;Credit Card Marketplace", "/fi_financial.asp","","155");
-	menu.addSubItem("Community", "&nbsp;Voting", "/vo_center.asp","","");
-
-	menu.addSubItem("Toolsid", "&nbsp;MENAFN Travel", "/travel.asp","","125");
-	menu.addSubItem("Toolsid", "&nbsp;Portfolio Tracker", "/my_portf_valua.asp","","");
-	menu.addSubItem("Toolsid", "&nbsp;Calculators", "/tl_calculators.asp","");
-	menu.addSubItem("Toolsid", "&nbsp;Financial Glossary", "/Glossary/bfglosa.asp","");
-
-	menu.addSubItem("Shopid", "&nbsp;MENAFN Research", "/research","","125");
-	menu.addSubItem("Shopid", "&nbsp;Bookstore", "/sh_bookcategory.asp","","");
-	
-
-menu.showMenu();
-
-
-}
-
-//--DROPDOWN TOP TOOLBAR
-function showLayer(layerName,p_id)
-{
-
-hideLayer()
-if (eval(layerRef+'["sub'+layerName+'"]')!=null)
-{
- m_offs1=0;	
- if (ns)
-{
-	m_offs1=eval(layerRef+'.main'+p_id+'.layers["'+layerName+'"]').pageX
-	eval(layerRef+'["sub'+layerName+'"]'+sty).top=eval(layerRef+'.main'+p_id+'.layers["'+layerName+'"]').pageY+20;
-}
-else
-	{
-	m_offs1=eval(layerName+'.offsetParent.offsetLeft')+eval(layerName+'.offsetLeft');
-	eval(layerRef+'["sub'+layerName+'"]'+sty).top=eval(layerName+'.offsetParent.offsetTop')+10;
-	}
- if (layerRef !=null)
-	{
-		
-		eval(layerRef+'["sub'+layerName+'"]'+sty).left= m_offs1;
-		eval(layerRef+'["sub'+layerName+'"]'+sty).visibility="visible";
-		lastmenu=layerName;
-		
-	}
-  }
-}
-
-
-//--HIDE TOP TOOLBAR	
-function hideLayer(){
-	if (lastmenu != 0)
-	{
-		eval(layerRef+'["sub'+lastmenu+'"]'+sty).visibility=f_hide;
-		lastmenu=0;
-	}
-}
-
-
-
-//** declaration of the top toolbar **
-
-
-function Menu()
-{
-	this.addItem    = addItem;
-	this.addSubItem = addSubItem;
-	this.showMenu   = showMenu;
-	this.m_class  = "gray";
-
-menu_str="";
-if (ns)
-	menu_str=menu_str+'<layer top='+m_height+'px height=20px left=10px';
-if (ie)
-menu_str=menu_str+'<div style="position:absolute; top:'+m_height+'px; height:20px; left:10px;"';
-menu_str=menu_str+' id="main"  onmouseOut=\'hideLayer()\'>';
-menu_str=menu_str+' <table border="0" cellpadding="0" cellspacing="0"><tr>';
-menu_str=menu_str+'<!-- main -->';
-menu_str=menu_str+'</tr></table>';
-if (ns)
-	menu_str=menu_str+'</layer>';
-if (ie)
-menu_str=menu_str+'</div>';
-	menu_str += "<!-- SUB_MENU -->";
-}
-
-
-
-function addItem(f_id,f_text,f_loc,f_img,m_id,m_target)
-{
-i_str="";
-i_str=i_str+'<td class="top" valign="top">';
-if (f_img !=null)
-	i_str=i_str+'<img src="/images/shared/tb_top_bullet.gif" width="7" vspace="4" height="6" hspace="4"></td><td>';
-else
-	i_str=i_str+'</td><td>';
-if (ns)
-	i_str=i_str+'<ilayer top=0px height=12px';
-if (ie)
-i_str=i_str+'<div style="position:relative; top:0px; height:15px;"';
-i_str=i_str+' id="'+f_id+'" onmouseOver=\'showLayer("'+f_id+'","'+m_id+'")\' ><a href="'+f_loc+'" target="'+m_target+'" class="'+this.m_class+ '" onmouseOver=\'showLayer("'+f_id+'","'+m_id+'")\'>'+f_text+'</a>';
-//alert (i_str)
-if (ns)
-	i_str=i_str+'</ilayer>';
-if (ie)
-i_str=i_str+'</div>';
-i_str=i_str+'</td>';
-i_str=i_str+' <!-- main -->';
-	menu_str = menu_str.replace("<!-- main -->", i_str);
-}
-
-function addSubItem(f_id,f_text,f_loc,m_id,mlen)
-{
-	m_color="#D2E7C3"
-	i_str="";
-	fm_id="sub"+f_id;
-	Lookup = "<!--NEXT"+ f_id +" -->";
-	if (menu_str.indexOf(Lookup) == -1)
-	{
-		if (ns)
-			i_str=i_str+'<layer  top=0px; visibility=hide;'
-		if (ie) i_str=i_str+'<div style="position:absolute; top:0px;visibility:hidden;"';
-
-		i_str=i_str+' id="'+fm_id+'" onmouseOut=\'hideLayer()\'  onmouseOver=\'showLayer("'+f_id+'","'+m_id+'")\'>';
-		i_str=i_str+'<table border="0" cellpadding="0" cellspacing="0" ><tr><td><table width="'+mlen+'" border="0" cellpadding="0" width="100%" cellspacing="0">';
-if(ie)
-i_str=i_str+'<tr><td><img src="/images/shared/img_trnsp.gif" width="1" height="11"></td><td ><img src="/images/shared/img_trnsp.gif" width="1" height="11"></td><td><img src="/images/shared/img_trnsp.gif" width="1" height="11"></td></tr>';
-if (m_id=="") 
-	i_str +='<tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr>';
-else
-	i_str +='<tr><td><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr>';
-		i_str=i_str + Lookup;
-		i_str=i_str+'<tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="7"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr></table></td></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" width=""100%"><tr><td><img src="/images/inc_images/top/img_bottom.gif"   width="20" height="7"></td><td bgcolor="#192461" width="'+(mlen-20)+'"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr></table></td></tr></table>';
-		if (ns)
-			i_str=i_str+'</layer>';
-		if (ie)
-		i_str=i_str+'</div>';
-		i_str += "<!-- SUB_MENU -->";
-		menu_str = menu_str.replace("<!-- SUB_MENU -->",i_str);
-	}
-	i_str='<tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="'+f_loc+'"  onmouseOver=\'showLayer("'+f_id+'","'+m_id+'")\'><b>'+f_text+'</b></a></td><td  bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr>';
-	i_str +='<tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr>';
-	i_str += Lookup;
-	menu_str = menu_str.replace(Lookup, i_str);
-}
-
-function showMenu()
-{
-if (ns)
-   {
-	document.write(menu_str)
-   }
-else
-   {
-	document.write(menu_str)
-   }
-}
-
-</script>
+<script language="javascript" src="/includes/scripts/inc_top.js"></script>
 </head>
+<body bgcolor="white" onload="initialiseMenu();" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
 
-<body background="images/shared/img_back.gif" bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
-
-<!--************** TOP TOOLBAR *******************-->
-
-
-<script language="javascript">
-m_height=86;
-</script>
-
-<table border="0" width="100%" cellspacing="0" cellpadding="0" background="/images/inc_images/header/img_bg.gif">
-  <tbody><tr>
-    <td>
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-          <td background="/images/inc_images/top/img_bg_logo.gif"><a href="http://www.menafn.com" target="_top"><img border="0" src="/images/inc_images/top/img_logo.gif" alt="MENAFN.COM"></a></td>         
-          <td valign="bottom" align="right" background="/images/inc_images/top/img_bg_logo.gif"><img border="0" src="/images/inc_images/top/img_demand.gif" vspace="19" hspace="4"></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#FFFFFF" background="/images/shared/img_bg_white.gif"><img border="0" src="/images/shared/img_trnsp.gif" width="5" height="10"></td>
-  </tr>          
-  <tr>
-    <td background="/images/inc_images/top/img_bg_right1.gif" height="1" bgcolor="#B1DA8E"><img border="0" src="/images/shared/img_trnsp.gif" width="5" height="15"></td>
-  </tr>          
-  <tr>
-    <td width="50%">
-      <table border="0" cellpadding="0" cellspacing="0" width="100%">
-        <tbody><tr>
-          <td>
-            <table border="0" cellpadding="0" cellspacing="0" width="770">
-              <tbody><tr>
-                <td>
-      <a href="/arabic/index.asp"><img border="0" src="/images/inc_images/top/img_arab.gif" width="77" height="20"></a></td>
-                <td><img border="0" src="/images/inc_images/top/img_fren.gif" width="98" height="20"></td>
-                <td width="100%" background="/images/inc_images/top/img_navy.gif"><img border="0" src="/images/inc_images/top/img_navy.gif" width="350" height="20"></td>
-                <td><a href="/coming.asp"><img border="0" src="/images/inc_images/top/img_site.gif" width="98" height="20"></a></td>
-          <td background="/images/inc_images/top/img_bg_right.gif" class="white" bgcolor="#192461" nowrap="">
-&nbsp;
-
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td class="bgNavy"><img src="/images/inc_images/img_trnsp.gif" width="1" height="3"></td>
+	</tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+	<tbody><tr>
+		<td align="left"><a href="/"><img src="/images/inc_images/img_logo.gif" border="0" width="378" height="78"></a></td>
+		<td background="/images/inc_images/bg_top.gif" align="right" width="100%">
+			<table border="0" height="78" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td align="right" height="40" valign="top"><a href="/arabic"><img src="/images/inc_images/img_arabic.gif" border="0" hspace="5" vspace="5" width="46" height="20"></a></td>
+				</tr>
+				<tr>
+					<td align="right" valign="bottom"><img src="/images/inc_images/img_demand.gif" width="122" height="38"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+	</tr>
+</tbody></table>
+<table width="780" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td width="5" height="30"><img src="/images/inc_images/img_trnsp.gif" width="5" height="30"></td>
+		<td align="left" valign="middle">
+			
    <script language="javascript">
    c_date=new Date()
 c_utc=c_date.toUTCString()
 c_tmp=Date.parse(c_utc)
-c_tmp1=Date.parse("Sun, 7 Dec 2003 10:08:33 UTC")
+c_tmp1=Date.parse("Thu, 3 Jun 2004 07:33:38 UTC")
 date_diff=c_tmp-c_tmp1
 //mdate=new Date()
 //m_date=mdate.toUTCString
 //m_date=Date.parse(m_date)
 	m_date=new Date(c_tmp+date_diff)
 	m_str=m_date.toUTCString();
-	document.write('<b>'+m_str.substring(0,m_str.length-7)+' GMT</b>')
-  </script><b>Tue, 25 Mar 2036 21:19 GMT</b>
+	document.write(''+m_str.substring(0,m_str.length-7)+' GMT')
+  </script>Fri, 28 Sep 2035 23:54 GMT
 
-
-</td>
-              </tr>
-            </tbody></table>
-          </td>
-          <td width="100%" background="/images/inc_images/top/img_bg_right.gif" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="15">  </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-          
-  <tr>
-    <td>
-      <img border="0" src="/images/shared/img_trnsp.gif"></td>
-  </tr>
-          
-</tbody></table>
-
-
-<!--************** end of TOP TOOLBAR *******************-->
-
-<!--************** MAIN TABLE *******************-->
-  <table border="0" width="770" cellspacing="0" cellpadding="0">
-    <tbody><tr>              <td valign="top">
-   <script language="javascript">
-m_reff=""
-m_height=86;
-armena=new Array("Quotes/News","Detailed Quote","Stock Charts")
-arus=new Array("Quotes/News","Detailed Quote","Stock Charts","Earnings")
-armenav=new Array("qn_quotes_news","qn_digest","qn_charts")
-arusv=new Array("qn_quotes_news","qn_digest","qn_earnings","qn_charts","qn_ipo")
-
-function redir()
-{
-if (document.forma.Symbol.value > "")
-{
-	tmp=document.forma.DataType.selectedIndex
-	if(document.forma.q_name1[0].checked != false)
-		{	document.forma.action=document.forma.DataType[tmp].value+m_reff+".asp?ContType="+ document.forma.q_name1[0].value+"&Symbol="+document.forma.Symbol.value }
-	else {
-			document.forma.action=document.forma.DataType[tmp].value+m_reff+".asp?ContType="+ document.forma.q_name1[1].value+"&Symbol="+document.forma.Symbol.value
-	}
-	if (m_reff!="") //MENA
-	{
-		//alert(m_reff)
-		r_f_name=document.forma.DataType[tmp].value+m_reff+".asp"
-		if(document.forma.q_name1[0].checked != false)
-		{		r_f_conttype=document.forma.q_name1[0].value
-		}
-		else
-		{		r_f_conttype=document.forma.q_name1[1].value
-		}
-		document.forma.action="/mena_stocks.asp?filenam="+r_f_name+"&ContType="+r_f_conttype+"&Symbol="+document.forma.Symbol.value
-	}
-//	else
-//	{
-		document.forma.submit()
-//	}
-}
-else
-{ alert("Please enter a Name/Symbol value. ")
-}
-}
-
-function hredir()
-{
-if (document.formn.queryn.value > "")
-{
-document.formn.action="/qn_mena_headlines.asp?type=Query&title="+document.formn.queryn.value+"&Query="+document.formn.queryn.value
-
-document.formn.submit()
-}
-else
-{ alert("Please enter a search value. ")
-}
-}
-
-function fregion(m_n)
-{
-if (m_n=="mena")
-	{m_reff="_r"}
-else {m_reff=""}
-m_obj=eval("ar"+m_n)
-m_objv=eval("ar"+m_n+"v")
-document.forma.DataType.length=m_obj.length
-for (var i=0; i<m_obj.length; i++)
-	{
-		document.forma.DataType[i].text=m_obj[i]
-		document.forma.DataType[i].value=m_objv[i]
-	}
-	document.forma.DataType.focus()
-}
-</script>
-
-<table border="0" cellpadding="0" cellspacing="0" width="135">
-	<tbody><tr>
-		<td width="135"><a href="/mymenafn.asp"><img border="0" src="/images/inc_images/nav_bar/img_my.gif" height="18"></a></td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
-
-    </tr>
-    <tr>
-		<td width="100%"><img border="0" src="/images/inc_images/nav_bar/img_squares.gif"></td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
-    </tr>
-    <tr>
-		<td valign="top" align="center">
-			
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
-                    <td bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td>
-                    <td width="134" valign="top" align="left" bgcolor="#C0BFBF">
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
+		</td>
+		<td width="600">
+			<ul id="mainmenu">
+					<li><a class="tbtop" href="http://www.menafn.com">Home</a></li>
+					<li>
+						<div style="position:absolute;  padding-top: 27px; display:none">
+							<table border="0" cellpadding="0" cellspacing="0" width="110" id="Table1">
 							<tbody><tr>
-								<td width="100%"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="3"></td>
+								<td colspan="4" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
 							</tr>
 							<tr>
-								<td width="100%">
-									<form name="frmlog" method="post" action="/my_login.asp?log_type=yes">
-									<table border="0" width="100%" cellspacing="0" cellpadding="0">
+								<td valign="top"><img src="/images/inc_images/top_corner.gif" width="4" height="3"></td>
+								<td valign="top" class="bgGrayTop"><img src="/images/inc_images/bg_white.gif" width="1" height="3"></td>
+								<td class="bgWhite" valign="middle" width="100%"><a href="/qn_news.asp" class="bgGrayTopSub">Regional News</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" nowrap=""><a href="/qn_news.asp?region=gindustry" class="bgGrayTopSub">Global News</a></td>
+								<td valign="middle" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							</tbody></table>
+						</div>
+						<a class="tbtop" href="/qn_news.asp">MENAFN News</a>
+					</li>
+					<li>
+						<div style="position:absolute;  padding-top: 27px; display:none">
+							<table border="0" cellpadding="0" cellspacing="0" width="110" id="Table4">
+							<tbody><tr>
+								<td colspan="4" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td valign="top"><img src="/images/inc_images/top_corner.gif" width="4" height="3"></td>
+								<td valign="top" class="bgGrayTop"><img src="/images/inc_images/bg_white.gif" width="1" height="3"></td>
+								<td class="bgWhite" width="104">
+								<ul>
+								<li>
+									<a href="/qn_market.asp" class="bgGrayTopSub">Equity Markets</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+									<div style="position:absolute; display:none; left:100;  width:104">
+									<table border="0" cellpadding="0" cellspacing="0" width="104">
 										<tbody><tr>
-											<td class="small" align="left"><b>&nbsp;User:</b></td>
-											<td valign="middle" height="10"><input type="text" size="5" name="user_id" class="rest"></td>
+											<td colspan="4" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
 										</tr>
 										<tr>
-											<td class="small" align="left"><b>&nbsp;Password:</b></td>
-											<td valign="middle"><input type="password" size="5" name="password" class="rest"></td>
+											<td valign="top"><img src="/images/inc_images/top_corner.gif" width="4" height="3"></td>
+											<td valign="top" class="bgGrayTop"><img src="/images/inc_images/bg_white.gif" width="1" height="3"></td>
+											<td class="bgWhite" width="100%" valign="middle" nowrap=""><a href="/qn_market.asp" class="bgGrayTopSub">Market Indices</a></td>
+											<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
 										</tr>
-									</tbody></table>
-								</form></td>
-							</tr>
-							<tr>
-								<td width="100%">
-									<table border="0" cellpadding="0" cellspacing="0" width="100%">
-										<tbody><tr>
-											<td valign="baseline"><input type="checkbox" value="1" name="chk_rem"></td>
-											<td width="100%" class="small">Save password<input type="image" src="/images/inc_images/nav_bar/bt_go.gif" border="0"></td>
+										<tr>
+											<td></td>
+											<td colspan="3" width="100%" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
 										</tr>
-									</tbody></table>
+										<tr>
+											<td></td>
+											<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+											<td class="bgWhite" width="100%" valign="middle" nowrap=""><a href="qn_quotes_charts.asp" class="bgGrayTopSub">Quotes &amp; Charts</a></td>
+											<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+										</tr>
+										<tr>
+											<td></td>
+											<td colspan="3" width="100%" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+										</tr>
+										</tbody></table>
+									</div>
+								</li>
+								</ul>
 								</td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
 							</tr>
 							<tr>
-								<td width="100%">&nbsp;<b><a href="/my_config1.asp" class="small">New User</a></b></td>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
 							</tr>
-							
-						</tbody></table>
-                    </td>
-                    <td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1"></td>
-				</tr>
-			</tbody></table>
-			
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" nowrap="" valign="middle"><a href="/qn_currencies.asp" class="bgGrayTopSub">FX &amp; Money Markets</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" valign="middle" nowrap=""><a href="qn_commodities_r.asp" class="bgGrayTopSub">Commodities</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" nowrap="" valign="middle"><a href="/qn_energy_r.asp" class="bgGrayTopSub">Oil &amp; Energy</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							</tbody></table>
+						</div>
+						<a class="tbtop" href="/qn_market.asp">Market Data</a>
+					</li>
+					<li>
+						<div style="position:absolute;  padding-top: 27px; display:none">
+							<table border="0" cellpadding="0" cellspacing="0" width="110" id="Table2">
+							<tbody><tr>
+								<td colspan="4" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td valign="top"><img src="/images/inc_images/top_corner.gif" width="4" height="3"></td>
+								<td valign="top" class="bgGrayTop"><img src="/images/inc_images/bg_white.gif" width="1" height="3"></td>
+								<td class="bgWhite" valign="middle" width="100%"><a href="/research" class="bgGrayTopSub">MENAFN Research</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" nowrap="" valign="middle"><a href="/rc_research.asp" class="bgGrayTopSub">Regional Research</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							</tbody></table>
+						</div>
+						<a class="tbtop" href="#top">Research</a>
+					</li>
+					<li>
+						<div style="position:absolute;  padding-top: 27px; display:none">
+							<table border="0" cellpadding="0" cellspacing="0" width="110" id="Table3">
+							<tbody><tr>
+								<td colspan="4" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td valign="top"><img src="/images/inc_images/top_corner.gif" width="4" height="3"></td>
+								<td valign="top" class="bgGrayTop"><img src="/images/inc_images/bg_white.gif" width="1" height="3"></td>
+								<td class="bgWhite" width="100%" valign="middle"><a href="/wethr_region.asp" class="bgGrayTopSub">Weather</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td valign="top"><img src="/images/inc_images/top_corner.gif" width="4" height="3"></td>
+								<td valign="top" class="bgGrayTop"><img src="/images/inc_images/bg_white.gif" width="1" height="3"></td>
+								<td class="bgWhite" width="100%" valign="middle"><a href="/travel.asp" class="bgGrayTopSub">Travel</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" nowrap="" valign="middle"><a href="/my_portf_valua.asp" class="bgGrayTopSub">Portfolio Tracker</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1" 5=""></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" nowrap="" valign="middle"><a href="/tl_calculators.asp" class="bgGrayTopSub">Calculators</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" nowrap="" valign="middle"><a href="/snap/ic/ic_login.asp?client=MENAFN" class="bgGrayTopSub">Investment Game</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" nowrap="" valign="middle"><a href="/vo_center.asp" class="bgGrayTopSub">Voting</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" nowrap="" valign="middle"><a href="/Glossary/bfglosa.asp" class="bgGrayTopSub">Financial Glossary</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							</tbody></table>
+						</div>
+					<a class="tbtop" href="#top">Tools</a>
+					</li>
+					<li>
+						<div style="position:absolute;  padding-top: 27px; display:none">
+							<table border="0" cellpadding="0" cellspacing="0" width="110" id="Table6">
+							<tbody><tr>
+								<td colspan="4" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td valign="top"><img src="/images/inc_images/top_corner.gif" width="4" height="3"></td>
+								<td valign="top" class="bgGrayTop"><img src="/images/inc_images/bg_white.gif" width="1" height="3"></td>
+								<td class="bgWhite" width="100%" valign="middle"><a href="/fastlink.asp" class="bgGrayTopSub">Jordan</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" nowrap="" valign="middle"><a href="/libancell.asp" class="bgGrayTopSub">Lebanon</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+								<td class="bgWhite" nowrap="" valign="middle"><a href="/batelco.asp" class="bgGrayTopSub">Bahrain</a></td>
+								<td class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="15"></td>
+							</tr>
+							<tr>
+								<td></td>
+								<td colspan="3" class="bgGrayTop"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+							</tr>
+							</tbody></table>
+						</div>
+						<a class="tbtop" href="menafnmobile.asp">MENAFN Mobile</a>
+					</li>
+					<li><a class="tbtop" href="/research/research_login.asp?type=payment">Cart</a></li>
+			</ul>
 		</td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
 	</tr>
-    <tr>
-		<td width="100%"><img border="0" src="/images/inc_images/nav_bar/img_bott.gif"></td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
-    </tr>
-    <tr>
-        <td width="100%"><img border="0" src="/images/inc_images/nav_bar/img_quotes.gif" height="21"></td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
-    </tr>
-    <tr>
-        <td width="100%"><img border="0" src="/images/inc_images/nav_bar/img_squares.gif"></td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
-    </tr>
-    <tr>
-		<td width="100%" valign="top" align="center"> 
+</tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" height="1">
+	<tbody><tr>
+		<td height="1" background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td>
+	</tr>
+</tbody></table>
+<!-- LEFT -->
+<script language="javascript" src="/includes/scripts/inc_left.js"></script>
+<table align="left" border="0" cellpadding="0" cellspacing="0" width="150">
+	<tbody><tr>
+		<td width="149">
 			<table border="0" cellpadding="0" cellspacing="0" width="100%">
 				<tbody><tr>
-					<td bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1"></td>
-					<td width="132" valign="top" align="center" bgcolor="#C0BFBF">
-						<table border="0" cellpadding="0" cellspacing="0" width="100%">
-							<tbody><tr>
-								<td width="100%" class="small">&nbsp;Select the Region:</td>
-							</tr>
-							<tr>
-								<td width="100%">
-									<form method="POST" name="forma">
-									<table border="0" cellpadding="0" cellspacing="0" width="133">
-										<tbody><tr>
-											<td><input type="radio" name="region" value="US" checked="" onclick="fregion('us')"></td>
-											<td class="small" width="50%"><b>US</b></td>
-											<td><input type="radio" name="region" value="MENA" onclick="fregion('mena')"></td>
-											<td class="small" width="50%"><b>MENA</b></td>
-										</tr>
-							            <tr>
-											<td align="right"><input type="radio" name="q_name1" value="name"></td>
-											<td width="50%" valign="middle" class="small">Name</td>
-											<td align="right"><input type="radio" name="q_name1" value="Symbol" checked=""></td>
-											<td width="50%" valign="middle" class="small">Symbol</td>
-										</tr>
-									</tbody></table>
-								</form></td>
-							</tr>
-							<tr>
-								<td width="100%">&nbsp;<select name="DataType">
-									<option value="/qn_quotes_news">Quotes/News
-									</option><option value="/qn_digest">Detailed Quotes
-									</option><option value="/qn_earnings">Earnings
-									</option><option value="/qn_charts">Stock Charts</option></select>
-								</td>
-							</tr>
-							<tr>
-								<td width="100%">
-									<table border="0" cellpadding="0" cellspacing="0" width="100%">
-										<tbody><tr>
-											<td>&nbsp;<input type="text" size="8" name="Symbol" class="rest"></td>
-											<td><a href="javascript:redir()"><img src="/images/inc_images/nav_bar/bt_go.gif" border="0"></a></td>
-										</tr>
-										
-									</tbody></table>
-								</td>
-							</tr>
-						</tbody></table>
+					<td colspan="3"><img src="/images/inc_images/img_trnsp.gif" width="1" height="5"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="1"></td>
+					<td><a href="https://www.menafn.com/my_login.asp"><img src="/images/inc_images/blt_mymena.gif" border="0" vspace="3" width="10" height="10"></a></td>
+					<td align="left" width="100%">&nbsp;&nbsp;<a href="https://www.menafn.com/my_login.asp" class="txtDarkBlue"><b>My MENAFN</b></a></td>
+				</tr>
+				<tr>
+					<td colspan="3"><img src="/images/inc_images/img_trnsp.gif" width="1" height="5"></td>
+				</tr>
+				<tr>
+					<td colspan="3" background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+				</tr>
+			</tbody></table>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td colspan="3"><img src="/images/inc_images/img_trnsp.gif" width="1" height="4"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="1"></td>
+					<td><img src="/images/inc_images/blt_quotes.gif" border="0" vspace="3" width="12" height="11"></td>
+					<td align="left" width="100%" class="txtDarkBlue">&nbsp;&nbsp;<b>Quotes</b></td>
+				</tr>
+			</tbody></table>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<form method="POST" name="forma"></form>
+					<tbody><tr>
+						<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="1"></td>
+						<td class="txtDarkBlue">Region:</td>
+						<td><input type="radio" name="region" value="US" checked="" onclick="fregion('us')"></td>
+						<td class="txtDarkBlue">US</td>
+						<td><input type="radio" name="region" value="MENA" onclick="fregion('mena')"></td>
+						<td class="txtDarkBlue">MENA</td>
+					</tr>
+					<tr>
+						<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="1"></td>
+						<td class="txtDarkBlue">By:</td>
+						<td><input type="radio" name="q_name1" value="name"></td>
+						<td class="txtDarkBlue">Name</td>
+						<td><input type="radio" name="q_name1" value="Symbol" checked=""></td>
+						<td class="txtDarkBlue">Symbol</td>
+					</tr>
+			</tbody></table>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td colspan="3"><img src="/images/inc_images/img_trnsp.gif" width="1" height="3"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="1"></td>
+					<td><select name="DataType" style="width:102">
+						<option value="/qn_quotes_news">Quotes/News
+						</option><option value="/qn_digest">Detailed Quotes
+						</option><option value="/qn_earnings">Earnings
+						</option><option value="/qn_charts">Stock Charts</option></select>
 					</td>
-					<td bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1"></td>
+					<td></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="1"></td>
+					<td><input type="text" size="16" name="Symbol"></td>
+					<td align="left"><a href="javascript:redir()"><img src="/images/inc_images/btn_go.gif" width="17" hspace="5" height="11" border="0"></a></td>
+				</tr>
+			
+			</tbody></table>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="/images/inc_images/img_trnsp.gif" width="1" height="5"></td>
+				</tr>
+				<tr>
+					<td background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+				</tr>
+			</tbody></table>			
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td colspan="3"><img src="/images/inc_images/img_trnsp.gif" width="1" height="4"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="1"></td>
+					<td><img src="/images/inc_images/blt_search.gif" border="0" width="11" height="12"></td>
+					<td align="left" width="100%" class="txtDarkBlue">&nbsp;&nbsp;<b>Search</b></td>
+				</tr>
+			</tbody></table>
+			<table border="0" cellpadding="0" cellspacing="0">
+				<form method="POST" action="/qn_mena_headlines.asp" name="formn"></form>
+				<tbody><tr>
+					<td colspan="3"><img src="/images/inc_images/img_trnsp.gif" width="1" height="4"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="1"></td>
+					<td><input type="text" size="16" name="queryn"></td>
+					<td align="left"><a href="javascript:hredir()"><img src="/images/inc_images/btn_go.gif" width="17" hspace="5" height="11" border="0"></a></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="1"></td>
+					<td colspan="2"><a href="/advanced_search_main.asp" class="txtDarkBlue"><small>&gt; advanced</small></a></td>
+				</tr>
+			</tbody></table>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td><img src="/images/inc_images/img_trnsp.gif" width="1" height="5"></td>
+				</tr>
+				<tr>
+					<td background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+				</tr>
+			</tbody></table>
+			<table border="0" cellpadding="0" cellspacing="0" width="100%">
+				<tbody><tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="22"></td>
+					<td valign="middle"><a href="/snap/ic/ic_login.asp?client=MENAFN" class="txtDarkBlue"><b>Investment Game</b></a></td>
+				</tr>
+				<tr>
+					<td colspan="2" background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="22"></td>
+					<td valign="middle"><a href="/sms/sms_main.asp" class="txtDarkBlue"><b>MENAFN Mobile</b></a></td>
+				</tr>
+				<tr>
+					<td colspan="2" background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="22"></td>
+					<td valign="middle"><a href="/my_portf_valua.asp" class="txtDarkBlue"><b>My Stock Portfolio</b></a></td>
+				</tr>
+				<tr>
+					<td colspan="2" background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="22"></td>
+					<td valign="middle"><a href="/mymenafn.asp" class="txtDarkBlue"><b>My News</b></a></td>
+				</tr>
+				<tr>
+					<td colspan="2" background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="22"></td>
+					<td valign="middle"><a href="/my_stock_alerts.asp" class="txtDarkBlue"><b>My Stock Alerts</b></a></td>
+				</tr>
+				<tr>
+					<td colspan="2" background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="22"></td>
+					<td valign="middle"><a href="/my_stock_alerts.asp" class="txtDarkBlue"><b>Financial Calculators</b></a></td>
+				</tr>
+				<tr>
+					<td colspan="2" background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="22"></td>
+					<td valign="middle"><a href="/wethr_region.asp" class="txtDarkBlue"><b>Weather</b></a></td>
+				</tr>
+				<tr>
+					<td colspan="2" background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+				</tr>
+				<tr>
+					<td width="5"><img src="/images/inc_images/img_trnsp.gif" width="5" height="22"></td>
+					<td valign="middle"><a href="/sh_bookcategory.asp" class="txtDarkBlue"><b>Bookstore</b></a></td>
+				</tr>
+				<tr>
+					<td colspan="2" background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
 				</tr>
 			</tbody></table>
 		</td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
+		<td background="/images/inc_images/bg_line_v.gif"><img src="/images/inc_images/bg_line_v.gif" width="1" height="3"></td>
+	</tr>
+</tbody></table>
+<table border="0" cellpadding="0" cellspacing="5" width="620">
+	<tbody><tr>
+		<td width="100%" align="center">
+		<!-- BANNER -->
+		<div><a href="/includes/in_banner_hits.asp?campaign_id=83&amp;imp_id=8445202&amp;URL=http://www.saudiairlines.com/index.jsp" target="_blank"> <img src="/updates/banners/banner_ANYTIME1.gif" width="468" height="60" border="0" alt="Saudi Airlines - Anytime" vspace="5"></a></div>
+		</td>
 	</tr>
 	<tr>
-		<td width="100%"><img border="0" src="/images/inc_images/nav_bar/img_search.gif" height="27"></td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
-    </tr>
-    <tr>
-		<td width="100%">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
-                    <td bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1"></td>
-                    <td width="133" valign="top" align="center" bgcolor="#C0BFBF">
-					    <table border="0" cellpadding="0" cellspacing="0" width="130">
-						    <tbody><tr>
-							  <td width="100%">
-								<form method="POST" action="/qn_mena_headlines.asp" name="formn">
-								<table border="0" width="100%" cellspacing="0" cellpadding="0">
-									<tbody><tr>
-										<td>&nbsp;<input type="text" size="8" name="queryn" class="rest"></td>
-										<td><a href="javascript:hredir()" target="_self"><img border="0" src="/images/inc_images/nav_bar/bt_go.gif"></a></td>
-									</tr>
-								</tbody></table>
-	                          </form></td>
-		                    </tr>
-			                <tr>
-				              <td width="100%" class="small"><a href="/advanced_search_main.asp" class="small">&nbsp;<b>Advanced Search</b></a></td>
-					        </tr>
-							
-						</tbody></table>
-					</td>
-                    <td bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-				</tr>
-			</tbody></table>
-		</td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
+		<td height="10"></td>
 	</tr>
-    <tr>
-        <td width="100%"><img border="0" src="/images/inc_images/nav_bar/img_bott.gif"></td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
-    </tr>
-    <tr>
-        <td width="100%"><img border="0" src="/images/inc_images/nav_bar/img_tools.gif"></td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
-    </tr>
-    <tr>
-         <td width="100%"><img border="0" src="/images/inc_images/nav_bar/img_squares.gif"></td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
-    </tr>
-	<!--           <tr>
-              <td width="100%"><a href="my_portf_valua.asp"><img border="0" src="/images/inc_images/nav_bar/img_my_stock.gif" width="130"></a></td>
-            </tr>
-            <tr>
-              <td width="100%"><a href="mymenafn.asp"><img border="0" src="/images/inc_images/nav_bar/img_my_news.gif" width="130"></a></td>
-            </tr>
-           <tr>
-              <td width="100%"><img border="0" src="/images/inc_images/nav_bar/img_my_trav.gif" width="130"></td>
-            </tr>
-          
-            <tr>
-              <td width="100%"><a href ="my_stock_alerts.asp" class="small"><img border="0" src="/images/inc_images/nav_bar/img_my_s_alert.gif" width="130"></a></td>
-            </tr>
-            <tr>
-              <td width="100%"><a href ="cm_email_in.asp?p=e" class="small"><img border="0" src="/images/inc_images/nav_bar/img_email.gif" width="130"></a></td>
-            </tr>
-            <tr>
-              <td width="100%"><a href ="wethr_region.asp" class="small"><img border="0" src="/images/inc_images/nav_bar/img_weath.gif" width="130"></a></td>
-            </tr>
-            <tr>
-              <td width="100%"><a href ="coming.asp" class="small"><img border="0" src="/images/inc_images/nav_bar/img_horos.gif"  alt="Business Horoscope"></a></td>
-            </tr>
-            <tr>
-              <td width="100%"><img border="0" src="/images/inc_images/nav_bar/img_bott.gif" width="130"></td>
-            </tr>
-          -->   <!--End New Tit -->
-     <tr>
-		<td width="100%">
-			<table width="100%" border="0" cellpadding="0" cellspacing="0" height="97">
+	<!-- TITLE -->
+	
+	<tr>
+		<td align="center">
+			<table border="0" cellpadding="0" cellspacing="0" width="95%"><tbody><tr> <td background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td></tr><tr><td><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td></tr><tr><td class="pageTitle" valign="middle"><img src="/images/shared_images/blt_main_op.gif" hspace="7" width="11" height="11">Privacy &amp; Security Policy</td></tr><tr><td><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td></tr><tr><td background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/img_trnsp.gif" width="1" height="1"></td></tr></tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td height="10"></td>
+	</tr>
+	<!-- CONTENT TR-->
+	<tr>
+		<td align="center" valign="top">
+		<!-- CONTENT -->
+		<table border="0" width="95%" class="spara" id="Table8">
+			<tbody><tr>
+				<td width="100%" align="Center" valign="top">
+					<table border="0" width="95%" id="Table1">
+					<tbody><tr>
+					<td width="50%"><strong><a name="Top"></a>Privacy &amp; Security
+						Policy</strong><br><br></td>
+					</tr>
+					<tr>
+					<td width="96%">
+						<ol>
+						<li><strong><a href="#pledge"> Our basic pledge</a></strong></li>
+						<li><strong><a href="#Disclosure"> Necessary Disclosure</a></strong></li>
+						<li><a href="#Information"><strong> Sharing of Information</strong></a></li>
+						<li><a href="#contests"><strong> Contests</strong></a></li>
+						<li><strong><a href="#surveys"> Surveys</a></strong></li>
+						</ol>
+					</td>
+					</tr>
+					<tr>
+					<td width="50%"><strong><a href="#TopOfAdditional">Additional
+						Information:</a></strong></td>
+					</tr>
+					<tr><td width="96%">
+						<ol>
+						<li><a href="#Application"><strong>Application &amp; Account
+							Information</strong></a></li>
+						<li><a href="#Email"><strong>E-mail Communications and Opting-out</strong></a></li>
+						<li><a href="#Alliances"><strong>MENAFN Alliances and Promotions</strong></a></li>
+						<li><a href="#Browsers"><strong>Browsers and Encryption</strong></a></li>
+						<li><a href="#Security"><strong>Security Issues</strong></a></li>
+						<li><strong><a href="#Cookies">Cookies, GIFs and other Web Tools</a></strong></li>
+						</ol>
+					</td></tr>
+				</tbody></table>
+		    </td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">Whether you are a brokerage
+			customer, a visitor to our Site or a participant in one of our retail
+			promotions, we understand the importance you place on the privacy and
+			security of personal information that identifies you or your account
+			information you disclose to us.
+			<p>During your use of our Site and/or upon opening an account with us, we
+			will collect various information about you, your browsing behaviors, what
+			services you use and what links you click on ("Personal
+			Information"). We use this information to provide you with new and
+			better products and services.</p>
+			<p>The following is our policy regarding privacy of information gathered
+			on this Site and various other links.</p></td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">&nbsp;
+			<p>&nbsp;</p>
+			<p><a name="pledge"><br></a>
+			</p><ol>
+				<li><strong>Our basic pledge. </strong>We pledge and undertake to you
+				that:</li>
+			</ol>
+			<blockquote>
+				<ol>
+				<li type="a">Our collection of Personal Information is limited to what
+					is necessary to administer our business and ensure provision of a
+					satisfactory service. This would include advice regarding various
+					products, services and opportunities that might be of interest to
+					you;</li>
+				<li type="a">We do not, and will not, sell Personal Information to
+					anyone;</li>
+				<li type="a">Personal information will be shared with others only as
+					provided for herein;</li>
+				<li type="a">Whilst collecting any Personal Information from you, we
+					will refer to this pledge and explain to you how we intend to use
+					the information that you provide to us. We will only use the
+					information for the purposes that we have identified, for the
+					purpose of providing you with additional information about relevant
+					products and services or to evaluate your financial needs;</li>
+				<li type="a">We will continuously reevaluate our privacy and security
+					policies and we will inform by email all registered users who have
+					provided us with their email addresses of such changes; and</li>
+				<li type="a">We will allow you to review and update any Personal
+					Information that we hold about you</li>
+				</ol>
+			</blockquote>
+			<p>&nbsp;</p></td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top"><a name="Disclosure"><br></a>
+			<ol start="2">
+				<li><strong>Necessary Disclosure.</strong> In situations where we do
+				believe in good faith that disclosure is necessary by reason of:</li>
+			</ol>
+			<blockquote>
+				<ol type="a">
+				<li>Pursuant to the law or valid requests from law enforcement
+					authorities;</li>
+				<li>To perform necessary credit checks;</li>
+				<li>To collect debts owed to us;</li>
+				<li>To protect our rights or property, or</li>
+				<li>Upon reasonable request by a mutual fund in which you have chosen
+					to invest, we reserve the right to disclose such required
+					information.</li>
+				</ol>
+			</blockquote>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top"><a name="Information"><br></a>
+			<ol start="3">
+				<li><strong>Sharing of Information.</strong>&nbsp;&nbsp; In order to
+				provide you with better products and services that cater to your
+				needs, we may choose to shares Personal Information with our agents,
+				subcontractors or affiliates. Companies or third parties hired to
+				provide support services or to act as our agent are required to
+				conform to our privacy standards. All employees with access to
+				Personal Information are subject to a confidentiality agreement with
+				MENAFN and strict regulations to ensure that the use of such Personal
+				Information is for business purposes only. On occasion we may assist a
+				company that is not affiliated with MENAFN in providing or offering a
+				product or service to you. For example, if you are a mutual fund
+				customer, we may share personal information with the mutual fund
+				company or its agents or affiliates. In such circumstances, marketing
+				materials will include instructions on how you can request not to
+				receive those communications in the future. In all cases your personal
+				information is protected by strict confidentiality undertakings or
+				agreements. We do not allow any non-affiliated company to retain your
+				Personal Information longer than necessary to provide the product,
+				service, or information, unless you affirmatively grant us permission
+				to do so.</li>
+			</ol>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top"><a name="contests"><br></a>
+			<ol start="4">
+				<li><strong>Contests.</strong> We sometimes offer contests in which
+				certain personal information is required for registration. If the
+				contest is being administered by a third party, this information will
+				be disclosed to that third party. However, entrants are instructed to
+				choose contest names different from their login names and information
+				is not linked in any way to their login names.</li>
+			</ol>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top"><a name="surveys"><br></a>
+			<ol start="5">
+				<li><strong>Surveys.<span style="mso-spacerun:
+		yes">&nbsp;</span></strong><span style="mso-spacerun:
+		yes"> </span>We may ask registered users to participate in surveys intended at
+				obtaining general information about the users of our Site.<span style="mso-spacerun: yes">&nbsp;
+				</span>Participation in such surveys is completely voluntary.<span style="mso-spacerun: yes">&nbsp;
+				</span>In addition, some columnists will on occasion take polls of
+				their readers.<span style="mso-spacerun: yes">&nbsp; </span>Such polls
+				are solely for editorial use of the columnists and participation is
+				also voluntary.</li>
+			</ol>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
+			<p align="right"><b>&nbsp;</b></p>
+			<p align="right"><b>&nbsp;</b></p>
+			<p align="right"><b>&nbsp;</b></p>
+			<p align="right"><b>&nbsp;</b></p></td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top"><strong><br><a name="TopOfAdditional"></a>Additional
+			Information:</strong>
+			<ol>
+				<li><strong><a href="#Application">Application &amp; Account Information</a></strong></li>
+				<li><strong><a href="#Email">E-mail Communications and Opting-out</a></strong></li>
+				<li><strong><a href="#Alliances">MENAFN Alliances and Promotions</a></strong></li>
+				<li><strong><a href="#Browsers">Browsers and Encryption</a></strong></li>
+				<li><strong><a href="#Security">Security Issues</a></strong></li>
+				<li><strong><a href="#Cookies">Cookies, GIFs and other Web Tools</a></strong></li>
+			</ol>
+			<p>&nbsp;</p></td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<blockquote>
+				<p><strong><a name="Application"></a>1.&nbsp;&nbsp;&nbsp; Application
+				&amp; Account Information</strong></p>
+			</blockquote>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<blockquote>
+				<blockquote>
+				<p>Customers applying online for an account have the choice to opt out
+				of the application process before completion. Nevertheless,
+				information gathered during this process may be used to send you
+				information regarding MENAFN and the services and products provided
+				throughout. You will be notified of this during the application
+				process.</p>
+				</blockquote>
+				<blockquote>
+				<p>If you have any concerns about the personal or account information
+				held by us about you, please feel free to communicate your concerns to
+				us. In addition, if you have any comments or would like to modify,
+				edit, correct any such information, please email us with this respect
+				and we will see to it immediately.</p>
+				</blockquote>
+			</blockquote>
+			</td>
+		</tr>
+			<tr>
+				<td width="100%" valign="top">
+					<table border="0" width="100%" id="Table2">
+						<tbody><tr>
+						<td valign="top">
+							<blockquote>
+							<p><a href="#TopOfAdditional"><b>Back to Top of Additional
+							Information</b></a></p>
+							</blockquote>
+						</td>
+						<td valign="top">
+							<p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
+							<p align="right"><b>&nbsp;</b></p>
+							<p align="right"><b>&nbsp;</b></p></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td width="100%" valign="top">
+				<blockquote>
+					<p><strong><a name="Email"></a>2.&nbsp;&nbsp; E-mail Communications and
+					Opting out</strong></p>
+				</blockquote>
+				</td>
+			</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<blockquote>
+				<blockquote>
+				<p>Communication between MENAFN and its customers through emails is
+				important. Emails sent to us from our secured Sites are encrypted with
+				SSL technology. However, any email sent to us from outside the secured
+				Sites is not protected, so please do not include any account details
+				or personal information in such emails.</p>
+				</blockquote>
+				<blockquote>
+				<p>In your account agreement we reserve the right to send you emails
+				containing important information relating to your account. Sometimes
+				we might ask for your permission to send other information to you by
+				email.</p>
+				<p>We may use your email address to send you news and information
+				about services and products that we believe may be of interest to you.
+				This will be done via unencrypted emails. You can opt out from
+				receiving such emails by logging onto the Site and contacting us
+				respectively.</p>
+				</blockquote>
+			</blockquote>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<table border="0" width="100%" id="Table3">
 				<tbody><tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="100%" bgcolor="#C0BFBF" align="left" valign="bottom"><b><a href="/snap/ic/ic_login.asp?client=MENAFN" class="small">&nbsp;&nbsp;Investment Game</a></b></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="100%" bgcolor="#C0BFBF" height="2"><img border="0" src="/images/inc_images/nav_bar/img_divider.gif" height="2"></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="100%" bgcolor="#C0BFBF" align="left"><b><a href="/sms/sms_main.asp" class="small">&nbsp;&nbsp;MENAFN Mobile</a></b></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="100%" bgcolor="#C0BFBF" height="2"><img border="0" src="/images/inc_images/nav_bar/img_divider.gif" height="2"></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="100%" bgcolor="#C0BFBF" align="left"><b><a href="/my_portf_valua.asp" class="small">&nbsp;&nbsp;My Stock Portfolio</a></b></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="100%" bgcolor="#C0BFBF" height="2"><img border="0" src="/images/inc_images/nav_bar/img_divider.gif" height="2"></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="50%" align="left" bgcolor="#C0BFBF"><b><a href="/mymenafn.asp" class="small">&nbsp;&nbsp;My News</a></b></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="100%" bgcolor="#C0BFBF"><img border="0" src="/images/inc_images/nav_bar/img_divider.gif" height="2"></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="50%" align="left" bgcolor="#C0BFBF"><b><a href="/my_stock_alerts.asp" class="small">&nbsp;&nbsp;My Stock Alerts</a></b></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="100%" bgcolor="#C0BFBF"><img border="0" src="/images/inc_images/nav_bar/img_divider.gif" height="2"></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="50%" align="left" bgcolor="#C0BFBF"><b><a href="/tl_calculators.asp" class="small">&nbsp;&nbsp;Financial Calculators</a></b></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="100%" bgcolor="#C0BFBF"><img border="0" src="/images/inc_images/nav_bar/img_divider.gif" height="2"></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="50%" align="left" bgcolor="#C0BFBF"><b><a href="/wethr_region.asp" class="small">&nbsp;&nbsp;Weather</a></b></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="100%" bgcolor="#C0BFBF"><img border="0" src="/images/inc_images/nav_bar/img_divider.gif" height="2"></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="50%" align="left" bgcolor="#C0BFBF"><b><a href="/sh_bookcategory.asp" class="small">&nbsp;&nbsp;Bookstore</a></b></td>
-					<td bgcolor="#192461" width="1">
-				</td></tr>
-				<tr>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
-					<td width="100%" bgcolor="#C0BFBF"><img border="0" src="/images/inc_images/nav_bar/img_divider.gif" height="2"></td>
-					<td bgcolor="#192461" width="1"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="5"></td>
+				<td width="60%" valign="top">
+					<blockquote>
+					<p><a href="#TopOfAdditional"><b>Back to Top of Additional
+					Information</b></a></p>
+					</blockquote>
+				</td>
+				<td width="40%" valign="top">
+					<p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
+					<p align="right"><b>&nbsp;</b></p>
+					<p align="right"><b>&nbsp;</b></p></td>
 				</tr>
 			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<blockquote>
+				<p><strong><a name="Alliances"></a>3.&nbsp;&nbsp;&nbsp; MENAFN Alliances
+				and Promotions</strong></p>
+			</blockquote>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<blockquote>
+				<blockquote>
+				<p>When MENAFN joins with another company to offer or provide products
+				and services, both parties may cross-reference their databases to
+				search for customers in common. This existing information may be used
+				to help identify business alliance opportunities and to enhance the
+				information already contained in the existing databases.</p>
+				</blockquote>
+				<blockquote>
+				<p>MENAFN on its own, or jointly with other organizations and web
+				sites, may offer contests, sweepstakes, and promotions. You may be
+				asked to supply additional personal information to participate in
+				these promotional events, which may then be used by the sponsoring
+				parties for marketing purposes. Even if you have previously opted not
+				to receive information or mailings about MENAFN, you may still receive
+				information about MENAFN via these promotions if you choose to
+				register for them. Rules and guidelines for each promotion will be
+				clearly posted, as will notification about how the information
+				gathered may be used. You may opt not to participate in these special
+				promotions if you do not want to receive information about MENAFN or
+				share your information with all sponsoring parties.</p>
+				</blockquote>
+			</blockquote>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<table border="0" width="100%" id="Table4">
+				<tbody><tr>
+				<td width="72%" valign="top">
+					<blockquote>
+					<p><a href="#TopOfAdditional"><b>Back to Top of Additional
+					Information</b></a></p>
+					</blockquote>
+				</td>
+				<td width="28%" valign="top">
+					<p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
+					<p align="right"><b>&nbsp;</b></p>
+					<p align="right"><b>&nbsp;</b></p></td>
+				</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<blockquote>
+				<p><strong><a name="Browsers"></a>4.&nbsp;&nbsp;&nbsp; Browsers and
+				Encryption</strong></p>
+			</blockquote>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<blockquote>
+				<blockquote>
+				<p>Personal Information entered on our Sites is encrypted using Secure
+				Socket Layer (SSL) technology to protect it as it crosses the
+				Internet. Strong encryption applications are recommended to support an
+				SSL-capable browser. The use of a 128-bit browser like Netscape 4.06
+				or higher or Microsoft's Internet Explorer 4.01 or higher
+				automatically activates SSL when you sign onto your MENAFN account. To
+				ensure that you are visiting a secure area within a web site there is
+				a symbol on the bottom of the browser window. A lock or key will
+				appear if you are using either Netscape Navigator or Internet Explorer
+				and when the symbol appears unbroken or the padlock is in the locked
+				position then the transfer of information is done via a secure server.</p>
+				</blockquote>
+				<blockquote>
+				<p>Should you need a strong encryption browser, the most updated
+				version of either Netscape or the Microsoft can be downloaded from the
+				Internet. We do not recommend the use of beta browser versions.</p>
+				</blockquote>
+			</blockquote>
+			<blockquote>
+				<blockquote>
+				<p>Please do not attempt under any circumstance to use software,
+				programs, applications, or any other devices to access or log-in to
+				the MENAFN web site, or to automate the process of obtaining,
+				downloading, transferring, or transmitting any content to or from
+				MENAFN's computer systems, web site, or proprietary software.</p>
+				</blockquote>
+			</blockquote>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<table border="0" width="100%" id="Table5">
+				<tbody><tr>
+				<td width="69%" valign="top">
+					<blockquote>
+					<p><a href="#TopOfAdditional"><b>Back to Top of Additional
+					Information</b></a></p>
+					</blockquote>
+				</td>
+				<td width="31%" valign="top">
+					<p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
+					<p align="right"><b>&nbsp;</b></p>
+					<p align="right"><b>&nbsp;</b></p></td>
+				</tr>
+			</tbody></table>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<blockquote>
+				<p><strong><a name="Security"></a>5.&nbsp;&nbsp;&nbsp; Security Issues</strong></p>
+			</blockquote>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<blockquote>
+				<blockquote>
+				<p>You may only access your account through the use of a password
+				which you should keep private, never share it with anyone and continue
+				to change it periodically through our Site. Your passwords must:</p>
+				</blockquote>
+			</blockquote>
+			<blockquote>
+				<blockquote>
+				<ul>
+					<li>Be at least 6-8 characters long</li>
+					<li>Contain no symbols (!, %, #, etc.)</li>
+				</ul>
+				</blockquote>
+			</blockquote>
+			<blockquote>
+				<blockquote>
+				<p>In the event that you should forget your password, please contact
+				one of MENAFN's representatives on support@menafn.com</p>
+				<p>For added security, it is recommended that you always log off after
+				you have finished using your MENAFN account. This ensures that no one
+				else accesses your account if you leave your computer unattended and
+				your session has not "timed out" or automatically shut down.</p>
+				</blockquote>
+			</blockquote>
+			</td>
+		</tr>
+			<tr>
+				<td width="100%" valign="top">
+				<table border="0" width="100%" id="Table6">
+					<tbody><tr>
+					<td width="71%" valign="top">
+						<blockquote>
+						<p><a href="#TopOfAdditional"><b>Back to Top of Additional
+						Information</b></a></p>
+						</blockquote>
+					</td>
+					<td width="29%" valign="top">
+						<p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
+						<p align="right"><b>&nbsp;</b></p>
+						<p align="right"><b>&nbsp;</b></p></td>
+					</tr>
+				</tbody></table>
+				</td>
+			</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<blockquote>
+				<p><strong><a name="Cookies"></a>6.&nbsp;&nbsp;&nbsp; Cookies, GIFs and
+				Other Web Tools</strong></p>
+			</blockquote>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+			<blockquote>
+				<blockquote>
+				<p>Through the use of cookies, GIFs and other web tools, we try to
+				make interaction with our Site as easy and meaningful as possible.
+				They allow us for example to collect information about where your
+				browser goes and whether you use certain features of our Site. We may
+				use the information collected by such tools to improve navigation,
+				revise our services to suit your needs and target emails and messages
+				to you based on your preferences and previous activities. Knowing
+				where your browser has been on our Site helps us present useful
+				information and offers to you.</p>
+				<p>Standing alone, cookies, GIFs and other web tools, as well as data
+				derived from them, do not identify you personally. They merely
+				recognize your browser. Unless you choose to identify yourself either
+				by responding to a promotional offer, opening an account, or
+				registering for an online service you remain an anonymous user.</p>
+				</blockquote>
+			</blockquote>
+			<blockquote>
+				<blockquote>
+				<p><strong>Cookies</strong></p>
+				<p>When accessing our Site, the web server will automatically send
+				your computer a cookie.</p>
+				<p>A cookie is simply an electronically transmitted file that holds
+				small pieces of information. When you navigate through our web site,
+				your browser "requests" pages for you to view, and those
+				requests will include the information stored in the cookie we
+				previously sent to your computer. This process is like an electronic
+				"handshake" between MENAFN's system and your computer; the
+				information exchanged allows us to recognize your browser. For
+				example, if you go to one of the links provided for and ask you to
+				read the terms and conditions related thereto, once you click and
+				confirm that you've read them that fact is reflected in a cookie, so
+				if you visit us again with the same browser we won't ask you to read
+				it again.</p>
+				</blockquote>
+				<blockquote>
+				<p>There are mainly two types of cookies. "Persistent
+				cookies" which continue to be embedded on your browser after you
+				have closed it. They contain information which identifies whether you
+				have been to our Site before or whether you are a MENAFN customer.
+				"Session Cookies" are cookies that disappear once you close
+				your browser. They contain encrypted or encoded information about your
+				identifying information and account details in order to allow us to
+				process your information more efficiently.</p>
+				<p><strong>GIFs</strong></p>
+				</blockquote>
+				<blockquote>
+				<p>"Graphics Interchange Format" files, commonly known as 'GIFs'
+				are used to recognize users and collect and transmit information
+				online. On the Web, GIFs allow us to keep your session active while
+				you may be using various services so that you will not have to log in
+				again when you return to our Site. In an email message, a GIF allows
+				us, for example, to determine if your email reader is HTML capable or
+				how fast your connection to the Internet is. This allows us to deliver
+				content in a format most appropriate to your computer's capabilities.</p>
+				<p><strong>Links</strong></p>
+				<p>When we include links to services or products on other web pages we
+				may embed a code that allows us to know whether you clicked on that
+				link. We do this so that we can personalize your experience, such as
+				recognizing you when you reach the web page you clicked to, or by
+				displaying information and content we believe will be relevant to you.
+				We also do this to measure the effectiveness and usefulness of our
+				advertisements and the messages we send, and we use this information
+				to continually improve the way we communicate.</p>
+				</blockquote>
+			</blockquote>
+			</td>
+		</tr>
+		<tr>
+			<td width="100%" valign="top">
+					<table border="0" width="100%" id="Table7">
+						<tbody><tr>
+						<td width="71%" valign="top">
+							<blockquote>
+							<p><a href="#TopOfAdditional"><b>Back to Top of Additional
+							Information</b></a></p>
+							</blockquote>
+						</td>
+						<td width="29%" valign="top">
+							<p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
+							<p align="right"><b>&nbsp;</b></p>
+							<p align="right"><b>&nbsp;</b></p></td>
+						</tr>
+					</tbody></table>
+			</td>		
+		</tr>
+		</tbody></table>	
+			
 		</td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
-   </tr>
-   <!--End New Tit -->
-   <tr>
-		<td width="100%"><img border="0" src="/images/inc_images/nav_bar/img_bott.gif"></td>
-		<td width="2"><img border="0" src="/images/shared/img_trnsp.gif" width="2" height="1"></td>
-   </tr>
+	</tr>
 </tbody></table>
-
-
-
-
-
-
-
-
-
-      </td>
-      <td width="100%" valign="top" align="center">
-      <table border="0" align="center" width="95%" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
-	<!--*************** PUT YOUR TEXT HERE ********************-->
-
-<table border="0" width="95%" class="spara">
-  <tbody><tr>
-    <td width="100%" align="Center" valign="top"><strong>&nbsp;</strong>
-    
-      <table border="0" width="70%">
-        <tbody><tr>
-          <td width="50%" class="sheader2"><strong><a name="Top"></a><u>Privacy &amp; Security
-            Policy</u></strong><br><br></td>
-        </tr>
-        <tr>
-          <td width="96%">
-            <ol>
-              <li><strong><a href="#pledge"> Our basic pledge</a></strong></li>
-              <li><strong><a href="#Disclosure"> Necessary Disclosure</a></strong></li>
-              <li><a href="#Information"><strong> Sharing of Information</strong></a></li>
-              <li><a href="#contests"><strong> Contests</strong></a></li>
-              <li><strong><a href="#surveys"> Surveys</a></strong></li>
-            </ol>
-          </td>
-        </tr>
-        <tr>
-          <td width="50%"><strong><a href="#TopOfAdditional">Additional
-            Information:</a></strong></td>
-        </tr>
-        <tr><td width="96%">
-            <ol>
-              <li><a href="#Application"><strong>Application &amp; Account
-                Information</strong></a></li>
-              <li><a href="#Email"><strong>E-mail Communications and Opting-out</strong></a></li>
-              <li><a href="#Alliances"><strong>MENAFN Alliances and Promotions</strong></a></li>
-              <li><a href="#Browsers"><strong>Browsers and Encryption</strong></a></li>
-              <li><a href="#Security"><strong>Security Issues</strong></a></li>
-              <li><strong><a href="#Cookies">Cookies, GIFs and other Web Tools</a></strong></li>
-            </ol>
-         </td></tr>
-      </tbody></table>
-      
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="190" valign="top">Whether you are a brokerage
-      customer, a visitor to our Site or a participant in one of our retail
-      promotions, we understand the importance you place on the privacy and
-      security of personal information that identifies you or your account
-      information you disclose to us.
-      <p>During your use of our Site and/or upon opening an account with us, we
-      will collect various information about you, your browsing behaviors, what
-      services you use and what links you click on ("Personal
-      Information"). We use this information to provide you with new and
-      better products and services.</p>
-      <p>The following is our policy regarding privacy of information gathered
-      on this Site and various other links.</p></td>
-  </tr>
-  <tr>
-    <td width="100%" height="380" valign="top">&nbsp;
-      <p>&nbsp;</p>
-      <p><a name="pledge"><br></a>
-      </p><ol>
-        <li><strong>Our basic pledge. </strong>We pledge and undertake to you
-          that:</li>
-      </ol>
-      <blockquote>
-        <ol>
-          <li type="a">Our collection of Personal Information is limited to what
-            is necessary to administer our business and ensure provision of a
-            satisfactory service. This would include advice regarding various
-            products, services and opportunities that might be of interest to
-            you;</li>
-          <li type="a">We do not, and will not, sell Personal Information to
-            anyone;</li>
-          <li type="a">Personal information will be shared with others only as
-            provided for herein;</li>
-          <li type="a">Whilst collecting any Personal Information from you, we
-            will refer to this pledge and explain to you how we intend to use
-            the information that you provide to us. We will only use the
-            information for the purposes that we have identified, for the
-            purpose of providing you with additional information about relevant
-            products and services or to evaluate your financial needs;</li>
-          <li type="a">We will continuously reevaluate our privacy and security
-            policies and we will inform by email all registered users who have
-            provided us with their email addresses of such changes; and</li>
-          <li type="a">We will allow you to review and update any Personal
-            Information that we hold about you</li>
-        </ol>
-      </blockquote>
-      <p>&nbsp;</p></td>
-  </tr>
-  <tr>
-    <td width="100%" height="171" valign="top"><a name="Disclosure"><br></a>
-      <ol start="2">
-        <li><strong>Necessary Disclosure.</strong> In situations where we do
-          believe in good faith that disclosure is necessary by reason of:</li>
-      </ol>
-      <blockquote>
-        <ol type="a">
-          <li>Pursuant to the law or valid requests from law enforcement
-            authorities;</li>
-          <li>To perform necessary credit checks;</li>
-          <li>To collect debts owed to us;</li>
-          <li>To protect our rights or property, or</li>
-          <li>Upon reasonable request by a mutual fund in which you have chosen
-            to invest, we reserve the right to disclose such required
-            information.</li>
-        </ol>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="285" valign="top"><a name="Information"><br></a>
-      <ol start="3">
-        <li><strong>Sharing of Information.</strong>&nbsp;&nbsp; In order to
-          provide you with better products and services that cater to your
-          needs, we may choose to shares Personal Information with our agents,
-          subcontractors or affiliates. Companies or third parties hired to
-          provide support services or to act as our agent are required to
-          conform to our privacy standards. All employees with access to
-          Personal Information are subject to a confidentiality agreement with
-          MENAFN and strict regulations to ensure that the use of such Personal
-          Information is for business purposes only. On occasion we may assist a
-          company that is not affiliated with MENAFN in providing or offering a
-          product or service to you. For example, if you are a mutual fund
-          customer, we may share personal information with the mutual fund
-          company or its agents or affiliates. In such circumstances, marketing
-          materials will include instructions on how you can request not to
-          receive those communications in the future. In all cases your personal
-          information is protected by strict confidentiality undertakings or
-          agreements. We do not allow any non-affiliated company to retain your
-          Personal Information longer than necessary to provide the product,
-          service, or information, unless you affirmatively grant us permission
-          to do so.</li>
-      </ol>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="76" valign="top"><a name="contests"><br></a>
-      <ol start="4">
-        <li><strong>Contests.</strong> We sometimes offer contests in which
-          certain personal information is required for registration. If the
-          contest is being administered by a third party, this information will
-          be disclosed to that third party. However, entrants are instructed to
-          choose contest names different from their login names and information
-          is not linked in any way to their login names.</li>
-      </ol>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="76" valign="top"><a name="surveys"><br></a>
-      <ol start="5">
-        <li><strong>Surveys.<span style="mso-spacerun:
-yes">&nbsp;</span></strong><span style="mso-spacerun:
-yes"> </span>We may ask registered users to participate in surveys intended at
-          obtaining general information about the users of our Site.<span style="mso-spacerun: yes">&nbsp;
-          </span>Participation in such surveys is completely voluntary.<span style="mso-spacerun: yes">&nbsp;
-          </span>In addition, some columnists will on occasion take polls of
-          their readers.<span style="mso-spacerun: yes">&nbsp; </span>Such polls
-          are solely for editorial use of the columnists and participation is
-          also voluntary.</li>
-      </ol>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
-      <p align="right"><b>&nbsp;</b></p>
-      <p align="right"><b>&nbsp;</b></p>
-      <p align="right"><b>&nbsp;</b></p>
-      <p align="right"><b>&nbsp;</b></p></td>
-  </tr>
-  <tr>
-    <td width="100%" height="190" valign="top"><strong><br><a name="TopOfAdditional"></a>Additional
-      Information:</strong>
-      <ol>
-        <li><strong><a href="#Application">Application &amp; Account Information</a></strong></li>
-        <li><strong><a href="#Email">E-mail Communications and Opting-out</a></strong></li>
-        <li><strong><a href="#Alliances">MENAFN Alliances and Promotions</a></strong></li>
-        <li><strong><a href="#Browsers">Browsers and Encryption</a></strong></li>
-        <li><strong><a href="#Security">Security Issues</a></strong></li>
-        <li><strong><a href="#Cookies">Cookies, GIFs and other Web Tools</a></strong></li>
-      </ol>
-      <p>&nbsp;</p></td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <blockquote>
-        <p><strong><a name="Application"></a>1.&nbsp;&nbsp;&nbsp; Application
-        &amp; Account Information</strong></p>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="171" valign="top">
-      <blockquote>
-        <blockquote>
-          <p>Customers applying online for an account have the choice to opt out
-          of the application process before completion. Nevertheless,
-          information gathered during this process may be used to send you
-          information regarding MENAFN and the services and products provided
-          throughout. You will be notified of this during the application
-          process.</p>
-        </blockquote>
-        <blockquote>
-          <p>If you have any concerns about the personal or account information
-          held by us about you, please feel free to communicate your concerns to
-          us. In addition, if you have any comments or would like to modify,
-          edit, correct any such information, please email us with this respect
-          and we will see to it immediately.</p>
-        </blockquote>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <table border="0" width="100%">
-        <tbody><tr>
-          <td valign="top">
-            <blockquote>
-              <p><a href="#TopOfAdditional"><b>Back to Top of Additional
-              Information</b></a></p>
-            </blockquote>
-          </td>
-          <td valign="top">
-            <p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
-            <p align="right"><b>&nbsp;</b></p>
-            <p align="right"><b>&nbsp;</b></p></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <blockquote>
-        <p><strong><a name="Email"></a>2.&nbsp;&nbsp; E-mail Communications and
-        Opting out</strong></p>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="228" valign="top">
-      <blockquote>
-        <blockquote>
-          <p>Communication between MENAFN and its customers through emails is
-          important. Emails sent to us from our secured Sites are encrypted with
-          SSL technology. However, any email sent to us from outside the secured
-          Sites is not protected, so please do not include any account details
-          or personal information in such emails.</p>
-        </blockquote>
-        <blockquote>
-          <p>In your account agreement we reserve the right to send you emails
-          containing important information relating to your account. Sometimes
-          we might ask for your permission to send other information to you by
-          email.</p>
-          <p>We may use your email address to send you news and information
-          about services and products that we believe may be of interest to you.
-          This will be done via unencrypted emails. You can opt out from
-          receiving such emails by logging onto the Site and contacting us
-          respectively.</p>
-        </blockquote>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <table border="0" width="100%">
-        <tbody><tr>
-          <td width="60%" valign="top">
-            <blockquote>
-              <p><a href="#TopOfAdditional"><b>Back to Top of Additional
-              Information</b></a></p>
-            </blockquote>
-          </td>
-          <td width="40%" valign="top">
-            <p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
-            <p align="right"><b>&nbsp;</b></p>
-            <p align="right"><b>&nbsp;</b></p></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <blockquote>
-        <p><strong><a name="Alliances"></a>3.&nbsp;&nbsp;&nbsp; MENAFN Alliances
-        and Promotions</strong></p>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="18" valign="top">
-      <blockquote>
-        <blockquote>
-          <p>When MENAFN joins with another company to offer or provide products
-          and services, both parties may cross-reference their databases to
-          search for customers in common. This existing information may be used
-          to help identify business alliance opportunities and to enhance the
-          information already contained in the existing databases.</p>
-        </blockquote>
-        <blockquote>
-          <p>MENAFN on its own, or jointly with other organizations and web
-          sites, may offer contests, sweepstakes, and promotions. You may be
-          asked to supply additional personal information to participate in
-          these promotional events, which may then be used by the sponsoring
-          parties for marketing purposes. Even if you have previously opted not
-          to receive information or mailings about MENAFN, you may still receive
-          information about MENAFN via these promotions if you choose to
-          register for them. Rules and guidelines for each promotion will be
-          clearly posted, as will notification about how the information
-          gathered may be used. You may opt not to participate in these special
-          promotions if you do not want to receive information about MENAFN or
-          share your information with all sponsoring parties.</p>
-        </blockquote>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <table border="0" width="100%">
-        <tbody><tr>
-          <td width="72%" valign="top">
-            <blockquote>
-              <p><a href="#TopOfAdditional"><b>Back to Top of Additional
-              Information</b></a></p>
-            </blockquote>
-          </td>
-          <td width="28%" valign="top">
-            <p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
-            <p align="right"><b>&nbsp;</b></p>
-            <p align="right"><b>&nbsp;</b></p></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <blockquote>
-        <p><strong><a name="Browsers"></a>4.&nbsp;&nbsp;&nbsp; Browsers and
-        Encryption</strong></p>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <blockquote>
-        <blockquote>
-          <p>Personal Information entered on our Sites is encrypted using Secure
-          Socket Layer (SSL) technology to protect it as it crosses the
-          Internet. Strong encryption applications are recommended to support an
-          SSL-capable browser. The use of a 128-bit browser like Netscape 4.06
-          or higher or Microsoft's Internet Explorer 4.01 or higher
-          automatically activates SSL when you sign onto your MENAFN account. To
-          ensure that you are visiting a secure area within a web site there is
-          a symbol on the bottom of the browser window. A lock or key will
-          appear if you are using either Netscape Navigator or Internet Explorer
-          and when the symbol appears unbroken or the padlock is in the locked
-          position then the transfer of information is done via a secure server.</p>
-        </blockquote>
-        <blockquote>
-          <p>Should you need a strong encryption browser, the most updated
-          version of either Netscape or the Microsoft can be downloaded from the
-          Internet. We do not recommend the use of beta browser versions.</p>
-        </blockquote>
-      </blockquote>
-      <blockquote>
-        <blockquote>
-          <p>Please do not attempt under any circumstance to use software,
-          programs, applications, or any other devices to access or log-in to
-          the MENAFN web site, or to automate the process of obtaining,
-          downloading, transferring, or transmitting any content to or from
-          MENAFN's computer systems, web site, or proprietary software.</p>
-        </blockquote>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <table border="0" width="100%">
-        <tbody><tr>
-          <td width="69%" valign="top">
-            <blockquote>
-              <p><a href="#TopOfAdditional"><b>Back to Top of Additional
-              Information</b></a></p>
-            </blockquote>
-          </td>
-          <td width="31%" valign="top">
-            <p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
-            <p align="right"><b>&nbsp;</b></p>
-            <p align="right"><b>&nbsp;</b></p></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <blockquote>
-        <p><strong><a name="Security"></a>5.&nbsp;&nbsp;&nbsp; Security Issues</strong></p>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <blockquote>
-        <blockquote>
-          <p>You may only access your account through the use of a password
-          which you should keep private, never share it with anyone and continue
-          to change it periodically through our Site. Your passwords must:</p>
-        </blockquote>
-      </blockquote>
-      <blockquote>
-        <blockquote>
-          <ul>
-            <li>Be at least 6-8 characters long</li>
-            <li>Contain no symbols (!, %, #, etc.)</li>
-          </ul>
-        </blockquote>
-      </blockquote>
-      <blockquote>
-        <blockquote>
-          <p>In the event that you should forget your password, please contact
-          one of MENAFN's representatives on support@menafn.com</p>
-          <p>For added security, it is recommended that you always log off after
-          you have finished using your MENAFN account. This ensures that no one
-          else accesses your account if you leave your computer unattended and
-          your session has not "timed out" or automatically shut down.</p>
-        </blockquote>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <table border="0" width="100%">
-        <tbody><tr>
-          <td width="71%" valign="top">
-            <blockquote>
-              <p><a href="#TopOfAdditional"><b>Back to Top of Additional
-              Information</b></a></p>
-            </blockquote>
-          </td>
-          <td width="29%" valign="top">
-            <p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
-            <p align="right"><b>&nbsp;</b></p>
-            <p align="right"><b>&nbsp;</b></p></td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <blockquote>
-        <p><strong><a name="Cookies"></a>6.&nbsp;&nbsp;&nbsp; Cookies, GIFs and
-        Other Web Tools</strong></p>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <blockquote>
-        <blockquote>
-          <p>Through the use of cookies, GIFs and other web tools, we try to
-          make interaction with our Site as easy and meaningful as possible.
-          They allow us for example to collect information about where your
-          browser goes and whether you use certain features of our Site. We may
-          use the information collected by such tools to improve navigation,
-          revise our services to suit your needs and target emails and messages
-          to you based on your preferences and previous activities. Knowing
-          where your browser has been on our Site helps us present useful
-          information and offers to you.</p>
-          <p>Standing alone, cookies, GIFs and other web tools, as well as data
-          derived from them, do not identify you personally. They merely
-          recognize your browser. Unless you choose to identify yourself either
-          by responding to a promotional offer, opening an account, or
-          registering for an online service you remain an anonymous user.</p>
-        </blockquote>
-      </blockquote>
-      <blockquote>
-        <blockquote>
-          <p><strong>Cookies</strong></p>
-          <p>When accessing our Site, the web server will automatically send
-          your computer a cookie.</p>
-          <p>A cookie is simply an electronically transmitted file that holds
-          small pieces of information. When you navigate through our web site,
-          your browser "requests" pages for you to view, and those
-          requests will include the information stored in the cookie we
-          previously sent to your computer. This process is like an electronic
-          "handshake" between MENAFN's system and your computer; the
-          information exchanged allows us to recognize your browser. For
-          example, if you go to one of the links provided for and ask you to
-          read the terms and conditions related thereto, once you click and
-          confirm that you've read them that fact is reflected in a cookie, so
-          if you visit us again with the same browser we won't ask you to read
-          it again.</p>
-        </blockquote>
-        <blockquote>
-          <p>There are mainly two types of cookies. "Persistent
-          cookies" which continue to be embedded on your browser after you
-          have closed it. They contain information which identifies whether you
-          have been to our Site before or whether you are a MENAFN customer.
-          "Session Cookies" are cookies that disappear once you close
-          your browser. They contain encrypted or encoded information about your
-          identifying information and account details in order to allow us to
-          process your information more efficiently.</p>
-          <p><strong>GIFs</strong></p>
-        </blockquote>
-        <blockquote>
-          <p>"Graphics Interchange Format" files, commonly known as 'GIFs'
-          are used to recognize users and collect and transmit information
-          online. On the Web, GIFs allow us to keep your session active while
-          you may be using various services so that you will not have to log in
-          again when you return to our Site. In an email message, a GIF allows
-          us, for example, to determine if your email reader is HTML capable or
-          how fast your connection to the Internet is. This allows us to deliver
-          content in a format most appropriate to your computer's capabilities.</p>
-          <p><strong>Links</strong></p>
-          <p>When we include links to services or products on other web pages we
-          may embed a code that allows us to know whether you clicked on that
-          link. We do this so that we can personalize your experience, such as
-          recognizing you when you reach the web page you clicked to, or by
-          displaying information and content we believe will be relevant to you.
-          We also do this to measure the effectiveness and usefulness of our
-          advertisements and the messages we send, and we use this information
-          to continually improve the way we communicate.</p>
-        </blockquote>
-      </blockquote>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" height="19" valign="top">
-      <table border="0" width="100%">
-        <tbody><tr>
-          <td width="71%" valign="top">
-            <blockquote>
-              <p><a href="#TopOfAdditional"><b>Back to Top of Additional
-              Information</b></a></p>
-            </blockquote>
-          </td>
-          <td width="29%" valign="top">
-            <p align="right"><a href="#Top"><b>Top of Policy</b></a></p>
-            <p align="right"><b>&nbsp;</b></p>
-            <p align="right"><b>&nbsp;</b></p></td>
-        </tr>
-      </tbody></table>
-      
-	<!--*************** PUT YOUR TEXT HERE ********************-->
-</td></tr>
-<tr>
-    <td><img border="0" src="/images/shared/img_trnsp.gif" height="10"></td>
-</tr>
-
-<tr>
-<td align="center">
-  <table border="0" cellpadding="0" cellspacing="0" width="600">
-    <tbody><tr>
-          <td><img border="0" src="/images/shared/line_left.gif" width="15" height="15"></td>
-          <td width="100%" background="/images/shared/line_bg.gif"><img border="0" src="/images/shared/line_bg.gif" width="15" height="15"></td>
-          <td><a href="/mgmt/in_users.asp"><img border="0" src="/images/shared/line_right.gif" width="15" height="15"></a></td>
-    </tr>
-  </tbody></table>
-</td>
-</tr> 
-
-<tr>
-    <td width="100%" height="10"></td>
-</tr>
-
-<tr>
-    <td align="center">Copyright ©2000 <a href="http://www.menafn.com" target="_top"><img src="/images/shared/menafn.gif" align="absmiddle" border="0"></a> All Rights Reserved.</td>
-</tr>
-
-<tr>
-    <td align="center">__________________________________________________<br>
-	<a href="/mf_terms.asp">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="/mf_privacy.asp">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="/mf_contact.asp">Contact Us</a>&nbsp;|&nbsp;&nbsp;
-	<a href="/mf_advertise.asp">Advertise&nbsp;</a><br>
-	<a href="/mf_about.asp">About MENAFN</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="/mf_jobs.asp">Career Opportunities</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="/mf_feedback.asp">Feedback</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-	<a href="#">Help</a><br><br></td>
-</tr>
-
+<!-- Footer -->
+<table width="100%" border="0" style="clear: both;" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+		<td><img src="/images/inc_images/img_trnsp.gif" width="1" height="10">
+		</td>
+	</tr>
+	<tr>
+		<td background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+	</tr>
+	<tr>
+		<td class="bgLightGray" align="left">
+			<table width="770" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td><img src="/images/inc_images/img_trnsp.gif" width="1" height="5"></td>
+				</tr>
+				<tr>
+					<td align="center">
+						<a href="/mf_terms.asp">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/mf_privacy.asp">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/mf_contact.asp">Contact Us</a>&nbsp;|&nbsp;&nbsp;
+						<a href="/mf_advertise.asp">Advertise&nbsp;</a>&nbsp;|&nbsp;&nbsp;
+						<a href="/mf_about.asp">About MENAFN</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/mf_jobs.asp">Career Opportunities</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+						<a href="/mf_feedback.asp">Feedback</a>
+					</td>
+				</tr>
+				<tr>
+					<td><img src="/images/inc_images/img_trnsp.gif" width="1" height="2"></td>
+				</tr>
+				<tr>
+					<td align="center">
+						Copyright ©2000 <a href="http://www.menafn.com" target="_top"><img src="/images/inc_images/img_menafn_small.gif" align="absmiddle" border="0"></a> All Rights Reserved.
+						<a href="/mgmt/in_users.asp"><img src="/images/inc_images/btn_mgmt.gif" border="0"></a>
+					</td>
+				</tr>
+				<tr>
+					<td><img src="/images/inc_images/img_trnsp.gif" width="1" height="5"></td>
+				</tr>
+			</tbody></table>		
+		</td>
+	</tr>
+	<tr>
+		<td background="/images/inc_images/bg_line_h.gif"><img src="/images/inc_images/bg_line_h.gif" width="3" height="1"></td>
+	</tr>
 </tbody></table>
-	</td>
-   </tr>
-   </tbody></table>
-<script language="javascript">
-	tmenu();
-</script> id="main"  onmouseOut='hideLayer()'&gt; <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="top" valign="top"></td><td> id="Homeid" onmouseOver='showLayer("Homeid","")' &gt;<a href="http://www.menafn.com/" target="_top" class="gray" onmouseover="showLayer(&quot;Homeid&quot;,&quot;&quot;)"><img border="0" src="/images/inc_images/top/img_home.gif" width="109" height="15"></a></td> <td class="top" valign="top"></td><td> id="Qutesid" onmouseOver='showLayer("Qutesid","")' &gt;<a href="/qn_quotes.asp" target="_self" class="gray" onmouseover="showLayer(&quot;Qutesid&quot;,&quot;&quot;)"><img border="0" src="/images/inc_images/top/img_quo.gif" width="115" height="15"></a></td> <td class="top" valign="top"></td><td> id="Marketid" onmouseOver='showLayer("Marketid","")' &gt;<a href="/qn_market.asp" target="_self" class="gray" onmouseover="showLayer(&quot;Marketid&quot;,&quot;&quot;)"><img border="0" src="/images/inc_images/top/img_inv.gif" width="104" height="15"></a></td> <td class="top" valign="top"></td><td> id="Financialid" onmouseOver='showLayer("Financialid","")' &gt;<a href="/menafnmobile.asp" target="_self" class="gray" onmouseover="showLayer(&quot;Financialid&quot;,&quot;&quot;)"><img border="0" src="/images/inc_images/top/img_mob.gif" width="128" height="15"></a></td> <td class="top" valign="top"></td><td> id="Community" onmouseOver='showLayer("Community","")' &gt;<a href="#top" target="_self" class="gray" onmouseover="showLayer(&quot;Community&quot;,&quot;&quot;)"><img border="0" src="/images/inc_images/top/img_comm.gif" width="92" height="15"></a></td> <td class="top" valign="top"></td><td> id="Toolsid" onmouseOver='showLayer("Toolsid","")' &gt;<a href="#top" target="_self" class="gray" onmouseover="showLayer(&quot;Toolsid&quot;,&quot;&quot;)"><img border="0" src="/images/inc_images/top/img_tool.gif" width="62" height="15"></a></td> <td class="top" valign="top"></td><td> id="Shopid" onmouseOver='showLayer("Shopid","")' &gt;<a href="/research" target="_self" class="gray" onmouseover="showLayer(&quot;Shopid&quot;,&quot;&quot;)"><img border="0" src="/images/inc_images/top/img_shop.gif" width="59" height="15"></a></td> <td class="top" valign="top"></td><td> id="Cartid" onmouseOver='showLayer("Cartid","")' &gt;<a href="/research/research_login.asp?type=payment" target="_self" class="gray" onmouseover="showLayer(&quot;Cartid&quot;,&quot;&quot;)"><img border="0" src="/images/inc_images/top/img_cart.gif" width="78" height="15"></a></td> <!-- main --></tr></tbody></table> id="subQutesid" onmouseOut='hideLayer()'  onmouseOver='showLayer("Qutesid","")'&gt;<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><table width="130" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/qn_quotes.asp" onmouseover="showLayer(&quot;Qutesid&quot;,&quot;&quot;)"><b>&nbsp;Quotes &amp; News</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/qn_news.asp" onmouseover="showLayer(&quot;Qutesid&quot;,&quot;&quot;)"><b>&nbsp;News</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/qn_quotes_charts.asp" onmouseover="showLayer(&quot;Qutesid&quot;,&quot;&quot;)"><b>&nbsp;Charts &amp; Quotes</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/rc_research.asp" onmouseover="showLayer(&quot;Qutesid&quot;,&quot;&quot;)"><b>&nbsp;Research Center</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><!--NEXTQutesid --><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="7"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr></tbody></table></td></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" width="" 100%"=""><tbody><tr><td><img src="/images/inc_images/top/img_bottom.gif" width="20" height="7"></td><td bgcolor="#192461" width="110"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr></tbody></table></td></tr></tbody></table> id="subMarketid" onmouseOut='hideLayer()'  onmouseOver='showLayer("Marketid","")'&gt;<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><table width="140" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/qn_market.asp" onmouseover="showLayer(&quot;Marketid&quot;,&quot;&quot;)"><b>&nbsp;Capital Markets</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/qn_currencies.asp" onmouseover="showLayer(&quot;Marketid&quot;,&quot;&quot;)"><b>&nbsp;FX &amp; Money Markets</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/qn_commodities_r.asp" onmouseover="showLayer(&quot;Marketid&quot;,&quot;&quot;)"><b>&nbsp;Commodities</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/qn_energy_r.asp" onmouseover="showLayer(&quot;Marketid&quot;,&quot;&quot;)"><b>&nbsp;Oil/Energy</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><!--NEXTMarketid --><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="7"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr></tbody></table></td></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" width="" 100%"=""><tbody><tr><td><img src="/images/inc_images/top/img_bottom.gif" width="20" height="7"></td><td bgcolor="#192461" width="120"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr></tbody></table></td></tr></tbody></table> id="subFinancialid" onmouseOut='hideLayer()'  onmouseOver='showLayer("Financialid","")'&gt;<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><table width="125" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/fastlink.asp" onmouseover="showLayer(&quot;Financialid&quot;,&quot;&quot;)"><b>&nbsp;Jordan</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/LibanCell.asp" onmouseover="showLayer(&quot;Financialid&quot;,&quot;&quot;)"><b>&nbsp;Lebanon</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><!--NEXTFinancialid --><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="7"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr></tbody></table></td></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" width="" 100%"=""><tbody><tr><td><img src="/images/inc_images/top/img_bottom.gif" width="20" height="7"></td><td bgcolor="#192461" width="105"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr></tbody></table></td></tr></tbody></table> id="subCommunity" onmouseOut='hideLayer()'  onmouseOver='showLayer("Community","")'&gt;<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><table width="152" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/snap/ic/ic_login.asp?client=MENAFN" onmouseover="showLayer(&quot;Community&quot;,&quot;&quot;)"><b>&nbsp;Investment Game</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/fi_financial.asp" onmouseover="showLayer(&quot;Community&quot;,&quot;&quot;)"><b>&nbsp;Credit Card Marketplace</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/vo_center.asp" onmouseover="showLayer(&quot;Community&quot;,&quot;&quot;)"><b>&nbsp;Voting</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><!--NEXTCommunity --><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="7"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr></tbody></table></td></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" width="" 100%"=""><tbody><tr><td><img src="/images/inc_images/top/img_bottom.gif" width="20" height="7"></td><td bgcolor="#192461" width="132"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr></tbody></table></td></tr></tbody></table> id="subToolsid" onmouseOut='hideLayer()'  onmouseOver='showLayer("Toolsid","")'&gt;<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><table width="125" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/travel.asp" onmouseover="showLayer(&quot;Toolsid&quot;,&quot;&quot;)"><b>&nbsp;MENAFN Travel</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/my_portf_valua.asp" onmouseover="showLayer(&quot;Toolsid&quot;,&quot;&quot;)"><b>&nbsp;Portfolio Tracker</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/tl_calculators.asp" onmouseover="showLayer(&quot;Toolsid&quot;,&quot;&quot;)"><b>&nbsp;Calculators</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/Glossary/bfglosa.asp" onmouseover="showLayer(&quot;Toolsid&quot;,&quot;&quot;)"><b>&nbsp;Financial Glossary</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><!--NEXTToolsid --><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="7"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr></tbody></table></td></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" width="" 100%"=""><tbody><tr><td><img src="/images/inc_images/top/img_bottom.gif" width="20" height="7"></td><td bgcolor="#192461" width="105"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr></tbody></table></td></tr></tbody></table> id="subShopid" onmouseOut='hideLayer()'  onmouseOver='showLayer("Shopid","")'&gt;<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><table width="125" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/research" onmouseover="showLayer(&quot;Shopid&quot;,&quot;&quot;)"><b>&nbsp;MENAFN Research</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td width="100%" bgcolor="#D2E7C3">&nbsp;<a class="top" href="/sh_bookcategory.asp" onmouseover="showLayer(&quot;Shopid&quot;,&quot;&quot;)"><b>&nbsp;Bookstore</b></a></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="16"></td></tr><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td><td align="center" bgcolor="#D2E7C3"><table border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td width="100%" bgcolor="#192461"><img border="0" src="/images/shared/img_trnsp.gif" width="1" height="2"></td> </tr></tbody></table></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr><!--NEXTShopid --><tr><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td><td bgcolor="#D2E7C3"><img src="/images/shared/img_trnsp.gif" width="1" height="7"></td><td bgcolor="#192461"><img src="/images/shared/img_trnsp.gif" width="2" height="1"></td></tr></tbody></table></td></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" width="" 100%"=""><tbody><tr><td><img src="/images/inc_images/top/img_bottom.gif" width="20" height="7"></td><td bgcolor="#192461" width="105"><img src="/images/shared/img_trnsp.gif" width="1" height="1"></td></tr></tbody></table></td></tr></tbody></table><!-- SUB_MENU -->
-<!--************** END OF MAIN TABLE *******************-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</td></tr></tbody></table></body></html>
+</body></html>
