@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the rogers.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184440id_/http%3A//www.rogers.com/english/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogers.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209175718id_/http%3A//www.rogers.com/english/privacy.html) for the most accurate reproduction.*
 
-# Rogers.com | English | About Rogers | Privacy
+# Rogers.com | Privacy Policy
 
 Rogers Communications Inc. develops and operates the rogers.com Web site. 
 
 Frequently Asked Questions   
+  
+---  
   
   * What is personal information?
   * Does Rogers Communications Inc. ask for personal information?
