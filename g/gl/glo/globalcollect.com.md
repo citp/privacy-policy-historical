@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcollect.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205030912id_/http%3A//www.globalcollect.com/Index%3Fpublicationid%3D1167) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcollect.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307080057id_/http%3A//globalcollect.com/Index%3Fpublicationid%3D1167) for the most accurate reproduction.*
 
 # GlobalCollect Privacy
 
@@ -15,3 +15,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 **_Disclaimer  
 _ GlobalCollect** Payments® does not guarantee that the goods or services ordered will be delivered in accordance with the specifications or agreements. **GlobalCollect** guarantees only that the payment via **GlobalCollect** Payments® will be handled in a correct and reliable manner. **GlobalCollect** is not liable for all personal data stored in any data-base at our merchant-partners or any third parties which **GlobalCollect** uses to process the payments.
+
+  
+[](https://web.archive.org/Index?chapterid=1849&publicationid=1701139424)
