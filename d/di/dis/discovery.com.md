@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovery.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202173844id_/http%3A//www.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovery.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606140032id_/http%3A//www.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
 
 # Discovery.com :: Privacy Policy
 
