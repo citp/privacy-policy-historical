@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202203541id_/http%3A//www.american.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the american.edu privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612231140id_/http%3A//www.american.edu/privacy.html) for the most accurate reproduction.*
 
 # American University Privacy Policy
 
@@ -9,7 +9,7 @@ American University is fully committed to providing an informative, useful, and 
 The policy of American University's officially controlled and operated WWW sites is to respect and protect the privacy of its students, faculty, staff, and all other users. American University does not sell or distribute any information obtained from our visitors to a third party, under any circumstance. 
 
 This policy defines how American University collects information from you and how it is used. For each visitor to American University's website, the following information is collected:   
- 
+
 
 >   *   **internet addressing information of visitors to our Web pages (IP Addresses)**
 >   * **  the e-mail addresses of those who communicate with us via e-mail**
@@ -33,8 +33,9 @@ While American University strives to protect its users' personal information and
 
 American University reserves the right at its discretion to make changes to this policy at any time. Feel free to check this page periodically for amendments/updates. 
 
-If you do not want to be contacted by us in the future, please let us know.   
-  **Our postal address is:  **
+If you do not want to be contacted by us in the future, please let us know.   |    
+---|---  
+**Our postal address is:  **
 
      American University  
 4400 Massachusetts Avenue, NW  
@@ -44,5 +45,4 @@ If you do not want to be contacted by us in the future, please let us know.
 
 Washington, D.C.  20016 | **We can be reached via e-mail at:  **
 
-   [einfo@american.edu](mailto:einfo@american.edu)  
----|---
+   [einfo@american.edu](mailto:einfo@american.edu)
