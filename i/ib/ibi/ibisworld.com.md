@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibisworld.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630112916id_/http%3A//www.ibisworld.com/static/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibisworld.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203081123id_/http%3A//www.ibisworld.com/static/privacy.asp) for the most accurate reproduction.*
 
 # Market Research Reports by IBISWorld - Industry/Company/Business Economics in Australia
 
@@ -12,7 +12,7 @@ IBISWorld will only collect your name and contact details ("your personal inform
 § keeping you informed about training sessions on the interactive online service provided by IBISWorld and logging your support centre enquiries so we may provide a higher standard of service to you;  
 § keeping you informed via regular newsletters on special offers, product updates and other information we feel is relevant to you, which may include invitations to functions, all of which will be used to help us develop and improve the products and services that it offers you.  
 IBISWorld will not disclose your personal information outside the organisation. If you do not provide IBISWorld with the information requested, IBISWorld will not be able to provide you with access to the website, nor communicate with you to keep you informed of product updates, training and other information it feels is relevant to you.   
-Except in limited circumstances, IBISWorld will provide you with access to the personal information it holds about you on request. If you wish to contact IBISWorld about its privacy policy, or if you no longer wish to receive direct marketing material, please telephone +61 2 9290 1266 or e-mail at inquiries@ibisworld.com.
+Except in limited circumstances, IBISWorld will provide you with access to the personal information it holds about you on request. If you wish to contact IBISWorld about its privacy policy, or if you no longer wish to receive direct marketing material, please tell us via our [online inquiry](https://web.archive.org/enquiry.asp) page.
 
 2\. Consent  
 If you choose not to register or provide personal information, you can still use most of the website. However, you will not be able to access areas that require registration.
@@ -22,7 +22,7 @@ If you decide to register, you will be able to select the information you want t
   
 3\. Our use of cookies   
 Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your browser to refuse cookies. In some instances this may mean you will not be able to take full advantage of parts of the website.   
-Cookies in and of themselves do not personally identify users, although they do identify a user's browser. The cookies simply operate as a unique identifier which help us to know what our customers find interesting and useful on our website, almost like a continuing questionnaire. We do not link this information back to other information that you have provided to us. 
+Cookies in and of themselves do not personally identify users, although they do identify a user's browser. The cookies simply operate as a unique identifier which help us to know what our customers find interesting and useful on our website, almost like a continuing questionnaire. 
 
 4\. Secure Online Purchases   
 The website uses Thawte SSL certificates on the IBISWorld web server, giving you the ability to communicate securely with the website server. SSL security makes eavesdropping almost impossible. No credit card details are stored on the IBISWorld database.
