@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ketv.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520004547id_/http%3A//www.ketv.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketv.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205013900id_/http%3A//www.ketv.com/privacy/index.html) for the most accurate reproduction.*
 
 # KETV 7 Online
 
