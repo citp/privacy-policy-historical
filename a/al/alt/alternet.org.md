@@ -1,8 +1,31 @@
-> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602164906id_/http%3A//alternet.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternet.org privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217233605id_/http%3A//www.alternet.org/privacy.html) for the most accurate reproduction.*
 
 # AlterNet
 
+|    
+**Content Files**  
   
+[9-11](https://web.archive.org/?IssueAreaID=25)  
+[DrugReporter](https://web.archive.org/?IssueAreaID=17)  
+[MediaCulture](https://web.archive.org/?IssueAreaID=19)  
+[Globalization](https://web.archive.org/?IssueAreaID=21)  
+[EnviroHealth](https://web.archive.org/?IssueAreaID=18)  
+[Human Rights USA](https://web.archive.org/?IssueAreaID=22)  
+  
+  
+  
+**Feedback**  
+  
+[Tell us](https://web.archive.org/feedback.html) what you think of this site.  
+  
+  
+  
+**Donate**  
+  
+In the wake of the 9-11 terrorist attacks, America needs independent media more than ever. Please help support AlterNet's continuing coverage of this and other critical issues with your [tax-deductible donation.](https://web.archive.org/donate.html) [Donate Now >>](https://web.archive.org/donate.html)   
+  
+  
+[](http://service.bfast.com/bfast/click?bfmid=10828116&siteid=32317986&bfpage=londistance1) |  |  |  |    
 
 
 **AlterNet.org Privacy Policy**
@@ -57,3 +80,8 @@ San Francisco, CA 94107
 [info@alternet.org](mailto:info@alternet.org)
 
 AlterNet.org reserves the right to amend this Privacy Statement at any time without notice, and only the current Privacy Statement may be deemed effective. 
+
+|  |  |  | 
+
+AlterNet's online community awaits you: Get engaged, share opinions, insight, frustration, rage.[Registered Users >>](https://web.archive.org/discuss/user.html)  
+[Guests >>](https://web.archive.org/discuss/guest.html)
