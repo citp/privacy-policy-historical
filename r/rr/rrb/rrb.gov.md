@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212000400id_/http%3A//rrb.gov/policy.html%23Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606150115id_/http%3A//rrb.gov/policy.html%23Privacy%2520Policy) for the most accurate reproduction.*
 
 # Privacy Policy & E-mail Notice
+
+********
+
+* * *
 
 ## Our Privacy Policy & E-mail Notice
 
@@ -12,9 +16,9 @@ You have the option of using e-mail to contact us. This is not secure e-mail! We
 
 In reply, we will send you only general information by e-mail. If we can identify you and have your telephone number or address in our records, we will furnish any personal information by telephone or letter. This helps to ensure we do not send your personal information to someone asking for it without your knowledge. 
 
-[Secure Message Option for Sensitive Information](https://web.archive.org/web/20001212000400id_/http%3A//rrb.gov/field.html#email)
+[Secure Message Option for Sensitive Information](https://web.archive.org/web/20010606150115id_/http%3A//rrb.gov/field.html#email)
 
-[Customer Service Standards for Correspondence](https://web.archive.org/web/20001212000400id_/http%3A//rrb.gov/customer.html#letter)
+[Customer Service Standards for Correspondence](https://web.archive.org/web/20010606150115id_/http%3A//rrb.gov/customer.html#letter)
 
 * * *
 
@@ -30,18 +34,18 @@ Our internet privacy policy embodies the following principles:
 
   * Personally identifying information that you voluntarily provide us will be used only for the purpose you intend it. For example, if you e-mail us a suggestion on how we can improve our website, we will use the information you provide only for that purpose. If you complete a form to ask us a specific question about your benefits and provide us with the needed identifying information and where we can reach you, we will use the information to obtain an answer and respond to you (by mail or phone.)  
 
+  * We **do not** **** use persistent cookies.  We **do** use session cookies to enable our customers to use certain web applications.  Session cookies are deleted when the user leaves the application.  
+
   * Certain non-personal information about your visit to our website is collected for statistical purposes. The RRB sometimes analyzes the information to measure customer interest in the various areas of our site.  
 
-  * We do not give, sell, or transfer any personal information to a third party.  
-
-  * We do not use "cookies." (A "cookie" is a file some websites place on the hard drive of your computer to monitor your use of the site.)
+  * We do not give, sell, or transfer any personal information to a third party.
 
 ************************
 
-****Before sending e-mail, you must review our[e-mail notice](https://web.archive.org/web/20001212000400id_/http%3A//rrb.gov/policy.html#email)!****  
+****Before sending e-mail, you must review our[e-mail notice](https://web.archive.org/web/20010606150115id_/http%3A//rrb.gov/policy.html#email)!****  
   
 ---  
   
   ** ** ****  
   
-Page last updated September 25, 2000   
+Page last updated May 16, 2001   
