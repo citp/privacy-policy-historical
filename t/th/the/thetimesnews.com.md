@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetimesnews.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413010716id_/http%3A//thetimesnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetimesnews.com privacy policy that was archived on 2001-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011219025228id_/http%3A//thetimesnews.com/privacy.html) for the most accurate reproduction.*
 
 # Freedom Interactive Media
 
