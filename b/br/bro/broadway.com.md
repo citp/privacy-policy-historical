@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815062229id_/http%3A//www.broadway.com/inc_private.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadway.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603195015id_/http%3A//www.broadway.com/footer/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Statement
+# Broadway.com On Stage! Online.
 
-****
+**
 
-**PRIVACY STATEMENT FOR BROADWAY.COM**
+PRIVACY STATEMENT FOR BROADWAY.COM
 
-Hollywood.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: Broadway.com. 
+**
+
+Hollywood Media Corp. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: Broadway.com. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is also used to gather broad demographic information, such as country of origin. 
 
@@ -20,9 +22,11 @@ Broadway.com products and services are directed at an adult market, and therefor
 
 Users that Broadway.com knows to be under the age of 13 are hereby required to provide the e-mail address of their parent or guardian to the [Administrator](mailto:jyuricek@boca.hollywood.com) so that Broadway.com may alert the parent or guardian of their child's use of this Website. The parent or guardian must consent to Broadway.com's collection of their child's personal information. A known child user will be restricted from providing personal information until such consent is received. No information collected from users known to be under age 13 will be used for any marketing or promotional purposes outside Broadway.com, Inc. If Broadway.com collects personally identifiable information from children, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (U.S.C. 6501 et seq.). 
 
-This site contains links to other sites. Broadway.com is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. Broadway.com is not responsible for the privacy practices or the content of such Web sites.
 
-We use advertising software to service the ads on our site. These ads may contain cookies. While we use cookies in other parts of our Website, cookies received with banner ads are collected by our ad servers generated through advertising software and we do access this information. We may serve third party advertising which may also contain cookies but we do not have access to this information. 
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please click [here](http://www.doubleclick.net/privacy_policy/). In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+
+This site uses the services of Engage and iBEAM for the serving and/or targeting of ads, promotions, and other marketing messages. To do this, Engage or iBEAM collects and stores anonymous data typically through the use of cookies. To learn more about Engage or iBEAM, including your ability to opt out of the Engage system, go to [ http://www.engage.com/privacy](http://www.engage.com/privacy) or to iBEAM at [ http://www.ibeam.com/privacy.html](http://www.ibeam.com/privacy.html). 
 
 **Public Forums**
 
@@ -40,7 +44,7 @@ This site gives users the following options for removing their information from 
 
 1.Users can send email to feedback@boca.broadway.com  
 2.Users can send mail to the following postal address:   
-838 Broadway, 4th Floor, New York, NY 10003 - or -  
+30 Irving Place - 5th Floor , New York, NY 10003 - or -  
 2255 Glades Rd., Suite 237W, Boca Raton, FL 33431-7383  
 3.Users can call the following telephone numbers: (212) 254-8897 or (561) 998-8000
 
@@ -49,7 +53,7 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided.  
 1.Users can email feedback@boca.broadway.com  
 2.Users can send mail to the following postal address:   
-838 Broadway, 4th Floor, New York, NY 10003 - or -  
+30 Irving Place - 5th Floor, New York, NY 10003 - or -  
 2255 Glades Rd., Suite 237W, Boca Raton, FL 33431-7383   
 3.Users can call the following telephone numbers: (212) 254-8897 or (561) 998-8000  
 This policy may change from time to time so please check back periodically. 
@@ -58,7 +62,7 @@ This policy may change from time to time so please check back periodically.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact:  
 Broadway.com, Inc.  
-838 Broadway, 4th Floor  
+30 Irving Place - 5th Floor  
 New York, NY 10003  
 or   
 Broadway.com c/o Hollywood.com, Inc.  
