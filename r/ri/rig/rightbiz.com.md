@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206083100id_/http%3A//www.rightbiz.com/ceo-letter.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightbiz.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602102449id_/http%3A//www.rightbiz.com/ceo-letter.html) for the most accurate reproduction.*
 
 # Letter from the CEO of RightBiz Enterprises
 
@@ -37,4 +37,4 @@ Best Regards,
 
 Stanley E. Kennedy   
 CEO, RightBiz Enterprises.   
-28 June 1999 
+28 June 1999
