@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the td.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630201459id_/http%3A//www.td.com/privacy/index.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the td.com privacy policy that was archived on 2004-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041116093018id_/http%3A//www.td.com/privacy/index.jsp) for the most accurate reproduction.*
 
 # TD Bank Financial Group - TD Privacy Code
 
@@ -293,6 +293,8 @@ TD Bank Financial Group uses session cookies as an additional security feature f
 We also use session cookies to track your visits within our site. We use that information to determine the type of information that you are looking for in our site and to improve our site. We use information about the site you visited immediately prior to our site to assess the viability of links to our site that we have created on third party sites.
 
 The information stored in "persistent cookies" is written onto your hard drive and remains there until the expiry date of the cookie. TD Bank Financial Group uses persistent cookies to store non-sensitive information that you are aware of and have agreed to. For example, if you choose the option on our login screen to remember your TD Canada Trust Access Card number or Connect ID for EasyWeb or WebBroker¤, the system will remember and automatically input your Access Card number or Connect ID each time you use the service from that PC.
+
+EasyWeb Internet banking also employs two additional "persistent" cookies, designed to deliver a more comfortable online banking experience to you. The first is placed onto your computer's hard drive to remember your language preference and ensure you are always presented with EasyWeb Internet banking in the appropriate language. The second is employed to ensure that any online targeted offer which you have already responded to is not presented again each time you login to EasyWeb Internet banking. 
 
 Currently, most browsers do not distinguish between session cookies and persistent cookies. For web services to operate, your browser must be set to accept cookies. If you are concerned about having your browser enabled to accept cookies while you are surfing other websites, we recommend that you enable your browser to notify you when it is receiving a cookie. This gives you the ability of accepting or rejecting any cookie presented by the web server you are visiting.
 
