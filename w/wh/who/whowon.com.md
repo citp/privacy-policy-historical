@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whowon.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024080344id_/http%3A//whowon.com/whowonprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whowon.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603145629id_/http%3A//whowon.com/whowonprivacy.asp) for the most accurate reproduction.*
 
 # WhoWon.com Privacy Policy
 
@@ -19,7 +19,7 @@ Our web server tracks and collects general information about your visit to our w
 
 This data helps us to customize our website to better meet your on-line needs, so we may request and store the following types of specific information: your name, company name, street address, city, county, state, country, province, telephone numbers and e-mail addresses. This personally identifiable information is only collected when voluntarily submitted by a visitor in one of our on-line information or e-mail correspondence forms.
 
-This site, WhoWon.com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>.
+This site, WhoWon.com, uses the services of BURST! Media for the serving and/or targeting of ads, promotions and other marketing messages. All users who receive an ad served by BURST! retain complete anonymity where BURST! is concerned. As ads are delivered, BURST! does not acquire or collect any personal information about you. Your name, address, phone number, and email address all remain your private properties. The BURST! Media privacy policy can be viewed at <http://www.burstmedia.com/release/privacy.asp>.
 
 **C. Storage and Access** :
 
