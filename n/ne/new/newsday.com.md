@@ -1,12 +1,9 @@
-> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604050600id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsday.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031025id_/http%3A//www.newsday.com/go/services/privacypolicy) for the most accurate reproduction.*
 
 # Newsday.com - Newsday.com Privacy Policy
 
 |   
-  
 ---  
-**[SEARCH](https://web.archive.org/go/search)**  
-   
 **[TRAFFIC](https://web.archive.org/news/traffic/longisland/)**  
 **[NEWS](https://web.archive.org/news/local/longisland/)**  
   
@@ -16,33 +13,41 @@
 
 [• Ground Zero](https://web.archive.org/other/special/ny-rebuilds-main.htmlstory)
 
-[• Nation/World](https://web.archive.org/news/nationworld/)
+[• Nation](https://web.archive.org/news/nationworld/nation/)
 
-[• Politics](https://web.archive.org/news/local/longisland/politics/)
+[• World](https://web.archive.org/news/nationworld/world/)
+
+[• AP News](http://www.newsday.com/news/nationworld/wire/)
 
 [• Health/Science](https://web.archive.org/news/health/)
 
 [• Obituaries](https://web.archive.org/news/obituaries/)
 
-[• Student Briefing](http://www.newsday.com/news/education/sbp/)
+[• Columnists](https://web.archive.org/news/columnists/)
 
-[• Columnists](https://web.archive.org/news/columnists/)  
+[• Student Briefing](https://web.archive.org/news/education/sbp/)  
   
 **[SPORTS](https://web.archive.org/sports/)**  
   
 [• Scoreboard](http://www.newsday.com/sports/ny-scoreboard-mainpage.htmlstory)
 
-[• Golf / U.S. Open](https://web.archive.org/sports/golf/)
+[• Jets](https://web.archive.org/sports/football/jets/)
 
-[• Mets](https://web.archive.org/sports/baseball/mets/)
-
-[• Yankees](https://web.archive.org/sports/baseball/yankees/)
-
-[• High Schools](https://web.archive.org/sports/highschool/)
+[• Giants](https://web.archive.org/sports/football/giants/)
 
 [• Nets](https://web.archive.org/sports/basketball/nets/)
 
-[• Colleges](https://web.archive.org/sports/college/)  
+[• Knicks](https://web.archive.org/sports/basketball/knicks/)
+
+[• Rangers](https://web.archive.org/sports/hockey/rangers/)
+
+[• Islanders](https://web.archive.org/sports/hockey/islanders/)
+
+[• High Schools](https://web.archive.org/sports/highschool/)
+
+[• Colleges](https://web.archive.org/sports/college/)
+
+[• Columnists](https://web.archive.org/sports/columnists/)  
   
 **[BUSINESS](https://web.archive.org/business/)**  
   
@@ -64,6 +69,8 @@
   
 **[Part 2 / FEATURES](https://web.archive.org/features/)**  
   
+[• Travel](https://web.archive.org/travel/)
+
 [• Books](https://web.archive.org/features/books/)
 
 [• Comics](https://web.archive.org/features/comics/)
@@ -72,7 +79,11 @@
 
 [• Food](https://web.archive.org/features/food/)
 
-[• Home & Gardens](https://web.archive.org/features/home/)  
+[• Home & Gardens](https://web.archive.org/features/home/)
+
+[• Crossword](http://www.networdcross.com/cgi-bin/dailypage/newsday/)
+
+[• Horoscopes](http://www2.uclick.com/client/new/el/)  
   
 **[ENTERTAINMENT](https://web.archive.org/entertainment/)**  
   
@@ -90,7 +101,7 @@
 
 [• FanFare](https://web.archive.org/entertainment/printedition/fanfare/)
 
-[• Fun Book](http://cf.newsday.com/funbook/funbook.cfm)  
+[• Fun Book](https://web.archive.org/funbook)  
   
 **[CLASSIFIEDS](https://web.archive.org/classified/)**  
   
@@ -102,6 +113,7 @@
 
 [• Marketplace](https://web.archive.org/classified/marketplace/)  
   
+**[SITE INDEX](https://web.archive.org/siteindex)**  
 **[ARCHIVES](http://library.newsday.com/)**  
   
   
@@ -201,10 +213,6 @@ This policy and the use of this Site are governed by Illinois law. Any claim rel
 Copyright © 2002, [Newsday, Inc.](http://www.newsday.com/)
 
   
-|   |  [](https://web.archive.org/classified)  
-  
-[](https://web.archive.org/classified/marketplace)  
-[](https://web.archive.org/go/shopping)  
-[](http://www.liweddingsofdistinction.com/)  
+|   |    
   
 
