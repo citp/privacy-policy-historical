@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202185549id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elenasmodels.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603042311id_/http%3A//www.elenasmodels.com/privacy.htm) for the most accurate reproduction.*
 
 # Elena's Models - beautiful russian girls. PRIVACY STATEMENT
 
@@ -7,7 +7,7 @@ Registration**
 
 In order to use our services, a user must first complete the Order Form. During the ordering process users are required to give their contact information (such as email address). This information is used to fulfill the orders. 
 
-When order [Personal Listing](https://web.archive.org/web/20031202185549id_/http%3A//www.elenasmodels.com/services/listings.htm), a user is required to submit his name, address and personal details in order to be published in a catalog for public viewing. NONE of those questions are mandatory; a user may choose a nickname, list only the city or state of his residence, etc. Users are informed to submit only the details they don't mind to be published. Users are encouraged to use separate email accounts for their orders.
+When order [Personal Listing](https://web.archive.org/web/20040603042311id_/http%3A//www.elenasmodels.com/services/listings.htm), a user is required to submit his name, address and personal details in order to be published in a catalog for public viewing. NONE of those questions are mandatory; a user may choose a nickname, list only the city or state of his residence, etc. Users are informed to submit only the details they don't mind to be published. Users are encouraged to use separate email accounts for their orders.
 
 **Order**
 
