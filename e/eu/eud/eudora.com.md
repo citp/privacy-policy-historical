@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eudora.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604064423id_/http%3A//www.eudora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eudora.com privacy policy that was archived on 2002-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021127101904id_/http%3A//www.eudora.com/privacy) for the most accurate reproduction.*
 
 # Eudora Privacy Statement
-
-| 
 
 **Eudora Privacy Statement**
 
@@ -20,9 +18,6 @@ WEB SITE: www.eudora.com
 > 
 > Our website uses cookies. Cookies are used to make sure users don't see the same ad repeatedly as well as to deliver content specific to users' interests.
 > 
-> **Order Forms  
->  **Our site uses an order form for customers to request information and services and purchase products. We collect visitors' contact information (like their names and email addresses). In the event the customer is making a purchase, we will also require additional financial and billing information (like credit card, shipping address, telephone, etc.). Contact information from the order form is used to ship orders. Users may opt in and grant their permission for us to use their contact information to send them information about our company and promotional material from some of our partners. Users may opt out of receiving future mailings at any time.
-> 
 > **Surveys**  
 >  Our online surveys ask visitors for contact information (like their names and email addresses). With the user's permission, we use contact data from our surveys to send the user information about our company, products and promotional material. If the user chooses to allow us, we may also send mail with special offers from our sponsors. 
 > 
@@ -39,11 +34,6 @@ WEB SITE: www.eudora.com
 > **Registration Information  
 >  **When a user registers, we collect certain contact information (like email address and first and last name) that will be used to verify the user's eligibility for services and upgrades, provide services like technical support and verify a user's identity in the case of a lost registration code. This information may also be used to contact the user, with their permission. 
 > 
-> **Ad-specific Information  
->  **In order to operate properly, the sponsor-supported version of Eudora 4.3 collects certain information (like current operating system, monitor bit depth and size, version and mode of Eudora, Eudora use time). This information is used to meet our requirements to our sponsors and to serve content that looks good and is appropriate and compatible with users' systems. We also collect data on what ads users currently have on their computer. This is used to manage ad traffic and help tech support and our web administrators to solve any problems. If the software detects a problem with displaying ads, it warns the user. The warning includes a button that can be clicked by the user to ask for the problem to be diagnosed. Should the user specifically ask to have the problem diagnosed, information about failed attempts to receive ads will be transmitted to us. This information is also useful in determining what areas of the program need enhancement. 
-> 
-> From time to time, some of Eudora's advertising will only be applicable to certain geographic regions (phone services, insurance providers, etc). In such cases, Eudora will use the user's IP address to send the most appropriate advertising. Many IP addresses are commonly associated with Internet service providers, universities, or major corporations in specific regions or localities. The only information used in this procedure is the data about the geographic region from which the user's computer is contacting the Internet. Absolutely no personal information (email address, address of residence, demographics, etc.) is revealed to QUALCOMM or our advertisers in these situations.
-> 
 > **Other Information  
 >  **We also collect, from a small percentage of users who have authorized us to do so, information on Eudora usage (like features used) and Internet connection time. **This does not contain actual data entered by the user. Any identifying information gathered is immediately separated from this information, so that we have no idea whose usage pattern we have.**
 > 
@@ -53,7 +43,7 @@ WEB SITE: www.eudora.com
 **Eudora 5.0 Sponsor-supported Email Client Software**
 
 > **User Profile  
->  **Users of version 5.0 will be required to complete, after a short trial period, a demographic survey in order to continue using the software in Sponsored mode. The first time the software is run, a profile ID is generated and sent to the Eudora client software on the user's system. If the user chooses not to complete the profile, the software will revert to Light mode at the end of the trial period. The user has the option, at any time, to pay for the software in which case advertising will be removed and a survey is not required. A user in Light mode may switch to Sponsored mode at any time by filling out a profile. This demographic information is used to serve ads that are more relevant to the user. The user can modify the profile at any time. 
+>  **Users of version 5.0 will be asked to complete, after a short trial period, a demographic survey. The first time the software is run, a profile ID is generated and sent to the Eudora client software on the user's system. The user has the option, at any time, to pay for the software in which case advertising will be removed and a survey is not required. A user in Light mode may switch to Sponsored mode at any time. This demographic information is used to serve ads that are more relevant to the user. The user can modify the profile at any time. 
 > 
 > We aggregate this information eliminating personally identifiable information in the process. The aggregate information is shared with advertisers. We will not share personally identifiable information without the user's permission.
 > 
@@ -63,7 +53,7 @@ WEB SITE: www.eudora.com
 **While we will never change our fundamental commitment to protecting user privacy, regulatory changes or other circumstances may require us to modify this Privacy Statement. In the event that we do amend this Statement, we will post the amended Statement on our website at http://www.eudora.com/privacy, and the amended Statement will be effective 15 days after it is first posted. 
 
 **Contacting the Web Site  
-**If you have any questions about this Privacy Statement, the practices of this site, or your dealings with this Web site, you can contact our [webmaster.](mailto:webmaster@qualcomm.com)
+**If you have any questions about this Privacy Statement, the practices of this site, or your dealings with this Web site, you can contact our [webmaster](mailto:webmaster@eudora.com).
 
   
-Last updated 10/10 2000 
+Last updated 10/6 2002 
