@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217224138id_/http%3A//gallup.com/Update/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gallup.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203032243id_/http%3A//www.gallup.com/help/privacy.asp) for the most accurate reproduction.*
 
 # The Gallup Organization - Privacy Policy
-
-|   |  **The Gallup Organization - Privacy Policy**  
-
 
 Protection of personal privacy has always been a hallmark of The Gallup Organization. Since its inception in 1935, Gallup has maintained the anonymity of each survey respondent unless express consent to the release of a respondent's personal information or individual responses has been provided by that respondent. In a like manner, Gallup protects the identity of individuals who access its Web sites. Please read the following policy for further details as to the types of information collected through Gallup Web sites, including personal information, and how it is treated. 
 
@@ -46,5 +43,3 @@ This Privacy Policy is Gallup's promise to its Web site users. Additional inform
 
 _**Additional Questions or Comments**_   
 If you have any additional questions or comments regarding Gallup's Privacy Policy, please e-mail us at [Privacy_Administrator@Gallup.com](mailto:Privacy_Administrator@Gallup.com)
-
-| 
