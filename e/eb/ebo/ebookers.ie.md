@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402213531id_/http%3A//www.ebookers.com/helpandinfo/privacy.html%3FVERSION%3DIE%26LANG%3DAA%26CURRENCY%3DEUR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebookers.ie privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211055608id_/http%3A//www.ebookers.com/helpandinfo/privacy.html%3FVERSION%3DIE%26LANG%3DAA%26CURRENCY%3DEUR) for the most accurate reproduction.*
 
-# ebookers.com - Privacy Statement
+# ebookers.ie -- Privacy Statement
 
 **Privacy Statement for ebookers.com**
 
@@ -22,7 +22,7 @@ Webmaster
 ebookers.com plc  
 34-42 Woburn Place  
 London W1CH 0TA  
-[webmaster@ebookers.com](mailto:webmaster@ebookers.com)
+[webmaster.ie@ebookers.com](mailto:webmaster.ie@ebookers.com)
 
 The following discloses our information gathering and dissemination practices for this website: www.ebookers.com. 
 
@@ -75,4 +75,4 @@ This site has security measures in place to protect the loss, misuse and alterat
 To change information in your user profile visit.   [http://www.ebookers.com/myebooker](https://web.archive.org/myebooker/index.html)
 
 **Changes to our Privacy Statement**   
-Any material changes in the way ebookers.com uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to [webmaster@ebookers.com](mailto:webmaster@ebookers.com). Please reference the privacy policy in your subject line. We will attempt to respond to all reasonable concerns or inquiries within two business days of receipt. 
+Any material changes in the way ebookers.com uses personal information will be described in future versions of this Privacy Statement. Of course, you may always submit concerns regarding our Privacy Statement or our privacy practices to [webmaster.ie@ebookers.com](mailto:webmaster.ie@ebookers.com). Please reference the privacy policy in your subject line. We will attempt to respond to all reasonable concerns or inquiries within two business days of receipt. 
