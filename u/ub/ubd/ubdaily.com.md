@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubdaily.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603000013id_/http%3A//search4college.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubdaily.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223235955id_/http%3A//www.search4college.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Search4 College :: Online College Guide and Career Training Listing of Career Colleges Vocational Schools and Technical Schools
 
