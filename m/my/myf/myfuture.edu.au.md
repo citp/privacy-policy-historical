@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207093515id_/http%3A//www.myfuture.edu.au/articles/Redirect.asp%3FArticleID%3D197%26Location%3DHome%2520%5C%2520Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402113757id_/http%3A//www.myfuture.edu.au/articles/Redirect.asp%3FArticleID%3D197%26Location%3DHome%2520%5C%2520Privacy) for the most accurate reproduction.*
 
 # myfuture Privacy Statement
 
-myfuture.edu.au Privacy Statement 
+myfuture.edu.au Privacy Statement   
+
 
 1. Introduction
 
@@ -12,6 +13,12 @@ The purpose of this Privacy Statement is to explain how we may collect personal 
 
 **_education.au limited_** maintains and hosts this Site for the Department of Education, Science and Training. Any reference to "We" in this Privacy Statement includes a reference to the Department of Education, Science and Training.
 
+| 
+
+         
+  
+---|---  
+  
 2. Collection of personal information
 
 There are 3 ways in which we may collect your personal information. These are explained below:
@@ -40,7 +47,8 @@ There are 3 ways in which we may collect your personal information. These are ex
 > 
 > Generally, this information will identify the computer you are using, rather than identifying you. 
 > 
-> Similarly, sometimes the administration website uses cookies . A cookie is a small amount of information stored on your computer by our server. This information is sent by your web browser to our server whenever you visit it again.  Cookies are used to remember your browser between page visits. However, the cookie identifies your browser, not you personally. No personal information is stored within the myfuture.edu.au cookies.
+> Similarly, sometimes the administration website uses cookies . A cookie is a small amount of information stored on your computer by our server. This information is sent by your web browser to our server whenever you visit it again.  Cookies are used to remember your browser between page visits. However, the cookie identifies your browser, not you personally. No personal information is stored within the myfuture.edu.au cookies.  
+> 
 
 3. How we use your personal information
 
@@ -54,7 +62,8 @@ The reason we collect statistical information about the use of this Site (whethe
   * maintaining and improving the website; 
   * reporting purposes; 
   * research and development; and 
-  * to produce statistics about the traffic on the website. 
+  * to produce statistics about the traffic on the website.   
+
 
 
 
