@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the energy.gov privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203043200id_/http%3A//www.energy.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the energy.gov privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606202333id_/http%3A//www.energy.gov/privacy.html) for the most accurate reproduction.*
 
 # Energy.gov
 
