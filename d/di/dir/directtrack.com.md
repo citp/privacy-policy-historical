@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directtrack.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207012552id_/http%3A//www.directtrack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directtrack.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205203059id_/http%3A//www.directtrack.com/privacy.html) for the most accurate reproduction.*
 
 # AFFILIATE TRACKING SOFTWARE| Affiliate Program Software|Affiliate Software| DirectTrack
 
@@ -20,6 +20,6 @@ Direct Response Technologies, Inc., holds all data gathered in strict confidence
 
 |  | 
 
-**[](https://web.archive.org/web/20041207012552id_/http%3A//www.directtrack.com/comreplace.html?PHPSESSID=1f4096eea9e80831e63c89fd0c3e8410)**  
+**[](https://web.archive.org/web/20050205203059id_/http%3A//www.directtrack.com/comreplace.html?PHPSESSID=cb8b30db196536a38fd609a5e098c1f7)**  
   
 ---|---|---
