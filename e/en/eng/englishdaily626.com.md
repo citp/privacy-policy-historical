@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishdaily626.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212214835id_/http%3A//www.englishdaily626.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishdaily626.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207073150id_/http%3A//www.englishdaily626.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
