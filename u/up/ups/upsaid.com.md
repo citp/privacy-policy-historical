@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upsaid.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205152119id_/http%3A//www.upsaid.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upsaid.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609195447id_/http%3A//www.upsaid.com/privacy.php) for the most accurate reproduction.*
 
 # Upsaid : Privacy policy
 
@@ -15,7 +15,7 @@ Under no circumstances, Upsaid will give or sell the gathered information to any
 ---  
   
 **Upsaid profile information**  
-All Upsaid members have the right to create a public Upsaid profile, wich can contail the following personal information: Name, Birth date, Location, Occupation, Home Page, E-mail, ICQ number, AOL Instant Messaging handle, and Yahoo! Messenger handle. Under no circumstances the user will be required to enter ANY of this information into his / her profile. The user can also set this profile as "private", making it unavailable to any viewer. 
+All Upsaid members have the right to create a public Upsaid profile, which can contail the following personal information: Name, Birth date, Location, Occupation, Home Page, E-mail, ICQ number, AOL Instant Messaging handle, and Yahoo! Messenger handle. Under no circumstances the user will be required to enter ANY of this information into his / her profile. The user can also set this profile as "private", making it unavailable to any viewer. 
 
 Under no circumstances, Upsaid will give or sell the gathered information to any third party, or send unsolicited e-mails to the user.  
   
