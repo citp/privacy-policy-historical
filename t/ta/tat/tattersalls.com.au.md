@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tattersalls.com.au privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204105415id_/http%3A//www.tattersalls.com.au/company/home/corpPrivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattersalls.com.au privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607080343id_/http%3A//www.tattersalls.com.au/company/home/corpPrivacy.html) for the most accurate reproduction.*
 
 # Tattersall's company information, privacy statement for online lotteries, tipstar
 
@@ -66,4 +66,4 @@ Tattersall's reserves the right to change this Privacy Policy at any time and to
 
 For further information about privacy issues and the protection of privacy, visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au.](http://www.privacy.gov.au/)
 
-[Click here](https://web.archive.org/web/20031204105415id_/http%3A//www.tattersalls.com.au/company/home/corpPrivacyLot.html) to view the terms and conditions specific to each site or service.
+[Click here](https://web.archive.org/web/20040607080343id_/http%3A//www.tattersalls.com.au/company/home/corpPrivacyLot.html) to view the terms and conditions specific to each site or service.
