@@ -1,0 +1,444 @@
+<!--The following is the downloaded HTML source of the usgbc.org privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603235804id_/http%3A//usgbc.org/privacy_policy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<title>USGBC - Privacy Policy</title>
+
+<!--- ******** THIS SHOULD CONTAIN ALL INCLUDES THAT WRITE INFO TO THE BROWSER.
+THIS MUST BE INCLUDED IN THE HEADER SECTION OF EACH FRONT END PAGE ******** -->
+<!--<link rel="stylesheet" href="/includes/stylesheets/usgbc_style.css" media="screen" title="USGBC Stylesheet">-->
+
+<link rel="stylesheet" href="/includes/stylesheets/css_main.css" media="screen" title="Original Main Style">
+<script language="javascript">
+/* general form processing */
+function processForm (theform, action) 
+{
+	if (action == 'cancel') {
+		//alert ('clear form');
+		theform.reset();
+	
+	}
+} 
+
+// PURPOSE:
+// 1. REDIRECTS THE PARENT WINDOW TO A LINK SENT FROM THE POPUP WINDOW
+// 2. CLOSES THE CURRENT POPUP WINDOW YOU'RE IN
+function ClosePopupParentLink(parentURL)
+{
+	opener.location.href = parentURL;
+	window.close();
+	//alert('hello');
+}
+
+// Function to Verify Dates Entered via 3 seperate dropdowns (month, day, year)
+function checkDateDropdowns(currDay, currMonth, currYear) {
+	var err=0;
+	
+	month = currMonth.options[currMonth.selectedIndex].value // month
+	day = currDay.options[currDay.selectedIndex].value // day
+	year = currYear.options[currYear.selectedIndex].value // year
+	yearLastTwo = year.substring(2, 4) // year
+	
+	//alert(month);
+	//alert(day);
+	//alert(year);
+	//alert(yearLastTwo);
+	
+	if (month < 1 || month > 12) 
+		err = 1
+	if (day < 1 || day > 31) 
+		err = 1
+	if (year < 1900 || year > 9999) 
+		err = 1
+	if (isNaN(month) || isNaN(day) || isNaN(year)) 
+		err=1
+	if (yearLastTwo < 0 || yearLastTwo > 99) 
+		err = 1
+		
+	// *** Make sure the 30 day months do not allow 31
+	if (month == 4 || month == 6 || month == 9 || month == 11) 
+	{
+		if (day == 31) err=1
+	}
+
+	// *** Make sure February has only 28 days, or 29 in a leap year ***
+	if (month==2)
+	{
+		var g=parseInt(yearLastTwo/4)
+	
+		if (isNaN(g)) {
+			err=1
+		}
+		
+		if (day > 29) 
+			err=1
+		if (day == 29 && ((yearLastTwo/4) != parseInt(yearLastTwo/4))) 
+			err=1
+	}
+
+	// *** Output the appropriate response ***
+	if (err==1) {
+		return false;
+	}
+	else {
+		return true;
+	}
+}
+	
+/**
+ * DHTML date validation script. Courtesy of SmartWebby.com (http://www.smartwebby.com/dhtml/)
+ */
+// Declaring valid date character, minimum year and maximum year
+function isInteger(s){
+	var i;
+    for (i = 0; i < s.length; i++){   
+        // Check that current character is number.
+        var c = s.charAt(i);
+        if (((c < "0") || (c > "9"))) return false;
+    }
+    // All characters are numbers.
+    return true;
+}
+
+function stripCharsInBag(s, bag){
+	var i;
+    var returnString = "";
+    // Search through string's characters one by one.
+    // If character is not in bag, append to returnString.
+    for (i = 0; i < s.length; i++){   
+        var c = s.charAt(i);
+        if (bag.indexOf(c) == -1) returnString += c;
+    }
+    return returnString;
+}
+
+function daysInFebruary (year){
+	// February has 29 days in any year evenly divisible by four,
+    // EXCEPT for centurial years which are not also divisible by 400.
+    return (((year % 4 == 0) && ( (!(year % 100 == 0)) || (year % 400 == 0))) ? 29 : 28 );
+}
+function DaysArray(n) {
+	for (var i = 1; i <= n; i++) {
+		this[i] = 31
+		if (i==4 || i==6 || i==9 || i==11) {this[i] = 30}
+		if (i==2) {this[i] = 29}
+   } 
+   return this
+}
+
+//****** FUNCTION TO CHECK IF A DATE ENTERED IN A TEXT BOX IS VALID
+function checkDate(currDateInput) {
+	
+	var dtStr
+	dtStr = currDateInput.value;
+
+	var dtCh= "/";
+	var minYear=1900;
+	var maxYear=3000;
+
+	var daysInMonth = DaysArray(12)
+	var pos1=dtStr.indexOf(dtCh)
+	var pos2=dtStr.indexOf(dtCh,pos1+1)
+	var strMonth=dtStr.substring(0,pos1)
+	var strDay=dtStr.substring(pos1+1,pos2)
+	var strYear=dtStr.substring(pos2+1)
+	strYr=strYear
+	if (strDay.charAt(0)=="0" && strDay.length>1) strDay=strDay.substring(1)
+	if (strMonth.charAt(0)=="0" && strMonth.length>1) strMonth=strMonth.substring(1)
+	for (var i = 1; i <= 3; i++) {
+		if (strYr.charAt(0)=="0" && strYr.length>1) strYr=strYr.substring(1)
+	}
+	month=parseInt(strMonth)
+	day=parseInt(strDay)
+	year=parseInt(strYr)
+	if (pos1==-1 || pos2==-1){
+		//alert("The date format should be : mm/dd/yyyy")
+		return false
+	}
+	if (strMonth.length<1 || month<1 || month>12){
+		//alert("Please enter a valid month")
+		return false
+	}
+	if (strDay.length<1 || day<1 || day>31 || (month==2 && day>daysInFebruary(year)) || day > daysInMonth[month]){
+		//alert("Please enter a valid day")
+		return false
+	}
+	if (strYear.length != 4 || year==0 || year<minYear || year>maxYear){
+		//alert("Please enter a valid 4 digit year between "+minYear+" and "+maxYear)
+		return false
+	}
+	if (dtStr.indexOf(dtCh,pos2+1)!=-1 || isInteger(stripCharsInBag(dtStr, dtCh))==false){
+		//alert("Please enter a valid date")
+		return false
+	}
+	
+	return true
+
+}
+
+// RETURNS TRUE OR FALSE BASED ON WHETHER OR NOT THE PARAMETERS MAKE UP A VALID DATE
+function isDate (currDate) {
+
+	var aryParams;
+	var temp;
+	temp = currDate.value;
+	aryParams = temp.split("/");
+
+	var sValid = true;
+	var IsLeap = false;
+	var iYear = 0;
+	var sMonth = '';
+	var sDay = '';
+	var sYear = '';
+	
+	// MAKE SURE ALL OF THE DATE PARTS WERE ENTERED
+	if (aryParams.length < 3) {
+		sValid = false;
+	}
+	else {
+		sMonth = aryParams[0];
+		sDay = aryParams[1];
+		sYear = aryParams[2];
+	}
+	
+	if (sMonth == '' || sDay == '' || sYear == '') {
+	  sValid = false;
+	}
+	
+	if (sYear < 1753) {
+	  sValid = false;
+	}
+	iYear = iYear + sYear;
+	if ((iYear % 4) == 0) {
+	  if ((iYear % 100) == 0) {
+	    if ((iYear % 400) == 0) {
+	      IsLeap = true;
+	    }
+	    else {
+	      IsLeap = false;
+	    }
+	  }
+	  else {
+	    IsLeap = true;
+	  }
+	}
+	else {
+	  IsLeap = false;
+	}
+	if ((sMonth == 1) || (sMonth == 3) || (sMonth == 5) || (sMonth == 7) || (sMonth == 8) || (sMonth == 10) || (sMonth == 12)) {
+	  if ((sDay < 1) || (sDay > 31)) {
+	   sValid = false;
+	 }
+	}
+	if ((sMonth == 4) || (sMonth == 6) || (sMonth == 9) || (sMonth == 11)) { 
+	  if ((sDay < 1) || (sDay > 30)) { 
+	    sValid = false; 
+	  } 
+	} 
+	if (sMonth == 2) { 
+	  if (IsLeap == true) { 
+	    if ((sDay < 1) || (sDay > 29)) { 
+	      sValid = false; 
+	    } 
+	  } 
+	  else { 
+	    if ((sDay < 1) || (sDay > 28)) { 
+	      sValid = false;
+	    }
+	  } 
+	}
+
+	return sValid;
+}
+
+function isDigit (c)
+{   return ((c >= "0") && (c <= "9"))
+}
+
+function VerifyPasswordComplexity(password)
+{
+	var nflag = false;
+	var invalid = " ";
+	
+	//******* THE PASSWORD CURRENTLY ONLY HAS TO BE ATLEAST 6 CHARACTERS LONG *******
+	if (password.value.length < 6)
+	{
+		 return false;
+	}
+			
+	/*for (var x=0;x<=password.value.length;x++) {
+
+		if(isDigit(password.value.substring(x,x+1))) {
+			nflag=true;		
+		}
+		
+		// check for spaces
+		if (password.value.indexOf(invalid) > -1) {
+			//alert("Sorry, spaces are not allowed.");
+			return false;
+		}
+	}
+
+	
+	if(nflag==false) 
+	{
+		//alert("The password  must contain numeric and alpha characters");
+		//document.frmPassword.password.focus();
+		return false;
+	}
+	*/
+	// If the function makes it this far, the pw is a valid format
+	return true;
+	
+}
+
+<!-- Begin
+function validateZIP(field) {
+	var valid = "0123456789-";
+	var hyphencount = 0;
+	var zipEntered = field.value;
+	
+	if (zipEntered.length != 5 && zipEntered.length != 10) {
+		//alert("Please enter your 5 digit or 5 digit+4 zip code.");
+		return false;
+	}
+	for (var i=0; i < zipEntered.length; i++) {
+	
+		temp = "" + zipEntered.substring(i, i+1);
+		if (temp == "-") hyphencount++;
+	
+		if (valid.indexOf(temp) == "-1") {
+			//alert("Invalid characters in your zip code.  Please try again.");
+			return false;
+		}
+		if ((hyphencount > 1) || ((zipEntered.length==10) && zipEntered.charAt(5)!="-")) {
+			//alert("The hyphen character should be used with a properly formatted 5 digit+four zip code, like '12345-6789'.   Please try again.");
+			return false;
+		}
+		
+	}
+
+	return true;
+}
+
+
+function newWin(url,winName,w,h) {
+ 	if (!w) {
+		w = 320;
+	}
+	if (!h) {
+		h = 250;
+	} 
+ 	winName = window.open(url, winName, 'location=no,toolbar=no,status=no,width=' + w + ',height=' + h +',scrollbars=yes,resizable=0');
+	winName.focus(); 
+ }
+ 
+function newWinResizable(url,windowName,w,h) {
+ 	if (!w) {
+		w = 320;
+	}
+	if (!h) {
+		h = 250;
+	} 
+ 	winName = window.open(url, windowName, 'location=no,toolbar=no,status=no,width=' + w + ',height=' + h +', menubar=yes, scrollbars=yes,resizable=1');
+	winName.focus(); 
+}
+
+//  End --> 
+</script>
+
+
+</head> 
+
+
+
+	<body background="/images/body/back_gray_back.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+	<div align="center">
+	  <table width="770" height="100%" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+		  <td width="10" height="120" background="/images/body/body_gray_back_top_left.gif">&nbsp;</td>
+		  <td width="750" height="120" align="left" valign="top" class="topSubNav1">
+		  <table width="750" border="0" cellspacing="0" cellpadding="0">
+	
+			<tbody><tr><td><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="750" height="120" hspace="0" vspace="0">
+				<param name="movie" value="/Flash/base_home.swf">
+				<param name="quality" value="high"><param name="LOOP" value="false">
+				<embed src="/Flash/base_home.swf" width="750" height="120" hspace="0" vspace="0" loop="false" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" swliveconnect="true" type="application/x-shockwave-flash"></object>
+			</td></tr>
+	
+		  </tbody></table>
+		  </td>
+		  <td width="10" height="120" background="/images/body/body_gray_back_top_right.gif">&nbsp;</td>
+		</tr>
+		<tr>
+		  <td width="10" background="/images/body/body_gray_back_left.gif">&nbsp;</td>
+	
+		  <td align="left" valign="top" bgcolor="#FFFFFF">
+		  <table width="750" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td width="750">
+	
+	<!-- Content area  -->
+<table width="750" height="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+	<tbody><tr>
+		<td valign="top">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td align="left" valign="top" colspan="3" height="45"><img src="/images/hdrs/hdr_privacypolicy.gif" width="366" height="45"></td>
+				</tr>
+				<tr>
+					<td valign="top" align="left" width="7"><img src="/images/1x1_trans.gif" width="7" height="1"></td>
+                	<td align="left" valign="top" width="700"><br>
+<p align="center"><strong>PRIVACY POLICY</strong></p>
+<p align="center"><strong>U.S. GREEN BUILDING COUNCIL, INC.</strong></p>
+<p align="center"><strong>Privacy Policy</strong></p>
+<p>This page states the Privacy Policy under which you, the Web Site visitor ("You" or “Your” or “Yourself”) may use or correspond with this Web site (“Our Site”), which is owned by the U.S. Green Building Council, Inc. (“We” or “Us” or “Our”).</p>
+<p>We respect Your privacy interests and operate this site by these principles.&nbsp; We have taken reasonable steps to protect the integrity and confidentiality of personally identifiable information that You may provide.</p>
+<p><strong>Voluntary Submission of Information</strong><br>You may use the USGBC Web site without disclosing personally identifiable information, and We will not obtain such information about You unless You choose to submit it to us.&nbsp; Any information You submit will be used internally only; however, submission of information authorizes such internal use by Us and Our employees.&nbsp; In particular, please note that submission of an e-mail authorizes Us to contact You via e-mail.</p>
+<p><strong>Cookies</strong><br>Please note that We use “cookies,” which are small files stored on Your computer’s hard drive that are used to track certain information.&nbsp; These cookies enable Us to track and target the interests of Our users to enhance their experience on Our site.&nbsp; For example, cookies usually allow Your browser to remember which pages You have visited and help Us to know how much traffic Our pages receive.&nbsp; This process does not reveal any personal information about the person viewing the page (such as a username or password) unless the person has previously given such information.&nbsp; If You find cookies objectionable, please consult Your browser’s documentation for information on how to block or erase cookies.</p>
+<p><strong>Log Files</strong><br>In addition, Our Web server collects and saves the default information customarily logged by World Wide Web server software.&nbsp; Our logs contain the following information for each request:&nbsp; date, time, originating IP address and domain name, object requested, and completion status of the request.&nbsp; We use these logs to help improve Our service by evaluating the level of demand for Our site and detecting any errors on the site that might occur.&nbsp; These logs may be kept for an indefinite length of time and used at any time and in any way necessary to prevent security breaches and protect the integrity of the data on Our servers.</p>
+<p><strong>Use of Collected Information</strong><br>Any information We gather, whether submitted voluntarily or collected automatically, will be used for Our internal purposes only.&nbsp; Billing information is collected through a secure server and is not shared with other organizations other than the credit card issuing entity.&nbsp; Your credit card number is not retained once Your transaction has been authorized and processed.&nbsp; It is Our policy not to disclose or to sell any user information to third parties, however, when requested by a Member, We may provide a member with a mailing list of USGBC members to promote certain approved activities or events.&nbsp; Members may opt out of including their contact information for such mailing lists.&nbsp; We retain the right to disclose collected information if required to do so by law or if acting on a good faith belief that such disclosure is necessary to protect Our rights or property or to respond to an emergency situation.&nbsp; </p>
+<p><strong>Review, Update, and Deletion of Collected Information</strong><br>If You are concerned about the information You have provided to Us or would like to review, update, or delete this information, please e-mail Us at <a href="mailto:webmaster@usgbc.org">webmaster@usgbc.org</a>.&nbsp; We will make reasonable efforts to comply with Your requests.</p>
+<p><strong>Links</strong><br>Please see Our <a href="/termsandconditions.asp">Terms and Conditions</a> page.</p>
+<p><strong>Security</strong><br>This site takes reasonable precautions to protect Our users’ information.&nbsp; Please note, however, that electronic transmissions via the Internet are not necessarily secure from interception, and We do not guarantee the security or confidentiality of transmissions.&nbsp; We reserve the right to update or otherwise alter Our security practices if and when it seems appropriate to do so.&nbsp; As with Our <a href="/termsandconditions.asp">Terms and Conditions</a>, You should check Our Security provisions each time You visit Our site to identify and understand any changes made since Your previous visit.</p>
+<p><strong>Notification of Changes</strong><br>If We decide to change Our approach to privacy, We will post those changes to this Privacy Policy so that users are always aware of what information We collect, how We use it, and under what circumstances We disclose it.&nbsp; Changes to the Privacy Policy will be dated, and will be effective from the date specified forward.&nbsp; As with Our <a href="/termsandconditions.asp">Terms and Conditions</a>, You should check Our Privacy Policy each time You visit Our site to identify and understand any changes made since Your previous visit.</p></td>
+					<td align="left" valign="top" width="7"><img src="/images/1x1_trans.gif" width="7" height="1"></td>
+				</tr>
+				<tr>
+					<td align="left" valign="top" colspan="3"><img src="/images/1x1_trans.gif" width="1" height="10"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+<!-- END main copy -->			
+
+</td>
+	  	</tr>
+	  </tbody></table>
+</td>
+
+      <td width="10" background="/images/body/body_gray_back_right.gif">&nbsp;</td>
+    </tr>
+    <tr>
+      <td height="65" width="10" background="/images/body/body_gray_back_left.gif">&nbsp;</td>
+      <td height="65" width="750" bgcolor="#FFFFFF" align="left" valign="bottom">
+	  	<table width="750" height="65" border="0" cellpadding="0" cellspacing="0" background="/images/nav/nav_footer_back.gif">
+		  <tbody><tr>
+			<td width="65" align="left" valign="bottom"><img src="/images/nav/nav_footer_logo.gif"></td>
+			<td align="left" valign="middle" class="footerNav1"><a href="/contact_us.asp" class="footernav1">Contact</a> | <a href="/privacy_policy.asp" class="footernav1">Privacy Policy</a> | <a href="/terms_and_conditions.asp" class="footernav1">Terms and Conditions</a> | <a href="/search.asp" class="footernav1">Search</a> | <a href="/site_index.asp" class="footernav1">Site Index</a><br>
+			  <a class="footernav2">Copyright (c) 2003 U.S. Green Building Council. All Rights Reserved.</a></td>
+			<td width="65" align="right" valign="bottom"><img src="/images/nav/nav_footer_right.gif"></td>
+		  </tr>
+		</tbody></table>
+	  </td>
+      <td height="65" width="10" background="/images/body/body_gray_back_right.gif">&nbsp;</td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+
+
+
+</body></html>
