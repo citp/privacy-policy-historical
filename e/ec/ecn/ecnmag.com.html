@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ecnmag.com privacy policy that was archived on 2002-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021216005646id_/http%3A//www.e-insite.net/ecnmag/index.asp%3Flayout%3DsiteContent%26articleid%3DCA197749) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ecnmag.com privacy policy that was archived on 2003-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030627165818id_/http%3A//www.e-insite.net/ecnmag/index.asp%3Flayout%3DsiteContent%26articleid%3DCA197749) for the most accurate reproduction.-->
 
 <html><head>
 <title>ECN: Electronic Component News</title>
@@ -61,30 +61,27 @@
 </style>
 </head>
 <body marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" link="#003399" bgcolor="#FFFFFF" background="contents/images/ECNtile2.gif">
+
+<img src="http://ad.doubleclick.net/ad/ecn.rbi/;type=ros;sz=1x1;ord=37799353593126656?" border="0" width="1" height="1">
 <table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
   
 <tbody><tr> 
     <td width="100%" colspan="5" valign="top"><script language="javascript">
 <!--
 function checkSearch() { 
-	if (getSelectValue("SearchForm", "layout") == "business.com") { 		window.location="http://www.e-insite.net/ecnmag/webdirectory.asp?qu=" + trim(document.SearchForm.text.value);
-      	return false;
-    	}
-    	else
-    	{	
+if (document.SearchForm.text.value == "")
+  {
+    window.alert("Please enter a text value to be searched for.");
+    return false;
+  }
      	document.SearchForm.text.value=trim(document.SearchForm.text.value.toLowerCase());
 	return true;
-    	}
 }
 
 function trim(psText) {
 	psText = psText.replace(/^[\s]+/g,"");
 	psText = psText.replace(/[\s]+$/g,"");
 	return psText;
-}
-
-function getSelectValue(psFormName, psFieldName) {
-	return eval('document.' + psFormName + '.' + psFieldName + '.options[document.' + psFormName + '.' + psFieldName + '.selectedIndex].value');
 }
 //-->
 </script>
@@ -112,30 +109,66 @@ now.getFullYear());
   <tr>
     <td colspan="3" class="search"><img src="contents/images/pixel.gif" width="1" height="3"></td>
   </tr>
-  <tr> 
+<tr> 
   <td width="55%" align="center" valign="middle" class="search">
     <form name="SearchForm" onsubmit="return checkSearch()" action="index.asp" method="get" style="MARGIN-BOTTOM: 0px; 
 
 MARGIN-TOP: 0px">
+    <input type="hidden" name="layout" value="searchResults">
     <table width="100%" border="0" cellspacing="0" cellpadding="2">
     <tbody><tr align="center">
       <td class="search">
       <span class="search">Search</span>
-      <select name="layout" class="byline">
-        <option value="searchArticlesECN">Articles</option>
-        <option value="searchProductsECN">Products</option>
-        <option value="searchEvents">Events</option>
-        <option value="searchWebEx">e-inSITE News</option>
-        <option value="searchWires">News Wires</option>
-        <option value="searchIndustry">Key Industry Sites - Google</option>
-        <option value="business.com">Web Directory - Business.com</option>
+      <select name="content" class="byline">
+	  
+        <option value="Articles" selected="">Articles</option>
+        <option value="Product">Products</option>
+        <option value="Events">Events</option>
+        <option value="News">e-inSITE News</option>
+        <option value="Industry">Key Industry Sites - Google</option>
+	  
       </select>
       </td>
     </tr>
     <tr align="center">
       <td class="search">
-      <span class="search">for:</span>
-      <input type="text" size="10" name="text" align="middle" class="byline">&nbsp;
+      <span class="search">for:</span><script language="javascript">
+function stripQts2(name){
+var newName = "";
+var test = name.split(unescape("%27%27")); //split the field on ascii code for double ''
+for(i=0;i<test.length;i++){
+	if(i!=(test.length - 1)){
+		
+		newName = newName + test[i] + "'"  // put it back together with an "'" 
+	}
+	else{
+		newName = newName + test[i] // make sure end of string has no "'"
+	}
+}
+	userQuery = newName;
+}
+
+var tempQuery="";
+userQuery = "";
+
+for (i = 0; i < tempQuery.length; i++)
+  if ((tempQuery.charAt(i)=='%') &&
+     (tempQuery.charAt(i+1)=='2') &&
+     (tempQuery.charAt(i+2)=='2'))
+       {userQuery = userQuery + '&quot;';
+        i=i+2;
+       }
+  else
+       {if (tempQuery.charAt(i)=="+")
+	     userQuery = userQuery + " "
+		else
+		 userQuery = userQuery + tempQuery.charAt(i);
+       }
+
+userQuery=unescape(userQuery);
+stripQts2(userQuery);
+document.write('<input type=text name=text size=18 align=middle class=byline value="' + userQuery + '" >')
+</script><input type="text" name="text" size="18" align="middle" class="byline" value="">&nbsp;
       <input type="submit" value="Go" align="middle" class="byline">&nbsp;&nbsp;&nbsp;<a class="search" href="index.asp?layout=siteContent&amp;articleid=CA210910">Tips</a>
       </td>
     </tr>
@@ -171,7 +204,8 @@ MARGIN-TOP: 0px">
 <table width="100%" border="0" cellspacing="0" cellpadding="5" align="center">
 <tbody><tr> 
 <td class="topnav" width="70%"><span class="breadcrumb">You are here &gt; <a href="/ecnmag/" class="breadcrumb">Home</a>&nbsp;
-&gt;&nbsp;Privacy Policy<script language="JavaScript">
+&gt;&nbsp;Privacy Policy
+<script language="JavaScript">
 var filename = document.location.pathname;
 if (filename == "/commvergemag/login.asp")
 {
@@ -185,7 +219,7 @@ else
 {
 document.write ("");
 }
-</script></span></td><td width="30%" align="right" height="20" class="topnav"><a class="topnav" href="http://www.reed4success.com/default.asp?magid=124&amp;promocode=WBA01EB4">Free Subscription</a>&nbsp;&nbsp;|&nbsp;&nbsp;
+</script></span></td><td width="30%" align="right" height="20" class="topnav"><a class="topnav" href="jumplink.asp?target=http%3A//www.reed4success.com/default.asp%3Fmagid%3D124%26promocode%3DWBA01EB4&amp;sponsor=r4s+ECN&amp;loc=texttopnav&amp;layout=siteContent">Free Subscription</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 <a href="index.asp?layout=productDatabase" class="topnav">Product Database</a>&nbsp;</td>
 </tr></tbody></table></td>
 </tr>
@@ -194,7 +228,7 @@ document.write ("");
     <td width="132" valign="top" class="leftnav" bgcolor="#ffffff"><table width="100%" border="0" cellspacing="0" cellpadding="3">
 <tbody><tr> 
   <td align="center">
-     <a href="http://www.reed4success.com/default.asp?magid=124&amp;promocode=WBA01EB4"><img src="http://a330.g.akamai.net/7/330/2540/ac801957db33a9/www.e-insite.net/contents/images/ecnbutton.jpg" width="120" height="60" border="0"></a>
+     <a href="jumplink.asp?target=http%3A//www.reed4success.com/default.asp%3Fmagid%3D124%26promocode%3DWBA01EB4&amp;sponsor=r4s+ECN&amp;loc=buttonleftnav&amp;layout=siteContent"><img src="contents/images/ecnbutton.jpg" width="120" height="60" border="0"></a>
      
 </td>
 </tr>
@@ -220,7 +254,7 @@ document.write ("");
   </tr>
 <tr> 
     <td class="leftnav" valign="top" width="7"><img src="contents/images/ECNtri.gif" width="8" height="14"></td>
-    <td class="leftnav"><a href="index.asp?layout=archiveTOC" class="leftnav">Archives</a></td>
+    <td class="leftnav"><a href="index.asp?layout=contentArchive" class="leftnav">Archives</a></td>
   </tr>
 <tr> 
     <td class="leftnav" valign="top" width="7"><img src="contents/images/ECNtri.gif" width="8" height="14"></td>
@@ -228,7 +262,7 @@ document.write ("");
   </tr>
 <tr> 
     <td class="leftnav" valign="top" width="7"><img src="contents/images/ECNtri.gif" width="8" height="14"></td>
-    <td class="leftnav"><a href="index.asp?layout=issueTOC&amp;pubdate=12/15/2002" class="leftnav">Current Issue</a></td>
+    <td class="leftnav"><a href="index.asp?layout=contentTOC&amp;pubdate=6/1/2003" class="leftnav">Current Issue</a></td>
   </tr>
 <tr> 
     <td class="leftnav" valign="top" width="7"><img src="contents/images/ECNtri.gif" width="8" height="14"></td>
@@ -322,6 +356,7 @@ document.write ("");
   </tr>
 </tbody></table>
 
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
     <td class="leftnavhilite" height="1"><img src="contents/images/pixel.gif" width="1" height="1"></td>
@@ -348,6 +383,16 @@ Sign up today for our free e-mail newsletters.<br><br>
 
 </td></tr></tbody></table>
 
+
+<br><div align="center">
+<iframe src="http://ad.doubleclick.net/adi/ecn.rbi/;type=halfsky;pos=3;sz=120x240;ord=1056726275?" name="halfsky3" width="120" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ecn.rbi/;abr=!ie;type=halfsky;pos=3;sz=120x240;ord=1056726275?">
+</script>
+<noscript>
+<a href="http://ad.doubleclick.net/jump/ecn.rbi/;abr=!ie;type=halfsky;pos=3;sz=120x240;ord=1056726275?">
+<img src="http://ad.doubleclick.net/ad/ecn.rbi/;abr=!ie;type=halfsky;pos=3;sz=120x240;ord=1056726275?" border=0 width="120" height="240"></A>
+</noscript>
+</iframe><br><br></div>
 <br><img src="contents/images/pixel.gif" width="132" height="1"><br></td>
     <td valign="top" width="10" bgcolor="#ffffff"><img src="contents/images/pixel.gif" width="10" height="10"></td>
     <td valign="top" width="100%" bgcolor="#ffffff"><img src="contents/images/pixel.gif" width="1" height="10"><br><table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td class="centernavhead" height="24" width="100%">&nbsp;Privacy Policy</td></tr></tbody></table>
@@ -676,54 +721,51 @@ Reed Business Information<br>
 New York, NY<span style="mso-spacerun: yes">&nbsp; </span>10010<br>
 </i></span><i style="mso-bidi-font-style: normal"><span style="mso-bidi-font-family: Times New Roman">Email: <a href="mailto:privacymanager@reedbusiness.com">privacymanager@reedbusiness.com</a>
 </span></i></p></span><br><br>
-<span class="copy">© 2002, Reed Business Information, a division of Reed Elsevier Inc.  All Rights Reserved.</span><br><img src="contents/images/pixel.gif" width="458" height="1"></td>
+<!--
+<span class="copy">© 2002, Reed Business Information, a division of Reed Elsevier Inc.  All Rights Reserved.</span>
+-->
+<span class="copy">© 2003, Reed Business Information, a division of Reed Elsevier Inc. All Rights Reserved.</span><br><img src="contents/images/pixel.gif" width="458" height="1"></td>
     <td valign="top" width="10" bgcolor="#ffffff"><img src="contents/images/pixel.gif" width="10" height="10"></td>
     <td width="150" valign="top" class="rightnav" bgcolor="#ffffff">
-<table width="100%" border="0" cellspacing="0" cellpadding="3">
-<tbody><tr> 
-  <td align="center"><a href="jumplink.asp?target=http://pages.ebay.com/catindex/catelectroniccomps.html&amp;sponsor=ebay&amp;loc=ECN_ad" class="byline"><img src="contents/images/einsite_88x31.gif&#10;" border="0"></a></td>
-</tr>
-</tbody></table>
-
 <br>
 <!--.-->
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
 <td valign="top" align="center">
 
-<iframe src="http://ad.doubleclick.net/adi/ecn.rbi/;type=cegbutton;pos=2;lay=siteContent;desc=CA197749;sz=125x125;ord=37605241479178752?" name="ad2" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ecn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=siteContent;desc=CA197749;sz=125x125;ord=37605241479178752?">
+<iframe src="http://ad.doubleclick.net/adi/ecn.rbi/;type=cegbutton;pos=3;lay=siteContent;desc=CA197749;sz=125x125;ord=37799351567212544?" name="ad3" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ecn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=siteContent;desc=CA197749;sz=125x125;ord=37799351567212544?">
 </script>
 <noscript>
-<a href="http://ad.doubleclick.net/jump/ecn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=siteContent;desc=CA197749;sz=125x125;ord=37605241479178752?">
-<img src="http://ad.doubleclick.net/ad/ecn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=siteContent;desc=CA197749;sz=125x125;ord=37605241479178752?" border=0 width="125" height="125"></A>
+<a href="http://ad.doubleclick.net/jump/ecn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=siteContent;desc=CA197749;sz=125x125;ord=37799351567212544?">
+<img src="http://ad.doubleclick.net/ad/ecn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=siteContent;desc=CA197749;sz=125x125;ord=37799351567212544?" border=0 width="125" height="125"></A>
 </noscript>
-</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/ecn.rbi/;type=cegbutton;pos=1;lay=siteContent;desc=CA197749;sz=125x125;ord=37605242102706944?" name="ad1" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ecn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=siteContent;desc=CA197749;sz=125x125;ord=37605242102706944?">
+</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/ecn.rbi/;type=cegbutton;pos=2;lay=siteContent;desc=CA197749;sz=125x125;ord=37799354164769024?" name="ad2" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ecn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=siteContent;desc=CA197749;sz=125x125;ord=37799354164769024?">
 </script>
 <noscript>
-<a href="http://ad.doubleclick.net/jump/ecn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=siteContent;desc=CA197749;sz=125x125;ord=37605242102706944?">
-<img src="http://ad.doubleclick.net/ad/ecn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=siteContent;desc=CA197749;sz=125x125;ord=37605242102706944?" border=0 width="125" height="125"></A>
+<a href="http://ad.doubleclick.net/jump/ecn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=siteContent;desc=CA197749;sz=125x125;ord=37799354164769024?">
+<img src="http://ad.doubleclick.net/ad/ecn.rbi/;abr=!ie;type=cegbutton;pos=2;lay=siteContent;desc=CA197749;sz=125x125;ord=37799354164769024?" border=0 width="125" height="125"></A>
 </noscript>
-</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/ecn.rbi/;type=cegbutton;pos=4;lay=siteContent;desc=CA197749;sz=125x125;ord=37605242230567936?" name="ad4" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ecn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=siteContent;desc=CA197749;sz=125x125;ord=37605242230567936?">
+</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/ecn.rbi/;type=cegbutton;pos=4;lay=siteContent;desc=CA197749;sz=125x125;ord=3779935769947392?" name="ad4" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ecn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=siteContent;desc=CA197749;sz=125x125;ord=3779935769947392?">
 </script>
 <noscript>
-<a href="http://ad.doubleclick.net/jump/ecn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=siteContent;desc=CA197749;sz=125x125;ord=37605242230567936?">
-<img src="http://ad.doubleclick.net/ad/ecn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=siteContent;desc=CA197749;sz=125x125;ord=37605242230567936?" border=0 width="125" height="125"></A>
+<a href="http://ad.doubleclick.net/jump/ecn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=siteContent;desc=CA197749;sz=125x125;ord=3779935769947392?">
+<img src="http://ad.doubleclick.net/ad/ecn.rbi/;abr=!ie;type=cegbutton;pos=4;lay=siteContent;desc=CA197749;sz=125x125;ord=3779935769947392?" border=0 width="125" height="125"></A>
 </noscript>
-</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/ecn.rbi/;type=cegbutton;pos=3;lay=siteContent;desc=CA197749;sz=125x125;ord=3760524533157120?" name="ad3" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
-<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ecn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=siteContent;desc=CA197749;sz=125x125;ord=3760524533157120?">
+</iframe><br><br><iframe src="http://ad.doubleclick.net/adi/ecn.rbi/;type=cegbutton;pos=1;lay=siteContent;desc=CA197749;sz=125x125;ord=3779935815823360?" name="ad1" width="125" height="125" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no">
+<script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/ecn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=siteContent;desc=CA197749;sz=125x125;ord=3779935815823360?">
 </script>
 <noscript>
-<a href="http://ad.doubleclick.net/jump/ecn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=siteContent;desc=CA197749;sz=125x125;ord=3760524533157120?">
-<img src="http://ad.doubleclick.net/ad/ecn.rbi/;abr=!ie;type=cegbutton;pos=3;lay=siteContent;desc=CA197749;sz=125x125;ord=3760524533157120?" border=0 width="125" height="125"></A>
+<a href="http://ad.doubleclick.net/jump/ecn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=siteContent;desc=CA197749;sz=125x125;ord=3779935815823360?">
+<img src="http://ad.doubleclick.net/ad/ecn.rbi/;abr=!ie;type=cegbutton;pos=1;lay=siteContent;desc=CA197749;sz=125x125;ord=3779935815823360?" border=0 width="125" height="125"></A>
 </noscript>
 </iframe><br><br></td></tr></tbody></table>
 <table width="100%" border="0" cellspacing="0" cellpadding="3">
 <tbody><tr> 
   <td align="center">
-     <a href="http://www.reed4success.com/default.asp?magid=124&amp;promocode=WBA01EB4"><img src="http://a330.g.akamai.net/7/330/2540/ac801957db33a9/www.e-insite.net/contents/images/ecnbutton.jpg" width="120" height="60" border="0"></a>
+     <a href="jumplink.asp?target=http%3A//www.reed4success.com/default.asp%3Fmagid%3D124%26promocode%3DWBA01EB4&amp;sponsor=r4s+ECN&amp;loc=buttonrightnav&amp;layout=siteContent"><img src="contents/images/ecnbutton.jpg" width="120" height="60" border="0"></a>
      
 </td>
 </tr>
@@ -735,13 +777,15 @@ New York, NY<span style="mso-spacerun: yes">&nbsp; </span>10010<br>
 <tbody><tr align="center"> 
 <td class="topnav" height="20"><a href="index.asp?layout=siteContent&amp;articleid=CA197736" class="topnav">
 ECN Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="index.asp?layout=siteContent&amp;articleid=CA197747" class="topnav">Contact ECN</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.e-insite.net/ecnmag/subscribe.asp" class="topnav">Newsletter Registration</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="index.asp?layout=siteContent&amp;articleid=CA197747" class="topnav">Contact ECN</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="http://www.e-insite.net/ecnmag/subscribe.asp" class="topnav">Newsletter Registration</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="index.asp?layout=siteContent&amp;articleid=CA197750" class="topnav">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="index.asp?layout=siteContent&amp;articleid=CA197749" class="topnav">Privacy Statement</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="http://www.reed4success.com/default.asp?magid=124&amp;promocode=WBA01EB4" class="topnav">Free Subscription</a></td></tr></tbody></table>
+<a href="jumplink.asp?target=http%3A//www.reed4success.com/default.asp%3Fmagid%3D124%26promocode%3DWBA01EB4&amp;sponsor=r4s+ECN&amp;loc=textbottomnav&amp;layout=siteContent" class="topnav">Free Subscription</a></td></tr></tbody></table>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr align="center"> 
-<td align="middle" class="footer"><br>Copyright ©&nbsp;2002&nbsp;<a href="http://www.reedbusiness.com/" class="footer">Reed Business Information</a><br>
+<td align="middle" class="footer"><br>Copyright ©&nbsp;2003&nbsp;<a href="http://www.reedbusiness.com/" class="footer">Reed Business Information</a><br>
 A Division of <a href="http://www.reed-elsevier.com" class="footer">Reed Elsevier, Inc.</a>
 <br><br></td></tr></tbody></table></td>
   </tr>
