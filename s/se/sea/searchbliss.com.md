@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208214001id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchbliss.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601122538id_/http%3A//www.searchbliss.com/privacy.htm) for the most accurate reproduction.*
 
 # SearchBliss Privacy Policies
 
@@ -15,7 +15,7 @@ SearchBliss collects information submitted to us through forms and emails associ
 
 **Use of "cookies** " 
 
-A cookie is a small piece of data that is sent to your browser and stored on your computer's hard drive. A cookie can NOT read data off your hard disk or read other cookie files created by other web sites. Cookies are harmless to your computer, however, SearchBliss does NOT use "cookies" because we feel it is not proper practice to load information into your computer that you may not be aware of. 
+A cookie is a small piece of data that is sent to your browser and stored on your computer's hard drive. A cookie can NOT read data off your hard disk or read other cookie files created by other web sites. Cookies are harmless to your computer, however, SearchBliss uses only TWO "cookies". One in order to prevent the "Please Rate SearchBliss" window from poping up on our home page every time you visit SearchBliss. Two, for our [affiliate program](http://www.searchbliss.com/affiliates.asp) in order to keep track of sales and stats. We use NO other "cookies" because we feel it is not proper practice to load information into your computer that you may not be aware of. 
 
 **Opt-in email list**
 
@@ -23,6 +23,6 @@ SearchBliss utilizes Microsoft's bCentral Network for it's opt-in emailing list.
 
 **Links to other web sites**
 
-SearchBliss may contain hyperlinks and advertisements linked to other Web sites. SearchBliss is NOT responsible for the privacy practices or the content of such web sites or advertisers. We encourage you to check with those sites to determine their privacy policy. 
+SearchBliss contains many hyperlinks and advertisements linked to other Web sites. SearchBliss is NOT responsible for the privacy practices or the content of such web sites or advertisers. We encourage you to check with those sites to determine their privacy policy. Please read our [add url](http://www.searchbliss.com/advertising_agreement.htm) agreement for additional information. 
 
 Please send any questions about SearchBliss' Privacy Policy to: [policies@searchbliss.com](mailto:policies@searchbliss.com)
