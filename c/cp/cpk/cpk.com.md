@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpk.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121132730id_/http%3A//cpk.com/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpk.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607030439id_/http%3A//www.cpk.com/privacy/index.cfm) for the most accurate reproduction.*
 
 # California Pizza Kitchen
 
@@ -6,7 +6,7 @@
 
 California Pizza Kitchen, Inc. ("CPK") is committed to treating the personal and corporate information of our users with respect and sensitivity. Our privacy commitment is described in this Privacy Policy. As our services evolve and we perceive the need or desirability of using information collected in other ways, we may from time to time amend this Privacy Policy. Please check back here periodically or contact us at the address listed at the end of this Policy.
 
-This Policy is part of our Terms of Use Agreement. Please click [here](https://web.archive.org/web/20031121132730id_/http%3A//cpk.com/terms/index.cfm) to see that Agreement.
+This Policy is part of our Terms of Use Agreement. Please click [here](https://web.archive.org/web/20040607030439id_/http%3A//www.cpk.com/terms/index.cfm) to see that Agreement.
 
 **General Information**
 
@@ -32,7 +32,7 @@ A parent or guardian of a Minor may at any time review the child's personal info
 
 If a Minor who is not registered on our Site contacts CPK through an email, we will respond to that email on a one-time basis without obtaining parental consent and we will then delete the email address. We will not use that email address to contact the Minor thereafter. Our Site does not provide email services, chat rooms or message boards.
 
-This site is owned and operated by California Kitchen. A limited number of people at CPK collect or maintain the PII of Minors. Parents or guardians may contact California Pizza Kitchen, 6053 West Century Blvd. #1100, 310-342-5000 with questions about our privacy policy, or [click here](https://web.archive.org/web/20031121132730id_/http%3A//cpk.com/contact/index.cfm) to contact us.
+This site is owned and operated by California Kitchen. A limited number of people at CPK collect or maintain the PII of Minors. Parents or guardians may contact California Pizza Kitchen, 6053 West Century Blvd. #1100, 310-342-5000 with questions about our privacy policy, or [click here](https://web.archive.org/web/20040607030439id_/http%3A//www.cpk.com/contact/index.cfm) to contact us.
 
 **Cookies**
 
@@ -56,4 +56,4 @@ This site is owned and operated by California Kitchen. A limited number of peopl
 
 **Contacting Us**
 
-If you have any questions or suggestions with respect to this policy, or if you wish to ask us to delete, correct, or show you your information as provided above, please go to [Contact Us](https://web.archive.org/web/20031121132730id_/http%3A//cpk.com/contact/index.cfm).
+If you have any questions or suggestions with respect to this policy, or if you wish to ask us to delete, correct, or show you your information as provided above, please go to [Contact Us](https://web.archive.org/web/20040607030439id_/http%3A//www.cpk.com/contact/index.cfm).
