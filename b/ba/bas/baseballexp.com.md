@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballexp.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029113512id_/http%3A//baseballexp.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballexp.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602213012id_/http%3A//www.baseballexp.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Baseball Express - Privacy Policy - (800) WE-PITCH
 
