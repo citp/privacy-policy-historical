@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metwashairports.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609183614id_/http%3A//www.metwashairports.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metwashairports.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211192109id_/http%3A//www.metwashairports.com/privacy.htm) for the most accurate reproduction.*
 
 # Metropolitan Washington Airports Authority Privacy Statement and Website Policy for www.mwaa.com
 
@@ -33,7 +33,7 @@ If you do nothing during your visit but browse through the web site, read pages,
 
 
 
-We use this information to help us make our site more useful to visitors, to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits. We do not enable "cookies." (A "cookie" is a file placed on your hard drive by a web site that allows it to monitor your use of the site.)
+We use this information to help us make our site more useful to visitors, to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals and their visits. We do not utilize "cookies" (A "cookie" is a file placed on your hard drive by a web site that allows it to monitor your use of the site.) except for short duration cookies that enable us to limit the repetition of informational "pop up" windows that may appear while visiting sections of our site. 
 
 **If You Send Us Personal Information**
 
@@ -55,20 +55,19 @@ All photographs contained on this web site are protected by United States copyri
 
 Send questions or requests for permission to:
 
-Webmaster  
+[Webmaster](https://web.archive.org/web/20021211192109id_/http%3A//www.metwashairports.com/email/webmaster.htm)  
 MWAA MA-610  
 1 Aviation Circle  
-Washington, DC 20001-6000  
-[webmaster@mwaa.com ](mailto:webmaster@mwaa.com%20)
+Washington, DC 20001-6000
 
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
-Webmaster  
+[Webmaster](https://web.archive.org/web/20021211192109id_/http%3A//www.metwashairports.com/email/webmaster.htm)  
 MWAA MA-610  
 1 Aviation Circle  
 Washington, DC 20001-6000  
-[webmaster@mwaa.com](mailto:webmaster@mwaa.com)
+
 
 | 
