@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622082622id_/http%3A//www.bna.com/corp/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bna.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210094648id_/http%3A//www.bna.com/corp/privacy.htm) for the most accurate reproduction.*
 
 # BNA - Internet Privacy Policy
 
-|  |  |   
+|  |   
 ---|---  
   
 [](http://www.bna.com/new/index.html)  
@@ -23,7 +23,7 @@
 > | 
 > 
 >   
->  [Home](https://web.archive.org/web/20040622082622id_/http%3A//www.bna.com/index.html) > Internet Privacy Policy
+>  [Home](https://web.archive.org/web/20041210094648id_/http%3A//www.bna.com/index.html) > Internet Privacy Policy
 > 
 > | 
 > 
@@ -166,11 +166,4 @@
 >     * The terms " _we_ ," " _us_ ," and other similar terms shall be deemed to refer to BNA, as appropriate.
 >     * The terms " _you_ ," " _your_ ," and other similar terms shall be deemed to refer to Customer and all individual Users, as appropriate. 
 > 
-  
-  
-|   
----  
-  
-Contact Customer Relations at [customercare@bna.com](mailto:customercare@bna.com)   
-Contact the Webmaster at [webmaster@bna.com](mailto:webmaster@bna.com)   
-1231 25th St. NW Washington DC 20037 - Phone: 1-800-372-1033 
+
