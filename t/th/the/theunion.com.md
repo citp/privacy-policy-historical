@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the theunion.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406221314id_/http%3A//theunion.com/TheUnion/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theunion.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204204104id_/http%3A//theunion.com/TheUnion/privacy.html) for the most accurate reproduction.*
 
 # TheUnion.com Privacy Policy
 
-[](https://web.archive.org/web/20010406221314id_/http%3A//theunion.com/TheUnion/news/newsdate.html) [](https://web.archive.org/web/20010406221314id_/http%3A//theunion.com/TheUnion/sports/sportsdate.html) [](https://web.archive.org/web/20010406221314id_/http%3A//theunion.com/TheUnion/opinions/opinionsdate.html) [](https://web.archive.org/web/20010406221314id_/http%3A//theunion.com/TheUnion/classifieds/index.html)
+[](https://web.archive.org/web/20011204204104id_/http%3A//theunion.com/TheUnion/news/newsdate.html) [](https://web.archive.org/web/20011204204104id_/http%3A//theunion.com/TheUnion/sports/sportsdate.html) [](https://web.archive.org/web/20011204204104id_/http%3A//theunion.com/opinions/opinionsdate.html) [](https://web.archive.org/web/20011204204104id_/http%3A//theunion.com/TheUnion/classifieds/index.html)
 
 * * *
 
@@ -72,7 +72,7 @@
 > 
 > * * *
 > 
-> [](https://web.archive.org/web/20010406221314id_/http%3A//theunion.com/TheUnion/news/newsdate.html) [](https://web.archive.org/web/20010406221314id_/http%3A//theunion.com/TheUnion/sports/sportsdate.html) [](https://web.archive.org/web/20010406221314id_/http%3A//theunion.com/TheUnion/opinions/opinionsdate.html) [](https://web.archive.org/web/20010406221314id_/http%3A//theunion.com/TheUnion/classifieds/index.html)
+> [](https://web.archive.org/web/20011204204104id_/http%3A//theunion.com/TheUnion/news/newsdate.html) [](https://web.archive.org/web/20011204204104id_/http%3A//theunion.com/TheUnion/sports/sportsdate.html) [](https://web.archive.org/web/20011204204104id_/http%3A//theunion.com/TheUnion/opinions/opinionsdate.html) [](https://web.archive.org/web/20011204204104id_/http%3A//theunion.com/TheUnion/classifieds/index.html)
 > 
 > * * *
 > 
