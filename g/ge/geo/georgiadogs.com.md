@@ -1,86 +1,89 @@
-> *The following text is extracted and transformed from the georgiadogs.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212082100id_/http%3A//www.georgiadogs.com/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgiadogs.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214081939id_/http%3A//georgiadogs.fansonly.com/privacypolicy.shtml) for the most accurate reproduction.*
 
-# The University of Georgia Athletic Association
+# Georgiadogs.com Privacy Policy
 
 **PRIVACY POLICY**
 
-Georgiadogs.com is a website operated by [Enlighten Sports Inc.](http://enlightensports.com/) (ESI) on behalf of the University of Georgia Athletic Association.
+[www.fansonly.com](http://www.fansonly.com/)
 
-The Internet is an incomparable resource for information, that, now more than ever before, has become an integral part of daily life.  However, it is also a means of collecting personal details about you that you may not want to be made public – home address, phone numbers, e-mail addresses, to name a few. Some websites may be gathering this and other information about you without you even knowing about it.
+FANSonly has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.fansonly.com and the network of websites making up the FANSonly network.
 
-ESI and its clients strive to make your Web surfing as private and secure as possible so that you can have a positive online experience that provides you with all the information you could ever dream of. So, although we do collect user data at times, we want to help ensure that it remains private and secure.
+### Use of Your IP Address
 
-**Your Privacy**
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
-ESI promises that it will not disclose your personal information to third parties except for trusted third parties with whom we have contracts; and even then, the purpose of the disclosure will be only to help us improve this and other ESI websites and to report about general usage. The information we collect is used for internal review to improve the content of our Web site and to better serve our users. If we choose to disclose personal information, it will be with trustworthy third parties who have been contracted to work with ESI. In such a case, it will be for the sole purpose of providing aggregate statistics about our customers, sales, traffic patterns and related site information. These statistics will remain anonymous with no personal identifying information. ESI or the University of Georgia Athletic Association may release account information when we believe, in good faith, that such release is reasonably necessary to:
+### Cookies
 
-  1. comply with law, 
-  2. enforce or apply the terms of any of our user agreements, or 
-  3. protect the rights, property or safety the website, its users or others.
+Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
 
+We may sometimes use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies.
 
+### Site Registration
 
-At ESI, we are committed to protecting your privacy. We use the information we collect about you to process orders and to gauge customer satisfaction in order to better serve your wants and needs:
+Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers, and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers are collected to verify the user's identity, for use as account numbers in our record system, and for other purposes. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
 
-… When you order from our e-commerce stores, we need to know your name, e-mail address, mailing address, phone number, credit card number and expiration date. This allows us to process your order and ship it as quickly as possible.
+### Links to Sites Outside the FANSonly Network
 
-… When you enter a contest or participate in other promotional features on Georgiadogs.com, we may ask for your name, phone number, address, e-mail address or additional demographic information so we can administer the contest and notify winners.
+This site contains links to other sites outside of the FANSonly network. www.fansonly.com is not responsible for the privacy practices or the content of such Web sites.
 
-… We may also use the information we collect from you upon purchase and/or entry to conduct market research surveys. This way, ESI can be sure to provide the service and merchandise that our fans are looking for.
+### Customer Order Information
 
-**Use of IP Address**
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers, financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
 
-An IP address is a number that is automatically assigned to your computer whenever you are surfing the Web. Web servers automatically identify your computer by this number.
+### Surveys and Questionnaires
 
-ESI and its sites collect IP addresses for the purposes of system administration, reporting aggregate information to our advertisers, and auditing the use of our site. When guests request pages from these sites, our servers log the guests' IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us. We can and will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or terms of service, or to protect our service, site, customers or others.
+Our online surveys ask visitors for contact information (like their email address), unique identifiers, and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
 
-**Use of Cookies**
+### Contests and Games
 
-The use of cookies is an industry standard -- you'll find them at most major Web sites.
+We run contests on our site in which we ask visitors for contact information (like their email address), unique identifiers, and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
 
-Cookies are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. Cookies make Web-surfing easier for you by saving your preferences while you're at our site. We never save passwords or credit card information in cookies.
+### Public Forums
 
-We use the information from cookies to provide services better tailored to our users needs.  By showing how and when guests use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies.
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-ESI has two primary uses for its cookies. First, we use them to specify unique preferences. For example, our Web sites often include form entries. When entering a contest or sweepstakes, users enter several pieces of personal information. On a subsequent visit, this information may be used to automatically fill in portions of the form, thus saving the user from having to re-enter this information. Secondly, we use cookies to track user trends and patterns. This helps us better understand and improve areas of our Web site services that our users find valuable.
+### Supplementation Information
 
-**Disabling Cookies**
+This site supplements the information that you provide with information that is received from third parties.
 
-Visitors to ESI’s  websites always have the option of disabling cookies by simply turning off their browser’s functions that accommodate cookies. Most browsers are initially set up to accept cookies. You can, however, reset your browser to refuse all cookies or indicate when a cookie is being sent. 
+### Children's Guidelines
 
-\-- To disable cookies in Netscape 4.7, for example, simply go to “Preferences” under the “Edit” drop-menu. Select the “Advanced” option and select “Disable cookies.” Click “OK.”
+FANSonly will:
 
-\-- To disable cookies for Internet Explorer 5, for example, go to “Internet Options” under the “Tools” drop-menu. Select “Internet” within the “Security” tab and click on “Custom Level.” Select “disable” for both stored and per-session cookies. Click “OK.”
+1\. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent  
+2\. NOT collect personally identifiable offline contact information without prior parental consent  
+3\. NOT distribute to third parties any personally identifiable information with out prior parental consent  
+4\. NOT give the ability to publicly post or otherwise distribute personally identifiable contact information without prior parental consent  
+5\. NOT entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity
 
-If you opt to disable cookies, note that some parts of the ESI network may not function properly or may be considerably slower. For example, without cookies, you will not be able to set personalized news preferences, and it may take longer completing shopping transactions or entering contests.
+### Choice/Opt-Out
 
-You may occasionally get cookies from our advertisers. The use of advertising cookies sent by third-party servers is standard in the Internet industry. ESI does not control these cookies.
+Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-**Links to Other Sites**
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-Users should be aware that when they are on an ESI website, there will be opportunities to click on links that take them off of the ESI website. These links may be in the form of banner ads, for example, that take the user to that advertiser’s Web site. These sites are beyond our control, and may or may not subscribe to the same privacy and security statements as ESI and its affiliated athletic departments and organizations. These other sites may send their own cookies to users, collect data or solicit personal information.
+1\. You can send email to [webmaster@fansonly.com](mailto:webmaster@fansonly.com)  
+2\. You can send mail to the following postal address:  
+2035 Corte del Nogal, Suite 105, Carlsbad, CA 92009
 
-**Security**
+### Correct/Update
 
-The importance of security for all personally identifiable information associated with our guests is of utmost concern to us. We exercise great care in providing secure transmission of your information from your computer to our servers. Once we receive your transmission, we use our best efforts to ensure its security on our systems. When credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption. ESI will never ask you for your password in an unsolicited phone call or email.
+This site gives users the following options for changing and modifying information previously provided.
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, other than as specifically set forth below, ESI cannot ensure or warrant the security of any information you transmit to us, or the security of information we or our affiliates transmit to you.  You therefore send and receive information to and from ESI or Georgiadogs.com at your own risk.
+1\. You can send email to [webmaster@fansonly.com](mailto:webmaster@fansonly.com)  
+2\. You can send mail to the following postal address:  
+2035 Corte del Nogal, Suite 105, Carlsbad, CA 92009
 
-Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information.
+### Contacting the Web Site
 
-**Your Online Purchasing Security**
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-We guarantee a secure shopping experience. We protect you while you shop for your favorite Georgiadogs.com merchandise, so you never have to worry about online credit card safety. We guarantee that every transaction you make at Georgiadogs.com will be risk-free. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at Georgiadogs.com.
+Webmaster  
+FANSonly  
+2035 Corte del Nogal  
+Suite 200  
+Carlsbad, CA 92009  
+[webmaster@fansonly.com](mailto:webmaster@fansonly.com)
 
-**Guarantees**
-
-Under the federal law, your credit card issuer cannot hold you liable for more than $50.00 of fraudulent charges. If your credit card issuer does hold you liable for up to $50.00, ESI will cover the entire liability for you, up to the full $50.00. ESI will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made on Georgiadogs.com while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
-
-**Your Consent**
-
-By using our Web site, you consent to the collection and use of this information by ESI as previously explained. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
-
-__07/05/00__
-
-Copyright © 2000 University of Georgia Athletic Association.   
+Copyright © 2001 University of Georgia Athletic Association.   
 All rights reserved. [Privacy Policy](https://web.archive.org/privacypolicy.shtml)
