@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapon.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205184608id_/http%3A//www.snapon.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapon.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412195436id_/http%3A//snapon.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Practices Statement
 
