@@ -1,29 +1,30 @@
-> *The following text is extracted and transformed from the greatis.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatis.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Greatis Software
 
-**[Hot News](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/news.htm)  
-[Products](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/index.html)  
-[Downloads](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/download.htm)  
-[Ordering](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/buy.htm)  
-[Projects](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/projects.htm)  
-[Outsourcing](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/outsourcing.htm)  
-[Search](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/search.htm)  
-[Support](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/support.htm)  
-[Contacts](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/contact.htm)  
-[Partners](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/partners.htm)**
+**[Hot News](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/news.htm)  
+[Products](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/index.html)  
+[Downloads](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/download.htm)  
+[Ordering](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/buy.htm)  
+[Projects](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/projects.htm)  
+[Outsourcing](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/outsourcing.htm)  
+[Search](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/search.htm)  
+[Support](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/support.htm)  
+[Contacts](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/contact.htm)  
+[Partners](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/partners.htm)**
 
  **** **Newest:**  
-[RegRun 3](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/regrun3.htm)  
-[DesktopKeeper](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/desktopkeeper.htm)  
-[Runtime Fusion](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/runtime.htm)  
+[RegRun 3](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/regrun3.htm)  
+[DesktopKeeper](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/desktopkeeper.htm)  
+[Greatis Toys](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/toys.htm)  
+[Runtime Fusion](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/runtime.htm)  
 
 
 * * *
 
 | 
 
-**This statement describes the privacy practices we use for our website, transaction of information via E-mail and distribution of our customer list. We reserve the right to change this policy at any time. If you have any questions about our privacy practices, please feel free to[contact us](https://web.archive.org/web/20031205041731id_/http%3A//greatis.com/contact.htm). **
+**This statement describes the privacy practices we use for our website, transaction of information via E-mail and distribution of our customer list. We reserve the right to change this policy at any time. If you have any questions about our privacy practices, please feel free to[contact us](https://web.archive.org/web/20040610143213id_/http%3A//www.greatis.com/contact.htm). **
 
 **In General**  
 In cases where we do keep information about visitors to our site and the E-mail addresses of people who write to us, we store it in our off-line secure computing environment, not on the web. We store this information, but we DON'T sell it or release it to third parties.
