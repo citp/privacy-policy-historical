@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209030441id_/http%3A//www.macys.com/service/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401221343id_/http%3A//www.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.*
 
 # macys.com - Privacy Policy
 
