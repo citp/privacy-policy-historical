@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestwebbuys.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619051334id_/http%3A//www.bestwebbuys.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestwebbuys.com privacy policy that was archived on 2000-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001119121400id_/http%3A//www.bestwebbuys.com/privacy.html) for the most accurate reproduction.*
 
 # Best Web Buys Privacy Policy
 
@@ -61,3 +61,5 @@ If you have any questions about this privacy statement, the practices of this si
 >  Altadena, CA 91001  
 >  [webmaster@bestwebbuys.com](mailto:webmaster@bestwebbuys.com)  
 > 
+
+|  
