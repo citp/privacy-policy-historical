@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contactmusic.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017132549id_/http%3A//www.contactmusic.com/new/home.nsf/webpages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactmusic.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401181513id_/http%3A//www.contactmusic.com/new/home.nsf/webpages/privacy) for the most accurate reproduction.*
 
-# Contactmusic - dedicated to music - Free MP3's, Games, SMS, Chat and much more, all for free
+# Contactmusic - Dedicated to music, film and games
 
   
 1\. We collect your credit card information, address and billing information so we may process your order and charge your account for products that you purchase.
