@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404080330id_/http%3A//www.jpcycles.com/shop/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpcycles.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812081933id_/http%3A//www.jpcycles.com/shop/privacy.asp) for the most accurate reproduction.*
 
 # J&P Cycles, Keeping the World on 2 Wheels! - Your source for aftermarket Harley Davidson motorcycle parts and accessories.
 
-J&P Cycles collects the email addresses of those who communicate with us via email, the email addresses of those who make postings in our Rider Forum area and email address of those who choose to receive email from a catalog or merchandise request. Those who fill out a merchandise order or catalog request must opt to be added to the mailing list.
+J&P Cycles collects the email addresses of those who communicate with us via email, the email addresses of those who make postings in our Rider's Forum area and email address of those who choose to receive email from a catalog or merchandise request. Those who fill out a merchandise order or catalog request must opt to be added to the mailing list.
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, and used to notify consumers about updates to our Website. J&P Cycles will not sell your email address to another company, nor do we make our email database available to the public.
 
-If you do not want to receive email from us in the future, please let us know by sending an email, call us, or by writing to us using one of the methods below telling us that you do not want to receive email from J&P Cycles.
+We make portions of our customer lists available to carefully screened companies that offer products and services we believe you may enjoy. If you do not want to receive those offers and/or information, please let us know by contacting us.
 
 If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by providing us with your exact name and address. We will be sure your name is removed from the list.
 
