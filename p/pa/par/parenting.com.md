@@ -1,31 +1,20 @@
-> *The following text is extracted and transformed from the parenting.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601163806id_/http%3A//www.parenting.com/parenting/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parenting.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615190401id_/http%3A//cgi.timeinc.net/cgi-bin/magsubs/privacy/privacy_central.pl/parenting) for the most accurate reproduction.*
 
-# Parenting.com - Privacy Policy
+# Uniform Time Inc. Online Privacy Policy
 
-|   
----  
   
-[ ](https://web.archive.org/parenting/experts/index.html)  
-  
-[](http://www.parenting.com/parenting/tools/index.html)  
-  
-[](https://web.archive.org/parenting/community/index.html)  
-  
-[](https://web.archive.org/parenting/family_finance/index.html)  
-  
-[](https://web.archive.org/parenting/freestuff/index.html)  
-  
-[](https://web.archive.org/parenting/contests/index.html)  
-  
-  
-|   
+**
 
+_Time Inc. Online Privacy Notice_
 
-Time Inc. Online Privacy Notice
-
+**  
 Thank you for visiting Parenting.com, a Time Inc. site. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Inc. site. [Click here](http://www.timeinc.net/legal/titles.html) for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice.
 
-The Information We Collect
+**_Netscape Network Registered Users_**
+
+If you have registered with the Netscape Network, the [Netscape Network's Privacy Policy](http://about.netscape.com/networkprivacy/index.html) and [Registered User Agreement](http://about.netscape.com/networkterms/index.html) govern the information practices and terms and conditions of use that apply to you when you use the Netscape Network.
+
+**_The Information We Collect_**
 
 At some Time Inc. sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
 
@@ -35,7 +24,7 @@ At certain parts of some of our sites, only persons who provide us with the requ
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).
 
-How We Use the Information
+**_How We Use the Information_**
 
 We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.
 
@@ -51,17 +40,17 @@ We sometimes use the non-personally identifiable information that we collect to 
 
 We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request.
 
-Agents and contractors of Time Inc. who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc.
+Agents and contractors of Time Inc. who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc..
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
 
-If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please [click here](https://web.archive.org/web/20020601163806id_/http%3A//www.parenting.com/parenting/privacy2.html#1) and read section 1.
+If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. [click here](http://www.parenting.com/parenting/privacy2.html#1) and read section 1.
 
-Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](https://web.archive.org/web/20020601163806id_/http%3A//www.parenting.com/parenting/privacy2.html#2) and read section 2 for instructions on how to make your request.
+Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, [click here](http://www.parenting.com/parenting/privacy2.html#2) and read section 2 for instructions on how to make your request..
 
 Finally, Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.
 
-Collection of Information by Third-Party Sites, Advertisers and Sponsors
+**_Collection of Information by Third-Party Sites, Advertisers and Sponsors_**
 
 Some of our sites contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
@@ -69,7 +58,7 @@ Time Inc. sites sometimes may offer contests, sweepstakes, or promotions that ar
 
 Time Inc. sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. Our privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on this site's use of such third-parties, please [click here](http://www.timeinc.net/legal/parties.html).
 
-Cookies
+**_Cookies_**
 
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
@@ -77,39 +66,25 @@ We use cookies to understand site usage and to improve the content and offerings
 
 We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy.
 
-Our Commitment to Security
+**_Our Commitment to Security_**
 
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-How You can Access or Correct Information
+**_How You can Access or Correct Information_**
 
-For instructions on how you can access the personally identifiable information that this Time Inc. site has collected about you online, or how to correct factual errors in such information, [click here](https://web.archive.org/web/20020601163806id_/http%3A//www.parenting.com/parenting/privacy2.html#3) and read section 3.
+For instructions on how you can access the personally identifiable information that this Time Inc. site has collected about you online, or how to correct factual errors in such information, [click here](http://www.parenting.com/parenting/privacy2.html#3) and read section 3.
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
-Special Note for Parents
+**_Special Note for Parents_**
 
 The site you are visiting is one of the Time Inc. general audience sites. For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.
 
-How to Contact Us
+**_How to Contact Us_**
 
-If you have any questions or concerns about the Time Inc. online policy for this site or its implementation you may contact us at our [Feedback](https://web.archive.org/web/20020601163806id_/http%3A//www.parenting.com/parenting/feedback/index.html) page.
+If you have any questions or concerns about the Time Inc. online policy for this site or its implementation you may contact us at our [Feedback](http://www.parenting.com/parenting/feedback/index.html) page or at the following address:
 
-Birth Plan
-
-Information you submit in response to the questions in the [Birth Plan](https://web.archive.org/web/20020601163806id_/http%3A//www.parenting.com/parenting/secure/my_pregnancy/index.html) about your preferences for labor and delivery is not stored or retained by Parenting.com in any manner, nor is the name of the hospital or birthing center where you plan to deliver.
-
-However, the following information you submit _will_ be retained by Parenting.com and used for internal purposes as described in the Parenting.com Privacy Policy:
-
-  * Your name
-  * Your partner's name
-  * Your labor coach's or doula's name
-  * The names and phone numbers of those you would like present during your labor and delivery
-  * Your due date
-
-
-
-This information, however, will not be transferred to any third party.   
-
-
-|    | 
+Time Customer Service  
+Attention: Consumer Affairs  
+3000 University Center Drive  
+Tampa, Florida 33612-6408 
