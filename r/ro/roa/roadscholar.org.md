@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212102915id_/http%3A//www.roadscholar.org/general-info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405172633id_/http%3A//www.roadscholar.org/general-info/privacy.asp) for the most accurate reproduction.*
 
 # www.RoadScholar.org : Privacy Policy
 
@@ -10,4 +10,4 @@ We use cookies to help with our program registration process, storing informatio
 
 Road Scholar does not use any information collected from visitors for anything other than Road Scholar business and Road Scholar does not give, sell or trade any information we collect on our site with any non-Road Scholar entity. If you feel that this site is not following its stated information policy, you may contact us at the following addresses or phone number. 
 
-We can be reached via email at [website@roadscholar.org](mailto:website@roadscholar.org), by mail at: 11 Avenue de Lafayette Boston, MA 02111-1746, or by phone, toll-free, at 1-800-466-7762, Monday through Friday, 9 a.m. to 9 p.m. Eastern Time.
+We can be reached via email at [website@roadscholar.org](mailto:website@roadscholar.org), by mail at: 11 Avenue de Lafayette Boston, MA 02111-1746, or by phone, toll-free, at 1-800-466-7762, Monday through Friday, 9 a.m. to 6 p.m. Eastern Time.
