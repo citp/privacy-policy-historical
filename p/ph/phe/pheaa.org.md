@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2002-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020127035949id_/http%3A//www.pheaa.org/Pages/Privacy_Policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pheaa.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205191756id_/http%3A//www.pheaa.org/Pages/Privacy_Policy.shtml) for the most accurate reproduction.*
 
 # PHEAA - Privacy Policy
 
@@ -81,7 +81,7 @@ Please note that while using PHEAA's websites, users will be notified when enter
 
 For security purposes, PHEAA uses special software programs to monitor traffic on its websites and to identify unauthorized attempts to upload or change information, or otherwise to cause damage to PHEAA's websites. These programs do not collect personally identifying information about you but they do collect information that will enable PHEAA to identify someone attempting to tamper with its websites. PHEAA has a zero tolerance policy for the misuse, misappropriation, unauthorized access, tampering, damage, destruction, or unlawful utilization of its websites and computer systems and will seek the maximum enforcement of state, federal, and international criminal laws against any individual engaging in such activity. Additionally, PHEAA will seek the maximum amount of civil damages available under the law in such instances of the unauthorized misuse of its websites and computer systems. 
 
-Please note that when a user sends electronic mail messages (e-mail) to PHEAA, AES, AES SLSC, or AES GLC, the user's message will usually contain the user's return email address. Thus, PHEAA may utilize a user's e-mail address in responding to a user's inquiry and the content of the user's e-mail in formulating a response. PHEAA will permanently record and store any substantive e-mail received from users. E-mail is not a secure means of transmitting information. 
+Please note that when a user sends electronic mail messages (e-mail) to PHEAA, AES, AES Loan Servicing, or AES Graduate Services, the user's message will usually contain the user's return email address. Thus, PHEAA may utilize a user's e-mail address in responding to a user's inquiry and the content of the user's e-mail in formulating a response. PHEAA will permanently record and store any substantive e-mail received from users. E-mail is not a secure means of transmitting information. 
 
 top
 
@@ -116,7 +116,7 @@ top
 
 * * *
 
-1 \- For the purposes of PHEAA's Website Privacy Policy, any reference to PHEAA includes PHEAA and all of its divisions including but not limited to: American Education Services (AES), AES Student Loan Servicing Center (AES SLSC) and the AES GraduateLoan CenterSM(AES GLC). 
+1 \- For the purposes of PHEAA's Website Privacy Policy, any reference to PHEAA includes PHEAA and all of its divisions including but not limited to: American Education Services (AES), AES Loan Servicing and AES Graduate Services. 
 
 2 \- PHEAA is a guarantor, servicer, lender, and secondary market of student loans as well as the state agency responsible for administering the Pennsylvania State Higher Educational Assistance Grant Program and various other state and federal higher education financial aid programs. As such, PHEAA has very different relationships with the users of its websites. It is important to note that PHEAA may be required, dependent upon its relationship with website users, to share information about the users with authorized third parties. 
 
