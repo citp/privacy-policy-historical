@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602191446id_/http%3A//gapadventures.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapadventures.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012175418id_/http%3A//www.gapadventures.com/privacypolicy) for the most accurate reproduction.*
 
 # GAP Adventures - World Wide Adventure Travel and Eco Tour
 
@@ -119,9 +119,9 @@ Attn: Privacy Officer
 
 Altun Group
 
-19 Duncan Street, Suite 401
+355 Eglinton Ave. East
 
-Toronto, Ontario  M5H 3H1
+Toronto, Ontario  M4P 1M5
 
 Tel: (416) 260 0999
 
