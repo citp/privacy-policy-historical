@@ -1,19 +1,66 @@
-<!--The following is the downloaded HTML source of the thecomedynetwork.ca privacy policy that was archived on 2003-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031206090153id_/http%3A//www.thecomedynetwork.com/legal.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thecomedynetwork.ca privacy policy that was archived on 2004-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040610003959id_/http%3A//www.thecomedynetwork.com/legal.asp) for the most accurate reproduction.-->
 
 <html><head>
+
 <title>TheComedyNetwork.ca</title>
+
 <style type="text/css">
 <!--
-body, td, table {  font-family: Arial, Helvetica, sans-serif;}
-a {text-decoration: none; color:#EFA510}
-a:link {text-decoration: none; color: #EFA510}
-a:hover { color: #F8B421; text-decoration: underline}
-.tabler {  font-family: Arial, Helvetica, sans-serif; font-size: 12px}
+body, td, table {
+font-family: Arial, Helvetica, sans-serif
+}
+a {
+text-decoration: none;
+color:#EFA510
+}
+a:link {
+text-decoration: none;
+color: #EFA510
+}
+a:hover {
+color: #F8B421;
+text-decoration: underline
+}
+.tabler {
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px
+}
 -->
 </style>
+
 <script language="JavaScript">
 <!--
+
+function openWindow1() {
+popupWin = window.open('cont-pop.html', 'Nom', 'width=463,height=400,scrollbars=yes,left=175,top=60');
+}
+
+function BBMessagePopUp(ID) {
+window.open('/BBMessage.asp?messageID='+ID, '_blank', 'resizable=yes, width=500, height=300, scrollbars=yes, left=175, top=60');
+}
+
+function BBPostPopUp() {
+window.open('/BBPost.asp', 'BBPost', 'width=470,height=380,scrollbars=no,left=200,top=180');
+}
+
+function printSchedule() {
+window.open('/printSchedule.asp', 'Printable', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,width=800,height=400');
+}
+
+function popupWindow(inFileName) {
+thruFileName = inFileName;
+
+if (popupWin != null && popupWin.location != null) {
+popupWin.close();
+popupWin = null;
+}
+
+setTimeout('openWin(thruFileName);', 400);
+
+return false;
+}
+
 function MM_findObj(n, d) { var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
 d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
 if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
@@ -27,20 +74,7 @@ function MM_preloadImages() {
 var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
 var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
 if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}}
-function openWindow1() {popupWin = window.open('cont-pop.html', 'Nom', 'width=463,height=400,scrollbars=yes,left=175,top=60')}
-function BBMessagePopUp(ID)
-{ window.open('BBMessage.asp?messageID='+ID, '_blank', 'resizable=yes, width=500, height=300, scrollbars=yes, left=175, top=60'); }
-function BBPostPopUp()
-{ window.open('BBPost.asp', 'BBPost', 'width=470,height=380,scrollbars=no,left=200,top=180'); }
-function printSchedule() { window.open('printSchedule.asp', 'Printable', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,width=800,height=400'); }
-var popupWin;
-function popupWindow(inFileName) {
-thruFileName = inFileName;
-if (popupWin != null && popupWin.location != null) {
-popupWin.close();
-popupWin = null;}
-setTimeout('openWin(thruFileName);', 400)
-return false}
+
 function openWin(inFileName) { popupWin = window.open(inFileName,'popup','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=666,height=640'); }
 var popupWin2;
 function popupWindow2(inFileName) { thruFileName = inFileName;
@@ -52,9 +86,9 @@ return false }
 function openWin2(inFileName) { popupWin2 = window.open(inFileName,'popup22','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=666,height=640'); }
 function laugh() { window.open('laughLines/index.html', 'Register', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=0,width=452,height=500'); }
 function NewsFullStoryPopUp(ID)
-{window.open('NewsFullStory.asp?newsletterID='+ID, '_blank', 'width=483,height=400,scrollbars=yes,left=175,top=60');}
+{window.open('/NewsFullStory.asp?newsletterID='+ID, '_blank', 'width=483,height=400,scrollbars=yes,left=175,top=60');}
 function NewsletterPopUp()
-{window.open('NewsSubmit.asp', 'NewsSubmit', 'width=470,height=380,scrollbars=no,left=200,top=180');}
+{window.open('/NewsSubmit.asp', 'NewsSubmit', 'width=470,height=380,scrollbars=no,left=200,top=180');}
 function PollAddVotePopUp()
 {var answerID = "";
 for (var i=0; i<document.Poll.Answer.length; i++){
@@ -62,37 +96,44 @@ if (document.Poll.Answer[i].checked){
 answerID=document.Poll.Answer[i].value;		}	}
 var questionID="";
 questionID=document.Poll.questionID.value;
-window.open('PollAddVote.asp?answerID='+answerID+'&questionID='+questionID, 'PollAddVote', 'buttons=no,resizable=yes,width=330,height=280');}
-// this function rotates images
-var rotatecount = 0;
-function rotatethis() {
+window.open('/PollAddVote.asp?answerID='+answerID+'&questionID='+questionID, 'PollAddVote', 'buttons=no,resizable=yes,width=330,height=280');}
 
-if (rotatecount >= (allbanners.length-1)) {
-rotatecount = 0;
+// this function rotates images
+
+var rotatecount = new Array(0,0,0);
+
+function rotatethis(rnum) {
+
+if (rotatecount[rnum] >= (eval("allbanners" + rnum.toString()).length-1)) {
+rotatecount[rnum] = 0;
 } else {
-rotatecount = rotatecount + 1;
+rotatecount[rnum] = rotatecount[rnum] + 1;
 }
 
-document.images['rotateimage'].src = allbanners[rotatecount];
-setTimeout("rotatethis()",5000); 
+document.images['rotateimage' + rnum.toString()].src = eval("allbanners" + rnum.toString())[rotatecount[rnum]];
+setTimeout("rotatethis(" + rnum + ")",5000); 
 }
 
 // this function provides links for rotatethis
-function clickthis() {
-if (allurls[rotatecount] != "") {
-window.open(allurls[rotatecount],'clickthis',allparams[rotatecount]);
+function clickthis(rnum) {
+if (eval("allurls" + rnum.toString())[rotatecount[rnum]] != "") {
+window.open(eval("allurls" + rnum.toString())[rotatecount[rnum]],'clickthis',eval("allparams" + rnum.toString())[rotatecount[rnum]]);
 }
 }
 -->
 </script>
-</head>
-<body bgcolor="#000000" background="/images/background.gif" onload="MM_preloadImages('/images/index_r01_c1_f2.gif','/images/index_r02_c1_f2.gif','/images/index_r03_c1_f2.gif','/images/index_r04_c1_f2.gif','/images/index_r05_c1_f2.gif','/images/index_r06_c1_f2.gif','/images/index_r07_c1_f2.gif','/images/index_r08_c1_f2.gif','/images/index_r09_c1_f2.gif','/images/index_r10_c1_f2.gif','/images/index_r11_c1_f2.gif','/images/index_r12_c1_f2.gif');" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0"><table border="0" cellpadding="0" cellspacing="0" width="782"><tbody><tr valign="top"><td><table border="0" cellpadding="0" cellspacing="0" width="163"><tbody><tr valign="top"><td><a href="index.asp"><img name="index_r01_c1" src="/images/index_r01_c1_f2copy.gif" width="163" height="54" border="0"></a></td></tr><tr valign="top"><td><img name="index_r02_c1" src="/images/index_r02_c1_f2copy.gif" width="163" height="53" border="0"></td></tr><tr valign="top"><td><a href="prog.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r03_c1','','/images/index_r03_c1_f2.gif',1);"><img name="index_r03_c1" src="/images/index_r03_c1.gif" width="163" height="53" border="0"></a></td></tr><tr valign="top"><td><a href="pres.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r04_c1','','/images/index_r04_c1_f2.gif',1);"><img name="index_r04_c1" src="/images/index_r04_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"><td><a href="cont.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r05_c1','','/images/index_r05_c1_f2.gif',1);"><img name="index_r05_c1" src="/images/index_r05_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"><td><a href="mess.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r06_c1','','/images/index_r06_c1_f2.gif',1);"><img name="index_r06_c1" src="/images/index_r06_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"><td><a href="prom.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r07_c1','','/images/index_r07_c1_f2.gif',1);"><img name="index_r07_c1" src="/images/index_r07_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"><td><a href="news.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r08_c1','','/images/index_r08_c1_f2.gif',1);"><img name="index_r08_c1" src="/images/index_r08_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"><td><a href="link.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r09_c1','','/images/index_r09_c1_f2.gif',1);"><img name="index_r09_c1" src="/images/index_r09_c1.gif" width="163" height="52" border="0"></a></td></tr><tr valign="top"><td><a href="http://www.jiveplayer.com/jiveguide_comedynetwork.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r10_c1','','/images/index_r10_c1_f2.gif',1);" target="_blank"><img name="index_r10_c1" src="/images/index_r10_c1.gif" width="163" height="52" border="0"></a></td></tr><tr valign="top"><td><a href="shop.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r11_c1','','/images/index_r11_c1_f2.gif',1);"><img name="index_r11_c1" src="/images/index_r11_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"></tr><tr valign="top"><td><img src="../Images/bottom.gif"></td></tr></tbody></table>
+
+</head><body bgcolor="#000000" background="/images/background.gif" onload="MM_preloadImages('/images/index_r01_c1_f2.gif','/images/index_r02_c1_f2.gif','/images/index_r03_c1_f2.gif','/images/index_r04_c1_f2.gif','/images/index_r05_c1_f2.gif','/images/index_r06_c1_f2.gif','/images/index_r07_c1_f2.gif','/images/index_r08_c1_f2.gif','/images/index_r09_c1_f2.gif','/images/index_r10_c1_f2.gif','/images/index_r11_c1_f2.gif','/images/index_r12_c1_f2.gif');" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0">
+
+<table border="0" cellpadding="0" cellspacing="0" width="782"><tbody><tr valign="top"><td><table border="0" cellpadding="0" cellspacing="0" width="163"><tbody><tr valign="top"><td><a href="/"><img name="index_r01_c1" src="/images/index_r01_c1_f2copy.gif" width="163" height="54" border="0"></a></td></tr><tr valign="top"><td><img name="index_r02_c1" src="/images/index_r02_c1_f2copy.gif" width="163" height="53" border="0"></td></tr><tr valign="top"><td><a href="/prog.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r03_c1','','/images/index_r03_c1_f2.gif',1);"><img name="index_r03_c1" src="/images/index_r03_c1.gif" width="163" height="53" border="0"></a></td></tr><tr valign="top"><td><a href="/pres.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r04_c1','','/images/index_r04_c1_f2.gif',1);"><img name="index_r04_c1" src="/images/index_r04_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"><td><a href="/cont.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r05_c1','','/images/index_r05_c1_f2.gif',1);"><img name="index_r05_c1" src="/images/index_r05_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"><td><a href="/mess.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r06_c1','','/images/index_r06_c1_f2.gif',1);"><img name="index_r06_c1" src="/images/index_r06_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"><td><a href="/prom.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r07_c1','','/images/index_r07_c1_f2.gif',1);"><img name="index_r07_c1" src="/images/index_r07_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"><td><a href="/news.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r08_c1','','/images/index_r08_c1_f2.gif',1);"><img name="index_r08_c1" src="/images/index_r08_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"><td><a href="/link.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r09_c1','','/images/index_r09_c1_f2.gif',1);"><img name="index_r09_c1" src="/images/index_r09_c1.gif" width="163" height="52" border="0"></a></td></tr>
+
+<tr valign="top"><td><a href="/shop.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('index_r11_c1','','/images/index_r11_c1_f2.gif',1);"><img name="index_r11_c1" src="/images/index_r11_c1.gif" width="163" height="51" border="0"></a></td></tr><tr valign="top"></tr><tr valign="top"><td><img src="../Images/bottom.gif"></td></tr></tbody></table>
 <table width="129" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td width="129" height="57"><a href="http://www.bellglobemedia.com/" target="_blank"><img src="http://www.thecomedynetwork.com/Images/globemedia_onblack_new.gif" width="135" height="41" alt="Bell Globemedia" border="0"></a></td></tr><tr><td width="129" align="center" height="34"><a style="color: White; font-size: 8pt; font-family: Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none;" href="http://www.thecomedynetwork.com/legal.asp"><div align="center">Privacy Policy and Terms of Use</div></a></td></tr></tbody></table><br><br>
 </td><td><table border="0" cellpadding="0" cellspacing="0" width="619"><tbody><tr valign="top"><td><table border="0" cellpadding="0" cellspacing="0" width="619"><tbody><tr valign="top"><td><img name="index2_r1_c1" src="/images/index2_r1_c1.gif" width="65" height="74" border="0"></td><td><table border="0" cellpadding="0" cellspacing="0" width="468"><tbody><tr valign="top"><td><img name="index2_r1_c2" src="/images/index2_r1_c2.gif" width="468" height="3" border="0"></td></tr><tr valign="top"><td>
 <script language="JavaScript1.1">
 if (!ord) {var abc = Math.random() + "";	var ord = abc.substring(2,abc.length);}
 document.write('<SCR'+'IPT LANGUAGE="JavaScript1.1" SRC="http://ad.ca.doubleclick.net/adj/comedynetwork/;abr=!webtv;mode=;loc=;adpg=;sect=ent;arena=tv;arena=arts;unit=dhtml;kw=;pos=banTop;sz=468x60;tile=1;ord='+ord+'?"><\/SCR'+'IPT>');
-</script><script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/adj/comedynetwork/;abr=!webtv;mode=;loc=;adpg=;sect=ent;arena=tv;arena=arts;unit=dhtml;kw=;pos=banTop;sz=468x60;tile=1;ord=019274575981668374?"></script></td></tr><tr valign="top"><td><img name="index2_r3_c2" src="/images/index2_r3_c2.gif" width="468" height="11" border="0"></td></tr></tbody></table></td><td><img name="index2_r1_c5" src="/images/index2_r1_c5.gif" width="86" height="74" border="0"></td></tr></tbody></table></td></tr><tr><td>
+</script><script language="JavaScript1.1" src="http://ad.ca.doubleclick.net/adj/comedynetwork/;abr=!webtv;mode=;loc=;adpg=;sect=ent;arena=tv;arena=arts;unit=dhtml;kw=;pos=banTop;sz=468x60;tile=1;ord=13008767646773234?"></script></td></tr><tr valign="top"><td><img name="index2_r3_c2" src="/images/index2_r3_c2.gif" width="468" height="11" border="0"></td></tr></tbody></table></td><td><img name="index2_r1_c5" src="/images/index2_r1_c5.gif" width="86" height="74" border="0"></td></tr></tbody></table></td></tr><tr><td>
 
 <table border="0" cellpadding="0" cellspacing="0" width="618"><tbody><tr><td width="75">&nbsp;</td><td width="543"><img src="images/bt-legal.gif" width="463" height="46" border="0"></td></tr><tr><td width="75">&nbsp;</td><td width="543">&nbsp;</td></tr><tr><td width="75" height="53">&nbsp;</td><td width="543" height="53" valign="top"><font color="#FFFFFF">
 					<div align="center"><b>Bell Globemedia Interactive<br>Website Privacy Policy</b></div>
