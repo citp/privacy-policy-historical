@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgame.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207155246id_/http%3A//www.allgame.com/com/amg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgame.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623061850id_/http%3A//www.allgame.com/com/amg/privacy.html) for the most accurate reproduction.*
 
 # All Media Guide Privacy Policy
 
