@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405181731id_/http%3A//www.webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostdir.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203013031id_/http%3A//www.webhostdir.com/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # Web Host Directory: The best free source of web hosting services in a searchable web host directory. Powerful web host search engines, reviewed web hosts, awards, news and much more!
 
-  
 **What is the purpose of this Privacy Policy?**
 
 Web Host Directory has created this privacy policy in order to demonstrate our firm commitment to our users. The following discloses our information gathering and dissemination practices for this website: [www.webhostdir.com.](http://www.webhostdir.com/) Please continue reading for complete details on the Web Host Directory privacy policy. If you have any questions about the policy, you can request more information by filling in the [contact us](https://web.archive.org/contact/general.asp) form. 
