@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamedev.net privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603174520id_/http%3A//www.gamedev.net/info/legal.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedev.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202150006id_/http%3A//gamedev.net/info/legal.htm%23privacy) for the most accurate reproduction.*
 
 # Legal Notices
 
@@ -14,9 +14,11 @@ Any software downloaded from Gamedev.net is not necessarily endorsed in any way 
 
 2) Moderation shall be defined as any activity designed to make our Community forums more consistent with our aforestated goals for Community interaction. The scope, bounds, and limitations of such moderation are at our discretion. 
 
-3) We may at any time modify or discontinue these terms of use. 
+3) Although anonymous posting is allowed on most of our forums, we reserve the right to remove the anonymous status of anyone using this feature to abuse other members or the community in general. 
 
-4) In reading these terms of use, the User agrees to indemnify and hold harmless the Community for any libelous, profane, or inappropriate content posted thereupon. 
+4) We may at any time modify or discontinue these terms of use. 
+
+5) In reading these terms of use, the User agrees to indemnify and hold harmless the Community for any libelous, profane, or inappropriate content posted thereupon. 
 
 Trademarks
 
@@ -34,7 +36,13 @@ Our site's registration form asks users to give us contact information (like the
 
 This site contains links to other sites. Gamedev.net is not responsible for the privacy practices or the content of such Web sites. 
 
-We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company may also separately place or recognize a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.fastclick.com/about/privacy.html). 
+Third Party Advertising
+
+We use FastClick, TribalFusion, BurstMedia, MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click on one of the following links: [FastClick](http://www.fastclick.com/v4/safe_optout.go), [TribalFusion](http://www.tribalfusion.com/www/about/privacy.html), [BurstMedia](http://www.burstmedia.com/release/about.asp?gotopage=privacy), [MaxOnline](http://www.networkadvertising.org/optout_nonppii.asp), 
+
+Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 Security
 
