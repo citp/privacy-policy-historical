@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602204223id_/http%3A//www.belkin.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belkin.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206055145id_/http%3A//www.belkin.com/legal/privacy.html) for the most accurate reproduction.*
 
 # belkin web T&Cs working doc
 
 **
 
-**BELKIN COMPONENTS**
+**BELKIN CORPORATION**
 
 **Belkin.Com Security and Privacy Statement**
 
@@ -26,6 +26,6 @@ You may receive periodic emails or postal mailings from us with information on n
 
 Belkin.com contains links to other sites. We are not responsible for the privacy practices or the content of such sites.
 
-Copyright© 2000 Belkin Components. All Rights Reserved. Belkin is a registered trademark of Belkin Components.
+Copyright© 2000 Belkin Corporation. All Rights Reserved. Belkin is a registered trademark of Belkin Corporation.
 
 **
