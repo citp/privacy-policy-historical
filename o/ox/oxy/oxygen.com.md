@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxygen.com privacy policy that was archived on 2000-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001110061700id_/http%3A//www.oxygen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygen.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413223555id_/http%3A//www.oxygen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Oxygen
 
@@ -32,12 +32,9 @@ Please note that if you give out personal information online -- for example, thr
 
 Oxygen understands that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online.
 
-Oxygen has adopted the following special policies to protect the privacy of users who are under 13 years old:
+The Oxygen Sites are not directed to children under the age of 13. Oxygen prohibits registration by children under the age of 13 for all interactive portions of the Sites including chats and message boards. Oxygen knowingly will not collect personally identifiable information from children under 13.
 
-  * No information may be submitted on or to any of the Oxygen Sites by users under 13 without the consent of their parent or guardian.
-  * User under 13 may not register with the Oxygen Sites on their own. A user under 13 may be registered only by a parent or guardian.
-  * If a user under 13 wins a contest for which such user is eligible, notification and prizes will be sent to the parent or guardian who initially registered the user.
-  * No personal information concerning users under 13 will be used for any marketing or promotional purposes, either inside or outside of Oxygen.
+Note to Parents. If you have any concerns about the Oxygen Sites or their related services, please e-mail: [info@oxygen.com](mailto:info@oxygen.com).
 
 **Non-Personal Identification Information And The Use Of Cookie Technology**
 
@@ -59,7 +56,7 @@ Protecting your privacy and your information is a top priority. We have taken ca
 
  **Access To/Correction of Information**
 
-If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at [myinfo@oxygen.com](mailto:myinfo@oxygen.com). Once you have reviewed this information, at your request we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to [newinfor@oxygen.com](mailto:newinfor@oxygen.com?subject=Privacy%20Policy).
+If you would like to review any personal information we have retained about you in our database, please send us an e-mail request for this information at [myinfo@oxygen.com](mailto:myinfo@oxygen.com). Once you have reviewed this information, at your request we will correct personal information about you that you state is erroneous. To request such a correction, please send an e-mail to [newinfo@oxygen.com](mailto:newinfo@oxygen.com?subject=Privacy%20Policy).
 
  **Choice/Opt-Out**
 
@@ -69,4 +66,4 @@ If you "opt-in" to receive information from Oxygen or others, you can change you
 
 By using any of the Oxygen Sites, you signify your acceptance of our Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Oxygen Sites following the posting of changes to these terms will mean that you accept those changes.
 
-(Last modified on October 24, 1999.)
+(Last modified on January 5, 2001.)
