@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2002-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021123170221id_/http%3A//staugustine.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staugustine.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604155246id_/http%3A//www.staugustine.com/privacy.shtml) for the most accurate reproduction.*
 
 # staugustine.com - Privacy Policy
 
@@ -30,7 +30,7 @@ We do not share personal identifying information with any third party without yo
 
 **IV. Accuracy of User Information**
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [Rob Curley](mailto:rcurley@morris.com) or [Yvonne Beasley](mailto:stevec@staugustinerecord.com) , or you can reach us by telephone at 706-828-2970 or 907-586-3740. You can also write us at: 
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed to: 
 
 Division of Online Services,  
 Corporate Content Development  
