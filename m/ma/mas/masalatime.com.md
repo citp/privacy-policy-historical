@@ -1,19 +1,25 @@
-> *The following text is extracted and transformed from the masalatime.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204224450id_/http%3A//masalatime.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masalatime.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401100042id_/http%3A//masalatime.com/privacy.htm) for the most accurate reproduction.*
 
-# Terms of Use
-
-**PRIVACY STATEMENT**
-
-**Masala Time Interactive** has created this privacy statement in order to demonstrate our firm commitment to your privacy. This document discloses the information gathering and dissemination practices for this web site. 
+# Contact Masala Time!
 
 **Information Automatically Logged**   
-The IP address, browser details, OS etc are logged into the system to gather broad demographic information to configure the website to provide the best services to you. No personal or confidential information is collected automatically. 
+The IP address, browser details, OS etc are logged into the system to gather broad demographic information to configure the website to provide the best services to you. 
+
+No personal or confidential information is collected automatically. 
 
 **Cookies**   
-Cookies are used on **Masala Time** to make sure you don't see the same ad repeatedly to ensure a better surfing experience. The information in the cookies is specifically handled by external advertising agencies who serve the ads that you see on the website. 
+Cookies are used on Masala Time to make sure you don't see the same ad repeatedly to ensure a better surfing experience. The information in the cookies is specifically handled by external advertising agencies who serve the ads that you see on the website. 
+
+No personal or confidential information is collected automatically. 
 
 **Mailing Lists**   
-You can subscribe to the **Masala Time** mailer by entering your email id in the given fields. We generally send monthly emails that contain jokes and other fun stuff. The mailer will also contain a brief advertisement from a sponsor. At any point of time you can go to the subscription page and unsubscribe from this list and will thereafter receive no emails from us. 
+You can subscribe to the Masala Time mailing lists (standard 'Jokes and 'Non-veg Jokes' version) by entering your email id and other details in the given fields. 
+
+We generally send weekly or monthly emails that contain jokes and other fun stuff. Please note that the 'Non-Veg Jokes' version is meant for persons above the age of 18 years. Mailers to persons below that age will not be sent out. 
+
+At any point of time you can go to the subscription page and unsubscribe from this list and will thereafter receive no emails from us. 
+
+Your email address and other details are not shared with any company or organisation. Basis your subscription with Masala Time you shall recieve mails only from Masala Time. 
 
 **Registered Members**   
 Members of the Masala Club get to participate in contests, games and discussion forums. We require the registered users to provide details like name, age and address to access these features of the website. All of this information is kept completely confidential. 
@@ -21,7 +27,7 @@ Members of the Masala Club get to participate in contests, games and discussion 
 Contact information is used to configure and provide better content to our visitors. The mailing address is used to send prizes to winners. Your email is kept strictly confidential unless otherwise indicated on the contest forms. Occasionally, participants might receive information from Masala Time on new contests that happen on Masala Time and similar updates. 
 
 **External Links**   
-This site contains links to other sites. **Masala Time** is not responsible for the privacy practices or the content of any websites whose links are provided on this website or those which link to us. 
+This site contains links to other sites. Masala Time is not responsible for the privacy practices or the content of any websites whose links are provided on this website or those which link to us. 
 
 **Public Forums**   
 This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
@@ -46,4 +52,4 @@ We care about children and understand that they have special privacy needs. Ther
 
 
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact _[webmaster@masalatime.com](mailto:webmaster@masalatime.com)_. 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact [the Webmaster](https://web.archive.org/web/20040401100042id_/http%3A//masalatime.com/contact.htm). 
