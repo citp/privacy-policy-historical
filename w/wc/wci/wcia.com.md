@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2000-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000614171100id_/http%3A//www.wcia.com/now/story/0%2C1597%2C53940-392%2C00.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wcia.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815203813id_/http%3A//wcia.com/now/story/0%2C1597%2C53940-392%2C00.shtml) for the most accurate reproduction.*
 
 # CBS.com--CBS.com Privacy Statement
 
