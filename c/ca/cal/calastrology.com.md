@@ -1,17 +1,27 @@
-> *The following text is extracted and transformed from the calastrology.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211120721id_/http%3A//calastrology.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calastrology.com privacy policy that was archived on 2004-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040501061537id_/http%3A//www.calastrology.com/privacypolicy.html) for the most accurate reproduction.*
 
 # California Astrology Association Privacy Policy
 
-We adhere to Yahoo! Shopping's [Privacy Policy](http://privacy.yahoo.com/privacy/us/), [Terms of Service](http://store.yahoo.com/terofser.html), and [ Merchant Guidelines](http://store.yahoo.com/guidelines.html).
+We are a Yahoo! Store Merchant. Our website is hosted by Yahoo! Store, and we are a part of the Yahoo! Shopping network. We strictly adhere to Yahoo! Shopping's [ Merchant Guidelines](http://store.yahoo.com/guidelines.html) and [Terms of Service](http://store.yahoo.com/terofser.html).
 
-Any transaction you make with us is completely secure. The credit card and ordering information you provide to us when purchasing our products are protected by Yahoo's secure servers, using industry-standard SSL encryption. Please also note, too, you can always order from us by [ mail or fax](https://web.archive.org/web/20011211120721id_/http%3A//calastrology.com/info.html).
+Yahoo! Store currently hosts over 24,000 different e-commerce sites. It's the industry leader, and is dependable, safe, and trustworthy.
 
-Sometimes we may make our mailing list available to carefully chosen companies whose unique offers may be of interest to you. Although we may group our mailing list by customers who bought similar products, we never release credit card, financial, or personal information to any companies or other organizations. **We will never share your email address with anyone.**
+  
+Any transaction you make with us is completely secure. The credit card and ordering information you provide to us when purchasing our products or services are protected by Yahoo!'s secure servers, using industry-standard SSL encryption. This ensures that your personal information is kept confidential as it travels over the internet.
 
-If you prefer that we not include your name and address when we share our customer list with selected companies, please drop us an email at [privacy@dassi-inc.com](mailto:privacy@dassi-inc.com).
+Additionally, we use a service called ScanAlert, which continually monitors our website for security and certifies that it is indeed safe to shop with us. Please click on the ScanAlert logo for more information and to verify our certification:
 
-If you would like us to remove you from our email newsletter mailing list, please send an email to [ news@dassi-inc.com](mailto:news@dassi-inc.com?subject=REMOVE) with the word "Remove" in the subject line.
+[](https://scanalert.com/RatingVerify?ref=www.calastrology.com)
 
- ** _Please note additional information from Yahoo!:_**
+Of course, you can always order from us by [ mail or fax](https://web.archive.org/web/20040501061537id_/http%3A//www.calastrology.com/info.html). 
 
- _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+  
+Sometimes we may make our mailing list (name & postal address) available to carefully chosen companies whose unique offers may be of interest to you. Although we may group our mailing list by clients who bought similar products, we never release credit card, financial, or personal information to any companies or other organizations. **We will never share your email address with anyone.**
+
+If you prefer that we not include your **name and address** when we share our client list with selected companies, please [click here](https://web.archive.org/web/20040501061537id_/http%3A//www.calastrology.com/contact.html) to use our online contact form.
+
+If you would like to be removed from our **email** newsletter mailing list, please [click here](https://web.archive.org/web/20040501061537id_/http%3A//www.calastrology.com/unsubscribe.html). Submitting this online form will exclude you from _all_ email correspondence from us. 
+
+**Additional information from Yahoo!**
+
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
