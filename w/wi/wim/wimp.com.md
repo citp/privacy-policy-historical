@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212082912id_/http%3A//wimp.com/p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wimp.com privacy policy that was archived on 2005-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050216052630id_/http%3A//wimp.com/p) for the most accurate reproduction.*
 
 # Privacy
 
@@ -32,13 +32,13 @@ Disclaimer
 
 Wimp.com does not denote ownership of any images or content unless specified. Wimp.com recognizes all images and content on this site as free material. Wimp.com does not use images or content that are copyrighted unless express written permission is given by the author. Frequently, images and content are submitted by the visitors. Wimp.com does not have a way of checking for its copyright unless specifically stated on or in the image or content. If any image or content on Wimp.com is your work, please contact Miss Amy Bethune at amy.bethune@gmail.com for its removal. 
 
-Any pages that are original material of Wimp.com will include Wimp.com's URL on or in it. Any theft, alteration, modification, translation, or transgenderation of this material will be construed as robbery of intellectual property and will land in a fine and court date. 
+Any pages that are the original material of Wimp.com will include Wimp.com's URL on or in it. Any theft, alteration, modification, translation, or transgenderation of this material will be construed as robbery of intellectual property and will land in a fine and court date. 
 
 Some links on Wimp.com will take visitors outside its web server. Although these links were established to provide access to useful information, Wimp.com is not responsible for any of these sites or their content. 
 
 Contact
 
-If you have any questions about the dealings with this website, please contact:
+If you have any questions, please contact:
 
 Name: Amy L. Bethune  
 Email: amy.bethune@gmail.com
