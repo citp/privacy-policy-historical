@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullz-eye.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202022714id_/http%3A//www.bullz-eye.com/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullz-eye.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626113509id_/http%3A//www.bullz-eye.com/privacy/default.htm) for the most accurate reproduction.*
 
 # Bullz-eye.com - Guy's Portal to the Web
 
