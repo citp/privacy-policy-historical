@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621122107id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowendmac.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203042124id_/http%3A//lowendmac.com/privacy.html) for the most accurate reproduction.*
 
 # Low End Mac Privacy Policy
 
@@ -43,18 +43,26 @@ Entire [Low End Mac](https://web.archive.org/index.shtml) site copyright ©1997-
 
 | 
 
-[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/432/clickHTML?ajkey=31464B3BD8162D2ED1EDEEAC00001749000018D3000003BD00001B6BFFFFFF91FFFFFF91FFFFFFFFCCECE129)
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/903/clickHTML?ajkey=7BDDB05BD8162D33D1EDEEAF000017B0000018D3000003BD00001B6BFFFFFF91FFFFFF91FFFFFFFFDE4A1043)
+
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/821/clickHTML?ajkey=68410A2FD8162D33D1EDEEAF0000195A00001C99000003BE00001B6BFFFFFF91FFFFFF91FFFFFFFFDAADF22D)
+
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/212/clickHTML?ajkey=6D514B5DD8162D33D1EDEEAF00001D1A00001BD70000048C00001B6BFFFFFF91FFFFFF91FFFFFFFFDBE99B33)
+
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/688/clickHTML?ajkey=843A8CB4D8162D33D1EDEEAF00001D8900001D8A00001B1C00001B6BFFFFFF91FFFFFF91FFFFFFFF21B34E81)
+
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/327/clickHTML?ajkey=C21654FBD8162D33D1EDEEAF00001E3500001DEF00001D1900001B6BFFFFFF91FFFFFF91FFFFFFFF3038467F)
+
+[](http://adserver1.backbeatmedia.com/servlet/ajrotator/270/497/clickHTML?ajkey=D090F985D8162D33D1EDEEAF0000161B00001B1800001D8E00001B6BFFFFFF91FFFFFF91FFFFFFFF349958EF)
 
 [**Read LEM ad-free**](https://web.archive.org/subscriptions/index.shtml)
 
 **Mac of the Day**  
- [PowerBook 540c](https://web.archive.org/pb/540c.shtml) **  
+ [Macintosh 512K](https://web.archive.org/compact/512k.shtml) **  
 List of the Day**  
- [Duo/2400 List](http://www.themacintoshguy.com/lists/duolistfaq.shtml) **  
+ [MacCube](http://www.themacintoshguy.com/lists/MacCube.html) **  
 Book of the Day**  
- [Mac OS X for Dummies](http://www.amazon.com/exec/obidos/ASIN/0764507060/lowendmac)  
- **Deal of the Day**  
- []()  
+ [The Mac is Not a Typewriter](http://www.amazon.com/exec/obidos/ASIN/0938151312/lowendmac)  
 
 
  **Channels**  
