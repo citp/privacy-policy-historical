@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207071514id_/http%3A//www.job.com/info.cfm%3Fi%3Dprivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the job.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610170851id_/http%3A//job.com/info.cfm%3Fi%3Dprivacy.cfm) for the most accurate reproduction.*
 
 # Job.com - Gear for your Career!
 
