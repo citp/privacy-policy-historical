@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014235610id_/http%3A//www.shutterfly.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622063953id_/http%3A//www.shutterfly.com/help/privacy.jsp) for the most accurate reproduction.*
 
-# Shutterfly | Help
+# Shutterfly | Privacy policy
 
-  
-
-
-This confirms that Shutterfly is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.shutterfly.com.
+Shutterfly is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for www.shutterfly.com.
 
 [](https://www.truste.org/validate/6410)
 
@@ -24,8 +21,6 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 If you feel that this company is not abiding by its posted privacy policy, you should first contact Shutterfly.
 
 If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-This privacy policy was last updated October 2, 2001.
 
 We at Shutterfly know how much you value your privacy, so we make sure that your privacy is protected any time you're using our services. You do need to give us some personal information so we're able to process your pictures and requests. However, we want you to know exactly what information we need, why we need it, and how we make sure that your information is protected. We want you to be able to enjoy Shutterfly experience safely and privately.
 
@@ -62,7 +57,7 @@ Within your Shutterfly account, you are given a private address book where you c
 We may occasionally request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and mailing address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the Shutterfly service.
 
 **Changing your information**  
-To update your personal information, simply sign in and go to 'Account info' from your personal home page. You may also contact our Customer Service team. You can make changes to your account information at any time. 
+To update your personal information, simply sign in and go to 'Account info' from your personal home page. You may also contact our Customer Service team. You can make changes to your account information at any time.
 
 **Protecting your information**  
 Shutterfly uses industry best practices to protect your information and your privacy. When your password or credit card number are requested on the site, we use SSL to present secure pages to protect that information. We also guarantee that every order you make at Shutterfly will be 100% safe. This means that we will reimburse you for any fraudulent charges that are not covered by your bank and that result through no fault of your own from purchases made at Shutterfly while using the secure server.
@@ -108,7 +103,8 @@ Shutterfly never saves information such as your password or your credit card num
 **Log files**  
 Our servers store IP addresses for all connections to the service. This data is analyzed in the aggregate for administration purposes and is not linked to your personal account. Occasionally, we may use the IP logs to gather information that might help Customer Support respond to an inquiry by you about your account, but will not do so without an initial action by you.
 
-Shutterfly uses a service called Hitbox ([www.hitbox.com](http://www.hitbox.com/)) (offered by WebSideStory, Inc. ([www.websidestory.com](http://www.websidestory.com/)) to gather statistical information about our site. WebSideStory may create visitor profiles associated with cookies or other anonymous identifiers, but will not associate those profiles with any identifying information. Shutterfly uses this service to understand how the site is used, and will never use it in a way that will compromise your privacy.
+**Pixel Tags**  
+Shutterfly sends email messages to customers who are opted-in for such communications using a third party provider (DoubleClick). These messages may contain pixel tags (also known as "clear gifs" or "web beacons"). These tags provide statistical information to Shutterfly so we can better understand what communications are successful. The tags may indicate which email addresses responded to a particular email, but the statistics gathered are only used in aggregate.
 
 **Legal exceptions to the rules**  
 Only in the case of our good-faith belief that the law requires it or, to protect your or Shutterfly's rights or property, will we disclose customer information to proper law enforcement authorities even though you might have sent us an e-mail requesting that we don't share your information. This information may be necessary to identify, contact or bring legal action against anyone who may attempt to cause injury to another's rights or property.
