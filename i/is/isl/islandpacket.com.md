@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the islandpacket.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017223241id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islandpacket.com privacy policy that was archived on 2003-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030418121742id_/http%3A//www.islandpacket.com/services/privacy) for the most accurate reproduction.*
 
 # Island Packet Online: Privacy Policy
 
 |   
 ---  
   [Home](https://web.archive.org/)  
-  [Hurricane 2002](https://web.archive.org/hurricane)  
   [Site Help](https://web.archive.org/services/sitehelp)  
   [About Us](https://web.archive.org/services)  
   [Subscribe](https://web.archive.org/subscribe)  
