@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405191021id_/http%3A//www.rodale.com/corp/sub/1%2C1874%2C1-28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204202544id_/http%3A//www.rodale.com/corp/sub/1%2C1874%2C1-28%2C00.html) for the most accurate reproduction.*
 
 # Rodale - Meet RODALE - Online Privacy Policy
 
