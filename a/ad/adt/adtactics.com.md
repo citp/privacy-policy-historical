@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adtactics.com privacy policy that was archived on 2002-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021219221031id_/http%3A//www.adtactics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtactics.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622160345id_/http%3A//adtactics.com/privacy.php) for the most accurate reproduction.*
 
 # AdTactics Web Advertising - Tons of Tools to Promote YOUR Site!
 
@@ -29,7 +29,7 @@
     * We need to share your information to provide the product or service you have requested;
     * We need to send the information to companies who work on behalf of AdTactics to provide a product or service to you. (Unless we tell you differently, these companies do not have any right to use the personally identifiable information we provide to them beyond what is necessary to assist us.);
     * We respond to subpoenas, court orders or legal process; or
-    * We find that your actions on our web sites violate the [AdTactics Terms of Service](https://web.archive.org/web/20021219221031id_/http://adtactics.com/privacy.php/tos.php).
+    * We find that your actions on our web sites violate the [AdTactics Terms of Service](https://web.archive.org/web/20030622160345id_/http://adtactics.com/privacy.php/tos.php).
 
 **_Cookies_**  
 
