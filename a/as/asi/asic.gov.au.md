@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622201231id_/http%3A//www.asic.gov.au/asic/asic.nsf/HeadingPagesDisplay/Privacy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asic.gov.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205010914id_/http%3A//www.asic.gov.au/asic/asic.nsf/HeadingPagesDisplay/Privacy%3FOpenDocument) for the most accurate reproduction.*
 
 # 
 
@@ -20,10 +20,10 @@ We will not try to identify users or their browsing activities except, in the ev
 
 Our website is cookie-free. 
 
-We will only record your e-mail address if you send us a message. It will not be automatically added to a mailing list.
+We will only record your e-mail address if you send us an email message containing your email address or supply your email address as part of your contact details on an on-line application. It will not be automatically added to a mailing list. 
 
 **Collection of personal information  
-**The main way we would collect personal information from you is if you used our site to lodge forms prescribed or approved under the Corporations Law and Regulations, eg to set up a company. This personal information may include your full name, date of birth, phone and fax numbers, e-mail address, and street and postal address.
+**The main way we would collect personal information from you is if you used our site to lodge forms prescribed or approved under the Corporations Act 2001 and Regulations, eg to set up a company. This personal information may include your full name, date of birth, phone and fax numbers, e-mail address, and street and postal address.
 
 We can only collect personal information via our website with your consent as you must click on a button provided on each web page to submit information to our website.
 
@@ -46,7 +46,7 @@ When or before it collects personal information, we will take reasonable steps t
 Where appropriate, our website provides a secure environment by using Secure Sockets Layer (SSL). This establishes a session, and encrypts all traffic, between our web server and your browser.
 
 **Use and disclosure of information  
-**We will only use your personal information (including your e-mail address) for the purpose for which you have provided it, eg for a company registration application. We will not use it for any other purpose, nor will we disclose it, unless with your consent or in other [circumstances where such use or disclosure is permitted](http://www.privacy.gov.au/publications/ipps.html#j) under the Privacy Act.
+**We will only use your personal information (including your e-mail address) for the purpose for which you have provided it, eg for a company registration or online service application. We will not use it for any other purpose, nor will we disclose it, unless with your consent or in other [circumstances where such use or disclosure is permitted](http://www.privacy.gov.au/publications/ipps.html#j) under the Privacy Act.
 
 From time to time, we may wish to carry out a voluntary survey for feedback. Before collecting survey results, we will advise you of the purpose of the survey. We will provide the facility to enable you to exit the survey at any time.
 
@@ -64,5 +64,5 @@ Read our privacy statements for the [Australian Financial Services Licence Appli
 
 We welcome your [feedback](mailto:feedback@asic.gov.au) about this Privacy Statement and about our site's design and practices.
 
-| Updated: 11/11/2002|   
+| Updated: 27/06/2003|   
 ---|---
