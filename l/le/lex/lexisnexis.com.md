@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the lexisnexis.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603181324id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexisnexis.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622223802id_/http%3A//www.lexisnexis.com/terms/privacy) for the most accurate reproduction.*
 
 # LexisNexis Privacy Notice
 
+|   
   
-**Effective December 15, 2000  
+---  
+  
+**Effective March 26, 2004  
 **
 
 **Our Commitment To Privacy**
@@ -50,7 +53,7 @@ In each of the instances above, we typically ask for your name, e-mail address, 
 **How We Use Information:  
 LNG only uses your personal information for specific purposes.  
 **  
-The personal information you provide to us when using our Web Site, such as your name, postal or e-mail address or telephone number will be kept confidential and used to support your customer relationship with LNG, and to notify you of special offers, updated information and new products and services from LNG, or offers from third parties that we think may be of interest to you. Agents or contractors of LNG who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for LNG.
+The personal information you provide to us when using our Web Site, such as your name, postal or e-mail address or telephone number will be kept confidential and used to support your customer relationship with LNG, and to notify you of special offers, updated information and new products and services from LNG, offers from third parties that we think may be of interest to you, or used by LNG or third parties for the purpose of conducting market research or surveys on behalf of LNG. Agents or contractors of LNG who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for LNG.
 
 LNG may enhance or merge your information collected at its Web Site with data from third parties for purposes of marketing products or services to you.
 
