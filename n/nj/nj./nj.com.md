@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620154322id_/http%3A//www.nj.com/userguide/index.ssf%3F/njo_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205111600id_/http%3A//nj.com/userguide/index.ssf%3F/njo_privacy.html) for the most accurate reproduction.*
 
 # New Jersey Online: User Guide
 
@@ -45,14 +45,13 @@ Again, if you have any concerns regarding your child's or your use of **New Jers
 **»**  [ **jobs @ njo**](http://careersite.nj.com/perl/vaui/EmpList/top/foliobycust/99342-0162)  
 **»**  [ **home**](https://web.archive.org/userguide/index.ssf)  
   
-[](http://ads1.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/userguide/index.ssf//njo_privacy.html/20000620114159/1532382104/Tile1/NJONLINE/NJO_LIVING/DailyFunTile.gif/64306439366434633339346639306330) | MARKETPLACE  
+[](http://ads4.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/userguide/index.ssf//njo_privacy.html/20001205061643/1425597526/Tile1/NJONLINE/NJBUREAU02NJ01/BPUAskTile.gif/64306439366435633361326363653930) | MARKETPLACE  
 ---  
 |  |  |   
 **»** [Savings Center](https://web.archive.org/savings/)  
 **»** [Coupons & Deals](https://web.archive.org/savings/)  
 **»** [Auctions](https://web.archive.org/auctions/)  
 **»** [E-stores](https://web.archive.org/shopping/)  
-**»** [NJO Cyber Store](http://www.nj-store.com/)  
 **»** [Yellow Pages](http://nj.switchboard.com/bin/cgidir.dll?MEM=219)  
   
   
