@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectnavigator.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211225239id_/http%3A//strategicdatacorp.com/sdc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectnavigator.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602140301id_/http%3A//www.strategicdatacorp.com/sdc/privacy.html) for the most accurate reproduction.*
 
 # company-rkb
 
