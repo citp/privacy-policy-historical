@@ -1,0 +1,838 @@
+<!--The following is the downloaded HTML source of the presidentscup.com privacy policy that was archived on 2003-08-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030802110619id_/http%3A//www.pgatour.com/information/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<title>GolfWeb@PGATOUR.COM Privacy Statement</title>
+<meta name="description" content="Privacy statement">
+<meta name="keywords" content="PGATOUR.COM, GolfWeb, Privacy">
+<script type="text/javascript" language="JavaScript">
+<!--//
+	/*aol frameset*/
+	var ua = 'ia_archiver';
+	if (ua.indexOf("AOL") > 0) {
+		var s_prop9="AOL"; // for Omniture
+		var dclk_seg="aol"; // for Doubleclick
+		if (!parent.frames[1]) {
+			var thePage=new String(unescape(location.href)); 
+			window.location.replace('http://www.golfweb.com/partner/aol/index.html?' + thePage);
+		}
+	}
+
+function openPopup(arg1,arg2,arg3,arg4) {
+	if (arguments.length == 3) {var url = arg1; var name='NFLPopup'; var width = arg2; var height = arg3;	}
+	if (arguments.length == 4) {var url = arg1; var name=arg2; var width = arg3; var height = arg4;}
+	popupWin = window.open(url, name, 'menubar=0,toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,width=' +width +',height=' +height +',left=50,top=50');
+}
+
+// Begin RealOne
+var realPremURL = "http://www.golfweb.com/mm/realskins/premium.html";
+var realFreeURL = "http://www.golfweb.com/mm/realskins/free.html";
+var realAolURL = "http://www.golfweb.com/mm/realskins/aol.html";
+var realOtherURL = "http://www.golfweb.com/mm/realskins/otherOS.html";
+
+document.write('<OBJECT ID="IERPCtl" WIDTH=0 HEIGHT=0 CLASSID="CLSID:FDC7A535-4070-4B92-A0EA-D9994BCC0DC5"></OBJECT>');
+
+function isRealOne() {
+	RealOneInst = 'undetermined';
+	var agt=navigator.userAgent.toLowerCase();
+	var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+		&& (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+		&& (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1));
+	if (is_nav) {IERPCtl = 0;}
+	
+	if (navigator.plugins) {
+		if ((navigator.userAgent.charAt(8)) >= ('3')) {
+			var nPlayerInstalled=2;
+			var i=0;
+			while (navigator.plugins[i]){
+				if ((navigator.plugins[i].name) == 'RealOne Player Version Plugin'){
+					nPlayerInstalled=1;
+					szPlayerVersion=navigator.plugins[i].description;
+					break;
+					}
+				i++;
+			}
+			if ( nPlayerInstalled == 2 ){
+				var nRPVersion = IERPCtl.RealPlayerVersion;
+				if ( nRPVersion == null ){nPlayerInstalled=2;} 
+				else {nPlayerInstalled=1;}
+				}
+			}       
+			if (nPlayerInstalled == 1){RealOneInst = 'installed';} 
+			if (nPlayerInstalled == 2){RealOneInst = 'notinstalled';}
+			} 
+			else {RealOneInst = 'undetermined';}
+			if (RealOneInst == 'installed') {
+				if (agt.indexOf("(r1 ") != -1) {RealOneInst = 'using';}
+				}
+			return RealOneInst;
+			}
+
+function loadlink(page,premium) {
+	var agt=navigator.userAgent.toLowerCase();
+	var is_aol = (agt.indexOf("aol") != -1);
+
+	if (is_aol){window.location=realAolURL;}
+	else{
+		var checkbrowser = isRealOne(); 
+
+		if (checkbrowser == 'using') {window.location = (page);}
+		if (checkbrowser == 'installed') {window.location = (page);}
+		if (checkbrowser =='undetermined' || checkbrowser =='notinstalled') {
+
+			numPlugins = navigator.plugins.length;
+			oldRealPlayer = 'false';
+			for (i = 0; i < numPlugins; i++) {
+				plugin = navigator.plugins[i];
+				if (plugin.name.substring(0,10)=="RealPlayer") {oldRealPlayer = 'true';}
+				}	
+			}		
+		if (navigator.userAgent.indexOf("Mac") != -1) {
+			if (oldRealPlayer == 'true'){window.location = (page);}
+			else {
+				if (premium == 'yes') {openPopup(realPremURL,'r1popup',250,300);}
+				if (premium == 'no') {openPopup(realFreeURL,'r1popup',250,300);}
+				}
+			}
+		else {
+			if (navigator.userAgent.indexOf("95") != -1) {
+				oldRealPlayer = 'false';
+
+				var realVB = '<script language="VBscript">'
+				+'on error resume next'
+				+'RealPlayerG2 = not IsNull(CreateObject("rmocx.RealPlayer G2 Control"))'
+				+'if (RealPlayerG2) then oldRealPlayerIE=\"true\"'
+				+'else oldRealPlayerIE=\"false\"'
+				+'end if'
+				+'</scr' + 'ipt>';
+				document.writeln(realVB);
+			
+				numPlugins = navigator.plugins.length;
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.plugins[i];
+					if (plugin.name.substring(0,10)=="RealPlayer")	{oldRealPlayer = 'true';}
+				}
+				if (oldRealPlayer == 'true' || oldRealPlayerIE == 'true'){window.location = (page); }
+				else {
+					if (premium == 'yes') {openPopup(realPremURL,'r1popup',250,300);}
+					if (premium == 'no') {openPopup(realFreeURL,'r1popup',250,300);}
+					}	 	
+				}	
+			else {if (navigator.userAgent.indexOf("Win") != -1) {
+				if (checkbrowser == 'using' || checkbrowser =='installed') {window.location = (page);}
+				else {
+					if (premium == 'yes') {openPopup(realPremURL,'r1popup',250,300);}
+					if (premium == 'no') {openPopup(realFreeURL,'r1popup',250,300);}
+			  		}
+				}
+			else {openPopup(realOtherURL,'r1popup',250,160);}
+			}
+		}
+	}
+}
+
+// -->
+</script></head><body bgcolor="#29794A" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#000175"><object id="IERPCtl" width="0" height="0" classid="CLSID:FDC7A535-4070-4B92-A0EA-D9994BCC0DC5"></object>
+<!--Deployed By catron 7.8.2003 16:57:8 Log:20030708165701_594_catron-->
+<link rel="stylesheet" type="TEXT/CSS" href="/includes/default.css">
+
+
+
+
+
+<table width="770" border="0" cellspacing="0" cellpadding="0" bgcolor="#213829">
+<tbody><tr><td width="283"><map name="link">
+<area alt="" coords="5,3,56,67" href="http://www.pgatour.com">
+<area alt="" coords="62,39,164,70" href="http://www.golfweb.com">
+</map><img src="http://images.pgatour.com/images/lower_hdr.jpg" width="283" height="70" alt="PGA TOUR" border="0" usemap="#link"></td>
+<td width="487" align="center"><script type="text/javascript" language="JavaScript">
+<!--//
+/*top-page DCLK & Hitbox*/
+
+var vTag = "ros;arena=golf;type=psa;page=lower";
+var pTag = "dcopt=ist";
+var s_prop1 = "GolfWeb";
+var s_prop2 = "Other";
+var s_prop3 = "";
+var s_prop4 = "";
+var s_prop5 = "";
+var s_prop6 = "";
+var s_prop7 = "";
+var s_prop8 = "GolfWeb:Other";
+if (!s_prop9) {var s_prop9 = "";}
+var s_prop10 = "";
+var s_prop11 = "";
+var s_prop12 = "";
+var s_prop13 = "";
+var s_prop14 = "";
+var s_prop15 = "";
+var s_prop16 = "";
+var s_prop17 = "";
+var s_prop18 = "";
+if (!_mlc) {var _mlc="/golfweb/other/G;/golf/golfweb";}
+if (!_aff) {var _aff="9";}else{_aff += "9";}
+var _acct="DM510721FIEM95EN3;DM51072221AE95EN3";
+if (!s_pageName) {var s_pageName=location.pathname;}
+if (!s_pageName) {var s_pageName=location.host;}
+if (!s_server) {var s_server=location.host;}
+if (s_pageName) {s_prop8 +=':'+s_pageName;}
+if (!s_pageType) {var s_pageType="";}
+if (!dclk_seg) {var dclk_seg='nonaol';}
+if (dclk_seg != 'NUL') {vTag +=';seg='+dclk_seg;}
+if (dclk_seg == 'aol') {var pTag="pop=off";}
+if (!NS4) {var NS4 = (document.layers) ? 1 : 0;}
+if (NS4) {var pTag="pop=off";}
+if (s_prop9 != 'AOL') {var s_prop9="Other";}
+if (!document.layers) {
+        if (document.body.addBehavior) {
+                document.body.addBehavior("#default#clientCaps");
+
+                dclk_TempStr =  ";ctype=" + document.body.connectionType +
+                                ";lang=" + document.body.systemLanguage +
+                                ";lang=" + document.body.userLanguage;
+        }
+}
+if (!dclk_TempStr) {var dclk_TempStr='NUL';}
+if (dclk_TempStr != 'NUL') {vTag +=dclk_TempStr;}
+
+function readAdCookie(name) {
+    if(document.cookie == '') { 
+			return false; 
+    	} else { 
+	var firstChar, lastChar;
+	var theBigCookie = document.cookie;
+	name = name + '=';
+	firstChar = theBigCookie.indexOf(name);	
+	if (firstChar != -1) {
+	    firstChar += name.length;
+	    lastChar = theBigCookie.indexOf(';', firstChar); 
+	    if(lastChar == -1) lastChar = theBigCookie.length;
+	    return unescape(theBigCookie.substring(firstChar, lastChar));
+	} else {return false;}
+ }	
+} 
+var sessionID = readAdCookie('SessionID');
+if (sessionID) {var uID='u='+sessionID;}
+if (!uID) {var uID="u=null";}
+if (!vTarget) {var vTarget="vt=null";}
+if (!pTag) {var pTag="pop=off";}
+if (!adLookup) {var adLookup="not set";}
+if (!random) {var abc=Math.random() + ""; var random=abc.substring(2,abc.length);}
+document.write('<script src="http://ad.doubleclick.net/adj/banners.golfweb.com/'+vTag+';'+vTarget+';'+pTag+';'+uID+';sz=468x60;tile=1;ord='+random+'?"><\/script>');
+// -->
+</script><script src="http://ad.doubleclick.net/adj/banners.golfweb.com/ros;arena=golf;type=psa;page=lower;seg=nonaol;vt=null;dcopt=ist;u=null;sz=468x60;tile=1;ord=8000828006613798?"></script>
+<div style="position:absolute; width:1; height:1; left:-50; top:-50; z-index:5;"><table width="0" height="0" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td bgcolor="#213829">
+<!-- SiteCatalyst code version: G.2-Custom.
+Copyright 1997-2003 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+/*************** DO NOT ALTER THE FOLLOWING 2 LINES ! ***************/
+var s_code=' '//--></script>
+<script language="JavaScript"><!--
+/************************ ADDITIONAL FEATURES ************************
+     Style Sheet Usage
+     Dynamic Account Selection
+     Plugins
+	Custom:
+		Removal Of NO-JavaScript Support
+		Addition Of s_account Variable Support
+*/
+/************************** CONFIG SECTION **************************/
+/* You may add or alter any code config here.                       */
+/* Specify the Report Suite ID(s) to track here */
+var s_account="cbspgatour"
+//var s_account="devcbspgatour"
+var s_dynamicAccountSelection=false
+var s_dynamicAccountList=""
+/* E-commerce Config */
+var s_eVarCFG=""
+/* Link Tracking Config */
+var s_trackDownloadLinks=true
+var s_trackExternalLinks=true
+var s_trackInlineStats=true
+var s_linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,doc,pdf,xls,ram"
+var s_linkInternalFilters="javascript:,pgatour,golfweb,worldgolfchampionships,presidentscup,tpc,playatpc"
+var s_linkExternalFilters="sportsline,nfl,ncaasports"
+var s_linkLeaveQueryString=false
+/* Plugin Config */
+var s_usePlugins=true
+function s_doPlugins() {
+	/* Add calls to plugins here */
+}
+
+/************************** PLUGINS SECTION *************************/
+/* You may insert any plugins you wish to use here.                 */
+/*
+ * Plugin: Get Plugin Modified Value
+ */
+function s_vp_getValue(vs)
+	{var k=vs.substring(0,2)=='s_'?vs.substring(2):vs;return s_wd[
+	's_vpm_'+k]?s_wd['s_vpv_'+k]:s_gg(k)}
+/*
+ * Plugin: Get Query String CGI Variable Value
+ */
+function s_vp_getCGI(vs,k)
+	{var v='';if(k&&s_wd.location.search){var q=s_wd.location.search,
+	qq=q.indexOf('?');q=qq<0?q:q.substring(qq+1);v=s_pt(q,'&',s_cgif,
+	k)}s_vpr(vs,v)}function s_cgif(t,k){if(t){var te=t.indexOf('='),
+	sk=te<0?t:t.substring(0,te),sv=te<0?'True':t.substring(te+1);if(
+	sk==k)return s_epa(sv)}return ''}
+/*
+ * Plugin: Get State Of Form On Abandon
+ */
+function s_vp_getFormAbandonState(vs,lt,ln)
+	{if(!s_wd.s_vp_faolr){s_wd.s_vp_faol=s_wd.onload;s_wd.onload=
+	s_vp_fas;s_wd.s_vp_favs=vs;s_wd.s_vp_falt=lt;s_wd.s_vp_faln=ln
+	s_wd.s_vp_faolr=1}}var s_vp_faolr=0;function s_vp_fas(e){var r=
+	true;if(s_wd.s_vp_faol)r=s_wd.s_vp_faol(e);if(s_d.forms&&
+	s_d.forms.length>0){var vs=s_wd.s_vp_favs,p=s_gg('pageName'),fn,
+	f,en,el,t,oc,och;for(fn=0;fn<s_d.forms.length;fn++){f=s_d.forms[
+	fn];if(vs&&!s_wd[vs])s_wd[vs]=(f.name?f.name:(p?p:''))
+	+':No Data Entered';for(en=0;en<f.elements.length;en++){el=
+	f.elements[en];t=el.type;if(t&&t.toUpperCase){t=t.toUpperCase()
+	oc=el.onclick?el.onclick.toString():'';och=el.onchange?
+	el.onchange.toString():'';if(oc.indexOf("s_vp_fac(")<0&&
+	och.indexOf("s_vp_fac(")<0){if(t=='BUTTON'||t=='CHECKBOX'||t==
+	'RADIO'||t=='RESET'||t=='SUBMIT'||t=='IMAGE'){el.s_vp_faoc=
+	el.onclick;if(((f.name&&oc.indexOf(f.name)>=0)||(oc.indexOf(
+	'form.')>=0))&&oc.indexOf("submit(")>=0)el.onclick=s_vp_fasu;else
+	el.onclick=s_vp_fac}else{el.s_vp_faoch=el.onchange;if(((f.name&&
+	och.indexOf(f.name)>=0)||(och.indexOf('form.')>=0))&&och.indexOf(
+	"submit(")>=0)el.onchange=s_vp_fasu;else el.onchange=s_vp_fac }}}
+	}f.s_vp_faos=f.onsubmit;f.onsubmit=s_vp_fasu}s_wd.s_vp_faul=
+	s_wd.onunload;s_wd.onunload=s_vp_fa}return r}function s_vp_fa(e){
+	var vs=s_wd.s_vp_favs;if(vs&&s_wd[vs]){s_lnk=new Object
+	s_linkType=s_wd.s_vp_falt;s_linkName=s_wd.s_vp_faln;s_gs('')
+	s_lnk=''}if(s_wd.s_ful)return s_wd.s_ful(e);return true}
+	function s_vp_fasu(e){var vs=s_wd.s_vp_favs;if(vs)s_wd[vs]='';if(
+	this.s_vp_faos)return this.s_vp_faos(e);if(this.s_vp_faoc)
+	return this.s_vp_faoc(e);if(this.s_vp_faoch)
+	return this.s_vp_faoch(e);return true}function s_vp_fac(e){var b=
+	"s_gs(",vs=s_wd.s_vp_favs,f=this.form,p=s_gg('pageName');if(vs)
+	s_wd[vs]=(f.name?f.name:(p?p:''))+':'+(this.name?this.name:'')
+	if(this.s_vp_faoc)return this.s_vp_faoc(e);if(this.s_vp_faoch)
+	return this.s_vp_faoch(e);return true}
+/*
+ * Plugin Utilities v2.0 (Required For All Plugins)
+ */
+function s_vpr(vs,v){if(s_wd[vs])s_wd[vs]=s_wd[vs];else s_wd[vs]=''
+if(vs.substring(0,2) == 's_')vs=vs.substring(2);s_wd['s_vpv_'+vs]=v
+s_wd['s_vpm_'+vs]=1}function s_dt(tz,t){var d=new Date;if(t)d.setTime(
+t);d=new Date(d.getTime()+(d.getTimezoneOffset()*60*1000))
+return new Date(Math.floor(d.getTime()+(tz*60*60*1000)))}
+function s_vh_gt(k,v){var vh='|'+s_c_r('s_vh_'+k),vi=vh.indexOf('|'+v
++'='),ti=vi<0?vi:vi+2+v.length,pi=vh.indexOf('|',ti),t=ti<0?'':
+vh.substring(ti,pi<0?vh.length:pi);return t}function s_vh_gl(k){var
+vh=s_c_r('s_vh_'+k),e=vh?vh.indexOf('='):0;return vh?(vh.substring(0,
+e?e:vh.length)):''}function s_vh_s(k,v){if(k&&v){var e=new Date,st=
+e.getTime(),y=e.getYear(),c='s_vh_'+k,vh='|'+s_c_r(c)+'|',t=s_vh_gt(k,
+v);e.setYear((y<1900?y+1900:y)+5);if(t)vh=s_rep(vh,'|'+v+'='+t+'|','|'
+);if(vh.substring(0,1)=='|')vh=vh.substring(1);if(vh.substring(
+vh.length-1,vh.length)=='|')vh=vh.substring(0,vh.length-1);vh=v
++'=[PCC]'+(vh?'|'+vh:'');s_c_w(c,vh,e);if(s_vh_gt(k,v)!='[PCC]')
+return 0;vh=s_rep(vh,'[PCC]',st);s_c_w(c,vh,e)}return 1}
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_un,s_ios=0,s_csss=0,s_q='',s_code='',code='',s_bcr=0,s_lnk='',
+s_eo='',s_vb,s_tfs=0,s_etfs=0,s_wd=window,s_ssl=(
+s_wd.location.protocol.toLowerCase().indexOf('https')>=0),s_d=
+s_wd.document,s_n=navigator,s_u=s_n.userAgent,s_apn=s_n.appName,s_v=
+s_n.appVersion,s_apv,s_i,s_ie=s_v.indexOf('MSIE '),s_ns6=s_u.indexOf(
+'Netscape6/');if(s_v.indexOf('Opera')>=0||s_u.indexOf('Opera')>=0)
+s_apn='Opera';var s_isie=(s_apn=='Microsoft Internet Explorer'),
+s_isns=(s_apn=='Netscape'),s_isopera=(s_apn=='Opera'),s_ismac=(
+s_u.indexOf('Mac')>=0);if(s_ie>0){s_apv=parseInt(s_i=s_v.substring(
+s_ie+5));if(s_apv>3)s_apv=parseFloat(s_i)}else if(s_ns6>0)s_apv=
+parseFloat(s_u.substring(s_ns6+10));else s_apv=parseFloat(s_v)
+function s_co(o){if(!o)return o;var n=new Object;for(x in o)n[x]=o[x]
+return n}function s_num(x){var s=x.toString(),g='0123456789',p,d;for(
+p=0;p<s.length;p++){d=s.substring(p,p+1);if(g.indexOf(d)<0)return 0}
+return 1}function s_rep(s,o,n){var i=s.indexOf(o),l=n.length>0?
+n.length:1;while(s&&i>=0){s=s.substring(0,i)+n+s.substring(i+o.length)
+i=s.indexOf(o,i+l)}return s}function s_ape(s){return s_rep(escape(s),
+'+','%2B')}function s_epa(s){return unescape(s_rep(s,'+',' '))}
+function s_pt(s,d,f,a){var t=s,x=0,y,r;while(t){y=t.indexOf(d);y=y<0?
+t.length:y;t=t.substring(0,y);r=f(t,a);if(r)return r;x+=y+d.length;t=
+s.substring(x,s.length);t=x<s.length?t:''}return ''}function s_fl(s,l)
+{return (s+'').substring(0,l)}var s_c_d='';function s_c_gdf(t,a){if(
+!s_num(t))return 1;return 0}function s_c_gd(){var d=
+s_wd.location.hostname,p;if(d&&!s_c_d){p=d.indexOf('.');while(p>=0&&
+d.substring(p+1).indexOf('.')>=0){d=d.substring(p+1);p=d.indexOf('.')}
+s_c_d=d.indexOf('.')>=0&&s_pt(d,'.',s_c_gdf,0)?'.'+d:''}return s_c_d}
+function s_c_r(k){k=s_ape(k);var c=' '+s_d.cookie,s=c.indexOf(' '+k
++'='),e=s<0?s:c.indexOf(';',s),v=s<0?'':s_epa(c.substring(s+2
++k.length,e<0?c.length:e));return v}function s_c_w(k,v,e){var d=
+s_c_gd();if(k)s_d.cookie=k+'='+s_ape(v)+'; '+'path=/;'+(e?' expires='
++e.toGMTString()+';':'')+(d?' domain='+d+';':'');return s_c_r(k)==v}
+function s_cet(f,a,et,oe,fb){var r,d=0
+/*@cc_on@if(@_jscript_version>=5){try{return f(a)}catch(e){return et(e)}d=1}@end@*/
+if(!d){if(s_ismac&&s_u.indexOf('MSIE 4')>=0)return fb(a);else{
+s_wd.s_oe=s_wd.onerror;s_wd.onerror=oe;r=f(a);s_wd.onerror=s_wd.s_oe
+return r}}}function s_gtfset(e){return s_tfs}function s_gtfsoe(e){
+s_wd.onerror=s_wd.s_oe;s_etfs=1;var code=s_gs(s_un);if(code)s_d.write(
+code);s_etfs=0;return true}function s_gtfsfb(a){return s_wd}
+function s_gtfsf(w){var p=w.parent,l=w.location;s_tfs=w;if(p&&
+p.location!=l&&p.location.host==l.host){s_tfs=p;return s_gtfsf(s_tfs)}
+return s_tfs}function s_gtfs(){if(!s_tfs){s_tfs=s_wd;if(!s_etfs)s_tfs=
+s_cet(s_gtfsf,s_tfs,s_gtfset,s_gtfsoe,s_gtfsfb)}return s_tfs}
+function s_ca(un){un=un.toLowerCase()
+if(!s_csss&&s_d.styleSheets&&s_isie&&!s_ismac&&s_apv>=5)s_csss=1;if(
+s_csss){if(s_d.styleSheets.length<1)s_d.write('<st'+'yle type="text/c'
++'ss"></st'+'yle>');if(!s_d.styleSheets[0]||!s_d.styleSheets[0
+].addImport)s_csss=0}
+var ci=un.indexOf(','),fun=ci<0?un:un.substring(0,ci),imn='s_i_'+fun
+if(!s_ios&&s_d.images&&s_apv>=3&&!s_isopera&&(s_ns6<0||s_apv>=6.1))
+s_ios=1;if(!s_csss&&s_ios&&!s_d.images[imn]){s_d.write('<im'
++'g name="'+imn+'" height=1 width=1 border=0 alt="">');if(!s_d.images[
+imn])s_ios=0}}function s_it(un){s_ca(un)}function s_mr(un,sess,q,ta){
+un=un.toLowerCase();var ci=un.indexOf(','),fun=ci<0?un:un.substring(0,
+ci),imn='s_i_'+fun,unc=s_rep(fun,'_','-'),rs='http'+(s_ssl?'s':'')
++'://'+(s_ssl?'102':unc)+'.112.2O7.net/b/ss/'+un+'/'+(s_csss?0:1)+'/G.3-XPd-F/'
++sess+'?'+'[AQB]&ndh=1'+(q?q:'')+(s_q?s_q:'')+'&[AQE]'
+if(s_csss)s_d.styleSheets[0].addImport(rs);else
+if(s_ios){if(!s_d.images[imn]){var im=new Image;im.src=rs}else
+s_d.images[imn].src=rs}if(s_csss||s_ios){if(rs.indexOf('&pe=')>=0&&(
+!ta||ta=='_self'||ta=='_top'||(s_wd.name&&ta==s_wd.name))){var b=
+new Date,e=new Date;while(e.getTime()-b.getTime()<500)e=new Date}
+return ''}return '<im'+'g sr'+'c="'+rs
++'" width=1 height=1 border=0 alt="">'}function s_gg(v){var g='s_'+v
+return s_wd[g]||s_wd.s_disableLegacyVars ? s_wd[g] : s_wd[v]}var
+s_qav='';function s_havf(t,a){var b=t.substring(0,4),s=t.substring(4),
+n=parseInt(s),k='s_g_'+t,m='s_vpm_'+t,q=t;if(!s_wd['s_'+t])s_wd['s_'+t
+]='';s_wd[k]=s_wd[m]?s_wd['s_vpv_'+t]:s_gg(t);s_wd[m]=0;if(t==
+'charSet')q='ce';else if(t=='cookieDomainPeriods')q='cdp';else if(t==
+'cookieLifetime')q='cl';else if(t=='channel')q='ch';else if(t==
+'campaign')q='v0';else if(s_num(s)){if(b=='prop')q='c'+n;else if(b==
+'eVar')q='v'+n}if(s_wd[k]&&t!='linkName'&&t!='linkType')s_qav+='&'+q
++'='+s_ape(s_wd[k]);return ''}function s_hav(){var n,av='charSet,cook'
++'ieDomainPeriods,cookieLifetime,pageName,channel,server,pageType,cam'
++'paign,state,zip,events,products,purchaseID,eVarCFG,linkName,linkTyp'
++'e';for(n=1;n<26;n++)av+=',prop'+n+',eVar'+n;s_qav='';s_pt(av,',',
+s_havf,0);return s_qav}function s_lnf(t,h){t=t?t.toLowerCase():'';h=h?
+h.toLowerCase():'';var te=t.indexOf('=');if(t&&te>0&&h.indexOf(
+t.substring(te+1))>=0)return t.substring(0,te);return ''}
+function s_ln(h){if(s_gg('linkNames'))return s_pt(s_gg('linkNames'),
+',',s_lnf,h);return ''}function s_ltdf(t,h){t=t?t.toLowerCase():'';h=
+h?h.toLowerCase():'';var qi=h.indexOf('?');h=qi>=0?h.substring(0,qi):h
+if(t&&h.substring(h.length-(t.length+1))=='.'+t)return 1;return 0}
+function s_ltef(t,h){t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';if(
+t&&h.indexOf(t)>=0)return 1;return 0}function s_lt(h){var lft=s_gg(
+'linkDownloadFileTypes'),lef=s_gg('linkExternalFilters'),lif=s_gg(
+'linkInternalFilters')?s_gg('linkInternalFilters'):
+s_wd.location.hostname;h=h.toLowerCase();if(s_gg('trackDownloadLinks'
+)&&lft&&s_pt(lft,',',s_ltdf,h))return 'd';if(s_gg('trackExternalLinks'
+)&&(lef||lif)&&(!lef||s_pt(lef,',',s_ltef,h))&&(!lif||!s_pt(lif,',',
+s_ltef,h)))return 'e';return ''}function s_lc(e){s_lnk=s_co(this)
+s_gs('');s_lnk='';if(this.s_oc)return this.s_oc(e);return true}
+function s_ls(){var l,ln,oc;for(ln=0;ln<s_d.links.length;ln++){l=
+s_d.links[ln];oc=l.onclick?l.onclick.toString():'';if(oc.indexOf(
+"s_gs(")<0&&oc.indexOf("s_lc(")<0){l.s_oc=l.onclick;l.onclick=s_lc}}}
+function s_bc(e){s_eo=e.srcElement?e.srcElement:e.target;s_gs('')
+s_eo=''}function s_ot(o){var x=o.type,y=o.tagName;return (x&&
+x.toUpperCase?x:y&&y.toUpperCase?y:o.href?'A':'').toUpperCase()}
+function s_oid(o){var t=s_ot(o),p=o.protocol,c=o.onclick,n='',x=0;if(
+!o.s_oid){if(o.href&&(t=='A'||t=='AREA')&&(!c||!p||p.toLowerCase(
+).indexOf('javascript')<0))n=o.href;else if(c){n=s_rep(s_rep(s_rep(
+s_rep(c.toString(),"\r",''),"\n",''),"\t",''),' ','');x=2}else if(
+o.value&&(t=='INPUT'||t=='SUBMIT')){n=o.value;x=3}else if(o.src&&t==
+'IMAGE')n=o.src;if(n){o.s_oid=s_fl(n,100);o.s_oidt=x}}return o.s_oid}
+function s_rqf(t,un){var e=t.indexOf('='),u=e>=0?','+t.substring(0,e)
++',':'';return u&&u.indexOf(','+un+',')>=0?s_epa(t.substring(e+1)):''}
+function s_rq(un){var c=un.indexOf(','),v=s_c_r('s_sq'),q='';if(c<0)
+return s_pt(v,'&',s_rqf,un);return s_pt(un,',',s_rq,0)}var s_sqq,s_squ
+function s_sqp(t,a){var e=t.indexOf('='),q=e<0?'':s_epa(t.substring(e
++1));s_sqq[q]='';if(e>=0)s_pt(t.substring(0,e),',',s_sqs,q);return 0}
+function s_sqs(un,q){s_squ[un]=q;return 0}function s_sq(un,q){s_sqq=
+new Object;s_squ=new Object;s_sqq[q]='';var k='s_sq',v=s_c_r(k),x,c=0
+s_pt(v,'&',s_sqp,0);s_pt(un,',',s_sqs,q);v='';for(x in s_squ)s_sqq[
+s_squ[x]]+=(s_sqq[s_squ[x]]?',':'')+x;for(x in s_sqq)if(x&&s_sqq[x]&&(
+x==q||c<2)){v+=(v?'&':'')+s_sqq[x]+'='+s_ape(x);c++}return s_c_w(k,v,0
+)}function s_wdl(e){s_wd.s_wd_l=1;var r=true;if(s_wd.s_ol)r=s_wd.s_ol(
+e);if(s_wd.s_ls)s_wd.s_ls();return r}function s_wds(un){un=
+un.toLowerCase();s_wd.s_wd_l=1;if(s_apv>3&&(!s_isie||!s_ismac||s_apv>=
+5)){s_wd.s_wd_l=0;if(!s_wd.s_unl)s_wd.s_unl=new Array;s_wd.s_unl[
+s_wd.s_unl.length]=un;if(s_d.body&&s_d.body.attachEvent){if(
+!s_wd.s_bcr&&s_d.body.attachEvent('onclick',s_bc))s_wd.s_bcr=1}
+else if(s_d.body&&s_d.body.addEventListener){if(!s_wd.s_bcr&&
+s_d.body.addEventListener('click',s_bc,false))s_wd.s_bcr=1}else{var
+ol=s_wd.onload?s_wd.onload.toString():'';if(ol.indexOf("s_wdl(")<0){
+s_wd.s_ol=s_wd.onload;s_wd.onload=s_wdl}}}}function s_vs(un,x){var s=
+s_gg('visitorSampling'),g=s_gg('visitorSamplingGroup'),k='s_vsn_'+un+(
+g?'_'+g:''),n=s_c_r(k),e=new Date,y=e.getYear();e.setYear(y+10+(y<
+1900?1900:0));if(s){s*=100;if(!n){if(!s_c_w(k,x,e))return 0;n=x}if(n%
+10000>s)return 0}return 1}
+function s_gs(un){un=un.toLowerCase()
+s_un=un;var trk=1,tm=new Date,sed=Math&&Math.random?Math.floor(
+Math.random()*10000000000000):tm.getTime(),sess='s'+Math.floor(
+tm.getTime()/10800000)%10+sed,yr=tm.getYear(),t,ta='',q='',qs='';yr=
+yr<1900?yr+1900:yr;t=tm.getDate()+'/'+tm.getMonth()+'/'+yr+' '
++tm.getHours()+':'+tm.getMinutes()+':'+tm.getSeconds()+' '+tm.getDay()
++' '+tm.getTimezoneOffset();if(!s_q){s_d.cookie='s_cc=true; path=/'
+var tfs=s_gtfs(),tl=tfs.location,r=tfs.document.referrer,s='',c='',v=
+'',p='',bw='',bh='',j='1.0',vb=s_vb?s_vb:'',g=s_wd.location,k=
+s_d.cookie.indexOf('s_cc=')>=0?'Y':'N',hp='',ct='';if(s_apv>=4)s=
+screen.width+'x'+screen.height;if(s_isns||s_isopera){if(s_apv>=3){j=
+'1.1';var i1=0,i2=0,sta;while(i2<30&&i1<navigator.plugins.length){sta=
+navigator.plugins[i1].name;if(sta.length>100)sta=sta.substring(0,100)
+sta+=';';if(p.indexOf(sta)<0)p+=sta;i1++;i2++}v=navigator.javaEnabled(
+)?'Y':'N'}if(s_apv>=4){j='1.2';c=screen.pixelDepth;bw=s_wd.innerWidth
+bh=s_wd.innerHeight}if(s_apv>=4.06)j='1.3'}else if(s_isie){if(s_apv<4)
+r='';if(s_apv>=4){v=navigator.javaEnabled()?'Y':'N';j='1.2';c=
+screen.colorDepth}if(s_apv>=5){bw=s_d.documentElement.offsetWidth;bh=
+s_d.documentElement.offsetHeight;j='1.3';if(!s_ismac&&s_d.body){
+s_d.body.addBehavior("#default#homePage");hp=s_d.body.isHomePage(tl)?
+"Y":"N";s_d.body.addBehavior("#default#clientCaps");ct=
+s_d.body.connectionType}}}s_q=(g?'&g='+s_ape(s_fl(g,255)):'')+(r?'&r='
++s_ape(s_fl(r,255)):'')+(s?'&s='+s_ape(s):'')+(c?'&c='+s_ape(c):'')+(
+j?'&j='+j:'')+(v?'&v='+v:'')+(k?'&k='+k:'')+(bw?'&bw='+bw:'')+(bh?
+'&bh='+bh:'')+(vb?'&vb='+vb:'')+(ct?'&ct='+s_ape(ct):'')+(hp?'&hp='
++hp:'')+(p?'&p='+s_ape(p):'')}if(s_gg('usePlugins'))s_wd.s_doPlugins()
+q+=(t?'&t='+s_ape(t):'')+s_hav();if(s_lnk||s_eo){var o=s_eo?s_eo:s_lnk
+if(!o)return '';var p=s_wd.s_g_pageName,w=1,t=s_ot(o),n=s_oid(o),x=
+o.s_oidt,h,l,i,oc;if(s_eo&&o==s_eo){while(o&&!n&&t!='BODY'){o=
+o.parentElement?o.parentElement:o.parentNode;if(!o)return '';t=s_ot(o)
+n=s_oid(o);x=o.s_oidt}oc=o.onclick?o.onclick.toString():'';if(
+oc.indexOf("s_gs(")>=0)return ''}ta=o.target;h=o.href?o.href:'';i=
+h.indexOf('?');h=s_gg('linkLeaveQueryString')||i<0?h:h.substring(0,i)
+l=s_gg('linkName')?s_gg('linkName'):s_ln(h);t=s_gg('linkType')?s_gg(
+'linkType').toLowerCase():s_lt(h);if(t&&(h||l))q+='&pe=lnk_'+(t=='d'||
+t=='e'?s_ape(t):'o')+(h?'&pev1='+s_ape(h):'')+(l?'&pev2='+s_ape(l):'')
+else trk=0;if(s_gg('trackInlineStats')){if(!p){p=s_wd.location.href;w=
+0}p=p?s_fl(p,255):'';t=s_ot(o);i=o.sourceIndex;if(s_gg('objectID')){n=
+s_gg('objectID');x=1;i=1}if(p&&n&&t)qs='&pid='+s_ape(p)+(w?'&pidt='+w:
+'')+'&oid='+s_ape(n)+(x?'&oidt='+x:'')+'&ot='+s_ape(t)+(i?'&oi='+i:'')
+}s_wd.s_linkName=s_wd.s_linkType=s_wd.s_objectID=s_lnk=s_eo='';if(
+!s_wd.s_disableLegacyVars)s_wd.linkName=s_wd.linkType=s_wd.objectID=''
+}if(!trk&&!qs)return '';var code='';if(un){if(trk&&s_vs(un,sed))code+=
+s_mr(un,sess,q+(qs?qs:s_rq(un)),ta);s_sq(un,trk?'':qs)}else if(
+s_wd.s_unl)for(var unn=0;unn<s_wd.s_unl.length;unn++){un=s_wd.s_unl[
+unn];if(trk&&s_vs(un,sed))code+=s_mr(un,sess,q+(qs?qs:s_rq(un)),ta)
+s_sq(un,trk?'':qs)}return code}function s_dc(un){un=un.toLowerCase()
+s_wds(un);s_ca(un);return s_gs(un)}
+s_code=s_dc(s_account);if(s_code)document.write(s_code)
+//--></script><img name="s_i_cbspgatour" height="1" width="1" border="0" alt="" src="https://102.112.2O7.net/b/ss/cbspgatour/1/G.3-XPd-F/s03518388743101?[AQB]&amp;ndh=1&amp;t=30/0/2020%207%3A32%3A18%204%200&amp;pageName=/web/20030802110619id_/http%253A//www.pgatour.com/information/privacy.html&amp;server=web.archive.org&amp;c1=GolfWeb&amp;c2=Other&amp;c8=GolfWeb%3AOther%3A/web/20030802110619id_/http%253A//www.pgatour.com/information/privacy.html&amp;c9=Other&amp;g=https%3A//web.archive.org/web/20030802110619id_/http%253A//www.pgatour.com/information/privacy.html&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://cbspgatour.112.2O7.net/b/ss/cbspgatour/1/G.3--NS/0" height="1" width="1" border="0" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: G.3. --></td></tr></tbody></table></div>
+</td></tr></tbody></table>
+
+
+
+<script language="JavaScript1.2">
+<!--
+//function ShowLayer(){return};
+//function OutLayer(){return};
+//-->
+</script>
+
+
+
+<table width="770" border="0" cellspacing="0" cellpadding="0" background="http://images.pgatour.com/images/gn_bg.gif">
+<tbody><tr><td height="25" align="LEFT">
+
+
+<table border="0" cellspacing="0" cellpadding="0" background="">
+<tbody><tr>
+<td class="gnsbtxt" height="25" nowrap="">&nbsp;<img src="http://images.pgatour.com/images/gn_left.gif" width="8" height="25" border="0" alt="" hspace="0" vspace="0" align="middle"></td><td align="center" background="http://images.pgatour.com/images/gn_middle.gif" class="gnsbtxt2"><a href="/index.html" name="gnddhomeA" id="gnddhomeA" onmouseover="ShowLayer('gnddhome', event)" onmouseout="OutLayer();" class="gnsbtxt2">Home</a></td>
+<td class="gnsbtxt" height="25" nowrap=""><img src="http://images.pgatour.com/images/gn_right.gif" width="8" height="25" border="0" alt="" hspace="0" vspace="0" align="middle">&nbsp;&nbsp;</td>
+
+
+<td class="gnsbtxt"><a href="http://www.pgatour.com/players/index.html" name="gnddplaA" id="gnddplaA" onmouseover="ShowLayer('gnddpla', event)" onmouseout="OutLayer();">Players</a></td>
+<td class="gnsbtxt">&nbsp;<b>·</b>&nbsp;</td>
+
+
+<td class="gnsbtxt"><a href="http://www.pgatour.com/tournaments/index.html" name="gnddtouA" id="gnddtouA" onmouseover="ShowLayer('gnddtou', event)" onmouseout="OutLayer();">Tournaments</a></td>
+<td class="gnsbtxt">&nbsp;<b>·</b>&nbsp;</td>
+
+
+<td class="gnsbtxt"><a href="http://www.pgatour.com/scoring/index.html" name="gnddscoA" id="gnddscoA" onmouseover="ShowLayer('gnddsco', event)" onmouseout="OutLayer();">Scoring</a></td>
+<td class="gnsbtxt">&nbsp;<b>·</b>&nbsp;</td>
+
+
+<td class="gnsbtxt"><a href="http://www.pgatour.com/stats/index.html" name="gnddstaA" id="gnddstaA" onmouseover="ShowLayer('gnddsta', event)" onmouseout="OutLayer();">Stats</a></td>
+<td class="gnsbtxt">&nbsp;<b>·</b>&nbsp;</td>
+
+
+<td class="gnsbtxt"><a href="http://www.sportsline.com/redir?url=981" name="gnddshpA" id="gnddshpA" onmouseover="ShowLayer('gnddshp', event)" onmouseout="OutLayer();">Shop</a></td>
+<td class="gnsbtxt">&nbsp;<b>·</b>&nbsp;</td>
+
+
+<td class="gnsbtxt"><a href="http://www.pgatour.com/mm/index.html" name="gnddmltA" id="gnddmltA" onmouseover="ShowLayer('gnddmlt', event)" onmouseout="OutLayer();">Multimedia</a></td>
+<td class="gnsbtxt">&nbsp;<b>·</b>&nbsp;</td>
+
+
+<td class="gnsbtxt"><a href="http://www.pgatour.com/practicetee/index.html" name="gnddinsA" id="gnddinsA" onmouseover="ShowLayer('gnddins', event)" onmouseout="OutLayer();">Instruction</a></td>
+<td class="gnsbtxt">&nbsp;<b>·</b>&nbsp;</td>
+
+
+<td class="gnsbtxt"><a href="http://www.golfweb.com/travel/index.html" name="gnddtraA" id="gnddtraA" onmouseover="ShowLayer('gnddtra', event)" onmouseout="OutLayer();">Travel</a></td>
+<td class="gnsbtxt">&nbsp;<b>·</b>&nbsp;</td>
+
+
+<td class="gnsbtxt"><a href="http://golf.fantasy.pgatour.com/splash/golf/pgatour/challenge" name="gnddfanA" id="gnddfanA" onmouseover="ShowLayer('gnddfan', event)" onmouseout="OutLayer();">Fantasy</a></td>
+<td class="gnsbtxt">&nbsp;<b>·</b>&nbsp;</td>
+
+
+<td class="gnsbtxt"><a href="http://www.pgatour.com/events/index.html" name="gnddeveA" id="gnddeveA" onmouseover="ShowLayer('gnddeve', event)" onmouseout="OutLayer();">Events</a></td>
+<td class="gnsbtxt">&nbsp;<b>·</b>&nbsp;</td>
+
+<td class="gnsbtxt"><a href="http://www.pgatour.com/tourcast/index.html" name="gnddtourA" id="gnddtourA" onmouseover="ShowLayer('gnddtour', event)" onmouseout="OutLayer();">TOURC<font class="a1"><b>AST</b></font></a></td>
+<td class="gnsbtxt">&nbsp;<b>·</b>&nbsp;</td>
+
+<td class="gnsbtxt"><a href="http://www.sportsline.com" name="gnddmoreA" id="gnddmoreA" onmouseover="ShowLayer('gnddmore', event)" onmouseout="OutLayer();">SportsLine.com</a></td>
+
+</tr></tbody></table>
+</td>
+</tr>
+</tbody></table>
+<script language="JavaScript1.2" src="/includes/script/pd.js" type="text/javascript"></script>
+
+
+<!--Deployed By flynn 5.22.2003 20:35:49 Log:20030522203542_1166_flynn-->
+
+
+<table width="770" border="0" cellspacing="0" cellpadding="0" class="bk">
+<tbody><tr>
+<td width="10">&nbsp;</td>
+<td width="610" valign="top">	
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr><td colspan="3">
+		<div class="spacer5"></div>
+<font class="a4"><b>Privacy statement for SportsLine.com</b></font>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="bottom"><td class="a2">
+<!-- EMAIL A FRIEND -->
+        <span class="v1"><b>
+        <script language="JavaScript">
+        document.write('<a href=\"http://ww1.sportsline.com/u/email_friend/emailstory.cgi?subdir=pgatour&location=' + location.href + '&title=' + (document.title.indexOf(' ') ? escape(document.title) : document.title) + '\">E-mail this to a friend</a>'); 
+        </script><a href="http://ww1.sportsline.com/u/email_friend/emailstory.cgi?subdir=pgatour&amp;location=https://web.archive.org/web/20030802110619id_/http%3A//www.pgatour.com/information/privacy.html&amp;title=GolfWeb@PGATOUR.COM%20Privacy%20Statement">E-mail this to a friend</a></b></span>
+				
+</td><td><!--
+<img src="/images/234x60_sponsor.jpg" width="234" height="60" border="0">
+--></td>
+</tr></tbody></table>
+<div class="spacer10">&nbsp;</div></td></tr>
+		<tr><td width="440" valign="top">
+<input type="hidden" value="4" name="page">
+
+Your privacy on the Internet is of the utmost importance to us.  Because we gather certain types of information about the users of SportsLine.com, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement (this "Statement") discloses the privacy practices for SportsLine.com (the "Website") - what information we gather, how we use it and how to correct or change it.  This Statement only addresses our activities from our servers.  Other sites (including those to which the Website links and third party sites or services with which SportsLine.com) may have their own privacy policies and practices, which we do not control. Questions regarding this Statement should be emailed to <a href="mailto:privacy@sportsline.com">privacy@sportsline.com</a>.
+<br><br>
+<h2>1. Information SportsLine.com gathers and tracks:</h2><br><br>
+<b>Registration</b> <br>
+Anyone who participates in interactive activities (chat, message boards, contest entry, store and fantasy product purchase, membership program) on SportsLine.com's network of Web sites may be asked to register for a free guest ID and password or to complete subscription registration for a member ID and password.  We use customer contact information from this registration form to send the user information about our company and promotional material from some of our partners.  Financial information that is collected is used to bill the user for products and services.  The customer's contact information is also used to contact the visitor when necessary for customer service reasons.  Users may opt-out of receiving future mailings; see the choice/opt-out section below.  Unique identifiers, such as ID and passwords, are collected to verify the user's identity and for use as account numbers in our record system. 
+<br><br>
+
+<h2>
+CHILDREN UNDER THE AGE OF 13</h2>
+<b>
+We do not currently collect any personally identifiable information from children under the age of thirteen.  Under certain circumstances, visitors may be asked to submit a screen name as a means of identifying communications to SportsLine.com.  Children of any age should always ask a parent for permission before sending personal information to anyone online.  If, in the future, SportsLine.com collects personally identifiable information from children under the age of thirteen, it will do so in compliance with the Children's Online Privacy Protection Act of 1998 (15 U.S.C. § 6501 et seq.)</b>
+
+<br><br>
+<b>IP Address</b> 
+<br><br>
+
+We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart. 
+<br><br>
+<b>Cookies</b> 
+<br><br>
+A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited. But the only personal information a cookie can contain is information you supply yourself. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. A cookie can't read data off your hard disk or read cookie files created by other sites. This random number lets us keep track of "how many" times customers are doing specific things - like visiting our site each month - without really knowing who those customers are. We also use cookies to keep track of your shopping cart and to make sure you don't see the same ad repeatedly. We use cookies to deliver content specific to your interests and to save your member ID. Additionally, after you've entered your member ID and password during a session on our service, we save that information so you don't have to re-enter it repeatedly during that session.  
+<br><br>
+Users should be aware that SportsLine.com cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for SportsLine.com. If a user does not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to deny or accept the cookie feature; however, users should note that cookies maybe necessary to provide the user with certain features (e.g., customized delivery of information) available on the SportsLine.com network of websites. 
+<br><br>
+<b>Order Forms</b> 
+<br><br>
+SportsLine.com's network of sites use an order form for customers to purchase products and services. If you place an order at a store hosted by SportsLine.com we will collect information from you, including your credit card and contact information. This information will be used by the merchant to bill the user for products and services. Contact information from the order form will also be used to ship orders, to contact a user for customer service related issues, and to send the user information about our company, and on occasion, promotional material from some of our partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+<br><br>
+<b>Surveys</b> 
+<br><br>
+Our online surveys ask visitors for their SportsLine email address and demographic information. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content and promotional offers that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers only on an aggregate basis. 
+We may use contact data from our surveys to send the user information about our company and promotional material from SportsLine.com or some of our partners. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+
+<br><br>
+<b>Contests</b>
+<br><br> 
+We run contests on our site in which we ask visitors for SportsLine.com ID and password. We use contact data from our contests to send users information about upcoming contests and promotional offers. On occasion we will email customers promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary for winner notification and prize delivery confirmation. The majority of the contests that we offer are hosted on the SportsLine site; however, there may be cases in which a third party sponsor will host the contest and collect user information.  In those cases, we urge users to review the privacy statement of the third party site. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+<br><br>
+<b>Newsletter</b>
+<br><br> 
+We offer a number of free newsletters to share content information about our site with interested users. Users may cancel their free email subscriptions by following the simple instructions at the bottom of each newsletter or e-mail. 
+<br><br>
+<h2>2. Use of Information</h2> 
+All of the information SportsLine.com collects, both what you tell us and what we collect through the use of cookies, is "aggregated" -- meaning that the information from many users is grouped together in a way that does not disclose the personal information of any particular user.  We may use this aggregated information to evaluate which products and services are successful and which ones are not, and in order to evaluate which new services we should make available on our Web sites.  We may use only the anonymous click stream data to help our advertisers deliver better targeted advertisements.  SportsLine.com will not disclose any information about any individual without the individual's consent, except to comply with applicable law or valid legal process.  
+<br><br>
+There may be cases in which some of your personal information may be used by SportsLine.com to target e-commerce promotions and telemarketing activities.  In addition, it may be shared with third parties who assist SportsLine.com in producing its Web sites or provide a service to SportsLine's users. 
+<br><br>
+<h2>3. General Privacy Information </h2>
+SportsLine.com's network of sites contain links to partners, advertisers and third party Internet sites and services who may collect data in connection with sweepstakes, promotions, e-commerce, etc.  They each have separate privacy and data collection practices, independent of SportsLine.com and <b>SportsLine.com has no responsibility or liability for these independent policies or actions and is not responsible for the privacy practices or the content of such Web sites</b>.  Please keep in mind that whenever you voluntarily and publicly disclose personal information on any online service or Web site - for example on message boards, through email, or in chat areas - that information can be collected and used by others.  In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.  Further, while we strive to protect your personal information, SportsLine.com cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.  You are solely responsible for maintaining the secrecy of your passwords and/or any account information.  Please be careful and responsible whenever you are online. 
+<br><br>
+<b>Security</b> 
+<br><br>
+SportsLine.com utilizes a variety of security measures to maintain the safety of your personal information.  All user contact information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems.  Passwords and credit card numbers are encrypted in SportsLine's secure database, which is also located behind a firewall.  All sensitive/credit information supplied by users is transmitted via Secure Socket Layer (SSL) technology and then encrypted in SportsLine's databases as stated above.  
+<br><br>
+If you choose to modify your personal information, you may do so by visiting the Member Services page located at http://cbs.sportsline.com/u/userservices/index.html.  You will be required to submit a valid user ID and password for authentication before you will be able to modify your file.  If you have forgotten your password or prefer to speak with a customer service representative to modify your personal information, you may contact customer service at (800) 771-4616.  You will be asked to provide your name or user ID and then to verify certain non-sensitive information (i.e. mother's maiden name) in order to proceed.  Because password and credit card information has been encrypted, it is completely invisible to any employee who accesses it, including our customer service team.  If you desire to change your password, the customer service representative will reset to a new one after you have properly identified yourself.   
+<br><br>
+SportsLine.com's technology department conducts frequent site security audits and employs a third party audit company to perform additional site security audits.   
+<br><br>
+<h2>4. Choice/Opt-Out</h2>
+You have the following options for removing you information from SportsLine.com's database, to not receive future communications or to no longer receive SportsLine.com's services. 
+<ol>
+1.      You can send email to <a href="mailto:memberservices@sportsline.com">Member Services</a> 
+<br><br>
+2.      You can call the following telephone number: 1-800-771-4616
+</ol>
+<b>Change/Modify</b>
+<br><br>
+You may also change or modify information you previously provided by calling the following telephone number: 1-800-771-4616
+<br><br>
+<b>Contacting the Web Site</b>
+<br><br>
+If you have any questions about this Statement, the practices of SportsLine.com with respect to personal information or your dealings with this Web site, you can contact <a href="mailto:memberservices@sportsline.com">Member Services</a> or write to: 
+<br><br>
+<b>Customer Service<br>
+SportsLine.com, Inc.<br>
+Attn: Privacy Statement<br>
+2200 W. Cypress Creek Road<br>
+Fort Lauderdale, Florida 33309</b>
+
+<br>
+<br>
+</td>
+				<td width="10">&nbsp;</td>
+				<td width="150" valign="top">				
+					<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="10"></td></tr></tbody></table>	
+					<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tbody><tr><td class="storyhd">R E L A T E D &nbsp; L I N K S<br><hr width="100%" size="1" color="#528A6B"></td></tr></tbody></table>
+					<font class="a2"><a href="http://golf.fantasy.pgatour.com/splash/golf/pgatour/challenge">Play the Charity Challenge</a>
+
+<p></p>
+<a href="http://www.pgatour.com/u/ce/multi/0,1977,6513268,00.html">DiMarco heads pack in rain-delayed Buick Open</a>
+<p></p>
+<a href="http://www.pgatour.com/u/ce/multi/0,1977,6513132,00.html">Fleisher ties tournament record at FleetBoston Classic</a>
+<p></p>
+<a href="http://www.pgatour.com/u/ce/multi/0,1977,6513300,00.html">Biershenk takes sole possession of the lead in Chattanooga</a>
+
+
+
+<p></p>
+<a href="/news/index.html">More news</a>
+
+</font><p></p>
+			
+					<table width="100%" border="0" cellspacing="0" cellpadding="2">
+					<tbody><tr><td class="storyhd">F E A T U R E S <br><hr width="100%" size="1" color="#528A6B"></td></tr></tbody></table>
+					<font class="a2"><a href="http://www.pgatour.com/tourcast/totourcast.html">Get shot-by-shot info on your favorite players with TOURCast</a><br><br>
+<a href="http://www.pgatour.com/fantasy/index.html">Play TOUR Fantasy today</a><br><br>
+<a href="http://golf.fantasy.pgatour.com/splash/golf/pgatour/challenge">Play the Charity Challenge</a><br><br>
+<a href="http://www.pgatour.com/charity/index.html">Giving back is at the heart of the PGA TOUR</a><br><br>
+<a href="/partner/wtw/index.html">Read The Daily Dozen</a><br><br>
+<a href="/practicetee/touracademy/">TOUR Academy</a><br><br>
+<a href="/practicetee/protips/index.html">Pro Tips</a><br><br>
+<a href="/practicetee/equipment/index.html">Equipment news</a><br><br>
+<a href="/travel/index.html">Travel</a><br>
+
+
+
+</font><p></p>
+				</td>
+		</tr>
+		</tbody></table>
+			
+<br>		
+</td>
+<td width="150" align="center" valign="top" class="bk">
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="10"></td></tr></tbody></table>	
+<script language="JavaScript">
+<!--//
+/*skyscraper*/
+if (!vTag) {var vTag="ros;type=ros";}
+if (!random) {var abc = Math.random() + ""; var random = abc.substring(2,abc.length);}
+document.write('<script src="http://ad.doubleclick.net/adj/skyscrapers.pgatour.com/'+vTag+';sz=120x600;tile=3;ord='+random+'?"><\/script>');
+// -->
+</script><script src="http://ad.doubleclick.net/adj/skyscrapers.pgatour.com/ros;arena=golf;type=psa;page=lower;seg=nonaol;sz=120x600;tile=3;ord=8000828006613798?"></script>
+</td>
+</tr>
+</tbody></table>		
+
+<table width="770" border="0" cellspacing="0" cellpadding="0" class="bk">
+<tbody><tr><td width="10">&nbsp;</td><td width="450" valign="bottom"><br><!--include src=/includes/shop.inc -->
+<table width="450" cellspacing="1" cellpadding="0" align="center" class="bkgreen">
+<tbody><tr><td>
+		<table width="450" cellspacing="0" cellpadding="0">
+		<tbody><tr class="shp">
+		<td width="25"><img src="http://images.pgatour.com/images/shop_logo.gif" width="25" height="93" border="0"></td>
+		<td width="249" bgcolor="#f0f0f0">
+				<table width="100%" border="0" cellspacing="0" cellpadding="2">
+				<tbody><tr><td valign="top">•</td><td><a href="http://shop.pgatour.com/customer/category/showcategory.jsp?CATEGORY=487/tspage/4" target="_blank">Taylor Made Bag Sale</a></td></tr>
+<tr><td valign="top">•</td><td><a href="http://shop.pgatour.com/customer/category/product.jsp/SUBCATEGORY_ID/1398/tspage/4" target="_blank">Callaway Irons-Save 40% </a></td></tr>
+<tr><td valign="top">•</td><td><a href="http://shop.pgatour.com/customer/category/product.jsp/SUBCATEGORY_ID/3852/tspage/4" target="_blank">PureSpin Irons-Only $129</a></td></tr>
+				</tbody></table>
+
+
+    </td>
+		<td width="230" align="center" class="bg6">
+		<script language="JavaScript">
+		   // filepath = random_shop_images.js
+      var randomNumber = Math.floor(Math.random() * 3)
+      imageArray = new Array(3);
+      imageArray[0] = '<img src="/images/PGA-TMBag-200X60-487.jpg" width="200" height="60" border="0"><div class="spacer5">&nbsp;</div>';
+      imageArray[1] = '<img src="/images/PGA-CLBBIrons-200X60-1398.gif" width="200" height="60" border="0"><div class="spacer5">&nbsp;</div>';
+      imageArray[2] = '<img src="/images/PGA-PSIrons-200X60-3852.jpg" width="200" height="60" border="0"><div class="spacer5">&nbsp;</div>';
+      document.write('' + imageArray[randomNumber] + '');
+		</script><img src="/images/PGA-CLBBIrons-200X60-1398.gif" width="200" height="60" border="0"><div class="spacer5">&nbsp;</div>
+		<!--<img src="/images/PGA-75x80-nike-3587.gif" width="75" height="80" border="0"> <div class="spacer5">&nbsp;</div>-->
+		<a href="http://www.sportsline.com/redir?url=1009" target="_blank">Shop the Official PGA TOUR Store</a></td>
+		<td width="25"><img src="http://images.pgatour.com/images/shop_logo.gif" width="25" height="93" border="0" alt=""></td>
+		</tr></tbody></table>
+
+</td></tr></tbody></table>
+
+</td>
+<td width="310">&nbsp;</td></tr></tbody></table>
+
+
+<table width="770" border="0" cellspacing="0" cellpadding="0" class="bk">
+<tbody><tr><td colspan="3"><div class="spacer10">&nbsp;</div></td></tr>
+<tr valign="top">
+		<td width="127" align="center">
+		<a href="http://www.ibm.com/linux" target="_blank"><img src="http://images.pgatour.com/images/ibm_footer.gif" width="107" height="42" alt="IBM" border="0"></a></td>
+		<td width="10">&nbsp;</td>
+		<td width="633" align="center" class="ftrlink"><b>
+		&nbsp;&nbsp;&nbsp;<a href="/information/index.html">About Us</a> |
+		<a href="/tos.html">Terms of Service</a> |
+		<a href="/information/partner.html">TOUR Partners</a> | <a href="/information/licensees.html">Licensees</a> |
+		<a href="/information/privacy.html">Privacy Statement</a> |
+		<a href="/help/index.html">Feedback</a> |
+		<a href="http://www.sportsline.com/redir?url=990" target="_blank">PGA TOUR Partners Club</a><br>
+		<font class="ftrtxt">© 1995-2003, PGA TOUR, Inc. PGA TOUR, Champions Tour, Nationwide Tour<br> and the swinging golfer logo are registered
+		trademarks.<p></p>
+		</font>
+	</b></td>
+  </tr>
+</tbody></table>
+
+<!-- /html/pgatour/includes/ads/G_ftr.inc  -->
+<!--popup-->
+ 
+<script language="JavaScript">
+<!--//
+if (!dclk_seg) {var dclk_seg='nonaol';}
+if (!ableToPop) {var ableToPop=true;}
+if (dclk_seg == 'aol') {var ableToPop=false;}
+if (ableToPop!=false) {
+		function lifetime() {
+        	var xMins=1444;  // minutes till cookie expires
+			var popunderExpires=new Date();
+			popunderExpires.setTime(popunderExpires.getTime() +  (xMins * 60000)); 
+			return popunderExpires.toGMTString();
+    		}
+		if ( document.all && navigator.cookieEnabled ) {
+        	var random = Math.floor(Math.random() * 1000000000), cdate = new Date();
+			document.write('<iframe src="http://ads.specificpop.com/code?pid=279&gid=17&rid=' + random + '&dom=' + cdate.getDate() + '&dow=' + cdate.getDay() + '&hod=' + cdate.getHours() + '" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no">');
+			document.write('</iframe>');
+        }
+}
+// -->
+</script>
+<noscript><iframe src="http://ads.specificpop.com/code?pid=279&gid=17" frameborder="0" vspace="0" hspace="0" width="0" height="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></noscript>
+ 
+
+</body></html>
