@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603065437id_/http%3A//www.studentdoctor.net/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205095744id_/http%3A//www.studentdoctor.net/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-  
-|  | 
+|    SDN Site Menu |  |  Jan. 30  
+---|---|---  
+| 
 
 The Student Doctor Network has a strict privacy policy that we feel strongly about. Although our lawyers created a huge boilerplate policy (so they could charge us a higher fee), the core message is that we will never sell or distribute your personal information to organizations outside the Student Doctor Network.
 
@@ -22,5 +23,5 @@ Users of the Student Doctor Network free mail service should be aware that Every
 If you have questions, you should direct them to the Student Doctor Network site privacy coordinator at [privacy@studentdoctor.net](mailto:privacy@studentdoctor.net) for clarification.   
   
   
-The Student Doctor Network © 1995-2002 SDN Communications, Inc.  
-"The Student Doctor Network" and the SDN Logo are trademarks of SDN Communications, Inc.
+The Student Doctor Network © 1995-2002 The Student Doctor Network.  
+"The Student Doctor Network" and the SDN Logo are trademarks of The Student Doctor Network.
