@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630063931id_/http%3A//niketown.nike.com/info/privacy.jhtml%3Fitem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nikebiz.com privacy policy that was archived on 2004-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040810084626id_/http%3A//niketown.nike.com/info/privacy.jhtml%3Fitem%3Dprivacy) for the most accurate reproduction.*
 
 # Niketown.com
 
-Nike is committed to respecting the privacy rights of website visitors. The following policy describes how we collect, protect and use information we receive from website visitors. If you would like to review our policies specifically applicable to children, see "[Children's Online Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=NB54PNNWDYAF0CQCGIMCFFAKAIZCQIV0?item=child)". 
+Nike is committed to respecting the privacy rights of website visitors. The following policy describes how we collect, protect and use information we receive from website visitors. If you would like to review our policies specifically applicable to children, see "[Children's Online Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=DZGZQPSWEU0IOCQCGIUCFEYKAIZCSIV0?item=child)". 
 
 NIKE USA, Inc. and NIKE Retail Services, Inc are responsible for this privacy policy. Please note, that when you enter any sub-sites accessible through nike.com, they may have different privacy policies specific to those sites. We encourage you to read the privacy policies of each NIKE site.
 
@@ -127,7 +127,7 @@ Online Policy Only
 This online privacy policy applies only to information collected through our website and not to information collected offline.   
 Terms and Conditions 
 
-Please also visit our [Terms and Conditions](https://web.archive.org/info/privacy.jhtml;jsessionid=NB54PNNWDYAF0CQCGIMCFFAKAIZCQIV0?item=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+Please also visit our [Terms and Conditions](https://web.archive.org/info/privacy.jhtml;jsessionid=DZGZQPSWEU0IOCQCGIUCFEYKAIZCSIV0?item=terms) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
 
 Your consent 
 
@@ -135,5 +135,5 @@ By using our site, you consent to our privacy policy.
 
 back to top
 
-[Children's Online Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=NB54PNNWDYAF0CQCGIMCFFAKAIZCQIV0?item=child)  
+[Children's Online Privacy Policy](https://web.archive.org/info/privacy.jhtml;jsessionid=DZGZQPSWEU0IOCQCGIUCFEYKAIZCSIV0?item=child)  
 
