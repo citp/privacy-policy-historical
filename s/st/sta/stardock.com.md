@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210135830id_/http%3A//www.stardock.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stardock.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204201445id_/http%3A//www.stardock.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 ##  Privacy Statement for Stardock.com
 
-**Stardock.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Stardock.com ](http://www.iconzone.com/) This policy is also applicable to Stardock's other Web sites, including but not limited to: [Stardock.net](http://www.stardock.net/), [Windowblinds.net](http://www.windowblinds.net/), [DesktopX.net](http://www.desktopx.net/), and [ObjectDesktop.net](http://www.objectdesktop.net/).
+**Stardock.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ Stardock.com ](http://www.iconzone.com/) This policy is also applicable to Stardock's other Web sites, including but not limited to: [Stardock.net](http://www.stardock.net/), [JoeUser.com](http://www.joeuser.com/), [Windowblinds.net](http://www.windowblinds.net/), [DesktopX.net](http://www.desktopx.net/), and [ObjectDesktop.net](http://www.objectdesktop.net/).
 
 ####  Information Automatically Logged
 
