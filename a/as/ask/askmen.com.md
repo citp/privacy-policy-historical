@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202225645id_/http%3A//www.askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askmen.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010035310id_/http%3A//www.askmen.com/mediakit/privacy.html) for the most accurate reproduction.*
 
-# AskMen.com - Contest Page
+# AskMen.com - Privacy Policy
 
 ## AskMen.com Privacy Statement
 
@@ -44,16 +44,6 @@ Some of our sites contain links to other sites whose information practices may b
 
 AskMen.com sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. AskMen.com has no control over the third-party sponsors' use of this information. The AskMen.com site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information. 
 
-"We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.sonar.com/content/privacy.htm)."
-
-**Third Party Advertising: Maxworldwide - Privacy Policy**  
-This site, AskMen.com, Maxworldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [please click here](http://www.networkadvertising.org/optout_nonppii.asp).
-
-Third Party Cookies  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
-
-### Cookies
-
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
 We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. 
@@ -63,8 +53,3 @@ We use cookies to understand site usage and to improve the content and offerings
 We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
 
 ### How to Contact Us
-
-If you have any questions or concerns about the AskMen.com online policy for this site or its implementation you may contact us at [privacy@askmen.com](mailto:privacy@askmen.com).  
-   
-  
-
