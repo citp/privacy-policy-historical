@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginiasports.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619232534id_/http%3A//www.fansonly.com/channels/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginiasports.com privacy policy that was archived on 2000-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001008171245id_/http%3A//www.fansonly.com/channels/site/privacy.html) for the most accurate reproduction.*
 
 # FANSonly - Your Ticket to College Sports
 
@@ -7,7 +7,7 @@
 
 [www.fansonly.com](http://www.fansonly.com/)
 
-University Netcasting, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.fansonly.com and the network of websites making up the FANSonly network.
+FANSonly has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the website www.fansonly.com and the network of websites making up the FANSonly network.
 
 ### Use of Your IP Address 
 
@@ -21,7 +21,7 @@ We may sometimes use an outside ad company to display ads on our site. These ads
 
 ### Site Registration 
 
-Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (such as social security numbers) are collected to verify the user's identity, for use as account numbers in our record system, and for other purposes. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+Our site's registration form requires users to give us contact information (like their name and email address), unique identifiers, and demographic information (like their zip code, age, or income level). We use customer contact information from the registration form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers are collected to verify the user's identity, for use as account numbers in our record system, and for other purposes. Demographic and profile data is also collected at our site. We use this data for other purposes. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
 
 ### Links to Sites Outside the FANSonly Network 
 
@@ -29,15 +29,15 @@ This site contains links to other sites outside of the FANSonly network. www.fan
 
 ### Customer Order Information 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers (like their social security number), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address), unique identifiers, financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
 
 ### Surveys and Questionnaires 
 
-Our online surveys ask visitors for contact information (like their email address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+Our online surveys ask visitors for contact information (like their email address), unique identifiers, and demographic information (like their zip code, age, or income level). We use contact data from our surveys to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
 
 ### Contests and Games 
 
-We run contests on our site in which we ask visitors for contact information (like their email address), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers (like social security numbers) are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
+We run contests on our site in which we ask visitors for contact information (like their email address), unique identifiers, and demographic information (like their zip code, age, or income level). We use contact data from our contests to send users information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Unique identifiers are collected from Web site visitors to verify the user's identity and for use as account numbers in our record system. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. 
 
 ### Public Forums 
 
@@ -49,7 +49,7 @@ This site supplements the information that you provide with information that is 
 
 ### Children's Guidelines 
 
-University Netcasting will: 
+FANSonly will: 
 
 1\. NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will only be used to respond directly to the child's request and will not be used for other purposes without prior parental consent   
 2\. NOT collect personally identifiable offline contact information without prior parental consent   
@@ -80,7 +80,7 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Webmaster  
-University Netcasting, Inc.  
+FANSonly  
 2035 Corte del Nogal  
 Suite 200  
 Carlsbad, CA 92009  
