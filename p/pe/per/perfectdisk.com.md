@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectdisk.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206100100id_/http%3A//www.raxco.com/company/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectdisk.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603065840id_/http%3A//www.raxco.com/company/privacy.cfm) for the most accurate reproduction.*
 
 # Raxco:Privacy Statement.
 
@@ -12,9 +12,15 @@
   
 [Partner Center](http://www.raxco.com/partners)  
   
-[Buy Now](http://www.raxco.com/Products/buyit)  
+[BUY NOW](http://www.raxco.com/products/buyit)   
+  
+[UPGRADE](http://www.raxco.com/products/commerce/upgrade.cfm)   
   
 [Free Downloads](http://www.raxco.com/Products/downloadit)  
+  
+[Fragmentation Analyzer](https://web.archive.org/analyze)   
+  
+[File Access Timer](https://web.archive.org/fileaccesstimer)   
   
 [Press Room](http://www.raxco.com/new/index.cfm)  
   
@@ -24,7 +30,6 @@
   
 [International](http://www.raxco.com/worldwide)   
   
-[Product Preview](http://www.raxco.com/products/productpreview)   
 **
 
 |  |  This is the Web site of Raxco Software, Inc. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices in connection with this Web site and the choices you can make about the way your information is collected and used at this Web site. We can be reached by mail at our postal address (6 Montgomery Village Avenue, Suite 500, Gaithersburg, MD 20871), by e-mail (info@raxco.com), or by telephone (301.527.0803 or 800.836.3844). 
