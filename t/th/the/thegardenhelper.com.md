@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegardenhelper.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206090734id_/http%3A//thegardenhelper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegardenhelper.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613140252id_/http%3A//thegardenhelper.com/privacy.html) for the most accurate reproduction.*
 
 # The Garden Helper Privacy Policy
 
