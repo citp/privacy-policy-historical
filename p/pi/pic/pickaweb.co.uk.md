@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604014659id_/http%3A//www.pickaweb.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickaweb.co.uk privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211013441id_/http%3A//www.pickaweb.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Cheap web design uk website designers fast website design
 
