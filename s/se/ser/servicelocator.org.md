@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicelocator.org privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205011241id_/http%3A//www.servicelocator.org/docs/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicelocator.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602203714id_/http%3A//www.servicelocator.org/docs/privacy_policy.asp) for the most accurate reproduction.*
 
 # Locator- Privacy Policy
 
@@ -17,11 +17,12 @@ The ASL policy governing statistical information is as follows:
 
 **E-Mail Correspondence and Inquiries**
 
-If for some reason, you decide to send ASL or the Service Center an e-mail message, it will normally contain your return e-mail address. Please be advised that if you ask us to address a specific question and include any personal identifying information, we may elect with your permission to share that information with other federal offices or agencies in order to obtain the appropriate response. These federal agencies are governed by the Privacy Act of 1974 and will handle your private information in accordance with the restrictions contained in that Act. If you use e-mail to correspond to ASL, it is important to understand that e-mail is not always secure from interception. Consequently, if you are sending very sensitive or per sonal information, you may wish instead to contact us through the Postal Service at: 
+If for some reason, you decide to send ASL or the Service Center an e-mail message, it will normally contain your return e-mail address. Please be advised that if you ask us to address a specific question and include any personal identifying information, we may elect with your permission to share that information with other federal offices or agencies in order to obtain the appropriate response. These federal agencies are governed by the Privacy Act of 1974 and will handle your private information in accordance with the restrictions contained in that Act. If you use e-mail to correspond to ASL, it is important to understand that e-mail is not always secure from interception. Consequently, if you are sending very sensitive or personal information, you may wish instead to contact us through the Postal Service at: 
 
-  * The ASL Service Center  
-450 Energy Park Drive, Suite 300,  
-St. Paul, Minnesota 55108-5227  
+  * CareerOneStop Service Center  
+55 E. Fifth Street  
+102 Fifth Street Center  
+St.Paul, MN 55101  
 Toll Free Telephone: 1 (877) 348-0502   
 
 
