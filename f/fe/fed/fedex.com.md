@@ -1,8 +1,14 @@
-> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603181811id_/http%3A//www.fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004160122id_/http%3A//fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
 
-# FedEx | Privacy Policy
+# Pay with Credit Card
 
-## Privacy Policy for "fedex.com"
+| 
+
+  * [fedex.com Terms of Use](https://web.archive.org/legal/)
+    * [Copyrights & Trademarks](https://web.archive.org/legal/copyright/)
+    * [Privacy Policy](https://web.archive.org/us/privacypolicy.html)
+
+|  | 
 
 FedEx Corporation understands the importance of protecting the privacy of fedex.com users. The information collected is used to market and improve the services we and our subsidiaries offer, to improve the fedex.com web site content, and to contact you with updates to the web site or for other marketing purposes. 
 
@@ -34,6 +40,8 @@ The fedex.com web server uses an extended log file format which captures: date a
 
 Several areas of fedex.com ask for personal information. They include: [Online Account Registration](https://web.archive.org/us/customer/openaccount/?link=4), features of [Manage My Account](https://web.archive.org/us/account/?link=4), and registration pages for [FedEx Ship Manager at fedex.com](https://www.fedex.com/cgi-bin/ship_it/interNetShip?link=4&origincountry=us&locallang=us&urlparams=us), [FedEx Global Trade Manager](https://web.archive.org/us/international/?link=4), [FedEx Return Manager](https://web.archive.org/us/solutions/returnsoverview.html?link=4), [FedEx InSight](https://insight.fedex.com/fedexiv/us/login/index.jsp) and [My FedEx](https://www.fedex.com/myfedex/go/home?cc=US&language=en). This list may be expanded without notice. In the event that it is expanded, additional information may be required. In these areas, your name, address, email address, billing information, and business profile are requested. This information is collected to help us further develop our services, to provide you access to valuable FedEx Internet-based information and services, and to bill you for those services if you elect to use them.
 
+Back to Top
+
 **How does FedEx use the information?**
 
 The information collected through this site helps us identify the type of web site content our customers value most. We use this information to market and improve the web site and our services. We also use this information to send you email notifications about updates to the web site, and to contact you by other means for marketing and other purposes. Our policy is to not give, sell or otherwise distribute the information collected through this site to third parties outside of FedEx Corporation and its subsidiaries (unless required by law); provided, however, in some cases we may use suppliers to assist us in collecting, using or otherwise processing for our benefit the information obtained through this site. Our practice is to require our suppliers to conduct such activities consistent with this policy and our requirements.
@@ -41,6 +49,8 @@ The information collected through this site helps us identify the type of web si
 **What happens when I leave fedex.com to visit a FedEx linked web site**?
 
 Parts of fedex.com, such as FedEx Global Trade Manager, consist of products and services hosted by third-party businesses. When you leave fedex.com to visit one of these sites, the only information transferred to the third-party is the fact that you came from fedex.com (the referring address). This practice allows the third-party to monitor its own web site traffic, but does not provide them with any information about you. FedEx is not responsible or liable for the independent privacy policies of our third-party sites. You should consult the privacy policies at those sites to determine how your information may be used.
+
+Back to Top
 
 **What is a cookie?**
 
@@ -59,7 +69,7 @@ Yes, cookies can be removed from your hard drive. Also, depending on what type o
 Our postal address is:  
 FedEx Corporation  
 P.O. Box 727   
-Memphis, TN 38194-1062 
+Memphis, TN 38194-1062
 
 We can be reached via email at [webmaster@fedex.com](mailto:webmaster@fedex.com) or by telephone at .
 
@@ -70,3 +80,7 @@ The [Electronic Privacy Information Center](http://www.epic.org/) focuses public
 FedEx reserves the right to amend the Privacy Policy at any time with or without notice. Please check back frequently in the event of changes.
 
 Your use of fedex.com constitutes your agreement to this Privacy Policy.
+
+Back to Top
+
+| 
