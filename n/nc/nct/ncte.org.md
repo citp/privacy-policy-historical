@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ncte.org privacy policy that was archived on 2001-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010204024600id_/http%3A//ncte.org/webmgt/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncte.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072109id_/http%3A//www.ncte.org/webmgt/privacy.shtml) for the most accurate reproduction.*
 
 # Web Privacy Policy
 
