@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iaf.net privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204222413id_/http%3A//www.iaf.net/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaf.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603004818id_/http%3A//www.iaf.net/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -19,12 +19,12 @@ We are committed to protect your privacy and credit while providing the highest 
 __What about me the buyer?__  
 iaf.net does not use, sell, compile, nor in any way record information from the visitors to our web site for marketing or any other purposes other than strictly for the purposes of billing/collection and services as represented by our web site, or for voluntary subscriptions to our mailing list via a separate independent subscription database. Your private information remains private.
 
-[\- Back Home -](https://web.archive.org/web/20031204222413id_/http%3A//www.iaf.net/Default.htm)
+[\- Back Home -](https://web.archive.org/web/20040603004818id_/http%3A//www.iaf.net/Default.htm)
 
-[  [locator report](https://web.archive.org/web/20031204222413id_/http%3A//www.iaf.net/locator_search.htm) |  [background report](https://web.archive.org/web/20031204222413id_/http%3A//www.iaf.net/background_search.htm) | [legal](https://web.archive.org/web/20031204222413id_/http%3A//www.iaf.net/legaldisclaimer.htm) | [ order form](https://web.archive.org/web/20031204222413id_/http%3A//www.iaf.net/orderinfo.htm) ]  
+[  [locator report](https://web.archive.org/web/20040603004818id_/http%3A//www.iaf.net/locator_search.htm) |  [background report](https://web.archive.org/web/20040603004818id_/http%3A//www.iaf.net/background_search.htm) | [legal](https://web.archive.org/web/20040603004818id_/http%3A//www.iaf.net/legaldisclaimer.htm) | [ order form](https://web.archive.org/web/20040603004818id_/http%3A//www.iaf.net/orderinfo.htm) ]  
   
 
 
 **Copyright since 1996! © iaf.net   \- All rights reserved.**  
-Use of this site indicates that you have read and understand the site's [legal information.](https://web.archive.org/web/20031204222413id_/http%3A//www.iaf.net/legaldisclaimer.htm)  
-Our [Privacy](https://web.archive.org/web/20031204222413id_/http%3A//www.iaf.net/privacy_statement.htm) Statement
+Use of this site indicates that you have read and understand the site's [legal information.](https://web.archive.org/web/20040603004818id_/http%3A//www.iaf.net/legaldisclaimer.htm)  
+Our [Privacy](https://web.archive.org/web/20040603004818id_/http%3A//www.iaf.net/privacy_statement.htm) Statement
