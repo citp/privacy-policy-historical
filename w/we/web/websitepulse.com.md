@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619111313id_/http%3A//www.websitepulse.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitepulse.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211110929id_/http%3A//www.websitepulse.com/privacy.php3) for the most accurate reproduction.*
 
-# Web site monitoring services by WebSitePulse.com
+# Web site and server free monitoring services by WebSitePulse.com
 
-**Privacy Policy of WebSitePulse.com**
+### Privacy Policy of WebSitePulse.com
 
+  
 At WebSitePulse.com, we are committed to protecting your privacy. We use the information we collect about you to process orders and subscriptions and to provide personalized customer service. Your personal information will never be, under any circumstances, released, sold or rented to any third party. Guaranteed! The following discloses the information gathering and dissemination policies for WebSitePulse.com Web site. 
 
 **Order Forms**
