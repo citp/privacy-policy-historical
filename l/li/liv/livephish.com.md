@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livephish.com privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409202839id_/http%3A//www.livephish.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livephish.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812095956id_/http%3A//www.livephish.com/privacy.asp) for the most accurate reproduction.*
 
 # livephish.com | PRIVACY POLICY
 
