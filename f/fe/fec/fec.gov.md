@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2000-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000302055941id_/http%3A//www.fec.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218073638id_/http%3A//www.fec.gov/privacy.html) for the most accurate reproduction.*
 
 # About the Federal Election Commission
 
