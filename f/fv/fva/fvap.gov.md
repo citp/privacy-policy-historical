@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fvap.gov privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606204115id_/http%3A//fvap.gov/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fvap.gov privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216213723id_/http%3A//www.fvap.gov/security.html) for the most accurate reproduction.*
 
 # Privacy
 
-1\. The Federal Voting Assistance Program website is provided as a public service by the [ Federal Voting Assistance Program](https://web.archive.org/web/20040606204115id_/http%3A//fvap.gov/index.html) and the [Defense Technical Information Center](http://www.dtic.mil/). 
+1\. The Federal Voting Assistance Program website is provided as a public service by the [ Federal Voting Assistance Program](https://web.archive.org/web/20041216213723id_/http%3A//www.fvap.gov/index.html) and the [Defense Technical Information Center](http://www.dtic.mil/). 
 
 2\. Information presented on Federal Voting Assistance Program website is considered public information and may be distributed or copied unless otherwise specified. Use of appropriate byline/photo/image credits is requested.
 
@@ -14,7 +14,7 @@
 
 6\. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-7\. If you have any questions or comments about the information presented here, please forward them to us using the [Comment Form.](https://web.archive.org/web/20040606204115id_/http%3A//fvap.gov/comment.html)
+7\. If you have any questions or comments about the information presented here, please forward them to us using the [Comment Form.](https://web.archive.org/web/20041216213723id_/http%3A//www.fvap.gov/comment.html)
 
 8\. Cookie Disclaimer - The Federal Voting Assistance Program website does not use persistent cookies (persistent tokens that pass information back and forth from the client machine to the server). The Federal Voting Assistance Program site may use session cookies (tokens that remain active only until you close your browser) in order to make the site easier to use. The Department of Defense DOES NOT keep a database of information obtained from these cookies. You can choose not to accept these cookies and still use the site, but it may take longer for the pages to load. Refer to the help information in your browser software for instructions on how to disable cookies.
 
