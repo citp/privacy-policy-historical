@@ -1,17 +1,27 @@
-> *The following text is extracted and transformed from the celebwelove.com privacy policy that was archived on 2001-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011228113415id_/http%3A//celebwelove.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebwelove.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204194357id_/http%3A//www.celebwelove.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Our Loved Celebrities : Privacy Policy
+# Privacy Policy : CelebWeLove.com
 
-This Overall Privacy Statement discloses the privacy practices for the entire CelebWeLove.com Web site. 
+CelebWeLove.com is deeply committed to protecting the privacy of Internet users. Below is the information outlining our continued support for the responsible management of consumer information.
 
-CelebWeLove.com collects personal information about our users only during registration for theCelebWeLove.com service, from our use of "cookie" technology as you use the service and during entryinto a CelebWeLove.com contest or sweepstakes. 
+When you send one of our electronic greeting cards, the information you provide to us is used to customize your greeting with the names of the sender and recipient and to deliver an email notification to the recipient. The names and email addresses you provide are NOT compiled into any type of mailing list and will not be used for any type of email solicitation. CelebWeLove.com does not share the names and email addresses of users of its site with any other company.
 
-CelebWeLove.com respects your right to privacy. As part of the registration process, we give you theopportunity to decline to receive any mailings from either CelebWeLove.com or other parties to whomCelebWeLove.com may provide such information. 
+We share aggregate information (not individual data) with our advertisers to help them better understand our services and to monitor the reach of their advertising on the service. 
 
-The data we collect from cookies and other places is used in the aggregate to give us demographicinformation about the entire CelebWeLove.com audience in order to improve the CelebWeLove.comservice. The personal information you provide - name, email address, etc. -- allows us to informyou about updates to the service and to notify you of products and services of CelebWeLove.com,its affiliates and third parties that we believe may be of interest to you. We also share aggregateinformation -- not individual data -- with our advertisers to help them better understand ourservices and to monitor the reach of their advertising on the service. 
+_Content_
 
-CelebWeLove.com does share non-personal, non-individual information in aggregate form with thirdparties for business purposes. For example, we may tell our business partners how many customersin certain demographic groups sent certain cards. 
+All of the content of the site including the pictures have been gathered from the internet, WWW, usenet or in any other way. None of the images have been produced or scanned by ourself neither do we have the copyright on any of these images, therefore if the copyright owner of any of the pictures on this website has a problem with us having these pictures here, please email us with your objections to [support@celebwelove.com](mailto:support@celebwelove.com) with the words "Objections" in the subject field. and we will remove the content. 
 
-When you send one of our cards, the information you provide to us is used to customize your greetingwith the recipient's name and with your message, and to deliver an email notification to the recipient.We treat our cards as private correspondence between the sender and the recipient and will not disclosethe contents of a card, other than to the intended recipient, unless we are required to do so by law orwe in good faith believe that such action is necessary to (1) comply with the law or with legal process;(2) protect and defend our rights and property; (3) protect against misuse or unauthorized use ofCelebWeLove.com ; or (4) protect the personal safety or property of our users or the public. However,if you provide a false email address or attempt to pose as someone else when sending a card, informationabout you - including your computer's IP address - may be disclosed as part of any investigation intoyour actions. 
+CelebWeLove.com may also link to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users. 
 
-If you have questions we can be reached by e-mail at [privacypolicy@CelebWeLove.com](mailto:privacypolicy@celebwelove.com) or direct them to the CelebWeLove.com site coordinator at [coordinator@CelebWeLove.com](mailto:coordinator@celebwelove.com). To return to the Site, please use the "Back" button on your browser. 
+**Third Party Advertising**  
+We use Mamma Media Solutions and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.mamma.com/info/privacy.html). 
+
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php). 
+
+We use BUDS INC and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp)
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
+
+If you have any questions concerning the privacy policies of CelebWeLove.com which are not covered in this statement, please send email with your questions to [support@celebwelove.com](mailto:support@celebwelove.com) with the words "Privacy Policy" in the subject field.
