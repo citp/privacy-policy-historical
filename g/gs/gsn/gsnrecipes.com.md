@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gsnrecipes.com privacy policy that was archived on 2002-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021221134316id_/http%3A//www.gsnrecipes.com/UC/GSN/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsnrecipes.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626035427id_/http%3A//www.gsnrecipes.com/UC/GSN/privacy.cfm) for the most accurate reproduction.*
 
 # GSN Recipe Solutions
 
@@ -45,6 +45,7 @@ If **gsnrecipes.com** decides to change how it uses the personally identifiable 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 GSN Recipe Solutions  
-6520 Edenvale Blvd. Suite 116  
-Eden Prairie, MN 55344  
+888 Lumber Exchange Building  
+10 South 5th St.  
+Minneapolis, MN 55402  
 results@gsnrecipes.com
