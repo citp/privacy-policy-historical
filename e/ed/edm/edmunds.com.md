@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmunds.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207052244id_/http%3A//www.edmunds.com/help/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmunds.com privacy policy that was archived on 2005-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050320011554id_/http%3A//www.edmunds.com/help/about/privacy.html) for the most accurate reproduction.*
 
 # Edmunds Privacy Statement
 
@@ -10,7 +10,7 @@ We gather certain types of information about the visitors to this Web site and t
 
 The submission by you to Edmunds.com of personally identifiable information (e.g., your name, your address, your e-mail address, your telephone number) may be required in order for you to receive certain services, products or information you request from either Edmunds.com or other companies with which we do business — and some personally identifiable information is required in order to sign up for a [My Edmunds account](https://web.archive.org/apps/dcm/FullLogin.jsp). This personally identifiable information may be shared between Edmunds.com and those companies, and may also be disclosed to other entities who work with Edmunds.com or those companies to fulfill your request. **Edmunds cannot control, and is not responsible for, the manner in which any of such partners and other companies use such information.**
 
-If you give your consent, this information also may be shared with other entities to help us improve our services or to notify you about other products and services. That is, you may receive information from us or from other companies by e-mail, U.S. mail or other means. However, if we do not have your express consent, our policy is to not provide your personally identifiable information to anyone else, except as provided below. Edmunds.com may disclose personally identifying information, without first notifying you or obtaining your consent, upon receipt of legal process seeking such information, or if Edmunds.com determines that disclosure of such information: (i) is or may be required by law; (ii) is or may be reasonably necessary to enforce the Edmunds.com Town Hall Membership Agreement (see "Edmunds.com Town Hall" below) or our [Visitor Agreement](https://web.archive.org/help/about/visitoragreement.html), or to take appropriate action if a visitor is determined by Edmunds.com to have violated either of those agreements; or (iii) is or may be reasonably necessary to protect the rights, property or safety of Edmunds.com, its visitors or other individuals or entities. Edmunds.com may also disclose to third parties, when it determines such disclosure to be appropriate under the circumstances, portions of this Web site’s log files that show which “Internet service provider” a visitor used when on this Web site. That information may enable third parties to discover, through that Internet service provider, the identity of a visitor.
+If you give your consent, this information also may be shared with other entities to help us improve our services or to notify you about other products and services. That is, you may receive information from us or from other companies by e-mail, U.S. mail or other means. However, if we do not have your express consent, our policy is to not provide your personally identifiable information to anyone else, except as provided below. Edmunds.com may disclose personally identifying information, without first notifying you or obtaining your consent, upon receipt of legal process seeking such information, or if Edmunds.com determines that disclosure of such information: (i) is or may be required by law; (ii) is or may be reasonably necessary to enforce the Edmunds.com Membership Agreement (see "Edmunds.com" below) or our [Visitor Agreement](https://web.archive.org/help/about/visitoragreement.html), or to take appropriate action if a visitor is determined by Edmunds.com to have violated either of those agreements; or (iii) is or may be reasonably necessary to protect the rights, property or safety of Edmunds.com, its visitors or other individuals or entities. Edmunds.com may also disclose to third parties, when it determines such disclosure to be appropriate under the circumstances, portions of this Web site’s log files that show which “Internet service provider” a visitor used when on this Web site. That information may enable third parties to discover, through that Internet service provider, the identity of a visitor.
 
 In certain locations on this Web site in which we obtain personally identifiable information from you, we may include “check boxes” for the purpose of soliciting your consent to receive special offers and other information from Edmunds.com and other entities selected by us. By leaving these check boxes “checked,” you are choosing to receive commercial e-mail communications from Edmunds.com and/or those other entities. In that event, you will have the opportunity at any time to “opt-out” of receiving future commercial e-mails from Edmunds.com (on behalf of itself and/or such third parties) either by modifying your My Edmunds account or by following the instructions located at the bottom of the e-mail we send you. (However, please note that opting-out in this manner will not affect the right of such other entities to send e-mails to you independently of Edmunds.com.) 
 
@@ -40,20 +40,20 @@ Newsletters: Edmunds.com uses cookies in connection with the delivery of its new
 
 Advertisements: Edmunds.com's advertising system delivers cookies in order to track ad impressions and click rates. See "Third-Party Ad Servers" below. 
 
-**Edmunds.com Town Hall Forums**
+**Edmunds.com Forums**
 
-In order to post a message in the message boards that are a part of [Edmunds.com Town Hall](http://www.edmunds.com/apps/townhall/welcome.jsp), you must both have a My Edmunds account and be a registered member of Town Hall. You do not need to register in order to browse or read other members' posts.
+In order to post a message in the message boards that are a part of [Edmunds.com Forums](http://www.edmunds.com/insideline/do/ForumsLanding), you must both have a My Edmunds account and have selected a username for use in the Forums. You do not need to register in order to browse or read other members' posts.
 
 _Membership Agreement_
 
-If you register as a member of Town Hall, you are subject to the [Town Hall Membership Agreement](http://www.edmunds.com/townhall/memberagreement.html).
+If you register as a member of Edmunds.com Forums, you are subject to the [Forums Membership Agreement.](http://www.edmunds.com/townhall/memberagreement.html).
 
 _Information Sharing and Disclosure Practices_
 
-  * When you post a message in Town Hall, your ”username” is visible to other visitors. Your username is linked to your member profile, which others may view. You may elect to make the information included in your member profile, such as your e-mail address, public to other members, or you may elect to keep that information private.
-  * When you post a message in Town Hall, you have the ability to include personally identifiable information about yourself. If you do so, you may receive unsolicited messages from other individuals or entities. 
-  * Edmunds.com maintains the privacy of personal information provided by members of Town Hall. However, Edmunds.com may disclose personally identifiable information under special circumstances, as described above under " **Your Personally Identifiable Information**." In addition, Edmunds.com may share with third parties the postings in Town Hall as well as non-personal, or summary, information concerning members and their activities.
-  * Town Hall members will not be placed on any mailing lists except with their express consent. However, Edmunds.com reserves the right to contact members using their e-mail address regarding our community policies or other matters that Edmunds.com believes are of general interest to the membership.
+  * When you post a message in the Forums, your ”username” is visible to other visitors. Your username is linked to your member profile, which others may view. You may elect to make the information included in your member profile, such as your e-mail address, public to other members, or you may elect to keep that information private.
+  * When you post a message in the Forums, you have the ability to include personally identifiable information about yourself. If you do so, you may receive unsolicited messages from other individuals or entities. 
+  * Edmunds.com maintains the privacy of personal information provided by members of the Forums. However, Edmunds.com may disclose personally identifiable information under special circumstances, as described above under " **Your Personally Identifiable Information**." In addition, Edmunds.com may share with third parties the postings in the Forums as well as non-personal, or summary, information concerning members and their activities.
+  * Members of Edmunds.com Forums will not be placed on any mailing lists except with their express consent. However, Edmunds.com reserves the right to contact members using their e-mail address regarding our community policies or other matters that Edmunds.com believes are of general interest to the membership.
 
 _Revision and Deletion of Postings_
 
@@ -85,7 +85,7 @@ Edmunds.com may include in the Estimator links to partners, and the partners tha
 
 **Visitor-Submitted Content**
 
-Edmunds.com provides a number of means by which you may communicate with other visitors and with Edmunds.com. This includes the Edmunds.com Town Hall, Consumer Ratings and Reviews, Letters to the Editors, Success Stories, Edmunds.com Help and the submittal to us of a general question or comment. All of your communications made through this Web site or submitted to us for that or any other purpose are referred to as your "Visitor-Submitted Content."
+Edmunds.com provides a number of means by which you may communicate with other visitors and with Edmunds.com. This includes the Edmunds.com Forums, Consumer Ratings and Reviews, Letters to the Editors, Success Stories, Edmunds.com Help and the submittal to us of a general question or comment. All of your communications made through this Web site or submitted to us for that or any other purpose are referred to as your "Visitor-Submitted Content."
 
 For information concerning our use of your Visitor-Submitted Content, please see our [Visitor Agreement](https://web.archive.org/help/about/visitoragreement.html). 
 
@@ -101,6 +101,6 @@ We use DoubleClick Inc., a third-party advertising company, to serve advertiseme
 
 Edmunds.com reserves the right to change this Privacy Statement at any time. Please check this page periodically for changes. Your continued use of this Web site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-_Revised September 29, 2004_
+_Revised March 08, 2005_
 
 Back to top
