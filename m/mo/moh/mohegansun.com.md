@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2001-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011230072411id_/http%3A//www.mohegansun.com/privpolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mohegansun.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609182447id_/http%3A//www.mohegansun.com/privpolicy.html) for the most accurate reproduction.*
 
 # Mohegan Sun Casino Legal Information
 
-[Back](https://web.archive.org/web/20011230072411id_/http%3A//www.mohegansun.com/index.html)
+[Back](https://web.archive.org/web/20020609182447id_/http%3A//www.mohegansun.com/index.html)
 
 **Mohegan Sun Privacy Policy**
 
-This Privacy Policy explains what information is collected from visitors to the Mohegan Sun website located at[ http://www.mohegansun.com](https://web.archive.org/web/20011230072411id_/http%3A//www.mohegansun.com/index.html), why the information is collected and how it is used. Mohegan Sun does not share or sell your personal information to anyone. 
+This Privacy Policy explains what information is collected from visitors to the Mohegan Sun website located at[ http://www.mohegansun.com](https://web.archive.org/web/20020609182447id_/http%3A//www.mohegansun.com/index.html), why the information is collected and how it is used. Mohegan Sun does not share or sell your personal information to anyone. 
 
 **Information Collected**
 
