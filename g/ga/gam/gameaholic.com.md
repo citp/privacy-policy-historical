@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameaholic.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207204811id_/http%3A//www.gameaholic.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameaholic.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626224443id_/http%3A//www.gameaholic.com/info/privacy) for the most accurate reproduction.*
 
 # Gameaholic dot Com Privacy and Legal Information
 
@@ -6,7 +6,7 @@
 
 Content on this web site is Copyright © 1996-2000 Gameaholic dot ComTM, unless otherwise stated. All rights reserved. 
 
-No portion of this web site may be copied or reproduced with an explicit permission of the [owner](mailto:webmaster@gameaholic.com). 
+No portion of this web site may be copied or reproduced with an explicit permission of the webmaster at gameaholic.com. 
 
 Quake is a trademark of id Software, Inc. All other trademarks are property of their respective owners. 
 
@@ -24,4 +24,4 @@ Gameaholic dot Com website, and other sites hosted and managed by us, may contai
 
 This site, Gameaholic Dot Com, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy. 
 
-If you have further questions regarding Gameaholic dot Com's privacy practices, please contact [privacy@gameaholic.com](mailto:privacy@gameaholic.com)
+If you have further questions regarding Gameaholic dot Com's privacy practices, please email privacy at gameaholic.com. 
