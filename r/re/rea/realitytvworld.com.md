@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realitytvworld.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602045120id_/http%3A//www.realitytvworld.com/realitytvworld/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitytvworld.com privacy policy that was archived on 2002-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020401235548id_/http%3A//www.realitytvworld.com/realitytvworld/privacy.shtml) for the most accurate reproduction.*
 
 # RealityTVWorld.com
 
@@ -15,6 +15,10 @@ In order to use this website, a user must first complete the registration form. 
 **Message Boards**
 
 In order to use our message boards an valid email address must be provided to confirm registration. Additionally, our message board may have active a feature that allows any registered message board user, when viewing any posting of another user, to click on a EMAIL icon mext to the poster's username and send them a private email. In order to be able to send this private email, a new message dialog from the user's email program may appear on their screen in which the poster's email address will be visible to the user. If you are looking for full anonymity, please DO NOT POST as full anonymity is not currently available nor guaranteed with respect to message board postings. 
+
+**Third Party Advertising**
+
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp)
 
 **Cookies**
 
