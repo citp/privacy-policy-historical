@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2001-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010611095859id_/http%3A//ww2.weatherbug.com/aws/default.asp%3Fcid%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherbug.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp%3Fcid%3D13) for the most accurate reproduction.*
 
 # AWS WeatherBug
 
@@ -7,38 +7,38 @@
    
    
   
-| [Home](https://web.archive.org/web/20010611095859id_/http%3A//ww2.weatherbug.com/aws/default.asp)  
+| [Home](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp)  
 ---|---  
-| [Free Download](https://web.archive.org/web/20010611095859id_/http%3A//ww2.weatherbug.com/aws/default.asp?cid=271)  
-| [Advertise](http://www.aws.com/advertising/default_weatherbug.asp)  
-| [Info Request](https://web.archive.org/web/20010611095859id_/http%3A//ww2.weatherbug.com/aws/default.asp?cid=5)  
+| [Free Download](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp?cid=271)  
+| [Advertise](http://aws.com/aws_2001/advertisers/)  
+| [Info Request](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp?cid=5)  
 | [Schools](https://web.archive.org/schools)  
-| [Press Info](http://www.aws.com/corp/default.asp)  
-| [Help Desk](https://web.archive.org/web/20010611095859id_/http%3A//ww2.weatherbug.com/aws/default.asp?cid=3)  
-| [Link to Us](https://web.archive.org/web/20010611095859id_/http%3A//ww2.weatherbug.com/aws/default.asp?cid=210)  
-| [About us](https://web.archive.org/web/20010611095859id_/http%3A//ww2.weatherbug.com/aws/default.asp?cid=1)  
-| [Feedback](https://web.archive.org/web/20010611095859id_/http%3A//ww2.weatherbug.com/aws/default.asp?cid=3)  
-| [Privacy Policy](https://web.archive.org/web/20010611095859id_/http%3A//ww2.weatherbug.com/aws/default.asp?cid=13)  
+| [Press Info](http://www.aws.com/aws_2001/asp/press.asp)  
+| [Help Desk](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp?cid=3)  
+| [Link to Us](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp?cid=210)  
+| [About us](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp?cid=1)  
+| [Feedback](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp?cid=3)  
+| [User Reviews](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp?cid=254)  
+| [Privacy Policy](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp?cid=13)  
   
    
 ---  
 AWS Headquarters  
-6/11/2001  
-5:57:25 AM  
-61 °F  
+6/6/2002  
+5:51:22 PM  
+68 °F  
   
    
 | 
 
   
 **Updated on February 26, 2001**   
-**WeatherBug's Customer Information Privacy Policy** **[WeatherBug is not Spyware - click here for details](https://web.archive.org/web/20010611095859id_/http%3A//ww2.weatherbug.com/aws/default.asp?cid=117)** **[AWS, Inc.](http://www.aws.com/)** owns and operates the following Internet domains:  
+**WeatherBug's Customer Information Privacy Policy** **[WeatherBug is not Spyware - click here for details](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp?cid=117)** **[AWS, Inc.](http://www.aws.com/)** owns and operates the following Internet domains:  
 
 
 > **AWS.com  
 >  InstaSports.com  
 >  WeatherBug.com  
->  Enewsplus.com  
 >  InstaCam.com  
 >  InstaWeather.com**
 
@@ -175,7 +175,7 @@ AWS, Inc., All rights reserved.
 * * *
 
 **  
-|  All content on this site is for educational and private use only. Commercial use is strictly prohibited without expressed written consent. © 1999, 2000, 2001 AWS, Inc. [Privacy Policy](https://web.archive.org/web/20010611095859id_/http%3A//ww2.weatherbug.com/aws/default.asp?cid=13) | [](http://www.aws.com/)  
+|  All content on this site is for educational and private use only. Commercial use is strictly prohibited without expressed written consent. © 1999, 2000, 2001, 2002 AWS, Inc. [Privacy Policy](https://web.archive.org/web/20020606215039id_/http%3A//ww3.weatherbug.com/aws/default.asp?cid=13) | [](http://www.aws.com/)  
 ---|---  
   
 **
