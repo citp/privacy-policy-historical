@@ -1,221 +1,316 @@
-<!--The following is the downloaded HTML source of the myrateplan.com privacy policy that was archived on 2002-10-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021012122726id_/http%3A//www.myrateplan.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myrateplan.com privacy policy that was archived on 2003-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030608173354id_/http%3A//www.myrateplan.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-	<meta name="author" content="John">
-    <title>MyRatePlan.com -  Privacy Policy. security,children's guidelines,cookies,IP address,MyRatePlan.com, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy</title>
-    <meta name="description" content="MyRatePlan.com, Privacy Policies for MyRatePlan.com">
-    <meta name="keywords" content="MyRatePlan.com,security,children's guidelines,cookies,IP address,MyRatePlan.com, LLC has created this privacy statement in order to demonstrate our firm commitment to privacy,The following discloses our information gathering and dissemination practices for this website: http://www.myrateplan.com">
-    <link rel="stylesheet" href="/css/mrp.css" type="text/css">
+
+
+
+   <title>MyRatePlan.com - (Privacy Policy) </title>
+
+   <meta name="description" content="We respect the privacy of our visitors.  This page describes our privacy policy.">
+
+   <meta name="keywords" content="MyRatePlan, privacy policy">
+
+<meta name="Author" content="The Edge Design">
+<link rel="stylesheet" href="/css/mrp.css" type="text/css">
+<script language="JavaScript">
+var win=null;
+var clen = document.cookie.length;
+
+function NewWindow(mypage,myname,w,h,pos,infocus){
+
+if(GetCookie("CID") == "999"){ return; }
+	else { // If cookie does not exist
+	// Establishing a cookie for the new visitor
+	document.cookie="CID=999; Path=/; Expires= " + getFuture(999).toGMTString();
+
+	function getFuture (f){
+		var d = new Date();
+		d.setTime(d.getTime() + (86400000 * f));
+		return d;
+	}
+
+	// Position of pop-up box on screen, change these to have box open up in a different location.
+	PosLeft=100;
+	PosTop=100;
+
+	// width and height values can be changed in <BODY onLoad...> statement
+	// page path/name and page title are also changed in <BODY onLoad...> statement
+
+	// scrollbars=no, etc. can be directly modified as listed below:
+	settings="width=" + w + ",height=" + h + ",PosTop=" + PosTop + ",PosLeft=" + PosLeft + ",scrollbars=no,location=no,directories=no,status=yes,menubar=no,toolbar=no,resizable=yes";
+
+	// The pop-up window displays if they haven't been here before
+	win=window.open(mypage,myname,settings);
+	}
+}
+
+function GetCookie (name) {
+	var arg = name + "=";
+	var alen = arg.length;
+	var clen = document.cookie.length;
+	var i = 0;
+	while (i < clen) {
+  		var j = i + alen;
+  		if (document.cookie.substring(i, j) == arg)
+  		return getCookieVal (j);
+  		i = document.cookie.indexOf(" ", i) + 1;
+  		if (i == 0) break;
+  	}
+  	return null;
+  }
+
+function getCookieVal (offset) {
+	var endstr = document.cookie.indexOf (";", offset);
+	if (endstr == -1)
+  	endstr = document.cookie.length;
+  	return unescape(document.cookie.substring(offset, endstr));
+}
+
+</script>
+<script language="JavaScript">
+	// Lets you see values stored in cookie
+	indx = document.cookie.indexOf(";");
+	var length = document.cookie.length;
+	value = document.cookie.substring(2, length);
+	// document.write(value); // Uncomment this if you want to see cookie contents
+</script>
+<!-- PLACE IN BODY FOR POPUP AD onLoad="NewWindow('/ads/live.shtml','prepaid','740','320','center','back');" -->
+<!--LINK REL="STYLESHEET" TYPE="text/css" HREF="info.css"-->
+<script language="javascript" src="/javascript/header_menus.js"></script><style type="text/css">.unordered          {    font-family:Arial, Helvetica, Geneva, Sans Serif;    margin-top: -15px;     margin-bottom: -20px;      margin-left: -20px;     font-size: 10pt;   }</style>
+<script language="javascript" src="/javascript/openwin.js"></script>
+
+<style>
+  .pt8
+   {
+      font-family: Trebuchet MS, Arial, Helvetica;
+      font-size: 8pt;
+   }
+  .pt9
+   {
+      font-family: Trebuchet MS, Arial, Helvetica;
+      font-size: 9pt;
+   }
+  .pt10
+   {
+      font-family: Trebuchet MS, Arial, Helvetica;
+      font-size: 10pt;
+   }
+  .pt11
+   {
+      font-family: Trebuchet MS, Arial, Helvetica;
+      font-size: 11pt;
+   }
+</style>
 </head>
-    <body text="000000" link="#FF0000" vlink="#800000" alink="#804040" topmargin="4" leftmargin="4">
-    <center>
-    <table width="98%" height="98%" cellpadding="0" cellspacing="0" border="0" bgcolor="#FFFFFF">
-        <tbody><tr>
-            <td colspan="3" align="CENTER" valign="TOP" bgcolor="#FFFFFF">
-            <center>
-                <table width="90%" border="0" cellpadding="1" cellspacing="0">
-                    <tbody><tr>
-                        <td align="LEFT" valign="TOP">
-                            <font face="ARIAL" size="1">
-                                <a href="http://www.myrateplan.com"><img src="/images/smlogo2.gif" width="215" height="62" alt="MyRatePlan.com" border="0"></a>
-                            </font>
-                        </td>
-                        <td align="RIGHT" valign="TOP">
-                <font face="ARIAL" size="2">
-		                    Saturday, October 12, 2002		                    <br>
-        
-						    <!-- START MENU -->
-						                                          <form method="post" target="_top" action="/cgi-bin/clickgo/clickgo.cgi">
-                                         <select class="TEXTINPUT" name="goto" size="1">
-                                            <option selected="" value="www.myrateplan.com">-- SITE MENU --
-                                            </option><option value="www.myrateplan.com/index.shtml">Home</option>
-                                            <option value="www.myrateplan.com/about.php">About Us
-                                            </option><option value="www.myrateplan.com/news/">Press Room
-                                            </option><option value="www.myrateplan.com/cgi-bin/taf/raf.cgi">Refer A Friend!
-                                            </option><option value="www.myrateplan.com/contact.php">Contact Us
-                                            </option><option value="www.myrateplan.com/partners.php">Partners
-											</option><option value="www.myrateplan.com/vertical.php">Other MyRatePlan Sites
-                                            </option><option value="www.myrateplan.com/privacy.php">Privacy Policy
-                                            </option><option value="www.myrateplan.com/terms.php">Terms of Usage                                            
-                                            </option><option value="www.myrateplan.com">-- SERVICES --
-                                            </option><option value="www.myrateplan.com/wireless/">Wireless
-                                            </option><option value="www.myrateplan.com/longdistance/">Long Distance
-                                            </option><option value="www.myrateplan.com/travel/">Travel
-                                            </option><option value="www.myrateplan.com/satellite/">Satellite TV
-                                            </option><option value="www.myrateplan.com/creditcards/">Credit Cards
-                                            </option><option value="www.myrateplan.com/finance/">Loans and Financial
-                                            </option><option value="www.myrateplan.com/insurance/">Insurance
-                                            </option><option value="www.myrateplan.com/internet/">Internet Access
-                                            </option><option value="www.myrateplan.com">-- BUSINESS --
-                                            </option><option value="www.myrateplan.com/partners.php">Business Development
-                                            </option><option value="www.myrateplan.com/RPP/">Retail Partner Program
-                                    </option></select>
-                                    <input src="/images/go2.gif" name="GO!" type="image" align="absmiddle" border="0"><br>
-                                    </form>
- 
-						
-						    <!-- END MENU -->
-                            </font>
-                        </td>
-                     </tr>
-                 </tbody></table>
-                <table width="90%" border="0" cellpadding="5" cellspacing="0">
-                    <tbody><tr>
-                        <td align="LEFT" valign="TOP">
-                            <font face="ARIAL" size="2">
-				            <hr width="100%" size="1" color="0000CE" noshade="">
-                                <font color="4A4A4A" size="4"><b>PRIVACY POLICY</b></font><br>
-                            <hr width="100%" size="1" color="0000CE" noshade="">
-                            </font>
-                        </td>
-                     </tr>
-                 </tbody></table>
-                  <table width="90%" border="0" cellpadding="1" cellspacing="0">
+
+<body bgcolor="#fFFFFF" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0"><center>
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="780">
+  <tbody><tr>
+    <td valign="top" width="393" height="53" align="left" bgcolor="#005080"><a target="_top" href="http://www.myrateplan.com/"><img src="/site_images/logo.gif" border="0" width="393" height="53" vspace="0" hspace="0"></a></td>
+    <td valign="top" width="387" height="53" bgcolor="#005080" align="center"><table width="100%" height="53" cellspacing="0" cellpadding="0"><tbody><tr>
+                                              <td align="RIGHT" valign="CENTER">
+                                                 <style>
+                                                     FONT.openspothdr {
+                                                               font-color:  white;
+                                                               font-weight:  bold;
+                                                               font-size:  12pt;
+                                                     }
+                                                 </style>
+                                                 <font color="WHITE" class="openspothdr"><b>Privacy Policy</b></font> &nbsp; &nbsp; &nbsp;
+                                              </td>
+                                          </tr></tbody></table></td>
+  </tr>
+
+  <tr>
+    <td valign="top" height="24" colspan="2" align="left" background="/site_images/bar.gif">
+    <img src="/site_images/leftcornernav.gif" width="45" height="24"><a href="/wireless/" target="_top" onmouseover="img_act('menu1','menu1on')" onmouseout="img_act('menu1','menu1')"><img src="/site_images/wireless0.gif" width="58" height="24" vspace="0" hspace="0" border="0" name="menu1"></a><a target="_top" href="/longdistance/" onmouseover="img_act('menu2','menu2on')" onmouseout="img_act('menu2','menu2')"><img src="/site_images/longd0.gif" width="133" height="24" vspace="0" hspace="0" border="0" name="menu2"></a><a target="_top" href="/travel/" onmouseover="img_act('menu3','menu3on')" onmouseout="img_act('menu3','menu3')"><img src="/site_images/travel0.gif" width="80" height="24" vspace="0" hspace="0" border="0" name="menu3"></a><a target="_top" href="/satellite/" onmouseover="img_act('menu4','menu4on')" onmouseout="img_act('menu4','menu4')"><img src="/site_images/sattv0.gif" width="77" height="24" vspace="0" hspace="0" border="0" name="menu4"></a><a target="_top" href="/creditcards/" onmouseover="img_act('menu5','menu5on')" onmouseout="img_act('menu5','menu5')"><img src="/site_images/credit0.gif" width="83" height="24" vspace="0" hspace="0" border="0" name="menu5"></a><a target="_top" href="/finance/" onmouseover="img_act('menu6','menu6on')" onmouseout="img_act('menu6','menu6')"><img src="/site_images/loan0.gif" width="113" height="24" vspace="0" hspace="0" border="0" name="menu6"></a><a target="_top" href="/insurance/" onmouseover="img_act('menu7','menu7on')" onmouseout="img_act('menu7','menu7')"><img src="/site_images/insure0.gif" width="67" height="24" vspace="0" hspace="0" border="0" name="menu7"></a><a target="_top" href="/internet/" onmouseover="img_act('menu8','menu8on')" onmouseout="img_act('menu8','menu8')"><img src="/site_images/internet0.gif" width="58" height="24" vspace="0" hspace="0" border="0" name="menu8"></a><img src="/site_images/rightcornernav.gif" width="66" height="24"></td>
+  </tr>
+
+</tbody></table>
+
+
+<table width="780" cellspacing="0" cellpadding="0"><tbody><tr><td align="CENTER">
+
+<br>
+                  <table width="100%" border="0" cellpadding="1" cellspacing="0">
                       <tbody><tr>
                           <td align="LEFT" valign="TOP">
-						  <font face="ARIAL" size="2">
-							<!-- START BODY -->
-							MyRatePlan.com, LLC has created this privacy statement 
-							in order to demonstrate our firm commitment to 
-							privacy. The following discloses our information 
-							gathering and dissemination practices for this 
-							website: 
-							<a href="http://www.myrateplan.com">http://www.myrateplan.com</a>.<br><br>
-							
-							We use your IP address to help diagnose problems 
-							with our server, and to administer our Web site. 
-							Your IP address is used to gather broad demographic 
-							information.<br><br>
-							
-							Our site uses cookies to make sure you don't see 
-							the same ad repeatedly. We use cookies to deliver 
-							content specific to your interests and to save your 
-							password so you don't have to re-enter it each time 
-							you visit our site.<br><br>
-							
-							Our site's registration form requires users to 
-							give us contact information (like their name and 
-							email address) along with optional demographic 
-							information (like their age or income level). We 
-							use customer contact information from the registration 
-							form to send the user information about our company 
-							and promotional material from some of our partners. 
-							The customer's contact information is also used to 
-							contact the visitor when necessary. Users may 
-							opt-out of receiving future mailings; see the 
-							choice/opt-out section below. Demographic and 
-							profile data is also collected at our site. We 
-							use this data to tailor the visitor's experience 
-							at our site, showing them content that we think 
-							they might be interested in, and displaying the 
-							content according to their preferences. This 
-							information is shared with advertisers on an 
-							aggregate basis.<br><br>
-							
-							This site contains links to other sites. MyRatePlan.com, 
-							LLC is not responsible for the privacy practices or the 
-							content of such Web sites.<br><br>
-							
-							Our online surveys associate respondents with their 
-							previously provided registration information.   This 
-							information is shared with advertisers on an aggregate 
-							basis. We run contests on our site in which we ask 
-							visitors for contact information (like their email 
-							address) and demographic information (like their zip 
-							code, age, or income level). The customer's contact 
-							information is used to contact the visitor when 
-							necessary.<br><br>
-							
-							<b>Security</b><br><br>
-							This site has security measures in place to protect 
-							the loss, misuse and alteration of the information 
-							under our control. MyRatePlan.com takes reasonable 
-							precaution not to allow access to the personal 
-							information contained within our 
-							databases.<br><br>
-							
-							<b>Children's Guidelines</b><br><br>
-							MyRatePlan.com does:<br>
-							1. NOT collect online contact information without 
-							prior parental consent or parental notification, 
-							which will include an opportunity for the parent 
-							to prevent use of the information and participation 
-							in the activity. Without prior parental consent, 
-							online information will only be used to respond 
-							directly to the child's request and will not be 
-							used for other purposes without prior parental 
-							consent<br><br>
-							2. NOT collect personally identifiable offline 
-							contact information without prior parental 
-							consent<br><br>
-							3. NOT distribute to third parties any personally 
-							identifiable information with out prior parental 
-							consent<br><br> 
-							4. NOT give the ability to publicly post or 
-							otherwise distribute personally identifiable 
-							contact information without prior parental 
-							consent<br><br>
-							5. NOT entice by the prospect of a special game, 
-							prize or other activity, to divulge more information 
-							than is needed to participate in the 
-							activity<br><br>
-							
-							<b>Choice/Opt-Out</b><br><br>
-							Our site provides users the opportunity to opt-out 
-							of receiving communications from us and our partners 
-							at the point where we request information about the 
-							visitor.  This site gives users the following options 
-							for removing their information from our database to 
-							not receive future communications or to no longer receive 
-							our service.<br><br>
-							
-							1. Unsubscribe online at 
-							<a href="http://www.myrateplan.com/newsletter/unsubscribe.php">http://www.myrateplan.com/newsletter/unsubscribe.php</a><br><br>
-							
-							<b>Contacting the Web Site</b><br><br>
-							If you have any questions about this privacy statement, 
-							the practices of this site, or your dealings with this Web 
-							site, you can contact:<br><br>
-							
-							Webmaster<br>
-							MyRatePlan.com, LLC<br>
-							<a href="mailto:privacy@myrateplan.com">privacy@myrateplan.com</a>
-							<!-- END BODY -->
+                    <font face="ARIAL" size="2">
+                     <!-- START BODY -->
+                     MyRatePlan.com, LLC has created this privacy statement 
+                     in order to demonstrate our firm commitment to 
+                     privacy. The following discloses our information 
+                     gathering and dissemination practices for this 
+                     website: 
+                     <a href="http://www.myrateplan.com">http://www.myrateplan.com</a>.<br><br>
+                     
+                     We use your IP address to help diagnose problems 
+                     with our server, and to administer our Web site. 
+                     Your IP address is used to gather broad demographic 
+                     information.<br><br>
+                     
+                     Our site uses cookies to make sure you don't see 
+                     the same ad repeatedly. We use cookies to deliver 
+                     content specific to your interests and to save your 
+                     password so you don't have to re-enter it each time 
+                     you visit our site.<br><br>
+                     
+                     Our site's registration form requires users to 
+                     give us contact information (like their name and 
+                     email address) along with optional demographic 
+                     information (like their age or income level). We 
+                     use customer contact information from the registration 
+                     form to send the user information about our company 
+                     and promotional material from some of our partners. 
+                     The customer's contact information is also used to 
+                     contact the visitor when necessary. Users may 
+                     opt-out of receiving future mailings; see the 
+                     choice/opt-out section below. Demographic and 
+                     profile data is also collected at our site. We 
+                     use this data to tailor the visitor's experience 
+                     at our site, showing them content that we think 
+                     they might be interested in, and displaying the 
+                     content according to their preferences. This 
+                     information is shared with advertisers on an 
+                     aggregate basis.<br><br>
+                     
+                     This site contains links to other sites. MyRatePlan.com, 
+                     LLC is not responsible for the privacy practices or the 
+                     content of such Web sites.<br><br>
+                     
+                     Our online surveys associate respondents with their 
+                     previously provided registration information.   This 
+                     information is shared with advertisers on an aggregate 
+                     basis. We run contests on our site in which we ask 
+                     visitors for contact information (like their email 
+                     address) and demographic information (like their zip 
+                     code, age, or income level). The customer's contact 
+                     information is used to contact the visitor when 
+                     necessary.<br><br>
+                     
+                     <b>Security</b><br><br>
+                     This site has security measures in place to protect 
+                     the loss, misuse and alteration of the information 
+                     under our control. MyRatePlan.com takes reasonable 
+                     precaution not to allow access to the personal 
+                     information contained within our 
+                     databases.<br><br>
+                     
+                     <b>Children's Guidelines</b><br><br>
+                     MyRatePlan.com does:<br>
+                     1. NOT collect online contact information without 
+                     prior parental consent or parental notification, 
+                     which will include an opportunity for the parent 
+                     to prevent use of the information and participation 
+                     in the activity. Without prior parental consent, 
+                     online information will only be used to respond 
+                     directly to the child's request and will not be 
+                     used for other purposes without prior parental 
+                     consent<br><br>
+                     2. NOT collect personally identifiable offline 
+                     contact information without prior parental 
+                     consent<br><br>
+                     3. NOT distribute to third parties any personally 
+                     identifiable information with out prior parental 
+                     consent<br><br> 
+                     4. NOT give the ability to publicly post or 
+                     otherwise distribute personally identifiable 
+                     contact information without prior parental 
+                     consent<br><br>
+                     5. NOT entice by the prospect of a special game, 
+                     prize or other activity, to divulge more information 
+                     than is needed to participate in the 
+                     activity<br><br>
+                     
+                     <b>Choice/Opt-Out</b><br><br>
+                     Our site provides users the opportunity to opt-out 
+                     of receiving communications from us and our partners 
+                     at the point where we request information about the 
+                     visitor.  This site gives users the following options 
+                     for removing their information from our database to 
+                     not receive future communications or to no longer receive 
+                     our service.<br><br>
+                     
+                     1. Unsubscribe online at 
+                     <a href="http://www.myrateplan.com/newsletter/unsubscribe.php">http://www.myrateplan.com/newsletter/unsubscribe.php</a><br><br>
+                     
+                     <b>Contacting the Web Site</b><br><br>
+                     If you have any questions about this privacy statement, 
+                     the practices of this site, or your dealings with this Web 
+                     site, you can contact:<br><br>
+                     
+                     Webmaster<br>
+                     MyRatePlan.com, LLC<br>
+                     <a href="mailto:privacy@myrateplan.com">privacy@myrateplan.com</a>
+                     <!-- END BODY -->
                           </font>
                           </td>
                       </tr>
                    </tbody></table>
-				   <br><br>
-              </center>
+               <br><br>
+              
+
     <!-- START footer -->  
-               <br> <center>
-            <font face="VERDANA,ARIAL" size="2">
-			</font><center><font face="VERDANA,ARIAL" size="2">
-			<a class="bluelink" href="/wireless/">Wireless</a> | 
-			<a class="bluelink" href="/longdistance/">Long Distance</a> | 
-			<a class="bluelink" href="/travel/">Travel</a> | 
-			<a class="bluelink" href="/satellite/">Satellite TV</a> | 
-			<a class="bluelink" href="/creditcards/">Credit Cards</a> | 
-			<a class="bluelink" href="/finance/">Loans and Financial</a> | 
-			<a class="bluelink" href="/insurance/">Insurance</a> | 
-			<a class="bluelink" href="/internet/">Internet Access</a><br><br>
-			
-			<a href="/index.php">Home</a> | <a href="/newsletter/newsletter_signup.php">Newsletter</a> | <a href="/cgi-bin/taf/raf.cgi">Refer a Friend</a> | <a href="/news/">Press Room</a> | <a href="/about.php">About Us</a> | <a href="/contact.php">Contact Us</a><br>
-            <a href="/partners.php">Partnerships</a> | <a href="/RPP/">Retail Partner Program</a> | <a href="/vertical.php">Other MyRatePlan Sites</a><br><br>
-			</font>
-            <font class="foot" face="ARIAL" size="1">
-            <a class="foot" href="/terms.php">Terms of Usage</a> | <a class="foot" href="/privacy.php">Privacy Policy</a><br>
-            Copyright © 2002 MyRatePlan.com, LLC. All Rights Reserved.<br>
-            Designed and Hosted by <a class="foot" href="http://www.thenextcurve.com">NEXT CURVE Technologies, LLC</a>
-        </font></center><font class="foot" face="ARIAL" size="1">
-            </font></center></td>
-        </tr>
-	</tbody></table>
-</center>
+        </td></tr></tbody></table>
+
+<br>
+  <center>
+      <font class="FOOTFONT"></font>
+
+          <style>
+              .FOOTTXT {
+                   color: black;
+                   text-decoration: none;
+                   font-size: 8pt;
+                   font-family: arial;
+              }
+              .FOOTLINK {
+                   color: #2222AA;
+                   text-decoration: none;
+                   font-size: 8pt;
+                   font-family: arial;
+              }
+              .FOOTLINK:hover {
+                   text-decoration: underline;
+              }
+              .FOOTLINK2 {
+                   color: #AA2222;
+                   text-decoration: none;
+                   font-size: 8pt;
+                   font-family: arial;
+              }
+              .FOOTLINK2:hover {
+                   text-decoration: underline;
+              }
+          </style>
 
 
-    
+          <font class="FOOTTXT">            
+            <a class="FOOTLINK" href="/index.php">Home</a> | 
+            <a class="FOOTLINK" href="/enews/">Newsletter</a> | 
+            <a class="FOOTLINK" href="/taf/">Refer a Friend</a> | 
+            <a class="FOOTLINK" href="/news/">Press Room</a> | 
+            <a class="FOOTLINK" href="/about.php">About Us</a> | 
+            <a class="FOOTLINK" href="/contact.php">Contact Us</a> |
+            <a class="FOOTLINK" href="/partners.php">Partnerships</a> | 
+            <a class="FOOTLINK" href="/affiliates/">Affiliate Program</a> |              <a class="FOOTLINK" href="/vertical.php">Other MyRatePlan Sites</a><br>
+
+            <a class="FOOTLINK2" href="/terms.php">Terms of Usage</a> | 
+            <a class="FOOTLINK2" href="/privacy.php">Privacy Policy</a><br>
+            Copyright © 2002-03 MyRatePlan.com, LLC. All Rights Reserved.<br>
+         </font>
+         <font size="1" color="#FFFFFF"></font>   </center>
+
+
+
+
+
 
     <!-- END footer -->
-</body></html>
+</center></body></html>
