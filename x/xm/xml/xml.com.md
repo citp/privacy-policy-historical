@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203124017id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607192231id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
 
 # XML.com: O'Reilly & Associates, Inc. Privacy Policy [Feb. 06, 2001]
 
@@ -36,22 +36,41 @@
 [Manage Your Account](http://www.xml.com/cs/user/login)  
 [Forgot Your Password?](http://www.xml.com/cs/user/lostpw)
 
-[ ](https://web.archive.org/pub/a/2001/03/21/xml_com_feed.html)    
+[ ](https://web.archive.org/pub/a/2001/03/21/xml_com_feed.html)
+
+   
+[<taglines/>](https://web.archive.org/pub/at/20)  
+[Dive into XML](https://web.archive.org/pub/at/25)  
+[Hacking the Library](https://web.archive.org/pub/at/30)  
+[Jon Udell](https://web.archive.org/pub/at/26)  
+[Perl and XML](https://web.archive.org/pub/at/15)  
+[Practical XQuery](https://web.archive.org/pub/at/28)  
+[Python and XML](https://web.archive.org/pub/at/24)  
+[Rich Salz](https://web.archive.org/pub/at/21)  
+[Sacré SVG](https://web.archive.org/pub/at/22)  
+[Standards Lowdown](https://web.archive.org/pub/at/31)  
+[Transforming XML](https://web.archive.org/pub/at/16)  
+[XML Q&A](https://web.archive.org/pub/at/13)  
+[XML-Deviant](https://web.archive.org/pub/at/17)  
+
+
+   
   
 [Syntax Checker](https://web.archive.org/pub/a/tools/ruwf/check.html)
 
-[](http://www.oreillynet.com/)  
-
+[](http://www.oreillynet.com/meerkat/?_fl=atom&t=ALL&c=47)  
+[](http://www.oreillynet.com/meerkat/?_fl=rss10&t=ALL&c=47)
 
 Traveling to a Tech Show?
 
-  
 |  February 06, 2001  
 
 
 ### Purpose and Scope
 
-This policy discloses what information we gather about you when you visit any of our Web sites (all oreilly.com and O'Reilly Network sites) or buy product directly from us. It describes how we use that information and how you can control it. Our privacy policy addresses:  Information O'Reilly gathers and tracks  
+This policy discloses what information we gather about you when you visit any of our Web sites (all oreilly.com and O'Reilly Network sites) or buy product directly from us. It describes how we use that information and how you can control it. Our privacy policy addresses: 
+
+Information O'Reilly gathers and tracks  
 Personal information  
 Aggregated tracking information  
 Cookies  
@@ -104,13 +123,7 @@ If we change our Privacy Policy, we will post those changes on www.oreilly.com. 
 
 **Snailmail** : To change your address or delete your name from our mailing list for paper catalogs, brochures, or advertisements, send email to catalog@oreilly.com or call 800-998-9938 or 707-829-0515.
 
-  
-|  |  Sponsored By:
-
-|   
----  
-  
-  
-  
+|  |    
+Sponsored By:  
   
 
