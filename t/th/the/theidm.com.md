@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211030011id_/http%3A//www.theidm.com/index.cfm%3Ffuseaction%3DcontentDisplay.%26chn%3D1%26tpc%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402131820id_/http%3A//www.theidm.com/index.cfm%3Ffuseaction%3DcontentDisplay.%26chn%3D1%26tpc%3D6) for the most accurate reproduction.*
 
 # Institute of Direct Marketing
 
