@@ -1,45 +1,13 @@
-> *The following text is extracted and transformed from the chiefs.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606070016id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefs.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012064746id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
 
 # NFL.com - Privacy Policy
 
-[](http://www.nfl.com/)
+[](http://www.nflshop.com/home/default.cfm?SID=7126)
 
-|   
----  
-* [NFL DRAFT](https://web.archive.org/draft)  
-* [NFL EUROPE](http://www.nfl.com/nfleurope)  
-* [JOIN THE TEAM](http://www.jointheteam.com/)  
-* [FIELD PASS](https://web.archive.org/fieldpass)  
-* [ROSTERS](https://web.archive.org/rosters)  
-* [DEPTH CHARTS](https://web.archive.org/depthcharts)  
-* [TV & RADIO](https://web.archive.org/tvradio)  
-* [NFL NETWORK](https://web.archive.org/nflnetwork)  
-* [YOUTH FOOTBALL](https://web.archive.org/youth)  
-* [TICKETS](https://web.archive.org/tickets)  
-* [AUCTIONS](https://web.archive.org/auctions)  
-* [NFL SHOP](http://www.nflshop.com/home/default.cfm?SID=7193)  
-* [PRO BOWL](http://www.nfl.com/probowl/features)  
-  
-[](http://www.nflshop.com/home/default.cfm?SID=7126)  
-  
----  
-* [KIDS](http://www.playfootball.com/)  
-* [HALL OF FAME](http://www.profootballhof.com/)  
-* [NFLPLAYERS.COM](http://www.nflplayers.com/)  
-* [FANTASY](http://www.nfl.com/fantasy)  
-* [SUPERBOWL.COM](http://www.superbowl.com/)  
-* [NFL ALUMNI](http://www.nflalumni.org/)  
----  
-* [CONTESTS](http://www.nfl.com/redir?url=2689)  
-* [PLAYER](http://www.nflplayerdevelopment.com/)  
-* [PROGRAMS](http://www.nflplayerdevelopment.com/)  
-* [HISTORY](https://web.archive.org/history)  
-* [INTERNATIONAL](https://web.archive.org/international)  
-* [NFL SUNDAY TICKET](https://web.archive.org/ticket)  
-* [USA FOOTBALL](http://www.usafootball.com/)  
-* [WIRELESS](https://web.archive.org/wireless)  
-|   |  | |   
----|---  
+[](http://www.jointheteam.com/)
+
+|  |  |  |   |   
+---|---|---  
 [Play football Privacy Policy](http://www.playfootball.com/site/privacy.html) **·** [NFL Shop Privacy Policy](http://www.nflshop.com/content/help_privacy.cfm) **PRIVACY POLICY**  
 Effective Date: Aug. 16, 2001 
 
@@ -156,6 +124,7 @@ Questions regarding this statement should be directed to:
 SportsLine.com, Inc.  
 Attn: Customer Service - Privacy  
 2200 W. Cypress Creek Road  
-Ft. Lauderdale, Florida 33309 
+Ft. Lauderdale, Florida 33309    
+ 
 
-  | 
+| 
