@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603140459id_/http%3A//www.edealinfo.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edealinfo.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206190055id_/http%3A//www.edealinfo.com/privacy.shtml) for the most accurate reproduction.*
 
 # eDealinfo.com Privacy Policy
 
@@ -26,3 +26,5 @@ This site contains links to other Web sites. We use third-party ad servers in or
 Questions?
 
 eDealinfo.com welcomes comments and questions on this policy. We are dedicated to protecting your personal information and will make every reasonable effort to keep that information secure. Any revisions to our policy will be posted to this site. Questions regarding this statement should be directed to [admin@edealinfo.com](mailto:admin@edealinfo.com?subject=eDealinfo.com%20Privacy%20Policy).
+
+© Copyright 2002 eDealinfo LLC. All Rights Reserved.
