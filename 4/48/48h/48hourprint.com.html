@@ -1,31 +1,17 @@
-<!--The following is the downloaded HTML source of the 48hourprint.com privacy policy that was archived on 2004-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040611162249id_/http%3A//www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi%3F%26pg%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 48hourprint.com privacy policy that was archived on 2004-12-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208014701id_/http%3A//www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi%3F%26pg%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
 		
 
-		<title>* Privacy Statement at www.48hourprint.com</title>
+		<title>Privacy Statement at www.48hourprint.com</title>
 		<meta name="description" content="Postcard printing in all sizes and shapes including full color postcards.  48hourprint is an experienced postcard printer providing online design, templates, printing, and assistance marketing postcards.">
 <meta name="keywords" content="postcards, postcard printer, marketing postcards printing, full color printing, online design, templates, printing postcards, 48hourprint, 48hourprint.com, post cards">
 
 
-		
-<style>	
-INPUT, BUTTON, SELECT {
-	font:tahoma;
-	font-size:8pt;
-	border-bottom-width : 1px;
-	border-bottom-color : Black;
-	border-left-width : 1px;
-	border-left-color : Black;
-	border-right-width : 1px;
-	border-right-color : Black;
-	border-top-width : 1px;
-	border-top-color : Black;
-}	
-</style>	
+                
 				
-		<link rel="stylesheet" href="https://www.48hourprint.com/stylesheet_ccp5.css">
+		 <link rel="stylesheet" href="https://www.48hourprint.com/stylesheet_ccp5.css">
 		
 		
 		<script language="Javascript">
@@ -54,6 +40,138 @@ function openScrollWindow(pageName,pageWidth,pageHeight) {
 window.open(pageName,"remote","width=" + pageWidth + " ,height=" + pageHeight + " ,menubar=no,scrollbars=yes,resizable=yes,toolbar=no,status=yes");
 
 }
+// -->
+</script>
+
+<script language="JavaScript">
+<!-- Please keep copyright lines in place without changes.
+//   Copyright 2000 William and Mari Bontrager
+//   Copyright 2003 Bontrager Connection, LLC
+//
+// For more information and instructions, please 
+//    see the "Double Click Trapper" article at 
+//    http://willmaster.com/possibilities/archives
+
+
+// When the form's submit button is clicked a second 
+//    time, the click trap is set. Here, specify how 
+//    many seconds the trap exist before it's released.
+
+TrapClicksForHowManySeconds = 15;
+
+
+
+// If the user clicks the submit button and causes a 
+//    trap, or clicks when a trip is set, you may spawn 
+//    an alert box with a message. If you do want to 
+//    spawn the alert box, specify the message between 
+//    the quotation marks. Otherwise, leave it blank.
+//(Blank is two consecutive quotation mark characters, 
+//    with nothing between them.)
+// Note: If you use any quotation marks in the message 
+//       itself, those must be preceeded with a back-slash 
+//       character. Example: "My name is \"tall\", okay?"
+
+AlertBoxMessage = "One click is sufficient. The server should respond momentarily.\n\n\nClick the \"OK\" button.";
+
+
+
+// If the user clicks the submit button and causes a trap, 
+//    or clicks when a trip is set, you may spawn a popup 
+//    box. If you want to spawn the popup box, specify 
+//    the URL of the web page to insert into the popup. 
+//    Otherwise, leave it blank. You may also specify 
+//    the height of the popup and the width of the popup.
+
+PopUpBoxURL = "";
+PopUpBoxHeight = 300;
+PopUpBoxWidth = 500;
+
+
+
+// If you want the submit button to change its text when 
+//    it is clicked, specify the name you assigned to the 
+//    form, the name you assigned to the submit button 
+//    form field, and the new text for the submit button. 
+//    Otherwise, leave at least one of these blank.
+
+NameOfForm = "ccform";
+NameOfSubmitButton = "submitter";
+NewTextForSubmitButton = "Now Processing...";
+
+
+
+// ////////////////////////////////////////// //
+// NO CUSTOMIZATION REQUIRED BELOW THIS POINT //
+// ////////////////////////////////////////// //
+
+
+TrapTime = 0;
+DoubleClickTrapperCounter = 0;
+
+
+function DoubleClickTrapperAction() {
+DoubleClickTrapperCounter++;
+DoubleClickTrapperButton();
+var trapTheClick = false;
+if(DoubleClickTrapperCounter > 1 ) { trapTheClick = true; }
+if(trapTheClick == true) {
+	if(TrapTime == 0) {
+		var tDate = new Date;
+		TrapTime = tDate.valueOf();
+		}
+	else {
+		var tDate = new Date;
+		var localTrapTime = tDate.valueOf();
+		if((localTrapTime - TrapTime) > (TrapClicksForHowManySeconds * 1000)) {
+			TrapTime = 0;
+			trapTheClick = false;
+			DoubleClickTrapperCounter = 0;
+			}
+		}
+	}
+var valueToReturn = true;
+if(trapTheClick == true) {
+	valueToReturn = false;
+	DoubleClickTrapperPopUp();
+	DoubleClickTrapperAlert();
+	}
+return valueToReturn;
+} // end of function DoubleClickTrapperAction()
+
+
+function DoubleClickTrapperButton() {
+var formname   = StripSpaces(NameOfForm);
+var submitname = StripSpaces(NameOfSubmitButton);
+var newtext    = StripSpaces(NewTextForSubmitButton);
+if(formname.length > 0 && submitname.length > 0 && newtext.length > 0) {
+	var s = 'document.' + NameOfForm + '.' + NameOfSubmitButton + ".value = '" + NewTextForSubmitButton + "'";
+	eval(s);
+	}
+} // end of function DoubleClickTrapperButton()
+
+
+function DoubleClickTrapperPopUp() {
+var url = StripSpaces(PopUpBoxURL);
+if(url.length > 0) {
+	if(PopUpBoxHeight < 1) { PopUpBoxHeight = 200; }
+	if(PopUpBoxWidth < 1) { PopUpBoxWidth = 300; }
+	window.open(url,'',('height=' + PopUpBoxHeight + ',width=' + PopUpBoxWidth + ',resizable=yes,scrollbars=yes'));
+	}
+} // end of function DoubleClickTrapperPopUp()
+
+
+function DoubleClickTrapperAlert() {
+var message = StripSpaces(AlertBoxMessage);
+if(message.length > 0) { alert(AlertBoxMessage); }
+} // end of function DoubleClickTrapperAlert()
+
+
+function StripSpaces(s) {
+while(s.indexOf(' ') == 0) { s = s.substr(1); }
+return s;
+} // end of function StripSpaces()
+
 // -->
 </script>
 			
@@ -142,9 +260,9 @@ window.open(pageName,"remote","width=" + pageWidth + " ,height=" + pageHeight + 
 <center>
 
 
-<font face="VERANDA" size="1" color="0">
+<font face="Tahoma, Arial, Helvetica" size="1" color="0">
 
-</font><font face="VERANDA" size="1" color="0">
+</font><font face="Tahoma, Arial, Helvetica" size="1" color="0">
 
 
 
@@ -183,8 +301,8 @@ This site gives users the following options for removing their information from 
 
 <ul>
 
-<li><a href="https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F6283500&amp;rnd=3141514&amp;rrc=N&amp;affl=&amp;cip=209.237.238.172&amp;act=&amp;aff=&amp;pg=contact">You can send email to us by visiting the Contact Page</a><br>
-</li><li><a href="https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F6283500&amp;rnd=3141514&amp;rrc=N&amp;affl=&amp;cip=209.237.238.172&amp;act=&amp;aff=&amp;pg=maillist">You can visit the Mail List Page to un-subscribe</a><br>
+<li><a href="https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F1297007&amp;rnd=8614856&amp;rrc=N&amp;affl=&amp;cip=209.237.238.175&amp;act=&amp;aff=&amp;pg=contact">You can send email to us by visiting the Contact Page</a><br>
+</li><li><a href="https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F1297007&amp;rnd=8614856&amp;rrc=N&amp;affl=&amp;cip=209.237.238.175&amp;act=&amp;aff=&amp;pg=maillist">You can visit the Mail List Page to un-subscribe</a><br>
 
 </li></ul>
 
@@ -196,7 +314,7 @@ information previously provided.<br><br>
 
 <ul>
 
-<li><a href="https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F6283500&amp;rnd=3141514&amp;rrc=N&amp;affl=&amp;cip=209.237.238.172&amp;act=&amp;aff=&amp;pg=contact">You can send email to us by visiting Contact Page</a><br>
+<li><a href="https://www.48hourprint.com/cgi-bin/ccp51/cp-app.cgi?usr=51F1297007&amp;rnd=8614856&amp;rrc=N&amp;affl=&amp;cip=209.237.238.175&amp;act=&amp;aff=&amp;pg=contact">You can send email to us by visiting Contact Page</a><br>
 
 </li></ul>
 
@@ -236,9 +354,8 @@ var DOCUMENTNAME='Privacy Statement';
 												<td width="185">
 													<div align="center">
 														<a href="javascript:openScrollWindow('http://www.48hourprint.com/ordersteps/place_order.html',650,670)"><img src="https://www.48hourprint.com/images/orderhelplogo.gif" alt="" height="21" width="21" align="absmiddle" border="0"></a> <a href="javascript:openScrollWindow('http://www.48hourprint.com/ordersteps/place_order.html',650,670)">Need Help Ordering?<br></a>(For step-by-step help)<br>
-															<br>
-															<br>
-															<br>
+								<br>							<br>
+												<br>
 														
 														<script src="https://seal.verisign.com/getseal?host_name=www.48hourprint.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=NO"></script>
 														<br>						<br><br>
@@ -273,5 +390,6 @@ var DOCUMENTNAME='Privacy Statement';
 		</div>
 
 	
+
 
 </body></html>
