@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630213923id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exactseek.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231014110id_/http%3A//www.exactseek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement: ExactSeek.com
 
@@ -22,7 +22,7 @@
 > For Standard Site submissions, the only information collected is Name, Email Address, URL and IP address. Additional information is collected for Enhanced Site listings in lieu of a site submission fee.
 > 
 > Your use of ExactSeek's services constitutes a business relationship wherein we provide a promotion service for your web  
->  site(s). In exchange, ExactSeek reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide free newsletters (SiteProNews, AllBusinessNews, SEO-News), to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information from our partners. 
+>  site(s). In exchange, ExactSeek reserves the right to use the contact information collected during site submission to deliver notices regarding changes or updates to our service, to provide free newsletters (SiteProNews, AllBusinessNews, SEO-News), to inform you of additions to the Jayde Online Network of web sites, or to send announcements and carefully screened offers and information on behalf of our partners or advertisers. 
 > 
 > You may remove yourself from any or all of our notice and announcement mailings at anytime using the unsubscribe methods provided in those mailings. Any mailing received from our company is clearly identified and includes a valid email address and unsubscribe link which you can use to remove yourself from future mailings. Should you encounter problems in this regard, contact [**support@exactseek.com**](mailto:support@exactseek.com). Our turnaround time for responding to unsubscribe requests is generally 24 hours.
 
@@ -34,7 +34,7 @@
   
 
 
-> ExactSeek maintains your email address and other pertinent personal information, provided at the time of your site submission, on the premises. ExactSeek allows carefully screened vendors the opportunity to send you offers and information that we have deemed may be of value to you. You may opt-in or out of this feature at any time. 
+> ExactSeek maintains your email address and other pertinent personal information, provided at the time of your site submission, on the premises. ExactSeek does not rent or sell email addresses nor any other personal data. 
 
 > At this time, Cookies are not used on the ExactSeek site. 
 
