@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the goarmy.com privacy policy that was archived on 1999-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991128140539id_/http%3A//goarmy.com/util/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goarmy.com privacy policy that was archived on 2000-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000623000913id_/http%3A//goarmy.com/util/privacy.htm) for the most accurate reproduction.*
 
 # GoArmy.com | Privacy and Security Guidelines
 
 **PRIVACY AND SECURITY NOTICE**
 
-GoArmy.com is committed to protecting your privacy. Therefore, your use and implementation of the information and information request forms included in this web site are covered under the following guidelines. If you have any questions or comments about the information presented here, please contact the [Webmaster](https://web.archive.org/web/19991128140539id_/http%3A//goarmy.com/util/webtech.htm).
+GoArmy.com is committed to protecting your privacy. Therefore, your use and implementation of the information and information request forms included in this web site are covered under the following guidelines. If you have any questions or comments about the information presented here, please contact the [Webmaster](https://web.archive.org/web/20000623000913id_/http%3A//goarmy.com/util/webtech.htm).
 
 1\. The United States Army Recruiting Web Site (GoArmy.com) is provided as a public service by the United States Army Recruiting Command (USAREC) and the Department of the Army.
 
