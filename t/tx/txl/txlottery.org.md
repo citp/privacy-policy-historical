@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the txlottery.org privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607182734id_/http%3A//www.txlottery.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txlottery.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203012502id_/http%3A//www.txlottery.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Lottery Commission Information
 
@@ -20,11 +20,11 @@
 [ ](http://www.cast.org/bobby "Bobby's Home Page")  
 |  | [](https://web.archive.org/online/lotto.cfm) |  | [](https://web.archive.org/online/txtwostep.cfm)  
 ---|---|---  
-**$25 Million**   
+**$6 Million**   
 ESTIMATED JACKPOT  
-for **06/08/02** |  **$ 200,000**   
+for **12/04/02** |  **$1.1 Million**   
 ESTIMATED JACKPOT  
-for **06/07/02**  
+for **12/03/02**  
  |   
  **Texas Lottery Commission Privacy Policy**
 
