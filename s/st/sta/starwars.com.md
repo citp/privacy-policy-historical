@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204200149id_/http%3A//www.starwars.com/site/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starwars.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603160559id_/http%3A//www.starwars.com/site/privacy_policy.html) for the most accurate reproduction.*
 
 # Star Wars: Site Info | Privacy Policy
 
@@ -136,6 +136,8 @@ For additional information about our Web site, please see our [Terms of Use.](ht
 
 Thanks. Have fun! Back to start of Our Privacy Policy. 
 
-© 2001 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved. 
+© 2002 Lucasfilm Ltd. and/or its affiliated and related entities. All rights reserved. [](http://www.bbbonline.org/cks.asp?id=30012011473813365)
 
-| 
+We participate in the BBBOnline Privacy Program. See [www.bbbonline.com](http://www.bbbonline.org/cks.asp?id=30012011473813365).
+
+|  
