@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roses.ru privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217063434id_/http%3A//www.roses.ru/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roses.ru privacy policy that was archived on 2003-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030424024136id_/http%3A//roses.ru/privacy.shtml) for the most accurate reproduction.*
 
 # FAQ related to security and privacy.
 
@@ -48,4 +48,4 @@ If you have questions at any time regarding our privacy policy, you may contact 
 
 Russian Florists' Network  
 185 Dekabristov str  
-Kazan Russia 420084 
+Kazan Russia 420080 
