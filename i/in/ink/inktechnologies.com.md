@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211123639id_/http%3A//inktechnologies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605062836id_/http%3A//www.inktechnologies.com/privacy.html) for the most accurate reproduction.*
 
 # Ink Technologies, Inc. - Privacy Statement
 
@@ -12,14 +12,14 @@ Like most commercial web sites, InkTechnologies.com uses cookies so we can bette
 
 ### Security
 
-Ink Technologies takes all appropriate and reasonable steps to protect all information you share with us from unauthorized access or disclosure.
+Ink Technologies takes all appropriate and reasonable steps to protect all information you share with us from unauthorized access or disclosure. No credit card information is stored online.
 
 ### Commitment
 
-Ink Technologies is committed to the principles of individual privacy and online security. Please contact us at [info@inktechnologies.com](mailto:info@inktechnologies.com)  with any questions or comments regarding these policies.
+Ink Technologies is committed to the principles of individual privacy and online security. Please contact us at [info@inktechnologies.com](mailto:info@inktechnologies.com) with any questions or comments regarding these policies.
 
 * * *
 
 ****
 
-Return to [Ink Technologies](https://web.archive.org/web/20011211123639id_/http%3A//inktechnologies.com/index.html) homepage
+Return to [Ink Technologies](https://web.archive.org/web/20020605062836id_/http%3A//www.inktechnologies.com/index.html) homepage
