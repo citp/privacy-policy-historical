@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203164008id_/http%3A//www.gohawaii.com/exec/104557/1310) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gohawaii.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606170711id_/http%3A//gohawaii.com/exec/104557/1310) for the most accurate reproduction.*
 
 # Hawaii - The Islands of Aloha
 
@@ -34,13 +34,12 @@
 [Romance](https://web.archive.org/exec/105311/803)  
   
 [](http://calendar.gohawaii.com/)  
-[](http://gohawaii.com/exec/103785/3092/-/-/NDpOWUNfTElWRTU1Mzk5MDM6TllDX0xJVkU0ODYwMzc1OkVOR0xJU0g6VVM6OjEwNzA0Njk2MDg6Ojo=)  
-[](https://web.archive.org/exec/103784/759)  
+[](http://www.gohawaii.com/exec/103785/3092/-/-/NDpOWUNfTElWRTY3MDQ5MzU6TllDX0xJVkUzOTEwNjE1OkVOR0xJU0g6VVM6OjEwODY1NDE2MjU6Ojo=)  
 [](https://web.archive.org/exec/103779/753)  
 [](https://web.archive.org/exec/103781/755)  
 [](https://web.archive.org/exec/104130/1049)  
 [](https://web.archive.org/exec/103787/770)  
-[](http://www.meethawaii.com/)  
+[](http://www.gohawaii.com/exec/107634/2676/-/-/NDpOWUNfTElWRTY3MDQ5MzU6TllDX0xJVkUzOTEwNjE1OkVOR0xJU0g6VVM6OjEwODY1NDE2MjU6Ojo=)  
 |   
 ---  
 |  |   
