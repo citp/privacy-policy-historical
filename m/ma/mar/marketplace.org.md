@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketplace.org privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607143636id_/http%3A//marketplace.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketplace.org privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012080018id_/http%3A//www.marketplace.org/about/privacy.html) for the most accurate reproduction.*
 
 # Marketplace: User Privacy
 
