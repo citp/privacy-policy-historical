@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the copykat.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211104115id_/http%3A//www.copykat.com/asp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copykat.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603172914id_/http%3A//copykat.com/asp/privacy.asp) for the most accurate reproduction.*
 
 # CopyKat.com
 
