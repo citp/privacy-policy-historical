@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the benjaminmoore.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331123303id_/http%3A//www.benjaminmoore.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the benjaminmoore.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217055253id_/http%3A//benjaminmoore.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # Benjamin Moore & Co. == Privacy on the Web
 
@@ -27,4 +27,4 @@ system. Our use of cookies helps us to provide you with better service
 when you return to our Web site.  
 
 
-© 2000 Benjamin Moore & Co. | [Privacy Statement](https://web.archive.org/web/20010331123303id_/http%3A//www.benjaminmoore.com/privacy/privacy.html)
+© 2000 Benjamin Moore & Co. | [Privacy Statement](https://web.archive.org/web/20011217055253id_/http%3A//benjaminmoore.com/privacy/privacy.html)
