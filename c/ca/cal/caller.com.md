@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205095231id_/http%3A//www.caller.com/ccct/home/article/1%2C1641%2CCCCT_800_872022%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caller.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618183802id_/http%3A//www.caller.com/ccct/home/article/1%2C1641%2CCCCT_800_872022%2C00.html) for the most accurate reproduction.*
 
 # Corpus Christi Coastal Bend South Texas news, information, events calendar
 
