@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605143727id_/http%3A//www.fec.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fec.gov privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204041312id_/http%3A//www.fec.gov/privacy.shtml) for the most accurate reproduction.*
 
-# Privacy Statement
+# FEC Website Privacy Policy
 
-The privacy of our customers has always been very important to the Federal Election Commission. We do not require individuals to identify themselves when they come to our offices or contact us by phone. Our concern for your privacy continues in the electronic age. That view underlies our policy, stated below:
+The privacy of our customers has always been very important to the Federal Election Commission. We do not require individuals to identify themselves when they come to our offices or contact us by phone. Our concern for your privacy continues in the electronic age. That view underlies our policy, stated below: 
 
   * You do not have to give us personal information merely to visit our site. 
   * We collect detailed information about you (i.e. more than your internet address) like your name, email address, affiliation with a political committee, etc. only if you specifically and knowingly provide it to us. 
@@ -13,7 +13,7 @@ The privacy of our customers has always been very important to the Federal Elect
 
 
 
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not necessarily identify you personally. We automatically collect and store **only** the following information about your visit:
+If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not necessarily identify you personally. We automatically collect and store **only** the following information about your visit: 
 
   * The Internet domain (such as "xcompany.com" or "yourschool.edu", or "agency.com) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website; 
   * The date and time you access our site; 
@@ -32,6 +32,6 @@ If you do nothing during your visit but browse through the website, read pages, 
 
 We use this information to help us make our site more useful to visitors -- to learn about the number of visitors to our site and the types of technology our visitors use. We do not track or record information about individuals, organizations or their visits.
 
-  If you contact us by email we may forward the message to appropriate staff in order to review it and respond if necessary.  We may retain messages for a period of time to ensure responses and we may delete them when action has been completed.
+If you contact us by email we may forward the message to appropriate staff in order to review it and respond if necessary.  We may retain messages for a period of time to ensure responses and we may delete them when action has been completed.
 
-If you use an online form to receive filing software or register for a conference or for other purposes, information you provide may be retained so that information about changes, upgrades, etc. may be provided where appropriate.
+If you use an online form to receive filing software or register for a conference or for other purposes, information you provide may be retained so that information about changes, upgrades, etc. may be provided where appropriate. 
