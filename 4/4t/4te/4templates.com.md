@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601104038id_/http%3A//www.4templates.com/index.php%3F_p%3Dps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4templates.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207112601id_/http%3A//www.4templates.com/index.php%3F_p%3Dps) for the most accurate reproduction.*
 
 # 4Templates.com - web templates, flash templates, website templates, professional, business templates, high tech templates
 
-|  |  **Cookies**
+**Cookies**
 
 Cookies are small data files that websites can write to your hard drive when you visit them. Once written, the cookie can only be accessed by the site that originally created it (ie. our site cannot read cookies set by another site you have visited and vice-versa). Our site uses cookies to store personal site preferences, session information, and ordering information specific to you (such as the contents of your shopping cart). 
 
@@ -28,5 +28,3 @@ All credit card transactions are securely processed through [Authorize.net](http
 
 Copyright © 2002 Wirezero Communications [[Contact Us]](http://www.4templates.com/index.php?_p=contact&who=2)  
 All trademarks and service marks mentioned herein belong to their respective owners. 
-
-|  |  | 
