@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asia1.com.sg privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604071423id_/http%3A//www.asiaone.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asia1.com.sg privacy policy that was archived on 2002-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021120014659id_/http%3A//www.asiaone.com/html/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -31,7 +31,7 @@ Please read carefully our policy on data collection and use of the data collecte
 
 **_Can you opt out?_**
 
-Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may [unsubscribe via this link](http://persia2.asia1.com.sg/NASApp/RegAuth2/en/COUpdateAcct.jsp?lang=en) or by sending us email at [helpdesk@asia1.com.sg](mailto:helpdesk@asia1.com.sg). If you do not wish to receive any information of any kind from us at all, you may go to your "[My Account](http://persia2.asia1.com.sg/NASApp/RegAuth2/en/COUpdateAcct.jsp?lang=en)" page and check the "opt out" box or email us at [helpdesk@asia1.com.sg](mailto:helpdesk@asia1.com.sg). 
+Whenever we send you any information, we will include instructions on how to unsubscribe and a link to do so. If you do not wish to receive further information of a similar nature, you may [unsubscribe via this link](http://persia2.asia1.com.sg/NASApp/RegAuth2/en/COUpdateAcct.jsp?lang=en) or by sending us email at [helpdesk@asiaone.com.sg](mailto:helpdesk@asiaone.com.sg). If you do not wish to receive any information of any kind from us at all, you may go to your "[My Account](http://persia2.asia1.com.sg/NASApp/RegAuth2/en/COUpdateAcct.jsp?lang=en)" page and check the "opt out" box or email us at [helpdesk@asiaone.com.sg](mailto:helpdesk@asiaone.com.sg). 
 
   
 _**Will your personal information be shared with anyone?**_
