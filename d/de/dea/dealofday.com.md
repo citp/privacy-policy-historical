@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dealofday.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602194940id_/http%3A//www.worldvillage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealofday.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606185942id_/http%3A//www.dealofday.com/page/display/privacy.html) for the most accurate reproduction.*
 
-# 
+# DealofDay - Save Money, HAVE FUN!
 
 ### Privacy Policy Statement
-
-## This is the web site of InfoMedia, Inc.
 
 Our postal address is:  
 2416 Ashebury Way  
@@ -74,5 +72,3 @@ This site uses the services of Engage for the serving and/or targeting of ads, p
 **Your Acceptance of These Terms**
 
 By using this site, you signify your assent to the InfoMedia, Inc. Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the InfoMedia, Inc. sites following the posting of changes to these terms will mean you accept those changes. You can send e-mail to us with any further questions. 
-
-[Click here to return to WorldVillage](http://www.worldvillage.com/)
