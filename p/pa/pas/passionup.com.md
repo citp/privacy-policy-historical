@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the passionup.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205074218id_/http%3A//www.passionup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passionup.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604045230id_/http%3A//www.passionup.com/privacy.htm) for the most accurate reproduction.*
 
 # PassionUp.com Privacy Policy
 
-At PassionUp, we take safeguarding your privacy online seriously. PassionUp has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the PassionUp network of sites (and emails) including: www.PassionUp.com and www.MyPassionUp.com. 
+At PassionUp, we take safeguarding your privacy online seriously. PassionUp has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the PassionUp network of sites (and emails) including: PassionUp.com, MyPassionUp.com, OptInDeals and FreeGiftOffers. 
 
 How We Use Data:
 
@@ -12,23 +12,37 @@ Ways we use data:
 
 We use data to send personalized, targeted information to the user in their email messages or on our website; to send targeted advertising and promotions in our opt-in newsletters that allows us to provide our service at no cost to the users; to send opt-in email offers about products and services of interest or special deals based on the user's chosen interests; to send confirmation of profile changes; to contact users for feedback and surveys; and to send users news about PassionUp, including greeting card newsletters and updates of new or enhanced services. We never send unsolicited spam to our users.
 
+We have security measures in place to protect the loss, misuse and alteration of the information under our control. We protect your information by placing it on a secure portion of the Site and by regularly backing up data, performing consistency checks with independently recorded log files to prevent tampering, and restricting access to information on our servers via several user authentication technologies. While it is our goal to safeguard personal information, we cannot guarantee the security of any information you transmit to us, and you submit such information at your own risk and absolve us of any liability. While we do take steps to limit them, our systems, like all computers, are susceptible to "hackers" and others who illegally seek and gain access to information stored on the computers' hard drives and other memory storage devices. 
+
 I.P. Addresses/Operating System/Browser Type:
 
-When you visit PassionUp.com or click on one of our links, we may automatically record your I.P. address, operating system, and browser version. We use this information to generate usage statistics and to ensure that our site and emails are accessible to the widest possible audience. We may also use I.P. addresses to track abuse of our system.
+When you visit PassionUp.com or click on one of our links, we may automatically record your I.P. address, operating system, and browser version. We use this information to generate usage statistics and to ensure that our site and emails are accessible to the widest possible audience. We may also use I.P. addresses to track abuse of our system and for system administration, diagnostic analysis, site tracking and reporting of aggregate usage information. 
 
 Third-Party Links:
 
-This site (and our emails) contain links to other sites. PassionUp is not responsible for the privacy practices or the content of such Web sites.
+This site (and our emails) contain links to other sites. PassionUp is not responsible for the privacy practices or the content of other Web sites.
 
-Disclosure of Data
+Disclosure of Data:
 
-We will never share your information with third parties without your permission unless we are required to do so by law, to protect against misuse or unauthorized use of PassionUp, or to protect the safety or property of our members or the public. We request demographic information to tailor our subscribers' PassionUp experience. With this information we can provide our users with content we think they might be interested in. None of this information is required to participate in PassionUp programs, but we believe we will be able to provide users with a better service if demographic information is provided.
+We request demographic information:
+
+(1. ) To tailor our subscribers' PassionUp experience. With this information we can provide our users with content we think they might be interested in. We believe we will be able to provide users with a better service if demographic information is provided.
+
+(2.) We collect certain information from you in order to process your order. We require your name, address, zip code, social security number, date of birth, email address, and credit card information. We may transfer, sell, or use the information we collect from you to third parties (with the exception of credit card and social security numbers) for the purpose of targeted marketing opportunities.
+
+(3.) We will divulge your private information if required to do so by law and/or to investigate, prevent, or take action regarding illegal activities, suspected fraud and situations involving potential threats to the physical safety of any person.
+
+Furthermore, we may provide your personal information to the police or other investigating agencies to assist them in the investigation of any suspected violations of law. We also have the right to share your name and contact information with our attorneys in the event of serious violations of conduct.
+
+If served with a subpoena, search warrant, or court order, we would be compelled to provide the required information. We may or may not provide you with the existence of the subpoena, search warrant or court order, or with advance notice of our compliance.
+
+(4.) We do track certain general usage pattern information. This information is used in aggregate form (mass information to show trends and patterns) to improve the Site. Certain information is requested so that we may provide you with targeted advertising. With targeted advertising, we deliver advertising messages to the types of audience's advertisers most want to reach. We use the personal information that you provide to assist in the identification of individuals who meet these criteria. 
 
 Children 13 or Under:
 
-In general, PassionUp.com is a general interest/audience site and is not directed at children under the age of 13. It is PassionUp.com's policy to refrain from knowingly collecting personally identifying information from children 12 or under and to actively discourage children from providing such information at points of collection.
+In general, PassionUp.com is a general interest/audience site and is not directed at children under the age of 13. It is PassionUp.com's policy to refrain from knowingly collecting personally identifying information from children 13 or under and to actively discourage children from providing such information at points of collection.
 
-To the extent that PassionUp ever becomes directed at children 12 or under and knowingly collects personally identifying information from those children (such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact the child) it is PassionUp.com's policy to include parental notice and/or consent features consistent with the Children's Online Privacy Protection Act. In short, and depending on the nature and intended use of the information at issue, if we ever collect personally identifying information from children, we will provide parental notice or obtain verifiable parental consent as follows: in the case of notice, we will send an email to the parents or legal guardian of the child that informs them i) what information was collected, ii) what contact has been, and/or will be made, and iii) notify the parent that they may request deletion of such information and cessation of any contact; OR, in the case of consent, we inform parents or a legal guardian i) that we wish to collect personal information from the child, ii) that a parent's or legal guardian's verifiable consent is required for the collection, use and disclosure of the information, and iii) how the parent can provide consent.
+To the extent that PassionUp ever becomes directed at children 13 or under and knowingly collects personally identifying information from those children (such as full name, home address, email address, telephone number or any other information that would allow someone to identify or contact the child) it is PassionUp.com's policy to include parental notice and/or consent features consistent with the Children's Online Privacy Protection Act. In short, and depending on the nature and intended use of the information at issue, if we ever collect personally identifying information from children, we will provide parental notice or obtain verifiable parental consent as follows: in the case of notice, we will send an email to the parents or legal guardian of the child that informs them i) what information was collected, ii) what contact has been, and/or will be made, and iii) notify the parent that they may request deletion of such information and cessation of any contact; OR, in the case of consent, we inform parents or a legal guardian i) that we wish to collect personal information from the child, ii) that a parent's or legal guardian's verifiable consent is required for the collection, use and disclosure of the information, and iii) how the parent can provide consent.
 
 A parent or legal guardian has the option to agree to the collection and use of the child's information without consenting to the disclosure of the information to third parties. We will send a new notice and request for consent to parents and legal guardians if there are material changes in the collection, use or disclosure practices to which the parent or legal guardian had previously agreed.
 
@@ -36,7 +50,7 @@ At any time, a parent or legal guardian may revoke his/her consent or refuse to 
 
 Sharing/Co-registrations:
 
-During the registration process, subscribers may be asked if they would like to have their registration information made available to companies that wish to offer products and services that our subscribers may be interested in. By opting in to receive email offers about products and services of interest, you are granting us permission to combine your personal information with other information, such as prior purchase history and publicly available demographic data, to provide you with email and postal offers geared towards your individual tastes and preferences. We will never share your information with third parties unless you grant us permission to do so.
+During the registration process, subscribers may be asked if they would like to have their registration information made available to companies that wish to offer products and services that our subscribers may be interested in. By opting in to receive email offers about products and services of interest, you are granting us permission to combine your personal information with other information, such as prior purchase history and publicly available demographic data, to provide you with email and postal offers geared towards your individual tastes and preferences, and to offer you stand alone advertising emails and third party advertising. We will never share your information with third parties unless you grant us permission to do so.
 
 Referral Program:
 
@@ -44,7 +58,7 @@ As part of our "Send this page to a friend" program, we ask you to provide infor
 
 Links:
 
-When we provide you with links in our emails, they may include a special tracking code unique to you which allows us to determine which content and advertisements are most popular. We may share this data in aggregate form, but we will never share it in individual form.
+When we provide you with links in our emails, they may include a special tracking code unique to you which allows us to determine which content and advertisements are most popular.
 
 Cookies:
 
@@ -54,9 +68,11 @@ PassionUp.com only uses the information stored in its database (i) for the purpo
 
 PassionUp.com does not require users to enable the use of cookies on their browsers in order to access the site and participate in any of the activities offered to users. In addition, a user may, at any time, request that PassionUp.com remove any and all information about a user stored in PassionUp.com's database.
 
+We will never use cookies to retrieve information from your computer that was not originally sent in a cookie. 
+
 Unsubscribe:
 
-You may unsubscribe from our services at any time. To unsubscribe from our content publications, please email: [mail@passionup.com](mailto:mail@passionup.com)
+You may unsubscribe from our services at any time. To unsubscribe from our content publications, please email: [email@passionup.com](mailto:email@passionup.com)
 
 Notification of Changes:
 
@@ -67,4 +83,4 @@ Contacting the Web Site:
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
 Customer Service:  
-[mail@passionup.com](mailto:mail@passionup.com)
+[email@passionup.com](mailto:email@passionup.com)
