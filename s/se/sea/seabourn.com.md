@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seabourn.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205090000id_/http%3A//www.seabourn.com/index.cfm%3Fmethod%3DPrivacyPolicy%26content%3DPrivacyPolicy%26ShipLine%3Dhome%26Lang%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seabourn.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614063032id_/http%3A//www.seabourn.com/index.cfm%3Fmethod%3DPrivacyPolicy%26content%3DPrivacyPolicy%26ShipLine%3Dhome%26Lang%3Dus) for the most accurate reproduction.*
 
 # Seabourn Cruise Line
 
