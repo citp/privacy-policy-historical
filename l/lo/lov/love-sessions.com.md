@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the love-sessions.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604022111id_/http%3A//www.love-sessions.com/policy_guidelines.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the love-sessions.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206210126id_/http%3A//love-sessions.com/policy_guidelines.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,14 +11,14 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 The Information We Collect: All the information we receive from our clients will remain confidential and will not be sold or used in any other way  then by our advisors to reply to the client to with their advise.
 
-This notice applies to all information collected or submitted on Love-Sessions website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on Net-Psychics website. On some pages, you can order products/subscriptions, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 Name:  
 Email address:
 
 The Way We Use Information:
 
-The name and email address can be used to send our e-zine. This will only be done if the person gives Love-Sessions permission to do so.
+The name and email address can be used to send our e-zine. This will only be done if the person gives Net-Psychics permission to do so.
 
 Our Commitment To Data Security
 
@@ -30,7 +30,7 @@ Should you have other questions or concerns about these privacy policies, mail u
 
 **Regarding refunds on E-sessions.**
 
-Love-Sessions guarantees a refund in the following circumstances only:
+Net-Psychics guarantees a refund in the following circumstances only:
 
   * If we did not respond within 24 hrs to you after that you submitted us the client form.*
 
