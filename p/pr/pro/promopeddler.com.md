@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209135333id_/http%3A//www.promopeddler.com/Promotional_Products/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promopeddler.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610042842id_/http%3A//www.promopeddler.com/Advertising/Privacy.htm) for the most accurate reproduction.*
 
-# Promopeddler and your Privacy
+# TITLE HERE
 
 |  |   
   
@@ -31,5 +31,15 @@
 >>   
 >  Monte Baumgartner  
 > President and Co-founder  
+  
+|   
+---  
+  
+[](http://www.promopeddler.com/) [](http://www.promopeddler.com/Cart.php?r=cart)
+
+|  Search by  
+Product Number  
+-  
+---  
   
 Copyright © 2003 Promopeddler.com Promotional Products All Rights Reserved.
