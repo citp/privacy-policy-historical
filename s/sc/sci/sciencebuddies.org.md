@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencebuddies.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603083234id_/http%3A//www.sciencebuddies.org/mentoring/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencebuddies.org privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209205723id_/http%3A//www.sciencebuddies.org/mentoring/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Science Buddies: Privacy Policy
 
