@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602190617id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206053737id_/http%3A//corporate.kalmbach.com/privacy.asp) for the most accurate reproduction.*
 
 # KALMBACH PUBLISHING CO. - Information Practices
 
@@ -26,7 +26,7 @@ This explanation of our privacy policy answers the following questions:
 
 **Gathering Information**
 
-Kalmbach Publishing Co. is the publisher of the following magazines and web sites: Astronomy, Bead & Button, Birder's World, Classic Toy Trains, Classic Trains, Dollhouse Miniatures, FineScale Modeler, Garden Railways, Kalmbach and Greenberg Books, Model Railroader, Model Retailer, Scale Auto, TRAINS, The Writer, and Plays. Kalmbach Publishing Co. is also the host for [www.hobbyretailer.com](http://www.hobbyretailer.com/) and "The Model Train Magazine Index" at [http://index.mrmag.com](http://index.mrmag.com/).
+Kalmbach Publishing Co. is the publisher of the following magazines and web sites: Astronomy, Bead & Button, Birder's World, Classic Toy Trains, Classic Trains, Dollhouse Miniatures, FineScale Modeler, Garden Railways, Kalmbach and Greenberg Books, Model Railroader, Model Retailer, Scale Auto, TRAINS, and The Writer, Kalmbach Publishing Co. is also the host for [www.hobbyretailer.com](http://www.hobbyretailer.com/) and "The Model Train Magazine Index" at [http://index.mrmag.com](http://index.mrmag.com/).
 
 Personally identifiable information is collected by Kalmbach when you decide to place an order (personally or as gifts for others), enter a contest, participate in a survey, or make a general inquiry. The information collected when you order from us or enter a contest includes some or all of the following: name, address, phone / fax number, e-mail address and credit card information. With regard to surveys in which you elect to participate, we may request demographic information (age, family income level, etc.) along with basic information regarding your reading and/or hobby interests and how Kalmbach may better serve those needs. After all, that's the business we're in! Finally, name, address and other contact information may be collected so that we can respond to any customer service issue, request for information or other general inquiry, along with (of course) information about the nature of your inquiry.
 
