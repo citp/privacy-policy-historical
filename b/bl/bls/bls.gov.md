@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2000-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000109105436id_/http%3A//www.bls.gov/blspss.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815062134id_/http%3A//www.bls.gov/blspss.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
-[[Accessibility Information]](https://web.archive.org/web/20000109105436id_/http%3A//www.bls.gov/bls_ADA.htm)  
+[[Accessibility Information]](https://web.archive.org/bls_ADA.htm)  
 
 
 * * *
@@ -35,11 +35,11 @@ Unauthorized attempts to upload information or change information on this servic
 
 * * *
 
-#### [BLS Home Page](https://web.archive.org/web/20000109105436id_/http%3A//www.bls.gov/blshome.htm)
+#### [BLS Home Page](https://web.archive.org/blshome.htm)
 
 * * *
 
 Bureau of Labor Statistics  
 [blsdata_staff@bls.gov](mailto:blsdata_staff@bls.gov)  
 Last modified: August 25, 1999  
-Page URL: https://web.archive.org/web/20000109105436id_/http%3A//www.bls.gov/blspss.htm 
+Page URL: https://web.archive.org/web/20000815062134id_/http%3A//www.bls.gov/blspss.htm 
