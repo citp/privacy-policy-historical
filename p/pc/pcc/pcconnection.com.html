@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pcconnection.com privacy policy that was archived on 2000-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000617004935id_/http%3A//pcconnection.com/scripts/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pcconnection.com privacy policy that was archived on 2000-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001203001600id_/http%3A//www.pcconnection.com/scripts/about/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>PC Connection : Privacy Policy</title>
@@ -10,14 +10,61 @@
 <!-- START HEADER BRAND -->
 
 <body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#990099" marginwidth="5" marginheight="5" leftmargin="5" topmargin="5">
+<script language="Javascript">                                                                                                                                                                                                                                                                                                                 
+//<!-- Hide It
+function ValidBrowser() {
+  var ver = ""
+  BrName = navigator.appName;
+  BrVer = parseInt(navigator.appVersion);
+//  if (BrName == "Netscape" && BrVer == 2) ver = "n2";
+//  else if (BrName == "Netscape" && BrVer == 3) ver = "n3";
+//  else if (BrName == "Netscape" && BrVer >= 4) ver = "n4";
+  if (BrName == "Netscape" && BrVer >= 4) ver = "n4";
+  else if (BrName == "Microsoft Internet Explorer" && BrVer >= 4) ver = "ie4";
+  else BrName = "UnSupported";
+  return BrName;
+}
+
+function BrowserVer() {
+  var ver = ""
+  BrName = navigator.appName;
+  BrVer = parseInt(navigator.appVersion);
+  if (BrName == "Netscape" && BrVer == 2) ver = "n2";
+  else if (BrName == "Netscape" && BrVer == 3) ver = "n3";
+  else if (BrName == "Netscape" && BrVer >= 4) ver = "n4";
+  else if (BrName == "Microsoft Internet Explorer" && BrVer >= 4) ver = "ie4";
+  else ver = "other";
+  return ver;
+}
+
+if (ValidBrowser()=="UnSupported") {
+    document.write('<TABLE WIDTH=610 CELLPADDING=0 CELLSPACING=0 BORDER=0>');
+    document.write('<TR>');
+    document.write('<TD VALIGN=\"TOP\" BGCOLOR=\"#FFFF99\">');
+    document.write('<FONT SIZE=2 FACE=\"Arial, Helvetica\" COLOR=\"#000099\"><B>Caution:</B>&nbsp;<FONT SIZE=1 COLOR="#000000">Some of the features on our Online Superstore require Javascript. We recommend that you either enable<BR> Javascript in your browser, or download and install the latest version of either <A HREF=\"http://home.netscape.com/computing/download/index.html\">Netscape</A> or <A HREF=\"http://www.microsoft.com/windows/IE/\">Internet Explorer</A>.<BR>');
+    document.write('</TD>');
+    document.write('</TR>');
+    document.write('</TABLE>');
+}
+// -->
+</script>
+<noscript>
+<TABLE WIDTH=610 CELLPADDING=0 CELLSPACING=0 BORDER=0>
+<TR>
+<TD VALIGN="TOP" BGCOLOR="#FFFF99">
+<FONT SIZE=2 FACE="Arial, Helvetica" COLOR="#000099"><B>Caution:</B>&nbsp;<FONT SIZE=1 COLOR="#000000">Some of the features on our Online Superstore require Javascript. We recommend that you either enable<BR>Javascript in your browser, or download and install the latest version of either <A HREF="http://home.netscape.com/computing/download/index.html">Netscape</A> or <A HREF="http://www.microsoft.com/windows/IE/">Internet Explorer</A>.<BR>
+</TD>
+</TR>
+</TABLE>
+</noscript>
 
 
 <!--
 Server: www.pcconnection.com<BR>
-RemoteIP: 206.132.186.131<BR>
-SessionID: 251544087<BR>
+RemoteIP: 209.247.40.220<BR>
+SessionID: 994798592<BR>
 ReadMachineName: True<BR>
-MachineName: WEB3<BR>
+MachineName: WEB1<BR>
 -->
 
 
@@ -86,34 +133,8 @@ MachineName: WEB3<BR>
 <tr><td bgcolor="#FFCC00"><img src="/images/spacers/spacer.gif" border="0" alt="" width="1" height="5"></td></tr>
 <tr><td bgcolor="#FFCC00" align="CENTER">
 <script language="JavaScript">
-                                                                                                                                                                                                                                                                                                                 
-//<!-- Hide It
-function ValidBrowser() {
-  var ver = ""
-  BrName = navigator.appName;
-  BrVer = parseInt(navigator.appVersion);
-//  if (BrName == "Netscape" && BrVer == 2) ver = "n2";
-//  else if (BrName == "Netscape" && BrVer == 3) ver = "n3";
-//  else if (BrName == "Netscape" && BrVer >= 4) ver = "n4";
-  if (BrName == "Netscape" && BrVer >= 4) ver = "n4";
-  else if (BrName == "Microsoft Internet Explorer" && BrVer >= 4) ver = "ie4";
-  else BrName = "UnSupported";
-  return BrName;
-}
-
-function BrowserVer() {
-  var ver = ""
-  BrName = navigator.appName;
-  BrVer = parseInt(navigator.appVersion);
-  if (BrName == "Netscape" && BrVer == 2) ver = "n2";
-  else if (BrName == "Netscape" && BrVer == 3) ver = "n3";
-  else if (BrName == "Netscape" && BrVer >= 4) ver = "n4";
-  else if (BrName == "Microsoft Internet Explorer" && BrVer >= 4) ver = "ie4";
-  else ver = "other";
-  return ver;
-}
-
-function MoveCamera() {
+                                                                                                                                                                                                                                                                                     //<!-- hide it
+                                                                                                                                                                                                                                  function MoveCamera() {
   if(ValidBrowser()=="UnSupported")
     window.location.href='/scripts/validator.asp?ver=' + BrowserVer();
   else
@@ -194,6 +215,16 @@ document.write('<A HREF="JavaScript:MoveSystem();"><IMG SRC="/images/nav/systems
 
 <tr><td bgcolor="#6633FF"><font size="2" face="Arial,Helvetica" color="#FFFF33"><b>&nbsp;Browse Products</b><br></font></td></tr>
 
+<tr><td bgcolor="#FFFF99">
+
+<img src="/images/seasonal/hollystring2.gif" width="120" height="6" border="0"><br>
+
+&nbsp;&nbsp;&nbsp;<font size="2" face="Arial,Helvetica"><a href="/scripts/about/holiday_helps.asp"><b>Great Gift Ideas</b></a></font><br>
+
+<img src="/images/seasonal/hollystring2.gif" width="120" height="6" border="0"><br>
+
+</td></tr>
+
 <tr><td bgcolor="#FFCC00"><font size="2" face="Arial,Helvetica" color="#FF0000"><b>&nbsp;Systems</b><br></font></td></tr>
 <tr><td bgcolor="#FFFF99">
 <font size="1" face="Arial,Helvetica">
@@ -212,6 +243,7 @@ document.write('<A HREF="JavaScript:MoveSystem();"><IMG SRC="/images/nav/systems
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.pcconnection.com/scripts/browseproducts.asp?category=Hardware&amp;browse=Drives+and+Storage">Drives &amp; Storage</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.pcconnection.com/scripts/browseproducts.asp?category=Hardware&amp;browse=Memory">Memory</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.pcconnection.com/scripts/browseproducts.asp?category=Hardware&amp;browse=Modems">Modems</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.pcconnection.com/scripts/browseproducts.asp?category=Hardware&amp;browse=Power+Management">Power Management</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.pcconnection.com/scripts/browseproducts.asp?category=Hardware&amp;browse=Printers+and+Scanners">Printers &amp; Scanners</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.pcconnection.com/scripts/browseproducts.asp?category=Hardware&amp;browse=Video+and+Sound">Video &amp; Sound</a><br>
 </font>
@@ -274,7 +306,7 @@ PC Connection is committed to protecting your right to privacy. In keeping with 
 we are providing you with details about the information we collect while doing business.
 </font></p><p><font size="2" face="Arial,Helvetica">
 <b>When you visit our site</b><br>
-When you connect to our Web site, PC Connection's web servers use non-persistent cookies to collect 
+When you connect to our Web site, PC Connection's Web servers use non-persistent cookies to collect 
 your IP address. Non-persistent cookies do not reveal your identity, they simply enable us to maintain 
 custom settings and items in your shopping cart while you browse. The non-persistent cookie is 
 temporarily stored to memory and is automatically discarded when you end your browser session.
@@ -296,10 +328,18 @@ to you. To remove your name from our mailing list, please e-mail us at
 at 1-888-213-0260.
 
 </font></p><p><font size="2" face="Arial,Helvetica">
-<b>When you choose to receive email from us</b><br>
-From time to time you may receive emailed information about our products, promotions, and services.  
-To remove your name from our email list, send an email to <a href="mailto:emaillist@pcconnection.com">emaillist@pcconnection.com</a>.  
-For your convenience, we will include instructions to unsubscribe at the bottom of every promotional email we send.
+<b>When you choose to receive e-mail from us</b><br>
+From time to time you may receive e-mailed information about our products, promotions, and services. 
+In addition to receiving e-mail from us, you may occasionally receive special mailings from us and/or 
+from reputable companies whose products may be of interest to you.  To remove your name from our e-mail list, 
+send an e-mail to <a href="mailto:emaillist@pcconnection.com">emaillist@pcconnection.com</a>.  
+For your convenience, we will include instructions to unsubscribe at the bottom of every promotional e-mail we send.
+
+</font></p><p><font size="2" face="Arial,Helvetica">
+<b>When you click on a link in our e-mail communications:</b><br>
+In order to create a better electronic community, we may collect specific user profile information, such as referring Web URL.
+This information is used to identify broad demographic trends that may allow us to provide you with information
+tailored to your interests.  You will not be personally identified from this information.
 
 </font></p><p><font size="2" face="Arial,Helvetica">
 <b>When you request a login name</b><br>
@@ -316,7 +356,7 @@ buyers. This information allows us to quickly process orders and provide efficie
 </font></p><p><font size="2" face="Arial,Helvetica">
 <b>When you enter a contest or complete a survey</b><br>
 Contests and surveys provide us with an opportunity to improve our product offerings, and enhance our 
-web site and services. While we do not release specific information about survey participants, we may 
+Web site and services. While we do not release specific information about survey participants, we may 
 provide interested third parties with aggregate data (such as user demographics) and may occasionally 
 e-mail our participants about special offers and site updates. If you prefer not to receive e-mail from 
 us, send your request via e-mail to <a href="mailto:mailinglist@pcconnection.com">mailinglist@pcconnection.com</a>.
@@ -377,11 +417,14 @@ requests or other documents to PC Connection without the prior consent of their 
 <tbody><tr>
 <td align="LEFT" width="90"><a href="http://www.bbbonline.org/r2.cfm?id=51000326" target="_blank"><img src="/images/bbbonline.gif" width="90" height="31" alt="BBBOnline Reliability Seal" border="0"></a><br clear="ALL"></td>
 <td align="CENTER" width="290"><img src="/images/spacers/spacer.gif" width="290" height="1" alt="" border="0"><br clear="ALL">
-<font size="1" face="Arial,Helvetica">
-© 2000 PC Connection, Inc. All rights reserved.<br>
-<a href="http://www.pcconnection.com/scripts/about/privacy.asp" target="_top">Privacy Policy</a><br>
-<a href="http://www.pcconnection.com/scripts/about/caveat.asp#y2k" target="_top">Year 2000 Disclaimer</a><br>
-<a href="http://www.pcconnection.com/scripts/about/caveat.asp" target="_top">Terms, Conditions &amp; Trademarks</a><br></font></td>
+<font size="1" face="Verdana,Arial,Helvetica">
+<a href="http://www.pcconnection.com/scripts/about/caveat.asp" target="_top"><b>Legal Terms of Sale<br>
+Conditions &amp; Trademarks</b></a><br>
+<a href="http://www.pcconnection.com/scripts/about/privacy.asp" target="_top"><b>Privacy Policy</b></a><br>
+<a href="http://www.pcconnection.com/scripts/about/caveat.asp#y2k" target="_top"><b>Year 2000 Disclaimer</b></a><br>
+<b>© 2000 PC Connection, Inc. All rights reserved.</b><br>
+</font>
+</td>
 <td align="RIGHT" width="100"><a href="http://www.pcconnection.com/scripts/content/awards/awards.asp" target="_top"><img src="/images/awardlink.gif" alt="Awards and Recognition" width="100" height="40" border="0"></a><br clear="ALL"></td></tr>
 </tbody></table>
 </center>
@@ -395,9 +438,8 @@ requests or other documents to PC Connection without the prior consent of their 
 <img src="/images/spacers/spacer.gif" width="5" height="120" border="0"><br clear="ALL">
 
 
-<!-- $Revision: 13 $ -->
-<!-- $Date: 6/06/00 9:26a $ -->
+<!-- $Revision: 14 $ -->
+<!-- $Date: 7/26/00 9:47a $ -->
 <!-- $NoKeywords: $ --> 
-
 
 </body></html>
