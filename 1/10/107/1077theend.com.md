@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1077theend.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410133614id_/http%3A//www.1077theend.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1077theend.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202163129id_/http%3A//www.1077theend.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # 1077 The End
 
