@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fgb.ae privacy policy that was archived on 2004-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040211172026id_/http%3A//www.fgb.ae/aboutus/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fgb.ae privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217082034id_/http%3A//www.fgb.ae/aboutus/privacy.asp) for the most accurate reproduction.*
 
 # :: First Gulf Bank ::
 
