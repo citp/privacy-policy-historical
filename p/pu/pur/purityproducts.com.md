@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purityproducts.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607232546id_/http%3A//www.purityproducts.com/privacy.asp%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purityproducts.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206040057id_/http%3A//www.purityproducts.com/privacy.asp%3F) for the most accurate reproduction.*
 
 # Purity Products: for discount multi vitamins, dietary health supplements and health products
 
