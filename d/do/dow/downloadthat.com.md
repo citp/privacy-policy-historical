@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the downloadthat.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802234454id_/http%3A//www.techwatch.info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadthat.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202155932id_/http%3A//www.teplanet.com/privacy) for the most accurate reproduction.*
 
-# The TechWatch Network: Privacy Statement
+# tePlanet: Privacy Statement
 
 **
 
-__ Privacy Statement of TSN Internet Services, Inc. 
+Privacy Statement of tePlanet
 
 **
 
@@ -14,18 +14,16 @@ __ Privacy Statement of TSN Internet Services, Inc.
 
 **
 
-Modern information and communication technologies play a fundamental role in the activities of an organisation like TSN Internet Services, Inc. . We are based in US .  Our principal activity is:  Internet Based Services  Our privacy policy covers TSN Internet Services, Inc. and its Web sites: 
+Modern information and communication technologies play a fundamental role in the activities of an organisation like tePlanet . We are based in US .  Our principal activity is:  Internet Based Services  Our privacy policy covers tePlanet and its Web sites: 
 
-** Organisation Name:  |  TSN Internet Services, Inc.   
+** Organisation Name:  |  tePlanet   
 ---|---  
 Address:  |  P.O. Box 1475   
 City, Zip:  |  Green Bay  ,  54305   
 State:  |  WI   
 Country:  |  US   
-Controller:  |  TSN Internet Services, Inc.   
-Web Sites(s):  |  http://www.techwatch.info   
-|  http://www.accessdepot.com   
-|  http://www.thedomainsystem.com   
+Controller:  |  tePlanet   
+Web Sites(s):  |  http://www.teplanet.com   
 **
 
 **
@@ -78,7 +76,7 @@ We do not collect or use personal data for any purpose other than that indicated
 If we wish to use your personal data for new purposes, we offer you the means to consent to those new purposes: 
 
   * by indicating in a box at the point on the site where personal data is collected 
-  * by sending an email ( support@techwatch.info ) 
+  * by sending an email ( support@teplanet.com ) 
 
 
 
@@ -109,13 +107,13 @@ We disclose our visitors' personal data to our subsidiaries or other organisatio
 Where we disclose your personal data for the same purposes as those indicated in the table below, we provide you with the means to  opt-out of disclosure: 
 
   * by indicating in a box at the point on the site where personal data is collected 
-  * by sending an email ( support@techwatch.info ) 
+  * by sending an email ( support@teplanet.com ) 
 
 
 
 Where we disclose your personal data for purposes which are different from those indicated in the table mentioned above, we offer you the opportunity to consent to disclosure: 
 
-  * by sending an email ( support@techwatch.info ) 
+  * by sending an email ( support@teplanet.com ) 
 
 
 
@@ -152,7 +150,7 @@ Access to the personal data we may hold about you
 
 You can ask us, by: 
 
-  * sending an email ( support@techwatch.info ) 
+  * sending an email ( support@teplanet.com ) 
 
 
 
@@ -160,7 +158,7 @@ whether we are keeping personal data about you.
 
 Upon request, which you can indicate by: 
 
-  * sending an email ( support@techwatch.info ) 
+  * sending an email ( support@teplanet.com ) 
 
 
 
@@ -198,7 +196,7 @@ In order to demonstrate that our privacy policy accords with the above privacy  
 
 Name or designation of the privacy policy person or service  |  Customer Support   
 ---|---  
-URL  |  http://www.techwatch.info   
+URL  |  http://www.teplanet.com   
 Address  |  P.O. Box 1475 Green Bay, WI 54305   
 Country  |  US   
   
