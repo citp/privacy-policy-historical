@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205084117id_/http%3A//brinkster.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brinkster.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206063712id_/http%3A//www.brinkster.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # Brinkster :: web hosting to the extreme
 
