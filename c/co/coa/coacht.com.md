@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2001-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010514185134id_/http%3A//www.coacht.com/story.cfm%3Fdoc%3D36) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coacht.com privacy policy that was archived on 2001-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011101051918id_/http%3A//www.coacht.com/story.cfm%3Fdoc%3D36) for the most accurate reproduction.*
 
 # CoachT.com - Privacy Statement for coacht.com
 
@@ -38,7 +38,7 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. email [coacht@coacht.com](mailto:coacht@coacht.com)
-  2. online form [Edit User Info](https://web.archive.org/web/20010514185134id_/http%3A//www.coacht.com/boards/join.cfm)
+  2. online form [Edit User Info](https://web.archive.org/web/20011101051918id_/http%3A//www.coacht.com/boards/join.cfm)
 
 
 
