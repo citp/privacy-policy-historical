@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jambase.com privacy policy that was archived on 2003-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030821054359id_/http%3A//www.jambase.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambase.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217085702id_/http%3A//www.jambase.com/privacy) for the most accurate reproduction.*
 
-# JamBase | Privacy Policy
-
-  Privacy Policy  
+# JamBase | PRIVACY POLICY
 
 **Privacy Policy**  
 JamBase is deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
@@ -25,9 +23,3 @@ Notwithstanding anything else stated in this Privacy Policy, JamBase reserves th
 If you have any questions or comments about our use of personal information, please contact us at [info@jambase.com](mailto:info@jambase.com). We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of personal information. 
 
 The short story: JamBase exists to help you **_Go See Live Music!_** , not to snoop into your private life. 
-
-* * *
-
-**[Content Corrections](http://www.jambase.com/fix) | [Report Technical Bugs](http://www.jambase.com/bugs) | [Advertising & Promotions](http://www.jambase.com/services) | [Privacy Policy](http://www.jambase.com/privacy)**
-
- **© 2001-2003[JamBase, Inc.](http://www.jambase.com/) **
