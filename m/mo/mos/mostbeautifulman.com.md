@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mostbeautifulman.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204100736id_/http%3A//www.mostbeautifulman.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mostbeautifulman.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628100425id_/http%3A//mostbeautifulman.com/privacy.shtml) for the most accurate reproduction.*
 
 # Most Beautiful Man -- MostBeautifulMan.com -- Privacy Policy
 
