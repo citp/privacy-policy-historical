@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621123113id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsn.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001130438id_/http%3A//www.hsn.com/cs/privacy_policy/default.aspx) for the most accurate reproduction.*
 
 # HSN.com - Customer Service
 
-|  | |  | [](https://web.archive.org/web/20030621123113id_/http%3A//www.hsn.com/cs/privacy_policy/up)  
+|  | |  | [](https://web.archive.org/web/20031001130438id_/http%3A//www.hsn.com/cs/privacy_policy/up)  
 ---  
 ****  
   
@@ -12,7 +12,7 @@ We are determined to maintain a useful and interesting online environment for ou
 
 Please read on for more details about our privacy policy.
 
-**[CONTENTS:](https://web.archive.org/web/20030621123113id_/http%3A//www.hsn.com/cs/privacy_policy/contents)**  
+**[CONTENTS:](https://web.archive.org/web/20031001130438id_/http%3A//www.hsn.com/cs/privacy_policy/contents)**  
   
 1.  What information do we collect online? How do we use it?  
 2.  Do we share our information with others?  
@@ -87,13 +87,13 @@ _[hsn.com](https://web.archive.org/default.aspx)_
 
 perform many of their business operations using the resources of other HSN companies. Consequently, we regularly share your personally identifiable information with these affiliated companies to perform activities necessary to process and fulfill your orders, customer service requests, returns and the like. However, these intermediaries are not authorized to use your information for other purposes.
 
-If you are both an [hsn.com](https://web.archive.org/default.aspx) customer and an HSN television customer, we share your personally identifiable information to avoid sending you duplicate promotional materials. In addition, we share your personally identifiable information with our parent company, USA Networks, Inc., and our affiliate that operates HSN television in order to prevent fraud and for corporate record keeping purposes.
+If you are both an [hsn.com](https://web.archive.org/default.aspx) customer and an HSN television customer, we share your personally identifiable information to avoid sending you duplicate promotional materials. In addition, we share your personally identifiable information with our parent company, InterActiveCorp, and our affiliate that operates HSN television in order to prevent fraud and for corporate record keeping purposes.
 
 HSNi and [hsn.com](https://web.archive.org/default.aspx) also sometimes contract with unaffiliated third parties to provide services, such as software for site features, customer communications, analyzing and evaluating the information we collect, and other services. When we do this, we provide your personally identifiable information to third parties only to provide those services, and they are not authorized to use your personally identifiable information for any other purpose.
 
 At your request, we provide your Gift Registry url to people you ask us to send a one-time email to. Items you store in your Gift Registry are visible to those who receive this email.
 
-HSNi is a subsidiary of USA Networks, Inc. (“USAi”), whose other affiliates and businesses include USA Network, Sci-Fi Channel, Ticketmaster, CitySearch, Hotel Reservations Network, Styleclick, Match.com, and others. (You can get more information about USAi and its affiliates at [ www.usaicorp.com](http://www.usaicorp.com/).) HSNi and [hsn.com](https://web.archive.org/default.aspx) share your personally identifiable information and aggregate statistics about our customers, sales, traffic patterns and other data with other HSN companies, and with other affiliates and businesses of USAi for marketing and promotional purposes.
+HSNi is a subsidiary of InterActiveCorp (“IAC”), whose other affiliates and businesses include Ticketmaster, CitySearch, Hotel Reservations Network, Match.com, and others. (You can get more information about IAC and its affiliates at [ www.iac.com](http://www.iac.com/).) HSNi and [hsn.com](https://web.archive.org/default.aspx) share your personally identifiable information and aggregate statistics about our customers, sales, traffic patterns and other data with other HSN companies, and with other affiliates and businesses of IAC for marketing and promotional purposes.
 
 Personally identifiable information you provide to us that becomes part of your HSN employment file (if you become an HSN employee) or vendor file (if you become an HSN vendor) may be shared with others only in accordance with our policies relating to confidentiality of our employment and vendor files generally. Personally identifiable information you provide to us when you submit a request for cable service is shared with your local cable service provider.
 
@@ -123,11 +123,11 @@ If you prefer not to receive promotional emails regarding upcoming events, new p
 
 Return to Top | Return to Contents  
   
-**5) How can access and correct your information?**
+**5) How can you verify and correct personal information?**
 
 You can check your personal information in your customer profile by navigating to [Update Profile](https://web.archive.org/cust/profile/default.aspx) on our site. If any of this information is incorrect, you can make appropriate changes. However, you cannot delete your customer account information entirely. If you have any question about the accuracy of your personal information, you can contact us online, or by e-mail, telephone or mail. (See  8\. How can you contact us with questions or comments?, below.) 
 
-You can access your order history by navigating to [ Web Order History](https://www.hsn.com/cs/quicktrack/default.aspx), use the [ QuickTrack](https://www.hsn.com/cs/quicktrack/default.aspx) system, or by calling our Customer Service department at 1-800-933-2887.
+You can access your order by clicking on [ Order Status](https://www.hsn.com/cs/quicktrack/default.aspx) or by calling our Customer Service department at 1-800-933-2887.
 
 You cannot access other information that we collect, but this is limited to information that you have provided (such as chat room messages), and information that is not personally identifiable.
 
@@ -167,6 +167,6 @@ By E-mail: [Click here](https://web.archive.org/cs/email_us/default.aspx)
 
 By Phone: Call 1-800-933-2887, 8 AM - 1 AM Eastern Time. 
 
-By Mail:  hsn.com, 1 HSN Drive, St. Petersburg, FL 33729 
+By Mail:  HSN Interactive LLC, Attn: Customer Service, 1 HSN Drive, St. Petersburg, FL 33729 
 
 Return to Top | Return to contents
