@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vch.ca privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207001142id_/http%3A//www.vch.ca/footer/terms_of_use.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vch.ca privacy policy that was archived on 2005-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050110090925id_/http%3A//www.vch.ca/footer/terms_of_use.htm) for the most accurate reproduction.*
 
 # Vancouver Coastal Health - Terms Of Use
 
