@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the data.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202030600id_/http%3A//www.commweb.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603182635id_/http%3A//www.commweb.com/static/privacy.html) for the most accurate reproduction.*
 
 # Commweb
 
