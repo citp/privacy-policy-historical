@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.md.us privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607183312id_/http%3A//www.state.md.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.md.us privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207063943id_/http%3A//www.state.md.us/privacy.html) for the most accurate reproduction.*
 
 # Maryland Electronic Capital - Legislative Branch
 
