@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstusa.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604144106id_/http%3A//firstusa.com/globals/privacy_index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstusa.com privacy policy that was archived on 2001-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011021053350id_/http%3A//www.firstusa.com/globals/privacy_index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,12 +10,13 @@
 | [online practices](https://web.archive.org/globals/online_practices.html)  
 | [questions about privacy](https://web.archive.org/globals/questions_about_privacy.html)  
 | [security information](https://web.archive.org/globals/security_information.html)  
+| [terms of use](https://web.archive.org/globals/terms.html)  
 |  |  |   
 privacy  policy  
 ---  
    
 | Consumer Information Values and Privacy Policy  
-|  Our Consumer Information Values and Privacy Policy is provided to help you understand how we protect your financial privacy, just as we protect your financial assets.  This policy provides you with an opportunity to make informed choices about the management of personal information.  Also, there are several convenient ways to obtain more information, including answers to commonly asked questions about privacy.  You may call us toll-free at 1-888-868-8618 or visit one of Bank One’s three major websites: [www.bankone.com](http://www.bankone.com/), [www.FirstUSA.com](http://www.firstusa.com/), and [www.WingspanBank.com](http://www.wingspanbank.com/). This Policy is provided to you jointly by the Bank One companies listed at the end of this Policy.  The Bank One family includes many companies and banks; some are identified with the Bank One name, and some are not—for example: Bank One, Kentucky, NA, Banc One Financial Services, Midwest Mortgage Services, WingspanBank.com, and First USA Bank, NA.ValuesFour key values form the foundation of our Privacy Policy:  
+|  Our Consumer Information Values and Privacy Policy is provided to help you understand how we protect your financial privacy, just as we protect your financial assets.  This policy provides you with an opportunity to make informed choices about the management of personal information.  Also, there are several convenient ways to obtain more information, including answers to commonly asked questions about privacy.  You may call us toll-free at 1-800-869-9638 or visit one of Bank One’s three major websites: [www.bankone.com](http://www.bankone.com/), [www.FirstUSA.com](http://www.firstusa.com/), and [www.WingspanBank.com](http://www.wingspanbank.com/). This Policy is provided to you jointly by the Bank One companies listed at the end of this Policy.  The Bank One family includes many companies and banks; some are identified with the Bank One name, and some are not—for example: Bank One, Kentucky, NA, Banc One Financial Services, Midwest Mortgage Services, WingspanBank.com, and First USA Bank, NA.ValuesFour key values form the foundation of our Privacy Policy:  
 |  **Information security is a priority.**
 
 One of our highest priorities is [information security](https://web.archive.org/globals/security_information.html).  We regularly review our security standards and practices to protect against unauthorized disclosure of information.
@@ -57,7 +58,7 @@ The types of companies within the Bank One family that may receive non- experien
   * broker-dealers; and
   * insurance agents.
 
-**If you prefer that we not share non-experience information about you within the Bank One family of companies, you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-888-868-8618.**
+**If you prefer that we not share non-experience information about you within the Bank One family of companies, you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-800-869-9638.**
 
 If you choose to opt out of the sharing of this information within the Bank One family, we will not share non-experience information about you for any accounts or loans that you may have with us.  For any accounts or loans that you hold jointly with another person, each person may separately opt out and joint account holders may opt out for each other.  If only one joint account holder opts out, we may share information about the other joint account holders.  Choosing to opt out of this information sharing may limit opportunities for you to receive product and service information that may interest you.
 
@@ -69,7 +70,7 @@ We may share any of the personal information that we collect about you with comp
   * non-financial companies, such as retailers, direct marketers, membership clubs and publishers; and
   * other companies and organizations, such as non-profit organizations.
 
-**If you prefer that we not share personal information about you with companies and organizations outside the Bank One family (except information described below under “Other Information Sharing”), you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-888-868-8618.**
+**If you prefer that we not share personal information about you with companies and organizations outside the Bank One family (except information described below under “Other Information Sharing”), you may opt out, that is, you may direct us not to share this information, by calling us toll-free at 1-800-869-9638.**
 
 If you choose to opt out of the sharing of personal information with companies and organizations outside the Bank One family, we will not share any personal information about you for any accounts or loans that you may have with us.  For any accounts or loans that you hold jointly with another person, each person may separately opt out and joint account holders may opt out for each other.  If only one joint account holder opts out, we may share information about the other joint account holders.  Choosing to opt out of this information sharing may limit opportunities for you to receive product and service information that may interest you.
 
