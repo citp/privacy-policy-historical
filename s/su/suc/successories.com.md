@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the successories.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602135624id_/http%3A//www.successories.com/customer/cs_privacysecurity.asp%3Fnav_id_store%3D1%26nav_id_top%3D9%26nav_id_left%3D%26group_id%3D%26theme_id%3D%26nav_id_browse%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successories.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210105741id_/http%3A//www.successories.com/customer/cs_privacysecurity.asp%3Fnav_id_store%3D1%26nav_id_top%3D9%26nav_id_left%3D%26group_id%3D%26theme_id%3D%26nav_id_browse%3D) for the most accurate reproduction.*
 
 # Successories: Privacy & Security
 
