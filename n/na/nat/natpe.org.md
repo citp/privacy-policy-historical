@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203093343id_/http%3A//www.natpe.org/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natpe.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603021435id_/http%3A//www.natpe.org/privacy/index.shtml) for the most accurate reproduction.*
 
 # NATPE: Security and Privacy Statement
 
