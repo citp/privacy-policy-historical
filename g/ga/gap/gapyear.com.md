@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2001-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010610200821id_/http%3A//www.gapyear.com/community/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604034651id_/http%3A//www.gapyear.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # gapyear.com
+
+ home | about us | **privacy policy**
+
+  
+**Privacy Policy**
 
 We want to safeguard the privacy of visitors to our website. Please read the following, it will help you to understand how we use personal data that we collect about you. 
 
@@ -20,7 +25,7 @@ We may also use your personal data to complete statistics about our users and th
 
 **Cookies**
 
-The Gap Year Company only uses ONE cookie on its website and that is to allow your computer to remember the name and colour you choose to log on to our chat room. You are given the option to activate the cookie when entering the chat site, it is not compulsory. 
+The gapyear Company only uses ONE cookie on its website and that is to allow your computer to remember the name and colour you choose to log on to our chat room. You are given the option to activate the cookie when entering the chat site, it is not compulsory. 
 
 A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie can't read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. You can choose whether to accept cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept our cookies, your experience at our site may be diminished and some features may not work as intended. 
 
@@ -32,7 +37,7 @@ You shouldn't give your password to anyone else, and you should close your brows
 
 **Disclosures**
 
-Whenever we collect personal data we may share it with other companies in the same group as The Gap Year Company Ltd. 
+Whenever we collect personal data we may share it with other companies in the same group as The gapyear Company Ltd. 
 
 If you link from our site to another site, remember we have no control over or responsibility for any personal data collected by those sites. 
 
@@ -42,4 +47,4 @@ We may disclose statistics about visitors to our site to our business partners o
 
 **Contact**
 
-If you want to know what data we hold about you, or have access to that data, or to amend it, please contact Caroline Wilson by either sending an email to [cwilson@gapyear.com](mailto:cwilson@gapyear.com?subject=Privacy%20Policy) or sending a letter to Caroline Wilson, The Gap Year Company Ltd, Gable House, 18-24 Turnham Green Terrace, Chiswick, London W4 1QP. 
+If you want to know what data we hold about you, or have access to that data, or to amend it, please contact Tom Griffiths by either sending an email to [info@gapyear.com](mailto:info@gapyear.com?subject=Privacy%20Policy) or sending a letter to Tom Griffiths, The gapyear Company Ltd, Confederation House, 69 Westgate Street, Ipswich IP1 3DZ.
