@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automotiveworld.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602194600id_/http%3A//www.awknowledge.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotiveworld.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202025321id_/http%3A//www.awknowledge.com/about/privacy.asp) for the most accurate reproduction.*
 
-# AWKnowledge: Privacy Policy
+# AWKnowledge - Research & Analysis for the Automotive IndustryPrivacy Policy
 
 AWKnowledge understands the importance of user privacy, and we are committed to safeguarding the privacy of our users while providing a personalised and valuable service. This Privacy Policy statement explains the data processing practices of AWKnowledge, a trading name of Synesis Media Limited. 
 
