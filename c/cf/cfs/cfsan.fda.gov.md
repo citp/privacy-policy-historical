@@ -1,86 +1,159 @@
-> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603180659id_/http%3A//www.cfsan.fda.gov/required.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cfsan.fda.gov privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008171651id_/http%3A//www.fda.gov/privacy.html) for the most accurate reproduction.*
 
-# REQUIRED NOTICES
+# Privacy Policy for the FDA Website
 
-[Skip Navigation.](http://www.cfsan.fda.gov/required.html#main)
+## Privacy Statement  
+Links to Other Sites  
+Web Site Content  
+Information Quality  
+Pop-Up Advertisements  
+Intrusion Detection  
+Contact Information
 
-Thank you for visiting the FDA/CFSAN web site and for reviewing our Privacy Policy. Please note that:
+##   
+Privacy Statement
 
-> **We collect no information about you, other than information automatically collected and stored (see below), when you visit our web site unless you choose to provide that information to us.**
+**Introduction**
 
-## Privacy Policy for The FDA/CFSAN VM Web Site
+Thanks for visiting FDA’s website. Our privacy policy outlines the information we learn when you visit our site and how we use this information. 
 
-**Information Collected and Stored Automatically**
+We receive two types of information when you visit our site:
 
-When you visit the "vm.cfsan.fda.gov" (aka "www.cfsan.fda.gov") web site, if you do nothing during your visit but browse through the web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following aggregated general information about your visit:
-
-  * the pages you visit,
-  * the date and time you access our site,
-  * the name of the domain from which you access the Internet (for example, aol.com, if you are coming from an America Online account, or purdue.edu if you are connecting from Purdue University's domain), 
-  * the Internet address of the website from which you linked directly to our site, and 
-  * your operating system and browser.
-
-
-
-We use this information
-
-  * to measure the number of visitors to the different food and nutrition sections of our site,
-  * to help us make our site more useful
-  * to develop and code content pages so that most people will be able to view the pages correctly.
+  * information automatically collected
+  * information you choose to provide
 
 
 
-**If You Send Us Personal Information**
+back to top
 
-If you choose to provide us with personal information, as in an e-mail message or by filling out a form, we store the question and e-mail address information so that we can answer the question that was sent in, and send the answer back to the e-mail or other address or phone provided. If you send us a comment, we relay the comment to the most appropriate program manager in the agency. If enough questions or comments come in that are the same, the question may be added to our Question and Answer section, or the suggestions may be used to guide the design of our Web site. Unless otherwise required by statute, we do not identify publicly who sends questions or comments into our web site. 
+**Information Automatically Collected**
 
-**Children's Privacy**
+When you visit a website, certain personal information about you can be collected automatically. When you browse through our site, read pages, or download information, we collect certain information to measure how many visitors come to the different parts of the site so we can make the site more useful. 
 
-We collect no information from children under 13. If a child sends us an e-mail inquiry or comment, we answer, then delete the e-mail from our files.
+**Example:** We use browser information to help us design our site so the greatest number of people can view the pages correctly.
 
-**CFSAN Listservs**
+For every visitor, we collect and temporarily store the following information:
 
-If you subscribe to a CFSAN Listserv, CFSAN considers your e-mail address confidential and it will not be released under FOI. For your convenience, you can subscribe to other government and non-government Listservs from our site. Each Listserv has its own privacy policy which you should check prior to subscribing.
+  * your computer's Internet Protocol (IP) address, a number automatically assigned to your computer when you go on the Web.
+  * the domain from which you access the Internet   
+**Example:** aol.com, for an America Online account
+  * the website address from which you came to our site  
+**Example:** www.hhs.gov if you came by clicking an FDA link on the U.S. Department of Health and Human Services' site
+  * the date and time you arrived at our site and how long you spent there
+  * the name and version of your computer's operating system and browser   
+**Example:** Windows 2000/Netscape 7.0
+  * the pages you visited. 
 
-## Disclosure
 
-FDA does not disclose, give, sell or transfer any personal information about our visitors, unless required for law enforcement or by statute. We will only use personally identifying information to respond to you or to help us perform our public health duties. In those cases, various people may see the personal information you provide in order to look into the matter you inquired about.
 
-We may enter the information you send into an electronic database, to share with our attorneys and investigators involved in law enforcement or policy-making. We may also share it with other government agencies that have public health or consumer protection duties. FDA or any of those agencies may contact you. In other limited circumstances, including requests from Congress or private individuals, we may be required by law to disclose information you submit.
+**"Session Cookies"**
 
-Also, e-mail is not necessarily secure against interception. If you are worried because your communication is very sensitive, or includes personal information such as your social security number, you can send it by postal mail instead.
+Some services on our website use "session cookies." These are:
 
-## Disclaimer of Endorsement
+  * small bits of text temporarily stored in your computer
+  * used to aid searching and navigating the site 
+  * deleted when you close your browser.
 
-**Links to Other Sites**
 
-Our web site has links to many other federal agencies, and in a few cases we link to private organizations. If you access another site through a link we provide, you are subject to the privacy policy of the new site.
 
-Reference in this web site to any specific commercial products, process, service, manufacturer, or company does not constitute its endorsement or recommendation by the US Government, FDA, or CFSAN. FDA/CFSAN is not responsible for the contents of any 'OFF-SITE' web pages referenced from this server.
+**Note:** If you disable cookies in your browser, it may cause problems with searching and displaying information.
 
-## Required Disclaimer Notice
+back to top
 
-The information provided using this WEB Server is only intended to be General Summary Information to the Public. It is not intended to take the place of either the written law or regulations. For an authoritative source, the [FDA Regulations](http://www.cfsan.fda.gov/~dms/reg-2.html) are published in the CFR - Code of Federal Regulations, and are available in book format from the Superintendent of Documents, [US Government Printing Office](http://www.gpo.gov/).
+**Information You Choose to Provide**
 
-## Information Quality Guidelines
+We collect and store no other information about you when you visit our site unless you choose to provide it. For example:
 
-FDA/CFSAN is dedicated to ensuring that all data it disseminates reflect a level of quality commensurate with the nature and timeliness of the information. Futher, FDA seeks to disseminate all its data as broadly and promptly as possible so that the public can benefit from FDA's work of ensuring that foods are safe, wholesome, sanitary, and properly labeled and that cosmetics are safe and properly labeled. In keeping with this commitment, and in accordance with OMB requirements, the FDA has developed draft [Information Quality Guidelines](http://www.hhs.gov/infoquality/fda.html) for public review and comment.
+  * If you send us an e-mail or submit an online form, we do not automatically receive your e-mail address. However, you will need to provide it to us if you would like an e-mail response. We will receive no other personally identifying information from your e-mail unless you provide it.
+  * If you submit a form on our website, we will receive only the personal information you include in the form.
+  * Children's Privacy: We collect no information from children under 13. If a child sends us an e-mail inquiry or comment, we will answer it, then delete the e-mail from our files.
 
-## US Government Computer
 
-This site is maintained by the U.S. Government. It is protected by various provisions of Title 18, U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court.
 
-**Intrusion Detection**
+back to top
 
-For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
+**FDA Information Disclosure Policy**
 
-[Comments or Questions](http://www.cfsan.fda.gov/~dms/qa-top.html)  
-Privacy Policies for [FDA](http://www.fda.gov/privacy.html) and [HHS](http://www.hhs.gov/Privacy.html)  
-CFSAN is a part of the Food and Drug Administration (FDA) and of the Department of Health and Human Services (HHS).
+FDA will not disclose, give, sell, or transfer any personal information about our visitors unless it is required:
 
-* * *
+  * by law
+  * for law enforcement reasons. 
 
-CFSAN Privacy Policy Statement originally posted by LRD on 1998-FEB-26   
-Updated 2002-MAY-16
 
-* * *
+
+Other possible uses of your information:
+
+  * We will only use personal identifying information to respond to you, in which case various people may need to see the information you provide in order to provide a response to you.
+  * If enough questions or comments come in that are the same, your question (but not your name) may be added to our Questions and Answers section. We use this information to help us improve our site.
+  * We may enter information you send into an electronic database to share with attorneys or investigators involved in law enforcement or policy-making. 
+  * We may share information with other government agencies that have public health or consumer protection duties, in which case FDA or any of those agencies may contact you.
+  * In other limited circumstances, including requests from Congress or private individuals, we may be required by law to disclose information you submit.
+
+
+
+**Note:** E-mail is not necessarily secure against interception. If your communication is sensitive, or if it includes personal information such as your social security number, you can send it by postal mail instead.
+
+back to top
+
+## Links to Other Sites
+
+Our website has links to many other federal agencies, and, in a few cases, to private organizations, foreign governments and international organizations. You should be aware that:
+
+  * If you access another site through a link we provide, you are subject to the privacy policy of that site.
+  * Reference in this referred website to commercial products, services, manufacturers, or companies does not constitute an endorsement by the U.S. government, the Department of Health and Human Services, or FDA.
+  * FDA is not responsible for the contents of any pages referred from its website.
+
+
+
+back to top
+
+## **Web Site Content**
+
+The health and medical information on our website is not intended to take the place of advice or treatment from healthcare professionals. It is also not intended to substitute for the users' relationships with their own health care/pharmaceutical providers. 
+
+The _[Code of Federal Regulations](http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfcfr/cfrsearch.cfm)_ is the authoritative source for FDA regulations. 
+
+back to top
+
+## **Information Quality**
+
+FDA is dedicated to:
+
+  * ensuring that all information it publishes reflects a level of quality corresponding to the nature and timeliness of the information
+  * disseminating all its data as broadly and promptly as possible so that the public can benefit from FDA's mission to promote and protect the public health. 
+
+
+
+**Note:** In keeping with this commitment and in accordance with Public Law 106-554 and Office of Management and Budget requirements, HHS and FDA have developed information quality guidelines establishing quality assurance policies, standards, and processes. 
+
+The HHS guidelines are available at <http://www.hhs.gov/infoquality/>. The FDA guidelines are at <http://www.hhs.gov/infoquality/fda.html>.
+
+back to top
+
+## **Pop-Up Advertisements**
+
+When visiting our website, your Web browser may produce pop-up advertisements. These advertisements were most likely produced by other websites you visited or by third-party software installed on your computer. FDA doesn’t produce pop-up ads and doesn’t endorse or recommend products or services for which you may view a pop-up ad on your computer screen while visiting our site.
+
+back to top
+
+## **Intrusion Detection**
+
+This site is maintained by the U.S. government and protected by various provisions of Title 18 of the U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court. 
+
+For site security purposes and to ensure that the site remains available to all users, we employ software programs that monitor traffic and identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
+
+back to top
+
+## **Contact Information**
+
+If you have any questions or comments about the FDA website, you can contact us by:
+
+  * calling 1-888-INFO-FDA (1-888-463-6332)
+  * sending a fax to 301-827-1682
+  * writing to: FDA (HFI-50), Rockville, MD 20857
+  * using our [on-line comment form](https://web.archive.org/comments/webform.html).
+
+
+
+back to top  
+
