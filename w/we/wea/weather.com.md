@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weather.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218010529id_/http%3A//www.weather.com/common/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weather.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609210248id_/http%3A//www.weather.com/common/home/privacy.html%3Ffrom%3Dfooter) for the most accurate reproduction.*
 
 # weather.com - Privacy Statement
 
