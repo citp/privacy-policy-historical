@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsline.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204011200id_/http%3A//cbs.sportsline.com/u/userservices/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsline.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413105843id_/http%3A//www.sportsline.com/u/userservices/privacy.htm) for the most accurate reproduction.*
 
 # Member Services - CBS.SportsLine.com
 
@@ -20,9 +20,9 @@ If you have any questions about this Statement, the practices of SportsLine.com 
 Customer Service  
 SportsLine.com, Inc.  
 Attn.: Privacy Statement  
-PO Box 101027  
-Fort Lauderdale, FL 33310  
-Fax: 800.771.7209  
+2200 W. Cypress Creek Road  
+Fort Lauderdale, FL 33309  
+Fax: 954-429-4199  
 
 
 
@@ -62,7 +62,7 @@ SportsLine.com's technology department conducts frequent site security audits an
 **Personal Options**   
 You have the following options to deactivate your information from SportsLine.com's database. This will cease deployment of future communications and/or SportsLine.com's services. 
 
-  1. You can send an email to [Member Services](mailto:memberservice@sportsline.com)
+  1. You can send an email to [Member Services](https://web.archive.org/u/userservices/new/emailus/memberservicesFRM.htm)
   2. You can contact customer service at 800-771-4616 
   3. You can [change/modify](https://web.archive.org/u/userservices/privacy.htm#options) your personal options 
 
