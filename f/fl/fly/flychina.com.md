@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204201934id_/http%3A//www.flychina.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flychina.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305220217id_/http%3A//www.flychina.com/privacy.htm) for the most accurate reproduction.*
 
 # FlyChina Privacy Statement
+
+|  |  |   
+  
+FlyChina Privacy Statement 
+
+  
+|  | 
 
 This privacy policy covers the site www.flychina.com. Your privacy is important to us, by visiting the website you are accepting the practices described in the following Privacy Policy. To demonstrate our commitment to our users' privacy, we have agreed to disclose our information practices. This Privacy policy is an integral part of our website and the services offered to you and cannot, in any way, be separated from the User Agreement, usage or transaction process. If you do not agree to our privacy policy in whole, you must not use our website. 
 
@@ -66,4 +73,12 @@ Phone: (954) 233-0680
 Fax: (954) 233-0670  
 E-mail: hqFlyChina.com
 
-Postal Address: 5300 NW 33 Ave, Ste 219, Ft Lauderdale, FL 33309, USA
+Postal Address: 5300 NW 33 Ave, Ste 219, Ft Lauderdale, FL 33309, USA  
+  
+---|---  
+  
+  
+  
+ 
+
+© 1997-2005   FlyChina Infotek, Inc.
