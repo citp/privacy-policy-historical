@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reedelsevier.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401124053id_/http%3A//www.reedelsevier.com/index.cfm1996.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedelsevier.com privacy policy that was archived on 2004-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040804214418id_/http%3A//www.reedelsevier.com/index.cfm%3Farticleid%3D61) for the most accurate reproduction.*
 
 # Reed Elsevier - Privacy policy
 
