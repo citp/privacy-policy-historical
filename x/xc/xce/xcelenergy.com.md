@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xcelenergy.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601083658id_/http%3A//www.xcelenergy.com/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcelenergy.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209005431id_/http%3A//www.xcelenergy.com/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Xcel Energy
 
@@ -61,4 +61,4 @@ To protect your information once your transaction is complete, Xcel Energy store
 
 Contact Us
 
-If you have any questions about this privacy statement, which may be revised by Xcel Energy without notice, the practices of this site, or your dealings with Xcel Energy, please [contact us](https://web.archive.org/web/20020601083658id_/http%3A//www.xcelenergy.com/ContactUs.asp).
+If you have any questions about this privacy statement, which may be revised by Xcel Energy without notice, the practices of this site, or your dealings with Xcel Energy, please [contact us](https://web.archive.org/web/20021209005431id_/http%3A//www.xcelenergy.com/ContactUs.asp).
