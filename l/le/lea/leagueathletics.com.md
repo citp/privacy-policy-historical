@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209185818id_/http%3A//www.leagueathletics.com/About/Privacy.asp%3Forg%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602150336id_/http%3A//leagueathletics.com/About/Privacy.asp%3Forg%3D) for the most accurate reproduction.*
 
 # LeagueAthletics.com - Feedback
 
@@ -21,7 +21,7 @@ As a user of a LeagueAthletics.com hosted World Wide Web site (the “Service”
 
 
 
-[For our Children's Privacy Policy (COPPA), click here](https://web.archive.org/web/20021209185818id_/http%3A//www.leagueathletics.com/About/PrivacyCOPPA.asp).
+[For our Children's Privacy Policy (COPPA), click here](https://web.archive.org/web/20030602150336id_/http%3A//leagueathletics.com/About/PrivacyCOPPA.asp).
 
 _Disclosure_
 
