@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620125704id_/http%3A//www.ancestry.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ancestry.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206194300id_/http%3A//www.ancestry.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Ancestry.com - Privacy Statement
 
 Privacy Statement
 
 Privacy Information for Ancestry.com   
-Ancestry.com, Inc. Statement of Privacy Ancestry.com recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. 
+Ancestry.com Statement of Privacy: Ancestry.com recognizes the confidentiality of information that may be disclosed by members in registering or making purchases from our Website and we are firmly committed to protecting your privacy. The following discloses our information gathering and dissemination practices for this site. 
 
 **Overview:**  
 The personal, private information that is provided to Ancestry.com by individual members is not provided to unrelated third parties except in rare cases involving possible violations of our use policies or legal statutes. We do collect some data, always with your knowledge and consent, that is used to fulfill orders and otherwise enhance content to better meet the needs of our users.
 
 Information submitted by you online (such as products you purchase from Ancestry.com, your name, address, e-mail address) may be shared with companies with which Ancestry.com has a commerce relationship and through which you reached this site, for marketing purposes. In such circumstances you will be considered their customer as well. If you object to such use, you may opt-out by e-mail request. Under no circumstances will Ancestry.com share with any other party your password or other personal information it may acquire about children, family, etc.
 
-Demographic information collected through on-site user surveys may be used in aggregate statistical form to attract potential sponsors and deliver advertising messages (see http://www.ancestry.com/advertise.htm).
+Demographic information collected through on-site user surveys may be used in aggregate statistical form to attract potential sponsors.
 
 The specifics of our Privacy Policy are best described in the answers to the following Frequently Asked Questions:
 
@@ -39,7 +39,7 @@ Ancestry.com reserves the right to disclose aggregated user statistics, such as 
 Additionally, if you click away from Ancestry.com to visit the site of any third party advertiser or sponsor, you may be asked for your credit card or other personal information in order to purchase or use products and services offered. These companies have their own privacy and data collection practices. Ancestry.com has no responsibility or liability for these independent policies. You should therefore review their privacy policies carefully if you have concerns about how your information may be used.
 
 **Will Ancestry.com use my information for direct mailings?**  
-Only at your option. Ancestry.com will occasionally send e-mail messages to advise members when new information has been posted to the Web site or to announce special product and service offerings that we feel may be of interest to you. If you do not want to receive such mailings, you may opt out at any time by using the e-mail link under "Overview" in this document.
+Only at your option. Ancestry.com will occasionally send e-mail messages to advise members when new information has been posted to the Web site or to announce special product and service offerings that we feel may be of interest to you. If you do not want to receive such mailings, you may opt out at any time by using the unsubscribe link listed in the e-mail.
 
 **May I refuse to provide personal information to Ancestry.com or to accept advertising?**  
 Yes and No. Visitors may access Ancestry.com’s free services without providing any personal information. To gain full access to the members-only areas, a username, e-mail address and appropriate billing information are required. Because the Ancestry.com site is partially advertiser supported, you may not "turn off" the advertising that appears on Ancestry.com pages, but you may opt to be excluded from any e-mail advertising.
@@ -68,7 +68,6 @@ Ancestry.com may occasionally run contests or other special promotions on our si
 **Contacting the Website**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Website, you can contact:
 
-Ancestry.com, Inc.  
-266 West Center St.  
-Orem, UT 84057  
+MyFamily.com, Inc.  
+360 W 4800 N Provo, UT 84604   
 support@ancestry-inc.com
