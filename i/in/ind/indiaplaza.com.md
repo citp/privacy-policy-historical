@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaplaza.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602070021id_/http%3A//www.indiaplaza.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaplaza.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001214829id_/http%3A//www.indiaplaza.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # IndiaPlaza.com COMPLETE INDIAN SHOPPING
 
@@ -18,7 +18,7 @@ We use Secure Sockets Layer (SSL) software during any order transmission to encr
 
 **How Much Does IndiaPlaza.com Share the Information About Me That it Receives?**
 
-This is the privacy question we are asked most often. We know how important information about our customers is in our business, both to you and us, as well as other companies. Despite the financial advantages that might be had, however, we are not in the business of selling your information to others. Any emails you receive from us are sent by us and carefully approved by our staff. As a subsidiary of Sify.com, we sometimes do share customer information only with our parent company, and then never for later sale or use by some other company. 
+This is the privacy question we are asked most often. We know how important information about our customers is in our business, both to you and us, as well as other companies. Despite the financial advantages that might be had, however, we are not in the business of selling your information to others. Any emails you receive from us are sent by us and carefully approved by our staff. We sometimes do share customer information only with our sister companies, and then never for later sale or use by some other company. 
 
 We do work closely with a number of affiliated businesses, and we sometimes allow them to make offers in conjunction with IndiaPlaza.com. In these cases, however, they never see your information. All emails sponsored by an affiliate company are sent by IndiaPlaza.com and all information pertaining to those customers receiving that email is kept secure by us as well. 
 
