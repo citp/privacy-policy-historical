@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411155957id_/http%3A//www.pmq.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184157id_/http%3A//pmq.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
-This is the web site of **Green Advertising**. 
+**
+
+Privacy Policy Statement
+
+**
+
+This is the web site of **Pizza Marketing Quarterly**
+
+ ****
 
 Our postal address is   
 **605 Edison Street  
 Oxford, MS 38655**
 
+ ****
+
 We can be reached via e-mail at [mail@pmq.com](mailto:mail@pmq.com)  
-or you can reach us by telephone at (662) 234-5481 
+or you can reach us by telephone at (662) 234-5481
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes.
+The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for communication and marketing purposes. However, PMQ is the party that will initiate an email. We do not share our email lists with any third party.
 
-With respect to cookies: We do not set any cookies. 
+With respect to cookies: We do set cookies in the discussion forum. 
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
-
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
-
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
-
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address.
-
-you may receive mailings from other reputable companies. You can, however, have your name put on our do-not-share list by calling us at the number provided above, e-mailing us at the above address, writing to us at the above address. 
-
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
 
 Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
