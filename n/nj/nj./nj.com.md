@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209142314id_/http%3A//www.nj.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nj.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630075142id_/http%3A//nj.com/privacypolicy) for the most accurate reproduction.*
 
 # NJ.com: Privacy Policy
 
@@ -64,7 +64,7 @@ Privacy Policy Coordinator
 Jersey City, NJ 07306 
 
 |  |    
-[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/privacypolicy/index.ssf/NQS/1179975101/SponsorRight/default/empty.gif/64316564656561643366643564616430)   
+[](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/privacypolicy/index.ssf/NQS/1343084372/SponsorRight/default/empty.gif/64316564656562353430653237313030)   
 INSIDE  
 [**About Us**](https://web.archive.org/aboutus/)  
 » [Media Kit](https://web.archive.org/mediakit/)  
@@ -74,6 +74,6 @@ INSIDE
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
   
-[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.nj.com/privacypolicy/index.ssf/NQS/68317665/Tile1/NJONLINE/FOOTFANATICS01NJ02/devils19090.gif/64316564656561643366643564616430)   
+  
   
 
