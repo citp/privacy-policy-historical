@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racingandsports.com.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610205613id_/http%3A//aap.com.au/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingandsports.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204131626id_/http%3A//aap.com.au/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
