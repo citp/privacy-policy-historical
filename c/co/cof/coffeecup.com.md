@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coffeecup.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201065610id_/http%3A//coffeecup.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coffeecup.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604073226id_/http%3A//coffeecup.com/about/privacy.html) for the most accurate reproduction.*
 
 # CoffeeCup Software Inc.
 
