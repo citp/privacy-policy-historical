@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630091517id_/http%3A//aclj.org/webpages/aclj_privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclj.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204214300id_/http%3A//aclj.org/webpages/aclj_privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
