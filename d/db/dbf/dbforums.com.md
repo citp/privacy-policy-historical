@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dbforums.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604091410id_/http%3A//dbforums.com/misc.php%3Faction%3Dfaq%26page%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbforums.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205005455id_/http%3A//dbforums.com/misc.php%3Faction%3Dfaq%26page%3D4) for the most accurate reproduction.*
 
 # dBforums Frequently Asked Questions
 
@@ -18,7 +18,7 @@ We use IP addresses to analyze trends, administer the site, track user's movemen
 Aggregated demographic information may be shared with selected third party advertisers as proof of traffic volume and target audience for the purpose of securing advertising contracts on dBforums.com. The information is highly summarized and is in no way linked to individual visitors. 
 
 **Advertising**  
-We use third party advertising companies to serve banners. Please be aware that we are not responsible for the privacy practices of these companies. We currently use three of the leading advertising networks; [Tribal Fusion](http://tribalfusion.com/www/about/privacy.html), [Adtegrity](http://www.adtegrity.com/privacy.asp), and [Fastclick](http://fastclick.com/about/privacy.html). You are encouraged to read their privacy policies by following the links above. 
+We use third party advertising companies to serve banners, pop-unders and occasional email offers. Please be aware that we are not responsible for the privacy practices of these companies. We currently use three of the leading advertising networks; [Tribal Fusion](http://tribalfusion.com/www/about/privacy.html), [Adtegrity](http://www.adtegrity.com/privacy.asp), and [Fastclick](http://fastclick.com/about/privacy.html). You are encouraged to read their privacy policies by following the links above. 
 
 **Links**  
 This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by dBforums.com. 
