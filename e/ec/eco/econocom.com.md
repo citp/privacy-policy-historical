@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the econocom.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206055103id_/http%3A//www.econocom.com/emc.asp%3FpageId%3D199) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econocom.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206032300id_/http%3A//www.econocom.com/emc.asp%3FpageId%3D199) for the most accurate reproduction.*
 
 # Econocom, Mastering IT Resources - Privacy
 
