@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604105516id_/http%3A//www.bmoinvestorline.com/FAQs/FAQ_II.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217213537id_/http%3A//bmoinvestorline.com/FAQs/FAQ_II.html) for the most accurate reproduction.*
 
 # BMO InvestorLine - FAQs - Security and Privacy
 
