@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ision.co.uk privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605112630id_/http%3A//www.ision.co.uk/ndo/About_NDO/NDO_Privacy_Policy/ndoprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ision.co.uk privacy policy that was archived on 2004-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040806144940id_/http%3A//www.ision.co.uk/ndo/About_NDO/NDO_Privacy_Policy/ndoprivacypolicy.html) for the most accurate reproduction.*
 
 # NDO Privacy Policy
 
