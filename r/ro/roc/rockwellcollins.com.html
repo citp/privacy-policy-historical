@@ -1,0 +1,323 @@
+<!--The following is the downloaded HTML source of the rockwellcollins.com privacy policy that was archived on 2002-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602140935id_/http%3A//www.rockwellcollins.com/privacy) for the most accurate reproduction.-->
+
+<html><head><script language="javascript">
+<!--
+
+//
+// The displayprintableview capability is currently designed to toggle the printable 
+// view of the current page.  This is done by appending and removing "pv=1" at the 
+// end of the querystring.  If "pv=1" does not exist in the querystring it is appended
+// to the end.  If it already exists in the querystring then it is removed.  
+// The includes/header.asp file checks request("pv") - if 1 then the nav menu is not 
+// displayed, else the nav menu is displayed.
+//
+// Note:  Only querystring values are passed.  So if a page was submitted with a form,
+//        the form must use ACTION="GET" so that the form values appear in the 
+//        querystring when printableview is invoked.
+//        
+
+function getprintableviewurl(){
+
+	// Purpose:  Toggles printable view link.  If "pv=1" is not in the current URL then it is appended.  
+	// If it is in the current URL then it is removed.  
+	//
+	// 
+	// 
+	// 
+	// 
+	// 
+	url = document.location.href
+	url = url.toLowerCase()
+	//document.write(url)
+	
+
+	//Need to handle cases where pv is at start, middle, 
+	case1 = "?pv=1"	// pv is last and only param
+	case2 = "&pv=1" // pv is last param
+	case3 = "pv=1&" // pv has params following
+	case4 = "?pv=1#" // pv is only param and has anchor following
+	case5 = "&pv=1#" // pv is last param and has anchor following
+
+	//If url ends in "/" then append "index.asp? to URL
+	urlEndchar = url.substring(url.length-1)
+	if (urlEndchar == "/") {
+		url = url + 'index.asp' 
+	}
+	urlEnd = url.substring(url.length-5)
+
+	//
+	//Currently printable view so create a link back to full view
+	if ((urlEnd == case1) || (urlEnd == case2)){
+		linktext = "Return to full view"
+		urlnew = url.substring(0,url.length-5)
+	}else{
+		if (url.indexOf(case3) != -1){
+			linktext = "Return to full view"
+			urlnew = url.substring(0,url.indexOf(case3)) + url.substring(url.indexOf(case3)+5)
+		}else{
+			if (url.indexOf(case4) != -1){
+				linktext = "Return to full view"
+				urlnew = url.substring(0,url.indexOf(case4)) + url.substring(url.indexOf(case4)+5)
+			}else{
+				if (url.indexOf(case5) != -1){
+					linktext = "Return to full view"
+					urlnew = url.substring(0,url.indexOf(case5)) + url.substring(url.indexOf(case5)+5)					
+				}else{
+					linktext = "Printable view"
+					if (url.indexOf("?") == -1){
+						pvstring = "?pv=1"
+					}else{
+						pvstring = "&pv=1"
+					}
+					
+					A = url.indexOf("#")
+					//If an anchor exists 
+					if (A != -1){
+						//... assume it is at end of query string and extract it
+						urlstart = url.substring(0,A)
+						anchor = url.substring(A)
+						urlnew = urlstart + pvstring + anchor
+					}else{
+						urlnew = url + pvstring
+					}
+				}
+			}
+		}
+	}
+	// pvlink = '<a href="' + urlnew + '">' + linktext + '</a>'
+    // document.write('urlnew = ' + urlnew + '<br>')
+}
+
+function displayprintableview (){
+
+	pv =      '<table width=470 border=0 cellpadding=0 cellspacing=0>'
+	pv = pv + '  <tr>'
+	pv = pv + '    <td width=345>&nbsp;</td>'
+	pv = pv + '    <td valign=top width=125 align=left>'
+	pv = pv + '      <font face=arial size=1>'
+	pv = pv + '      <a href="' + urlnew + '">' + linktext + '</a>'
+	pv = pv + '      </font>'
+	pv = pv + '    </td>'
+	pv = pv + '  </tr>'
+	pv = pv + '</table>'
+
+	document.write(pv)
+
+}
+
+function displayprintableviewlink (){
+
+	pv =      '      <font face=arial size=1>'
+	pv = pv + '      <a href="' + urlnew + '">' + linktext + '</a>'
+	pv = pv + '      </font>'
+
+	document.write(pv)
+}
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function openBrWindow(theURL) { //v2.0
+  window.open(theURL,'','toolbar=yes,location=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes');
+}
+//-->
+</script>
+
+
+
+
+<link rel="stylesheet" type="text/css" href="/css/common.css">
+<title>Rockwell Collins - Privacy Statement</title>
+<script language="javascript"><!--
+	getprintableviewurl()
+//--></script></head>
+
+
+<body alink="#CC0033" link="#333333" vlink="#669999" bgcolor="#FFFFFF" leftmargin="0" rightmargin="0" topmargin="0" bottommargin="0" marginheight="0" marginwidth="0">
+      
+    <table width="800" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr height="65">
+			<!-- Nav Menu -->
+			<td rowspan="3" width="205" valign="top" bgcolor="#C0C0C0">
+				<table border="0" width="100%" cellpadding="0" cellspacing="0">
+<tbody><tr><td valign="middle"><center>&nbsp;<img src="/images/line.gif" width="180" height="2" border="0">&nbsp;</center></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/"><font id="navitem"><font color="#606060"><i><b><font id="navitem"><font color="#606060">Rockwell Collins Home</font></font></b></i></font></font></a></font></td></tr>
+<tr><td valign="middle"><center>&nbsp;<img src="/images/line.gif" width="180" height="2" border="0">&nbsp;</center></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/about"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">About Us</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/products/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Products and Services</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/comsys/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Commercial Systems</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/govsys/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Government Systems</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/international"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Worldwide</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/newsroom/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Newsroom</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.shareholder.com/col/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Investor Relations</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/careers/"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Careers</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><center>&nbsp;<img src="/images/line.gif" width="180" height="2" border="0">&nbsp;</center></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/search"><font id="navitem"><font color="#444444"><b><font id="navitem"><font color="#444444">Search</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><center>&nbsp;<img src="/images/line.gif" width="180" height="2" border="0">&nbsp;</center></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/contacts"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Contacts</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/feedback"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Feedback</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><font size="2">&nbsp;&nbsp;&nbsp;<a href="http://www.rockwellcollins.com/sendtoafriend"><font id="navitem"><font color="#606060"><b><font id="navitem"><font color="#606060">Send this page to a friend</font></font></b></font></font></a></font></td></tr>
+<tr><td valign="middle"><center>&nbsp;<img src="/images/line.gif" width="180" height="2" border="0">&nbsp;</center></td></tr>
+</tbody></table>
+
+			</td>
+			<!-- 1px spacer -->
+			<td rowspan="3" width="1" valign="top" bgcolor="#000000">
+				<img border="0" src="/images/shim.gif" width="1" height="1" alt="shim.gif">
+			</td>
+			<!-- Page Title, Logo & Identity Bar  -->
+			<td height="65" width="594" align="left" valign="top">
+
+				<table width="594" height="65" border="0" cellpadding="0" cellspacing="0">
+					<!-- Page Title, Logo -->
+					<tbody><tr>
+						<td width="15" height="50" align="left"><img border="0" src="/images/shim.gif" width="1" height="1" alt="shim.gif"></td>
+						<td width="345" height="50" align="left"><font size="4" face="arial" color="#CC0033"><b>Privacy Statement</b></font></td>
+						<td width="125" height="50" align="left" valign="top"><img src="/images/rkclogosmall1.jpg" height="45" width="125" border="0" alt="Rockwell Collins logo"></td>
+						<td width="109" height="50" align="left">&nbsp;</td>
+					</tr>
+					<!-- Identity Bar  -->
+					<tr> 
+						<td colspan="4" valign="middle" height="15px" bgcolor="#999999" align="LEFT"><img src="/images/shim.gif" height="15px" width="25px" alt="shim.gif"><font face="times" size="4" color="#000000">R O C K W E L L &nbsp;&nbsp;&nbsp;C O L L I N S </font></td>
+					</tr>
+				</tbody></table>
+			</td>	
+		</tr>
+		<tr> 
+			<!-- TD for Nav Menu is rowspanned -->
+			<!-- TD for 1px spacer is rowspanned -->
+			<!-- TD for Page content & left margin -->
+			<td width="594" align="LEFT" valign="top" height="400&quot;">
+				<table width="594" border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<!-- Left Margin of content -->
+						<td width="25"><img border="0" src="/images/shim.gif" width="25" height="1" alt="shim.gif"></td>
+						
+						<td valign="top" width="569">
+<!-- --------------------- -->				
+<!-- Start of Page Content -->
+<!-- --------------------- -->				
+
+
+<table width="485" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr><td width="100%" height="25px"><img border="0" src="/images/shim.gif" width="1" height="1" alt="shim.gif"></td></tr>
+	<tr><td><font face="Arial"><table align="right" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td rowspan="5" width="14"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+    <td rowspan="5" width="1" bgcolor="#CC0033"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+    <td rowspan="5" width="15"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+    <td height="10"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+  </tr>
+  <tr>
+    <td height="20"><font face="arial" size="1"><a href="/terms">Terms of Access</a></font></td>
+  </tr>
+  <tr>
+    <td height="20"><font face="arial" size="1"><a href="/privacy">Privacy Statement</a></font></td>
+  </tr>
+  <tr>
+    <td height="20"><font face="arial" size="1"><a href="/cookie">Cookie Statement</a></font></td>
+  </tr>
+  <tr>
+    <td colspan="4" height="20"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+  </tr>
+  <tr>
+    <td height="20"><img src="/images/shim.gif" width="1" alt="shim.gif"></td>
+  </tr>
+</tbody></table>
+
+
+
+<p><font face="Arial, Helvetica, sans-serif" size="2"><b>PRIVACY </b></font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">This privacy statement explains 
+  our policy regarding any personal information you may supply to us when visiting 
+  any Rockwell Collins Website. </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2"><b>PERSONAL INFORMATION</b> 
+  </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">There are times when we 
+  may need information from you; additionally some areas of our Websites may require 
+  you to complete a registration form. Our goal in collecting this personal information 
+  is to offer you a more personalized browsing experience. When you let us know 
+  your preferences we will be able to deliver or allow you to access the most 
+  relevant information that meets your needs. </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">To extend this personalization 
+  experience Rockwell Collins Websites may save information on your system in 
+  the form of a cookie. </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">Rockwell Collins will not 
+  share e-Mail addresses with anyone outside Rockwell Collins nor disclose user 
+  information to any third party. </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">This site gives you the 
+  option to remove your information from our database if you no longer wish to 
+  have this information used, as a basis for further contact with you. Please 
+  click on the following link to send your e-mail request, <a href="mailto:collins@rockwellcollins.com">collins@rockwellcollins.com</a>. 
+  </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2"><b>Contact Us </b></font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">In various areas throughout 
+  our Websites, we use e-mail links to allow you to contact us directly with any 
+  questions or comments that you may have. This information may be filed and used 
+  to help us prioritize our development needs and continuously improve our Websites 
+  to meet your needs. </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2"><b>BUSINESS RELATIONSHIPS 
+  </b></font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">In working with our business 
+  associates, we require strict contractual obligations, which ensure that your 
+  information is safeguarded. Rockwell Collins Websites contain links to other 
+  Websites. Rockwell Collins is not responsible for the privacy practices, copyright 
+  or content of such Websites. </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2"><b>PUBLIC FORUMS</b> </font></p>
+<p><font face="Arial, Helvetica, sans-serif" size="2">We also make available: 
+  forums, message boards and news groups to our customers. Please remember that 
+  any information that is disclosed in these areas becomes public information 
+  and you should exercise caution when deciding to disclose your personal information.</font> 
+</p>
+</font></td></tr>
+</tbody></table>
+
+
+<!-- --------------------- -->				
+<!-- End of Page Content   -->
+<!-- --------------------- -->				
+
+						
+							<table width="485" border="0" cellpadding="0" cellspacing="0">
+								<tbody><tr>
+									<td height="25">
+										&nbsp;
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<center><font face="arial,helvetica" size="1">
+								  		<b>Copyright © 2002 Rockwell Collins, Inc. All rights reserved.</b>
+								  		</font>
+								  		</center>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<center><font face="arial,helvetica" size="1">
+										<a href="/terms">Terms of Access</a>&nbsp;&nbsp;|&nbsp;
+					  					<a href="/privacy">Privacy Statement</a>&nbsp;&nbsp;|&nbsp;
+					  					<a href="/cookie">Cookie Statement</a>
+					  					</font>
+										</center>
+									</td>
+								</tr>
+								<tr>
+									<td height="10">
+										&nbsp;
+									</td>
+								</tr>
+							</tbody></table>						
+	
+					</td>
+				</tr>
+			</tbody></table>
+			<!-- TD for Page content & left margin -->
+		</td>
+	</tr>
+</tbody></table>
+
+
+
+</body></html>
