@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fluke.com privacy policy that was archived on 1999-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991013034932id_/http%3A//fluke.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluke.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520054225id_/http%3A//www.fluke.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement for www
 
@@ -84,9 +84,7 @@ Security
 
 **
 
-This site has security measures in place to protect the loss, misuse and 
-
-alteration of the information under our control. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
 **
 
@@ -120,16 +118,10 @@ Contacting the Web Site
 
 **
 
-If you have any questions about this privacy statement, the practices of 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact: 
 
-this site, or your dealings with this Web site, please contact: 
-
-Webmaster
-
-Fluke Corporation
-
-PO Box 9090, M/S 250E
-
-Everett, WA 98203
-
+Webmaster  
+Fluke Corporation  
+PO Box 9090, M/S 250E  
+Everett, WA 98203  
 fluke-info@tc.fluke.com
