@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeeran.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603061106id_/http%3A//www.jeeran.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeeran.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018140554id_/http%3A//www.jeeran.com/privacy.asp) for the most accurate reproduction.*
 
 # jeeran.com - Privacy Policy
 
