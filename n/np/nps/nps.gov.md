@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202131800id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nps.gov privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604111609id_/http%3A//www.nps.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement, National Park Service
 
@@ -49,6 +49,6 @@ The NPS makes no claims, promises or guarantees about the accuracy, completeness
 
 **Ownership**
 
-Information presented on this website, _unless otherwise indicated_ , is considered in the public domain. It may may be distributed or copied as is permitted by the law. Not all information on this website has been created or is owned by the NPS. If you wish to use any _non-NPS_ material, you must seek permission directly from the owning (or holding) sources. NPS shall have the unlimited right to use for any purpose, free of any change, all information submitted to NPS via this site except those submissions made under separate legal contract. NPS shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to NPS through this site
+Information presented on this website, _unless otherwise indicated_ , is considered in the public domain. It may be distributed or copied as is permitted by the law. Not all information on this website has been created or is owned by the NPS. If you wish to use any _non-NPS_ material, you must seek permission directly from the owning (or holding) sources. NPS shall have the unlimited right to use for any purpose, free of any change, all information submitted to NPS via this site except those submissions made under separate legal contract. NPS shall be free to use, for any purpose, any ideas, concepts, or techniques contained in information provided to NPS through this site
 
-**Return to[www.nps.gov](https://web.archive.org/web/20001202131800id_/http%3A//www.nps.gov/index.htm)**
+**Return to[www.nps.gov](https://web.archive.org/web/20010604111609id_/http%3A//www.nps.gov/index.htm)**
