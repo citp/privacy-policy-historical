@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201132230id_/http%3A//mdlinx.com/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdlinx.com privacy policy that was archived on 2002-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020421174126id_/http%3A//www.mdlinx.com/privacy-policy.cfm) for the most accurate reproduction.*
 
 # MDLinx: Privacy Policy
 
