@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the wfan.com privacy policy that was archived on 2000-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001118122400id_/http%3A//cbsnewyork.com/main/legal/story_257083057_html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfan.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603023442id_/http%3A//www.wfan.com/privacy) for the most accurate reproduction.*
 
-# CBSNEWYORK.COM Main Section
+# WFAN - Privacy - WFAN.com. The official website of WFAN radio.
 
-  
-
-
-Sep. 13, 2000 8:30 am  
+Privacy Statement January 1, 2000 12:00 am   
 CBS takes your electronic privacy seriously. We do not share Personally Identifiable Information with anyone unless we tell you otherwise when we collect the information.
 
 We understand the need to protect the online privacy of children who may not yet be sophisticated enough to determine for themselves what information is appropriate to release. The Kidshow portion of our site is hosted by Nikolai.com. Nikolai.com has a [Children's Privacy Policy](http://cbs.nikolai.com/privacy.shtm) that parents can read.
@@ -119,5 +116,3 @@ New York, New York 10019**
 Sometimes we want personal information from you so that we, our partners and our advertisers can send you some material we think might be of interest to you. 
 
 We promise never to be sneaky about it getting this information from you. We always tell you up front what we’re going to do with the answers, and we always give you a chance to say “no thanks.” 
-
-[Printable Page](http://cbsnewyork.com/main/legal/story_257083057_html?pp=1)
