@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204210948id_/http%3A//www.citizen.org/about/articles.cfm%3FID%3D6272) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizen.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606042409id_/http%3A//www.citizen.org/about/articles.cfm%3FID%3D6272) for the most accurate reproduction.*
 
 # Public Citizen | Public Citizen | Public Citizen Home Page - Public Citizen's Privacy Policy
 
@@ -33,5 +33,7 @@ If you have any questions or concerns about this privacy policy, please contact
 
 more resources
 
-Public Citizen is an independent voice for citizens in the halls of power.  
-We take NO government or corporate money.
+Because Public Citizen does not accept funds from corporations, professional associations or government agencies, we can remain independent and follow the truth wherever it may lead. But that means we depend on the generosity of concerned citizens like you for the resources to fight on behalf of the public interest. If you will like to help us in our fight, [click here](https://web.archive.org/join/). 
+
+  
+
