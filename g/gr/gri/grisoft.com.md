@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623233044id_/http%3A//www.grisoft.com/us/us_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grisoft.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208201958id_/http%3A//www.grisoft.com/us/us_privacy.php) for the most accurate reproduction.*
 
 # Protection of Personal Information
 
