@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usitc.gov privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604054556id_/http%3A//www.usitc.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usitc.gov privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208084943id_/http%3A//www.usitc.gov/privacy.htm) for the most accurate reproduction.*
 
 # USITC: PRIVACY STATEMENT
 
