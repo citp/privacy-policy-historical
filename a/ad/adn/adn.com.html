@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adn.com privacy policy that was archived on 2004-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603144557id_/http%3A//adn.com/help/v-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adn.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204044512id_/http%3A//www.adn.com/help/v-privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Anchorage Daily News | Help and Company Infomation </title>
@@ -77,47 +77,50 @@ else document.bgColor = "#FFFFFF"
 <td bgcolor="#003399" align="right"><!-- Component: ADN:/:ads_top_story -->
 
 <table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td>
-        
 
-        <!--- 1st Section: Delivery Attempt via JX tag. --->
-        <!--SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.adn.com/help/front@468x60Top"-->
-        <!--/script-->
 
-        <!--- 2nd Section: Browser test; "version" will be set to 10 or 11 --->
-        <script language="JavaScript">
-            <!-- It is VERY important that the following line be commented like it is -->
-            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
-            <!-- 
-                var _version=10; 
-            // -->
-        </script>
-        <script language="JavaScript1.1">
-            <!-- It is VERY important that the following line be commented like it is -->
-            <!-- DON'T CHANGE IT. See pg. 30 of Rhino book -->
-            <!--
-                var _version=11; 
-            // -->
-        </script>
-
-        <script language="JavaScript">
-            <!--- 3rd Section: Acts on results of Browser test with delivery via SX code--->
-            <!--
-            if (navigator.appVersion.indexOf('MSIE 3') != -1)
-            {
-                document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_sx.ads/www.adn.com/help/front@468x60Top"></iframe>');
-            }
-            else if (_version < 11)
-            {
-                document.write ('<A HREF="http://ads.nandomedia.com/RealMedia/ads/click_nx.ads/www.adn.com/help/front@468x60Top"><IMG SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_nx.ads/www.adn.com/help/front@468x60Top"></a>');
-            }
-            else
-            {
-                document.write('<'+'SCRIPT LANGUAGE="JavaScript1.1" SRC="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.adn.com/help/front@468x60Top"></'+'SCRIPT>');
-            }
-            // -->
-        </script><script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_jx.ads/www.adn.com/help/front@468x60Top"></script>
-
-</td></tr></tbody></table>
+<!------ OAS SETUP begin ------>
+<script language="JavaScript">
+<!-- //configuration
+OAS_url = 'http://ads.adn.com/RealMedia/ads/';
+OAS_sitepage = 'www.adn.com/help/front';
+OAS_listpos = '468x60Top,Button9,Button10,Button11,Button20';
+var OAS_query; if (!OAS_query && location.search) { OAS_query=location.search } else { OAS_query='' }
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+  adcall='<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '@'
+  + OAS_listpos + '!' + pos + '?' + OAS_query + OAS_rns + '" TARGET=' + OAS_target + '>'
+  + '<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '@'
+  + OAS_listpos + '!' + pos + '?' + OAS_query + OAS_rns + '" BORDER=0></A>';
+  document.write(adcall);
+  }
+//-->
+</script>
+<script language="JavaScript1.1">
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+  OAS_version = 10;
+if (OAS_version >= 11)
+  document.write('<'+'SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + OAS_rns + '"></'+'SCRIPT>');
+// -->
+</script><script language="JavaScript1.1" src="http://ads.adn.com/RealMedia/ads/adstream_mjx.ads/www.adn.com/help/front/1211753833@468x60Top,Button9,Button10,Button11,Button20?211753833"></script>
+<script language="JavaScript">
+<!--
+document.write('');
+function OAS_AD(pos) { if (OAS_version >= 11) OAS_RICH(pos); else OAS_NORMAL(pos) }
+//-->
+</script>
+<!------ OAS SETUP end ------>
+<script language="JavaScript"> 
+<!-- 
+OAS_AD('468x60Top'); 
+//--> 
+</script></td></tr></tbody></table>
  </td>
 </tr>
 </tbody></table>
@@ -125,6 +128,7 @@ else document.bgColor = "#FFFFFF"
 <!-- Top navigation bar here -->
 
 <span class="link1">
+
 <script language="JavaScript">
 <!--
 function formHandler(form){ 
@@ -133,20 +137,20 @@ function formHandler(form){
 } 
 //-->
 </script>
-<table border="0" cellpadding="3" cellspacing="1" width="100%">
+<table border="0" cellpadding="3" cellspacing="1" width="100%" bgcolor="#003399">
 <tbody><tr>
-<td bgcolor="#FFCC66" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowdown.gif" width="8" height="6" border="0"><img src="/widgets/pixel.gif" width="3" height="1" border="0"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#000000"><b>News</b></font></td>
+<td bgcolor="#94A9D4" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowdown.gif" border="0"><img src="/widgets/pixel.gif" width="3" height="1" border="0"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#000000"><b>News</b></font></td>
 
 
-<td bgcolor="#000000" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowright.gif" width="14" height="8" border="0"><span class="link1"><a href="http://www.adn.com/today/classified/"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#FFCC66"><b>Classifieds</b></font></a></span></td>
+<td bgcolor="#000000" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowright.gif" width="14" height="8" border="0"><span class="link1"><a href="http://www.adn.com/today/classified/"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#ffffff"><b>Classifieds</b></font></a></span></td>
 
-<td bgcolor="#000000" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowright.gif" width="14" height="8" border="0"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#FFCC66"><b>Marketplace</b></font></td>
+<td bgcolor="#000000" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowright.gif" width="14" height="8" border="0"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#ffffff"><b>Marketplace</b></font></td>
 
-<td bgcolor="#000000" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowright.gif" width="14" height="8" border="0"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#FFCC66"><b>Services</b></font></td>
+<td bgcolor="#000000" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowright.gif" width="14" height="8" border="0"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#ffffff"><b>Services</b></font></td>
 
-<td bgcolor="#000000" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowright.gif" width="14" height="8" border="0"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#FFCC66"><b>Around Alaska</b></font></td>
+<td bgcolor="#000000" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowright.gif" width="14" height="8" border="0"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#ffffff"><b>Around Alaska</b></font></td>
  
-<td bgcolor="#000000" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowright.gif" width="14" height="8" border="0"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#FFCC66"><b>Specials</b></font></td>
+<td bgcolor="#000000" height="15" align="center" width="15%"><img src="http://www.adn.com/widgets/arrowright.gif" width="14" height="8" border="0"><font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#ffffff"><b>Specials</b></font></td>
 </tr> 
 
 
@@ -185,44 +189,44 @@ function formHandler(form){
 <td background="/images/vg02/2px-grey-stripes.gif" align="center" valign="TOP" width="15%">
 <span class="link1">
 <font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#000000"><a href="http://www.adn.com/today/classified/"><b>Today's ads</b></a><br>
-<img src="/widgets/pixel.gif" width="1" height="3"><br>
+<img src="/widgets/pixel.gif" width="1" height="2"><br>
 <a href="/vault/index.html#class"><b>Search ads</b></a><br>
-<img src="/widgets/pixel.gif" width="1" height="3"><br>
+<img src="/widgets/pixel.gif" width="1" height="2"><br>
 <a href="/classified/place_ad"><b>Place an ad</b></a><br>
 </font></span></td>
 
 <td background="/images/vg02/2px-grey-stripes.gif" align="center" valign="top" width="15%"><span class="link1">
 <font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#000000">
-<a href="http://www.alaska.com/akcom/transportation/"><b>Transportation</b></a><br>
-<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="3"><br>
-<a href="http://www.adn.com/classified/employment/"><b>Employment</b></a><br>
-<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="3"><br>
+<a href="/classified/transportation/"><b>Transportation</b></a><br>
+<img src="/widgets/pixel.gif" width="1" height="2"><br>
+<a href="/classified/employment/"><b>Employment</b></a><br>
+<img src="/widgets/pixel.gif" width="1" height="2"><br>
 <a href="http://www.adn.com/akcom/homes/"><b>Real Estate</b></a><br>
 </font></span>
 </td>
 
 <td background="/images/vg02/2px-grey-stripes.gif" align="center" valign="top" width="15%"><span class="link1">
-<font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#000000"><a href="/DisplayAds/"><b>Newspaper ads</b></a><br>
-<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="3"><br>
+<font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#000000"><a href="/DisplayAds/"><b>Special Sections</b></a><br>
+<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br>
 <a href="http://www.switchboard.com/bin/cgidir.dll?MEM=1330&amp;c=&amp;L=&amp;T=&amp;s=AK" target="_blank"><b>Directory</b></a><br>
-<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="3"><br><a href="http://www.alaska.com/shop/"><b>Alaska stores</b></a><br></font></span>
+<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br><a href="http://www.alaska.com/shop/"><b>Alaska stores</b></a><br></font></span>
 </td>
 
 <td background="/images/vg02/2px-grey-stripes.gif" align="center" valign="top" width="15%"><span class="link1">
 <font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#000000">
 <a href="http://www.alaska.com/packages/travel_deals"><b>Travel Deals</b></a><br>
-<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="3"><br>
+<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br>
 <a href="http://www.alaska.com/plan/visitors_guide"><b>Visitors Guide</b></a><br>
-<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="3"><br>
+<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br>
 <a href="http://www.alaska.com"><b>Alaska.com</b></a><br>
-<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="3"><br>
+<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br>
 </font></span></td>
 
 <td background="/images/vg02/2px-grey-stripes.gif" align="center" valign="top" width="15%"><span class="link1">
 <font face="verdana, arial, helvetica, sans-sarif" size="-2" color="#000000"><a href="/iditarod/"><b>Iditarod</b></a><br>
-<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="3"><br>
+<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br>
 <a href="/photos/"><b>Photo Galleries</b></a><br>
-<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="3"><br>
+<img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br>
 <a href="/epicks/"><b>Editors' Picks</b></a><br>
 
 
@@ -243,99 +247,192 @@ function formHandler(form){
 <!-- Left Navigation component -->
 
 <span class="link2">
-<table border="0" cellpadding="0" cellspacing="0" width="100%"> 
+<span class="link2">
+
+<table border="0" cellpadding="0" cellspacing="0" width="135"> 
 <tbody><tr>
-<td bgcolor="#003399" valign="top" width="125"><img src="/widgets/pixel.gif" width="135" height="15"><br>
 
-<a href="/registration/help/faq/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#ffffff"><b>Registration</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<td bgcolor="#003399" valign="top" width="135"><img src="/widgets/pixel.gif" width="135" height="8"><br>
 
-<a href="/alaska/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Alaska</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/registration/help/faq/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#ffffff"><b>Registration</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
+
+<a href="/alaska/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Alaska</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
 
-<a href="/business/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Money</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
 
-<a href="/sports/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Sports</b></font></a><br><img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/business/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Money</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/outdoors/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Outdoors</b></font></a><img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/sports/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Sports</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/life/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Life</b></font></a>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/outdoors/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Outdoors</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/weekend/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>(8) Entertainment</b></font></a><img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/life/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Life</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/obituaries/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Obituaries</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/opinion/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Opinion</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/perfectworld/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Perfect World</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/letters/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Letters to the Editor</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/video/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Video Clips</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/weekend/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>(8) Entertainment</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/legislature/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Legislature</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/obituaries/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Obituaries</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/opinion/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Opinion</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/perfectworld/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Perfect World</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/letters/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Letters to the Editor</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
 
-<a href="/voice/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Voice of the Times</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/voice/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Voice of the Times</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/corrections/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Corrections</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/video/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Video Clips</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/weather/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Weather</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/legislature/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Legislature</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/links/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>ADN Links</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/traffic/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Anchorage Traffic</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="/newstogo/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Newsletters</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/corrections/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Corrections</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<a href="http://www.adnstore.com/" target="_blank"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>ADN Store</b></font></a><br>
-<img src="/widgets/pixel.gif" width="125" height="5"><br>
+<a href="/weather/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Weather</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
 
-<font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"> 
+<a href="/links/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>ADN Links</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
+
+<a href="/newstogo/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Newsletters</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
+
+<a href="http://www.adnstore.com/" target="_blank"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>ADN Store</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
+
+<a href="/help/forms/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Submit information</b></font></a><br>
+<img src="/widgets/pixel.gif" width="125" height="3"><br>
+
+<font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"> 
 <script language="javascript">
 <!--
-document.write('<a href="javascript:var hwindow=window.open(\'/help/v-quick/\',\'quick_help\',\'height=500,width=360,scrollbars\');hwindow.focus();"><b>Help</B></A><br><img src="/widgets/pixel.gif" width="125" height="5"><br>');
+document.write('<a href="javascript:var hwindow=window.open(\'/help/v-quick/\',\'quick_help\',\'height=500,width=360,scrollbars\');hwindow.focus();"><b>Help</B></A><br><img src="/widgets/pixel.gif" width="125" height="3"><br>');
 //-->
-</script><a href="javascript:var hwindow=window.open('/help/v-quick/','quick_help','height=500,width=360,scrollbars');hwindow.focus();"><b>Help</b></a><br><img src="/widgets/pixel.gif" width="125" height="5"><br></font>
-<a href="http://www.adn.com/"><font face="verdana, arial, helvetica, sans-serif" size="-1" color="#66ccff"><b>Home</b></font></a><br>
+</script><a href="javascript:var hwindow=window.open('/help/v-quick/','quick_help','height=500,width=360,scrollbars');hwindow.focus();"><b>Help</b></a><br><img src="/widgets/pixel.gif" width="125" height="3"><br></font>
+<a href="http://www.adn.com/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Home</b></font></a><br>
 
 <img src="/widgets/pixel.gif" width="125" height="5"><br>
 <br>
-<table border="0" cellpadding="3" cellspacing="1" bgcolor="#cccccc" width="100%">
+
+
+
+
+<title>Anchorage Daily News | Search</title>
+
+
+
+<table cellpadding="0" cellspacing="0" border="0">
+    <tbody><tr>
+        <td>
+            <!-- Component: ADN : component/search_tmpl/form_map.comp -->
+<!-- start Component: ADN : component/search_tmpl/dwb/search_form.comp -->
+
+<style type="text/css">
+<!--
+
+.section {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 12px;color: #ffffff;font-weight: normal;line-height: 18px;} 
+.section A {color: #ffffff;text-decoration: none} 
+.section A:hover {color: #ffcc00}
+
+.bodysmall {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #000000;font-weight: normal}
+.bodysmall A {color: #3366CC;text-decoration: none} 
+.bodysmall A:hover {color: #ff9900}
+
+.bodysmallonblue {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #FFFFFF;font-weight: normal}
+.bodysmallonblue A {color: #FFFFFF;text-decoration: none}
+.bodysmallonblue A:hover {color: #ffcc00}
+
+.accent {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px;color: #FFCC66;font-weight: normal} 
+
+// -->
+</style>
+
+
+<table width="135" cellpadding="4" cellspacing="1" border="0" background="/images/legislature/blue-on-blue-dots.gif">
 <tbody><tr>
-<td align="center" bgcolor="#e6e6e6"><form method="GET" action="/dwb_search/index.html" onsubmit="if (this.target.value.length<3){alert(&quot;Please enter at least three characters to begin your search.&quot;);return false;}">
-<!-- hr noshade size=1 color="#OO3399" -->
-<img src="/widgets/pixel.gif" width="3" height="4"><br>
-<font color="#OO3399" size="2" face="Verdana,Arial,Helvetica,Sans-serif"><b>Search </b></font><br>
-<font size="1" face="Verdana,Arial,Helvetica,Sans-serif">in today's news</font><br>
-<img src="/widgets/pixel.gif" width="1" height="2"><br>
-<input type="TEXT" name="target" size="12"><br>
-<input type="hidden" name="collection" value="Current;24Hour">
-<img src="/widgets/pixel.gif" width="1" height="2"><br>
-<input type="SUBMIT" value="Search"><br>
-<img src="/widgets/pixel.gif" width="1" height="4"><br>
-<font size="1" face="Verdana,Arial,Helvetica,Sans-serif">•&nbsp;<a href="/vault/"><font size="1" color="#000066">Previous days' news</font></a><br>
-<img src="/widgets/pixel.gif" width="1" height="3"><br>
-•&nbsp;<a href="/vault/"><font size="1" color="#000066">Advanced search</font></a><br>
-<img src="/widgets/pixel.gif" width="1" height="3"><br>
-•&nbsp;<a href="http://www.adnsearch.com"><font size="1" color="#000066">Archives search</font></a><br>
-</font>
-<!-- hr noshade size=1 color="#OO3399" -->
-<img src="/widgets/pixel.gif" width="3" height="3">
-</form></td>
+<td valign="top" align="center" class="section" background="/images/legislature/header-space.gif"><b>Search</b></td>
 </tr>
+
+<form name="dwb_search" method="get" action="http://search.adn.com/search-bin/search.pl.cgi"></form>
+                <input type="hidden" name="product" value="DWB">
+<input type="hidden" name="sf_meta_product" value="DWB">
+<input type="hidden" name="live_template" value="http://www.adn.com/search_tmpl/results/dwb/index.html">
+<input type="hidden" name="collection" value="NONE">
+<input type="hidden" name="fields" value="*">
+<input type="hidden" name="preview_template" value="http://www.adn.com.com/search_tmpl/results/dwb/index.html">
+<input type="hidden" name="results_per_page" value="10">
+<input type="hidden" name="aggregate_key" value="meta_rollup">
+<input type="hidden" name="sort" value="dwb_psd_publish_dt desc">
+
+                <input type="hidden" name="sf_meta_object_type" value="TextualContent">
+                <input type="hidden" name="sf_meta_site" value="ADN">
+                <input type="hidden" name="sf_meta_domain" value="www.adn.com">
+                <script language="JavaScript" src="http://www.adn.com/static/includes/js/searchdate.js"></script>
+
+    
+    
+
+
+<tr>
+<td bgcolor="#003399" class="bodysmallonblue">
+<span class="bodyonblue">Search today's news by keyword(s)</span><br>
+<img src="/widgets/pixel.gif" width="1" height="3"><br>
+<input type="text" name="sf_dwb_target" size="18" class="bodysmall"><br>
+<img src="/widgets/pixel.gif" width="1" height="4"><br>
+<input type="Submit" value="Search" class="bodysmall"><br>
+<img src="/widgets/pixel.gif" width="2" height="8"><br>
+
+<span class="accent">::</span> <span class="bodyonblue"><a href="/vault/">Previous days' news</a></span><br>
+<span class="accent">::</span> <span class="bodyonblue"><a href="http://www.adnsearch.com">Search archives</a></span><br>
+<img src="/widgets/pixel.gif" width="2" height="6">
+</td>
+</tr>
+
+    
+
+    
+
+
 </tbody></table>
+
+<!-- end Component: ADN : component/search_tmpl/dwb/search_form.comp -->
+<!-- Component: ADN : component/search_tmpl/form_map.comp -->
+
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+<br>
+
+
+
 <img src="/widgets/pixel.gif" width="125" height="8"><br>
 
 <!-- LINK TO FEATURES LIST COMPONENT -->
@@ -346,37 +443,37 @@ document.write('<a href="javascript:var hwindow=window.open(\'/help/v-quick/\',\
 <img src="http://www.adn.com/widgets/features.gif" width="67" height="13" border="0"><br>
 <img src="http://www.adn.com/widgets/pixel.gif" width="125" height="6"><br>
 
-<a href="/epicks/"><font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-1" color="#66CCFF"><b>Editors' Picks</b></font></a><br>
+<a href="/epicks/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Editors' Picks</b></font></a><br>
 <img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br>
 <font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2" color="#FFFFFF">Read adn.com's best recent stories.</font><br>
 
 <img src="http://www.adn.com/widgets/pixel.gif" width="125" height="5"><br>
 
 <a href="javascript:self.name='main';var emwindow=window.open('http://www.adn.com/cgi-bin/email-a-friend/topten.cgi?days=2','email_a_friend','height=400,width=380,toolbar=no,location=no,status=yes,menubar=no,scrollbars=auto,resizable=yes');emwindow.focus();">
-<font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-1" color="#66CCFF"><b>Top Ten Stories</b></font></a><br>
+<font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Top Ten Stories</b></font></a><br>
 <img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br>
 <font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2" color="#FFFFFF">See which stories other readers are sending to their friends.</font><br>
 
 <img src="http://www.adn.com/widgets/pixel.gif" width="125" height="5"><br>
 
-<a href="http://www.adn.com/crossword/"><font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-1" color="#66CCFF"><b>Crossword</b></font></a><br>
+<a href="http://www.adn.com/crossword/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Crossword</b></font></a><br>
 <img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br>
 <font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2" color="#FFFFFF">Play our interactive puzzle online.</font><br>
 
 <img src="http://www.adn.com/widgets/pixel.gif" width="125" height="5"><br>
 
-<a href="http://www.alaska.com/"><font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-1" color="#66CCFF"><b>ALASKA.com</b></font></a><br>
+<a href="http://www.alaska.com"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Alaska.com</b></font></a><br>
 <img src="/widgets/pixel.gif" width="1" height="2"><br>
 <font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2" color="#FFFFFF">Get information on travel, relocation and entertainment. The business directory allows you to locate stores and services statewide.</font><br>
 <img src="http://www.adn.com/widgets/pixel.gif" width="125" height="5"><br>
 
-<a href="http://schoolnews.adn.com/"><font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-1" color="#66CCFF"><b>School News</b></font></a><br>
+<a href="http://schoolnews.adn.com/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>School News</b></font></a><br>
 <img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br>
 <font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2" color="#FFFFFF">Find your child's classroom in SchoolNews. Also, learn about <a href="/nie/"><font color="#66CCFF">Newspapers in Education</font></a>.</font><br>
 
 <img src="http://www.adn.com/widgets/pixel.gif" width="125" height="5"><br>
 
-<a href="http://communitynews.adn.com/"><font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-1" color="#66CCFF"><b>Community News</b></font></a><br>
+<a href="http://communitynews.adn.com/"><font face="verdana, arial, helvetica, sans-serif" size="1" color="#66ccff"><b>Community News</b></font></a><br>
 <img src="http://www.adn.com/widgets/pixel.gif" width="1" height="2"><br>
 <font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2" color="#FFFFFF">Check our free Web sites for non-profit groups.</font><br>
 
@@ -387,6 +484,8 @@ document.write('<a href="javascript:var hwindow=window.open(\'/help/v-quick/\',\
 </td>
 </tr>
 </tbody></table>   
+
+</span>
 </span>
 <!-- Put vertical ads here -->
 
@@ -398,7 +497,7 @@ document.write('<a href="javascript:var hwindow=window.open(\'/help/v-quick/\',\
 <script language="JavaScript">
 <!--
 //configuration
-OAS_url = 'http://ads.nandomedia.com/RealMedia/ads/';
+OAS_url = 'http://ads.adn.com/RealMedia/ads/';
 OAS_sitepage = 'www.adn.com/help/story';
 OAS_listpos = 'Button1,Button2,Button3,Button4';
 OAS_query = '';
@@ -420,7 +519,7 @@ document.write('<SCR'+'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_m
 if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
   OAS_version = 10;
 //-->
-</script><script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_mjx.ads/www.adn.com/help/story@Button1,Button2,Button3,Button4?840367215"></script>
+</script><script language="JavaScript1.1" src="http://ads.adn.com/RealMedia/ads/adstream_mjx.ads/www.adn.com/help/story@Button1,Button2,Button3,Button4?932513002"></script>
 <script language="JavaScript">
 <!--
 document.write('');
@@ -857,7 +956,7 @@ function mc_et(){window.onerror=window.oe;return true}var mc_noe=false;var mcr_d
 if(!mcr_done){if(navigator.userAgent.indexOf('Mac')>=0&&navigator.userAgent.indexOf('MSIE 4')>=0){var mc_r=document.referrer;mc_noe=true}
 else{window.oe=window.onerror;window.onerror=mc_et;var mc_r=parent.document.referrer;mc_noe=mc_et()}}
 </script><script language="JavaScript">
-document.write(mc_mkcd());document.write('<'+'!-- ') </script><img src="http://Nmanchorage.112.2O7.net/b/ss/Nmanchorage/1/c3.2/2fsi1580389383866?[AQB]r=NULL&amp;s=800x600&amp;c=24&amp;o=Linux%20x86_64&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;t=30%2F0%2F2020%2013%3A3%3A3%204%200&amp;pageName=ADN%20--%20Anchorage%20Daily%20News%20%7C%20Help%20and%20Company%20Infomation&amp;server=ADN&amp;ch=web%2Fweb&amp;pageType=&amp;pageValue=&amp;product=&amp;c1=https%3A%2F%2Fweb.archive.org%2Fweb%2F20040603144557id_%2Fhttp%3A%2F%2Fwww.adn.com%2Fhelp%2Fv-privacy%2F&amp;c2=&amp;c3=Section&amp;c4=&amp;c5=&amp;c6=&amp;c7=&amp;c8=&amp;c9=&amp;c10=&amp;c11=&amp;c12=&amp;c13=&amp;c14=&amp;c15=&amp;c16=&amp;c17=&amp;c18=&amp;c19=&amp;c20=&amp;g=https%3A%2F%2Fweb.archive.org%2Fweb%2F20040603144557id_%2Fhttp%3A%2F%2Fwww.adn.com%2Fhelp%2Fv-privacy%2F&amp;a=Netscape%205&amp;p=[AQE]" height="1" width="1" border="0"><!-- <noscript><img src="http://Nmanchorage.112.2O7.net/b/ss/Nmanchorage/1?pageName=noscript%20ADN%20--%20/help/v-privacy/&server=ADN&channel=Unidentified%20section&c1=noscript%20www.adn.com/help/v-privacy/&c2=Unknown%20version&c3=Unknown%20pagelevel&c4=Unknown%20content%20source" height=1 width=1 border=0></noscript>
+document.write(mc_mkcd());document.write('<'+'!-- ') </script><img src="http://Nmanchorage.112.2O7.net/b/ss/Nmanchorage/1/c3.2/2fsi1580389383743?[AQB]r=NULL&amp;s=800x600&amp;c=24&amp;o=Linux%20x86_64&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;t=30%2F0%2F2020%2013%3A3%3A3%204%200&amp;pageName=ADN%20--%20Anchorage%20Daily%20News%20%7C%20Help%20and%20Company%20Infomation&amp;server=ADN&amp;ch=web%2Fweb&amp;pageType=&amp;pageValue=&amp;product=&amp;c1=https%3A%2F%2Fweb.archive.org%2Fweb%2F20041204044512id_%2Fhttp%3A%2F%2Fwww.adn.com%2Fhelp%2Fv-privacy%2F&amp;c2=&amp;c3=Section&amp;c4=&amp;c5=&amp;c6=&amp;c7=&amp;c8=&amp;c9=&amp;c10=&amp;c11=&amp;c12=&amp;c13=&amp;c14=&amp;c15=&amp;c16=&amp;c17=&amp;c18=&amp;c19=&amp;c20=&amp;g=https%3A%2F%2Fweb.archive.org%2Fweb%2F20041204044512id_%2Fhttp%3A%2F%2Fwww.adn.com%2Fhelp%2Fv-privacy%2F&amp;a=Netscape%205&amp;p=[AQE]" height="1" width="1" border="0"><!-- <noscript><img src="http://Nmanchorage.112.2O7.net/b/ss/Nmanchorage/1?pageName=noscript%20ADN%20--%20/help/v-privacy/&server=ADN&channel=Unidentified%20section&c1=noscript%20www.adn.com/help/v-privacy/&c2=Unknown%20version&c3=Unknown%20pagelevel&c4=Unknown%20content%20source" height=1 width=1 border=0></noscript>
 <script language="JavaScript">
 document.write(' --'+'>')
 </script> <!-- End SuperStats tracking code. -->
@@ -895,7 +994,7 @@ document.write(' --'+'>')
 <font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2" color="#66CCFF"> | </font>
 <a href="/help/forms/"><font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2">Forms</font></a>
 <font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2" color="#66CCFF"> | </font>
-<a href="/adn/help2/circ.html"><font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2">Subscriptions</font></a>
+<a href="/circulation"><font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2">Subscriptions</font></a>
 <font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2" color="#66CCFF"> | </font>
 <a href="/help/v-advertising/"><font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2">Advertising</font></a>
 <font face="VERDANA, ARIAL, HELVETICA, SANS-SERIF" size="-2" color="#66CCFF"> | </font>
@@ -928,6 +1027,50 @@ var mysect = "Information";
 
 <!-- Component: ADN:/:ads_bottom_story -->
 
+
+
+<!------ OAS SETUP begin ------>
+<script language="JavaScript">
+<!-- //configuration
+OAS_url = 'http://ads.adn.com/RealMedia/ads/';
+OAS_sitepage = 'www.adn.com/help/front';
+OAS_listpos = 'x87';
+var OAS_query; if (!OAS_query && location.search) { OAS_query=location.search } else { OAS_query='' }
+OAS_target = '_top';
+//end of configuration
+OAS_version = 10;
+OAS_rn = '001234567890'; OAS_rns = '1234567890';
+OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
+function OAS_NORMAL(pos) {
+  adcall='<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '@'
+  + OAS_listpos + '!' + pos + '?' + OAS_query + OAS_rns + '" TARGET=' + OAS_target + '>'
+  + '<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '@'
+  + OAS_listpos + '!' + pos + '?' + OAS_query + OAS_rns + '" BORDER=0></A>';
+  document.write(adcall);
+  }
+//-->
+</script>
+<script language="JavaScript1.1">
+<!--
+OAS_version = 11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
+  OAS_version = 10;
+if (OAS_version >= 11)
+  document.write('<'+'SCRIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + OAS_rns + '"></'+'SCRIPT>');
+// -->
+</script><script language="JavaScript1.1" src="http://ads.adn.com/RealMedia/ads/adstream_mjx.ads/www.adn.com/help/front/1939362493@x87?939362493"></script>
+<script language="JavaScript">
+<!--
+document.write('');
+function OAS_AD(pos) { if (OAS_version >= 11) OAS_RICH(pos); else OAS_NORMAL(pos) }
+//-->
+</script>
+<!------ OAS SETUP end ------>
+<script language="JavaScript"> 
+<!-- 
+OAS_AD('x87'); 
+//--> 
+</script>
 
 
 <!-- Copyright -->
@@ -993,7 +1136,7 @@ if(s_code)document.write(s_code);
 else
 document.write('<im'+'g src="http://192.168.112.2O7.net/b/ss/nmanchorage/1/F.1-fb/s'+s_tm.getTime()+'?[AQB]'+'&pageName='+escape(s_wd.s_pageName?s_wd.s_pageName:(s_wd.pageName?s_wd.pageName:''))+'&server='+escape(s_wd.s_server?s_wd.s_server:(s_wd.server?s_wd.server:''))+'&ch='+escape(s_wd.s_channel?s_wd.s_channel:(s_wd.channel?s_wd.channel:''))+'&[AQE]" height="1" width="1" border="0" />');
 // -->
-</script><img name="s_i_nmanchorage" height="1" width="1" border="0" src="https://web.archive.org/web/20040113092630/http://192.168.112.2o7.net/b/ss/nmanchorage/1/F.1-XeLvs/s28942894675298?[AQB]&amp;box=split&amp;t=30/0/2020%2013%3A3%3A3%204%200&amp;pageName=archive%20--%20Anchorage%20Daily%20News%20Help%20Page%3A%20privacy&amp;ch=Information&amp;server=archive&amp;c1=https%3A//web.archive.org/web/20040603144557id_/http%3A//www.adn.com/help/v-privacy/&amp;c2=privacy&amp;c3=Section&amp;c4=ADN&amp;s=800x600&amp;c=24&amp;o=Linux%20x86_64&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;g=https%3A//web.archive.org/web/20040603144557id_/http%3A//www.adn.com/help/v-privacy/&amp;a=Netscape%205&amp;[AQE]">
+</script><img name="s_i_nmanchorage" height="1" width="1" border="0" src="https://web.archive.org/web/20040113092630/http://192.168.112.2o7.net/b/ss/nmanchorage/1/F.1-XeLvs/s22344624896308?[AQB]&amp;box=split&amp;t=30/0/2020%2013%3A3%3A3%204%200&amp;pageName=archive%20--%20Anchorage%20Daily%20News%20Help%20Page%3A%20privacy&amp;ch=Information&amp;server=archive&amp;c1=https%3A//web.archive.org/web/20041204044512id_/http%3A//www.adn.com/help/v-privacy/&amp;c2=privacy&amp;c3=Section&amp;c4=ADN&amp;s=800x600&amp;c=24&amp;o=Linux%20x86_64&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;g=https%3A//web.archive.org/web/20041204044512id_/http%3A//www.adn.com/help/v-privacy/&amp;a=Netscape%205&amp;[AQE]">
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-');
 // -->
