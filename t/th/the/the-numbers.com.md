@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-numbers.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604063636id_/http%3A//the-numbers.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-numbers.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206095747id_/http%3A//www.the-numbers.com/legal/privacy.html) for the most accurate reproduction.*
 
 # C:\My Documents\The Numbers\The Numbers Privacy Policy.do
 
