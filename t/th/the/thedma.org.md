@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedma.org privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203154400id_/http%3A//www.thedma.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedma.org privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604022719id_/http%3A//www.the-dma.org/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,15 +17,15 @@ We can be reached via e-mail at [ customer@the-dma.org](mailto:customer@the-dma.
 
 For years The DMA has developed guidelines and programs to help marketers meet consumer privacy expectations. By providing consumers with notice of information practices and the ability to remove their names from lists, marketers have demonstrated their commitment to protecting consumer privacy. As interactive media evolve, The DMA and its membership renew their commitment to offer notice and opt-out in this new medium. 
 
-To reduce the amount of unsolicited commercial mail, telephone contact or e-mail from DMA member companies, you may submit an online form by going to <http://www.the-dma.org/consumers/consumerassistance.html>. To take your name off DMA contact lists only, use the address above or e-mail us at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy). 
+To reduce the amount of unsolicited commercial mail, telephone contact or e-mail from DMA member companies, you may submit an online form by going to <http://www.the-dma.org/consumers/consumerassistance.html>. To take your name off DMA contact lists only, use the mailing address above or e-mail us at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy). 
 
 **_Note:_** The DMA does not compile, buy, sell, rent or trade consumer mailing lists. All marketing efforts we undertake are targeted toward a business audience only. We sometimes rent our DMA compiled, business oriented mailing lists to business-to-business companies and require that they adhere to the DMA's Privacy Promise. 
 
-For visitor's who do not sign on to our Web site, our Web server does not recognize information regarding the e-mail address. We do not have access to personally identifiable information related to visitors, unless they have a sign on account. We place cookies on visitors hard drives to collect agregate generic information about the number of vistors to our Web site and pages viewed. This information is used for analysis of traffic at our site. 
+For visitor's who do not sign on to our Web site, our Web server does not recognize information regarding their e-mail address. We do not have access to personally identifiable information related to visitors, unless they have a sign on account. We place cookies on visitors hard drives to collect agregate generic information about the number of vistors to our Web site and pages viewed. This information is used for analysis of traffic at our site. 
 
 For visitor's who sign on to our Web site, we ask for name, address and profile information when issuing a user name and password. These visitors may receive periodic mailings from us with information on new DMA products and services or upcoming DMA events. They may also receive mailings from other reputable companies. 
 
-If you do not want to receive marketing material from The DMA in the future, please let us know by sending us an e-mail at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy) or calling or writing us at the above address. 
+If you do not want to receive marketing material from The DMA in the future, please let us know by sending us an e-mail at [ customer@the-dma.org](mailto:customer@the-dma.org?subject=The%20DMA%20Web%20Site%20Privacy%20Policy) or calling or writing us at the mailing address above. 
 
 For visitor's who sign on to the Web site, we place cookies on their hard drive which are used to maintain the sign on for the duration of the visit. We also use these cookies to track the pages the signed on visitor requests and to deliver DMA Web content based on the visitor's profile (as provided by the visitor) and past activity on the DMA Web site. The usage information we collect as a result of signing on to the Web site is not provided to any other organization or company and is used by The DMA in aggregate for traffic analysis and to provide relevant information or customized information to the visitor. 
 
