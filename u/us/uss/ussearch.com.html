@@ -1,7 +1,30 @@
-<!--The following is the downloaded HTML source of the ussearch.com privacy policy that was archived on 2002-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021215155049id_/http%3A//www.ussearch.com/wlcs/commerce/about/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ussearch.com privacy policy that was archived on 2003-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030620083401id_/http%3A//www.ussearch.com/wlcs/commerce/about/privacy.jsp) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script src="http://www.ussearch.com/wlcs/__utm.js"></script>
+	
+
+
+
+<!-- HEADER INCLUDE -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <title>US Search.com Privacy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <meta http-equiv="expires" content="0">
@@ -28,6 +51,35 @@ function registerUser()
   return false;
 }
 
+function doDobSearch(sku) {
+
+	var pstrURL = "http://preview.ussearch.com/dob/search?ispopup=true&sku=" + sku + "&url=" + document.location.href;
+	newWindowSuper(pstrURL, 440, 600);
+
+	var params = '';
+	var url = '';
+	
+	for (var i = 0; i<document.forms[0].elements.length; i++) {
+		name = document.forms[0].elements[i].name;
+		
+		if( document.forms[0].elements[i].type == 'text' && name != 'searchDOB') {
+			params += name;
+			params += "%3D" + document.forms[0].elements[i].value + "%26";
+			
+			url += name + "=" + document.forms[0].elements[i].value + "&";
+    		}
+    		else if( document.forms[0].elements[i].type == 'select-one' ) {
+    			params += name;
+    			params += "%3D" + document.forms[0].elements[i].options[document.forms[0].elements[i].selectedIndex].value + "%26";
+			
+			url += name + "=" + document.forms[0].elements[i].options[document.forms[0].elements[i].selectedIndex].value + "&";
+    		}
+    	}
+	var pstrURL = "http://preview.ussearch.com/dob/search?ispopup=true&sku=" + sku + "&url=" + params + "&" + url;
+	
+	newWindowSuper(pstrURL, 535, 400);
+
+}
 
 
 // Open new browser window
@@ -46,8 +98,7 @@ function newWindowSuper3(pstrURL, pnWidth, pnHeight, pnScroll, pnResize) {
   newWin = window.open(pstrURL, 'NewWindow',strOption);
 }
 
-function doSearch()
-{
+function doSearch() {
                
         if(document.teaser.searchLName.value != "")
         {
@@ -57,10 +108,23 @@ function doSearch()
         return false;
 }
 
+function Rcertify() {
+	popupWin = window.open('http://www.bbbonline.org/cks.asp?id=10210111448', 'Participant','location=yes,scrollbars=yes,width=450,height=300'); 
+	window.name = 'opener';
+} 
+
+function popUp(url) {
+sealWin=window.open(url,"win",'toolbar=0,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=1,width=500,height=450');
+self.name = "mainWin";
+}
+
 </script>
 
 
 <link rel="SHORTCUT ICON" href="http://images.ussearch.com/images/favicon.ico"> 
+
+<link rel="stylesheet" type="text/css" href="/wlcs/commerce/includes/commerceN4.css">
+
 </head>
 
 
@@ -69,70 +133,66 @@ function doSearch()
 <table width="760" border="0" cellspacing="0" cellpadding="0">
     <tbody><tr>
 		
-		<td width="159"><a href="http://www.ussearch.com:80/wlcs/application/commercewf?origin=privacy.jsp&amp;event=link(home)&amp;fc=ice&amp;JSPBASECREATOR=12150750512002Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1|1039967451068&amp;USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1"><img src="http://images.ussearch.com/images/holiday/logo_holiday.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" width="159" height="28" border="0"></a></td>
+		<td width="159"><a href="http://ussearch.com:80/wlcs/application/commercewf?origin=privacy.jsp&amp;event=link(home)&amp;fc=Normal_CCOff&amp;JSPBASECREATOR=06200134012003PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1|1056098041770&amp;USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1"><img src="http://images.ussearch.com/images/uss_new_logo.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" width="159" height="28" border="0"></a></td>
 		
-        <td rowspan="2" width="601" valign="top">
-         <table width="601" cellpadding="0" cellspacing="0" border="0">
-       
-			<tbody><tr>
-                  <td bgcolor="#E0F0D8" valign="top" height="52" width="218">
-					<table width="218" border="0" cellspacing="0" cellpadding="0">
-						<tbody><tr>
-							<td bgcolor="#ffffff" colspan="3" width="218"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" border="0" width="1" height="6"></td>
-						</tr>
-                       <tr>
-                           <td colspan="3" width="218"><img src="http://images.ussearch.com/images/header/nav_top_left.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" border="0"></td>
-                       </tr>
-						<tr>
-							<td colspan="3" width="218"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" border="0" width="1" height="8"></td>
-						</tr>
+<td rowspan="2" width="601" valign="top">
+<table width="601" cellpadding="0" cellspacing="0" border="0">
+
+<tbody><tr>
+<td bgcolor="#E0F0D8" valign="top" height="52" width="218">
+<table width="218" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td bgcolor="#ffffff" colspan="3" width="218"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" border="0" width="1" height="6"></td>
+</tr>
+<tr>
+<td colspan="3" width="218"><img src="http://images.ussearch.com/images/header/nav_top_left.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" border="0"></td>
+</tr>
+<tr>
+<td colspan="3" width="218"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" border="0" width="1" height="8"></td>
+</tr>
 						
 						<tr>
 							
-							<td valign="bottom" width="106"><a href="http://www.ussearch.com:80/wlcs/application/commercewf?origin=privacy.jsp&amp;event=link(home)&amp;fc=ice&amp;JSPBASECREATOR=12150750512002Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1|1039967451068&amp;USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1"><img src="http://images.ussearch.com/images/header/constab1.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" width="106" height="16" border="0"></a></td>
+							<td valign="bottom" width="106"><a href="http://ussearch.com:80/wlcs/application/commercewf?origin=privacy.jsp&amp;event=link(home)&amp;fc=Normal_CCOff&amp;JSPBASECREATOR=06200134012003PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1|1056098041770&amp;USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1"><img src="http://images.ussearch.com/images/header/constab1.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" width="106" height="16" border="0"></a></td>
 							
-							<td valign="bottom" width="11"><img src="http://images.ussearch.com/images/header/constab2.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" width="11" height="16" border="0"></td>
-							<td valign="bottom" width="101"><a href="/business/index.jsp"><img src="http://images.ussearch.com/images/header/constab3.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" width="101" height="16" border="0"></a></td>
+							<td valign="bottom" width="11"><img src="http://images.ussearch.com/images/header/constab2.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" width="11" height="16" border="0"></td>
+							<td valign="bottom" width="101"><a href="/business/index.jsp"><img src="http://images.ussearch.com/images/header/constab3.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" width="101" height="16" border="0"></a></td>
 						</tr>
 						
-	                      </tbody></table>
-					</td>
-					<td bgcolor="#E0F0D8" valign="top" width="383">
-					<table width="383" border="0" cellspacing="0" cellpadding="0">
-	                          <tbody><tr>
-	                              <td bgcolor="#ffffff" colspan="2"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" border="0" width="383" height="6"></td>
-	                          </tr>
-						<tr>
-							<td width="152"><img src="http://images.ussearch.com/images/header/nav_top_mid.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" width="152" height="22" border="0"></td>
+</tbody></table>
+</td>
+<td bgcolor="#E0F0D8" valign="top" width="383">
+<table width="383" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td bgcolor="#ffffff" colspan="2"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" border="0" width="383" height="6"></td>
+</tr>
+<tr>
+<td width="152"><img src="http://images.ussearch.com/images/header/nav_top_mid.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" width="152" height="22" border="0"></td>
 							
-							<td width="231">
-							<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                                <tbody><tr>
-									<td align="right" valign="top" width="146"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" width="146" height="2" border="0"><br><a href="https://cs.ussearch.com/eCustomer/myHome/login/crmLink.jsp?source=commerce&amp;sid="><font face="arial, helvetica, sans-serif" size="1">LOGIN \ VIEW RESULTS</font></a></td>
-									<td width="85" align="center"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" width="65" height="1" border="0"></td>
-
-
-                                </tr>
-								<tr>
-									<td colspan="2"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" border="0" width="231" height="1"></td>
-								</tr>
-                            </tbody></table>
-							</td>
+<td width="231">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td align="right" valign="top"><a href="https://cs.ussearch.com/eCustomer/myHome/login/crmLink.jsp?source=commerce&amp;sid=" class="smallTxt">MEMBER LOG-IN</a>&nbsp;</td>
+</tr>
+<tr>
+<td><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" border="0" width="231" height="1"></td>
+</tr>
+</tbody></table>
+</td>
 							
-						</tr>	
-						<tr>
-							<td colspan="2" valign="bottom" width="383">
-							<img src="http://images.ussearch.com/images/trans.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" border="0" width="1" height="5"><br><img src="http://images.ussearch.com/images/header/nav_tagline.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" border="0"></td>
-						</tr>
-	                      </tbody></table>
-					</td>
-		 	</tr>
-	    </tbody></table>
-		</td>
-    </tr>
-    <tr>
-        <td bgcolor="#E0F0D8"><img src="http://images.ussearch.com/images/nav_bit.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" width="159" height="24" border="0"></td>
-    </tr>
+</tr>	
+<tr>
+<td colspan="2" valign="bottom" width="383" class="tagLine" align="right"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" width="1" height="5" border="0"><br><i>The Worldwide Leader in Public Information</i></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#E0F0D8"><img src="http://images.ussearch.com/images/nav_bit.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" width="159" height="24" border="0"></td>
+</tr>
 </tbody></table>
 
 
@@ -157,13 +217,14 @@ function doSearch()
 			<table width="136" border="0" cellspacing="0" cellpadding="0">
 
                 <tbody><tr>
-                    <td height="16"><img src="http://images.ussearch.com/images/trans.gif"></td>
+                    <td height="16" colspan="2"><img src="http://images.ussearch.com/images/trans.gif"></td>
                 </tr>
 
                 <tr>
 
 					
-						<td align="right"><a href="http://www.ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(home)&amp;fc=ice&amp;JSPBASECREATOR=12150750512002Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1|1039967451068&amp;USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1"><img src="http://images.ussearch.com/images/hm_off.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" border="0"></a></td>
+					<td width="17">&nbsp;</td>
+					<td><a href="http://ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(home)&amp;fc=Normal_CCOff&amp;JSPBASECREATOR=06200134012003PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1|1056098041770&amp;USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" class="highlightnav">Home</a></td>
 					
 
 				</tr>
@@ -174,7 +235,8 @@ function doSearch()
 
                 <tr>
 				    
-                    <td align="right"><a href="/wlcs/commerce/allproducts.jsp"><img src="http://images.ussearch.com/images/prod_off.gif" border="0"></a></td>
+					<td width="17">&nbsp;</td>
+                    <td><a href="/wlcs/commerce/allproducts.jsp" class="highlightnav">All Products</a></td>
 					
                 </tr>
 
@@ -182,27 +244,30 @@ function doSearch()
 				
 				<tr>
 					
-						<td align="right"><a href="http://www.ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(browseCatalog)&amp;adID=10002001&amp;fc=ice&amp;JSPBASECREATOR=12150750512002Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1|1039967451068&amp;USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1"><img src="http://images.ussearch.com/images/peop_off.gif" border="0"></a></td>
+					<td width="17">&nbsp;</td>
+                    <td><a href="http://ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(browseCatalog)&amp;adID=10002001&amp;fc=Normal_CCOff&amp;JSPBASECREATOR=06200134012003PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1|1056098041770&amp;USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" class="highlightnav">People Search</a></td>
 					
-
 				</tr>
+
                 <tr>
 					
-						<td align="right"><a href="http://www.ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(browseCatalog)&amp;adID=10002002&amp;fc=ice&amp;JSPBASECREATOR=12150750512002Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1|1039967451068&amp;USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1"><img src="http://images.ussearch.com/images/back_off.gif" border="0"></a></td>
+					<td width="17">&nbsp;</td>
+                    <td><a href="http://ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(browseCatalog)&amp;adID=10002002&amp;fc=Normal_CCOff&amp;JSPBASECREATOR=06200134012003PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1|1056098041770&amp;USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" class="highlightnav">Background Search</a></td>
 					
-
                 </tr>
+
 				<tr>
 					
-						<td align="right"><a href="http://www.ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(browseCatalog)&amp;adID=10002003&amp;fc=ice&amp;JSPBASECREATOR=12150750512002Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1|1039967451068&amp;USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1"><img src="http://images.ussearch.com/images/cort_off.gif" border="0"></a></td>
+					<td width="17">&nbsp;</td>
+                    <td><a href="http://ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(browseCatalog)&amp;adID=10002003&amp;fc=Normal_CCOff&amp;JSPBASECREATOR=06200134012003PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1|1056098041770&amp;USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" class="highlightnav">Court Records</a></td>
 					
-
                 </tr>
+
 				<tr>
 					
-						<td align="right"><a href="http://www.ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(browseCatalog)&amp;adID=10002004&amp;fc=ice&amp;JSPBASECREATOR=12150750512002Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1|1039967451068&amp;USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1"><img src="http://images.ussearch.com/images/sear_off.gif" border="0"></a></td>
+					<td width="17">&nbsp;</td>
+                    <td><a href="http://ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(browseCatalog)&amp;adID=10002004&amp;fc=Normal_CCOff&amp;JSPBASECREATOR=06200134012003PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1|1056098041770&amp;USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" class="highlightnav">Searches About Me</a></td>
 					
-
                 </tr>
 
 
@@ -214,27 +279,29 @@ function doSearch()
 
 
 				<tr>
-			  			<td align="right"><a href="https://cs.ussearch.com/eCustomer/myHome/login/crmLink.jsp?source=commerce&amp;sid=">
-						<img src="http://images.ussearch.com/images/member-off.gif" border="0"></a></td>
+			  		<td width="17">&nbsp;</td>
+                    <td><a href="https://cs.ussearch.com/eCustomer/myHome/login/crmLink.jsp?source=commerce&amp;sid=" class="highlightnav">Member Services</a></td>
 		        </tr>
 
 				
 				<tr>
-					<td align="right"><a href="/wlcs/commerce/nanny/overview.jsp"><img src="http://images.ussearch.com/images/nanny_off.gif" border="0"></a></td>
+					<td width="17">&nbsp;</td>
+                    <td><a href="/wlcs/commerce/nanny/overview.jsp" class="highlightnav">Childcare Screening</a></td>
 				</tr>
 				
 
 					
 
+
 					
 
 				<tr>
-                    <td>&nbsp;</td>
+                    <td colspan="2">&nbsp;</td>
                 </tr>
-
+ 
 					
 					<tr>
-						<td align="center">
+						<td align="center" colspan="2">
 						<form action="" method="get" name="userReg" onsubmit="return registerUser()">
 						<font face="arial" size="1">Get Special Discounts.<br>
 						Enter Your E-mail:<br>
@@ -245,7 +312,7 @@ function doSearch()
 					
 
 				<tr>
-				 <td align="center"><font face="arial" size="1"><a href="/wlcs/commerce/about/searchAssist.jsp">Need Expert Assistance?</a><br>
+				 <td align="center" colspan="2"><font face="arial" size="1"><a href="/wlcs/commerce/about/searchAssist.jsp">Need Expert Assistance?</a><br>
                  <font color="red" size="2"><b>1-800-US-SEARCH</b></font><br>
 				 (1-800-877-3272)<br>
                  Mon - Fri: 6am - 10pm PST<br>
@@ -254,7 +321,7 @@ function doSearch()
 					
 				
                 <tr>
-                    <td height="5">&nbsp;</td>
+                    <td height="5" colspan="2">&nbsp;</td>
                 </tr>
 
 
@@ -268,7 +335,7 @@ function doSearch()
             </tbody></table>
 
  </td>
- 	<td valign="top" width="20" align="left"><img src="http://images.ussearch.com/images/nav_corn.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" border="0"></td>
+ 	<td valign="top" width="20" align="left"><img src="http://images.ussearch.com/images/nav_corn.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" border="0"></td>
 	<td>
 	   <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	     <tbody><tr>
@@ -383,21 +450,21 @@ When you purchase US SEARCH services, participate in the opt out program, or vol
 	
 	<!-- start USSMainFooter -->
 	    <tr>
-		 	<td bgcolor="#E0F0D8" height="10"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" border="0"></td>
+		 	<td bgcolor="#E0F0D8" height="10"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" border="0"></td>
 		 	<td>&nbsp;</td>
-		 	<td height="10"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" border="0"></td>
+		 	<td height="10"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" border="0"></td>
 		</tr>
 		
 	    <tr>
-	        <td width="136" bgcolor="#E0F0D8" rowspan="2"><img src="http://images.ussearch.com/images/copyrite.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" align="bottom" border="0"></td>
+	        <td width="136" bgcolor="#E0F0D8" rowspan="2"><img src="http://images.ussearch.com/images/copyrite.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" align="bottom" border="0"></td>
 	        <td width="20" rowspan="2">&nbsp;</td>
-	        <td bgcolor="#669966"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1" height="1" width="1" border="0"></td>
+	        <td bgcolor="#669966"><img src="http://images.ussearch.com/images/trans.gif?USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1" height="1" width="1" border="0"></td>
 	    </tr>
 		
 	    <tr>
 			
 			
-		  	<td align="right" width="604"><font face="arial" size="1" color="#336633"><a href="http://www.ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(home)&amp;fc=ice&amp;JSPBASECREATOR=12150750512002Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1|1039967451068&amp;USSCommerce=Pfyk2w7xLSNMJ63NN0ewoobkzydTiiE8kFWL1hlmYlPXI6ovxGqC|7445659720296876736/167838013/6/7501/7501/7502/7502/7501/-1|4137252293402129012/167838004/6/7501/7501/7502/7502/7501/-1">Home</a> |  <a href="/wlcs/commerce/about/contact.jsp">Contact Us</a> | <a href="/wlcs/commerce/about/FAQ.jsp">FAQ's</a> | Privacy | <a href="/wlcs/commerce/about/security.jsp">Security</a> | <a href="/wlcs/commerce/about/about_us.jsp">About Us</a> | <a href="/wlcs/commerce/about/success.jsp">Success Stories</a> | <a href="/wlcs/commerce/about/sitemap.jsp">Site Map</a> | <a href="/wlcs/commerce/about/affil_prog.jsp">Affiliate</a> | <a href="/wlcs/commerce/about/investor/relations.jsp">Investor Relations</a></font></td>
+		  	<td align="right" width="604"><font face="arial" size="1" color="#336633"><a href="http://ussearch.com:80/wlcs/application/commercewf?origin=home.jsp&amp;event=link(home)&amp;fc=Normal_CCOff&amp;JSPBASECREATOR=06200134012003PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1|1056098041770&amp;USSCommerce=PvLG2ekdnetA0Mvnc1AZcA4WDx1daOQEQUpsOXq26SUTYzueW0P9|6448438302136932848/167838014/6/7501/7501/7502/7502/7501/-1|5106753103097257026/167838013/6/7501/7501/7502/7502/7501/-1">Home</a> |  <a href="/wlcs/commerce/about/contact.jsp">Contact Us</a> | <a href="/wlcs/commerce/about/FAQ.jsp">FAQ's</a> | Privacy | <a href="/wlcs/commerce/about/security.jsp">Security</a> | <a href="/wlcs/commerce/about/about_us.jsp">About Us</a> | <a href="/wlcs/commerce/about/success.jsp">Success Stories</a> | <a href="/wlcs/commerce/about/sitemap.jsp">Site Map</a> | <a href="/wlcs/commerce/about/affil_prog.jsp">Affiliate</a> | <a href="/wlcs/commerce/about/investor/relations.jsp">Investor Relations</a></font></td>
 			
 	    </tr>
 	
