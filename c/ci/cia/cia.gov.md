@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601123340id_/http%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cia.gov privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207065257id_/http%3A//www.cia.gov/cia/notices.html%23priv) for the most accurate reproduction.*
 
 # What's New at CIA
 
@@ -198,7 +198,7 @@ If you have any questions or comments about the information presented here, plea
 [Office of Public Affairs](https://web.archive.org/cia/public_affairs/pas.html)
 
 [Director of Central Intelligence](https://web.archive.org/dci/index.html)  
-[Intelligence Community](https://web.archive.org/ic/index.html)
+[Intelligence Community](http://www.intelligence.gov/)
 
 **  
 **[CIA Homepage](https://web.archive.org/index.html)**
