@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realtimeregister.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408234504id_/http%3A//www.realtimeregister.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtimeregister.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801094440id_/http%3A//www.realtimeregister.com/policy.php) for the most accurate reproduction.*
 
 # Disclaimer
 
