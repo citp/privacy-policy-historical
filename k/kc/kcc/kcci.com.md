@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kcci.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215172843id_/http%3A//www.theiowachannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcci.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621123059id_/http%3A//www.theiowachannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheIowaChannel.com - News
 
