@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204000500id_/http%3A//www.fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedex.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603235203id_/http%3A//www.fedex.com/us/privacypolicy.html) for the most accurate reproduction.*
 
 # FedEx | Copyrights and Trademarks
 
@@ -6,7 +6,7 @@
 
 FedEx Corporation acknowledges the importance of protecting the privacy of FedEx.com users. The information we collect is used to improve the services we offer, to improve our Web site’s content, and, with your permission, to contact you with updates to our web site or other marketing information. However, FedEx will not share any information obtained on this site with any other company or sell information obtained on this site to any company or marketing group external to FedEx.
 
-In addition, certain areas of FedEx.com, including but not limited to [FedEx interNetShip](https://www.fedex.com/cgi-bin/ship_it/interNetShip?us), [FedEx Returns Manager](https://web.archive.org/us/ebusiness/ecommerce/netreturn.html), [International Resource Center](https://web.archive.org/us/international), [FedEx Account Registration](https://web.archive.org/us/customer/openaccount/) and [FedEx eCommerce Builder ](http://mybiz.mainstreet-stores.com/) require registration or a password to enter them access. Information obtained through those sites may also be used for marketing purposes, and cookies may be used in those and other areas, as is described in this policy. Information obtained in the areas may also be used in accordance with agreements governing access to and use of the areas, e.g., FedEx interNetShip, FedEx NetReturn, etc. 
+In addition, certain areas of FedEx.com, including but not limited to [FedEx Ship Manager at fedex.com](https://www.fedex.com/cgi-bin/ship_it/interNetShip?us), [FedEx Returns Manager](https://web.archive.org/us/ebusiness/ecommerce/netreturn.html), [International Resource Center](https://web.archive.org/us/international), [FedEx Account Registration](https://web.archive.org/us/customer/openaccount/) and [FedEx eCommerce Builder ](http://mybiz.mainstreet-stores.com/) require registration or a password to enter them access. Information obtained through those sites may also be used for marketing purposes, and cookies may be used in those and other areas, as is described in this policy. Information obtained in the areas may also be used in accordance with agreements governing access to and use of the areas, e.g., FedEx Ship Manager at fedex.com, FedEx Returns Manager, etc. 
 
 **For more information on this Privacy Policy, please read below.**
 
@@ -30,7 +30,7 @@ The FedEx.com Web server uses an extended log file format which captures: date a
 
 **Is personal information requested?**
 
-There are currently five areas of FedEx.com which ask for personal information. They are: [Account Registration](https://web.archive.org/us/customer/openaccount), [FedEx interNetShip Registration](https://www.fedex.com/cgi-bin/ship_it/interNetRegister?us), [FedEx eCommerce Builder](http://mybiz.mainstreet-stores.com/), [FedEx® Ship Manager Software Download](https://web.archive.org/us/ebusiness/eshipping/ship.html) and [FedEx Returns Manager Registration](https://web.archive.org/us/ebusiness/ecommerce/netreturn.html). This list may be expanded without notice.
+There are currently five areas of FedEx.com which ask for personal information. They are: [Account Registration](https://web.archive.org/us/customer/openaccount), [FedEx Ship Manager at fedex.com Registration](https://www.fedex.com/cgi-bin/ship_it/interNetRegister?us), [FedEx eCommerce Builder](http://mybiz.mainstreet-stores.com/), [FedEx® Ship Manager Software Download](https://web.archive.org/us/ebusiness/eshipping/ship.html) and [FedEx Returns Manager Registration](https://web.archive.org/us/ebusiness/ecommerce/netreturn.html). This list may be expanded without notice.
 
 Even in those areas, only your name, address, email address, billing information, and business profile are requested. This information is collected to help us further develop our services, to provide you access to valuable FedEx Internet-based information and services, and to bill you for those services if you elect to use them. 
 
@@ -48,7 +48,7 @@ Parts of FedEx.com, such as the International Resource Center, consist of produc
 
 **Are cookies used?**
 
-Cookies are used to achieve two goals. The first is to provide FedEx with the capability to customize information for certain segments of its customer base. Secondly, in some instances, cookies are used to allow FedEx the opportunity to associate individual customers with their information profiles. As an example, through the use of cookies, the FedEx interNetShip "Easy Login" feature can automatically fill in key information, and in the process save you time.
+Cookies are used to achieve two goals. The first is to provide FedEx with the capability to customize information for certain segments of its customer base. Secondly, in some instances, cookies are used to allow FedEx the opportunity to associate individual customers with their information profiles. As an example, through the use of cookies, the FedEx Ship Manager at fedex.com "Easy Login" feature can automatically fill in key information, and in the process save you time.
 
 **What is a cookie?**
 
