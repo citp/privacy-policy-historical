@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413043646id_/http%3A//www.tickets.com/privacy_statement.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217230639id_/http%3A//www.tickets.com/privacy_statement.cgi) for the most accurate reproduction.*
 
 # Tickets.com - Privacy Statement
 
@@ -14,23 +14,6 @@ It is the Companies policy to allow our customers to control what personal infor
 
 
 
-Privacy Oversight Statement
-
-As a company, Tickets.com believes so strongly in protecting consumer privacy that we are a member of the BBB Online Privacy program. BBBOnline is a wholly owned subsidiary of the Council of Better Business Bureaus. BBBOnLine's mission is to promote trust and confidence on the Internet through, the BBBOnLine Reliability and the BBBOnLine Privacy programs.
-
-The BBBOnLine privacy program features verification, monitoring and review, consumer dispute resolution, a compliance seal, enforcement mechanisms and an educational component. 
-
-The BBBOnLine privacy program: 
-
-  * Awards a "seal" to businesses that post online privacy policies that meet the required "core" principles, such as disclosure, choice, and security.
-  * Provides consumer-friendly dispute settlement
-  * Monitors compliance through rigorous requirements for participating companies to undertake, at least annually, an assessment of their online privacy practices, and,
-  * Offers specific consequences for non-compliance, such as seal withdrawal, publicity and referral to government enforcement agencies.
-
-
-
-Our participation in the Privacy Program means we follow the basic principle of the program, "say what you do, do what you say and have it verified."
-
 Information Collection - Notice and Disclosure Statement
 
 From time to time, Tickets.com may ask customers to provide personal information that will help the Company efficiently perform various transactions. That information may be sought as you:
@@ -42,20 +25,16 @@ From time to time, Tickets.com may ask customers to provide personal information
 
 
 
-The Company does not collect personal information -- names, addresses, phone numbers, email addresses or credit card numbers -- about you except when you specifically provide such information on a voluntary basis; like, for instance, when you participate in our auction, purchase travel, sports or entertainment tickets, or make inquiries about ticket or reservation availability.
+The Company does not collect personal information -- names, addresses, phone numbers, email addresses or credit card numbers -- about you except when you specifically provide such information on a voluntary basis; like, for instance, purchase sports or entertainment tickets, or make inquiries about ticket or reservation availability.
 
 The Company may utilize your personal information in several discrete ways.
 
   * If you are purchasing sports or entertainment tickets, the Company utilizes your personal information to communicate with you about your ticket order or ticket inquiry. Also, as is always the case whenever you buy a ticket to a sports or entertainment event, the entertainment organization is entitled to know the name and address of all who purchased a ticket. The Company has no control whatsoever over the entertainment organization's use of that information.
-  * If you participate in our ticket auction, your Tickets.com username will be visible to anyone visiting the Company's web site, and your email address will be available to other members of Tickets.com in order to facilitate communication about tickets being bought and sold on the auction. At no time, unless you volunteer the same, will any third party know your actual name or any personal information about you. 
-  * If you are purchasing travel tickets, the Company utilizes your personal information to communicate with you about your travel plans, and the Company's in-house travel agency also provides information about you to airlines, rental car companies, hotels, and cruise lines, etc., in order to consummate your travel plans.
   * If you come to our web site from one of our strategic partners or register with us, your personal information provided to us may be shared with our strategic partners and used in accordance with their standard policies.
-  * As a valued customer of Tickets.com the Company will occasionally contact you, typically by email (or any other way you prefer) in order to notify you of special ticketing promotions, and up-to-date news, custom-tailored to your personal travel, sports, and entertainment interests. Of course, if you do not wish to receive this personalized information, you can always let us know by e-mailing us at [webfeedback@tickets.com](mailto:webfeedback@tickets.com), and we will happily abide by your wishes.
-  * Notwithstanding the foregoing, the Company reserves the right to contact you, utilizing your personal information, to inform you of information that might affect your travel, sports or entertainment experience.
+  * As a valued customer of Tickets.com the Company will occasionally contact you, typically by email (or any other way you prefer) in order to notify you of special ticketing promotions, and up-to-date news, custom-tailored to your personal sports, and entertainment interests. Of course, if you do not wish to receive this personalized information, you can always let us know by e-mailing us at [webfeedback@tickets.com](mailto:webfeedback@tickets.com), and we will happily abide by your wishes.
+  * Notwithstanding the foregoing, the Company reserves the right to contact you, utilizing your personal information, to inform you of information that might affect your sports or entertainment experience.
 
 
-
-Tickets.com users should be aware that if they voluntarily disclose personal information in the auction, chat areas, on bulletin boards, or in classified areas within the Company's web site, that information might be collected and disseminated by third-parties, and result in, among other things, unsolicited inquiries, messages, and offers from third-parties. This third-party conduct is out of the control of the Company.
 
 The Company uses your Internet Protocol (IP) address to help diagnose problems with our computer server, and to administer our web site. Your IP address is used to help identify you, and to gather broad demographic data. Your IP address contains no personal information about you.
 
