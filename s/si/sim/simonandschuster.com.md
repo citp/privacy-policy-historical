@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604073457id_/http%3A//simonandschuster.com/eupdatesp.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simonandschuster.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203031208id_/http%3A//www.simonandschuster.com/eupdatesp.cfm) for the most accurate reproduction.*
 
 # SimonSays.com
 
