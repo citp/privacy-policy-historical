@@ -1,11 +1,35 @@
-> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209180541id_/http%3A//www.afreecodec.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreecodec.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/privacypolicy.php) for the most accurate reproduction.*
 
-# afree Codec - The Worlds #1 Codec Source!
+# afreeCodec.com - The Worlds #1 Codec Source!
 
+[](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/index.php) |  |   
+|  |   
+|   
+|  |   
+|   
+|  |  |   
+|  |  [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/codecwizard.php) |  [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/userupload.php) |  [ ](http://www.afreesupport.com/) |  [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/afreecodecvt.php) |  [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/sponsors.php) |  |   
+|   
+|   
+|   
+|  |  |  | [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/index.php)  
+---|---  
+| [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/files.php?cat=2)  
+| [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/files.php?cat=3)  
+| [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/files.php?cat=4)  
+| [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/files.php?cat=5)  
+| [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/files.php?cat=6)  
+| [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/files.php?cat=7)  
+| [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/fourcc.php)  
+| [ ](https://web.archive.org/web/20050305221546id_/http%3A//www.afreecodec.com/wizard_video.php)  
+  
+|   
+---  
 | 
 
 **Advertisements**  
-We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
+We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you.
+ 
 
 **Our Commitment To Privacy**
 
@@ -27,8 +51,12 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-**Our Commitment To Data Security  
-**To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
-**Our Commitment To Children's Privacy  
-**Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13
-| 
+**Our Commitment To Data Security** **  
+** To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+**Our Commitment To Children's Privacy** **  
+** Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+|   
+  
+|   
+|   
+|  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
