@@ -1,20 +1,63 @@
-> *The following text is extracted and transformed from the plowhearth.com privacy policy that was archived on 2000-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000503120524id_/http%3A//www.plowhearth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plowhearth.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205234700id_/http%3A//www.plowhearth.com/security/index.asp) for the most accurate reproduction.*
 
-# Plow & Hearth - Products for Country Living
+# Your Security and Privacy
 
-|  |    
-**Security and Privacy**  
-Thank you for shopping with us here at www.plowhearth.com. We make great efforts to ensure that your credit card number and other personal data will be treated with the highest level of safety, security, and confidentiality. We've provided a place to shop which ensures that the privacy and security of your transactions are safe.
+  
+At Plow & Hearth, we recognize and respect the importance of maintaining the privacy of our customers and members and have established this Privacy Policy as a result. Below we describe why we gather customer and member information, what information we collect, how we collect it, what we use the information for and how you can instruct us if you prefer to limit the use of that information. 
 
-**Secure Shopping**  
-Orders placed on our site are encrypted using SSL technology, so you can rest easy - your transactions are protected. With SSL implemented on both the client and server, information sent via the Internet can be trusted to arrive privately and unadulterated to OUR server only. In order for SSL security to work, you must use an SSL-enabled browser. For more information about SSL, see Netscape's or Microsoft's website. 
+_Note: You must be 18 years or older to register as a member of www.plowhearth.com._
 
-Please note that email is not encrypted and is not considered a secure means of transmitting credit card numbers. To order online please following our shopping procedure. If you have questions please check out our list of [Frequently Asked Questions](https://web.archive.org/web/20000503120524id_/http%3A//www.plowhearth.com/faq.html). If you have questions not covered in our current set of Frequently Asked Questions please feel free to submit your question through our [online customer service form](https://web.archive.org/web/20000503120524id_/http%3A//www.plowhearth.com/contact.html). 
+**Why do we gather information?**  
+Since our inception, Plow & Hearth has consistently provided our customers with quality goods and excellent customer service. We gather personal information to allow us to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of special offers and discounts. 
 
-If you still have any concerns about ordering electronically, please call us at 1-800-494-7544 and place your order over the phone. Please have your item number, size and color ready for each item you wish to order.
+**What information do we gather?**  
+When you order from our Web site, we collect the following information: your name, telephone number, email address, billing information (credit card number, expiration date and billing address), products purchased, any relevant promotion code and information (for example if you are claiming frequent flyer miles) and, if relevant, the recipient's name, address and telephone number. Information you enter is collected even if you cancel or do not complete an order. Also, if you register as a member, we request your name, address, phone number, email address, title (gender), and other information set forth on the [Member Registration Page](https://web.archive.org/myshop/register.asp). 
 
-**Your Privacy Online**  
-We are committed to ensuring your privacy as a customer. You can be confident we will not sell or exchange names, or any other information about our online customers, with third parties. As a visitor to our website www.plowhearth.com we automatically recognize your Internet service provider, but you cannot be identified as an individual internet user. For customers who make a purchase at our online store we do collect Data about which pages our visitors visit the most. We use this information to improve your overall online shopping experience. We also keep track of information volunteered during the process - and we keep this information confidential. We do not keep your credit card information on file. 
+**How we use "cookies"**  
+A "cookie" is a small file stored on your computer by a Web site that gives you a numeric user ID and stores certain information about your activity on the site. We use cookies to let us know if you are a previous customer and also to provide certain features to you, such as storing information on your product selections as you shop on our site. We do not store any personal or financial information about you (except your name) using cookies.
 
-**Our Catalog Mailing List**  
-For print catalog customers, we may, on occasion, share a portion of our mailing list with other reputable organizations. If you do not want your name and address shared with other organizations, please contact us at 1-800-494-7544. If you do not wish to receive Plow & Hearth catalogs or prefer receiving a limited number of our catalogs, please contact us at 1-800-494-7544. You may also contact us via our [contact form](https://web.archive.org/web/20000503120524id_/http%3A//www.plowhearth.com/contact.html).
+Most web browsers automatically accept cookies, and most also allow you to instruct your browser to prevent the use of cookies. However, if you disable this feature certain aspects of www.plowhearth.com, such as the shopping basket, will not function properly.
+
+**How we use the information we collect about you.**  
+We use information we collect from you to process your orders, to provide an enhanced and more personalized shopping experience and to inform you of offers and discounts from Plow & Hearth, or other sites and companies owned by our parent company, 1800Flowers.com. In addition, we periodically make such information available to selected third parties including but not limited to, those who trade or rent information for direct marketing purposes. However, we do not make your email addresses available to third parties (except for our parent company 1800Flowers.com and its subsidiaries and subcontractors or agencies acting on our behalf in compliance with this Privacy Policy), although we may do so in the future. If we do, we will first amend this policy. If you would like us to email you a notice when our Privacy Policy or Terms of Use change, please follow the instructions below. You may instruct us not to share information with third parties by following the instructions provided below. 
+
+**Links**  
+Plow & Hearth wants you to be aware that when you click on links and/or ad banners that take you to third-party Web sites, you will be subject to the third parties' privacy policies, not ours. While we support the protection of privacy on the Internet, we cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement and user terms and conditions whenever interacting with, and prior to providing any personal information to, any other Web site. 
+
+**Your Security**  
+Our Web site encrypts your credit card number prior to transmission over the Internet using secure socket layer (SSL) encryption technology. This technology works best when the site is viewed using Microsoft's Internet Explorer or Netscape Navigator. 
+
+However, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure. Although we make reasonable efforts to safeguard your personal information once we receive it, we cannot warrant the security of information you transmit to us. 
+
+**How to limit the use of your information**  
+If you prefer not to have us provide information about you to third parties, please let us know by: 
+
+  1. Writing to:
+
+Customer Satisfaction Department  
+Plow & Hearth  
+P.O. Box 5000  
+Madison, VA 22727
+
+If you have a catalog, brochure or other mailing label from us, please include it with your request, otherwise just include your mailing address. 
+
+  2. Emailing [info@plowhearth.com](mailto:info@plowhearth.com) (please include your mailing address)
+
+or
+
+  3. Calling our Customer Satisfaction Department at 1-800-494-7544. 
+
+**In addition, if you also prefer not to receive further product information and promotional mailings/emails from Plow & Hearth based on information you provided to Plow & Hearth, please indicate this in your instructions to us and please include your mailing address and email address. Unless you indicate otherwise in the email or letter you send us or by phone, we will continue to provide you with information that we believe will interest you about our own products and promotions and those of other sites and companies in the 1800Flowers.com family.**
+
+Your instructions will apply to information collected by Plow & Hearth, not to information collected on other Web sites or companies owned by 1800Flowers.com. If you are a user of any of those Web sites and wish to opt-out in a similar manner with respect to those sites, please go to those sites, click on the Privacy Policy link or banner and follow the instructions.
+
+Your instructions to limit the use of your information will be processed as soon as reasonably practicable. 
+
+**Corrections**  
+If you would like to update or correct information previously provided to us, please send an e-mail with your new information to [info@plowhearth.com](mailto:info@plowhearth.com).
+
+**Your Consent and Changes to this Policy**  
+Subject to the above provisions, by using our Web site, you consent to the collection and use of information by us and the terms of this Privacy Policy. We may change our Privacy Policy from time to time and we will post those changes so that you are always aware of what information we collect, how we use it, and under what circumstances we may disclose it. In addition, if you would like notice of changes to the Privacy Policy or Terms of Use, email us at [info@plowhearth.com](mailto:info@plowhearth.com) from the email address to which you would like notice sent.
+
+**Your Comments**  
+Plow & Hearth welcomes feedback concerning its privacy policy. Please send your comments and questions to [info@plowhearth.com.](mailto:info@plowhearth.com)
