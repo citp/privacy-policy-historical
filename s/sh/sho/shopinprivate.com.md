@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shopinprivate.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603184914id_/http%3A//www.shopinprivate.com/buyinprivate/youriniskepp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopinprivate.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201025916id_/http%3A//www.shopinprivate.com/buyinprivate/youriniskepp.html) for the most accurate reproduction.*
 
 # The Privacy Policy At Shopinprivate.com
 
-[](http://store4.yimg.com/I/buyinprivate_1637_12963554)
+[](http://store4.yimg.com/I/buyinprivate_1662_7055582)
 
 When you place an order with Shopinprivate.com you are trusting us with your personal information. We take this trust very seriously. This policy describes how we keep your personal information private. **
 
