@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruise.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206230911id_/http%3A//www.cruise.com/misc_pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruise.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307213334id_/http%3A//www.cruise.com/misc_pages/privacy.html) for the most accurate reproduction.*
 
 # CRUISE.COM - Privacy Policy - Cruise discounts, cruise deals and discount cruise vacations from the web's largest seller of discount cruises.
 
