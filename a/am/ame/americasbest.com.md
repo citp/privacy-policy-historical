@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205062116id_/http%3A//americasbest.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasbest.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152638id_/http%3A//www.americasbest.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-AmericasBest.com & T-Rex Productions, Inc. is committed to protecting the privacy of our users. We want to provide a safe, secure, and enjoyable user experience. We will use our best efforts to ensure that the information you submit to us is used only for the purposes as set forth below.
+AmericasBest Industries, Inc. is committed to protecting the privacy of our users. We want to provide a safe, secure, and enjoyable user experience. We will use our best efforts to ensure that the information you submit to us is used only for the purposes as set forth below.
 
 What information does AmericasBest.com collect from me?
 
@@ -23,10 +23,10 @@ AmericasBest.com does not specifically collect information about children. If yo
 
 What about privacy commitment changes?
 
-If AmericasBest.com decides to change our privacy commitment, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our privacy commitment, please feel free to email us at privacy@americasbest.com or call 1-888-550-8739
+If AmericasBest.com decides to change our privacy commitment, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. If, at any time, you have questions or concerns about our privacy commitment, please feel free to email us at [privacy@americasbest.com](mailto:privacy@americasbest.com)
 
 What else should I know about my privacy? 
 
 Please keep in mind that whenever you voluntarily disclose personal information that information can be collected and used by others. You are solely responsible for maintaining the secrecy of your online information. Please be careful and responsible whenever you're online. 
 
-Thank you for using the AmericasBest.com network of sites.
+Thank you for using the AmericasBest Industries, Inc. network of sites.
