@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612191548id_/http%3A//www.silive.com/userguide/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silive.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207151900id_/http%3A//silive.com/userguide/index.ssf%3Fprivacy.html) for the most accurate reproduction.*
 
-# Staten Island Live - Forums
+# Staten Island Live - User Guide
 
 **Staten Island Live Privacy Policy**
 
