@@ -1,23 +1,21 @@
-> *The following text is extracted and transformed from the eurocheapo.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205247id_/http%3A//eurocheapo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurocheapo.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206154452id_/http%3A//www.eurocheapo.com/privacy.asp) for the most accurate reproduction.*
 
 # Cheap Hotels Europe: euroCHEAPO's Guide to Cheap Hotels in Europe
 
 |   
 ---  
   **FIND HOTELS**  
- TOP HOTELS  
- HOSTELS  
   **GET AROUND**  
  [ **CHEAP FLIGHTS**](http://www.bookitcheap.com/)  
  [ **RAIL PASS INFO**](http://www.qksrv.net/click-1051872-1205410)  
- [ **RENTAL CARS**](https://web.archive.org/paris/cars.asp)  
+ [ **CAR RENTAL**](https://web.archive.org/cars/)  
  [ **CITY TRANSIT**](https://web.archive.org/paris/transit.asp)  
  [ **LINKS**](https://web.archive.org/links/links.asp)  
   **euroCHEAPO**  
  [ **USING THE SITE**](https://web.archive.org/using.asp)  
  [ **CONTACT US**](https://web.archive.org/contact.asp)  
  [ **CUST. SUPPORT**](https://web.archive.org/support/)  
-  **CHANGE CITIES**  
+ [ **SITE MAP**](https://web.archive.org/sitemap.asp)  
 |  |  |   
 ---|---|---  
   
@@ -38,21 +36,29 @@ We do not use cookies on this site.
 Please [contact us](mailto:comments@euroCHEAPO.com?subject=Privacy) with any security or privacy concerns.   
   
 |  |    
-**The Return of the Cheapos**   
-Tom, Kari and Marina, our three undercover editors, recently returned (4/26) from Spain where they checked out over 300 hotels in Barcelona and Madrid. 
+**euroCHEAPO News**   
+Thursday, Jan. 30, 2020 NEW! **EuroCheapo Poll!**   
+What city would you like to see EuroCheapo add next? We need your advice! **[VOTE](https://web.archive.org/listings/)**
 
-We posted over 40 new Barcelona reviews on May 7, and 40 Madrid reviews on May 21. Olé! 
+**Enfin! Paris Reviews!**   
+We recently returned from Paris and have just updated _ALL_ of our [Paris reviews](https://web.archive.org/paris/). We've added 12 new hotels, dropped five, and rewritten 40! 
 
-**WHAT IS THIS?**   
-EuroCHEAPO is the free Internet guide to sleeping cheap in Europe. We want one thing: to find the best cheap hotels and discounted hotels in Paris. 
+**Watch out, Vienna!**   
+Our editors are packing their bags again and getting ready for our November trip to Vienna, Salzburg, and Hamburg! New reviews (and new cities!) by New Years! 
 
-EuroCHEAPO investigators show up unannounced at hotels all over Europe, check out the rooms, check out the prices, and get a feel for the place. 
+**Driving Concerns**   
+On our last trip to Italy, we paid too much for our rental car. Now we've done our homework and figured out the best deals for [renting a car in Europe](https://web.archive.org/cars/). 
+
+**What is This?**   
+EuroCheapo is the free Internet guide to sleeping cheap in Europe. We want one thing: to find the best cheap hotels and discounted hotels in Paris. 
+
+EuroCheapo investigators show up unannounced at hotels all over Europe, check out the rooms, check out the prices, and get a feel for the place. 
 
 If we like it, we snap a photo, write a (sometimes sassy) review, and list the hotel on our site. Plus we give you full, up to date information, so that you can book a room immediately. 
 
 We want you to find the best hotels for your budget in Europe. 
 
-EuroCHEAPO-Sleep Smart. Sleep Cheap. 
+EuroCheapo-Sleep Smart. Sleep Cheap. 
 
 **[SEE WHAT OUR READERS HAVE TO SAY ABOUT US](https://web.archive.org/letters.asp)**
 
