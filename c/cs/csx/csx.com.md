@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206082944id_/http%3A//csx.com/index.cfm%3Ffuseaction%3Dcompany.privacypolic) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csx.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607094615id_/http%3A//csx.com/index.cfm%3Ffuseaction%3Dcompany.privacypolic) for the most accurate reproduction.*
 
 # Welcome to CSX
 
