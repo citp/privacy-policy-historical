@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cancerresearchuk.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215652id_/http%3A//www.cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cancerresearchuk.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207211608id_/http%3A//www.cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
 
 # Cancer Research UK: Privacy statement
 
@@ -14,21 +14,17 @@ The types of information collected might include names, date of birth, e-mail ad
 
 **How do we use this information?**
 
-We will use your personal information to provide you with the services, products or information you have requested, for administration purposes and to further our charitable aims. We may need to share your information with our service providers, associated organisations and agents for these purposes.
+We will use your personal information to provide you with the services, products or information you have requested, for administration purposes and to further our charitable aims, including for fundraising activities. We may need to share your information with our service providers, associated organisations and agents for these purposes.
 
-We may share your information with other organisations who are supportive of our aims and objectives. When you provide your details you will be asked if you do not want this to happen. You can change your mind at any time by contacting us at the postal or email address above.
+We may share your information with other organisations who are supportive of our aims and objectives. We only use your personal information for direct marketing purposes if we are allowed to do this by law or if we have your consent. You can change your mind at any time by contacting Customer Services at Cancer Research UK, 10 Cambridge Terrace, London NW1 4JL or email [customer.services@cancer.org.uk](mailto:customer.services@cancer.org.uk).
 
 **Do we use 'Cookies' ?**
 
-'Cookies' are small pieces of information sent by an organisation to your computer and stored on your hard drive to allow that organisation to recognise the user when you next visit.
+'Cookies' are small pieces of information stored on the hard drive of a user's computer which contain information about the user.
 
-Cancer Research UK may store information about you and your activity in cookies. If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. 
+Cancer Research UK use session cookies to ensure that you can interact with our web sites successfully. These will record data entered by you so that it is available from one screen to the next, but it is not recorded or held by us after you leave our web sites. These session cookies exist only as long as the browser remains open. Once the browser is closed, the cookie is deactivated. 
 
-Our cookies will have the files names [abc.txt and xyz.txt]. If you want to stop cookies being stored on your computer in future, please refer to your internet browser's instructions by clicking "Help" in its menu.
-
-Futher information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/).
-
-Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas of our site.
+If you want to prevent our cookies being stored on your computer in future, you may do so by referring to your internet browser's instructions. You can do this by clicking on the "Help" menu. Please note however that if you disable our cookies you may not be able to access certain areas of our site. Further information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/ "About cookies website, this link opens in a new window").
 
 **How do we protect personal information?**
 
@@ -55,3 +51,9 @@ You have the right to ask for a copy of the information we hold about you (for w
 If your personal details change, please help us to keep your information up to date by notifying us at the above address.
 
 We reserve the right to amend this privacy statement. If we do so, we will post notice of the change on our website and you will be deemed to have accepted such changes.
+
+**Cancer information nurses**
+
+If you contact the [cancer information nurses](http://www.cancerresearchuk.org/aboutcancer/contactournurses), you may choose to provide details of a personal nature. Only the cancer information nurses use your personal information and only for the purposes of dealing with your enquiry/enquiries. They will not pass on your details to anyone else without your express permission.
+
+Your personal information and details of the enquiries received are stored on a secure database. If for any reason you wish to have your personal details removed from their records, please contact the cancer information nurses. 
