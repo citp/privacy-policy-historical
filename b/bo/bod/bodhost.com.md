@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodhost.com privacy policy that was archived on 2003-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031005131422id_/http%3A//bodhost.com/html/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodhost.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205190310id_/http%3A//bodhost.com/html/privacy_policy.htm) for the most accurate reproduction.*
 
 # :: Welcome ::
 
