@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813015001id_/http%3A//www.idg.com.hk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cw.com.hk privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605052617id_/http%3A//www.idg.com.hk/about/privacy) for the most accurate reproduction.*
 
 # IDG Communications - Hong Kong : Privacy
 
@@ -24,7 +24,7 @@ If you have questions or concerns regarding this statement, please contact us at
 
 Customer Service - Online Privacy  
 IDG Communications (HK) Ltd  
-Suite 1701, K. Wah Centre  
+Suite 601, K. Wah Centre  
 191 Java Road, North Point  
 Hong Kong  
 Tel: +(852) 2861-3238  
@@ -34,6 +34,8 @@ E-mail: [webmasterhk@idg.com.hk](mailto:webmasterhk@idg.com.hk)
 ### What information does IDG Hong Kong's Web sites collect and how is it used?
 
 IDG Hong Kong's Web sites collects optional data supplied by visitors to our web site through registration, surveys, sweepstakes or contests, as well as information that we gather from visitors via our server log, such as. IP addresses, access date and time, browser type and version, referrer URLs of all visitors. This data is used solely for the purpose of analyzing traffic on IDG Hong Kong's Web sites. This information enables us to better tailor our content to your interests, and to help our advertisers better understand the audience they are reaching. Our site is completely free, and is supported by paid advertisements and it is therefore critically important for us to be able to identify our audience. Information is only shared with advertisers or any other third parties in aggregate form. We are also firmly committed to identifying whether information presented on our sites is written by our editorial staff or is contributed by a user or vendor.
+
+If we are going to use your personally identifiable information in a manner different from that stated at the time of collection we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
 **IP Addresses**
 
@@ -95,10 +97,6 @@ Although DoubleClick does share with IDG Hong Kong non-personally identifiable i
 
 IDG Hong Kong has several partners that produce IDG Hong Kong branded services. Information that is shared with or collected at partner sites is used to provide the services that the user selects at that site. Communication by our partners with IDG Hong Kong customers is limited to the services that our customers select. For example, if a customer requests to be notified when information on a selected topic becomes available, the partner site may contact our customers. Customers are given the option to discontinue services at any time. Additionally a user name and password may be shared with partner sites for the purpose of logging a customer in to an IDG Hong Kong's service hosted in another domain. If desired, customers may choose to exclude the sharing of this information during the registration process, or by modifying their profile and service selections. Our partner sites currently include: 
 
-**Partner / service provider**
-
-Backflip 
-
 **Co-branded service**
 
 @myMail.IDG.com.hk
@@ -114,7 +112,7 @@ The decision to share your personal information is taken very seriously by our t
 
 Customer Service - Online Privacy  
 IDG Communications (HK) Ltd  
-Suite 1701, K. Wah Centre  
+Suite 601, K. Wah Centre  
 191 Java Road, North Point  
 Hong Kong  
 Tel: +(852) 2861-3238  
