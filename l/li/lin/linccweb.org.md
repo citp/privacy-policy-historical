@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623074353id_/http%3A//linccweb.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linccweb.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203025022id_/http%3A//www.ccla.lib.fl.us/privacy.asp) for the most accurate reproduction.*
 
-# CCLA - Privacy Statement
+# College Center for Library Automation - Privacy Statement
 
 LINCCWeb ([ _www.linccweb.org_](https://web.archive.org/linccweb/)) and the CCLA Web site ([ _www.ccla.lib.fl.us_](https://web.archive.org/ccla/)) are provided by the College Center for Library Automation (CCLA).
 
@@ -42,7 +42,7 @@ Back to Top
 
 **Links to Other Web Sites**
 
-Once you link from CCLA's Web sites to another site, you are subject to the privacy policy of the new site. Such linking does not constitute CCLA's endorsement of the new site's privacy policy. Please refer to [CCLA's Terms of Use Statement](https://web.archive.org/web/20030623074353id_/http%3A//linccweb.org/terms_of_use.asp#links) for more information about links from CCLA's Web sites to other Web sites.
+Once you link from CCLA's Web sites to another site, you are subject to the privacy policy of the new site. Such linking does not constitute CCLA's endorsement of the new site's privacy policy. Please refer to [CCLA's Terms of Use Statement](https://web.archive.org/web/20031203025022id_/http%3A//www.ccla.lib.fl.us/terms_of_use.asp) for more information about links from CCLA's Web sites to other Web sites.
 
 Back to Top
 
