@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034926id_/http%3A//thirdage.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirdage.com privacy policy that was archived on 2004-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040625235710id_/http%3A//www.thirdage.com/about/privacy.html) for the most accurate reproduction.*
 
 # ThirdAge - About Us - Privacy Statement
 
-Privacy Policy for www.ThirdAge.com  
+|  |   | 
+
+**Privacy Policy for www.ThirdAge.com**  
 
 
 **1\. General**  
@@ -19,11 +21,9 @@ When you do provide us with personally-identifiable information, ThirdAge may:
   * Disclose that information to third parties when we believe in good faith that the law requires it; and
   * Disclose that information to third parties when we believe in good faith that such action is necessary to enforce the [Terms of Service](http://www.thirdage.com/about/terms.html). 
 
-
-
 Except as stated in this Privacy Policy, or as otherwise stated at the time personally-identifiable information is gathered, we will not provide personally-identifiable information to third parties, although certain non-personally-identifiable user information may be provided in aggregate form to third parties. 
 
-In case you would like to remove or change some personally-identifiable information, you may do so by visiting your member services page or contacting our Customer Support Department at support@thirdage.com. (Remember, however, that removing some or all of your personally-identifiable information may limit your ability to access some or all of the features and services of the Web Site.) In addition, to keep you in control of your personally-identifiable information and the communications directed to you, we allow you to opt-out of receiving communications from ThirdAge about new Web Site features or ThirdAge services. You may opt-out of these services by contacting our Customer Support Department at support@thirdage.com. 
+In case you would like to remove or change some personally-identifiable information, you may do so by visiting your member services page or contacting our [Customer Support Department](https://web.archive.org/research/help/). (Remember, however, that removing some or all of your personally-identifiable information may limit your ability to access some or all of the features and services of the Web Site.) In addition, to keep you in control of your personally-identifiable information and the communications directed to you, we allow you to opt-out of receiving communications from ThirdAge about new Web Site features or ThirdAge services. You may opt-out of these services by contacting our [Customer Support Department](https://web.archive.org/research/help/). 
 
 Some of our services or promotions are offered through an affiliation with another company in what we call a "co-branded" area of our site or through a co-sponsored promotion, and visitor information may be shared with those partners and/or sponsors. If you request information about or from our partners or sponsors, or visit a co-branded or sponsor-specific area of the site, you give ThirdAge permission to provide information about you (such as your e-mail address) to the partner or sponsor. 
 
@@ -56,7 +56,12 @@ As we continue to develop our business, we might sell or buy stores or assets, o
 By using the Web Site, you signify your assent to the ThirdAge Privacy Policy and the Web Site's Terms of Service. If you do not agree to this Policy or the Terms of Service, please do not use the Web Site. Your continued use of the Web Site following the posting of changes to these terms will mean you accept those changes. 
 
 **11\. Whom to Contact**  
-If you have questions or concerns regarding this Privacy Policy, the practice of this Web Site, your dealings with this Web Site, or would like to notify us of an alleged infringement of copyrights, you should contact ThirdAge by mail at: ThirdAge Inc., 585 Howard Street, First Floor, San Francisco, CA 94105; or by e-mail at support@thirdage.com. 
+If you have questions or concerns regarding this Privacy Policy, the practice of this Web Site, your dealings with this Web Site, or would like to notify us of an alleged infringement of copyrights, you should contact ThirdAge by mail at: ThirdAge Inc., 585 Howard Street, First Floor, San Francisco, CA 94105; or through our [contact form](http://thirdage.com/research/help/). 
 
 **12\. Ad Serving**  
 The ads appearing on ThirdAge.com are delivered to you by DoubleClick, our Web advertising partner. In the course of serving advertisements onto ThirdAge.com, DoubleClick may also place or recognize unique Cookies on your browser. Information about your visit to ThirdAge.com, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies and how to "opt-out," please click [here](http://www.doubleclick.net/us/corporate/privacy). 
+
+  
+
+
+The Moon enters Libra, the Scales, at 6:49 am EDT, reminding us to live our lives harmoniously. But it may be difficult to find balance now as Mercury the Messenger forms a supportive sextile aspect with expansive Jupiter, signaling ... **[More>](https://web.archive.org/horo/forecasts/daily/index.html)**
