@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203040641id_/http%3A//www.flights.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606025445id_/http%3A//www.flights.com/privacy.htm) for the most accurate reproduction.*
 
-# Flights.com - discount airline tickets, cheap flights,hotels,car rentals, cruises, and more
+# Flights.com - discount airline tickets, cheap flights, airfare, hotels, cars, cruises, hostels, insurance
 
 **Your details are secure with ** _flights. com_****
 
@@ -34,9 +34,7 @@ If you have any questions about this privacy statement, the practices of this si
 Flights.com ****  
 96 Engle Street  
 Englewood, New Jersey  07631  
-Tel:          201-541-3867, 201-541-3826  
-Fax:         201-541-3829  
-eMail:      elt.express@verizon.net
+
 
   
 
