@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604031144id_/http%3A//nursezone.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursezone.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201231309id_/http%3A//www.nursezone.com/privacy.asp) for the most accurate reproduction.*
 
 # NurseZone - Privacy Statement
 
@@ -7,11 +7,11 @@
 
 
   
-**W** e are committed to safeguarding your online privacy whether you are a nurse, technologist, administrator or general visitor to our Web site. As a result, we have made the commitment not to disclose any of your personal information to third parties without your consent. Please read the following policy to understand how we collect personal information from you and how we use and protect the information. Since this policy may change from time to time, we recommend that you refer to it regularly.  
+We are committed to safeguarding your online privacy whether you are a nurse, technologist, administrator or general visitor to our Web site. As a result, we have made the commitment not to disclose any of your personal information to third parties without your consent. Please read the following policy to understand how we collect personal information from you and how we use and protect the information. Since this policy may change from time to time, we recommend that you refer to it regularly.  
   
 **Who We Are**  
   
-The _NurseZone_ site is a health care information career site on the World Wide Web. The _NurseZone_ site is a health care information and career site on the World Wide Web. NurseZone is a division of AMN Healthcare, which is the largest travel health care staffing organization in the United States. You can learn more about AMN Healthcare by clicking on [www.amnhealthcare.com](http://www.amnhealthcare.com/).  
+The _NurseZone_ site is a health care information and career site on the World Wide Web. _NurseZone_ is a division of AMN Healthcare, which is the largest travel health care staffing organization in the United States. You can learn more about AMN Healthcare by clicking on [www.amnhealthcare.com](http://www.amnhealthcare.com/).  
   
 **How to Reach Us**  
   
@@ -43,7 +43,7 @@ In addition, we provide links to third party Web sites that offer continuing edu
   
 _Career Center._ In order to use our career placement center, which includes recruitment and placement of nurses, we require that you be registered with our site. We ask you to provide us with your name, e-mail address, nursing specialty or discipline and some other general information. In connection with our career center services, we will offer you the opportunity to be contacted by one of our career advisors. Should you choose to be contacted, a career advisor will contact you via your e-mail address or telephone number on record. In addition, our Career Center contains a "Create A Résumé" program which enables our registered users to create and print résumés and post them on our site. Our site will enable the user to e-mail the résumé only to us at _NurseZone_. We may forward the résumé via e-mail or facsimile without the nurse's name, address or other personally identifiable information, to selected health care facilities only upon the prior request or consent of the nurse. In addition, each user who posts a résumé on our site will be assigned a unique URL number. Should a user provide the URL number to third parties other than _NurseZone_ , we cannot and do not guarantee your privacy. We urge you not to disclose your URL number to anyone.  
   
-_Bulletin Board._ We offer a bulletin board that permits posting opportunities for our registered users. Please see our [Terms of Use](https://web.archive.org/web/20020604031144id_/http%3A//nursezone.com/terms.asp) before using the bulletin board and make sure to post only information that you are comfortable sharing.  
+_Bulletin Board._ We offer a bulletin board that permits posting opportunities for our registered users. Please see our [Terms of Use](https://web.archive.org/web/20021201231309id_/http%3A//www.nursezone.com/terms.asp) before using the bulletin board and make sure to post only information that you are comfortable sharing.  
   
 _Correspondence._ You will be required to provide your e-mail address when you register for our weekly e-mail newsletter. The newsletter provides nurses with a variety of information on topics we believe would be of interest to you. Again, your name and e-mail address are not shared with any third parties. There may be other times when we request or acquire your e-mail address, such as when you send us an e-mail with questions or comments. We will use only your e-mail address to respond to e-mails from you, forward and send your e-mails to and from other registered users and internal _NurseZone_ employees who may be able to respond to you, send information to you concerning your account, and inform you of updates to our Web site. We do not share e-mail addresses or any other personal information about our registered users with advertisers, business partners, sponsors or other third parties except to provide services you have requested.  
   
