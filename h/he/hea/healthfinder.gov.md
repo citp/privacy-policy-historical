@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2000-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000512015458id_/http%3A//healthfinder.gov/aboutus/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthfinder.gov privacy policy that was archived on 2001-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010204062500id_/http%3A//www.healthfinder.gov/aboutus/privacy.htm) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -33,6 +33,6 @@ For site security purposes and to ensure that this service remains available to 
 Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided.
 
 **IHC disclosure statement**  
-healthfinder® also provides an [IHC disclosure statement](https://web.archive.org/web/20000512015458id_/http%3A//healthfinder.gov/aboutus/ihcdisclosure.htm) as recommended by the Science Panel on Interactive Communication and Health.
+healthfinder® also provides an [IHC disclosure statement](https://web.archive.org/web/20001208042600id_/http%3A//www.healthfinder.gov/aboutus/ihcdisclosure.htm) as recommended by the Science Panel on Interactive Communication and Health.
 
-You may also wish to review our [disclaimer](https://web.archive.org/web/20000512015458id_/http%3A//healthfinder.gov/aboutus/disclaimer.htm).
+You may also wish to review our [disclaimer](https://web.archive.org/web/20001208042600id_/http%3A//www.healthfinder.gov/aboutus/disclaimer.htm).
