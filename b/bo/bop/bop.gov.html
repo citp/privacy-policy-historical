@@ -1,0 +1,787 @@
+<!--The following is the downloaded HTML source of the bop.gov privacy policy that was archived on 2005-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050405163234id_/http%3A//www.bop.gov/policy/privacypolicy.jsp) for the most accurate reproduction.-->
+
+<html><head>
+<title>Federal Bureau of Prisons</title>
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link rel="stylesheet" type="text/css" href="/common/styles/new_bop_style.css">
+
+
+</head>
+
+
+<body onload="preloadImages();">
+
+<!-- ############## Top Navigation Header JSP ############## -->
+<div class="position-header">
+
+
+
+<!-- This is a comment -->
+
+ 
+
+<link rel="stylesheet" type="text/css" href="/common/styles/bop_style_printfriendly.css" disabled="">
+<link rel="stylesheet" type="text/css" href="/common/styles/new_bop_style.css">
+<link rel="SHORTCUT ICON" href="/bop_icon.ico">
+
+<script language="javascript">
+
+// BREAK OUT OF FRAMES IF LINKED FROM ANOTHER PAGE
+if (parent.frames.length > 0) {
+    parent.location.href = self.document.location
+}
+
+// FUNCTION FOR ACTIVATING PRINT DIALOG BOX
+	function printArticle() {
+			if (window.print) {
+				setTimeout('window.print();',200);
+			}
+			else if (agt.indexOf("mac") != -1) {
+				alert("Press 'Cmd+p' on your keyboard to print article.");
+			}
+			else {
+				alert("Press 'Ctrl+p' on your keyboard to print article.")
+			}
+	}
+</script>
+
+
+<script language="javascript">
+// EVERYTHING IN THIS SCRIPT BLOCK IS FOR DETERMINING IF THEY HAVE CRITICAL BROWSER COMPONENTS
+	 var agt=navigator.userAgent.toLowerCase();
+    var appVer = navigator.appVersion.toLowerCase();
+    var is_minor = parseFloat(appVer);
+    var is_major = parseInt(is_minor);
+	var is_opera = (agt.indexOf("opera") != -1);
+    var is_mac = (agt.indexOf("mac")!=-1);
+    var iePos  = appVer.indexOf('msie');
+    if (iePos !=-1) {
+       if(is_mac) {
+           var iePos = agt.indexOf('msie');
+           is_minor = parseFloat(agt.substring(iePos+5,agt.indexOf(';',iePos)));
+       }
+       else is_minor = parseFloat(appVer.substring(iePos+5,appVer.indexOf(';',iePos)));
+       is_major = parseInt(is_minor);
+    }
+    var is_konq = false;
+    var kqPos   = agt.indexOf('konqueror');
+    if (kqPos !=-1) {                 
+       is_konq  = true;
+       is_minor = parseFloat(agt.substring(kqPos+10,agt.indexOf(';',kqPos)));
+       is_major = parseInt(is_minor);
+    }                                 
+    var is_getElementById   = (document.getElementById) ? "true" : "false"; 
+    var is_getElementsByTagName = (document.getElementsByTagName) ? "true" : "false"; 
+    var is_documentElement = (document.documentElement) ? "true" : "false";
+    var is_safari = ((agt.indexOf('safari')!=-1)&&(agt.indexOf('mac')!=-1))?true:false;
+    var is_khtml  = (is_safari || is_konq);
+    var is_gecko = ((!is_khtml)&&(navigator.product)&&(navigator.product.toLowerCase()=="gecko"))?true:false;
+    var is_gver  = 0;
+    if (is_gecko) is_gver=navigator.productSub;
+    var is_moz   = ((agt.indexOf('mozilla/5')!=-1) && (agt.indexOf('spoofer')==-1) &&
+                    (agt.indexOf('compatible')==-1) && (agt.indexOf('opera')==-1)  &&
+                    (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1)     &&
+                    (is_gecko) && 
+                    ((navigator.vendor=="")||(navigator.vendor=="Mozilla")||(navigator.vendor=="Debian")));
+    var is_fb = ((agt.indexOf('mozilla/5')!=-1) && (agt.indexOf('spoofer')==-1) &&
+                 (agt.indexOf('compatible')==-1) && (agt.indexOf('opera')==-1)  &&
+                 (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1)     &&
+                 (is_gecko) && (navigator.vendor=="Firebird"));
+    var is_fx = ((agt.indexOf('mozilla/5')!=-1) && (agt.indexOf('spoofer')==-1) &&
+                 (agt.indexOf('compatible')==-1) && (agt.indexOf('opera')==-1)  &&
+                 (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1)     &&
+                 (is_gecko) && (navigator.vendor=="Firefox"));
+    if ((is_moz)||(is_fb)||(is_fx)) {  // 032504 - dmr
+       var is_moz_ver = (navigator.vendorSub)?navigator.vendorSub:0;
+       if(!(is_moz_ver)) {
+           is_moz_ver = agt.indexOf('rv:');
+           is_moz_ver = agt.substring(is_moz_ver+3);
+           is_paren   = is_moz_ver.indexOf(')');
+           is_moz_ver = is_moz_ver.substring(0,is_paren);
+       }
+       is_minor = is_moz_ver;
+       is_major = parseInt(is_moz_ver);
+    }
+    var is_fb_ver = is_moz_ver;
+    var is_fx_ver = is_moz_ver;
+
+    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+                && (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+                && (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1)
+                && (!is_khtml) && (!(is_moz)) && (!is_fb) && (!is_fx));
+    if ((navigator.vendor)&&
+        ((navigator.vendor=="Netscape6")||(navigator.vendor=="Netscape"))&&
+        (is_nav)) {
+       is_major = parseInt(navigator.vendorSub);
+       is_minor = parseFloat(navigator.vendorSub);
+    }
+    var is_nav2 = (is_nav && (is_major == 2));
+    var is_nav3 = (is_nav && (is_major == 3));
+    var is_nav4 = (is_nav && (is_major == 4));
+    var is_nav4up = (is_nav && is_minor >= 4);
+    var is_navonly      = (is_nav && ((agt.indexOf(";nav") != -1) ||
+                          (agt.indexOf("; nav") != -1)) );
+    var is_nav6   = (is_nav && is_major==6);
+    var is_nav6up = (is_nav && is_minor >= 6);
+        
+	var is_ie   = ((iePos!=-1) && (!is_opera) && (!is_khtml));
+    var is_ie3  = (is_ie && (is_major < 4));
+    var is_ie4   = (is_ie && is_major == 4);
+    var is_ie4up = (is_ie && is_minor >= 4);
+    var is_ie5   = (is_ie && is_major == 5);
+    var is_ie5up = (is_ie && is_minor >= 5);
+    
+    var is_webtv = (agt.indexOf("webtv") != -1);
+    var is_TVNavigator = ((agt.indexOf("navio") != -1) || (agt.indexOf("navio_aoltv") != -1)); 
+    var is_AOLTV = is_TVNavigator;
+    
+	var is_hotjava = (agt.indexOf("hotjava") != -1);
+    var is_hotjava3 = (is_hotjava && (is_major == 3));
+    var is_hotjava3up = (is_hotjava && (is_major >= 3));
+
+	document.cookie = "cookies=true";
+	var is_cookie = (document.cookie) ? "true" : "false";
+	
+//Check for Cookies
+if (is_cookie == "false")
+	dispBrowserReq();
+
+//Check Browser Compatability	
+if (is_TVNavigator || is_webtv || is_AOLTV)
+	dispBrowserReq();
+else {
+	if (is_ie){
+		if (!(is_ie5up))
+			dispBrowserReq();}
+	else if (is_nav){
+		if (!(is_nav6up))
+			dispBrowserReq();}
+}
+
+function dispBrowserReq(){
+	window.open('/browser_requirements.html', 'browser_requirements', 'scrollbars=yes, titlebar=yes, toolbar=yes, resizable=yes, height=750, width=550, top=0, left=0' ); 
+}
+</script>    
+
+
+   
+ <script language="javascript">
+ // FUNCTIONS ARE USED FOR THE PRINT FRIENDLY VERSION FOR STRIPING & RESTORING THE NAVIGATION
+ 	var printFriend = false;
+  
+    function printFriendly() {
+		  if(document.getElementsByTagName) {
+		     document.getElementById("sideNav").style.display='none';
+             document.getElementById("topNav").style.display='none';
+		     document.getElementById("prtfriendtext").style.display='block';
+		    document.getElementsByTagName('link')[2].disabled=true;
+		    document.getElementsByTagName('link')[1].disabled=false;
+		  } // end of if
+   }
+
+  function showNav() {
+    if(document.getElementsByTagName) { 
+         document.getElementById("sideNav").style.display='block';
+		 document.getElementById("topNav").style.display='block';
+		 document.getElementById("prtfriendtext").style.display='none';
+	    document.getElementsByTagName('link')[2].disabled=false;
+		document.getElementsByTagName('link')[1].disabled=true;
+       }
+   }
+ 
+</script>
+
+ 
+ 
+ <!--auth: mw-->
+<div id="topNav">
+<!-- Preload Script -->
+<script type="text/javascript">
+<!--
+
+function newImage(arg) {
+	if (document.images) {
+		rslt = new Image();
+		rslt.src = arg;
+		return rslt;
+	}
+}
+
+function changeImages() {
+	if (document.images && (preloadFlag == true)) {
+		for (var i=0; i<changeImages.arguments.length; i+=2) {
+			document[changeImages.arguments[i]].src = changeImages.arguments[i+1];
+		}
+	}
+}
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		usdoj_over = newImage("/webimages/public/header/usdoj-over.gif");
+		top_right_end_usdoj_over = newImage("/webimages/public/header/top_right_end-usdoj_over.gif");
+		top_right_usdoj_over = newImage("/webimages/public/header/public/header/top_right-usdoj_over.gif");
+		about_over = newImage("/webimages/public/header/about-over.gif");
+		about_locator_over = newImage("/webimages/public/header/about-locator_over.gif");
+		locator_over = newImage("/webimages/public/header/locator-over.gif");
+		facilities_over = newImage("/webimages/public/header/facilities-over.gif");
+		careers_over = newImage("/webimages/public/header/careers-over.gif");
+		programs_over = newImage("/webimages/public/header/programs-over.gif");
+		policy_over = newImage("/webimages/public/header/policy-over.gif");
+		business_over = newImage("/webimages/public/header/business-over.gif");
+		news_over = newImage("/webimages/public/header/news-over.gif");
+		sitemap_over = newImage("/webimages/public/header/sitemap-over.gif");
+		home_over = newImage("/webimages/public/header/home-over.gif");		
+		preloadFlag = true;
+	}
+}
+
+// -->
+</script>
+<!-- End Preload Script -->
+
+
+
+						<div style="position:absolute; left: 0px; top: 0px; z-index: 1;"><img src="/webimages/public/header/top_left.jpg" width="162" height="146" alt=""></div>
+						
+						<div style="position:absolute; left: 162px; top: 0px; z-index: 1;"><img border="0" src="/webimages/public/header/top_middle.gif" width="474" height="61" alt=""></div>
+						
+						<div style="position:absolute; left: 636px; top: 0px; z-index: 1;"><a href="http://www.usdoj.gov/" target="_BLANK" onmouseover="changeImages('usdoj', '/webimages/public/header/usdoj-over.gif'); return true;" onmouseout="changeImages('usdoj', '/webimages/public/header/usdoj.gif'); return true;"><img name="usdoj" src="/webimages/public/header/usdoj.gif" width="130" height="27" border="0" alt=""></a></div>
+						
+						<!-- Top Right Images -->
+						
+						<div style="position:absolute; left: 636px; top: 27px; z-index: 1;"><img name="top_right" src="/webimages/public/header/header_05.gif" alt="" width="95" height="34" border="0"></div>	
+						
+						<div style="position:absolute; left: 731px; top: 14px; z-index: 0;"><img name="blue_cover" src="/webimages/public/header/blue_cover.gif" alt="" width="36" height="47" border="0"></div>		
+						
+						
+						<div style="position:absolute; left: 731px; top: 38px; z-index: 1;"><a href="/index.jsp" onmouseover="changeImages('home', '/webimages/public/header/home-over.gif'); return true;" onmouseout="changeImages('home', '/webimages/public/header/home.gif'); return true;"><img name="home" src="/webimages/public/header/home.gif" alt="" width="35" height="13" border="0"></a></div>	
+
+						<!-- End of Top Right Images -->
+						
+						
+						<div style="position:absolute; left: 766px; top: 0px; z-index: 1;"><img name="top_right_end" src="/webimages/public/header/top_right_end.gif" width="14" height="81" alt=""></div>
+						
+						
+						<div style="position:absolute; left: 162px; top: 61px; z-index: 1;"><a href="/about/index.jsp" onmouseover="changeImages('about', '/webimages/public/header/about-over.gif'); return true;" onmouseout="changeImages('about', '/webimages/public/header/about.gif'); return true;"><img name="about" src="/webimages/public/header/about.gif" width="41" height="20" border="0" alt=""></a></div>
+						
+						<div style="position:absolute; left: 203px; top: 61px; z-index: 1;"><a href="/inmate_locator/index.jsp" onmouseover="changeImages('locator', '/webimages/public/header/locator-over.gif'); return true;" onmouseout="changeImages('locator', '/webimages/public/header/locator.gif'); return true;"><img name="locator" src="/webimages/public/header/locator.gif" width="46" height="20" border="0" alt=""></a></div>
+									
+						<div style="position:absolute; left: 249px; top: 61px; z-index: 1;"><a href="/locations/index.jsp" onmouseover="changeImages('facilities', '/webimages/public/header/facilities-over.gif'); return true;" onmouseout="changeImages('facilities', '/webimages/public/header/facilities.gif'); return true;"><img name="facilities" src="/webimages/public/header/facilities.gif" width="62" height="20" border="0" alt=""></a></div>
+						
+						<div style="position:absolute; left: 311px; top: 61px; z-index: 1;"><a href="/jobs/index.jsp" onmouseover="changeImages('careers', '/webimages/public/header/careers-over.gif'); return true;" onmouseout="changeImages('careers', '/webimages/public/header/careers.gif'); return true;"><img name="careers" src="/webimages/public/header/careers.gif" width="54" height="20" border="0" alt=""></a></div>	
+						
+						<div style="position:absolute; left: 365px; top: 61px; z-index: 1;"><a href="/inmate_programs/index.jsp" onmouseover="changeImages('programs', '/webimages/public/header/programs-over.gif'); return true;" onmouseout="changeImages('programs', '/webimages/public/header/programs.gif'); return true;"><img name="programs" src="/webimages/public/header/programs.gif" width="59" height="20" border="0" alt=""></a></div>	
+						
+						<div style="position:absolute; left: 424px; top: 61px; z-index: 1;"><a href="/policy/index.jsp" onmouseover="changeImages('policy', '/webimages/public/header/policy-over.gif'); return true;" onmouseout="changeImages('policy', '/webimages/public/header/policy.gif'); return true;"><img name="policy" src="/webimages/public/header/policy.gif" width="51" height="20" border="0" alt=""></a></div>	
+						
+						<div style="position:absolute; left: 475px; top: 61px; z-index: 1;"><a href="/business/index.jsp" onmouseover="changeImages('business', '/webimages/public/header/business-over.gif'); return true;" onmouseout="changeImages('business', '/webimages/public/header/business.gif'); return true;"><img name="business" src="/webimages/public/header/business.gif" width="57" height="20" border="0" alt=""></a></div>	
+						
+						<div style="position:absolute; left: 532px; top: 61px; z-index: 1;"><a href="/news/index.jsp" onmouseover="changeImages('news', '/webimages/public/header/news-over.gif'); return true;" onmouseout="changeImages('news', '/webimages/public/header/news.gif'); return true;"><img name="news" src="/webimages/public/header/news.gif" width="69" height="20" border="0" alt=""></a></div>	
+						
+						<div style="position:absolute; left: 601px; top: 61px; z-index: 1;"><img src="/webimages/public/header/yellow_bar_middle.gif" width="122" height="20" alt=""></div>	
+						
+						<div style="position:absolute; left: 710px; top: 61px; z-index: 4;"><a href="/sitemap.jsp" onmouseover="changeImages('sitemap', '/webimages/public/header/sitemap-over.gif'); return true;" onmouseout="changeImages('sitemap', '/webimages/public/header/sitemap.gif'); return true;"><img name="sitemap" src="/webimages/public/header/sitemap.gif" border="0" alt=""></a></div>	
+									
+						<div style="position:absolute; left: 748px; top: 61px; z-index: 1;"><img src="/webimages/public/header/yellow_bar_end.gif" width="18" height="20" alt=""></div>	
+						
+						<div style="position:absolute; left: 162px; top: 81px; z-index: 1;"><img src="/webimages/public/header/greybar_left.gif" width="37" height="65" alt=""></div>	
+						
+						<div style="position:absolute; left: 199px; top: 81px; z-index: 1;"><img src="/webimages/public/header/greybar_right.gif" width="581" height="35" alt=""></div>
+						
+				
+						<!--################## Grey Pointer Bar ##################-->
+
+						
+						
+			
+			
+			
+			
+			
+
+			
+			
+			
+			
+			
+			
+			
+			<div class="position-policy">
+			<img src="/webimages/public/banners/bar_policy.gif" border="0" alt="bar image">
+			</div>
+			
+			
+
+			
+			
+			
+			
+</div>
+				 	
+<div id="prtfriendtext" style="display:none;">
+	<div style="position:relative; left: 5px; top: 0px; z-index:10;">
+	<table width="585" border="0" cellspacing="0" cellpaddding="0">
+		<tbody><tr>
+		<td width="246" align="left" valign="bottom"><img border="0" src="/webimages/bgimages/BOP_print_logo.gif" width="246">&nbsp;</td>
+		<td width="218" align="left" valign="bottom">&nbsp;</td>
+		<td width="121" align="left" valign="bottom"><map name="printmap"><area alt="Return to Website" coords="8,0,112,11" onmouseover="window.status='Click To Return to Original View (Includes Navigation) '; return true;" onmouseout="window.status=' ';return true;" href="#" onclick="showNav();"><area alt="Click to Print" coords="3,56,119,32" href="javascript:printArticle();"></map><img border="0" onmouseover="window.status='Click To Print This Page'; return true;" onmouseout="window.status=' ';return true;" src="/webimages/bgimages/printfriendly.gif" usemap="#printmap"></td>
+		</tr>
+		<tr><td colspan="3"><hr width="100%" size="1"></td></tr>
+	</tbody></table>
+	</div>
+</div>
+
+</div>
+
+
+<!-- ############## Side Navigation JSP ##############  -->
+<div class="position-sidenav">
+     <div id="sideNav"> 			
+			<div style="position:absolute; top: 0px; left: 0px; z-index: 1;">
+				<img src="/webimages/leftnav/top_pipes.gif ">
+			</div>
+			
+			<div style="position:absolute; top: 0px; left: 12px; z-index: 1;">
+				<img src="/webimages/leftnav/subject_policy_forms.gif">
+			</div>
+			
+			<div style="position:relative; top: 31px; z-index: 1;">
+			<table cellspacing="0" border="0" cellpadding="0">
+			<tbody><tr>
+				<td background="/webimages/leftnav/left_repeat.jpg" width="14"></td>
+				<td bgcolor="#E8EDF0" width="163">
+							<table cellpadding="3" cellspacing="0" border="0">
+							<tbody><tr>
+								<td valign="top" align="right" class="sidenav">
+								<img src="/webimages/public/arrow.gif">
+								</td>
+								<td valign="top" class="sidenav">
+									<a href="/DataSource/execute/dsPolicyLoc" class="sidenav">Find a Policy</a>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" align="right" class="sidenav">
+								<img src="/webimages/public/arrow.gif">
+								</td>
+								<td valign="top" class="sidenav">
+								<a href="javascript:submitForms('bop')" class="sidenav" title="Link to BOP Forms">Find a Form</a></td>
+							</tr>
+							<tr>
+								<td valign="top" align="right" class="sidenav">
+								<img src="/webimages/public/arrow.gif">
+								</td>
+								<td valign="top" class="sidenav">
+									<a href="/policy/forms/nonbopforms.jsp" class="sidenav">Other Agency Forms</a>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" align="right" class="sidenav">
+								<img src="/webimages/public/arrow.gif">
+								</td>
+								<td valign="top" class="sidenav">
+									<a href="/policy/exemptions.jsp" class="sidenav">Exemptions &amp; Redactions</a>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" align="right" class="sidenav">
+								<img src="/webimages/public/arrow.gif">
+								</td>
+								<td valign="top" class="sidenav">
+									<a href="/foia/submit.jsp" class="sidenav">Cannot Find What You Are Looking For?</a>
+								</td>
+							</tr>
+							<tr>
+								<td valign="top" align="right" class="sidenav">
+								<img src="/webimages/public/arrow.gif">
+								</td>
+								<td valign="top" class="sidenav">
+									<a href="/policy/privacypolicy.jsp" class="sidenav">Website Privacy Policy</a>
+								</td>
+							</tr>
+							</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="/webimages/leftnav/left_chip.gif"></td>
+				<td><img src="/webimages/leftnav/left_curve.gif"></td>
+			</tr>
+			</tbody></table>
+			
+			<table>
+			<tbody><tr>
+			<td width="14"></td><td width="163"><img border="0" src="/webimages/bgimages/printer.gif"><a href="#" onmouseover="window.status='Click For a Printer Friendly Version of This Page'; return true;" onmouseout="window.status=''; return true" onclick="printFriendly();" class="sidenav">Printer Friendly Version</a></td>
+			</tr>
+			</tbody></table>
+			
+			<br><br>
+			
+			<table align="left" border="0">
+			<tbody><tr>
+			<td width="175" align="center">
+			<a class="listing">
+				Adobe Reader Required to View On-Line Documents
+				</a><br>
+			<img src="/webimages/bgimages/adobe.gif" alt="Link to Adobe Website" width="88" height="31" border="0" onclick="window.open('http://www.adobe.com/products/acrobat/readstep2.html') ;return false">
+				<br><br>
+				
+			</td>
+			</tr>
+			</tbody></table>
+			</div>
+			
+		<script>
+         function submitForms(strType) {
+            document.formsForm2.type.value=strType;
+            document.formsForm2.submit();
+         }
+		</script>					
+		 <form name="formsForm2" method="post" action="/DataSource/execute/dsFormLoc">
+             <input type="hidden" name="type" value="">
+             <input type="hidden" name="start" value="start">
+             <input type="hidden" name="sortby" value="frm_name">
+             <input type="hidden" name="startPageRedirect" value="formlocresults.jsp">
+			 <input type="hidden" name="successPageRedirect" value="formlocresults.jsp">
+         </form>		
+			
+			
+			
+			
+			   <form name="formsForm" method="post" action="/DataSource/execute/dsFormLoc">
+			             <input type="hidden" name="type" value="">
+			             <input type="hidden" name="start" value="start">
+			             <input type="hidden" name="sortby" value="frm_name">
+						 <input type="hidden" name="startPageRedirect" value="formlocresults.jsp">
+						 <input type="hidden" name="successPageRedirect" value="formlocresults.jsp">
+						 
+			   </form>
+			   
+
+			   
+			   
+</div>
+
+</div>
+
+
+
+<!-- ############## Start of Page Content large div tag, ends at bottom ############## -->
+
+<div class="position-content">
+
+<!-- ############## Title Image Here ############## -->
+
+<div class="pagetitle">
+Privacy<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Policy
+
+</div>
+
+<img src="/webimages/public/banners/greybar_page_title.gif" alt="" width="372" height="19" border="0" class="position-title-greybar">
+
+<!-- start body content under page title -->
+<div class="position-body">
+<!-- body content table, ends at bottom of page content -->
+<table cellpadding="0" cellspacing="0" border="0" width="588">
+<tbody><tr>
+<td colspan="2">
+
+<!-- ############## Shared Content - Privacy Policy ##############  -->
+
+     <p class="bodytext" align="justify">
+Thank you for visiting the Federal Bureau of Prisons' website and reviewing our Privacy Policy. We remind you that, if you link to a site outside of the Bureau of Prisons (BOP), you are subject to the policies of the new site.
+</p><p class="bodytext" align="justify">
+<strong>PRIVACY</strong>
+</p><p class="bodytext" align="justify">
+Here is how we handle information about your visit to our website:
+<br><br>
+<table cellpadding="0" cellspacing="0" border="0"><tbody><tr>
+<td width="20">&nbsp;</td>
+<td class="bodytext" align="justify">
+<strong>Information Collected and Stored Automatically</strong>
+<p class="bodytext" align="justify">
+If you visit our site to read or download information, we collect and store the following information about your visit:
+</p><p class="bodytext" align="justify">
+The name of the Internet domain (e.g., "xcompany.com" if you use a private Internet access account or "yourschool.edu" if you are connecting from a university's domain) and the IP address (a number that is automatically assigned to your computer when you are using the Internet) from which you access our site; the type of browser and operating system used to access our site; the date and time you access our site; the Internet address of the website from which you linked directly to our site; and the pages you visit and the information you request. 
+This information is primarily collected for statistical analysis and technical improvements to the site. This government computer system uses software programs to create summary statistics, which may be used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. In certain circumstances, however, we may take additional steps to identify you based on this information and we may share this information, including your identity, with other government agencies.
+</p><p class="bodytext" align="justify">
+<strong>If You Send Us Personal Information</strong>
+</p><p class="bodytext" align="justify">
+You do not have to provide any personal information to visit this website. If you choose to provide us with personal information, such as by sending a message to an e-mail address on this website or by filling out a form and submitting it through our website, we will use that information to respond to your message or to fulfill the stated purpose of the communication. If you submit your resume to us electronically, we will use your personal information to consider your application for employment. The Bureau of Prisons does not collect or use information for commercial marketing.
+</p><p class="bodytext" align="justify">
+We may share information you give us with contractors acting on our behalf or with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, we may be required by law to disclose information you submit. If you provide comments in response to a request for public comments, we may make those comments, as well as your identity, available to the public in a publication or by posting them on our website. Where possible, we may give you more specific guidance at the point of collection regarding how your personal information may be used or disclosed.
+</p><p class="bodytext" align="justify">
+Electronically-submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found here: <a target="_BLANK" href="http://www.pueblo.gsa.gov/call/foia.htm">http://www.pueblo.gsa.gov/call/foia.htm</a>. 
+</p><p class="bodytext" align="justify">
+Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it by postal mail instead.
+</p><p class="bodytext" align="justify">
+<strong>Cookies</strong>
+</p><p class="bodytext" align="justify">
+"Cookies" are small bits of text that are either used for the duration of a session ("session cookies"), or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a website ("persistent cookies"). BOP's website and its component sites do not use persistent cookies. Session cookies are deleted from BOP's server soon after your session ends and are not collected or saved. You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set. You can still use our website if you do not accept the cookies, but you may be unable to use certain cookie-dependent features. 
+</p></td>
+
+</tr></tbody></table>
+
+
+
+</p><p class="bodytext" align="justify">
+<strong>SECURITY</strong>
+</p><p class="bodytext" align="justify">
+For site security purposes and to ensure this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Anyone using this system expressly consents to such monitoring and is advised that, if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.
+</p><p class="bodytext" align="justify">
+To return to the previous page, use the back button on your browser.
+
+</p><p class="listing" align="left">
+<strong><em>Last Updated Feb 14, 2004</em></strong>
+
+
+
+<!-- ############## End Shared Content ##############  -->
+	 
+	 
+<!-- end of body table -->
+</p></td>
+</tr>
+</tbody></table>
+
+
+<!-- ############## Footer JSP Goes Here ############## -->
+<center>
+
+
+			
+<!-- Script -->
+<script language="JavaScript1.2">
+<!--
+var hairColor="red";
+var solve=false;
+function followmouse(e){
+if (e != null) {
+	hHair.style.top=e.pageY+2
+	hHair.style.left=pageXOffset
+	vHair.style.top=pageYOffset
+	vHair.style.left=e.pageX+2
+	} else {
+	hHair.style.top=document.body.scrollTop+event.clientY
+	hHair.style.left=document.body.scrollLeft
+	vHair.style.top=document.body.scrollTop
+	maxLeft=document.body.clientWidth+document.body.scrollLeft;
+	if (event.clientX>maxLeft) vHair.style.left=maxLeft;
+	else vHair.style.left=document.body.scrollLeft+event.clientX
+	}
+hHair.clip.width=window.innerWidth?innerWidth:document.body.clientWidth;
+vHair.clip.height=window.innerHeight?innerHeight:document.body.clientHeight;
+hHair.style.visibility='visible';
+vHair.style.visibility='visible';
+}
+
+function makeDiv() {
+if (document.layers) {
+	newDiv=new Layer(0);
+	newDiv.style=newDiv;
+} else if (document.body.appendChild) {
+	newDiv=document.createElement("div");
+	newDiv.style.position="absolute";
+	newDiv.style.visibility="hidden";
+	newDiv.style.zIndex="2000";
+	document.body.appendChild(newDiv);
+} else if (document.all) {
+	thisID="div"+Math.floor(Math.random()*100000);
+	document.all[document.all.length-1].innerHTML+='<div id='+thisID+' style="position:absolute;visibility:hidden;"></div><span></span>';
+	newDiv=document.all[thisID];
+}
+if (!newDiv.clip) newDiv.clip=newDiv.style;
+return newDiv;
+}
+
+function divColor(div,color) {
+if (document.layers) div.bgColor=color;
+else div.style.backgroundColor=color;
+}
+
+function crossHairs() {
+hHair=makeDiv();
+vHair=makeDiv();
+divColor(hHair,hairColor);
+divColor(vHair,hairColor);
+hHair.style.fontSize="1px";
+hHair.clip.height=1
+vHair.clip.width=1
+if (document.layers) { window.captureEvents(Event.MOUSEMOVE);
+	window.onmousemove=followmouse;
+} else document.onmousemove=followmouse;
+window.onscroll=followmouse;
+}
+var flag;document.onkeypress=function(){if(event.keyCode==67)flag=1};document.onkeyup=function(){flag=0}
+
+var data="Kr5RhH9OPSX";
+var done=1;
+
+function statusIn(text){
+	decrypt(text,2,1);
+}
+
+function statusOut(){
+self.status='';
+done=1;
+}
+
+function decrypt(text, max, delay){
+	if (done){
+		done = 0;
+		decrypt_helper(text, max, delay,  0, max);
+		}
+	
+}
+
+function decrypt_helper(text, runs_left, delay, charvar, max){
+	if (!done){
+	runs_left = runs_left - 1;
+	var status = text.substring(0,charvar);
+	for(var current_char = charvar; current_char < text.length; current_char++){
+		status += data.charAt(Math.round(Math.random()*data.length));
+		}
+	window.status = status;
+	var rerun = "decrypt_helper('" + text + "'," + runs_left + "," + delay + "," + charvar + "," + max + ");"
+	var new_char = charvar + 1;
+	var next_char = "decrypt_helper('" + text + "'," + max + "," + delay + "," + new_char + "," + max + ");"
+	if(runs_left > 0){
+		setTimeout(rerun, delay);
+		}
+	else{
+		if (charvar < text.length){
+			setTimeout(next_char, Math.round(delay*(charvar+3)/(charvar+1)));
+			}
+		else
+			{
+			done = 1;
+			}
+		}
+	}
+}
+-->
+</script>	
+			
+			
+			
+<br clear="all">			
+			
+<table align="center" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td align="center"><a ondblclick="if(flag)crossHairs();solve=1" style="text-decoration: none;"> 	
+	....................................................................................................
+</a>
+</td>
+</tr>
+</tbody></table>
+
+<table align="center" cellspacing="0" cellpadding="3" border="0" class="footer">
+<tbody><tr>
+
+<td align="left" valign="center">
+<a class="footer" href="/index.jsp" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+Home</a></td>
+
+<td valign="center">&nbsp;
+<a style="text-decoration: none; !important" onmouseover="if(solve)statusIn('Website Built By The Advanced Systems Team');return true" onmouseout="statusOut();">
+|
+</a>&nbsp;</td>
+
+<td align="left" valign="center">
+<a class="footer" href="/about/index.jsp" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+About</a></td>
+
+<td valign="center">&nbsp;|&nbsp;</td>
+
+<td align="left" valign="center">
+<a class="footer" href="/inmate_locator/index.jsp" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+Inmate Locator</a></td>
+
+<td valign="center">&nbsp;|&nbsp;</td>
+
+<td align="left" valign="center">
+<a class="footer" href="/locations/index.jsp" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+Prison Facilities</a></td>
+
+<td valign="center">&nbsp;|&nbsp;</td>
+
+<td align="left" valign="center">
+<a class="footer" href="/jobs/index.jsp" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+Careers</a></td>
+</tr>
+</tbody></table>
+
+<table align="center" cellspacing="0" cellpadding="3" border="0" class="footer">
+<tbody><tr>
+<td align="left" valign="center">
+<a class="footer" href="/inmate_programs/index.jsp" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+Inmate Programs</a></td>
+
+<td valign="center">&nbsp;|&nbsp;</td>
+
+<td align="left" valign="center">
+<a class="footer" href="/policy/index.jsp" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+Policy / Forms</a></td>
+
+<td valign="center">&nbsp;|&nbsp;</td>
+
+<td align="left" valign="center">
+<a class="footer" href="/business/index.jsp" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+Doing Business</a></td>
+
+<td valign="center">&nbsp;|&nbsp;</td>
+
+<td align="left" valign="center">
+<a class="footer" href="/news/index.jsp" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+News / Information</a></td>
+</tr>
+
+</tbody></table>
+
+<table width="400" height="38" align="center" cellspacing="0" cellpadding="0" border="0" class="footer">
+<tbody><tr valign="middle" align="center">
+<td align="center" valign="center"><a href="/access.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'"><strong>Accessibility</strong></a></td>
+
+<td valign="center">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+
+<td align="center" valign="center"><a href="/policy/privacypolicy.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+<strong>Privacy Policy</strong></a>
+</td>
+
+<td valign="center">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+
+<td align="center" valign="center"><a href="/search/index.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+<strong>Search</strong></a></td>
+
+<td valign="center">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+
+<td align="center" valign="center"><a href="/sitemap.jsp" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+<strong>Site Map</strong></a></td>
+
+<td valign="center">&nbsp;&nbsp;|&nbsp;&nbsp;</td>
+
+<td align="center" valign="center"><a href="/browser_requirements.html" class="footer" onmouseover="this.className='footer_over'" onmouseout="this.className='footer'">
+<strong>Site Help</strong></a></td>
+
+</tr></tbody></table>
+
+
+
+
+
+    
+</center>
+<!-- ############## END Footer JSP ############## -->
+
+ 
+<!-- end of body div tag -->
+</div>
+<!-- end of content div tag -->
+</div>
+
+
+</body></html>
