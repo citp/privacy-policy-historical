@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205003412id_/http%3A//www.cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raceforlife.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602215652id_/http%3A//www.cancerresearchuk.org/utilities/privacy) for the most accurate reproduction.*
 
 # Cancer Research UK: Privacy statement
 
@@ -28,7 +28,7 @@ Our cookies will have the files names [abc.txt and xyz.txt]. If you want to stop
 
 Futher information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/).
 
-Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas of our site. 
+Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas of our site.
 
 **How do we protect personal information?**
 
