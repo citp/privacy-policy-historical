@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622083238id_/http%3A//www.bmc.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmc.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210092531id_/http%3A//www.bmc.com/legal/privacy.html) for the most accurate reproduction.*
 
 # BMC Software
 
