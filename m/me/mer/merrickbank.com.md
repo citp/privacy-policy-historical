@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merrickbank.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207181622id_/http%3A//www.merrickbank.com/privacy.tcl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merrickbank.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603093948id_/http%3A//www.merrickbank.com/privacy.tcl) for the most accurate reproduction.*
 
 # Merrick Bank
 
@@ -57,6 +57,6 @@ Keeping customer account information accurate is important to us. If you have re
 **Thanks for Choosing Merrick Bank:**  
 Thank you for choosing Merrick Bank to provide you with the products and services you have selected. We appreciate your business and are committed to providing you confidential service. 
 
-[Click here for a printer friendly version](https://web.archive.org/web/20031207181622id_/http%3A//www.merrickbank.com/privacy.tcl?print_friendly=%5fprinter%5ffriendly&title=Privacy)
+[Click here for a printer friendly version](https://web.archive.org/web/20040603093948id_/http%3A//www.merrickbank.com/privacy.tcl?print_friendly=%5fprinter%5ffriendly&title=Privacy)
 
 |  | 
