@@ -1,20 +1,7 @@
-> *The following text is extracted and transformed from the connectwise.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411210630id_/http%3A//www.connectwise.com/main.cfm%3Fpageid%3D247) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectwise.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204215556id_/http%3A//www.connectwise.com/main.cfm%3Fpageid%3D247) for the most accurate reproduction.*
 
 # ConnectWise - Privacy Statement
 
-  
-| » |  Translate this this page from...  
-  
-  
----|---  
-  
-  
-» | **[Contact us](https://web.archive.org/web/20010411210630id_/http%3A//www.connectwise.com/main.cfm?action=getpage&pageid=250&contactabout=Privacy%20Statement) **  
-Click to contact us about:  
-"Privacy Statement"  
-  
----|---  
-  
 | 
 
 ## Privacy Statement for ConnectWise.com
@@ -73,7 +60,4 @@ This site gives users the following options for changing and modifying informati
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact ConnectWise, Inc. |  | 
-
-Your business can rely on ConnectWise. We've been serving customers in the Tampa Bay area [since 1982](http://www.connectwise.com/main.cfm?action=getpage&pageid=272). You need a long-term partner. ConnectWise will be there.  
-
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact ConnectWise, Inc.
