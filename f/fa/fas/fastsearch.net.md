@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastsearch.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204231528id_/http%3A//www.fastsearch.net/us/company/privacy_information) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastsearch.net privacy policy that was archived on 2005-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050310174157id_/http%3A//www.fastsearch.net/us/company/privacy_information) for the most accurate reproduction.*
 
 # Fast Search & Transfer - Home / Company / Privacy information
 
