@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the king5.com privacy policy that was archived on 2002-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021222201650id_/http%3A//www.king5.com/registration/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the king5.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622011852id_/http%3A//www.king5.com/registration/privacy) for the most accurate reproduction.*
 
 # KING5.COM | PRIVACY POLICY
 
