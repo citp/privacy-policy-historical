@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603162033id_/http%3A//ldonline.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2002-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021019110107id_/http%3A//www.ldonline.org/privacy_policy.html) for the most accurate reproduction.*
 
 # LD Online Privacy Policy
 
@@ -85,6 +85,9 @@ Arlington, Va 22206
 **10\. Acceptance of the LD OnLine Privacy Policy**
 
 By using this site, you signify your agreement to the terms and conditions of this LD OnLine Privacy Policy. If you do not agree to these terms and conditions, please do not use this site. 
+
+  
+
 
 © Copyright 1996-2002 [WETA](http://www.weta.org/). [Privacy Policy](http://www.ldonline.org/privacy_policy.html)   
 [Donate to LD OnLine](https://www2.weta.org/?d=dec01ld)
