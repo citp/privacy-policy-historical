@@ -1,17 +1,55 @@
-> *The following text is extracted and transformed from the redtag.ca privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606052715id_/http%3A//www.korax.net/info/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redtag.ca privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206183059id_/http%3A//www.redtag.ca/privacy.html) for the most accurate reproduction.*
 
-# Korax Web Services
+# Red Tag Vacations - Shop, Compare and Pay Less
 
-Korax makes all reasonable efforts to safeguard customer information, and does not disseminate customer information without consent to any third party under any circumstances. Korax does not sell or distribute customer or user E-mail address lists to marketers, "spammers", or any other individual or organization. All information can be completely removed on request when the customer closes an account or when a user stops utilizing a free service. 
+  
+  
 
-## Customer information
 
-Korax collects contact information from all web hosting and server co-location customers for the purpose of identity verification and billing. Information collected at time of signup that identifies an individual includes contact person name and e-mail address. If the account is opened on behalf of an individual and not a company, personally identifying information also includes street address and phone number. This information is stored securely and separately from all other information, and is viewable and editable by the customer through a secure web form that is protected by a unique user name login and password combination that the customer must have in order to gain access to the information. This information is strictly for Korax' internal use to maintain customer services, and is never viewable or useable by any outside party. 
+##  Privacy
 
-The customer can add additional contact persons once an account is opened for the purpose of assigning loosely defined roles within an organization, such as "Billing contact" and "Technical contact". The only information required by Korax when a customer adds a new contact person that may identify that person as an individual is the person's name and a working e-mail address; however, the customer can optionally add up to three separate phone numbers and a fax number. Contact persons can be completely removed from the system by the customer at any time. For purposes of identifying who has legal ownership of an account at Korax, at least one contact person with all roles defined and a working e-mail address must exist for an account. 
+  
+Your privacy is important to us. Any information that we collect online or via the telephone is done to provide you with the best website experience possible. We use your IP address to help diagnose problems with our server, and to administer our Web site. 
 
-If a customer enters a credit card when signing up, the credit card will be stored securely so that future charges can be applied should the customer order additional services. The customer always has access to credit card information via the same login method described above, and can view, edit, and permanently delete any credit card number stored on the system. Credit card numbers are never displayed as plain text within a web browser, but are always masked and unreadable, with at least the last four digits and the expiry date viewable so that the customer knows which card is stored. Only highly trusted, authorized personnel at Korax have access to customer credit cards, and must themselves use a unique user name login and password combination on a secure server in order to gain access to credit card numbers, and then only in response to a customer's request to edit, delete, add, or make charges to a credit card. 
+This site contains links to other sites. [www.redtag.ca](http://www.redtag.ca/) is not responsible for the privacy practices or the content of such Web sites.
 
-## Web site cookies
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their E-mail address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). Contact information from the order form is used to send orders to our customers. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences.
 
-Some features and functions of this web site, including AMS, use cookies. A cookie is a small amount of data sent by the web site to the user's browser. The information includes web site preferences, and never contains personally identifiable information such as user names or E-mail addresses, or secure information such as passwords. If users prefer not to have the web site store information, cookies can be disabled in the user's browser. The browser's online help, or the browser's vendor, must be consulted in order to turn cookies off. Turning off cookies will disable portions of the web site, including AMS. Customers who turn off cookies and are unable to use AMS are still responsible for supplying Korax with up to date contact information and billing information. 
+Our online surveys ask visitors for contact information (like their E-mail address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+
+  
+
+
+##  Security
+
+  
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. As soon as you purchase something via redtag.ca, your credit card will be protected against all non-authorized usage. If non-authorized fees are charged to your credit card within the 12 months following your transaction with RedTag.ca. This responsibility will be limited to a maximum of $50 (under certain reasonable conditions). 
+
+With a single click you can access redtag.ca and see all your transactions protected by SSL technology protocols and normal private network security systems. SSL technology scrambles your credit card information before it even gets to the net. This renders Internet purchases as safe as telephone purchases. We will protect the security of your credit card.
+
+Our site uses the secure server environment of : sirevb.sirev.com which utilizes Stronghold/Apache SSL Server Software. This Security Certificate was issued by: Secure Server Certification Authority RSA Data Security, Inc. US.
+
+##  Choice/Opt-Out
+
+  
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.   
+
+
+  1. You can send E-mail to [unsubscribe@redtag.ca](mailto:unsubscribe@redtag.ca)
+  2. You can call the following telephone number: 416 642 5300 ext 2041  
+
+
+
+
+##  Contacting the Website
+
+  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+
+  
+Webmaster, redtag.ca  
+93 Skyway Ave. Suite 210  
+Toronto, Ontario,   
+Canada  
+[webmaster@redtag.ca](mailto:webmaster@redtag.ca)   
+
