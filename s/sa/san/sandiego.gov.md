@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604075215id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandiego.gov privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210084121id_/http%3A//www.sandiego.gov/directories/privacy.shtml) for the most accurate reproduction.*
 
 # City of San Diego Privacy Notice
 
@@ -49,4 +49,4 @@ Additional information can be obtained at the [FTC's Consumer Response Center](h
 
 Unless a particular web page on the City of San Diego's Web site indicates that encryption technology is being used, the user should not assume that information uploaded through that web page to the City of San Diego's Web server will be treated as confidential. If a user submits information to the City of San Diego's server through a web page containing visible indicators of active encryption technology, the City of San Diego will take all reasonable precautions to safeguard the confidentiality of such information, but shall nevertheless not be held liable for any injury caused by the disclosure of that information, whether caused by security breach, accident, inadvertence, or any other act resulting in disclosure. 
 
-© 2000-2001 City of San Diego. All rights reserved. Privacy Statement Rules/101100 
+© 2002 City of San Diego. All rights reserved. Privacy Statement Rules/101100 
