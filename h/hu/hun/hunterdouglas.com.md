@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunterdouglas.com privacy policy that was archived on 2001-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011027111017id_/http%3A//www.hunterdouglas.com/about/hd_about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunterdouglas.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202113108id_/http%3A//www.hunterdouglas.com/about/hd_about_privacy.html) for the most accurate reproduction.*
 
 # Hunter Douglas - Privacy Policy
 
