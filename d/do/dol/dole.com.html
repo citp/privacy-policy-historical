@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dole.com privacy policy that was archived on 2000-06-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000610013658id_/http%3A//www.dole.com/policy.ghtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dole.com privacy policy that was archived on 2000-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205152100id_/http%3A//www.dole.com/policy.ghtml) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="Author" content="Designed and developed by CyberSight, LLC   www.cybersight.com">
@@ -76,6 +76,14 @@ nine_off.src = "/images/common.images/dl.X.X.nav9.off.gif";
 nine_on = new Image(90,31);
 nine_on.src = "/images/common.images/dl.X.X.nav9.on.gif";
 }
+
+function snert(imgDocID,imgObjName) {
+if (document.images) {
+document.images[imgDocID].src = eval(imgObjName + ".src")
+}
+}
+
+
 //-->
 </script>
 
@@ -147,21 +155,20 @@ Dole  is concerned about personal privacy and is committed to protecting the pri
 <td width="180" valign="TOP">&nbsp;</td>
 </tr>
 </tbody></table>
-<table width="600" cellpadding="0" cellspacing="0" border="0">
+<table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-<td width="600" colspan="7" valign="TOP">
-<center><img src="/images/common.images/dl.X.X.footer.gif" width="560" height="51" border="0" hspace="0" vspace="10" alt=""></center><br>
-<img src="/images/common.images/dl.X.X.placeholder.gif" align="LEFT" width="112" height="1" border="0" hspace="0" vspace="0">
+<td valign="TOP" align="left">
+<img src="/images/common.images/dl.X.X.footer.gif" width="560" height="51" border="0" hspace="0" vspace="10" alt=""><br>
+<img src="/images/common.images/dl.X.X.placeholder.gif" align="LEFT" width="10" height="1" border="0" hspace="0" vspace="0">
 <a href="/utilities/faq.ghtml" target="_top" onmouseover="snert('five','five_on')" onmouseout="snert('five','five_off')"><img src="/images/common.images/dl.X.X.nav5.off.gif" align="LEFT" width="101" height="31" border="0" hspace="0" vspace="0" name="five" alt="Ask Dole"></a>
 <a href="http://www.dole.com:9000" target="_top" onmouseover="snert('six','six_on')" onmouseout="snert('six','six_off')"><img src="/images/common.images/dl.X.X.nav6.off.gif" align="LEFT" width="91" height="31" border="0" hspace="0" vspace="0" name="six" alt="Search"></a>
 <a href="/utilities/sitemap.ghtml" target="_top" onmouseover="snert('seven','seven_on')" onmouseout="snert('seven','seven_off')"><img src="/images/common.images/dl.X.X.nav7.off.gif" align="LEFT" width="104" height="31" border="0" hspace="0" vspace="0" name="seven" alt="Site Map"></a>
 <a href="http://www.dole5aday.com" target="_top" onmouseover="snert('eight','eight_on')" onmouseout="snert('eight','eight_off')"><img src="/images/common.images/dl.X.X.nav8.off.gif" align="LEFT" width="90" height="31" border="0" hspace="0" vspace="0" name="eight" alt="Dole 5 A Day"></a>
-<a href="/foodservice/index.ghtml" target="_top" onmouseover="snert('nine','nine_on')" onmouseout="snert('nine','nine_off')"><img src="/images/common.images/dl.X.X.nav9.off.gif" align="LEFT" width="107" height="31" border="0" hspace="0" vspace="0" name="nine" alt="Dole Foodservice"></a></td>
-
+<a href="/foodservice/index.ghtml" target="_top" onmouseover="snert('nine','nine_on')" onmouseout="snert('nine','nine_off')"><img src="/images/common.images/dl.X.X.nav9.off.gif" align="LEFT" border="0" hspace="0" vspace="0" name="nine" alt="Dole Foodservice"></a>
+</td>
 </tr>
 </tbody></table>
 <br>
-
 
 
 </body></html>
