@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kyosho.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002143905id_/http%3A//www.hobbico.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kyosho.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626092324id_/http%3A//www.hobbico.com/privacy.html) for the most accurate reproduction.*
 
 # Hobbico Privacy Statement
 
@@ -18,5 +18,5 @@ We respect your privacy and work diligently to protect it.
 
 * * *
 
-Copyright © 2002-2003 Hobbico, Inc.  
+Copyright © 2002-2004 Hobbico, Inc. [Terms of Use](http://www.hobbico.com/tos.html)  
 All rights reserved. Do not duplicate or redistribute in any form.
