@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207140234id_/http%3A//webyield.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604041648id_/http%3A//webyield.net/privacystatement.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -18,4 +18,24 @@
 > 
 > We can be reached via e-mail at [webmaster@webyield.net](mailto:webmaster@webyield.net)
 
-|  | 
+|  |  [SEO Tools](https://web.archive.org/tools.html)  
+[Search Engine Submission](https://web.archive.org/submit.html)  
+[Check Search Engine Position](https://web.archive.org/position.html)  
+[Link Popularity Analysis](https://web.archive.org/popularity.html)  
+[Keyword Analyzer](https://web.archive.org/keyword_analyzer.html)  
+[Web Page Optimizer](https://web.archive.org/builder.html)  
+[Meta Tag Generator](https://web.archive.org/metatags.html)  
+[Robot Tag Generator](https://web.archive.org/robot_tags.html)  
+[Keyword Generator](https://web.archive.org/keywordgenerator.html)  
+[Web page Link Check](https://web.archive.org/link_checker.html)
+
+**SEO Resources**  
+[Search The Web](https://web.archive.org/searchengine.html)  
+[Search Engine News](https://web.archive.org/news/index.html)  
+[ Domain Name Registration](https://web.archive.org/domainregister.html)  
+[Domain Name Wizard](https://web.archive.org/domain_wizard.html)  
+[Reciprocal Link Generator](https://web.archive.org/linkgenerator.html)  
+[Priority Submit](https://web.archive.org/prioritysubmit.html)
+
+New!  
+[SEO Software](https://web.archive.org/software.html)
