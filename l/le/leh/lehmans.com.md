@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lehmans.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613203200id_/http%3A//secure02.ecommercesoftware.com/cgi-bin/ncommerce3/ExecMacro/lehmans/privacy.dw/report) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehmans.com privacy policy that was archived on 2000-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001115103300id_/http%3A//secure02.ecommercesoftware.com/cgi-bin/ncommerce3/ExecMacro/lehmans/privacy.dw/report) for the most accurate reproduction.*
 
 # Lehman's Non-electric Catalog
 
