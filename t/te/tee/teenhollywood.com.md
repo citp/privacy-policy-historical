@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teenhollywood.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206221045id_/http%3A//www.teenhollywood.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenhollywood.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403105916id_/http%3A//www.teenhollywood.com/privacy.asp) for the most accurate reproduction.*
 
 # TEENHOLLYWOOD.COM - Privacy Policy
 
@@ -41,4 +41,5 @@ TeenHollywood.com, Inc. maintains reasonable procedures to protect the confident
 We reserve the right to revise, amend or modify this policy at any time. Notice will be posted on the web site, and your continued use of the site will signify your agreement to such changes.  
  **International Users/Privacy**  
 By registering with the TeenHollywood.com network, you agree that we may collect, use, and transfer user information to servers outside your resident jurisdiction. For users residing in the EU or other jurisdictions that provide access rights under the law, users may access their information or have it corrected or updated in accordance with applicable law, by contacting us at info@teenhollywood.com.  
-| | | 
+| | |   
+
