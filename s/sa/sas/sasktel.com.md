@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604070051id_/http%3A//www.sasktel.com/customer_care/our_policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sasktel.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012101011id_/http%3A//www.sasktel.com/customer_care/our_policies/privacy.html) for the most accurate reproduction.*
 
 # SaskTel - Privacy
 
