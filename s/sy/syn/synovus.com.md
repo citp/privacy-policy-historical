@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2000-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000420174401id_/http%3A//www.synovus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the synovus.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202033700id_/http%3A//www.synovus.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information
 
