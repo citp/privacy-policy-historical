@@ -1,0 +1,998 @@
+<!--The following is the downloaded HTML source of the rightstart.com privacy policy that was archived on 2005-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050402042315id_/http%3A//www.rightstart.com/global/help/help%7Ehelp%7Eprivacy%7ESite%7Ebaby.htm) for the most accurate reproduction.-->
+
+<html><head>
+
+<title>The Right Start - Babies to Kids</title>
+
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+var n = 0;
+
+timedelay = 3; //seconds
+timedelay *= 1000;
+
+if (document.images)
+   {
+	
+	var imgs = new Array();
+	imgs[0] = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/Banners/bnr_kids_store.jpg";
+	imgs[2] = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/Banners/bnd_gift_store.jpg";
+
+	var page = new Array();
+	page[0] = "http://www.rightstart.com/kids/home/default.cfm?&Site=Kids";
+	page[3] = "http://www.rightstart.com/gift/home/default.cfm?&Site=Gift";
+	
+   }
+
+function get() 
+{
+	var p = (n == 0) ? page[page.length-1] : page[n-1];
+	if (p != '')
+	document.location.href = p;
+}
+
+function rotate() 
+{	for (var intLoop_Count=0;intLoop_Count < document.images.length;intLoop_Count++)
+	{ if (document.images[intLoop_Count].name == "slideshow")
+		{ document["slideshow"].src = imgs[n];
+		  (n == (imgs.length - 1)) ? n = 0 : n++;
+		  window.setTimeout("rotate()", timedelay);
+		}
+	}
+
+}
+
+window.onload = rotate;
+
+// -->
+</script>
+
+</head>
+
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" text="#000000" link="#000066" alink="#3366FF" vlink="#3366FF">
+
+
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="TOP">
+<td colspan="2" width="100%">
+
+<script language="JavaScript">
+<!--
+
+function LTrim(strText)
+{ if (strText.length == 0)
+	return '';
+  else
+   while ('' + strText.charAt(0) == SPACE(1))
+	strText = strText.substring(1, strText.length);
+
+   return strText;
+}
+
+function RTrim(strText)
+{ 	
+   if (strText.length == 0)
+	return '';
+   else
+	while ('' + strText.charAt(strText.length - 1) == SPACE(1))
+	strText = strText.substring(0, strText.length - 1);
+
+   return strText;
+}
+
+function Trim(strText)
+{ return LTrim(RTrim(strText)); }
+
+function Left(strText,intNoCHARs)
+{ return strText.substr(0,intNoCHARs); }
+
+function Right(strText,intNoCHARs)
+{ return strText.substr(strText.length - intNoCHARs,intNoCHARs); }
+
+function LeftCHRs(strText,intNoCHARs)
+{ return strText.substr(0,intNoCHARs); }
+
+function RightCHRs(strText,intNoCHARs)
+{ return strText.substr(strText.length - intNoCHARs,intNoCHARs); }
+
+function RepeatString(strCHAR, intHowMany)
+{ var strText = '';
+  var intLoopCNT;
+
+  if (Trim(strCHAR) != '' && intHowMany > 0)
+     { for (intLoopCNT = 1; intLoopCNT <= intHowMany; intLoopCNT++)
+		strText += strCHAR;
+     }
+
+  return strText;
+}
+
+function SPACE(intNoSpaces)
+{ var strSpaces = '';
+  var strOneSpace = ' ';
+  var intLoopCNT;
+
+  if (intNoSpaces > 0)
+     { for (intLoopCNT = 1; intLoopCNT <= intNoSpaces; intLoopCNT++)
+		strSpaces += strOneSpace;
+     }
+
+  return strSpaces;
+}
+
+function ListGetAt(IN_strList, IN_intIndex, IN_strDelimiter)
+{ var strDelimiter = ',';
+
+  if (ListGetAt.arguments.length == 3)
+	strDelimiter = IN_strDelimiter;
+
+  if (IN_strList == '' || isNaN(IN_intIndex))
+	return '';
+  else if (IN_strList != '' && !isNaN(IN_intIndex))
+  {
+	  var aryList = IN_strList.split(strDelimiter);
+
+  	return aryList[IN_intIndex];
+   }
+}
+
+function ListLen(IN_strList, IN_strDelimiter)
+{ var strDelimiter = ',';
+
+  if (ListLen.arguments.length == 2)
+	strDelimiter = IN_strDelimiter;
+
+  if (Trim(IN_strList) == '')
+	return 0;
+  else 
+  {
+	var aryList = IN_strList.split(strDelimiter);
+  	return aryList.length;
+   }
+}
+
+function ListAppend(IN_strList, IN_strValue, IN_strDelimiter)
+{  var strDelimeter = ',';
+   var strList = IN_strList;
+
+   if (ListAppend.arguments.length == 3)
+	strDelimeter = IN_strDelimiter;
+
+   if (Trim(strList) == '')
+	strList = IN_strValue;
+   else
+	strList = strList.toString() + strDelimeter + IN_strValue.toString();
+
+   return (strList);
+}
+
+function funSelItemFromList(oText,oList)
+{   
+   var sTextValue = oText.value;   
+   while(''+sTextValue.charAt(sTextValue.length-1)==' ')sTextValue=sTextValue.substring(0,sTextValue.length-1);
+   sTextValue=sTextValue.toUpperCase();
+   var iLength = sTextValue.length;   
+   
+	for (i = 0; i < oList.length; i++)
+   {
+    var sListValue = oList.options[i].text.toUpperCase();
+    while(''+sListValue.charAt(sListValue.length-1)==' ')sListValue=sListValue.substring(0,sListValue.length-1);
+	if (sListValue.substr(0,iLength) == sTextValue.substr(0,iLength))
+	{
+      oList.selectedIndex = i;      
+      break;   
+    }              	
+   }
+}
+
+function PAUSE(numberMillis) 
+{
+	var now = new Date();
+	var exitTime = now.getTime() + numberMillis;
+	while (true) 
+	{
+            now = new Date();
+            if (now.getTime() > exitTime)
+                return;
+	}
+}
+
+//-->
+</script>
+<script language="javascript1.2" src="/JavaScript/HideDIV.js"></script>
+<script language="JavaScript">
+<!--
+
+if (document.images)
+   {
+	dept_image0 = new Image();
+	dept_image1 = new Image();
+	dept_image2 = new Image();
+	dept_image3 = new Image();
+	dept_image4 = new Image();
+	dept_image5 = new Image();
+	dept_image6 = new Image();
+	dept_image7 = new Image();
+	dept_image8 = new Image();
+	dept_image9 = new Image();
+	dept_image10 = new Image();
+	dept_image11 = new Image();
+	dept_image12 = new Image();
+	dept_image13 = new Image();
+	dept_image14 = new Image();
+	dept_image15 = new Image();
+	dept_image16 = new Image();
+	dept_image17 = new Image();
+	dept_image18 = new Image();
+	dept_image19 = new Image();
+	dept_image20 = new Image();
+	dept_image21 = new Image();
+	dept_image22 = new Image();
+	dept_image23 = new Image();
+	dept_image24 = new Image();
+	dept_image25 = new Image();
+	dept_image26 = new Image();
+	dept_image27 = new Image();
+
+	dept_image0.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/carseats-on.gif";
+	dept_image1.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/carseats-off.gif";
+	dept_image2.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/strollers-on.gif";
+	dept_image3.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/strollers-off.gif";
+	dept_image4.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/travel-on.gif";
+	dept_image5.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/travel-off.gif";
+	dept_image6.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/apparel-on.gif";
+	dept_image7.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/apparel-off.gif";
+	dept_image8.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/bathtime-on.gif";
+	dept_image9.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/bathtime-off.gif";
+	dept_image10.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/developmentaltoys-on.gif";
+	dept_image11.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/developmentaltoys-off.gif";
+	dept_image12.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/formom-on.gif";
+	dept_image13.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/formom-off.gif";
+	dept_image14.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/furniture-on.gif";
+	dept_image15.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/furniture-off.gif";
+	dept_image16.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/health-on.gif";
+	dept_image17.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/health-off.gif";
+	dept_image18.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/gifts-on.gif";
+	dept_image19.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/gifts-off.gif";
+	dept_image20.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/mealtime-on.gif";
+	dept_image21.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/mealtime-off.gif";
+	dept_image22.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/media-on.gif";
+	dept_image23.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/media-off.gif";
+	dept_image24.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/nursery-on.gif";
+	dept_image25.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/nursery-off.gif";
+	dept_image26.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/safety-on.gif";
+	dept_image27.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/Headers/safety-off.gif";
+
+	tab_image0 = new Image();
+	tab_image1 = new Image();
+	tab_image2 = new Image();
+	tab_image3 = new Image();
+	tab_image4 = new Image();
+	tab_image5 = new Image();
+	tab_image6 = new Image();
+	tab_image7 = new Image();
+	tab_image8 = new Image();
+	tab_image9 = new Image();
+	tab_image10 = new Image();
+	tab_image11 = new Image();
+	tab_image12 = new Image();
+	tab_image13 = new Image();
+	tab_image14 = new Image();
+	tab_image15 = new Image();
+
+	tab_image0.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_homepage_on.gif";
+	tab_image1.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_homepage_off.gif";
+	tab_image2.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_shoponline_on.gif";
+	tab_image3.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_shoponline_off.gif";
+	tab_image4.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_sale_on.gif";
+	tab_image5.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_sale_off.gif";
+	tab_image6.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_storelocations_on.gif";
+	tab_image7.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_storelocations_off.gif";
+	tab_image8.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_babyregistry_on.gif";
+	tab_image9.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_babyregistry_off.gif";
+	tab_image10.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_giftfinder_on.gif";
+	tab_image11.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_giftfinder_off.gif";
+	tab_image12.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_emailsignup_on.gif";
+	tab_image13.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_emailsignup_off.gif";
+	tab_image14.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_buyingguide_on.gif";
+	tab_image15.src = "http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_buyingguide_off.gif";
+   }
+
+function ToggleDepartment(IN_strImageName, IN_intIndex)
+{
+	if (document.images)
+	{
+		document.images[IN_strImageName].src = eval('dept_image' + IN_intIndex + '.src');
+	}
+}
+
+function ToggleTabs(IN_strImageName, IN_intIndex, IN_bolState)
+{	
+	if (document.images)
+	{	if (!IN_bolState)
+		{
+			document.images[IN_strImageName].src = eval('tab_image' + IN_intIndex + '.src');
+		}
+	}
+}
+
+function SetTAB(IN_strTab, IN_strURL)
+{
+   var oneMinute = 60 * 1000;
+   var oneHour = oneMinute * 60;
+   var oneDay = oneHour * 24;
+   var oneWeek = oneDay * 7;
+   var oneYear = oneWeek * 52;
+
+   var strDate = new Date();
+   var intDate_MS = strDate.getTime();
+   intDate_MS += oneYear;
+   strDate.setTime(intDate_MS);
+
+   Set_Cookie("TAB", IN_strTab, strDate, "/", null, null);
+
+   location.href = IN_strURL;
+
+}
+
+function Set_Cookie(strName, strValue, strDate_Expires, strPath, strDomain, bolSecure)
+{ var strCurrent_Cookie = strName + "=" + escape(strValue) +
+      			 ((strDate_Expires) ? "; expires=" + strDate_Expires.toGMTString() : "") +
+     				 ((strPath) ? "; path=" + strPath : "") +
+     				 ((strDomain) ? "; domain=" + strDomain : "") +
+     				 ((bolSecure) ? "; secure" : "");
+
+  document.cookie = strCurrent_Cookie;
+}
+
+function Essential_100()
+{ var intHeight = screen.height - 50;
+
+  var winEssential_100;
+  winEssential_100 = window.open("http://www.rightstart.com/babyRegistry/Service/essential_proc.cfm?Site=Baby&IS_BABYREGISTRY=1&rs_section=essential&action=view&NO_LINKS=1", "rsEssential_100", "scrollbars=yes,width=700,height=500,toolbar=yes,resizable=no");
+  winEssential_100.focus();
+}
+
+function OpenWindow(IN_strURL, IN_intWidth, IN_intHeight)
+{
+	var intWidth = IN_intWidth;
+	var intHeight = IN_intHeight;
+	var intTop = (screen.height - intHeight)/2;
+	var intLeft = (screen.width - intWidth)/2;
+
+	var sFeatures = "height = " + intHeight + ","
+			  + "width = " + intWidth + ","
+			  + "menubar = no,"
+			  + "scrollbars = yes,"
+			  + "top = " + intTop + ","
+			  + "left = " + intLeft + ","
+			  + "toolbar = yes,"
+			  + "resizable = yes";
+
+	var winOpen = window.open(IN_strURL, "MoreInfo", sFeatures); 
+}
+
+-->
+</script>
+<link href="/Stylesheet/default.css" rel="stylesheet" type="text/css">
+<!-- SERVER: web1.rightstart.com -->
+
+<script language="JavaScript">
+<!--
+// open new window for gift certificate
+
+function open_gcwindow() { 
+   window.open("http://www.rightstart.com/global/giftcertificate/default.cfm?site=Baby&gcsite=RS&GlobalDir=http://www.rightstart.com/global",
+               "rsgiftcert", 
+               "scrollbars=yes,width=730,height=700,toolbar=yes,resizable=yes");
+}
+
+// -->
+</script>
+
+
+	<script defer="" src="http://a644.g.akamai.net/f/644/67/3h/hints.netflame.cc/service/script/www.rightstart.com"></script>
+	<script language="JavaScript">
+	<!--
+
+	function handle()
+	{ return true;}
+
+	if (document.layers)
+		window.onload=fcnf;
+	else
+		onLoad="fcnf();"
+
+	window.onerror=handle;
+
+	//-->
+	</script> 
+
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+
+<tbody><tr>
+<td width="100%">
+	<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+	<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Headers/header-FF9999-myomy16924882.jpg" border="0"></td>
+	</tr>
+	<tr>
+	<td valign="Top">
+		
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="FF999A">
+		<tbody><tr>
+		<td valign="Top"><a href="http://www.rightstart.com/Default~Site~Baby.htm" onclick="SetTAB('home page','http://www.rightstart.com/Default.cfm?Site=Baby')" onmouseover="ToggleTabs('tab_0',0,0);" onmouseout="ToggleTabs('tab_0',1,0);"><img name="tab_0" src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_homepage_off.gif" border="0" hspace="1"></a></td>
+		<td valign="Top"><a href="http://www.rightstart.com/global/Store/Home/Department~Site~Baby.htm" onclick="SetTAB('shop online','http://www.rightstart.com/global/Store/Home/Department.cfm?Site=Baby')" onmouseover="ToggleTabs('tab_1',2,0);" onmouseout="ToggleTabs('tab_1',3,0);"><img name="tab_1" src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_shoponline_off.gif" border="0" hspace="1"></a></td>
+		
+		<td valign="Top"><a href="http://www.rightstart.com/global/store/sale~Site~Baby~rs_section~Sale.htm" onclick="SetTAB('on sale now','http://www.rightstart.com/global/store/sale.cfm?Site=Baby&amp;rs_section=Sale');" onmouseover="ToggleTabs('tab_2',4,0);" onmouseout="ToggleTabs('tab_2',5,0);"><img name="tab_2" src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_sale_off.gif" border="0" hspace="1"></a></td>
+		<td valign="Top"><a href="http://www.rightstart.com/global/locator/default~Site~Baby.htm" onclick="SetTAB('store locations','http://www.rightstart.com/global/locator/default.cfm?Site=Baby');" onmouseover="ToggleTabs('tab_3',6,0);" onmouseout="ToggleTabs('tab_3',7,0);"><img name="tab_3" src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_storelocations_off.gif" border="0" hspace="1"></a></td>
+		
+			<td valign="Top"><a href="http://www.rightstart.com/babyRegistry/Home/default~Site~Baby~IS_BABYREGISTRY~1.htm" onclick="SetTAB('baby registry','http://www.rightstart.com/babyRegistry/Home/default.cfm?Site=Baby&amp;IS_BABYREGISTRY=1&amp;Site=baby')" onmouseover="ToggleTabs('tab_4',8, 0);" onmouseout="ToggleTabs('tab_4',9, 0);"><img name="tab_4" src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_babyregistry_off.gif" border="0" hspace="1"></a></td>
+		
+		<td valign="Top"><a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~482237~rs_section~gifts.htm" onclick="SetTAB('shop online','http://www.rightstart.com/global/Store/Home/Department.cfm?Site=Baby')" onmouseover="ToggleTabs('tab_5',10);" onmouseout="ToggleTabs('tab_5',11);"><img name="tab_5" src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_giftfinder_off.gif" border="0" hspace="1"></a></td>
+		<td valign="Top"><a href="javascript: OpenWindow('http://www.rightstart.com/emailsignup.html', 600, 600);" onmouseover="ToggleTabs('tab_6',12);" onmouseout="ToggleTabs('tab_6',13,0);"><img name="tab_6" src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_emailsignup_off.gif" border="0" hspace="1"></a></td>
+		<td valign="Top"><a href="http://www.rightstart.com/global/guides/Default~Site~Baby.htm" onclick="SetTAB('buying guides','http://www.rightstart.com/global/guides/Default.cfm?Site=Baby')" onmouseover="ToggleTabs('tab_7',14,0);" onmouseout="ToggleTabs('tab_7',15,0);"><img name="tab_7" src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_buyingguide_off.gif" border="0" hspace="1"></a></td>
+		<td valign="Top">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="FFFFFF">
+	<form method="POST" action="http://www.rightstart.com/global/search/keywordsearch~Site~Baby~rs_section~keywordsearch.htm"></form>
+	<tbody><tr>
+	<td><a href="http://www.rightstart.com/global/search/help~Site~Baby.htm"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_search_off.gif" border="0"></a></td>
+	<td><input type="Text" name="keyword" size="10" maxlength="50"></td>
+	<td><input type="Image" src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/search/go.gif" width="19" height="19"></td>
+	</tr>
+	
+	
+	</tbody></table>
+	
+
+</td>
+		<td valign="Top" bgcolor="FFFFFF"><a href="http://www.rightstart.com/global/members/Default~Site~Baby.htm"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_account_off.gif" border="0" hspace="5"></a></td>
+		<td valign="Top" align="Right" bgcolor="FFFFFF">
+	<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+	<td align="Right"><a href="http://www.rightstart.com/commerce/default~Site~Baby.htm"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Tabs/tab_shoppingcart_off.gif" border="0"></a></td>
+	</tr>
+	</tbody></table>
+		
+</td>
+		</tr>
+		</tbody></table>
+		
+	</td>
+	</tr>
+	</tbody></table>
+</td>
+</tr>
+
+</tbody></table>
+
+
+
+</td>
+</tr>
+</tbody></table>
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="TOP">
+<td> 
+	
+
+
+<table border="0" cellspacing="0" cellpadding="0" width="155" bgcolor="6699CC">
+	
+<tbody><tr>
+
+	<td colspan="2" align="Center"><a href="javascript: OpenWindow('http://www.rightstart.com/global/locator/0329-Pasadena-popup.html', 400, 600);"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/locator/nav-pasa-open.jpg" width="118" height="139" vspace="5" border="0" alt="Our Pasadena, California store is now open!"></a></td>
+
+<td bgcolor="FFFFFF"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt=""></td>
+</tr>
+
+
+<tr>
+<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt=""></td>
+<td align="Left" width="100%">
+	
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<td align="Center"><a href="http://www.rightstart.com/babyRegistry/Home/default~Site~Baby~IS_BABYREGISTRY~1~Site~baby.htm"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/Departments/RegistryLogo.gif" border="0" width="122" height="25" vspace="10"></a></td>
+	</tr>
+	<tr>
+	<td nowrap="">
+		<table border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+		<td align="Left"><a href="http://www.rightstart.com/global/Store/Home/Department~Site~Baby.htm"><span class="HeaderDisplayCart">shop by category</span></a></td>
+		</tr><tr>
+		
+				</tr><tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~8492~rs_section~Car%20Seats.htm"><span class="LeftNavDepartment">car seats</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~919025~rs_section~strollers.htm"><span class="LeftNavDepartment">strollers</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~8570~rs_section~travel.htm"><span class="LeftNavDepartment">travel</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~1460958~rs_section~apparel.htm"><span class="LeftNavDepartment">apparel</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~555101~rs_section~Health%20%26%20Potty.htm"><span class="LeftNavDepartment">health &amp; potty</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~8502~rs_section~developmental%20toys.htm"><span class="LeftNavDepartment">developmental toys</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~1294734~rs_section~for%20mom.htm"><span class="LeftNavDepartment">for mom</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~919022~rs_section~furniture.htm"><span class="LeftNavDepartment">furniture</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~8481~rs_section~Bath%20Time.htm"><span class="LeftNavDepartment">bath time</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~482237~rs_section~gifts.htm"><span class="LeftNavDepartment">gifts</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~8520~rs_section~mealtime.htm"><span class="LeftNavDepartment">mealtime</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~1093830~rs_section~media.htm"><span class="LeftNavDepartment">media</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~8543~rs_section~nursery.htm"><span class="LeftNavDepartment">nursery</span></a></td></tr>
+			
+		
+				<tr><td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/store/home/Department~Site~Baby~TreeID~8531~rs_section~safety.htm"><span class="LeftNavDepartment">safety</span></a></td></tr>
+			
+		
+		
+		
+		
+			<tr><td class="LeftNavDepartment">&nbsp;<font color="Red">•</font>&nbsp;<a href="http://www.rightstart.com/global/store/sale~Site~Baby~rs_section~Sale.htm"><span class="LeftNavDepartment">on sale now                                                                     </span></a></td></tr>
+		
+		</tbody></table>
+	</td>
+	</tr>
+	</tbody></table>
+	
+</td>
+<td bgcolor="FFFFFF"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><img src="#GLOBALIMAGE_DIR#/pixel/pixel.gif" width="1" height="20" border="0" alt=""></td>
+<td bgcolor="FFFFFF">&nbsp;</td>
+</tr>
+
+<tr>
+<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt=""></td>
+<td align="Left" width="100%">
+	<table border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	<td align="Left"><a href="http://www.rightstart.com/global/search/default~Site~Baby~SearchBy~Brand.htm"><span class="HeaderDisplayCart">shop by brand</span></a></td>
+	</tr>
+      </tbody></table>
+</td>
+<td bgcolor="FFFFFF"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="1" height="20" border="0" alt=""></td>
+<td bgcolor="FFFFFF">&nbsp;</td>
+</tr>
+
+<tr>
+<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt=""></td>
+<td align="Left">
+	<table border="0" cellspacing="0" cellpadding="0" width="100%">
+	<tbody><tr>
+	<td align="Left"><a href="http://www.rightstart.com/global/search/default~Site~Baby~SearchBy~Age.htm"><span class="HeaderDisplayCart">shop by age</span></a></td>
+	</tr>
+	
+		
+		<tr>
+    	     	<td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/search/advancedsearch~Site~Baby~SearchBy~age~Price~0~Age~506722~AgeNm~0%20to%206%20months.htm"><span class="LeftNavDepartment">0 to 6 months                                                                   </span></a></td>
+		</tr>
+	
+		
+		<tr>
+    	     	<td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/search/advancedsearch~Site~Baby~SearchBy~age~Price~0~Age~458463~AgeNm~6%20to%2012%20months.htm"><span class="LeftNavDepartment">6 to 12 months                                                                  </span></a></td>
+		</tr>
+	
+		
+		<tr>
+    	     	<td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/search/advancedsearch~Site~Baby~SearchBy~age~Price~0~Age~507006~AgeNm~12%20to%2024%20months.htm"><span class="LeftNavDepartment">12 to 24 months                                                                 </span></a></td>
+		</tr>
+	
+		
+		<tr>
+    	     	<td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/search/advancedsearch~Site~Baby~SearchBy~age~Price~0~Age~458467~AgeNm~2%20to%203%20years.htm"><span class="LeftNavDepartment">2 to 3 years                                                                    </span></a></td>
+		</tr>
+	
+		
+		<tr>
+    	     	<td class="LeftNavDepartment">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/search/advancedsearch~Site~Baby~SearchBy~age~Price~0~Age~459552~AgeNm~3%20years%20and%20up.htm"><span class="LeftNavDepartment">3 years and up                                                                  </span></a></td>
+		</tr>
+	
+	</tbody></table> 
+</td>
+<td bgcolor="FFFFFF"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="1" height="5" border="0" alt=""></td>
+<td bgcolor="FFFFFF"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="1" height="20" border="0" alt=""></td>
+<td bgcolor="FFFFFF">&nbsp;</td>
+</tr>
+
+<tr>
+<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt=""></td>
+<td>
+	<table border="0" cellspacing="3" cellpadding="0" width="100%">
+	<tbody><tr>
+	<td>
+	<a href="http://www.rightstart.com/global/store/sale~Site~Baby~rs_section~Sale.htm"><span class="HeaderDisplayCart">on sale now</span></a>
+	</td>
+	</tr>
+	<tr>
+	<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="1" height="15" border="0" alt=""></td>
+	</tr>
+	<tr>
+	<td>
+	<a href="http://www.rightstart.com/global/locator/default~Site~Baby.htm"><span class="HeaderDisplayCart">store locations</span></a>
+	</td>
+	</tr>
+	<tr>
+	<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="1" height="15" border="0" alt=""></td>
+	</tr>
+	<tr>
+	<td>
+	<a href="javascript: OpenWindow('http://www.rightstart.com/emailsignup.html', 600, 600);" onmouseover="ToggleTabs('tab_6',12);" onmouseout="ToggleTabs('tab_6',13,0);"><span class="HeaderDisplayCart">email signup</span></a>
+	</td>
+	</tr>
+	<tr>
+	<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="1" height="15" border="0" alt=""></td>
+	</tr>
+	
+	
+
+	<tr>
+	<td>
+	<a href="javascript: OpenWindow('http://framed.storkavenue.com/', 650, 600);"><span class="HeaderDisplayCart">find a baby name</span></a>
+	</td>
+	</tr>
+	<tr>
+	<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="1" height="15" border="0" alt=""></td>
+	</tr>
+	<tr>
+	<td>
+	<a href="http://www.rightstart.com/global/help/default~Site~Baby.htm"><span class="HeaderDisplayCart">customer service</span></a>
+	</td>
+	</tr>
+	<tr>
+	<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="1" height="15" border="0" alt=""></td>
+	</tr>
+	<tr>
+	<td>
+	<a href="http://www.rightstart.com/global/help/help~help~ShippingInformation~Site~Baby.htm"><span class="HeaderDisplayCart">shipping info</span></a>
+	</td>
+	</tr>
+      </tbody></table>
+</td>
+<td bgcolor="FFFFFF"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="1" height="20" border="0" alt=""></td>
+<td bgcolor="FFFFFF">&nbsp;</td>
+</tr>
+
+<tr>
+<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt="">
+</td><td>
+	<table border="0" cellspacing="3" cellpadding="0" width="100" %="">
+	<tbody><tr>
+	<td><a href="http://www.rightstart.com/global/aboutus/Default~Site~Baby.htm"><span class="HeaderDisplayCart">about us</span></a></td>
+	</tr>
+	<tr>
+	<td class="LeftNavDepartment" nowrap="">&nbsp;•&nbsp;<a href="http://www.rightstart.com/global/aboutus/career~Site~Baby.htm"><span class="LeftNavDepartment">career opportunities</span></a></td>
+	</tr><tr>
+      </tr></tbody></table>
+</td>
+<td bgcolor="FFFFFF"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="10" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="2"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/pixel/pixel.gif" width="1" height="20" border="0" alt=""></td>
+<td bgcolor="FFFFFF">&nbsp;</td>
+</tr>
+
+</tbody></table></td>
+<td align="Left"> 
+<table width="640" cellpadding="0" cellspacing="0" bgcolor="66CCCC">
+<tbody><tr>
+<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/global/pixel/pixel.gif" width="1" height="51"></td>
+<td><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/CSR/cust_svc_hdr_Copy1673.gif"></td>
+<td>
+<select name="Help" size="1" onchange="if (this.value != '') location.href = this.value">
+<option selected="selected">Select a topic</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=GiftWrap">Deluxe Gift Wrapping</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=FAQ">Frequently Asked Questions (FAQs)</option>
+<option value="http://www.rightstart.com/babyRegistry/Home/default.cfm?Site=Baby&amp;IS_BABYREGISTRY=1">Gift Registry</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=DiscountPolicy">Discount Policy</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=PriceGuarantee">Price Guarantee</option>
+<option value="http://www.rightstart.com/global/search/help.cfm?Site=Baby">Search Help</option>
+<option value="">********************</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=PurchaseLimits">Merchandise Purchase Limits</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=OrderConfirmation">Order Confirmations</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=PhoneFaxMail">Phone, Fax and Mail Orders</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=FAQ">Payment Options</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=SalesTax">Regarding Sales Tax</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=SecurityTransactions">Security of Transactions</option>
+<option value="">********************</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=MisShipmentGuarantee">Mis-shipment Guarantee</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=DropShipped">Orders Drop-Shipped From Manufacturers</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=OversizedItems">Oversized Items</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=ShippingInformation">Shipping Information</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=TrackingShipments">Tracking Shipments</option>
+<option value="">********************</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=ReturnPolicy">Merchandise Returns Policy</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=CarSeatStrollerReturn">Car Seat &amp; Stroller Return Policy</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=Personalized">Personalized, Sp Order, DropShip Returns</option>
+<option value="">********************</option>
+<option value="http://www.rightstart.com/global/aboutus/contact.cfm?Site=Baby">Contact RightStart.com</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=Questions">Questions for RightStart.com</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=Suggestions">Suggestions for RightStart.com</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=YourSubmissions">Your Submissions</option>
+<option value="">********************</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=DiscountPolicy">Discount Policy</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=Disclaimers">Disclaimers</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=IntellectualProperty">Intellectual Property Rights</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=LegalTerms">Legal Terms, Conditions &amp; Use of Site</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=ParentalSupervision">Parental Supervision</option>
+<option value="http://www.rightstart.com/global/help/help.cfm?Site=Baby&amp;help=Privacy">Privacy</option>
+</select>
+</td>
+</tr>
+</tbody></table>
+
+<table width="640" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td>
+
+<style type="text/css">
+<!-- 
+    body {
+        background-color:white;
+        color:black;
+    }
+    .text10 {
+        font-family:'Helvetica','Arial','Sans-serif';
+        font-size:18px;
+        font-weight:bold;
+        text-decoration:none;
+        color:#336699;
+    }
+    .text7 {
+        font-family:'Helvetica','Arial','Sans-serif';
+        font-size:11px;
+        text-decoration:none;
+        color:black;
+	  font-weight: normal;
+    }
+    .text9 {
+        font-family:'Helvetica','Arial','Sans-serif';
+        font-size:11px;
+        font-weight:bold;
+        text-decoration:none;
+        color:#336699;
+    }
+-->
+</style>
+<br>
+<table width="75%" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td>
+	<table border="0" cellspacing="1" cellpadding="0" width="452" height="164">
+	<tbody><tr>
+	<td valign="top" width="568" height="24"><span class="text10">Your Privacy</span></td>
+	</tr>
+	<tr>
+	<td valign="top" width="100%" height="10">&nbsp;</td>
+	</tr>
+    <tr>
+	<td valign="top" width="500" height="613">
+       <div class="box55">
+            <div class="para0">
+                <span class="text7">We are committed to protecting your 
+                privacy. We use the information we collect about you to process 
+                your orders, provide you with a personalized shopping 
+                experience and bring selected partners and opportunities to 
+                your attention. Please feel free to contact us with any 
+                specific questions you may have.  </span>
+            </div>
+            <div class="para0">
+                <span class="text7"><br> </span>
+            </div>
+            <div class="para0">
+                <span class="text7">This site contains links to other sites as 
+                a convenience and for informational purposes only. Right Start 
+                and RightStart.com are not responsible for the privacy 
+                practices or the content of such Web sites.  </span>
+            </div>
+            <div class="para0">
+                <span class="text7"><br> </span>
+            </div>
+            <div class="para0">
+                <span class="text9">Cookie Technology</span><span class="text7"><br> </span>
+            </div>
+            <div class="para0">
+                <span class="text7">RightStart.com uses a feature of your 
+                Internet Web browser called a "cookie" to assign a 
+                unique identification to your computer. Cookies are files that 
+                your Web browser places on your computer's hard drive. Cookies 
+                enable RightStart.com to enhance your site experience by 
+                providing certain information about your computer and your 
+                visits to the web site. Such information may also be used for 
+                internal review in aggregate and non-personally identifiable 
+                form. Cookies can also be used to help save and retrieve 
+                Customer usernames used on the RightStart.com site, to tell us 
+                whether you have visited RightStart.com previously, to retrieve 
+                information on past purchases and other preferences. This is 
+                done for your convenience and means that you do not have to 
+                reenter this information on every visit to RightStart.com.  </span>
+            </div>
+            <div class="para0">
+                <span class="text7"><br> </span>
+            </div>
+            <div class="para0">
+                <span class="text7">While most browsers are configured to 
+                accept cookies, you can set your browser to refuse cookies or 
+                to alert you when cookies are being sent to your computer. Some 
+                portions of this web site, however, may not function properly 
+                if cookies are refused.  </span>
+            </div>
+            <div class="para0">
+                <span class="text7"><br> </span>
+            </div>
+            <div class="para0">
+                <span class="text7">Cookies cannot be used by RightStart.com to 
+                retrieve any personal information about you unless you have 
+                registered with or purchased from RightStart.com. 
+                RightStart.com does not and cannot use cookies to retrieve 
+                personal information about you or your family (e.g., names, 
+                ages, addresses, email address, etc.) from your computer. We 
+                can only use information specifically provided by you.  </span>
+            </div>
+            <div class="para0">
+                <span class="text7"><br> </span>
+            </div>
+            <div class="para0">
+                <span class="text9">Collection of Personally Identifying 
+                Information</span><span class="text7"><br> </span>
+            </div>
+            <div class="para0">
+                <span class="text7">Our web site collects no personally 
+                identifying information about you or your family (e.g., names, 
+                ages, addresses, email address, etc.) except when you 
+                specifically submit this information.  </span>
+            </div>
+            <div class="para0">
+                <span class="text7">Minors are also advised to obtain parental 
+                permission before filling out any on-line forms. Please see our 
+                section on Parental Supervision for further details.  </span>
+            </div>
+            <div class="para0">
+                <span class="text7"><br> </span>
+            </div>
+            <div class="para0">
+                <span class="text9">Use of Information</span><span class="text7"><br> </span>
+            </div>
+            <div class="para0">
+                <span class="text7">We do not sell your personally identifiable 
+                information to others. We may provide you information about 
+                products and services from partners we select that we think may 
+                be of interest to you.  </span>
+            </div>
+            <div class="para0">
+                <span class="text7"><br> </span>
+            </div>
+            <div class="para0">
+                <span class="text9">Your Consent</span><span class="text7"><br> 
+                </span>
+            </div>
+            <div class="para0">
+                <span class="text7">By using our web site, you consent to the 
+                collection and use of this information by RightStart.com. We 
+                assure you that if we make any changes to our privacy policy, 
+                we will post all changes - so you will know exactly what 
+                information we are collecting, how we're using it, and any 
+                circumstances where we are disclosing it.  </span>
+            </div>
+            <div class="para0">
+                <span class="text7"><br> </span>
+            </div>
+            <div class="para0">
+                <span class="text7">We encourage you to visit this page 
+                periodically for any changes.  </span>
+            </div>
+            <div class="para0">
+                <span class="text7"><br> </span>
+            </div>
+             </div>
+
+        </td>
+    </tr>
+	</tbody></table>
+</td>
+</tr>
+</tbody></table>
+
+
+</td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+</tbody></table>
+
+<table width="800" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td colspan="2" valign="TOP" width="100%">
+<br clear="All">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" align="Center">
+<tbody><tr>
+<td align="Center"><img src="http://a1103.g.akamai.net/7/1103/13276/20041104/www.rightstart.com/global/images/2004/HomePage/Line46.gif" border="0"></td>
+</tr>
+<tr>
+<td align="Center">
+	<br>
+	<a href="http://www.rightstart.com/global/aboutus/contact~Site~Baby.htm"><span class="text15">contact us</span></a>
+	&nbsp;|&nbsp;
+	<a href="http://www.rightstart.com/commerce/default~Site~Baby.htm"><span class="text15">shopping cart</span></a>
+	&nbsp;|&nbsp;
+	<a href="http://www.rightstart.com/global/help/default~Site~Baby.htm"><span class="text15">customer service</span></a>
+	&nbsp;|&nbsp;
+	<a href="http://www.rightstart.com/global/help/help~help~privacy~Site~Baby.htm"><span class="text15">privacy policy</span></a>
+	&nbsp;|&nbsp;
+	<a href="http://www.rightstart.com/global/help/help~help~ShippingInformation~Site~Baby.htm"><span class="text15">shipping info</span></a>
+	&nbsp;|&nbsp;
+	<a href="http://www.rightstart.com/global/aboutus/Default~Site~Baby.htm"><span class="text15">about us</span></a>
+	<br><br>
+	<span class="text15">Copyright © 2000-2005 The Right Start.</span><br>
+	<a href="http://www.rightstart.com/global/help/help~Site~Baby~help~LegalTerms.htm"><span class="text15">Terms, Conditions and Use of Site</span></a>
+	<br>
+</td>
+</tr>
+</tbody></table>
+
+<!-- Customization Code -->
+<!-- Remove leading // to activate custom variables -->
+<script language="Javascript">
+//var DOCUMENTGROUP='';
+//var DOCUMENTNAME='';
+//var ACTION='';
+</script>
+<!-- End of Customization Code -->
+<!-- Tracking Code v3.01 - All rights reserved -->
+
+	
+	
+
+<script language="javascript1.1" src="http://www.rightstart.com/JavaScript/tracking.js"></script><noscript>
+<img src="http://zwebtulz.zunch.com/p.pl?a=1000569462406&js=no" width="1" height="1"></noscript>
+<!--//-->
+<!-- End of Tracking Code -->
+
+</td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+
+</body></html>
