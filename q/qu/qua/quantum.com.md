@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610035930id_/http%3A//www.quantum.com/AM/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quantum.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207011430id_/http%3A//www.quantum.com/AM/privacy.htm) for the most accurate reproduction.*
 
 # privacy -
 
@@ -26,7 +26,7 @@ We could merge with or be acquired by another business entity or some or all of 
 
 We use personally identifiable and non-personally identifiable information for our marketing and sales purposes, for Web site administration, and for such purposes as expressly stated when you provided your information. We will not use this information for other purposes, unless you consent to the new usage or if required or permitted by applicable law. Of course, if applicable, we do use personally identifiable information to perform the services for which such data was collected (i.e., if you sign up for an email newsletter, we will send the email newsletter to the address you provide us). 
 
-If you want to opt-out of receiving communications you have expressly requested (such as e-mail newsletters), you may do so by selecting the "opt-out" or "unsubscribe" link in each email that you receive from us, by returning to the Web site where you originally submitted your information, if applicable, and following the opt-out instructions therein, by submitting an email message to [database.updates@quantum.com](mailto:database.updates@quantum.com), or by using the online form entitled "[Update Your Contact Information](http://quantum.treehousei.com/updatecontact/updateContact.aspx%20)"
+If you want to opt-out of receiving communications you have expressly requested (such as e-mail newsletters), you may do so by selecting the "opt-out" or "unsubscribe" link in each email that you receive from us, by returning to the Web site where you originally submitted your information, if applicable, and following the opt-out instructions therein, by submitting an email message to [database.updates@quantum.com](mailto:database.updates@quantum.com), or by using the online form entitled "[Update Your Contact Information](http://quantum.treehousei.com/updatecontact/updateContact.aspx)"
 
 Occasionally, we will send you e-mail communications with information, which may be useful to you, including information about our products and services or about offerings from affiliates or business partners. When you first provide us with your e-mail address, you will be given the option of not receiving any such e-mail communications. We will include instructions in our e-mail messages on how to unsubscribe if you later decide you do not want to receive any future e-mail communications. 
 
@@ -36,7 +36,7 @@ Personal data given to us in one country may be transferred to a different count
 
 ## Review And Removal Of Your Personally Identifiable Data 
 
-We need your help in making sure your personal information is correct in our data bases. If you provide us with personally identifiable information you may submit a request to us to review this information and either change or remove such data by submitting an email message to [data.updates@Quantum.com](mailto:data.updates@Quantum.com) or by using the online form entitled "[Update Your Contact Information](http://quantum.treehousei.com/updatecontact/updateContact.aspx%20)" 
+We need your help in making sure your personal information is correct in our data bases. If you provide us with personally identifiable information you may submit a request to us to review this information and either change or remove such data by submitting an email message to [data.updates@Quantum.com](mailto:data.updates@Quantum.com) or by using the online form entitled "[Update Your Contact Information](http://quantum.treehousei.com/updatecontact/updateContact.aspx)" 
 
 ## Cookies And Other Tracking Methods 
 
