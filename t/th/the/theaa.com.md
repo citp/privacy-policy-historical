@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2001-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011206002346id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theaa.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609151344id_/http%3A//www.theaa.com/termsandconditions/privacy_policy.html) for the most accurate reproduction.*
 
 # TheAA > Privacy Policy
 
@@ -39,7 +39,7 @@ Disclosure of Information
 
 6\. We do not sell mailing lists to third parties for their marketing purposes. Where we have told you in advance, we may disclose certain information to third parties such as a gas, electricity or telecoms network service providers for purposes solely connected with the provision of our service via their networks. Where required or permitted by law, information may be provided to others, such as the Police or the Inland Revenue.
 
-Where a service is to be provided by a third party, for example, a hotle you have chosen through the AA Hotel Booking Service, we may disclose your personal information to that third party for the purpose of ensuring the effective delivery of the service to you. 
+Where a service is to be provided by a third party, for example, a hotel you have chosen through the AA Hotel Booking Service, we may disclose your personal information to that third party for the purpose of ensuring the effective delivery of the service to you. 
 
 Protection of Information
 
