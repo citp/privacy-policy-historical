@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the phuket.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331202312id_/http%3A//www.phuket.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phuket.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201022715id_/http%3A//phuket.com/privacy.htm) for the most accurate reproduction.*
 
-# Phuket Thailand - Complete On-Line Guide
+# Phuket Thailand - hotel, travel and local information guide
 
 ### Personal Information
 
-Phuket Computer Services Co. Ltd. and Phuket Island Access Co. Ltd. operate phuket.com, phuket-hotels.com, resort-hotels.com and many other clearly identified Web sites. We respect your privacy and value your trust in us. We will do everything in our power to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. 
+Phuket Dot Com Co. Ltd. and Asia Web Direct Co. Ltd. operate phuket.com, phuket-hotels.com, resort-hotels.com and many other clearly identified Web sites. We respect your privacy and value your trust in us. We will do everything in our power to earn your confidence so that you can enthusiastically use our services and recommend us to friends and family. 
 
 We do not collect the names or addresses of visitors to our Web sites. We do not sell, rent or barter mailing lists of our visitors. We do not reveal a visitor's name, address, credit card number or other personally identifying information to any phuket.com client other than the client involved in each particular transaction.
 
