@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216210100id_/http%3A//tes.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2001-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010629203130id_/http%3A//tes.com/ppolicy.html) for the most accurate reproduction.*
 
 # tes.comppolicy
 
-Telecom Electric Supply Supply maintains high standards for the protection of privacy over the Internet.  The purpose of this statement is to explain the types of information Telecom Electric Supply Supply ** ** obtains about vistors to our websites, how the information is obtained, how it is used, and how vistors can restrict its use or disclosure. 
+Telecom Electric Supply maintains high standards for the protection of privacy over the Internet.  The purpose of this statement is to explain the types of information Telecom Electric Supply obtains about vistors to our websites, how the information is obtained, how it is used, and how vistors can restrict its use or disclosure. 
 
 The only information Telecom Electric Supply obtains about individual vistors to our website is information supplied voluntarily by the visitor.  This means that you can visit our websites without telling us who you are or revealing any information about yourself.  To gauge the effectiveness of our website, we do collect some non-individually identifiable generic information about our visitors.  Our web server automatically recognize a visitor's domain name (such as .com, .edu, etc.), the web page from which a visitor enters our site, which pages a visitor visits on each page.  This information does not reveal a visitor's identity.  We aggregate this information and use it to evaluate and improve our website. 
 
