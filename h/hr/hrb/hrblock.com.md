@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrblock.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604080024id_/http%3A//www.hrblock.com/universal/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrblock.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206093316id_/http%3A//hrblock.com/universal/privacy_policy.html) for the most accurate reproduction.*
 
 # H&R Block Online Privacy Policy
 
@@ -49,9 +49,10 @@ Block Financial Corporation d/b/a H&R Block e-solutions ("H&R Block") is an indi
 
 This statement applies generally to H&R Block online services. Should you interact or conduct business with other affiliated companies in the H&R Block family, those affiliates may have varying privacy policies or statements. Please click below to review the privacy policies of other H&R Block affiliated companies:
 
-  * H&R Block Privacy Statement for Tax Services - [Click here to view the privacy policy applicable to tax office clients of H&R Block Services, Inc.](http://10.1.1.32:1080/iw-mount/default/main/internet/hrblock/WORKAREA/tlamb/universal/privacy_policy/tax_services_privacy_policy.html)
-  * H&R Block Financial Services Privacy Statement - [Click here to view the privacy policy applicable to brokerage and investment services clients of H&R Block Financial Advisors, Inc.](http://10.1.1.32:1080/iw-mount/default/main/internet/hrblock/WORKAREA/tlamb/universal/privacy_policy/financial_advisors_privacy_policy.html)
-  * H&R Block Mortgage Privacy Statement - [Click here to view the privacy policy applicable to mortgage and mortgage services customers of H&R Block Mortgage Corporation.](http://10.1.1.32:1080/iw-mount/default/main/internet/hrblock/WORKAREA/tlamb/universal/privacy_policy/mortgage_privacy_policy.html)
+  * H&R Block Privacy Statement for Tax Services - [Click here to view the privacy policy applicable to tax office clients of H&R Block Services, Inc.](https://web.archive.org/universal/privacy_policy/tax_services_privacy_policy.html)
+  * H&R Block Privacy Statement for Software - [Click here to view the privacy policy applicable to the clients of our software products.](https://web.archive.org/universal/privacy_policy/software_privacy.html)
+  * H&R Block Financial Services Privacy Statement - [Click here to view the privacy policy applicable to brokerage and investment services clients of H&R Block Financial Advisors, Inc.](https://web.archive.org/universal/privacy_policy/financial_advisors_privacy_policy.html)
+  * H&R Block Mortgage Privacy Statement - [Click here to view the privacy policy applicable to mortgage and mortgage services customers of H&R Block Mortgage Corporation.](https://web.archive.org/universal/privacy_policy/mortgage_privacy_policy.html)
 
 
 
