@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206225601id_/http%3A//www.amgen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206104213id_/http%3A//www.amgen.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -108,12 +108,16 @@ Back to Previous Page
 
 |  | 
 
+[](http://www.aranesp.com/)
+
+[](http://www.enbrel.com/)
+
+[](http://www.epogen.com/)
+
+[](http://www.kineretrx.com/)
+
 [](http://www.neulasta.com/)
 
-[](http://amgen.acquisitioninformation.com/)
+[](http://www.neupogen.com/)
 
-  
-[](https://web.archive.org/news/kineretmedia/index.html)
-
-  
-[](http://www.aranesp.com/)
+[](http://www.novantrone.com/)
