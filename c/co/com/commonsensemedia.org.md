@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204110057id_/http%3A//www.commonsensemedia.org/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commonsensemedia.org privacy policy that was archived on 2005-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050304085828id_/http%3A//www.commonsensemedia.org/about_us/privacy.php) for the most accurate reproduction.*
 
-# Common Sense Media - About Us - Privacy
+# Common Sense Media - Family Friendly Reviews - About Us - Privacy
 
 #### Welcome to Common Sense Media
 
@@ -39,7 +39,7 @@ On the registration page we ask for the following pieces of information:
 
 #### The following information is only collected from individuals 13 years of age and older:
 
-**Email Address** \-- We use your email address to send you our monthly Newsletter Alerts and other emails about our organization, mission and advocacy goals. If you do not want to receive our monthly Newsletter Alerts you have the option to decline to be added to the Newsletter distribution list. Common Sense Media may also contact you with special Common Sense Media mission-related e-mails. These correspondence emails are separate from our monthly Newsletter Alerts.
+**Email Address** \-- We use your email address to send you our weekly Newsletters and other emails about our organization, mission and advocacy goals. If you do not want to receive our weekly Newsletters you have the option to decline to be added to the Newsletter distribution list. Common Sense Media may also contact you with special Common Sense Media mission-related e-mails. These correspondence emails are separate from our weekly Newsletters.
 
 Your email address will also be used to pre-populate the "Write Media Producers" form.
 
@@ -47,9 +47,9 @@ Your email address will also be used to pre-populate the "Write Media Producers"
 
 **City and State** \-- e use this information to understand the demographics of our visitors. We also display the city and state of a reviewer from individuals who are 18 years of age and older (these reviews are displayed as "adults" on our website) along with the content of the review. 
 
-#### Newsletter Alerts
+#### Weekly Newsletter
 
-If you wish to subscribe to our Newsletter Alerts, we ask for your email address and zip code. This information is fully bound by our privacy policy and this email list is not shared with or sold to anyone for any purpose, except in accordance with this Privacy Policy.
+If you wish to subscribe to our weekly Newsletters, we ask for your email address and zip code. This information is fully bound by our privacy policy and this email list is not shared with or sold to anyone for any purpose, except in accordance with this Privacy Policy.
 
 If you sign up to receive our newsletter and later want to be removed from this distribution list, you can unsubscribe from the newsletter by clicking on the "unsubscribe" link located at the bottom of any newsletter. 
 
