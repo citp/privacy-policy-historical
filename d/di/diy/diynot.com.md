@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the diynot.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204212500id_/http%3A//diynot.com/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynot.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211145736id_/http%3A//www.diynot.com/docs/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement
+# DIY - Privacy Statement
 
 > **DIYnot.com Privacy Policy Statement**
 > 
