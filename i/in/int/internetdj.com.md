@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205315id_/http%3A//internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdj.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210121124id_/http%3A//www.internetdj.com/article.php%3Fstoryid%3D30) for the most accurate reproduction.*
 
-# InternetDJ.com - Privacy Statement for InternetDJ.com
+# Privacy Statement for InternetDJ.com - InternetDJ.com
 
   
 ****
@@ -9,9 +9,11 @@ InternetDJ is committed to providing quality online activities and information t
 
 Information Collection Policies We may request personally identifiable information from visitors who choose to participate in certain activities as described below. Our information practices are described below. 
 
-Advertising 
+Third Party Advertising  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.maxonline.com/privacy_policy/index.php). 
 
-For advertisements that we do not sell ourselves, we rely on Ad banner networks. Currently, we use Fastclick and Burst Media. Please review each site's privacy policies. 
+Third Party Cookies  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser. 
 
 General Activities 
 
