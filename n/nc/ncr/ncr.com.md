@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603154342id_/http%3A//www.ncr.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncr.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230090217id_/http%3A//www.ncr.com/privacy.htm) for the most accurate reproduction.*
 
 # NCR - Privacy Policy and Data Protection Principles
 
 **NCR's Position on Privacy and Data Protection**
 
-As a leading producer of customer transaction solutions, NCR has long been concerned about protecting personal information it gathers about its employees and customers. NCR (as a member of the national trade association for the information technology industry - now ITI) adopted its first set of privacy principles in 1971. 
+As a leading producer of customer transaction solutions, NCR has long been concerned about protecting personal information it gathers about its employees and customers. NCR (as a member of the national trade association for the information technology industry - now ITI) adopted its first set of privacy principles in 1971.
 
-NCR also considers data protection a customer satisfaction issue. We seek to meet all customer expectations in our solutions, products and services-and in our business practices. We will meet the customer demand for privacy protection. 
+NCR also considers data protection a customer satisfaction issue. We seek to meet all customer expectations in our solutions, products and services-and in our business practices. We will meet the customer demand for privacy protection.
 
-NCR believes that individuals have the right to be informed about the information being collected about them and about its intended use. People should also have the right to "opt out" if they do not wish to have personal data used for other purposes. They should also have the right to review information being retained and the means to update and correct it. 
+NCR believes that individuals have the right to be informed about the information being collected about them and about its intended use. People should also have the right to "opt out" if they do not wish to have personal data used for other purposes. They should also have the right to review information being retained and the means to update and correct it.
 
 **Our Web Site**
 
-When you visit us at [www.ncr.com](https://web.archive.org/index1.htm) we want you to feel secure that NCR is respecting your privacy. In fact, the only private information we have about you is the information you choose to give us by filling out a form or providing feedback. We do not give that information to third parties without notifying you on the form and getting your consent. 
+When you visit us at [www.ncr.com](https://web.archive.org/index1.htm) we want you to feel secure that NCR is respecting your privacy. In fact, the only private information we have about you is the information you choose to give us by filling out a form or providing feedback. We do not give that information to third parties without notifying you on the form and getting your consent.
 
-We may use "cookies" on some pages of our site, simply to help us serve you better each time you return. A cookie is a small element of data that a Web site can send to your browser, which may then store it on your system. 
+We may use "cookies" on some pages of our site, simply to help us serve you better each time you return. A cookie is a small element of data that a Web site can send to your browser, which may then store it on your system.
 
-The data collected from cookies helps us determine how many people visit this site and what pages they view. We use this information to better serve all visitors as we improve our site content and design. You can set your Web browser to warn you before you accept a cookie. 
+The data collected from cookies helps us determine how many people visit this site and what pages they view. We use this information to better serve all visitors as we improve our site content and design. You can set your Web browser to warn you before you accept a cookie.
 
-We do collect information on the domains from which people visit us. Again, we use that data to track trends in our site traffic and as the basis for making improvements. We do not share this information with any third parties. 
+We do collect information on the domains from which people visit us. Again, we use that data to track trends in our site traffic and as the basis for making improvements. We do not share this information with any third parties.
 
-NCR is committed to protecting personal data on this site just like we are committed to helping our customers protect their customers' privacy. NCR realizes it is in a unique position to deliver the capability for protecting personal data to its customers and is moving aggressively to provide this protection in its data warehousing, data mining, retail, financial and Internet solutions.  NCR is the first company to apply the principles of consumer data protection to its data warehousing solutions. 
+NCR is committed to protecting personal data on this site just like we are committed to helping our customers protect their customers' privacy. NCR realizes it is in a unique position to deliver the capability for protecting personal data to its customers and is moving aggressively to provide this protection in its data warehousing, data mining, retail, financial and Internet solutions.&nbsp; NCR is the first company to apply the principles of consumer data protection to its data warehousing solutions.
 
 * * *
 
@@ -28,17 +28,17 @@ NCR is committed to protecting personal data on this site just like we are commi
 
 **Introduction**
 
-NCR recognizes that appropriate protection and management of personal data is a critical element in enabling consumers to realize the potential of global electronic commerce. NCR also recognizes that its long tradition of protecting employee personal data is encountering new challenges as NCR's personnel databases and systems become increasingly electronic and global. 
+NCR recognizes that appropriate protection and management of personal data is a critical element in enabling consumers to realize the potential of global electronic commerce. NCR also recognizes that its long tradition of protecting employee personal data is encountering new challenges as NCR's personnel databases and systems become increasingly electronic and global.
 
-NCR has therefore adopted the following privacy principles for the protection of consumer and employee personal data. (Personal data is defined as any information relating to an identified or identifiable individual.) NCR will follow these principles, consistent with applicable local laws, in all its operations globally. 
+NCR has therefore adopted the following privacy principles for the protection of consumer and employee personal data. (Personal data is defined as any information relating to an identified or identifiable individual.) NCR will follow these principles, consistent with applicable local laws, in all its operations globally.
 
 **1\. Providing Information on Data Protection Policies**
 
-NCR will provide consumers and employees with easily understood information about NCR's policies regarding the collection, use, and disclosure of personal data. 
+NCR will provide consumers and employees with easily understood information about NCR's policies regarding the collection, use, and disclosure of personal data.
 
 **2\. Limiting Data Collection and Use**
 
-NCR will limit the collection and use of personal data to that which is needed for valid business purposes or to comply with local law, and any such data will be obtained only by lawful and fair means. 
+NCR will limit the collection and use of personal data to that which is needed for valid business purposes or to comply with local law, and any such data will be obtained only by lawful and fair means.
 
 **3\. Ensuring Data Accuracy**
 
@@ -74,4 +74,4 @@ NCR will develop and offer market-driven solutions, particularly in the scalable
 
 NCR is a member of the [Online Privacy Alliance](http://www.privacyalliance.org/).
 
-[ ](http://www.privacyalliance.org/)
+[](http://www.privacyalliance.org/)
