@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oplates.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607184855id_/http%3A//oplates.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oplates.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209030923id_/http%3A//www.oplates.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Ohio Bureau of Motor Vehicles - oplates.com - Privacy Policy Information
 
