@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2002-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020614225806id_/http%3A//www.nib.com.au/about_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nib.com.au privacy policy that was archived on 2002-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021219161353id_/http%3A//www.nib.com.au/about_privacy.html) for the most accurate reproduction.*
 
 # NIB Health Fund - Private Health Insurance Cover - Media Releases
 
@@ -96,16 +96,13 @@ NIB Privacy Policy
 
 NIB recognises the importance of privacy protection and has implemented measures to comply with its obligations under the National Privacy Principles. 
 
-The information you provide NIB as part of your personal dealings with it is defined as “personal information” under the Privacy Act 1988. This personal information may also contain sensitive information regarding your health and your choice of health services.  
+The information you provide NIB as part of your personal dealings with it is defined as “personal information” under the Privacy Act 1988. This personal information may also contain sensitive information regarding your health and your choice of health services.
 
-
-  
 What personal information does NIB collect?
 
 > NIB only collects the personal information it requires to provide you with health and related services, or for the promotion or marketing of its services. NIB may collect this personal information from you directly, or from other NIB companies or health service providers including health insurers, government agencies, private and public hospitals, doctors, and medical specialists. 
 
-  
-What happens to your personal information? 
+What happens to your personal information?
 
 > NIB may use your personal information it collects to: 
 > 
@@ -117,10 +114,11 @@ What happens to your personal information?
 > 
 > If NIB uses your personal information for direct marketing purposes, any correspondence sent to you will give you the opportunity to opt out of receiving any further marketing correspondence.
 
-  
 Will your personal information be given to anyone else?
 
 > In providing you its health and related services, NIB may be required to disclose your personal information to other NIB companies or health service providers including health insurers, government agencies, private and public hospitals, doctors and medical specialists.
+> 
+> At times NIB may be required to disclose your personal health information to people that are on your membership. It is a condition of each NIB membership that you consent to NIB sharing your personal health information in this way. You can withdraw your consent to NIB making available your personal health information to other people on your membership by advising NIB in writing.
 > 
 > NIB will not disclose your personal information to a third party, other than the types described above, unless:
 > 
@@ -130,7 +128,6 @@ Will your personal information be given to anyone else?
 > 
 > • NIB is required or permitted by law.
 
-  
 Access and correction
 
 > You have a right to access the personal information NIB holds about you. You can access your personal information by contacting NIB or NIB’s Privacy Officer.
@@ -139,21 +136,17 @@ Access and correction
 > 
 > NIB reserves the right to withhold your personal information where its disclosure to you is restricted by law, is the subject of legal action, or may compromise the privacy of another person.
 
-  
 Personal information security
 
 > NIB takes reasonable steps to ensure the security of your personal information held by it from risks such as loss or unauthorised access, destruction, misuse, modification or disclosure. NIB only permits your personal information to be accessed by its authorised personnel.
 
-  
 Changes to this Privacy Policy
 
-> NIB reserves the right to change this Privacy Policy from time to time. This policy was last updated on 31 May 2002.
+> NIB reserves the right to change this Privacy Policy from time to time. This policy was last updated on 14 June 2002.
 
-  
 Need more information?
 
-> If you have any questions or concerns about this Privacy Policy or NIB’s handling of your personal information, please contact NIB’s Privacy Officer on 131463 or [PrivacyOfficer@nib.com.au](mailto:PrivacyOfficer@nib.com.au).
-
-  
-© NIB 2002. All rights reserved.  
-
+> If you have any questions or concerns about this Privacy Policy or NIB’s handling of your personal information, please contact NIB’s Privacy Officer on 13 14 63 or [PrivacyOfficer@nib.com.au](mailto:PrivacyOfficer@nib.com.au).
+> 
+>   
+>  © NIB 2002. All rights reserved.
