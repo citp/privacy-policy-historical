@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcps.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202201537id_/http%3A//www.mcps.org/policy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcps.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610211240id_/http%3A//www.mcps.org/policy_statement.htm) for the most accurate reproduction.*
 
 # MCPS Home Page
 
