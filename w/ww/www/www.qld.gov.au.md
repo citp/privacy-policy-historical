@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210223516id_/http%3A//www.qld.gov.au/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.qld.gov.au privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622102358id_/http%3A//www.qld.gov.au/privacy/privacy.html) for the most accurate reproduction.*
 
 # Queensland Government : Queensland Government Privacy Statement
 
 You are at the content. You can jump directly to the top of the page, global navigation or the sub navigation. 
-
-##### Your privacy
 
 **Your privacy**
 
@@ -14,12 +12,12 @@ This is the Queensland Government's website. We are committed to protecting user
 
 Unless you specifically tell us, the Queensland Government website will never know who you are.
 
-In general, this site does not use cookies. However, transactional services available from this site may use cookies to track business processes. If you are concerned about the use of cookies for transactional requirements please read the relevant site's privacy and security statement before commencing a transaction.  In particular, it is recommended that you read the Smart Service Queensland privacy page at [http://www.smartservice.qld.gov.au](http://www.smartservice.qld.gov.au/) before commencing an online transaction using that site.
+In general, this site does not use cookies. However, transactional services available from this site may use cookies to track business processes. If you are concerned about the use of cookies for transactional requirements please read the relevant site's privacy and security statement before commencing a transaction.  In particular, it is recommended that you read the Smart Service Queensland privacy page at <https://www.smartservice.qld.gov.au/AQ/display/Privacy.htm>[](https://www.smartservice.qld.gov.au/AQ/display/Privacy.htm) before commencing an online transaction using that site.
 
-When you visit the Queensland Government's website our Internet Service Provider's standard web logs record anonymous information for statistical purposes only, including:  
+When you visit the Queensland Government's site our web measurement tool and Internet Service Providers record anonymous information for statistical purposes only, including:  
 
 
-  * the type of browser you are using  
+  * the type of browser, computer platform and screen resolution  you are using  
 
   * your traffic patterns through our site such as:  
 
@@ -27,15 +25,15 @@ When you visit the Queensland Government's website our Internet Service Provider
 
     * the pages you accessed and documents downloaded  
 
-    * the previous page you visited prior to accessing our site.  
+    * the previous page you visited prior to accessing our site  
 
-    * the Internet address of the server accessing our site.  
+  * the Internet address of the server accessing our site  
 
   * access to information collected
 
 
 
-No attempt is or will be made to identify your personal details except in the event of an investigation when a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's logs.
+No attempt is or will be made to identify your personal details except in the event of an investigation when a law enforcement agency may exercise a warrant to inspect the our service providers' logs.
 
 **Email**
 
