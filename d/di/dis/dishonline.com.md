@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishonline.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603042254id_/http%3A//www.dishdirect.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishonline.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204084950id_/http%3A//www.dishdirect.com/privacy.asp) for the most accurate reproduction.*
 
 # DishDirect, Inc. | Installing DISH Network and DIRECTV Systems Nationwide.
 
