@@ -1,144 +1,61 @@
-> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205032339id_/http%3A//idera.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idera.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602185429id_/http%3A//www.idera.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Idera: Tools for Data Management - Privacy Policy
 
-**Idera Privacy Statement**
+At Idera we are committed to respecting and protecting the privacy of our customers, partners and web site visitors. Specifically, we do not sell, rent or trade email lists with other companies for marketing purposes. In this Privacy Policy we provide information on when and why we collect your personal information, how we use it, the limited conditions under which we may disclose it to others and how we keep it secure.
 
-Idera Corporation knows you care about how information about you is collected and used as you explore www.idera.com and other sites. We appreciate your trust and to demonstrate our commitment to our users’ privacy, we fully disclose our information practices. 
+Collection and Use of Personal Information  
+---  
+Personal information means any information that may be used to identify you, such as, your name, title, phone number, email address, or mailing address.
 
-1\. What personally identifiable information Idera collects. 
+In general, you can browse our web site without giving us any personal information. We use web analytics software to analyze traffic to this web site in order to understand our customer's and visitor's needs and to continually improve our site for them. This software collects only anonymous, aggregate statistics. For example, we do not tie a specific visit to a specific IP address.
 
-2\. What personally identifiable information third parties collect through the Web site. 
+If you want to subscribe to a periodic communication such as a newsletter, we ask you to simply provide your business email address. In that case, we use your email address only in connection with providing you the newsletter and for no other purpose.
 
-3\. What organization collects the information. 
+Additional activities on our site may require you to be registered, for example, to read a white paper, download trial or free software, or register for an event. As part of the registration process, we may ask you for additional personal information. We use that information for several general purposes: to tell you about products and services if you so request, to fulfill your request, to contact you if we need to obtain or provide additional information; to verify the accuracy of our records, to contact you regarding customer satisfaction surveys.
 
-4\. How Idera uses the information. 
+Some activities require additional personal information. For example, to fulfill online orders for products, we require you to enter credit card information, and you have the option to provide a separate shipping address.
 
-5\. With whom Idera may share user information. 
+Disclosure of Personal Information  
+---  
+In some instances we rely on our channel partners to fulfill product trials and information requests, and provide customers and prospective customers with information about Idera and its products. To do this, we may pass your information to them for that purpose only, and they are prohibited from using that information for any other purpose.
 
-6\. What choices are available to users regarding collection, use and distribution of the information. 
+Idera sometimes hires vendor companies to provide limited services on our behalf, including packaging, mailing and delivering items, sending postal mail, providing technical support, and processing event registrations. We provide those companies only the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
-7\. What types of security procedures are in place to protect the loss, misuse or alteration of information under Idera control. 
+Because Idera is a global company, your personal information may be shared with other Idera offices or subsidiaries in the U.S., Europe, and elsewhere. The data protection laws in these countries may be more or less extensive than laws in the country in which you are located. However, Idera and its offices and subsidiaries are governed by this Privacy Policy and will use your personal information only as set forth in this policy.
 
-8\. How users can correct any inaccuracies in the information. 
+By using our web site and providing us with your personal data, you consent to this transfer of your personal data.
 
-If users have questions or concerns regarding this statement, they should contact info@idera.com or write to "Attention Data Integrity", Idera Corporation, 11191 Westheimer Road, #868, Houston, Texas, 77042\. 
+Idera may also disclose your personal information if required to do so by law or in the good faith belief that such action is necessary in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a business of Idera and/or its subsidiaries or to (1) conform to legal requirements or comply with legal process served on Idera or this web site; (2) protect and defend the rights or property of Idera and this web site; (3) enforce its agreements with you, or (4) act in urgent circumstances to protect personal safety or the public.
 
-**Information Collection and Use Information Collection**
+Children and Privacy  
+---  
+Our web site does not offer information intended to attract children. Idera does not knowingly solicit personal information from children under the age of 13.
 
-Idera Corporation is the sole owner of the information collected on www.idera.com. Idera.com collects information from our users at several different points on our Web site. 
+Security of Personal Information  
+---  
+When you submit any form requiring registration, we use a secure server. The secure server software (SSL) helps protect your information as it travels over the Internet by encrypting that information before it is sent to us. We have also implemented industry-standard security mechanisms and procedures to protect data from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-**Registration**
+Use of Cookies  
+---  
+Portions of this website may use cookies to keep track of your visit, or to deliver content specific to your interests. A "Cookie" is a small amount of data transferred to your browser and read by the Web server that placed it there. It works as a sort of identification card, recording your preferences and previously entered information. You can set your browser to notify you when you receive a cookie, giving you the chance to accept or reject it.
 
-In order to use some components of this Web site, including, but not limited to participation in a webinar, posting information or code on bulletin boards, and downloading trial software, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site. 
+Links to Other Web Sites and Public Forums  
+---  
+Our web site contains links to information on other web sites. We do not have any control over these other web sites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those sites. Those sites are not governed by this Privacy Policy, and if you have questions about how a site uses your information, consult that site's privacy statement. Portions of this website may also make chat rooms, forums, message boards, and/or news groups available to visitors. Please remember that any information that is disclosed in these areas becomes public information and exercise caution when deciding to disclose any personal information.
 
-**Order**
+Access to Your Personal Information  
+---  
+You are entitled to access the personal information that we hold. Email your request to our Data Privacy Officer at [privacy@idera.com](mailto:privacy@idera.com). An administrative fee may be payable. 
 
-We request information from the user on our order form. A user must provide contact information (such as name, phone number, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
+Unsubscribing  
+---  
+You may unsubscribe at any time, by emailing [unsubscribe@idera.com](mailto:unsubscribe@idera.com) with your email address in the subject line.
 
-**Information Use**
+Your Consent  
+---  
+By using our web site, you consent to the collection and use of the information you provide to us as outlined in this Privacy Policy. We may change this Privacy Policy from time to time and without notice. If we change our Privacy Policy, we will publish those changes on this page.
 
-Profile   
-We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties. 
+If you have any questions or concerns about our collection, use or disclosure of your personal information, please email our Data Privacy Officer at [privacy@idera.com](mailto:privacy@idera.com). For more information about this site or your visit, please email us at [webmaster@idera.com](mailto:webmaster@idera.com).
 
-Cookies   
-A cookie is a piece of data stored on the user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. 
-
-By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. However, that the user will be limited in some areas of our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the “Profile” section. 
-
-Currently, Idera does not endorse any third party use of cookies on our site. 
-
-Third Party Advertising
-
-Idera does not currently allow third party advertising on idera.com. 
-
-Log Files   
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information. 
-
-Clear Gifs (Web Beacons/Web Bugs)   
-Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.Clear Gifs can "work with" existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited “www.companyX.com”, which uses an advertising company's clear gif, the Web site [or advertising company] would match the clear gif's identifier and the advertising company's cookie ID number, to show the past online behavior for that computer. This collected information would then be given to the advertising company [or Web site]. 
-
-In addition, clear gifs can be used in HTML-based emails to know which emails have been opened by the recipients. This gauges the effectiveness of certain communications and the effectiveness of marketing campaigns. 
-
-Idera does not employ clear gifs (a.k.a. Web Beacons/Web Bugs) at this time. However, to help us better manage content on our site by informing us what content is effective, we may do so in the future. 
-
-Communications from the Site 
-
-Special Offers and Updates   
-We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to opt-out of these types of communications. Please see the Choice and Opt-out sections. 
-
-Service Announcements   
-On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature. 
-
-Customer Service
-
-We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes. 
-
-Sharing 
-
-Legal Disclaimer   
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
-
-Except as specifically disclosed, Idera does not share data on visitors to idera.com with any third parties. 
-
-Third Party Intermediaries   
-Where a third party is used in the sale or implementation of Idera products, we may use a third party for payment processing. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
-
-Service Providers 
-
-Idera does not provide recognizable site visitor information to any service providers at this time. Some elements of products or services purchased from Idera may come from a third party vendor. In such a case, the sharing of customer data will be clearly outlined in the license agreement specific to that transaction. 
-
-Business Transitions   
-In the event Idera Corporation goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email and prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users’ personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section. 
-
-Choice/Opt-out
-
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email or email us at info@idea.com. We also offer an opt-out mechanism on the User Profile pages. 
-
-Links   
-This Web site contains links to other sites. Please be aware that we, Idera Corporation, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
-
-Surveys 
-
-From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes. 
-
-Tell-A-Friend
-
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Idera will automatically send the friend a one-time email inviting them to visit the site and/or to download trial software. Idera stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend will have the opportunity to request the removal of this information from our database as part of the initial one-time contact. 
-
-Security 
-
-This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line. 
-
-When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’. 
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment in a locked facility. 
-
-If users have any questions about the security at our Web site, users can send an email to info@idera.com 
-
-Correcting/Updating/Deleting/Deactivating Personal Information   
-If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the User Profile page or by emailing our Customer Support at info@idera.com. 
-
-Notification of Changes   
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
-
-If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices. 
-
-**Contact Information**
-
-If users have any questions or suggestions regarding our privacy policy, please contact us at: 
-
-Idera Corporation
-
-11191 Westheimer Road, #868
-
-Houston, Texas 77042
-
-Phone (832) 825-2588
-
-Fax (281) 392-8105
-
-www.idera.com
-
-info@idera.com  
-
+This document was last updated January 20, 2004.
