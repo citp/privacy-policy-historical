@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taskstream.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215095140id_/http%3A//www.taskstream.com/pub/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taskstream.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404063251id_/http%3A//www.taskstream.com/pub/privacy.asp) for the most accurate reproduction.*
 
 # TaskStream
 
@@ -22,5 +22,5 @@
 FURTHER, IN THE EVENT THAT YOU CHOOSE TO STORE ASSESSMENT DATA ON TASKSTREAM, BE AWARE THERE IS NO EXTANT SECURITY MEASURE THAT CAN PROVIDE A GUARANTEE OF COMPLETE DATA SECURITY.  
   
 1.   |  By using the Site, you consent to the collection, use and disclosure of your information as described in this Privacy Policy. This policy reflects TaskStream's current business practices, and is subject to change and update. In the event of any such change or update, a revised policy will be posted on the Site, with the last date of update noted on the bottom of the page. Please check the Site periodically to remain informed of any changes or updates to our privacy policies and practices.  
-1.   |  You may ask TaskStream to correct, update or delete information you have provided to us by sending an email to us at [privacy@TaskStream.com](mailto:privacy@taskstream.com) , or send postal mail to TaskStream/242 West 36th Street/New York, NY 10018. Please feel free to contact us with questions about this privacy statement, the practices of this Site, or your dealings with this Site.  
+1.   |  You may ask TaskStream to correct, update or delete information you have provided to us by sending an email to us at [privacy@TaskStream.com](mailto:privacy@taskstream.com) , or send postal mail to TaskStream/248 West 35th Street/New York, NY 10001. Please feel free to contact us with questions about this privacy statement, the practices of this Site, or your dealings with this Site.  
 
