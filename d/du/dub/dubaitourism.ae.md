@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaitourism.ae privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604221830id_/http%3A//dubaitourism.ae/www/main/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaitourism.ae privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216095758id_/http%3A//dubaitourism.ae/www/main/privacy.asp) for the most accurate reproduction.*
 
 # DTCM - Privacy Statement
 
