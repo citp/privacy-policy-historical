@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the d2g.com privacy policy that was archived on 2002-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021002231314id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the d2g.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601080856id_/http%3A//www.deerfield.com/corporate/privacy) for the most accurate reproduction.*
 
 # Deerfield.com Privacy Statement
 
@@ -9,7 +9,7 @@ Deerfield.com is firmly committed to protecting the privacy of its customers and
 
 This privacy statement discloses the privacy practices for http://www.deerfield.com. If you have questions or concerns regarding this statement, you should first contact the Deerfield.com Privacy Department by email at [privacy@deerfield.com](mailto:privacy@deerfield.com).  In accordance with COPPA, Deerfield.com does not, at any time, knowingly collect information from, or market our products to, children under the age of 13. 
 
-All financial and personal information collected by Deerfield.com is held in the strictest confidentiality. Any information, such as an email address, billing and shipping addresses, and other contact information, submitted via a download form, purchase form, beta team registration, or newsletter subscription, remains the sole property of Deerfield.com. This information is used to help us process payment and to send registration information to our customers. 
+All financial and personal information collected by, and on behalf of, Deerfield.com is held in the strictest confidentiality. Any information, such as an email address, billing and shipping addresses, and other contact information, submitted via a download form, purchase form, beta team registration, or newsletter subscription, remains the sole property of Deerfield.com. If a purchase is made via the Deerfield.com website in a currency other than US Dollars and/or a language other than English, information (such as an email address, billing and shipping addresses, financial details, and other contact information) is collected by our international transaction affiliate element5. This information is used to help us process payment and to send registration information to our customers. 
 
 Further, any third party personally identifiable information, submitted on your behalf by an outside party (e.g. in the case of the "tell-a-friend" feature, or a gift purchase) is treated with the same care as primary information. Any email addresses collected via a third party will be used to send a one time, invitation email. If you decide you do not want to be contacted again by Deerfield.com, you can remove yourself from our mailing lists at [Unsubscribe](http://www.deerfield.com/news/sub_unsub/index.htm). 
 
