@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603185415id_/http%3A//www.chaptercheats.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaptercheats.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204071324id_/http%3A//www.chaptercheats.com/main/privacy.php) for the most accurate reproduction.*
 
-# ChapterCheats - Your Cheat Codes Provider
+# ChapterCheats - Your Cheat Code Provider
 
 **Agreement:**  
 By using our website, you state that you understand the following policies and agree to abide by all rules stated. You also understand policies regarding your own personal details. 
