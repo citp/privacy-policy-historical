@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the alltimefavorites.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204233832id_/http%3A//www.alltimefavorites.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltimefavorites.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403195610id_/http%3A//www.alltimefavorites.com/privacy.htm) for the most accurate reproduction.*
 
 # All Time Favorites Entertainment & Event Planning Services
 
 [**  
-** ](https://web.archive.org/web/20041204233832id_/http%3A//www.alltimefavorites.com/index.html) All Time Favorites respects your privacy and is committed to protecting it at all times.   
+** ](https://web.archive.org/web/20050403195610id_/http%3A//www.alltimefavorites.com/index.html) All Time Favorites respects your privacy and is committed to protecting it at all times.   
 This Internet Privacy Statement explains how we collect, use, and safeguard information on this Web site.
 
-[ **What information we collect from you and how we use it (click here)**](https://web.archive.org/web/20041204233832id_/http%3A//www.alltimefavorites.com/privacy1.htm)
+[ **What information we collect from you and how we use it (click here)**](https://web.archive.org/web/20050403195610id_/http%3A//www.alltimefavorites.com/privacy1.htm)
 
 **How we market to you.**     
 We market to you via e-mail, phone and regular mail in the course of our business to provide the products/services related to your requests on our website.  Our marketing to you is personalized, professional, and if at any time you wish to stop any part of our assisting with your event request or serving you as a vendor, please visit our [help section](http://www.alltimefavorites.org/client.htm)
@@ -18,4 +18,4 @@ When you send payments to us we use the industry standard SSL encryption for rec
 
 This Privacy Statement applies only to our United States customers, U.S. visitors to our Web site, and U.S. vendors registered on our site.
 
-[Contact Us Here](https://web.archive.org/web/20041204233832id_/http%3A//www.alltimefavorites.com/contact.htm)
+[Contact Us Here](https://web.archive.org/web/20050403195610id_/http%3A//www.alltimefavorites.com/contact.htm)
