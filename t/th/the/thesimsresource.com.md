@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405145659id_/http%3A//www.mgon.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesimsresource.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217025354id_/http%3A//www.mgon.com/privacy) for the most accurate reproduction.*
 
 # Welcome to Media and Games Online Network - MGON
 
@@ -45,11 +45,11 @@ To maintain strict data security systems that ensure specific individual informa
 Enjoy your stay in the MGONetwork!
 
 Third Party Ad Servers  
-MGON International AB uses ad servers (such as DoubleClick) to serve the advertisements that you see on the pages of the MGONetwork. That partner may use cookies in the process of serving advertisements, but it will not collect any personal identifiable information about you. For further information on these third parties, cookies, and how to opt-out, please follow the links below:
+MGON International AB uses ad servers (such as Falk Ad Solution) to serve the advertisements that you see on the pages of the MGONetwork. That partner may use cookies in the process of serving advertisements, but it will not collect any personal identifiable information about you. For further information on these third parties, cookies, and how to opt-out, please follow the links below:
 
 [AdAllies](http://adallies.com/policy.html)
 
-[DoubleClick ](http://www.doubleclick.net/us/corporate/privacy/opt-out.asp)
+[Falk](http://www.falkag.de/)
 
 [Adtegrity](http://www.adtegrity.com/privacy.asp)  
 
