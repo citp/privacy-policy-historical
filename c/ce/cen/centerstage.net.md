@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerstage.net privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203032928id_/http%3A//www.centerstage.net/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerstage.net privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202090437id_/http%3A//www.centerstage.net/about/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Centerstage Chicago
 
