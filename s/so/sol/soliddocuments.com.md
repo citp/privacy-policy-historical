@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soliddocuments.com privacy policy that was archived on 2003-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030512043015id_/http%3A//www.soliddocuments.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soliddocuments.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207151226id_/http%3A//www.soliddocuments.com/privacy.htm) for the most accurate reproduction.*
 
-# SolidDocuments - Simple, Powerful, Effective
+# SolidDocuments - Screen capture and document conversion software
 
   
 Our Commitment To Privacy   
@@ -46,6 +46,3 @@ We only store your email address (and name if you optionally supplied it) along 
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please contact us by [email.](mailto:info@soliddocuments.com)
-
-  
-
