@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the way2wealth.com privacy policy that was archived on 2002-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020211024138id_/http%3A//www.way2wealth.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the way2wealth.com privacy policy that was archived on 2002-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021003102716id_/http%3A//www.way2wealth.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy << WAY2WEALTH.COM >>
 
-**Privacy Policy**
-
+  
 This statement as appearing hereinafter sets out the policies of Way2wealth Securities Private Limited ("w2wS") relating to the personal information of its registered customers/clients ("Client") as users of its portal, Way2wealth.com ("Portal"). It applies to the conduct of the Client on the Portal. These policies are in addition to w2wS's general Terms and Conditions of use governing the Portal and should be read in conjunction with such Terms and Conditions of use. 
 
 **Standards of Privacy**
