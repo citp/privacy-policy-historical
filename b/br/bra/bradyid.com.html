@@ -1,0 +1,394 @@
+<!--The following is the downloaded HTML source of the bradyid.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403233127id_/http%3A//www.bradyid.com/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/PrivacyPolicy) for the most accurate reproduction.-->
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">         
+<title>Privacy Policy</title><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Cache-Control" content="no-cache"><meta name="description" content="Learn more about Brady and ther online Privacy Policy for www.bradyid.com."><meta name="keywords" content="brady, brady corporation, brady worldwide, identification, labels, lables, software, ">
+<script language="JavaScript">
+<!-- 
+//Variables for holding the path and server.
+var epath;
+var eserver;
+
+//Keypress function for Netscape 4.7x
+function keyPressed(evt)
+{
+	if (evt.which == 13)
+	{
+		if (document.layers["EndecaDiv"].document.forms[0].EndecaSearchQuery.value != "")
+		{
+		
+			tempString = replaceSubstring(document.layers["EndecaDiv"].document.forms[0].EndecaSearchQuery.value,' ','+')
+			parent.window.location = "http://"+ eserver + "/"+epath + "/ENESearchForm?OpenForm&query=" + tempString + "&pagenum=1&category=all"
+		}
+		else
+		{
+			alert("You must enter a search string")
+			return false;
+		}
+	}
+}
+
+//Keypress function for Netscape 7.x
+function keyPressed7(evt)
+{
+	if (evt.which == 13)
+	{
+		if (document.forms[0].EndecaSearchQuery.value != "")
+		{
+			tempString = document.forms[0].EndecaSearchQuery.value
+			parent.window.location = "http://"+eserver+ "/"+epath+ "/ENESearchForm?OpenForm&query=" + tempString + "&pagenum=1&category=all"
+		}
+		else
+		{
+			alert("You must enter a search string")
+		}
+	}
+}
+
+//Helper function for replacing sub strings
+function replaceSubstring(inputString, fromString, toString) 
+{
+	// Goes through the inputString and replaces every occurrence of fromString with toString
+   	var temp = inputString;
+   	if (fromString == "") 
+	{
+      	return inputString;
+   	}
+   	if (toString.indexOf(fromString) == -1) 
+	{ 
+      	while (temp.indexOf(fromString) != -1) 
+		{
+	         	var toTheLeft = temp.substring(0, temp.indexOf(fromString));
+     	    	var toTheRight = temp.substring(temp.indexOf(fromString)+fromString.length, temp.length);
+         		temp = toTheLeft + toString + toTheRight;
+      	}
+   	} 
+	else 
+	{ 
+      	var midStrings = new Array("~", "`", "_", "^", "#");
+      	var midStringLen = 1;
+      	var midString = "";
+      	// Find a string that doesn't exist in the inputString to be used
+      	// as an "inbetween" string
+      	while (midString == "") 
+		{
+         		for (var i=0; i < midStrings.length; i++) 
+			{
+            		var tempMidString = "";
+		           for (var j=0; j < midStringLen; j++) 
+				{ 
+					tempMidString += midStrings[i]; 
+				}
+            		if (fromString.indexOf(tempMidString) == -1) 
+				{
+               		midString = tempMidString;
+               		i = midStrings.length + 1;
+            		}
+         		}
+      	} // Keep on going until we build an "inbetween" string that doesn't exist
+      	// Now go through and do two replaces - first, replace the "fromString" with the "inbetween" string
+      	while (temp.indexOf(fromString) != -1) 
+		{
+         		var toTheLeft = temp.substring(0, temp.indexOf(fromString));
+         		var toTheRight = temp.substring(temp.indexOf(fromString)+fromString.length, temp.length);
+         		temp = toTheLeft + midString + toTheRight;
+         	}
+      	// Next, replace the "inbetween" string with the "toString"
+      	while (temp.indexOf(midString) != -1) 
+		{
+         		var toTheLeft = temp.substring(0, temp.indexOf(midString));
+         		var toTheRight = temp.substring(temp.indexOf(midString)+midString.length, temp.length);
+         		temp = toTheLeft + toString + toTheRight;
+      	}
+   	} // Ends the check to see if the string being replaced is part of the replacement string or not
+	return temp; // Send the updated string back to the user
+} 
+
+//Set the keypress function dependant on browser type.... (Internet Explorer is handled in the onKeyPress Event)
+if (document.all)
+{
+	//Do Nothing
+}
+else if (document.layers)
+{
+	window.captureEvents (Event.KEYDOWN);
+	window.onkeydown=keyPressed;
+}
+else if (document.getElementById)
+{
+	window.captureEvents (Event.KEYDOWN);
+	window.onkeydown=keyPressed7;
+}
+// -->
+</script>
+
+<script language="JavaScript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var url="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/PrivacyPolicy?OpenDocument&Click=" + v;
+  if (o.href != null)
+    o.href = url;
+  else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+
+}
+// -->
+</script>
+</head>
+<body text="000000" bgcolor="FFFFFF" onload="if (document.forms[0].EndecaEnabledFlag.value == &quot;True&quot;)
+{
+	//Initialize the path and server variables.
+	epath = document.forms[0].EndecaPath.value
+	eserver = document.forms[0].EndecaServerName.value
+	
+	//Make the endeca search layer visible dependant on browser
+	if (document.all)
+	{
+		document.all.EndecaDiv.style.visibility = &quot;visible&quot;
+		document.all.EndecaDiv.style.posLeft = document.all.EndecaLeftPixel.value
+		document.all.EndecaDiv.style.posTop = document.all.EndecaTopPixel.value
+	}
+	else if (document.layers)
+	{
+		document.layers[&quot;EndecaDiv&quot;].visibility=&quot;show&quot;
+		document.layers[&quot;EndecaDiv&quot;].left=document.forms[0].EndecaLeftPixel.value
+		document.layers[&quot;EndecaDiv&quot;].top=document.forms[0].EndecaTopPixel.value
+	}
+	else if (document.getElementById)
+	{	
+		document.getElementById(&quot;EndecaDiv&quot;).style.visibility = &quot;visible&quot;
+		
+		document.getElementById(&quot;EndecaDiv&quot;).style.left = document.forms[0].EndecaLeftPixel.value
+		document.getElementById(&quot;EndecaDiv&quot;).style.top = document.forms[0].EndecaTopPixel.value
+	}
+}" onkeypress="//This is to handle the enter key press in Internet Explorer
+if (document.all)
+{
+	if (event.keyCode == 13)
+	{
+		if (document.forms[0].EndecaSearchQuery.value != &quot;&quot;)
+		{
+			parent.window.location = &quot;http://&quot;+eserver+ &quot;/&quot;+epath+ &quot;/ENESearchForm?OpenForm&amp;query=&quot; + document.forms[0].EndecaSearchQuery.value + &quot;&amp;pagenum=1&amp;category=all&quot;
+		}
+		else
+		{
+			alert(&quot;You must enter a search string&quot;)
+		}
+	}
+}">
+
+<form onsubmit="return false;"><input name="EndecaPath" type="hidden" value="web/SiteBuilder/BradyiISBv1r0.nsf">
+<input name="EndecaServerName" type="hidden" value="www.bradyid.com">
+<input name="EndecaEnabledFlag" type="hidden" value="True">
+<input name="EndecaLeftPixel" type="hidden" value="500">
+<input name="EndecaTopPixel" type="hidden" value="30">
+<layer id="EndecaDiv" visibility="hide" style="visibility: visible; left: 500px; top: 30px;">
+<div id="EndecaDiv" style="position:absolute;visibility:hidden">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top"><td width="168"><input type="text" name="EndecaSearchQuery" value=""></td><td width="96"><a onclick="if (document.forms[0].EndecaSearchQuery.value != &quot;&quot;)
+{
+	if (document.layers)
+	{
+		tempString=replaceSubstring(document.forms[0].EndecaSearchQuery.value,' ','+')
+	}
+	else
+	{
+		tempString=document.forms[0].EndecaSearchQuery.value
+	}
+	parent.window.location = &quot;http://&quot;+eserver+ &quot;/&quot;+epath+ &quot;/ENESearchForm?OpenForm&amp;query=&quot; + tempString + &quot;&amp;pagenum=1&amp;category=all&quot;
+}
+else
+{
+	alert(&quot;You must enter a search string&quot;)
+}
+return false;" href=""><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/Images/search_button.gif/$File/search_button.gif" border="0"></a></td></tr>
+</tbody></table>
+
+</div><table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top">
+<td width="650" height="10" bgcolor="FFFFFF" colspan="3"><b></b><map name="n20E2.Body.2.3364"><area shape="rect" coords="164,56,207,73" id="HotspotRectangle17_1" title="Home Page" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/HomePage" alt=""><area shape="rect" coords="209,53,278,73" id="HotspotRectangle18_1" title="About Brady" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/AboutBrady" alt=""><area shape="rect" coords="281,55,345,73" id="HotspotRectangle19_1" title="Contact Us" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ContactUs" alt=""><area shape="rect" coords="349,54,457,73" id="HotspotRectangle20_1" title="Join Our Mailing List" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/JoinMailingList" alt=""><area shape="rect" coords="462,54,556,73" id="HotspotRectangle21_1" title="Find a Distributor" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/FindDistributor" alt=""><area shape="rect" coords="560,53,681,73" id="HotspotRectangle22_1" title="International Locations" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/IntlLocations" alt=""><area shape="rect" coords="685,53,747,73" id="HotspotRectangle23" title="ISO 9001" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ISOCertification" alt=""><area shape="rect" coords="6,8,136,47" id="HotspotRectangle24" title="Brady Home" href="http://www.bradyid.com" alt=""></map><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/c845586cd9f68ec586256bf200709e20/b9412557c5962f0986256e540068da49/Body/0.7C?OpenElement&amp;FieldElemFormat=jpg" width="748" height="73" usemap="#n20E2.Body.2.3364" border="0"><b></b></td>
+</tr>
+
+<tr>
+<td valign="TOP" width="50" bgcolor="FFFFFF">
+
+<table border="0" cellspacing="0" cellpadding="0">
+
+
+<tbody><tr>
+<td valign="top" width="" 50"="" bgcolor="FFFFFF">
+<p><b></b><map name="n274E.Body.5.29CE"><area shape="rect" coords="0,16,172,32" id="HotspotRectangle52_1" title="New Products" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/NewProducts" alt=""><area shape="rect" coords="0,32,172,47" id="HotspotRectangle53_1" title="Press Releases" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/PressReleases" alt=""><area shape="rect" coords="0,47,172,64" id="HotspotRectangle54_1" title="Events" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/Events" alt=""><area shape="rect" coords="0,80,172,96" id="HotspotRectangle55_1" title="Featured Products by Category" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/FeatureCategory" alt=""><area shape="rect" coords="0,96,172,110" id="HotspotRectangle56_1" title="Products by Application/Industry" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ProdApplication" alt=""><area shape="rect" coords="0,110,172,124" id="HotspotRectangle57_1" title="All Products" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/AllProducts" alt=""><area shape="rect" coords="0,124,172,139" id="HotspotRectangle58_1" title="Technical Data Sheets" href="/tds/tdsv1r0.nsf/FLISSTSMDSearch" alt=""><area shape="rect" coords="0,139,172,153" id="HotspotRectangle59_1" title="How to Buy" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/HowToBuy" alt=""><area shape="rect" coords="0,153,172,171" id="HotspotRectangle60_1" title="Product Registration" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/productregistration" alt=""><area shape="rect" coords="0,188,172,210" id="HotspotRectangle61_1" title="Brady ID Services" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/BradyIDServices" alt=""><area shape="rect" coords="0,242,172,257" id="HotspotRectangle63_1" title="Drivers-Updates-Demos" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/DriversUpdates" alt=""><area shape="rect" coords="0,257,172,271" id="HotspotRectangle64_1" title="Manuals-How Tos-Guides" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ManualGuides" alt=""><area shape="rect" coords="0,271,172,287" id="HotspotRectangle65_1" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ContactTechSupp" alt=""><area shape="rect" coords="0,304,172,326" id="HotspotRectangle66_1" href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ResourceGuide" alt=""><area shape="rect" coords="0,327,172,386" id="HotspotRectangle67_1" title="Are you a Brady Distributor?" href="http://www.bradydistributor.com" target="_blank" alt=""><area shape="rect" coords="0,227,172,242" id="HotspotRectangle68" title="Online Knowledge Base" href="/brady/TSCv2r0.NSF/FL_KBSearchISDSM" alt=""></map><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/c845586cd9f68ec586256bf200709e20/37e02d970c6946ad86256ea2006d38d4/Body/0.7C?OpenElement&amp;FieldElemFormat=jpg" width="172" height="386" usemap="#n274E.Body.5.29CE" border="0"><br><b></b></p></td>
+</tr>
+</tbody></table>
+
+</td>
+
+
+<td valign="top" width="580" bgcolor="#FFFFFF">
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top">
+<td width="20" bgcolor="#FFFFFF" rowspan="3"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/blank.gif" width="20"></td>
+
+<td width="580" height="15" bgcolor="#FFFFFF"></td>
+</tr>
+<tr valign="top">
+<td width="580" height="0" bgcolor="#FFFFFF">
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top"><td width="532"><b><font size="4" color="D60000" face="Arial">BRADYID.COM PRIVACY POLICY</font></b><br>
+<br>
+<b><font size="2" face="Arial">Introduction</font></b><br>
+<a href="http://www.bradyid.com" title="www.bradyid.com"><b><i><u><font size="2" face="Arial">www.bradyid.com</font></u></i></b></a><b><i><font size="2" color="FF0000" face="Arial"> </font></i></b><font size="2" face="Arial"> ("Site") is a website owned by </font><b><i><font size="2" face="Arial">Brady Corporation</font></i></b><font size="2" face="Arial">  ("we", "our", or "us").  This privacy policy ("Policy") is designed to help you understand this Site's information collection, use, and disclosure practices.</font><br>
+<br>
+<font size="2" face="Arial">Please read this Policy carefully. Use of this Site is subject to the terms and conditions of this Policy.  If the terms and conditions of the Policy are unacceptable to you, please do not use this Site and do not submit any personally identifiable information via this Site.  When you submit information via this Site, you consent to the information collection, use, and disclosure practices described in this Policy.  </font><br>
+<br>
+<font size="2" face="Arial">This Site is not directed to children under the age of 13 and does not knowingly collect personally identifiable information from children.  This Site and this Policy are directed to persons located in the United States and users from other geographic regions use this Site with full knowledge</font><b><font size="2" color="FF0000" face="Arial">.</font></b><br>
+<br>
+<b><font size="2" face="Arial">Scope of this Policy</font></b><br>
+<font size="2" face="Arial">This Policy applies only to this Site.  Although you may see links or references to other websites on this Site or in e-mails we send you, this Policy does not apply to such websites.  Please read the privacy policy of each website you visit.  </font><br>
+<br>
+<b><font size="2" face="Arial">Passive Information Collection and Use</font></b><br>
+<font size="2" face="Arial">During your visit, this Site may passively collect certain kinds of information, as described below:  </font><br>
+<br>
+<b><font size="2" face="Arial">IP Addresses</font></b><font size="2" face="Arial">.  An Internet protocol (IP) address is a unique identifier automatically assigned to a user's computer when logging onto the Internet.  IP addresses are used to identify server problems, administer a website, and compile aggregated statistics for marketing and research purposes.  This Site captures IP addresses. </font><br>
+<br>
+<b><font size="2" face="Arial">Navigational Data</font></b><font size="2" face="Arial">.  Navigational data includes log files and clickstream data.  Navigational data can identify a user's Web browser and operating system, when and for how long a user visits a website, what pages a user views on a website, and the address of the website that the user was visiting previously.  This information is typically used to administer a website, improve website content, and compile aggregated statistics for marketing and research purposes.  This Site collects navigational data.</font><br>
+<br>
+<b><font size="2" face="Arial">Cookies</font></b><b><u><font size="2" face="Arial">.</font></u></b><b><font size="2" face="Arial">  </font></b><font size="2" face="Arial">"Cookies" are small text files sent from a website to the hard drive of a user's computer to store bits of information related to that user.  Cookies can store a variety of information, including IP addresses, navigational data, server information, and data transfer times.  There are two kinds of cookies: </font><b><font size="2" face="Arial">session cookies</font></b><font size="2" face="Arial">, which are deleted once a user closes his or her Web browser window or otherwise turns off his computer, and </font><b><font size="2" face="Arial">persistent cookies</font></b><font size="2" face="Arial">, which remain on a user's computer hard drive until deleted.</font><br>
+<br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.F70?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Session cookies</font></b><font size="2" face="Arial"> are typically used to aid in website navigation and to collect statistical information.  </font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""></td><td width="432"><font size="2" face="Arial"><br></font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.118E?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Persistent cookies</font></b><font size="2" face="Arial"> can also aid in website navigation and collecting statistical information, but are typically used to customize a website for a user, such as by storing passwords and preferences so that users do not have to reenter them each time they visit a website.</font></td></tr>
+</tbody></table>
+<font size="2" face="Arial">  </font><br>
+<font size="2" face="Arial">This Site does not use session cookies or persistent cookies.</font><br>
+<br>
+<b><font size="2" face="Arial">Internet Tags</font></b><br>
+<font size="2" face="Arial">"Internet Tags"</font><b><font size="2" face="Arial"> </font></b><font size="2" face="Arial">(also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are similar to cookies, but they are smaller and are typically used to collect information such as the IP address and browser type related to the user's computer.  This Site uses "Internet Tags."  </font><br>
+<br>
+<b><font size="2" face="Arial">Active Information Collection and Use</font></b><br>
+<font size="2" face="Arial">In addition to the passive information collection practices described above, this Site actively collects information from you when you submit it through this Site.  Some of the information this Site collects is information that is personal or unique to you ("Personal Information").  The kinds of Personal Information this Site may collect include your name, address, e-mail address, phone number, fax number, job title, company name, industry sector, product purchase history, and credit card number. For the most part, Personal Information that we seek from you via this Site is sought from you in your business capacity rather than in your individual capacity.  We actively collect Personal Information on this Site in many different ways, including when you:</font><br>
+<br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.18E8?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Send us an e-mail or complete and submit an e-mail / "contact us" reply form.  </font></b><font size="2" face="Arial">In this case, we may use the information you provide for many reasons, including to reply to your e-mail and to learn more about our users.</font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""></td><td width="432"><font size="2" face="Arial"><br></font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.1AD6?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Register a product or demo online.  </font></b><font size="2" face="Arial">We use the information you provide to notify you when new versions of the product or demo are released.</font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""></td><td width="432"><font size="2" face="Arial"><br></font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.1C72?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Submit a literature request, demo request, catalog request, or mailing list form.  </font></b><font size="2" face="Arial">In this case, we use the information you provide to send to you, online or offline, materials you request, and to contact you regarding product demonstrations.</font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""></td><td width="432"><font size="2" face="Arial"><br></font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.1E76?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Complete a price list application form.  </font></b><font size="2" face="Arial">We use the information you provide to send you the requested price lists.</font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""></td><td width="432"><font size="2" face="Arial"><br></font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.1FFA?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Register to use the BradyServe.com vendor extranet.  </font></b><font size="2" face="Arial">We use this information to verify your identity, notify you when you have access to BradyServe.com, evaluate your application, and communicate with you regarding products and services.</font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""></td><td width="432"><font size="2" face="Arial"><br></font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.21F8?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Request access to the BradyServe.com distributor extranet.  </font></b><font size="2" face="Arial">We use this information to verify your identity, notify you when you have access to BradyServe.com, notify you when new functions are available, and communicate with you regarding products and services.</font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""></td><td width="432"><font size="2" face="Arial"><br></font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.240E?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Submit a product suggestion form.  </font></b><font size="2" face="Arial">We use the information you submit on a product suggestion form to consider, develop, and evaluate new products and services.</font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""></td><td width="432"><font size="2" face="Arial"> <br></font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.25C0?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Download certain kinds of software or information available on the Site.  </font></b><font size="2" face="Arial">We use the information submitted in connection with such downloads to inform you of new software or information releases and to record who has downloaded the software and information available on this Site.</font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""></td><td width="432"><font size="2" face="Arial"> <br></font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.27EA?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Enter an online promotion, contest, or sweepstakes.  </font></b><font size="2" face="Arial">We use the information you submit to determine eligibility and to contact you in connection with the promotion, contest, or sweepstakes. We may use the information you provide to send to you, online or offline, materials you request, and to contact you regarding product demonstrations.</font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""></td><td width="432"><font size="2" face="Arial"><br></font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.2A4E?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Complete survey, feedback, and question forms.  </font></b><font size="2" face="Arial">We use the information provided in these forms to respond to your questions, evaluate products and services, and better understand our shareholders, distributors, and customers.</font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/icons/ecblank.gif" border="0" height="1" width="1" alt=""></td><td width="432"><font size="2" face="Arial"><br></font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.2C40?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><b><font size="2" face="Arial">Submit a "Request a Return Material Authorization (RMA) Number" form.  </font></b><font size="2" face="Arial">We use the information contained in this form to help you return products that you have purchased.</font></td></tr>
+</tbody></table>
+<br>
+<font size="2" face="Arial">We also reserve the right to use Personal Information (other than Resume Information) to market our products and services and those of other third parties that we think might be of interest to you, unless you have indicated a preference not to receive such marketing materials.  If you do not want to receive such marketing materials, please see the paragraph entitled "Stop Communications" below.</font><br>
+<br>
+<font size="2" face="Arial">You should be aware that we may use third-party service providers to collect the information described above and also to contact you as described above.</font><br>
+<br>
+<font size="2" face="Arial">We reserve the right to make full use of all information acquired through this Site that is not in personally identifiable form and also to</font><font size="2" color="0000FF" face="Arial"> </font><font size="2" face="Arial">combine Personal Information (other than Resume Information) collected through this Site with other kinds of information we obtain.  For example, we may combine your company's name (collected on-line) with certain credit information (collected off-line) to create a customer profile.   In addition, we may link actively-collected Personal Information (e.g., name, address, purchasing history) with passively-collected information (e.g., IP addresses, cookie).  By combining such information, we are better able to understand how our users use this Site, what products and services interest our users, and what kinds of purchases our users are likely to make. </font><br>
+<br>
+<b><font size="2" face="Arial">Disclosure of Information</font></b><br>
+<font size="2" face="Arial">We may disclose Personal Information collected on this Site to all of our affiliated companies and distributors.  We may also share, transfer, or disclose Personal Information submitted through this Site to other third parties, but only as provided in this Policy.  When we share Personal Information with third parties, we take reasonable steps</font><font size="2" color="008000" face="Arial"> </font><font size="2" face="Arial">to ensure that these third parties will protect the Personal Information and use it only for the purposes for which it was disclosed.  We also reserve the right to disclose or transfer any Personal Information collected at this Site:</font><br>
+<br>
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tbody><tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.367A?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><font size="2" face="Arial">to protect the security of the Site; </font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.3762?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><font size="2" face="Arial">to protect ourselves and our affiliated companies against liability; </font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.386A?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><font size="2" face="Arial"> to respond to subpoenas or other judicial processes; </font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.3962?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><font size="2" face="Arial">if we believe in good faith that the law requires it; or </font></td></tr>
+
+<tr valign="top"><td width="12"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/6dfc0789e2c8a4e286256b99005b483b/09dcddf861a805a586256df9006c2995/Body/0.3A5E?OpenElement&amp;FieldElemFormat=gif" width="10" height="10"></td><td width="432"><font size="2" face="Arial">in connection with any sale, assignment, or other transfer of all or a part of our business or company or any business or our affiliated companies. </font></td></tr>
+</tbody></table>
+<br>
+<font size="2" face="Arial">The disclosure of Personal Information as contemplated in this Policy may be to a party outside your jurisdiction.  </font><b><font size="2" face="Arial">By accepting the terms of this Policy, you consent to the transfer of Personal Information you have submitted through this Site to us, to our affiliated companies, and to any other third parties described in this Policy, all or some of which may be located in foreign jurisdictions that may not provide "adequate protection" for Personal Information.</font></b><br>
+<br>
+<b><font size="2" face="Arial">Access</font></b><br>
+<font size="2" face="Arial">If Personal Information you have submitted through this Site is no longer accurate, current, and complete,  please send an e-mail to</font><b><font size="2" color="FF0000" face="Arial"> </font></b><a href="mailto:contact_brady@bradycorp.com"><u><font size="2" color="0000ff" face="Arial">contact_brady@bradycorp.com</font></u></a><b><font size="2" color="FF0000" face="Arial"> </font></b><font size="2" face="Arial">if you wish to modify, correct, or change this information.</font><b><font size="2" face="Arial">  </font></b><font size="2" face="Arial">We will take appropriate steps to comply with your request, but reserve the right to use Personal Information you have submitted through this Site to verify your identity.</font><br>
+<br>
+<br>
+<b><font size="2" face="Arial">Stop Communications</font></b><br>
+<font size="2" face="Arial">If you are receiving marketing communications (brochures, e-mails, etc.) from us or anyone else with whom we may share Personal Information as described in this Policy, and you no longer wish to receive such communications, please send an e-mail to </font><a href="mailto:contact_brady@bradycorp.com"><u><font size="2" color="0000ff" face="Arial">contact_brady@bradycorp.com</font></u><font size="2" color="0000ff" face="Arial"> </font></a><font size="2" face="Arial">or complete our </font><a href="http://fs7.formsite.com/bradycorp/form031092627/index.html" target="_blank" title="eMail Opt Out Form"><u><font size="2" color="0000ff" face="Arial">eMail Opt Out Form</font></u></a><font size="2" color="FF00FF" face="Arial"> </font><font size="2" face="Arial">online.</font><br>
+<br>
+<b><font size="2" face="Arial">Security</font></b><br>
+<font size="2" face="Arial">Transmissions over the Internet are never 100% secure or error-free.  As a result, we do not, and cannot, guarantee the security, accuracy, or completeness of the Personal Information we gather from you.  You should be aware that e-mail submitted through this Site (including forms submitted via e-mail) may not be secure or encrypted, so you should take particular care in deciding what information you send via e-mail.  However, once we receive any Personal Information you provide to us, we do take reasonable steps to protect such Personal Information from loss, misuse, and unauthorized access, disclosure, alteration, and destruction.</font><br>
+<br>
+<b><font size="2" face="Arial">Contact Information</font></b><br>
+<font size="2" face="Arial">We hope that you will share with us any comments, questions or suggestions you might have regarding the information practices described in this Policy.  Please feel free to send us an e-mail at </font><a href="mailto:contact_brady@bradycorp.com"><u><font size="2" face="Arial">contact_brady@bradycorp.com</font></u></a><font size="2" face="Arial"> or write to us at Brady Corporation, PO Box 2131, Milwaukee, WI 53201, Attn: Ebusiness Department.</font><br>
+<br>
+<b><font size="2" face="Arial">Changes to this Policy</font></b><br>
+<font size="2" face="Arial">We reserve the right to change this Policy from time to time and in our sole discretion.  If the Policy for this Site changes, the revised policy will be posted at the "Privacy Policy" link on this Site's home page.  Please check the Policy frequently and particularly before you submit additional information via the Site. Your continued use of the Site constitutes acceptance of such changes in the Policy.</font><br>
+<br>
+<font size="2" face="Arial">This Privacy Policy was last revised on March 12th, 2004.</font></td></tr>
+</tbody></table>
+</td>
+</tr>
+<tr valign="top">
+<td width="580" bgcolor="FFFFFF">
+<p><br>
+<b></b><table border="0" cellspacing="0" cellpadding="0"><tbody><tr valign="top"><td width="578"><img src="/web/SiteBuilder/BradyiISBv1r0.nsf/c845586cd9f68ec586256bf200709e20/e15b9353d999566486256f7e005db197/Body/0.12E?OpenElement&amp;FieldElemFormat=jpg" width="544" height="24"><div align="center"><a href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/Copyright" title="Copyright 2004 Brady Corporation"><u><font size="1" face="Arial">Copyright 2005 Brady Corporation</font></u></a> <font size="1" face="Arial">|</font> <a href="/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/PrivacyPolicy" title="Privacy Policy"><u><font size="1" face="Arial">Privacy Policy</font></u></a> <font size="1" face="Arial">|</font> <a href="http://fs7.formsite.com/bradycorp/sitefeedback/index.html" target="_blank" title="Site Feedback"><u><font size="1" face="Arial">Site Feedback</font></u></a> <font size="1" face="Arial">|</font> <a href="http://www.bradydistributor.com/web/SiteBuilder/Distri35ISBv1r0.nsf/pages/distributorsplash" target="_blank" title="BradyDistributor.com"><u><font size="1" face="Arial">BradyDistributor.com</font></u></a></div></td></tr></tbody></table><br></p><div align="center"><a href="/web/SiteBuilder/BradyiISBv1r0.nsf/Files/BradyISO.pdf/$File/BradyISO.pdf" target="_blank"></a></div><b></b><br>
+<br>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<p>
+<input name="Server_Name" type="hidden" value="www.bradyid.com">
+<input name="DBPath" type="hidden" value="web|SiteBuilder|BradyiISBv1r0.nsf">
+<input name="FrameType" type="hidden" value="3B">
+<input name="BrowserType" type="hidden" value="Unknown">
+<input name="BrowserVersion" type="hidden" value="-1">
+<input name="TemplateLocation" type="hidden" value="Main Page">
+<input name="Path" type="hidden" value="web/SiteBuilder/BradyiISBv1r0.nsf">
+<input name="SearchButton" type="hidden" value="[<img src=/web/SiteBuilder/BradyiISBv1r0.nsf/Images/search_button.gif/$File/search_button.gif border=0 >]">
+<input name="HTMLTop" type="hidden" value="[<b></b><MAP NAME=&quot;n20E2.Body.2.3364&quot;><AREA SHAPE=rect COORDS=&quot;164,56,207,73&quot; ID=&quot;HotspotRectangle17_1&quot; TITLE=&quot;Home Page&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/HomePage&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;209,53,278,73&quot; ID=&quot;HotspotRectangle18_1&quot; TITLE=&quot;About Brady&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/AboutBrady&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;281,55,345,73&quot; ID=&quot;HotspotRectangle19_1&quot; TITLE=&quot;Contact Us&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ContactUs&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;349,54,457,73&quot; ID=&quot;HotspotRectangle20_1&quot; TITLE=&quot;Join Our Mailing List&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/JoinMailingList&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;462,54,556,73&quot; ID=&quot;HotspotRectangle21_1&quot; TITLE=&quot;Find a Distributor&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/FindDistributor&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;560,53,681,73&quot; ID=&quot;HotspotRectangle22_1&quot; TITLE=&quot;International Locations&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/IntlLocations&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;685,53,747,73&quot; ID=&quot;HotspotRectangle23&quot; TITLE=&quot;ISO 9001&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ISOCertification&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;6,8,136,47&quot; ID=&quot;HotspotRectangle24&quot; TITLE=&quot;Brady Home&quot; HREF=&quot;http://www.bradyid.com&quot; ALT=&quot;&quot;></MAP><IMG SRC=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/c845586cd9f68ec586256bf200709e20/b9412557c5962f0986256e540068da49/Body/0.7C?OpenElement&amp;FieldElemFormat=jpg&quot; WIDTH=748 HEIGHT=73 USEMAP=&quot;#n20E2.Body.2.3364&quot; BORDER=0><b></b>]">
+<input name="HTMLLeft" type="hidden" value="[<b></b><MAP NAME=&quot;n274E.Body.5.29CE&quot;><AREA SHAPE=rect COORDS=&quot;0,16,172,32&quot; ID=&quot;HotspotRectangle52_1&quot; TITLE=&quot;New Products&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/NewProducts&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,32,172,47&quot; ID=&quot;HotspotRectangle53_1&quot; TITLE=&quot;Press Releases&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/PressReleases&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,47,172,64&quot; ID=&quot;HotspotRectangle54_1&quot; TITLE=&quot;Events&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/Events&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,80,172,96&quot; ID=&quot;HotspotRectangle55_1&quot; TITLE=&quot;Featured Products by Category&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/FeatureCategory&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,96,172,110&quot; ID=&quot;HotspotRectangle56_1&quot; TITLE=&quot;Products by Application/Industry&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ProdApplication&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,110,172,124&quot; ID=&quot;HotspotRectangle57_1&quot; TITLE=&quot;All Products&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/AllProducts&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,124,172,139&quot; ID=&quot;HotspotRectangle58_1&quot; TITLE=&quot;Technical Data Sheets&quot; HREF=&quot;/tds/tdsv1r0.nsf/FLISSTSMDSearch&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,139,172,153&quot; ID=&quot;HotspotRectangle59_1&quot; TITLE=&quot;How to Buy&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/HowToBuy&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,153,172,171&quot; ID=&quot;HotspotRectangle60_1&quot; TITLE=&quot;Product Registration&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/productregistration&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,188,172,210&quot; ID=&quot;HotspotRectangle61_1&quot; TITLE=&quot;Brady ID Services&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/BradyIDServices&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,242,172,257&quot; ID=&quot;HotspotRectangle63_1&quot; TITLE=&quot;Drivers-Updates-Demos&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/DriversUpdates&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,257,172,271&quot; ID=&quot;HotspotRectangle64_1&quot; TITLE=&quot;Manuals-How Tos-Guides&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ManualGuides&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,271,172,287&quot; ID=&quot;HotspotRectangle65_1&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ContactTechSupp&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,304,172,326&quot; ID=&quot;HotspotRectangle66_1&quot; HREF=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/FLV/ResourceGuide&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,327,172,386&quot; ID=&quot;HotspotRectangle67_1&quot; TITLE=&quot;Are you a Brady Distributor?&quot; HREF=&quot;http://www.bradydistributor.com&quot; TARGET=&quot;_blank&quot; ALT=&quot;&quot;><AREA SHAPE=rect COORDS=&quot;0,227,172,242&quot; ID=&quot;HotspotRectangle68&quot; TITLE=&quot;Online Knowledge Base&quot; HREF=&quot;/brady/TSCv2r0.NSF/FL_KBSearchISDSM&quot; ALT=&quot;&quot;></MAP><IMG SRC=&quot;/web/SiteBuilder/BradyiISBv1r0.nsf/c845586cd9f68ec586256bf200709e20/37e02d970c6946ad86256ea2006d38d4/Body/0.7C?OpenElement&amp;FieldElemFormat=jpg&quot; WIDTH=172 HEIGHT=386 USEMAP=&quot;#n274E.Body.5.29CE&quot; BORDER=0><BR><b></b>]">
+
+
+</p></layer></form></body></html>
