@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macworld.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609134405id_/http%3A//www.macworld.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macworld.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205221613id_/http%3A//www.macworld.com/company/privacy.html) for the most accurate reproduction.*
 
 # Macworld: Privacy Statement
 
