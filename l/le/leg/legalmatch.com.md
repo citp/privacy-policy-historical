@@ -1,41 +1,27 @@
-> *The following text is extracted and transformed from the legalmatch.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205044829id_/http%3A//www.legalmatch.com/company/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalmatch.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605155913id_/http%3A//www.legalmatch.com/company/privacy_statement.html) for the most accurate reproduction.*
 
-# Policies-Privacy
+# LegalMatch - Privacy Statement
 
 |  |  |  |  |  |   
-|   |  |   |  |   
+|   |  |   |  Policies-Consumer |   
 ---  
 Privacy & Security Statement  
-Last updated on Apr 23, 2003   
-|  LegalMatch is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of:  | [](https://www.truste.org/validate/8330)  
----|---  
-  
-
-* What personally identifiable information of yours or third party personally identifiable information is collected from you through the web site
-* The organization collecting the information
-* How the information is used
-* With whom the information may be shared
-* What choices are available to you regarding collection, use and distribution of the information
-* The kind of security procedures that are in place to protect the loss, misuse or alteration of information under (Name of the Company) control
-* How you can correct any inaccuracies in the information.
-
+Last updated on Apr 23, 2003  
+LegalMatch is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: | [](https://www.truste.org/validate/8330)  
 If you have questions or concerns regarding this statement, please send an email to [privacy@legalmatch.com](mailto:privacy@legalmatch.com) or write to Legal Department, LegalMatch.com, 495 27th Avenue, San Francisco, CA 94121. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the web site to resolve your concerns.  
   
   
 Privacy & Security Statement  
   
-At LegalMatch.com, we are committed to protecting your privacy. It is also our goal to constantly improve our services to you and to keep up with rapidly changing technologies. In order to maximize our services to you, we use information collected about you while still protecting your privacy. Expecting future variations in our service, these policies are subject to change. If there are any modifications to these policies, we will post them on this page and notify you as described at the end of this policy.  
-  
-I.Security Measures Concerning Your Personal Information  
-  
-While transmission of information over the Internet cannot be guaranteed 100% secure, we make every effort to provide protection for the information that we collect about you. We, on our fully functional site, will use Secure Socket Layer (SSL) technology in the transmission of logon identification and passwords. SSL technology provides advanced encryption tools that convert the information you input into code before it is sent to us. The encryption helps protect you and the information in your account.  
-In addition to SSL technology:
-* Your personal information is password-protected. It is our policy to never sell or share traceable information about our users to third parties without user permission. See “Use of Information Collected” below.
-* Advanced firewall technologies protect our database from outsiders.
-* Your password and password reminder answers are kept encrypted at all times, so they cannot be decoded even if someone gains access to our database.
+At LegalMatch.com, we are committed to protecting your privacy. It is also our goal to constantly improve our services to you and to keep up with rapidly changing technologies. In order to maximize our services to you, we use information collected about you while still protecting your privacy. Expecting future variations in our service, these policies are subject to change. If there are any modifications to these policies, we will post them on this page and notify you as described at the end of this policy. I.Security Measures Concerning Your Personal Information While transmission of information over the Internet cannot be guaranteed 100% secure, we make every effort to provide protection for the information that we collect about you. We, on our fully functional site, will use Secure Socket Layer (SSL) technology in the transmission of logon identification and passwords. SSL technology provides advanced encryption tools that convert the information you input into code before it is sent to us. The encryption helps protect you and the information in your account.  
+In addition to SSL technology:  
 
-However, to avoid unauthorized use of your account by others, you must take steps to control your password. Further, this site contains various links to other Web sites. LegalMatch.com is not responsible for the privacy practices of those sites. You should not assume that other sites take similar steps in securing your information and should evaluate their privacy standards before using their systems.
 
+  * Your personal information is password-protected. It is our policy to never sell or share traceable information about our users to third parties without user permission. See “Use of Information Collected” below.
+  * Advanced firewall technologies protect our database from outsiders.
+  * Your password and password reminder answers are kept encrypted at all times, so they cannot be decoded even if someone gains access to our database.
+
+However, to avoid unauthorized use of your account by others, you must take steps to control your password. Further, this site contains various links to other Web sites. LegalMatch.com is not responsible for the privacy practices of those sites. You should not assume that other sites take similar steps in securing your information and should evaluate their privacy standards before using their systems.  
   
 II.Collection of Information  
   
@@ -70,10 +56,10 @@ This Web site is designed to disclose certain limited information to connect att
 
 * When a user posts a description of his or her legal matter, that information is reviewed only by attorneys and LegalMatch staff. The information is anonymous, meaning that the user's personally identifying information is kept hidden.
 * When an attorney responds to a posted matter by making an offer, the offer is seen only by the specific client and subscribing attorneys. The name and contact information of the offering attorney is available only to the specific client.
-* The name and contact information of attorneys placing flat fee advertisements will be available to all users. If a user requests an attorney’s contact information, the user’s name and zip code may be revealed to that attorney for the purpose of verifying whether an attorney-client relationship was formed. The attorney is precluded from using this information to contact the user.
-* The name of the user posting a rating and commentary for any attorney on this system may be released to that attorney, at the attorney’s request, for the purpose of replying to the rating.
+* The name and contact information of attorneys placing flat fee advertisements will be available to all users. If a user requests an attorney' s contact information, the user' s name and zip code may be revealed to that attorney for the purpose of verifying whether an attorney-client relationship was formed. The attorney is precluded from using this information to contact the user.
+* The name of the user posting a rating and commentary for any attorney on this system may be released to that attorney, at the attorney' s request, for the purpose of replying to the rating.
 * Information regarding whether an attorney-client relationship was formed will be used only for our internal records and statistics. We will not disclose this information to other parties, unless we are required to do so by law.
-* Except for the information referred to above, user’s contact information (i.e. address, telephone, fax, or e-mail) is never revealed to attorneys or other users.
+* Except for the information referred to above, user' s contact information (i.e. address, telephone, fax, or e-mail) is never revealed to attorneys or other users.
 * Partnership Related Disclosure.If you are on a site that is "Partner Site powered by LegalMatch" or whose address is www.partner.legalmatch.com, this means that LegalMatch has a partnership with the Partner Site and that LegalMatch may share some of your registration information with that partner. For people and small business LegalMatch will share only your name, email address and zip code. For attorneys, LegalMatch may also share your firm name, address, telephone number, state of licensure, bar number and areas of practice.
 
 LegalMatch.com may also develop business partnerships with other companies, as part of our service to users. These special business partnerships may include acquisitions by or mergers with other companies or special joint ventures that integrate our Web sites and services.
@@ -92,7 +78,6 @@ LegalMatch.com may release account information when we believe, in good faith, t
 IV.Consent and Changes to This Policy  
   
 By using our Web site, you consent to the collection and use of this information by LegalMatch.com. If we change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it, and under what circumstances we disclose it. If we make any changes to how we disclose personally identifiable information to others, we will notify you by email and provide you at least ten (10) days to object to such disclosure and to delete your registration.  
-|  |   
----|---|---  
   
-
+  
+ 
