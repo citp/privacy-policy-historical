@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttiinc.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409224702id_/http%3A//www.ttiinc.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttiinc.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095254id_/http%3A//www.ttiinc.com/privacy.asp) for the most accurate reproduction.*
 
 # TTI Inc
 
