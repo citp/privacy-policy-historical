@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectmanagement.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216065931id_/http%3A//projectmanagement.com/privacy/1%2C2544%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectmanagement.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416130947id_/http%3A//www.projectmanagement.com/privacy/1%2C2544%2C%2C00.html) for the most accurate reproduction.*
 
 # projectmanagement.com - Privacy Policy
 
@@ -65,8 +65,9 @@ _**Legal Agreement**_
 _**This Privacy Policy forms a legal agreement between you, gantthead.com and TA. Your use of the Website indicates your agreement to the terms of this Privacy Policy. You agree that the Electronic Communications Privacy Act (the "ECPA") shall not apply to any communications with the Website, gantthead.com or TA. gantthead.com and TA have the right to revise this Agreement at any time without notice by updating the Privacy Policy posted to the Website. If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact[contactus@gantthead.com](mailto:contactus@gantthead.com).**_
 
 gantthead.com, Inc.  
-3050 Chain Bridge Road Suite 600  
-Fairfax, VA 22030  
+4035 Ridge Top Rd.  
+Suite 300  
+Fairfax, VA, 22030  
 
 
 877/895 6506  
