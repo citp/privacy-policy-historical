@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twnpnews.com privacy policy that was archived on 2000-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000611154956id_/http%3A//www.twnpnews.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twnpnews.com privacy policy that was archived on 2000-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001007195527id_/http%3A//www.twnpnews.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -10,15 +10,27 @@
 
 We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used for other purposes. Your IP address is stored on the Web Servers log File, it is used to let TWNP know where our visitors are coming from. 
 
+We use WebTrends Live to conduct anonymous web traffic analysis for our site. While WebTrends Live makes use of cookies, no personal information is ever collected or analyzed by this service. For more information on WebTrends Live, please visit their site at <http://www.webtrendslive.com/privacy_policy.htm>. 
+
 ####  Cookies 
 
 Our Site uses cookies to deliver content specific to your interests.  Cookies are used on TWNP to store Preferences in our Message Forum and Online Games. 
 
 ####  Advertisers 
 
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
+We a few third party ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
-TWNP works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+TWNP works Flycast, a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>. 
+
+TWNP works with Advertising.com, a third party that serves ads to this site. To find out more about how Advertising.com manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.advertising.com/privacy/index.html>. 
+
+TWNP works with FocusIN, a third party that serves ads to this site. To find out more about how FocusIN manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.focusin.com/privacy.htm>. 
+
+TWNP works with Clear Blue Media, a third party that serves ads to this site. To find out more about how Clear Blue Media manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.clearbluemedia.com/privacy.html>. 
+
+TWNP works with Burst!, a third party that serves ads to this site. To find out more about how Burst! manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.burstmedia.com/release/privacy.asp>. 
+
+TWNP works with ContentZone, a third party that serves ads to this site. To find out more about how Content Zone manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.247media.com/privacy.html>. 
 
 ####  Order Forms 
 
