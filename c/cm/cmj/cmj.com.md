@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cmj.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405090007id_/http%3A//cmj.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmj.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014084601id_/http%3A//www.cmj.com/company/privacy.php) for the most accurate reproduction.*
 
-# CMJ Network: Privacy Policy
+# CMJ.com: new music first
 
 **CMJ Network, Inc. Privacy Policy**
 
-CMJ Network, Inc. ("CMJ") provides a variety of online services ("Services") through its websites located at [www.cmj.com](http://www.cmj.com/), [www.palavista.com](http://www.palavista.com/) and [ www.findsongs.com](http://www.findsongs.com/) (collectively, the "Sites"). 
+CMJ Network, Inc. ("CMJ") provides a variety of online services ("Services") through its websites located at [www.cmj.com](http://www.cmj.com/) and [www.palavista.com](http://www.palavista.com/) (collectively, the "Sites"). 
 
 CMJ Network, Inc. ("CMJ") respects the privacy of those who visit www.cmj.com ("users" or "visitors"). While we collect information from visitors, we do not release personally identifiable information about visitors without their permission except as set forth within this Privacy Policy, our Artist Services Terms of Service, and other published guidelines. 
 
