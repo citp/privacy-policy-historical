@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accesshollywood.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623113554id_/http%3A//g.msn.com/0nwenus0/CI/20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accesshollywood.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008104650id_/http%3A//g.msn.com/0nwenus0/A5/20) for the most accurate reproduction.*
 
 # MSN.com Privacy Statement
 
