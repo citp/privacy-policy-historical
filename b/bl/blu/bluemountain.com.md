@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216051123id_/http%3A//www.bluemountain.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemountain.com privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325015120id_/http%3A//www.bluemountain.com/warrants.pd) for the most accurate reproduction.*
 
 # Blue Mountain- Privacy Policy
 
