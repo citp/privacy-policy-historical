@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011104929id_/http%3A//www.greenville.k12.sc.us/district/web/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenville.k12.sc.us privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404033827id_/http%3A//www.greenville.k12.sc.us/district/web/policy/privacy.asp) for the most accurate reproduction.*
 
 # GCS Privacy Policy
 
-Monday, October 11, 2004 |  [](https://web.archive.org/district/web/policy/privacy.asp?print_view=true)  
+Sunday, April 03, 2005 |  [](https://web.archive.org/district/web/policy/privacy.asp?print_view=true)  
 ---|---  
   
 [ Download Print Version  
-](https://web.archive.org/web/20041011104929id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)[](http://www.adobe.com/products/acrobat/readstep2.html)
+](https://web.archive.org/web/20050404033827id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)[](http://www.adobe.com/products/acrobat/readstep2.html)
 
 ##  Web Site Privacy
 
@@ -92,4 +92,4 @@ Greenville, South Carolina
 
 Updated on May 23, 2002
 
-[ Download Print Version](https://web.archive.org/web/20041011104929id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)
+[ Download Print Version](https://web.archive.org/web/20050404033827id_/http%3A//www.greenville.k12.sc.us/district/web/policy/pdf/privacy.pdf)
