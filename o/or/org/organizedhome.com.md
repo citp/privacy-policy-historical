@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201021108id_/http%3A//organizedhome.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organizedhome.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405140343id_/http%3A//organizedhome.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - OrganizedHome.Com
 
-###### [organizedhome.com](https://web.archive.org/web/20011201021108id_/http%3A//organizedhome.com/index.shtml):  privacy policy
+###### [organizedhome.com](https://web.archive.org/web/20020405140343id_/http%3A//organizedhome.com/index.shtml):  privacy policy
 
 ## Privacy Policy
 
@@ -14,7 +14,7 @@ In an effort to support privacy policy disclosures on the Internet, Threadneedle
 
 This information pertains to the following sites, all of which are wholly owned by Threadneedle Press: 
 
-  * [OrganizedHome.Com](https://web.archive.org/web/20011201021108id_/http%3A//organizedhome.com/index.shtml)
+  * [OrganizedHome.Com](https://web.archive.org/web/20020405140343id_/http%3A//organizedhome.com/index.shtml)
   * [HolidayOrganizer.Com](http://holidayorganizer.com/)  
   * [HouseholdNotebook.Com](http://householdnotebook.com/)
   * [Perry Bear's Fun Page](http://perrybear.com/)
