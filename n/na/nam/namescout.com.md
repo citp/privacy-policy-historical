@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402132403id_/http%3A//www.namescout.com/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205002805id_/http%3A//namescout.com/privacy-statement.asp) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Namescout.com
 
 (Version 1.1 - Febuary 14, 2002) 
 
@@ -40,7 +40,7 @@ If you have any questions regarding this Privacy Statement, please contact [serv
 
 Namescout.com is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are a leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at[ https://www.namescout.com/](https://www.namescout.com/) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at[ https://www.namescout.com](https://www.namescout.com/) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
 
 After you've signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
 
@@ -52,7 +52,7 @@ As a domain name registrar, we compile and maintain a publicly accessible regist
 
 **Information Corrections Or Changes**
 
-You have the ability to correct or change certain information in our records, such as your address and contact information. The instructions for doing this can be found on our Web site at <https://www.namescout.com/>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail.
+You have the ability to correct or change certain information in our records, such as your address and contact information. The instructions for doing this can be found on our Web site at [https://www.namescout.com](https://www.namescout.com/). You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail.
 
 **How We Put Information To Good Use**
 
