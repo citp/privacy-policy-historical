@@ -1,33 +1,53 @@
-<!--The following is the downloaded HTML source of the campingworld.com privacy policy that was archived on 2002-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605162227id_/http%3A//www.campingworld.com/help/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the campingworld.com privacy policy that was archived on 2002-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209040407id_/http%3A//www.campingworld.com/help/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
 <title>Camping World - Home Page</title>
 
 <style type="text/css">
-
 	.normal {
-			font-family: arial, helvetica, sans serif; 
-			font-size: 13px
+		font-family: arial, helvetica, sans serif;
+		font-size: 12px
+	}
+	.NavHead {
+		font-family: verdana,arial, helvetica, sans serif;
+		font-size: 11px;
+		font-weight: bold;
+
+	}
+	.Header {
+		font-family: verdana,arial, helvetica, sans serif;
+		font-size: 14px;
+		font-weight: bold;
+
 	}
 	.normalWhite {
-			font-family: arial, helvetica, sans serif; 
-			font-size: 13px;
-			color: #ffffff;
-			text-decoration: none
+		font-family: arial, helvetica, sans serif;
+		font-size: 12px;
+		color: #ffffff;
+		text-decoration: none
+	}
+	.memberPrices {
+		font-family: arial, helvetica, sans serif;
+		font-size: 16px
 	}
 	.pcPrice {
-			color: #0000ff;
+		color: #0000ff;
 	}
 	.pageHead {
-		font-family: arial, helvetica, sans serif; 
-		font-size: 20px; 
+		font-family: arial, helvetica, sans serif;
+		font-size: 20px;
 	}
 	.errorRed {
-		font-family: arial, helvetica, sans serif; 
-		font-size: 13px; 
-		color: #cc0000
+		font-family: arial, helvetica, sans serif;
+		font-size: 12px;
+		color: #B53B28
+	}
+	.alertBlue {
+		font-family: arial, helvetica, sans serif;
+		font-size: 12px;
+		color: #0000FF
 	}
 	.spacerRow {
 		font-size: 8px
@@ -37,78 +57,32 @@
 		font-size: 28px;
 		font-weight: bold
 	}
-	.formField {
-		font-family: arial, helvetica, sans serif; 
-		font-size: 13px;
-	}
-	.leftCats {
-		font-family: arial, helvetica, sans serif; 
-		font-size: 13px;
-		font-weight: bold;
-		color: #ffffff;
-		text-decoration: none
-	}
-	a.leftCats:hover {
-		text-decoration: underline
-	}
 	a.black {
 		color: #000000
 	}
-	.formButton {
-	font: 13px arial;
-	}
 	.blueMessage {
-			font-family: arial, helvetica, sans serif; 
-			font-size: 13px;
-			font-weight: bold;
-			color: #336699;
+		font-family: arial, helvetica, sans serif;
+		font-size: 13px;
+		font-weight: bold;
+		color: #336699;
 	}
-	
+	.stateCountryDropDowns {
+		font-family: arial, helvetica, sans serif;
+		font-size: 12px;
+	}
+	.333399bullet {
+		font-family: arial, helvetica, sans serif;
+		font-size: 13px;
+		color: #666633;
+	}
+	.cc0000bullet {
+		font-family: arial, helvetica, sans serif;
+		font-size: 13px;
+		color: #cc0000;
+	}
 </style>
 <script language="javascript">
 <!--
-
-if (document.images) {
-	var pathVar = "help/";
-	imgDesc = new Array();
-	for(i=0;i<=6;i++) { 
-		imgDesc[i] = new Image();
-	}
-	imgDesc[0].src = "/images/tabs/shopDesc.gif";
-	imgDesc[1].src = "/images/tabs/servicesDesc.gif";
-	imgDesc[2].src = "/images/tabs/storesDesc.gif";
-	imgDesc[3].src = "/images/tabs/resourcesDesc.gif";
-	imgDesc[4].src = "/images/tabs/rvsDesc.gif";
-	/* set default tab description to active tab -- imgDesc[5].src
-	   based on path variable that gets set in application.cfm;
-	   wanted to use a switch here, but < version 4 browsers don't 
-	   support it */
-	if (pathVar == "services/") {
-		imgDesc[5].src = "/images/tabs/servicesDesc.gif";
-	}
-	else if (pathVar == "stores/") {
-		imgDesc[5].src = "/images/tabs/storesDesc.gif";
-	}
-	else if (pathVar == "resources/") {
-		imgDesc[5].src = "/images/tabs/resourcesDesc.gif";
-	}
-	else if (pathVar == "rvs/") {
-		imgDesc[5].src = "/images/tabs/rvsDesc.gif"
-	}
-	else {
-		imgDesc[5].src = "/images/tabs/shopDesc.gif";
-	}	
-}
-function onImg(imgID) {
-	if (document.images) {
-		document.images["tabDesc"].src = imgDesc[imgID].src;
-	}
-}
-function offImg(imgID) {
-	if (document.images) {
-		document.images["tabDesc"].src = imgDesc[imgID].src;
-	}
-}
 
 // need to consolidate these into one and pass the window parameters; will do later
 function printWindow(url) {
@@ -129,7 +103,7 @@ function imgWindow(url){
 
 function popup(fileName,name,winwidth,winheight) {
 	var page = fileName; 
-	var windowprops = "width=" + winwidth + ",height=" + winheight + ",location=no,scrollbars=no,menubars=no,toolbars=no,resizable=no";
+	var windowprops = "width=" + winwidth + ",height=" + winheight + ",location=no,scrollbars=no,menubar=no,toolbar=no,resizable=no";
 	window.open(page, name, windowprops);  
 }
 
@@ -140,445 +114,382 @@ function popup(fileName,name,winwidth,winheight) {
 </head>
 
 
-<body bgcolor="#ffffff" link="#0033cc" vlink="#0033cc" alink="#0033cc" leftmargin="0" topmargin="2" marginwidth="0" marginheight="2">
-<script language="JavaScript"> <!-- start WebCriteria UniTag(TM)
-if (location.protocol == "https:") {
-document.write("<scr"+"ipt language='JavaScript' src=https://a248.e.akamai.net/f/971/5453/1d/unitag-ssl.webcriteria.net:2443/conf/camp0002/camp0002.js"+"></scr"+"ipt>");
-document.write("<scr"+"ipt language='JavaScript' src=https://a248.e.akamai.net/7/971/5453/00001/unitag-ssl.webcriteria.net:2443/tags/unilib_2_7.js"+"></scr"+"ipt>");
-}
-else {
-document.write("<scr"+"ipt language='JavaScript' src=http://unitag.webcriteria.net/conf/camp0002/camp0002.js"+"></scr"+"ipt>");
-document.write("<scr"+"ipt language='JavaScript' src=http://unitag.webcriteria.net/tags/unilib_2_7.js"+"></scr"+"ipt>");
-}
-// --> 
-</script><script language="JavaScript" src="https://a248.e.akamai.net/f/971/5453/1d/unitag-ssl.webcriteria.net:2443/conf/camp0002/camp0002.js"></script><script language="JavaScript" src="https://a248.e.akamai.net/7/971/5453/00001/unitag-ssl.webcriteria.net:2443/tags/unilib_2_7.js"></script> 
+<body bgcolor="#ffffff" link="#000000" vlink="#000000" alink="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 
 
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="10" nowrap="">&nbsp;</td>
-		<td height="66" width="337"><a href="http://www.campingworld.com/index.cfm?tcode=1"><img src="/images/cwlogo.gif" border="0" width="250" height="55" alt="Camping World"></a></td>
-		<td width="403">
-		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+<table width="767" cellspacing="0" cellpadding="0" border="0" background="/images/redesign/parchment.gif">
+<tbody><tr>
+	<td colspan="3" height="5"><img src="/images/spacer.gif" alt="" height="5" width="5" border="0"></td>
+</tr>
+<tr>
+	<td rowspan="2" width="5"><img src="/images/spacer.gif" alt="" height="1" width="5" border="0"></td>
+    <td align="left" valign="middle"><a href="http://campingworld.com"><img src="/images/redesign/logo_top_p.gif" width="345" height="51" alt="" border="0"></a></td>
+    <td align="right" valign="top"><img src="/images/redesign/toplist_p.gif" width="353" height="31" alt="" border="0" usemap="#m_topRightLinks"></td>
+</tr>
+<tr>
+    <td><img src="/images/tabs_shop.gif" width="408" height="27" alt="" border="0" usemap="#m_tabs"></td>
+    <td align="center" valign="middle"><a href="/browse/categories/index.cfm?deptID=&amp;catID=279&amp;subOf=271"><img src="/images/redesign/special.gif" width="263" height="12" alt="" border="0"></a></td>
+</tr>
+<tr>
+    <td colspan="3"><img src="/images/redesign/pixie_grn.gif" alt="" height="3" width="767" border="0"></td>
+</tr>
+<tr>
+    <td bgcolor="#F2EADA" colspan="3" background="/images/redesign/parchment.gif" height="30">
+	<table width="100%" cellspacing="0" cellpadding="0" border="0">
 			<tbody><tr>
-				<td height="36" align="right"><img src="/images/topRightLinks.gif" width="340" height="31" align="absmiddle" border="0" usemap="#m_topRightLinks">&nbsp;&nbsp;</td>
-			</tr>
-			
-			<tr>
-				<td valign="bottom" align="right" height="30"><img src="/images/tabs/shopOn.gif" width="400" height="27" border="0" usemap="#m_tabs"></td>
-			</tr>
-		</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr bgcolor="#000066">
-		<td height="22" width="250"><img src="/images/topLeftPhone.gif" width="119" height="20" border="0" alt="1.800.616.2267"><a href="https://www.campingworld.com/catalog/index.cfm?tcode=8"><img src="/images/topLeftFreeCatalog.gif" width="93" height="20" border="0" alt="Free Catalog"></a></td>
-		<td align="center" width="500"><img name="tabDesc" src="/images/tabs/shopDesc.gif" width="500" height="20" border="0"></td>
-	</tr>
-</tbody></table>
-		
-<map name="m_topRightLinks">
-<area shape="rect" coords="299,0,334,31" href="http://www.campingworld.com/help/index.cfm?tcode=2" title="Help" alt="Help">
-<area shape="rect" coords="203,0,293,31" href="https://www.campingworld.com/account/" title="Your Account" alt="Your Account">
-<area shape="rect" coords="139,0,196,31" href="http://www.campingworld.com/wishlist/" title="Wish List" alt="Wish List">
-<area shape="rect" coords="95,0,132,31" href="http://www.campingworld.com/" title="Home" alt="Home">
-<area shape="rect" coords="0,0,88,31" href="http://www.campingworld.com/shoppingcart/" title="View Cart" alt="View Cart">
-</map>
-				
-<map name="m_tabs">
-<area shape="rect" coords="320,0,400,27" href="http://www.campingworld.com/rvs/index.cfm?tcode=7&amp;qref=003" onmouseover="onImg(4);" onmouseout="offImg(5);">
-<area shape="rect" coords="240,0,320,27" href="http://www.campingworld.com/resources/index.cfm?tcode=6" onmouseover="onImg(3);" onmouseout="offImg(5);">
-<area shape="rect" coords="160,0,240,27" href="http://www.campingworld.com/stores/index.cfm?tcode=5" onmouseover="onImg(2);" onmouseout="offImg(5);">
-<area shape="rect" coords="80,0,160,27" href="http://www.campingworld.com/services/index.cfm?tcode=4" onmouseover="onImg(1);" onmouseout="offImg(5);">
-<area shape="rect" coords="0,0,80,27" href="http://www.campingworld.com/index.cfm?tcode=3" onmouseover="onImg(0);" onmouseout="offImg(5);">
-</map>
-
-
-
-	
-	
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr bgcolor="#cccccc">
-		<td width="12" nowrap="">&nbsp;</td>
-		<td height="34" width="282" align="center">
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-			<form action="http://www.campingworld.com/shoppingcart/index.cfm" name="quickAdd" method="get"></form>
-			<input type="hidden" name="action" value="add">
-			<input type="hidden" name="src" value="QA">
-			<input type="hidden" name="tcode" value="10">
-			<tbody><tr>
-				<td class="normal"><b>Quick Add</b>&nbsp;
-				<input type="text" name="skuList" value="Enter Item #" size="8" onfocus="this.value='';" class="formField">
-				<input type="image" src="/images/buttons/smallGrayBGBuyNow.gif" width="62" height="18" alt="Buy Now" align="absmiddle" border="0">
+				<td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
+				<form action="http://campingworld.com/order/index.cfm" name="quickAdd" method="get"></form>
+				<td width="224">
+				<img src="/images/redesign/quickAdd_t.gif" alt="" border="0">
+					<input type="text" name="skuList" value="Enter Item #" size="8" onfocus="this.value='';" class="formField">
+					<input type="image" src="/images/redesign/buyNow.gif" alt="Buy Now" align="absmiddle" border="0">
+					
 				</td>
-			</tr>
-			
-		</tbody></table>
-		</td>
-		<td width="242" align="center">
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-			<form action="http://www.campingworld.com/redirect.cfm" method="post"></form>
-			<tbody><tr>
-				<td align="center">
-				<select name="index" size="1" class="formField" onchange="gotoPage(this.form.index)">
-					<option value="/" selected="">Choose A Product Category&nbsp;</option>
-					<option value="/">-----------------------------</option>
+				<input type="hidden" name="exe" value="cart.add">
+				<input type="hidden" name="src" value="QA">
+				<input type="hidden" name="tcode" value="10">
 					
-						<option value="http://www.campingworld.com/browse/departments/index.cfm?deptID=1&amp;tcode=9">OUTDOOR</option>
-						
-							<option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=1&amp;catID=2&amp;tcode=9">- Awnings, Screens &amp; Shades
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=1&amp;catID=7&amp;tcode=9">- Bikes &amp; Racks
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=1&amp;catID=5&amp;tcode=9">- Grills
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=1&amp;catID=6&amp;tcode=9">- Outdoor
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=1&amp;catID=3&amp;tcode=9">- Steps &amp; Mats
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=1&amp;catID=4&amp;tcode=9">- Tables &amp; Chairs
-						
-						</option><option value="/"></option>
+									
 					
-						<option value="http://www.campingworld.com/browse/departments/index.cfm?deptID=2&amp;tcode=9">UPKEEP &amp; STORAGE</option>
-						
-							<option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=2&amp;catID=12&amp;tcode=9">- Cleaning
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=2&amp;catID=8&amp;tcode=9">- Covers
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=2&amp;catID=11&amp;tcode=9">- Maintenance &amp; Repair
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=2&amp;catID=10&amp;tcode=9">- Storage
-						
-						</option><option value="/"></option>
-					
-						<option value="http://www.campingworld.com/browse/departments/index.cfm?deptID=3&amp;tcode=9">SYSTEMS</option>
-						
-							<option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=3&amp;catID=16&amp;tcode=9">- Air Conditioners &amp; Vents
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=3&amp;catID=55&amp;tcode=9">- Electrical
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=3&amp;catID=17&amp;tcode=9">- Heaters
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=3&amp;catID=14&amp;tcode=9">- LP
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=3&amp;catID=19&amp;tcode=9">- Sanitation
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=3&amp;catID=18&amp;tcode=9">- Toilets &amp; Bath
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=3&amp;catID=13&amp;tcode=9">- Water
-						
-						</option><option value="/"></option>
-					
-						<option value="http://www.campingworld.com/browse/departments/index.cfm?deptID=4&amp;tcode=9">INTERIOR</option>
-						
-							<option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=4&amp;catID=21&amp;tcode=9">- Bedding
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=4&amp;catID=22&amp;tcode=9">- Furnishings
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=4&amp;catID=27&amp;tcode=9">- Good Sam Merchandise
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=4&amp;catID=25&amp;tcode=9">- Kitchen
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=4&amp;catID=20&amp;tcode=9">- Laundry
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=4&amp;catID=23&amp;tcode=9">- Lighting
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=4&amp;catID=26&amp;tcode=9">- TV &amp; Satellites
-						
-						</option><option value="/"></option>
-					
-						<option value="http://www.campingworld.com/browse/departments/index.cfm?deptID=5&amp;tcode=9">ON THE ROAD</option>
-						
-							<option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=28&amp;tcode=9">- Books &amp; Games
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=30&amp;tcode=9">- CBs &amp; Radios
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=33&amp;tcode=9">- Jacks &amp; Levels
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=32&amp;tcode=9">- Mirrors &amp; Backup
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=31&amp;tcode=9">- Navigation
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=36&amp;tcode=9">- Performance
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=35&amp;tcode=9">- Shocks &amp; Stabilizers
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=37&amp;tcode=9">- Towing
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=29&amp;tcode=9">- Travel Comforts
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=116&amp;tcode=9">- Truck Accessories
-						
-							</option><option value="http://www.campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=34&amp;tcode=9">- Wheels &amp; Accessories
-						
-						</option><option value="/"></option>
-					
-				</select>
-				<input type="image" src="/images/buttons/grayBGGo.gif" width="22" height="22" alt="Go" align="absmiddle" border="0">
-				</td>
-			</tr>
-			
-		</tbody></table>
-		</td>
-		<td width="202" align="center">
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-			<form action="http://www.campingworld.com/search/index.cfm?tcode=11" method="get"></form>
-			<input type="hidden" name="action" value="search"><input type="Hidden" name="tcode" value="11">
-			<tbody><tr>
-				<td align="right" class="normal"><b>Search</b>&nbsp;
+				<form action="http://campingworld.com/search/index.cfm" method="get"></form>
+				<input type="hidden" name="action" value="search"><input type="Hidden" name="tcode" value="11">
+				<td width="205">	
+				<img src="/images/redesign/search_t.gif" alt="" border="0">
 				<input type="text" name="keywords" size="8" class="formField">
-				<input type="image" src="/images/buttons/grayBGGo.gif" width="22" height="22" alt="Go" align="absmiddle" border="0">
-				</td>
+				<input type="image" src="/images/redesign/go.gif" alt="Go" align="absmiddle" border="0">
+				</td> 
+				
+				<td class="normal" align="center"><a href="/catalog/">Free Catalog</a>  |  <a href="/browse/giftCertificates.cfm">Gift Certificates</a> </td>
 			</tr>
-			
 		</tbody></table>
-		</td>
-		<td width="12" nowrap="">&nbsp;</td>
-	</tr>
+	
+	</td>
+    
+</tr>
+<tr>
+    <td colspan="3"><img src="/images/redesign/pixie_blk.gif" alt="" height="1" width="767" border="0"><br>
+	</td>
+</tr>
 </tbody></table>
 
 
 
 
-<table width="750" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td colspan="5"><img src="/images/spacer.gif" width="1" height="15" border="0"></td>
-	</tr>
-</tbody></table>
+<map name="m_topRightLinks">
+<area shape="rect" alt="" coords="64,0,135,14" href="http://campingworld.com/info/aboutus/">
+<area shape="rect" alt="" coords="136,0,222,14" href="#" onclick="window.open('/contactUs.cfm', 'offer', 'width=500,height=300,status=no,resizable=yes,scrollbars=yes'); return false;" title="Contact Us">
+<area shape="rect" alt="" coords="223,0,313,14" href="http://campingworld.com/catalog/">
+<area shape="rect" alt="" coords="314,0,353,14" href="http://campingworld.com/help/">
+<area shape="rect" alt="" coords="287,15,353,31" href="http://campingworld.com/wishlist/">
+<area shape="rect" alt="" coords="186,15,286,31" href="http://campingworld.com/account/">
+<area shape="rect" alt="" coords="90,15,185,31" href="http://campingworld.com/orderStatus/">
+<area shape="rect" alt="" coords="0,15,89,31" href="http://campingworld.com/order/">
+<area shape="rect" alt="" coords="5,0,63,14" href="http://campingworld.com/">
+</map>
+
+		
+<map name="m_tabs">
+<area shape="rect" coords="327,0,408,27" href="http://campingworld.com/rvs/index.cfm?tcode=7&amp;qref=003">
+<area shape="rect" coords="246,0,326,27" href="http://campingworld.com/resources/index.cfm?tcode=6">
+<area shape="rect" coords="163,0,245,27" href="http://campingworld.com/stores/index.cfm?tcode=5">
+<area shape="rect" coords="81,0,162,27" href="http://campingworld.com/services/index.cfm?tcode=4">
+<area shape="rect" coords="0,0,80,27" href="http://campingworld.com/index.cfm?tcode=3">
+</map>
+
+
 
 
 <table width="750" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	
+		
+		<td width="10" background="/images/redesign/parchment.gif"><img src="/images/spacer.gif" width="10" height="1" border="0"></td>
+
+<td width="145" valign="top" bgcolor="#F2EADA" background="/images/redesign/parchment.gif">
+<img src="/images/spacer.gif" alt="" height="10" width="1" border="0"><br>
+	<a href="/browse/" class="navHead"><b>DEPARTMENTS</b></a><br><br>
+
+
+
+<table cellpadding="0" height="100%" cellspacing="0" border="0" width="100%">
 	
 	<tbody><tr>
-		<td></td>
-		<td rowspan="99" bgcolor="#666666"><img src="/images/spacer.gif" width="1" height="1" alt="" border="0"></td>
-		<td colspan="2"></td>
+		<td class="normal">
+		<a href="http://campingworld.com/browse/departments/index.cfm?deptID=1&amp;tcode=9"><img src="/images/dept_1.gif" alt="" border="0"></a>
+		</td>
 	</tr>
-	
 	<tr>
-	
-		
-		
-
-<td width="160" valign="top" align="center">
-
-
-
-		
-
-	<table width="160" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td align="right">
-			<table width="150" border="0" cellpadding="0" cellspacing="0">
+		<td>
+		<table cellpadding="1" cellspacing="0" border="0" width="100%">
+			
 				<tbody><tr>
-					<td><a href="/browse/index.cfm?tcode=12"><img src="/images/departments/productDirectory.gif" width="150" height="22" alt="Product Directory" border="0"></a></td>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=1&amp;catID=3&amp;tcode=9">Steps &amp; Mats</a>
+					</td>
 				</tr>
+			
 				<tr>
-					<td><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=1&amp;catID=7&amp;tcode=9">Bikes &amp; Racks</a>
+					</td>
 				</tr>
-				
-					<tr bgcolor="#0099cc">
-						<td><a href="http://www.campingworld.com/browse/departments/index.cfm?tcode=26&amp;deptID=1"><img src="/images/departments/leftOutdoor.gif" width="150" height="25" border="0" alt="OUTDOOR"></a></td>
-					</tr>
-					
-					<tr>
-						<td><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
-					</tr>
-				
-					<tr bgcolor="#336699">
-						<td><a href="http://www.campingworld.com/browse/departments/index.cfm?tcode=26&amp;deptID=2"><img src="/images/departments/leftUpkeep.gif" width="150" height="25" border="0" alt="UPKEEP &amp; STORAGE"></a></td>
-					</tr>
-					
-					<tr>
-						<td><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
-					</tr>
-				
-					<tr bgcolor="#990000">
-						<td><a href="http://www.campingworld.com/browse/departments/index.cfm?tcode=26&amp;deptID=3"><img src="/images/departments/leftSystems.gif" width="150" height="25" border="0" alt="SYSTEMS"></a></td>
-					</tr>
-					
-					<tr>
-						<td><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
-					</tr>
-				
-					<tr bgcolor="#cc9900">
-						<td><a href="http://www.campingworld.com/browse/departments/index.cfm?tcode=26&amp;deptID=4"><img src="/images/departments/leftInterior.gif" width="150" height="25" border="0" alt="INTERIOR"></a></td>
-					</tr>
-					
-					<tr>
-						<td><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
-					</tr>
-				
-					<tr bgcolor="#669900">
-						<td><a href="http://www.campingworld.com/browse/departments/index.cfm?tcode=26&amp;deptID=5"><img src="/images/departments/leftOnRoad.gif" width="150" height="25" border="0" alt="ON THE ROAD"></a></td>
-					</tr>
-					
-					<tr>
-						<td><img src="/images/spacer.gif" width="1" height="1" border="0" alt=""></td>
-					</tr>
-				
-				
-			</tbody></table>
-			</td>
-		</tr>
-	</tbody></table>
-
-<table width="130" border="0" cellpadding="1" cellspacing="0">
-	<tbody><tr>
-		<td colspan="2" class="spacerRow">&nbsp;</td>
-	</tr>
-	<tr>
-		<td colspan="2" class="normal"><b>Shopping Center</b></td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="http://www.campingworld.com/browse/index.cfm?tcode=25">Product Directory</a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="http://www.campingworld.com/sweepstakes/">Sweepstakes</a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="http://www.campingworld.com/browse/products/index.cfm?prodID=1431">Gift Certificates</a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="http://www.campingworld.com/pc/">President's Club</a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="https://www.campingworld.com/catalog/index.cfm?tcode=32">Free Catalog</a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="http://www.campingworld.com/info/satisfaction/">Return Policy</a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="http://www.campingworld.com/info/aboutprices.cfm">About Our Prices</a> 
-		</td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="/redirect.cfm?tcode=40&amp;goto=http://www.rvdealership.com/magniwebapp/index.asp?DealerNumber=265944&amp;HeaderURL=http://www.rvdealership.com/headers/CampingWorldHeader.html">Hard-To-Find Parts</a> 
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2" class="spacerRow">&nbsp;</td>
-	</tr>
-</tbody></table>
-
-
-<hr width="85%" size="1">
-
-<table width="130" border="0" cellpadding="1" cellspacing="0">
-	<tbody><tr>
-		<td colspan="2" class="normal"><b>Our Company</b></td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="http://www.campingworld.com/info/aboutus/">About Us</a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="http://www.campingworld.com/help/index.cfm?action=contact">Contact Us</a>
-		</td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="http://www.campingworld.com/jobs/">Job Opportunities</a>
-		</td>
-	</tr>
-		<tr>
-		<td valign="top"><img src="/images/bluearrow.gif" width="10" height="13" border="0"></td>
-		<td width="100%" class="normal">
-		<a href="http://www.cwrvi.com">RV Technical Training</a>
-		</td>
-	</tr>
-	
-	<tr>
-		<td colspan="2" class="spacerRow">&nbsp;</td>
-	</tr>
-</tbody></table>
-
-
-
-	
-	
-		<table width="130" border="0" cellpadding="1" cellspacing="0" bgcolor="#666666">
-			<tbody><tr>
-				<td>
-				<table width="130" border="0" cellpadding="10" cellspacing="0" bgcolor="#ffffff">
-					<tbody><tr>
-						<td class="normal" align="center">
-						<b><span style="font-size: 20px; color: #990000">SAVE 10%</span></b>
-						<br>
-						with President's
-						<br>
-						Club Members
-						<br>
-						prices shown in parenthesis
-						<br>
-						<b><i><span style="color: #0000ff">(P.C. $0.00)</span></i></b>.
-						<br>
-						<a href="http://www.campingworld.com/pc/index.cfm?tcode=17"><b>Not a member?</b></a>
-						</td>
-					</tr>
-				</tbody></table>
-				</td>
-			</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=1&amp;catID=4&amp;tcode=9">Tables &amp; Chairs</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=1&amp;catID=280&amp;tcode=9">Tent Camping</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="cc0000bullet">•</td>
+					<td class="normal">
+					<a href="http://campingworld.com/browse/departments/index.cfm?deptID=1&amp;tcode=9" class="errorRed"><b>More...</b></a>
+					</td>
+				</tr>
+			
 		</tbody></table>
-		
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/spacer.gif" width="1" height="8" border="0"></td>
+	</tr>
+	
+	<tr>
+		<td class="normal">
+		<a href="http://campingworld.com/browse/departments/index.cfm?deptID=2&amp;tcode=9"><img src="/images/dept_2.gif" alt="" border="0"></a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		<table cellpadding="1" cellspacing="0" border="0" width="100%">
+			
+				<tbody><tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=2&amp;catID=8&amp;tcode=9">Covers</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=2&amp;catID=11&amp;tcode=9">Maintenance &amp; Repair</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=2&amp;catID=12&amp;tcode=9">Cleaning</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=2&amp;catID=10&amp;tcode=9">Storage</a>
+					</td>
+				</tr>
+			
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/spacer.gif" width="1" height="8" border="0"></td>
+	</tr>
+	
+	<tr>
+		<td class="normal">
+		<a href="http://campingworld.com/browse/departments/index.cfm?deptID=3&amp;tcode=9"><img src="/images/dept_3.gif" alt="" border="0"></a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		<table cellpadding="1" cellspacing="0" border="0" width="100%">
+			
+				<tbody><tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=3&amp;catID=16&amp;tcode=9">Air Conditioners &amp; Vents</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=3&amp;catID=19&amp;tcode=9">Sanitation</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=3&amp;catID=13&amp;tcode=9">Water</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=3&amp;catID=55&amp;tcode=9">Electrical</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="cc0000bullet">•</td>
+					<td class="normal">
+					<a href="http://campingworld.com/browse/departments/index.cfm?deptID=3&amp;tcode=9" class="errorRed"><b>More...</b></a>
+					</td>
+				</tr>
+			
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/spacer.gif" width="1" height="8" border="0"></td>
+	</tr>
+	
+	<tr>
+		<td class="normal">
+		<a href="http://campingworld.com/browse/departments/index.cfm?deptID=4&amp;tcode=9"><img src="/images/dept_4.gif" alt="" border="0"></a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		<table cellpadding="1" cellspacing="0" border="0" width="100%">
+			
+				<tbody><tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=4&amp;catID=26&amp;tcode=9">TV &amp; Satellites</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=4&amp;catID=25&amp;tcode=9">Kitchen</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=4&amp;catID=22&amp;tcode=9">Furnishings</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=4&amp;catID=23&amp;tcode=9">Lighting</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="cc0000bullet">•</td>
+					<td class="normal">
+					<a href="http://campingworld.com/browse/departments/index.cfm?deptID=4&amp;tcode=9" class="errorRed"><b>More...</b></a>
+					</td>
+				</tr>
+			
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/spacer.gif" width="1" height="8" border="0"></td>
+	</tr>
+	
+	<tr>
+		<td class="normal">
+		<a href="http://campingworld.com/browse/departments/index.cfm?deptID=5&amp;tcode=9"><img src="/images/dept_5.gif" alt="" border="0"></a>
+		</td>
+	</tr>
+	<tr>
+		<td>
+		<table cellpadding="1" cellspacing="0" border="0" width="100%">
+			
+				<tbody><tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=37&amp;tcode=9">Towing</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=29&amp;tcode=9">Travel Comforts</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=33&amp;tcode=9">Jacks &amp; Levels</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="333399bullet" width="8" nowrap="">•</td>
+					<td class="normal" width="100%">
+					<a href="http://campingworld.com/browse/categories/index.cfm?deptID=5&amp;catID=34&amp;tcode=9">Tires, Wheels, &amp; Accessories</a>
+					</td>
+				</tr>
+			
+				<tr>
+					<td valign="top" class="cc0000bullet">•</td>
+					<td class="normal">
+					<a href="http://campingworld.com/browse/departments/index.cfm?deptID=5&amp;tcode=9" class="errorRed"><b>More...</b></a>
+					</td>
+				</tr>
+			
+		</tbody></table>
+		</td>
+	</tr>
+	<tr>
+		<td><img src="/images/spacer.gif" width="1" height="8" border="0"></td>
+	</tr>
 	
 	
-
-
-<br>
-
-<table width="130" border="0" cellpadding="1" cellspacing="0">
-	<tbody><tr>
-		<td align="center"><a href="/Passport/index.cfm?tcode=44"><img src="/images/passport_button.gif" alt="Passport America" border="0"></a></td>
-	</tr>
+	<tr><td class="normal">
+	<hr color="#BEAF97" size="1" width="95%">
+				
+		<span class="NavHead">NEWSLETTER</span><br>
+							<br>			
+								Sign up to receive our monthly newsletter. 
+								<br>
+								<table border="0">
+									<tbody><tr>
+										<td class="normal">
+										<b>Email Address</b>
+										<br>
+										<input type="text" name="emailAddress" size="11">
+										<input type="image" src="/images/redesign/go.gif" alt="Go" align="absmiddle" border="0">
+										<input type="hidden" name="fromForm" value="yes">
+										</td>
+									</tr>
+								</tbody></table>
+	</td></tr>
 </tbody></table>
 
-<br>
-
-<table width="130" border="0" cellpadding="1" cellspacing="0">
-	<tbody><tr>
-		<td align="center"><a href="http://www.rv.net/"><img src="/images/rvnet.gif" width="98" height="54" alt="RV.net" border="0"></a></td>
-	</tr>
-</tbody></table>
-
-
+<br><br>
+<img src="/images/spacer.gif" width="145" height="1">
 </td>
+<td width="1" bgcolor="#BEAF97"><img src="/images/spacer.gif" width="1" height="1" border="0"></td>
 
-
-<td width="15" nowrap="">&nbsp;</td>
-
+<td width="9" nowrap="">&nbsp;</td>
 		
 		
 		<td width="575" valign="top">
@@ -600,10 +511,10 @@ document.write("<scr"+"ipt language='JavaScript' src=http://unitag.webcriteria.n
 		<br><br>
 		
 <a href="http://www.affinitygroup.com"><font color="blue">www.affinitygroup.com</font></a><br>
-<a href="http://www.americanrider.com"><font color="blue">www.americanrider.com</font></a><br>
+<a href="http://www.riderreport.com"><font color="blue">www.americanrider.com</font></a><br>
 <a href="http://www.atvnews.com"><font color="blue">www.atvnews.com</font></a><br>
 
-<a href="http://www.bowhuntingnews.com"><font color="blue">www.bowhuntingnews.com</font></a><br>
+<a href="http://www.bowhuntingworld.com"><font color="blue">www.bowhuntingworld.com</font></a><br>
 
 <a href="http://www.campingworld.com"><font color="blue">www.campingworld.com</font></a><br>
 <a href="http://www.coastresorts.com"><font color="blue">www.coastresorts.com</font></a><br>
@@ -615,7 +526,7 @@ document.write("<scr"+"ipt language='JavaScript' src=http://unitag.webcriteria.n
 <a href="http://www.motorcyclereport.com"><font color="blue">www.motorcyclereport.com</font></a><br>
 <a href="http://www.motorhomeamericaclub.com"><font color="blue">www.motorhomeamericaclub.com</font></a><br>
 <a href="http://www.motorhomemagazine.com"><font color="blue">www.motorhomemagazine.com</font></a><br>
-<a href="http://www.pwcmagazine.com"><font color="blue">www.pwcmagazine.com</font></a><br>
+
 <a href="http://www.ridermagazine.com"><font color="blue">www.ridermagazine.com</font></a><br>
 <a href="http://www.rv.net"><font color="blue">www.rv.net</font></a><br>
 <a href="http://www.rvbg.com"><font color="blue">www.rvbg.com</font></a><br>
@@ -627,12 +538,9 @@ document.write("<scr"+"ipt language='JavaScript' src=http://unitag.webcriteria.n
 <a href="http://www.rvroadservice.com"><font color="blue">www.rvroadservice.com</font></a><br>
 <a href="http://www.rvsearch.com"><font color="blue">www.rvsearch.com</font></a><br>
 <a href="http://www.rvtoday.tv"><font color="blue">www.rvtoday.tv</font></a><br>
-<a href="http://www.rvview.com"><font color="blue">www.rvview.com</font></a><br>
 <a href="http://www.snowgoer.com"><font color="blue">www.snowgoer.com</font></a><br>
 <a href="http://www.snowmobilemagazine.com"><font color="blue">www.snowmobilemagazine.com</font></a><br>
 <a href="http://www.snowmobilenews.com"><font color="blue">www.snowmobilenews.com</font></a><br>
-<a href="http://www.snowweek.com"><font color="blue">www.snowweek.com</font></a><br>
-<a href="http://www.tlbooks.com"><font color="blue">www.tlbooks.com</font></a><br>
 <a href="http://www.tldirectory.com"><font color="blue">www.tldirectory.com</font></a><br>
 <a href="http://www.trailerlife.com"><font color="blue">www.trailerlife.com</font></a><br>
 <a href="http://www.watercraftnews.com"><font color="blue">www.watercraftnews.com</font></a><br>
@@ -821,50 +729,75 @@ The federal trade commission by phone @ (202) FTC-HELP.
 </tbody></table>
 
 
-<br><br>
-	
-<table width="750" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td align="right"><hr width="98%" size="1"></td>
+
+<table width="767" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr bgcolor="#BEAF97">
+		<td><img src="/images/spacer.gif" width="1" height="1" border="0"></td>
 	</tr>
 	<tr>
-		<td align="center">
-		<table width="730" border="0" cellpadding="5" cellspacing="0">
-			<tbody><tr>
-				<td align="center" class="normal">
-				
-				
-				<a href="http://www.campingworld.com/">Shopping</a> | 
-				<a href="http://www.campingworld.com/services/">Services</a> | 
-				<a href="http://www.campingworld.com/stores/">Stores</a> | 
-				<a href="http://www.campingworld.com/resources/">Resources</a> | 
-				<a href="http://www.campingworld.com/rvs/">RV Sales</a>
-				<br>
-				<a href="http://www.campingworld.com/shoppingcart/">View Cart</a> | 
-				<a href="http://www.campingworld.com/">Home</a> | 
-				<a href="http://www.campingworld.com/wishlist/">Wish List</a> | 
-				<a href="http://www.campingworld.com/account/">Your Account</a> | 
-				<a href="http://www.campingworld.com/help/">Help</a>
-				
-				</td>
-			</tr>
-			<tr>
-				<td align="center" class="normal"><b>Order Toll Free/Questions? 1-800-616-2267</b></td>
-			</tr>
-			<tr>
-				<td align="center" class="normal">
-				Copyright© 2002 Camping World, Inc. All rights reserved - 
-				<a href="http://www.campingworld.com/help/terms.cfm">Site Terms</a> | <a href="http://www.campingworld.com/help/privacy.cfm">Privacy Policy</a>
-				</td>
-			</tr>
-		</tbody></table>
+		<td><img src="/images/spacer.gif" width="1" height="12" border="0"></td>
+	</tr>
+	
+	<tr>
+		<td class="normal" align="center" height="22">
+		<a href="http://campingworld.com/">Home</a>
+		| 
+		<a href="http://campingworld.com/order/">View Cart</a>
+		|
+		<a href="http://campingworld.com/orderstatus/">Order Status</a>
+		|
+		<a href="http://campingworld.com/account/">Your Account</a>
+		|
+		<a href="http://campingworld.com/wishlist/">Wish List</a>
+		|
+		<a href="http://campingworld.com/help/">Help</a>
+		</td>
+	</tr>
+	<tr>
+		<td class="normal" align="center" height="22">
+		<a href="http://campingworld.com/info/satisfaction/">Return Policy</a>
+		|
+		<a href="http://campingworld.com/info/aboutus/">About Us</a>
+		|
+		<a href="http://campingworld.com/jobs/">Job Opportunities</a>
+		|
+		<a href="http://www.cwrvi.com/">RV Technical Training</a>
+		|
+		<a href="http://campingworld.com/info/aboutprices.cfm">About Our Prices</a>
+		</td>
+	</tr>
+	
+	<tr>
+		<td align="center" class="normal" height="28"><b>Order Toll Free/Questions?</b>
+		<a href="#" onclick="window.open('/contactUs.cfm', 'offer', 'width=500,height=300,status=no,resizable=yes,scrollbars=yes'); return false;">Click here for <b>Contact Information</b></a>.</td>
+	</tr>
+	<tr>
+		<td align="center" class="normal" height="22">
+		Copyright© 2002 Camping World, Inc. All rights reserved - 
+		<a href="http://campingworld.com/help/terms.cfm">Site Terms</a> | <a href="http://campingworld.com/help/privacy.cfm">Privacy Policy</a>
 		</td>
 	</tr>
 </tbody></table>
-
+		
 <br>
 
+<script language="JavaScript">
+<!-- start WebCriteria UniTag(TM)
+var wc_cid = "camp0002";
+document.write("<scr"+"ipt language='JavaScript' src=" + location.protocol + "//metrics.webcriteria.net/tags/unilib_2_18.js" + "></scr"+"ipt>");
+// -->
+</script><script language="JavaScript" src="https://metrics.webcriteria.net/tags/unilib_2_18.js"></script>
 	
 
 
+
+<!-- 
+
+prod2
+
+125ms
+
+0903154524635513090
+
+-->
 </body></html>
