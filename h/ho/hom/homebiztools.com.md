@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebiztools.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017024214id_/http%3A//www.homebiztools.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebiztools.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605055303id_/http%3A//homebiztools.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Home Biz Tools
 
@@ -49,7 +49,7 @@ This site gives users the following options for changing and modifying informati
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can:
 
 Use the online form at:  
-[http://www.homebiztools.com/contact.htm](https://web.archive.org/web/20021017024214id_/http%3A//www.homebiztools.com/contact.htm)
+[http://www.homebiztools.com/contact.htm](https://web.archive.org/web/20030605055303id_/http%3A//homebiztools.com/contact.htm)
 
 Email us at:   
 [webmaster@homebiztools.com](mailto:webmaster@homebiztools.com)
@@ -57,32 +57,5 @@ Email us at:
 Write to us at:
 
 B-K Publications  
-Attn: Brett Krkosska  
-609 S Maple St.  
-Douglass, KS 67039
-
-|  |  
-
-|  |   
----|---  
-  
-**[Resources](https://web.archive.org/web/20021017024214id_/http%3A//www.homebiztools.com/resources.htm) »   
-**Website design, hosting, marketing, promotion, ebooks, software, publishing, and more!  
-  
-**[Start-up](https://web.archive.org/web/20021017024214id_/http%3A//www.homebiztools.com/start-a-biz.htm) »   
-**Home business ideas, products to sell, books, e-biz tutorials, affiliate tools, biz directory...  
-  
-**[Jobs](https://web.archive.org/web/20021017024214id_/http%3A//www.homebiztools.com/homejobs.htm) »   
-**Job banks, freelance sites, resume creation and submission...  
-  
-**[Articles](https://web.archive.org/web/20021017024214id_/http%3A//www.homebiztools.com/freerprt.htm) »   
-**Insider views and advice to make your home business soar.  
-  
-**[Services](https://web.archive.org/web/20021017024214id_/http%3A//www.homebiztools.com/services.htm) »   
-**Free tools, suggest your url, advertising info., discussion forums, reviews...  
-  
- 
-
-[](https://web.archive.org/web/20021017024214id_/http%3A//www.homebiztools.com/index2.htm)
-
-[](https://web.archive.org/web/20021017024214id_/http%3A//www.homebiztools.com/refer.htm)
+P.O. Box 771464  
+Wichita, KS 67277
