@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinet.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411142516id_/http%3A//www.skinet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinet.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813160304id_/http%3A//www.skinet.com/privacy.html) for the most accurate reproduction.*
 
 # SkiNet.com | Contact Us
 
