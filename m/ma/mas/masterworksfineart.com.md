@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterworksfineart.com privacy policy that was archived on 2000-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000604215442id_/http%3A//www.masterworksfineart.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterworksfineart.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202225600id_/http%3A//www.masterworksfineart.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -18,5 +18,8 @@ If you have any questions about this privacy statement, the practices of this si
 
 Alex Adelman  
 Masterworks Fine Art  
-1-800-805-7060   
+800-805-7060  
+510-527-6693   
 [alex@art4you.com](mailto:alex@art4you.com)
+
+* * *
