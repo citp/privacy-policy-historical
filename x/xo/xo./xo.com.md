@@ -1,7 +1,11 @@
-> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603194035id_/http%3A//xo.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xo.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000522id_/http%3A//xo.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Legal Statement
 
+| [](https://web.archive.org/index.html)  
+---  
+|  |  |  |   
+---  
 | 
 
 XO Communications, Inc. respects the privacy of every individual who visits our websites. This privacy statement provides notice of the standards and terms under which XO™ protects the privacy of information supplied by visitors to sites on the World Wide Web that are owned and operated by XO, including www.xo.com, www.nextlink.com and www.concentric.com. This privacy statement provides notice of our information collection practices and of the ways in which your information may be used. This policy may change from time to time, so please check back periodically to review this information.
@@ -24,4 +28,16 @@ D. Exceptions and Limitations:
 
 Notwithstanding the foregoing and in compliance with applicable laws, XO™ (i) cooperates fully with state, local, and federal officials in any investigation relating to any content (including personal or private electronic communications transmitted to XO) or purported unlawful activities of any user of the Service, and (ii) takes reasonable measures to protect its proprietary rights. For the limited purposes of accomplishing such cooperation and measures and in compliance with applicable laws, XO may be required to disclose personally identifiable information. In addition, XO may elect to monitor the areas of communication of any kind (i) to satisfy any law, regulation, or government request; (ii) if such disclosure is necessary or appropriate to operate XO; or (iii) to protect the rights or property of XO or others. In connection with the potential sale or transfer of any of its interest in www.xo.com, www.nextlink.com and www.concentric.com and other sites owned by the company, XO reserves the right to sell or transfer your information (including, but not limited to name, address information, and other information you provided to XO) to a third party that (i) concentrates its business in communication products or services; (ii) agrees to be XO's successor in interest with regard to the maintenance and protection of information collected and maintained by XO; and (iii) agrees to the obligations of this policy statement 
 
-| 
+|   
+|   
+---  
+Contact XO  
+  
+**Customer Support**   
+Call toll-free **1.888.575.6398**   
+[Contact us online](https://web.archive.org/contact/care/index.html)  
+  
+|  |   
+| © Copyright 2000-03 XO. All rights reserved.  
+XO and the XO design logo are trademarks of XO Communications, Inc. | [Privacy](https://web.archive.org/legal/privacy.html)[Legal Info](https://web.archive.org/legal/)  
+---|---
