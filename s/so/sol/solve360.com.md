@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solve360.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609203546id_/http%3A//www.solve360.com/secure/custom_template_nouser.asp%3Ftemplate%3Dcustom%5Cprivacy.xml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solve360.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008162103id_/http%3A//www.solve360.com/secure/custom_template_nouser.asp%3Ftemplate%3Dcustom%5Cprivacy.xml) for the most accurate reproduction.*
 
 # Norada Solve360
 
