@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janssen.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212023230id_/http%3A//janssen.com/legal/privpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janssen.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204162239id_/http%3A//www.janssen.com/legal/privpolicy.htm) for the most accurate reproduction.*
 
 # Janssen Pharmaceutica - Legal Notice
 
@@ -25,7 +25,7 @@ A **"cookie"** is a bit of information that a Web site sends to your Web browser
 
 "Session" cookies are temporary bits of information that are erased once you exit your Web browser window or otherwise turn your computer off. Session cookies are used to improve navigation on Web sites and to collect aggregate statistical information. This site uses session cookies.
 
-"Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (e.g., passwords), helping to determine what areas of the Web site visitors find most valuable, and customizing the Web site based on your preferences. This site uses persistent cookies.
+"Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (e.g., passwords), improving navigation, collecting aggregate statistical information, helping to determine what areas of the Web site visitors find most valuable, and customizing the Web site based on your preferences. This site uses persistent cookies.
 
 **"Internet tags"** (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the Web site server information such as the IP address and browser type related to the visitor's computer.
 
@@ -58,7 +58,7 @@ We take reasonable steps to protect your personally identifiable information as 
 This site may contain links or references to other Web sites. Please be aware that we do not control other Web sites and that, in any case, this Privacy Policy does not apply to those Web sites. We encourage you to read the privacy policy of every Web site you visit.
 
 **Other Terms**  
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20011212023230id_/http%3A//janssen.com/legal/index.html).
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20020204162239id_/http%3A//www.janssen.com/legal/index.html).
 
 **How to Contact Us**  
 If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us as follows:  
@@ -69,7 +69,7 @@ Titusville, NJ 08691
 1-800-JANSSEN (1-800-526-7736)
 
 **Changes to This Privacy Policy**  
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on 10/23/00.
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on 12/18/01.
 
   
 
