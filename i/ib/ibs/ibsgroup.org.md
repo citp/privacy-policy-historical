@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604073549id_/http%3A//www.ibsgroup.org/main/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsgroup.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207082004id_/http%3A//www.ibsgroup.org/main/privacy.html) for the most accurate reproduction.*
 
 # IBS Self Help and Support Group: Privacy Policy
 
