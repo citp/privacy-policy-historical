@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607204936id_/http%3A//iprimus.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206205721id_/http%3A//www.iprimus.com.au/privacy.asp) for the most accurate reproduction.*
 
 # iPrimus > Privacy
 
@@ -29,6 +29,10 @@ iPrimus collects your personal information in various ways, such as over the pho
 ·         suppliers of telecommunication services (eg other telecommunication and information service providers);
 
 ·         other entities who supply services to us related to the provision of telecommunication services provided to you.
+
+## Exchange of telephone numbers between carriers and disclosure to internet and other carriage service providers
+
+The exchange of telephone numbers between carriers is integral to the operation of telecommunications networks, to enable calls to be connected efficiently and billed to the right customer. Carriers also disclose telephone numbers to internet and other carriage service providers for lawful use to prevent fraud, for billing, better call management and to provide secure credit control. These may include unlisted telephone numbers and numbers for which a customer or other person has blocked calling line display. Primus may disclose and receive such information for these purposes related to the supply of services, subject to any legal prohibitions.
 
 ## Contracting out services and disclosures
 
