@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205154321id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howstuffworks.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401203452id_/http%3A//www.howstuffworks.com/privacy.htm) for the most accurate reproduction.*
 
-# Howstuffworks "Privacy Statement for How Stuff Works"
-
-  
-
+# Howstuffworks "Privacy Statement for HowStuffWorks"
 
 HowStuffWorks.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for How Stuff Works. 
 
