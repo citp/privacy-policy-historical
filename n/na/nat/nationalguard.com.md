@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalguard.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604075455id_/http%3A//your.com/privstmt.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalguard.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201215209id_/http%3A//your.com/privstmt.html) for the most accurate reproduction.*
 
 # Your.com - Your license to find anything on the web
 
@@ -32,4 +32,4 @@ P.O. Box 750237
 Duncan, OK 73575   
 help@Your.com 
 
-[PLEASE REVIEW OUR USER AGREEMENT.](https://web.archive.org/web/20010604075455id_/http%3A//your.com/useragmt.html)
+[PLEASE REVIEW OUR USER AGREEMENT.](https://web.archive.org/web/20011201215209id_/http%3A//your.com/useragmt.html)
