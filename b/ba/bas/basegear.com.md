@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basegear.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622173114id_/http%3A//basegear.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basegear.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612025059id_/http%3A//basegear.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -56,9 +56,5 @@ If we decide to make changes to our privacy policy, we will post those changes t
 
 If, however, we intend to use users' personally identifiable information in a manner different from that stated at the time of collection, we will notify users by email and/or by posting a notice on our Web Site for 30 days.
 
-**Contact Information**
+  
 
-Base Gear Company  
-255 S Grand Ave Ste 815  
-Los Angeles, CA 90012-3038  
-[privacy@basegear.com](mailto:privacy@basegear.com)
