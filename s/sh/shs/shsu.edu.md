@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shsu.edu privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604023142id_/http%3A//www.shsu.edu/administrative/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shsu.edu privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202022310id_/http%3A//www.shsu.edu/administrative/policies/privacy.html) for the most accurate reproduction.*
 
 # Sam Houston State University Web Privacy Policy
 
@@ -33,6 +33,6 @@ If you have any questions about this privacy statement, the practices of this si
 * * *
 
   
-**Local time is:**  Sun 03 Jun 2001 09:28:42 PM CDT  
+**Local time is:**  Sat 01 Dec 2001 08:23:12 PM CST  
 **Last modified:**  Wed 16 Feb 2000 04:37:32 PM CST  
 **Maintained by the** [[Computer Services](http://www.shsu.edu/~ucs_www/)] [[Web Development Team](mailto:helpdesk@shsu.edu)]
