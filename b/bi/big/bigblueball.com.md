@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606054402id_/http%3A//bigblueball.com/forums/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigblueball.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229135207id_/http%3A//www.bigblueball.com/forums/policy.asp) for the most accurate reproduction.*
 
 # BigBlueBall Forums - User Agreement
 
