@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ragesw.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragesw.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608003924id_/http%3A//ragesw.com/privacy.php) for the most accurate reproduction.*
 
-# Rage Software Privacy Policy
+# Welcome To Rage Software / Press Room
 
 **General**
 
@@ -18,7 +18,7 @@ We do not collect personal information such as email, name, address, etc... unle
 
 **Surveys and Other Online Forms**
 
-To help use make both our services and software better, we ask that you fill out our [Online Survey](https://web.archive.org/survey.html) so that we know what you want and can serve you better. 
+To help use make both our services and software better, we ask that you fill out our [Online Survey](https://web.archive.org/web/20020608003924id_/http%3A//ragesw.com/survey.php) so that we know what you want and can serve you better. 
 
 By filling out our survey you allow us to use any information that is submitted along with your name on our web site. We will not however use your email or any other personal information on our web site or in our products.
 
@@ -32,30 +32,10 @@ When you submit a question via our online form, your email address allows us to 
 
 Ordering our products is completely safe. You never have to worry about Credit Card safety when ordering our products.
 
-Rage Software uses the services of Kagi to handle payments. Kagi is a well respected company which has been offering many years of safe and efficient methods of ordering products online. Your credit card information can not be read as it travels to our ordering system. Kagi maintains their own security and privacy polices. You can visit the Kagi web site [here](http://www.ragesw.com/) for more information
+Rage Software uses the services of eSellerate to handle payments. eSellerate is a well respected company which has been offering many years of safe and efficient methods of ordering products online. Your credit card information can not be read as it travels to our ordering system. eSellerate maintains their own security and privacy polices. You can visit the eSellerate web site [here](http://www.esellerate.net/) for more information
 
-All information you enter in the Kagi.com order form will be shared with Rage Software in order to send you the unlock code for the software. This does not apply for your credit card information. We never get your credit card number.
+All information you enter in the eSellerate.net order form will be shared with Rage Software in order to send you the unlock code for the software. This does not apply for your credit card information. We never get your credit card number.
 
 **Further Information**
 
 Rage Software is dedicated to providing you with an easy and safe way to purchase our products. We also respect your privacy and will never release the information that we collect to third party organizations. For more information please contact as at [support@ragesw.com](mailto:support@ragesw.com)
-
-| [Online Store](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/store/)  
-[Press Room](https://web.archive.org/pressroom/)  
-[Contact Us](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/contact.html)  
-[Products](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/products/)  
-[Support](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/support/)  
-[Newsletter](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/newsletter.html)
-
-* * *
-
-[Macintosh Explorer](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/explorer/)  
-[WebDesign](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/webdesign/)   
-[Invisible Finder](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/invisfinder/)  
-[CSM Maker](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/csmmaker/)[Learn More About Our Software](https://web.archive.org/web/20011214125339id_/http%3A//www.ragesw.com/products/)
-
-* * *
-
- _"I am very impressed with the quality of support that you offer and your constant updates to your wonderful product line. Can't wait to see what you have planned for the future."_  
- **Andrew Roberts  
-Customer**
