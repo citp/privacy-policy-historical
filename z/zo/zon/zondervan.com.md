@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zondervan.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204024738id_/http%3A//www.zondervan.com/desk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zondervan.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403195956id_/http%3A//www.zondervan.com/desk/privacy.asp) for the most accurate reproduction.*
 
 # Zondervan Privacy Policy
 
@@ -62,7 +62,7 @@ Zondervan uses reasonable administrative, technical, personnel and physical meas
 ## Access:   
 How To Access, Correct or Delete Your PII
 
-You may review or delete PII about you from our records at anytime. If you would like to know the types of information that Zondervan collects from visitors to its web sites, please send your request to [zpub@zondervan.com ](https://web.archive.org/web/20041204024738id_/http%3A//www.zondervan.com/desk/zpub@zondervan.com)or:  
+You may review or delete PII about you from our records at anytime. If you would like to know the types of information that Zondervan collects from visitors to its web sites, please send your request to [zpub@zondervan.com ](https://web.archive.org/web/20050403195956id_/http%3A//www.zondervan.com/desk/zpub@zondervan.com)or:  
 Zondervan  
 Attn: Internet Team   
 5300 Patterson SE  
@@ -74,7 +74,7 @@ Prior to changing or deleting any information about you, Zondervan requires that
 ## Remedies And Compliance:   
 How to Contact Zondervan About Privacy Concerns
 
-If you have any complaints about Zondervan's compliance with this Policy, have been unable to obtain, modify, delete, or prevent Zondervan from collecting, your PII, please contact [zpub@zondervan.com](https://web.archive.org/web/20041204024738id_/http%3A//www.zondervan.com/desk/zpub@zondervan.com).
+If you have any complaints about Zondervan's compliance with this Policy, have been unable to obtain, modify, delete, or prevent Zondervan from collecting, your PII, please contact [zpub@zondervan.com](https://web.archive.org/web/20050403195956id_/http%3A//www.zondervan.com/desk/zpub@zondervan.com).
 
 #####   
 ©2000 Zondervan Corporation. All Rights Reserved.
