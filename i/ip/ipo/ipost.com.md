@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610080027id_/http%3A//ipost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipost.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204204235id_/http%3A//www.ipost.com/privacy.htm) for the most accurate reproduction.*
 
 # iPost.com - Privacy Policy
 
@@ -54,10 +54,6 @@ Security
 
 This website (www.ipost.com) does not collect highly sensitive information (such as credit card numbers or Social Security numbers) from our users. For information about security on our client-only service site, see the iPost Mailing Manager ASP Site section below.
 
-Supplementation of Information
-
-In order for this website to properly fulfill its obligation to our customers, it may be necessary for us to supplement the information we receive with information from 3rd party sources. For example, in order for this website to enhance its ability to tailor the site to an individual's preference, we may combine information about the purchasing habits of users with similar information from our partners, Company Y & Company Z, to create a personalized user profile. When a user makes a purchase from either of these two companies, the companies collect and share that purchase information with us so we can tailor the site to our users' preferences.
-
 Opt-out
 
 /Updating Personal Information:
@@ -70,7 +66,7 @@ To contact iPost to request removal from future iPost email communications from 
 
   1. Send email to [optout@ipost.com](mailto:optout@ipost.com) or 
   2. Send mail to the US postal address:  
-Zanshin  
+iPost  
 Attn: iPost Optout  
 100 Galli Drive, Suite 12  
 Novato, CA 94949 
