@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainnews.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606091515id_/http%3A//bargainnews.com/BNO/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainnews.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203051058id_/http%3A//bargainnews.com/BNO/privacy.cfm) for the most accurate reproduction.*
 
 # Bargain News Privacy Policy
 
@@ -33,4 +33,4 @@ Bargain News may amend this policy from time to time. If we make any substantial
 Copyright ©1996-2003 [Bargain News, LLC](https://web.archive.org/BNO/custserv.cfm)  
 Software Development and Site Design by NewNetCo.  
 [Privacy Policy](https://web.archive.org/BNO/privacy.cfm)    [Terms & Conditions ](https://web.archive.org/BNO/terms.cfm)  
-4
+6
