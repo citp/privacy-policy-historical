@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelers.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204115045id_/http%3A//www.travelers.com/w3c/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelers.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307193428id_/http%3A//www.travelers.com/w3c/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # Travelers Property Casualty - Privacy Notice
 
@@ -93,5 +93,5 @@ This notice is given by The Travelers Indemnity Company, its property and casual
 ---  
 | 
 
-© 2004 The St. Paul Travelers Companies, Inc. All Rights Reserved  
+© 2005 The St. Paul Travelers Companies, Inc. All Rights Reserved  
 
