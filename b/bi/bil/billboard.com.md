@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billboard.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622162000id_/http%3A//billboard.com/mast/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billboard.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205140100id_/http%3A//www.billboard.com/mast/privacy.asp) for the most accurate reproduction.*
 
 # Billboard Online Privacy Policy
 
