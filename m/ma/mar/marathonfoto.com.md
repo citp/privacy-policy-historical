@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marathonfoto.com privacy policy that was archived on 2001-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010626220241id_/http%3A//www.marathonfoto.com/privacy_notice.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marathonfoto.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602011601id_/http%3A//www.marathonfoto.com/privacy_notice.cfm) for the most accurate reproduction.*
 
-# MarathonFoto - Privacy Policy
+# 
 
 **MarathonFoto.com Privacy Notice**
 
