@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectwise.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204215556id_/http%3A//www.connectwise.com/main.cfm%3Fpageid%3D247) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectwise.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201180429id_/http%3A//www.connectwise.com/main.cfm%3Fpageid%3D247) for the most accurate reproduction.*
 
 # ConnectWise - Privacy Statement
 
