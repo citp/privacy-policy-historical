@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mitel.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204151718id_/http%3A//www.mitel.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mitel.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403211118id_/http%3A//www.mitel.com/jsp/privacy.jsp) for the most accurate reproduction.*
 
 # Mitel Networks: Public Privacy Policy
 
