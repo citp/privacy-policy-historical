@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgagechoice.com.au privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004004232id_/http%3A//www.mortgagechoice.com.au/newmc_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgagechoice.com.au privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606204545id_/http%3A//mortgagechoice.com.au/newmc_policy.asp) for the most accurate reproduction.*
 
 # Mortgage Choice Online - Home Loans, Applications, Rates, Brokers, Calculators
 
