@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinenewspapers.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205031453id_/http%3A//www.onlinenewspapers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinenewspapers.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610125105id_/http%3A//www.onlinenewspapers.com/privacy.htm) for the most accurate reproduction.*
 
 # Thousands of newspapers on the Net
 
