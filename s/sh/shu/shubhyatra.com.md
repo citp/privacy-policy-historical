@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shubhyatra.com privacy policy that was archived on 2000-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001029175332id_/http%3A//www.shubhyatra.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shubhyatra.com privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203143700id_/http%3A//shubhyatra.com/htm/privacy.htm) for the most accurate reproduction.*
 
 # Shubhyatra : Privacy Policies
 
