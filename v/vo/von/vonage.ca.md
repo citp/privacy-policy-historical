@@ -1,26 +1,35 @@
-> *The following text is extracted and transformed from the vonage.ca privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618211218id_/http%3A//vonage.ca/features_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vonage.ca privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215022326id_/http%3A//www.vonage.ca/no_flash/help_privacy.php) for the most accurate reproduction.*
 
-# Vonage - The Broadband Phone Company : Features
+# VOIP with Vonage Canada
 
-Vonage Holdings Corp. ("Vonage") will not trade, sell, or disclose to any third party any form of customer identifiable information without the consent of the customer (except as required by subpoena, search warrant or other legal process or in the case where failure to disclose information will lead to imminent harm to the customer or others). This includes information derived from registration, subscription, and use of the Vonage service. 
+## Privacy Policy
 
-Collection / Use of Information   
-Vonage shall collect and use customer identifiable information for billing, provisioning of service, to solve problems associated with service, and to inform customers of new products or services that will better meet their needs. Vonage will use customer identifiable information to market products and services to the customer, but will not disclose or make available any customer identifiable information to any third parties seeking to market products. If a customer chooses not to participate in direct marketing of new products and services from Vonage, that customer’s information will not be used for the purpose of marketing new products. 
+Vonage Holdings Corp. ("Vonage") will not trade, sell, or disclose to any third party any form of customer identifiable information without the consent of the customer (except as required by subpoena, search warrant or other legal process or in the case where failure to disclose information will lead to imminent harm to the customer or others). This includes information derived from registration, subscription, and use of the Vonage service.
 
-Security   
-Vonage has invested and deployed a wide variety of technology and security features to ensure the privacy of customer information on its network. In addition, Vonage has implemented strict operations guidelines to ensure customer privacy is safeguarded at every level of its organization. Vonage will continue to revise policies and implement additional security features as new technologies becomes available. 
+### Collection / Use of Information
 
-Communications   
-Vonage will not read, listen to or disclose to any third parties private e-mail, conversations, or other communications that are transmitted using Vonage services except as required to ensure proper operation of services or as otherwise authorized by law. 
+Vonage shall collect and use customer identifiable information for billing, provisioning of service, to solve problems associated with service, and to inform customers of new products or services that will better meet their needs. Vonage will use customer identifiable information to market products and services to the customer, but will not disclose or make available any customer identifiable information to any third parties seeking to market products. If a customer chooses not to participate in direct marketing of new products and services from Vonage, that customer's information will not be used for the purpose of marketing new products.
 
-Unlawful Activity   
-Vonage may use customer identifiable information to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of service or network integrity or otherwise violate Vonage’s Service Level Agreement. 
+### Security
 
-Account Information   
-Vonage will do its best to honor requests from customers for account information, for example, name, address, company, or billing information. The customer is responsible for ensuring that the information on file with Vonage is current and accurate. 
+Vonage has invested and deployed a wide variety of technology and security features to ensure the privacy of customer information on its network. In addition, Vonage has implemented strict operations guidelines to ensure customer privacy is safeguarded at every level of its organization. Vonage will continue to revise policies and implement additional security features as new technologies becomes available.
 
-Children’s Privacy Policy   
-Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect customer identifiable information from children or teenagers under the age of eighteen. In addition, Vonage will not knowingly link to any third party web site that solicits or collects customer identifiable information from minors. If you believe that a minor has disclosed personally identifiable information to Vonage, please contact Vonage at [info@vonage.ca](mailto:info@vonage.ca) so that the information can be removed. 
+### Communications
 
-Vonage Spam Policy   
-Vonage has zero tolerance for spam. Spam complaints will be dealt with seriously and can result in losing Vonage privileges. [Vonage Spam Policy](https://web.archive.org/web/20040618211218id_/http%3A//vonage.ca/features_spam.php)
+Vonage will not read, listen to or disclose to any third parties private e-mail, conversations, or other communications that are transmitted using Vonage services except as required to ensure proper operation of services or as otherwise authorized by law.
+
+### Unlawful Activity
+
+Vonage may use customer identifiable information to investigate and help prevent potentially unlawful activity or activities that threaten the integrity of service or network integrity or otherwise violate Vonage's Service Level Agreement.
+
+### Account Information
+
+Vonage will do its best to honor requests from customers for account information, for example, name, address, company, or billing information. The customer is responsible for ensuring that the information on file with Vonage is current and accurate.
+
+### Children's Privacy Policy
+
+Vonage does not sell products or services for purchase by children. Vonage does not knowingly solicit or collect customer identifiable information from children or teenagers under the age of eighteen. In addition, Vonage will not knowingly link to any third party web site that solicits or collects customer identifiable information from minors. If you believe that a minor has disclosed personally identifiable information to Vonage, please [click here](https://web.archive.org/help_contactUs.php) to contact us at so that the information can be removed.
+
+### Vonage Spam Policy 
+
+Vonage has zero tolerance for spam. Spam complaints will be dealt with seriously and can result in losing Vonage privileges. [Vonage Spam Policy](https://web.archive.org/help_spam.php)
