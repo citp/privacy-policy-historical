@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4thegame.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209182324id_/http%3A//www.4thegame.com/pages/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4thegame.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603213032id_/http%3A//www.4thegame.com/pages/privacy_statement.html) for the most accurate reproduction.*
 
 # 4thegame.com Page
 
