@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401195912id_/http%3A//icbc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icbc.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203162804id_/http%3A//icbc.com/privacy.html) for the most accurate reproduction.*
 
 # ICBC.com Privacy Statement
 
@@ -28,7 +28,7 @@ What session information we collect
 
 How we protect and use the personal information that we collect 
 
-  * ICBC's collection, use, disclosure and retention of information complies with the provisions of the Freedom of Information and Protection of Privacy Act. Collected information is used only by authorized ICBC staff to fulfil the purpose for which it was originally collected, or other purposes which will be described in the transaction you are completing. 
+  * ICBC's collection, use, disclosure and retention of information complies with the provisions of the _Freedom of Information and Protection of Privacy Act_. Collected information is used only by authorized ICBC staff to fulfil the purpose for which it was originally collected, or other purposes which will be described in the transaction you are completing. 
   * We will not sell or trade any personally identifiable information that may be collected from our Web site and will not disclose such information to third parties except as authorized by law. 
   * When you send us electronic mail via our Web site, your message is stored as business correspondence accessible only to authorized ICBC Web site staff. 
 
@@ -46,8 +46,8 @@ ICBC may revise this Privacy Statement from time to time to reflect changes to o
 
 Links to other sites
 
-Our Web site contains links to other Web sites. Please be aware that privacy policies vary from site to site. We are not responsible for the privacy practices of other Web sites to which our site may link. 
+Our Web site contains links to other Web sites. Please be aware that privacy policies vary from site to site. We are not responsible for the privacy practices of other Web sites to which our site may link.
 
 Questions or concerns?
 
-For more information about this privacy statement, please contact us at [Feedback](mailto:feedback@icbc.com?Subject=About%20your%20Privacy%20Statement). 
+For more information about this privacy statement, please contact us at [Feedback](mailto:feedback@icbc.com). 
