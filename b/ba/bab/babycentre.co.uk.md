@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204191655id_/http%3A//www.babycentre.co.uk/general/7814.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycentre.co.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603033544id_/http%3A//www.babycentre.co.uk/general/7814.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
