@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodyeartires.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406024533id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodyeartires.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203023328id_/http%3A//www.goodyear.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Goodyear U. S. Legal - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Basic Confidentiality and Privacy Policy**
 
-The Goodyear Tire & Rubber Company, hereafter `Goodyear', considers personal information, such as your name, postal and e-mail addresses or telephone number, to be private and confidential. Accordingly, the personal information you provide is stored in a secure location, is accessible only by designated staff or authorized agents, and is used only to market our products or better serve our customers. Goodyear will not disclose any personal information to other organizations.
+The Goodyear Tire & Rubber Company, hereafter "Goodyear", considers personal information, such as your name, postal and e-mail addresses or telephone number, to be private and confidential. Accordingly, the personal information you provide is stored in a secure location, is accessible only by designated staff or authorized agents, and is used only to market our products or better serve our customers. Goodyear will not disclose any personal information to other organizations.
 
 **Information Collection**
 
@@ -34,7 +34,7 @@ Goodyear web sites may contain links to other sites, and we make every effort to
 
 **Children**
 
-Goodyear has no intention of collecting any personally identifiable information (such as name, address, or telephone number) from individuals under sixteen years of age. Where appropriate, Goodyear will specifically instruct children not to submit such information on our web site.
+Goodyear does not knowingly collect any personally identifiable information (such as name, address and telephone number) from children under 13 years old through its web site. Goodyear will specifically instruct children under 13 not to submit such information to this web site. We do not currently allow children under 13 to register or participate in contests orpromotions on the site. However, if the parent or guardian of a child under 13 believes that the child has provided us with personally identifiable information, the parent or guardian of that child should [contact us](http://www.goodyear.com/cgi-bin/mail_new/mailto.pl?to=pa@goodyear.com&template=/email/mailto.html) if they want this information deleted from our files. If Goodyear obtains knowledge that it has personally identifiable information about a child under 13 in retrievable form in its files, we will delete that information from our existing files. In addition, anyone under 18 years old should seek their parent’s or guardian’s permission prior to using or disclosing any personal information on this site.
 
 **Disclaimer**
 
@@ -42,4 +42,4 @@ By using a Goodyear site, you signify your assent to the Goodyear On-line Privac
 
 **Copyrights**
 
-Copyright 2001- The Goodyear Tire & Rubber Company., Akron, Ohio, USA. All rights reserved. The text, images, graphics, sound files, animation files, video files and their arrangement on Goodyear's web sites are all subject to Copyright and other intellectual property protection. These objects may not be copied for commercial use or distribution, nor may these objects be modified or posted to other sites. Some Goodyear web sites also contain images that are subject to copyright rights or their providers.
+Copyright 2002 - The Goodyear Tire & Rubber Company., Akron, Ohio, USA. All rights reserved. The text, images, graphics, sound files, animation files, video files and their arrangement on Goodyear's web sites are all subject to Copyright and other intellectual property protection. These objects may not be copied for commercial use or distribution, nor may these objects be modified or posted to other sites. Some Goodyear web sites also contain images that are subject to copyright rights of their providers.
