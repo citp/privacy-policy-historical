@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalplanet.co.za privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215145200id_/http%3A//www.digitalplanet.co.za/DP/about/default.asp%3FID%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalplanet.co.za privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614132635id_/http%3A//www.digitalplanet.co.za/DP/about/default.asp%3FID%3D10) for the most accurate reproduction.*
 
 # Digital Planet - About Us
 
