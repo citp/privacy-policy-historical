@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstocks.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520023925id_/http%3A//www.allstocks.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstocks.com privacy policy that was archived on 2000-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000816064035id_/http%3A//www.allstocks.com/pp.html) for the most accurate reproduction.*
 
 # Allstocks.com Privacy Policy
 
