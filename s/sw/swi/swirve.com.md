@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203003427id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swirve.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601194500id_/http%3A//www.swirve.com/corp/privacy.asp) for the most accurate reproduction.*
 
 # About Swirve.com
 
 | 
 
-NOTE: Read about [**Major Changes**](javascript:MailChange\(\);) for swirve.com email. 
-
-**Swirve.com... Tastes like chicken.**
+**Swirve.com... It's all in the hips.**
 
 |   
 ---  
@@ -68,14 +66,11 @@ SWIRVE.COM!**
 * * *
 
   
-Ulrika, I can't stop thinking about you. Since the first time I saw you, my thoughts have been filled with you. I believe I love you.   
-_\- Stefan_
+Brian - Thank you for all you are and all the adventures we may have this summer. You are a special person in my life. I hope we can grow together and make lasting memories.   
+_\- Daria_
 
-Heida - Ditto, sweety. You're the only one for me... I'm not perfect, but I'm trying to be the best man I can. Do not worry, I may fall down, but I get up and keep charging...   
-_Love you always, Rob_
-
-Gweedo ... I just wanted to say I love you more than ever. Hope we'll stay together forever!   
-_\- Butterfly_
+Daniel, There is so much I want to say. I love you so very much. Ithought the day came to be with you in Sweden was the best day of my life, but I was wrong. It was the day you asked me to marry you. I love you.   
+_Stephie_
 
 Want to say something? [Tell Us!](javascript:Users\(\);)  
   
