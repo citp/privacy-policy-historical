@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habitat.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205033103id_/http%3A//www.habitat.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitat.org privacy policy that was archived on 2004-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040413072536id_/http%3A//www.habitat.org/privacy.html) for the most accurate reproduction.*
 
 # Habitat for Humanity International-Privacy Policy
 
