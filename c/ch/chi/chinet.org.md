@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chinet.org privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinet.org privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/privacy.html) for the most accurate reproduction.*
 
 # CHI: Privacy Statement
 
-[](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/index.html) [](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/overview.html) [](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/hostfam.html) [](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/outbound.html) [](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/intern/careerex.html) [](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/WorkTravel/index.html) [](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/regions.html) [](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/connect/connect.html) [](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/opportun.html) [](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/infoform.html) [](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/sitemap/sitemap.html) |  **Privacy Statement for  
+[](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/index.html) [](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/overview.html) [](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/hostfam.html) [](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/outbound.html) [](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/inbound.html) [](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/regions.html) [](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/connect/connect.html) [](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/opportun.html) [](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/alumni/index.html) [](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/cgi-bin/dcforum/dcboard.cgi) [](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/infoform.html) [](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/sitemap/sitemap.html) |  **Privacy Statement for  
 Cultural Homestay International**
 
 > Cultural Homestay International has created this privacy statement in order to demonstrate our firm commitment to privacy. Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. The following discloses our information gathering and dissemination practices for this site. 
@@ -66,7 +66,7 @@ Cultural Homestay International**
 
 * * *
 
-[Return to CHI home page](https://web.archive.org/web/20010607135709id_/http%3A//www.chinet.org/index.html). If you have any problem browsing our web site, please contact [stevegrn@syix.com](mailto:stevegrn@syix.com)
+[Return to CHI home page](https://web.archive.org/web/20011201122659id_/http%3A//www.chinet.org/index.html). If you have any problem browsing our web site, please contact [stevegrn@syix.com](mailto:stevegrn@syix.com)
 
 Copyright © 1998, Cultural Homestay International  
-This page was last updated on Tuesday, February 19, 2120. 
+This page was last modified 02/19/2020 21:24:52 
