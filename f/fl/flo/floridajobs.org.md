@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridajobs.org privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801144744id_/http%3A//www.myflorida.com/myflorida/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridajobs.org privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402173513id_/http%3A//www.myflorida.com/myflorida/privacy.html) for the most accurate reproduction.*
 
 # MyFlorida.com - Privacy Statement
 
