@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gop.com privacy policy that was archived on 2001-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010622110717id_/http%3A//www.gop.com/gopinfo/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gop.com privacy policy that was archived on 2002-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020403003915id_/http%3A//gop.com/gopinfo/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <title>Republican National Committee - Privacy Policy</title>
@@ -51,10 +51,10 @@ form.elements.Email.value='';
 
 // **(1)** This is the total number of banners. Change numBanner
 var numBanner
-numBanner = 100
+numBanner = 4
 
 
-var val;
+var val; 
 val = getRandomNum(1,(numBanner + 1))
 function getRandomNum(lbound, ubound) {
 return (Math.floor(Math.random() * (ubound - lbound)) + lbound);
@@ -63,13 +63,13 @@ return (Math.floor(Math.random() * (ubound - lbound)) + lbound);
 
 // **(2)** -- To add another banner, start copy here--- (val==1) must be changed
 
-
-//Bush Tax Relief
-if (val<=100)  {
+ 
+//winning women
+if (val==1)  {
 	HTMLString=''
 	
-		HTMLString +='<a href="http://www.bushenergy.com" target="_blank">'
-		HTMLString +='<img src="/images/energybanner.jpg" width="468" height="60" hspace="0" vspace="0" border="0" valign="middle">'
+		HTMLString +='<a href="http://www.winningwomen.org" target="_blank">'
+		HTMLString +='<img src="/images/wwbanner.gif" width="468" height="60" hspace="0" vspace="0" border="0" valign="middle" alt="WinningWomen.Org">'
 		HTMLString +='</a>'
 
 
@@ -78,9 +78,43 @@ if (val<=100)  {
 }
 
 
+if (val==2)  {
+	HTMLString=''
+	
+		HTMLString +='<a href="http://www.gopteamleader.com" target="_blank">'
+		HTMLString +='<img src="/images/GOPTLBanner1.gif" width="468" height="60" hspace="0" vspace="0" border="0" valign="middle" alt="Become a GOP Team Leader!">'
+		HTMLString +='</a>'
 
 
-</script><a href="http://www.bushenergy.com" target="_blank"><img src="/images/energybanner.jpg" width="468" height="60" hspace="0" vspace="0" border="0" valign="middle"></a>
+
+	document.write(HTMLString);
+}
+
+if (val==3)  {
+	HTMLString=''
+	
+		HTMLString +='<a href="http://www.gopteamleader.com" target="_blank">'
+		HTMLString +='<img src="/images/GOPTLBanner2.gif" width="468" height="60" hspace="0" vspace="0" border="0" valign="middle" alt="Become a GOP Team Leader!">'
+		HTMLString +='</a>'
+
+
+
+	document.write(HTMLString);
+}
+
+if (val==4)  {
+	HTMLString=''
+	
+		HTMLString +='<a href="http://www.srlc.org/ " target="_blank">'
+		HTMLString +='<img src="/images/srlc_banner_rnc2.gif " width="468" height="60" hspace="0" vspace="0" border="0" valign="middle" alt="The 2002 Southern Republican Leadership Conference">'
+		HTMLString +='</a>'
+
+
+
+	document.write(HTMLString);
+}
+
+</script><a href="http://www.winningwomen.org" target="_blank"><img src="/images/wwbanner.gif" width="468" height="60" hspace="0" vspace="0" border="0" valign="middle" alt="WinningWomen.Org"></a>
 <!-- end random banner code -->
 </div>
 </td>
@@ -137,9 +171,13 @@ else if(months==12){ months="Dec "; }
 if(years==00){ years="2000"; }
 else if(years==2000){ years="2000"; }
 else if(years==100){ years="2000"; }
+else if(years==101){ years="2001"; }
 else if(years==01){ years="2001"; }
+else if(years==102){ years="2002"; }
 else if(years==02){ years="2002"; }
+else if(years==103){ years="2003"; }
 else if(years==03){ years="2003"; }
+else if(years==104){ years="2004"; }
 else if(years==04){ years="2004"; }
 
 document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF"><b>'+day+months+dates+', '+years+' </b></font>')  
@@ -153,15 +191,15 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
    			
           <td valign="top"><img src="/images/divider_2d.gif" width="1" height="24" border="0"></td>
    			
-          <td valign="top"><a href="/getinvolved"><img src="/images/involved.gif" width="116" height="24" border="0" alt="Get Involved"></a></td>
+          <td valign="top"><a href="http://www.gopteamleader.com"><img src="/images/involved.gif" width="116" height="24" border="0" alt="Get Involved"></a></td>
    			
           <td valign="top"><img src="/images/divider_2d.gif" width="1" height="24" border="0"></td>
    			
-          <td valign="top"><a href="https://www.econtributor.net/Contribution/Login.cfm?AID=QTPIGOLVZEBF"><img src="/images/donate.gif" width="75" height="24" border="0" alt="Donate"></a></td>
+          <td valign="top"><a href="https://www.campaignsolutions.com/cgi-bin/ncommerce3/ExecMacro/profile.d2w/input?can_ref=389"><img src="/images/donate.gif" width="75" height="24" border="0" alt="Donate"></a></td>
    			
           <td valign="top"><img src="/images/divider_2d.gif" width="1" height="24" border="0"></td>
    			
-          <td valign="top"><a href="http://www.logocatalog.com/rnc/" target="new"><img src="/images/store2.gif" width="98" height="24" border="0" alt="GOP Store"></a></td>
+          <td valign="top"><a href="http://www.companycatalog.com/rnc" target="new"><img src="/images/store2.gif" width="98" height="24" border="0" alt="GOP Store"></a></td>
    			
           <td valign="top"><a href="/goptv"><img src="/images/convention2.gif" width="113" height="24" border="0" alt="Video"></a></td>
    			
@@ -173,13 +211,13 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
 <tbody><tr>
 <td width="12">&nbsp;</td>
 <td width="118">&nbsp;</td>
-</tr> 
+</tr>  
  
 <tr>
 
 	<td height="1" bgcolor="#666699" colspan="2"><img src="/images/spacer.gif" width="130" height="1" border="0"></td>
 
-</tr>
+</tr> 
 
 
 <tr>
@@ -219,7 +257,7 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
 	<tr><td height="1" bgcolor="#666699" colspan="2"><img src="/images/spacer.gif" width="130" height="1" border="0"></td>
 </tr>
 <tr>
-	<td colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="http://www.whitehouse.gov/news/" target="_blank" class="white">White House News</a></font></b>
+	<td colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="http://www.whitehouse.gov" target="_blank" class="white">White House News</a></font></b>
 	</td>
  </tr>
 
@@ -254,7 +292,7 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
 </tr>
 
 <tr>
-	<td valign="middle" colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="http://www.whitehouse.gov/president/vpbio.html" target="_blank" class="white">Vice President<br>&nbsp;&nbsp;&nbsp;Richard B. Cheney</a></font></b></td>
+	<td valign="middle" colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="http://www.whitehouse.gov/vicepresident/" target="_blank" class="white">Vice President<br>&nbsp;&nbsp;&nbsp;Richard B. Cheney</a></font></b></td>
 </tr>
 
 <tr>
@@ -262,30 +300,14 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
 </tr>
 
 <tr>
-	<td valign="middle" colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="http://www.whitehouse.gov/president/flbio.html" target="_blank" class="white">First Lady<br>&nbsp;&nbsp;&nbsp;Laura Bush</a></font></b></td>
+	<td valign="middle" colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="http://www.whitehouse.gov/firstlady/" target="_blank" class="white">First Lady<br>&nbsp;&nbsp;&nbsp;Laura Bush</a></font></b></td>
 </tr>
 
 <tr>
 	<td height="1" bgcolor="#666699" colspan="2"><img src="/images/spacer.gif" width="130" height="1" border="0"></td>
 </tr>
 <tr>
-	<td valign="middle" colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="http://www.whitehouse.gov/president/mcbio.html" target="_blank" class="white">Lynne Cheney</a></font></b></td>
-</tr>
-
-<tr>
-	<td height="1" bgcolor="#666699" colspan="2"><img src="/images/spacer.gif" width="130" height="1" border="0"></td>
-</tr>
-
-<tr>
-	<td width="12">&nbsp;</td>
-	<td width="118">&nbsp;</td>
-</tr>
-
-<tr>
-	<td height="1" bgcolor="#666699" colspan="2"><img src="/images/spacer.gif" width="130" height="1" border="0"></td>
-</tr>
-<tr>
-	<td valign="middle" colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="/gopinfo/inauguralcommittee0401.htm" class="white">Inaugural<br>&nbsp;&nbsp;&nbsp;Underwriters</a></font></b></td>
+	<td valign="middle" colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="http://www.whitehouse.gov/mrscheney/mcbio.html" target="_blank" class="white">Lynne Cheney</a></font></b></td>
 </tr>
 
 <tr>
@@ -317,19 +339,19 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
 	<td height="1" bgcolor="#666699" colspan="2"><img src="/images/spacer.gif" width="130" height="1" border="0"></td>
 </tr>
 
-
+ 
 
 <tr>
 	<td width="12">&nbsp;</td>
 	<td width="118">&nbsp;</td>
 </tr>
 
+
 <tr>
 	<td height="1" bgcolor="#666699" colspan="2"><img src="/images/spacer.gif" width="130" height="1" border="0"></td>
 </tr>
-
 <tr>
-	<td valign="middle" colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="/rnchq" class="white">RNC@HQ</a></font></b></td>
+	<td valign="middle" colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="/RNCCounsel" class="white">Counsel's Office</a></font></b></td>
 </tr>
 
 <tr>
@@ -343,6 +365,17 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
 <tr>
 	<td height="1" bgcolor="#666699" colspan="2"><img src="/images/spacer.gif" width="130" height="1" border="0"></td>
 </tr>
+
+<!--<tr>
+	<td valign="middle" colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="/rnchq/politicaleducation.htm" target="_blank" class="white">Political Education<br>&nbsp;&nbsp;&nbsp;&nbsp;and Training</a></font></b></td>
+</tr>
+
+
+
+
+<tr>
+	<td height="1" bgcolor="#666699" colspan="2"><img src="/images/spacer.gif" width="130" height="1" border="0"></td>
+</tr>-->
 
 <tr>
 	<td valign="middle" colspan="2">&nbsp;&nbsp;<b><font face="Verdana, Arial, Helvetica, sans-serif" color="#FFFFFF" size="1"><a href="/gopinfo/hotlinks" class="white">GOP Hotlinks</a></font></b></td>
@@ -400,17 +433,16 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
         Privacy Policy</font></span></b></p>
         <p align="center">
         <br>
-        
-        <br>
-        </p><p align="center" class="MsoNormal" style="TEXT-ALIGN: center"><b><font face="verdana, arial, helvetica, swiss">&nbsp;</font></b></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">Welcome
+           
+        <br></p><p align="left"><br>
+        <span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">Welcome
         to <b>www.rnc.org</b>, the official Web site of the Republican National
         Committee. We hope you enjoy your time on <b>www.rnc.org</b>. The RNC
         knows your right to privacy online is important. You do not have to
         identify yourself or divulge personal information unless you choose to
         give us your personal information. You decide the amount of personal
-        information you provide to us.</font></span></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;In
+        information you provide to us.</font></span>
+        </p><p class="MsoNormal" align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;In
         our effort to grow our Republican grassroots community online, the RNC
         may at times ask you to submit information – such as your name,
         address, phone number and email address – in an effort to provide you
@@ -419,15 +451,10 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
         timely information pertaining to: online events, personal appearances,
         TV appearances, talking points, activists alerts and other Republican
         related information.</font></span></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;The
-        RNC will not sell your email address or other personal information to an
-        outside, un-affiliated organization or any unauthorized third parties.
-        Any third party that may be required to deliver a particular service may
-        not use said information for any other purpose than to carry out the
-        services they are performing for the Republican National Committee.</font></span></p>
-        <h1><font face="verdana, arial, helvetica, swiss" size="2">INFORMATION
+        <p class="MsoNormal" align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;The RNC reserves the right to share your information with like-minded Republican organizations, but otherwise will not sell your email address or other personal information to outside, un-affiliated organizations or any unauthorized third parties. Any third party that may be required to deliver a particular service may not use said information for any other purpose than to carry out the services they are performing for the Republican National Committee.</font></span></p>
+        <h1 align="left"><font face="verdana, arial, helvetica, swiss" size="2">INFORMATION
         GATHERED</font></h1>
-        <p class="MsoNormal"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">OPTIONAL
+        <p class="MsoNormal" align="left"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">OPTIONAL
         REGISTRATION:<br>
         </font></span></b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">Communicating
         via email is <i>one</i> of the most powerful online tools Republicans
@@ -435,27 +462,26 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
         difference! All signups for email communications and other features of
         our Web site are voluntary. We give you the opportunity to opt-in and we
         give you the power to opt-out of email communications.</font></span></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></p>
+        <p class="MsoNormal" align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></p>
         <ul>
           <li>
-            <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">To
-            <b>sign up: <a href="http://www.rnc.org/getinvolved/">www.rnc.org/getinvolved/</a></b></font></span></p>
-          </li><li><font face="verdana, arial, helvetica, swiss"><span style="FONT-SIZE: 8pt">To
-            <b>unsubscribe: </b></span><b><span style="FONT-SIZE: 8pt"><a href="mailto:webmaster@rnc.org">webmaster@rnc.org</a></span></b></font></li>
-        </ul>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></p>
-        <ul>
-          <li><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">Or
+            <p align="left"><font face="verdana, arial, helvetica, swiss"><span style="FONT-SIZE: 8pt">To
+            <b>unsubscribe: </b></span><b><span style="FONT-SIZE: 8pt"><a href="mailto:webmaster@rnc.org">webmaster@rnc.org<br>
+            <br>
+            </a></span></b></font></p>
+          </li><li>
+            <p align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">Or
             <b>write:</b> Webmaster, Republican National Committee, 310 First
-            Street SE, Washington DC 20003</font></span></li>
+            Street SE, Washington DC 20003</font></span></p>
+          </li>
         </ul>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">When
+        <p class="MsoNormal" align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></p>
+        <p class="MsoNormal" align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">When
         signing up for an RNC Newsletter, Activist Alert, or other email&nbsp;communications,
         please know that you are opting to receive these emails by providing
         your email address.</font></span></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></p>
-        <p class="MsoNormal"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">EMAIL/FORWARD
+        <p class="MsoNormal" align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></p>
+        <p class="MsoNormal" align="left"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">EMAIL/FORWARD
         TO A FRIEND:<br>
         </font></span></b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">Email
         or forward to a friend is provided as a feature for users. It's yet
@@ -463,7 +489,7 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
         be asked to provide your email address as well as the person(s) to whom
         you send the item of interest. This lets the person know who sent the
         item. The information is not used for any other purpose.</font></span></p>
-        <p class="MsoNormal"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">COOKIES:<br>
+        <p class="MsoNormal" align="left"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">COOKIES:<br>
         </font></span></b><i><font face="verdana, arial, helvetica, swiss"><span style="FONT-SIZE: 8pt">A
         cookie is a tiny text file that is placed on your hard drive when you
         visit some Web sites. If a cookie contains personal information it is
@@ -473,98 +499,101 @@ document.write('<font SIZE="1" FACE="Verdana, Arial, Helvetica, sans-serif" colo
         personalized content "automatically" without you having to
         "sign in"<span style="mso-spacerun: yes">&nbsp; </span>is most
         likely using a cookie.</span></font></i></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">The
+        <p class="MsoNormal" align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">The
         cookies used by <b>www.rnc.org</b> do not obtain personal information
         about Web site visitors. Cookies may be used to provide you with a more
         personalized viewing experience; but this is voluntary. The only way we
         can obtain personal information is if you choose to give us your
         information.</font></span></p>
-        <p class="MsoNormal"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">Cookies
+        <p class="MsoNormal" align="left"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">Cookies
         used on Web sites cannot read your computer and do not have the ability
         to share personal information with another user or search your computer.</font></span></p>
-        <p><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">For
+        <p align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">For
         more information on how your browser uses cookies:</font></span></p>
-        <p><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">For
+        <p align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">For
         Netscape Navigator, please visit: <a href="http://home.netscape.com/security/basics/privacy.html#cookies">http://home.netscape.com/security/basics/privacy.html#cookies</a></font></span></p>
-        <p><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">For
+        <p align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">For
         Microsoft Internet Explorer, please visit: <a href="http://www.microsoft.com/insider/internet/articles/security2.htm#cookies">http://www.microsoft.com/insider/internet/articles/security2.htm#cookies</a></font></span></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></p>
-        <p class="MsoNormal"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">POLLING:<br>
-        </font></span></b><font face="verdana, arial, helvetica, swiss"><b><span style="FONT-SIZE: 8pt">www.rnc.org</span></b><span style="FONT-SIZE: 8pt">
-        does offer interactive real time poll questions to users to give you the
-        chance to share your feelings about that day’s question, topic or
-        issue. RNC.ORG does use a tag, or cookie, after the user has voted to
-        prevent users from voting again. The tag is not used for any reason
-        other than to enforce the one vote per user per poll policy. The tag or
-        cookie file can be deleted. The files are stored as part of your
-        Internet browser.</span></font></p>
-        <p class="MsoNormal"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></b></p>
-        <p class="MsoNormal"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">LOGS:<br>
-        </font></span></b><font face="verdana, arial, helvetica, swiss"><b><span style="FONT-SIZE: 8pt">www.rnc.org</span></b><span style="FONT-SIZE: 8pt">
-        analyzes log activity on our Web site for the sole purpose of obtaining
-        aggregate information to provide you a better experience while visiting
-        our site. We can enhance our site, and thus your visit, by knowing the
-        most visited and least visited areas and make improvements as necessary.</span></font></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;The
-        information obtained through our logs contains the following aggregate
-        information:</font></span></p>
-        <p class="MsoNormal" style="MARGIN-BOTTOM: 12pt"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss"><span style="mso-spacerun: yes">&nbsp;</span></font></span></p>
+        <p class="MsoNormal" align="left"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss"><b><br>
+        Children's Online Privacy Protection</b></font><br>
+        <font face="verdana, arial, helvetica, swiss">In accordance with the
+        Federal Children's Online Privacy Protection Act of 1998 (COPPA), the
+        Republican National Committee will never knowingly collect personal
+        identifiable information from persons thirteen years old or younger.</font></span></p><font face="verdana, arial, helvetica, swiss">
+        Personal information such as the name, address, e-mail address,
+        telephone number, persistent identifier, or combination of various
+        identifying elements, of children under the age of thirteen is not
+        collected by the RNC. The Republican National Committee may however,
+        respond to that request or email. The e-mail address of the child will
+        be deleted and no personal information will be collected, stored, or
+        disclosed.
+        <p>Parents with questions may email <a class="bluehead" href="mailto:webmaster@rnc.org"><b>webmaster@rnc.org</b></a>
+        or write to: Online Services, Republican National Committee, 310 First
+        Street SE, Washington, DC 20003.
+        </p><p class="MsoNormal" align="left">To Read More About COPPA click here: <a class="bluehead" href="http://www.ftc.gov/os/1999/9910/64fr59888.htm"><b>http://www.ftc.gov/os/1999/9910/64fr59888.htm</b></a></p>
+        <p class="MsoNormal" align="left"><b><br>
+        LOGS:<br>
+        www.rnc.org</b> analyzes log activity on our Web site for the sole
+        purpose of obtaining aggregate information to provide you a better
+        experience while visiting our site. We can enhance our site, and thus
+        your visit, by knowing the most visited and least visited areas and make
+        improvements as necessary.</p>
+        <p class="MsoNormal" align="left">&nbsp;The information obtained through
+        our logs contains the following aggregate information. All users remain anonymous. </p>
+        <p class="MsoNormal" style="MARGIN-BOTTOM: 12pt" align="left"><span style="mso-spacerun: yes">&nbsp;</span></p>
         <ul style="MARGIN-TOP: 0in" type="disc">
-          <li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">How
-            many users visited <b>www.rnc.org</b> at any given hour, day and
-            month. All users remain anonymous.</font></span>
-          </li><li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">How
-            long users visited.</font></span>
-          </li><li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">What
-            areas of <b>www.rnc.org</b> users visit.</font></span>
-          </li><li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">Most
-            active days of week, month and year.</font></span>
-          </li><li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">Most
-            viewed pages.</font></span>
-          </li><li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">Most
-            viewed/downloaded files.(PDF, RM, Graphics etc.)</font></span></li>
+          <li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in">
+            <p align="left">How many users visited <b>www.rnc.org</b> at any
+            given hour, day and month. 
+          </p></li><li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in">
+            <p align="left">How long users visited.
+          </p></li><li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in">
+            <p align="left">What areas of <b>www.rnc.org</b> users visit.
+          </p></li><li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in">
+            <p align="left">Most active days of week, month and year.
+          </p></li><li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in">
+            <p align="left">Most viewed pages.
+          </p></li><li class="MsoNormal" style="mso-list: l1 level1 lfo1; tab-stops: list .5in">
+            <p align="left">Most viewed/downloaded files.(PDF, RM, Graphics
+            etc.)
+          </p></li>
         </ul>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">We
-        do not know the individual user or any personal information about the
-        user. Unless you opt to give us information, your identity remains
-        anonymous.</font></span></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></p>
-        <p class="MsoNormal"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">ONLINE
-        CONTRIBUTIONS:</font></span></b><font face="verdana, arial, helvetica, swiss"><b><span style="FONT-SIZE: 8pt"><br>
-        www.rnc.org</span></b><span style="FONT-SIZE: 8pt"> uses a
-        secured/encrypted server for online credit card donations. The online
-        contribution form is in compliance with FEC regulations. Accordingly,
-        personal information is needed to comply with FEC requirements.</span></font></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss"><span style="mso-spacerun: yes">&nbsp;</span>We
+        <p class="MsoNormal" align="left">We do not know the individual user or
+        any personal information about the user. Unless you opt to give us
+        information, your identity remains anonymous.</p>
+        <p class="MsoNormal" align="left">&nbsp;</p>
+        <p class="MsoNormal" align="left"><b>ONLINE CONTRIBUTIONS:<br>
+        www.rnc.org</b> uses a secured/encrypted server for online credit card
+        donations. The online contribution form is in compliance with FEC
+        regulations. Accordingly, personal information is needed to comply with
+        FEC requirements.</p>
+        <p class="MsoNormal" align="left">&nbsp;</p>
+        <p class="MsoNormal" align="left"><span style="mso-spacerun: yes">&nbsp;</span>We
         are committed to making sure your information is secure. The RNC has put
         in place appropriate safeguards to secure information collected online.
         We have employed physical, electronic and managerial procedures to
-        prevent unauthorized access.</font></span></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;</font></span></p>
-        <p class="MsoNormal"><b><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">LINKS:</font></span></b></p>
-        <p class="MsoNormal"><font face="verdana, arial, helvetica, swiss"><b><span style="FONT-SIZE: 8pt">www.rnc.org</span></b><span style="FONT-SIZE: 8pt"><span style="mso-spacerun: yes">&nbsp;
-        </span>provides links to our allied organizations as well as other
-        Republican organizations. The RNC does not bear responsibility for
-        privacy polices or content on linked Web sites. Because the RNC has no
-        control over websites that we provide links for, you agree and
-        acknowledge that the Republican National Committee is not responsible
-        for the availability of resources or external sites and does not endorse
-        and is not responsible or liable for any content provided therein.
-        Accordingly, you also agree and acknowledge that the RNC will not be
-        responsible or liable, directly or indirectly, for any damage or loss
-        caused or alleged to be caused by or in connection with use of or
-        reliance of any such content, services on or through any such site or
-        resource or goods.<span style="mso-spacerun: yes">&nbsp; </span>We
-        encourage you to read the privacy statements on each Web site you visit.</span></font></p>
-        <p class="MsoNormal"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">&nbsp;&nbsp;</font></span></p>
-        <p align="center" class="MsoNormal" style="MARGIN-BOTTOM: 12pt; TEXT-ALIGN: center"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">As
-        part of our <i>e</i>.GOP project we hope you join with us in growing our<br>
-        Republican On-Line Community:</font></span></p>
-        <p align="center"><span style="FONT-SIZE: 8pt"><font face="verdana, arial, helvetica, swiss">To
-        <b>sign up: <a href="http://www.rnc.org/getinvolved/"><span style="mso-field-code: " action\.asp\0022??="" rncweb\="" www\.rnc\.org\="" \="" \0022http\:\="" hyperlink="">www.rnc.org/getinvolved/</span></a></b></font></span>
-        </p><p align="center"><span style="FONT-SIZE: 8pt; mso-fareast-font-family: Times New Roman; mso-bidi-font-family: Times New Roman; mso-ansi-language: EN-US; mso-fareast-language: EN-US; mso-bidi-language: AR-SA"><font face="verdana, arial, helvetica, swiss"><br>
-        </font></span></p>
+        prevent unauthorized access.</p>
+        <p class="MsoNormal" align="left">&nbsp;</p>
+        <p class="MsoNormal" align="left"><b>LINKS:<br>
+        www.rnc.org</b><span style="mso-spacerun: yes">&nbsp; </span>provides
+        links to our allied organizations as well as other Republican
+        organizations. The RNC does not bear responsibility for privacy polices
+        or content on linked Web sites. Because the RNC has no control over
+        websites that we provide links for, you agree and acknowledge that the
+        Republican National Committee is not responsible for the availability of
+        resources or external sites and does not endorse and is not responsible
+        or liable for any content provided therein. Accordingly, you also agree
+        and acknowledge that the RNC will not be responsible or liable, directly
+        or indirectly, for any damage or loss caused or alleged to be caused by
+        or in connection with use of or reliance of any such content, services
+        on or through any such site or resource or goods.<span style="mso-spacerun: yes">&nbsp;
+        </span>We encourage you to read the privacy statements on each Web site
+        you visit.</p>
+        <p class="MsoNormal" align="left">&nbsp;</p>
+        <p class="MsoNormal" style="MARGIN-BOTTOM: 12pt" align="left">We hope
+        you join with us in growing our Republican On-Line Community.</p>
+        </font>
+       <p></p>
 
         <p>&nbsp;</p></td>
     </tr>
@@ -582,7 +611,7 @@ Paid for by the <b>Republican National Committee</b></font></center>
 </td></tr>
 <tr><td width="130" valign="top" bgcolor="#000066"><img src="/images/spacer.gif" width="1" height="1" border="0"></td>
 <td colspan="2" width="545">
-<center><font size="1" face="verdana, arial, helvetica, sans-serif" color="#000066"><a href="/gopinfo/copyright"><b>© 2001 Republican National Committee.</b></a><br>  
+<center><font size="1" face="verdana, arial, helvetica, sans-serif" color="#000066"><a href="/gopinfo/copyright"><b>© 2002 Republican National Committee.</b></a><br>  
 All rights reserved.</font></center>
 </td>
 </tr>
