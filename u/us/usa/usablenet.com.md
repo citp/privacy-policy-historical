@@ -1,24 +1,31 @@
-> *The following text is extracted and transformed from the usablenet.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601120110id_/http%3A//www.usablenet.com/customer_support/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usablenet.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211114854id_/http%3A//www.usablenet.com/customer_support/privacy.html) for the most accurate reproduction.*
 
 # Customer Support - Privacy Policy - UsableNet
 
-USABLENET INC. PRIVACY AGREEMENT  
+## USABLENET INC. PRIVACY AGREEMENT
+
 The information you enter in UsableNet Inc. website will be known to only by you and UsableNet Inc., UsableNet Inc. will not release your personal data to anyone else without your consent. UsableNet Inc. has created this privacy statement to demonstrate its commitment to privacy. 
 
-USAGE OF INFORMATION GATHERED BY USABLENET INC.  
+## USAGE OF INFORMATION GATHERED BY USABLENET INC.
+
 UsableNet Inc. collects data from your IP address to help diagnose of your web pages or website. Your IP address is also used to gather broad demographic information about our audience which we use to improve the UsableNet Service, and deliver statistical information such as the Web Usability Index (WUI). UsableNet Inc. could issues cookies to users when they come to our Web site to allow us to learn how many unique visitors we have, to aid in analyzing navigation paths through our site, to grant discounts to visitors who elect to take part special promotions, and to maintain login information during a subscriber's session. Cookie tracking identifies you by using a unique number; personal information such as name and address are only correlated with cookie information to allow us to manage subscriber login sessions. Other companies which eventually place advertising on our site or that are part of the UsableNet Inc. affiliate program, also have the ability to assign their cookies to you in a process that UsableNet Inc. does not control. However, cookies cannot be used to identify individuals, only machines, so these advertisers will not know who you are, and UsableNet Inc. will not deliver this information. 
 
-FREE USERS  
+## FREE USERS
+
 When using our free services, we have a form for users to enter their URL, email address and other site related informations. The URL is always required because our tool needs that information to know for which site to run a test. Due to the nature of our other services an email address is required (for example to contact a user about a server problem). Personal data is never released to any third party. 
 
-SUBSCRIPTION USERS  
-UsableNet Inc. registration form requires users requesting a product or service to give us contact information (such as name, email address, postal address etc.). We use this information to process the order, to email information on the company (such as a promotional mailing on a new services), and to contact the visitor when necessary. We do not collect visitor's financial information (such as credit card numbers) to bill the user for products and services and for processing credit cards. Such information is directly comunicated through a secure connection from clients' browsers to the site of the institution processing the credit card transaction. 
+## SUBSCRIPTION USERS
 
-FOR ALL USERS  
+UsableNet Inc. registration form requires users requesting a product or service to give us contact information (such as name, email address, postal address etc.). We use this information to process the order, to email information on the company (such as a promotional mailing on a new services), and to contact the visitor when necessary. We do not collect visitor's financial information (such as credit card numbers) to bill the user for products and services and for processing credit cards. Such information is directly communicated through a secure connection from clients' browsers to the site of the institution processing the credit card transaction. 
+
+## FOR ALL USERS
+
 Whether you are a free user or subscription user, you can be assured that if you provide information to UsableNet Inc., no individual data will passed on to any third-party. UsableNet Inc. will divulge information only if requested by state court and federal laws. On occasion, UsableNet Inc. conducts online surveys that ask visitors for contact information (like their email address) and demographic information. These surveys are conducted to determine better ways to support our customers. Survey results provide us information that enables us to better tailor our content to readers' needs and to help our advertisers better understand the aggregate demographics of our audience. No individual personal data will ever be released from these surveys. Data may be used in aggregate form to learn more about our customers' needs. UsableNet Inc. may present information to our advertisers in the form of aggregate statistics compiled among all of our visitors' answers to survey questions as well as grouped on-site behavior. This is to help our advertisers tailor the content of ads to the interests of our customers. At no time is individual data shared with anyone. UsableNet Inc. site contains links to other sites. UsableNet Inc. is not responsible for the privacy practices or the content of such websites. For this we advice you to read the privacy statements of linked websites, as their Privacy Policy may differ from this one. Although we do have business affiliate partners, at no time do we share individual data collected with them. 
 
-SECURITY  
+## SECURITY
+
 This site has security measures in place to protect the loss, misuse and alteration of your personal information under our control. Access to computer data and files at UsableNet Inc. are secured by firewalls and password coding to prevent unauthorized access. UsableNet Inc. utilizes industry standard SSL encryption when accepting your credit card information during our online checkout process. SSL encryption is a method by which information transmitted across the Internet is encoded to defeat theft by anyone who should intercept the data before it reaches its destination. Our security and privacy policies are periodically updated and enhanced as necessary, and only authorized individuals have access to the information provided by our customers. 
 
-CONTACTING USABLENET INC.  
+## CONTACTING USABLENET INC.
+
 If you have any questions about this privacy statement, the practices of UsableNet website, or your dealings with this website, you can contact: UsableNet Inc. [support@usablenet.com](mailto:support@usablenet.com) +1 212 965 5388 
