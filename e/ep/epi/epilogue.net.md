@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epilogue.net privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210122100id_/http%3A//www.epilogue.net/support/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epilogue.net privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411112744id_/http%3A//www.epilogue.net/support/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Fantasy and Sci-fi at their best
 
@@ -6,9 +6,9 @@ At Epilogue, we respect your privacy and take the responsibility of protecting t
 
 These links provide detailed information about Epilogue's privacy policies:
 
-  * [What general information does Epilogue collect and how is it used?](https://web.archive.org/web/20001210122100id_/http%3A//www.epilogue.net/support/legal/privacy.html#general)
-  * [What personal information does Epilogue collect and how is it used?](https://web.archive.org/web/20001210122100id_/http%3A//www.epilogue.net/support/legal/privacy.html#personal)
-  * [How do I access, change or delete information about myself?](https://web.archive.org/web/20001210122100id_/http%3A//www.epilogue.net/support/legal/privacy.html#howto)
+  * [What general information does Epilogue collect and how is it used?](https://web.archive.org/web/20010411112744id_/http%3A//www.epilogue.net/support/legal/privacy.html#general)
+  * [What personal information does Epilogue collect and how is it used?](https://web.archive.org/web/20010411112744id_/http%3A//www.epilogue.net/support/legal/privacy.html#personal)
+  * [How do I access, change or delete information about myself?](https://web.archive.org/web/20010411112744id_/http%3A//www.epilogue.net/support/legal/privacy.html#howto)
 
 
 
