@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sciam.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205191044id_/http%3A//www.sciam.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciam.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602192128id_/http%3A//www.sciam.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
-# Scientific American
+# Scientific American : Privacy Policy
 
 **Scientific American Privacy Policy**
 
@@ -12,9 +12,9 @@ Scientific American adheres to the Privacy Promise of the Direct Marketing Assoc
 
 The DMA Safe Harbor Program European Consumer Contact Information is as follows: 
 
-**Archive Service:** Our pay service, The Scientific American Archive collects and stores a customer's credit card information to bill the customer for this optional service. By making purchases on The Scientific American Archive, you agree that the Scientific American Archive may store information you provide as part of the registration process. 
+**Scientific American Digital:** Our pay service, Scientific American Digital collects and stores a customer's credit card information to bill the customer for this optional service. By making purchases on Scientific American Digital, you agree that Scientific American Digital may store information you provide as part of the registration process. 
 
-The Scientific American Archive allows you to change or correct your personal information at any time. To do so, simply log into your personal account, go to your account profile, and you will find options for editing the information you have submitted. 
+Scientific American Digital allows you to change or correct your personal information at any time. To do so, simply log into your personal account, go to your account profile, and you will find options for editing the information you have submitted. 
 
 **Resumes**   
 Scientific American Careers gives you the option of putting your resume in our database. There are two ways of doing this:   
