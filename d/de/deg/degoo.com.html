@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the degoo.com privacy policy that was archived on 2002-10-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021016235459id_/http%3A//www.degoo.com/index.php%3Fmenu_var%3Djo%26main_var%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the degoo.com privacy policy that was archived on 2003-06-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030627044801id_/http%3A//www.degoo.com/index.php%3Fmenu_var%3Djo%26main_var%3Dprivacy) for the most accurate reproduction.-->
 
 <html lang="en"><head>
 <title>d e g o o . c o m - Get paid to see advertisements </title>
@@ -22,11 +22,7 @@ not much to ask, is it?
 <script language="JavaScript" type="text/javascript">
 <!--
 
-var menuItemWidth = 120;
-
-var menuItemHeight = 20;
-
-if (document.images) { 
+var menuItemWidth = 120; var menuItemHeight = 20;if (document.images) { 
 	var menuOutButtons = new Array();
 	menuOutButtons[0] = new Image();
 	menuOutButtons[0].src = "http://degoo.com:8080/html/pages/images/button_st_en.gif";
@@ -35,9 +31,7 @@ if (document.images) {
 	menuOutButtons[2] = new Image();
 	menuOutButtons[2].src = "http://degoo.com:8080/html/pages/images/button_me_en.gif";
 	menuOutButtons[3] = new Image();
-	menuOutButtons[3].src = "http://degoo.com:8080/html/pages/images/button_ad_en.gif";
-
-	var menuOverButtons = new Array();
+	menuOutButtons[3].src = "http://degoo.com:8080/html/pages/images/button_ad_en.gif";	var menuOverButtons = new Array();
 	menuOverButtons[0] = new Image();
 	menuOverButtons[0].src = "http://degoo.com:8080/html/pages/images/button_st_over_en.gif";
 	menuOverButtons[1] = new Image();
@@ -48,13 +42,9 @@ if (document.images) {
 	menuOverButtons[3].src = "http://degoo.com:8080/html/pages/images/button_ad_over_en.gif";
 }
 
-var menuLengths = new Array(4,4,15,8);
-
-var menuURLs = new Array(menuLengths.length);
+var menuLengths = new Array(4,4,15,8);var menuURLs = new Array(menuLengths.length);
 for (i=0;i<menuLengths.length;i++) 
-menuURLs[i] = new Array(menuLengths[i]);
-
-menuURLs[0][0] = "index.php?menu_var=st&main_var=start";	
+menuURLs[i] = new Array(menuLengths[i]);menuURLs[0][0] = "index.php?menu_var=st&main_var=start";	
 menuURLs[0][1] = "index.php?menu_var=st&main_var=contact";	 
 menuURLs[0][2] = "index.php?menu_var=st&main_var=how";	 
 menuURLs[0][3] = "index.php?menu_var=st&main_var=faq";	
@@ -78,7 +68,7 @@ menuURLs[2][10] = "index.php?menu_var=me&main_var=history";
 menuURLs[2][11] = "index.php?menu_var=me&main_var=deals"; 
 menuURLs[2][12] = "index.php?menu_var=me&main_var=deleteform"; 
 menuURLs[2][13] = "index.php?menu_var=ad&main_var=buyadvertising";	
-menuURLs[2][14] = "http://www.focalex.com/referafriend/?site_name=Degoo.com&site_url=http%3A%2F%2Fdegoo.com%2Findex.php%3Frefid%3D&aid=248933&ref_number=10&popunder=popunder_no";	
+menuURLs[2][14] = "http://tafmaster.com/taf/410/248933/?type=fullpage";	
 
 menuURLs[3][0] = "index.php?menu_var=ad&main_var=info";  
 menuURLs[3][1] = "index.php?menu_var=ad&main_var=contact";   
@@ -89,9 +79,7 @@ menuURLs[3][5] = "index.php?menu_var=ad&main_var=buyadvertising";
 menuURLs[3][6] = "index.php?menu_var=ad&main_var=benefits";	
 menuURLs[3][7] = "index.php?menu_var=ad&main_var=pricing";	
 
-var menuTimers = new Array(menuLengths.length);
-
-function getStyleObj(id) {
+var menuTimers = new Array(menuLengths.length);function getStyleObj(id) {
 	if (document.getElementById || // DOM-compliant browsers (MSIE5, NSN6, O5)
 	  document.all) {		// or MSIE 4
 	  return getObj(id).style;
@@ -112,12 +100,8 @@ function getObj(id) {
 
 function showMenu(index) {
 
-	if (menuTimers[index-1]) clearTimeout(menuTimers[index-1]);
-
-	for (i=1;i<=menuLengths.length;i++)
-	  if (i!=index) closeMenu(i);
-
-	var menu = getStyleObj("menu"+index);
+	if (menuTimers[index-1]) clearTimeout(menuTimers[index-1]);	for (i=1;i<=menuLengths.length;i++)
+	  if (i!=index) closeMenu(i);	var menu = getStyleObj("menu"+index);
 	if (menu) menu.visibility = "visible";
 	if (document.images) document.images["menubutton"+index].src =
 	menuOverButtons[index-1].src;
@@ -160,34 +144,20 @@ function setupMenus() {
 		var menu = getObj("menu"+menuid);
 		menu.clip.width = menuItemWidth + 2;
 		menu.clip.height = (menuItemHeight+1) * menuLengths[menuid-1] + 1;
-		menu.document.bgColor="#000000";
-
-		for (i=1;i<=menuLengths[menuid-1];i++) { // For each menu item
+		menu.document.bgColor="#000000";		for (i=1;i<=menuLengths[menuid-1];i++) { // For each menu item
 
 			var item = eval("menu.document.menu"+menuid+"item"+i);
-			var onitem = eval("menu.document.menu"+menuid+"item"+i+"on");
-
-			item.top = (menuItemHeight + 1) * (i-1) + 1;
-			onitem.top = (menuItemHeight + 1) * (i-1) + 1;
-
-			item.clip.width = menuItemWidth;
+			var onitem = eval("menu.document.menu"+menuid+"item"+i+"on");			item.top = (menuItemHeight + 1) * (i-1) + 1;
+			onitem.top = (menuItemHeight + 1) * (i-1) + 1;			item.clip.width = menuItemWidth;
 			item.clip.height = menuItemHeight;
 			item.document.bgColor="#003366";
 			onitem.clip.width = menuItemWidth;
 			onitem.clip.height = menuItemHeight;
-			onitem.document.bgColor="#003366";
-
-			item.hilightitem = onitem;
-			onitem.hilightitem = onitem;
-
-			item.menuid = menuid;
-			onitem.menuid = menuid;
-
-			var url = menuURLs[menuid-1][i-1];
+			onitem.document.bgColor="#003366";			item.hilightitem = onitem;
+			onitem.hilightitem = onitem;			item.menuid = menuid;
+			onitem.menuid = menuid;			var url = menuURLs[menuid-1][i-1];
 			item.url = url;
-			onitem.url = url;
-
-			var eTypes = Event.MOUSEOVER | Event.MOUSEOUT | Event.CLICK;
+			onitem.url = url;			var eTypes = Event.MOUSEOVER | Event.MOUSEOUT | Event.CLICK;
 			item.captureEvents(eTypes);
 			onitem.captureEvents(eTypes);
 			item.onmouseover = overMenuItem;
@@ -207,9 +177,7 @@ function setupMenus() {
 			var item = getObj("menu"+menuid+"item"+i);
 			var onitem = getObj("menu"+menuid+"item"+i+"on");
 			var itemstyle = getStyleObj("menu"+menuid+"item"+i);
-			var onitemstyle = getStyleObj("menu"+menuid+"item"+i+"on");
-
-			itemstyle.top = (menuItemHeight + 1) * (i-1) + 1;
+			var onitemstyle = getStyleObj("menu"+menuid+"item"+i+"on");			itemstyle.top = (menuItemHeight + 1) * (i-1) + 1;
 			onitemstyle.top = (menuItemHeight + 1) * (i-1) + 1;
 			
 			if (navigator.appName=="Microsoft Internet Explorer") {
@@ -218,16 +186,10 @@ function setupMenus() {
 			}
 
 			item.hilightitem = onitemstyle;
-			onitem.hilightitem = onitemstyle;
-
-			item.menuid = menuid;
-			onitem.menuid = menuid;
-
-			var url = menuURLs[menuid-1][i-1];
+			onitem.hilightitem = onitemstyle;			item.menuid = menuid;
+			onitem.menuid = menuid;			var url = menuURLs[menuid-1][i-1];
 			item.url = url;
-			onitem.url = url;
-
-			item.onmouseover = overMenuItem;
+			onitem.url = url;			item.onmouseover = overMenuItem;
 			onitem.onmouseover = overMenuItem;
 			item.onmouseout = outMenuItem;
 			onitem.onmouseout = outMenuItem;
@@ -252,11 +214,6 @@ if (document.layers) {
 <style type="text/css">
 <!--
 
-body { 
-	margin: 0px;
-	padding: 0px;
-}
-
 .menu {
 	position: absolute;
 	top: 90px;
@@ -271,7 +228,7 @@ body {
 	background-color: #003366;
 	color: #FFFFFF;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 11px;
+	font-size: 12px;
 	font-weight: bold;
 	cursor: pointer;
 }
@@ -283,14 +240,28 @@ body {
 	background-color: #336699;
 	color: #FFFFFF;
 	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 11px;
+	font-size: 12px;
 	font-weight: bold;
 	cursor: pointer;
 }
 
 
-.menuitemon a,a:link,a:visited{font-family:	Verdana,Arial,sans-serif;color:	#003366;text-decoration: none;font-size:11px;}
-.menuitemon a:hover{font-family:Verdana,Arial,sans-serif; color:#0099cc;text-decoration:none;font-size:11px;}
+.menuitemon a,a:link,a:visited4
+{
+	font-family:	Verdana,Arial,sans-serif;
+	color:	#003366;
+	text-decoration: none;
+	font-size:12px;
+	font-weight:bold;
+}
+.menuitemon a:hover
+{
+	font-family:Verdana,Arial,sans-serif; 
+	color:#003366;
+	text-decoration:none;
+	font-size:12px;
+	font-weight:bold;
+}
 
 #menu1 { left:120px; height: 85px; }
 #menu2 { left:240px; height: 85px; }
@@ -299,21 +270,54 @@ body {
 
 body 
 {
-SCROLLBAR-FACE-COLOR:		#003366;
-SCROLLBAR-HIGHLIGHT-COLOR:	#336699;
-SCROLLBAR-SHADOW-COLOR:		#003366; 
-SCROLLBAR-3DLIGHT-COLOR:	#999999; 
-SCROLLBAR-ARROW-COLOR:		#336699; 
-SCROLLBAR-TRACK-COLOR:		#336699; 
-SCROLLBAR-DARKSHADOW-COLOR: #003366; 
-SCROLLBAR-BASE-COLOR:		#003366;
+	margin: 0px;
+	padding: 0px;
+	margin-left: 0pt;
+	margin-top: 0pt;
+	font-family: Verdana,Arial,sans-serif;
+	color:#000000;
+	font-size:80%;
+	SCROLLBAR-FACE-COLOR:		#003366;
+	SCROLLBAR-HIGHLIGHT-COLOR:	#336699;
+	SCROLLBAR-SHADOW-COLOR:		#003366; 
+	SCROLLBAR-3DLIGHT-COLOR:	#999999; 
+	SCROLLBAR-ARROW-COLOR:		#336699; 
+	SCROLLBAR-TRACK-COLOR:		#336699; 
+	SCROLLBAR-DARKSHADOW-COLOR: #003366; 
+	SCROLLBAR-BASE-COLOR:		#003366;
 }
 
-a,a:link,a:visited{font-family:	Verdana,Arial,sans-serif;color:	#003366;text-decoration: none;font-size:12px;font-weight:bold;}
-a:hover{font-family:Verdana,Arial,sans-serif; color:#0099cc;text-decoration:none;font-size:12px;font-weight:bold;}
+a,a:link,a:visited
+{
+	font-family: Verdana,Arial,sans-serif;
+	color:#003366;
+	text-decoration: none;
+	font-size:13px;
+	font-weight:bold;
+}
+a:hover
+{
+	font-family:Verdana,Arial,sans-serif; 
+	color:#0099cc;
+	text-decoration:none;
+	font-size:13px;
+	font-weight:bold;
+}
 
-a.menuleft,a.menuleft:link,a.menuleft:visited{font-family:Verdana,Arial,sans-serif;color:#003366;text-decoration: none;font-size:11px;}
-a.menuleft:hover{font-family:Verdana,Arial,sans-serif; color:#0099cc;text-decoration:none;font-size:11px;}
+a.menuleft,a.menuleft:link,a.menuleft:visited
+{
+	font-family:Verdana,Arial,sans-serif;
+	color:#003366;
+	text-decoration: none;
+	font-size:11px;
+}
+a.menuleft:hover
+{
+	font-family:Verdana,Arial,sans-serif; 
+	color:#0099cc;
+	text-decoration:none;
+	font-size:11px;
+}
 
 a.head,a.head:link,a.head:visited,.head,a.head2,a.head2:link,a.head2:visited,.head2
 {
@@ -327,7 +331,7 @@ line-height: 11px;
 a.head:hover
 {
 font-family:Arial,Verdana,sans-serif;
-color: #3399cc;
+color: #003366;
 text-decoration: none;
 font-size: 11px;
 font-weight:bolder;
@@ -371,23 +375,10 @@ color:			#000000;}
 </style>
 </head>
 <body background="http://degoo.com:8080/html/pages/images/background.gif" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">
-<script language="JavaScript">
-<!--
-for(i=0;i<50;i++)
-{
-	setTimeout("setbase()",500)
-}
-function setbase()
-{
-//alert(document.all.tags('BASE').target);
-document.all.tags('BASE').target="skit";
-}
-//-->
-</script>
 <table border="0" cellpadding="0" cellspacing="0" width="620" height="85">
 	<tbody><tr>
 		<td align="left" valign="top" width="100%" height="65" colspan="20">
-		<img src="http://degoo.com:8080/html/pages/images/logo.gif" width="139" height="57"><iframe src="http://ads.adorigin.com/?DC=COMPACTB+-+YRLEC+-+468x60+WOP&amp;DH=Y&amp;TARGET=_new" height="60" width="468" scrolling="NO" marginwidth="0" marginheight="0" frameborder="0" vspace="0" hspace="0" name="adorigin"><SCRIPT LANGUAGE="JavaScript">document.write("<SCR"+"IPT LANGUAGE="JavaScript" SRC="http://ads.adorigin.com/?DC=COMPACTB+-+YRLEC+-+468x60+WOP&JS=Y&TARGET=_new" name=adorigin></SCR"+"IPT>");</SCRIPT><NOSCRIPT><A HREF="http://ads.adorigin.com/?SHT=COMPACTB+-+YRLEC+-+468x60+WOP" TARGET="_new"><IMG SRC="http://ads.adorigin.com/?SIT=COMPACTB+-+YRLEC+-+468x60+WOP" HEIGHT="60" WIDTH="468"></A></NOSCRIPT></iframe>
+		<img src="http://degoo.com:8080/html/pages/images/logo.gif" width="139" height="57"><a href="http://www.degoo.com/index.php?menu_var=me&amp;main_var=deals" target="_TOP"><img src="http://yrlec.degoo.net/metarewardbanner.gif" border="0" width="468" height="60"></a>
 </td>
 	</tr>
 	<tr>
@@ -537,13 +528,12 @@ document.all.tags('BASE').target="skit";
 <div id="menu4item8on" class="menuitemon" style="top: 148px;">
 <a href="index.php?menu_var=ad&amp;main_var=pricing">&nbsp;Pricing&nbsp;</a></div>
 </div><table cellspacing="3" cellpadding="0" border="0" width="605">
-<tbody><tr>
-<td>
-</td>
-</tr>
-<tr>
-<td width="132" valign="top">
-			<table width="130" border="0" cellpadding="1" cellspacing="0">
+	<tbody><tr>
+		<td>
+		</td>
+	</tr>
+	<tr>
+		<td width="132" valign="top">			<table width="130" border="0" cellpadding="1" cellspacing="0">
 				<tbody><tr><td bgcolor="#000000" width="130">			
 						<table width="130" border="0" cellpadding="3" cellspacing="0">
 							<tbody><tr><td bgcolor="#336699" width="130" height="25"><font face="Verdana" size="1" color="#ffffff"><b>
@@ -553,9 +543,8 @@ document.all.tags('BASE').target="skit";
 <a class="menuleft" href="index.php?menu_var=jo&amp;main_var=agreement">Terms &amp; Conditions</a><br> 
 <a class="menuleft" href="index.php?menu_var=jo&amp;main_var=privacy">Privacy policy</a><br>
 <a class="menuleft" href="index.php?menu_var=jo&amp;main_var=antispam">Anti-Spam policy</a><br></b>
-</font></td></tr></tbody></table></td></tr></tbody></table></td>
-<td width="455" valign="top">
-<font face="Verdana" size="2"><br>
+</font></td></tr></tbody></table></td></tr></tbody></table>		</td>
+		<td width="455" valign="top"><font face="Verdana" size="2"><br>
 <h3>Privacy Statement for degoo.com</h3>
 
 Degoo Media has created this privacy statement in order to 
@@ -610,8 +599,8 @@ Sweden<br>
 
 
 
-</td>
-</tr>
+		</td>
+	</tr>
 </tbody></table>
 <script language="JavaScript">
 <!--
