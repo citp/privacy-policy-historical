@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605043507id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the endicia.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm) for the most accurate reproduction.*
 
 # Endicia Internet Postage - Privacy Statement
 
@@ -6,12 +6,12 @@
 Your privacy is extremely important to us, we are committed to protecting your privacy rights. We do not disclose your personal to any third party.   
 
 
-  * [Information Collected When You Visit Our Web Site](https://web.archive.org/web/20020605043507id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#visit)
-  * [Information Collected From E-mails](https://web.archive.org/web/20020605043507id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#email)
-  * [Information Collected During The Registration Process](https://web.archive.org/web/20020605043507id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#register)
-  * [Information Collected While Using Dazzle](https://web.archive.org/web/20020605043507id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#using)
-  * [Security Practices For Information Collected](https://web.archive.org/web/20020605043507id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#security)
-  * [Your Access To Information Collected](https://web.archive.org/web/20020605043507id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#access)
+  * [Information Collected When You Visit Our Web Site](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#visit)
+  * [Information Collected From E-mails](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#email)
+  * [Information Collected During The Registration Process](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#register)
+  * [Information Collected While Using Dazzle](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#using)
+  * [Security Practices For Information Collected](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#security)
+  * [Your Access To Information Collected](https://web.archive.org/web/20021205164845id_/http%3A//www.endicia.com/endicia-usa/Site/privacy.cfm#access)
 
   
 **Information Collected When You Visit Our Web Site**   
