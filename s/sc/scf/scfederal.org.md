@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002085443id_/http%3A//www.scfederal.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scfederal.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605072921id_/http%3A//scfederal.org/privacy.html) for the most accurate reproduction.*
 
 # Your Privacy Matters
 
@@ -39,8 +39,6 @@ We are committed to taking every reasonable precaution to protect individual ide
 > NOTE: Regular non-encrypted e-mail is not secure. Accordingly, we encourage you to exercise caution regarding any e-mails that are sent through your e-mail service. We provide a direct, secure e-mail function on our web site for inquiries which include your personal information.
 > 
 > a. **Our Employees' Access to Member Information.** Employees' access is restricted to their need to know such information for business reasons. All employees are trained to respect member privacy, and those who violate our Privacy Policies are subject to disciplinary action.
-
-**Links to Third Party Web Sites.** Our web site may contain links to third party web sites. We provide these links as a service. When you link to a third party web site you leave our web site. We want you to be aware that we are not responsible for the privacy practices of any other web site. We encourage you to read the privacy policies of any web site you access, especially if individual identifying information is being collected.
 
 **Links to Third Party Web Sites.** Our web site may contain links to third party web sites. We provide these links as a service. When you link to a third party web site you leave our web site. We want you to be aware that we are not responsible for the privacy practices of any other web site. We encourage you to read the privacy policies of any web site you access, especially if individual identifying information is being collected. We are not affiliated with or an agent of any third party web sites that members link to via our web site.
 
