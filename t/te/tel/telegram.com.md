@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605184312id_/http%3A//www.telegram.com/tools/telegram/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208040520id_/http%3A//www.telegram.com/tools/telegram/privacy.html) for the most accurate reproduction.*
 
-# Worcester Telegram & Gazette Online
+# Worcester Telegram & Gazette
 
+**Friday January 31, 2020** Last updated: 09:09 AM EDT  
 **Privacy Policy**
 
 This policy describes how the web sites maintained by the Telegram & Gazette - telegram.com, eworcester.com and OnTheCommon.com and others as they become available - collect and utilize users' personal identifiable information.
@@ -41,6 +42,7 @@ Personal information is required to complete any of these transactions. The info
   
 [Get a printer-friendly version of this page](http://cgi.telegram.com/cgi-bin/ezprint.pl)
 
-[eWorcester](http://www.eworcester.com/) | [telegram](http://www.telegram.com/) | [On the Common](http://www.onthecommon.com/)   
-[Yellow Pages](http://eworcester.switchboard.com/) | [Classifieds](http://classifieds.telegram.com/) | [The Diner](http://thediner.eworcester.com/webx/cgi-bin/WebX) | [Personals](http://worcester.webfriends.com/)   
-[Weather](http://www.telegram.com/weather/) | [Privacy Policy](http://www.telegram.com/tools/telegram/privacy.html) | [Contact us](http://www.telegram.com/tools/contacts/index.html) [©2002](http://www.telegram.com/tools/telegram/copyright.html) Worcester Telegram & Gazette Corp. 
+[©2002](http://www.telegram.com/tools/telegram/copyright.html) Worcester Telegram & Gazette Corp.
+
+[Order the Telegram & Gazette,  
+delivered daily to your home or office!](https://secure1.infi.net/telegram/secure/homedelivery/new_subscribe.html)
