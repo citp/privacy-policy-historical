@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413010411id_/http%3A//infolink.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infolink.com.au privacy policy that was archived on 2001-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011030135910id_/http%3A//infolink.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
 # Infolink: Architecture & Building: Privacy Policy
 
