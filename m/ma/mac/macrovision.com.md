@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the macrovision.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413185419id_/http%3A//www.macrovision.com/legal-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrovision.com privacy policy that was archived on 2004-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040414020636id_/http%3A//www.macrovision.com/company/legal/legal_and_privacy.shtml) for the most accurate reproduction.*
 
-# Legal and Privacy Notices
+# Macrovision | Legal | Legal and Privacy Notices
 
-**MACROVISION LEGAL AND PRIVACY NOTICES  
-**  
 Macrovision respects your privacy and is committed to protect the personal information that you share with us. Generally, you can browse through our website without giving us any information about yourself. When we do need your personal information to provide services that you request or when you choose to provide us with your personal information, this policy describes how we collect and use your personal information.
 
 **Information Collection  
@@ -25,9 +23,9 @@ We will always give you the opportunity to "opt out" of receiving direct marketi
 **Cookies and Tracking Technology  
 ** A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Some parts of Macrovision's website may use cookies to track user traffic patterns. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information.
 
-If you prefer not to receive cookies while browsing our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of Macrovision's website if you do so. You do not need to have cookies turned on to use/navigate through many parts of our website, except access to certain of Macrovision's web pages require a login and password.  
-**  
-How We Use Information Collected  
+If you prefer not to receive cookies while browsing our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of Macrovision's website if you do so. You do not need to have cookies turned on to use/navigate through many parts of our website, except access to certain of Macrovision's web pages require a login and password.
+
+**How We Use Information Collected  
 ** Macrovision uses information for several general purposes: to fulfill your requests for certain products and services, to personalize your experience on our website, to keep you up to date on the latest product announcements, software updates, special offers or other information we think you'd like to hear about either from us or from our business partners, and to better understand your needs and provide you with better services. We may also use your information to send you, or to have our business partners send you, direct marketing information or contact you for market research.
 
 **Information Sharing and Disclosure  
