@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the indie-music.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204232309id_/http%3A//www.indie-music.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indie-music.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624004201id_/http%3A//www.indie-music.com/privacy.php) for the most accurate reproduction.*
 
 # Indie-Music.com
 
-**  
-Privacy Policy**
+  
+Privacy Policy
 
 COMMITMENT TO YOUR PRIVACY 
 
@@ -15,8 +15,10 @@ INFORMATION INDIE-MUSIC.COM GATHERS AND TRACKS
 
 Indie-Music.com gathers three types of information about users: 
 
-  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to submit a site or artist for review, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys: 
-  * Information Indie-Music.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Indie-Music.com derives its revenue mainly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Indie-Music.com divulge any information about an individual user to a third party.
+  * Information that users provide through optional, voluntary submissions. These are voluntary submissions to receive our electronic newsletters, to submit a site or artist for review, to participate in our message boards or forums, to email a friend, and from participation in polls and surveys.
+
+  * Information Indie-Music.com gathers through aggregated tracking information derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to readers' needs and to help our advertisers and sponsors better understand the demographics of our audience. Because Indie-Music.com derives its revenue partly from sponsorships and advertising, providing such aggregated demographic data is essential to keeping our service free to users. Under no circumstances does Indie-Music.com divulge any information about an individual user to a third party.
+
   * Indie-Music.com Customers. For our subscribers and paying customers, Indie-Music.com collects only the neccesary information to administer an account, such as name, mailing address, billing information, and email address.
 
 
@@ -32,19 +34,15 @@ We offer the following free services, which require some type of voluntary submi
 
 We will offer a free electronic newsletter to users. Indie-Music.com gathers the email addresses of users who voluntarily subscribe or who submit a website for inclusion in Indie-Music.com's link sections. Users may remove themselves from this mailing list by following the link provided in every newsletter that points users to the subscription management page. 
 
-2\. Message boards/forums 
-
-Users of the site's Message Boards and Forums must register for these services (free of charge) in order to post messages, although they needn't register to visit the site. During registration the user is required to supply a username, password, and email address. 
-
-3\. "E-mail this to a friend" Service 
+2\. "E-mail this to a friend" Service 
 
 Our site users can choose to electronically forward a link, page, or documents to someone else by clicking "e-mail this to a friend". The user must provide their email address, as well as that of the recipient. This information is used only in the case of transmission errors and, of course, to let the recipient know who sent the email. The information is not used for any other purpose. 
 
-4\. Polling 
+3\. Polling 
 
 We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Indie-Music.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
 
-5\. Surveys
+4\. Surveys
 
 Indie-Music.com may occasionally conduct user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. 
 
@@ -64,7 +62,7 @@ Cookies
 
 We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Indie-Music.com may use cookies to track user traffic patterns (as described above). Our advertising system may deliver a one-time cookie to better track ad impressions and click rates. 
 
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling, surveys, and other registered user features. 
+You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you may need cookies to participate actively in polling, surveys, and other features, or to access your paid member account.
 
 USE OF INFORMATION 
 
@@ -82,7 +80,7 @@ Indie-Music.com uses the above-described information to tailor our content to su
 
 Indie-Music.com never shares newsletter mailing lists, customer information, or private data of any sort with any third parties, including advertisers, sponsors or partners. 
 
-We use third-party credit card payment processing services, which may require personal information to be passed to the processing company. Our payment processing companies ([IBill](http://www.ibill.com/) and [Paypal](http://www.paypal.com/)) are also strongly committed to your online privacy.
+We use third-party credit card payment processing services, which may require personal information to be passed to the processing company. Our payment processing companies (Wells-Fargo, Authorize.net, and [Paypal](http://www.paypal.com/)) are also strongly committed to your online privacy.
 
 SECURITY 
 
