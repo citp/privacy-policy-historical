@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203053639id_/http%3A//www.covisint.com/legalPub/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covisint.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603101109id_/http%3A//covisint.com/legalPub/privacy.shtml) for the most accurate reproduction.*
 
 # Covisint - Legal - Covisint Privacy Policy
 
@@ -6,18 +6,15 @@
 |   
 ---  
 | [Language](https://web.archive.org/language.shtml)  
-| [Legal Statements](https://web.archive.org/legalPub/)  
-| [Antitrust Policy](https://web.archive.org/legalPub/antitrust.shtml)  
+| [Enroll](https://web.archive.org/help/contact/enroll.shtml)  
+| [Website Terms of Use](https://web.archive.org/legalPub/)  
 | [Privacy Policy](https://web.archive.org/legalPub/privacy.shtml)  
-| [Website Terms of Use](https://web.archive.org/legalPub/t_c.shtml)  
 |    
 | **Search**  
 |    
-|  | 
-
-**Covisint Privacy Policy**  
-
-
+|  |  |  | [Website Terms of Use](https://web.archive.org/legalPub/) |  |  | [Privacy Policy](https://web.archive.org/legalPub/privacy.shtml) |   
+---|---|---|---|---|---  
+  
 **Effective as of: March 1, 2002.**  
 This Privacy Policy **_(the "Policy")_** sets forth Covisint LLC's **_("Covisint")_** policies regarding the collection and use of information relating to the Covisint Web site **_(the "Web Site")_** and the Covisint Exchange **_(the "Exchange")_**. The Exchange is only accessible by registered Members of the Exchange ("Members") and their authorized users **_("Authorized Users")_** ; the Web Site is generally accessible by all others who visit the Web Site **_("Visitors")_**. With respect to Members and their Authorized Users, the applicable Product Agreement or Product Addenda may specify certain additional rights and obligations regarding the collection of data. Certain capitalized terms used herein may be defined in the Glossary. 
 
@@ -77,7 +74,5 @@ This Privacy Policy **_(the "Policy")_** sets forth Covisint LLC's **_("Covisint
 >  20921 Lahser Road  
 >  Southfield, MI 48034  
 >  United States 
-> 
-> « Back 
 
-|  |  | 
+|  | 
