@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the bawarchi.com privacy policy that was archived on 2000-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000520105116id_/http%3A//www.indiaworld.co.in/homepage/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bawarchi.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204220500id_/http%3A//www.indiaworld.co.in/homepage/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Statement for IndiaWorld Family of Web Sites
+
+[  
+**Click Here**](http://www.sify.com/)
 
    
 **Privacy Statement for IndiaWorld Family of Web Sites**
