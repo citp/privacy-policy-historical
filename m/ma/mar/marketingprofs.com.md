@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2002-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020401205908id_/http%3A//marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingprofs.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014131240id_/http%3A//www.marketingprofs.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
