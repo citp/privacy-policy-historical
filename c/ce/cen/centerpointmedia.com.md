@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerpointmedia.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202235800id_/http%3A//www.centerpointmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerpointmedia.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602214941id_/http%3A//centerpointmedia.com/privacy.php) for the most accurate reproduction.*
 
 # Center Point Media Privacy Policy - Web Hosting, Web Design, Domain Registration, and Web Templates
 
