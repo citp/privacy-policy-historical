@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602233119id_/http%3A//www.arthritis.org/resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritistoday.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207234829id_/http%3A//www.arthritis.org/resources/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Practices
 
 ### ONLINE PRIVACY POLICY
 
-The mission of the Arthritis Foundation is to improve lives through leadership in the prevention, control and cure of arthritis and related diseases. The Foundation’s Web site is an important tool in carrying out our mission. We want you to be comfortable and confident when you use the Web site and, for that reason, we have adopted this privacy policy.
+The Arthritis Foundation respects the privacy of each individual who contacts us.  We are grateful for your support and the crucial role you play in helping us continue our valuable work.  As part of our commitment to safeguarding your privacy we have adopted the online privacy policy outlined below.
 
   * Collection and use of information
 
@@ -24,19 +24,9 @@ Our Web server automatically recognizes and collects the domain name of each vis
 
 We collect individually identifiable information about you when you choose to share information about yourself, for example, when you make a donation, request information or sign up to be an advocate. This information may include your postal or e-mail address, your telephone number and the type of arthritis you have.
 
-Individually identifiable information is used to provide you with information or to deliver the service you have requested. If you provide your postal address, telephone number or e-mail address to the Arthritis Foundation online, you may receive any of the following periodic contacts from us:
+Individually identifiable information is used to provide you with information or to deliver the service you have requested. If you provide your postal address, telephone number or e-mail address to the Arthritis Foundation online, you may receive periodic contacts from us.
 
-  * Mailings with information about additional arthritis and arthritis-related resource programs, services and events from the Arthritis Foundation.
-  * Mailings that invite you to join the Foundation, to subscribe to our award-winning magazine _Arthritis Today_ , or to help the Foundation achieve its mission.
-  * _Mind, Body and Spirit_ , our electronic newsletter.
-  * Telephone contact with information about orders you have placed online, as well as additional arthritis and arthritis-related information.
-  * Telephone contact to invite you to join the Foundation, to subscribe to _Arthritis Today_ , or to help the Foundation achieve its mission.
-  * E-mail contact to respond to your questions, comments or suggestions.
-  * E-mail contact to alert you to arthritis news updates, products and services of the Foundation.
-
-
-
-If you would like to change the way we contact you, please fill out the [Privacy Preference Form](https://web.archive.org/web/20040602233119id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp).
+If you would like to change the way we contact you, please fill out the [Privacy Preference Form](https://web.archive.org/web/20041207234829id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp).
 
 At certain parts of some of our site, only persons who provide us with the requested personally identifiable information will be able to use tools or otherwise participate in the site's activities and offerings.
 
@@ -44,7 +34,7 @@ We also may collect certain non-personally identifiable information when you vis
 
 **Community Tools**
 
-Some portions of our site provide special services and offer interactive tools that allow users to upload information for public consumption. In some cases, users can share experiences, give advice and connect with others. This privacy policy does not apply to RA Connect. Please remember that chat rooms, message boards and personal pages are public forums and personal information disclosed there will be seen by others. In addition, please exercise caution when posting information or providing information about yourself to others, especially contact information, such as street address, telephone number or email address. For more on the use of the RA Connect, please refer to the [Frequently Asked Questions](http://communities.arthritis.org/faq/) page for that section of the site.
+Some portions of our site provide special services and offer interactive tools that allow users to upload information for public consumption. In some cases, users can share experiences, give advice and connect with others. This privacy policy does not apply to RA Connect. Please remember that chat rooms, message boards and personal pages are public forums and personal information disclosed there will be seen by others. In addition, please exercise caution when posting information or providing information about yourself to others, especially contact information, such as street address, telephone number or email address. For more on the use of the RA Connect, please refer to the [Frequently Asked Questions](http://www.arthritis.org/communitiesnew/RAConnect/homeraconnect.aspx) page for that section of the site.
 
 **Cookies**
 
@@ -52,7 +42,7 @@ We use a technology called a "cookie" to recognize you when you return to our si
 
 **Sharing Information with Others**
 
-From time to time, the Arthritis Foundation makes postal addresses available to other reputable organizations whose products, services or activities may be of interest to you. The Foundation carefully screens all organizations before allowing the use of our list; the list is never sold. If you do not want us to share your postal address with other companies or organizations, please fill out the [Privacy Preference Form](https://web.archive.org/web/20040602233119id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp).
+From time to time, the Arthritis Foundation may make our constituent mailing addresses available to other worthy nonprofit and commercial organizations whose services may be of interest to our supporters.  We carefully screen these organizations. If you do not want us to share your postal address with other companies or organizations, please fill out the [Privacy Preference Form](https://web.archive.org/web/20041207234829id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp).
 
 At times we may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. The Arthritis Foundation has no control over the third-party's use of this information.
 
@@ -60,19 +50,19 @@ We will also share personal information when we believe release is appropriate t
 
 **Email Communications**
 
-We occasionally send out an email newsletter and direct email communications to Arthritis Foundation site visitors to highlight news, information and opportunities available from the Arthritis Foundation. You can elect not to receive communications from us, either by completing our [privacy preference form](https://web.archive.org/web/20040602233119id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp) or by noting your preference in response to communications from us. In addition, all Arthritis Foundation e-newsletters and direct email communications have easy-to-follow unsubscribe instructions at the bottom of each email.
+We occasionally send out an email newsletter and direct email communications to Arthritis Foundation site visitors to highlight news, information and opportunities available from the Arthritis Foundation. You can elect not to receive communications from us, either by completing our [privacy preference form](https://web.archive.org/web/20041207234829id_/http%3A//www.arthritis.org/resources/PrivacyForm.asp) or by noting your preference in response to communications from us. In addition, all Arthritis Foundation e-newsletters and direct email communications have easy-to-follow unsubscribe instructions at the bottom of each email.
 
 **Links to Other Sites**
 
 Our site provides links to other Web sites where you can find out more about our sponsors or products. Please note that the Foundation is not responsible for the information practices of linked sites. We encourage you to review the privacy policy of each site you visit.
 
-**Children online**
+** Children online**
 
-This site is intended for use by adults. We do not knowingly collect personal information from children.
+Protecting the privacy of the very young is especially important. For that reason, we adhere to the 1998 Children’s Online Privacy Protection Act (COPPA). (For more information, visit the Federal Trade Commission’s COPPA site at  [ http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adults.htm](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/adults.htm).) Whenever we collect or maintain information at our Web site from those we actually know are under 13, we obtain parental consent before any personally identifiable information is collected, used or disclosed. We also follow strict rules when sending email; and we provide parents reasonable access to information collected from their children, and the ability to correct or remove that information.
 
-**Security**
+** Security**
 
-In order to prevent unauthorized access and protect our users’ personal information, we strive to maintain physical, electronic and administrative safeguards to secure the information we collect online. For example, online shopping and contributions are processed using Secure Socket Layer (SSL).
+In order to prevent unauthorized access and protect our users’ personal information, we strive to maintain physical, electronic and administrative safeguards to secure the information we collect online. For example, online shopping and contributions are processed using a secure server. This secure server software, SSL (Secure Sockets Layer), encrypts all information you input before it is sent to us. Furthermore, all of the customer transactional data we collect is protected against unauthorized access with the use of digital certificates.
 
 **Privacy Policy Changes**
 
@@ -86,4 +76,4 @@ If you have general questions about arthritis, please send messages to Arthritis
 
 The Arthritis Foundation follows the online Privacy Guidelines and the Guidelines on Ethical Business Practice of The Direct Marketing Association (DMA). For more information on these guidelines, visit the DMA at [http://the-dma.org](http://the-dma.org/).
 
-Last updated August 13, 2002.
+Last updated July 28, 2004
