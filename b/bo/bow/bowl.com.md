@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bowl.com privacy policy that was archived on 2003-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030802024709id_/http%3A//www.bowl.com/bowl/BowlDotCom/common/static.html%3Fpage%3Dbowl_privacypolicy_main) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowl.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603024437id_/http%3A//www.bowl.com/bowl/BowlDotCom/common/static.html%3Fpage%3Dbowl_privacypolicy_main) for the most accurate reproduction.*
 
 # bowl.com - bowling news, bowling events, bowling tournaments and more!
 
