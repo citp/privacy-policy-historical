@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autos.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204075123id_/http%3A//www.autos.com/autos/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autos.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306161712id_/http%3A//www.autos.com/autos/privacy) for the most accurate reproduction.*
 
 # Autos.com: The best autos rankings site to help you find your perfect car online
 
@@ -28,5 +28,3 @@ Please be aware that we may change our Privacy Policy from time to time. If we d
 If you have any questions about our Privacy Policy or privacy policies, please feel free to e-mail your questions to us at [customerservice@autos.com](mailto:customerservice@autos.com). 
 
 Everything on our website is copyrighted (unless otherwise noted) and may not be used except with our express written consent. Use of these images by you or other third parties is prohibited and may violate the copyright laws, trademark laws, privacy laws and other laws and regulations. Nothing contained on this site may be construed as granting any license or right to use any of our trademarks or service marks without our prior written consent. 
-
-© 2002 - 2004 Autos.com Rights Reserved. Last Revised July 2004 
