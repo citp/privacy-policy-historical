@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the connexion.org privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203022604id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the connexion.org privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606095309id_/http%3A//www.connexion.org/privacypolicy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//w3c//dtd html 4.0 transitional//en"><html><head>
 <link rel="shortcut icon" href="http://www.connexion.org/connexionicon.ico">
@@ -11,15 +11,16 @@
 <meta http-equiv="Description" name="Description" content="Connexion is a place for friends to meet.">
 
 <style type="text/css">
-/* body,div,p,blockquote,ol,ul,dl,li,dt,dd,td,th */
 
 body, p, td {font-family: verdana, arial, helvetica, sans-serif; font-size: 10pt;}
 img {border-width: 0}
 
-.cont, .cont p, .cont td, .cont th {font-size: 8pt; vertical-align: top}	/* Standard content style */
+.cont, .cont p, .cont td, .cont th {font-size: 8pt; vertical-align: top}
 .cont h4 {font-size: 14pt}
 
-.small, .small p, .small td, .small th {font-size: 7pt; vertical-align: top}/* Small content style */
+.chat {font-size: 12pt}
+
+.small, .small p, .small td, .small th {font-size: 7pt; vertical-align: top}
 
 .data th {background: #C0C0C0; vertical-align: middle; text-align: left; color: black; font-weight: normal}
 .data td {background: white}
@@ -31,14 +32,17 @@ img {border-width: 0}
 
 .head th {background: #808080; color: white}
 .head p {font-size: 14; text-align: center}
-.sc, .sc p, .sc td {font-size: 8pt}	/* Small Controls */
+
+.sc, .sc p, .sc td {font-size: 8pt}
 
 .online a:link, .online a:visited {font-family: verdana, arial, helvetica, sans-serif; font-size: 8pt; color: black; text-decoration: none}
 .online a:active, .online a:hover {font-family: verdana, arial, helvetica, sans-serif; font-size: 8pt; color: black; text-decoration: underline}
 
-.st {}	/* Subtitle */
+.headline p, .headline td {font-weight: bold}
 
-.sm, .sm p, .sm td {background: #505662; color: #8ac83c; font-size: 8pt}	/* Submenu */
+.st {}
+
+.sm, .sm p, .sm td {background: #505662; color: #8ac83c; font-size: 8pt}
 .sm a:link, .sm a:visited {color: white; text-decoration: none}
 .sm a:active, .sm a:hover {color: white; text-decoration: underline}
 
@@ -49,7 +53,6 @@ img {border-width: 0}
 .warn {color: red}
 
 .req {color: red}
-
 </style>
 <script language="javascript">
 if (window != top) top.location.href = location.href
@@ -58,16 +61,22 @@ function myonload() {
 
 }
 function myconfirm(message,url) {
-	if (confirm(message)) {
-		window.location = url;
-	}
+	if (confirm(message)) window.location = url;
 }
 function opensendmessage(id) {
-	window.open("http://www.connexion.org/sendmessage.cfm?pane=1&id="+id,"","screenx=30,screeny=30,top=30,left=30,height=400,width=600,directories=no,location=no,menubar=no,resizable=no,scrollbars=yes,status=no,toolbar=no");
+	window.open("/sendmessage.cfm?pane=1&id="+id,"","screenx=30,screeny=30,top=30,left=30,height=450,width=600,directories=no,location=no,menubar=no,resizable=no,scrollbars=yes,status=no,toolbar=no");
 	return (false);
 }
-function openwhosonline() {
-	window.open("http://www.connexion.org/whosonlineframes.html","whosonline","screenx=30,screeny=30,top=30,left=30,height=300,width=200,directories=no,location=no,menubar=no,resizable=yes,scrollbars=yes,status=no,toolbar=no");
+function startic(id) {
+	window.open('ic.cfm?strDestinationMemberID='+id+'&start=1&revalidation=0','ICWindow_0_'+id,
+		'width=360,height=440,toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0');
+}
+function openic(id) {
+	var thewindow;
+	
+	thewindow = window.open('ic.cfm?strDestinationMemberID='+id+'&start=0&revalidation=0','ICWindow_0_'+id,
+		'width=360,height=440,toolbar=0,directories=0,menubar=0,status=0,location=0,scrollbars=0,resizable=0');
+
 }
 </script></head>
 
@@ -80,77 +89,67 @@ function openwhosonline() {
 
 <table align="left" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-	<td colspan="2">
-		
-			<table align="left" border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td width="704" colspan="2" height="12" valign="middle">
-					<table width="100%" height="12" align="left" border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr>
-						
-						<td valign="middle" align="left"><a href="http://www.connexion.org/"><img src="pieces/header_logo.gif" border="0" alt="Connexion"></a></td>
-						
-						<td><img src="pieces/header_graphic.gif"></td>
-					</tr>
-					</tbody></table>
-				</td>
-			</tr>
-			
-				<tr>
-					<td width="704" colspan="2" height="12" valign="middle">
-						<table height="12" align="left" border="0" cellspacing="0" cellpadding="0">
-						<tbody><tr>
-							<td><img src="pieces/home_on.jpg" border="0"></td><td><a href="/search.cfm"><img src="pieces/search_off.jpg" border="0"></a></td><td><a href="/messages.cfm?folder=0"><img src="pieces/messages_off.jpg" border="0"></a></td><td><a href="/chat.cfm"><img src="pieces/chat_off.jpg" border="0"></a></td><td><a href="/boards.cfm"><img src="pieces/boards_off.jpg" border="0"></a></td><td><a href="/help.cfm"><img src="pieces/help_off.jpg" border="0"></a></td><td><img src="pieces/hellywoodblank.jpg" border="0"></td><td><img src="pieces/blank19_off.jpg" border="0"></td><td><img src="pieces/adminblank.jpg" border="0"></td>
-						</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td class="sm" colspan="2" height="6"></td>
-				</tr>
-			
-			</tbody></table>
-		
-	</td>
-</tr>
-<tr>
+<td colspan="2">
 	
-		<td class="sm" align="left" width="150" height="340" valign="top">
-			
-			<p><br>
-			<a href="http://www.connexion.org/index.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">Welcome</a><br>
-<a href="http://www.connexion.org/viewprofile.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">View My Profile</a><br>
-<a href="http://www.connexion.org/editprofile.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">Edit My Profile</a><br>
-<a href="http://www.connexion.org/editphotos.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">Edit My Photos</a><br>
-<a href="http://www.connexion.org/extracredit.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">Extra Credit</a><br>
-<a href="http://www.connexion.org/viewinvitations.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">View Invitations</a><br>
-<a href="http://www.connexion.org/viewbookmarks.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">View Bookmarks</a><br>
-<a href="http://www.connexion.org/edittestimonials.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">Edit Testimonials</a><br>
-<a href="http://www.connexion.org/invitefriends.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">Invite Friends</a><br>
-<a href="http://www.connexion.org/accountsettings.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">Account Settings</a><br>
-<img src="pieces/sml_square_on.gif" border="0" hspace="3">Privacy Policy<br>
-<a href="http://www.connexion.org/aboutus.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">About Us</a><br>
-<a href="http://www.connexion.org/referralprogram.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">Referral Program</a><br>
-<br>
-				
-					<a href="logon.cfm?target=index.cfm"><img src="pieces/sml_square_off.gif" border="0" hspace="3">Log On</a>
-				
-			<br>
-			<br></p>
-		</td>
-	
-	<td width="554" align="center" valign="top">
-		<br>
-		
-		<table width="532" border="0" cellpadding="0" cellspacing="0" align="center">
-		
+		<table align="left" border="0" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-			<td class="cont" align="left">
+		<td width="704" height="60" colspan="2" valign="middle">
+			<table width="100%" align="left" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				
+					
+					<td valign="middle" align="left"><a href="/"><img src="http://image1.connexion.org/pieces/header_logo.gif" border="0" alt="Connexion"></a></td>
+					
+					<td><img src="http://image1.connexion.org/pieces/header_graphic.gif"></td>
+				
+			</tr></tbody></table></td></tr>
+		
+			<tr>
+			<td colspan="2" valign="middle">
+				<table align="left" border="0" cellspacing="0" cellpadding="0" width="704">
+				<tbody><tr>	
+				<td><img src="http://image1.connexion.org/pieces/home_on.jpg" width="84"></td><td><a href="search.cfm"><img src="http://image1.connexion.org/pieces/search_off.jpg" width="87"></a></td><td><a href="messages.cfm"><img src="http://image1.connexion.org/pieces/messages_off.jpg" width="99"></a></td><td><a href="chat.cfm"><img src="http://image1.connexion.org/pieces/chat_off.jpg" width="71"></a></td><td><a href="eventcalendar.cfm"><img src="http://image1.connexion.org/pieces/calendar_off.jpg" width="102"></a></td><td><a href="help.cfm"><img src="http://image1.connexion.org/pieces/help_off.jpg" width="65"></a></td><td width="100%"><img src="http://image1.connexion.org/pieces/blank.jpg" height="28" width="100%"></td> 
+				</tr></tbody></table>
+			</td></tr><tr><td class="sm" colspan="2" height="6">
+		
+		</td></tr></tbody></table>
+	
+</td></tr><tr>
 
-<span class="headline">Connexion Privacy Policy</span><br>
-<p>Connexion does not send Spam or sell or rent email addresses!</p>
+	<td class="sm" align="left" width="150" height="340" valign="top">
+		
+		<p><br>
+		<a href="/index.cfm"><img src="http://image1.connexion.org/pieces/sml_square_off.gif" border="0" hspace="3">Welcome</a><br>
+<a href="/viewprofile.cfm"><img src="http://image1.connexion.org/pieces/sml_square_off.gif" border="0" hspace="3">View My Profile</a><br>
+<a href="/editprofile.cfm"><img src="http://image1.connexion.org/pieces/sml_square_off.gif" border="0" hspace="3">Edit My Profile</a><br>
+<a href="/editphotos.cfm"><img src="http://image1.connexion.org/pieces/sml_square_off.gif" border="0" hspace="3">Edit My Photos</a><br>
+<a href="/viewinvitations.cfm"><img src="http://image1.connexion.org/pieces/sml_square_off.gif" border="0" hspace="3">View Invitations</a><br>
+<a href="/viewbookmarks.cfm"><img src="http://image1.connexion.org/pieces/sml_square_off.gif" border="0" hspace="3">View Bookmarks</a><br>
+<a href="/edittestimonials.cfm?type=0"><img src="http://image1.connexion.org/pieces/triangle_off.gif" border="0" hspace="3">Testimonials</a><br>
+<a href="/invitefriends.cfm"><img src="http://image1.connexion.org/pieces/sml_square_off.gif" border="0" hspace="3">Invite Friends</a><br>
+<a href="/accountsettings.cfm"><img src="http://image1.connexion.org/pieces/sml_square_off.gif" border="0" hspace="3">Account Settings</a><br>
+<img src="http://image1.connexion.org/pieces/sml_square_on.gif" border="0" hspace="3">Privacy Policy<br>
+<a href="/aboutus.cfm"><img src="http://image1.connexion.org/pieces/sml_square_off.gif" border="0" hspace="3">About Us</a><br>
+<a href="/referralprogram.cfm"><img src="http://image1.connexion.org/pieces/sml_square_off.gif" border="0" hspace="3">Referral Program</a><br>
+<br>
+			
+				<a href="logon.cfm"><img src="http://image1.connexion.org/pieces/sml_square_off.gif" border="0" hspace="3">Log On</a><br>
+			
+		<br>
+		<br></p>
 
-<span class="headline">About the Information We Collect</span><br>
+</td><td width="554" align="center" valign="top">
+	<br>
+	
+	<table width="534" border="0" cellpadding="0" cellspacing="0" align="center">
+	
+	<tbody><tr>
+	<td class="cont" align="left">
+
+<span class="headline"><b>Connexion Privacy Policy</b></span><br>
+<p>Connexion does not send SPAM or sell or rent email addresses!</p>
+
+<span class="headline"><b>About the Information We Collect</b></span><br>
 <p>Connexion is an social network that connects you to people through
 networks of your friends and relatives.  You create a profile which is then 
 linked to your friends and relatives to create your network. To do this we display certain
@@ -160,84 +159,80 @@ unless you are asking them to connect to you as a friend or relative. Your date 
 is not shared with anyone except your immediate friends (and then only if you give permission),
 though your age is always shared.</p>
 
-<span class="headline">Information Collected by Connexion</span><br>
+<span class="headline"><b>Information Collected by Connexion</b></span><br>
 <p>Connexion asks for certain information such as your name, email address, gender 
 and date of birth.</p>
 
-<span class="headline">Information Obtained from Your Computer</span><br>
+<span class="headline"><b>Information Obtained from Your Computer</b></span><br>
 <p>Connexion also collects the type and version number of your browser as well
 as your computer's IP address. We use this for general administration of the website only.</p>
 
-<span class="headline">Sharing of Your Information</span><br>
+<span class="headline"><b>Sharing of Your Information</b></span><br>
 <p>We do not sell, rent, share, trade or give away any of your personal information unless
 required by law.</p>
 
-<span class="headline">How We Use Your Information</span><br>
-<p>Insert stuff here.</p>
+<span class="headline"><b>How We Use Your Information</b></span><br>
+<p>We use your information principally to enhance your experience using the web site. Links
+available on the home page and elsewhere may be shown because they have relevance to you.
+Also to minimize irrelevant communications from us to you, any email communication from
+Connexion will be sent only to those members to whom it might be important.</p>
 
-<span class="headline">Use of Cookies</span><br>
+<p>It is also used is aggregated form (i.e. as statistics like 12% of members are under the age of 20)
+and in that form may be widely distributed.  However, we never release your personal information
+to anyone outside of our organization.</p>
+
+<span class="headline"><b>Use of Cookies</b></span><br>
 <p>We use cookies to store information such as your email address and password on
 your computer so that you can log in automatically.  You activate this feature
 when you join or log in by asking the computer to remember your member name
 and password.  To prevent someone from logging in as you, you should use this option 
 ONLY on a computer where you will be the only person with access.</p>
 
-<span class="headline">Security</span><br>
+<span class="headline"><b>Security</b></span><br>
 <p>Your membership information is protected by a password. This prevents unauthorized
 access to your membership information. If you feel your password has been compromised, use
 the "Account Settings" section of the site to change it.</p>
 
-<span class="headline">Email from Connexion</span><br>
+<span class="headline"><b>Email from Connexion</b></span><br>
 <p>From time to time we may send email with information about changes and 
 improvements to the site, other information that relates to your membership
 or general news. You can control whether this information is sent to you
 using the features in the "Account Settings" section of the site.</p>
 
-<span class="headline">Contacting Us</span><br>
+<span class="headline"><b>Contacting Us</b></span><br>
 <p>A list of contacts for Connexion can be obtained
 <a href="contactus.cfm">here</a>. If you have any questions about our website
-or this privact policy, please free free to contact us.</p>
+or this privacy policy, please feel free to contact us.</p>
 
-					<br clear="both">
-				</td>
-			</tr>
-			
-			</tbody></table>
-		</td>
-	</tr>
+			<br clear="both">
+		
+		</td></tr></tbody></table>
 	
-		<tr>
-			<td class="sm" colspan="3" align="left" valign="top" width="704"><img src="/pieces/1pixel.gif" align="left" border="0" width="1" height="1" alt=" "></td>
-		</tr>
-		<tr>
-			<td class="bm" colspan="3" align="center">
-				<p><br>
-				<a href="index.cfm">Home</a> | <a href="gallery.cfm">Gallery</a> | 
-				<a href="personalssearch.cfm">Search</a> | <a href="messages.cfm">Messages</a>|
-				<a href="boards.cfm">Boards</a> | <a href="help.cfm">Help</a>
-				
-				<br>
-				<a href="join.cfm">Join</a> | <a href="contactus.cfm">Contact Us</a> | 
-				<a href="termsofservice.cfm">Terms of Service</a> | <a href="privacypolicy.cfm">Privacy</a>
-				<br>&nbsp;</p>
-			</td>
-		</tr>
-	
-	<tr>
-		<td class="sm" colspan="3" align="left" valign="top" width="704"><img src="/pieces/1pixel.gif" align="left" border="0" width="1" height="1" alt=" "></td>
-	</tr>
-	
-	<tr>
+		</td></tr><tr>
+		<td class="sm" colspan="3" align="left" valign="top" width="704"><img src="http://image1.connexion.org/pieces/1pixel.gif" align="left" border="0" width="1" height="1" alt=" "></td>
+		</tr><tr>
 		<td class="bm" colspan="3" align="center">
 			<p><br>
-			Site design by Connexion.<br>
-			Copyright © 2003 Connexion. All rights reserved.</p>
+			<a href="index.cfm">Home</a> | <a href="search.cfm">Search</a> | 
+			<a href="messages.cfm">Messages</a> | <a href="chat.cfm">Chat</a> |
+			<a href="eventcalendar.cfm">Calendar</a> | <a href="eactivist.cfm">eActivist</a> | <a href="help.cfm">Help</a>
 			
-			
-		</td>
-	</tr>
-	</tbody></table>
-
+			<br>
+			<a href="join.cfm">Join</a> | <a href="contactus.cfm">Contact Us</a> | 
+			<a href="termsofservice.cfm">Terms of Service</a> | <a href="privacypolicy.cfm">Privacy</a>
+			<br>&nbsp;</p>
+	
+	</td></tr><tr>
+	<td class="sm" colspan="3" align="left" valign="top" width="704"><img src="http://image1.connexion.org/pieces/1pixel.gif" align="left" border="0" width="1" height="1" alt=" "></td>
+	
+	</tr><tr>
+	<td class="bm" colspan="3" align="center">
+		<p><br>
+		Site design by Connexion.<br>
+		Copyright © 2003-2004 Connexion. All rights reserved.</p>
+		
+		
+	</td></tr></tbody></table>
 
 
 
