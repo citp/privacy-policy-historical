@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerball.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205221145id_/http%3A//www.powerball.com/pb_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerball.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612180531id_/http%3A//www.powerball.com/pb_privacy.asp) for the most accurate reproduction.*
 
 # Welcome to Powerball
 
@@ -11,6 +11,9 @@ The Multi-State Lottery Association collects demographic and player-specific inf
 The Multi-State Lottery Association maintains strict security procedures to protect the confidentiality of our visitor information. Our employees must abide by our privacy policies and have access to visitor information only for business purposes. If an employee is found in violation of our policy, disciplinary actions are taken. 
 
 **SHARING INFORMATION**  
-Your information stays within the Multi-State Lottery Association and is not made available to anyone outside of our immediate government lottery members. 
+Information collected by the Multi-State Lottery Association is not sold or distributed outside of the Multi-State Lottery Association.
 
-Should you have any questions or concerns on this policy, please [contact us](mailto:%20privacy@musl.com).
+**POWERBALL MERCHANDISE**  
+The Multi-State Lottery Assocation has contracted with a third party company to provide fulfillment services for Powerball merchandise. The Vernon Company is an authorized independent third party distributor of Powerball merchandise. All transactions with the Vernon Company and the maintenance of customer confidential information by the Vernon Company, including credit card information, is the sole responsibility of the Vernon Company. The Multi-State Lottery Association disclaims any liability for any transactions, or the sharing of confidential information, with the Vernon Company. [Click here](http://www.vernoncompany.com/powerball/vernon_privacy_policy.htm) to review the Vernon Company privacy policy.
+
+Should you have any questions or concerns about the Multi-State Lottery Association Privacy Policy, please [contact us](mailto:%20privacy@musl.com).
