@@ -1,45 +1,52 @@
-> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402082515id_/http%3A//www.natively.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natively.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/privacy.asp) for the most accurate reproduction.*
 
-# Natively.com
+# Natively.com - language solutions, translations, English learning
 
-|  |  | **Privacy Policy**
-
-**PRIVACY POLICY AND STATEMENT OF  
-WWW.NATIVELY.COM  
-and all related sites owned, operated or controlled by Natively**  
-  
+|  |   
 ---  
-  **Information Collection and Use**  
-Natively is the sole owner of the information collected on this site. Natively will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Natively collects information from our users at several different points in the Natively website, services and products. 
+[](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/index.asp)  
+[](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/translator.asp)  
+       [Key Finder](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/keyFinder.asp)  
+       [Requirements](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/system.asp)  
+[](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/learning.asp)  
+       [English+](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/englishplus.asp)  
+       [English+ Kids](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/engp_kids.asp)  
+       [Requirements](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/system2.asp)  
+|  | PRIVACY POLICY  
+---  
+Privacy Protection Commitment by Natively.com  
+Natively.com is obliged to protect the privacy of its clients.  
+This obligation is, as mentioned, subject to changes and updates from time to time - you are therefore required to check in from time to time.
 
-**Information Collected**  
-Natively requests information from the user on order form, request for download or information, newsletters, product registration and other locations. Here a user may provide contact information (like name and address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customers' orders. If Natively has trouble processing an order, this contact information is used to get in touch with the user. 
+At purchasing time, Natively gathers information such as the user's age range, gender,  
+country, zip code, e-mail address and general interests.  
+The purpose of gathering this information is to help Natively provide better service to  
+our users and aggregate information to third parties interested in usage patterns of different demographic groups. Natively may share information about users with business partners, sponsors and other third parties; however, we do so only in the aggregate and never on a personal basis.
 
-**Use of Cookies**  
-Natively uses cookies to gather and store information. Cookies are pieces of data that a web site transfers to the user computer's hard drive solely for record-keeping purposes. Cookies help Natively make its software more useful by storing information on your preferences. There is nothing unusual about the use of cookies by a website and they are an industry standard. Your browser is most likely set up to accept cookies, but you can set yours to refuse them. If you do so, you may not be able to take full advantage of Natively 's website. 
-
-**Log Files**  
-Natively uses IP addresses to analyze trends, administer the site, track users' movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information with the exception of fraud prevention. 
-
-**Sharing**  
-Natively shares aggregated demographic information with partners. Natively uses an outside shipping company and a credit card processing company to bill users for services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. Natively partners with another party to provide specific services. When the user signs up for these services, Natively will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
-
-**Links**  
-This website contains links to other sites. Please be aware that Natively is not responsible for the privacy practices of such other sites. Natively encourages users to be aware when they leave this site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this Website. 
-
-**Surveys & Contests**  
-From time to time, the Natively site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and address), and demographic information (such as zip code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Information collected may be used to contact you and offer Natively and third party services and products.
-
-**Tell-A-Friend**  
-If a user elects to use Natively's referral service for informing a friend about this site, we ask them for the friend's name and email address. Natively will automatically send the friend emails inviting him or her to visit the site. The friend may contact Natively to request the removal of the information from the database. 
-
-**Security**  
-This website takes every precaution to protect users' information. When users submit sensitive information via the website, the information is protected both online and offline. When registration form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as the payment reply form, the lock icon on the bottom of Web browsers such as Microsoft Internet Explorer becomes locked. 
-
-**Special Offers**  
-Natively sends all new clients and prospects an email to verify the email address. Established members will occasionally receive information on services, special deals, and newsletters. Out of respect for the privacy of our users, Natively presents the option to not receive this type of communication. 
-
-**Choice/Opt-out**  
-Natively users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to Natively site. 
-
-(Version 2.2 - updated March 15, 2004)
+Natively checks for the following information when using Natively software:  
+your operating system, Natively Software version, browser version, connectivity, and information regarding your use and the configuration of the Natively Software ("Parameters"). Parameters are collected in order to provide you with the Software and Services subject to the provisions hereof;  
+  
+Payment Collection Information:  
+when purchasing a subscription using your credit card, you will be asked to submit data such as the credit card number. Darlingo.com uses the most updated information security technology, whose purpose is to protect your credit card details during the transmission of data stored on the servers. This SSL technology ('Secure Sockets Layers'), secures billions of dollars' worth of transactions over the internet. Darlingo.com uses a mediator for the purpose of clearing all credit card transactions.  
+  
+Additional Information Collected:  
+When contacting Natively.com through the 'Contact' option, we use the submitted information and email address to answer questions or problems concerning the Nativeky.com site. Additionally, some information (such as IP address, browser, computer type and operating system) is stored automatically. This kind of information helps us answer your questions, especially those concerning technical difficulties. Filing such information concerning content allows diagnosis of problems related to our servers, security management and demographic attribution. We also collect such information at times for internal business needs that are not accessible to anyone outside Natively.com. We will disclose this information only if required to do so by law.  
+  
+Security:  
+We use 'Cookies' in order to simplify the user's experience. You can set your browser preferences to a 'cookie' rejecting mode, but be advised that the service may not function properly then. Natively.com data is stored behind 'Firewalls' so as to prevent loss, changing or misuse of information under our control. We have adopted preventive tools that limit access to sensitive information, and that locates and prevents access plus certain actions from unauthorized users.  
+While these means exceed the industry standards, no complaint has been raised as for the penetrability of our system at exceptional cases, or concerning its ability to withstand malicious attempts in the future.  
+  
+Links:  
+Natively.com includes links to different sites. Please note that when 'clicking' any of these links, you are 'clicking' another site. We request that you read the Privacy Protection Notice on these sites, since theirs may differ from ours.  
+  
+Opt-out:  
+Natively.com sends messages to its subscribers via email from time to time, concerning new services, improvements, notice of scheduled services etc. Our subscribers may choose not to receive this information by suspending their subscription with us.  
+  
+Notifications Regarding Changes:  
+In the event of a fundamental change in our privacy protection policy or in the manner we use your personal information, we will make sure to post a notification on our website 30 days earlier.  
+  
+Contacting the Site:  
+You may address any question you may have regarding this document, the site policy or the way you use the site by contacting Natively.com, using the 'Contact' link.  
+| [](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/terms.asp) |  | [](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/privacy.asp) |  | [](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/faq.asp) |  | [](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/about.asp) |  | [](https://web.archive.org/web/20050305131439id_/http%3A//natively.com/contact.asp)  
+---|---|---|---|---|---|---|---|---  
+© Copyrights 2004 - 2005 Natively All rights reserved
