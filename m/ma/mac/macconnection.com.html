@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macconnection.com privacy policy that was archived on 2001-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011218214226id_/http%3A//www.macconnection.com/scripts/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macconnection.com privacy policy that was archived on 2002-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602142040id_/http%3A//www.macconnection.com/scripts/about/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>PC Connection : Privacy Policy</title>
@@ -16,7 +16,7 @@ function setFocus()
 <!-- START HEADER BRAND -->
 
 
-<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#990099" marginwidth="5" marginheight="5" leftmargin="5" topmargin="5" onload="Javascript:setFocus();">
+<body bgcolor="#FFFFFF" text="#000000" link="#0000FF" vlink="#990099" marginwidth="5" marginheight="5" leftmargin="5" topmargin="5" onload="JavaScript:setFocus();">
 <script type="text/javascript" src="/validate.js"></script>
 <noscript>
 <TABLE WIDTH=610 CELLPADDING=0 CELLSPACING=0 BORDER=0>
@@ -31,9 +31,9 @@ function setFocus()
 
 <!--
 Server: www.macconnection.com<BR>
-RemoteIP: 209.247.40.109<BR>
-SessionID: 765993062<BR>
-ServerName: web1<BR>
+RemoteIP: 66.28.250.176<BR>
+SessionID: 66888052<BR>
+ServerName: web3<BR>
 -->
 
 
@@ -93,63 +93,92 @@ ServerName: web1<BR>
 
 </td></tr>
 
+<script language="JavaScript">
+//<!--
+
+  function SetSelValues(selval){
+    //alert(lstSelector.options[lstSelector.selectedIndex].value); 
+    //alert(selval);
+    switch (selval){
+      case 'cable': 
+        if(ValidBrowser()=="UnSupported")
+          window.location ='/scripts/validator.asp?ver=' + BrowserVer();
+        else
+          window.location ="http://www.macconnection.com/scripts/content/showcase/belkin/cablejump.asp";
+        return;
+      case 'camera': 
+        if(ValidBrowser()=="UnSupported")
+          window.location ='/scripts/validator.asp?ver=' + BrowserVer();
+        else
+          window.location ="http://www.macconnection.com/scripts/smartselectors/cameras.asp?useraction=calc";
+        return;
+      case 'memory': 
+        if(ValidBrowser()=="UnSupported")
+          window.location ='/scripts/validator.asp?ver=' + BrowserVer();
+        else
+          window.location ="http://www.macconnection.com/scripts/content/memjump.asp";
+        return;
+      case 'monitor': 
+        if(ValidBrowser()=="UnSupported")
+          window.location ='/scripts/validator.asp?ver=' + BrowserVer();
+        else
+          window.location ="http://www.macconnection.com/scripts/smartselectors/monitors.asp?useraction=calc";
+        return;
+      case 'network': 
+        if(ValidBrowser()=="UnSupported")
+          window.location ='/scripts/validator.asp?ver=' + BrowserVer();
+        else
+          window.location ="http://www.macconnection.com/scripts/smartselectors/networks.asp?useraction=calc";
+        return;
+      case 'printer': 
+        if(ValidBrowser()=="UnSupported")
+          window.location ='/scripts/validator.asp?ver=' + BrowserVer();
+        else
+          window.location ="http://www.macconnection.com/scripts/smartselectors/printers.asp?useraction=calc";
+        return;
+      case 'system': 
+        if(ValidBrowser()=="UnSupported")
+          window.location ='/scripts/validator.asp?ver=' + BrowserVer();
+        else
+          window.location ="http://www.macconnection.com/scripts/smartselectors/systems.asp?useraction=calc";
+        return;
+      default:
+        return;
+    }
+  }
+  
+//-->
+</script>
+
+
+<!-- 
+<TR><TD BGCOLOR="#6633FF"><IMG SRC="/images/nav/pl_iba_selectors.gif" WIDTH=120 HEIGHT=17 ALT="Product Search" BORDER=0><BR CLEAR="ALL"></TD></TR>
+
+<TR><TD BGCOLOR="#6633FF"><IMG SRC="/images/nav/pl_selectors.gif" WIDTH=120 HEIGHT=17 ALT="Product Search" BORDER=0><BR CLEAR="ALL"></TD></TR>
+-->
 
 
 <tr><td bgcolor="#FFCC00"><img src="/images/nav/navfill.gif" width="120" height="16" border="0"><br clear="ALL"></td></tr>
 <tr><td bgcolor="#6633FF"><font size="2" face="Arial,Helvetica" color="#FFFF33"><b>&nbsp;Smart Selectors</b><br></font></td></tr>
 <tr><td bgcolor="#FFCC00"><img src="/images/spacers/spacer.gif" border="0" alt="" width="1" height="5"></td></tr>
 <tr><td bgcolor="#FFCC00" align="CENTER">
-<script language="JavaScript">
-                                                                                                                                                                                                                                                                                     //<!-- hide it
-                                                                                                                                                                                                                                  function MoveCamera() {
-  if(ValidBrowser()=="UnSupported")
-    window.location.href='/scripts/validator.asp?ver=' + BrowserVer();
-  else
-    location.href="http://www.macconnection.com/scripts/smartselectors/cameras.asp?useraction=calc";
-}
-document.write('<A HREF="JavaScript:MoveCamera();"><IMG SRC="/images/nav/cameras_off.gif" ALT="Camera Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">');
-document.write('<A HREF="http://www.macconnection.com/scripts/memoryconnection/mem_search.asp"><IMG SRC="/images/nav/memory_off.gif" ALT="Memory Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">');
-function MoveMonitor() {
-  if(ValidBrowser()=="UnSupported")
-    window.location.href='/scripts/validator.asp?ver=' + BrowserVer();
-  else
-    location.href="http://www.macconnection.com/scripts/smartselectors/monitors.asp?useraction=calc";
-}
-document.write('<A HREF="JavaScript:MoveMonitor();"><IMG SRC="/images/nav/monitors_off.gif" ALT="Monitor Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">');
-function MoveNetwork() {
-  if(ValidBrowser()=="UnSupported")
-    window.location.href='/scripts/validator.asp?ver=' + BrowserVer();
-  else
-    location.href="http://www.macconnection.com/scripts/smartselectors/networks.asp?useraction=calc";
-}
-document.write('<A HREF="JavaScript:MoveNetwork();"><IMG SRC="/images/nav/networking_off.gif" ALT="Network Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">');
-function MovePrinter() {
-  if(ValidBrowser()=="UnSupported")
-    window.location.href='/scripts/validator.asp?ver=' + BrowserVer();
-  else
-    location.href="http://www.macconnection.com/scripts/smartselectors/printers.asp?useraction=calc";
-}
-document.write('<A HREF="JavaScript:MovePrinter();"><IMG SRC="/images/nav/printers_off.gif" ALT="Printer Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">');
-function MoveSystem() {
-  if(ValidBrowser()=="UnSupported")
-    window.location.href='/scripts/validator.asp?ver=' + BrowserVer();
-  else
-    location.href="http://www.macconnection.com/scripts/smartselectors/systems.asp?useraction=calc";
-}
-document.write('<A HREF="JavaScript:MoveSystem();"><IMG SRC="/images/nav/systems_off.gif" ALT="System Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">');
-//-->
-</script><a href="JavaScript:MoveCamera();"><img src="/images/nav/cameras_off.gif" alt="Camera Selector" width="106" height="15" border="0"></a><br clear="ALL"><img src="/images/spacers/spacer.gif" width="106" height="2" border="0" alt=""><br clear="all"><a href="http://www.macconnection.com/scripts/memoryconnection/mem_search.asp"><img src="/images/nav/memory_off.gif" alt="Memory Selector" width="106" height="15" border="0"></a><br clear="ALL"><img src="/images/spacers/spacer.gif" width="106" height="2" border="0" alt=""><br clear="all"><a href="JavaScript:MoveMonitor();"><img src="/images/nav/monitors_off.gif" alt="Monitor Selector" width="106" height="15" border="0"></a><br clear="ALL"><img src="/images/spacers/spacer.gif" width="106" height="2" border="0" alt=""><br clear="all"><a href="JavaScript:MoveNetwork();"><img src="/images/nav/networking_off.gif" alt="Network Selector" width="106" height="15" border="0"></a><br clear="ALL"><img src="/images/spacers/spacer.gif" width="106" height="2" border="0" alt=""><br clear="all"><a href="JavaScript:MovePrinter();"><img src="/images/nav/printers_off.gif" alt="Printer Selector" width="106" height="15" border="0"></a><br clear="ALL"><img src="/images/spacers/spacer.gif" width="106" height="2" border="0" alt=""><br clear="all"><a href="JavaScript:MoveSystem();"><img src="/images/nav/systems_off.gif" alt="System Selector" width="106" height="15" border="0"></a><br clear="ALL"><img src="/images/spacers/spacer.gif" width="106" height="2" border="0" alt=""><br clear="all">
 
-<noscript>
-<A HREF="http://www.macconnection.com/scripts/validator.asp?ver=other"><IMG SRC="/images/nav/cameras_off.gif" ALT="Camera Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">
-<A HREF="http://www.macconnection.com/scripts/memoryconnection/mem_search.asp"><IMG SRC="/images/nav/memory_off.gif" ALT="Memory Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">
-<A HREF="http://www.macconnection.com/scripts/validator.asp?ver=other"><IMG SRC="/images/nav/monitors_off.gif" ALT="Monitor Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">
-<A HREF="http://www.macconnection.com/scripts/validator.asp?ver=other"><IMG SRC="/images/nav/networking_off.gif" ALT="Network Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">
-<A HREF="http://www.macconnection.com/scripts/validator.asp?ver=other"><IMG SRC="/images/nav/printers_off.gif" ALT="Printer Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">
-<A HREF="http://www.macconnection.com/scripts/validator.asp?ver=other"><IMG SRC="/images/nav/systems_off.gif" ALT="System Selector" WIDTH=106 HEIGHT=15 BORDER=0></A><BR CLEAR="ALL"><IMG SRC="/images/spacers/spacer.gif" WIDTH=106 HEIGHT=2 BORDER=0 ALT=""><BR CLEAR="all">
-</noscript>
+<form name="frmSelector" id="frmSelector" method="GET" action="http://www.macconnection.com/scripts/searchresults.asp">
 
-</td></tr>
+<select name="lstSelector" id="lstSelector" size="1" onchange="SetSelValues(lstSelector.options[lstSelector.selectedIndex].value);">
+<option value="select1">Select One</option>
+<option value="cable">Cables    </option>
+<option value="camera">Cameras   </option>
+<option value="memory">Memory    </option>
+<option value="monitor">Monitors  </option>
+<option value="network">Network   </option>
+<option value="printer">Printers  </option>
+<option value="system">Systems   </option>
+</select>
+
+</form></td></tr><tr><td bgcolor="#FFCC00"><img src="/images/spacers/spacer.gif" border="0" alt="" width="1" height="5"></td></tr>
+
+
 
 
 
@@ -174,7 +203,7 @@ document.write('<A HREF="JavaScript:MoveSystem();"><IMG SRC="/images/nav/systems
 </tr></tbody></table>
 <img src="/images/nav/navline.gif" width="120" height="6" border="0"><br clear="ALL">
 <font size="2" face="Arial,Helvetica"><a href="http://www.macconnection.com/scripts/advancedsearch.asp">Mfr Searches</a><br clear="ALL"></font>
-<img src="/images/spacers/FFCC00.gif" width="120" height="3" border="0"><br clear="ALL">
+<img src="/images/spacers/spacer.gif" width="120" height="3" border="0"><br clear="ALL">
 <font size="2" face="Arial,Helvetica"><a href="http://www.macconnection.com/scripts/advancedsearch.asp">Advanced Searches</a><br clear="ALL"></font>
 </td></tr>
 
@@ -184,12 +213,6 @@ document.write('<A HREF="JavaScript:MoveSystem();"><IMG SRC="/images/nav/systems
 
 <tr><td bgcolor="#6633FF"><font size="2" face="Arial,Helvetica" color="#FFFF33"><b>&nbsp;Browse Products</b><br></font></td></tr>
 
-
-<tr><td bgcolor="#FFFF99">
-<img src="/scripts/images/holly.gif"><br>
-<font size="2" face="Arial,Helvetica">&nbsp;&nbsp;&nbsp;&nbsp;<a href="/scripts/about/holiday_helps.asp">Great Gift Ideas</a></font>
-<img src="/scripts/images/holly.gif"><br>
-</td></tr>
 
 
 
@@ -207,6 +230,7 @@ document.write('<A HREF="JavaScript:MoveSystem();"><IMG SRC="/images/nav/systems
 <tr><td bgcolor="#FFFF99">
 <font size="1" face="Arial,Helvetica">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.macconnection.com/scripts/browseproducts.asp?category=Hardware&amp;browse=Accessories">Accessories</a><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.macconnection.com/scripts/browseproducts.asp?category=Hardware&amp;browse=Consumer+Electronics">Consumer Electronics</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.macconnection.com/scripts/browseproducts.asp?category=Hardware&amp;browse=Digital+Cameras">Digital Cameras</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.macconnection.com/scripts/browseproducts.asp?category=Hardware&amp;browse=Drives+and+Storage">Drives &amp; Storage</a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.macconnection.com/scripts/browseproducts.asp?category=Hardware&amp;browse=Memory">Memory</a><br>
@@ -251,12 +275,7 @@ document.write('<A HREF="JavaScript:MoveSystem();"><IMG SRC="/images/nav/systems
 </font>
 </td></tr>
 
-<tr><td bgcolor="#6633FF"><font size="2" face="Arial,Helvetica" color="#FFFF33"><b>&nbsp;Programs</b><br></font></td></tr>
-<tr><td bgcolor="#FFCC00">
-<font size="1" face="Arial,Helvetica">
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.macconnection.com/scripts/aff_program.asp">Affiliate Program</a><br>
-</font>
-</td></tr>
+
 
 <tr><td><img src="/images/nav/botnavfl.gif" width="120" height="7" border="0" alt=""><br clear="ALL"></td></tr>
 </tbody></table>
@@ -305,10 +324,10 @@ at 1-888-213-0260.
 
 </font></p><p><font size="2" face="Arial,Helvetica">
 <b>When you choose to receive e-mail from us</b><br>
-From time to time you may receive e-mailed information about our products, promotions, and services. 
-In addition to receiving e-mail from us, you may occasionally receive special mailings from us and/or 
-from reputable companies whose products may be of interest to you.  To remove your name from our e-mail list, 
-send an e-mail to <a href="mailto:emaillist@pcconnection.com">emaillist@pcconnection.com</a>.  
+From time to time you may receive e-mailed information about our products, promotions, and services. We are committed 
+to protecting your privacy. We are the sole owner of all information collected at this site, and you have our pledge 
+that we will not sell, share nor rent this information to others in any way without your explicit permission. To remove 
+your name from our e-mail list, send an e-mail to <a href="mailto:emaillist@pcconnection.com">emaillist@pcconnection.com</a>.  
 For your convenience, we will include instructions to unsubscribe at the bottom of every promotional e-mail we send.
 
 </font></p><p><font size="2" face="Arial,Helvetica">
@@ -399,7 +418,7 @@ requests or other documents to PC Connection without the prior consent of their 
 <a href="http://www.macconnection.com/scripts/about/caveat.asp" target="_top"><b>Terms &amp; Conditions of Sale</b></a><b><br>
 <a href="http://www.macconnection.com/scripts/about/legal_notices.asp" target="_top">Legal Notices</a></b><br>
 <a href="http://www.macconnection.com/scripts/about/privacy.asp" target="_top"><b>Privacy Policy</b></a><br>
-<b>© 2001 PC Connection, Inc. All rights reserved.</b><br>
+<b>© 2002 PC Connection, Inc. All rights reserved.</b><br>
 </font>
 </td>
 <td align="RIGHT" width="100"><a href="http://www.macconnection.com/scripts/content/awards/awards.asp" target="_top"><img src="/images/awardlink.gif" alt="Awards and Recognition" width="100" height="40" border="0"></a><br clear="ALL"></td></tr>
@@ -415,8 +434,8 @@ requests or other documents to PC Connection without the prior consent of their 
 <img src="/images/spacers/spacer.gif" width="5" height="120" border="0"><br clear="ALL">
 
 
-<!-- $Revision: 14 $ -->
-<!-- $Date: 7/26/00 9:47a $ -->
+<!-- $Revision: 15 $ -->
+<!-- $Date: 1/16/02 9:37a $ -->
 <!-- $NoKeywords: $ --> 
 
 </body></html>
