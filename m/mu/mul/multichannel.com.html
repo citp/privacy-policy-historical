@@ -1,0 +1,993 @@
+<!--The following is the downloaded HTML source of the multichannel.com privacy policy that was archived on 2002-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021217190154id_/http%3A//multichannel.com/index.asp%3Flayout%3Dinfo_page%26page%3Dprivacy) for the most accurate reproduction.-->
+
+<html><head>
+<title>Multichannel News</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="description" content="Multichannel News is the cable industry's book-of-record, and reports on all breaking news relevant to the cable, broadband and telecommunications industries.">
+
+<meta name="keywords" content="broadband, broadband week, broadcast, broadcast news, broadcasting, broadcasting and cable, cable TV , cable news, CATV, cablevision, ca, consumer electronics, dbs, digital , entertainment, free, international channels, media, media marketing, media news, media research, multichannel news, multi channel news, multichannel news international, multichannel newswire, multichannelnews, operators, old shows, pay per view, neilsen, nielsen ratings, PPV, pay, program listings, programming, radio, radio ratings, ratings, release schedules, satellite, station sales, streaming media, television industry, television industry news, licenses, licensing, news, news international, ratings, regulations, stations, systems ">
+
+<script language="JavaScript">
+function AddCommas(num){
+// Check to see if the number needs any commas
+num = num + '';
+if (num.length > 3) {
+// Figure out how many commas need to go in
+var count;
+var numcommas;
+
+count = 0;
+numcommas = 0;
+while (count < num.length) {
+count = count + 3;
+if (count < num.length) {
+numcommas = numcommas + 1;
+}
+}
+
+// Put the commas in.
+var NewNumber;
+var TempNumber;
+
+count = 0;
+TempNumber = num;
+NewNumber = '';
+for(count = 0; count < numcommas; count++) {
+NewNumber = ',' + TempNumber.substring(TempNumber.length - 3,TempNumber.length) + NewNumber;
+TempNumber = TempNumber.substring(0, TempNumber.length - 3);
+}
+NewNumber = TempNumber + NewNumber;
+document.write(NewNumber);
+} else {
+// Number is less then 3 and doesnt need any commas.
+// Just print the number.
+document.write(num);
+}
+}
+<!--Read Cookie-->
+function getCookie(Name) {
+	var search = Name + "=";
+	if (document.cookie.length > 0) {
+	  	offset = document.cookie.indexOf(search);
+			if (offset != -1) {
+      			offset += search.length;	// set index of beginning of value         
+		      	end = document.cookie.indexOf(";", offset);  // set index of end of cookie value         
+      			if (end == -1) end = document.cookie.length;
+		      	return unescape(document.cookie.substring(offset,end));
+		}
+	}
+}
+
+<!--Set Cookie-->
+function setCookie(name, value, expire) {   
+	document.cookie = name + "=" + escape(value)   + ((expire == null) ? "" : ("; expires=" + expire.toGMTString()))
+}
+
+window.onload = openPopHome;
+
+<!--popup window-->
+function openPopHome() {
+ 	// check cookie
+	var popupCookie = getCookie("popupHome");
+	
+	if (popupCookie != 'yes' && '0' != '1') {
+		// write cookie
+		setCookie("popupHome", "yes", null);
+
+		// display popup
+		popupWin = window.open('index.asp?layout=webzine_popup','remote','width=540,height=320,left=50,top=200,resizable=0');
+	}
+	else if ('0' == '1') {
+		// write cookie
+		setCookie("popupHome", "yes", null);
+	}
+}
+
+</script>
+
+</head>
+
+<body leftmargin="6" topmargin="0" marginheight="0" marginwidth="2" link="#000033" alink="#CCCCCC" vlink="#333333" bgcolor="#FFFFFF">
+<!-- mheadend -->
+<style type="text/css">
+.archiveshead{ background : #000066 repeat; color : #ffffff; font : bold 12pt Arial, Helvetica, Geneva, sans-serif; }
+.archivesyear{ color : #000066; font : bold 11pt Arial, Helvetica, Geneva, sans-serif; }
+.archivetitle { color : #000066; font : normal bold 12pt Arial, Helvetica, sans-serif; text-transform : uppercase; }
+.archivequarters{ color : #000066; font : bold 9pt/10pt Arial, Geneva, Helvetica, sans-serif; }
+.articles{ color : #000066; font : bold 11pt/12pt Arial, Helvetica, Geneva, sans-serif; }
+.bottomnav{ color : #333333; font : bold 10px Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
+.breadcrumb{ color : #666666; font : bold 11px/10pt Arial, Helvetica, Geneva, sans-serif;}
+.breadcrumbtitle{ color : #666666; font : normal 10px/10pt Arial, Helvetica, Geneva, sans-serif; font-weight : bold; word-spacing : 8pt; }
+.byline{ color : #000000; font : bold 10px/10pt Verdana, Arial, Geneva, Helvetica, sans-serif; }
+.bylineblack{ color : #000000; font : italic 8pt/10pt Arial, Helvetica, Geneva, sans-serif; }
+.classifiedtitle{ color : #ffffff; font : bold 12pt Arial, Helvetica, Geneva, sans-serif; }
+.classifiedcolhead{ color : #000000; font : normal 11pt Arial, Helvetica, Geneva, sans-serif; }
+.classifiedentrybold{ color : #000000; font : bold 10pt Arial, Helvetica, Geneva, sans-serif; }
+.classifiedentrynormal{ color : #000000; font : normal 10pt Arial, Helvetica, Geneva, sans-serif; }
+.copy{ color : #000000; font : 11px/11pt Verdana, Arial, Geneva, Helvetica, sans-serif; }
+.discussions{ COLOR : #770000; font : bold 10px/13px Verdana, Helvetica, Arial; }
+.discussionsLarge{ color : #003399; font : normal bold 13px Arial, Helvetica, Serif; }
+.discussionsSmall{ color : #003399; font : bold 11px Verdana, Helvetica, Arial; }
+.emailHeader{ color : #000066; font : bold 12px Arial, Helvetica, Serif; }
+.footer{ color : #000000; font : 10px Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
+.GreyHeads{ background : #cccccc repeat; color : #333333; font : bold 12px Arial, Helvetica, Geneva, sans-serif; }
+.headvideoclip{ color : #000000; font : bold 8pt/15pt Arial, Helvetica, Geneva, sans-serif; }
+.head{ color : #003399; font : bold 14px/15pt Arial, Geneva, Helvetica, sans-serif; }
+.headred{ color : red; font : bold 14px/15pt Arial, Geneva, Helvetica, sans-serif; text-decoration : none;}
+.headline{ color : #000000; font : bold 10pt/11pt Arial, Geneva, Helvetica, sans-serif; }
+.headrelated{ color : #000066; font : bold 9pt/12pt Arial, Helvetica, Geneva, sans-serif; }
+.headsmall{ color : #003399; font : bold 11px/11pt Verdana, Arial, Geneva, Helvetica, sans-serif; }
+.home{ color : #ffffff; font : bold 10px Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
+.infopagebullets{ color : #000000; font : bold 11pt/12pt Arial, Helvetica, Geneva, sans-serif; }
+.issue{ color : #000000; font : 10px Arial, Helvetica, Geneva, sans-serif; }
+.leadin{ color : #000000; font : normal 11px/11pt Verdana, Arial, Geneva, Helvetica, sans-serif; }
+.leadin1{ color : #666666; font : 10px/11pt Verdana, Arial, Geneva, Helvetica, sans-serif; }
+.leftnavOr{ color : #000000; font : normal 8pt/11pt Arial, Helvetica, Geneva, sans-serif; }
+.leftnavhead{ background : #000066 repeat; color : #ffffff; font : bold 12px Arial, Helvetica, Geneva, sans-serif; }
+.leftnav{ color : #000000; font : 11px/11pt Arial, Helvetica, Geneva, sans-serif; }
+.link { color : #003399; font : normal bold 11px Arial; }
+.links { color : #003399; font : normal 11px/10pt Verdana, Helvetica, Arial; }
+.login{ color : #000000; font : bold 8pt/14pt Arial, Helvetica, Geneva, sans-serif; }
+.market{ color : #000066; font : bold 9pt Arial, Helvetica, Geneva, sans-serif; }
+.monospace{ font : monospace; }
+.nielsen{ color : #000000; font : bold 9pt/12pt Arial, Helvetica, Geneva, sans-serif; }
+.nielsentopten{ color : #000000; font : normal 10px/12pt Arial, Helvetica, Geneva, sans-serif; }
+.opinionpoll{ color : #000000; font : bold 8pt/12pt Arial, Helvetica, Geneva, sans-serif; }
+.options{ color : #000000; font : normal 8pt/9pt Arial, Helvetica, Geneva, sans-serif; }
+.pollanswer{ color : #000000; font : bold 9pt Arial, Geneva, Helvetica, sans-serif; }
+.pollratio{ color : #CC3300; font : bold 9pt Arial, Geneva, Helvetica, sans-serif; }
+.pollprevious{ color : #CC3300; font : 10px Arial, Geneva, Helvetica, sans-serif; }
+.publinks{ color : #000000; font : 11px/15pt Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
+.reghead{ color : #000000; font : bold 11px/11pt Verdana, Arial, Geneva, Helvetica, sans-serif; }
+.regleadin{ color : #000000; font : normal 11px/11pt Verdana, Arial, Geneva, Helvetica, sans-serif; }
+.regleadinstrong{ color : #000000; font : bold 12px/12pt Verdana, Arial, Geneva, Helvetica, sans-serif; }
+.related{ color : #0000FF; font : bold 8pt/14pt Arial, Helvetica, Geneva, sans-serif; }
+.rightnavhead{ background : #cccccc repeat; color : #333333; font : bold 12px Arial, Helvetica, Geneva, sans-serif; }
+.search{ color : #ffffff; font : bold 10pt Arial, Helvetica, Geneva, sans-serif; }
+.smallgray{color : #666666; font : 12px Arial, Helvetica, Geneva, sans-serif; }
+.stock{ color : #000066; font : bold 8pt Arial, Helvetica, Geneva, sans-serif; }
+.stockcopy{ color : #000000; font : normal 10px Arial, Helvetica, Geneva, sans-serif; }
+.sponsorline{ color : #000000; font : 14px/15pt Arial, Geneva, Helvetica, sans-serif; }
+.source{ color : #666666; font : bold 9.5px Verdana, Helvetica, Arial; }
+.specialreg{ color : #336699; font : bold 10pt Arial, Helvetica, Geneva, sans-serif; }
+.stockchart{ color : #000000; font : bold 12px Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
+.subpub{ color : #000000; font : bold 11px/15pt Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
+.subpubWebzine{ color : #000000; font : bold 11px/15pt Arial, Helvetica, Geneva, sans-serif; }
+.subscribe{ color : #ffffff; font : bold 7pt Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
+.thisweeks{ color : #000000; font : normal 8pt/12pt Arial, Helvetica, Geneva, sans-serif; }
+.title{ color : #000066; font : bold 11pt/12pt Arial, Helvetica, Geneva, sans-serif; }
+.timedate{ color : #000000; font : normal 10px/10pt Arial, Helvetica, Geneva, sans-serif; word-spacing : 8pt; }
+.topnav{ color : #000000; font : bold 8pt/10pt Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
+.topnavside{ color : #FFFFFF; font : bold 8pt Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
+.webzine{ color : #000000; font : bold 9pt/15pt Arial, Helvetica, Geneva, sans-serif; text-decoration : none; }
+.whitesearch { color : #ffffff; font : 11px Arial, Geneva, Helvetica, sans-serif; background-color: #336699; }
+.sidebarheader {  font-family: Arial, Helvetica, sans-serif; font-size:10pt; font-weight: bold; color: #FFFFFF; background-color: #000066; background-repeat: repeat }
+.sidebarodd {  background-color: #CCCCCC; background-repeat: repeat }
+.sidebareven {  background-color: #FFFFFF; background-repeat: repeat }
+.reglabel{ color : #666666; text-transform : uppercase; font : bold 9.5px Verdana, Helvetica, Arial, Geneva, sans-serif; }
+.normalred {color : #ff0000; font : 10pt Arial, Helvetica, Geneva, sans-serif; }
+.newsletterdesc{ color: #000000; font: 11px/11pt Verdana, Arial, Geneva, Helvetica, sans-serif; }
+.sidebarheadline{ color : #000000; font : bold 14px/15pt Arial, Geneva, Helvetica, sans-serif; }
+.nib{ color : #666666; font : italic bold 11px Verdana, Arial, Helvetica, Geneva, sans-serif; }
+.headlarger { color : #990000; font : bold 14px Arial, Helvetica, Serif; }
+.table { color : #000000; font : 11px Arial, Helvetica, Geneva, sans-serif; }
+.tfoot { color: #000000; font: 10px Arial, Helvetica, Geneva, sans-serif; }
+</style><a href="/esec/" style="font-size:1px;color:#fefefe;cursor:default;text-decoration:none;">Archive Map</a>
+<table border="0" cellpadding="0" cellspacing="0">	
+<tbody><tr><td><img src="contents/images/transPixel.gif" width="15" height="1"></td><td><img src="contents/images/transPixel.gif" width="16" height="1"></td><td><img src="contents/images/transPixel.gif" width="37" height="1"></td><td><img src="contents/images/transPixel.gif" width="19" height="1"></td><td><img src="contents/images/transPixel.gif" width="165" height="1"></td><td><img src="contents/images/transPixel.gif" width="61" height="1"></td><td><img src="contents/images/transPixel.gif" width="71" height="1"></td><td><img src="contents/images/transPixel.gif" width="98" height="1"></td><td><img src="contents/images/transPixel.gif" width="86" height="1"></td><td><img src="contents/images/transPixel.gif" width="8" height="1"></td><td><img src="contents/images/transPixel.gif" width="25" height="1"></td><td><img src="contents/images/transPixel.gif" width="63" height="1"></td><td><img src="contents/images/transPixel.gif" width="25" height="1"></td><td>
+<img src="contents/images/transPixel.gif" width="71" height="1"></td><td>
+</td></tr><tr>
+<td colspan="14" bgcolor="#FFFFFF" align="right">
+<span class="timedate">
+<font class="timedate">
+<script language="JavaScript">
+
+var now = new Date();
+var dayNames = new Array("Sunday,","Monday,","Tuesday,","Wednesday,","Thursday,","Friday,","Saturday,");
+
+var monNames = new Array("January","February","March","April","May","June","July","August","September","October","November","December");
+
+document.write("" + dayNames[now.getDay()] + " " + monNames[now.getMonth()] + " " + now.getDate() + ", " + now.getFullYear());
+
+</script>Monday, February 24, 2020
+</font>
+</span>
+</td><td><img src="contents/images/transPixel.gif" width="1" height="17"></td></tr><tr><td rowspan="5" valign="top"><img src="contents/images/LeftBarEndMulti.gif" width="15" height="119"></td><td colspan="3"><img src="contents/images/transPixel.gif" width="72" height="18" border="0"></td><td><img src="contents/images/transPixel.gif" width="165" height="18"></td><td rowspan="4"><img src="contents/images/BlockBetweenTVandSearch_mn.gif" width="61" height="106"></td><td colspan="5" rowspan="2" background="contents/images/SearchBackground.gif" align="right">
+<form name="pubsearch" action="index.asp?layout=search_results" method="get"><input type="hidden" name="layout" value="search_results">
+<input type="hidden" name="publication" value="Multichannel News">
+<input type="hidden" name="webzine" value="Multichannel News">
+<input type="hidden" name="pub_id" value="MCN">
+<input name="text" size="16">&nbsp; <input type="image" name="submit" src="contents/images/Go-Btn.gif" align="absmiddle" border="0">&nbsp;&nbsp;&nbsp;</form></td>
+<td colspan="2" rowspan="2" background="contents/images/SponsorBackground.gif" align="center"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffcc" background="contents/images/bg_pale.gif">
+<tbody><tr><td width="100%" valign="top" align="center"><iframe src="http://ad.doubleclick.net/adi/mcn.rbi/;type=tvsponsor;pos=1;desc=search;sz=88x31;ord=37607271851638528?" name="searchsponsor" width="88" height="31" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/mcn.rbi/;abr=!ie;type=tvsponsor;pos=1;desc=search;sz=88x31;ord=37607271851638528?">
+</script><noscript><a href="http://ad.doubleclick.net/jump/mcn.rbi/;abr=!ie;type=tvsponsor;pos=1;desc=search;sz=88x31;ord=37607271851638528?">
+<img src="http://ad.doubleclick.net/ad/mcn.rbi/;abr=!ie;type=tvsponsor;pos=1;desc=search;sz=88x31;ord=37607271851638528?" border=0 width="88" height="31"></A></noscript></iframe></td></tr></tbody></table>
+</td><td rowspan="2" background="contents/images/AdvSrchBackground.gif" align="center">&nbsp;</td><td><img src="contents/images/transPixel.gif" width="1" height="18"></td></tr><tr>
+<td rowspan="4" valign="top"><img src="contents/images/lowerMulti2.gif" width="16" height="101"></td><td colspan="3" rowspan="2"><img src="contents/images/logo_4_mn.gif" width="221" height="68" alt="Multichannel News" border="0" usemap="#logomap"></td><td>
+<img src="contents/images/transPixel.gif" width="1" height="29"></td></tr><tr>
+<td colspan="5" rowspan="2" background="contents/images/SrchRadiosBack.gif" valign="middle" align="left" bgcolor="#336699" class="whitesearch"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+<script language="javascript">
+// Get URL values
+var loc = window.location.search;
+
+// Break URL into array of name/value pairs.
+var a = loc.split('&'); 
+
+// Find value of page in URL
+
+var page_value = "empty";
+
+for(var i=0; i < a.length; i++) {
+ if (a[i].substring(0,4) == "page"){
+   page_value = a[i].substring(5,a[i].length);
+   }
+}
+
+document.write ("<input type='hidden' name='page' value='webzine_search'>");
+
+/* all radio buttons removed 8/20/2002 and replaced by above line
+
+if (page_value != "portal_search" && page_value != "archives_search_more" && page_value != "articles_search_more" && page_value != "events_search_more" && page_value != "ggSearchWebIndustry" && page_value != "ggSearchWeb") {
+document.write ("<input type='Radio' name='page' value='webzine_search' CLASS='whitesearch' CHECKED>Multichannel News&nbsp;");
+}
+else {
+document.write ("<input type='Radio' name='page' value='webzine_search' CLASS='whitesearch'>Multichannel News&nbsp;");
+}
+
+if (page_value == "portal_search" || page_value == "archives_search_more" || page_value == "articles_search_more" || page_value == "events_search_more" ){
+document.write ("<input type='Radio' name='page' value='portal_search' CLASS='whitesearch' CHECKED>All of TVinsite<br clear='all'>");
+}
+else{
+document.write ("<input type='Radio' name='page' value='portal_search' CLASS='whitesearch'>All of TVinsite<br clear='all'>");
+}
+*/
+</script><input type="hidden" name="page" value="webzine_search">
+
+<noscript>
+<input type='hidden' name='page' value='webzine_search'>
+</noscript>
+
+
+</td><td colspan="3" rowspan="2" background="contents/images/SignUpLoginBack.gif" valign="center"><div align="center"><!--<a href="#"><IMG SRC="contents/images/SignUp-Btn.gif" width=64 height=19 hspace=0 vspace=0 border=0 align="top" alt="Sign Up"></a>&nbsp;<a href="#"><IMG SRC="contents/images/Login-Btn.gif" width=63 height=19 hspace=0 vspace=0 border=0 align="top" alt="Login"></a><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="#" CLASS="byline">Why 
+Register?</a>-->
+<span class="byline">	
+Welcome, Guest.<br>
+<a class="discussions" href="subscribe.asp?s=y&amp;regopt=logout">Subscribe</a>/<a class="discussions" href="login.asp?regopt=logout">Log in</a> now <br>for complete access.
+
+</span>
+</div></td><td>	
+<img src="contents/images/transPixel.gif" width="1" height="39"></td></tr>	
+<tr><td colspan="3"><img src="contents/images/BlueBarUnderTVlogo_mn.gif" width="221" height="20"></td>		
+<td><img src="contents/images/transPixel.gif" width="1" height="20"></td></tr>
+<tr valign="top" height="13"><td valign="top" bgcolor="#000063" height="13"><a href="index.asp?layout=webzine" class="home"><img src="contents/images/mcnHome.gif" width="37" height="13" alt="home" border="0"></a></td>
+<td colspan="2" valign="top" height="13">		
+<img src="contents/images/MultiInbetween.gif" width="184" height="13"></td>
+<td colspan="9" valign="top" height="13"><img src="contents/images/transPixel.gif" border="0" height="1" width="40"><a href="index.asp?layout=archive&amp;year=2000"><img src="contents/images/Archives.gif" height="13" border="0" alt="Archives"></a><img src="contents/images/transPixel.gif" border="0" width="40" height="1"><img src="contents/images/Slash.gif" border="0" width="13" height="13"><img src="contents/images/transPixel.gif" border="0" width="40" height="1"><a href="index.asp?layout=events"><img src="contents/images/Events1.gif" border="0" height="13" alt="Events"></a><img src="contents/images/transPixel.gif" border="0" width="40" height="1"><img src="contents/images/Slash.gif" border="0" width="13" height="13"><img src="contents/images/transPixel.gif" border="0" width="40" height="1"><a href="index.asp?layout=classifieds_cat&amp;publication=Multichannel+News&amp;pub_id=MCN"><img src="contents/images/Classifieds1.gif" border="0" height="13" alt="Classifieds"></a></td>
+<td valign="top" height="1" width="1"><img src="contents/images/transPixel.gif" width="1" height="1" border="0"></td>
+</tr>
+<tr><td colspan="14" valign="top"><img src="contents/images/MultiBottom.gif" width="760" height="8"></td><td valign="top"><img src="contents/images/transPixel.gif" width="1" height="8"></td></tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0">	
+<tbody><tr><td valign="top" width="100% height=12 bgcolor=" #ffffff"=""><img src="contents/images/transPixel.gif" height="12" width="#ffffff"></td></tr></tbody></table>
+<map name="logomap">
+<area shape="rect" coords="0,0,100,6" href="/" target="_self">
+<area shape="rect" coords="0,11,220,67" href="/" target="_self">
+</map>
+<table width="760" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr valign="top"> 
+    <td width="132">
+<table width="126" cellpadding="0" cellspacing="0" border="0" align="center">
+
+<tbody><tr>
+    <td width="126" height="17" bgcolor="#ffffff" valign="top" class="leftnavhead"> &nbsp; 
+      Sections</td>
+</tr><tr><td class="publinks" colspan="2"><a href="index.asp?layout=static&amp;page=sections_toc&amp;verticalid=316&amp;industry=Top+Stories&amp;industryId=1069" class="publinks"> &gt; Top Stories</a></td></tr>
+
+
+<tr><td class="publinks" colspan="2"><a href="index.asp?layout=static&amp;page=sections_toc&amp;verticalid=316&amp;industry=Broadband+Week&amp;industryId=1071" class="publinks"> &gt; Broadband Week</a></td></tr>
+
+
+<tr><td class="publinks" colspan="2"><a href="index.asp?layout=static&amp;page=sections_toc&amp;verticalid=316&amp;industry=Through+the+Wire&amp;industryId=1072" class="publinks"> &gt; Through the Wire</a></td></tr>
+
+
+<tr><td class="publinks" colspan="2"><a href="index.asp?layout=static&amp;page=sections_toc&amp;verticalid=316&amp;industry=Programming&amp;industryId=1073" class="publinks"> &gt; Programming</a></td></tr>
+
+
+<tr><td class="publinks" colspan="2"><a href="index.asp?layout=static&amp;page=sections_toc&amp;verticalid=316&amp;industry=Pay+Per+View&amp;industryId=1074" class="publinks"> &gt; Pay Per View</a></td></tr>
+
+
+<tr><td class="publinks" colspan="2"><a href="index.asp?layout=static&amp;page=sections_toc&amp;verticalid=316&amp;industry=People&amp;industryId=1075" class="publinks"> &gt; People</a></td></tr>
+
+
+<tr><td class="publinks" colspan="2"><a href="index.asp?layout=static&amp;page=sections_toc&amp;verticalid=316&amp;industry=Marketing%2FAdvertising&amp;industryId=1076" class="publinks"> &gt; Marketing/Advertising</a></td></tr>
+
+
+<tr><td class="publinks" colspan="2"><a href="index.asp?layout=static&amp;page=sections_toc&amp;verticalid=316&amp;industry=Policy&amp;industryId=1078" class="publinks"> &gt; Policy</a></td></tr>
+
+
+<tr><td class="publinks" colspan="2"><a href="index.asp?layout=static&amp;page=sections_toc&amp;verticalid=316&amp;industry=Finance&amp;industryId=1079" class="publinks"> &gt; Finance</a></td></tr>
+
+
+<tr><td class="publinks" colspan="2"><a href="index.asp?layout=static&amp;page=sections_toc&amp;verticalid=316&amp;industry=Op%2DEd&amp;industryId=1080" class="publinks"> &gt; Op-Ed</a></td></tr>
+
+
+<tr><td class="publinks" colspan="2"><a href="index.asp?layout=static&amp;page=sections_toc&amp;verticalid=316&amp;industry=Supplement&amp;industryId=19224" class="publinks"> &gt; Supplement</a></td></tr>
+
+
+<tr>
+<td class="leftnav">
+<img src="contents/images/transPixel.gif" height="2" width="1" border="0"></td></tr>
+<tr><td><img src"contents="" images="" transpixel.gif"="" width="1" height="5" border="0"></td></tr>
+
+<tr><td class="leftnav" colspan="2" align="left"><a href="http://www.cahners.com"><img src="contents/images/rbi_stacked_smaller.gif" alt="Reed Business Information" border="0"></a><br><br></td></tr>
+
+</tbody></table>
+
+<table width="126" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr><td valign="top" width="100%" bgcolor="#003366"><img src="contents/images/leftnav_regnews4.gif" border="0" height="125" width="126"></td></tr>
+</tbody></table>
+<table width="126" border="0" cellspacing="0" cellpadding="0" bgcolor="#003366">
+			<tbody><tr> 
+				<td colspan="5" align="center"><a href="/subscribe.asp?s=y"><img src="contents/images/leftnav_registerNew.gif" border="0"><br><img src="contents/images/pixel.gif" width="126" height="5" alt="" border="0"></a></td>
+			</tr>
+</tbody></table>
+
+
+<!--<tr bgcolor="#000000" align="center"> 
+    <td><span class="topnavside">Sign Up Now!</span></td>
+  </tr>
+  <tr bgcolor="#FF9900" align="center"> 
+    <td><img src="contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+  <tr bgcolor="#003366" align="center"> 
+    <td><span class="topnavside">Get FREE Daily<br>
+      Newsletters and More</span></td>
+  </tr>-->
+
+
+<table width="126" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr align="center"> 
+    <td bgcolor="#FFFFFF" height="1"><img src="contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+  <tr align="center"> 
+    <td bgcolor="#336699" height="14"><!--<img src="contents/images/topnav_side_tl.gif" width="7" height="14" align="left" border="0" vspace="0" hspace="0">--><a class="topnavside" href="index.asp?layout=info_page&amp;page=new_about_us"><img src="contents/images/leftnav_about.gif" width="126" height="14" border="0"></a></td>
+  </tr>
+  <tr align="center"> 
+    <td bgcolor="#FFFFFF" height="1"><img src="contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+  <tr align="center" bgcolor="#336699"> 
+    <td height="14"><a href="index.asp?layout=info_page&amp;page=new_contact_us" class="topnavside"><img src="contents/images/leftnav_contact.gif" width="126" height="14" border="0"></a></td>
+  </tr>
+  <tr align="center"> 
+    <td bgcolor="#FFFFFF" height="1"><img src="contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+  <tr align="center" bgcolor="#336699" height="14">    
+      <td height="14"> 
+<a href="index.asp?layout=info_page&amp;page=general_advertising" class="topnavside"><img src="contents/images/leftnav_advertise.gif" width="126" height="14" border="0"></a></td>
+</tr><tr><td width="0" height="15" bgcolor="#ffffff"></td></tr>
+
+</tbody></table>
+
+
+<!--
+<tr><td width="0" height="15" valign="top" bgcolor="#ffffff"><img src"contents/images/transPixel.gif" width="1" height="15" border="0"></td></tr>
+</tr>
+-->
+
+<!-- Module: domesticPubs -->
+<!-- Module: intlPubs -->
+
+
+
+<table width="126" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td height="17" class="leftnavhead">&nbsp; Toolbox </td>
+  </tr>
+  <tr> 
+    <td>
+<a class="leftnav" href="index.asp?layout=archive&amp;year=2002">Archives</a><br>
+
+
+<a class="leftnav" href="index.asp?layout=events">Events</a><br><a class="leftnav" href="http://www.instat.com/rh/mcn/index.htm?SourceID=00000396000000000000">In-Stat Research</a><br>
+<a class="leftnav" href="index.asp?layout=info_page&amp;page=subscription">Print Subscriptions</a><br>
+<a class="leftnav" href="index.asp?layout=directory">Industry Links</a><br>
+<a class="leftnav" href="index.asp?layout=info_page&amp;page=industry_links_rest&amp;group=1341&amp;graphic=header_assoc.gif">Associations</a></td></tr>
+<tr>
+    <td width="0" height="15" bgcolor="#ffffff"></td>
+  </tr>
+  <tr> 
+    <td height="17" class="leftnavhead">&nbsp; Classifieds </td>
+  </tr>
+  <tr> 
+    <td> <a class="leftnav" href="index.asp?layout=classifieds_cat">All 
+      Classifieds</a><br>
+      <a class="leftnav" href="index.asp?layout=static&amp;page=careers_cat">Jobs</a><br>
+      <a class="leftnav" href="index.asp?layout=static&amp;page=stations_cat">Stations</a><br>
+      <a class="leftnav" href="index.asp?layout=static&amp;page=services_cat">Services</a><br>
+      </td>
+  </tr>
+</tbody></table>
+
+<table cellpadding="0" cellspacing="0" border="0" width="100%"><tbody><tr><td>&nbsp;</td></tr>
+<tr><td valign="top" width="100%" class="copy">powered by:<br>
+<a href="http://www.elogic.com" border="0" target="_blank"><img src="contents/images/poweredby_elogic.gif" border="0" alt="eLogic"></a>
+</td></tr>
+</tbody></table></td>
+    <td width="472"> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+<tbody><tr><td width="100%" valign="top" align="center"><iframe src="http://ad.doubleclick.net/adi/mcn.rbi/;type=tvbanner;pos=1;lay=info_page;page=privacy;sz=468x60;ord=37607273101653504?" name="banner1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/mcn.rbi/;abr=!ie;type=tvbanner;pos=1;lay=info_page;page=privacy;sz=468x60;ord=37607273101653504?"></script><noscript><a href="http://ad.doubleclick.net/jump/mcn.rbi/;abr=!ie;type=tvbanner;pos=1;lay=info_page;page=privacy;sz=468x60;ord=37607273101653504?"><img src="http://ad.doubleclick.net/ad/mcn.rbi/;abr=!ie;type=tvbanner;pos=1;lay=info_page;page=privacy;sz=468x60;ord=37607273101653504?" border=0 width="468" height="60"></A></noscript></iframe><br></td></tr></tbody></table></td>
+        </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tbody><tr>
+          <td>
+
+
+
+<table width="468" cellspacing="0" cellpadding="0" border="0" height="18">
+    <tbody><tr>
+        <td align="left" height="14" width="440">
+<span class="breadcrumb">
+You&nbsp;are&nbsp;here</span>
+
+<script>  
+var pub_valueONLYforBC;
+var layout_value;
+var page_value;
+var group_value;
+pub_valueONLYforBC="Broadcasting & Cable";
+layout_value = "info_page";
+page_value = "privacy";
+group_value = "%group%"
+industry_value = "%industry%";
+pub_value = "Multichannel News";
+display_value = "%display%";
+category_value = "%category%"
+
+if (pub_value == "Multichannel News" || pub_value == "Cablevision" || pub_value == "Multichannel News International" || pub_value == "Television Europe" || pub_value == "Television Latin America"){
+
+// replace space with non-breaking space
+pub_value = pub_value.replace(/ /g, "&nbsp;");
+
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=webzine' class='breadcrumb'>" + pub_value + "</a>&nbsp;</span>");
+}
+
+if (pub_value == "TWICE"){
+pub_value = pub_value.replace(/ /g, "&nbsp;");
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=twice' class='breadcrumb'>" + pub_value + "</a>&nbsp;</span>");
+}
+
+if (pub_value == "Broadcasting & Cable"){
+pub_value = pub_value.replace(/ /g, "&nbsp;");
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=webzine' class='breadcrumb'>" + pub_valueONLYforBC + "</a>&nbsp;</span>");
+}
+
+if (layout_value == "WebGuide"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=" + layout_value + "&doc_id=24895' class='breadcrumb'>WEB Guide 2002</a></span>");
+}
+
+if (layout_value == "multi_inter_archive"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=" + layout_value + "&year=2000' class='breadcrumb'>Archives</a></span>");
+}
+
+if (layout_value == "archive" && (pub_value == "Broadcasting&nbsp;and&nbsp;Cable" || pub_value == "Multichannel&nbsp;News" || pub_value == "Cablevision")){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=" + layout_value + "&year=2001' class='breadcrumb'>Archives</a></span>");
+}
+
+if (layout_value == "archive" && (pub_value == "Multichannel&nbsp;News&nbsp;International" || pub_value == "TWICE" || pub_value == "Television&nbsp;Europe" || pub_value == "Television&nbsp;Latin&nbsp;America")){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=" + layout_value + "&year=2000' class='breadcrumb'>Archives</a></span>");
+}
+
+if (layout_value == "archive_toc"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=" + layout_value + "' class='breadcrumb'>Archives</a></span>");
+}
+
+if (layout_value == "static_webzine" && pub_value != "Multichannel&nbsp;News&nbsp;International" && (page_value == "archive_results_tv" || page_value == "archive_results_tv_arc" || page_value == "archive_results_tv_art")){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=archive&year=2000' class='breadcrumb'>Archives</a></span>");
+}
+
+if (layout_value == "static_webzine" && pub_value == "Multichannel&nbsp;News&nbsp;International" && (page_value == "archive_results_tv" || page_value == "archive_results_tv_arc" || page_value == "archive_results_tv_art")){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=multi_inter_archive&year=2000' class='breadcrumb'>Archives</a></span>");
+}
+
+if (layout_value == "events" || layout_value == "eventDetail"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=events' class='breadcrumb'>Events</a></span>");
+}
+
+if (layout_value == "classifieds_cat"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=classifieds_cat' class='breadcrumb'>Classifieds</a></span>");
+}
+
+if (layout_value == "story" && display_value == "breakingNews" && pub_value == "tv"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=bin_more&page=bin_home_more&starting=1' class='breadcrumb'>Breaking&nbsp;News</a></span>");
+
+
+}
+
+if (layout_value == "story" && display_value == "breakingNews" && pub_value != "tv"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=bin_more&page=bin_webzine_more&starting=1' class='breadcrumb'>Breaking&nbsp;News</a></span>");
+
+
+}
+
+
+if (layout_value == "story" && display_value == "natpe"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=natpe&display=natpe' class='breadcrumb'>NATPE 2001</a></span>");
+}
+
+if (layout_value == "story" && display_value == "features"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=story&articleid=%original_doc_id%&doc_id=%doc_id%' class='breadcrumb'>Features</a></span>");
+}
+
+if (layout_value == "story_stocks" && display_value == "natpe"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=natpe&display=natpe' class='breadcrumb'>NATPE 2001</a></span>");
+}
+
+if (layout_value == "story_stocks" && display_value == "features"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=story_stocks&articleid=%original_doc_id%&doc_id=%doc_id%&display=%display%' class='breadcrumb'>Features</a></span>");
+}
+
+
+if ((layout_value == "stock") || (layout_value == "story" && display_value == "stockStory") || (layout_value == "stock_profile") || (layout_value == "static" && page_value == "stock_chart")){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=stock&ticker=%ticker%' class='breadcrumb'>Stock&nbsp;Watch</a></span>");
+}
+
+
+if (layout_value == "stock_look_up"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=stock_look_up&ticker=%ticker%' class='breadcrumb'>Stock&nbsp;Watch</a></span>");
+}
+
+if (layout_value == "search_results" && page_value != "bizcom_search_node"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=search_results&text=%text%&page=privacy' class='breadcrumb'>Search&nbsp;Results</a></span>");
+}
+
+if (layout_value == "info_page" && page_value == "industry_links_rest"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=info_page&page=industry_links_first' class='breadcrumb'>Industry&nbsp;Web&nbsp;Links</a></span>");
+}
+
+if (layout_value == "info_page" && page_value == "rulesRegulations"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=info_page&page=rulesRegulations' class='breadcrumb'>Rules&nbsp;and&nbsp;Regulations</a></span>");
+}
+
+if (layout_value == "static" && page_value == "stocks_story_extended_more"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=stock&ticker=%ticker%' class='breadcrumb'>Stock Watch</a></span>");
+}
+
+if (layout_value == "static" && page_value == "poll_history"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=static&page=poll_history' class='breadcrumb'>Poll History</a></span>");
+}
+
+if (layout_value == "static" && page_value == "poll_results"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=static&page=poll_results' class='breadcrumb'>Poll Results</a></span>");
+}
+
+if (layout_value == "static" && (page_value == "archive_portal_results" || page_value == "archive_portal_results_arc" || page_value == "archive_portal_results_art")){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=archive_toc&year=2000' class='breadcrumb'>Archives</a></span>");
+}
+
+if (layout_value == "info_page" && page_value == "industry_links_first"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a href='index.asp?layout=info_page&page=industry_links_first' class='breadcrumb'>Industry&nbsp;Web&nbsp;Links</a></span>");
+}
+
+if (layout_value == "info_page" && page_value == "new_about_us"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=info_page&page=new_about_us'>About&nbsp;Us</a></span>");
+}
+
+if (layout_value == "info_page" && page_value == "general_advertising"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=info_page&page=general_advertising'>Advertise</a></span>");
+}
+
+if (layout_value == "info_page" && page_value == "new_contact_us"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=info_page&page=new_contact_us'>Contact&nbsp;Us</a></span>");
+}
+
+// Associations
+
+if (layout_value == "info_page" && group_value == "1341"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=info_page&page=associations'>Associations</a></span>");
+}
+
+// Networks
+
+if (layout_value == "info_page" && group_value == "1339"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=info_page&page=associations'>Networks</a></span>");
+}
+
+// Operators
+
+if (layout_value == "info_page" && group_value == "1340"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=info_page&page=associations'>Operators</a></span>");
+}
+
+// Vendors
+
+if (layout_value == "info_page" && group_value == "1338"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=info_page&page=associations'>Vendors</a></span>");
+}
+
+if (layout_value == "info_page" && page_value == "subscription"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=info_page&page=subscription'>Subscriptions</a></span>");
+}
+
+if (layout_value == "static" && page_value == "careers_cat"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=classifieds_cat'>Classifieds</a>&nbsp;&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static&page=careers_cat'>Jobs</a></span>");
+}
+
+if (layout_value == "static" && page_value == "stations_cat")
+{
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=classifieds_cat'>Classifieds</a>&nbsp;&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static&page=stations_cat'>Stations</a></span>");
+}
+
+if (layout_value == "static" && page_value == "services_cat")
+{
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=classifieds_cat'>Classifieds</a>&nbsp;&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static&page=services_cat'>Services</a></span>");
+}
+
+if (layout_value == "static" && page_value == "discussion"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static&page=discussion'>Discussions</a></span>");
+}
+
+// replace space with non-breaking space
+if ((layout_value == "static" && page_value == "sections_toc") || (layout_value == "section_story")){
+industry_value = industry_value.replace(/ /g, "&nbsp;");
+}
+
+if (layout_value == "static" && page_value == "sections_toc"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static&page=sections_toc&verticalid=%verticalid%&industry=%industry.u%'>" + industry_value + "</a></span>");
+}
+
+if (layout_value == "story" && display_value == "sectionStory"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static&page=sections_toc&verticalid=%verticalid%&industry=%industry.u%'>" + industry_value + "</a></span>");
+}
+
+if (layout_value == "story_stocks" && display_value == "sectionStory"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static&page=sections_toc&verticalid=%verticalid%&industry=%industry.u%'>" + industry_value + "</a></span>");
+}
+
+if (layout_value == "natpe"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=natpe&display=natpe'>NATPE 2001</a></span>");
+}
+
+if (layout_value == "natpeStatic"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=natpe&display=natpe'>NATPE 2001</a></span>");
+}
+
+if (layout_value == "static_webzine" && page_value == "elsewhere_links_rest"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static_webzine&page=elsewhere_links_rest'>Elsewhere on the Web</a></span>");
+}
+
+if (layout_value == "static_webzine" && page_value == "careers_class"){
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=classifieds_cat'>Classifieds</a>&nbsp;&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static&page=careers_cat'>Jobs</a>&nbsp;&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static_webzine&category=%category%&page=privacy'>" + category_value + "</a></span>");
+}
+
+if (layout_value == "static_webzine" && page_value == "stations_class")
+{
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=classifieds_cat'>Classifieds</a>&nbsp;&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static&page=stations_cat'>Stations</a>&nbsp;&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static_webzine&category=%category%&page=privacy'>" + category_value + "</a></span>");
+}
+
+if (layout_value == "static_webzine" && page_value == "services_class")
+{
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=classifieds_cat'>Classifieds</a>&nbsp;&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static&page=services_cat'>Services</a>&nbsp;&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static_webzine&category=%category%&page=privacy'>" + category_value + "<a></span>");
+}
+
+if (layout_value == "static_webzine" && page_value == "classifieds_display")
+{
+sec = "%area%";
+
+if ("%area%" == "Careers"){
+sec_name = "Jobs";
+}
+else{
+sec_name = "%section%";
+}
+
+document.write ("<span class='breadcrumb'>&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=classifieds_cat'>Classifieds</a>&nbsp;&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static&page=" + sec.toLowerCase() + "_cat'>" + sec_name + "</a>&nbsp;&gt;&nbsp;<a class='breadcrumb' href='index.asp?layout=static_webzine&category=%category.u%&page=" + sec.toLowerCase() + "_class'>%category%</a></span>");
+}
+
+</script><span class="breadcrumb">&gt;&nbsp;<a href="index.asp?layout=webzine" class="breadcrumb">Multichannel&nbsp;News</a>&nbsp;</span>
+        </td>
+    </tr><tr><td><img src="contents/images/pixel.gif" border="0" width="200" height="9"></td></tr>
+</tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td width="100%" valign="top">
+<img src="contents/images/header_privacy.gif" border="0"></td></tr></tbody></table>
+
+
+<table>
+<tbody><tr><td class="leadin"><b>Privacy Policy </b><br>
+<br>V.1.2.3 January, 2000 <br>
+<br>Privacy Policy for Reed Business Information, a division of Reed Elsevier<br>Inc. publications.</td></tr>
+</tbody></table><br>
+  <table>
+    <tbody><tr> 
+      <td class="rightnavhead" width="468"><img src="contents/images/transPixel.gif" width="1" height="1" border="0"></td>
+    </tr>
+  </tbody></table>
+  <br>
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+  <tbody><tr>
+    <td class="leadin"><br>
+Multichannel News is a publication of Reed Business Information.<br>
+      <br>
+      This Privacy Policy will be continuously assessed against new technologies,<br>
+      business practices and our customers’ changing needs. We may change our<br>
+      privacy practices from time to time. If we make any changes, we’ll update 
+      this<br>
+      privacy statement accordingly (the date of the most recent change is displayed<br>
+      at the top of this statement). <br>
+      <br>
+      Many of our RBI publications are available free of charge or may be subscribed<br>
+      to at reduced rates because they are supported by advertisers. Qualification<br>
+      and registration questionnaires and other processes ensure that our<br>
+      advertisers reach the appropriate audiences. We may use the information 
+      we<br>
+      collect from you individually or aggregated with other user’s information 
+      to<br>
+      improve our publications, to customize these publications, and to notify 
+      you<br>
+      about updates or new features. In addition, we may use information we collect 
+      <br>
+      to notify you of third-party products and services in which you may be <br>
+      interested.<br>
+      <br>
+      In addition to the options made available to you, if any, when we collect 
+      <br>
+      information, you may elect to 'opt out' of having your individually identifiable<br>
+      information shared with third-parties that are not affiliated with Reed<br>
+      (except for uses specifically requested by you and legitimate business uses).<br>
+      Separate third-party opt out request for each medium (mail or telephone 
+      or<br>
+      e-mail) must be submitted in writing to our Privacy Manager in one of the 
+      <br>
+      following ways:<br>
+      <br>
+		Attention: Privacy Manager<br>
+		Reed Business Information<br>
+		2000 Clearwater Drive<br>
+		Oak Brook, IL 60523<br>
+		E-Mail: <a href="mailto:privacymanager@reedbusiness.com">privacymanager@reedbusiness.com</a> <br>
+		Phone: (877) 504-1273<br>
+		Fax: (630) 288-8394<br>
+<br>
+      We will update the specific records related to your request as promptly 
+      as <br>
+      practical. Note, however, that you may receive <br>
+      additional communications from third parties after you submit your request<br>
+      while we process the request. Additionally, your information may exist in<br>
+      multiple lists within the company and our technology limits the processing 
+      of<br>
+      opt out requests to the specific list source. We will continuously assess 
+      our<br>
+      responsiveness to opt out requests against new technologies, business <br>
+      practices and our customers’ needs.<br>
+      <br>
+      <b>This Site is operated by:</b><br>
+      Reed Business Information<br>
+		360 Park Ave. South<br>
+		New York, NY 10010<br>
+		<br>
+     
+      <a href="mailto:dlevin@reedbusiness.com">dlevin@reedbusiness.com</a> <br>
+	  </td></tr></tbody></table></td>
+        </tr>
+      </tbody></table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td></td>
+        </tr>
+      </tbody></table>
+     
+    </td>
+    <td width="156" bgcolor="#FFFFCC" background="contents/images/bg_pale.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC" background="contents/images/bg_pale.gif">
+<tbody><tr><td width="100%" valign="top" align="center"><iframe src="http://ad.doubleclick.net/adi/mcn.rbi/;type=tvside;pos=1;lay=info_page;page=privacy;sz=120x240;ord=37607271340101888?" name="side1" width="120" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/mcn.rbi/;abr=!ie;type=tvside;pos=1;lay=info_page;page=privacy;sz=120x240;ord=37607271340101888?">
+</script><noscript><a href="http://ad.doubleclick.net/jump/mcn.rbi/;abr=!ie;type=tvside;pos=1;lay=info_page;page=privacy;sz=120x240;ord=37607271340101888?">
+<img src="http://ad.doubleclick.net/ad/mcn.rbi/;abr=!ie;type=tvside;pos=1;lay=info_page;page=privacy;sz=120x240;ord=37607271340101888?" border=0 width="120" height="240"></A></noscript></iframe></td></tr></tbody></table><br>
+
+
+
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+  <tbody><tr class="rightnavhead"> 
+    <td width="66%" nowrap="" colspan="2">&nbsp;Stock Watch</td>
+    <td width="33%" align="right"><a href="index.asp?layout=stockCustomEdit" class="rightnavhead">edit</a>&nbsp;</td>
+  </tr>
+  <tr> 
+    <td align="left" width="33%"> <span class="headvideoclip">&nbsp;Ticker</span> 
+    </td>
+    <td align="center" width="33%"> <span class="headvideoclip">Last</span> </td>
+    <td align="right" width="33%"> <span class="headvideoclip">Change&nbsp;</span> </td>
+  </tr><tr>
+<td valign="bottom" width="33%"><a href="index.asp?layout=stock&amp;ticker=CMCSK" class="stockcopy">CMCSK</a></td>
+<td align="right" valign="bottom" width="33%">
+<span class="stockcopy">23.70&nbsp;</span></td>
+<td align="right" valign="bottom" width="33%" nowrap="">
+<span class="stockcopy"><font color="#008000">0.21</font></span>
+<img src="contents/images/arrow-up.gif" width="10" height="10" border="0"></td>
+</tr><tr>
+<td valign="bottom" width="33%"><a href="index.asp?layout=stock&amp;ticker=CHTR" class="stockcopy">CHTR</a></td>
+<td align="right" valign="bottom" width="33%">
+<span class="stockcopy">1.35&nbsp;</span></td>
+<td align="right" valign="bottom" width="33%" nowrap="">
+<span class="stockcopy"><font color="#008000">0.09</font></span>
+<img src="contents/images/arrow-up.gif" width="10" height="10" border="0"></td>
+</tr><tr>
+<td valign="bottom" width="33%"><a href="index.asp?layout=stock&amp;ticker=AOL" class="stockcopy">AOL</a></td>
+<td align="right" valign="bottom" width="33%">
+<span class="stockcopy">13.45&nbsp;</span></td>
+<td align="right" valign="bottom" width="33%" nowrap="">
+<span class="stockcopy"><font color="#008000">0.05</font></span>
+<img src="contents/images/arrow-up.gif" width="10" height="10" border="0"></td>
+</tr><tr>
+<td valign="bottom" width="33%"><a href="index.asp?layout=stock&amp;ticker=COX" class="stockcopy">COX</a></td>
+<td align="right" valign="bottom" width="33%">
+<span class="stockcopy">30.35&nbsp;</span></td>
+<td align="right" valign="bottom" width="33%" nowrap="">
+<span class="stockcopy"><font color="#008000">0.04</font></span>
+<img src="contents/images/arrow-up.gif" width="10" height="10" border="0"></td>
+</tr><tr>
+<td valign="bottom" width="33%"><a href="index.asp?layout=stock&amp;ticker=T" class="stockcopy">T</a></td>
+<td align="right" valign="bottom" width="33%">
+<span class="stockcopy">27.29&nbsp;</span></td>
+<td align="right" valign="bottom" width="33%" nowrap="">
+<span class="stockcopy"><font color="#ff0000">-0.10</font></span>
+<img src="contents/images/arrow-down.gif" width="10" height="10" border="0"></td>
+</tr><tr>
+<td valign="bottom" width="33%"><a href="index.asp?layout=stock&amp;ticker=CVC" class="stockcopy">CVC</a></td>
+<td align="right" valign="bottom" width="33%">
+<span class="stockcopy">15.91&nbsp;</span></td>
+<td align="right" valign="bottom" width="33%" nowrap="">
+<span class="stockcopy"><font color="#ff0000">-0.14</font></span>
+<img src="contents/images/arrow-down.gif" width="10" height="10" border="0"></td>
+</tr></tbody></table>
+<script language="JavaScript">
+function ConvertDow( strName ) {
+if (strName.substr(0,1) == "D") {
+document.write("DJIA");
+} else {
+document.write(strName);
+}
+}
+
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td class="stockhead" width="100%"><br>
+<table align="center" border="0" cellpadding="1" cellspacing="0" width="100%">
+<tbody><tr> 
+
+<td align="left" width="33%" nowrap=""><a class="stockcopy" href="index.asp?layout=stock&amp;ticker=COMPX"><script>ConvertDow('NASDAQ')</script>NASDAQ</a></td>
+
+<td width="33%" align="right" valign="bottom"><span class="stockcopy">1,397.92</span></td>
+
+<td align="right" width="33%" valign="bottom"><span class="stockcopy"><font color="#ff0000">-2.41</font></span><img src="contents/images/arrow-down.gif" height="10" width="10"></td>
+
+  </tr><tr> 
+
+<td align="left" width="33%" nowrap=""><a class="stockcopy" href="index.asp?layout=stock&amp;ticker=INDU"><script>ConvertDow('DOW JON')</script>DJIA</a></td>
+
+<td width="33%" align="right" valign="bottom"><span class="stockcopy">8,563.70</span></td>
+
+<td align="right" width="33%" valign="bottom"><span class="stockcopy"><font color="#ff0000">-63.70</font></span><img src="contents/images/arrow-down.gif" height="10" width="10"></td>
+
+  </tr><tr> 
+
+<td align="left" width="33%" nowrap=""><a class="stockcopy" href="index.asp?layout=stock&amp;ticker=INX"><script>ConvertDow('S&P 500')</script>S&amp;P 500</a></td>
+
+<td width="33%" align="right" valign="bottom"><span class="stockcopy">904.79</span></td>
+
+<td align="right" width="33%" valign="bottom"><span class="stockcopy"><font color="#ff0000">-5.61</font></span><img src="contents/images/arrow-down.gif" height="10" width="10"></td>
+
+  </tr></tbody></table><br></td></tr></tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td class="rightnavhilite" height="1"><img src="contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="rightnavhead"> 
+    <td>&nbsp;Get Quote</td>
+  </tr>
+  <tr> 
+    <td class="rightnavhilite" height="1"><img src="contents/images/pixel.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<script language="JavaScript">
+function stripChars(str,expr) {
+	var outStr = (str.replace(expr,''));
+	return outStr;
+}
+function ParseStockSymbol(strSymbols, boolWhatChecked) {
+var leadingSpaces = /^\s+/;
+var trailingSpaces = /\s+$/;
+
+strSymbols = stripChars(stripChars(strSymbols,leadingSpaces),trailingSpaces);
+
+strSymbols = strSymbols.replace(/\,/gi, ' ')
+if (boolWhatChecked) {
+var arraySymbols;
+
+arraySymbols = strSymbols.split(' ');
+var PageToGo;		
+var ManySymbols;
+
+ManySymbols = '';
+
+if (arraySymbols.length == 1) {
+     PageToGo = 'index.asp?layout=stock&ticker=' + arraySymbols[0];
+     location = PageToGo;
+} else {
+     var x;
+     for (x = 0; x < arraySymbols.length; x++) {
+          arraySymbols[x] = arraySymbols[x].replace(/\s/gi, '')
+          ManySymbols = ManySymbols + '&v' + x + '=' + arraySymbols[x]    
+     }
+
+     PageToGo = 'index.asp?layout=stock_compare' + ManySymbols;
+     location = PageToGo;
+}
+} else {
+  PageToGo = 'index.asp?layout=stock_look_up&ticker=' + strSymbols;
+  location = PageToGo;
+}
+}
+
+function DoNothing() {
+   //Do Nothing
+}
+</script>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr> 
+<td class="stockhead" width="100%">
+<table align="center" border="0" cellpadding="1" cellspacing="0" width="95%">
+<form action="JavaScript:DoNothing()"></form>
+<tbody><tr class="stockcopy">
+<td valign="top" class="stockcopy">
+<input type="TEXT" size="15" name="ticker" value="" maxlength="40">&nbsp;<input class="stockcopy" type="button" name="submit" value="Go" onclick="ParseStockSymbol(form.ticker.value,form.layout[0].checked)">
+</td></tr>
+<tr><td align="left" valign="top" class="stockcopy">
+<input type="radio" name="layout" value="stocks" checked="">Ticker&nbsp;<input type="radio" name="layout" value="LookUpCompany">Find symbol</td>
+</tr>
+<tr>
+<td class="stockcopy">Data delayed at least 20 min.</td>
+</tr>
+
+</tbody></table><br></td></tr></tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+    <td colspan="2" height="2" width="100%"><img src="contents/images/transPixel.gif" border="0" height="2"></td>
+</tr>
+<tr>
+    <td colspan="2" height="8" width="100%"><hr size="2" width="100%" noshade=""><img src="contents/images/transPixel.gif" border="0" height="8">
+</td>
+</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFFFCC" background="contents/images/bg_pale.gif">
+<tbody><tr><td width="100%" valign="top" align="center"><iframe src="http://ad.doubleclick.net/adi/mcn.rbi/;type=tvside;pos=2;lay=info_page;page=privacy;sz=120x240;ord=37607271954333696?" name="side1" width="120" height="240" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/mcn.rbi/;abr=!ie;type=tvside;pos=2;lay=info_page;page=privacy;sz=120x240;ord=37607271954333696?"></script><noscript><a href="http://ad.doubleclick.net/jump/mcn.rbi/;abr=!ie;type=tvside;pos=2;lay=info_page;page=privacy;sz=120x240;ord=37607271954333696?"><img src="http://ad.doubleclick.net/ad/mcn.rbi/;abr=!ie;type=tvside;pos=2;lay=info_page;page=privacy;sz=120x240;ord=37607271954333696?" border=0 width="120" height="240"></A></noscript></iframe></td></tr></tbody></table><br>
+</td>
+  </tr>
+</tbody></table>
+<table width="760" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="132" valign="top">&nbsp;</td><td valign="top" width="472">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+<tbody><tr><td width="100%" valign="top" align="center"><iframe src="http://ad.doubleclick.net/adi/mcn.rbi/;type=tvbanner;pos=2;lay=info_page;page=privacy;sz=468x60;ord=37607282861266688?" name="banner1" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><script language="JavaScript1.1" SRC="http://ad.doubleclick.net/adj/mcn.rbi/;abr=!ie;type=tvbanner;pos=2;lay=info_page;page=privacy;sz=468x60;ord=37607282861266688?"></script><noscript><a href="http://ad.doubleclick.net/jump/mcn.rbi/;abr=!ie;type=tvbanner;pos=2;lay=info_page;page=privacy;sz=468x60;ord=37607282861266688?"><img src="http://ad.doubleclick.net/ad/mcn.rbi/;abr=!ie;type=tvbanner;pos=2;lay=info_page;page=privacy;sz=468x60;ord=37607282861266688?" border=0 width="468" height="60"></A></noscript></iframe><br></td></tr></tbody></table><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="5" bgcolor="#336699"><img src="contents/images/transPixel.gif" height="7"></td>
+</tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="4" cellpadding="0">
+<tbody><tr><td colspan="5" align="center"><span class="bottomnav"><a href="index.asp?layout=webzine"><span class="bottomnav">HOME</span></a>&nbsp;&nbsp;\&nbsp;&nbsp;<a href="index.asp?layout=info_page&amp;page=new_about_us"><span class="bottomnav">ABOUT US</span></a>&nbsp;&nbsp;\&nbsp;&nbsp;<a href="index.asp?layout=info_page&amp;page=general_advertising"><span class="bottomnav">ADVERTISE</span></a>&nbsp;&nbsp;\&nbsp;&nbsp;<a href="index.asp?layout=info_page&amp;page=new_contact_us"><span class="bottomnav">CONTACT US</span></a>&nbsp;&nbsp;\&nbsp;&nbsp;<a class="bottomnav" href="subscribe.asp?title=Register&amp;regopt=logout">
+REGISTER</a><a class="bottomnav" href="login.asp?title=Register&amp;regopt=logout">/LOG IN</a>
+&nbsp;&nbsp;
+   </span></td>
+</tr>
+</tbody></table>
+<!-- End footer mod  -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr><td colspan="5" align="center"><span class="footer">© 2002 Reed Business Information, a division of Reed Elsevier Inc.  All rights reserved.<br>Use of this Web site is subject to its 
+<a href="index.asp?layout=info_page&amp;page=terms">Terms of Use</a>
+<br>
+<a href="index.asp?layout=info_page&amp;page=privacy">Privacy Policy</a></span>
+</td>
+</tr>
+<tr><td colspan="5" align="center"><span class="footer"><br>The Dow Jones Indexes<img src="contents/images/specialCharSm.gif" width="10" height="7"> are compiled, calculated and distributed by Dow Jones &amp; Company, Inc. and have been licensed for use.  All content of The Dow Jones Indexes<img src="contents/images/specialCharSm.gif" width="10" height="7"> © 2000 Dow Jones &amp; Company, Inc.</span></td></tr>
+</tbody></table>
+<br></td><td width="156" valign="top">&nbsp;</td></tr></tbody></table></body></html>
