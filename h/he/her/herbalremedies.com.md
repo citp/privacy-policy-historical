@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207104136id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601203148id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -96,9 +96,9 @@ The information on this Web site is designed for educational purposes only. It i
 
 ©2001 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Informational material and representations have been provided by the manufacturers of the listed products. For assistance or to purchase products by phone call TOLL FREE in the USA 1-866-467-6444 or WORLDWIDE 1-307-577-6444 or e-mail us at[ info@herbalremedies.com.](mailto:info@herbalremedies.com)
 
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ Back to Top ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~    
-To Search, select an item from a "Scrolling Menu" below and click "GO",   
-if you cant find an item [click here to use our Search Tool.](http://www.herbalremedies.com/nsearch.html)   
+\-- -- -- -- -- -- -- -- -- -- -- -- -- Back to Top \-- -- -- -- -- -- -- -- -- -- -- -- --    
+To Find Something, type in the search box and click "search" or select an item from a "Scrolling Menu" below and click "GO". Results will display below the search box.  
+  
 | 
 
 |  |  |   
@@ -112,14 +112,13 @@ US Federal Express Ground W/Tracking #, 3 - 6 bus. days, $5.99*.
 US Federal Express 3 Bus. days W/Tracking #, $7.99*.   
 US Federal Express 2 Bus. days W/Tracking #, $9.99*.   
 U.S. Federal Express Overnight W/Tracking #, 1 bus. day, $18.99*.   
-Canada Federal Express Ground W/Tracking #, 2-8 bus. day, $10.99*.   
 [Worldwide Federal Express W/Tracking #, 5 - 7 bus. days, $20.99* ~ up.](http://www.herbalremedies.com/shippolandra.html#4)   
-*Exceptions: All U.S. orders over $100 automatically shipped at a reduced rate and shipped via Federal Express 3 Bus. day or Ground even if you selected Priority Mail. Liquids over 32 oz. may have an extra shipping charge & are shipped Federal Express Ground or Priority Mail ONLY. International rates may vary & do not include import fees or customs duties.  
+*Exceptions to Shipping Rates: All U.S. orders over $100 are automatically shipped at a reduced rate and shipped via Federal Express 3 Business day or Ground even if you selected Priority Mail. Orders that weigh over one pound or more than 16 fl. oz. may have an extra shipping charge & may be shipped Federal Express Ground or Priority Mail ONLY. Alaska, Hawaii, and International rates may vary & do not include import fees or customs duties. Shipping Charges for expedited Federal Express delivery which is delayed due to bad weather are NOT refundable.  
 [Click here for full shipping info and rules.](http://www.herbalremedies.com/shippolandra.html)   
 
 
 To "Order" by phone call toll free in the USA 1-866-467-6444 or World Wide 1-307-577-6444.  
-For other assistance e-mail us at [info@herbalremedies.com](mailto:info@herbalremedies.com).  VISA * MASTERCARD * DISCOVER CARD * AMERICAN EXPRESS * OPTIMA * MONEY ORDERS * CASHIERS CHECKS * PERSONAL CHECKS * WESTERN UNION  
-The statements regarding these products have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. The information on this Web site or in emails is designed for educational purposes only. It is not intended to be a substitute for informed medical advice or care. You should not use this information to diagnose or treat any health problems or illnesses without consulting your pediatrician or family doctor. Please consult a doctor with any questions or concerns you might have regarding your or your child's condition. Informational material and representations have been provided by the manufacturers of the listed products. [Disclaimer](http://www.herbalremedies.com/privacypolicy.html#7) , [Privacy Policy](http://www.herbalremedies.com/privacypolicy.html#1) , [Yahoo & Verisign SSL Security](http://www.herbalremedies.com/privacypolicy.html#2) , [About Us](http://www.herbalremedies.com/info.html) , [Payment , Shipping , Returns](http://www.herbalremedies.com/shippolandra.html) , [Contact Information](http://www.herbalremedies.com/privacypolicy.html#4)
+For other assistance e-mail us at [info@herbalremedies.com](mailto:info@herbalremedies.com).  VISA * MASTERCARD * DISCOVER CARD * AMERICAN EXPRESS * OPTIMA * PAYPAL * YAHOO PAYDIRECT * WESTERN UNION * MONEY ORDERS * CASHIERS CHECKS * PERSONAL CHECKS  
+* The statements regarding these products have not been evaluated by the Food and Drug Administration. These products are not intended to diagnose, treat, cure or prevent any disease. The information on this Web site or in emails is designed for educational purposes only. It is not intended to be a substitute for informed medical advice or care. You should not use this information to diagnose or treat any health problems or illnesses without consulting your pediatrician or family doctor. Please consult a doctor with any questions or concerns you might have regarding your or your child's condition. Informational material and representations have been provided by the manufacturers of the listed products. [Disclaimer](http://www.herbalremedies.com/privacypolicy.html#7) , [Privacy Policy](http://www.herbalremedies.com/privacypolicy.html#1) , [Yahoo & Verisign SSL Security](http://www.herbalremedies.com/privacypolicy.html#2) , [About Us](http://www.herbalremedies.com/info.html) , [Payment , Shipping , Returns](http://www.herbalremedies.com/shippolandra.html) , [Contact Information](http://www.herbalremedies.com/privacypolicy.html#4)
 
-©2001, 2002 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Reproduction or reuse of information or materials from this web site is strictly prohibited and against U.S. and international law. 
+©2001, 2002, 2003 Herbal Remedies USA™ is a trademark of Herbal Remedies USA, LLC. All rights reserved. Reproduction or reuse of information or materials from this web site is strictly prohibited and against U.S. and international law. 
