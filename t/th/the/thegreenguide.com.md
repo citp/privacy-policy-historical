@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2003-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030801142507id_/http%3A//www.thegreenguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegreenguide.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610180335id_/http%3A//thegreenguide.com/about/privacy) for the most accurate reproduction.*
 
 # The Green Guide: Privacy Statement
 
@@ -34,10 +34,6 @@ To send you e-mail notifications about our new or existing products and services
 
 To enhance existing features or develop new features, products and services. 
 
-To provide aggregate information - not individual data - to our advertisers to help them better understand our services and to monitor the reach of their advertising on the service. 
-
-To allow us to personalize the content and advertising that you and others see based on personal characteristics or preferences. 
-
 Information Sharing 
 
 **Email Addresses:** We will not share your e-mail address with third parties, although we reserve the right to present you with information on their behalf. 
@@ -48,7 +44,7 @@ If you wish not to receive unsolicited offers by mail, we encourage you to conta
 
 **Agents:** We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but are contractually prohibited from using it for other purposes. 
 
-**Affiliated Businesses and Organizations:** We work with affiliated businesses, examples of which are Powell's Online Books and greenmarketplace.com. These businesses offer products to you at their web site. If you transfer to their site from our site to make a purchase, The Green Guide Institute receives a small referral fee. 
+**Affiliated Businesses and Organizations:** We work with affiliated businesses, examples of which are Powell's Online Books and greenhom.com. These businesses offer products to you at their web site. If you transfer to their site from our site to make a purchase, The Green Guide Institute receives a small referral fee. 
 
 Links 
 
@@ -84,4 +80,21 @@ History of Amendments to This Document
 
 _July 1, 2002:_ Document language finalized and published. 
 
-|  |  |  |    |  |  |  |  |  | 
+|  |  |  |    |  |  |  | 
+
+|  [](https://ssl.thegreenguide.com/subscribe/index.mhtml)  
+---  
+  
+Receive 6 bi-monthly issues of the award-winning newsletter **PLUS FREE** Pocket Guides, Product Reports, and over $150 worth of coupons   
+  
+Got a Question for _The Green Guide_? 
+
+[Click here](https://web.archive.org/about/coupons) for over $100 worth of COUPONS for popular green products! 
+
+[](https://ssl.thegreenguide.com/donate/)
+
+_thegreenguide.com_ meets the [Consumer WebWatch](http://www.consumerwebwatch.org/bestpractices/) guidelines promoting credible information practices on the Web. 
+
+[](http://www.naturallyhome.com/awards.shtml)
+
+| 
