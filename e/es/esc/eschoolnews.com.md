@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202131705id_/http%3A//www.eschoolnews.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eschoolnews.com privacy policy that was archived on 2002-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021113123320id_/http%3A//www.eschoolnews.com/privacy.cfm) for the most accurate reproduction.*
 
 # eSchool News online
 
@@ -18,8 +18,6 @@ eSchool News Online is not responsible for the content or the privacy policies o
 
 **Surveys** : On occasion, eSchool News Online also collects additional personal information in connection with optional contests, surveys, or special offers.
 
-**Cookies** : eSchool News Online does not employ cookies to track usage on the web site. Advertising on our web site may contain cookies that are set by third parties (i.e. advertising agencies or advertising clients). We do not have access to these cookies or any information that they may contain; please contact the advertiser for more information on these cookies.
-
 **IP Addresses** : IP Addresses: eSchool News Online also logs IP addresses, or the location of your computer on the internet, for systems administration and troubleshooting purposes.
 
 **What does eSchool News Online do with the information it gathers/tracks?**
@@ -36,7 +34,7 @@ eSchool News uses the information it gathers to promote special pricing and disc
 
 **School Technology News ALERT** : During the registration process, new users who select to register for ALERT become ALERT members. If you select this option, ALERT will use the information collected on the registration form to provide targeted eMails to you on behalf of advertisers. ALERT subscribers may opt-out of this service at any time.
 
-**Forums** : eSchool News Online offers optional Forums known as listservs. Any information you disclose when posting a message in these Forums becomes public. Moreover, subscribers who post a message in our Forums make their eMail address available to others through a feature of our Forums software, which could result in unsolicited eMail from other subscribers or parties. For more information about Forums see the Posting Policy, or write to the Forums moderators at [support@eschoolnews.com](mailto:support@eschoolnews.com)
+**Forums** : eSchool News Online offers optional Forums. Any information you disclose when posting a message in these Forums becomes public. Moreover, subscribers who post a message in our Forums make their eMail address available to others through a feature of our Forums software, which could result in unsolicited eMail from other subscribers or parties. For more information about Forums see the Posting Policy, or write to the Forums moderators at [support@eschoolnews.com](mailto:support@eschoolnews.com)
 
 **Children's Guidelines:** No section of eSchool News Online is directed at children 12 and under. We collect no personally identifiable information from visitors known to be children.
 
