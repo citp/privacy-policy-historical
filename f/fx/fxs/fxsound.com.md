@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603224849id_/http%3A//www.fxsound.com/dfx/pages/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsound.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205172435id_/http%3A//www.fxsound.com/dfx/pages/legal/privacy.html) for the most accurate reproduction.*
 
 # www.fxsound.com - Privacy Policy
 
@@ -38,7 +38,7 @@ FXSOUND is the sole owner of the information collected on this site. We use diff
 **CHOICES AVAILABLE REGARDING USE OF INFORMATION**
 
   1. **Opt out of (unsubscribing) from email:** Each email communication that we send to you includes instructions on how to unsubscribe from receiving further email communications. However, we will then be unable to inform you about products you have previously purchased (such as an available upgrade that you are entitled to receive) or to inform you about critical technical service issues relating to a product or service you own.
-  2. **Correcting and updating your information:** If you need to change your name or email address, feel free to contact our customer support team at [dfxhelp@fxsound.com](mailto:dfxhelp@fxsound.com).
+  2. **Correcting and updating your information:** If you need to change your name or email address, feel free to contact our customer support team at [dfxhelp@fxsound.com](mailto:dfxhelp@fxsound.com?subject=DFX%20Email%20Change).
 
 **INFORMATION ABOUT PARTNER AND ADVERTISER WEB SITES**  
 Our Web site may contain links to other Web sites, including through banner ads and other advertising on the site. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. FXSOUND is not responsible for the content or the privacy policy or practices of any other Web sites or for the actions of the companies responsible for those Web sites. Please review the privacy policies of those Web sites before providing them with any personal information. 
@@ -47,7 +47,7 @@ Our Web site may contain links to other Web sites, including through banner ads 
 If you have any questions about this privacy statement, the practices of this Web site, or your dealings with this site, please contact us:
 
 **Email:**  
-[corporate@power-t.com](mailto:corporate@power-t.com)
+[corporate@power-t.com](mailto:corporate@power-t.com?subject=FXSOUND%20Corporate%20Info)
 
 **Address:**  
 Power Technology  
