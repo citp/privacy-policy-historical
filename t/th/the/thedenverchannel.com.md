@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the thedenverchannel.com privacy policy that was archived on 2002-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021002110934id_/http%3A//www.thedenverchannel.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedenverchannel.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605081306id_/http%3A//www.thedenverchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
-# TheDenverChannel.com - Privacy Policy
+# TheDenverChannel.com - News
 
-  | 
-
-## Privacy Policy
-
-### __
+[](https://web.archive.org/news//detail.html)
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.TheDenverChannel.com](http://www.thedenverchannel.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
 
@@ -45,48 +41,11 @@ Security Administrator
 Internet Broadcasting Systems  
 1333 Northland Drive  
 Mendota Heights, MN 55120  
-[security@ibsys.com](mailto:security@ibsys.com)  
-
+[security@ibsys.com](mailto:security@ibsys.com)
 
 **Changes to This Policy**  
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
-If you have questions or concerns regarding this statement, you should first contact [security@ibsys.com](mailto:security@ibsys.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
+Last Revised 09/02   
+  
 
-Last Revised 09/02 
-
-|    |  | 
-
-  
-  
-  
----  
-   
-  
-| | 
-
-E-MAIL NEWS  
-  
----|---  
-  
-Get E-News Headlines When YOU Want Them
-
-| Breaking News  
----|---  
-| 7 am Headlines  
-| 9 am Headlines  
-| 12 pm Headlines  
-| 4 pm Headlines  
-| 8 pm Headlines  
-  
-  
-[More E-Mail Choices...](http://www.thedenverchannel.com/news/email-newsletters.html)  
-  
-   
-  
-   
-  
-  
-  
-  
-Stock Box [Copyright ©2002](https://web.archive.org/sh/miscellaneous/stories/miscellaneous-75094720010502-100516.html) , Standard & Poor’s, a division of The McGraw-Hill Companies, Inc. All rights reserved. 
