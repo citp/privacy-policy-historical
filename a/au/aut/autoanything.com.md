@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614150520id_/http%3A//www.autoanything.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020014947id_/http%3A//autoanything.com/privacy.asp) for the most accurate reproduction.*
 
-# autoanything.com | discount auto accessories car parts
+# autoanything.com | Privacy Policy
 
   
 autoanything.com is committed to protecting your privacy on the Internet. Please find an overview of our Privacy Policy below. This will explain the information we collect from you and how it is used. 
