@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216054949id_/http%3A//lead411.com/privacypolicy.taf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lead411.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607182014id_/http%3A//lead411.com/privacy.html) for the most accurate reproduction.*
 
 # Lead411: Privacy Policy
 
-[](https://web.archive.org/web/20011216054949id_/http%3A//lead411.com/index.taf) |    |  |  [](https://web.archive.org/) |  [](https://web.archive.org/web/20011216054949id_/http%3A//lead411.com/login.taf) |  [](https://web.archive.org/contactus.taf)  
----|---|---|---|---  
-  
-|  |  |   **Privacy Policy**  
----  
-  **Sign Up**  
-Feeling safer? Are you ready to join?  
-[Sign Up](https://web.archive.org/web/20011216054949id_/http%3A//lead411.com/signup.taf)  
-Privacy Policy **General Statement**
-
 Lead411 holds the privacy and security of our site visitors and members as one of it its highest priorities. This Privacy Policy clearly explains what infomation is gathered and what happens with that information. 
 
-You can contact us by email: 
-
-[help@lead411.com](mailto:help@lead411.com), mail: 2512 Artesia Blvd Ste 140, Redondo Beach, CA 90278, or by telephone: 310.376.9481. Contact us if any of these privacy policies have been broken. 
+, mail: 2512 Artesia Blvd Ste 140, Redondo Beach, CA 90278, or by telephone: 310.376.9481. Contact us if any of these privacy policies have been broken. 
 
 **What Information is collected?**
 
@@ -35,7 +23,7 @@ If you provide us with your email as a Member, we use this information for three
 
 If you want to Unsubscribe or get rid of eMails being sent to you, click on 
 
-[Unsubscribe](https://web.archive.org/web/20011216054949id_/http%3A//lead411.com/unsubscribe.taf). 
+[Unsubscribe](http://www.lead411.com/unsubscribe.taf). 
 
 **Registration Data Usage**
 
@@ -49,7 +37,7 @@ All submitted information is treated as confidential by Lead411' staff, affiliat
 
 **Lost or Stolen Information** If you lose your password, you may re-acquire it from the 
 
-[Login](https://web.archive.org/web/20011216054949id_/http%3A//lead411.com/login.taf) page. If your password is stolen or used without your permission, immediately notify Lead 411 Sales Leads. Upon notification Lead411 will cancel your password and update its records. You may be unable to access certain services while Lead411 processes the password change. 
+[Login](http://www.lead411.com/login.taf) page. If your password is stolen or used without your permission, immediately notify Lead 411 Sales Leads. Upon notification Lead411 will cancel your password and update its records. You may be unable to access certain services while Lead411 processes the password change. 
 
 **Use of Aggregated Information**
 
