@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409225337id_/http%3A//danfoss.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danfoss.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214143039id_/http%3A//www.danfoss.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 |  |  |  |  |   
 ---|---|---|---|---  
-| **[Terms of Use](https://web.archive.org/web/20010409225337id_/http%3A//danfoss.com/terms.asp)**  
+| **[Terms of Use](https://web.archive.org/web/20011214143039id_/http%3A//www.danfoss.com/terms.asp)**  
 | **Privacy Policy**  
   
 Danfoss respects your privacy. Whether you are buying one of Danfoss' quality products, or just browsing the Danfoss Site, Danfoss wants to make you comfortable with our privacy policy and the security measures that we take to protect your personal information. If you give Danfoss personal information Danfoss will treat it according to this policy. Danfoss encourages you to read this privacy policy.
