@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603190224id_/http%3A//bizbash.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbash.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204030234id_/http%3A//www.bizbash.com/privacy.asp) for the most accurate reproduction.*
 
-# BiZBash - Privacy
-
-**Privacy Policy**
+# BiZBash
 
 We respect your privacy! The following section explains the type of information we may collect during the normal operation of our Web site and how BiZBash.com would use and protect such collected information. If you have any questions, please don't hesitate to contact us at [webmaster@bizbash.com](mailto:webmaster@bizbash.com). 
 
