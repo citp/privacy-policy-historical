@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the aaaagencysearch.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203205645id_/http%3A//www.aaaagencysearch.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaaagencysearch.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603234436id_/http%3A//aaaagencysearch.com/info/privacy.asp) for the most accurate reproduction.*
 
 # AAAAgencySearch.com > Privacy Policy
 
 |   
-[](https://web.archive.org/web/20031203205645id_/http%3A//www.aaaagencysearch.com/default.asp)  
+[](https://web.archive.org/web/20040603234436id_/http%3A//aaaagencysearch.com/default.asp)  
   
-[](https://web.archive.org/web/20031203205645id_/http%3A//www.aaaagencysearch.com/search/AdvancedSearch1.asp)  
+[](https://web.archive.org/web/20040603234436id_/http%3A//aaaagencysearch.com/search/AdvancedSearch1.asp)  
   
-[](https://web.archive.org/web/20031203205645id_/http%3A//www.aaaagencysearch.com/search/Register.asp)  
+[](https://web.archive.org/web/20040603234436id_/http%3A//aaaagencysearch.com/search/Register.asp)  
   
   
   
-[](https://web.archive.org/web/20031203205645id_/http%3A//www.aaaagencysearch.com/help/help.asp)  
+[](https://web.archive.org/web/20040603234436id_/http%3A//aaaagencysearch.com/help/help.asp)  
   
-[](https://web.archive.org/web/20031203205645id_/http%3A//www.aaaagencysearch.com/info/info.asp)  
+[](https://web.archive.org/web/20040603234436id_/http%3A//aaaagencysearch.com/info/info.asp)  
   
   
 [](http://www.aaaa.org/)  
@@ -44,14 +44,14 @@ If you identify any errors in your company or personal information or need to ed
   
  **-or-**  
 
-  * contact Laura Jones at Little Tornadoes and she will promptly update your records.
+  * contact Matt Holland at Kintera, Inc. and he will promptly update your records.
 
 
 
 If you have any questions or concerns, please contact us as follows: 
 
-  * Laura Jones, Project Manager, Little Tornadoes  
-[lauraj@littletornadoes.com](mailto:lauraj@littletornadoes.com)
+  * Matt Holland, Project Manager, Kintera Inc.  
+[mholland@kintera.com](mailto:mholland@kintera.com)
 
 
 
@@ -80,13 +80,13 @@ If you identify any errors in your company or personal information or need to ed
   
  **-or-**  
 
-  * contact Laura Jones at Little Tornadoes and she will promptly update your records.
+  * contact Matt Holland at Kintera, Inc. and he will promptly update your records.
 
 
 
 If you have any questions or concerns, please contact us as follows: 
 
-  * Laura Jones, Project Manager, Little Tornadoes  
-[lauraj@littletornadoes.com](mailto:lauraj@littletornadoes.com)
+  * Matt Holland, Project Manager, Kintera Inc.  
+[mholland@kintera.com](mailto:mholland@kintera.com)
 
 
