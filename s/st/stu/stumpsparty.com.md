@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the stumpsparty.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211092819id_/http%3A//www.stumpsparty.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsparty.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204231925id_/http%3A//www.stumpsparty.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
 
-# Stump Printing Co., Inc. : Site Security and Privacy
+# Prom, Party, Birthday, Gifts, School Spirit Supplier ­ Stumps Since 1926 : Site Security and Privacy
 
 ### Site Security
 
 At StumpsParty.com, your security is our number one concern. We are pleased to tell you about the measures we have taken to ensure your security. 
 
-We have followed and surpassed all industry standards necessary for a secure site. We are a [VeriSign™](https://digitalid.verisign.com/cgi-bin/Xquery.exe?Template=authCertByIssuer&form_file=../fdf/authCertByIssuer.fdf&issuerSerial=9d41a143be36636b86be4e24b643fa63) secure site. This means that all information sent to our site is encrypted and protected against disclosure to third parties. 
+We have followed and surpassed all industry standards necessary for a secure site. We are a GeoTrust™ secure site. This means that all information sent to our site is encrypted and protected against disclosure to third parties. 
 
 Our servers use SSL (Secure Sockets Layer). This is an advanced technology that **encrypts all of the information you send us** (this includes all of your personal information such as your name, address, credit card number, etc.) so that it cannot be read as the information as it travels over the Internet. 
 
@@ -35,9 +35,9 @@ Please rest assured that shopping on StumpsParty.com is safe and secure! You'll 
 
 ### Privacy Policy
 
-At Stump Printing Co., Inc., we understand that our customers are concerned with privacy, so we have initiated policies to ensure that your personal information is handled safely and responsibly. We collect customer information in an effort to improve your shopping experience and to communicate to you about our products, services, contests or promotions. 
+At StumpsParty.com, we understand that our customers are concerned with privacy, so we have initiated policies to ensure that your personal information is handled safely and responsibly. We collect customer information in an effort to improve your shopping experience and to communicate to you about our products, services, contests or promotions. 
 
-From time to time, we will send informational e-mails to you concerning Stump Printing Co., Inc. information only. These would be specials; contest information or short messages containing information that we think you would want to know. If at any time you wish to stop receiving these e-mails, we give you the option to remove your name from our mailing list with one easy step. We will NOT sell, rent or share your e-mail address or password with a third party. We understand that this information is private and will handle it in a responsible manner. 
+From time to time, we will send informational e-mails to you concerning StumpsParty.com information only. These would be specials; contest information or short messages containing information that we think you would want to know. If at any time you wish to stop receiving these e-mails, we give you the option to remove your name from our mailing list with one easy step. We will NOT sell, rent or share your e-mail address or password with a third party. We understand that this information is private and will handle it in a responsible manner. 
 
 We occasionally will share our customers' mailing information with select companies that we feel might be of interest to you. If you prefer that we do not share your name, simply send or e-mail us your name and mailing address. Additionally, if you do not want to receive our catalog, please let us know. Allow 6-8 weeks for us to update our mailing lists. 
 
@@ -58,7 +58,7 @@ At no time is this information shared with third parties. Additionally, we do re
 
 If you at any time have questions about our Privacy Policy, please feel free to e-mail us [Customer Service](mailto:csr@stumpsparty.com), call toll free at 1-800-348-5084 or write to us at: 
 
-**Stump Printing Co., Inc.**  
+**StumpsParty.com**  
 Attn: Customer Service  
 One Party Place  
 South Whitley, IN 46787
