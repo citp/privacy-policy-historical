@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalsurveysearch.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208192518id_/http%3A//www.nationalsurveysearch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalsurveysearch.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406174505id_/http%3A//www.nationalsurveysearch.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
