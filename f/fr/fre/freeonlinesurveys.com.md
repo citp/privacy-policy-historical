@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonlinesurveys.com privacy policy that was archived on 2002-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020405221755id_/http%3A//freeonlinesurveys.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinesurveys.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208035337id_/http%3A//www.freeonlinesurveys.com/privacy.asp) for the most accurate reproduction.*
 
 # Free Online Surveys
 
@@ -8,7 +8,7 @@ This is the web site of [FreeOnlineSurveys.com](http://freeonlinesurveys.com/).
 Our postal address is   
 1 Fairbourne Rd,  
 St. Austell, Cornwall, UK  
-We can be reached via e-mail at customercare.fos@ProblemFree.co.uk  
+We can be reached via e-mail at admin@ProblemFree.co.uk  
 or you can reach us by telephone at 07092 0345 00
 
   
