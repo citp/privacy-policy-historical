@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217053715id_/http%3A//insuremytrip.com/p/gen%3Fpage%3Dprivacy%26pid%3D1000%26rid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuremytrip.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603165538id_/http%3A//insuremytrip.com/p/gen%3Fpage%3Dprivacy%26pid%3D1000%26rid%3D1) for the most accurate reproduction.*
 
 # InsureMyTrip.com Privacy Policy
 
@@ -42,7 +42,7 @@ We do not provide information to mailing lists nor do we sell the information to
 
 Protecting Information Gathered
 
-InsuredMyTrip.com uses Secure Socket Layer encryption (SSL) for our policy Quoting and issuance. This measure was taken to protect the privacy of your information.
+InsureMyTrip.com uses Secure Socket Layer encryption (SSL) for our policy Quoting and issuance. This measure was taken to protect the privacy of your information.
 
 InsureMyTrip.com does not control the privacy practices of the companies which we represent; however, all the companies use the information you provide for the purpose of issuing an accurate insurance policy. Quote information is not shared with any of the insurance companies.
 
