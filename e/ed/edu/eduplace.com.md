@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001183015id_/http%3A//www.eduplace.com/forums/html/terms.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eduplace.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616040032id_/http%3A//eduplace.com/forums/html/terms.html%23privacy) for the most accurate reproduction.*
 
 # Terms and Conditions of Use
 
@@ -25,7 +25,7 @@ Boston, Massachusetts 02116-3764
 **Title:** Executive Producer for Internet Development  
 **Address:** 222 Berkeley Street, 3rd Floor  
 Boston, Massachusetts 02116-3764  
-**Telephone Number:** (617)-351-5415  
+**Telephone Number:** (617)-351-5424  
 **Email Address:** [Nancy_Dasho@hmco.com](mailto:Nancy_Dasho@hmco.com)
 
 **Division:** McDougal Littell  
