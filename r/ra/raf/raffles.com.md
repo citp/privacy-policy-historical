@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raffles.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202201923id_/http%3A//www.raffles.com/raffles/retreats/partner_special_detail.asp%3Fid%3D515) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raffles.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609211409id_/http%3A//www.raffles.com/raffles/retreats/partner_special_detail.asp%3Fid%3D515) for the most accurate reproduction.*
 
 # Raffles
 
