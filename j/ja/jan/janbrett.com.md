@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janbrett.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206220338id_/http%3A//www.janbrett.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janbrett.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403154444id_/http%3A//www.janbrett.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -44,4 +44,4 @@
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   Jan Brett Post Office Box 366 Norwell, Ma. 02061   janbrett@janbrett.com
 
-[Home Page](https://web.archive.org/web/20041206220338id_/http%3A//www.janbrett.com/index.html)
+[Home Page](https://web.archive.org/web/20050403154444id_/http%3A//www.janbrett.com/index.html)
