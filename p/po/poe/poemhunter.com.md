@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poemhunter.com privacy policy that was archived on 2003-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031231185012id_/http%3A//www.poemhunter.com/PoemHunter/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemhunter.com privacy policy that was archived on 2004-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041027010351id_/http%3A//www.poemhunter.com/PoemHunter/privacy) for the most accurate reproduction.*
 
 # PoemHunter.Com - Thousands of poems and poets..
 
