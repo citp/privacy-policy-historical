@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204185905id_/http%3A//www.tophosts.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tophosts.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305230547id_/http%3A//www.tophosts.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Web Hosting Resource and Directory - Tophosts.com
 
@@ -78,28 +78,29 @@ VerticalScope Inc. (hereafter referred to as VerticalScope) has created this pri
 ---  
 [ ](https://web.archive.org/pages/top25/)  
   
-[ ](http://www.thehostingstandard.com/)  
+[ ](https://www.tophosts.com/store/THS/order.step0.php)  
   
-[](https://web.archive.org/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/972364064/Right/expert-sky-th/qhstatic_160-600.gif/64316564656562323431623230386630)  
+[](https://web.archive.org/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1153481329/Right/earthlink-skyscraper-th/160x600_orange.gif/64316564656562313432326133623430)  
   
-[**Yahoo**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/670913645/Middle1/yahoo-textlink-th/yahoo-sponsorlink-th-080304.html/64316564656562323431623230386630)  
-•Yahoo! Web Hosting  
-Setup fee waived. Domain included. Reliable, affordable, full-featured.
-
-[ **iPowerWeb**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1847462454/Middle2/ipowerweb-sponsor-th/ipowerweb-sponsor-th.html/64316564656562323431623230386630)  
+[**iPowerWeb**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/561885674/Middle1/ipowerweb-sponsor-th/ipowerweb-sponsor-th.html/64316564656562313432326133623430)  
 •$7.95/mo. Web Hosting! Powerful, Affordable Solution Free Setup & Free Domain
 
-[**Omnis Network**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1675931339/Middle3/omnos-sponsorlink/txt.html/64316564656562323431623230386630)  
-•Get FREE Domain Name, FREE Setup, 1 Gigabyte Storage Space, 500 Email Accts
+[**Earthlink Web Hosting**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1374678639/Middle2/earthlink-sponsorlinknew-th/link.html/64316564656562313432326133623430)  
+•6 months half price & FREE Setup - 1.800.863.6400.
 
-[**Atlantic.Net**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/802957372/Frame1/atlantic-sponsorlink-th/atlantic-sponsorlink-th.html/64316564656562323431623230386630)  
-•99.9% Uptime Guarantee - Call Now 1.877.GO.ATLANTIC  
+[**HostExcellence**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/1424111888/Middle3/hostexcellence-sponsorlink-th/link.html/64316564656562313432326133623430)  
+•Prices from $2.95! Get hosted today!
+
+[**Superb Hosting**](http://www.tophosts.com/RealMedia/ads/click_lx.ads/www.tophosts.com/pages/privacy.html/38735261/Frame1/superb-sponsorlink-th/superb-sponsorlink-th.html/64316564656562313432326133623430)  
+•Free Domain & Setup  
+50GB traffic, 1GB web  
+250 emails, 10 domains  
+Only $7.50/m  
   
-TopHosts Poll | What brought you to Tophosts?  
+TopHosts Poll | Who's performing your SEO?  
 ---  
-I don't have a web host and need one.  
-I want to switch my web host.  
-Im in the hosting industry and doing competitor research.  
-Im here to read the articles and learn about e-business.  
-I want to use the forum.  
+I'm doing it in-house  
+My hosting provider takes care of it  
+It's contracted out to an SEO firm  
+Im not engaging in SEO  
 [Click here to view previous polls](http://www.tophosts.com/pages/pastpolls.html)
