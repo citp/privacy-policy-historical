@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604035421id_/http%3A//www.individualinvestor.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investmentu.com privacy policy that was archived on 2001-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011130153645id_/http%3A//www.individualinvestor.com/help/privacy.asp) for the most accurate reproduction.*
 
 # Individual Investor
 
@@ -10,7 +10,7 @@ individualinvestor.com uses cookies to keep track of your portfolio, your messag
 
 individualinvestor.com requires users to give us certain contact information (like their name and email address) and demographic information (like their zip code, age, or income level) at various times: including **registration forms, order forms** and **online surveys**. We use the contact information we collect from such forms and surveys to send the user individualinvestor.com's daily newsletter, information about our company and promotional material from some of our partners. The user's contact information is also used to contact the user when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. We use the demographic information we collect from such forms and surveys to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. We also use this information for other internal purposes. We also share this information on an aggregate basis with advertisers and partners. 
 
-**WE WILL NEVER SHARE WITH ANY THIRD PARTY ANY INFORMATION THAT SPECIFICALLY IDENTIFIES YOU, WITHOUT FIRST RECEIVING YOUR CONSENT.**
+**WE WILL NEVER SHARE WITH ANY THIRD PARTY ANY INFORMATION THAT SPECIFICALLY IDENTIFIES YOU, WITHOUT FIRST RECEIVING YOUR CONSENT EXCEPT TO A THIRD PARTY THAT ACQUIRES ASSETS OF INDIVIDUALINVESTOR.COM (INCLUDING OUR REGISTRATION TO THE DOMAIN NAME), THAT ACQUIRES ALL OR SUBSTANTIALLY ALL OF OUR ASSETS OR INTO WHICH WE MERGE.**
 
 individualinvestor.com contains links to other sites. individualinvestor.com is not responsible for the privacy practices or the content of such Web sites. This site also contains links to certain co-branded pages hosted by other parties. The privacy practices applicable to those co-branded pages will be the privacy practices applied by the parties hosting those pages. 
 
