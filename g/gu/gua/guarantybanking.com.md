@@ -1,35 +1,61 @@
-> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603054037id_/http%3A//www.guarantybanking.com/guarantybanking/privacy.html) for the most accurate reproduction.*
 
 # Guaranty Bank -- Privacy Statement
 
-[](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/moneymarket.html)  
-[](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/business.html)  
-[](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/loan.html)  
-[](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/prelocations.html)  
-[](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/career.html)  
-[](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/banking.html)[  
-](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/news.html) |  [New Branches](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/news.html#newbranches.html) | [Travel With Guaranty Bank](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/travel.html) | [Current Specials](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/specials.html) | [Guest Book](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/guestbook.html)  
-[Privacy Statement](https://web.archive.org/web/20001217025400id_/http%3A//www.guarantybanking.com/guarantybanking/privacy.html)
+**PRIVACY POLICY** ****
 
-|  **GUARANTY BANK CUSTOMER PRIVACY STATEMENT**
+Guaranty Bank, S.S.B. (and its subsidiaries), collectively “Guaranty”, understands that we receive private, personal information about our customers that they expect will be treated confidentially (“Nonpublic Personal Information”). We believe that we have an affirmative and continuing obligation to respect and protect the privacy of all our customers by maintaining the confidentiality of this information.  Guaranty has implemented this privacy policy (the “Policy”) to govern the management of our customer’s Nonpublic Personal Information, including information provided to us on our Internet websites. 
 
-**SUMMARY:** This statement is intended to convey to you, our customers, how we will use customer information we collect via the Internet. Because of technological advances we are able to collect, store, analyze and disseminate increasing amounts of customer data. We realize you may be sensitive to how this information is used and we respect your right to keep all personal information confidential and secure from fraud. We collect and retain information only if allowed by law and do not sell information to any companies for any purpose. Information gathered is used to custom design products and services to match the needs of our customers. Maintaining the trust that such information will remain confidential is an essential component of our banking relationship with you, our customer.
+**_Basic Principles _**
 
-|   
----|---  
-  
-**AFFILIATES:** Guaranty Bank SSB offers deposit account services. Mortgage loans are offered through "Guaranty Mortgage", "Shelter Mortgage" and "GN Mortgage", subsidiaries of Guaranty Bank. Consumer and home equity loans are offered through "GB Home Equity", also a subsidiary of Guaranty Bank. Customer information may be shared among affiliated companies subject to federal and state laws.
+We respect our current and former customer’s right to keep all personal information confidential and secure from fraud. 
 
-**CUSTOMER OPT OUT:** Customers who do not wish to receive special offers, products or services may "opt out" of this value added service by writing us at:  
+We collect and retain personal information only if allowed by law and do not sell Nonpublic Personal Information to any Nonaffiliated Third Parties (defined below) for any purpose 
+
+We only disclose Nonpublic Personal Information about a customer to Nonaffiliated Third Parties in limited circumstances as permitted by law. 
+
+We do not disclose account numbers to any Nonaffiliated Third Parties for telemarketing, direct mail marketing or electronic mail marketing. 
+
+We have established standards and procedures to insure the security and confidentiality of customer records, to protect against any anticipated threats or hazards to the security or integrity of customer records, and to protect against unauthorized access to or use of customer records which could result in substantial harm or inconvenience to the customer. 
+
+We educate and train our employees on the importance of confidentiality and customer privacy. 
+
+**_Types of Information Collected_**
+
+The following is a list of the types of Nonpublic Personal Information we may collect:
+
+  * Any information a customer provides to us on an application to obtain a loan, an account, a credit card, or other financial product or service.
+  * Account numbers, account balance information, payment history, overdraft history, and credit or debit card purchase information.
+  * The fact that an individual is, or has been, a customer of ours or has obtained a financial product or service from us.
+  * Any information about a customer that indicates that the individual is, or has been, a customer of ours.
+  * Any information that a customer provides to us or that we or our agent obtain in connection with collecting on or servicing a loan.
+  * Any information we collect through an Internet “cookie” (an information-collecting device from a Web server).
+  * Information from a consumer credit report.
 
 
-> Guaranty Bank SSB  
->  Attn: Peggy Timm  
->  4000 West Brown Deer Road  
->  Milwaukee, WI 53209
 
-Or E-Mailing the request to: [Retailmktgsupport@GBMail.com](mailto:Retailmktgsupport@GBMail.com)  
-Please specify the exact name, address and phone number of each person who wishes to be excluded.
+**_Disclosure of Nonpublic Personal Information_**
 
-  
+We may share Nonpublic Personal Information among Affiliates subject to federal and state laws.  Affiliate means any company that controls, is controlled by, or is under common control with Guaranty. 
+
+Affiliates include our subsidiaries: GN Mortgage Corporation, Shelter Mortgage Company, LLC, and Guaranty Home Equity Corporation and the various d/b/a’s used by these companies. 
+
+Nonpublic Personal Information may be shared with Nonaffiliated Third Parties as permitted by law.  Nonaffiliated Third Party means any person except an Affiliate of ours and a person who is employed jointly by us and any company that is not our Affiliate. 
+
+All contracts we enter into with Nonaffiliated Third Parties pursuant to a joint marketing agreement shall contain a confidentiality provision prohibiting the disclosure and reuse of Nonpublic Personal Information. 
+
+The Nonpublic Personal Information of former customers is treated in the same manner as the Nonpublic Personal Information of current customers. 
+
+**_Why Information is Shared_**
+
+We only share Nonpublic Personal Information when we believe such sharing will benefit our customers, within the limits set forth above.  This includes sharing information in order to provide our customers with the best products and services possible, as well as in order to make our customers aware of new products and services that may be of interest to them. 
+
+**_Notice of Policy_**
+
+A notice of this Policy will be provided to: 
+
+  1. All Guaranty customers no later than when a customer relationship is established and at least annually throughout the duration of the customer relationship.
+  2. All consumers (an individual who seeks to obtain a financial product or service from the financial institution, but had not yet established a customer relationship) if Guaranty is going to disclose his or her Nonpublic Personal Information with a Nonaffiliated Third Party.  A consumer includes an individual who may provide information when inquiring about a service or product from Guaranty or an individual who uses a Guaranty Bank ATM.
+  3. All employees of Guaranty.
+
 
