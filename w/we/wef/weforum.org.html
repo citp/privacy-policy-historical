@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the weforum.org privacy policy that was archived on 2002-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020607202800id_/http%3A//www.weforum.org/site/homepublic.nsf/Content/Privacy%2BStatement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the weforum.org privacy policy that was archived on 2004-12-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041223081109id_/http%3A//www.weforum.org/site/homepublic.nsf/Content/Privacy%2BStatement) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -63,7 +63,7 @@ var StructureLayer; // here goes site structure layer
 
 function init () {
   isLoaded = true;
-  initMenus ();
+  //initMenus ();
   isMenuInitialized = isLoaded && isStructureLoaded;
   preloadImages (); 
   if (isMenuInitialized) isMenuGenerated = generateMenu(); // if structure has been loaded then generate menu
@@ -108,7 +108,7 @@ function MM_showHideLayers() { //v3.0
 }
 
 function preloadImages () {
-MM_preloadImages('/site/homepublic.nsf/AttachmentsByTitle/tnbb_home_on.gif/$file/tnbb_home_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbb_initiatives_on.gif/$file/tnbb_initiatives_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbb_events_on.gif/$file/tnbb_events_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbb_media_on.gif/$file/tnbb_media_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbb_about_on.gif/$file/tnbb_about_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbb_private_on.gif/$file/tnbb_private_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbt_faqs_on.gif/$file/tnbt_faqs_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbt_sitemap_on.gif/$file/tnbt_sitemap_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbt_contact_on.gif/$file/tnbt_contact_on.gif'); 
+MM_preloadImages('/site/homepublic.nsf/AttachmentsByTitle/tnbb_home_on.gif/$file/tnbb_home_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbb_initiatives_on.gif/$file/tnbb_initiatives_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbb_events_on.gif/$file/tnbb_events_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbb_media_on.gif/$file/tnbb_media_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbb_about_on.gif/$file/tnbb_about_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbt_faqs_on.gif/$file/tnbt_faqs_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbt_sitemap_on.gif/$file/tnbt_sitemap_on.gif','/site/homepublic.nsf/AttachmentsByTitle/tnbt_contact_on.gif/$file/tnbt_contact_on.gif'); 
 MM_preloadImages('/site/homepublic.nsf/AttachmentsByTitle/print_on.gif/$file/print_on.gif','/site/homepublic.nsf/AttachmentsByTitle/send_on.gif/$file/send_on.gif');
 } // preloadImages
 
@@ -140,6 +140,11 @@ function hoverOn() {
 
 function hoverOff() {
   this.hoverLayer.visibility = "hide";
+}
+
+function doCookieL(name,value) {
+document.cookie=name+"="+value+"; expires=Saturday, 01-Apr-2200 08:00:00 GMT ; path=/";
+return true;
 }
 
 //-->
@@ -315,7 +320,7 @@ var NamedAreas = new Array ();
 NamedAreas ["Initiatives"] = "Initiatives";
 NamedAreas["Events"] = "Events";
 NamedAreas["Media Centre"] = "Media Centre";
-NamedAreas["About Forum"] = "About the Forum"; // listtag is alias
+NamedAreas["About Forum"] = "About Us"; // listtag is alias
 NamedAreas["Private Area"] = "Members Area";
 
 /* init menus */
@@ -357,16 +362,13 @@ function figureOutWidth (a) {
   return chars * ScaleFactor + 10;
 } // figureOutWidth
 </script>
-<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><a href="/site/homepublic.nsf/Content/Homepage">
-
- 
-<img src="/site/homepublic.nsf/AttachmentsByTitle/tnbt_logo_white.gif/$FILE/tnbt_logo_white.gif" border="0" width="137" height="75"></a></td><td width="70%"><img src="/site/homepublic.nsf/AttachmentsByTitle/1pixel.gif/$FILE/1pixel.gif" border="0" width="2" height="2"></td><td><table width="192" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
+<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><a href="/site/homepublic.nsf/Content/Homepage"><img src="/site/homepublic.nsf/AttachmentsByTitle/tnbt_logo_white.gif/$FILE/tnbt_logo_white.gif" border="0" width="137" height="75"></a></td><td width="70%"><img src="/site/homepublic.nsf/AttachmentsByTitle/1pixel.gif/$FILE/1pixel.gif" border="0" width="2" height="2"></td><td><table width="192" border="0" cellpadding="0" cellspacing="0"><tbody><tr>
 <td width="190">
 <script language="javascript">
 if (navigator.appName!="Netscape") document.write("<div align=right>")
 </script>
 <ilayer><layer onmouseover="hover(this, true);">
-     <span class="toolhead"><a href="/site/homepublic.nsf/../homepublic.nsf/Content/FAQs" class="toolhead">FAQs</a></span>
+     <span class="toolhead"><a href="http://wef.typepad.com/blog/" class="toolhead"><b>Weblog</b></a></span>
 </layer></ilayer> 
 <script language="javascript">
 if (navigator.appName!="Netscape") document.write("</div>")
@@ -384,7 +386,7 @@ if (navigator.appName!="Netscape") document.write("</div>")
 if (navigator.appName!="Netscape") document.write("<div align=right>")
 </script>
 <ilayer><layer onmouseover="hover(this, true);">
-     <span class="toolhead"><a href="/site/homepublic.nsf/../homepublic.nsf/Content/_SiteMap" class="toolhead">Sitemap</a></span>
+     <span class="toolhead"><a href="/site/homepublic.nsf/../homepublic.nsf/Content/_SiteMap" class="toolhead">Site map</a></span>
 </layer></ilayer> 
 <script language="javascript">
 if (navigator.appName!="Netscape") document.write("</div>")
@@ -402,7 +404,7 @@ if (navigator.appName!="Netscape") document.write("</div>")
 if (navigator.appName!="Netscape") document.write("<div align=right>")
 </script>
 <ilayer><layer onmouseover="hover(this, true);">
-     <span class="toolhead"><a href="/site/homepublic.nsf/../homepublic.nsf/Content/Contact+Us" class="toolhead">Contact Us</a></span>
+     <span class="toolhead"><a href="/site/homepublic.nsf/../homepublic.nsf/Content/Contact+Us" class="toolhead">Contact us</a></span>
 </layer></ilayer> 
 <script language="javascript">
 if (navigator.appName!="Netscape") document.write("</div>")
@@ -415,65 +417,85 @@ if (navigator.appName!="Netscape") document.write("</div>")
    <img src="/site/homepublic.nsf/AttachmentsByTitle/1pixel.gif/$File/1pixel.gif" width="1">
 </td>
 </tr><tr><td width="190"><table width="90" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr><td align="left" valign="top" colspan="3"><form method="post" action="/site/homepublic.nsf/SearchAgent?OpenAgent" name="search"><input type="hidden" name="ResponseURL" value="/site/homepublic.nsf/Content/SystemSearchResults"></form></td></tr><tr>
-<td align="left" valign="top" width="10"><table border="0" cellpadding="2" cellspacing="2"><tbody><tr><td valign="bottom">
-<font color="#000099"><i><font face="Arial, Helvetica, sans-serif" size="2">Search</font></i></font>
-</td></tr></tbody></table></td>
-<td align="left" valign="top" width="70"><input type="text" name="FreeText" size="15"></td>
-<td align="left" valign="top" width="10"><input type="image" src="/site/homepublic.nsf/AttachmentsByTitle/tnbt_go_button.gif/$FILE/tnbt_go_button.gif" border="0" width="28" height="27" value="" name="Search" alt="Search" onload="window.document.search.FreeText.value=''"></td>
-</tr>
-<tr><td align="left" valign="top" colspan="3"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="/site/homepublic.nsf/AttachmentsByTitle/1pixel.gif/$File/1pixel.gif" width="1"></td>
-<td width="1" bgcolor="#000099"><img src="/site/homepublic.nsf/AttachmentsByTitle/1pixel.gif/$File/1pixel.gif" width="1"></td></tr></tbody></table></td><td><table cellpadding="0" cellspacing="0" border="0" width="70"><tbody><tr><td><a href="/site/homepublic.nsf/../KnowledgeNavigator.nsf/Content/KB+Home+Page" <="" a=""><img src="/site/homepublic.nsf/AttachmentsByTitle/KN_logo.gif/$file/KN_logo.gif" align="left" border="0" name="Knowledge Navigator"></a></td></tr></tbody></table></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td align="left" valign="top" colspan="3">
+        <form method="get" action="http://search.weforum.org/cgi-bin/MsmFind.exe">
+        <input type="hidden" name="QUERY_ENCODING" value="UTF-8">
+        <input type="hidden" name="CFGNAME" value="MssFind.cfg">
+        <!--<input type="hidden" name="CFGNAME" value="MssFindPreview.cfg">-->
+        <!--<input type="hidden" name="RESMASK" value="MssResPreview.msk">-->
+        <!--<input type="hidden" name="proxystylesheet" value="weforum">-->
+    </form></td>
+   </tr>
+   <tr>
+     <td align="left" valign="top" width="10">
+       <table border="0" cellpadding="2" cellspacing="2">
+         <tbody><tr>
+           <td valign="bottom">
+             <font color="#000099">
+              <i><font face="Arial, Helvetica, sans-serif" size="2">Search</font></i>
+             </font>
+           </td>
+         </tr>
+        </tbody></table>
+     </td>
+     <td align="left" valign="top" width="70">
+        <input type="text" name="QUERY" size="15" maxlength="255" value="">
+     </td>
+     <td align="left" valign="top" width="10">
+        <input type="image" src="/site/homepublic.nsf/AttachmentsByTitle/tnbt_go_button.gif/$FILE/tnbt_go_button.gif" border="0" width="28" height="27" value="" name="Search" alt="Search"></td></tr><tr><td align="left" valign="top" colspan="3"></td></tr></tbody></table></td><td width="1" bgcolor="#FFFFFF"><img src="/site/homepublic.nsf/AttachmentsByTitle/1pixel.gif/$File/1pixel.gif" width="1"></td>
+<td width="1" bgcolor="#000099"><img src="/site/homepublic.nsf/AttachmentsByTitle/1pixel.gif/$File/1pixel.gif" width="1"></td></tr></tbody></table></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tbody><tr> 
     <td> <img src="/site/homepublic.nsf/AttachmentsByTitle/top_nav_bar_bottom_01.gif/$file/top_nav_bar_bottom_01.gif" width="50" height="20"></td>
     <td> <a href="/site/homepublic.nsf/../homepublic.nsf/Content/Homepage" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_home_on.gif/$file/tnbb_home_on.gif',1)"><img src="/site/homepublic.nsf/AttachmentsByTitle/tnbb_home_off.gif/$file/tnbb_home_off.gif" width="60" height="20" border="0" name="Image1"></a></td>
     <td> <img src="/site/homepublic.nsf/AttachmentsByTitle/top_nav_bar_bottom_03.gif/$file/top_nav_bar_bottom_03.gif" width="44" height="20"></td>
-    <td> <a href="/site/homepublic.nsf/../homepublic.nsf/Content/Initiatives+subhome" onmouseout="MM_swapImgRestore();hideBranch(Menus['Initiatives'])" onmouseover="MM_swapImage('Image2','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_initiatives_on.gif/$file/tnbb_initiatives_on.gif',1); showMenu('Initiatives', event, 'Image2')">
+
+<!-- Initiatives Subhome -->
+    <td> <a href="/site/homepublic.nsf/../homepublic.nsf/Content/Initiatives+subhome" onmouseout="MM_swapImgRestore();//hideBranch(Menus['Initiatives'])" onmouseover="MM_swapImage('Image2','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_initiatives_on.gif/$file/tnbb_initiatives_on.gif',1); //showMenu('Initiatives', event, 'Image2')">
 <img src="/site/homepublic.nsf/AttachmentsByTitle/tnbb_initiatives_off.gif/$file/tnbb_initiatives_off.gif" width="86" height="20" border="0" name="Image2"></a></td>
 
-    <td>
+    
 <!-- Events Subhome -->
-    <a href="/site/homepublic.nsf/../homepublic.nsf/Content/Events+subhome" onmouseout="MM_swapImgRestore(); hideBranch(Menus['Events'])" onmouseover="MM_swapImage('Image3','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_events_on.gif/$file/tnbb_events_on.gif',1);showMenu('Events', event, 'Image3')">
+    <td><a href="/site/homepublic.nsf/../homepublic.nsf/Content/Events+subhome" onmouseout="MM_swapImgRestore(); //hideBranch(Menus['Events'])" onmouseover="MM_swapImage('Image3','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_events_on.gif/$file/tnbb_events_on.gif',1);//showMenu('Events', event, 'Image3')">
 <img src="/site/homepublic.nsf/AttachmentsByTitle/tnbb_events_off.gif/$file/tnbb_events_off.gif" width="68" height="20" border="0" name="Image3"></a></td>
 
     <td>
 <!-- Media Centre -->
- <a href="/site/homepublic.nsf/../homepublic.nsf/Content/Media+Centre+Subhome" onmouseout="MM_swapImgRestore(); hideBranch(Menus['Media Centre'])" onmouseover="MM_swapImage('Image4','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_media_on.gif/$file/tnbb_media_on.gif',1);showMenu('Media Centre', event, 'Image4')">
-<img src="/site/homepublic.nsf/AttachmentsByTitle/tnbb_media_off.gif/$file/tnbb_media_off.gif" width="103" height="20" border="0" name="Image4"></a></td>
-    <td> 
+ <a href="/site/homepublic.nsf/../homepublic.nsf/Content/Media+Centre+Subhome" onmouseout="MM_swapImgRestore(); //hideBranch(Menus['Media Centre'])" onmouseover="MM_swapImage('Image4','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_media_on.gif/$file/tnbb_media_on.gif',1);//showMenu('Media Centre', event, 'Image4')">
+<img src="/site/homepublic.nsf/AttachmentsByTitle/tnbb_media_off.gif/$file/tnbb_media_off.gif" height="20" border="0" name="Image4"></a></td>
+     
 
 <!-- About the Forum Subhome -->
-<a href="/site/homepublic.nsf/../homepublic.nsf/Content/About+the+Forum+Subhome" onmouseout="MM_swapImgRestore(); hideBranch(Menus['About Forum'])" onmouseover="MM_swapImage('Image5','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_about_on.gif/$file/tnbb_about_on.gif',1);showMenu('About Forum', event, 'Image5')">
-<img src="/site/homepublic.nsf/AttachmentsByTitle/tnbb_about_off.gif/$file/tnbb_about_off.gif" width="126" height="20" border="0" name="Image5"></a></td>
+<td>
+<a href="/site/homepublic.nsf/../homepublic.nsf/Content/About+the+Forum+Subhome" onmouseout="MM_swapImgRestore(); //hideBranch(Menus['About Us'])" onmouseover="MM_swapImage('Image5','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_about_on.gif/$file/tnbb_about_on.gif',1);//showMenu('About Us', event, 'Image5')">
+<img src="/site/homepublic.nsf/AttachmentsByTitle/tnbb_about_off.gif/$file/tnbb_about_off.gif" height="20" border="0" name="Image5"></a></td>
 
-    <td> <a href="https://members.weforum.org/site/homeprivate.nsf?Open&amp;login" onmouseout="MM_swapImgRestore(); hideBranch(Menus['Private Area'])" onmouseover="MM_swapImage('Image6','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_members_on.gif/$file/tnbb_members_on.gif',1);showMenu('Private Area', event, 'Image6')"><img src="/site/homepublic.nsf/AttachmentsByTitle/tnbb_members_off.gif/$file/tnbb_members_off.gif" border="0" name="Image6"></a></td>
+<!-- KN -->
+<td>
+<a href="/site/homepublic.nsf/../knowledgenavigator.nsf/Content/KB+Home+Page" onmouseout="MM_swapImgRestore(); //hideBranch(Menus['KN'])" onmouseover="MM_swapImage('Image7','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_knavigator_on.gif/$file/tnbb_knavigator_on.gif',1);//showMenu('KN', event, 'Image7')">
+<img src="/site/homepublic.nsf/AttachmentsByTitle/tnbb_knavigator_off.gif/$file/tnbb_knavigator_off.gif" height="20" border="0" name="Image7"></a></td>
+
+
+<!-- members area -->
+    <td> <a href="https://members.weforum.org/site/homeprivate.nsf?Open&amp;login" onmouseout="MM_swapImgRestore(); //hideBranch(Menus['Private Area'])" onmouseover="MM_swapImage('Image6','','/site/homepublic.nsf/AttachmentsByTitle/tnbb_members_on.gif/$file/tnbb_members_on.gif',1);//showMenu('Private Area', event, 'Image6')"><img src="/site/homepublic.nsf/AttachmentsByTitle/tnbb_members_off.gif/$file/tnbb_members_off.gif" border="0" name="Image6"></a></td>
+
+
     <td width="100%" style="background-image:url(/site/homepublic.nsf/AttachmentsByTitle/top_nav_bar_bottom_09.gif/$file/top_nav_bar_bottom_09.gif);background-repeat:repeat-x">&nbsp;</td>
-  </tr>
-</tbody></table>
-<script>
-function GetDomainName(hname)
-{
-alert (hname);
-if (hname="www.weforum.org")
-  return "212.133.26.10"
-else
-  return hname
-}
-</script>
-<!--<a href="javascript:window.location.href='https://'+GetDomainName(window.location.hostname)+'/site/homeprivate.nsf?Open&login';"
-old version:
-<a href="https://212.133.26.10/site/homeprivate.nsf?Open&login" --><script>
+</tr></tbody></table>
+
+<!-- previously for Akamai 
+style="background-image:url(http://mirror.weforum.org.edgesuite.net/site/homepublic.nsf/AttachmentsByTitle/top_nav_bar_bottom_09.gif/$file/top_nav_bar_bottom_09.gif);background-repeat:repeat-x">&nbsp;</td>--><script>
 var areaList = new Array();
 var srcList = new Array();
 areaList ["Initiatives"] = "Image2";
 areaList ["Events"] = "Image3";
 areaList ["Media Centre"] = "Image4";
-areaList ["About the Forum"] = "Image5";
+areaList ["About Us"] = "Image5";
 areaList ["Members Area"] = "Image6";
 srcList ["Initiatives"] = '/site/homepublic.nsf/AttachmentsByTitle/tnbb_initiatives_on.gif/$file/tnbb_initiatives_on.gif';
 srcList ["Events"] = '/site/homepublic.nsf/AttachmentsByTitle/tnbb_events_on.gif/$file/tnbb_events_on.gif';
 srcList ["Media Centre"] =  '/site/homepublic.nsf/AttachmentsByTitle/tnbb_media_on.gif/$file/tnbb_media_on.gif';
-srcList ["About the Forum"] =  '/site/homepublic.nsf/AttachmentsByTitle/tnbb_about_on.gif/$file/tnbb_about_on.gif';
+srcList ["About Us"] =  '/site/homepublic.nsf/AttachmentsByTitle/tnbb_about_on.gif/$file/tnbb_about_on.gif';
 srcList ["Members Area"] =  '/site/homepublic.nsf/AttachmentsByTitle/tnbb_members_on.gif/$file/tnbb_members_on.gif';
 
 /* <!-- generate menus out of site framework START --> */
@@ -511,7 +533,7 @@ tmpstr= "<a href=\"javascript:OpenPrintPreview()\" onMouseOut=\"MM_swapImgRestor
 tmpstr += "onMouseOver=\"MM_swapImage(\'" + idtmp + "\',\'\',\'/site/homepublic.nsf/AttachmentsByTitle/print_on.gif/$file/print_on.gif\',1)\"><img ";
 tmpstr += "src=\"/site/homepublic.nsf/AttachmentsByTitle/print_off.gif/$file/print_off.gif\" width=\"15\" height=\"15\" border=\"0\" name=\"" + idtmp + "\"></a>";
 document.write(tmpstr);
-</script><a href="javascript:OpenPrintPreview()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('img0.5490259119818439','','/site/homepublic.nsf/AttachmentsByTitle/print_on.gif/$file/print_on.gif',1)"><img src="/site/homepublic.nsf/AttachmentsByTitle/print_off.gif/$file/print_off.gif" width="15" height="15" border="0" name="img0.5490259119818439"></a>
+</script><a href="javascript:OpenPrintPreview()" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('img0.90387826957532','','/site/homepublic.nsf/AttachmentsByTitle/print_on.gif/$file/print_on.gif',1)"><img src="/site/homepublic.nsf/AttachmentsByTitle/print_off.gif/$file/print_off.gif" width="15" height="15" border="0" name="img0.90387826957532"></a>
 </font></div></td><td width="20">&nbsp;</td>
 <td width="120">
 <div align="right"><font size="2" color="#003399" face="Arial, Helvetica, sans-serif">
@@ -523,7 +545,7 @@ tmpstr= "<a href=\"/site/homepublic.nsf/Content/Form+Send+A+Link\" onMouseOut=\"
 tmpstr += "onMouseOver=\"MM_swapImage(\'" + idtmp + "\',\'\',\'/site/homepublic.nsf/AttachmentsByTitle/send_on.gif/$file/send_on.gif\',1)\"><img ";
 tmpstr += "src=\"/site/homepublic.nsf/AttachmentsByTitle/send_off.gif/$file/send_off.gif\" width=\"15\" height=\"15\" border=\"0\" name=\"" + idtmp + "\"></a>";
 document.write(tmpstr);
-</script><a href="/site/homepublic.nsf/Content/Form+Send+A+Link" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('img0.9499442828135156','','/site/homepublic.nsf/AttachmentsByTitle/send_on.gif/$file/send_on.gif',1)"><img src="/site/homepublic.nsf/AttachmentsByTitle/send_off.gif/$file/send_off.gif" width="15" height="15" border="0" name="img0.9499442828135156"></a>
+</script><a href="/site/homepublic.nsf/Content/Form+Send+A+Link" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('img0.9370700296988437','','/site/homepublic.nsf/AttachmentsByTitle/send_on.gif/$file/send_on.gif',1)"><img src="/site/homepublic.nsf/AttachmentsByTitle/send_off.gif/$file/send_off.gif" width="15" height="15" border="0" name="img0.9370700296988437"></a>
 <!-- 
 <a href="/site/homepublic.nsf/Content/Form+Send+A+Link" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('ImageSend','','/site/homepublic.nsf/AttachmentsByTitle/send_on.gif/$file/send_on.gif',1)"><img src="/site/homepublic.nsf/AttachmentsByTitle/send_off.gif/$file/send_off.gif" width="15" height="15" border="0" name="ImageSend"></a>
 --></font></font></div></td></tr></tbody></table></td></tr><tr>
@@ -531,56 +553,57 @@ document.write(tmpstr);
 </tr>
 </tbody></table></p><p class="heading">Privacy Statement</p><p></p></td></tr><tr><td>
 
-<p><font face="Arial">Thank you for visiting the World Economic Forum's website and reviewing our privacy policy. The purpose of this privacy policy is to inform you of what kinds of information we may gather about you when you visit our website and how we may use that information.</font><br>
+<p><font face="Arial">Thank you for visiting the World Economic Forum's website and reviewing our privacy policy. The purpose of this privacy policy is to inform you of what kinds of information we may gather about you when you visit our website and how we may use that information. This Privacy Statement discloses the privacy practices for </font><a href="http://www.weforum.org"><u><font face="Arial">http://www.weforum.org</font></u></a><font face="Arial">, </font><a href="http://www.weforum.org"><u><font face="Arial">www.weforum.org</font></u></a><font face="Arial">, </font><a href="https://members.weforum.org"><u><font face="Arial">https://members.weforum.org</font></u></a><font face="Arial">, and </font><a href="https://community.weforum.org"><u><font face="Arial">https://community.weforum.org</font></u></a><font face="Arial">. </font><br>
 <br>
 <a href="#automatic"><b><font face="Arial">Automatic Data Collection</font></b></a><br>
 <a href="#collection"><b><font face="Arial">Collection and Release of Gathered Information</font></b></a><br>
+<a href="#secu"><b><font face="Arial">Security</font></b></a><br>
 <a href="#electronic"><b><font face="Arial">Electronic Mail</font></b></a><br>
-<a href="#cookies"><b><font face="Arial">Cookies</font></b></a>
+<a href="#cookies"><b><font face="Arial">Cookies</font></b></a><br>
+<a href="#links"><b><font face="Arial">Links</font></b></a><br>
 </p><p><br>
 <font face="Arial">Should you have any questions or concerns about the World Economic Forum's privacy statement and use of personal information, please feel free to contact us by e-mail at </font><a href="mailto:contact@weforum.org"><u><font face="Arial">contact@weforum.org</font></u></a><font face="Arial">.</font><br>
 <br>
 <br>
-<br>
-<br>
 <a name="automatic"><b><font face="Arial">Automatic Data Collection</font></b></a>
-</p><p><br>
-<font face="Arial">Like most web servers on the Internet, our servers collect and store all of the information that your web browser sends when it requests a web page, including:</font><br>
+<br>
+</p><p><font face="Arial">Like most Web servers on the Internet, our servers collect and store all of the information that your web browser sends when it requests a web page, including:</font><br>
 </p><ul>
-<li> <font face="Arial">the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet. For example, your host computer's name and its numerical address</font></li><li> <font face="Arial">the date and time you accessed our site</font></li><li> <font face="Arial">the Internet address of the web page that you came from</font></li><li> <font face="Arial">the page you requested from our site and the number of characters sent to your computer</font></li><li> <font face="Arial">the information your web browser software sends as its so-called "User Agent," which typically identifies the browser software and may also indicate the operating system and type of CPU used in your personal computer</font></li></ul><font face="Arial">The World Economic Forum periodically summarizes and analyzes these log files to learn how visitors use content on the site. This information is used to allocate resources effectively and to improve the content, organization and performance of our site.</font><br>
+<li> <font face="Arial">the name, domain, and numerical internet address of the "host" computer (typically a computer belonging to your Internet Service Provider and not your personal computer) from which you access the Internet. For example, your host computer's name and its numerical address</font></li><li> <font face="Arial">the date and time you accessed our site</font></li><li> <font face="Arial">the Internet address of the web page that you came from</font></li><li> <font face="Arial">the page you requested from our site and the number of characters sent to your computer</font></li><li> <font face="Arial">the information your web browser software sends as its so-called "User Agent," which typically identifies the browser software and may also indicate the operating system and type of CPU used in your personal computer</font></li></ul><font face="Arial">The World Economic Forum periodically summarizes and analyzes these log files to learn how visitors use content on the site. This information is used to allocate resources effectively and to improve the content, organization and performance of our site. This process does not collect, store or use personally-identifying information such as name, address, telephone number or e-mail address.</font><br>
+<br>
+<br><a href="#top"><img src="/site/homepublic.nsf/AttachmentsByTitle/back_to_top/$FILE/back_to_top.gif" align="left" border="0"></a>
 <br>
 <br>
 <br>
-
-<p><a name="collection"><b><font face="Arial">Collection and Release of Gathered Information</font></b></a> 
-</p><p><br>
-<font face="Arial">We want to make it clear that we will not obtain personal identifying information about you when you visit our website, unless you choose to provide such information to us. Except in the course of officially authorized law enforcement investigations, or in the event of a suspected attempt to deliberately circumvent our system's security with the intent to gain unauthorized access or to do physical damage (for example, an attack by hackers), we do not attempt to identify individual users or share any information we receive with any parties outside of the World Economic Forum.</font><br>
+<br>
+<a name="collection"><b><font face="Arial">Collection and Release of Gathered Information</font></b></a><br><br><font face="Arial">It is the policy of the World Economic Forum to collect only that personally-identifying information (such as name, postal address, e-mail address, telephone number) that visitors to the World Economic Forum's website knowingly and voluntarily provide by completing one of the forms on the website. If you do provide personally-identifying information through one of our forms, that information may be shared with our finance and logistics partners and providers, who are contractually permitted to use such information solely in connection with organizing and conducting World Economic Forum activities. Should you register for one of the World Economic Forum activites, your contact information will be displayed to other participants of that activity for networking purposes, within the private Members Area. You may view and edit that information through your personal page within the Members Area.</font><br><br><font face="Arial">The World Economic Forum is the sole owner of the information collected on this site.  We will not sell, share or rent this information to others in ways different from what is disclosed in this statement. The World Economic Forum does not collect, save or store such personally-identifying information from our visitors who just browse through our website without completing and e-mailing any forms, and does not attempt to identify users or share user information with any parties outside of the World Economic Forum, except as described above, in the event of a suspected attempt to deliberately circumvent our system's security with the intent to gain unauthorized access to or to do physical damage (for example, an attack by hackers), and as required in the course of officially authorized law enforcement investigations.</font><br>
+<br>
+<br><a href="#top"><img src="/site/homepublic.nsf/AttachmentsByTitle/back_to_top/$FILE/back_to_top.gif" align="left" border="0"></a><br><br>
 <br>
 <br>
-<a name="electronic"><b><font face="Arial">Electronic Mail</font></b></a><font face="Arial"> </font>
-</p><p><br>
-<font face="Arial">When you send us personal identifying information via e-mail (that is, in a message containing a question or comment, or by filling out a form that e-mails us this information), we use it to respond to your requests. We may forward your e-mail to other employees of the World Economic Forum who are better able to answer your questions. We do not retain or distribute lists of e-mail addresses to any parties outside of the World Economic Forum. In no event, do we distribute lists of e-mail addresses to any outside parties. Information collected via e-mail will be retained at our discretion in a directly readable form as long as necessary to complete our response.</font><br>
-<br>
-<br>
-<a name="cookies"><b><font face="Arial">Cookies</font></b></a><font face="Arial"> </font>
-</p><p><br>
-<font face="Arial">A cookie is simply a small piece of information that a web server asks your browser to store on your local computer, and then later your browser presents this information to the web server. In its simplest form, a cookie is just an identifying number.</font><br>
-<br>
-<br>
-<font face="Arial">The World Economic Forum uses cookies for anonymous visitor tracking. The World Economic Forum web server assigns each visitor a unique numerical ID. All requests for pages are tagged with that ID, and by analyzing log files, we can determine how many unique visitors used the site.</font><br>
-<br>
-<br>
-<font face="Arial">We do not know the identity of a person based on the numerical ID. The cookies used on our website do not contain any personal information about visitors, nor are they used to look up personal information about visitors. Even if you have entered information about yourself in one of our registration forms, we do not relate that information to the cookie data.</font><br>
+<a name="secu"><b><font face="Arial">Security</font></b></a><br><br><font face="Arial">When users submit sensitive information via the Website (such as credit card numbers or social security numbers), that information is encrypted and is protected with SSL encryption software. </font><br>
 <br>
 <br>
 <br>
-<font face="Arial">By using this site, you signify your agreement with the World Economic Forum's privacy policy. We reserve the right, at our discretion, to change, modify, add or remove portions of this policy at any time. Your continued use of this website following changes to these terms means you accept those changes.</font></p></td></tr><tr><td></td></tr></tbody></table>
+<br>
+<a name="electronic"><b><font face="Arial">Electronic Mail</font></b></a><br><br><font face="Arial">When you send us personal identifying information via e-mail (that is, in a message containing a question or comment, or by filling out a form that e-mails us this information), we use it to respond to your requests. We may forward your e-mail to other employees of the World Economic Forum who are better able to answer your questions. We do not retain or distribute lists of e-mail addresses to any parties outside of the World Economic Forum. In no event, do we distribute lists of e-mail addresses to any outside parties. Information collected via e-mail will be retained at our discretion in a directly readable form as long as necessary to complete our response.</font><br>
+<br>
+<br><a href="#top"><img src="/site/homepublic.nsf/AttachmentsByTitle/back_to_top/$FILE/back_to_top.gif" align="left" border="0"></a>
+<br><br>
+<br><br>
+<a name="cookies"><b><font face="Arial">Cookies</font></b></a><br><br><font face="Arial">A cookie is simply a small piece of information that a web server asks your browser to store on your local computer, and then later your browser presents this information to the web server. In its simplest form, a cookie is just an identifying number.</font><br><br><font face="Arial">The World Economic Forum uses cookies for anonymous visitor tracking. The World Economic Forum web server assigns each visitor a unique numerical ID. All requests for pages are tagged with that ID, and by analyzing log files, we can determine how many unique visitors used the site.</font><br><br><font face="Arial">We do not know the identity of a person based on the numerical ID. The cookies used on our website do not contain any personal information about visitors, nor are they used to look up personal information about visitors. Even if you have entered information about yourself in one of our registration forms, we do not relate that information to the cookie data.</font><br><br><font face="Arial">By using this site, you signify your agreement with the World Economic Forum's privacy policy. We reserve the right, at our discretion, to change, modify, add or remove portions of this policy at any time. Your continued use of this website following changes to these terms means you accept those changes.</font><br>
+<br>
+<br><a href="#top"><img src="/site/homepublic.nsf/AttachmentsByTitle/back_to_top/$FILE/back_to_top.gif" align="left" border="0"></a><br>
+<br><br><br>
+<a name="links"><b><font face="Arial">Links to Other Websites</font></b></a><br><br><font face="Arial">Our Website contains links to other websites that are not operated or maintained by the World Economic Forum and are not covered by this Privacy Statement.  Visitors should be aware that the links on this Website are provided only for your convenience. The World Economic Forum has no control over, makes no promises or warranties of any kind with regard to, and has no responsibility or liability for, the content of any other websites or their privacy policies, their use of cookies, or the way they collect, save, store or use information. You should review the privacy policy of each website you visit.</font><br>
+<br>
+<br><a href="#top"><img src="/site/homepublic.nsf/AttachmentsByTitle/back_to_top/$FILE/back_to_top.gif" align="left" border="0"></a><br><br></td></tr><tr><td></td></tr></tbody></table>
 
 </td>
 
 
 <!-- middle gutter -->
-<td width="10" height="10"><img src="/site/homepublic.nsf/AttachmentsByTitle/spacer.gif/$FILE/spacer.gif" width="10" height="10"></td><td valign="top" width="200"><table><tbody><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table></td>
+<td width="10" height="10"><img src="/site/homepublic.nsf/AttachmentsByTitle/spacer.gif/$FILE/spacer.gif" width="10" height="10"></td><td valign="top" width="200"><table><tbody><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr><tr><td></td></tr></tbody></table></td>
 </tr></tbody></table>
 </td></tr>
 </tbody></table>
@@ -589,56 +612,77 @@ document.write(tmpstr);
 <tbody><tr><td width="100%" height="10">
 <img src="/site/homepublic.nsf/AttachmentsByTitle/spacer.gif/$FILE/spacer.gif" width="100%" height="10">
 </td></tr></tbody></table>
-<!-- ***************************************************************************************************************page body table end -->
-<table width="100%" border="0" cellpadding="0" cellspacing="0" vspace="0" hspace="0" bgcolor="#FFFFFF">
+<!-- ***************************************************************************************************************page body table end --><table width="100%" align="center" border="0" cellpadding="10" cellspacing="0" vspace="0" hspace="0" bgcolor="#FFFFFF">
 
-   <tbody><tr valign="top"> 
+  <tbody><tr valign="top"> 
 
-    <td width="50%">&nbsp;
-    </td>
+   <td width="100%">
 
-    <td width="450" align="center">
+     <table align="center" width="450" border="0" cellspacing="0">
 
-      <table align="center" width="450" border="0" cellspacing="0">
-
-         <tbody><tr valign="top"><!-- last modified date -->
-          <td width="50%" colspan="3"><div class="smallPrint" style="text-align:right;">Last updated: 27 May 2002</div>
-          </td>
-         </tr>
-
-        <tr> 
-          <td><img src="/icons/ecblank.gif" width="100%" height="2"></td>
-        </tr>
-
-        <tr> 
+      <tbody><tr valign="top" border="0"><!-- copyright and last modified date -->
+        <td width="50%"><div class="smallPrint" style="text-align:left;">Copyright © 2003 World Economic Forum</div></td>
+        <td width="50%"><div class="smallPrint" style="text-align:right;">Last updated: 29 August   2003</div></td>
+      </tr>
+      <tr><!-- space line --> 
+        <td colspan="3"><img src="/icons/ecblank.gif" width="100%" height="2"></td>
+      </tr>
+      <tr><!-- grey line --> 
           <td colspan="3"><img src="/site/homepublic.nsf/AttachmentsByTitle/grey_pixel.gif/$file/grey_pixel.gif" width="100%" height="2"></td>
-        </tr>
+      </tr>
+        
+        </tbody></table><table align="center" width="450" border="0" cellspacing="0"><!-- 3 statements --> 
+           <tbody><tr>
+              <td width="150"><a href="/site/homepublic.nsf/../homepublic.nsf/Content/Terms+of+use"><div class="smallPrint" style="text-align:left;">Terms of Use</div></a></td>
+              <td width="150"><a href="/site/homepublic.nsf/../homepublic.nsf/Content/Privacy+Statement"><div class="smallPrint" style="text-align:center;">Privacy Statement</div></a></td>
+              <td width="150"><a href="/site/homepublic.nsf/../homepublic.nsf/Content/About+this+site"><div class="smallPrint" style="text-align:right;">About this site</div></a></td>
+           </tr>
+        </tbody></table>
 
-        <tr> 
-          <td width="33%"><a href="/site/homepublic.nsf/../homepublic.nsf/Content/Terms+of+use"></a><div class="smallPrint"><a href="/site/homepublic.nsf/../homepublic.nsf/Content/Terms+of+use">Terms 
-            of Use</a></div></td>
-          <td width="33%"> 
-            <a href="/site/homepublic.nsf/../homepublic.nsf/Content/Privacy+Statement"><div class="smallPrint" style="text-align:center;">Privacy Statement</div></a>
-          </td>
-          <td width="33%"> 
-            <a href="/site/homepublic.nsf/../homepublic.nsf/Content/About+this+site"><div class="smallPrint" style="text-align:right">About this site</div></a>
-          </td>
-        </tr>
+     </td></tr></tbody></table>
 
-      </tbody></table>
+    
 
-    </td>
+ 
 
-    <td width="100%">&nbsp;
-    </td>
 
-  </tr>
 
-  <tr> 
-    <td colspan="3"><img src="/site/homepublic.nsf/AttachmentsByTitle/pixel.gif/$file/pixel.gif" width="100%" height="2"></td>
-  </tr>
 
-</tbody></table><iframe name="SiteStructure" src="_SystemSiteStructure" style="position:absolute;top:0;visibility:hidden"></iframe>
+<script language="JavaScript">
+	var wtl_loc = document.URL.indexOf('https:')==0?'https://a248.e.akamai.net/v/248/2120/1d/download.akamai.com/crs/lgsitewise.js':'http://crs.akamai.com/crs/lgsitewise.js';
+	document.write("<SCR" + "IPT Language = 'JavaScript' SRC = '" + wtl_loc + "'></SCR" + "IPT>");
+</script><script language="JavaScript" src="https://a248.e.akamai.net/v/248/2120/1d/download.akamai.com/crs/lgsitewise.js"></script>
+
+<script language="JavaScript">
+
+	var wtl_TagVer = 6;
+	var wtl_FWD = 1;
+	var wtl_url = document.URL;
+	var wtl_title = document.title;
+	var wtl_TagID = 144700;
+	var wtl_SID = "144700";
+	var wtl_Offset = "100";
+	WTL_TAG = new Image;
+	WTL_TAG.ID = "WTL_TAG";
+
+	var ORDER= "";
+	var SERVER= "";
+	var INVOICE= "";
+	var CARTVIEW= "";
+	var CARTADD= "";
+	var CARTREMOVE= "";
+	var CHECKOUT= "";
+	var CARTBUY= "";
+	var ADCAMPAIGN= "";
+
+	//wtl_Tag6(TAG,SID,wtl_url,wtl_title,"MainContentGroup,SubContentGroup");
+	wtl_Tag6(wtl_TagID,wtl_SID,wtl_url,wtl_title);
+
+</script>
+
+<noscript>
+<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S144700/button6.asp?tagver=6&si=144700&offset=100&fw=1&js=No&">
+</noscript><iframe name="SiteStructure" src="_SystemSiteStructure" style="position:absolute;top:0;visibility:hidden"></iframe>
 <layer id="SiteStructure" src="_SystemSiteStructure" top="0" visibility="HIDE"></layer>
 
 
