@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607225206id_/http%3A//www.fs.fed.us/links/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2000-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001020160600id_/http%3A//www.fs.fed.us/links/privacy.shtml) for the most accurate reproduction.*
 
 # USDA Forest Service
 
@@ -13,13 +13,13 @@
 
 4\. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. Information also may be used for authorized law enforcement investigations. Except for the above purposes, no other attempts are made to identify individual users or their usage habits. 
 
-5\. If you are commenting on a national forest management issue through this WWW site, your comments and personally identifying information may be made public pursuant to established regulation; for example, [36 CFR 215.6](http://law2.house.gov/cgi-bin/fastweb.exe?getdoc+cfrview+cfr08+10560+8++36%3Acite%2F3%20215.6). Similarly, if you are commenting about other regulatory, legal, or administrative processes, your comments and personally identifying information may be made public [(7 CFR Subpart B, Sec. 1.27](http://law2.house.gov/cgi-bin/fastweb.exe?getdoc+cfrview+cfr02+89+0++7%3Acite%20w%2F3%201.27). 
+5\. If you are commenting on a national forest management issue through this WWW site, your comments and personally identifying information may be made public pursuant to established regulation; for example,  36 CFR 215.6 . Similarly, if you are commenting about other regulatory, legal, or administrative processes, your comments and personally identifying information may be made public  ( 7 CFR Subpart B, Sec. 1.27 ) . 
 
 6\. If you have any questions or comments about the information presented here, please forward them to us: 
 
 USDA Forest Service   
-[FOIA/Privacy Staff](mailto:vlollis/wo@fs.fed.us)   
-Phone: 703-605-4596  
+[FOIA/PA Office](mailto:wo_foia@fs.fed.us)   
+Phone: 703-605-4913  
 Modified: 9/7/99  
 
 
@@ -30,4 +30,4 @@ Modified: 9/7/99
 
 **USDA Forest Service, National Headquarters**
 
-_Modified Friday, 09-Jul-1999 12:34:41 EDT_
+_Modified Wednesday, 04-Oct-2000 11:16:28 EDT_
