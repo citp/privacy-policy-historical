@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204195725id_/http%3A//www.educationplanet.com/us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615210952id_/http%3A//www.educationplanet.com/us/privacy.html) for the most accurate reproduction.*
 
 # Education Planet - Privacy Policy
 
@@ -44,4 +44,4 @@ Education Planet partners with a number of sites and companies to provide additi
 **Comments**  
 In case if you have any questions and feedback concerning the Education Planet privacy policy. Please send us your questions and comments to [support@educationplanet.com](mailto:support@educationplanet.com).
 
-Last updated 3/01/01
+Last updated 3/01/04 
