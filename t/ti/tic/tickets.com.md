@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217230639id_/http%3A//www.tickets.com/privacy_statement.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickets.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607191947id_/http%3A//tickets.com/privacy_statement.cgi) for the most accurate reproduction.*
 
 # Tickets.com - Privacy Statement
 
@@ -77,24 +77,6 @@ Information Line
 01625 545 745
 
 e-mail: [mail@dataprotection.gov.uk](mailto:%20mail@dataprotection.gov.uk)
-
-To notify
-
-01625 545 740
-
-e-mail: [mail@notification.demon.co.uk](mailto:%20mail@dataprotection.gov.uk)
-
-Switchboard
-
-01625 545 700
-
-Fax
-
-01625 524 510
-
-DX
-
-20819 Wilmslow
 
 
 
