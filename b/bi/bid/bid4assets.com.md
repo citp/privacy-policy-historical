@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204222137id_/http%3A//www.bid4assets.com/Help/legal/privacypolicy.cfm%3Fct%3DfooterPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4assets.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404192751id_/http%3A//www.bid4assets.com/Help/legal/privacypolicy.cfm%3Fct%3DfooterPrivacyPolicy) for the most accurate reproduction.*
 
 # Bid4Assets, Government Property Auctions, seized property bidding, Government Assets, Kmart Bankruptcy claim
 
@@ -36,7 +36,7 @@ Bid4Assets uses cookies in a limited way. Cookies enable us to deliver content s
 Some of our sellers and service affiliates use "cookies".  Because we do not control the privacy policies of these non-Bid4Assets Web sites to which we may provide hyperlinks, you should check the privacy policy of sites you visit if you have concerns about their use of cookies.
 
 **Personal Information** (top)   
-Our site's registration form may require you to give us contact information (such as your name and email address). Our site's registration form may require you to give us contact information (such as your name and email address). This information helps us customize your experience, tailor email alerts and notifications and qualify you to sell and/or bid on the site. You may opt out of receiving future e-mails by sending an email to [service@Bid4Assets.com](mailto:service@Bid4Assets.com)
+Our site's registration form may require you to give us contact information (such as your name and email address). This information helps us customize your experience, tailor email alerts and notifications and qualify you to sell and/or bid on the site. You may opt out of receiving future e-mails by sending an email to [service@Bid4Assets.com](mailto:service@Bid4Assets.com)
 
 **Survey Information Use** (top)   
 Bid4Assets conducts regular voluntary user surveys.  The data collected from these surveys is intended to help us effectively determine how to better serve our users. All information collected is kept confidential and will be used to analyze consumer satisfaction, so that we may improve our content and product offerings. 
