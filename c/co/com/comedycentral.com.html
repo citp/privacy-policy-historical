@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comedycentral.com privacy policy that was archived on 2004-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602215645id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comedycentral.com privacy policy that was archived on 2004-12-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041207042349id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>COMEDY CENTRAL: Privacy Policy</title>
@@ -20,16 +20,10 @@ body {
 
 
 <script src="/global.js"></script>
-<script src="/watermark.js"></script>
-
-<!-- fasdasdffbh luh 9 -->
 
 
 
-
-
-<!-- noooostyle header--> 
-
+<!-- nustyle header--> 
 	<style type="text/css">
 
 .schedtime {font-size: 11px;  color: #feba2f; font-weight: bold; text-decoration: none; font-family: sans-serif;}
@@ -68,6 +62,7 @@ A.nshopprice:ACTIVE {font-size: 9px; font-weight: bold; color: #fee380; text-dec
 	
 <script language="javascript">
 <!-- 
+
 
 var dcSite="comedycentral.mtvi";
 var mep1 = "";
@@ -191,13 +186,20 @@ _path=(document.location.pathname).toString();
 _search=(document.location.search).toString();
 stringUrl = _protocol + _host + _path +  _search;
 lios = _path.lastIndexOf("/");
-if(lios != -1){
+if(_path == "/"){ 
+   dc_zone = "index";
+} else {
    dc_zone  =  _path.substring(0,lios);
+}
+/*
+if(lios != -1 && _path.length > 1){
 } else {
    dc_zone  =  "index";
 }
+*/
 
 sec_cnt = 0;
+
 while(dc_zone.indexOf("/")!= -1){
    dc_zone = dc_zone.replace("/","_");
 }
@@ -267,17 +269,62 @@ var mep1="&"+"page="+daPage+keyVals+if_nt_screen+flash;//Add taxonomy key values
 
 
 //used for dart tags
+
+/* specialties */
+zonelist = new Array();
+zonelist["southpark"] = 1;
+zonelist["drawntogether"] = 1;
+zonelist["chappellesshow"] = 1;
+zonelist["dailyshow"] = 1;
+zonelist["crankyankers"] = 1;
+zonelist["reno911"] = 1;
+zonelist["insomniac"] = 1;
+zonelist["indecision"] = 1;
+zonelist["tv_shows"] = 1;
+zonelist["standup"] = 1;
+zonelist["games"] = 1;
+zonelist["timewasters"] = 1;
+zonelist["fanbase"] = 1;
+zonelist["thanxgiveaway"] = 1;
+
+
 var newskyad = "";
 var dartSec="";
-//alert(splitString);
 for(i=3; i<(splitString.length-1); i++){
    dartSec+="_" +splitString[i];
 }
 //dartSec=dartSec+  "_" + daPage;
 dartSec=zone + "_" + daPage;
 
-var zone=splitString[3];
-zone = dc_zone;
+pathparts = _path.split("/");
+
+
+
+if(dc_zone != "index"){
+   if(pathparts.length == 3){
+      dc_zone=pathparts[1];
+   } else {
+
+
+      firstlevel = pathparts[1];
+      secondlevel =splitString[2];
+
+      if(zonelist[secondlevel] == 1){
+        dc_zone = secondlevel;
+      } else {
+        dc_zone = firstlevel;
+      }
+
+   }
+}
+
+i = 0;
+
+if(dc_zone != "index"){
+  zone = dc_zone;
+}
+
+
 var dcSite="comedycentral.mtvi";
 
 // next line formerly known as rep.js
@@ -288,8 +335,15 @@ var br0=navigator.appName.indexOf("Microsoft")!=-1&&parseInt(navigator.appVersio
 
 
 
-<script language="javascript">
 
+
+
+
+<!-- comment -->
+
+
+
+<script language="javascript">
 function newImage(arg) {
 	if (document.images) {
 		rslt = new Image();
@@ -297,21 +351,21 @@ function newImage(arg) {
 		return rslt;
 	}
 }
-newImage("http://images.comedycentral.com/includes/flexnav/nav_22_o.gif");
-newImage("http://images.comedycentral.com/includes/flexnav/nav_23_o.gif");
-newImage("http://images.comedycentral.com/includes/flexnav/nav_24_o.gif");
-newImage("http://images.comedycentral.com/includes/flexnav/nav_25_o.gif");
-newImage("http://images.comedycentral.com/includes/flexnav/nav_26_o.gif");
-newImage("http://images.comedycentral.com/includes/flexnav/nav_27_o.gif");
-newImage("http://images.comedycentral.com/includes/flexnav/nav_28_o.gif");
-newImage("http://images.comedycentral.com/includes/flexnav/nav_29_o.gif");
-newImage("http://images.comedycentral.com/includes/flexnav/gifs/nav_buyitnow_roll.gif");
+newImage("/includes/flexnav/nav_22_o.gif");
+newImage("/includes/flexnav/nav_23_o.gif");
+newImage("/includes/flexnav/nav_24_o.gif");
+newImage("/includes/flexnav/nav_25_o.gif");
+newImage("/includes/flexnav/nav_26_o.gif");
+newImage("/includes/flexnav/nav_27_o.gif");
+newImage("/includes/flexnav/nav_28_o.gif");
+newImage("/includes/flexnav/nav_29_o.gif");
+newImage("/includes/flexnav/gifs/nav_buyitnow_roll.gif");
 
 function changeImages() {
 	//if (document.images && (preloadFlag == true)) {
 	if (document.images ) {
 		for (var i=0; i<changeImages.arguments.length; i+=2) {
-			document[changeImages.arguments[i]].src = 'http://images.comedycentral.com/includes/flexnav/' + changeImages.arguments[i+1];
+			document[changeImages.arguments[i]].src = '/includes/flexnav/' + changeImages.arguments[i+1];
 		}
 	}
 }
@@ -319,17 +373,17 @@ function changeImages() {
 
 <table width="745" border="0" cellspacing="0" cellpadding="0" bgcolor="#FEBA2F">
 	<tbody><tr>
-		<td colspan="16" bgcolor="#02023B"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="9" alt=""></td>
+		<td colspan="16" bgcolor="#02023B"><img src="/includes/flexnav/spacer.gif" width="9" height="9" alt=""></td>
 	</tr>
     <tr>
-        <td bgcolor="#02023B"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt=""></td>
-        <td colspan="15"><img src="http://images.comedycentral.com/includes/flexnav/frame_top.gif" width="736" height="9" alt="" border="0"></td>
+        <td bgcolor="#02023B"><img src="/includes/flexnav/spacer.gif" width="9" height="1" alt=""></td>
+        <td colspan="15"><img src="/includes/flexnav/frame_top.gif" width="736" height="9" alt="" border="0"></td>
     </tr>
     <tr>
         <td colspan="16" align="left">
             <table width="745" border="0" cellpadding="0" cellspacing="0">
                 <tbody><tr>
-                    <td bgcolor="#01023B" width="9"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt="" border="0"></td>
+                    <td bgcolor="#01023B" width="9"><img src="/includes/flexnav/spacer.gif" width="9" height="1" alt="" border="0"></td>
                     <td width="736" align="center" bgcolor="#FEBB2F">
 
 
@@ -338,11 +392,13 @@ function changeImages() {
 
 
 
+<script language="JavaScript">
+if (isNaN(document.axel)) {document.axel = Math.random() + ""; 
+ord = document.axel * 1000000000000000000;}
+var leadad = '<SCRIPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/' + dcSite + '/' + zone + ';dcopt=ist;sec=' + dartSec + ';tile=1;sz=728x90;ord=' + ord + '?"><\/SCRIPT>';
 
-
-
-<a href="/tv_shows/chappellesshow"><img src="http://images.comedycentral.com/includes/ads/468/Banner%20images/Tune In 468x60_15k_chpl_v3.gif" alt="Chappelle Season 2" border="0"></a>
- 
+document.write(leadad);
+</script>
 
 
 
@@ -350,46 +406,46 @@ function changeImages() {
 </td>
                 </tr>
                 <tr>
-                    <td bgcolor="#01023B"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt="" border="0"></td>
-                    <td bgcolor="#FEBB2F"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt="" border="0"></td>
+                    <td bgcolor="#01023B"><img src="/includes/flexnav/spacer.gif" width="9" height="1" alt="" border="0"></td>
+                    <td bgcolor="#FEBB2F"><img src="/includes/flexnav/spacer.gif" width="9" height="1" alt="" border="0"></td>
                 </tr>
             </tbody></table>
         </td>
     </tr>
 	<tr>
-        <td bgcolor="#02023B" rowspan="10"><img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt=""></td>
+        <td bgcolor="#02023B" rowspan="10"><img src="/includes/flexnav/spacer.gif" width="9" height="1" alt=""></td>
 
-		<td colspan="15" bgcolor="#FEBA2F"><img src="http://images.comedycentral.com/spacer.gif" width="736" height="9" alt=""></td>
+		<td colspan="15" bgcolor="#FEBA2F"><img src="/includes/flexnav/spacer.gif" width="736" height="9" alt=""></td>
 
 	</tr>
 	<tr>
-		<td rowspan="8" valign="top" bgcolor="#FEBA2F"><a href="/"><img src="http://images.comedycentral.com/includes/flexnav/nav_03.gif" width="118" height="124" alt="" border="0"></a></td>
-		<td colspan="13" bgcolor="#FEBA2F"><img src="http://images.comedycentral.com/spacer.gif" width="601" height="9" alt=""></td>
+		<td rowspan="8" valign="top" bgcolor="#FEBA2F"><a href="/"><img src="/includes/flexnav/nav_03.gif" width="118" height="124" alt="" border="0"></a></td>
+		<td colspan="13" bgcolor="#FEBA2F"><img src="/includes/flexnav/spacer.gif" width="601" height="9" alt=""></td>
 		<td>
-			<img src="http://images.comedycentral.com/includes/flexnav/nav_04.gif" width="17" height="9" alt=""></td>
+			<img src="/includes/flexnav/nav_04.gif" width="17" height="9" alt=""></td>
 	</tr>
 	<tr>
 		<td colspan="2">
 			<a href="/tv_shows/" onmouseover="changeImages('nav_05', 'nav_22_o.gif'); return true;" onmouseout="changeImages('nav_05', 'nav_05.gif'); return true;">
-				<img name="nav_05" src="http://images.comedycentral.com/includes/flexnav/nav_05.gif" width="70" height="14" border="0" alt=""></a></td>
+				<img name="nav_05" src="/includes/flexnav/nav_05.gif" width="70" height="14" border="0" alt=""></a></td>
 		<td>
-			<a href="/games/" onmouseover="changeImages('nav_06', 'nav_23_o.gif'); return true;" onmouseout="changeImages('nav_06', 'nav_06.gif'); return true;">
-				<img name="nav_06" src="http://images.comedycentral.com/includes/flexnav/nav_06.gif" width="51" height="14" border="0" alt=""></a></td>
+			<a href="/timewasters/games.jhtml" onmouseover="changeImages('nav_06', 'nav_23_o.gif'); return true;" onmouseout="changeImages('nav_06', 'nav_06.gif'); return true;">
+				<img name="nav_06" src="/includes/flexnav/nav_06.gif" width="51" height="14" border="0" alt=""></a></td>
 		<td>
 			<a href="http://jokes.com/" onmouseover="changeImages('nav_07', 'nav_24_o.gif'); return true;" onmouseout="changeImages('nav_07', 'nav_07.gif'); return true;">
-				<img name="nav_07" src="http://images.comedycentral.com/includes/flexnav/nav_07.gif" width="48" height="14" border="0" alt=""></a></td>
+				<img name="nav_07" src="/includes/flexnav/nav_07.gif" width="48" height="14" border="0" alt=""></a></td>
 		<td>
 			<a href="/timewasters/" onmouseover="changeImages('nav_08', 'nav_25_o.gif'); return true;" onmouseout="changeImages('nav_08', 'nav_08.gif'); return true;">
-				<img name="nav_08" src="http://images.comedycentral.com/includes/flexnav/nav_08.gif" width="94" height="14" border="0" alt=""></a></td>
+				<img name="nav_08" src="/includes/flexnav/nav_08.gif" width="94" height="14" border="0" alt=""></a></td>
 		<td colspan="2">
 			<a href="/standup/" onmouseover="changeImages('nav_09', 'nav_26_o.gif'); return true;" onmouseout="changeImages('nav_09', 'nav_09.gif'); return true;">
-				<img name="nav_09" src="http://images.comedycentral.com/includes/flexnav/nav_09.gif" width="68" height="14" border="0" alt=""></a></td>
+				<img name="nav_09" src="/includes/flexnav/nav_09.gif" width="68" height="14" border="0" alt=""></a></td>
 		<td>
 			<a href="/community/" onmouseover="changeImages('nav_10', 'nav_27_o.gif'); return true;" onmouseout="changeImages('nav_10', 'nav_10.gif'); return true;">
-				<img name="nav_10" src="http://images.comedycentral.com/includes/flexnav/nav_10.gif" width="65" height="14" border="0" alt=""></a></td>
+				<img name="nav_10" src="/includes/flexnav/nav_10.gif" width="65" height="14" border="0" alt=""></a></td>
 		<td colspan="3">
 			<a href="/shop/" onmouseover="changeImages('nav_11', 'nav_28_o.gif'); return true;" onmouseout="changeImages('nav_11', 'nav_11.gif'); return true;">
-				<img name="nav_11" src="http://images.comedycentral.com/includes/flexnav/nav_11.gif" width="33" height="14" border="0" alt=""></a></td>
+				<img name="nav_11" src="/includes/flexnav/nav_11.gif" width="33" height="14" border="0" alt=""></a></td>
 		<td rowspan="7"><img src="/includes/flexnav/nav_12.gif" width="26" height="115" alt=""></td>
 		<td width="146" height="115" rowspan="7" bgcolor="#00013B"><div style="height: 113px; width: 146px; overflow: hidden;" id="theshop"><table width="146" border="0" cellpadding="0" cellspacing="0">
 
@@ -397,7 +453,7 @@ function changeImages() {
 
 
 <!--?xml version="1.0" encoding="UTF-8"?-->
-<tbody><tr><td align="center" colspan="2"><div id="nshoptitle">SHOP EXCLUSIVE! SOUTH PARK CUSTOM WATCH</div></td></tr><tr><td class="nshopimage" valign="top"><a target="_newwin_" href="http://shop.comedycentral.com/family/index.jsp?categoryId=1772939&amp;cp=1080337"><img align="left" border="0" height="75" width="75" src="/shop/tout/images/shop-module-SPwatches-Group.gif" alt="Design your own watch. FREE personalized engraving!"></a></td><td class="nshopdesc" valign="top"><a target="_newwin_" href="http://shop.comedycentral.com/family/index.jsp?categoryId=1772939&amp;cp=1080337" class="nshopdesc">Design your own watch. FREE personalized engraving!</a></td></tr><tr><td valign="bottom" align="right"><a target="_newwin_" href="http://shop.comedycentral.com/family/index.jsp?categoryId=1772939&amp;cp=1080337" onmouseover="changeImages('nav_buy', 'gifs/nav_buyitnow_roll.gif'); return true;" onmouseout="changeImages('nav_buy', 'gifs/nav_buyitnow.gif'); return true;"><img name="nav_buy" border="0" src="/includes/flexnav/gifs/nav_buyitnow.gif"></a></td><td class="nshopprice" valign="bottom" align="center"><a target="_newwin_" href="http://shop.comedycentral.com/family/index.jsp?categoryId=1772939&amp;cp=1080337" class="nshopprice">FROM $34.99</a></td></tr>
+<tbody><tr><td align="center" colspan="2"><div id="nshoptitle">SOUTH PARK: THE PASSION OF THE JEW DVD</div></td></tr><tr><td class="nshopimage" valign="top"><a target="_newwin_" href="http://shop.comedycentral.com/entry.point?entry=1841950&amp;source=COM_AD:1841950:704_module "><img align="left" border="0" height="75" width="75" src="/shop/tout/images/shop-module-SPpassion.gif" alt="A profound story of courage and sacrifice. "></a></td><td class="nshopdesc" valign="top"><a target="_newwin_" href="http://shop.comedycentral.com/entry.point?entry=1841950&amp;source=COM_AD:1841950:704_module " class="nshopdesc">A profound story of courage and sacrifice. </a></td></tr><tr><td valign="bottom" align="right"><a target="_newwin_" href="http://shop.comedycentral.com/entry.point?entry=1841950&amp;source=COM_AD:1841950:704_module " onmouseover="changeImages('nav_buy', 'gifs/nav_buyitnow_roll.gif'); return true;" onmouseout="changeImages('nav_buy', 'gifs/nav_buyitnow.gif'); return true;"><img name="nav_buy" border="0" src="/includes/flexnav/gifs/nav_buyitnow.gif"></a></td><td class="nshopprice" valign="bottom" align="center"><a target="_newwin_" href="http://shop.comedycentral.com/entry.point?entry=1841950&amp;source=COM_AD:1841950:704_module " class="nshopprice">$16.99</a></td></tr>
 
 
 
@@ -409,19 +465,19 @@ function changeImages() {
 
 </tbody></table></div></td>
 		<td rowspan="7">
-			<img src="http://images.comedycentral.com/includes/flexnav/nav_13.gif" width="17" height="115" alt=""></td>
+			<img src="/includes/flexnav/nav_13.gif" width="17" height="115" alt=""></td>
 	</tr>
 	<tr>
 		<td colspan="11">
-			<img src="http://images.comedycentral.com/includes/flexnav/nav_14.gif" width="429" height="10" alt=""></td>
+			<img src="/includes/flexnav/nav_14.gif" width="429" height="10" alt=""></td>
 	</tr>
 	<tr>
-		<td rowspan="3" valign="top" bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/includes/flexnav/nav_15.gif" width="33" height="54" alt=""></td>
+		<td rowspan="3" valign="top" bgcolor="#FEBA2F"><a href="/tv_shows/tv_schedule.jhtml">
+			<img src="/includes/flexnav/nav_15.gif" width="33" height="54" alt="" border="0"></a></td>
 		<td colspan="9" bgcolor="#00013B">
-			<img src="http://images.comedycentral.com/includes/flexnav/nav_16.gif" width="384" height="3" alt=""></td>
+			<img src="/includes/flexnav/nav_16.gif" width="384" height="3" alt=""></td>
 		<td rowspan="3" valign="top" bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/includes/flexnav/nav_17.gif" width="12" height="54" alt=""></td>
+			<img src="/includes/flexnav/nav_17.gif" width="12" height="54" alt=""></td>
 	</tr>
 	<tr>
 		<td bgcolor="#00013b" width="383" height="35" colspan="8"><!--SCHEDULE MODULE GOES HERE--><div id="schedule" style="position:relative;">    <table cellspacing="0" cellpadding="0" width="383" border="0">
@@ -434,27 +490,6 @@ function changeImages() {
 
 
 
-
-
-
-            <td width="2" height="35"><img src="/includes/nav/spacer.gif" width="2" height="1" alt=""></td>
-            <td valign="top" width="93" height="35">
-      
-<a href="/tv_shows/lastcomicstanding" class="schedtitle">
-
-
-                <!-- <a href="/tv_shows/`cleanString.toLowerCase()`/" class="schedtitle"> -->
-<span class="schedtime">
-8:30<small>PM</small></span><br>
-
-Last Comic Standing
-  </a>
-  <!-- <span class="schedtitle"> --><!-- </span> -->
-  
-  
-  </td>
-		
-        
 
 
             <td width="2" height="35"><img src="/includes/nav/spacer.gif" width="2" height="1" alt=""></td>
@@ -480,14 +515,14 @@ South Park
             <td width="2" height="35"><img src="/includes/nav/spacer.gif" width="2" height="1" alt=""></td>
             <td valign="top" width="93" height="35">
       
-<a href="/tv_shows/southpark" class="schedtitle">
+<a href="/tv_shows/bluecollartv" class="schedtitle">
 
 
                 <!-- <a href="/tv_shows/`cleanString.toLowerCase()`/" class="schedtitle"> -->
 <span class="schedtime">
 10:00<small>PM</small></span><br>
 
-South Park
+Blue Collar TV
   </a>
   <!-- <span class="schedtitle"> --><!-- </span> -->
   
@@ -500,14 +535,34 @@ South Park
             <td width="2" height="35"><img src="/includes/nav/spacer.gif" width="2" height="1" alt=""></td>
             <td valign="top" width="93" height="35">
       
-<a href="/tv_shows/shortieswatchinshorties" class="schedtitle">
+<a href="/tv_shows/reno911" class="schedtitle">
 
 
                 <!-- <a href="/tv_shows/`cleanString.toLowerCase()`/" class="schedtitle"> -->
 <span class="schedtime">
 10:30<small>PM</small></span><br>
 
-Shorties Watchin' Shorties
+RENO 911!
+  </a>
+  <!-- <span class="schedtitle"> --><!-- </span> -->
+  
+  
+  </td>
+		
+        
+
+
+            <td width="2" height="35"><img src="/includes/nav/spacer.gif" width="2" height="1" alt=""></td>
+            <td valign="top" width="93" height="35">
+      
+<a href="/tv_shows/thedailyshowwithjonstewart" class="schedtitle">
+
+
+                <!-- <a href="/tv_shows/`cleanString.toLowerCase()`/" class="schedtitle"> -->
+<span class="schedtime">
+11:00<small>PM</small></span><br>
+
+The Daily Show with Jon Stewart
   </a>
   <!-- <span class="schedtitle"> --><!-- </span> -->
   
@@ -520,24 +575,27 @@ Shorties Watchin' Shorties
     </tbody></table>
     
 </div></td>
-		<td bgcolor="#00013B"><img src="http://images.comedycentral.com/includes/flexnav/nav_18.gif" width="1" height="35" alt=""></td>
+		<td bgcolor="#00013B"><img src="/includes/flexnav/nav_18.gif" width="1" height="35" alt=""></td>
 	</tr>
 	<tr>
 		<td colspan="5" bgcolor="#00013B">
-			<img src="http://images.comedycentral.com/spacer.gif" width="276" height="13" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="276" height="13" alt=""></td>
 		<td colspan="4" bgcolor="#00013B"><a href="/tv_shows/tv_schedule.jhtml" onmouseover="changeImages('nav_19', 'nav_29_o.gif'); return true;" onmouseout="changeImages('nav_19', 'nav_19.gif'); return true;">
-				<img name="nav_19" src="http://images.comedycentral.com/includes/flexnav/nav_19.gif" width="108" height="13" border="0" alt=""></a></td>
+				<img name="nav_19" src="/includes/flexnav/nav_19.gif" width="108" height="13" border="0" alt=""></a></td>
 	</tr>
 	<tr>
-		<td colspan="11" align="center" bgcolor="#FEBA2F" class="nticker"><a href="http://ad.doubleclick.net/clk;7950707;8320611;h?http://ad.doubleclick.net/clk;7959599;9066873;r?http://www.heineken.com/USA/download" target="_blank" class="nticker">AD: Music downloads on the house at Heineken.com
-</a>
+		<td colspan="11" align="center" bgcolor="#FEBA2F" class="nticker"><a href="http://www.comedycentral.com/tv_shows/drawntogether/" target="_top" class="nticker">Drawn Together: TV's First Animated Reality Show - Wed 10:30p / 9:30c</a>
+
+
+
+
 </td>
 	</tr>
 	<tr>
 		<td colspan="11" align="center" bgcolor="#FEBA2F">
             <table width="400" border="0" cellpadding="0" cellspacing="0">
                 <tbody><tr>
-                    <td colspan="3"><img src="http://images.comedycentral.com/includes/flexnav/gifs/nav_drop_top.gif" width="400" height="2" alt="" border="0"></td>
+                    <td colspan="3"><img src="/includes/flexnav/gifs/nav_drop_top.gif" width="400" height="2" alt="" border="0"></td>
                 </tr>
                 <tr>
                       <td align="right" bgcolor="#FEE380"><form action="/includes/flexnav/" name="tvjump" id="tvjump" style="display:inline;">
@@ -548,63 +606,66 @@ Shorties Watchin' Shorties
 <option value="/tv_shows/">---------------------------------</option>
 <option value="/tv_shows/">&nbsp;</option>
 <option value="/tv_shows/100greatest">100 Greatest Stand-Ups of All Time</option>
+<option value="/tv_shows/51greatestsmartasses">51 Greatest Smartasses</option>
 <option value="/tv_shows/banzai">Banzai</option>
 <option value="/tv_shows/barmitzvah/">Bar Mitzvah Bash!</option>
 <option value="/tv_shows/benstiller">The Ben Stiller Show</option>
 <option value="/tv_shows/bookofdavid/">The Book of David</option>
 <option value="/tv_shows/chappellesshow">Chappelle's Show</option>
-<option value="/tv_shows/clerks">Clerks</option>
 <option value="/tv_shows/comedycentralmovies">Comedy Central Movies</option>
 <option value="/tv_shows/comedycentralmovies/windycityheat/">&nbsp;&nbsp;Windy City Heat</option>
+<option value="/tv_shows/comedycentralmovies">&nbsp;&nbsp;Secret Stash</option>
 <option value="/tv_shows/comedycentralpresents">Comedy Central Presents</option>
 <option value="/tv_shows/roast">Comedy Central Roast of Denis Leary</option>
 <option value="/tv_shows/comicgroove">Comic Groove</option>
 <option value="/tv_shows/comicremix">Comic Remix</option>
 <option value="/tv_shows/commies">The Commies</option>
-<option value="/tv_shows/contestsearchlight">Contest Searchlight</option>
 <option value="/tv_shows/crankyankers">Crank Yankers</option>
 <option value="/tv_shows/thecritic">The Critic</option>
+<option value="/tv_shows/crossballs">Crossballs</option>
 <option value="/tv_shows/thedailyshowwithjonstewart">The Daily Show with Jon Stewart</option>
 <option value="/tv_shows/dilbert">Dilbert</option>
+<option value="/tv_shows/drawntogether/">Drawn Together</option>
 <option value="/tv_shows/duckman">Duckman</option>
 <option value="/tv_shows/heroesofcomedywomen">Heroes of Comedy: Women on Top</option>
 <!-- <option value="/tv_shows/heroesofblackcomedy">Heroes of Black Comedy</option> -->
 <option value="/tv_shows/heroesofjewishcomedy/">Heroes of Jewish Comedy</option>
 <option value="/standup/fridaynightstandup">Friday Night Stand-Up</option>
-<option value="/tv_shows/garyandmike">Gary &amp; Mike</option>
+<option value="/tv_shows/grahamnortoneffect">The Graham Norton Effect</option>
 <option value="/tv_shows/imwithbusey">I'm With Busey</option>
 <option value="/tv_shows/indecision2004/">Indecision 2004</option>
 <option value="/tv_shows/insomniac">Insomniac with Dave Attell</option>
 <option value="/tv_shows/jimbreuer">Jim Breuer: Hardcore</option>
+<option value="/tv_shows/jumpcuts">Jump Cuts</option>
 <option value="/tv_shows/kidnotorious">Kid Notorious</option>
 <option value="/tv_shows/thekidsinthehall">The Kids in the Hall</option>
-<option value="/tv_shows/conan">Late Night with Conan O'Brien</option>
 <option value="/tv_shows/madtv">MADtv</option>
 <option value="/tv_shows/themanshow">The Man Show</option>
 <option value="/tv_shows/oote/">Out On The Edge</option>
-<option value="/tv_shows/comedycentralmovies/pornandchicken/">Porn 'n Chicken</option>
 <option value="/tv_shows/premiumblend">Premium Blend</option>
 <option value="/tv_shows/primetimeglick">Primetime Glick</option>
-<option value="/tv_shows/reno911">Reno 911!</option>
+<option value="/tv_shows/redneckweekend">Redneck Weekend</option>
+<option value="/tv_shows/reno911">RENO 911!</option>
 <option value="/tv_shows/roast">Roast of Denis Leary</option>
 <option value="/tv_shows/shorties">Shorties Watchin' Shorties</option>
 <option value="/tv_shows/southpark">South Park</option>
-<option value="/tv_shows/sportsnight">Sports Night</option>
 <option value="/tv_shows/straightplanforthegayman">Straight Plan for the Gay Man</option>
+<option value="/tv_shows/swc/">Strangers With Candy</option>
 <option value="/tv_shows/sweetspot">The Sweet Spot</option>
-<option value="/thanx2003/">ThanXgiveaway</option>
+<option value="/thanxgiveaway/">ThanXgiveaway</option>
 <option value="/tv_shows/thatsmybush">That's My Bush!</option>
 <option value="/tv_shows/colinquinn/">Tough Crowd with Colin Quinn</option>
 <option value="/tv_shows/onemic">Tracy Morgan: One Mic</option>
 <option value="/tv_shows/travelsick">Travel Sick</option>
 <option value="/tv_shows/triggerhappytv">Trigger Happy TV</option>
 <option value="/tv_shows/tvfunhouse">TV Funhouse</option>
-<option value="/tv_shows/undergrads">Undergrads</option>
 <option value="/standup/templates/?s=uso">USO Comedy Tour</option>
+<option value="/tv_shows/wandadoesit">Wanda Does It</option>
 <option value="/tv_shows/wandasykes">Wanda Sykes: Tongue Untied</option>
 <option value="/tv_shows/wanderlust">Wanderlust</option>
 <option value="/tv_shows/whoselineisitanyway">Whose Line Is It Anyway?</option>
 <option value="/tv_shows/worldcomedytour/">World Comedy Tour</option>
+<option value="/tv_shows/worldstandsup/">The World Stands Up</option>
 <option value="/tv_shows/">&nbsp;</option>
 </select></form></td>
                       <td bgcolor="#FEE380"><img src="/images/spacer.gif" width="10" height="2" alt="" border="0"></td>
@@ -616,14 +677,23 @@ Shorties Watchin' Shorties
 <option value="/timewasters/games.jhtml">---------------------------------</option>
 <option value="/timewasters/games.jhtml">&nbsp;</option>
 <option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/chappellesshow/SkateBored.dcr&amp;gametype=GSHOCK">Chappelle's Show: Skate Bored</option>
-<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/straightplanforthegayman/fashionplate.swf">Get it Straight: Fashionplate</option>
-<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/insomniac/game/insomniac_preloader.swf">Insomniac: Bar Hopper</option>
-<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/insomniac/paperdoll.swf">Insomniac: My Dirty Dave Attell Doll</option>
-<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/themanshow/games/tms_darts.swf">The Man Show Bar Darts </option>
-<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/themanshow/games/TMSPoker.swf">The Man Show Juggy's Wild Poker </option>
-<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/reno911/game/shootinggallery.swf">Reno 911! Shooting Gallery</option>
-<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/roast/draft.swf">Roast Game</option>
-<option value="/games/gameplayer/index.jhtml?game=/tv_shows/shorties/babyhunt3000.swf">Shorties BabyHunt 3000 Game</option>
+<option value="/tv_shows/chappellesshow/sounds.jhtml">Chappelle's Show Sound Board</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/drawntogether/SoakIt.swf&amp;gametype=GFLASH">Drawn Together: Soak It!</option>
+<option value="/games/gameplayer/play.jhtml?game=/games/gameplayer/grahamagogo.swf">Graham-A-Go-Go</option>
+<option value="/games/gameplayer/index.jhtml?game=/tv_shows/grahamnortoneffect/wordgram.swf">Graham-O-Gram</option>
+<option value="/games/gameplayer/index.jhtml?game=/tv_shows/straightplanforthegayman/fashionplate.swf&amp;gametype=GFLASH">Get it Straight: Fashionplate</option>
+<option value="/games/gameplayer/index.jhtml?game=/tv_shows/indecision2004/game/whackem.swf&amp;gametype=GFLASH">Indecision 2004: Karl Rove's White House Whack 'Em</option>
+<option value="/games/gameplayer/index.jhtml?game=/tv_shows/indecision2004/game/Kerry-Man_pre.swf&amp;gametype=GFLASH">Indecision 2004: Kerry-Man</option>
+<option value="/tv_shows/indecision2004/scandal/">Indecision 2004: Scandal Generator</option>
+<option value="/games/gameplayer/index.jhtml?game=/tv_shows/insomniac/game/insomniac_preloader.swf">Insomniac: Bar Hopper</option>
+<option value="/games/gameplayer/index.jhtml?game=/tv_shows/insomniac/game/drunkherder/GAME.swf&amp;gametype=GFLASH">Insomniac: DrunkHerder</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/insomniac/paperdoll.swf&amp;gametype=GFLASH">Insomniac: My Dirty Dave Attell Doll</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/themanshow/games/tms_darts.swf&amp;gametype=GFLASH">The Man Show Bar Darts </option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/themanshow/games/TMSPoker.swf&amp;gametype=GFLASH">The Man Show Juggy's Wild Poker </option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/redneckweekend/pigout.swf&amp;gametype=GFLASH">Redneck Pigout</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/reno911/game/PTB_loader2.swf">RENO 911!: Petty Theft Bicycle Game</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/reno911/game/shootinggallery.swf&amp;gametype=GFLASH">RENO 911! Shooting Gallery</option>
+<option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/shorties/babyhunt3000.swf&amp;gametype=GFLASH">Shorties BabyHunt 3000 Game</option>
 <option value="/games/gameplayer/index.jhtml?game=/southparkgames/askchef/">South Park Ask Chef </option>
 <option value="/games/gameplayer/index.jhtml?game=/southparkgames/evil/">South Park Cartman vs. Evil Cartman </option>
 <option value="http://southparkstudios.com/games/create.html" target="_blank">South Park Create A Character</option>
@@ -631,12 +701,11 @@ Shorties Watchin' Shorties
 <option value="/games/gameplayer/index.jhtml?game=/southparkgames/shootup/">South Park Jimbo's Shooting Gallery </option>
 <option value="/games/gameplayer/index.jhtml?game=/southparkgames/playset/">South Park Mr. Hankey Construction Set</option>
 <option value="/games/gameplayer/index.jhtml?game=/southparkgames/mecha/">South Park Mecha Smash </option>
-<option value="/games/gameplayer/index.jhtml?game=/southparkgames/pinball/">South Park Pinball</option>
 <option value="/games/gameplayer/index.jhtml?game=/southparkgames/rescue/">South Park Rainforest Rescue</option> 
-<option value="/games/gameplayer/index.jhtml?game=/southparkgames/slider/">South Park Sliders</option>
 <option value="/games/gameplayer/index.jhtml?game=/tv_shows/southpark/timmay/">South Park Timmy Game</option>
 <option value="/games/gameplayer/index.jhtml?game=/southparkgames/animal/">South Park Wild Animal Thumb Jam </option>
 <option value="/games/gameplayer/index.jhtml?game=/southparkgames/whatswrong/">South Park: Something Wrong in South Park</option>
+<option value="http://www.southparkstudios.com/games/ultimate.html">South Park: Ultimate Fan Game</option>
 <option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/sweetspot/sweetspot.swf">Sweet Spot: Hack Attack!</option>
 <option value="/games/gameplayer/index.jhtml?game=http://www.comedycentral.com/tv_shows/triggerhappytv/trigger_wack_v2.swf">Trigger Happy: Whack-A-Fuzzy</option>
 <option value="/tv_shows/tvfunhouse/game.jhtml">TV Funhouse: Flush Hojo </option>
@@ -645,98 +714,96 @@ Shorties Watchin' Shorties
 <option value="/timewasters/games.jhtml">QUIZZES MAIN</option>
 <option value="/timewasters/games.jhtml">---------------------------------</option>
 <option value="/timewasters/games.jhtml">&nbsp;</option>
+<option value="/games/gameplayer/index.jhtml?game=/tv_shows/indecision2004/game/bushquiz.swf">Boy, Do I Know Bush!</option>
+<option value="/games/gameplayer/index.jhtml?game=/tv_shows/indecision2004/game/kerryquiz.swf">Boy, Do I Know Kerry!</option>
 <option value="/tv_shows/chappellesshow/quiz.jhtml">Chappelle's Show: Bullsh*t Factor</option>
 <option value="/tv_shows/themanshow/games/">The Man Show Decoder </option>
-<option value="/tv_shows/reno911/quiz.jhtml">Reno 911! Psych Test</option>
+<option value="/tv_shows/reno911/quiz.jhtml">RENO 911! Psych Test</option>
 <option value="/timewasters/games.jhtml">&nbsp;</option>
 <option value="/timewasters/">---------------------------------</option>
 <option value="/timewasters/">TIMEWASTERS MAIN</option>
 <option value="/timewasters/">---------------------------------</option>
 <option value="/timewasters/">&nbsp;</option>
 <option value="/ccrecords">CC Records</option>
+<option value="/wireless/">Comedy Central Wireless</option>
 <option value="/contest/winners/index.jhtml">Contest Winners</option>
 <option value="/ecards/">Get Carded!</option>
 <option value="/timewasters/joke-of-the-day/">Joke of the Day</option>
 <option value="http://www.jokes.com">Jokes.com</option>
-<option value="/timewasters/kc/">Karma Central</option>
-<option value="/timewasters/screensavers.jhtml">Screensavers</option>
-<option value="/thanx2003/">ThanXgiveaway</option>
+<option value="/thanxgiveaway/">ThanXgiveaway</option>
 <option value="/timewasters/">&nbsp;</option>
 <option value="/community/">---------------------------------</option>
 <option value="/community/">COMMUNITY MAIN</option>
 <option value="/community/">---------------------------------</option>
 <option value="/community/">&nbsp;</option>
-<option value="/community/chat.jhtml">Chat Transcripts</option>
-<option value="/community/">Member Directory Search</option>
-<!-- <option value="/community/index.jhtml?goto=boards">Message Boards</option> -->
+<option value="/members/join.jhtml">Register</option>
+<option value="/members/signin.jhtml">Sign In</option>
 <option value="/community/newsletters.jhtml">Newsletters</option>
 <option value="/community/">&nbsp;</option>
 <option value="/standup/">---------------------------------</option>
 <option value="/standup/">STAND-UP MAIN</option>
 <option value="/standup/">---------------------------------</option>
 <option value="/standup/">&nbsp;</option>
-<option value="/tv_shows/bookofdavid/">The Book of David</option>
-<!-- <option value="/standup/crashcourse">Comedy Crash Course Sweepstakes</option> -->
+<option value="/cclive/wandasykes">CCLive starring Wanda Sykes</option>
 <option value="/tv_shows/comedycentralpresents/">Comedy Central Presents</option>
 <option value="/standup/ccstage">Comedy Central Stage</option>
 <option value="/standup/fridaynightstandup/">Friday Night Stand-Up</option>
-<!-- <option value="/tv_shows/housearrest/">House Arrest</option> -->
-<option value="/laughriots/">Laugh Riots</option>
+<option value="http://www.comedycentral.com/standup/central/detail.jhtml?p=/comedians/o/patton_oswalt.xml">Patton Oswalt: No Reason to Complain</option>
 <option value="/tv_shows/premiumblend/">Premium Blend</option>
 <option value="/rxlaughter/">Rx Laughter</option>
-<option value="/webshows/spot/">Spotlight</option>
 <option value="/standup/central/">Stand-Up Central</option>
 <option value="/standup/showdown/">Stand-Up Showdown</option>
 <option value="/standup/templates/?s=uso">USO</option>
 <option value="/tv_shows/worldcomedytour/">World Comedy Tour</option>
+<option value="/tv_shows/worldstandsup/">The World Stands Up</option>
 <option value="/standup/">&nbsp;</option>
 </select>
 </form></td>
                 </tr>
                 <tr>
-                    <td colspan="3"><img src="http://images.comedycentral.com/includes/flexnav/gifs/nav_drop_bottom.gif" width="400" height="2" alt="" border="0"></td>
+                    <td colspan="3"><img src="/includes/flexnav/gifs/nav_drop_bottom.gif" width="400" height="2" alt="" border="0"></td>
                 </tr>
             </tbody></table>
 		</td>
 	</tr>
 	<tr>
 		<td colspan="15" bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="736" height="9" alt=""></td>
+		<img src="/includes/flexnav/spacer.gif" width="736" height="9" alt=""></td>
 	</tr>
 	<tr>
 		<td bgcolor="#02023B">
-			<img src="http://images.comedycentral.com/spacer.gif" width="9" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="9" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="118" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="118" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="33" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="33" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="37" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="37" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="51" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="51" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="48" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="48" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="94" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="94" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="46" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="46" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="22" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="22" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="65" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="65" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="20" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="20" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="1" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="1" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="12" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="12" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="26" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="26" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="146" height="1" alt=""></td>
+			<img src="/includes/flexnav/spacer.gif" width="146" height="1" alt=""></td>
 		<td bgcolor="#FEBA2F">
-			<img src="http://images.comedycentral.com/spacer.gif" width="17" height="1" alt=""></td>
-	</tr>
+			<img src="/includes/flexnav/spacer.gif" width="17" height="1" alt=""></td>
+</tr>
 </tbody></table>
 
    
@@ -758,7 +825,7 @@ Shorties Watchin' Shorties
               <tbody><tr> 
                 <td class="copy">
                 <br>
-   <span class="centralTitle">ONLINE PRIVACY STATEMENT</span> 
+   <span class="centralTitle">EFFECTIVE: August 9, 2004<br><br>ONLINE PRIVACY STATEMENT</span> 
    <br><br><span class="central">Comedy Partners ("Comedy Partners", "We" or 
     "Us") has created this Privacy Statement to demonstrate our firm commitment 
     to privacy. The following discloses our information gathering and dissemination 
@@ -975,9 +1042,19 @@ To remove your name from the Comedy Central database entirely including, but not
 
 
 
+<script language="JavaScript">
+
+if (isNaN(document.axel)) {document.axel = Math.random() + ""; 
+ord = document.axel * 1000000000000000000;}
+var skyad = '<SCRIPT language="JavaScript1.1" src="http://ad.doubleclick.net/adj/' + dcSite + '/' + zone + ';sec=' + dartSec + ';tile=2;sz=120x600;ord=' + ord + '?"><\/SCRIPT>';
+
+document.write(skyad);
+</script>
 
 
-<a href="http://www.comedycentral.com/tv_shows/shorties/"><img src="/includes/ads/skyscraper/scrapers/shorties_120x600_v1.gif" alt="Shorties v1" border="0"></a>
+
+
+
 
 
 
@@ -990,6 +1067,8 @@ To remove your name from the Comedy Central database entirely including, but not
 </tbody></table><br>
 
 
+<script src="/js/nc_tuhead.js"></script>
+
 <style type="text/css">
 .footer {font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; color: #000000; line-height: 150%}
 A.footer:LINK {font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; color: #01023B; text-decoration: none; line-height: 150%}
@@ -1001,7 +1080,7 @@ A.footer:HOVER {font-family: Arial, Helvetica, sans-serif; font-size: 10px; font
    <tbody><tr>
         <td bgcolor="#01023B"><img src="http://images.comedycentral.com/includes/images/spacer.gif" width="9" height="9" alt="" border="0"></td>
         <td valign="bottom" bgcolor="#01023B"><img src="http://images.comedycentral.com/includes/images/footer_left.gif" width="12" height="52" alt="" border="0"></td>
-        <td bgcolor="#FEBB2F" align="center" valign="middle" width="712" class="footer"><span class="footer"><a href="/index.jhtml" class="footer">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/help.jhtml" class="footer">FAQ/Feedback</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/privacy.jhtml" class="footer">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/terms.jhtml" class="footer">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.mtvncareers.com" target="_new" class="footer">Job Postings</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/mediakit/" class="footer">Advertising</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="javascript:openpopWindow('/registration/index_expanded.jhtml?getcc=yes&amp;destination=%2Findex.jhtml','reg','width=444,height=400,scrollbars=yes')" class="footer">Get Comedy Central</a></span><br><span class="footer">Copyright © 1995–2004 Comedy Central. All rights reserved.</span>
+        <td bgcolor="#FEBB2F" align="center" valign="middle" width="712" class="footer"><span class="footer"><a href="/index.jhtml" class="footer">Home</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/help.jhtml" class="footer">FAQ/Feedback</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/terms.jhtml" class="footer">Terms &amp; Conditions</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="http://www.mtvncareers.com" target="_new" class="footer">Job Postings</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/mediakit/" class="footer">Advertising</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/members/join.jhtml" class="footer">Get Comedy Central</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/help/privacy.jhtml" style="color:black;text-decoration:none;font-weight:bold;font-family: Arial, Helvetica, sans-serif; font-size: 11px;">Privacy Policy</a></span><br><span class="footer">Copyright © 1995–2004 Comedy Central. All rights reserved.</span>
         </td>
         <td valign="bottom" bgcolor="#01023B"><img src="http://images.comedycentral.com/includes/images/footer_right.gif" width="12" height="52" alt="" border="0"></td>
     </tr>
