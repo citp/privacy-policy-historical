@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607034119id_/http%3A//www.chronicle.com/about-help.dir/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chronicle.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217000614id_/http%3A//www.chronicle.com/help/privacy.htm) for the most accurate reproduction.*
 
 # The Chronicle: Privacy Statement
+
+  
+
 
 ### Privacy Statement
 
@@ -65,4 +68,4 @@ The Chronicle of Higher Education
 Washington, D.C. 20037  
 [phil.semas@chronicle.com](mailto:phil.semas@chronicle.com)
 
-Or see our complete information on [contacting _The Chronicle._](https://web.archive.org/about-help.dir/about.htm)
+Or see our complete information on [contacting _The Chronicle._](https://web.archive.org/help/contact.htm)
