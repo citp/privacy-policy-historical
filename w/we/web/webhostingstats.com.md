@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webhostingstats.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402113257id_/http%3A//zipsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingstats.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217044749id_/http%3A//www.zipsearch.com/privacy.html) for the most accurate reproduction.*
 
 # ZipSearch.com and Privacy Information
 
