@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zophar.net privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210133259id_/http%3A//www.zophar.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zophar.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603095026id_/http%3A//www.zophar.net/privacy.html) for the most accurate reproduction.*
 
 # Zophar's Domain: Privacy Policy
 
@@ -53,6 +53,6 @@ You can ask us whether we are keeping personal data about you by emailing [swamp
 9\. PRIVACY COMPLIANCE AND CONCERNS  
 If at any time you feel that this policy is not fair, illegal, outdated, or have an enquiry or concern, please contact us at the address given in Item 8 above, and include contact info.  
   
-Copyright ©1996-2003 Sam Michaels. All Rights Reserved.  
+Copyright ©1996-2004 Sam Michaels. All Rights Reserved.  
 Zophar's Domain is not affiliated with any company mentioned herein unless explicitly stated otherwise. The systems listed on this page are patented by their respective patent holders, and the names are trademarked by their respective trademark holders.  
 [Privacy Policy](https://web.archive.org/privacy.html)
