@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineauction.com privacy policy that was archived on 2000-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000523233607id_/http%3A//www.onlineauction.com/help/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineauction.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205105100id_/http%3A//www.onlineauction.com/help/privacy_policy.html) for the most accurate reproduction.*
 
 # Onlineauction.com - User Privacy Policy
 
@@ -23,4 +23,4 @@ Link Exchange: [http://www.msn.com/help/legal/privacy.htm](http://www.msn.com/he
 
 **Questions about Our Privacy Policy** or any dealings with Onlineauction.com may be sent to  [policies@onlineauction.com](mailto:policies@onlineauction.com)
 
-**Any Changes to Our Privacy Policy** will be posted and explained within our Site Announcements, linked from the Onlineauction.com homepage. Changes become effective 30 days after posting. 
+**Any Changes to Our Privacy Policy** will be posted and explained within our [Site Announcements](https://web.archive.org/announcement/index.html). Changes become effective 30 days after posting. 
