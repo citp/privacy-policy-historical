@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanoodle.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610130601id_/http%3A//kanoodle.com/privacy.cool) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanoodle.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207023100id_/http%3A//www.kanoodle.com/privacy.cool) for the most accurate reproduction.*
 
 # Kanoodle.com - Privacy Policy
 
@@ -39,7 +39,7 @@ Some advertisers or Web sites that have links on our site may use their own cook
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided.  
-Users can email [customersupport@kanoodle.com](mailto:customersupport@kanoodle.com)  
+Users can email [customersupport@kanoodle.com](mailto:customersupport@corp.kanoodle.com)  
 Users can send mail to the following postal address:  
 606 North French Rd.  
 Suite 6  
