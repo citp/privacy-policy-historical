@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssa.gov privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603174714id_/http%3A//www.ssa.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssa.gov privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208183953id_/http%3A//www.ssa.gov/privacy.html) for the most accurate reproduction.*
 
 # Social Security Online Privacy Policy
 
@@ -61,32 +61,13 @@ _**Our concern about sending personal information via email**_
 
 _**Our use of “cookies” and how it affects your visit to our website**_
 
-What is a “cookie”? A cookie is a small piece of text information that is sent to your computer – along with a webpage – when you access a website. Your computer will give the information on the cookie only to the computer that sent it and no other site can request it. 
-
-There are different types of cookies-- persistent, third party, and session.
-
-### PERSISTENT COOKIES
-
-  * Persistent cookies stay on your computer for an extended period of time and are used to collect information about how you use the Internet. A persistent cookie reports that information back to the website that placed the cookie on your computer. We do not use persistent cookies.
-
-
-
-### THIRD PARTY COOKIES
-
-  * Third party cookies are cookies placed on your computer by someone other than the person who owns the website. Information about how you use the Internet is reported back to the third party. Most often, Internet advertising organizations that have commercial agreements with a website are the third parties that place these cookies on your computer. We do not use or allow third party cookies.
-
-
-
-### SESSION COOKIES
-
-  * A session cookie is placed on your computer when you visit a website but is automatically deleted at the end of your visit. Session cookies do not track and report how you use the Internet.
-  * We do use session cookies for our searchable Frequently Asked Questions (FAQ) database ([ssa-custhelp.ssa.gov](http://ssa-custhelp.ssa.gov/)), to help you use the “Notification of Change” feature. The “Notification of Change” feature allows us to notify you of any change in the answer to a question you were interested in. This session cookie allows you to request multiple notifications without reentering your email address for each request.
-
-We do not track your SSA Online visiting habits except for the above mentioned statistical purposes (and even then, the information is not associated to you personally). 
-
+  * What is a "cookie"? A cookie is a small piece of text information that is sent to your computer – along with a webpage – when you access a website. Your computer will give the information on the cookie only to the computer that sent it and no other site can request it. There are different types of cookies-- persistent, third party, and session. ·
+  * We never used persistent or third party cookies and effective March 2002, we don’t use Session cookies. We do not track your SSA Online visiting habits. Even the statistical information mentioned above is completely anonymous.
 
 
 
 _**If you visit other websites**_
 
-Our website contains links to other federal agencies, international agencies, and private organizations. These websites are not within our control and may not follow the same privacy, security or accessibility policies. Once you link to another site you are subject to the policies of that site.
+  * Our website contains links to other federal agencies, international agencies, and private organizations. These websites are not within our control and may not follow the same privacy, security or accessibility policies. Once you link to another site you are subject to the policies of that site.
+
+
