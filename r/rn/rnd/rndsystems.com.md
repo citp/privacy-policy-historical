@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rndsystems.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202020814id_/http%3A//www.rndsystems.com/asp/g_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rndsystems.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401163013id_/http%3A//www.rndsystems.com/asp/g_privacy.asp) for the most accurate reproduction.*
 
 # R & D Systems - Privacy Policy
 
