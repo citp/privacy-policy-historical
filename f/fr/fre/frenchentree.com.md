@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frenchentree.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606030740id_/http%3A//frenchentree.com/fe-home/DisplayArticle.asp%3FID%3D88) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchentree.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208075803id_/http%3A//www.frenchentree.com/fe-home/DisplayArticle.asp%3FID%3D88) for the most accurate reproduction.*
 
 # Privacy Policy & Terms & Conditions: FrenchEntrée.com
 
@@ -7,15 +7,19 @@
 [Home](https://web.archive.org/fe-home/)  
 [Welcome](https://web.archive.org/fe-home/DisplayArticle.asp?ID=43)  
 [Search](https://web.archive.org/fe-search/)  
-[Contribute](https://web.archive.org/fe-contribute/)  
 [Discussion Forum](https://web.archive.org/fe-forum)  
 [The Directory](https://web.archive.org/fe-directory/)  
 [Free Newsletter](https://web.archive.org/fe-newsletter)  
-[Bookshop](https://web.archive.org/fe-bookshop/)  
+[Limousin Site](https://web.archive.org/france-limousin)  
+[Bookshop](http://books.global-investor.com/pages/home.htm?ginPtrCode=10294)  
+[Book Reviews](https://web.archive.org/fe-bookshop)  
 [Weather & Climate](https://web.archive.org/fe-home/DisplayArticle.asp?ID=120)  
 [Currency Converter](https://web.archive.org/fe-currency)  
 [Metric Converter](https://web.archive.org/fe-lavie/DisplayArticle.asp?ID=348)  
 [Property Zone](https://web.archive.org/fe-property)  
+[Properties for sale](https://web.archive.org/french-property-sales-france)  
+[French antiques](https://web.archive.org/french-antiques-for-sale)  
+[Food & shopping](https://web.archive.org/france-food-cuisine/home.asp)  
 [Finance Zone](https://web.archive.org/fe-finance/)  
 [Currency Zone](https://web.archive.org/fe-currency)  
 [Legal & Tax Zone](https://web.archive.org/fe-legal)  
@@ -26,9 +30,10 @@
 [Removals Zone](https://web.archive.org/fe-removals)  
 [La Vie Zone](https://web.archive.org/fe-lavie/)  
 [We Made It Zone](https://web.archive.org/fe-wemadeit)  
-[Advertise](https://web.archive.org/fe-home/DisplayArticle.asp?ID=60)  
+[Advertise](https://web.archive.org/fe-advertising)  
 [Feedback](https://web.archive.org/fe-home/DisplayArticle.asp?ID=61)  
 [Links to & from us](https://web.archive.org/fe-home/DisplayArticle.asp?ID=397)  
+[Link Directory](https://web.archive.org/fe-home/DisplayArticle.asp?ID=1384)  
 [About Us](https://web.archive.org/fe-home/DisplayArticle.asp?ID=43)  
 [Terms & Conditions](https://web.archive.org/fe-home/DisplayArticle.asp?ID=88)  
 [Private LogIn](https://web.archive.org/_system/_system/scripts/login.asp)  
@@ -105,19 +110,20 @@ at the time of any failure to observe.
 11.1 These terms are governed by and to be construed in accordance with English law.   
 11.2 Any disputes shall be subject to the exclusive jurisdiction of the English courts. We shall not be liable if the content of this website or any viewing of it by you is contrary to the laws applying in the place where you access this website.
 
-[FrenchEntrée Home Page](https://web.archive.org/fe-home/home.asp?r=40073)
+[FrenchEntrée Home Page](https://web.archive.org/fe-home/home.asp?r=11547)
 
 |  **French Property Tips** your **FREE** newsletter.   
-Type in your email to subscribe: Your email address is not provided to anyone else - see [Privacy Policy](https://web.archive.org/fe-home/DisplayArticle.asp?ID=88 "Privacy Policy & Terms & Conditions") for full details. 
+Type in your email to subscribe: Your email address is not provided to anyone else - see [Privacy Policy](https://web.archive.org/fe-home/DisplayArticle.asp?ID=88 "Privacy Policy & Terms & Conditions") for full details.   
+View [Previous Newsletters](https://web.archive.org/fe-newsletter/home.asp "French Property Newsletter")
 
 [
 
-](http://s0b.bluestreak.com/ix.e?hy&s=294760&a=215736 "http://s0b.bluestreak.com/ix.e?hy&s=294760&a=215736") |   
----  
-  
-## Contribute your news, views, hints, tips and more....
+](http://bpc.barclays.fr/ebn.ebn?pid=192&domain=site&rub=25&object=rubrique&id=25 "http://bpc.barclays.fr/ebn.ebn?pid=192&domain=site&rub=25&object=rubrique&id=25")
 
-**FrenchEntrée.com is a community site and welcomes new contributions from registered members.**
+[
 
-You can submit any type of contribution you like: articles, press releases, news, anecdotes, diaries, stories, hints, tips, feedback on something you've read on this site etc - just follow the on-screen instructions. We'll review your submission and get back in touch shortly. [How to contribute...](https://web.archive.org/fe-contribute/DisplayArticle.asp?ID=90 "Fire up your imagination and start typing...") For every accepted contribution we will allow you to select a book of your choice from the [Bookshop](https://web.archive.org/fe-bookshop/home.asp "Bookshop")  
-| 
+](https://web.archive.org/france-limousin/home.asp "Limousin") **Looking for property or planning a move to Limousin?** Check out the new FrenchEntrée [Limousin site...](https://web.archive.org/france-limousin/home.asp "Limousin")
+
+[
+
+](https://web.archive.org/fe-home/DisplayArticle.asp?ID=2200 "Buying Euros for French property")
