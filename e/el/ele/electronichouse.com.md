@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the electronichouse.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630100916id_/http%3A//electronichouse.com/default.asp%3FNodeId%3D1174) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronichouse.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209065112id_/http%3A//www.electronichouse.com/default.asp%3FNodeId%3D1174) for the most accurate reproduction.*
 
-# Privacy
+# Electronic House Magazine - Privacy
 
 Privacy: Our Commitment to You
 
@@ -26,3 +26,8 @@ EH Publishing takes every step to ensure that your information is treated secure
 
 **Information Continuity**  
 EH Publishing believes strongly in providing you with the ability to access and edit the personal information that you have provided. To update the information you've submitted to EH Publishing, or to deactivate your account, please [contact us](http://www.electronichouse.com/default.asp?NodeId=1574) or call 508-663-1500. 
+
+EH Publishing  
+100 Speen Street  
+Suite 200  
+Framingham, MA 01701 
