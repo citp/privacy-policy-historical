@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615120532id_/http%3A//www.surfnetkids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205150600id_/http%3A//www.surfnetkids.com/privacy.htm) for the most accurate reproduction.*
 
 # Surfing the Net with Kids: Privacy Policy
 
@@ -10,8 +10,8 @@ Opt-in customized mailing lists are managed by industry leader PostMasterDirect.
 
 Demographic information is used only in aggregate to provide advertisers with more information about the "Surfing the Net" audience. Any email addresses posted on the site (in user submitted posts on the bulletin board) are optional and are posted ONLY with the user's permission. 
 
-IP addresses and cookies are used to accurately serve banner ads, to assure that when you click on an ad, you are sent to the correct site -- and to insure that you are only served one pop-up window offering you free a newsletter subscription. With cookies turned off, you will get the pop-up offer EVERYTIME you visit the site. 
+IP addresses and cookies are used to accurately serve banner ads, to assure that when you click on an ad, you are sent to the correct site -- and to insure that you are only served one pop-up window offering you a free newsletter subscription. With cookies turned off, you will get the pop-up offer EVERYTIME you visit the site. 
 
-"Surfing the Net with Kids" works with Flycast, a third party that serves ads to this site and in the newsletter. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please read [Flycast's Privacy Policy](https://web.archive.org/cgi-local/go.cgi?http://www.flycast.com/about_us/about-privacy.html). 
+"Surfing the Net with Kids" works with Engage Media, a third party that serves ads to this site and in the newsletter. To find out more about how Engage Media manages the privacy of information in conjunction with serving ads on this site, please read [Engage Media's Privacy Policy](https://web.archive.org/cgi-local/go.cgi?http://www.engage.com/privacy/privacy.htm). 
 
 "Surfing the Net" is not responsible for the content of sites outside of its network. 
