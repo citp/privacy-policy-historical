@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the albany.edu privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603222843id_/http%3A//www.albany.edu/webmaster/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the albany.edu privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206090459id_/http%3A//www.albany.edu/webmaster/privacy_policy.html) for the most accurate reproduction.*
 
 # University at Albany Privacy Policy
 
