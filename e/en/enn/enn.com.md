@@ -1,60 +1,42 @@
-> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605203310id_/http%3A//www.enn.com/aboutenn/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enn.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206233721id_/http%3A//www.enn.com/about_enn_privacy_policy.html) for the most accurate reproduction.*
 
-# About ENN
+# ENN: Environmental News Network [[ ENN Privacy Policy ]]
 
-Default Page Manager ****
+  
 
-**Privacy Policy**
 
-Read ENN.com in complete confidence that your privacy will be protected. If you have any questions or concerns, please do not hesitate to contact us at the number listed below.
+Privacy Policy
 
-When a user subscribes to ENN's Daily E-mail service, personal information and e-mail address are used for subscriber maintenance only. At no point will this information be disclosed to a third party or be used by ENN for any other purpose. Email addresses are only used to distribute the daily email newsletter the users by their request.
+Read ENN.com in complete confidence that your privacy will be protected. If you have any questions or concerns, please do not hesitate to [contact us](https://web.archive.org/web/20041206233721id_/http%3A//www.enn.com/contactservice.html).
 
-The user can view or modify personal subscription information by logging into a secure server with a username and password they provided at the time of sign up. A user can unsubscribe to the daily email service at any time by using the following choices: logging into the subscriber profile and choosing the option to no longer receive the email, the unsubscribe option on the home page, or by returning the email and stating they would no long like to receive the daily email service. ENN will notify its subscribers of any changes to the privacy policy or relevant information by posting it on the site and the daily emails. All ENN users are encouraged to contact our office with any questions or comments.
+When a user subscribes to ENN's Daily E-mail Newsletter, personal information and e-mail address are used for subscriber maintenance only. At no point will this information be disclosed to a third party or be used by ENN for any other purpose. Email addresses are only used to distribute the daily email newsletter the users by their request. 
 
-Log file information is collected by ENN including IP addresses, domain name, pages visited, access times and browser type. This information is not shared with any third party groups. The log file data is used only for in house marketing purposes.
+The user can view or modify personal subscription information by logging into a secure server with a username and password they provided at the time of sign up. A user can unsubscribe to the daily email service at any time by using the following choices: logging into the subscriber profile and choosing the option to no longer receive the email, the unsubscribe option on the home page, or by returning the email and stating they would no long like to receive the daily email service. ENN will notify its subscribers of any changes to the privacy policy or relevant information by posting it on the site and the daily emails. All ENN users are encouraged to contact our office with any questions or comments. 
 
-ENN also collects information via polls, questionnaires, surveys and threaded discussion groups. Participants in the discussion groups can remain anonymous or omit email addresses. Chat groups and forums are considered public information and by adding email addresses may increase the possibilities of receiving unsolicited mail by the public but not from ENN. We highly recommend that the user exercise caution when deciding to disclose personal information in such open forums. Information we collect via polls and surveys is strictly confidential and is used primarily for marketing purposes, customer service and to weigh the satisfaction of our users.
+Log file information is collected by ENN including IP addresses, domain name, pages visited, access times and browser type. This information is not shared with any third party groups. The log file data is used only for in house marketing purposes. 
 
-ENN uses cookies to help subscribers move faster through the site. Cookies are placed on users computers when they access certain pages or register for a newsletter subscription. (A cookie is a string of information that's sent by a web site and stored on your hard drive or temporarily in your computer memory). This avoids the potentially time consuming task of logging in each time a page is requested. ENN also employs cookie technology to store subscribers' usernames and passwords to eliminate the login required when you first visit the site.
+ENN also collects information via polls, questionnaires, surveys and threaded discussion groups. Participants in the discussion groups can remain anonymous or omit email addresses. Chat groups and forums are considered public information and by adding email addresses may increase the possibilities of receiving unsolicited mail by the public but not from ENN. We highly recommend that the user exercise caution when deciding to disclose personal information in such open forums. Information we collect via polls and surveys is strictly confidential and is used primarily for marketing purposes, customer service and to weigh the satisfaction of our users. 
 
-As an example, when a poll is submitted at ENN, a cookie is placed in the client cookie file that says that computer has already taken the poll. If the poll opinion is submitted more than once, the poll software will notice the cookie on the client machine and disregard the second attempt. These cookies expire once the poll has run its course or are no longer needed.
+ENN uses cookies to help subscribers move faster through the site. Cookies are placed on users computers when they access certain pages or register for a newsletter subscription. (A cookie is a string of information that's sent by a web site and stored on your hard drive or temporarily in your computer memory). This avoids the potentially time consuming task of logging in each time a page is requested. ENN also employs cookie technology to store subscribers' usernames and passwords to eliminate the login required when you first visit the site. 
+
+As an example, when a poll is submitted at ENN, a cookie is placed in the client cookie file that says that computer has already taken the poll. If the poll opinion is submitted more than once, the poll software will notice the cookie on the client machine and disregard the second attempt. These cookies expire once the poll has run its course or are no longer needed. 
 
 **Additionally:**
 
-   ·  Cookies are not related to any personal information and are not used to retrieve information from a computer that was not originally contained in a cookie.
+· Cookies are not related to any personal information and are not used to retrieve information from a computer that was not originally contained in a cookie. 
 
-   ·  Cookies cannot get information from a hard drive against the will of the user, destroy files, send viruses, etc. and cookies can only contain as much information as disclosed to the site that sent it to you.
+· Cookies cannot get information from a hard drive against the will of the user, destroy files, send viruses, etc. and cookies can only contain as much information as disclosed to the site that sent it to you. 
 
-   ·  Some of our cookies are long-term, like those with the ability to remember your username and password, but most of them do expire after a short period of time.
+· Some of our cookies are long-term, like those with the ability to remember your username and password, but most of them do expire after a short period of time. 
 
-   ·  Remember that cookies are small files (just a few hundred bytes) and won't pose any significant disk-space concerns.
+· Remember that cookies are small files (just a few hundred bytes) and won't pose any significant disk-space concerns. 
 
-   ·  The user can remove any and all cookies from the hard drive any time they wish by searching the system for any files named "cookie.txt" or similar and can be deleted at the users discretion.
+· The user can remove any and all cookies from the hard drive any time they wish by searching the system for any files named "cookie.txt" or similar and can be deleted at the users discretion. 
 
-   ·  Users are advised that if they disable the cookies feature on their computer they may experience trouble navigating through the ENN site.
+· Users are advised that if they disable the cookies feature on their computer they may experience trouble navigating through the ENN site. 
 
-The information given to ENN.com, including, but not limited to, all posted information, all user information submitted to ENN.com, and all user information collected by cookies for the purposes of counting and personalization, remains confidential and password protected in a secure environment. Employees of ENN have individual passwords but not all employees have access to the secure server in which the user information is stored.
+The information given to ENN.com, including, but not limited to, all posted information, all user information submitted to ENN.com, and all user information collected by cookies for the purposes of counting and personalization, remains confidential and password protected in a secure environment. Employees of ENN have individual passwords but not all employees have access to the secure server in which the user information is stored. 
 
-Links to other web sites are often used in ENN stories and pages to supply the user with additional information. Please be advised that the ENN privacy policy does not apply to those web sites and ENN is not responsible for information collected on those sites. Users are encouraged to view the privacy policy posted by that web site company.
+Links to other web sites are often used in ENN stories and pages to supply the user with additional information. Please be advised that the ENN privacy policy does not apply to those web sites and ENN is not responsible for information collected on those sites. Users are encouraged to view the privacy policy posted by that web site company. 
 
-If you have questions or concerns regarding this statement, you should contact:
-
-© Americares http://www.americares.org/
-
-| 
-
-[Become an ENN Content Partner](https://web.archive.org/aboutenn/content-partner-form.asp)  
-ENN is your resource for quality environ- mental news, features and multimedia content. Click [here](https://web.archive.org/aboutenn/community_partnerships.asp) to learn more about our content partnering program.
-
-  
-  
-  
-|  | 
-
-Paid Advertisement
-
-|   
----|---|---  
-  
-
+If you have questions or concerns regarding this statement, please [contact us](https://web.archive.org/web/20041206233721id_/http%3A//www.enn.com/contactservice.html).
