@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualstudiomagazine.com privacy policy that was archived on 2003-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030808182828id_/http%3A//www.fawcette.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualstudiomagazine.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607213933id_/http%3A//www.fawcette.com/privacy/default.asp) for the most accurate reproduction.*
 
 # Fawcette.com - Privacy Statement
 
@@ -27,7 +27,10 @@ Delete/Deactivate
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. You can send e-mail to [support@fawcette.com](mailto:support@fawcette.com)
-  2. You can send mail to the following postal address: 913 Emerson St., Palo Alto, CA 94301
+  2. You can send mail to the following postal address:  
+2600 South El Camino Real  
+Suite 300  
+San Mateo, CA 94403
 
 
 
@@ -35,11 +38,17 @@ Change/Modify
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. e-mail [support@fawcette.com](mailto:support@fawcette.com)
-  2. send mail to the following postal address: 913 Emerson St., Palo Alto, CA 94301
+  2. send mail to the following postal address:  
+2600 South El Camino Real  
+Suite 300  
+San Mateo, CA 94403
 
 
 
 Contacting the Web Site  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Fawcette Technical Publications  
-913 Emerson St., Palo Alto, CA 94301  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact   
+Fawcette Technical Publications  
+2600 South El Camino Real  
+Suite 300  
+San Mateo, CA 94403  
 [support@fawcette.com](mailto:support@fawcette.com)
