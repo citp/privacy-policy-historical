@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603162248id_/http%3A//www.liquidation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202170527id_/http%3A//www.liquidation.com/privacy.html) for the most accurate reproduction.*
 
 # Surplus items auction, discount surplus inventories marketplace, wholesale closeouts
 
@@ -9,6 +9,8 @@
   5. What choices are available to you regarding collection, use and distribution of the information 
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Liquidation.com control 
   7. How you can correct any inaccuracies in the information. 
+
+
 
 If you have questions or concerns regarding this policy, you should first contact the Liquidation.com Customer Support Team by phone at (800) 310-4604 or by e-mail at [support@liquidation.com](mailto:support@liquidation.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with Liquidation.com to resolve your concerns. 
 
@@ -50,11 +52,13 @@ Our site provides users the opportunity to opt-out of receiving Buyer Alert emai
   2. By logging into their account manager at [www.liquidation.com/account/main](http://www.liquidation.com/account/main)
   3. Email [support@liquidation.com](mailto:support@liquidation.com) with your request 
 
+
+
 **Correct/Update**
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. Email support@liquidation.com 
+  1. Email [support@liquidation.com](mailto:support@liquidation.com)
   2. By logging into their account manager at [www.liquidation.com/account/main](http://www.liquidation.com/account/main)
   3. Call our customer care staff at the following telephone number: (800) 310-4604 
 
@@ -68,9 +72,9 @@ Liquidation.com will not share any of your information with any outside party wi
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, you can contact 
+If you have any questions about this privacy policy, the practices of this site, or your dealings with this Web site, you can contac: 
 
-Web Master  
+Webmaster  
 Liquidation.com, Inc.  
 2131 K Street NW  
 4th Floor  
