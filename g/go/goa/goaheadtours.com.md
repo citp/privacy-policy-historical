@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2001-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011004023451id_/http%3A//goaheadtours.com/bin/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601094618id_/http%3A//goaheadtours.com/bin/privacy.asp) for the most accurate reproduction.*
 
 # Go Ahead Vacations - Privacy Policy
 
@@ -58,7 +58,7 @@ We exercise great care in providing secure transmission of our users' financial 
 > 
 > If you opt in for the service, Go Ahead may send you email about products and services that we feel will be of interest to you. You may opt out of these mailings at any time by visiting this page: [http://www.goaheadvacations.com/newsletter/unsubscribe.asp](https://web.archive.org/newsletter/unsubscribe.asp)
 > 
-> You can also update or correct factual information about your account by emailing us at [goahead@ef.com](https://web.archive.org/web/20011004023451id_/http%3A//goaheadtours.com/bin/goahead@ef.com), or by calling 1-800-590-1170. 
+> You can also update or correct factual information about your account by emailing us at [goahead@ef.com](mailto:goahead@ef.com), or by calling 1-800-590-1170. 
 
 Your Consent
 
