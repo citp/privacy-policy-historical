@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405000021id_/http%3A//www.boston.com/help/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216213602id_/http%3A//www.boston.com/help/privacy.shtml) for the most accurate reproduction.*
 
 # Boston.com / Help
 
@@ -33,9 +33,6 @@ If users wish to utilize certain services located on any of our sites, they must
   * E-mail newsletters (e-mail address only)
 
 The information collected when a user signs up for a service can include an e-mail address (which also functions as an account ID in some instances), name, a credit card number for e-commerce transactions and, in the case of hard goods purchases, a billing/shipping address. This transaction information is encrypted and retained in a database, independently of other Web site information. When signing up for a service, a user may also "opt out" of various e-mail notifications or offers (see **Opt Out Procedures** below). 
-
-**Auctions:**   
-Boston.com offers an auction service, which allows users to buy and sell items. All actual transactions take place off-line. Once an auction has closed, the winning bidder receives the e-mail address and phone number of the seller. The seller receives the same contact information about the winning bidder. Information concerning unsuccessful auctions and bids is not used or archived by Boston.com for any purpose. This service is powered by [FairMarket](http://www.fairmarket.com/). 
 
 **Polling:**     
 Boston.com offers interactive polls so users can easily share their opinions with others and see what other Boston.com users think about important issues. Boston.com uses a cookie (see more on cookies below) to "tag" users after they have voted, so they can vote only once on a particular question. No personal identifiable information is required to do this "tagging," and the cookie that is set relates only to that specific poll. 
@@ -81,30 +78,30 @@ If a user chooses to sign up for a Boston.com service, the user can choose not t
 
 **Correcting And Updating:**
 
-Boston.com offers users the ability to change certain personal identifiable information (e-mail address, credit card information and mailing address) collected during the sign up process. Users who wish to change this information, or who have any questions about how our services work can contact us at **customersupport@boston.com**.  
+Boston.com offers users the ability to change certain personal identifiable information (e-mail address, credit card information and mailing address) collected during the sign up process. Users who wish to change this information, or who have any questions about how our services work can contact us at **feedback@boston.com**.  
 Please note, though, that our sites do not offer users the means to delete personal identifiable information associated with past use of the Web sites' services. 
 
 **How To Contact Us:**
 
 For any questions or comments regarding our information or security practices, you may contact us: 
 
-  * By E-mail: **[customersupport@boston.com](mailto:customersupport@boston.com)**
+  * By E-mail: **[feedback@boston.com](mailto:feedback@boston.com)**
   * By Phone: 617-929-7900 (between 9:00am and 5:30pm EST.)
   * By Fax: 617-929-8690, Attention Operations Manager
-  * By Mail: Boston Globe Electronic Publishing, Inc. 320 Congress Street, Boston, MA 02210-1205, Attention Operations Manager 
+  * By Mail: Boston.com, 320 Congress Street, Boston, MA 02210-1205, Attention Operations Manager 
 
 See Boston.com's [ Help page](https://web.archive.org/help/) for additional contact information. 
 
 _Last modified March 30, 2001_
 
-Send content requests or comments to [Feedback](https://web.archive.org/web/20010405000021id_/http%3A//www.boston.com/help/feedback.shtml)
+Send content requests or comments to [Feedback](https://web.archive.org/web/20011216213602id_/http%3A//www.boston.com/help/feedback.shtml)
 
 
   
   
 * * *
 
-Return to the [Help Center](https://web.archive.org/web/20010405000021id_/http%3A//www.boston.com/help/index.shtml) homepage. 
+Return to the [Help Center](https://web.archive.org/web/20011216213602id_/http%3A//www.boston.com/help/index.shtml) homepage. 
 
 Return to the [ Boston.com](http://www.boston.com/) homepage. 
 
