@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invisionfree.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602200805id_/http%3A//invisionfree.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisionfree.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209094630id_/http%3A//invisionfree.com/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # InvisionFree
 
@@ -60,3 +60,10 @@ Note: By signing up with InvisionFree, you agree to the terms of the following a
 ### Modifications to our Policy:
 
 InvisionFree may update and revise this privacy policy. We will inform users of any changes.
+
+### Parental Controls:
+
+Certain materials on the internet or on InvisionFree may not be appropriate for minors. InvisionFree suggests monitoring your child's activity while on InvisionFree. Should you encounter content on InvisionFree that appears to not be appropriate, check our [Terms of Service](http://invisionfree.com/index.php?p=tos) and then [report](http://invisionfree.com/report.php) it if needed. InvisionFree also recommends that you consider the use of [Parental Control software](http://invisionfree.com/?p=pctrls).
+
+  
+
