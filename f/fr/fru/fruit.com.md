@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the fruit.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405091131id_/http%3A//www.fruit.com/privacy_policy.cfm%3Fcat_id%3D155%26nav_level%3D1%26nav_selected%3Dhome) for the most accurate reproduction.*
+
+# Fruit of the Loom Legal Disclaimer
+
+If you are under 18 years old, please read this Privacy Policy with your parents. If you are under 13 years old, then you must have your parents' permission to write us. Children should always check with their parents before writing to us, or to anyone, on the internet. 
+
+Fruit of the Loom, Inc. is committed to respecting the privacy rights of visitors to the Fruit website (this "Fruit Site"). While visiting this Site, you may be asked to provide information that personally identifies you for purposes of interacting with this Site. Fruit will take measures to ensure that the personal information you submit to us remains private, and is used only for the purposes set forth herein.
+
+This Site does not use "cookies" at this time. A cookie is software that is located on the visitor's computer to improve interaction and information transfer between the visitor and the website. If in the future a new area of this Site requires a cookie, we will let the visitor know about it.
+
+Fruit only collects information you provide to us. This Site does not collect personal information (other than information you provide to us), and does not sell or exchange personal information presented by our visitors with anyone for any reason. If you send us an email or request for information, we will use your personal information only for the purpose of replying to you, if that is necessary. We will categorize the non-personal information we receive in order to understand general market trends. IP addresses may be retained. An IP address is the name the internet uses to identify your computer. It is used to prevent duplication of information and for replying to you if you contact us, and will not be shared. Nothing herein shall prevent Fruit and its affiliates from using information provided to us, by email or otherwise, in investigating claims or complaints, or defending Fruit and its affiliates and their employees against claims or complaints. 
