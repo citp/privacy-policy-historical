@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nea.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603195910id_/http%3A//nea.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nea.org privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206085433id_/http%3A//nea.org/privacy.html) for the most accurate reproduction.*
 
 # NEA: NEA Privacy Statement
 
@@ -55,6 +55,6 @@ NEA retains the right to amend or otherwise update this Privacy Statement at any
 
 ### How to Contact Us
 
-If you have any questions about this Privacy Statement, you may contact us by sending an e-mail to [slanoff@nea.org](mailto:slanoff@nea.org).
+If you have any questions about this Privacy Statement, you may [contact us by e-mail](mailto:www-feedback@list.nea.org).
 
 |  | 
