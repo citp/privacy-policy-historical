@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ctnow.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119055504id_/http%3A//www.ctnow.com/about/hc-privacy.story) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctnow.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606165936id_/http%3A//www.ctnow.com/about/hc-privacy.story) for the most accurate reproduction.*
 
-# ctnow.com: ABOUT US
+# ctnow.com - ABOUT US
 
 |    
 ctnow.com Privacy Policy  
