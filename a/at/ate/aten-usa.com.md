@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408220006id_/http%3A//www.aten-usa.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aten-usa.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205185344id_/http%3A//www.aten-usa.com/info/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Statement for IOGEAR University http://iu
+# Privacy Statement for ATEN-USA
 
 **Protecting your privacy is important to ATEN. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the ATEN Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.** ****
 
@@ -16,7 +16,7 @@ To save you time and make our web services even easier to use, some areas of the
 
 **When we disclose personal information**
 
-Because ATEN is a global company, your personal information may be shared with other ATEN business units around the world. They will protect your personal information in accordance with the ATEN Customer Privacy Policy. ATEN may occasionally share your personal contact information with carefully selected technology companies, to keep you informed about related products and services. For example, when new software or hardware is released, we may work with other developers to ensure that you're aware of the latest software or hardware available for your computer. If you do not want to receive promotional information from ATEN or these technology companies, click [privacy@aten-usa.com](https://web.archive.org/web/20020408220006id_/http%3A//www.aten-usa.com/info/privacy@aten-usa.com) and send us a message stating that you would like to not be included in such updates.
+Because ATEN is a global company, your personal information may be shared with other ATEN business units around the world. They will protect your personal information in accordance with the ATEN Customer Privacy Policy. ATEN may occasionally share your personal contact information with carefully selected technology companies, to keep you informed about related products and services. For example, when new software or hardware is released, we may work with other developers to ensure that you're aware of the latest software or hardware available for your computer. If you do not want to receive promotional information from ATEN or these technology companies, click [privacy@aten-usa.com](mailto:privacy@aten-usa.com) and send us a message stating that you would like to not be included in such updates.
 
 ATEN works with other companies that help us provide ATEN products and services to you, and we may provide your personal information to these companies. For example, we give shipping companies this information so they can deliver your products efficiently. The information they receive is for shipping and delivery purposes only, and we require that the companies safeguard your personal information in accordance with ATEN's policies. 
 
@@ -30,7 +30,7 @@ The ATEN Direct Store uses industry-standard Secure Sockets Layer (SSL) encrypti
 
 **Access to your personal information**
 
-You always have access to the information we have about you. To review and update your personal contact information, simply email your request to [privacy@aten-usa.com](https://web.archive.org/web/20020408220006id_/http%3A//www.aten-usa.com/info/privacy@aten-usa.com), be sure to include your previous information so can locate you in our database. If you would like to review other personal information that ATEN may have about you, email us at [privacy@aten-usa.com.](https://web.archive.org/web/20020408220006id_/http%3A//www.aten-usa.com/info/privacy@aten-usa.com)
+You always have access to the information we have about you. To review and update your personal contact information, simply email your request to [privacy@aten-usa.com](mailto:privacy@aten-usa.com), be sure to include your previous information so can locate you in our database. If you would like to review other personal information that ATEN may have about you, email us at [privacy@aten-usa.com.](mailto:privacy@aten-usa.com)
 
 **Collecting other personal information**
 
