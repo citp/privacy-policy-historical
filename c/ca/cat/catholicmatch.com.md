@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618075519id_/http%3A//catholicmatch.com/pl/pages/cm_info/privacy.html%3Fra%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholicmatch.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205101213id_/http%3A//www.catholicmatch.com/pl/pages/info/privacy.html%3Fra%3D1) for the most accurate reproduction.*
 
-# CatholicMatch.com Privacy: Catholic Singles at Catholic Match
-
-## Privacy
+# CatholicMatch.com privacy & security: Catholic Singles at Catholic Match
 
 **The Information We Collect** CatholicMatch.com is an online singles service designed to provide an easy way for our members to meet each other on the Web. To accomplish this, our members create their own unique profiles which are viewable by other members. In order to do this, we must ask for certain personal information. None of the information we gather can be used by the public (visitors, other members, or anyone not employed by Acolyte, LLC or the financial institutions used to process membership charges) to identify specific individuals.
 
@@ -54,4 +52,4 @@ When our registration/order process asks users to enter sensitive information (s
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example a billing clerk or a customer service representative) are granted access to personally identifiable information. 
 
 **Contacting the Web Site**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/pl/pages/cm_info/contact_us). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/pl/pages/info/contact_us). 
