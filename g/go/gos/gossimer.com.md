@@ -1,45 +1,23 @@
-> *The following text is extracted and transformed from the gossimer.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609043649id_/http%3A//www.gossimer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossimer.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206074533id_/http%3A//www.gossimer.com/privacy.html) for the most accurate reproduction.*
 
-# Gossimer - Web Hosting You Can Afford!
+# Gossimer - Affordable Web Hosting
 
-  
-|  **Register A Domain**  
----  
-  
-Register a new domain name for as low as US $16 a year           [ »Price Chart »  ](http://)
+**Please read the below statement for information regarding Gossimer's privacy policy about what information we collect, and what we do with that information.**
 
-  
-**Reserve a Domain:**
-
-   
-  
-|   
----  
-  
-Looking for our FREE web space?  [Click here](http://www.gossimer.net/) to get 12mb of free space from us.
-
- [](http://www.unlimband.com/)  
-  
-|   
-
- **Privacy**
-
-** Please read the below statement for information regarding Gossimer's privacy policy about what information we collect, and what we do with that information.**
-
-  * Please read our [FAQ's](http://www.gossimer.com/faq.html) section for answers to our most frequently asked questions.
+  * Please read our [FAQ's](http://www.gossimer.com/cgi-bin/faq/index.cgi) section for answers to our most frequently asked questions.
 
   * By signing up for any of our services you have agreed that you have read and understood our privacy policy and are bound by this site's  [terms and conditions](http://www.gossimer.com/terms.html).
 
 
 
 
-##  Privacy Statement for gossimer.net
+##  Privacy Statement for Gossimer Network
 
 gossimer has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [http://www.gossimer.com](http://www.gossimer.com/)
 
 ####  Information Automatically Logged
 
-We use your IP address to administer our public services on our Web site.  Gossimer.net does not approve of SPAM, harassment of anyone in our chat rooms, forums, or any of our other public services, so as a protection we may record your IP address to help ensure everyone's safety and enjoyment of all of our services.
+We use your IP address to administer our public services on our Web site.  Gossimer Network does not approve of SPAM, harassment of anyone in our chat rooms, forums, or any of our other public services, so as a protection we may record your IP address to help ensure everyone's safety and enjoyment of all of our services.
 
 ####  Cookies
 
@@ -125,9 +103,9 @@ Some of the services provided on this website are hosted or powered by other com
 
 ####  Public Forums
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  gossimer.net will not be held responsible for any information you supply to anyone in the public areas of our website.
+This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.  Gossimer Network will not be held responsible for any information you supply to anyone in the public areas of our website.
 
-NOTE: No one affiliated with gossimer.net will never ask you for personal information in any of our public areas, we will only ask for personal information privately by email, phone, or mail.
+NOTE: No one affiliated with Gossimer Network will never ask you for personal information in any of our public areas, we will only ask for personal information privately by email, phone, or mail.
 
 ####  Children's Guidelines
 
@@ -147,7 +125,7 @@ We at gossimer care about children and understand that they have special privacy
 
   4. We will NOT entice the child to divulge more information than is needed to participate in any activity, game, or service.
 
-  5. We will provide the parent a description of the specific types of a personally identifiable information collected from their child from gossimer.net upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child.
+  5. We will provide the parent a description of the specific types of a personally identifiable information collected from their child from Gossimer Network upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child.
 
   6. We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected.
 
@@ -162,7 +140,7 @@ We at gossimer care about children and understand that they have special privacy
 
 Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us .
 
-  1. You can send email to [remove@gossimer.net ](mailto:remove@gossimer.net)to be removed from anything mailing list sent to you by gossimer.net.
+  1. You can send email to [ remove@gossimer.net](mailto:remove@gossimer.net)[ ](mailto:remove@gossimer.net)to be removed from anything mailing list sent to you by the Gossimer Network.
 
 
 
@@ -172,4 +150,4 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
  
 
-[ privacy@gossimer.net](mailto:privacy@gossimer.net)
+[ privacy@gossimer.net ](mailto:privacy@gossimer.net)
