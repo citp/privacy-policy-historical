@@ -1,7 +1,19 @@
-> *The following text is extracted and transformed from the ableshoppers.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210141522id_/http%3A//www.ableshoppers.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ableshoppers.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205034647id_/http%3A//www.ableshoppers.com/privacy.html) for the most accurate reproduction.*
 
 # NoPay Mall
 
+| 
+
+|   
+---  
+| 
+
+[](http://rd1.hitbox.com/rd?acct=WQ5001234ANE01EN0&p=s)  
+  
+---  
+   
+  
+|   
 ---  
   
 **Our Commitment to Privacy**  
@@ -54,6 +66,4 @@ We don't collect IP addresses. Also, we do not link IP addresses to anything per
 
 **Mailing List**
 
-If you join our mailing list or submit a freebie to us, or in any way we are informed of your email address: 
-
-We may enter the information you send into our electronic database. You may also be contacted by us for additional information. We do not disclose your email to any thirt party. We promise that
+If you join our mailing list, we will never disclose your email to any thirt party. Your will only receive deal alert from Ableshoppers, about once per week.
