@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 1999-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991128041257id_/http%3A//srds.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srds.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617112553id_/http%3A//www.srds.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # privacy.html
 
