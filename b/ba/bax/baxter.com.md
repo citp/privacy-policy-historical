@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baxter.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401233826id_/http%3A//baxter.com/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baxter.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204155829id_/http%3A//www.baxter.com/information/privacy) for the most accurate reproduction.*
 
 # Baxter - Privacy Policy
 
@@ -7,10 +7,10 @@ In the regular course of business, Baxter interacts and communicates directly wi
 **IMPORTANT:** Baxter´s [Global Privacy Statement](https://web.archive.org/information/privacy/privacy_statement_vs_1.03.pdf) states: "In all instances, Baxter believes that it is a person´s right to have their personal information kept private. Therefore, we have an obligation to implement privacy procedures and technical security measures to keep personal information private and secure." If you should have any questions concerning Baxter´s privacy practices or wish to access or correct Private Information that Baxter has collected from you, please submit an inquiry via Baxters on-line Privacy Inquiry Form, call: 1-800-422-9837 (847-948-4770) or fax your inquiry to 847-948-3642.
 
   * [Global Privacy Principles](https://web.archive.org/information/privacy/principles.html)
-  * [Baxter's Web Site Policies](https://web.archive.org/information/privacy/policies.html)
+  * [Baxter´s Web Site Policies](https://web.archive.org/information/privacy/policies.html)
   * [What Information We Collect and Why?](https://web.archive.org/information/privacy/cookies.html)
   * [Baxter and the EU-US Safe Harbor for Privacy](https://web.archive.org/information/privacy/safe_harbor.html)
-  * [Privacy Complaints and Dispute Resolution](https://web.archive.org/information/privacy/index.html#)
+  * [Privacy Complaints and Dispute Resolution](https://web.archive.org/information/privacy/privacy_feedback.html)
   * [Feedback and Contact Us](https://web.archive.org/about_baxter/contact_us/index.html)
 
 
