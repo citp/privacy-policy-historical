@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602030314id_/http%3A//www.nyc.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyc.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609190047id_/http%3A//www.nyc.com/gbl.aspx%3Ft%3D7) for the most accurate reproduction.*
 
-# NYC.COM : Privacy Policy
+# New York City.com : The Authentic Guide to New York City
 
-As New York City’s portal, our goal is to offer the best of the city in one convenient site while maintaining a total commitment to your privacy needs and expectations. Please read on for details about our privacy statement. 
+  
+**NYC.COM Privacy Policy**
+
+As New York City's portal, our goal is to offer the best of the city in one convenient site while maintaining a total commitment to your privacy needs and expectations. Please read on for details about our privacy statement. 
 
 **What information do we collect? How do we use it?**  
 When you sign up for our services, you must go through our registration process. This will ensure seamless integration of a wide variety of features and services, both present and planned. When registering we will ask you to provide, on a voluntary basis, personal information as well as some demographic data. Certain information we require you fill out, such as your first and last name, state and zip code (or country and postal code for non-U.S. residents), gender and date of birth. This information is important for us to provide you with quality services that are responsive to your needs. 
@@ -16,7 +19,7 @@ We are always available for you 24/7 here at the online city that never sleeps a
 **Here are some frequently asked questions:**
 
 **What about my kids who register at Newyorkcity.com?**  
-We are especially committed to providing a safe and secure environment for younger users. We believe that children should get their parents’ consent before giving out personal information, and that the safest environment is one in which parents participate in a child’s experience in cyberspace. We are currently developing a NYC Kids area of the site that will provide enriching, safe, and appropriate content for our younger users. While parental control and web filtering technology are two tools available to assist you in guiding your child’s experience, a big city by nature has many offerings and experiences. As always, we encourage your input and suggestions in this realm. 
+We are especially committed to providing a safe and secure environment for younger users. We believe that children should get their parentsí consent before giving out personal information, and that the safest environment is one in which parents participate in a childís experience in cyberspace. We are currently developing a NYC Kids area of the site that will provide enriching, safe, and appropriate content for our younger users. While parental control and web filtering technology are two tools available to assist you in guiding your childís experience, a big city by nature has many offerings and experiences. As always, we encourage your input and suggestions in this realm. 
 
 **What about links to external sites?**  
 Newyorkcity.com is not responsible for the content or privacy policies of Web sites to which it might link. Our goal is simply to offer the most complete directory of services and links to everything about New York City. 
