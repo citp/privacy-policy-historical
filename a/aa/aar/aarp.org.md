@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204214944id_/http%3A//www.aarp.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aarp.org privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609222050id_/http%3A//www.aarp.org/privacy.html) for the most accurate reproduction.*
 
 # AARP Privacy Policy
 
@@ -8,7 +8,7 @@ AARP Privacy Policy
 
 **AARP understands how important privacy is to our members.** We are committed to protecting your privacy and want to make sure that you understand how your membership information is used. We also want you to be aware that you have choices about how we use this information.
 
-**What We Collect.** When you apply for membership, we ask for basic information such as your name, contact information, and date of birth. We keep track of your participation in AARP activities and member services so we can understand our members' interests and evaluate the effectiveness of our offerings. We also collect demographic information from other sources to help us learn more about member characteristics and needs. As explained in the Questions and Answers below, we may ask for additional information in your visits to www.aarp.org. All of this information helps us better serve our members and improve our programs.
+**What Information We Collect.** When you apply for membership, we ask for basic information such as your name, contact information, and date of birth. We keep track of your participation in AARP activities and member services so we can understand our members' interests and evaluate the effectiveness of our offerings. We also collect demographic information from other sources to help us learn more about member characteristics and needs. As explained in the Questions and Answers below, we may ask for additional information in your visits to www.aarp.org. All of this information helps us better serve our members and improve our programs.
 
 **Information Sharing.** We share your personal information only with companies we have selected to provide official AARP member services or support AARP operations. Some of the providers of AARP member services, including many of those listed on our [Member Services and Discounts](http://www.aarp.org/benefits/) area, pay a fee for access to our membership list. Our contracts with these companies require them to keep the member information strictly confidential, and allow them to use the information only to offer the contracted services to AARP and AARP members. We oversee the companies' compliance through our wholly owned subsidiary, AARP Services, Inc. Other AARP affiliates, such as the AARP Foundation, may also have access to member information. Finally, we may release personal member information on the rare occasions when we are required to do so by law, or when necessary or appropriate to comply with legal process or to protect or defend AARP and its members. We do not sell or rent member information to telemarketers, mailing list brokers, or any other companies that are not offering AARP endorsed services or benefits.
 
@@ -25,7 +25,7 @@ AARP Membership Center
 3200 E. Carson Street  
 Lakewood, CA 90712  
 [member@aarp.org](mailto:member@aarp.org)  
-1-800-424-3410 
+1-888-OUR-AARP (1-888-687-2277) 
 
 Privacy and www.aarp.org: Questions and Answers 
 
@@ -77,7 +77,7 @@ If you are uncomfortable allowing cookies to be placed on your computer, a featu
 
 Our primary purpose in collecting this information is to provide you with the services you request, and to evaluate and improve other services that we offer. As explained above, for example, we ask for information so that we can process your membership application, send you the e-mail newsletters to which you have subscribed, and provide you with discounted shopping opportunities. We store your membership information in our computer files, and use this information to service your membership account, send you publications like "[AARP The Magazine](http://www.aarpmagazine.org/)" and the "[AARP Bulletin](http://www.aarp.org/bulletin/)," and answer any questions that you may have about membership. We may also use this information for other purposes. For example, we may review demographic information, survey results, and statistical analyses of www.aarp.org usage in order to help us evaluate, modify, and develop services that are likely to be of interest to our members.
 
-On occasion, we will also use your membership information to send you notices in the mail about special member benefits, discounts, and offers. If you do not want to receive these mailings, you can: (1) e-mail us at [member@aarp.org](mailto:member@aarp.org), (2) call us at 1-800-424-3410, or (3) write to us at AARP Membership Center, 3200 E. Carson Street, Lakewood, CA 90712. If you have subscribed to any of the www.aarp.org e-mail newsletters, and would like to stop receiving them, follow the instructions at the bottom of each of the newsletters that you receive. Some affiliated sites may also send you promotional e-mails if you asked to receive them when you registered for their respective services. In addition, each issue of these e-mail newsletters or notices will always include instructions for unsubscribing. Again, these notices are designed to describe the benefits of AARP membership, but we do not want to send them to you if you are not interested in receiving them.
+On occasion, we will also use your membership information to send you notices in the mail about special member benefits, discounts, and offers. If you do not want to receive these mailings, you can: (1) e-mail us at [member@aarp.org](mailto:member@aarp.org), (2) call us at 1-888-OUR-AARP (1-888-687-2277), or (3) write to us at AARP Membership Center, 3200 E. Carson Street, Lakewood, CA 90712. If you have subscribed to any of the www.aarp.org e-mail newsletters, and would like to stop receiving them, follow the instructions at the bottom of each of the newsletters that you receive. Some affiliated sites may also send you promotional e-mails if you asked to receive them when you registered for their respective services. In addition, each issue of these e-mail newsletters or notices will always include instructions for unsubscribing. Again, these notices are designed to describe the benefits of AARP membership, but we do not want to send them to you if you are not interested in receiving them.
 
 [| Top Of Questions |](https://web.archive.org/aboutaarp/Articles/a2002-12-18-privacypolicy#questions)
 
@@ -87,7 +87,7 @@ AARP takes very seriously its responsibility to keep your personal information c
 
 We require all of these AARP Service Providers and approved vendors to hold member information in strict confidence. These providers and vendors are contractually required to maintain the security and confidentiality of all member information, and are prohibited from using that information for any purpose other than providing the services specified in their contracts with AARP. We audit and monitor these companies to ensure that the member information is protected.
 
-If you do not want us to share your personal information with AARP Service Providers, you can: (1) e-mail us at [member@aarp.org](mailto:member@aarp.org), (2) call us at 1-800-424-3410, or (3) write to us at AARP Member Services, 3200 E. Carson Street, Lakewood, CA 90712. If you ask us not to share your personal information, you should then stop receiving AARP Service Provider mailings in about six to eight weeks. (Note: If you request services or information from an AARP Service Provider directly, we may still need to confirm to the provider that you are an eligible AARP member).
+If you do not want us to share your personal information with AARP Service Providers, you can: (1) e-mail us at [member@aarp.org](mailto:member@aarp.org), (2) call us at 1-888-OUR-AARP (1-888-687-2277), or (3) write to us at AARP Member Services, 3200 E. Carson Street, Lakewood, CA 90712. If you ask us not to share your personal information, you should then stop receiving AARP Service Provider mailings in about six to eight weeks. (Note: If you request services or information from an AARP Service Provider directly, we may still need to confirm to the provider that you are an eligible AARP member).
 
 We may also disclose personal information when required to do so by law or when such action is necessary or appropriate to comply with legal process served on AARP, to protect and defend the rights or property of AARP, or to protect the personal safety of users of the www.aarp.org. We reserve the right to contact the appropriate authorities in our discretion when visitors' activities appear to be illegal or inconsistent with our policies.
 
@@ -127,13 +127,9 @@ From time to time, we may collect different types of information and use that in
 
 **9\. Whocan I contact with privacy questions?**
 
-If you have any questions or comments about your member information or this privacy policy, please send an e-mail by visiting [www.aarp.org/membership](http://www.aarp.org/membership/), or writing to [member@aarp.org](mailto:member@aarp.org), call us at 1-800-424-3410, or write us at the address listed above. We will do our best to investigate any complaint you may have and respond promptly to your concerns.
+If you have any questions or comments about your member information or this privacy policy, please send an e-mail by visiting [www.aarp.org/membership](http://www.aarp.org/membership/), or writing to [member@aarp.org](mailto:member@aarp.org), call us at 1-888-OUR-AARP (1-888-687-2277), or write us at the address listed above. We will do our best to investigate any complaint you may have and respond promptly to your concerns.
 
 For more information about online privacy issues generally, we encourage you to visit the web sites of the [Federal Trade Commission](http://www.ftc.gov/), the [Electronic Frontier Foundation](http://www.eff.org/), and the [Electronic Privacy Information Center](http://www.epic.org/).
-
-[| Top Of Questions |](https://web.archive.org/aboutaarp/Articles/a2002-12-18-privacypolicy#questions)
-
-Top of Page
 
 |  |  |   
 ---|---|---|---|---
