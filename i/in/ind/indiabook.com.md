@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiabook.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202203915id_/http%3A//www.indiabook.com/temp/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiabook.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610125619id_/http%3A//indiabook.com/temp/disclaimer.html) for the most accurate reproduction.*
 
 # Indiabook - Disclaimer - by MegriSoft
 
