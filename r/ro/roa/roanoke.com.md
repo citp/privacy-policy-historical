@@ -1,21 +1,18 @@
-> *The following text is extracted and transformed from the roanoke.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208093417id_/http%3A//www.roanoke.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roanoke.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602003452id_/http%3A//www.roanoke.com/aboutus/privacy.html) for the most accurate reproduction.*
 
-# roanoke.com
+# The Roanoke Times
 
-  
-Updated 8/9/2002
+Welcome to roanoke.com, The Roanoke Times' space in the Internet, located in southwestern Virginia. We believe in your right to know what information is collected from you when doing business with us or visiting our Web sites -- and how that information is used and safeguarded. 
 
-Welcome to roanoke.com, The Roanoke Times, space in the Internet, located in southwestern Virginia. We believe in your right to know what information is collected from you when doing business with us or visiting our Web sites -- and how that information is used and safeguarded. 
+We've adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, as are underlying business models. Guidelines are subject to change. Any such changes will be posted on this page. 
 
-We've adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships. These guidelines have been developed with the recognition that Internet technologies are rapidly evolving, and that underlying business models are still not established. Guidelines are subject to change. Any such changes will be posted on this page. 
-
-The following privacy policy applies to The Roanoke Times, roanoke.com and other Web sites operated by the Times-World Corp. We are affiliated with other online companies, some of which feature our branding. This policy statement does not apply to those companies' Web sites; please refer to these affiliated sites to obtain information on their privacy policies. These sites include, but are not limited to, CNet, Weather.Com, Waveshift and Switchboard. 
+The following privacy policy applies to The Roanoke Times, roanoke.com and other Web sites operated by the Times-World Corp. We are affiliated with other online companies, some of which feature our branding. This policy statement does not apply to those companies' Web sites; please refer to these affiliated sites to obtain information on their privacy policies. These sites include, but are not limited to, Weather.Com, Nando Media and Switchboard. 
 
 **Your personal information**
 
 roanoke.com.com collects personally identifiable information (name, e-mail address, etc.) and/or demographic data (zip code, gender, interests, etc.) that you submit when you: 
 
-  * Order a subscription to our newspaper 
+  * Order a subscription to The Roanoke Times
   * Complete a survey 
   * Register for a promotion or contest or sweepstakes 
   * Send us an e-mail 
@@ -55,7 +52,7 @@ Some information about you is automatically collected via server logs. This info
 
 **Cookies**
 
-A "cookie" is a small text file that is placed in your browser and allows a Web site to recognize you each time you visit its pages. roanoke.com does not use cookies to collect personal information. Other parts of our site that are not administered by roanoke.com, such as the TV listings, do. 
+A "cookie" is a small text file that is placed in your browser and allows a Web site to recognize you each time you -- as an individual but not your identity -- visit its pages. roanoke.com uses cookies to track usage of the site. We never give out information to others about individual usage. This is the foundation of our privacy policy. We do provide our advertisers with aggregate information, such as: "1,000 users saw your advertisement today, and 500 of them clicked on it." We can also tell how many users looked at a particular section, how often users come back, and what areas of the site people look at most often and least often. Other parts of our site that are not administered by roanoke.com, such as the TV listings, also use cookies to remember show line-ups you request, for example. 
 
 **Security**
 
