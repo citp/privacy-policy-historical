@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galaxyplus.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121160832id_/http%3A//galaxyplus.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galaxyplus.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606170751id_/http%3A//www.galaxyplus.com/company/privacy.asp) for the most accurate reproduction.*
 
 # Galaxy Plus Credit Union System :: Company Info :: Privacy Statement
 
