@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ps2pdf.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002190208id_/http%3A//www.ps2pdf.com/convert/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps2pdf.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604012156id_/http%3A//www.ps2pdf.com/convert/privacy.htm) for the most accurate reproduction.*
 
 # www.ps2pdf.com
 
