@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203024550id_/http%3A//www.comics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621113019id_/http%3A//www.comics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
 
 # Comics.com Privacy Policy
 
-|   
-At **United Media** , we believe that greater protection of personal privacy on the web will not only protect consumers but also increase consumer confidence, ultimately increasing participation in online activities. We endeavor to educate users about how to protect their privacy when using the Web. Our information collection practices are described below.
+| At **United Media** , we believe that greater protection of personal privacy on the web will not only protect consumers but also increase consumer confidence, ultimately increasing participation in online activities. We endeavor to educate users about how to protect their privacy when using the Web. Our information collection practices are described below.
 
 **Comics by E-mail.**  
 When a user registers for Comics by E-mail, personal information is collected. The following information is retained after registration is successfully completed: user name, e-mail address, zip code, gender and age.
@@ -49,5 +48,4 @@ To link to the full Terms of Use Agreement pertaining to our site, please [click
 
 The [Comics.com](https://web.archive.org/index.html) website is intended for domestic viewers and is consequently directed towards residents of the United States.
 
-|   
----|---|---
+| 
