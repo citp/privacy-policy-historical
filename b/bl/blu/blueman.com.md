@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202024720id_/http%3A//www.blueman.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueman.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192201id_/http%3A//www.blueman.com/privacy.shtml) for the most accurate reproduction.*
 
 # Blue Man Group
 
@@ -6,7 +6,7 @@
 Blue Man Group understands and respects the importance of individual privacy. We are committed to protecting your privacy and safeguarding your personal information. The following document outlines our policy on collecting personal information from our website visitors at www.blueman.com and how we utilize that data. 
 
 **Children:**  
-Blue Man Group has no intention of collecting any personal data from individuals twelve years old and younger. Where appropriate, Blue Man Group will specifically instruct children not to submit such information on our websites and/or will take reasonable steps to ensure parental consent to such submission. If we know that a child under 13 has sent us personal information, we will automatically delete the information from our system. If you would like to grant your child permission to receive e-mail updates or to allow him or her to use our chat rooms or message board, please fill out our [permission slip](https://web.archive.org/web/20031202024720id_/http%3A//www.blueman.com/community/parental.shtml). 
+Blue Man Group has no intention of collecting any personal data from individuals twelve years old and younger. Where appropriate, Blue Man Group will specifically instruct children not to submit such information on our websites and/or will take reasonable steps to ensure parental consent to such submission. If we know that a child under 13 has sent us personal information, we will automatically delete the information from our system. If you would like to grant your child permission to receive e-mail updates or to allow him or her to use our chat rooms or message board, please fill out our [permission slip](https://web.archive.org/web/20040602192201id_/http%3A//www.blueman.com/community/parental.shtml). 
 
 Parents should be aware that Blue Man Group's Privacy Policy will govern our use of personal data, but that information which is voluntarily given by anyone (including children) in chat sessions, email exchanges, bulletin boards or the like may be used by other parties to generate unsolicited mail.
 
@@ -20,11 +20,9 @@ In some cases, we may automatically collect technical information when you conne
 The Blue Man Group website provides chat rooms and message boards for our users. Please note, any information you post in these areas becomes public knowledge. Please exercise caution and discretion when disclosing any personal information through one of these forums. Information you post voluntarily as part of a message board or chat room is not considered confidential. Your contributions may be posted by Blue Man Group, and you will not be able to remove or edit your postings. All submissions become the property of Blue Man Group.
 
 **How We Use The Information We Collect:**  
-We may use the information you supply us to fulfill a merchandise request or to execute a contest. We may also use the personal information you supply us with in the following ways, unless stated otherwise: we may store and process information to better understand your needs and how we can improve our services and or products; we may use that information to contact you; and/or we may provide other third parties with aggregate \- but not individual - information about visitors to or users of our sites. We do not now and do not intend to sell, rent or market personal data about you to third parties. 
+We may use the information you supply us to fulfill a merchandise request or to execute a contest. We may also use the personal information you supply us with in the following ways, unless stated otherwise: we may store and process information to better understand your needs and how we can improve our services and or products; we may use that information to contact you; and/or we may provide other third parties with individual information about visitors to or users of our sites. We do not now and do not intend to sell personal data about you to third parties. 
 
-You can subscribe to our website mailing list if you would like to receive information and updates on our activities, shows and merchandise. You will only be sent this type of information if you have filled out the subscription form. Once you have subscribed, you may choose at any time to cancel your "subscription" and terminate this type of correspondence from us by checking the relevant box on the registration form.
-
-We do not provide any identifiable personal information to any third party for any purpose whatsoever. 
+You can subscribe to our website mailing list if you would like to receive information and updates on our activities, shows and merchandise. You may choose at any time to cancel your "subscription" and terminate this type of correspondence from us by checking the relevant box on the registration form.
 
 Access by our employees and agents to your personal information is only on a need to know basis on the understanding that this is confidential business information.
 
