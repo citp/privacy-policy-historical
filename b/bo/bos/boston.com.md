@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205190912id_/http%3A//www.boston.com/help/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603223343id_/http%3A//www.boston.com/help/privacy.shtml) for the most accurate reproduction.*
 
 # Boston.com / Help / Privacy Policy
 
-This user information privacy policy describes how the Web sites maintained by Boston.com — including Boston.com, The Boston Globe online, digitalMASS.com, and all sub-sections — collect and utilize users' personally identifiable information. It is our policy that a user controls: 
+This user information privacy policy describes how the Web sites maintained by Boston.com — including Boston.com, The Boston Globe online, BostonWorks.com, and all sub-sections — collect and utilize users' personally identifiable information. It is our policy that a user controls: 
 
   * What personal identifiable information is collected 
   * What Boston.com sites can do with that information.
@@ -25,10 +25,11 @@ If users wish to utilize certain services located on any of our sites, they must
   * Purchase of articles from the Boston Globe archives
   * Purchase of recent home sale reports
   * Participation in contests
-  * On-line placement and management of classified advertisements on BostonWorks or on Boston.com
+  * Online placement and management of classified advertisements on BostonWorks or on Boston.com
   * Use of Boston Globe subscriber services
   * Placing an online personal ad 
-  * On-line purchase of goods from The Globe Store
+  * Online purchase of goods from The Globe Store
+  * Submitting a resume on BostonWorks.com
   * Engaging in other e-commerce transactions
   * E-mail newsletters (e-mail address only)
   * E-mail special offers
@@ -55,15 +56,7 @@ Boston.com offers contests and sweepstakes in which we request certain personal 
 
 Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event.
 
-**Boston.com / Eversave.com opt-in e-mail products**  
-Boston.com / Eversave.com opt-in e-mail products Boston.com and Eversave.com are partnered to bring discounts, specials and coupons from advertisers to users who specifically opt-in for this particular e-mail service. The specific information collected for this list is never sold to third parties. Boston.com will 'rent' the use of this list to advertisers without revealing individual members. Registrants will never receive an unsolicited e-mail from another source. Registrants will not receive more than two of these Boston.com e-mails in a 7-day period. Eversave.com has the right to send additional e-mails. 
-
-We provide reports (such as geographic, demographic, and category preference information) to potential advertisers. This helps prospective sponsors understand the viewership they will reach. The information in these reports does NOT identify individual members. No information is contained in the reports that would allow outside companies to contact members directly. 
-
-Advertisers may promote their own opt-in e-mail products (often managed by Eversave) with advertising on Boston.com. This information is collected by the advertiser, separate from the Boston.com e-mail, and stored in their own database.   
-[Click here to see Eversave.com's Privacy Policy](http://esreg.eversave.com/eversave/consumers/PrivacyPolicy.jsp). 
-
-**Usage tracking:**   
+ **Usage tracking:**   
 Boston.com does track usage patterns on our sites and breaks down overall usage statistics according to a user's domain name, browser type, and MIME type by reading this information from the browser string (information contained in every user's browser). However, we do not match this information with users' personally identifiable information. 
 
 **Cookies:**   
@@ -71,7 +64,7 @@ A cookie is a small data file that a Web site transfers to a user's hard drive w
 
 One common use of a cookie on Boston.com can be seen in our online polls. We set a cookie after a user votes once in a particular poll. This cookie recognizes that a user has already voted once and prevents them from being able to vote again in the same poll. 
 
-We also use an advertising server developed by a third party, RealMedia, to display ads on our site. Some of these ads may contain cookies that are set by third parties (i.e. advertising agencies or advertising clients). We do not have access to these cookies or any information that they may contain; please contact the advertiser for more information on these cookies. 
+We also use an advertising server developed by a third party, 24/7 Real Media, to display ads on our site. Some of these ads may contain cookies that are set by third parties (i.e. advertising agencies or advertising clients). We do not have access to these cookies or any information that they may contain; please contact the advertiser for more information on these cookies. 
 
 The user may, however, elect to provide information that he wants Boston.com to remember. Users who are comfortable providing such information about themselves can access enhanced services that we cannot offer to anonymous users. (See **Optional Registration** above for a list of such services.) 
 
@@ -100,13 +93,13 @@ For any questions or comments regarding our information or security practices, y
 
 See Boston.com's [ Help page](https://web.archive.org/help/) for additional contact information. 
 
-_Last modified April 10, 2002_
+_Last modified May 27, 2003_
 
-Send content requests or comments to [Feedback](https://web.archive.org/web/20021205190912id_/http%3A//www.boston.com/help/feedback.shtml)
+Send content requests or comments to [Feedback](https://web.archive.org/web/20030603223343id_/http%3A//www.boston.com/help/feedback.shtml)
 
 * * *
 
-Return to the [Help Center](https://web.archive.org/web/20021205190912id_/http%3A//www.boston.com/help/index.shtml) homepage. 
+Return to the [Help Center](https://web.archive.org/web/20030603223343id_/http%3A//www.boston.com/help/index.shtml) homepage. 
 
 Return to the [ Boston.com](http://www.boston.com/) homepage. 
 
