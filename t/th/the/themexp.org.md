@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themexp.org privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214102333id_/http%3A//www.themexp.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themexp.org privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607144032id_/http%3A//www.themexp.org/privacy.php) for the most accurate reproduction.*
 
 # ThemeXP > Privacy Statement
 
@@ -18,7 +18,7 @@
 > 
 > ####  Registration Forms 
 > 
-> Our site's registration form requires users to give us contact information (like their name, and email). 
+> Our site's registration form requires users to give us contact information (like their name, and email). Any member's contact information displayed on this site cannot be used for any potentially commerical activity without ThemeXP's consent. 
 > 
 > ####  Contests 
 > 
@@ -53,4 +53,4 @@
 
 * * *
 
-Copyright © 2001 [Devire WS](http://www.devire.com/solutions/). All rights reserved. [Privacy statement.](https://web.archive.org/web/20011214102333id_/http%3A//www.themexp.org/privacy.php)
+Copyright © 2001-2002 [Devire WS](http://www.devire.com/solutions/). All rights reserved. [Privacy statement.](https://web.archive.org/web/20020607144032id_/http%3A//www.themexp.org/privacy.php)
