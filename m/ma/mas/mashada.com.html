@@ -1,291 +1,267 @@
-<!--The following is the downloaded HTML source of the mashada.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202232752id_/http%3A//www.mashada.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mashada.com privacy policy that was archived on 2004-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040610005726id_/http%3A//www.mashada.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<title>Welcome To Mashada</title>
+<title>Mashada.com - African Chat, Discussions, Music and News From Africa</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" href="css/styles.css" type="text/css">
-<script language="JavaScript">
-
-function isEmailAddr(email)
-{
-  var result = false;
-  var theStr = new String(email);
-  var index = theStr.indexOf("@");
-  if (index > 0)
-  {
-    var pindex = theStr.indexOf(".",index);
-    if ((pindex > index+1) && (theStr.length > pindex+1))
-  result = true;
-  }
-
-  return result;
-}
-
-function validRequired(formField,fieldLabel)
-{
-  var result = true;
-  
-  if (formField.value == "")
-  {
-    alert('Please enter a value for the "' + fieldLabel +'" field.');
-    formField.focus();
-    result = false;
-  }
-  
-  return result;
-}
-
-function validEmail(formField,fieldLabel,required)
-{
-  var result = true;
-  
-  if (required && !validRequired(formField,fieldLabel))
-    result = false;
-
-  if (result && ((formField.value.length < 3) || !isEmailAddr(formField.value)) )
-  {
-    alert("Please enter a complete email address in the form: yourname@yourdomain.com");
-    formField.focus();
-    result = false;
-  }
-   
-  return result;
-
-}
-
-
-function validNum(formField,fieldLabel,required)
-{
-  var result = true;
-
-  if (required && !validRequired(formField,fieldLabel))
-    result = false;
-  
-   if (result)
-   {
-     var num = parseInt(formField.value);
-     if (isNaN(num))
-     {
-       alert('Please enter a number for the "' + fieldLabel +'" field.');
-      formField.focus();    
-      result = false;
-    }
-  } 
-  
-  return result;
-}
-
-function validDate(formField,fieldLabel,required)
-{
-  var result = true;
-
-  if (required && !validRequired(formField,fieldLabel))
-    result = false;
-  
-   if (result)
-   {
-     var elems = formField.value.split("/");
-     
-     result = (elems.length == 3); // should be three components
-     
-     if (result)
-     {
-       var month = parseInt(elems[0]);
-        var day = parseInt(elems[1]);
-       var year = parseInt(elems[2]);
-      result = !isNaN(month) && (month > 0) && (month < 13) &&
-            !isNaN(day) && (day > 0) && (day < 32) &&
-            !isNaN(year) && (elems[2].length == 4);
-     }
-     
-      if (!result)
-
-     {
-       alert('Please enter a date in the format MM/DD/YYYY for the "' + fieldLabel +'" field.');
-      formField.focus();    
-    }
-  } 
-  
-  return result;
-}
-
-
-function validateForm1(theForm)
-{
-  // Start ------->
-  if (!validRequired(theForm.smsMessage,"Message"))
-    return false;
-  // <--------- End
-  
-  return true;
-}
-
-
-function validateForm2(theForm)
-{
-  // Start ------->
- 
-  if (!validRequired(theForm.name,"Name"))
-    return false;
-
-  if (!validEmail(theForm.email,"Email"))
-    return false;
-
-  if (!validRequired(theForm.message,"Message"))
-    return false;
-  // <--------- End
-  
-	return true ;
-}
-
-</script></head>
-
-
+<meta name="Description" content="Mashada is Africa's top online community with chat, discussions, news, music, polls and more">
+<meta name="Keywords" content="chat, discussions, news, music, polls, Benin, Burkino Faso, Cameroon, Central African Republic, Chad, Congo, Gabon, Guinea, Guinea Bissau, Ivory Coast, Mali, Mauritania, Niger, Senegal, Togo, Equatorial Guinea, Algeria, Angola, ARIPO, Botswana, Burundi, Comoro Islands, Congo, Djibouti, Egypt, Ethiopia, Gambia, Ghana, Guinea Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mauritius, Morocco, Mozambique, Namibia, Nigeria, Rwanda, St Helena, Sao Tome, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Swaziland, Tanzania, Tangiers, Tunisia, Uganda, Zaire, Zambia, Zanzibar, Tanzania, Zimbabwe">
+<link rel="stylesheet" href="http://www.mashada.com/css/styles.css" type="text/css">
+<link rel="icon" href="http://www.mashada.com/favicon.ico" type="image/x-icon"> 
+<link rel="shortcut icon" href="http://www.mashada.com/favicon.ico" type="image/x-icon">
+<script src="http://www.mashada.com/__utm.js" type="text/javascript"></script>
+</head>
 <body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#003366" vlink="#003366" alink="#CC0000">
 <table width="775" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td width="520" bgcolor="#336699"><img src="m_images/header_1.gif" width="520" height="50"></td>
-    <td rowspan="2" bgcolor="#336699" align="center" valign="bottom" width="255"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="520" bgcolor="#336699"><a href="http://www.mashada.com/index.php"><img src="http://www.mashada.com/m_images/header_1.gif" width="520" height="50" alt="Welcome To Mashada" border="0"></a></td>
+    <td width="255" rowspan="2" align="center" valign="bottom" background="http://www.mashada.com/m_images/header_bkg_2.gif" bgcolor="#336699">
+      <table border="0" cellspacing="0" cellpadding="0" background="">
         <tbody><tr>
-          <td align="center"><script language="JavaScript1.1" type="text/javascript">
-<!--
+          <td align="center"><script language="JavaScript1.1" type="text/javascript"><!--
 var bust = Math.floor(1000000*Math.random()+1);
-document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=13&bust=' + bust + '" target="_top">');
-document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=13&bust=' + bust + '&keyword=NULL" border="0" width="230" height="33" alt="Click Here!">');
+document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=20&bust=' + bust + '" target="_top">');
+document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=20&bust=' + bust + '&keyword=NULL" border="0" width="230" height="33" alt="Click Here!">');
 document.write('</A>');
-//-->
-</script><a href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=13&amp;bust=145857" target="_top"><img src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=13&amp;bust=145857&amp;keyword=NULL" border="0" width="230" height="33" alt="Click Here!"></a><noscript><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=13&slot=1" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=13&slot=1&keyword=NULL" border="0" width="230" height="33" alt="Click Here!"></A></noscript></td>
+//--></script><a href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=20&amp;bust=830462" target="_top"><img src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=20&amp;bust=830462&amp;keyword=NULL" border="0" width="230" height="33" alt="Click Here!"></a>
+              <noscript>
+              <A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=20&slot=1" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=20&slot=1&keyword=NULL" border="0" width="230" height="33" alt="Click Here!"> </A>
+            </noscript></td>
         </tr>
         <tr>
-          <td align="center" valign="bottom"><img src="m_images/50_width.gif" width="50" height="10"></td>
+          <td align="center" valign="bottom"><img src="http://www.mashada.com/m_images/50_width.gif" width="50" height="10"></td>
         </tr>
-      </tbody></table>
-    </td>
+    </tbody></table></td>
   </tr>
-  <tr> 
-    <td width="520" background="m_images/header_bkg.gif">
-      <table width="520" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr valign="bottom"> 
-          <td width="10"><img src="m_images/50_width.gif" width="10" height="10"></td>
-          <td width="80"><a href="index.php"><img src="m_images/home_off.gif" width="80" height="20" border="0" alt="Home"></a></td>
-          <td width="6"><img src="m_images/50_width.gif" width="6" height="10"></td>
-          <td width="80"><a href="forums/index.php"><img src="m_images/tabs_discussions_off.gif" width="80" height="20" border="0" alt="Discussions"></a></td>
-          <td width="6"><img src="m_images/50_width.gif" width="6" height="10"></td>
-          <td width="80"><a href="chat/index.php"><img src="m_images/tabs_chat_off.gif" width="80" height="20" border="0" alt="Chat"></a></td>
-          <td width="6"><img src="m_images/50_width.gif" width="6" height="10"></td>
-          <td width="80"><a href="rugby/"><img src="m_images/tabs_rugby_off.gif" width="80" height="20" border="0" alt="Rugby"></a></td>
-          <td width="6"><img src="m_images/50_width.gif" width="6" height="10"></td>
-          <td width="80"><a href="photos/"><img src="m_images/tabs_photos_off.gif" width="80" height="20" border="0" alt="Directory"></a></td>
-          <td width="6"><img src="m_images/50_width.gif" width="6" height="10"></td>
-          <td width="80"><a href="radio.php"><img src="m_images/tabs_radio_off.gif" width="80" height="20" border="0" alt="Radio"></a></td>
+  <tr>
+    <td width="520" background="http://www.mashada.com/m_images/header_bkg.gif">
+	      <table width="520" border="0" cellspacing="0" cellpadding="0" background="">
+        <tbody><tr valign="bottom">
+          <td width="10"><img src="http://www.mashada.com/m_images/50_width.gif" width="10" height="10"></td>
+          <td width="80"><a href="http://www.mashada.com/index.php"><img src="http://www.mashada.com/m_images/home_on.gif" width="80" height="20" border="0" alt="Home"></a></td>
+          <td width="6"><img src="http://www.mashada.com/m_images/50_width.gif" width="6" height="10"></td>
+          <td width="80"><a href="http://www.mashada.com/forums/index.php"><img src="http://www.mashada.com/m_images/tabs_discussions_off.gif" width="80" height="20" border="0" alt="Discussions"></a></td>
+          <td width="6"><img src="http://www.mashada.com/m_images/50_width.gif" width="6" height="10"></td>
+          <td width="80"><a href="http://www.mashada.com/chat/index.php"><img src="http://www.mashada.com/m_images/tabs_chat_off.gif" width="80" height="20" border="0" alt="Chat"></a></td>
+          <td width="6"><img src="http://www.mashada.com/m_images/50_width.gif" width="6" height="10"></td>
+          <td width="80"><a href="http://www.mashada.com/photos/"><img src="http://www.mashada.com/m_images/tabs_photos_off.gif" width="80" height="20" border="0" alt="Photos"></a></td>
+          <td width="6"><img src="http://www.mashada.com/m_images/50_width.gif" width="6" height="10"></td>
+          <td width="80"><a href="http://www.mashada.com/events.php"><img src="http://www.mashada.com/m_images/tabs_calendar_off.gif" width="80" height="20" border="0" alt="Mashada Events"></a></td>
+          <td width="6"><img src="http://www.mashada.com/m_images/50_width.gif" width="6" height="10"></td>
+          <td width="80"><a href="http://www.mashada.com/rugby/"><img src="http://www.mashada.com/m_images/tabs_rugby_off.gif" width="80" height="20" border="0" alt="Rugby"></a></td>
         </tr>
-      </tbody></table>
-    </td>
+    </tbody></table>
+	</td>
   </tr>
 </tbody></table>
-<table width="775" border="0" cellspacing="0" cellpadding="1">
+<table width="775" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td bgcolor="#003D7B"><img src="http://www.mashada.com/m_images/50_width.gif" width="50" height="1"></td>
+  </tr>
+</tbody></table>
+<table width="775" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
     <td bgcolor="#000000">
       <table width="100%" border="0" cellspacing="0" cellpadding="3">
-        <form></form>
-          <tbody><tr bgcolor="#C2CBD1" valign="middle"> 
-            <td align="left" width="50%" background="m_images/cellpic1.gif"><font size="2" face="Arial, Helvetica, sans-serif"><img src="m_images/50_width.gif" width="10" height="10"><a href="index.php" class="menu_text">Home</a> 
-              <img src="m_images/arrow_black_small.gif" width="14" height="9"><span class="menu_text">Contact 
-              Us </span></font></td>
-            <td align="right" background="m_images/cellpic1.gif" width="50%"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><span class="menu_text_bold">Search</span></b></font> 
-              <select name="select">
-                <option value="1" selected="">Discussions</option>
-                <option value="2">Directory</option>
-              </select>
-              <input type="text" name="keyword" size="20">
-              <input type="submit" name="Submit" value="GO">
-            </td>
+        <form name="thisform" action="http://www.mashada.com/forums/index.php" method="post"></form>
+          <input type="hidden" value="search" name="az">
+          <input type="hidden" value="0" name="select_forum">
+          <input type="hidden" value="And" name="search_logic">
+          <input type="hidden" value="subject_message" name="search_field">
+          <input type="hidden" value="0" name="search_days">
+          <input type="hidden" value="25" name="hits_per_page">
+		  <input type="hidden" name="search" value="search now">
+          <tbody><tr bgcolor="#C2CBD1" valign="middle">
+            <td align="left" width="50%" background="http://www.mashada.com/m_images/cellpic3.gif"><font size="2" face="Arial, Helvetica, sans-serif"><img src="http://www.mashada.com/m_images/50_width.gif" width="10" height="10"><a href="http://www.mashada.com/index.php" class="menu_text"><strong>Home</strong></a> <img src="http://www.mashada.com/m_images/arrow_black_small.gif" width="14" height="9">Privacy</font></td>
+            <td align="right" background="http://www.mashada.com/m_images/cellpic3.gif" width="50%"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><span class="search">Search</span></b></font>
+                <input type="text" name="keyword" size="20">
+            <input type="submit" name="search_button" value="GO">            </td>
           </tr>
         
-      </tbody></table>
-    </td>
+    </tbody></table></td>
   </tr>
 </tbody></table>
 <table width="775" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr valign="top"> 
-    <td width="110" bgcolor="#D0D7DD" align="center"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="2">
-        <tbody><tr bgcolor="#A6B3BB"> 
-          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="forums/index.php?az=login" class="menu_text_bold">Login</a></font></b></td>
-          <td width="20"><b><a href="forums/index.php?az=login"><img src="m_images/login.gif" width="16" height="18" border="0"></a></b></td>
+  <tbody><tr valign="top">
+    <td width="110" bgcolor="#eeeeee" align="center">
+      <table width="100%" border="0" cellspacing="0" cellpadding="2" background="">
+        <tbody><tr bgcolor="#DEE3EF">
+          <td colspan="2"><img src="http://www.mashada.com/m_images/50_width.gif" width="50" height="2"></td>
         </tr>
-        <tr bgcolor="#A6B3BB"> 
-          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="forums/index.php?az=user&amp;saz=inbox" class="menu_text_bold">Inbox</a></font></b></td>
-          <td width="20"><b><a href="forums/index.php?az=user&amp;saz=inbox"><img src="m_images/mesg.gif" width="20" height="16" border="0"></a></b></td>
+        <tr onmouseover="this.style.backgroundColor='#FFCF31'" onmouseout="this.style.backgroundColor='#DEE3EF'" bgcolor="#DEE3EF">
+          <td width="100%" align="right"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.mashada.com/forums/index.php?az=login" class="menu_text_bold">Login</a></font></td>
+          <td width="20"><img src="http://www.mashada.com/m_images/arrow_black_small_20.gif" width="20" height="9"></td>
         </tr>
-        <tr bgcolor="#A6B3BB"> 
-          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="forums/index.php?az=register" class="menu_text_bold">Register</a></font></b></td>
-          <td width="20"><b><a href="forums/index.php?az=register"><img src="m_images/profile.gif" width="16" height="18" border="0"></a></b></td>
+        <tr onmouseover="this.style.backgroundColor='#FFCF31'" onmouseout="this.style.backgroundColor='#DEE3EF'" bgcolor="#DEE3EF">
+          <td width="100%" align="right"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.mashada.com/forums/index.php?az=register" class="menu_text_bold">Register</a></font></td>
+          <td width="20"><img src="http://www.mashada.com/m_images/arrow_black_small_20.gif" width="20" height="9"></td>
+        </tr>
+        <tr onmouseover="this.style.backgroundColor='#FFCF31'" onmouseout="this.style.backgroundColor='#DEE3EF'" bgcolor="#DEE3EF">
+          <td width="100%" align="right"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.mashada.com/contact.php" class="menu_text_bold">Contact Us</a></font></td>
+          <td width="20"><img src="http://www.mashada.com/m_images/arrow_black_small_20.gif" width="20" height="9"></td>
+        </tr>
+        <tr onmouseover="this.style.backgroundColor='#FFCF31'" onmouseout="this.style.backgroundColor='#DEE3EF'" bgcolor="#DEE3EF">
+          <td align="right"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.mashada.com/advertise.php" class="menu_text_bold">Advertise</a></font></td>
+          <td><img src="http://www.mashada.com/m_images/arrow_black_small_20.gif" width="20" height="9"></td>
+        </tr>
+        <tr onmouseover="this.style.backgroundColor='#FFCF31'" onmouseout="this.style.backgroundColor='#DEE3EF'" bgcolor="#DEE3EF">
+          <td align="right"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.mashada.com/about.php" class="menu_text_bold">About Us</a></font></td>
+          <td><img src="http://www.mashada.com/m_images/arrow_black_small_20.gif" width="20" height="9"></td>
+        </tr>
+        <tr onmouseover="this.style.backgroundColor='#FFCF31'" onmouseout="this.style.backgroundColor='#DEE3EF'" bgcolor="#DEE3EF">
+          <td align="right"><font color="#FFFFFF" size="2" face="Arial, Helvetica, sans-serif"><a href="http://www.mashada.com/privacy.php" class="menu_text_bold">Privacy</a></font></td>
+          <td><img src="http://www.mashada.com/m_images/arrow_black_small_20.gif" width="20" height="9"></td>
+        </tr>
+        <tr bgcolor="#DEE3EF">
+          <td colspan="2"><img src="http://www.mashada.com/m_images/50_width.gif" width="50" height="2"></td>
         </tr>
       </tbody></table>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td bgcolor="#000000"><img src="m_images/50_width.gif" width="50" height="1"></td>
-        </tr>
-      </tbody></table>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr> 
-          <td align="center"><img src="../m_images/50_width.gif" width="110" height="15"></td>
-        </tr>
-        <tr> 
-          <td align="center">
-		  <a href="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&amp;campaign=60&amp;banner=67&amp;publisher=0&amp;mode=CLICK&amp;bust=504822&amp;timestamp=20031202170532" target="_top"><img src="http://www.qksrv.net/image-463750-9950730" border="0" width="88" height="31" alt="Click Here!"></a>
-
-		  </td>
-        </tr>
-        <tr> 
-          <td align="center"><img src="../m_images/50_width.gif" width="110" height="10"></td>
-        </tr>
-        <tr> 
-          <td align="center">
-  		  <a href="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&amp;campaign=28&amp;banner=33&amp;publisher=0&amp;mode=CLICK&amp;bust=387050&amp;timestamp=20031202170532" target="_top"><img src="http://www.go-adsfx.com/fx/banners/88x31/chat.gif" border="0" width="88" height="31" alt="Click Here!"></a>
-
-		  </td>
-        </tr>
-        <tr> 
-          <td align="center"><img src="../m_images/50_width.gif" width="110" height="10"></td>
-        </tr>
-        <tr> 
-          <td align="center">
-		  <a href="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=12&amp;campaign=26&amp;banner=31&amp;publisher=0&amp;mode=CLICK&amp;bust=11241&amp;timestamp=20031202170532" target="_top"><img src="http://www.go-adsfx.com/fx/banners/88x31/advertise.gif" border="0" width="88" height="31" alt="Click Here!"></a>
-
-		  </td>
+      <table width="100%" border="0" cellspacing="0" cellpadding="0" background="">
+        <tbody><tr>
+          <td bgcolor="#E3E9F1"><img src="http://www.mashada.com/m_images/50_width.gif" width="50" height="1"></td>
         </tr>
         <tr>
-          <td align="center"><img src="../m_images/50_width.gif" width="110" height="15"></td>
-        </tr>
-</tbody></table>        <table width="100%" border="0" cellspacing="0" cellpadding="2">
-        <tbody><tr> 
-          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="contact.php" class="menu_text">Contact 
-            Us</a></font></b></td>
-          <td width="20"><b><img src="m_images/arrow_black_small_20.gif" width="20" height="9"></b></td>
-        </tr>
-        <tr> 
-          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="advertise.php" class="menu_text">Advertise</a></font></b></td>
-          <td width="20"><b><img src="m_images/arrow_black_small_20.gif" width="20" height="9"></b></td>
-        </tr>
-        <tr> 
-          <td width="100%" align="right"><b><font size="2" face="Arial, Helvetica, sans-serif"><a href="about.php" class="menu_text">About 
-            Us</a></font></b></td>
-          <td width="20"><b><img src="m_images/arrow_black_small_20.gif" width="20" height="9"></b></td>
+          <td bgcolor="#BDCFDE"><img src="http://www.mashada.com/m_images/50_width.gif" width="50" height="7"></td>
         </tr>
       </tbody></table>
-    </td>
-    <td width="1" bgcolor="#000000"><img src="m_images/50_width.gif" width="1" height="10"></td>
-    <td width="512">
-      <table width="100%" border="0" cellspacing="0" cellpadding="10">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="center"><table border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td align="center"><img src="http://www.mashada.com/m_images/50_width.gif" width="88" height="5"></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="http://www.mashada.com/m_images/featured_adv_88.gif" width="88" height="30"></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="http://www.mashada.com/m_images/50_width.gif" width="88" height="5"></td>
+      </tr>
+      <tr>
+        <td align="center">
+			<script language="JavaScript1.1" type="text/javascript">
+			<!--
+			var bust = Math.floor(1000000*Math.random()+1);
+			document.write('<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=23&bust=' + bust + '&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">');
+			document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=23&bust=' + bust + '" target="_top">');
+			document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=23&bust=' + bust + '&keyword=NULL" border="0" width="88" height="31" alt="Click Here!">');
+			document.write('</A>');
+			document.write('</IFRAME>');
+			//-->
+			</script><iframe src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=23&amp;bust=640013&amp;keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=23&bust=640013" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=23&bust=640013&keyword=NULL" border="0" width="88" height="31" alt="Click Here!"></A></iframe>
+			<noscript>
+			<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=23&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">
+			<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=23&slot=1" target="_top">
+			<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=23&slot=1&keyword=NULL" border="0" width="88" height="31" alt="Click Here!">
+			</A>
+			</IFRAME>
+			</noscript>		
+		</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="http://www.mashada.com/m_images/50_width.gif" width="88" height="10"></td>
+      </tr>
+      <tr>
+        <td align="center">
+			<script language="JavaScript1.1" type="text/javascript">
+			<!--
+			var bust = Math.floor(1000000*Math.random()+1);
+			document.write('<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=24&bust=' + bust + '&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">');
+			document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=24&bust=' + bust + '" target="_top">');
+			document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=24&bust=' + bust + '&keyword=NULL" border="0" width="88" height="31" alt="Click Here!">');
+			document.write('</A>');
+			document.write('</IFRAME>');
+			//-->
+			</script><iframe src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=24&amp;bust=765114&amp;keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=24&bust=765114" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=24&bust=765114&keyword=NULL" border="0" width="88" height="31" alt="Click Here!"></A></iframe>
+			<noscript>
+			<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=24&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">
+			<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=24&slot=1" target="_top">
+			<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=24&slot=1&keyword=NULL" border="0" width="88" height="31" alt="Click Here!">
+			</A>
+			</IFRAME>
+			</noscript>		
+		</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="http://www.mashada.com/m_images/50_width.gif" width="88" height="10"></td>
+      </tr>
+      <tr>
+        <td align="center">
+			<script language="JavaScript1.1" type="text/javascript">
+			<!--
+			var bust = Math.floor(1000000*Math.random()+1);
+			document.write('<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=25&bust=' + bust + '&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">');
+			document.write('<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=25&bust=' + bust + '" target="_top">');
+			document.write('<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=25&bust=' + bust + '&keyword=NULL" border="0" width="88" height="31" alt="Click Here!">');
+			document.write('</A>');
+			document.write('</IFRAME>');
+			//-->
+			</script><iframe src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=25&amp;bust=278954&amp;keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=25&bust=278954" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=25&bust=278954&keyword=NULL" border="0" width="88" height="31" alt="Click Here!"></A></iframe>
+			<noscript>
+			<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=25&keyword=NULL" height="31" width="88" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">
+			<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=25&slot=1" target="_top">
+			<IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=25&slot=1&keyword=NULL" border="0" width="88" height="31" alt="Click Here!">
+			</A>
+			</IFRAME>
+			</noscript>		
+		</td>
+      </tr>
+      <tr>
+        <td align="center"><img src="http://www.mashada.com/m_images/50_width.gif" width="88" height="10"></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://www.mashada.com/advertise.php"><img src="http://www.mashada.com/m_images/your_ad_here_88.gif" alt="Your Ad Here!" width="88" height="31" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center"><img src="http://www.mashada.com/m_images/50_width.gif" width="88" height="10"></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://www.travelafrica.biz"><img src="http://www.mashada.com/m_images/50_width.gif" alt="Travel Africa" width="88" height="5" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://www.onetrade.biz"><img src="http://www.mashada.com/m_images/50_width.gif" alt="One Trade Marketplace" width="88" height="5" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://www.groupdev.com"><img src="http://www.mashada.com/m_images/50_width.gif" alt="GroupDev!" width="88" height="5" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://www.serviceaid.net"><img src="http://www.mashada.com/m_images/50_width.gif" alt="Service Aid" width="88" height="5" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://www.quickclean4u.com"><img src="http://www.mashada.com/m_images/50_width.gif" alt="Quick Clean Contractors" width="88" height="5" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://www.mashada.com/phonecards.php"><img src="http://www.mashada.com/m_images/50_width.gif" alt="Mashada Phone Cards" width="88" height="5" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://www.adsfx.com"><img src="http://www.mashada.com/m_images/50_width.gif" alt="Advertising Effects" width="88" height="5" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://www.mashada.com/selfserve"><img src="http://www.mashada.com/m_images/50_width.gif" alt="Mashada Self-Serve" width="88" height="5" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://www.travelafrica.biz/more_links.asp"><img src="http://www.mashada.com/m_images/50_width.gif" alt="Travel Africa" width="88" height="5" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://shop.mashada.com"><img src="http://www.mashada.com/m_images/50_width.gif" alt="Mashada Shopping" width="88" height="5" border="0"></a></td>
+      </tr>
+      <tr>
+        <td align="center"><a href="http://www.mashada.com/shop/catalog"><img src="http://www.mashada.com/m_images/50_width.gif" alt="Mashada Shopping" width="88" height="5" border="0"></a></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+</tbody></table>
+</td>
+        </tr>
+      </tbody></table>	</td>
+    <td width="1" bgcolor="#000000"><img src="http://www.mashada.com/m_images/50_width.gif" width="1" height="10"></td>
+    <td width="512">      <table width="100%" border="0" cellspacing="0" cellpadding="10">
         <tbody><tr align="left"> 
           <td valign="top"> 
             <table width="100%" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr> 
-                <td><img src="m_images/title_privacy.gif" width="492" height="34" alt="Privacy Policy"></td>
+                <td background="m_images/title_2004_bkg.gif"><img src="m_images/title_2004_privacy.gif" width="300" height="41" alt="Privacy Policy"></td>
               </tr>
               <tr> 
                 <td><img src="m_images/50_width.gif" width="50" height="10"></td>
@@ -494,7 +470,7 @@ document.write('</A>');
 	document.write('</A>');
 	document.write('</IFRAME>');
 	//-->
-	</script><iframe src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=4&amp;bust=19282&amp;keyword=NULL" height="60" width="468" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=4&bust=19282" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=4&bust=19282&keyword=NULL" border="0" width="468" height="60" alt="Click Here!"></A></iframe>
+	</script><iframe src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=4&amp;bust=633045&amp;keyword=NULL" height="60" width="468" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no"><A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=4&bust=633045" target="_top"><IMG src="http://www.go-adsfx.com/cgi-bin/fx/bimg.fpl?region=4&bust=633045&keyword=NULL" border="0" width="468" height="60" alt="Click Here!"></A></iframe>
 	<noscript>
 	<IFRAME src="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=4&keyword=NULL" height="60" width="468" marginwidth="0" marginheight="0" vspace="0" hspace="0" frameborder="0" align="middle" scrolling="no">
 	<A href="http://www.go-adsfx.com/cgi-bin/fx/blink.fpl?region=4&slot=1" target="_top">
@@ -505,34 +481,50 @@ document.write('</A>');
 	          </td>
         </tr>
       </tbody></table>
-    </td>
-    <td background="m_images/bkg_dots.gif" width="2"><img src="m_images/50_width.gif" width="2" height="400"></td>
-    <td width="150" bgcolor="#E8E8E0" align="center"><img src="m_images/50_width.gif" width="150" height="5"><img src="m_images/ad.gif" width="120" height="10"><img src="m_images/50_width.gif" width="150" height="5"><br>
-      <a href="http://www.go-adsfx.com/cgi-bin/fx/banners.fpl?region=55&amp;campaign=159&amp;banner=185&amp;publisher=0&amp;mode=CLICK&amp;bust=67312&amp;timestamp=20031202170532" target="_top"><img src="http://www.go-adsfx.com/fx/banners/120x240/match_com_120_360.jpg" border="0" width="120" height="360" alt="Click Here!"></a>
+</td>
+    <td background="http://www.mashada.com/m_images/bkg_dots.gif" width="2"><img src="http://www.mashada.com/m_images/50_width.gif" width="2" height="400"></td>
+    <td width="150" bgcolor="#E8E8E0" align="center" background="http://www.mashada.com/m_images/column_bkg.gif"><img src="http://www.mashada.com/m_images/50_width.gif" width="150" height="5">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0" background="">
+          <tbody><tr>
+            <td align="center" bgcolor="#E8E8E0"><img src="http://www.mashada.com/m_images/ad.gif" width="120" height="10"></td>
+          </tr>
+        </tbody></table>
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td align="center"><img src="http://www.mashada.com/m_images/50_width.gif" width="150" height="15"></td>
+          </tr>
+        </tbody></table>
 
+		<!-- Mashada Self Serve Zone: Main Page - Right Column -->
+<script language="Javascript" src="http://www.mashada.com/selfserve/index.php?section=serve&amp;action=1&amp;cache_p=1086829046">
+</script>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="center"><a href="http://www.mashada.com/selfserve"><img src="http://www.mashada.com/m_images/see_your_ad_here.gif" width="130" height="19" alt="See Your Ad Here!" border="0"></a></td>
+  </tr>
+</tbody></table>
     </td>
   </tr>
 </tbody></table>
 <table width="775" border="0" cellspacing="0" cellpadding="1">
-  <tbody><tr> 
-    <td bgcolor="#000000"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tbody><tr>
+    <td bgcolor="#000000">
+      <table width="100%" border="0" cellspacing="0" cellpadding="3">
         <form></form>
-          <tbody><tr bgcolor="#CCCC99" valign="middle"> 
-            <td align="center">&nbsp;</td>
+          <tbody><tr bgcolor="#CCCC99" valign="middle">
+            <td align="left" bgcolor="#D0D7DD"><font size="1" face="Verdana, Arial, Helvetica, sans-serif">© 1998
+                - 2004 Mashada.com. All Rights Reserved. Developed By <a href="http://www.kobia.net" target="_blank">Kobia
+            Interactive</a>. Hosted By <a href="http://www.mashada.net" target="_blank">Mashada.Net</a></font></td>
           </tr>
         
-      </tbody></table>
-    </td>
+    </tbody></table></td>
   </tr>
 </tbody></table>
 <table width="775" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td align="center" valign="top"> <font size="1" face="Verdana, Arial, Helvetica, sans-serif">© 
-      1998 - 2003 Mashada.com. All Rights Reserved. Developed By <a href="http://www.kobia.net" target="_blank">Kobia 
-      Interactive</a></font></td>
+    <td align="center"><a href="http://www.kobia.net"><font color="#FFFFFF">.</font></a><a href="http://www.travelafrica.biz"><font color="#FFFFFF">.</font></a><a href="http://www.mashada.com"><font color="#FFFFFF">.</font></a> <a href="http://www.onetrade.biz"><font color="#FFFFFF">.</font></a><a href="http://www.adsfx.com"><font color="#FFFFFF">.</font></a> <a href="http://www.african-safari-travel.com"><font color="#FFFFFF">.</font></a><a href="http://www.africasms.com"><font color="#FFFFFF">.</font></a><a href="http://www.kenyadirect.com"><font color="#FFFFFF">.</font></a><a href="http://www.kenyan-safari.com"><font color="#FFFFFF">.</font></a><a href="http://www.south-african-safari.net"><font color="#FFFFFF">.</font></a><a href="http://www.survivor-kenya.com"><font color="#FFFFFF">.</font></a><a href="http://www.quickclean4u.com"><font color="#FFFFFF">.</font></a><a href="http://www.serviceaid.net"><font color="#FFFFFF">.</font></a><a href="http://www.tradezone.com/tradesites/onetrade.html"><font color="#FFFFFF">.</font></a><a href="http://www.mashada.com/extra"><font color="#FFFFFF">.</font></a><a href="http://www.mashadanews.com/extra/PPL.Search.asp?zoneid=5"><font color="#FFFFFF">.</font></a><a href="http://www.mashadanews.com/extra/PPL.Search.asp?zoneid=1"><font color="#FFFFFF">.</font></a><a href="http://www.mashadanews.com/extra/PPL.Search.asp?zoneid=2"><font color="#FFFFFF">.</font></a><a href="http://www.mashadanews.com/extra/PPL.Search.asp?zoneid=10"><font color="#FFFFFF">.</font></a><a href="http://www.mashada.com/phonecards.php"><font color="#FFFFFF">.</font></a></td>
   </tr>
 </tbody></table>
-
 
 </body></html>
