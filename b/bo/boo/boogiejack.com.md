@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boogiejack.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209055200id_/http%3A//www.boogiejack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boogiejack.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405011401id_/http%3A//www.boogiejack.com/privacy.html) for the most accurate reproduction.*
 
 # BOOGIE JACK'S PRIVACY POLICY
 
- |  [ ](https://web.archive.org/web/20001209055200id_/http%3A//www.boogiejack.com/index.html)
+ |  [ ](https://web.archive.org/web/20010405011401id_/http%3A//www.boogiejack.com/index.html)
 
 ### Boogie Jack's Web Depot Privacy Policy
 
@@ -43,4 +43,4 @@ Dennis Gaskill
 Boogie Jack's Web Depot  
 PO Box 603  
 Plover, WI 54467  
-[Contact Info](https://web.archive.org/web/20001209055200id_/http%3A//www.boogiejack.com/contact.html)
+[Contact Info](https://web.archive.org/web/20010405011401id_/http%3A//www.boogiejack.com/contact.html)
