@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408202556id_/http%3A//www.mtvindia.com/mtv/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtvindia.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214093356id_/http%3A//mtvindia.com/mtv/Privacy.html) for the most accurate reproduction.*
 
 # mtvindia.com
 
@@ -43,6 +43,6 @@ MTVindia.com gives users options wherever necessary and practical. Such choices 
 Users may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter.
 
 MTVindia.com  
-C/o Asiacontent.com (India) Pvt Ltd   
-Unit 35, Filmcenter Bldg   
+MTV INDIA Pvt Ltd   
+11 A, Filmcenter Bldg   
 68, Tardeo Road Mumbai - 400034
