@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604015028id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholastic.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217201055id_/http%3A//www.scholastic.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -32,7 +32,7 @@ In some areas of our site, we collect personally identifiable information from p
 
 There are many activities on the Scholastic site that are for teachers, which enable teachers to add another dimension to their classroom and students' activities. In order to create such online classroom activities, we will collect personally identifiable information from teachers and have teachers provide a password to their students so that students can publish materials online and do other activities online in connection with their class through the use of such password. We will only enable such passwords with the verifiable consent provided by teachers acting on behalf of parents. We also have classroom activities such as Scholastic Global Classport ([click here](https://web.archive.org/toolkit/classport/privacy.htm) for further details) where we collect prior consent from teachers on behalf of parents in order for children 12 years old and under to participate.
 
-A teacher may revoke the consent she has provided on behalf of her students' parents, or inquire about personally identifiable information that has been collected from a student on Scholastic Global Classport, by returning [this letter](https://web.archive.org/web/20010604015028id_/http%3A//www.scholastic.com/parents/inforequest/tchrequest.htm) to the specified address.
+A teacher may revoke the consent she has provided on behalf of her students' parents, or inquire about personally identifiable information that has been collected from a student on Scholastic Global Classport, by returning [this letter](https://web.archive.org/web/20011217201055id_/http%3A//www.scholastic.com/parents/inforequest/tchrequest.htm) to the specified address.
 
 When teachers register with our site, we use their sign-in information, which contains personally identifiable information, to ensure that only the teacher who has signed in has access to his or her personal areas of the site. For example, only registered teachers are permitted to administer Class Homepages. Access to administer a teacher's Class Homepage is controlled via that teacher's personal username and password, which was established during the registration process.
 
