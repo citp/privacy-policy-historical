@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806030602id_/http%3A//parkplaza.com/customerservice/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604233115id_/http%3A//www.parkplaza.com/customerservice/privacy.jsp) for the most accurate reproduction.*
 
-# Welcome to Park Plaza - Your Privacy Rights
-
-|  | 
+# Welcome to Park Plaza Hotels & Resorts - Your Privacy Rights
 
 **Privacy Philosophy**  
 We want to make your experience online satisfying and safe. We want to provide you with the means to control your privacy and give you a way to voice questions or concerns you may have. 
@@ -10,10 +8,19 @@ We want to make your experience online satisfying and safe. We want to provide y
 Information is collected from you to make it easier and more rewarding for you to use our services. By knowing customer preferences, services and special offerings can be tailored to provide superior levels of convenience. Depending on the service you are accessing, you could be asked at various times to provide information such as your name, email address or information about what you like and do not like. On other occasions when we provide items for purchase online, we may request your credit card number to conclude the transaction or your mailing address to insure proper delivery. Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from children.
 
 **What Information Do We Collect?**  
-We collect information in several different ways. We collect the domain name of visitors to our Web pages, the e-mail addresses of those visitors who volunteer them, user-specific information on the pages visitors access, and information such as survey information, postal address, telephone numbers and site registrations that you provide voluntarily. Like many other commercial websites, our web sites may employ a standard technology called a "cookie" to collect information about how our site is used. 
+We collect information in several different ways. We collect:
+
+  * the domain name of visitors to our Web pages,
+  * the e-mail addresses of those visitors who volunteer them,
+  * user-specific information on the pages visitors access,
+  * and information such as survey information, postal address, telephone numbers and site registrations that you provide voluntarily.
+
+
+
+Like many other commercial websites, our web sites may employ a standard technology called a "cookie" to collect information about how our site is used. 
 
 **Who Is Collecting the Information?**  
-The information that you provide is collected by this Company. We are a subsidiary of Carlson Companies, Inc., which is the parent corporation of a diversified, worldwide group of service corporations operating primarily in the business of hospitality, travel, e-commerce and relationship marketing. The customer-focused initiatives of Carlson Companies, Inc. are designed to deliver a broad range of personalized products and services to our customers. Among the Carlson family of brands and services are: Carlson Marketing Group, Carlson Wagonlit Travel, Regent International Hotels, Radisson Hotels & Resorts, Country Inns & Suites By Carlson, Park Inn hotels, Park Plaza hotels, Result Travel, Cruise Holidays, Radisson Seven Seas Cruises and TGI Friday's restaurants.
+The information that you provide is collected by this Company. We are a subsidiary of Carlson Companies, Inc., which is the parent corporation of a diversified, worldwide group of service corporations operating primarily in the business of hospitality, travel, e-commerce and relationship marketing. The customer-focused initiatives of Carlson Companies, Inc. are designed to deliver a broad range of personalized products and services to our customers. Among the Carlson family of brands and services are: Carlson Marketing Group, Carlson Wagonlit Travel, Regent International Hotels, Radisson Hotels & Resorts, Country Inns & Suites By Carlson, Park Inn hotels, Park Plaza Hotels & Resorts, Cruise Holidays, Radisson Seven Seas Cruises and TGI Friday's restaurants.
 
 **How the Information Is Used**  
 We use the information that we collect to understand your preferences and history. With this information we can tailor our services and special offerings to provide superior levels of convenience and service on a one-to-one basis. We also use the collected information to improve the design of our Web pages. If you collect Gold Points by using our brands, processing information will be sent to Gold Points, so that they can keep track of your transactions and properly credit your account.
@@ -28,7 +35,7 @@ Other companies which place advertising on our site may collect information abou
 There may be links that will let you leave our site. We do not control the links or their sites and we are not responsible for the contents of any linked site or any link contained in a linked site. The inclusion of any link does not imply endorsement of the site. The use and/or privacy provided by the operator of a linked site as to any information you provide in accessing a linked site is in no way subject to our privacy policy. Each linked site may have its own policy that could differ considerably from our policy, or the linked site may not display any privacy policy at all. In any case, even though a linked site is accessed through our site, we cannot be responsible for any use that a linked site may make of your information.
 
 **Declining Offers**  
-If you do not want to receive posted or e-mail offers from us or from our partners, please let us know by visiting our Web site to unsubscribe online or by sending us an e-mail message to parkwebadmin@parkhosp.com telling us that you do not want to receive offers. Our e-mailed offers include instructions for unsubscribing from e-mailed offers. If you want to be removed from our postal mailing list, please provide us with your complete name and address.
+If you do not want to receive posted or e-mail offers from us or from our partners, please let us know by visiting our Web site to unsubscribe online or by sending us an e-mail message to [ **parkplazacs3@parkplaza.com**](mailto:parkplazacs3@parkplaza.com) telling us that you do not want to receive offers. Our e-mailed offers also include instructions for unsubscribing. If you want to be removed from our postal mailing list, please provide us with your complete name and address.
 
 **What Kind of Security Procedures Are in Place to Protect the Loss, Misuse or Alteration of Information Under the Company's Control**  
 We operate secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers. Any particularly sensitive information, such as a customer's credit card number, is encrypted prior to transmission.
