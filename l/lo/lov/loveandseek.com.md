@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveandseek.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208173715id_/http%3A//www.loveandseek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandseek.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602084441id_/http%3A//www.loveandseek.com/privacy) for the most accurate reproduction.*
 
 # LoveAndSeek.com - make a lasting impression
 
