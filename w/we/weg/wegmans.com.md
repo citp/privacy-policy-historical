@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2001-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011219202035id_/http%3A//wegmans.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegmans.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601145141id_/http%3A//www.wegmans.com/privacy.asp) for the most accurate reproduction.*
 
 # Wegmans: Privacy Policy
 
@@ -20,7 +20,7 @@
 
 > The information you provide helps us understand your preferences, so we can personalize and continually improve your online experience (see examples below).
 > 
-> If at any time you would like us to cancel your registration, please do so by emailing [comments@wegmans.com](mailto:comments@wegmans.com). Inactive accounts are automatically purged after 1 year.
+> If at any time you would like us to cancel your registration, please [contact us](https://web.archive.org/guest/index.asp?/privacy.asp). Inactive accounts are automatically purged after 1 year.
 
 **Methods of gathering information**
 
