@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbstx.com privacy policy that was archived on 2003-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031005224839id_/http%3A//www.bcbstx.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbstx.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618083553id_/http%3A//www.bcbstx.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to the Blue Cross Blue Shield of Illinois
 
@@ -31,10 +31,8 @@ Top of Page
   
    
 •  | **Use of Internet Cookies**  
-  | We use Internet Cookies in places such as the [Rate Finder](http://www.bcbstx.com/indrating/introduction.asp)SM to remember the information you provide during a session. The information is to be retained only for that particular session so you don't have to re-enter it as you progress through the Rate Finder. Please refer to our Frequently Asked Questions section on the Web site for more information on [Internet Cookies](http://www.bcbstx.com/search/faq-cookies.htm).
-
+  | We use Internet Cookies in places such as the [Rate Finder](https://ratefinder.hcsc.net/ratefinder/ratefinder.htm)®  to remember the information you provide during a session. The information is to be retained only for that particular session so you don't have to re-enter it as you progress through the Rate Finder.   
 Top of Page  
-  
    
 •  | Confidentiality  
   |  Again, please use your own best judgment when sending information via the Internet to an e-mail address. E-mail sent via the Internet may pass through private and public networks with varying levels of security. Some networks may have taken steps to secure e-mail transmissions while others have not, thereby compromising the privacy and integrity of an e-mail. An e-mail may be copied, altered or destroyed. 
