@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the addfreestats.com privacy policy that was archived on 2003-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031224093854id_/http%3A//www2.addfreestats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addfreestats.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629063219id_/http%3A//www3.addfreestats.com/privacy.html) for the most accurate reproduction.*
 
-# AddFreeStats - Add Free Web Stats on your internet site
+# AFS Privacy Policy
 
-  
+| 
+
 **Privacy Statement :**  
 AddFreeStats has created this privacy statement in order to demonstrate its commitment to privacy. The following discloses our information gathering and dissemination practices for this site; 
 
@@ -27,8 +28,7 @@ AddFreeStats.com works with third parties that serves ads to this site. To find 
 
 [DoubleClick Privacy Policy](http://www.doubleclick.com/us/corporate/privacy/)   
 [TribalFusion Privacy Policy](http://www.tribalfusion.com/www/about/privacy.html)   
-[FastClik Privacy Policy](http://www.fastclick.com/about/privacy2.html)   
-[Sprinks Privacy Policy](http://search.sprinks.about.com/library/privacy.htm)
+[FastClik Privacy Policy](http://www.fastclick.com/about/privacy2.html)
 
 **Third Party Advertising**  
 We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp)
@@ -37,4 +37,6 @@ We use DoubleClick and other third-party advertising companies to serve ads when
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 **Contacting Us**  
-If you have any additional questions about AddFreeStats's dedication to consumer privacy, please contact us at info@addfreestats.com. 
+If you have any additional questions about AddFreeStats's dedication to consumer privacy, please contact us at info at addfreestats.com. 
+
+| 
