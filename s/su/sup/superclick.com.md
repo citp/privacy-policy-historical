@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superclick.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209114647id_/http%3A//www.superclick.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superclick.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412172037id_/http%3A//superclick.com/privacy/index.htm) for the most accurate reproduction.*
 
 # superclick
 
