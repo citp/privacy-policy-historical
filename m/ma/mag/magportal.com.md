@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210050814id_/http%3A//www.magportal.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413085747id_/http%3A//www.magportal.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (MagPortal.com)
 
@@ -37,6 +37,6 @@ You should keep your password secret and be extremely cautious when using shared
 
 Please be aware that whenever data is transmitted or stored there is always some risk of theft or misuse. 
 
-[Help](https://web.archive.org/help/)   [Home](https://web.archive.org/)   [Site Map](https://web.archive.org/sitemap.html)   [Privacy Policy](https://web.archive.org/help/privacy.html)   [Terms of Use](https://web.archive.org/help/terms.html)   [Contact Us](https://web.archive.org/help/contact.html)   [Advertise](https://web.archive.org/help/custom/advertise.html) Copyright © 2002 Hot Neuron LLC. All Rights Reserved.  
+[Help](https://web.archive.org/help/)   [Home](https://web.archive.org/)   [Site Map](https://web.archive.org/sitemap.html)   [Privacy Policy](https://web.archive.org/help/privacy.html)   [Terms of Use](https://web.archive.org/help/terms.html)   [Contact Us](https://web.archive.org/help/contact.html)   [Advertise](https://web.archive.org/help/custom/advertise.html) Copyright © 2003 Hot Neuron LLC. All Rights Reserved.  
 MagPortal.com is a registered service mark of Hot Neuron LLC.  
 Hot Neuron is a service mark of Hot Neuron LLC.
