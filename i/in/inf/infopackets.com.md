@@ -1,21 +1,8 @@
-> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813005936id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopackets.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608010857id_/http%3A//www.infopackets.com/privacy.htm) for the most accurate reproduction.*
 
-# Infopackets: Privacy Statement
+# Privacy Statement
 
- |  |   
----  
-| **  
-Recommend this site**  
----  
-| | You could win $10,000 by recommending this site.    
-  
----|---  
-**  
-Printer ink refills**  
----  
-| |  [ Click here](http://www.qksrv.net/click-721977-890235) for a competative price list of Apple, Canon, Brother, Epson, IBM, and Xerox printer ink refills.   
----|---  
- | |  | |  **Our Privacy Policy**
+**Our Privacy Policy**
 
 Infopackets.com is committed to user privacy in our products and services. This policy outlines our personal information handling practices. If you give us personal information, we will treat it according to this policy. 
 
@@ -91,6 +78,4 @@ Infopackets.com forums are public. Please consider this before posting.
 
 All updates to this policy will be posted here. 
 
-Last update: April 06, 2001 
-
-| 
+Last update: April 06, 2001
