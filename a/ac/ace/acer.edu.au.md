@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613180051id_/http%3A//www.acer.edu.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acer.edu.au privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020210433id_/http%3A//www.acer.edu.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
