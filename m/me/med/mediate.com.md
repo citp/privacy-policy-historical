@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediate.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209091843id_/http%3A//www.mediate.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediate.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605110831id_/http%3A//www.mediate.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -22,4 +22,4 @@ By Email: admin@mediate.com
 
   
   
-[](http://www.internetmediator.com/)
+[ ](http://www.mediate.com/familyattorney/)
