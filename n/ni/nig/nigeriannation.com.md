@@ -1,17 +1,11 @@
-> *The following text is extracted and transformed from the nigeriannation.com privacy policy that was archived on 2001-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010216024327id_/http%3A//www.nigeriannation.com/nigeria/misc/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriannation.com privacy policy that was archived on 2003-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031015015919id_/http%3A//nigeriannation.com/Misc/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-****  
-[ ](https://web.archive.org/web/20010216024327id_/http%3A//www.nigeriannation.com/index.asp) **You are 1 of 55 active users browsing the Nigerian Nation.** |  | 
+##   
+Privacy Statement for **Nigerian Nation**
 
-** Monday, February 24, 2020  **  
-  
----|---|---  
-  
-## Privacy Statement for **Nigerian Nation**
-
-[**Nigerian Nation**](https://web.archive.org/web/20010216024327id_/http%3A//www.nigeriannation.com/index.asp) **** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Nigerian Nation](https://web.archive.org/web/20010216024327id_/http%3A//www.nigeriannation.com/index.asp)
+[**Nigerian Nation**](https://web.archive.org/web/20031015015919id_/http%3A//nigeriannation.com/index.asp) **** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Nigerian Nation](https://web.archive.org/web/20031015015919id_/http%3A//nigeriannation.com/index.asp)
 
 #### Information Automatically Logged
 
@@ -31,7 +25,7 @@ Since we do not collect any personal information on this Web site, we do not sha
 
 #### External Links
 
-This site contains links to other sites. [**Nigerian Nation**](https://web.archive.org/web/20010216024327id_/http%3A//www.nigeriannation.com/index.asp) **** is not responsible for the privacy practices or the content of such Web sites. 
+This site contains links to other sites. [**Nigerian Nation**](https://web.archive.org/web/20031015015919id_/http%3A//nigeriannation.com/index.asp) **** is not responsible for the privacy practices or the content of such Web sites. 
 
 #### Public Forums
 
@@ -39,8 +33,8 @@ This site makes chat rooms, forums, message boards, and/or news groups available
 
 #### Children's Guidelines
 
- Nigerian Nation is a family oriented website and as such due caution is taken to see that it meets with all national, international and local standards of operation. Safeguarding the Personal Information of children is extremely important. For those [Nigerian Nation](https://web.archive.org/web/20010216024327id_/http%3A//www.nigeriannation.com/index.asp) sites specifically directed at children, and where users have indicated they are younger than 18, [Nigerian Nation](https://web.archive.org/web/20010216024327id_/http%3A//www.nigeriannation.com/index.asp) sites will collect the minimum amount of Personal Information necessary to the operation of the service. These [Nigerian Nation](https://web.archive.org/web/20010216024327id_/http%3A//www.nigeriannation.com/index.asp) sites will also send follow up mail to the user's e-mail address instructing them to seek parental permission for their use of the site. A child's Personal Information will be used for the operation of the service but it will not be used for "Secondary Uses" without a parent's permission. 
+ Nigerian Nation is a family oriented website and as such due caution is taken to see that it meets with all national, international and local standards of operation. Safeguarding the Personal Information of children is extremely important. For those [Nigerian Nation](https://web.archive.org/web/20031015015919id_/http%3A//nigeriannation.com/index.asp) sites specifically directed at children, and where users have indicated they are younger than 18, [Nigerian Nation](https://web.archive.org/web/20031015015919id_/http%3A//nigeriannation.com/index.asp) sites will collect the minimum amount of Personal Information necessary to the operation of the service. These [Nigerian Nation](https://web.archive.org/web/20031015015919id_/http%3A//nigeriannation.com/index.asp) sites will also send follow up mail to the user's e-mail address instructing them to seek parental permission for their use of the site. A child's Personal Information will be used for the operation of the service but it will not be used for "Secondary Uses" without a parent's permission. 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: **[ntly Asked Questions](https://web.archive.org/web/20010216024327id_/http%3A//www.nigeriannation.com/feedback_forms/Feedback_form.htm)**
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](https://web.archive.org/web/20031015015919id_/http%3A//nigeriannation.com/Misc/mail.asp).
