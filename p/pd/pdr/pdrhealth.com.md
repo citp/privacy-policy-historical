@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdrhealth.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401224421id_/http%3A//www.pdrhealth.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdrhealth.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204062927id_/http%3A//www.pdrhealth.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
