@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the primus.ca privacy policy that was archived on 2001-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010226191455id_/http%3A//www.primus.ca/en/legal/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primus.ca privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606234639id_/http%3A//www.primus.ca/en/legal/privacypolicy.htm) for the most accurate reproduction.*
 
-# Primus Canada Index Page
+# Primus Telecommunications Canada
 
 PRIVACY POLICY
 
@@ -34,15 +34,9 @@ Primus Canada is responsible for personal information under its control and shal
 
 1.2 Primus Canada's senior management has designated the following person to act as Privacy Officer to oversee the organization's compliance with the principles:
 
-> Attention: Privacy Officer  
->  Primus Telecommunications Canada Inc.  
->  710 Dorval Drive, Suite 700  
->  Oakville, Ontario  
->  L6K 3V7
-> 
-> Tel: (905) 337-6000 or toll free 1-800-363-3528  
->  Facsimile: (905) 337-2449  
->  Email: privacyofficer@primustel.ca 
+> Attention:   
+>  Primus Canada's Legal Department  
+>  Fax (416) 207-7754
 
 1.3 Primus Canada is responsible for personal information in its possession or custody, including information that has been transferred to a third party for processing. Primus Canada shall use contractual or other means to provide a comparable level of protection while the information is being processed by a third party.
 
