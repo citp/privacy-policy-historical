@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the selfhelpmagazine.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602084335id_/http%3A//selfhelpmagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfhelpmagazine.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004123450id_/http%3A//selfhelpmagazine.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Privacy Notice
+### PRIVACY NOTICE
 
 The Staff of SelfhelpMagazine is happy to offer you the reassurance that our goal is to respect your privacy online. We gather information about our visitors to help with tailoring our services to our visitors. We do not collect personal information through cookies. We only collect personally identifiable information like age, gender, e-mail addresses, etc., when voluntarily submitted through our Member Services Area. All such information is kept private, and not sold or transferred to third parties. It is used exclusively for our internal purposes. With this security, you may wish to know there are at least two ways in which you may expose yourself to unethical exploitation on the Internet: 
 
@@ -11,4 +11,4 @@ The Staff of SelfhelpMagazine is happy to offer you the reassurance that our goa
 
 
 
-We hope you are reassured that the company owning SelfhelpMagazine Magazine, Pioneer Development Resources, Inc., will not knowingly violate your privacy. Please feel free to use our pages as you deem appropriate to help yourself. If you have any questions regarding this privacy policy, please feel free to contact the SelfhelpMagazine Editor-in-Chief, Dr. Maheu at [Editor@SelfhelpMagazine.com](mailto:Editor@SelfhelpMagazine.com).
+We hope you are reassured that the company owning SelfhelpMagazine Magazine, Pioneer Development Resources, Inc., will not knowingly violate your privacy. Please feel free to use our pages as you deem appropriate to help yourself. If you have any questions regarding this privacy policy, please feel free to contact the SelfhelpMagazine Editor-in-Chief, Dr. Maheu at [Editor@SelfhelpMagazine.com](mailto:Editor@SelfhelpMagazine.com). 
