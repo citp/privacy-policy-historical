@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the condenast.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217200939id_/http%3A//condenast.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condenast.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605064429id_/http%3A//www.condenast.com/privacy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines
 
