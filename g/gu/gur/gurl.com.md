@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207053420id_/http%3A//www.gurl.com/about/privacypolicy/pages/0%2C%2C621914%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurl.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308124441id_/http%3A//www.gurl.com/about/privacypolicy/pages/0%2C%2C621914%2C00.html) for the most accurate reproduction.*
 
 # gURL.com
 
@@ -20,7 +20,7 @@
 [ ](https://web.archive.org/about/help/pages/0,,629839,00.html)  
 [ ](https://web.archive.org/about/help/pages/0,,621982,00.html)  
 |    
-EFFECTIVE DATE: April 15, 2004 
+EFFECTIVE DATE: December 31, 2004 
 
 The gURL.com website is owned and operated by iVillage Inc. ("iVillage"). Your privacy is important to iVillage. This Privacy Policy outlines the types of personally identifiable information we gather while you are visiting the gURL.com site, as well as ways in which we process and disseminate such information. You are, of course, free to use much of the gURL.com site without providing any personally identifiable information to us. 
 
@@ -60,12 +60,13 @@ The gURL.com site contains links to other Internet websites, which may or may no
 
 (2) Personally identifiable information: iVillage uses personally identifiable information as set forth herein. 
 
-  1. Websites Controlled, Owned or Operated by iVillage or iVillage Affiliates: We may share personally identifiable information collected from you through the gURL.com site with other websites that are controlled, owned or operated by iVillage or iVillage affiliates. For example, when you visit the astrology.com site, which is also operated by iVillage, iVillage may use information provided by you through the gURL.com site to "pre-populate" forms on the astrology.com site, to determine what advertising you see while visiting that site, or simply to better accommodate your likes and dislikes. 
-  2. No Intentional Sale or Lease: Except as set forth within this Privacy Policy and our [Terms of Service](https://web.archive.org/about/privacypolicy/pages/0,,621916,00.html) and other published guidelines, iVillage does not intentionally sell or lease personally identifiable information collected from gURL.com members and visitors to third-party marketers without the permission of such members and visitors. 
+  1. Websites Controlled, Owned or Operated by iVillage or iVillage Affiliates: We may share personally identifiable information collected from you through the gURL.com site with other websites that are controlled, owned or operated by iVillage or iVillage affiliates ("Affiliates"). For example, when you visit the astrology.com site, which is also operated by iVillage, iVillage may use information provided by you through the gURL.com site to "pre-populate" forms on the astrology.com site, to determine what advertising you see while visiting that site, or simply to better accommodate your likes and dislikes. (Disclosures of your personally identifiable information to our Affiliates for their direct marketing purposes are subject to the opt-out right set forth at the end of subsection (c) below.) 
+  2. No Intentional Sale or Lease: Except as set forth within this Privacy Policy and our [Terms of Service](https://web.archive.org/about/privacypolicy/pages/0,,621916,00.html) and other published guidelines, iVillage does not intentionally sell or lease personally identifiable information collected from gURL.com members and visitors to unaffiliated third-party marketers without the permission of such members and visitors. 
   3. Opt-In/Opt-Out Policy: When you become a gURL.com member or otherwise supply iVillage with personally identifiable information in connection with the gURL.com site, or from time-to-time in iVillage's discretion, you may be asked to indicate whether you are interested in receiving information from us about special offers in connection with the gURL.com site, iVillage and/or our advertisers and partners. You will also be provided with the opportunity to opt-in to receiving offers directly from our third-party advertisers or partners. If you do choose to opt-in, you will receive such communications in accordance with your "opt-in" consent. You may, of course, choose not to receive offers or other communications from us or our third-party advertisers or partners as follows: 
     * Upon becoming a gURL.com member, you can choose to receive no communications from us. Please be aware, however, that, even under this option, you may still receive an initial member welcome message, as well as communications as appropriate to inform you of changes to the gURL.com site, this Privacy Policy or other matters described below under "Administrative Matters". 
     * At any time, you can follow a link provided in every newsletter or email message (except for e-commerce confirmations and other administrative emails) to unsubscribe from that particular mailing list or email service. 
     * At any time, you can contact us through [feedback@mail.iVillage.com](mailto:feedback@mail.iVillage.com) to have your contact preference changed to "Do Not Contact Me". 
+    * At any time, you can contact us through [feedback@mail.iVillage.com](mailto:feedback@mail.iVillage.com) to opt out of having your personally identifiable information shared with our Affiliates for their direct marketing purposes.
 
 If you decide to contact us to change your contact preference to "Do Not Contact Me", iVillage will implement this change to your gURL.com profile within ten (10) business days of your request. Please be aware that your requested change will not be effective until iVillage implements such change and that such requests will be implemented only in connection with your gURL.com profile, and will not impact any preferences you may have made to any other site controlled, owned or operated by iVillage or its affiliates. In addition, please keep in mind that even if you opt-out from receiving communications from gURL.com, residual information about you will remain within iVillage databases, access logs and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, iVillage reserves the right, from time to time, to recontact former customers or users of gURL.com for administrative purposes, as discussed below under "Administrative Matters", or in order to comply with applicable law, as discussed below under "Compliance With Applicable Law". 
 
@@ -152,9 +153,8 @@ Questions regarding this Privacy Policy should be directed to us at [feedback@ma
   
   | ADVERTISEMENT  
   
-[](https://web.archive.org/seasonal/holiday/1,,653146,00.html)  
-[](https://web.archive.org/brainylicious/0,,648534,00.html)  
+[](https://web.archive.org/seasonal/promspecial/0,,632614,00.html)  
 |    
   
   
-© iVillage Inc. 1995-2004. All rights reserved.
+© iVillage Inc. 1995-2005. All rights reserved.
