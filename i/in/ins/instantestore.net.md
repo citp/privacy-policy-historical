@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantestore.net privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017045018id_/http%3A//www.instantestore.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantestore.net privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622045023id_/http%3A//www2.instantestore.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # InstanteStore.com - Ecommerce Solutions & Shopping Cart Software
 
