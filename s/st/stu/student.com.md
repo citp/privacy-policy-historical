@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603182506id_/http%3A//www.student.com/feature/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211210954id_/http%3A//www.student.com/feature/privacypolicy) for the most accurate reproduction.*
 
-# Student.Com: Members: Student.Com Privacy Policy
+# S T U D E N T . C O M - The College Site
 
 **Student.Com Privacy Policy**  
 
