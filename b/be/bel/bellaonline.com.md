@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621211842id_/http%3A//www.bellaonline.com/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230124927id_/http%3A//www.bellaonline.com/misc/privacy.asp) for the most accurate reproduction.*
 
 # All About BellaOnline - The Voice of Women
 
@@ -19,7 +19,7 @@ This statement discloses the privacy practices for BellaOnline.com ("Website"). 
 
 Questions regarding this statement should be directed to BellaOnline.com by sending an email to [info@bellaonline.com](mailto:info@bellaonline.com) and writing "Privacy Policy" in the subject line.
 
-This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement](https://web.archive.org/web/20040621211842id_/http%3A//www.bellaonline.com/misc/terms.asp). Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
+This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement](https://web.archive.org/web/20041230124927id_/http%3A//www.bellaonline.com/misc/terms.asp). Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
 
 How We Collect Information 
 
