@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204045100id_/http%3A//oregonlive.com/about/index.ssf%3F/about/privacy.frame) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405203833id_/http%3A//oregonlive.com/about/index.ssf%3F/about/privacy.frame) for the most accurate reproduction.*
 
 # Oregon Live -- About Us
 
 [](https://web.archive.org/)  
   
-|  |  [](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/about/index.ssf//about/privacy.frame/20001203235117/174951045/BannerTop/OREGONLIVE/OR_CLASSIFIEDS_AUTO/auto_class_t.a.gif/64306439366439303361326232326330)
+|  |  [](http://ads3.advance.net/RealMedia/ads/click_lx.ads/www.oregonlive.com/about/index.ssf//about/privacy.frame/20010405163835/1614156681/BannerTop/OREGONLIVE/AV_EASY2_OR01/Easybanner.gif/64306439366439303361636364376330)
 
 ## **Oregon Live PRIVACY POLICY**
 
