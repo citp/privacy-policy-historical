@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cheathappens.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204170543id_/http%3A//www.cheathappens.com/privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheathappens.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406023934id_/http%3A//www.cheathappens.com/privpol.asp) for the most accurate reproduction.*
 
-# Cheat Happens - Cheat Codes for the Masses
+# Cheat Happens Cheats - Cheat Codes for the Masses
 
 This privacy policy discloses the privacy practices for Cheat Happens (http://www.cheathappens.com). If you have any question regarding this privacy policy, please contact Chris O'Rorke. 
 
