@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the janatabank-bd.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008171056id_/http%3A//www.janatabank-bd.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the janatabank-bd.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612182257id_/http%3A//www.janatabank-bd.com/policy.htm) for the most accurate reproduction.*
 
 # Janata Privacy Policy
 
@@ -34,4 +34,4 @@ We are committed to privacy and through our membership in and actively involved 
 
 Thank you for your support of these policies and of Janata Bank. 
 
-|Top|         |[Home](https://web.archive.org/web/20031008171056id_/http%3A//www.janatabank-bd.com/index.htm)|
+|Top|         |[Home](https://web.archive.org/web/20040612182257id_/http%3A//www.janatabank-bd.com/index.htm)|
