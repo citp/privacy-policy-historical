@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucasentertainment.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209121634id_/http%3A//www.lucasentertainment.com/policies.asp%3FID%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucasentertainment.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405214520id_/http%3A//www.lucasentertainment.com/policies.asp%3FID%3D4) for the most accurate reproduction.*
 
 # Lucas Entertainment: New York's Best Defense Against Bad Porn
 
