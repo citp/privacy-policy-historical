@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the la.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210040400id_/http%3A//la.com/cgi-bin/WebObjects/cgpportal.woa/wa/path%3Furlpath%3D%252Fhome%252Fprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the la.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405211519id_/http%3A//www.la.com/cgi-bin/WebObjects/cgpportal.woa/wa/path%3Furlpath%3D%252Fhome%252Fprivacypolicy) for the most accurate reproduction.*
 
 # LA.com: Your City. Your Guide. Insiders Guide to Los Angeles, California CA
 
-[About LA.com](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Faboutlacom) | [Privacy](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fprivacypolicy) | [Advertising](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fadvertising) | [Press](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=/home/newspress/test/15634) | [Terms & Conditions](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Ftermsconditions) | [Contact Us](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fcontactus) | [Site Map](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fsitemap) | [Jobs](http://www.la.com/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fmultiuselist%2Ftest%2F31406) ~LA.com: Your City. Your Guide. LA.com is a new insider's guide to [Los Angeles](https://web.archive.org/web/20041210040400id_/http%3A//la.com/cgi-bin/WebObjects/cgpportal.woa/wa/path%3Furlpath%3D%252Fhome%252Fprivacypolicy), California   
-21221 Oxnard Street, Los Angeles, CA 91367  © 2004 LA.com 
+[About LA.com](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Faboutlacom) | [Privacy](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fprivacypolicy) | [Advertising](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fadvertising) | [Press](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=/home/newspress/test/15634) | [Terms & Conditions](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Ftermsconditions) | [Contact Us](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fcontactus) | [Site Map](https://web.archive.org/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fsitemap) | [Jobs](http://www.la.com/cgi-bin/WebObjects/cgpportal.woa/wa/path?urlpath=%2Fhome%2Fmultiuselist%2Ftest%2F31406) ~LA.com: Your City. Your Guide. LA.com is a new insider's guide to [Los Angeles](https://web.archive.org/web/20050405211519id_/http%3A//www.la.com/cgi-bin/WebObjects/cgpportal.woa/wa/path%3Furlpath%3D%252Fhome%252Fprivacypolicy), California   
+21221 Oxnard Street, Los Angeles, CA 91367  © 2005 LA.com 
 
 | 
 
@@ -76,6 +76,5 @@ Questions and Suggestions
   
 LA.com  
 Customer Care - Privacy Policy Issues  
-10880 Wilshire Blvd., Suite 420  
-Los Angeles, CA 90024  
-(310) 689-3001
+21221 Oxnard Street  
+Los Angeles, CA 91367
