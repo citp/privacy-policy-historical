@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the belfasttelegraph.co.uk privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604051935id_/http%3A//www.belfasttelegraph.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belfasttelegraph.co.uk privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211221942id_/http%3A//www.belfasttelegraph.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.*
 
 # Belfast Telegraph
-
-Privacy Policy   
-Please read this carefully
 
 Before using the Website (that is, all sites operated by **Independent News & Media plc** companies) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties. 
 
 **The basic principles**
 
-By accessing and using the Website you are agreeing to be legally bound by the [**Terms of Use**](https://web.archive.org/web/20020604051935id_/http%3A//www.belfasttelegraph.co.uk/story.jsp?story=55087) and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
+By accessing and using the Website you are agreeing to be legally bound by the [**Terms of Use**](https://web.archive.org/web/20021211221942id_/http%3A//www.belfasttelegraph.co.uk/story.jsp?story=55087) and this Privacy Policy. You should therefore also read the Terms of Use before using the Website. 
 
 ID is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy in any way. 
 
@@ -53,4 +50,6 @@ As you will know, the Internet does not recognise national boundaries. Services 
 **Further information**   
 If you want further information, or wish to communicate with us about this Privacy Policy, please e-mail us at [customerservice@inuk.co.uk.](mailto:customerservice@inuk.co.uk.)
 
- Source: Independent
+**Company information**   
+[Independent Digital (UK) Limited](http://www.independentdigital.co.uk/) is a company in the [Independent News & Media](http://www.independentnewsmedia.com/) group, registered in England and Wales under company number 3761191, whose registered office is at Independent House, 191 Marsh Wall, London E14 9RS, UK.  
+
