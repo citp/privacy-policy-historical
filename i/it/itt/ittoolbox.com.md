@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601145116id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ittoolbox.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004110223id_/http%3A//www.ittoolbox.com/privacy/privacy_policy.htm) for the most accurate reproduction.*
 
 # ITtoolbox Privacy Policy
 
@@ -48,7 +48,7 @@ If a user wishes to subscribe to a mail list through OpenITx, we ask for the use
 
 **ITtoolbox Staffing**
 
-We do not directly contact individual members of our audience regarding ITtoolbox Staffing opportunities unless they have requested that we do so by submitting their resume or applying for a position. We will not sell, loan, or otherwise distribute our resume database except as noted in Business Transfers. 
+We do not directly contact individual members of our audience regarding ITtoolbox Staffing opportunities unless they have requested that we do so by submitting their resume or applying for a position. We will not sell, loan, or otherwise distribute our resume database except as noted in Business Transfers 
 
 **Free Email**
 
@@ -68,15 +68,15 @@ This Web site takes every precaution to protect our users’ information. When u
 
 Your ITtoolbox account information is password-protected for your privacy and security. Access to any user information, not just the sensitive information mentioned above, is heavily restricted within our company. Only employees who need the information to perform a specific job (for example, our system administrators) are granted access to personally identifiable information. ALL employees are kept up-to-date on our security and privacy practices. In addition, the servers on which we store personally identifiable information are kept in a secure environment. 
 
-If you have any questions about the security at our Web sites, you can send an email to [info@ittoolbox.com](https://web.archive.org/web/20020601145116id_/http%3A//www.ittoolbox.com/privacy/info@ittoolbox.com) requesting further information. 
+If you have any questions about the security at our Web sites, you can send an email to [info@ittoolbox.com](https://web.archive.org/web/20021004110223id_/http%3A//www.ittoolbox.com/privacy/info@ittoolbox.com) requesting further information. 
 
 **Site and Service Updates**
 
-We may send registered users of ITtoolbox occasional email announcements regarding changes or updates to our services. Users may request removal at any time from our list for any future updates by sending an empty email (no subject and no body) to [Leave-ITtoolbox-Announce@openITx.com](https://web.archive.org/web/20020601145116id_/http%3A//www.ittoolbox.com/privacy/Leave-ITtoolbox-Announce@openITx.com). 
+We may send registered users of ITtoolbox occasional email announcements regarding changes or updates to our services. Users may request removal at any time from our list for any future updates by sending an email to [Listserv@OpenITx.com](https://web.archive.org/web/20021004110223id_/http%3A//www.ittoolbox.com/privacy/Listserv@openITx.com) with the text UNSUBSCRIBE ITTOOLBOX-ANNOUNCE in the body of the message. 
 
 **Correction/Updating Personal Information**
 
-If a user’s personally identifiable information changes (such as employment type or email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. To correct/update personal information, provide details of the requested change to [webmaster@ittoolbox.com](https://web.archive.org/web/20020601145116id_/http%3A//www.ittoolbox.com/privacy/webmaster@ittoolbox.com). 
+If a user’s personally identifiable information changes (such as employment type or email address), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. To correct/update personal information, provide details of the requested change to [webmaster@ittoolbox.com](https://web.archive.org/web/20021004110223id_/http%3A//www.ittoolbox.com/privacy/webmaster@ittoolbox.com). 
 
 **Business Transfers**
 
@@ -92,4 +92,4 @@ If we decide to change our privacy policy, we will make these changes available 
 
 * * *
 
-_Copyright © 1998-2000 Information Technology Toolbox, Inc._
+_Copyright © 1998-2002 Information Technology Toolbox, Inc._
