@@ -1,0 +1,1046 @@
+<!--The following is the downloaded HTML source of the flowcontrolnetwork.com privacy policy that was archived on 2003-10-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031001221500id_/http%3A//www.flowcontrolnetwork.com/policies/privacypolicy.cfm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns:v="urn:schemas-microsoft-com:vml"><head>
+<title>Privacy Policy</title>
+<meta name="Description" content="Privacy Policy">
+<meta name="Keywords" content=""><meta name="Generator" content="CommonSpot Content Server Version 3.2 SP2">
+<script language="JavaScript"> <!--
+var gMenuControlID=0;
+var menus_included = 0;
+var jsPageAuthorMode = 0;
+var jsSessionPreviewON = 1;
+var jsDlgLoader = '/Policies/loader.cfm';
+var jsSiteID = 7;
+var jsSubSiteID = 11;
+var kurrentPageID = 943;
+// -->
+</script><script language="JavaScript" src="/commonspot/nw-lame.js"></script>
+</head>
+<body lang="en" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF"><a name="__topdoc__"></a><script language="JavaScript"><!--
+// always-include-ie.js  Copyright 1998-2003 PaperThin, Inc. All rights reserved.
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+var bCanRollover=0
+if ((bName == "Netscape" && bVer >= 3) ||
+(bName == "Microsoft Internet Explorer" && bVer >= 4))
+bCanRollover=1;
+function ImageSet(imgID,newTarget)
+{
+if (bCanRollover)
+document[imgID].src=newTarget;
+}
+function clearStatus()
+{
+window.status = "";
+}
+function setStatbar(statbar)
+{
+var strStatbar=unescape(statbar);
+window.status=strStatbar;
+}
+function onLoadComplete()
+{
+if( menus_included == 1 )
+document.onmouseover = document_mouseover;	// defined in menu_ie.js
+}
+function HandleLink(parentID,link)
+{
+// links are in one of the following formats:
+// 		cpe_60_0,CP___PAGEID=100
+// 		CPNEWWIN:WindowName^params@CP___
+// 			CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+if( jsPageAuthorMode == 0 )
+{
+windowname = "";
+windowparams = "";
+// "CPNEWWIN:" & NewWindowName & "^" & params & "@" & linkStruct.LinkURL;
+pos = link.indexOf("CPNEWWIN:");
+if (pos != -1)
+{
+pos1 = link.indexOf ("^");
+windowname = link.substring (pos+9, pos1);
+pos2 = link.indexOf ("@");
+windowparams = link.substring (pos1 + 1, pos2);
+link = link.substring (pos2 + 1, link.length);
+}
+if (link.indexOf ("CP___") != -1)
+{
+if (windowname == "")
+window.location = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+else
+{
+urltoopen = jsDlgLoader + "?url=/commonspot/utilities/handle-link.cfm&thelink=" + link;
+windowparams = FormatWindowParams(windowparams);
+window.open (urltoopen, windowname, windowparams);
+}
+}
+else
+{
+if (windowname == "")
+window.location = link;
+else
+{
+windowparams = FormatWindowParams(windowparams);
+window.open (link, windowname, windowparams);
+}
+}
+}
+else if( jsSessionPreviewON == 1 )
+{
+previewLink(link);
+}
+else
+{
+if( document.all[parentID] )
+document.all[parentID].click();
+}
+}
+function doWindowOpen(href,name,params)
+{
+window.open (href, name, params);
+}
+// 	CPNEWWIN:child^top=110:left=130:ww=140:hh=150:tb=1:loc=1:dir=0:stat=1:mb=1:sb=1:rs=1@CP___PAGEID=3811,Adv-Search-2.cfm,1
+function FormatWindowParams(windowparams)
+{
+if( windowparams.indexOf(":loc=") != -1 || windowparams.indexOf(":ww=") != -1 || windowparams.indexOf(":hh=") != -1 ||
+windowparams.indexOf(":left=") != -1 || windowparams.indexOf(":top=") != -1 )
+{
+windowparams = substringReplace(windowparams,':left=',',left=');
+windowparams = substringReplace(windowparams,'left=','left=');
+windowparams = substringReplace(windowparams,':ww=',',width=');
+windowparams = substringReplace(windowparams,'ww=','width=');
+windowparams = substringReplace(windowparams,':hh=',',height=');
+windowparams = substringReplace(windowparams,'hh=','height=');
+windowparams = substringReplace(windowparams,':loc=',',location=');
+windowparams = substringReplace(windowparams,'loc=','location=');
+windowparams = substringReplace(windowparams,':dir=',',directories=');
+windowparams = substringReplace(windowparams,'dir=','directories=');
+windowparams = substringReplace(windowparams,':tb=',',toolbar=');
+windowparams = substringReplace(windowparams,'tb=','toolbar=');
+windowparams = substringReplace(windowparams,':stat=',',status=');
+windowparams = substringReplace(windowparams,':mb=',',menubar=');
+windowparams = substringReplace(windowparams,':sb=',',scrollbars=');
+windowparams = substringReplace(windowparams,':rs=',',resizable=');
+}
+return windowparams;
+}
+function substringReplace(source,pattern,replacement)
+{
+var pos = 0;
+var target="";
+while ((pos = source.indexOf(pattern)) != (-1))
+{
+target = target + source.substring(0,pos) + replacement;
+source = source.substring(pos+pattern.length);
+pos = source.indexOf(pattern);
+}
+return (target + source);
+}
+// handle scheduled element links
+function show_sched_element(eid)
+{
+evalCol = String(self.element_collection);
+dispFlag = false;
+ua = navigator.userAgent.toLowerCase();
+if (bName == "Netscape" || ua.indexOf('aol') >= 0)
+{
+// cloned from always-include-ns.js
+tmp = "";
+if  (evalCol != 'undefined')
+{
+str = self.location.search;
+for(i=0;i<self.element_collection.length;i++)
+{
+sp = 'sched_elements_' + self.element_collection[i].id;
+if  (self.element_collection[i].id == eid)
+{
+dispFlag = true;
+if  (str == '')
+{
+tmp = "?forceElement=" + eid;
+self.location.search = tmp;
+}
+else
+{
+qArray = str.split("&");
+forceExists = false;
+for(i=0; i < qArray.length; i++)
+{
+el = qArray[i];
+qel = el.split('=');
+if  (qel.length == 1)
+qel[1] = '';
+if  (qel[0] == 'forceElement' || qel[0] == '?forceElement')
+{
+forceExists = true;
+qel[1] = eid;
+}
+qArray[i] = qel;
+}
+// reassemble
+searchStr = '';
+for (i=0; i < qArray.length; i++)
+{
+if  (i == 0)
+searchStr = qArray[i][0] + '=' + qArray[i][1];
+else
+searchStr = searchStr + '&' + qArray[i][0] + '=' + qArray[i][1];
+}
+if  (!forceExists)
+searchStr = searchStr + '&forceElement=' + eid;
+tmp = searchStr;
+self.location.search = searchStr;
+break;
+}
+}
+}
+}
+if  (!dispFlag)
+alert("You do not have access to the requested element.")
+}
+else
+{
+if ( evalCol != 'undefined' )
+{
+for(i=0;i<self.element_collection.length;i++)
+{
+sp = 'sched_elements_' + self.element_collection[i].id;
+obj = document.all.item(sp);
+//alert(sp);
+if ( self.element_collection[i].id == eid && obj != null)
+{
+dispFlag = true;
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'block';
+}
+}
+else
+document.all(sp).style.display = 'block';
+}
+else if ( obj != null )
+{
+if ( obj.length >= 0 )
+{
+for(z=0;z<obj.length;z++)
+{
+obj(z).style.display = 'none';
+}
+}
+else
+document.all(sp).style.display = 'none';
+}
+}
+}
+if ( !dispFlag )
+alert("You do not have access to the requested element.")
+}
+}
+// --></script>
+<script language="JavaScript"> <!--
+function glblLinkHandler(lobj, attr, val)
+{
+return;
+}
+function onLoadFinished()
+{
+onLoadComplete();
+}
+var js_gvPageID = 943;
+// -->
+</script>
+<table bordercolor="#336699" height="293" cellspacing="0" cellpadding="0" width="100%" align="center" bgcolor="#ffffff" border="1">
+<tbody>
+<tr>
+<td valign="top" align="middle">
+<table height="61" cellspacing="0" cellpadding="0" width="100%" background="/images/stripe_bg.gif" border="0">
+<tbody>
+<tr>
+<td valign="center" align="left" width="244" height="62"> <a href="/index.cfm">
+<img height="89" src="/images/fc_new_logo.gif" width="160" border="0">
+</a></td>
+<td align="middle" width="100%" height="62">
+<div id="943-487">
+
+			
+			
+				
+			
+			
+			
+				
+				
+			
+			
+			
+				
+				
+			
+						
+			
+				
+					
+					
+					
+						
+					
+					
+					
+					
+				
+			
+			
+				
+						
+		
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=50&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=24"><img src="http://209.208.141.161/images/banners/FC_ISAEXPO2003_banner.gif" align="middle" border="0"></a><br></td></tr>
+			
+			</tbody></table>				
+		</div><!-- -->
+</td>
+</tr>
+</tbody>
+</table>
+<table height="22" cellspacing="0" cellpadding="0" width="100%" background="/images/top_menu_bar.gif" border="0">
+<tbody>
+<tr>
+<td valign="center" align="right">
+<table cellspacing="0" cellpadding="0" border="0">
+<tbody>
+<tr valign="center" align="middle">
+<td>
+<a href="/media_kit/contactus.htm"><img height="22" src="/images/cn_contact.gif" width="72" border="0"></a>
+</td>
+<td>
+<a href="/aboutus/knowledgebase.cfm"><img height="22" src="/images/cn_siteguide.gif" width="72" border="0"></a>
+</td>
+<td>
+<a href="/media_kit/index.htm"><img height="22" src="/images/cn_marketing.gif" width="72" border="0"></a>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table height="13" cellspacing="0" cellpadding="0" width="100%" bgcolor="#6356a5" background="/images/welc_bg.gif" border="0">
+<tbody>
+<tr>
+<td width="100%">
+<img height="30" src="/images/welcome.gif" width="200">
+<!-- START OF WEBTRENDS LIVE TAG -->
+<!-- Copyright 2002 NetIQ Corporation -->
+<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/wtl_system/privacy_policy.htm -->
+<script language="JavaScript">
+<!--
+// Modification of this code is not allowed and will permanently disable your account!
+// SiteName:  flowcontrolnetwork.com
+function wtl_Tag5_146972()
+{
+var SERVER= "";
+var CONTENTGROUP= "";
+var wtl_URL= document.URL;
+var wtl_Title= document.title;
+function D8( d)
+{
+var fwd=1, seed= new Date('01/01/2000'), key= "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+var s= key.charAt( d.getFullYear()-2000)+key.charAt( d.getMonth()+1)+key.charAt( d.getDate());
+s+= key.charAt( d.getHours())+key.charAt( d.getMinutes())+key.charAt( d.getSeconds());
+while( seed.getDay()!=fwd) seed= new Date(seed.getTime() + 86400000);
+var w= Math.floor( (d.getTime()-(seed.getTime()+86400000)) / 604800000 );
+s+= key.charAt( (w-(w%16))/16 );
+s+= key.charAt( w%16);
+return s;
+}
+function A( B, C)
+{
+W+="&"+B+"="+escape(C);
+}
+var t = new Date();
+var W="http"+(document.URL.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S146972/button5.asp?tagver=5&si=146972&fw=1";
+A( "server", typeof(SERVER)== "string" ? SERVER : "");
+A( "Group", typeof(CONTENTGROUP)== "string" ? CONTENTGROUP : "");
+A( "tz", t.getTimezoneOffset());
+A( "ch", t.getHours());
+A( "cl", D8(t));
+A( "ti", typeof(wtl_Title)== "string" ? wtl_Title : document.title);
+A( "url", typeof(wtl_URL)== "string" ? wtl_URL : document.URL);
+A( "rf", window.document.referrer);
+A( "js", "Yes");
+A( "ul", navigator.appName=="Netscape" ? navigator.language : navigator.userLanguage);
+if(typeof(screen)=="object")
+{
+A( "sr", screen.width+"x"+screen.height);
+A( "cd", screen.colorDepth);
+A( "jo", navigator.javaEnabled()?"Yes":"No");
+}
+if( W.length>2048 && navigator.userAgent.indexOf('MSIE')>=0)
+W= W.substring( 0, 2043)+"&tu=1";
+document.write('<IMG ID="WTL_146972" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+W+'">');
+}
+wtl_Tag5_146972();
+//-->
+</script><img id="WTL_146972" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S146972/button5.asp?tagver=5&amp;si=146972&amp;fw=1&amp;server=&amp;Group=&amp;tz=0&amp;ch=9&amp;cl=K1U9CA7&amp;ti=Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20031001221500id_/http%253A//www.flowcontrolnetwork.com/policies/privacypolicy.cfm&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+<noscript>
+<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S146972/button5.asp?tagver=5&si=146972&fw=1&js=No&">
+</noscript>
+<!-- END OF WEBTRENDS LIVE TAG -->
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td bgcolor="#1f0d7e">
+<img height="5" src="/images/mb_shad.gif" width="100%">
+</td>
+</tr>
+</tbody>
+</table>
+<table cellspacing="0" cellpadding="3" width="100%" border="0">
+<tbody>
+<tr>
+<td valign="top" align="left" width="140" bgcolor="#336699">
+<table cellspacing="0" cellpadding="0" width="140" border="0">
+<tbody>
+<tr>
+<td>
+<table cellspacing="0" cellpadding="0" width="140" border="0">
+<tbody>
+<tr>
+<td valign="center" align="middle">
+<img height="20" src="/images/info_button.gif" width="140">
+<table cellspacing="0" cellpadding="0" width="140" border="0">
+<tbody>
+<tr>
+<td>
+<a href="/industrynews/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Industry Headlines</b></font></a>
+</td>
+</tr>
+<tr>
+<td>
+<a href="/news-alerts/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>News Alerts</b></font></a><a>
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr><tr>
+</tr>
+<tr><td valign="center" align="middle">
+<img height="20" src="/images/mag_button.gif" width="140">
+<table cellspacing="0" cellpadding="0" width="140" border="0">
+<tbody>
+<tr>
+<td>
+<a href="/register.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Free Subscription</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/renew/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Renew Subscription</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/magazine/current-issue/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Current Issue</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/magazine/next-issue/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Next Issue</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/pastissues/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Past Issues</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/magazine/submissions.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Submissions</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/media_kit/contactus.htm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Contact Staff</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/media_kit/editorial_calendar.htm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Editorial Calendar</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/community/product_review.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Review Products</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/community/tech_spotlight.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Technology Spotlight</b></font>
+</a></td>
+</tr>
+</tbody>
+</table>
+<img height="20" src="/images/community_button.gif" width="140">
+<table cellspacing="0" cellpadding="0" width="140" border="0">
+<tbody>
+<tr>
+<td>
+<a href="/community/event_calendar.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Event Calendar</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/community/associations.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Associations</b></font>
+</a></td>
+</tr>
+</tbody>
+</table>
+<img height="20" src="/images/resources_button.gif" width="140">
+<table cellspacing="0" cellpadding="0" width="140" border="0">
+<tbody>
+<tr>
+<td>
+<a href="/resources/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Standards</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/resources/bookshelf.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Bookshelf</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/resources/research.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Research</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/community/associations.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Links</b></font>
+</a></td>
+</tr>
+</tbody>
+</table>
+<img height="20" src="/images/aboutus_button.gif" width="140">
+<table cellspacing="0" cellpadding="0" width="140" border="0">
+<tbody>
+<tr>
+<td>
+<a href="/media_kit/index.htm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>About Flow</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/media_kit/index.htm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Advertise</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/mediakit/index.cfm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Media Kit</b></font>
+</a></td>
+</tr>
+<tr>
+<td>
+<a href="/media_kit/contactus.htm" style="text-decoration:none;"><font color="#ffff99" size="1" face="Verdana, Arial, Helvetica, sans-serif"><b>Contact Us</b></font>
+</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">&nbsp;</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+<div id="943-488">
+
+			
+			
+				
+			
+			
+			
+				
+				
+			
+			
+			
+				
+				
+			
+						
+			
+				
+					
+					
+					
+						
+					
+					
+					
+					
+				
+			
+			
+				
+						
+		
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=41&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=30"><img src="http://209.208.141.161/images/Banners/att_button.gif" align="middle" border="0"></a><br></td></tr>
+			
+			</tbody></table>				
+		</div><!-- -->
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">&nbsp;</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+<div id="943-489">
+
+			
+			
+				
+			
+			
+			
+				
+				
+			
+			
+			
+				
+				
+			
+						
+			
+				
+					
+					
+					
+						
+					
+					
+					
+					
+				
+			
+			
+				
+						
+		
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=41&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=30"><img src="http://209.208.141.161/images/Banners/att_button.gif" align="middle" border="0"></a><br></td></tr>
+			
+			</tbody></table>				
+		</div><!-- -->
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">&nbsp;</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+<div id="943-490">
+
+			
+			
+				
+			
+			
+			
+				
+				
+			
+			
+			
+				
+				
+			
+						
+			
+				
+					
+					
+					
+						
+					
+					
+					
+					
+				
+			
+			
+				
+						
+		
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=41&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=30"><img src="http://209.208.141.161/images/Banners/att_button.gif" align="middle" border="0"></a><br></td></tr>
+			
+			</tbody></table>				
+		</div><!-- -->
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+</td>
+<td valign="top" align="middle" width="100%">
+<br>
+<div align="left"><span class="normal"><font face="Verdana,Arial" size="2"><a href="/" onmouseover=" setStatbar('/');  return true;" onmouseout=" setStatbar('');  return true;">Flow Control Network</a></font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">&nbsp;&gt;&nbsp;</font></span><span class="normal"><font face="Verdana,Arial" size="2"><a href="/Policies/" onmouseover=" setStatbar('/Policies/');  return true;" onmouseout=" setStatbar('');  return true;">Policies</a></font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">&nbsp;&gt;&nbsp;</font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">Privacy Policy</font></span><span class="normal"><font face="Verdana,Arial" size="2" color="Black">&nbsp;</font></span></div><script language="JavaScript"><!--
+bName = navigator.appName;
+bVer = parseInt(navigator.appVersion);
+
+var bCanRollover=0
+if ((bName == "Netscape" && bVer >= 3) ||
+	 (bName == "Microsoft Internet Explorer" && bVer >= 4))
+	bCanRollover=1;
+
+function ImageSet(imgID,newTarget)
+{
+	if (bCanRollover)
+		document[imgID].src=newTarget;
+}
+// -->
+</script><!-- --> <table id="idLayout492" cellpadding="0" cellspacing="0" border="0" width="100%" summary=""><tbody><tr><td id="idCell492x1x1" align="default" valign="top"><div id="943-945"> <div align="left"><span class="normal"><font face="Verdana,Arial" size="2" color="#000000"><p style="TEXT-ALIGN: center" align="center"><b><font face="Verdana,Arial" size="2"><font face="Verdana,Arial" color="#333333">PRIVACY POLICY</font></font></b></p>
+<p><b><font face="Verdana,Arial" color="#333333" size="2">Overview</font></b></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">This Privacy Policy describes the policies of Witter Publishing ("WP" or "we regarding the collection, use, disclosure and protection of the following types of information:<br>
+<br>
+- Information obtained when you and other users ("you" or "Users") visit the www.flowcontrol.com web site and its network sites (the "Site").<br>
+- Information obtained through e-mail communications with you related to the Site.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">This privacy policy does not apply to information that we may collect from you by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of all of the terms and conditions contained in this Privacy Policy and your consent to any action we take with respect to your information that is in compliance with this Privacy Policy.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">If you do not agree to this Privacy Policy, as modified from time to time, please do not visit this Site.</font></p>
+<p><b><font face="Verdana,Arial" color="#333333" size="2">Information We Collect and How We Collect It</font></b></p>
+<p><b><i><font face="Verdana,Arial" color="#333333" size="2">General</font></i></b></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We require you to provide us with certain information about yourself when you register with this Site and when you request products and services. We also collect information from you when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site, such as moderated discussions and bulletin boards.<br>
+The information we collect may include information from which you may be personally identified ("Personally Identifiable Information"), such as name, postal address, telephone number, fax number and e-mail address, and also may include certain business information, such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.</font></p>
+<p><b><i><font face="Verdana,Arial" color="#333333" size="2">Automatic Data Collection</font></i></b></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">When you visit this Site, we may collect the IP address of your computer. We also automatically record other information that identifies your computer to this Site and tracks your behavior on the Site. For example, we may record how many times you visit this Site and your navigation within the Site. We do not collect Personally Identifiable Information in this manner; however, if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">Methods used to collect this information may include "cookies" and "clear GIFs" (also known as "pixel tags" or "beacons"). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer's hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include those described in the preceding paragraph. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties.</font></p>
+<p><b><font face="Verdana,Arial" color="#333333" size="2">How We Use Your Information</font></b></p>
+<p><b><i><font face="Verdana,Arial" color="#333333" size="2">General</font></i></b></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We use Personally Identifiable Information that we collect on this Site for the following purposes:</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">- To provide you with this Site and other products and services, such as electronic and print publications and newsletters.<br>
+- To respond to your inquiries and contact you about changes regarding the Site.<br>
+- To provide you with e-mail, fax and other notices (such as expiration and renewal notices) and inquiries regarding your account and the products or services that you are receiving, and for billing and collection purposes.<br>
+- For any other purpose disclosed at the time the information is collected or to which you consent.<br>
+- As otherwise specifically described in this Privacy Policy.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We also may use your information to better understand the needs of our Users and to improve our Site. For example, we may use this information to determine what portions of the Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of the Site.</font></p>
+<p><b><font face="Verdana,Arial" color="#333333" size="2">Newsletters and Offers</font></b></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We may use the information you provide us to send you e-mail, fax and other communications on behalf of WP or other WPdivisions. These communications may include e-mail newsletters that are relevant to this Site, as well as offers for other WP and WPservices. All of these communications will include instructions explaining how you can request that we not send you ("opt out" of) future communications of the same type.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We also may use your information to send you e-mail, fax and other communications on behalf of unaffiliated third parties. When you register with and provide information to this Site you will be given an opportunity to opt out of our sending you offers on behalf of third parties. In addition, each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Web Site at any time on the registration page of this Site or by sending an e-mail to flowcontrolonline@witterpublishing.com with the subject line "opt out - third party."</font></p>
+<p><b><font face="Verdana,Arial" color="#333333" size="2">Our Disclosure of Your Information</font></b></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We will not disclose your information to anyone outside of WP or other WP divisions, except as described in this section.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We may disclose aggregated anonymous statistics about many Users to advertisers, content and service providers and other affiliated and unaffiliated companies.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We sometimes engage third parties to perform services for us, including in connection with this Site, that require us to disclose Users' Personally Identifiable Information to them. If we make any such disclosure, we will require such parties to keep the information confidential and to use it only to perform the services.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We also may disclose your information to third parties that wish to market products or services that may be of interest to you. We will require these parties to keep any Personally Identifiable Information provided by us confidential and use it only to market and provide their products or services or with your approval. When you register with and provide information to this Site, you will be given an opportunity to opt out of our disclosing your Personally Identifiable Information as described in this paragraph. You may also opt out of such disclosures at any time on the registration page of this Site or by sending an e-mail to flowcontrolonline@witterpublishing.com with the subject line "do not disclose."</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">The only other times we may disclose your Personally Identifiable Information collected on this Site are as follows:</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">- In the event of an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving WP or this Site, we may transfer some or all User information, including Personally Identifiable Information, to the successor company.<br>
+- We will disclose your Personally Identifiable Information when we believe such disclosure is required by law or for the protection of persons or property.<br>
+- We may disclose your Personally Identifiable Information with your consent, as well as when disclosure is necessary to accomplish the purpose for which you provide it. For example, when you request information from advertisers in the "Reader Services" section of our publications, we will disclose your Personally Identifiable Information to the advertisers you specify.</font></p>
+<p><b><font face="Verdana,Arial" color="#333333" size="2">Security</font></b></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">We use reasonable security safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.</font></p>
+<p><b><font face="Verdana,Arial" color="#333333" size="2">Right to Access and Change Information</font></b></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">You may view and update information that you previously submitted to this Site by visiting the registration page for this Site.</font></p>
+<p><b><font face="Verdana,Arial" color="#333333" size="2">Opt-Out</font></b></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">This Privacy Policy describes certain opportunities you will have to opt out of our using or disclosing your Personally Identifiable Information.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">Typically, an opt out request will be specific to a particular service or product. For example, if you opt out of receiving third party offers from this Site, you may continue to receive third party offers from other WP web sites or publications not associated with this Site. Similarly, opting out of our disclosing Personally Identifiable Information collected on this Site will not apply to information collected on other WP web sites. We cannot guarantee that we will be able to accommodate opt out requests that apply to multiple web sites, products or services, but we will try to do so to the extent feasible. If you wish to opt out of the use or disclosure of Personally Identifiable Information collected by more than one WP web site, the best way of accomplishing this is to provide a separate opt out request for each web site, product or service.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">Any opt out request will only be effective after a reasonable period of time for processing.</font></p>
+<p><b><font face="Verdana,Arial" color="#333333" size="2">Links</font></b></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.</font></p>
+<p><font face="Verdana,Arial" color="#333333" size="2">This Site is operated by:</font></p>
+<p><font face="Verdana,Arial" size="2"><font face="Verdana,Arial" color="#333333"><font face="Verdana,Arial"><b>Witter Publishing</b><br>
+84 Park Avenue<br>
+Flemington, NJ 08822<br>
+E-Mail: flowcontrolonline@witterpublishing.com</font></font></font></p>
+<p class="MsoNormal" style="MARGIN: 0in 0in 0pt">&nbsp;</p></font></span></div></div></td></tr>
+</tbody></table>
+</td>
+<td valign="top" align="middle" width="140" bgcolor="#336699">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td valign="center" align="middle">
+<font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="2"><b><font size="1">SEARCH THE SITE</font></b></font>
+<table class="clsControlBorder" border="0" cellpadding="2" cellspacing="0" width="100%" summary="">
+<tbody><tr><td width="100%" valign="top" align="left"> </td></tr> <form action="/searchresults.cfm" method="post" name="dlgform493"></form>
+<tr><td width="100%" valign="top" align="left">
+<input type="hidden" name="searchType" value="text"> <div align="LEFT"><input type="hidden" name="incl_subsites" value="0"><script language="JavaScript"> <!--
+function doLink493()
+{
+window.location.href = '';
+}
+function SubmitForm493()
+{
+retval = doSubmit493();
+if (retval == true)
+document.dlgform493.submit();
+}
+function doSubmit493()
+{
+if (document.dlgform493.srchString.value.length == 0)
+{
+alert ("Please enter something to search for");
+return false;
+}
+document.dlgform493.startpage.value=1;
+document.dlgform493.curpage.value=1;
+return true;
+}
+// -->
+</script> <span class="cpHideForMenus"> <input type="text" name="srchString" value="search criteria" id="cs_search_form" size="12"></span><font size="1"><big><span class="cpHideForMenus"> <input type="button" name="searchbutton" value="GO " onclick="SubmitForm493();" id="" size="10"></span>&nbsp;</big></font> </div></td>
+</tr>
+<tr>
+<td valign="baseline">
+<div align="LEFT">
+<input type="hidden" name="showSummaryCheckBox" value="0">
+</div></td>
+</tr> <tr><td valign="baseline"><input type="hidden" name="UserSelectedSubSites" value=""></td></tr><input type="hidden" value="1" name="startpage"><input type="hidden" value="1" name="curpage"></tbody></table>
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+<div id="943-494"></div>
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">&nbsp;</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+<table bordercolor="#000000" cellspacing="0" cellpadding="0" width="120" border="1">
+<tbody>
+<tr>
+<td bgcolor="#ffffff">
+<div align="center"><b><font face="Verdana, Arial, Helvetica, sans-serif" color="#336699" size="1">Current Issue</font></b></div>
+</td>
+</tr>
+<tr>
+<td bgcolor="#ffffff">
+<div align="center"><p><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><br></font></b>
+<a href="/magazine/current-issue/index.cfm"><img height="114" src="/images/fc_may_cov.jpg" width="84" border="0"></a> <br>
+<font color="#ffffff" face="Verdana, Arial, Helvetica, sans-serif">.</font></p></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">&nbsp;</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+<div id="943-495">
+
+			
+			
+				
+			
+			
+			
+				
+				
+			
+			
+			
+				
+				
+			
+						
+			
+				
+					
+					
+					
+						
+					
+					
+					
+					
+				
+			
+			
+				
+						
+		
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=41&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=30"><img src="http://209.208.141.161/images/Banners/att_button.gif" align="middle" border="0"></a><br></td></tr>
+			
+			</tbody></table>				
+		</div><!-- -->
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">&nbsp;</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+&nbsp;
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">&nbsp;</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+<div id="943-496">
+
+			
+			
+				
+			
+			
+			
+				
+				
+			
+			
+			
+				
+				
+			
+						
+			
+				
+					
+					
+					
+						
+					
+					
+					
+					
+				
+			
+			
+				
+						
+		
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=20&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=20"><img src="http://209.208.141.160/images/120600_sample.gif" align="middle" border="0"></a><br></td></tr>
+			
+			</tbody></table>				
+		</div><!-- -->
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table bordercolor="#ffffff" height="25" cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr valign="center" align="middle" bgcolor="#1f0d7e">
+<td bgcolor="#336699">
+<a href="/register.cfm" style="text-decoration:none;"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Subscribe</font></b></a> |
+<a href="/aboutus/knowledgebase.cfm" style="text-decoration:none;"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Site Map</font></b></a> |
+<a href="/media_kit/index.htm" style="text-decoration:none;"><b><font face="Verdana, Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">Advertise</font></b></a>
+</td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody>
+</table>
+<table bordercolor="#336699" cellspacing="0" cellpadding="0" width="100%" align="center" bgcolor="#ffffff" border="1">
+<tbody>
+<tr>
+<td valign="center" align"="middle&quot;">
+<table cellspacing="0" cellpadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td valign="center" align="middle">&nbsp;</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+<div id="943-497">
+
+			
+			
+				
+			
+			
+			
+				
+				
+			
+			
+			
+				
+				
+			
+						
+			
+				
+					
+					
+					
+						
+					
+					
+					
+					
+				
+			
+			
+				
+						
+		
+			<table border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr><td><a href="http://209.208.141.150/FuseAds/track/track.cfm?BannerID=33&amp;PathInfo=/policies/privacypolicy.cfm&amp;catid=24"><img src="http://209.208.141.161/images/banners/flowcat.gif" align="middle" border="0"></a><br></td></tr>
+			
+			</tbody></table>				
+		</div><!-- -->
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">&nbsp;</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1">©2003 Witter Publishing, Inc. All rights reserved. Unauthorized use prohibited</font>
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+<a href="/policies/privacypolicy.cfm" style="text-decoration:none;"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Privacy Policy</font></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/policies/termsofuse.cfm" style="text-decoration:none;"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Terms of Use</font></a>
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">
+<font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="mailto:webmaster@WitterPublishing.com">webmaster@WitterPublishing.com</a></font>
+</td>
+</tr>
+<tr>
+<td valign="center" align="middle">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</body></html>
