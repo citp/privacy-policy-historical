@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205215954id_/http%3A//www.aa.co.nz/Section%3FAction%3DView%26Section_id%3D122%26Story_id%3D1246) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405215452id_/http%3A//www.aa.co.nz/Section%3FAction%3DView%26Section_id%3D122%26Story_id%3D1246) for the most accurate reproduction.*
 
 # Small Print : AA Online
 
