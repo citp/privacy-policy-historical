@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinegames.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603031217id_/http%3A//www.onlinegames.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinegames.com privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815154619id_/http%3A//onlinegames.com/privacy.html) for the most accurate reproduction.*
 
 # Online Games Corp. Privacy Policy
 
