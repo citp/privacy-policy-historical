@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ybw.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215132131id_/http%3A//www.ybw.com/ybw/ipc_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ybw.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622094607id_/http%3A//www.ybw.com/ybw/ipc_privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -19,5 +19,5 @@ Please note that clicking on to links and banner advertisements may result in yo
 
 This privacy policy may be changed by IPC Media Limited at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. IPC Media Limited will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data. 
 
-**© IPC Country & Leisure Ltd. 2002 .   
+**© IPC Country & Leisure Ltd. 2003 .   
 All rights reserved.**
