@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2001-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010428195604id_/http%3A//erenterplan.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erenterplan.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221093215id_/http%3A//www.erenterplan.com/privacy.asp) for the most accurate reproduction.*
 
-# eRenterPlan.com
-
-| [](https://web.archive.org/web/20010428195604id_/http%3A//erenterplan.com/ins101.asp)  
-[](https://web.archive.org/web/20010428195604id_/http%3A//erenterplan.com/propowners.asp)  
-[](https://web.archive.org/web/20010428195604id_/http%3A//erenterplan.com/policyholders.asp)  
-[](https://web.archive.org/web/20010428195604id_/http%3A//erenterplan.com/contactus.asp)  
-|  |  | 
+# eRenterPlan.com - Insurance for Apartment Residents.
 
 ## What We Collect and How We Use It
 
@@ -18,8 +12,3 @@ eRenterPlan.com is committed to protecting your privacy online. When you registe
 We use customer information collected only for the purposes of setting up your company’s profile, enhancing the operation of our site, for statistical purposes and to administer our systems. We may use third parties to serve site content, to help administer promotional emails, to administer financial services purchased and to provide other rental property services. We give them access to the information needed to do their job. Sometimes that includes your company and/or your personal information. Our computer system protects personal information using advanced firewall technology. 
 
 If you have any questions regarding our privacy policy, please contact us. 
-
-  
-  
----|---  
-[Home](https://web.archive.org/web/20010428195604id_/http%3A//erenterplan.com/default.asp) | [Privacy Policy](https://web.archive.org/web/20010428195604id_/http%3A//erenterplan.com/privacy.asp) | [Legal & Copyright](https://web.archive.org/web/20010428195604id_/http%3A//erenterplan.com/copyright.asp)    Copyright ©2001, eRenterPlan.com
