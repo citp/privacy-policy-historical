@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devwebpro.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618102844id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devwebpro.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009140617id_/http%3A//www.ientry.com/page/corp/privacy.html) for the most accurate reproduction.*
 
 # iEntry Newsletters - Safeguarding Consumer Information With Our Privacy Policy
 
