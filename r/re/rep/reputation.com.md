@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209014702id_/http%3A//www.reputation.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputation.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403205949id_/http%3A//www.reputation.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,6 +44,6 @@ If you have any questions about our privacy policy, the information we have coll
 >  San Francisco, CA 94109  
 >  [Webmaster@ReputationLLC.com](mailto:Webmaster@ReputationLLC.com)
 
-Reputation, LLC's web sites ReputationLLC.com and SFpolitics.com provide information about its services, media and public affairs matters. You may access any of our web sites subject to our [Terms and Conditions](https://web.archive.org/web/20041209014702id_/http%3A//www.reputation.com/htdocs/legal/terms_conditions.htm) and [Copyright and Trademark Policy](https://web.archive.org/web/20041209014702id_/http%3A//www.reputation.com/htdocs/legal/copyright.htm). You may also access our Privacy Policy.
+Reputation, LLC's web sites ReputationLLC.com and SFpolitics.com provide information about its services, media and public affairs matters. You may access any of our web sites subject to our [Terms and Conditions](https://web.archive.org/web/20050403205949id_/http%3A//www.reputation.com/htdocs/legal/terms_conditions.htm) and [Copyright and Trademark Policy](https://web.archive.org/web/20050403205949id_/http%3A//www.reputation.com/htdocs/legal/copyright.htm). You may also access our Privacy Policy.
 
 For more information, please contact [Webmaster@ReputationLLC.com](mailto:Webmaster@ReputationLLC.com)
