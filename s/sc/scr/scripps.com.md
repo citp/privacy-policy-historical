@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripps.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602085252id_/http%3A//scripps.com/newscripps/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripps.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207192712id_/http%3A//www.scripps.com/newscripps/privacy.shtml) for the most accurate reproduction.*
 
 # Welcome to Scripps.com
 
@@ -55,4 +55,4 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [**bbenz@cnnt03.scripps.com**](mailto:bbenz@cnnt03.scripps.com). To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](https://web.archive.org/web/20020602085252id_/http%3A//scripps.com/newscripps/user.shtml).
+The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [**bbenz@cnnt03.scripps.com**](mailto:bbenz@cnnt03.scripps.com). To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](https://web.archive.org/web/20021207192712id_/http%3A//www.scripps.com/newscripps/user.shtml).
