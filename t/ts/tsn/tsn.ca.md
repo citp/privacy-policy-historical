@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2001-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010430103715id_/http%3A//tsn.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsn.ca privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815111632id_/http%3A//tsn.ca/privacy) for the most accurate reproduction.*
 
 # tsn.ca: Privacy
 
