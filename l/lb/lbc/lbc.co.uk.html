@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lbc.co.uk privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202210957id_/http%3A//lbc.co.uk/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lbc.co.uk privacy policy that was archived on 2004-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040612053111id_/http%3A//lbc.co.uk/privacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head>
 <title>LBC</title>
@@ -39,7 +39,7 @@ function doNothing() {
   //Does Nothing
 }
 
-var numMenus = 14; // the number of sub-menus (zero based)
+var numMenus = 16; // the number of sub-menus (zero based)
 var overMenu = false;
 
 // Show Sub Menu
@@ -184,6 +184,8 @@ function init()
 	#sub12 {position:absolute; left:129; top:415; width:180; height:28; z-index:13; visibility: hidden}
 	#sub13 {position:absolute; left:77; top:433; width:180; height:28; z-index:14; visibility: hidden}
 	#sub14 {position:absolute; left:130; top:451; width:180; height:28; z-index:15; visibility: hidden}
+	#sub15 {position:absolute; left:130; top:469; width:180; height:28; z-index:16; visibility: hidden}
+	#sub16 {position:absolute; left:105; top:487; width:180; height:28; z-index:16; visibility: hidden}
 
 //-->
 </style>
@@ -192,8 +194,7 @@ function init()
 <script language="JAVASCRIPT"><!--
 document.write('<S'+'CRIPT src=http://media.radcity.net/imch/nowplaying/nowplayingnonflash_ilnr.js?Mode=HTML&fightcache=' + (new Date()).getTime() + '></'+'scr'+'ipt>');
 // --> 
-</script><script src="http://media.radcity.net/imch/nowplaying/nowplayingnonflash_ilnr.js?Mode=HTML&amp;fightcache=1580358109353"></script>
-
+</script><script src="http://media.radcity.net/imch/nowplaying/nowplayingnonflash_ilnr.js?Mode=HTML&amp;fightcache=1580358108107"></script>
 
 <link href="../stylesheets/allpagesNS.css" rel="stylesheet" type="text/css" media="screen">
 
@@ -248,33 +249,78 @@ function imageOn(IMGName) {
 						
 					  }
 }
-
-//-->
-</script>
-<script language="javascript">
-<!--
 function OpenFavorites() {
 	if (navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) >= 4) {
 	    window.external.AddFavorite('http://ilnr.fimc.net/','LBC');
 	}
 	else {document.location.href="/bookmark.asp";}
 }
-
-//-->
-</script>
-<script>
-<!--
 function printpage(URL) {
    newWindow = window.open(URL,"newWin","toolbar=1,location=0,menubar=1,scrollbars=1,resizable=0,width=620,height=400");
    newWindow.focus();
 }
-// -->
+//-->
+</script>
+
+<script language="JAVASCRIPT" src="/jsfiles/incDynamicMenusInside.htm"></script>
+
+<script language="JAVASCRIPT">
+/********************************************************************************
+ NAVIGATION SCRIPT (IE4+, NN6+)
+	created 2/18/04 -scott
+	
+	1. Dependent on:
+		pages/incMenuArray.asp (or another ASP data file containing aryNavItems)
+		jsfiles/incDynamicMenus.htm ( ** Settings and styles are here ** )
+	2. Place this section in the Head of the document
+	3. Add this to the onload event of the body tag: funPositionMenus();
+	4. Place this line where you want the Navigation:
+		(NOTE: remove the spaces in the script tags and the comment in the ASP Call)
+		<SCR IPT Language="JAVASCRIPT">
+		<!--
+		// Function That Initiates the Menus
+		funCreateNavigation();
+		-->
+		</SCR IPT><NOSCRIPT></NOSCRIPT>
+	
+	copyright 2004 by First MediaWorks [DO NOT USE WITHOUT PERMISSION!]
+*********************************************************************************/
+
+/************************************
+ BUILD THE DATA ARRAYS FOR THE MENUS
+************************************/
+// Menu Item Object
+function objMenuItem(sHTML, sURL) {
+	this.sHTML = sHTML;
+	this.sURL = sURL;
+}
+// Create the Menu Arrays
+var aryMenu1 = new Array();
+aryMenu1[0] = new objMenuItem('Home','/default.asp');
+aryMenu1[1] = new objMenuItem('Programme Schedule','/programmeschedule.asp');
+aryMenu1[2] = new objMenuItem('Our Presenters','/ourpresenters.asp');
+aryMenu1[3] = new objMenuItem('Showbiz','/article.asp?id=26035');
+aryMenu1[4] = new objMenuItem('Lifestyle','/sectional.asp?id=1178');
+aryMenu1[5] = new objMenuItem('Latest Weather','/article.asp?id=26815');
+aryMenu1[6] = new objMenuItem('Event Calendar','/eventcalendar.asp');
+aryMenu1[7] = new objMenuItem('Buy Tickets','/article.asp?id=26116');
+aryMenu1[8] = new objMenuItem('Win Prizes','/Sectional.asp?id=1194');
+aryMenu1[9] = new objMenuItem('Dating','/article.asp?id=26152');
+aryMenu1[10] = new objMenuItem('Photo Gallery','/photogallery.asp');
+aryMenu1[11] = new objMenuItem('Contact Information','/contactus.asp');
+aryMenu1[12] = new objMenuItem('Site Guide','/article.asp?id=26817');
+aryMenu1[13] = new objMenuItem('LBC News 1152 AM','/article.asp?id=25482');
+aryMenu1[14] = new objMenuItem('Loyal Listener Club','/els/');
+aryMenu1[15] = new objMenuItem('Message Board','/messageboard/');
+aryMenu1[16] = new objMenuItem('Station Info','/article.asp?id=26818');
+aryMenu1[17] = new objMenuItem('Jobs At LBC','/jobs.asp');
+
 </script>
 
 </head>
 
 
-	<body class="gBody" bgcolor="#FFFFFF" text="#FFFFFF" link="#FFFFFF" vlink="#CCCCCC" alink="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+	<body onload="funPositionMenus();" class="gBody" bgcolor="#FFFFFF" text="#FFFFFF" link="#FFFFFF" vlink="#CCCCCC" alink="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 	<table width="760" border="0" cellspacing="0" cellpadding="0">
 	  <tbody><tr> 
 	    <td colspan="3"><a href="/" target="_top"><img src="/images/both_header.jpg" width="760" height="60" alt="Home" border="0"></a></td>
@@ -305,14 +351,14 @@ function printpage(URL) {
 	          <td width="262"><table cellspacing="0" cellpadding="0" width="260" border="0">
 <tbody>
 <tr>
-<td width="77" rowspan="2"><img src="http://images.radcity.net/5760/463829-s.jpg" height="60" border="1"></td>
+<td width="77" rowspan="2"><img src="http://images.radcity.net/5760/345489-s.jpg" height="60" border="1"></td>
 <td width="93" align="right"><img height="24" src="/images/both_onairnow.gif" width="96"></td>
-<td width="93" align="right"><a onmouseover="imageOn('listenonline');" onmouseout="imageOff('listenonline');" href="/listenonline.asp"><img id="listenonline" height="24" src="/images/both_listenonline_off.gif" width="73" border="0" name="listenonline"></a></td>
+<td width="93" align="right"><a onmouseover="imageOn('listenonline');" onmouseout="imageOff('listenonline');" href="/article.asp?id=26153"><img id="listenonline" height="24" src="/images/both_listenonline_off.gif" width="73" border="0" name="listenonline"></a></td>
 </tr>
 <tr>
 <td colspan="2" valign="top"><table width="100%" height="36" border="0" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td width="81%"><table cellpadding="3" cellspacing="0" border="0"><tbody><tr><td><span class="cgOnAirNow"><a class="cgOnAirNow" href="/showdj.asp?DJID=14008">Dr Pam</a></span><br>
+<td width="81%"><table cellpadding="3" cellspacing="0" border="0"><tbody><tr><td><span class="cgOnAirNow"><a class="cgOnAirNow" href="/showdj.asp?DJID=18894">Jo Parkerson</a></span><br>
 <span class="cgOnAirNowTime">
 				<script language="JavaScript">
 				<!--
@@ -327,7 +373,7 @@ function printpage(URL) {
 
 	<script language="JavaScript">
 	<!--
-		var currentDJID = "14008";
+		var currentDJID = "18894";
 		var jsDJID = LBCDJID;
 		if (currentDJID != jsDJID) {
 			//time to reset djid application variable
@@ -345,7 +391,7 @@ function printpage(URL) {
 </tbody>
 </table>
 </td>
-	          <td width="470" align="right"><a target="_blank" href="/ad/click.asp?adID=9132&amp;adRunID=15521"><img src="http://images.radcity.net/5760/551644.gif" border="0" alt="click here"></a></td>
+	          <td width="470" align="right"><img src="http://ads.fmwinc.com/default/banner.gif" border="0"></td>
 	        </tr>
 	      </tbody></table></td>
 	  </tr>
@@ -356,8 +402,30 @@ function printpage(URL) {
 	    <td width="180" valign="top" bgcolor="#000000"><img src="/images/both_left_sitedirectory.gif" width="180" height="16">
 	      <table width="180" border="0" cellspacing="0" cellpadding="10">
 	        <tbody><tr>
-	          <td valign="top"><a class="gNavText" onmouseover="showSub((0))" onmouseout="hideSub((0));" href="/">Home</a><br><a class="gNavText" onmouseover="showSub((1))" onmouseout="hideSub((1));" href="/programmeschedule.asp">Programme Schedule</a><br><a class="gNavText" onmouseover="showSub((2))" onmouseout="hideSub((2));" href="/ourpresenters.asp">Our Presenters</a><br><a class="gNavText" onmouseover="showSub((3))" onmouseout="hideSub((3));" href="/showbiz.asp">Showbiz</a><br><a class="gNavText" onmouseover="showSub((4))" onmouseout="hideSub((4));" href="/lifestyle.asp">Lifestyle</a><br><a class="gNavText" onmouseover="showSub((5))" onmouseout="hideSub((5));" href="/latestweather.asp">Latest Weather</a><br><a class="gNavText" onmouseover="showSub((6))" onmouseout="hideSub((6));" href="/eventcalendar.asp">Event Calendar</a><br><a class="gNavText" onmouseover="showSub((7))" onmouseout="hideSub((7));" href="/buytickets.asp">Buy Tickets</a><br><a class="gNavText" onmouseover="showSub((8))" onmouseout="hideSub((8));" href="/winprizes.asp">Win Prizes</a><br><a class="gNavText" onmouseover="showSub((9))" onmouseout="hideSub((9));" href="/phonetextalerts.asp">Phone / Text Alerts</a><br><a class="gNavText" onmouseover="showSub((10))" onmouseout="hideSub((10));" href="/dating.asp">Dating</a><br><a class="gNavText" onmouseover="showSub((11))" onmouseout="hideSub((11));" href="/photogallery.asp">Photo Gallery</a><br><a class="gNavText" onmouseover="showSub((12))" onmouseout="hideSub((12));" href="/contactinformation.asp">Contact Information</a><br><a class="gNavText" onmouseover="showSub((13))" onmouseout="hideSub((13));" href="/siteguide.asp">Site Guide</a><br><a class="gNavText" onmouseover="showSub((14))" onmouseout="hideSub((14));" href="/lbcnews1152am.asp">LBC News 1152 AM</a><br><a class="gNavText" onmouseover="showSub((15))" onmouseout="hideSub((15));" href="/els/">Loyal Listener Club</a><br>          
-			  </td>
+	          <td valign="top"><script language="JAVASCRIPT">
+				<!--
+				// Function That Initiates the LEFT MENU
+				funCreateNavigation();
+				-->
+				</script><noscript><a href="/default.asp">Home</a><br>
+<a href="/programmeschedule.asp">Programme Schedule</a><br>
+<a href="/ourpresenters.asp">Our Presenters</a><br>
+<a href="/article.asp?id=26035">Showbiz</a><br>
+<a href="/sectional.asp?id=1178">Lifestyle</a><br>
+<a href="/article.asp?id=26815">Latest Weather</a><br>
+<a href="/eventcalendar.asp">Event Calendar</a><br>
+<a href="/article.asp?id=26116">Buy Tickets</a><br>
+<a href="/Sectional.asp?id=1194">Win Prizes</a><br>
+<a href="/article.asp?id=26152">Dating</a><br>
+<a href="/photogallery.asp">Photo Gallery</a><br>
+<a href="/contactus.asp">Contact Information</a><br>
+<a href="/article.asp?id=26817">Site Guide</a><br>
+<a href="/article.asp?id=25482">LBC News 1152 AM</a><br>
+<a href="/els/">Loyal Listener Club</a><br>
+<a href="/messageboard/">Message Board</a><br>
+<a href="/article.asp?id=26818">Station Info</a><br>
+<a href="/jobs.asp">Jobs At LBC</a><br>
+</noscript>	          </td>
 	        </tr>
 	      </tbody></table></td>
 	    <td width="2"><img src="/images/trans.gif" width="2" height="200"></td>
@@ -432,12 +500,12 @@ function printpage(URL) {
 	</span></td>
 	                <td width="15" bgcolor="#33A6E7"><img src="/images/trans.gif" width="12" height="50"></td>
 	                <td width="2"><img src="/images/trans.gif" width="2" height="50"></td>
-	                <td width="140" align="center" valign="top" bgcolor="#000000" class="fText"><img src="/images/trans.gif" width="140" height="1"><a href="/advertisinginfo.asp"><img src="/images/sponsor_1.gif" width="130" height="100" border="0" alt="Click to place your ad here!"></a><br>
+	                <td width="140" align="center" valign="top" bgcolor="#000000" class="fText"><img src="/images/trans.gif" width="140" height="1"><br>
 	                  <br>
-      <img src="/images/trans.gif" width="130" height="8" border="0"><br><a target="_blank" href="/ad/click.asp?adID=4481&amp;adRunID=8136"><img src="http://images.radcity.net/PublicService/adc_ncfl_bestway_130x100_fm.gif" border="0" alt="Family Literacy"></a>
-<img src="/images/trans.gif" width="130" height="8" border="0"><br><a target="_blank" href="/ad/click.asp?adID=8289&amp;adRunID=14502"><img src="http://images.radcity.net/5760/364022.gif" border="0" alt=""></a>
-<img src="/images/trans.gif" width="130" height="8" border="0"><br><a target="_blank" href="/ad/click.asp?adID=8290&amp;adRunID=14503"><img src="http://images.radcity.net/5760/364020.gif" border="0" alt=""></a>
-<img src="/images/trans.gif" width="130" height="8" border="0"><br><a target="_blank" href="/ad/click.asp?adID=4656&amp;adRunID=9319"><img src="http://images.radcity.net/5760/342744.gif" border="0" alt="click here to go to esure"></a>
+      <img src="/images/trans.gif" width="130" height="8" border="0"><br><img src="http://ads.fmwinc.com/default/tile.gif" border="0">
+<img src="/images/trans.gif" width="130" height="8" border="0"><br><img src="http://ads.fmwinc.com/default/tile.gif" border="0">
+<img src="/images/trans.gif" width="130" height="8" border="0"><br><img src="http://ads.fmwinc.com/default/tile.gif" border="0">
+<img src="/images/trans.gif" width="130" height="8" border="0"><br><img src="http://ads.fmwinc.com/default/tile.gif" border="0">
 
 	                  </td>
 	                <td width="7"><img src="/images/trans.gif" width="7" height="50"></td>
@@ -448,67 +516,141 @@ function printpage(URL) {
 	          <td><img src="/images/inside_headlines_top.gif" width="578" height="40"></td>
 	        </tr>
 	        <tr> 
-	          <td>
-	        <table width="578" border="0" cellspacing="0" cellpadding="0" height="200">
-	          <tbody><tr> 
-	            <td bgcolor="#C2E4F8" valign="top">
-	          <table cellpadding="0" cellspacing="0" width="578" border="0"><tbody><tr><td width="13">&nbsp;</td><td><font class="cgNewsHeadlinesTop">Click on a story for more...<img src="/images/trans.gif" width="250" height="1" border="0">From the LBC Newsroom</font></td><td width="12">&nbsp;</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="578"><tbody><tr>
-<td width="289" valign="top" bgcolor="#C2E4F8" class="cgNewsHeadlines"><table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=156654&amp;PT=News+Headlines" class="cgNewsHeadlines">
-Domestic Violence Bill</a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=156655&amp;PT=News+Headlines" class="cgNewsHeadlines">
-Smoking</a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=156656&amp;PT=News+Headlines" class="cgNewsHeadlines">
-Soham Murder Trial</a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-</td><td width="289" valign="top" bgcolor="#C2E4F8" class="cgNewsHeadlines">
-<table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=63226&amp;PT=News+Headlines" class="cgNewsHeadlines">
-SPORTS NEWS </a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=145025&amp;PT=News+Headlines" class="cgNewsHeadlines">
-LONDON'S WEEKEND SPORTS FIXTURES</a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=64638&amp;PT=News+Headlines" class="cgNewsHeadlines">
-TRAVEL NEWS</a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=105434&amp;PT=News+Headlines" class="cgNewsHeadlines">
-MOBILE ROAD SAFETY CAMERAS</a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=122754&amp;PT=News+Headlines" class="cgNewsHeadlines">
-THAMESLINK SERVICE CHANGES</a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=69156&amp;PT=News+Headlines" class="cgNewsHeadlines">
-THE CONGESTION CHARGE - YOUR GUIDE! </a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=83493&amp;PT=News+Headlines" class="cgNewsHeadlines">
-SAFETY ADVICE FROM THE HOME OFFICE</a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=139607&amp;PT=News+Headlines" class="cgNewsHeadlines">
-LBC's THINGS TO TRY IN LONDON</a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="289"><tbody><tr>
-<td width="13" bgcolor="#C2E4F8">&nbsp;</td><td><font class="cgNewsHeadlines"><a href="/listingsEntry.asp?ID=156424&amp;PT=News+Headlines" class="cgNewsHeadlines">
-INDUSTRIAL ACTION FOR THE GATWICK EXPRESS</a></font><br>
-</td><td width="12" bgcolor="#C2E4F8">&nbsp;</td></tr></tbody></table>
-</td></tr><tr><td valign="top" bgcolor="#C2E4F8" class="cgNewsHeadlines">
-</td></tr></tbody></table>
-
+	          <td bgcolor="#C2E4F8" valign="top"><table cellpadding="0" cellspacing="0" width="578" border="0"><tbody><tr><td width="13">&nbsp;</td><td><font class="cgNewsHeadlinesTop">Click on a story for more...<img src="/images/trans.gif" width="250" height="1" border="0">From the LBC Newsroom</font></td><td width="12">&nbsp;</td></tr></tbody></table>
+	          <table border="0" cellpadding="0" cellspacing="0" width="578">
+					<tbody><tr>
+						<td width="289" valign="top" bgcolor="#C2E4F8" class="cgNewsHeadlines">
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=27434" class="cgNewsHeadlines">MAYORAL ELECTION</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=27352" class="cgNewsHeadlines">REAGAN FUNERAL</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=27350" class="cgNewsHeadlines">M11 Hit and Run</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=27347" class="cgNewsHeadlines">MAYORAL CANDIDATES</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=27349" class="cgNewsHeadlines">EUROPEAN PARLIAMENT CANDIDATES </a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=27348" class="cgNewsHeadlines">LONDON ASSEMBLY CANDIDATES </a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=26815" class="cgNewsHeadlines">Latest Weather</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=16403" class="cgNewsHeadlines">SPORTS NEWS </a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
 				</td>
-			  </tr>
-			</tbody></table></td>
+						<td width="289" valign="top" bgcolor="#C2E4F8" class="cgNewsHeadlines">
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=16405" class="cgNewsHeadlines">TRAVEL NEWS</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=16412" class="cgNewsHeadlines">WEEKEND PUBLIC TRANSPORT</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=26844" class="cgNewsHeadlines">RAIL DISRUPTION AT EUSTON</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=16408" class="cgNewsHeadlines">MOBILE ROAD SAFETY CAMERAS</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=16409" class="cgNewsHeadlines">THE CONGESTION CHARGE - YOUR GUIDE! </a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=16410" class="cgNewsHeadlines">SAFETY ADVICE FROM THE HOME OFFICE</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=16404" class="cgNewsHeadlines">LONDON'S WEEKEND SPORT</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				
+				<table border="0" cellpadding="0" cellspacing="0" width="289">
+					<tbody><tr>
+						<td width="13" bgcolor="#C2E4F8">&nbsp;</td>
+						<td><font class="cgNewsHeadlines"><a href="/Article.asp?PT=News+Headlines&amp;id=26035" class="cgNewsHeadlines">SHOWBIZ CENTRAL</a></font><br></td>
+						<td width="12" bgcolor="#C2E4F8">&nbsp;</td>
+					</tr>
+				</tbody></table>
+				</td>
+					</tr>
+				</tbody></table><br></td>
 	        </tr>
 	      </tbody></table>
 	
@@ -530,7 +672,7 @@ INDUSTRIAL ACTION FOR THE GATWICK EXPRESS</a></font><br>
 	  <tr>
 	    <td align="right" valign="middle"><table width="500" border="0" cellspacing="0" cellpadding="3">
 	        <tbody><tr>
-	          <td width="370" align="right"><font class="gCopyright">Copyright © 2003 Chrysalis and <a class="gCopyright" href="Javascript:displayNotice();">First MediaWorks</a><br><a class="gCopyright" target="_blank" href="http://www.firstmediaworks.com/poweredby/default.asp?d=www.lbc.co.uk">Powered by First MediaWorks</a></font><script language="Javascript">
+	          <td width="370" align="right"><font class="gCopyright">Copyright © 2004 Chrysalis and <a class="gCopyright" href="Javascript:displayNotice();">First MediaWorks</a><br><a class="gCopyright" target="_blank" href="http://www.firstmediaworks.com/poweredby/default.asp?d=www.lbc.co.uk">Powered by First MediaWorks</a></font><script language="Javascript">
 <!--
 function displayNotice()
 {
@@ -541,26 +683,25 @@ noteWin.focus();
 </script></td>
 	          <form action="/default.asp" method="post" target="_top" id="form1" name="form1"></form><td width="130" align="right"><select name="u" size="1" class="gDropdown" onchange="submit();">
 <option value="/">Site Index</option>
-<option value="/">Home</option>
+<option value="/default.asp">Home</option>
 <option value="/programmeschedule.asp">Programme Schedule</option>
 <option value="/ourpresenters.asp">Our Presenters</option>
-<option value="/showbiz.asp">Showbiz</option>
-<option value="/lifestyle.asp">Lifestyle</option>
-<option value="/latestweather.asp">Latest Weather</option>
+<option value="/article.asp?id=26035">Showbiz</option>
+<option value="/sectional.asp?id=1178">Lifestyle</option>
+<option value="/article.asp?id=26815">Latest Weather</option>
 <option value="/eventcalendar.asp">Event Calendar</option>
-<option value="/buytickets.asp">Buy Tickets</option>
-<option value="/winprizes.asp">Win Prizes</option>
-<option value="/phonetextalerts.asp">Phone / Text Alerts</option>
-<option value="/dating.asp">Dating</option>
+<option value="/article.asp?id=26116">Buy Tickets</option>
+<option value="/Sectional.asp?id=1194">Win Prizes</option>
+<option value="/article.asp?id=26152">Dating</option>
 <option value="/photogallery.asp">Photo Gallery</option>
-<option value="/contactinformation.asp">Contact Information</option>
-<option value="/siteguide.asp">Site Guide</option>
-<option value="/lbcnews1152am.asp">LBC News 1152 AM</option>
+<option value="/contactus.asp">Contact Information</option>
+<option value="/article.asp?id=26817">Site Guide</option>
+<option value="/article.asp?id=25482">LBC News 1152 AM</option>
 <option value="/els/">Loyal Listener Club</option>
-<option value="/advertisinginfo.asp">Advertising Info</option>
-<option value="/stationinfo.asp">Station Info</option>
+<option value="/messageboard/">Message Board</option>
+<option value="/article.asp?id=26818">Station Info</option>
+<option value="/jobs.asp">Jobs At LBC</option>
 <option value="/aboutthissite.asp">About This Site</option>
-<option value="/jobs.asp">Jobs</option>
 </select>
 </td>
 	        </tr>
@@ -569,125 +710,4 @@ noteWin.focus();
 	</tbody></table>
 	
 	
-	
-
-	<div id="sub0" name="sub0"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">Home</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub1" name="sub1"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">Your programme guide</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub2" name="sub2"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">Photos and details</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub3" name="sub3"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">Celebrity news</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub4" name="sub4"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">Live life to the full</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub5" name="sub5"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">London's forecast</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub6" name="sub6"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">What's happening in London</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub7" name="sub7"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">Shop here</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub8" name="sub8"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">Prize competitions</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub9" name="sub9"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">Make more of your mobile</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub10" name="sub10"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">Find love</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub11" name="sub11"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">See what we've been doing</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub12" name="sub12"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">All about the station</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub13" name="sub13"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">Something you can't find?</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
-
-	<div id="sub14" name="sub14"><layer>
-	  <table width="150" border="0" cellpadding="3" cellspacing="0">
-	    <tbody><tr>
-	      <td align="center" nowrap="" class="cgToolTips">Our sister station</td>
-	    </tr>
-	  </tbody></table>
-	</layer></div>	
 </body></html>
