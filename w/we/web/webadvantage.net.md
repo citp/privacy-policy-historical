@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webadvantage.net privacy policy that was archived on 2001-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011025002041id_/http%3A//webadvantage.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webadvantage.net privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603161709id_/http%3A//www.webadvantage.net/privacy.cfm) for the most accurate reproduction.*
 
 # About Web Ad.vantage
 
@@ -10,13 +10,13 @@ Web Ad.vantage, Inc. does not attempt to collect personal information from child
 
 Aggregate reports for web site visitors are generated. These reports do not contain any personally identifiable information. 
 
-Internet 'cookies' are not used on this web site. 
+Internet 'cookies' are used on this web site to eliminate certain content, such as pop-up boxes, from being served to the same visitor more than one time.
 
 When visiting any Internet site your unique address called an "IP address" is recorded. Web Ad.vantage, Inc. does not release any information about the collection of this address to any third party except under court order. Web Ad.vantage, Inc. archives the log files in order to create aggregate statistical reports, detect errors at the website, and for security reasons. The log files are eventually deleted. 
 
 To have personal information removed from the Web Ad.vantage, Inc. database contact  [privacy@webadvantage.net](mailto:privacy@webadvantage.net).   
   
   
-Call us today toll-free to discuss your web site marketing goals: **1-877-4-WEB-ADS** (1-877-493-2237). Or, fill out our [online RFP Form](https://web.archive.org/web/20011025002041id_/http%3A//webadvantage.net/contact_rfp.htm) or [e-mail us](mailto:marketing@webadvantage.net) directly with your name, company, telephone number and e-mail address. 
+Call us today toll-free to discuss your web site marketing goals: **1-877-4-WEB-ADS** (1-877-493-2237). Or, fill out our [online RFP Form](https://web.archive.org/web/20020603161709id_/http%3A//www.webadvantage.net/contact_rfp.htm) or [e-mail us](mailto:marketing@webadvantage.net) directly with your name, company, telephone number and e-mail address. 
 
-**[](https://web.archive.org/web/20011025002041id_/http%3A//webadvantage.net/tip.cfm)**
+**[](https://web.archive.org/web/20020603161709id_/http%3A//www.webadvantage.net/tip.cfm)**
