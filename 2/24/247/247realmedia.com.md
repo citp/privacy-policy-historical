@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204223138id_/http%3A//www.247realmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247realmedia.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401183029id_/http%3A//www.247realmedia.com/privacy.html) for the most accurate reproduction.*
 
 # 24/7 Real Media Privacy Policy
 
-[](https://web.archive.org/web/20021204223138id_/http%3A//www.247realmedia.com/marketers/index.html "solutions for marketers")[](https://web.archive.org/web/20021204223138id_/http%3A//www.247realmedia.com/publishers/index.html "solutions for publishers") |  | 
+[](https://web.archive.org/web/20030401183029id_/http%3A//www.247realmedia.com/marketers/index.html "solutions for marketers")[](https://web.archive.org/web/20030401183029id_/http%3A//www.247realmedia.com/publishers/index.html "solutions for publishers") |  | 
 
 **24/7 Real Media, Inc.  
 Privacy Policy**
@@ -10,11 +10,6 @@ Privacy Policy**
 **24/7 REAL MEDIA’S COMMITMENT TO PRIVACY**  
 24/7 Real Media, Inc. is firmly committed to protecting the privacy of Internet users and fostering consumer confidence in the Internet, Internet advertising and direct marketing. We make available all of our information and privacy practices on our Web site [_www.247realmedia.com._](http://www.247realmedia.com/) We also invite all users to contact us at [_privacy@247realmedia.com_](mailto:privacy@247realmedia.com) with any questions or concerns.  
 
-
-  
-24/7 Real Media, Inc. is a licensee of the TRUSTe Privacy Program. To learn more about TRUSTe, [**click here.**](http://www.truste.org/)
-
-[](http://www.truste.org/)
 
 **  
 WHAT 24/7 REAL MEDIA DOES**  
@@ -90,7 +85,26 @@ Unlike other global ad serving companies, 24/7 Real Media does not use any of th
   
 
 
-**  
+**Open Advertiser**  
+Much like Open AdStream LOCAL and Open AdStream CENTRAL, Open Advertiser provides Web marketers with exclusive ownership of all the data associated with the campaigns they serve, including the user data.
+
+Since Open Advertiser is a fully hosted, ASP-style service, 24/7 Real Media interacts with the data gathered by our clients.
+
+Despite this interaction, 24/7 Real Media serves a unique cookie file for each advertiser or agency that uses Open Advertiser. 
+
+In the process of delivering an advertisement, promotion or email message, the 24/7 Real Media Open Advertiser ad server automatically recognizes certain non-personally identifiable information that is linked to a particular browser, such as the type of Internet browser an online user is using, the type of computer operating system being used, and the domain name of the Web site. 
+
+Other Non-PII information collected by 24/7 Real Media's customer may be information related to Web sites and Web site sections a visitor is viewing when the ad is requested, location of the ISP point of presence, date and time of visit, keywords passed from another server, the number of click-throughs on an advertisement or interactions with the customer's Web site. Non-PII is collected by the 24/7 Real Media Open Advertiser service and associated with a persistent cookie set in the customer's domain. 24/7 Real Media's customer has the exclusive ownership of the persistent cookie and the Non-PII information associated with it.
+
+Unlike other global ad serving companies, 24/7 Real Media does not use any of the data collected via cookies for purposes other than those described above. 24/7 Real Media does not merge personally identifiable information with Non-personally identifiable information, and does not otherwise parse, sort, gather, or aggregate user data for use elsewhere.
+
+24/7 Real Media thus has no reason to offer users the choice to "opt-out" of anything that pertains to Open Advertiser.
+
+Users who wish to opt-out from any data gathering associated with Open Advertiser must visit do so at individual site of the customer they visit.
+
+Many marketers use Open Advertiser precisely because the software serves a Unique cookie file that thwarts data aggregation across a series of unrelated advertisers. It protects Web users from being profiled across multiple advertisers, so it actually enhances user privacy.
+
+ **  
 WHAT USER INFORMATION IS COLLECTED BY EMAIL AND IPROMOTIONS**  
 24/7 Real Media collects two types personally identifiable information only through its Email and iPromotions business lines.
 
@@ -122,8 +136,8 @@ Personally Identifiable Information (PII). PII is used by 24/7 Real Media in sev
 
 
 **  
-OPTING OUT FROM 24/7 REAL MEDIA’S LIST OF PERMISSIONED EMAIL ADDRESSES**  
-If you are a member of our database and do not wish to receive such mailings, send us an email to [_optoutemail@247realmedia.com_](mailto:optoutemail@247realmedia.com?subject=Opt%20Out%20of%20247%20Real%20Media%20Permissioned%20Email%20Database) or click here:
+OPTING OUT FROM 24/7 MAIL'S LIST OF PERMISSIONED EMAIL ADDRESSES**  
+As described above, we sold our 24/7 Mail business in May 2002 to Naviant, Inc. and thus we no longer operate this business. If you are a member of the 24/7 Mail database and do not wish to receive such mailings, please send an email to [_privacy@247mail.com_](mailto:privacy@247mail.com).
 
 **  
 WITH WHOM COLLECTED INFORMATION IS SHARED**  
