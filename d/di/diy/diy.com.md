@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diy.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202092136id_/http%3A//www.diy.com/miscellaneous/privacy/privacy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diy.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602181826id_/http%3A//www.diy.com/miscellaneous/privacy/privacy.jhtml) for the most accurate reproduction.*
 
 # B&Q
 
@@ -28,7 +28,7 @@ When you order, we collect personal information such as your name, e-mail addres
 
 We will also collect non-transactional data should you enter a competition, request a brochure, take part in a survey, request an e-newsletter or contact diy.com via one of the electronic forms provided.
 
-We may also use the information we collect to occasionally notify you about news and information about goods and services we think you may find valuable including new diy.com services and important functionality changes to the website. At every point on the site where such personal information is collected, we give you the option to tell us if you do not want your personal information used in this way. If at any later stage you decide you would rather not receive such information please contact us online by completing the form in [Contact B&Q](https://web.archive.org/bq/corp/contact_email.jhtml?emailType=privacy) and typing "NO MAIL" in the question/comment box
+We may also use the information we collect to occasionally notify you about news and information about goods and services we think you may find valuable including new diy.com services and important functionality changes to the website. At every point on the site where such personal information is collected, we give you the option to tell us if you do not want your personal information used in this way. If at any later stage you decide you would rather not receive such information please contact us online by completing the form in [Contact B&Q](https://web.archive.org/bq/corp/contact_email.jhtml?emailType=privacy) and typing "NO MAIL" in the question/comment box.
 
 The information collected will also be used to help us provide further services on this site in the future.  
 
@@ -77,7 +77,7 @@ If at any stage you change your preferences and decide you would rather not rece
 
 **Children**
 
-B&Q does not sell products for purchase by children. We sell childrens products for purchase by adults. If you are under 18, you may use DIY.com only with involvement of a parent or guardian.
+B&Q does not sell products for purchase by children. We sell childrens products for purchase by adults. If you are under 18, you may use DIY.com only with the involvement of a parent or guardian.
 
 **How do I make a complaint to B &Q?**
 
@@ -94,7 +94,7 @@ SO53 3YX
 
 **Policy changes**
 
-If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Any changes to this policy made by B&Q plc will be posted here and will take effect immediately. This policy was last updated in June 2002. 
+If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. Any changes to this policy made by B&Q plc will be posted here and will take effect immediately. This policy was last updated in February 2003. 
 
 **Tell us what you think**
 
