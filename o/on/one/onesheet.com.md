@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the onesheet.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201150901id_/http%3A//www.madphat.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onesheet.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604064324id_/http%3A//www.madphat.com/privacy.html) for the most accurate reproduction.*
 
 # Mad Phat Enterprises, Inc. Privacy Policy
 
   
 ** Privacy Policy Statement:**
 
-This is the web site of MAD PHAT ENTERPRISES, INC. Our postal address is : 54 Hazel Street Clifton, NJ 07011-3409 We can be reached via e-mail at [sales@madphat.com](mailto:sales@madphat.com) Or you can reach us Toll Free by telephone at 877-mad-phat
+This is the web site of MAD PHAT ENTERPRISES, INC. Our postal address is : 8201 Camino Media #5 Bakersfield, CA 93311 We can be reached via e-mail at [sales@madphat.com](mailto:sales@madphat.com) Or you can reach us Toll Free by telephone at 877-623-7428 International Customers 01-661-665-9832
 
 Mad Phat Enterprises is committed to safeguarding your privacy online. Please read the following to fully understand our practices regarding the use of your personal Information.
 
