@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602023402id_/http%3A//www.jorgecruise.com/html/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212082356id_/http%3A//jorgecruise.com/NewFiles/privacypolicy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY
+# PrivacyPolicy@jorgecruise.com
 
 JorgeCruise.com has created this privacy policy to let you know why we collect information from you and what we do with it. 
 
@@ -12,3 +12,8 @@ What do we do with the information that we collect?
 The information we collect from your membership helps us to improve our content, customize content of certain pages for you, and to send you updates about the site. 
 
 Finally, the web site contains links to some other web sites. We cannot be responsible for the content of those sites or for the privacy of information that you may choose to share with them.
+
+[Contact Us](https://web.archive.org/web/20011212082356id_/http%3A//jorgecruise.com/NewFiles/contactus.html) | [Jobs](https://web.archive.org/web/20011212082356id_/http%3A//jorgecruise.com/NewFiles/jobs.html) | [Terms of Use](https://web.archive.org/web/20011212082356id_/http%3A//jorgecruise.com/NewFiles/terms.html) | [Privacy Policy](https://web.archive.org/web/20011212082356id_/http%3A//jorgecruise.com/NewFiles/privacypolicy.html)  
+TM & © 1997-2001 Jorge Cruise, Inc. All Rights Reserved.  
+JorgeCruise.com or AOL Keyword: Jorge Cruise  
+[](https://web.archive.org/web/20011212082356id_/http%3A//jorgecruise.com/relief.html)
