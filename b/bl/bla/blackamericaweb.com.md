@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607051914id_/http%3A//www.blackamericaweb.com/new/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackamericaweb.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212083735id_/http%3A//blackamericaweb.com/privacy.cfm) for the most accurate reproduction.*
 
-# Tom Joyner's Fantastic Voyage 2001
+# Black America Web - Index
 
 ** BlackAmericaWeb.com Privacy Policy**
 
