@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fftoday.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604073344id_/http%3A//www.fftoday.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fftoday.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207053442id_/http%3A//www.fftoday.com/privacy/index.htm) for the most accurate reproduction.*
 
 # Privacy Policy - FF Today
 
@@ -8,9 +8,11 @@ FFToday.com makes use of a technology called "cookies" which stores small pieces
 
 Registration at the [FF Today Forums](http://www.fftodayforums.com/) requires a valid e-mail address. This address is used only to send you your password, and to subscribe to our 100% opt-in mailing list, if you enable that option. Cookies are used in the forum solely for the purpose of letting viewers know about new posts since their last visit, and storing their forum password if they enable that option.
 
-We use third-party advertising companies to serve our ads on the Internet. These third-party advertising companies employ cookie and 1x1 pixel .gif technology to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our Web site and other Web sites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
+Third Party Advertising  
+We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here <<http://www.networkadvertising.org/optout_nonppii.asp>>
 
-If you want to prevent a third-party advertiser from setting and/or reading cookies on your computer, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies’ privacy policies.
+Third Party Cookies  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
 
 Our servers log URLs and times of access to each page of our site, the referring URL and the IP address or hostname of the computer making the request. We use this information only to monitor the volume of traffic to the site, except in cases where we suspect a user is abusing the site's resources. In such cases, we will attempt to identify the ISP of the user and let the provider know about the abuse.
 
