@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franklintempleton.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606031603id_/http%3A//franklintempleton.com/retail/jsp_cm/access/st_agrmt/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franklintempleton.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210002450id_/http%3A//www.franklintempleton.com/retail/jsp_cm/access/st_agrmt/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,11 +14,11 @@ Web-Related Privacy Issues
   
 How we use information provided on the Web   
   
-Your email address. We collect your email address when you register for account access. If we need to contact you about transactions or account activity on the site, your email address lets us do that quickly. If you sign up for electronic delivery of documents, we'll need your email address for that, too.   
+Your email address. We collect your email address when you register for account access. If we need to contact you about transactions or account activity on the site, your email address lets us do that quickly. If you sign up for electronic delivery of documents, we'll need your email address for that, too. Both of these services require that you maintain an updated email address with us.   
   
 Even if you're not registered for account access, we may need to ask for your email address. For instance, if you ask for a referral to a financial advisor or subscribe to our email newsletter, we'll need your email address to respond to your requests.   
   
-We won't send emails you haven't asked for unless there's a good reason.   
+We won't send emails you haven't asked for unless there's a good reason. If you don't want to receive these emails, use the opt-out link at the bottom of the email.   
   
 Survey information. Occasionally we may ask you to participate in a brief survey to help us make smart choices as we look for ways to improve the site. If you choose to participate, information you provide won't be identified with you personally.   
   
@@ -52,5 +52,5 @@ Confidentiality and Security
   
 Our employees are required to follow procedures with respect to maintaining the confidentiality of our investors' non-public personal information. Additionally, we maintain physical, electronic, and procedural safeguards to protect the information. This includes performing ongoing evaluations of our systems containing investor information and making changes when appropriate.   
   
-|   
-
+|  |   
+---
