@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendiary.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608033620id_/http%3A//www.opendiary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendiary.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211132410id_/http%3A//opendiary.com/privacy.asp) for the most accurate reproduction.*
 
 # The Open Diary
 
