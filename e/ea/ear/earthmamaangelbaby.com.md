@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthmamaangelbaby.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208130319id_/http%3A//www.earthmamaangelbaby.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthmamaangelbaby.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402015556id_/http%3A//www.earthmamaangelbaby.com/privacy.html) for the most accurate reproduction.*
 
 # Earth Mama Angel Baby Privacy Policy
 
