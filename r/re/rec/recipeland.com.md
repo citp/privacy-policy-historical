@@ -1,8 +1,47 @@
-> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206105100id_/http%3A//www.recipeland.com/privacy.epl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipeland.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604103454id_/http%3A//www.recipeland.com/privacy.epl) for the most accurate reproduction.*
 
 # Privacy Policy - RecipeLand.com
 
+|  |  | [Home](http://www.recipeland.com/) | [My Recipes](http://www.recipeland.com/myrecipes/) | [Find by Category](http://www.recipeland.com/index_categories.epl) | [Find by Title](http://www.recipeland.com/index_titles.epl) | [Find by All](http://www.recipeland.com/index_full.epl) | [Recipe Reviews](http://www.recipeland.com/display_reviews.epl) | [Voting Results](http://www.recipeland.com/display_votes.epl) | [e-recipe Mailing List](http://www.recipeland.com/erecipes_subscribe.epl) | [Discussion Forum](http://www.recipeland.com/cgi-bin/wwwthreads/wwwthreads.pl) | [F.A.Q.](http://www.recipeland.com/faq.epl) | [In the News](http://www.recipeland.com/news.epl) | [Guestbook](http://www.recipeland.com/guestbook.epl) | [Contact Us](http://www.recipeland.com/contact.epl/) |   
+
+
 ## RecipeLand.com Privacy Policy
+
+At RecipeLand.com we recognize the importance of your privacy. That said, it's understandable that you may be concerned with the information you provide to us and how we use it. With these concerns in mind, we've developed the RecipeLand.com Privacy Policy outlined below. We may update this Policy from time to time, so please check back occasionally. If you have any questions about our Privacy Policy, you can contact us at recipes@recipeLand.com. 
+
+**Note to children under the age of 13**  
+If you're under 13, you must provide us with written permission from your parents before sending any information about yourself to us over the Internet. 
+
+**Information collected and how it is used**  
+RecipeLand.com is the sole owner of the information collected on this site. We will not sell, share, or rent your information to others in any way different from what is disclosed in this statement. RecipeLand.com collects voluntary information from you at several different points on our website. This information is used to enhance your experience on our web site. 
+
+We collect information in the following areas: 
+
+**I. Registration**  
+RecipeLand.com does not collect your personal identifiable information unless you provide it to us voluntarily and knowingly. This means we don't require you to register or provide information to us in order to view our site. However, you must register if you wish to use certain features on our site. 
+
+During registration you are required to give contact information (such as your name and email address). This information is used to provide the services that you have requested, or to contact you about the service on our site for which you have expressed interest. We may contact you from time to time with news as well as for internal marketing and promotional purposes. 
+
+**Recipe submission**  
+Your personally identifying information may be used for editorial purposes (such as attributing your submitted recipe to you). We may also use this information to contact you should we have any complications with your recipe. 
+
+**Recipe request**  
+
+
+When you subscribe to this feature, we ask for your name and email address and the description of the recipe that you are requesting. RecipeLand.com then posts your name and your recipe description to the site. The email address you provided is only used for us to contact you when your request has been filled. 
+
+**Contest, Promotions and Surveys**  
+You must be a registered user in order to enter contests and promotions on RecipeLand.com. Participation in these events is completely voluntary and we do not require you to disclose this information. Information requested may include contact information (such as your name and shipping address) and demographic information. Your contact information will be used to notify you if you've won and award prizes. 
+
+From time to time our site requests information from you via surveys. This information will be used for purposes of monitoring or improving the use and satisfaction of this site and participation is completely at your discretion. 
+
+**II. Cookies**
+
+Like most web sites, we use "cookie" technology on our web site. We may place a "cookie" in the browser file of your computer, however the "cookie" itself does not contain any personally identifying information about you. The "cookie" does not track your personal information or provide us with any way to contact you, and the "cookie" does not extract any information off your computer. We use the "cookie" to provide functional information about your browser, allowing us to provide you a better experience. We also use "cookies" to gather broad demographic information and general usage patterns about you and other users of our sites. 
+
+If your browser rejects cookies, you may still use our site. The only drawback to this is that you will be limited from accessing certain areas of our site, such as contests, coupons, recipe box, shopping list feature, etc. 
+
+**Some of our business partners also use cookies on our site. See next reference:**
 
 RecipeLand.com, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information. 
 
@@ -20,4 +59,4 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 
 _RecipeLand works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to<http://www.flycast.com/about_us/about-privacy.html>._
 
-[Back to the Site](https://web.archive.org/)
+[Back to the Site](https://web.archive.org/) Want to save that recipe? Want more powerfull searching? Try [My Recipes](http://www.recipeland.com/myrecipes/)
