@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teachernet.gov.uk privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605114120id_/http%3A//www.teachernet.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachernet.gov.uk privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209105514id_/http%3A//www.teachernet.gov.uk/privacy) for the most accurate reproduction.*
 
 # TeacherNet, Privacy
-
-## Privacy statement
 
 Under the Data Protection Act 1998, we have legal obligations towards you in the way that we deal with data collected from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it. We do not pass on your details to any third party or government department unless you give us permission to do so, or we are obliged or permitted by law to disclose it.
 
