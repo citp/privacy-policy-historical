@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coccozella.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602205032id_/http%3A//www.coccozella.com/INFO/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coccozella.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019005242id_/http%3A//www.coccozella.com/INFO/privacy.htm) for the most accurate reproduction.*
 
 # Cocco - Privacy Policy
 
