@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607234422id_/http%3A//www.variety.com/index.asp%3Flayout%3Dabout_privacy_layout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the variety.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202073839id_/http%3A//www.variety.com/index.asp%3Flayout%3Dabout_privacy_layout) for the most accurate reproduction.*
 
 # Variety.com - About Variety Privacy Policy
 
   
-June 25, 2001 
+July 9, 2002 
 
 **For Reed Business Information, a division of Reed Elsevier Inc. publications.**
 
@@ -18,10 +18,10 @@ In addition to the options made available to you, if any, when we collect inform
 Attention: | Privacy Manager  
 ---|---  
 Address: | Reed Business Information  
-1350 E. Touhy Avenue  
-Des Plaines, IL 60018  
-email: | [privacymanager@cahners.com](mailto:privacymanager@cahners.com)  
+2000 Clearwater Drive  
+Oak Brook, IL 60523  
+email: | [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)  
 Phone: | (877) 504-1273  
-Fax: | (847) 390-2377  
+Fax: | (630) 288-8394  
   
 We will update the specific records related to your request as promptly as practical. Note, however, that you may receive additional communications from third parties after you submit your request while we process the request. Additionally, your information may exist in multiple lists within the company and our technology limits the processing of opt out requests to the specific list source. We will continuously assess our responsiveness to opt out requests against new technologies, business practices and our customers' needs. 
