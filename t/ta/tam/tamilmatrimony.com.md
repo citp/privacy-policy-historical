@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilmatrimony.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008163251id_/http%3A//www.tamilmatrimony.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilmatrimony.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607024030id_/http%3A//www.tamilmatrimony.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
 
