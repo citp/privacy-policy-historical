@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the esurance.com privacy policy that was archived on 2001-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011211174726id_/http%3A//www.esurance.com/content/footer/MainPrivacyAndSecurity.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the esurance.com privacy policy that was archived on 2002-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020610192623id_/http%3A//www.esurance.com/content/footer/MainPrivacyAndSecurity.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <script language="JavaScript">
@@ -11,8 +11,55 @@ function openWindow(theURL,winName) { window.open(theURL,winName,'toolbar=no,res
 </script>
 <title>Esurance - Privacy and Security</title>
 <script language="JavaScript" src="/content/common/coolmenus.js"></script>
+
+	<script language"javascript"="">
+	var onSite = "false"; // default status for the popup
+	//parent.name="main"; // name main window so the href in the window has a target
+
+	function checkCountEnter() 
+	{
+	   if (false) 
+	   {
+	      if ("bail" == "enter")
+	      {
+	         doThePopup(); // calls the popup function
+		  }
+	   }
+	}
+
+	function checkCountExit() 
+	{
+	   if (false) 
+	   {
+	      if ("bail" == "exit")
+	      {
+	         doThePopup(); // calls the popup function
+		  }
+		  if ("bail" == "bail")
+		  {
+		     if (onSite == "false")
+		     {
+		        doThePopup();
+		     }
+		  }
+	   }
+	}
+
+	function doThePopup() {
+		if (navigator.appName == "Microsoft Internet Explorer") { // if IE, this one is used
+			window.open("http://www.esurance.com/Common/exitsurvey/popsurvey.asp?surveyid=0&pagename=MainPrivacyAndSecurity.asp&newpromocd=&linsproduct=2&returnuser=0&stateid=CA&zipcode=92147","qs","resizable=no,WIDTH=650,HEIGHT=590,left=20,top=20");
+		}
+		
+		else if (navigator.appName == "Netscape") { // if NS, this one is used
+	        window.open("http://www.esurance.com/Common/exitsurvey/popsurvey.asp?surveyid=0&pagename=MainPrivacyAndSecurity.asp&newpromocd=&linsproduct=2&returnuser=0&stateid=CA&zipcode=92147","qs","resizable=no,Width=650,Height=590,screenX=20,screenY=20");
+		}
+	}
+	</script>
+
 </head>
-<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="self.focus()">
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="self.focus(); checkCountEnter();" onunload="checkCountExit();">
+
+
 
 
 
@@ -59,7 +106,7 @@ oCMenu.pxbetween=30
 oCMenu.menuplacement=new Array('0','57','139','211','267','360') 
 
 oCMenu.level[0]=new Array() 
-oCMenu.level[0].width=120 
+oCMenu.level[0].width=95
 oCMenu.level[0].height=22 
 oCMenu.level[0].bgcoloroff="White" 
 oCMenu.level[0].bgcoloron="White" 
@@ -76,7 +123,7 @@ oCMenu.level[0].NS4fontSize="2"
 oCMenu.level[0].align="bottom" //Value: "top" || "bottom" || "left" || "right" 
 
 oCMenu.level[1]=new Array()
-oCMenu.level[1].width=oCMenu.level[0].width-2
+oCMenu.level[1].width=120
 oCMenu.level[1].height=18
 oCMenu.level[1].bgcoloroff="White"
 oCMenu.level[1].bgcoloron="#339933"
@@ -88,22 +135,6 @@ oCMenu.level[1].offsetX=-(oCMenu.level[0].width-2)/2+20
 oCMenu.level[1].offsetY=0
 oCMenu.level[1].border=1 
 oCMenu.level[1].bordercolor="#339933"
-
-oCMenu.level[2]=new Array()
-oCMenu.level[2].width=oCMenu.level[0].width-2
-oCMenu.level[2].height=15
-oCMenu.level[2].bgcoloroff="White"
-oCMenu.level[2].bgcoloron="White"
-oCMenu.level[2].textcolor="Navy"
-oCMenu.level[2].hovercolor="Blue"
-oCMenu.level[2].style="padding:0px; font-family:tahoma,arial,helvetica; font-size:10px; font-weight:bold"
-oCMenu.level[2].valign="middle" 
-oCMenu.level[2].offsetX=0
-oCMenu.level[2].offsetY=0
-oCMenu.level[2].border=1 
-oCMenu.level[2].bordercolor="#339933"
-oCMenu.level[2].NS4font="tahoma,arial,helvetica"
-oCMenu.level[2].NS4fontSize="1"
 
 
 oCMenu.makeMenu('top0','','<img src=/content/navigation/navbar-home.gif border=0>','/default.asp','','','','/content/navigation/navbar-home.gif','/content/navigation/navbar-home-on.gif')
@@ -456,26 +487,6 @@ oCMenu.makeStyle(); oCMenu.construct()
               these services. Customers may opt out from Doubleclick tracking 
               by visiting the Doubleclick Web site at <a href="http://www.doubleclick.com/us/corporate/privacy">http://www.doubleclick.com/us/corporate/privacy</a>. 
               </font></p>
-            <p><font face="Arial, Helvetica, sans-serif" size="2">We have also 
-              engaged Cogit, an emarketing company that aggregates anonymous profiles 
-              to whom we may provide your name, street address and/or ZIP Code. 
-              We allow Cogit to place an anonymous cookie on your browser when 
-              you visit. Cogit uses data gathered from other Web sites to provide 
-              Esurance with demographic data on its visitors. Cogit is contractually 
-              prohibited from disclosing or even retaining any of the information 
-              it gathers. In addition, Cogit may not use the information to contact 
-              you or for any purpose other than to help us better understand your 
-              needs. Based on such information from their other clients, Cogit 
-              generates anonymous user profiles devoid of personally identifiable 
-              information, which allow clients like us to enhance our service 
-              offerings. When you visit our site, Cogit will help us select the 
-              content or promotions we should display to you by analyzing or providing 
-              us with certain demographic information from its anonymous user 
-              profile. If we receive any demographic information from Cogit's 
-              anonymous profile, we are contractually prohibited from disclosing 
-              or even storing it. To learn more about Cogit and its stringent 
-              privacy protection measures or to opt out of Cogit services, please 
-              go to <a href="http://cs.click-safe.com/opt_info.asp">http://cs.click-safe.com/opt_info.php3</a></font></p>
             <p><font face="Arial, Helvetica, sans-serif" size="2">Your security 
               is not compromised by the use of these cookies. Our site uses industry 
               standard encryption techniques to send cookies. Our cookies contain 
@@ -569,7 +580,7 @@ oCMenu.makeStyle(); oCMenu.construct()
               As of May 17, 2001, Esurance is no longer a participant in the TrustE 
               program.</font></p>
             <p><font face="Arial, Helvetica, sans-serif" size="2"><br>
-              Version PN003 effective October 30, 2001</font></p>
+              Version PN004 effective March 5, 2002</font></p>
 </td>
         </tr>
       </tbody></table>
@@ -592,7 +603,7 @@ oCMenu.makeStyle(); oCMenu.construct()
 <tr>
 <td bgcolor="#003399">&nbsp;</td>
 </tr>
-</tbody></table><div style="position: absolute; clip: rect(0px, 120px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 0px; top: 60px; width: 120px; height: 22px;"><div id="divoCMenu0_0" class="cloCMenu0" style="clip: rect(0px, 120px, 22px, 0px); width: 120px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-home.gif" border="0" name="imgCMenutop0"></div></div><div style="position: absolute; clip: rect(0px, 120px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 57px; top: 60px; width: 120px; height: 22px;"><div id="divoCMenu0_1" class="cloCMenu0" style="clip: rect(0px, 120px, 22px, 0px); width: 120px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-howtoquote.gif?pagetype=" border="0" name="imgCMenutop1"></div></div><div style="position: absolute; clip: rect(0px, 120px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 139px; top: 60px; width: 120px; height: 22px;"><div id="divoCMenu0_2" class="cloCMenu0" style="clip: rect(0px, 120px, 22px, 0px); width: 120px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-howtobuy.gif" border="0" name="imgCMenutop2"></div></div><div style="position: absolute; clip: rect(0px, 120px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 211px; top: 60px; width: 120px; height: 22px;"><div id="divoCMenu0_3" class="cloCMenu0" style="clip: rect(0px, 120px, 22px, 0px); width: 120px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-aboutus.gif" border="0" name="imgCMenutop3"></div></div><div style="position: absolute; clip: rect(0px, 120px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 267px; top: 60px; width: 120px; height: 22px;"><div id="divoCMenu0_4" class="cloCMenu0" style="clip: rect(0px, 120px, 22px, 0px); width: 120px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-learningcenter.gif" border="0" name="imgCMenutop4"></div></div><div style="position: absolute; clip: rect(0px, 120px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 360px; top: 60px; width: 120px; height: 22px;"><div id="divoCMenu0_5" class="cloCMenu0" style="clip: rect(0px, 120px, 22px, 0px); width: 120px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-contactus.gif" border="0" name="imgCMenutop5"></div></div><div style="position:absolute; clip:rect(0,0,0,0); visibility:hidden; ; background-color:#339933; overflow:hidden; z-index:200"><div style="position: absolute; padding: 2px; font-family: arial; font-size: 11px; font-weight: bold; cursor: pointer; visibility: inherit; z-index: 250; left: 1px; top: 1px;"></div><div style="position: absolute; padding: 2px; font-family: arial; font-size: 11px; font-weight: bold; cursor: pointer; visibility: inherit; z-index: 250; left: 1px; top: 20px;"></div><div style="position: absolute; padding: 2px; font-family: arial; font-size: 11px; font-weight: bold; cursor: pointer; visibility: inherit; z-index: 250; left: 1px; top: 39px;"></div><div style="position: absolute; padding: 2px; font-family: arial; font-size: 11px; font-weight: bold; cursor: pointer; visibility: inherit; z-index: 250; left: 1px; top: 58px;"></div><div style="position: absolute; padding: 2px; font-family: arial; font-size: 11px; font-weight: bold; cursor: pointer; visibility: inherit; z-index: 250; left: 1px; top: 77px;"></div></div>
+</tbody></table><div style="position: absolute; clip: rect(0px, 95px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 0px; top: 60px; width: 95px; height: 22px;"><div id="divoCMenu0_0" class="cloCMenu0" style="clip: rect(0px, 95px, 22px, 0px); width: 95px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-home.gif" border="0" name="imgCMenutop0"></div></div><div style="position: absolute; clip: rect(0px, 95px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 57px; top: 60px; width: 95px; height: 22px;"><div id="divoCMenu0_1" class="cloCMenu0" style="clip: rect(0px, 95px, 22px, 0px); width: 95px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-howtoquote.gif?pagetype=" border="0" name="imgCMenutop1"></div></div><div style="position: absolute; clip: rect(0px, 95px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 139px; top: 60px; width: 95px; height: 22px;"><div id="divoCMenu0_2" class="cloCMenu0" style="clip: rect(0px, 95px, 22px, 0px); width: 95px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-howtobuy.gif" border="0" name="imgCMenutop2"></div></div><div style="position: absolute; clip: rect(0px, 95px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 211px; top: 60px; width: 95px; height: 22px;"><div id="divoCMenu0_3" class="cloCMenu0" style="clip: rect(0px, 95px, 22px, 0px); width: 95px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-aboutus.gif" border="0" name="imgCMenutop3"></div></div><div style="position: absolute; clip: rect(0px, 95px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 267px; top: 60px; width: 95px; height: 22px;"><div id="divoCMenu0_4" class="cloCMenu0" style="clip: rect(0px, 95px, 22px, 0px); width: 95px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-learningcenter.gif" border="0" name="imgCMenutop4"></div></div><div style="position: absolute; clip: rect(0px, 95px, 22px, 0px); visibility: visible; overflow: hidden; z-index: 100; left: 360px; top: 60px; width: 95px; height: 22px;"><div id="divoCMenu0_5" class="cloCMenu0" style="clip: rect(0px, 95px, 22px, 0px); width: 95px; height: 22px; left: 0px; top: 0px;"><img src="/content/navigation/navbar-contactus.gif" border="0" name="imgCMenutop5"></div></div><div style="position:absolute; clip:rect(0,0,0,0); visibility:hidden; ; background-color:#339933; overflow:hidden; z-index:200"><div style="position: absolute; padding: 2px; font-family: arial; font-size: 11px; font-weight: bold; cursor: pointer; visibility: inherit; z-index: 250; left: 1px; top: 1px;"></div><div style="position: absolute; padding: 2px; font-family: arial; font-size: 11px; font-weight: bold; cursor: pointer; visibility: inherit; z-index: 250; left: 1px; top: 20px;"></div><div style="position: absolute; padding: 2px; font-family: arial; font-size: 11px; font-weight: bold; cursor: pointer; visibility: inherit; z-index: 250; left: 1px; top: 39px;"></div><div style="position: absolute; padding: 2px; font-family: arial; font-size: 11px; font-weight: bold; cursor: pointer; visibility: inherit; z-index: 250; left: 1px; top: 58px;"></div><div style="position: absolute; padding: 2px; font-family: arial; font-size: 11px; font-weight: bold; cursor: pointer; visibility: inherit; z-index: 250; left: 1px; top: 77px;"></div></div>
 
 
 </body></html>
