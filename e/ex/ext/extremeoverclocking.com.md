@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremeoverclocking.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205084006id_/http%3A//www.extremeoverclocking.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremeoverclocking.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204060511id_/http%3A//www.extremeoverclocking.com/privacy.php) for the most accurate reproduction.*
 
 # EXTREME Overclocking - Tweaking PC Hardware To The Max
 
@@ -24,7 +24,7 @@ The ads appearing on EXTREME Overclocking are delivered to users by our ad-serve
 
 ### Links:
 
-This web site contains links to other sites. Please be aware that we, EXTREMEOverclocking.com, are responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+This web site contains links to other sites. Please be aware that we, EXTREMEOverclocking.com, are not responsible for the privacy practices of other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
 ### Surveys & Contests:
 
