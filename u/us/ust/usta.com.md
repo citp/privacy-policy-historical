@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208164435id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usta.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622060834id_/http%3A//www.usta.com/site_services/custom.sps%3FiType%3D961%26icustompageid%3D1658) for the most accurate reproduction.*
 
-# United States Tennis Association - Site_services - 12/8/2002 4:44:37 PM
+# United States Tennis Association - Site_services - 6/22/2003 6:08:33 AM
 
 |  | 
 
