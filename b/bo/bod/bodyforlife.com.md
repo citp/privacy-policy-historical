@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616124629id_/http%3A//www.bodyforlife.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805052950id_/http%3A//www.bodyforlife.com/privacy.shtml) for the most accurate reproduction.*
 
 # Body-for-LIFE®
 
