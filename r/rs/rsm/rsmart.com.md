@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2003-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031223024033id_/http%3A//www.rsmart.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611122906id_/http%3A//www.rsmart.com/privacy.php) for the most accurate reproduction.*
 
 # the r•smart group
 
@@ -24,7 +24,7 @@ Exceptions to the Privacy Policy
 There are limited exceptions to the the r•smart group privacy policy. When required by law to comply with any valid legal process such as a search warrant, subpoena, statute, regulation or court order, the r•smart group will supply such information as that organization reasonably determines, based on the advice of counsel, it is legally required to supply. In addition, the r•smart group may release specific information relevant to special cases, such as a physical threat to you or others or an attempted breach of security on the the r•smart group site. 
 
 What do we collect?   
-The r•smart group collects personal identifying information from you; including your name, address, e-mail address, telephone number, and such additional information as required to communicate with you as well as for form completion. 
+The r•smart group may collect personal identifying information from you; including your name, e-mail address, telephone number, and such additional information as required to communicate with you in repsonse to form completion. 
 
 Why do we collect this data?   
 The r•smart group collects personal to enable the r•smart group to respond to your questions or contact you when necessary in connection with the r•smart group products or services. 
