@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archiecomics.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205091249id_/http%3A//www.archiecomics.com/townhall/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archiecomics.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307075506id_/http%3A//www.archiecomics.com/townhall/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
