@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the boingo.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204220619id_/http%3A//www2.boingo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boingo.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623180845id_/http%3A//www.boingo.com/privacy.html) for the most accurate reproduction.*
 
 # Boingo Wireless - Privacy Policy
 
+  
   
 | | |   
 
@@ -11,7 +12,7 @@
 
 The privacy and security of your personal information is a foremost consideration of Boingo Wireless, Inc. We want to make your experience using the Boingo™ service as enjoyable and rewarding as possible while allowing you to feel secure that your privacy interests are being respected. 
 
-Boingo collects certain information that is necessary to fully service your Boingo account. As a customer, you will be asked to provide information that is needed in order to create your Boingo account and fulfill our service commitment to you such as your name, address, phone number, e-mails? address and billing information. We treat this personal information that you provide to us as highly confidential. Boingo may use this personal information for editorial and feedback purposes, marketing and promotional purposes, for statistical analysis and for product development. Your personal information, however, will never be sold to any company nor will it be shared with third parties, unless specifically stated otherwise or in special circumstances. In instances where Boingo and a partner jointly promote the Boingo service, Boingo may provide that partner certain information, such as name and e-mail address, for the sole purpose of allowing Boingo and the partner to evaluate the promotion. 
+Boingo collects certain information that is necessary to fully service your Boingo account. As a customer, you will be asked to provide information that is needed in order to create your Boingo account and fulfill our service commitment to you such as your name, address, phone number, e-mails address and billing information. We treat this personal information that you provide to us as highly confidential. Boingo may use this personal information for editorial and feedback purposes, marketing and promotional purposes, for statistical analysis and for product development. Your personal information, however, will never be sold to any company nor will it be shared with third parties, unless specifically stated otherwise or in special circumstances. In instances where Boingo and a partner jointly promote the Boingo service, Boingo may provide that partner certain information, such as name and e-mail address, for the sole purpose of allowing Boingo and the partner to evaluate the promotion. 
 
 Boingo collects certain optional information that you may provide through the registration process. This information is used to tailor our account services to most effectively serve you, and to better understand the aggregate profile of our customers. This information may also be used in developing new services. 
 
@@ -36,7 +37,7 @@ Boingo will not divulge any of your personal information -- contact, financial, 
 
 Boingo may contact customers or Web site visitors regarding account status and changes to this privacy policy and any other policies or agreements relevant to Web site visitors. Boingo may use your information to disclose summary information to strategic and business partners. This is obtained by combining data from many individuals with the name and other identifiers removed. Boingo also may create aggregate reports on user demographics and traffic patterns. This information may be used to negotiate with service providers who complement the Boingo service or assist us in our efforts to expand our customer base. 
 
-Boingo opposes the e-mails?ing of any junk mail, and does not sell customer information to e-mail lists or telemarketers. If any of our partner sites engage in such practices, for any reason, Boingo will immediately investigate, and if appropriate, discontinue services with such parties. If you receive junk e-mail that mentions Boingo or its services, please send details to us at [info@boingo.com](mailto:info@boingo.com) and we will investigate promptly. 
+Boingo opposes the e-mailing of any junk mail, and does not sell customer information to e-mail lists or telemarketers. If any of our partner sites engage in such practices, for any reason, Boingo will immediately investigate, and if appropriate, discontinue services with such parties. If you receive junk e-mail that mentions Boingo or its services, please send details to us at [info@boingo.com](mailto:info@boingo.com) and we will investigate promptly. 
 
   
   
