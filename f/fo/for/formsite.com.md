@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formsite.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208034200id_/http%3A//www.formsite.com/forms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formsite.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613055840id_/http%3A//www.formsite.com/forms/privacy.html) for the most accurate reproduction.*
 
 # FormSite.com Privacy Statement
 
