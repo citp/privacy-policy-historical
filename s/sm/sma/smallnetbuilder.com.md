@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608225401id_/http%3A//www.smallnetbuilder.com/modules.php%3Fop%3Dmodload%26name%3DSections%26file%3Dindex%26req%3Dviewarticle%26artid%3D9) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206084255id_/http%3A//www.smallnetbuilder.com/Sections-article9.php) for the most accurate reproduction.*
 
 # Small Net Builder Privacy Policy : Small Net Builder : Real Help for Your Small Network from Tim Higgins
 
-Small Net Builder Privacy Policy  [](https://web.archive.org/web/20030608225401id_/http%3A//www.smallnetbuilder.com/Sections-print-article9.php)  
+Small Net Builder Privacy Policy  [](https://web.archive.org/web/20031206084255id_/http%3A//www.smallnetbuilder.com/Sections-print-article9.php)  
 
 Although Small Net Builder is not a member of **[TRUSTe](https://www.truste.org/)** , we abide by their general principles and therefore make the following information available to you.
 
