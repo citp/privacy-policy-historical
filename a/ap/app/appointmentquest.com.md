@@ -1,124 +1,106 @@
-> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605164557id_/http%3A//appointmentquest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203221821id_/http%3A//www.appointmentquest.com/privacy) for the most accurate reproduction.*
 
-# AppointmentQuest Online Scheduling Software - Privacy Policy
+# Privacy Policy - AppointmentQuest Online Scheduling Software
 
-> AppointmentQuest Online Scheduling Sofwtare ("AppointmentQuest") is committed to protecting your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our services. This policy may change from time to time so please check back periodically.
-> 
-> The privacy statement discloses the privacy practices for [www.appointmentquest.com](http://www.appointmentquest.com/). If you have questions or concerns regarding this statement, please contact us by _[e-mail](mailto:support@appointmentquest.com)_.
-> 
-> This policy provides you with following important information about your privacy:
-> 
->   1. What personal information is collected from me?
->   2. Why we DO NOT use cookies?
->   3. How does AppointmentQuest use my information?
->   4. Who is collecting information?
->   5. With whom does AppointmentQuest share my information?
->   6. What are my choices regarding collection, use, and distribution of my information?
->   7. What is AppointmentQuest's policy on allowing me to update, correct, or delete my personally identifiable information?
->   8. How does AppoitnmentQuest protect my personal financial and health-related information?
->   9. How can I protect the loss, misuse, or alteration of my information?
->   10. What about children's privacy?
->   11. What else should I know about my privacy?
->   12. Notification of changes
->   13. Changes to the Privacy Statement
->   14. Additional information
->   15. Also see...
-> 
+#### AppointmentQuest Privacy Statement
 
-> 
->  **NOTICE:** _[ **Click here**](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html)_ **for important information about safe surfing from the Federal Trade Commission.**
-> 
->  **What personal information is collected from me?**
-> 
-> Some personal information is gathered when you register. During registration, AppointmentQuest asks for your name, e-mail address, zip code, and a few other optional details about you. That information will assist the provider in identifying you as a client and give you a priority in reserving your request for an appointment.
-> 
->  **** **Why we do not use cookies?**
-> 
-> Cookies are small files that your web browser places on your computer's hard drive. Using cookies is an insecure way of gathering information from people who use the site since they make it possible to track your Internet activity even after you leave a web site. We are proud to inform you that our site DOES NOT use cookies and therefore, AppointmentQuest does not collect any additional information other than that which you provided during registration.
-> 
->  **** **How does AppointmentQuest use my information?**
-> 
-> Our primary goal in collecting personal information is to provide the businesses you wish to make appointments with the information to allow them to recognize or contact you in case they need to modify the appointment or to verify it. You will only receive special offers via e-mail from AppointmentQuest if you have indicated in your account preferences that you would like to receive them. You can change your account preferences at any time.
-> 
-> We may research on our users' demographics, interests, and behavior based on the information provided to us upon registration, during a promotion, from our server log files or from surveys. Purpose of such research is to better understand and serve our users.
-> 
->  **** **Who is collecting information?**
-> 
-> When you are on a AppointmentQuest site and are asked for personal information, you are sharing that information with AppointmentQuest alone. We do not share any information other then name, address, telephone number and e-mail with the provider you requested an appointment with, in order to identify you as a prospective client.
-> 
->  **** **With whom does AppointmentQuest share my information?**
-> 
-> As a general rule, AppointmentQuest will not disclose any of your personal information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see our Terms of Service for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
-> 
->  _Providers_ : AppointmentQuest will have to share some of your personal information with the provider you request an appointment with, such as name, address, phone number and e-mail.
-> 
->  _Third Party Data & Data in the Aggregate_: Under confidentiality agreements, AppointmentQuest may match user information with third party data. Also, AppointmentQuest discloses aggregated user statistics (for example, 55% of our users are between 20 and 40 years of age) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
-> 
->  _Other:_ AppointmentQuest may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating AppointmentQuest's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) AppointmentQuest's rights or property, other AppointmentQuest's users, or anyone else that could be harmed by such activities. AppointmentQuest may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
-> 
->  **** **What are my choices regarding collection, use, and distribution of my information?**
-> 
-> AppointmentQuest will not send you junk e-mail or e-mail promotions, we believe that if you want to buy something you can find it on your own.
-> 
-> AppointmentQuest does not sell or rent user information to anyone.
-> 
->  **** **What is AppointmentQuest's policy on allowing me to update, correct, or delete my personally identifiable information?**
-> 
-> You may edit your User Profile at any time by using your AppointmentQuest's ID and password. If you have forgotten your password, you can click the hyperlink on that screen to receive your password in e-mail.
-> 
-> Your account with AppointmentQuest can be deleted , but doing so will result in not being able to set any appointments with a provider until you decide to re-enter your account with us.
-> 
->  **** **How does AppoitnmentQuest protect my personal financial and health-related information?**
-> 
-> Keeping your personal information private is vitally important to us. As with all information, AppointmentQuest will never rent or sell your personal information.
-> 
-> In order to serve you better we may provide to prospective advertisers or partners our aggregate data that does not include any personal information about any individual user.
-> 
->  **** **How can I protect the loss, misuse, or alteration of my information?**
-> 
-> Your AppointmentQuest Account Information and AppointmentQuest User Profile are password-protected so that you and only you have access to this personal information.
-> 
-> We recommend that you do not divulge your password to anyone. AppointmentQuest will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail. Also remember to sign out of your AppointmentQuest account and close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe.
-> 
-> Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, AppointmentQuest cannot ensure or warrant the security of any information you transmit to us or from our online services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
-> 
->  **** **What about children's privacy?**
-> 
-> Our [www.appointmentquest.com](http://www.appointmentquest.com/) Internet site is a general audience web site.
-> 
-> Children should always ask a parent for permission before sending personal information to anyone online. AppointmentQuest does not share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age. In addition, AppointmentQuest will not send any direct e-mail offers to users who indicate they are under the age of 13.
-> 
->  **** **What else should I know about my privacy?**
-> 
-> Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
-> 
-> Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
-> 
->  **** **Notification of changes**
-> 
-> We will notify you directly via e-mail if there is a material change in our privacy practices. We will also post the changes in our privacy statement 30 days prior to a change.
-> 
->  **** **Changes to the Privacy Statement**
-> 
-> The protection of consumer information is one the guiding principals behind AppointmentQuest. Because of that stance, you will be notified via e-mail of any changes to the Privacy policies. We will also post a change notification marker on the [www.appointmentquest.com](http://www.appointmentquest.com/) home page for review.
-> 
-> If at some point in the future, there is a change to our information usage practices that affect your Personal Information, we will notify you by e-mail of the relevant changes. At the time of this message, you will be able to opt-out of this information usage by sending a message to the following e-mail: _[support@appointmentquest.com](mailto:support@appointmentquest.com)_. You should also check this posted privacy statement for changes.
-> 
->  **** **Additional information**
-> 
-> Questions regarding this statement should be directed to _[support@appointmentquest.com](mailto:support@appointmentquest.com)_.
-> 
->  **** **Also see...**
-> 
->   *  _[Electronic Frontier Foundation](http://www.eff.org/)_ \- a civil liberties organization working to protect your rights online.
-> 
->   *  _[Electronic Privacy Information Center](http://epic.org/)_ \- established to focus public attention on emerging civil liberties issues relating to the National Information Infrastructure.
-> 
->   *  _[Privacy Issues Page](http://www.cdt.org/privacy/)_ \- from the Center for Democracy and Technology (CDT).
-> 
->   *  _[The EPIC Cookies Page](http://www.epic.org/privacy/internet/cookies/)_ \- definitions, links, and news.
-> 
->   *  _[How to Protect Your Privacy](http://www.ftc.gov/privacy/index.html)_ \- information from the Federal Trade Commission.
-> 
-> 
+  
+AppointmentQuest is committed to protecting your privacy. Please take a moment to read the following policy to understand how your personal information will be treated as you make full use of our services. This policy may change from time to time so please check back periodically. The privacy statement discloses the privacy practices for [www.appointmentquest.com](http://www.appointmentquest.com/) web site. If you have questions or concerns regarding this statement, please contact us by e-mail at privacy@appointmentquest.com.
 
+ **Information Collection**
+
+AppointmentQuest is the sole owner of the information collected on [www.appointmentquest.com](http://www.appointmentquest.com/). AppointmentQuest collects information from our users at several different points on our web site. AppointmentQuest explicitly asks when it needs information that personally identifies you pertinent to the specific services you are choosing to subscribe to on the AppointmentQuest web site. This information can include your e-mail address, name, postal address, telephone number, and credit card information, as applicable. AppointmentQuest also may ask for non-personal information, business contact information or demographic information.
+
+ **Registration**
+
+In order to use services provided by AppointmentQuest web site, a user must first complete the registration form. During registration a user is required to provide business contact information, such as first and last name, company name, address, phone number and e-mail address as well as to choose username and password. We use this information to establish customer account to provide the user with services on our site for which he has expressed interest. We also require a user’s credit card number to establish regular online scheduling account or partner account. Credit card is not required in order to establish free trial account or affiliate account.
+
+ **Subscription**
+
+We request information from the user on our accounts enrollment and partner enrollment forms. New users must provide contact information, such as such as first and last name, company name, address, phone number and e-mail address as well as billing information, such as credit card number, expiration date, cardholder name and billing address. This information is used for automated billing purposes. If we have trouble processing account subscription payments, the information is used to contact the user.
+
+ **Information Use**
+
+AppointmentQuest and AppointmentQuest service partners use your personal information to operate AppointmentQuest web site and to provide AppointmentQuest services you have requested. The information is also used to communicate with you regarding your AppointmentQuest accounts when such communication is essential to the operation of the service. We also use your e-mail address to respond to incoming service and support requests from you, to collect customer feedback, customer satisfaction surveys, and other informational mailings.
+
+AppointmentQuest may disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on AppointmentQuest; (b) protect and defend the rights or property of AppointmentQuest or the users of AppointmentQuest services; or, (c) act under exigent circumstances to protect the personal safety of users of AppointmentQuest services or the public.
+
+Personally identifiable information collected by AppointmentQuest may be stored and processed in the United States or any other country in which AppointmentQuest or its partners, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country.
+
+ **Information Security**
+
+AppointmentQuest secures your personal information from unauthorized access, use or disclosure. AppointmentQuest secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access. All sensitive personal information (such as a credit card number and other financial information) is stored in encrypted data format.
+
+When our registration/order form asks users to enter sensitive information, such as credit card number and other financial information, that information is encrypted and is protected with the best encryption software in the industry - Secure Socket Layer (SSL). While on a secure page, such as our enrollment form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’.
+
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices and data center space. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, all our employees are kept up-to-date on our security and privacy practices. Every time new policies are added, all of our employees are notified. Finally, the servers that store personally identifiable information are in a secure environment within controlled access facility, locked in private cabinets.
+
+ **Changes to Personal Information**
+
+If a user’s personally identifiable information changes (such as company name, phone, e-mail, postal address, etc.), or if a user no longer desires AppointmentQuest services, we provide a way to correct, update or deactivate users’ personally identifiable information. To review and update your personal contact information, login to your account at <http://www.appointmentquest.com/business> and go to Account Setup Center. AppointmentQuest partners can update their contact information by logging into their partner account at <http://www.appointmentquest.com/partner> and clicking on the Partner Business Profile link. If you would like to review other personal information that AppointmentQuest may have about you, e-mail us at privacy@appointmentquest.com.
+
+ **Confidentiality**
+
+AppointmentQuest is committed to keeping user’s personally identifiable information confidential. AppointmentQuest never shares service provider schedules with anyone except the service provider's authorized personnel. For users scheduling appointments with a service provider, AppointmentQuest does not share their personal schedule information with anyone except the service provider with whom they make an appointment. All customer contact information and appointment information is kept confidential. Service providers can only view information related to their own appointments.
+
+ **No Cookies**
+
+A cookie is a piece of data stored on the user’s computer tied to information about the user. AppointmentQuest web site does not use cookies. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you still will be able to fully experience the interactive features of the AppointmentQuest web site and AppointmentQuest online scheduling services.
+
+Some of our affiliate partners use cookies on our site to indicate referral source. However, we have no access to or control over these cookies, once we have given permission for them to set cookies for referral. Referral cookies do not contain personally identifiable information.
+
+ **No Third Party Advertising**
+
+We do not allow third party advertising on AppointmentQuest web site.
+
+ **No Web Beacons**
+
+We do not use web beacons or other user movement tracking tools on AppointmentQuest web site.
+
+ **Log Files**
+
+Like most standard web site servers we use log files. This includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses and other log elements are not linked to personally identifiable information.
+
+ **Service Announcements**
+
+On very rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an e-mail. Generally, users may not opt-out of these communications, though they can deactivate their account. However, service related communications are not promotional in nature.
+
+ **Customer Service**
+
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via e-mail or phone, in accordance with the user's wishes and AppointmentQuest customer communication practices.
+
+ **Legal Disclaimer**
+
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on AppointmentQuest or [www.appointmentquest.com](http://www.appointmentquest.com/) web site.
+
+ **Web Links**
+
+AppointmentQuest web site contains links to other sites. Please be aware that we, AppointmentQuest, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by [www.appointmentquest.com](http://www.appointmentquest.com/) web site.
+
+ **Surveys and Feedback Requests**
+
+From time-to-time AppointmentQuest requests information from users via surveys and feedback requests. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information only. Contact information will be used only to facilitate communication between AppointmentQuest and survey participants. Anonymous survey information will be used for purposes of monitoring or improving the use and satisfaction of AppointmentQuest services. Users’ personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes.
+
+ **Referrals**
+
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and e-mail address. AppointmentQuest will send the friend a one-time e-mail inviting them to visit the site. AppointmentQuest does not store referral information after sending this one-time e-mail.
+
+ **Children**
+
+AppointmentQuest does not intend to collect any personally identifiable information from individuals under the age of 13. Children should always request permission from their parent or guardian prior to submitting their personal information online. If a child has provided AppointmentQuest with personally identifiable information, child's parent or guardian should contact us if they would like to request such information to be deleted from AppointmentQuest records. We will make all reasonable efforts to remove personally identifiable information of the child from AppointmentQuest files and databases.
+
+ **Notification of Changes**
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the news page, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our web site for 30 days. We encourage you to periodically review this Privacy Statement to be informed of how AppointmentQuest is protecting your information.
+
+ **Contact Information**
+
+If you have any questions or suggestions regarding this privacy policy, please contact us at:
+
+AppointmentQuest LLC  
+privacy@appointmentquest.com  
+P.O. Box 677  
+Broomfield, CO 80038-0667  
+[www.appointmentquest.com](http://www.appointmentquest.com/)
+
+Last updated April 25, 2003
