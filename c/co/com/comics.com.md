@@ -1,115 +1,73 @@
-> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2000-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000304171930id_/http%3A//comics.com/info/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204051100id_/http%3A//www.comics.com/info/site/privacy.html) for the most accurate reproduction.*
 
 # Comics.com | Privacy Information
 
-|  \+  |  [**back to:  
-About Our Site**](https://web.archive.org/info/site/index.html)  
----|---  
->> |  [ Copyright Information ](https://web.archive.org/info/site/copyright.html)  
->> |  [ Credits](https://web.archive.org/info/site/credits.html)  
->> |  [ How to Use Our Site ](https://web.archive.org/info/site/howto.html)  
->> |  [ FAQ](https://web.archive.org/info/site/faq.html)  
-\+  |  **Privacy Statement**  
->> |  [Contact Us](https://web.archive.org/info/site/email.html)  
-United Media's Privacy Statement for Comics.com™   
+|  Comics.com Privacy Policy   
+  
+Comics.com and United Media are committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At Comics.com, we intend to give you as much control as possible over your personal information (individually identifiable information about an individual collected online) and strive to help you protect your privacy while using our services. 
+
+The purpose of our policy is to inform you about the types of information we gather about you when you visit our site, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct the information. Please read this notice. By using this site, you signify your assent to our privacy policy. If you do not agree to this policy, please do not use our sites. 
+
+Comics.com and United Media have special concerns about the privacy of users who are children under the age of 13. When children use the general audience site, United Media will not collect any personal information from them. Parents are strongly encouraged to participate in their children's online activities and monitor their children's use of e-mails and engagement in other electronic communication. Again, Comics.com does not collect personal information online from children under the age of 13, and only persons with credit cards can purchase product from the United Media Store. 
+
+**_I. Information Which We Collect and the What We Do With the Collected Information_** We have two areas on our web site, a general audience area (where the various comics appear) and the United Media Store, in which users can purchase products related to various comics featured on the general web site. Each area has different privacy practices. **
+
+          a. General Web Site 
+
+**
+
+****
+
+Our general audience area does not collect any personal information from visitors. This area does not use tracking software that can identify you personally while you are visiting these sections. While visiting Comics.com, you can be assured that no personal information is collected, retained or used by Comics.com, unless you are visiting the United Media Store and are purchasing product. (See below for more details regarding information collected at the United Media Store site.)  United Media and DoubleClick (see Section II and IV) may perform statistical analyses of aggregate user behavior, but they are not based on personal information. These analyses allow us to measure relative consumer interest in the various areas of our web sites for product development purposes. Any information that is collected is used for our own internal purposes to improve the content of the web sites, to enhance user's experiences when visiting our site, to customize the content and/or layout of our pages and to provide the services required by an individual user. Again, any statistical analyses of user behavior will not be based on personal information, but solely on aggregate information. We may share this aggregate non-personally identifiable information with advertisers or potential advertisers.
+
+We also have a feature on our web site in which you can change your cursor. This feature is operated by Comet Systems, Inc. through a direct link from our site. While you access the ability to change your cursor through the Comics.com web site, we have no control over the privacy practices or the content of Comet Systems, Inc. Please consult [Comet System's privacy policy](http://www.cometcursor.com/help/privacy.shtml) for more information on its privacy practices. To uninstall the Comet Cursor from your machine, follow the instructions at [Comet's uninstaller page](http://www.cometcursor.com/what/cleaner.shtml).
+
+****
+**
+
+          b. United Media Store 
+
+**
+
+****
+
+When you purchase product from the United Media Store, however, we may request that you voluntarily supply us with personal information, including your name, postal address, daytime and evening telephone number, credit card number and e-mail address. Comics.com may supply this information to third parties, such as fulfillment houses, for the sole purpose of fulfilling your order. Individuals under the age of 13 and other persons who do not have a Visa, MasterCard, Discover or American Express credit card are not permitted to purchase product online.   
+  
+When you purchase product from  the United Media Store, you are given the choice to opt-out of receiving future e-mail solicitations from United Media about promotions and sales items that may be of interest to you. If you do not opt-out, United Media will use this information only to send you e-mails regarding future promotions. Your personal information is not shared with third parties. All future e-mail solicitations will contain instructions about how to opt-out of receiving additional e-mails. Participation in these solicitations is entirely your choice.
 
 
-The United Media site is committed to maintaining the privacy of its visitors. 
+**_
 
-### Gathering & Use of Information
+II. Use of Cookies 
 
-United Media does not require personal information from visitors in order to gain access to any part of Comics.com; any requests for personal data are entirely voluntary. 
+_ ** What are cookies? Like many other commercial sites, our site may utilize a standard technology called a "cookie" to collect information about how our site is used. Cookies were designed to help a web site recognize a user's browser as a previous visitor and thus save and remember any preferences that may have been set while the user was browsing the site. **A cookie cannot retrieve any other data from your hard drive, pass on a computer virus or capture your e-mail address.** DoubleClick, the organization which delivers advertising on our site, uses cookies on our site to collect non-personally identifiable information. (See Section IV, Advertising, for further description of DoubleClick’s information collection practices and how you may opt-out.) United Media uses cookies in the United Media Store to securely keep track of selections, such as those selected in a "shopping cart." United Media and DoubleClick’s cookies help us see which areas are popular and which are not. Many improvements and updates to our website are based on the data collected through the cookies such as total number of visitors and pages viewed. Cookies on our site may collect your domain name and track your selections through our web pages. We only use "cookies" to gather the information indicated in this policy and do not use cookies to gather personal information about you without your consent. We may disclose the non-personally identifiable information collected, in aggregate form only, to third parties including advertisers or potential advertisers. **_III. Disclosure to Third Parties_** With the exception of sharing personal information with the fulfillment houses that process your United Media Store order, we do not share personal information with any third party. The fulfillment houses use the information solely for processing the order. We disclose only in aggregate form our statistical analyses or demographics of users to third parties, such as advertisers or potential advertisers. ****
 
-Any information gathered online will not be used for any other purpose other than to improve our web site's content or for internal marketing analysis. United Media is committed to the privacy of this information and will under no condition release, sell, share or transfer information to third parties. 
+******_IV. Advertising_** The advertising contained on Comics.com and the United Media Store is delivered to you by DoubleClick. In the course of delivering an ad to you, DoubleClick does not collect any personal information about you, such as your name, address, phone number or email address. DoubleClick does, however, use cookies (see Section II for a discussion of "cookies") to collect non-personally identifiable information about you, such as the server your computer is logged onto, your browser type (for example, Netscape or Internet Explorer), and whether you responded to the ad delivered. This collection of information is commonly referred to as "tracking."
 
-### Information Tracking
+The non-personally identifiable information collec
 
-United Media uses an outside service to track the total number of visitors to each area of Comics.com. Compiled in an aggregate form, this information shows us which areas visitors enjoy most, and allows us to update and improve site content. Personally identifiable information is not extracted in this process. 
+ted by DoubleClick is used for the purpose of targeting ads and measuring ad effectiveness on behalf of DoubleClick's advertisers and Web publishers who specifically request it. For more information regarding the methods and technology used to collect this information, how DoubleClick uses this information, who gets access to the information and what measures are taken to secure the data obtained, please view DoubleClick's privacy policy, which can be viewed by **[clicking here](http://www.doubleclick.net/privacy_policy)**. You can opt-out of DoubleClick tracking by **[clicking here](http://www.doubleclick.net/privacy_policy/privacy.htm)**. (Scroll down to the middle of the page and click on the "opt out click here" graphic.) When you opt-out via this method you officially opt-out of DoubleClick's targeting programs for your browser. You need to do this for each browser, on each machine you surf on. So, if you use multiple browsers (AOL, Netscape, Internet Explorer) you should repeat this procedure with each one. Similarly, if you connect to the web from multiple machines (e.g. work and home) you need to explicitly opt-out from each browser on each machine. 
 
-### "Cookies"
+Our site may contain links to other web sites, including web sites directed to children. We have no control over the privacy practices or the content of any of our advertisers or other sites to which we provide links from our sites. For example, if you click on a banner advertisement, the click takes you off the Comics.com site. These other sites may use cookies, collect data or solicit personal information. We have no control over these practices and strongly recommend that you check the applicable privacy policy of the web site sponsor when linking to other web sites. 
 
-The United Media site contracts with DoubleClick to sell and manage the advertisements that you see on the site. The advertisements help us bring you the United Media site without charge. DoubleClick uses "cookies" to improve the quality of your visit to the United Media site. 
+Comics.com's policy does not extend to anything that is inherent in the operation of the Internet, and therefore beyond United Media's control, and is not to be applied in any manner contrary to applicable law or government regulation. 
 
-"Cookies" are a form of software technology used to collect non-personal information about visitors to any particular site. This type of information includes: type of browser used to access the Internet (i.e. Netscape3.0, Internet Explorer 4.0), type of operating system (i.e. Windows 95, Macintosh) and the domain of the visitor's Internet service provider. 
+**_V. Accuracy of User Information_** In order to ensure the accuracy of personal information provided for purchase at the United Media Store, you may return to the order form online in order to change information you have provided at prior to checking out. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to **[webmaster](mailto:webmaster@unitedmedia.com)** , or you can reach us by telephone at 212-293-8500. 
 
-DoubleClick uses cookies to make sure that you do not see the same advertisements repeatedly and when possible, shows advertising that is relevant to you based on what you have seen previously. Cookies are anonymous. DoubleClick does not know the name, e-mail address, phone number, or home address of anybody who visits the United Media site or any other site in the DoubleClick Network. All users receiving an ad from DoubleClick through the United Media site therefore remain entirely anonymous to DoubleClick; DoubleClick does not have any information to sell or rent to other parties. 
-
-DoubleClick makes available both its policies and information practices at [www.doubleclick.net](http://www.doubleclick.net/) and has voluntarily opened its practices and systems for third party auditing. [Click here](http://www.doubleclick.net/nf/general/onpriset.htm) to read DoubleClick's privacy statement. 
-
-Note: United Media reserves the right to update this policy at any time. 
-The United Media site is committed to maintaining the privacy of its visitors. 
-
-### Gathering & Use of Information
-
-United Media does not require personal information from visitors in order to gain access to any part of Comics.com. Any requests for personal data is entirely voluntary. 
-
-Information that is gathered online is used to improve our web site’s content. In addition, we may use the information gathered to conduct internal marketing analysis to improve our web site for our users. 
-
-In some instances, users wishing to receive future e- mailings from us as well as e-mailings from other entertainment companies will be asked to opt-in on line. The personal information provided by users who chose to opt-in for these mailings will be used by us and are likely to be disclosed to third parties for purposes of providing mailings. All e-mail mailings from us or from the third parties that have received the lists from us will provide a way for users who receive those mailings to request that their names be taken off mailing lists and have future mailings cease. 
-
-Children 12 years of age and younger are not permitted to opt in for these future e-mailings because the opt in software requires users to fill in their age and only users above 12 years of age are able to submit opt in authorizations. 
-
-All third party e-mailings will be handled by ConsumerNet, an e-Trust backed company. To read their privacy policy, [click here](http://www.consumernet.com/html/privacy.htm). 
-
-### Information Tracking
-
-United Media uses an outside service to track the total number of visitors to each area of Comics.com. Compiled in an aggregate form, this information shows us which areas visitors enjoy most, and allows us to update and improve site content. Personally identifiable information is not extracted in this process. 
-
-### "Cookies"
-
-The United Media site contracts with DoubleClick to sell and manage the advertisements that you see on the site. The advertisements help us bring you the United Media site without charge. DoubleClick uses "cookies" to improve the quality of your visit to the United Media site. "Cookies" are a form of software technology used to collect non-personal information about visitors to any particular site. This type of information includes: type of browser used to access the Internet (i.e. Netscape3.0, Internet Explorer 4.0), type of operating system (i.e. Windows 95, Macintosh) and the domain of the visitor's Internet service provider. 
-
-DoubleClick uses cookies to make sure that you do not see the same advertisements repeatedly and when possible, shows advertising that is relevant to you based on what you have seen previously. Cookies are anonymous. DoubleClick does not know the name, e-mail address, phone number, or home address of anybody who visits the United Media site or any other site in the DoubleClick Network. All users receiving an ad from DoubleClick through the United Media site therefore remain entirely anonymous to DoubleClick; DoubleClick does not have any information to sell or rent to other parties. 
-
-DoubleClick makes available both its policies and information practices at [www.doubleclick.net](http://www.doubleclick.net/) and has voluntarily opened its practices and systems for third party auditing. [Click here](http://www.doubleclick.net/company_info/about_doubleclick/privacy/) to read DoubleClick's privacy statement. 
-
-### Accuracy and Security
-
-Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to privacypolicy@unitedmedia.com, or you can reach us by fax at Attn: Privacy Policy 212.293.8546. You can also write us at: 
-
-> United Media  
->  Attn: Web Privacy Policy  
->  200 Madison Avenue  
+> You can also write us at:   
+>  United Media   
+>  Attn: Web Privacy Policy   
+>  200 Madison Avenue   
 >  New York, NY 10016 
 
-We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for on-line purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it. 
+  
+These privacy policies are effective as of April 21, 2000. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect.   
 
-Note: United Media reserves the right to update this policy at any time. 
-The United Media site is committed to maintaining the privacy of its visitors. 
 
-### Gathering & Use of Information
+**_VI. Security of Information_**
 
-United Media does not require personal information from visitors in order to gain access to any part of Comics.com. Any requests for personal data is entirely voluntary. 
+We use our best efforts to ensure the security of personal information submitted by users. We exercise great care in providing secure transmission of information from your PC to our computers. Unfortunately, no electronic communication over the internet can be guaranteed to be 100% secure. While we strive to take great care to protect your personal information, Comics.com and United Media cannot warrant the security of any information that you submit to us, and you do so at your own risk. We do offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it when collecting credit card information for online purchases. We also store any personal information, including credit card numbers, in an area to which the general public does not have access to it. 
 
-Information that is gathered online is used to improve our web site’s content. In addition, we may use the information gathered to conduct internal marketing analysis to improve our web site for our users. 
+Remember to sign off the Comics.com site and close your browser window when you are finished. This is to ensure that others cannot pose as you online. This is especially important if you are at a terminal that is accessible to others, such as the library, at school, at the workplace or at an internet café. 
 
-In some instances, users wishing to receive future e- mailings from us as well as e-mailings from other entertainment companies will be asked to opt-in on line. The personal information provided by users who chose to opt-in for these mailings will be used by us and are likely to be disclosed to third parties for purposes of providing mailings. All e-mail mailings from us or from the third parties that have received the lists from us will provide a way for users who receive those mailings to request that their names be taken off mailing lists and have future mailings cease. 
-
-Children 12 years of age and younger are not permitted to opt in for these future e-mailings because the opt in software requires users to fill in their age and only users above 12 years of age are able to submit opt in authorizations. 
-
-All third party e-mailings will be handled by ConsumerNet, an e-Trust backed company. To read their privacy policy, [click here](http://www.consumernet.com/html/privacy.htm). 
-
-### Information Tracking
-
-United Media uses an outside service to track the total number of visitors to each area of Comics.com. Compiled in an aggregate form, this information shows us which areas visitors enjoy most, and allows us to update and improve site content. Personally identifiable information is not extracted in this process. 
-
-### "Cookies"
-
-The United Media site contracts with DoubleClick to sell and manage the advertisements that you see on the site. The advertisements help us bring you the United Media site without charge. DoubleClick uses "cookies" to improve the quality of your visit to the United Media site. "Cookies" are a form of software technology used to collect non-personal information about visitors to any particular site. This type of information includes: type of browser used to access the Internet (i.e. Netscape3.0, Internet Explorer 4.0), type of operating system (i.e. Windows 95, Macintosh) and the domain of the visitor's Internet service provider. 
-
-DoubleClick uses cookies to make sure that you do not see the same advertisements repeatedly and when possible, shows advertising that is relevant to you based on what you have seen previously. Cookies are anonymous. DoubleClick does not know the name, e-mail address, phone number, or home address of anybody who visits the United Media site or any other site in the DoubleClick Network. All users receiving an ad from DoubleClick through the United Media site therefore remain entirely anonymous to DoubleClick; DoubleClick does not have any information to sell or rent to other parties. 
-
-DoubleClick makes available both its policies and information practices at [www.doubleclick.net](http://www.doubleclick.net/) and has voluntarily opened its practices and systems for third party auditing. [Click here](http://www.doubleclick.net/company_info/about_doubleclick/privacy/) to read DoubleClick's privacy statement. 
-
-### Accuracy and Security
-
-Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to privacypolicy@unitedmedia.com, or you can reach us by fax at Attn: Privacy Policy 212.293.8546. You can also write us at: 
-
-> United Media  
->  Attn: Web Privacy Policy  
->  200 Madison Avenue  
->  New York, NY 10016 
-
-We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for on-line purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it. 
-
-Note: United Media reserves the right to update this policy at any time. 
+**_VII. Use of Materials_** The right to download and store or output the materials in our site is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at reprints@unitedmedia.com. To link to the full Terms of Use Agreement pertaining to use of our site, please **[click here](https://web.archive.org/info/copyright.html#terms)**. 
