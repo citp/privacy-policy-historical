@@ -1,0 +1,14 @@
+> *The following text is extracted and transformed from the soccerassociation.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204142322id_/http%3A//www.soccerassociation.com/privacy.htm) for the most accurate reproduction.*
+
+# Privacy statement
+
+|  |   
+| PRIVACY STATEMENT  
+---  
+  
+This is SoccerAssociation.com's privacy statement. It sets out how we deal with your personal data. SoccerAssociation.com is committed to protecting your privacy. _ **Purposes for which we gather information about you**_  
+SoccerAssociation.com will hold and process any personal information which a user provides to us on this web site in order to facilitate and enhance the services which we provide. We may collect personal data about your usage of the SoccerAssociation.com service in order to provide a service to meet your needs. We may also use such information for the purposes of identifying and carrying out research about the users of our services. However, the data will only be disclosed on an anonymous and aggregated basis not in a way in which you will be identified. We may also make your personal information available to third parties where we are under a legal obligation to do so. The Personal Data which you supply to us you agree will be true, complete and accurate in all respects and you agree to notify us immediately of any changes. _ **Hyper-links**_  
+We provide hyper-links from our web site to web sites of third parties. Please note that this privacy statement applies only to the contents of our web site and not to linked web sites. _ **Cookies**_  
+In order to personalise and improve the quality of our web site and services as well as to build up profile information about visitors to our site, we may from time to time send you a 'Cookie'. A Cookie is a small text file stored on your hard drive (but does not access your hard drive). Cookies help us to gauge the amount of people who make use of our facilities and the extent of the repeated usage by registered and unregistered clients. Only the information that you provide, or the choices you make, while visiting a website can be stored in a cookie. The site cannot determine your e-mail address unless you choose to type it. Allowing a website to create a cookie does not give that or any other site access to the rest of your computer and only the site that created the cookie can read it. _ **Third party ad servers**_  
+Our web site uses ad servers (such as DoubleClick) to serve the advertisements that you see on the pages of our web site. That partner may use cookies in the process of serving advertisements, but it will not collect any personally identifiable information about you. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).  
+
