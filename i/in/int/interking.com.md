@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interking.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203004246id_/http%3A//www.interking.com/kc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interking.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401101447id_/http%3A//www.interking.com/kc/privacy.html) for the most accurate reproduction.*
 
 # Kingdom Classifieds Privacy Policy
 
