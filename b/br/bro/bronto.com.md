@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603185409id_/http%3A//bronto.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bronto.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209030844id_/http%3A//bronto.com/terms/privacy.php) for the most accurate reproduction.*
 
-# Bronto : Email Management for Newsletters, Surveys & Press Releases
+# Bronto: Privacy Policy
 
-Privacy Policy
+* * *
 
-To report any abuse or violations of the Bronto service, please [send us a message](http://www.bronto.com/contact/index.php?sendto=3). We will follow up with you and make every effort to trace the origin of the message. Feel free to [contact us](http://www.bronto.com/contact/index.php?sendto=3) with any questions or concerns regarding this privacy policy . 
+To report any abuse or violations of the Bronto service, please [send us a message](http://bronto.com/contact/index.php?sendto=3). We will follow up with you and make every effort to trace the origin of the message. Feel free to [contact us](http://bronto.com/contact/index.php?sendto=3) with any questions or concerns regarding this privacy policy . 
 
 **Web Site Information Collection**   
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name or IP address, but not the e-mail address. Unless otherwise stated on our web site, we collect only the domain name or IP address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and registrations to access portions of the site and their related services or to set up a Brontomail account. 
