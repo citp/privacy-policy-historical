@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idt.net privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017111048id_/http%3A//www.idt.net/site/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idt.net privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401222400id_/http%3A//www.idt.net/site/privacy.asp) for the most accurate reproduction.*
 
 # IDT Corporation - Site - Privacy Policy
 
