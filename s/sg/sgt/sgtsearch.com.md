@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgtsearch.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216062100id_/http%3A//sgtsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgtsearch.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413084737id_/http%3A//www.sgtsearch.com/privacy.html) for the most accurate reproduction.*
 
 # Welcome to SgtSearch! Search should always be this simple.
 
