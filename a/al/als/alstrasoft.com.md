@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alstrasoft.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202208id_/http%3A//www.alstrasoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alstrasoft.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204014749id_/http%3A//www.alstrasoft.com/privacy.htm) for the most accurate reproduction.*
 
 # AlstraSoft - Privacy Policy
 
  
 
-** Privacy Policy**
+**AlstraSoft Privacy Policy**
 
 This policy will let you know:
 
@@ -20,7 +20,7 @@ This policy will let you know:
 
 
 
-**What personally identifiable information is collected from you**
+** What personally identifiable information is collected from you**
 
 AlstraSoft collects information in several ways from different parts of our web site.
 
@@ -30,7 +30,7 @@ In addition to registration we may ask you for personal information at other tim
 
 Back to Top
 
-**What cookies are and how they are used**
+** What cookies are and how they are used**
 
 As part of offering and providing customizable and personalized services, AlstraSoft may use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. Several features of this web site require that you accept cookies in order to work properly.
 
@@ -48,19 +48,19 @@ We may also collect IP addresses for system administration and to report aggrega
 
 Back to Top
 
-**How your information is used**
+** How your information is used**
 
 The primary goal of AlstraSoft in collecting personal information is to provide you, the user, with a customized experience and to assist your navigation throughout this web site.
 
 Back to Top
 
-**Who is collecting your information**
+** Who is collecting your information**
 
 When you are asked for personal information on this web site, you are sharing that information with AlstraSoft alone, unless it is specifically stated otherwise. However, some activities will, by their very nature, result in your personal information being revealed to other users of the demo programs. 
 
 Back to Top
 
-**With whom your information may be shared**
+** With whom your information may be shared**
 
 As a general rule, AlstraSoft will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the Terms of Service or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared.
 
@@ -68,7 +68,7 @@ AlstraSoft may disclose account information in special cases when we have reason
 
 Back to Top
 
-**What choices are available to you regarding collection, use, and distribution of your information**
+** What choices are available to you regarding collection, use, and distribution of your information**
 
 If you choose not to register or provide personal information, you can still use most of the features of AstraSoft software demos, but you will not be able to access areas or use features that require registration.
 
@@ -78,7 +78,7 @@ The AlstraSoft does not sell or rent user information to anyone. We will notify 
 
 Back to Top
 
-**The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information**
+** The kind of security precautions that are in place to protect the loss, misuse, or alteration of your information**
 
 Other than the administrator of this web site or other authorized personnel of the AlstraSoft, you are the only person who has access to your personal information. Your user registration is password-protected to prevent unauthorized access.
 
@@ -88,7 +88,7 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
 
 Back to Top
 
-**How AlstraSoft protects children's privacy**
+** How AlstraSoft protects children's privacy**
 
 AlstraSoft is a general audience web site. Children should always ask a parent for permission before sending personal information to anyone online. AlstraSoft does not share personal information about users under the age of 13 with third parties and we do not sell or rent personal information about any of our users, regardless of age. In addition, AlstraSoft will not send any direct email offers to users who indicate they are under the age of 13.
 
@@ -96,7 +96,7 @@ As a result of the new Children's Online Privacy Protection Act (COPPA) in the U
 
 Back to Top
 
-**What else you should know about your online privacy**
+** What else you should know about your online privacy**
 
 Please keep in mind that whenever you voluntarily disclose personal information online through the use of our software demos. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
 
