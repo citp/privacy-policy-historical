@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615000900id_/http%3A//www.aplia.com/support/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplia.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206011356id_/http%3A//aplia.com/support/privacy.jsp) for the most accurate reproduction.*
 
 # Aplia: Privacy Notice
 
@@ -16,7 +16,7 @@ You are required to register with us before you can gain access to the course se
 
 When you purchase a product or service, we collect your contact information (such as your address) and financial information (such as your credit/debit card information). We use the information you provide only to complete that product order or fulfill the service. We do not share this information with unaffiliated parties except to the extent necessary to complete that transaction. If we have trouble processing an order, we use the information to contact you. 
 
-When you enroll in a course, we may ask you to provide your student identification number for that course. We only ask for your student ID when your teacher has instructed us to do so. You have the option to not provide your student ID; however, not providing it may affect your teacher’s ability to determine your grades. 
+When you enroll in a course, we may ask you to provide your student identification number for that course. We only ask for your student ID when your teacher has instructed us to do so. You have the option to not provide your student ID; however, not providing it may affect your teacher's ability to determine your grades. 
 
 Why We Need Your Personal Information  
 Your personal information is used only for the following purposes: 
@@ -27,6 +27,7 @@ Your personal information is used only for the following purposes:
   * Your email address may be used to contact you about site and service announcement updates. You are not able to unsubscribe from service announcements, which contain important information about the service. 
   * The contact and financial information you provide when you purchase a product or service will be used to complete that product order or fulfill the service.
   * All of your personal information will be provided to your Educator for his/her administrative purposes. Generally he/she will use the information for grading and may use your email address to notify you of course issues. Please contact your Educator directly for any further questions relating to his/her use of your personal information. 
+  * We may also use or disclose information to resolve disputes, investigate problems, or enforce our Terms and Conditions of Use. At times, we may review status and activity of multiple users to do so. We may disclose or access information whenever we believe in good faith that the law so requires or if we otherwise consider it necessary to do so to maintain service and improve our products and services.
 
   
 Anonymous Information  
@@ -64,6 +65,9 @@ Aplia is committed to complying with all applicable legal requirements in the op
 
 Business Transitions  
 In the event Aplia goes through a reorganization, such as a merger, being acquired by another company, or selling substantially all of its assets, your personal information will, in most instances, be part of the assets transferred. If as a result of the business transition your personally identifiable information will be used in a way that is different from what we said when we collected your information, you will have a choice as to whether or not your information is used in this different way. 
+
+Your Consent  
+By using our website, you consent to the collection and use of this information in the manner we describe. 
 
 How to Contact Us  
 Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@aplia.com](mailto:privacy@aplia.com). 
