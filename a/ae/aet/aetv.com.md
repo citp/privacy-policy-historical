@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217192537id_/http%3A//aande.com/feedback/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aetv.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604064314id_/http%3A//www.aande.com/feedback/privacy.html) for the most accurate reproduction.*
 
 # AandE.com Contact Us
 
@@ -93,7 +93,7 @@ You may inform us if you wish to remove your personal information from our datab
 
 We give you the following options for removing your personal information from our database in order to stop receiving future communications from our Websites.
 
-  1. You can send email to: [feedback@AandE.com](https://web.archive.org/web/20011217192537id_/http%3A//aande.com/feedback/feedback@AandE.com)  
+  1. You can send email to: [feedback@AandE.com](https://web.archive.org/web/20020604064314id_/http%3A//www.aande.com/feedback/feedback@AandE.com)  
  
   2. You can send mail to the following postal address:  
 A&E Television Networks  
