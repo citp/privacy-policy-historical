@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the tmcnet.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207090620id_/http%3A//www.tmcnet.com/tmcnet/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmcnet.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613190328id_/http%3A//www.tmcnet.com/tmcnet/privacy.htm) for the most accurate reproduction.*
 
 # TMC Privacy Policy
 
   
-Updated 07/16/02
+Updated 04/08/04
 
 Technology Marketing Corporation (TMC) is concerned about the privacy of its users and is committed to providing a secure environment for the free flow of ideas.
 
@@ -19,15 +19,16 @@ We do collect e-mail addresses submitted in our Forums, but we will not publish 
 **How We Use Cookies**  
 "Cookies" are pieces of information that a Web site transfers to an individual's hard drive for record-keeping purposes. We do not use cookies to track how non-registered members use our site. We employ a simple count system that tells us how many visits the site receives in a given period, but no identities or individually identifiable information is gathered by this process. 
 
-There are a couple of exceptions to this policy: 
-
-Cookies are used in our online TMC Bookstore in order to store your TMC Bookstore account number and to enhance your overall shopping experience. 
+There is an exception to this policy: 
 
 For your convenience and protection, TMC can utilize cookies for premium areas of its Web sites. Registered users can choose to accept the cookie, or they can decline it. Without the cookie, registered users must sign in every time they access premium content. Sessions expire after 20 minutes of inactivity and another sign in is required to access the premium content. 
 
 No personal information is ever recorded in the cookie itself. Instead, an encrypted key is used to identify the user. All user information is maintained in our highly secure data storage facility. 
 
 Non-premium sections -- those that do not require registration -- do not deposit any cookies. 
+
+**Policy Regarding Changes To Previously Published News Items and Articles**  
+TMCnet is not responsible for changing information that was correct at the time of publication. If you are interested in making a change to a Web address, contact information, or something else contained in a previously published piece, we will charge a fee of $25 for each change. Please [e-mail](mailto:services@tmcnet.com) us for additional information.
 
 **Still Have Questions?**  
 If you have any questions about this privacy statement or the privacy practices of TMC, please contact us at [tmc@tmcnet.com](mailto:tmc@tmcnet.com). 
