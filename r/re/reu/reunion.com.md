@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the reunion.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004164317id_/http%3A//www.reunion.com/site-root/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reunion.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604114907id_/http%3A//www.reunion.com/site-root/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Reunion.com - Reunite With Old High School Friends and Old Flames Today!
 
-|  |   
----  
-  
-
-
-| **Privacy Policy**
-
-* * *  
-  
----  
-  
 **Our Approach to Privacy.** Reunion.com respects your privacy. Our staff, contractors and others who help us operate our web sites follow this policy on privacy and fair information practices for online activities of Reunion.com.
 
-This Privacy Policy applies to the web sites, or networks, owned by Reunion.com, Inc. (" **Reunion.com** ") including reunion.com. We refer to these web sites as the " **Reunion.com Sites**."
+This Privacy Policy applies to the web sites, or networks, owned by Reunion.com, Inc. (" **Reunion.com** ") including Reunion.com. We refer to these web sites as the " **Reunion.com Sites**."
 
 While Reunion.com Sites each offer a different combination of services and tools from one site to another, this policy states Reunion.com’s company-wide Privacy Policy with regard to data-collection practices.
 
@@ -23,31 +12,31 @@ By registering as a member of a Reunion.com Site, you agree to accept this Priva
 
  **Overview of our Policy**  
   
-**The security of personal information is a high priority at Reunion.com.** We maintain these web sites and all associated data with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. No computer system or information can ever be fully protected against every possible hazard. But Reunion.com is committed to providing reasonable and appropriate security controls to protect our web sites and their information against foreseeable hazards.
+**The security of your personal information is a high priority at Reunion.com.** We maintain these web sites and all associated data with technical, administrative and physical safeguards to protect against loss, unauthorized access, destruction, misuse, modification and improper disclosure. No computer system or information can ever be fully protected against every possible hazard, but Reunion.com is committed to providing reasonable and appropriate security controls to protect our web sites and their information against foreseeable hazards.
 
-The information you provide helps us, and our partners (including our service providers, our advertisers and other partners) make the Reunion.com Sites more fun and useful for you. It also enables us to provide you updates about our services and special offers from our partners. When you become a registered member of one of our sites, you may receive email or postal mail from Reunion.com and our partners.
+The information you provide helps us, and our partners (including our service providers, advertisers and other partners) make the Reunion.com Sites more fun and useful for you. It also enables us to provide you updates about our services and special offers from our partners. When you become a registered member of our site, you may receive email or postal mail from Reunion.com and our partners.
 
-Please keep in mind that whenever you voluntarily disclose personal information in public areas of a Reunion.com Site, such as the member home pages (e.g. "ChickPages") and message boards, your information can be viewed and possibly used by others. We advise users not to disclose information that can be used to contact the user ("Personally Identifiable information") that they do not wish for others to obtain, such as full name, home address, or phone number.
+Please keep in mind that whenever you voluntarily provide information in public areas of a Reunion.com Site, such as the user profile pages, message boards, or people search, that information can be viewed and possibly used by others. We advise users not to disclose information that can be used to contact the user ("Personally Identifiable information") that they do not wish for others to obtain, such as full name, home address, or phone number.
 
  **Changes to this Policy**
 
-This Privacy Policy will always be available to users on this page for you to read. We will update this privacy and fair information practices policy to reflect new features, services and options, as well as any other changes with regard to the use of personal information. Users will be notified by a notice on the home pages of the Reunion.com Sites of any significant update to our Privacy Policy. By registering as a member of a Reunion.com Site, you agree to accept this Privacy Policy and are aware that our policy may change over time. Continued use of the Reunion.com Sites or other Reunion.com services will signify that you agree to these changes.
+This Privacy Policy will always be available to users on this page for you to read. We will update this privacy and fair information practices policy to reflect new features, services and options, as well as any other changes with regard to the use of personal information. Users will be notified by a notice on the home pages of the Reunion.com Sites of any significant update to our Privacy Policy. By registering as a member of a Reunion.com Site, you agree to accept this Privacy Policy and are aware that our policy may change over time. Continued use of the Reunion.com Site or other Reunion.com services will signify that you agree to these changes.
 
  **About Children**  
   
 **Kids under 13.** The Reunion.com Sites are not directed to children under the age of 13. The Reunion.com Sites prohibits registration by and will not knowingly collect personally identifiable information from anyone under 13. This requirement will be posted at points of data collection within the Reunion sites, such as registration for services.
 
-**Note to Parents.** If you have any concerns about the Reunion.com Sites or its related services, please contact us at [comments@reunion.com](mailto:comments@reunion.com).
+**Note to Parents.** If you have any concerns about the Reunion.com Sites or its related services, please contact us by [clicking here](http://www.reunion.com/dispatch?action=suggestionPage).
 
  **Information Collection and Use**
 
 Below are more details about the information the Reunion.com Sites gather from you and how we use it.
 
-**A. Email Newsletters.** Several Reunion.com Sites offer **** email newsletters. Only registered users will be able to receive newsletters. We will use your email address only to send you the newsletter(s) ** __** that you signed up for. If you want to update your email address or stop receiving our newsletter, follow the procedures to unsubscribe at the bottom of any newsletter we send you.
+**A. Email Newsletters and Updates.** Reunion.com sites offer **** email newsletters and important account activity updates. Only registered users will be able to receive these updates. We will use your email address only to send you the update(s) ** __** that you signed up for. If you want to update your email address or stop receiving our newsletter, follow the procedures at the bottom of any newsletter or update we send you.
 
-**B. Membership Information.** When you register for membership on one of our sites, we ask for information about you and your interests. We do this so we can better understand what you like and tailor the site to suit you better. At a minimum, we require your name, birth date, gender, email address and zip code. The more information you volunteer, the more we can tailor the site and promotions to your interests.
+**B. Membership Information.** When you register for membership on one of our sites, we ask for information about you and your interests. We do this so we can better understand what you like and tailor the site to suit you better. At a minimum, we require your name, birth date, gender, email address and zip code. The more information you volunteer, the more we can tailor the site, updates, and promotions to your interests.
 
-    * **Service Providers.** We also offer our members other services provided by third parties such as free email and free userpages, among others. When you register for membership on a Reunion.com Site or activate a service by clicking on a particular service link (I.e. email) on our sites, you may be automatically registered to receive the free services we offer and some of your Personally Identifiable Information may be transferred from Reunion.com to those third-party service providers. By becoming a member, you authorize us and our third-party service providers to send you email updates and information about promotions and special offers. We take care to require that our third-party service providers only use our member’s data as necessary to provide the particular service and to give you updates on that service provider’s products and services.
+    * **Service Providers.** We also sometimes offer our members other services provided by third parties. When you register for membership on a Reunion.com Site or activate a service by clicking on a particular service link (I.e. email) on our sites, you may be automatically registered to receive the free services we offer and some of your Personally Identifiable Information may be transferred from Reunion.com to those third-party service providers. By becoming a member, you authorize us and our third-party service providers to send you email updates and information about promotions and special offers. We take care to require that our third-party service providers only use our member’s data as necessary to provide the particular service and to give you updates on that service provider’s products and services.
 
   
 
@@ -55,10 +44,10 @@ Below are more details about the information the Reunion.com Sites gather from y
 
   
 
-    * **Advertisers.** By becoming a member, you authorize Reunion.com to share your Personally Identifiable Information with our advertisers. Our advertisers may use your Personally Identifiable Information to send you, via email or postal mail, advertisements or other notices, and it is possible that your information may be shared with others.
+    * **Advertisers.** By becoming a member, you authorize Reunion.com to share your Personally Identifiable Information with our advertisers. Our advertisers may use your Personally Identifiable Information to send you advertisements or other notices.
 
 
-**C. Email Updates to Members**. The Reunion.com Sites and our partners may periodically send service email updates announcing special offers and/or new features to registered users. If you want to update your email address or stop receiving our email service announcements, please follow the procedures to unsubscribe at the bottom of any email we send you.
+**C. Email Updates to Members**. The Reunion.com Sites and our partners may periodically send service email updates announcing special offers and/or new features to registered users. If you want to update your email address or stop receiving our email service announcements, please follow the procedures to at the bottom of any email we send you.
 
 **D. Promotions.** We may ask you for Personally Identifiable Information at other times, including, but not limited to, when you enter sweepstakes, contests or promotions sponsored by a third party. If you choose to enter sweepstakes, contests or promotions of this nature, we may share your Personally Identifiable Information with the third party so they can contact you. The third party may use that information to send you advertisements or other notices, and it is possible that your information may be shared with others.
 
@@ -68,7 +57,7 @@ Below are more details about the information the Reunion.com Sites gather from y
 
 **G. Sites You Visit.** As you access our Affiliate Sites and browse around the Reunion Sites, Reunion.com may store information about which pages and which Affiliate Sites you visit and other information presented in your browser’s URL address line. Reunion.com will use this information to help determine what our users are most interested in.
 
-**H. Other Third Parties.** Reunion.com may share non-personal, aggregate, or summary, information regarding our users with other third parties not mentioned in this policy. This kind of information does not identify you individually.
+**H. Other Third Parties.** Reunion.com may share non-personal, aggregate, or summary, information regarding our users with other third parties not mentioned in this policy. This kind of information does not identify you individually, but is often used to provide general demographics or statistics.
 
 **I. Merger or Acquisition.** In the event of a merger, acquisition, reorganization, sale of all or substantially all of its assets, or the sale of an individual website owned by Reunion.com, Reunion.com may transfer your Personally Identifiable Information to a third party as a part of such merger, acquisition, reorganization, or sale.
 
@@ -90,30 +79,23 @@ The Reunion.com Sites use diligent efforts to protect the security and integrity
 
  **Updating Your Information**
 
-To update your account information such as your city or interests, please use the "Edit profile page" at the Reunion.com Site on which you are registered.
+To update your account information such as your interests or what you are doing now, please use the "My Profile" link to change your profile page at Reunion.com.
 
-To update your account information such as your city or interests, please use the "Edit profile page" at Reunion.com.
+To update your contact information such as your e-mail or physical address, please use the "My Account" link to change your information at Reunion.com. **Cancellations**
 
- **Cancellations**
-
-    * **Canceling Newsletters**. You may cancel participation in email newsletters by following the instructions at the bottom of each newsletter.
+    * **Canceling Newsletters**. You may cancel participation in any email newsletter or account update by following the instructions at the bottom of each.
 
   
 
-    * **Email updates and special offers:** You may cancel participation in the email announcements by following the instructions at the bottom of each email.
+    * **Special Offers E-Mail:** You may cancel participation in the special offers email by following the instructions at the bottom of each email.
 
 
 **Still Have Questions?**
 
-If you have any other questions about the Reunion.com Privacy Policy, please contact us at [comments@reunion.com](mailto:comments@reunion.com) or write to us at:
+If you have any other questions about the Reunion.com Privacy Policy, please contact us by [clicking here](http://www.reunion.com/dispatch?action=suggestionPage) or write to us at:
 
 **Reunion.com  
 Attn: Privacy policy**  
-12200, West Olympic Blvd,  
-Suite-270,   
-Los Angeles, CA 90064.  
-  
-|   
----  
-  
-|  | 
+12200 West Olympic Blvd.  
+Suite-270  
+Los Angeles, CA 90064
