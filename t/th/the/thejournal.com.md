@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2001-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010419105313id_/http%3A//www.thejournal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2001-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010924111202id_/http%3A//www.thejournal.com/privacy.htm) for the most accurate reproduction.*
 
 # T.H.E. Journal Online: Privacy Statement
 
