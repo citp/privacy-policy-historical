@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inetgiant.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214015952id_/http%3A//www.inetgiant.com/default.asp%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetgiant.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604091911id_/http%3A//inetgiant.com/default.asp%3Faction%3Dprivacypolicy) for the most accurate reproduction.*
 
-# FREE Classifieds, Advertising and Promotion
+# free classifieds advertising ads internet marketing and website promotion by Inetgiant.com
 
 To protect your privacy, InetGiant.com follows the following principles for customer privacy and data protection: 
 
