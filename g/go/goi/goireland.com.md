@@ -1,27 +1,19 @@
-> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211142907id_/http%3A//goireland.com/corporate/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604073535id_/http%3A//www.goireland.com/corporate/privacy_policy) for the most accurate reproduction.*
 
-# Travelmad Privacy Policy
+# GoIreland.com Privacy Policy
 
-[« Back to Information Centre](https://web.archive.org/corporate/)
+**GoIreland.com Privacy Policy**
 
-**TravelMad Privacy Policy**
+GoIreland.com wants to ensure that you enjoy your visit to Ireland and wants you to gain the maximum benefit from our web-site. Go Ireland.com is committed to protecting your privacy while you use our web-site. 
 
-TravelMad has a long-standing policy of protecting the privacy of customers in its business operations. TravelMad has the responsibility to protect the confidentiality of the content of any information transmitted over the TravelMad network and safeguard the use of information that customers may reasonably expect us to keep private. If you have any questions or comments please contact us via email at [askus@travelmad.com](mailto:askus@travelmad.com).   
-In support our policy, TravelMad has developed the following customer information principles to guide business decisions and sustain the trust consumers have in the GoIreland.com brand. These principles seek to balance the application of information age technologies with the privacy concerns of consumers. 
+**Go Ireland.com Privacy Commitment:**
 
-  * TravelMad safeguards customers' information from unauthorized access. 
-  * TravelMad honour consumers' requests to remove their names from our telephone or e-mail solicitation lists. 
-  * TravelMad strives to keep customer records current and accurate. 
-  * TravelMad collects, maintains and uses customer information that is necessary to provide the most helpful and personalised products and services to meet consumers' needs. 
-
-
-  * TravelMad does not sell the names and addresses of its customers and maintains confidentiality of customer information when undertaking projects with other companies. 
-  * In developing new products and services as well as enhancements to existing offerings, TravelMad takes into account consumer expectations and input regarding the appropriate use of customer information.   
+  * GoIreland.com respects absolutely the privacy of every individual who visits our site and confirms that it complies in all respects with Irish Data Protection legislation. 
+  * GoIreland.com confirms that when you provide personal information to us through our web-site we will take all reasonable steps to protect this information through the use of secure software, which encrypts the data you provide. 
+  * GoIreland.com will only use the information that you have provided to us if you choose to subscribe to our mailing list. If you choose to subscribe to our mailing list GoIreland.com may use the information collected from you to notify you about any new services, important function changes to the web-site and any special offers that we think you may find valuable. 
+  * GoIreland.com confirms that we will not disclose at any time to any third party information that has been provided by you to us unless your express permission to disclose has been received. 
 
 
-
-  * TravelMad honours requests from customers for account information the company has about them.
-
+  * Go Ireland.com will remove from our mailing list the information you have provided to us at any time at your request. If you wish to unsubscribe please log on and contact us at [Unsubscribegoireland@gulliver.ie](mailto:Unsubscribegoireland@gulliver.ie)
 
 
-[« Back to Information Centre](https://web.archive.org/corporate/)
