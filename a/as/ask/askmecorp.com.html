@@ -1,240 +1,177 @@
-<!--The following is the downloaded HTML source of the askmecorp.com privacy policy that was archived on 2000-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001205191600id_/http%3A//www.askmecorp.com/privacy.asp%3Fsi1%3D2) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the askmecorp.com privacy policy that was archived on 2001-04-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010405023644id_/http%3A//www.askmecorp.com/privacy.asp%3Fsi1%3D2) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
+<html><head>
+<base href="http://www.askmecorp.com/">
+
+<script language="JavaScript">
 //<!-- hide
 function openWin() {
   myWin= open("demo/page01.html","AskMeDemo","width=705,height=410,status=no,toolbar=no,menubar=no");
 }
-
 // -->
+
 </script>
 
-
-	
-	
-	<title>AskMeCorp</title>
-	<script language="Javascript">
-	<!--
-	if (navigator.platform.indexOf("Win") == -1)
-	{
-		// Not Windows
-		if (navigator.userAgent.indexOf("MSIE") == -1)
-			// Not IE
-			document.write('<LINK rel="stylesheet" type="text/css" href="includes/AskMeMacNS.css">');
-		else
-			// Is IE
-			document.write('<LINK rel="stylesheet" type="text/css" href="includes/AskMeMac.css">');
-	}
+<script language="Javascript">
+// <!--
+if (navigator.platform.indexOf("Win") == -1)
+{
+	// Not Windows
+	if (navigator.userAgent.indexOf("MSIE") == -1)
+		// Not IE
+		document.write('<LINK rel="stylesheet" type="text/css" href="CSS/MacNS.css">');
 	else
-	{
-		// Is Windows
-		if (navigator.userAgent.indexOf("MSIE") == -1)
-			// Not IE
-			document.write('<LINK rel="stylesheet" type="text/css" href="includes/AskMeNS.css">');
-		else
-			// Is IE
-			document.write('<LINK rel="stylesheet" type="text/css" href="includes/AskMe.css">');
-	}
-	// -->
-	</script><link rel="stylesheet" type="text/css" href="includes/AskMeMacNS.css">
+		// Is IE
+		document.write('<LINK rel="stylesheet" type="text/css" href="CSS/MacIE.css">');
+}
+else
+{
+	// Is Windows
+	if (navigator.userAgent.indexOf("MSIE") == -1)
+		// Not IE
+		document.write('<LINK rel="stylesheet" type="text/css" href="CSS/textns.css">');
+	else
+		// Is IE
+		document.write('<LINK rel="stylesheet" type="text/css" href="CSS/text.css">');
+}
+// -->
+</script><link rel="stylesheet" type="text/css" href="CSS/MacNS.css">		
 
-	<script language="JavaScript" type="text/javascript">
-	<!--
-	Contact_over = new Image(177,20);
-	Contact_over.src = "images/menu/menu-Contact-on.gif";
-	Contact_out = new Image(177,20);
-	Contact_out.src = "images/menu/menu-Contact-off.gif";
-	Site_Map_over = new Image(177,20);
-	Site_Map_over.src = "images/menu/menu-Site-Map-on.gif";
-	Site_Map_out = new Image(177,20);
-	Site_Map_out.src = "images/menu/menu-Site-Map-off.gif";
-	Privacy_over = new Image(177,20);
-	Privacy_over.src = "images/menu/menu-Privacy-on.gif";
-	Privacy_out = new Image(177,20);
-	Privacy_out.src = "images/menu/menu-Privacy-off.gif";
-	Terms_Of_Use_over = new Image(177,20);
-	Terms_Of_Use_over.src = "images/menu/menu-Terms-Of-Use-on.gif";
-	Terms_Of_Use_out = new Image(177,20);
-	Terms_Of_Use_out.src = "images/menu/menu-Terms-Of-Use-off.gif";
-	CopyRight_over = new Image(177,20);
-	CopyRight_over.src = "images/menu/menu-CopyRight-on.gif";
-	CopyRight_out = new Image(177,20);
-	CopyRight_out.src = "images/menu/menu-CopyRight-off.gif";
-	home_over = new Image(30,20);
-	home_over.src = "images/menu/menubar-home-on.gif";
-	home_out = new Image(30,20);
-	home_out.src = "images/menu/menubar-home-off.gif";
-	company_over = new Image(50,20);
-	company_over.src = "images/menu/menubar-company-on.gif";
-	company_out = new Image(50,20);
-	company_out.src = "images/menu/menubar-company-off.gif";
-	products_over = new Image(45,20);
-	products_over.src = "images/menu/menubar-products-on.gif";
-	products_out = new Image(45,20);
-	products_out.src = "images/menu/menubar-products-off.gif";
-	solutions_over = new Image(49,20);
-	solutions_over.src = "images/menu/menubar-solutions-on.gif";
-	solutions_out = new Image(49,20);
-	solutions_out.src = "images/menu/menubar-solutions-off.gif";
-	pressrm_over = new Image(59,20);
-	pressrm_over.src = "images/menu/menubar-pressrm-on.gif";
-	pressrm_out = new Image(59,20);
-	pressrm_out.src = "images/menu/menubar-pressrm-off.gif";
-	
-	
-	function ImgOver(sImgName)
-	{
-		document[sImgName].src = eval(sImgName + "_over.src");
-	}
 
-	function ImgOut(sImgName, sSelected)
-	{
-		if( sSelected == "off" )
-		{
-			document[sImgName].src = eval(sImgName + "_out.src");
-		}
-	}
 
-	function popUp(){return};
-	
-	function popDown(){return};
+    <title> Welcome to Askme Corporation</title>
 
-	function ImgOverPop(sImgName, iMenuID, eEvent)
-	{
-		ImgOver(sImgName);
-		popUp('elMenu'+iMenuID, eEvent);
-	}
+<script language="JavaScript">
+<!--
 
-	function ImgOutPop(sImgName, sSelected, iMenuID)
-	{
-		ImgOut(sImgName, sSelected);
-		popDown('elMenu'+iMenuID);
-	}
-	
-	NS4		= (document.layers);
-	IE4		= (document.all);
-	ver4	= (NS4 || IE4);   
-	isMac	= (navigator.appVersion.indexOf("Mac") != -1);
-	isMenu	= (NS4 || (IE4 && !isMac));
-	if (!ver4) event = null;
-	// -->
-	</script>
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
 
-	<!-- Init drop down menu params -->
-	<script language="JavaScript1.2" type="text/javascript">
-	<!--
-	if (isMenu) {
-	    menuVersion		= 3;
-	    menuWidth		= 100;
-	    childOverlap	= 2;
-	    childOffset		= 0;
-	    perCentOver		= null;
-	    secondsVisible	= .5;
-	    fntCol			= "#000000";
-	    fntSiz			= "8";
-	    fntBold			= false;
-	    fntItal			= false;
-	    fntFam			= "verdana";
-	    backCol			= "#83aab9";
-	    overCol			= "#ffff00";
-	    overFnt			= "#ffff00";
-	    borWid			= 1;
-	    borCol			= "#83aab9";
-	    borSty			= "solid";
-	    itemPad			= 3;
-	    imgSrc			= "";
-	    imgSiz			= 0;
-	    separator		= 1;
-	    separatorCol	= "#000000";
-	    isFrames		= false;
-	    navFrLoc		= "left";
-	    keepHilite		= true;
-	    NSfontOver		= true;
-	    clickStart		= false;
-	    clickKill		= false;
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
 
-		document.write("<"+"SCRIPT LANGUAGE='JavaScript1.2' SRC='includes/hierArrays.js'><\/SCRIPT>");
-		document.write("<"+"SCRIPT LANGUAGE='JavaScript1.2' SRC='includes/hierMenus.js'><\/SCRIPT>");
-	}
-	//-->
-	</script>
-	<!-- End section --> 
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
 
-	</head>
-	
-	<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" rightmargin="0" bottommargin="0" marginwidth="0" marginheight="0">
-	<!-- Begin Banner -->
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	  <td background="images/header-bg.jpe"><img src="images/header49.jpg" width="740" height="49"></td>
-	</tr>
-	</tbody></table>
-	<!-- End section --> 
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	  <tbody><tr> 
-	    <td bgcolor="#000000"> 
-	      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	        <tbody><tr align="center">
-	        <td width="60" valign="top"><img src="images/trans.gif" width="60" height="1" border="0"></td>
-			<td><a href="default.asp" onmouseover="ImgOver('home')" onmouseout="ImgOut('home','off')"><img name="home" src="images/menu/menubar-home-off.gif" width="30" height="20" border="0"></a></td>
-			<td width="90" valign="top"><img src="images/trans.gif" width="90" height="1" border="0"></td>
-	        <td><a href="company.asp" onmouseover="ImgOverPop('company',1,event)" onmouseout="ImgOutPop('company','off',1)"><img name="company" src="images/menu/menubar-company-off.gif" width="50" height="20" border="0"></a></td>
-	        <td width="70" valign="top"><img src="images/trans.gif" width="70" height="1" border="0"></td>
-			<td><a href="products.asp" onmouseover="ImgOverPop('products',2,event)" onmouseout="ImgOutPop('products','off',2)"><img name="products" src="images/menu/menubar-products-off.gif" width="45" height="20" border="0"></a></td>
-			<td width="75" valign="top"><img src="images/trans.gif" width="75" height="1" border="0"></td>
-			<td><a href="solutions.asp" onmouseover="ImgOverPop('solutions',3,event)" onmouseout="ImgOutPop('solutions','off',3)"><img name="solutions" src="images/menu/menubar-solutions-off.gif" width="49" height="20" border="0"></a></td>
-			<td width="71" valign="top"><img src="images/trans.gif" width="71" height="1" border="0"></td>
-			<td><a href="press-top-stories.asp?si1=0" onmouseover="ImgOverPop('pressrm',4,event)" onmouseout="ImgOutPop('pressrm','off',4)"><img name="pressrm" src="images/menu/menubar-pressrm-off.gif" width="59" height="20" border="0"></a></td>
-			<td width="100%" valign="top"><img src="images/trans.gif" width="1" height="1" border="0"></td>
-	        </tr>
-	      </tbody></table>
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+//window.onload = MM_preloadImages('images/Menu_product_on_v3.0_08.gif','images/Menu_services_on_v3.0_08.gif','images/Menu_company_on_v3.0_08.gif','images/Menu_press_on_v3.0_08.gif','images/Menu_alliances_on_v3.0_08.gif','images/Menu_ROI_on_v3.0_08.gif');
+//-->
+</script></head>
+
+
+<body bgcolor="#FFFFFF" text="#000000" onload="MM_preloadImages('images/Menu_product_on.gif','images/Menu_services_on.gif','images/Menu_company_on.gif','images/Menu_press_on.gif','images/Menu_alliances_on.gif','images/Menu_ROI_on.gif')" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" rightmargin="0" link="#000000" vlink="#000000" alink="#000000">
+
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td align="left" valign="bottom"> 
+      <table width="780" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" rowspan="3" width="154" height="72"><a href="."><img src="images/Logo_v3.0_08.gif" width="154" height="73" border="0"></a></td>
+          <td align="left" rowspan="3" width="340" height="72"><img src="images/Tagline_v3.0_08.gif" width="533" height="73"></td>
+          <td align="left" width="93"><a href="company/contact.asp"><img src="images/FreeTools_v3.0_08.gif" width="93" height="24" border="0"></a></td>
+        </tr>
+        <tr> 
+          <td align="left" width="93"><a href="Javascript:openWin();"><img src="images/Seeademo_v3.0_08.gif" width="93" height="21" border="0"></a></td>
+        </tr>
+        <tr> 
+          <td align="left" width="93"><a href="company/contact.asp"><img src="images/Contactus_v3.0_08.gif" width="93" height="28" border="0"></a></td>
+        </tr>
+      </tbody></table>
+      <table width="780" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000">
+        <tbody><tr align="center" valign="middle"> 
+          <td bgcolor="#FFFFFF" align="left" valign="top" background="images/Nav_BG_v3.0_08.gif"> <img src="images/Nav_BG_v3.0_08.gif" width="154" height="9"></td>
+
+	    <td bgcolor="#000000" align="left" valign="middle" width="1%">
+			<a href="solutions/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image0','','images/Menu_solutions_on.gif',1)">
+			<img name="Image0" border="0" src="images/Menu_solutions_off.gif" height="23">
+			</a>
 	    </td>
-	  </tr>
-	</tbody></table>
-	
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	  <tbody><tr>
-	    <td width="177" valign="top">
-		<table width="177" border="0" cellspacing="0" cellpadding="0">
-			<tbody><tr>
-			  <td><img src="images/menu/menu-top.gif" width="177" height="43" vspace="0" hspace="0"></td>
-			</tr>
-		
-			<tr valign="top">
-			  <td>
-			    <a href="Contact.asp?si1=0" onmouseover="ImgOver('Contact')" onmouseout="ImgOut('Contact','off')"><img name="Contact" src="images/menu/menu-Contact-off.gif" width="177" height="20" border="0"></a><br>
-			    <a href="SiteMap.asp?si1=1" onmouseover="ImgOver('Site_Map')" onmouseout="ImgOut('Site_Map','off')"><img name="Site_Map" src="images/menu/menu-Site-Map-off.gif" width="177" height="20" border="0"></a><br>
-			    <a href="Privacy.asp?si1=2" onmouseover="ImgOver('Privacy')" onmouseout="ImgOut('Privacy','on')"><img name="Privacy" src="images/menu/menu-Privacy-on.gif" width="177" height="20" border="0"></a><br>
-			    <a href="TOU.asp?si1=3" onmouseover="ImgOver('Terms_Of_Use')" onmouseout="ImgOut('Terms_Of_Use','off')"><img name="Terms_Of_Use" src="images/menu/menu-terms-of-use-off.gif" width="177" height="20" border="0"></a><br>
-			    <a href="CopyRight.asp?si1=4" onmouseover="ImgOver('CopyRight')" onmouseout="ImgOut('CopyRight','off')"><img name="CopyRight" src="images/menu/menu-CopyRight-off.gif" width="177" height="20" border="0"></a><br>
-			   </td>
-			</tr>
-		
-			<tr> 
-			  <td><img src="images/menu/menu-bottom.gif" width="177" height="20" vspace="0" hspace="0"><br>
-			    <!-- Begin sidebar footer -->
-			    <table width="134" border="0" cellspacing="0" cellpadding="0" align="center">
-			      <tbody><tr> 
-			        <td colspan="3"><img src="images/trans.gif" width="20" height="6" border="0"></td>
-			      </tr>
-			      <tr>
-			        <td class="Normal1"><nobr><b><a href="sitemap.asp?si1=1">Site Map</a></b></nobr></td>
-			        <td class="Normal1"><nobr>&nbsp;&nbsp;|&nbsp;&nbsp;</nobr></td>
-			  	  <td class="Normal1"><nobr><b><a href="contact.asp?si1=0">Contact Us</a></b></nobr></td>
-			      </tr>
-			    </tbody></table>
-				
-			    <!-- End section --> 
-			  </td>
-			</tr>
-		</tbody></table>
-     </td>
-	<td width="30" valign="top"><img src="images/spacer.gif" width="30" height="43"></td>
-	<td width="100%" valign="top" class="Normal2"><img src="images/ptitles/tab-Privacy.gif" width="270" height="43" vspace="0" hspace="0"><br>
-<table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td class="normal2">
+	    
+	    <td bgcolor="#000000" align="left" valign="middle" width="1%">
+			<a href="product/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image1','','images/Menu_product_on.gif',1)">
+			<img name="Image1" border="0" src="images/Menu_product_off.gif" height="23">
+			</a>
+	    </td>
+	    
+	    <td bgcolor="#000000" align="left" valign="middle" width="1%">
+			<a href="services/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image2','','images/Menu_services_on.gif',1)">
+			<img name="Image2" border="0" src="images/Menu_services_off.gif" height="23">
+			</a>
+	    </td>
+	    
+	    <td bgcolor="#000000" align="left" valign="middle" width="1%">
+			<a href="company/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','images/Menu_company_on.gif',1)">
+			<img name="Image3" border="0" src="images/Menu_company_off.gif" height="23">
+			</a>
+	    </td>
+	    
+	    <td bgcolor="#000000" align="left" valign="middle" width="1%">
+			<a href="press/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','images/Menu_press_on.gif',1)">
+			<img name="Image4" border="0" src="images/Menu_press_off.gif" height="23">
+			</a>
+	    </td>
+	    
+	    <td bgcolor="#000000" align="left" valign="middle" width="1%">
+			<a href="alliances/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','images/Menu_alliances_on.gif',1)">
+			<img name="Image5" border="0" src="images/Menu_alliances_off.gif" height="23">
+			</a>
+	    </td>
+	    
+	    <td bgcolor="#000000" align="left" valign="middle" width="1%">
+			<a href="roi/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/Menu_roi_on.gif',1)">
+			<img name="Image6" border="0" src="images/Menu_roi_off.gif" height="23">
+			</a>
+	    </td>
+	     
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+
+</tbody></table>
+
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+        <td background="images/Nav_BG_v3.0_08.gif"><img src="images/trans.gif" width="1" height="1"></td>
+        <td rowspan="2" width="1" bgcolor="#000000"><img src="images/trans.gif" width="1" height="1"></td>
+        <td><img src="images/trans.gif" width="1" height="1"></td>
+        <td rowspan="2" width="1" bgcolor="#000000"><img src="images/trans.gif" width="1" height="1"></td>
+    </tr>
+    <tr> 
+    	<td valign="top" background="images/Nav_BG_v3.0_08.gif">
+    	    <br><br><img src="images/trans.gif" height="0" width="153" border="0"></td>
+    	<td width="100%" valign="top" bgcolor="#FFFFFF"> 
+    	    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+    	        <tbody><tr valign="top">
+    	            <td width="100%">
+    	            <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    	                <tbody><tr>
+    	                    <td colspan="3" class="Headline">
+    	                       <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td class="Headline"> </td></tr></tbody></table>
+    	                    </td>
+    	                 </tr>
+    	                 <tr>            
+    		                <td valign="top" width="100%">
+    		                    <table border="0" width="100%" cellspacing="0" cellpadding="0">
+                                      
+<tbody><tr><td>
+<table border="0" cellpadding="3" cellspacing="4">
+	<tbody><tr>
+		<td class="maintext">
 		Our postal address is: <br>AskMe Corporation<br>4700 42nd Avenue SW, Suite 440 
 		<br>Seattle, WA 98116 <br><br>
 		<p>We can be reached via e-mail at <a href="mailto:feedback@askme.com">feedback@askme.com</a>, or you can reach us by 
@@ -290,21 +227,43 @@ function openWin() {
 	</p></td>
 </tr>
 </tbody></table>
+	</td>
+</tr>
 
-	</td><td width="30" valign="top"><img src="images/trans.gif" width="30" height="43"></td></tr>
-	</tbody></table>
-	<!-- Begin page footer -->
-	<br>
-	<br>
-	<table border="0" cellspacing="0" cellpadding="0" align="right">
-	  <tbody><tr> 
-	    <td width="14"><img src="images/footer-curve.gif" width="20" height="20"></td><td align="left" background="images/footer-line.gif"><nobr><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-	      <a href="Contact.asp?si1=0">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="tou.asp?si1=3">Terms 
-	      of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy.asp?si1=2">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="copyright.asp?si1=4">Copyright</a> 
-	      2000 AskMe Corporation Inc. All Rights Reserved&nbsp;&nbsp;&nbsp;</font></nobr> 
-	    </td></tr>
-	</tbody></table>
-	<!-- End section --> 
-	
-	
-	</body></html>
+
+    	                        </tbody></table>
+    	                    </td>
+    	                  </tr>
+    	            </tbody></table>
+    	          </td>
+    	        </tr>
+                <tr>
+    	            <td colspan="1" bgcolor="#000000"><img src="images/trans.gif" width="1" height="1" border="0"></td></tr>
+    	        <tr>
+                </tr><tr>
+    		            <td colspan="1" align="CENTER">
+    			            <table valign="bottom" border="0" width="100%" cellspacing="16" cellpadding="0">
+
+    			            	<tbody><tr> 
+    			            		<td class="FooterText" align="CENTER"><font class="FooterText">
+    			            		[<a href="company/contact.asp">Contact Us</a> ] [ <a href="termsofuse.asp">Terms of Use</a> ] 
+    			            		[ <a href="privacy.asp">Privacy</a>] [ <a href="copyright.asp">Copyright</a> ] © 2000-2001 AskMe Corporation 
+    			            		Inc. All Rights Reserved.</font><br>
+  			            		</td>
+    			            	</tr>
+    			            </tbody></table>
+    		            </td>
+    	            </tr>
+    	    </tbody></table>
+    	</td>
+    </tr>  
+</tbody></table>
+
+<table width="780" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr height="1"><td nowrap="1" bgcolor="#000000" height="1"><img src="images/trans.gif" width="1" height="0"></td></tr>
+</tbody></table>
+<br>
+
+
+<!-- End -->
+    </body></html>
