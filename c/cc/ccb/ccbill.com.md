@@ -1,57 +1,45 @@
-> *The following text is extracted and transformed from the ccbill.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630043204id_/http%3A//about.ccbill.com/html_forms/privacy_policy-english.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccbill.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230195705id_/http%3A//about.ccbill.com/html_forms/privacy_policy-english.html) for the most accurate reproduction.*
 
 # Untitled Document
 
-**OUR COMMITMENT TO PRIVACY:**
+In order to provide Internet billing services, CCBill must collect, use, and share certain information about you. This policy explains what we collect, who we share it with, and how you can contact CCBill in order to ensure the accuracy of the data we collect, use, and share. The information CCBill collects from you helps CCBill better serve you and the online community by continually updating the electronic payment services CCBill provides. The data that CCBill collects and maintains is as follows: 
 
-CWIE, LLC. and its affiliates (collectively "CWIE") are committed to protecting the privacy of visitors to this Website ("Site") and other CWIE Websites. To accomplish this, we have implemented a comprehensive Privacy Policy that governs all information collected on or submitted to our Site. By accessing, browsing or using the Site, you acknowledge that you read, understand, and agree to the terms and conditions of CWIE's Privacy Policy. If you do not agree to these terms and conditions, please do not access, browse, or use this Site. 
+**Information that you provide to us**  
+CCBill receives and stores all information that you enter on our sign-up (join) pages except for security items such as Visa’s CVV2. This includes:
 
-**THE INFORMATION WE COLLECT AND HOW WE USE IT:**
+**1\. Credit card sign-up page** \- the website you are purchasing an e-ticket for, your e-mail address, language preference, credit card number, expiration date, first name, last name, address, city, state, zip, country, your username and password, and your agreement to be bound by CCBill 's terms and conditions.
 
-**1\. Non-Personal and Aggregated Information.**  
-When you visit our Site, we may log general data, such as your domain name (e.g., CWIE.com), the name of the Web page from which you entered our Site, which pages you visit on our Site, and how much time you spend on each page. We use this information to continually monitor and improve our Site and for internal analysis. In particular, we use IP addresses to analyze trends, administer the Site, track user's movement, and gather information for aggregate use. (IP addresses are not linked to personally identifiable information.) 
+**2\. Check sign-up page** \- the website you are purchasing an e-ticket for, your e-mail address, language preference, first name, last name, address, city, state, zip, country, your bank's ABA routing number, your account number, the type of account, your username and password, and your agreement to be bound by CCBill 's terms and conditions.
 
-**2\. Personal Information.**  
-As a visitor to our Site, you may choose to use the Site to send us personal information (e.g., your name, mailing address, telephone number, e-mail address), for example, when you send a question via the Site, register for a particular service, or submit your resume through our Site. Anytime you submit personal information for a specific purpose using the Site, your information is used for that purpose only, unless you consent otherwise or as required by law. When you submit personal information to CWIE on this Site, you understand and agree that this information may be transferred across national boundaries and may be stored and processed in another country, which may not provide privacy protections similar to those your country provides.  
-We do not send unsolicited e-mail to you or other visitors to our Site. We use e-mail to respond to e-mail messages from you, to confirm product or service orders placed online and to engage in other communication that you have authorized or that we have determined necessary to more effectively service you and our customers. 
+**Information that we automatically receive**  
+CCBill receives and stores certain information whenever you download web pages, or send us e-mail or forms. For example:
 
-In many cases, you choose the amount of information you supply (e.g., when sending us information through the Site, you may choose to include only an e-mail address - not a telephone number or mailing address - for replies). There may be instances where some of the information that we ask you to provide is identified as mandatory and some as voluntary. In such cases, if you do not provide mandatory personal information with respect to a particular activity, you will not be able to engage in that activity. 
+1\. We identify the numerical IP address assigned to your computer by your Internet Service Provider.
 
-**COOKIES:**
+2\. E-mail Correspondence: CCBill often requests a confirmation when you receive and open an e-mail communication delivered by CCBill. We archive all e-mail sent in and out of our network, and we identify the origination IP address of all mail sent into our network. We require that you refrain from "forging headers" or sending "SPAM". 
 
-The term "cookie" refers to files that are transferred from a Website to your computer's hard drive.   
-CWIE does not use cookies except as expressly set forth in this Privacy Policy. 
+**Information from third parties**  
+From time to time, CCBill may request and receive information from third parties and compare it to the information that you have provided. The main purpose for this is loss prevention.
 
-**WHO WE SHARE IT WITH:**
+**Protection of your privacy**  
+CCBill will release data when we believe the release is appropriate to comply with the law, enforce our Agreement, and protect the contract rights of our Clients. CCBill passes the following data to the owner/operator of the website from which you are purchasing services utilizing CCBill’s services:
 
-We may share non-personal, aggregated information with our customers, partners, and advertisers. Aggregated information is not linked to any personal information that can identify an individual person or website.   
-Unless we have your permission or are required by law, we only share the personal information you provide through our Site with CWIE affiliates and/or business partners that are acting on our behalf. We make every reasonable effort to ensure that such CWIE affiliates and business partners, including those in the U.S. and/or any other countries, protect your personal information consistent with our Privacy Policy.
+1\. Credit card sign-up page information including the website you are purchasing an e-ticket for, your e-mail address, language preference, first name, last name, address, city, state, zip, country, your username and password, and your agreement to be bound by CCBill 's terms and conditions. 
 
-**OUR COMMITMENT TO DATA SECURITY:**
+2\. Check sign-up page information including the website you are purchasing an e-ticket for, your e-mail address, language preference, first name, last name, address, city, state, zip, country, your username and password, and your agreement to be bound by CCBill's terms and conditions.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect through the Site. Despite all of its best efforts, CWIE cannot guarantee that your personal information will not be obtained illegally from CWIE’s systems and you agree to assume all risk and liability arising from your use of CWIE’s online services, including the risk of a breach in the security of our systems. Also, please be advised that CWIE cannot guarantee and has no control over the public or third party network through which you send your personal information to CWIE's Site.
+It is your obligation to provide CCBill with accurate and up-to-date information, and failure to provide us with such information could void any Agreement between you and CCBill. We use the information that you provide for such purposes as processing your e-ticket request, responding to customer service inquiries, loss prevention, improving our service, communicating with you, and allowing our clients to provide customer service and fulfill their obligations to you. CCBill’s employees have access to your information on a need-to-know basis. CCBill will not sell your information to an independent third party for any reason.
 
-**OUR COMMITMENT TO CHILDREN'S PRIVACY:**
+In addition, CCBill, as part of the credit card processing system must provide limited information to the services that connect it to the companies that perform the banking functions. The credit card associations have strict privacy rules that these companies must adhere to in order to be authorized to receive and process credit card transactions. CCBill will never knowingly provide your information credit card information outside of this system.
 
-Protecting the privacy of children is especially important. For that reason, we never collect or maintain information at our Site from those we actually know are under 18, and no part of our Site is structured to attract anyone under 18. 
+CCBill employs the latest and best techniques available for protecting its systems from intrusion by unauthorized individuals, and is constantly upgrading its security as better methods become available. All information is stored behind firewalls and other sophisticated security systems. In addition, our data center utilizes state-of-the-art physical security measures to prevent unauthorized access to the facility.
 
-**LINKED INTERNET WEBSITES:**
+CCBill does not request, or knowingly collect identifiable information from children under the age of 18. CCBill does not knowingly use or share personal information from users under the age of 18 with third parties. CCBill does not offer children any promotions involving games, prizes, or any other activity that would induce a child to divulge personal information.
 
-This Site provides hyperlinks that, when clicked, take you to another place within the document, to another document altogether, or to other Websites not controlled by CWIE. These hyper-linked Websites may contain privacy provisions that are different from those provided herein. CWIE is not responsible for the collection, use or disclosure of information collected through these Websites, and CWIE expressly disclaims any and all liability related to such collection, use, or disclosure.
+CCBill reserves the right to change, modify or amend this policy at any time. CCBill takes privacy matters very seriously, and intends to stay at the forefront of privacy policy and protection matters. We will occasionally update our privacy policy and we will post those updates on this page. You are responsible for revisiting this page to review our privacy policy updates.  
+Questions regarding the information CCBill has stored about you should be in writing, and addressed to:
 
-**HOW TO CORRECT OR AMEND YOUR INFORMATION:**
-
-In some cases we honor requests from you to correct or amend your account information (for example, your name or address). You may verify that appropriate corrections have been made. To correct or amend account information, contact [support@ccbill.com](mailto:%20support@ccbill.com).To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
-
-**PRIVACY POLICY CHANGES:**
-
-This Privacy Policy is subject to change. Any changes to CWIE's Privacy Policy will be posted on the Site. All information submitted through the Site to CWIE is subject to the terms and conditions of this Privacy Policy, as amended. 
-
-**HOW TO CONTACT US:**
-
-Should you have other questions or concerns about CWIE's Privacy Policy, please contact us at [support@ccbill.com](mailto:support@ccbill.com), or write to us at:
-
-**C.W.I.E.  
+**CCBill LLC  
 1501 West 17th Street  
 Tempe, Arizona 85281 – U.S.A.  
 Phone (480) 449-7750   
