@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the investni.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605182316id_/http%3A//www.investni.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the investni.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209150808id_/http%3A//www.investni.com/privacy.htm) for the most accurate reproduction.*
 
 # Invest Northern Ireland - Privacy
 
