@@ -1,51 +1,34 @@
-> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 1999-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991013073847id_/http%3A//ticketmaster.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202024300id_/http%3A//www.ticketmaster.com/h/privacy.html) for the most accurate reproduction.*
 
-# Ticketmaster Online Privacy Policy
+# Welcome to ticketmaster.com!
 
-**Does Ticketmaster Online collect personal information?**  
+  |   
+Ticketmaster.com has created this privacy statement in order to demonstrate our firm commitment to your privacy online. The following discloses our information gathering and dissemination practices for this web Site. This Privacy Policy does not apply to the Ticketmaster Store.
 
+**Your IP Address.** We use your IP address to help diagnose problems with our server, and to administer our web Site. Your IP address is used to help identify you and to gather broad demographic information about you.
 
-Ticketmaster Online collects user names, e-mail addresses, mailing addresses, telephone numbers, event preferences and other personal information when you purchase tickets or merchandise or when you sign up for our services, such as the My Ticketmaster website. We also ask for certain personal information at other times, such as when you enter sweepstakes or promotions sponsored by Ticketmaster Online and/or our partners. 
+**Cookies.** Our site uses cookies to keep track of what you have purchased. We use cookies to deliver content specific to your interests, to save your password so you do not have to re-enter it each time you visit our Site, and for other purposes relating to your transactions on the Site.
 
-**How does Ticketmaster Online use this information?**
+**Information We Request Directly From You.** Our Site's registration forms, order forms, surveys and contests require you to give us contact information (like your name and email address), occasionally, unique identifiers (like your social security number), and demographic information (like your zip code, age, or income level). Our order forms require financial information (like your account or credit card numbers) as well.
 
-Ticketmaster Online uses the information in a number of different ways:   
-(A) Your e-mail address is stored so that we can send you your user name and password in case you forget or lose it (applicable only to MyTM users). It may also be used to send special announcements and notifications of events, products or services that might be of interest to you (such as, sweepstakes, contests, promotions, gift certificates, give-aways, merchandise offerings, etc.). 
+**How We Use Contact Information.** Your contact information is used to contact you when necessary in connection with transactions entered into by you on our Site. Your contact information is provided to the venues and selected promoters of concerts and events for which you purchase tickets. We also use customer contact information we collect in order to send you information and offers from our company and promotional material from some of our partners. We carefully select the information we send and make sure that it offers real value to you, such as discounts, exclusive offers or special event information.
 
-(B) Your mailing address is stored for several reasons. First (for those who have personalized their site), so that we can pre-enter it into your invoice form during the ticket-purchasing process. This will expedite ordering since you will not have to enter any of the information again. Your mailing address is needed so that Ticketmaster or the venue can mail your tickets to your home. Your mailing address is also needed to verify and authorize your credit card during your purchase. Additionally, from time to time in connection with certain campaigns and programs administered by us, we may send special announcements and notifications of events, products and services that might be of interest to you (such as, sweepstakes, contests, promotions, gift certificates, give-aways, merchandise offerings, etc.). 
+**How We Use Financial Information.** Financial information that is collected is used to check your qualifications and bill you for products and services. Unique identifiers (such as social security numbers) are collected from you to verify your identity and for use as account numbers in our record system. We will not share financial or unique identifier information with third parties without your prior consent. When you make a purchase on the Site, your consent is given to provide your financial or contact information to those third parties necessary to process your transactions with us, such as credit card companies and the companies that handle shipping on our behalf.
 
-(C) Information on your event and regional preferences is collected to dynamically assemble an individually unique group of event listings on the My Ticketmaster website which will be relevant to your specific tastes. (Refers to MYTM users only.) 
+**How We Use Demographic Information.** We use this information to tailor our Site to the interests of our users. This information is shared with advertisers only on an aggregate basis so that they can tailor their advertisements to the appropriate audience.
 
-(D) The personal information we collect is also used to deliver targeted messages to those users we feel might be interested in specific announcements and notifications of events, products or services (such as, sweepstakes, contests, promotions, gift certificates, give-aways, merchandise offerings, etc.). An added benefit of being a Ticketmaster Online Internet user is that you will receive timely information about unique and exciting marketing and promotional opportunities. 
+**Other Sites/Third Party Vendors and their Privacy Policies.** This Site may contain links to other Sites. Ticketmaster.com is not responsible for the privacy practices or the content of such web Sites or for the privacy policies and practices of other third parties.
 
-(E) Finally, your habits within this site may be used to help us recommend events to you that people with similar habits enjoy. 
+**Your Disclosures in Chats and Message Boards, Etc.** This Site may make available to its users chat rooms, forums, message boards, and/or news groups at various times. Please remember that any information you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-**Will Ticketmaster Online share this information with other parties?**
+**Our Security Precautions.** This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.
 
-(A) E-mail address: From time to time, we might share your e-mail address with venues where events occur, with promoters of events and with certain of our third party partners. The venue, promoter or third party partner might send you special announcements and notifications of events, products or services that might be of interest to you (such as, sweepstakes, contests, promotions, gift certificates, give-aways, merchandise offerings, etc.). 
+**How You Can Update Your Personal Information.** This Site gives users the opportunity to change and/or modify information you have provided to us. [Click here](https://ticketing.ticketmaster.com/cgi/eo_login.asp) to access your Express Ordering account.
 
-(B) Mailing address/telephone number: Your mailing address will be shared with your credit card company in order to verify that you are an authorized user. It will also be shared with the venue or promoter of the ticketed event in order for them to mail your tickets or event information to you. Your telephone number will be used if there are any customer service issues that might need to be addressed. Additionally, from time to time in connection with certain campaigns and programs administered by us, we may conduct telemarketing activities and you may be contacted by telephone to be advised of special announcements and notifications of events, products or services (such as, sweepstakes, contests, promotions, gift certificates, give-aways, merchandise offerings, etc.). 
+Changing or deleting your data here will change or delete the data only in our My Account database, but will not change or delete information which we have collected as part of a particular ticket purchase in our transactions database.
 
-(C) Credit card information: Ticketmaster will never share your credit card number with any third parties. 
+If you have any questions or concerns about this privacy statement, the practices of this Site, or your dealings with this web Site, you can contact us at [legal@ticketmaster.com](mailto:legal@ticketmaster.com).
 
-(D) User demographic/psychographic information: Your specific user demographic/psychographic information will not be shared with anybody, unless we believe in good faith that the law requires it, or to protect the rights or property of Ticketmaster. While your individual user demographic/psychographic information will not be shared, from time to time, collective and aggregated user demographic/psychographic information will be disclosed in order to describe our services and user demographics/psychographics to prospective advertisers, partners, research companies and other third parties so they can target their messages to a specific audience (for example, 25-30 year old women residing on the East Coast) and conduct requested research studies on our behalf. 
+You can also send us mail to: ticketmaster.com, c/o Legal Department, 790 East Colorado Blvd. Suite 200, Pasadena, CA 91101. 
 
-(E) User habits: Your specific user habits within our site will not be disclosed to any third parties. 
-
-**What are cookies?**
-
-Cookies are pieces of data that are sent to your browser. When you browse the site that originally set the cookie, the contents of the cookie are sent back to the site. This allows the site to easily keep track of information specific to you, such as which personalized information should be displayed. Cookies may be saved to your hard drive, or may only last until you close your browser. 
-
-**How are cookies used?**
-
-We use cookies in a number of ways. For example, we use cookies to identify your My Ticketmaster account. You may choose to save this cookie to your hard drive, so that you will not have to re-enter your user identification and password. Cookies are also used in the ticketing process to streamline the process and make sure that you get the right tickets. Additionally, consistent with standard practices in the Internet industry, you may occasionally receive cookies from advertisers on our site. Ticketmaster does not control these cookies, and they are not subject to our privacy policy. 
-
-**Are children protected?**
-
-Naturally, the safety and protection of children is very important to us. Children should always have permission from a parent before using this site and before submitting personal information. 
-
-**What else should I know about my privacy?**
-
-Ticketmaster uses reasonable precautions to keep the personal information disclosed to us secure and to disclose such information only to third parties we believe to be responsible. However, our partners and third party Internet sites and services which are accessible through our site, or parties whom we inform you are collecting data in connection with sweepstakes, promotions and other activities, have separate privacy and data collection practices, independent of us. We have no responsibility or liability for any actions of any third parties which receive the information. 
-
-By using this site, you signify your assent to the Ticketmaster Online Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right to change, modify, add, or remove portions of this policy at any time. Please check this page periodically for changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes. 
+|  
