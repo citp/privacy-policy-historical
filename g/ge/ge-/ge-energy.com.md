@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ge-energy.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215000113id_/http%3A//ge-energy.com/legal/en/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ge-energy.com privacy policy that was archived on 2005-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050215053750id_/http%3A//www.ge-energy.com/legal/en/privacy.htm) for the most accurate reproduction.*
 
 # GE Energy - Privacy Policy
 
