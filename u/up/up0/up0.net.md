@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the up0.net privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205000313id_/http%3A//www.up0.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up0.net privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402021257id_/http%3A//up0.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Uptilt
 
