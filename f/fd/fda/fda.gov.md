@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fda.gov privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216232900id_/http%3A//www.fda.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fda.gov privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602013500id_/http%3A//www.fda.gov/privacy.html) for the most accurate reproduction.*
 
-# FDA Privacy Statement
+# Privacy Policy for the FDA Website
 
 Thank you for visiting the FDA Website. The information we collect about you during your visit depends on what you do while you are on the site.
 
@@ -42,19 +42,7 @@ Also, e-mail is not necessarily secure against interception. If you are worried 
 
 Finally, this site is maintained by the U.S. Government and is thus protected by various provisions of Title 18 of the U.S. Code. Violations of Title 18 are subject to criminal prosecution in federal court. For site security purposes and to ensure that this service remains available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. In the event of authorized law enforcement investigations, and pursuant to any required legal process, information from these sources may be used to help identify an individual.
 
-If you have any questions or comments about privacy and the FDA Website, please let us know by calling us at 1-888-INFO-FDA (1-888-463-6332), sending us a fax at 301-443-9057, writing to us at: FDA (HFI-40), Rockville, MD 20857, or using our [on-line comment form](https://web.archive.org/web/20001216232900id_/http%3A//www.fda.gov/comments/webform.html).
+If you have any questions or comments about privacy and the FDA Website, please let us know by calling us at 1-888-INFO-FDA (1-888-463-6332), sending us a fax at 301-827-1682, writing to us at: FDA (HFI-50), Rockville, MD 20857, or using our [on-line comment form](https://web.archive.org/web/20030602013500id_/http%3A//www.fda.gov/comments/webform.html).
 
-  
+Thank you.  
 
-
-* * *
-
-  
-
-
-[FDA Home Page](https://web.archive.org/default.htm) | [Search](https://web.archive.org/search.html) | [A-Z Index](https://web.archive.org/opacom/hpchoice.html) | [Site Map](https://web.archive.org/sitemap.html) | [Contact FDA](https://web.archive.org/comments.html)
-
-FDA/Website Management Staff  
-Web page created by [zwr.](https://web.archive.org/oc/opacom/htmlers.html) Last updated 2000-NOV-27.
-
-| 
