@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the af.mil privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217215403id_/http%3A//www.af.mil/disclaimer.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the af.mil privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602113154id_/http%3A//www.af.mil/disclaimer.shtml) for the most accurate reproduction.*
 
 # Air Force Link II -- Privacy and Security Notice
 
@@ -6,17 +6,15 @@
 
 2\. Information presented on Air Force Link is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested.
 
-3\. Air Force Link uses persistent cookies for registered users (persistent tokens that pass information back and forth from the client machine to the server). These cookies are used to access your personal preferences and maintain the special links that you have selected.  Information collected is safeguarded in files which are password protected and to which access is physically restricted.You can choose not to accept cookies and still use the portal. You will be required to login each time that you want to view your personal page.
+3\. For site management, [information is collected](http://www.dtic.mil/warning/example.html) for analytical and statistical purposes. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
 
-4\. For site management, [information is collected](http://www.dtic.mil/warning/example.html) for analytical and statistical purposes. This government computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+4\. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic, to identify unauthorized attempts, to upload or change information, or otherwise cause damage.
 
-5\. For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor network traffic, to identify unauthorized attempts, to upload or change information, or otherwise cause damage.
+5\. Raw data logs will only be used to identify individual users and their usage habits for authorized law enforcement investigations or national security purposes.  These logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration [General Schedule 20](http://gopher.nara.gov:70/0/managers/federal/grsfr.txt).
 
-6.  Raw data logs will only be used to identify individual users and their usage habits for authorized law enforcement investigations or national security purposes.  These logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration [General Schedule 20](http://gopher.nara.gov:70/0/managers/federal/grsfr.txt).
+6\. Unauthorized attempts to deny service, upload information, change information, or to attempt to access a non-public site from this service are strictly prohibited and may be punishable under Title 18 of the U.S. Code to include the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-7\. Unauthorized attempts to deny service, upload information, change information, or to attempt to access a non-public site from this service are strictly prohibited and may be punishable under Title 18 of the U.S. Code to include the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
-
-8\. If you have any questions or comments about the information presented here, please forward them to us using the Air Force Link [Comment Form](https://web.archive.org/web/20011217215403id_/http%3A//www.af.mil/contactus.shtml).
+7\. If you have any questions or comments about the information presented here, please forward them to us using the Air Force Link [Comment Form](https://web.archive.org/web/20020602113154id_/http%3A//www.af.mil/contactus.shtml).
 
 **The Presence of Commercial/External Links  **
 
