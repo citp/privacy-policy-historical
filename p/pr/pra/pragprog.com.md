@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2004-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041016183813id_/http%3A//www.pragmaticprogrammer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pragprog.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206220410id_/http%3A//www.pragmaticprogrammer.com/privacy.html) for the most accurate reproduction.*
 
-# The Pragmatic Programmers, LLC
+# The Pragmatic Programmers Privacy Statement
 
 ## Privacy Statement
 
@@ -27,7 +27,7 @@ You can access our Web site home page and browse our site without disclosing you
 
 We collect the personal data that you may volunteer while using our services. We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations. 
 
-If you use the [WikiWiki web](http://www.pragmaticprogrammer.com/cgi-local/pragprog?HomePage), you may choose to register yourself, giving a nickname and setting preferences. If you do, other users of the WikiWiki web will be able to see the nickname you provide. As the WikiWiki web is not intended to be secure, they may even be able to masquerade as you on it. This nickname is not used for any other purpose on our site. 
+If you use the [WikiWiki web](http://wiki.pragprog.com/cgi-bin/wiki.cgi/HomePage), you may choose to register yourself, giving a nickname and setting preferences. If you do, other users of the WikiWiki web will be able to see the nickname you provide. As the WikiWiki web is not intended to be secure, they may even be able to masquerade as you on it. This nickname is not used for any other purpose on our site. 
 
 Certain pages on the site invite you to give us your e-mail address to enable us to contact you in the future, typically to solicit your feedback or to give you news. 
 
