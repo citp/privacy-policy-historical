@@ -1,30 +1,24 @@
-> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2003-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogzonline.com.au privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Dogz Online
 
     
- [* Home Page](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/home.asp)  
- [* What's New](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/webnews.htm)  
- [* Breed Pages](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/breeds/list.asp)  
+ [* Home Page](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/home.asp)  
+ [* What's New](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/webnews.htm)  
+ [* Breed Pages](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/breeds/list.asp)  
  [* Forums](http://forums.dogzonline.com.au/index.php)  
- [* Rescue Dogs](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/breeds/rescue.asp)  
- [* Classifieds](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/classifieds/default.asp)   
- [* Game Zone](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/gamezone/default.htm)  
- [* Market Place](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/links/products/default.htm)  
- [* Accommodation](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/accommodation/default.asp)  
- [* Article Library](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/articles/default.htm)  
- [* Info Links](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/links/default.htm)  
- [* OzDog Newspaper](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/ozdog/default.htm)  
- [* Members Page](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/members/home.asp)
-
-   [* About Us](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/about_us.htm)  
- [* Site Advertising](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/advertising.htm)   
- [* Contact Us](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/contact.htm)
-
-  [](http://www.petnetwork.com.au/)   
+ [* Rescue Dogs](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/breeds/rescue.asp)  
+ [* Classifieds](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/classifieds/default.asp)   
+ [* Market Place](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/links/products/default.htm)  
+ [* Accommodation](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/accommodation/default.asp)  
+ [* Info Links](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/links/default.htm)  
+ [* Members Sign In](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/members/home.asp)    
+ [* About Us](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/about_us.htm)  
+ [* Site Advertising](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/advertising.htm)   
+ [* Contact Us](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/contact.htm)   [](http://www.petnetwork.com.au/)   
 |  | 
 
-**Navigation** >> [Home](https://web.archive.org/web/20031210112236id_/http%3A//www.dogzonline.com.au/home.asp) >> Privacy Statement
+**Navigation** >> [Home](https://web.archive.org/web/20040604190046id_/http%3A//www.dogzonline.com.au/home.asp) >> Privacy Statement
 
 With regards to your privacy, we have 3 commitments.
 
