@@ -1,6 +1,32 @@
-> *The following text is extracted and transformed from the portfolio.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604073708id_/http%3A//www.brandera.com/corporate/term/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portfolio.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602084336id_/http%3A//www.brandera.com/corporate/term/privacy.html) for the most accurate reproduction.*
 
 # BrandEra.com | Privacy @ BrandEra
+
+When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of:  
+
+
+  1. What personally identifiable information of yours or third party personally identification is collected from you 
+  2. The organization collecting the information 
+  3. How the information is used 
+  4. With whom the information may be shared 
+  5. What choices are available to you regarding collection, use and distribution of the information 
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under BrandEra.com Inc. control 
+  7. How you can correct any inaccuracies in the information. 
+
+If you have questions or concerns regarding this statement, you should first contact privacy@brandera.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe http://www.truste.org. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+
+  * Introduction
+  * Application
+  * What Information does Brandera.com Collect About You?
+  * Brandera.com's Use and Disclosure of Your Personal Information
+  * Advertisers on Brandera.com
+  * Security
+  * Chat Rooms and Public Forums
+  * Changing or Deleting Personal Information
+  * Modifications
+  * How to Contact Brandera.com
+
+
 
 Introduction
 
