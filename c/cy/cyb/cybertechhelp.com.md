@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the cybertechhelp.com privacy policy that was archived on 2002-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020212040322id_/http%3A//cybertechhelp.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybertechhelp.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207220218id_/http%3A//www.cybertechhelp.com/html/misc/privacy.php) for the most accurate reproduction.*
 
-# CyberTechHelp - Free Computer Help and Technical Support
+# Cyber Tech Help - Privacy
+
+  [Cyber Tech Help](http://www.cybertechhelp.com/) : [Privacy Policy](https://web.archive.org/html/misc/privacy.php)  
+
 
 Cyber Tech Help has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Cyber Tech Help.
 
@@ -31,9 +34,9 @@ With respect to security: We have appropriate security measures in place in our 
 Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.  
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can use our [contact form](https://web.archive.org/web/20020212040322id_/http%3A//cybertechhelp.com/html/contact.shtml) to contact us directly regarding this issue.
+This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can use our [contact form](https://web.archive.org/html/misc/contact.php) to contact us directly regarding this issue.
 
 Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact If you feel that this site is not following its stated information policy, you may contact us using our [contact form](https://web.archive.org/web/20020212040322id_/http%3A//cybertechhelp.com/html/contact.shtml).  
+If you have any questions about this privacy statement, the practices of this site, your dealings with this Web site, or if you feel that this site is not following its stated information policy, you may contact us using our [contact form](https://web.archive.org/html/misc/contact.php).  
 
