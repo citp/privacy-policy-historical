@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601145043id_/http%3A//www.advfn.com/advfn/text/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advfn.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209041442id_/http%3A//www.advfn.com/advfn/text/privacy.php3) for the most accurate reproduction.*
 
 # ADVFN - Advanced Financial Network
 
