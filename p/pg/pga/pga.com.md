@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the pga.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205155900id_/http%3A//www.pga.com/About_Us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pga.com privacy policy that was archived on 2001-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010210013555id_/http%3A//www.pga.com/About_Us/privacy.html) for the most accurate reproduction.*
 
 # PGA.com Privacy Statement
-
-PGA.com Privacy Statement
-
-  
-
 
 PGA.com’s policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. 
 
