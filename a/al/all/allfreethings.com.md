@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreethings.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627040251id_/http%3A//allfreethings.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreethings.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207052115id_/http%3A//www.allfreethings.com/privacy.shtml) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
