@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602174426id_/http%3A//www2.spss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205023232id_/http%3A//spss.com/privacy.htm) for the most accurate reproduction.*
 
 # SPSS Inc.
-
-  
-
 
 SPSS Inc. Web Privacy Policy
 
