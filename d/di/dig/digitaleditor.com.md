@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2000-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000819071658id_/http%3A//www.digitaleditor.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410025246id_/http%3A//www.digitaleditor.com/privacy.shtml) for the most accurate reproduction.*
 
 # Digital Editor: Front Page: Everything You Need to Know About Digital Video
 
