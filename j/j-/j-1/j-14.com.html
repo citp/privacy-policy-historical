@@ -1,11 +1,19 @@
-<!--The following is the downloaded HTML source of the j-14.com privacy policy that was archived on 2001-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010330231449id_/http%3A//www.j-14.com/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the j-14.com privacy policy that was archived on 2001-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011205085318id_/http%3A//j-14.com/privacy_policy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<title>Twist Magazine</title>
-<meta name="DESCRIPTION" content="meta description goes here">
-<meta name="KEYWORDS" content="meta content goes here">
-<script language="JAVASCRIPT">
+<html><head>
+<title>J-14 Magazine</title>
+<meta name="DESCRIPTION" content="J-14 is the top site for the latest teen celebrity news, quizzes, interviews and fashion of the stars! Get the J-14 scoop on Backstreet Boys, 'N Sync, 98 Degrees, LFO and more! Read exclusive J-14 interviews with Justin Timberlake, Christina Aguilera, Sugar Ray, Blink-182 and more! Get the J-14 style scoop on Jennifer Love Hewitt, Mandy Moore, Brandy and other teen trendsetters. Take J-14 weekly quizzes, win J-14 merchandise and read J-14's embarrassing moments.">
+<meta name="KEYWORDS" content="cool celebs fun and games girl stuff teen horoscopes poll quizzes star style tell us teen celebrity news quizzes star interviews fashion backstreet boys 'n sync 98 degrees LFO Justin Timberlake Christina Agiulera Sugar Ray Blink-182 Jennifer Love Hewitt Mandy moore Brandy teen trendsetters quizzes embarassing moments">
+
+	<script language="javascript">
+function agepop(DEST_URL)
+	{
+	ageString = "/include/agecheck.asp?DEST_URL=" + DEST_URL;
+	windowDef= "width=300,height=350,toolbar=no,location=no,directories=no,status=no,resize=yes,menubar=no";
+	window.open(ageString,"age",windowDef);
+	}
+</script><script language="JAVASCRIPT">
 
 //Preload images with two states
 function twoImg(imgOn,imgOff,w,h,statline) {
@@ -18,18 +26,30 @@ function twoImg(imgOn,imgOff,w,h,statline) {
         this.statline = statline;
 }
 
+//Preload images with one state
+function oneImg(imgOn,w,h) {
+        if (document.images) {
+                this.imgOn = new Image(w,h);
+                this.imgOn.src = imgOn;
+        }
+}
+
+//Rollover code for two-state images
 function turnon(what) {
+		active_icon = what + "_icon"
         if (document.images) {
                 document[what].src = two[what].imgOn.src;
-                document.about_you.src = two.about_you.imgOff.src; 
-				 window.status = two[what].statline;            
+                document.home.src = two.home.imgOff.src;
+				document.icon.src = one[active_icon].imgOn.src; 
+				say(what);
         }
 }
 
 function turnoff(what) {
         if (document.images) {
                 document[what].src = two[what].imgOff.src;
-                document.about_you.src = two.about_you.imgOn.src; 
+                document.home.src = two.home.imgOn.src; 
+				document.icon.src = one.home_icon.imgOn.src;
 				window.status = "";            
         }
 }
@@ -46,22 +66,9 @@ function pollWindow(question_id)
 				if (document.poll.vote[pollcheck].checked)
 				pollvote = document.poll.vote[pollcheck].value;
 			}
-		pollString = "/include/twist_polltally.asp?question_id=" + question_id + "&vote=" + pollvote;
-		windowDef= "width=300,height=350,toolbar=no,location=no,directories=no,status=no,resize=yes,menubar=no";
+		pollString = "http://www.j14.com/cgi/polltally.asp?question_id=" + question_id + "&vote=" + pollvote;
+		windowDef= "width=300,height=350,toolbar=no,location=no,directories=no,status=no,scrollbars=auto,resize=yes,menubar=no";
 		window.open(pollString,"Poll",windowDef);
-	}
-
-function crazylifepollWindow(question_id)
-	{
-		crazylifepollvote = "none";
-		for (crazylifepollcheck = 0; crazylifepollcheck <= 1; crazylifepollcheck++)
-			{
-				if (document.crazylifepoll.vote[crazylifepollcheck].checked)
-				crazylifepollvote = document.crazylifepoll.vote[crazylifepollcheck].value;
-			}
-		crazylifepollString = "/include/twist_crazylife_polltally.asp?question_id=" + question_id + "&vote=" + crazylifepollvote;
-		windowDef= "width=300,height=350,toolbar=no,location=no,directories=no,status=no,resize=yes,menubar=no";
-		window.open(crazylifepollString,"CrazyLifePoll",windowDef);
 	}
 
 function onSalePop()
@@ -69,82 +76,81 @@ function onSalePop()
 	window.open("/inthisissue_pop.asp","ThisIssue","left=300,top=10,width=316,height=300,toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resize=yes,menubar=no");
 	}
 	
-function PopWindow(name,width,height)
+function ringwatchPop()
 	{
-		windowName= name;
-		windowUrl= name + ".html";
-		windowDef= "width=" + width + ",height=" + height + ",top=10,left=10,toolbar=no,location=no,directories=no,status=no,scrollbars=auto,resize=yes,menubar=no";
-		window.open(windowUrl,windowName,windowDef);
+	window.open("/ringwatch_pop.asp","RingWatch","left=300,top=10,width=300,height=300,toolbar=no,location=no,directories=no,status=no,scrollbars=auto,resize=yes,menubar=no");
+	}
 
+function PopWindow()
+	{
+	window.open("/weneedyou.asp","We Need You!","left=300,top=10,width=316,height=300,toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resize=yes,menubar=no");
 	}
 
 two = new Array();
-two.about_you     = new twoImg("/images/leftnav/nav_aboutyou_a.gif","/images/leftnav/nav_aboutyou_i.gif",97,19,"About You");
-two.quiz_fest     = new twoImg("/images/leftnav/nav_quizfest_a.gif","/images/leftnav/nav_quizfest_i.gif",97,17,"Quiz Fest");
-two.horoscopes    = new twoImg("/images/leftnav/nav_horoscopes_a.gif","/images/leftnav/nav_horoscopes_i.gif",97,18,"Horoscopes");
-two.tarot_parlor  = new twoImg("/images/leftnav/nav_tarotparlor_a.gif","/images/leftnav/nav_tarotparlor_i.gif",97,17,"Tarot Parlor");
-two.celeb_scoop   = new twoImg("/images/leftnav/nav_celebscoop_a.gif","/images/leftnav/nav_celebscoop_i.gif",97,18,"Celeb Scoop");
-two.style_zone    = new twoImg("/images/leftnav/nav_stylezone_a.gif","/images/leftnav/nav_stylezone_i.gif",97,17,"Style Zone");
-two.no_way        = new twoImg("/images/leftnav/nav_noway_a.gif","/images/leftnav/nav_noway_i.gif",97,18,"No Way");
-two.speak_out     = new twoImg("/images/leftnav/nav_speakout_a.gif","/images/leftnav/nav_speakout_i.gif",97,17,"Speak Out");
-two.home          = new twoImg("/images/leftnav/nav_home_a.gif","/images/leftnav/nav_home_i.gif",97,19,"Home");
+two.cool_celebs        = new twoImg("/images/leftnav/cool_celebs-on.gif","/images/leftnav/cool_celebs-off.gif",145,21,"Cool Celebs");
+two.girl_stuff         = new twoImg("/images/leftnav/girl_stuff-on.gif","/images/leftnav/girl_stuff-off.gif",145,20,"Girl Stuff");
+two.fun_and_games      = new twoImg("/images/leftnav/fun_and_games-on.gif","/images/leftnav/fun_and_games-off.gif",145,19,"Fun and Games");
+two.horoscopes         = new twoImg("/images/leftnav/horoscopes-on.gif","/images/leftnav/horoscopes-off.gif",145,19,"Horoscopes");
+two.quizzes            = new twoImg("/images/leftnav/quizzes-on.gif","/images/leftnav/quizzes-off.gif",145,19,"Quizzes");
+two.star_style         = new twoImg("/images/leftnav/star_style-on.gif","/images/leftnav/star_style-off.gif",145,19,"Star Style");
+two.tell_us            = new twoImg("/images/leftnav/tell_us-on.gif","/images/leftnav/tell_us-off.gif",145,19,"Tell Us");
+two.home               = new twoImg("/images/leftnav/home-on.gif","/images/leftnav/home-off.gif",145,19,"Home");
+ 
+one = new Array();
+one.cool_celebs_icon   = new oneImg("/images/leftnav/cool_celebs_icon.gif",145,96);
+one.girl_stuff_icon    = new oneImg("/images/leftnav/girl_stuff_icon.gif",145,96);
+one.fun_and_games_icon = new oneImg("/images/leftnav/fun_and_games_icon.gif",145,96);
+one.horoscopes_icon    = new oneImg("/images/leftnav/horoscopes_icon.gif",145,96);
+one.quizzes_icon       = new oneImg("/images/leftnav/quizzes_icon.gif",145,96);
+one.star_style_icon    = new oneImg("/images/leftnav/star_style_icon.gif",145,96);
+one.tell_us_icon       = new oneImg("/images/leftnav/tell_us_icon.gif",145,96);
+one.home_icon          = new oneImg("/images/leftnav/home_icon.gif",145,96);
 </script>
 
-<link rel="StyleSheet" href="/include/twist.css" type="text/css" media="screen">
 </head>
-<body border="0" background="/images/bkg_twist.gif" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" link="#330066">
+<body border="0" bgcolor="#FFFFFF" marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" link="#330066">
 <table align="left" border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
 <tbody><tr>
 	<!--Left-hand page column-->
 	<td width="100%" align="left" valign="top">
 		<!--Header-->
-		<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#FFFFFF">
-			<tbody><tr>
-				<td align="left" valign="top" rowspan="2"><a name="top"><img src="/images/hdr_twistheader.gif" width="459" height="86" alt="" border="0"></a></td>
-				<td align="left" valign="top" bgcolor="#FF9933" width="100%"><img src="/images/clear.gif" width="15" height="66"></td>
-			</tr>
-			<tr><td align="right" valign="top" bgcolor="#FFFFFF"><img src="/images/img_roundcorner_insideur.gif" width="15" height="20" border="0" alt=""></td></tr>		</tbody></table>
+		<table border="0" cellpadding="0" cellspacing="0" width="100%">
+			<tbody><tr><td><a name="top"><img src="/images/head.jpg" width="459" height="76" alt="" border="0"></a></td></tr>
+		</tbody></table>
 		<!--Left nav and body copy-->
 		<table border="0" cellpadding="0" cellspacing="0" width="100%">
 		<tbody><tr>
-		<td align="left" valign="top" width="115">
+		<td align="left" valign="top" width="145">
 			<!--Begin leftnav for home-->
-			<table border="0" cellpadding="0" cellspacing="0" width="115">
-			<tbody><tr><td align="left" valign="top" rowspan="12" bgcolor="#FF9933"><img src="/images/clear.gif" width="8" height="8"></td>
-			    <td align="left" valign="top"><a href="/about_you/" onmouseover="turnon('about_you');return true" onmouseout="turnoff('about_you');return true"><img name="about_you" src="/images/leftnav/nav_aboutyou_a.gif" width="97" height="19" alt="About You" border="0"></a></td>
-				<td align="left" valign="top" rowspan="9" bgcolor="#FFFFFF"><img src="/images/clear.gif" width="10" height="10"></td>
- 			</tr>
-			<tr><td align="left" valign="top"><a href="/quiz_fest/" onmouseover="turnon('quiz_fest');return true" onmouseout="turnoff('quiz_fest');return true"><img name="quiz_fest" src="/images/leftnav/nav_quizfest_i.gif" width="97" height="17" alt="Quiz Fest" border="0"></a></td></tr>
-			<tr><td align="left" valign="top"><a href="/horoscopes/" onmouseover="turnon('horoscopes');return true" onmouseout="turnoff('horoscopes');return true"><img name="horoscopes" src="/images/leftnav/nav_horoscopes_i.gif" width="97" height="18" alt="Horoscopes" border="0"></a></td></tr>
-			<tr><td align="left" valign="top"><a href="/tarot_parlor/" onmouseover="turnon('tarot_parlor');return true" onmouseout="turnoff('tarot_parlor');return true"><img name="tarot_parlor" src="/images/leftnav/nav_tarotparlor_i.gif" width="97" height="17" alt="tarot_parlor" border="0"></a></td></tr>
-			<tr><td align="left" valign="top"><a href="/celeb_scoop/" onmouseover="turnon('celeb_scoop');return true" onmouseout="turnoff('celeb_scoop');return true"><img name="celeb_scoop" src="/images/leftnav/nav_celebscoop_i.gif" width="97" height="18" alt="Celeb Scoop" border="0"></a></td></tr>
-			<tr><td align="left" valign="top"><a href="/style_zone/" onmouseover="turnon('style_zone');return true" onmouseout="turnoff('style_zone');return true"><img name="style_zone" src="/images/leftnav/nav_stylezone_i.gif" width="97" height="17" alt="Style Zone" border="0"></a></td></tr>
-			<tr><td align="left" valign="top"><a href="/no_way/" onmouseover="turnon('no_way');return true" onmouseout="turnoff('no_way');return true"><img name="no_way" src="/images/leftnav/nav_noway_i.gif" width="97" height="18" alt="No Way" border="0"></a></td></tr>
-			<tr><td align="left" valign="top"><a href="/speak_out/" onmouseover="turnon('speak_out');return true" onmouseout="turnoff('speak_out');return true"><img name="speak_out" src="/images/leftnav/nav_speakout_i.gif" width="97" height="17" alt="Speak Out" border="0"></a></td></tr>
-			<tr><td align="left" valign="top"><a href="/" onmouseover="turnon('home');return true" onmouseout="turnoff('home');return true"><img name="home" src="/images/leftnav/nav_home_i.gif" width="97" height="18" alt="Home" border="0"></a></td></tr>
-		<tr>
-			<td align="left" valign="top" colspan="2" bgcolor="#FFFFFF" width="106"><img src="/images/img_polltop.gif" width="106" height="53" border="0" alt="Twist Poll"></td>
-		</tr>
+			<table border="0" cellpadding="0" cellspacing="0" width="145">
+			<tbody><tr><td align="left" valign="top"><a href="/cool_celebs/" onmouseover="turnon('cool_celebs');return true" onmouseout="turnoff('cool_celebs');return true"><img name="cool_celebs" src="/images/leftnav/cool_celebs-off.gif" width="145" height="21" alt="Cool Celebs" border="0"></a></td></tr>
+			<tr><td align="left" valign="top"><a href="/girl_stuff/" onmouseover="turnon('girl_stuff');return true" onmouseout="turnoff('girl_stuff');return true"><img name="girl_stuff" src="/images/leftnav/girl_stuff-off.gif" width="145" height="20" alt="Girl Stuff" border="0"></a></td></tr>
+			<tr><td align="left" valign="top"><a href="/fun_and_games/" onmouseover="turnon('fun_and_games');return true" onmouseout="turnoff('fun_and_games');return true"><img name="fun_and_games" src="/images/leftnav/fun_and_games-off.gif" width="145" height="19" alt="Fun and Games" border="0"></a></td></tr>
+			<tr><td align="left" valign="top"><a href="/horoscopes/" onmouseover="turnon('horoscopes');return true" onmouseout="turnoff('horoscopes');return true"><img name="horoscopes" src="/images/leftnav/horoscopes-off.gif" width="145" height="19" alt="Horoscopes" border="0"></a></td></tr>
+			<tr><td align="left" valign="top"><a href="/quizzes/" onmouseover="turnon('quizzes');return true" onmouseout="turnoff('quizzes');return true"><img name="quizzes" src="/images/leftnav/quizzes-off.gif" width="145" height="19" alt="Quizzes" border="0"></a></td></tr>
+			<tr><td align="left" valign="top"><a href="/star_style/" onmouseover="turnon('star_style');return true" onmouseout="turnoff('star_style');return true"><img name="star_style" src="/images/leftnav/star_style-off.gif" width="145" height="19" alt="Star style" border="0"></a></td></tr>
+			<tr><td align="left" valign="top"><a href="/tell_us/" onmouseover="turnon('tell_us');return true" onmouseout="turnoff('tell_us');return true"><img name="tell_us" src="/images/leftnav/tell_us-off.gif" width="145" height="19" alt="Tell us" border="0"></a></td></tr>
+			<tr><td align="left" valign="top"><a href="/" onmouseover="say('home');return true"><img name="home" src="/images/leftnav/home-on.gif" width="145" height="19" alt="Home" border="0"></a></td></tr>
+			<tr><td align="left" valign="top"><img name="icon" src="/images/leftnav/home_icon.gif" width="145" height="96" alt="" border="0"></td></tr>
+		<tr><td align="left" valign="top"><img src="/images/leftnav/poll_a.gif" width="145" height="48" alt="J-14 Poll" border="0"></td></tr>
 		<!--Poll-->
-		<tr><td align="left" valign="top" colspan="2" bgcolor="#FFFFFF">
-			<table border="0" cellpadding="0" cellspacing="0" width="106">
+		<tr><td align="left" valign="top">
+			<table border="0" cellpadding="0" cellspacing="0" width="145">
 			<tbody><tr>
-				<td align="left" valign="top" width="6"><img src="/images/clear.gif" width="6" height="6"></td>
-				<td align="left" valign="top" width="1" bgcolor="#FFCCE5"><img src="/images/clear.gif" width="1" height="1"></td>
-				<td align="left" valign="top" width="99" bgcolor="#ff3399" rowspan="2">
+				<td align="left" valign="top" width="17" background="/images/leftnav/poll_c.gif"><img src="/images/leftnav/poll_b.gif" width="17" height="33" border="0" alt=""></td>
+				<td align="left" valign="top" width="128" bgcolor="#ffffff" rowspan="2">
 				<form name="poll">
 				<font face="arial, helvetica, sans-serif" size="-2">
 					<br>
 				<!--Question table-->
-						<table align="center" border="0" cellpadding="0" cellspacing="0" width="90%"><tbody><tr><td align="center" bgcolor="#FFFFFF"><font face="arial, helvetica, sans-serif" size="-2" color="#6600CC">
-						<b>Pumped for Charlie’s Angels?</b>
+						<table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td align="center" bgcolor="#FFCCFF"><font face="arial, helvetica, sans-serif" size="-2">
+						<b>Will music change because of world events?</b>
 						</font></td></tr></tbody></table>
+						<br>
 						<!--Response table-->
 						<table border="0" cellpadding="0" cellspacing="0">
-						<tbody><tr><td align="left" valign="top"><input type="radio" name="vote" value="a"></td><td align="left" valign="center"><font face="arial, helvetica, sans-serif" size="-2" color="#FFFFFF">Yeah! I can’t wait to see it!
-</font></td></tr>
-						<tr><td align="left" valign="top"><input type="radio" name="vote" value="b"></td><td align="left" valign="center"><font face="arial, helvetica, sans-serif" size="-2" color="#FFFFFF">Nope, I’m so not in to it. 
-</font></td></tr>
+						<tbody><tr><td align="left" valign="top"><input type="radio" name="vote" value="a"></td><td align="left" valign="center"><font face="arial, helvetica, sans-serif" size="-2">Yes</font></td></tr>
+						<tr><td align="left" valign="top"><input type="radio" name="vote" value="b"></td><td align="left" valign="center"><font face="arial, helvetica, sans-serif" size="-2">No</font></td></tr>
 						</tbody></table>
 						<br>
 						<!--Submit vote button-->	
@@ -152,82 +158,135 @@ two.home          = new twoImg("/images/leftnav/nav_home_a.gif","/images/leftnav
 					</font>
 					</form></td>	
 				</tr>
+				<tr><td align="left" valign="bottom" background="/images/leftnav/poll_c.gif"><img src="/images/leftnav/poll_d.gif" width="17" height="21" alt="" border="0"></td></tr>
 				</tbody></table></td></tr>
-			<tr><td align="left" valign="top" colspan="2" bgcolor="#FFFFFF"><img src="/images/img_pollbottom.gif" width="106" height="18" border="0" alt=""></td></tr>
-			</tbody></table>	
-			<table border="0" cellpadding="0" cellspacing="0" width="115" height="100%">
-			<tbody><tr>
-				<td align="left" valign="top" bgcolor="#FF9933"><img src="/images/clear.gif" width="100" height="17"></td>
-				<td align="left" valign="top" bgcolor="#FF9933"><img src="/images/img_roundcorner_underpoll.gif" width="15" height="17"></td>
-			</tr>
-			</tbody></table>	
-			<table border="0" cellpadding="0" cellspacing="0">
-			<tbody><tr>
-				<td align="left" valign="top" bgcolor="#FF9933" width="7"><img src="/images/clear.gif" width="12" height="15"></td>
-				<td align="center" valign="top" bgcolor="#FF9933" width="85"><a href="http://www.twistmarket.com"><img src="/images/leftnav/img_grabbag.gif" width="85" height="100" alt="Twist Grab Bag!" border="0"></a></td>
-			</tr>
-			</tbody></table>	
+			<tr><td align="left" valign="top"><img src="/images/leftnav/poll_e.gif" width="145" height="28" alt="" border="0"></td></tr>
+
+	<tr><td align="left" valign="top"><img src="/images/clear.gif" width="145" height="5" alt="" border="0"></td></tr>
+	<!--Ring watch sell-->
+	<tr><td align="left" valign="top"><img src="/images/clear.gif" width="145" height="5" alt="" border="0"></td></tr>
+	<tr><td align="left" valign="top"><a href="javascript: ringwatchPop();"><img src="/images/leftnav/img_ringwatch.gif" width="143" height="109" alt="" border="0"></a></td></tr>
+	<!--jillionaire-->
+	<tr><td align="left" valign="top"><img src="/images/clear.gif" width="145" height="15" alt="" border="0"></td></tr>
+	<tr><td align="left" valign="top"><a href="/jillionaire/"><img src="/images/leftnav/nav_jillionaire.gif" width="130" height="100" border="0" alt=""></a></td></tr>
+	<!--capri sun-->
+	<tr><td align="left" valign="top"><img src="/images/clear.gif" width="145" height="15" alt="" border="0"></td></tr>
+	<tr><td align="left" valign="top"><a href="http://www.twistmarket.com" target="_blank"><img src="/images/leftnav/img_caprisun_j14.jpg" width="139" height="94" border="0" alt=""></a></td></tr>
+	<!--singing machine-->
+	<tr><td align="left" valign="top"><img src="/images/clear.gif" width="145" height="15" alt="" border="0"></td></tr>
+	<tr><td align="center" valign="top"><a href="http://www.singingmachine.com" target="_blank"><img src="/images/leftnav/singingmachine.gif" width="80" height="188" border="0" alt=""></a></td></tr>
+</tbody></table>
 		<!--End leftnav-->
 			</td>
 			<!--Left-hand gutter--><td align="center" valign="top"><img src="/images/clear.gif" width="25" height="10" alt="" border="0"></td>
-			<td align="left" valign="top" width="100%">
+			<td align="left" valign="top"><font face="arial,helvetica,sans-serif" size="-1" color="#330066">
 			<!-- * * * * * * * * * * * * * * * * * * * *-->
 			<!-- * * * * * * * * * * * * * * * * * * * *-->
 			<!--Begin body copy-->
+<center>Wednesday, December 5, 2001</center>
+
+
+
+
+				
+
+
+
+<!--Terms Of Use subhead-->
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+
+
+<tbody><tr><td align="left" valign="top"><img src="images/sub_privacy.gif" width="226" height="40" alt="Privacy Policy" border="0"></td><td align="left" valign="top" width="100%">
+
+
+
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" height="40">
+
+
+
+		<tbody><tr width="100%"><td width="1" height="7" bgcolor="#FFFFFF"><img src="/images/clear.gif" width="1" height="7"></td></tr>
+
+
+
+		<tr><td width="1" height="1" bgcolor="#987EB0"><img src="/images/clear.gif" width="1" height="1"></td></tr>
+
+
+
+		<tr><td width="1" height="24" bgcolor="#330066"><img src="/images/clear.gif" width="1" height="24"></td></tr>
+
+
+
+		<tr><td width="1" height="1" bgcolor="#6D3E94"><img src="/images/clear.gif" width="1" height="1"></td></tr>
+
+
+
+		<tr><td width="1" height="7" bgcolor="#FFFFFF"><img src="/images/clear.gif" width="1" height="7"></td></tr>
+
+
+
+	</tbody></table>
+
+
+
+</td><td align="right" valign="top"><img src="images/sub_rightside.gif" width="73" height="40" alt="" border="0"></td></tr>
+
+
+
+</tbody></table>
+
 
 
 <!--Breaking News body copy-->
 
 
-<br>
-<!--Sub-header image preceding body-text-->
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-	<td align="left" valign="top" width="234" rowspan="3"><img src="images/sub_privacy_policy.gif" width="234" height="24" alt="" border="0"></td>
-	<td align="left" valign="top" bgcolor="#FF3399" width="100%"><img src="/images/clear.gif" width="1" height="5"></td>
-	<td align="left" valign="top" width="90" rowspan="3"><img src="images/sub_rightside.gif" width="90" height="24" alt="" border="0"></td>
-</tr>
 
-<tr><td align="left" valign="top" bgcolor="#FF804D"><img src="/images/clear.gif" width="1" height="1"></td></tr>
-<tr><td align="left" valign="top" bgcolor="#FF9933"><img src="/images/clear.gif" width="1" height="18"></td></tr>
-</tbody></table>
 
-<!--start body content-->
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr><td align="left" valign="top">
+<tbody><tr><td align="left" valign="top" colspan="3"><img src="/images/clear.gif" width="4" height="4" alt="" border="0"></td></tr>
+
+
+
+<tr><td align="left" valign="top">
+
+
 
 <font face="arial,helvetica,sans-serif" size="-1" color="#330066">
 
 
-<br>We know that safeguarding your privacy is serious business.  Your privacy is very important to us.  Please take a moment to read TWIST's policy so that you understand how we collect and use your personal information.  As we update and expand our services, this policy might change, so please check it out from time to time.  If you have questions about our privacy policy, please E-mail us at <a href="mailto:twistmail@bauerpublishing.com">twistmail@bauerpublishing.com.</a>
 
-<br>Remember, if you sign up for any of TWIST's services or enter any of our contests or sweepstakes, you agree to the terms of this Policy.
+<br>We know that safeguarding your privacy is serious business.  Your privacy is very important to us.  Please take a moment to read J14's policy so that you understand how we collect and use your personal information.  As we update and expand our services, this policy might change, so please check it out from time to time.  If you have questions about our privacy policy, please E-mail us at <a href="mailto:j14mag@aol.com">j14mag@aol.com.</a>
 
-
-
-
-
-<p><b>What types of personal information does twistmag.com collect?</b>
-
-<br>We sometimes collect personal information from our users when you sign up for services at twistmag.com or enter contests or sweepstakes.  Personal information includes your first and last name, home or other address (like your school), telephone number, E-mail address, or any other information that tells another person who you are.
+<br>Remember, if you sign up for any of J14's services or enter any of our contests or sweepstakes, you agree to the terms of this Policy.
 
 
 
-</p><p>When you use some of the services provided by twistmag.com, we ask for some contact information such as your name, address, and E-mail address, and financial information such as a credit card number.  We give you notice and provide a link to this Privacy Policy at each location that asks you for personal information.
+
+
+<p><b>What types of personal information does J14.com collect?</b>
+
+<br>We sometimes collect personal information from our users when you sign up for services at J14.com or enter contests or sweepstakes.  Personal information includes your first and last name, home or other address (like your school), telephone number, E-mail address, or any other information that tells another person who you are.
 
 
 
-</p><p><b>twistmag.com collects personal information in four ways:</b>
+</p><p>When you use some of the services provided by J14.com, we ask for some contact information such as your name, address, and E-mail address, and financial information such as a credit card number.  We give you notice and provide a link to this Privacy Policy at each location that asks you for personal information.
 
-<br>* You can subscribe on-line to receive TWIST magazine.  We collect your name, address, telephone number, and credit card information so that we can provide your subscription.  We use a third-party vendor, Kable Fulfillment Services of Ohio, Inc., to process on-line subscription requests.  Kable Fulfillment Services of Ohio, Inc. has access to the personal information we collect to process your subscription.  Kable Fulfillment Services of Ohio, Inc. has agreed to use your personal information only for this purpose, to take steps to preserve your privacy and to protect the security of this personal information, and not to sell or disclose the information to any other third party.  We do not collect any of this information, however, from readers under the age of 13.  If you are under the age of 13, you may subscribe to TWIST by telephone or mail, with credit card information from a parent.
 
-<br>* You can subscribe on-line to receive a free on-line newsletter from twistmag.com.  twistmag.com collects only your E-mail address to provide the on-line newsletter.  If you are under the age of 13, you must provide the E-mail address of a parent or guardian before you will be able to receive future issues of the on-line newsletter, and twistmag.com will notify your parent or guardian of the on-line newsletter subscription and give them the chance to cancel the subscription.
 
-<br>* You can open an on-line E-mail account at twistmag.com.  twistmag.com collects only the E-mail address and password you select, and your birthday.  We do not monitor or collect information from your E-mail account unless a legal authority requests us to do so, a user interferes with our operations, or a user otherwise violates twistmag.com's Terms of Use. If you are under the age of 13, you may open an E-mail account at twistmag.com with a parent's prior permission.
+</p><p><b>J14.com collects personal information in four ways:</b>
 
-<br>* You can enter contests or sweepstakes sponsored by twistmag.com.  Our contests and sweepstakes require a minimal amount of information to register, but we always collect your E-mail address so that we can notify you of the results of the contest.  If you are under the age of 13, you must provide the E-mail address of a parent or guardian when entering the contest, and twistmag.com will notify the parent or guardian of your contest entry and give them the chance to cancel the entry.  twistmag.com is prohibited by law from conditioning your participation in a contest or sweepstakes on the disclosure of more personal information than is reasonably necessary to participate.
+<br>* You can subscribe on-line to receive J14 magazine.  We collect your name, address, telephone number, and credit card information so that we can provide your subscription.  We use a third-party vendor, Kable Fulfillment Services of Ohio, Inc., to process on-line subscription requests.  Kable Fulfillment Services of Ohio, Inc. has access to the personal information we collect to process your subscription.  Kable Fulfillment Services of Ohio, Inc. has agreed to use your personal information only for this purpose, to take steps to preserve your privacy and to protect the security of this personal information, and not to sell or disclose the information to any other third party.  We do not collect any of this information, however, from readers under the age of 13.  If you are under the age of 13, you may subscribe to J14 by telephone or mail, with credit card information from a parent.
+
+<br>* You can subscribe on-line to receive a free on-line newsletter from J14.com.  J14.com collects only your E-mail address to provide the on-line newsletter.  If you are under the age of 13, you must provide the E-mail address of a parent or guardian before you will be able to receive future issues of the on-line newsletter, and J14.com will notify your parent or guardian of the on-line newsletter subscription and give them the chance to cancel the subscription.
+
+<br>* You can open an on-line E-mail account at J14.com.  J14.com collects only the E-mail address and password you select, and your birthday.  We do not monitor or collect information from your E-mail account unless a legal authority requests us to do so, a user interferes with our operations, or a user otherwise violates J14.com's Terms of Use. If you are under the age of 13, you may open an E-mail account at J14.com with a parent's prior permission.
+
+<br>* You can enter contests or sweepstakes sponsored by J14.com.  Our contests and sweepstakes require a minimal amount of information to register, but we always collect your E-mail address so that we can notify you of the results of the contest.  If you are under the age of 13, you must provide the E-mail address of a parent or guardian when entering the contest, and J14.com will notify the parent or guardian of your contest entry and give them the chance to cancel the entry.  J14.com is prohibited by law from conditioning your participation in a contest or sweepstakes on the disclosure of more personal information than is reasonably necessary to participate.
 
 <br>* We do not collect the E-mail addresses of people who write to us via E-mail except to respond to them.  Unless we know that we have received the E-mail from a reader who is 13 or over, we will discard the E-mail addresses within 30 days.
 
@@ -237,35 +296,35 @@ two.home          = new twoImg("/images/leftnav/nav_home_a.gif","/images/leftnav
 
 
 
-</p><p>You should also be aware that other companies may advertise on our site, and twistmag.com may provide links to other websites.  These advertisers and sites may collect data or solicit personal information from you.  twistmag.com does not control these advertisers and sites, and this Privacy Policy does not address the practices of these other companies and sites.
+</p><p>You should also be aware that other companies may advertise on our site, and J14.com may provide links to other websites.  These advertisers and sites may collect data or solicit personal information from you.  J14.com does not control these advertisers and sites, and this Privacy Policy does not address the practices of these other companies and sites.
 
 
 
-</p><p><b>How does twistmag.com use this information?</b>
+</p><p><b>How does J14.com use this information?</b>
 
-Our policy about using personal information is simple:  Except as described in this Policy, twistmag.com will not disclose or sell any of the personal information you provide to any third parties.
+Our policy about using personal information is simple:  Except as described in this Policy, J14.com will not disclose or sell any of the personal information you provide to any third parties.
 
-<br>twistmag.com uses the personal information you provide for recordkeeping purposes, for statistical analysis, to learn about you and your interests, to provide products and services you request, to tell you about other twistmag.com services that might interest you, and to notify contests winners.
+<br>J14.com uses the personal information you provide for recordkeeping purposes, for statistical analysis, to learn about you and your interests, to provide products and services you request, to tell you about other J14.com services that might interest you, and to notify contests winners.
 
-<br>We may disclose information about our users when we are required to by law, or when we have reason to believe that someone is causing injury to or interfering with our rights or property, other twistmag.com users, or anyone else who could be harmed by those activities.
+<br>We may disclose information about our users when we are required to by law, or when we have reason to believe that someone is causing injury to or interfering with our rights or property, other J14.com users, or anyone else who could be harmed by those activities.
 
 
 
-</p><p><b>What about twistmag.com's surveys?</b>
+</p><p><b>What about J14.com's surveys?</b>
 
-<br>We want to know what you think.  twistmag.com surveys and polls are questions we ask to learn more about our readers and their preferences and interests.  Any data we collect from a survey is edited before we release it to any third party.  When you participate in a survey, you are completely anonymous.  We will never ask you for your name, address, or E-mail address to participate in a survey.  If you do give us personal information like your name or E-mail address in the survey form where it wasn't supposed to be included, we will delete it before storing the information or releasing it to any third party.  We sometimes ask for your zip code only so that we can compare likes and dislikes and attitudes from different areas of our readership.
+<br>We want to know what you think.  J14.com surveys and polls are questions we ask to learn more about our readers and their preferences and interests.  Any data we collect from a survey is edited before we release it to any third party.  When you participate in a survey, you are completely anonymous.  We will never ask you for your name, address, or E-mail address to participate in a survey.  If you do give us personal information like your name or E-mail address in the survey form where it wasn't supposed to be included, we will delete it before storing the information or releasing it to any third party.  We sometimes ask for your zip code only so that we can compare likes and dislikes and attitudes from different areas of our readership.
 
 <br>Sometimes we conduct surveys on behalf of a particular client.  Again, any data we collect from a survey is edited before we release it to the client, and you remain completely anonymous.  The survey reports we send to clients include only aggregated data, like 80% of girls said X and 64% of girls said Y.  We disclose on every survey that we may be paid for the survey data.  We will not participate in a survey on behalf of any client that will not take steps to protect your privacy.
 
-<br>All of our surveys are optional, and there are no prizes or rewards for participating in any twistmag.com survey.
+<br>All of our surveys are optional, and there are no prizes or rewards for participating in any J14.com survey.
 
 
 
-</p><p><b>How does twistmag.com protect my personal information?</b>
+</p><p><b>How does J14.com protect my personal information?</b>
 
 <br>We make every effort to ensure that your information is secure on our system.  Only those employees who need access to your information in order to do their jobs are allowed access.
 
-<br>twistmag.com sometimes asks for your credit card information in order to provide you with goods or services that you request.  This information is securely stored on our computers (also called "servers").  Credit card transactions take place only on servers that offer a high level of security.  These transactions are handled by a third-party financial institution, Kable Fulfillment Services of Ohio, Inc., which receives the credit card number and other personal information you provide in order to verify the credit card number and process the transaction.  This third party has agreed to use your personal information only for this purpose, to take steps to preserve your privacy and to protect the security of this personal information, and not to sell or disclose the information to any other third party.
+<br>J14.com sometimes asks for your credit card information in order to provide you with goods or services that you request.  This information is securely stored on our computers (also called "servers").  Credit card transactions take place only on servers that offer a high level of security.  These transactions are handled by a third-party financial institution, Kable Fulfillment Services of Ohio, Inc., which receives the credit card number and other personal information you provide in order to verify the credit card number and process the transaction.  This third party has agreed to use your personal information only for this purpose, to take steps to preserve your privacy and to protect the security of this personal information, and not to sell or disclose the information to any other third party.
 
 <br>We do not collect personal information for the purpose of credit card transactions from users under the age of 13 and no personal information from children under 13 is shared with any third-party service provider.
 
@@ -273,23 +332,23 @@ Our policy about using personal information is simple:  Except as described in t
 
 
 
-</p><p><b>What are cookies and how does twistmag.com use them?</b>
+</p><p><b>What are cookies and how does J14.com use them?</b>
 
-<br>Cookies are small pieces of data that are placed on your computer's hard drive when you visit twistmag.com.  Cookies are standard in the industry; you'll find them at most major websites.
+<br>Cookies are small pieces of data that are placed on your computer's hard drive when you visit J14.com.  Cookies are standard in the industry; you'll find them at most major websites.
 
-<br>Cookies allow twistmag.com to keep track of which areas of our site you have visited and how long you spend at a particular site, to track your preferences and interests, and to personalize your experience at twistmag.com.  twistmag.com uses anonymous cookies that are not linked to any identifying information about you.  This means that your activity at the site will be logged, but you remain anonymous to us.
+<br>Cookies allow J14.com to keep track of which areas of our site you have visited and how long you spend at a particular site, to track your preferences and interests, and to personalize your experience at J14.com.  J14.com uses anonymous cookies that are not linked to any identifying information about you.  This means that your activity at the site will be logged, but you remain anonymous to us.
 
-<br>twistmag.com also may use cookies to help ensure that personal information is not collected from children under 13 without their parents' consent.
+<br>J14.com also may use cookies to help ensure that personal information is not collected from children under 13 without their parents' consent.
 
 
 
-</p><p><b>What is an IP address and how does twistmag.com use it?</b>
+</p><p><b>What is an IP address and how does J14.com use it?</b>
 
 An IP address is a number that's automatically assigned to your computer whenever you're surfing the web - your computer's unique "signature."  Web servers automatically identify your computer by its IP address.
 
-<br>When you visit twistmag.com, we collect some general information about your computer, including its IP address, the operating system it uses (for example, Windows 95), the browser software it uses (for example, Microsoft Internet Explorer or Netscape), and your Internet service provider (for example, AOL).  This information helps us better understand the people who visit twistmag.com.  None of this information is linked to "personal information" about individual users - instead, it's information about the general population.  As with cookies, your session will be logged, but you remain anonymous to us.
+<br>When you visit J14.com, we collect some general information about your computer, including its IP address, the operating system it uses (for example, Windows 95), the browser software it uses (for example, Microsoft Internet Explorer or Netscape), and your Internet service provider (for example, AOL).  This information helps us better understand the people who visit J14.com.  None of this information is linked to "personal information" about individual users - instead, it's information about the general population.  As with cookies, your session will be logged, but you remain anonymous to us.
 
-<br>twistmag.com collects this general information to identify the most popular areas on our website and to provide aggregate information to our advertisers to let them know about the number of people who have seen and clicked on their advertisements.
+<br>J14.com collects this general information to identify the most popular areas on our website and to provide aggregate information to our advertisers to let them know about the number of people who have seen and clicked on their advertisements.
 
 
 
@@ -297,29 +356,29 @@ An IP address is a number that's automatically assigned to your computer wheneve
 
 <br>If you are under 13, you should always ask your parents for permission before sending any personal information to us or to anyone else.  You should ask your parent or guardian to read this Privacy Policy and to participate with you in the registration process.
 
-<br>Except as otherwise described in this Policy, we do not knowingly collect or use any personal information from children under age 13 without first notifying and obtaining the express permission of a parent or guardian.  Children under 13 cannot subscribe to TWIST magazine on-line; instead, they must subscribe to the magazine by telephone or mail, with credit card information or payment from a parent or guardian.  The parent or guardian of children under 13 who subscribe to twistmag.com's on-line newsletter will receive notice of the subscription and the opportunity to cancel.  Similarly, the parent or guardian of children under 13 who register for any special contest, sweepstakes, or promotion sponsored by twistmag.com will receive notice of the child's registration and the opportunity to cancel.  Children under 13 who register for contests or sweepstakes and promotional opportunities will also be asked to provide their parent or guardian's E-mail address so that we can notify the parent or guardian if the child is the winner of the contest.
+<br>Except as otherwise described in this Policy, we do not knowingly collect or use any personal information from children under age 13 without first notifying and obtaining the express permission of a parent or guardian.  Children under 13 cannot subscribe to J14 magazine on-line; instead, they must subscribe to the magazine by telephone or mail, with credit card information or payment from a parent or guardian.  The parent or guardian of children under 13 who subscribe to J14.com's on-line newsletter will receive notice of the subscription and the opportunity to cancel.  Similarly, the parent or guardian of children under 13 who register for any special contest, sweepstakes, or promotion sponsored by J14.com will receive notice of the child's registration and the opportunity to cancel.  Children under 13 who register for contests or sweepstakes and promotional opportunities will also be asked to provide their parent or guardian's E-mail address so that we can notify the parent or guardian if the child is the winner of the contest.
 
-<br>twistmag.com does not sell or disclose personal information collected from children under 13 to third parties under any circumstances.
+<br>J14.com does not sell or disclose personal information collected from children under 13 to third parties under any circumstances.
 
 
 
 </p><p><b>How can a parent or guardian review this personal information collected from children under 13?</b>
 
-<br>Parents have the right to review all personal information about children under 13 collected by twistmag.com, can ask twistmag.com to delete the information, and can refuse to permit twistmag.com to collect or use the child's information in the future.  If a parent or guardian wishes to review a child's personal information or ask twistmag.com to delete that information, they should contact TWIST at the address and telephone number listed below, or send an E-mail request to twistmail@bauerpublishing.com.  We will verify the identity of the parent or guardian before allowing them to review a child's personal information.
+<br>Parents have the right to review all personal information about children under 13 collected by J14.com, can ask J14.com to delete the information, and can refuse to permit J14.com to collect or use the child's information in the future.  If a parent or guardian wishes to review a child's personal information or ask J14.com to delete that information, they should contact J14 at the address and telephone number listed below, or send an E-mail request to j14mag@aol.com.  We will verify the identity of the parent or guardian before allowing them to review a child's personal information.
 
 
 
 </p><p><b>How can you correct or update your information?</b>
 
-<br>If you would like to correct or update information that you have previously provided to TWIST.com, you can let us know by sending us an E-mail at <a href="mailto:twistmail@bauerpublishing.com">twistmail@bauerpublishing.com.</a> or mailing a letter to our postal address listed below.
+<br>If you would like to correct or update information that you have previously provided to J14.com, you can let us know by sending us an E-mail at <a href="mailto:j14mag@aol.com">j14mag@aol.com.</a> or mailing a letter to our postal address listed below.
 
 
 
-</p></font><p><font face="arial,helvetica,sans-serif" size="-1" color="#330066"><b>How can you contact twistmag.com?</b>
+</p></font><p><font face="arial,helvetica,sans-serif" size="-1" color="#330066"><b>How can you contact J14.com?</b>
 
 <br>If you have any questions about our privacy policy, the practices of this site, or want to reach us for any other reason, you can contact us at:
 
-<br>TWIST
+<br>J14
 
 <br>270 Sylvan Avenue
 
@@ -329,7 +388,7 @@ An IP address is a number that's automatically assigned to your computer wheneve
 
 <br>or E-mail us at:
 
-<br><a href="mailto:twistmail@bauerpublishing.com">twistmail@bauerpublishing.com.</a>
+<br><a href="mailto:j14mag@aol.com">j14mag@aol.com.</a>
 
 
 
@@ -350,43 +409,110 @@ An IP address is a number that's automatically assigned to your computer wheneve
 </p><center><font face="arial,helvetica,sans-serif" size="-1"><a href="#top">Back to top</a></font></center>
 
 
+
+				
+
+
+
 					<!--End body copy-->
 					<!-- * * * * * * * * * * * * * * * * * * * *-->
 					<!-- * * * * * * * * * * * * * * * * * * * *-->
 				<p>
 				<img src="/images/clear.gif" width="300" height="1" alt="" border="0">
-				</p></td>								
+				</p></font></td>								
 				<!--Right-hand gutter--><td align="center" valign="top"><img src="/images/clear.gif" width="20" height="10" alt="" border="0"></td>				
 			</tr>
 		</tbody></table>
 	</td>
-	<!--Right-hand gutter--><td align="center" valign="top" bgcolor="#FF9933"><img src="/images/clear.gif" width="5" height="10" alt="" border="0"></td>
+	<!--Right-hand gutter--><td align="center" valign="top" bgcolor="#66FF66"><img src="/images/clear.gif" width="5" height="10" alt="" border="0"></td>
 	<!--Right-hand page column-->
-	<td align="left" valign="top" bgcolor="#FF9933">
-		<table border="0" cellpadding="0" cellspacing="0" width="140">
-		<!--Spacer--><tbody><tr><td align="right" valign="top"><img src="/images/img_roundcorner_outsideur.gif" width="18" height="15" alt="" border="0"></td></tr>
-			<!--On sale now--><tr><td align="center" valign="top">
-				<table border="0" cellpadding="0" cellspacing="0" width="118">
-					<tbody><tr>
-						<td align="left" valign="top" colspan="3"><a href="javascript: onSalePop()"><img src="/images/cross/crs_onsalenow_head.gif" width="118" height="27" alt="" border="0"></a></td>
-					</tr>
-					<!--Cover image--><tr>
-						<td align="left" valign="top" width="8"><img src="/images/cross/crs_onsalenow_left.gif" width="8" height="115" alt="" border="0"></td>
-						<td align="left" valign="top" width="101"><a href="javascript: onSalePop()"><img src="/images/cross/crs_cover.jpg" width="101" height="137" alt="" border="0"></a></td>
-						<td align="left" valign="top" width="9"><img src="/images/cross/crs_onsalenow_right.gif" width="9" height="117" alt="" border="0"></td>
-					</tr>
-				</tbody></table>
-				</td></tr>
-			<!--Copyright--><tr><td align="center" valign="top"><font face="arial,helvetica,sans-serif" size="-3" color="#FFCC66">© 2000 Bauer Creative Services Inc.</font></td></tr>
-			<!--Spacer--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="140" height="10" alt="" border="0"></td></tr>
-			<!--Subscribe--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="5" height="5" alt="" border="0"><a href="https://www.kable.com/twst" target="_new"><img src="/images/cross/crs_subscribeandsave.gif" width="135" height="92" alt="Subscribe and Save! Click here!" border="0"></a></td></tr>
-			<!--Spacer--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="140" height="15" alt="" border="0"></td></tr>
-			<!--Drop us a line--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="5" height="5" alt="" border="0"><a href="mailto:twistmail@bauerpublishing.com?subject=I gotta tell you..."><img src="/images/cross/crs_dropusaline.gif" width="135" height="91" alt="" border="0"></a></td></tr>
+	<td align="left" valign="top" bgcolor="#66FF66">
+	<table border="0" cellpadding="0" cellspacing="0" width="160">
+		<!--Cross header--><tbody><tr><td align="left" valign="top"><a href="javascript: onSalePop()"><img src="/images/cross/onsalenow.gif" width="160" height="70" alt="On Sale NOW!" border="0"></a></td></tr>
+		
+		<!--Cover image--><tr><td align="left" valign="top"><a href="javascript: onSalePop()"><img src="/automated/cross/cover.jpg" width="141" height="185" alt="On Sale NOW!" border="0"><img src="/images/cross/salespacer.gif" width="19" height="185" alt="" border="0"></a></td></tr>
+		<!--Spacer--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="160" height="2" alt="" border="0"></td></tr>
+		
+		<!--Copyright--><tr><td align="center" valign="top"><font face="arial,helvetica,sans-serif" size="-3" color="#33CC33">© 2001 Bauer Creative Services Inc.</font></td></tr>
+		<!--Spacer--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="160" height="10" alt="" border="0"></td></tr>
+		
+		<!--Exclusive--><tr><td align="center" valign="top">
+			<table border="0" cellpadding="0" cellspacing="0" width="142">
+			<tbody><tr><td align="center" valign="top"><img src="/images/cross/exclusive_hdr.gif" width="142" height="39" alt="Exclusively in the magazine"></td></tr>
+			<tr>
+				<td align="center" valign="top" bgcolor="#FFFFFF"><font face="arial,helvetica,sans-serif" size="-2" color="#6600FF">
+
+				<font face="arial,helvetica,sans-serif" size="-2" color="#FF00FF"><i>On sale 10/26 to 12/7</i></font><p>
+
+
+				<font face="arial,helvetica,sans-serif" color="#9900FF" size="3">Britney reveals secrets from her new album</font>
+				</p><p><img src="/images/img_exclusively_dots.gif" width="87" height="7" border="0" alt=""></p><p>
+
+
+				<font face="arial,helvetica,sans-serif" color="#9900FF" size="3">What will Justin do next?</font>
+				</p><p><img src="/images/img_exclusively_dots.gif" width="87" height="7" border="0" alt=""></p><p>
+
+
+				<font face="arial,helvetica,sans-serif" color="#9900FF" size="3">Flirting tips from your fave stars</font>
+				</p><p><img src="/images/img_exclusively_dots.gif" width="87" height="7" border="0" alt=""></p><p>
+
+
+				<font face="arial,helvetica,sans-serif" color="#9900FF" size="3">Sneaker horoscopes, great posters, embarrassing moments and more!</font>
+				</p><p><img src="/images/img_exclusively_dots.gif" width="87" height="7" border="0" alt=""></p><p>
+
 			
+			</p></font></td>
+			</tr>
+			<tr><td align="center" valign="top"><img src="/images/cross/exclusive_ftr.gif" width="142" height="12"></td></tr>
+			</tbody></table>
+		</td></tr>	
+		<!--Spacer--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="160" height="10" alt="" border="0"></td></tr>
+		
+		<!--Subscribe--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="6" height="6" alt="" border="0"><a href="https://www.kable.com/pub/jbau/subDom.asp" target="_new"><img src="/images/cross/subscribe.gif" width="144" height="167" alt="Subscribe to J-14! Click here!" border="0"></a><img src="/images/cross/crs_kiernancred_vert.gif" width="6" height="111" alt="" border="0"><img src="/images/clear.gif" width="2" height="111" alt="" border="0"></td></tr>
+		<!--Spacer--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="160" height="10" alt="" border="0"></td></tr>
+		
+		<!--Have a question...--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="6" height="6" alt="" border="0"><a href="https://www.kable.com/pub/jbau/menu.asp" target="_new"><img src="/images/cross/crs_subscribe02.gif" width="143" height="57" alt="Have a question?" border="0"></a><img src="/images/clear.gif" width="9" height="57" alt="" border="0"></td></tr>
+		<!--Spacer--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="160" height="10" alt="" border="0"></td></tr>
+				
+		<!--Mailing List--><tr><td align="center" valign="top">
+		<table border="0" cellpadding="0" cellspacing="0" width="160">
+		<tbody><tr>
+			<td align="center" valign="top" width="6"><img src="/images/clear.gif" width="6" height="6" alt="" border="0"></td>
+			<td width="143" bgcolor="#66FF66">
+				<table border="0" cellpadding="0" cellspacing="0" width="143">
+				<tbody><tr><td width="143" bgcolor="#FF66FF" colspan="3" align="center"><a href="javascript:void(0);" onclick="agepop('/cgi/newsletter_capture.asp');" )=""><img src="/images/cross/img_mailinglist_top.gif" width="143" height="75" border="0" alt="Give us your e-mail address.  We'll keep in touch!"></a></td></tr>
+				<tr><td width="143" bgcolor="#FF66FF" colspan="3" align="center"><img src="/images/cross/img_mailinglist_bottom.gif" width="143" height="9" alt="" border="0"></td></tr>
+			</tbody></table>
+			</td>
+			<td width="11"><img src="/images/clear.gif" width="11" height="6" alt="" border="0"></td>
+		</tr>
 		</tbody></table>
-	</td>			
-</tr>
-</tbody></table>
+		</td></tr>
+		<!--Spacer--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="160" height="15" alt="" border="0"></td></tr>		
+		<!--Barbizon--><tr><td align="center" valign="middle"><a href="/barbizon.asp"><img src="/images/barbizon/j-14_spot.jpg" width="150" height="90" border="0" alt=""></a></td></tr>
+		<!--Spacer--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="160" height="10" alt="" border="0"></td></tr>
+		
+		<!--Contact Us--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="6" height="6" alt="" border="0"><a href="mailto:mailbag@j14.com?subject=I gotta tell you..."><img src="/images/cross/img_mailani.gif" width="142" height="73" alt="Mail us!" border="0"></a><img src="/images/clear.gif" width="12" height="12" alt="" border="0"></td></tr>
+		<!--Spacer--><tr><td align="center" valign="top"><img src="/images/clear.gif" width="160" height="15" alt="" border="0"></td></tr>
+	
+	
+	</tbody></table>
+	</td>
+	</tr>
+	</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
