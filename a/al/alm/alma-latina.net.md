@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alma-latina.net privacy policy that was archived on 2002-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020919050457id_/http%3A//www.alma-latina.net/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alma-latina.net privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601143401id_/http%3A//www.alma-latina.net/privacy.shtml) for the most accurate reproduction.*
 
 # :::ALMA LATINA::: - Privacy Policy
 
@@ -23,6 +23,6 @@ Some of our business partners use cookies on our site (for example, our advertis
 **Security**  
 This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is kept confidential and protected both online and off-line.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact [webmaster@alma-latina.net](mailto:webmaster@alma-latina.net)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact me via e-mail.
 
 [Return to Main Page](http://www.alma-latina.net/)
