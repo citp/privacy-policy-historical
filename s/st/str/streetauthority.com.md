@@ -1,71 +1,16 @@
-> *The following text is extracted and transformed from the streetauthority.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetauthority.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205022700id_/http%3A//www.streetauthority.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # StreetAuthority.com -- Privacy Policy
 
-|   
-  
+|  Login  
 ---  
+Username:  
+Password:  
+Remember Me  
+[Login securely](https://www.streetauthority.com/login.asp)  
   
-[](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/subscribe_advisor.htm)  
-         Members-Only Section  
-  [Current Issue  
-](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/ma/current_issue.htm)  [News Flashes](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/advisor_flashes.htm)  
-  [Portfolios  
-](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/advisor_portfolios.htm)  [Premium Reports](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/advisor_premium_reports.htm)  
-  [Specialty Lists](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/advisor_specialty_lists.htm)[  
-](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/advisor_archives.htm)  [Archives](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/advisor_archives.htm)   
-  
-  
-  
-  
-[](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/subscribe-etf.htm)  
-         Members-Only Section  
-  [Current Issue  
-](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/etf/current-issue.htm)  [News Flashes](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/etf-flashes.htm)   
-  [Performance](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/etf-returns.htm)  
-  [ETF Trading Course](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/etf-course.htm)  
-  [Archives](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/etf-archives.htm)   
-  [FAQ](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/etf-faq.htm)   
-  
-  
-  
-  
-[](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/subscribe-st.htm)  
-         Members-Only Section  
-  [Current Issue  
-](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/st/current-issue.htm)  [News Flashes](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/st-flashes.htm)   
-  [Performance](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/st-returns.htm)  
-  [Trading Course](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/st-course.htm)  
-  [Archives](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/st-archives.htm)     
-  [FAQ](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/st-faq.htm)    
-  
-  
-  
-  
-__[](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/subscribe_investor.htm)  
-_   _[Current Issue](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/investor/current_issue.htm)  
-  [ Archives  
-](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/investor/archives.htm)  [Subscribe Today!  
-](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/subscribe_investor.htm)  
-  
-  
-  
-  [Market Overview](http://www2.barchart.com/market.asp?code=bsauth)  
-  [Quotes and Charts  
-](http://www2.barchart.com/cquotes.asp?code=bsauth)  [Portfolio Tracker](http://www2.barchart.com/portfolio.asp?code=bsauth)  
-  [About Us](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/aboutus.htm)  
-  [ FAQ  
-](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/faq.htm)  [ Testimonials  
-](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/testimonials.htm)  [Investing Legends](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/investing_legends.htm)  
-  [Valuable Links  
-](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/valuable_links.htm)  [ Privacy Policy](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/privacy_policy.htm)  
-  [ Disclaimer](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/disclaimer.htm)  
-  
-[](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/subscribe_investor.htm)  
-  
-[](https://web.archive.org/web/20030404041358id_/http%3A//www.streetauthority.com/recommendus.htm)  
-  
-  
+
+
 **_StreetAuthority.com Privacy Policy_**  
 Last revised: February 2002
 
@@ -73,7 +18,7 @@ This Privacy Statement describes our privacy policy and explains what we do with
 
 Your privacy is very important to us. StreetAuthority, LLC is committed to protecting and respecting your privacy. Accordingly, we have adopted the privacy policy, based on the principles of notice, choice, access and security in the collection and use of all information regarding our subscribers and their activities at the StreetAuthority.com's web site. You can be assured of the following:
 
-· We will not send you anything unless you opted-in to receive it. If you are receiving emails from us and you would like them stopped, send an email to [OptOut@StreetAuthority.com](mailto:optout@StreetAuthority.com)
+· We will not send you anything unless you opted-in to receive it. If you are receiving emails from us and you would like them stopped, login to our [User Control Panel](https://web.archive.org/web/20031205022700id_/http%3A//www.streetauthority.com/controlpanel.asp) to manage your current subscriptions.
 
 **What information does StreetAuthority.com gather?  
 ** StreetAuthority.com collects a limited amount of information about our newsletter subscribers to enable StreetAuthority to fulfill subscriptions. StreetAuthority may obtain the following information from its Registered Users and Subscribers:
@@ -86,7 +31,7 @@ Your privacy is very important to us. StreetAuthority, LLC is committed to prote
 **2\. Site Usage Data.** StreetAuthority collects non-identifiable information to measure how our registered users and subscribers use StreetAuthority.com's web site. This information may include statistics about the numbers and timing of unique visits to our web site(s), repeat visits, and which pages are viewed. We view this information to analyze trends, administer the site, track user's movement, and gather broad information for aggregate use. IP addresses are not linked to personally identifiable information.
 
 **Subscriber and Site Visitor Surveys**  
-From time-to-time we may also conduct surveys, although you don't have to respond to them. This research is compiled and analyzed only on an aggregated (group) basis. We do this to better understand our users' needs and improve your overall experience when using our service. Your personal information and responses will remain strictly confidential, even if a third party conducts the survey. We may also notify you of a new product or new area of our site that we think may of interest you. If you'd prefer us not to contact you, simply email [CustomerService@StreetAuthority.com](mailto:customerservice@StreetAuthority.com) and let us know.
+From time-to-time we may also conduct surveys, although you don't have to respond to them. This research is compiled and analyzed only on an aggregated (group) basis. We do this to better understand our users' needs and improve your overall experience when using our service. Your personal information and responses will remain strictly confidential, even if a third party conducts the survey. We may also notify you of a new product or new area of our site that we think may of interest you. If you'd prefer us not to contact you, simply visit our [User Control Panel](http://www.streetauthority.com/controlpanel.asp) to manage your email options.
 
 **StreetAuthority.com Email Referral Service**  
 If you use our referral service to email one of our articles to a friend, you will need to provide us with your friend's email address. We will automatically send this person an email, attaching the recommended article and inviting them to visit and register with our site. We will not use these email addresses for any other purpose nor make them available to any third party.
@@ -111,6 +56,6 @@ StreetAuthority.com reserves the right to revise, amend, or modify this policy a
 
 USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE PRIVACY POLICY AND APPLICABLE USAGE AGREEMENT. 
 
-StreetAuthority.com reserves the right to change this policy at any time by posting a revised privacy policy on this web page. You can send e-mail to us with any further questions at [CustomerService@StreetAuthority.com](mailto:CustomerService@StreetAuthority.com). THANK YOU! 
+StreetAuthority.com reserves the right to change this policy at any time by posting a revised privacy policy on this web page. You can send e-mail to us with any further questions at [Support@StreetAuthority.com](mailto:Support@StreetAuthority.com). THANK YOU! 
 
 | 
