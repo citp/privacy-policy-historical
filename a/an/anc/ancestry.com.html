@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ancestry.com privacy policy that was archived on 2000-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001206194300id_/http%3A//www.ancestry.com/legal/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ancestry.com privacy policy that was archived on 2001-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010609143126id_/http%3A//www.ancestry.com/legal/privacy.htm) for the most accurate reproduction.-->
 
 <html><!-- #BeginTemplate "/Templates/home_lft.dwt" --><head>
 <!-- #BeginEditable "head_info" --> 
@@ -10,23 +10,55 @@
 </head>
 <body bgcolor="#FFFFFF" marginwidth="0" leftmargin="0" link="#336633" vlink="#336633" topmargin="0" marginheight="0">
 <center>
-  
+  <script src="/include/utility.js"></script>
+<script src="/ancestry/security/security_shared.js"></script>
 <table width="620" border="0" cellspacing="0" cellpadding="0">
- <tbody><tr>
-	<td colspan="3" height="7">
-	</td>
- </tr>
- <tr bgcolor="#003333">
-	<td rowspan="2" width="157"><img src="/images/logo.gif" width="157" height="47" alt="Ancestry.com"></td>
-	<td rowspan="2" bgcolor="#003333" width="98">
-	 <script language="JavaScript">document.write("<IMG SRC='/images/photos/photo" + Math.ceil(Math.random() * 9) + ".jpg' WIDTH='98' HEIGHT='47'>")</script><img src="/images/photos/photo8.jpg" width="98" height="47"></td>
-	<td align="RIGHT" height="29"><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="-1" class="utility"><b><a href="/ancestry/loginredir.asp"><font color="#FFFFFF">Member
-   Login</font></a></b> | <b><a href="/subscribe/dualmembership.htm?sourceid=E11AA"><font color="#FFFFFF">Free
-   Membership</font></a>&nbsp;</b>| <b><a href="javascript:help('/help/myaccount/account_fs.htm');"><font color="#FFFFFF">MyAccount</font></a></b>&nbsp;&nbsp;</font></td>
- </tr>
- <tr bgcolor="#003333">
-	<td valign="BOTTOM"><img src="/images/tagline.gif" width="365" height="15"></td>
- </tr>
+	<tbody><tr>
+		<td colspan="3" height="7"></td>
+	</tr>
+	<tr bgcolor="#003333">
+		<td rowspan="2" width="157"><img src="/images/logo.gif" width="157" height="47" alt="Ancestry.com"></td>
+		<td rowspan="2" bgcolor="#003333" width="98" align="left">
+			<script language="JavaScript">document.write('<IMG SRC="/images/photos/photo' + Math.ceil(Math.random() * 9) + '.jpg" WIDTH="98" HEIGHT="47">')</script><img src="/images/photos/photo2.jpg" width="98" height="47"></td>
+		<td align="RIGHT" height="25">
+			<font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif" size="-1" class="utility">
+			<script language="JavaScript"><!--
+				if ( !IsInstitutionalAccount() )
+				{
+					if ( IsLoggedIn() )
+					{
+						document.write('<b><a href="/ancestry/loginredir.asp?logout=true&home=true">');
+						document.write('<font color="#FFFFFF">Log Out</font></a>&nbsp&nbsp;</b>|&nbsp;');
+					}
+					else
+					{
+						document.write('<b><a href="/ancestry/loginredir.asp">');
+						document.write('<font color="#FFFFFF">Member Login</font></a>&nbsp&nbsp;</b>|&nbsp;');
+					}
+					document.write(' <b><a href="javascript:myaccount(\'/myaccount/account_fs.htm\');"><font color="#FFFFFF">MyAccount</font></a></b>&nbsp&nbsp;');
+				}
+				//-->
+			</script>
+			</font>
+		</td>
+	</tr>
+	<tr bgcolor="#003333">
+		<script language="JavaScript"><!--
+			if ( !IsInstitutionalAccount() && (IsLoggedIn() || IsRemembered()) )
+			{
+				var name = getDictionaryCookie('vars','loginname');
+				if ( null == name || "" == name ) { name = "Welcome"; }
+				else { name = 'Welcome, ' + name; }
+				document.write('<TD ALIGN="CENTER" HEIGHT="15" WIDTH="365"><FONT COLOR="#FFFFFF" CLASS="description">' + name + '&nbsp;');
+				document.write('(<a href="/ancestry/loginredir.asp?logout=true" class="lo">login as another user</a>)&nbsp;</FONT></TD>');
+			}
+			else
+			{
+				document.write('<TD VALIGN="BOTTOM"><IMG SRC="/images/tagline.gif" WIDTH="365" HEIGHT="15"></TD>');
+			}
+			//-->
+		</script>
+	</tr>
 </tbody></table>
 <map name="tabmap"> <area shape="RECT" coords="0,0,97,17" href="/main.htm"> <area shape="RECT" coords="99,0,196,17" href="/search/main.htm"> 
  <area shape="RECT" coords="198,0,295,17" href="/learn/main.htm"> <area shape="RECT" coords="297,0,394,17" href="/share/main.htm"> 
@@ -38,7 +70,7 @@
 	<td bgcolor="#999966"><img src="/images/home.gif" width="620" height="19" border="0" usemap="#tabmap"></td>
  </tr>
  <tr align="CENTER">
-	 <td bgcolor="#CCCC99" height="18"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2" class="navbar"><b><a href="/today/main.htm?lfl=sln" class="navbar">Today @ Ancestry</a></b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b><a href="/subscribe/main.htm?lfl=sln" class="navbar">Thinking of Joining?</a></b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b><a href="/home/topthings.htm?lfl=sln" class="navbar">Top Things to Do</a></b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b><a href="/home/partner/main.htm?lfl=sln" class="navbar">Partner with Us</a></b></font></td>
+	 <td bgcolor="#CCCC99" height="18"><font face="Verdana, Arial, Helvetica, sans-serif" size="-2" class="navbar"><b><a href="/today/main.htm?lfl=sln" class="navbar">Today @ Ancestry</a></b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b><a href="/subscribe/subscribeplanstx.asp?SourceCode=826" class="navbar">Subscription Plans</a></b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b><a href="/home/topthings.htm?lfl=sln" class="navbar">Top Things to Do</a></b>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<b><a href="/home/partner/main.htm?lfl=sln" class="navbar">Partner with Us</a></b></font></td>
  </tr>
  <tr bgcolor="#000000">
 	<td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td>
@@ -46,13 +78,8 @@
 </tbody></table>
 <table width="620" border="0" cellspacing="0" cellpadding="0" height="74">
 	<tbody><tr align="CENTER">
-		<td align="LEFT">
-			
-			<script language="JavaScript">makeAd(1)</script>
-			
-		</td>
-		
-    <td width="140" align="RIGHT"><a href="http://shops.ancestry.com/"><img src="/images/home/shopsbtn.gif" width="120" height="60" alt="Shop Online" border="0"></a></td>
+		<td align="LEFT"><script language="JavaScript">makeAd(1)</script></td>	
+		<td width="140" align="RIGHT"><a href="/oft/hft/HFTLandPage.asp"><img src="/images/home/hft_banner.gif" width="120" height="60" alt="Heirloom Family Tree" border="0"></a></td>
 	</tr>
 </tbody></table>
 <table width="620" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
@@ -310,7 +337,9 @@ Us</a> | <a href="javascript:help('/help/contact/contact_fs.htm');">Contact Us</
 | <a href="http://www.ancestry.com/home/partner/main.htm"></a><a href="http://www.ancestry.com/legal/terms.htm">Terms 
 &amp; Conditions</a> | <a href="http://www.ancestry.com/legal/privacy.htm">Privacy 
 Statement </a> <br>
-Copyright © 1998-2000, MyFamily.com Inc. and its subsidiaries.</font> 
+Copyright © 1998-
+<script language="JavaScript">document.write(new Date().getFullYear())</script>2020, MyFamily.com Inc. and its subsidiaries.</font> 
+ 
 </center>
 
 
