@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203020322id_/http%3A//www.edjoin.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edjoin.org privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606024755id_/http%3A//edjoin.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -65,6 +65,6 @@ If we decide to change our Privacy Statement for ED-JOIN, we will post those cha
 
 **Contact Information**
 
-ED-JOIN is owned by CCSESA (California County Superintendents Educational Services Association). The site is hosted by Santa Clara County Office of Education. Site development is done by developers at the San Joaquin County Office of Education. We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [edjoin@sccoe.org](mailto:edjoin@sccoe.org) or call us at (888) 456-1468.
+ED-JOIN is owned by CCSESA (California County Superintendents Educational Services Association). The site is hosted and maintained by Santa Clara County Office of Education. We welcome your comments concerning this Privacy Statement. If you believe that we have not adhered to this Statement, please contact us by e-mailing us at [edjoin@sccoe.org](mailto:edjoin@sccoe.org) or call us at (888) 456-1468.
 
 Thank you for using ED-JOIN.org.
