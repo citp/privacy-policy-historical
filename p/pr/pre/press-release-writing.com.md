@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the press-release-writing.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603152041id_/http%3A//press-release-writing.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the press-release-writing.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208125155id_/http%3A//www.press-release-writing.com/privacy.htm) for the most accurate reproduction.*
 
 # Press-Release-Writing.com Privacy Statement
 
