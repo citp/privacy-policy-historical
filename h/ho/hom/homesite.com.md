@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622041737id_/http%3A//homesite.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203173738id_/http%3A//homesite.com/privacy.htm) for the most accurate reproduction.*
 
 # Homesite Insurance - Privacy Statement
 
