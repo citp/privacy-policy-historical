@@ -1,25 +1,16 @@
-> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630203546id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaadi.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230203601id_/http%3A//www.shaadi.com/shaadi_info/privacy.php) for the most accurate reproduction.*
 
 # Shaadi.com Matrimonials - The No.1 Matrimonial Services Provider - Privacy Policy
 
 |  |    
-|  Help Topics  
----  
-[Getting Started](https://web.archive.org/customer_relations/faq/registration.php)  
-[Login / Password](https://web.archive.org/customer_relations/faq/login.php)  
-[Partner Search](https://web.archive.org/customer_relations/faq/match_making.php)  
-[Profile Management](https://web.archive.org/customer_relations/faq/profile.php)  
-[Photographs](https://web.archive.org/customer_relations/faq/photo.php)  
-[Contacting Members](https://web.archive.org/customer_relations/faq/messaging.php)  
-[Memberships](https://web.archive.org/customer_relations/faq/membership.php)  
-[Payment Options](https://web.archive.org/customer_relations/faq/payments.php)  
-[Newsletters](https://web.archive.org/customer_relations/faq/newsletter.php)  
-[Technical Issues](https://web.archive.org/customer_relations/faq/technical.php)  
-[Write to Customer Relations](https://web.archive.org/customer_relations/matrimonial_help/index.php)  
   
+|  |  |  |   
+---|---  
   
-|    
-|  |  |   
+## Privacy Policy
+
+| [](https://web.archive.org/customer_relations/features/messenger.php)  
+|  |   
 ---|---|---  
 Privacy Statement for Shaadi.com Matrimonial Services
 
@@ -109,9 +100,9 @@ SURVEYS & CONTESTS: Contact and other information collected for contests is used
   
   
 |  3\.   With whom does Shaadi.com share the information it collects/tracks?  
-Except where you are expressly informed otherwise or as described immediately below, we do not sell, rent, share, trade or give away any of your personal information except to the financial institution that processes your credit card, or check transactions unless required by law, or for the protection of your membership.
+Except where you are expressly informed, we do not sell, rent, share, trade or give away any of your personal information except to the financial institution that processes your credit card, or check transactions unless required by law, or for the protection of your membership.
 
-If you register with Shaadi.com through one of our co-branded versions, your registration and profile information may be shared with the co-branding partner solely for the purpose of fulfilling the services provided by the co-branded site and any related promotional offers. Shaadi.com may tie-up with partners to bring you various services (e.g. Shaadi Shop). However, Shaadi.com will never share your personal information, without your express permission. Still, Wwe encourage you to review the privacy policy of the co-branded partner for questions about their use of yourany personally identifiable information and how you can modify or delete itthat you may separately submit to such partner.
+Shaadi.com may tie-up with partners to bring you various services (e.g. Shaadi Shop). However, Shaadi.com will never share your personal information, without your express permission. Still, we encourage you to review the privacy policy of the partner for questions about their use, any personally identifiable information that you may separately submit to such partner.
 
 |   
   
@@ -192,7 +183,7 @@ Occasionally, we may also send you:
 * Special offers from partner sites, which we believe are useful for you.
 
 As a Shaadi.com member, you are automatically subscribed to all of the above, as an integral part of our matchmaking services to you. However, at any time, you may choose to manage your subscriptions to one or more of the above (except Contact Lens). All our emails will carry a link to help you do this. You can also independently manage your email subscription using the  
-[My Email Manager](https://web.archive.org/web/20040630203546id_/http%3A//www.shaadi.com/my_shaadi/my-emails.php) option.
+[My Email Manager](https://web.archive.org/my_shaadi/my-emails.php) option.
 
 We reiterate that we will never sell / rent out your email address to any third party, unless you expressly permit us to do so. In fact, we do not allow ANYONE to see your email address, not even other Shaadi.com members.
 
