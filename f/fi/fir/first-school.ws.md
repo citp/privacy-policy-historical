@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the first-school.ws privacy policy that was archived on 2002-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020810201318id_/http%3A//www.first-school.ws/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the first-school.ws privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618123552id_/http%3A//first-school.ws/privacypolicy.htm) for the most accurate reproduction.*
 
 # First-School's Privacy Policy
 
