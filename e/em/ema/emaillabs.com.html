@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the emaillabs.com privacy policy that was archived on 2004-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040612152024id_/http%3A//www.emaillabs.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the emaillabs.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204115109id_/http%3A//www.emaillabs.com/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>Privacy policy - EmailLabs - Uptilt</title>
@@ -37,11 +37,26 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
 //-->
 </script>
 </head>
 
-<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="preloadImages('images/dwpdf_clickhere2.gif');">
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="preloadImages('images/dwpdf_clickhere2.gif','images3/solution_figure_1on.gif','images3/solution_figure_2on.gif','images3/solution_figure_3on.gif','images3/solution_figure_4on.gif','images/requestinfo2.gif','images3/solution_figure_5on.gif','images3/BestPractices_diagram_1_on.gif','images3/BestPractices_diagram_1_on.gif','images3/BestPractices_diagram_2A_on.gif','images3/BestPractices_diagram_3A_on.gif','images3/BestPractices_diagram_3C_on.gif','images3/BestPractices_diagram_4A_on.gif','images3/BestPractices_diagram_4C.gif','images3/BestPractices_diagram_5A_on.gif','images3/BestPractices_diagram_2C_on.gif','images_tour/tour_menu_acctmgnt_on.gif','images_tour/tour_menu_demographic_on.gif','images_tour/tour_menu_member_on.gif','images_tour/tour_menu_messages_on.gif','images_tour/tour_menu_reports_on.gif','images_tour/tour_menu_advanced_on.gif','images3/quote_inbox_row1_on.gif','images3/quote_inbox_row2_on.gif','images3/techdeploy_row1_A_on.gif','images3/techdeploy_row1_C_on.gif','images3/techdeploy_row3_on.gif')">
 
 <table border="0" cellpadding="0" cellspacing="0" width="800">
 	
@@ -437,14 +452,19 @@ function MM_swapImage() { //v3.0
 <!-- END PRINT AND EMAIL ICON LINKS -->
 
 <!-- startprint -->
-                
-<p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#FF9900"><b>Privacy 
+                <p align="left"><font face="Verdana, Arial, Helvetica, sans-serif" size="3" color="#FF9900"><b>Privacy 
   Policy<br>
   </b></font><br>
   The following discloses our information gathering and dissemination practices 
   for the Uptilt and Email Labs websites. Please note that this policy in no way 
   supersedes, replaces or complements the privacy policies of our clients (see 
   Uptilt Clients below).<br>
+  <br>
+  Uptilt adheres to the European Union Safe Harbor principles as set forth by 
+  the United States Department of Commerce regarding the collection, use, and 
+  retention of personal information from the European Union. Our privacy practices 
+  are self-certified as part of the U.S. Commerce Department's Safe Harbor Program</p>
+<p align="left"> <em><strong>Notice</strong></em><br>
   <br>
   The Uptilt site offers several opportunities for visitors to register for free 
   information, seminars or demonstration copies of our software, and for assistance 
@@ -470,7 +490,12 @@ function MM_swapImage() { //v3.0
   The Uptilt web site contains links to other sites. Uptilt is not responsible 
   for the privacy practices or the content of such web sites and recommends that 
   viewers check the privacy policies of other sites to be aware of how your information 
-  is being used. <br>
+  is being used.<br>
+  <br>
+  <em><strong>Third Party Sharing<br>
+  </strong></em><br>
+  Information collected as referenced above is not shared or transferred to third 
+  parties except with your express permission or where required by law. <br>
   <b><i><br>
   Uptilt Clients</i></b><br>
   <br>
@@ -539,22 +564,29 @@ function MM_swapImage() { //v3.0
   <br>
   <b>Security <br>
   </b></i><br>
-  Uptilt uses industry standard technologies and processes, such as secure sockets 
-  layer and a physically protected data center, to protect your data. However, 
-  perfect security on the Internet is currently impossible. While we make every 
-  effort to protect your data, we do not guarantee that your data is perfectly 
-  protected. <br>
+  Uptilt uses industry standard security technologies and processes, such as secure 
+  sockets layer, encryption, and a physically protected data center, to protect 
+  your data. <br>
   <br>
-  <i><b>Choice</b></i> <br>
+  <i><b>Choice / Access</b></i><br>
   <br>
   Uptilt provides users the opportunity to opt-in and opt-out of receiving e-mail 
   communications from us. This is made available during sign-up for our e-mail 
-  lists and in e-mail messages delivered from Uptilt Systems. For any list managed 
-  by Uptilt, users can use the link in the footer of most e-mail messages. Alternatively, 
-  users can reply to an e-mail message according to the instructions at the bottom 
-  of the message.<br>
+  lists and in e-mail messages delivered from Uptilt Systems. Users requesting 
+  Uptilt e-mail communications may update, amend, or delete personal information 
+  by following the Profile Update links present in every Uptilt e-mail communication.<br>
   <br>
-  <i><b>Notice <br>
+  For any list managed by Uptilt, users can use the link in the footer of most 
+  e-mail messages. Alternatively, users can reply to an e-mail message according 
+  to the instructions at the bottom of the message.<br>
+  <br>
+  <em><strong>Enforcement</strong></em><br>
+  <br>
+  Uptilt privacy practices are self-certified as part of the U.S. Commerce Department's 
+  Safe Harbor Program. For more information please go to Safe Harbor Program website. 
+  <br>
+  <br>
+  <i><b>Notice of Change<br>
   </b></i>Uptilt reserves the right to change its privacy policy at any time. 
   Notifications of changes to our privacy practices will occur through one or 
   more of the following communications: </p>
@@ -600,7 +632,7 @@ function MM_swapImage() { //v3.0
 	<!-- footer -->
 	<tr>
 		<td class="dark_blue" colspan="2" align="center">
-		
+
 			<!-- 
 				START INCLUDED FILE FOR FOOTER AREA (AREA 1)
 							-->
@@ -628,8 +660,9 @@ function MM_swapImage() { //v3.0
 						<a href="antispam.html" class="footer">Anti-Spam Policy</a> | 
 						<a href="privacypolicy.html" class="footer">Privacy Policy</a> |
 						<a href="company.html" class="footer">Company</a><br>
-						
-						<a href="index.html" class="footer" title="EmailLabs - Email Marketing Software Solutions">EmailLabs - Email Marketing Software Solutions</a><br>
+      <a href="index.html" class="footer" title="EmailLabs - Email Marketing Software Solutions">EmailLabs 
+      - Email Marketing Software Solutions</a> | <a href="/resources_enewsletter_subscribe.html" class="footer">Email 
+      Newsletter</a><br>
 						© 2001-2004, EmailLabs - A Service of <a href="http://www.uptilt.com" class="footer">Uptilt</a>, Inc. All Rights Reserved<br>
 										</td>
 				</tr>
@@ -651,7 +684,7 @@ function MM_swapImage() { //v3.0
 <!-- COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy -->
 <script language="javascript">
 var _pn="Privacy Policy";    //page name(s)
-var _mlc="CONTENT+CATEGORY";  //multi-level content category
+var _mlc="";  //multi-level content category
 var _cp="null";   //campaign
 var _acct="WR540203KGBE71EN3"; 	//account number(s)
 var _pndef="title";  //default page name
