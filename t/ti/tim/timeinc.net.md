@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeinc.net privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606033033id_/http%3A//www.time.com/time/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeinc.net privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216064344id_/http%3A//www.time.com/time/documents/privacy) for the most accurate reproduction.*
 
 # TIME.com
 
