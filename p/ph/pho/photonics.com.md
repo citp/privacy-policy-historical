@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2000-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000617034504id_/http%3A//photonics.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206185700id_/http%3A//photonics.com/Privacy.html) for the most accurate reproduction.*
 
 # Photonics.com - Laurin Publishing Co. Inc.: Privacy Policy
 
