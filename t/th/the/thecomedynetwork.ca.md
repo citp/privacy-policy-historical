@@ -1,116 +1,72 @@
-> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202202034id_/http%3A//www.thecomedynetwork.com/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecomedynetwork.ca privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209113038id_/http%3A//www.thecomedynetwork.com/legal.asp) for the most accurate reproduction.*
 
-# Comedy Network
+# TheComedyNetwork.ca
 
-LEGAL NOTICE 
+ | 
 
-We welcome you to our website THECOMEDYNETWORK.CA. This website is the website of THE COMEDY NETWORK INC. ("TCN"), a company based out of Toronto, Canada. Through this website TCN wishes to bring you a wacky interactive experience. However, before you begin to use our website, there are a few legal notices (the"Legal Notice") we would like you to read: 
+**Bell Globemedia Interactive  
+Website Privacy Policy**
 
-A. USER AGREEMENT 
+(Last Updated on August 16, 2002) 
 
-Using this website indicates your consent to and agreement to be bound by this Legal Notice and any policies or practices contained therein. 
+Bell Globemedia Interactive respects the privacy of all of its users and is committed to protecting such privacy in accordance with this Privacy Policy. This Privacy Policy explains Bell Globemedia Interactive Inc.'s ("BGMI") treatment of your personally identifiable information collected in connection with your activities on or related to all BGMI websites referencing this Privacy Policy (the "BGMI Sites") and all services made available on the BGMI Sites (collectively, unless noted otherwise, the "BGMI Services"). This Privacy Policy also explains how you can ask questions and make suggestions about our privacy practices and review and update your personal information. 
 
-B. PRIVACY POLICY 
+We urge you to read this Privacy Policy carefully and to check back periodically as this Privacy Policy may change form time to time. Please note that this Privacy Policy does not apply to the practices of companies or websites which are not owned or controlled by BGMI. 
 
-Your privacy and the integrity of any information you provide us are important to us. As a result, we have created the following policy, developed pursuant to the Personal Information Protection and Electronic Documents Act, 2000 c.5. 
+**INFORMATION COLLECTED**  
+In the course of operating the BGMI Services, we may collect two types of information about our users: Personal Information and Non-Personal Information. 
 
-THE SCOPE OF THIS PRIVACY POLICY 
+"Personal Information" is personally identifiable information, such as your name, address, email address, birth date and gender. Personal Information is collected by us when you choose to provide it to us when registering for a BGMI Service, such as when you choose to subscribe to a BGMI Service, enter a BGMI promotion or choose to receive a BGMI newsletter. In addition, if you choose to contact any of our customer service representatives, we may keep a record of that correspondence so that we may fully address the subject matter. We may also receive Personal Information from our business partners and other third parties, provided that such third parties confirm to us that you have permitted them to share such information. 
 
-This policy applies to the THECOMEDYNETWORK.CA website only. It is designed to inform you of how and why TCN gathers personal and non-personal information about you. 
+Business contact information such as the name, title, business address, email address or telephone number of a business or professional person or an employee of an organization is not considered Personal Information. 
 
-This website is connected by "hyperlinks" to other websites. We are not responsible in any way for the privacy practices on other websites and suggest that you review the privacy policies on those linked websites before using them. 
+"Non-Personal Information" is information of an anonymous nature, such as an [Internet Protocol Address (IP Address)](http://www.bgminteractive.com/privacy/bgmi_privacy2.html#ip), the domain used to access a BGMI Service, and the type and version of browser or operating system being used. Aggregate information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors and average time spent on a BGMI Service, is also considered Non-Personal Information. 
 
-WE ARE ACCOUNTABLE TO YOU 
+Non-Personal Information is collected or derived by us in the course of operating the BGMI Services. For example, our Web servers may automatically collect Non-Personal Information which is provided through your browser or stored on a [Cookie](https://web.archive.org/web/20021209113038id_/http%3A//www.thecomedynetwork.com/bgmi_privacy2.html#cookies) or through a [Web Beacon](http://www.bgminteractive.com/privacy/bgmi_privacy2.html#cookies) when you choose to visit a BGMI Service. [Non-Personal Information is used by BGMI as described here.](http://www.bgminteractive.com/privacy/bgmi_privacy2.html#nonpersonal)
 
-We are accountable for our privacy practices on this website. If you have any questions or concerns regarding the privacy practices on this website, please address them, in writing to TCN's e-mail address. 
+**USE OF PERSONAL INFORMATION**  
+Personal Information may be used by us for the following purposes: 
 
-OUR INFORMATION PRACTICES 
+  * Providing you with the BGMI Services and information you have requested from us, including your use of the BGMI Sites. We may from time to time use your Personal Information to contact you about changes, enhancements or similar notices related to the BGMI Services; 
+  * If you indicated that you were interested in receiving offers or information from BGMI or certain of our selected sponsors or advertisers, BGMI or such sponsors or advertisers may send you email materials and other mailings about products and services that we feel may be of interest to you. If at any time you would like to end your subscription to any such email materials, follow the directions posted at the bottom of the email material; 
+  * If you enter a contest or other promotion offered on a BGMI Site, we may, under the rules of the promotion, use your name and certain other information to administer the promotion, such as contacting, announcing and promoting the winners of the promotion; 
+  * BGMI may also use Personal Information if it has reasonable grounds to believe the information could be useful when investigating a contravention of a federal, provincial or foreign law or in order to protect or defend a legal interest. 
 
-We cannot collect personally identifiable information from you without your consent. By voluntarily providing this personal information to us at various points when using our website, including, signing up for e-mail reminders, sending us a comment or suggestion, subscribing to our newsletter, using our message board or bulletin board, entering a contest or , submitting a joke, cartoon or radio clip or responding to our requests for your submissions of short stories, tabloids or newletter articles, you will be consenting to the collection, use and distribution of your personal information by TCN. TCN will collect, use and distribute information for purposes of running the contest, and as well as, distribution to sponsors which manage the contest for purposes of managing the contest and marketing (for example the sponsor directly contacting the contestant to promote products and services ) and distribution to third parties who may participate in the chatrooms and bulletin boards on the website as set out below. Additionally, T third parties collect aggregate and anonymous personal information and TCN have has access and use of that data. You are under no obligation to provide us with this information and can access many aspects of the website without providing us any personal information. By volunteering this personal information you are also agreeing to its collection, use and distribution for the purposes stated below. 
+**DISCLOSURE OF PERSONAL INFORMATION**  
+We will not sell or rent your Personal Information to anyone. We will only disclose your Personal Information to third parties: 
 
-THE PURPOSE OF OUR COLLECTING INFORMATION FROM YOU 
+  * Where you have specifically given us your consent to disclose your Personal Information for a designated purpose; 
+  * Who are acting on our behalf as our agents, suppliers or service providers, solely to enable us to more efficiently provide you with the BGMI Services. Such entities act under strict contractual controls, requiring them to maintain the confidentiality of all such Personal Information and to use such information solely for purposes related to the provision of the BGMI Services; 
+  * As may be set out in the Terms and Conditions applicable to a BGMI Service, to facilitate the provision of such BGMI Service, such as fulfilling legal requirements; 
+  * As required by law, including by an order of any court, institution or body with jurisdiction or authority to compel the production of information, or in order to protect or defend a legal interest; or 
+  * In connection with a BGMI corporate re-organization, merger or amalgamation with another entity, or a sale of all or a substantial portion of the assets of BGMI provided that the Personal Information disclosed continues to be used for the purposes permitted by this Privacy Policy by the entity acquiring the information. 
 
-We will use the personal information collected in the following ways: 
+**LINKS TO OTHER SITES AND ADVERTISEMENTS**  
+A BGMI Service may contain links to other websites and services. While we try to link only to sites and services that share our high standards and respect for privacy, please understand that we are not responsible for the content of, or the privacy practices employed by, other companies or websites. This Privacy Policy applies only to the BGMI Services referencing this Privacy Policy. 
 
-* To contact you if you have entered a contest.   
-* To keep aggregate information on demographics and website use.   
-* For web site development.   
-* To, at your option, send you a newsletter.   
-* To, at your option, send you e-mail reminders.   
-* To respond to your comments or concerns.   
-* To select you as contestant winners. 
+The majority of the advertisements which are displayed in connection with the BGMI Services are served through a reputable third party advertisement serving partner. If you would like to know more about what Non-Personal Information is collected and how information is used by our partner or about its "opt-out" procedures, please [click here](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)
 
+**SECURITY**  
+The security of your Personal Information is important to us. BGMI takes technical, contractual, administrative, and physical security steps to protect Personal Information that you provide to us. We instruct our employees with access to your Personal Information that it is to be used only in adherence with the principles set forth in this Privacy Policy and the laws applicable to each specific business. 
 
+In certain areas, such as when you provide credit card information to us, we work to help protect the security of your credit card information during transmission by using industry standard Secure Sockets Layer (SSL) encryption technology. 
 
+You can help protect the security of your Personal Information as well. For instance, never give out your password, since this is what is used to access your Account or Registration Information. Also remember to log out of your account and close your browser window when you finish using a BGMI Service or surfing the Web, so that other people using the same computer won't have access to your information. 
 
-We will not sell personal information, nor will we distribute it to third parties. By entering contests and bulletin boards or chatrooms, please be advised that you will have consented to the sharing of your personal information with co-sponsors of any contest and other third party participants in the bulletin board or chatroom. We cannot control what these third parties in the bulletin board or chatroom do with your personal information 
+**CHANGES TO THIS PRIVACY POLICY**  
+BGMI may from time to time change its Privacy Policy as new BGMI Services are added or old ones changed. Changes will be effective when notice of such change is posted at a BGMI Site. Please check this Privacy Policy regularly for updates by checking the date of "Last Update" at the top of this document. 
 
-Personally identifiable information, or personal information, is information that identifies you, as an individual, and includes things such as your, home address, home telephone number, and e-mail address. 
+**ADDITIONAL PRIVACY PROCEDURES**  
+Privacy procedures specific to a BGMI Service can be found on a BGMI Site at the location of the particular BGMI Service, or in additional terms referenced at such BGMI Site. Those procedures are an addendum to this policy, and are provided to you at the place where they will be of most use and relevance to you. 
 
-If you do decide to sign up for our newsletter there is a registration form you can fill out. If you decide to register for this newsletter you will need to provide us with the following information: your name, your postal code/zip code, your e-mail address and your internet connection speed. 
+**ACCESSING AND CHANGING ACCOUNT/ REGISTRATION INFORMATION**  
+BGMI provides you with the means to access, update, edit or delete any Account or Registration Information you may have provided to us at any time on your own by going to the appropriate page in the Account or Registration section of the relevant BGMI Service, and changing or deleting such information as desired. 
 
-At your option, there are further fields on the registration form to complete that request more personal information about you, such as your address. 
+If you are unsure whether we have a record containing any of your Personal Information and would like to confirm whether or not we do, please send an e-mail to our Privacy Manager at [privacy@bgminteractive.com](mailto:privacy@bgminteractive.com), indicating all e-mail addresses that you may have given us. 
 
-In addition, TCN collects non-personally identifiable information, which is information that does not identify you personally, but becomes available to us as a result of your visit to our website. This information includes: 
+If you decide at any time that you do not want to receive any e-mail materials to which you have subscribed, you may choose to unsubscribe to these e-mails by following the instructions at the bottom of the e-mail material. 
 
-  
-* Your IP address, a number automatically assigned your computer when you visit the website. Our server logs your IP address.   
-* Your Internet Service Provider (ISP).   
-* Your Web Browser. 
+**QUESTIONS, COMMENTS OR SUGGESTIONS**  
+If you have questions, comments or suggestions about this Privacy Policy or BGMI's privacy practices that were not answered here, send our Privacy Manager an e-mail at [privacy@bgminteractive.com](mailto:privacy@bgminteractive.com)
 
-
-One way we use this non-personal information is for studying aggregate demographics to aid us in our web site development. 
-
-We also use cookies on this website. Cookies are small text files that your web browser leaves on your hard drive to recognize you as a repeat user of our website, track your use of our website and target advertising. This allows for personalization of certain aspects of your visit to our site. If you do not want cookies to be used, you should access the features of your web browser for the procedure to disable the cookies. 
-
-We may collect personal and non-personal information in a non-identifying and aggregate form to enhance our website design and to share with advertisers and for statistical purposes. For example, we may share with an advertiser information that a certain number of individuals visited a certain area on our website or that a certain number of individuals from a specific city have registered on our website, but we would not divulge to them any information that could be used to identify you as an individual. This means that we will share aggregated demographic information with our partners and advertisers. This aggregate information is not linked to any personally identifiable information. 
-
-OPTING OUT OR MODIFYING YOUR INFORMATION: 
-
-You can subscribe to our newsletter. However, there will be instruction on how to unsubscribe from the newsletter on our website. 
-
-SAFEGUARDS WE HAVE IN PLACE 
-
-We understand that personal information over the internet is particularly vulnerable to unauthorized access, and to use or destruction of personal information. To this end, TCN employs reasonable managerial and technical measures to ensure that your information is secure. For example, all personally identifiable information is maintained behind a firewall. 
-
-OUR COMMITMENT TO OPENNESS 
-
-TCN is committed to making our policies regarding collection and use of information readily available to you. In the near future, TCN will post further information about its privacy policy. The name of person(s) responsible for TCN's policies and practices relating to the management of information: Ms. Dawn Fell, Group Vice-President, Human Resources for Bell Globemedia Inc. 
-
-CHILDREN 
-
-SOME OF THE CONTENT OF THIS WEBSITE IS INTENDED FOR ADULTS. Minors in the country, province or state in which they live can only use this website with the approval of a parent or guardian. 
-
-C. PERMITTED USE 
-
-Any names, titles, logos and designs displayed on the website that contain TCN names, titles, logos, or brands are the exclusive property and trademarks of TCN. 
-
-The contents of this website are the property of or are licensed to TCN and are protected by copyright as a collective work or compilation under Canadian copyright law. 
-
-Nothing in this website grants any right in or license to any intellectual property of TCN. You may only copy any material on this website to one computer for your own personal and non-commercial use. Any other use or reproduction of this website, in whole or in part, will be considered to be a violation of TCN's intellectual property rights. 
-
-D. DISCLAIMER 
-
-You are visiting this website at your own risk. TCN, its subsidiaries, affiliates, successors, assigns, agents, directors, employees, representatives and licensors shall not be responsible for any damages of any nature arising out of or relating to the use of this website or any hyperlinked website. 
-
-By visiting this website you are agreeing to save TCN, its subsidiaries, affiliates, successors, assigns, agents, directors, employees, representatives and licensors harmless from any damages, actions or causes of actions that may now or hereinafter arise out of your use of the website. 
-
-Further, you agree that this website and the information contained on it is provided to you "as is", and agree that TCN makes available to you this website and the information contained on it without warranties of any kind, whether express or implied, including but not limited to the implied warranties of timeliness, merchantability, fitness or non-infringement. 
-
-Further, TCN does not represent, warrant or endorse the accuracy, reliability, completeness or timeliness of any information, content, views, opinions, recommendations or advertisements, distributed through or accessed from any of the services contained on this website. TCN does not represent, warrant or endorse any product, information or material that is displayed, purchased or obtained by you as a result of an advertisement or any other information or offer displayed on this website. 
-
-E. JURISDICTION 
-
-The internet is international, however, TCN is a Canadian company with headquarters in Toronto, Ontario, Canada. Consequently, by visiting this website you agree that in all matters relating to this website you shall be governed by the laws of the province of Ontario or Canada, as applicable, and further, that you submit to the jurisdiction of the courts of the province of Ontario, Toronto Region. 
-
-You may not use this website if law prohibits you from doing so in the country in which you reside. 
-
-F. SUBMISSIONS 
-
-TCN welcomes your input, whether it is mailing in a joke, a radio clip, a cartoon or other material which you choose to submit to us. TCN will not use submissions to develop television series. When you submit an idea or suggestion you do so without compensation, at any time and in any manner from TCN. 
-
-TCN does not condone any lewd, defamatory, or discriminatory submissions and will reserve the right to pull any such submissions from the site. 
-
-TCN.COM reminds you to check this legal notice from time to time as it may change without notice. 
-
-BY CONTINUING TO USE THIS WEBSITE YOU ARE AGREEING TO ABIDE BY ALL THE TERMS AND CONDITIONS SET OUT IN THIS LEGAL NOTICE. 
+Copyright 2002 Bell Globemedia Interactive Inc. All Rights Reserved. 
