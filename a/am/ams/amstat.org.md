@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2003-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031222211215id_/http%3A//www.amstat.org/publications/amstat_online/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2004-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040422024352id_/http%3A//www.amstat.org/publications/amstat_online/policy/privacy.html) for the most accurate reproduction.*
 
 # American Statistical Association
 
