@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625004113id_/http%3A//powerhouse-fitness.co.uk/company_info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhouse-fitness.co.uk privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003014936id_/http%3A//powerhouse-fitness.co.uk/company_info/privacy.htm) for the most accurate reproduction.*
 
 # A Powerhouse® Website: Exercise Equipment, Fitness Equipment, Johnson Exercise Equipment, Ellipticals, Commercial Exercise Equipment
 
