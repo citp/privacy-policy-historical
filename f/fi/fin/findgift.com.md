@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604022000id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findgift.com privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014010043id_/http%3A//www.findgift.com/Services/Privacy-Policy) for the most accurate reproduction.*
 
 # FindGift.com Privacy Policy
 
@@ -52,8 +52,7 @@ FindGift.com does not offer services for use by children. We offer children's gi
 
 If you choose to visit FindGift.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](http://www.findgift.com/Services/Terms-and-Conditions/), including limitations on damages, arbitration of disputes, and application of the law of the state of Georgia. If you have any concern about privacy at FindGift.com, please send us an a thorough description to [comments@findgift.com](mailto:comments@findgift.com), and we will try to resolve it. Our business changes constantly. This Notice and the [Conditions of Use](http://www.findgift.com/Services/Terms-and-Conditions/) will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. You should check our website frequently to see recent changes. 
 
-   
-
+ 
 
 | 
 
