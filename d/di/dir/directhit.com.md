@@ -13,3 +13,42 @@ From time to time, we may also solicit anonymous personal profile information ab
 For more information or questions about our policy, please email us at [privacy@directhit.com](mailto:privacy@directhit.com).
 
 Copyright © 1997-1999 Direct Hit Technologies, Inc. [All rights reserved](https://web.archive.org/web/19990504185224id_/http%3A//www.directhit.com/legal.html).
+[](https://web.archive.org/index.html) |  |  [](http://www.amazon.com/exec/obidos/redirect-home/directhit)  
+  
+[**Home**](https://web.archive.org/index.html "Return to Direct Hit's Home Page")  
+
+
+|  | 
+
+[**Explore The Web**](https://web.archive.org/index.html "Explore the Web With Direct Hit")  
+
+
+|  | 
+
+[**Help**](https://web.archive.org/help.html "Get Help Using Direct Hit")  
+
+
+|  | 
+
+**About Direct Hit**  
+
+
+|  | 
+
+** **  
+  
+  
+|  | 
+
+**_Direct Hit Privacy Statement_**  
+[Home](https://web.archive.org/index.html)  >  [About Direct Hit](https://web.archive.org/about.html)  >  Privacy Statement 
+
+* * *
+
+Direct Hit supports protection of the individual's right to privacy online. At Direct Hit enabled sites, we collect anonymous information about submitted search requests and sites selected by anonymous users.
+
+We use this information to provide more relevant search results to other users. In the case of advertising supported sites, this information may also be used for providing users with more meaningful and relevant advertising.
+
+From time to time, we may also solicit anonymous personal profile information about individual users (i.e. age, gender, etc.) to be used for similar purposes. This personal information is gathered only with the user's knowing and active permission and participation.
+
+For more information or questions about our policy, please email us at [privacy@directhit.com](mailto:privacy@directhit.com).
