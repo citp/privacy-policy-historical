@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206155000id_/http%3A//www.inc.com/about/privacy/0%2C%2C8%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604165511id_/http%3A//inc.com/about/privacy/0%2C3834%2C8%2C00.html) for the most accurate reproduction.*
 
 # small business planning and advice at inc.com
 
@@ -10,11 +10,11 @@ Inc.com offers a variety of online resources. In order for you to make full use 
 
 When you sign up to receive an inc.com newsletter, you will be asked for your e-mail address.
 
-If you wish to participate in other inc.com services, such as Discussions, QuickQuote, create a BizCard or to access free tools, you will be asked to register for My inc.com. You'll give us a user name, password and e-mail address so that you can use the personalized features on our site. 
+If you wish to participate in other inc.com services, such as Discussions, create a BizCard or to access free tools, you will be asked to register for My inc.com. You'll give us a user name, password and e-mail address so that you can use the personalized features on our site. 
 
 **_Promotions_**
 
-Unless you opt out, we may use you're My inc.com registration information to send you promotional materials that we think may interest you.
+Unless you opt out, we may use your My inc.com registration information to send you promotional materials that we think may interest you.
 
 We do not provide or sell user names, e-mail addresses or registration information to any outside organization.
 
