@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phoenix.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603215326id_/http%3A//www.phoenix.gov/ESERVICES/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoenix.gov privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075114id_/http%3A//phoenix.gov/ESERVICES/privacy.html) for the most accurate reproduction.*
 
 # E-PHOENIX PRIVACY POLICY
 
