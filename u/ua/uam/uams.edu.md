@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uams.edu privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405062433id_/http%3A//www.uams.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uams.edu privacy policy that was archived on 2002-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020209182504id_/http%3A//www.uams.edu/privacy.htm) for the most accurate reproduction.*
 
 # Education College of Health Related Professions College of Medicine College of Nursing College of Pharmacy Graduate School Faculty
 
