@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604010636id_/http%3A//novelguide.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628203748id_/http%3A//novelguide.com/privacy_statement.html) for the most accurate reproduction.*
 
 # NovelGuide: Privacy Statement
 
 **Privacy Statement for Novelguide**
 
-IGD Solutions Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following  
+Novelguide.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following  
 discloses our information gathering and dissemination practices for this website: Novelguide.
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. 
@@ -49,20 +49,16 @@ request information about the visitor.
 This site gives users the following options for removing their information from our database to not receive future communications or to  
 no longer receive our service. 
 
-1.You can send email to admin@novelguide.com
+1.You can send email to admin@Novelguide.com
 
  **Correct/Update**
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-1.email admin@novelguide.com
+1.email admin@Novelguide.com
 
  **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Stephen J. Hyer  
-IGD Solutions Corporation  
-6082 Middle Lake Road  
-Clarkston, MI 48346  
-info@igdsolutions.com
+webmaster@novelguide.com
