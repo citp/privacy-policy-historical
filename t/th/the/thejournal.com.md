@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2003-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031220072629id_/http%3A//www.thejournal.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejournal.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613190354id_/http%3A//www.thejournal.com/privacy.cfm) for the most accurate reproduction.*
 
 # T.H.E. Journal Online: Privacy Statement
 
@@ -32,11 +32,10 @@ This site has security measures in place to protect the loss, misuse and alterat
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
   1. You can send email to [webmaster@thejournal.com](mailto:webmaster@thejournal.com)
-  2. You can send mail to the following postal address:
-
-
-
+  2. You can send mail to the following postal address:   
 17501 E. 17th Street, Suite 230, Tustin, CA 92780.
+
+
 
 **Correct/Update**
 
