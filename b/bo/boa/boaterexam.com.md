@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boaterexam.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204212703id_/http%3A//www.boaterexam.com/privacy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boaterexam.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622110004id_/http%3A//boaterexam.com/privacy1.html) for the most accurate reproduction.*
 
 # BoaterExam.Com
 
@@ -21,6 +21,10 @@ The customer has one year from the date of the registration to use his or her ID
 In the case where a customer uses a stolen credit card or cheque, or does not have permission for it's use, the customer may not receive his/her Operator Card and could face criminal charges.
 
 In the case where BoaterExam.com is able to reasonably confirm that an Exam Supervisor was not present during an exam, that a fraudulent name was used for the Supervisor, or that cheating took place, the customer will not receive a refund and will not receive his/her Operator's Card.
+
+### Quality Policy
+
+BoaterExam.com is dedicated to providing superior value to customers through quality leadership and continuous improvement in all of our services.
 
 ## Privacy Policy
 
@@ -46,7 +50,7 @@ Demographic and profile data is also collected at our site. This data is used to
 
 ### Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All customer information is encrypted with 56 bit encryption using a Secure Socket Layer (SSL) protocol to ensure a secure transmission. A VeriSign Secure Server Digital ID from VeriSign is installed on our server to ensure integrity is maintained.
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. All customer information is encrypted with 128 bit encryption using a Secure Socket Layer (SSL) protocol to ensure a secure transmission. A [Entrust Secure Server Digital ID](https://buy.entrust.net/secure-tpl/securityseal.cfm?ID=00078DA3-860D-1E03-969380A9B0ACFF2D-28244) from [Entrust](http://www.entrust.net/) is installed on our server to ensure integrity is maintained.
 
 BoaterExam.com does NOT store credit card information on our servers. Credit card information is sent directly to the appropriate financial institution and then removed from our systems.
 
