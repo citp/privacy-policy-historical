@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212185609id_/http%3A//www.internationalliving.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internationalliving.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606150934id_/http%3A//internationalliving.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - International Living
 
