@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the askwebhosting.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625000858id_/http%3A//askwebhosting.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askwebhosting.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206101626id_/http%3A//www.askwebhosting.com/privacy.php) for the most accurate reproduction.*
 
-# Web Hosting Directory - AskWebHosting -
+# Web Hosting Directory-Ask Web Hosting
 
 **Privacy statement**
 
