@@ -1,13 +1,9 @@
-> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622132642id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalremedies.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229190501id_/http%3A//www.herbalremedies.com/privacypolicy.html%231) for the most accurate reproduction.*
 
 # Privacy Policy
 
-****Free $5.49 Shipping Credit  
-Deducted On Orders Over $75.00!****
-
-[](https://www.scanalert.com/RatingVerify?ref=www.herbalremedies.com)
-
-**100% Satisfaction  
+  
+[](https://www.scanalert.com/RatingVerify?ref=www.herbalremedies.com) **100% Satisfaction  
 Guarantee
 
 **Customer Service**  
@@ -29,12 +25,11 @@ US FedEx 2 Bus days $9.99
 US FedEx Overnight $18.99  
 Worldwide FedEx $20.99 - up **
 
-********Free Shipping Credit  
-On Orders Over $75.00!  
-UP TO $5.49 credit  
-deducted at checkout!******| | [](https://web.archive.org/web/20040622132642id_/http%3A//www.herbalremedies.com/index.html)
+****
 
- _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
+**| | [](https://web.archive.org/web/20041229190501id_/http%3A//www.herbalremedies.com/index.html)
+
+_This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
 [Home](http://www.herbalremedies.com/) > Privacy / Security / Contact Us >
 
@@ -78,7 +73,7 @@ ___________________________________________
 ## Contact Information
 
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
-130 West 2nd Street  
+225 N Wolcott  
 Casper, Wyoming 82601  
 e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)   
 Fax us at: (1-307-577-6464) 
@@ -93,7 +88,7 @@ ___________________________________________
 This site gives users the following options for changing and modifying information you may have previously provided. 
 
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
-130 West 2nd Street  
+225 N Wolcott  
 Casper, Wyoming 82601  
 e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)   
 Fax us at: (1-307-577-6464) 
@@ -108,7 +103,7 @@ ___________________________________________
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
   1. You can send mail to the following postal address:  Herbal Remedies USA LLC  
-130 West 2nd Street  
+225 N Wolcott  
 Casper, Wyoming 82601  
 e-mail us at[ information@herbalremedies.com.](mailto:information@herbalremedies.com)   
 Fax us at: 1-307-577-6464 
