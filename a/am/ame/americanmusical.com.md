@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2003-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031213065830id_/http%3A//www.americanmusical.com/st/aspx/en/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanmusical.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604103717id_/http%3A//www.americanmusical.com/privacy.html) for the most accurate reproduction.*
 
 # American Musical Supply
 
@@ -54,4 +54,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 Tell us what you think  
 AMS welcomes your questions and comments about privacy. Please send e-mail to [feedback@americanmusical.com ](mailto:feedback@americanmusical.com). 
 
-[Return to Shopping](http://www.americanmusical.com/st/aspx/en/home.htm) | [Back to Help Center](http://www.americanmusical.com/st/aspx/en/help.htm)
+[Return to Shopping](http://www.americanmusical.com/home.html) | [Back to Help Center](http://www.americanmusical.com/help.html)
