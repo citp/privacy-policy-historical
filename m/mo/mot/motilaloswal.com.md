@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motilaloswal.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611204935id_/http%3A//motilaloswal.com/privpolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motilaloswal.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210082334id_/http%3A//www.motilaloswal.com/privpolicy.asp) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -41,6 +41,6 @@ MOSt may change this policy from time to time. You will be notified by posting a
 
 **Suggestions or Queries...**
 
-Your queries and suggestions are welcome on the following email [info@motilaloswal.com](mailto:info@motilaloswal.com). Alternatively you can fill a [feedback form](https://web.archive.org/web/20020611204935id_/http%3A//motilaloswal.com/ho_contactus.asp). 
+Your queries and suggestions are welcome on the following email [info@motilaloswal.com](mailto:info@motilaloswal.com). Alternatively you can fill a [feedback form](https://web.archive.org/web/20021210082334id_/http%3A//www.motilaloswal.com/ho_contactus.asp). 
 
-[<<Back to Home](https://web.archive.org/web/20020611204935id_/http%3A//motilaloswal.com/home.asp)
+[<<Back to Home](https://web.archive.org/web/20021210082334id_/http%3A//www.motilaloswal.com/home.asp)
