@@ -1,19 +1,6 @@
-> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204001629id_/http%3A//www.proboards.com/Home-Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proboards.com privacy policy that was archived on 2002-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020630194820id_/http%3A//proboards.com/Information-Privacy_Policy.html) for the most accurate reproduction.*
 
-# ProBoards.com - Free Customizable Hosted Message Boards!
-
- [ **Home**](https://web.archive.org/web/20011204001629id_/http%3A//www.proboards.com/index.html)  
- \- [Sign Up!](https://web.archive.org/web/20011204001629id_/http%3A//www.proboards.com/Home-Sign_Up!.html)  
- \- [Features](https://web.archive.org/web/20011204001629id_/http%3A//www.proboards.com/Home-Features.html)  
- \- [Privacy](https://web.archive.org/web/20011204001629id_/http%3A//www.proboards.com/Home-Privacy.html)  
- \- [Friends](https://web.archive.org/web/20011204001629id_/http%3A//www.proboards.com/Home-Friends.html)  
- \- [Examples](http://proboards.proboards.com/)  
- \- [Ad Free](https://web.archive.org/web/20011204001629id_/http%3A//www.proboards.com/Home-Ad_Free.html)  
-  
- [ **Support**](https://web.archive.org/web/20011204001629id_/http%3A//www.proboards.com/Support.html)  
- \- [FAQ](https://web.archive.org/web/20011204001629id_/http%3A//www.proboards.com/Support-FAQ.html)  
- \- [Contact Us](https://web.archive.org/web/20011204001629id_/http%3A//www.proboards.com/Support-Contact_Us.html)  
-|  |  **Privacy Policy**
+# ProBoards.com - Information: Privacy Policy
 
 ProBoards has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [ProBoards](https://web.archive.org/).
 
