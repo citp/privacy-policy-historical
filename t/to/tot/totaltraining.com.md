@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013055431id_/http%3A//www.totaltraining.com/2003privacy.asp%3Fmscsid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltraining.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207045006id_/http%3A//totaltraining.com/corp/privacy.asp%3Fmscsid%3D) for the most accurate reproduction.*
 
-# Total Training: Our Privacy Declaration
+# Total Training: Privacy Policy
 
 Total Training respects your privacy. This Online Privacy Statement is made available to you in order to make you aware of how Total Training collects and uses identifying information for individuals who visit Total Training's Web site. Total Training is committed to taking reasonable steps to protect information provided to us. From time to time, we may use information provided to us to better serve our customer's needs. This Statement explains what information is collected, how it is collected, how it may be used, and how you can take steps to safeguard your interests.
 
