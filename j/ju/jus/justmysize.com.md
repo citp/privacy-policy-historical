@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justmysize.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603170824id_/http%3A//www.justmysize.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justmysize.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206082752id_/http%3A//www.justmysize.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report%3Finfo%3Dprivacy) for the most accurate reproduction.*
 
-# Just My Size Plus Size Apparel and Lingerie !
+# Just My Size Plus Size Apparel and Lingerie !!
 
 This Privacy Policy Statement sets forth the privacy policy pertaining to this Site, www.justmysize.com which is owned by Net Apparel, LLC (" Net Apparel "). By using this Site, you are agreeing to the terms set forth in this Privacy Policy Statement. For other terms and conditions that apply to your use of the Site, please review our [Legal Statement](http://www.justmysize.com/cgi-bin/ncommerce/ExecMacro/info.d2w/report?info=legal).
 
