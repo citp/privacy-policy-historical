@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetlife.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012012052id_/http%3A//www.budgetlife.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetlife.com privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408234901id_/http%3A//www.budgetlife.com/privacy.htm) for the most accurate reproduction.*
 
 # Budget life insurance - clients say thank you!
 
