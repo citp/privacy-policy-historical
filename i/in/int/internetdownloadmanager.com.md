@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internetdownloadmanager.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615221222id_/http%3A//www.internetdownloadmanager.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetdownloadmanager.com privacy policy that was archived on 2004-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041230200241id_/http%3A//www.internetdownloadmanager.com/privacy.html) for the most accurate reproduction.*
 
 # Internet Download Manager - the fastest download accelerator
 
@@ -8,7 +8,7 @@ This Privacy Policy document explains our treatment of your personally identifia
 
 1\. INTERNET DOWNLOAD MANAGER WEBSITE 
 
-Tonec Inc. WILL NOT collect or use any information about visitors of this site, and your visit to the web site is strictly anonymous. The Web Site does not utilize "cookies". Cookies are identifiers that a web site can send to your browser to keep on your computer to facilitate your next visit to the site. 
+Tonec Inc. WILL NOT collect or use any information about visitors of this site, and your visit to the web site is strictly anonymous. 
 
 2\. COLLECTION OF INFORMATION 
 
