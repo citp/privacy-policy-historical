@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2004-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040410210418id_/http%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapfiles.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204011658id_/http%3A//www.snapfiles.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for WebAttack.com
 
@@ -69,7 +69,7 @@ We also send the user site and service announcement updates. Members are able to
 
 **Choice/Opt-out**
 
-Users who no longer wish to receive our newsletter may opt-out of receiving these communications by using the unsubscribe link include in every mailing or visiting [http://www.webattack.com/emupdate.html](https://web.archive.org/web/20040410210418id_/http%3A//www.snapfiles.com/subscribe/)
+Users who no longer wish to receive our newsletter may opt-out of receiving these communications by using the unsubscribe link include in every mailing or visiting [http://www.webattack.com/emupdate.html](https://web.archive.org/web/20041204011658id_/http%3A//www.snapfiles.com/subscribe/)
 
 **Notification of Changes**
 
