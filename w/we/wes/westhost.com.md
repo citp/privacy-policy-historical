@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westhost.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204234043id_/http%3A//www.westhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westhost.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402145103id_/http%3A//www.westhost.com/privacy.html) for the most accurate reproduction.*
 
 # WestHost Inc. - Privacy Policy
 
