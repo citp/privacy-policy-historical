@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biolifeplasma.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203224037id_/http%3A//biolifeplasma.com/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biolifeplasma.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604210359id_/http%3A//www.biolifeplasma.com/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ Before using this Site – and particularly before submitting personally identif
 
 SCOPE OF POLICY 
 
-Please be aware that this policy applies only to this Site. Within this Site, you may see links or references to other web sites, such as our online incentives partner, MyPoints.com, which are not covered by this policy and are likely to have different information practices. We therefore encourage you to read the privacy policy of each web site you visit. We provide these references and links for your convenience; they should not be construed as an endorsement of such sites, their content, or their information practices. You are solely responsible for any interactions you may have with such web sites.
+Please be aware that this policy applies only to this Site. Within this Site, you may see links or references to other web sites which are not covered by this policy and are likely to have different information practices. We therefore encourage you to read the privacy policy of each web site you visit. We provide these references and links for your convenience; they should not be construed as an endorsement of such sites, their content, or their information practices. You are solely responsible for any interactions you may have with such web sites.
 
 ACTIVE INFORMATION COLLECTION 
 
@@ -50,7 +50,7 @@ Below we have summarized the primary means of passive information collection at 
 
 **Cookies**
 
-This Site uses cookies, which are small text files that store non-personally identifiable information about you, either temporarily in connection with your Internet Protocol (IP) address (known as a temporary or session cookie, and deleted once you close your browser window) or more permanently on the hard drive of your computer (known as a permanent or persistent cookie). **This Site uses session cookies so that you do not have to fill in the same information from page to page within BioLife. If you elect not to receive cookies, you will continue to be able to schedule plasma donations by calling your donor center or scheduling in person. However, you will not be able to participate in our incentive program with MyPoints.com.**
+This Site uses cookies, which are small text files that store non-personally identifiable information about you, either temporarily in connection with your Internet Protocol (IP) address (known as a temporary or session cookie, and deleted once you close your browser window) or more permanently on the hard drive of your computer (known as a permanent or persistent cookie). **This Site uses session cookies so that you do not have to fill in the same information from page to page within BioLife.**
 
 **Internet Protocol (IP) Addresses**
 
@@ -58,7 +58,7 @@ This Site uses Internet protocol (IP) addresses. IP addresses are unique identif
 
 WHAT WE DO WITH YOUR INFORMATION 
 
-The personally identifiable information we collect from you will only be used and disclosed in accordance with this policy or as specifically disclosed to you at the time you provide the information. We will not sell, lease, transfer, share, or otherwise permit access to your personally identifiable information with any third parties other than as described in this policy. In order to redeem BioLife points that you have earned you must provide us with your e-mail address and some basic demographic information which will be provided to MyPoints.com, Inc. We reserve the right to sell, lease, transfer, or otherwise share without restriction aggregated, de-identified, and other non-personally identifiable information regarding site usage, sales, traffic patterns, demographics, and other statistics about our Site or those from whom we collect information via BioLife. We reserve the right to use or disclose personal information provided via this Site as necessary to respond to your requests, comply with applicable laws, regulations, legal processes, and law enforcement inquiries, as required by litigation, to take precautions against liability, and protect the security and integrity of the Site and the safety of its users.
+The personally identifiable information we collect from you will only be used and disclosed in accordance with this policy or as specifically disclosed to you at the time you provide the information. We will not sell, lease, transfer, share, or otherwise permit access to your personally identifiable information with any third parties other than as described in this policy. We reserve the right to sell, lease, transfer, or otherwise share without restriction aggregated, de-identified, and other non-personally identifiable information regarding site usage, sales, traffic patterns, demographics, and other statistics about our Site or those from whom we collect information via BioLife. We reserve the right to use or disclose personal information provided via this Site as necessary to respond to your requests, comply with applicable laws, regulations, legal processes, and law enforcement inquiries, as required by litigation, to take precautions against liability, and protect the security and integrity of the Site and the safety of its users.
 
 OPTING OUT 
 
@@ -90,4 +90,4 @@ CHANGES TO THIS POLICY
 
 We reserve the right to change this Policy at any time and in our sole discretion. If we do change the Policy, the new Policy will be posted here, along with its revision date, and all information collected following the posting of such changes will be subject to the new Policy. We want you to know, however, that before we use or disclose your previously collected personally identifiable information in a materially different manner from that to which you agreed, we will first secure your affirmative consent for such use or disclosure. Absent such consent, we will **use your personally identifiable information in accordance with the Policy in effect at the time we collected the information.** In the event that you do not consent to the terms and conditions of the new Policy, you may continue to schedule donations by calling the BioLife Plasma Services center near you. We encourage you to check this Policy periodically and – at a minimum – before each instance in which you provide personally identifiable information via this Site.
 
-This policy was last revised on July 2, 2002.
+This policy was last revised on March 12, 2004.
