@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the travelnow.com privacy policy that was archived on 2003-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031224094048id_/http%3A//www2.travelnow.com/index.jsp%3FpageName%3Dprivacy%26cid%3D1) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelnow.com privacy policy that was archived on 2004-05-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040504192330id_/http%3A//www.travelnow.com/index.jsp%3FpageName%3Dprivacy%26cid%3D1) for the most accurate reproduction.-->
 
 <html><head>
+<link rel="stylesheet" type="text/css" href="/components/css/main.jsp?cid=1">
 <title>travel now . com -- infocenter</title>
 <script language="javascript" src="/jsIncludes/indexJS.js"></script>
 <script language="javascript" src="/jsIncludes/datesChange.js"></script>
@@ -14,6 +15,9 @@ return true;
 }
 window.onerror = handleError;
 function openPopUnder() {
+if(document.cookie.indexOf("popunder") != -1){ return; } //check for popunder cookie return if found
+//create a cookie name = popunder value = false cookie expires at end of session
+document.cookie = "popunder=false;";
 var agt=navigator.userAgent.toLowerCase();
 var is_aol = (agt.indexOf("aol") != -1);
 if (is_aol == false || is_aol == 0) {
@@ -21,207 +25,11 @@ popUnderWindow = window.open('/popups/popunders/tnowPopunder.jsp','popunder','to
 self.focus();
 }
 }
+function deleteCookie(name) {
+document.cookie = name + '=false; expires=Fri, 27 Jul 2001 02:47:11 UTC;path=/';
+}
 //-->
 </script>
-<style>
-a:link{color:inherit;font-size:inherit;}
-a:active{color:inherit;font-size:inherit;}
-a:hover{color: inherit;text-decoration:none; font-size:inherit;}
-a:visited{color: inherit; font-size:inherit;}
-a.blackReg {text-decoration:none; color:#000000; font-weight:bold;}
-a.blueReg {text-decoration:none; color:#000000;}
-a.footerlink:hover{color:#000000;text-decoration:none}
-a.footerlink{color:#000000;text-decoration:underline}
-a.foot-nav-link {color:#2966AA; text-decoration : none;}
-a.foot-nav-link:hover {color:#2966AA; text-decoration : underline;}
-a.todayReg {text-decoration:none; color:#FF0000;}
-a.top-nav-link {color:#2966AA; font-size:12px; font-weight: bold; }
-blockquote,form, input,select,div,h1,h2,h3,h4,li,ol,p,td,textarea,th,ul {font-size: 11px; font-family: arial, helvetica, sans-serif;}
-.addrates{border-bottom-color:#A9A9A9;border-bottom-style:dashed;border-bottom-width:1px;color:#0D447F;font:11px Arial,Helvetica,sans-serif}
-.areaREGtext { font-size: 14px;}
-.areaREGbigtext { font-size: 18px; font-weight: bold;}
-.awhite {color:white;font-size:10px;}
-.bgcolor{background-color:#FFFFFF}
-.black{background-color:Black; color:#FFFFFF;}
-.blu-line { background-color : #5386BE; height : 2px; width : 100%;}
-.body-cal {background-color:#FFFFFF;}
-.calBorder {border-top-style : solid; border-top-width : 1px; border-top-color : #0D447F; border-bottom-color : #0D447F; border-bottom-style : solid; border-bottom-width : 1px; border-left-color : #0D447F; border-left-style : solid; border-left-width : 1px; border-right-color : #0D447F; border-right-style : solid; border-right-width : 1px;}
-.carsvnc{border-bottom-color:#A9A9A9;border-bottom-style:dashed;border-bottom-width:1px;color:#0D447F;font:bold xx-small;padding:3px;}
-.cityheader {font-weight: bold; font-size: 16px; color: #0D447F; background: #696969}
-.cityradio {font-weight: bold; font-size: 12px; color: #000000; background: #FFFFFF}
-.cityradio:hover{color:#FF0000}
-.darkSubText{color:#373737}
-.darkText {color:#0D447F;}
-.dashedLineTop {border-top-style: dashed; border-top-height:1px; border-top-width: 1px}
-.dateOf {background-color:silver;}
-.errorText {color:red}
-.errorTextBold {color:red; font-weight:bold;}
-.font-size10 {font-size: 10px;}
-.foot-nav { color : #2966AA;}
-.footerlink{color:#000000;text-decoration:underline}/* link, active and visited replace this class...REMOVE when complete*/
-.footertext{color:#000000;}
-.infoPicBorder {border: #676767 1px solid;}
-.listSpecialStrike {text-decoration : line-through;}
-.masterBLACK{color:#0D447F}
-.masterBOLD {font-weight: bold;}
-.newsletter-bg { background-image: url(/images/newsletter-bg.gif)}
-.OLDfullblue-box {background:#EEF3F9;border:1px solid #0D447F;color:#0D447F;line-height:normal;padding:3px}
-.OLDlistblue-top {background:#EEF3F9;border-left:1px solid #0D447F;border-top:1px solid #0D447F;color:#0D447F;display:block;line-height:normal;padding:3px}
-.OLDwhite-barL{background:#FFFFFF;border-left:1px solid #0D447F;display:block;line-height:normal;padding:3px}
-.quotetext {font-weight: bold; font-size: 10px; color: #0D447F;}
-.redspecial{color:#BB0000;font-weight:bold; vertical-align:text-top}
-.redspecialsmall{color:#BB0000;font-size:10px; vertical-align:text-top}
-.refine-bold { font-weight : bold;}
-.search-bold {font-weight:bold}
-.SIRprice {color:#FF7F02; font-weight: bold;}
-.showHand {cursor:hand}
-.text-size12BLACK {font-size: 12px; color: #0D447F;}
-.text-size12BOLD{font:bold 12px; }
-.text-size14BOLD{font:bold 14px; }
-.text-size16BOLD{font:bold 16px; }
-.tnow-section-hdr {font-size: 14px; color:#FF6600 ; font-weight: bold;}
-.tollFreeTextColor {color:FF0000; font-weight:bold;}
-.top-iconbg {background-color: #0D447F;}
-.top-nav { background-image : url(/images/header/top-nav-bg.gif) }
-.top-nav-faq { background-image : url(/images/header/top-faq-bg.gif) ; font-weight : bold; color : #2966AA; font-size : 12px; }
-.welcome { position : absolute; left : 0px; top : 96px ;}
-.whiteText {color:#FFFFFF;}
-.whiteBG {background:#FFFFFF;}
-body {font-size: 11px; font-family: arial, helvetica, sans-serif; margin-left : 0; margin-right : 0; margin-top : 0; margin-bottom : 0; color:#0D447F; }
-a.blueBoldLink {color:#0D447F; font-weight:bold;}
-a.blue16BoldLink {text-decoration:none; color:#0D447F; font-weight:bold; font-size:16px;}
-a.copyright-link {color:#545454; text-decoration: none;font-size:10px;}
-a.EOR {color: #FFFFFF; font-weight: bold;text-decoration:none;}
-a.gds-checkrates {color:#108211; font-weight: bold; }
-a.guara-link {color : #FFFFFF; font-weight : bold;}
-a.listHotelName {color:#000000; font-weight:bold; text-decoration: none;}
-a.search-link:link {font-weight:bold; text-decoration:none; color: #0D477F;}
-a.search-link:active {font-weight:bold; text-decoration:none;color: #0D477F;}
-a.search-link:hover {font-weight:bold;color: #0D477F;}
-a.search-link:visited {font-weight:bold; text-decoration:none;color: #0D477F;}
-a.SIRorng {color:#FF7F02; font-weight: bold; }
-a.SIRsort {color:#FFFFFF;font-weight: bold;}
-a.roomsleft-copy:link {color: #FF6600; font-weight: bold; text-decoration: none;}
-a.roomsleft-copy:active {color: #FF6600; font-weight: bold; text-decoration: none;}
-a.roomsleft-copy:hover {color: #FF6600; font-weight: bold;}
-a.roomsleft-copy:visited {color: #FF6600; font-weight: bold; text-decoration: none;}
-.bannerBG { background: #5386BF;}
-.bannerborder { border-color : #000000; border-style : solid; border-width: 1px;}
-.bg-caltop {background:#0D447F;font-weight:bold;font-size:12px;color:#FFFFFF}
-.blackBold {color: #000000; font-weight: bold;}
-.blu-bg-Lside {background: url(/images/blu-bg-Lside.gif) #EEF3F9; repeat-background: repeat-y;}
-.blu-bg-Rside {background: url(/images/blu-bg-Rside.gif) #EEF3F9; repeat-background: repeat-y;}
-.blu-bg-Bside {background: url(/images/blu-bg-Bside.gif) #EEF3F9; repeat-background: repeat-x;}
-.blu-bg {background: #EEF3F9; }
-.btn-green-copy {background: url(/images/btn-green-bg.gif); color: #FFFFFF; font-weight: bold; font-size: 11px;}
-.button {background: url(/images/btn-green-bg.gif) #44A144; color: #FFFFFF; font-weight: bold; font-size: 11px;border-bottom:none;border-top:none;border-left:none;border-right:none;height:16px;cursor:hand}
-.caltop-border {border-left-color : White; border-left-width : 2px; border-right-color : White; border-right-width : 2px; border-top-color : White;border-top-width : 2px; border-left-style : solid; border-top-style : solid; border-right-style : solid; }
-.cancelGrey {background: #EFEFEF}
-.colblue-hdrtop {background: #5386BE; font-weight: bold; color: #FFFFFF; padding-left: 7px;}
-.copyright { color : #545454; font-size:10px;}
-.dest-pic { border-color : #000000; border-style : solid; border-width: 1px;}
-.dest-bg-Lside {background: url(/images/dest-bg-Lside.gif) #FFFFFF; repeat-background: repeat-y;}
-.dest-bg-Rside {background: url(/images/dest-bg-Rside.gif) #FFFFFF; repeat-background: repeat-y;}
-.dest-bg-Bside {background: url(/images/dest-bg-Bside.gif) #FFFFFF; repeat-background: repeat-x;}
-.dkblue {color:#637694; font-weight:bold; background-image: url(/images/top_bg.gif);}
-.drk-orange {background:#FD6303; border:1px solid #FD6303; color:#FFFFFF; line-height:normal;padding:3px}
-.EORbg {background: #FF6600; color: #FFFFFF; font-weight: bold; height:20px;}
-.EARbg {background: #0D477F; color: #FFFFFF; font-weight: bold; height:20px;}
-.fixIt {background-color: #FFFFFF; height: 100%; width: 100%;}
-.greyout {font-weight:bold; color:#A9A9A9 }
-.gds-hdr {font-size: 14px; font-weight: bold;}
-.gds-darklist {background: #EEF3F9 ; padding: 4px ; border: #A9A9A9 1px solid;}
-.gds-lightlist{background: #FFFFFF; padding:4px ;border: #A9A9A9 1px solid;}
-.greybutton {background: url(/images/btn-grey-bg.gif) #727272; color: #FFFFFF; font-weight: bold; font-size: 11px;border-bottom:none;border-top:none;border-left:none;border-right:none;height:16px;cursor:hand}
-.guara-bg { background: #FF7F02; color: #FFFFFF;}
-.guides-border { background : #FFFFFF; border-color : #719ED1; border-style : solid; border-width: 1px;}
-.htd-title {font-size:22px; color : #0D447F; font-weight: bolder;}
-.hundredPercent {height: 100%;}
-.ianBox { background : #FFFFFF; font-weight : bold; padding-top : 3px; }
-.lang-curr { background : url(/images/lang-curr-bg.gif) ; border-color : #C3C3C3; border-style : solid; border-width: 1px;}
-.ltblue-hdrtop {background: url(/images/ltblue-hdrtopBG.gif) #EEF3F9; font-weight : bold; padding-left : 7px; padding-top: 2px;}
-.ltblue-hdrtop2 {background: url(/images/ltblue-hdrtopBG.gif) #EEF3F9; padding-left : 7px; padding-top: 2px;}
-.listBG {background: #FFFDE6;}
-.listBGprice {background: #FFFDE6; font-weight: bold;padding-top:4px; padding-bottom: 4px;}
-.listBlueline {background: #EBEBEB ;}
-.listBorder1pxBlue {background: #FFFFFF ; border : 1px solid #5386BE; padding: 4px;}
-.listDarkline {background: #0D447F ; width: 100%; height: 1px;}
-.listSpecial {color:#FF6600; font-weight: bold;}
-.listTableBG {background: #FFFFFF; padding: 4px;}
-.listTag {color: #727272}
-.lt-orange {background:#FDECE2; border-bottom:1px solid #FD6303; border-left:1px solid #FD6303; border-right:1px solid #FD6303; border-top:none; padding:3px;}
-.listVR {color:#44A144; font-weight:bold}
-.masterBorder1pxBlue {background: #FFFFFF ; border : 1px solid #5386BE; padding: 7px}
-.masterPicBox {border: 1px solid #000000;}
-.masterREDplain {color: #FF0000}
-.netdetail {font-size: 10px; color: #676767;}
-.newsletter-border { border-color : #719ED1; border-style : solid; border-width: 1px; }
-.pop-topbgcolor {background: #0D437F; color :#E5EEF7 ; font-weight : bold; height : 41px;}
-.pop-botbgcolor1 { background : #C3C3C3 ;}
-.pop-botbgcolor2 { background : #E2E2E2 ; height : 20px;}
-.popupContent {overflow:auto;height:235px;}
-.processin-bg {background-color : #E4E8F1;}
-.processout-bg {background-color : #9EB5D4;}
-.refineBorder { border-left-color : #C2C2C2; border-left-style : solid; border-left-width : 1px; border-right-color : #C2C2C2; border-right-style : solid; border-right-width : 1px;}
-.refineBorder-botline { background : #C2C2C2;}
-.refine-dkblue { background : #0D437F; color : #FFFFFF; font-weight : bold;}
-.refine-colblue { background : #5386BF; color : #FFFFFF; font-weight : bold;}
-.refineTable { background : #EEF3F9; border: #0D447F 1px solid;padding:3px; width: 150px;}
-.refinedivline {background-color : #696969; width: 140px; height:1px;}
-.rsb-deals-hdr {color: #0D447F; letter-spacing : 3px; font-weight:bold; font-size : 12px;}
-.rsb-deals { background:#FFF7E9; border-color : #FF7E00; border-style : solid; border-width: 1px;}
-.rsb-offers-hdr {color: #0D447F; letter-spacing : 2px; font-weight:bold; font-size : 12px;}
-.secondarySearchbox {background:#EEF3F9 ; border: 2px solid #0D447F;}
-.secondarySearchbox-top {background: #0D447F; font-weight : bold; color: #FFFFFF; padding-left : 7px;}
-.secondarySearch2 {background:#EEF3F9}
-.secondarySearchLine {background:#0D447F; height:1px; width: 100%; }
-.section-hdr {color: #0D447F; letter-spacing : 2px; font-weight:bold; font-size : 12px;}
-.SIRbluebold {color: #5587BC; font-weight: bold;}
-.SIRgreybox {background: #EBEBEB; border-color : #C2C2C2; border-left-style : solid; border-left-width : 2px; border-right-style : solid; border-right-width : 2px; border-top-style : solid; border-top-width : 2px;}
-.SIRgreybox2 {background: #EBEBEB; border-color : #C2C2C2; border-left-style : solid; border-left-width : 2px; border-right-style : solid; border-right-width : 2px; border-top-style : solid; border-top-width : 2px; border-bottom-width : 2px; border-bottom-style : solid;}
-.SIRorng {color:#FF7F02; font-weight: bold;}
-.SIRsort-off{color:#FFFFFF; font-weight: bold;}
-.SIRcolblue { background : #5386BF; color : #FFFFFF;padding-left:3px;padding-bottom: 3px; padding-top:0px;}
-.SIRsortbg {background: url(images/sort_bg.gif) #5386BF; background-repeat: repeat-x; font-weight: bold;padding-left:5px;color : #FFFFFF;}
-.SIRtnowGrey {background: #EBEBEB;}
-.SIRtnowTopLine {background: url('/images/SIRtopLine.gif'); height: 4px; width: 100%; background-repeat: repeat; }
-.SIRtnowLeftLine {background: url('/images/SIRleftLine.gif'); height: 100%; width: 4px; background-repeat: repeat; }
-.SIRtnowRightLine {background: url('/images/SIRrightLine.gif'); height: 100%; width: 4px; background-repeat: repeat; }
-.switcheroo-border { background : #EEF3F9; border: #0D447F solid 1px;}
-.switcheroo-hr {background:#0D447F;}
-.whiteBold {color:#FFFFFF; font-weight:bold;}
-.whiteBG {background: #FFFFFF}
-.switcheroo-pkging { background : #FFFEE2; border-width : 2px; border-style : solid; border-right : #FF9C00; border-left : #FF9C00;}
-.switcheroo-pkgingblue { background : #E5EEF7; border-width : 2px; border-style : solid; border-right : #FF9C00; border-left : #FF9C00;}
-.list-descrip {font-size: 10px; color: #666666;}
-.list-thumbBdr {border: 2px solid #A9A9A9;}
-div.greybox1{float:left}
-#a199001{color:#BB0000}
-#a199002{background:#808080;border:1px solid #808080;color:inherit;font-size:11px ;padding:3px}
-#a199007{background:#FFFFFF;border-bottom:solid 1px #0D447F;border-left:solid 1px #0D447F;border-right:solid 1px #0D447F;border-top:none;display:block;padding:3px;color:#0D447F}
-#a199015 {background:#FFFFFF;border:1px solid #BB0000;color:#BB0000;line-height:normal;padding:3px;text-align:center;}
-#c199007{background:#FFFFFF;border-bottom:1px solid #0D447F;border-left:1px solid #0D447F;border-right:1px solid #0D447F;padding:3px;}
-#c199017{background:#FFFFFF;border-bottom:1px solid #0D447F;padding:3px;}
-#h199015{background:#0D447F;border:1px solid #0D447F;color:#FFFFFF;line-height:normal;padding:3px}
-#h199017{background:#EEF3F9;border-bottom:1px solid #0D447F;border-left:1px solid #0D447F;border-right:1px solid #0D447F;border-top:none;padding:3px;color:#0D447F;}
-#a199006 {background:url(/images/dg-bg.gif) #C3C4DB repeat-x top;border:1px solid #C3C4DB;padding-bottom:2px;text-align:center}
-#a199016 { color: #0D447F; line-height: normal; background-color: #FFFFFF; padding: 3px; border: solid 1px #bb0000 }
-#c199010{background:#E5E5E5;}
-#f199005{background: #FD6303;border:1px solid #0D447F;color:#FFFFFF;line-height:normal;padding:3px;}
-#f199007{background:#FFFFFF;border-bottom:1px solid #0D447F;border-left:1px solid #0D447F;border-right:1px solid #0D447F;border-top:none;padding:3px;}
-#f199010{background:#FDECE2;}
-.small-text{font-size: 10px; }
-.refine-padding { padding-top: 3px;}
-.pastDate {color:#A2A1A1;}
-.pkg-save {color:#FF7E00; font-weight:bold;}
-.switcheroo-pkging-bgT {background-image: url(/images/switcheroo-pkging-bgT.gif)}
-.switcheroo-pkging-bgB {background-image: url(/images/switcheroo-pkging-bgB.gif)}
-#h199019{background:#FFFFFF;border-bottom:1px solid #0D447F;border-left:1px solid #0D447F;border-right:1px solid #0D447F;border-top:none;padding:2px;color:#0D447F;}
-#h199018{border-bottom:1px solid #0D447F;border-left:1px solid #0D447F;border-right:1px solid #0D447F;border-top: 1px solid #0D447F;padding:0px;color:#0D447F;}
-#synapse4{background:#0066CC;border:1px solid #0066CC;color:#FFFFFF;line-height:normal;padding:3px}
-#synapse5{background:#FFFFFF;border-bottom:1px solid #0066CC;border-left:1px solid #0066CC;border-right:1px solid #0066CC;border-top:none;padding:3px;color:#0D447F;}
-#synapse6{background:#3399FF;border-bottom:1px solid #0066CC;border-left:1px solid #0066CC;border-right:1px solid #0066CC;border-top:none;padding:3px;color:#FFFFCC;}
-</style>
 </head>
 <body bgcolor="#FFFFFF" alink="" vlink="" link="" text="#0D447F" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">
 <a name="top">
@@ -235,41 +43,31 @@ thor = window.open('/components/processing.jsp?cid=1','thor','top=200,left=220,w
 </script>
 <table width="770" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td width="418" class="top-iconbg"><a href="/index.jsp?cid=1"><img src="/images/header/top-logo.gif" alt="TravelNow.com" border="0"></a></td>
-<td width="335" class="top-iconbg" align="right">
-<table cellspacing="0" cellpadding="0" border="0" width="100%" align="right">
-<tbody><tr align="right">
-<td align="right">
-<a href="/index.jsp?pageName=airSearch&amp;cid=1&amp;advancedOptions=true" onmouseover="image4.src='/images/header/i18n/en_top-flightsOVER.gif';" onmouseout="image4.src='/images/header/i18n/en_top-flights.gif';"><img name="image4" src="/images/header/i18n/en_top-flights.gif" alt="Flights" border="0"></a>
-<a href="/index.jsp?pageName=hotSearch&amp;cid=1" onmouseover="image1.src='/images/header/i18n/en_top-hotelsOVER.gif';" onmouseout="image1.src='/images/header/i18n/en_top-hotels.gif';"><img name="image1" src="/images/header/i18n/en_top-hotels.gif" alt="Hotels" border="0"></a>
-<a href="/index.jsp?pageName=carSearch&amp;cid=1" onmouseover="image3.src='/images/header/i18n/en_top-carsOVER.gif';" onmouseout="image3.src='/images/header/i18n/en_top-cars.gif';"><img name="image3" src="/images/header/i18n/en_top-cars.gif" alt="Cars" border="0"></a>
-<a href="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=pkglaunch&amp;eapid=11478-30001" onclick="return fc_click('Packages Link', 'ad', 'http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=pkglaunch&amp;eapid=11478-30001');" onmouseover="image6.src='/images/header/i18n/en_top-pkgsOVER.gif';" onmouseout="image6.src='/images/header/i18n/en_top-pkgs.gif';"><img name="image6" src="/images/header/i18n/en_top-pkgs.gif" alt="Vacation Packages" border="0"></a>
-<a href="/index.jsp?pageName=condos&amp;cid=1" onmouseover="image2.src='/images/header/i18n/en_top-rentalsOVER.gif';" onmouseout="image2.src='/images/header/i18n/en_top-rentals.gif';"><img name="image2" src="/images/header/i18n/en_top-rentals.gif" alt="Vacation Rentals" border="0"></a>
-<a href="/go.jsp?link=http://cruises.travelnow.com" onclick="return fc_click('Cruises Link', 'ad', 'http://cruises.travelnow.com');" onmouseover="image5.src='/images/header/i18n/en_top-cruisesOVER.gif';" onmouseout="image5.src='/images/header/i18n/en_top-cruises.gif';"><img name="image5" src="/images/header/i18n/en_top-cruises.gif" alt="Cruises" border="0"></a>
+<td class="top-iconbg" width="391"><a href="/index.jsp?cid=1"><img src="/images/header/top-logo.gif" alt="TravelNow.com" border="0"></a></td>
+<td class="top-iconbg" align="right" nowrap="">
+<div align="right" style="padding-right:10px;">
+<a href="/index.jsp?pageName=rtHome&amp;cid=1" onmouseover="image7.src='/images/header/i18n/en_top-roadtripOVER.gif';" onmouseout="image7.src='/images/header/i18n/en_top-roadtrip.gif';"><img name="image7" src="/images/header/i18n/en_top-roadtrip.gif" alt="Road Trips" border="0"></a><a href="/index.jsp?pageName=airSearch&amp;cid=1&amp;advancedOptions=true" onmouseover="image4.src='/images/header/i18n/en_top-flightsOVER.gif';" onmouseout="image4.src='/images/header/i18n/en_top-flights.gif';"><img name="image4" src="/images/header/i18n/en_top-flights.gif" alt="Flights" border="0"></a><a href="/index.jsp?pageName=hotSearch&amp;cid=1" onmouseover="image1.src='/images/header/i18n/en_top-hotelsOVER.gif';" onmouseout="image1.src='/images/header/i18n/en_top-hotels.gif';"><img name="image1" src="/images/header/i18n/en_top-hotels.gif" alt="Hotels" border="0"></a><a href="/index.jsp?pageName=carSearch&amp;cid=1" onmouseover="image3.src='/images/header/i18n/en_top-carsOVER.gif';" onmouseout="image3.src='/images/header/i18n/en_top-cars.gif';"><img name="image3" src="/images/header/i18n/en_top-cars.gif" alt="Cars" border="0"></a><a href="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=pkglaunch&amp;eapid=11478-30001" onclick="return fc_click('Packages Link', 'ad', 'http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=pkglaunch&amp;eapid=11478-30001');" onmouseover="image6.src='/images/header/i18n/en_top-pkgsOVER.gif';" onmouseout="image6.src='/images/header/i18n/en_top-pkgs.gif';"><img name="image6" src="/images/header/i18n/en_top-pkgs.gif" alt="Vacation Packages" border="0"></a><a href="/index.jsp?pageName=condos&amp;cid=1" onmouseover="image2.src='/images/header/i18n/en_top-rentalsOVER.gif';" onmouseout="image2.src='/images/header/i18n/en_top-rentals.gif';"><img name="image2" src="/images/header/i18n/en_top-rentals.gif" alt="Vacation Rentals" border="0"></a><a href="/go.jsp?link=http://cruises.travelnow.com" onclick="return fc_click('Cruises Link', 'ad', 'http://cruises.travelnow.com');" onmouseover="image5.src='/images/header/i18n/en_top-cruisesOVER.gif';" onmouseout="image5.src='/images/header/i18n/en_top-cruises.gif';"><img name="image5" src="/images/header/i18n/en_top-cruises.gif" alt="Cruises" border="0"></a>
+</div>
 </td>
-<td><img src="/images/p.gif" width="10"></td>
-</tr>
-</tbody></table>
-</td>
-<td><img src="/images/header/top-right-curve.gif" border="0"></td>
+<td width="17"><img src="/images/header/top-right-curve.gif" border="0"></td>
 </tr>
 </tbody></table>
 <table width="770" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
 <td width="8" class="top-nav"><img src="/images/p.gif" border="0" width="8" height="1"></td>
 <td class="top-nav" nowrap="" width="698">
-<a class="top-nav-link" href="/index.jsp;jsessionid=jjsH6fZrahwg?pageName=index&amp;cid=1">Home</a> |
+<a class="top-nav-link" href="/index.jsp;jsid=pyTx0ZTXVLrf?pageName=index&amp;cid=1">Home</a> |
 <a class="top-nav-link" href="/index.jsp?pageName=airSearch&amp;cid=1&amp;advancedOptions=true">Flights</a> |
 <a class="top-nav-link" href="/index.jsp?pageName=hotSearch&amp;cid=1">Hotels</a> |
 <a class="top-nav-link" href="/index.jsp?pageName=carSearch&amp;cid=1">Cars</a> |
 <a class="top-nav-link" href="http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=pkglaunch&amp;eapid=11478-30001" onclick="return fc_click('Packages Link', 'ad', 'http://travel.wwte1.com/pubspec/scripts/eap.asp?goto=pkglaunch&amp;eapid=11478-30001');">Vacation Packages</a> |
 <a class="top-nav-link" href="/index.jsp?pageName=condos&amp;cid=1">Vacation Rentals</a> |
 <a href="/go.jsp?link=http://cruises.travelnow.com" onclick="return fc_click('Cruises Link', 'ad', 'http://cruises.travelnow.com');" class="top-nav-link">Cruises</a> |
-<a class="top-nav-link" href="http://dg.travelnow.com/index.jsp?cid=1">Destination Guides</a> | <a class="top-nav-link" href="/index.jsp;jsessionid=jjsH6fZrahwg?pageName=hotelSpecials&amp;cid=1">Hotel Deals</a> |
-<a class="top-nav-link" href="/index.jsp;jsessionid=jjsH6fZrahwg?pageName=groups&amp;cid=1">Groups</a>
+<a class="top-nav-link" href="http://dg.travelnow.com/index.jsp?cid=1">Destination Guides</a> | <a class="top-nav-link" href="/index.jsp;jsid=pyTx0ZTXVLrf?pageName=hotelSpecials&amp;cid=1">Hotel Deals</a> |
+<a class="top-nav-link" href="/index.jsp;jsid=pyTx0ZTXVLrf?pageName=groups&amp;cid=1">Groups</a>
 </td>
-<td class="top-nav" width="15"><a href="/index.jsp;jsessionid=jjsH6fZrahwg?pageName=faq&amp;cid=1" class="top-nav-link"><img src="/images/header/top-question.gif" border="0"></a></td>
-<td class="top-nav-faq" width="32">&nbsp;<a href="/index.jsp;jsessionid=jjsH6fZrahwg?pageName=faq&amp;cid=1" class="top-nav-link">FAQ</a></td>
+<td class="top-nav" width="15"><a href="/index.jsp;jsid=pyTx0ZTXVLrf?pageName=faq&amp;cid=1" class="top-nav-link"><img src="/images/header/top-question.gif" border="0"></a></td>
+<td class="top-nav-faq" width="32">&nbsp;<a href="/index.jsp;jsid=pyTx0ZTXVLrf?pageName=faq&amp;cid=1" class="top-nav-link">FAQ</a></td>
 <td width="17"><img src="/images/header/top-right-corner.gif" border="0"></td>
 </tr>
 <tr>
@@ -284,114 +82,139 @@ thor = window.open('/components/processing.jsp?cid=1','thor','top=200,left=220,w
 <tr>
 <td width="7"><img src="/images/p.gif" height="1" width="7" border="0"></td>
 <td width="150" valign="top">
-<img src="http://images.ian.com/images/p.gif" width="150" height="0" border="0">
-Rest assured, TravelNow will not sell your personel information. You can count on us to keep your credit card information secure and always protect your privacy.<br>
+Rest assured, IAN will not sell your personel information. You can count on us to keep your credit card information secure and always protect your privacy.<br>
 <img src="http://images.ian.com/images/p.gif" width="150" height="1" border="0">
 </td>
 <td width="7"><img src="/images/p.gif" height="1" width="7" border="0"></td>
-<td width="599" valign="top">
-<table width="100%" border="0" cellspacing="0" cellpadding="15" bgcolor="">
+<td width="100%" valign="top">
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tbody><tr>
-<td>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="OLDlistblue-top">
-<tbody><tr>
-<td><strong>TravelNow.com's Commitment to Privacy</strong></td><td class="footertext" align="right"></td>
+<td width="4"><img src="http://images.ian.com/images/ltblue-hdrtopL.gif" width="4" height="25" border="0" alt=""></td>
+<td width="100%" class="ltblue-hdrtop">IAN.com's Commitment to Privacy</td>
+<td width="4"><img src="http://images.ian.com/images/ltblue-hdrtopR.gif" width="4" height="25" border="0" alt=""></td>
 </tr>
 </tbody></table>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="OLDwhite-barL">
+<table cellspacing="0" cellpadding="0" border="0" width="100%" class="masterBorder1pxBlue">
 <tbody><tr>
-<td>
-<p><strong>THE SUMMARY</strong><br>
-TravelNow.com is in the travel business, not the spying business.&nbsp; We will not ask you for information that does not have a purpose and we will not require information to be disclosed that is not absolutely necessary.&nbsp; TravelNow.com is the sole owner of the information collected on this site.&nbsp; We will not sell your personally identifiable information to others, however, if you accessed this site through a TravelNow.com Affiliate, your email address may be forwarded to that <a href="#Affiliate">Affiliate</a>. Whether you travel the Web or travel the world, TravelNow.com wants you to always be safe!</p>
-<p><strong>THE DETAILS</strong><br>
-Your privacy is important to us.&nbsp; To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.&nbsp; This notice shall apply to all information TravelNow.com collects or is submitted by the user on the TravelNow.com website.&nbsp; To make this notice easy to find; we make it available on our homepage and at every point where personally identifiable information may be requested.</p>
-<p><strong>Use of Customer Information</strong><br>
-TravelNow.com is the sole owner of the information collected on this site.&nbsp; We will not sell or rent this information to others in ways that differ from what is disclosed in this statement.</p>
-<p><strong>General Information - What We Collect and Why</strong></p>
+<td valign="top">
+<span class="masterBOLD">THE SUMMARY</span><br>
+IAN.com is in the travel business, not the spying business.&nbsp; We will not ask you for information that does not have a purpose and we will not require information to be disclosed that is not absolutely necessary.&nbsp; IAN.com is the sole owner of the information collected on this site.&nbsp; We will not sell your personally identifiable information to others, however, if you accessed this site through a IAN.com Affiliate, your email address may be forwarded to that <a href="#Affiliate">Affiliate</a>. Whether you travel the Web or travel the world, IAN.com wants you to always be safe!
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">THE DETAILS</span><br>
+Your privacy is important to us.&nbsp; To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.&nbsp; This notice shall apply to all information IAN.com collects or is submitted by the user on the IAN.com website.&nbsp; To make this notice easy to find; we make it available on our homepage and at every point where personally identifiable information may be requested.
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Use of Customer Information</span><br>
+IAN.com is the sole owner of the information collected on this site.&nbsp; We will not sell or rent this information to others in ways that differ from what is disclosed in this statement.<p></p>
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">General Information</span> - What We Collect and Why<br>
 <ul>
-<li>TravelNow.com may include information about your visit in collective or aggregated data that does not identify you specifically. For example, we may tell our advertisers or investors the number of site visitors or the most popular vacation destinations.</li>
+<li>IAN.com may include information about your visit in collective or aggregated data that does not identify you specifically. For example, we may tell our advertisers or investors the number of site visitors or the most popular vacation destinations.</li>
 <li>Our server recognizes domain names and the pages visited.&nbsp; This data is gathered in an aggregate manner for quality control and improvement of our site.</li>
-<li>TravelNow.com does not market to children nor collect personal information about children at this site.</li>
+<li>IAN.com does not market to children nor collect personal information about children at this site.</li>
 </ul>
-<p><strong>Individual Information - What we Collect and Why</strong></p>
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Individual Information</span> - What We Collect and Why<br>
 <ul>
 <li>Your name, email address, physical address, phone and fax number, and credit card number
 are necessary to ensure we are able to make and confirm your reservation.&nbsp;
 We do not share this personal information with outside parties except
 to the extent necessary to complete your reservation or product order.</li>
 <li>Your contact information is needed in order to notify you in the event of any processing difficulties or unforeseen circumstances fulfilling your reservation or product order.&nbsp; In some cases, paper tickets may need to be mailed to you.&nbsp; The more easily we can contact you, the better we can serve you.</li>
-<li>TravelNow.com will use the information you provide about yourself in order to make the TravelNow.com website as customer friendly as possible.&nbsp; We want to know you to better serve you, but do not want to invade your life.&nbsp; We may ask you for more information about your travel interests.&nbsp; In the future this information may be used to help TravelNow.com make more applicable travel recommendations. However, this information will always be optional.</li>
+<li>IAN.com will use the information you provide about yourself in order to make the IAN.com website as customer friendly as possible.&nbsp; We want to know you to better serve you, but do not want to invade your life.&nbsp; We may ask you for more information about your travel interests.&nbsp; In the future this information may be used to help IAN.com make more applicable travel recommendations. However, this information will always be optional.</li>
 </ul>
-<p><strong>Newsletter - What We Collect and Why</strong></p>
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Newsletter</span> - What We Collect and Why<br>
 <ul>
 <li>Your email address ensures you receive the newsletter in a timely manner.</li>
 <li>Your name is optional and tells us who personally to address - just a nice touch.</li>
-<li>Although we do not want you to miss any great travel deals, you can unsubscribe to any TravelNow.com newsletter at anytime, by sending an email to <a href="mailto:customers@travelnow.com">customers@travelnow.com</a>.&nbsp;
+<li>Although we do not want you to miss any great travel deals, you can unsubscribe to any IAN.com newsletter at anytime, by sending an email to
+<a href="mailto:customers@travelnow.com">customers@ian.com</a>.&nbsp;
 Please tell us the newsletter title and the email address you want removed.</li>
 </ul>
-<p><strong>Surveys - What We Collect and Why</strong></p>
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Surveys</span> - What We Collect and Why<br>
 <ul>
-<li>From time to time TravelNow.com conducts voluntary customer surveys, which may ask questions about broad background information and customer preferences.&nbsp; This survey information is completely optional and you are under no obligation to be a part of any survey. The information TravelNow.com collects is used to better serve our customers by helping TravelNow.com determine our customer's travel needs and improve the satisfaction and use of this
+<li>From time to time IAN.com conducts voluntary customer surveys, which may ask questions about broad background information and customer preferences.&nbsp; This survey information is completely optional and you are under no obligation to be a part of any survey. The information IAN.com collects is used to better serve our customers by helping IAN.com determine our customer's travel needs and improve the satisfaction and use of this
 site.</li>
 <li>Participation in these surveys or contests is completely voluntary and&nbsp; you therefore have&nbsp; a choice whether or not to disclose this information.&nbsp; Information requested may include demographic information including, but not limited
 to:&nbsp; age, gender, approximate household income, how you travel, how you make your reservations, and why you travel.</li>
 <li>Your contact information may be required if a prize is to be awarded to survey respondents either at random or individually.&nbsp;This will enable us to contact you to notify you of details regarding your prize.</li>
 </ul>
-<p><strong>Cookies</strong><br>
-Cookies are small pieces of information stored on your computer tied to information about you. We use both session ID cookies and persistent cookies. For the session ID cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following the Web browser help file directions.</p><p>
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Cookies</span><br>
+Cookies are small pieces of information stored on your computer tied to information about you. We use both session ID cookies and persistent cookies. For the session ID cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following the Web browser help file directions.<p>
 We use cookies to track usage of the Guest path and to serve advertisements through our advertising networks. Most Web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you reject the cookie, you may still use our website. The only drawback to this is that you will be limited in some areas of our website. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our website. </p><p>
-Usage of a cookie is in no way linked to any personally identifiable information while on our site.</p>
-<p><strong>Advertising</strong><br>
-TravelNow.com uses pixels, or transparent GIF files, to help manage our online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website.
+Usage of a cookie is in no way linked to any personally identifiable information while on our site.
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Advertising</span><br>
+IAN.com uses pixels, or transparent GIF files, to help manage our online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website.
 The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to
-<a href="http://www.doubleclick.net/us/corporate/privacy">http://www.doubleclick.net/us/corporate/privacy</a>.</p>
-<p><strong>Log Files</strong><br>
-We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use.&nbsp; IP addresses are not linked to personally identifiable information.</p>
-<p><strong><a name="Affiliate"></a>Affiliates</strong><br>
-An Affiliate is a Web site not owned or operated by TravelNow.com, but uses TravelNow.com's booking capabilities for processing travel reservations.&nbsp; The TravelNow.com name may or may not appear on the Affiliate site.</p>
-<p>You may have accessed TravelNow.com via one of our Affiliate sites.&nbsp; Please be aware that TravelNow.com
+<a href="http://www.doubleclick.net/us/corporate/privacy">http://www.doubleclick.net/us/corporate/privacy</a>.
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Log Files</span><br>
+We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use.&nbsp; IP addresses are not linked to personally identifiable information.
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD"><a name="Affiliate"></a>Affiliates</span><br>
+An Affiliate is a Web site not owned or operated by IAN.com, but uses IAN.com's booking capabilities for processing travel reservations.&nbsp; The IAN.com name may or may not appear on the Affiliate site.
+</p><p></p>
+You may have accessed IAN.com via one of our Affiliate sites.&nbsp; Please be aware that IAN.com
 is in no way responsible for the privacy practices of such other sites.&nbsp;
-We encourage you to read the privacy statement of the Affiliate and each
+We encourage you to read the privacy statement of the IAN and each
 and every website you visit that collects personally identifiable information.&nbsp;
 This privacy statement applies solely to information collected by the
-TravelNow.com website.</p>
-<p><strong>Sharing</strong><br>
-TravelNow.com will share aggregated demographic information with our Affiliates and advertisers.&nbsp;If you access our site through one of our Affiliates and make travel reservations, your email address may be forwarded to that particular Affiliate.&nbsp;Otherwise, we will not share any personally identifiable information with other companies.</p>
-<p><strong>Links</strong><br>
-This site may contain links to other sites. Please be aware that TravelNow.com is in no way responsible for the privacy practices of such other sites.&nbsp; We encourage our customers to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.&nbsp; This privacy statement applies solely to information collected by the TravelNow.com website.</p>
-<p><strong>Notification of Changes</strong><br>
-If TravelNow.com decides to change its privacy policy, we will post those changes at <a href="/index.jsp;jsessionid=jjsH6fZrahwg?pageName=privacy&amp;cid=1">www.travelnow.com/index.jsp?pageName=privacy</a>
+IAN.com website.
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Sharing</span><br>
+IAN.com will share aggregated demographic information with our Affiliates and advertisers.&nbsp;If you access our site through one of our Affiliates and make travel reservations, your email address may be forwarded to that particular Affiliate.&nbsp;Otherwise, we will not share any personally identifiable information with other companies.
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Links</span><br>
+This site may contain links to other sites. Please be aware that IAN.com is in no way responsible for the privacy practices of such other sites.&nbsp; We encourage our customers to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information.&nbsp; This privacy statement applies solely to information collected by the IAN.com website.
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Notification of Changes</span><br>
+If IAN.com decides to change its privacy policy, we will post those changes at
+<a href="/index.jsp;jsid=pyTx0ZTXVLrf?pageName=privacy&amp;cid=1">www.ian.com/index.jsp?pageName=privacy</a>
 so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.&nbsp; If at any point we decide
-to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of email.&nbsp; You will have a choice as to whether or not we use your information in this different manner.</p>
-<p><strong>Cruises</strong><br>
-<a href="http://cruises.travelnow.com/privacy_policy.asp">http://cruises.travelnow.com/privacy_policy.asp</a></p>
-<p><strong>LEGAL NOTICES</strong></p>
-<p><strong>Applicable Law</strong><br>
-This site is created and controlled by TravelNow.com in the State of Missouri.</p>
-<p>CUSTOMER AGREES AND AFFIRMS THAT the customer shall be bound for jurisdiction and venue purposes
-to the laws of the State of Missouri and that any claim against TravelNow.com shall be filed in the Circuit Court of Greene County, Missouri without giving effect to any principles of conflicts of laws.</p>
-<p align="center"><strong>Our Address</strong><br>
-TravelNow.com<br>
-4124 South McCann Court<br>
-Springfield, MO 65804<br>
-(417) 864-3600</p>
-<p>WE RESERVE THE RIGHT TO MAKE CHANGES TO OUR SITE AND THESE DISCLAIMERS, TERMS AND CONDITIONS AT ANY TIME.</p>
-<p><strong>Legal Notice</strong><br>
-TravelNow.com</p>
-<p>ANY PERSON ACCESSING THE TRAVELNOW.COM WEBSITE AGREES TO AND IS BOUND BY THE FOLLOWING TERMS AND CONDITIONS:</p>
-<p><strong>Copyright</strong><br>
-All content included on this site, but not limited to, text, graphics, logos, software, are the property of TravelNow.com or its content suppliers and is protected by United States and international copyright laws.&nbsp; The content and software of this site may be used for shopping, browsing, purchasing and booking travel reservations and related travel products.&nbsp; Any other use, including the reproduction, modification, and republication of the content on this site is strictly prohibited.</p>
-<p><strong>Trademarks</strong><br>
-The names, logos and taglines identify any TravelNow.com products and services are proprietary marks of TravelNow.com.&nbsp; All other trademarks and service marks are the property of their respective owners.</p>
-<p><strong>USE OF THIS SITE</strong><br>
-This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold or exploited for any commercial purposes that are not expressly granted by TravelNow.com.&nbsp; TravelNow.com and its Affiliates reserve the right to refuse service and/or cancel orders in its discretion, including without limitation, if TravelNow.com believes the customer contact violates applicable law or is harmful to the interests of TravelNow.com or its Affiliates.</p>
-<p><strong>Accuracy of Information</strong><br>
-While TravelNow.com makes all reasonable attempts to ensure the accuracy of the information neither TravelNow.com nor its content providers can be held responsible by the customer for the accuracy of the information for the TravelNow.com website.</p>
-<p>TRAVELNOW.COM MAKES NO EXPRESSED OR IMPLIED WARRANTY AS TO THE ACCURACY ON MERCHANTABILITY OF CONTENT OR PROGRAMING AND FITNESS FOR A PARTICULAR PURPOSE.</p> <p>TRAVELNOW.COM WILL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES.</p>
-<p>Effective July 27, 2000</p>
-</td>
-</tr>
-</tbody></table>
+to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of email.&nbsp; You will have a choice as to whether or not we use your information in this different manner.
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Cruises</span><br>
+<a href="http://cruises.travelnow.com/privacy_policy.asp">http://cruises.ian.com/privacy_policy.asp</a>
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">LEGAL NOTICES</span> - Applicable Law<br>
+<p></p>
+This site is created and controlled by IAN.com in the State of Texas.
+<p></p>
+CUSTOMER AGREES AND AFFIRMS THAT the customer shall be bound for jurisdiction and venue purposes
+to the laws of the State of Texas and that any claim against IAN.com shall be filed in the Circuit Court of Dallas County, Texas without giving effect to any principles of conflicts of laws.
+<p></p>
+<div align="center"><span class="masterBOLD">Our Address</span><br>
+IAN.com<br>
+10440 North Central Expressway<br>
+Suite 400<br>
+Dallas, Texas 75231<br>
++1 (469) 335-1000
+</div>
+<p></p>
+WE RESERVE THE RIGHT TO MAKE CHANGES TO OUR SITE AND THESE DISCLAIMERS, TERMS AND CONDITIONS AT ANY TIME.
+<img src="../images/p.gif" alt="" border="0" vspace="5" class="copyDIVline">
+<span class="masterBOLD">Legal Notice</span> - IAN.com<br>
+<p></p>
+ANY PERSON ACCESSING THE IAN.COM WEBSITE AGREES TO AND IS BOUND BY THE FOLLOWING TERMS AND CONDITIONS:
+<p></p>
+<span class="masterBOLD">Copyright</span><br>
+All content included on this site, but not limited to, text, graphics, logos, software, are the property of IAN.com or its content suppliers and is protected by United States and international copyright laws.&nbsp; The content and software of this site may be used for shopping, browsing, purchasing and booking travel reservations and related travel products.&nbsp; Any other use, including the reproduction, modification, and republication of the content on this site is strictly prohibited.
+<p></p>
+<span class="masterBOLD">Trademarks</span><br>
+The names, logos and taglines identify any IAN.com products and services are proprietary marks of IAN.com.&nbsp; All other trademarks and service marks are the property of their respective owners.
+<p></p>
+<span class="masterBOLD">USE OF THIS SITE</span><br>
+This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold or exploited for any commercial purposes that are not expressly granted by IAN.com.&nbsp; IAN.com and its Affiliates reserve the right to refuse service and/or cancel orders in its discretion, including without limitation, if IAN.com believes the customer contact violates applicable law or is harmful to the interests of IAN.com or its Affiliates.
+<p></p>
+<span class="masterBOLD">Accuracy of Information</span><br>
+While IAN.com makes all reasonable attempts to ensure the accuracy of the information neither IAN.com nor its content providers can be held responsible by the customer for the accuracy of the information for the IAN.com website.
+<p></p>
+IAN.COM MAKES NO EXPRESSED OR IMPLIED WARRANTY AS TO THE ACCURACY ON MERCHANTABILITY OF CONTENT OR PROGRAMING AND FITNESS FOR A PARTICULAR PURPOSE.<p></p> <p>IAN.COM WILL NOT BE LIABLE FOR ANY DAMAGES ARISING FROM THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES.
+</p><p></p>
+Effective July 27, 2000
 </td>
 </tr>
 </tbody></table>
@@ -399,49 +222,34 @@ While TravelNow.com makes all reasonable attempts to ensure the accuracy of the 
 <td width="7"><img src="/images/p.gif" border="0" height="1" width="7"></td>
 </tr>
 </tbody></table>
-<table width="1" height="7" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td height="7"><img src="/images/p.gif" height="7" width="1" border="0"></td>
-</tr>
-</tbody></table>
+<div class="defaultPadTop7"></div>
 <table border="0" cellpadding="0" cellspacing="0" width="770">
 <tbody><tr>
 <td align="center" valign="top" bgcolor="#FFFFFF">
 <script language="JavaScript1.1" src="http://ad2.hotels.com/RealMedia/ads/adstream_jx.ads/www.travelnow.com/@Bottom?QUERY=&amp;city=&amp;stateProvince=&amp;country=&amp;type=faq&amp;cid=1&amp;ros=1"></script><script language="JavaScript"> <!-- _version=10; //--> </script><script language="JavaScript1.1"> <!--_version=11; // --> </script><script language="JavaScript"><!--if (navigator.appVersion.indexOf('MSIE 3') != -1){document.write('<IFRAME WIDTH=468 HEIGHT=60 MARGINWIDTH=0 MARGINHEIGHT=0 HSPACE=0 VSPACE=0 FRAMEBORDER=0 SCROLLING=no BORDERCOLOR="#000000" SRC="http://ad2.hotels.com/RealMedia/ads/adstream_jx.ads/www.travelnow.com/@Bottom?QUERY=&city=&stateProvince=&country=&type=faq&cid=1&ros=1"></iframe>');} else if (_version < 11) {document.write ('<A HREF="http://ad2.hotels.com/RealMedia/ads/adstream_jx.ads/www.travelnow.com/@Bottom?QUERY=&city=&stateProvince=&country=&type=faq&cid=1&ros=1"><IMG SRC="http://ad2.hotels.com/RealMedia/ads/adstream_jx.ads/www.travelnow.com/@Bottom?QUERY=&city=&stateProvince=&country=&type=faq&cid=1&ros=1"></a>');}// --></script>
-<br><img src="/images/p.gif" width="468" height="1">
 </td>
 </tr>
 </tbody></table>
-<table width="770" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-<td><img src="/images/p.gif" border="0" height="7" width="1"></td>
-</tr>
-<tr>
-<td class="foot-nav" nowrap="nowrap" align="center">
-<a class="foot-nav-link" href="/index.jsp;jsessionid=jjsH6fZrahwg?pageName=index&amp;cid=1">Home</a> |
-<a class="foot-nav-link" href="http://affiliate.travelnow.com/affiliates/home.jsp?ref=tvn">Become an Affiliate</a> | <a class="foot-nav-link" href="/index.jsp;jsessionid=jjsH6fZrahwg?pageName=viewOrCancelReservation&amp;cid=1">View/Cancel Reservation</a>&nbsp;|
+<div class="defaultPadTop7"></div>
+</a><div style="width:770px;" align="center" class="foot-nav"><a name="top">
+</a><a class="foot-nav-link" href="/index.jsp;jsid=pyTx0ZTXVLrf?pageName=index&amp;cid=1">Home</a> |
+<a class="foot-nav-link" href="http://affiliate.travelnow.com/affiliates/home.jsp?ref=tvn">Become an Affiliate</a> | <a class="foot-nav-link" href="/index.jsp;jsid=pyTx0ZTXVLrf?pageName=viewOrCancelReservation&amp;cid=1">View/Cancel Reservation</a>&nbsp;|
 <a class="foot-nav-link" href="http://dg.travelnow.com/index.jsp?cid=1">Destination Guides</a>&nbsp;|&nbsp;
-<a class="foot-nav-link" href="/index.jsp;jsessionid=jjsH6fZrahwg?pageName=hotelSpecials&amp;cid=1">Hotel Deals</a>&nbsp;|
-<a class="foot-nav-link" href="/index.jsp;jsessionid=jjsH6fZrahwg?pageName=groups&amp;cid=1">Groups</a>&nbsp;|
+<a class="foot-nav-link" href="/index.jsp;jsid=pyTx0ZTXVLrf?pageName=hotelSpecials&amp;cid=1">Hotel Deals</a>&nbsp;|
+<a class="foot-nav-link" href="/index.jsp;jsid=pyTx0ZTXVLrf?pageName=groups&amp;cid=1">Groups</a>&nbsp;|
 <a class="foot-nav-link" href="/index.jsp?pageName=faq&amp;cid=1">Help/FAQ</a>&nbsp;|
 <a class="foot-nav-link" href="/index.jsp?pageName=newsletters&amp;cid=1">Newsletters</a>&nbsp;|
-<a class="foot-nav-link" href="/index.jsp;jsessionid=jjsH6fZrahwg?pageName=contactUs&amp;cid=1">Contact Us</a>
-</td>
-</tr>
-<tr>
-<td><img src="/images/p.gif" border="0" height="10" width="1"></td>
-</tr>
-<tr>
-<td align="center" class="copyright">TravelNow.com® is Reg. U.S. Pat. Off. U.S. Service Mark Registration No. 2,474,939&nbsp;&nbsp; <a href="/index.jsp?pageName=terms&amp;cid=1" class="copyright-link" target="_blank">Terms of Use</a> · <a href="/index.jsp?pageName=privacy&amp;cid=1" class="copyright-link" target="_blank">Privacy Policy</a></td>
-</tr>
-<tr>
-<td><img src="/images/p.gif" border="0" height="5" width="1"></td>
-</tr>
-<tr>
-<td align="center" class="copyright">Copyright® 2003, TravelNow.com, Inc.</td>
-</tr>
-</tbody></table>
-</a><a href="/links.html"><img src="/images/p.gif" width="1" height="1" border="0"></a>
+<a class="foot-nav-link" href="/index.jsp;jsid=pyTx0ZTXVLrf?pageName=contactUs&amp;cid=1">Contact Us</a>
+</div>
+<div class="defaultPadTop14"></div>
+<div style="width:770px;" align="center" class="copyright">
+TravelNow.com® is Reg. U.S. Pat. Off. U.S. Service Mark Registration No. 2,474,939&nbsp;&nbsp;
+<a href="/popups/hotels/userAgreement.jsp?cid=1" class="copyright-link" target="_blank">User Agreement</a> · <a href="/index.jsp?pageName=privacy&amp;cid=1" class="copyright-link" target="_blank">Privacy Policy</a>
+</div>
+<div class="defaultPadTop7"></div>
+<div style="width:770px;" align="center" class="copyright">
+Copyright® 1995 - 2004, TravelNow.com, Inc.
+</div>
 <p><br>
 <script language="javascript">
 function handle(){return true;}
