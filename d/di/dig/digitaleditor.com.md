@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2001-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011024033037id_/http%3A//www.digitaleditor.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaleditor.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603173444id_/http%3A//www.digitaleditor.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -34,8 +34,7 @@ ATTENTION KIDS: IF YOU ARE 16 OR UNDER, YOU MUST GET PERMISSION FROM YOUR MOM OR
 
 
 
-IF YOU GET PERMISSION FROM YOUR MOM OR DAD TO SUBMIT YOUR NAME TO BE PUBLICLY POSTED ON THE SERVICE, YOU SHOULD NEVER USE YOUR FULL NAME. JUST SUBMIT YOUR FIRST NAME OR INITIALS.    
-
+IF YOU GET PERMISSION FROM YOUR MOM OR DAD TO SUBMIT YOUR NAME TO BE PUBLICLY POSTED ON THE SERVICE, YOU SHOULD NEVER USE YOUR FULL NAME. JUST SUBMIT YOUR FIRST NAME OR INITIALS. 
 
 |   |  |  | **Digital Editor.com  
 Current Headlines**  
