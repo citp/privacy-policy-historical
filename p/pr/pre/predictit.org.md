@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the predictit.org privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607213749id_/http%3A//www.predictit.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the predictit.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204063439id_/http%3A//www.predictit.org/privacy.asp) for the most accurate reproduction.*
 
 # TWL: Privacy Policy
 
