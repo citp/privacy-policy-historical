@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sfgov.org privacy policy that was archived on 2003-08-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030811083941id_/http%3A//sfgov.org/site/mainpages_index.asp%3Fid%3D37) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sfgov.org privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606020056id_/http%3A//sfgov.org/site/mainpages_index.asp%3Fid%3D37) for the most accurate reproduction.-->
 
 <html><head>
 <title>San Francisco SFGov: Privacy Policy</title>
@@ -58,11 +58,47 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 }
 
 function getEmail(eaddress,ccAddress) {
-document.contactUs.submit_to.value = eaddress
-if (ccAddress) {
-document.contactUs.cc_to.value = ccAddress
-	}
+if (eaddress == "other@sfgov.org") 
+  var dummy
+else 
+
+document.contactUs.submit_to.value = eaddress;
+document.contactUs.form_id.value = ccAddress;
+
 }
+
+function getEmailOther() {
+if (document.contactUs.form_id_select.options[document.contactUs.form_id_select.selectedIndex].value  == "blank") 
+//document.contactUs.submit_to.value=""
+alert("Please choose a department");
+else{
+
+var strSubmit;
+var strFormId;
+var valueArray;
+valueArray = document.contactUs.form_id_select.options[document.contactUs.form_id_select.selectedIndex].value .split(",");
+strFormId = valueArray[0];
+strSubmit = valueArray[1];
+document.contactUs.submit_to.value = strSubmit
+document.contactUs.form_id.value = strFormId;
+ }
+}
+
+function emailSubmit() {
+//alert(document.contactUs.submit_to.value);
+//alert(document.contactUs.form_id.value);
+if (document.contactUs.form_id_select.options[document.contactUs.form_id_select.selectedIndex].value  == "blank") 
+
+alert("Please choose a department");
+else{
+if (document.contactUs.submit_to.value=="") 
+
+alert("please choose a department");
+else {
+document.contactUs.submit();
+
+}}}
+
 //-->
 </script><script language="javascript" src="/scripts/indexpg.js">
 </script>
@@ -239,16 +275,14 @@ function menujump(item) {
 
 <body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bgcolor="FFFFFF">
 <!-- Header Zone -->
-   <table border="0" width="100%" cellspacing="0" cellpadding="0">
+   <table border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
   <td rowspan="2" width="26" bgcolor="#000000"><img src="/images/backblack.jpg" width="26" height="50" alt=""></td>
-  <td rowspan="2" width="120" bgcolor="#000000"><a href="/index.htm"><img src="/images/sfgovlogo.gif" width="120" height="50" border="0" alt="Go To SFGov, the official site for San Francisco"></a></td>
-    <td rowspan="2" width="39" valign="top" align="right" bgcolor="#000000"><img src="/images/swoosh.jpg" width="39" height="50" alt=""></td>
-    <td valign="top" align="left" bgcolor="#003366" width="99%">
-	<img src="/images/title_government.gif" border="0" alt="Local Government"></td>
+  <td rowspan="2" width="120" bgcolor="#000000"><a href="http://www.sfgov.org/"><img src="/images/sfgovlogo.gif" width="120" height="50" border="0" alt="Go To SFGov, the official site for San Francisco"></a></td>
+    <td valign="top" align="left" bgcolor="#42416D" width="99%"><img src="/images/homepage/banner_bb.gif" border="0" alt="Bay Bridge" width="656" height="25"></td>
   </tr>
   <tr> 
-    <form action="http://www.ci.sf.ca.us:8765/query.html" method="GET" name="searchForm" onsubmit="return queryString()"></form>
+    <form action="http://209.77.149.3:8765/query.html" method="GET" name="searchForm" onsubmit="return queryString()"></form>
  <input type="hidden" name="pw" value="100%">
         <input type="hidden" name="ws" value="0">
         <input type="hidden" name="la" value="">
@@ -264,9 +298,9 @@ function menujump(item) {
         <input type="hidden" name="col" value="entire">
         <input type="hidden" name="ht" value="0">
         <input type="hidden" name="qp" value="">
-      <td height="25" bgcolor="#000000" align="left" width="99%"><font color="#FFFFFF"> <img src="/images/spacer.gif" width="4" height="1" alt=""> 
-        <a href="/" class="top-nav">sfgov</a> | <a href="/citizen/" class="top-nav">citizen</a> | <a href="/business/" class="top-nav">business</a> 
-        | <a href="/government/" class="top-nav">government</a> | <a href="/visitor/" class="top-nav">visitor</a> 
+      <td height="25" bgcolor="#000000" align="left" width="99%"><font color="#FFFFFF"> <img src="/images/spacer.gif" width="32" height="1" alt=""> 
+        <a href="http://www.sfgov.org/" class="top-nav">sfgov</a> | <a href="/citizen/" class="top-nav">residents</a> | <a href="/business/" class="top-nav">business</a> 
+        | <a href="/government/" class="top-nav">government</a> | <a href="/visitor/" class="top-nav">visitors</a> 
         | <a href="/onlineservices/" class="top-nav">online services</a> 
         | </font>
       <a href="/site/mainpages_index.asp?id=42" class="top-nav">search</a><img src="/images/spacer.gif" width="4" height="1" alt=""> <input type="text" size="10" style="height: 18px; font-size: 10px;" name="wordQuotes">
@@ -289,7 +323,7 @@ function menujump(item) {
 <!-- GOVERNMENT ORGANIZATION -->
 
    
-   </p><div align="left"><font class="title">City and County of San Francisco</font><br></div>
+   </p><div align="left"><font class="title"><img src="/site/uploadedimages/mainpages/city_and_county.gif" alt="City and County of San Francisco"></font><br></div>
    <img height="9" alt="" src="/images/hrule.gif" width="520" vspace="3"><br>
 
 <!-- /GOVERNMENT ORGANIZATION -->
@@ -308,13 +342,15 @@ We sometimes track the keywords that are entered into our search engine to measu
 <font class="heading2">Information Provided by You</font><br>
 Information volunteered by you through your filling out of our optional online feedback form is used to help us enhance our web sites, and may be shared with City and County of San Francisco employees and contractors for that purpose.<br>
 <br>
-We do not use "cookies". (A "cookie" is a file placed on your hard drive by a Web site, usually without your knowledge).<br>
-<br>
-<font class="heading2">Links to Other Sites</font><br>
+We do not use "cookies" except when providing personalization services such as "MySFGov". The use of cookies is a standard practice among Internet websites and most Internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies.<p></p>
+
+<p><font class="heading2">Links to Other Sites</font><br>
 The City and County of San Francisco uses link and search capabilities to navigate publicly available information from dozens of agencies that are not part of the City and County of San Francisco web site. The privacy policies and procedures described here do not necessarily apply to those sites. We suggest contacting these sites directly for information on their data collection and distribution policies.<br>
 <br>
 <font class="heading2">Site Security</font><br>
-We monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage to the site. Anyone using this Web site expressly consents to such monitoring.<p></p>
+We monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage to the site. Anyone using this Web site expressly consents to such monitoring.</p>
+
+<p></p>
 <!-- /CONTENT -->
 
 </td></tr></tbody></table>
@@ -353,7 +389,7 @@ We monitor network traffic to identify unauthorized attempts to upload or change
   <tr> 
     <td width="30">&nbsp;</td>
     <td width="500" class="copyright"><img src="/images/spacer.gif" width="1" height="10" alt="" border="0"><br>
-	<img src="/images/spacer.gif" width="35" height="1" alt="" border="0" align="left"><a href="/site/mainpages_index.asp?id=41" class="copyright">Copyright</a> © 2003 City &amp; County of San Francisco. All rights reserved.</td><td width="200">&nbsp;</td></tr>
+	<img src="/images/spacer.gif" width="35" height="1" alt="" border="0" align="left"><a href="/site/mainpages_index.asp?id=41" class="copyright">Copyright</a> © 1999-2004 City &amp; County of San Francisco. All rights reserved.</td><td width="200">&nbsp;</td></tr>
 
 </tbody></table>
 
