@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201041029id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberastro.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601145401id_/http%3A//www.cyberastro.com/pubdoc/privacy.asp) for the most accurate reproduction.*
 
 # CyberAstro.com - Vedic Astrology for the new Millennium
 
@@ -62,11 +62,11 @@ Our server and statistics server capture information to gather broad demographic
 
 For our paid personalized services we gather basically the information needed for fulfillment of the service. This is held in strict confidence, as explained earlier. We guarantee complete confidentiality of our members’ identity, horoscope details and the prediction details. Cyber Astro, Inc. further guarantees that no direct or indirect use will be made by Cyber Astro about any aspect of life, as revealed in the horoscope of a member, except for the explicit purpose of communicating the horoscope charts and predictions back to the member.
 
-For payment of the paid services, we use an independent secure server company, Internet Billing Company, based in Florida. Your credit card information, as well as your address for address verification is collected by this company on their website and Cyber Astro, Inc. has no access to this information.
+For payment of the paid services, we use two independent secure server companies, Bank Card USA for International Cards and Payseal of ICICI Bank Ltd. for Indian Credit cards. Your credit card information, as well as your address for address verification is collected by this company on their website and Cyber Astro, Inc. has no access to this information.
 
 **Other information that we may collect**
 
-Any other information we have may for you come from actual email or other contact you may have made with us in regard to specific services or products. As a general rule, these are not made part of your member profile, and are used only to address your specific need or concern that you may have communicated to us on. Although we give you the option to tell your friends about our site, we do not monitor or keep any record of friends you may contact. Information gathered on our “Affiliate with Us”, is used primarily for a Business-to-Business purpose and to encourage inquiries from other web sites that might be interested in obtaining our Astrology Content for their own site. Information from “Advertise with Us” similarly is used to generate interest in other sites or companies that may wish to purchase banner advertising on our site.
+Any other information we may have for you, comes from actual email or other contact you may have made with us in regard to specific services or products. As a general rule, these are not made part of your member profile, and are used only to address your specific need or concern that you may have communicated to us on. Although we give you the option to tell your friends about our site, we do not monitor or keep any record of friends you may contact. Information gathered on our “Affiliate with Us”, is used primarily for a Business-to-Business purpose and to encourage inquiries from other web sites that might be interested in obtaining our Astrology Content for their own site. Information from “Advertise with Us” similarly is used to generate interest in other sites or companies that may wish to purchase banner advertising on our site.
 
   
 **How do we use this information?**
@@ -102,7 +102,7 @@ Free email services at our domain name @ClubCyberastro.com is provided by [www.E
   
 **What communications do we send you?**
 
-At the current time we send out an automatic Welcome letter from the site when you enroll as a member with your user name and password so that you may use it as a reference in the future. There is no other formal communication program in place currently, and we only respond to your specific queries. Before we start any program to communicate with you on a regular basis, for informational or promotional purposes, we will give you the option of not receiving information from us.
+At the current time we send out an automatic Welcome letter from the site when you enroll as a member with your user name and password so that you may use it as a reference in the future. Additionaly, we send you email for your personalized monthly astrological signatures and information regarding new products and services, from time to time. You are provided with an option to unsubscribe from this mailing list at any time. Besides these communications, we bring you special offers from our business associates on their products and services. Once again, you have an option to opt out from receiving such special offers.
 
   
 **How can you correct/update your membership profile or information?**
@@ -135,7 +135,7 @@ Cyber House
 35 (4 Bays)  
 Echelon Institutional Area  
 Sector 32  
-Gurgaon - 122 022  
+Gurgaon 122 002  
 Haryana  
 India
 
