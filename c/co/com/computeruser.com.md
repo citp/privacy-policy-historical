@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208064927id_/http%3A//www.computeruser.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computeruser.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207090640id_/http%3A//www.computeruser.com/about/privacy.html) for the most accurate reproduction.*
 
 # ComputerUser Privacy Statement
 
@@ -28,6 +28,9 @@
   | [Click here for web hosting services](http://www.hosting4less.com/)  
   | [Click Here for Dial-Up Internet Access](http://www.dialup4less.com/)  
   | [ Career Training & Technical Degrees](http://www.careertrainingdirectory.com/)  
+| A D V E R T I S E M E N T S  
+---|---  
+  |   
   
 Please reload this page to view the headlines
 
