@@ -1,23 +1,14 @@
-> *The following text is extracted and transformed from the mcdonalds.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202202906id_/http%3A//www.mcdonalds.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdonalds.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231013131id_/http%3A//www.mcdonalds.com/privacy.html) for the most accurate reproduction.*
 
-# McDonald's - Internet Privacy Policy
-
-McDonald's Internet Privacy Policy  
-**[En Español](https://web.archive.org/web/20031202202906id_/http%3A//www.mcdonalds.com/privacy/spanish/index.html)**
-
-Thank you for visiting us online at McDonalds.com. At McDonald's, we strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy on the Internet, especially for children. 
-
-Thanks again for visiting our web-site and for placing your trust in McDonald's. 
-
-McDonald's Internet Privacy Policy
+# Privacy Policy
 
 McDonald's Corporation ("McDonald's") is pleased to provide information to all of its customers about its online privacy policy. Please be assured that McDonald's uses its best efforts to protect the privacy of visitors to this web site. 
 
 **Types of Information We Collect and How It Is Used**
 
-McDonald's only gathers personal information, such as, first and last names, addresses and email addresses, when voluntarily submitted by you. For example, personal information may be collected from you in order to get your feedback on our web sites and our products or to enter you in one of our contests or sweepstakes. 
-
-**Sharing of Personal Information**
+McDonald's only gathers personal information, such as, first and last names, addresses and email addresses, when voluntarily submitted by you. For example, personal information may be collected from you in order to get your feedback on our web sites and our products or to enter you in one of our contests or sweepstakes.   
+**  
+Sharing of Personal Information**
 
 McDonald's may share personal information within the McDonald's Family. The McDonald's Family includes McDonald's Corporation, our franchisees, our subsidiaries and our affiliates. Of course, any use of this information by the McDonald's Family will comply with this policy. Occasionally, with your permission, we will send marketing information to you, such as discount coupons, information about new product offerings, etc. If you do not elect to receive such materials, we will not send them to you. 
 
@@ -25,9 +16,9 @@ Companies may be engaged by McDonald's to perform a variety of functions, such a
 
 McDonald's does not sell, transfer or disclose personal information to third parties outside the McDonald's Family. However, with your permission, we will, on occasion send marketing information on behalf of one of our business partners about products or services they provide that may be of interest to you. You may be asked if you wish to receive marketing materials from McDonald's business partners. If you elect to receive such materials, McDonald's will not share your personal information with such partners but rather will send a mailing or email on behalf of the partners. 
 
-McDonald's reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety. 
-
-**Our Privacy Policy Regarding Children**
+McDonald's reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety.   
+**  
+Our Privacy Policy Regarding Children**
 
 McDonald's is very sensitive to privacy issues. We are proud of our longtime commitment to our customers. We are especially careful in any communications with one of our most treasured customers - children. 
 
@@ -41,9 +32,9 @@ We urge parents to regularly monitor and supervise their children's on-line acti
 
 You are in control of any personal information you provide to us on-line. If at any time, you would like to correct the personal information we have about you or if you would like to change your preferences for contacts from us or on behalf of our business partners, you can let us know by contacting us at the email or postal address listed below. 
 
-In order to review any personal information we have **_about you_** or to ask us to delete that information or to stop further use of the information, please submit this [**information request form**](https://web.archive.org/web/20031202202906id_/http%3A//www.mcdonalds.com/privacy/form/index.html). 
-
-In order to review any personal information we have **_about your child_** or to ask us to delete that information or to stop further use of the information, please submit this [**information request form**](https://web.archive.org/web/20031202202906id_/http%3A//www.mcdonalds.com/privacy/childform/index.html). 
+In order to review any personal information we have **about you** or to ask us to delete that information or to stop further use of the information, please submit this[ information request form. ](https://web.archive.org/privacy/request.html)[  
+](http://#)  
+In order to review any personal information we have **about your child** or to ask us to delete that information or to stop further use of the information, please submit this [information request form. ](https://web.archive.org/privacy/rc.html)
 
 **Cookies**
 
@@ -53,7 +44,7 @@ Use the options in your web browser if you do not wish to receive a cookie or if
 
 **Links to Other Sites**
 
-We may offer links to sites that are not operated by McDonald's Corporation. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies. 
+We may offer links to sites that are not operated by McDonald's Corporation. If you visit one of these linked sites, you should review their privacy and other policies. We are not responsible for the policies and practices of other companies, and any information you submit to those companies is subject to their privacy policies. 
 
 **Other McDonald's Web Sites**
 
@@ -65,15 +56,16 @@ Many McDonald's restaurants are owned and operated by franchisees, who are indep
 
 **Changes to our Privacy Policy**
 
-From time to time, it may be necessary for McDonald's to change this privacy policy, so we suggest that you check here periodically. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information. 
+This privacy policy is effective as of June 8, 2004.From time to time, it may be necessary for McDonald's to change this privacy policy. If we change our policy, we will post the revised version here, so we suggest that you check here periodically for the most up-to-date version of our privacy policy. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
 
-**How to Contact Us**
+ **How to Contact Us**
 
-If you have any [questions about our McDonald's Internet Privacy Policy](https://web.archive.org/countries/usa/corporate/contacts/index.html), please contact us at: 
+If you have any [questions about our McDonald's Internet Privacy Policy](https://web.archive.org/usa/contact.html), please contact us at: 
 
 Privacy at McDonald's  
-McDonald's Customer Satisfaction Department  
+Dept. 062  
 One Kroc Drive  
 Oak Brook, IL 60523  
 USA  
-630/623-7644
+(800) 261-9827  
+or e-mail us at contact.privacy@mcd.com
