@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010071723id_/http%3A//www.aclu.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aclu.org privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605123128id_/http%3A//www.aclu.org/Privacy.cfm) for the most accurate reproduction.*
 
-# ACLU Freedom Network Privacy Statement
+# American Civil Liberties Union : Privacy Statement
 
 ## Privacy Statement for ACLU Freedom Network
 
 The American Civil Liberties Union has created this privacy statement to demonstrate its firm commitment to privacy by informing site visitors of the ACLU's data collection and storage practices, and guidelines for use of visitor data.
 
-For more details about our advocacy work on electronic privacy, see [/issues/privacy/hmprivacy.html](https://web.archive.org/issues/privacy/hmprivacy.html)
+For more details about our advocacy work on electronic privacy, see <http://www.aclu.org/Privacy/PrivacyMain.cfm>
 
-The ACLU has filed comments on the National Telecommunications and Information Administration's notice and request for comments regarding electronic commerce, which may be found at [/congress/l070698a.html](https://web.archive.org/congress/l070698a.html)
+The ACLU has filed comments on the National Telecommunications and Information Administration's notice and request for comments regarding electronic commerce, which may be found at <http://archive.aclu.org/congress/l070698a.html>
 
-The following statements detail information gathering and dissemination practices for the ACLU's Freedom Network, located at http://www.aclu.org and any other associated sites using the aclu.org domain. 
+The following statements detail information gathering and dissemination practices for the ACLU's Freedom Network, located at http://archive.aclu.org and any other associated sites using the aclu.org domain. 
 
 ### User Tracking and Data Capture Practices
 
@@ -34,7 +34,7 @@ E-mail addresses of visitors and members are **never** exchanged with other orga
 
 Our activist letters and activist list are administered on acluaction.org, a website that the ACLU runs on CapWiz, an electronic communication service of Capital Advantage Inc. The contract between ACLU and Capitol Advantage allows CapWiz to collect and store the personal information that you provide on our behalf, but Capitol Advantage is prohibited from sharing this information to any except the ACLU. The contract forbids Capitol Advantage from renting, selling or trading any of this information.
 
-**Activist Letters**
+ **Activist Letters**
 
 Our write your elected representatives feature counts your letter and its recipient, but does not record its content. Counting permits us to track how many letters are delivered to which officeholders. Your elected representative is selected according to the address you enter when sending a letter. If you wish to have your address stored as a "cookie" for future use on your computer, select the "remember me" option when sending letter. If you do not select "remember me," your information will not be stored on your computer or our server. If you choose to be remembered, the cookie will be stored on your computer solely for the purpose of retrieving your personal address when you send letters. It will not be stored on Capitol Advantage or ACLU servers. 
 
@@ -84,9 +84,9 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for changing and modifying information previously provided. 
 
 **Membership Information  
-**Please provide your ACLU member ID, if known, your old address, and your new address. 
+** Please provide your ACLU member ID, if known, your old address, and your new address. 
 
-  * [address change form](https://web.archive.org/forms/change.html)
+  * [address change form](https://web.archive.org/forms/change.html)    
   * send mail to the following postal address: 
 
 Membership Department   
@@ -95,14 +95,14 @@ New York, NY 10004
 
 **Merchandise and Publications Purchase Information**
 
-  * email [orders@aclu.org](mailto:orders@aclu.org)
+  * email [orders@aclu.org](mailto:orders@aclu.org)    
   * send mail to the following postal address: 
 
 ACLU Publications  
 P.O. Box 4713  
 Trenton, NJ 08650-4713
 
-**Action Letters**
+ **Action Letters**
 
   * email [field@aclu.org](mailto:field@aclu.org)
 
@@ -116,7 +116,7 @@ Trenton, NJ 08650-4713
 
 **All other ACLU Freedom Network features**
 
-  * email [aclu@aclu.org](mailto:aclu@aclu.org)
+  * visit [ACLU's Feedback pages](http://www.aclu.org/feedback/feedback.cfm)    
   * send mail to the following postal address: 
 
 ACLU Online Programs (Name of Service)  
@@ -125,7 +125,7 @@ New York, NY 10004
 
 ### Viewing your Information
 
-**Membership Information** Please provide your ACLU member ID, if known, and your current address 
+ **Membership Information** Please provide your ACLU member ID, if known, and your current address 
 
   * send mail to the following postal address: 
 
@@ -141,13 +141,13 @@ New York, NY 10004
 
 **E-mail services** (including Action List, NewsFeed, and Cyber-Liberties Newsletter) 
 
-  * visit [/action/mailist.html](https://web.archive.org/action/mailist.html)
+  * visit <http://www.aclu.org/team/member.cfm>
 
 
 
 **All other ACLU Freedom Network features**
 
-  * email [aclu@aclu.org](mailto:aclu@aclu.org)
+  * visit [ACLU's Feedback pages](http://www.aclu.org/feedback/feedback.cfm)
 
 
 
@@ -164,7 +164,7 @@ Membership Department
 New York, NY 10004 
 
 **Merchandise and Publications Purchase Information  
-**We do not delete this information, but will correct an address.   
+** We do not delete this information, but will correct an address.   
 
 
 **Action Letters**
@@ -175,13 +175,13 @@ New York, NY 10004
 
 **E-mail services** (including Action List, NewsFeed, and Cyber-Liberties Newsletter)
 
-  * visit [/action/mailist.html](https://web.archive.org/action/mailist.html)
+  * visit <http://www.aclu.org/team/member.cfm>
 
 
 
 **All other ACLU Freedom Network features**
 
-  * email [aclu@aclu.org](mailto:aclu@aclu.org)
+  * visit [ACLU's Feedback pages](http://www.aclu.org/feedback/feedback.cfm)    
   * send mail to the following postal address: 
 
 ACLU Online Programs  
@@ -193,11 +193,6 @@ New York, NY 10004
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 
 
-American Civil Liberties Union 125 Broad Street, 18th Floor New York, NY 10004 [aclu@aclu.org](mailto:aclu@aclu.org)
+American Civil Liberties Union125 Broad Street, 18th FloorNew York, NY 10004[ACLU Feedback](http://www.aclu.org/feedback/feedback.cfm)
 
-Last Updated: July 9, 2002  
-
-
-[](https://web.archive.org/aclulink/graphics/toolbar.map)
-
-###### _[Copyright](https://web.archive.org/about/copyright.html) 2002, The American Civil Liberties Union_
+Last Updated: July 9, 2002
