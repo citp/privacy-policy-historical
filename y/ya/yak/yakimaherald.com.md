@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009174510id_/http%3A//yakimaherald.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yakimaherald.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403230715id_/http%3A//www.yakimaherald.com/privacy.php) for the most accurate reproduction.*
 
 # Yakima Herald-Republic Privacy Statement
 
