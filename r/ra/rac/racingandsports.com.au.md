@@ -1,94 +1,122 @@
-> *The following text is extracted and transformed from the racingandsports.com.au privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803181054id_/http%3A//www.racingandsports.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racingandsports.com.au privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604034830id_/http%3A//aap.com.au/privacy-statement.asp) for the most accurate reproduction.*
 
-# Racing and Sports
+# Privacy Statement
 
-**Privacy Policy**   
-**"Racing and Sports Pty Ltd does care about your privacy."** To protect your privacy, Racing and Sports has strict policies regarding it's use of information gathered during your visit. 
+|  PRIVACY POLICY
 
-This privacy statement discloses our practices for the gathering and use of information from visitors to the racingandsports.com.au and other affiliate sites.
+Australian Associated Press Pty Ltd (AAP) respects the privacy of its customers, business contacts and suppliers. AAP understands that the privacy of your information is important to you.
 
-**Racing and Sports may use your IP address to:**
+This policy outlines the personal information which AAP collects and how AAP handles that information. The policy also outlines how you may access and seek correction of personal information which AAP holds about you. This policy reflects AAP's obligations under the National Privacy Principles (NPPs) which are contained in the Privacy Act 1988. 
 
-  1. help diagnose problems with our server should there be a problem
-  2. administer our Web site
-  3. gather very broad demographic information about site useage.
+With the exception of AAP's editorial department, this policy applies to all of AAP's business units and AAP's subsidiaries, AAP Communications Services Pty Ltd (AAPCS) and Pagemasters Pty Ltd. 
 
+This policy does not apply to AAP's journalists, to the extent that they engage in acts or practices in the course of journalism. When AAP's journalists are engaged in acts or practices in the course of journalism, AAP will expect them to comply with the Australian Press Council's privacy code (Code). A copy of the Code is available at [www.presscouncil.org.au\pcsite\priv_stand.html.](http://www.presscouncil.org.au/pcsite/priv_stand.html)
 
+**1\. AAP's Products and Services**
 
-Your IP address is never stored or recorded
+AAP is one of Australia's largest content originators and aggregators. AAP provides a variety of online and offline information products such as news, finance, racing, media and general interest information. AAP's products and services include: 
 
-**Racing and Sports and cookies**
+  * news and current affairs information feeds; 
+  * financial information products; 
+  * real time and archive photographic services; 
+  * racing and pedigree information; and 
+  * media release distribution service, provided across a range of technology platforms including by facsimile, broadcast, Internet and new technology mediums. AAP's subsidiary, AAPCS, delivers communications infrastructure and ATM solutions to corporate clients.
 
-  1. keep track selected options menu to enhance site navigation
-  2. administer adverstising content to ensuring that you don't see the same ad repeatedly
-  3. deliver content specific to your interests
-  4. save your password so you don't have to re-enter it each time you visit our site,
-  5. and for other purposes to ensure that your surfing experience is enjoyable.
+For the purposes of this policy, the products and services described in this section will be referred to as "our products and services". 
 
+**2\. What Personal Information does AAP collect?**
 
+AAP collects personal information about its retail and business customers and other business contacts, such as AAP's suppliers and contractors, in a variety of ways. 
 
-Racing and Sports uses cookies in several instances throughout our website for a variety of reasons, as explained below.
+**(a) Existing Customers**  
+If you are an AAP customer (who has asked to be provided with our products and services), AAP will collect personal information about you, such as your name, address and contact information (including email address). AAP collects this information in order to provide you with our products and services and to manage our relationship with you. At the time of collecting this personal information, AAP may also request other information about you to assist AAP in identifying which of our current and future products and services may be of interest to you. 
 
-We use "non-persistent cookies" to assist our servers to 'remember' data that you have selected. These requests mean that the data can be stored with the browser in the user's computer memory, and then return the same information back to the Web site. 
+**(b) Potential Customers**  
+Sometimes AAP identifies the contact details of potential customers and business contacts through AAP's own investigations. If you are a potential customer, information about you may be collected for the purpose of advising you about those of our products and services which may be of interest to you. If we do collect personal information about you in this way, we will provide you with the opportunity to control how that information is used by AAP. This is discussed further in this Policy at 3(b) below. 
 
-Because cookies are implemented with each server in our site, we recommend turning off your cookie alert to facilitate your navigation throughout the site.
+**(c) Recipients of Media Releases**  
+AAP's MediaNet business distributes media releases, on behalf of third parties, to a wide range of media organisations. Through its own investigations, MediaNet identifies potential recipients of media releases who MediaNet reasonably concludes may be interested in receiving media releases. 
 
-Our use of cookies does not: 
+As part of its service, MediaNet collects the business contact details of a potential recipient. This may include a potential recipient's name, job title, employer and business contact details, including a business email address. MediaNet gives you the opportunity to control the use which MediaNet and its clients make of your personal information in the manner set out 3(a) below. 
 
-  * retrieve information from the user's computer that was not originally sent by us in a cookie. 
-  * retrieve any personal information stored on your computer. 
-  * write a virus or any other harmful material to your hard drive. 
-  * We will not share cookie-related information with any other company or organization. 
+**(d) Business Contacts & Suppliers**  
+If you or your organisation enters into or is likely to enter into any business dealings with AAP, AAP will collect the personal information necessary for the relevant business transaction with you and/or your organisation. This will include all personal information contained in all correspondence and any agreement between you and AAP. 
 
+**(e) Online Collection**  
+For anyone who deals with AAP or one of AAP's business units online, AAP will also collect additional information as a result of your use of our websites. This additional information may or may not identify you. 
 
+Information collected through the websites of AAP and AAP's business units will include the information which you voluntarily provide. This may include information provided as part of a customer service enquiry or a registration form. Some pages may require you to provide your username and login. 
 
-**The Racing and Sports site cannot be used without the use of cookies.**
+The additional information collected online may also include the type of your Internet browser, operating system, address of the referring site, your IP address and clickstream information. AAP may also collect information about the use which is made of AAP's websites using your username and password. 
 
-Other references related to this cookies:  
+**3\. How Does AAP Use Your Personal information?**
 
+**(a) Provision of Our Products and Services**  
+If you are an AAP customer or potential customer, AAP uses the personal information we collect to provide you with our products and services and with information about our products and services. This includes administering your account with us, customer service and providing any information which you have requested. 
 
-  * [_How Popular Sites Use _cookie_ Technology_, _NetscapeWorld_ , April 1997](http://www.netscapeworld.com/netscapeworld/nw-04-1997/nw-04-cookies.html)  
+In relation to personal information collected about potential and actual recipients of MediaNet's media release service, AAP uses that information to distribute media releases from Australian and overseas sources to those recipients. AAP provides recipients with the option to decide whether or not they wish to be contacted in the future with further media releases. 
 
-  * [_Persistent Client State: HTTP _cookies_ (Preliminary Specification)_, Netscape](http://home.netscape.com/newsref/std/cookie_spec.html)  
+**(b) Information about our products and services**  
+If you are an existing or potential customer, AAP may use personal information about you to advise you about our products and services from time to time. 
 
+When AAP uses personal information in this way, AAP will give you the option to decide whether or not you wish to receive information about our products and services and related information. Please let us know if you do not want personal information about you to be used for these purposes. 
 
+**(c) Business Contacts**  
+AAP's policy is to use business contact information (collected in relation to its suppliers and other business contacts) for the business purpose for which it was collected. 
 
+**(d) Online Information**  
+If you use an AAP website to access our products and services, AAP may use information about the use you have made of your websites for the purpose of monitoring your compliance with applicable terms for the use of the website, your actual use of the website, and billing. Your login name and password will identify you online. 
 
-**Using the Racing and Sports site may require you to give us email contact contact information. Racing and Sports may use this customer contact information to:**
+**(e) Statistical Information**  
+AAP may use information, including that collected through our website, for statistical purposes to improve the range of our products and services. If it does so, aggregated (ie de-identified) information will generally be used. 
 
-  1. send you information about our company, promotional material from us or some of our partners and
-  2. contact you when necessary
+**4\. Does AAP give your personal information to anyone else?**
 
+**(a) MediaNet**  
+Unless you tell us otherwise, AAP will disclose the personal information of recipients of the MediaNet service to MediaNet's clients. MediaNet may also share personal information of recipients of the MediaNet service with partners located overseas such as PRNMedia. Unless you tell us otherwise, these partners will use your personal information for the purpose of distributing press releases which may be of interest to you. 
 
+**(b) Third Party Suppliers & Contractors**  
+AAP may disclose personal information to third party contractors and service providers who help us operate our business or to provide you with our products and services. This may include AAP's "information sources" who provide AAP with information and materials for inclusion in our products and services. It is AAP's policy to require these third parties and contractors to only use the personal information for the purpose for which it has been provided to them by AAP. 
 
-**Racing and Sports however will NOT use this information to:**
+**(c) Disclosures Required for Legal Reasons**  
+For legal reasons, other disclosures may need to be made to law enforcement agencies, government agencies, courts or external advisors. AAP's policy is to only make such disclosures in accordance with the Privacy Act. 
 
-  1. Pass-on any email contact information to any third party.
+**5\. Access and Correction**
 
+Under the Privacy Act, you have a right to seek access to information which AAP holds about you (although there are some exceptions to this). You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date. 
 
+If you wish to exercise your right under the Privacy Act to seek access to or correct the personal information that AAP holds about you, we ask that you contact AAP's Privacy Officer by e-mail at [privacy@aap.com.au](mailto:privacy@aap.com.au), or by mail to Locked Bag 21, Grosvenor Place, Sydney NSW 2001. When contacting AAP's Privacy Officer, please provide as much detail as possible to assist us to follow-up your request. 
 
-This site contains links to other sites. Racing and Sports Pty Ltd is not responsible for the privacy practices or the content of Web sites to which we link.
+In the first instance, we will generally provide you with a summary of the information we hold about you. We will assume (unless you tell us otherwise) that your request relates to our current records about you. These current records will include personal information about you which is included in our computers, databases and in paper files, and which may be used by AAP on a day to day basis. 
 
-We may in time have special business relationships with some companies, none of them will receive individual identifying information about you collected at racingandsports.com.au or affilate sites.
+To provide you with access to this personal information, AAP will ordinarily provide you with a print-out of the relevant personal information from our databases, or with photocopies of records which are held only on paper files. If personal information about you (for example, your name & address details) is duplicated across different databases, we will generally provide you with one print-out of this information, rather than multiple print-outs. Ordinarily, AAP will not charge you for the cost of providing this type of access to these records. 
 
-Racing and Sports uses chat rooms, forums, message boards, and/or news groups. Users should remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information (name, e-mail address, or other contact or personal details).
+For legal and administrative reasons, AAP may also store records containing personal information in its archives. You may seek access to the records held by AAP which are not current records, but if you do so, we may charge you for the cost of providing access. 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
+Also, please be aware that if the relevant personal information was collected before 21 December 2001, AAP will only provide you with access in accordance with section 16C of the Privacy Act 1988. This states that access must only be provided to personal information collected before 21 December 2001 if we use and disclose that information after that date, and that providing access would not cause an unreasonable administrative burden or unreasonable expense. 
 
-We use secure servers with encryption for certain transactions and confidential data. 
+If you are of the view that personal information about you is not accurate, complete or up to date, please provide AAP's Privacy Officer with your request for correction. AAP's policy is to consider any requests for correction in a timely way. 
 
-We maintain a firewall to protect data within our network. You can report any suspect network abuse and any risk of security violations to us by emailing [security@racingandsports.com.au](mailto:security@racingandsports.com.au).
+**6\. Is your personal information stored safely?**
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+AAP takes reasonable steps to ensure the security of personal information held by it from such risks as loss or unauthorised access, destruction, use, modification or disclosure. Our IT systems are password protected, protected by firewalls and satisfy other industry standard security measures, and if personal information is held on paper files, it is only accessed by authorised personnel. 
 
-You should first try to unsubcribe yourself from the services selected if you elect not to receive future communications. 
+**7\. Contacting AAP**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+If you have any questions or comments about this privacy policy, or if you have a compliant about the handling of personal information relating to you, please contact AAP's Privacy Officer by one of the following methods: 
 
-Gary Cripse  
-Racing and Sports Pty. Ltd.  
-P.O. Box 42  
-Rivett, ACT, Canberra   
-Australia   
-Phone: 0408 889 448  
-[gary@racingandsports.com.au](mailto:gary@racingandsports.com.au)
+**Email:**
+
+> [privacy@aap.com.au](mailto:privacy@aap.com.au)
+
+**Mail:**
+
+> Locked Bag 21,   
+>  Grosvenor Place,   
+>  Sydney NSW 2001. 
+
+**8\. Changes to this Privacy Policy**
+
+This privacy policy may change from time to time. This policy was last updated on 18 July 2002. 
+
+| 
