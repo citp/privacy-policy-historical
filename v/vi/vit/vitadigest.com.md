@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207050704id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2005-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050321164715id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
 
 # VitaDigest - The Vitamins Supplement & Sports Nutrition SuperStore Privacy Policy
 
 | | |   
 ---|---|---  
-**WELCOME TO VITADIGEST.COM**
-
- ** **PRIVACY POLICY****
+**WELCOME TO VITADIGEST.COM** ****PRIVACY POLICY**** [](http://www.truste.org/ivalidate.php?url=www.vitadigest.com&sealid=101)
 
 At Vitadigest.com, your privacy is our top priority. Please read our privacy policy details. This privacy statement discloses the privacy and security practices for Vitadigest.com website.
 
@@ -36,7 +34,7 @@ Attn: Privacy Compliance Officer
 VITADIGEST.COM, Inc.   
 1820 S. Third Street   
 Alhambra CA 91803
-If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process http://www.truste.org/watchdog.html. TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+If you do not receive acknowledgment of your inquiry or it is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
 
 * * *
 
@@ -178,7 +176,7 @@ VITADIGEST.COM, Inc.
 Alhambra CA 91803
 You may also contact us by e-mail at [privacy@vitadigest.com](mailto:privacy@vitadigest.com)
 
-Last Updated: 06/24/2004
+Last Updated: 09/24/2004
 
 Back to Top
 
