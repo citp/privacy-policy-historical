@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashville.gov privacy policy that was archived on 2002-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020618172225id_/http%3A//www.nashville.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashville.gov privacy policy that was archived on 2002-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021220023237id_/http%3A//www.nashville.gov/privacy.htm) for the most accurate reproduction.*
 
 # Metropolitan Government of Nashville and Davidson County
 
@@ -19,7 +19,12 @@ If you voluntarily send us information, i.e. you fill out a form requesting info
 
 **Our policy on "cookies"**
 
-As of right now, this website does not use "cookies." Cookies are computer files (or entries in a computer file) to help track information during multiple visits to a website. However, in the future certain applications under consideration might call for the use of cookies. At that time, we will fully disclose this to our site visitors and make clear how this "cookie" can be refused.
+A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a session ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Some parts of this website, like ebid.Nashville.gov, use cookies to track user sessions. We do this in order to determine if an individual has left the site and needs to log in again. The passive cookies used on this site do not remember you each time you visit the site.
+
+If you prefer not to receive cookies while browsing our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser, although you may not be able to take full advantage of this website if you do so. You do not need to have cookies turned on to use or navigate through many parts of our website, except access to certain web pages that require a login and password.
+
+  
+
 
 For more detailed information on cookies, visit this page on the Microsoft web site.
 
