@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htmlbasictutor.ca privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206141641id_/http%3A//www.htmlbasictutor.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htmlbasictutor.ca privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403172011id_/http%3A//htmlbasictutor.ca/privacy.htm) for the most accurate reproduction.*
 
 # HTML Basic Tutor - Privacy Policy
 
