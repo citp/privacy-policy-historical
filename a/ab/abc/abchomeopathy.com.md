@@ -1,21 +1,16 @@
-> *The following text is extracted and transformed from the abchomeopathy.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002130231id_/http%3A//abchomeopathy.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abchomeopathy.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611182330id_/http%3A//www.abchomeopathy.com/privacy.htm) for the most accurate reproduction.*
 
 # ABC Homeopathy - privacy policy
 
-| [ABC Homeopathy home](http://www.abchomeopathy.com/)  
+| [ Homeopathy](http://www.abchomeopathy.com/)  
 ---  
-  | [Copyright](https://web.archive.org/web/20031002130231id_/http%3A//abchomeopathy.com/copyright.htm)  
-  | [Disclaimer](https://web.archive.org/web/20031002130231id_/http%3A//abchomeopathy.com/disclaimer.htm)  
+  | [Copyright](https://web.archive.org/web/20040611182330id_/http%3A//www.abchomeopathy.com/copyright.htm)  
+  | [Disclaimer](https://web.archive.org/web/20040611182330id_/http%3A//www.abchomeopathy.com/disclaimer.htm)  
   | Privacy Policy  
-  | [Security Statement](https://web.archive.org/web/20031002130231id_/http%3A//abchomeopathy.com/security.htm)  
+  | [Security Statement](https://web.archive.org/web/20040611182330id_/http%3A//www.abchomeopathy.com/security.htm)  
 |   
-ABC Homeopathy - Privacy Policy
-
-> In brief:
-> 
+  
 > Any information you provide to ABC Homeopathy will only be used for the purposes which you supplied it for. 
-> 
-> In full:
 > 
 > Details supplied to us for the purpose of buying remedies.
 > 
@@ -40,5 +35,11 @@ ABC Homeopathy - Privacy Policy
 >   * We may use your e-mail address to inform you of changes to the database which may affect your saved case(s), though we are under no obligation to do so.
 > 
 
+> 
+> Details supplied to the forum.
+> 
+>   * Information you supply to the forum is publicly available, and if you choose to make your email address visible in your profile, or include it in a post, you may well receive unsolicited commercial email from third parties who are in no way connected to ABC Homeopathy, but have found your information on our website. 
+>   * We will not share email addresses which are not publicly available, and will not release them to third parties except as required to by law.
+>   * We will not subscribe you to any mailing list, nor use your information for marketing purposes, except to notify you of changes to the site that are likely to affect your use of the forum. 
+> 
 
->  
