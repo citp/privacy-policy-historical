@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbq.com.qa privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121160539id_/http%3A//cbq.com.qa/Legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbq.com.qa privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603194857id_/http%3A//cbq.com.qa/Legal/privacy.html) for the most accurate reproduction.*
 
 # Legal - Privacy Policy
 
