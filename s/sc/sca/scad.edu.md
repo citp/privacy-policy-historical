@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401082150id_/http%3A//scad.edu/shared/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scad.edu privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207121432id_/http%3A//www.scad.edu/shared/privacy/index.html) for the most accurate reproduction.*
 
-# Savannah College of Art and Design: Calendar
+# Savannah College of Art and Design: Privacy Policy
 
   
 Welcome to the Web site of the Savannah College of Art and Design. We have created this Privacy Policy to outline our firm commitment to your privacy. Please read this policy to understand how the college treats any personal information you provide via this site.
