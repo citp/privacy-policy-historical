@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the skinet.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205163600id_/http%3A//www.tminterzines.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinet.com privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411142516id_/http%3A//www.skinet.com/privacy.html) for the most accurate reproduction.*
 
-# Times Mirror Interzines - Privacy Policy
+# SkiNet.com | Contact Us
 
   
-| 
-
 **Times Mirror Interzines' Privacy Policy**
 
 The site you are about to view follows the Times Mirror Interzines Privacy Policy. The site is maintained by Times Mirror Magazines Inc., 2 Park Avenue, New York, NY, 10016. 
@@ -19,8 +17,7 @@ KIDS: Be sure to ask your parents for permission before you send any information
 
 PARENTS: Any such information collected by TMI from children is used for editorial participation and feedback purposes, together with any other purposes that will be described where the information is collected, and will not be transferred to any third party. Cookies placed by TMI for use throughout the TMI sites will not be used to collect information in areas within TMI sites that are geared to children. 
 
-  
-2 Park Ave.   
-New York, NY 10016   
-(212) 779-5000   
+2 Park Ave.  
+New York, NY 10016  
+(212) 779-5000  
 Fax: (212) 481-8085 
