@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smartmoney.com privacy policy that was archived on 2002-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605025516id_/http%3A//www.smartmoney.com/policies/index.cfm%3Fstory%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartmoney.com privacy policy that was archived on 2002-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021205062412id_/http%3A//www.smartmoney.com/policies/index.cfm%3Fstory%3Dprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>Smartmoney.com: Policies: SmartMoney.com Policies</title>
@@ -24,53 +24,187 @@
 
 		<link rel="stylesheet" type="text/css" href="/framework/stylesheets/sm_redesign_ns.css">
 	
+	
+
+	
+	<script language="JavaScript">
+	<!--
+	var showAd = true;
+
+var browserversion = navigator.appVersion;
+browserversion = parseInt(browserversion.substring(0,1));
+
+var isNS=(navigator.appName.indexOf("Netscape") != -1 );
+var isIE=(navigator.appName.indexOf("Microsoft") != -1 );
+if(browserversion < 4){ showAd=false; }
+
+function getCookie (name)
+	{
+		var dcookie = document.cookie;
+		var cname = name + "=";
+		var clen = dcookie.length;
+		var cbegin = 0;
+		
+		while (cbegin < clen)
+		{
+			var vbegin = cbegin + cname.length;
+			if (dcookie.substring(cbegin, vbegin) == cname)
+			{
+				var vend = dcookie.indexOf(";", vbegin);
+				if (vend == -1) vend = clen;
+				return unescape(dcookie.substring(vbegin, vend));
+			}
+			cbegin = dcookie.indexOf(" ", cbegin) + 1;
+			if (cbegin == 0) break;
+		}
+		return 0;
+	}
+
+function checkCookie (name)
+	{
+		if (browserversion >= 3)
+		{
+			var cookieValue = getCookie(name);
+			if ((cookieValue == "YES") || (cookieValue == 0))
+				showAd=false;
+		}		
+		
+}
+
+checkCookie("IAD");
+
+var targetLink = "";
+
+function checkURL(){
+	if(targetLink.indexOf("smartmoney.com") != -1
+		|| targetLink.indexOf(window.location.hostname) != -1
+		|| targetLink.indexOf("http://ccare.hearstmags.com") != -1)
+		showAd=false;
+}
+
+function checkClick(e){
+	if(showAd){
+	if (isIE) {
+	var srcE = window.event.srcElement;
+	while(srcE.tagName.toLowerCase()!="a" &&
+       srcE.tagName.toLowerCase()!="area" &&
+       srcE.tagName.toLowerCase()!="body" &&
+       srcE.tagName.toLowerCase()!="input") {
+       srcE = srcE.parentElement;	   
+      }
+	   if (srcE.tagName.toLowerCase()=="a" || srcE.tagName.toLowerCase()=="area") {
+        targetLink=srcE.href.toLowerCase();
+		checkURL()
+      }else if(srcE.tagName.toLowerCase() == "input"){
+	  	showAd=false;
+	  }
+	}
+	if (isNS){
+	 targetLink=e.target.toString().toLowerCase();
+	 checkURL()
+	 routeEvent(e);
+	}
+	}
+}	
+
+function popAd(){
+	
+	if(showAd){
+		popUpWindow("/mag_iad.cfm", "adWin", 350, 350, "yes", "no", 0, 0);
+	}
+	
+}
+
+function passForm(e){
+	showAd=false;
+	routeEvent(e);
+	return true;
+}
+
+if(isNS) { 
+ window.captureEvents(Event.CLICK | Event.SUBMIT);
+ window.onClick=checkClick;
+ window.onSubmit=passForm;
+}
+if(isIE) {
+ document.onclick=checkClick;
+}
 
 
+	//-->
+	</script>
 
-<script language="javascript" src="/framework/templates/dropdown_smi.js"></script>
+
+<script language="javascript" src="/framework/templates/dropsmi_hed.js"></script>
 </head>
-<body text="#000000" link="#CC0000" vlink="#CC0000" alink="#CC0000" leftmargin="0" topmargin="0" bgcolor="#FFFFFF" marginheight="0" marginwidth="0"> 
-<table width="780" border="0" cellspacing="5" cellpadding="0" bgcolor="#006699">
-	<tbody><tr>
-		<td><a href="http://ccare.hearstmags.com/cgi-bin/absplit.cgi?SplitFile=smyhome.urls" target="_blank"><img src="/framework/images/sub_295x60.gif" width="295" height="60" alt="" border="0"></a></td>
-		<td align="right"><nolayer><iframe src="http://ad.doubleclick.net/adi/policies.smartmoney/homepage;pos=1;stock=;sz=468x60;ptile=1;ord=2255153813?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/policies.smartmoney/homepage;abr=!ie;pos=1;stock=;sz=468x60;ptile=1;ord=2255153813?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/policies.smartmoney/homepage;abr=!ie;pos=1;stock=;sz=468x60;ptile=1;ord=2255153813?" border=0 width="468" height="60" hspace=0 vspace=0></A></iframe></nolayer><div align="left"><ilayer id="layer1" visibility="hidden" width="468" height="60" left="3"></ilayer></div> </td>
+<body text="#000000" link="#CC0000" vlink="#CC0000" alink="#CC0000" leftmargin="0" topmargin="0" bgcolor="#FFFFFF" marginheight="0" marginwidth="0" onunload="popAd();"> 
+	
+	
 
-	</tr>
-</tbody></table>
 
-<table width="780" border="0" cellspacing="0" cellpadding="0"> 
+<map name="toptabs">
+<area shape="rect" coords="226,0,361,20" href="/mag/" title="Magazine" alt="SmartMoney Magazine">
+<area shape="rect" coords="108,0,223,20" href="http://selectdl.smartmoney.com/?adv=SM.com_on-site&amp;advtype=Select_tab_header" title="Select" alt="SmartMoney Select">
+<area shape="rect" coords="0,0,107,20" href="/" title="SmartMoney.com" alt="SmartMoney.com">
+</map>
+<table width="780" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
-		<td width="257" background="/framework/images/redesign_stripes.gif"><a href="/"><img src="/framework/images/sm_rdlogo2.gif" width="247" height="61" alt="SmartMoney.com" border="0" hspace="5" vspace="0"></a></td>
-		<td width="93" background="/framework/images/redesign_stripes.gif">&nbsp;</td>
-		<td width="280" height="61" background="/framework/images/redesign_stripes.gif">
-			<table border="0" cellspacing="0" cellpadding="0" width="100%">
+		<td colspan="2">
+			<table width="100%" border="0" cellspacing="0" cellpadding="0">
 				<tbody><tr>
-					<form action="/cfscripts/Director.cfm" method="POST"></form>
-					<td>
-						<select name="searchType" class="small"><option class="small" value="Delayed" selected="">Delayed Quote</option><option class="small" value="Realtime">RT Quote</option><option class="small" value="charting">Charting</option><option class="small" value="earnings">Earnings</option><option class="small" value="ratings">Ratings</option><option class="small" value="competitions">Competition</option><option class="small" value="keyratios">Key Ratios</option><option class="small" value="financials">Financials</option><option class="small" value="insiders">Insiders</option></select><br>
-						<font size="1"><input type="Text" class="small" name="searchString" align="MIDDLE" size="10" maxlength="35"></font>&nbsp;<input type="Image" name="submit" align="ABSMIDDLE" src="/shared/images/go_arrow.gif" width="15" height="15" alt="Go" border="0" vspace="0" hspace="0">
-					</td>
-					<td width="50"><img src="/shared/images/spacer.gif" width="50" height="1" border="0" hspace="0" vspace="0"></td>
-					<form action="/cfscripts/Director.cfm" method="POST"></form>
-					<td>
-						<select name="searchType" class="small"><option class="small" value="site">Site Search</option><option class="small" value="news">News (Enter Symbol)</option><option class="small" value="splits">Splits</option><option class="small" value="buybacks">Buybacks</option><option class="small" value="updowngrades">Up/Downgrades</option><option class="small" value="secfilings">SEC Filings</option></select><br>
-						<font size="1"><input type="Text" class="small" name="searchString" align="MIDDLE" size="10" maxlength="35"></font>&nbsp;<input type="Image" name="submit" align="ABSMIDDLE" src="/shared/images/go_arrow.gif" width="15" height="15" alt="Go" border="0" vspace="0" hspace="0">
-					</td>
+					<td width="361"><img src="/framework/images/top_sm_on.gif" width="361" height="20" border="0" hspace="0" vspace="0" usemap="#toptabs"></td>
+					<td width="100%" class="ad" bgcolor="#000000"><img src="/framework/images/key.gif" width="13" height="20" border="0" hspace="3" vspace="0" align="absmiddle">
+					
+					
+						<a href="/portfolio/" class="ad"><b>Login</b></a>&nbsp;<img src="/framework/images/pencil.gif" width="11" height="20" border="0" hspace="3" vspace="0" align="absmiddle"><a href="/registration/index.cfm?story=register&amp;referid=1" class="ad"><b>Register</b></a>&nbsp;<img src="/framework/images/letter.gif" width="10" height="20" border="0" hspace="3" vspace="0" align="absmiddle"><a href="/mailingList/" class="ad"><b>Newsletters</b></a></td>
 				</tr>
 			</tbody></table>
 		</td>
-		<td width="150" background="/framework/images/redesign_stripes.gif"><img src="/framework/images/spacer.gif" width="150" height="1" border="0" hspace="0" vspace="0"></td>
+		<td width="1" rowspan="5"><img src="/shared/images/spacer.gif" width="1" height="1" border="0" hspace="0" vspace="0"></td>
+		<td width="127" bgcolor="#000000" rowspan="5" align="center" valign="middle"><map name="1102-125x125"><area shape="rect" coords="1,85,123,104" href="http://ccare.hearstmags.com/cgi-bin/absplit.cgi?SplitFile=smyhome.urls" alt="subs"><area shape="rect" coords="0,107,123,121" href="http://ccare.hearstmags.com/cgi-bin/absplit.cgi?SplitFile=smygift.urls" alt="gift"></map><img src="/smartsaver/adimages/1102-125x125.gif" width="125" height="125" border="0" hspace="1" vspace="0" usemap="#1102-125x125"></td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#00CCFF"><img src="/shared/images/spacer.gif" width="1" height="1" border="0" hspace="0" vspace="0"></td>
+	</tr>
+	<tr>
+		<td width="182" background="/framework/images/bkgd_stripes_0701.gif"><a href="/"><img src="/framework/images/logo_0701.gif" width="182" height="80" alt="SmartMoney.com" border="0" hspace="0" vspace="0"></a></td>
+		<td width="100%" background="/framework/images/bkgd_stripes_0701.gif"><nolayer><iframe src="http://ad.doubleclick.net/adi/policies.smartmoney/homepage;pos=1;stock=;dcopt=;sz=468x60;ptile=1;ord=0124142963?" width="468" height="60" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/policies.smartmoney/homepage;abr=!ie;pos=1;stock=;dcopt=;sz=468x60;ptile=1;ord=0124142963?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/policies.smartmoney/homepage;abr=!ie;pos=1;stock=;dcopt=;sz=468x60;ptile=1;ord=0124142963?" border=0 width="468" height="60" hspace=0 vspace=0></A></iframe></nolayer><div align="left"><ilayer id="layer1" visibility="hidden" width="468" height="60" left="3"></ilayer></div> </td>
+	</tr>
+	<tr>
+		<td colspan="2" bgcolor="#00CCFF"><img src="/shared/images/spacer.gif" width="1" height="1" border="0" hspace="0" vspace="0"></td>
+	</tr>
+
+	<tr>
+		<td colspan="2" bgcolor="#006699" height="25"><noscript>
+<table width=649 cellspacing=0 cellpadding=0 border=0>
+	<tr bgcolor="#006699">
+		<td width=11 height=25><img src="/framework/images/hash.gif" width=1 height=11 border=0 hspace=5 vspace=0></td>
+		<td width=76><a href="/portfolio/" class="tab">My Portfolio</a></td>
+		<td width=11><img src="/framework/images/hash.gif" width=1 height=11 border=0 hspace=5 vspace=0></td>
+		<td width=40><a href="/tools/" class="tab">Tools</a></td>
+		<td width=11><img src="/framework/images/hash.gif" width=1 height=11 border=0 hspace=5 vspace=0></td>
+		<td width=40><a href="/maps/" class="tab">Maps</a></td>
+		<td width=11><img src="/framework/images/hash.gif" width=1 height=11 border=0 hspace=5 vspace=0></td>
+		<td width=49><a href="/stocks/" class="tab">Stocks</a></td>
+		<td width=11><img src="/framework/images/hash.gif" width=1 height=11 border=0 hspace=5 vspace=0></td>
+		<td width=43><a href="/funds/" class="tab">Funds</a></td>
+		<td width=11><img src="/framework/images/hash.gif" width=1 height=11 border=0 hspace=5 vspace=0></td>
+		<td width=107><a href="/pf/" class="tab">Personal Finance</a></td>
+		<td width=11><img src="/framework/images/hash.gif" width=1 height=11 border=0 hspace=5 vspace=0></td>
+		<td width=112><a href="/bonds/" class="tab">Economy & Bonds</a></td>
+		<td width=11><img src="/framework/images/hash.gif" width=1 height=11 border=0 hspace=5 vspace=0></td>
+		<td width=83><a href="http://university.smartmoney.com" class="tab">Investing 101</a></td>
+		<td width=11><img src="/framework/images/hash.gif" width=1 height=11 border=0 hspace=5 vspace=0></td>
+	</tr>
+</table>
+</noscript></td>
 	</tr>
 </tbody></table>
 
-<table width="780" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr bgcolor="#006699"><td width="100%" height="25">&nbsp;</td></tr>
-</tbody></table>
-
+	
 	
 	
 
-	
 	<script>
 	<!--
 	var portname= new Array();
@@ -80,148 +214,31 @@ portlink[0]="/portfolio/";
 
 	//-->
 	</script>
-	
 
-<div id="divNavigation" style="POSITION: absolute; Z-INDEX: 10; LEFT: 0px; TOP: 131px;">
-<table width="645" cellspacing="0" cellpadding="0" border="0">
-
-	<tbody><tr bgcolor="#006699">
-		<td width="11" height="25"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td>
-		<td width="76"><a href="/portfolio/" onmouseover="expandMenu('Portfolio');" onmouseout="collapseMenu('Portfolio');" class="tab">My Portfolio</a></td>
-		<td width="11"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td>
-		<td width="40"><a href="/tools" onmouseover="expandMenu('Tools');" onmouseout="collapseMenu('Tools');" class="tab">Tools</a></td>
-		<td width="11"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td>
-		<td width="40"><a href="/maps" onmouseover="expandMenu('Maps');" onmouseout="collapseMenu('Maps');" class="tab">Maps</a></td>
-		<td width="11"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td>
-		<td width="49"><a href="/stocks" onmouseover="expandMenu('Stocks');" onmouseout="collapseMenu('Stocks');" class="tab">Stocks</a></td>
-		<td width="11"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td>
-		<td width="43"><a href="/funds" onmouseover="expandMenu('Funds');" onmouseout="collapseMenu('Funds');" class="tab">Funds</a></td>
-		<td width="11"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td>
-		<td width="107"><a href="/pf" onmouseover="expandMenu('Pf');" onmouseout="collapseMenu('Pf');" class="tab">Personal Finance</a></td>
-		<td width="11"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td>
-		<td width="112"><a href="/bonds" onmouseover="expandMenu('Bonds');" onmouseout="collapseMenu('Bonds');" class="tab">Economy &amp; Bonds</a></td>
-		<td width="11"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td>
-		<td width="79"><a href="/worksheets/" onmouseover="expandMenu('Work');" onmouseout="collapseMenu('Work');" class="tab">Worksheets</a></td>
+				
+			
 		
-		<td width="11"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td>
-	</tr>
-</tbody></table>
-</div>
-<div id="divPortfolio" style="POSITION: absolute; Z-INDEX: 11; LEFT: 11px; TOP: 131px; visibility: hidden;" onmouseover="expandMenu('Portfolio');" onmouseout="collapseMenu('Portfolio');">
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="76" height="25"><a href="/portfolio" class="tab">My Portfolio</a></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="133">
-	<tbody><tr><td><a href="/portfolio/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr>
-	<script>
-	<!--
-	for(i=0; i<portname.length; i++){
-		document.write('<tr><td bgcolor="#0099CC"><a href="'+portlink[i]+'" class="drop">&nbsp;&nbsp;'+portname[i]+'</a></td></tr>');
-	}
-	//-->
-	</script><tr><td bgcolor="#0099CC"><a href="/portfolio/" class="drop">&nbsp;&nbsp;Create Portfolio</a></td></tr>
-	
-	<tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr>
-</tbody></table>
-</div>
-<div id="divTools" style="POSITION: absolute; Z-INDEX: 11; LEFT: 98px; TOP: 131px; visibility: hidden;" onmouseover="expandMenu('Tools');" onmouseout="collapseMenu('Tools');">
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="40" height="25"><a href="/tools" class="tab">Tools</a></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="133">
-	<tbody><tr><td><a href="/tools/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr>
-	<tr><td bgcolor="#0099CC"><a href="/portfolio/" class="drop">&nbsp;&nbsp;Your Portfolio</a><br>
-	<a href="javascript:popUpWindow('/watchlist/popupframeset.html', 'Watchlist',473, 441, 'no', 'yes', 0, 0);" class="drop">&nbsp;&nbsp;Watchlist</a><br>
-	<a href="/sectortracker/" class="drop">&nbsp;&nbsp;Sector Tracker</a><br>
-	<a href="javascript:popUpWindow('/chartcenter/frameset.html','ChartCenterWindow', 575, 575, 'no', 'no', 0, 0);" class="drop">&nbsp;&nbsp;Chart Center</a><br>
-	<a href="javascript:popUpWindow('/marketmap/', 'marketmap', 575, 780, 'yes','yes',0,0);" class="drop">&nbsp;&nbsp;Map of the Market</a><br>
-	<a href="/streamer/index.cfm?adv=Tools&amp;advtype=xstream" class="drop">&nbsp;&nbsp;XStream Quotes<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br>
-	<a href="/portfolio/index.cfm?promocode=1&amp;adv=Tools&amp;advtype=portfoliotracker" class="drop">&nbsp;&nbsp;Portfolio Tracker<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br>
-	<a href="/stockscreener/?adv=Tools&amp;advtype=stockscreener" class="drop">&nbsp;&nbsp;Stock Screener<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br>
-	<a href="/compAnalysis/?adv=Tools&amp;advtype=stockcompare" class="drop">&nbsp;&nbsp;Stock Compare<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br>
-	<a href="/tools/" class="drop">&nbsp;&nbsp;More...</a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://adfarm.mediaplex.com/ad/ck/997-6354-1528-6" target="_blank"><img src="/smartsaver/adimages/wamu.gif" width="100" height="31" border="0"></a></td></tr>
-	<tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr>
-</tbody></table>
-</div>
-<div id="divMaps" style="POSITION: absolute; Z-INDEX: 11; LEFT: 149px; TOP: 131px; visibility: hidden;" onmouseover="expandMenu('Maps');" onmouseout="collapseMenu('Maps');">
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="40" height="25"><a href="/maps" class="tab">Maps</a></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="133">
-	<tbody><tr><td><a href="/maps/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr>
-	<tr><td bgcolor="#0099CC"><a href="javascript:popUpWindow('/marketmap/', 'marketmap', 575, 780, 'yes','yes',0,0);" class="drop">&nbsp;&nbsp;Map of the Market</a><br>
-	<a href="javascript:popUpWindow('/portfoliomap/frameset.cfm','PortfolioMapWindow', 575, 575, 'no', 'yes', 0, 0);" class="drop">&nbsp;&nbsp;Map Your Portfolio</a><br>
-	<a href="/marketmap/index.cfm?promocode=1&amp;adv=Tools&amp;advtype=marketmap1000" class="drop">&nbsp;&nbsp;Market Map 1000<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br>
-	<a href="javascript:popUpWindow('/fundmap/', 'fundmap', 575, 780, 'yes','yes',0,0)" class="drop">&nbsp;&nbsp;Mutual Fund Map</a><br>
-    <a href="/riskmap/index.cfm?promocode=1&amp;adv=Tools&amp;advtype=riskmap" class="drop">&nbsp;&nbsp;Risk Map 1000<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br>
-	<a href="/sectormaps/" class="drop">&nbsp;&nbsp;Sector Maps</a><br>
-	<a href="/fundmap/index.cfm?promocode=1&amp;adv=Tools&amp;advtype=fundmap1000" class="drop">&nbsp;&nbsp;Fund Map 1000<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br>
-	<a href="javascript:popUpWindow('/ipomap/', 'ipomap', 575, 580, 'no','yes',0,0);" class="drop">&nbsp;&nbsp;IPO Map</a><br>
-	<a href="/maps/" class="drop">&nbsp;&nbsp;More...</a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.scottrade.com/index.asp?supbid=8307" target="_blank"><img src="/smartsaver/adimages/scottodd752.gif" width="100" height="31" border="0"></a></td></tr>	
-	<tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr>
-</tbody></table>
-</div>
-<div id="divStocks" style="POSITION: absolute; Z-INDEX: 11; LEFT: 200px; TOP: 131px; visibility: hidden;" onmouseover="expandMenu('Stocks');" onmouseout="collapseMenu('Stocks');">
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="49" height="25"><a href="/stocks" class="tab">Stocks</a></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="133">
-	<tbody><tr><td><a href="/stocks/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr>
-	<tr><td bgcolor="#0099CC"><a href="/stockwatch/" class="drop">&nbsp;&nbsp;Stock Watch</a><br>
-	<a href="/dailybriefing/" class="drop">&nbsp;&nbsp;Daily Briefing</a><br>
-	<a href="/thedatamine/" class="drop">&nbsp;&nbsp;The Data Mine</a><br>
-	<a href="/stockscreen/" class="drop">&nbsp;&nbsp;Stock Screen<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br>
-	<a href="/sectorpatrol/" class="drop">&nbsp;&nbsp;Sector Patrol</a><br>
-	<a href="/pundits/" class="drop">&nbsp;&nbsp;Pundit Watch</a><br>
-	<a href="/commonsense/" class="drop">&nbsp;&nbsp;Common Sense<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br>
-	<a href="/stocks/" class="drop">&nbsp;&nbsp;More...</a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://ad.doubleclick.net/jump/N879.ameritrade.smartmoney/B978222.7;sz=88x31;adc=pdc;ord="><img src="http://ad.doubleclick.net/ad/N879.ameritrade.smartmoney/B978222.7;sz=88x31;adc=pdc;ord=" border="0" width="88" height="31"></a></td></tr>
-	<tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr>
-</tbody></table>
-</div>
-<div id="divFunds" style="POSITION: absolute; Z-INDEX: 11; LEFT: 260px; TOP: 131px; visibility: hidden;" onmouseover="expandMenu('Funds');" onmouseout="collapseMenu('Funds');">
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="43" height="25"><a href="/funds" class="tab">Funds</a></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="133">
-	<tbody><tr><td><a href="/funds/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr>
-	<tr><td bgcolor="#0099CC"><a href="/fundinsight/" class="drop">&nbsp;&nbsp;Fund Insight</a><br>
-	<a href="/fundmap/index.cfm?promocode=1&amp;adv=Tools&amp;advtype=fundmap1000" class="drop">&nbsp;&nbsp;Fund Map 1000<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br>
-	<a href="/fundscreen/" class="drop">&nbsp;&nbsp;Funds of the Week</a><br>
-	<a href="/theproshop/" class="drop">&nbsp;&nbsp;The Pro Shop</a><br>
-	<a href="/fundfinder/" class="drop">&nbsp;&nbsp;Fund Finder</a><br>
-	<a href="javascript:popUpWindow('/fundmap/', 'fundmap', 575, 780, 'no','yes',0,0);" class="drop">&nbsp;&nbsp;Fund Map</a><br>
-	<a href="/fundsnapshots/" class="drop">&nbsp;&nbsp;Fund Snapshots</a><br>
-	<a href="/fundfaqs/" class="drop">&nbsp;&nbsp;Fund FAQs</a><br>
-	<a href="/top25funds/" class="drop">&nbsp;&nbsp;Top 25 Funds</a><br>
-	<a href="/funds/" class="drop">&nbsp;&nbsp;More...</a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://ad.doubleclick.net/clk;4002896;7015207;c?http://www.vanguard.com/?adfunds" target="_blank"><img src="/smartsaver/adimages/vanguard100x31.gif" width="100" height="31" alt="" border="0"></a></td></tr>	
-	<tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr>
-</tbody></table>
-</div>
-<div id="divPf" style="POSITION: absolute; Z-INDEX: 11; LEFT: 314px; TOP: 131px; visibility: hidden;" onmouseover="expandMenu('Pf');" onmouseout="collapseMenu('Pf');">
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="107" height="25"><a href="/pf" class="tab">Personal Finance</a></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="133">
-	<tbody><tr><td><a href="/pf/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr>
-	<tr><td bgcolor="#0099CC"><a href="/retirement/" class="drop">&nbsp;&nbsp;Retirement</a><br>
-	<a href="/retirement/401k/index.cfm?story=planner" class="drop">&nbsp;&nbsp;401(k) Planner</a><br>
-	<a href="/tax/" class="drop">&nbsp;&nbsp;Tax Guide</a><br>
-	<a href="/college/" class="drop">&nbsp;&nbsp;College Planning</a><br>
-	<a href="/home/" class="drop">&nbsp;&nbsp;Real Estate</a><br>
-	<a href="/insurance/" class="drop">&nbsp;&nbsp;Insurance</a><br>
-	<a href="/debt/" class="drop">&nbsp;&nbsp;Debt Management</a><br>
-	<a href="/autos/" class="drop">&nbsp;&nbsp;Autos</a><br>
-	<a href="/life/" class="drop">&nbsp;&nbsp;Life</a><br>
-	<a href="/pf/" class="drop">&nbsp;&nbsp;More...</a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://click.atdmt.com/NYC/go/smrtysby00400047nyc/direct;wi.100;hi.31/01/"><img src="/smartsaver/adimages/ssb401k_100x31.gif" border="0" width="100" height="31"></a></td></tr>	
-	<tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr>
-</tbody></table>
-</div>
-<div id="divBonds" style="POSITION: absolute; Z-INDEX: 11; LEFT: 432px; TOP: 131px; visibility: hidden;" onmouseover="expandMenu('Bonds');" onmouseout="collapseMenu('Bonds');">
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="112" height="25"><a href="/bonds" class="tab">Economy &amp; Bonds</a></td></tr></tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="133">
-	<tbody><tr><td><a href="/bonds/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr>
-	<tr><td bgcolor="#0099CC"><a href="/economywatch/" class="drop">&nbsp;&nbsp;Key Indicators</a><br>
-	<a href="/economywatch/index.cfm?story=smindicators2" class="drop">&nbsp;&nbsp;SM Indicators</a><br>
-	<a href="/theeconomy/" class="drop">&nbsp;&nbsp;The Economy</a><br>
-	<a href="/bondmarketup/" class="drop">&nbsp;&nbsp;Bond Market Update</a><br>
-	<a href="/onebond/" class="drop">&nbsp;&nbsp;Bond Investing</a><br>
-	<a href="/onebond/index.cfm?story=yieldcurve" class="drop">&nbsp;&nbsp;Living Yield Curve</a><br>
-	<a href="/bonds/" class="drop">&nbsp;&nbsp;More...</a><br><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://pcg.fisherinvestments.com/newrespond/letter.asp?site=SMONEY&amp;KC=1054GEGAD0302" target="_blank"><img src="/smartsaver/adimages/fisher100x31.gif" width="100" height="31" border="0"></a></td></tr>	
-	<tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr>
-</tbody></table>
-</div>
-<div id="divWork" style="POSITION: absolute; Z-INDEX: 11; LEFT: 555px; TOP: 131px; visibility: hidden;" onmouseover="expandMenu('Work');" onmouseout="collapseMenu('Work');">
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="79" height="25"><a href="/worksheets/" class="tab">Worksheets</a></td></tr></tbody></table>
-</div>
 
+
+
+<style>
+.pos
+{
+position : absolute;
+z-index : 10;
+left : 0px;
+top: 102px;
+}
+</style>
+
+<script language="javascript">
+<!--
+var topPos = 102;
+var tabHed = "";
+//-->
+</script>
+
+<script language="javascript" src="/framework/templates/dropsmi_body.js"></script><div id="divNavigation" style="POSITION:absolute; Z-INDEX:10; LEFT:0px; TOP:102px;"><table width="649" cellspacing="0" cellpadding="0" border="0"><tbody><tr bgcolor="#006699"><td width="11" height="25"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td><td width="76"><a href="/portfolio/" onmouseover="expandMenu('My Portfolio')" onmouseout="collapseMenu('My Portfolio')" class="tab">My Portfolio</a></td><td width="11" height="25"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td><td width="40"><a href="/tools/" onmouseover="expandMenu('Tools')" onmouseout="collapseMenu('Tools')" class="tab">Tools</a></td><td width="11" height="25"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td><td width="40"><a href="/maps/" onmouseover="expandMenu('Maps')" onmouseout="collapseMenu('Maps')" class="tab">Maps</a></td><td width="11" height="25"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td><td width="49"><a href="/stocks/" onmouseover="expandMenu('Stocks')" onmouseout="collapseMenu('Stocks')" class="tab">Stocks</a></td><td width="11" height="25"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td><td width="43"><a href="/funds/" onmouseover="expandMenu('Funds')" onmouseout="collapseMenu('Funds')" class="tab">Funds</a></td><td width="11" height="25"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td><td width="107"><a href="/pf/" onmouseover="expandMenu('Personal Finance')" onmouseout="collapseMenu('Personal Finance')" class="tab">Personal Finance</a></td><td width="11" height="25"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td><td width="112"><a href="/bonds/" onmouseover="expandMenu('Economy &amp; Bonds')" onmouseout="collapseMenu('Economy &amp; Bonds')" class="tab">Economy &amp; Bonds</a></td><td width="11" height="25"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td><td width="83"><a href="https://web.archive.org/web/20021012124406/http://university.smartmoney.com" onmouseover="expandMenu('Investing 101')" onmouseout="collapseMenu('Investing 101')" class="tab">Investing 101</a></td><td width="11" height="25"><img src="/framework/images/hash.gif" width="1" height="11" border="0" hspace="5" vspace="0"></td></tr></tbody></table></div><div id="divMy Portfolio" style="POSITION:absolute; Z-INDEX:11; LEFT:11px; TOP:102px; visibility:hidden" onmouseover="expandMenu('My Portfolio')" onmouseout="collapseMenu('My Portfolio')"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="76" height="25"><a href="/portfolio/" class="tab">My Portfolio</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="133"><tbody><tr><td><a href="/portfolio/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr><tr><td bgcolor="#0099CC"><a href="/portfolio/" class="drop">&nbsp;&nbsp;Create Portfolio</a><br><center><a href="https://web.archive.org/web/20021012124406/http://www.scottrade.com/index.asp?supbid=11184" target="_blank"><img src="/smartsaver/adimages/scottodd956.gif" width="100" height="31" border="0" hspace="0" vspace="2"></a></center></td></tr><tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr></tbody></table></div><div id="divTools" style="POSITION:absolute; Z-INDEX:11; LEFT:98px; TOP:102px; visibility:hidden" onmouseover="expandMenu('Tools')" onmouseout="collapseMenu('Tools')"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="40" height="25"><a href="/tools/" class="tab">Tools</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="133"><tbody><tr><td><a href="/tools/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr><tr><td bgcolor="#0099CC"><a href="/portfolio/" class="drop">&nbsp;&nbsp;Portfolio Tracker</a><br><a href="javascript:popUpWindow('/watchlist/popupframeset.html', 'Watchlist',500, 441, 'no', 'yes', 0, 0);" class="drop">&nbsp;&nbsp;Watchlist</a><br><a href="/sectortracker/" class="drop">&nbsp;&nbsp;Sector Tracker</a><br><a href="javascript:popUpWindow('/chartcenter/frameset.html','ChartCenterWindow', 575, 575, 'no', 'no', 0, 0);" class="drop">&nbsp;&nbsp;Chart Center</a><br><a href="javascript:popUpWindow('/marketmap/', 'marketmap', 575, 780, 'yes','yes',0,0);" class="drop">&nbsp;&nbsp;Map of the Market</a><br><a href="/streamer/index.cfm?adv=Tools&amp;advtype=xstream" class="drop">&nbsp;&nbsp;XStream Quotes<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="https://web.archive.org/web/20021012124406/http://www.smartmoney.com/stockscreener/?adv=Tools&amp;advtype=stockscreener" class="drop">&nbsp;&nbsp;Stock Screener<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="/compAnalysis/?adv=Tools&amp;advtype=stockcompare" class="drop">&nbsp;&nbsp;Stock Compare<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="/tools/" class="drop">&nbsp;&nbsp;More...</a><br><center><a href="https://web.archive.org/web/20021012124406/http://ad.doubleclick.net/jump/N1627.smoney02/B1051115.10;sz=88x31" target="_blank"><img src="https://web.archive.org/web/20021012124406/http://ad.doubleclick.net/ad/N1627.smoney02/B1051115.10;sz=88x31" width="88" height="31" border="0" hspace="0" vspace="2"></a></center></td></tr><tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr></tbody></table></div><div id="divMaps" style="POSITION:absolute; Z-INDEX:11; LEFT:149px; TOP:102px; visibility:hidden" onmouseover="expandMenu('Maps')" onmouseout="collapseMenu('Maps')"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="40" height="25"><a href="/maps/" class="tab">Maps</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="133"><tbody><tr><td><a href="/maps/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr><tr><td bgcolor="#0099CC"><a href="javascript:popUpWindow('/marketmap/', 'marketmap', 575, 780, 'yes','yes',0,0);" class="drop">&nbsp;&nbsp;Map of the Market</a><br><a href="javascript:popUpWindow('/portfoliomap/frameset.cfm','PortfolioMapWindow', 575, 575, 'no', 'yes', 0, 0);" class="drop">&nbsp;&nbsp;Map Your Portfolio</a><br><a href="/marketmap/index.cfm?promocode=1&amp;adv=Tools&amp;advtype=marketmap1000" class="drop">&nbsp;&nbsp;Market Map 1000<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="javascript:popUpWindow('/fundmap/', 'fundmap', 575, 780, 'yes','yes',0,0)" class="drop">&nbsp;&nbsp;Mutual Fund Map</a><br><a href="/riskmap/index.cfm?promocode=1&amp;adv=Tools&amp;advtype=riskmap" class="drop">&nbsp;&nbsp;Risk Map 1000<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="/sectormaps/" class="drop">&nbsp;&nbsp;Sector Maps</a><br><a href="/fundmap/index.cfm?promocode=1&amp;adv=Tools&amp;advtype=fundmap1000" class="drop">&nbsp;&nbsp;Fund Map 1000<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="javascript:popUpWindow('/ipomap/', 'ipomap', 575, 580, 'no','yes',0,0);" class="drop">&nbsp;&nbsp;IPO Map</a><br><a href="/maps/" class="drop">&nbsp;&nbsp;More...</a><br></td></tr><tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr></tbody></table></div><div id="divStocks" style="POSITION:absolute; Z-INDEX:11; LEFT:200px; TOP:102px; visibility:hidden" onmouseover="expandMenu('Stocks')" onmouseout="collapseMenu('Stocks')"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="49" height="25"><a href="/stocks/" class="tab">Stocks</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="133"><tbody><tr><td><a href="/stocks/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr><tr><td bgcolor="#0099CC"><a href="/dailybriefing/" class="drop">&nbsp;&nbsp;Daily Briefing</a><br><a href="/thedatamine/" class="drop">&nbsp;&nbsp;The Data Mine</a><br><a href="/stockscreen/" class="drop">&nbsp;&nbsp;Stock Screen<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="/commonsense/" class="drop">&nbsp;&nbsp;Common Sense<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="/stocks/" class="drop">&nbsp;&nbsp;More...</a><br><center><a href="https://web.archive.org/web/20021012124406/http://click.atdmt.com/go/smrty14200100015ogi/direct/01" target="_blank"><img src="/smartsaver/adimages/amtd88x31.gif" width="88" height="31" border="0" hspace="0" vspace="2"></a></center></td></tr><tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr></tbody></table></div><div id="divFunds" style="POSITION:absolute; Z-INDEX:11; LEFT:260px; TOP:102px; visibility:hidden" onmouseover="expandMenu('Funds')" onmouseout="collapseMenu('Funds')"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="43" height="25"><a href="/funds/" class="tab">Funds</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="133"><tbody><tr><td><a href="/funds/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr><tr><td bgcolor="#0099CC"><a href="/fundmap/index.cfm?promocode=1&amp;adv=Tools&amp;advtype=fundmap1000" class="drop">&nbsp;&nbsp;Fund Map 1000<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="/fundscreener/index.cfm?adv=Tools&amp;advtype=fundscreener" class="drop">&nbsp;&nbsp;Fund Screener<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="/fundcompare/index.cfm?adv=Tools&amp;advtype=fundcompare" class="drop">&nbsp;&nbsp;Fund Compare<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="/fundscreen/" class="drop">&nbsp;&nbsp;Fund Screen<img src="/shared/images/select_icon.gif" width="18" height="11" border="0" hspace="0" vspace="0" align="absmiddle"></a><br><a href="/fundfinder/" class="drop">&nbsp;&nbsp;Fund Finder</a><br><a href="javascript:popUpWindow('/fundmap/', 'fundmap', 575, 780, 'no','yes',0,0);" class="drop">&nbsp;&nbsp;Fund Map</a><br><a href="/fundsnapshots/" class="drop">&nbsp;&nbsp;Fund Snapshots</a><br><a href="/fundfaqs/" class="drop">&nbsp;&nbsp;Fund FAQs</a><br><a href="/top25funds/" class="drop">&nbsp;&nbsp;Top 25 Funds</a><br><a href="/funds/" class="drop">&nbsp;&nbsp;More...</a><br><center><a href="https://web.archive.org/web/20021012124406/http://ad.doubleclick.net/clk;4002896;7015207;c?http://www.vanguard.com/?adfunds" target="_blank"><img src="/smartsaver/adimages/vanguard100x31.gif" width="100" height="31" border="0" hspace="0" vspace="2"></a></center></td></tr><tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr></tbody></table></div><div id="divPersonal Finance" style="POSITION:absolute; Z-INDEX:11; LEFT:314px; TOP:102px; visibility:hidden" onmouseover="expandMenu('Personal Finance')" onmouseout="collapseMenu('Personal Finance')"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="107" height="25"><a href="/pf/" class="tab">Personal Finance</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="133"><tbody><tr><td><a href="/pf/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr><tr><td bgcolor="#0099CC"><a href="/autos/" class="drop">&nbsp;&nbsp;Autos</a><br><a href="/college/" class="drop">&nbsp;&nbsp;College Planning</a><br><a href="/ontheagenda/index.cfm?story=20020709" class="drop">&nbsp;&nbsp;529 Plans</a><br><a href="/debt/" class="drop">&nbsp;&nbsp;Debt Management</a><br><a href="/healthcare/" class="drop">&nbsp;&nbsp;Health Care</a><br><a href="/insurance/" class="drop">&nbsp;&nbsp;Insurance</a><br><a href="/divorce/" class="drop">&nbsp;&nbsp;Marriage &amp; Divorce</a><br><a href="/home/" class="drop">&nbsp;&nbsp;Real Estate</a><br><a href="/retirement/" class="drop">&nbsp;&nbsp;Retirement</a><br><a href="/tax/" class="drop">&nbsp;&nbsp;Tax Guide</a><br><a href="/pf/" class="drop">&nbsp;&nbsp;More...</a><br></td></tr><tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr></tbody></table></div><div id="divEconomy &amp; Bonds" style="POSITION:absolute; Z-INDEX:11; LEFT:432px; TOP:102px; visibility:hidden" onmouseover="expandMenu('Economy &amp; Bonds')" onmouseout="collapseMenu('Economy &amp; Bonds')"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="112" height="25"><a href="/bonds/" class="tab">Economy &amp; Bonds</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="133"><tbody><tr><td><a href="/bonds/"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr><tr><td bgcolor="#0099CC"><a href="/economywatch/" class="drop">&nbsp;&nbsp;Key Indicators</a><br><a href="/economywatch/index.cfm?story=smindicators2" class="drop">&nbsp;&nbsp;SM Indicators</a><br><a href="/bondmarketup/" class="drop">&nbsp;&nbsp;Bond Market Update</a><br><a href="/onebond/" class="drop">&nbsp;&nbsp;Bond Investing</a><br><a href="/onebond/index.cfm?story=yieldcurve" class="drop">&nbsp;&nbsp;Living Yield Curve</a><br><a href="/bonds/" class="drop">&nbsp;&nbsp;More...</a><br><center><a href="https://web.archive.org/web/20021012124406/http://ad.doubleclick.net/jump/N3166.SmartMoney/B1051095.27;sz=100x31" target="_blank"><img src="https://web.archive.org/web/20021012124406/http://ad.doubleclick.net/ad/N3166.SmartMoney/B1051095.27;sz=100x31" width="100" height="31" border="0" hspace="0" vspace="2"></a></center></td></tr><tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr></tbody></table></div><div id="divInvesting 101" style="POSITION:absolute; Z-INDEX:11; LEFT:555px; TOP:102px; visibility:hidden" onmouseover="expandMenu('Investing 101')" onmouseout="collapseMenu('Investing 101')"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td bgcolor="#0099CC" width="83" height="25"><a href="https://web.archive.org/web/20021012124406/http://university.smartmoney.com" class="tab">Investing 101</a></td></tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="133"><tbody><tr><td><a href="https://web.archive.org/web/20021012124406/http://university.smartmoney.com"><img src="/framework/images/menu_cap.gif" width="133" height="3" border="0" hspace="0" vspace="0"></a></td></tr><tr><td bgcolor="#0099CC"><a href="https://web.archive.org/web/20021012124406/http://university.smartmoney.com/Departments/TakingAction/" class="drop">&nbsp;&nbsp;Taking Action</a><br><a href="https://web.archive.org/web/20021012124406/http://university.smartmoney.com/Departments/StrategicInvesting/" class="drop">&nbsp;&nbsp;Strategic Investing</a><br><a href="https://web.archive.org/web/20021012124406/http://university.smartmoney.com/Departments/Retirement401k/" class="drop">&nbsp;&nbsp;Retirement/401(k)</a><br><a href="https://web.archive.org/web/20021012124406/http://university.smartmoney.com/Departments/CollegePlanning/" class="drop">&nbsp;&nbsp;College Planning</a><br><a href="https://web.archive.org/web/20021012124406/http://university.smartmoney.com/Departments/ShortTermInvesting/" class="drop">&nbsp;&nbsp;Short-Term Investing</a><br><a href="https://web.archive.org/web/20021012124406/http://university.smartmoney.com/Departments/DebtManagement/" class="drop">&nbsp;&nbsp;Debt Management</a><br><a href="https://web.archive.org/web/20021012124406/http://university.smartmoney.com" class="drop">&nbsp;&nbsp;More...</a><br></td></tr><tr><td><img src="/framework/images/menu_bottom.gif" width="133" height="3" border="0" hspace="0" vspace="0"></td></tr></tbody></table></div>
 
 
 
@@ -229,6 +246,7 @@ portlink[0]="/portfolio/";
 	<tbody><tr>
 	
 		<td width="139" valign="top" bgcolor="#EEEEEE">
+			<div style="margin-top:5px;margin-left:3px">
 			<div style="margin-top:5px" align="center">
 <table width="120" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFFFFF">
 	<tbody><tr>
@@ -243,28 +261,73 @@ portlink[0]="/portfolio/";
 		<td width="90" class="reg"><a href="/marketmap/index.cfm?promocode=1&amp;adv=toolbox&amp;advtype=marketmap1000_box_tools">Map 1000</a></td>	
 	</tr>
 	
+	
+		<tr>
+			<td width="30" align="center"><img src="/homepage/images/box_xstream_quotes.gif" width="21" height="24" alt="XStream Quotes" border="0" hspace="0" vspace="1"></td>
+			<td width="90" class="reg"><a href="/streamer/index.cfm?adv=toolbox&amp;advtype=xstream_box_tools">XStream&nbsp;Quotes</a>&nbsp;</td>	
+		</tr>
+		<tr>
+		<td width="30" align="center"><img src="/homepage/images/redesign_icon_fundscreener.gif" width="21" height="24" alt="Fund Screener" border="0" hspace="0" vspace="1"></td>
+			<td width="90" class="reg"><a href="/fundscreener/index.cfm?adv=toolbox&amp;advtype=fundscreener_box_tools">Fund&nbsp;Screener</a>&nbsp;</td>	
+		</tr>
+		
+	
 	<tr>
-		<td width="30" align="center"><img src="/homepage/images/box_xstream_quotes.gif" width="21" height="24" alt="XStream Quotes" border="0" hspace="0" vspace="3"></td>
-		<td width="90" class="reg"><a href="/streamer/index.cfm?adv=toolbox&amp;advtype=xstream_box_home">XStream&nbsp;Quotes</a>&nbsp;</td>	
-	</tr>
-	<tr>
-		<td width="30" align="center"><img src="/homepage/images/redesign_icon_smu.gif" width="27" height="24" alt="Investing 101" border="0" hspace="0" vspace="1"></td>
-		<td width="90" class="reg"><a href="http://university.smartmoney.com" target="_blank">Investing 101</a></td>	
-	</tr>
-	<tr>
-		<td width="30" align="center"><img src="/homepage/images/redesign_icon_map.gif" width="19" height="17" alt="Risk Map 100" border="0" hspace="0" vspace="1"></td>
+		<td width="30" align="center"><img src="/homepage/images/redesign_icon_map.gif" width="19" height="17" alt="Risk Map 100" border="0" hspace="0" vspace="2"></td>
 		<td width="90" class="reg"><a href="/riskmap/index.cfm?adv=toolbox&amp;advtype=riskmap_box_tools" target="_blank">Risk Map 1000</a></td>	
 	</tr>
 	<tr>
 		<td width="30" align="center"><img src="/homepage/images/redesign_icon_compare.gif" width="23" height="20" alt="StockCompare" border="0" hspace="0" vspace="3"></td>
-		<td width="90" class="reg"><a href="/compAnalysis/?adv=toolbox&amp;advtype=stockcompare_box_tools">StockCompare</a></td>	
+		<td width="90" class="reg"><a href="/compAnalysis/?adv=toolbox&amp;advtype=stockcompare_box_tools">Stock Compare</a></td>	
 	</tr>
 	<tr>
 		<td width="30" align="center"><img src="/homepage/images/redesign_icon_fundmap.gif" width="21" height="20" alt="Fund Map 1000" border="0" hspace="0" vspace="3"></td>
 		<td width="90" class="reg"><a href="/fundmap/index.cfm?promocode=2&amp;adv=toolbox&amp;advtype=fundmap1000_box_tools">Fund Map 1000</a></td>	
 	</tr>
+		<tr>
+		<td width="30" align="center"><img src="/homepage/images/redesign_icon_compare.gif" width="23" height="20" alt="FundCompare" border="0" hspace="0" vspace="3"></td>
+		<td width="90" class="reg"><a href="/fundcompare/?adv=toolbox&amp;advtype=fundcompare_box_tools">Fund Compare</a></td>	
+	</tr>
+	
 </tbody></table>
-</div> 
+</div>
+			</div><br>
+			<div style="margin-top:5px" align="center">
+			<table width="120" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td height="20" bgcolor="#0099CC" class="pfhed" colspan="2">&nbsp;&nbsp;Quotes</td>
+				</tr>
+				<tr>
+					<form action="/cfscripts/Director.cfm" method="POST"></form>
+					<td bgcolor="#FFFFFF">
+						<div style="margin-top:5px"><select name="searchType" class="small"><option class="small" value="Delayed" selected="">Quote</option><option class="small" value="charting">Charting</option><option class="small" value="earnings">Earnings</option><option class="small" value="ratings">Ratings</option><option class="small" value="competitions">Competition</option><option class="small" value="keyratios">Key Ratios</option><option class="small" value="financials">Financials</option><option class="small" value="insiders">Insiders</option></select><br> 
+						<font size="1"><input type="Text" class="small" name="searchString" align="MIDDLE" size="9" maxlength="35"></font>&nbsp;<input type="Image" name="submit" align="ABSMIDDLE" src="/shared/images/go_arrow.gif" width="15" height="15" alt="Go" border="0" vspace="0" hspace="0"></div>
+					</td>
+				</tr>
+				<tr>
+					<td bgcolor="#FFFFFF"><a href="http://click.atdmt.com/go/smrty14200100023ogi/direct/01" target="_blank"><img src="/smartsaver/adimages/am_but_be_x11_x_120x30_s.gif" width="120" height="30" alt="" border="0" vspace="2"></a></td>
+				</tr>
+			</tbody></table><br>
+			</div>
+			<div style="margin-top:5px" align="center">
+			<table width="120" cellspacing="0" cellpadding="0" border="0">
+				<tbody><tr>
+					<td height="20" bgcolor="#0099CC" class="pfhed" colspan="2">&nbsp;&nbsp;Search</td>
+				</tr>
+				<tr>
+					<form action="/cfscripts/Director.cfm" method="POST"></form>
+					<td bgcolor="#FFFFFF">
+						<div style="margin-top:5px"><select name="searchType" class="small"><option class="small" value="site">Site Search</option><option class="small" value="news">News (Enter Sym)</option><option class="small" value="splits">Splits</option><option class="small" value="buybacks">Buybacks</option><option class="small" value="updowngrades">Up/Downgrades</option><option class="small" value="secfilings">SEC Filings</option></select><br>
+						<font size="1"><input type="Text" class="small" name="searchString" align="MIDDLE" size="9" maxlength="35"></font>&nbsp;<input type="Image" name="submit" align="ABSMIDDLE" src="/shared/images/go_arrow.gif" width="15" height="15" alt="Go" border="0" vspace="0" hspace="0"></div>
+					</td>
+				</tr>
+  <tr>
+					<td bgcolor="#FFFFFF" align="center"><a href="http://ads.cybertrader.com/banman.asp?ZoneID=224&amp;Task=Click&amp;Mode=HTML&amp;PageID=90261" target="_new"><img src="http://ads.cybertrader.com/banman.asp?ZoneID=224&amp;Task=Get&amp;Mode=HTML&amp;PageID=90261" width="120" height="31" border="0" "="" alt="" vspace="2"></a></td>
+				</tr> 
+			</tbody></table>
+			</div>
+			
+			
 	
 
 	
@@ -281,9 +344,9 @@ portlink[0]="/portfolio/";
 	<td width="134" valign="top">
 		<div style="margin-top:10px;">
 		<font face="arial, helvetica" color="#333333" size="2"><b>&nbsp;&nbsp;Your Investments</b></font><br>
-		<a href="/portfolio/" class="lnlink">Your Portfolio</a><br>
+		<a href="/portfolio/" class="lnlink">Portfolio Tracker</a><br>
 		<a href="javascript:popUpWindow('http://jtools.smartmoney.com/portfolio2/Frameset.jsp?applet=map','PortfolioMapWindow', 575, 575, 'no', 'yes', 0, 0);" class="lnlink">Map Your Portfolio</a><br>
-		<a href="javascript:popUpWindow('/watchlist/popupframeset.html', 'Watchlist',473, 441, 'no', 'yes', 0, 0);" class="lnlink">Watchlist</a><br>
+		<a href="javascript:popUpWindow('/watchlist/popupframeset.html', 'Watchlist',500, 441, 'no', 'yes', 0, 0);" class="lnlink">Watchlist</a><br>
 		<a href="/calendar/" class="lnlink">Your Calendar</a><br>
 		<a href="/oneasset/" class="lnlink">Asset Allocator</a><br>
 		<a href="/fundbuilder/" class="lnlink">Fund Portfolio Builder</a><br>
@@ -291,7 +354,6 @@ portlink[0]="/portfolio/";
 		<a href="/brokermeter/" class="lnlink">Broker Meter</a><br>
 		<a href="/pdaoptions/" class="lnlink">PDA Tools</a><br>
 		<a href="/stockscreener/" class="lnlink">Stock Screener</a>&nbsp;&nbsp;<img border="0" src="/shared/images/select_icon.gif"><br>
-		<a href="/portfolio/index.cfm?promocode=1&amp;adv=Tools&amp;advtype=portfoliotracker" class="lnlink">Portfolio Tracker</a>&nbsp;&nbsp;<img border="0" src="/shared/images/select_icon.gif"><br>
 		<a href="/streamer/index.cfm?promocode=2&amp;adv=Tools&amp;advtype=xstreamquotes" class="lnlink">XStream Quotes</a>&nbsp;&nbsp;<img border="0" src="/shared/images/select_icon.gif"><br>
 		<!-- <a href="/powerallocator/" class="lnlink">Power Allocator</a>&nbsp;&nbsp;<img border=0 src="/shared/images/select_icon.gif"><br> -->
 		</div><br>
@@ -355,8 +417,11 @@ portlink[0]="/portfolio/";
 </tbody></table>
 
 	<table width="139" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="5"><img src="/framework/images/spacer.gif" width="5" height="1" border="0" vspace="0" hspace="0"></td>
+
+<tbody><tr><td colspan="2"><a href="http://www.ncl.com" target="_top"><img src="http://www.smartmoney.com/smartsaver/adimages/ncl_120x120.gif" border="0" hspace="0" width="120" height="120" alt="click here"></a></td></tr>
+	
+	
+		<tr><td width="5"><img src="/framework/images/spacer.gif" width="5" height="1" border="0" vspace="0" hspace="0"></td>
 		<td width="134"><img src="/framework/images/spacer.gif" width="1" height="10" border="0" vspace="0" hspace="0"><br>
 			<a href="/" class="lnlink">Home</a><br>
 			<a href="/customerservice/index.cfm?story=contact" class="lnlink">Contact Us</a><br>
@@ -381,7 +446,7 @@ portlink[0]="/portfolio/";
 		<td width="1" bgcolor="#CCCCCC"><img src="/framework/images/spacer.gif" width="1" height="1" border="0" vspace="0" hspace="0"></td>
 		
 		
-		<td valign="top" width="513" bgcolor="FFFFFF">
+			<td valign="top" width="512" bgcolor="FFFFFF">
 		
 		
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -393,7 +458,7 @@ portlink[0]="/portfolio/";
 				</tr>
 				<tr><td colspan="3" bgcolor="#CCCCCC"><img src="/framework/images/spacer.gif" width="1" height="1" border="0" vspace="0" hspace="0"></td></tr>
 				<tr>
-					<td colspan="3">								 
+					<td colspan="3">						 
 					
 					<table cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
@@ -416,12 +481,6 @@ portlink[0]="/portfolio/";
 	
 
 
-	
-	
-	
-	
-	
-	
 	
 	
 	
@@ -508,26 +567,31 @@ YOU HEREBY AGREE TO ACCEPT NOTICES OF ANY CHANGE MADE TO THIS PRIVACY POLICY AND
 </p><p>
 
 This policy was last updated on December 10, 2001
-
+ 
 
 </p></td>
 					<td width="19"><img src="/framework/images/spacer.gif" width="19" height="25" border="0" vspace="0" hspace="0"></td>
 				</tr>
 </tbody></table>
-						<p></p><div style="margin-left:19px">
+						<p></p><div style="margin-left:19px"> 
+
 	
 	
 			
 		
 	
 	
-	<a href="/licensing/" target="_blank">To license this content, click here</a>
+	
+		<a href="/licensing/" target="_blank">To license this content, click here</a>
+	
+
 
 
 </div>
 					
 					</td>
 				</tr>
+			
 					<tr>
 					<td colspan="3"><img src="/framework/images/spacer.gif" width="1" height="30" border="0" vspace="0" hspace="0"> 
 	
@@ -537,16 +601,32 @@ This policy was last updated on December 10, 2001
 	
  
 
+
+
+
+	
+		
+
+
 <!-- START OF WEBTRENDS LIVE TAG -->
-<!-- Copyright 2001 NetIQ Corporation -->
-<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/privacy_policy.htm -->
+<!-- Copyright 2002 NetIQ Corporation -->
+<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/wtl_system/privacy_policy.htm -->
+
 <!-- eCommerce Revenue Tracking (patent pending) -->
+<!-- For eCommerce implementation, visit the following page: -->
+<!-- http://www.webtrendslive.com/wtl_system/support/online_help/open_help.asp?helppage=techsupport_code_ecommerce&redirection=help -->
+<script language="JavaScript1.2" src="/shared/webtrends.js"></script>
+
 <script language="JavaScript">
-function wtl_Tag6(iSiteID,iSID,iContentGroup)
-{
+<!--
+	var wtl_TagVer = 6;
+	var wtl_FWD = 1;
+	var wtl_url= "http://smartmoney.com/policies/index.cfm~story=privacy";
+	var wtl_title= "SmartMoney.com Policies";	
+
 	var ORDER= "";
 	var SERVER= "";
-	var CONTENTGROUP=iContentGroup;
+	var CONTENTGROUP= "";
 	var INVOICE= "";
 	var CARTVIEW= "";
 	var CARTADD= "";
@@ -554,159 +634,25 @@ function wtl_Tag6(iSiteID,iSID,iContentGroup)
 	var CHECKOUT= "";
 	var CARTBUY= "";
 	var ADCAMPAIGN= "";
-	var wtl_URL= "http://smartmoney.com/policies/index.cfm~story=privacy";
-	var wtl_Title= "SmartMoney.com Policies";
 
-	function D8( d)
-	{
-		var fwd=1, seed= new Date('01/01/2000'), key= "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-		var s= key.charAt( d.getFullYear()-2000)+key.charAt( d.getMonth()+1)+key.charAt( d.getDate());
-		s+= key.charAt( d.getHours())+key.charAt( d.getMinutes())+key.charAt( d.getSeconds());
-		while( seed.getDay()!=fwd) seed= new Date(seed.getTime() + 86400000);
-		var w= Math.floor( (d.getTime()-(seed.getTime()+86400000)) / 604800000 );
-		s+= key.charAt( (w-(w%16))/16 );
-		s+= key.charAt( w%16);
-		return s;
-	}
-	function A( B, C)
-	{
-		W+="&"+B+"="+escape(C);
-	}
-	var t = new Date();
-	var W="http"+(document.URL.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S"+iSID+"/button6.asp?tagver=6&si="+iSiteID+"&fw=1";
-	A( "server", typeof(SERVER)== "string" ? SERVER : "");
-	A( "order", typeof(ORDER)== "string" ? ORDER : "");
-	A( "Group", typeof(CONTENTGROUP)== "string" ? CONTENTGROUP : "");
-	A( "invoice", typeof(INVOICE)== "string" ? INVOICE : "");
-	A( "cartview", typeof(CARTVIEW)== "string" ? CARTVIEW : "");
-	A( "cartadd", typeof(CARTADD)== "string" ? CARTADD : "");
-	A( "cartremove", typeof(CARTREMOVE)== "string" ? CARTREMOVE : "");
-	A( "checkout", typeof(CHECKOUT)== "string" ? CHECKOUT : "");
-	A( "cartbuy", typeof(CARTBUY)== "string" ? CARTBUY : "");
-	A( "adcampaign", typeof(ADCAMPAIGN)== "string" ? ADCAMPAIGN : "");
-	A( "tz", t.getTimezoneOffset());
-	A( "ch", t.getHours());
-	A( "cl", D8(t));
-	A( "ti", typeof(wtl_Title)== "string" ? wtl_Title : document.title);
-	A( "url", typeof(wtl_URL)== "string" ? wtl_URL : document.URL);
-	A( "rf", window.document.referrer);
-	A( "js", "Yes");
-	A( "ul", navigator.appName=="Netscape" ? navigator.language : navigator.userLanguage);
-	if(typeof(screen)=="object")
-	{
-	A( "sr", screen.width+"x"+screen.height);
-	A( "cd", screen.colorDepth);
-	A( "jo", navigator.javaEnabled() ? "Yes" : "No");
-	}
-	if( W.length>2048 && navigator.userAgent.indexOf('MSIE')>=0)
-		W= W.substring( 0, 2043)+"&tu=1";
-	document.write('<IMG ID="WTL_TAG" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+W+'">');
-}
-// This Populates the Global Report;
-wtl_Tag6('100295','005-01-8-30-256517-100295','WWW');
-// This Populates the Site Report;
-wtl_Tag6('99653','005-01-8-27-256517-99653','Business Services');
-</script><img id="WTL_TAG" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S005-01-8-30-256517-100295/button6.asp?tagver=6&amp;si=100295&amp;fw=1&amp;server=&amp;order=&amp;Group=WWW&amp;invoice=&amp;cartview=&amp;cartadd=&amp;cartremove=&amp;checkout=&amp;cartbuy=&amp;adcampaign=&amp;tz=0&amp;ch=11&amp;cl=K1UBht7&amp;ti=SmartMoney.com%20Policies&amp;url=http%3A//smartmoney.com/policies/index.cfm%7Estory%3Dprivacy&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No"><img id="WTL_TAG" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S005-01-8-27-256517-99653/button6.asp?tagver=6&amp;si=99653&amp;fw=1&amp;server=&amp;order=&amp;Group=Business%20Services&amp;invoice=&amp;cartview=&amp;cartadd=&amp;cartremove=&amp;checkout=&amp;cartbuy=&amp;adcampaign=&amp;tz=0&amp;ch=11&amp;cl=K1UBht7&amp;ti=SmartMoney.com%20Policies&amp;url=http%3A//smartmoney.com/policies/index.cfm%7Estory%3Dprivacy&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+	// This Populates the Global Report;
+	wtl_Tag6('100295','005-01-8-30-256517-100295',wtl_url,wtl_title,'WWW');
+	// This Populates the Site Report;
+	wtl_Tag6('99653','005-01-8-27-256517-99653',wtl_url,wtl_title,'Business Services');	
+//-->
+</script>
 <noscript>
 <IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S005-01-8-30-256517-100295/button6.asp?tagver=6&si=100295&fw=1&js=No&ti=SmartMoney%2Ecom%20Policies&url=http%3A%2F%2Fsmartmoney%2Ecom%2Fpolicies%2Findex%2Ecfm%7Estory%3Dprivacy&Group=WWW&">
 <IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S005-01-8-27-256517-99653/button6.asp?tagver=6&si=99653&fw=1&js=No&ti=SmartMoney%2Ecom%20Policies&url=http%3A%2F%2Fsmartmoney%2Ecom%2Fpolicies%2Findex%2Ecfm%7Estory%3Dprivacy&Group=Business%20Services&">
 </noscript>
-<!-- END OF WEBTRENDS LIVE TAG -->
+
 
 
 </td>
 				</tr>
+
 				<tr>
-					<td colspan="3">
-
-</td></tr>
-				<tr>
-					<td colspan="3"><img src="/framework/images/spacer.gif" width="1" height="30" border="0" vspace="0" hspace="0"> 
-	
-
-
-
-	
- 
-
-<!-- START OF WEBTRENDS LIVE TAG -->
-<!-- Copyright 2001 NetIQ Corporation -->
-<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/privacy_policy.htm -->
-<!-- eCommerce Revenue Tracking (patent pending) -->
-<script language="JavaScript">
-function wtl_Tag6(iSiteID,iSID,iContentGroup)
-{
-	var ORDER= "";
-	var SERVER= "";
-	var CONTENTGROUP=iContentGroup;
-	var INVOICE= "";
-	var CARTVIEW= "";
-	var CARTADD= "";
-	var CARTREMOVE= "";
-	var CHECKOUT= "";
-	var CARTBUY= "";
-	var ADCAMPAIGN= "";
-	var wtl_URL= "http://smartmoney.com/policies/index.cfm~story=privacy";
-	var wtl_Title= "SmartMoney.com Policies";
-
-	function D8( d)
-	{
-		var fwd=1, seed= new Date('01/01/2000'), key= "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
-		var s= key.charAt( d.getFullYear()-2000)+key.charAt( d.getMonth()+1)+key.charAt( d.getDate());
-		s+= key.charAt( d.getHours())+key.charAt( d.getMinutes())+key.charAt( d.getSeconds());
-		while( seed.getDay()!=fwd) seed= new Date(seed.getTime() + 86400000);
-		var w= Math.floor( (d.getTime()-(seed.getTime()+86400000)) / 604800000 );
-		s+= key.charAt( (w-(w%16))/16 );
-		s+= key.charAt( w%16);
-		return s;
-	}
-	function A( B, C)
-	{
-		W+="&"+B+"="+escape(C);
-	}
-	var t = new Date();
-	var W="http"+(document.URL.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S"+iSID+"/button6.asp?tagver=6&si="+iSiteID+"&fw=1";
-	A( "server", typeof(SERVER)== "string" ? SERVER : "");
-	A( "order", typeof(ORDER)== "string" ? ORDER : "");
-	A( "Group", typeof(CONTENTGROUP)== "string" ? CONTENTGROUP : "");
-	A( "invoice", typeof(INVOICE)== "string" ? INVOICE : "");
-	A( "cartview", typeof(CARTVIEW)== "string" ? CARTVIEW : "");
-	A( "cartadd", typeof(CARTADD)== "string" ? CARTADD : "");
-	A( "cartremove", typeof(CARTREMOVE)== "string" ? CARTREMOVE : "");
-	A( "checkout", typeof(CHECKOUT)== "string" ? CHECKOUT : "");
-	A( "cartbuy", typeof(CARTBUY)== "string" ? CARTBUY : "");
-	A( "adcampaign", typeof(ADCAMPAIGN)== "string" ? ADCAMPAIGN : "");
-	A( "tz", t.getTimezoneOffset());
-	A( "ch", t.getHours());
-	A( "cl", D8(t));
-	A( "ti", typeof(wtl_Title)== "string" ? wtl_Title : document.title);
-	A( "url", typeof(wtl_URL)== "string" ? wtl_URL : document.URL);
-	A( "rf", window.document.referrer);
-	A( "js", "Yes");
-	A( "ul", navigator.appName=="Netscape" ? navigator.language : navigator.userLanguage);
-	if(typeof(screen)=="object")
-	{
-	A( "sr", screen.width+"x"+screen.height);
-	A( "cd", screen.colorDepth);
-	A( "jo", navigator.javaEnabled() ? "Yes" : "No");
-	}
-	if( W.length>2048 && navigator.userAgent.indexOf('MSIE')>=0)
-		W= W.substring( 0, 2043)+"&tu=1";
-	document.write('<IMG ID="WTL_TAG" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+W+'">');
-}
-// This Populates the Global Report;
-wtl_Tag6('100295','005-01-8-30-256517-100295','WWW');
-// This Populates the Site Report;
-wtl_Tag6('99653','005-01-8-27-256517-99653','Business Services');
-</script><img id="WTL_TAG" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S005-01-8-30-256517-100295/button6.asp?tagver=6&amp;si=100295&amp;fw=1&amp;server=&amp;order=&amp;Group=WWW&amp;invoice=&amp;cartview=&amp;cartadd=&amp;cartremove=&amp;checkout=&amp;cartbuy=&amp;adcampaign=&amp;tz=0&amp;ch=11&amp;cl=K1UBht7&amp;ti=SmartMoney.com%20Policies&amp;url=http%3A//smartmoney.com/policies/index.cfm%7Estory%3Dprivacy&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No"><img id="WTL_TAG" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S005-01-8-27-256517-99653/button6.asp?tagver=6&amp;si=99653&amp;fw=1&amp;server=&amp;order=&amp;Group=Business%20Services&amp;invoice=&amp;cartview=&amp;cartadd=&amp;cartremove=&amp;checkout=&amp;cartbuy=&amp;adcampaign=&amp;tz=0&amp;ch=11&amp;cl=K1UBht7&amp;ti=SmartMoney.com%20Policies&amp;url=http%3A//smartmoney.com/policies/index.cfm%7Estory%3Dprivacy&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
-<noscript>
-<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S005-01-8-30-256517-100295/button6.asp?tagver=6&si=100295&fw=1&js=No&ti=SmartMoney%2Ecom%20Policies&url=http%3A%2F%2Fsmartmoney%2Ecom%2Fpolicies%2Findex%2Ecfm%7Estory%3Dprivacy&Group=WWW&">
-<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S005-01-8-27-256517-99653/button6.asp?tagver=6&si=99653&fw=1&js=No&ti=SmartMoney%2Ecom%20Policies&url=http%3A%2F%2Fsmartmoney%2Ecom%2Fpolicies%2Findex%2Ecfm%7Estory%3Dprivacy&Group=Business%20Services&">
-</noscript>
-<!-- END OF WEBTRENDS LIVE TAG -->
-
-
-</td>
+					<td colspan="3"><img src="/framework/images/spacer.gif" width="1" height="30" border="0" vspace="0" hspace="0">&nbsp;</td>
 				</tr>
 				<tr>
 					<td width="19"><img src="/framework/images/spacer.gif" width="19" height="1" border="0" vspace="0" hspace="0"></td>
@@ -717,45 +663,28 @@ wtl_Tag6('99653','005-01-8-27-256517-99653','Business Services');
 			
 		</td>
 		
-		<td width="127" valign="top" bgcolor="#333333">
-			<div style="margin-top:5px;margin-left:5px"><a href="/portfolio/" class="rnlink"><font size="1">Log In</font></a><span class="rnlink"><font size="1"> | </font></span><a href="/registration/index.cfm?story=register&amp;referid=1" class="rnlink"><font size="1">Register</font></a><br>
-			<script language="JavaScript">
-			<!--
-			if (document.all){
-			  document.write('<A HREF="javascript:history.go(0);" class="rnlink" onClick="this.style.behavior=\'url(#default#homepage)\';this.setHomePage(\'http://www.smartmoney.com\');">');
-			}
-			else if (document.layers){
-			  document.write('<a href="javascript:alert(\'Go to Preferences in the Edit Menu. Choose Navigator from the list on the left. Click on the Use Current Page button.\');" class="rnlink">');
-			}
-			else if (document.getElementById){
-			  document.write('<a href="http://www.smartmoney.com" class="rnlink">');
-			}
-			//-->
-			</script><a href="http://www.smartmoney.com" class="rnlink"><font size="1">Make SmartMoney Your Home Page</font></a></div>
-			<br>
-			<div align="center"><a href="https://ecommerce.smartmoney.com/ecommerce/login?adv=SM.com_on-site&amp;advtype=fixed_button" target="_new"><img src="/shared/images/sm_select_marketplace.gif" width="108" height="31" alt="SmartMoney Select" border="0" vspace="3" hspace="0"></a></div>
-			
-
-<table width="127" border="0" cellspacing="0" cellpadding="0">
+			<td width="1" bgcolor="#CCCCCC"><img src="/framework/images/spacer.gif" width="1" height="1" border="0" vspace="0" hspace="0"></td>
+			<td width="126" valign="top" bgcolor="#FFFFFF">
+<table width="126" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr><td align="center">
 		
-		<img src="/framework/images/spacer.gif" width="1" height="20" border="0" vspace="0" hspace="0"><br>
+		<img src="/framework/images/spacer.gif" width="1" height="5" border="0" vspace="0" hspace="0"><br>
 		<span class="ad">		
 	
-		<table width="125" height="65" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#333333">
-<tbody><tr><td valign="CENTER" bgcolor="#333333"><a href="http://www.smartmoneyuniversity.com"><img src="/cfscripts/smiads/images/smartmoney_university_logo.gif" width="120" height="60" alt="" border="0"></a></td></tr>  
+		<table width="125" height="65" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr><td valign="CENTER"><a href="http://www.smartmoneyuniversity.com"><img src="/cfscripts/smiads/images/smartmoney_university_logo.gif" width="120" height="60" alt="" border="0"></a></td></tr>  
 </tbody></table>    
 		
 	</span><br>
 	</td></tr>
 		<tr><td align="center">
-		<img src="/framework/images/spacer.gif" width="1" height="20" border="0" vspace="0" hspace="0"><br>
+		<img src="/framework/images/spacer.gif" width="1" height="5" border="0" vspace="0" hspace="0"><br>
 		<span class="ad">		
 	
 		
 
-<table align="center" width="121" height="75" cellpadding="0" cellspacing="0" border="0" bgcolor="#333333">
-<tbody><tr><td valign="top" bgcolor="#333333" class="rnlink"><b>SmartMoney links</b><br>
+<table align="center" width="121" height="75" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr><td valign="top" class="rnlink"><b>SmartMoney links</b><br>
 <a href="https://ecommerce.smartmoney.com/ecommerce/login?url=/&amp;host=selectdl.smartmoney.com" class="rnlink">·SM Select</a>
 <br>
 <a href="/customerservice/index.cfm?story=userguide" class="rnlink">·New User Guide</a>
@@ -769,56 +698,41 @@ wtl_Tag6('99653','005-01-8-27-256517-99653','Business Services');
 		
 	</span><br>
 	</td></tr>
-	
 
 	
 	
 
-	
 	
 	<tr><td>
 		
-<table width="127" border="0" cellspacing="0" cellpadding="0">
+<table width="126" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td width="5"><img src="/framework/images/spacer.gif" width="5" height="1" border="0" vspace="0" hspace="0"></td>
-		<td width="122">
+		<td width="121">
 <img src="http://us.i1.yimg.com/us.yimg.com/i/my/my16.gif" width="16" height="16" border="0" alt="My"><a href="http://my.yahoo.com/promo/smrtmny.html" class="rnlink">Add SmartMoney.com to My Yahoo!</a><p> 
-
-			<a href="/marketplace/" class="rnlink"><b>Marketplace</b></a><br> 
-<a href="/marketplace/index.cfm?story=insurance-life" class="rnlink">Insurance Quotes</a><br><a href="/marketplace/index.cfm?story=debt" class="rnlink">Debt Management</a><br> <a href="http://www.lendingtree.com/borrower/alliance/from.asp?source=250001&amp;whereto=Mort&amp;bp=smartmoney" class="rnlink" target="_blank">Mortgage Center</a><br>
+<a href="http://www.kaplancollege.edu/fprep/fp_profession/index.asp?source=700019" target="_blank"><img src="/smartsaver/adimages/kaplan32_120.gif" width="120" height="60" border="0" hspace="0" vspace="0"></a>
+</p><p>
+<a href="/marketplace/" class="rnlink"><b>Marketplace</b></a><br> 
+<a href="/marketplace/index.cfm?story=debt" class="rnlink">Debt Management</a><br> <a href="http://www.lendingtree.com/borrower/alliance/from.asp?source=250001&amp;whereto=Mort&amp;bp=smartmoney" class="rnlink" target="_blank">Mortgage Center</a><br>
 <a href="/marketplace/index.cfm?story=realestate" class="rnlink">Real Estate Center</a><br>
-<a href="http://partners.smartprice.com/smartmoney/" class="rnlink" target="_blank">Telecom Center</a><br><!-- <a href="/marketplace/index.cfm?story=consumercredit" class="gray10">Consumer Credit</a><br><a href="/marketplace/index.cfm?story=auto" class="gray10">Auto Info</a><br><a href="http://SmartMoney.CareerEngine.com" class="gray10">Jobs & Careers</a><br><a href="/smallbiz/" class="gray10">Small Business</a><br><a href="/marketplace/index.cfm?story=electronics" class="gray10">Electronics Center</a><br><a href="http://www.careerjournal.com" class="gray10">Executive Careers</a><br><a href="http://www.seasidegolf.com/" class="gray10">Golf Packages</a><br><a href="/marketplace/index.cfm?story=conference" class="gray10">Biz Conferences</a> --->
- 
+<a href="http://partners.smartprice.com/smartmoney/" class="rnlink" target="_blank">Telecom Center</a><br><!-- <a href="/marketplace/index.cfm?story=consumercredit" class="gray10">Consumer Credit</a><br><a href="/marketplace/index.cfm?story=auto" class="gray10">Auto Info</a><br><a href="http://SmartMoney.CareerEngine.com" class="gray10">Jobs & Careers</a><br><a href="/smallbiz/" class="gray10">Small Business</a><br><a href="/marketplace/index.cfm?story=electronics" class="gray10">Electronics Center</a><br><a href="http://www.careerjournal.com" class="gray10">Executive Careers</a><br><a href="http://www.seasidegolf.com/" class="gray10">Golf Packages</a><br><a href="/marketplace/index.cfm?story=conference" class="gray10">Biz Conferences</a> 
+</div> --->
 
 <img src="/framework/images/spacer.gif" width="1" height="10" border="0" vspace="0" hspace="0"><br>
-<a href="/smartmart/" class="rnlink"><b>SmartMart</b></a><br>
-<a href="/smartmart/" class="rnlink">Research Reports</a><br><a href="/mapstation/" class="rnlink">SmartMoney Solutions</a><br><a href="/smartmart/#financial%20publications" class="rnlink">Financial Publications</a><br><a href="http://www.seras.com/solutions/home.cfm" target="_blank" class="rnlink">Wealth Mastery System</a><br><a href="http://www.wine.com/home/default.asp?s=siteID=CjdwSOtsKIc-oA6SHY6CYS7l7x0fyz2%2ArQ&amp;Population_ID=" target="_blank" class="rnlink">Wine &amp; Spirits</a><br><a href="http://www.seasidegolf.com/" target="_blank" class="rnlink">Golf Vacation Packages</a>
-<br>
-			<img src="/framework/images/spacer.gif" width="1" height="10" border="0" vspace="0" hspace="0"><br>
 
-<a href="http://www.marketbrowser.com/mbsmtmn.asp" target="_blank"><img src="/email/images/mktbrowser120.gif" width="120" height="120" alt="" border="0"></a>
 		</p></td>
 	</tr>
 </tbody></table>
 
 
-
-
 	</td></tr>	
 	<tr><td align="center">
 		<img src="/framework/images/spacer.gif" width="1" height="20" border="0" vspace="0" hspace="0"><br>		
-		<span class="ad">		
-	
-		<table align="center" width="125" height="125" cellpadding="0" cellspacing="0" border="0" bgcolor="#333333">
-<tbody><tr><td align="center" bgcolor="#333333"><div style="margin-left:5px;margin-top:5px" class="ad">Advertisement</div><br>
-<div style="margin-left:5px;margin-top:5px" class="reg"><a href="http://www.cybertrader.com/banners/smartmoney/banner" target="_blank"><b>Trailing Stop Loss<br>Follows your order</b></a></div></td></tr>
-</tbody></table> 
 		
-	</span><br>
 	</td></tr>	
 </tbody></table>
-
-		</td>
+</td>
+			<td width="1" bgcolor="#CCCCCC"><img src="/framework/images/spacer.gif" width="1" height="1" border="0" vspace="0" hspace="0"></td>
 		
 	</tr>
 </tbody></table>
@@ -827,7 +741,7 @@ wtl_Tag6('99653','005-01-8-27-256517-99653','Business Services');
 		<td width="139" bgcolor="#EEEEEE"><img src="/framework/images/spacer.gif" width="139" height="1" border="0" vspace="0" hspace="0"></td>
 		<td width="1" bgcolor="#CCCCCC"><img src="/framework/images/spacer.gif" width="1" height="1" border="0" vspace="0" hspace="0"></td>
 		<td bgcolor="#CCCCCC"><img src="/framework/images/spacer.gif" width="1" height="1" border="0" vspace="0" hspace="0"></td>
-		<td width="127" bgcolor="#333333"><img src="/framework/images/spacer.gif" width="127" height="1" border="0" vspace="0" hspace="0"></td>
+		<td width="1" bgcolor="#CCCCCC"><img src="/framework/images/spacer.gif" width="1" height="1" border="0" vspace="0" hspace="0"></td><td width="126" bgcolor="#FFFFFF"><img src="/framework/images/spacer.gif" width="126" height="1" border="0" vspace="0" hspace="0"></td><td width="1" bgcolor="#CCCCCC"><img src="/framework/images/spacer.gif" width="1" height="1" border="0" vspace="0" hspace="0"></td>
 	</tr>
 	<tr>
 		<td width="139" bgcolor="#EEEEEE"><img src="/framework/images/spacer.gif" width="139" height="1" border="0" vspace="0" hspace="0"></td>
@@ -838,7 +752,7 @@ wtl_Tag6('99653','005-01-8-27-256517-99653','Business Services');
 	<tbody><tr>
 		<td width="6"><img src="/s.gif" width="6" height="1" border="0" vspace="0" hspace="0"></td>
 		<td align="center">
-			<span class="ad"><a href="http://selectdl.smartmoney.com">SmartMoney Select</a> | <a href="http://university.smartmoney.com">SmartMoney University</a> | <a href="/mag">SmartMoney Magazine: Current Issue</a> | <a href="/smartmart">SmartMart</a> | <a href="/affiliates">Affiliate Program</a><br>
+			<span class="ad"><a href="http://selectdl.smartmoney.com">SmartMoney Select</a> | <a href="http://university.smartmoney.com">SmartMoney University</a> | <a href="/mag">SmartMoney Magazine: Current Issue</a> | <a href="/mediakit">Media Kit</a><br>
 			<font size="1">
 			SmartMoney.com © 2002 SmartMoney.
 			SmartMoney is a joint publishing venture of Dow Jones &amp; Company, Inc. and Hearst Communications, Inc.   All Rights Reserved. By accessing and using this page, you agree to our 
@@ -854,7 +768,7 @@ wtl_Tag6('99653','005-01-8-27-256517-99653','Business Services');
 	</tr>
 </tbody></table>
 </td>
-		<td width="127" bgcolor="#333333"><img src="/framework/images/spacer.gif" width="127" height="1" border="0" vspace="0" hspace="0"></td>
+		<td width="1" bgcolor="#CCCCCC"><img src="/framework/images/spacer.gif" width="1" height="1" border="0" vspace="0" hspace="0"></td><td width="126" bgcolor="#FFFFFF"><img src="/framework/images/spacer.gif" width="126" height="1" border="0" vspace="0" hspace="0"></td><td width="1" bgcolor="#CCCCCC"><img src="/framework/images/spacer.gif" width="1" height="1" border="0" vspace="0" hspace="0"></td>
 	</tr>
 </tbody></table>
 
@@ -864,20 +778,10 @@ wtl_Tag6('99653','005-01-8-27-256517-99653','Business Services');
 
 
 
-<nolayer><iframe src="http://ad.doubleclick.net/adi/policies.smartmoney/homepage;pos=6;stock=;sz=1x1;ptile=6;ord=2255151381?" width="1" height="1" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/policies.smartmoney/homepage;abr=!ie;pos=6;stock=;sz=1x1;ptile=6;ord=2255151381?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/policies.smartmoney/homepage;abr=!ie;pos=6;stock=;sz=1x1;ptile=6;ord=2255151381?" border=0 width="1" height="1" hspace=0 vspace=0></A></iframe></nolayer><div align="left"><ilayer id="layer6" visibility="hidden" width="1" height="1" left="3"></ilayer></div> 
-<layer src="http://ad.doubleclick.net/adi/policies.smartmoney/homepage;pos=1;stock=;sz=468x60;ptile=1;ord=2255151381?" width="468" height="60" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility='show';"></layer>
+<nolayer><iframe src="http://ad.doubleclick.net/adi/policies.smartmoney/homepage;pos=6;stock=;dcopt=ist;sz=1x1;ptile=6;ord=012414448?" width="1" height="1" frameborder="no" border="0" marginwidth="0" marginheight="0" scrolling="no"><A HREF="http://ad.doubleclick.net/jump/policies.smartmoney/homepage;abr=!ie;pos=6;stock=;dcopt=ist;sz=1x1;ptile=6;ord=012414448?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/policies.smartmoney/homepage;abr=!ie;pos=6;stock=;dcopt=ist;sz=1x1;ptile=6;ord=012414448?" border=0 width="1" height="1" hspace=0 vspace=0></A></iframe></nolayer><div align="left"><ilayer id="layer6" visibility="hidden" width="1" height="1" left="3"></ilayer></div> 
+<layer src="http://ad.doubleclick.net/adi/policies.smartmoney/homepage;pos=1;stock=;sz=468x60;ptile=1;ord=012414448?" width="468" height="60" visibility="hidden" onload="moveToAbsolute(layer1.pageX,layer1.pageY);clip.height=60;clip.width=468;visibility='show';"></layer>
 
-<layer src="http://ad.doubleclick.net/adi/policies.smartmoney/homepage;pos=6;stock=;sz=1x1;ptile=6;ord=2255151381?" width="1" height="1" visibility="hidden" onload="moveToAbsolute(layer6.pageX,layer6.pageY);clip.height=1;clip.width=1;visibility='show';"></layer>
-
-
-
-
-
-
-
-
-
-
+<layer src="http://ad.doubleclick.net/adi/policies.smartmoney/homepage;pos=6;stock=;sz=1x1;ptile=6;ord=012414448?" width="1" height="1" visibility="hidden" onload="moveToAbsolute(layer6.pageX,layer6.pageY);clip.height=1;clip.width=1;visibility='show';"></layer>
 
 
 
