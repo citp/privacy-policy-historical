@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardchartered.com.hk privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217164626id_/http%3A//www.standardchartered.com.hk/home/legal_data_main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.hk privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608131734id_/http%3A//www.standardchartered.com.hk/home/legal_data_main.html) for the most accurate reproduction.*
 
 # Hong Kong Home page: Data Protection And Privacy Policy
 
@@ -73,4 +73,4 @@ You have the right to ascertain SCB's policies and practices in relation to pers
 **STANDARD CHARTERED BANK  
 GPO Box 21, Hong Kong**
 
-**COPYRIGHT** **** **STANDARD CHARTERED PLC 2000. ALL RIGHTS RESERVED.**
+**COPYRIGHT ©** **** **STANDARD CHARTERED PLC 2000. ALL RIGHTS RESERVED.**
