@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nai.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023043105id_/http%3A//www.nai.com/naicommon/aboutnai/copyright/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nai.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201175712id_/http%3A//www.nai.com/naicommon/aboutnai/copyright/privacy.asp) for the most accurate reproduction.*
 
-# About NAI -- At - A - Glance
+# About NAI -- Privacy Policy Statement
 
 |  |   
 
@@ -47,3 +47,6 @@ NAI uses software tags called "cookies" to identify customers when they visit ou
 
 To be suppressed from future marketing announcements, send an email to subscribe@nai.com. In the subject, type UNSUBSCRIBE. In the body of the email, please include the information you would like us to suppress from future mailings or information you do not want us to share with other reputable organizations. (Name, Company, Address, PO Box/Suite/Department, City, State, Zip, Email, Phone, Fax) 
 
+
+  
+\- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - \- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
