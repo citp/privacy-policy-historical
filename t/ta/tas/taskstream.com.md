@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taskstream.com privacy policy that was archived on 2003-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031228115400id_/http%3A//www.taskstream.com/pub/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taskstream.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613183330id_/http%3A//www.taskstream.com/pub/privacy.asp) for the most accurate reproduction.*
 
 # TaskStream
 
