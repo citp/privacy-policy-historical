@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livemetallica.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602213653id_/http%3A//www.livemetallica.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livemetallica.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207014151id_/http%3A//www.livemetallica.com/privacy.asp) for the most accurate reproduction.*
 
 # MetallicA -LIVE- Privacy Policy
 
