@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209161705id_/http%3A//www.acu.edu.au/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acu.edu.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603012408id_/http%3A//www.acu.edu.au/privacy_policy.cfm) for the most accurate reproduction.*
 
 # ACU National Website
 
