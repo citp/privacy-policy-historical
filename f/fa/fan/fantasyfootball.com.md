@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203161200id_/http%3A//www.fantasyfootball.com/extra/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootball.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616122743id_/http%3A//www.fantasyfootball.com/extra/privacy.asp) for the most accurate reproduction.*
 
 # FantasyFootball.com - Privacy Statement
 
@@ -38,13 +38,13 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-You can visit the following URL: [http://www.fantasyfootball.com/unsubscribe.asp](https://web.archive.org/web/20001203161200id_/http%3A//www.fantasyfootball.com/unsubscribe.asp)
+You can visit the following URL: [http://www.fantasyfootball.com/unsubscribe.asp](https://web.archive.org/web/20010616122743id_/http%3A//www.fantasyfootball.com/unsubscribe.asp)
 
 **Correct/Update**
 
 This site gives users the following options for changing and modifying information previously provided.
 
-[http://www.fantasyfootball.com/locker/login.asp](https://web.archive.org/web/20001203161200id_/http%3A//www.fantasyfootball.com/locker/locker.asp)
+[http://www.fantasyfootball.com/locker/login.asp](https://web.archive.org/web/20010616122743id_/http%3A//www.fantasyfootball.com/locker/locker.asp)
 
 **Contacting the Web Site**
 
@@ -57,4 +57,4 @@ Duncan, OK 73575_
 
  _[help@fantasyfootball.com](mailto:help@fantasyfootball.com) _
 
-[TERMS OF USE AND SERVICE AGRREMENT](https://web.archive.org/web/20001203161200id_/http%3A//www.fantasyfootball.com/extra/agreement.asp)
+[TERMS OF USE AND SERVICE AGRREMENT](https://web.archive.org/web/20010616122743id_/http%3A//www.fantasyfootball.com/extra/agreement.asp)
