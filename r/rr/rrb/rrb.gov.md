@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210031304id_/http%3A//www.rrb.gov/policy.html%23Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rrb.gov privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622095306id_/http%3A//www.rrb.gov/policy.html%23Privacy%2520Policy) for the most accurate reproduction.*
 
 # RRB: Our Privacy Policy & E-mail Notice
-
-E-Mail Notice
-
-You have the option of using e-mail to contact us. This is not secure e-mail! We ask that you not send information by e-mail that you would not want a third party to read. If you need to provide us with personal information, such as your Social Security number or home address, please call, write or visit your field office. 
-
-In reply, we will send you only general information by e-mail. If we can identify you and have your telephone number or address in our records, we will furnish any personal information by telephone or letter. This helps to ensure we do not send your personal information to someone asking for it without your knowledge. 
 
 Privacy Policy
 
@@ -22,3 +16,9 @@ Our internet privacy policy embodies the following principles:
   * We do not give, sell, or transfer any personal information to a third party. 
 
 
+
+E-Mail Notice
+
+You have the option of using e-mail to contact us. This is not secure e-mail! We ask that you not send information by e-mail that you would not want a third party to read. If you need to provide us with personal information, such as your Social Security number or home address, please call, write or visit your field office. 
+
+In reply, we will send you only general information by e-mail. If we can identify you and have your telephone number or address in our records, we will furnish any personal information by telephone or letter. This helps to ensure we do not send your personal information to someone asking for it without your knowledge. 
