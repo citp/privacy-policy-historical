@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookinglight.com privacy policy that was archived on 2001-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010614040002id_/http%3A//cookinglight.com/customerservice/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookinglight.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214164109id_/http%3A//cookinglight.com/customerservice/privacy_policy.asp) for the most accurate reproduction.*
 
 # Cooking Light - Privacy Policy
 
@@ -45,9 +45,13 @@ Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, or p
 
 To enhance your experience with our sites, many of our web pages use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
 
-We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. Our Commitment to Security 
+We use cookies to understand site usage and to improve the content and offerings on our sites. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. 
 
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. How You can Access or Correct Information 
+**Our Commitment to Security**
+
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online. 
+
+**How You can Access or Correct Information**
 
 For instructions on how you can access the personally identifiable information that this Time Warner site has collected about you online, or how to correct factual errors in such information, please send an e-mail along with your first and last name to [privacy@cookinglight.customersvc.com](mailto:privacy@cookinglight.customersvc.com) To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
@@ -57,4 +61,4 @@ The site you are visiting is one of the Time Warner general audience sites. For 
 
 **How to Contact Us**
 
-If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20010614040002id_/http%3A//cookinglight.com/community/contact_cl.asp) . 
+If you have any questions or concerns about the Time Warner online policy for this site or its implementation you may [contact us](https://web.archive.org/web/20011214164109id_/http%3A//cookinglight.com/community/contact_cl.asp) . 
