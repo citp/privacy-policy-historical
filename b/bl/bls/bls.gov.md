@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603041320id_/http%3A//www.bls.gov/blspss.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2001-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010707042616id_/http%3A//www.bls.gov/blspss.htm%3FLNav) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
@@ -59,5 +59,5 @@ Unauthorized attempts to upload information or change information on this servic
 
 Bureau of Labor Statistics  
 [blsdata_staff@bls.gov](mailto:blsdata_staff@bls.gov)  
-Last modified: February 08, 2001  
-Page URL: https://web.archive.org/web/20010603041320id_/http%3A//www.bls.gov/blspss.htm 
+Last modified: June 14, 2001  
+Page URL: https://web.archive.org/web/20010707042616id_/http%3A//www.bls.gov/blspss.htm%3FLNav 
