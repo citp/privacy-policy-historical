@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205120400id_/http%3A//sportsbook.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2001-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010401054442id_/http%3A//www.sportsbook.com/misc/privacy.html) for the most accurate reproduction.*
 
 # sportsbook.com - Sports Book and Casino Wagering
 
