@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewishpress.com privacy policy that was archived on 2002-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021018013907id_/http%3A//www.jewishpress.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewishpress.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602014416id_/http%3A//www.jewishpress.com/privacy.asp) for the most accurate reproduction.*
 
 # JewishPress.com > Privacy Policy
 
