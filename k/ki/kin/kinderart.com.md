@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207165700id_/http%3A//kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602085537id_/http%3A//kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # KinderArt - Privacy Policy
 
@@ -12,14 +12,11 @@ Our e-mail address is: [learn@kinderart.com](mailto:learn@kinderart.com)
 
 You can reach us via telephone (10am - 8pm eastern time) at: 506-529-8417 
 
-For each visitor to our Web page, our Web server automatically recognizes the visitor's domain name and e-mail address (where possible). 
-
-We collect the domain name of visitors to our Web page, the e-mail addresses of those who sign up for the free KinderArt Newsletter and of those who post messages to our Bulletin Boards. 
+For each visitor to our Web page, our Web server automatically recognizes the visitor's domain name (where possible). We sometimes view the domain names of visitors (as a whole) to our Web page, the e-mail addresses of those who sign up for the free KinderArt Newsletter and of those who post messages to our Bulletin Boards. 
 
 We use the information we collect to: 
 
-  * Improve the content of our website 
-  * Send consumers our [free newsletter](http://www.kinderart.com/color) [KinderArt Color] 
+  * Improve the content of our website and create content which is relevant and useful for our visitors. 
   * Mail requested materials 
 
 What we **WON'T** do with your personal information: 
@@ -51,4 +48,4 @@ Because KinderArt cares about the safety and privacy of children online, we comp
 
 ### About Advertising
 
-KINDERART WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE. TO FIND OUT MORE ABOUT HOW ENGAGE MANAGES THE PRIVACY OF INFORMATION IN CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO <http://www.engage.com/privacy>
+KinderArt uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
