@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003032636id_/http%3A//goaheadtours.com/bin/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goaheadtours.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612195649id_/http%3A//www.goaheadtours.com/bin/privacy.asp) for the most accurate reproduction.*
 
 # Go Ahead Vacations - Privacy Policy
 
@@ -6,7 +6,7 @@ Our Commitment to Privacy
 
 Goaheadvacations.com is committed to protecting the privacy of our users. We would like to share our online information practices and the choices you can make about the way your information is collected and used. This notice is available at every point where personally identifiable information may be requested. This notice applies to all information collected or submitted on the goaheadvacations.com website. 
 
-Go Ahead Vacations also participates in the Council of Better Business Bureaus' BBBOnLine® Reliability Program, and complies with all the BBBOnLine privacy standards. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/). 
+We are a member of the Better Business Bureau serving Eastern Massachusetts, Maine and Vermont. 
 
 Collection of Personal Information
 
