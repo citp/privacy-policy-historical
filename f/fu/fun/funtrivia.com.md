@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funtrivia.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203040634id_/http%3A//funtrivia.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funtrivia.com privacy policy that was archived on 2004-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040408134020id_/http%3A//funtrivia.com/privacypolicy.html) for the most accurate reproduction.*
 
 # FunTrivia Challenge Rules and Guidelines
 
@@ -56,3 +56,7 @@ Although no use of the Internet is 100% secure, the Site uses security measures 
 **Changes In Policies; Terms and Conditions**
 
 We may change these policies from time to time. If any such changes materially and adversely affect the use of your information, we will generally refer to such changes on the Site for a period of time, although our failure to do so will not affect the applicability of such changes. Accordingly, we recommend that you check back to review these policies from time to time, particularly if you have not visited the Site for some time. These policies are also subject to our Terms of Use, which are incorporated herein by reference, and we also recommend that you review those from time to time. 
+
+**Third Party Advertising**
+
+We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here  Third Party Cookies In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
