@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208233525id_/http%3A//www.deshigreetings.com/privacy_polcy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deshigreetings.com privacy policy that was archived on 2005-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050209155535id_/http%3A//www.deshigreetings.com/privacy_polcy.htm) for the most accurate reproduction.*
 
 # >>>Deshi Greetings.Com<<< - send gifts to Bangladesh, Bangladeshi best e-commerce site : online shopping of Bangladesh, send gifts to Dhaka, Chittagong, Khulna, Sylhet, Rajshahi, send flowers cakes sharee saree roses fruits greeting cards to Bangladesh, B
 
