@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602183822id_/http%3A//candymag.com/aboutus/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candymag.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204120602id_/http%3A//www2.candymag.com/aboutus/privacy.php) for the most accurate reproduction.*
 
 # candymag.com | privacy policy
 
@@ -11,7 +11,7 @@
 > 
 >   1. When you register to become a Candymag.com member, we ask for your name, email address, birth date, gender, civil status, contact nos and home address. We also ask you to answer some simple questions about your lifestyle and personal preferences, such as Internet usage and current educational status. We use this information to create a profile of our members that will help us develop our features and services. This profile will be presented as general demographics in our media kit and other advertising materials. We do not sell, trade, or rent your personal information to others. We only provide personal information to sponsors if you specify your interest in receiving information from the sponsors. 
 >   2. When you subscribe to any of our newsletters (Sweet Reminders, Contest Alerts etc.), all we need is your email address, which is used to send your chosen newsletter. 
->   3. To create topics and post messages in TEENTalk, our message boards, you should be a registered Candymag.com member. Your username is displayed with every message you post. Other members of the Candymag.com community may view your advance profile you entered only in TEENTalk. Your username serves as a hyperlink to display only your TEENTalk profile. When you register to be a member, you may choose not to show your email address. Read the Candymag.com [Registration Agreement and Terms ](https://web.archive.org/web/20040602183822id_/http%3A//candymag.com/beamember/index.php?mode=register) or Post your questions in TEENTalk's [House Rules/Questions and Suggestions ](https://web.archive.org/web/20040602183822id_/http%3A//candymag.com/aboutus/houserules.php)
+>   3. To create topics and post messages in TEENTalk, our message boards, you should be a registered Candymag.com member. Your username is displayed with every message you post. Other members of the Candymag.com community may view your advance profile you entered only in TEENTalk. Your username serves as a hyperlink to display only your TEENTalk profile. When you register to be a member, you may choose not to show your email address. Read the Candymag.com [Registration Agreement and Terms ](https://web.archive.org/web/20041204120602id_/http%3A//www2.candymag.com/beamember/index.php?mode=register) or Post your questions in TEENTalk's [House Rules/Questions and Suggestions ](https://web.archive.org/web/20041204120602id_/http%3A//www2.candymag.com/aboutus/houserules.php)
 > 
 > We may republish your TEENTalk posts to enrich Candymag.com content. If we do so, we will notify you. Republished posts will be identified only by usernames alone. 
 > 
@@ -34,7 +34,7 @@
 > **TEENS**  
 >  We take special precautions in protecting the privacy our young readers. While we expect parents to give their children a talk on staying safe on the Internet and constant guidance, we also take active steps to educate and protect the teens who visit and use our website. We provide informative feature articles on the subject of online safety and set up strict rules for the online community. We never censor discussion on TEENtalk or in the chatrooms; however, we do monitor them closely for offensive, abusive, and threatening messages. We also provide contact informations (by telephone, fax, mail, and email) that are dedicated to assisting and guiding our young members. 
 > 
-> Before you go further into the Internet, we invite you to read ["CyberSafety"](https://web.archive.org/web/20040602183822id_/http%3A//candymag.com/aboutus/cybersafety.php), (a primer on protecting yourself on the Internet.) 
+> Before you go further into the Internet, we invite you to read ["CyberSafety"](https://web.archive.org/web/20041204120602id_/http%3A//www2.candymag.com/aboutus/cybersafety.php), (a primer on protecting yourself on the Internet.) 
 > 
 > **HOW DOES CANDYMAG.COM PROTECT MEMBER INFO?**  
 >  The member data we collect are protected against unauthorized access. We also implement every possible measure to safeguard our servers from illegal intrusions. Members have the option to display information contained in their personal member profile. 
@@ -50,7 +50,7 @@
 > Candymag.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements or (iii) protect the rights, property or safety of Candymag.com, our users, or others. 
 > 
 > **HOW DOES CANDYMAG.COM ALLOW CUSTOMERS TO UPDATE OR CHANGE THE INFO IT COLLECTS?**  
->  You may update or change information related to your Candymag.com personal member profile by accessing your personal Member Profile page when you log in with your username and password. For other questions related to updating or changing your account information, please send email to [info@candymag.com](https://web.archive.org/web/20040602183822id_/http%3A//candymag.com/aboutus/info@candymag.com).   
+>  You may update or change information related to your Candymag.com personal member profile by accessing your personal Member Profile page when you log in with your username and password. For other questions related to updating or changing your account information, please send email to [info@candymag.com](mailto:info@candymag.com).   
 > 
 > 
 > **IN SUMMARY**  
@@ -60,5 +60,5 @@
 >  By using our website, you consent to the collection and use of this information by Candymag.com. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 > 
 > **TELL US WHAT YOU THINK**  
->  Candymag.com welcomes your questions and comments about privacy. Please send email to [info@femalenetwork.com](https://web.archive.org/web/20040602183822id_/http%3A//candymag.com/aboutus/info@femalenetwork.com).  
+>  Candymag.com welcomes your questions and comments about privacy. Please send email to [info@femalenetwork.com](mailto:info@femalenetwork.com).  
 > 
