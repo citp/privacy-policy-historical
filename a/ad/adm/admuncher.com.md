@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402004941id_/http%3A//admuncher.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admuncher.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204092214id_/http%3A//admuncher.com/privacy.shtml) for the most accurate reproduction.*
 
 # Ad Muncher - Privacy Policy
 
 Privacy Policy  
+  
 We store information about a user under three conditions:
 
 **During contact with us via email for support enquiries**  
@@ -20,4 +21,24 @@ The above information will never be used for regular unsolicited emails (for exa
 Information provided to our staff will not be sold, rented or traded to any third party under any conditions.
 
 **Privacy Policy Changes**  
-Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20040402004941id_/http%3A//admuncher.com/contact.shtml). 
+Any changes to the privacy policy will be posted here.  If you have any further questions about our privacy practices (or anything else) please feel free to [contact us](https://web.archive.org/web/20041204092214id_/http%3A//admuncher.com/contact.shtml). 
+
+"Worth every penny"  
+\- Download.com user review
+
+"Better than anything else, hands-down"  
+\- Download.com user review
+
+"I love this software!  It does everything I want, but it uses such a small amount of space.  It's nice to see quality without 'bloat' once in awhile!"
+
+  
+(BestWebDownloads.com)
+
+  
+(SpyChecker.com)
+
+  
+(SoftPedia.com)
+
+  
+(SnapFiles.com)
