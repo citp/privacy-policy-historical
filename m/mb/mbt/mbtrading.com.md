@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204071221id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405164813id_/http%3A//www.mbtrading.com/disc0.asp) for the most accurate reproduction.*
 
 # MB Trading -- Direct Access Stocks, Options, and Futures Trading
 
@@ -20,7 +20,7 @@ This notice will help you understand our overall privacy policy and the type of 
 **Private Policy Summary:**  
 We collect personal and financial information to open your account, to process your securities transactions, to administer your account, to verify your identity, employment, creditworthiness, and to carry out your request for other products and services. The following categories are examples of personal nonpublic information will be requested from you: (1) name, (2) date of birth, (3) securities trading history, (4) total assets, (5) social security number, (6) cash balance, (7) margin information, and (8) securities positions. We have implemented procedures to protect your nonpublic personal and financial information.
 
-MB Trading does not sell, share, or disclose your nonpublic information to nonaffiliated third parties unless permitted or otherwise required by law. We do share such information with affiliates to facilitate your requests or instructions. Examples of "permitted by law" include our clearing firm (which clears and settles your securities transactions) and credit bureaus. "Required by law" examples include court orders and regulatory investigations.
+We do not sell, share, or disclose your nonpublic information to nonaffiliated third parties unless permitted or otherwise required by law. We do share such information with affiliates to facilitate your requests or instructions. Examples of "permitted by law" include our clearing firm (which clears and settles your securities transactions) and credit bureaus. "Required by law" examples include court orders and regulatory investigations.
 
 We do not sell, share, or disclose your nonpublic information to nonaffiliated third parties unless permitted or otherwise required by law. We do share such information with affiliates to facilitate your requests or instructions. Examples of "permitted by law" include our clearing firm, Penson Financial Services, Inc. (which clears and settles your securities transactions), and credit bureaus (e.g. Experian, Equifax, and Trans Union). "Required by law" examples include court orders and regulatory investigations.
 
