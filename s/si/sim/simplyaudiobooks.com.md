@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611084443id_/http%3A//www.simplyaudiobooks.com/processInterfaceAction.php%3FpId%3D116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyaudiobooks.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208174601id_/http%3A//www.simplyaudiobooks.com/processInterfaceAction.php%3FpId%3D116) for the most accurate reproduction.*
 
 # Simply Audiobooks - North America's Audio Book Rental Company
 
@@ -15,6 +15,8 @@ When you register at Simply Audiobooks, we ask you for personal information. We 
 **Collection and Use of Information**
 
 When you first register at Simply Audiobooks, we ask for your email address and a password. When you place your first order for the Simply Audiobooks Service, we ask you for your full name, physical address, telephone number and credit card number so we can ship your order. We use your telephone number only if there is an order-related issue, not for marketing purposes. You must certify that you are at least 18 years old. (People under 18 cannot use Simply Audiobooks's services.)
+
+Email address information entered by prospective customers will not be disclosed to 3rd parties without prior approval by the customer. Simply Audiobooks may use email addresses entered by prospective customers for occasional informational mailings. Simply Audiobooks respects and complies with all federal anti-spam regulations and any recipient may unsubscribe from any email list at any time.
 
 Our server stores this information so that placing future orders will be quicker and easier. If you want to update your address or change credit cards, go to Your Account and make the appropriate changes. You must be signed in to access Your Account.
 
