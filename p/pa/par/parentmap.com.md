@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2003-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031231124350id_/http%3A//www.cmiregistration.com/user/about/privacy.jxp%3Forg%3D114) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentmap.com privacy policy that was archived on 2004-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040328175158id_/http%3A//www.cmiregistration.com/user/about/privacy.jxp%3Forg%3D114) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,10 +37,12 @@ This policy statement has a version number and date. If we change the policy, we
 
 Please contact us at (206) 709-9026 if you have questions or need additional information not provided here. 
 
-|  |  [](http://www.5thavenuetheatre.org/main_woz03.shtml)  
+|  |  [](http://www.surveymonkey.com/s.asp?u=21505410779)  
 ---  
+[](http://www.cmiregistration.com/user/about/index.jxp?org=114&id=728&refresh=1074898637875)  
+[](http://www.cmiregistration.com/user/about/index.jxp?org=114&id=29017&refresh=1077729209609)  
+[](http://www.seattlechildrens.org/child_health_safety/default.asp)  
+[](http://www.cmiregistration.com/user/about/index.jxp?org=114&id=6641&refresh=1077817181078)  
 [](http://www.cmiregistration.com/user/about/index.jxp?id=10974&org=114)  
-[](http://www.cmiregistration.com/user/about/index.jxp?id=12750&org=114)  
-[](http://www.cmiregistration.com/user/about/index.jxp?id=681&org=114)  
-[](http://www.cmiregistration.com/user/about/index.jxp?id=17454&org=114)  
+[](http://www.marchofdimes.com/washington)  
  
