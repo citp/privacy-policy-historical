@@ -1,57 +1,51 @@
-> *The following text is extracted and transformed from the brandweek.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206151800id_/http%3A//brandweek.com/mast/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandweek.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201020749id_/http%3A//www.vnuemedia.com/privacy.html) for the most accurate reproduction.*
 
-# Adweek Online
+# :: VNU eMedia ::
 
-[ ](http://van.ads.link4ads.com/bin/wadredir?req=clickthru&siteid=62777&pageid=1.1&time=code_here)
+[](https://web.archive.org/web/20011201020749id_/http%3A//www.vnuemedia.com/index.html)  
+[](https://web.archive.org/web/20011201020749id_/http%3A//www.vnuemedia.com/about.html)  
+[](https://web.archive.org/web/20011201020749id_/http%3A//www.vnuemedia.com/contact.html)  
+[](https://web.archive.org/web/20011201020749id_/http%3A//www.vnuemedia.com/jobs.html) |    
+**VNU eMEDIA PRIVACY POLICY  
+Revised January 2001 **
 
-**ADWEEK ONLINE Privacy Policy:**
+This site is part of the VNU eMedia ("VNU") network of web sites. Please note that VNU does not pass personally identifiable information of our users to DoubleClick. 
 
-12/10/99   
-Updated 02/03/00
+At VNU we take your privacy very seriously. Because of this we want to provide you with explicit information on how we collect, gather, and identify information during your visit to our site. This information may be expanded or updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed. Your continued use of our site signifies your acceptance of our privacy policy. 
 
-At ADWEEK ONLINE we take your privacy very seriously. Because of this we want to provide you with explicit information on how we collect, gather, and identify information during your visit to our site. This information may be expanded or be updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed.
+**Personally Identifiable Information** refers to information that tells us specifically who you are, such as your name, phone number, email or postal address. In many cases we need this information to provide the personalized or enhanced service that you have requested. 
 
-WHAT INFORMATION DO WE COLLECT AND HOW DO WE USE IT? 
+The amount of Personally Identifiable Information that you choose to disclose to VNU is completely up to you. The only way we know something about you personally is if you provide it to us in conjunction with one of our services. 
 
-ADWEEK ONLINE collects information on our users in three ways: by voluntary submission through opt-in email and/or surveys; sweepstakes and/or contest entries; and through cookie technology.
+**What information do we collect and how do we use it?**
 
-The information ADWEEK ONLINE collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; and to notify customers about updates to the service.
+VNU collects information on our users in three ways: by your voluntary submissions (for instance, if you sign up for one of our email newsletters) and/or surveys; sweepstakes and/or contest entries; and through cookie technology. In our effort to provide personalization and opportunities for prizes and services, we may at times ask you to submit information such as your name or email address, or to share your interests and hobbies with us. You never have to answer these questions, and you can decline this exchange of information on any site on the Internet - not just ours - at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information, such as a personalized stock portfolio, a sweepstakes entry, or the purchase and shipment of products and prizes to people who visit our network. 
 
-From time to time we share this information with other reputable organizations for marketing purposes or the information is used by ADWEEK ONLINE to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt in," or agree to accept these marketing opportunities. If at any time you change your mind and do not want ADWEEK ONLINE to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: [webmaster@adweekonline.com](mailto:webmaster@ADWEEKonline.com) or by writing us at BPI Communications, Electronic Media, 1515 Broadway, New York, NY 10036-8956.
+The information VNU collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; to notify you about updates to the service; and to let you know about products and services that you may be interested in. 
 
-OPT-IN EMAIL 
+**E-Mail:** If you have provided us your email address, VNU periodically sends promotional e-mail to its subscribers about services offered by VNU and its partners. You can indicate on the registration form that you do not wish to receive e-mail information from VNU. 
 
-ADWEEK ONLINE provides for its users an "optional" email service that allows the user to request-through personal email-specific ADWEEK ONLINE information. At times we may request additional information for the purpose of improving this service or for facilitating the user's online experience. A user may request to be removed (or "opt-out") from this "opt-in" email at anytime by contacting us at: [webmaster@adweekonline.com.](mailto:webmaster@ADWEEKonline.com)
+The "e-mail this article" feature is an easy way for you to send articles through email. The email addresses that you supply to use this service will not be used for any other purpose without your consent. 
 
-SWEEPSTAKES/CONTESTS 
+**With whom does VNU share the information it gathers/tracks?**
 
-From time-to-time ADWEEK ONLINE, along with other reputable companies, provides sweepstakes and other contests for the enjoyment of our users. By participating in the contest or sweepstakes and answering any and all questions, the user understands that ADWEEK ONLINE and/or the involved company(s) may use information obtained for marketing purposes. Children under 18 may not participate in any sweepstakes or contest on ADWEEK ONLINE.
+From time to time we share this information with other reputable organizations for marketing purposes or the information is used by VNU to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt out", or request not to accept these marketing opportunities at the time you provide to us any of your personally identifiable information. If at any time you change your mind and do not want VNU to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: [removeme@vnuemedia.com](mailto:removeme@vnuemedia.com) or by writing us at VNU eMedia, Inc., 770 Broadway, 6th Floor, New York, NY 10003. 
 
-COOKIES 
+**Sweepstakes/Contests**
 
-ADWEEK ONLINE may automatically collect non-personal information and data through the use of "cookies." Cookies are small text files a Web site uses to recognize repeat users, facilitate the user's ongoing access to the site and facilitate the use of the site. "Cookies" also allow a site to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising.
+From time-to-time VNU, along with other reputable companies, provides sweepstakes and other contests for the enjoyment of our users. By participating in the contest or sweepstakes and answering any and all questions, the user understands that VNU and/or the involved company(s) may use the information obtained for marketing purposes. Children under 18 may not participate in any sweepstakes or contest promoted by VNU. 
 
-ABOUT CHILDREN'S PRIVACY 
+**Cookies**
 
-ADWEEK ONLINE is committed to the safety of our children. Children under 18 may not participate in any sweepstakes or contests on ADWEEK ONLINE. Also, we encourage children under the age of 18 to ask a parent for permission before providing or sending any information to anyone online.
+VNU may automatically collect non-personal information and data through the use of "cookies." Cookies are small text files a Web site uses to recognize repeat users, facilitate the user's ongoing access to the site and facilitate the use of the site. "Cookies" also allow a site to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising. 
 
-YOUR CONSENT 
+**About Children's Privacy**
 
-By using our Web site, you consent to the collection and use of this information by ADWEEK Online. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at [webmaster@adweek.com.](mailto:webmaster@ADWEEKonline.com)
+VNU is committed to the safety of our children. Children under 18 may not participate in any sweepstakes or contests on VNU. Also, we encourage children under the age of 18 to ask a parent for permission before providing or sending any information to anyone online. 
 
-[
+**Your Consent** By using our Web site, you consent to the collection and use of the information described in this Privacy Policy by VNU. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at [removeme@vnuemedia.com](mailto:removeme@vnuemedia.com). 
 
-QUESTIONS? 
+**Questions?** We welcome your questions and/or comments. Please send all queries to [webmaster@vnuemedia.com](https://web.archive.org/web/20011201020749id_/http%3A//www.vnuemedia.com/webmaster@vnuemedia.com). 
 
-](mailto:webmaster@ADWEEKonline.com)
-
-[We welcome your questions and/or comments. Please send all queries to ](mailto:webmaster@ADWEEKonline.com)[webmaster@adweek.com.](mailto:webmaster@ADWEEKonline.com)
-
-[ Insertion Order for Adweek-AnchorBannersROS(Bonus)-468x60: 807-918-1966-1  [](http://adfarm.mediaplex.com/ad/ck/807-918-1966-1?mpt=360973706635891) ](mailto:webmaster@ADWEEKonline.com)[
-
-* * *
-
-© 2000 ](mailto:webmaster@ADWEEKonline.com)[Adweek](https://web.archive.org/) and [BPI Communications Inc.](http://www.bpicomm.com/) All rights reserved.  
-BPI Electronic Media includes [Billboard](http://www.billboard.com/), [Amusement Business](http://www.amusementbusiness.com/), [Back Stage](http://www.backstage.com/), [The Hollywood Reporter](http://www.hollywoodreporter.com/), [MC](http://www.marketingcomputers.com/), [Mediaweek](http://www.mediaweek.com/) & [BPIQ](http://www.bpiq.com/). Sites hosted by [Telescan Inc.](http://www.telescan.com/)  
-Read our [LEGAL NOTICE](https://web.archive.org/mast/legal.asp) & [PRIVACY POLICY](https://web.archive.org/mast/privacy.asp)  
+� 2001 VNU eMedia, Inc. All rights reserved.  |   |    
 
