@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2002-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020204160117id_/http%3A//www.jobscience.com/corporate/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscience.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214021602id_/http%3A//www.jobscience.com/corporate/Privacy.cfm) for the most accurate reproduction.*
 
 # Jobscience | Privacy Policy
 
@@ -9,37 +9,37 @@ Date : 1/31/2020
 ** |   
 ---|---  
    
-[](https://web.archive.org/) | [](https://web.archive.org/) | [](https://web.archive.org/) |  | [](https://web.archive.org/search/) | [](https://web.archive.org/LoginForm.cfm)  
-[](https://web.archive.org/)[](https://web.archive.org/jsr/)[](https://web.archive.org/emp/)[](https://web.archive.org/partner/)[](https://web.archive.org/help/)  
+[](http://www.jobscience.com/) | [](http://www.jobscience.com/) | [](http://www.jobscience.com/) |  | [](http://www.jobscience.com/search/) | [](http://www.jobscience.com/LoginForm.cfm)  
+[](http://www.jobscience.com/)[](http://www.jobscience.com/jsr/)[](http://www.jobscience.com/emp/)[](http://www.jobscience.com/partner/)[](http://www.jobscience.com/help/)  
 |  |  |   
 ---  
     
    
    
-**     · [About Us](https://web.archive.org/corporate/)**   
-**     · [Business Summary](https://web.archive.org/corporate/Summary.cfm)**   
-**     · [Jobscience Fact Sheet](https://web.archive.org/web/20020204160117id_/http%3A//www.jobscience.com/corporate/Fact.cfm)**   
-**     · [Industry Background](https://web.archive.org/web/20020204160117id_/http%3A//www.jobscience.com/corporate/Industry.cfm)**   
-**     · [Our Team](https://web.archive.org/corporate/Team.cfm)**   
-**     · [Careers with](https://web.archive.org/web/20020204160117id_/http%3A//www.jobscience.com/corporate/Careers.cfm)  
-      [Jobscience](https://web.archive.org/corporate/Careers.cfm)**   
-**     · [Press](https://web.archive.org/corporate/Press.cfm)**   
-**     · [Terms of Use](https://web.archive.org/corporate/Terms.cfm)**   
-**     · [Privacy Policy](https://web.archive.org/corporate/Privacy.cfm)**   
-**     · [Contact Us](https://web.archive.org/feedback/)**   
+**     · [About Us](http://www.jobscience.com/corporate/)**   
+**     · [Business Summary](http://www.jobscience.com/corporate/Summary.cfm)**   
+**     · [Jobscience Fact Sheet](https://web.archive.org/web/20021214021602id_/http%3A//www.jobscience.com/corporate/Fact.cfm)**   
+**     · [Industry Background](https://web.archive.org/web/20021214021602id_/http%3A//www.jobscience.com/corporate/Industry.cfm)**   
+**     · [Our Team](http://www.jobscience.com/corporate/Team.cfm)**   
+**     · [Careers with](https://web.archive.org/web/20021214021602id_/http%3A//www.jobscience.com/corporate/Careers.cfm)  
+      [Jobscience](http://www.jobscience.com/corporate/Careers.cfm)**   
+**     · [Press](http://www.jobscience.com/corporate/Press.cfm)**   
+**     · [Terms of Use](http://www.jobscience.com/corporate/Terms.cfm)**   
+**     · [Privacy Policy](http://www.jobscience.com/corporate/Privacy.cfm)**   
+**     · [Contact Us](http://www.jobscience.com/feedback/)**   
     
-**     · [Search Jobs](https://web.archive.org/search/)**   
+**     · [Search Jobs](http://www.jobscience.com/search/)**   
     
-**     · [Site Map](https://web.archive.org/Sitemap.cfm)**   
-**     · [Take the Tour](https://web.archive.org/tour/)**   
-**     · [Live Support](https://web.archive.org/Support.cfm)**   
-**     · [About Us](https://web.archive.org/corporate/)**   
-**     · [FAQ - Help](https://web.archive.org/help/)**   
-**     · [Contact Us](https://web.archive.org/feedback/)**   
+**     · [Site Map](http://www.jobscience.com/Sitemap.cfm)**   
+**     · [Take the Tour](http://www.jobscience.com/tour/)**   
+**     · [Live Support](http://www.jobscience.com/Support.cfm)**   
+**     · [About Us](http://www.jobscience.com/corporate/)**   
+**     · [FAQ - Help](http://www.jobscience.com/help/)**   
+**     · [Contact Us](http://www.jobscience.com/feedback/)**   
    
-**     · [Click Here](https://web.archive.org/jsr/)**   
+**     · [Click Here](http://www.jobscience.com/jsr/)**   
     
-**     · [Click Here](https://web.archive.org/emp/)**   
+**     · [Click Here](http://www.jobscience.com/emp/)**   
    
    
    
