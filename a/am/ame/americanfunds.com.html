@@ -1,0 +1,239 @@
+<!--The following is the downloaded HTML source of the americanfunds.com privacy policy that was archived on 2001-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010610170659id_/http%3A//www.americanfunds.com/servlet/ContentServer%3Fpagename%3Dafweb/shareholder/AFArticle%26cid%3D979660286529) for the most accurate reproduction.-->
+
+<html><head><title>American Funds - Privacy statement</title><link rel="stylesheet" type="text/css" href="/css/ie_pc.css"><link rel="stylesheet" type="text/css" href="/css/navLayers.css"><script language="JavaScript" src="/js/general.js" type="text/javascript"></script><script language="JavaScript" src="/js/layerFunctions.js" type="text/javascript"></script><script language="JavaScript" src="/js/nav.js" type="text/javascript"></script><script language="JavaScript" src="/js/shareholderHome.js" type="text/javascript"></script><script language="JavaScript" src="/js/defaultHomeNoFlash.js" type="text/javascript"></script><script language="JavaScript" src="/js/fundDetails.js" type="text/javascript"></script>
+<script language="JavaScript" type="text/javascript">
+<!--
+function open_window(url) {
+    //redirect to https if needed.
+    var sslBase = "https://www.americanfunds.com";
+    if (url.indexOf(sslBase) < 0) {
+      var a = url.indexOf("/servlet");
+	  var b = url.indexOf("/cached/defaultLogin.html");
+      if (a >= 0) url = sslBase + url.substring(a);
+	  if (b >= 0) url = sslBase + url.substring(b);
+    }
+
+    location.href = url;
+/*
+    //Nima 3/16/01: removed popup window for all browsers to bypass IE 4 bug
+    var agt=navigator.appName;
+
+    if ((agt.indexOf("WebTV") == -1) && (agt.indexOf("Opera") == -1))
+      mywin = window.open(url,'','toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=1,width=550,height=520');
+    else
+      location.href = url;
+*/
+}
+
+function replace_window(url) {
+    //redirect to https if needed.
+    var sslBase = "https://www.americanfunds.com";
+    if (url.indexOf(sslBase) < 0) {
+      var a = url.indexOf("/servlet");
+      if (a >= 0) url = sslBase + url.substring(a);
+    }
+
+    location.replace(url);
+}
+
+function get_url() {
+    var url = location.href;
+    var a = url.indexOf("/servlet");
+    if (a >= 0)
+    {
+        url = escape(url.substring(a));
+    }
+    return url;
+}
+//-->
+</script>
+
+		<script language="JavaScript1.2" type="text/javascript">
+    <!--
+      ns4 = (document.layers) ? true:false;
+      // *GM set boolean to DOM Level 2 ( i.e.: NS6 )
+      dom = (document.createRange) ? true:false;
+      ie = (document.all) ? true:false;			        // Variable to track Explorer browser
+      mac = navigator.appVersion.indexOf('Mac');		// Variable to track Macintosh platform
+      mac = (mac != -1) ? true:false;
+      macIE5 = navigator.appVersion.indexOf('MSIE 5.0');
+      macIE5 = (macIE5 != -1) ? true:false;
+
+			if ( (navigator.userAgent.toLowerCase().indexOf("webtv") >= 0)
+				|| ((navigator.userAgent.toLowerCase().indexOf("aol 5") >= 0) && mac ) )
+			{
+				if ( (document.location.href.indexOf("fund/fundDetail/") >= 0)
+						&& (document.location.href.indexOf("&printFlag=true") == -1) )
+							document.location.replace( document.location.href + "&printFlag=true" );
+			}
+
+      // *GM use ns_pc.css stylesheet for NS6
+      if ((ns4) || ((dom) && (!ie))) {
+        if (mac) document.write('<link rel="stylesheet" href="/css/ns_mac.css" type="text/css" />');
+        else document.write('<link rel="stylesheet" href="/css/ns_pc.css" type="text/css" />');
+        }
+      else if (ie) {
+        if (mac) document.write('<link rel="stylesheet" href="/css/ie_mac.css" type="text/css" />');
+      }
+
+      var primNav = ""; //initialize
+      var secNav = "";  //initialize
+      
+
+      function init() {
+				pageLoaded = true;
+        var shPage = (document.location.href.indexOf("pagename=afweb/shareholder/homepage/homepage") == -1)?false:true;
+        var guid = (document.cookie.indexOf("GUID=") == -1)?false:true;
+        var fdPage = (document.location.href.indexOf("fund/fundDetail/") == -1)?false:true;
+        var noFlashPage = (document.location.href.indexOf("/cached/defaultHomepageNoFlash.html") == -1)?false:true;
+
+        if (!shPage && !fdPage) window.onresize = bogusResize;
+
+        if (shPage && guid) {
+            initLayers();
+            if (ie && mac) {
+              window.onresize = movePopUps;
+              if (!macIE5) {
+                window.resizeBy(1,1);
+                window.resizeBy(-1,-1);
+                setFixed(false);
+              }
+            }
+        }
+        else if (noFlashPage) {
+          casheRollovers(pageRollovers);
+        }
+        //Capgroup Integration on 2/07/2001
+	      else if (fdPage) {
+				       var printFlag = document.location.href.indexOf("printFlag=true");
+							 if ( printFlag == -1 )
+							 {
+               		initFDLayers();
+               		window.onresize = moveFDPopUps;
+								}
+        }
+      }
+    //-->
+		</script><link rel="stylesheet" href="/css/ns_pc.css" type="text/css">
+</head><body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" onload="init();" link="#003366" vlink="#0066CC" alink="#CC6600" onresize="bogusResize(); movePopUps();">
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+	function get_url() {
+		var url = location.href;
+		var a = url.indexOf("/servlet");
+        var b = url.indexOf("&ts=");
+		if (a >= 0)
+        {
+			if (b >=0)
+                url = escape(url.substring(a, b));
+            else 
+                url = escape(url.substring(a));
+        }
+		return url;
+    }
+		
+	function gotoURL( newPath )
+	{
+		if ( newPath != "#" )
+		{
+			if ( newPath == "changePIN" )
+			{
+				open_window( '/servlet/ContentServer?pagename=afweb/shareholder/login/changePIN&#38;returnPage=' + get_url() );
+			}
+			else
+			{
+			 	var newURL = self.location.protocol	+ "//" + self.location.host + newPath;
+				top.location.href = newURL;
+			}
+		}
+	}
+// -->
+</script>
+
+<form name="globalNavForm" action="/servlet/ContentServer?pagename=afweb/common/search/searchSH" target="_top" method="post"><table summary="" width="100%" border="0" cellpadding="0" cellspacing="0"> <tbody><tr> <td rowspan="2" valign="top"><a href="/" target="_top" name="top"><img src="/images/templates/shareholder/sh_global_nav_begin_logo.gif" width="142" height="91" border="0" alt="Return to American Funds home page"></a></td> <td colspan="2"><img src="/images/templates/shareholder/sh_global_nav_begin_top.gif" alt="" width="27" height="80"></td> <td height="80" width="100%"><table summary="" border="0" cellpadding="0" cellspacing="0" bgcolor="#003366"> <tbody><tr> <td><table summary="" border="0" cellpadding="0" cellspacing="0" bgcolor="#003366"> <tbody><tr> <td><a href="javascript: navOn('LearnAndPlan');" onclick="if (this.blur) this.blur();" onmouseover="navOver('LearnAndPlan'); window.status=''; return true;" onmouseout="navOff('LearnAndPlan');"><img src="/images/templates/shareholder/sh_global_nav_0_off.gif" name="LearnAndPlan" width="121" height="40" border="0" alt="Learn &amp; Plan"></a></td> <td><a href="javascript: navOn('YourPortfolio');" onclick="if (this.blur) this.blur();" onmouseover="navOver('YourPortfolio'); window.status=''; return true;" onmouseout="navOff('YourPortfolio');"><img src="/images/templates/shareholder/sh_global_nav_1_off.gif" name="YourPortfolio" width="124" height="40" border="0" alt="Your Portfolio"></a></td> <td><a href="javascript: navOn('FundInformation');" onclick="if (this.blur) this.blur();" onmouseover="navOver('FundInformation'); window.status=''; return true;" onmouseout="navOff('FundInformation');"><img src="/images/templates/shareholder/sh_global_nav_2_off.gif" name="FundInformation" width="91" height="40" border="0" alt="Fund Information"></a></td> <td><a href="javascript: navOn('AboutUs');" onclick="if (this.blur) this.blur();" onmouseover="navOver('AboutUs'); window.status=''; return true;" onmouseout="navOff('AboutUs');"><img src="/images/templates/shareholder/sh_global_nav_3_off.gif" name="AboutUs" width="120" height="40" border="0" alt="About Us"></a></td> </tr> <tr> <td colspan="4"><img src="/images/templates/shareholder/sh_global_nav_bottom.gif" alt="" width="456" height="40" border="0"></td> </tr> </tbody></table></td> <td width="100%" align="right" background="/images/templates/shareholder/sh_global_nav_shim.gif"><img src="/images/templates/shareholder/sh_global_nav_end.gif" alt="" width="138" height="80" border="0"></td> </tr> </tbody></table></td> </tr> <tr> <td width="20"><img src="/images/common/clear.gif" alt="" width="20" height="1"></td> <td bgcolor="#CCCC99" width="7" valign="bottom"><img src="/images/templates/shareholder/sh_global_nav_begin_bot2.gif" alt="" width="7" height="6"></td> <td bgcolor="#CCCC99" height="40"><table summary="" width="100%" border="0" cellpadding="0" cellspacing="0"> <tbody><tr> <td height="1"><img src="/images/common/clear.gif" alt="" width="7" height="1"></td> <td></td> <td><img src="/images/common/clear.gif" alt="" width="26" height="1"></td> <td><img src="/images/common/clear.gif" alt="" width="6" height="1"></td> <td></td> <td><img src="/images/common/clear.gif" alt="" width="26" height="1"></td> <td><img src="/images/common/clear.gif" alt="" width="6" height="1"></td> <td></td> <td><img src="/images/common/clear.gif" alt="" width="30" height="1"></td> <td width="100%"></td> </tr> <tr align="center"> <td height="39"></td> <td><select name="goToMenu" class="gblNavText" onchange="gotoURL( document.globalNavForm.goToMenu.options[document.globalNavForm.goToMenu.selectedIndex].value );"> <option value="#" selected="">Go to... </option><option value="/servlet/ContentServer?pagename=afweb/shareholder/fund/fundSummary/FSAlphabetBody">Fund prices and returns </option><option value="/servlet/ContentServer?pagename=afweb/shareholder/portfolio/portfolio">Your portfolio balances </option><option value="/servlet/ContentServer?pagename=afweb/shareholder/portfolio/transactionHandler&amp;transaction=changeaddress&amp;primNav=YourPortfolio&amp;secNav=ChangeAddress">Address change </option><option value="changePIN">PIN change </option><option value="/servlet/ContentServer?pagename=afweb/shareholder/common/page&amp;cid=973711393196">Tax information </option><option value="/servlet/ContentServer?pagename=afweb/shareholder/common/page&amp;cid=976327978317">Download a form </option><option value="/servlet/ContentServer?pagename=afweb/shareholder/AFArticle&amp;cid=981679413595&amp;primNav=FundInformation">Download a prospectus </option><option value="/servlet/ContentServer?pagename=afweb/shareholder/AFArticle&amp;cid=980937983429">Retirement calculator </option><option value="/servlet/ContentServer?pagename=afweb/shareholder/AFArticle&amp;cid=979147889364">Account setup instructions </option><option value="/servlet/ContentServer?pagename=afweb/shareholder/AFArticle&amp;cid=980527492205">American Funds contacts </option></select></td> <td><a href="javascript: gotoURL( document.globalNavForm.goToMenu.options[document.globalNavForm.goToMenu.selectedIndex].value );"><img src="/images/templates/common/sec_globalnav_go.gif" width="20" height="20" border="0" alt="Go"></a></td> <td></td> <td class="gblNavText" nowrap="">Site Search <input type="text" name="searchstring" value="" size="9" class="gblNavText" maxlength="255">
+ <input type="hidden" name="usertype" value="GUEST"> <input type="hidden" name="userid" value="0" size="30"> </td><td><a href="javascript:document.globalNavForm.submit();"><img src="/images/templates/common/sec_globalnav_go.gif" width="20" height="20" border="0" alt="Go"></a></td><td></td><td><table summary="" border="0" cellspacing="0" cellpadding="0"><tbody><tr> <td><img src="/images/templates/common/sec_globalnav_orangesquare.gif" alt="" width="5" height="5" hspace="2"></td> <td nowrap=""><a href="https://www2.americanfunds.com/servlet/BrokerLogin?NextPage=%2Fservlet%2FContentServer%3Fpagename%3Dafweb%2Fbroker%2Fhomepage%2Fhomepage" class="gblNavLinks" target="_top">Adviser Site</a></td></tr><tr> <td><img src="/images/templates/common/sec_globalnav_orangesquare.gif" alt="" width="5" height="5" hspace="2"></td> <td nowrap=""><a href="http://www.americanlegacy.com" class="gblNavLinks" target="legacy">American Legacy Site</a></td> </tr><tr> <td><img src="/images/templates/common/sec_globalnav_orangesquare.gif" alt="" width="5" height="5" hspace="2"></td> <td nowrap=""><a href="http://www.yourretirementresource.com" class="gblNavLinks" target="retire">Retirement Site</a></td> </tr></tbody></table></td><td><a href="/servlet/EvalServer?evalpage=afweb/shareholder/AFPagePopUp&amp;cid=981069572241&amp;cacheCriteria=981069572241" target="help" onclick="helpWin = window.open(this.href,'help','width=500,height=400,scrollbars=yes,resizable=yes,menubar=yes,status=yes,toolbar=yes'); helpWin.focus(); return false;"><img src="/images/templates/common/sec_globalnav_help.gif" width="20" height="20" border="0" alt="Site Help"></a></td><td></td></tr></tbody></table></td></tr></tbody></table><table summary="" width="100%" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td align="right" nowrap=""><a href="/cached/defaultHomepage.html" target="_top"><img src="/images/templates/common/home_alone.gif" alt="Home" width="39" height="15" border="0" hspace="1"></a><img src="/images/common/clear.gif" alt="" width="3" height="1"></td></tr></tbody></table></form><div id="secLearnAndPlan"><table width="470" border="0" cellpadding="0" cellspacing="0"> <tbody><tr> <td class="gblSecNavDividers" valign="top"><script language="JavaScript" type="text/javascript">
+		<!--
+			document.write(createLink(false, "LearnAndPlan_InvestmentEducation", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=972350536420","Investment Education","_top"));
+			document.write(createLink(true, "LearnAndPlan_MutualFunds", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=974843949619","Mutual Funds","_top"));
+			document.write(createLink(true, "LearnAndPlan_RetirementAndIRAs", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=973624890326","Retirement & IRAs","_top"));
+			document.write(createLink(true, "LearnAndPlan_VariableAnnuities", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=973711393026","Variable Annuities","_top"));
+			document.write("\<br\>");
+			document.write(createLink(false, "LearnAndPlan_TaxInformation", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=973711393196","Tax Information","_top"));
+			document.write(createLink(true, "LearnAndPlan_NewsAndFeatures", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=973711393366","News & Features","_top"));
+		//-->
+		</script></td> </tr>
+</tbody></table></div><div id="secYourPortfolio"><table width="470" border="0" cellpadding="0" cellspacing="0"> <tbody><tr> <td class="gblSecNavDividers" valign="top"><script language="JavaScript" type="text/javascript">
+			<!--
+				document.write(createLink(false, "YourPortfolio_BalancesAndTransactions", "/servlet/ContentServer?pagename=afweb/shareholder/portfolio/portfolio", "Balances & Transactions", "_top"));
+				document.write(createLink(true, "YourPortfolio_ManagingYourPortfolio", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=973711392843", "Managing Your Portfolio", "_top"));
+				document.write(createLink(true, "YourPortfolio_DownloadableForms", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=976327978317", "Downloadable Forms", "_top"));
+				document.write("\<br\>");
+				document.write(createLink(false,"YourPortfolio_ChangeAddress", "/servlet/ContentServer?pagename=afweb/shareholder/portfolio/transactionHandler&transaction=changeaddress&primNav=YourPortfolio&secNav=ChangeAddress", "Change Address", "_top"));
+				document.write(createLink(true, "YourPortfolio_ChangePIN", "javascript:void open_window('/servlet/ContentServer?pagename=afweb/shareholder/login/changePIN&returnPage=' + get_url());", "Change PIN", "_top"));
+				document.write(createLink(true, "YourPortfolio_EstablishElectronicStatements", "/servlet/ContentServer?pagename=afweb/shareholder/portfolio/transactionHandler&transaction=estelecstatement&primNav=YourPortfolio&secNav=EstablishElectronicStatements", "Establish Electronic Statements", "_top"));
+				document.write(createLink(true, "YourPortfolio_TaxGuide", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=981141946321", "Tax Guide", "_top"));
+			//-->
+		</script></td> </tr>
+</tbody></table></div><div id="secFundInformation"><table width="470" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="gblSecNavDividers" valign="top"><script language="JavaScript" type="text/javascript">
+			<!--
+ 			document.write(createLink(false, "FundInformation_AllFundsAlphabetically", "/servlet/ContentServer?pagename=afweb/shareholder/fund/fundSummary/FSAlphabetBody", "All Funds Alphabetically", "_top"));
+			document.write(createLink(true, "FundInformation_AllFundsByAssetClass", "/servlet/ContentServer?pagename=afweb/shareholder/fund/fundSummary/FSObjectiveBody", "All Funds by Asset Class", "_top"));
+			document.write(createLink(true, "FundInformation_FlexiblePricing", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=981379894119","Flexible Pricing", "_top"));
+			document.write("\<br\>");
+			document.write(createLink(false, "FundInformation_HistoricalPricesDistributions", "/servlet/ContentServer?pagename=afweb/shareholder/fund/histPricesDists/histPricesDists","Historical Prices & Distributions","_top"));
+			//-->
+		</script></td></tr></tbody></table></div><div id="secAboutUs"><table width="470" border="0" cellpadding="0" cellspacing="0"> <tbody><tr> <td class="gblSecNavDividers" valign="top"><script language="JavaScript" type="text/javascript">
+			<!--
+				document.write(createLink(false, "AboutUs_WhatMakesUsDifferent", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=979583247876", "What Makes Us Different", "_top"));
+				document.write(createLink(true, "AboutUs_ContactUs", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=979583248079","Contact Us", "_top"));
+				document.write(createLink(true, "AboutUs_EmploymentOpportunities", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=979583248163", "Employment Opportunities","_top"));
+				document.write("\<br\>");
+				document.write(createLink(false, "AboutUs_TheValueOfAFinancialAdviser", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=979583248247", "The Value of a Financial Adviser", "_top"));
+				document.write(createLink(true, "AboutUs_AccountSetupInstructions", "/servlet/ContentServer?pagename=afweb/shareholder/common/page&cid=979583248331", "Account Setup Instructions", "_top"));
+			//-->
+		</script></td> </tr>
+</tbody></table></div><script language="JavaScript" type="text/javascript">
+<!--
+	navLoaded = loadNav("shareholder");
+	navOn(primNav);
+// -->
+</script><table summary="" border="0" width="100%" cellspacing="0" cellpadding="0" id="layoutTable"><tbody><tr align="left" valign="top"><td>
+
+<img src="/images/common/clear.gif" alt="" width="182" height="1" border="0"><br> <br><br></td><td width="100%" id="layoutBody"><table summary="" width="100%" border="0" cellpadding="2" cellspacing="0"><tbody><tr valign="bottom"><td align="left" width="100%" background="/images/common/header_bkgd.gif" height="34" class="bodyTextHeader">Privacy statement</td></tr><tr valign="top"><td class="bodyText"><br><p class="bodyText">American Funds considers the privacy of its shareholders to be of fundamental importance and has established a policy to maintain the privacy of the information you share with us.</p>
+
+<p class="bodyText">While we do not sell any information to any third parties, we do collect and retain nonpublic personal information about you including:</p>
+
+<ul>
+	<li class="bodyText">information we receive from you or from your financial adviser, such as your name and address;</li>
+	<li class="bodyText">an address we receive from a third party when you have moved;</li>
+	<li class="bodyText">information about your mutual fund transactions, such as account balance; and</li>
+	<li class="bodyText">information collected through the use of Internet “cookies” when you access our Web sites.</li>
+</ul>
+
+<p class="bodyText">We occasionally disclose nonpublic personal information about you to third parties as permitted by law. Some instances when we have shared information include:</p>
+
+<ul>
+	<li class="bodyText">disclosing information to a third party in order to process account transactions that you request or authorize;</li>
+	<li class="bodyText">disclosing your name and address to companies that mail fund-related materials such as shareholder reports;</li>
+	<li class="bodyText">disclosing information to research companies that help conduct shareholder surveys to assess and enhance our financial services; and</li>
+	<li class="bodyText">disclosing information in connection with legal proceedings.</li>
+</ul>
+
+<p class="bodyText">Note that in each case where information is shared with third parties, they are not permitted to use the information for any purpose other than to assist our servicing of your account(s) or as permitted by law.</p>
+
+<p class="bodyText">If you close your account(s) or if we lose contact with you, we will continue to share information in accordance with our current privacy policy and practices.</p>
+
+<p class="bodyText">We restrict access to your nonpublic personal information to authorized employees. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information.</p>
+
+<p class="bodyText">If you would like to learn more or have any questions, please call us at 800/421-0180, ext 1.</p>
+
+<p class="bodyText">This privacy disclosure applies to investment and shareholder services offered by:</p>
+
+<p class="bodyText">American Funds<br>
+American Funds Distributors, Inc.<br>
+American Funds Service Company<br>
+Capital Research and Management Company<br>
+Capital Bank and Trust Company<br></p><br></td></tr><tr valign="top"></tr></tbody></table></td></tr></tbody></table>&nbsp;<br><br><div align="center" class="legal"><a href="/servlet/ContentServer?pagename=afweb/shareholder/AFArticle&amp;cid=979660286374" class="legalLink" target="_top">Copyright</a>© 2001 American Funds Distributors, Inc. All rights reserved. | <a href="/servlet/ContentServer?pagename=afweb/shareholder/AFArticle&amp;cid=978142800921" class="legalLink" target="_top">Portfolio agreement</a> | <a href="/servlet/ContentServer?pagename=afweb/shareholder/AFArticle&amp;cid=979660286529" class="legalLink" target="_top">Privacy statement</a> | <a href="/content/shareholder/comments.html" class="legalLink" target="comments" onclick="commentWindow = window.open(this.href,'comments','width=700,height=600,status=yes,scrollbars=yes,resizable=yes'); commentWindow.focus(); return false;">Comments?</a></div><p></p><br></body></html>
