@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acslaw.org privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628150010id_/http%3A//www.acslaw.org/misc/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acslaw.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207031705id_/http%3A//www.acslaw.org/misc/privacy.shtml) for the most accurate reproduction.*
 
 # American Constitution Society
 
@@ -12,7 +12,7 @@
 [Video](http://www.americanconstitutionsociety.org/Video.htm "Video")  
 [Leadership and Staff](http://www.americanconstitutionsociety.org/Leadership.htm "Leadership")  
 [Join/Contribute](http://www.americanconstitutionsociety.org/Contribute.htm "Contribute")  
-[Shop](https://web.archive.org/web/20040628150010id_/http%3A//www.acslaw.org/Shop.htm)  
+[Shop](https://web.archive.org/web/20041207031705id_/http%3A//www.acslaw.org/Shop.htm)  
 [Contact Us](http://www.americanconstitutionsociety.org/Contact.htm "Contact Us")  
   | 
 
