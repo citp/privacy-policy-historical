@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2000-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001119173900id_/http%3A//bodyforlife.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606221759id_/http%3A//www.bodyforlife.com/privacy.asp) for the most accurate reproduction.*
 
-# Body for Life | It's about Life
+# Body-for-LIFE | Change Your Mind - Change Your Body - Change Your LIFE
 
   
 Experimental and Applied Sciences, Inc. (EAS) has created this privacy statement as part of our commitment to protect the privacy and security of information obtained on-line concerning our customers and visitors to our Web site. The following discloses our information gathering and dissemination practices for EAS web sites, including [EAS.com](http://www.eas.com/), [BodyforLife.com](http://www.bodyforlife.com/), [NeoElite.com](http://www.neoelite.com/) and [MuscleMedia.com](http://www.musclemedia.com/). Using our web sites demonstrates your consent to the collection and use of information pursuant to EAS' disclosures in this policy statement.
