@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611090841id_/http%3A//www.harristeeter.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211055815id_/http%3A//www.harristeeter.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Harris Teeter -- Privacy Policy
 
@@ -9,6 +9,7 @@
 [](http://www.harristeeter.com/shopping/index.php)  
 [Go Shopping](http://www.mywebgrocer.com/store/harristeeter.html)  
 [Party To Go](http://www.harristeeter.com/cart/home.php)  
+[Special Item Request](http://www.harristeeter.com/special_item_request.php)  
 [Security](http://www.harristeeter.com/shopping/online_security.php)  
   
 [](http://www.harristeeter.com/vic_card/index.php)  
@@ -22,15 +23,13 @@
   
 [](http://www.harristeeter.com/consumer_info/index.php)  
 [Food Safety](http://www.harristeeter.com/consumer_info/food_safety.php)  
-[Pharmacy Health Line](http://www.harristeeter.com/pharmacy/index.php)  
+[Pharmacy Health-Line](http://www.harristeeter.com/pharmacy/index.php)  
 [Frequently Asked Questions](http://www.harristeeter.com/consumer_info/faq.php)  
 [Press Releases](http://www.harristeeter.com/press_releases/index.php)  
   
 [](http://www.harristeeter.com/community/index.php)  
 [Together In Education](http://www.harristeeter.com/community/together_ed.php)  
 [HT Giving Program](http://www.harristeeter.com/community/giving_program.php)  
-  
-[](http://www.harristeeter.com/cart/home.php)  
 |   
 |  |   
 At Harris Teeter, your privacy is our concern. We will not sell or give your name, address, email address or personal information to anyone.
@@ -59,9 +58,6 @@ Matthews, NC 28105
   
   
 |    
-  
-[](http://www.southernliving.com/events/cookoff/default.asp?SID=1)  
-  
-
+[](http://www.harristeeter.com/cart/home.php)
 
 [](http://www.harristeeter.com/harry/index.php)
