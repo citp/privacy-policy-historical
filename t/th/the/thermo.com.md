@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203025423id_/http%3A//www.thermo.com/eThermo/CDA/Footer/Privacy_Statement/1%2C1290%2C1-8%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thermo.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619221106id_/http%3A//thermo.com/com/cda/legal/thermo_legal_info/0%2C2185%2CP%2C00.html) for the most accurate reproduction.*
 
-# Privacy Statement - Thermo
+# Thermo Electron Corporation -
 
-  |  [ ](https://web.archive.org/newlabs)  
----|---  
-  
-* * *
-
-**PRIVACY STATEMENT**
-
-At Thermo Electron, we take your privacy seriously. In general, you can visit Thermo Electron on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with Thermo Electron. 
+  |  At Thermo Electron, we take your privacy seriously. In general, you can visit Thermo Electron on the Web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with Thermo Electron. 
 
 Thermo Electron provides this Online Privacy Statement to make you aware of our privacy policy and practices and of the choices you can make about the way your information is collected and used.
 
@@ -23,10 +16,7 @@ From time to time, we may also use your information to contact you for market re
 
 Thermo Electron will not use or share the personally identifiable information provided to us online in ways unrelated to the uses described above. Thermo Electron will make every effort to apply local country laws and policies where they differ from those in the U.S., if any. 
 
-Thermo Electron is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. For example. we use encryption when collecting or transferring sensitive data such as credit card information. 
+Thermo Electron is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. For example, we use encryption when collecting or transferring sensitive data such as credit card information. 
 
-If you have comments or questions about our privacy policy, please complete the feedback form found on the contact us page. 
-
-  
-© 2002 Thermo Electron Corporation. All rights reserved. | [Terms and Conditions](http://www.thermo.com/eThermo/CDA/Footer/Terms_and_Conditions/1,1290,1-5,00.html) | [Disclaimer](http://www.thermo.com/eThermo/CDA/Footer/Disclaimer/1,1290,1-6,00.html)  
+If you have comments or questions about our privacy policy, please visit the [contact us ](https://web.archive.org/com/cda/contactus/home)page and select "contact your service rep" and then select "other" from the list of subject areas. An e-mail will be dispatched to a member of the Thermo eBusiness team, and someone will respond to you shortly.   
 
