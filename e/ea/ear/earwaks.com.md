@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earwaks.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628165525id_/http%3A//www.earwaks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earwaks.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211080005id_/http%3A//www.earwaks.com/privacy) for the most accurate reproduction.*
 
 # Earwaks Privacy Policy :: How We Protect Your Privacy
 
@@ -18,16 +18,12 @@ Earwaks.com also collects certain information about your computer hardware and s
 **GENERAL CONSIDERATIONS**  
 The Internet is, for the most part, an insecure network. As such, Earwaks.com cannot guarantee that the information you provide to us is completely safe, although we are careful to prevent any problems to the best of our ability. There may be circumstances beyond our control that may make it accessible for unauthorized persons to observe your data. However, such risks exist unanimously across the Internet; the only truly secure machine is one not connected to the Internet.
 
-[   
-andyslim  
-](https://web.archive.org/fam/andyslim) _Watch out for brand new production from Kace & Andyslim!_
-
   
-[<<](https://web.archive.org/index.php?month=5&year=2004#calendar) | June 2004 | [>>](https://web.archive.org/index.php?month=7&year=2004#calendar)  
+[<<](https://web.archive.org/index.php?month=11&year=2004#calendar) | December 2004 | [>>](https://web.archive.org/index.php?month=1&year=2005#calendar)  
 ---|---|---  
 S | M | T | W | T | F | S  
-  |   | 1 | 2 | 3 | 4 | 5  
-6 | 7 | 8 | 9 | 10 | 11 | 12  
-13 | 14 | 15 | 16 | 17 | 18 | [19](javascript:showOnly\('calEvent25', objEventArray\);)  
-20 | 21 | 22 | 23 | 24 | [25](javascript:showOnly\('calEvent26', objEventArray\);) | 26  
-27 | 28 | 29 | 30 |   |   |  
+  |   |   | 1 | 2 | [3](javascript:showOnly\('calEvent57', objEventArray\);) | 4  
+5 | 6 | 7 | 8 | 9 | 10 | [11](javascript:showOnly\('calEvent58', objEventArray\);)  
+12 | 13 | 14 | 15 | 16 | 17 | 18  
+19 | 20 | 21 | 22 | 23 | 24 | 25  
+26 | 27 | 28 | 29 | 30 | 31 |  
