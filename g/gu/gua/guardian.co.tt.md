@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guardian.co.tt privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204152520id_/http%3A//guardian.co.tt/priv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guardian.co.tt privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403104440id_/http%3A//www.guardian.co.tt/priv.html) for the most accurate reproduction.*
 
 # The Trinidad Guardian -Online Edition Ver 2.0
 
@@ -31,8 +31,6 @@ If you supply us with your postal address on-line you will only receive the info
 Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
-
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
