@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bioware.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207052107id_/http%3A//www.bioware.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioware.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603062653id_/http%3A//www.bioware.com/legal/privacy.html) for the most accurate reproduction.*
 
 # BioWare: Privacy Policy
 
