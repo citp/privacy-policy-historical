@@ -1,414 +1,365 @@
-<!--The following is the downloaded HTML source of the belfasttelegraph.co.uk privacy policy that was archived on 2003-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030401210406id_/http%3A//www.belfasttelegraph.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the belfasttelegraph.co.uk privacy policy that was archived on 2003-12-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202021310id_/http%3A//www.belfasttelegraph.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
 
-<!--META TAGS START --> 
 
-<meta name="description" content="Sunday Life News">
-<meta name="Keywords" content="Ireland, Belfast, England, UK, London, News, traveller, visitor, work, New Zealand, Australia, South Africa, working visa, news, travel, working holiday, property, information, travellers, guide, employment, employment agency, careers, jobs">
-<meta http-equiv="Content-Script-Type" content="text/javascript">
+<script type="text/javascript"><!--
 
-<!--META TAGS END -->  
+function storeCookie(key,val) { 
+	var expDate = new Date();
+	var expTime = expDate.getTime() + 1000 * SECS_100DAYS;
+	expDate.setTime( expTime );
+	 	document.cookie = 	key +"="+ val + "; expires="+ expDate.toGMTString() ;
+	
+	//window.alert("Cookie is now :"+ document.cookie );
+	
+	window.location.reload();
+}//storeCookie
+	
+function getCookieVal( key ){
+	var cookiesText = document.cookie;
+	var keyAt = cookiesText.indexOf(key);		//get position of key
+	 
+	 	//window.alert("Cookie Key: "+key+" is at "+ keyAt );
+	
+	  if (keyAt == -1)  return null;  
+	  
+	  var sepAt = cookiesText.indexOf("=", keyAt );					//find next seperator pos after key
+	  var endAt = cookiesText.indexOf(";", sepAt );					//find first delim. after sep.
+	  if (endAt == -1) 	  endAt = cookiesText.length; 		// Last pair has no delimiter
+	  
+	  var val = cookiesText.substring( 1+ sepAt, endAt);
+	  
+ 	 	// window.alert("Cookie Key: "+key+" has val \n"+val);
+	  return val;
+}//func
 
-<!--STYLESHEET START --> 
-<link rel="STYLESHEET" type="text/css" href="http://www.belfasttelegraph.co.uk/includes/styles/styles.css">
 
-<!--SCRIPT START-->
-<script language="JavaScript">
-<!--
 
-function gotoURLres(dropDown) {
-URL=dropDown.options[dropDown.selectedIndex].value;
-if(URL.length>0)
-	parent.location.href="http://"+URL;
+var portfolioCookie = getCookieVal( "null" );
+SHOW_SUMMARIES =   (portfolioCookie == null) || (portfolioCookie== "1") ;
+//window.status="Show summaries: "+ SHOW_SUMMARIES;
+
+function interceptClickBuyStory( premUrl, premQS, jumpUrl  ){
+	displayClickBuyStory(SHOW_SUMMARIES, premUrl, premQS, jumpUrl);
+	return false;
+}//func
+
+
+function displayClickBuyStory( showSummaries,  premUrl, premQS, jumpUrl  ){
+	if( premUrl.length > 0 ){
+		if( showSummaries )
+			window.location = jumpUrl;
+		else{
+			var btAppend = "$$$javascript:self.close();";    // ensure c&b back button functions properly.
+			var styleQS = "&style_sheet="+ getCookieVal( "style_sheet" );
+			newWindow = window.open( premUrl + "?"+ premQS + styleQS + btAppend, "portfolio_window");
+			newWindow.focus();
+		}
+	}else
+		window.location = jumpUrl;
+}//func
+
+
+
+function getDateString(){ 
+	var months = new Array("January","February","March","April","May","June","July","August","September","October","November","December");	
+	var today  = new Date();
+	var year  = today.getYear() , 	month = today.getMonth(),
+	dayOfWk  = today.getDay(), dayOfMonth=today.getDate() ,
+	hh  = today.getHours(),	mm = today.getMinutes();
+
+	if(year < 1000)             year += 1900;         
+	if (hh < 10 ) 	   hh= "0" + hh; 
+	if (mm< 10 )   mm = "0" + mm; 
+
+	var dateStr = dayOfMonth + " "+ months[month] + " "+ year + "  "+ hh+ ":" + mm;
+
+	return dateStr;
+	
+}//function
+
+
+function toggle(button, trueVal, falseVal){
+	if(button.value==trueVal){
+		button.value=falseVal;
+		button.checked=false; 
+	}else{
+		button.value=trueVal;
+		button.checked=true;  
+	}//else
+}//function
+
+
+function openWin1 (url){
+	openNewWin(url,520,600);
 }
 
-// -->
+function openNewWin(url, w, h){
+	var atts =  'width='+w+',height='+h+',menubar=yes,scrollable=yes,resizable=no,toolbar=no,location=no,directories=no,status=0,toolbar=0,menubar=0,scrollbars=1,resizable=0';
+	var newWindow = open (url, '_blank',atts);
+	newWindow.focus ();
+	if (document.layers)
+		open (location, '_self')
+}
+
+
+
+STYLE_FILES = new Array ("BIG","style_large.css", "MEDIUM", "style_medium.css", "SMALL", "style_small.css");
+DEFAULT_STYLE = "style_small.css";
+function getStyleFile(){
+	var key = getCookieVal( "style_sheet" );
+	var file=DEFAULT_STYLE;
+	for( s=0; s< STYLE_FILES.length; s+=2 ){
+		if( key == STYLE_FILES[s] )
+			file = STYLE_FILES[s+1];
+	}//for
+	//window.status = "Style :  "+ file;
+
+	return file;
+}//func
+
+
+function getStyleSheet(){
+	document.writeln("<link rel=\"STYLESHEET\" type=\"text/css\" href=\"/includes/styles/style_main.css\">");
+	document.writeln("<link rel=\"STYLESHEET\" type=\"text/css\" href=\"/includes/styles/"+ getStyleFile() +"\">");
+	document.writeln("<style type=\"text/css\" media=\"all\">@import \"/includes/styles/style_ie.css\";</style>");	
+}//func
+
+
+function shuffleArray( dataArray, shuffles ){
+	if( dataArray.length <2)
+		return dataArray;
+	
+	var len = dataArray.length;
+	for( s=0; s< shuffles; s++ ){
+		var shuffled = new Array (len);
+		var shuffPoint =  Math.round( Math.random() * (len-1) );
+	
+		for( e=shuffPoint; e<len;  e++ )
+			shuffled[ e-shuffPoint ] = dataArray[e]; 
+		for( e=0; e<shuffPoint; e++ )
+			shuffled[ e+ (len-shuffPoint) ] = dataArray[e]; 
+	
+		dataArray = shuffled;
+	}//for
+	return dataArray;
+}//fn
+	
+function getRandomAdIds( cmpIds, optIds, totalAds ){
+	cmpIds = shuffleArray( cmpIds, 3 );
+	optIds = shuffleArray( optIds, 3 );
+	
+	var adArray = new Array( totalAds );
+	var adCount =0;
+	for( a=0; a<cmpIds.length; a++){
+		if(adCount < totalAds){
+			adArray[adCount] = cmpIds[a] ;
+			adCount++;
+		}//if
+	}
+	for( a=0; a<optIds.length; a++){
+		if( adCount<totalAds ){
+			adArray[adCount] = optIds[a] ;
+			adCount++;
+		}//if
+	}//for
+	
+	return adArray;	
+}//func
+
+
+
+//-->
 </script>
 
-<!--SCRIPT END-->
+
+<script language="javascript" type="text/javascript"><!--
+
+if (parent != self)
+	window.parent.location = location;
+	
+// getStyleSheet();	// in clientScripts include
+
+//-->
+</script>
+
+<link rel="STYLESHEET" type="text/css" href="/includes/styles/style.css">
+
+<script language="JavaScript">
+<!--
+var browserName=navigator.appName; 
+ if (browserName=="Microsoft Internet Explorer")
+  document.write('<link rel="stylesheet" type="text/css" href="/includes/styles/style_ie.css">');
+//-->
+</script>
 
 <title>Belfast Telegraph</title>
+<meta name="description" content="Belfast Telegraph News">
+<meta name="Keywords" content="Ireland, Belfast, England, UK, London, News, traveller, visitor, work, New Zealand, Australia, South Africa, working visa, news, travel, working holiday, property, information, travellers, guide, employment, employment agency, careers, jobs">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
 </head>
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<center>
 
-<!-- BEGIN TOP BANNER--> 
-<table width="760" border="0" cellspacing="0" cellpadding="0" height="5" bgcolor="#FFFFFF"><tbody><tr><td></td></tr></tbody></table>
-<table width="760" border="0" cellspacing="0" cellpadding="0">
+<body bgcolor="ffffff" text="#000000" leftmargin="5" topmargin="0" marginheight="0" marginwidth="0">
+
+<a name="top"></a>
+ 
+<!-- top table -->
+<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
+  <tbody><tr class="doubledots"> 
+    <td align="center">
+        <!--  Advertron2: BT - Promo Strip - Archive   ( #1109 )  -->
+<table width="760" border="0" cellpadding="0" cellspacing="0" bgcolor="#73718C">
   <tbody><tr> 
-    <td width="268" background="/images/editorial_furniture/newdesign/fader.jpg"><img src="/images/editorial_furniture/newdesign/spacer.gif" width="1" height="1"></td>
-    <td width="16" height="12" bgcolor="#FFFFFF"><img src="/images/editorial_furniture/newdesign/angle.gif" width="12" height="13"></td>
-    <td width="476" height="12" bgcolor="#FFFFFF"> 
-      <div align="right"><font face="Arial, Helvetica, sans-serif" size="1" color="#333333"> 
-        <script>
-	var mydate=new Date()
-	var theYear=mydate.getFullYear()
-	var day=mydate.getDay()
-	var month=mydate.getMonth()
-	var daym=mydate.getDate()
-	if (daym<10)
-	daym="0"+daym
-	var dayarray=new Array("SUNDAY","MONDAY","TUESDAY","WEDNESDAY","THURSDAY","FRIDAY","SATURDAY")
-	var montharray=new Array("JANUARY","FEBRUARY","MARCH","APRIL","MAY","JUNE","JULY","AUGUST","SEPTEMBER","OCTOBER","NOVEMBER","DECEMBER")
-	document.write("PUBLICATION DATE: " + dayarray[day]+", "+montharray[month]+" "+daym+", "+theYear)
-	</script>PUBLICATION DATE: THURSDAY, JANUARY 30, 2020
-        </font></div>
-    </td>
+    <td height="18"> <div align="center"><a class="index-links" href="http://www.belfasttelegraph.co.uk/search/search.jsp"><font color="#FFFFFF"><b>THE 
+        BELFAST TELEGRAPH ARCHIVE... CLICK HERE FOR ACCESS TO 180,000 ARTICLES 
+        FROM 1995 TO THE PRESENT</b></font></a></div></td>
   </tr>
-  <tr> 
-    <td width="268" valign="middle" align="center" background="/images/editorial_furniture/newdesign/faders.jpg"><a href="/"><img src="/images/editorial_furniture/newdesign/logo11.gif" width="218" height="37" border="0"></a></td>
-    <td width="16" bgcolor="8DA7C3">&nbsp;</td>
-    <td width="476" height="68" valign="bottom" bgcolor="8DA7C3"> <!--  Advertron2: BT - Adlink Banner  - Homepage   ( #765 )  -->
+</tbody></table>
+
+  </td></tr>
+</tbody></table>
+
+
+<!-- branding & banner-->
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0" height="64">
+<tbody><tr> 
+<td width="268" valign="top"><a href="/"><img src="/img/furniture/branding.gif" width="288" height="60" border="0"></a></td>
+<td width="16">&nbsp;</td>
+<td width="476" align="right" valign="top">
+<!--  Advertron2: BT - Adlink Banner  - Homepage   ( #765 )  -->
 <!------- Start of Ad'LINK ADJ Tag, size : 468x60 ------>
 <table cellspacing="0" cellpadding="0" border="0" width="468" height="60"><tbody><tr>
 <td valign="top" border="0" width="468" height="60">
 <script language="JavaScript">
   var adlink_randomnumber=Math.floor(Math.random()*1000000000000);
    document.write('<scr'+'ipt language="JavaScript" src="http://ad.uk.doubleclick.net/adj/belfasttelegraph.co.uk/homepage;dcopt=ist;sz=468x60;ord='+adlink_randomnumber+'?"><\/scr'+'ipt>');
-</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/belfasttelegraph.co.uk/homepage;dcopt=ist;sz=468x60;ord=239660988927?"></script><noscript>
+</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/belfasttelegraph.co.uk/homepage;dcopt=ist;sz=468x60;ord=125839166490?"></script><noscript>
 <a href="http://ad.uk.doubleclick.net/jump/belfasttelegraph.co.uk/homepage;sz=468x60;ord=2555287480?" target="_new">
 <img src="http://ad.uk.doubleclick.net/ad/belfasttelegraph.co.uk/homepage;sz=468x60;ord=2555287480?" border="0" width="468" height="60">
 </a></noscript></td></tr></tbody></table>
-<!------- End of Ad'LINK ADJ Tag, size : 468x60  ------></td>
-     </tr>
-  <tr> 
-    <td width="268" background="/images/editorial_furniture/newdesign/faders.jpg" height="8"><img src="/images/editorial_furniture/newdesign/heads/spacer.gif" width="1" height="1"></td>
-    <td bgcolor="8DA7C3" height="8" colspan="2"><img src="/images/editorial_furniture/newdesign/heads/spacer.gif" width="1" height="1"></td>
-  </tr>
-</tbody></table>
-<!--/TOP BANNER--> 
+<!------- End of Ad'LINK ADJ Tag, size : 468x60  ------></td></tr></tbody></table>
 
-<!--TOP LINKS--> 
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr bgcolor="#FFFFFF"> 
-    <td height="5"></td>
-  </tr>
-</tbody></table>
-<table width="760" border="0" cellspacing="0" cellpadding="0" background="/images/editorial_furniture/newdesign/link_table.gif" height="26">
-  <tbody><tr> 
-    <td> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><a class="new_toplinks" href="http://www.belfasttelegraph.co.uk">Belfast 
-        Telegraph</a> | <a class="new_toplinks" href="http://www.sundaylife.co.uk">Sunday 
-        Life</a> | <a class="new_toplinks" href="http://www.irelandssaturdaynight.co.uk">Ireland's 
-        Saturday Night</a> | <a class="new_toplinks" href="http://www.headinout.co.uk">Headin' 
-        Out</a> | <a class="new_toplinks" href="/business_telegraph/">Business 
-        Telegraph</a> | <a class="new_toplinks" href="/jobfinder/">Jobfinder</a> 
-        | <a class="new_toplinks" href="/homefinder/">Homefinder</a></font></div>
-    </td>
-  </tr>
-</tbody></table>
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr bgcolor="#FFFFFF"> 
-    <td height="5"></td>
-  </tr>
-</tbody></table>
-<!--/TOP LINKS--> 
-<!-- Branding end -->
-<!--MAIN TABLE START --> 
- <table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr align="left" valign="top"> 
- 
-<!-- LEFT NAVIGATION COLUMN START -->
-  
-<td width="150" align="left" valign="top" bgcolor="#EDEBDC">
-<table width="161" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr> 
-            <td colspan="2" bgcolor="#8da7c3">&nbsp;&nbsp;<a class="new_toplinks" href="/">Belfast Telegraph</a></td>
-            <td width="12"><img height="21" src="/images/editorial_furniture/newdesign/blue_corner.gif" width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td width="16"></td>
-            <td width="149"> <span class="nav"><font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/news/">Today's <b>News</b></a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/sport/">Today's <b>Sport</b></a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/features/">Today's <b>Features</b></a> 
-                  <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/business/">Today's <b>Business</b></a> 
-                  <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/letters/">Letters</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/opinion/">Opinion<br>
-                  </a><font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/northwest/">Northwest Edition</a> <br>
-                  <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="/features/motormart.jsp">Motormart</a> 
-                  <br>
-                  <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="/features/woman2woman.jsp">Woman 2 Woman</a> 
-                  <br>
-                  <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="/features/cinema.jsp">Cinema</a> <br>
-                  <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="/features/interviews.jsp">Interviews</a><br>
-            <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="/news/wheretonow.jsp">Peace Process</a>
-            <br>
-            <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="/homedeliveryprivileges/">Home Delivery</a>
-            <br>
-            <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="/golfclub/">Golf Club</a>
-            <br>
-            <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="/iraqcrisis/">Iraq Crisis</a>     
-            <br>
-            <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="/bestoftimes/">Best of times</a></span></td>
-            <td width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td colspan="2" bgcolor="#8da7c3">&nbsp;&nbsp;<a class="new_toplinks" href="#">Interactive</a></td>
-            <td width="12"><img height="21" src="/images/editorial_furniture/newdesign/blue_corner.gif" width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td width="16"></td>
-            <td width="130"><span class="nav"><font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/jobfinder/">Jobfinder</a> <br>
-                  <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="/bmd/">Family Notices</a> <!--<br>
-                  <font color=#4d6c91 face=Arial>&#149; </font><a class=new_left_link 
-            href="/exiles/">Exiles Club</a> <br>
-                  <font color=#4d6c91 face=Arial>&#149; </font><a class=new_left_link 
-            href="/crown/default.jsp">Crown Bar</a>--> <br>
-                  <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="http://forums.indigital.co.uk/id-beltel?lgnF=Y&amp;fpi=yes">Interactive 
-                  Letters</a> <br>
-                  <font color="#4d6c91" face="Arial">• </font><a class="new_left_link" href="http://www.headinout.co.uk/">Entertainment</a></span> </td>
-            <td width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td colspan="2" bgcolor="#8da7c3">&nbsp;&nbsp;<a class="new_toplinks" href="/business_telegraph/">Business Telegraph</a> 
-            </td>
-            <td width="12"><img height="21" src="/images/editorial_furniture/newdesign/blue_corner.gif" width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td width="16"></td>
-            <td width="130"><span class="nav"><font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/business_telegraph/business_news/">Business 
-                  News</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/business_telegraph/markets_personal_finance/">Personal 
-                  Finance</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/business_telegraph/north_west_focus/">NorthWest 
-                  Focus</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/business_telegraph/country_file/">Country 
-                  File</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/business_telegraph/access_internet/">Access 
-                  Internet</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/business_telegraph/talking_shop/">Talking 
-                  Shop </a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/business_telegraph/company_profile/">Company 
-                  Profile </a></span></td>
-            <td width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td colspan="2" bgcolor="#8da7c3">&nbsp;&nbsp;<a class="new_toplinks" href="/homefinder/">Homefinder</a></td>
-            <td width="12"><img height="21" src="/images/editorial_furniture/newdesign/blue_corner.gif" width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td width="16"></td>
-            <td width="130"><span class="nav"><font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/homefinder/property_news/">Property 
-                  News </a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/homefinder/property_features/">Property 
-                  Features </a></span></td>
-            <td width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td colspan="2" bgcolor="#8da7c3">&nbsp;&nbsp;<a class="new_toplinks" href="http://www.sundaylife.co.uk/">Sunday Life</a> </td>
-            <td width="12"><img height="21" src="/images/editorial_furniture/newdesign/blue_corner.gif" width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td width="16"></td>
-            <td width="130"><span class="nav"><font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.sundaylife.co.uk/news/">News</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.sundaylife.co.uk/sport/">Sport </a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.sundaylife.co.uk/features/">Features</a></span></td>
-            <td width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td colspan="2" bgcolor="#8da7c3">&nbsp;&nbsp;<a class="new_toplinks" href="http://www.irelandssaturdaynight.co.uk/">Ireland's Saturday 
-                  Night</a></td>
-            <td width="12"><img height="21" src="/images/editorial_furniture/newdesign/blue_corner.gif" width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td width="16"></td>
-            <td width="130"><span class="nav"><font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/irish_football/">Irish 
-                  Football</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/english_soccer/">English 
-                  Soccer</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/scottish_soccer/">Scottish 
-                  Soccer</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/international/">International</a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/rugby/">Rugby</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/the_buzz/">The Buzz </a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/kicks/">Kicks </a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/have_a_rattle/">Have 
-                  a Rattle</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/racing/">Racing</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/hockey/">Hockey</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/junior_football/">Junior 
-                  Football </a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.irelandssaturdaynight.co.uk/other_sports/">Other 
-                  Sports</a></span> </td>
-            <td width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td colspan="2" bgcolor="#8da7c3">&nbsp;&nbsp;<a class="new_toplinks" href="http://www.headinout.co.uk/">Headin' Out</a></td>
-            <td width="12"><img height="21" src="/images/editorial_furniture/newdesign/blue_corner.gif" width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td width="16"></td>
-            <td width="130"><span class="nav"><font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.headinout.co.uk/arts/">Arts</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.headinout.co.uk/box_office/">Box Office</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.headinout.co.uk/celebrity/">Celebrity</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.headinout.co.uk/features/">Features</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.headinout.co.uk/forks_and_corks/">Forks &amp; Corks</a> 
-                  <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.headinout.co.uk/inside_music/">Inside Music </a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.headinout.co.uk/interactive/">Interactive </a><br>
-                  <font color="#4d6c91" face="Arial">•&nbsp;</font><a class="new_left_link" href="http://www.headinout.co.uk/stayin_in/">Stayin In </a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://www.headinout.co.uk/whats_on/">What's On </a></span></td>
-            <td width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td colspan="2" bgcolor="#8da7c3">&nbsp;&nbsp; <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">Links</font></td>
-            <td width="12"><img height="21" src="/images/editorial_furniture/newdesign/blue_corner.gif" width="12"></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
-      <tr> 
-            <td width="16">&nbsp;</td>
-            <td colspan="2"><span class="nav"><font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/calendar.jsp">Calendar 2003</a> <br>
-            <!--      <font color=#4d6c91 
-            face=arial>&#149;&nbsp;</font><a class=new_left_link 
-            href="http://www.belfasttelegraph.co.uk/features/festivaldiary.jsp">Queens 
-                  Festival 2002</a><br> -->
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/html/mediapack/">Media Pack</a> <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/html/digitalmediapack/">Digital Pack</a> 
-                  <br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/story.jsp?story=299532">Ring Tones </a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="http://dating.euriskosystems.co.uk/?10">Personals </a><br>
-                  <font color="#4d6c91" face="arial"><!--&#149;&nbsp;</font><a class=new_left_link 
-            href="/html/activeportal/">Active Portal</a> 
-                  <br>-->
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/html/patten/">Patten Report</a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/news/story.jsp?story=280384">The Queen 
-                  Mother</a><br>
-                  <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/news/story.jsp?story=295067">Queen's 
-                  Jubilee Visit</a><br>
-            <font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/buildingforthefuture/">Building for the Future</a>
-            <br><font color="#4d6c91" face="arial">•&nbsp;</font><a class="new_left_link" href="/businessawards2003/">Business Awards 2003</a></font></span></td>
-            <td></td>
-      </tr>
-      <tr> 
-            <td colspan="3" height="11"></td>
-      </tr>
+<!-- stripadvert start-->
+
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0" height="85"><tbody><tr><td valign="top">
+<!--  Advertron2: BT - Top Slot - Archive 2   ( #1196 )  -->
+<table width="760" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><a href="http://www.belfasttelegraph.co.uk/lifestyle/twentyfourseven/"><img src="http://www.belfasttelegraph.co.uk/img/commercial/247-topbranding.gif" width="760" height="85" border="0"></a></td></tr></tbody></table>
+</td></tr></tbody></table>
+
+<!-- stripadvert end-->
+
+<!-- site links -->
+<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr class="doubledots"> 
+<td align="center">
+<a class="site-links" href="http://www.belfasttelegraph.co.uk/">Belfast Telegraph</a>&nbsp; | &nbsp;
+<a class="site-links" href="http://www.sundaylife.co.uk/">Sunday Life</a> &nbsp;|&nbsp; 
+<a class="site-links" href="http://www.irelandssaturdaynight.co.uk/">Ireland's Saturday Night</a> &nbsp;|&nbsp; 
+<a class="site-links" href="http://www.belfasttelegraph.co.uk/news/business_telegraph/">Business Telegraph</a> &nbsp;|&nbsp; 
+<a class="site-links" href="http://www.belfasttelegraph.co.uk/jobfinder/">Jobfinder</a> &nbsp;|&nbsp; 
+<a class="site-links" href="http://www.belfasttelegraph.co.uk/homefinder/">Homefinder</a>
+</td></tr>
+<tr height="4"><td height="4"><spacer type="block" height="4" width="4"></spacer></td></tr>
 </tbody></table>
 
-<!-- LEFT NAVIGATION COLUMN END -->
+<!-- site links -->
+
+<!-- end top table --> 
+
+<!-- main table --> 
+
+<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr><td width="130" valign="top"> 
+<!-- navigation --> 
+
+
+
+<table width="130" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr class="hubnavprimary"><td>&nbsp;<a href="http://www.belfasttelegraph.co.uk/" class="navprimary">Belfast Telegraph</a></td></tr>
+<tr><td class="grey-text">
+	&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/" class="navsecondary">News</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/business/" class="navtertiary">Business</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/business_telegraph/" class="navtertiary">Business Telegraph</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/features/" class="navtertiary">Features</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/letters/" class="navtertiary">Letters</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/columnists/" class="navtertiary">Telegraph<br>&nbsp;&nbsp;&nbsp;&nbsp;Columnists</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/opinion/" class="navtertiary">Opinion</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/northwest_edition/" class="navtertiary">Northwest Edition</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/northwest_weekly/" class="navtertiary">Northwest Weekly</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/education/" class="navtertiary">Education</a><br>
++&nbsp;<a href="http://forums.indigital.co.uk/id-beltel?lgnF=Y&amp;fpi=yes" class="navtertiary">Interactive Letters</a><br>
++&nbsp;<a href="/html/weather/index.shtml" class="navtertiary">Weather</a><br>
++&nbsp;<a href="http://www.advancedtele.co.uk/dating/?10" class="navtertiary">Personals</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/media_pack/" class="navtertiary">Media Pack</a><br>
+&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/" class="navsecondary">Sport</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/football/" class="navtertiary">Football</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/rugby/" class="navtertiary">Rugby</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/gaelic_games/" class="navtertiary">Gaelic Games</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/general/" class="navtertiary">General</a><br>
+&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/" class="navsecondary">Lifestyle</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/arts/" class="navtertiary">Arts</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/film_tv/" class="navtertiary">Film &amp; TV</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/food_drink/" class="navtertiary">Food &amp; Drink</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/music/" class="navtertiary">Music</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/health_beauty/" class="navtertiary">Health &amp; Beauty</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/motoring/" class="navtertiary">Motoring</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/travel/" class="navtertiary">Travel</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/reader_holidays/" class="navtertiary">Reader Holidays</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/special_interest/" class="navtertiary">Special Interest</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/lifestyle/twentyfourseven/" class="navtertiary">Twentyfourseven</a><br>
+&nbsp;<a href="http://www.belfasttelegraph.co.uk/homefinder/" class="navsecondary">Homefinder</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/homefinder/property_news/" class="navtertiary">Property News</a><br>
++&nbsp;<a href="http://www.belfasttelegraph.co.uk/homefinder/property_features/" class="navtertiary">Property Features</a><br>
+&nbsp;<a href="http://www.sundaylife.co.uk" class="navsecondary">Sunday Life</a><br>
+&nbsp;<a href="http://www.irelandssaturdaynight.co.uk/" class="navsecondary">Ireland's<br>&nbsp;Saturday Night</a><br>
+&nbsp;<a href="http://www.belfasttelegraph.co.uk/top_100_cos/" class="navsecondary">Top 100 Companies</a><br>
+&nbsp;<a href="http://www.belfasttelegraph.co.uk/golf_club/" class="navsecondary">Golf Club</a><br>
+&nbsp;<a href="http://www.belfasttelegraph.co.uk/home_delivery/" class="navsecondary">Home Delivery</a><br>
+&nbsp;<a href="/search/search.jsp" class="navsecondary">Online Archive</a><br>
+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/features/story.jsp?story=439755" class="navsecondary">Calendar 2004</a><br>
+&nbsp;<a href="http://www.belfasttelegraph.co.uk/ads_for_free/" class="navsecondary">Ads For Free</a><br>
+&nbsp;<a href="http://www.belfasttelegraph.co.uk/sport/rugby/story.jsp?story=449166 " class="navsecondary">Rugby World Cup</a><br>
+&nbsp;<a href="http://www.belfasttelegraph.co.uk/news/features/story.jsp?story=452829" class="navsecondary">At The Movies</a><br>
+
+</td></tr>
+<tr><td height="1"><img src="/img/furniture/trans.gif" width="1" height="1"></td></tr>
+</tbody></table>
+<br clear="all">
+<!-- /navigation--> 
 </td>
-<td width="5" bgcolor="#FFFFFF">&nbsp;</td>
-<td width="428" bgcolor="#FFFFFF"> 
-<!--CENTER-RIGHT TABLE-->
-
-
-<!-- CENTRAL COLUMN START --> 
-
-
-<table width="424" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td>
+<td width="10" class="black-line-left">&nbsp;</td>
+<td align="left" valign="top">
 
 
 
-<!-- Code to make the section and date appear in red table row -->
- 
-<table width="424" border="0" cellspacing="0" cellpadding="0" bgcolor="#EDEBDC">
-  <tbody><tr height="10"> 
-    <td width="138" bgcolor="#CC0000"><font face="Arial, Helvetica, sans-serif" size="1" color="#FFFFFF">&nbsp;null</font></td>
-    <td width="273" bgcolor="CC0000"> 
-      <div align="right"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="1">&nbsp;<span class="tabtitle"><span class="tabtitle">&nbsp;</span></span></font><font color="#FFFFFF"><font face="Arial, Helvetica, sans-serif" size="1"> 
-        Publication Date: 28 March 2003</font></font></div>
-    </td>
-    <td width="13" align="right" bgcolor="CC0000"><img src="/images/editorial_furniture/newdesign/red_corner.gif" width="11" height="21"></td>
-  </tr>
-</tbody></table>
-<table width="100" height="5" cellpadding="1" cellspacing="0" border="0">
-  <tbody><tr> 
-    <td></td>
-  </tr>
-</tbody></table>
-<!-- /Code to make the section and date appear in red table row --> 
-
-<!-- begin 3 plug line -->
-<table width="424" border="0" cellpadding="0" cellspacing="1" bgcolor="92929E">
-  <tbody><tr> 
-    <td><table width="424" border="0" cellspacing="0" cellpadding="2">
-        <tbody><tr> 
-          <td valign="top" bgcolor="#DFDEE7"><img src="http://www.belfasttelegraph.co.uk/images/editorial_images/header_filler.jpg" width="50" height="50"></td>
-          <td width="90" valign="middle" bgcolor="#DFDEE7" class="3plugline"><a href="/iraqcrisis/" class="3plugline" style="text-decoration:none;">The 
-            Iraq crisis - Special report updated daily</a></td>
-          <td valign="top" bgcolor="#DFDEE7"><img src="http://www.belfasttelegraph.co.uk/images/editorial_images/hd.jpg" width="50" height="50"></td>
-          <td width="90" valign="middle" bgcolor="#DFDEE7"><a href="http://www.belfasttelegraph.co.uk/homedeliveryprivileges" class="3plugline" style="text-decoration:none;">Home 
-            Delivery Privileges - member offers</a></td>
-          <td valign="top" bgcolor="#DFDEE7"><img src="http://www.belfasttelegraph.co.uk/images/editorial_images/golf.jpg" width="50" height="50"></td>
-          <td width="90" valign="middle" bgcolor="#DFDEE7" class="3plugline"><a href="http://www.belfasttelegraph.co.uk/golfclub" class="3plugline" style="text-decoration:none;">Belfast 
-            Telegraph Golf Club - Play more</a></td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
-<table width="100" height="5" cellpadding="1" cellspacing="0" border="0">
-  <tbody><tr> 
-    <td></td>
-  </tr>
-</tbody></table>
-<!--end 3 plug line -->
 
 
 
-    
+
+
+
+
+
+<!-- content -->
+
 <!--	Template: story.jsp		-->
 <!--	Story ID: 55090-->
 
-	
-	
-	<span class="individual_story_headline"><b>Privacy Policy</b></span>
-	<br><span class="main_subtext">Please read this carefully</span><br>
-	
-	<br>
-	
-	<table width="100%" cellpadding="0" cellspacing="0" height="5"><tbody><tr><td></td></tr></tbody></table>
-	<font class="bodytext"><!-- Do not show editorial column ! -->
-<indy:editorialcolumn show="no">
+
+
+
+<span class="head1">Privacy Policy</span><br>
+<span class="head2">Please read this carefully</span><br>
+
+
+28 March 2003
+
+	<!-- Do not show editorial column ! -->
+<!-- indy:EditorialColumn Directive -  hidden -->
 <!-- Tables below -->
 
 
@@ -444,11 +395,11 @@ Knowing something about our users is, however, necessary to ensure that our serv
 <ul>
 <li>Apart from other companies in the Independent News &amp; Media group, we only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. ID complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, nor for any breach of security.
 </li><li>If you tell us that you do not want us to use your details, then data about your use of the Web Site would then only form part of aggregated statistics and would not be related to you as an individual.
-</li><li>You can ask to see the information we have about you by e-mailing a request to <a href="mailto:customerservice@inuk.co.uk">customerservice@inuk.co.uk</a>
+</li><li>You can ask to see the information we have about you by e-mailing a request to <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a>.
 </li></ul>
 <i>"What do I do if I am not happy for you to share information about me with others?"</i>
 <ul>
-<li>You may not wish us to share personal details about you with third parties outside the Group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail us at <a href="mailto:customerservice@inuk.co.uk.">customerservice@inuk.co.uk.</a> at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy..Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.
+<li>You may not wish us to share personal details about you with third parties outside the Group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail us at <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a> at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy..Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.
 </li></ul>
 <i>"Do you use cookies?"</i>
 <ul>
@@ -464,153 +415,91 @@ As you will know, the Internet does not recognise national boundaries. Services 
 
 <b>Further information</b>
 <br>
-If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail us at  <a href="mailto:customerservice@inuk.co.uk.">customerservice@inuk.co.uk.</a> 
+If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail us at  <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a>. 
 </p><p>
 
 <b>Company information</b>
 <br>
 <a href="http://www.independentdigital.co.uk" target="new">Independent Digital (UK) Limited</a> is a company in the <a href="http://www.independentnewsmedia.com" target="new">Independent News &amp; Media</a> group, registered in England and Wales under company number 3761191, whose registered office is at Independent House, 191 Marsh Wall, London E14 9RS, UK.<br></p>
-</indy:editorialcolumn></font>
-	
-	
-	<!--Back link-->
-	<img src="/images/editorial_furniture/newdesign/icons/back.gif" border="0">&nbsp;<a class="storyicon" href="javascript:history.go(-1)">Back</a><br>
-	<!--Return to Top link-->
-	<img src="/images/editorial_furniture/newdesign/icons/top.gif" border="0">&nbsp;<a class="storyicon" href="#top">Return to top</a><br>
-	<!--Print Story link-->
-	<script language="JavaScript">if (window.print){document.write('<img src="/images/editorial_furniture/newdesign/icons/print.gif" border="0">&nbsp;<a class="storyicon" href="javascript:window.print()">Print this page</a>');}</script><img src="/images/editorial_furniture/newdesign/icons/print.gif" border="0">&nbsp;<a class="storyicon" href="javascript:window.print()">Print this page</a><br>
-	<!--/ Return to Top link-->
-	<!--<img src="/images/editorial_furniture/newdesign/icons/source.gif" border="0">&nbsp;<font face="Arial, sans-serif" size="2" color="#333333">Source: Belfast Telegraph</font>--><br>
-	
-	<!-- mini index -->
-	
-			<table border="0" width="424">
-			<tbody><tr bgcolor="#FFFFFF"><td><span class="also_fromlink">Also from Belfast Telegraph<b>null</b>&nbsp;section</span></td></tr>
-			
-			</tbody></table><table border="0" width="424" cellpadding="0" cellspacing="0">
-			<tbody><tr bgcolor="#FFFFFF">
-			<td><li><a class="alsolink" href="story.jsp?story=273443">Market Report</a></li></td>
-			</tr>
-			</tbody></table>
-			<table>
-			
-			</table><table border="0" width="424" cellpadding="0" cellspacing="0">
-			<tbody><tr bgcolor="#FFFFFF">
-			<td><li><a class="alsolink" href="story.jsp?story=299532">null</a></li></td>
-			</tr>
-			</tbody></table>
-			<table>
-			
-	</table><table width="100%">
-  <tbody> 
-  <tr> 
-    <td> 
-      <hr color="#000000">
-      <a href="http://www.headinout.co.uk/"><font face="Arial" color="#ff3300" size="4"><b><u>www.headinout.co.uk</u></b></font></a> <a href="http://www.headinout.co.uk/"><font face="Arial" color="#000000" size="2"><br><b>Your Guide to What's On, Where and When 
-      - Click Here...</b></font></a> 
-      <hr color="#000000">
-      <a href="http://www.belfasttelegraph.co.uk/calendar.jsp"><font face="Arial" color="#ff3300" size="4"><b><u>Belfast Telegraph Calendar 
-      2003</u></b></font></a> <a href="http://www.belfasttelegraph.co.uk/calendar.jsp"><font face="Arial" color="#000000" size="2"><br><b>Click here to order your 
-      copy</b></font></a> 
-      <hr color="#000000">
-      <a href="http://www.belfasttelegraph.co.uk/jobfinder"><font face="Arial" color="#ff3300" size="4"><b><u>Jobfinder</u></b></font></a> <a href="http://www.belfasttelegraph.co.uk/jobfinder"><font face="Arial" color="#000000" size="2"><br><b>Up to 700 new vacancies every 
-      week - Click here</b></font></a> 
-      <hr color="#000000">
-    </td>
-  </tr>
-  </tbody> 
-</table>
-	
-		
-		
-	
-	</td></tr>
-</tbody></table></td>
-<!--END CENTER COLUMN-->
-<td width="5" background="/images/editorial_furniture/newdesign/line.gif">&nbsp;</td>
 
-<!--RIGHT HAND COLUMN-->
-<td width="160" valign="top" bgcolor="#FFFFFF" align="center">
-
-<!--NICHOLL OIL WEATHER LINK-->
-<a href="http://www.belfasttelegraph.co.uk/html/weather/index.shtml">
-<img src="http://www.belfasttelegraph.co.uk/images/commercial_content_ads/nicholl-oil.gif" border="0" alt="Nicholl Oil">
-</a>
-<!--/NICHOLL OIL WEATHER LINK-->
-
-<table height="9" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td>
-</td></tr>
-</tbody></table>
-
-<!--CONSENSIA BUTTON CAMPAIGN-->
-<a href="http://ad.uk.doubleclick.net/jump/N1509.belfasttelegraph.co.uk/B1140100.2;sz=148x185;ord=[timestamp]?">
-<img src="http://ad.uk.doubleclick.net/ad/N1509.belfasttelegraph.co.uk/B1140100.2;sz=148x185;ord=[timestamp]?" border="0" width="148" height="185" alt="Consensia"></a>
-<!--/CONSENSIA BUTTON CAMPAIGN-->
-
-<table height="9" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td>
-</td></tr>
-</tbody></table>
-
-<table height="3"><tbody><tr><td></td></tr></tbody></table>
-
-<!-- ADVERTRON -->
-
-<!--  Advertron2: BT - Skyscraper UK Online   ( #1022 )  -->
-<table border="0" cellspacing="0" cellpadding="0" class="contentad"><tbody><tr><td><a href="http://www.ukonlineforbusiness.gov.uk/cms/template/general-content.jsp?id=249256"><img src="http://www.belfasttelegraph.co.uk/images/commercial_content_ads/skyscrapers/120x600/uk_online/ce120x600.gif" border="0"></a></td></tr></tbody></table>
-
-<!-- /ADVERTRON -->
-
-<!-- Tourism Ireland -->
-<!--<a href="http://ad.ie.doubleclick.net/jump/N1397.belfasttelegraph/B1080853.3;sz=148x150">
-<img src="http://ad.ie.doubleclick.net/ad/N1397.belfasttelegraph/B1080853.3;sz=148x150" border="0"></a>-->
-<!-- /Tourism Ireland -->
-
- </td>
-          </tr>
-        </tbody></table>
-        <!--\CENTER-RIGHT TABLE--> 
-    
-  
- <!--/MAIN TABLE-->
-
-
-  
-
-        
-        
-        
-
-	<!-- Threads -->
 	
 
-<!-- ADVERT -->
-
-<!-- /ADVERT -->
 
 
-<!-- CENTRAL COLUMN END -->
+&nbsp;<a href="javascript:history.back()" class="site-links">Back</a>
+&nbsp;|&nbsp;<a class="site-links" href="#top">Return to top</a>
+&nbsp;|&nbsp;<a href="/low_res/story.jsp?story=55090&amp;host=26&amp;dir=674" class="site-links">Printable Story</a><br>
 
-<table width="760" border="0" cellspacing="0" cellpadding="0" background="/images/editorial_furniture/newdesign/link_table.gif" height="26">
+
+
+<!-- start of footer -->
+
+
+
+</td>
+<td width="11" class="black-line-right">&nbsp;</td>
+<td width="120" align="right" valign="top"> 
+
+<!-- date -->
+
+<!-- Mini Search -->
+<table width="120" border="0" cellpadding="2" cellspacing="0" bgcolor="#EEF5F6">
   <tbody><tr> 
-    <td> 
-      <div align="center"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><a class="new_toplinks" href="/story.jsp?story=55087">Terms 
-        &amp; conditions</a> | <a class="new_toplinks" href="/story.jsp?story=55090">Privacy policy</a> | <a class="new_toplinks" href="/html/digitalmediapack/advertise_online.html">Advertise 
-        online</a> | <a class="new_toplinks" href="/story.jsp?story=139587">Advertise in print</a> 
-        | <a class="new_toplinks" href="/news/story.jsp?story=139438">Contact us</a> |</font></div>
-    </td>
+    <form action="/search/search.jsp" class="searchbox" name="minisearch"></form>
+      <td><div align="left">SiteSearch<br>
+          <input class="box" name="keywords" onclick="document.minisearch.keywords.value='';" size="9">
+          <input class="button" name="submit" type="submit" value="Go">
+        </div></td>
+    
   </tr>
-</tbody></table>
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr bgcolor="#FFFFFF"> 
-    <td height="5"></td>
+  <tr bgcolor="#223D40"> 
+    <td height="2"></td>
   </tr>
 </tbody></table>
 
-<!--BOTTOM TABLE  --> 
 
-<!-- NETSCAPE RESIZE FIX -->
+
+<!-- commercial adverts -->
+
+<table cellpadding="0" cellspacing="0">
+<tbody><tr align="right" valign="top"><td><img src="/img/furniture/trans.gif" width="120" height="0" alt="" border="0"></td></tr>
+
+<tr align="right" valign="top"><td><!--  Advertron2: BT- Button - AIB   ( #1179 )  -->
+<a href="http://www.bt.com/rc.jsp?lnk=BelfastTelegraph_BT_com_Registration" target="_blank"><img src="http://www.belfasttelegraph.co.uk/img/commercial/bt-com.gif" border="0" width="120" height="140" vspace="5"></a>
+</td></tr>  
+<tr align="right" valign="top"><td><img src="/img/furniture/trans.gif" width="120" height="5" alt="" border="0"></td></tr>
+
+<tr align="right" valign="top"><td><!--  Advertron2: BT - Skyscraper - SunLife   ( #1168 )  -->
+<a href="http://www.independent.co.uk/clickad.jsp?ad=1168&amp;dir=674&amp;url=http://www.sundaylife.co.uk/"><img src="http://www.belfasttelegraph.co.uk/img/furniture/sl_sky_new.jpg" alt="BT - Skyscraper - SunLife" border="0" width="120" height="600"></a></td></tr>  
+<tr align="right" valign="top"><td><img src="/img/furniture/trans.gif" width="120" height="5" alt="" border="0"></td></tr>
+
+</tbody></table>
+
+<!-- commercial adverts end --> 
+<br>
+</td>
+</tr>
+</tbody></table>
+
+<!-- content adverts --> 
+
+<!-- our content-->
+<table width="760" border="0" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+<td align="center">
+<hr width="550" size="1" align="center">
+<a class="site-links" href="http://www.belfasttelegraph.co.uk/story.jsp?story=55087">Terms &amp; conditions</a> | 
+<a class="site-links" href="http://www.belfasttelegraph.co.uk/story.jsp?story=55090">Privacy policy</a> | 
+<a class="site-links" href="http://www.belfasttelegraph.co.uk/news/media_pack/story.jsp?story=431720">Advertise online</a> | 
+<a class="site-links" href="http://www.belfasttelegraph.co.uk/news/media_pack/story.jsp?story=437152">Advertise in print</a> | 
+<a class="site-links" href="http://www.belfasttelegraph.co.uk/news/story.jsp?story=139438">Contact us</a> |
+<br clear="all"><span class="black12px">© 2003 Independent Digital (UK) Ltd</span></td>
+</tr>
+</tbody></table>
+<!-- our content end-->
+
+<!-- Netscape re-size -->
+
 <script language="javascript" type="text/javascript">
 
 <!--
@@ -639,10 +528,16 @@ WM_netscapeCssFixCheckIn ();
 
 //-->
 
-<!-- NETSCAPE RESIZE FIX END-->
-</script>
 
-</center>
+</script>
+<!-- /Netscape re-size -->
+<!-- /NCDN -->
+
+
+<!-- belfasttelegraph.co.uk is owned and trained by independent digital -->
+<!-- end of footer -->
+
+
 
 
 
