@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2000-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000611142257id_/http%3A//www.chick.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chick.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202065500id_/http%3A//chick.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -7,7 +7,7 @@
 **THINGS TO DO**
 
 • [Return Home](https://web.archive.org/)  
-• [Place Order](https://web.archive.org/store/)  
+• [Place Order](https://web.archive.org/store.asp)  
 • [Dealer Ordering](https://web.archive.org/register/)  
 • [Search](https://web.archive.org/search/)  
 • [Report Problem](https://web.archive.org/ProblemReport/)  
