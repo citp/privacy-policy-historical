@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013203628id_/http%3A//www.joonbug.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joonbug.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401132453id_/http%3A//www.joonbug.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -31,7 +31,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. You can send email to [ info@joonbug.com](mailto:info@JoonBug.com)
-  2. You can visit the following URL:  [ http://www.joonbug.com](http://www.joonbug.com/index.php)
+  2. You can visit the following URL:  [ http://www.joonbug.com](http://www.joonbug.com/index.asp)
   3. You can send mail to the following postal address: 
   4. You can call the following telephone number: (212) 255-4223 
 
