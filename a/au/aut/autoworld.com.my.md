@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2001-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010617071912id_/http%3A//www.autotrade.com.my/Aw/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205082914id_/http%3A//www.autotrade.com.my/Aw/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
 
 # 
 
@@ -6,14 +6,14 @@
 
 This is the website of Autoworld.com.my, an automotive portal service provided by Autoweb Sdn.Bhd. (AW). Our postal and office address is 
 
-> > 2nd Floor, Bangunan Teo Cheow Seng  
->  No. 78, Jalan SS22/21  
->  Damansara Jaya   
-> 47400 Petaling Jaya  
->  Selangor Darul Ehsan, Malaysia
+> > Autoweb Sdn Bhd  
+>  (Business Development Department)  
+>  Level 3A, Wisma Hong Leong,  
+>  18 Jalan Perak  
+>  50450 Kuala Lumpur.
 >> 
->> Tel : 603-7722 2820   
->  Fax : 603-7722 2830
+>> Tel: 603-2169-2074  
+>  Fax: 603-2169-2815
 >> 
 >> E-mail : [support@Autoworld.com.my](mailto:support@Autoworld.com.my)
 
