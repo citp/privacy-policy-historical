@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2003-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030910065238id_/http%3A//autobytel.com/content/home/help/index.cfm%3Fid%3D4%3BABTL%26action%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobytel.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604190828id_/http%3A//autobytel.com/content/home/help/index.cfm/action/privacy) for the most accurate reproduction.*
 
-# Autobytel Privacy Policy
+# Privacy Policy | Autobytel
 
 AUTOBYTEL.COM CONSUMER PRIVACY AND SECURITY POLICY
 
-[](https://web.archive.org/system/fnc_logjump.cfm?id=4;ABTL&log=general&partner=truste&linkpage=privacyPolicy_ABTL_validate) Autobytel.com understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our Web site, we assure you that we are committed to protecting your personal privacy. 
+[](https://web.archive.org/system/fnc_logjump.cfm/log/general/partner/truste/linkpage/privacyPolicy_ABTL_validate) Autobytel.com understands your concern with privacy and the use of your personal information. Whether you submit a purchase request for a vehicle or simply browse through our Web site, we assure you that we are committed to protecting your personal privacy. 
 
 Autobytel.com inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.autobytel.com. If you have questions or concerns regarding this statement, you should first contact our Consumer Privacy Advocate by e-mail at [ABTPrivacy@autobytel.com](mailto:abtprivacy@autobytel.com) or directly at : 888-422-8999, Ext. 1387. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then [contact TRUSTe](https://web.archive.org/system/fnc_logjump.cfm?id=4;ABTL&log=general&partner=truste&linkpage=privacy_watchdogABTL). TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
