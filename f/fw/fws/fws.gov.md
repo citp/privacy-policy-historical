@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623061811id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fws.gov privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216081221id_/http%3A//www.fws.gov/help/policies.html) for the most accurate reproduction.*
 
 # Privacy, Disclaimer, Copyrights and Logo Use
 
