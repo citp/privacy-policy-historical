@@ -1,12 +1,17 @@
-> *The following text is extracted and transformed from the opm.gov privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002103042id_/http%3A//www1.opm.gov/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opm.gov privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617171534id_/http%3A//www1.opm.gov/html/privacy.asp) for the most accurate reproduction.*
 
-# Office of Personnel Management Web Privacy Policy
+# Office of Personnel Management (OPM) Web Privacy Policy
+
+|   
+
+
+* * *
 
 Thank you for visiting the Office of Personnel Management (OPM) web site and reviewing our privacy policy. Our privacy policy is clear: We will collect no personal information about you when you visit our web site unless you choose to provide that information to us.
 
 Here is how we handle information about your visit to our web site: 
 
-** Information Collected and Stored Automatically**
+**Information Collected and Stored Automatically**
 
 If you do nothing during your visit but browse through the web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store only the following information about your visit:
 
@@ -24,12 +29,12 @@ We use this information to help us make our site more useful to visitors to lear
 
 If you choose to provide us with personal information as in an email to one of our online email boxes, or by filling out a form with your personal information and submitting it to us through our web site we use that information to respond to your message and to help us get you the information you have requested. We treat emails the same way we treat letters sent to OPM, but we do not collect personal information for any purpose other than to respond to you. We collect personally identifiable information (name, email address, Social Security number, or other unique identifier) only if specifically and knowingly provided by you. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not create individual profiles with the information you provide or give it to any private organizations. We do not collect information for commercial marketing. 
 
-**Links to Other Sites **
+**Links to Other Sites**
 
 Our web site has links to other federal agencies. We also link to other organizations’ web sites when we have a good business reason to do so. This does not constitute an endorsement of their policies or products. Once you link to another site, you are subject to the privacy policy of the new site. 
 
-**Site Security **
-
-****
+**Site Security**
 
 We ensure that our web site remains available to all users by using a Government computer system that employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
+
+| 
