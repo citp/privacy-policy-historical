@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401145732id_/http%3A//www.agu.org/pubs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agu.org privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206232221id_/http%3A//www.agu.org/pubs/privacy.html) for the most accurate reproduction.*
 
 # AGU - My Privacy Policy
 
@@ -30,9 +30,9 @@ It is the intent of AGU policies to ensure that members are kept informed but do
 
 ### Keeping data about individuals secure
 
-Sensitive demographic information is stored in a separate, secure database that is not accessible via the Membership Directory.
+Sensitive demographic information is stored in a separate, secure database that is not accessible via the Membership Directory. 
 
-Credit card information provided to AGU via its Web site is transmitted via a secure server with commercial encryption software. Those not able to use a secure server may opt to place the order another way, via insecure server, fax, e-mail, or postal mail. AGU does not retain credit card numbers on file for future use.
+Credit card information provided to AGU via its Web site is transmitted via a secure server with commercial encryption software. Those not able to use a secure server may opt to place the order another way, via phone, fax, or postal mail. To comply with credit card company requirements, AGU stores certain information for 3 years from the date of the transaction. When requested by the card holder, AGU will retain credit card information for future specified uses.
 
 ### Cookies
 
@@ -42,6 +42,6 @@ A "cookie" is a file a Web site stores in a user's computer for future reference
 
 AGU links to other web sites that are not controlled by AGU. A link from the AGU Web site is not an AGU endorsement for any company, organization, or individual. AGU is not responsible for the privacy practices or the content of those sites. 
 
-10 December 2002
+Adopted by the AGU Council 10 December 2002 on behalf of the membership [Revised May 2004]
 
  
