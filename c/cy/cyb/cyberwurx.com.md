@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberwurx.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119030213id_/http%3A//www.cyberwurx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberwurx.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606112651id_/http%3A//cyberwurx.com/privacy.html) for the most accurate reproduction.*
 
 # Cyberwurx - Affordable High Speed Web Hosting Services - Privacy statement
 
