@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sempo.org privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208152124id_/http%3A//www.sempo.org/sempo-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sempo.org privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614031722id_/http%3A//www.sempo.org/sempo-privacy-policy.php) for the most accurate reproduction.*
 
 # SEMPO Privacy Policy
 
-The Search Engine Marketing Professional Organization (SEMPO) has created this privacy statement to demonstrate our commitment to privacy policy disclosure. The following discloses our information gathering and usage practices for [ http://www.sempo.org/](http://www.sempo.org/). 
+The Search Engine Marketing Professional Organization (SEMPO) has created this privacy statement to demonstrate our commitment to privacy policy disclosure. The following discloses our information gathering and usage practices for [ http://www.sempo.org/](https://web.archive.org/). 
 
 ## 1\. Information SEMPO gathers and how it is used
 
