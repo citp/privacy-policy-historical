@@ -1,28 +1,36 @@
-> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214105253id_/http%3A//www.gamextazy.com/privacy_statment.php4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamextazy.com privacy policy that was archived on 2002-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020608203423id_/http%3A//www.gamextazy.com/privacy.php) for the most accurate reproduction.*
 
-# G A M E X T A Z Y . C O M
+# FREE DOWNLOADS ARCHIVE - Free games downloads, shareware, freeware and evaluation games
 
-**  
-Privacy Statement for Gamextazy**
+| 
 
-**Gamextazy** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Gamextazy
+## Privacy Policy
 
-**Information Automatically Logged**  
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to gather broad demographic information. 
+GameXtazy.com is committed to protecting your privacy rights online. We are also dedicated to providing you with the best possible online gaming experience. In order to do this, we request certain information about you that helps us customize our content to your tastes and interests. Please read the following policy to better understand how your information will be treated and utilized as you make full use of GameXtazy.com. This policy may change from time-to-time. So, please check back periodically. 
 
-**Cookies**  
-Our Site uses cookies to make sure you don't see the same ad repeatedly. 
+  
 
-**Advertisers**  
-We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-**Personal Information**  
-This Web site does not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. 
+### What information does GameXtazy collect?
 
-Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes. 
+We collect information in several ways depending on whether you are playing single player quick games, multiplayer games, or chatting. In most cases, this information is purely voluntary. GameXtazy.com's main goal for collecting this information is to provide you with customized content on our site that is of interest to you. Optional Information- In order to provide our visitors with a better gaming experience we may ask for optional information. When you register with GameXtazy.com, we assign a unique name for your account, (the "User ID"). This User ID is used to track what games you play, as well as high scores, and is your nickname to other users. If you choose to give us the optional information, you can be assured that GameXtazy.com will respect and retain your privacy. However, such information may be disclosed to authorities, if required by law.   
 
-**External Links**  
-This site contains links to other sites. Gamextazy is not responsible for the privacy practices or the content of such Web sites. 
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+### Do we share your information with others?
+
+None of the information you give us is shared outside GameXtazy.com. However, when one of our partners co-sponsors a promotion or contest with us, we may share the information collected for that contest or promotion only with our partners. If do not want your information shared, you will be able to not allow the sharing by not using or signing up for the particular promotion or contest. In addition, we provide you the opportunity to opt-in to receive communications from GameXtazy.com to learn more about new games, and exciting promotions.   
+
+
+### What are "Cookies" and how do we use them?
+
+GameXtazy.com uses cookies for various reasons. Cookies are small files written on your computer that are accessible by the GameXtazy.com website. Any information we collect will be stored and processed in a database that resides in the Russian Federation.   
+
+
+### Changes to our Privacy Policy
+
+GameXtazy.com reserves the right to change this privacy policy without notice. Therefore, please check back periodically for any changes.   
+
+
+### Third Parties Sites
+
+Other companies that advertise on our site may collect information about you when you view or click on their site or logos. GameXtazy.com does not control what information third parties gather once you leave the GameXtazy.com web site. You are encouraged to check the privacy policies of these sites. 
