@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202220311id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607034111id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
 
 # TEFL.com - The world's largest real-time database of English Language Teaching Jobs
 
 **PRIVACY POLICY**
 
   
-TEFL Professional Network and TEFL.com are the trading names of TEFL Professional Network Ltd., 72 Pentyla Baglan Road, Port Talbot, SA12 8AD, United Kingdom. Tel: +44 (0)709 216 5424, Fax: +44 (0)20 7691 7074, E.Mail: support@tefl.com. We will use our best efforts to safeguard your privacy. The policy that follows explains the data processing we do and how we do it. If you have any queries on our use of information, please [contact us](https://web.archive.org/home/contact.html). By using this site you consent to our collecting data about you.
+TEFL Professional Network and TEFL.com are the trading names of TEFL Professional Network Ltd., 72 Pentyla Baglan Road, Port Talbot, SA12 8AD, United Kingdom. Tel: +44 (0)709 216 5424, Fax: +44 (0)20 7691 7074, [E.Mail](http://www.tefl.com/home/contact.html). We will use our best efforts to safeguard your privacy. The policy that follows explains the data processing we do and how we do it. If you have any queries on our use of information, please [contact us](http://www.tefl.com/home/contact.html). By using this site you consent to our collecting data about you.
 
   
 **What do we use the information for?**
 
-We want to give our users the best possible service. We may therefore use the data gathered to contact you to check this is the case. We may use it to advise you by telephone, fax or e-mail of new possibilities and changes to our service or new services our associated companies, or we offer. You can opt out of receiving this information by clicking the "Opt Out" button when registering with us or [contact us](https://web.archive.org/home/contact.html) for assistance.
+We want to give our users the best possible service. We may therefore use the data gathered to contact you to check this is the case. We may use it to advise you by telephone, fax or e-mail of new possibilities and changes to our service or new services our associated companies, or we offer. You can opt out of receiving this information by clicking the "Opt Out" button when registering with us or [contact us](http://www.tefl.com/home/contact.html) for assistance.
 
   
 **What information do we collect?**
@@ -40,4 +40,4 @@ United Kingdom
 Tel (UK) +44 (0)709 216 5424  
 Fax/Voicemail (UK) +44 (0)20 7691 7074  
 Fax/Voicemail (US) +1 212 898 0454   
-[Click here](mailto:support@tefl.com) to send an e.mail
+[Click here](http://www.tefl.com/home/contact.html) to send an e.mail
