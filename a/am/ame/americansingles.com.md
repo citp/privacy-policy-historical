@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americansingles.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215172127id_/http%3A//www.americansingles.com/default.asp%3Fp%3D13000%26CategoryID%3D1022) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansingles.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621175118id_/http%3A//www.americansingles.com/default.asp%3Fp%3D13010%26CategoryID%3D1022) for the most accurate reproduction.*
 
 # AmericanSingles.com - Free personals, online dating, chat, millions of members
 
@@ -28,7 +28,7 @@ Children are not eligible to use our services, and we ask that minors (under the
 
  ****
 
-Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs and to customize our service to make your experience easier. Your name, address and telephone number are confidential and will not be posted in your profile. Your profile is available for other members to view on the Site. Members' profiles include a description and photos, likes and dislikes, individual essays and other information helpful in determining matches. Your viewable profile does not include any identifying information about you, except the screen name you chose upon registering. We do not disclose your email address nor do we sell it or make it available to any third party other than as outlined in more detail in this Privacy Policy. However, when you send an introductory note through our system to another member, your email address is included in that note so that the recipient can respond to you.
+Our primary goal in collecting personal information is to provide you with a smooth, efficient, and customized experience. This allows us to provide services and features that most likely meet your needs and to customize our service to make your experience easier. Your name, address and telephone number are confidential and will not be posted in your profile. Your profile is available for other members to view on the Site. Members' profiles include a description and photos, likes and dislikes, individual essays and other information helpful in determining matches. Your viewable profile does not include any identifying information about you, except the Username you chose upon registering. We do not disclose your email address nor do we sell it or make it available to any third party other than as outlined in more detail in this Privacy Policy. However, when you send an introductory note through our system to another member, your email address is included in that note so that the recipient can respond to you.
 
 Under some circumstances we may require some additional information, such as, but not limited to credit card details. We use this financial information, including your name, address, and other information, as well as to bill you for use of our services.
 
@@ -56,7 +56,7 @@ As a matter of policy, we **do not** sell or rent any personally identifiable in
 
 ****
 
-**Advertisers.** We aggregate (gather up data across all our members accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number and bank account number, are never disclosed to marketing advertisers.
+**Advertisers.** We aggregate (gather up data across all our members accounts) personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to identify you personally. Certain information, such as your name, email address, password, credit card number and bank account number, are never disclosed to marketing advertisers. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 ****
 
@@ -107,6 +107,3 @@ MatchNet uses industry standard practices to safeguard the confidentiality of yo
  ****
 
 We may change this Privacy Policy from the time based on your comments and our need to accurately reflect our data collection and disclosure practices. All changes to this policy are effective after we provide you with at least (30) days' notice of changes by sending email to members. We provide you with (30) days' notice to allow you the opportunity to notify MatchNet if you do not agree to such changes.
-
-|  | |  | **Privacy Statement**  
----|---
