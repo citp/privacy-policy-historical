@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the venturacountystar.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205004223id_/http%3A//web.venturacountystar.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venturacountystar.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605234951id_/http%3A//web.venturacountystar.com/info/privacy.shtml) for the most accurate reproduction.*
 
-# www.VenturaCountyStar.com
+# VenturaCountyStar.com
 
 **Privacy policy**
 
-VenturaCountyStar.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At InsideVC.com.com and InsideVCWheels.com we intend to give you as much control as possible over your personal information.
+VenturaCountyStar.com is committed to protecting consumer privacy online. We believe that greater protection of personal privacy on the web will not only protect consumers, but also increase consumer confidence and ultimately their participation in online activities. At VenturaCountyStar.com.com and VenturaCountyStarWheels.com we intend to give you as much control as possible over your personal information.
 
 The purpose of our policy is to inform you about the types of information we gather about you when you visit our site(s), how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information.
 
@@ -32,7 +32,7 @@ We do not share personal identifying information with any third party without yo
 
 IV. Accuracy of User Information
 
-In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed to feedback@InsideVC.com.com, or you can reach us by telephone at (805) 650-2900. You can also write us at:
+In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed to feedback@VenturaCountyStar.com.com, or you can reach us by telephone at (805) 650-2900. You can also write us at:
 
 VenturaCountyStar.com  
 c/o Ventura County Star  
@@ -51,5 +51,5 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 VII. Use of Materials
 
-The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [e-mail address]. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20031205004223id_/http%3A//web.venturacountystar.com/info/user.shtml).  
+The right to download and store or output the materials in our site(s) is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [e-mail address]. To link to the full Terms of Use Agreement pertaining to use of our site(s), please [click here](https://web.archive.org/web/20040605234951id_/http%3A//web.venturacountystar.com/info/user.shtml).  
 
