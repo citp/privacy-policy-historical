@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlineconversion.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401220621id_/http%3A//www.bluesparks.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineconversion.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204214949id_/http%3A//www.bluesparks.net/privacy.htm) for the most accurate reproduction.*
 
 # BlueSparks Network - Privacy Statement
 
@@ -86,4 +86,4 @@ These sites have standard security measures in place to protect the loss, misuse
 **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of these sites, or your dealings with these Web sites, you can contact:   
-[robertf@oz.net](mailto:robertf@oz.net)
+[webmaster@bluesparks.net](mailto:webmaster@bluesparks.net)
