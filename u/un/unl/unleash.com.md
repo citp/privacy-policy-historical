@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207150900id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607094947id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Graphics Unleashed
 
@@ -69,5 +69,7 @@ Last Updated Thursday July 03 2003.
 
 When you get a virus on your computer, everyone you've been in contact with suffers as well. Your computer will send the virus to others and thanks to virus protection software, innocent people normally get tons of e-mail blaming them for sending it. It really isn't hard to protect your computer, all you need is the right software. We've put together a [computer protection page](http://www.unleash.com/picks/software/topsoftwaresystemprotection.asp) with the best software out there. Please protect your computer! 
 
+|   
+---|---  
   
 
