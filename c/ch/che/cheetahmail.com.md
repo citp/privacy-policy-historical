@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cheetahmail.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121135346id_/http%3A//www.cheetahmail.com/privacy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheetahmail.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612031836id_/http%3A//www.cheetahmail.com/privacy/privacy.html) for the most accurate reproduction.*
 
 # CheetahMail: Privacy
 
-To CheetahMail, our clients and our subscribers, there is no issue of greater importance than user privacy. Since personal privacy integrity is at the very core of our business, CheetahMail's success depends implicitly upon its ability to maintain the trust of the people viewing our products. Toward this end, we have two distinct policies: 
+[](http://www.truste.org/ivalidate.php?url=www.Cheetahmail.com)To CheetahMail, our clients and our subscribers, there is no issue of greater importance than user privacy. Since personal privacy integrity is at the very core of our business, CheetahMail's success depends implicitly upon its ability to maintain the trust of the people viewing our products. Toward this end, we have two distinct policies: 
 
   * Client Data Policy: As our client, you have exclusive ownership and rights to your subscriber data. 
   * E-Mail Recipient Policy: We send only to lists that have been warranted to us to be composed of opted-in customers of our clients. Any e-mail recipient may request at any time to be removed from those lists, and we will comply with that request within one business day. In addition, we will thoroughly investigate any allegations made by e-mail recipients relating to unsolicited e-mail. 
