@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208010907id_/http%3A//www.shwedream.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shwedream.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306190909id_/http%3A//www.shwedream.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Shwe Dream | Myanmar Music
 
