@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the equine.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330191151id_/http%3A//www.horseclassifieds.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equine.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208101016id_/http%3A//www.equine.com/corp/privacy.asp) for the most accurate reproduction.*
 
-# Internet Horse Classifieds - Privacy Policy
+# Equine.com - Privacy Policy
 
 **Information Collection and Use**
 
-Internet Horse Classifieds and its owner Arcomix Design are the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Internet Horse Classifieds collects information from our users at several different points on our website. 
+Equine.com is the sole owners of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Equine.com collects information from our users at several different points on our website. 
 
 **Registration**
 
@@ -32,7 +32,7 @@ We partner with another party to provide specific services. When the user signs 
 
 **Links**
 
-This web site contains links to other sites. Please be aware that we INTERNET HORSE CLASSIFIEDS are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This web site contains links to other sites. Please be aware that we EQUINE.COM are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 **Security**
 
@@ -42,11 +42,11 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
-If you have any questions about the security at our website, you can send an email to [security@horseclassifieds.com](mailto:security@horseclassifieds.com). 
+If you have any questions about the security at our website, you can send an email to [security@equine.com](mailto:security@equine.com). 
 
-**Special Offers**
+**Newsletters and Special Offers**
 
-We may send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
+We may send all new members a welcoming email to verify password and username. Established members will occasionally receive our monthly newsletter and information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our choice and opt-out below. 
 
 **Site and Service Updates**
 
@@ -54,19 +54,14 @@ We also may send the user site and service announcement updates. Members are not
 
 **Correction/Updating Personal Information**
 
-If a user's personally identifiable information changes (such as your phone number or zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. User's can update their information by going to http://www.horseclassifieds.com or by emailing listings@horseclassifieds.com. 
+If a user's personally identifiable information changes (such as your phone number or zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can usually be done at the member information page or by emailing our Customer Support. User's can update their information by going to http://www.equine.com or by emailing listings@equine.com. 
 
 **Choice/Opt-out**
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for the information. 
+Users are given the opportunity to unsubscribe from our monthly newsletters and special offers email communications or they may send an email to subscribe@equine.com to have their email address removed from our database. Please note that by using our service and posting classified ads, Users will receive emails from parties interested in the horse, product or service that User is advertising. 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
 **Notification of Changes**
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
-
-_Internet Horse Classifieds works with a third party that serves ads to this site. To find out more about how this third party manages the privacy of information in conjunction with serving ads on this site, please go to:_
-
- _Flycast/Engage Media:[ http://www.flycast.com/about_us/about-privacy.html](http://www.flycast.com/about_us/about-privacy.html)  
-Sonar Network/DoubleClick: [ http://www.sonar.com/content/privacy.htm](http://www.sonar.com/content/privacy.htm)_
