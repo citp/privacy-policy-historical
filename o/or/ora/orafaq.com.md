@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the orafaq.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401100429id_/http%3A//www.orafaq.com/suppriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orafaq.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405031002id_/http%3A//www.orafaq.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Oracle FAQ: Privacy Policy Statement
 
-[Index](https://web.archive.org/web/20040405131848id_/http://www.orafaq.com/faq2.htm) > [About this FAQ](https://web.archive.org/web/20040405131848id_/http://www.orafaq.com/navfaq.htm) > Privacy Policy
+[Index](https://web.archive.org/web/20050405031002id_/http%3A//www.orafaq.com/faq2.htm) > [About this FAQ](https://web.archive.org/web/20050405031002id_/http%3A//www.orafaq.com/navfaq.htm) > Privacy Policy
 
 ## Privacy Policy Statement:
 
@@ -19,5 +19,5 @@ The Oracle FAQ respects the privacy of its visitors and participants. This state
   * We assume your consent to this policy if you continue to visit our site.
 
 
-If you have any additional questions about our privacy policy, please contact our [webmaster](https://web.archive.org/web/20040405131848id_/http://www.orafaq.com/supemail.htm).    
+If you have any additional questions about our privacy policy, please contact our [webmaster](https://web.archive.org/web/20050405031002id_/http%3A//www.orafaq.com/supemail.htm).    
 
