@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201200918id_/http%3A//iprimus.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094402id_/http%3A//www.iprimus.com.au/privacy.asp) for the most accurate reproduction.*
 
 # iPrimus > Privacy
 
@@ -56,7 +56,7 @@ iPrimus will take reasonable steps to ensure that all information we collect, us
 
 ## Access and correction of personal information
 
-You have the right to access the personal information we hold about you. iPrimus will generally not charge you with a fee for access to your personal information, unless requests are considered unnecessarily numerous, extensive or otherwise vexatious. Also if you wish to have a copy of the personal information, charges that cover iPrimus’ administrative costs of providing the information to you might apply. To request access to your personal information, please contact iPrimus Customer Service on 1300 85 85 85 or e-mail feedback@iprimus.com.au. 
+You have the right to access the personal information we hold about you. iPrimus will generally not charge you with a fee for access to your personal information, unless requests are considered unnecessarily numerous, extensive or otherwise vexatious. Also if you wish to have a copy of the personal information, charges that cover iPrimus’ administrative costs of providing the information to you might apply. To request access to your personal information, please contact iPrimus Customer Service on 1300 85 11 85 or e-mail feedback@iprimus.com.au. 
 
 If for any reason iPrimus refuses to give you access to your personal information, we will provide you with the reasons for our decision. The circumstances in which access to personal information may be limited or denied include where giving you access:
 
@@ -68,7 +68,7 @@ If for any reason iPrimus refuses to give you access to your personal informatio
 
 ·         would prejudice enforcement of laws.
 
-If you believe that we hold personal information that you consider to be inaccurate, incomplete or not up-to-date, please contact our Customer Service on 1300 85 85 85. In most cases we will amend any inaccurate, incomplete or not up to date information. In the event of an unresolved disagreement, either you or iPrimus may append an explanatory note to the data in question. 
+If you believe that we hold personal information that you consider to be inaccurate, incomplete or not up-to-date, please contact our Customer Service on 1300 85 11 85. In most cases we will amend any inaccurate, incomplete or not up to date information. In the event of an unresolved disagreement, either you or iPrimus may append an explanatory note to the data in question. 
 
 ## Privacy Complaints and Organisational Details
 
@@ -80,6 +80,6 @@ iPrimus Customer Service
 
 Melbourne VIC 3000
 
-Fax: 1300 85 58 58
+Fax: 1300 85 11 58
 
 E-mail address: [feedback@iprimus.com.au](mailto:feedback@iprimus.com.au)
