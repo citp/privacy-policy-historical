@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the dreammoods.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607155112id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreammoods.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004180407id_/http%3A//www.dreammoods.com/privacystatement.htm) for the most accurate reproduction.*
 
-# Dream Moods Privacy Statement
+# Dream Moods: Privacy Statement
 
- 
-
-* * *
-
-   **PRIVACY STATEMENT**
+  |  | 
 
 * * *
 
-We, at [Dream Moods](https://web.archive.org/web/20030607155112id_/http%3A//www.dreammoods.com/index.html), recognize your right to confidentiality and has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses the information gathering and dissemination practices for [ Dream Moods.](https://web.archive.org/web/20030607155112id_/http%3A//www.dreammoods.com/index.html)
+**privacy statement**
 
-**Information Automatically Logged** : We use your IP address to gather broad demographic information and 
+* * *
 
-as a way of diagnosing problems with our server and to administer our site. 
+We, at [Dream Moods](https://web.archive.org/web/20031004180407id_/http%3A//www.dreammoods.com/index.html), recognize your right to confidentiality and has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses the information gathering and dissemination practices for [Dream Moods.](https://web.archive.org/web/20031004180407id_/http%3A//www.dreammoods.com/index.html)
+
+**Information Automatically Logged** : We use your IP address to gather broad demographic information and  as a way of diagnosing problems with our server and to administer our site. 
 
 **Advertisers:** We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
