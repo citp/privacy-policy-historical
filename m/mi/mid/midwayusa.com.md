@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605160824id_/http%3A//www.midwayusa.com/midwayusa/applications/static.exe/getstaticpage%3Fpage%3Dprivacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwayusa.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208200805id_/http%3A//www.midwayusa.com/midwayusa/applications/static.exe/getstaticpage%3Fpage%3Dprivacy_policy.htm) for the most accurate reproduction.*
 
 # MidwayUSA - Privacy Policy
 
