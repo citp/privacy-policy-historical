@@ -1,11 +1,13 @@
-> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602043957id_/http%3A//www.violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the violinist.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211205356id_/http%3A//violinist.com/directory/privacy.cfm) for the most accurate reproduction.*
 
 # Violinist.com privacy policy
 
-| [Musician Directory](https://web.archive.org/directory/ "Our international directory of violinists")  
+| [Log In](https://web.archive.org/directory/login.cfm "Our international directory of violinists")  
 ---  
 [Register](https://web.archive.org/directory/register1.cfm "Create your free listing in our directory")  
 [Change User Info](https://web.archive.org/directory/user.cfm "Registered users click here to change their contact information")  
+[Musician Directory](https://web.archive.org/directory/ "Our international directory of violinists")  
+[Create or Change Listing](https://web.archive.org/directory/login.cfm "Registered users click here to change their contact information")  
 [Discussion Board](https://web.archive.org/discussion/ "Chat about teachers, conductors, technique, instruments or anything else")  
 [Web Directory](https://web.archive.org/websites/ "Hundreds of orchestra, music school and union local web sites")  
 [Music Schools](https://web.archive.org/websites/schools.cfm)  
@@ -15,7 +17,6 @@
 [Store](https://web.archive.org/store/ "Shop for instruments, bows and cases")  
 [Instruments](https://web.archive.org/store/instruments/)  
 [Bows](https://web.archive.org/store/bows/)  
-[Cases](https://web.archive.org/store/cases/)  
 [CDs](https://web.archive.org/store/cds/)  
 [Books](https://web.archive.org/store/books/)  
 [Videos](https://web.archive.org/store/videos/)  
