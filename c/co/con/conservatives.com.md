@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2003-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030612000717id_/http%3A//www.conservatives.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservatives.com privacy policy that was archived on 2003-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031119165717id_/http%3A//www.conservatives.com/privacy.cfm) for the most accurate reproduction.*
 
 # Conservative Party - Conservatives.com Privacy Policy
 
@@ -33,14 +33,17 @@ We ask for your name, postcode and email address if you subscribe to our email n
   
 In addition to the information from site registration we need additional information if you wish to donate money or join. This includes payment information (such as your credit card number and expiry date) and personal information that we must collect to abide by legal and voluntary codes of conduct (such as the constituency in which you are registered to vote). This information may be used for user analysis, user-profiling and contacting visitors.
 
-If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see [_http://www.electoralcommission.gov.uk/_](https://web.archive.org/web/20030612000717id_/http%3A//www.conservatives.com/redir.cfm?ref=http://www.electoralcommission.gov.uk/)  
+If you donate more than £5,000 to the Party via the website, we are obliged under the Political Parties Elections and Referendums Act 2000 to report such a donation to the Electoral Commission, who will publish the fact that you have made a donation over £5,000. For more information, please see [_http://www.electoralcommission.gov.uk/_](https://web.archive.org/web/20031119165717id_/http%3A//www.conservatives.com/redir.cfm?ref=http://www.electoralcommission.gov.uk/)
+
+Under the Political Party Elections and Referendums Act 2000 (PPERA) you must be on the electoral register in the UK excluding the Channel Islands and the Isle of Man in order to make a donation of more than £200.  
+  
   
    
 **Volunteer**  
 We collect your postal address and volunteering preference. This information will be used by ourselves and your local Conservative Association.   
    
 **Send to a friend**  
-If you choose, we can tell a friend about our site -- or even a particular page if you prefer. To do this, we need to ask for your friend's name and email address. We shall send your friend a single email inviting them to visit the site or page you chose. We do not retain this information.   
+If you choose, we can tell a friend about our site -- or even a particular page if you prefer. To do this, we need to ask for your friend's name and email address. We shall send your friend a single email inviting them to visit the site or page you chose. We do not retain this information. Your Internet Protocol (IP) address will be included in the email headers so that the originator of the message can be identified if necessary by the recipient.  
    
 **Feedback**  
 To send us a message using our feedback forms we collect your name, email address and comments. At your option we may also collect your postal code. This data will be used by ourselves and our agents for contacting you. You may opt out of any future mailing.  
