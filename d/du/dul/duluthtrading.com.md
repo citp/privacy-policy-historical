@@ -1,95 +1,37 @@
-> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018120020id_/http%3A//generalstore.duluthtrading.com/1-800-505-8888/customer_service.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duluthtrading.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132149id_/http%3A//www.duluthtrading.com/store/privacysecurity.asp) for the most accurate reproduction.*
 
-# Welcome to DTC!
+# Privacy & Security ~ Duluth Trading Company
 
-* Security
-* Privacy
-* Contact Information
-* Your Satisfaction
-| 
-* Delivery
-* Hours
-* Merchandise Availability
-* Duplicate Catalogs  
-   
-**A NOTE ABOUT SECURITY**  
   
-Your credit card information is passed to us via a secure channel called a Secure Socket Layer (SSL). This high-grade encryption ensures that no one can intercept your credit card information while it is in transit from your computer to our web server. If you still have concerns about ordering products over the Internet, please use our toll-free order number.
 
-Back to Top  
-  
-**YOUR PRIVACY**  
-  
-Duluth Trading is sensitive to the private nature of information you provide to us over the Internet. Our Privacy Policy is designed to maximize your ability to protect your personal, private information while at the same time giving you the opportunity to obtain interesting and useful information, products and services. This Privacy Policy describes how we treat information received about you when you register, purchase products or enter contests. Please read our Privacy Policy carefully. Also, please be aware that our company may change this Privacy Policy from time to time. If we do, we will post any changes, so be sure to check back here periodically.
 
-Back to Top  
-  
-**INFORMATION - HOW WE GET IT AND HOW WE USE IT**  
-  
-When you register on our site, purchase products, or enter contests, you will be providing personal information to Our Company. Personal information includes your name, phone number, address, e-mail and other information by which you can be personally identified. 
+**Privacy Policy**  
+Duluth Trading Company is sensitive to the private nature of information you provide to us over the Internet. Our Privacy Policy is designed to protect your personal information while at the same time giving you the opportunity to obtain interesting and useful information, products and services.
 
-We also collect usage information from you when you visit us. Web Site usage information is not personally identifiable information. It describes how our Web Site is used and navigated, including the number and frequency of visitors to each Web page and the length of their stay. Web Site usage information also includes the domain names of browsers that visit our Web Site, time of day the Web Site was visited and other non-personally identifiable information. 
+When you purchase products or sign-up to receive our catalog or e-mail newsletter, you will be providing us with personal information. Personal information includes your name, phone number, address and e-mail address along with other information by which you can be personally identified.
 
-One of the services Duluth Trading offers to you when you register to Duluth Trading newsletter is to notify you by e-mail about new products and services available from Duluth Trading or from trusted third marketing partners. These notices and offers will be targeted to your individual preferences and tastes. 
+We also collect usage information from you when you visit us. It describes how our Web Site is used and navigated, including the number and frequency of visitors to each Web page and the length of their stay. Web Site usage information also includes the domain names of browsers that visit our Web Site, time of day the Web Site was visited and other non-personally identifiable information.
 
-Duluth Trading believes that knowing more about you will enable us to serve you better. It permits us to personalize the content and services we offer to you. It also permits us to target advertising for products or services to your interests and tastes and avoid repeatedly showing you the same ad. 
+Our Web site uses cookies to enhance your shopping experience. You can choose whether or not to accept cookies by changing the settings of your Internet browser. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
 
-If you have any questions about our Duluth Trading Web Site or Privacy Policy, please [contact us](https://web.archive.org/web/20001018120020id_/http%3A//generalstore.duluthtrading.com/1-800-505-8888/contact.html).
+If you provide us with your e-mail address, you will be registered to receive our Duluth Trading Company newsletter. This e-mail newsletter includes special offers, notices of clearance and overstock items, as well as company news. You may subscribe or unsubscribe to the e-mail newsletter at any time. We do not share or sell e-mail addresses.
 
-Back to Top  
-  
-**IMPORTANT CONTACT INFORMATION**  
-  
-**Duluth Trading Company**  
-2218 Fourth Ave. W.  
-Williston, ND 58801
+We occasionally make our customer list of names and addresses available to carefully screened companies and organizations whose products and activities might be of interest to you. If you prefer not to have your name shared with any other companies or organizations, just let us know. We will gladly accommodate your request. Send us an e-mail at [ customerservice@duluthtrading.com](mailto:customerservice@duluthtrading.com), contact us by mail at 170 Countryside Dr., Belleville, WI 53508, or call 1-800-505-8888.
 
- **Toll-Free Faxing**  
-1-888-950-3199
+We reserve the right to update this policy. Should the Privacy Policy change, the date and a short description of the change will be posted on this page.
 
- **Toll-Free Orders** (available 24 hours a day)  
-1-800-505-8888
+If you have any questions about the Duluth Trading Company Web Site or Privacy Policy, please send an e-mail to [customerservice@duluthtrading.com](mailto:customerservice@duluthtrading.com).
 
- **Toll-Free Customer Service** (available 8am - 8pm Central, Mon-Fri)  
-1-877-DTC-2345
+Effective Date: October 27, 2004
 
-Back to Top  
-  
-**SATISFACTION GUARANTEED**  
-  
-If for any reason you or your gift recipient are not happy with a purchase, please return it (in new condition, please) within 30 days. We will exchange the item or give you a full credit or a refund by the original method of payment. Gift recipients will receive a non-refundable merchandise credit. Credits to your account will appear within one billing cycle.
+**Security**  
+At Duluth Trading Company we believe that all Internet transactions should be convenient, reliable and secure. When you use our secure checkout you can be assured that all of your personal information remains secure.
 
-Back to Top  
-  
-**DELIVERY IS PROMPT**  
-  
-Your order will be carefully packed and shipped to your home or office. Items that are ordered together are not necessarily shipped together.
+Your personal information, including your credit card number is passed to us via a secure channel called a Secure Socket Layer (SSL). This high-grade encryption ensures that no one can intercept your credit card information while it is in transit from your computer to our web site. If you still have concerns about ordering products over the Internet, please call us at 1-800-505-8888 to place your order.
 
-Back to Top  
-  
-**CUSTOMER SERVICE**  
-  
-The Duluth Trading Co. Customer Service department is open Monday through Friday, 8am - 8pm CST at 1-877-DTC-2345.
+**Credit Card Guarantee**  
+Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of the $50.00, Duluth Trading Company will cover the entire liability for you, up to the full $50.00. Duluth Trading Company will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made at Duluth Trading Company while using our Secure Checkout.
 
-Back to Top  
-  
-**MERCHANDISE AVAILABILITY**  
-  
-At the time of publication, merchandise in our catalog is scheduled to be in stock. However, sometimes we have exceptional demand for some items and must reorder. The high quality and exclusivity of some of our items sometimes demands additional manufacturing time and may lead to a slight delay. In this case, you will be advised of the expected delivery date. For best chance, we urge you to order early.
+In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-Back to Top  
-  
-**DUPLICATE CATALOGS**  
-  
-If you are receiving duplicate catalogs, send us all of the mailing labels, indicating the correct one. We'll eliminate the duplication and combine your customer history into one account.
-
-Back to Top  
-  
-**SEND MAILING LABELS TO:**  
-  
-> **DULUTH TRADING CO.**  
->  Mail Preference Service  
-> 2218 Fourth Ave. W.  
-> Williston, ND 58801  
-  
-**_Thank You For Your Order!_**
+Please contact us by e-mail at [ customerservice@duluthtrading.com](mailto:customerservice@duluthtrading.com) if you have any further questions about our online security or credit card guarantee.
