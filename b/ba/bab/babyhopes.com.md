@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyhopes.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603013734id_/http%3A//babyhopes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyhopes.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204091400id_/http%3A//www.babyhopes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy / Security Statement - BabyHopes.com
 
@@ -55,7 +55,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 * * *
 
 **How You Can Access Or Correct Your Information: **  
-You can access all your personally identifiable information that we collect online and maintain by emailing us directly at sales@babyhopes.com. We use this procedure to better safeguard your information. 
+You can access all your personally identifiable information that we collect online and maintain by [contacting us](http://www.babyhopes.com/efeedback/efeedbackV4.php?contact) via our contact form. We use this procedure to better safeguard your information. 
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
@@ -64,6 +64,6 @@ To protect your privacy and security, we will also take reasonable steps to veri
 * * *
 
 **How To Contact Us:**   
-Should you have other questions or concerns about these privacy policies, send us an email at [sales@babyhopes.com](mailto:sales@babyhopes.com). 
+Should you have other questions or concerns about these privacy policies, please contact us via our [contact form](http://www.babyhopes.com/efeedback/efeedbackV4.php?contact).
 
 * * *
