@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206224552id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softcomplex.com privacy policy that was archived on 2005-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050329020152id_/http%3A//www.softcomplex.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Softcomplex - Privacy Policy
 
