@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612103116id_/http%3A//www.printplanet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printplanet.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203123800id_/http%3A//printplanet.com/privacy.html) for the most accurate reproduction.*
 
 # PrintPlanet.com | Privacy Policy
 
   
-[](https://web.archive.org/web/20000612103116id_/http%3A//www.printplanet.com/index.html)  
+[](https://web.archive.org/web/20001203123800id_/http%3A//printplanet.com/index.html)[](https://web.archive.org/web/20001203123800id_/http%3A//printplanet.com/index.html)  
   
-[](http://www.apc-ny.org/)   
 [  
+](http://www.fontalicious.com/)[](http://www.dax-it.com/)[  
+](http://www.fontalicious.com/)[](http://www.apc-ny.org/)   
+[](http://www.dax-it.com/)[  
 ](http://www.dax-it.com/)  
-  
-[](http://www.swop.org/)  
   
   
   
@@ -53,7 +53,7 @@ Web sites may use what we call "cookies" to store member names and passwords. Co
 |    
 |    
 **[Get on with it.](http://www.dax-it.com/)**  
-PrintPlanet.com is brought to you by [Digital Art Exchange, Inc.](http://www.dax-it.com/), an Internet Service Provider (ISP) specifically for the Graphic Arts industry. Find out more about us and what we do by visiting our web site. [](http://www.dax-it.com/)  
+PrintPlanet.com is brought to you by [Digital Art Exchange, Inc.](http://www.dax-it.com/)[DAX], the first managed Internet and application service provider for the graphic communications industry. DAX is the acknowledged leader in providing open digital workflow solutions. Find out more about us and what we do by visiting our web site.  [](http://www.dax-it.com/)  
   
   
 |    
