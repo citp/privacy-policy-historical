@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the wwar.com privacy policy that was archived on 2000-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000613111442id_/http%3A//www.wwar.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wwar.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206121700id_/http%3A//wwar.com/privacy_policy.html) for the most accurate reproduction.*
 
-# World Wide Arts Resources - Visual Arts, Performing Arts and Arts - Cultural Information Gateway
+# 
 
-|  |  >> _**PRIVACY POLICY**_   
-World Wide Arts Resources is committed to safeguard your privacy online at wwar.com and absolutearts.com. Please be so kind as to read the following information to gain a better understanding of how your information will be used by World Wide Arts Resources. WWAR.COM adheres to OPA Privacy standards. As the Internet and World Wide Arts Resources develop this policy might change. We do encourage you to return again to see if there have been any changes to our privacy policy. To assure you that we keep your data secure World Wide Arts Resources has not changed its privacy policy since 1996. 
+World Wide Arts Resources / Absolutearts.com are committed to safeguard your privacy online at wwar.com and absolutearts.com. Please be so kind as to read the following information to gain a better understanding of how your information will be used by World Wide Arts Resources. WWAR.COM adheres to OPA Privacy standards. As the Internet and World Wide Arts Resources develop this policy might change. We do encourage you to return again to see if there have been any changes to our privacy policy. To assure you that we keep your data secure World Wide Arts Resources has not changed its privacy policy since 1996. 
 
 **What personal information does WWAR.COM, WWW.ABSOLUTEARTS.COM collect from me?**
 
@@ -23,16 +22,8 @@ WWAR.COM, WWW.ABSOLUTEARTS.COM DOES NOT SELL YOUR INFORMATION TO OTHER COMPANIES
 
 World Wide Arts Resources works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [ http://www.flycast.com/about_us/about-privacy.html](http://www.flycast.com/about_us/about-privacy.html) . 
 
+Our Web site uses a reputable third party to serve certain portions of advertisements that you see on the pages of our Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please click here <http://www.sonar.com/content/privacy.htm>.
+
 **What else you need to know about your privacy?**
 
 Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
-
-|  |  You may also visit our [Chat Forum](http://wwar.com/artchat/cat.cgi) to talk to other arts enthusiasts and professionals. Discover our interactive [Arts Forum](http://wwar.com/cgi-bin/bbs/BBS/bbs_entrance.cgi) and leave messages or q uestions for others. Use our new and exciting [Classified Ads ](https://web.archive.org/forsale.html) service to sell your artwork to a collector, gallery or arts enthusiast.   
-  
----|---  
-  
-* * *
-
-Created by [World Wide Arts Resources, Corp](mailto:info@wwar.com).  
-Copyright (C) 1995 - 2000, World Wide Arts Resources, Corp. All Rights Reserved    
-
