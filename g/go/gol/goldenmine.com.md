@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goldenmine.com privacy policy that was archived on 2001-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010204005400id_/http%3A//www.goldenmine.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldenmine.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201203143id_/http%3A//www.goldenmine.com/policy.asp) for the most accurate reproduction.*
 
-# GoldenMine - 14k Jewelry - Affordable Elegance
+# GoldenMine.com - Fine Gold Jewelry at Wholesale Discount Prices: Chains, Necklaces, Rings, Bracelets, Earrings
 
 |  | [Site Security](http://www.goldenmine.com/security.asp) |   
 ---|---|---  
