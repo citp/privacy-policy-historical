@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004122138id_/http%3A//www.avn.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avn.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622131126id_/http%3A//www.avn.com/misc_pages/privacy.html) for the most accurate reproduction.*
 
-# AVN.com Privacy Statement Pictures Sex Porn Stars Free Webmasters AVN Adult Video News Sex Pictures Sexy Videos Searches Gay Sex Women Sex Videos AVNonline
+# AVN
 
 _AVN_ Publications, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: _AVN_ Network.
 
@@ -46,5 +46,4 @@ _AVN_ Publications,Inc.
 _AVN_ Online  
 9414 Eton Ave  
 Chatsworth, CA 91311  
-[farley@avn.com](mailto:farly@avn.com)  
-
+[farley@avn.com](mailto:farly@avn.com)
