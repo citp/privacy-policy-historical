@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inta.org privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017035500id_/http%3A//www.inta.org/copyright/privpol.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inta.org privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402060304id_/http%3A//www.inta.org/copyright/privpol.shtml) for the most accurate reproduction.*
 
 # INTA | Privacy Policy
 
@@ -47,6 +47,6 @@ To enable any shopping features that may be available or become available on the
 
 **_Links_**
 
-Users will find links to other sites or services on the INTA site. Although we initially visit the sites or services that are linked to INTA’s web site, we do not control the content or links that appear on these sites. In addition, these sites or services, including their contents and links, may be constantly changing. The fact that we have made these links available to you is not an endorsement or recommendation to you by INTA. We provide these links only as a convenience. For more information please see [ The INTA Web Site Linking Policy](https://web.archive.org/web/20021017035500id_/http%3A//www.inta.org/copyright/linkpol.shtml).
+Users will find links to other sites or services on the INTA site. Although we initially visit the sites or services that are linked to INTA’s web site, we do not control the content or links that appear on these sites. In addition, these sites or services, including their contents and links, may be constantly changing. The fact that we have made these links available to you is not an endorsement or recommendation to you by INTA. We provide these links only as a convenience. For more information please see [ The INTA Web Site Linking Policy](https://web.archive.org/web/20030402060304id_/http%3A//www.inta.org/copyright/linkpol.shtml).
 
 Other companies linked to this site may collect information about you when you view or click on these sites. We cannot control this collection of information. You should contact these content providers directly if you have any questions about their use of the information they collect. These sites and services may have their own privacy policies, or no policy at all. We encourage you to review the privacy policies of any third party sites or services before providing any of them with your personal information.
