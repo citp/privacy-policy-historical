@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artbeats.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209172701id_/http%3A//www.artbeats.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artbeats.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610175647id_/http%3A//artbeats.com/info/privacy.php) for the most accurate reproduction.*
 
 # Artbeats - Privacy Policy
 
