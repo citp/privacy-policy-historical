@@ -1,15 +1,7 @@
-> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222117id_/http%3A//www.gates.com/privacy.cfm%3Flocation_id%3D225) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gates.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204042229id_/http%3A//www.gates.com/privacy.cfm%3Flocation_id%3D225) for the most accurate reproduction.*
 
 # Gates Corporation – The World’s Most Trusted Name in Belts, Hoses & Hydraulics
 
-|  |  |  |    
-| 
-
-Privacy Statement for www.gates.com  
-  
-  
----  
-   
 Gates Corporation has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: www.gates.com. 
 
 **Use of Your Information**  
@@ -50,8 +42,7 @@ This site gives users the following options for removing their information from 
 This site gives users the following options for changing and modifying information previously provided.   
 
 
-  1. email [webmaster@gates.com](mailto:webmaster@gates.com)
-  2. Via an online form(s)
+  1. Via an online form(s)
 
 
 
@@ -64,6 +55,4 @@ Marketing Communications
 Gates Corporation  
 1551 Wewatta Street  
 Denver, CO 80202  
-[webmaster@gates.com](mailto:webmaster@gates.com)  
-  
-| 
+[webmaster@gates.com](mailto:webmaster@gates.com)
