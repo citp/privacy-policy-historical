@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206183232id_/http%3A//talgov.com/citytlh/launch/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talgov.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403214336id_/http%3A//talgov.com/citytlh/launch/privacy.html) for the most accurate reproduction.*
 
 # Talgov.com - Privacy Policy
 
