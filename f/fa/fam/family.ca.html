@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the family.ca privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204131858id_/http%3A//family.ca/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the family.ca privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403154847id_/http%3A//family.ca/privacypolicy.php) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -70,7 +70,7 @@ function preloadImages()  {
 			<img src="/images/spacer.gif" width="484" height="10" alt=""></td>
 	</tr>
 	<tr>
-		<td><a href="javascript:MM_openBrWindow('/wonder8/','wonder8','menubar=no,scrollbars=yes,width=639,height=550')"><img border="0" src="/images/banners/Wonder8_banner.gif" width="468" height="60"></a></td>
+		<td><a href="javascript:MM_openBrWindow('/winit/familyhits/','hits','menubar=no, scrollbars=yes,width=617,height=650')"><img border="0" src="/images/banners/hits_contest_banner.gif" width="468" height="60"></a></td>
 		<td bgcolor="#07DDE5">
 			<img src="/images/spacer.gif" width="16" height="60" alt=""></td>
 	</tr>
@@ -110,802 +110,175 @@ function preloadImages()  {
 
                   <td valign="top">
 
-<style type="text/css">
-
-#divScrollTextCont { width:44px; height:255px; clip:rect(0px 260px 150px 0px); overflow:hidden; visibility:hidden;}
-
-#divText {position:relative; left:0px; top:0px;} 
-
-</style>
-
-<script language="JavaScript" type="text/javascript">
-
-/**********************************************************************************   
-
-ScrollText 
-
-*   Copyright (C) 2001 <a href="/dhtmlcentral/thomas_brattli.asp">Thomas Brattli</a>
-
-*   This script was released at DHTMLCentral.com
-
-*   Visit for more great scripts!
-
-*   This may be used and changed freely as long as this msg is intact!
-
-*   We will also appreciate any links you could give us.
-
-*
-
-*   Made by <a href="/dhtmlcentral/thomas_brattli.asp">Thomas Brattli</a> 
-
-*********************************************************************************/
-
-
-
-function lib_bwcheck(){ //Browsercheck (needed)
-
-	this.ver=navigator.appVersion
-
-	this.agent=navigator.userAgent
-
-	this.dom=document.getElementById?1:0
-
-	this.opera5=this.agent.indexOf("Opera 5")>-1
-
-	this.ie5=(this.ver.indexOf("MSIE 5")>-1 && this.dom && !this.opera5)?1:0; 
-
-	this.ie6=(this.ver.indexOf("MSIE 6")>-1 && this.dom && !this.opera5)?1:0;
-
-	this.ie4=(document.all && !this.dom && !this.opera5)?1:0;
-
-	this.ie=this.ie4||this.ie5||this.ie6
-
-	this.mac=this.agent.indexOf("Mac")>-1
-
-	this.ns6=(this.dom && parseInt(this.ver) >= 5) ?1:0; 
-
-	this.ns4=(document.layers && !this.dom)?1:0;
-
-	this.bw=(this.ie6 || this.ie5 || this.ie4 || this.ns4 || this.ns6 || this.opera5)
-
-	return this
-
-}
-
-var bw=new lib_bwcheck()
-
-
-
-
-
-/*****************
-
-
-
-You set the width and height of the divs inside the style tag, you only have to
-
-change the divScrollTextCont, Remember to set the clip the same as the width and height.
-
-You can remove the divUp and divDown layers if you want. 
-
-This script should also work if you make the divScrollTextCont position:relative.
-
-Then you should be able to place this inside a table or something. Just remember
-
-that Netscape crash very easily with relative positioned divs and tables.
-
-
-
-Updated with a fix for error if moving over layer before pageload.
-
-
-
-****************/
-
-
-
-
-
-//If you want it to move faster you can set this lower, it's the timeout:
-
-var speed = 30
-
-
-
-//Sets variables to keep track of what's happening
-
-var loop, timer
-
-
-
-//Object constructor
-
-function makeObj(obj,nest){
-
-    nest=(!nest) ? "":'document.'+nest+'.'
-
-	this.el=bw.dom?document.getElementById(obj):bw.ie4?document.all[obj]:bw.ns4?eval(nest+'document.'+obj):0;
-
-  	this.css=bw.dom?document.getElementById(obj).style:bw.ie4?document.all[obj].style:bw.ns4?eval(nest+'document.'+obj):0;
-
-	this.scrollHeight=bw.ns4?this.css.document.height:this.el.offsetHeight
-
-	this.clipHeight=bw.ns4?this.css.clip.height:this.el.offsetHeight
-
-	this.up=goUp;this.down=goDown;
-
-	this.moveIt=moveIt; this.x=0; this.y=0;
-
-    this.obj = obj + "Object"
-
-    eval(this.obj + "=this")
-
-    return this
-
-}
-
-
-
-// A unit of measure that will be added when setting the position of a layer.
-
-var px = bw.ns4||window.opera?"":"px";
-
-
-
-function moveIt(x,y){
-
-	this.x = x
-
-	this.y = y
-
-	this.css.left = this.x+px
-
-	this.css.top = this.y+px
-
-}
-
-
-
-//Makes the object go up
-
-function goDown(move){
-
-	if (this.y>-this.scrollHeight+oCont.clipHeight){
-
-		this.moveIt(0,this.y-move)
-
-			if (loop) setTimeout(this.obj+".down("+move+")",speed)
-
-	}
-
-}
-
-//Makes the object go down
-
-function goUp(move){
-
-	if (this.y<0){
-
-		this.moveIt(0,this.y-move)
-
-		if (loop) setTimeout(this.obj+".up("+move+")",speed)
-
-	}
-
-}
-
-
-
-//Calls the scrolling functions. Also checks whether the page is loaded or not.
-
-function scroll(speed){
-
-	if (scrolltextLoaded){
-
-		loop = true;
-
-		if (speed>0) oScroll.down(speed)
-
-		else oScroll.up(speed)
-
-	}
-
-}
-
-
-
-//Stops the scrolling (called on mouseout)
-
-function noScroll(){
-
-	loop = false
-
-	if (timer) clearTimeout(timer)
-
-}
-
-//Makes the object
-
-var scrolltextLoaded = false
-
-function scrolltextInit(){
-
-	oCont = new makeObj('divScrollTextCont')
-
-	oScroll = new makeObj('divText','divScrollTextCont')
-
-	oScroll.moveIt(0,0)
-
-	oCont.css.visibility = "visible"
-
-	scrolltextLoaded = true
-
-}
-
-//Call the init on page load if the browser is ok...
-
-if (bw.bw) onload = scrolltextInit
-
-
-
-/***************
-
-Multiple Scripts
-
-If you have two or more scripts that use the onload event, probably only one will run (the last one).
-
-Here is a solution for starting multiple scripts onload:
-
-   1. Delete or comment out all the onload assignments, onload=initScroll and things like that.
-
-   2. Put the onload assignments in the body tag like in this example, note that they must have braces ().
-
-   Example: <body onload="initScroll(); initTooltips(); initMenu();">
-
-**************/
-
-</script>
-
-
-
-<script language="javascript">
-
-<!--
-
-  whatson_over_1 = newImage("/images/whatson/sidebar/teal/scroller_03-over.gif");
-
-  whatson_over_2 = newImage("/images/whatson/sidebar/teal/scroller_07-over.gif");
-
-  whatson_over_3 = newImage("/images/whatson/sidebar/teal/calendar_03-over.gif");
-
-  whatson_over_4 = newImage("/images/whatson/sidebar/teal/calendar_05-over.gif");
-
-//-->
-
-</script>
-
 <!-- Content starts here -->
-
-        <table border="0" width="100%" cellspacing="0" cellpadding="0">
-
-          <tbody><tr>
-
-            <td width="271" valign="top">
-
-              <table border="0" cellspacing="0" cellpadding="0">
-
-                <tbody><tr>
-
-                  <td valign="top">
-
-<!-- Scroller Begins -->
-
-<table width="81" border="0" cellpadding="0" cellspacing="0">
-
-	<tbody><tr>
-
-		<td colspan="3">
-
-			<img src="/images/spacer.gif" width="81" height="24" alt=""></td>
-
-	</tr>
-
-	<tr>
-
-		<td rowspan="4">
-
-			<img src="/images/whatson/sidebar/teal/scroller_02.gif" width="12" height="359" alt=""></td>
-
-		<td><a href="#" onmouseover="scroll(-2);MM_swapImage('scroller_teal_org_03','','/images/whatson/sidebar/teal/scroller_03-over.gif',1)" onmouseout="noScroll();MM_swapImgRestore()" onclick="return false"><img name="scroller_teal_org_03" src="/images/whatson/sidebar/teal/scroller_03.gif" width="44" height="42" border="0" alt="scroll up"></a></td>
-
-		<td rowspan="4">
-
-			<img src="/images/whatson/sidebar/teal/scroller_04.gif" width="25" height="359" alt=""></td>
-
-	</tr>
-
-	<tr>
-
-		<td bgcolor="#4FBFCA" width="44" height="259"><div id="divScrollTextCont" style="visibility: visible;"><div id="divText" style="left: 0px; top: 0px;">
-
-		<table width="44" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-
-		<td>
-
-			<img src="/images/spacer.gif" width="44" height="10" alt=""></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<a href="/whatson/minisites/radiofreeroscoe2/" target="_blank"><img src="/images/whatson/sidebar/rfr.gif" width="44" height="37" alt="" border="0"></a></td>
-
-		</tr>
-		<tr>
-
-		<td>
-
-			<img src="/images/spacer.gif" width="44" height="10" alt=""></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<a href="/whatson/showinfo.php?show=That%27s+So+Raven&amp;match=exact"><img src="/images/whatson/sidebar/thats-so-raven.gif" width="44" height="18" alt="" border="0"></a></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<img src="/images/spacer.gif" width="44" height="15" alt=""></td>
-
-		</tr>
-
-		<!-- tindal, nov 30 2004
-		<TR>
-
-		<TD>
-
-			<IMG SRC="/images/spacer.gif" WIDTH=44 HEIGHT=17 ALT=""></TD>
-
-		</TR>
-		-->
-
-		<tr>
-
-		<td>
-
-			<a href="/whatson/showinfo.php?show=Henry%27s+World&amp;match=exact"><img src="/images/whatson/sidebar/henrys-world.gif" width="44" height="18" alt="" border="0"></a></td>
-
-		</tr>
-
-		<!-- Teamo Supremo removed - tindal, Nov 30, 2004
-		<TR>
-
-		<TD>
-
-			<IMG SRC="/images/spacer.gif" WIDTH=44 HEIGHT=11 ALT=""></TD>
-
-		</TR>
-
-
-		<TR>
-
-		<TD>
-
-			<a href="/whatson/showinfo.php?show=Disney%27s+Teamo+Supremo&match=exact"><IMG SRC="/images/whatson/sidebar/teamo-supremo.gif" WIDTH=44 HEIGHT=34 ALT="" border=0></a></TD>
-
-		</TR>
-
-		<TR>
-		-->
-
-		<tr><td>
-
-			<img src="/images/spacer.gif" width="44" height="10" alt=""></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<a href="/whatson/showinfo.php?show=Disney%27s+101+Dalmatians%3A+The+Series&amp;match=exact&gt;&lt;IMG SRC=" images="" whatson="" sidebar="" 101-dalmations.gif"="" width="44" height="18" alt="" border="0"></a></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<img src="/images/spacer.gif" width="44" height="7" alt=""></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<a href="/whatson/showinfo.php?show=Disney%27s+Kim+Possible&amp;match=exact"><img src="/images/whatson/sidebar/kim-possible.gif" width="44" height="23" alt="" border="0"></a></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<img src="/images/spacer.gif" width="44" height="15" alt=""></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<a href="/whatson/showinfo.php?show=Proud+Family%2C+The&amp;match=exact"><img src="/images/whatson/sidebar/proud-family.gif" width="44" height="31" alt="" border="0"></a></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<img src="/images/spacer.gif" width="44" height="15" alt=""></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<a href="#" onclick="MM_openBrWindow('/whatson/minisites/king/','king','menubar=no, scrollbars=yes,width=570,height=400')"><img src="/images/whatson/sidebar/king.gif" width="44" height="24" alt="" border="0"></a></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<img src="/images/spacer.gif" width="44" height="14" alt=""></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<a href="/whatson/showinfo.php?show=Lizzie+McGuire&amp;match=exact"><img src="/images/whatson/sidebar/lizzie-mc.gif" width="44" height="20" alt="" border="0"></a></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<img src="/images/spacer.gif" width="44" height="10" alt=""></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<img src="/images/spacer.gif" width="44" height="19" alt=""></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<a href="/whatson/showinfo.php?show=Disney%27s+Fillmore%21&amp;match=exact"><img src="/images/whatson/sidebar/filmore.gif" width="44" height="13" alt="" border="0"></a></td>
-
-		</tr>
-
-		<tr>
-
-		<td>
-
-			<img src="/images/spacer.gif" width="44" height="5" alt=""></td>
-
-		</tr>
-
-		</tbody></table></div></div>
-
-	        </td>
-
-	</tr>
-
-	<tr>
-
-		<td>
-
-			<img src="/images/whatson/sidebar/teal/scroller_06.gif" width="44" height="7" alt=""></td>
-
-	</tr>
-
-	<tr>
-
-		<td><a href="#" onmouseover="scroll(2);MM_swapImage('scroller_teal_org_07','','/images/whatson/sidebar/teal/scroller_07-over.gif',1)" onmouseout="noScroll();MM_swapImgRestore()" onclick="return false"><img name="scroller_teal_org_07" src="/images/whatson/sidebar/teal/scroller_07.gif" width="44" height="51" border="0" alt="scroll down"></a></td>
-
-	</tr>
-
-</tbody></table>
-
-<!-- Scroller Ends -->
-
-                  </td>
-
-                  <td valign="top">
-
-                    <table border="0" cellspacing="0" cellpadding="0">
-
-                      <tbody><tr>
-
-                        <td>
-
+<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
+<tbody><tr>
+    <td width="270" valign="top">
+       	<table border="0" cellspacing="0" cellpadding="0" align="center" width="270">
+       	<tbody><tr>
+           	<td style="background: url(/images/whatson/sidebar/teal/whatsonbkg.jpg) repeat-x; background-position: top left">
 <!-- Calendar Begins -->
-
-<table width="190" border="0" cellpadding="0" cellspacing="0">
-
+<table width="190" border="0" cellpadding="0" cellspacing="0" align="center">
 	<tbody><tr>
-
 		<td colspan="5">
-
 			<img name="calendar_teal_org_01" src="/images/whatson/sidebar/teal/calendar_01.gif" width="190" height="33" alt=""></td>
-
 	</tr>
-
 	<tr>
-
 		<td rowspan="4">
-
 			<img src="/images/whatson/sidebar/teal/calendar_02.gif" width="27" height="171" alt=""></td>
-
-		                        <td> <a href="?day=2004-11-1&amp;action=prev" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('calendar_teal_org_03','','/images/whatson/sidebar/teal/calendar_03-over.gif',1)"> 
-
+		                        <td> <a href="?day=2005-3-1&amp;action=prev" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('calendar_teal_org_03','','/images/whatson/sidebar/teal/calendar_03-over.gif',1)"> 
                                   <img name="calendar_teal_org_03" src="/images/whatson/sidebar/teal/calendar_03.gif" width="31" height="20" border="0" alt=""></a></td>
-
-		<td background="/images/whatson/sidebar/teal/calendar_04.gif" width="84" height="20" valign="middle" align="center" class="white10px"><b>December</b></td>
-
-		                        <td> <a href="?day=2004-13-1&amp;action=next" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('calendar_teal_org_05','','/images/whatson/sidebar/teal/calendar_05-over.gif',1)"> 
-
+		<td background="/images/whatson/sidebar/teal/calendar_04.gif" width="84" height="20" valign="middle" align="center" class="white10px"><b>April</b></td>
+		                        <td> <a href="?day=2005-5-1&amp;action=next" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('calendar_teal_org_05','','/images/whatson/sidebar/teal/calendar_05-over.gif',1)"> 
                                   <img name="calendar_teal_org_05" src="/images/whatson/sidebar/teal/calendar_05.gif" width="28" height="20" border="0" alt=""></a></td>
-
 		<td rowspan="4">
-
 			<img src="/images/whatson/sidebar/teal/calendar_06.gif" width="20" height="171" alt=""></td>
-
 	</tr>
-
 	<tr>
-
 		<td colspan="3">
-
 			<img src="/images/whatson/sidebar/teal/calendar_07.gif" width="143" height="20" alt=""></td>
-
 	</tr>
-
 	<tr>
-
 		<td colspan="3" width="146" height="83" bgcolor="#4ABECE" valign="top"><table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
 
 <tbody><tr>
   <td align="center">&nbsp;</td>
   <td align="center">&nbsp;</td>
   <td align="center">&nbsp;</td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-01" class="whatsonCalendar"> <b>&nbsp;1</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-02" class="whatsonCalendar"> <b>&nbsp;2</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-03" class="whatsonCalendar"> <b>&nbsp;3</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-04" class="whatsonCalendar"> <b>&nbsp;4</b> </a></td>
-</tr>
-<tr>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-05" class="whatsonCalendar"> <b>&nbsp;5</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-06" class="whatsonCalendar"> <b>&nbsp;6</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-07" class="whatsonCalendar"> <b>&nbsp;7</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-08" class="whatsonCalendar"> <b>&nbsp;8</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-09" class="whatsonCalendar"> <b>&nbsp;9</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-10" class="whatsonCalendar"> <b>&nbsp;10</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-11" class="whatsonCalendar"> <b>&nbsp;11</b> </a></td>
-</tr>
-<tr>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-12" class="whatsonCalendar"> <b>&nbsp;12</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-13" class="whatsonCalendar"> <b>&nbsp;13</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-14" class="whatsonCalendar"> <b>&nbsp;14</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-15" class="whatsonCalendar"> <b>&nbsp;15</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-16" class="whatsonCalendar"> <b>&nbsp;16</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-17" class="whatsonCalendar"> <b>&nbsp;17</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-18" class="whatsonCalendar"> <b>&nbsp;18</b> </a></td>
-</tr>
-<tr>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-19" class="whatsonCalendar"> <b>&nbsp;19</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-20" class="whatsonCalendar"> <b>&nbsp;20</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-21" class="whatsonCalendar"> <b>&nbsp;21</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-22" class="whatsonCalendar"> <b>&nbsp;22</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-23" class="whatsonCalendar"> <b>&nbsp;23</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-24" class="whatsonCalendar"> <b>&nbsp;24</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-25" class="whatsonCalendar"> <b>&nbsp;25</b> </a></td>
-</tr>
-<tr>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-26" class="whatsonCalendar"> <b>&nbsp;26</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-27" class="whatsonCalendar"> <b>&nbsp;27</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-28" class="whatsonCalendar"> <b>&nbsp;28</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-29" class="whatsonCalendar"> <b>&nbsp;29</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-30" class="whatsonCalendar"> <b>&nbsp;30</b> </a></td>
-  <td align="center"><a href="/whatson/schedule.php?day=2004-12-31" class="whatsonCalendar"> <b>&nbsp;31</b> </a></td>
   <td align="center">&nbsp;</td>
+  <td align="center">&nbsp;</td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-01" class="whatsonCalendar"> <b>&nbsp;1</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-02" class="whatsonCalendar"> <b>&nbsp;2</b> </a></td>
+</tr>
+<tr>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-03" class="whatsonCalendar"> <b>&nbsp;3</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-04" class="whatsonCalendar"> <b>&nbsp;4</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-05" class="whatsonCalendar"> <b>&nbsp;5</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-06" class="whatsonCalendar"> <b>&nbsp;6</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-07" class="whatsonCalendar"> <b>&nbsp;7</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-08" class="whatsonCalendar"> <b>&nbsp;8</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-09" class="whatsonCalendar"> <b>&nbsp;9</b> </a></td>
+</tr>
+<tr>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-10" class="whatsonCalendar"> <b>&nbsp;10</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-11" class="whatsonCalendar"> <b>&nbsp;11</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-12" class="whatsonCalendar"> <b>&nbsp;12</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-13" class="whatsonCalendar"> <b>&nbsp;13</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-14" class="whatsonCalendar"> <b>&nbsp;14</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-15" class="whatsonCalendar"> <b>&nbsp;15</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-16" class="whatsonCalendar"> <b>&nbsp;16</b> </a></td>
+</tr>
+<tr>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-17" class="whatsonCalendar"> <b>&nbsp;17</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-18" class="whatsonCalendar"> <b>&nbsp;18</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-19" class="whatsonCalendar"> <b>&nbsp;19</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-20" class="whatsonCalendar"> <b>&nbsp;20</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-21" class="whatsonCalendar"> <b>&nbsp;21</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-22" class="whatsonCalendar"> <b>&nbsp;22</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-23" class="whatsonCalendar"> <b>&nbsp;23</b> </a></td>
+</tr>
+<tr>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-24" class="whatsonCalendar"> <b>&nbsp;24</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-25" class="whatsonCalendar"> <b>&nbsp;25</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-26" class="whatsonCalendar"> <b>&nbsp;26</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-27" class="whatsonCalendar"> <b>&nbsp;27</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-28" class="whatsonCalendar"> <b>&nbsp;28</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-29" class="whatsonCalendar"> <b>&nbsp;29</b> </a></td>
+  <td align="center"><a href="/whatson/schedule.php?day=2005-04-30" class="whatsonCalendar"> <b>&nbsp;30</b> </a></td>
 </tr></tbody></table></td>
-
 	</tr>
-
 	<tr>
-
 		<td colspan="3">
-
 			<img src="/images/whatson/sidebar/teal/calendar_09.gif" width="143" height="48" alt=""></td>
-
 	</tr>
-
 </tbody></table>
-
 <!-- Calendar Ends -->
-
-                        </td>
-
-                      </tr>
-		      <tr>
-			 <td align="right">
+            </td>
+     	</tr>
+		<tr align="center">
+			<td><a href="/whatson/schedulegrid.php"><img src="/images/whatson/sidebar/teal/schedule.gif" border="0" alt="Click here to see the Schedule Grid!"></a></td>
+		</tr>
+		<tr align="center">
+			<td><a href="/whatson/famclub/"><img src="/images/whatson/sidebar/teal/famclub.gif" border="0" alt="Get the Goods on your Fav Shows!"></a></td>
+		</tr>
+		<tr>
+			<td align="center">
 				<form method="get" action="/whatson/showinfo.php" name="searchForm">
 				<table width="178" border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
-		  		  <td rowspan="2">
-					<img src="/images/whatson/sidebar/teal/search_01.jpg" width="72" height="19"></td>
-				  <td colspan="2">
-					<img src="/images/spacer.gif" width="106" height="11"></td>
+		  		  	<td rowspan="2"><img src="/images/whatson/sidebar/teal/search_01.jpg" width="72" height="19"></td>
+				  	<td colspan="2"><img src="/images/spacer.gif" width="106" height="11"></td>
 				</tr>
 				<tr>
-				  <td>
-					<img src="/images/spacer.gif" width="58" height="8"></td>
-			          <td rowspan="2"> <a href="javascript:document.searchForm.submit();" onmouseover="MM_swapImage('search_ora_04','','/images/whatson/sidebar/teal/search_04-over.jpg',1)" onmouseout="MM_swapImgRestore()"> 
+				  <td><img src="/images/spacer.gif" width="58" height="8"></td>
+			      <td rowspan="2"> <a href="javascript:document.searchForm.submit();" onmouseover="MM_swapImage('search_ora_04','','/images/whatson/sidebar/teal/search_04-over.jpg',1)" onmouseout="MM_swapImgRestore()"> 
 		                        <img name="search_ora_04" src="/images/whatson/sidebar/teal/search_04.jpg" width="48" height="38" border="0"></a></td>
 				</tr>
 				<tr>
-				  <td colspan="2">
+				  	<td colspan="2">
 			            <input type="text" name="searchValue" size="18" class="searchField"></td>
 				</tr>
 				</tbody></table>
-			   </form></td>
-		      </tr>
-
-                      <tr>
-
-                        <td align="center"><br>
-
-                          <img border="0" src="/images/whatson/sidebar/teal/a_z.gif" width="160" height="57" usemap="#alphabet_Map"></td>
-
-                      </tr>
-
-                      <tr>
-
-                        <td align="center"><br>
-
+			</form></td>
+		</tr>
+        <tr>
+           	<td align="center"><br>
+               	<img border="0" src="/images/whatson/sidebar/teal/a_z.gif" width="160" height="57" usemap="#alphabet_Map"></td>
+        </tr>
+        <tr>
+           	<td align="center"><br>
 <!-- ImageReady Slices (now-playing.psd) -->
-
 <table width="160" border="0" cellpadding="0" cellspacing="0">
-
 	<tbody><tr>
-
 		<td colspan="3">
-
 			<img src="/images/whatson/sidebar/teal/now-playing_01.gif" width="160" height="30" alt=""></td>
-
 	</tr>
-
 	<tr>
-
 		<td>
-
 			<img src="/images/whatson/sidebar/teal/now-playing_02.gif" width="16" height="32" alt=""></td>
-
-		<td bgcolor="#4FBFCA" width="115" height="32" valign="middle" align="center" class="white10px"><b><a href="/whatson/showinfo.php?show=Radio+Free+Roscoe&amp;match=exact" class="whatsonCalendar"> &nbsp;Radio Free Roscoe&nbsp; </a></b></td>
-
+		<td bgcolor="#4FBFCA" width="115" height="32" valign="middle" align="center" class="white10px"><b><a href="/whatson/showinfo.php?show=Brotherly+Love&amp;match=exact" class="whatsonCalendar"> &nbsp;Brotherly Love&nbsp; </a></b></td>
 		<td>
-
 			<img src="/images/whatson/sidebar/teal/now-playing_04.gif" width="29" height="32" alt=""></td>
-
 	</tr>
-
 	<tr>
-
 		<td colspan="3">
-
 			<img src="/images/whatson/sidebar/teal/now-playing_05.jpg" width="160" height="29" alt=""></td>
-
 	</tr>
-
 </tbody></table>
-
 <!-- Imagemap for Alphabet -->
-
 <map name="alphabet_Map">
-
-	<area shape="rect" alt="" coords="132,38,149,55" href="/whatson/showinfo.php?start=z">
-
+<area shape="rect" alt="" coords="132,38,149,55" href="/whatson/showinfo.php?start=z">
 <area shape="rect" alt="" coords="115,38,131,57" href="/whatson/showinfo.php?start=y">
-
 <area shape="rect" alt="" coords="98,38,114,56" href="/whatson/showinfo.php?start=x">
-
 <area shape="rect" alt="" coords="79,38,97,57" href="/whatson/showinfo.php?start=w">
-
 <area shape="rect" alt="" coords="61,38,78,57" href="/whatson/showinfo.php?start=v">
-
 <area shape="rect" alt="" coords="44,38,60,56" href="/whatson/showinfo.php?start=u">
-
 <area shape="rect" alt="" coords="26,38,43,57" href="/whatson/showinfo.php?start=t">
-
 <area shape="rect" alt="" coords="8,38,25,56" href="/whatson/showinfo.php?start=s">
-
 <area shape="rect" alt="" coords="140,19,160,37" href="/whatson/showinfo.php?start=r">
-
 <area shape="rect" alt="" coords="123,19,139,37" href="/whatson/showinfo.php?start=q">
-
 <area shape="rect" alt="" coords="106,19,122,37" href="/whatson/showinfo.php?start=p">
-
 <area shape="rect" alt="" coords="87,19,105,37" href="/whatson/showinfo.php?start=o">
-
 <area shape="rect" alt="" coords="69,19,86,37" href="/whatson/showinfo.php?start=n">
-
 <area shape="rect" alt="" coords="50,19,68,37" href="/whatson/showinfo.php?start=m">
-
 <area shape="rect" alt="" coords="34,19,49,37" href="/whatson/showinfo.php?start=l">
-
 <area shape="rect" alt="" coords="18,19,33,37" href="/whatson/showinfo.php?start=k">
-
 <area shape="rect" alt="" coords="0,19,17,37" href="/whatson/showinfo.php?start=j">
-
 <area shape="rect" alt="" coords="144,0,160,18" href="/whatson/showinfo.php?start=i">
-
 <area shape="rect" alt="" coords="130,0,143,18" href="/whatson/showinfo.php?start=h">
-
 <area shape="rect" alt="" coords="114,0,129,18" href="/whatson/showinfo.php?start=g">
-
 <area shape="rect" alt="" coords="98,0,113,18" href="/whatson/showinfo.php?start=f">
-
 <area shape="rect" alt="" coords="82,0,97,18" href="/whatson/showinfo.php?start=e">
-
 <area shape="rect" alt="" coords="66,0,81,18" href="/whatson/showinfo.php?start=d">
-
 <area shape="rect" alt="" coords="50,0,65,18" href="/whatson/showinfo.php?start=c">
-
 <area shape="rect" alt="" coords="34,0,49,18" href="/whatson/showinfo.php?start=b">
-
 <area shape="rect" alt="" coords="18,0,33,18" href="/whatson/showinfo.php?start=a">
-
 <area shape="rect" alt="" coords="0,0,17,18" href="/whatson/showinfo.php?start=num">
-
 </map>	
-
-                        </td>
-
-                      </tr>
-
-                    </tbody></table>
-
-                  </td>
-
-                </tr>
-
-              </tbody></table>
-
+        	</td>
+        </tr>
+        </tbody></table>
 	
-
                         </td>
 
                       </tr>
@@ -1299,28 +672,50 @@ M5J 2T3<br>
   </tr>
   <tr>
     <td width="100%">
-<table width="775" border="0" cellpadding="0" cellspacing="0">
+<script type="text/javascript">
+<!--
+
+var preloadFlag = false;
+function preloadImages() {
+	if (document.images) {
+		footer_02_footer_01_over = newImage("/images/footer/footer_02-footer_01_over.gif");
+		footer_05_over = newImage("/images/footer/footer_05-over.gif");
+		preloadFlag = true;
+	}
+}
+
+function panic() {
+
+windowprops = "top=0,left=0,resizable=yes" + ",width=" + screen.width +
+",height=" + screen.height + ",fullscreen=no" + ",scrollbars=auto";
+
+window.open("http://family.ca/whatson/panic.php", "popupPage", windowprops);
+}
+// -->
+</script>
+<table id="Table_01" width="775" height="95" border="0" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td colspan="3">
-			<img src="/images/spacer.gif" width="775" height="9" alt=""></td>
+		<td rowspan="3">
+			<a href="javascript:panic()" onmouseover="changeImages('footer_02', '/images/footer/footer_02-footer_01_over.gif'); return true;" onmouseout="changeImages('footer_02', '/images/footer/footer_02.gif'); return true;" onmousedown="changeImages('footer_02', '/images/footer/footer_02-footer_01_over.gif'); return true;" onmouseup="changeImages('footer_02', '/images/footer/footer_02-footer_01_over.gif'); return true;">
+				<img src="/images/footer/footer_01.jpg" width="93" height="94" border="0" alt=""></a></td>
+		<td colspan="2" rowspan="2" bgcolor="#00DFE7">
+			<img name="footer_02" src="/images/footer/footer_02.gif" width="301" height="59" alt=""></td>
+		<td width="151" height="59" rowspan="2" bgcolor="#00DFE7">
+			<img src="/images/footer/spacer.gif" width="151" height="59" alt=""></td>
+		<td bgcolor="#00DFE7">
+			<img src="/images/footer/footer_04.gif" width="230" height="26" alt=""></td>
 	</tr>
 	<tr>
-		<td>
-			<img src="/images/spacer.gif" width="551" height="43" alt=""></td>
-		<td>
-			<img src="/images/never_a_dull_moment_wm.gif" width="200" height="20" alt=""></td>
-		<td>
-			<img src="/images/spacer.gif" width="24" height="43" alt=""></td>
+		<td bgcolor="#00DFE7">
+			<a href="javascript:MM_openBrWindow('/sendtoafriend.php?category=1&amp;page=%2Fprivacypolicy.php','sendtoafriend','menubar=no,scrollbars=no,width=441,height=480')" onmouseover="changeImages('footer_05', '/images/footer/footer_05-over.gif'); return true;" onmouseout="changeImages('footer_05', '/images/footer/footer_05.gif'); return true;" onmousedown="changeImages('footer_05', '/images/footer/footer_05-over.gif'); return true;" onmouseup="changeImages('footer_05', '/images/footer/footer_05-over.gif'); return true;">
+				<img name="footer_05" src="/images/footer/footer_05.gif" width="230" height="33" border="0" alt=""></a></td>
 	</tr>
 	<tr>
-		<td colspan="3">
-			<img src="/images/spacer.gif" width="200" height="5" alt=""></td>
-	</tr>
-	<tr>
-		<td colspan="3">
+		<td bgcolor="#00DFE7">
+			<img src="/images/footer/footer_06.gif" width="116" height="35" alt=""></td>
+		<td width="566" height="35" colspan="3" bgcolor="#00DFE7">
 <table border="0" width="100%">
 <tbody><tr>
-    <td><a href="http://www.astral.com/" target="_blank"><img src="/images/astral_logo.gif" width="77" height="20" border="0"></a></td>
 	<td width="750" align="center" class="footerText">
 		<span class="white9px">
 		<a onmouseover="window.status='Home'; return true" onmouseout="window.status='';return true" href="/">Home</a></span>
@@ -1348,15 +743,24 @@ M5J 2T3<br>
 		<nobr> :: </nobr>
 		<a href="/getfamily.php">Get Family</a>
 	</td>
-	<td><img src="/images/spacer.gif" width="77" height="1"></td>
 </tr>
 </tbody></table>
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<img src="/images/footer/spacer.gif" width="93" height="1" alt=""></td>
+		<td>
+			<img src="/images/footer/spacer.gif" width="116" height="1" alt=""></td>
+		<td>
+			<img src="/images/footer/spacer.gif" width="185" height="1" alt=""></td>
+		<td>
+			<img src="/images/footer/spacer.gif" width="151" height="1" alt=""></td>
+		<td>
+			<img src="/images/footer/spacer.gif" width="230" height="1" alt=""></td>
+	</tr>
 </tbody></table>
-    </td>
-  </tr>
-</tbody></table>
+
 
 
 
@@ -1372,8 +776,8 @@ M5J 2T3<br>
 
   </tbody></table>
 
-</div>
 
 
 
-</body></html>
+
+</td></tr></tbody></table></div></body></html>
