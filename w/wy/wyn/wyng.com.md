@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the wyng.com privacy policy that was archived on 2001-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011115071142id_/http%3A//www.wyng.com/jacor-common/tou.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyng.com privacy policy that was archived on 2002-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020410021036id_/http%3A//www.wyng.com/jacor-common/tou.html) for the most accurate reproduction.*
 
 # WYNG-FM
 
-Revised: 6.6.01 
+Revised: 2.6.02 
 
   
 PRIVACY STATEMENT
 
-This site "www.wyng.com" is owned by Clear Channel Communications, Inc., and is part of the Clear Channel family of companies which includes other quality entertainment brands such as broadcast and Internet radio stations, television stations, SFX Entertainment, and the Premiere Radio Network (collectively referred to hereinafter as "we" or "this site"). This statement informs you of Clear Channel's practices with respect to the collection, use, and disclosure of personal information. Personal information is information that allows us to contact you (such as e-mail address, home address, or telephone number) or other information that, when linked to your name or contact information, allows us to personalize your visit to our site by providing you with information that suits your interests. 
+This site "www.wyng.com" is owned by Clear Channel Communications, Inc., and is part of the Clear Channel family of companies which includes other quality entertainment brands such as broadcast and Internet radio stations, television stations, Clear Channel Entertainment, and the Premiere Radio Network (collectively referred to hereinafter as "we" or "this site"). This statement informs you of Clear Channel's practices with respect to the collection, use, and disclosure of personal information. Personal information is information that allows us to contact you (such as e-mail address, home address, or telephone number) or other information that, when linked to your name or contact information, allows us to personalize your visit to our site by providing you with information that suits your interests. 
 
 Clear Channel is the owner of this website and retains all ownership rights to the information collected at this site. Clear Channel reserves the right to change, modify, add, or remove provisions of this Privacy Statement. Any changes to this Statement will be posted here, and we encourage you to check back from time to time.
 
@@ -90,10 +90,9 @@ Your Choices
 This Clear Channel site provides you the opportunity to opt-out of receiving e-mail communications from us and our special relationship partners. As explained above, if you choose not to provide us with information sought on registration or sign up forms, it is possible that you will not be able to access or use certain features of our site. If you do choose to opt-out of such e-mail communications, you may:
 
 · Modify your registered user information on our website; or  
-· Send an email to [ccinhelp@clearchannel.com.com](mailto:ccinhelp@clearchannel.com)   
-· Click [**HERE**](http://wyng-fm.hybrid.4mda.net/PHP_Preferences)
+· Send an email to [Clear Channel Radio Interactive Support](mailto:webservices@clearchannel.com)  
+· Click [**HERE**](https://web.archive.org/jacor-common/global_edit_user.html)
 
-  
 Access to Personal Information
 
 Clear Channel gives you the opportunity to modify or remove personal information that you have provided to us. You may do so by modifying your password-protected registered user information on our website. 
@@ -121,7 +120,7 @@ This site may contain links to other sites. We are not responsible for the priva
   
 Contacting the Website 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact [webservices@clearchannel.com](mailto:%20webservices@clearchannel.com). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact [Clear Channel Radio Interactive Support](mailto:%20webservices@clearchannel.com?subject=WYNG-FM%27s%20Privacy%20Statement%20Link). 
 
   
 EUROPEAN UNION AND OTHER FOREIGN NATIONS 
