@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610183058id_/http%3A//kennedy-center.org/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kennedy-center.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208203242id_/http%3A//www.kennedy-center.org/legal/privacy.html) for the most accurate reproduction.*
 
 # Kennedy Center: Privacy Statement
 
@@ -54,7 +54,7 @@ The Kennedy Center may update this policy at any time. We will notify you about 
 
 
 
-[Text-only](https://web.archive.org/text) | [Accessibility](https://web.archive.org/accessibility) | [Site Map](https://web.archive.org/sitemap) .  
+[Text-only](https://web.archive.org/text) | [Accessibility](https://web.archive.org/accessibility) | [Site Map](https://web.archive.org/sitemap)  
 [Privacy Statement](https://web.archive.org/legal/privacy.html) | [Copyright/Terms](https://web.archive.org/legal/copyright.html) | [Useful Tools](https://web.archive.org/tools)
 
   
