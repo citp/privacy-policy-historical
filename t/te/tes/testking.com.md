@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testking.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204070347id_/http%3A//www.testking.com/index.cfm%3Fpageid%3D723%26siteid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testking.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305030629id_/http%3A//www.testking.com/index.cfm%3Fpageid%3D723%26siteid%3D1) for the most accurate reproduction.*
 
 # Studying for Cisco CCNA, CCNP, CCIE 640-607, 350-001, 640-605, 640-901 exams? - TestKing
 
@@ -39,101 +39,119 @@ If we decide to change our privacy policy, we will post these changes on our hom
 
 |  |  |  |   
 ---  
+[Cisco](http://www.testking.com/certification-training-Cisco.htm)  
+[350-001](http://www.testking.com/350-001.htm)  
+[350-018](http://www.testking.com/350-018.htm)  
+[640-801](http://www.testking.com/640-801.htm)  
+[640-861](http://www.testking.com/640-861.htm)  
+[642-425](http://www.testking.com/642-425.htm)  
+[642-432](http://www.testking.com/642-432.htm)  
+[642-444](http://www.testking.com/642-444.htm)  
+[642-521](http://www.testking.com/642-521.htm)  
+[642-642](http://www.testking.com/642-642.htm)  
+[642-801](http://www.testking.com/642-801.htm)  
+[642-811](http://www.testking.com/642-811.htm)  
+[642-821](http://www.testking.com/642-821.htm)  
+[642-831](http://www.testking.com/642-831.htm)  
+[642-891](http://www.testking.com/642-891.htm)  
+[CCIE-LAB](http://www.testking.com/CCIE-LAB.htm)  
+[Citrix](http://www.testking.com/certification-training-Citrix.htm)  
+[1Y0-223](http://www.testking.com/1Y0-223.htm)  
+[CompTIA](http://www.testking.com/certification-training-CompTIA.htm)  
+[220-301](http://www.testking.com/220-301.htm)  
+[220-302](http://www.testking.com/220-302.htm)  
+[N10-002](http://www.testking.com/N10-002.htm)  
+[SY0-101](http://www.testking.com/SY0-101.htm)  
+[HP](http://www.testking.com/certification-training-HP.htm)  
+[HP0-725](http://www.testking.com/HP0-725.htm)  
+[ISC](http://www.testking.com/certification-training-ISC.htm)  
+[CISSP](http://www.testking.com/CISSP.htm)  
+[Microsoft](http://www.testking.com/certification-training-Microsoft.htm)  
+[70-210](http://www.testking.com/70-210.htm)  
+[70-215](http://www.testking.com/70-215.htm)  
+[70-216](http://www.testking.com/70-216.htm)  
+[70-217](http://www.testking.com/70-217.htm)  
+[70-218](http://www.testking.com/70-218.htm)  
+[70-219](http://www.testking.com/70-219.htm)  
+[70-228](http://www.testking.com/70-228.htm)  
+[70-229](http://www.testking.com/70-229.htm)  
+[70-270](http://www.testking.com/70-270.htm)  
+[70-271](http://www.testking.com/70-271.htm)  
+[70-284](http://www.testking.com/70-284.htm)  
+[70-290](http://www.testking.com/70-290.htm)  
+[70-291](http://www.testking.com/70-291.htm)  
+[70-292](http://www.testking.com/70-292.htm)  
+[70-293](http://www.testking.com/70-293.htm)  
+[70-294](http://www.testking.com/70-294.htm)  
+[70-296](http://www.testking.com/70-296.htm)  
+[70-297](http://www.testking.com/70-297.htm)  
+[70-298](http://www.testking.com/70-298.htm)  
+[70-299](http://www.testking.com/70-299.htm)  
+[70-300](http://www.testking.com/70-300.htm)  
+[Apple](https://web.archive.org/certification-training-Apple.htm)  
+[9L0-003](https://web.archive.org/9L0-003.htm) 3/1  
 [Cisco](https://web.archive.org/certification-training-Cisco.htm)  
-[350-001](https://web.archive.org/350-001.htm)  
-[642-801](https://web.archive.org/642-801.htm)  
-[642-811](https://web.archive.org/642-811.htm)  
-[642-821](https://web.archive.org/642-821.htm)  
-[642-831](https://web.archive.org/642-831.htm)  
-[640-801](https://web.archive.org/640-801.htm)  
-[642-577](https://web.archive.org/642-577.htm)  
-[642-052](https://web.archive.org/642-052.htm)  
-[642-342](https://web.archive.org/642-342.htm)  
-[CompTIA](https://web.archive.org/certification-training-CompTIA.htm)  
-[220-301](https://web.archive.org/220-301.htm)  
-[220-302](https://web.archive.org/220-302.htm)  
-[Microsoft](https://web.archive.org/certification-training-Microsoft.htm)  
-[70-284](https://web.archive.org/70-284.htm)  
-[70-297](https://web.archive.org/70-297.htm)  
-[70-281](https://web.archive.org/70-281.htm)  
-[70-282](https://web.archive.org/70-282.htm)  
-[70-210](https://web.archive.org/70-210.htm)  
-[70-216](https://web.archive.org/70-216.htm)  
-[70-215](https://web.archive.org/70-215.htm)  
-[70-217](https://web.archive.org/70-217.htm)  
-[70-270](https://web.archive.org/70-270.htm)  
-[70-218](https://web.archive.org/70-218.htm)  
-[70-292](https://web.archive.org/70-292.htm)  
-[70-296](https://web.archive.org/70-296.htm)  
-[70-290](https://web.archive.org/70-290.htm)  
-[70-291](https://web.archive.org/70-291.htm)  
-[70-293](https://web.archive.org/70-293.htm)  
-[70-294](https://web.archive.org/70-294.htm)  
-[70-285](https://web.archive.org/70-285.htm)  
-[Novell](https://web.archive.org/certification-training-Novell.htm)  
-[50-677](https://web.archive.org/50-677.htm)  
-[Cisco](https://web.archive.org/certification-training-Cisco.htm)  
-[642-642](https://web.archive.org/642-642.htm) 12/3  
-[642-352](https://web.archive.org/642-352.htm) 12/3  
-[642-342](https://web.archive.org/642-342.htm) 12/2  
-[640-801](https://web.archive.org/640-801.htm) 11/30  
-[350-018](https://web.archive.org/350-018.htm) 11/30  
-[646-202](https://web.archive.org/646-202.htm) 11/27  
-[642-531](https://web.archive.org/642-531.htm) 11/26  
-[642-831](https://web.archive.org/642-831.htm) 11/26  
-[642-801](https://web.archive.org/642-801.htm) 11/25  
-[642-432](https://web.archive.org/642-432.htm) 11/25  
-[642-811](https://web.archive.org/642-811.htm) 11/24  
-[642-511](https://web.archive.org/642-511.htm) 11/24  
+[642-452](https://web.archive.org/642-452.htm) 3/4  
+[642-052](https://web.archive.org/642-052.htm) 3/3  
+[350-001](https://web.archive.org/350-001.htm) 3/2  
+[350-018](https://web.archive.org/350-018.htm) 3/1  
+[640-801](https://web.archive.org/640-801.htm) 3/1  
+[642-443](https://web.archive.org/642-443.htm) 3/1  
+[642-444](https://web.archive.org/642-444.htm) 3/1  
+[642-143](https://web.archive.org/642-143.htm) 2/28  
+[642-891](https://web.archive.org/642-891.htm) 2/27  
+[642-811](https://web.archive.org/642-811.htm) 2/27  
+[642-801](https://web.archive.org/642-801.htm) 2/26  
+[646-102](https://web.archive.org/646-102.htm) 2/25  
 [Citrix](https://web.archive.org/certification-training-Citrix.htm)  
-[1Y0-913](https://web.archive.org/1Y0-913.htm) 12/2  
-[1Y0-721](https://web.archive.org/1Y0-721.htm) 11/23  
-[CIW](https://web.archive.org/certification-training-CIW.htm)  
-[1D0-430](https://web.archive.org/1D0-430.htm) 12/2  
-[1D0-420](https://web.archive.org/1D0-420.htm) 12/2  
+[1Y0-722](https://web.archive.org/1Y0-722.htm) 3/4  
+[1Y0-973](https://web.archive.org/1Y0-973.htm) 2/26  
 [CompTIA](https://web.archive.org/certification-training-CompTIA.htm)  
-[220-301](https://web.archive.org/220-301.htm) 11/19  
-[220-302](https://web.archive.org/220-302.htm) 11/19  
+[SK0-002](https://web.archive.org/SK0-002.htm) 2/22  
 [HP](https://web.archive.org/certification-training-HP.htm)  
-[HP0-002](https://web.archive.org/HP0-002.htm) 11/19  
+[HP0-725](https://web.archive.org/HP0-725.htm) 3/3  
+[HP0-620](https://web.archive.org/HP0-620.htm) 3/2  
+[HP0-680](https://web.archive.org/HP0-680.htm) 3/2  
+[HP0-500](https://web.archive.org/HP0-500.htm) 3/1  
+[IBM](https://web.archive.org/certification-training-IBM.htm)  
+[000-191](https://web.archive.org/000-191.htm) 3/3  
+[000-267](https://web.archive.org/000-267.htm) 3/3  
+[000-235](https://web.archive.org/000-235.htm) 2/26  
+[000-237](https://web.archive.org/000-237.htm) 2/26  
+[000-233](https://web.archive.org/000-233.htm) 2/25  
+[000-234](https://web.archive.org/000-234.htm) 2/25  
 [ISC](https://web.archive.org/certification-training-ISC.htm)  
-[CISSP](https://web.archive.org/CISSP.htm) 11/30  
-[Lotus](https://web.archive.org/certification-training-Lotus.htm)  
-[190-521](https://web.archive.org/190-521.htm) 11/28  
+[CISSP](https://web.archive.org/CISSP.htm) 3/1  
+[Juniper](https://web.archive.org/certification-training-Juniper.htm)  
+[JN0-303](https://web.archive.org/JN0-303.htm) 3/1  
+[LPI](https://web.archive.org/certification-training-LPI.htm)  
+[117-101](https://web.archive.org/117-101.htm) 2/22  
 [Microsoft](https://web.archive.org/certification-training-Microsoft.htm)  
-[70-271](https://web.archive.org/70-271.htm) 12/3  
-[70-299](https://web.archive.org/70-299.htm) 12/2  
-[70-301](https://web.archive.org/70-301.htm) 12/2  
-[MOS-O2K](https://web.archive.org/MOS-O2K.htm) 12/2  
-[70-227](https://web.archive.org/70-227.htm) 12/1  
-[70-290](https://web.archive.org/70-290.htm) 11/30  
-[70-292](https://web.archive.org/70-292.htm) 11/29  
-[70-214](https://web.archive.org/70-214.htm) 11/29  
-[70-284](https://web.archive.org/70-284.htm) 11/29  
-[70-215](https://web.archive.org/70-215.htm) 11/28  
-[70-272](https://web.archive.org/70-272.htm) 11/25  
+[70-310](https://web.archive.org/70-310.htm) 3/4  
+[70-292](https://web.archive.org/70-292.htm) 3/1  
+[70-299](https://web.archive.org/70-299.htm) 3/1  
+[70-284](https://web.archive.org/70-284.htm) 2/28  
+[70-290](https://web.archive.org/70-290.htm) 2/26  
+[70-291](https://web.archive.org/70-291.htm) 2/25  
+[70-316](https://web.archive.org/70-316.htm) 2/25  
+[70-224](https://web.archive.org/70-224.htm) 2/22  
+[70-306](https://web.archive.org/70-306.htm) 2/22  
+[70-297](https://web.archive.org/70-297.htm) Case Study 2/20  
+[70-300](https://web.archive.org/70-300.htm) Case Study 2/18  
+[Nortel](https://web.archive.org/certification-training-Nortel.htm)  
+[920-251](https://web.archive.org/920-251.htm) 3/4  
+[920-127](https://web.archive.org/920-127.htm) 3/4  
+[920-215](https://web.archive.org/920-215.htm) 3/4  
+[920-125](https://web.archive.org/920-125.htm) 3/3  
 [Novell](https://web.archive.org/certification-training-Novell.htm)  
-[50-688](https://web.archive.org/50-688.htm) 12/2  
-[50-665](https://web.archive.org/50-665.htm) 11/30  
-[50-684](https://web.archive.org/50-684.htm) 11/23  
+[50-683](https://web.archive.org/50-683.htm) 3/3  
+[50-688](https://web.archive.org/50-688.htm) 2/25  
 [Oracle](https://web.archive.org/certification-training-Oracle.htm)  
-[1z0-031](https://web.archive.org/1z0-031.htm) 11/19  
-Apple  
-9L0-505  
-Cisco  
-642-071  
-642-351  
-646-011  
-Citrix  
-1Y0-223  
-1Y0-973  
-1Y0-722  
-CompTIA  
-SK1-002  
-HP  
-HP0-536  
-HP0-645  
-Novell  
-50-686  
+[1z0-040](https://web.archive.org/1z0-040.htm) 2/23  
+[Sun](https://web.archive.org/certification-training-Sun.htm)  
+[310-090](https://web.archive.org/310-090.htm) 2/22  
+[310-081](https://web.archive.org/310-081.htm) 2/22  
+[Symantec](https://web.archive.org/certification-training-Symantec.htm)  
+[250-502](https://web.archive.org/250-502.htm) 3/1  
   
 [](http://www.certyourself.com/)
