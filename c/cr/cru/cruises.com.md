@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruises.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205114000id_/http%3A//www.mytravelco.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruises.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602150118id_/http%3A//www.mytravelco.com/about_us/privacy.asp) for the most accurate reproduction.*
 
 # mytravelco.com > About Us > Privacy Policy
 
@@ -10,7 +10,7 @@ mytravelco.com is committed to respecting your privacy. Our websites are designe
 This Online Privacy Statement regarding the privacy of the information you provide online covers five main areas: Awareness, Choice, Access & Accuracy, Security, and Oversight. 
 
 **Awareness**   
-mytravelco.com provides this Online Privacy Statement to inform you about our privacy policy and the practices and choices you can make about the way your information is collected and used. This notice may be accessed from any area of mytravelco.com'S web site. 
+mytravelco.com provides this Online Privacy Statement to inform you about our privacy policy and the practices and choices you can make about the way your information is collected and used. This notice may be accessed from any area of mytravelco.com's web site. 
 
 **What we collect**   
 On some mytravelco.com web pages, you can order travel services, make requests, and register to receive materials. The types of personal information collected at these pages are name, contact and billing information, transaction, and credit card information, and frequent flyer numbers. 
