@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602100208id_/http%3A//www.websitegoodies.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitegoodies.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204180444id_/http%3A//www.websitegoodies.com/privacy.shtml) for the most accurate reproduction.*
 
 # WebSiteGoodies - Privacy Policy
 
   
-|  |  [**Newsletter**](http://www.websitegoodies.com/newsletter)  
+|  |  [**SiteBuilderNews**](http://www.sitebuildernews.com/)  
 Subscribe to our FREE weekly ezine for website owners!  
 [**Web Directory**](http://www.websitegoodies.com/webdirectory)  
 A directory of resources by web developers for web developers; anything from learning HTML to tools for promoting your site.[ **Learn**](http://www.websitegoodies.com/learn)  
