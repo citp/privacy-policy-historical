@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601222428id_/http%3A//www.karmaloop.com/helpprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karmaloop.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008151417id_/http%3A//www.karmaloop.com/helpprivacy.asp) for the most accurate reproduction.*
 
-# Urban clothes Rave girl store Rave clothing store at Karmaloop
+# KARMALOOP.COM :: cool clothes, urban clothing, fashion clothing
 
 **PRIVACY POLICY ::**  
 Karmaloop collects customer information so that we can offer our valued customers the products that they want. We respect your privacy and assure you that we will maintain and use this information responsibly.
