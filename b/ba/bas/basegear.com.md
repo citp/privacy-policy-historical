@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the basegear.com privacy policy that was archived on 2002-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021022183940id_/http%3A//basegear.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basegear.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622173114id_/http%3A//basegear.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,7 +46,7 @@ All online transactions at Yahoo! Stores are handled with industry-standard 128-
 
 When you enter your credit card number into the order form, it is transmitted across the Internet in an encrypted (scrambled) form, then decoded when it gets to Yahoo!.
 
-For added security, Yahoo! also encrypts the credit card number when it is stored on disk, and when Yahoo! forwards it to BaseGear.com.
+For added security, Yahoo! also encrypts the credit card number when it is stored on disk, and when Yahoo! forwards it to BaseGear.com. In addition, your credit card number is permanently deleted from our database 30 days after the date you place your order. (We retain credit card numbers for 30 days in order to process any refunds, credits or exchanges.)
 
 According to CNN, "The prevalent opinion...is that on-line credit card use is actually no riskier for consumers than traditional 'low-tech' transactions."
 
@@ -62,7 +62,3 @@ Base Gear Company
 255 S Grand Ave Ste 815  
 Los Angeles, CA 90012-3038  
 [privacy@basegear.com](mailto:privacy@basegear.com)
-
- [](https://web.archive.org/web/20021022183940id_/http%3A//basegear.com/lnt.html)  
-We Support  
-[ Leave No Trace](https://web.archive.org/web/20021022183940id_/http%3A//basegear.com/lnt.html)
