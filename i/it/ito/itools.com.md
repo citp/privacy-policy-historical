@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itools.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013181053id_/http%3A//www.itools.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itools.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621105629id_/http%3A//www.itools.com/info/privacy) for the most accurate reproduction.*
 
 # iTools Privacy Statement
 
