@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geneseo.edu privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602202838id_/http%3A//www.geneseo.edu/perspectives/%3Fpg%3Ddisclaimer.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geneseo.edu privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204211652id_/http%3A//www.geneseo.edu/perspectives/%3Fpg%3Ddisclaimer.html%23privacy) for the most accurate reproduction.*
 
 # SUNY Geneseo
 
@@ -6,7 +6,7 @@
 
 This site is admininistered by Computing and Information Technology at the State University of New York at Geneseo.
 
-If you wish to report errors in this web site fill out the form [here](https://web.archive.org/web/20030602202838id_/http%3A//www.geneseo.edu/areas/?pg=contact.html).
+If you wish to report errors in this web site fill out the form [here](https://web.archive.org/web/20031204211652id_/http%3A//www.geneseo.edu/areas/?pg=contact.html).
 
 **Privacy Act Notice**  
 We collect no personal information about you when you visit this web site unless you choose to provide this information to us. However, certain information about site visitors is automatically collected and stored. SUNY Geneseo uses this information to create summary statistics for such purposes as assessing what information on the web site is of most and least interest, or identifying system performance or problem areas. The following is the type of information collected about your visit to our web site: the name of the Internet domain from which you access this site (for example, "aol.com" if you were connecting from America Online) and the date and time that you access this site.
