@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theonlineseller.com privacy policy that was archived on 2001-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010503104912id_/http%3A//www.theonlineseller.com/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonlineseller.com privacy policy that was archived on 2001-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011219184821id_/http%3A//www.theonlineseller.com/home/privacy.asp) for the most accurate reproduction.*
 
 # Auctiva - Powerful Solutions for Online Sellers!
 
