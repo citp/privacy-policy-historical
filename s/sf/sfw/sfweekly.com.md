@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sfweekly.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206040136id_/http%3A//www.sfweekly.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfweekly.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604014953id_/http%3A//sfweekly.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# SF Weekly | sfweekly.com | About
+# SF Weekly | sfweekly.com | About The Alternative San Francisco connection for events, event listings, music reviews, CD reviews, and all of the latest alternative news from the San Francisco, bay area.
 
 ****
 
