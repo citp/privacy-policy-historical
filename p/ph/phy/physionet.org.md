@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the physionet.org privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214062000id_/http%3A//www.physionet.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physionet.org privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409230423id_/http%3A//physionet.org/privacy.shtml) for the most accurate reproduction.*
 
 # PhysioNet Privacy Policy
-
-| 
 
 **Your privacy is important to us.** We do not collect personally identifiable information on our web site or otherwise unless you choose to give it to us via an electronic mail message, a phone call, or by postal mail. Even when you choose to give us such information, we keep it confidential. 
 
@@ -15,3 +13,13 @@ You may register as a member of PhysioNet if you use PhysioBank data or PhysioTo
 Members may post data, software, and commentary via PhysioNet (once these services are available), but all such postings are identified by the member's e-mail address (at a minimum; you may of course include other identifying information, such as a PGP signature, if you wish). 
 
 Our privacy policy is based on those adopted by [Computer Professionals for Social Responsibility](http://www.cpsr.org/) and by the [Privacy Rights Clearinghouse](http://www.privacyrights.org/). 
+
+Please e-mail your comments and suggestions to [ `webmaster@physionet.org`](mailto:webmaster@physionet.org?subject=http://www.physionet.org/privacy.shtml), or post them to: 
+
+_PhysioNet  
+MIT Room E25-505A  
+77 Massachusetts Avenue  
+Cambridge, MA 02139 USA  
+_
+
+Updated Thursday, 08 February 2001 at 22:29 EST 
