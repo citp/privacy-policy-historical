@@ -1,11 +1,19 @@
-> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2001-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010610072553id_/http%3A//www.commercebank.com/info/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercebank.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214132347id_/http%3A//commercebank.com/info/Privacy.html) for the most accurate reproduction.*
 
 # Commerce Bancshares, Inc. - Privacy Policy Notice
 
-[](https://web.archive.org/web/20010610072553id_/http%3A//www.commercebank.com/index.html)  
+[](https://web.archive.org/web/20011214132347id_/http%3A//commercebank.com/index.html)  
   
   
   
+[](https://web.archive.org/web/20011214132347id_/http%3A//commercebank.com/info/termsconditions.html)  
+
+
+[**Tips on how to avoid becoming a victim of identity theft**](https://web.archive.org/web/20011214132347id_/http%3A//commercebank.com/pdf/occ_identitytheft.pdf) **,  
+helpful information from the Office of the Comptroller of the Currency**
+
+ **[Official U.S. Govt. ID Theft Info](http://www.consumer.gov/idtheft/index.html) **
+
 |  | 
 
 **COMMERCE BANCSHARES, INC.  
