@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the myway.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206183309id_/http%3A//info.myway.com/index/id/privacy.html) for the most accurate reproduction.*
+
+# My Way - Privacy Policy
+
+We do not sell, rent or trade any personally identifiable information you provide when using the My Way website ("My Way"). We do not collect any personally identifiable information about you (such as your name or email address) when you use My Way unless you specifically decide to provide such information in order to enhance your My Way experience. If you choose to provide an email address as part of personalizing My Way, we will not send an email to you unless you specifically request an email response to a customer service inquiry or contact is required in order to protect someone's safety or to enforce our Terms of Service. You are not required to provide an email address to personalize My Way. When you visit My Way, we place a small text file -- called a "cookie" -- on your computer that allows us to identify your web browser. We use cookies to improve the quality of our service, and store your preferences and settings. Importantly, a cookie does not allow us to obtain any personally identifiable information (such as your real name and address) unless you have specifically provided such information as part of personalizing My Way.
+
+If My Way is ever sold or all or substantially all of the assets relating to My Way are transferred to another entity, we will transfer the information you have provided to the acquiring entity in order to ensure continuity of your personalized service. We recognize and welcome our obligation to comply with the law and this policy is subject to that obligation. We will, therefore, disclose personally identifiable information in response to a request from law enforcement officials or as otherwise required by law, or if we believe it is necessary to protect someone's safety, or enforce our Terms of Service. If we decide to materially change this privacy policy, we will prominently post those changes on this page.
+
+If you have any questions about this statement, feel free to contact us at 
+
+[privacy@help.myway.com](mailto:privacy@help.myway.com).
