@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the sportsline.com privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624010603id_/http%3A//www.sportsline.com/info/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsline.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209071142id_/http%3A//www.sportsline.com/info/about/privacy) for the most accurate reproduction.*
 
-# CBS.SportsLine.com - SportsLine.com
+# About SportsLine.com - CBS SportsLine.com
 
   |    
   |   |     
 SportsLine.com Privacy Policy  
+_Effective Date: October 1, 2003_  
 
 
 * * *
