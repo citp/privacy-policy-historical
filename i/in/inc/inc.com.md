@@ -1,143 +1,49 @@
-> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2000-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000303043318id_/http%3A//www.inc.com/about/privacy/0%2C4233%2CACT126%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206155000id_/http%3A//www.inc.com/about/privacy/0%2C%2C8%2C00.html) for the most accurate reproduction.*
 
 # small business planning and advice at inc.com
 
-**Inc. Online On Privacy**
+Inc.com is committed to maintaining the trust of our users. This statement explains how we collect information from you and what we do with it.
 
-Inc. Online knows you don't want the information you provide us shared indiscriminately. Here, we explain how we collect information, what we do with it, and what controls you have. 
+**_Information Requests_**
 
-**E-mail Addresses**   
-Inc. Online maintains two E-mail databases: the names of people to whom we send the Inc. Online newsletter, and the names of people to whom we send additional information about _Inc._ products. All registration forms throughout the Web site give visitors the option of choosing to be (or not to be) included on each of these lists. We do not collect E-mail addresses from bulletin boards or standard E-mail correspondence we receive. _Inc._ does not sell, trade, or otherwise share these E-mail addresses with outside organizations. Visitors may request to be removed from either list by sending an E-mail to remove@inc.com or online_feedback@inc.com. 
+Inc.com offers a variety of online resources. In order for you to make full use of the resources on our site, we ask you to provide some basic information.
 
-**Postal Addresses**  
-The postal addresses provided by visitors when they register with Inc. Online are occasionally used for mailings about _Inc._ products. _Inc._ does not sell, trade, or otherwise share addresses collected by Inc. Online with outside organizations. Visitors may request to be removed from the Inc. Online mailing list by sending an E-mail to [online_feedback@inc.com](mailto:online_feedback@inc.com). 
+When you sign up to receive an inc.com newsletter, you will be asked for your e-mail address.
 
-**Rental of the _Inc._ Magazine Subscriber List**  
-_Inc._ 's circulation department maintains its own list of names and addresses of subscribers to the magazine. Occasionally _Inc._ rents these names to outside companies. If you would like your name excluded from these mailings, go to [Subscription Inquiries](https://web.archive.org/about/subscriber_services/inquiries.html) in our Subscriber Services area, fill out your mailing address, then mark "I have an inquiry not listed above," and specify that you do not want your name promoted or sold. 
+If you wish to participate in other inc.com services, such as Discussions, QuickQuote, create a BizCard or to access free tools, you will be asked to register for My inc.com. You'll give us a user name, password and e-mail address so that you can use the personalized features on our site. 
 
-**Secure Credit-Card Transactions**  
-Some Inc. Online products and services require credit-card payment. All online credit-card transactions are done through a Netscape Secure Server using 40-bit SSL; you know you're on a "secure" page when the Web address starts with "https" (the "s" is for "secure"). Your credit-card information is used only to fill your order. 
+**_Promotions_**
 
-**Demographic Information**  
-Inc. Online's registration form asks visitors to provide optional demographic information about their companies. We use this information in the aggregate for internal analysis and to let advertisers know what kind of businesspeople use our Web site. Individual names and company details are not shared with outside companies. _Inc._ may in the future use this information to better target its mailings about _Inc._ products. 
+Unless you opt out, we may use you're My inc.com registration information to send you promotional materials that we think may interest you.
 
-**Passwords**  
-Certain areas of Inc. Online require a password for admittance. Access to the database of password names is limited to a small number of Inc. Online employees. 
+We do not provide or sell user names, e-mail addresses or registration information to any outside organization.
 
-**Cookies**  
-All visitors to Inc. Online are issued a cookie--a small text file that we place on visitors' hard drives. This controls how often visitors see similar ads, makes sure that once they've registered they're not asked to register again, and allows visitors to use the Customize Your View feature. 
+**_Shopping at inc.com_**
 
-Because almost all areas of Inc. Online are free and since most of our site's revenues come from advertising, the use of cookies to help manage our advertising system is crucial to us. We need cookies to monitor some of the information--such as how often ads are displayed to individual users--that keeps us in business. 
+Inc.com provides shopping services through the help of third-party vendors. We provide these vendors with certain information about you (e.g. your credit card number and street address) solely for the purpose of authorizing the transaction and processing and delivering your order. The transactions are carried out through a secure server using appropriate encryption in order to protect the security of this information.
 
-You may seem to get a lot of cookies when you come to our site. That's because the software we use to track our ads, NetGravity, attempts to send a single cookie to a user until that user accepts it. If the user keeps refusing, NetGravity will continue to try. 
+Any customer service rep who needs access to your credit card information in order to deal with your order will be bound by a confidentiality agreement that prohibits his or her disclosure of that information.
 
-Many of the fears people have about cookies are unfounded. If you don't specifically _tell_ a Web site your name or address, the site won't be able to find them through the cookie. Cookies are specific to the server that created them and _cannot_ be accessed by other servers--which means they can't be used to track your movements around the Web. They don't crash computers and they don't cause viruses. And cookies aren't forever: you can easily ditch any or all by going into your cookie file on your hard drive. Here's how: If you're on a PC and using Netscape, search for cookie.txt; from Internet Explorer, go to Preferences and under Receiving Files choose Cookies. You can then toss any or all of your cookies with impunity. 
+**_Cookies_**
 
-**IP Addresses**  
-Inc. Online logs the IP addresses of its visitors for internal analysis. 
+Cookies are small text files that most Web sites, including inc.com, place on your computer. Cookies help us identify your interests. They also prevent you from having to register repeatedly on inc.com or from repeatedly seeing the same ads.
 
-**. . . And a Few Final Things**  
+Cookies delivered to you through banner ads are collected by our advertisers. We don't have access to any specific information they may provide. Those serving banner ads on our site only provide us with information in aggregate form. No individual information is given to us. Inc.com is not able, and does not wish, to use cookies to track your activities on the Web outside of our site. No cookie delivered by us will interfere with the operation of your computer.
 
+**_Shared Information_**
 
-* In several clearly-marked places, Inc. Online has partnered with outside companies to provide visitors with direct access to these companies' services. Information you give these companies may be used by them in ways that are different from Inc. Online's policies; please review these companies' privacy practices if you are concerned. 
-* Marketers sometimes collect and use E-mail addresses that are posted by visitors at public forums such as the Inc. Online bulletin boards and Inc. Online's Create Your Own Web Site area. We can not control this. 
-* Marketers who are unaffiliated with either Inc. Online or its parent company, Goldhirsh Group, Inc., sometimes send out E-mails that falsely claim to have an _Inc._ return E-mail address. [Click here](https://web.archive.org/about/email.html) for more on our efforts against misuse of our E-mail address. 
+Except as described above or as expressly stated at the time you provide information to inc.com, inc.com does not provide individual information about you to others. We do, however, receive information on individual users from our partners, who have assured us that they will notify users of their sites that they do so. You should review the privacy policies of these partner sites in order to confirm the way in which they handle their users' information.
 
-  
-**Inc. Online** works hard to maintain the trust we've built with our loyal customers and users. Please E-mail any questions, concerns, or comments you have about these policies to [online_feedback@inc.com](mailto:online_feedback@inc.com). 
+In those instances where our sharing of information is expressly noted at the time you provide it, we may provide that information to those partners specified in the notice. The use of this information by that partner will then be subject to the partner's privacy policies.
 
-The Inc. Online Web site and databases are maintained by the staff of Inc. Online and Goldhirsh Group, Inc. at offices in Boston and New York. 
+Inc.com may share information gathered from its users, in aggregate form, with others such as advertisers or sponsors. No individual information is provided.
 
-Last updated: November 10, 1998
-**Inc. Online On Privacy**
+**_General Considerations_**
 
-Inc. Online knows you don't want the information you provide us shared indiscriminately. Here, we explain how we collect information, what we do with it, and what controls you have. 
+Inc.com cannot guarantee that the information you provide to us is completely safe, although we are careful to try to prevent problems. There may be technical problems beyond our control that may make it accessible to unauthorized persons. There also may be visitors to the site who gather and use information available there, such as that provided by you on your BizCard or in Discussions.
 
-**E-mail Addresses**   
-Inc. Online maintains two E-mail databases: the names of people to whom we send the Inc. Online newsletter, and the names of people to whom we send additional information about _Inc._ products. All registration forms throughout the Web site give visitors the option of choosing to be (or not to be) included on each of these lists. We do not collect E-mail addresses from bulletin boards or standard E-mail correspondence we receive. _Inc._ does not sell, trade, or otherwise share these E-mail addresses with outside organizations. Visitors may request to be removed from either list by sending an E-mail to remove@inc.com or online_feedback@inc.com. 
+If inc.com is acquired, our user information will be included among the assets transferred to the buyer in the sale. There also may be occasions on which inc.com is required to provide information by order of a court or when the law requires that user information be treated as a transferable asset, as in bankruptcy.
 
-**Postal Addresses**  
-The postal addresses provided by visitors when they register with Inc. Online are occasionally used for mailings about _Inc._ products. _Inc._ does not sell, trade, or otherwise share addresses collected by Inc. Online with outside organizations. Visitors may request to be removed from the Inc. Online mailing list by sending an E-mail to [online_feedback@inc.com](mailto:online_feedback@inc.com). 
+Internet-based commerce is dynamic and changing. We may change our privacy policy in the future in order to adjust to these changes. We recommend that you check it frequently.
 
-**Rental of the _Inc._ Magazine Subscriber List**  
-_Inc._ 's circulation department maintains its own list of names and addresses of subscribers to the magazine. Occasionally _Inc._ rents these names to outside companies. If you would like your name excluded from these mailings, go to [Subscription Inquiries](https://web.archive.org/about/subscriber_services/inquiries.html) in our Subscriber Services area, fill out your mailing address, then mark "I have an inquiry not listed above," and specify that you do not want your name promoted or sold. 
-
-**Secure Credit-Card Transactions**  
-Some Inc. Online products and services require credit-card payment. All online credit-card transactions are done through a Netscape Secure Server using 40-bit SSL; you know you're on a "secure" page when the Web address starts with "https" (the "s" is for "secure"). Your credit-card information is used only to fill your order. 
-
-**Demographic Information**  
-Inc. Online's registration form asks visitors to provide optional demographic information about their companies. We use this information in the aggregate for internal analysis and to let advertisers know what kind of businesspeople use our Web site. Individual names and company details are not shared with outside companies. _Inc._ may in the future use this information to better target its mailings about _Inc._ products. 
-
-**Passwords**  
-Certain areas of Inc. Online require a password for admittance. Access to the database of password names is limited to a small number of Inc. Online employees. 
-
-**Cookies**  
-All visitors to Inc. Online are issued a cookie--a small text file that we place on visitors' hard drives. This controls how often visitors see similar ads, makes sure that once they've registered they're not asked to register again, and allows visitors to use the Customize Your View feature. 
-
-Because almost all areas of Inc. Online are free and since most of our site's revenues come from advertising, the use of cookies to help manage our advertising system is crucial to us. We need cookies to monitor some of the information--such as how often ads are displayed to individual users--that keeps us in business. 
-
-You may seem to get a lot of cookies when you come to our site. That's because the software we use to track our ads, NetGravity, attempts to send a single cookie to a user until that user accepts it. If the user keeps refusing, NetGravity will continue to try. 
-
-Many of the fears people have about cookies are unfounded. If you don't specifically _tell_ a Web site your name or address, the site won't be able to find them through the cookie. Cookies are specific to the server that created them and _cannot_ be accessed by other servers--which means they can't be used to track your movements around the Web. They don't crash computers and they don't cause viruses. And cookies aren't forever: you can easily ditch any or all by going into your cookie file on your hard drive. Here's how: If you're on a PC and using Netscape, search for cookie.txt; from Internet Explorer, go to Preferences and under Receiving Files choose Cookies. You can then toss any or all of your cookies with impunity. 
-
-**IP Addresses**  
-Inc. Online logs the IP addresses of its visitors for internal analysis. 
-
-**. . . And a Few Final Things**  
-
-
-* In several clearly-marked places, Inc. Online has partnered with outside companies to provide visitors with direct access to these companies' services. Information you give these companies may be used by them in ways that are different from Inc. Online's policies; please review these companies' privacy practices if you are concerned. 
-* Marketers sometimes collect and use E-mail addresses that are posted by visitors at public forums such as the Inc. Online bulletin boards and Inc. Online's Create Your Own Web Site area. We can not control this. 
-* Marketers who are unaffiliated with either Inc. Online or its parent company, Goldhirsh Group, Inc., sometimes send out E-mails that falsely claim to have an _Inc._ return E-mail address. [Click here](https://web.archive.org/about/email.html) for more on our efforts against misuse of our E-mail address. 
-
-  
-**Inc. Online** works hard to maintain the trust we've built with our loyal customers and users. Please E-mail any questions, concerns, or comments you have about these policies to [online_feedback@inc.com](mailto:online_feedback@inc.com). 
-
-The Inc. Online Web site and databases are maintained by the staff of Inc. Online and Goldhirsh Group, Inc. at offices in Boston and New York. 
-
-Last updated: November 10, 1998
-The following explains how __ inc.com collects information from you and what we do with it.
-
-**
-
-Information Requests
-
-**
-
-You will need to register with inc.com™ in order to visit certain areas on the site and will be asked to provide your E-mail address if you wish to receive newsletters. You will also be asked for your E-mail address and other identifying information if you wish either to make purchases from inc.com or to contact any Solutions Provider. In addition, you will be asked for information that proves you are a subscriber to Inc. magazine if you wish to gain access through the site to the latest issue of the magazine.
-
-Inc.com may, unless you indicate otherwise, use member E-mail addresses to send additional information and product promotions. Inc.com also shares registration information with Solutions Providers and, in turn, receives information from them on transactions which you enter into with them. This information may be used to identify users to whom inc.com sends additional information and product promotions. Inc.com does not otherwise provide the identifying information we collect from you to third parties.
-
-Inc.com does not collect E-mail addresses of visitors to bulletin boards, from those who create BizCards, from those who correspond with us through E-mail, or from inc.com-hosted Web sites. Marketers unaffiliated with inc.com often collect E-mail addresses of those who choose to participate in public forums hosted by inc.com of those who create BizCards, but inc.com cannot control their doing so.
-
-Inc.com does collect information in aggregate form that we may provide to advertisers and others. If and when this is done, inc.com will not include any identifiable individual information. This compilation of data may be used for various internal business purposes and may be made available to members in the _Smart Statements_ they may receive. 
-
-**_
-
-Credit Card Transactions
-
-_**
-
-If you use your credit card to purchase products or services from inc.com, the transactions will be carried out through a secure server using 40-bit SSL. You will be able to tell that you are using a secure server for the transaction because the web address will begin with "https" (the added "s" indicates that the transaction is secure). Your credit card information will be used by us only to complete the transaction.
-
-**_
-
-Cookies
-
-_**
-
-All visitors to inc.com are issued a "cookie"—a small text file that inc.com places on your hard drive in order to prevent your repeatedly seeing the same ads or being asked to register more than once. Cookies are also used to authenticate your identity. We have asked Solutions Providers to issue a cookie to visitors who have been referred to them through the inc.com site. This will allow you to be recognized as an inc.com customer and enable each Solution Provider to monitor its transactions with inc.com customers and report that information to us.
-
-A cookie is specific to the server that delivered it and cannot be used by others to track your activities on the web. No cookie delivered by inc.com will interfere with the operation of your computer.
-
-**_
-
-Various
-
-_**
-
-We have endeavored to have Solutions Providers adopt appropriate privacy and security policies, but inc.com cannot control their actions or be responsible for their use of information that you provide to them. You should inform yourself concerning the privacy policy of each Solutions Provider with whom you deal. For a fuller description of their relationship with inc.com, click on [Solutions Provider](https://web.archive.org/about/business_relationships). For a disclaimer of inc.com’s responsibility for Solution Providers’ products, services and actions, see [Legal Disclaimers/Solutions Providers](https://web.archive.org/about/legal).
-
-inc.com has taken reasonable steps to limit the uses of information provided by you to those described in this Privacy Statement but it cannot guarantee that the information will be immune to exposure because of technical problems or the deliberate actions of unauthorized intruders into the Web site.
-
-inc.com is committed to maintain the trust of our users. If you have any questions or concerns about the privacy or security of any information that you have provided to inc.com, [contact us](https://web.archive.org/about/contact). 
+If you have questions or comments on this Privacy Statement, please ask or make them by clicking on [Contact Us](https://web.archive.org/about/contact/1,3830,,00.html).
