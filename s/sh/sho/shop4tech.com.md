@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2002-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020820195755id_/http%3A//www.shop4tech.com/cgi-bin/shop/shop.cgi%3Fhtml_requested%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop4tech.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202191955id_/http%3A//www.shop4tech.com/page50/category/Shop4Tech%2520Promises) for the most accurate reproduction.*
 
-# Shop4Tech: The lowest price on cd-r media and more!
+# Shop for Tech; Cdr, cd-r media, cd media, Nokia Face Plate, cd-r, Motorola Face Plate, Panasonic Battery, blank media, Nokia Battery, Nextel Battery, Nokia Case, Samsung Battery, Ericsson Battery, Nextel Case
 
-**Privacy Statement for shop4tech.com**
-
-Leda Multimedia Inc has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: shop4tech.com.
+Leda Multimedia Inc has created this privacy statement in order to demonstrate its firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: shop4tech.com. 
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart and to gather broad demographic information.
 
@@ -20,31 +18,39 @@ We run contests on our site in which we ask visitors for contact information (li
 
 **Security**
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. (*Please elaborate on the security measures that you have in place.)
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
 
 **Choice/Opt-Out**
 
 Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor.
 
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
+This site gives users the following options for removing their information from our database in order to be taken off our emailing list.
 
-  1. You can send email to [unsubscribe@shop4tech.com](mailto:unsubscribe@shop4tech.com)
-  2. You can visit the following URL: [http://www.shop4tech.com/unsubscribe.html](http://www.shop4tech.com/cgi-bin/cdb/cdb_unsubscribe.cgi)
-  3. You can send mail to the following postal address:  Leda Multimedia Inc (Optout) - 11700 East Slauson Avenue -Santa Fe Springs, CA, 90670 
-  4. You can call the following telephone number: 1-866-907-3626
+  * You can [click here](http://www.shop4tech.com/user.htm?go=remove) to unsubscribe
+  * You can send mail to the following postal address:   
+_Leda Multimedia Inc (Optout)  
+5185 Cliffwood Dr.   
+Montclair CA 91763_
+  * You can call the following telephone number: 1-866-907-3626
 
 
 
- **Correct/Update** This site gives users the following options for changing and modifying information previously provided. 
+**Correct/Update** This site gives users the following options for changing and modifying information previously provided.
 
-  1. email [support@shop4tech.com](mailto:support@shop4tech.com)
-  2. send mail to the following postal address:  Leda Multimedia Inc (Optout) - 11700 East Slauson Avenue -Santa Fe Springs, CA, 90670 
+  * email [support@shop4tech.com ](mailto:%20support@shop4tech.com)
+  * send mail to the following postal address:   
+_Leda Multimedia Inc (Optout)  
+5185 Cliffwood Dr.   
+Montclair CA 91763_
 
 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Paul Chou Leda Multimedia Inc 11700 East Slauson Avenue  Santa Fe Springs CA 90670 [webmaster@shop4tech.com](mailto:webmaster@shop4tech.com)   
-
+_Paul Chou  
+Leda Multimedia Inc   
+5185 Cliffwood Dr.   
+Montclair CA 91763_   
+[webmaster@shop4tech.com ](mailto:%20webmaster@shop4tech.com)
