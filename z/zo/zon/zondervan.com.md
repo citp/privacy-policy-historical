@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the zondervan.com privacy policy that was archived on 2002-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020123020225id_/http%3A//www.zondervan.com/desk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zondervan.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209182004id_/http%3A//www.zondervan.com/desk/privacy.asp) for the most accurate reproduction.*
 
 # Zondervan Privacy Policy
 
-Zondervan Publishing House (“Zondervan”) is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. Zondervan has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information (“PII”) we obtain from and about individuals located in the U.S. 
+Zondervan is part of the News America Group, which has adopted a set of [Privacy Principles](http://www.newscorp.com/privacy.html) applicable to all its U.S.-based companies. Zondervan has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information (“PII”) we obtain from and about individuals located in the U.S. 
 
 ## Children's Privacy Policy
 
-Some of our online activities are directed to children under 13. In those instances, we provide additional privacy protections. To read about our protections for children under 13 [click here](https://web.archive.org/web/20020123020225id_/http%3A//www.zondervan.com/desk/privacykids.asp).
+Some of our online activities are directed to children under 13. In those instances, we provide additional privacy protections. To read about our protections for children under 13 [click here](http://www.zondervan.com/desk/privacykids.asp).
 
 From time to time Zondervan may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. Therefore, you should review it periodically so that you are up to date on our most current policies and practices.
 
@@ -15,9 +15,11 @@ Collection of Personally Identifiable Information (“PII”) By Zondervan
 
 **General.** Zondervan collects personally identifiable information (“PII”; that is, information such as your full name, email address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, content or suggestions you submit to us, chats or bulletin boards, or because you want us to furnish you with products, services or information. On those occasions when we obtain PII from a third party, we use only reputable sources of such information.
 
-**Cookies.** Cookies are small bits of information that the operators of Internet sites place on the hard drive of your computer. Cookies remember information about your activities on the site and enable the operator of the site to make your visits to our web sites more enjoyable.
+**Cookies.**
 
-At this time, Zondervan does not employ any cookies on its sites. In the future, we plan to use cookies in a variety of ways, including storing your password for easy logon and relating your use of our site to your PII, so that, if you ask us to send you information about our upcoming products or promotions, the cookie information will allow us to limit the material we send you to the types of items you had viewed on our site in the past. However, if we wish to coordinate personal and cookie information in this manner, we will obtain your express prior consent (i.e., "opt in"). Also, our cookies will not contain PII.
+Cookies are small bits of information that the operators of Internet sites place on the hard drive of your computer. Cookies remember information about your activities on the site and enable the operator of the site to make your visits to our web sites more enjoyable.
+
+At this time, Zondervan employs cookies to keep track of your online session for personalization functionality, such as storing your password for easy logon. In the future, we plan to use cookies in a variety of ways, including relating your use of our site to your PII, so that, if you ask us to send you information about our upcoming products or promotions, the cookie information will allow us to limit the material we send you to the types of items you had viewed on our site in the past. However, if we wish to coordinate personal and cookie information in this manner, we will obtain your express prior consent (i.e., "opt in"). Also, our cookies will not contain PII.
 
 You can always program your computer to warn you each time a cookie is being sent or to refuse cookies completely.
 
@@ -60,8 +62,8 @@ Zondervan uses reasonable administrative, technical, personnel and physical meas
 ## Access:   
 How To Access, Correct or Delete Your PII
 
-You may review or delete PII about you from our records at anytime. If you would like to know the types of information that Zondervan collects from visitors to its web sites, please send your request to [zpub@zondervan.com ](https://web.archive.org/web/20020123020225id_/http%3A//www.zondervan.com/desk/zpub@zondervan.com)or:  
-Zondervan Publishing House  
+You may review or delete PII about you from our records at anytime. If you would like to know the types of information that Zondervan collects from visitors to its web sites, please send your request to [zpub@zondervan.com ](https://web.archive.org/web/20021209182004id_/http%3A//www.zondervan.com/desk/zpub@zondervan.com)or:  
+Zondervan  
 Attn: Internet Team   
 5300 Patterson SE  
 Grand Rapids, MI 49530  
@@ -72,7 +74,7 @@ Prior to changing or deleting any information about you, Zondervan requires that
 ## Remedies And Compliance:   
 How to Contact Zondervan About Privacy Concerns
 
-If you have any complaints about Zondervan's compliance with this Policy, have been unable to obtain, modify, delete, or prevent Zondervan from collecting, your PII, please contact [zpub@zondervan.com](https://web.archive.org/web/20020123020225id_/http%3A//www.zondervan.com/desk/zpub@zondervan.com).
+If you have any complaints about Zondervan's compliance with this Policy, have been unable to obtain, modify, delete, or prevent Zondervan from collecting, your PII, please contact [zpub@zondervan.com](https://web.archive.org/web/20021209182004id_/http%3A//www.zondervan.com/desk/zpub@zondervan.com).
 
 #####   
-©2000 Zondervan Corporation. All Rights Reserved. 
+©2000 Zondervan Corporation. All Rights Reserved.
