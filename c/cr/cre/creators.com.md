@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creators.com privacy policy that was archived on 2002-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021125062900id_/http%3A//creators.com/index2_privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creators.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622131453id_/http%3A//www.creators.com/index2_privacypolicy.html) for the most accurate reproduction.*
 
 # Creators.com - Creators Syndicate
 
