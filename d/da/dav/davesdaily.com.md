@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesdaily.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074101id_/http%3A//www.davesdaily.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesdaily.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403153823id_/http%3A//www.davesdaily.com/privacy.htm) for the most accurate reproduction.*
 
 # Funny News - Funny Stories - Strange and Bizarre News Stories and Funny Pictures
 
@@ -6,7 +6,7 @@
 
 We respect your privacy, and we want you to feel comfortable using the DavesDaily website. Therefore, we are providing you with this privacy policy so you can better understand how we collect information about you, what we do with your information, and who, other than DavesDaily.com may also receive your information.
 
-**Use of Information**
+**Use of Account Information - (http://www.davesdaily.com/signup.php)**
 
 Once we obtain your Information (through a newsletter subscription or account registration), it is added to a database used only by DavesDaily.com.
 
@@ -14,13 +14,17 @@ We may disclose your Information if we are required to do so by law or we in goo
 
 Other than as stated in this Privacy Policy, we will not release your Information to unknown or unaffiliated third parties.
 
-**Choice/Opt-Out**
+**Newsletter - Choice/Opt-Out (http://www.davesdaily.com/newsletter.htm)**
 
 The DavesDaily.com site provides users the opportunity to opt out of receiving communications from us.
 
 Users may unsubscribe from our email newsletter if they wish to no longer receive communications.
 
-You may unsubscribe from newsletter mailings at anytime by following the directions on the bottom of the e-mail sent to you or by contacting us direct for help. You may also manage your subscription at: http://www.davesdaily.com/bye.htm
+You may unsubscribe from newsletter mailings at anytime by following the directions on the bottom of the e-mail sent to you or by contacting us direct for help. You may also unsubscribe from the email newsletter at: http://www.davesdaily.com/bye.htm
+
+**Confessions - (http://www.davesdaily.com/confessions)**
+
+We do not collect any contact data from your confession. Your confession is submitted anonymous. All materials submitted by users to this web site, become the property of DavesDaily.com and are free of any claims of proprietary or personal rights. DavesDaily.com reserves the right to post or publish these materials at any time.
 
 **Changes to Our Privacy Policy**
 
