@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208180349id_/http%3A//www.lrn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lrn.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601110003id_/http%3A//www.lrn.com/privacy.html) for the most accurate reproduction.*
 
 # LRN Privacy Statement
 
@@ -60,7 +60,7 @@ Webmaster
 LRN, The Legal Knowledge Company  
 1100 Glendon Avenue, Suite 700  
 Los Angeles, California  90024  
-[webmaster@lrn.com](mailto:webmaster@lrn.com)
+[marketing@lrn.com](mailto:marketing@lrn.com)
 
 A citizen of a country within the European Union may also address any privacy-related questions or problems to the appropriate data protection authority in his or her E.U. member state.
 
