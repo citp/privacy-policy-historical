@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213225600id_/http%3A//www.imakenews.com//privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331215105id_/http%3A//www2.imakenews.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # iMakeNews - Privacy Policy
 
