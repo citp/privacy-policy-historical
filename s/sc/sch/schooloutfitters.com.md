@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602073403id_/http%3A//www.schooloutfitters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schooloutfitters.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203113845id_/http%3A//www.schooloutfitters.com/privacy.html) for the most accurate reproduction.*
 
 # SchoolOutfitters.com - Privacy policy
 
