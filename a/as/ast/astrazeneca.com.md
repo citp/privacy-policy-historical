@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202024855id_/http%3A//www.astrazeneca.com/node/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrazeneca.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610015841id_/http%3A//www.astrazeneca.com/node/Privacy.aspx) for the most accurate reproduction.*
 
-# AstraZeneca.com International
+# AstraZeneca International - Privacy policy
 
 This international website is provided by AstraZeneca. You can contact AstraZeneca by sending an email to the [Infomaster at AstraZeneca](http://www.astrazeneca.com/node/emailtriage.aspx). We take the privacy of our website users and the security of their personal information very seriously. For the purposes of data protection law, AstraZeneca UK Limited is the company that controls the processing of your personal data. 
 
