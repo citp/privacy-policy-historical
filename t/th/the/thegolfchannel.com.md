@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the thegolfchannel.com privacy policy that was archived on 2001-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011006044852id_/http%3A//www.thegolfchannel.com/core.asp%3Fpage%3D15100%26select%3D1297) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegolfchannel.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215153909id_/http%3A//www.thegolfchannel.com/core.asp%3Fpage%3D15100%26select%3D1297) for the most accurate reproduction.*
 
-# Welcome - Full Article Page
+# The Golf Channel - The Golf Channel - PGA, LPGA, Senior PGA, European Tour, Buy.com, Canadian Tour &
 
 **TGC - Privacy Policy**  
----  
-By TheGolfChannel.com Team - December 20, 2000  
-  
-  
+By TheGolfChannel.com Team - December 20, 2000
+
 TheGolfChannel.com's PRIVACY POLICY
 
-TheGolfChannel.com's policy is to respect and protect the privacy of our users. We want our users to be comfortable using our site. This policy statement tells you how we collect information from you and how we use it. 
+TheGolfChannel.com's policy is to respect and protect the privacy of our users. We want our Internet users to be comfortable using our site. This policy statement tells you how we collect information from you and how we use it. The following policy only applies to online activities on thegolfchannel.com Website, not to offline activities. 
 
 REGISTRATION
 
@@ -64,6 +62,14 @@ TheGolfChannel.com primarily uses cookies to track user trends and patterns. Thi
 Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of the TheGolfChannel.com service will not function properly if you refuse cookies. For example, without cookies, you will not be able to set personalized preferences or you may have difficulty completing shopping transactions, entering contests, or playing games.
 
 You may occasionally get cookies from our advertisers if you "click" on an advertisement that takes you from TheGolfChannel.com to the advertiser's website. TheGolfChannel.com does not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
+
+THIRD PARTY ADVERTISING
+
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to their site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy). 
+
+THIRD PARTY COOKIES
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 
 LINKS TO OTHER SITES
 
