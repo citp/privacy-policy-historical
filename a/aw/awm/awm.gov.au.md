@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202155319id_/http%3A//awm.gov.au/website/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611213239id_/http%3A//www.awm.gov.au/website/privacy.htm) for the most accurate reproduction.*
 
 # Australian War Memorial
 
