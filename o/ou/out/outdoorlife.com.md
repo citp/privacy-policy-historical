@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorlife.com privacy policy that was archived on 1999-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990508054022id_/http%3A//www.outdoorlife.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorlife.com privacy policy that was archived on 2000-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000531004837id_/http%3A//www.outdoorlife.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Field & Stream Online -- Hunting, Fishing and the Great Outdoors
 
