@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kazor.com privacy policy that was archived on 1999-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991104094145id_/http%3A//kazor.com/administration.htm/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kazor.com privacy policy that was archived on 2001-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010205054700id_/http%3A//kazor.com/administration.htm/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for kazor.com The World's Community Newspaper
 
@@ -36,7 +36,7 @@ This site gives users the following options for removing their information from 
 
   1. You can send email to [sales@kazor.com](mailto:sales@kazor.com)
   2. You can visit the following URL: <http://kazor.com/administration.htm/>
-  3. You can send mail to the following postal address:  PMB 108 - 1971 W. Lumsden Rd. Brandon, FL 33511 
+  3. You can send mail to the following postal address:  #1 Net Teck Center ~ Box 222 ~ Riverview, Florida 33568 
   4. You can call the following telephone number: 813 677 2689
 
 
@@ -47,7 +47,7 @@ This site gives users the following options for changing and modifying informati
 
   1. email [sales@kazor.com](mailto:sales@kazor.com)
   2. visit <http://kazor.com/administration.htm/>
-  3. send mail to the following postal address:  PMB 108 - 1971 W. Lumsden Rd. Brandon, FL 33511 
+  3. send mail to the following postal address:  #1 Net Teck Center ~ Box 222 ~ Riverview, Florida 33568 
   4. call the following telephone number: 813 677 2689
 
 
@@ -56,4 +56,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-Chris Kazor  Ybor City Telco  PMB 108  1971 W. Lumsden Rd.  Brandon,FL 33511  sales@kazor.com 
+Chris Kazor  Ybor City Telco  #1 Net Teck Center  Box 222  Riverview, Florida 33568  [sales@kazor.com](mailto:sales@kazor.com)
