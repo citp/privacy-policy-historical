@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202012000id_/http%3A//www.scitrav.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scitrav.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408104318id_/http%3A//www.scitrav.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Science Traveller International
 
@@ -33,8 +33,8 @@ If you have any questions about our website privacy or administration, please co
 ---|---  
 **Science Traveller International, Inc**  
 Privacy Administrator  
-331 Andover Park East, Suite #1018  
-Seattle, Washington 98188-7601, USA  
+13029 37th Avenue South / P.O. Box 69007  
+Seattle, Washington 98188, USA  
 Email: [info@scitrav.com](mailto:info@scitrav.com)  
 |  **Science Traveller International Pty. Ltd.**  
 Privacy Administrator  
