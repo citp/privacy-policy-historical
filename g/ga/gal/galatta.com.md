@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the galatta.com privacy policy that was archived on 2000-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000823105154id_/http%3A//www.galatta.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galatta.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604055247id_/http%3A//www.galatta.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statements
 
@@ -54,4 +54,4 @@ Our site provides users the opportunity to opt-out of receiving communications f
 If you have any questions about this privacy statement, the practices of this site or your dealings with this Web Site, you can contact  
 Webmaster Galatta.com   
 DOT COM INFOWAY Pvt. Ltd.  
-[](mailto:webmaster@galatta.com)[](mailto:webmaster@galatta.com)[webmaster@galtta.com](mailto:webmaster@galatta.com)
+[](mailto:webmaster@galatta.com)[](mailto:webmaster@galatta.com)[webmaster@galatta.com](mailto:webmaster@galatta.com)
