@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolworths.com.au privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206215632id_/http%3A//www.woolworths.com.au/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolworths.com.au privacy policy that was archived on 2003-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030408231850id_/http%3A//www.woolworths.com.au/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
