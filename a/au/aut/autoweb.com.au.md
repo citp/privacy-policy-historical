@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoweb.com.au privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610193923id_/http%3A//www.autoweb.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoweb.com.au privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209101846id_/http%3A//www2.autoweb.com.au/privacy.html) for the most accurate reproduction.*
 
 # AutoWeb - Your Online Guide to Buying and Selling New and Used Cars
 
@@ -24,7 +24,7 @@ When you visit our web site our web server automatically logs certain non-person
 
 Personally identifiable information we collect from you is used to fulfil the service you have requested from us such as a purchase or an enquiry. If the information is to be used for any other purpose this use will be clearly stated at the time we collect the information. If the information provided is not necessary to fulfil the service completion of the details will be optional.
 
-Fulfilment of the service may require your personally identifiable information to be provided to a third party such as the provider of the service, supplier of a product or the goods carrier in the case of a purchase and Autobytel.com.au and the relevant car dealer in the case of new and used vehicle enquiries. We require that these parties protect your information in the same manner that we do.
+Fulfilment of the service may require your personally identifiable information to be provided to a third party such as the provider of the service, supplier of a product or the goods carrier in the case of a purchase and Drive.com.au and the relevant car dealer in the case of new and used vehicle enquiries. We require that these parties protect your information in the same manner that we do.
 
 #### Third Party Advertising
 
