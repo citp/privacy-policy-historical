@@ -1,15 +1,12 @@
-> *The following text is extracted and transformed from the azfcu.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610020024id_/http%3A//www.azfcu.org/about_afcu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azfcu.org privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205201105id_/http%3A//www.azfcu.org/index/privacy.html) for the most accurate reproduction.*
 
 # Arizona Federal - Privacy Policy
 
-**Arizona Federal Credit Union  
-Privacy Policy and Agreement**
-
 **General Definitions.**
 
-The words **"you"** and **"your(s)"** mean every person that signs any Account Application or is authorized to make transactions regarding your account(s), including any account service(s). " **We** , **" "us** ," or **"our"** means the credit union. 
+The words "you" and "your(s)" mean every person that signs any Account Application or is authorized to make transactions regarding your account(s), including any account service(s). "We," "us," or "our" means the credit union. 
 
-At Arizona Federal Credit Union we recognize that our relationships with our members are based on trust. As a member, you trust us with your financial and other personal information, and we are committed to respecting your privacy and safeguarding that information. We pledge to protect your privacy by adhering to the practices described in this section. 
+At Arizona Federal we recognize that our relationships with our members are based on trust. As a member, you trust us with your financial and other personal information, and we are committed to respecting your privacy and safeguarding that information. We pledge to protect your privacy by adhering to the practices described in this section. 
 
 **1\. The Types of Information We Collect.**
 
@@ -33,4 +30,7 @@ Except where expressly required by applicable law, we will provide all notices t
 
 **5\. Modification.**
 
-The Credit Union reserves the right to modify, change or amend this Privacy Policy and Agreement at any time without notice other than as expressly required by applicable law. 
+The credit union reserves the right to modify, change or amend this Privacy Policy and Agreement at any time without notice other than as expressly required by applicable law.
+
+Back to top ››  
+
