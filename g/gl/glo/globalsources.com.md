@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206002110id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsources.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202070943id_/http%3A//www.globalsources.com/HELP/PRIVACY.HTM) for the most accurate reproduction.*
 
 # Global Sources Online - Privacy Policy
 
 | **Privacy Policy**  
 | **Collection of information**
 
-When you visit our website, we do not collect personally identifiable information about you except when you specifically and knowingly provide it. For instance, while many areas of our website are free to all users, we do require registration for some services such as Product Alert. If you decide to register for these services, or if you request information from us, you will be asked to provide basic contact information, including your name, company, title, country and e-mail address. Any additional information, such as industry and average transaction size, is provided on a purely voluntary basis. The information you provide helps us create customized content. You will receive current information only for the products that interest you. To see how this works, view a sample of Product Alert in [text format ](https://web.archive.org/HELP/1STAND.HTM) or [html format](https://web.archive.org/HELP/PA_EMAIL.HTM). 
+When you visit our website, we do not collect personally identifiable information about you except when you specifically and knowingly provide it. For instance, while many areas of our website are free to all users, we do require registration for some services such as Product Alert. If you decide to register for these services, or if you request information from us, you will be asked to provide certain information and details, including your name, company, title, country and e-mail address. The information you provide helps us create customized content. You will receive current information only for the products that interest you. To see how this works, view a sample of Product Alert in [text format ](https://web.archive.org/HELP/1STAND.HTM) or [html format](https://web.archive.org/HELP/PA_EMAIL.HTM). 
 
 Our system also logs some basic and generic information about your computer, including its: 
 
