@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 1999-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991127163710id_/http%3A//www.installshield.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the installshield.com privacy policy that was archived on 2000-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000609104111id_/http%3A//www.installshield.com/privacy/default.asp) for the most accurate reproduction.*
 
 # InstallShield Software Corporation: Leading Installation Development Tools
 
@@ -29,14 +29,14 @@ Information generated from our Web site may be used as aggregate data or to iden
 
 InstallShield will not release, sell, barter, or trade any individual or personal information you provide to us to any entities or individuals outside of InstallShield or authorized InstallShield partners and resellers, except in aggregate (anonymous) form. When information is provided in aggregate form, all identifiers are stripped out first. Certain affiliates, as a condition of transacting the business of InstallShield, will be provided with user information if necessary. 
 
-Credit card information is never used by InstallShield for purposes other than processing an order nor shared with any outside party. All credit card information is purged from the company database immediately following the transaction of any business that may require this information. 
+Credit card information is never used by InstallShield for purposes other than processing an order nor shared with any outside party. 
 
 **Visitor's control of their information**
 
 InstallShield or one of our InstallShield authorized partners or resellers may choose to send users information, such as product updates at any time. Should users wish not to be included in e-mail subscriptions, they must contact the company directly by phone or by visiting www.installshield.com/news/unsubscribe.asp. 
 
 **Relevant other topics: cookies, security measures, and protection of credit card data**  
-The InstallShield corporate Web site does not currently use cookies, but it may elect to do so at anytime. For your information, cookies are very small text files, usually just a few lines, so they will have minimal impact on hard drive space. Cookies are non-executable files; therefore known viruses cannot be run from them. 
+Cookies are very small text files, usually just a few lines, so they will have minimal impact on hard drive space. Cookies are non-executable files; therefore, known viruses cannot be run from them. Cookies do allow us to ease the process of filling out forms on InstallShield.com 
 
 InstallShield values the security of the information you submit. The company has taken steps to ensure the security of the personally identifiable data and ordering information you submit by encrypting each sensitive transmission with secure socket layer (SSL) technology. 
 
