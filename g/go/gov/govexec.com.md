@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 1999-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991013233322id_/http%3A//govexec.com/aboutge/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 2000-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000612091537id_/http%3A//www.govexec.com/aboutge/privacy.htm) for the most accurate reproduction.*
 
 # GovExec.com's Privacy Policy
 
