@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcashcard.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205031526id_/http%3A//globalcashcard.com/products/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcashcard.com privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406043949id_/http%3A//www.globalcashcard.com/products/privacy.asp) for the most accurate reproduction.*
 
 # :: World Processing, LTD. -- Global Cash Card :: Privacy Policy
 
