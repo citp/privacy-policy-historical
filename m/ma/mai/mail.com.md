@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216205932id_/http%3A//mymail.mail.com/templates/common/us/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206050553id_/http%3A//mymail.mail.com/templates/common/us/privacypolicy.htm) for the most accurate reproduction.*
 
 # mail.com
 
