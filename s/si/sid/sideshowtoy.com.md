@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sideshowtoy.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208034533id_/http%3A//www.sideshowtoy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sideshowtoy.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413164652id_/http%3A//www.sideshowtoy.com/cgi-bin/category.cgi%3Fcategory%3Dprivacy) for the most accurate reproduction.*
 
-# Sideshow Toy, Inc. - Privacy Statement
-
-**Privacy Statement**
+# Sideshow Collectibles, Inc. -
 
 **Information Collection and Use:**
 
