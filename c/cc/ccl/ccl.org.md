@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204020000id_/http%3A//www.ccl.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405041633id_/http%3A//www.ccl.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Center for Creative Leadership
 
@@ -52,6 +52,8 @@ This site gives users the following three options for removing their information
   * Call the following telephone number: **336-545-2810**
 
 
+
+To remove your email address from our electronic newsletters, please visit the the [Newsletter Account Management](https://web.archive.org/web/20010405041633id_/http%3A//www.ccl.org/newsm.htm) page.
 
 **Correct/Update  
 **This site gives users the following three options for changing and modifying information previously provided.
