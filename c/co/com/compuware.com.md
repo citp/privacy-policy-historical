@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606035729id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205010331id_/http%3A//www.compuware.com/corporate/602_ENG_HTML.htm) for the most accurate reproduction.*
 
 # Compuware Corporation - Our Commitment to Privacy
 
@@ -28,7 +28,9 @@ You may visit the web site without disclosing any personally identifiable inform
 
 **General:** Compuware will record and collect information about how you may use the site. This may include such data as a domain name, language, type of browser and operating system, Internet Service Provider, Internet protocol (IP) address, the web site from which you arrived at the site, and the amount of time spent on the site.   Compuware may monitor and use usage data in aggregated form to measure the web site’s performance and activity and improve the web site’s design and functionality. Compuware may also use usage data in aggregated form to develop, and distribute to third parties, statistical and general information about how the web site is used for other marketing purposes. Compuware may also use usage data in non-aggregated form to investigate and prosecute security violations.
 
-**Compuware online communications:** Compuware will use personally identifiable data to communicate special promotions, events and announcements.  Should you wish not to receive promotional material from Compuware, you are offered the option to opt-out from future communications.
+**Compuware online communications:** Compuware will use personally identifiable data to communicate special promotions, events and announcements. This information may be used for the purpose of providing you with products or services you have requested, servicing you, improving our services, developing and/or informing you of additional products or services provided by Compuware. Should you wish not to receive promotional material from Compuware, you are offered the option to opt-out from future communications.
+
+Please note that we do not knowingly solicit information from children and we do not knowingly market our products and services to children.
 
 **Information sharing and disclosure:** At times it may be necessary for Compuware to share personally identifiable information with third-party service providers. A nondisclosure statement will be executed to ensure confidentiality and to restrict the use of personal data in third-party service provider situations, including but not limited to:
 
@@ -48,8 +50,7 @@ A "cookie" is a small file that your web browser places on your computer's hard 
 
 **DoubleClick:** Compuware uses pixels, or transparent GIF files, to help manage online advertising. These .GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your web browser, which in turn enables us to learn which advertisements bring users to our web site. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or e-mail address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>.
 
-**Rejecting cookies:** You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site, however you will not be able to utilize advanced features. When using Compuware online technical support sites, rejecting cookies will prohibit you from utilizing the support options.  
-[](https://web.archive.org/corporate/602_ENG_HTML.htm)
+**Rejecting cookies:** You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.[](https://web.archive.org/corporate/602_ENG_HTML.htm)
 
 ## Opt-out 
 
