@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216052956id_/http%3A//npdor.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npdor.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604030250id_/http%3A//npdor.com/Privacy.asp) for the most accurate reproduction.*
 
 # NPDOR - Privacy Statement
 
