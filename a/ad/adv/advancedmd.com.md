@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedmd.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611050734id_/http%3A//advancedmd.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedmd.com privacy policy that was archived on 2004-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040802224120id_/http%3A//www.advancedmd.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
