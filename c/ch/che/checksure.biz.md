@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207210902id_/http%3A//www.checksure.biz/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checksure.biz privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624164610id_/http%3A//www.checksure.biz/privacy.htm) for the most accurate reproduction.*
 
-# Privacy for checkSURE credit check
+# Privacy Policy
 
 Version 1.1 June 2002
 
@@ -58,3 +58,6 @@ Should you wish to have your information updated or corrected, you may either ac
 **Updates to Privacy Policy**
 
 We may update this Policy at any time without notice. Updates will be marked with a new edition number and dated accordingly. You agree to be bound by the Policy then in force as it appears on our website.
+
+back to top   
+
