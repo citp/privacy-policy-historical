@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skynews.com.au privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610005655id_/http%3A//www.skynews.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skynews.com.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205020033id_/http%3A//www.skynews.com.au/privacy.htm) for the most accurate reproduction.*
 
 # Sky News Australia [Privacy Policy]
 
@@ -87,7 +87,7 @@ Sometimes our website contains links to other websites, for your convenience and
 
 Sky News may change its Privacy Policy at any time. We will make this Privacy Policy available to anyone who requests it, either at our offices or through our website. 
 
-For further information about privacy issues and the protection of privacy visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](https://web.archive.org/web/20030610005655id_/http%3A//www.skynews.com.au/redirect.asp?URL=http://www.privacy.gov.au).
+For further information about privacy issues and the protection of privacy visit the Australian Federal Privacy Commissioner's website at [www.privacy.gov.au](https://web.archive.org/web/20031205020033id_/http%3A//www.skynews.com.au/redirect.asp?URL=http://www.privacy.gov.au).
 
 If you feel that Sky News is not complying with this Privacy Policy, or if you have other privacy concerns, please contact our Privacy Officer (using the following contact details): 
 
