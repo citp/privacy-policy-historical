@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lambgoat.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209073957id_/http%3A//www.lambgoat.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lambgoat.com privacy policy that was archived on 2004-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040421085603id_/http%3A//lambgoat.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement // About Us // Lambgoat
 
