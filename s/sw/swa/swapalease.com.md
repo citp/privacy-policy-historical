@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204111730id_/http%3A//swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swapalease.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403102626id_/http%3A//swapalease.com/help_files/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
 **SWAPALEASE INC. PRIVACY STATEMENT  
 **EFFECTIVE ON: 5/19/2004** **  
 ---  
-| [](http://www.truste.org/ivalidate.php?url=www.swapalease.com) |  Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Swapalease.com of Swapalease Inc.'s Website.  
+| [](https://www.truste.org/validate/8927) |  Swapalease Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Swapalease.com of Swapalease Inc.'s Website.  
 ---|---  
 TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this web site has agreed to notify you of: 
 
@@ -19,12 +19,7 @@ TRUSTe is an independent, non-profit organization whose mission is to build user
 
 
 
-**If you feel that this company is not abiding by its posted privacy policy, you should first contact Scot Hall, of the Swapalease Client Services Department by emailing Mr. Hall at[shall@swapalease.com](mailto:shall@swapalease.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at 
-
-<http://truste.org/consumers/watchdog_complaint.php?>
-
-TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
+**If you feel that this company is not abiding by its posted privacy policy, you should first contact Scot Hall, of the Swapalease Client Services Department by emailing Mr. Hall at[shall@swapalease.com](mailto:shall@swapalease.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/watchdog.html>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.  
 **  
   
 **Information Collection and Use  
@@ -38,7 +33,7 @@ _Lease "Seller's" Perspective:_
 In order to list a leased vehicle on this website, a user must first complete the required listing sections. During registration a user is required to provide sensitive information (such as social security number and credit card number including expiration date), in addition to contact information (such as name and email address), and demographic information (such as zip code). This information is principally used for verification of lease account information from a particular leasing company and the collection of any listing fee due Swapalease Inc.. Secondarily, this data is used for contacting the user as well as making the sight more personalized for a particular user.
 
 _Lease "Buyer's" Perspective:_  
-We request information from the user on our credit statement form. Here a user must provide sensitive information (such as social security number and credit card number including expiration date), in addition to contact information (such as name and email address), and demographic information (such as income and age level). This information is primarily used for credit assessment purposes and collection of processing fees specifically pertaining to the lease transfer process. Creditors receiving this information will retain the user’s application whether or not it is approved and will handle this information in accordance with their privacy policy. Secondarily, this data is used for contacting the user as well as making the site more personalized for a particular user.
+We request information from the user on our credit statement form. Here a user must provide sensitive information (such as social security number and credit card number including expiration date), in addition to contact information (such as name and email address), and demographic information (such as income and age level). This information is primarily used for credit assessment purposes and collection of processing fees specifically pertaining to the lease transfer process. Creditors receiving this information will retain the user's application whether or not it is approved and will handle this information in accordance with their privacy policy. Secondarily, this data is used for contacting the user as well as making the site more personalized for a particular user.
 
 Regardless, of your perspective when using the Swapalease Inc. web site you have probably noticed that blue question marks exist on many of the data entry pages. These icons linked with help pages are provided to explain why certain sensitive information is requested and necessary to complete Swapalease, Inc. transactions.  
   
