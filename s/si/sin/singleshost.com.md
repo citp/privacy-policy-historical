@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the singleshost.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202213636id_/http%3A//singleshost.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the singleshost.com privacy policy that was archived on 2004-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040210171912id_/http%3A//singleshost.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy singleshost.com
 
 Our foremost concern is to protect your privacy and provide a safe online experience for everyone. This privacy policy concerns the information collected through the singleshost.com website. It is designed to help visitors understand what kind of information we collect from our sites, and how we deal with this information once we gather it.
 
