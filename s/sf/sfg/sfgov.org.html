@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sfgov.org privacy policy that was archived on 2003-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030622050642id_/http%3A//www.sfgov.org/site/mainpages_index.asp%3Fid%3D37) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sfgov.org privacy policy that was archived on 2003-08-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030811083941id_/http%3A//sfgov.org/site/mainpages_index.asp%3Fid%3D37) for the most accurate reproduction.-->
 
 <html><head>
 <title>San Francisco SFGov: Privacy Policy</title>
@@ -45,6 +45,18 @@ function activateFrame(obj, htm_str) {
 
 <script language="JavaScript" type="text/javascript">
 <!--
+function jump(which) {
+    var menu = which;
+    var url = menu.options[menu.selectedIndex].value;
+    eval("window.location ='" + url + "'");
+}
+
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+
 function getEmail(eaddress,ccAddress) {
 document.contactUs.submit_to.value = eaddress
 if (ccAddress) {
@@ -90,6 +102,136 @@ document.searchForm.submit();
 
 </script>
 
+<script language="JavaScript" type="text/javascript">
+<!--
+
+function checkAddressInput() {
+
+	var checkString = document.address.fulladdress.value
+	
+	if (checkString) {
+		chSpace1 = checkString.charAt(0)
+	
+		if (chSpace1 == " ") {
+		alert("You have a space at the beginning of your address.\nPlease delete it.")
+		return false;
+		}
+	count = 0; 
+	var stnumber
+	var street
+	var chFirst
+	var chLast
+	
+	
+	//parse the string first make sure there's no spaces at the beginning
+	
+	
+	
+	
+	//if we there's no spaces, parse and check
+	splitString = checkString.split(" ")
+	stnumber = splitString[0]
+	street = splitString[1]
+	last = splitString[2]
+	
+	//make an array of impermissiable street names
+
+	var streetArray = new Array(11)
+	streetArray[0] = "Ave"
+	streetArray[1] = "AVE"
+	streetArray[2] = "AVENUE"
+	streetArray[3] = "Avenue"
+	streetArray[4] = "St"
+	streetArray[5] = "ST"
+	streetArray[6] = "Street"
+	streetArray[7] = "STREET"
+	streetArray[8] = "BLVD"
+	streetArray[9] = "Blvd"
+	streetArray[10] = "Boulevard"
+	
+	
+	
+	
+	//regular expressions to match
+	number = new RegExp()
+	letter = new RegExp()
+	
+	number = /\d/
+	letter = /[a-zA-Z]/
+	
+	//loop through the street array
+if (last) {
+	for (i = 0; i < streetArray.length; i++) {
+		if(last == streetArray[i]) {
+		alert("Please don't enter the street type "+last+" after the street name.")
+		return false;
+		}
+	
+	}
+
+   //check for a period in last place which would indicate street abbrev
+   chLast = last.charAt(last.length-1)
+   if (chLast == ".") {
+   alert("Please don't enter the street type "+last+" after the street name.")
+		return false;
+   }
+}  
+
+if (street) {
+        chFirst = street.charAt(0)
+		chLast = street.charAt(street.length-1)
+        // ENSURE CHARACTER IS AN ALPHA OR NUMERIC CHARACTER
+		
+        if (chLast.match(number)) {
+		
+		
+		alert("Please be sure to include complete names for numbered streets and avenues.\n" +
+		"For example, 1ST, 2ND, 3RD, 4TH will yield results\n" +
+		"\nAlso, FOURTH, FIFTH will not yield the results desired.")
+		
+		return false;
+        
+    	}
+}		
+	newString = ""
+	
+
+    // check to make sure streetno is a number
+    for (i = 0; i < stnumber.length; i++) {
+        ch = stnumber.substring(i, i+1);
+
+        // ENSURE CHARACTER IS AN ALPHA OR NUMERIC CHARACTER
+        if ((ch >= "0" && ch <= "9") || (ch == ".")){
+
+            newString += ch;
+			
+        }
+    }
+
+    if (stnumber != newString) {
+      alert("You can only use numbers for street addresses.\nLetters and other punctuation including spaces is not allowed.")
+        // no submission til fixed!
+       return false;
+     }
+	else {
+	return true;
+	}
+ 
+}}
+
+
+// for dropdown menus
+function menujump(item) {
+    var url = item.options[item.selectedIndex].value;
+    if(url.length > 0) {
+	   window.location = url;
+	}
+}
+
+
+//-->
+</script>
+
 <meta keywords="City and County of San Francisco, San Francisco, Bridging government and citizens through technology, city departments, community resources, San Francisco government, San Francisco, CCSF, city meetings, legislation, reports, visitor information, City of San Francisco, Muni, Board of Supervisors, Mayor, Ethics Commission, Film Commission, Health Commission, Housing Authority, Human Rights Commission, Human Services, County of San Francisco, Asian Art commission, Commission on the Status of Women, Environment, Planning, Police, Purchasing, Port of San Francisco, PUC, Public Utilities, Redevelopment Agency, Rent Board, Small Business Advisory Commission, Transportation Authority, City Hall, Youth Commission, Meeting agendas, San Francisco Home Page, SF municipal government.">
 <meta description="SFGOV is the official website of the government of the City and County of San Francisco, providing information about departments, meetings, legislation, regulations, and community resources.">
 <meta search="mainpages">
@@ -131,8 +273,7 @@ document.searchForm.submit();
         <a href="javascript:queryString()" class="top-nav">go !</a> </td>
     
   </tr>
-</tbody></table>
-<!-- /Header Zone -->
+</tbody></table><!-- /Header Zone -->
 <table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top">
 <table border="0" width="560" cellspacing="0" cellpadding="0" align="left">
 <tbody><tr><td align="left" colspan="2"><font class="breadcrumb"></font></td></tr>
@@ -174,8 +315,6 @@ The City and County of San Francisco uses link and search capabilities to naviga
 <br>
 <font class="heading2">Site Security</font><br>
 We monitor network traffic to identify unauthorized attempts to upload or change information or to otherwise cause damage to the site. Anyone using this Web site expressly consents to such monitoring.<p></p>
-
-
 <!-- /CONTENT -->
 
 </td></tr></tbody></table>
@@ -193,7 +332,6 @@ We monitor network traffic to identify unauthorized attempts to upload or change
 
 
       <img src="/images/ctyseal.gif" border="0" alt="City Seal" height="125" width="124">
-
 <!-- /RIGHT COLUMN -->
 </td></tr></tbody></table>
 <!-- Footer -->
@@ -204,10 +342,10 @@ We monitor network traffic to identify unauthorized attempts to upload or change
     <td width="500">
 	<img src="/images/spacer.gif" width="1" height="20" alt="" border="0"><br><img border="0" src="/images/footerrule.gif" width="447" height="10" alt=""><br>
       <img src="/images/spacer.gif" width="25" height="1" alt="" border="0" align="left"> 
-      <a href="/mainpages/feedback.htm" class="ftr">contact us</a> &nbsp;|&nbsp; 
-      <a href="/mainpages/accessibility.htm" class="ftr">accessibility policy</a> 
-      &nbsp;|&nbsp; <a href="/mainpages/disclaimer.htm" class="ftr">disclaimer</a> 
-      &nbsp;|&nbsp; <a href="/mainpages/privacy.htm" class="ftr">privacy policy</a> 
+      <a href="/site/mainpages_form.asp?id=18611" class="ftr">contact us</a> &nbsp;|&nbsp; 
+      <a href="/site/mainpages_index.asp?id=39" class="ftr">accessibility policy</a> 
+      &nbsp;|&nbsp; <a href="/site/mainpages_index.asp?id=38" class="ftr">disclaimer</a> 
+      &nbsp;|&nbsp; <a href="/site/mainpages_index.asp?id=37" class="ftr">privacy policy</a> 
     </td>
     <td width="200">&nbsp;</td>
   </tr>
@@ -215,7 +353,7 @@ We monitor network traffic to identify unauthorized attempts to upload or change
   <tr> 
     <td width="30">&nbsp;</td>
     <td width="500" class="copyright"><img src="/images/spacer.gif" width="1" height="10" alt="" border="0"><br>
-	<img src="/images/spacer.gif" width="35" height="1" alt="" border="0" align="left"><a href="/mainpages/copyright.htm" class="copyright">Copyright</a> © 2002 City &amp; County of San Francisco. All rights reserved.</td><td width="200">&nbsp;</td></tr>
+	<img src="/images/spacer.gif" width="35" height="1" alt="" border="0" align="left"><a href="/site/mainpages_index.asp?id=41" class="copyright">Copyright</a> © 2003 City &amp; County of San Francisco. All rights reserved.</td><td width="200">&nbsp;</td></tr>
 
 </tbody></table>
 
