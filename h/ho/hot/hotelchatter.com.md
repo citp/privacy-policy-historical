@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hotelchatter.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204224445id_/http%3A//www.hotelchatter.com/special/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelchatter.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403190839id_/http%3A//www.hotelchatter.com/special/privacy) for the most accurate reproduction.*
 
 # HotelChatter Privacy Policy || HotelChatter
 
 At Hotel Chatter, it is our goal to protect your privacy when you visit or personalize our site and to make your online experience safe and fun. Because we collect certain types of information about you when you visit our site, we have written this policy to share our practices and use of that information.
 
-If you have questions or concerns regarding this statement, please contact Hotel Chatter Support at [help@hotelchatter.com](https://web.archive.org/web/20041204224445id_/http%3A//www.hotelchatter.com/special/help@hotelchatter.com)
+If you have questions or concerns regarding this statement, please contact Hotel Chatter Support at [help@hotelchatter.com](https://web.archive.org/web/20050403190839id_/http%3A//www.hotelchatter.com/special/help@hotelchatter.com)
 
 **Types of Information We Collect:**
 
@@ -36,7 +36,7 @@ While we dont anticipate any changes in our privacy policy, there is always a po
 
 **Contacting Hotel Chatter**
 
-If you have questions about Hotel Chatters Privacy Policy, please contact us by e-mail at [help@hotelchatter.com](https://web.archive.org/web/20041204224445id_/http%3A//www.hotelchatter.com/special/help@hotelchatter.com)
+If you have questions about Hotel Chatters Privacy Policy, please contact us by e-mail at [help@hotelchatter.com](https://web.archive.org/web/20050403190839id_/http%3A//www.hotelchatter.com/special/help@hotelchatter.com)
 
   
 
