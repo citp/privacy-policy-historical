@@ -1,0 +1,195 @@
+<!--The following is the downloaded HTML source of the swiftpage.com privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602220406id_/http%3A//www.swiftpage.com/privacystatement.htm) for the most accurate reproduction.-->
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>SwiftPage Email Management</title>
+
+<script language="JavaScript">
+<!--
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+//-->
+</script>
+<script language="JavaScript">
+
+// Browser sniffer
+
+v3 = 0; op = 0; ie4  = 0; ie5 = 0; nn4 = 0; nn6 = 0;
+isMac = 0; aol = 0;
+
+if(document.images){
+    if(navigator.userAgent.indexOf("Opera") != -1){
+        op = 1;
+    } else {
+        if(navigator.userAgent.indexOf("AOL") != -1){
+            aol = 1;
+        } else {
+            if (document.all && !document.getElementById) ie4 = 1;
+            if (document.layers) nn4 = 1;
+            if (document.all && document.getElementById) ie5 = 1;
+            if (document.addEventListener) nn6 = 1;
+        }
+    }
+} else {
+    v3 = 1;
+}
+
+if(navigator.userAgent.indexOf("Mac") != -1){
+    isMac = 1;
+}
+
+var clipOK = true;
+var browserType = 0;
+
+function CheckBrowser()
+{
+  browserType = v3 + (op*2) + (ie4*4) + (ie5*8) + (nn4*256) + (nn6*512) + (aol*2048) + (isMac*16384);
+}
+
+function DoSubmit(editMode)
+{
+  document.CheckPass.SpBrowser.value = browserType;
+  if (editMode == "Test")
+  {
+    document.location.href = "AutoLaunchTest.htm";
+  }
+  else
+  {
+       if (editMode == "Admin")
+       {
+            document.location.href = "http://www.SwiftPage.com/MainAdmin.aspx?SpPageName=bobo&&SPGroupName=&SPOrgName=SwiftPage";
+       }
+       else
+       {
+          document.CheckPass.EditMode.value = editMode;
+          document.CheckPass.target = "_top";
+          document.CheckPass.submit();
+       }
+  }
+}
+
+function DoThisOnLoad()
+{
+  MM_preloadImages('../images/NAV/ManualStartEmail.gif','../images/NAV/ManualStartEmailOver.gif');
+  MM_preloadImages('../images/NAV/AutoStartEmail.gif','../images/NAV/AutoStartEmailOver.gif');
+  MM_preloadImages('../images/NAV/EmailTest.gif','../images/NAV/EmailTestOver.gif');
+  MM_preloadImages('../images/NAV/Database.gif','../images/NAV/DatabaseOver.gif');
+  CheckBrowser();
+}
+</script>
+
+<style>
+  .spacer {font-family:verdana, arial, sans-serif; font-size:12px; line-height:15px;}
+
+</style>
+
+</head>
+
+
+<body bgcolor="#FFFFFF" onload="DoThisOnLoad();">
+
+<table class="spacer" width="750">
+  <tbody><tr>
+    <td align="Center" width="802" colspan="2">
+      <p align="left"><font face="Tahoma"><img src="http://www.swiftpage.com/images/SwiftPageEmail.gif" width="450" height="33"></font></p>
+    </td>
+  </tr>
+  <tr class="spacer"><td width="802" colspan="2"> <font face="Tahoma"> &nbsp;</font>
+      <h1>Privacy Policy</h1>
+      <p class="MsoBodyText">SwiftPage is dedicated to the privacy and rights of 
+      our customers.<span style="mso-spacerun: yes">&nbsp; </span>We do not sell 
+      or distribute any of the information collected from patrons of our service 
+      for profit or any other reason.<span style="mso-spacerun: yes">&nbsp; </span>For 
+      a detailed description of our practices, read our privacy policy below.</p>
+      <p class="MsoNormal"><span style="font-size:10.0pt;mso-bidi-font-size:12.0pt;
+font-family:Tahoma">&nbsp;</span><span style="font-family:Tahoma"><font size="3">Customer 
+      Information</font><o:p>
+      </o:p>
+      </span></p>
+      <p class="MsoBodyText">SwiftPage collects and stores information about 
+      it’s customers including, but not limited to: email address, survey 
+      results, phone number, credit card number, and billing address.<span style="mso-spacerun:
+yes">&nbsp; </span>This information is for the sole use of SwiftPage and used 
+      for billing accounts, new product and service notification, and customer 
+      support.<span style="mso-spacerun: yes">&nbsp; </span>SwiftPage does not 
+      sell email lists, survey results, or any other customer information and is 
+      committed to keeping your information confidential.</p>
+      <p class="MsoBodyText">&nbsp;<font size="3">Software</font><span style="font-size:12.0pt"><o:p>
+      </o:p>
+      </span></p>
+      <p class="MsoBodyText">SwiftPage does not install cookies, or any other 
+      software on your computer.</p>
+      <p class="MsoBodyText">&nbsp;<font size="3">Security</font><span style="font-size:12.0pt"><o:p>
+      </o:p>
+      </span></p>
+      <span style="font-size:12.0pt;font-family:tahoma;font-size:10.0pt;mso-ansi-language:EN-US;mso-fareast-language:EN-US;
+mso-bidi-language:AR-SA">SwiftPage is dedicated to keeping your information 
+      secure.<span style="mso-spacerun: yes">&nbsp; </span>Each customer account 
+      is password-protected to ensure that only you have access to your 
+      information.<span style="mso-spacerun: yes">&nbsp; </span>SwiftPage offers 
+      two passwords for each account so that you can use one password for page 
+      updates and a separate password for access to your customer records.<span style="mso-spacerun: yes">&nbsp; 
+      </span>All customers are encouraged to use both passwords to ensure the 
+      maximum level of security.<span style="mso-spacerun: yes">&nbsp; </span>SwiftPage 
+      will never contact you with unsolicited phone calls or emails asking for 
+      your password so do not divulge your contact information to anyone 
+      contacting you in this manner.<span style="mso-spacerun: yes">&nbsp; </span>While 
+      we do everything in our power to ensure your information is secure, no 
+      data transmission over the Internet can be guaranteed 100% safe from those 
+      wishing to unlawfully obtain it.</span>
+      <p>&nbsp;
+    </p></td></tr>
+  <tr>
+    <td align="center" width="404">
+        <p align="left" style="margin-top: 2"><span style="left: 24; top: 24">&nbsp;&nbsp;&nbsp;&nbsp;</span>
+        <a href="javascript:;" onclick="history.back();return false;">Back</a>
+    </p></td>
+    <td align="center" width="396" valign="top">
+    </td>
+  </tr>
+</tbody></table>
+
+
+<form name="CheckPass" method="POST" action="http://www.SwiftPage.com/SpEmailHelperV6.aspx">
+  <input type="hidden" name="FormType" value="SwiftPage1">
+  <input type="hidden" name="SPpageName" value="bobo">
+  <input type="hidden" name="Organization" value="SwiftPage">
+  <input type="hidden" name="SwiftGroup" value="">
+  <input type="hidden" name="SubGroup" value="">
+  <input type="hidden" name="EditMode" value="Manual">
+  <input type="hidden" name="SpBrowser" value="">
+  <input type="hidden" name="SpPassword" value=" ">
+
+</form>
+</body></html>
