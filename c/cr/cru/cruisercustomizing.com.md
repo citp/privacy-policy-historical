@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisercustomizing.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208212816id_/http%3A//www.cruisercustomizing.com/help.cfm%3Faction%3Dgeneral%2302) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisercustomizing.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402014129id_/http%3A//www.cruisercustomizing.com/help.cfm%3Faction%3Dgeneral%2302%26sblid%3Dfpri) for the most accurate reproduction.*
 
 # CruiserCustomizing.com - Help
 
