@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuweather.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615143129id_/http%3A//www.accuweather.com/adcbin/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuweather.com privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018075852id_/http%3A//www.accuweather.com/adcbin/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
