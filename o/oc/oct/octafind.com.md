@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the octafind.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204194426id_/http%3A//www.octafind.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octafind.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605183953id_/http%3A//octafind.com/privacy.html) for the most accurate reproduction.*
 
 # OctaFind - Privacy Policy
 
@@ -42,10 +42,10 @@ If you have questions about this privacy policy or about our collection of infor
 
 OctaFind  
 ATTN:  Privacy Policy Coordinator  
-155 Marine St.  
+100 Adams Blvd.  
 Farmingdale, NY 11735  
 E-mail:  [privacy@octafind.com](mailto:privacy@octafind.com)
 
 This policy may be periodically revised at the discretion of OctaFind.  You are responsible for notifying us within 14 days if you do not agree with any changes to this policy and request to have any personally identifiable information stored at OctaFind deleted.  Failure to notify us within 14 days signals your agreement with the revised privacy policy.
 
-This privacy policy was last updated on **July 18, 2001**.
+This privacy policy was last updated on **April 29, 2002.   ** Previous to last revision on **July 18, 2001**.
