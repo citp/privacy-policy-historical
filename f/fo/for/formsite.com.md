@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formsite.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207055944id_/http%3A//www.formsite.com/forms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formsite.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606044023id_/http%3A//www.formsite.com/forms/privacy.html) for the most accurate reproduction.*
 
 # FormSite - html form builder
 
