@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellular-blowout.com privacy policy that was archived on 2002-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021115212130id_/http%3A//www.cellular-blowout.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellular-blowout.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602162134id_/http%3A//www.cellular-blowout.com/privacypolicy.html) for the most accurate reproduction.*
 
 # BigBookBang - Cellular Blowout Privacy Policy
 
