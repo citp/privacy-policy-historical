@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frymulti.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621132211id_/http%3A//frymulti.com/privacy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frymulti.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207175729id_/http%3A//www.frymulti.com/privacy/default.asp) for the most accurate reproduction.*
 
 # Fry, Inc. - Privacy Policy
 
@@ -47,7 +47,6 @@ Fry, Inc.
 Ann Arbor, Michigan 48108  
 email: [webmaster@fry.com](mailto:webmaster@fry.com)
 
-Telephone: (734) 741-0640  
-Fax: (734) 741-0906
+Telephone: (734) 741-0640
 
 |  
