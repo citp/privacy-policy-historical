@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402054948id_/http%3A//netkushi.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netkushi.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204050214id_/http%3A//netkushi.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 This is the web site of **Netkushi.com**. 
 
 Our postal address is   
-**surya nivas,goutham nagar,naiduthota  
-vizag,ap,530029**
+**50-81-57,1'st floor,sadguru nilayam,seethammapeta,  
+Visakhapatnam,Andhra Pradesh,530016,India**
 
 We can be reached via e-mail at [contact@netkushi.com](mailto:contact@atozonweb.com)  
-or you can reach us by telephone at 0091-0891-520593 
+or you can reach us by telephone at 91-0891-2521723 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the domain name and e-mail address (where possible) of visitors to our Web page.
+We collect the domain name, e-mail address, residence address from our Web page, the domain name and e-mail address (where possible) of visitors to our Web page.
 
 The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes.
 
@@ -27,15 +27,27 @@ From time to time, we make our _customer_ e-mail list available to other reputab
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
-calling us at the number provided above. 
+calling us at the number and contact address provided above.
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. 
 
-Persons who supply us with their telephone numbers on-line sending us e-mail at the above address.
+Persons who supply us with their telephone numbers on-line sending us e-mail at the above address.Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
 
-Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations 
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  
+For further information, consult the privacy policies of: 
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
+http://www.maxonline.com/privacy_policy/index.php ( MaxOnline)  
+http://budsinc.com/privacy.htm (Buds Inc)  
+http://leadcrunch.com/privacy.html (Leadcrunch)  
+http://www.mamma.com/info/privacy.html (Mamma Media)
+
+Third Party Advertising  
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
+
+<http://www.maxonline.com/privacy_policy/index.php>
+
+Third Party Cookies  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
 
