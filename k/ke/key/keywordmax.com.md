@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keywordmax.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603183438id_/http%3A//www.directresponse.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordmax.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203093421id_/http%3A//www.keywordmax.com/privacy.html) for the most accurate reproduction.*
 
-# Direct Response Marketing, Direct Response Technology
+# KEYWORD RANKING | Keyword Bid Management | Keyword Optimization | KeywordMax
 
 ##### Privacy Statement for Direct Response Technologies, Inc.
 
