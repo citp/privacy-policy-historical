@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023074924id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tefl.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607183720id_/http%3A//www.tefl.com/home/privacy.html) for the most accurate reproduction.*
 
 # TEFL.com - Your Privacy
 
