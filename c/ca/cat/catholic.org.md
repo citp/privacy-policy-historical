@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014034342id_/http%3A//catholic.org/prvnotice.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602170823id_/http%3A//www.catholic.org/prvnotice.shtml) for the most accurate reproduction.*
 
 # Catholic Online - Privacy Notice
 
@@ -45,7 +45,7 @@ Catholic Online may send out periodic e-mails informing you of technical service
 
   
 **Access to your Personal Information**  
-We will provide you with the means to ensure that your personal information is correct and current. You may update this information at any time by sending email to [colirf@catholic.org](mailto:colirf@catholic.org)   
+We will provide you with the means to ensure that your personal information is correct and current. You may update this information at any time by sending email to colirf@catholic.org   
 
 
   * Tell us whether you want Catholic Online to send you marketing information.   
@@ -66,7 +66,7 @@ You also have a significant role in protecting your information. No one can see 
 
   
 **Protection of Children's Personal Information**  
-The Catholic Online site does publish content that is targeted to children. However, if you are concerned about your children providing Catholic Online any personal information without your consent, Catholic Online allows parents to give parental consent for the collection, use and sharing of children's (ages 12 and under) personal information online. To learn more about this service please contact Catholic Online at [colirf@catholic.org](mailto:colrif@catholic.org).
+The Catholic Online site does publish content that is targeted to children. However, if you are concerned about your children providing Catholic Online any personal information without your consent, Catholic Online allows parents to give parental consent for the collection, use and sharing of children's (ages 12 and under) personal information online. To learn more about this service please contact Catholic Online at colirf@catholic.org.
 
 Use of Cookies  
 To ensure we are publishing content customers need and want, Catholic Online collects aggregated site-visitation statistics using cookies. We do not track individuals' use of the site. 
@@ -84,7 +84,7 @@ Catholic Online will occasionally update this privacy statement. When we do, we 
 
   
 **Contact Information**  
-Catholic Online welcomes your comments regarding this Statement of Privacy; please contact us by [colirf@catholic.org](mailto:colirf@catholic.org), or postal mail. 
+Catholic Online welcomes your comments regarding this Statement of Privacy; please contact us by colirf@catholic.org, or postal mail. 
 
 Catholic Online Privacy  
 Catholic Online  
