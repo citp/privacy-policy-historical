@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stpt.com privacy policy that was archived on 2002-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021021010046id_/http%3A//www.stpt.com%3FL%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stpt.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604020957id_/http%3A//www.stpt.com%3FL%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome to Starting Point
 
