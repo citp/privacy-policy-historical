@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the icanseek.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630041211id_/http%3A//www.everyone.net/main/html/p_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icanseek.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229084208id_/http%3A//www.everyone.net/main/html/p_policy.html) for the most accurate reproduction.*
 
 # Everyone.net
 
    
 
 
-  [Agreements](https://web.archive.org/web/20040630041211id_/http%3A//www.everyone.net/main/html/agreements.html) > Privacy Policy  
+  [Agreements](https://web.archive.org/web/20041229084208id_/http%3A//www.everyone.net/main/html/agreements.html) > Privacy Policy  
 
 
-  If you have questions or concerns regarding this Policy, you should first [contact Everyone.net](https://web.archive.org/web/20040630041211id_/http%3A//www.everyone.net/main/html/contact.html).
+  If you have questions or concerns regarding this Policy, you should first [contact Everyone.net](https://web.archive.org/web/20041229084208id_/http%3A//www.everyone.net/main/html/contact.html).
 
-  Everyone.net™ Incorporated ("Everyone.net") has the following Privacy Policy with respect to information gathered on Web pages hosted by Everyone.net ("Service Pages"). Such information is received by both Everyone.net and the owner of the Web site through which you may have requested Everyone.net services (the "Client"). You should contact the Client to determine the privacy policy, if any, that applies to the Client's collection and use of such information. However, in no event shall Everyone.net be liable for the Client's use or disclosure of such information.
+  Everyone.net® Incorporated ("Everyone.net") has the following Privacy Policy with respect to information gathered on Web pages hosted by Everyone.net ("Service Pages"). Such information is received by both Everyone.net and the owner of the Web site through which you may have requested Everyone.net services (the "Client"). You should contact the Client to determine the privacy policy, if any, that applies to the Client's collection and use of such information. However, in no event shall Everyone.net be liable for the Client's use or disclosure of such information.
 
   The terms "we" and "us" refer to Everyone.net.
 
@@ -30,7 +30,7 @@ Personally Identifiable Information-When visiting Everyone.net's or any Client's
 
   **The Way We Use Information**
 
-  We use the information you provide about yourself or others to complete the transaction for which the information is intended. Such transactions may include: administering a service, such as email, search, community, advertising sales, ecommerce; completing an order; shipping a product; replying to support requests; or contacting you if you have granted us permission to do so. Except as provided in this Privacy Policy and the End-User Agreement, we do not share this information with outside parties without your permission except to the extent that is necessary to administer the services we offer our Clients and End-Users or to comply in responding to subpoenas, court orders or other legal proceedings.
+  We use the information you provide about yourself or others to complete the transaction for which the information is intended. Such transactions may include: administering a service, such as email, search, advertising sales, ecommerce; completing an order; shipping a product; replying to support requests; or contacting you if you have granted us permission to do so. Except as provided in this Privacy Policy and the End-User Agreement, we do not share this information with outside parties without your permission except to the extent that is necessary to administer the services we offer our Clients and End-Users or to comply in responding to subpoenas, court orders or other legal proceedings.
 
   From time to time, we also use the information you provide about yourself or others to inform you of additions or improvements to the Everyone.net services as well as conduct member surveys in order to improve our services. These communications will only be sent to the administrative account. 
 
@@ -56,11 +56,11 @@ To protect your privacy and security, we will take reasonable steps to verify yo
 
   **How to Contact Us**
 
-  Should you have other questions or concerns about this privacy policy, please [contact us online](https://web.archive.org/web/20040630041211id_/http%3A//www.everyone.net/main/html/contact.html) or via postal mail: 2216 O'Toole Avenue, San Jose, CA 95131-1326.
+  Should you have other questions or concerns about this privacy policy, please [contact us online](https://web.archive.org/web/20041229084208id_/http%3A//www.everyone.net/main/html/contact.html) or via postal mail: 2216 O'Toole Avenue, San Jose, CA 95131-1326.
 
-  **Email, Search, and Community Specific Terms and Conditions**
+  **Email, and Search Specific Terms and Conditions**
 
-  Everyone.net considers email transmitted via our service to be private correspondence between the sender and recipient. Therefore, we will not monitor, edit or disclose the contents of your private communications, except for reasons provided for in the [End-User Agreement](https://web.archive.org/web/20040630041211id_/http%3A//www.everyone.net/main/html/agreement_enduser.html).
+  Everyone.net considers email transmitted via our service to be private correspondence between the sender and recipient. Therefore, we will not monitor, edit or disclose the contents of your private communications, except for reasons provided for in the [End-User Agreement](https://web.archive.org/web/20041229084208id_/http%3A//www.everyone.net/main/html/agreement_enduser.html).
 
   Content posted to public community areas is publicly available, and Everyone.net reserves the right to remove any publicly posted content that it deems to be objectionable.
 
