@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202162400id_/http%3A//dmnweb.dallasnews.com/privacy/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasnews.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406191637id_/http%3A//dmnweb.dallasnews.com/privacy/policy.htm) for the most accurate reproduction.*
 
 # Belo Interactive Privacy Policy
 
