@@ -1,0 +1,1248 @@
+<!--The following is the downloaded HTML source of the getpivot.com privacy policy that was archived on 2004-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604225045id_/http%3A//getpivot.com/privacy.asp) for the most accurate reproduction.-->
+
+<html lang="en,ja"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<meta http-equiv="Content-Language" content="en,ja">
+		<!--Run Location : PROD-->
+<!--remote Address : 216.110.85.134-->
+<!--remote Host : 216.110.85.134-->
+<!--Machine : www2-->
+<script language="javascript" type="text/javascript" src="/include/flash_detect.js">
+<!--
+	function getFlashVersion() { return null; };
+//-->
+</script>
+<script language="javascript">
+<!--
+	//DATE DISPLAY AT TOP, AND IN COPYRIGHT FOOTER TEXT
+	
+	var this_weekday_name_array = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday")	//predefine weekday names
+	var this_month_name_array = new Array("January","February","March","April","May","June","July","August","September","October","November","December")	//predefine month names
+	
+	var this_date_timestamp=new Date()	//get current day-time stamp
+	
+	var this_weekday = this_date_timestamp.getDay()	//extract weekday
+	var this_date = this_date_timestamp.getDate()	//extract day of month
+	var this_month = this_date_timestamp.getMonth()	//extract month
+	var this_year = this_date_timestamp.getYear()	//extract year
+	
+	if (this_year < 1000)
+		this_year+= 1900;	//fix Y2K problem
+	if (this_year==101)
+		this_year=2001;		//fix Netscape browsers - it displays the year as being the year 101!
+	
+	var this_date_string = this_weekday_name_array[this_weekday] + ", " + this_month_name_array[this_month] + " " + this_date + ", " + this_year	//concat long date string
+	
+	//END DATE CODE
+	
+	var cursorposY;
+	var cursorposX;
+
+	if(document.layers)
+	{
+		document.captureEvents(Event.MOUSEUP);
+	}
+
+	document.onmouseup = getcursorpos;
+
+	function getcursorpos(evt)
+	{
+		if(document.all)
+		{
+			cursorposY = window.event.clientY;
+			cursorposX = window.event.clientX;
+		}
+		else
+		{
+			cursorposY = evt.pageY;
+			cursorposX = evt.pageX;
+			document.routeEvent(Event.MOUSEUP);
+		}
+
+		return true;
+	}
+
+	function viewcustomer(formname,selectname){
+		var thevalue;
+
+		if(selectname == '' || selectname == null)
+			selectname = 'customers';
+
+		if(formname == '' || formname == null)
+			formname = 'customerform';
+
+		thevalue = document.forms[formname].elements[selectname].options[document.forms[formname].elements[selectname].selectedIndex].value;
+		if(thevalue != 0)
+			window.location.href="/customers/bios/bio.asp?customer=" + thevalue;
+	}
+
+	function selectcustomer(){
+		var i;
+
+		var thecustomer;
+
+		
+	}
+
+	function viewpartner(){
+			var thevalue;
+			var list;
+
+			//list = document.forms.partnerfinder.selectList;
+			thevalue = document.forms['partnerfinder'].elements['partners'].options[document.forms['partnerfinder'].elements['partners'].selectedIndex].value;
+			if(thevalue != 0)
+				window.location.href="/partners/directory/profile.asp?partner=" + thevalue;
+		}
+
+	function selectpartner(){
+		var i;
+
+		var thepartner;
+
+		
+	}
+
+	function checkForMomentum(evt)
+	{
+		var leftVal;
+		var widthVal;
+		var heightVal;
+		var topVal;
+
+		widthVal = 222;
+		heightVal = 190;
+
+		if(document.all)
+		{
+			leftVal = cursorposX; //(document.body.scrollLeft + document.body.clientWidth  - widthVal - 15) + (screen.width - document.body.clientWidth)/2;
+			topVal = cursorposY;
+		}
+		else
+		{
+			leftVal = cursorposX; //(self.pageXOffset + self.innerWidth - widthVal - 25) + (screen.width - self.outerWidth)/2;
+			topVal = cursorposY;
+		}
+
+		window.open("http://www.motive.com/library/getNameAndEmail.asp?typeID=momentum","checkForMomentum","top=" + topVal + ",left=" + leftVal + ",height=" + heightVal + ",width=" + widthVal);
+	}
+
+	function motivemedia(movie,movieid,group)
+	{
+		var browser;
+		var windowvar;
+
+		if(document.all)
+			browser = "ie";
+		else if((!document.layers) && (navigator.userAgent.indexOf('Netscape')!=-1))
+			browser = "ns6";
+		else
+			browser = "other";
+
+
+
+		if(movie == "" || movie == null || movie == "0")
+		{
+			windowvar = window.open("http://www.motive.com/motivemedia/motivemedia.asp?group=customer&movie=0&movieid=0&browser=" + browser,"motivemedia","height=382,width=483,top=50,left=50");
+			//windowvar = window.open("http://www.motive.com/motivemedia/motivemedia.asp?group=customer&browser=" + browser,"motivemedia","height=382,width=483,top=50,left=50");
+		}
+		else
+		{
+			group = group.replace(/ /i,"");
+			windowvar = window.open("http://www.motive.com/motivemedia/motivemedia.asp?movie=" + movie + "&movieid=" + movieid + "&group=" + group + "&browser=" + browser,"motivemedia","height=382,width=483,top=50,left=50");
+		}
+
+	}
+
+	function openFlashWindow(url,width,height) {		
+		var leftVal = (screen.width - width) / 2;
+		var topVal = (screen.height - height) / 2;		
+		window.open(url,"flashWindow","width=" + width + ",height=" + height + ",left=" + leftVal + ",top=" + topVal);				
+	}
+
+	function getFlash(flashURL,width,height,name,bgcolor,minFlashVersion,altContent){
+		if(getFlashVersion() >= minFlashVersion){
+			document.write(	'	<OBJECT	classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"' +
+							'				codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"' +
+							'				WIDTH="' + width + '"' +
+							'				HEIGHT="' + height + '"' +
+							'				id="' + name + '">' +
+							'		<PARAM	NAME=movie' +
+							'				VALUE="' + flashURL + '">' +
+							'		<PARAM	NAME=quality' +
+							'				VALUE=high>' +
+							'		<PARAM	NAME=bgcolor' +
+							'				VALUE=' + bgcolor + '>' +
+							'		<EMBED	src="' + flashURL + '"' +
+							'				quality="high"' +
+							'				bgcolor="' + bgcolor + '"' +
+							'				WIDTH="' + width + '"' +
+							'				HEIGHT="' + height + '"' +
+							'				NAME="' + name + '"' +
+							'				TYPE="application/x-shockwave-flash"' +
+							'				PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>');
+		}
+		else{
+			document.write(	altContent);
+			//'<a href="http://www.motive.com/"><img src="images/logo_ping_motivesmart.gif" border=0></a>');
+		}
+	}
+
+
+
+	function openspotlight(url)
+	{
+		 var sizestring;
+		 var positionstring;
+		 var leftVal;
+		 var topVal;
+		 var winWidth;
+		 var winHeight;
+
+		 positionstring = "left=0,top=0";
+
+		 if(url.search(/vn_spotlight.html/i) != -1)
+		 	sizestring = "width=450,height=300";
+		 else if(url.search(/spotlight_accenture.html/i) != -1)
+		 	sizestring = "width=500,height=250";
+		 else if(url.search(/MotiveBroadJump/i) != -1)
+		 {
+		 	winWidth = 502;
+		 	winHeight = 272;
+
+		 	if(document.all)
+			{
+				leftVal = document.body.scrollLeft + Math.floor((document.body.clientWidth/2) - (winWidth/2));
+				topVal =  document.body.scrollTop + Math.floor((document.body.clientHeight/2) - (winHeight/2));
+			}
+			else
+			{
+				leftVal =  self.pageXOffset + Math.floor((self.innerWidth/2) - (winWidth/2) - 15);
+				topVal =  self.pageYOffset  + Math.floor((self.innerHeight/2) - (winHeight/2) - 15);
+			}
+
+		 	sizestring = "width=" + winWidth + ",height=" + winHeight;
+		 	positionstring = "left=" + leftVal + ",top=" + topVal;
+		 }
+		 else
+		 	sizestring = "width=800,height=600";
+
+		 mywin = window.open(url, 'SpotlightWindow', 'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=0,resizable=1,' + sizestring + ',' + positionstring);
+	}
+
+	function openImage(url,width,height)
+	{
+		width+=20;
+		height+=60;
+		var leftVal = (screen.width - width) / 2;
+		var topVal = (screen.height - height) / 2;		
+		var htmlString = "<html><head><link rel='stylesheet' type='text/css' href='/css/wwwmotive.css'><title>Motive, Inc.</title></head><body " +
+						" marginheight='0' " +
+						"	topmargin='0' " +
+						"	rightmargin='0' " +
+						"	bottommargin='0' " +
+						"	vspace='0' " +
+						"	marginwidth='0' " +
+						"	leftmargin='0' " +
+						"	hspace='0' " +
+						"	style='margin:0; padding:0;'><br>" +
+							"<center><a href='javascript:window.close();'>close this window</a></center><br>" +
+							"<center><img src='" + url + "' border='0'></center>" +
+							"</body></html>";
+		var newWindow = window.open("","imageWindow","width=" + width + ",height=" + height + ",left=" + leftVal + ",top=" + topVal);	
+		newWindow.document.write(htmlString);
+	}
+
+	function gotolink(inbound,url)
+	{
+
+		if((url.search(/spotlight.html/i) == -1) && (url.search(/spotlight_/i) == -1)){
+			if(inbound != 'Y'){
+
+				url=url.replace(/#/gi,"~");
+
+				window.open("http://www.motive.com/include/outbound.asp?url=" + url,"Outbound","height=600,width=800,top=5,left=5,resizable");
+
+			}
+			else{
+
+				window.location.href=url;
+
+			}
+		}
+		else{
+			openspotlight(url);
+		}
+	}
+
+
+
+	/*Handle stupid Netscape 4 onload/resize bug*/
+
+	NS4 = document.layers;
+
+   	if (NS4) {
+
+		origWidth = innerWidth;
+		origHeight = innerHeight;
+
+   	}
+
+	function reDo() {
+
+		if (innerWidth != origWidth || innerHeight != origHeight)
+			location.reload();
+	}
+
+	if (NS4) onresize = reDo;
+
+	/*End handling of NS4 bug*/
+
+
+
+	
+
+//-->
+</script>
+			<title>Privacy Policy</title>
+
+<script language="javascript">
+<!--
+	img1 = new Image(5,5);
+	img1.src = '/images/ENG/common/spacer.gif';
+
+	img2 = new Image(5,5);
+	img2.src = '/images/ENG/common/dottedarrow_right_blue.gif';
+
+	img3 = new Image(5,5);
+	img3.src = '/images/ENG/common/dottedarrow_down_blue.gif';
+
+	var currentItemID = 0;
+
+	function mouseOverLeftNavItem(itemID)
+	{
+		if(itemID != currentItemID)
+			document.images['bullet_' + itemID].src=img2.src;
+	}
+
+	function mouseOutLeftNavItem(itemID)
+	{
+		if(itemID != currentItemID)
+			document.images['bullet_' + itemID].src=img1.src;
+	}
+
+	function mouseOverLeftNavHeading()
+	{
+		//alert(document.images.bulletheading.name);
+		//alert(document.images.bulletheading.src);
+		//alert(img2.src.toString());
+		document.images.bullet_heading.src = img2.src;
+	}
+
+	function mouseOutLeftNavHeading()
+	{
+		document.images.bullet_heading.src = img3.src;
+	}
+
+	function getLeftNavBullet(itemID,itemTitle)
+	{
+		if(itemTitle == 'Privacy Policy')
+		{
+			currentItemID = itemID;
+			document.write("<img name='bullet_' src='/images/ENG/common/dottedarrow_right_black.gif' border='0' height='5' width='5' vspace='5'><br>".replace(/bullet_/,'bullet_' + itemID));
+			//return "<img name='bullet_' src='/images/ENG/common/dottedarrow_right_black.gif' border='0' height='5' width='5' vspace='5'><br>".replace(/bullet_/,'bullet_' + itemID);
+		}
+		else
+		{
+			document.write("<img name='bullet_' src='/images/ENG/common/spacer.gif' border='0' height='5' width='5' vspace='5'><br>".replace(/bullet_/,'bullet_' + itemID));
+			//return "<img name='bullet_' src='/images/ENG/common/spacer.gif' border='0' height='5' width='5' vspace='5'><br>".replace(/bullet_/,'bullet_' + itemID);
+		}
+	}
+	function setLeftNavLinkColor(itemID,itemTitle)
+	{
+		if(itemTitle == 'Privacy Policy')
+		{
+			if(document.all)
+				document.all['leftNavLink_' + itemID].style.color = '#000000';
+		}
+	}
+//-->
+</script>
+		<style>
+			body {	
+	background-color: #ffffff;
+}
+
+P  {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : normal;
+	color : 595959;
+}
+
+.prtitle{
+	font-size: 14px;
+	font-family: Verdana;
+	font-weight:bold;
+	color: 000000;
+	line-height : 16px;
+}
+
+
+.prsubtitle{
+	font-size: 11px;
+	font-family: Verdana;
+	font-weight:bold;
+	color: 000000;
+	line-height : 16px;
+}
+
+
+.ptext {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : normal;
+	color : 595959;
+
+}
+
+input{
+	
+	font-family:verdana;
+	font-size:10px;
+	
+
+}
+
+select{
+	font-family:verdana;
+	font-size:10px;
+}
+
+textarea{
+	font-family:verdana;
+	font-size:10px;
+	
+
+}
+
+A  {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : normal;
+	color : 00589E;
+	text-decoration : none;
+}
+
+A:hover{
+	color: #00589E;
+	text-decoration:underline;
+}
+
+B	{
+	font-weight : bold
+}
+
+.textLeaded  {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : normal;
+	color : 595959;
+	line-height : 16px
+}
+
+.textlessleaded{
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : normal;
+	color : 595959;
+	line-height : 13px
+
+}
+
+.textSmall  {
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : normal;
+	color : 595959;
+	line-height:14px;
+	
+}
+
+.breadcrumbOff  {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : bold;
+	color : 999999;
+	text-decoration: none
+}
+
+.breadcrumbarrow {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : bold;
+	color : 999999;
+	text-decoration: none
+
+}
+
+.breadcrumbarrowon {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : bold;
+	color : 666666;
+	text-decoration: none
+
+}
+
+A.breadcrumbOff:hover  {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : bold;
+	color : 999999;
+	text-decoration: underline
+}
+
+.breadcrumbOn  {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : bold;
+	color : 666666;
+	text-decoration: none
+}
+
+A.breadcrumbOn:hover  {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : bold;
+	color : 666666;
+	text-decoration: underline
+}
+
+.homelink {
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : normal;
+	color : 595959;
+	text-decoration: none;
+	line-height:16px;
+
+}
+
+A.homelink:hover {
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : normal;
+	color : 00589E;
+	text-decoration: underline;
+	line-height:16px;
+}
+
+.listlink  {
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : normal;
+	color : 595959;
+	text-decoration:none;
+	line-height:14px;
+}
+
+A.listlink:hover  {
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : normal;
+	color : 00589E;
+	text-decoration:underline;
+	line-height:14px;
+}
+
+.leftNavLink  {
+	font-family : Verdana;
+	font-size : 9.5px;
+	font-weight : normal;
+	color : 00589E;
+	text-decoration:none;
+	line-height:14px;
+}
+
+A.leftNavLink:hover  {
+	font-family : Verdana;
+	font-size : 9.5px;
+	font-weight : normal;
+	color : 00589E;
+	text-decoration:none;
+	line-height:14px;
+}
+
+.leftNavHeader {
+	font-family:verdana;
+	font-size:9.5px;
+	font-weight:bold;
+	color: 00589E;	
+	text-decoration:none;
+}
+
+A.leftNavHeader:hover {
+	font-family:verdana;
+	font-size:9.5px;
+	font-weight:bold;
+	color: 00589E;
+	text-decoration:none;
+}
+
+.rightBlockHeader{
+	font-family:verdana;
+	font-size:9.5px;
+	font-weight:bold;
+	color:#7F7F7F;
+}
+.bodylistlink {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : normal;
+	color : 000000;
+	text-decoration:none;
+}
+
+A.bodylistlink:hover {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : normal;
+	color : 000000;
+	text-decoration:underline;
+}
+
+.listtext {
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : normal;
+	color : 666666;
+	text-decoration:none;
+}
+
+.maintitle	{
+	font-family : Verdana;
+	font-size : 16px;
+	font-weight : bold;
+	color : 000000;
+	text-decoration: none;
+	letter-spacing: .1em;
+}
+
+A.maintitle:hover	{
+	font-family : Verdana;
+	font-size : 16px;
+	font-weight : bold;
+	color : 000000;
+	text-decoration: none;
+	letter-spacing: .1em;
+}
+
+.orangelink {
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : bold;
+	color : 996600;
+	text-decoration: underline;
+}
+
+.globalNav  {
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : normal;
+	color : 999999;
+	text-decoration: none;
+	
+}
+
+A.globalNav:hover  {
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : normal;
+	color : 00589E;
+	text-decoration: underline;
+	
+}
+
+.linkYellow  {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : bold;
+	color : 996600;
+	text-decoration : underline;
+}
+
+.linkLarge  {
+	font-family : Verdana;
+	font-size : 12px;
+	font-weight : bold;
+	color : 595959;
+}
+
+.linkSmall  {
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : normal;
+	color : 595959;
+	text-decoration:none;
+}
+
+.linkSmaller {
+	font-family : Verdana;
+	font-size : 9.5px;
+	font-weight : normal;
+	color : 595959;
+	text-decoration:none;
+}
+
+.linkNormal  {
+	font-family : Verdana;
+	font-size : 11px;
+	font-weight : normal;
+	color : 595959;
+}
+
+.linkNormalNoU {
+	font-family:Verdana;
+	font-size: 11px;
+	font-weight:normal;
+	color : #595959;
+	text-decoration:none;
+}
+
+a.linkNormalNoU:hover {
+	font-family:Verdana;
+	font-size:11px;
+	font-weight:normal;
+	color : #595959;
+	text-decoration:underline;
+}
+
+.linkbigger{
+	font-family : Verdana;
+	font-size : 12px;
+	font-weight : normal;
+	color : 595959;
+}
+
+.titleOne	{
+	font-family : Verdana;
+	font-size : 15px;
+	font-weight : bold;
+	color : 000000;
+}
+
+.titleTwo	{
+	font-family : Verdana;
+	font-size : 14px;
+	font-weight : bold;
+	color : 000000;
+	
+}
+
+.titlethree{
+	font-family : Verdana;
+	font-size : 12px;
+	font-weight : bold;
+	color : 000000;
+
+}
+
+.copyright {  
+	font-family: Verdana;
+	font-size: 10px;
+	line-height: 12px;
+	color: #aaaaaa;
+}
+.copyright a {
+	font-family: Verdana;
+	font-size: 10px;
+	line-height: 12px;
+	color: #00589E;
+	font-weight:normal;
+}
+
+.copyright a:hover {
+	text-decoration:underline;
+}
+
+.bodylistlabel{
+	font-family : Verdana;
+	font-size : 10px;
+	font-weight : normal;
+	font-size:7.01pt;
+	color:#999999;
+	text-transform:capitalize;
+}
+
+
+.bodylistrow0 {
+	background-color:white;
+}
+
+
+.bodylistrow1 {
+	background-color:e7e7e7;
+}
+
+.rowColor0 {
+	color : black;
+	background-color : white;
+	font-size : 10px;
+}
+.rowColor1 {
+	color : black;
+	background-color : e7e7e7;
+	font-size : 10px;
+}
+
+.rowaltColor0 {
+	color : black;
+	background-color : e7e7e7;
+	font-size : 10px;
+}
+.rowaltColor1 {
+	color : black;
+	background-color : white;
+	font-size : 10px;
+}
+
+.eventrowcolor0{
+	font-family: Verdana;
+	color : black;
+	background-color : white;
+	font-size : 11px;
+	
+}
+
+.eventrowcolor1{
+	font-family: Verdana;
+	color : black;
+	background-color : e9e9e9;
+	font-size : 11px;
+	
+}
+
+.mediatext{
+	font-family:verdana;
+	font-size:7.01pt;
+	font-weight:normal;
+	color:black;
+
+}
+
+a.medialink{
+	font-family:verdana;
+	font-size:7.01pt;
+	font-weight:normal;
+	color:black;
+	text-decoration:underline;
+}
+
+a.medialink:hover{
+	font-family:verdana;
+	font-size:7.01pt;
+	font-weight:normal;
+	color:black;
+	text-decoration:underline;
+}
+
+.textBlueSmall{
+	font-family:verdana;
+	font-size:10px;
+	font-weight:normal;
+	line-height:16px;
+	color:#00589E;
+}
+
+.textBlue{
+	font-family:verdana;
+	font-size:11px;
+	font-weight:normal;
+	line-height:16px;
+	color:#00589E;
+}
+		</style>
+	</head>
+	<body marginheight="0" topmargin="0" rightmargin="0" bottommargin="0" vspace="0" marginwidth="0" leftmargin="0" hspace="0" style="margin:0; padding:0;" bgcolor="">
+		<script type="text/javascript">
+		//HV Menu- by Ger Versluis (http://www.burmees.nl/)
+		//Submitted to Dynamic Drive (http://www.dynamicdrive.com)
+		//Visit http://www.dynamicdrive.com for this script and more
+
+			// added by TH on 7/1/2003
+			// sets path of navigation images, which is determined by language code
+			var navImagePath = "/images/ENG/nav/";
+			var navURLPath = "http://www.motive.com";
+
+			// used to manually select a top nav button, using the zero based index of the button. -1 = not used
+			//var navOverrideSelectedButton = -1;
+
+			function Go(){return}
+		</script>
+		<script type="text/javascript" src="/include/navigation/menu_config.js"></script>
+		<script type="text/javascript" src="/include/navigation/menu_arrays_ENG.js"></script>
+		<script type="text/javascript" src="/include/navigation/menu_com.js"></script>
+		<noscript>Your browser does not support script</noscript>
+		<table width="762" border="0" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+				<td width="761" align="left" valign="top">
+					<table width="761" border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td width="381" align="left" valign="top">
+								<table width="381" cellpadding="0" cellspacing="0" border="0">
+									<tbody><tr>
+										<td height="13" align="left" valign="top" colspan="2">
+											<img src="/images/ENG/spacer.gif" height="13" width="381" border="0"><br>
+										</td>
+									</tr>
+									<tr>
+										<td align="left" valign="top" width="8">
+											<img src="/images/ENG/spacer.gif" height="1" width="8" border="0"><br>
+										</td>
+										<td align="left" valign="top" width="373">
+											<a href="/"><img src="/images/ENG/header/logo_motive.gif" border="0"></a><br>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+							<td width="370" align="left" valign="top">
+								<table width="370" cellpadding="0" cellspacing="0" border="0">
+									<tbody><tr>
+										<td height="8" align="left" valign="top">
+											<img src="/images/ENG/spacer.gif" height="8" width="370" border="0"><br>
+										</td>
+									</tr>
+									<tr>
+										<td align="right" valign="top" class="globalNav" nowrap="">
+											<a href="/index.asp" class="globalNav">home</a> | <a href="/contact.asp" class="globalNav">contact</a> | <a href="/sitemap.asp" class="globalNav">site map</a> | <a href="/company/careers/careers.asp" class="globalNav">careers</a>
+										</td>
+									</tr>
+									<tr>
+										<td height="9" align="left" valign="top">
+											<img src="/images/ENG/spacer.gif" height="9" width="1" border="0"><br>
+										</td>
+									</tr>
+									<!--<tr>
+										<td height="19" align="left" valign="top">
+											<img src="/images/ENG/spacer.gif" height="19" width="1" border="0"><br>
+										</td>
+									</tr>-->
+									<tr><form name="langCodeForm" action="/privacy.asp" method="post"></form>
+										<td align="right" valign="top" class="textSmall" nowrap="">
+										<select name="languageCode" onchange="javascript:document.forms.langCodeForm.submit();" style="font-size:11px;"><option value="" selected="">Select Language</option><option value="ENG">English</option><option value="JPN">Japanese 日本語</option></select>
+										</td>
+										<input type="hidden" name="serverFunctionCall" value="changeLanguageCode">
+									
+									</tr>
+								</tbody></table>
+							</td>
+							<td width="8" align="left" valign="top">
+								<img src="/images/ENG/spacer.gif" height="1" width="8" border="0"><br>
+							</td>
+						</tr>
+					</tbody></table>
+					<table width="761" border="0" cellpadding="0" cellspacing="0">
+						<tbody><tr>
+							<td height="9" align="left" valign="top">
+								<img src="/images/ENG/spacer.gif" height="9" width="761" border="0"><br>
+							</td>
+						</tr>
+					</tbody></table>
+			<table width="761" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td height="70" width="310" align="right" valign="top" bgcolor="#7F7F7F">
+					
+						<img src="/images/ENG/header/heading_privacy.gif" height="70" width="310"><br>
+					</td>
+					<td>
+						<img src="/images/ENG/header/header_generic.gif" height="70"><br>
+					</td>
+					<td width="100%" bgcolor="#C9C7A6">
+						&nbsp;
+					</td>
+				</tr>
+			</tbody></table>
+			<table width="761" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td height="1" align="left" valign="top">
+						<img src="/images/ENG/spacer.gif" height="1" width="1" border="0"><br>
+					</td>
+				</tr>
+			</tbody></table>
+			<table width="760" height="22" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+			  		<td width="760" height="22">			  			
+			  			<div id="MenuPos" style="position:relative; width:760; height:22; z-index: 100;"></div></td>
+			  	</tr>
+			</tbody></table>
+			<table width="761" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					
+							<td width="125" height="20" align="left" valign="top">
+								<img src="/images/ENG/spacer.gif" border="0" height="20" width="125"><br>
+							</td>
+							<td width="15" height="20" align="left" valign="top">
+								<img src="/images/ENG/spacer.gif" border="0" height="20" width="15"><br>
+							</td>
+					
+								<td width="606" height="20" align="left" valign="top">
+									<img src="/images/ENG/spacer.gif" border="0" height="20" width="606"><br>
+								</td>
+								<td width="15" height="20" align="left" valign="top">
+									<img src="/images/ENG/spacer.gif" border="0" height="20" width="15"><br>
+								</td>
+					
+							</tr>
+							<tr>
+								<td align="left" valign="top">
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tbody><tr>
+											<td colspan="2" height="1" align="left" valign="top" bgcolor="#999999">
+												<img src="/images/ENG/spacer.gif" width="1" height="1"><br>
+											</td>
+										</tr>
+										<tr>
+											<td width="12" height="2" align="left" valign="top">
+												<img src="/images/ENG/spacer.gif" width="12" height="2"><br>
+											</td>
+											<td width="100%" height="2" align="left" valign="top">
+												<img src="/images/ENG/spacer.gif" width="1" height="2"><br>
+											</td>
+										</tr>
+										<tr>
+											<td width="12" height="5" align="left" valign="top">
+												<img src="/images/ENG/spacer.gif" width="12" height="5"><br>
+											</td>
+											<td align="left" valign="top">
+												<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td align="left" valign="top" class="leftNavHeader">
+			
+					<a class="leftNavHeader" onmouseover="javascript:mouseOverLeftNavHeading();" onmouseout="javascript:mouseOutLeftNavHeading();" href="">Motive.com</a>
+			
+
+		</td>
+		<td align="right" valign="top">
+			<img name="bullet_heading" src="/images/ENG/common/dottedarrow_down_blue.gif" border="0" height="5" width="5" vspace="5"><br>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top">
+			<img src="/images/ENG/common/spacer.gif" height="15" width="1"><br>
+		</td>
+	</tr>
+	<tr>
+		<td align="left" valign="top">
+		
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+		
+	<tbody><tr>
+		<td align="left" valign="top" width="3">
+			<img src="/images/spacer.gif" border="0" width="3" height="1"><br>
+		</td>
+		<td align="left" valign="top" width="5">
+			<script language="javascript">
+				getLeftNavBullet(3661,'Contact');
+			</script><img name="bullet_3661" src="/images/ENG/common/spacer.gif" border="0" height="5" width="5" vspace="5"><br>			
+		</td>
+		<td align="left" valign="top" width="5">
+			<img src="/images/spacer.gif" border="0" width="5" height="1"><br>
+		</td>
+		<td align="left" valign="top" class="leftNavLink">
+			<a href="/contact.asp" class="leftNavLink" id="leftNavLink_3661" onmouseover="javascript:mouseOverLeftNavItem(3661);" onmouseout="javascript:mouseOutLeftNavItem(3661);">Contact</a>			
+			<script language="javascript">
+				setLeftNavLinkColor(3661,'Contact');
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td height="10" valign="top" align="left" colspan="4">
+			<img src="/images/spacer.gif" border="0" height="10" width="1"><br>
+		</td>
+	</tr>
+		
+	<tr>
+		<td align="left" valign="top" width="3">
+			<img src="/images/spacer.gif" border="0" width="3" height="1"><br>
+		</td>
+		<td align="left" valign="top" width="5">
+			<script language="javascript">
+				getLeftNavBullet(3663,'Privacy Policy');
+			</script><img name="bullet_3663" src="/images/ENG/common/dottedarrow_right_black.gif" border="0" height="5" width="5" vspace="5"><br>			
+		</td>
+		<td align="left" valign="top" width="5">
+			<img src="/images/spacer.gif" border="0" width="5" height="1"><br>
+		</td>
+		<td align="left" valign="top" class="leftNavLink">
+			<a href="/privacy.asp" class="leftNavLink" id="leftNavLink_3663" onmouseover="javascript:mouseOverLeftNavItem(3663);" onmouseout="javascript:mouseOutLeftNavItem(3663);">Privacy Policy</a>			
+			<script language="javascript">
+				setLeftNavLinkColor(3663,'Privacy Policy');
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td height="10" valign="top" align="left" colspan="4">
+			<img src="/images/spacer.gif" border="0" height="10" width="1"><br>
+		</td>
+	</tr>
+		
+	<tr>
+		<td align="left" valign="top" width="3">
+			<img src="/images/spacer.gif" border="0" width="3" height="1"><br>
+		</td>
+		<td align="left" valign="top" width="5">
+			<script language="javascript">
+				getLeftNavBullet(3664,'Site Map');
+			</script><img name="bullet_3664" src="/images/ENG/common/spacer.gif" border="0" height="5" width="5" vspace="5"><br>			
+		</td>
+		<td align="left" valign="top" width="5">
+			<img src="/images/spacer.gif" border="0" width="5" height="1"><br>
+		</td>
+		<td align="left" valign="top" class="leftNavLink">
+			<a href="/sitemap.asp" class="leftNavLink" id="leftNavLink_3664" onmouseover="javascript:mouseOverLeftNavItem(3664);" onmouseout="javascript:mouseOutLeftNavItem(3664);">Site Map</a>			
+			<script language="javascript">
+				setLeftNavLinkColor(3664,'Site Map');
+			</script>
+		</td>
+	</tr>
+	<tr>
+		<td height="10" valign="top" align="left" colspan="4">
+			<img src="/images/spacer.gif" border="0" height="10" width="1"><br>
+		</td>
+	</tr>
+	
+</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+											</td>
+										</tr>
+									</tbody></table>
+								</td>
+								<td align="left" valign="top">
+									<img src="/images/ENG/spacer.gif" border="0" height="300" width="15"><br>
+								</td>
+								<td align="left" valign="top" class="textLeaded">									
+									<span class="titleTwo">Motive Privacy Policy</span><br>
+		  <p><b>Motive,
+		  Inc.</b> recognizes the importance of protecting the privacy of information
+		  we may collect from our online visitors. To this end, we are committed
+		  to using our best efforts to respect the privacy of our online visitors.
+		  Motive does not sell or provide names, e-mail address or other information
+		  to any third party for any reason. Motive's Web site deposits certain bits
+		  of information called "cookies" in a visitor's computer. Cookies are sent
+		  back only to the Motive Web site that deposited them when a visitor returns
+		  to that site. Cookies help us determine how and when pages are visited and
+		  by how many people. This technology does not collect any personal identifiable
+		  information that you do not specifically provide us. Any information you
+		  provide us is used to improve the navigation of our Web sites. Furthermore,
+		  Motive does not believe in sending e-mail ("spam") to people that do
+		  not wish to receive it. </p>
+								<br><img src="/images/ENG/spacer.gif" width="1" height="20" border="0">
+							</td>
+							<td width="15">
+								<img src="/images/ENG/spacer.gif" width="15" height="2"><br>
+							</td>
+							
+						</tr>
+					</tbody></table>
+					<table width="761" cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr>
+							<td height="1" align="left" valign="top" bgcolor="#999999">
+								<img src="/images/ENG/spacer.gif" height="1" width="1" border="0"><br>
+							</td>
+						</tr>
+					</tbody></table>
+					<table width="761" cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr>
+							<td height="3" align="left" valign="top">
+								<img src="/images/ENG/spacer.gif" height="3" width="1" border="0"><br>
+							</td>
+						</tr>
+					</tbody></table>
+					<table width="761" cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr>
+							<td width="15">
+								<img src="/images/ENG/spacer.gif" width="15" height="35"><br>
+							</td>
+							<td height="35" width="245" valign="middle" class="textLeaded" nowrap="">
+								<table cellpadding="0" cellspacing="0" border="0">
+									<tbody><tr>
+										<td height="4">
+											<img src="/images/ENG/spacer.gif" width="1" height="4"><br>
+										</td>
+									</tr>
+									<tr>
+										<td valign="top" class="textLeaded">
+											<a href="/customers/customers.asp"><img src="/images/ENG/footer/text_customerlogos.gif" border="0"></a><br>
+										</td>
+									</tr>
+									<tr>
+										<td height="4">
+											<img src="/images/ENG/spacer.gif" width="1" height="4"><br>
+										</td>
+									</tr>
+								</tbody></table>
+							</td>
+							<td height="35">
+								<img src="/images/ENG/spacer.gif" width="25" height="35"><br>
+							</td>
+							<td height="35" align="left" valign="top">
+								<a href="/customers/customers.asp"><img src="/images/ENG/footer/animation_customerlogos.gif" border="0"></a><br>
+							</td>
+							<td height="35" width="10">
+								<img src="/images/ENG/spacer.gif" height="35" width="10" border="0"><br>
+							</td>
+						</tr>
+					</tbody></table>
+					<table width="761" cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr>
+							<td height="3" align="left" valign="top">
+								<img src="/images/ENG/spacer.gif" height="3" width="1" border="0"><br>
+							</td>
+						</tr>
+					</tbody></table>
+					<table width="761" cellpadding="0" cellspacing="0" border="0">
+						<tbody><tr>
+							<td height="1" align="left" valign="top" bgcolor="#999999">
+								<img src="/images/ENG/spacer.gif" height="1" width="1" border="0"><br>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td width="1" align="left" valign="top" bgcolor="#999999">
+					<img src="/images/ENG/spacer.gif" height="1" width="1" border="0"><br>
+				</td>
+			</tr>
+		</tbody></table>
+		<table width="761" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td height="20" align="left" valign="top">
+					<img src="/images/ENG/spacer.gif" height="20" width="1" border="0"><br>
+				</td>
+			</tr>
+		</tbody></table>
+		<table width="761" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td width="13">
+					<img src="/images/ENG/spacer.gif" width="13" height="2">
+				</td>
+				<td valign="top" align="left" class="copyright">
+					Copyright © <script language="JavaScript">document.write(this_year)</script>2020 Motive, Inc. All rights reserved. None of the text or images on this page may be reproduced without the express  written consent of Motive. Please read our <a href="/privacy.asp">privacy policy</a>.
+				</td>
+				<td width="13">
+					<img src="/images/ENG/spacer.gif" width="13" height="2">
+				</td>
+			</tr>
+		</tbody></table>
+		<table width="761" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+				<td height="500" align="left" valign="top">
+					<img src="/images/ENG/spacer.gif" height="500" width="1" border="0"><br>
+				</td>
+			</tr>
+		</tbody></table>
+		
+	
+<div style="position: absolute; visibility: visible; background-color: rgb(76, 76, 76); width: 761px; height: 22px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 101; top: 124px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 108px; height: 22px; left: 0px; top: 0px;"><img src="/images/ENG/nav/btn_solutions_off.gif" name="Menu1i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 106px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 105px; height: 22px; left: 108px; top: 0px;"><img src="/images/ENG/nav/btn_products_off.gif" name="Menu2i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 103px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 101px; height: 22px; left: 213px; top: 0px;"><img src="/images/ENG/nav/btn_services_off.gif" name="Menu3i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 99px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 113px; height: 22px; left: 314px; top: 0px;"><img src="/images/ENG/nav/btn_customers_off.gif" name="Menu4i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 111px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 103px; height: 22px; left: 427px; top: 0px;"><img src="/images/ENG/nav/btn_partners_off.gif" name="Menu5i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 101px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 101px; height: 22px; left: 530px; top: 0px;"><img src="/images/ENG/nav/btn_company_off.gif" name="Menu6i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 99px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(76, 76, 76); text-align: left; width: 130px; height: 22px; left: 631px; top: 0px;"><img src="/images/ENG/nav/btn_newsevents_off.gif" name="Menu7i"><img src="/images/ENG/nav/spacer.gif" style="position: absolute; width: 0px; height: 0px; top: 20px; left: 128px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 210px; height: 76px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Communications<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 203px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Consumer Technology<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 203px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Enterprise Technology<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 203px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Managed Services<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 203px;"></div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 250px; height: 76px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Small Business Broadband<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 243px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Home Networking</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Total Broadband Care</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Subscriber Policy Management</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 250px; height: 38px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 104; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Small Business Support</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Small Business Service Delivery</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 250px; height: 19px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Consumer PC Support</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 250px; height: 57px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Remote Application Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Remote Infrastructure Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">On-demand Application Profiling</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 250px; height: 57px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Application Outsourcing Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Desktop Outsourcing Solution</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 250px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Remote Infrastructure Management</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 225px; height: 38px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Product Index<img src="/images/ENG/nav/arrow_right.gif" style="position: absolute; width: 5px; height: 5px; top: 7px; left: 218px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 225px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Service Management Technology</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 175px; height: 171px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 103; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 175px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Broadband Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 175px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Desktop Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 175px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Enterprise Service Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 175px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Home Network Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 175px; height: 19px; left: 0px; top: 76px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Business Class Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 175px; height: 19px; left: 0px; top: 95px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Technical Profile Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 175px; height: 19px; left: 0px; top: 114px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Customer Service Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 175px; height: 19px; left: 0px; top: 133px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Remote Service Manager</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev3nav.gif&quot;); width: 175px; height: 19px; left: 0px; top: 152px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Usage Policy Manager</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 210px; height: 95px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Customer Care</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Education and Training</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Technical Deployment</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Managed Services</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 210px; height: 19px; left: 0px; top: 76px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Business Optimization Services</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 140px; height: 19px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 140px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Success Stories</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 190px; height: 38px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Communications Partners</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">High-Tech Partners</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 190px; height: 114px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">About Motive</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Management Team</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Board of Directors</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Careers</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 76px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Customer Experience Center</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 190px; height: 19px; left: 0px; top: 95px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Investor Relations</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(76, 76, 76); width: 180px; height: 95px; font-family: verdana; font-weight: normal; font-style: normal; font-size: 7.5pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 180px; height: 19px; left: 0px; top: 0px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Press Room</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 180px; height: 19px; left: 0px; top: 19px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Coverage</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 180px; height: 19px; left: 0px; top: 38px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Press Releases</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 180px; height: 19px; left: 0px; top: 57px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Tradeshows &amp; Conferences</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: rgb(255, 255, 255); background-color: rgb(102, 102, 102); text-align: left; background-image: url(&quot;/images/ENG/nav/bg_lev2nav.gif&quot;); width: 180px; height: 19px; left: 0px; top: 76px;"><img src="/images/ENG/nav/spacer.gif" width="1" height="3"><br><img src="/images/ENG/nav/spacer.gif" width="17" height="1">Webinars</div></div></body></html>
