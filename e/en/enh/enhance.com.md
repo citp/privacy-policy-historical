@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the enhance.com privacy policy that was archived on 2004-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040618111532id_/http%3A//enhance.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enhance.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204013350id_/http%3A//enhance.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Enhance Interactive - Privacy Policy
 
 PRIVACY STATEMENT
 
-Enhance Interactive (formerly ah-ha.com) respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such children. 
+Enhance Interactive respects your privacy. Our purpose in collecting information from you is to help us provide you with better service, such as notifications about special offers and promotions. We will not willfully disclose any individually identifiable information about you to any third party without first receiving your permission, as explained in this privacy statement. Furthermore, we do not specifically target children under the age of 13, nor do we knowingly collect, without parental consent, individually identifiable information from such children. 
 
 What Information Do We Collect?  
 From time to time we may request that an entity making application for an account with Enhance Interactive provide us with certain personal information (such as their name, email address, etc.) in connection with various services offered on our site. We do not collect any personal information except when an individual specifically and knowingly provides such information. When we request information, we explain how this information may be used and give you an opportunity to request that the information not be used for those purposes. We also give you an opportunity to opt out of future communications from us. 
