@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcbstx.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602022906id_/http%3A//www.bcbstx.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbstx.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020061853id_/http%3A//www.bcbstx.com/privacy.htm) for the most accurate reproduction.*
 
 # Web Site Privacy Statement - Blue Cross and Blue Shield of Texas
 
@@ -32,7 +32,7 @@ Because we value your relationship with us, we have detailed below our privacy o
 
 > Please use your own best judgment when sending information via the Internet to an e-mail address. E-mail sent via the Internet may pass through private and public networks with varying levels of security. Some networks may have taken steps to secure e-mail transmissions while others have not, thereby compromising the privacy and integrity of an e-mail. An e-mail may be copied, altered or destroyed.
 > 
-> **If you have personal or confidential information to relay to our company, please call the appropriate member service phone number that you will find on our[Member Services Contact Us](http://members.bcbstx.com/contact/mem-contact.htm) section.**
+> **If you have personal or confidential information to relay to our company, please call the appropriate member service phone number that you will find on our[Member Services Contact Us](http://members.bcbstx.com/contact.htm) section.**
 > 
 > We preserve the content of your e-mail, your e-mail address and our response so that we can efficiently respond to questions you might have. We also do this in an effort to meet legal and regulatory requirements. 
 > 
@@ -44,7 +44,7 @@ Because we value your relationship with us, we have detailed below our privacy o
 
 
 
-> We use Internet Cookies in places such as the [Rate Finder](http://www.bcbstx.com/indrating/introduction.asp)SM to remember the information you provide during a session. The information is to be retained only for that particular session so you don't have to re-enter it as you progress through the Rate Finder. Please refer to our Frequently Asked Questions section on the Web site for more information on [Internet Cookies](https://web.archive.org/web/20010602022906id_/http%3A//www.bcbstx.com/search/faq-cookies.htm).
+> We use Internet Cookies in places such as the [Rate Finder](http://www.bcbstx.com/indrating/introduction.asp)SM to remember the information you provide during a session. The information is to be retained only for that particular session so you don't have to re-enter it as you progress through the Rate Finder. Please refer to our Frequently Asked Questions section on the Web site for more information on [Internet Cookies](https://web.archive.org/web/20011020061853id_/http%3A//www.bcbstx.com/search/faq-cookies.htm).
 
 [Top of Page]
 
@@ -54,7 +54,7 @@ Because we value your relationship with us, we have detailed below our privacy o
 
 > Again, please use your own best judgment when sending information via the Internet to an e-mail address. E-mail sent via the Internet may pass through private and public networks with varying levels of security. Some networks may have taken steps to secure e-mail transmissions while others have not, thereby compromising the privacy and integrity of an e-mail. An e-mail may be copied, altered or destroyed.
 > 
-> **If you have personal or confidential information to relay to our company, please call the appropriate member service phone number that you will find on our[Member Services Contact Us](http://members.bcbstx.com/contact/mem-contact.htm) section.**
+> **If you have personal or confidential information to relay to our company, please call the appropriate member service phone number that you will find on our[Member Services Contact Us](http://members.bcbstx.com/contact.htm) section.**
 > 
 > If you do provide personal information, such as an e-mail, telephone or fax number, or other identifying information, we do not plan to disclose it without your consent. We will plan to maintain this information, as well as any other transactions, according to our usual security and confidentiality standards.
 
