@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the thehawaiichannel.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215170413id_/http%3A//www.thehawaiichannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehawaiichannel.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621075215id_/http%3A//www.thehawaiichannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheHawaiiChannel - KITV 4 News
 
-|   
----|---  
-  
 [](https://web.archive.org/news//detail.html)
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.TheHawaiiChannel.com](http://www.thehawaiichannel.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
