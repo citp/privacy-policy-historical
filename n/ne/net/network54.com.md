@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the network54.com privacy policy that was archived on 2000-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001216032000id_/http%3A//network54.com/Help%3Ftopic%3Dprivacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the network54.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604063454id_/http%3A//network54.com/Help%3Ftopic%3Dprivacystatement) for the most accurate reproduction.*
 
 # 
 
@@ -36,3 +36,5 @@ Network54 Corporation
 26th Floor  
 Los Angeles, CA 90036  
 info@network54.com 
+
+**[Return to Help Documents](https://web.archive.org/Help)**
