@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the washingtongas.com privacy policy that was archived on 2000-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001102100408id_/http%3A//www.washingtongas.com/policies/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtongas.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616125143id_/http%3A//www.washingtongas.com/policies/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -76,7 +76,7 @@ Top of Page
   
 
 
-[Home Page](http://www.washgas.com/index.htm)  .  [ Corporate Profile ](http://www.washgas.com/corp/index.htm) .  [Customer Information](http://www.washgas.com/custinfo/index.htm)  .  [Products & Services](http://www.washgas.com/products/index.htm)  .  [In the News](http://www.washgas.com/index.cfm)  .  [Financial Facts](http://www.washgas.com/finance/index.htm)  .  [Shareholder Information](http://www.washgas.com/finance/sharehld.htm)  .  [Career Opportunities](http://www.washgas.com/career/index.htm)  .  [Comments](http://www.washgas.com/custinfo/comments.htm)
+[Home Page](http://www.washgas.com/index.htm)  .  [ Corporate Profile ](http://www.washgas.com/corp/index.htm) .  [Customer Information](http://www.washgas.com/custinfo/index.htm)  .  [Products & Services](http://www.washgas.com/products/index.htm)  .  [In the News](http://www.washgas.com/index.cfm)  .  [Financial Facts](http://www.washgas.com/finance/index.htm)  .  [Shareholder Information](http://www.washgas.com/finance/sharehld.htm)  .  [Career Opportunities](http://www.washgas.com/career/index.htm)  .  [Comments](http://www.washgas.com/custinfo/comments.htm)[Terms & Conditions of Use](http://www.washgas.com/policies/terms.htm) / [Privacy Policy ](http://www.washgas.com/policies/privacy_policy.htm) / [Security Policy](http://www.washgas.com/policies/security_policy.htm)
 
-Copyright © 2000 Washington Gas.  
+Copyright © 2001 Washington Gas.  
 
