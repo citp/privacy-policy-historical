@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208171157id_/http%3A//www.allmusic.com/cg/amg.dll%3Fp%3Damg%26sql%3D32%3Aamg/info_pages/a_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmusic.com privacy policy that was archived on 2005-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050325083553id_/http%3A//www.allmusic.com/cg/amg.dll%3Fp%3Damg%26sql%3D32%3Aamg/info_pages/a_privacy_policy.html) for the most accurate reproduction.*
 
 # allmusic
 
