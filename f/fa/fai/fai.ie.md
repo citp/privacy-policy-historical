@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fai.ie privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610033446id_/http%3A//www.fai.ie/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fai.ie privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607204726id_/http%3A//www.fai.ie/privacy.htm) for the most accurate reproduction.*
 
-# Welcome to the FAI! 09:57:44 P.M.
+# Welcome to the FAI!
 
 **Privacy Policy  
 Football Association of Ireland**
