@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualsports.com.au privacy policy that was archived on 2002-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020512113346id_/http%3A//footy.virtualsports.com.au/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualsports.com.au privacy policy that was archived on 2002-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020901034042id_/http%3A//footy.virtualsports.com.au/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
 # VirtualSPORTS - The AFL Aussie Rules Fantasy Football Challenge! Play Fantasy Football, FREE!
 
