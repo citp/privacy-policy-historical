@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godubai.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610192807id_/http%3A//godubai.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godubai.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204100542id_/http%3A//www.godubai.com/privacy.asp) for the most accurate reproduction.*
 
 # Go Dubai:Complete Online Information Guide to Dubai,United Arab Emirates,UAE
 
