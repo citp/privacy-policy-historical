@@ -1,0 +1,60 @@
+> *The following text is extracted and transformed from the vue.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622114120id_/http%3A//www7.vue.com/legal/privacy) for the most accurate reproduction.*
+
+# Pearson VUE Privacy Policy
+
+NCS Pearson has adopted the following Privacy Policy applicable to personal information that it may receive related to certification and licensure testing.
+
+Certification and Licensure Test Services
+
+We provide certification and licensure testing services as a service provider to test sponsors. The sponsor of a test is the company or organization that offers certification or licensure and controls the test(s) that must be taken to secure that certification or licensure. We collect or receive personal information from certification or licensure candidates. We use this information in order to perform these testing services on behalf of the test sponsor, to collect payment for the testing services requested, and to communicate with the candidate about certification and licensure testing and the results of the testing. Providing personal data is voluntary, but necessary if the candidate wishes to receive licensure or certification testing. We will handle and treat all personal information collected and received by us in connection with certification and licensure test registration and administration in the manner outlined in this Privacy Policy.
+
+  * **Safe Harbor.** We adhere to the U.S. Commerce Department's Safe Harbor principles for personal information collected in connection with the delivery of certification and licensure testing services. For further information, see [www.export.gov/safeharbor](http://www.export.gov/safeharbor). This means that we are dedicated to provide a high level of privacy protection, as defined by both American and European Community law, for this information. We are also committed to compliance with the decisions of the European Community Data Protection Authority in collecting and handling this information.
+  * **Personal Information Collected.** The personal data that we collect or receive in registering a candidate ("you") for certification or licensure testing services include: name, address, email address, phone number, fax number, credit/debit card information, company and title. We may also collect or receive the following additional information at registration or in the testing process, as necessary or appropriate: language, employment information, previous examination history, education information, and source of financing for the examination. When an electronic certification test is administered to you, we collect and score your test responses and then derive a test score and generate a report about your professional certification test results. Unless we provide specific notice and obtain your consent, NCS Pearson does not collect or process any sensitive information, as defined by the Safe Harbor scheme, in connection with certification or licensure testing services.
+  * **Aggregation of Non-Person-Specific Data.** We may statistically aggregate in non-person-specific form test responses and other information collected in the certification and licensure test registration and delivery process and transfer this information to test sponsors and to independent testing centers. Such aggregated non-person-specific information may be used for quality control, operations management, security and marketing purposes and to enhance, develop or improve licensure and certification processes, testing services, tests and related products and services. By registering for a test through us, you give your consent to this non-person-specific data aggregation and the use and transmission of this aggregated statistical data as outlined above.
+  * **Email Newsletters.** We may use your email address to send you an email newsletter about certification or licensure testing. You may opt out of receiving the newsletter at any time by notifying us by email at [mktg@vue.com](mailto:mktg@vue.com) or following the opt-out instructions in the email newsletter.
+  * **Transfer of Information to Test Sponsors.** By registering for a test through us, you give your consent for your personal information (with the exception of your debit/credit card information) to be transmitted by NCS Pearson to the test sponsor from whom you seek certification or licensure. The test sponsors require this personal data so that (a) tests can be correctly administered; (b) certification or licensure can be processed and administered; and (c) candidates can receive further information about licensure or certification. For further information about how the sponsor may use your personal information, please contact the sponsor. 
+  * **Other Transfer of Information.** In addition to transmitting certain personal data about you to a test sponsor, we may disclose personally identifiable information in the following situations: (a) in response to a subpoena, court order or legal process, to the extent permitted and required by law; (b) to protect user security or the security of other persons, consistent with applicable law; (c) in connection with a sale, joint venture or other transfer of some or all of the assets of NCS Pearson, Inc.; and (d) to organizations, including independent testing centers, who are working as contractors or agents to fulfil a service or supply a product on our behalf and who are committed or obliged to protect your privacy in a manner consistent with this Privacy Policy. By registering for a test through us, you give your consent for your personal information to be transmitted in the situations outlined above.
+  * **Independent Testing Centers.** Certain certification and licensure tests are administered through independent testing centers. These centers may provide unrelated services and may collect and use personal data for other purposes under different terms and policies. If you have any questions or concerns about an independent testing center's collection or use of any of your personal information, please talk to the independent testing center directly. If you have unaddressed concerns about an independent testing center relating to licensure and certification services supplied by NCS Pearson, please contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com).
+  * **Information Access and Corrections.** To access and correct the personal information that we have collected under this policy, please contact our Call Center or send us an email. To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making alterations.
+  * **Protection of Personal Information.** We use reasonable precautions to protect personal information from unauthorized use, access, disclosure, alteration or destruction. These precautions include appropriate physical, electronic and managerial procedures. We provide a secured transmission method for the electronic transmission of credit/debit card information.
+  * **Resolution of Concerns.** If you have questions or concerns about this Privacy Policy or how we have handled personal data, please contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). If we are unable to satisfactorily address your concerns, you should contact the Data Protection Authority, or other relevant organization, in your area.
+
+
+
+Information from Children
+
+This Web site and our certification and licensure testing services are not directed to children or anyone under the age of thirteen (13). NCS Pearson will not, through this Web site or through its professional certification test registration and administration process, knowingly collect, maintain or use any personally identifiable information about anyone under the age of thirteen (13).
+
+Information Received from Internet Service Providers Through This Web Site
+
+This Web site receives information that is automatically generated by a user's Internet service provider (ISP). This information may include the IP address (a number automatically assigned to a computer by the ISP), the associated URLs, domain types, the browser type used to access our site, the country, state and telephone area code, the location of the ISP's servers, the pages of our site that the user views during the visit, any search terms entered on this site, and the user's Web site address and email address. This information may be collected for system administration purposes, to gather broad demographic information and to monitor the level of activity on the site. NCS Pearson does not link IP addresses to personally identifiable information; however, we reserve the right to link IP addresses and other information supplied by the ISP to personally identifiable information in order to protect the integrity of our system and for security purposes.
+
+Cookies
+
+Cookies are small text files that a Web site transfers to your computer's browser. We use cookies to measure traffic patterns, personalize content and control security. The cookies we use supply non-personally identifiable information, but they may identify your computer, browser and Internet specifications.
+
+Transmission of Information
+
+The Internet is a global environment. By using this site and sending information to us electronically, you consent to transborder and international transmission of any data that you may choose to supply us. Information transmissions to this site and emails sent to us may not be secure. Given the inherent operation and nature of the Internet, all Internet transmissions are done at the user's own risk.
+
+Information Policy Relating to Test Center Applications
+
+For information submitted by businesses wishing to become Pearson VUE-authorized test centers, please see the [Information Policy regarding Test Center Applications](https://web.archive.org/legal/vtcpolicy/).
+
+Links to Other Sites
+
+This site may contain links to other Web sites on the Internet that are owned and operated by third parties, or by NCS Pearson or its affiliates. The information practices of those Web sites are not covered by this Privacy Policy, but by their own terms and policies, which you should read carefully. These other sites may send their cookies to users, collect data or solicit personal information. This Privacy Policy applies only to information collected or received in connection with certification and license testing. This Privacy Policy is not intended to apply to other NCS Pearson Web sites, or other types of information which may be subject to different privacy policies.
+
+Changes to This Privacy Policy
+
+We reserve the right to change the terms of this Privacy Policy from time to time by posting an updated Privacy Policy. We encourage you to review this Privacy Policy periodically for any changes or updates.
+
+How to Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). You may also contact us through one of our Call Centers:
+
+  * **Americas** 952-681-3918
+  * **Europe, Middle East and Africa** +31 30 2874962
+  * **Asia-Pacific** +61 2 9467 6600
+
+
