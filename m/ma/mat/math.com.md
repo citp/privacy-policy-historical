@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331122338id_/http%3A//math.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the math.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202021418id_/http%3A//www.math.com/privacy.html) for the most accurate reproduction.*
 
 # Math.com Privacy Policy
 
@@ -68,6 +68,13 @@ If you have any questions about the Math.com Privacy Policy, the practices of th
 * For our legal friends, the term "Math.com" refers to Math.com, LLC, and the term "Site" refers to the Math.com website found at http://www.math.com.[Back to Top]
 
 **Advertising**  
-Math.com works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>.
 
+
+  * **Third Party Advertising**
+  
+The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy).  
+
+  * **Third Party Cookies**
+  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 |    | 
