@@ -1,27 +1,6 @@
-> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620223200id_/http%3A//www.gamezone.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamezone.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205064100id_/http%3A//gamezone.com/privacy/privacy.htm) for the most accurate reproduction.*
 
-# GameZone - Meet Our Affiliates!
-
-|  | [**Downloads**](https://web.archive.org/demos/demos.asp)  
----|---  
-| [**GameShop**](https://web.archive.org/gameshop/index.htm)  
-| [**Hints & Cheats**](https://web.archive.org/hints/hints.asp)  
-| [**Message Board**](https://web.archive.org/messageboard/index.asp)  
-| [ **New Releases**](https://web.archive.org/released/released.asp)  
-| [**Online Games**](https://web.archive.org/ongaming/ongaming_list.asp)  
-| [**Online Game Sites**](https://web.archive.org/ongaming/Ongaming.asp)  
-| [**Patches & Updates**](https://web.archive.org/patches/patches.asp)  
-| [**Previews**](https://web.archive.org/previews/reviews.asp)  
-| [**Reviews**](https://web.archive.org/reviews/reviews.asp)  
-| [**Sneak Peeks**](https://web.archive.org/sneak/sneak.asp)  
-|   
----|---  
-  
-|   
----|---  
-  
-  
-| 
+# GameZone.com - GameZone Privacy Policy
 
     
 **GAMEZONE ONLINE PRIVACY STATEMENT**
@@ -60,8 +39,8 @@
 >
 >> By entering GameZone contests, users consent to the use of their name in the announcement of the winners on the GameZone site and/or Newsletter, and use of their name and likeness for advertising and/or promotional and/or marketing purposes. Users' contact information may also be used by GameZone to notify the user they have won and to confirm their mailing address. For additional contest rules and regulations, please refer to the following pages:
 >> 
->> Free Giveaway Contest Rules: [ http://www.gamezone.com/winfree/ContestRules.asp](http://www.gamezone.com/winfree/ContestRules.asp)  
->  Ultra-Link Contest Rules: [ http://www.gamezone.com/linkcontest/LinkContestRules.asp](http://www.gamezone.com/linkcontest/LinkContestRules.asp)
+>> Free Giveaway Contest Rules: [ http://www.gamezone.com/winfree/ContestRules.htm](http://www.gamezone.com/winfree/ContestRules.htm)  
+>  Ultra-Link Contest Rules: [ http://www.gamezone.com/linkcontest/LinkContestRules.htm](http://www.gamezone.com/linkcontest/LinkContestRules.htm)
 > 
 > **GameShop**
 >
@@ -105,8 +84,3 @@
 >  [webmaster@gamezone.com](mailto:webmaster@gamezone.com)  
 >    
 > 
-
-* * *
-
-**_  Copyright GameZone Online  
- Last revised: 12/10/99_**
