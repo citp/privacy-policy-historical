@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2000-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001018080231id_/http%3A//www.uspto.gov/web/doc/privact.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602041600id_/http%3A//www.uspto.gov/web/doc/privact.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -34,4 +34,4 @@ _Last updated: August 16, 2000_
   
 **[HOME](http://www.uspto.gov/) | [INDEX](http://www.uspto.gov/web/navaids/siteindx.htm) | [SEARCH](http://www.uspto.gov/web/menu/search.html) | [SYSTEM STATUS](http://www.uspto.gov/helpdesk/status/status.htm) | [BUSINESS CENTER](http://www.uspto.gov/ebc/indexebc.html) | [NEWS&NOTICES](http://www.uspto.gov/web/offices/ac/ahrpa/opa/index.html) | [CONTACT US](http://www.uspto.gov/web/menu/feedback.html) | [PRIVACY STATEMENT](http://www.uspto.gov/web/doc/privact.htm) **
 
-_Last Modified: 01/30/2020 06:43:28_
+_Last Modified: 01/30/2020 06:43:31_
