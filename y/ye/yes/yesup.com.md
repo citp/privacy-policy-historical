@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the yesup.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203133644id_/http%3A//yesup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesup.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603094139id_/http%3A//www4.yesup.com/privacy.php) for the most accurate reproduction.*
 
-# yesup.com targeted pay per click advertising
+# www.yesup.com targeted pay per click advertising
 
 |  |  |   
 ---  
 |  **Privacy Policy**|     
 ---|---  
-At yesup.com (yesup.com) we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. 
+At www.yesup.com (www.yesup.com) we are committed to protecting your privacy. Any information we collect, such as email addresses, is submitted at the visitor's will. We do not and will not share any personal information with any third parties unless by governmental order. 
 
 We have NO access to any information collected by our Payment Services providers and you may direct further inquiries here:   
 PAYPAL [ http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside](http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside)  
@@ -16,7 +16,7 @@ PAYPAL [ http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside](http://
   |    
 **Cookies** |    
 All browsers offer "cookies" and if you permit their use, they will store small amounts of data on your computer about your visit to the site that placed the cookie. A cookie is a simple piece of text. It is not a program, or a plug-in. It cannot be used as a virus, and it cannot access your hard drive. Cookies simply assist in tracking which features you like best and allow content to be customized upon your return, according to prior preferences at that site. They gather and hold NO personal information. **  
-At yesup.com We may use cookies to:**   
+At www.yesup.com We may use cookies to:**   
 ::Save your password so you don't have to re-enter it each time you visit our sites.  
 We do not use cookies to identify, monitor or track any personally identifiable information. Our cookies in and of themselves do not contain any personally identifiable information about you. We do not merge or associate our cookie information with any personally identifiable information obtained by us or from third parties. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. For more information on how to modify your browser settings to block or filter cookies, see [ http://www.cookiecentral.com/faq/](http://www.cookiecentral.com/faq/). 
 
@@ -33,8 +33,8 @@ PAYPAL [ http://www.paypal.com/cgi-bin/webscr?cmd=p/gen/privacy-outside](http://
 Our site's registration form requires users to supply contact information (such as their name, email, and postal address). This contact information is only used to get in touch with the customer when necessary. It is never sold or shared.  |    
   |   
 **External Links** |   
-This site contains links to other sites. yesup.com is not responsible for the privacy practices or the content of such Web sites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links. [ webmaster@yesup.com](mailto:webmaster@yesup.com)   
+This site contains links to other sites. www.yesup.com is not responsible for the privacy practices or the content of such Web sites once you have left our site. We only link to general audience sites but cannot be responsible for any redirection or content changes over which we have no control. Please contact us immediately if there is a problem with any of our links. [ webmaster@www.yesup.com](mailto:webmaster@www.yesup.com)   
   |   
   |    
 **Contacting the Web Site** |    
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ webmaster@yesup.com](mailto:webmaster@yesup.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ webmaster@www.yesup.com](mailto:webmaster@www.yesup.com)
