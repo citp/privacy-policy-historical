@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthychildren.org privacy policy that was archived on 2001-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011007185827id_/http%3A//www.healthychildren.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthychildren.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604095908id_/http%3A//healthychildren.org/privacy) for the most accurate reproduction.*
 
 # HealthyMe.md - Today's Link for a Healthier You - --
 
