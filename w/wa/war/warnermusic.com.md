@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warnermusic.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606014916id_/http%3A//www.wmg.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warnermusic.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204075154id_/http%3A//www.wmg.com/privacy.jsp) for the most accurate reproduction.*
 
-# WMG - Home Page
+# wmg - Home Page
 
 ## Warner Music Group Online Privacy Notice
 
