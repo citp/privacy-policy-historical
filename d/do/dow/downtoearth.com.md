@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downtoearth.com privacy policy that was archived on 2004-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040620020512id_/http%3A//www.downtoearth.com/DTE/default.asp%3FShowItem%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downtoearth.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215022345id_/http%3A//www.downtoearth.com/DTE/default.asp%3FShowItem%3Dprivacy) for the most accurate reproduction.*
 
 # Down To Earth winner of Best of Web Award by Snap! Online : featuring fountains, waterfalls, birdhouses, & windchimes
 
