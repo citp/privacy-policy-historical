@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclingweekly.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605053314id_/http%3A//www.countrylife.co.uk/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclingweekly.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017035244id_/http%3A//www.countrylife.co.uk/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
