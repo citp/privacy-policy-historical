@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331105535id_/http%3A//www2.alibris.com/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibris.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217214939id_/http%3A//www.alibris.com/policies/privacy.cfm%3FS%3DR) for the most accurate reproduction.*
 
 # Alibris - Books You Thought You'd Never Find / Used, Rare, and Out-of-Print Books
 
