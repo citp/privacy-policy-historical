@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208212558id_/http%3A//www.etronics.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620073137id_/http%3A//www.etronics.com/privacy.asp) for the most accurate reproduction.*
 
 # Etronics.com - Discount camcorders, DVD players, home audio, digital and 35mm cameras, VCR's, televisions plus small appliances.
 
