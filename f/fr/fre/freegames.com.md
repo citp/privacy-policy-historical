@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freegames.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204020959id_/http%3A//www.freegames.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freegames.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165541id_/http%3A//www.freegames.com/help/privacy.asp) for the most accurate reproduction.*
 
 # !!Lots of Free Games, Sports games, Arcade games, Casino games, Gamers, classic games, Teens games, and Fgamily games -- FREEGAMES.com!!
 
