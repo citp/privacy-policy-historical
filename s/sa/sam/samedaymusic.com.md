@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the samedaymusic.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207032630id_/http%3A//www.samedaymusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samedaymusic.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604221849id_/http%3A//www.samedaymusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - SameDayMusic.com
 
@@ -9,7 +9,7 @@ Cookies are very small alphanumeric identifiers that we transfer to a file on yo
   * We cannot use "cookies" to access any personal information on your computer, and we cannot use "cookies" to do anything dangerous to your computer. 
   * Cookies allow you to take full advantage of some of Same Day Music's coolest features, and we recommend that you leave them turned on. 
   * However, we want you to know that cookies are not required for basic use of the site, and the "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
-  * Users without cookies enabled with have limited functionality, and will be unable to place orders via the web. If having having cookies turned on is a problem, please call us toll free at 1-866-744-7736 and place an order with a sales representative. 
+  * Users without cookies enabled with have limited functionality, and will be unable to place orders via the web. If having having cookies turned on is a problem, please call us toll free at 866-SHIP-SDM (744-7736) and place an order with a sales representative. 
 
 Does Same Day Music Share the Information It Receives?
 
