@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eppraisal.com privacy policy that was archived on 2002-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020628020141id_/http%3A//www.eppraisal.com/ep/privacypolicy.adp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eppraisal.com privacy policy that was archived on 2002-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020808051122id_/http%3A//www.eppraisal.com/ep/privacypolicy.adp) for the most accurate reproduction.*
 
 # The E-ppraisal Technology
 
