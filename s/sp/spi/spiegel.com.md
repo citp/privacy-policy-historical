@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiegel.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204034403id_/http%3A//www.spiegel.com/customer/privacy.asp%3Fp%3Dmain%26n%3Dbnav%26s%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiegel.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401233456id_/http%3A//www.spiegel.com/customer/privacy.asp%3Fp%3Dmain%26n%3Dbnav%26s%3Dprivacy) for the most accurate reproduction.*
 
 # Spiegel | Privacy Policy
 
@@ -56,7 +56,7 @@ We may send you e-mail with information on new products and services, discounts,
 
 We may provide your name, address and phone number (but not your e-mail address) to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can put you on our "do-not-share" or "do not call" lists. Please Click Here for information on where to contact us if you do not want us to share this information with third parties. 
 
-In some instances, we use third party companies to help us in providing our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use cookies on our behalf. These vendors are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available from Spiegel. For more information about these companies, [Click Here](https://web.archive.org/web/20041204034403id_/http%3A//www.spiegel.com/customer/vendor.asp).
+In some instances, we use third party companies to help us in providing our products and services to you, to assist us in managing customer information, to fulfill promotions and to communicate with you. Some of these vendors are given access to some or all of the information you provide to us, including your e-mail address, and may use cookies on our behalf. These vendors are contractually restricted from using your information in any manner, other than in helping us to provide you with the products and services available from Spiegel. For more information about these companies, [Click Here](https://web.archive.org/web/20050401233456id_/http%3A//www.spiegel.com/customer/vendor.asp).
 
 We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
@@ -169,7 +169,7 @@ To contact us for any reason, including a request to be added to or taken off a 
 
 Special Note: When you contact us, please provide us with your exact name and address as it appears on correspondence you have received from us.
 
-[Click here](https://web.archive.org/web/20041204034403id_/http%3A//www.spiegel.com/customer/customer/emailopt.asp) to unsubscribe to Spiegel e-mail.
+[Click here](https://web.archive.org/web/20050401233456id_/http%3A//www.spiegel.com/customer/customer/emailopt.asp) to unsubscribe to Spiegel e-mail.
 
 We are an active member of the Direct Marketing Association. [Click here](http://www.the-dma.org/consumers/index.html) for additional privacy information from the DMA. If you feel that this site is not following its stated information privacy policy, you may contact us at the above address(es) or phone number or at  [spiegel@spiegel.com](mailto:spiegel@spiegel.com) or you may contact the DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
 
