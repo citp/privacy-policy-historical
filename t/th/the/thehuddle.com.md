@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205155500id_/http%3A//www.thehuddle.com/site/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603193731id_/http%3A//thehuddle.com/site/privacy.shtml) for the most accurate reproduction.*
 
 # Fantasy Football @ thehuddle.com - Fantasy Football Services
 
