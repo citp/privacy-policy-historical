@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209091916id_/http%3A//www.marketday.com/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketday.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618120140id_/http%3A//www.marketday.com/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Market Day: Order Online: Privacy Policy
 
