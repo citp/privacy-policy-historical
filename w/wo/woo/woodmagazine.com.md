@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodmagazine.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623155550id_/http%3A//www.woodmagazine.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodmagazine.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202175131id_/http%3A//www.woodmagazine.com/privacy.html) for the most accurate reproduction.*
 
 # Meredith Corporation Online Privacy Statement
 
