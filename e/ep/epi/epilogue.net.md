@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the epilogue.net privacy policy that was archived on 2001-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010411112744id_/http%3A//www.epilogue.net/support/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epilogue.net privacy policy that was archived on 2002-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021219203921id_/http%3A//www.epilogue.net/support/legal/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Fantasy and Sci-fi at their best
+# Privacy Policy - Epilogue.net - Fantasy and Sci-fi at their best© [Fantasy art, sci-fi art, anime and more!]
 
 At Epilogue, we respect your privacy and take the responsibility of protecting the personal information that you share with us very seriously. To earn your trust and confidence in Epilogue, we are disclosing our privacy practices and the uses of the information that we gather.
 
 These links provide detailed information about Epilogue's privacy policies:
 
-  * [What general information does Epilogue collect and how is it used?](https://web.archive.org/web/20010411112744id_/http%3A//www.epilogue.net/support/legal/privacy.html#general)
-  * [What personal information does Epilogue collect and how is it used?](https://web.archive.org/web/20010411112744id_/http%3A//www.epilogue.net/support/legal/privacy.html#personal)
-  * [How do I access, change or delete information about myself?](https://web.archive.org/web/20010411112744id_/http%3A//www.epilogue.net/support/legal/privacy.html#howto)
+  * [What general information does Epilogue collect and how is it used?](https://web.archive.org/web/20021219203921id_/http%3A//www.epilogue.net/support/legal/privacy.html#general)
+  * [What personal information does Epilogue collect and how is it used?](https://web.archive.org/web/20021219203921id_/http%3A//www.epilogue.net/support/legal/privacy.html#personal)
+  * [How do I access, change or delete information about myself?](https://web.archive.org/web/20021219203921id_/http%3A//www.epilogue.net/support/legal/privacy.html#howto)
 
 
 
@@ -32,7 +32,7 @@ The information we collect reflects the population as a whole rather than focusi
 **Cookie Usage**  
 For security reasons, and to automate login and member profile management, we use a "cookie" to store your Epilogue login information. Certain parts of this cookie will automatically expire 24 hours after login. All this means is that you will have re-enter your login information on the Member Login page if it has been more than a day since your last login.
 
-A cookie is a small piece of information which a Web site stores in your Web browser and on your PC. We leave the cookie on your PC so that you will not have to re-enter your username and password on every page of your Member Home Page and Message Center.
+A cookie is a small piece of information that a Web site stores in your Web browser and on your PC. We leave the cookie on your PC so that you will not have to re-enter your username and password on every page of your Member Home Page and Message Center.
 
 You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set at all. 
 
@@ -64,4 +64,13 @@ When registering for Epilogue membership, we require you to supply basic contact
 
 If, at any time, you would no longer wish to receive mailings from Epilogue, simply click on the 'Unsubscribe' link at the bottom of the email. If this is not successful, please contact us at [webmaster@epilogue.net](mailto:webmaster@epilogue.net).
 
-We save your personal information until you are no longer a member of Epilogue. If you would like to remove yourself as a Epilogue member, please email [support@epilogue.net](mailto:support@epilogue.net). Once you've left, we will delete your information from our active database. However, residual information will remain on our archived database and records, but it will not be used for commercial purposes.
+We save your personal information until you are no longer a member of Epilogue. If you would like to remove yourself as an Epilogue member, please email [support@epilogue.net](mailto:support@epilogue.net). Once you've left, we will delete your information from our active database. However, residual information will remain on our archived database and records, but it will not be used for commercial purposes.
+
+**3rd Party Served Advertising**  
+
+
+Epilogue.net uses 3rd Party advertising agencies to handle selling and filling of advertising space on the web site. Each 3rd party company has its own privacy practices and policies. Follow these links for more information:  
+[Adtegrity](http://www.adtegrity.com/privacy.asp)  
+[Burst!](https://www.burstmedia.com/release/privacy.asp)  
+[Fastclick](http://www.fastclick.com/about/privacy.html)  
+
