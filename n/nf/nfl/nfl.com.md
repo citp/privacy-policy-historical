@@ -1,38 +1,41 @@
-> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2003-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030629070220id_/http%3A//nfl.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nfl.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205044210id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
 
 # NFL.com - Privacy Policy
 
+[](http://www.nfl.com/)
+
 |   
 ---  
-* [FANTASY](http://www.nfl.com/fantasy/index.html)  
-* [NFL Draft](https://web.archive.org/draft)  
-* [NEWS](https://web.archive.org/news)  
-* [TV & RADIO](https://web.archive.org/tvradio)  
+* [FANTASY](http://fantasy.nfl.com/)  
+* [FIELD PASS](https://web.archive.org/fieldpass)  
 * [ROSTERS](https://web.archive.org/rosters)  
 * [DEPTH CHARTS](https://web.archive.org/depthcharts)  
-* [NFL FILMS](http://www.nfl.com/nflfilmstv)  
+* [TV & RADIO](https://web.archive.org/tvradio)  
+* [NFL NETWORK](https://web.archive.org/nflnetwork)  
+* [YOUTH FOOTBALL](https://web.archive.org/youth)  
 * [TICKETS](https://web.archive.org/tickets)  
 * [AUCTIONS](https://web.archive.org/auctions)  
-* [YOUTH FOOTBALL](https://web.archive.org/youth)  
-* [UNDER THE HELMET](http://www.nfl.com/reebok/index.html)  
 * [NFL SHOP](http://www.nflshop.com/home/default.cfm?SID=7193)  
+  
+[](http://www.nflshop.com/home/default.cfm?SID=7126)  
+  
 ---  
 * [KIDS](http://www.playfootball.com/)  
 * [HALL OF FAME](http://www.profootballhof.com/)  
 * [NFLPLAYERS.COM](http://www.nflplayers.com/)  
+* [SUPERBOWL.COM](http://www.superbowl.com/)  
 * [PRO BOWL](http://www.probowl.com/)  
 * [NFL Europe](http://www.nfleurope.com/)  
 * [NFL ALUMNI](http://www.nflalumni.org/)  
+* [IN THE COMMUNITY](http://www.jointheteam.com/)  
 ---  
-* [SUPERBOWL.COM](http://www.superbowl.com/)  
 * [ROOKIES](https://web.archive.org/rookies)  
-* [ESPAÑOL](https://web.archive.org/espanol)  
-* [IN THE COMMUNITY](https://web.archive.org/fans)  
+* [CONTESTS](http://www.nfl.com/redir?url=2689)  
 * [PLAYER](http://www.nflplayerdevelopment.com/)  
-* [DEVELOPMENT](http://www.nflplayerdevelopment.com/)  
-* [HISTORY](https://web.archive.org/history)  
+* [PROGRAMS](http://www.nflplayerdevelopment.com/)  
 * [INTERNATIONAL](https://web.archive.org/international)  
 * [NFL SUNDAY TICKET](https://web.archive.org/ticket)  
+* [USA FOOTBALL](http://www.usafootball.com/)  
 * [WIRELESS](https://web.archive.org/wireless)  
 |   |  | |   
 ---|---  
