@@ -1,13 +1,68 @@
-> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 1999-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991111165953id_/http%3A//www.beckett.com/Privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beckett.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206113500id_/http%3A//www.beckett.com/Privacypolicy.asp) for the most accurate reproduction.*
 
-# Beckett Collectibles Online
+# beckett.com | Privacy Policy
+
+|  |  |   
+---|---|---  
+|   
+|  [Beckett Home](http://www.beckett.com/index.asp)  
+[Price Guides](http://www.beckett.com/priceguides/)  
+[Login As A Member](http://www.beckett.com/login.asp?Action=None&Source=http%3A%2F%2Fwww%2Ebeckett%2Ecom%2FPrivacypolicy%2Easp%3F%26ASIMPR%3D109%26ASTAGS%3DFront%5FPage&Cancel=http%3A%2F%2Fwww%2Ebeckett%2Ecom%2FPrivacypolicy%2Easp%3F%26ASIMPR%3D109%26ASTAGS%3DFront%5FPage)  
+[Join Now!](http://www.beckett.com/membership/)  
+[Shops Home](http://www.beckett.com/dealers/dealer_index.asp?Partners=0)  
+[Grading Services](http://www.beckettgrading.com/)  
+[Auctions](http://www.beckett.com/auction/)  
+[Beckett Store](http://www.beckett.com/storefronts/beckett/storefront.asp?DealerId=beckett&Branding=1&CurrentPage=storefront)  
+[My Beckett](http://www.beckett.com/mybeckett/index.asp)  
+[Games](http://www.beckett.com/gametab/)  
+[Software](http://www.beckett.com/software/)  
+[Shows](http://www.beckett.com/shows/cardshow.asp)  
+[Daily News](http://www.beckett.com/news/)  
+[About Beckett](http://www.beckett.com/publications/)
+
+[ ](https://web.archive.org/aboutthepit.asp)
+
+|   
+  
+|  |   
+---|---|---  
+|   
+|  [Baseball Card Monthly](http://external/baseballsub.html)  
+[Football Card Monthly](http://external/footballsub.html)  
+[Basketball Card Monthly](http://external/basketballsub.html)  
+[Hockey Collector](http://external/hockeysub.html)  
+[Racing & Motorsports](http://external/racingsub.html)  
+[Sports Collectibles](http://external/sportscollectsub.html)  
+[Dragon Ball Z](http://external/dragonballzsub.html)  
+[Pokémon Collector](http://external/pokemonsub.html)  
+[Digimon Collector](http://external/digimonsub.html)  
+[Gift Subscriptions](https://www.beckett.com/store/giftsubs.asp)  
+|   
+  
+|  |   
+---|---|---  
+|   
+|  [Print Subscriptions](https://web.archive.org/store/printsubs.asp)  
+[OPG Subscriptions](mailto:priceguides@beckett.com)  
+[Dealer Sales](mailto:dealersales@beckett.com)  
+[Grading](mailto:grading@beckett.com)  
+[Advertising](mailto:advertising@beckett.com)  
+[Shops](mailto:marketplace@beckett.com)  
+[Card Companies](http://www.beckett.com/news/cardco.asp)  
+[Team Addresses](http://www.beckett.com/news/teamaddress.asp)  
+[Fan Clubs](http://www.beckett.com/news/fanclubs.asp)  
+|   
+  
+## Legal Notice
+
+Beckett ® is a registered trademark. All the materials at this site are protected by United States Copyright Laws, and any unauthorized reproduction, preparation of derivative works, distribution (whether by state or other transfer of ownership, or by rental, lease or lending), or other display of the copyrighted work publicly, without the express written consent of beckett.com is expressly prohibited, and any violation could expose the user to both criminal and civil liability.
 
 ## Privacy Policy and Statement
 
 Your privacy on the Internet is of the utmost importance to us.  
 Because we gather certain types of information about the users on Beckett's network of sites, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This Privacy Policy describes the information we collect about you and what may happen to that information. 
 
-This statement discloses the privacy practices for the entire Beckett network of Web sites, which includes Beckett.com, BeckettXchange.com, Becketthottoys.com, Gametropolis.com, Beckettgrading.com, and Jingaroo.com. 
+This statement discloses the privacy practices for the entire Beckett network of Web sites, which includes beckett.com, BeckettXchange.com, Becketthottoys.com, Gametropolis.com, Beckettgrading.com, and Jingaroo.com. 
 
 **Information We Collect**
 
@@ -17,7 +72,7 @@ During online registration, Beckett asks for your name, email address, and other
 
 After you register correctly you will be emailed a password that must be used in conjunction with your chosen user ID to access certain areas of Beckett's sites. 
 
-At this point in time we do not accept registrations from email accounts using anonymous or free email services on Beckett.com, BeckettXchange.com and Becketthottoys.com sites. 
+At this point in time we do not accept registrations from email accounts using anonymous or free email services on beckett.com, BeckettXchange.com and Becketthottoys.com sites. 
 
 Please note that an e-mail address is **required** for a Beckett Web site membership. You will not receive your password if your e-mail address is entered incorrectly. 
 
@@ -31,7 +86,7 @@ Advertising networks that serve ads onto any of Beckett's sites may also use the
 
 Beckett's sites also collect IP addresses for system administration and to report aggregate information to our advertisers. 
 
-If you choose to bid, buy or sell on Beckett.com or BeckettXchange.com, we collect information about your bidding, buying and selling behavior. We also may collect other users' comments about you in our feedback area. 
+If you choose to bid, buy or sell on beckett.com or BeckettXchange.com, we collect information about your bidding, buying and selling behavior. We also may collect other users' comments about you in our feedback area. 
 
 If you choose to establish a credit account with us, we collect some additional information, including billing address, credit card number and credit card expiration date. 
 
@@ -39,7 +94,7 @@ If you choose to post messages in newsgroups or leave feedback for other users, 
 
 Some of Beckett's sites offer contests and sweepstakes in which we request certain personal information. At a minimum, the required information includes name and email address; in some cases, the user must answer mandatory survey questions about a range of other personal data. The information gathered in the entry form is used to verify the entrant's identity, to send the entrant an email notification that their entry has been received, and to contact winners and/or prize recipients. There are two situations in which Beckett will divulge this information to a third party--provided the user gives express consent: 
 
-  * A user may expressly choose to receive additional information from the contest sponsor, in which case the user's personally identifiable information is divulged to the advertiser. 
+  * A user may expressly choose to receive additional information from the contest sponsor, in which case the user's personally identifiable information is divulged to the advertiser.
   * Some of the contests may be hosted on the Beckett site but administered by the sponsor; in such cases, the information a user provides is passed on to the third party as long as that user gives express consent. 
 
 
@@ -68,13 +123,13 @@ Beckett will disclose information, at its sole discretion, to law enforcement or
 
 **Deleting or or Changing Your Registration Information**
 
-Upon request, Beckett will remove credit card number and credit card expiration date from the membership file. Requests are to be forwarded to webmaster@beckett.com. 
+Upon request, Beckett will remove credit card number and credit card expiration date from the membership file. Requests are to be forwarded to [webmaster@beckett.com](mailto:webmaster@beckett.com). 
 
 You may unsubscribe from the Beckett Collectibles Report by accessing this page: http://www.beckett.com/scripts/mailist.asp 
 
 You may review and change your registration information, including your password, name, address, phone number, fax number, and email address, by accessing the User Maintenance page located at <http://www.beckett.com/scripts/membership/edituser.asp>. 
 
-You may change your credit card number and credit card expiration date on file by contacting webmaster@beckett.com. 
+You may change your credit card number and credit card expiration date on file by contacting [webmaster@beckett.com](mailto:webmaster@beckett.com). 
 
 Requests for removal of you registration information does not ensure that such information will be completely removed from the Beckett system. Beckett does retain registration information as a record of all activity performed on the site. Additionally, information is retained in order to enforce the Terms of Agreement, resolve disputes and problems associated with the site. 
 
@@ -82,13 +137,12 @@ Once posted, you cannot change or remove any public postings made in newsgroups 
 
 **Third Party Collectors of Information.**
 
-Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are bidders, buyers or sellers on Beckett.com or BeckettXchange.com or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since Beckett does not control the privacy policies of third parties, you are subject to the privacy customs and policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
+Our policy only addresses the use and disclosure of information we collect from you. To the extent that you disclose your information to other parties, whether they are bidders, buyers or sellers on beckett.com or BeckettXchange.com or other sites throughout the Internet, different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party advertisers, they adhere to their own privacy customs and policies. Since Beckett does not control the privacy policies of third parties, you are subject to the privacy customs and policies of that third party. We encourage you to ask questions before you disclose your personal information to others. 
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Lisa Wukits/ Webmaster  
 Beckett Publications  
 15850 Dallas Parkway  
 Dallas, Texas 75248  
