@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603230920id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ga.gov.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204161103id_/http%3A//www.ga.gov.au/about/privacy.jsp) for the most accurate reproduction.*
 
 # Geoscience Australia: Privacy and Security
 
 | 
 
-**Updated:  ** 21 May 2004 
+**Updated:  ** 03 September 2004 
 
   * Privacy
   * Security
@@ -23,13 +23,13 @@ Browsing any web-site, including the Geoscience Australia site, generates a trai
 
 When you visit our site, our servers may record the following information for statistical purposes: 
 
-  * the user's server (IP) address and machine name; 
-  * the date and time of visit to the site; 
-  * the pages accessed and documents downloaded; 
-  * the number of bytes transmitted and received for each request; 
-  * the address of the referring page visited; 
-  * search terms used; and 
-  * the type of browser used. 
+  * the user's server (IP) address and machine name;
+  * the date and time of visit to the site;
+  * the pages accessed and documents downloaded;
+  * the number of bytes transmitted and received for each request;
+  * the address of the referring page visited;
+  * search terms used; and
+  * the type of browser used.
 
 
 
@@ -57,18 +57,20 @@ We seek feedback from our users in order to improve the service offered by our s
 
 ### Accountability
 
-The staff who operate the Geoscience Australia Website, and most Australain government agencies, are subject to the Commonwealth Privacy Act 1988 
+The staff who operate the Geoscience Australia Website, and most Australian government agencies, are subject to the Commonwealth Privacy Act 1988 
+
+[back to top]
 
 ## Security
 
 ### Site security
 
-|  The Internet is not a secure network, and as such, information you send may be intercepted by others. Geoscience Australia runs a secure website (using [**SSL**](http://docs.sun.com/source/816-6156-10/contents.htm)) for transferring all sensitive information such as personal and credit card details. Secure server technology reduces but **does not eliminate** the risks of sending information over the Internet. 
+|  The Internet is not a secure network, and as such, information you send may be intercepted by others. Geoscience Australia runs a secure website (using [SSL](http://docs.sun.com/source/816-6156-10/contents.htm)) for transferring all sensitive information such as personal and credit card details. Secure server technology reduces but **does not eliminate** the risks of sending information over the Internet. 
 
 If you are sending us private information you should check that you are linked to our secure server. You can do this in two ways: 
 
-  1. Check that the web address in your browser starts with **https** rather than just **http** ( _this page would be https://www.ga.gov.au/privacy.jsp_ ). 
-  2. If you can't find the web address, then most web browsers will display a padlock , usually at the bottom of the page. If the site is insecure some browsers may show an open padlock . 
+  1. Check that the web address in your browser starts with **https** rather than just **http** ( _this page would be https://www.ga.gov.au/privacy.jsp_ ).
+  2. If you can't find the web address, then most web browsers will display a padlock , usually at the bottom of the page. If the site is insecure some browsers may show an open padlock .
 
 
 
