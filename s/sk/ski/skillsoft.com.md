@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skillsoft.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413092350id_/http%3A//www.skillsoft.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skillsoft.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002092358id_/http%3A//www.skillsoft.com/privacy.htm) for the most accurate reproduction.*
 
 # SkillSoft The e-Learning Solutions Company
 
@@ -58,10 +58,6 @@ SkillSoft reserves the right to make changes to this privacy policy. If we make 
 
 **9\. CONTACTING US WITH COMMENTS AND CONCERNS**
 
-We welcome your comments. Should you have any questions or concerns about our Privacy Policy, please contact us: via e-mail at [support@SkillSoft.com](mailto:support@smartforce.com), by telephone at (650)817-5900, or by mail to: SkillSoft, Attn: SkillSoft Privacy Coordinator, 900 Chesapeake Drive, Redwood City, CA 94063.
+We welcome your comments. Should you have any questions or concerns about our Privacy Policy, please contact us: via e-mail at [support@skillsoft.com](mailto:support@skillsoft.com), by telephone at (866) 754-5435, or by mail to: SkillSoft, Attn: SkillSoft Contracts Department, 107 Northeastern Boulevard, Nashua, NH 03062.
 
-If you feel that SkillSoft is not abiding by this privacy policy, you should first contact us by the means listed above. If your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at http://www.truste.org. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-As part of our participation in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor guidelines, you should first contact us. If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at [http://www.TRUSTe.org/users/users_watchdog.intro.html](http://www.truste.org/users/users_watchdog_intro.html), by fax at (408) 494-4960, or by mail at WatchDog Complaints, TRUSTe, 1180 Coleman Ave., Suite 202, San Jose, CA USA 95110. Please include the following information in your complaint: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with SkillSoft.
-
-For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, see [http://www.TRUSTe.org/users/users_watchdog.intro.html](http://www.truste.org/users/users_watchdog_intro.html) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+If you feel that SkillSoft is not abiding by this privacy policy, you should first contact us by the means listed above. If your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [_http://www.truste.org/watchdog.html_](http://www.truste.org/watchdog.html). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
