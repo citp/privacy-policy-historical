@@ -1,43 +1,34 @@
-> *The following text is extracted and transformed from the parkrecord.com privacy policy that was archived on 2002-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020210014647id_/http%3A//www.parkrecord.com/Stories/0%2C1002%2C8198%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkrecord.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216071328id_/http%3A//www.parkrecord.com/Stories/0%2C1413%2C122%25257E8198%25257E%2C00.html) for the most accurate reproduction.*
 
 # Park Record
 
-| [Privacy Policy](https://web.archive.org/Stories/0,1002,8198,00.html)  
+| [News](https://web.archive.org/Stories/0,1413,122%257E8129%257E,00.html)  
 ---  
-   
- [Classifieds](http://localnet.abracat.com/park)  
-  [Classifieds](http://localnet.abracat.com/park)  
-  [MoreCities MoreChoices](http://www.abracat.com/abracat/index.jsp)  
-   
- [News](https://web.archive.org/Stories/0,1002,8129,00.html)  
-  [Business](https://web.archive.org/Stories/0,1002,8132,00.html)  
-  [Today's Headlines](https://web.archive.org/Stories/0,1002,8138,00.html)  
-  [City/County](https://web.archive.org/Stories/0,1002,8134,00.html)  
-  [Education](https://web.archive.org/Stories/0,1002,8136,00.html)  
-  [Scene](https://web.archive.org/Stories/0,1002,8143,00.html)  
-  [Sports](https://web.archive.org/Stories/0,1002,8144,00.html)  
-  [Viewpoints](https://web.archive.org/Stories/0,1002,8149,00.html)  
-  [Professional Services](http://63.147.65.24/communitypg/prof.htm)  
-  [Weather](https://web.archive.org/Stories/0,1002,8154,00.html)  
-   
- [Entertainment](https://web.archive.org/Stories/0,1002,8165,00.html)  
-  [Fall Home Improvement](http://63.147.65.24/FallH&G/index.htm)  
-  [Audio](https://web.archive.org/Stories/0,1002,8161,00.html)  
-  [Book Reviews](https://web.archive.org/Stories/0,1002,8162,00.html)  
-  [Dining Guide](http://63.147.65.24/dining/index.htm)  
-  [News](https://web.archive.org/Stories/0,1002,8164,00.html)  
-  [Movie Reviews](https://web.archive.org/Stories/0,1002,8165,00.html)  
-  [Trivia](https://web.archive.org/Stories/0,1002,8166,00.html)  
-   
- [Services](https://web.archive.org/Stories/0,1002,8175,00.html)  
-  [Info/Feedback](https://web.archive.org/Stories/0,1002,8175,00.html)  
-  [Search Archives](http://search.newschoice.com/)  
-  [Subscriptions](https://web.archive.org/Stories/0,1002,8182,00.html)  
-  [Advertising](http://63.147.65.24/mediakit/index.htm)  
-  
-[ ](http://63.147.65.24/mediakit/kcouponspg.htm)
+[Business](https://web.archive.org/Stories/0,1413,122%257E8132%257E,00.html)  
+[Today's Headlines](https://web.archive.org/Stories/0,1413,122%257E8138%257E,00.html)  
+[City/County](https://web.archive.org/Stories/0,1413,122%257E8134%257E,00.html)  
+[Education](https://web.archive.org/Stories/0,1413,122%257E8136%257E,00.html)  
+[Scene](https://web.archive.org/Stories/0,1413,122%257E8143%257E,00.html)  
+[Sports](https://web.archive.org/Stories/0,1413,122%257E8144%257E,00.html)  
+[Viewpoints](https://web.archive.org/Stories/0,1413,122%257E8149%257E,00.html)  
+[Professional Services](http://63.147.65.24/communitypg/prof.htm)  
+[Weather](https://web.archive.org/Stories/0,1413,122%257E8154%257E,00.html)  
+[Classifieds](http://localnet.abracat.com/park)  
+[MoreCities MoreChoices](http://www.abracat.com/abracat/index.jsp)  
+[Entertainment](https://web.archive.org/Stories/0,1413,122%257E8165%257E,00.html)  
+[Audio](https://web.archive.org/Stories/0,1413,122%257E8161%257E,00.html)  
+[Book Reviews](https://web.archive.org/Stories/0,1413,122%257E8162%257E,00.html)  
+[Dining Guide](http://63.147.65.24/dining/index.htm)  
+[Movie Reviews](https://web.archive.org/Stories/0,1413,122%257E8165%257E,00.html)  
+[Services](https://web.archive.org/Stories/0,1413,122%257E8175%257E,00.html)  
+[Info/Feedback](https://web.archive.org/Stories/0,1413,122%257E8175%257E,00.html)  
+[Search Archives](http://search.newschoice.com/)  
+[Subscriptions](https://web.archive.org/Stories/0,1413,122%257E8182%257E,00.html)  
+[Advertising](http://63.147.65.24/mediakit/index.htm)  
+[Privacy Policy](https://web.archive.org/Stories/0,1413,122%257E8198%257E,00.html)  
+[](http://63.147.65.24/NewRealEstate/index.htm)
 
-| 
+|  [](http://www.qksrv.net/click-408787-8762571)
 
 |    
 |  | **General Privacy Policy**  
@@ -49,12 +40,12 @@
   
   
 **What personally identifiable information does the website collect from me?**  
-Information is collected in several ways. Some personal information is gathered through server log files. Personal information is also gathered when you enter a contest or promotion, request vacation delivery stop, or when you post an online ad. During these instances, denverpost.com asks for information such as your name, e-mail address, street address, zip code, phone number, subscriber status, and credit card number. We may also ask you for other information at other times. Whenever we collect information about you, we will make an effort to link to our privacy policy.   
+Information is collected in several ways. Some personal information is gathered through server log files. Personal information is also gathered when you enter a contest or promotion, request vacation delivery stop, or when you post an online ad. During these instances, our paper asks for information such as your name, e-mail address, street address, zip code, phone number, subscriber status, and credit card number. We may also ask you for other information at other times. Whenever we collect information about you, we will make an effort to link to our privacy policy.   
   
 **How is my information used?**  
-Our primary goal in collecting personal information is to provide you with a customized experience. Denverpost.com uses information collected from server log files, such as IP addresses, to help diagnose problems with our services, to administer our Web site, and to report and gather aggregate information about site usage and user demographics. The aggregated data may be shared with advertisers or business partners. 
+Our primary goal in collecting personal information is to provide you with a customized experience. Our paper uses information collected from server log files, such as IP addresses, to help diagnose problems with our services, to administer our Web site, and to report and gather aggregate information about site usage and user demographics. The aggregated data may be shared with advertisers or business partners. 
 
-Cookies are used to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer's hard drive. Cookies are used to deliver targeted advertising based on your behavior or demographics and to track your number of entries in some of our promotions and contests. You can set your browser to refuse to accept cookies, but if you do we will not be able to customize the Web site's features according to your preferences. Advertising networks that serve ads into our site, such as Real Media or DoubleClick, may also use their own cookies. For more information about Real Media's use of cookies, visit <http://www.realmedia.com/privacy.html>. For more information about DoubleClick's use of cookies, visit [http://www. privacychoices.org](http://www.%20privacychoices.org/). 
+Cookies are used to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer's hard drive. Cookies are used to deliver targeted advertising based on your behavior or demographics and to track your number of entries in some of our promotions and contests. You can set your browser to refuse to accept cookies, but if you do we will not be able to customize the Web site's features according to your preferences. Advertising networks that serve ads into our site, such as Real Media or DoubleClick, may also use their own cookies. For more information about Real Media's use of cookies, visit <http://www.realmedia.com/privacy.html>. For more information about DoubleClick's use of cookies, visit [http://www.privacychoices.org](http://www.privacychoices.org/). 
 
   
   
@@ -72,7 +63,7 @@ Aggregate information compiled by the newspaper Web site may be shared with adve
   
   
 **Linked Sites**  
-Please be aware that the newspaper Web site's promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through denverpost.com may have their own privacy and data collection policies and practices. The newspaper and Web site are not responsible for any actions or policies of such third party parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-sponsored, affiliated or linked sites. 
+Please be aware that the newspaper Web site's promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through our paper may have their own privacy and data collection policies and practices. The newspaper and Web site are not responsible for any actions or policies of such third party parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-sponsored, affiliated or linked sites. 
 
   
   
@@ -129,31 +120,36 @@ Please include your email address and telephone number where we can reach you. T
   
   
 **Contact Us**  
-If you have any questions, comments or concerns regarding our privacy policy and/or practices, please send an e-mail to [ithomas@parkrecord.com](mailto:ithomas@parkrecord.com?Subject=Privacy%20Policy%20Feedback%20\(PkPr\)).   
+If you have any questions, comments or concerns regarding our privacy policy and/or practices, please visit our contact us page or feedback form and contact the webmaster.
+
+  
+  
+**DoubleClick's Privacy Disclosure**  
+  
+We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
+
+  
+  
   
 * * *
 
-**© 1999-2002 MediaNews Group, Inc. ****** ** ****** | 
+**© 1999-2002 MediaNews Group, Inc. ****** ** ****** |  Monday, December 16, 2002  
+12:13 AM MST
 
-| **Today's Date**  
+[](http://www.qksrv.net/click-408787-5319910)
+
+| [Lifestyles](https://web.archive.org/Stories/0,1413,122%257E8168%257E,00.html)  
 ---  
-Saturday, February 09, 2002   
-**Today's Weather**  
-  
- [Lifestyles](https://web.archive.org/Stories/0,1002,8168,00.html)  
----  
-  [Health & Nutrition](https://web.archive.org/Stories/0,1002,8168,00.html)  
-  [Horoscopes](https://web.archive.org/Stories/0,1002,8169,00.html)  
-  [Lottery Results](https://web.archive.org/Stories/0,1002,8170,00.html)  
-  [Park City Community](http://63.147.65.24/communitypg/index.htm)  
-  [Soap Opera Recaps](https://web.archive.org/Stories/0,1002,8172,00.html)  
-   
- [Featured Channels](http://www.abracat.com/)  
-  [Real Estate Weekly](http://63.147.65.24/NewRealEstate/index.htm)  
-  [](http://www.abracat.com/)  
-  [Real Estate](http://www.yakalosolutions.com/parkcity)  
-  [Headbone Zone](http://www.headbone.com/home/home.new.html)  
-  [NewsChoice](http://www.newschoice.com/)  
-  [Special Offers](http://specialoffer.com/newsstand/choicenewsstand.html)  
-  [Travel](https://web.archive.org/Stories/0,1002,8195,00.html)  
-  [Mapquest](http://www.mapquest.com/)
+[Horoscopes](https://web.archive.org/Stories/0,1413,122%257E8169%257E,00.html)  
+[Lottery Results](https://web.archive.org/Stories/0,1413,122%257E8170%257E,00.html)  
+[Park City Community](http://63.147.65.24/communitypg/index.htm)  
+[Soap Opera Recaps](https://web.archive.org/Stories/0,1413,122%257E8172%257E,00.html)  
+[Featured Channels](http://www.abracat.com/)  
+[Real Estate Weekly](http://63.147.65.24/NewRealEstate/index.htm)  
+[Real Estate Weekly](http://63.147.65.24/NewRealEstate/index.htm)  
+[](http://www.abracat.com/)  
+[Real Estate](http://www.yakalosolutions.com/parkcity)  
+[Headbone Zone](http://www.headbone.com/home/home.new.html)  
+[NewsChoice](http://www.newschoice.com/)  
+[Special Offers](http://specialoffer.com/newsstand/choicenewsstand.html)  
+[Mapquest](http://www.mapquest.com/)
