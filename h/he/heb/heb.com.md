@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the heb.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604085445id_/http%3A//www.heb.com/welcome/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heb.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101227id_/http%3A//www.heb.com/welcome/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Notice: We collect personal information on this site. To learn more about how we use your information, please read our privacy policy. **Online Privacy and Security**
+Notice: We collect personal information on this site. To learn more about how we use your information, please read our privacy policy. **
+
+Online Privacy and Security
+
+**
 
 H.E. Butt Grocery Company (H-E-B) recognizes the importance of privacy to our customers and visitors to our Web site (the "site") and will work to protect the security and privacy of any personal information that you provide to us. We value your trust and respect. Personal information is information about you that is not publicly available and can identify you, such as your name, mailing address, e-mail address, and phone number. We only collect the information you choose to give us in order to better serve you. Other information collected about you from other parts of H-E-B's business, such as stores or pharmacy operations, may be regulated differently and/or subject to different privacy practices. 
 
@@ -38,14 +42,14 @@ When you contact our service representatives, we may ask for personal informatio
 H-E-B collects, stores, and uses aggregate data that does not contain personally identifiable information. This aggregated data may be shared with and used by third parties in order to help us and our business partners better serve and understand our customers.
 
 **How can I access, modify, and/or delete my information?**  
-You may at any time review, edit, and/or remove from our database any information we maintain on you by performing that task [online](https://web.archive.org/web/20040604085445id_/http%3A//www.heb.com/yourHEBStore/newsletter.jsp) or by [contacting us directly](https://web.archive.org/web/20040604085445id_/http%3A//www.heb.com/welcome/contactUs.jsp). We will promptly comply with any request to review, edit, or remove your information.
+You may at any time review, edit, and/or remove from our database any information we maintain on you by performing that task [online](https://web.archive.org/web/20041204101227id_/http%3A//www.heb.com/yourHEBStore/newsletter.jsp) or by [contacting us directly](https://web.archive.org/web/20041204101227id_/http%3A//www.heb.com/welcome/contactUs.jsp). We will promptly comply with any request to review, edit, or remove your information.
 
 **What choices do you have?**  
 You can choose to not provide personal information or only limited information. 
 
 You can choose to subscribe only to certain services offered by H-E-B. 
 
-If you subscribe to the H-E-B e-newsletters or other services, you may choose to [unsubscribe](https://web.archive.org/web/20040604085445id_/http%3A//www.heb.com/yourHEBStore/newsletter-unsubscribe.jsp) at anytime. 
+If you subscribe to the H-E-B e-newsletters or other services, you may choose to [unsubscribe](https://web.archive.org/web/20041204101227id_/http%3A//www.heb.com/services/services-unsubscribe.jsp) at anytime. 
 
 **What about the privacy rights of children?**  
 We are committed to protecting children's privacy. We do not and will not knowingly collect any personally identifiable information from children under 13 years of age. If any data entry by a visitor indicates that such visitor is under the age of 13 years, all data from that visitor is promptly deleted from our system. If a child under 13 years of age wants to participate on our Web site, we encourage the child's parents to participate in his or her experience on our site. We welcome family participation. 
