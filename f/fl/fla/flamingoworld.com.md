@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207071905id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flamingoworld.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605130325id_/http%3A//www.flamingoworld.com/privacy) for the most accurate reproduction.*
 
 # FlamingoWorld Privacy Policy
 
-**Effective June 18, 2003**
+**Effective February 18, 2004**
 
 **Our Privacy Policy**   
 
