@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204235120id_/http%3A//www.netlawman.co.uk/netlawman-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603071239id_/http%3A//www.netlawman.co.uk/netlawman-privacy.php) for the most accurate reproduction.*
 
 # Netlawman privacy
 
@@ -61,17 +61,21 @@ Please tell us now.**
   
 * * * * *
 
-* * * * *
-
-* * * * *
-
-  | [Tribunal services.](http://www.netlawman.co.uk/htbt/employment-law.php)  
-Use our tough, no-nonsense approach. Let us take the strain while you run your business.
-
-Our expert advocates will take your case. We will deal with everything, including the tribunal.   
-  
+  | Recent instructions  
+Negotiations and agreement for sale of Internet biz;  
+T&C, PP and other docs for new hosting company;  
+r Agreement for sale of consumer goods biz;  
+Re-write staff manual;  
+IT consultant sub-contract transfer;  
+Bespoke LLP agreement;  
+Negotiate dissolution of trading partnership;  
+. . . . . . and numerous T&C drafting   
 ---|---  
   
+* * * * *
+
+* * * * *
+
 * * * * *
 
 * * * * *
