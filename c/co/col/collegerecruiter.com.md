@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605223818id_/http%3A//jobs.collegerecruiter.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegerecruiter.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010000423id_/http%3A//jobs.collegerecruiter.com/MKT/Content/JS/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # CollegeRecruiter.com: Jobs Internships Entry Level
 
