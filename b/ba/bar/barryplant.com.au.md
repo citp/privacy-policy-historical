@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401125043id_/http%3A//www.barryplantdoherty.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barryplant.com.au privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204205919id_/http%3A//www.barryplantdoherty.com.au/privacy) for the most accurate reproduction.*
 
 # BPD - Privacy
 
@@ -31,13 +31,14 @@ If you are a prospective vendor or buyer we may ask you to supply the following 
 · your name  
 · contact details  
 · details of the property you currently own  
-·  the type and price range of the property you wish to purchase
+· the type and price range of the property you wish to purchase
 
 Should you wish to apply to lease a property we manage, we will ask you for:
 
 · your name  
 · contact details  
-· employment status and details of your employment such as the name and address of your employer, your salary and the length of time you've been employed  
+· employment status and details of your employment such as the name and address   
+  of your employer, your salary and the length of time you've been employed  
 · any additional sources of income  
 · details of personal and financial referees
 
@@ -46,17 +47,21 @@ Should you wish to apply to lease a property we manage, we will ask you for:
 Information you provide will be used by Barry Plant Doherty or its franchisees for the following reasons:
 
 · assist you to find the type of property you tell us you wish to purchase  
-· present you with a proposal to handle the sale of your property in response to specific request you have made  
+· present you with a proposal to handle the sale of your property in response to specific request you  
+  have made  
 · assist you to find the type of property you wish to lease  
-· sending you information such as our company newsletter or promotional material we believe you may be interested in - you will have the opportunity to decline having any such material sent to you  
-· survey our clients - if they consent - from time to time to determine how well we're meeting their real estate needs
+· sending you information such as our company newsletter or promotional material we believe you  
+  may be interested in - you will have the opportunity to decline having any such material sent to you  
+· survey our clients - if they consent - from time to time to determine how well we're meeting their  
+  real estate needs
 
 ### Why we record information about you
 
 We only record information that you supply to us voluntarily and use it to:
 
 · provide you with information you require about products or services you may be seeking from us  
-·  ensure we have the appropriate information as required by legislation - federal, state or local government - and the necessary detail associated with sales and rentals
+· ensure we have the appropriate information as required by legislation - federal, state or local   
+  government - and the necessary detail associated with sales and rentals
 
 ### How we gather information about you
 
@@ -72,7 +77,8 @@ We only record information you provide directly to us. Generally we only collect
 
 We may use your email address to contact you:
 
-· to respond to a specific request you have made for information about a property, or properties for sale or lease  
+· to respond to a specific request you have made for information about a property, or properties for  
+  sale or lease  
 · to provide you with information we believe you may find useful  
 · to contact you if there is any reason to do so
 
