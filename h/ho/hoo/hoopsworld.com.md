@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hoopsworld.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621060939id_/http%3A//www.hoopsworld.com/article_11.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoopsworld.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205052717id_/http%3A//www.hoopsworld.com/article_11.shtml) for the most accurate reproduction.*
 
-# PRIVACY POLICY | HOOPSWORLD.com
+# PRIVACY POLICY | HOOPSWORLD.com | NBA News and Information
+
+ 
 
 Privacy Statement for HOOPSWORLD.com  
   
