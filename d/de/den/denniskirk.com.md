@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the denniskirk.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405183624id_/http%3A//www.denniskirk.com/aboutdk/security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denniskirk.com privacy policy that was archived on 2001-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011022000410id_/http%3A//denniskirk.com/aboutdk/security.asp) for the most accurate reproduction.*
 
-# Dennis Kirk, Inc
+# Dennis Kirk...When you want it now
 
   
 **How does Dennis Kirk protect customer information?**  
