@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxyvote.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417172507id_/http%3A//www.proxyvote.com/Instructions.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxyvote.com privacy policy that was archived on 2003-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030907065538id_/http%3A//east.proxyvote.com/proxyvote/instructions/Instructions.html%23privacy) for the most accurate reproduction.*
 
 # Internet Proxy Voting Privacy Statement
 
