@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014164041id_/http%3A//www.che.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the che.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603225349id_/http%3A//www.che.com/privacy) for the most accurate reproduction.*
 
 # Chemical Engineering -- Online Privacy Policy
 
