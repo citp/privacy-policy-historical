@@ -1,7 +1,17 @@
-> *The following text is extracted and transformed from the biz-community.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207220014id_/http%3A//www.biz-community.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz-community.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606012806id_/http%3A//biz-community.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Biz-community - Privacy Policy
 
+[](https://web.archive.org/196/11.html)  
+Network, share, make a difference.|   
+---|---  
+| 
+
+[Marketing](https://web.archive.org/196/11.html)> [Advertising](https://web.archive.org/196/12.html), [Branding](https://web.archive.org/196/82.html), [CRM](https://web.archive.org/196/33.html), [Design](https://web.archive.org/196/13.html), [Digital](https://web.archive.org/196/16.html), [Direct Marketing](https://web.archive.org/196/14.html), [Media](https://web.archive.org/196/15.html), [Out Of Home](https://web.archive.org/196/70.html), [Print](https://web.archive.org/196/39.html), [Production](https://web.archive.org/196/17.html), [Public Relations](https://web.archive.org/196/18.html), [Radio](https://web.archive.org/196/59.html), [Research](https://web.archive.org/196/19.html), [Retail](https://web.archive.org/196/87.html), [Sales](https://web.archive.org/196/20.html), [Sponsorship](https://web.archive.org/196/48.html), [TV](https://web.archive.org/196/66.html)
+
+|   
+---|---|---  
+  
 Last updated on 17 August 2001. 
 
 **All personal information supplied to Biz-community is kept strictly confidential and will not be sold to any third parties. All information viewed in Secure Services is protected through 128 bit encryption.**
@@ -16,7 +26,7 @@ There are cases where we may ask you for personal information such as your name,
 
 Furthermore, we may use your personal information to send you periodic communications, solicit your feedback, provide you with special offers, or for other purposes and to customize the services we provide to you. At the bottom of every communication, Biz-community provides a link that can be used to opt out of receiving any communications from us. 
 
-In case you choose to delete or change some of the information you have provided to us, you can do so at the [Member Details](https://web.archive.org/Member/EditMember.aspx?m=e) page accessable from out front page. 
+In case you choose to delete or change some of the information you have provided to us, you can do so at the [Member Details](https://web.archive.org/EditSubscription.aspx?m=e) page accessable from out front page. 
 
 **USE OF IP ADDRESS**   
 An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the big computers that "serve up" Web pages -- automatically identify your computer by its IP address. 
@@ -50,6 +60,3 @@ Biz-community does not knowingly collect information from minors. If you are und
 **YOUR ACCEPTANCE OF THESE TERMS**   
 By using this site, you signify your assent to the Biz-community Privacy Policy. If you do not agree to this policy, please do not use this site. The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. Your continued use of this site following the posting of changes to these terms will mean you accept those changes.    
 
-
-[About us](https://web.archive.org/About/Overview.aspx) | [Suggestion Box](https://web.archive.org/Suggestions.aspx) | [Contact Us](https://web.archive.org/ContactUs.aspx?c=11&l=196) | [Privacy policy](https://web.archive.org/PrivacyPolicy.aspx) | [Terms of Use](https://web.archive.org/TermsOfUse.aspx) | [Help](https://web.archive.org/Help/Index.aspx)   
-All rights reserved. © 2002. Biz-community , its sponsors, contributors and advertisers disclaim all liability for any loss, damage, injury or expense that might arise from the use of, or reliance upon, the services contained herein. 
