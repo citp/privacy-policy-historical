@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the matweb.com privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015093815id_/http%3A//matweb.com/reference/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matweb.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621080004id_/http%3A//matweb.com/reference/privacy.asp) for the most accurate reproduction.*
 
-# MatWeb - Privacy Statemant
+# MatWeb - Privacy Statement
 
 ## MatWeb Privacy Policy Statement
 
@@ -49,13 +49,13 @@ If you feel that this site is not following its stated information policy, you m
 
 [Subscribe to Premium Services](https://web.archive.org/membership/reg-upgrade.asp)  
 [](https://web.archive.org/search/SearchSeq.asp)  •   [](https://web.archive.org/search/SearchComp.asp)  •   [](https://web.archive.org/search/SearchProperty.asp)  •   [](https://web.archive.org/search/SearchSubcat.asp)  •   [](https://web.archive.org/search/SearchManufacturer.asp)  •   [](https://web.archive.org/search/SearchTradeName.asp)  •   [](https://web.archive.org/search/SearchUNS.asp)   
-[](https://web.archive.org/services/advertising.asp)  •   [](https://web.archive.org/services/submitdata.asp)  •   [](https://web.archive.org/services/databaselicense.asp)  •   [](https://web.archive.org/services/webhosting.asp)  •   [](https://web.archive.org/reference/colist.asp)   
-[](https://web.archive.org/tools/conversion.asp)  •   [](https://web.archive.org/reference/further-study.asp)  •   [](https://web.archive.org/news/news.asp)  •   [](https://web.archive.org/reference/link.asp)  •   [](https://web.archive.org/help/help.asp)  •   [](https://web.archive.org/contact/contact.asp)  •   [](https://web.archive.org/tools/contents.asp)  •   [](https://web.archive.org/index.asp)  
+[](https://web.archive.org/services/advertising.asp)  •   [](https://web.archive.org/services/submitdata.asp)  •   [](https://web.archive.org/services/databaselicense.asp)  •   [](https://web.archive.org/services/webhosting.asp)  •   [](https://web.archive.org/clickthrough.asp?addataid=277)   
+[](https://web.archive.org/reference/colist.asp)  •   [](https://web.archive.org/tools/conversion.asp)  •   [](https://web.archive.org/reference/further-study.asp)  •   [](https://web.archive.org/news/news.asp)  •   [](https://web.archive.org/reference/link.asp)  •   [](https://web.archive.org/help/help.asp)  •   [](https://web.archive.org/contact/contact.asp)  •   [](https://web.archive.org/tools/contents.asp)  •   [](https://web.archive.org/index.asp)  
   
 ---  
 |  Please read our [](https://web.archive.org/reference/terms.asp) regarding materials data and our [](https://web.archive.org/reference/privacy.asp). Questions or comments about MatWeb? Please contact us at [](mailto:webmaster@matweb.com). We appreciate your input. 
 
-Site designed and maintained by [](http://www.aciwebs.com/). The contents of this web site, the MatWeb logo, and "MatWeb" are Copyright 1997-2002 by Automation Creations, Inc. MatWeb is intended for personal, non-commercial use. The contents, results, and technical data from this site may not be reproduced either electronically, photographically or substantively without permission from [](http://www.aciwebs.com/). 
+Site designed and maintained by [](http://www.aciwebs.com/). The contents of this web site, the MatWeb logo, and "MatWeb" are Copyright 1996-2003 by Automation Creations, Inc. MatWeb is intended for personal, non-commercial use. The contents, results, and technical data from this site may not be reproduced either electronically, photographically or substantively without permission from [](http://www.aciwebs.com/). 
 
   
 | 
