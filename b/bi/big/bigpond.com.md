@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigpond.com privacy policy that was archived on 2000-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000622021028id_/http%3A//telstra.com/res/docs/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigpond.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205004200id_/http%3A//telstra.com/res/docs/Privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ The types of personal information that we collect from you will depend on how yo
 
 We value your trust in telstra.com: in all cases, your information will be held in strictest confidence. 
 
-telstra.com records other information as well. Whenever a page is requested from our web server, we record the time, date and URL of the request, along with information on the browser software that is being used. This information is used to improve the structure and performance of telstra.com, and is not used in any way to uniquely indentify a user. 
+telstra.com records other information as well. Whenever a page is requested from our web server, we record the time, date and URL of the request, along with information on the browser software that is being used. This information is used to improve the structure and performance of telstra.com, and is not used in any way to uniquely identify a user. 
 
 telstra.com also use cookies. Cookies are pieces of information that a website can transfer to an individual's computer hard drive for record keeping. Cookies can make using telstra.com easier by storing information about your preferences on a particular website. This will enable you to take full advantage of the services that telstra.com offers. The use of cookies is an industry standard and you'll find most major websites use them. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to refuse cookies or to warn you when cookies are being used. 
 
