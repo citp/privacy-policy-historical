@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611094457id_/http%3A//www.infopop.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopop.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215095427id_/http%3A//infopop.com/privacy.php) for the most accurate reproduction.*
 
 # Infopop - Privacy Policy
 
