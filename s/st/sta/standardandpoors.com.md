@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardandpoors.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604040407id_/http%3A//www.standardandpoors.com/Policy/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardandpoors.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212075759id_/http%3A//www.standardandpoors.com/Policy/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **STANDARD & POOR'S CUSTOMER PRIVACY POLICY STATEMENT**
 
-As a division of The McGraw-Hill Companies, Standard & Poor's has adopted The McGraw-Hill Companies' Customer Privacy Policy as it's own. As you browse through [www1.standardandpoors.com](http://www1.standardandpoors.com/) and its related sites, please be aware that different Standard & Poor's sites collect and use Personally Identifiable and sensitive information in different manners. When such information is collected, you will be provided with notice of how such information will be used. Please refer to each site's Privacy Notice for additional information.
+As a division of The McGraw-Hill Companies, Standard & Poor's has adopted The McGraw-Hill Companies' Customer Privacy Policy as it's own. As you browse through [www.standardandpoors.com](http://www.standardandpoors.com/) and its related sites, please be aware that different Standard & Poor's sites collect and use Personally Identifiable and sensitive information in different manners. When such information is collected, you will be provided with notice of how such information will be used. Please refer to each site's Privacy Notice for additional information.
 
 **McGRAW-HILL CUSTOMER PRIVACY POLICY STATEMENT**
 
