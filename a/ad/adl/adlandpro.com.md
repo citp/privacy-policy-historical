@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204231300id_/http%3A//www.adlandpro.com/PrivacyStatement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adlandpro.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616133020id_/http%3A//www.adlandpro.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
 # AdlandPro - Privacy Statement
 
@@ -6,10 +6,7 @@
 
 The privacy statement discloses the privacy practices for [http://www.adlandpro.com](http://www.adlandpro.com/)
 
-If you have questions or concerns regarding this statement, you should first contact Bogdan Fiedur, via email [support@adlandpro.com](mailto:Policy%20Issues%20%3csupport@AdlandPro.com%3e), or call 204-254-7228, or mail 
-
-**AdlandPro.Com** 23-845 Dakota Street, Suite 332  Winnipeg, Manitoba R2M 5M3 Canada  
-
+If you have questions or concerns regarding this statement, you should first contact Bogdan Fiedur, via email [support@adlandpro.com](mailto:Policy%20Issues%20%3csupport@AdlandPro.com%3e), or call 204-254-7228, or mail **AdlandPro.Com** 23-845 Dakota Street, Suite 332 Winnipeg, Manitoba R2M 5M3 Canada
 
   
 AdlandPro.com   agrees to abide by this Privacy Policy with respect to information gathered on web pages hosted by Adlandpro.com. Such information is being received by both AdlandPro.com and the Affiliate  through which AdlandPro.com provides some of  its services to you. 
