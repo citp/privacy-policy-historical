@@ -1,0 +1,623 @@
+<!--The following is the downloaded HTML source of the degoo.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605045825id_/http%3A//degoo.com/index.php%3Fmenu_var%3Djo%26main_var%3Dprivacy) for the most accurate reproduction.-->
+
+<html><head>
+<title>d e g o o . c o m - Get paid to see advertisements </title>
+<!--
+CROSS-BROWSER DHTML POP-UP MENUS
+by Kevin Yank (kevin@sitepoint.com)
+Version 1.0 (26/02/2001)
+ Visit http://www.sitepoint.com/newsletter/ to subscribe
+to the SitePoint Tech Times for more free scripts, tips,
+and tutorials like this one!
+
+TERMS OF USE: 
+SitePoint hereby grants permission for anyone to make
+use of the scripts contained in this page, on the
+condition that this notice appears before the first
+relevant <script> in any page that makes use of this
+code, either in its original or modified form. That's
+not much to ask, is it?
+-->
+<script language="JavaScript" type="text/javascript">
+<!--
+
+var menuItemWidth = 120;
+
+var menuItemHeight = 20;
+
+if (document.images) { 
+	var menuOutButtons = new Array();
+	menuOutButtons[0] = new Image();
+	menuOutButtons[0].src = "http://degoo.com:8080/html/pages/images/button_st_en.gif";
+	menuOutButtons[1] = new Image();
+	menuOutButtons[1].src = "http://degoo.com:8080/html/pages/images/button_jo_en.gif";
+	menuOutButtons[2] = new Image();
+	menuOutButtons[2].src = "http://degoo.com:8080/html/pages/images/button_me_en.gif";
+	menuOutButtons[3] = new Image();
+	menuOutButtons[3].src = "http://degoo.com:8080/html/pages/images/button_ad_en.gif";
+
+	var menuOverButtons = new Array();
+	menuOverButtons[0] = new Image();
+	menuOverButtons[0].src = "http://degoo.com:8080/html/pages/images/button_st_over_en.gif";
+	menuOverButtons[1] = new Image();
+	menuOverButtons[1].src = "http://degoo.com:8080/html/pages/images/button_jo_over_en.gif";
+	menuOverButtons[2] = new Image();
+	menuOverButtons[2].src = "http://degoo.com:8080/html/pages/images/button_me_over_en.gif";
+	menuOverButtons[3] = new Image();
+	menuOverButtons[3].src = "http://degoo.com:8080/html/pages/images/button_ad_over_en.gif";
+}
+
+var menuLengths = new Array(4,4,16,8);
+
+var menuURLs = new Array(menuLengths.length);
+for (i=0;i<menuLengths.length;i++) 
+menuURLs[i] = new Array(menuLengths[i]);
+
+menuURLs[0][0] = "index.php?menu_var=st&main_var=start";	
+menuURLs[0][1] = "index.php?menu_var=st&main_var=contact";	 
+menuURLs[0][2] = "index.php?menu_var=st&main_var=how";	 
+menuURLs[0][3] = "index.php?menu_var=st&main_var=faq";	
+
+menuURLs[1][0] = "index.php?menu_var=jo&main_var=joinform";	
+menuURLs[1][1] = "index.php?menu_var=jo&main_var=agreement";	
+menuURLs[1][2] = "index.php?menu_var=jo&main_var=privacy";  
+menuURLs[1][3] = "index.php?menu_var=jo&main_var=antispam";	
+
+menuURLs[2][0] = "index.php?menu_var=me&main_var=login";   
+menuURLs[2][1] = "index.php?menu_var=me&main_var=logout";  
+menuURLs[2][2] = "index.php?menu_var=me&main_var=updateform"; 
+menuURLs[2][3] = "index.php?menu_var=me&main_var=members"; 
+menuURLs[2][4] = "index.php?menu_var=me&main_var=stats"; 
+menuURLs[2][5] = "index.php?menu_var=me&main_var=forgotuserinfoform"; 
+menuURLs[2][6] = "index.php?menu_var=me&main_var=referralcenter";
+menuURLs[2][7] = "index.php?menu_var=me&main_var=help"; 
+menuURLs[2][8] = "index.php?menu_var=me&main_var=download"; 
+menuURLs[2][9] = "index.php?menu_var=me&main_var=banners"; 
+menuURLs[2][10] = "index.php?menu_var=me&main_var=sms"; 
+menuURLs[2][11] = "index.php?menu_var=me&main_var=history"; 
+menuURLs[2][12] = "index.php?menu_var=me&main_var=deals"; 
+menuURLs[2][13] = "index.php?menu_var=me&main_var=deleteform"; 
+menuURLs[2][14] = "index.php?menu_var=ad&main_var=buyadvertising";	
+menuURLs[2][15] = "index.php?menu_var=me&main_var=tellafriend";	
+
+menuURLs[3][0] = "index.php?menu_var=ad&main_var=info";  
+menuURLs[3][1] = "index.php?menu_var=ad&main_var=contact";   
+menuURLs[3][2] = "index.php?menu_var=ad&main_var=loginform";  
+menuURLs[3][3] = "index.php?menu_var=ad&main_var=stats";   
+menuURLs[3][4] = "index.php?menu_var=ad&main_var=updateform";   
+menuURLs[3][5] = "index.php?menu_var=ad&main_var=buyadvertising";	
+menuURLs[3][6] = "index.php?menu_var=ad&main_var=benefits";	
+menuURLs[3][7] = "index.php?menu_var=ad&main_var=pricing";	
+
+var menuTimers = new Array(menuLengths.length);
+
+function getStyleObj(id) {
+	if (document.getElementById || // DOM-compliant browsers (MSIE5, NSN6, O5)
+	  document.all) {		// or MSIE 4
+	  return getObj(id).style;
+	} else return getObj(id); // NSN4
+}
+
+function getObj(id) {
+	if (document.getElementById) { // DOM-compliant browsers (MSIE5, NSN6, O5)
+	  return document.getElementById(id);
+	} else if (document.all) { // MSIE4
+	  return document.all[id];
+	} else if (document.layers) { // NSN4
+	  return document.layers[id];
+	} else { 
+	  return false;
+	}
+}
+
+function showMenu(index) {
+
+	if (menuTimers[index-1]) clearTimeout(menuTimers[index-1]);
+
+	for (i=1;i<=menuLengths.length;i++)
+	  if (i!=index) closeMenu(i);
+
+	var menu = getStyleObj("menu"+index);
+	if (menu) menu.visibility = "visible";
+	if (document.images) document.images["menubutton"+index].src =
+	menuOverButtons[index-1].src;
+}
+
+function hideMenu(index) {
+	if (menuTimers[index-1]) clearTimeout(menuTimers[index-1]);
+	menuTimers[index-1] = setTimeout("closeMenu('"+index+"');",500);
+}
+
+function closeMenu(index) {
+	var menu = getStyleObj("menu"+index);
+	if (menu) menu.visibility = "hidden";
+	if (document.images) document.images["menubutton"+index].src =
+	menuOutButtons[index-1].src;
+}
+
+function overMenuItem() {
+	this.hilightitem.visibility='visible';
+	showMenu(this.menuid);
+}
+
+function outMenuItem() {
+	this.hilightitem.visibility='hidden';
+	hideMenu(this.menuid);
+}
+
+function clickMenuItem() {
+	if (this.url) { // There is a URL associated with this item
+	window.location = this.url;
+	}
+}
+
+//window.onload=setupMenus;
+function setupMenus() {
+	if (document.layers) { // This section is for Netscape 4 only
+	  for (menuid=1;menuid<=menuLengths.length;menuid++) { // For each menu
+		// Get the menu object
+		var menu = getObj("menu"+menuid);
+		menu.clip.width = menuItemWidth + 2;
+		menu.clip.height = (menuItemHeight+1) * menuLengths[menuid-1] + 1;
+		menu.document.bgColor="#000000";
+
+		for (i=1;i<=menuLengths[menuid-1];i++) { // For each menu item
+
+			var item = eval("menu.document.menu"+menuid+"item"+i);
+			var onitem = eval("menu.document.menu"+menuid+"item"+i+"on");
+
+			item.top = (menuItemHeight + 1) * (i-1) + 1;
+			onitem.top = (menuItemHeight + 1) * (i-1) + 1;
+
+			item.clip.width = menuItemWidth;
+			item.clip.height = menuItemHeight;
+			item.document.bgColor="#003366";
+			onitem.clip.width = menuItemWidth;
+			onitem.clip.height = menuItemHeight;
+			onitem.document.bgColor="#003366";
+
+			item.hilightitem = onitem;
+			onitem.hilightitem = onitem;
+
+			item.menuid = menuid;
+			onitem.menuid = menuid;
+
+			var url = menuURLs[menuid-1][i-1];
+			item.url = url;
+			onitem.url = url;
+
+			var eTypes = Event.MOUSEOVER | Event.MOUSEOUT | Event.CLICK;
+			item.captureEvents(eTypes);
+			onitem.captureEvents(eTypes);
+			item.onmouseover = overMenuItem;
+			onitem.onmouseover = overMenuItem;
+			item.onmouseout = outMenuItem;
+			onitem.onmouseout = outMenuItem;
+			item.onclick = clickMenuItem;
+			onitem.onclick = clickMenuItem;
+		}
+	  }
+	} else { // This section is for all other browsers
+	 
+	  for (menuid=1;menuid<=menuLengths.length;menuid++) { // For each menu
+
+			for (i=1;i<=menuLengths[menuid-1];i++) { // For each menu item
+
+			var item = getObj("menu"+menuid+"item"+i);
+			var onitem = getObj("menu"+menuid+"item"+i+"on");
+			var itemstyle = getStyleObj("menu"+menuid+"item"+i);
+			var onitemstyle = getStyleObj("menu"+menuid+"item"+i+"on");
+
+			itemstyle.top = (menuItemHeight + 1) * (i-1) + 1;
+			onitemstyle.top = (menuItemHeight + 1) * (i-1) + 1;
+			
+			if (navigator.appName=="Microsoft Internet Explorer") {
+			  itemstyle.cursor = "hand";
+			  onitemstyle.cursor = "hand";
+			}
+
+			item.hilightitem = onitemstyle;
+			onitem.hilightitem = onitemstyle;
+
+			item.menuid = menuid;
+			onitem.menuid = menuid;
+
+			var url = menuURLs[menuid-1][i-1];
+			item.url = url;
+			onitem.url = url;
+
+			item.onmouseover = overMenuItem;
+			onitem.onmouseover = overMenuItem;
+			item.onmouseout = outMenuItem;
+			onitem.onmouseout = outMenuItem;
+			item.onclick = clickMenuItem;
+			onitem.onclick = clickMenuItem;
+		}
+	  }
+	}
+
+}
+
+function handleResize() {
+	location.reload();
+	return false;
+}
+if (document.layers) {
+	window.onresize = handleResize;
+}
+
+//-->
+</script>
+<style type="text/css">
+<!--
+
+body { 
+	margin: 0px;
+	padding: 0px;
+}
+
+.menu {
+	position: absolute;
+	top: 90px;
+	width: 140px;
+	visibility: hidden;
+	background-color: #000000;
+}
+
+.menuitem {
+	position: absolute;
+	left: 1px;width: 138px; height: 19px;
+	background-color: #003366;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+.menuitemon {
+	position: absolute;
+	left: 1px; width: 138px; height: 19px;
+	visibility: hidden;
+	background-color: #336699;
+	color: #FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	cursor: pointer;
+}
+
+
+.menuitemon a,a:link,a:visited{font-family:	Verdana,Arial,sans-serif;color:	#003366;text-decoration: none;font-size:11px;}
+.menuitemon a:hover{font-family:Verdana,Arial,sans-serif; color:#0099cc;text-decoration:none;font-size:11px;}
+
+#menu1 { left:120px; height: 85px; }
+#menu2 { left:240px; height: 85px; }
+#menu3 { left:360px; height: 337px; }
+#menu4 { left:480px; height: 169px; }
+
+body 
+{
+SCROLLBAR-FACE-COLOR:		#003366;
+SCROLLBAR-HIGHLIGHT-COLOR:	#336699;
+SCROLLBAR-SHADOW-COLOR:		#003366; 
+SCROLLBAR-3DLIGHT-COLOR:	#999999; 
+SCROLLBAR-ARROW-COLOR:		#336699; 
+SCROLLBAR-TRACK-COLOR:		#336699; 
+SCROLLBAR-DARKSHADOW-COLOR: #003366; 
+SCROLLBAR-BASE-COLOR:		#003366;
+}
+
+a,a:link,a:visited{font-family:	Verdana,Arial,sans-serif;color:	#003366;text-decoration: none;font-size:12px;}
+a:hover{font-family:Verdana,Arial,sans-serif; color:#0099cc;text-decoration:none;font-size:12px;}
+
+a.menuleft,a.menuleft:link,a.menuleft:visited{font-family:Verdana,Arial,sans-serif;color:#003366;text-decoration: none;font-size:11px;}
+a.menuleft:hover{font-family:Verdana,Arial,sans-serif; color:#0099cc;text-decoration:none;font-size:11px;}
+
+a.head,a.head:link,a.head:visited,.head,a.head2,a.head2:link,a.head2:visited,.head2
+{
+font-family:Arial,Verdana,sans-serif;
+color: #ffffff;
+text-decoration: none;
+font-size: 11px;
+font-weight:bolder;
+line-height: 11px;
+}
+a.head:hover
+{
+font-family:Arial,Verdana,sans-serif;
+color: #3399cc;
+text-decoration: none;
+font-size: 11px;
+font-weight:bolder;
+line-height: 11px;
+}
+.input 
+{font-family:	Verdana,Arial,sans-serif;
+font-size:		12px;
+font-weight:	bolder;
+color:			#003366;
+height:			20px;
+border-top:		#000000	1px solid; 
+border-left:	#000000	1px solid; 
+border-right:	#cccccc	1px solid; 
+border-bottom:	#cccccc	1px solid;}
+
+.button 
+{font-family:		Verdana,Arial,sans-serif;
+font-size:			13px;
+font-weight:		bolder;
+color:				#003366;
+height:				20px;
+border-top:			#FFFFFF	 1px solid; 
+border-left:		#FFFFFF	 1px solid; 
+border-right:		#000000 1px solid; 
+border-bottom:		#000000 1px solid;}
+
+.td 
+{font-family:		Verdana,Arial,sans-serif;
+font-size:			12px;
+font-weight:		bolder;
+color:				#003366;
+}
+
+h3 
+{font-family:	Verdana,Arial,sans-serif;  
+font-size:		24px;  
+color:			#000000;}
+
+ -->
+</style>
+</head>
+<body background="http://degoo.com:8080/html/pages/images/background.gif" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0">
+<script language="JavaScript">
+<!--
+for(i=0;i<50;i++)
+{
+	setTimeout("setbase()",500)
+}
+function setbase()
+{
+//alert(document.all.tags('BASE').target);
+document.all.tags('BASE').target="skit";
+}
+//-->
+</script>
+<table border="0" cellpadding="0" cellspacing="0" width="620" height="85">
+	<tbody><tr>
+		<td align="left" valign="top" width="100%" height="65" colspan="20">
+		<img src="http://degoo.com:8080/html/pages/images/logo.gif" width="139" height="57"><script src="http://track.directleads.com/r/17415/degoolarge"></script>
+</td>
+	</tr>
+	<tr>
+		<td class="head" align="right" width="70" height="20">Language:&nbsp; </td>
+		<td width="55" nowrap="nowrap" height="20" align="center">
+			<a href="scripts/lang.php?lang=en&amp;main_var=privacy&amp;menu_var=jo"><img border="0" src="http://degoo.com:8080/html/pages/images/en.gif" width="24" height="16"></a>
+			<a href="scripts/lang.php?lang=sv&amp;main_var=privacy&amp;menu_var=jo"><img border="0" src="http://degoo.com:8080/html/pages/images/sv.gif" width="24" height="16"></a>
+		</td>
+	 	
+	<td><!--
+     menu1: --><a href="index.php?menu_var=st&amp;main_var=start" onmouseover="showMenu(1)" onmouseout="hideMenu(1)"><!--
+                --><img src="http://degoo.com:8080/html/pages/images/button_st_en.gif" alt="Start" name="menubutton1" width="120" height="20" border="0"></a><!--
+     menu2: --><a href="index.php?menu_var=jo&amp;main_var=joinform" onmouseover="showMenu(2)" onmouseout="hideMenu(2)"><!--
+                --><img src="http://degoo.com:8080/html/pages/images/button_jo_en.gif" alt="Join  Us" name="menubutton2" width="120" height="20" border="0"></a><!--
+     menu3: --><a href="index.php?menu_var=me&amp;main_var=loginform" onmouseover="showMenu(3)" onmouseout="hideMenu(3)"><!--
+                --><img src="http://degoo.com:8080/html/pages/images/button_me_en.gif" alt="Members" name="menubutton3" width="120" height="20" border="0"></a><!--
+     menu4: --><a href="index.php?menu_var=ad&amp;main_var=info" onmouseover="showMenu(4)" onmouseout="hideMenu(4)"><!--
+                --><img src="http://degoo.com:8080/html/pages/images/button_ad_en.gif" alt="Advertise" name="menubutton4" width="120" height="20" border="0"></a><!--
+     -->	
+</td>    
+</tr>
+</tbody></table>
+
+<div id="menu1" class="menu">
+<div id="menu1item1" class="menuitem" style="top: 1px;">&nbsp;Start&nbsp;</div>
+<div id="menu1item1on" class="menuitemon" style="top: 1px;">
+<a href="index.php?menu_var=st&amp;main_var=start">&nbsp;Start&nbsp;</a></div>
+<div id="menu1item2" class="menuitem" style="top: 22px;">&nbsp;Contact us&nbsp;</div>
+<div id="menu1item2on" class="menuitemon" style="top: 22px;">
+<a href="index.php?menu_var=st&amp;main_var=contact">&nbsp;Contact us&nbsp;</a></div>
+<div id="menu1item3" class="menuitem" style="top: 43px;">&nbsp;How it works&nbsp;</div>
+<div id="menu1item3on" class="menuitemon" style="top: 43px;">
+<a href="index.php?menu_var=st&amp;main_var=how">&nbsp;How it works&nbsp;</a></div>
+<div id="menu1item4" class="menuitem" style="top: 64px;">&nbsp;FAQ&nbsp;</div>
+<div id="menu1item4on" class="menuitemon" style="top: 64px;">
+<a href="index.php?menu_var=st&amp;main_var=faq">&nbsp;FAQ&nbsp;</a></div>
+  </div>
+
+<div id="menu2" class="menu">
+<div id="menu2item1" class="menuitem" style="top: 1px;">&nbsp;Join  Us&nbsp;</div>
+<div id="menu2item1on" class="menuitemon" style="top: 1px;">
+<a href="index.php?menu_var=jo&amp;main_var=joinform">&nbsp;Join  Us&nbsp;</a></div>
+<div id="menu2item2" class="menuitem" style="top: 22px;">&nbsp;Terms &amp; Conditions&nbsp;</div>
+<div id="menu2item2on" class="menuitemon" style="top: 22px;">
+<a href="index.php?menu_var=jo&amp;main_var=agreement">&nbsp;Terms &amp; Conditions&nbsp;</a></div>
+<div id="menu2item3" class="menuitem" style="top: 43px;">&nbsp;Privacy policy&nbsp;</div>
+<div id="menu2item3on" class="menuitemon" style="top: 43px;">
+<a href="index.php?menu_var=jo&amp;main_var=privacy">&nbsp;Privacy policy&nbsp;</a></div>
+<div id="menu2item4" class="menuitem" style="top: 64px;">&nbsp;Anti-Spam policy&nbsp;</div>
+<div id="menu2item4on" class="menuitemon" style="top: 64px;">
+<a href="index.php?menu_var=jo&amp;main_var=antispam">&nbsp;Anti-Spam policy&nbsp;</a></div>
+</div>
+
+
+<div id="menu3" class="menu">
+<div id="menu3item1" class="menuitem" style="top: 1px;">&nbsp;Login&nbsp;</div>
+<div id="menu3item1on" class="menuitemon" style="top: 1px;">
+<a href="index.php?menu_var=me&amp;main_var=login">&nbsp;Login&nbsp;</a></div>
+  
+<div id="menu3item2" class="menuitem" style="top: 22px;">&nbsp;Logout&nbsp;</div>
+  <div id="menu3item2on" class="menuitemon" style="top: 22px;">
+<a href="index.php?menu_var=me&amp;main_var=logout">&nbsp;Logout&nbsp;</a></div>
+  
+<div id="menu3item3" class="menuitem" style="top: 43px;">&nbsp;Update&nbsp;</div>
+<div id="menu3item3on" class="menuitemon" style="top: 43px;">
+<a href="index.php?menu_var=me&amp;main_var=updateform">&nbsp;Update&nbsp;</a></div>
+  
+<div id="menu3item4" class="menuitem" style="top: 64px;">&nbsp;News&nbsp;</div>
+<div id="menu3item4on" class="menuitemon" style="top: 64px;">
+<a href="index.php?menu_var=me&amp;main_var=members">&nbsp;News&nbsp;</a></div>
+  
+<div id="menu3item5" class="menuitem" style="top: 85px;">&nbsp;Stats&nbsp;</div>
+<div id="menu3item5on" class="menuitemon" style="top: 85px;">
+<a href="index.php?menu_var=me&amp;main_var=stats">&nbsp;Stats&nbsp;</a></div>
+  
+ <div id="menu3item6" class="menuitem" style="top: 106px;">&nbsp;Lost password?&nbsp;</div>
+<div id="menu3item6on" class="menuitemon" style="top: 106px;">
+<a href="index.php?menu_var=me&amp;main_var=forgotuserinfoform">&nbsp;Lost password?&nbsp;</a></div>
+  
+<div id="menu3item7" class="menuitem" style="top: 127px;">&nbsp;Referral tips&nbsp;</div>
+<div id="menu3item7on" class="menuitemon" style="top: 127px;">
+<a href="index.php?menu_var=me&amp;main_var=referralcenter">&nbsp;Referral tips&nbsp;</a></div>
+  
+ <div id="menu3item8" class="menuitem" style="top: 148px;">&nbsp;Help&nbsp;</div>
+ <div id="menu3item8on" class="menuitemon" style="top: 148px;">
+ <a href="index.php?menu_var=me&amp;main_var=help">&nbsp;Help&nbsp;</a></div>
+  
+ <div id="menu3item9" class="menuitem" style="top: 169px;">&nbsp;Download&nbsp;</div>
+ <div id="menu3item9on" class="menuitemon" style="top: 169px;">
+ <a href="index.php?menu_var=me&amp;main_var=download">&nbsp;Download&nbsp;</a></div>
+  
+ <div id="menu3item10" class="menuitem" style="top: 190px;">&nbsp;Banners&nbsp;</div>
+ <div id="menu3item10on" class="menuitemon" style="top: 190px;">
+ <a href="index.php?menu_var=me&amp;main_var=banners">&nbsp;Banners&nbsp;</a></div>
+  
+ <div id="menu3item11" class="menuitem" style="top: 211px;">&nbsp;Free SMS&nbsp;</div>
+ <div id="menu3item11on" class="menuitemon" style="top: 211px;">
+ <a href="index.php?menu_var=me&amp;main_var=sms">&nbsp;Free SMS&nbsp;</a></div>
+  
+ <div id="menu3item12" class="menuitem" style="top: 232px;">&nbsp;History&nbsp;</div>
+ <div id="menu3item12on" class="menuitemon" style="top: 232px;">
+ <a href="index.php?menu_var=me&amp;main_var=history">&nbsp;History&nbsp;</a></div>
+  
+ <div id="menu3item13" class="menuitem" style="top: 253px;">&nbsp;Special Deals&nbsp;</div>
+ <div id="menu3item13on" class="menuitemon" style="top: 253px;">
+ <a href="index.php?menu_var=me&amp;main_var=deals">&nbsp;Special Deals&nbsp;</a></div>
+  
+<div id="menu3item14" class="menuitem" style="top: 274px;">&nbsp;Cancel account&nbsp;</div>
+<div id="menu3item14on" class="menuitemon" style="top: 274px;">
+<a href="index.php?menu_var=me&amp;main_var=deleteform">&nbsp;Cancel account&nbsp;</a></div>
+
+<div id="menu3item15" class="menuitem" style="top: 295px;">&nbsp;Buy ads&nbsp;</div>
+ <div id="menu3item15on" class="menuitemon" style="top: 295px;">
+ <a href="index.php?menu_var=ad&amp;main_var=buyadvertising">&nbsp;Buy ads&nbsp;</a></div>
+
+ <div id="menu3item16" class="menuitem" style="top: 316px;">&nbsp;Tell a friend&nbsp;</div>
+ <div id="menu3item16on" class="menuitemon" style="top: 316px;">
+ <a href="index.php?menu_var=me&amp;main_var=tellafriend">&nbsp;Tell a friend&nbsp;</a></div>
+</div>
+
+<div id="menu4" class="menu">
+<div id="menu4item1" class="menuitem" style="top: 1px;">&nbsp;Advertising info&nbsp;</div>
+<div id="menu4item1on" class="menuitemon" style="top: 1px;">
+<a href="index.php?menu_var=ad&amp;main_var=info">&nbsp;Advertising info &nbsp;</a></div>
+
+<div id="menu4item2" class="menuitem" style="top: 22px;">&nbsp;Contact us&nbsp;</div>
+<div id="menu4item2on" class="menuitemon" style="top: 22px;">
+<a href="index.php?menu_var=st&amp;main_var=contact">&nbsp;Contact us&nbsp;</a></div>
+
+<div id="menu4item3" class="menuitem" style="top: 43px;">&nbsp;Login&nbsp;</div>
+<div id="menu4item3on" class="menuitemon" style="top: 43px;">
+<a href="index.php?menu_var=ad&amp;main_var=loginform">&nbsp;Login&nbsp;</a></div>
+
+<div id="menu4item4" class="menuitem" style="top: 64px;">&nbsp;Stats&nbsp;</div>
+<div id="menu4item4on" class="menuitemon" style="top: 64px;">
+<a href="index.php?menu_var=ad&amp;main_var=stats">&nbsp;Stats&nbsp;</a></div>
+
+<div id="menu4item5" class="menuitem" style="top: 85px;">&nbsp;Update&nbsp;</div>
+<div id="menu4item5on" class="menuitemon" style="top: 85px;">
+<a href="index.php?menu_var=ad&amp;main_var=updateform">&nbsp;Update&nbsp;</a></div>
+
+<div id="menu4item6" class="menuitem" style="top: 106px;">&nbsp;Buy ads&nbsp;</div>
+<div id="menu4item6on" class="menuitemon" style="top: 106px;">
+<a href="index.php?menu_var=ad&amp;main_var=buyadvertising">&nbsp;Buy ads&nbsp;</a></div>
+
+<div id="menu4item7" class="menuitem" style="top: 127px;">&nbsp;Benefits&nbsp;</div>
+<div id="menu4item7on" class="menuitemon" style="top: 127px;">
+<a href="index.php?menu_var=ad&amp;main_var=benefits">&nbsp;Benefits&nbsp;</a></div>
+
+<div id="menu4item8" class="menuitem" style="top: 148px;">&nbsp;Pricing&nbsp;</div>
+<div id="menu4item8on" class="menuitemon" style="top: 148px;">
+<a href="index.php?menu_var=ad&amp;main_var=pricing">&nbsp;Pricing&nbsp;</a></div>
+</div><table cellspacing="3" cellpadding="0" border="0" width="605">
+<tbody><tr>
+<td>
+</td>
+</tr>
+<tr>
+<td width="132" valign="top">
+			<table width="130" border="0" cellpadding="1" cellspacing="0">
+				<tbody><tr><td bgcolor="#000000" width="130">			
+						<table width="130" border="0" cellpadding="3" cellspacing="0">
+							<tbody><tr><td bgcolor="#336699" width="130" height="25"><font face="Verdana" size="1" color="#ffffff"><b>
+							Menu</b>
+                                  <br>Join  Us</font></td></tr><tr><td bgcolor="#ffffff" width="130" colspan="2"> <font face="Verdana" size="1"><b>
+<a class="menuleft" href="index.php?menu_var=jo&amp;main_var=joinform">Join  Us</a><br>
+<a class="menuleft" href="index.php?menu_var=jo&amp;main_var=agreement">Terms &amp; Conditions</a><br> 
+<a class="menuleft" href="index.php?menu_var=jo&amp;main_var=privacy">Privacy policy</a><br>
+<a class="menuleft" href="index.php?menu_var=jo&amp;main_var=antispam">Anti-Spam policy</a><br></b>
+</font></td></tr></tbody></table></td></tr></tbody></table></td>
+<td width="455" valign="top">
+<font face="Verdana" size="2"><br>
+<h3>Privacy Statement for degoo.com</h3>
+
+Degoo Media has created this privacy statement in order to 
+demonstrate our firm commitment to privacy.  The following discloses our 
+information gathering and dissemination practices for this website: degoo.com.<p>
+
+We use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our site, and for other purposes.</p><p>
+
+Our site's registration form requires users to give us contact information (like their name and email address) and demographic information (like their interests, age, or income level).  We use customer contact information from the registration form to show the user promotional material from some of our partners. Degoo will not share, sell, trade, or give away personally identifiable information to third parties without members' explicit permission. If the users don´t want to recevieve any more promotion he or she may cancel their account at any time, read more about cancelling your account in "Choice/Opt-Out" section below.
+
+</p><p>We use  outside ad companies to display ads on our site.  These ads may contain cookies.  While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad companies, and we do not have access to this information.
+
+</p><h3>Promotional Offers</h3> 
+<p>Sometimes we send offers to selected groups of Degoo customers on behalf of other businesses. When we do this, we do not give third party marketers your name and address. 
+
+</p><h3>Business Transfers</h3> 
+<p>As we continue to develop our business, we might sell or buy assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the event that Degoo Media AB or substantially all of its assets are acquired, customer information will be one of the transferred assets. 
+
+</p><h3>Security</h3>
+        
+We take the responsibility of protecting the integrity of our Members information seriously and use industry standard procedures and processes to safeguard the confidentiality of our Members identifiable personal information and to track abuse of our network and our data. However, the internet is not a 100% secure medium and we may not have control over submitted information during all phases of our relay between a Member and us.<h3>Children's Guidelines</h3>
+       No one under the age of 18 is allowed to join, advertising can therefore never be targeted to children. 
+	   
+	   <h3>Choice/Opt-Out</h3>Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
+		
+		<p>We give users the option for removing their information from our database to not receive future communications or to no longer receive our service.
+</p><p>Visit the following URL: <a href="index.php?menu_var=me&amp;main_var=deleteform">http://degoo.com/scipts/members/deleteform.php</a>
+if you wish to cancel your account</p><h3>Correct/Update</h3>
+We give users the following options for changing and modifying 
+information previously provided.
+<p>&nbsp;Visit the following URL: <a href="index.php?menu_var=me&amp;main_var=updateform">http://degoo.com/scipts/members/updateform.php</a>
+if you wish to update your information</p>
+<h3>Contacting the Web Site</h3>
+
+If you have any questions about this privacy statement, the
+practices of this site, or your dealings with this Web site,
+you can contact
+<br><br>
+Carl Hasselskog<br>
+Degoo Media AB<br>
+Briger Jarlsgatan 37<br>
+111 45 Stockholm<br>
+Sweden<br>
+<a href="mailto:info@degoo.com">info@degoo.com</a>
+<br><br>
+</font>
+
+
+
+
+</td>
+</tr>
+</tbody></table>
+<script language="JavaScript">
+<!--
+setupMenus();
+//-->
+</script>
+
+
+</body></html>
