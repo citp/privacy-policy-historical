@@ -1,0 +1,226 @@
+<!--The following is the downloaded HTML source of the welovemacs.com privacy policy that was archived on 2004-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040603010408id_/http%3A//welovemacs.com/privstat.html) for the most accurate reproduction.-->
+
+<html><head><script language="javascript"> 
+ <!-- 
+ if (document.referrer && (document.referrer!='') && window.Image) 
+ { 
+ (new Image).src="http://redirect1.vip.store.yahoo.com/cgi-bin/referadd?spcl=1&et=40be7a34&catalog=lovemacs&r=" + escape(document.referrer); }
+ // --> 
+ </script><title>Privacy Statement</title><meta name="description" content=" We Love Macs, is a company dedicated to promote and extend the life of Macintosh computers. We specialize in helping schools upgrade and network their Macs."><script language="JavaScript">
+<!--
+//##
+//## WishList.com, Inc.
+//## Copyright 2001-2002 WishList.com, Inc. All rights reserved.
+//##
+
+
+function Addtowishlist(wlid,PCode,params){
+
+	//## get form index using yahoo's product sku hidden variable 'vwitem'
+	var formindex = -1;
+	for (a=0;a<document.forms.length;a++){
+		if (document.forms[a].vwitem){
+			if (document.forms[a].vwitem.value == PCode){
+				formindex = a;
+				break;
+			}
+		}
+	}
+
+
+	//## set form length
+	var formlength = 0;
+	if  (formindex > -1){
+		formlength = document.forms[formindex].length;
+	}
+
+	var wlburlparams = "";
+	var i = 0;
+	var cur_form_param = "";
+	var form_params = "";
+	var select_params = "";
+
+	//## Get form elements if formindex is not -1
+	while(i < formlength && formindex > -1) {
+
+		//## Set curent form parameters. may adjust for drop boxes, checkboxes or readio buttons below
+		var cur_form_param = escape(document.forms[formindex].elements[i].name) + "=" + escape(document.forms[formindex].elements[i].value);
+
+		//## Netscape 6.0 counts form images in form element array, but sets name and value to empty set.
+		if  (cur_form_param == "="){
+			cur_form_param = "";
+		}
+
+		//## Drop Boxes...Check to see if the form element is a selection box, save display text if so
+		if  (document.forms[formindex].elements[i].type.indexOf('select') != -1){
+
+			//## Note: we may have to accommodate multiple selections in the future
+
+			var sel_name = document.forms[formindex].elements[i].name;
+			var sel_text = document.forms[formindex].elements[i].options[document.forms[formindex].elements[i].options.selectedIndex].text;
+			var cur_select_param = escape(sel_name) + "=" + escape(sel_text);
+
+			if (select_params != ""){
+				select_params = select_params + "*" + cur_select_param;
+			}else{
+				select_params = cur_select_param;
+			}
+
+			//## Now save form value for the selected element
+			cur_form_param = escape(document.forms[formindex].elements[i].name) + "=" + escape(document.forms[formindex].elements[i].options[document.forms[formindex].elements[i].options.selectedIndex].value);
+
+		}
+
+		//## Radio or Checkbox...Check to see if form element is checkbox or radio
+		if  (document.forms[formindex].elements[i].type.indexOf('checkbox') != -1 || document.forms[formindex].elements[i].type.indexOf('radio') != -1){
+
+			//## Check to see if element is not checked. set to empty if not.
+			if (!(document.forms[formindex].elements[i].checked)){
+
+				//## Now save form value for the selected element. set to empty because the checkbox was not selecte
+				cur_form_param = "";
+
+			}
+		}
+
+		//## save form_params
+		if (form_params != "" && cur_form_param != ""){
+			form_params = form_params + "*" + cur_form_param;
+		}
+		if (form_params == "" && cur_form_param != ""){
+			form_params = cur_form_param;
+		}
+
+		//## increment and reset cur_form_param
+		i += 1;
+		cur_form_param = "";
+	}
+
+	//## Open WishList.com PopWindow
+
+	var wlpopurl = "http://gre.wishlist.com/gre_popwin/action/blank_addwish.htm?wlid=" + wlid;
+	var wlpop = window.open(wlpopurl,"Wishlist_com_pop","height=550,width=350,location=0,scrollbars=1,menubars=0,toolbars=0,resizable=0");
+
+
+	//## Submit the form with the new window as the target
+
+	document.Wishlist_com_form.addtowishlistparams.value = params + "^WLBURLPARAMS=" + form_params + "^WLSELECTTEXT=" + select_params;
+	document.Wishlist_com_form.wlid.value = wlid;
+	document.Wishlist_com_form.submit();
+
+}
+
+//-->
+</script>
+<link href="/lib/lovemacs/yahoostore.css" rel="stylesheet" type="text/css">
+</head><body bgcolor="ffffff" background="http://store1.yimg.com/I/lovemacs_1784_323727" link="336699" vlink="666666" topmargin="0" leftmargin="0"><table border="0" cellspacing="0" cellpadding="0" width="800"><tbody><tr><td colspan="4"><table border="0" cellspacing="0" cellpadding="0" width="800"><tbody><tr><td valign="top" width="250" colspan="3"><a href="http://www.welovemacs.com"><img src="http://store1.yimg.com/I/lovemacs_1784_323910" width="220" height="42" border="0" hspace="0" vspace="0" alt="Apple Computer Parts &amp; Apple iPod accessories, Apple repair"></a></td><td align="center" width="300" colspan="3"><font class="baskettext">Toll Free: 1-866-MemoryX (636-6799), UK Toll Free: 0-800-032-1842<br>Tech Support and International: 1-408-588-0077<br>Business hours mon-fri 8 am - 5:30 pm PST</font></td><td align="right" valign="top" width="250" colspan="3"><table border="0" align="right" cellspacing="0" cellpadding="0" width="85%"><tbody><tr><td align="center" width="33%"><a href="info.html" font="" class="baskettext">Contact Us</a></td><td align="center" width="33%"><a href="http://gre.wishlist.com/gre/start/welcome.htm?wlid=45F4DFAFDEEA4B52A4FCE691182C6E9F" font="" class="baskettext">Wish List</a></td><td align="center" width="33%"><a href="http://order.store.yahoo.com/cgi-bin/wg-order?lovemacs" font="" class="baskettext">Basket</a></td></tr><tr bgcolor="336666"><td height="1" colspan="3"></td></tr><tr><td align="center" width="33%"><a href="payment.html" font="" class="baskettext">Payment</a></td><td align="center" width="33%"><a href="warranty.html" font="" class="baskettext">Policies/Warranty</a></td><td align="center" width="33%"><a href="shippinginfo.html" font="" class="baskettext">Shipping</a></td></tr></tbody></table></td></tr><tr><td width="250" colspan="3"></td><td width="300" colspan="3"></td><td width="250" colspan="3"></td></tr><tr><td colspan="9"><table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="100"></td><td width="100"><a href="http://www.memoryx.net"><img src="http://store1.yimg.com/I/lovemacs_1784_347493" width="100" height="28" border="0" hspace="0" vspace="0" alt="Computer Memory X - Compact Flash Memory, DDR Memory Upgrade, DDR RAM Memory"></a></td><td width="100"><a href="http://www.welovemacs.com"><img src="http://store1.yimg.com/I/lovemacs_1784_349377" width="100" height="28" border="0" hspace="0" vspace="0" alt="Apple Computer Parts &amp; Apple iPod accessories, Apple repair"></a></td><td width="100"><a href="http://www.memoryxsun.com/"><img src="http://store1.yimg.com/I/lovemacs_1784_352232" width="100" height="28" border="0" hspace="0" vspace="0" alt="Memory X - Sun Microsystems Memory"></a></td><td width="100"><a href="http://www.memoryxcisco.com"><img src="http://store1.yimg.com/I/lovemacs_1784_353856" width="100" height="28" border="0" hspace="0" vspace="0" alt="Memory X Cisco - Computer Memory for Cisco Systems"></a></td><td width="100"><a href="http://www.memoryxflash.com/"><img src="http://store1.yimg.com/I/lovemacs_1784_355985" width="100" height="28" border="0" hspace="0" vspace="0" alt="Memory X - Compact Flash, SmartMedia, Nokia N-Gage MMC Memory, PenDrive"></a></td><td width="100"><a href="http://www.worldofcables.com/"><img src="http://store1.yimg.com/I/lovemacs_1784_357960" width="100" height="28" border="0" hspace="0" vspace="0" alt="MemoryX - Computer Cable, USB Cable, Firewire Cable, Monitor Cable"></a></td><td width="100"></td></tr><tr><td bgcolor="95accd" width="200" colspan="2"></td><td bgcolor="95accd" width="100"><img src="http://store1.yimg.com/I/lovemacs_1784_359521" width="100" height="1" border="0" hspace="0" vspace="0"></td><td bgcolor="95accd" width="500" colspan="5"></td></tr></tbody></table></td></tr><tr><td width="800" colspan="9"><img src="http://store1.yimg.com/I/lovemacs_1784_359644" width="800" height="15" border="0" hspace="0" vspace="0"></td></tr></tbody></table></td></tr><tr><td align="center" valign="top" width="150"><img src="http://store1.yimg.com/I/lovemacs_1784_360586" width="150" height="25" border="0" hspace="0" vspace="0"></td><td width="650" colspan="3"><a href="index.html"><font size="2" face="arial narrow, arial, helvetica">Home</font></a><font size="2" face="arial narrow, arial, helvetica"> &gt; <b>Privacy Statement</b></font></td></tr><tr valign="top"><td><table border="0" cellspacing="0" cellpadding="2" width="150"><tbody><tr><form method="post" action="http://search.store.yahoo.com/cgi-bin/nsearch"></form><td align="right"><input name="catalog" type="hidden" value="lovemacs"><input name="query" type="text" size="15"><input type="hidden" value="http://www.welovemacs.com"></td><td align="left"><input type="IMAGE" src="/lib/lovemacs/lovemacs-go.gif"></td><input type="hidden" name=".autodone" value="http://www.welovemacs.com/privstat.html"></tr></tbody></table><table><tbody><tr><td></td></tr><tr><td><a href="index.html" title="Apple iPod Accessory, iPod Accessories, Mac Software, Mac Memory, Apple Repair"><span class="nav">Home</span></a></td>
+  </tr>
+<tr>
+  <td><a href="select-your-machine.html" title="Select your Apple Computer"><span class="nav">Select your Apple Computer</span></a></td>
+</tr>
+<tr>
+  <td><a href="apple-memory.html" title="Apple Power Mac Memory Upgrades G5 G4 Memory PowerBook iBook PowerMac Upgrade"><span class="nav">Apple Mac Memory</span></a></td>
+  </tr><tr>
+    <td><a href="apimac.html" title="Apple iMac Accessories"><span class="nav">Apple iMac Accessories</span></a></td>
+  </tr><tr>
+    <td><a href="apmoac.html" title="Apple Monitor Accessories"><span class="nav">Apple Monitor Accessories</span></a></td>
+  </tr><tr>
+    <td><a href="ipod-stuff.html" title="Apple iPod &amp; Accessories"><span class="nav">Apple iPod Accessories</span></a></td>
+  </tr><tr>
+    <td><a href="adapters.html" title="apple Adapters"><span class="nav">Adapters</span></a></td>
+  </tr><tr>
+    <td><a href="applewireless.html" title="Apple Wireless"><span class="nav">Apple Wireless</span></a></td>
+  </tr><tr>
+    <td><a href="audiovideo.html" title="Apple Audio, Mac Video, Apple Speakers, Apple Video Cards "><span class="nav">Audio/Video</span></a></td>
+  </tr><tr>
+    <td><a href="multimedia.html" title="Apple Multimedia"><span class="nav">Apple Multimedia</span></a></td>
+  </tr><tr>
+    <td><a href="cables.html" title="Apple Cables/Switchbox"><span class="nav">Cables/Switchbox</span></a></td>
+  </tr><tr>
+    <td><a href="miscellaneous.html" title="Apple Computer Accesories"><span class="nav">Computer &amp; Palm Accessoris</span></a></td>
+  </tr><tr>
+    <td><a href="disks-storage.html" title="Apple Disks/Storage/CD drives"><span class="nav">Disks/Storage/CD/Floppy&nbsp;drives</span></a></td>
+  </tr><tr>
+  <td><a href="keyboards---mice.html" title="Keyboards, Mice, CAD Tablets"><span class="nav">Keyboards, Mice, CAD Tablets</span></a></td>
+  </tr><tr>
+  <td><a href="laptop.html" title="PowerBook Accessories"><span class="nav">PowerBook Accessories</span></a></td>
+  </tr><tr>
+  <td><a href="macpendrives.html" title="Mac USB PenDrives"><span class="nav">Mac USB PenDrivers</span></a></td>
+  </tr><tr>
+  <td><a href="networking.html" title="Networking"><span class="nav">Networking</span></a></td>
+  </tr><tr>
+  <td><a href="printers.html" title="Apple Printer s &amp; Accsessories"><span class="nav">Apple Printers &amp; Accessories</span></a></td>
+  </tr>
+  <tr>
+    <td><a href="parts.html" title="Apple Service Parts"><span class="nav">Apple Service Parts</span></a></td>
+  </tr>
+  <tr>
+    <td><a href="prupn.html" title="Sonnet Processor Upgrades"><span class="nav">Sonnet Processor Upgrades</span></a></td>
+  </tr>
+  <tr>
+    <td><a href="software.html" title="Mac Software, Apple Software, OSX, OS9,  AppleWorks"><span class="nav">Mac Software</span></a></td>
+  </tr>
+  <tr>
+    <td><a href="servers.html" title="CD/DVD/Media &amp; Cleaners"><span class="nav">CD/DVD/Media &amp; Cleaners</span></a></td>
+  </tr>
+  <tr>
+    <td><a href="power-macintosh.html" title="Apple Computers"><span class="nav">Pre-Owned Apple Computers</span></a></td>
+  </tr>
+  <tr>
+    <td><a href="sp.html" title="Specials &amp; Close-outs"><span class="nav">Specials &amp; Close-outs</span></a></td>
+  </tr>
+  <tr>
+    <td><a href="privstat.html" title="Privacy Statement"><span class="nav">Privacy Statement</span></a></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr><td><a href="norder.html" title="Shopping Cart"><span class="nav">Show Basket</span></a></td></tr><tr>
+    <td><a href="info.html" title="We Love Macs! Info"><span class="nav">Contact Us</span></a></td>
+  </tr><tr>
+    <td><a href="http://stores.yahoo.com/help.html" title="Yahoo! Stores Help"><span class="nav">Help</span></a></td>
+  </tr><tr>
+    <td><a href="nsearch.html" title="Search"><span class="nav">Search</span></a></td>
+  </tr><tr>
+    <td><a href="ind.html" title="We Love Macs! Index"><span class="nav">Index</span></a></td>
+  </tr><tr>
+    <td><a href="mailto:info@lovemacs.com" title="Email We Love Macs!"><span class="nav">Email</span></a></td>
+  </tr></tbody></table></td><td><img src="http://us.st1.yimg.com/store1.yimg.com/Img/trans_1x1.gif" height="1" width="26" border="0" alt="pad"></td><td><a href="index.html"><img src="http://store1.yimg.com/I/lovemacs_1784_360866" width="332" height="169" border="0" hspace="0" vspace="0"></a><br><br><table border="0" cellspacing="0" cellpadding="0" width="446"><tbody><tr valign="top"><td width="446"><center><a href="http://store1.yimg.com/I/lovemacs_1780_106387218"><img src="http://store1.yimg.com/I/lovemacs_1780_106388658" width="200" height="24" border="0" hspace="0" vspace="0" alt="Click to enlarge"></a><br><br><img src="http://store1.yimg.com/I/lovemacs_1780_106391716" width="240" height="16" border="0" hspace="0" vspace="0" alt="Our Pledge to You, Our Customer"><br><br></center><font size="2" face="arial, helvetica">We, at <font color="#00cc99"><b>"We Love Macs"!</b></font> have designed our business practices to safeguard your privacy and be responsible for use of your personal information. In fact, protecting your privacy is the foundation of our "Customer For Life" commitment.
+<p>
+You can visit our website <a href="http://www.lovemacs.com" target="We Love Macs!">   http://www.lovemacs.com</a> without revealing who you are or providing any personal information about yourself.
+</p><p>
+In order to assist you with your on-line purchases, on our secured website <a href="http://www.welovemacs.com" target="We Love Macs' Secured Ordering site">  http://www.welovemacs.com</a> there will be times when we will need personal information from you, such as your name, home address, e-mail address or telephone number by which to reach you to confirm the information you have supplied us.
+</p><p>
+<font color="#00cc99"><b>"We Love Macs"!</b></font> will seek at all times to appropriately protect the information you give to us by using security technology for all credit card data.
+</p><p>
+Some of the information <font color="#00cc99"><b>"We Love Macs"!</b> </font>receives about you or your session may be used for research and to help us to improve the site and the services we offer to our customers. In general the Internet addresses of computers, also known as IP addresses, are logged to track user sessions while they remain anonymous. We analyze this data for certain trends and statistics, such as which parts of our site users are visiting and how long they spend there.
+</p><p>
+<font color="#00cc99"><b>"We Love Macs"! </b></font>does not sell, rent, or loan any identifiable information regarding its customers to any third party. Any information you give us is held with the utmost care and security, and will not be used in ways to which you have not consented.
+</p><p>
+If you have any questions about the privacy statement of <font color="#00cc99"><b>"We Love Macs"!</b></font>,
+please feel free to email us your questions or concerns at <a href="mailto:info@lovemacs.com">info@lovemacs.com</a>.
+</p></font><p><font size="2" face="arial, helvetica"><br><br></font></p></td></tr></tbody></table><br><table border="0" cellspacing="0" cellpadding="0" width="446"><tbody><tr><td><img src="http://us.st1.yimg.com/store1.yimg.com/Img/trans_1x1.gif" height="5" width="1" border="0" alt="pad"></td></tr><tr valign="top"><td width="6"><center><img src="http://store1.yimg.com/I/lovemacs_1784_406601" width="6" height="14" border="0" hspace="0" vspace="0"></center></td><td width="8"><img src="http://us.st1.yimg.com/store1.yimg.com/Img/trans_1x1.gif" height="1" width="8" border="0" alt="pad"></td><td width="432"><font size="2" face="arial, helvetica"><b><a href="gensym-23.html">.</a></b><br><img src="http://us.st1.yimg.com/store1.yimg.com/Img/trans_1x1.gif" height="2" width="1" border="0" alt="pad"><br></font></td></tr><tr><td><img src="http://us.st1.yimg.com/store1.yimg.com/Img/trans_1x1.gif" height="12" width="1" border="0" alt="pad"></td></tr></tbody></table><br><br><table border="0" cellspacing="0" cellpadding="0" width="446"><tbody><tr><td><font size="2" face="arial, helvetica"><center><script language="JavaScript">
+Stamp = new Date();
+year = Stamp.getYear();
+if (year < 2000) year = 1900 + year;
+document.write((Stamp.getMonth() + 1) +"/"+Stamp.getDate()+ "/"+ year);
+</script>2/19/2020</center>
+<center><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#CCCCCC"><tbody><tr><td><table width="100%" border="0" cellpadding="2" cellspacing="1"><tbody><tr align="center" bgcolor="#FFFFFF"><td colspan="6"><font face="arial narrow, arial, helvetica" size="-1">Estimated shipping rates for computer memory under 1lb(.45 kg) weight:</font></td></tr><tr align="center" valign="top" bgcolor="#FFFFFF"><td><font face="arial narrow, arial, helvetica" size="-1">UPS Ground (USA&nbsp;only) $6</font></td><td><font size="-1" face="arial narrow, Arial, Helvetica, sans-serif">UPS&nbsp;3&nbsp;Day $9</font></td><td><font face="arial narrow, arial, helvetica" size="-1">Airborne 2 Day $12</font></td><td><font face="arial narrow, arial, helvetica" size="-1">Fedex overnight&nbsp;$19</font></td><td><font face="arial narrow, arial, helvetica" size="-1">International Express $22</font></td><td><font face="arial narrow, arial, helvetica" size="-1">USPS International Priority $9</font></td></tr><tr align="center" bgcolor="#FFFFFF"><td colspan="6"><font size="-1" face="arial narrow, arial, helvetica">Rates vary according to weight, distance and value.</font></td></tr></tbody></table></td></tr></tbody></table><br><img src="http://www.lovemacs.com/tdiff.gif" border="0" align="BOTTOM" width="140" height="25" alt="Think Different">
+<br>
+  <font size="-2">
+    © 1999-2003  We Love Macs!<br>
+</font></center><font size="-2"><br><br><form name="Wishlist_com_form" method="POST" action="http://gre.wishlist.com/gre_popwin/action/post_addwish.htm" target="Wishlist_com_pop"><input type="hidden" name="wlid" value=""><input type="hidden" name="addtowishlistparams" value=""></form></font></font></td></tr></tbody></table></td><td width="140"><br><table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td background="/lib/lovemacs/3rdcolumn-background.gif"><table border="0" align="center" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td><img src="http://store1.yimg.com/I/lovemacs_1784_392635" width="140" height="8" border="0" hspace="0" vspace="0"></td></tr><tr align="center"><td align="center"><center><font size="2" face="arial, helvetica">Subscribe to our monthly specials list:</font><form method="post" action="http://www.mailermailer.com/x"><input name="user_email" type="text" maxlength="100" size="18"><input name="owner_id_enc" type="hidden" value="4468,$1$GcrFV$kCWovmu2ndLj.RkhVW9yB0"><input name="function" type="hidden" value="Subscribe"><br><input type="submit" value="Submit Email"><input type="hidden" name=".autodone" value="http://www.welovemacs.com/privstat.html"></form></center></td></tr></tbody></table></td></tr><tr><td><img src="http://store1.yimg.com/I/lovemacs_1784_393030" width="140" height="8" border="0" hspace="0" vspace="0"></td></tr><tr><td><br></td></tr><tr><td align="center"><!-- START OF SCANALERT RATING TAG -->
+<a target="_blank" href="//scanalert.com/RatingVerify?ref=www.welovemacs.com"><img width="115" height="32" name="sarating" src="//scanalert.com/meter/12-www.welovemacs.com.gif" border="0" alt="HACKER SAFE certified sites prevent over 99.9% of credit card and identity theft by hackers." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;" hspace="10"></a>
+<script language="javascript" type="text/javascript">
+window.setTimeout("checkSaRating()",10000);
+function checkSaRating() {
+   if(document.sarating && !document.sarating.complete) {
+      document.sarating.src    = '';
+      document.sarating.width  = 0;
+      document.sarating.height = 0;
+   }
+}
+</script>
+<!-- END OF SCANALERT RATING TAG --></td></tr></tbody></table></td></tr><tr><td></td><td align="center" colspan="2"></td></tr></tbody></table>
+</body></html>
