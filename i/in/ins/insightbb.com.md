@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insightbb.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602210337id_/http%3A//www.insightbb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightbb.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205002547id_/http%3A//www.insightbb.com/privacy) for the most accurate reproduction.*
 
 # Insightbb.com - Privacy Policy
 
