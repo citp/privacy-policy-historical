@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tolweb.org privacy policy that was archived on 2004-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041209010056id_/http%3A//www.tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tolweb.org privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403203041id_/http%3A//tolweb.org/tree/home.pages/ToLPrivacyPolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- InstanceBegin template="/Templates/about.dwt" codeOutsideHTMLIsLocked="true" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -10,7 +10,7 @@
 <style type="text/css" media="all">@import "/tree/css/tol.css";</style> 
 <!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
 <script src="/tree/js/tol.js" type="text/javascript"></script>
-<script language="JavaScript"><!--
+<script language="JavaScript" type="text/javascript"><!--
 
 window.onload = function ()
 {
@@ -20,6 +20,13 @@ if (readCookie(COOKIE_MENU_PREFIX + LEFT_SIDE_BAR)) {
 }
 closeRightSidebarMenus();
 
+}
+
+function openWindow(href,w_width,w_height) {
+	if(!w_width) { w_width = 800; }
+	if(!w_height) { w_height= 600; }
+	var win = window.open(href, '', 'fullscreen=no,toolbar=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes,directories=no,location=yes,width=' + w_width + ',height=' + w_height);
+	win.focus();
 }
 
 // --></script>
@@ -32,6 +39,7 @@ closeRightSidebarMenus();
 <a href="#quicksearch" class="hidden" title="Go to quick search">Go to quick search</a>
 <a href="#sectionnav" class="hidden" title="Go to local navigation">Go to navigation for this section of the ToL site</a>
 <a href="#leftsidebar" class="hidden" title="Go to detailed site links">Go to detailed links for the ToL site</a>
+<a href="/tree/phylogeny.html" title="Tree of Life Home Page" id="HomeLink">&nbsp;</a>
 <a name="sitenav"></a> 
 <div id="sitenav" class="on">
     <h3 class="hidden">Site Navigation</h3>
@@ -44,8 +52,8 @@ closeRightSidebarMenus();
         <li><a href="/tree/home.pages/abouttol.html">About</a></li>
     </ul>
 </div>
-<a href="/tree/phylogeny.html" id="ToLWebProject"><img src="/tree/img/ToLWebProject.gif" alt="go to the Tree of Life home page"></a>
 
+<a href="/tree/phylogeny.html" id="ToLWebProject"><img src="/tree/img/ToLWebProject.gif" alt="go to the Tree of Life home page" title="Tree of Life Home Page"></a> 
 <form method="get" action="http://www.google.com/u/TreeofLife" id="quicksearch">
     <input type="text" name="q" size="10">
     <input class="gooquick" type="submit" name="sa" value="Search">
@@ -289,22 +297,6 @@ closeRightSidebarMenus();
                     purposes.</p></td>
         </tr>
         <tr> 
-            <th>Location</th>
-            <td><p>By default, the treehouse builder's location (we ask for home 
-                    town/city, state/province, and country <em>but do not require 
-                    a street address</em>) will be published on the <a href="/onlinecontributors/app?service=page/ImageContributorsPage">contributor's 
-                    personal profile page</a> and in credit lines for ToL treehouse 
-                    pages. Location information collected here will be used for 
-                    data management (e.g., site tools for retrieving contributions 
-                    authored by contributors from a particular location) as well 
-                    as ToL project development (providing resources specific to 
-                    contributors in a given locale).</p>
-                <p>Upon request a treehouse builder's location is withheld from 
-                    publication on the ToL web site. If a treehouse builder chooses 
-                    to have his or her location withheld from publication, this 
-                    location will be accessible only to ToL staff. </p></td>
-        </tr>
-        <tr> 
             <th>Treehouse Building Plans</th>
             <td>We ask that you enter information that briefly explains your plans 
                 for building treehouses. You can include a few sentences about 
@@ -353,6 +345,20 @@ closeRightSidebarMenus();
                 pages as well as on their <a href="/onlinecontributors/app?service=page/ImageContributorsPage">personal 
                 profile page</a>.</td>
         </tr>
+        <tr>
+            <th>Location</th>
+            <td><p>By default, the treehouse builder's location (we ask for home 
+                    town/city, state/province, and country) will be published 
+                    on the <a href="/onlinecontributors/app?service=page/ImageContributorsPage">contributor's 
+                    personal profile page</a> and in credit lines for ToL treehouse 
+                    pages. Location information collected here will be used for 
+                    data management (e.g., site tools for retrieving contributions 
+                    authored by contributors from a particular location), project 
+                    evaluation (e.g., assessing the geographic diversity of project 
+                    participants) as well as ToL project development (providing 
+                    resources specific to contributors in a given locale).</p>
+                </td>
+        </tr>
         <tr> 
             <th>Biographical Information</th>
             <td>If a treehouse builder has a home page on another web server, 
@@ -398,6 +404,12 @@ closeRightSidebarMenus();
                     be accessible only to ToL staff, who may contact the teacher 
                     for legal or administrative purposes.</p></td>
         </tr>
+        <tr>
+            <th>Location</th>
+            <td>This information is printed on the treehouse classroom project's 
+                profile page (coming soon!) as well as in the credit lines of 
+                ToL treehouse pages.</td>
+        </tr>
         <tr> 
             <th>Grade level</th>
             <td>This information is printed on the treehouse classroom project's 
@@ -418,12 +430,6 @@ closeRightSidebarMenus();
         Optional Information 
         </caption>
         <tbody><tr> 
-            <th>Location</th>
-            <td>This information is printed on the treehouse classroom project's 
-                profile page (coming soon!) as well as in the credit lines of 
-                ToL treehouse pages.</td>
-        </tr>
-        <tr> 
             <th>Web Page URL</th>
             <td><p>If the school or class has a home page on another web server, 
                     the teacher can provide the URL for this page, and this URL 
@@ -732,25 +738,32 @@ closeRightSidebarMenus();
       </ul>
     <h4 class="open" id="navpolicies" onclick="changeclass('navpolicies', 'open', 'closed'); changeclass('navpoliciesmenu', 'open', 'closed')">ToL 
       Policies</h4>          
-    	<ul id="navpoliciesmenu" class="open">
-		<li><a href="/tree/home.pages/tolpolicies.html">ToL Policies</a></li>
-        	<li><a href="/tree/home.pages/ToLPrivacyPolicy.html">Privacy Policy</a></li>
-		<li><a href="/tree/home.pages/tolcopyright.html">Copyright Policies</a> 
-          		<ul>
-            			<li><a href="/tree/home.pages/GlossaryLicense.html">ToL Glossary License</a></li>
-           			<li><a href="/tree/home.pages/CopyrightInfringement.html">Copyright Infringement</a></li>
-          		</ul>
-        	</li>
-        	<li><a href="/tree/home.pages/disclaimers.html">Disclaimers</a></li>
-       </ul>
+    	
+    <ul id="navpoliciesmenu" class="open">
+        <li><a href="/tree/home.pages/tolpolicies.html">ToL Policies</a></li>
+        <li><a href="/tree/home.pages/ToLPrivacyPolicy.html">Privacy Policy</a></li>
+        <li><a href="/tree/home.pages/tolcopyright.html">Copyright Policies</a> 
+            <ul>
+                <li><a href="/tree/home.pages/CCLicense.html">Commons Deed</a></li>
+                <li><a href="/tree/home.pages/CopyrightInfringement.html">Copyright 
+                    Infringement</a></li>
+            </ul>
+        </li>
+        <li><a href="/tree/home.pages/toluse.html">Use of Contributions</a></li>
+        <li><a href="/tree/home.pages/disclaimers.html">Disclaimers</a></li>
+    </ul>
     <h4 class="open" id="navpeople" onclick="changeclass('navpeople', 'open', 'closed'); changeclass('navpeoplemenu', 'open', 'closed')">People</h4>          
     <ul id="navpeoplemenu" class="open">
-	<li><a href="/tree/home.pages/people.html">ToL People</a></li>
-        <li><a href="/tree/home.pages/homepeople.html">ToL Home Team</a> 
-        	<ul><li><a href="/tree/home.pages/alumni.html">ToL Alumni</a></li></ul></li>
+        <li><a href="/tree/home.pages/people.html">ToL People</a></li>
         <li><a href="/tree/home.pages/participants.html">Scientific Contributors</a></li>
-        <li><a href="/onlinecontributors/app?service=page/ImageContributorsPage">Image/Media Contributors</a></li>
+        <li><a href="/onlinecontributors/app?service=page/ImageContributorsPage">Image/Media 
+            Contributors</a></li>
         <li><a href="/tree/home.pages/othercont.html">Other ToL Contributors</a></li>
+        <li><a href="/tree/home.pages/homepeople.html">ToL Home Team</a> 
+            <ul>
+                <li><a href="/tree/home.pages/alumni.html">ToL Alumni</a></li>
+            </ul>
+        </li>
     </ul>
   <h4 class="open" id="navthanks" onclick="changeclass('navthanks', 'open', 'closed'); changeclass('navthanksmenu', 'open', 'closed')">Acknowledgments &amp; Recognition</h4>          
     <ul id="navthanksmenu" class="open">
@@ -786,14 +799,16 @@ to top</a>
 			<li><a href="/tree/home.pages/feedback.html">Contact Us</a></li>
             	</ul>
  	<h4 class="closed" id="navfeat" onclick="changeclass('navfeat', 'open', 'closed'); changeclass('navfeatmenu', 'open', 'closed')">Features</h4>               
-		<ul id="navfeatmenu" class="closed">
-			<li><a href="/tree/home.pages/projectfeatures.html">ToL Features</a></li>
-			<li><a href="/tree/home.pages/mytol.html">Setting Preferences</a></li>
-			<li><a href="/tree/home.pages/forums.html">Forums</a></li>
-			<li><a href="/tree/home.pages/glossary.html">ToL Glossary</a></li>
-			<li><a href="/tree/home.pages/randPic">Picture Sampler</a></li>
-			<li><a href="/tree/home.pages/links.html">Links</a></li>
-            	</ul>
+		
+    <ul id="navfeatmenu" class="closed">
+        <li><a href="/tree/home.pages/projectfeatures.html">ToL Features</a></li>
+        <li><a href="/tree/home.pages/mytol.html">Setting Preferences</a></li>
+        <li><a href="/tree/home.pages/forums.html">Forums</a></li>
+        <li><a href="/tree/home.pages/glossary.html">ToL Glossary</a></li>
+        <li><a href="/tree/home.pages/randPic">Picture Sampler</a></li>
+        <li><a href="/tree/home.pages/downloadtree.html">Download the Tree</a></li>
+        <li><a href="/tree/home.pages/links.html">Links</a></li>
+    </ul>
       	 <h4 class="closed" id="navlearn" onclick="changeclass('navlearn', 'open', 'closed'); changeclass('navlearnmenu', 'open', 'closed')">Learning</h4>                       
      <ul id="navlearnmenu" class="closed">
          <li><a href="/tree/learn/learning.html">ToL Learning</a></li>
@@ -807,7 +822,8 @@ to top</a>
       	<h4 class="closed" id="navcontr" onclick="changeclass('navcontr', 'open', 'closed'); changeclass('navcontrmenu', 'open', 'closed')">Contribute</h4>               
 		<ul id="navcontrmenu" class="closed">
 			<li><a href="/tree/home.pages/contributions.html">ToL Contributions</a></li>
-			<li><a href="/tree/sep/tolcontributors.html">Scientific Content</a></li>
+			
+        <li><a href="/tree/home.pages/scicontent.html">Scientific Content</a></li>
 			
         <li><a href="/onlinecontributors/app?service=page/TreehouseContributorLogin">Learning 
             Materials</a></li>
