@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tiptopjob.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204065020id_/http%3A//www.tiptopjob.com/jobseeker/displaycontent.asp%3Fcontentid%3D331%26sectionid%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiptopjob.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308105524id_/http%3A//www.tiptopjob.com/jobseeker/displaycontent.asp%3Fcontentid%3D331%26sectionid%3D16) for the most accurate reproduction.*
 
-# ►► Tip Top Job - Privacy
+# ► Tip Top Job - Privacy
 
 **Tip** **Top Job** (UK) Ltd ( **Tip** **Top Job**) will make every effort to comply with the obligations under the UK 1998 Data Protection Act. Our privacy policy details the ways we collect and protect your personal information. **Tip** **Top Job** is committed to protecting the privacy of those using our website and the confidentiality of any personal information with which subscribers provide us. This privacy policy does not cover links within this site to other websites or third party suppliers. We understand that the information you or your agent provides on the database is confidential and we will use our best endeavour in maintaining it. 
 
