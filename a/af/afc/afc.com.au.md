@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afc.com.au privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603130314id_/http%3A//afl.com.au/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afc.com.au privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205115707id_/http%3A//afl.com.au/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Official Website of the Australian Football League
 
@@ -9,7 +9,7 @@ Collection Statement
 
 Telstra and the Australian Football League are committed to providing you with the highest levels of customer service. This includes protecting your privacy. From 21 December 2001, we will be bound by new sections of the Commonwealth Privacy Act 1988, which set out a number of principles concerning the protection of your personal information.
 
-Following is the information that the Privacy Act requires us to communicate to all of our customers. We recommend that you keep this information for future reference.
+Following is the information that the Privacy Act requires us to communicate to all of our customers and visitors and subscribers of this web site. We recommend that you keep this information for future reference.
 
  **Telstra**
 
@@ -28,7 +28,7 @@ If you choose not to provide personal information, we may not be able to provide
  **How we collect personal information**
 
 Telstra collects personal information in a number of ways, including:  
-\- directly from you, when you provide information by phone or in documents such as an application form;   
+\- directly from you, when you provide information by phone, email or in documents such as an application form;   
 \- from third parties such as our related companies, credit reporting agencies or your representatives;  
 \- from publicly available sources of information;   
 \- from the organisations identified below under "When we disclose your personal information";  
@@ -36,7 +36,7 @@ Telstra collects personal information in a number of ways, including:
 \- when legally required to do so – for example, under the Telecommunications (Service Provider – Identity Checks for Pre-paid Public Mobile Telecommunications Services) Determination 2000.
 
 The AFL and AFL Clubs collect personal information in a number of ways, including:  
-\- directly from you, when you provide information by phone or in documents such as an application form;   
+\- directly from you, when you provide information by phone, email or in documents such as an application form;   
 \- from third parties such as other AFL Clubs, credit reporting agencies or your representatives;  
 \- from publicly available sources of information;   
 \- from the organisations identified below under "When we disclose your personal information"; and  
@@ -46,6 +46,7 @@ The AFL and AFL Clubs collect personal information in a number of ways, includin
 
 Your personal information may be used by Telstra, the AFL or AFL Clubs in order to:  
 \- provide the services you require;  
+\- enter you into our competitions and promotions;  
 \- administer and manage those services, including charging, billing and collecting debts;  
 \- inform you of ways the services provided to you could be improved;  
 \- conduct appropriate checks for credit-worthiness and for fraud;  
