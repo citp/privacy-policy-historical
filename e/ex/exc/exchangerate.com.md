@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exchangerate.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208103317id_/http%3A//www.exchangerate.com/privacy_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exchangerate.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/privacy_security.html) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -17,7 +17,7 @@
   
 | 
 
-|   |  Wednesday, February 19, 2002    
+|   |  Wednesday, February 19, 2003    
 ---|---  
   
 **[Home](https://web.archive.org/) >> Privacy & Security **
@@ -62,5 +62,5 @@ Part of the CyberSurfers Network
   
 * * *
 
-[About](https://web.archive.org/web/20021208103317id_/http%3A//www.exchangerate.com/about_us.html) | [Advertising](https://web.archive.org/web/20021208103317id_/http%3A//www.exchangerate.com/advertising.html) | [Investor Relations](https://web.archive.org/web/20021208103317id_/http%3A//www.exchangerate.com/investor_relations.html) | [Privacy & Security](https://web.archive.org/web/20021208103317id_/http%3A//www.exchangerate.com/privacy_security.html) | [Contact Us](https://web.archive.org/web/20021208103317id_/http%3A//www.exchangerate.com/contact_us.html)   
-[Copyright © ExchangeRate.Com Inc., 1999-2001.](mailto:webmaster@exchangerate.com) All Rights Reserved
+[About](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/about_us.html) | [Advertising](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/advertising.html) | [Investor Relations](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/investor_relations.html) | [Privacy & Security](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/privacy_security.html) | [Contact Us](https://web.archive.org/web/20030605133606id_/http%3A//www.exchangerate.com/contact_us.html)   
+[Copyright © ExchangeRate.Com Inc., 1999-2003.](mailto:webmaster@exchangerate.com) All Rights Reserved
