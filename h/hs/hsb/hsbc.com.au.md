@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbc.com.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203043757id_/http%3A//hsbc.com.au/utility/footer/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbc.com.au privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606220519id_/http%3A//www.hsbc.com.au/utility/footer/privacy.html) for the most accurate reproduction.*
 
 # HSBC - Privacy and Security
 
