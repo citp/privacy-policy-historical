@@ -1,75 +1,556 @@
-<!--The following is the downloaded HTML source of the independent.co.uk privacy policy that was archived on 2001-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010413065145id_/http%3A//www.independent.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the independent.co.uk privacy policy that was archived on 2004-06-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040619085126id_/http%3A//www.independent.co.uk/story.jsp%3Fstory%3D55090) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/1999/REC-html401-19991224/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 
 
 
-	<title>Independent Independent</title>
+
+<script type="text/javascript"><!--
+
+function storeCookie(key,val) { 
+	var age =  100*24*3600 * 1000;	// ms in 100 days
+	storeCookieKey( key, val, age, true );
+}//storeCookie
+	
+
+function storeCookie(key,val,age,reloadPg) { 
+	var expDate = new Date();
+	var expTime = expDate.getTime()  + age;
+	expDate.setTime( expTime );
+	 	document.cookie = 	key +"="+ val + "; expires="+ expDate.toGMTString() ;
+	
+	
+	if( reloadPg )
+		window.location.reload();
+}//storeCookie
+	
+function getCookieVal( key ){
+	var cookiesText = document.cookie;
+	var keyAt = cookiesText.indexOf(key);		//get position of key
+	 
+	 	//window.alert("Cookie Key: "+key+" is at "+ keyAt );
+	
+	  if (keyAt == -1)  return null;  
+	  
+	  var sepAt = cookiesText.indexOf("=", keyAt );					//find next seperator pos after key
+	  var endAt = cookiesText.indexOf(";", sepAt );					//find first delim. after sep.
+	  if (endAt == -1) 	  endAt = cookiesText.length; 		// Last pair has no delimiter
+	  
+	  var val = cookiesText.substring( 1+ sepAt, endAt);
+	  
+ 	 	 //window.alert("Cookie Key: "+key+" has val \n"+val);
+	  return val;
+}//func
+
+
+
+var portfolioCookie = getCookieVal( "null" );
+SHOW_SUMMARIES =   (portfolioCookie == null) || (portfolioCookie== "1") ;
+//window.status="Show summaries: "+ SHOW_SUMMARIES;
+
+function interceptClickBuyStory( premUrl, premQS, jumpUrl  ){
+	displayClickBuyStory(SHOW_SUMMARIES, premUrl, premQS, jumpUrl);
+	return false;
+}//func
+
+
+function displayClickBuyStory( showSummaries,  premUrl, premQS, jumpUrl  ){
+	if( premUrl.length > 0 ){
+		if( showSummaries )
+			window.location = jumpUrl;
+		else{
+			var btAppend = "$$$javascript:self.close();";    // ensure c&b back button functions properly.
+			var styleQS = "&style_sheet="+ getCookieVal( "style_sheet" );
+			newWindow = window.open( premUrl + "?"+ premQS + styleQS + btAppend, "portfolio_window");
+			newWindow.focus();
+		}
+	}else
+		window.location = jumpUrl;
+}//func
+
+
+
+
+function openPremXwordWin( xword, printable){		//xword is the crossword filename, printable is flag (true/false)
+	var goDirect= ! SHOW_SUMMARIES;
+	var htmlPos = xword.lastIndexOf("cryptic.html");
+	if( htmlPos > 0 )
+		xword=xword.substring(0,htmlPos);
+
+	htmlPos = xword.lastIndexOf("printable.html");
+	if( htmlPos > 0 )
+		xword=xword.substring(0,htmlPos);
+	
+	var url="/crosswords/crossword.jsp";
+	if( goDirect )
+		url = "https://bt.premium-link.net/newauth/popup0/http://bt.premium-link.net/$59096$0$/crossword.jsp";
+	if( printable )
+		url += "?printable=true";
+   	else
+	    url += "?cryptic=true";
+	
+	url += "&crossword="+ xword;
+	url += "&cb_content_name="+ escape( "Cryptic Crossword: "+ xword );
+
+	
+	if( goDirect )
+		xwordWin  = window.open(url,"xwordWin",'toolbar=1,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=750,height=750');
+	else
+		window.location=url;
+	
+	return false; //must return false to link
+}
+
+
+function getDateString(){ 
+	var months = new Array("January","February","March","April","May","June","July","August","September","October","November","December");	
+	var today  = new Date();
+	var year  = today.getYear() , 	month = today.getMonth(),
+	dayOfWk  = today.getDay(), dayOfMonth=today.getDate() ,
+	hh  = today.getHours(),	mm = today.getMinutes();
+
+	if(year < 1000)             year += 1900;         
+	if (hh < 10 ) 	   hh= "0" + hh; 
+	if (mm< 10 )   mm = "0" + mm; 
+
+	var dateStr = dayOfMonth + " "+ months[month] + " "+ year + "  "+ hh+ ":" + mm;
+
+	return dateStr;
+	
+}//function
+
+
+function toggle(button, trueVal, falseVal){
+	if(button.value==trueVal){
+		button.value=falseVal;
+		button.checked=false; 
+	}else{
+		button.value=trueVal;
+		button.checked=true;  
+	}//else
+}//function
+
+
+function openWin1 (url){
+	openNewWin(url,520,600);
+}
+
+function openNewWin(url, w, h){
+	var atts =  'width='+w+',height='+h+',menubar=yes,scrollable=yes,resizable=no,toolbar=no,location=no,directories=no,status=0,toolbar=0,menubar=0,scrollbars=1,resizable=0';
+	var newWindow = open (url, '_blank',atts);
+	newWindow.focus ();
+	if (document.layers)
+		open (location, '_self')
+}
+
+
+
+STYLE_FILES = new Array ("BIG","style_large.css", "MEDIUM", "style_medium.css", "SMALL", "style_small.css");
+DEFAULT_STYLE = "style_small.css", DEFAULT_STYLE_KEY = "SMALL";
+
+function getStyleFile(){
+	var key = getCookieVal( "style_sheet" );
+	var file=DEFAULT_STYLE;
+	for( s=0; s< STYLE_FILES.length; s+=2 ){
+		if( key == STYLE_FILES[s] )
+			file = STYLE_FILES[s+1];
+	}//for
+	
+	//window.status = "styleKey :  "+ key;
+
+	return file;
+}//func
+
+function getStyleKey(){
+	var key = getCookieVal( "style_sheet" );
+	var setting=DEFAULT_STYLE_KEY;
+	for( s=0; s< STYLE_FILES.length; s+=2 ){
+		if( key == STYLE_FILES[s] )
+			setting = key;
+	}//for
+
+	return setting;
+}//func
+
+function getStyleSheet(){
+	document.writeln("<link rel=\"STYLESHEET\" type=\"text/css\" href=\"/includes/styles/style_main.css\">");
+	document.writeln("<link rel=\"STYLESHEET\" type=\"text/css\" href=\"/includes/styles/"+ getStyleFile() +"\">");
+	document.writeln("<style type=\"text/css\" media=\"all\">@import \"/includes/styles/style_ie.css\";</style>");	
+}//func
+
+
+
+function openWin1 (url){
+	openNewWin(url,520,600);
+}
+
+function openNewWin(url, w, h){
+	var atts =  'width='+w+',height='+h+',menubar=yes,scrollable=yes,resizable=no,toolbar=no,location=no,directories=no,status=0,toolbar=0,menubar=0,scrollbars=1,resizable=0';
+	var newWindow = open (url, '_blank',atts);
+	newWindow.focus ();
+	if (document.layers)
+		open (location, '_self')
+}
+
+
+
+function shuffleArray( dataArray, shuffles ){
+	if( dataArray.length <2)
+		return dataArray;
+	
+	var len = dataArray.length;
+	for( s=0; s< shuffles; s++ ){
+		var shuffled = new Array (len);
+		var shuffPoint =  Math.round( Math.random() * (len-1) );
+	
+		for( e=shuffPoint; e<len;  e++ )
+			shuffled[ e-shuffPoint ] = dataArray[e]; 
+		for( e=0; e<shuffPoint; e++ )
+			shuffled[ e+ (len-shuffPoint) ] = dataArray[e]; 
+	
+		dataArray = shuffled;
+	}//for
+	return dataArray;
+}//fn
+	
+function getRandomAdIds( cmpIds, optIds, totalAds ){
+	cmpIds = shuffleArray( cmpIds, 3 );
+	optIds = shuffleArray( optIds, 3 );
+	
+	var adArray = new Array( totalAds );
+	var adCount =0;
+	for( a=0; a<cmpIds.length; a++){
+		if(adCount < totalAds){
+			adArray[adCount] = cmpIds[a] ;
+			adCount++;
+		}//if
+	}
+	for( a=0; a<optIds.length; a++){
+		if( adCount<totalAds ){
+			adArray[adCount] = optIds[a] ;
+			adCount++;
+		}//if
+	}//for
+	
+	return adArray;	
+}//func
+
+function timeStampPage( refTime, serverStamp ){
+		var debug = getCookieVal( "INDY_DEBUG" );
+		if( debug != "1" )
+			return;
+		var requestTime  =  new Date( refTime );
+		var nowTime = new Date();
+		var nowTimeStamp = nowTime.getDate() + " / "+ ( nowTime.getMonth()+1)  + " / "+  new String( nowTime.getYear() ).substr(2);
+		var diff = ( nowTime.getTime() - requestTime.getTime() ) / 1000;
+	
+		document.writeln( serverStamp );
+		document.writeln( "<br>\nLocal time is "+ nowTimeStamp + " --- elapsed: " + Math.round( diff ) );
+}//fn
+	
+
+//-->
+</script>
+
+
+
+
+
+<script language="javascript" type="text/javascript"><!--
+if (parent != self)
+	window.parent.location = location;
+	
+getStyleSheet();	// in clientScripts include
+
+//-->
+</script><link rel="STYLESHEET" type="text/css" href="/includes/styles/style_main.css">
+<link rel="STYLESHEET" type="text/css" href="/includes/styles/style_small.css">
+<style type="text/css" media="all">@import "/includes/styles/style_ie.css";</style>
+
+
+
+<style type="text/css">
+<!-- channel specific styling -->
+<!-- root -->
+
+.channelbg { background-color: #BDE6EF;}
+.channelbox { background-color: #E7D7EF; padding: 6px; margin-bottom: 2px; margin-top: 8px; width: 265px;}
+.channelskylinebg { background-color: #2189AD; color: #ffffff;}
+
+
+</style>
+
+
+<title>Independent</title>
+<meta name="description" content="The Independent Newspaper">
+<meta name="keywords" content="The Independent, Independent.co.uk, newspaper, UK, Britain, England, London, broadsheet, latest, news, argument, forum, competitions, sport, entertainment, PDA, 50best">
 </head>
-<body bgcolor="#ffffff" text="#000000">
-
-<!-- AdLink banner -->
-
-<center>
-<iframe src="http://west.adlink.de/hserver/UKCATEGORY=ECOMMERCE/SITE=UK_IDUK_UK/AREA=INDEPENDENT/AAMSZ=468X60/ACC_RANDOM=1139177926" width="468" height="60" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">
-<a href="http://west.adlink.de/adserver/accipiter/adclick.exe/UKCATEGORY=ECOMMERCE/SITE=UK_IDUK_UK/AREA=INDEPENDENT/AAMSZ=468X60/ADTYPE=GIF/ACC_RANDOM=1139177926" target="_blank">
-<img src="http://west.adlink.de/adserver/accipiter/adserver.exe/UKCATEGORY=ECOMMERCE/SITE=UK_IDUK_UK/AREA=INDEPENDENT/AAMSZ=468X60/ADTYPE=GIF/ACC_RANDOM=1139177926" border="0" width="468" height="60" alt="Click here!"></a>
-</iframe>
-</center>
-
-<!-- navigation -->
 
 
-<p align="right">
-	<a href="http://news.independent.co.uk/">News</a>&nbsp;|&nbsp;
-	<a href="http://argument.independent.co.uk/">Argument</a>&nbsp;|&nbsp;
-	<a href="http://advancement.independent.co.uk/">Advancement</a>&nbsp;|&nbsp;
-	<a href="http://enjoyment.independent.co.uk/">Enjoyment</a>&nbsp;|&nbsp;
-	<a href="http://investment.independent.co.uk/">Investment</a>&nbsp;|&nbsp;
-	<a href="http://travel.independent.co.uk/">Travel</a>
+<body bgcolor="ffffff" text="#000000" leftmargin="5" topmargin="0" marginheight="0" marginwidth="0">
+
+<a name="top"></a>
+
+<!-- top table -->
+
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+
+<!-- banner and logo -->
+<tbody><tr> 
+<td class="channelbg" width="200" height="60"><a href="http://www.independent.co.uk/portfolio/"><img src="http://www.independent.co.uk/img/furniture/clickandbuy/portfolio_button.gif" alt="independent portfolio" hspace="10" border="0"></a><br clear="all"></td>
+<td class="channelbg" align="center" height="60">
+ 
+<table width="488" border="0" cellspacing="0" cellpadding="0" height="80">
+<tbody><tr height="80"> 
+<td width="468" height="80">
+<!--  Advertron2: Adlink Banner (www)    ( #758 )  -->
+ <!------- Start of (WWW) DoubleClick ADJ Tag, size : 468x60 ------>
+<table cellspacing="0" cellpadding="0" border="0" width="468" height="60">
+	<tbody><tr><td valign="top" border="0" width="468" height="60"> 
+	<script language="JavaScript">
+	   var rand = Math.round ( Math.random() * Math.pow (10,7) ) 	+	 Math.pow(10,6);
+	   document.write("<script language=\"JavaScript\" src=\"http://ad.uk.doubleclick.net/adj/independentdigital.co.uk/www;dcopt=ist;sz=468x60;ord=" +rand+ "?\"><\/script>");
+	</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/independentdigital.co.uk/www;dcopt=ist;sz=468x60;ord=5893855?"></script>
+	<noscript>
+	<a href="http://ad.uk.doubleclick.net/jump/independentdigital.co.uk/www;dcopt=ist;sz=468x60;ord=1087635085052?" target="_new">
+	<img src="http://ad.uk.doubleclick.net/ad/independentdigital.co.uk/www;dcopt=ist;sz=468x60;ord=1087635085052?" border="0" width="468" height="60"> 
+	</a>
+	</noscript>
+	</td></tr>
+</tbody></table>
+<!------- End of DoubleClick ADJ Tag, size : 468x60  ------>
+
+
+
+</td></tr>
+</tbody></table>
+<!-- banner and logo end-->
+</td><td>
+</td></tr>
+
+<tr><td colspan="2" class="whitebg"><img src="/img/furniture/trans.gif" width="1" height="2"></td></tr>
+
+<tr class="channelskylinebg"> 
+<td colspan="2" class="channelskylinebg">
+
+<!--  Advertron2: PROMO STRIP  (Indy)   ( #809 )  -->
+<script language="javascript"><!--  
+function getPromoAd(){
+
+   var numAds=4;
+   var randNum= 1+ Math.round(Math.random() * numAds-1);
+   var urls = new Array( numAds+1), links= new Array(numAds+1);
+   
+   //alert( randNum );
+   
+	// change urls
+	urls[0] = "http://www.independent.co.uk/portfolio/";
+	links[0] = "THE INDEPENDENT PORTFOLIO - CLICK HERE";
+        urls[1] = "http://www.roundpoint.com/live/custom/independentcw.html";
+	links[1] = "THE INDEPENDENT CROSSWORD FOR YOUR PDA";
+	urls[2] = "http://www.independent.co.uk/story.jsp?story=59363";
+	links[2] = "INDEPENDENT NEWS HEADLINES DIRECT TO YOUR EMAIL - SIGN UP FOR FREE";
+	urls[3] = "http://www.independent.co.uk/50best/";
+	links[3] = "GOING OUT? SHOPPING? TRAVELLING? GET THE 50 BEST GUIDES FOR YOUR PDA - CLICK HERE";
+	urls[4] = "http://www.roundpoint.com/live/payment/intro.php?identifier=independent";
+	links[4] = "NEWS FROM THE INDEPENDENT - NOW LIVE AND UPDATED ON YOUR PHONE OR PDA";
+
+	var html="<CENTER>";
+	html+= "<a href='http://www.independent.co.uk/clickad.jsp?ad=809&dir=1&url="+ 	urls[randNum]+ "' class='top'><font color='ffffff'><B>"+links[randNum]+"</B></FONT></a>";
+	html+= "</CENTER>"
+
+	
+	return html;
+}//func
+
+document.write( getPromoAd() );
+
+// -->
+</script><center><a href="http://www.independent.co.uk/clickad.jsp?ad=809&amp;dir=1&amp;url=http://www.independent.co.uk/50best/" class="top"><font color="ffffff"><b>GOING OUT? SHOPPING? TRAVELLING? GET THE 50 BEST GUIDES FOR YOUR PDA - CLICK HERE</b></font></a></center>
+
+
+
+</td>
+</tr>
+<!-- stripadvert end-->
+<tr><td colspan="2" class="whitebg"><img src="/img/furniture/trans.gif" width="1" height="4"></td></tr>
+</tbody></table>
+<!-- end top table --> 
+
+<!-- main table --> 
+
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="130" align="left" valign="top"> 
+
+<!-- navigation --> 
+
+
+
+
+<table width="130" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr class="hubnavibgnews"><td>&nbsp;<a href="http://news.independent.co.uk/" class="navbd">News</a></td></tr>
+
+<tr><td>
+	&nbsp;&nbsp;<a href="http://news.independent.co.uk/uk/" class="nv">UK</a><br>
+&nbsp;&nbsp;<a href="http://news.independent.co.uk/europe/" class="nv">Europe</a><br>
+&nbsp;&nbsp;<a href="http://news.independent.co.uk/world/" class="nv">World</a><br>
+&nbsp;&nbsp;<a href="http://news.independent.co.uk/business/" class="nv">Business</a><br>
+&nbsp;&nbsp;<a href="http://news.independent.co.uk/people/" class="nv">People</a><br>
+
+</td></tr>
+<tr><td height="2"><img src="/img/furniture/trans.gif" width="1" height="2"></td></tr>
+</tbody></table>
+
+<table width="130" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr class="hubnavibgsport"><td>&nbsp;<a href="http://sport.independent.co.uk/" class="navbd">Sport</a></td></tr>
+<tr><td>
+	&nbsp;&nbsp;<a href="http://sport.independent.co.uk/cricket/" class="nv">Cricket</a><br>
+&nbsp;&nbsp;<a href="http://sport.independent.co.uk/fishing/" class="nv">Fishing</a><br>
+&nbsp;&nbsp;<a href="http://sport.independent.co.uk/general/" class="nv">General</a><br>
+&nbsp;&nbsp;<a href="http://sport.independent.co.uk/golf/" class="nv">Golf</a><br>
+&nbsp;&nbsp;<a href="http://sport.independent.co.uk/motor_racing/" class="nv">Motor Racing</a><br>
+&nbsp;&nbsp;<a href="http://sport.independent.co.uk/rugby_league/" class="nv">Rugby League</a><br>
+&nbsp;&nbsp;<a href="http://sport.independent.co.uk/rugby_union/" class="nv">Rugby Union</a><br>
+&nbsp;&nbsp;<a href="http://sport.independent.co.uk/sports_politics/" class="nv">Sports Politics</a><br>
+&nbsp;&nbsp;<a href="http://sport.independent.co.uk/tennis/" class="nv">Tennis</a><br>
+&nbsp;&nbsp;<a href="http://sport.independent.co.uk/football/" class="nv">Football</a><br>
+
+</td></tr>
+<tr><td height="1"><img src="/img/furniture/trans.gif" width="1" height="1"></td></tr>
+</tbody></table>
+
+<table width="130" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr class="hubnavibgargument"><td>&nbsp;<a href="http://argument.independent.co.uk/" class="navbd">Argument</a></td></tr>
+<tr><td>
+	&nbsp;&nbsp;<a href="http://argument.independent.co.uk/leading_articles/" class="nv">Leading Articles</a><br>
+&nbsp;&nbsp;<a href="http://argument.independent.co.uk/letters/" class="nv">Letters</a><br>
+&nbsp;&nbsp;<a href="http://argument.independent.co.uk/commentators/" class="nv">Commentators</a><br>
+&nbsp;&nbsp;<a href="http://argument.independent.co.uk/podium/" class="nv">Podium</a><br>
+&nbsp;&nbsp;<a href="http://argument.independent.co.uk/regular_columnists/" class="nv">Regular Columnists</a><br>
+
+</td></tr>
+<tr><td height="1"><img src="/img/furniture/trans.gif" width="1" height="1"></td></tr>
+</tbody></table>
+
+<table width="130" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr class="hubnavibgeducation"><td>&nbsp;<a href="http://education.independent.co.uk/" class="navbd">Education</a></td></tr>
+<tr><td>
+	&nbsp;&nbsp;<a href="http://education.independent.co.uk/news/" class="nv">News</a><br>
+&nbsp;&nbsp;<a href="http://education.independent.co.uk/business_schools/" class="nv">Business Schools</a><br>
+&nbsp;&nbsp;<a href="http://education.independent.co.uk/careers_advice/" class="nv">Careers Advice</a><br>
+&nbsp;&nbsp;<a href="http://education.independent.co.uk/gap_year/" class="nv">Gap Year</a><br>
+&nbsp;&nbsp;<a href="http://education.independent.co.uk/graduate_options/" class="nv">Graduate Options</a><br>
+&nbsp;&nbsp;<a href="http://education.independent.co.uk/higher/" class="nv">Higher</a><br>
+&nbsp;&nbsp;<a href="http://education.independent.co.uk/further/" class="nv">Further</a><br>
+&nbsp;&nbsp;<a href="http://education.independent.co.uk/schools/" class="nv">Schools</a><br>
+
+</td></tr>
+<tr><td height="1"><img src="/img/furniture/trans.gif" width="1" height="1"></td></tr>
+</tbody></table>
+
+<table width="130" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr class="hubnavibgmoney"><td>&nbsp;<a href="http://money.independent.co.uk/" class="navbd">Money</a></td></tr>
+<tr><td>
+	&nbsp;&nbsp;<a href="http://money.independent.co.uk/property/" class="nv">Property</a><br>
+&nbsp;&nbsp;<a href="http://money.independent.co.uk/personal_finance/" class="nv">Personal Finance</a><br>
+
+</td></tr>
+<tr><td height="1"><img src="/img/furniture/trans.gif" width="1" height="1"></td></tr>
+</tbody></table>
+
+<table width="130" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr class="hubnavibgjobs"><td>&nbsp;<a href="http://jobs.independent.co.uk/" class="navbd">Jobs</a></td></tr>
+<tr><td>
+	&nbsp;&nbsp;<a href="http://jobs.independent.co.uk/relocation/" class="nv">Relocation</a><br>
+&nbsp;&nbsp;<a href="http://jobs.independent.co.uk/careers/" class="nv">Careers</a><br>
+&nbsp;&nbsp;<a href="http://jobs.independent.co.uk/personality_tests/" class="nv">Personality Tests </a><br>
+&nbsp;&nbsp;<a href="http://jobs.independent.co.uk/featured_employers/" class="nv">Featured Employers</a><br>
+
+</td></tr>
+<tr><td height="1"><img src="/img/furniture/trans.gif" width="1" height="1"></td></tr>
+</tbody></table>
+
+<table width="130" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr class="hubnavibgtravel"><td>&nbsp;<a href="http://travel.independent.co.uk/" class="navbd">Travel</a></td></tr>
+<tr><td>
+	&nbsp;&nbsp;<a href="http://travel.independent.co.uk/news_and_advice/" class="nv">News &amp; Advice</a><br>
+&nbsp;&nbsp;<a href="http://travel.independent.co.uk/uk/" class="nv">UK</a><br>
+&nbsp;&nbsp;<a href="http://travel.independent.co.uk/africa/" class="nv">Africa</a><br>
+&nbsp;&nbsp;<a href="http://travel.independent.co.uk/americas/" class="nv">Americas</a><br>
+&nbsp;&nbsp;<a href="http://travel.independent.co.uk/ausandpacificrim/" class="nv">Australasia &amp; Pacific</a><br>
+&nbsp;&nbsp;<a href="http://travel.independent.co.uk/europe/" class="nv">Europe</a><br>
+&nbsp;&nbsp;<a href="http://travel.independent.co.uk/mideastandasia/" class="nv">Middle East &amp; Asia</a><br>
+&nbsp;&nbsp;<a href="http://travel.independent.co.uk/southeastasia/" class="nv">South-East Asia</a><br>
+&nbsp;&nbsp;<a href="http://travel.independent.co.uk/themes/" class="nv">Themes</a><br>
+
+</td></tr>
+<tr><td height="1"><img src="/img/furniture/trans.gif" width="1" height="1"></td></tr>
+</tbody></table>
+
+<table width="130" border="0" cellspacing="0" cellpadding="2">
+<tbody><tr class="hubnavibgenjoyment"><td>&nbsp;<a href="http://enjoyment.independent.co.uk/" class="navbd">Enjoyment</a></td></tr>
+<tr><td>
+	&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/motoring/" class="nv">Motoring</a><br>
+&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/books/" class="nv">Books</a><br>
+&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/crosswords/" class="nv">Crosswords</a><br>
+&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/dating/" class="nv">Dating</a><br>
+&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/film/" class="nv">Film</a><br>
+&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/food_and_drink/" class="nv">Food &amp; Drink</a><br>
+&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/music/" class="nv">Music</a><br>
+&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/photography/" class="nv">Photography</a><br>
+&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/theatre/" class="nv">Theatre</a><br>
+&nbsp;&nbsp;<a href="http://enjoyment.independent.co.uk/artscard/" class="nv">Arts Card</a><br>
+
+</td></tr>
+<tr><td height="1"><img src="/img/furniture/trans.gif" width="1" height="1"></td></tr>
+</tbody></table>
+<br clear="all">
+
+<!-- navigation end --> 
+ 
+</td>
+<td width="10">&nbsp;</td>
+<td width="445" align="left" valign="top">
+
+
+
+
+
+
+
+
+
+
+<!-- content -->
+<p class="padnone"><!-- location bar -->
+<a href="http://www.independent.co.uk/" class="black12px">Home</a>&nbsp;&nbsp;<b class="black12px">&gt;</b>&nbsp;<a href="/ ">Independent</a><br clear="all"><br><!-- location bar end -->
 </p>
+<!--	Template: story.jsp		-->
+<!--	Story ID: 55090-->
 
 
-
-<p align="right">
-Upgrade your browser for an improved site: <a href="http://www.microsoft.com/ie">Internet Explorer</a> · <a href="http://www.netscape.com/download/">Netscape</a>
-</p>
+<h1 class="head1">Privacy Policy</h1>
+<h2 class="head2">Please read this carefully</h2>
 
 
-<!-- location bar -->
-<p>
+<p class="padnone">09 December 2003</p><p>
 
-<a href="/" class="tool">Independent</a>
-
-</p>
-
-
-<!--
-Template: low_story.jsp
--->
-
-<!-- story -->
-
-<!--
-Story ID: 55090
--->
+	<!-- Do not show editorial column ! -->
+<!-- indy:EditorialColumn Directive -  hidden -->
+<!-- Tables below -->
 
 
-
-<h1>Privacy Policy</h1>
-<h2>Please read this carefully</h2>
-
-<h4>29 November 2000</h4>
-<p>Before using the Website (that is, all sites operated by <b>Independent News &amp; Media plc</b> companies) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.
+</p><p>Before using the Website (that is, any site operated by <b>Independent News &amp; Media plc</b> companies) it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.
 </p><p>
 <b>The basic principles</b>
 </p><p>
 By accessing and using the Website you are agreeing to be legally bound by the <a href="story.jsp?story=55087"><b>Terms of Use</b></a> and this Privacy Policy. You should therefore also read the Terms of Use before using the Website.
 </p><p>
-ID is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy in any way.
+ID is determined to protect your privacy. It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably.
 </p><p>
-Knowing something about our users is, however, necessary to ensure that our service is continually improved. We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you. That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain free-to-user access to the Website.
+Knowing something about our users is, however, necessary to ensure that our service is continually improved. We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you. That enables us to offer a service that is relevant and truly interactive, which is what our users expect. It also helps us to maintain free-to-user access to much of  the Website.
 </p><p>
 
 <b>We answer your important questions</b>
@@ -77,34 +558,60 @@ Knowing something about our users is, however, necessary to ensure that our serv
 <i>"What information do you collect about me?"</i>
 </p><ul>
 <li>We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.
-</li><li>We may also ask you to provide information on a voluntary basis in order to get a clearer picture of our users. It is then entirely up to you whether you are happy to give us this information.
+</li><li>We may also ask you to provide personal information on a voluntary basis in order to get a clearer picture of our users. It is then entirely up to you whether you are happy to give us this information.
 </li><li>In the course of entering competitions, promotions and other online offers you will be asked to give some details about yourself. You may also choose to e–mail us or make contact with us in other ways. Such contact gives us information about you.
 </li><li>If you have any financial dealings or make purchases with our trading partners on co–branded sites, they will ask for certain information. This information may be shared with us.
 </li></ul>
-<i>"For what purposes do you collect this information?"</i>
+<i>"For what purposes do you collect and use this information?"</i>
 <ul>
-<li>We use aggregate audience details (where no individual is identifiable) to help us imporve our understanding of our users and their preferences. We use it to assist us in arranging relevant advertising, commercial opportunities and competitions, as well as ensuring the best editorial coverage. It also helps us develop the Website and audit its use.
-</li><li>The information enables us to conduct market research and other surveys.
-</li><li>We want to be able to create and draw to your attention editorial material and commercial opportunities that may be of interest to you.
-</li><li>We want to share the information with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also share the information that they obtain about their users, which may include you.
+<li>We use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences. We use it to assist us in arranging relevant advertising, commercial opportunities and competitions, as well as ensuring the best editorial coverage. It also helps us develop the Website and audit its use.
+</li><li>The information about you as an identifiable individual, including contact details, may be used in the following ways:
+</li><li>to conduct market research and other surveys.
+</li><li>to create and draw to your attention editorial material and commercial opportunities that may be of interest to you.
+</li><li>to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also share the information that they obtain about their users, which may include you.
 </li></ul>
 <i>"How private are my details?</i>
 <ul>
 <li>Apart from other companies in the Independent News &amp; Media group, we only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. ID complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by responsible third parties. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, nor for any breach of security.
 </li><li>If you tell us that you do not want us to use your details, then data about your use of the Web Site would then only form part of aggregated statistics and would not be related to you as an individual.
-</li><li>You can ask to see the information we have about you by e-mailing a request to <a href="mailto:customerservice@inuk.co.uk">customerservice@inuk.co.uk</a>
+</li><li>You can ask to see the information we have about you by e-mailing a request to <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a>.
 </li></ul>
 <i>"What do I do if I am not happy for you to share information about me with others?"</i>
 <ul>
-<li>You may not wish us to share personal details about you with third parties outside the Group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail us at <a href="mailto:customerservice@inuk.co.uk.">customerservice@inuk.co.uk.</a> at any time to let us know of any objections you may have to how we use or disclose your data. Your personal details may however be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.
-</li></ul>
-<i>"Do you use cookies?"</i>
-<ul>
-<li>Like many other web sites we do use cookies as they enable us to identify you when you visit the Web Site and to develop a clearer picture of our users' preferences.
-</li><li>Cookies are small text files that are sent to your browser when you visit the Web Site and are stored on your hard disc. By identifying your previous visits, they enable you to use the site more effectively and enable us to tailor the site better to suit your needs.
-</li><li>You can find out more about cookies at <a href="http://www.cookiecentral.com" target="new">www.cookiecentral.com</a>.
+<li>You may not wish us to share personal details about you with third parties outside the Group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail us at <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a> at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy..Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.
 </li></ul>
 
+<p>
+
+<b>Use of cookies on a website </b>
+</p>
+<ul><li><i> The basic principles</i><br>
+A cookie is a text-only string of information that a website transfers to the cookie file of the browser of your computer's hard disk so that the website can remember who you are. A cookie will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number.
+<br>
+Two types of cookies are used on the Website: <b>Session Cookies</b> which are temporary cookies that remain in the cookie file of your browser until you leave the Website. <b>Persistent Cookies</b> which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of each specific cookie). Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you. Find out more about 
+<a href="http://www.allaboutcookies.org" target="NEW">cookies</a> here. </li></ul>
+
+<ul><li>
+<i>How we collect cookies on the Website and what information we collect</i>
+<br>
+<b>Session Cookies: </b>To allow you to carry information across pages of the Website and avoid having to re-enter information. <b>Persistent Cookies: </b>To help us recognise you as a unique visitor (just a number) when you return to the Website and to allow us to tailor content, advertisements and the presentation of the Website to match your preferences.  To compile anonymous, aggregated statistics that allow us to understand how users use the Website and to help us improve the structure of the Website. We cannot identify you personally in this way.
+
+
+<ul><li>
+<i>Third Party Cookies. </i>
+<br> Third parties serve cookies via the Website. These are used for the following purposes: To serve advertisements on the Website and track whether these advertisements are clicked on by users. To control how often you are shown a particular advertisement. To count the number of anonymous users of the Website.To provide security within transactions.</li></ul>
+
+
+<ul><li>
+<i>Use of Web Beacons</i>
+<br>
+Some of our web pages may contain electronic images know as web beacons (sometimes know as clear gifs) that allow us to count users who have visited these pages. Web beacons collect only limited information which including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides. We may also carry web beacons placed by third party advertisers. These beacons do not carry any personally identifiable information and are only used to track the effectiveness of a particular campaign. Find out more about <a href="http://www.allaboutcookies.org/web-beacons/index.html" target="NEW">Web Beacons </a> 
+</li></ul>
+
+<ul><li>
+<i>Disabling/Enabling Cookies. </i>
+<br>You have the ability to accept or decline cookies by modifying the settings in your browser. However, you may not be able to use all the interactive features of the Website if cookies are disabled. Find out how to <a href="http://www.allaboutcookies.org/manage-cookies/" target="NEW">disable/enable cookies</a></li></ul>
+<p></p>
 <b>International transfer of personal data</b>
 <br>
 As you will know, the Internet does not recognise national boundaries. Services on the net are accessible globally so collection and transmission of personal data is not always confined to one country. You should be aware that by using the Website and those of our partners or any site we link through to, your personal data may be processed in or transferred to other countries, the USA for example, and you agree to your personal data being transferred or processed in this way.
@@ -112,41 +619,161 @@ As you will know, the Internet does not recognise national boundaries. Services 
 
 <b>Further information</b>
 <br>
-If you want further information, or wish to communicate with us about this Privacy Policy, please e-mail us at  <a href="mailto:customerservice@inuk.co.uk.">customerservice@inuk.co.uk.</a> 
+If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail us at  <a href="mailto:customerservice@independent.co.uk">customerservice@independent.co.uk</a>. 
 </p><p>
 
 <b>Company information</b>
 <br>
-<a href="http://www.independentdigital.co.uk" target="new">Independent Digital (UK) Limited</a> is a company in the <a href="http://www.independentnewsmedia.com" target="new">Independent News &amp; Media</a> group, registered in England and Wales under company number 3761191, whose registered office is at Independent House, 191 Marsh Wall, London E14 9RS, UK.
-
-
-
-
-
-<!-- mini index -->
-
-</p><h3 class="Independentcolor">Also in null</h3>
-
-<a href="story.jsp?story=66503">'Charges should not have been brought'</a><br>
-
-<a href="story.jsp?story=66494">Third Division leaders set to lose points</a><br>
-
-<a href="story.jsp?story=66235">England players are now royal bankers</a><br>
-
-<a href="story.jsp?story=66234">Chelsea top spending list </a><br>
-
-<a href="story.jsp?story=66228">Solskjaer hailed as new 'supersub' </a><br>
-
+<a href="http://www.independentdigital.co.uk" target="new">Independent Digital (UK) Limited</a> is a company in the <a href="http://www.independentnewsmedia.com" target="new">Independent News &amp; Media</a> group, registered in England and Wales under company number 3761191, whose registered office is at Independent House, 191 Marsh Wall, London E14 9RS, UK.<br></p>
 
 	
-	<br>
-	<hr width="100%" size="1" noshade="">
-	<center><a href="http://www.independent.co.uk/story.jsp?story=55090">Privacy Policy</a>&nbsp;|&nbsp;
-	<a href="http://www.independent.co.uk/story.jsp?story=55087">© 2001 Independent Digital (UK) Ltd.</a>&nbsp;|&nbsp;
-	<a href="http://www.independent.co.uk/story.jsp?story=55123">Contact Us</a>
-	</center>
 
 
+<!-- start of footer -->
+
+
+
+</li></ul></td>
+<td width="10">&nbsp;</td>
+<td width="165" align="left" valign="top"> 
+
+<!-- date -->
+<p class="datesmall"><script language="JavaScript">document.write( getDateString() );</script>31 January 2020  04:54</p>
+
+<table cellpadding="2" cellspacing="2" width="165" class="channelbg">
+<tbody> 
+<tr class="channelbg"> 
+<form action="/search/search.jsp" class="searchbox" name="minisearch"></form>
+<input type="hidden" name="minisearch" value="1">
+<td class="channelbg">&nbsp;<span class="articletext">Search this site:</span><br clear="all">
+&nbsp;<input class="box" name="keywords" onclick="document.minisearch.keywords.value='';" size="16"></td>
+<td><input class="button" name="submit" type="submit" value="Go"></td>
+
+</tr>
+<tr><td>&nbsp;<a href="/low_res/story.jsp?story=55090&amp;host=1&amp;dir=1" class="black12px"><img src="http://www.independent.co.uk/img/furniture/printer_icon.gif" border="0" width="23" height="11" alt="printable version">Printable Story</a><br clear="ALL"></td></tr>
+</tbody> 
+</table>
+
+
+<!-- commercial adverts -->
+
+<table cellpadding="0" cellspacing="0">
+<tbody><tr align="center" valign="top"><td><img src="/img/furniture/trans.gif" width="165" height="9" alt="" border="0"></td></tr>
+
+<tr align="center" valign="top"><td><!--  Advertron2: Overture - Hot Summer Deals   ( #1465 )  -->
+<style>
+.hot_summer_deals {font-family: Verdana; font-size: 11px; border: solid #000000 1px; padding: 10px; background-image: url(http://www.independent.co.uk/images/newsite/commercial/hot_summer_deals3.gif); background-repeat: no-repeat; background-position: -4px 0px; background-color: #FFFAEB}
+.overturelink b {font-family: Verdana; font-size: 11px; color: #454545; font-weight: bold}
+.overturelink { font-family: Verdana; font-size: 11px; color: #454545; font-weight: normal}
+a.overturelink { color: #000000; text-decoration: none; font-weight: normal}
+a.overturelink:hover { color: #000000; text-decoration:underline; font-weight: normal}
+a.overturelink:visited { color: #000000; font-weight: normal}
+</style>
+
+<table width="160" height="600"><tbody><tr><td class="hot_summer_deals" align="left" valign="top">
+<img src="http://www.independent.co.uk/img/furniture/trans.gif" width="130" height="205">
+
+<script language="JavaScript" charset="iso-8859-1" src="http://html.overture.com/d/search/p/independent/js/uk/ctxt/?mkt=uk&amp;maxCount=3&amp;keywordCharEnc=latin1&amp;outputCharEnc=latin1&amp;Partner=independent_xml_uk_ctxt_sky&amp;ctxtId=hot_summer_deals"></script>
+
+<script type="text/javascript">
+
+function escapeDoubleQuotes( s ) {
+  var str = String( s );
+  return str.replace( /"/g, '"' );
+}
+
+{
+  for( var k=6; (k < zSr.length); k += 6 ) {
+    zSr[k] = zSr[k].substring(0, 70) + '...';
+    document.write('<p><a href="'+zSr[k+2]+'" target="_blank" class="overturelink" title="'+escapeDoubleQuotes(zSr[k] + ' - ' + zSr[k+4])+'"><b>'+zSr[k+3]+'</b><br />');
+	document.write(zSr[k]+'</a></p>');
+	//document.write(zSr[k+3]+'<br><br>' );
+  } 
+}//block
+</script>
+</td></tr></tbody></table></td></tr>  
+<tr align="center" valign="top"><td><img src="/img/furniture/trans.gif" width="165" height="5" alt="" border="0"></td></tr>
+
+</tbody></table>
+
+<!-- commercial adverts end --> 
+
+</td>
+</tr>
+</tbody></table>
+<br>
+
+<!-- content adverts --> 
+<br clear="all">
+<!-- our content-->
+<table width="740">
+<tbody><tr>
+<td align="center">
+<table>
+<tbody><tr>
+<td align="center">
+<hr width="550" size="1" align="center">
+<a href="http://www.independent.co.uk/story.jsp?story=55087" class="black12px">Terms of Use</a> | 
+<a href="http://www.independent.co.uk/story.jsp?story=55090" class="black12px">Privacy Policy, including use of cookies</a> | 
+<a href="http://www.independent.co.uk/story.jsp?story=59363" class="black12px">Sign up for our free daily news update</a><br>
+<a href="http://www.independent.co.uk/story.jsp?story=414313" class="black12px">Freelance contributions</a> | 
+<a href="http://www.independent.co.uk/story.jsp?story=116349" class="black12px">Advertise in print</a> |
+<a href="http://www.independent.co.uk/story.jsp?story=72153" class="black12px">Other Digital sites</a> | 
+<a href="http://www.independent.co.uk/story.jsp?story=55123" class="black12px">Contact us</a> 
+<br clear="all">
+<br>
+<span class="black12px">© 2004 Independent Digital (UK) Ltd</span></td>
+</tr>
+</tbody></table>
+</td>
+</tr>
+</tbody></table>
+<!-- our content end-->
+<!-- Netscape re-size -->
+
+<script language="javascript" type="text/javascript">
+
+<!--
+
+function WM_netscapeCssFix () {
+	if (document.WM.WM_netscapeCssFix.initWindowWidth != window.innerWidth || document.WM.WM_netscapeCssFix.initWindowHeight != window.innerHeight) {
+		document.location = document.location;
+	}
+}
+
+function WM_netscapeCssFixCheckIn () {
+	if ((navigator.appName == 'Netscape') && (parseInt(navigator.appVersion) == 4)) {
+		if (typeof document.WM == 'undefined') {
+			document.WM = new Object;
+		}
+		if (typeof document.WM.WM_scaleFont == 'undefined') {
+			document.WM.WM_netscapeCssFix = new Object;
+			document.WM.WM_netscapeCssFix.initWindowWidth = window.innerWidth;
+			document.WM.WM_netscapeCssFix.initWindowHeight = window.innerHeight;
+		}
+		window.onresize = WM_netscapeCssFix;
+	}
+}
+
+WM_netscapeCssFixCheckIn ();
+
+//-->
+
+
+</script>
+<!-- /Netscape re-size -->
+
+<!-- designed by nuwan nagahawatte -->
+
+<!-- independent.co.uk is owned and trained by independent digital -->
+<!-- end of footer -->
+
+
+
+<script type="text/javascript">
+	var stamp = "server request at: 19 / 06 / 04 @ 09:51:25 <br>\n server completion at: 19 / 06 / 04 @ 09:51:25 <br>\n  <br>\n Elapsed difference:	0";
+	timeStampPage( 1087635085037, stamp  );
+</script>
 
 
 
