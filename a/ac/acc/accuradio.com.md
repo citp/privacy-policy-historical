@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203135002id_/http%3A//www.accuradio.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610105215id_/http%3A//accuradio.com/privacy.asp) for the most accurate reproduction.*
 
 # AccuRadio Help
 
