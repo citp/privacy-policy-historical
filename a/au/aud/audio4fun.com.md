@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602191656id_/http%3A//www.audio4fun.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audio4fun.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207212033id_/http%3A//www.audio4fun.com/adlines.php%3Fid%3D111) for the most accurate reproduction.*
 
 # Microphone voice changer: alter microphone voice input to favorite singer's voice - Privacy
 
