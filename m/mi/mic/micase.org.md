@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the micase.org privacy policy that was archived on 2004-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040227100558id_/http%3A//www.michigan.gov/hal/0%2C1607%2C7-160-17188-2088--%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the micase.org privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217182144id_/http%3A//www.michigan.gov/hal/0%2C1607%2C7-160-17188-2088--%2C00.html) for the most accurate reproduction.*
 
 # Michigan Privacy Policy
 
@@ -34,7 +34,7 @@ Michigan will only send personal information about you to others when:
 
   * we have your consent to share the information; or
   * we need to share your information to provide the product or service you have requested; or
-  * we are authorized to do so by law (e.g., to respond to subpoenas, court orders, legal process, or to requests pursuant to a statute requiring or permitting disclosure such as the [Freedom of Information Act. MCL 15.231, et seq.: MSA 4.1801(1) et seq](http://www.michiganlegislature.org/law/mileg.asp?page=getObject&objName=mcl-15-231&userid=).)
+  * we are authorized to do so by law (e.g., to respond to subpoenas, court orders, legal process, or to requests pursuant to a statute requiring or permitting disclosure such as the [Freedom of Information Act. MCL 15.231, et seq.: MSA 4.1801(1) et seq](http://www.michiganlegislature.org/mileg.asp?page=getObject&objName=mcl-Act-442-of-1976&queryid=8156176&highlight=Freedom%20of%20Information).)
 
 _Editing and Deleting Your Account Information_
 
