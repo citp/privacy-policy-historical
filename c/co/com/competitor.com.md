@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the competitor.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209045826id_/http%3A//www.competitor.com/privacy.cfm%3FpublicationID%3D17%26id%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitor.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627145846id_/http%3A//www.competitor.com/privacy.cfm%3FpublicationID%3D17%26id%3D8) for the most accurate reproduction.*
 
 # Competitor Magazine Privacy Policy
 
