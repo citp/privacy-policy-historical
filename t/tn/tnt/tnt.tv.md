@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606030918id_/http%3A//www.tnt.tv/FooterPrivacy/1%2C6747%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tnt.tv privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215185129id_/http%3A//www.tnt.tv/FooterPrivacy/1%2C6747%2C%2C00.html) for the most accurate reproduction.*
 
 # TNT - Home
 
