@@ -1,106 +1,68 @@
-> *The following text is extracted and transformed from the jobstreet.com.sg privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202080106id_/http%3A//www.jobstreet.com.sg/trust_e.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.sg privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605191002id_/http%3A//www.jobstreet.com.sg/trust_e.htm) for the most accurate reproduction.*
 
 # JobStreet.com - Trust-E
 
-  
-  
-  
-[](https://www.truste.org/validate/2375) **JobStreet.com** is a licensee of the TRUSTe Privacy Program. This statement discloses the privacy practices for the JobStreet Web site. When you visit a Web site displaying the TRUSTe trustmark, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information. 
+**JOBSTREET.COM** is an online recruitment web site, intended for users 18 year-old and above. Personal information of all users is collected, used and disclosed as described in this Statement of Privacy. 
 
-Questions regarding this statement should be directed to the JobStreet site coordinator at [policy@jobstreet.com](mailto:policy@jobstreet.com). If the Web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe (<http://www.truste.org/users/watchdog.html>). 
+Other services linked to from this Web site, will have their own statements of privacy which can be viewed by clicking on the links. 
 
-To return to the Web site, please use the "Back" button on your browser. 
+**Collection of your Personal Information**  
+**JOBSTREET.COM** collects personal information, such as your e-mail address, name, home or work address or telephone number, work experience and other such data associated with a resume for job applications. 
 
-* * *
+**JOBSTREET.COM** may also collect certain information about your computer hardware and software. This information may include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by **JOBSTREET.COM** for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of **JOBSTREET.COM**. 
 
-**JobStreet.com** (Company No: 449122-K) is the premier Internet employment community for job seekers and recruiters whereby its contents are hosted over the Internet through its Internet web site known as **JobStreet.com** at URL [www.jobstreet.com](http://www.jobstreet.com/). 
+**JOBSTREET.COM** keeps track of the pages our user visit within **JOBSTREET.COM** , in order to determine what **JOBSTREET.COM** sites and services are the most popular. This data is also used by **JOBSTREET.COM** to deliver customized content and advertising to users whose behavior indicates that they are interested in a particular subject area. 
 
-The various services offered by **JobStreet.com** may/will retain user and client information, or any preference data collected through its sites, in order to enable it to provide services for its users and clients. 
+**JOBSTREET.COM** uses MyJobStreet to provide registration and sign-in services. If you create a MyJobStreet account at **JOBSTREET.COM** , you are simultaneously registering with **JOBSTREET.COM** and opening a MyJobStreet account. All of the registration information you provide will be stored by **JOBSTREET.COM** in your MyJobStreet profile. For more information about MyJobStreet account, please visit: <http://myjobstreet.jobstreet.com/>
 
-At **JobStreet.com** our principle concern is the responsible use of information that users and clients share and disclose to us. **JobStreet.com** 's commitment towards guaranteed confidentiality and privacy at all times is clearly articulated in our Privacy Policy. 
+Please keep in mind that, when you apply to jobs advertised on JobStreet.com, your resume data in your MyJobStreet account and any other information that you disclosed during your job application will be made available to the companies you applied to. **JOBSTREET.COM** encourages you to review the privacy statements of Web sites you choose to browse to from **JOBSTREET.COM** so that you can understand how those Web sites collect, use and share your information. JobStreeet.com is not responsible for the privacy statements or other content on Web sites outside of the JobStreet.com family of Web sites. 
 
-This document details the policies of **JobStreet.com** regarding Internet privacy issues to help users and clients understand the roles that technology and electronic commerce play in the collection and use of information provided. **JobStreet.com** wishes to ensure user confidence by promoting the principals of disclosure and fair information practices at our site. 
+**Use of your Personal Information**  
+**JOBSTREET.COM** and its operational service partners collect and use your personal information to operate **JOBSTREET.COM** and deliver the services you have requested. **JOBSTREET.COM** also uses your personal information to inform you of other products or services available from JobStreet.com and its affiliates. **JOBSTREET.COM** may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered. 
 
-  1. **Collecting Personal Information**  
-We collect information that users provide voluntarily to us, including registration information, employment resumes, and career profiles. **JobStreet.com** does not provide personally identifiable information of users to a third party unless **JobStreet.com** specifically informs users at the time of collection or unless the users themselves give express consent. The resumes are used for the purpose of job applications, and users themselves submit their resumes to prospective employers when applying online for a position. We have listed below the different types of information that are collected. 
-    1. **Registration Information**  
-**JobStreet.com** requires users of MyJobStreet services to supply personal information during the Account Registration process. Specifically, users must supply the following: user selected login ID and password, first and last name, email address, birthday, city, state, and country. These are vital to **JobStreet.com** for internal verification of user identity. Occasionally **JobStreet.com** will send to registered users emails regarding updates to the web site. 
-    2. **MyResume**  
-Users of MyJobStreet also supply certain profile information as part of their MyResume. Unless **JobStreet.com** specifically informs users at the time of collection, or unless the users give express consent, **JobStreet.com** does not disclose any personally identifiable information to a third party. The My Resume information includes the following: postal address, gender, date of birth, nationality, phone/fax number, social/ID number, country of residence, and marital status; working experience profile, type of work, level of responsibility, availability status, salary requirements, extent of willingness to travel, willingness to relocate, skills, educational background, and CV/resume. Users optionally can provide two references in the resume. The resume information and references are only revealed to those prospective employers to which applications are specifically and directly sent. **JobStreet.com** might occasionally use a user's contact information (phone/fax, address) to contact a user in case of service problems though email is the preferred medium. 
-    3. **Unique Identifiers Information**  
-**JobStreet.com** 's MyJobStreet requires Malaysian users to supply their new Identification Card number and Singaporean users their NRIC number. Users of other national identity are required to supply their countries' respective identification numbers. These are used to verify and authenticate user identities (See Section F below). **JobStreet.com** does not disclose any of the above information to a third party. 
-    4. **Preferences Information**  
-**JobStreet.com** requires users of the MyJobStreet service to input their job preferences and availability status. **JobStreet.com's personal career agent, LiNa - a job matching software, uses this information for a job matching**. Preferences Information captures the following: field specialization of interest, position level, preferred work location, and LiNa activation status. 
-    5. **Other Personal Information**  
-**JobStreet.com** 's MyJobStreet also provides a number of features to keep track of users' personal job applications and opportunities record. The records are kept at the Job Matches and Online Application sections of MyJobStreet. The records comprise of: 
-      1. Statistical report of job matches from LiNa for the last one month 
-      2. Record of users' recent job applications 
+**JOBSTREET.COM** does not sell, rent or lease its user or registered member lists to third parties. **JOBSTREET.COM** may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your personal information (e-mail, name, address, telephone number) is not transferred to the third party. 
 
-Other optional services include: 
+We occasionally hire other companies to provide limited services on our behalf, such as handling the processing and delivery of mailings, providing user support, providing training courses or performing statistical analysis of our services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of your information and are prohibited from using that information for any other purpose. 
 
-|  i. | _Email Resume_. Users can email their resumes stored in **JobStreet.com** 's MyResume section to any company. In using this facility, users assume the responsibility of disclosing their personal information to a third party.  
----|---  
-ii. | _Personality Test._ **JobStreet.com** 's MyJobStreet provides a facility for users to save information under the Personality Test section under Tools. No part of users' information will be disclosed to a third party unless the users themselves give express consent for job applications that require a personality test. Otherwise, this section is designed solely for the users' personal reference.  
-iii. | _Searchable Resume._ **JobStreet.com** 's MyJobStreet provides an option for users to publicize an anonymous resume to potential employers. This service targets users who have the need to market themselves pro-actively to the prospective employers.
+**JOBSTREET.COM** does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent. 
 
-The users will receive email alerts when prospective employers are interested in them. The employers will receive the full resume, which contain a user’s personal particulars, if and only if the user responds positively to the email alert.  
-  
-    6. **Authentication**  
-The Authentication step reinforces the legitimacy of **JobStreet.com** 's users for **JobStreet.com** itself as well as for prospective employers. By authenticating their personal information, users verify the genuineness of the information in their MyJobStreet account. Although Authentication is optional, it places users who complete this important stage at a higher level of authenticity in the application process. 
-    7. **Online Test for Job Application**  
-In some cases, users are required to go through an Online Test while applying for a position. The test questions are specified by the employer and are used for the sole purpose of gauging the suitability of the applicant. In such cases, users are requested to submit the test answers together with the online resume. 
-**Editing/Updating of Personal Information**  
-Editing or updating of information of above can be done at MyJobStreet. Registered users can retrieve the information by logging into MyJobStreet using their login ID and password. Changes will be recorded whenever the users save the edited information before logging out from MyJobStreet. 
+**JOBSTREET.COM** may access and/or disclose your personal information if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on JobStreet.com or the site; (b) protect and defend the rights or property of **JOBSTREET.COM** and its family of Web sites; or (c) act under exigent circumstances to protect the personal safety of users of JobStreet.com, its web sites, or the public. 
 
-**Potential Advertiser Enquiries**  
-**JobStreet.com** allows potential advertisers to sign up online for sales enquiries and brochures. 
+Personal information collected on this site may be stored and processed at any country in which **JOBSTREET.COM** or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. 
 
-  2. **Protecting Users' Personal Information**  
-**JobStreet.com** ensures that the personal information of users is secured and protected. Users' personal information is stored in a database, protected by password, and accessible only to the users themselves and those **JobStreet.com** employees who require access to perform necessary responsibilities related to the management of the users' accounts. Users can choose to access their registered information with MyJobStreet via our Secure Web Server that will encrypt the data while it is transferred through the Web. 
+**Control your Personal Information**  
+**JOBSTREET.COM** offers its users choices for the collection, use and sharing of personal information. You may go to the [MyJobStreet](http://myjobstreet.jobstreet.com/) account page to proactively make choices about the use and sharing of your personal information. You may choose not to receive marketing material from **JOBSTREET.COM** or on behalf of external third party business partners. 
 
-Our internal servers are also protected by firewalls that are continuously monitored. Employees of **JobStreet.com** are also made aware of the importance of security and confidentiality through the company's own bi-monthly security reviews and presentations. 
+In addition, you may visit the "[MyJobStreet](http://myjobstreet.jobstreet.com/)" to view, edit or delete your personal information from the **JOBSTREET.COM** database. 
 
-  3. **Use of Access Log Files**  
-**JobStreet.com** collects web server log files primarily to measure page views and bytes transferred for capacity planning and investor relations. In addition, these files are analyzed to determine the popularity of various services that we offer . 
+In both cases described above, you will be asked to make your requests while logged into a MyJobStreet account, so that **JOBSTREET.COM** can associate your preferences with a particular service. This security safeguard prevents someone else from making choices about the usage and control of your personal information. If you do not have a MyJobStreet account, you can create one now by [clicking here](http://myjobstreet.jobstreet.com/). 
 
-We also analyze the logs to identify and correct broken links within the sites. The logs collected consist of requester IP address, date, access time, server utilized, server IP address, page or object requested, result code, referrer URL and browser type. 
+You may also stop the delivery of future promotional e-mail from **JOBSTREET.COM** by following the specific instructions in the e-mail you receive or in the MyJobStreet account page. The instructions explain how to stop receiving such e-mails. 
 
-  4. **Use of User Information**  
-**JobStreet.com** reserves the right to perform statistical analysis of user behaviors and preferences in order to measure users' relative interests in the various areas of the website for the purpose of product and service development purposes. The analysis is anonymous and not tagged to identifiable users. The analysis information that **JobStreet.com** collects is for internal use only to improve the content and services of its web site. In return, users will benefit from improved quality of services. Users will also be updated of **JobStreet.com** 's continual improvement via email. 
-  5. **Use of Cookies**  
-I. Cookies are essentially identification cards that are stored as very small text files in the users' hard drive by the server. By using cookies, **JobStreet.com** hopes to provide better services for its users based on analysis of session data collected through the use of cookies. The server that has sent them to the user, in this case can only read JobStreet.com's server cookies. Cookies are unable to store any codes or viruses. Cookies provide an easy way to identify users allowing **JobStreet.com** to personalize some services for our users. 
+There are some **JOBSTREET.COM** services, that send out periodic e-mails informing you of technical service issues, product surveys, new feature announcements and news about **JOBSTREET.COM** products and services. You will not be able to unsubscribe to these mailings, as they are considered a part of the service you have chosen. 
 
-This policy only covers the use of cookies by **JobStreet.com** and does not cover the use of cookies by any advertisers **JobStreet.com** does not have control, nor access to the information contained in its advertisers'cookies. 
+**Security of your Personal Information**  
+**JOBSTREET.COM** is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer systems with limited access, that are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
-  6. **Disclosure to Third Parties**  
-Unless **JobStreet.com** specifically informs users at the time of collection, or unless users give express consent, **JobStreet.com** does not provide any personally identifiable information to a third party. However, if subpoenaed or ordered by a court of law, **JobStreet.com** will have to disclose to the proper authorities the personal information of any individual user. 
-  7. **Deactivating Job Alerts**  
-While registering at MyJobStreet, users can indicate on the registration from that they do not wish to utilize the LiNa job matching service by deactivating the service under the LiNa-Job Alert Profile section. By deactivating LiNa, the service will be discontinued immediately. However, users still have access to, and ownership over, their own personal information. 
-  8. **Accuracy of User Information**  
-Users of MyJobStreet have real time access to all of their personal information for the purpose of editing and updating. Users are encouraged to keep their information accurate for job applications. 
-  9. **Ownership of Materials**  
-Materials are copyrighted and protected by worldwide copyright laws and treaty provisions. They may not be copied, reproduced, modified, published, uploaded, posted, transmitted, or distributed in any way without **JobStreet.com** 's prior written permission. Except as expressly provided herein, **JobStreet.com** and its suppliers will not grant any express or implied right to users under any patents, copyrights, trademarks, or trade secret information. Other rights may be granted to users by JobStreet.com in writing or incorporated elsewhere in the materials. 
-  10. **Links to Other Materials**  
-Linked sites are not under the control of **JobStreet.com** , and **JobStreet.com** will not be held responsible for the content or privacy policies of any linked sites or any links containing other linked sites. **JobStreet.com** reserves the right to terminate any links or linking programs at any time. **JobStreet.com** does not endorse companies or products to which it links , and it reserves the right to note as such on its web pages. If users decide to access any of the third party sites linked to **JobStreet.com** 's site, users will do this entirely at their own discretion. **JobStreet.com** recommends that users refer to the privacy statement of the linked sites. 
-  11. **Compliance and Laws**  
-In upholding the commitment laid down in this documentation, **JobStreet.com** will at all times comply with all relevant laws applicable or enforced at that time. In light of this, **JobStreet.com** will reserve the right to refuse registration of any individual, body, person, or organization with **JobStreet.com** if it is believed that such registration would be in contravention of any relevant law, by-law, regulation, or act which will affect **JobStreet.com** 's commitment hereunder or with any other representations made by either **JobStreet.com** or with any other third party. **JobStreet.com** affirms, however, that it will not unreasonably impose any restrictions or conditions for the registration of any individual, body, person, or organization with **JobStreet.com** without giving prior notice in writing and stating its reasons thereto. 
-  12. **Updating of Privacy Policy and Consent**  
-**JobStreet.com** will, as and when it deems fit to do so, change, alter or modify its Privacy Policy. Users are advised to visit the site continually in order to monitor changes in the policy, as the policy will be binding upon them in relation to their use of **JobStreet.com** 's services. Notices of changes will be posted on the site for thirty (30) days prior to the new policy taking effect. **JobStreet.com** will first, however, get users' written or electronically authorized consent before making any changes to the collection or use of users' personal information. 
-  13. **Third Party Ads Servers**  
-This policy only covers the use of cookies by **JobStreet.com** and does not cover the use of cookies by any advertisers. **JobStreet.com** does not have control, nor access to the information contained in its advertisers' cookies. 
+**Use of Cookies**  
+**JOBSTREET.COM** uses "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. 
 
-**JobStreet.com** is committed to protecting user privacy and safeguarding users' personal information. Therefore, **JobStreet.com** will handle user data with fullest responsibility and care. **JobStreet.com** encourages its users to become completely familiar with, and to review continually, the company's Privacy Policy. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize **JOBSTREET.COM's** pages, or register with **JOBSTREET.COM** sites or services, a cookie helps **JOBSTREET.COM** to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, and so on. When you return to **JOBSTREET.COM** , the information you previously provided can be retrieved, so you can easily use the **JOBSTREET.COM** features that you customized. 
 
-For further information regarding the Privacy Policy, we can be reached at: [policy@jobstreet.com](mailto:policy@jobstreet.com)  
-**JobStreet.com**  
-#1 Ground Floor Office  
-Equatorial Hotel  
-1 Jalan Bukit Jambul  
-11900 Penang  
-Malaysia
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the **JOBSTREET.COM** services or Web sites you visit. 
 
-Tel: 6-04-6445929/5912  
-Fax: 6-04-6428653 
+**TRUSTe Certification**  
+**JOBSTREET.COM** is a member of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. Because **JOBSTREET.COM** wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
+**Enforcement of this Statement of Privacy**  
+If you have questions regarding this statement, you should first contact **JOBSTREET.COM** via [policy@JobStreet.com](mailto:policy@JobStreet.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [www.truste.org/users/users_watchdog.html](http://www.truste.org/users/users_watchdog.html). TRUSTe will serve as a liaison with **JOBSTREET.COM** to resolve your concerns. 
 
+**Changes to this Statement**  
+**JOBSTREET.COM** will occasionally update this Statement of Privacy to reflect company and user feedback. When **JOBSTREET.COM** posts changes to this Statement, you will see the word "updated" next to the Privacy Statement link on the front page of **JOBSTREET.COM**. If there are material changes to this Statement or in how **JOBSTREET.COM** will use your personal information, **JOBSTREET.COM** will prominently post such changes prior to implementing the change. **JOBSTREET.COM** encourages you to periodically review this Statement to be informed of how JobStreet.com is protecting your information. 
 
+**Contact Information**  
+**JOBSTREET.COM** welcomes your comments regarding this Statement of Privacy. If you believe that **JOBSTREET.COM** has not adhered to this Statement, please contact **JOBSTREET.COM** by telephone, e-mail, or postal mail. 
+
+Before you choose to send your data to **JOBSTREET.COM** , you have the opportunity to review that data. If you choose to send the data, in some cases your personal information may also be sent to **JOBSTREET.COM**. This personal information is deleted before JobStreet.com reviews the error data you send. 
+
+If you have made your choice to receive all or any of the above mentioned, at any time, you may remove yourself and your information from recipient list by login on your MyJobStreet account through [www.jobstreet.com](http://www.jobstreet.com/), and then make necessary changes at ‘Other Tools’ section from Home page. 
