@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmap.org privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624220147id_/http%3A//nmap.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmap.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203003654id_/http%3A//www.insecure.org/privacy.html) for the most accurate reproduction.*
 
 # Insecure.org Privacy Policy
 
@@ -18,11 +18,11 @@ Security- and privacy-conscious people often disable cookies in their browser. W
 
 **Security**
 
-We recognize that privacy policies are ineffective if someone can break into the web and database servers and proceed to abuse the information. We constantly monitor public and private security lists (including [these](http://lists.insecure.org/)) to stay abreast of the latest security holes. Our software is designed with security as the #1 priority and our network is architected to maximise resilience to attacks. 
+We recognize that privacy policies are ineffective if someone can break into the web and database servers and proceed to abuse the information. We constantly monitor public and private security lists (including [these](http://seclists.org/)) to stay abreast of the latest security holes. Our software is designed with security as the #1 priority and our network is architected to maximise resilience to attacks. 
 
 **Mailing lists**
 
-We run several mailing lists such as [Nmap-hackers](http://lists.insecure.org/#nmap-hackers) and [Nmap-dev](http://lists.insecure.org/#nmap-dev). These are opt-in lists: you will only receive mail on them if you explicity sign up. Sign up email verification letters are sent to insure that one user cannot subscribe other people to the lists without their permission. Users can unsubscribe from the lists at any time using instructions sent when they subscribe and in the headers of each message. 
+We run several mailing lists such as [Nmap-hackers](http://seclists.org/#nmap-hackers) and [Nmap-dev](http://seclists.org/#nmap-dev). These are opt-in lists: you will only receive mail on them if you explicity sign up. Sign up email verification letters are sent to insure that one user cannot subscribe other people to the lists without their permission. Users can unsubscribe from the lists at any time using instructions sent when they subscribe and in the headers of each message. 
 
 **Links to other sites**
 
@@ -44,7 +44,7 @@ If you send us your IP address in a support request or fingerprint submission re
 
 **Surveys and other information requests**
 
-We may occasionally post surveys and other forms requesting information. We will not share personally identifiable information from these forms unless we say otherwise on the survey/form. We may share aggregate data about the answers. For example, [here](http://lists.insecure.org/nmap-hackers/2000/Apr-Jun/0141.html) are the results of one of our surveys. 
+We may occasionally post surveys and other forms requesting information. We will not share personally identifiable information from these forms unless we say otherwise on the survey/form. We may share aggregate data about the answers. For example, [here](http://seclists.org/lists/nmap-hackers/2003/Apr-Jun/0011.html) are the results of one of our surveys. 
 
 **Your consent and changes to the privacy policy**
 
