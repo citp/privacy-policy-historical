@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611205239id_/http%3A//tes.com/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tes.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017233705id_/http%3A//tes.com/ppolicy.html) for the most accurate reproduction.*
 
 # tes.comppolicy
 
