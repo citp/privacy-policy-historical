@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stumpsparty.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603124214id_/http%3A//www.stumpsparty.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsparty.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211092819id_/http%3A//www.stumpsparty.com/service.cfm%3Fpage%3Dsite_security%26SecID%3D10%23privacy) for the most accurate reproduction.*
 
 # Stump Printing Co., Inc. : Site Security and Privacy
 
