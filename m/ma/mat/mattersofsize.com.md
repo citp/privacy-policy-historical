@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mattersofsize.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206053704id_/http%3A//www.mattersofsize.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattersofsize.com privacy policy that was archived on 2004-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040220025532id_/http%3A//www.mattersofsize.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
