@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mathforum.org privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204045800id_/http%3A//mathforum.org/announce/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathforum.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603125940id_/http%3A//mathforum.org/announce/privacy.html) for the most accurate reproduction.*
 
 # Math Forum: Privacy Policy
 
-If you are under 13, please have your parents/guardians read this policy and approve your use of our services. If you are under 13 and you participate in the Problem of the Week services or subscribe to any other Math Forum services, please have your teacher or parent register you for participation. At any time, your parents have the right to request that we remove your personal information by writing to [removal@mathforum.com](mailto:removal@mathforum.com) or by contacting us via postal mail or telephone (800)756-7823 x200.
+If you are under 13, please have your parents/guardians read this policy and approve your use of our services. If you are under 13 and you participate in the Problem of the Week services or subscribe to any other Math Forum services, please have your teacher or parent register you for participation. At any time, your parents have the right to request that we remove your personal information by writing to [removal@mathforum.org](mailto:removal@mathforum.org) or by contacting us via postal mail or telephone (800)756-7823.
 
 ### Privacy Policy:
 
@@ -19,33 +19,30 @@ If you identify yourself by sending an email or by providing your email address 
 
   * We use personal identifying information from users in various ways to provide the educational services and support you seek. We use your email address in order to respond to your questions and submissions or to maintain your subscriptions. We also use email in order to identify who you are and make it easy for you to be a regular user of one of our mentored services.
   * From time to time we conduct surveys of users for the purpose of evaluating the use of our Web site, and we may use your information to contact you for more information.
-  * When we archive and publish solutions from the Problem of the Week services, we highlight the names of the students and schools with noteworthy submissions on our Web pages, and these may be read by the general public. We publish selected questions and responses from Ask Dr. Math, Teacher2Teacher, and other services. This published material, available to the public, may include your name.
+  * When we archive and publish solutions from the Problem of the Week services, we highlight the names of the students and schools with noteworthy submissions on our Web pages, and these may be read by the general public. Teachers who have registered for a Problem of the Week "teacher account" with us may also view information concerning the number and date of submissions entered by students from their school to the Problem of the Week projects. We publish selected questions and responses from Ask Dr. Math, Teacher2Teacher, and other services. This published material, available to the public, may include your name.
 
 
 
-At any time you may request the removal of your name or other personal information and contributions by writing to [removal@mathforum.com](mailto:removal@mathforum.com) or by contacting us via postal mail or telephone (800)756-7823 x200.
+At any time you may request the removal of your name or other personal information and contributions by writing to [removal@mathforum.org](mailto:removal@mathforum.org) or by contacting us via postal mail or telephone (800)756-7823.
 
 We want to be very clear: We will not obtain personal identifying information about you when you visit our site unless you choose to provide such information to us.
 
 We do not sell our customer names, addresses, or other information to third parties for any purpose.
 
-This site contains links to other sites. MathForum.com is not responsible for the privacy practices or the content of such Web sites.
-
-We use services from WebCT and AdForce, LLC, to display ads on our site. Visitor data are collected and provided to WebCT and AdForce for the purpose of delivering relevant ads to visitors. Please refer to the privacy policies used by [WebCT](http://www.webct.com/global/privacypolicy/) and [AdForce](http://www.adforce.com/company/privacy/privacypolicy.asp) for further information or to opt out of participation in the AdForce service. Ads may contain "cookies" that appear to be coming from our site. Any cookies that the Math Forum may use during a visit to our site are only valid for the duration of the visit. We do not have access to any information about you from the cookies you may receive while visiting our site.
+This site contains links to other sites. The Math Forum is not responsible for the privacy practices or the content of such Web sites.
 
 ### Public Forums
 
-This site makes mailing lists, Web discussion forums, and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public, and that you should exercise caution when deciding to disclose your personal information. MathForum.com reserves the right to remove any posting that its editors consider inappropriate.
+This site makes mailing lists, Web discussion forums, and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public, and that you should exercise caution when deciding to disclose your personal information. The Math Forum reserves the right to remove any posting that its editors consider inappropriate.
 
 * * *
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [policy@mathforum.com.](mailto:policy@mathforum.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [policy@mathforum.org.](mailto:policy@mathforum.org)
 
 **Postal address:**  
 The Math Forum  
-101 S. Chester Rd., Suite 400  
-P.O. Box 156  
-Swarthmore PA 19081-0156
+3210 Cherry Street  
+Philadelphia, PA 19104
 
 
 
