@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204114624id_/http%3A//www.nhs.uk/england/privacyStatement.cmsx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.nhs.uk privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404101801id_/http%3A//www.nhs.uk/england/privacyStatement.cmsx) for the most accurate reproduction.*
 
 # Privacy Statement
-
-### Privacy Statement
 
 This privacy statement discloses the privacy practices for [www.nhs.uk/England](http://www.nhs.uk/england "NHS England"). It applies solely to this website; links within nhs.uk to other websites are not covered by this Privacy statement.
 
