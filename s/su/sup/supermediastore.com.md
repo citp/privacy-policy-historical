@@ -1,53 +1,53 @@
-> *The following text is extracted and transformed from the supermediastore.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204185922id_/http%3A//supermediastore.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supermediastore.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206154440id_/http%3A//www.supermediastore.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **This site is hosted by Yahoo! Store.**  
-Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information. 
+Yahoo! hosts store pages, order processing system and order data information. Yahoo! automatically collects such information but may only use this information in the aggregation. If you accessed this store through Yahoo! Shopping, Yahoo! also will automatically collect information regarding your shopping experience. Please refer to [**Yahoo! Privacy Policy**](http://privacy.yahoo.com/privacy/us/) for more detail information. 
 
 * * *
 
   
-**We are committed to protecting your privacy online.**   
-We created our Privacy Policy("Policy") in order to demonstrate our firm commitment to protecting the privacy of our shoppers. 
-
-Questions regarding this Policy should be directed to.  
-Sales@Supermediastore.com
+**We are committed to protect your privacy online the best we can.**   
+Questions regarding this policy should be directed to   
+**[sales@supermediastore.com](mailto:sales@supermediastore.com)**
 
 * * *
 
   
-**What information does Supermediastore.com collect from you?**  
-In order to better provide you with numerous products and services, We collect two types of information about its visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, efficient, and customized experience while using our site.  
+**What information does Supermediastore.com collect?**  
+In order to better provide you with numerous products and services, we collect two forms of information which are about visitors: Personally Identifiable Information and Non-Personally Identifiable Information. Our primary goal in collecting information from you is to provide you with a smooth, more efficiency and customized time with our site.  
 
 
 * * *
 
 **Non-Personally Identifiable Information**  
-This refers to information that does not by itself identify a specific individual. We gather certain information about you based upon where you shop on our site in several ways. This information is compiled and analyzed on both a personal and an aggregated basis. This information may include the Web site's Uniform Resource Locator ("URL") that you just came from, which URL you next go to, what browser you are using, and your Internet Protocol ("IP") address. A URL is the global address of documents and other resources on the World Wide Web. An IP address is an identifier for a computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks like the web use the TCP/IP protocol to route information based on the IP address of the destination. In other words, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, allowing web servers to locate and identify your computer. Computers require IP addresses in order for users to communicate on the Internet, browse and shop.
+This refers to information that does not, by itself, identify as a specific individual. We gather certain information about you based on where you shopped at our web site in several ways. This information is then compiled and analyzed on both personally and an aggregatly basis. Such information may include the Web site's Uniform Resource Locator ("URL") information as well as your Internet Protocol ("IP") address. A URL is the global address of documents and resources on the World Wide Web. An IP address is an identifier for computer or device on a Transmission Control Protocol/Internet Protocol ("TCP/IP") network, such as the World Wide Web. Networks use the TCP/IP protocol to route or reroute information based on the IP address of the destination. In another word, an IP address is a number that is automatically assigned to your computer whenever you are surfing the web, which allows web servers to locate and to identify your computer. Computer requires a IP address in order for user to communicate over the Internet.
 
 * * *
 
 **Shopping**  
-We collect IP addresses for the purposes of system administration, to gather broad demographic information, to enable ads to be served on our site, to report Non-Personally Identifiable Information to our advertisers, and to monitor the level of activity on our site. We collect information from visitors to our site regarding the URLs they came from, their IP addresses, domain types (e.g., .com or .org), the browser type used to come to the site, the country, state and telephone area code where their servers are located, the pages of our site that visitors viewed during their visit, and any search terms entered on our site.   
+We collect IP addresses for the purposes of system administration, gathering broad demographic information, enabling ads to be served on our web site, reporting Non-Personally Identifiable Information to our advertisers, and monitoring the level of activity on our site. We collect information from visitors from our site, such as the URLs they came from, their IP addresses, domain types (e.g., .com or .org), browser type, country, state, possiable telephone area code where their servers are located, the pages viewed by customers during their visits, and any search keywords entered on our site.   
 
 
 * * *
 
 **Ordering**  
-When you order from us, we collect personally identifiable information from you. If you order one of our products or services, we will collect and maintain your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information, order number, referring URL, IP address and a password. We collect this, and other information, as disclosed in this Policy, in order to fill your order, to communicate with you about your order and to send you promotional materials. Before confirming your order, you will have the opportunity to review the product order form and make changes and additions to the information it contains and these changes will be automatically kept for future use. **We do not accept any walk-in or Will call orders. All order must be ship, No will call or Walk-in will be accepted.**  
+When you order from us, we collect personally identifiable information from you. If you order one of our products or any services, we will collect your name, e-mail address, billing address, shipping address, telephone number, product information, payment information, order number, referring URL, IP address and a password. We collect such information in order to fill your order, and also in order to get in contact with you regarding your order and/or to send you promotional materials. Before submit your order, you will have the opportunity to review the order and make any changes in addition to the information it has already contained. Such changes might be automatically kept for future use. **We do not accept any walk-in or will call orders. All order must be shipped.**  
 
+
+[](https://web.archive.org/web/20021206154440id_/http%3A//www.supermediastore.com/ssl) Security Measurement All online transactions at Yahoo! Stores are processed with 128-bit industry-standard SSL encryption held by Yahoo Store SSL Authorization Certification Encyption Key. When you enter your private information into the order form, it is transmitted across the Internet in an 128-bit high encrypted (scrambled) form, then decoded when it gets to Yahoo! Store (where your information will be kept). When viewing your data, your information is also been protected by store password, store secure key and will be encrypted until gets to us. For more security issues regarding transations please contact Yahoo! Store for more information.
 
 * * *
 
 **Online Surveys and Polling**  
-In order to improve our services to you, we ask some of our customers to voluntarily complete surveys, which may be collected by an independent third party. Individual survey answers are confidential, although Non-Personally Identifiable Information is collected and disclosed to third parties. If you do not wish to participate in a survey, simply decline to participate when asked.   
+In order to improve our services to you, we ask some of our customers to voluntarily complete surveys, which may be collected by an independent third party. Answers from individual survey are kept confidentially although Non-Personally Identifiable Information is collected and will be disclosed to third parties. If you do not wish to participate in a survey, simply refuse such free service when you have been asked.   
 
 
 * * *
 
 **Contact Information and Third Party Data**  
-If you contact Supermediastore or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect such information in a file specific to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name and e-mail address in order to send you a reply. If other users or third parties send us correspondence about your activities or purchases on our site, we may keep the information in a file specific to you.   
+If you contact Supermediastore or our customer service representatives by telephone, e-mail or letter, we may keep a record of your correspondence or comments. If you report a problem with our site, we may collect information in file which specific related to you. If you contact us through our feedback area or by calling one of our customer service representatives, we may ask for your name and e-mail address in order to send you a reply. If other users or third parties send us correspondence regarding your activities or purchases on our site, we may keep the information in a file specific related to you.   
 
 
 * * *
@@ -100,7 +100,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Attn: Customer Service  
 Supermediastore.com  
-14909 Clark Ave. Suite B  
-City of Industry
+222 S 5th Ave.   
+La Puente, CA 91746
 
-You may also contact us by e-mail at sales@Supermediastore.com
+You may also contact us by e-mail at **[sales@supermediastore.com](mailto:sales@supermediastore.com)**
