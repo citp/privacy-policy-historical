@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashadvance.com privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612080413id_/http%3A//cashadvance.com/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashadvance.com privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014173902id_/http%3A//www.cashadvance.com/privacy/index.shtml) for the most accurate reproduction.*
 
 # Cash Advance.com | Privacy Policy
 
