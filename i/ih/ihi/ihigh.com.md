@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602214214id_/http%3A//ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihigh.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024413id_/http%3A//www.ihigh.com/0%2C1773%2C2_12_0_39558%2C00.html) for the most accurate reproduction.*
 
 # iHigh.com -- The High School Internet Network
 
@@ -57,13 +57,13 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. You may change your contact information (such as email, address, or phone number), or demographic information (such as school name, title, or student body size). 
 
-  1. Log on to [go.ihigh.com](https://web.archive.org/web/20030602214214id_/http%3A//ihigh.com/go.ihigh.com) and click on "Help." 
+  1. Log on to [go.ihigh.com](https://web.archive.org/web/20031205024413id_/http%3A//www.ihigh.com/go.ihigh.com) and click on "Help." 
 
 
 
 ## Partners
 
-In order to present content representing a wide range of interests and specialization, our site partners with other web sites and servers. Our audio/video streams are powered by Alinq. Certain other content is obtained through co-branded pages with other web sites, including but not limited to Standard Deviants, MapQuest, and The Princeton Review. These co-branded pages are used solely for the purpose of presenting content we think is relevant to our audience. No contact information is shared with them.
+In order to present content representing a wide range of interests and specialization, our site partners with other web sites and servers. Our audio/video streams are powered by Alinq. Certain other content is obtained through co-branded pages with other web sites. These co-branded pages are used solely for the purpose of presenting content we think is relevant to our audience. Contact information may be shared with some of these partners. 
 
 ## Contacting the Web Site
 
