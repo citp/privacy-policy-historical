@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelchannel.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004035653id_/http%3A//travel.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelchannel.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601152228id_/http%3A//www.discovery.com/utilities/about/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy -- Travel Channel
+# Privacy Policy -- Discovery.com
 
 Discovery.com respects your privacy, and we want you to understand the ways in which we do and don't use the information that you transmit when you visit our Web site. This statement discloses the privacy practices for all Discovery.com Web sites except for areas of Discovery.com directed to children, including Discovery Kids and the Students area of Discovery School, which have their own policy specially developed to protect kids. 
 
@@ -24,7 +24,7 @@ To help make our sites more responsive to the needs of our visitors, we invoke a
 
 We use cookies to help us tailor our site to your needs, to deliver a better, more personalized service. In addition, we may use cookies to track the pages on our sites visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalized features enjoyed by other visitors to our sites. 
 
-For more about third-party ad servers, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+For more about third-party ad servers, [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
 
 **IP Addresses**  
 Our Web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our sites. (Your IP address is a number that lets computers attached to the Internet know where to send you data — such as the Web pages you view.) Your IP address does not identify you personally. We use this information to deliver our Web pages to you upon request, to tailor our sites to the interests of our users and to measure traffic within our sites. 
@@ -43,10 +43,6 @@ Discovery.com knows that the confidentiality of purchase-related information is 
 **Discovery Travel**  
 We are committed to safeguarding the information you submit to us when you make travel reservations and purchase travel services through Discovery Travel. We will not share any of the personally identifiable information (such as your name, address or telephone number) that you provide when you request information about a trip, make a reservation or purchase travel services through Discovery Travel, except to the company (for example, an airline, tour operator, hotel or travel agent such as Away.com) providing such services. We encourage you to enjoy Discovery Travel and all it has to offer, but please note that if you do request information or reserve or book a trip, it is likely that one of our preferred online travel providers will be fulfilling your request and receiving your personal information. 
 
-**Sweepstakes and Contests**  
-From time to time, Discovery.com may offer contests, sweepstakes or other promotions (collectively "contests") on our sites. If you enter a contest, you'll have to provide information about yourself (such as your name, address, and email address) so that we can contact you if you win. We may share this information with any co-sponsor of the contest (as identified in the rules). If you don't want us to collect the information requested in the contest registration form or to provide it to contest co-sponsors, please don't enter the contest. 
+**A Final Note:** The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes here. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. If you have any questions about our privacy policy, please send an email to [privacy_policy@discovery.com](mailto:privacy_policy@discovery.com). Thanks for making the Discovery.com family of Web sites a part of your discoveries online! 
 
-**A Final Note:**  
-The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes here. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. If you have any questions about our privacy policy, please send an email to [privacypolicy@discovery.com](mailto:privacy_policy@discovery.com). Thanks for making the Discovery.com family of Web sites a part of your discoveries online! 
-
-_Last Updated: June 5, 2001_
+_Last Updated: January 5, 2001_
