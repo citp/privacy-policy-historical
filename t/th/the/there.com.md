@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the there.com privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217171303id_/http%3A//www.there.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the there.com privacy policy that was archived on 2004-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040213220432id_/http%3A//www.there.com/privacy.html) for the most accurate reproduction.*
 
 # TERMS OF SERVICE (TOS): PRIVACY POLICY
 
