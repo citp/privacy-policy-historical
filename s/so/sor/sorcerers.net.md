@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sorcerers.net privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607141349id_/http%3A//www.sorcerers.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorcerers.net privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207221943id_/http%3A//www.sorcerers.net/privacy.htm) for the most accurate reproduction.*
 
 # Sorcerer's Place - Privacy Policy
 
@@ -28,4 +28,4 @@ Sorcerer's Place openly volunteers its practices of collecting information, its 
 
 If we decide to change our privacy policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Regardless of later updates, we will never use the information you submit under this current policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.
 
-**[Top](https://web.archive.org/web/20020607141349id_/http%3A//www.sorcerers.net/privacy.htm#top)**
+**[Top](https://web.archive.org/web/20021207221943id_/http%3A//www.sorcerers.net/privacy.htm#top)**
