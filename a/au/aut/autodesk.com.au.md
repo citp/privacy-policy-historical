@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the autodesk.com.au privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619131429id_/http%3A//www.autodesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodesk.com.au privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204055517id_/http%3A//www.autodesk.com/privacy) for the most accurate reproduction.*
 
 # Autodesk - Legal Notices & Trademarks - Privacy Policy
 
 Privacy Policy
 
- **The privacy practices described in this Privacy Policy, including any changes we may inform you of, apply to our services available under the domain and sub-domains of**[ **www.autodesk.com**](http://www.autodesk.com/) **and apply generally to all of our websites and wholly owned subsidiary websites. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our services.**
+ **The privacy practices described in this Privacy Policy, including any changes we may inform you of, apply to our services available under the domain and sub-domains of**[www.autodesk.com](http://www.autodesk.com/) **and apply generally to all of our websites and wholly owned subsidiary websites. By visiting this website you agree to be bound by the terms and conditions of this Privacy Policy. If you do not agree, please do not use or access our services.**
 
 As described below, your information may be collected by Autodesk, Inc. (“Autodesk”), disclosed to third parties, and used by third parties and Autodesk. This Privacy Policy describes the information we collect about you and what may happen to that information. Although this policy may seem lengthy, we have prepared a detailed policy because we believe you should know as much as possible about Autodesk's practices. All Autodesk controlled websites and the websites of our subsidiaries operate under similar privacy practices as described in this Privacy Policy and, subject to the requirements of applicable law, we strive to provide a consistent set of privacy practices globally. 
 
