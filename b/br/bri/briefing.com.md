@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205100642id_/http%3A//www.briefing.com/About_/CorpInfo/ci_Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625112221id_/http%3A//www.briefing.com/About_/CorpInfo/ci_Privacy.htm) for the most accurate reproduction.*
 
 # Briefing.com: Privacy Statement
 
