@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the pta.gov.pk privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604204803id_/http%3A//www.pta.gov.pk/others/pp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pta.gov.pk privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206195101id_/http%3A//www.pta.gov.pk/others/pp.htm) for the most accurate reproduction.*
 
 # New Issues / Challenges - Pakistan Telecommunication Authority
 
-[pta.gov.pk](http://www.pta.gov.pk/)  is committed to protecting your privacy and to making your online experience secure, comfortable, valuable and pleasant.
+[www.pta.gov.pk](http://www.pta.gov.pk/)  is committed to protecting your privacy and to making your online experience secure, comfortable, valuable and pleasant.
 
 We do not collect any information about you unless you choose to provide that information. We may share necessary data with other Government agencies and departments. However, information collected by us is used only for official purposes, internal reviews, improvement of the content of our Website, customization of the content and layout of our Website and to contact users. We do not use, share or pass on your information for commercial purposes.
 
 All record keepers face the possibility of disclosure of their records in some civil, criminal, or administrative matter. PTA could be required to disclose personal information in response to valid legal processes such as a search warrant, subpoena, or court order. Disclosures may also be necessary to protect the PTA's legal rights or during emergencies if physical safety is believed to be at risk. 
 
-##  What Information About Users Does pta.gov.pk Collect?
+##  What Information About Users Does www.pta.gov.pk Collect?
 
 We consider any information that could reasonably be used to identify you as "personally identifying information." The PTA does not retain personally identifiable information about you when you visit our Website unless you choose to provide such information to us (i.e. sending an e-mail, registering as a user, participating in a survey, responding to a feedback or "contact us" form, etc.)
 
