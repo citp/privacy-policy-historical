@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603112904id_/http%3A//thebody.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebody.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214141827id_/http%3A//thebody.com/privacy.html) for the most accurate reproduction.*
 
 # The Body's Privacy Policy
 
