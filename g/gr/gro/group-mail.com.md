@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208142108id_/http%3A//group-mail.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the group-mail.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603220649id_/http%3A//group-mail.com/privacy.asp%3Fa%3Dftr) for the most accurate reproduction.*
 
 # infacta.com - privacy and security policy
 
@@ -6,7 +6,7 @@
 **Privacy Policy**  
 
 
-All of us at infacta take your privacy and security very seriously. This privacy statement discloses our information practices and declares our data collection methods, usage and confidentiality policies throughout our site.
+All of us at Infacta take your privacy and security very seriously. This privacy statement discloses our information practices and declares our data collection methods, usage and confidentiality policies throughout our site.
 
 Different areas of this site may incorporate their own set of policies depending on the respective services offered and the data collection requirements.  A separate policy is described for each area.
 
@@ -16,15 +16,17 @@ This site is fully compliant with the [W3C Platform for Privacy Preferences Init
 
 **1\. Policy Scope  
 **  
-This policy applies to all areas of the infacta website with the exception of the customer resources area which is governed by a separate privacy policy.  It is the responsibility of linked websites to provide their own privacy policies and we are not responsible for the privacy practices or content of any such websites.
+This policy applies to all areas of the Infacta website with the exception of the customer resources and promotions areas which are governed by separate privacy policies.  It is the responsibility of linked websites to provide their own privacy policies and we are not responsible for the privacy practices or content of any such websites.
 
-**2\. The infacta Announcement Group.**  
+**2\. The Infacta Announcement Group.**  
 
 While browsing our site you may see several opportunities to subscribe to our product announcement group, to join this we require you to provide your e-mail address. We use this address to notify you of new software releases, updates and special offers. For your convenience, each announcement contains instructions on how to be removed from all future mailings. We do not make your e-mail address available to any third parties. Please note that customers are automatically added to this list/group.
 
 **3\. During Software Purchase.**  
 
-It is important to note that infacta does not process orders directly. We use reputable  ecommerce companies to do this on our behalf using the very latest in secure transmission technologies. It is very important for these companies to keep accurate purchase records. Immediately after you purchase one of our products our ecommerce partner will notify us and will pass your contact information (e.g. name, company name, postal address, email address, telephone and fax number) together with some limited purchase order information (e.g. purchase date, order reference number, product code, product name, quantity, price and any delivery options).  This data is used to enable us to email you with necessary product unlock codes, to identify you in order to give you the full benefits of your purchase including free technical support and upgrade eligibility and to enable us to set up a user account providing you with access to our customer resources area.  For security purposes the ip address of this transaction may be recorded.  Please note that we do not receive a copy of your actual payment details (such as credit card numbers or wire transfer details). We do not make any of this information available to any third parties. To learn more about our ecommerce vendors and their privacy & security policies, go to their respective web sites: 
+It is important to note that Infacta does not process orders directly. We use reputable  ecommerce companies to do this on our behalf using the very latest in secure transmission technologies. It is very important for these companies to keep accurate purchase records. Immediately after you purchase one of our products our ecommerce partner will notify us and will pass your contact information (e.g. name, company name, postal address, email address, telephone and fax number) together with some limited purchase order information (e.g. purchase date, order reference number, product code, product name, quantity, price and any delivery options).  This data is used to enable us to email you with necessary product unlock codes, to identify you in order to give you the full benefits of your purchase including free technical support and upgrade eligibility and to enable us to set up a user account providing you with access to our customer resources area.  For security purposes the ip address of this transaction may be recorded.  Please note that we do not receive a copy of your actual payment details (such as credit card numbers or wire transfer details). We do not make any of this information available to any third parties. To learn more about our ecommerce vendors and their privacy & security policies, go to their respective web sites: 
+
+Plimus: [ http://www.plimus.com/jsp/privacy.htm](http://www.plimus.com/jsp/privacy.htm)
 
 Emetrix: [ http://www.emetrix.com/company/privacy.asp](http://www.emetrix.com/company/privacy.asp)
 
@@ -34,7 +36,7 @@ RegSoft: [ http://www.regsoft.com/privacy statement.shtml](http://www.regsoft.co
 
 Some of our products contain technical support wizards which help us to provide a higher level of support. When you use this software you have full control over what is sent back to our support staff. You can also have an exact copy of the data being returned to us sent to you also. This information (settings, hardware spec, and log files) is only used for the purpose of support and our copy is destroyed once your issue is dealt with. 
 
-Please note that when you contact infacta support any details you provide us are used only to help solve any issues you have and are destroyed once your issue is dealt with. 
+Please note that when you contact Infacta support any details you provide us are used only to help solve any issues you have and are destroyed once your issue is dealt with. 
 
 We do not make any of this information available to any third parties.  
 
