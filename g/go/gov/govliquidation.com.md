@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203023749id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govliquidation.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603224323id_/http%3A//www.govliquidation.com/privacy.html) for the most accurate reproduction.*
 
 # Surplus items auction, discount surplus inventories marketplace, wholesale closeouts
 
