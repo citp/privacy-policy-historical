@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602022307id_/http%3A//www.surfnetkids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfnetkids.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211174953id_/http%3A//www.surfnetkids.com/privacy.htm) for the most accurate reproduction.*
 
 # Surfing the Net with Kids: Privacy Policy
 
@@ -11,8 +11,6 @@ Opt-in customized mailing lists are managed by industry leader PostMasterDirect.
 Demographic information is used only in aggregate to provide advertisers with more information about the "Surfing the Net" audience. Any email addresses posted on the site (in user submitted posts on the bulletin board) are optional and are posted ONLY with the user's permission. 
 
 IP addresses and cookies are used to accurately serve banner ads, to assure that when you click on an ad, you are sent to the correct site -- and to insure that you are only served one pop-up window offering you a free newsletter subscription. With cookies turned off, you will get the pop-up offer EVERYTIME you visit the site. 
-
-"Surfing the Net with Kids" uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data about your visit to this and other Web sites, typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [http://www.engage.com/privacy](https://web.archive.org/cgi-local/go.cgi?http://www.engage.com/privacy). 
 
 "Surfing the Net" uses WebTrends Live to analyze traffic to this web site. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendslive.com/privacy_policy.htm). 
 
