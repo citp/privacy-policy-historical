@@ -1,570 +1,49 @@
-<!--The following is the downloaded HTML source of the wordtopdf.com privacy policy that was archived on 2004-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606001657id_/http%3A//www.datafabrication.com/main_content.asp%3Fpageid%3D180) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wordtopdf.com privacy policy that was archived on 2004-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041209055350id_/http%3A//www.datafabrication.com/main_content.asp%3Fpageid%3D180) for the most accurate reproduction.-->
 
-<html><head><meta name="Description" content="eCommerce products and services, internet faxing products, and custom application and web development.  see: web design,web development,web designer,ecommerce,e-commerce,web programming,web marketing,internet development,web design company,website marketing,chicago web design,e-commerce development,web design illinois,ecommerce development,e-commerce developer,ecommerce developer">
-<meta name="Keywords" content="internet fax,fax,fax from word,fax products,web design,web development,web designer,ecommerce,e-commerce,web programming,web marketing,internet development,web design company,website marketing,chicago web design,e-commerce development,web design illinois,ecommerce development,e-commerce developer,ecommerce developer">
+<html><head>
+<meta name="Description" content="Internet fax products, ecommerce products and services, and custom application and web development. data fabrication,internet fax,fax,fax from word,fax products,web design,web development,web designer,ecommerce,e-commerce,web programming,web marketing,internet development,web design company,website marketing,chicago web design,e-commerce development,web design illinois,ecommerce development,e-commerce developer,ecommerce developer">
+<meta name="Keywords" content="data fabrication,internet fax,fax,fax from word,fax products,web design,web development,web designer,ecommerce,e-commerce,web programming,web marketing,internet development,web design company,website marketing,chicago web design,e-commerce development,web design illinois,ecommerce development,e-commerce developer,ecommerce developer">
+<meta name="ROBOTS" content="INDEX,FOLLOW">
+<meta name="author" content="Data Fabrication Data Fabrication">
+<meta http-equiv="CONTENT-LANGUAGE" content="English">
 <meta http-equiv="Pragma" content="no-cache">
 
-	<script language="javascript">
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		general_functions_js.asp
-//::		created: christopher j falvey (05.13.01)
-//::
-//::		version: 2.0
-//::	 	desc: general javascript functions
-//::
-//::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		javascript globals
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-var giMouseX
-var giMouseY
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 captureMouseMove
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-function captureMouseMove(e)
-{
-	
-}
-
-document.onmousemove = captureMouseMove;
-
-
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		javascript functions
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 popUp
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-function popUp(sUrl , iWidth , iHeight , bScrollBars)
-{
-	sPageName = "DFPopUp"
-	window.open(sUrl , sPageName , "status=1,scrollbars=" + bScrollBars + ",width=" + iWidth + ",height=" + iHeight + ",resizable=yes");
-}
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 popUpWindow
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-function popUpWindow(sUrl , sWin, iWidth , iHeight , bScrollBars)
-{
-	window.open(sUrl , sWin , "status=1,scrollbars=" + bScrollBars + ",width=" + iWidth + ",height=" + iHeight + ",resizable=yes");
-}
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 flipImage
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-function flipImage(sImageName , sFlipTo , sExtension)
-{
-	document.images[sImageName].src = "images/" + sImageName + "_" + sFlipTo + "." & sExtension
-}
-
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 refreshPage
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-function refreshPage()
-{
-	document.location = document.location
-}
-
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 getStyleAttribute
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-function getStyleAttribute(sID , sAttribute)
-{
-	
-		sCurrentTop = new String(eval("document." + sID + "." + sAttribute))
-	
-
-	return sCurrentTop
-
-}
-
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 setStyleAttribute
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-function setStyleAttribute(sID , sAttribute , sValue)
-{
-	
-		sStyleToSet = "document." + sID + "." + sAttribute + "='" + sValue + "'"
-	
-	
-	eval(sStyleToSet)
-}
-
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 moveDiv
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-function moveDiv(sID , sAttribute , iValue)
-{
-
-	iCurrentPos = getStyleAttribute(sID , sAttribute)
-	iCurrentPos = cPxToInt(iCurrentPos)
-	
-	sNextTopNumber = new String(iCurrentPos + iValue)
-	sNextPos = sNextTopNumber + "px"
-	setStyleAttribute(sID , sAttribute , sNextPos)
-
-}
-
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 cPxToInt
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-function cPxToInt(sPx)
-{
-	iInt = Number(sPx.replace(/px/gi,""))
-	return iInt
-}
-
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 getRandomNumber
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-function getRandomNumber(iBeginNum , iEndNum)
-{
-	iNumberToSend = iBeginNum - 1
-	while(iNumberToSend < iBeginNum || iNumberToSend > iEndNum)
-	{
-		iNumberToSend = iBeginNum + (Math.random() * iEndNum)
-	}
-		return Math.round(iNumberToSend)
-}
-
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 (decimal to hex functions)
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-function cHex(i) 
-{
-	a2 = ''
-	ihex = hexQuot(i);
-	idiff = eval(i + '-(' + ihex + '*16)')
-	a2 = itohex(idiff) + a2;
-	while( ihex >= 16) 
-	{
-		itmp = hexQuot(ihex);
-		idiff = eval(ihex + '-(' + itmp + '*16)');
-		a2 = itohex(idiff) + a2;
-		ihex = itmp;
-	} 
-	a1 = itohex(ihex);
-	return a1 + a2 ;
-}
-
-
-function hexQuot(i) 
-{
-      return Math.floor(eval(i +'/16'));
-}
-
-
-function itohex(i)
-{
-	if(i == 0){aa = '0'}
-	if(i == 1){aa = '1'}
-	if(i == 2){aa = '2'}
-	if(i == 3){aa = '3'}
-	if(i == 4){aa = '4'}
-	if(i == 5){aa = '5'}
-	if(i == 6){aa = '6'}
-	if(i == 7){aa = '7'}
-	if(i == 8){aa = '8'}
-	if(i == 9){aa = '9'}
-	if(i == 10){aa = 'A'}
-	if(i == 11){aa = 'B'}
-	if(i == 12){aa = 'C'}
-	if(i == 13){aa = 'D'}
-	if(i == 14){aa = 'E'}
-	if(i == 15){aa = 'F'}
-	
-	return aa
-}
-
-</script><script language="javascript">
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		functions_js.asp
-//::		created: 
-//::
-//::		version: 0.0
-//::	 	desc: site-specific javascript functions
-//::
-//::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		javascript functions
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-//::		 functionName
-//::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-
-
-
-
-</script>
-
-<!-- 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::		style sheets
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
--->
-
-<style type="text/css">
-
-<!-- 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::		body text
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
--->
-
-BODY
-{
-	font-family: arial,helvetica;
-	font-size: 12px;
-	color: #000000;
-	text-align: left;
-
-}
-
-TABLE
-{
-	font-family: arial,helvetica;
-	font-size: 12px;
-	color: #000000;
-	text-align: left;
-
-}
-
-TR
-{
-	font-family: arial,helvetica;
-	font-size: 12px;
-	color: #000000;
-	text-align: left;
-
-}
-
-
-
-TD
-{
-	font-family: arial,helvetica;
-	font-size: 12px;
-	color: #000000;
-	text-align: left;
-}
-
-.leftJustify
-{
-	text-align:left;
-	font-family: arial,helvetica;
-	font-size: 12px;
-	color: #000000;
-}
-
-.centerJustify
-{
-	text-align:center;
-}
-
-.rightJustify
-{
-	text-align:right;
-}
-
-.tiny
-{
-	font-family: arial,helvetica;
-	color: #000000;
-	text-align:right;
-	font-size: 9px;
-}
-
-BODY
-{
-scrollbar-face-color: #70816D;
-scrollbar-arrow-color: #FFFFCD;
-scrollbar-highlight-color: #A9B3A7;
-scrollbar-3dlight-color: #A9B3A7;
-scrollbar-darkshadow-color: #2D342C;
-scrollbar-track-color: #000000;
-scrollbar-shadow-color: #434D41;
-}
-
-
-FORM
-{
-	font-family: arial,helvetica;
-	font-size: 11px;
-	color: #000000;
-}
-
-INPUT
-{
-	font-family: arial,helvetica;
-	font-size: 11px;
-	color: #000000;
-}
-
-A:ACTIVE
-{
-	font-family: arial,helvetica;
-	font-size: 12px;
-	text-decoration: underline;
-	color:#003300;
-}
-
-A:LINK
-{
-	font-family: arial,helvetica;
-	font-size: 12px;
-	text-decoration: underline;
-	color:#003300;
-}
-
-A:VISITED
-{
-	font-family: arial,helvetica;
-	font-size: 12px;
-	text-decoration: underline;
-	color:#003300;
-}
-
-
-
-
-A:HOVER
-{
-	text-decoration: underline;
-	color:#003300;
-}
-
-
-a.newsLink:link { text-decoration: underline; color:#FFFFCD;}
-a.newsLink:visited { text-decoration: underline; color:#FFFFCD;}
-a.newsLink:active { text-decoration: underline; color:#FFFFCD;}
-a.newsLink:hover { text-decoration: underline; color:#FFFFFF;}
-
-
-<!-- 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::		forms
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
--->
-
-SELECT
-{
-	font-family: arial,helvetica;
-	font-size: 12px;
-}
-
-INPUT
-{
-	text-decoration: none;
-	font-family: ;
-	font-size: 12px;
-	color: black;
-}
-
-TEXTAREA
-{
-	text-decoration: none;
-	font-family: ;
-	font-size: 12px;
-	color: black;
-}
-
-
-<!-- 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-::		classes
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
--->
-
-.textJustify
-{
-	text-align:left;
-}
-
-.navLinkText
-{
-	text-align:right;
-}
- 
-.newsLink
-{
-	color: FFFFCD;
-	font-weight: bold;
-	text-align: left;
-}
-
-
-.htmlHeadline
-{
-	font-weight: bold;
-	font-size:  14px;
-	text-align: left;
-}
-
-.smallHeadline
-{
-	font-weight: bold;
-	font-size:  11px;
-	text-align: left;
-}
-
-.newsHeadline
-{
-	font-weight: bold;
-	font-size: 20px;
-	text-align: left;
-}
-
-
-.newsSubHeadline
-{
-	font-weight: bold;
-	font-size: 15px;
-	text-align: left;
-}
-
-
-.newsSideHeadline
-{
-	font-weight: bold;
-	font-size: 10px;
-	text-align: left;
-}
-
-.newsSideDate
-{
-	color: #B8C09D;
-	font-size: 10px;
-	text-align: left;
-}
-
-.bioName
-{
-	font-weight: bold;
-	font-size: 15px;
-	text-align: left;
-}
-
-.formButton
-{
-	font-family: arial,helvetica;
-	font-size: 15px;
-	color: #003300;
-	font-weight: bold;
-}
-
-.faqQuestion
-{
-	font-weight: bold;
-	font-size: 13px;
-}
-
-
-.contentBottom
-{
-	color: #666652;
-	font-size: 10px;
-}
-
-.supportText
-{
-	color: #660000;
-}
-
-.customerText
-{
-	color: #003300;
-}
-
-</style>
-
-	<title>Data Fabrication: eCommerce products and services, internet faxing products, and custom application and web development.</title>
+	<script language="JavaScript" src="http://www.datafabrication.com/functions_js.asp" type="text/javascript"></script>
+	<link rel="stylesheet" href="http://www.datafabrication.com/functions_css.asp?pagecolor=%237D7D7D&amp;pagecolorlink=%23003300" type="text/css">
+	<title>Data Fabrication: Internet fax products, ecommerce products and services, and custom application and web development. data fabrication,internet fax,fax,fax from word,fax products,web design,web development,web designer,ecommerce,e-commerce,web programming,web marketing,internet development,web design company,website marketing,chicago web design,e-commerce development,web design illinois,ecommerce development,e-commerce developer,ecommerce developer</title>
 </head>
 
 	
-	<body bgcolor="#FFFFCD" text="#000000" link="#003300" alink="#003300" vlink="#003300" background="images/bg.gif" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+	<body bgcolor="#FFFFCD" text="#000000" link="#003300" alink="#003300" vlink="#003300" background="http://www.datafabrication.com/images/bg.gif" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
 	
 	
 	<!-- DF_SESSION_PAGECOUNT(1) -->
-	<!-- DF_SERVER_IP(69.3.228.230) -->
+	<!-- DF_SERVER_IP(69.44.157.205) -->
+	<!-- DF_REFERENCE(default) -->
+	<!-- DF_LOGGING_SERIAL(041208235343_1054447825) -->
 	
 	
 		
 		<table width="750" cellpadding="0" cellspacing="0" border="0">
-			<tbody><tr><td width="290"><a href="main_content.asp?pageid=1"><img src="images/aff_default/topLeft.gif" width="290" height="40" border="0"></a></td>
-			<td width="460"><img src="images/topRight_buffer.gif" width="20" height="40" alt="" border="0"><a href="main_content.asp?pageid=207" "=""><img src="images/topRight_207_off.gif" width="88" height="40" border="0"></a><a href="main_content.asp?pageid=2" "=""><img src="images/topRight_2_off.gif" width="88" height="40" border="0"></a><a href="main_content.asp?pageid=3" "=""><img src="images/topRight_3_off.gif" width="88" height="40" border="0"></a><a href="main_news.asp?pageid=4" "=""><img src="images/topRight_4_off.gif" width="88" height="40" border="0"></a><a href="main_contact.asp?pageid=5" "=""><img src="images/topRight_5_off.gif" width="88" height="40" border="0"></a></td>
+			<tbody><tr><td width="290"><a href="http://www.datafabrication.com/main_content.asp?pageid=1"><img src="http://www.datafabrication.com/images/aff_default/topLeft.gif" width="290" height="40" border="0" alt="data fabrication"></a></td>
+			<td width="460"><img src="http://www.datafabrication.com/images/topRight_buffer.gif" width="20" height="40" alt="internet fax" border="0"><a href="http://www.datafabrication.com/main_content.asp?pageid=207"><img src="http://www.datafabrication.com/images/topRight_207_off.gif" width="88" height="40" border="0" alt="fax"></a><a href="http://www.datafabrication.com/main_content.asp?pageid=2"><img src="http://www.datafabrication.com/images/topRight_2_off.gif" width="88" height="40" border="0" alt="fax from word"></a><a href="http://www.datafabrication.com/main_content.asp?pageid=3"><img src="http://www.datafabrication.com/images/topRight_3_off.gif" width="88" height="40" border="0" alt="fax products"></a><a href="http://www.datafabrication.com/main_contact.asp?pageid=5"><img src="http://www.datafabrication.com/images/topRight_5_off.gif" width="88" height="40" border="0" alt="web design"></a><img src="http://www.datafabrication.com/images/topRight_end.gif" width="88" height="40" alt="" border="0"></td>
 		</tr></tbody></table>
 		<table width="750" cellpadding="0" cellspacing="0" border="0" bgcolor="#7D7D7D">
-			<tbody><tr><td width="420"><img src="images/topImage_left_12.gif" width="420" height="131" border="0"></td>
-			<td width="330"><img src="images/aff_default/topImage_right_default.gif" width="330" height="131" border="0"></td>
+			<tbody><tr><td width="420"><img src="http://www.datafabrication.com/images/topImage_left_5.gif" width="420" height="131" border="0" alt="web development"></td>
+			<td width="330"><img src="http://www.datafabrication.com/images/aff_default/topImage_right_default.gif" width="330" height="131" border="0" alt="web development"></td>
 		</tr></tbody></table>
 		<table width="750" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr><td width="290" valign="top">
-			<img src="images/dot_clear.gif" width="290" height="30" border="0"><br>
+			<img src="http://www.datafabrication.com/images/dot_clear.gif" width="290" height="30" border="0"><br>
 	
 			
 			
-			<a href="main_content.asp?pageid=180"><img src="images/navHeader_180.gif" width="285" height="29" border="0"></a>
+			<a href="http://www.datafabrication.com/main_content.asp?pageid=180"><img src="http://www.datafabrication.com/images/navHeader_180.gif" width="285" height="29" border="0"></a>
 			<table width="285" cellpadding="0" cellspacing="0" border="0">
 				<tbody><tr><td valign="center">
 				<div align="center">
-				<img src="images/side_contact.gif" width="260" height="132" alt="" border="0">
+				<img src="http://www.datafabrication.com/images/side_contact.gif" width="260" height="132" alt="" border="0">
 				</div>
 				</td>
 			</tr></tbody></table>
@@ -574,11 +53,11 @@ TEXTAREA
 			<p>
 			
 			</p></td>
-			<td width="10" valign="top"><img src="images/dot_clear.gif" width="10" height="500" border="0"></td>
-			<td width="440" valign="top" background="images/content_bg_12.gif">
+			<td width="10" valign="top"><img src="http://www.datafabrication.com/images/dot_clear.gif" width="10" height="500" border="0"></td>
+			<td width="440" valign="top" background="http://www.datafabrication.com/images/content_bg_4.gif">
 			<!-- <div style="line-height:170%;"> -->
 			
-			<img src="images/dot_clear.gif" width="200" height="10" alt="" border="0">
+			<img src="http://www.datafabrication.com/images/dot_clear.gif" width="200" height="10" alt="" border="0">
 			<br>
 		
 		
@@ -684,27 +163,33 @@ This Web site is maintained by Data Fabrication or one of its subsidiaries.
 
 				<!-- </div> -->
 				
+				
+				
 				</p><p>
-				<img src="images/content_dottedLine.gif" width="440" height="3" alt="" border="0">
+				<img src="http://www.datafabrication.com/images/content_dottedLine.gif" width="440" height="3" alt="" border="0">
 				<br>
-				<span class="contentBottom">Copyright © 1997-2004, Data Fabrication, Inc.  All Rights Reserved.</span><br>
-				<span class="contentBottom"><a href="main_content.asp?pageid=180">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="main_content.asp?pageid=181">Legal</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="main_contact.asp?pageid=5">Contact Us</a></span>
+				<span class="contentBottom">Copyright © 1997-2004, Data Fabrication, Inc..  All Rights Reserved.</span><br><span class="contentBottom"><a href="http://www.datafabrication.com/">Data Fabrication</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.datafabrication.com/main_sitemap.asp?pageid=213">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.datafabrication.com/main_content.asp?pageid=180">Privacy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.datafabrication.com/main_content.asp?pageid=181">Legal</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.datafabrication.com/main_contact.asp?pageid=5">Contact Us</a></span>
 				
 				
-				<br><img src="images/dot_clear.gif" width="10" height="20" alt="" border="0">
+				<br><img src="http://www.datafabrication.com/images/dot_clear.gif" width="10" height="20" alt="" border="0">
 				
 				</p></td>
-				<td width="10" valign="top"><img src="images/dot_clear.gif" width="10" height="300" alt="" border="0"></td>
+				<td width="10" valign="top"><img src="http://www.datafabrication.com/images/dot_clear.gif" width="10" height="300" alt="" border="0"></td>
 			</tr></tbody></table>
 			
 		
-	
+		
+		<br>
+		<img src="http://logging.dfhosting.com/log_site.asp?api=true&amp;sitename=datafabrication.com&amp;pagename=main_content.asp&amp;sessionserial=041208235343_1054447825&amp;sessioncount=1&amp;sessionuser=&amp;pageid=180&amp;referer=(none)&amp;server=69.44.157.205&amp;reference=default&amp;affiliate=default&amp;subsitename=DF" width="1" height="1" alt="" border="0">
+		
+		
+		
 	
 
 
 	
 	
-	<!-- DF_PAGE_RUNTIME(0.1250) -->
+	<!-- DF_PAGE_RUNTIME(1.2813) -->
 	
 	
 
