@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roanoke.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604234950id_/http%3A//www.roanoke.com/services/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roanoke.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204043412id_/http%3A//roanoke.com/services/privacy.html) for the most accurate reproduction.*
 
-# roanoke.com - Services Pages -Privacy Policy
+# roanoke.com - Services Pages - Privacy Policy
 
 Updated 4/14/2004
 
@@ -12,12 +12,6 @@ The following privacy policy applies to The Roanoke Times, roanoke.com and other
 
 **Your personal information**  
 Roanoke.com.com collects personally identifiable information (name, e-mail address, etc.) and/or demographic data (zip code, gender, interests, etc.) that you submit when you: 
-
-  * Order a subscription to The Roanoke Times 
-  * Complete a survey Register for a promotion or contest or sweepstakes 
-  * Send us an e-mail 
-  * Place a classified ad Join a discussion board (you can opt out) 
-  * Comment on news stories you send to a friend 
 
 Transaction information is encrypted and retained in a database, not on a Web site. 
 
@@ -55,9 +49,3 @@ Our partners and other Internet sites or services that may be accessible through
 
 **How to contact us**  
 For any questions or comments regarding our privacy policy, you may contact us: 
-
-  * by e-mail: [Jim Ellison](mailto:jim.ellison@roanoke.com), online editor 
-  * by phone: (540) 981-3198 or (800) 346-1234 ext. 198 
-  * by regular mail: Roanoke.com 201 W. Campbell Ave. Roanoke, Va. 24010 
-
-
