@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601120001id_/http%3A//250free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 250free.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203030106id_/http%3A//www.250free.com/privacy.php) for the most accurate reproduction.*
 
 # 250Free.com - Get your 250 Megabyte homepage free! Build your website free!
 
@@ -18,15 +18,19 @@ By signing up for a free account, you agree to receive periodic emails from 250F
 
 **Use of Personal Information**
 
-With the exception of the following case, under no circumstances will your personal information be shared, sold, or given away to any third party.  Credit Card information is held securely by a third party billing company who specializes in secure transactions.   Premium members may inquire about our billing company by visiting [http://www.ccbill.com](http://www.ccbill.com/).  All other personal information, if collected, is held at 250Free in a restricted, non-web accessible area.
+With the exception of the following case, under no circumstances will your personal information be shared, sold, or given away to any third party.  Credit Card information is shared securely with a third party billing company who specializes in secure credit card transactions.  All other personal information, if collected, is held at 250Free in a restricted, non-web accessible area.
 
 **Cookie Tracking**
 
-250Free utilizes cookies solely for the convenience of the user.  Cookies store such information as preferences, last page visited, etc.   We will never use cookies to track your surfing habits outside of 250Free.  To disable Cookies in Netscape 4.xx, go to menu Edit->Preferences and select 'Advanced'.  In Netscape 6, go to menu Edit->Preferences, and select 'Advanced', then 'Cookies'.  In Internet Explorer 5 and 6, go to menu Tools->Internet Options and select the Security tab, then push the 'Custom Level' button.  Scroll down to the 'Cookies' section and select your preference.  Note that disabling cookies may prevent some features from functioning.
+250Free utilizes cookies solely for the convenience of the user.  Cookies store such information as preferences, last page visited, etc.  To disable Cookies in Netscape 4.xx, go to menu Edit->Preferences and select 'Advanced'.  In Netscape 6, go to menu Edit->Preferences, and select 'Advanced', then 'Cookies'.  In Internet Explorer 5 and 6, go to menu Tools->Internet Options and select the Security tab, then push the 'Custom Level' button.  Scroll down to the 'Cookies' section and select your preference.  Note that disabling cookies may prevent some features from functioning.
 
-**Advertising.com**
+**Third Party Cookies**
 
-We may utilize the advertising services of Advertising.com at 250Free.  Advertising.com invites you to review their privacy policy at <http://www.advertising.com/privacy_policy.htm> .
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+
+**Third Party Advertising**
+
+We use MaxWorldwide and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/optout_nonppii.asp>
 
 **Questions or Concerns**
 
