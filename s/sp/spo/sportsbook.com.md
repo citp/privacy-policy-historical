@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622114839id_/http%3A//sportsbook.com/misc/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbook.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207053321id_/http%3A//sportsbook.com/misc/privacy.html) for the most accurate reproduction.*
 
-# sportsbook.com - Sports Book and Casino Wagering
+# Casino, Online Casino, Gambling, Bet, Sportsbook
 
 Sportsbook.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.sportsbook.com.
 
