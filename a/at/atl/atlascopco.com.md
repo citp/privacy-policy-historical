@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlascopco.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009144106id_/http%3A//atlascopco.com/AC/ac.nsf/docs/Legal%2BNotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlascopco.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305021401id_/http%3A//www.atlascopco.com/AC/ac.nsf/docs/Legal%2BNotice) for the most accurate reproduction.*
 
 # 
 
