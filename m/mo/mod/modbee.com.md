@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the modbee.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203030538id_/http%3A//www.modbee.com/standing/help/story/715247p-776292c.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modbee.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603162303id_/http%3A//www.modbee.com/standing/help/story/715247p-776292c.html) for the most accurate reproduction.*
 
-# Modbee.com | Help
-
-## 
-
-The Modesto Bee's Privacy Policy
-
-* * *
+# Modbee.com | The Modesto Bee
 
 The Modesto Bee has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them. That is why we have adopted the following policy, which explains our position on information-gathering and disclosure. 
 
