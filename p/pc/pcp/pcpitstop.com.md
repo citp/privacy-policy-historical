@@ -1,11 +1,20 @@
-> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208034100id_/http%3A//pcpitstop.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603082551id_/http%3A//www2.pcpitstop.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
   
-|   | 
+| [ ](https://web.archive.org/web/20010603082551id_/http%3A//www2.pcpitstop.com/offsite.asp?http://www.totaltech.com)  
+---  
+[](https://web.archive.org/ads/adredir.asp?url=http://www.qksrv.net/click-706446-310062&image=http://www.qksrv.net/image-706446-310062)  
+[](https://web.archive.org/ads/adredir.asp?url=http://www.qksrv.net/click-706446-1492741&image=http://www.qksrv.net/image-706446-1492741)  
+[](https://web.archive.org/web/20010603082551id_/http%3A//www2.pcpitstop.com/linkto.asp)  
+[](https://web.archive.org/web/20010603082551id_/http%3A//www2.pcpitstop.com/offsite.asp?http://www.microsoft.com/windows/Ie/default.htm)  
+   
+  | 
 
-**Effective March 1, 2000**  
+**Effective March 1, 2000**
+
+Appended March 16, 2001  
 Appended November 1, 2000 
 
 |  | 
@@ -14,6 +23,15 @@ Your privacy is important to us. By participating in the Council of Better Busin
 
 |   
 ---|---|---  
+| 
+
+* * *
+
+_Other content certifications:_
+
+[](https://web.archive.org/web/20010603082551id_/http%3A//www2.pcpitstop.com/offsite.asp?http://www.icra.org)
+
+|   
    
   
 #### **Privacy Policy Table of Contents**
@@ -62,12 +80,16 @@ The information we collect about your PC is stored in our database, analyzed, th
 
 In some cases, AutoFixes are made available to correct specific settings on your system. AutoFixes are compact utilities written by PC Pitstop that you use voluntarily; they are never downloaded or executed without your permission, and an explanation detailing what changes will be made accompanies each fix. While the changes an AutoFix makes may not always be reversible, the utilities themselves are easily removable: Simply delete the AutoFix file from the directory to which you downloaded it. For more on PC Pitstop AutoFixes, see <http://www.pcpitstop.com/pcpitstop/AutoFix.asp>. 
 
-The personal information that you voluntarily give us (name and e-mail address) is kept strictly confidential. Your address will not be sold or made available outside of PC Pitstop. We only use your e-mail address to assist in our correspondence with you if you have a question or concern about your test results. Also, PC Pitstop periodically distributes an e-mail newsletter to your e-mail address. You choose whether you want to receive mail from us when you create your login. If you submit your e-mail address to us for testing purposes, but later decide not to receive the newsletter, you can remove yourself from the mailing list: 
+The personal information that you voluntarily give us (name and e-mail address) is kept strictly confidential. Your address will not be sold or made available outside of PC Pitstop. We only use your e-mail address to assist in our correspondence with you if you have a question or concern about your test results. 
+
+PC Pitstop's [TechExpress](https://web.archive.org/techexpress/default.asp) feature gives users the opportunity to e-mail their tests results to friends, colleagues or support technicians. The feature will send a unique link to a user's results (with no password-protection) to an e-mail address(es) he/she specifies. The link will work for only one week from the time it was mailed. However, once the link and results are made public, PC Pitstop--despite its rigorous privacy measures--cannot guarantee the security of the user's results. PC Pitstop advises its visitors to act responsibly and use common sense about to whom they send their results. 
+
+Also, PC Pitstop periodically distributes an e-mail newsletter to your e-mail address. You choose whether you want to receive mail from us when you create your login. If you submit your e-mail address to us for testing purposes, but later decide not to receive the newsletter, you can remove yourself from the mailing list: 
 
   * Visit our site at <http://www.pcpitstop.com/pcpitstop>
   * Log in using the form in the left-hand column. 
   * Then click the "Change Login" link. 
-  * Check the box labeled "Do not send me email about this site" and click Submit. 
+  * Uncheck the box labeled "Send me updates on PC Pitstop's new features" and click Submit. 
 
 
 
@@ -77,7 +99,16 @@ Lastly, as part of our **market research model** , we collect aggregate informat
 
 To be able to remember your computer's test results as you browse from page to page, we use cookies. _We do not use cookies to track PCs in locations outside our site._ There are two types of cookies that we use at the PC Pitstop site: _session_ and _persistent_ cookies. Session cookies are only used for the duration of your visit, and help us keep your PC’s results associated with your browser session as you move through the site. Persistent cookies store data between visits to PC Pitstop, primarily for your convenience. You must accept some of these cookies for the site to work, but others are optional. 
 
-No personal information is collected through the use of cookies. Details on all the cookies used at PC Pitstop are available here: <http://www.pcpitstop.com/pcpitstop/aboutcookies.asp>
+No personal information is collected through the use of PC Pitstop's cookies. Details on all the cookies used at PC Pitstop are available here: <http://www.pcpitstop.com/pcpitstop/aboutcookies.asp>
+
+**Third-party cookies:** Like most sites, PC Pitstop also uses banner advertising throughout its site. While some of these ads are served directly by PC Pitstop and do not employ cookies, most are controlled by Cybereps and Commission Junction, ad services which do place and collect cookie information. These cookies are used primarily to ensure that you do not view the same ad too many times, and also to track PC Pitstop as a referring site and give us credit (a commission) for sales. However, we do not control the issuing or use of these cookies, and they are not required for proper operation of the PC Pitstop site. You may safely reject them, if you choose ([see instructions here](http://www.pcpitstop.com/pcpitstop/aboutcookies.asp)). The privacy policies for these ad companies differ from PC Pitstop's; you may review their policies and/or contact the agencies via their Web sites: 
+
+  * [Cybereps](http://www.cybereps.com/): Serves ads for independent merchants, all of which may have their own privacy and cookie policies. 
+  * [Commission Junction](http://www.cj.com/) (qksrv.net): Serves ads for independent merchants; [review Commission Junction's privacy policy](http://www.cj.com/privacy.asp). 
+
+
+
+For more information on cookies, including how to reject them, see [http://www.pcpitstop.com/pcpitstop/aboutcookies.asp](https://web.archive.org/pcpitstop/aboutcookies.asp). 
 
 #### Technology Licensing
 
@@ -85,16 +116,21 @@ PC Pitstop licenses its technology and database engine to third parties, but at 
 
 #### Banner Advertising
 
-PC Pitstop makes use of banner advertisements through our own site and through the AvenueA and WebConnect services. We have no cookies associated with ads served directly from PC Pitstop. However, banner advertisements from AvenueA and WebConnect may collect information. AvenueA and WebConnect operate under their own privacy and security policies, which can be further evaluated at: 
+PC Pitstop makes use of banner advertisements through our own site and through the Cybereps and Commission Junction (qkserv.net) services. We have no cookies associated with ads served directly from PC Pitstop. However, banner advertisements from Cybereps and Commission Junction may collect information. Cybereps serves ads for many merchants, all of which may have independent policies; Commission Junction operates under its own privacy and security policies. You may review the policies and/or contact the agencies via their Web pages: 
 
-  * AvenueA: [http://www.avenuea.com](https://web.archive.org/web/20001208034100id_/http%3A//pcpitstop.com/offsite.asp?http://www.avenuea.com)
-  * WebConnect: [http://www.webconnect.com](https://web.archive.org/web/20001208034100id_/http%3A//pcpitstop.com/offsite.asp?http://www.webconnect.com)
+  * [Cybereps](http://www.cybereps.com/)
+  * [Commission Junction](http://www.cj.com/); [Commission Junction Privacy Policy](http://www.cj.com/privacy.asp)
+
+Ad agencies formerly used by PC Pitstop: 
+
+  * AvenueA: [http://www.avenuea.com](http://www.avenuea.com/)
+  * WebConnect: [http://www.webconnect.com](http://www.webconnect.com/)
 
 
 
 #### PC Pitstop Support Board (BBS)
 
-The PC Pitstop bulletin board service (BBS) is located at <http://support.pcpitstop.com/cgi-bin/Ultimate.cgi> and is powered by Infopop ([http://www.infopop.com](https://web.archive.org/web/20001208034100id_/http%3A//pcpitstop.com/offsite.asp?http://www.infopop.com)). It is used only as a means of disseminating technical support about issues within PC Pitstop. Any postings you make on the BBS will become publicly viewable. 
+The PC Pitstop bulletin board service (BBS) is located at <http://support.pcpitstop.com/cgi-bin/Ultimate.cgi> and is powered by Infopop ([http://www.infopop.com](https://web.archive.org/web/20010603082551id_/http%3A//www2.pcpitstop.com/offsite.asp?http://www.infopop.com)). It is used only as a means of disseminating technical support about issues within PC Pitstop. Any postings you make on the BBS will become publicly viewable. 
 
 The Support BBS requires user registration to post an entry. This registration is independent of the main PC Pitstop registration system, and gives you the opportunity to customize your profile. The registration system requires a username (profile name), password and e-mail address; the user's city, state, country, occupation, home page, interests, ICQ number and an electronic signature are optional. However, with the exception of the user's e-mail address (which the user has the option to hide) and password (which is not publicly viewable), all information entered in the registration will be publicly viewable. Note: Passwords for the BBS are not encrypted and can be seen by the BBS administrators. In addition, users have the option of allowing a PC Pitstop BBS administrator to contact them via e-mail to help clarify support issues. 
 
@@ -118,5 +154,5 @@ For instructions on changing your BBS profile, see the PC Pitstop Support Board 
 
 Should you have any other questions or concerns about these privacy policies, please send us e-mail at [webmaster@pcpitstop.com](mailto:webmaster@pcpitstop.com). 
 
-##### Questions? For support click [here](https://web.archive.org/web/20001208034100id_/http%3A//pcpitstop.com/pcpitstop/support.asp).  
-[Our Legal Stuff](https://web.archive.org/web/20001208034100id_/http%3A//pcpitstop.com/terms.asp). © 2000 PC PitStop, LLC. All rights reserved.
+##### Questions? For support click [here](https://web.archive.org/web/20010603082551id_/http%3A//www2.pcpitstop.com/pcpitstop/support.asp).  
+[Our Legal Stuff](https://web.archive.org/web/20010603082551id_/http%3A//www2.pcpitstop.com/terms.asp). © 2001 PC Pitstop, LLC. All rights reserved.
