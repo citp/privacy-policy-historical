@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeindia.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601115525id_/http%3A//www.tradeindia.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeindia.com privacy policy that was archived on 2002-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021010052608id_/http%3A//www.tradeindia.com/privacy.htm) for the most accurate reproduction.*
 
 # <<<Tradeindia.com>>>
 
