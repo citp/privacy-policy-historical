@@ -1,0 +1,14 @@
+> *The following text is extracted and transformed from the vsp.com privacy policy that was archived on 1999-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990424132752id_/http%3A//www.vsp.com/home/html/privacy.htm) for the most accurate reproduction.*
+
+# Patient Confidentiality
+
+A. | All Vision Service Plan employees, upon employment, agree to abide by VSP’s policy and procedure of "Confidentiality of Information” which details the importance of confidentiality of medical records, personal information, insurance claims and other materials. The consequences of violating this policy includes disciplinary action up to and including dismissal from employment.  
+B. | Medical Directors, Optometry Directors, Clinical Consultants and Clinical Committee Members must sign a Conflict of Interest and Confidentiality Statement.  
+C. | Any patient specific information or medical record will be considered confidential and will be shared only with those parties who have the authority to receive such information, as provided for in Section II, _above._  
+D. | If disclosure is required through a court order or subpoena, the order or subpoena will first be reviewed by the VSP Legal Department to determine the legitimacy of the order, the purpose for the disclosure, and limitations on the information disclosed.   
+E. | All patient specific medical information will be stored for the appropriate length of time as required by legal statutes and company policy, in files that are locked and made accessible only for the purposes stated above.   
+F. | System stored patient specific medical and personal information will be protected through system security measures designed to protect against access by unauthorized staff. Additionally, VSP is monitoring the status of proposed regulations pursuant to the Health Insurance Portability and Accountability Act, and will implement such security measures mandated by the final regulations. VSP currently employs industry standard system security measures to protect electronically stored and transmitted information.   
+G. | VSP’s Provider Reference Guide states that VSP contracted doctor’s offices shall maintain the integrity and confidentiality of Protected Health Information in the record against loss, defacement, tampering or use by unauthorized persons. The contracted doctor’s office shall maintain a policy of confidentiality regarding patient medical record information.  
+H. | If VSP becomes aware of a confidentiality violation by a member doctor, either through an on-site visit or through a complaint/grievance, the Quality Assurance Committee and VSP staff will determine the proper steps needed to restore confidentiality. Human Resources will be consulted if the violation was perpetrated through a VSP employee.  
+I. |  This policy shall be provided to any member, group, or member doctor upon request.  
+| 
