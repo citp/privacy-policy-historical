@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208055304id_/http%3A//www.serif.com/company/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serif.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603182236id_/http%3A//www.serif.com/company/privacypolicy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Serif Privacy Policy
 
 **Serif Statement of Privacy**
 
@@ -42,7 +42,7 @@ Serif occasionally allows other companies to offer our registered customers info
 
 **Access to your Personal Information**
 
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by accessing the [Subscription Options](https://web.archive.org/web/20021208055304id_/http%3A//www.serif.com/community/subscriptionoptions.asp) on the Serif Web site or by writing to us. You can: 
+We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time by accessing the [Subscription Options](https://web.archive.org/web/20030603182236id_/http%3A//www.serif.com/community/subscriptionoptions.asp) on the Serif Web site or by writing to us. You can: 
 
   * Tell us whether you want Serif to send you marketing information. 
   * Subscribe or cancel subscriptions to newsletters about our services and products. 
