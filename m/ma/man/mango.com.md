@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mango.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601184007id_/http%3A//www.mangosoft.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mango.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204193715id_/http%3A//www.mangosoft.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy and Information Security Policy
 
