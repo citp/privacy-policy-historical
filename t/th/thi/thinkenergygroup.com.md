@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkenergygroup.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204095821id_/http%3A//www.thinkenergygroup.com/Think.nsf/InfoNFR/Privacy-Security%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkenergygroup.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606035739id_/http%3A//www.thinkenergygroup.com/Think.nsf/InfoNFR/Privacy-Security%3FOpenDocument) for the most accurate reproduction.*
 
 # Technical Staffing - Press Release - Atlanta, Georgia, Florida
 
@@ -44,7 +44,7 @@ ThinkJobs.com takes every precaution to protect user information. When a user su
 **Change/Modify**
 
   
-To change the information in your profile that ThinkJobs.com maintains please call 770-390-0963 or 800-659-5639 and speak to one of our Helpdesk representatives. They will be able to update your preferences and other information contained in your profile.
+To change the information in your profile that ThinkJobs.com maintains please call 770.390.0963 or 1.800.659.5639 and speak to one of our Helpdesk representatives. They will be able to update your preferences and other information contained in your profile.
 
 **Notification of Changes**
 
