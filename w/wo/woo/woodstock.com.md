@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodstock.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207123300id_/http%3A//www.woodstock.com/html/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodstock.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603050739id_/http%3A//www.woodstock.com/html/privacy.shtml) for the most accurate reproduction.*
 
 # Woodstock.com User Privacy Policy
 
