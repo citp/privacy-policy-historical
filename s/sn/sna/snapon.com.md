@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapon.com privacy policy that was archived on 2003-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030412195436id_/http%3A//snapon.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapon.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001212909id_/http%3A//snapon.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Practices Statement
 
@@ -44,11 +44,13 @@ We use non-identifying and aggregate information to better design our Web site a
 
 We have put in place physical, electronic, and managerial procedures to safeguard and secure the information we collect online. When you place orders or access your account information, we offer the use of a secure server. The secure server software receives encrypted information through the Secure Sockets Layer (SSL) of your internet browser which encrypts the information you input before it is sent to us and prevents anyone else from reading it as the information travels from your computer to ours. If you are still concerned about placing an order online, call a customer service representative at 1-877-762-7664 and place your order via phone.
 
- **Cookies**
+**Cookies and Web Beacons**
 
 Snap-on uses cookies on this Web site for the purpose of maintaining a shoppers id allowing us to keep track of items in your shopping cart. We also use cookies that are for identifying who you are after logging in or registering. These cookies can also be used for creating a more personalized visit each time you visit our Web site, for instance, by making you aware of what’s new on our Web site since your last visit. "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive.
 
- **Children's Privacy**
+Our web pages may contain electronic images called web beacons that allow us to count users who have visited that page or to allow cookies to be delivered to you. Web beacons are small bits of computer code that deliver graphic images, and can also be tracked by the host site. We use these to personalize your experience, similarly to how we use cookies. Companies that help us place advertisements on our site use web beacons to serve cookies and advertisements. We also use web beacons to gather non-personally identifiable information about the number of users who visit our site, the areas which they spend their time visiting, and other demographic data. Only Snap-on and our advertising agency will have access to the data obtained with web beacons.
+
+**Children's Privacy**
 
 Snap-on has no intention of collecting personal information from children at this site. 
 
