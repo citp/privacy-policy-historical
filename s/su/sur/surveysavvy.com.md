@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203011909id_/http%3A//surveysavvy.com/index.cfm%3Ffa%3DPrivacy.welcome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2004-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040426215713id_/http%3A//www.surveysavvy.com/index.cfm%3Ffa%3DPrivacy.welcome) for the most accurate reproduction.*
 
 # SurveySavvy.com - Your Opinions, Your Marketplace, Your Rewards - Get Paid for Surveys!
 
@@ -12,7 +12,7 @@ Your privacy is important to us. By participating in the Council of Better Busin
 
 Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
-[**[TOP]**](https://web.archive.org/web/20031203011909id_/http%3A//surveysavvy.com/index.cfm?fa=privacy.welcome#top)
+[**[TOP]**](https://web.archive.org/web/20040426215713id_/http%3A//www.surveysavvy.com/index.cfm?fa=privacy.welcome#top)
 
 2\. Registration  
 Registering to participate with Luth Research at **SurveySavvy.com** is easy. We ask you to fill out a form providing us with certain personal information. We collect demographical information such as address, phone number, gender, employment status, household income, education level, marital status, ethnicity and type of computer you use. This information allows us to verify your eligibility, to determine which of our surveys are appropriate for you, and to contact you regarding participation in surveys. We also use individual information to generate demographic data relating to the responses to particular surveys. Our survey results only report aggregate information about demographic groups - never any individual information about a particular respondent. The information you provide through the registration process is completely confidential - we never sell or share it with advertisers or any other third parties.
@@ -20,7 +20,7 @@ Registering to participate with Luth Research at **SurveySavvy.com** is easy. We
 You can correct factual errors or review and/or update your profile at any time from the [**Members**](https://members.surveysavvy.com/index.cfm?fa=members.loginform) area. To protect your privacy and security, we will also take reasonable steps to verity your identity before granting access or making corrections.  
 If we are going to use your personally identifiable information in a manner different from that stated above we will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our web site notifying users of the change. In some cases where we post the notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
-[**[TOP]**](https://web.archive.org/web/20031203011909id_/http%3A//surveysavvy.com/index.cfm?fa=privacy.welcome#top)
+[**[TOP]**](https://web.archive.org/web/20040426215713id_/http%3A//www.surveysavvy.com/index.cfm?fa=privacy.welcome#top)
 
 3\. Security of Personal and Survey Information  
 The extraordinary data encryption team at Luth Research has developed one of the only market research sites in the world that utilizes Secure Socket Layers (SSL) encryption of personal information. SSL "scrambles" all your personal information -- name, address, telephone number, e-mail address and password -- when you click on "Next" to transmit your registration form to us. Your information is not reassembled until it safely reaches our server.   
@@ -31,19 +31,19 @@ Whenever you visit **SurveySavvy.com** or complete one of our online surveys, a 
 
 Like most web sites, we collect standard web server logs for analysis. The logging method we use includes IP address, dates/times, browser type, page hit, and referral pages. In addition, a cookie is issued that allows us to determine whether a visitor has visited us in the past. All information collected is used for either broad demographic analysis or system administration. None of the log file information collected is linked to personal information.
 
-[**[TOP]**](https://web.archive.org/web/20031203011909id_/http%3A//surveysavvy.com/index.cfm?fa=privacy.welcome#top)
+[**[TOP]**](https://web.archive.org/web/20040426215713id_/http%3A//www.surveysavvy.com/index.cfm?fa=privacy.welcome#top)
 
 4\. Unsubscribe  
-If you register with **SurveySavvy.com** , we assume that you would like to receive e-mails inviting you to participate in surveys. You don't have to participate in every survey; if you don't respond, we will contact you later about another survey. If at any time you decide that you don't want to participate in our surveys at all, you can [**unsubscribe**](https://web.archive.org/web/20031203011909id_/http%3A//surveysavvy.com/index.cfm?fa=contact.unsubscribe).
+If you register with **SurveySavvy.com** , we assume that you would like to receive e-mails inviting you to participate in surveys. You don't have to participate in every survey; if you don't respond, we will contact you later about another survey. If at any time you decide that you don't want to participate in our surveys at all, you can [**unsubscribe**](https://web.archive.org/web/20040426215713id_/http%3A//www.surveysavvy.com/index.cfm?fa=contact.unsubscribe).
 
-[**[TOP]**](https://web.archive.org/web/20031203011909id_/http%3A//surveysavvy.com/index.cfm?fa=privacy.welcome#top)
+[**[TOP]**](https://web.archive.org/web/20040426215713id_/http%3A//www.surveysavvy.com/index.cfm?fa=privacy.welcome#top)
 
 5\. Unsolicited E-mails  
-Luth Research and **SurveySavvy.com** never spam or send unsolicited commercial e-mails. Members who spam in order to generate referrals are ineligible for any payments from **SurveySavvy.com** and will be permanently disqualified from participation in **SurveySavvy.com**. See our [**Frequently Asked Questions**](https://web.archive.org/web/20031203011909id_/http%3A//surveysavvy.com/index.cfm?fa=faq.welcome#7) page for a definition of spam.
+Luth Research and **SurveySavvy.com** never spam or send unsolicited commercial e-mails. Members who spam in order to generate referrals are ineligible for any payments from **SurveySavvy.com** and will be permanently disqualified from participation in **SurveySavvy.com**. See our [**Frequently Asked Questions**](https://web.archive.org/web/20040426215713id_/http%3A//www.surveysavvy.com/index.cfm?fa=faq.welcome#7) page for a definition of spam.
 
-[**[TOP]**](https://web.archive.org/web/20031203011909id_/http%3A//surveysavvy.com/index.cfm?fa=privacy.welcome#top)
+[**[TOP]**](https://web.archive.org/web/20040426215713id_/http%3A//www.surveysavvy.com/index.cfm?fa=privacy.welcome#top)
 
 6\. Contact Us  
-If you have any questions, concerns, or comments about our privacy policies or practices, we would like to know what they are so we can address them. Please contact us at **(888) 588-4258**. Or email us by using our handy [**Contact Us**](https://web.archive.org/web/20031203011909id_/http%3A//surveysavvy.com/index.cfm?fa=contact.welcome) form.
+If you have any questions, concerns, or comments about our privacy policies or practices, we would like to know what they are so we can address them. Please contact us at **(888) 588-4258**. Or email us by using our handy [**Contact Us**](https://web.archive.org/web/20040426215713id_/http%3A//www.surveysavvy.com/index.cfm?fa=contact.welcome) form.
 
-[**[TOP]**](https://web.archive.org/web/20031203011909id_/http%3A//surveysavvy.com/index.cfm?fa=privacy.welcome#top)
+[**[TOP]**](https://web.archive.org/web/20040426215713id_/http%3A//www.surveysavvy.com/index.cfm?fa=privacy.welcome#top)
