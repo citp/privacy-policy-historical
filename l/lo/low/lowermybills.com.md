@@ -1,91 +1,54 @@
-> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205221124id_/http%3A//www.lowermybills.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowermybills.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608181501id_/http%3A//lowermybills.com/misc/privacy) for the most accurate reproduction.*
 
 # LowerMyBills.com - Privacy Policy
 
-| 
+**Information Collection and Use**   
+Our goal is to provide you with a safe and enjoyable experience when using our service. You can browse the LowerMyBills.com website at anytime without revealing any personal information about yourself. When we do ask you for information, it is used only for the following important purposes: to process and fulfill your requests for products and services; to solicit your opinions and other feedback; to conduct research; to customize the advertising and content you see; and to provide anonymous reporting for internal and external clients. LowerMyBills.com may collect personal information at the following times, with your permission only:
 
-|  |    
+• When you register to receive communications from LowerMyBills.com   
+• When you seek information or enter applications for products and services offered through LowerMyBills.com  
+• When you enter promotions or sweepstakes offered by LowerMyBills.com  
+• When you provide such information to us through surveys, feedback, or other forms hosted on LowerMyBills.com's   pages or the pages of certain LowerMyBills.com partner.
 
+In addition, we might receive information about you from other sources (such as service providers) for tracking purposes. LowerMyBills.com may add the information we receive about you to your existing account. Like other websites, we also automatically receive and record certain types of information every time you visit us. We use "Cookies" and the other information to enhance your experience and present you with personalized offers. Likewise, we sometimes use third-party advertising companies to serve and track advertisements appearing on our website. These companies may employ cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. 
 
-Privacy Policy - effective 05/07/2001
+**Information Sharing and Disclosure**  
+LowerMyBills.com does not rent, sell, or share personal information about you with other people or non-affiliated companies. We share customer information only with your permission or under the following circumstances:
 
-LowerMyBills.com takes your privacy seriously. We maintain the latest encryption technology to ensure the safety of your personal information, which we never pass on to third parties without your consent. Please read the following privacy policy to learn more about our position concerning your personal information and the measures we take to protect it.
+•   **Processing Your Requests:** If you apply for a product or service offered through us, we will share your information    with certain partners strictly to process and fulfill your request. ·   
+•   **Contracted Partners:** We sometimes disclose the information we collect to companies that perform marketing    services on our behalf. These partners only have access to personal information needed to perform their functions,    and may not share it with others or use it for any other purpose. These companies are subject to confidentiality    agreements with us and other legal restrictions that prohibit using the information except to market the specified    LowerMyBills.com products or services.  
+•   **Legal Protection:** We respond to subpoenas, court orders, or legal process, and will establish or exercise our legal    rights and defend against legal claims. We believe it is necessary to share information in order to investigate,    prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the    physical safety of any person, violations of LowerMyBills.com's terms of use, or as otherwise required by law.  
+•   **Business Transfer:** As with any other business, it is possible that LowerMyBills.com in the future could merge with    or be acquired by another company. If such an acquisition occurs, the successor company would have access to    the information maintained by LowerMyBills.com, including customer account information, but would continue to be    bound by this Privacy Policy unless you consent otherwise. 
 
-TRUSTe  
-This confirms that LowerMyBills.com adheres to the strict requirements set forth by the TRUSTe Privacy Program. If you have questions or concerns regarding this statement, you should first contact Customer Care at [CustomerCare@LowerMyBills.com](mailto:customercare@lowermybills.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at [http://www.truste.org/users/watchdog.html](https://web.archive.org/misc/loading.jsp?LMBcategory=misc_gen&LMBfrom=privacy&LMBto=truste.org&URL=http://www.truste.org/users/watchdog.html). TRUSTe will then serve as a liaison to help you resolve your concerns.
+**Anti-Spam Policy & Pop Up Windows**   
+On occasion, you may receive advertisements for LowerMyBills.com from third parties. For instance, when visiting a third party website, you may receive a "pop up" window advertising LowerMyBills.com. Please note that such advertisements are served by the third party website that you have visited and are not controlled by LowerMyBills.com. In addition, you may receive emails that advertise LowerMyBills.com's services from third party publishers. LowerMyBills.com has established firm ground rules for dealing with any third party email services to ensure that advertisements for LowerMyBills.com are not sent out through a "Spam" mailing -- ensuring that our offers are sent only to those individuals who have given their permission to the third party email service to receive communications. If any third party email publisher refuses to abide by LowerMyBills.com's anti-Spam policy, LowerMyBills.com will not use that publisher's services. If you want to stop receiving emails from a third party, you should follow the opt-out instructions included in the email so that you will not be included in any future mailings. An "unsubscribe" link should appear at the bottom of the email you received. However if for any reason it does not work, please bring that to our attention by emailing us at [CustomerCare@LowerMyBills.com](mailto:customercare@lowermybills.com). 
 
-Personal Information Usage  
-We collect the following personal information for:  
-**Registration:** email address and zip code. LowerMyBills.com offers a registration for newsletters and special offers, both internal and external. To ensure your privacy, this data is captured and managed in our data warehouse system and is accessed only by those thoroughly trained in the management and security of personal information. The information gathered is used so that you only receive offers of interest to you. If you do not wish to receive future emails from us, please let us know by sending an email to [CustomerCare@LowerMyBills.com](mailto:customercare@lowermybills.com).
+**Cookies**   
+To serve you faster and with better quality, we use "cookies" technology. Cookies are small bits of code, usually stored on a user's computer hard drive, which enable a Web site to "personalize" itself for each user. We generally use cookies to reduce the time it takes for pages to load on your computer and to assist with customer tracking. Customer tracking (or "click-stream") data collected by us is used to optimize your experience by learning whether or not you successfully used LowerMyBills.com. Additionally, we may capture click-stream data on some of our partner's websites, limited to the activity involved with the completion of offers listed on our website. This information is used to monitor the performance of our partners. 
 
-**Tell-a-Friend:** email address, zip code, first name, and last name. This information is used to send a one-time email notification inviting your friends to use LowerMyBills.com.
+**Confidentiality and Security**   
+The security of your personal information is very important at LowerMyBills.com and we take a number of steps to safeguard it. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard personal information about you. We limit access to personal information to those employees and agents who assist us in providing requested products and services to you. In addition, we use industry standard data encryption technologies when transferring and receiving consumer data on the LowerMyBills.com website. We have partnered with VeriSign to protect against the loss, misuse or alteration of information that we collect from you. 
 
-**Customer Care:** email address, zip code, first name, last name. This information is used to find a solution to your problem and/or to answer your question(s).
+**Email Communications and Removal from Mailing List**   
+You may register to receive LowerMyBills.com's communications directly on our website or through a third party. Upon registering, we will periodically send you newsletters and other e-mails featuring special and exclusive offers, promotions and other members-only benefits. If you no longer wish to receive these communications, please let us know by sending an email to [CustomerCare@LowerMyBills.com](mailto:customercare@lowermybills.com). (You may also opt-out by clicking on the unsubscribe link at the bottom of our emails). Our email database is updated weekly. Please note that LowerMyBills.com can only control its own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving such communications. Also, please note that if you enter into a transaction through our website, we may send you a thank you notice, ask for a satisfaction rating, request a testimonial and give you periodic product reminders as part of your service.
 
-Customer Tracking: Cookies  
-LowerMyBills.com generally uses "cookies" to assist with customer tracking. Customer tracking (or "click-stream") data is used to optimize your experience by learning whether or not you successfully used LowerMyBills.com. Additionally, click-stream data is captured on some of our partner sites, limited to the activity involved with the completion of offers listed on our site. This is used to monitor the performance of our partners to ensure that they are completely satisfying your needs. None of the data listed above is individually identifiable information; it will never be sold to third parties.
+**Information Collected by Third Parties**   
+This Privacy Pledge applies to all information that you provide to LowerMyBills.com and all information that a third party provides to LowerMyBills.com in conjunction with any service offered on our site. However, when you visit websites to which LowerMyBills.com provides a link, keep in mind you will be interacting with a third party that operates under its own privacy and security policies. If LowerMyBills.com receives personal information from a third party that is not in conjunction with a service offered on our site, the use and disclosure of such information is governed by the agreement (if any) between LowerMyBills.com and such third party.   
+**  
+A Special Note about Children's Privacy **  
+You must be at least 18 years old to have our permission to use this website. We do not knowingly collect, use or disclose personal information about visitors less than 18 years of age. If you are a minor, you can use the services offered on our website only in conjunction with your parents or guardians. 
 
-**Co-Hosted Forms:** email address, address, first and last name, phone number, current utility information (account number, provider, meter number), credit card and/or direct debit bank account routing number, social security number. This information is used to switch your service, pay for your service, and contact you if need be. These forms are SSL-encrypted, and are monitored by VeriSign for your security.
+**Changes to this Privacy Pledge**   
+LowerMyBills.com may update or modify this Privacy Pledge from time to time. Any changes will be posted here and will become effective 30 days following its posting, unless otherwise stated. 
 
-**Site Tools:** We gather information from our online calculators, lookup tools, etc., to analyze the effectiveness of our site, product offerings, and marketing. None of this information is sold or shared with 3rd parties except in aggregate, such as broad demographics, key product interest, etc.
+**Questions and Suggestions**   
+If you have any questions, concerns or suggestions about our privacy pledge, or if you feel that we have failed to follow our stated Privacy Pledge in any manner, you may contact us: 
 
-**Survey:** We occasionally ask our users to participate in surveys to help us better determine ways of meeting your needs. This information will only be used for the purpose of the survey, and will not be sold to others or used to market in any way.
-
-**Sweepstakes:** email address, zip code, first and last name and other optional information. This information is used to contact you should you win our sweepstakes and, if you opt-in, to send you select offers we think you may benefit from.
-
-**Vendor Sign-Up:** email address, address, phone number, URL, first and last name and company name. This information is used to contact potential vendors about inclusion on our site, and for ongoing contact should they become LMB vendors.
-
-**Affiliate Program:** email address, address, phone number, URL, first and last name, company name, social security number, business tax classification and site information. This information is used to investigate affiliate opportunities, pay affiliates, and keep affiliates informed of important changes.
-
-(In all cases where we collect a zip code, it is used for demographic analysis.)
-
-Third Party Links  
-When you sign-up for services on sites to which LowerMyBills.com provides links, keep in mind you will be interacting with a third party that operates under its own privacy and security policies.
-
-Framed Pages  
-In some instances, the LowerMyBills.com name and logo may appear on third party sites hosted by our partners. These partners will be collecting the information you provide during the sign-up process (this information will later be shared with LowerMyBills.com for tracking and customer care purposes). Please review our partners' privacy policies for more information.
-
-Sharing  
-Your information is never shared with third parties unless you "opt-in" to have such information shared. If we are given your express permission, we will periodically make your information available to reputable organizations whose products or services we think you might find valuable. If you wish to prevent the transfer of your information to such companies, please let us know by sending an e-mail to [CustomerCare@LowerMyBills.com](mailto:customercare@lowermybills.com).
-
-Accessing, Reviewing & Updating Your Information and Opting Out
-
-| • | 
-
-When registering, you must specifically "opt-in" to have your information shared with third parties. Therefore, you can complete a transaction on LowerMyBills.com without receiving follow-up marketing materials.  
-  
----|---  
-• | 
-
-If you no longer wish to receive our newsletter or promotional offers, you may "opt-out" of receiving these communications by replying to an email and typing "unsubscribe" in the subject line, or you can email us at [CustomerCare@LowerMyBills.com](mailto:customercare@lowermybills.com) (Our database is updated twice monthly.)  
-  
-  
-
-
-Third Party Ad Servers  
-We may use third-party advertising companies to serve tracking pixels on our site. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click here.
-
-Notification of Changes  
-If there is a change to our information usage practices that affect your personally identifiable information, we will notify you by email of the relevant changes. We will also post policy changes to LowerMyBills.com so that you can choose to opt out of these new uses.
-
-Security  
-LowerMyBills.com uses SSL-encryption technologies when transferring and receiving consumer data on the site. We have partnered with [VeriSign](https://web.archive.org/misc/loading.jsp?LMBcategory=misc_gen&LMBfrom=privacy&LMBto=verisign.com&URL=http://www.verisign.com) to protect against the loss, misuse or alteration of information that we have collected from you.
-
-Only employees who need the information to perform a specific job (for example, our billing clerk or a customer care representative) are granted access to personally identifiable information. All employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment.
-
-Email Links  
-LowerMyBills.com uses email links located on the "contact us" page to allow you to contact us directly with any questions or comments you may have. We read every message and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is only shared with third parties only with your explicit permission.
-
-Legal Disclaimer  
-We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on LowerMyBills.com.
-
-Contact Us  
-If you have any privacy questions, or feel LowerMyBills.com is not following its stated information policy, you may contact us at:
-
-LowerMyBills.com  
-2120 Colorado Blvd, 3rd Floor  
-Santa Monica, CA 90404  
+By sending an email to:  
 [CustomerCare@LowerMyBills.com](mailto:customercare@lowermybills.com)
 
-  
-
+By sending a letter to:  
+LowerMyBills, Inc.   
+Attn: Customer Care   
+2120 Colorado Blvd, 3rd Floor  
+Santa Monica, CA 90404 
