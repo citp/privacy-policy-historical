@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215154100id_/http%3A//www.stockhouse.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockhouse.com privacy policy that was archived on 2001-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010414023201id_/http%3A//www.stockhouse.com/privacy.asp) for the most accurate reproduction.*
 
-# StockHouse.com -- Investors Click Here -- 12/15/00
+# StockHouse USA -- About Us --
 
 **Privacy Policy**
 
@@ -12,7 +12,12 @@ StockHouse intends this policy to reduce uninvited use of your personal informat
 
 **Opt-out policy**
 
-StockHouse gives its members options wherever necessary and practical. Such choices include: \- Choosing not to receive StockHouse's electronic newsletters when registering for a site. \- Choosing not to participate in certain interactive areas, which completely alleviates the need for any information from our members 
+StockHouse gives its members options wherever necessary and practical. Such choices include: 
+
+  * Choosing not to receive StockHouse's electronic newsletters when registering for a site 
+  * Choosing not to participate in certain interactive areas, which completely alleviates the need for any information from our members
+
+
 
 **User Information Modification Policy**
 
