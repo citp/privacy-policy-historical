@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the creativepro.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206041900id_/http%3A//creativepro.com/member/policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativepro.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802042636id_/http%3A//www.creativepro.com/member/policy/index.html) for the most accurate reproduction.*
 
-# Membership
+# creativepro.com - Creativepro.com Privacy Policy
 
-  |    
-|     |  This statement discloses the privacy practices for the creativepro.com Web site. When you visit a Web site, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information. Questions regarding this statement should be directed to [webmaster@creativepro.com](mailto:webmaster@creativepro.com). 
+    |  This statement discloses the privacy practices for the creativepro.com Web site. When you visit a Web site, you can expect to be notified of: What personally identifiable information of yours is collected; What organization is collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control; and How you can correct any inaccuracies in the information. Questions regarding this statement should be directed to [webmaster@creativepro.com](mailto:webmaster@creativepro.com). 
 
 **This policy will let you know:**
 
@@ -63,7 +62,7 @@ Creativepro.com uses any information voluntarily given by our users to enhance t
   * When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. Creativepro.com does not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
   * We track search terms entered in Search.com as one of many measures of what interests our users. But we don't track which terms a particular user enters. 
   * Creativepro.com creates aggregate reports on user demographics and traffic patterns for advertisers and partners. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their needs. Because creativepro.com doesn't track the usage patterns of individual users, an advertiser will never know that a specific user clicked their ad. 
-  * If you make a purchase from the creativeproShop, hosted by creativepro.com, the information obtained during your visit and the information you give such as your credit card number and contact information, is for purchase purposes. This information is passed onto the supporting services (credit card processing and product fulfillment) for the store. These transactions with supporting services enables store transactions to take place. Credit card and password information are encrypted during a transaction and customer information is accessed only when the appropriate email addresses and ID numbers match, and passwords are entered correctly. 
+  * The creativeproShop and creativeproBooks are hosted by Amazon.com. All transactions and information gathered during your purchasing experience is the property of Amazon.com. Amazon.com has its own privacy policy and data collection practices. Please visit Amazon.com's [privacy policy](http://www.amazon.com/exec/obidos/tg/browse/-/468496/107-6884755-3544550) for more information. CreativeproShop is not responsible for typographical or photographic errors that may appear on this web site. We reserve the right to make adjustments or corrections due to errors, changing market conditions, product discontinuations, or typographic or photographic errors in advertisements or product descriptions. Policies, item availability and prices are subject to change without notice. 
 
 
 
@@ -89,11 +88,13 @@ _Business Partners & Sponsors_: Some or all data collected during a creativepro.
 
 Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you give creativepro.com permission to transfer your personal information to the sponsor so they can fulfill your request. In most instances, only your e-mail address will be shared. If more information will be shared with the sponsor, you will be notified prior to the transfer. 
 
-_creativepro.com Stores & Shopping:_ If you make a purchase from the creativeproShop, hosted by creativepro.com, the information obtained during your visit and the information you give such as your credit card number and contact information, is for purchase purposes. This information is passed onto the supporting services (credit card processing and product fulfillment) for the store. These transactions with supporting services enables store transactions to take place. Credit card and password information are encrypted during a transaction and customer information is accessed only when the appropriate ID numbers match and passwords are entered correctly. 
+The creativeproShop and creativeproBooks are hosted by Amazon.com. All transactions and information gathered during your purchasing experience is the property of Amazon.com. Amazon.com has its own privacy policy and data collection practices. Please visit Amazon.com's 
+
+[privacy policy](http://www.amazon.com/exec/obidos/tg/browse/-/468496/107-6884755-3544550) for more information. 
 
 Merchants listed in creativepro.com have separate privacy and data collection practices. Creativepro.com has no responsibility or liability for these independent policies. For more information regarding the merchant, their store, and their privacy policies, return to that store's home page and click on their _Information_ link. 
 
-_Third Party Data & Data in the Aggregate_: Under confidentiality agreements, creativepro.com may match user information with third party data. Also, creativepro.com discloses aggregated user statistics (e.g., 40% of our members are graphic designers) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. _Other_ : creativepro.com may also disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) creativepro.com's rights or property, other creativepro.com users, or anyone else that could be harmed by such activities. Creativepro.com may disclose user information when we believe in good faith that the law requires it. 
+_Third Party Data & Data in the Aggregate_: Under confidentiality agreements, creativepro.com may match user information with third party data. Also, creativepro.com discloses aggregated user statistics (e.g., 40% of our members are graphic designers) in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. _Business Transfers:_ As we continue to develop our business, we might sell or buy assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that creativepro.com, Inc. or substantially all of its assets are acquired, customer information will, of course, be one of the transferred assets. _Other_ : creativepro.com may also disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) creativepro.com's rights or property, other creativepro.com users, or anyone else that could be harmed by such activities. Creativepro.com may disclose user information when we believe in good faith that the law requires it. 
 
 * * *
 
@@ -106,9 +107,9 @@ If you indicated upon registration that you are interested in receiving offers o
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
-Creativepro.com never provides our clients or partners with information that could be used to identify you personally, without first obtaining your express consent. The data that we provide to our clients is always presented in an aggregate manner; therefore, neither the client nor creativepro.com can identify any individual or their associated profile information within that collective data. 
+Except under the special circumstances as previously described, creativepro.com never provides our clients or partners with information that could be used to identify you personally, without first obtaining your express consent. The data that we provide to our clients is always presented in an aggregate manner; therefore, neither the client nor creativepro.com can identify any individual or their associated profile information within that collective data. 
 
-Creativepro.com does not sell or rent information about individual users to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests. 
+If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests. Creativepro.com does not sell or rent information about individual users to third party marketing and advertising firms. 
 
 * * *
 
@@ -146,9 +147,11 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be 10
   
 **What else should I know about my privacy?**
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through e-mail, or in chat areas - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
+Please keep in mind that whenever you voluntarily disclose personal information online -- for example on message boards, through e-mail, or in chat areas -- that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. 
 
 Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. 
+
+Creatvepro.com and the CreativeproShop are not responsible for typographical or photographic errors that may appear on this web site. We reserve the right to make adjustments or corrections due to errors, changing market conditions, product discontinuations, or typographic or photographic errors in advertisements or product descriptions. Policies, item availability and prices are subject to change without notice. 
 
 * * *
 
@@ -161,5 +164,4 @@ Questions regarding this statement should be directed to
 
 * * *  
   
----|---  
- 
+---|---
