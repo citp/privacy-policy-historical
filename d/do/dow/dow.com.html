@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dow.com privacy policy that was archived on 2000-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001215071800id_/http%3A//dow.com/Homepage/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dow.com privacy policy that was archived on 2001-06-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010618073059id_/http%3A//www.dow.com/homepage/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><html><head>
 <title>Privacy Statement</title>
@@ -34,16 +34,24 @@ function writeNavigationBar()
 	}
 
 	sHeaderhtml = '';
-	sHeaderhtml = sHeaderhtml + '<center><img src="/webapps/nav/globnav.gif" width="600" height="48" '; 
-	sHeaderhtml = sHeaderhtml + ' border="0" usemap="#globnav" ismap> ';
+	sHeaderhtml = sHeaderhtml + '<body bgcolor="#ffffff">';
+	sHeaderhtml = sHeaderhtml + '<div align="center"><center>';
+	sHeaderhtml = sHeaderhtml + '<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 width="100%">';
+	sHeaderhtml = sHeaderhtml + '<TR><TD><IMG SRC="/webapps/nav/gnav_01.gif" WIDTH="149" HEIGHT="48" border="0" alt="The Dow Chemical Company" usemap="#downav"></TD>';
+	sHeaderhtml = sHeaderhtml + '<td background="/webapps/nav/gnav_02.gif" align="right" width="100%"><IMG SRC="/webapps/nav/gnav_03.gif" WIDTH="440" HEIGHT="48" usemap="#globnav" border="0"></TD>';
+	sHeaderhtml = sHeaderhtml + '</TR></TABLE></center></div>';
+	
 	sHeaderhtml = sHeaderhtml + '<map name="globnav"> ';
-	sHeaderhtml = sHeaderhtml + '<area coords="327,5,382,40" href="'+sDowHomeURL+'"> ';
-	sHeaderhtml = sHeaderhtml + '<area coords="522,5,581,40" href="'+sRegisterURL+'?caller='+location.pathname+'"> ';
+	sHeaderhtml = sHeaderhtml + '<area alt="The Dow Chemical Home Page" coords="139,14,210,33" href="'+sDowHomeURL+'"> ';
+	sHeaderhtml = sHeaderhtml + '<area alt="register" coords="250,14,301,32" href="'+sRegisterURL+'?caller='+location.pathname+'"> ';
 	document.writeln(sHeaderhtml);
 	sHeaderhtml = '';
-	sHeaderhtml = sHeaderhtml + '<area coords="450,5,512,40" href="'+sHelpURL+'?folderName='+sFolderName+'"> ';
-	sHeaderhtml = sHeaderhtml + '<area coords="385,5,440,40" href="'+sSearchURL+'?folderName='+sFolderName+'"> ';
-	sHeaderhtml = sHeaderhtml + '<area coords="6,5,89,40" href="'+sDowHomeURL+'"><\/map><\/center>';
+	sHeaderhtml = sHeaderhtml + '<area alt="help" coords="319,14,353,34" href="'+sHelpURL+'?folderName='+sFolderName+'"> ';
+	sHeaderhtml = sHeaderhtml + '<area alt="search" coords="370,15,417,33" href="'+sSearchURL+'?folderName='+sFolderName+'"> ';
+	sHeaderhtml = sHeaderhtml + '</map>';
+	sHeaderhtml = sHeaderhtml + '<map name="downav"> ';
+	sHeaderhtml = sHeaderhtml + '<area alt="The Dow Chemical Home Page" coords="8,42,87,11" href="'+sDowHomeURL+'"> ';
+	sHeaderhtml = sHeaderhtml + '</map>';
 	document.writeln(sHeaderhtml);
 }
 
@@ -62,8 +70,8 @@ function chkMyAccountFrame()
 }
 chkMyAccountFrame();
 //-->
-</script><center><img src="/webapps/nav/globnav.gif" width="600" height="48" border="0" usemap="#globnav" ismap=""> <map name="globnav"> <area coords="327,5,382,40" href="http://web.archive.org/homepage/index.html"> <area coords="522,5,581,40" href="http://web.archive.org/webapps/reg/OverviewRegistration.asp?caller=/web/20001215071800id_/http%3A//dow.com/Homepage/privacy.html"> 
-<area coords="450,5,512,40" href="http://web.archive.org/assistance/assist_about.html?folderName=web"> <area coords="385,5,440,40" href="http://web.archive.org/webapps/search/basicSearch.asp?folderName=web"> <area coords="6,5,89,40" href="http://web.archive.org/homepage/index.html"></map></center>
+</script><div align="center"><center><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td><img src="/webapps/nav/gnav_01.gif" width="149" height="48" border="0" alt="The Dow Chemical Company" usemap="#downav"></td><td background="/webapps/nav/gnav_02.gif" align="right" width="100%"><img src="/webapps/nav/gnav_03.gif" width="440" height="48" usemap="#globnav" border="0"></td></tr></tbody></table></center></div><map name="globnav"> <area alt="The Dow Chemical Home Page" coords="139,14,210,33" href="http://web.archive.org/homepage/index.html"> <area alt="register" coords="250,14,301,32" href="http://web.archive.org/webapps/reg/OverviewRegistration.asp?caller=/web/20010618073059id_/http%3A//www.dow.com/homepage/privacy.html"> 
+<area alt="help" coords="319,14,353,34" href="http://web.archive.org/assistance/assist_about.html?folderName=web"> <area alt="search" coords="370,15,417,33" href="http://web.archive.org/webapps/search/basicSearch.asp?folderName=web"> </map><map name="downav"> <area alt="The Dow Chemical Home Page" coords="8,42,87,11" href="http://web.archive.org/homepage/index.html"> </map>
 
 <!-- END GLOBAL NAVIGATION -->
 
@@ -107,7 +115,7 @@ chemistry-related businesses-->
 
 </p><center>
 <font size="1" color="#999999"><br>
-Copyright © The Dow Chemical Company (1995-2000). All rights reserved.</font><br>
+Copyright © The Dow Chemical Company (1995-2001). All rights reserved.</font><br>
 <font size="1">
 <script language="JavaScript">
 document.write('<A HREF="http://' + location.hostname + '/homepage/privacy.html">Privacy Statement</a>');
