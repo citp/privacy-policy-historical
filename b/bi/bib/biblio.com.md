@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618220309id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biblio.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202222842id_/http%3A//www.biblio.com/privacy.php) for the most accurate reproduction.*
 
-# biblio.com - buy and sell quality books - used, rare, out-of-print, and hard-to-find
+# biblio.com - used, rare, out-of-print, and hard-to-find books
 
 Preamble
 
@@ -26,7 +26,7 @@ Contacting Us With Questions or Concerns
 
 * * *
 
-[ home](http://www.biblio.com/index.php) | [ search](http://www.biblio.com/search.php) | [ gallery](http://www.biblio.com/gallery.php) | [ cart](http://www.biblio.com/cart.php?full=1) | [ booksellers](http://www.biblio.com/booksellers.php) | [ about](http://www.biblio.com/about.php) | [ privacy](http://www.biblio.com/privacy.php) | [ terms](http://www.biblio.com/terms.php) | [ link to us](http://www.biblio.com/link_to_us.php) | [ contact us](mailto:support@biblio.com) | [ login](https://www.biblio.com/cgi-bin/login.pl)
+[ home](http://www.biblio.com/index.php) | [ search](http://www.biblio.com/search.php) | [ gallery](http://www.biblio.com/gallery.php) | [ cart](http://www.biblio.com/cart.php?full=1) | [ booksellers](http://www.biblio.com/booksellers.php) | [ about](http://www.biblio.com/about.php) | [ privacy](http://www.biblio.com/privacy.php) | [ terms](http://www.biblio.com/terms.php) | [ link to us](http://www.biblio.com/link_to_us.php) | [ contact us](http://www.biblio.com/support_request.php) | [ login](https://www.biblio.com/cgi-bin/login.pl)
 
 **Copyright © 2000-2003, biblio.com, inc**
 
