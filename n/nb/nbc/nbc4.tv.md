@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the nbc4.tv privacy policy that was archived on 2001-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010127221100id_/http%3A//www.nbc4.tv/cgi-bin/gx.cgi/AppLogic%2BFTContentServer%3Fpagename%3DFutureTense/Apps/Xcelerate/Render%26c%3DNBCArticle%26cid%3DNBC0SS1IQBC%26preview%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbc4.tv privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215115308id_/http%3A//www.nbc4.tv/news/1176131/detail.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# NBC 4 - News - Online Privacy Statement
 
-The policy set forth below is applicable to this site, www.nbc4.tv and to all of the station web sites owned and operated by National Broadcasting, Inc., including WJAR-TV(Providence, RI) nbc10wjar.com; WNCN-TV (Raleigh, NC) nbc17.com; WCMH-TV (Columbus, OH) wcmh4.com; KNSD-TV (San Diego, CA), nbc739.com; WMAQ-TV (Chicago, IL) nbc5.com; WRC-TV (Washington, D.C.) nbc4dc.com; KNBC-TV (Los Angeles, CA) nbc4la.com; WNBC-TV (New York, NY) newschannel4.com; WCAU-TV (Philadelphia, PA) nbc10.com; WTVJ-TV (Miami, FL) nbc6.nbc.com; WVTM-TV (Birmingham, AL) nbc13.com; KXAS-TV (Dallas/Fort Worth, TX) nbc5dfw.com; WVIT (Hartford, CT) nbc30.com.
+**Online Privacy Statement**
 
-If you have any questions about this privacy policy, about information gathered by KNBC-TV online, or about the operation of this site, please contact us at knbc.webmaster@nbc.com.
+The policy set forth below is applicable to this site and to all of the station web sites operated by Internet Broadcasting Systems, Inc. on behalf of National Broadcasting, Inc., including WJAR-TV(Providence, RI) turnto10.com; WNCN-TV (Raleigh, NC) nbc17.com; WCMH-TV (Columbus, OH) nbc4columbus.com; KNSD-TV (San Diego, CA), nbcsandiego.com; WMAQ-TV (Chicago, IL) nbc5.com; WRC-TV (Washington, D.C.) nbc4.com; KNBC-TV (Los Angeles, CA) nbc4.tv; WNBC-TV (New York, NY) wnbc.com; WCAU-TV (Philadelphia, PA) nbc10.com; WTVJ-TV (Miami, FL) nbc6.net; WVTM-TV (Birmingham, AL) nbc13.com; KXAS-TV (Dallas/Fort Worth, TX) nbc5i.com; WVIT (Hartford, CT) nbc30.com; KNTV (San Jose, CA) nbc3.com.
+
+If you have any questions about this privacy policy, about information gathered by this site, or about the operation of this site, please contact us at security@ibsys.com. 
 
 **Privacy Policy**
 
@@ -16,7 +18,7 @@ We collect two types of personally identifying information from users: personal 
 
 **Personal Data**
 
-Personal data is collected when users provide personal data to the site, for example in registering for electronic newsletters or other membership services, answering surveys, purchasing items from the site, sending email to the site, and registering for contests and other promotional opportunities. Also, we collect the e-mail addresses of users who post messages to their message boards and chat areas.
+Personal data is collected when users provide personal data to the site, for example in registering for electronic newsletters or other membership services, answering surveys, purchasing items from the site, sending email to the site, and registering for contests and other promotional opportunities. Also, we collect the e-mail addresses of users who post messages to the message boards and chat areas.
 
 **Aggregated Information**
 
@@ -24,7 +26,7 @@ Aggregated information, such as which pages users access or visit and informatio
 
 **Use of Cookies**
 
-Our site also uses "cookies" to collect information. A cookie is a small data file that most major websites write into your hard drive for record keeping purposes when you visit them. Cookies allow a website to measure activity on their site and to improve your user experience, for example by remembering your passwords and viewing preferences, thus allowing you to visit various member-only parts of the site without re-registering. Cookies are used by our site to measure activity on the site and make improvements and updates based on which areas are popular and which are not. We do not use cookies to retrieve information from your computer that was not originally sent in a cookie. Except for personal information voluntarily provided by you (i.e. during membership registration or a contest), we do not use information transferred through cookies for any promotional or marketing purposes, and that information is not shared with third parties.
+Our site also uses "cookies" to collect information. A cookie is a small data file that most major websites write into your hard drive for record keeping purposes when you visit them. Cookies allow a website to measure activity on their site and to improve your user experience, for example by remembering your passwords and viewing preferences, thus allowing you to visit various member-only parts of the site without re-registering. We do not use cookies to retrieve information from your computer that was not originally sent in a cookie. Except for personal information voluntarily provided by you (i.e. during membership registration or a contest), we do not use information transferred through cookies for any promotional or marketing purposes, and that information is not shared with third parties.
 
 You may occasionally get cookies from advertisers on the site, which is standard on the Internet. These cookies are outside the control of our site, and are not subject to our privacy policy. Most browsers are initially set to accept cookies. If you’d prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the member-only areas and shopping, contest and game areas, will not function properly if you do so.
 
@@ -36,9 +38,7 @@ We share aggregated information collected from the site with third parties for b
 
 Personal information collected by this site may be shared with other NBC-owned or controlled entities. With your permission, we may also share personal information collected on the site with prescreened third parties for marketing or promotional purposes. We will provide users with an opportunity to decline this service when such information is requested from you online. In addition, in the event we plan to post any such information on the site (for example, if you are the winner of a contest) we will either notify you of this possibility when you provide the information and/or, if possible, when the information is posted. Personal information may also be shared only as necessary with third parties who provide technical services to the Site, or host portions of the site, who will not share or otherwise disseminate this information other than as necessary to perform these services.
 
-If you object to the use of personal information provided by you for any reason, you may stop that use by modifying your registration information online. Please change or delete your registration information by visiting our [feedback form](http://nbcin.nbc4la.com/tvsd/feedback/index.shtml), entering the relevant data and then clicking "submit."
-
-Also, if you have registered as a member through the online registration system and have subscribed to one or more e-mail newsletters or other services and do not want to receive such e-mail from them in the future, please discontinue your subscriptions by returning to:[Remove From List](http://nbcin.nbc4la.com/tvsd/special/bulletin/remove.shtml), checking or unchecking the relevant box or boxes, and then clicking "submit."
+Also, if you have subscribed to one or more e-mail newsletters and do not want to receive such e-mail in the future, please discontinue your subscriptions by selecting the "unsubscribe" link at the bottom of any message.
 
 **Children and Privacy**
 
@@ -60,6 +60,15 @@ Please remember that information posted to message boards and chat areas becomes
 
 It is important to note that this site contains links to other sites, and that those sites may not follow the same privacy policies as our site. For instance, if you click on an advertisement on the site, this will take you away from the site and to an entirely different site. This can include links from advertisers, content providers and partners who may use the sites’ logo and or style as a result of a co-branding agreement. These sites may send their own cookies to you, and may collect data and make uses of it that the sites would not.
 
-**USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY.**
+USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO THE TERMS OF USE AND PRIVACY POLICY.
 
-We reserve the right to change this policy at any time by notifying users of the existence of a revised privacy policy.
+We reserve the right to change this policy at any time by posting a revised privacy policy.
+
+  
+  
+  
+
+
+  
+  
+
