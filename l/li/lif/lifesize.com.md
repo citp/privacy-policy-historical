@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesize.com privacy policy that was archived on 2004-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041012094321id_/http%3A//www.lifesize.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesize.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404231420id_/http%3A//www.lifesize.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Online Privacy Policy - LifeSize
 
