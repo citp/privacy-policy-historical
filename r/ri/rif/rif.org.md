@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204153645id_/http%3A//www.rif.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rif.org privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306195621id_/http%3A//www.rif.org/privacy) for the most accurate reproduction.*
 
 # Reading Is Fundamental | Calendar
 
@@ -36,7 +36,7 @@ RIF is very concerned with children's privacy.  Generally, when using the RIF R
 
 Your RIF Reading Planet account information is password-protected, so that you, and only you, have access to this personal information. We recommend that you not give your password to anyone.
 
-Some personal information is gathered when you register with RIF Reading Planet. During RIF Reading Planet registration, you are asked to enter your name, email address, and other personal information. This data is used to customize the site for you and to send you birthday greetings via email. RIF does not share this information with other organizations for commercial purposes and does not engage in email marketing. 
+Some personal information is gathered when you register with the free RIF Reading Planet Club. During RIF Reading Planet Club registration, you are asked to enter your name, email address, and other personal information. This data is used to customize the site for you and to send you birthday greetings via email. RIF does not share this information with other organizations for commercial purposes and does not engage in email marketing. 
 
 For additional information on the Children's Privacy, RIF refers you to: <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html>  
 
