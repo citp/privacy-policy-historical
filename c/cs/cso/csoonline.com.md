@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csoonline.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601144939id_/http%3A//www.csoonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csoonline.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209102644id_/http%3A//www.csoonline.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for CSOonline.com -
 
@@ -18,9 +18,9 @@ CSOonline.com users should be aware that when they voluntarily disclose personal
 
 Questions about this policy can be sent to [thorgan@cxo.com.](mailto:thorgan@CSOonline.com)
 
-CSOonline.com's [welcome message](https://web.archive.org/web/20020601144939id_/http%3A//www.csoonline.com/joegreet.html), [User Agreement](https://web.archive.org/web/20020601144939id_/http%3A//www.csoonline.com/user_agreement.html), and [ link disclaimer](https://web.archive.org/CIO/disclaimer.html).
+CSOonline.com's [welcome message](https://web.archive.org/web/20021209102644id_/http%3A//www.csoonline.com/joegreet.html), [User Agreement](https://web.archive.org/web/20021209102644id_/http%3A//www.csoonline.com/user_agreement.html), and [ link disclaimer](https://web.archive.org/CIO/disclaimer.html).
 
-CSOonline.com complies with [the ASME Guidelines with IDG extensions](https://web.archive.org/web/20020601144939id_/http%3A//www.csoonline.com/asme.html) for new media. 
+CSOonline.com complies with [the ASME Guidelines with IDG extensions](https://web.archive.org/web/20021209102644id_/http%3A//www.csoonline.com/asme.html) for new media. 
 
 © 2002 CXO Media Inc. All rights reserved.  
 
