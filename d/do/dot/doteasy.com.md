@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doteasy.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602140858id_/http%3A//www.doteasy.com/Terms/index.cfm%3FT%3DPP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doteasy.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203000712id_/http%3A//www.doteasy.com/Terms/index.cfm%3FT%3DPP) for the most accurate reproduction.*
 
-# Doteasy.com - Bannerless Free Web Hosting for Individuals & Small Businesses
+# Doteasy - Bannerless Free Web Hosting and Email for Small Business and Individuals
 
 | 
 
@@ -26,6 +26,7 @@ If you believe Doteasy.com is not abiding by its posted privacy policy, or if yo
 > 
 >     Attn:  Doteasy.com
 >     Doteasy Technology Inc.
->     Suite 607 – 4538 Kingsway
->     Burnaby, BC, V5H 4T9
+>     Suite 210 - 3602 Gilmore Way,
+>     Burnaby, B.C., V5G 4W9
 >     Canada
+>     
