@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605055504id_/http%3A//www.hancockbank.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hancockbank.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211154703id_/http%3A//www.hancockbank.com/privacy.html) for the most accurate reproduction.*
 
 # Hancock Bank Online
 
@@ -144,7 +144,7 @@ A cookie is a small piece of information about an Internet session that may be c
 
 
 
-* **Except for Online Banking-HandyNet.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20020605055504id_/http%3A//www.hancockbank.com/bank_online/faq_online.html#cookie) for more information regarding the use of Cookies with Online Banking. 
+* **Except for Online Banking-HandyNet.** Please refer to [Online Banking FAQ](https://web.archive.org/web/20021211154703id_/http%3A//www.hancockbank.com/bank_online/faq_online.html#cookie) for more information regarding the use of Cookies with Online Banking. 
 
 ** Use of Information Collected **  
 Hancock Bank uses the information collected from visitors to its Web sites to address the specific needs of those visitors and to provide better customer service, including the provision of the latest information regarding Hancock Bank products. The information collected also is used to provide a record of communications between Hancock Bank and its Web site visitors and to comply with any applicable legal and/or regulatory requirements. 
@@ -162,4 +162,4 @@ Keeping your account information accurate and up-to-date is very important. If y
 ****
 
 **Visitors**  
-Visitors having specific questions regarding any information may e-mail Hancock Bank at [service@hancockbank.com](mailto:service@hancockbank.com) or use the web site's [Feedback/Information Request Form](https://web.archive.org/web/20020605055504id_/http%3A//www.hancockbank.com/contacts/info.html).
+Visitors having specific questions regarding any information may e-mail Hancock Bank at [service@hancockbank.com](mailto:service@hancockbank.com) or use the web site's [Feedback/Information Request Form](https://web.archive.org/web/20021211154703id_/http%3A//www.hancockbank.com/contacts/info.html).
