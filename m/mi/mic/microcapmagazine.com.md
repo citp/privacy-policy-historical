@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microcapmagazine.com privacy policy that was archived on 2003-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031012022551id_/http%3A//www.microcapmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microcapmagazine.com privacy policy that was archived on 2004-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040506135349id_/http%3A//www.microcapmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
