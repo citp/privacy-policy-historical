@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mun.ca privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204093654id_/http%3A//www.mun.ca/about_munca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mun.ca privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403153701id_/http%3A//www.mun.ca/about_munca/privacy.php) for the most accurate reproduction.*
 
 # Memorial University of Newfoundland | Privacy
 
