@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603003941id_/http%3A//www.shermanstravel.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shermanstravel.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205231717id_/http%3A//www.shermanstravel.com/privacy.asp) for the most accurate reproduction.*
 
 # ShermansTravel.com -- Screened Listings, Deal Reviews, Objective Editorial
 
@@ -13,4 +13,11 @@ ShermansTravel.com may use the information it gathers for its own internal purpo
 
 ShermansTravel.com reserves the right to change this policy at any time. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. By using the ShermansTravel.com site, you signify your agreement with the terms of our privacy statement. 
 
-If you have any questions about ShermansTravel.com privacy policy, please contact the us at: info@ShermansTravel.com 
+If you have any questions about ShermansTravel.com privacy policy, please contact the us at: info@ShermansTravel.com or   
+
+
+224 W. 30th Street  
+Suite 802  
+New York, New York  
+10001-4905  
+
