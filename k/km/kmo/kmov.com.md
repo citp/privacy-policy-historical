@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606060649id_/http%3A//www.kmov.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmov.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204100318id_/http%3A//www.kmov.com/registration/privacy.html) for the most accurate reproduction.*
 
 # KMOV.com | St. Louis, MO | Privacy Policy
 
@@ -91,7 +91,7 @@ When any site user chooses to opt-out of a specific advertiser program, to compl
 
 You may access all of the Personal Information that we collect from you online and maintain by using the procedure that follows. We use this procedure to better safeguard your Personal Information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.   
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.   
-1\. Enter (or click) [http://signin.kmov.com](http://signin.kmov.com/) in your browser.   
+1\. Enter (or click) <http://www.kmov.com/sharedcontent/registration/membercenter.jsp> in your browser.   
 2\. Sign in by entering your e-mail address and password. Your account information will then be displayed.   
 3\. To change your contact options select "Contact Options," make your selections, and submit the form.   
 4\. To remove your registration profile from our database, select "Delete My Account," make your selections, and submit the form. 
@@ -114,10 +114,8 @@ This text is invisible on the page, but this text is affected by the invisible i
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/1365251849/Position1/default/empty.gif/7a2f4869356c347a48744d4143435449?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/450986350/Position1/default/empty.gif/7a2f4869356c347a48744d4142313167?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/294056677/Position4/default/empty.gif/7a2f4869356c347a48744d4143435449?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/1174362008/Position4/default/empty.gif/7a2f4869356c347a48744d4142313167?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/1832320281/Position5/default/empty.gif/7a2f4869356c347a48744d4143435449?x)
-
-Search local ads and more!
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.kmov.com/aboutus/932259622/Position5/default/empty.gif/7a2f4869356c347a48744d4142313167?x)
