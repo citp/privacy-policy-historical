@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the globalsecurity.org privacy policy that was archived on 2002-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021211094804id_/http%3A//www.globalsecurity.org/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the globalsecurity.org privacy policy that was archived on 2003-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030603214844id_/http%3A//globalsecurity.org/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title> GlobalSecurity.org Privacy Policy</title>
@@ -34,8 +34,69 @@ document.write('IPT>');
 <!-- ----------Copyright 2000, Advertising.com---------- -->
 
 
+<!-- ----------QuinStreet---------- -->
+<script>
 
 
+                //specify page to pop-under
+                var popunder="http://www.globalsecurity.org/_inc/quinstreet.htm"
+
+
+                //specify popunder window features
+                //set 1 to enable a particular feature, 0 to disable
+                var winfeatures="width=400,height=329,scrollbars=0,resizable=0,toolbar=0,location=0,menubar=0,status=0,directories=0"
+
+
+                //Pop-under only once per browser session? (0=no, 1=yes)
+                //Specifying 0 will cause popunder to load every time page is loaded
+                var once_per_session=1
+
+
+                ///No editing beyond here required/////
+
+
+                function get_cookie(Name) {
+                  var search = Name + "="
+                  var returnvalue = "";
+                  if (document.cookie.length > 0) {
+                    offset = document.cookie.indexOf(search)
+                    if (offset != -1) { // if cookie exists
+                      offset += search.length
+                      // set index of beginning of value
+                      end = document.cookie.indexOf(";", offset);
+                      // set index of end of cookie value
+                      if (end == -1)
+                         end = document.cookie.length;
+                      returnvalue=unescape(document.cookie.substring(offset, end))
+                      }
+                   }
+                  return returnvalue;
+                }
+
+
+                function loadornot(){
+                if (get_cookie('popunder')==''){
+                loadpopunder()
+                document.cookie="popunder=yes"
+                }
+                }
+
+
+                function loadpopunder(){
+                win2=window.open(popunder,"",winfeatures)
+                win2.blur()
+                window.focus()
+                }
+
+
+                if (once_per_session==0)
+                loadpopunder()
+                else
+                loadornot()
+
+
+                </script>
+<!-- ----------QuinStreet---------- -->
 
 
 
@@ -48,16 +109,34 @@ document.write('IPT>');
 <td><a href="http://www.globalsecurity.org/index.html"><img alt="Global Security.org - Proliferation, Defense, Intelligence, Space - Click to go back to the main page" src="http://www.globalsecurity.org/logo5.gif" height="67" width="133" border="0"></a></td>
 <td align="center">&nbsp;
 
+<!-- FASTCLICK.COM 468x60 v1.4 for globalsecurity.org -->
+<script language="Javascript">
+<!--
+var i=j=p=t=u=x=z=dc='';var id=f=0;var f=Math.floor(Math.random()*7777); id=12391; dc=document;u='ht'+'tp://media.fastclick.net/w'; x='/get.media?t=s'; z=' width=468 height=60 border=0 ';t=z+'marginheight=0 marginwidth='; i=u+x+'&sid='+id+'&m=1&f=b&v=1.4&c='+f+'&r='+escape(dc.referrer); u='<a  hr'+'ef="'+u+'/click.here?sid='+id+'&m=1&c='+f+'"  target="_top">';
 
+dc.writeln('<ifr'+'ame src="'+i+'&d=f"'+t+'0 hspace=0 vspace=0 frameborder=0 scrolling=no>');
+if(navigator.appName.indexOf('Mic')<=0){dc.writeln(u+'<img src="'+i+'&d=n"'+z+'></a>');}
+dc.writeln('</iframe>'); // --></script><iframe src="http://media.fastclick.net/w/get.media?t=s&amp;sid=12391&amp;m=1&amp;f=b&amp;v=1.4&amp;c=7081&amp;r=&amp;d=f" width="468" height="60" border="0" marginheight="0" marginwidth="0" hspace="0" vspace="0" frameborder="0" scrolling="no">
+<a  href="http://media.fastclick.net/w/click.here?sid=12391&m=1&c=7081"  target="_top"><img src="http://media.fastclick.net/w/get.media?t=s&sid=12391&m=1&f=b&v=1.4&c=7081&r=&d=n" width=468 height=60 border=0 ></a>
+</iframe>
+
+<noscript> 
+<a href="http://media.fastclick.net/w/click.here?sid=12391&m=1&c=1" target="_top">
+<img src="http://media.fastclick.net/w/get.media?sid=12391&m=1&d=s&c=1&f=b&v=1.4" width=468 height=60 border=1></a>
+</noscript>
+<!-- FASTCLICK.COM 468x60 v1.4 for globalsecurity.org -->
+
+<!--
 <a href="http://www.globalsecurity.org/org/donation.htm">
-<!--  <img src="http://www.globalsecurity.org/images/donation.gif" border="2" alt="Your tax-deductible contribution to support our website."> -->
 
-<marquee width="400"><blink>
-<h1>Please Help Us Help You - Click Here</h1>
+<img src="http://www.globalsecurity.org/images/donation.gif" border="2" alt="Your tax-deductible contribution to support our website."> 
 
-</blink></marquee>
+<marquee width=400><blink>
+<h1> Please make a tax-deductible donation to GlobalSecurity.org - Click Here</h1>
+
+</marquee></blink>
 </a>
-
+-->
 
 </td>
 <td>
@@ -122,14 +201,14 @@ document.write('IPT>');
 <tbody><tr><td bgcolor="#0000CC" class="navigate" height="3" background="http://www.globalsecurity.org/dot_blue.gif"><img src="http://www.globalsecurity.org/dot_blue.gif" width="1" height="3" border="0" alt=""></td></tr>
 <tr align="center">
 <td nowrap="" align="center" class="nav"> &nbsp;&nbsp;&nbsp;<b>
-
 <a href="http://www.globalsecurity.org/org/donation.htm">Help Support Our Work</a>  ::  
 <a href="http://www.globalsecurity.org/index.html">Home</a>  ::  
 <a href="http://www.globalsecurity.org/sitemap.htm" title="Matrix of GlobalSecurity.org">Sitemap</a>  |||   
 <a href="http://www.globalsecurity.org/wmd/index.html" title="Weapons of Mass Destruction, Not implemented yet">WMD</a>   ::  
 <a href="http://www.globalsecurity.org/military/index.html" title="Army, Navy, Air Force, Marine Corps and Department of Energy">Military</a>  ::  
-<a href="http://www.globalsecurity.org/intell/index.html" title="Under Construction">Intelligence</a>  ::  
-<a href="http://www.globalsecurity.org/space/index.html" title="Under Construction">Space</a>  
+<a href="http://www.globalsecurity.org/security/index.html" title="Homeland Security and Counter-Terrorism">Security</a>  :: 
+<a href="http://www.globalsecurity.org/intell/index.html" title="Intelligence Programs and Agencies">Intelligence</a>  ::  
+<a href="http://www.globalsecurity.org/space/index.html" title="Space Exploration and Development">Space</a>  
 </b>
 
 </td>
@@ -143,13 +222,13 @@ document.write('IPT>');
 <!--
 	document.write(document.location);
 // -->
-</script>https://web.archive.org/web/20021211094804id_/http%3A//www.globalsecurity.org/privacy.htm<br>
+</script>https://web.archive.org/web/20030603214844id_/http%3A//globalsecurity.org/privacy.htm<br>
 
 Maintained by <a href="http://www.globalsecurity.org/org/staff/pike.htm">John Pike</a><br>
 Last Modified:  
  
 March 17, 2002 - 18:59  
-<br><a href="http://www.globalsecurity.org/copyright.htm">Copyright</a> © 2000-2002  GlobalSecurity.org All Rights Reserved 
+<br><a href="http://www.globalsecurity.org/copyright.htm">Copyright</a> © 2000-2003  GlobalSecurity.org All Rights Reserved 
 </p>
 <br>&nbsp;<br>
 
