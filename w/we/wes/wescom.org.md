@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wescom.org privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209080223id_/http%3A//www.wescom.org/info/info_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wescom.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603084513id_/http%3A//wescom.org/info/info_privacypolicy.asp) for the most accurate reproduction.*
 
 # Info: Privacy Policy
 
