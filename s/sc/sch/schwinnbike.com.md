@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the schwinnbike.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215111541id_/http%3A//www.schwinnbike.com/care/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwinnbike.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625161732id_/http%3A//www.schwinnbike.com/care/privacy.php) for the most accurate reproduction.*
 
 # Schwinn Heritage
 
