@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gopusa.com privacy policy that was archived on 2002-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605034737id_/http%3A//gopusa.com/legal/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gopusa.com privacy policy that was archived on 2002-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021201171014id_/http%3A//gopusa.com/legal/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -15,13 +15,39 @@
 var agt = navigator.userAgent.toLowerCase();
 var is_sun = (agt.indexOf("sunos") != -1);
 var is_mac = (agt.indexOf("mac") != -1);
+var is_major = parseInt(navigator.appVersion);
+var navName = navigator.appName;
+brNum = agt.substr(8,1);
 
 if (is_mac) {
-	document.write("<link rel=\"stylesheet\" href=\"http://gopusa.com/styles/new_mac.css\" type=\"text/css\">"); }
+    if (navName == 'Netscape') {
+	    if (brNum == 4) {
+	document.write("<link rel=\"stylesheet\" href=\"http://gopusa.com/styles/new_mac2.css\" type=\"text/css\">");
+		}
+	    else {
+	document.write("<link rel=\"stylesheet\" href=\"http://gopusa.com/styles/new_mac.css\" type=\"text/css\">");
+    	}
+    }
+    else {
+    document.write("<link rel=\"stylesheet\" href=\"http://gopusa.com/styles/new_mac.css\" type=\"text/css\">");
+	}
+}
 else if (is_sun) {
-	document.write("<link rel=\"stylesheet\" href=\"http://gopusa.com/styles/new_sun.css\" type=\"text/css\">"); }
+	document.write("<link rel=\"stylesheet\" href=\"http://gopusa.com/styles/new_sun.css\" type=\"text/css\">");
+}
 else {
-	document.write("<link rel=\"stylesheet\" href=\"http://gopusa.com/styles/new_pc.css\" type=\"text/css\">"); }
+    if (navName == 'Netscape') {
+	    if (brNum == 4) {
+	document.write("<link rel=\"stylesheet\" href=\"http://gopusa.com/styles/new_pc2.css\" type=\"text/css\">");
+		}
+	    else {
+	document.write("<link rel=\"stylesheet\" href=\"http://gopusa.com/styles/new_pc.css\" type=\"text/css\">");
+    	}
+    }
+    else {
+    document.write("<link rel=\"stylesheet\" href=\"http://gopusa.com/styles/new_pc.css\" type=\"text/css\">");
+	}
+}
 
 // -->
 
@@ -74,135 +100,138 @@ MM_reloadPage(true);
 </script>
 
 </head>
-<body bgcolor="#FFFFFF" text="#000066" link="#990000" vlink="#990000" onload="MM_preloadImages('/images/menu/resources2.gif','/images/menu/opinion2.gif','/images/menu/bay2.gif','/images/menu/bayham2.gif','/images/menu/bish2.gif','/images/menu/chavez2.gif','/images/menu/horowitz2.gif','/images/menu/houston2.gif','/images/menu/keyes2.gif','/images/menu/meekins2.gif','/images/menu/molin2.gif','/images/menu/parker2.gif','/images/menu/patton2.gif','/images/menu/rogoff2.gif','/images/menu/sartre2.gif','/images/menu/seese2.gif','/images/menu/segel2.gif','/images/menu/shenandoah2.gif','/images/menu/more_opinion2.gif','/images/menu/statenews2.gif','/images/menu/funstuff2.gif','/images/menu/company2.gif','/images/menu/close2.gif','/images/menu/bushnews2.gif','/images/menu/political2.gif','/images/menu/government2.gif','/images/menu/media2.gif','/images/menu/historical2.gif','/images/menu/calendar2.gif','/images/menu/bookstore2.gif','/images/menu/cartoons2.gif','/images/menu/puzzle2.gif','/images/menu/flash2.gif','/images/menu/technology2.gif','/images/menu/logos2.gif','/images/menu/survey2.gif','/images/menu/mission2.gif','/images/menu/awards2.gif','/images/menu/directors2.gif','/images/menu/press2.gif','/images/menu/contact2.gif')">
-<div id="opinion" style="position:absolute; left:144px; top:272px; width:130px; height:450px; z-index:1; visibility: hidden; background-color: #990000; layer-background-color: #990000"> 
-  <table width="130" border="0" cellspacing="0" cellpadding="3" align="center">
-    <tbody><tr align="center"> 
-      <td><a href="/austinbay" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image3','','/images/menu/bay2.gif',1)"><img src="/images/menu/bay.gif" width="120" height="20" border="0" name="Image3"></a></td>
+<body bgcolor="#FFFFFF" text="#000066" link="#990000" vlink="#990000" onload="MM_preloadImages('/images/menu/resources2.gif','/images/menu/opinion2.gif','/images/menu/funstuff2.gif','/images/menu/company2.gif','/images/menu/close2.gif','/images/menu/close.gif')">
+<div id="opinion" style="position:absolute; left:144px; top:272px; width:150px; height:450px; z-index:1; visibility: hidden; background-color: #990000; layer-background-color: #990000"> 
+  <table width="150" border="0" cellspacing="5" cellpadding="3" align="center" bgcolor="#990000">
+    <tbody><tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/austinbay">Austin Bay</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/mikebayham" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image4','','/images/menu/bayham2.gif',1)"><img src="/images/menu/bayham.gif" width="120" height="20" border="0" name="Image4"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/mikebayham">Mike Bayham</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/greggbish" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image5','','/images/menu/bish2.gif',1)"><img src="/images/menu/bish.gif" width="120" height="20" border="0" name="Image5"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/greggbish">Gregg Bish</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/lindachavez" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','/images/menu/chavez2.gif',1)"><img src="/images/menu/chavez.gif" width="120" height="20" border="0" name="Image6"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/lindachavez">Linda Chavez</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/caroldevinemolin" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','/images/menu/molin2.gif',1)"><img src="/images/menu/molin.gif" width="120" height="20" border="0" name="Image11"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/caroldevinemolin">Carol Devine-Molin</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/davidhorowitz" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','/images/menu/horowitz2.gif',1)"><img src="/images/menu/horowitz.gif" width="120" height="20" border="0" name="Image7"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/davidhorowitz">David Horowitz</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/kerrihouston" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','/images/menu/houston2.gif',1)"><img src="/images/menu/houston.gif" width="120" height="20" border="0" name="Image8"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/kerrihouston">Kerri Houston</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/alankeyes" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','/images/menu/keyes2.gif',1)"><img src="/images/menu/keyes.gif" width="120" height="20" border="0" name="Image9"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/alankeyes">Alan Keyes</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/frederickmeekins" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','/images/menu/meekins2.gif',1)"><img src="/images/menu/meekins.gif" width="120" height="20" border="0" name="Image10"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/rachelmarsden">Rachel Marsden</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/starparker" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','/images/menu/parker2.gif',1)"><img src="/images/menu/parker.gif" width="120" height="20" border="0" name="Image12"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/frederickmeekins">Frederick Meekins</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/dougpatton" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','/images/menu/patton2.gif',1)"><img src="/images/menu/patton.gif" width="120" height="20" border="0" name="Image13"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/starparker">Star Parker</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/bonniecherninrogoff" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image14','','/images/menu/rogoff2.gif',1)"><img src="/images/menu/rogoff.gif" width="120" height="20" border="0" name="Image14"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/dougpatton">Doug Patton</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/sartre" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image15','','/images/menu/sartre2.gif',1)"><img src="/images/menu/sartre.gif" width="120" height="20" border="0" name="Image15"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/bonniecherninrogoff">Bonnie Chernin Rogoff</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/dorothyanneseese" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image16','','/images/menu/seese2.gif',1)"><img src="/images/menu/seese.gif" width="120" height="20" border="0" name="Image16"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/sartre">SARTRE</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/tomsegel" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image17','','/images/menu/segel2.gif',1)"><img src="/images/menu/segel.gif" width="120" height="20" border="0" name="Image17"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/dorothyanneseese">Dorothy Anne Seese</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/aprilshenandoah" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image18','','/images/menu/shenandoah2.gif',1)"><img src="/images/menu/shenandoah.gif" width="120" height="20" border="0" name="Image18"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/tomsegel">Tom Segel</a></td>
     </tr>
-    <tr align="center">
-      <td><a href="/opinion" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image19','','/images/menu/more_opinion2.gif',1)"><img src="/images/menu/more_opinion.gif" width="120" height="20" border="0" name="Image19"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/aprilshenandoah">April Shenandoah</a></td>
     </tr>
-  </tbody></table>
-</div>
-<div id="close1" style="position:absolute; left:274px; top:272px; width:49px; height:35px; z-index:2; visibility: hidden"><a href="javascript:MM_showHideLayers('opinion','','hide','close1','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image23" onmousedown="MM_showHideLayers('opinion','','hide','close1','','hide')"></a></div>
-<div id="resources" style="position:absolute; left:144px; top:272px; width:130px; height:185px; z-index:3; background-color: #990000; layer-background-color: #990000; visibility: hidden"> 
-  <table width="130" border="0" cellspacing="0" cellpadding="3">
-    <tbody><tr align="center"> 
-      <td><a href="/bush" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image24','','/images/menu/bushnews2.gif',1)"><img src="/images/menu/bushnews.gif" width="120" height="20" border="0" name="Image24"></a></td>
-    </tr>
-    <tr align="center">
-      <td><a href="/states.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image31','','/images/menu/statenews2.gif',1)"><img src="/images/menu/statenews.gif" width="120" height="20" border="0" name="Image31"></a></td>
-    </tr>
-    <tr align="center"> 
-      <td><a href="/nat_political.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image25','','/images/menu/political2.gif',1)"><img src="/images/menu/political.gif" width="120" height="20" border="0" name="Image25"></a></td>
-    </tr>
-    <tr align="center"> 
-      <td><a href="/nat_govt.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image26','','/images/menu/government2.gif',1)"><img src="/images/menu/government.gif" width="120" height="20" border="0" name="Image26"></a></td>
-    </tr>
-    <tr align="center"> 
-      <td><a href="/nat_media.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image27','','/images/menu/media2.gif',1)"><img src="/images/menu/media.gif" width="120" height="20" border="0" name="Image27"></a></td>
-    </tr>
-    <tr align="center"> 
-      <td><a href="/documents" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image28','','/images/menu/historical2.gif',1)"><img src="/images/menu/historical.gif" width="120" height="20" border="0" name="Image28"></a></td>
-    </tr>
-    <tr align="center"> 
-      <td><a href="/calendar.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image29','','/images/menu/calendar2.gif',1)"><img src="/images/menu/calendar.gif" width="120" height="20" border="0" name="Image29"></a></td>
+    <tr>
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/opinion">More Opinion</a></td>
     </tr>
   </tbody></table>
 </div>
-<div id="close2" style="position:absolute; left:274px; top:272px; width:49px; height:35px; z-index:4; visibility: hidden"><a href="javascript:MM_showHideLayers('resources','','hide','close2','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image30','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image30" onmousedown="MM_showHideLayers('resources','','hide','close2','','hide')"></a></div>
-<div id="funstuff" style="position:absolute; left:144px; top:272px; width:130px; height:185px; z-index:5; visibility: hidden; background-color: #990000; layer-background-color: #990000"> 
-  <table width="130" border="0" cellspacing="0" cellpadding="3">
-    <tbody><tr align="center"> 
-      <td><a href="/bookstore" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image20','','/images/menu/bookstore2.gif',1)"><img src="/images/menu/bookstore.gif" width="120" height="20" border="0" name="Image20"></a></td>
+<div id="close1" style="position:absolute; left:294px; top:272px; width:49px; height:35px; z-index:2; visibility: hidden"><a href="javascript:MM_showHideLayers('opinion','','hide','close1','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image23','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image23" onmousedown="MM_showHideLayers('opinion','','hide','close1','','hide')"></a></div>
+<div id="resources" style="position:absolute; left:144px; top:272px; width:150px; height:185px; z-index:3; background-color: #990000; layer-background-color: #990000; visibility: hidden"> 
+  <table width="150" border="0" cellspacing="5" cellpadding="3">
+    <tbody><tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/bush">Bush News</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/cartoons" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image32','','/images/menu/cartoons2.gif',1)"><img src="/images/menu/cartoons.gif" width="120" height="20" border="0" name="Image32"></a></td>
+    <tr>
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/states.shtml">State News &amp; Info.</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/puzzle.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image33','','/images/menu/puzzle2.gif',1)"><img src="/images/menu/puzzle.gif" width="120" height="20" border="0" name="Image33"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/nat_political.shtml">Political Links</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/flash.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image34','','/images/menu/flash2.gif',1)"><img src="/images/menu/flash.gif" width="120" height="20" border="0" name="Image34"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/nat_govt.shtml">Government Links</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/technology.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image35','','/images/menu/technology2.gif',1)"><img src="/images/menu/technology.gif" width="120" height="20" border="0" name="Image35"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/nat_media.shtml">Media Links</a></td>
     </tr>
-    <tr align="center"> 
-      <td><a href="/logos.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image36','','/images/menu/logos2.gif',1)"><img src="/images/menu/logos.gif" width="120" height="20" border="0" name="Image36"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/documents">Historical Documents</a></td>
     </tr>
-    <tr align="center">
-      <td><a href="/survey.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image37','','/images/menu/survey2.gif',1)"><img src="/images/menu/survey.gif" width="120" height="20" border="0" name="Image37"></a></td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="close3" style="position:absolute; left:274px; top:272px; width:49px; height:35px; z-index:6; visibility: hidden"><a href="javascript:MM_showHideLayers('funstuff','','hide','close3','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image38','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image38" onmousedown="MM_showHideLayers('funstuff','','hide','close3','','hide')"></a></div>
-<div id="company" style="position:absolute; left:144px; top:272px; width:130px; height:133px; z-index:7; background-color: #990000; layer-background-color: #990000; visibility: hidden"> 
-  <table width="130" border="0" cellspacing="0" cellpadding="3">
-    <tbody><tr align="center"> 
-      <td><a href="/mission.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image39','','/images/menu/mission2.gif',1)"><img src="/images/menu/mission.gif" width="120" height="20" border="0" name="Image39"></a></td>
-    </tr>
-    <tr align="center"> 
-      <td><a href="/awards.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image40','','/images/menu/awards2.gif',1)"><img src="/images/menu/awards.gif" width="120" height="20" border="0" name="Image40"></a></td>
-    </tr>
-    <tr align="center"> 
-      <td><a href="/directors.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image41','','/images/menu/directors2.gif',1)"><img src="/images/menu/directors.gif" width="120" height="20" border="0" name="Image41"></a></td>
-    </tr>
-    <tr align="center"> 
-      <td><a href="/presscenter" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image42','','/images/menu/press2.gif',1)"><img src="/images/menu/press.gif" width="120" height="20" border="0" name="Image42"></a></td>
-    </tr>
-    <tr align="center"> 
-      <td><a href="/contact.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image43','','/images/menu/contact2.gif',1)"><img src="/images/menu/contact.gif" width="120" height="20" border="0" name="Image43"></a></td>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/calendar.shtml">Event Calendar</a></td>
     </tr>
   </tbody></table>
 </div>
-<div id="close4" style="position:absolute; left:274px; top:272px; width:49px; height:35px; z-index:8; visibility: hidden"><a href="javascript:MM_showHideLayers('company','','hide','close4','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image44','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image44" onmousedown="MM_showHideLayers('company','','hide','close4','','hide')"></a></div>
+<div id="close2" style="position:absolute; left:294px; top:272px; width:49px; height:35px; z-index:4; visibility: hidden"><a href="javascript:MM_showHideLayers('resources','','hide','close2','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image30','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image30" onmousedown="MM_showHideLayers('resources','','hide','close2','','hide')"></a></div>
+<div id="funstuff" style="position:absolute; left:144px; top:272px; width:150px; height:185px; z-index:5; visibility: hidden; background-color: #990000; layer-background-color: #990000"> 
+  <table width="150" border="0" cellspacing="5" cellpadding="3">
+    <tbody><tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/bookstore">Book Store</a></td>
+    </tr>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/cartoons">Cartoons</a></td>
+    </tr>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/puzzle.shtml">Picture Puzzle</a></td>
+    </tr>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/flash.shtml">Flash Animations</a></td>
+    </tr>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/technology.shtml">Technology Help</a></td>
+    </tr>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/logos.shtml">Logos and Banners</a></td>
+    </tr>
+    <tr>
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/survey.shtml">Visitor Survey</a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="close3" style="position:absolute; left:294px; top:272px; width:49px; height:35px; z-index:6; visibility: hidden"><a href="javascript:MM_showHideLayers('funstuff','','hide','close3','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image38','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image38" onmousedown="MM_showHideLayers('funstuff','','hide','close3','','hide')"></a></div>
+<div id="company" style="position:absolute; left:144px; top:272px; width:150px; height:133px; z-index:7; background-color: #990000; layer-background-color: #990000; visibility: hidden"> 
+  <table width="150" border="0" cellspacing="5" cellpadding="3">
+    <tbody><tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/mission.shtml">Our Mission</a></td>
+    </tr>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/awards.shtml">Awards and Honors</a></td>
+    </tr>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/directors.shtml">Directors and Officers</a></td>
+    </tr>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/presscenter">Press Center</a></td>
+    </tr>
+    <tr> 
+      <td class="popup" bgcolor="#CCCCCC"><a class="popup" href="/contact.shtml">Contact Us</a></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="close4" style="position:absolute; left:294px; top:272px; width:49px; height:35px; z-index:8; visibility: hidden"><a href="javascript:MM_showHideLayers('company','','hide','close4','','hide')" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image44','','/images/menu/close2.gif',1)"><img src="/images/menu/close.gif" width="49" height="35" border="0" name="Image44" onmousedown="MM_showHideLayers('company','','hide','close4','','hide')"></a></div>
 
 
 <table width="662" border="0" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0" align="left">
@@ -211,7 +240,7 @@ MM_reloadPage(true);
 
 <table width="662" border="0" bgcolor="#FFFFFF" cellspacing="0" cellpadding="0">
 <tbody><tr valign="middle"><td align="left">
-<a href="http://gopusa.com/ads/cbs2.html" target="top"><img src="http://gopusa.com/images/ads/cbs2.gif" border="0"></a>
+<a href="http://gopusa.com/ads/cbs_dsouza.html&#10;" target="top"><img src="http://gopusa.com/images/ads/dsouza_banner.gif" border="0"></a>
 
 </td>
 <td align="right">
@@ -249,7 +278,8 @@ MM_reloadPage(true);
 <table width="660" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="5">
 <tbody><tr valign="top">
 
-<td width="120" background="/images/left_gradient.jpg" align="left">
+
+<td class="leftcolumn" width="120" align="left">
 <p>
 <a href="/resources.shtml" onmouseover="MM_swapImage('Image1','','/images/menu/resources2.gif',1);MM_showHideLayers('opinion','','hide','close1','','hide','resources','','show','close2','','show','funstuff','','hide','close3','','hide','company','','hide','close4','','hide')" onmouseout="MM_swapImgRestore()"><img src="/images/menu/resources.gif" width="120" height="20" border="0" name="Image1"></a>
 <br>
@@ -260,9 +290,13 @@ MM_reloadPage(true);
 <a href="/company.shtml" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image22','','/images/menu/company2.gif',1);MM_showHideLayers('opinion','','hide','close1','','hide','resources','','hide','close2','','hide','funstuff','','hide','close3','','hide','company','','show','close4','','show')"><img src="/images/menu/company.gif" width="120" height="20" border="0" name="Image22"></a>
 </p>
 
+<p align="center"><a href="/youngpatriots"><img src="/images/youngpatriots/logo_website_sm.gif" border="0"></a></p>
+
+<p align="center"><a href="/bumpersticker.shtml"><img src="/images/bumpersticker_get.gif" border="0"></a></p>
+
 <p><a href="/ads/cbs_coulter.html" target="top"><img src="/images/ads/coulter_button.gif" border="0"></a></p>
 
-<p align="center"><a href="/forum"><img src="/images/forum.jpg" border="0"></a></p>
+<p align="center"><a href="/oncampus"><img src="/images/on_campus2.gif" border="0"></a></p>
 
 <p align="center"><a href="/eagle/subscribe.shtml"><img src="/images/eagle_button.jpg" border="0"></a></p>
 
@@ -350,7 +384,11 @@ MM_reloadPage(true);
 <p align="center"><img src="/images/footer.gif" width="450" height="25" alt="GOPUSA Footer"><br><br>
 Copyright © 2000-2002, GOPUSA.com, Inc.<br>
 <a href="/legal/privacy.shtml">Privacy Notice</a> | <a href="/legal/agreement.shtml">Subscriber and Member Agreement</a><br>
-713-721-6074 <a href="mailto:info@gopusa.com">info@gopusa.com</a></p>
+281-412-2184 |
+<script language="javascript">
+document.write('<a href=\"mailto:' + 'feedback' + '@' + 'gopusa.com\">' + 'feedback' + '@' + 'gopusa.com</a>');
+</script><a href="mailto:feedback@gopusa.com">feedback@gopusa.com</a>
+</p>
 </td></tr></tbody></table>
 </td></tr></tbody></table>
 
