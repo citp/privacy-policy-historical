@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comsol.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610194641id_/http%3A//www.comsol.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comsol.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204024434id_/http%3A//www.comsol.com/privacy.php) for the most accurate reproduction.*
 
 # COMSOL - Online Privacy Policy
 
