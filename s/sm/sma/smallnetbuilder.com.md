@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205101235id_/http%3A//www.smallnetbuilder.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallnetbuilder.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608225401id_/http%3A//www.smallnetbuilder.com/modules.php%3Fop%3Dmodload%26name%3DSections%26file%3Dindex%26req%3Dviewarticle%26artid%3D9) for the most accurate reproduction.*
 
 # Small Net Builder Privacy Policy : Small Net Builder : Real Help for Your Small Network from Tim Higgins
 
-|    
-  
-  
-| | 
-
-Small Net Builder Privacy Policy  [](https://web.archive.org/web/20021205101235id_/http%3A//www.smallnetbuilder.com/Sections-print-article9.php)  
+Small Net Builder Privacy Policy  [](https://web.archive.org/web/20030608225401id_/http%3A//www.smallnetbuilder.com/Sections-print-article9.php)  
 
 Although Small Net Builder is not a member of **[TRUSTe](https://www.truste.org/)** , we abide by their general principles and therefore make the following information available to you.
 
@@ -72,29 +67,3 @@ You can refuse cookies by turning them off in your browser.
 
 
 
-
-| | 
-
-• Q: When trying to bring a wired network to a WAP11 via a WET11, I am unable to ping my WET11 locally, but am able to run the Linksys setup program and have it recognize the WET11. What should I look for?  
-[[Answer](https://web.archive.org/modules.php?op=modload&name=FAQ&file=index&myfaq=yes&id_cat=33&categories=Linksys%20Wireless&parent_id=12.php#200)]  
-• Q: What are the performance tradeoffs between integrated PCI cards, USB adapters, and PC card/adapter combinations?  
-[[Answer](https://web.archive.org/modules.php?op=modload&name=FAQ&file=index&myfaq=yes&id_cat=16&categories=Wireless%20Networking&parent_id=0.php#199)]  
-• Q: Does WEP impact the ability to hold a wireless connection?  
-[[Answer](https://web.archive.org/modules.php?op=modload&name=FAQ&file=index&myfaq=yes&id_cat=32&categories=Security&parent_id=16.php#198)]  
-• Q: If a PC has only an Ethernet port, is there a way to connect it to a wireless LAN without swapping network cards?  
-[[Answer](https://web.archive.org/modules.php?op=modload&name=FAQ&file=index&myfaq=yes&id_cat=38&categories=Setup%20and%20Configuration&parent_id=16.php#197)]  
-
-
-* * *
-
-  
-
-
-  
-
-
-**Most recent Links & Tools**
-
-  
-  
-| 
