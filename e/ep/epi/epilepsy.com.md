@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epilepsy.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604182514id_/http%3A//www.epilepsy.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epilepsy.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215084320id_/http%3A//www.epilepsy.com/epilepsy/privacy_policy.html) for the most accurate reproduction.*
 
-# epilepsy.com: The premiere web site for Epilepsy information
+# epilepsy.com: Your source of in-depth information
 
 **Epilepsy.com Privacy Policy**
 
@@ -72,7 +72,7 @@ As a result, while we strive to protect your personal information, epilepsy.com 
 
 YOUR ACCEPTANCE OF THESE TERMS
 
-By using this site, you signify your assent to the epilepsy.com [Privacy Policy](https://web.archive.org/web/20020604182514id_/http%3A//www.epilepsy.com/privacy_policy.html). If you do not agree to this policy, please do not use our sites. Your continued use of the epilepsy.com sites following the posting of changes to these terms will mean you accept those changes.
+By using this site, you signify your assent to the epilepsy.com [Privacy Policy](https://web.archive.org/web/20021215084320id_/http%3A//www.epilepsy.com/epilepsy/privacy_policy.html). If you do not agree to this policy, please do not use our sites. Your continued use of the epilepsy.com sites following the posting of changes to these terms will mean you accept those changes.
 
 SAFETY TIPS
 
