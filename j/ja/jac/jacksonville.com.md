@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jacksonville.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218021810id_/http%3A//jacksonville.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jacksonville.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602083232id_/http%3A//www.jacksonville.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Jacksonville.com: **About Us - Copyright**
 
@@ -56,7 +56,7 @@ The right to download and store or output the materials in our site(s) is grante
 [Legal](http://www.jacksonville.com/aboutus/legal.html) | [History](http://www.jacksonville.com/aboutus/history.html) | [Employment](http://www.jacksonville.com/aboutus/employment.html) | [Advertising](http://www.jacksonville.com/aboutus/advertising.html) | [Contact Us](http://www.jacksonville.com/aboutus/contact.html) | [Help](http://www.jacksonville.com/aboutus/help.html)
 
 [News](http://www.jacksonville.com/tu-online/) | [Marketplace](http://www.jacksonville.com/classifieds/) | [Learning Center](http://www.jacksonville.com/learningcenter/) | [Entertainment](http://swell.jacksonville.com/)  
-[Jack's Cafe](http://cafe.jacksonville.com/) | [Community](http://www.jacksonville.com/community/) | [Yellow Pages](http://jacksonville.zip2.com/) | [Home](http://www.jacksonville.com/)
+[Jack's Cafe](http://cafe.jacksonville.com/) | [Community](http://www.jacksonville.com/community/) | | [Home](http://www.jacksonville.com/)
 
 [Metro](http://www.jacksonville.com/tu-online/metro/) | [Neighbors](http://www.jacksonville.com/tu-online/neighbors/) | [Opinion](http://www.jacksonville.com/tu-online/opinion/) | [Obituaries](http://www.jacksonville.com/tu-online/obituaries/) | [Business](http://www.jacksonville.com/tu-online/business/)   
 [Daily Special](http://www.jacksonville.com/tu-online/dailyspecial/) | [Sports](http://www.jacksonville.com/tu-online/sports/) | [Weather](http://www.jacksonville.com/weather/) | [Voices](http://www.jacksonville.com/tu-online/voices/) | [Wire](http://wire.ap.org/?FRONTID=HOME)
