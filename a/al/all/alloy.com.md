@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alloy.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202175806id_/http%3A//alloy.com/home/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alloy.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604152324id_/http%3A//www.alloy.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Statement - Alloy
 
@@ -8,14 +8,14 @@ Thank you for visiting ALLOY.COM. This notice explains our online information co
 
 REMEMBER IF YOU REGISTER WITH ALLOY.COM, PARTICIPATE IN A SURVEY, PURCHASE SOMETHING FROM US, REQUEST A CATALOG OR ENTER ANY OF OUR CONTESTS OR PROMOTIONS, YOU AGREE TO THESE TERMS. AS WE UPDATE AND EXPAND OUR SERVICES, THIS POLICY MIGHT CHANGE, SO CHECK IT OUT FROM TIME TO TIME.
 
-**The Information We Collect.**  
+ **The Information We Collect.**  
 At ALLOY.COM you can do a variety of things! You may be able to order products, enter contests, participate in surveys, vote in polls, subscribe to a service (like our ezine) or participate in a chat room. The types of personally identifiable information (i.e. information that can directly identify you or indicate where you might be contacted) that may be collected at these pages could include: name, address, age, date of birth, sex, grade level, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs and services. You can view or change your information at any time. [Click here to edit your profile](https://store.alloy.com/user/account/myaccount.asp) or send an email to [myinfo@alloy.com](mailto:myinfo@alloy.com).
 
 Sometimes you can submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to a friend, you might submit the friend's name and address. The types of personally identifiable information that may be collected about other people at these pages may include: recipient's name, address, age, date of birth, grade level, e-mail address, sex and telephone number.
 
 We also may collect certain non-personally identifiable information (i.e. generic information that does not identify you personally) when you visit any of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '98 or Mac OS) and the domain name of your Internet service provider (e.g., America Online or Earthlink).
 
-**How We Use and Disose the Information.**  
+ **How We Use and Disose the Information.**  
 We will use the personal information you provide online for the purpose(s) you have submitted. Examples of us using your personal information for the purpose(s) submitted include if you order a catalog, we will send to you a catalog in the mail or if you have won a contest, sending to you an email notification that you have won. In addition, we may send to you an e-mail offering products or services which we think you may be interested in or to ask you to participate in a survey. For example, we may send to you an e-mail regarding special merchandise offers and announcements about products or services offered by Alloy. We may also contact you offline. For example, when you provide your mailing address, Alloy may send to you in the mail special offers, promotions and catalogs, which we think may be of interest to you. If you want us to stop using the personal information you provided in these ways, please go to [Edit My Profile](https://store.alloy.com/user/account/myaccount.asp) at ALLOY.COM or contact us at [myinfo@alloy.com](mailto:myinfo@alloy.com). 
 
 **How We Share Your Personal Information.**  
@@ -34,7 +34,7 @@ If we do share personal information to a non-affiliated company, to the extent p
 **Use and Disclosure of Anonymous Information.**  
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze how our site is used, as well as to offer you products, programs or services. Sometimes we share aggregate information with others, including affiliated companies and non-affiliated companies.
 
-**Collection of Information by Others.**  
+ **Collection of Information by Others.**  
 Our site may contain links to other sites whose information practices may be different than ours. You should check the other sites' privacy notices since we have no control over information that is submitted to or collected by them.
 
 We may offer e-mail services, contests, sweepstakes, or promotions that are sponsored by or co-sponsored with non-affiliated companies. Based on our agreement with them, these third parties may obtain personally identifiable information that site visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. We have no control over the use of this information by these companies. 
@@ -44,12 +44,12 @@ To enhance your online experience with us, many of our web pages use "cookies." 
 
 We use cookies as a convenience feature to save you time, to understand how our site is used, and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages or recall your specific information on subsequent visits (e.g. to recognize you by name when you return to our site). We also may use cookies to offer you products, programs or services. You can opt to have your browser reject cookies. If you do that, you may need to re-register with us every time you visit our site in order to participate in certain promotions and other stuff. You should also know that companies that advertise on our web site (and their agents) might use their own cookies. This policy does not cover how these companies use their cookies.
 
-**Clickstream Data.**  
+ **Clickstream Data.**  
 As you use the Internet, a trail of electronic information is left at each web site you visit. This information, which is sometimes referred to as "clickstream data," can be collected and stored by a web site's server. Clickstream data can tell us the type of computer and browsing software you use and the address of the web site from which you linked to ALLOY.COM. We may use clickstream data as a form of non-personally identifiable information to anonymously determine how much time visitors spend on each page of ALLOY.COM, how visitors navigate throughout the site and how we may tailor our web pages to better meet the needs of visitors. This information will only be used to improve our site. Any collection or use of clickstream data will be anonymous and aggregate.
 
-**Supplementing Information.** From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through ALLOY.COM may be intermingled with and used in conjunction with information obtained through sources other than ALLOY.COM, including both offline and online sources.
+ **Supplementing Information.** From time to time we may supplement information you give us with information from other sources, such as information validating your address. Thus, information we obtain through ALLOY.COM may be intermingled with and used in conjunction with information obtained through sources other than ALLOY.COM, including both offline and online sources.
 
-**Discussions and Community Tools.**  
+ **Discussions and Community Tools.**  
 We may, from time to time, make chat rooms, forums, message boards, news groups and other community tools available to you. Please remember that any information that is disclosed in these areas becomes public information for other users to view and for us to use. For example, from time to time, we may use the content you write (including your name or screen name if you post it) for promotional purposes, in e-mail newsletters or elsewhere, and by using ALLOY.COM and/or these chat rooms, forums, message boards, news groups, and other community tools, you agree that we may do so. You should exercise caution when deciding to disclose your personal information in these areas, since anyone - not just us - may use publicly posted information.
 
  **Our Commitment to Security.**  
