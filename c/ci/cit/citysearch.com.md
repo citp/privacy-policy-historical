@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405045903id_/http%3A//www.abouttmcs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysearch.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201050526id_/http%3A//abouttmcs.com/privacy.html) for the most accurate reproduction.*
 
 # Ticketmaster
 
