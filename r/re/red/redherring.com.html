@@ -1,1032 +1,393 @@
-<!--The following is the downloaded HTML source of the redherring.com privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603084450id_/http%3A//www.redherring.com/index.asp%3Flayout%3Dprivacy_statment) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the redherring.com privacy policy that was archived on 2003-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203163723id_/http%3A//www.redherring.com/MediaKit.aspx) for the most accurate reproduction.-->
 
-<html><head>
-
-	<title>RedHerring.com | The Business of Innovation</title>
-
-<style> 
-.nodec  {text-decoration : none;}
-.positive{color: #009900;}
-.negative{color: #990000;}
-.zero{color: #000000;}
-</style>
-
-<!--v1.5 11/30/00-->
-
-<!--TITLE>Redherring.com - Technology Business News, Analysis, and Research</TITLE-->
-<!-- begin javascripts.js -->
-<script language="JavaScript">
-   <!--
-    var agt=navigator.userAgent.toLowerCase(); 
-	var is_major = parseInt(navigator.appVersion); 
-    var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1) 
-                && (agt.indexOf('compatible') == -1));
-    var is_ie   = (agt.indexOf("msie") != -1); 
-    var is_win   = ( (agt.indexOf("win")!=-1) || (agt.indexOf("16bit")!=-1) );
-	var is_mac    = (agt.indexOf("mac")!=-1);
-	var is_nav5up = (is_nav && (is_major >= 5)); 
-	if ((is_mac && is_ie) || (is_mac && is_nav && is_nav5up)) 
-		{
-		document.write('<link rel="STYLESHEET" type="text/css" href="css_mac.asp">');
-		}
-	else if (is_mac && is_nav) 
-		{
-		document.write('<link rel="STYLESHEET" type="text/css" href="css_mac_ns.asp">');
-		}
-	else if ((is_win && is_nav && is_nav5up) || (is_win && is_ie))
-		{
-		document.write('<link rel="STYLESHEET" type="text/css" href="css_pc_ie.asp">');
-		}
-	else if (is_win && is_nav)
-		{  
-		document.write('<link rel="STYLESHEET" type="text/css" href="css_pc_ns.asp">');
-		}
-	else 
-		{
-		document.write('<link rel="STYLESHEET" type="text/css" href="css_linux.asp">');
-		}
-// The array for the month names
-var montharray = new Array(12)
-montharray[0] = "January";
-montharray[1] = "February";
-montharray[2] = "March";
-montharray[3] = "April";
-montharray[4] = "May";
-montharray[5] = "June";
-montharray[6] = "July";
-montharray[7] = "August";
-montharray[8] = "September";
-montharray[9] = "October";
-montharray[10] = "November";
-montharray[11] = "December";
-//First, declare the variables
-var time = new Date()
-var monthnum = time.getMonth()
-var monthname = montharray[monthnum]
-var year = time.getFullYear();
-var day = time.getDate()
-function popWindow(url) {
-	var version = parseInt(navigator.appVersion);
-        if (version > 2.9) {
-		var w = window.open(url, "help", "width=400,height=350,status=no,resizable=yes,scrollbars=yes,menubar=no,location=no");
-        	w.focus();
-	} else {
-        location = url;
-        }
-	}    
-//-->
-</script><link rel="STYLESHEET" type="text/css" href="css_linux.asp">
-<script language="JavaScript">
-<!--
-var ord = Math.random() + "";                   
-var ord = Math.floor(ord * 100000000);
-ordstring = ord; 
-//-->	
-</script>
-<noscript>
-<p>Please enable JavaScript to properly display the site.<br><br>
-</noscript>
-<!-- end javascripts.js -->
-</head>
-
-<body bgcolor="#FFFFFF" link="#003399" vlink="#0066ff" alink="#003399" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-
-<!-- Banner Ad and Top Red Herring Logo Row Table -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td rowspan="3" width="5" bgcolor="#ff0000">&nbsp;</td>
-<td colspan="4"> 
-<script language="JavaScript">
-<!--
-   var MSIE, browserName, num, numString;
-   var channel = '%channel%'; //get channel id from url
-   //vars below used for ad targeting and graphic selection
-   var layout = new String('privacy_statment'); 
-       layout = layout.toLowerCase();
-   var mode = new String('%mode%'); 
-   var subMode = new String('%subscribe_mode%');
-   var ticker = new String('%ticker%');
-   var special_report_id = new String('%rh_special_report_id%');
-
-
-   num = Math.floor(Math.random() * 100000000);
-   numString = num + ''; //ord value in ad target
-   browserName = navigator.appName;
-
-   if (layout.indexOf('%') == 0)
-      layout = 'home'; // no layout means home
-   if (ticker.indexOf('%') == -1)
-      channel = '20000002'; // ticker symbol means Inv Cen
-   if (browserName.indexOf("Microsoft") >=0)
-      MSIE = true
-   else
-      MSIE = false;
-
-function selectTableColor()
-{// page theme color is red, blue or green
-
-   if ((channel == '20000002') && //Investor Center
-      (layout != 'search_results')) // this layout is red
-      document.write('<tr bgcolor=#003399>')
-   else
-      if (layout.indexOf('herring') == 0) //Herringtown
-         document.write('<tr bgcolor=#666633>')
-      else //must be a red page
-         document.write('<tr bgcolor=#ff0000>');
-}
-
-function dynamicBox(type1,name1,size1)
-{// generate an input box and seed it if possible
-
-   var search = new String('%search%');
-   var ticker = new String('%ticker%');
-
-   if (name1 == 'search')
-      if (search.indexOf("%")==0) //if % 1st char, no seed
-         value1=""
-      else
-         value1=search
-   else
-   if (name1 == 'ticker')
-      if (ticker.indexOf("%")==0) //if % 1st char, no seed
-         value1=""
-      else
-         value1=ticker;
-
-   document.write('<input type='+ type1 +' name='+ name1 +' size='+ size1 +' value='+ value1 +'>');
-}
-
-function selectRighthandAd()
-{// get ad for upper right-hand corner
-
-   if (channel == '20000002') //Investor Center
-      document.write('<img src="upload/images/circ_promo_5_8.gif" height=62 width=117 border=0>')
-   else
-      document.write('<img src="upload/images/circ_promo_5_8.gif" height=62 width=117 border=0>');
-}
-
-function ad468x60(sp,sec,tile)
-{ // write the ad
-
-   if (MSIE) //use IFRAME ad
-      document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/'+ sp +';pos=top;sec='+ sec +';sz=468x60;'+ tile +'=1;ord='+ numString +'?" name=frame1 width=468 height=60 frameborder=no border=0 marginwidth=0 marginheight=0 scrolling=no></IFRAME>');
-   else // use non-IFRAME ad
-      document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/'+ sp +';abr=!ie;pos=top;sec='+ sec +';sz=468x60;'+ tile +'=1;ord='+ numString +'?"></'+'SCRIPT>');
-}
-
-function displayBanner()
-{ //select the targeted ad 
-
-   var mode = new String('%mode%'); // both need Services ad
-   var subMode = new String('%subscribe_mode%');
-
-
-   if (special_report_id == '340000034') //RH100 
-      ad468x60(';sp=rh100banner','rh100-2001','ptile')
-   else
-   if (ticker.indexOf('%') == -1) //If ticker in url
-      ad468x60('investor;ticker='+ticker,'inv','ptile')
-   else
-   if (channel == '10000001') //Inside Tech
-      ad468x60('insidetech','ins','ptile')
-   else
-   if (channel == '20000002') //Investor Center
-      ad468x60('investor','inv','ptile')
-   else
-   if (channel == '30000003') //IPO News
-      ad468x60('iponews','ipo','ptile')
-   else
-   if (channel == '40000004') //VC & Startups
-      ad468x60('vc','vc','tile')
-   else
-   if (channel == '50000005') //Industries
-      ad468x60('industries','ind','ptile')
-   else
-   if (channel == '60000006') //Companies
-      ad468x60('companies','comp','ptile')
-   else
-   if (channel == '70000007') //Magazine
-      ad468x60('magazine','mag','ptile')
-   else
-   if (channel == '80000008') //catch of the day
-      ad468x60('cod','cod','ptile')
-   else
-   if (channel == '90000009') //home 
-      ad468x60('home','home','ptile')
-   else
-   if (layout.indexOf('research')==0) //research (market place) page
-      ad468x60('marketplace','market','ptile')
-   else
-   if (layout.indexOf('special')==0) //special report list
-      ad468x60('specialreports','sprept','ptile')
-   else
-   if (layout.indexOf('herring')==0) //Herringtown
-      ad468x60('herringtown','htown','ptile')
-   else
-   if ((layout.indexOf('member')==0) || //member services page
-      (layout.indexOf('e_news')==0) || //newsletter page
-      (mode.indexOf('%')!=0) || //mode is in url
-      (subMode.indexOf('%')!=0)) // subscribe mode in url
-      ad468x60('service','svc','ptile')
-   else
-   if (layout.indexOf('site_map')==0) //site map
-      ad468x60('sitemap','map','ptile')
-   else
-   if (layout.indexOf('talk')==0) //discussion page
-      ad468x60('discussions','disc','ptile')
-   else
-   if (layout.indexOf('portables')==0) //portables page
-      ad468x60('portables','portables','ptile')
-   else
-   if (layout.indexOf('home')==0) //home page
-      ad468x60('home','home','ptile')
-   
-   else // serve up the home page ad
-      ad468x60('home','home','ptile');
-}
-
-function setCookie(name, value)
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+		<title>Media Kit</title>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		<link href="styles/style.css" rel="stylesheet" type="text/css">
+			
+<script src="ClientScripts/RedHerring.js" language="javascript"></script>
+	</head>
+	<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+		<!-- heading -->
+		<script language="javascript">  
+function highlight(obj)
 {
-	var cookieString  = name + "=" + value+";"
-    	var factor = 24 * 60 * 60 * 1000 * 30; // 30 days in the future
-    	var xDate = new Date();
-      	xDate.setTime(xDate.getTime() + factor);
-     	cookieString += "expires=" + xDate.toGMTString();
-  
- 	document.cookie = cookieString;
+	obj.select();
 }
 
-function doPopUp()
+function SubmitSearchForm()
 {
-	if (document.cookie.indexOf("HTpromo2") == -1) //it ain't there
-	{
-		setCookie("HTpromo2","NoPopUp");
-		window.open("index.asp?layout=popup","RHinvite","width=535,height=464");
+  if (document.SimpleSearchForm.SimpleQuery.value > '') {
+    document.SimpleSearchForm.submit();
+  }
+  else {
+		alert("Please enter a query.");
+    document.SimpleSearchForm.SimpleQuery.focus();
 	}
 }
+</script>
 
-/*   if (channel != '20000002')
-      doPopUp();  */
+<table width="755" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td bgcolor="#ECECEC"> 
+      <!-- My RED HERRING and Date Table -->
+      <table width="755" cellspacing="0" cellpadding="0" border="0">
+        <tbody><tr> 
+          <td valign="middle" align="left" width="132"><img src="images/logos/RH_Tag.gif" width="132" height="14"></td>
+					<td width="1"><img height="22" src="images/basic/spacer.gif" width="1"></td>
+          <td class="Date" width="622" nowrap="">
+            <a href="Registrationform.aspx" class="Date">New User Registration</a>| <span>Wednesday, December 03, 2003</span>
+					</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr align="right" valign="bottom"> 
+    <td> 
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="82%" align="left"><a href="./"><img src="images/logos/RedHerring.gif" width="418" height="60" border="0"></a></td>
+          <td width="18%" align="right" valign="bottom"> 
+             <table border="0" cellpadding="0">
+			 <form name="SimpleSearchForm" method="post" action="SearchForm.aspx"></form>
+                  <tbody><tr> 
+                  <td class="headerSearchControl"><input name="SimpleQuery" type="text" value="Search the site" size="20" class="headerSearchControl" onfocus="CrSubmit=SubmitSearchForm;" onclick="highlight(this)"></td>
+                  <td><input name="imageField" type="image" src="images/basic/SquareArrow.gif" width="12" height="13" border="0" onclick="SubmitSearchForm(); return false;"></td>
+                </tr>
+                <tr align="left" valign="top"> 
+                  <td colspan="2"><a href="SearchForm.aspx"><span class="searchBox">Advanced 
+                    Search </span></a></td>
+                </tr>
+				
+              </tbody></table>
+              </td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  </tbody></table>
+ 
+		<!-- Navigation Table --> <table width="755" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td background="images/basic/stripeBG.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td><img src="images/basic/spacer.gif" width="133" height="1"></td>
+		  <td><img src="images/basic/spacer.gif" width="1" height="1"></td>
+          <td><img src="images/basic/spacer.gif" width="1" height="1"></td>
+          <td><img src="images/basic/spacer.gif" width="1" height="1"></td>
+          <td><img src="images/basic/spacer.gif" width="1" height="1"></td>
+          <td><img src="images/basic/spacer.gif" width="1" height="1"></td>
+          <td><img src="images/basic/spacer.gif" width="162" height="1"></td>
+        </tr>
+        <tr> 
+          <td align="left" valign="top"></td>
+          <td align="left" valign="bottom"><a href="indexArticle.aspx"><img src="images/basic/on_03.gif" width="90" height="18" border="0"></a></td>
+          <td align="left" valign="bottom"><a href="indexForum.aspx"><img src="images/basic/OFF_05.gif" width="88" height="18" border="0"></a></td>
+          <td align="left" valign="bottom"><a href="RhResearchWeb/ResearchHome.aspx"><img src="images/basic/OFF_07.gif" width="88" height="18" border="0"></a></td>
+  		  <td align="left" valign="bottom"><a href="RhResearchWeb/NewslettersHome.aspx"><img src="images/basic/OFF_09.gif" width="104" height="18" border="0"></a></td>
+          <td align="left" valign="bottom"><a href="indexEvents.aspx"><img src="images/basic/OFF_11.gif" width="90" height="18" border="0"></a></td>
+          <td><div align="right"><a href="http://www.metilinx.com" target="_blank"><img src="images/logos/MetiLinx.gif" width="128" height="18" border="0"></a><img src="images/basic/spacer.gif" width="3" height="1"></div></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr class="TabOn">
+    <td><img src="images/basic/spacer.gif" width="1" height="11"></td>
+  </tr>
+</tbody></table>
 
-//-->
-</script>	<noscript><tr bgcolor=#ff0000></noscript><table width="100%" border="0" cellpadding="0" cellspacing="0">
-<script>selectTableColor();</script><tbody><tr bgcolor="#ff0000">
 
-   <td height="70" width="468" valign="center"><script>displayBanner();</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/redherring.dart/home;abr=!ie;pos=top;sec=home;sz=468x60;ptile=1;ord=7775521?"></script><noscript><A HREF="http://ad.doubleclick.net/jump/redherring.dart/home;pos=top;sec=home;sz=468x60;tile=1;ord=12345678?"><IMG SRC="http://ad.doubleclick.net/ad/redherring.dart/home;pos=top;sec=home;sz=468x60;tile=1;ord=12345678?" border=0 height="60" width="468"></A></noscript></td>
-   <td align="right" height="70" valign="center"><a href="https://www.redherring.com/circulation.asp?layout=circulation_us4734&amp;keyid=YQ"><script>selectRighthandAd();</script><img src="upload/images/circ_promo_5_8.gif" height="62" width="117" border="0"><noscript><img src="http://a330.g.akamai.net/7/330/990/ce16993941ca7f/www.redherring.com/upload/images/circ_promo_5_8.gif" height=62 width=117 border=0></noscript></a><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="5" height="1"></td>
-</tr>
-</tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#000000">
-<tbody><tr>
-   <td height="44" valign="top" width="208">
-      <a href="index.asp?layout=home"><img src="http://a330.g.akamai.net/7/330/990/9ea0864e29abe6/www.redherring.com/images/logo_top.gif" width="208" height="44" border="0" alt="RedHerring.com"></a><br><img src="http://a330.g.akamai.net/7/330/990/2a1eb799fb7cd5/www.redherring.com/upload/images/logo_tagline2.gif" width="208" height="10" border="0">
-   </td>
-   <td align="right">
-      <table border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-         <form method="post" action="index.asp"></form>
-         <td height="30" width="50%" nowrap="" class="stock" valign="top"><nobr>
-<input type="hidden" name="layout" value="search_results">
-<input type="hidden" name="tid" value="4">
-            <input type="hidden" name="S" value="HS-NEP">
-            <input type="HIDDEN" name="format" value="CMP-LIST">
-<font color="white"><b>Search Articles</b></font><br>
-<!--        <input type=text name=search size=15> -->
-            <script>dynamicBox('text','search',15);</script><input type="text" name="search" size="15" value="">
-            &nbsp;&nbsp;
-<!--        <input type=text name=test size=10 readonly value=Articles>-->
-<!--        <select name=test onChange=search()>
-            <option>Articles</option>
-            <option>Companies</option>
-            <option>Research</option>
-            </select>
+		<!--body content -->
+		<table width="755" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+				<td align="left" valign="top" bgcolor="#FFFFFF">
+					<!-- navigation -->
+					<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr class="tabledrkGrey"> 
+    <td colspan="3"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="sectorBlock"> 
+    <td width="15%"><div align="right"><a href="capital_main.aspx"><img src="images/basic/squarePlus.gif" width="10" height="10" border="0"></a></div></td>
+    <td width="85%"><p class="sector"><a href="capital_main.aspx" class="sectorNav">Capital</a></p></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="tabledrkGrey"> 
+    <td colspan="3"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="sectorBlock"> 
+    <td width="15%"><div align="right"><a href="industries_main.aspx"><img src="images/basic/squarePlus.gif" width="10" height="10" border="0"></a></div></td>
+    <td width="85%"><p class="sector"><a href="industries_main.aspx" class="sectorNav">Industries</a></p></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="tabledrkGrey"> 
+    <td colspan="3"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="sectorBlock"> 
+    <td width="15%"><div align="right"><a href="profiles_main.aspx"><img src="images/basic/squarePlus.gif" width="10" height="10" border="0"></a></div></td>
+    <td width="85%"><p class="sector"><a href="profiles_main.aspx" class="sectorNav">Profiles</a></p></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="tabledrkGrey"> 
+    <td colspan="3"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="sectorBlock"> 
+    <td width="15%"><div align="right"><a href="qa_main.aspx"><img src="images/basic/squarePlus.gif" width="10" height="10" border="0"></a></div></td>
+    <td width="85%"><p class="sector"><a href="qa_main.aspx" class="sectorNav">Q&amp;A</a></p></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="tabledrkGrey"> 
+    <td colspan="3"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="sectorBlock"> 
+    <td width="15%"><div align="right"><a href="regions_main.aspx"><img src="images/basic/squarePlus.gif" width="10" height="10" border="0"></a></div></td>
+    <td width="85%"><p class="sector"><a href="regions_main.aspx" class="sectorNav">Regions</a></p></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="tabledrkGrey"> 
+    <td colspan="3"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="sectorBlock"> 
+    <td width="15%"><div align="right"><a href="Briefings_main.aspx"><img src="images/basic/squarePlus.gif" width="10" height="10" border="0"></a></div></td>
+    <td width="85%"><p class="sector"><a href="Briefings_main.aspx" class="sectorNav">Briefings</a></p></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="tabledrkGrey"> 
+    <td colspan="3"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="sectorBlock"> 
+    <td><div align="right"><a href="metrics_main.aspx"><img src="images/basic/squarePlus.gif" width="10" height="10" border="0"></a></div></td>
+    <td><p class="sector"><a href="metrics_main.aspx" class="sectorNav">Metrics</a></p></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+	
+	  </tr><tr class="tabledrkGrey"> 
+    <td colspan="3"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>  
+<!--  
+  <tr class="sectorBlock"> 
+    <td width="15%"><div align="right"><img src="images/basic/spacer.gif" width="10" height="10"></div></td>
+    <td width="85%"><p class="sector"><a href="letters.aspx" class="sectorNav">Letters</a></p></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>	
+  </tr>
+  <tr class="tabledrkGrey"> 
+    <td colspan="3"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
 -->
-            &nbsp;
-            <input type="image" src="http://a330.g.akamai.net/7/330/990/0a30c318fd1d7b/www.redherring.com/images/go_bl.gif" name="Search" border="0" alt="Search" align="absmiddle">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</nobr></td>
+  <tr class="tableColor3"> 
+    <td width="15%"><div align="right"><img src="images/basic/spacer.gif" width="10" height="10" border="0"></div></td>
+    <td width="85%"><p class="sector"><img src="images/basic/spacer.gif" width="1" height="32"></p></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
 
-         <form action="index.asp" method="post" name="proc_form"></form>
-         <td height="30" valign="top" class="stock" nowrap=""><nobr>
-<font color="white"><b>Look Up
-<br>
-</b></font>
-<input type="hidden" name="channel" value="20000002"> <script>dynamicBox('text','ticker',6);</script><input type="text" name="ticker" size="6" value="">
-<select name="layout"> 
-<option value="tick_news">Quotes/Charts
-</option><option value="tick_news2">News
-</option><option value="tick_profile">Profile
-</option><option value="tick_sec_key">Industry
-</option><option value="tick_insider">Insiders
-</option><option value="tick_fin_ann">Financials
-</option><option value="tick_earnings">Analysts
-</option><option value="tick_filings">SEC Filings
-</option></select> 
-&nbsp;
-<input type="image" src="http://a330.g.akamai.net/7/330/990/0a30c318fd1d7b/www.redherring.com/images/go_bl.gif" name="Go" value="Go" border="0" alt="Search" align="absmiddle"></nobr>
-<br><font color="white"><b><input type="radio" name="searchType" value="symbol" checked="">Symbol 
-<input type="radio" name="searchType" value="name">Name</b></font></td>
-<td width="5"><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif"></td></tr></tbody></table>
+
+</tbody></table>
+
+					<!-- Stock Quote -->
+					 <table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="15%" class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+    <td width="85%" class="tabledrkGrey"><img src="images/basic/spacer.gif" width="131" height="1"></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr class="StockHeadingBG">
+    <td class="stockheadingBG"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+    <td class="StockHeadingBG"><p class="StockHeading">MARKETS</p></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr class="StockBodyBG">  
+  <td class="StockBodyBG"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  <td align="left" valign="top"><script src="http://studio.financialcontent.com/Engine?Account=redherring&amp;Page=1000&amp;OutputMode=JS"></script></td>
+  <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+    <tr>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+
+<!-- financial content image here -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr class="StockBodyBG">
+    <td class="StockBodyBG"><img src="images/basic/spacer.gif" width="1" height="1"></td>  
+    <td><div align="center"><a href="http://www.financialcontent.com/" target="_blank"><img src="images/logos/financialcontent.gif" width="135" height="36" border="0"></a></div></td>
+	<td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  
+  <tr>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+    <td class="tabledrkGrey"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+</tbody></table>
+
+<!-- Left Column Ad --><!-- Eventually put in different include or user control -->
+<!--<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><script language="javascript">DisplayAds("Position1,Position2,Position3!Position1", "468", "60");</script></td></tr>
+</table>-->
+<p></p>
+
+					<a href="http://www.marsys.com" target="blank"><img src="images/logos/marsys.gif" border="0"></a></td>
+				
+    <td align="left" valign="top"><table width="100%" border="0" cellspacing="10" cellpadding="0">
+        <tbody><tr align="left" valign="top"> 
+          <td width="100%" colspan="2"> 
+            <!--story -->
+            <table width="470" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr class="tableSectionSubBlack"> 
+    <td rowspan="18"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+    <td><img src="images/basic/spacer.gif" width="468" height="1"></td>
+    <td rowspan="18" class="tableSectionSubBlack"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
+  <tr> 
+    <td><table width="468" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr> 
+          <td align="left" valign="top"><img src="images/basic/Scection_Nav_Media.jpg" width="349" height="86"></td>
+          <td class="tableSectionSubBlue"><img src="images/basic/spacer.gif" width="1" height="1"></td>
+          <td><a href="AboutUs.aspx"><img src="images/basic/Section_Nav_Sub_About_OFF.jpg" width="117" height="20" border="0"></a><br>
+            <a href="TermsService.aspx"><img src="images/basic/Section_Nav_Sub_Terms_OFF.jpg" width="117" height="16" border="0"></a><br>
+            <a href="EthicsPolicy.aspx"><img src="images/basic/Section_Nav_Sub_Ethics_OFF.jpg" width="117" height="18" border="0"></a><br>
+            <a href="MediaKit.aspx"><img src="images/basic/Section_Nav_Sub_Media_ON.jpg" width="117" height="17" border="0"></a><br>
+            <a href="contactus.aspx"><img src="images/basic/Section_Nav_Sub_Contact_OFF.jpg" width="117" height="15" border="0"></a></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td align="left" valign="top" class="columnTextLeft"><p><strong>The Business of Technology</strong><br><br>
+
+</p><p>Red Herring, Inc., through its various properties, including but not limited to Redherring.com (collectively hereinafter "Red Herring"), is committed to protecting the privacy of its customers and the users of the Web sites located at <a class="none" style="color:maroon" href="http://www.redherring.com">www.redherring.com</a>, as such Web sites may change from time to time (collectively, the "Red Herring Site").  This site, as it may be modified from time to time (this “Privacy Policy”), gives you details of our privacy practices, including a) what information we collect about you when you use the Red Herring Site; b) how the information will be used or disclosed; and c) your rights with respect to our collection and use of your data.</p>
+<p><strong>What information do we collect and why?</strong></p>
+<p>We may ask you to provide us with personal information on a voluntary basis in certain areas of the Red Herring Site.  The kinds of personal information that we may collect on the Red Herring Site include your name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.  In particular, you may be asked to provide the following information: </p>
+<p><strong>Transaction Information: </strong> If you want to order any information from the Red Herring Site, buy any of our products or subscribe to any of the services offered on the Red Herring Site, we will ask you to complete an order form that will request certain information from you, including financial information (such as a credit card number and expiration date) and general contact details, so that we may fulfill the transaction that you have requested.  If the order is to be fulfilled by a third party, we may provide such information to the third party for the express purpose of fulfilling the order.</p>
+<p><strong>Survey Information: </strong>If you want to participate in any of our online surveys you may be asked to provide personal information. The nature of the information may vary depending upon the type of survey that is being conducted, but will likely include contact information and demographic information. We will use this information, in aggregate form, to determine which products and services would be of interest to our users or for such other purposes as may be disclosed in the survey.  Any personal information obtained from these surveys will never be sold to third parties nor will any user's information resulting therefrom be personally identified or analyzed. </p>
+<p><strong>IP Addresses and "Cookie" Information: </strong>As is the case with many sites, the Red Herring Site logs your IP address and uses standard technology called "cookies", which are small data files that are downloaded onto your computer when you visit the Red Herring Site.  Cookies automatically identify your browser to the Red Herring server whenever you interact with the Red Herring Site to improve the quality of your experience with the Red Herring Site.  If you prefer not to allow us to collect "cookie" information, you can disable the cookies by turning them off in your browser, however, some areas of the Red Herring Site may not function properly if you do.</p>
+<p>The Red Herring Site may also use pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses.  These "web beacons" may be used to deliver cookies that conform to our cookie policy. </p>
+<p>If Red Herring is acquired by or merged with another company, Red Herring may transfer personally-identifiable information about you to that company. Red Herring will notify you in the event that your personally-identifiable information is transferred under these circumstances and becomes subject to a different privacy policy.</p>
+<p><strong>How else does Red Herring use information that it collects from this site?</strong></p>
+<p>As well as using information about you for the specific purposes set out above, we may also use information about you for the following purposes: </p>
+<p>To monitor consumer interest in our range of products and services and to assist us in tailoring the content of the Red Herring Site to our online visitors' needs by collecting information about your preferences through tracking patterns of page-viewing on the Red Herring Site. </p>
+<p>To create a profile relating to you in order to show you the content that we think you might be interested in and to display the content according to your preferences. </p>
+<p>To communicate with you, such as to notify you of changes to the terms or to contact you about your account with us.</p>
+<p>If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your screen name and other information you have provided to us.</p>
+<p>Red Herring has business relationships with other sites that provide additional information to our users or which we provide editorial content to, and also with companies that advertise on the Red Herring Site (collectively, our "Business Partners").   Information that we collect on the Red Herring Site may be shared with our Business Partners, but only in the form of general, statistical information.  We will not give our Business Partners any information that personally identifies you.  In the event that one of our Business Partners desires to send general information to a group or all of our users, the message will be first forwarded to us, and it will be sent only to those users who have not opted out of receiving such information. </p>
+<p>Red Herring may disclose information about individual users to third parties who agree to provide services to Red Herring and who agree to maintain the confidentiality of such information in accordance with this Privacy Policy. These third parties will provide a variety of services to Red Herring, including, without limitation, processing and storing user information, helping to create new content and promotions for the Red Herring Site, and sending or coordinating the sending of marketing communications that users have consented to receive. Red Herring will disclose information about individual users to governmental or judicial authorities or law enforcement agencies, or to other individuals or entities in response to subpoena, court order, or other legal process. In matters involving a danger to personal or public safety, Red Herring may voluntarily provide information to appropriate governmental authorities.</p>
+<p><strong>Your Rights</strong></p>
+<p><strong>Access and Correction:</strong> You have a right to know about the personal information that Red Herring holds about you. You also have a right to correct, amend or delete such information if it is incorrect. If you wish to exercise these rights please contact us by post or e-mail at the address shown in the "Contact" section below.</p>
+<p><strong>Security</strong></p>
+<p>The Red Herring Site incorporates appropriate safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information we have collected and we have put in place reasonable precautions to protect information from loss, misuse and alteration. Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals have access to the information you provide us.  Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.</p>
+<p><strong>External Links</strong></p>
+<p>The Red Herring Site provides links to various Web sites maintained by third parties. When you click on one of these links, you will be transferred out of our Web site and connected to the Web site of the organization or company that maintains such site. Even if an affiliation exists between our Web site and a third party Web site, we exercise no control over linked sites. Each of these linked sites maintains its own independent privacy and data collection policies and procedures.  If you visit a Web site that is linked to the Red Herring Site, you should consult that site's privacy policy before providing any personal information.  Please review the terms of our Terms and Conditions for more information regarding external links and third party Web sites.</p>
+<p><strong>Terms and Modifications to Privacy Statement</strong></p>
+<p>By using the Red Herring Site, you signify your agreement to the terms of our Privacy Policy.  If you do not agree with these terms, you should not use the Red Herring Site.</p>
+<p>Red Herring may modify this privacy statement at any time, at its discretion and modifications are effective upon being posted on the Red Herring Site. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it.</p>
+<p><strong>Children</strong></p>
+<p>The Red Herring Site is not directed to children and Red Herring does not knowingly solicit information from any child under the age of 13. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child (or a parent or guardian) to inform him or her that we must have parental consent before receiving his or her personal information.</p>
+<p><strong>Contact Details</strong></p>
+<p>If you have any questions about this Privacy Policy, the privacy practices of the Red Herring Site, or if you want to exercise any of the rights that you are given under this Privacy Policy you can contact:</p>
+<p>Privacy Policy
+Red Herring Inc.<br>
+1931 Old Middlefield Way, Ste. F<br>
+Mountain View, CA 94043<br>
+650 428 2900<br>
+<a class="none" style="color:maroon" href="mailto:privacy@redherring.com">privacy@redherring.com</a>
+</p>
+<p>Last updated September 15, 2003.</p>
+
 </td>
-</tr>
+  </tr>
+  <tr> 
+    <td align="left" valign="top">&nbsp;</td>
+  </tr>
+  <tr class="tableSectionSubBlack"> 
+    <td><img src="images/basic/spacer.gif" width="1" height="1"></td>
+  </tr>
 </tbody></table>
- </td></tr>
-<tr><td width="120" valign="top"> 
-<script language="JavaScript">
-<!--
-function cellColor (cell)
-{ //highlight current page in nav bar
-  
-   var bgcolor; 
-
-   if ((channel == cell) || //if channel matches
-      (layout.indexOf(cell) == 0)) //layout matches
-   { //section needs to be highlighted in left nav bar
-       if (cell == '20000002')
-          bgcolor = "#003399"
-       else // highlighting will be in red
-          bgcolor = "#FF0000"
-   }
-   else // display ordinary background color 
-   { 
-      if ((cell == '70000007') ||
-         (cell == 'events'))
-          bgcolor = "#000000"
-      else 
-      if ((cell == 'special_report_list') ||
-          (cell == 'talkBackNews') ||
-          (cell == 'e_newsletters'))
-           bgcolor = "#999999"
-      else 
-          bgcolor = "#666666";
-   } 
-
-   if (layout == 'search_results')
-      bgcolor = '#666666';
-
-   document.write ('<TD bgcolor='+ bgcolor +'>');
-}
-
-function bottomColor()
-{ //color for bottom row of nav table
-
-   if ((channel == '20000002') &&
-      (layout != 'search_results'))
-      document.write ('<TD bgcolor=#003399 height=13>')
-   else
-      document.write ('<TD bgcolor=#FF0000 height=13>');
-}
-//-->
-</script>
-<table cellpadding="0" cellspacing="0" border="0" width="120" align="left">
-<tbody><tr>
-   <script>cellColor('10000001')</script><td bgcolor="#666666">
-   <noscript><td bgcolor=#666666></noscript>
-   <a class="lftnav" href="index.asp?layout=inside_tech&amp;channel=10000001">&nbsp;&nbsp;INSIDE TECH</a><br></td>
-</tr>
-<tr>
-   <script>cellColor('20000002')</script><td bgcolor="#666666">
-   <noscript><td bgcolor=#666666></noscript>
-   <a class="lftnav" href="index.asp?layout=front_page&amp;channel=20000002">&nbsp;&nbsp;INVESTOR CENTER</a></td>
-</tr>
-<tr>
-   <script>cellColor('30000003')</script><td bgcolor="#666666">
-   <noscript><td bgcolor=#666666></noscript>
-   <a class="lftnav" href="index.asp?layout=ipo_news&amp;channel=30000003">&nbsp;&nbsp;IPO NEWS</a></td>
-</tr>
-<tr>
-   <script>cellColor('40000004')</script><td bgcolor="#666666">
-   <noscript><td bgcolor=#666666></noscript>
-   <a class="lftnav" href="index.asp?layout=vc_startups&amp;channel=40000004">&nbsp;&nbsp;VC &amp; STARTUPS</a></td>
-</tr>
-<tr>
-   <script>cellColor('50000005')</script><td bgcolor="#666666">
-   <noscript><td bgcolor=#666666></noscript>
-   <a class="lftnav" href="index.asp?layout=industries&amp;channel=50000005">&nbsp;&nbsp;INDUSTRIES</a></td>
-</tr>
-<tr>
-   <script>cellColor('60000006')</script><td bgcolor="#666666">
-   <noscript><td bgcolor=#666666></noscript>
-   <a class="lftnav" href="index.asp?layout=companies&amp;channel=60000006">&nbsp;&nbsp;COMPANIES</a></td>
-</tr>
-<tr>
-   <script>cellColor('herringtown')</script><td bgcolor="#666666">
-   <noscript><td bgcolor=#666666></noscript>
-   <a class="lftnav" href="http://www.ipo.com/venture/herringtown.asp?p=REDH">&nbsp;&nbsp;HERRINGTOWN</a></td>
-</tr>
-<tr>
-   <script>cellColor('special_report_list')</script><td bgcolor="#999999">
-   <noscript><td bgcolor=#999999></noscript>
-   <a class="lftnav" href="index.asp?layout=special_report_list">&nbsp;&nbsp;SPECIAL REPORTS</a></td>
-</tr>
-<tr>
-   <script>cellColor('talkBackNews')</script><td bgcolor="#999999">
-   <noscript><td bgcolor=#999999></noscript>
-   <a class="lftnav" href="index.asp?layout=talkBackNews">&nbsp;&nbsp;DISCUSSIONS</a></td>
-</tr>
-<tr>
-   <script>cellColor('e_newsletters')</script><td bgcolor="#999999">
-   <noscript><td bgcolor=#999999></noscript>
-   <a class="lftnav" href="news_letter_subscribe.asp">&nbsp;&nbsp;E-NEWSLETTERS</a></td>
-</tr>
-<tr>
-   <script>cellColor('70000007')</script><td bgcolor="#000000">
-   <noscript><td bgcolor=#000000></noscript>
-   <a class="lftnav" href="index.asp?layout=magazine&amp;channel=70000007">&nbsp;&nbsp;MAGAZINE</a></td>
-</tr>
-<tr>
-   <script>cellColor('events')</script><td bgcolor="#000000">
-   <noscript><td bgcolor=#000000></noscript>
-   <a class="lftnav" href="http://www.events.redherring.com">&nbsp;&nbsp;EVENTS</a></td>
-</tr>
-<tr>
-   <script>bottomColor();</script><td bgcolor="#FF0000" height="13">
-   <noscript><td bgcolor=#ff0000 height=13></noscript>
-   <img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="3" height="13" border="0"></td></tr>
-<script language="JavaScript">
-<!--
-
-function write120x240(sp,sec,tile)
-{ //write the ad
-
-   if (MSIE)
-      document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/;sp='+ sp +';sec='+ sec +';sz=120x240;'+tile+';ord='+ numString +'?" name=frame1 width=120 height=240 frameborder=no border=0 marginwidth=0 marginheight=0 scrolling=no></IFRAME>');
-   else // 
-      document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/;abr=!ie;sp='+ sp +';sec='+ sec +';sz=120x240;'+tile+';ord='+ numString +'?"><'+'/SCRIPT>');
-}
-
-function write120x600(sp,sec,tile)
-{//write the ad
-
-   if (MSIE)
-      document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/;sp='+ sp +';sec='+ sec +';sz=120x600;'+ tile +';ord='+ numString +'?" name=frame1 width=120 height=600 frameborder=no border=0 marginwidth=0 marginheight=0 scrolling=no></IFRAME>');
-   else // 
-      document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/;abr=!ie;sp='+ sp +';sec='+ sec +';sz=120x600;'+ tile +';ord='+ numString +'?"><'+'/SCRIPT>');
-}
-
-function displayLeftAd()
-{ //select a targeted ad 
-
-   if (layout == 'markets_main') 
-      return; //markets main has no left ad
-   if ((layout.indexOf('story') == 0) &&
-      (channel != '20000002')) 
-      return; //only Investor stories have left ads
-
-   if (special_report_id == '340000034') //RH100 
-   { 
-      if (numString.charAt(3) < '5') // split ads 50/50
-        write120x240('rh100-120x240','rh100-2001','ptile=2')
-      else
-        write120x600('rh100-120x600','rh100-2001','ptile=2')
-   }
-   else
-   if (ticker.indexOf('%') == -1) //If ticker in url
-      write120x600('inv120x600;ticker='+ticker,'inv','ptile=2')
-   else
-   if (channel == '10000001') //Inside Tech
-   {
-      if (numString.charAt(3) < '4')
-         write120x240('insstory','ins','ptile=2')
-      else
-         write120x600('ins120x600','ins','ptile=2')
-   }
-   else
-   if (channel ==  '20000002') //Investor Center
-      write120x600('inv120x600','inv','ptile=2')
-   else
-   if (channel ==  '30000003') //IPO News
-   {
-      if (numString.charAt(3) < '4')
-         write120x240('ipostory','ipo','ptile=2')
-      else
-         write120x600('ipo120x600','ipo','ptile=2')
-   }
-   else
-   if (channel == '40000004') //VC & Startups
-   {
-      if (numString.charAt(3) < '4')
-         write120x240('vcstory','vc','ptile=2')
-      else
-         write120x600('vc120x600','vc','ptile=2')
-   }
-   else
-   if (channel == '50000005') //Industries
-   {
-      if (numString.charAt(3) < '4')
-         write120x240('indstory','ind','ptile=2')
-      else
-         write120x600('ind120x600','ind','ptile=2')
-   }
-   else
-   if (channel == '60000006') //Companies
-   {
-      if (numString.charAt(3) < '4')
-         write120x240('compstory','comp','ptile=2')
-      else
-         write120x600('comp120x600','comp','ptile=2')
-   }
-   else
-   if (channel == '70000007') //Magazine
-   {
-      if (numString.charAt(3) < '4')
-         write120x240('magstory','mag','ptile=2')
-      else
-         write120x600('mag120x600','mag','ptile=2')
-   }
-   else
-   if (layout.indexOf('talk')==0) //discussion page
-   {
-      if (numString.charAt(3) < '4')
-         write120x240('discstory','disc','ptile=2')
-      else
-         write120x600('disc120x600','disc','ptile=2')
-   }
-   else
-   if (layout.indexOf('special')==0) //special reports
-   {
-      if (numString.charAt(3) < '4')
-         write120x240('spreportstory','sprept','ptile=2')
-      else
-         write120x600('sprept120x600','sprept','ptile=2')
-   }
-   else
-   if (layout.indexOf('home')==0) // once got 2 extra ads
-   { 
-/*
-      document.write('<BR><DIV align=center class=Verd8pt><FONT color=#666666><B>Inside Tech</B><BR><I>Sponsored by</I></FONT><BR>');
-      if ((MSIE) || (is_nav5up))
-      {// NS6 can handle IFRAMEs
-         document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/home;button=home1;sec=home;sz=88x31;tile=1;ord='+ numString +'?" name=frame1 width=88 height=31 frameborder=no border=0 marginwidth=0 marginheight=0 scrolling=no></IFRAME>');
-         document.write('<BR><IMG SRC="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" height=25 width=1 border=0>');  
-
-         document.write('<BR><FONT color=#666666><B>Wireless Watch</B><BR><I>Sponsored by</I></FONT><BR>');
-         document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/home;button=home13;sec=home;sz=88x31;tile=1;ord='+ numString +'?" name=frame1 width=88 height=31 frameborder=no border=0 marginwidth=0 marginheight=0 SCROLLING=no></IFRAME>');   
-      }
-      else
-      {
-         document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/home;abr=!ie;button=home1;sec=home;sz=88x31;tile=1;ord='+ numString +'?"><'+'/script>');
-         document.write('<BR><IMG SRC="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" height=25 width=1 border=0>');
-
-         document.write('<BR><FONT color=#666666><B>Wireless Watch</B><BR><I>Sponsored by</I></FONT><BR>');
-         document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/home;abr=!ie;button=home13;sec=home;sz=88x31;tile=1;ord='+ numString +'?"><'+'/script>');    
-         }  */
-//       document.write('<br><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" height=15 width=1 border=0><br></DIV>');
-
-      write120x600('home120x600','home','ptile=2');
-   }
-   else // if no match display home ad
-      write120x600('home120x600','home','ptile=2');
-}
-//-->
-</script>	<tr>
-   <td align="left">
-      <script>displayLeftAd();</script><script language="JavaScript1.1" src="http://ad.doubleclick.net/adj/redherring.dart/;abr=!ie;sp=home120x600;sec=home;sz=120x600;ptile=2;ord=7775521?"></script>
-      <noscript><a href="http://ad.doubleclick.net/jump/redherring.dart/;sp=homestory;sec=home;sz=120x240;tile=1;ord=12344321?">
-<img src="http://ad.doubleclick.net/ad/redherring.dart/;sp=homestory;sec=home;sz=120x240;tile=1;ord=12344321?" border=0 height=240 width=120></a></noscript>
-   </td>
-</tr>
-</tbody></table>
- </td>
-<td align="left"><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="13" height="1"></td>
-<td width="100%" align="left" valign="top"> <script language="JavaScript">
-<!--
-function displayLink(currentLayout)
-{ // display link to current page in red, others black
-
-   localLayout = layout;
-   if (layout.indexOf('myaccount')==0) 
-      localLayout = 'research';
-
-   if (currentLayout == "member_services")
-      link = "Member Services"
-   else
-   if (currentLayout == "research_home")
-      link = "Research"
-   else
-      link = currentLayout;
-  
-   currentLayout = currentLayout.toLowerCase();
-   if (localLayout.indexOf(currentLayout.substring(0,4))==0)
-      navClass = "topnavon"
-   else
-      navClass = "topnav";
-
-   document.write('<td><font color=#999999>|</font></td><td align=center><a class='+ navClass +' href=index.asp?layout='+ currentLayout +'>'+ link +'</a></td>'); 
-}
-//-->
-</script>
-
-<noscript>
-      <TD><FONT color="#999999">|</FONT></TD>
-      <TD align=center>
-         <a class=topnav href=index.asp?layout=research_home>Research</a></TD>
-      <TD><FONT color="#999999">|</FONT></TD>
-      <TD align=center>
-         <a class=topnav href=index.asp?layout=member_services>Member Services</a></TD>
-      <TD><FONT color="#999999">|</FONT></TD>
-      <TD align=center>
-         <a class=topnav href=index.asp?layout=portables>Portables</a></TD>
-   </noscript><table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-   <td align="center">
-      <a class="topnav" href="index.asp?layout=home">Home</a></td>
-   <script>
-      displayLink('research_home');
-      displayLink('member_services');
-      displayLink('Portable');
-   </script><td><font color="#999999">|</font></td><td align="center"><a class="topnav" href="index.asp?layout=research_home">Research</a></td><td><font color="#999999">|</font></td><td align="center"><a class="topnav" href="index.asp?layout=member_services">Member Services</a></td><td><font color="#999999">|</font></td><td align="center"><a class="topnav" href="index.asp?layout=portable">Portable</a></td>
+          </td>
+        </tr>
+      </tbody></table>
+</td>
+				
+    <td align="left" valign="top" bgcolor="#FFFFFF"> 
+      <!-- Removed Subscriber Area Log in-->
    
-   <td><font color="#999999">|</font></td>
-   <td align="center">
-      <a class="topnav" href="http://www.redherringmedia.com">Media Kit</a></td>
-   <td><font color="#999999">|</font></td>
-   <td align="center">
-      <a class="topnav" href="http://redherring.custhelp.com/cgi-bin/redherring">Help</a></td>
-   <td align="right" class="date"><b><font color="#666666">
-      <script>document.write(monthname + " " + day + ", " + year)</script>February 19, 2020</font></b></td>
-</tr>
-</tbody></table>
-
-<script language="JavaScript">
-<!--
-function selectHeaderGraphic()
-{ // display a page title graphic below the global menu
-
-   if (channel == '10000001')
-      document.write ('<img border=0 vspace=2 src="images/inside_black.gif" alt="Inside Tech">')
-   else
-   if (channel == '20000002')
-      document.write ('<img border=0 vspace=2 src="images/investorcenter.gif" alt="Investor Center">')
-   else
-   if (channel == '30000003')
-      document.write ('<img border=0 vspace=2 src="images/iponews_black.gif" alt="IPO News">')
-   else
-   if (channel ==  '40000004')
-      document.write ('<img border=0 vspace=2 src="images/vc_black.gif" alt="VC Startups">')
-   else
-   if (channel == '50000005')
-      document.write ('<img border=0 vspace=2 src="images/industries_black.gif" alt="Industries">')
-   else
-   if (channel ==  '60000006')
-      document.write ('<img border=0 vspace=2 src="images/companies_black.gif" alt="Companies">')
-   else
-   if (channel ==  '70000007')
-      document.write ('<img border=0 vspace=2 src="images/magazine_black.gif" alt="Magazines">')
-
-   else
-   if (channel == '99099') 
-         document.write ('<img border=0 vspace=2 src="upload/images/video_salestool.gif" alt="VIDEO SALE TOOL">')
-
-   else
-   if (layout.indexOf('talk')==0) //discussions
-         document.write ('<img border=0 vspace=2 src=images/discussions_black.gif alt="Discussions">')
-
-
-   else
-   if (layout.indexOf('special')==0) //special reports list
-         document.write ('<img border=0 vspace=2 src=upload/images/special_black.gif alt="Special Reports">')
-   else
-   if ((layout.indexOf('research')==0) || //research
-      (layout.indexOf('thank')==0) || // thank you
-      (layout.indexOf('myaccount')==0)) //
-         document.write ('<img border=0 vspace=2 src=images/research.gif alt="Research">')
-   else
-   if ((layout.indexOf('e_news')==0) || //e_newsletters
-      (layout.indexOf('member')==0)) //member services
-         document.write ('<img border=0 vspace=2 src=images/member_svcs.gif alt="Member Services">')
-   else
-   if (layout.indexOf('portables')==0) //portables
-         document.write ('<img border=0 vspace=2 src=upload/images/rh_portable_e_title.gif alt="Portable">')
-   else
-   if (layout.indexOf('site')==0) //site map
-         document.write ('<img border=0 vspace=2 src=images/site_map.gif alt="Site Map">')
-   else
-   if (mode.indexOf('sign')==0) //signon in subscribe.asp
-         document.write ('<img border=0 vspace=2 src="images/investorcenter.gif" alt="Investor Center">')
-   else
-   if (mode.indexOf('subscribe')==0) //subscribe
-         document.write ('<img border=0 vspace=2 src=images/member_svcs.gif alt="Member Services">')
-   else
-   if (subMode.indexOf('lost')==0) // lost password
-      document.write ('<img border=0 vspace=2 src=images/member_svcs.gif alt="Member Services">')
-   else // give them this as a last resort
-      document.write ('<img border=0 vspace=2 src=upload/images/rh_comm.gif alt="Red Herring Communications">');
-}
-//-->
-</script>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-   <td height="30" colspan="10" valign="bottom">
-      <script>selectHeaderGraphic();</script><img border="0" vspace="2" src="upload/images/rh_comm.gif" alt="Red Herring Communications">
-      <noscript><img border=0 align=left vspace=2 src="http://a330.g.akamai.net/7/330/990/c5f90441e38655/www.redherring.com/upload/images/rh_comm.gif" alt="Red Herring Communications"></noscript>
-   </td>
-</tr>
-<tr>
-   <td colspan="12" width="100%" background="http://a330.g.akamai.net/7/330/990/5fd5aa640d4ab8/www.redherring.com/images/dotted_linie_top.gif"><spacer type="block" width="2" height="5"></spacer></td>
-</tr>
-</tbody></table>
-<br>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td width="100%" valign="top"> 
-		&nbsp;<br>
-
-	
-
-	
-
-<center><b>RED HERRING
-
-<br>
-
-PRIVACY STATEMENT</b></center>
-
-<p>
-
-Red Herring Communications Inc., through its various properties, including but not limited to Redherring.com and Stockmaster.com (hereinafter "Red Herring"),  is committed to protecting the privacy of its customers and the users of this site.   This statement explains how we achieve that goal and gives you details of our privacy practices, including a) what information we collect about you when you use this site; b) how the information will be used or disclosed; and c) your rights with respect to our collection and use of your data.<br>
-
-<br>
-
-<u>What Information do we collect and why?</u><br>
-
-<br>
-
-We may ask you to provide us with personal information on a voluntary basis in certain areas of our site.  In particular, you may be asked to provide the following information:<br>
-
-<br>
-
-</p><ol>
-
-	<li><b>Membership Information:</b>  If you want to become a member of Red Herring you will be asked to provide general information, including contact details (such as your name and address) and demographic information (such as your employment details, financial status etc.. We will use this information to maintain your membership account with Red Herring and to keep you informed about products and services of Red Herring and other companies that we think may be of interest to you.  You may elect not to receive such information by opting out as described below.<p>
-
-	</p></li><li><b>Transaction Information: </b> If you want to order any information from our site, buy any of our products or subscribe for any of the services offered on our site we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact details. We will use this information to complete the transaction that you have requested, i.e. to deliver information, products or other services that you order and to invoice you. If the order is to be fulfilled by a third party, we will provide your name and shipping information to the third party for the express purpose of fulfilling the order.<p>
-
-	</p></li><li><b>Survey Information:</b>  If you want to participate in any of our online surveys you may be asked to provide personal information.  The nature of the information may vary depending upon the type of survey that is being conducted, but will likely include contact information and demographic information.  We will use this information, in aggregate form, to determine which products and services would be of interest to our users.  The information gleaned from these surveys will never be sold to third parties nor will any user's information be personally identified or analyzed.<p>
-
-	</p></li><li><b>IP Addresses and "Cookie" Information:</b>  As is the case with many sites, our site logs your IP address and uses standard technology called "cookies", which are small data files that are downloaded onto your computer when you visit our site.  Cookies automatically identify your browser to the Red Herring server whenever you interact with our site. If you prefer not to allow us to collect "cookie" information you can disable the cookies by turning them off in your browser, however, some areas of our site may not function properly if you do. We will use your IP address for systems administration purposes.  We do not link IP addresses to any personally identifiable information.  This means that your session will be tracked, but you will not be identified. We use cookies to track the pages that you visit on our site and to ensure that you do not see the same information repeatedly.<p>
-
-	</p></li><li><b>Subscriber Information:</b>  If you would like to receive our newsletters via e-mail, you will be asked for general information, including your e-mail address, name and zip code to facilitate our delivery of the newsletter to your account.  We will also use this information to send you announcements of new Redherring.com features, newsletters and other special offers.  However, you may elect not to receive these announcements by declining to register in the required field.
-
-</li></ol>
-
-<br>
-
-Red Herring will hold all of this information on its computers in the United States of America and in Europe, and information may be transferred electronically from time to time between those locations.<br>
-
-<br>
-
-<br>
-
-<u>How else does Red Herring use Information that it collects from this site?</u> <br>
-
-<br>
-
-As well as using information about you for the specific purposes set out above, we may also use information about you for the following purposes:<br>
-
-<br>
-
-<ol>
-
-	<li>To send you information about Red Herring and promotional material about our products and services and products and services offered by other companies that we think may be of interest to you, provided that you have not opted out as described below.<p>
-
-	</p></li><li>To monitor consumer interest in our range of products and services and to assist us in tailoring the content of this site to our online visitors' needs by collecting information about your preferences through tracking patterns of page-viewing on our site.<p>
-
-	</p></li><li>To create a profile relating to you in order to show you the content that we think you might be interested in and to display the content according to your preferences.
-
-</li></ol>
-
-<br>
-
-Red Herring has business relationships with other sites that provide additional information to our users or which we provide editorial content to (our "business partners").  We also have business dealings with companies that advertise on our site.  Information that we collect on this site may be shared with those business partners and advertisers, but we will only give those partners general, statistical information.  We will not give them any information that personally identifies you.  In the event that one of our advertisers or business partners desires to send our users a message, the message will be forwarded to us, and we will send it only to those users who have not opted out of receiving such information.<br>
-
-<br>
-
-<b>DoubleClick's Services:</b>  Currently, our advertisements are served by DoubleClick, Inc.  Red Herring takes no responsibility for any information collected by DoubleClick during the course of its business via "cookie" technology or otherwise.  As Red Herring strives to provide the greatest level of privacy for its users, we encourage you to review DoubleClick's privacy policy.  This policy offers users the option of denying its "cookies" when visiting any sites served by DoubleClick.  For more information on DoubleClick's data collection and use practices, please refer to DoubleClick's privacy policy located at: <a href="http://www.doubleclick.net:8080/privacy_policy/">http://www.doubleclick.net:8080/privacy_policy/</a>.<br>
-
-<br>
-
-<u>Forum and Message Boards</u><br>
-
-<br>
-
-This site makes forums and message boards available to its users.  You are not required to provide any personal information in order to use these areas but you may choose to do so.   Please remember that any information that you choose to disclose in these areas will be publicly available; thus, you should exercise caution when deciding whether to disclose personal information.  Red Herring cannot accept any responsibility for ensuring the privacy of information that you choose to disclose in these areas.<br>
-
-<br>
-
-<u>Your Rights</u><br>
-
-<br>
-
-<ol>
-
-	<li><b>Opt-out:</b>  Although most Red Herring customers indicate that they welcome details of offers and other promotional material about Red Herring products and services and products and services provided by our business partners and advertisers, we acknowledge the right of our customers to choose.  You will be given the right to opt-out of receiving such information whenever you are asked to provide information on this site.  If you do not opt-out at that time, but later decide that you do not wish to receive future communications of this nature you can contact us as set out below, indicating that you no longer want to receive i) information relating to products and services provided by other companies; or ii) any information relating to products and services (including Red Herring products and services).<p>
-
-	</p></li><li><b>Access and Correction:</b>  You have a right to know about the personal information that Red Herring holds about you.  You also have a right to correct, amend or delete the information that Red Herring holds about you if it is incorrect.  If you wish to exercise these rights please contact us by post or e-mail at the address shown in the "Contact" section below.
-
-</li></ol>
-
-<br>
-
-<u>Security</u><br>
-
-<br>
-
-This site incorporates appropriate safeguards to protect the security, integrity, completeness, accuracy and privacy of the personal information we have collected and we have put in place reasonable precautions to protect information from loss, misuse and alteration. Our security and privacy policies are periodically reviewed and enhanced as required and only authorized individuals have access to the information you provide us. <br>
-
-<br>
-
-<u>External Links</u><br>
-
-<br>
-
-This website provides links to various websites that we do not control as well as to our sponsors.  When you click on one of these links, you will be transferred out of our website and connected to the website of the organization or company that you selected.  Even if an affiliation exists between our website and a third-party website, we exercise no control over linked sites.  Each of these linked sites maintains its own independent privacy and data collection policies and procedures.  If you visit a website that is linked to our site, you should consult that site's privacy policy before providing any personal information.<br>
-
-<br>
-
-<u>Terms and Modifications to Privacy Statement</u><br>
-
-<br>
-
-By using this website, you signify your agreement to the terms of our privacy policy.  If you do not agree with these terms, please do not disclose any personal information through this site.<br>
-
-<br>
-
-Red Herring may modify this privacy statement at any time, at its discretion and modifications are effective upon being posted on this site.  You are responsible for reviewing this privacy statement periodically to ensure that you are aware of any changes to it. <br>
-
-<br>
-
-<u>Children</u><br>
-
-<br>
-
-This site is not directed to children and Red Herring does not knowingly solicit information from any child under the age of 13.  Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information.<br>
-
-<br>
-
-<u>Contact Details</u><br>
-
-<br>
-
-If you have any questions about this privacy statement, the privacy practices of this site or if you want to exercise any of the rights that you are given under this privacy statement you can contact:<br>
-
-<p>
-
-Rafe Needleman<br>
-
-Red Herring Communications<br>
-
-1550 Bryant Street<br>
-
-Suite 450<br>
-
-San Francisco, CA 94103<br>
-
-<a href="mailto:privacy@redherring.com">Privacy@redherring.com</a>
-<br>
-<br> </p></td>
-<td width="15"><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="15" height="1"></td>
-<td width="150" valign="top"> <br>			
-<table cellpadding="0" cellspacing="0" border="0" width="100%" bgcolor="#ff0000">
-	<tbody><tr>
-		<td class="Verd9ptwhite"><b>&nbsp;In this Section</b></td>
-	</tr>
-	</tbody></table>
-	<table cellpadding="1" cellspacing="0" border="0" width="100%">
+      <!-- Removed skyscraper ad -->
+    
+    </td>
+			</tr>
+			<tr>
+				<td><img src="images/basic/spacer.gif" width="132" height="1"></td>
+				<td><img src="images/basic/spacer.gif" width="498" height="1"></td>
+				<td><img src="images/basic/spacer.gif" width="120" height="1"></td>
+			</tr>
+		</tbody></table>
+		<!-- footer -->
+		<!-- Footer Ad -->
+<!--<table width="755" border="0" cellspacing="0" cellpadding="0" ><tr><td align="center" valign="top"><script language="javascript">DisplayAds("Position1,Position2,Position3!Position3", "468", "60");</script></td></tr></table>-->
+<!-- Sponsors -->
+<table width="755" border="0" cellspacing="0" cellpadding="0">
+ <tbody><tr> 
+    <td><img height="20" src="images/basic/spacer.gif" width="18"></td>
+  </tr>
+  <tr> 
+    <td><p class="footer">RED HERRING Sponsors</p></td>
+  </tr>
+  <tr>
+    <td><table width="723" border="0" align="center" cellpadding="0" cellspacing="0">
 		<tbody><tr>
-		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top">
-<!-- <A href="index.asp?layout=press_releases" class="Verd9pt"> -->
-Red Herring Press Releases</td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="http://www.redherringmedia.com " class="Verd9pt">Media Kit</a></td>
-	</tr> 
-	<tr>
-		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="index.asp?layout=red_team" class="Verd9pt">Red Herring Team</a></td>
-	</tr>
-	<tr>
-		<td width="5" valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="index.asp?layout=red_com" class="Verd9pt">Redherring.com</a></td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="index.asp?layout=red_magazine" class="Verd9pt">Red Herring Magazine</a></td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="index.asp?layout=red_events" class="Verd9pt">Red Herring Events</a></td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="index.asp?layout=red_partnerships" class="Verd9pt">RedHerring.com Partnerships</a></td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="index.asp?layout=permissions" class="Verd9pt">Permissions</a></td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="index.asp?layout=employment" class="Verd9pt">Jobs at Red Herring</a></td>
-	</tr>
-	<tr>
-		<td valign="top"><img src="http://a330.g.akamai.net/7/330/990/bd5f45f4db8c3d/www.redherring.com/images/bullet_filled.gif" width="5" height="5" alt="" border="0" vspace="5"></td>
-		<td colspan="3" valign="top"><a href="index.asp?layout=contact_us" class="Verd9pt">Contact Us</a></td>
-	</tr>
-	</tbody></table>
- </td></tr>
+          <td align="center"><a href="http://www.logitech.com" target="_blank"><img src="images/logos/Logitech.jpg" width="91" height="45" border="0"></a>
+          <a href="http://www.bt.com" target="_blank"><img src="images/logos/BT.gif" width="91" height="45" border="0"></a>
+          <a href="http://www.ca.com" target="_blank"><img src="images/logos/CA.gif" width="91" height="45" border="0"></a>
+          <a href="http://www.symantec.com" target="_blank"><img src="images/logos/symantic.gif" width="91" height="45" border="0"></a>       
+          <a href="http://www.netapp.com" target="_blank"><img src="images/logos/NetApp.gif" width="91" height="45" border="0"></a>
+          <a href="http://www.text100.com" target="_blank"><img src="images/logos/text100.gif" width="91" height="45" border="0"></a></td>
+		</tr>
+		
+        <!--<tr>
+          <td width="13%"><a href="http://www.amd.com" target="_blank"><img src="images/logos/amd.gif" width="92" height="45" border="0"></a></td>
+          <td width="13%"><a href="http://www.businessobjects.com" target="_blank"><img src="images/logos/businessObjects.gif" width="91" height="45" border="0"></a></td>
+          <td width="13%"><a href="http://www.bt.com" target="_blank"><img src="images/logos/BT.gif" width="91" height="45" border="0"></a></td>
+          <td width="13%"><a href="http://www.ca.com" target="_blank"><img src="images/logos/CA.gif" width="91" height="45" border="0"></a></td>
+          <td width="12%"><a href="http://www.checkpoint.com" target="_blank"><img src="images/logos/CheckPoint.gif" width="91" height="45" border="0"></a></td>
+          <td width="2%"><a href="http://info.daum.net/info2002/eng/index.jsp" target="_blank"><img src="images/logos/daum.gif" width="91" height="45" border="0"></a></td>
+          <td width="1%"><a href="http://www.dell.com" target="_blank"><img src="images/logos/dell.gif" width="91" height="45" border="0"></a></td>
+          <td width="33%"><a href="http://www.francetelecom.com/fr/" target="_blank"><img src="images/logos/franceTelCom.gif" width="92" height="45" border="0"></a></td>
+        </tr>
+        <tr>
+          <td><a href="http://www.goldmansachs.com" target="_blank"><img src="images/logos/goldmanSachs.gif" width="92" height="46" border="0"></a></td>
+          <td><a href="http://www.ibm.com" target="_blank"><img src="images/logos/IBM.gif" width="91" height="46" border="0"></a></td>
+          <td><a href="http://www.microsoft.com" target="_blank"><img src="images/logos/microsoft.gif" width="91" height="46" border="0"></a></td>
+          <td><a href="http://www.real.com" target="_blank"><img src="images/logos/real.gif" width="91" height="46" border="0"></a></td>
+          <td><a href="http://www.sybase.com" target="_blank"><img src="images/logos/Sybase.gif" width="91" height="46" border="0"></a></td>
+          <td><a href="http://www.symantec.com" target="_blank"><img src="images/logos/symantic.gif" width="91" height="45" border="0"></a></td>
+          <td><a href="http://www.3com.com" target="_blank"><img src="images/logos/3com.gif" width="91" height="46" border="0"></a></td>
+          <td><a href="http://www.tridentcapital.com" target="_blank"><img src="images/logos/tridentCapital.gif" width="92" height="46" border="0"></a></td>
+        </tr>-->
+      </tbody></table>
+	  <br>
+      <hr width="700" size="1" noshade="">
+    </td>
+  </tr>
+  <tr> 
+    <td class="footer"><a href="AboutUs.aspx" class="a">ABOUT US</a> 
+      | <a href="TermsService.aspx" class="a">TERMS OF SERVICE</a> 
+      | <a href="EthicsPolicy.aspx" class="a">ETHICS POLICY</a> | 
+      <a href="MediaKit.aspx" class="a">PRIVACY POLICY</a> | <a href="contactus.aspx" class="a">CONTACT 
+      US</a> <br>
+      © 1993-2003 Red Herring, Inc.<br>
+        <a class="a" href="http://www.redherring.com">www.redherring.com</a></td>
+  </tr>
+  <tr> 
+    <td class="footer">&nbsp;</td>
+  </tr>
 </tbody></table>
-</td>
-<td width="5"><img src="http://a330.g.akamai.net/7/330/990/94fb0c3ed8a8f9/www.redherring.com/images/spacer.gif" width="5" height="1"></td>
-</tr>
-<tr><td colspan="4"> 
+	
 
-<script language="JavaScript">
-function unicastAd()
-{
-   if (special_report_id == '340000034') //RH100
-      return;
-
-   if (MSIE)
-      document.write('<IFRAME SRC="http://ad.doubleclick.net/adi/redherring.dart/;sp=unicast;sz=1x1;ord='+numString+'?" name=frame1 width=1 height=1 frameborder=no border=0 MARGINWIDTH=0 MARGINHEIGHT=0 SCROLLING=no></IFRAME>')
-/*   else
-      document.write('<SCR'+'IPT language=JavaScript1.1 SRC="http://ad.doubleclick.net/adj/redherring.dart/;abr=!ie;sp=unicast;sz=1x1;ord='+numString+'?"></SCR'+'IPT>'); */
-
-}
-</script>
-
-
-<!-- begin footer -->
-<table cellpadding="0" cellspacing="0" border="0" width="100%" valign="top">
-<tbody><tr><td rowspan="3" width="135">&nbsp;</td>
-<td background="http://a330.g.akamai.net/7/330/990/5fd5aa640d4ab8/www.redherring.com/images/dotted_linie_top.gif" height="9"><spacer type="block" height="9" width="1"></spacer></td>
-<td rowspan="3" width="150">&nbsp;</td>
-</tr>
-<tr><td class="Verd9pt"><p><font color="#666666"><b>SPONSORED LINKS</b><br>
-<br>
-<a href="http://ad.doubleclick.net/clk;2875137;4419705;o?http://click.linksynergy.com/fs-bin/click?id=Ms54VNskQPw&amp;offerid=25830.10000004&amp;type=3&amp;subid=0">GE CAPITAL</a>: Solve your business needs with innovative financing solutions.
-<br>
-<a href="http://ad.doubleclick.net/clk;2760236;4419705;h?http://ads17.focalink.com/SmartBanner/page?15724.156-%n">Motorola</a>: i1000plus-The power of advanced communication on the go!
-<br>
-<a href="http://ad.doubleclick.net/clk;2802538;4419705;j?http://www.ejigsaw.com/index.jsp?from=redherring">eJigsaw</a>:  FREE Personalized IT Consulting. Over 21,000 IT solutions listed.
-<br>
-<a href="http://ad.doubleclick.net/clk;2743501;4419705;d?http://www.sprintesolutions.com/ip189">Sprint E|Solutions(sm)</a>:  Get scalable Internet access + a FREE Cisco router.<br>
-        <a target="OFFSITE" href="http://ad.doubleclick.net/clk;2609732;4419705;k?http://ad.doubleclick.net/clk;2598727;5301576;s?http://www.fidelity.com/goto/banners/sysmutualfundslz/?banner=5301576" onmouseover="status='Click here for more information'; return true">FIDELITY INVESTMENTS</a>:  For mutual funds, choose strength and expertise.<br>
- <a target="OFFSITE" href="http://ad.doubleclick.net/clk;2593116;4419705;i?http://ad.doubleclick.net/clk;2581420;5636572;h?http://www.fidelity.com/goto/banners/syspowerstreetlz/?banner=5636572" onmouseover="status='Click here for more information'; return true">FIDELITY INVESTMENTS</a>:  See Yourself Succeeding(SM).<br>
-
-<a target="OFFSITE" href="http://ad.doubleclick.net/clk;2683747;4419705;s?http://ad.doubleclick.net/clk;2677047;5712966;u?http://www.bellatlantic.com/infospeed/partner.html?promotionCode=VZBNR&amp;expiry=30">VERIZON BUSINESS DSL</a>:&nbsp;Connect and work with the speed essential
-to modern business.
-<br>
-<a target="OFFSITE" href="http://ad.doubleclick.net/clk;2688306;4419705;o?http://ad.doubleclick.net/clk;2645943;5693316;r?http://ad.doubleclick.net/574839/claunch.html" onmouseover="status='Click here for more information'; return true">Get on with life's pleasures</a>. See the Mercedes-Benz C-Class at MBUSA.com.
-<br>
-<a target="OFFSITE" href="http://ad.doubleclick.net/clk;2720229;4419705;f?http://www.ustrek.org" onmouseover="status='Click here for more information'; return true">US TREK</a>: Because the Internet should be more than just e-commerce.
-	</font></p></td>
-</tr>
-
-<tr>
-	<td background="http://a330.g.akamai.net/7/330/990/df5c48499e5be6/www.redherring.com/upload/images/dotted_linie_bottom.gif" height="12"><spacer type="block" width="2" height="12"></spacer></td>
-</tr>
-</tbody></table>
-<br><table width="100%" border="0" cellpadding="0" cellspacing="0"><!--TR><TD ROWSPAN=6 WIDTH='5' BGCOLOR='#003399'>&nbsp;<spacer type=block height=1 width=5></TD></TR-->
-	<tbody><tr><td bgcolor="#cccccc" height="1" width="100%"><spacer type="block" height="1" width="1"></spacer></td></tr>
-	<tr><td class="Arial8pt" width="100%">&nbsp;&nbsp;<a href="index.asp"><img src="http://a330.g.akamai.net/7/330/990/fc855d7b045f83/www.redherring.com/images/rh_bot_nav.gif" align="absMiddle" border="0"></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.asp?layout=about_redherring">About Red Herring</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://redherring.custhelp.com/cgi-bin/redherring">Customer Support</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.asp?layout=site_map">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.asp?layout=employment">Employment</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.asp?layout=terms">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="index.asp?layout=privacy_statment">Privacy Statement</a></td></tr>
-	<tr><td height="2" width="100%"><spacer type="block" height="1" width="1"></spacer></td></tr>
-	<tr><td width="100%" bgcolor="#cccccc" height="1"><spacer type="block" height="1" width="1"></spacer></td></tr>
-	<tr><td width="100%" class="Arial8pt"><br><b><font color="#666666">Our Partners</font></b></td></tr>
-</tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-	<tbody><tr><!--TD ROWSPAN='2' WIDTH='5' BGCOLOR='#003399'>&nbsp;</TD-->
-		<td align="left" bgcolor="#ffffff">&nbsp;&nbsp;<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1596935;4586014;r?http://www.stockpoint.com/" onmouseover="status='Click here for more information'; return true"><img height="31" src="http://a330.g.akamai.net/7/330/990/63f169ebb3d846/www.redherring.com/upload/images/partner1.gif" width="88" border="0"></a>&nbsp;<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1596987;4586014;y?http://www.enfish.com/10p.asp?redherring01P" onmouseover="status='Click here for more information'; return true"><img height="31" src="http://a330.g.akamai.net/7/330/990/69374d96b2cdea/www.redherring.com/upload/images/partner5.gif" width="88" border="0"></a>&nbsp;<a target="OFFSITE" href="http://ad.doubleclick.net/clk;1596988;4586014;z?http://www.vcapital.com/chouse/5ah_matchform.asp" onmouseover="status='Click here for more information'; return true"><img height="31" src="http://a330.g.akamai.net/7/330/990/1ca71a12cd04b1/www.redherring.com/upload/images/partner6.gif" width="88" border="0"></a></td>
-	</tr>
-</tbody></table>
-
-<table border="0" cellspacing="0" cellpadding="0" width="100%">
-<tbody><tr>
-<td height="5" colspan="2"><spacer type="block" height="1" width="1">
-   <script>unicastAd()</script>
-</spacer></td>
-</tr>
-</tbody></table>
-
-<!-- /BODY>
-</HTML --><!-- end footer --> </td></tr>
-</tbody></table>
-
-<!--Content Ends Here-->
-
-<!--Footer Starts Here-->
-
-<!--TABLE WIDTH=100% CELLPADDING=0 CELLSPACING=0 BORDER=0 ALIGN=center>
-	<TR VALIGN=top><TD ALIGN=center>
-		<FONT SIZE=1 FACE="MS Sans Serif" color="#000000">Technology Copyright &copy by<a href="http://www.elogic.com/" target="_blank"><font size=1 face="MS Sans Serif" color="#000000"><u>eLogic communications</u></u></a> &nbsp;&nbsp;All Rights Reserved.
-	</TD></TR>
-	<TR><TD><br>
-		<FONT SIZE=1 FACE="MS Sans Serif" COLOR="#000000"><P> <B>FOR INFORMATION ONLY</B><Br>Search, Quote and index technology developed by eLogic. Historical information supplied by Iverson Financial, news articles contibuted by Reuters, PRNewswire and BusinessWire. Data and information is provided for informational purposes only, and is not intended for trading purposes. Neither eLogic nor any of its data or content providers shall be liable for any errors or delays in the content, or for any actions taken in reliance thereon.</p></font>
-	</TD></TR>
-</TABLE-->
-
-
-
-<!--Footer Ends Here-->
 </body></html>
