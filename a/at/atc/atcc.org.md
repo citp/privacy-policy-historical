@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atcc.org privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206213720id_/http%3A//www.atcc.org/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atcc.org privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402133054id_/http%3A//www.atcc.org/Privacy.cfm) for the most accurate reproduction.*
 
 # ATCC: Privacy
 
