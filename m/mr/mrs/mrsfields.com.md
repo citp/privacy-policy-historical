@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604131311id_/http%3A//mrsfields.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrsfields.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211185814id_/http%3A//mrsfields.com/privacy) for the most accurate reproduction.*
 
 # Mrs. Fields Cookies
 
@@ -28,17 +28,17 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  1. email [nicoler@mrsfields.com.com](mailto:nicoler@mrsfields.com.com)
+  1. email [rogerf@mrsfields.com](mailto:rogerf@mrsfields.com)
 
 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact
 
-Nicole Rock  
+Roger Foisy  
 Mrs. Fields Original Cookies  
-462 West Bearcat Ave.  
+440 West Lawndale Drive  
 Salt Lake City, Utah 84115  
-[nicoler@mrsfields.com.com](mailto:nicoler@mrsfields.com.com)  
+[rogerf@mrsfields.com.com](mailto:rogerf@mrsfields.com.com)  
 
 
 © 2001 Mrs. Fields Cookies, Inc.  
