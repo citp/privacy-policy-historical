@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the no-ip.biz privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610072657id_/http%3A//www.no-ip.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the no-ip.biz privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203001721id_/http%3A//www.no-ip.biz/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -36,7 +36,7 @@ No-IP.com offers chat rooms and bulletin boards. Please note that information th
 
 #### Security
 
-No-IP.com features security measures 40-bit SSL encryption to protect the loss, misuse or alteration of information placed under our control. 
+No-IP.com features security measures 128-bit SSL encryption to protect the loss, misuse or alteration of information placed under our control. 
 
 #### Children's Guidelines
 
@@ -60,10 +60,10 @@ If you have any additional questions or concerns about our privacy policy, pleas
 
 Vitalwerks LLC  
 c/o No-IP.com  
-P.O. Box 880094  
-San Diego, CA 92168  
+P.O. Box 230686  
+Las Vegas, NV 89123  
 info@no-ip.com  
-858-362-7971 phone  
-858-362-7973 fax  
+702-459-8544 phone  
+702-459-8644 fax  
 
 
