@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 1999-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991125122841id_/http%3A//www.fs.fed.us/links/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607225206id_/http%3A//www.fs.fed.us/links/privacy.shtml) for the most accurate reproduction.*
 
 # USDA Forest Service
 
-|  |   
----|---|---  
-   
-  
-[SEARCH](https://web.archive.org/intro/search.shtml)      [LIBRARY](https://web.archive.org/links/products.shtml)      [PROGRAMS](https://web.archive.org/links/other.shtml)      [NEWS](https://web.archive.org/news/)      [CONTACTS](https://web.archive.org/intro/directory/)      [SITE MAP](https://web.archive.org/links/site.shtml)      [FEEDBACK](https://web.archive.org/links/feedback.shtml)      [HOME](https://web.archive.org/)  
-  
   
 [USDA Privacy Policy ](http://www.usda.gov/news/privacy.htm)
 
@@ -36,4 +30,4 @@ Modified: 9/7/99
 
 **USDA Forest Service, National Headquarters**
 
-_Modified Friday, 09-Jul-99 12:34:41 EDT_
+_Modified Friday, 09-Jul-1999 12:34:41 EDT_
