@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621165222id_/http%3A//www.watchguard.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchguard.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202174542id_/http%3A//www.watchguard.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement: About WatchGuard | WatchGuard Technologies, Inc.
 
@@ -17,7 +17,7 @@ Because WatchGuard wants to demonstrate its commitment to your privacy, WatchGua
 
 
 
-Questions regarding this statement should be directed to the WatchGuard Technologies, Inc. [Site Coordinator](https://web.archive.org/web/20030621165222id_/http%3A//www.watchguard.com/about/contact.asp) at WatchGuard Technologies for clarification.
+Questions regarding this statement should be directed to the WatchGuard Technologies, Inc. [Site Coordinator](https://web.archive.org/web/20031202174542id_/http%3A//www.watchguard.com/about/contact.asp) at WatchGuard Technologies for clarification.
 
 This site contains links to other sites. Upon selecting one of these links and leaving watchguard.com this privacy statement no longer applies.
 
