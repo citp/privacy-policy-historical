@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netregistry.com.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206090711id_/http%3A//www.netregistry.com.au/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netregistry.com.au privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603122117id_/http%3A//www.netregistry.com.au/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | NetRegistry
 
@@ -10,7 +10,7 @@ NetRegistry respects the Guidelines suggested by the [Australian Direct Marketin
 
 We also abide by the [World Wide Web Consortium (W3C) Platform for Privacy Preferences Project (P3P)](http://www.w3.org/P3P/). This policy is emerging as an industry standard providing a simple, automated way for users to gain more control over the use of personal information on Web sites they visit.
 
-Our P3P-compliant privacy policy is [machine readable](https://web.archive.org/web/20031206090711id_/http%3A//www.netregistry.com.au/privacy/privacy.p3p#general) and [available for you to read](https://web.archive.org/web/20031206090711id_/http%3A//www.netregistry.com.au/privacy/privacy.html).
+Our P3P-compliant privacy policy is [machine readable](https://web.archive.org/web/20040603122117id_/http%3A//www.netregistry.com.au/privacy/privacy.p3p#general) and [available for you to read](https://web.archive.org/web/20040603122117id_/http%3A//www.netregistry.com.au/privacy/privacy.html).
 
 In line with those Guidelines, NetRegistry would like you to be aware of the information we collect to provide your service. WE DO NOT PROVIDE THIRD PARTIES WITH ACCESS TO YOUR PERSONAL DATA, with the obvious exception of third party business partners such as the Domain Name Registries.
 
