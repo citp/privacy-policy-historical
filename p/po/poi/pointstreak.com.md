@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206095258id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointstreak.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610112604id_/http%3A//www.pointstreak.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
 # Pointstreak.com - privacy policy
 
@@ -29,9 +29,9 @@ User Information Accuracy
 Questions regarding Pointstreak's privacy policy or the use of the information collected should be directed via email to [info@pointstreak.com](mailto:info@pointstreak.com), by telephone at (604) 734-3585, or by mail to: 
 
 Pointstreak.com Inc.  
-2050 West 12th Avenue  
+#202 - 1627 West Broadway  
 Vancouver, BC, Canada  
-V6J 2G2
+V6J 1W9
 
 Questions regarding the accuracy of your personal information or hockey statistics should be taken up with your league or database administrator - NOT Pointstreak staff or management.
 
