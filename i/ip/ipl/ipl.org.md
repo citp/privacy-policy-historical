@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 1999-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990503030542id_/http%3A//ipl.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipl.org privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619143524id_/http%3A//www.ipl.org/about/privacy.html) for the most accurate reproduction.*
 
 # IPL Privacy Statement
 
@@ -14,8 +14,6 @@ Our reference question forms ask visitors for contact information (like their e-
 
 Our on-line surveys are anonymous and are used to improve our site and better serve our patrons. Demographic information is collected, but we do not ask for any personally identifying information. 
 
-The Internet Public Library has a [listserv](https://web.archive.org/about/update.html) mailing list. Only those people who have requested to be on this list are included. If you would like to be removed from this list, please e-mail the IPL with the word "unsubscribe" in the subject field. We will not contact you unless you have requested to be added to our mailing list or you have submitted a reference question or comment to our site.
-
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
 
 [David Carter](mailto:ipl@ipl.org)  
@@ -29,4 +27,4 @@ Ann Arbor, MI 48109
 
 * * *
 
-the Internet Public Library - = - http://www.ipl.org/ - = - ipl@ipl.org Last Updated Jan 20, 1999 
+the Internet Public Library - = - http://www.ipl.org/ - = - ipl@ipl.org Last Updated May 15, 2000 
