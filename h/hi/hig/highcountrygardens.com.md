@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210111700id_/http%3A//www.highcountrygardens.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highcountrygardens.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613140950id_/http%3A//www.highcountrygardens.com/privacy.html) for the most accurate reproduction.*
 
 # Gardening: Water conserving plants for Western gardens: High Country Gardens
 
