@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203024131id_/http%3A//www.dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyherald.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603110611id_/http%3A//www.dailyherald.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Daily Herald: Suburban Chicago's Information Source
 
