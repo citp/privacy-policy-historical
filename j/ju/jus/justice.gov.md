@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justice.gov privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407221746id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justice.gov privacy policy that was archived on 2003-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030512102050id_/http%3A//www.justice.gov/privacy-file.htm) for the most accurate reproduction.*
 
 # PRIVACY AND SECURITY NOTICE
 
