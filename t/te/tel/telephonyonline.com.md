@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the telephonyonline.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603123137id_/http%3A//www.primediabusiness.com/company/privacy.asp%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telephonyonline.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207224608id_/http%3A//www.primediabusiness.com/company/privacy.asp%3Fpage%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+**Policy Updated: Effective July 16, 2004**
 
 Since your privacy is a priority to us, we have provided this detailed policy statement about privacy and information dissemination practices related to Primedia Business Magazines and Media products. Of course, our site visitors may enjoy many of our features and activities without providing any personal information. 
 
@@ -16,9 +18,9 @@ Since your privacy is a priority to us, we have provided this detailed policy st
 
 Certain information—such as your password and credit card number—is not disclosed in any form whatsoever to any outside party. Other information: While we will primarily use your email address to contact you when your subscription is up for renewal, there are a few other types of messages we may want to send you, either by email or other means. These might include (but aren’t limited to) announcements regarding other Primedia Business products or services, and special offers from carefully selected, relevant third party businesses and organizations. You will be able to opt-out of any such mailings. In addition, we do share non-personal, aggregate statistics about our customers, sales, demographics, traffic patterns, and related site information with advertisers and reputable third party vendors for marketing and promotional purposes; however, none of the information we disclose in this aggregate form can be used to personally identify you.
 
-**Terms of Use:** By using our Web sites, you consent to the collection and use of your information by Primedia Business Magazines & Media within the policies stated above. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. As with all areas of our sites, Primedia Business Magazines & Media welcomes your questions and comments. If you have any questions or concerns about our stated privacy policies, please contact us at [privacypolicy@primediabusiness.com](mailto:privacypolicy@primediabusiness.com). 
+**Terms of Use:** By using our Web sites, you consent to the collection and use of your information by Primedia Business Magazines & Media within the policies stated above. If we decide to change our privacy policy, we will post changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it. As with all areas of our sites, Primedia Business Magazines & Media welcomes your questions and comments. If you have any questions or concerns about our stated privacy policies, or if you wish to review or request changes to your information, please contact us at [privacypolicy@primediabusiness.com](mailto:privacypolicy@primediabusiness.com). 
 
-Copyright 2003 Primedia Business Magazines & Media. All rights reserved.
+Copyright 2004 Primedia Business Magazines & Media. All rights reserved.
 
 _Privacy Policy for subscribers of print magazines_
 
