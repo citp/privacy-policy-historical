@@ -1,24 +1,11 @@
-> *The following text is extracted and transformed from the gesa.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020225213id_/http%3A//gesa.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gesa.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605031352id_/http%3A//gesa.com/privacy.html) for the most accurate reproduction.*
 
 # Gesa's Privacy Policy
 
- 
+  
+[GESA HOME PAGE ](http://www.gesa.com/)
 
 * * *
-
-[](https://web.archive.org/web/20011020225213id_/http%3A//gesa.com/depaccts.html)  
-[](https://web.archive.org/web/20011020225213id_/http%3A//gesa.com/loans.html)  
-[](https://web.archive.org/web/20011020225213id_/http%3A//gesa.com/rates.html)  
-[](https://web.archive.org/web/20011020225213id_/http%3A//gesa.com/time.html)  
-[](https://web.archive.org/web/20011020225213id_/http%3A//gesa.com/find.html)  
-[](https://web.archive.org/web/20011020225213id_/http%3A//gesa.com/ed.html)  
-[  
-](https://web.archive.org/web/20011020225213id_/http%3A//gesa.com/topic.html)[](https://web.archive.org/web/20011020225213id_/http%3A//gesa.com/index.html)
-
-This page last updated:  
-6/20/01
-
-|   |  
 
 Gesa Credit Union values the relationship that we have with our members and are committed to protecting our members' privacy. We recognize that your trust in us is of central importance, and because of this, the personal information that you provide to us is kept in the strictest of confidence. Gesa has no intention to sell or trade any nonpublic personal information about our members to any third party.
 
@@ -49,6 +36,9 @@ We first define some terms.
     _**Nonpublic personal information**_ means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or government records.
     An _**affiliate**_ is a company we own or control.
     A _**nonaffiliated third party**_ is a company that is not an affiliate of ours.
+
+[GESA HOME PAGE](http://www.gesa.com/)
+
     
 
 * * *
@@ -71,7 +61,9 @@ We do not disclose any nonpublic personal information about you to anyone, excep
 **THE CONFIDENTIALITY, SECURITY AND INTEGRITY  
 OF YOUR NONPUBLIC PERSONAL INFORMATION**
 
-We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information. 
+
+[GESA HOME PAGE ](http://www.gesa.com/)
 
 * * *
 
@@ -91,4 +83,6 @@ We do not disclose nonpublic personal information about former members, except a
 
 **PRIVACY POLICY INQUIRIES**
 
-If you have any questions about our privacy practices, contact us by calling (509) 946-1611 or (888) 946-4372, sending us an e-mail at [gesa@gesa.com](mailto:gesa@gesa.com), or writing to us at Gesa Credit Union, 825 Goethals Drive, Richland, Washington 99352.
+If you have any questions about our privacy practices, contact us by calling (509) 946-1611 or (888) 946-4372, sending us an e-mail at [gesa@gesa.com](mailto:gesa@gesa.com?Subject=Privacy%20Policy), or writing to us at Gesa Credit Union, 825 Goethals Drive, Richland, Washington 99352.
+
+[GESA HOME PAGE ](http://www.gesa.com/)
