@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnb-online.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207194156id_/http%3A//www.fnb-online.com/disclosures.asp%3FintDisType%3D1%26loc%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnb-online.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606221511id_/http%3A//fnb-online.com/disclosures.asp%3FintDisType%3D1%26loc%3D10) for the most accurate reproduction.*
 
 # fnb-online Disclosures
 
