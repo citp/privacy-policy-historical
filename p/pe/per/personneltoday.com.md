@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210065228id_/http%3A//www.personneltoday.com/pt_general/pt_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personneltoday.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607072346id_/http%3A//www.personneltoday.com/pt_general/pt_privacy.asp%23cookies) for the most accurate reproduction.*
 
-# Personnel Today
+# PersonnelToday.com
 
 PersonnelToday.com is owned and operated by [Reed Business Information Limited](http://www.reedbusiness.co.uk/) ("RBI") . 
 
@@ -16,9 +16,23 @@ We may ask for further information about you as part of online surveys or if you
 
 **Cookies**
 
-We make use of cookies to gather valuable information about how users move around the site. This enables us to understand how the site is used and to make improvements. The information we gather by use of cookies does not include personally identifying information. 
+_What is a cookie?_
 
-In addition, the third party companies who sell and provide advertisements to the site and host our contacts database make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of website, please visit the websites of our third party suppliers [Doubleclick](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp) and [E2](http://www.e2communications.com/aboute2/privacyPol.asp?Page=Privacy).
+A cookie is information that a website puts on your hard disk so that it can remember something about you at a later time.
+
+ _Are cookies necessary for using this site?_
+
+You do not have to accept cookies in order to use this site, but if you do, you will find the site easier and faster to use \- for example we use them to prevent you seeing a pop-up ad every time you visit a particular page and to pre-populate forms so that you do not have to fill in the same information over and over again.
+
+ _What do the cookies on our site do?_
+
+1\. We make use of cookies to gather valuable information about how users move around the site. This enables us to understand how the site is used and to make improvements. These cookies do not include personally identifying information. Refusing this cookie will have not impair your experience of using the site.
+
+2\. Our [self-test](http://www.personneltoday.com/tests) section uses cookies to remember what answers you have given in order to calculate your score. These cookies do not include personally identifying information. Refusing this cookie will prevent you from using this section.
+
+3\. AdTech, the third party company which serves advertisements on the site, uses cookies to serve and target advertisements effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of website, please visit the [Adtech site.](http://www.adtech.info/privacy_en.php) These cookies do not include personally identifying information.
+
+4\. Bluestreak, the third party company which handles our user database, also uses cookies. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of website, please visit the [Bluestreak site](http://www.bluestreak.com/web/aboutus_privacypolicy.htm). These cookies may include personally idetnifying information that you have provided to us when completing an online form
 
 **Statistical information**
 
