@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vnunet.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606083420id_/http%3A//www.vnunet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vnunet.com privacy policy that was archived on 2002-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021221014528id_/http%3A//www.vnunet.com/privacy) for the most accurate reproduction.*
 
 # vnunet.com Privacy Statement
 
@@ -25,6 +25,10 @@ When you request a page from the site's web server, the server automatically col
 Your VNU user ID automatically identifies your computer, but not you, to our servers when you visit our site. Unless you specifically tell us, VNU will never know who you are, even though we assign your computer a cookie.
 
 In the course of serving advertisements to this site, our third party advertiser may place or recognise a unique cookie on your browser, but it will not collect any personally identifiable information about you. VNU does not have control over the collection of information for advertising purposes. For more information regarding DoubleClick's privacy policy please [**click here**](http://www.doubleclick.net/us/corporate/privacy). 
+
+Dynamic logic
+
+Dynamic Logic (Europe) has a tag on the [VNU Agility microsite](http://www.vnunet.com/agility) to enable branding research on behalf of Media Contacts and Microsoft. This tag will drop cookies and invite users to complete our survey through a pop-up window. For more information, please contact [Matthew Beck](mailto:matthew_beck@vnu.co.uk). 
 
 Registration
 
