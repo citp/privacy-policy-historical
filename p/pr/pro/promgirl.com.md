@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2002-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020208084055id_/http%3A//promgirl.com/policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2002-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021222211002id_/http%3A//www.promgirl.com/policy.cfm) for the most accurate reproduction.*
 
 # Simply Dresses
 
@@ -22,7 +22,7 @@ SSL encrypts your order information to avoid the decoding of that information by
 
 Some versions of firewalls don't permit communication through secure servers. In that case, you will be unable to connect to the server (and you won't have to worry about placing an order through an unsecured connection). 
 
-If you cannot access a secure server for any reason, please feel free to use our offline order form available upon check out, or place your order by phone. Call us toll free at 888-843-7766, 24 hours a day, 7 days a week. Our Customer Service representatives will be happy to assist you. 
+If you cannot access a secure server for any reason, please feel free to use our offline order form available upon check out, or place your order by phone. 
 
 **Cookies, what are they? How and why we use them.**
 
