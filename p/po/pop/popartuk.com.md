@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popartuk.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206221906id_/http%3A//www.popartuk.com/about/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popartuk.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308015122id_/http%3A//www.popartuk.com/about/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - PopArtUK
 
@@ -15,17 +15,16 @@ If you have any questions or require clarification, please [contact us](https://
 
 ## About Us
 
-This is the web site of **PopArtUK Ltd**. Our postal address is: 
+This is the web site of **PopArtUk**. Our postal address is: 
 
-**PopArtUk Ltd,  
-The Forum, 127-129 Devonshire Street,   
-Devonshire Quarter,  
-Sheffield,   
-South Yorkshire,   
-S3 7SB**  
+**PopArtUk  
+Bank Gallery, High Street,   
+Kenilworth,  
+Warwickshire,   
+CV8 1LY**  
 **UK**
 
-We can be reached via e-mail at [info@popartuk.com](mailto:info@popartuk.com) or you can reach us by telephone at + 44 (0)114 275 4775 
+We can be reached via e-mail at [contact@popartuk.com](mailto:contact@popartuk.com)
 
 ## The Information We Collect
 
@@ -51,4 +50,4 @@ We always use industry-standard encryption technologies when transferring and re
 
 Upon request we will provide site visitors with access to all information that we maintain about them. A nominal charge may be levied, to cover our processing costs.
 
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
+Consumers can have this information corrected by sending us e-mail at the above address, or writing to us at the above address.
