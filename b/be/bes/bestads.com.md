@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the bestads.com privacy policy that was archived on 2001-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010628194618id_/http%3A//bestads.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestads.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209032223id_/http%3A//bestads.com/privacy.html) for the most accurate reproduction.*
 
 # BestAds.com - Privacy Statement
 
-[ ](http://bestads.com/) |   
----|---  
-  
-
-
-* * *
+[ ](http://bestads.com/)
 
 **Privacy Statement**
 
@@ -84,5 +79,5 @@ BestAds pursues partnerships with other companies to provide additional content.
 BestAds welcomes your questions or comments regarding your privacy and/or this Privacy Statement.  Please direct your correspondence to [privacy@bestads.com](mailto:privacy@bestads.com). 
 
   
-Copyright © 2000 BestAds.com. All rights reserved.    
-   [Terms Of Use](http://bestads.com/terms.cfm)         [Co-Branding](http://bestads.com/CoBranding/)
+Copyright © 1996-2002 BestAds.com. All rights reserved.    
+   [Terms Of Use](http://bestads.com/terms.cfm)         [Co-Branding](http://bestads.com/CoBranding/Login.cfm)
