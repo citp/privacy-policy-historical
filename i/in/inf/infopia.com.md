@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202071956id_/http%3A//www.marketplacemanager.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2003-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030601181122id_/http%3A//www.marketplacemanager.com/privacy.html) for the most accurate reproduction.*
 
-# Marketplace Manager™ - Privacy Policy
+# Infopia - Privacy Policy
 
-|   
+**Privacy Policy**
+
 **Marketplace Manager™ and Infopia Inc. Online Privacy & Security Policies**
 
 We value the relationship we have with our customers and web site visitors, and are committed to responsible information handling practices. We take the privacy of our customers very seriously and want you to feel comfortable whenever you visit our web site, access our online services, or participate in any of our online offerings. 
@@ -34,6 +35,3 @@ We recognize industry standards and employ security safeguards to protect person
 
 **We provide you with means to contact us about our information practices and other privacy aspects.**  
 We are committed to protecting the privacy of our customers and web site visitors. Should you have any questions or concerns about this privacy policy or the practices of our web site, please contact us at [privacy@infopia.com](mailto:privacy@infopia.com). 
-
-|  |  |    
-[](http://shop.infopia.com/)
