@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redbooth.com privacy policy that was archived on 2001-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010203235400id_/http%3A//redbooth.com/help/policies/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbooth.com privacy policy that was archived on 2002-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021222205741id_/http%3A//rentanything.com/help/policies/privacy.jsp) for the most accurate reproduction.*
 
 # Rentanything.com || Help
 
