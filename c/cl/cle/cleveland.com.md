@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202214850id_/http%3A//www.cleveland.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleveland.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605105635id_/http%3A//www.cleveland.com/privacypolicy) for the most accurate reproduction.*
 
 # cleveland.com: Privacy Policy
 
@@ -71,7 +71,7 @@ Cleveland, OH 44113
 [](https://web.archive.org/sendthispage/sendthispage.ssf) |  |    
   
   
-[](http://ads3.udc.advance.net/RealMedia/ads/click_lx.ads/www.cleveland.com/privacypolicy/index.ssf/NQS/1871422106/Tile1/CLEVELANDLIVE/CL_BUSINESS/market_tile1.gif/64316564656561653366636430386330)   
+[](http://ads5.udc.advance.net/RealMedia/ads/click_lx.ads/www.cleveland.com/privacypolicy/index.ssf/NQS/1974957363/Tile1/CLEVELANDLIVE/NEXTHOME06CL09/NextHome_190x45b.gif/64316564656561643430633161366530)   
   
   
 
