@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604151623id_/http%3A//quest.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quest.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204230901id_/http%3A//quest.com/privacy.asp) for the most accurate reproduction.*
 
-# Quest Software Privacy Statement
+# Quest Software Copyright and Trademarks
 
 We at Quest Software recognize the importance of protecting your personal information and we are committed to safeguarding your privacy online.
 
@@ -35,6 +35,11 @@ If you would like to remove your information from our database or not receive fu
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Quest Software, Inc. at [webmaster@quest.com](mailto:webmaster@quest.com)
 
   
-Page last updated: 2/14/2003
+Page last updated: 7/28/2003
 
-                                                                                                                                                                                                                               
+* * *
+
+Quest Software Inc. | 8001 Irvine Center Drive | Irvine, CA  92618  
+Phone: 949.754.8000 | Fax: 949.754.8999
+
+All content [Copyright](https://web.archive.org/copyright.asp) © 1985 - 2003 Quest Software, Inc. All rights reserved.
