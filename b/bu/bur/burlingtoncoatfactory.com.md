@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214034032id_/http%3A//www.bcfdirect.com/privacy.tem) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604051827id_/http%3A//www.bcfdirect.com/privacy.tem) for the most accurate reproduction.*
 
 # BCF Webstore - Privacy
 
   |  | [](http://www.bcfdirect.com/index.html) |  | 
 
-[](http://www.coat.com/) [](http://www.bcfdirect.com/service.tem)[](https://www.bcfdirect.com/Members.tem)[](http://www.bcfdirect.com/map.tem)[](https://www.bcfdirect.com/OMBasketManager.process?RestartFlow=t&OMAction=list)  
+[](http://www.coat.com/) [](http://www.bcfdirect.com/service.tem) [](https://www.bcfdirect.com/Members.tem) [](http://www.bcfdirect.com/map.tem) [](https://www.bcfdirect.com/OMBasketManager.process?RestartFlow=t&OMAction=list)  
   
 ---  
   
@@ -33,4 +33,4 @@ Ladies'](http://www.bcfdirect.com/IWCatSectionView.process?IWAction=Load&Merchan
 [Home](http://www.coat.com/index.shtml) | [Customer Service](http://www.bcfdirect.com/service.tem) | [Login](https://www.bcfdirect.com/Members.tem) | [Site Map](http://www.bcfdirect.com/map.tem) | [Store Locator](http://www.coat.com/cgi-bin/mqinterconnect?link=find) | [Corporate](http://www.coat.com/corpinfo/index.shtml) | [Employment](http://www.coat.com/employment/index.shtml) | [Events](http://www.coat.com/events/index.shtml) | [Contact Us](http://www.coat.com/contact/index.shtml)   
 Please read our [Privacy Statement](http://www.bcfdirect.com/privacy.tem).
 
-Copyright © 1997-2001 Burlington Coat Factory - All rights reserved
+Copyright © 1997-2002 Burlington Coat Factory - All rights reserved
