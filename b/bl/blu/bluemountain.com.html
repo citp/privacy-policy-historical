@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the bluemountain.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202024232id_/http%3A//www.bluemountain.com/warrants.pd) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluemountain.com privacy policy that was archived on 2004-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040605212328id_/http%3A//www.bluemountain.com/warrants.pd) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
-<meta name="agmips" content="1.845333">
+<meta name="agmips" content="1.944490">
  
 <title>Blue Mountain- Privacy Policy</title>
  <script language="JavaScript">
@@ -19,7 +19,7 @@ function encodePurl(purl){
   purl=purl.replace(/\%20/g,"perc20");
   purl=purl.replace(/ /g,"perc20");
   purl=purl.replace(/\+/g,"%20");
-  purl=purl.replace(/#.*$/,"");  
+  purl=purl.replace(/#.*$/,"");
   purl=purl.replace(/%(\d+)/g,"perc$1");
   return purl;
 }
@@ -37,94 +37,126 @@ function decodePurl(purl){
   return purl;
 }
 
-//Join Now
-function openJoin(url, purl, width, height, windowname, intX, intY) { 
-  if(!purl) {
+function openJoin(url, purl, width, height, windowname, intX, intY) {
+  if(!purl)
+  {
     purl=window.location.href;
   }
-  if(!width) {
+  if(!width)
+  {
     width='300';
   }
-  if(!height) {
+  if(!height)
+  {
     height='320';
   }
-  if(!windowname) {
+  if(!windowname)
+  {
     windowname = "joinwin";
   }
-  if(!intX) {
+  if(!intX)
+  {
     intX=0;
   }
-  if(!intY) {
+  if(!intY)
+  {
     intY=0;
   }
-  purl=encodePurl(purl);
-  if(url.indexOf("ostatus") >= 0){    
-    url=url.replace(/ostatus/,"purl="+purl+"&ostatus");
-  }else{
-    url+="&purl="+purl;
+  purl = encodePurl(purl);
+  if(url.indexOf("ostatus") >= 0)
+  {
+    url = url.replace(/ostatus/,"purl="+purl+"&ostatus");
+  }
+  else
+  {
+    url += "&purl=" + purl;
   }
   pageindex = -1;
   questionindex = -1;
   questionindex = url.indexOf("?");
-  if (url.indexOf("offer.pd")>0) {pageindex = url.indexOf("offer.pd")}
-  else if (url.indexOf("announce.pd")>0) {pageindex = url.indexOf("announce.pd")}
-  else if (url.indexOf("marketingpop.pd")>0) {pageindex = url.indexOf("marketingpop.pd")}
+  if (url.indexOf("offer.pd")>0)
+  {
+    pageindex = url.indexOf("offer.pd")
+  }
+  else if (url.indexOf("announce.pd")>0)
+  {
+    pageindex = url.indexOf("announce.pd")
+  }
+  else if (url.indexOf("marketingpop.pd")>0)
+  {
+    pageindex = url.indexOf("marketingpop.pd")
+  }
 
-  if(pageindex < questionindex){
+  if(pageindex < questionindex)
+  {
     if (intX || intY)
     {
       strWinFeatures="resizable=no,screenX="+intX+",screenY="+intY+",left="+intX+",top="+intY+",scrollbars=no,width="+width+",height="+height;
       newwin = window.open(url,windowname,strWinFeatures);
     }
     else
-    { 
+    {
       strWinFeatures="resizable=no,scrollbars=no,width="+width+",height="+height;
       newwin = window.open(url,windowname,strWinFeatures);
     }
     newwin.focus();
-  }else{
+  }
+  else
+  {
     window.document.location.href=url;
   }
 }
 
-// Offer Popup
-function openOfferPop(host) {
-  var url = "/popup/offer.pd?";
-  if(host) {
-    url = host + url;
+function openOfferPop(url, cookiename, cookiedays)
+{
+  purl = window.location.href;
+
+  if(!url)
+  {
+    var url = "/popup/offer.pd?";
+    if (purl.indexOf("cnp") >= 0)
+    {
+      url = url + "cnp=1"
+    }
   }
-  var url = "/popup/offer.pd?";
+
   var intSw = window.screen.availWidth;
   var intSh = window.screen.availHeight;
   var intW = 300;
-  var intH = 320;      
+  var intH = 320;
   var intX=intSw - intW;
   var intY=intSh - intH;
-  openJoin(url,0,0,0,0,intX,0);  
+
+  if (cookiename)
+  {
+    var allcookies = document.cookie;
+    var pos = allcookies.indexOf(cookiename);
+//only pop the window if we don't see the cookie
+    if (pos == -1)
+    {
+      SECONDS_PER_DAY = 86400;
+      myMinTimeOut    = SECONDS_PER_DAY*cookiedays;
+      myDate          = new Date();
+      myDate.setTime(myDate.getTime()+(myMinTimeOut*1000));
+      document.cookie = cookiename + "=true; expires=" + myDate.toGMTString();
+      openJoin(url,0,0,0,0,intX,0);
+    }
+  }
+  else
+  {
+    openJoin(url,0,0,0,0,intX,0);
+  }
 }
 
-function showLoginUpdate(strHost) {
-        var url = "/popup/offer.pd?";
-        openJoin(url);
-     }
-
-function showLoginWithVars(strHost, strVars) {
-    var url = "/popup/offer.pd?";
-    if(strHost) {
-      url = strHost + url;
-    }
-    openJoin(url);  
-     }
-  
-//Generic Open Window  
-function OpenNewWindow(url,winwidth,winheight,bar) {NewWindow=window.open(url,'descr','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)}
+//Generic Open Window
+function OpenNewWindow(url,winwidth,winheight,bar)
+{
+  NewWindow = window.open(url,'descr','toolbar=no,location=no,directories=no,status=no,menubar=no,resizable=no,copyhistory=no,width='+winwidth+',height='+winheight+',scrollbars='+bar)
+}
 
 // NO MORE HIDING -->
-</script>
- 
+</script> 
 <style type="text/css">
-.hdrP {font-family: arial; font-size: 13px; font-weight: bold; color:#990000;}
-.hdrF {font-family: arial; font-size: 13px; font-weight: bold; color:#4E4E22;}
 .textlink {font-family: verdana; font-size: 11px; color:#333399;}
 .spcr {font-family: arial; font-size: 8px;}
 .text {font-family: verdana; font-size: 11px;}
@@ -138,13 +170,23 @@ font-family: verdana, Arial, Helvetica, sans-serif}
 .sisuText {font-family: verdana; font-size: 10px; font-weight:bold;}
 .sisuText2 {font-family: verdana; font-size: 11px; font-weight:bold;}
 .celText {font-family: arial; font-size: 13px; font-weight:bold;}
-.text2 {font-family: verdana; font-size: 10px;}
+.text2 {font:10px verdana;}
 .tools {font-family: verdana; font-size: 10px;}
 .uber {font-family: verdana; font-size: 12px;}
 .bread, a.bread, a.bread:visited, a.bread:active { color: #000066; font-weight: bold; font-size: 10px; font-family: verdana,Arial,Helvetica,sans-serif; }
 .ad, a.ad:link, a.ad:visited, a.ad:active {font-family: verdana, Arial, helvetica, sans-serif; font-size: 11px;}
-.siteerror {COLOR: #ff0000;  font-weight: bold; font-size: 12px; font-family:  Arial, Helvetica, sans-serif; text-decoration: none}
+.siteerror {color:#ff0000; font:bold 12px Arial, Helvetica, sans-serif; text-decoration:none;}
 </style> 
+<script language="JavaScript">var mjc_ck_name = "tpc2";
+var useg_ck_name = "useg";
+var cmpn_ck_name = "cmpn";</script>
+<script language="JavaScript" src="http://www.imgag.com/js/cookie_util.js"></script>
+<script language="JavaScript" src="http://www.imgag.com/js/useg.js"></script>
+<meta name="DCSext.ag_tseg" content="B">
+<meta name="DCSext.ag_tseg2" content="B">
+<meta name="WT.sv" content="ag440">
+<meta name="DCS.dcssip" content="www.bluemountain.com">
+<meta name="DCSext.ag_cache" content="W">
 </head> 
  
 <body bgcolor="#FEFDEF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#333399" vlink="#333399"> 
@@ -177,7 +219,7 @@ font-family: verdana, Arial, Helvetica, sans-serif}
 <table border="0" cellpadding="0" cellspacing="0" width="770">
 <tbody><tr bgcolor="#E5E5E5">
   <td width="1" bgcolor="#CCCDCD"><img src="http://www.imgag.com/bma/space.gif" width="1" height="17"></td>
-  <td align="center"><font face="verdana" size="1"><b>member benefits:</b>&nbsp;</font><font face="arial" size="1">&nbsp;[ <a href="javascript:openOfferPop();">My Profile</a> | <a href="javascript:openOfferPop();">Address Book</a> | <a href="javascript:openOfferPop();">Reminders</a> | <a href="javascript:openOfferPop();">2 FREE Accounts</a> | <a href="javascript:openOfferPop();">eCards Received</a> | <a href="javascript:openOfferPop();">My Favorite eCards</a> | <a href="javascript:openOfferPop();">Sent eCards</a> ]</font></td>
+  <td align="center"><font face="verdana" size="1"><b>member benefits:</b>&nbsp;</font><font face="arial" size="1">&nbsp;[ <a href="javascript:openOfferPop();">My Account</a> | <a href="javascript:openOfferPop();">Address Book</a> | <a href="javascript:openOfferPop();">Reminders</a> | <a href="javascript:openOfferPop();">2 FREE Accounts</a> | <a href="javascript:openOfferPop();">eCards Received</a> | <a href="javascript:openOfferPop();">My Favorites</a> | <a href="javascript:openOfferPop();">Sent eCards</a> ]</font></td>
   <td width="1" bgcolor="#CCCDCD"><img src="http://www.imgag.com/bma/space.gif" width="1" height="17"></td>
 </tr>
 <tr bgcolor="#CCCDCD">
@@ -291,7 +333,7 @@ Your IP address can be accessed by greetings recipients in the header of the not
  
 <b>YOUR CONTROL OVER YOUR PERSONAL INFORMATION <br> 
 Opt-Out/Changing Your Status</b><br> 
-At any time, you can change choices you have previously made as to the use of your personal information. Every communication Blue Mountain sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank e-mail to <a href="mailto:nomailbma@privacy.Blue Mountain">nomailbma@privacy.Blue Mountain</a> and type "Remove" in the subject field. This system is automated and must be contacted from the email address you wish to have removed. Permission changes will be honored as soon as possible after receipt. Please allow five to seven days for processing. Permission changes will however not affect any information which you provided to us and which we previously shared with our Business Partners. <br><br> 
+At any time, you can change choices you have previously made as to the use of your personal information. Every communication Blue Mountain sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank e-mail to <a href="mailto:nomailbma@privacy.bluemountain.com">nomailbma@privacy.bluemountain.com</a> and type "Remove" in the subject field. This system is automated and must be contacted from the email address you wish to have removed. Permission changes will be honored as soon as possible after receipt. Please allow five to seven days for processing. Permission changes will however not affect any information which you provided to us and which we previously shared with our Business Partners. <br><br> 
  
 <b>Editing Your Profile</b><br> 
 If you are a registered member, you have the ability to review and correct your personally identifiable information at any time. Simply sign into the site and click the "My Profile" link on the header of every page.  There, you can change your address information, e-mail type, sign-in, and e-mail permissions. You can revise, add, delete, or completely cancel all alerts by following the links to "Reminders" at the top of each page.<br><br> 
@@ -310,7 +352,7 @@ In the event that Blue Mountain and/or its units or subsidiaries are ever sold, 
 <b>Data Security</b><br> 
 When you place orders for purchased products or access your payment information, we use an advanced encryption technology known as Secure Socket Layer (SSL) to protect the storage and transfer of your data from unauthorized parties. While on a secure page, such as our registration form, a lock or key icon appears on the bottom of your web browser. <br> 
 In addition to our online security efforts, we take steps to protect your personal data offline, as well. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Employees are granted access on a need-to-know basis (for example, our billing clerk or a customer service representative). Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind a locked cage. <br> 
-Blue Mountain's main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms. If you have any questions about the security at our website, you can send an email to <a href="mailto:webmaster@Blue Mountain">webmaster@Blue Mountain</a>. <br><br> 
+Blue Mountain's main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms. If you have any questions about the security at our website, you can send an email to <a href="mailto:webmaster@bluemountain.com">webmaster@bluemountain.com</a>. <br><br> 
  
 <b>Changes to the Privacy Policy</b><br> 
 Blue Mountain will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. When Blue Mountain posts changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of Blue Mountain Sites. If there are material changes to this Policy or in how Blue Mountain uses your personally identifiable information, Blue Mountain will prominently post such changes prior to implementing the change. Blue Mountain encourages you to periodically review this Policy to be informed of how we are protecting your information. <br><br> 
@@ -345,13 +387,16 @@ As always, if you have any questions, please feel free to contact us at <a href=
  
 <br>&nbsp;<br><table border="0" cellpadding="0" cellspacing="0" width="770">
 <tbody><tr>
-  <td align="center" class="text"><a href="http://www.bluemountain.com/customer/index.pd">Help - Customer Service</a> |  <a href="JavaScript:OpenNewWindow('/advertise.pd','500','300','no')">Advertise on Blue Mountain</a><br>&nbsp;<br>© 1996-2003 EGCB, Inc. All rights reserved. Blue Mountain, Blue Mountain Arts, and the Blue Mountain logo are service marks or registered service marks of BMA Holdings, LLC in the United States and other countries.<br>&nbsp;<br><a href="http://www.bluemountain.com/legal.pd">Terms of Service</a> |  <a href="http://www.bluemountain.com/warrants.pd">Privacy Policy</a><br>&nbsp;<br></td>
+  <td align="center" class="text"><a href="http://www.bluemountain.com/customer/index.pd">Help - Customer Service</a> |  <a href="JavaScript:OpenNewWindow('/advertise.pd','500','300','no')">Advertise on Blue Mountain</a><br>&nbsp;<br>© 1996-2004 EGCB, Inc. All rights reserved. Blue Mountain, Blue Mountain Arts, and the Blue Mountain logo are service marks or registered service marks of BMA Holdings, LLC in the United States and other countries.<br>&nbsp;<br><a href="http://www.bluemountain.com/legal.pd">Terms of Service</a> |  <a href="http://www.bluemountain.com/warrants.pd">Privacy Policy</a><br>&nbsp;<br></td>
 </tr>
 </tbody></table> 
 <br><br><br><br> 
 </center> 
  
-<!-- page generated: Mon Dec  1 21:42:33 2003 -->
+
+<!-- page generated: Sat Jun  5 17:23:28 2004 -->
+
+<script language="JavaScript" src="http://www.imgag.com/js/wt.js"></script><noscript><IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsew60m1oifwznbkznc6j9ix_5x7j/njs.gif?dcsuri=/nojavascript&WT.js=No"></noscript>
  
  
  
