@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the wegcash.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603013819id_/http%3A//www.wegcash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegcash.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204170042id_/http%3A//wegcash.com/privacy.html) for the most accurate reproduction.*
 
 # WEGCash.com
 
-  
-
-
-([Click here](https://web.archive.org/web/20040603013819id_/http%3A//www.wegcash.com/terms.html)) to view our terms and conditions. 
+([Click here](https://web.archive.org/web/20041204170042id_/http%3A//wegcash.com/terms.html)) to view our terms and conditions. 
 
 The following is our privacy statement regarding our gathering and dissemination of information practices for this website.
 
@@ -29,10 +26,10 @@ This site may contain chat rooms, forums, message boards, and/or news groups ava
 
 We use 'cookie' technology (see www.cookiecentral.com for complete information) to enhance users' online experience by making it easier for them to navigate through our pages or to make a feature work better. We do not extract information about individual users or their computers during this process. Cookies set by us for our Web sites are required. We utilize cookies to regulate advertising, improve user experience, and identify you as a prior visitor to our website. 
 
-  
-You can send E-mail to us [webmastersupport@wegcash.com](mailto:webmastersupport@wegcash.com)   
+You can send E-mail to us [webmastersupport@wegcash.com](mailto:webmastersupport@wegcash.com)
+
 You can send mail to the following postal address:  
-Web Entertainment Group Inc.  
+Web Entertainment Group LTD  
 Attn: Privacy Statement  
-20423 State Road 7, F-6 #511  
-Boca Raton, Fl. 33498-6797 
+Amory Building, Suite #3820, Victoria Road  
+Basseterre, St. Kitts & Nevis, East Caribbean
