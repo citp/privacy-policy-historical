@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximumpc.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610115447id_/http%3A//maximumpc.com/others/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximumpc.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011063434id_/http%3A//www.maximumpc.com/others/privacy.html) for the most accurate reproduction.*
 
 # 
 
