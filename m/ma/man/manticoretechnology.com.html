@@ -1,28 +1,49 @@
-<!--The following is the downloaded HTML source of the manticoretechnology.com privacy policy that was archived on 2002-02-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020206214656id_/http%3A//manticoretechnology.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manticoretechnology.com privacy policy that was archived on 2002-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021010010004id_/http%3A//www.manticoretechnology.com/privacy.asp) for the most accurate reproduction.-->
 
-<html><head>
+<html><head><script language="JavaScript">
+//<!--
+function GetFlashMovieObject(moviename) 
+{
+	var oReturn;
+
+	if (navigator.appName.indexOf ("Microsoft") !=-1) 
+	{ 
+		oReturn=window[moviename];
+	} 
+	else 
+	{ 
+		oReturn=document[moviename];
+	}
+
+	return oReturn;
+}
+function SetTabsHelpMessage(sMessage) 
+{
+   oTabs=GetFlashMovieObject('mtcTabs');
+   
+   if (oTabs)
+		oTabs.SetVariable('_level0.sHelpMessage', sMessage);
+
+	return true;
+}
+//-->
+</script>
+
+
+
 <meta name="Robots" content="index, follow, noimageclick">
 <meta name="Revisit-after" content="15 days">
 <meta name="Classification" content="Business">
 <meta name="Distribution" content="Global">
-<meta name="Copyright" content="Copyright 2000-2001 Manticore Technology Corporation">
+<meta name="Copyright" content="© 2000-2002 Manticore Technology Corporation">
 <meta name="Description" content="Manticore Technology Corporation provides a suite of hosted tools to help organizations better understand their online audience.  Our software monitors critical metrics about web site and e-commerce traffic for managers that need to make important business decisions.">
 <meta name="Keywords" content=" web site analysis, web site tracking, web reporting tools, web traffic analysis, web site statistics, internet stats, internet analysis, internet traffic, internet marketing, log analysis, log files, hits, page views, statistics, marketing, tracking, ROI, visitor, analysis, realtime, online, e-commerce, count, software,  web statistics,   intranet traffic reporting,  website management,  web site traffic statistics,  reporting software,  stats server analysis,  ebusiness analytics,  intranet management, marketing intelligence,  ecommerce statistics,  measure marketing campaigns,  customer intelligence, business intelligence,  e-business intelligence,  return on investment,  web site administration,  log analysis tools,  eCommerce,  link popularity,  web site hit counter,  web site tracking,  web page stats,  network traffic,  traffic analysis,  analytical applications,  site analysis, track, hosted, live, web,  real,  time,  real-time,  audit,  internet,  web,  site,  analysis,  software,  tracking,  measurement,  traffic,  log,  analyzer, counting,  hits,  popular, page, view,  visit,  sites,  counter,  count hits,  ROI measurement,  online ROI,  ebusiness ROI,  business,  commerce,   enterprise,  e-metrics,  e-customer,  e-business,  Ebusiness,  eMarketing,  eData,  emetrics,  campaign,  management,  performance,  revenue,  referrer,  browser,  stats,  analyze,  intelligence,  insight,  webmaster,  server statistics,  consultant,  marketing analysis,  internet analysis,  business,  training,  services,  home page,  chart,  visitors,  monthly,  daily,  hourly,  unique visitor,  graph,  referring browser,  domain name,  ip address,  domains,  data warehouse,  data warehousing,  warehouse,  warehousing,  information,  data, number,  total,  estimate,  report,  record,  graphical,  usage,  solutions,  resources,  tool,  join,  link">
 
 
 	<title>Manticore Technology</title>
-
 <script language="JavaScript">
 <!--
-function MM_findObj(n, d) { //v4.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
-}
-
 function MM_changeProp(objName,x,theProp,theValue) { //v3.0
   var obj = MM_findObj(objName);
   if (obj && (theProp.indexOf("style.")==-1 || obj.style)) eval("obj."+theProp+"='"+theValue+"'");
@@ -34,7 +55,6 @@ function MM_preloadImages() { //v3.0
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
-/* Functions that swaps images. */
 function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
@@ -76,403 +96,183 @@ function MM_nbGroup(event, grpName) { //v3.0
       nbArr[nbArr.length] = img;
   } }
 }
+
+function MM_findObj(n, d) { //v3.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+	d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+
+function MM_validateForm() { //v3.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+	if (val) { nm=val.name; if ((val=val.value)!="") {
+	  if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+		if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+	  } else if (test!='R') { num = parseFloat(val);
+		if (val!=''+num) errors+='- '+nm+' must contain a number.\n';
+		if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+		  min=test.substring(8,p); max=test.substring(p+1);
+		  if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+	} } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+
+function MTC_ValidateFields() 
+{
+	var i,nm,test,errors='',args=MTC_ValidateFields.arguments;
+
+	for (i=0; i<(args.length-2); i+=3) 
+	{ 
+		test=args[i+2]; 
+		val=MM_findObj(args[i]);
+		if (val) 
+		{ 		
+			val=val.value;
+					
+			if (test.charAt(0)=='R' && val=="") 
+				errors += '- '+args[i+1]+' is required.\n'; 
+		}
+	} 
+	if (errors) 
+		alert('The following error(s) occurred:\n'+errors);
+
+	document.MTC_returnValue = (errors == '');
+}
+
+function MTC_ValidateFieldsA() 
+{
+	var i,nm,test,errors='',args=MTC_ValidateFieldsA.arguments;
+	var bReturn=true;
+
+	for (i=0; i<(args.length); i++) 
+	{ 
+		val=MM_findObj(args[i]);
+		if (val) 
+		{ 		
+			val=val.value;
+					
+			if (val=="") 
+				bReturn=false; 
+		}
+	} 
+
+	return bReturn;
+}
+
+function MTC_GetRadioValue(oRadio)
+{
+	var sReturn=null;
+	for (var i=0; i<oRadio.length; i++)
+	{
+		if (oRadio[i].checked)
+		{
+			sReturn=oRadio[i].value;
+			break;
+		}
+	}
+
+	return sReturn;
+}
 //-->
 </script>
-<style>
-.PageText
-{
-    COLOR: black;
-    FONT-FAMILY: Arial;
-	Font-Size:  10pt;
-}
-.PageText8
-{
-    COLOR: black;
-    FONT-FAMILY: Arial;
-	Font-Size:  8pt;
-}
-.PageNumber
-{
-    COLOR: #003399;
-    FONT-FAMILY: Arial;
-	Font-Size:  10pt;
-}
-.PageNumber:Hover
-{
-    TEXT-DECORATION: underline
-}
-BODY
-{
-    FONT-FAMILY: Arial
-}
-TD
-{
-    COLOR: white;
-    FONT-FAMILY: Arial
-}
-A
-{
-    COLOR: white;
-    TEXT-DECORATION: none
-}
-.Underline
-{
-    COLOR: black;
-}
-.Underline:hover
-{
-    TEXT-DECORATION: underline
-}
-.UnderlineBlue
-{
-    COLOR: #003399;
-}
-.UnderlineBlue:hover
-{
-    TEXT-DECORATION: underline
-}
-.UnderlineBlue10
-{
-    COLOR: #003399;
-	font-size:  10pt;
-}
-.UnderlineBlue10:hover
-{
-    TEXT-DECORATION: underline
-	font-size:  10pt;
-}
-.ABlue
-{
-	COLOR: #003399;
-    TEXT-DECORATION: underline
-}
-.ABlack
-{
-    COLOR: black;
-    TEXT-DECORATION: underline
-}
-.ABlackMenuBar
-{
-    COLOR: black;
-}
-.ABlackMenuBar:hover
-{
-    TEXT-DECORATION: underline;
-}
-.8PointFont
-{
-	font-size:  8pt;
-}
-.LoginBoxes
-{
-	width:  120px;
-}
-.LoginBoxes_Small
-{
-	width:  95px;
-	font-size:  8pt;
-}
-.DropDownBox8Point80Wide
-{
-	width:  80px;
-	font-size:  8pt;
-}
-.ContactInfo
-{
-}
-.ContactInfo_Long
-{
-    WIDTH: 240px
-}
-.ContactInfo_Short
-{
-    WIDTH: 90px
-}
-.ReportTabFont
-{
-	Font-Size:  8pt;
-	color: white;
-}
-.ReportTabFontDeselected
-{
-	Font-Size:  8pt;
-	color: #003399;
-}
-.ReportListFont
-{
-	Font-Size:  8pt;
-}
-.ReportListFont:hover
-{
-	TEXT-DECORATION: underline
-}
-.MAGroupHeading
-{
-	Font-Size:  8pt;
-	Font-Weight:  Bold;
-}
-.MAWindowTitleBar
-{
-	Font-Size:  10pt;
-	Font-Weight:  Bold;
-}
-.WindowTitleBar
-{
-	Font-Size:  10pt;
-	Font-Weight:  Bold;
-}
-.Red8
-{
-	Font-Size:  8pt;
-	color: red;
-}
-.Red8:hover
-{
-	COLOR: red;
-    TEXT-DECORATION: underline;
-	font-size:  8pt;
-}
-.White8
-{
-	Font-Size:  8pt;
-	color: white;
-}
-.White8:hover
-{
-	Font-Size:  8pt;
-	color: white;
-	TEXT-DECORATION: underline;
-}
-.White8Bold
-{
-	Font-Size:  8pt;
-	color: white;
-	Font-Weight:  Bold;
-}
-.White10
-{
-	Font-Size:  10pt;
-	color: white;
-}
-.White10:hover
-{
-	TEXT-DECORATION: underline
-}
-.White10Underline
-{
-	Font-Size:  10pt;
-	color: white;
-	TEXT-DECORATION: underline
-}
-.White10Bold
-{
-	Font-Size:  10pt;
-	color: white;
-	Font-Weight:  Bold;
-}
-.Black8
-{
-	Color: black;
-	Font-Size:  8pt;
-}
-.Black8:hover
-{
-	Color: black;
-	Font-Size:  8pt;
-	TEXT-DECORATION: underline
-}
-.Black8Bold
-{
-	Color: black;
-	Font-Size:  8pt;
-	Font-Weight:  Bold;
-}
-.Black10
-{
-	Color: black;
-	Font-Size:  10pt;
-}
-.Black10Bold
-{
-	Color: black;
-	Font-Size:  10pt;
-	Font-Weight:  Bold;
-}
-.Black12
-{
-	Color: black;
-	Font-Size:  12pt;
-}
-.Black12Bold
-{
-	Color: black;
-	Font-Size:  12pt;
-	Font-Weight:  Bold;
-}
-.Black12Bold:hover
-{
-	Color: black;
-	Font-Size:  12pt;
-	Font-Weight:  Bold;
-	TEXT-DECORATION: underline;
-}
-.Blue8
-{
-    COLOR: #003399;
-	font-size:  8pt;
-}
-.Blue8:hover
-{
-	COLOR: #003399;
-    TEXT-DECORATION: underline;
-	font-size:  8pt;
-}
-.Blue8Underline
-{
-	COLOR: #003399;
-    TEXT-DECORATION: underline;
-	font-size:  8pt;
-}
-.Blue8Bold
-{
-    COLOR: #003399;
-	font-size:  8pt;
-	Font-Weight:  Bold;
-}
-.Blue8Bold:hover
-{
-	COLOR: #003399;
-    TEXT-DECORATION: underline;
-	font-size:  8pt;
-	Font-Weight:  Bold;
-}
-.Blue10
-{
-    COLOR: #003399;
-	font-size:  10pt;
-}
-.Blue10:hover
-{
-	COLOR: #003399;
-    TEXT-DECORATION: underline;
-	font-size:  10pt;
-}
-.OutlineBlack
-{
-    BORDER-BOTTOM: black 1px solid;
-    BORDER-LEFT: black 1px solid;
-    BORDER-RIGHT: black 1px solid;
-    BORDER-TOP: black 1px solid;
-}
-.TableOutline
-{
-    BORDER-BOTTOM: thin outset;
-    BORDER-LEFT: thin outset;
-    BORDER-RIGHT: thin outset;
-    BORDER-TOP: thin outset;
-}
-.TableLeft
-{
-	BORDER-LEFT: black 1px solid;
-    PADDING-LEFT: 5px
-}
-.TableTop
-{
-	BORDER-TOP: black 1px solid;
-}
-.TableColorBox
-{
-    HEIGHT: 10pt;
-    WIDTH: 10pt
-}
-.ReportMenuPosition
-{
-	position:absolute; 
-	left:5px; 
-	top:160px
-}
-.CalendarFont
-{
-	Font-Size:  8pt;
-}
-.Textbox35px
-{
-	width:  35px;
-	font-size:  8pt;
-}
-.Textbox100px_8pt
-{
-	width:  100px;
-	font-size:  8pt;
-}
-.NewsletterTB
-{
-	width:  100px;
-	font-size:  8pt;
-}
-.MailHeaderFields
-{
-    WIDTH: 580px
-}
-.FilterDropDown
-{
-	width:  540px;
-	font-size:  8pt;
-}
-</style></head>
+<link rel="stylesheet" href="PopupMenu.css" type="text/css"><link rel="stylesheet" href="PopupLayer.css" type="text/css"><link rel="stylesheet" href="MTC.css" type="text/css"></head>
 
-<!--<style MEDIA=PRINT>
-.NoPrint
-{
-	visibility: hidden;
-}
-</style>-->
+
 
 
 
 <body bgcolor="WHITE" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" onload="">
 <table width="100%" border="0" bgcolor="white" cellpadding="0" cellspacing="0">
 	<tbody><tr>
-		<td rowspan="2" align="center" width="300" bgcolor="white">
-			<img src="images/ManticoreLogo_300x75.gif" width="300" height="75">
+		<td align="center" width="300" bgcolor="white">
+			<a href="default.asp"><img src="images/ManticoreLogo_300x75.gif" width="300" height="75" border="0"></a>
 		</td>
-		<td colspan="2" valign="top" align="right" bgcolor="#003399" width="100%">
+		<td valign="center" align="right" bgcolor="white" width="100%" class="Gray10">
 
-						<font class="White10">
-						<a href="http://www.VirtualTrafficMaster.com/default.asp" class="White8">Home</a>&nbsp;|&nbsp;
-						<a href="https://www.VirtualTrafficMaster.com/login.asp" class="White8">Login</a>&nbsp;
-						</font>
+						<a href="http://www.VirtualTrafficMaster.com/default.asp" class="Gray8">Home</a>&nbsp;|&nbsp;
+						<a href="https://www.VirtualTrafficMaster.com/login.asp" class="Gray8">Login</a>&nbsp;
 
 		</td>
-	</tr>
-	<tr>
-		<td valign="bottom" bgcolor="#003399">
+		<td width="50"><img src="images/dot.gif" width="100" height="1"></td>
+	</tr>	
 
+		<tr height="23">
+			<td bgcolor="#003399" align="right" colspan="2"><script language="JavaScript1.2" src="js/mm_menu.js"></script>
+<script language="JavaScript1.2" src="js/mtc_preload_navbar_images.js"></script>
+<script language="JavaScript1.2">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(0, 0, 0); background-color: rgb(0, 0, 0); width: 164px; height: 60px;">
+  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 58px; width: 162px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 57px; width: 161px; background-color: rgb(255, 255, 255);">
+<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:4px;top:2.5px;color:#000000;">Direct&nbsp;Sales&nbsp;</div>
+<div id="menuItemHilite0" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Direct&nbsp;Sales&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 19px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText1" style="position:absolute;left:4px;top:2.5px;color:#000000;">E-Commerce&nbsp;</div>
+<div id="menuItemHilite1" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">E-Commerce&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 38px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText2" style="position:absolute;left:4px;top:2.5px;color:#000000;">Information&nbsp;Portals&nbsp;</div>
+<div id="menuItemHilite2" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Information&nbsp;Portals&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(0, 0, 0); background-color: rgb(0, 0, 0); width: 164px; height: 98px;">
+  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 96px; width: 162px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 95px; width: 161px; background-color: rgb(255, 255, 255);">
+<div id="menuItem3" style="position: absolute; left: 0px; top: 0px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText3" style="position:absolute;left:4px;top:2.5px;color:#000000;">Overview&nbsp;</div>
+<div id="menuItemHilite3" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Overview&nbsp;</div></div><div id="menuItem4" style="position: absolute; left: 0px; top: 19px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText4" style="position:absolute;left:4px;top:2.5px;color:#000000;">Virtual&nbsp;Traffic&nbsp;Master&nbsp;</div>
+<div id="menuItemHilite4" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Virtual&nbsp;Traffic&nbsp;Master&nbsp;</div></div><div id="menuItem5" style="position: absolute; left: 0px; top: 38px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:4px;top:2.5px;color:#000000;">Virtual&nbsp;Commerce&nbsp;Master&nbsp;</div>
+<div id="menuItemHilite5" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Virtual&nbsp;Commerce&nbsp;Master&nbsp;</div></div><div id="menuItem6" style="position: absolute; left: 0px; top: 57px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:4px;top:2.5px;color:#000000;">Virtual&nbsp;Touchstone&nbsp;</div>
+<div id="menuItemHilite6" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Virtual&nbsp;Touchstone&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 0px; top: 76px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:4px;top:2.5px;color:#000000;">Schedule&nbsp;Demo&nbsp;</div>
+<div id="menuItemHilite7" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Schedule&nbsp;Demo&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(0, 0, 0); background-color: rgb(0, 0, 0); width: 164px; height: 60px;">
+  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 58px; width: 162px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 57px; width: 161px; background-color: rgb(255, 255, 255);">
+<div id="menuItem8" style="position: absolute; left: 0px; top: 0px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:4px;top:2.5px;color:#000000;">About&nbsp;Us&nbsp;</div>
+<div id="menuItemHilite8" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">About&nbsp;Us&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 19px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:4px;top:2.5px;color:#000000;">News&nbsp;&amp;&nbsp;Events&nbsp;</div>
+<div id="menuItemHilite9" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">News&nbsp;&amp;&nbsp;Events&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 38px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:4px;top:2.5px;color:#000000;">Contact&nbsp;Us&nbsp;</div>
+<div id="menuItemHilite10" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Contact&nbsp;Us&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(0, 0, 0); background-color: rgb(0, 0, 0); width: 164px; height: 22px;">
+  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 20px; width: 162px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 19px; width: 161px; background-color: rgb(255, 255, 255);">
+<div id="menuItem11" style="position: absolute; left: 0px; top: 0px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:4px;top:2.5px;color:#000000;">Our&nbsp;Customers&nbsp;</div>
+<div id="menuItemHilite11" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Our&nbsp;Customers&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+<div id="menuLayer4" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(0, 0, 0); background-color: rgb(0, 0, 0); width: 164px; height: 41px;">
+  <div id="menuLite4" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 39px; width: 162px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg4" style="position: absolute; left: 1px; top: 1px; height: 38px; width: 161px; background-color: rgb(255, 255, 255);">
+<div id="menuItem12" style="position: absolute; left: 0px; top: 0px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:4px;top:2.5px;color:#000000;">Privacy&nbsp;Policy&nbsp;</div>
+<div id="menuItemHilite12" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Privacy&nbsp;Policy&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 19px; font-family: Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 160px; height: 18px; background-color: rgb(255, 255, 255); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:4px;top:2.5px;color:#000000;">Consumer&nbsp;Privacy&nbsp;</div>
+<div id="menuItemHilite13" style="position:absolute;left:4px;top:2.5px;color:#ffffff;visibility:hidden;">Consumer&nbsp;Privacy&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+   </div>
+  </div>
+</div>
+</span>
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr bgcolor="#003399"> 
-	<td width="80"><a href="default.asp"><img src="Images/NavBar/Solutions_off.gif" height="18" border="0" name="Solutions_off"></a></td>
-	<td width="80"><a href="ProductOverview.asp"><img src="Images/NavBar/Products_off.gif" height="18" border="0" name="Products_off"></a></td>
-	<td width="80"><a href="ManagementOverview.asp"><img src="Images/NavBar/AboutUs_off.gif" height="18" border="0" name="AboutUs_off"></a></td>
-	<td width="80"><a href="Contact.asp"><img src="Images/NavBar/ContactUs_off.gif" height="18" border="0" name="ContactUs_off"></a></td>
-	<td width="80"><a href="Partners.asp"><img src="Images/NavBar/Partners_off.gif" height="18" border="0" name="Partners_off"></a></td>
-	<td width="80"><a href="PrivacyPolicy.asp"><img src="Images/NavBar/Privacy_on.gif" height="18" border="0" name="Privacy_off"></a></td>
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr bgcolor="#003399">
+	<td bgcolor="white"><img src="images/dot.gif" height="23" width="1"></td> 
+	<td><a href="#" onmouseout="MM_startTimeout();" onmouseover="menuimgoff();swapImage('navSolutions','imgSolutions_on');MM_showMenu(window.mm_menu_Solutions,0,24,null,'navSolutions');"><img src="Images/NavBar/Solutions_off.gif" border="0" name="navSolutions"></a></td>
+	<td bgcolor="white"><img src="images/dot.gif" height="23" width="1"></td> 
+	<td><a href="#" onmouseout="MM_startTimeout();" onmouseover="menuimgoff();swapImage('navProducts','imgProducts_on');MM_showMenu(window.mm_menu_Products,0,24,null,'navProducts');"><img src="Images/NavBar/Products_off.gif" border="0" name="navProducts"></a></td>
+	<td bgcolor="white"><img src="images/dot.gif" height="23" width="1"></td> 
+	<td><a href="#" onmouseout="MM_startTimeout();" onmouseover="menuimgoff();swapImage('navCustomers','imgCustomers_on');MM_showMenu(window.mm_menu_Customers,0,24,null,'navCustomers');"><img src="Images/NavBar/Customers_off.gif" border="0" name="navCustomers"></a></td>
+	<td bgcolor="white"><img src="images/dot.gif" height="23" width="1"></td> 
+	<td><a href="#" onmouseout="MM_startTimeout();" onmouseover="menuimgoff();swapImage('navCompany','imgCompany_on');MM_showMenu(window.mm_menu_Company,0,24,null,'navCompany');"><img src="Images/NavBar/Company_off.gif" border="0" name="navCompany"></a></td>
+	<td bgcolor="white"><img src="images/dot.gif" height="23" width="1"></td> 
+	<td><a href="#" onmouseout="MM_startTimeout();" onmouseover="menuimgoff();swapImage('navPrivacy','imgPrivacy_on');MM_showMenu(window.mm_menu_Privacy,0,24,null,'navPrivacy');"><img src="Images/NavBar/Privacy_off.gif" border="0" name="navPrivacy"></a></td>
+	<td bgcolor="white"><img src="images/dot.gif" height="23" width="1"></td> 
 </tr></tbody></table>
 
+</td>
+			<td bgcolor="#003399"><img src="images/dot.gif" height="23" width="1"></td>
+		</tr>
+		<tr height="1"><td colspan="3" bgcolor="#FFFFFF"><img src="images/dot.gif" width="1" height="1"></td></tr>
+		<tr height="23"><td colspan="3" bgcolor="#C7C7C0"><img src="images/dot.gif" width="1" height="23"></td></tr>
 
-		</td>
-		<td valign="middle" align="right" bgcolor="#003399">
-
-				&nbsp;&nbsp;
-		</td>
-	</tr>
-
-<tr height="10" valign="center" bgcolor="#000000">
-	<td><img src="images\dot.gif" width="1" height="1"></td>
-
-	<td colspan="2" valign="center" nowrap="">
-	<font class="White8">&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;</font><font class="Red8">Privacy Policy</font></td>
-
-</tr>
 </tbody></table>
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 
@@ -481,104 +281,192 @@ A
 
 	<tbody><tr><td valign="top" align="left">
 		<table border="0" cellspacing="0" cellpadding="0" width="100%">
-			<tbody><tr valign="top">
-					<td width="50" bgcolor="#FFFFFF"><img src="images\dot.gif" width="50"></td>
-					<td width="550" bgcolor="#FFFFFF">
-	<br>
-	<img src="images\privacypolicy_title.gif" border="0">
-	<br><br>
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-		<tbody><tr valign="top">
-			<td>				
-				<font class="Black8">
-					<p>
-					<font class="Black10"><b>Manticore Technology's Products</b><br></font>
-					Manticore Technology has the utmost respect for the privacy of our customers as well as their site visitors. Virtual Traffic Master-Core (VTMc), Virtual Traffic Master (VTM), and Virtual Commerce Master (VCM) are statistical marketing analysis tools for the Internet that provide a service in a hosted model. This means that raw data is transmitted to our servers where it is processed and analyzed for our customers, with results being provided online. This service does nothing different than software that our customers could buy and install on their servers. They have simply chosen our service because of its convenience, powerful analysis capabilities, and ultimate cost savings to them. 
-					</p>
 
-					<p>
-					<font class="Black10"><b>Information Usage By Our Customers</b><br></font>
-					Our customers own the information collected using Manticore's products.  We store this information for them for the duration of our contractual agreement. We will not divulge to any third party, unless required by law, statistics or other data collected using any of our products. We cannot, however, make any warranty or guarantee to what our customers may do with this information. When a contract with one of our customers is terminated, we will keep data for a discretionary period and then destroy it permanently. 
-					<br><br>
-					If you have a concern about the policy of a particular company that uses Manticore's products, please refer to their website for their individual privacy policy. 
-					</p>
-
-					<p>
-					<font class="Black10"><b>Use of Personal Information</b><br></font>
-					Manticore's products do not attempt in any way to identify the personal identity of an individual. The service does not collect information such as names, addresses, phone numbers, or social security numbers. Our products analyze data to identify statistical trends. Personal identification of individuals would serve no purpose to discovering these trends. 
-					<br><br>
-					It should be noted however that our customers might collect and store personal information from you. Please refer to their individual websites for details on how they collect and use this information. 
-					</p>
-
-					<p>
-					<font class="Black10"><b>Use of Cookies</b><br></font>
-					Manticore's products use cookies only to identify the uniqueness, not the identity, of a visitor using our customer's site. The cookie that we place in your browser contains a unique identification number. By observing the pattern of many unique ID numbers, Manticore is able to generate reports that help our customers better understand their visitors. Again, the cookie provides no way of determining the personal identity of a visitor, only that a visitor is distinct. 
-					</p>
-
-					<p>
-					<font class="Black10"><b>IP Addresses and Domain Names</b><br></font>
-					IP Addresses and Domain Names are not useful for tracking individual users because of their tendency to be dynamic in nature. The primary use of IP Address and Domain Names is to provide an aggregated report of the domains from which significant web traffic is being driven.
-					</p>
-
-					<p>
-					<font class="Black10"><b>Data Security</b><br></font>
-					The data maintained by Manticore Technology is stored on a secured server maintained by trained, certified IT professionals. 
-					</p>
-
-					<p>
-					<font class="Black10"><b>Contact</b><br></font>
-					If you would like further information, or feel any aspect of this policy has been breached, please e-mail our privacy officer at <a href="mailto:privacy@ManticoreTechnology.com" class="Blue8">Privacy@ManticoreTechnology.com</a>
-					</p>
-					<br>
-				</font>
-			</td>
-		</tr>
-	</tbody></table>
-		</td>
-		<td width="200" bgcolor="#CCCCCC"><img src="images/dot.gif" width="200" height="15"></td>
-		<td bgcolor="#FFFFFF"><img src="images/dot.gif" width="1" height="1"></td>
+	<tbody><tr><td bgcolor="#ffffff"><img src="images/dot.gif" height="10" width="1"></td></tr>
+	<tr valign="top">
+		<td>
+			<!--BEGIN MAIN CONTENT-->
+			<table border="0" cellspacing="0" cellpadding="0">
+				<tbody><tr valign="top">
+				<td bgcolor="#ffffff"><img src="images/dot.gif" height="200" width="4"></td>
+				<td width="175">
+					<!--BEGIN SIDEBAR CONTENT-->
+					<table width="175" border="0" cellspacing="0" cellpadding="0">
+					<tbody><tr><td><!--BEGIN PRIVACY CONTACT INFO-->
+	
+<table align="center" width="175" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td colspan="5" bgcolor="#686868" height="1"><img src="images/dot.gif" height="1" width="1"></td></tr>
+	<tr>
+		<td bgcolor="#686868" width="1"><img src="images/dot.gif" height="8" width="1"></td>
+		<td bgcolor="#FFFFFF" width="4"><img src="images/dot.gif" height="8" width="4"></td>
+		<td bgcolor="#FFFFFF" class="Black10Bold">privacy info</td>
+		<td bgcolor="#FFFFFF" width="4"><img src="images/dot.gif" height="8" width="4"></td>
+		<td bgcolor="#686868" width="1"><img src="images/dot.gif" height="8" width="1"></td>
 	</tr>
-	<tr bgcolor="#003399">
-		<td colspan="4">
-		<table border="0" cellpadding="0" cellspacing="0" width="800" bgcolor="#003399">
-	<tbody><tr>
-		<td valign="center">
-			<form action="NewsletterSubscribe.asp" method="POST" name="NewsletterForm">
-				<font class="White8">
-				<b>Subscribe to our newsletter!<br>
-				E-mail:</b> <input size="8" type="text" name="Email" class="NewsletterTB">&nbsp;
-				<a href="javascript:document.NewsletterForm.submit();"><img src="images/go.gif" border="0" valign="center" align="center"></a>
-				</font>
-			</form>
-		</td>
-		<td><a href="DataCaptureTechnology.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('DataCaptureTechnology_button','','images/DataCaptureTechnology_button_f2.gif',1);"><img name="DataCaptureTechnology_button" src="images/DataCaptureTechnology_button.gif" width="175" height="45" border="0"></a></td>
-		<td><a href="ManticoreVsLogfiles.asp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('ManticoreVsLogfiles','','images/ManticoreVsLogfiles_f2.gif',1);"><img name="ManticoreVsLogfiles" src="images/ManticoreVsLogfiles.gif" width="175" height="45" border="0"></a></td>
-		<td><a href="javascript:vtmDownload('ManticoreBrochure.pdf');" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('DownloadManticorePDF','','images/DownloadManticorePDF_f2.gif',1);"><img name="DownloadManticorePDF" src="images/DownloadManticorePDF.gif" width="175" height="45" border="0"></a></td>
-		<td><img src="images/dot.gif" height="55"></td>
+	<tr><td colspan="5" bgcolor="#686868" height="1"><img src="images/dot.gif" height="1" width="1"></td></tr>
+	<tr><td colspan="5" bgcolor="#FFFFFF" height="3"><img src="images/dot.gif" height="3" width="1"></td></tr>
+	<tr><td colspan="5" bgcolor="#686868" height="1"><img src="images/dot.gif" height="1" width="1"></td></tr><tr>
+	<td bgcolor="#686868" width="1" height="12"><img src="images/dot.gif" height="12" width="1"></td>
+	<td bgcolor="#FFFFFF" width="4" height="12"><img src="images/dot.gif" height="12" width="4"></td>
+	<td bgcolor="#FFFFFF" width="165" height="1"><img src="images/dot.gif" height="1" width="1"></td>
+	<td bgcolor="#FFFFFF" width="4" height="12"><img src="images/dot.gif" height="12" width="4"></td>
+	<td bgcolor="#686868" width="1" height="12"><img src="images/dot.gif" height="12" width="1"></td>
+</tr>
+	<tr>
+		<td bgcolor="#686868" width="1"><img src="images/dot.gif" height="1" width="1"></td>
+		<td bgcolor="#FFFFFF" width="4"><img src="images/dot.gif" height="1" width="4"></td>
+		<td bgcolor="#FFFFFF" class="Gray8">512.305.0272<br><a href="mailto:privacy@manticoretechnology.com" class="Gray8">privacy@manticoretechnology.com</a></td>
+		<td bgcolor="#FFFFFF" width="4"><img src="images/dot.gif" height="1" width="4"></td>
+		<td bgcolor="#686868" width="1"><img src="images/dot.gif" height="1" width="1"></td>
 	</tr>
+<tr>
+	<td bgcolor="#686868" width="1" height="12"><img src="images/dot.gif" height="12" width="1"></td>
+	<td bgcolor="#FFFFFF" width="4" height="12"><img src="images/dot.gif" height="12" width="4"></td>
+	<td bgcolor="#FFFFFF" width="165" height="1"><img src="images/dot.gif" height="1" width="1"></td>
+	<td bgcolor="#FFFFFF" width="4" height="12"><img src="images/dot.gif" height="12" width="4"></td>
+	<td bgcolor="#686868" width="1" height="12"><img src="images/dot.gif" height="12" width="1"></td>
+</tr><tr><td colspan="5" bgcolor="#686868" height="1"><img src="images/dot.gif" height="1" width="1"></td></tr>
 </tbody></table>
 
-<script language="JavaScript">
-<!--
-MM_preloadImages('images/DataCaptureTechnology_button_f2.gif');
-MM_preloadImages('images/ManticoreVsLogfiles_f2.gif');
-MM_preloadImages('images/DownloadManticorePDF_f2.gif');
-//-->
-</script>
-		</td>
-	</tr>	
+<!--END PRIVACY CONTACT INFO--></td></tr>
+					<tr><td bgcolor="#ffffff"><img src="images/dot.gif" height="15" width="1"></td></tr>
+					<tr><td bgcolor="#ffffff"><img src="images/dot.gif" height="15" width="1"></td></tr>
+					<tr><td><!--BEGIN NEWS-->
+	
+<table align="center" width="175" bgcolor="#FFFFFF" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr><td colspan="5" bgcolor="#686868" height="1"><img src="images/dot.gif" height="1" width="1"></td></tr>
 	<tr>
-		<td colspan="2" width="600"><img src="images/dot.gif" width="600" height="15"></td>
-		<td width="200" bgcolor="#CCCCCC"><img src="images/dot.gif" width="200" height="15"></td>
-		<td bgcolor="#FFFFFF" width="100%"><img src="images/dot.gif" width="1" height="1"></td>
+		<td bgcolor="#686868" width="1"><img src="images/dot.gif" height="8" width="1"></td>
+		<td bgcolor="#FFFFFF" width="4"><img src="images/dot.gif" height="8" width="4"></td>
+		<td bgcolor="#FFFFFF" class="Black10Bold">news</td>
+		<td bgcolor="#FFFFFF" width="4"><img src="images/dot.gif" height="8" width="4"></td>
+		<td bgcolor="#686868" width="1"><img src="images/dot.gif" height="8" width="1"></td>
 	</tr>
+	<tr><td colspan="5" bgcolor="#686868" height="1"><img src="images/dot.gif" height="1" width="1"></td></tr>
+	<tr><td colspan="5" bgcolor="#FFFFFF" height="3"><img src="images/dot.gif" height="3" width="1"></td></tr>
+	<tr><td colspan="5" bgcolor="#686868" height="1"><img src="images/dot.gif" height="1" width="1"></td></tr><tr>
+	<td bgcolor="#686868" width="1" height="12"><img src="images/dot.gif" height="12" width="1"></td>
+	<td bgcolor="#FFFFFF" width="4" height="12"><img src="images/dot.gif" height="12" width="4"></td>
+	<td bgcolor="#FFFFFF" width="165" height="1"><img src="images/dot.gif" height="1" width="1"></td>
+	<td bgcolor="#FFFFFF" width="4" height="12"><img src="images/dot.gif" height="12" width="4"></td>
+	<td bgcolor="#686868" width="1" height="12"><img src="images/dot.gif" height="12" width="1"></td>
+</tr>
+	<tr>
+		<td bgcolor="#686868" width="1"><img src="images/dot.gif" height="1" width="1"></td>
+		<td bgcolor="#FFFFFF" width="4"><img src="images/dot.gif" height="1" width="4"></td>
+		<td bgcolor="#FFFFFF"><a href="PressRelease_081902_002.asp" class="Gray8">Manticore Launches Version 3.0 of its Hosted Web Analytic Tools Virtual Traffic Master and Virtual Commerce Master</a></td>
+		<td bgcolor="#FFFFFF" width="4"><img src="images/dot.gif" height="1" width="4"></td>
+		<td bgcolor="#686868" width="1"><img src="images/dot.gif" height="1" width="1"></td>
+	</tr>
+<tr>
+	<td bgcolor="#686868" width="1" height="12"><img src="images/dot.gif" height="12" width="1"></td>
+	<td bgcolor="#FFFFFF" width="4" height="12"><img src="images/dot.gif" height="12" width="4"></td>
+	<td bgcolor="#FFFFFF" width="165" height="1"><img src="images/dot.gif" height="1" width="1"></td>
+	<td bgcolor="#FFFFFF" width="4" height="12"><img src="images/dot.gif" height="12" width="4"></td>
+	<td bgcolor="#686868" width="1" height="12"><img src="images/dot.gif" height="12" width="1"></td>
+</tr>
+	<tr>
+		<td bgcolor="#686868" width="1"><img src="images/dot.gif" height="1" width="1"></td>
+		<td bgcolor="#FFFFFF" width="4"><img src="images/dot.gif" height="1" width="4"></td>
+		<td bgcolor="#FFFFFF"><a href="PressRelease_081902_001.asp" class="Gray8">Manticore introduces integrated web analytics and email marketing with Virtual Touchstone</a></td>
+		<td bgcolor="#FFFFFF" width="4"><img src="images/dot.gif" height="1" width="4"></td>
+		<td bgcolor="#686868" width="1"><img src="images/dot.gif" height="1" width="1"></td>
+	</tr>
+<tr>
+	<td bgcolor="#686868" width="1" height="12"><img src="images/dot.gif" height="12" width="1"></td>
+	<td bgcolor="#FFFFFF" width="4" height="12"><img src="images/dot.gif" height="12" width="4"></td>
+	<td bgcolor="#FFFFFF" width="165" height="1"><img src="images/dot.gif" height="1" width="1"></td>
+	<td bgcolor="#FFFFFF" width="4" height="12"><img src="images/dot.gif" height="12" width="4"></td>
+	<td bgcolor="#686868" width="1" height="12"><img src="images/dot.gif" height="12" width="1"></td>
+</tr><tr><td colspan="5" bgcolor="#686868" height="1"><img src="images/dot.gif" height="1" width="1"></td></tr>
+</tbody></table>
+
+<!--END NEWS--></td></tr>
+					</tbody></table>
+					<!--END SIDEBAR CONTENT-->
+				</td>
+				<td bgcolor="#ffffff" width="4"><img src="images/dot.gif" width="4"></td>
+				<td bgcolor="#686868" width="1"><img src="images/dot.gif" width="1"></td>
+				<td>
+					<!--BEGIN RIGHT PANE CONTAINER-->
+					<table border="0" cellspacing="0" cellpadding="0" width="560">
+						<!--BEGIN RIGHT PANE HEADER-->
+						<tbody><tr><td bgcolor="#ffffff" colspan="2"><img src="images/dot.gif" width="1" height="25"></td></tr>
+						<tr>
+							<td bgcolor="#ffffff" width="25"><img src="images/dot.gif" width="25" height="1"></td>
+							<td>
+								<table align="left" border="0" cellspacing="0" cellpadding="0" width="100%">
+									<tbody><tr><td align="left" class="Black18Bold">Privacy Policy</td></tr>
+								</tbody></table>
+							</td>
+						</tr>
+						<tr><td bgcolor="#ffffff" colspan="2"><img src="images/dot.gif" width="1" height="25"></td></tr>
+						<!--END RIGHT PANE HEADER-->
+						<tr><td bgcolor="#686868" colspan="2"><img src="images/dot.gif" width="1" height="1"></td></tr>
+						<tr>
+							<td bgcolor="#ffffff" width="25"><img src="images/dot.gif" width="25" height="1"></td>
+							<td>
+							<!--BEGIN RIGHT PANE CONTENT-->
+							<table align="left" border="0" cellspacing="0" cellpadding="3" width="100%">
+								<tbody><tr><td><img src="images/dot.gif" height="10" width="1"></td></tr>
+								<tr><td align="left" class="Black10Bold">Audience</td></tr>
+								<tr><td align="left" class="Gray8">The following information is intended for Manticore Technology clients and other visitors to our corporate web site.  This policy covers how Manticore Technology treats personal information that we collect and receive from our site only.  If you are looking for information regarding privacy and the software we produce, please see our information on consumer privacy by <a href="ConsumerPrivacy.asp" class="Blue8">clicking here</a>.</td></tr>
+								
+								<tr><td><img src="images/dot.gif" height="10" width="1"></td></tr>
+								<tr><td align="left" class="Black10Bold">Data Collection Practices</td></tr>
+								<tr><td align="left" class="Gray8">Manticore Technology is very concerned with making all of our site visitors comfortable with and aware of our data collection practices.  We respect an individual's right to privacy, and as such provide this statement to fully disclose our data collection practices.</td></tr>
+								<tr><td><img src="images/dot.gif" height="10" width="1"></td></tr>
+								<tr><td align="left" class="Gray8">For the Manticore Technology corporate site and for our online software services, we leverage our own products, Virtual Traffic Master, Virtual Commerce Master, and Virtual Touchstone for analytic purposes.  For specific information about consumer privacy and our software please click here.</td></tr>
+
+
+								<tr><td><img src="images/dot.gif" height="10" width="1"></td></tr>
+								<tr><td align="left" class="Black10Bold">What We Gather And How We Use It</td></tr>
+								<tr><td align="left" class="Gray8">For visitors to the Manticore Technology website who are not existing customers, we collect non-personally identifying information such as IP address, time of visit, click-sequence, and technical information about your browser.  Non-personally identifying Information that we collect about the browsing habits of our visitors is used to optimize the design of our website by understanding what content our customers are interested in.  We can then streamline the website to make it more user friendly for our visitors.</td></tr>
+								<tr><td><img src="images/dot.gif" height="10" width="1"></td></tr>
+								<tr><td align="left" class="Gray8">For current Manticore Technology customers, we collect personally identifying information as part of the Terms of Service for using any Manticore product.  This information includes such things as name, physical address, phone number, email address and other information for billing purposes.  Current customers can update this information by logging into their Manticore account and using the appropriate section of the account management area.  This information is used primarily for billing and contact purposes as it relates to the use of our products.  Manticore Technology may also send current customers email newsletters and announcements about new product releases or events.  Additionally, we have the ability to monitor the sessions of current Manticore customers by username so that we can gauge usage levels and reenact customer click streams for trouble shooting purposes.</td></tr>
+								<tr><td><img src="images/dot.gif" height="10" width="1"></td></tr>
+								<tr><td align="left" class="Gray8">For non-Manticore customers and Manticore customers alike, we regularly track the results of email campaigns we send by monitoring email metrics such as open, click-thru, and no response rates.  If you have volunteered your email address to us or we have acquired it via a third party, we may be able to identify your session on our website by your email address.  We use the results of our email monitoring to qualify prospective customers by identifying who is interested in what.  Visitors who read our email more frequently or visit our site often and view information about our products are much more likely to be contacted than those who don't.</td></tr>
+								<tr><td><img src="images/dot.gif" height="10" width="1"></td></tr>
+								<tr><td align="left" class="Gray8">Manticore Technology will NEVER sell any information that we have collected, personally identifying or otherwise, to a third party.  This information is deemed proprietary information of Manticore Technology and will only be used by our staff.</td></tr>
+
+								<tr><td><img src="images/dot.gif" height="10" width="1"></td></tr>
+								<tr><td align="left" class="Black10Bold">Use Of Cookies</td></tr>
+								<tr><td align="left" class="Gray8">In addition to cookies set by our web analytic tool, we will also set cookies for users of our software.  These cookies enable such features as the Remember Me option when logging in and additionally facilitate the general functionality of our online reporting tool.</td></tr>
+
+								<tr><td><img src="images/dot.gif" height="10" width="1"></td></tr>
+								<tr><td align="left" class="Black10Bold">Opt-out of Email</td></tr>
+								<tr><td align="left" class="Gray8">If you have received email from us and would like to opt-out of future mailings, please visit our unsubscribe page at <a href="unsubscribe.asp" class="Blue8">www.ManticoreTechnology.com/unsubscribe.asp</a>.  Your email address will be permanently removed from our email lists.</td></tr>
+
+								<tr><td><img src="images/dot.gif" height="10" width="1"></td></tr>
+								<tr><td align="left" class="Black10Bold">Contact</td></tr>
+								<tr><td align="left" class="Gray8">
+									If you would like further information, or feel any aspect of this policy has been breached, please e-mail our privacy officer at <a href="mailto:privacy@ManticoreTechnology.com" class="Blue8">privacy@ManticoreTechnology.com</a> or you may write to us at our corporate headquarters at:<br>
+									<br>
+									Privacy Officer<br>
+									Manticore Technology Corporation<br>
+									3925 West Braker Lane, Suite 330<br>
+									Austin, TX  78759<br>								
+								</td></tr>
+							</tbody></table>
+							<!--END RIGHT PANE CONTENT-->
+						</td></tr>
+					</tbody></table>
+					<!--END RIGHT PANE CONTAINER-->
+				</td></tr>
+			</tbody></table>
+			<!--END MAIN CONTENT-->
+		</td>
+	</tr>
+	<tr><td bgcolor="#ffffff"><img src="images/dot.gif" height="10" width="1"></td></tr>
+		<tr bgcolor="#003399"><td><img src="images/dot.gif" height="23" width="1"></td></tr>
 	</tbody></table>
 	</td></tr>
 </tbody></table>
-<p align="center" class="Black8">Copyright 2000-2001, Manticore Technology Corporation.  All Rights Reserved. <br>
+<p align="center" class="Black8">Copyright © 2000-2002, Manticore Technology Corporation.  All Rights Reserved. <br>
 <a href="legal/tos.asp" class="Blue8Underline">Terms Of Service</a> | 
 <a href="privacy.asp" class="Blue8Underline">Privacy Policy</a> |
-<a href="contact.asp" class="Blue8Underline">Contact</a></p>
+<a href="contact.asp" class="Blue8Underline">Contact Us</a></p>
+<br>
 
 <!--Begin Virtual Traffic Master Code-->
 <!--Copyright 2000-2001, Manticore Technology Corporation.  All rights reserved.--> 
@@ -591,7 +479,7 @@ agreement and will result in the immediate termination of your account.
 //<!--
 	var sTMTag="";
 	var sMTCEntryPageCampaignID="";
-	var sTMServerGroup="MANTICORETECHNOLOGY.COM";
+	var sTMServerGroup="WWW.MANTICORETECHNOLOGY.COM";
 	var sTMContentCategory="";
 	var TMIdentity="ID=8&UserID=5BA4BA99-3C2C-11D4-B8C8-00A0C95BAA77";
 //-->
