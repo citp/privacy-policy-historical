@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603191835id_/http%3A//www.michaels.com/online/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michaels.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216204006id_/http%3A//www.michaels.com/online/departments/help/privacy.htm) for the most accurate reproduction.*
 
-# Michaels.com Site Tour - Privacy Policy & The Legal Stuff
+# Welcome to Michaels.com
 
 **Privacy Statement for Michaels.com**
 
@@ -14,7 +14,7 @@ We may occasionally change our Privacy Policy. If we do, we will post the change
 
 **Privacy on Public Forums**
 
-This site makes chat rooms, forums, and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+This site makes chat rooms, forums, and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
 **Children's Privacy Statement**
 
@@ -30,7 +30,7 @@ Michaels will never knowingly collect any personal information about children un
 
 **Implementation of Policy**
 
-A user is never required to disclose any personal information to visit the Site. Registration is encouraged so that adults and children over the age of 12 can take full advantage of the Site. Personal information is never collected from users who are not registered. Furthermore, during registration, a user is asked to provide his/her age. If the age disclosed is under 13 years of age, registration is refused. Until registration has been completed, our system does not actually store any personal information. 
+A user is never required to disclose any personal information to visit the Site. Registration is encouraged so that adults and children over the age of 12 can take full advantage of the Site. Personal information is never collected from users who are not registered. Furthermore, during registration, a user is asked to provide his/her age. If the age disclosed is under 13 years of age, registration is refused. Until registration has been completed, our system does not actually store any personal information.
 
 Michaels cannot prevent a child under the age of 13 from sending e-mails or posting to the public areas of the Site. However, if Michaels obtains actual knowledge that an e-mail comes from a child under the age of 13, our customer service staff is trained to reply as follows: "Because we have actual knowledge that you may be a child under the age of 13, we are unable to correspond further with you, even with your parent’s consent. Please have your parent contact us directly. All personal information about you, including your e-mail address, is being deleted from our system." Upon providing this reply, all personal information about the author of the e-mail, including the e-mail address, is deleted from our system.
 
