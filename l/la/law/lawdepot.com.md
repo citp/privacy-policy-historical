@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603165511id_/http%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812075707id_/http%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
 
 # LawDepot Privacy Policy
 
