@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sealy.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201113736id_/http%3A//sealy.com/common/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sealy.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607142755id_/http%3A//sealy.com/common/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Welcome to Sealy
 
-We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. By visiting Sealy.com, you are accepting the practices described in this Privacy Policy.
+  |  We respect and are committed to protecting your privacy. This Privacy Policy lets you know how your personal information is processed and used. We promise that we will take steps to use your personal information only in ways that are compatible with this Privacy Policy. By visiting Sealy.com, you are accepting the practices described in this Privacy Policy.
 
   
 Here are the types of information we gather.
@@ -52,16 +52,15 @@ What Choices Do I Have?
 As discussed above, you can always choose not to provide information.
 
   
-If you choose to visit Sealy.com, your visit and any dispute over privacy is subject to this Policy and our [Terms of Use](https://web.archive.org/web/20011201113736id_/http%3A//sealy.com/common/termsOfUse.asp), including limitations on damages, arbitration of disputes, and application of the law of the state of North Carolina. If you have any concern about privacy at Sealy.com, please use our [email form](https://web.archive.org/web/20011201113736id_/http%3A//sealy.com/customerSupport/contactUs.asp) to send us a thorough description, and we will try to resolve it. Our business changes constantly. This Policy and the [Terms of Use](https://web.archive.org/web/20011201113736id_/http%3A//sealy.com/common/termsOfUse.asp) will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may email periodic reminders of our policies and terms, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+If you choose to visit Sealy.com, your visit and any dispute over privacy is subject to this Policy and our [Terms of Use](https://web.archive.org/web/20020607142755id_/http%3A//sealy.com/common/termsOfUse.asp), including limitations on damages, arbitration of disputes, and application of the law of the state of North Carolina. 
+
+This Policy and the [Terms of Use](https://web.archive.org/web/20020607142755id_/http%3A//sealy.com/common/termsOfUse.asp) will change also, and use of information that we gather now is subject to the Privacy Policy in effect at the time of use. We may email periodic reminders of our policies and terms, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
 
   
-[Terms of Use](https://web.archive.org/web/20011201113736id_/http%3A//sealy.com/common/termsOfUse.asp)
+[Terms of Use](https://web.archive.org/web/20020607142755id_/http%3A//sealy.com/common/termsOfUse.asp)
 
   
 You provide most such information when you participate in a contest or questionnaire, fill out a mattress-registration form, or communicate with customer support. As a result of those actions, you might supply us with such information as your name, address, email address, and phone number.
 
   
 Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet; computer and connection information such as browser type and version, operating system, and platform; the full Uniform Resource Locators (URL) clickstream to, through, and from our Web site, including date and time.
-
-  
-If you have any concern about privacy at Sealy.com, please use our [email form](https://web.archive.org/web/20011201113736id_/http%3A//sealy.com/customerSupport/contactUs.asp) to send us a thorough description, and we will try to resolve it. 
