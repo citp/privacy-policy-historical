@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogoshopper.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603012716id_/http%3A//www.gogoshopper.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogoshopper.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011124925id_/http%3A//www.gogoshopper.com/privacy.htm) for the most accurate reproduction.*
 
 # GoGoShopper.com Privacy Statement
 
