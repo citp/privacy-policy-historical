@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cbs2chicago.com privacy policy that was archived on 2000-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001117223700id_/http%3A//www.cbs2chicago.com/now/story/0%2C1597%2C53940-225%2C00.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbs2chicago.com privacy policy that was archived on 2001-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010404225902id_/http%3A//cbs2chicago.com/now/story/0%2C1597%2C53940-225%2C00.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>CBS.com--CBS.com Privacy Statement</title>
@@ -56,7 +56,7 @@ vlaunch = no_externals;
 
 <body bgcolor="#FFFFFF" text="#000000" link="#000099" alink="#CC0000" vlink="#660000" leftmargin="4" topmargin="4">
 
-<!-- Vignette StoryServer 4 Tue Nov 07 19:14:05 2000 -->
+<!-- Vignette StoryServer 4 Thu Mar 22 05:46:29 2001 -->
 <!-- BEGIN TOP BAR -->
 
 
@@ -68,7 +68,122 @@ if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
 	}
 // -->
 </script>
-<table cellspacing="0" cellpadding="0" border="0" bgcolor="#FFCC33" width="610">
+<script language="JavaScript">
+
+
+function generateOrd() {
+// returns time in milliseconds
+var now = new Date();
+	return now.getTime();
+}
+
+function getAdCode (p_Type) {
+var affiliateCode =  'wbbm';
+if (affiliateCode == 'cbs') {
+	affiliateCode = 'network';
+}
+
+switch (p_Type) {
+    
+	case 'network':
+		return 'network.now.com/' + affiliateCode + ';';
+
+	case 'affiliate':
+		return affiliateCode + '.now.com/' + affiliateCode + ';';
+
+	case 'cbs':
+		return 'network.now.com/network;';
+
+	case 'CBS':
+		return 'network.now.com/network;';
+
+	case 'split':
+		if (generateOrd() % 2 == 1) {
+			return getAdCode ('network');
+		} else {
+			return getAdCode ('affiliate');
+		}
+	default:
+		return getAdCode ('affiliate');
+	}
+}
+
+function getAdTag (p_Width, p_Height, p_Tile, p_AdType) {
+
+var adText;
+var adCode = getAdCode(p_AdType);
+var size = 'sz=' + p_Width + 'x' + p_Height + ';';
+var tile = 'tile=' + p_Tile + ';';
+var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
+
+// a href tag
+adText =			"<A HREF=\"http://ad.doubleclick.net/jump/"
+adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
+
+// image tag
+adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
+adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
+adText = adText	+	"align=\"top\" " + htmlSize + " border=0></A>"
+
+return adText;
+}
+
+function getEnhancedAd (p_Width, p_Height, p_Tile, p_AdType) {
+
+var adText;
+var adCode = getAdCode(p_AdType);
+var size = 'sz=' + p_Width + 'x' + p_Height + ';';
+var tile = 'tile=' + p_Tile + ';';
+var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
+
+// iframe tag
+adText =			"<NOLAYER><IFRAME src=\"http://ad.doubleclick.net/adi/" 
+adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
+adText = adText	+	htmlSize + " marginwidth=0 marginheight=0 "
+adText = adText	+	"hspace=0 vspace=0 frameborder=0 scrolling=no ALIGN=\"top\">"
+
+// a href tag
+adText = adText +	"<A HREF=\"http://ad.doubleclick.net/jump/"
+adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
+
+// image tag
+adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
+adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
+adText = adText	+	"align=\"top\" " + htmlSize + " border=0>"
+adText = adText	+	"</A><BR></IFRAME></NOLAYER>"
+
+// ilayer tag
+adText = adText	+	"<ILAYER id=topbanner visibility=hidden width=" + htmlSize + "></ILAYER>"
+
+return adText;
+}
+
+function getEnhancedLayer (p_Width, p_Height, p_Tile, p_AdType) {
+
+var adText;
+var adCode = getAdCode(p_AdType);
+var size = 'sz=' + p_Width + 'x' + p_Height + ';';
+var tile = 'tile=' + p_Tile + ';';
+var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
+
+// layer tag
+adText =			"<LAYER src=\"http://ad.doubleclick.net/adi/" 
+adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
+adText = adText	+	htmlSize + " visibility=hidden "
+adText = adText	+	"onload=\"moveToAbsolute((topbanner.pageX), (topbanner.pageY)); "
+adText = adText	+	"clip.width=" + p_Width + "; clip.height=" + p_Height
+adText = adText	+	"; visibility='show';\"></LAYER>"
+
+return adText;
+}
+
+// ** end of AD TAG procedures **********
+
+
+
+//-->
+
+</script><table cellspacing="0" cellpadding="0" border="0" bgcolor="#FFCC33" width="610">
 <tbody><tr>
   <td rowspan="3" width="120" valign="top" bgcolor="#FFCC33" nowrap=""><a href="/now/section/0,1636,100-225,00.shtml" target="_top"><img src="http://a1800.g.akamai.net/7/1800/121/958423046/newsimages.cbsig.net/common/images/logos/logo_WBBM_boom.gif" width="120" height="64" hspace="0" vspace="0" border="0" alt="HOME"></a><br>
   </td>
@@ -81,10 +196,14 @@ if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
 	</tbody></table>
   </td>
   <td rowspan="3" width="150" valign="top">
-  
-		<a href="http://ad.doubleclick.net/jump/network.now.com/wbbm;tile=1;sec=10340;sz=150x64;ord=243410611?" target="_top">
-		<img src="http://ad.doubleclick.net/ad/network.now.com/wbbm;tile=1;sec=10340;sz=150x64;ord=243410611?" align="top" width="150" height="64" border="0"></a><br>
-		 </td>
+   <script language="javascript">
+ var section = 'sec=' + 10340 +';';
+ var ordNumber = 'ord=' + generateOrd() + '?';
+
+var affiliate1 = 'WBBM';
+document.write(getAdTag(150,64,1,'split'));
+</script><a href="http://ad.doubleclick.net/jump/network.now.com/wbbm;tile=1;sec=10340;sz=150x64;ord=1580379310507?"><img src="http://ad.doubleclick.net/ad/network.now.com/wbbm;tile=1;sec=10340;sz=150x64;ord=1580379310507?" align="top" width="150" height="64" border="0"></a>
+  </td>
 </tr>
 <tr>
   <form name="formy" method="post" action="/topnav/go/1,1715,,00.html"></form>
@@ -128,14 +247,20 @@ if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
 
 
 	
-<option value="/now/section/0,1636,200-225,00.shtml">CBS NEWS</option>
+<option value="/now/section/0,1636,9006-225,00.shtml">CBS 2 NEWS</option>
+	
+	
+<option value="/now/section/0,1636,200-225,00.shtml">NATIONAL NEWS</option>
 	
 	
 		
 <option vaule="http://www.cbs.com">CBS SHOWS</option>
 		 
 	
-<option value="/now/section/0,1636,9001-225,00.shtml">MARYANN&amp;JAY</option>
+<option value="/now/section/0,1636,10250-225,00.shtml">DR. BREEN</option>
+	
+	
+<option value="/now/section/0,1636,9005-225,00.shtml">2 FOR LIFE</option>
 	
 	
 <option value="/now/section/0,1636,300-225,00.shtml">WEATHER</option>
@@ -144,37 +269,22 @@ if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
 <option value="/now/section/0,1636,400-225,00.shtml">SPORTS</option>
 	
 	
-<option value="/now/section/0,1636,10250-225,00.shtml">DR. BREEN</option>
-	
-	
-<option value="/now/section/0,1636,10000-225,00.shtml">RECIPES</option>
-	
-	
-<option value="/now/section/0,1636,600-225,00.shtml">LOCAL GUIDE</option>
-	
-	
-<option value="/now/section/0,1636,203-225,00.shtml">MONEY</option>
-	
-	
-<option value="/now/section/0,1636,204-225,00.shtml">HEALTH</option>
+<option value="/now/section/0,1636,700-225,00.shtml">ON AIR</option>
 	
 	
 		
-<option vaule="http://cbs.nikolai.com/default.htm">CBS KIDSHOW</option>
+<option vaule="http://cbs.marketwatch.com">MONEY</option>
 		 
+	
+<option value="/now/section/0,1636,204-225,00.shtml">HEALTH</option>
+	
 	
 <option value="/now/section/0,1636,500-225,00.shtml">LIFE</option>
 	
 	
 		
-<option vaule="http://shopping.hollywood.com/shopping/default.cfm?store=c-cbsmain/English">SHOPPING</option>
+<option vaule="http://www.cbs.com/cbsstore/">SHOPPING</option>
 		 
-	
-<option value="/now/section/0,1636,700-225,00.shtml">ON AIR</option>
-	
-	
-<option value="/now/section/0,1636,9002-225,00.shtml">COOL WEBS</option>
-	
 	
 <option value="/now/section/0,1636,10260-225,00.shtml">STAFF/INFO</option>
 	
@@ -219,7 +329,7 @@ if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
 </tbody></table><table width="610" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
     <td width="108" valign="top" nowrap="">
-<!-- Vignette StoryServer 4 Tue Nov 07 19:14:06 2000 -->
+<!-- Vignette StoryServer 4 Thu Mar 22 05:46:30 2001 -->
  <table width="108" cellspacing="0" cellpadding="0" border="0" bgcolor="#FFCC33">
 				<tbody><tr>
 					<td colspan="3">
@@ -306,35 +416,29 @@ if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
 					<tr>
 				<td colspan="3" class="bgon" bgcolor="#003366">
 				<!-- close open_level 1 -->
-			 <div class="dl1off"><a href="/now/section/0,1636,200-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;CBS NEWS</font></a></div>
+			 <div class="dl1off"><a href="/now/section/0,1636,9006-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;CBS 2 NEWS</font></a></div>
+	 
+	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,200-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;NATIONAL NEWS</font></a></div>
 	 
 	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://www.cbs.com"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;CBS SHOWS</font></a></div>
 	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,9001-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;MARYANN&amp;JAY</font></a></div>
+	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,10250-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;DR. BREEN</font></a></div>
+	 
+	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,9005-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;2 FOR LIFE</font></a></div>
 	 
 	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,300-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;WEATHER</font></a></div>
 	 
 	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,400-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;SPORTS</font></a></div>
 	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,10250-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;DR. BREEN</font></a></div>
+	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,700-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;ON AIR</font></a></div>
 	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,10000-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;RECIPES</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,600-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;LOCAL GUIDE</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,203-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;MONEY</font></a></div>
+	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://cbs.marketwatch.com"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;MONEY</font></a></div>
 	 
 	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,204-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;HEALTH</font></a></div>
 	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://cbs.nikolai.com/default.htm"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;CBS KIDSHOW</font></a></div>
-	 
 	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,500-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;LIFE</font></a></div>
 	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://shopping.hollywood.com/shopping/default.cfm?store=c-cbsmain/English"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;SHOPPING</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,700-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;ON AIR</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,9002-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;COOL WEBS</font></a></div>
+	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://www.cbs.com/cbsstore/"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;SHOPPING</font></a></div>
 	 
 	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,10260-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;STAFF/INFO</font></a></div>
 	 
@@ -346,8 +450,8 @@ if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
 
 <br><br><center>
 
-			<a href="http://ad.doubleclick.net/jump/network.now.com/wbbm;tile=1;sec=10340;sz=100x54;ord=243410612?" target="_blank">
-			<img src="http://ad.doubleclick.net/ad/network.now.com/wbbm;tile=1;sec=10340;sz=100x54;ord=243410612?" align="top" width="100" height="54" border="0"></a>
+			<a href="http://ad.doubleclick.net/jump/network.now.com/wbbm;tile=1;sec=10340;sz=100x54;ord=246314498?" target="_blank">
+			<img src="http://ad.doubleclick.net/ad/network.now.com/wbbm;tile=1;sec=10340;sz=100x54;ord=246314498?" align="top" width="100" height="54" border="0"></a>
 		</center> </td>
 	<td width="502" valign="top" nowrap="">
 
@@ -370,7 +474,7 @@ if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
     	<td nowrap="" height="6"></td>
 	</tr>
 	</tbody></table>
-<!-- Vignette StoryServer 4 Tue Nov 07 19:14:09 2000 -->
+<!-- Vignette StoryServer 4 Thu Mar 22 05:46:33 2001 -->
  <table width="502" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
         <td rowspan="2" width="6" nowrap=""> </td>
@@ -622,5 +726,4 @@ if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
 
 <layer src="http://ad.doubleclick.net/adl/wbbm.now.com/wbbm;tile=1;sec=10340;sz=468x60;ord=242662928?" width="468" height="60" visibility="hidden" onload="moveToAbsolute((slot1.pageX), (slot1.pageY)); clip.width=468; clip.height=60; visibility='show';"></layer>
 		
-
 </body></html>
