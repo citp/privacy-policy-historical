@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dignews.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607182811id_/http%3A//www.dignews.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dignews.com privacy policy that was archived on 2004-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041013152112id_/http%3A//www.dignews.com/privacypolicy.php) for the most accurate reproduction.*
 
 # .: Digital Entertainment News :.
 
