@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanforum.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201170145id_/http%3A//www.e4fans.com/fanforum/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanforum.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602134323id_/http%3A//www.e4fans.com/fanforum/privacy.shtml) for the most accurate reproduction.*
 
 # Fan Forum: Privacy Policy
 
@@ -14,4 +14,4 @@ E4Fans, as well as most sites on the Internet, use "cookies" to enhance your exp
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
 
-If you have more questions about E4Fans' dedication to consumer privacy, please email [webmaster@fanforum.com](https://web.archive.org/web/20011201170145id_/http%3A//www.e4fans.com/fanforum/webmaster@fanforum.com). 
+If you have more questions about E4Fans' dedication to consumer privacy, please email [webmaster@fanforum.com](https://web.archive.org/web/20020602134323id_/http%3A//www.e4fans.com/fanforum/webmaster@fanforum.com). 
