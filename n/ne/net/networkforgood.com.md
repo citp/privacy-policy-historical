@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602180657id_/http%3A//www.networkforgood.org/help/privacy_full.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkforgood.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203043158id_/http%3A//www.networkforgood.org/help/privacy_full.html) for the most accurate reproduction.*
 
 # Network for Good :: Privacy and Security
 
