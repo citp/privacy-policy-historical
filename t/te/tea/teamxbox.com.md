@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teamxbox.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201213546id_/http%3A//teamxbox.com/article.php%3Fid%3D70%26t%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamxbox.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205072454id_/http%3A//teamxbox.com/article.php%3Fid%3D70%26t%3Dprivacy) for the most accurate reproduction.*
 
-# Team Xbox | Insider's Choice for Xbox Information
+# Team Xbox | Privacy Policy
 
 Privacy Policy
 
@@ -28,4 +28,6 @@ In addition, our website tracks information about the visits to our website. For
 
 TeamXbox is not responsible for the privacy practices or policies of any affiliates or 3rd party organizations displayed within our website.
 
-   [](https://web.archive.org/web/20011201213546id_/http%3A//teamxbox.com/article.php?id=70&t=privacy)
+   [](https://web.archive.org/web/20020205072454id_/http%3A//teamxbox.com/article.php?id=70&t=privacy)
+
+[  discuss in the forums](http://forums.teamxbox.com/)  |  [  printable version](https://web.archive.org/web/20020205072454id_/http%3A//teamxbox.com/printable.php?id=70)  |    send to a friend
