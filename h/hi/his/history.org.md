@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the history.org privacy policy that was archived on 2003-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031213085738id_/http%3A//www.history.org/foundation/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the history.org privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605052449id_/http%3A//www.history.org/foundation/privacy.cfm) for the most accurate reproduction.*
 
 # Colonial Williamsburg:Privacy Policy
 
