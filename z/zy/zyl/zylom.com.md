@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zylom.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201103830id_/http%3A//www.zylom.com/en/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zylom.com privacy policy that was archived on 2003-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030422011623id_/http%3A//www.zylom.com/en/privacypolicy.php) for the most accurate reproduction.*
 
 # Zylom - privacy policy
 
