@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufcu.org privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217214743id_/http%3A//www.ufcu.org/files/pdfs/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufcu.org privacy policy that was archived on 2004-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040426105819id_/http%3A//www.ufcu.org/files/pdfs/privacy_policy.pdf) for the most accurate reproduction.*
 
 # It’s a Matterof Privacy
 
