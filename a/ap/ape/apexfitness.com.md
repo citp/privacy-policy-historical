@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexfitness.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622224810id_/http%3A//www.apexfitness.com/html/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexfitness.com privacy policy that was archived on 2004-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041026025027id_/http%3A//www.apexfitness.com/html/company/privacy) for the most accurate reproduction.*
 
 # Welcome to Apex Fitness Group
 
