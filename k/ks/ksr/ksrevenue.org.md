@@ -1,32 +1,33 @@
-> *The following text is extracted and transformed from the ksrevenue.org privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksrevenue.org privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802120716id_/http%3A//www.ksrevenue.org/privacy.html) for the most accurate reproduction.*
 
 # KDOR Privacy Statement
 
 |  |  |  |  |  |  |  |  |  |   
 ---|---|---|---|---|---|---|---|---|---  
-[](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/taxpage.html) |  |  |  |  |  |  |  |   
+[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/taxpage.html) |  |  |  |  |  |  |  |   
 |  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/pilrd.html) |  |  |   
+[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/pilrd.html) |  |  |   
 |  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/dmv/) |  |  |  |  |  |   
+[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/dmv/) |  |  |  |  |  |   
 |  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/ecommerce.html) |  |  |  |   
+[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/ecommerce.html) |  |  |  |   
 |  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/faq.html) |  |  |  |  |  |  |  |  |   
+[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/faq.html) |  |  |  |  |  |  |  |  |   
 |  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/pvd/) |   
+[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/pvd/) |   
 |  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/abc/)  
+[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/abc/)  
 |  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/search.html) |  |  |  |  |  |  |   
+[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/search.html) |  |  |  |  |  |  |   
 |  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/comment-form.html) |  |  |  |  |   
+[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/comment-form.html) |  |  |  |  |   
 |  |  |  |  |  |  |  |  |   
-[](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/taxresource.html) |  |  |  |  |  |  |  |  |   
+[](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/taxresource.html) |  |  |  |  |  |  |  |  |   
 |  |  |  |  |  |  |  |  |   
 []() |  |  |  |  |   
 |  |  |  |  |  |  |  |   
-|  Information Collected and Uses Thereof: 
+|   
+Information Collected and Uses Thereof: 
 
 Upon visiting the Kansas Department of Revenue's web-site, the following information is collected: 
 
@@ -43,5 +44,5 @@ If during your visit to the Kansas Department of Revenue's web site you send an 
 
 The Department of Revenue collects no personal information such as name, address, and phone number unless you voluntarily choose to supply that information using an on-line service or including it in an e-mail.
 
-[Taxes](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/taxpage.html) / [E-Commerce](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/ecommerce.html) / [Policy Library](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/pilrd.html) / [Vehicles](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/dmv/) / [What's New](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/new.html) / [FAQ's](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/faq.html) / [Search](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/search.html)   
-[Property Valuation](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/pvd/main.html) / [Alcoholic Beverage Control](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/abc/) / [Contact Us](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/comment-form.html) / [Links](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/taxresource.html) / [Home ](https://web.archive.org/web/20011221015858id_/http%3A//www.ksrevenue.org/main.html)
+[Taxes](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/taxpage.html) / [E-Commerce](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/ecommerce.html) / [Policy Library](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/pilrd.html) / [Vehicles](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/dmv/) / [What's New](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/new.html) / [FAQ's](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/faq.html) / [Search](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/search.html) /   
+[Property Valuation](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/pvd/main.html) / [Alcoholic Beverage Control](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/abc/) / [Contact Us](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/comment-form.html) / [Links](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/taxresource.html) / [Home ](https://web.archive.org/web/20020607200738id_/http%3A//www.ksrevenue.org/main.html)
