@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmacmortgage.com privacy policy that was archived on 2000-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000304033848id_/http%3A//www.gmacmortgage.com/100000/G100000.asp%3Fpage%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmacmortgage.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207062300id_/http%3A//www.gmacmortgage.com/companyInfo/default.asp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Company Information
 
