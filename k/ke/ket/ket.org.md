@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the ket.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603175243id_/http%3A//www.ket.org/agency/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ket.org privacy policy that was archived on 2002-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021105165223id_/http%3A//www.ket.org/agency/privacy) for the most accurate reproduction.*
 
 # KET - Privacy and User Agreement Policy
 
 KET respects your privacy! We pledge to make our web site an accessible, safe environment in which you choose how much information about yourself you wish to share, and to take all steps necessary to ensure the security and integrity of that information. **Gathering and Use of Information**
 
-  1. We do not collect any personally identifiable information from you other than what you supply voluntarily. 
+  1. We do not collect any personally identifiable information from you other than what you supply voluntarily.
   2. Some projects or services may require registration or ask you to submit some personally identifiable information, such as name, address, e-mail address, or phone number. Examples of such activities include the following: 
-    * registering for contests or drawings 
-    * subscribing to electronic newsletters 
-    * making or renewing your contribution to KET 
-    * submitting items to forums or calendars of events 
-In those cases, we will ask only for the information necessary; tell you how that information will be used; and, whenever possible, provide an alternate way of participating that preserves your online anonymity if you so choose. 
-  3. We do not sell or trade personally identifiable information about our users. The only outside parties with whom this information is shared are those hired by KET to complete a transaction in which you have chosen to participate, such as fulfilling your request for a thank-you premium. 
-  4. KET may occasionally use some personally identifiable information about you for our own internal promotion, marketing, and fund-raising purposes. You may, for instance, be invited to subscribe to a newsletter related to your already expressed interests or reminded that a contribution is due for renewal. Your participation is voluntary, and any choice you make to “opt out” of a service or subscription will be honored immediately. 
+    * registering for contests or drawings
+    * subscribing to electronic newsletters
+    * making or renewing your contribution to KET
+    * submitting items to forums or calendars of events
+In those cases, we will ask only for the information necessary; tell you how that information will be used; and, whenever possible, provide an alternate way of participating that preserves your online anonymity if you so choose.
+  3. We do not sell or trade personally identifiable information about our users. The only outside parties with whom this information is shared are those hired by KET to complete a transaction in which you have chosen to participate, such as fulfilling your request for a thank-you premium.
+  4. KET may occasionally use some personally identifiable information about you for our own internal promotion, marketing, and fund-raising purposes. You may, for instance, be invited to subscribe to a newsletter related to your already expressed interests or reminded that a contribution is due for renewal. Your participation is voluntary, and any choice you make to “opt out” of a service or subscription will be honored immediately.
 
 
 
