@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitpipe.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602142716id_/http%3A//bitpipe.com/about/privacy_policy_bp.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitpipe.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004125244id_/http%3A//www.bitpipe.com/about/privacy_policy_bp.jsp) for the most accurate reproduction.*
 
 # Bitpipe: Privacy Policy
 
