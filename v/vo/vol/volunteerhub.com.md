@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604033639id_/http%3A//www.volunteerhub.com/privacy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volunteerhub.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202075825id_/http%3A//www.volunteerhub.com/privacy.stm) for the most accurate reproduction.*
 
 # VolunteerHub.com Privacy Policy
 
@@ -16,7 +16,7 @@ This web site has agreed to notify you of:
   6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under VolunteerHub.com control
   7. How you can correct any inaccuracies in the information.
 
-If you feel that this company is not abiding by its posted privacy policy, you should first [contact us.](https://web.archive.org/web/20020604033639id_/http%3A//www.volunteerhub.com/contact.stm)
+If you feel that this company is not abiding by its posted privacy policy, you should first [contact us.](https://web.archive.org/web/20021202075825id_/http%3A//www.volunteerhub.com/contact.stm)
 
 **Information Collection and Use**
 
@@ -42,16 +42,16 @@ This web site contains links to other sites. Please be aware that VolunteerHub.c
 
 This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
-If you have any questions about the security at our website, you can [contact us](https://web.archive.org/web/20020604033639id_/http%3A//www.volunteerhub.com/contact.stm) any time.
+If you have any questions about the security at our website, you can [contact us](https://web.archive.org/web/20021202075825id_/http%3A//www.volunteerhub.com/contact.stm) any time.
 
 **Correction/Updating Personal Information**
 
-If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by [contacting us](https://web.archive.org/web/20020604033639id_/http%3A//www.volunteerhub.com/contact.stm). 
+If a user’s personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user’s personal data provided to us. This can usually be done at the member information page or by [contacting us](https://web.archive.org/web/20021202075825id_/http%3A//www.volunteerhub.com/contact.stm). 
 
 **Notification of Changes**
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
-If you have problems with this page, please [notify us](https://web.archive.org/web/20020604033639id_/http%3A//www.volunteerhub.com/contact.stm).  
-Copyright ©<%= Year(Date) %> [VolunteerHub.com](https://web.archive.org/web/20020604033639id_/http%3A//www.volunteerhub.com/default.asp). All Rights Reserved.  
-[Privacy Policy](https://web.archive.org/web/20020604033639id_/http%3A//www.volunteerhub.com/privacy.stm)
+If you have problems with this page, please [notify us](https://web.archive.org/web/20021202075825id_/http%3A//www.volunteerhub.com/contact.stm).  
+Copyright ©<%= Year(Date) %> [VolunteerHub.com](https://web.archive.org/web/20021202075825id_/http%3A//www.volunteerhub.com/default.asp). All Rights Reserved.  
+[Privacy Policy](https://web.archive.org/web/20021202075825id_/http%3A//www.volunteerhub.com/privacy.stm)
