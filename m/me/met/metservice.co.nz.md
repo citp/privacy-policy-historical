@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the metservice.co.nz privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805113651id_/http%3A//www.metservice.co.nz/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metservice.co.nz privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404194809id_/http%3A//www.metservice.co.nz/default/index.php%3Falias%3Dprivacy-statement) for the most accurate reproduction.*
 
-# MetService Privacy Policy
-
-[back to corporate index](https://web.archive.org/web/20040805113651id_/http%3A//www.metservice.co.nz/corporate/index.asp)
-
-Privacy Policy
+# MetService:
 
 MetService is an agency for the purposes of the Privacy Act 1993 ("the Act"). We understand the need to safeguard your personal information and respect your rights under the Act.
 
@@ -12,9 +8,9 @@ From time to time when you visit www.metservice.co.nz (the "Site") we collect, r
 
   
 **Who are "We"?  
-**In this Privacy Policy, all references to "we", "us", and "our" refer to MetService. 
+** In this Privacy Policy, all references to "we", "us", and "our" refer to MetService. 
 
-You can contact us via our [web contact form here](https://web.archive.org/web/20040805113651id_/http%3A//www.metservice.co.nz/contacts/contact_form.asp).
+You can contact us via our [web contact form here](https://web.archive.org/web/20050404194809id_/http%3A//www.metservice.co.nz/default/index.php?alias=contacts).
 
 Our postal address is:  
 Meteorological Service of New Zealand Limited  
@@ -26,7 +22,7 @@ New Zealand
 
   
 **Information Collected  
-**When you visit the Site, our server logs information which is provided by your browser. This information is:
+** When you visit the Site, our server logs information which is provided by your browser. This information is:
 
   * The type of browser you used.
   * The date and time of your visit.
@@ -41,34 +37,37 @@ New Zealand
 
   
 **How We Use Your Information  
-**We do not sell, publish or give away your information. We will only use the information that you provide about yourself for statistical analysis and systems administration purposes. We may provide your information to independent auditors for the limited purpose of verifying site usage statistics. In certain circumstances, we may be obliged to disclose information to law enforcement or other government officials: for example, in connection with an investigation of fraud or any other activity that is illegal, or that may expose us to legal liability.
+** We do not sell, publish or give away your information. We will only use the information that you provide about yourself for statistical analysis and systems administration purposes. We may provide your information to independent auditors for the limited purpose of verifying site usage statistics. In certain circumstances, we may be obliged to disclose information to law enforcement or other government officials: for example, in connection with an investigation of fraud or any other activity that is illegal, or that may expose us to legal liability.
 
   
 **Additional Terms  
-**From time to time we may offer services on the Site for which we require you to provide additional information. There are additional privacy terms that apply to those specific services, as posted on the relevant page of the Site, that you must accept if you wish to make use of those particular services.
+** From time to time we may offer services on the Site for which we require you to provide additional information. There are additional privacy terms that apply to those specific services, as posted on the relevant page of the Site, that you must accept if you wish to make use of those particular services.
 
   
 **Your Right to Access and Correct Your Information  
-**We make every effort to ensure that your personal details are up to date and accurate. You may at any time check the information we hold about you by [getting in contact with us](https://web.archive.org/web/20040805113651id_/http%3A//www.metservice.co.nz/contacts/contact_form.asp).
+** We make every effort to ensure that your personal details are up to date and accurate. You may at any time check the information we hold about you by [getting in contact with us](https://web.archive.org/web/20050404194809id_/http%3A//www.metservice.co.nz/default/index.php?static=contactmetservice).
 
   
 **E-mail Addresses  
-**We will only record your e-mail address if you send us an e-mail message or subscribe to an e-mail list. Your e-mail address will only be used for the purpose for which you provide it, and will not be added to a mailing list except on your request. We will not disclose your e-mail address without your consent.
+** We will only record your e-mail address if you send us an e-mail message or subscribe to an e-mail list. Your e-mail address will only be used for the purpose for which you provide it, and will not be added to a mailing list except on your request. We will not disclose your e-mail address without your consent.
 
   
 **Subscription and Feedback Forms  
-**Certain pages on the Site enable you to complete an online form to subscribe to a particular service or to provide us with feedback. We ask you to provide only sufficient personal information for that purpose. We record this information only for follow up and statistical analysis and only our authorised employees have access to this information.
+** Certain pages on the Site enable you to complete an online form to subscribe to a particular service or to provide us with feedback. We ask you to provide only sufficient personal information for that purpose. We record this information only for follow up and statistical analysis and only our authorised employees have access to this information.
 
   
 **Cookies  
-**"Cookies" are pieces of user-specific information generated by a web server and stored in the user's computer, ready for future access. Cookies are collected on this site by a third-party, [RedSheriff](http://nz.redsheriff.com/), for use in analysing web traffic and trends on our site. RedSheriff's privacy policy regarding the information they collect can be found [here](http://nz.redsheriff.com/6.0.nz.htm).
+** "Cookies" are pieces of user-specific information generated by a web server and stored in the user's computer, ready for future access. Cookies are collected on this site by a third-party, Neilsen NetRatings, for use in analysing web traffic and trends on our site. Neilsen NetRatings' privacy policy regarding the information they collect can be found [here](http://www.nielsen-netratings.com/corp.jsp?section=leg_prs).
 
   
 **Searches  
-**Search terms that you may enter when using the Search engine on the Site are collected, but are not associated with any other information that we collect. We analyse the way the Site is searched to improve the Site for users.
+** Search terms that you may enter when using the Search engine on the Site are collected, but are not associated with any other information that we collect. We analyse the way the Site is searched to improve the Site for users.
 
   
 **Modification  
-**We may add to, remove or change the provisions of this Privacy Policy from time to time. All additions and changes will be notified to you by being posted on this page. It is your responsibility as a user to refer to these additions and changes.
+** We may add to, remove or change the provisions of this Privacy Policy from time to time. All additions and changes will be notified to you by being posted on this page. It is your responsibility as a user to refer to these additions and changes.
 
-This document last updated: November 26, 2003
+This document last updated: June 19, 2004
+
+  
+
