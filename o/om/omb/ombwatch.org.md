@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ombwatch.org privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216214355id_/http%3A//www.ombwatch.org/article/articleview/490) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ombwatch.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403121835id_/http%3A//www.ombwatch.org/article/articleview/490) for the most accurate reproduction.*
 
 # OMB Watch - Privacy Statement
 
