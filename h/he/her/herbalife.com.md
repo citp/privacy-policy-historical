@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herbalife.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204183432id_/http%3A//www.herbalife.com/hl/templates/templatepreportal/herbalife/util/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herbalife.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209005435id_/http%3A//www.herbalife.com/hl/templates/templatepreportal/herbalife/util/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
