@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolexpert.com privacy policy that was archived on 2000-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000529042717id_/http%3A//www.stcommunications.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolexpert.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212125800id_/http%3A//www.stcommunications.ca/company/privacy.asp) for the most accurate reproduction.*
 
 # ST Communications - Building Internet Solutions
 
