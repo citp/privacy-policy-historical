@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getaroom.com privacy policy that was archived on 2002-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020407181326id_/http%3A//www.getaroom.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getaroom.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622121430id_/http%3A//www.getaroom.com/privacy.htm) for the most accurate reproduction.*
 
 # NoMoreHotels Homestays vacation rentals short term rentals timeshares condos apartments villas bungalows homes
 
