@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hockeytv.com privacy policy that was archived on 2001-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010626160357id_/http%3A//privacy.yahoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeytv.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217230143id_/http%3A//privacy.yahoo.com/privacy) for the most accurate reproduction.*
 
 # Yahoo! Privacy
 
@@ -14,16 +14,16 @@
 **Special Topics**  
 · | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
 · | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [Childrens' Privacy Policy](https://web.archive.org/privacy/us/kids/details.html)  
-[All special topics...](https://web.archive.org/privacy/us/all.html)  
+· | [more...](https://web.archive.org/privacy/us/all.html)  
 **Privacy Links**  
 · | [Full Coverage: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
 · | [Yahoo! Category](http://dir.yahoo.com/Computers_and_Internet/Internet/Policy/Privacy/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
+· | [Privacy Commissioner of Canada](http://www.privcom.gc.ca/)  
+· | [Federal Trade Commission](http://www.ftc.com/)  
   
 * * *  
   
-  |  [](https://www.truste.org/validate/361) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy. Also, please read our [Children's Privacy Policy](http://privacy.yahoo.com/privacy/us/kids/details.html) to learn more about how we treat personally identifiable information collected from children. 
+  |  [](https://www.truste.org/validate/361) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy. Also, please read our [Children's Privacy Policy](http://privacy.yahoo.com/privacy/us/kids/details.html) to learn more about how we treat personally identifiable information collected from children and [Privacy Information](http://privacy.yahoo.com/privacy/us/fininfo/details.html) to learn how we treat such information collected in connection with Yahoo! financial products and services.
 
 **NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) for important information about safe surfing from the Federal Trade Commission.**
 
@@ -31,7 +31,7 @@
 
 
   * This Privacy Policy covers Yahoo!'s treatment of personally identifiable information that Yahoo! collects when you are on the Yahoo! site, and when you use Yahoo!'s services. This policy also covers Yahoo!'s treatment of any personally identifiable information that Yahoo!'s business partners share with Yahoo! or that Yahoo! may collect on a partner's site. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, this policy does not apply to [Yahoo! NetRoadshow](http://www.netroadshow.com/), which has its own privacy policy. 
+  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, this policy does not apply to [Yahoo! NetRoadshow](http://www.netroadshow.com/), which has its own privacy policy, or to Yahoo! financial products and services, which are covered by [Privacy Information](http://privacy.yahoo.com/privacy/us/fininfo/details.html).
 
 **Information Collection and Use**  
 
