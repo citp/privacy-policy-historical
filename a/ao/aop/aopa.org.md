@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203010300id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aopa.org privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606223259id_/http%3A//www.aopa.org/privacy_policy.html) for the most accurate reproduction.*
 
 # AOPA Online - Privacy Policy Statement
 
@@ -43,7 +43,3 @@ Top
 _Posted on Tuesday, December 21, 1999 11:42:05 AM_
 
 * * *
-
-©1995-2000 Aircraft Owners and Pilots Association.  
-[Our privacy policy](https://web.archive.org/privacy_policy.html)  
-[Contact AOPA](https://web.archive.org/inforequest.html)
