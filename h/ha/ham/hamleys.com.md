@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hamleys.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611041218id_/http%3A//www.hamleys.com/web/crumb/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamleys.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204223700id_/http%3A//www.hamleys.com/web/crumb/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -20,7 +20,7 @@ We will not disclose your personal information to third parties except as outlin
 
 ## "Cookies"
 
-Hamleys.com uses cookies to store information essential for your user experience while browsing the Hamleys website. Hamleys does not use persistent cookies.
+Hamleys.com uses cookies to store information essential for your user experience while browsing the Hamleys website.
 
 ## Links to other Websites
 
