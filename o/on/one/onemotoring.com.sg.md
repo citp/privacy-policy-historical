@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onemotoring.com.sg privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604164406id_/http%3A//onemotoring.com.sg/publish/onemotoring/en/bottomwebwide/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemotoring.com.sg privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208010755id_/http%3A//onemotoring.com.sg/publish/onemotoring/en/bottomwebwide/privacy.html) for the most accurate reproduction.*
 
 # One Motoring - Privacy Statement
 
-**One.Motoring Portal Privacy Agreement**
+**ONE.MOTORING Portal Privacy Agreement**
 
 Green Dot Internet Services Pte Ltd ("the Company") takes your privacy seriously. The Company will not collect personally identifiable information about you when you visit this web site ("this Web Site") or use any of the Company's services provided on this Web Site unless you choose to provide that information to the Company.
 
