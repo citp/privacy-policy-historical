@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209072945id_/http%3A//www.petco.com/privacy.asp%3Fwebt%3D0%26cmLink_ID%3Dswft0011) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petco.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404195033id_/http%3A//www.petco.com/privacy.asp%3Fwebt%3D0%26cmLink_ID%3Dswft0011) for the most accurate reproduction.*
 
 # PETCO.com - Privacy Concerns and Issues
 
@@ -68,7 +68,7 @@ PETCO.com sends subscribed users regular newsletters and occasional promotional 
 
   1. Click on "Your Account" at the top right corner of any page. 
   2. Log in using your email address and password.
-  3. Under "Newsletter Subscriptions," click the "Change" button to modify your currence preferences.
+  3. Under "Newsletter Subscriptions," click the "Change" button to modify your current preferences.
   4. From this page, you can easily subscribe to or unsubscribe from multiple newsletters.
 
 **Updating or Correcting Your Information**  
@@ -78,4 +78,4 @@ If you need to change or correct some of the information you provided PETCO.com,
 When practicable, notices of changes will appear on this page in advance, so check back often.
 
 **Contacting Us**  
-If you have any questions about this privacy statement, the practices of this web site, or your dealings with this site, [send us an email](https://web.archive.org/web/20041209072945id_/http%3A//www.petco.com/corpinfo_contact.asp).
+If you have any questions about this privacy statement, the practices of this web site, or your dealings with this site, [send us an email](https://web.archive.org/web/20050404195033id_/http%3A//www.petco.com/corpinfo_contact.asp).
