@@ -1,9 +1,16 @@
-> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602192738id_/http%3A//www.peninsula.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peninsula.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204031210id_/http%3A//www.peninsula.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement : The Peninsula Hotels
+# The Peninsula Hotels: Privacy Statement
 
-| 
-
+| [The Peninsula Hotels Home](https://web.archive.org/index.html)|   
+---|---  
+[To Plan A Meeting or Event](https://web.archive.org/meetings/index.html)|   
+Portraits of Peninsula|   
+[News at The Peninsula](http://newscenter.peninsula.com/)|   
+[E-Brochures](https://web.archive.org/ebrochures.html)|   
+[Your Feedback](https://web.archive.org/email.html)|   
+[Affiliate Hotels](https://web.archive.org/affiliates.html)|   
+  
 **Data Privacy and Security Policy**
 
 **We are Committed to Protect Your Privacy**
