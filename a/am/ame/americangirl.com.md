@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americangirl.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207224005id_/http%3A//www.americangirlstore.com/pls/ag/icm_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americangirl.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603211000id_/http%3A//www.americangirlstore.com/pls/ag/icm_privacy) for the most accurate reproduction.*
 
 # American Girl E-store Privacy Policy
 
@@ -6,7 +6,9 @@ Online Privacy Policy
 
 Dear American girl,
 
-Pleasant Company is committed to protecting your online privacy and the safety of all our Web site visitors. Our site consists of two main areas. The "Fun for Girls" section is primarily for girls, with games and activities that are educational and entertaining. The American Girl E-Store is primarily for our adult visitors over 18 and provides opportunities to shop and order products online.
+Pleasant Company is committed to protecting your online privacy and the safety of all our Web site visitors. Our site consists of two main areas. The "Fun for Girls" section is primarily for girls, with games and activities that are educational and entertaining. The American Girl 
+
+E-Store is primarily for our adult visitors over age 18 and provides opportunities to shop and order products online.
 
 If you are under 18 years old, please read this message with your parents before you visit our site. Please ask questions about things you do not understand. If you are under age 13, you should get a parent's permission before submitting any information about yourself on this Web site or any other on the Internet. Please remember that this site and the servers that make this site available are located in the U.S. By using this site you agree to the transfer, collection, processing, and use of data by this site.
 
@@ -32,19 +34,15 @@ We strongly advise girls to check--ALWAYS--with parents before submitting any pe
 
 Information We Collect Online in American Girl's E-store
 
-The American Girl E-store offers the full line of American Girl products available for purchase online, including _American Girl_ magazine. Customers must be over age 18 with a valid credit card. Fans under age 18 can use the Wish List function while browsing the e-store but cannot make purchases. When a customer places an order or requests a catalogue online, we collect information we need to complete the transaction, including the customer's name, mailing address, products ordered, shipping addresses, and credit card information. We ask for this information so that we may fulfill the order or catalogue request. We use Secure Sockets Layer technology to protect credit card data during transmission, and adopt careful internal procedures to safeguard this information in our system.
+The American Girl E-store offers the full line of American Girl products available for purchase online, including _American Girl_ magazine. Customers must be over age 18 with a valid credit card. Fans under age 18 can use the Wish List function while browsing the e-store but cannot make purchases. When a customer places an order or requests a catalogue online, we collect information needed to complete the transaction, including the customer's name, mailing address, products ordered, shipping addresses, and credit card information. We ask for this information so that we may fulfill the order or catalogue request. We use Secure Sockets Layer technology to protect credit card data during transmission, and adopt careful internal procedures to safeguard this information in our system. Once customers have successfully entered the required information, an account will be created and maintained for them in our database. Requesting a catalogue or promotional e-mail as part of a sweepstakes entry will also create a customer account. We occasionally share name and address information with carefully selected companies whose offers you may be interested in. However, customers' telephone number(s), e-mail address(es) or credit card information are never shared. You may instruct us not to use your information at any time.
 
 As a convenience to customers, we do offer the option of registering certain information for future orders while completing an online order. When a customer chooses to register, we then capture his or her login name, password, name, mailing address, alternate ship-to addresses, and credit card information. When registered customers return to the site to place subsequent orders, they can identify themselves with login name and password. No customer is required to register this information.
 
 If a customer includes a child's birth date and e-mail address, this information will only be used to help us provide products and services that meet customer needs.
 
-When a customer places an online order, we will send a confirmation e-mail. We may also send an occasional e-mail featuring a special promotion or product of interest to customers. Any customer who prefers not to receive an online order confirmation or promotional e-mails can indicate this preference on the E-store order form. Customers who receive an e-mail from us that they would rather not receive can simply follow the unsubscribe instructions included in the e-mail.
+To change the information we have in your account, specify how that information can be used, or instruct us not to use your information, you can access My Account online or call 1-800-845-0005 to speak with a Customer Service representative. Please allow up to three hours for your account information to be accessible after creating an account online.
 
-When a customer requests a catalogue or places an order online, we add the customer's name and address to our print catalogue mailing list. Customers who do not wish to receive our mailings can send the mailing label from their catalogue to the following address:
-
-American Girl Attn: Mail Order Processing Dept. P.O. Box 620497 Middleton, WI 53562-0497
-
-Customers who have recently moved or are planning a move in the near future should let us know by filling out the online [Change of Address](https://web.archive.org/web/20021207224005id_/http%3A//www.americangirlstore.com/pls/ag/pc_qc.comment_page) form. For all mailing questions and changes, you may also call 1-800-845-0005.
+Customers who have recently moved or are planning a move in the near future should let us know by filling out the online [Change of Address](https://web.archive.org/web/20030603211000id_/http%3A//www.americangirlstore.com/pls/ag/pc_qc.comment_page) form. For all mailing questions and changes, you may also call 1-800-845-0005.
 
 Other Information We Collect
 
@@ -56,9 +54,9 @@ Pleasant Company does not sell or release any information gathered in the "Fun f
 
 If we believe that anyone's behavior on our sites may damage us, our sites, or anyone else, we may disclose the relevant personal information in order to prevent this harm. In that case, we might try to identify the user, contact him or her, and/or bring legal action against him or her. We may also disclose personal information if we believe that the disclosure is required by law, or in response to a legal request.
 
-Thanks for reading our privacy statement. We are genuinely committed to safeguarding online privacy for both you and your children. We hope you have a better understanding of the many activities offered on our Web site. Remember, we may change our policy from time to time. When this happens, we will notify you of the new policy by posting it on our site.
+Thank you for reading our privacy statement. We are genuinely committed to safeguarding online privacy for both you and your children. We hope you have a better understanding of the many activities offered on our Web site. Remember, we may change our policy from time to time. When this happens, we will notify you of the new policy by posting it on our site.
 
-If you have concerns about your child's use of our service, please contact us using our [feedback form](https://web.archive.org/pls/ag/pc_qc.comment_page). Your child's use of this site is also governed by our [Terms and Conditions](https://web.archive.org/web/20021207224005id_/http%3A//www.americangirlstore.com/pls/ag/icm_terms) statement. Please read it.
+If you have concerns about your child's use of our service, please contact us using our [feedback form](https://web.archive.org/pls/ag/pc_qc.comment_page). Your child's use of this site is also governed by our [Terms and Conditions](https://web.archive.org/web/20030603211000id_/http%3A//www.americangirlstore.com/pls/ag/icm_terms) statement. Please read it.
 
 American Girl  
 8400 Fairway Place  
@@ -66,11 +64,11 @@ Middleton, WI 53562
 608-836-4848  
 e-mail: [im_cs@pleasantco.com](mailto:im_cs@pleasantco.com)
 
-[Terms and Conditions](https://web.archive.org/web/20021207224005id_/http%3A//www.americangirlstore.com/pls/ag/icm_terms) | [Web-Surfing Tips](http://www.americangirl.com/tools/tools.html) | [Trademarks](http://www.americangirl.com/legal/html/trademarks.html)  
+[Terms and Conditions](https://web.archive.org/web/20030603211000id_/http%3A//www.americangirlstore.com/pls/ag/icm_terms) | [Web-Surfing Tips](http://www.americangirl.com/tools/tools.html) | [Trademarks](http://www.americangirl.com/legal/html/trademarks.html)  
 [American Girl Home](http://www.americangirl.com/)
 
-This page was last updated May, 2002.  
-Copyright © 2001-2002 Pleasant Company. All rights reserved.
+This page was last updated February, 2003.  
+Copyright © 2001-2003 Pleasant Company. All rights reserved.
 
   
 
