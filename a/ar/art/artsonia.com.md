@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2003-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030609183349id_/http%3A//artsonia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207174536id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
 
 # Artsonia Teachers - Privacy Policy
 
-| 
+#### Privacy Policy
 
-  
 **ARTSONIA'S PRIVACY POLICY:**
 
 At Artsonia, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized service. Our privacy policy, described below, is designed to use the information we collect about our visitors with utmost care and responsibility.
@@ -80,5 +79,3 @@ At Artsonia, we are committed to protecting your privacy. We use the information
 >  Attn: Member Services  
 >  3166 N. Lincoln Ave, Suite 405   
 >  Chicago, IL 60657
-
-| 
