@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinnbank.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608202927id_/http%3A//www.pinnbank.com/content.asp%3Fid%3D144%26cid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnbank.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206002359id_/http%3A//www.pinnbank.com/content.asp%3Fid%3D144%26cid%3D1) for the most accurate reproduction.*
 
 # Welcome To Pinnacle Bank Your Home For Online Banking
 
-**»**   [Personal Banking](https://web.archive.org/web/20040608202927id_/http%3A//www.pinnbank.com/default.asp?id=1)[Items of Interest](https://web.archive.org/web/20040608202927id_/http%3A//www.pinnbank.com/content.asp?id=142&cid=1)Privacy Policy
+**»**   [Personal Banking](https://web.archive.org/web/20041206002359id_/http%3A//www.pinnbank.com/default.asp?id=1)[Items of Interest](https://web.archive.org/web/20041206002359id_/http%3A//www.pinnbank.com/content.asp?id=142&cid=1)Privacy Policy
 
  **Pinnacle Bank Customer Privacy Policy**
 
@@ -14,9 +14,6 @@ The Privacy Policy described in this disclosure may be amended at any time. We w
 
 **Our Privacy Policy**  
 We believe your privacy is of utmost importance, and Pinnacle Bank values your relationship and your trust. Keeping your nonpublic personal information confidential and secure is an important part of our responsibility to you. We take this responsibility very seriously.
-
-**Information Sharing**  
-Because we value your relationship and hold your privacy with the utmost respect, we will not disclose your nonpublic personal information to anyone except as permitted by the law. If you decide to close your account(s) or become an inactive customer, we will adhere to the privacy policy described in this publication.
 
 **Confidentiality and Security**  
 Pinnacle Bank restricts access to your nonpublic personal information to those employees who need to know that information to provide products and services to you. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
@@ -42,6 +39,11 @@ We collect and maintain nonpublic personal information from the following source
 
 
 "Nonpublic personal information" is data about you that we may obtain in connection with providing a financial product or service to you. This could include information such as account number(s), social security number, income, net worth, account balance(s), payment history, or overdraft history.
+
+**Information Sharing  
+**Because we value your relationship and hold your privacy with the utmost respect, we will not disclose your nonpublic personal information to anyone except those companies that perform marketing services on our behalf, or to other financial institutions with whom we have joint marketing agreements, or as permitted by the law.
+
+If you decide to close your account(s) or become an inactive customer, we will adhere to the privacy policy described in this publication.
 
 * * *
 
