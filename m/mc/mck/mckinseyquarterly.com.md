@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208145057id_/http%3A//www.mckinseyquarterly.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mckinseyquarterly.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604081705id_/http%3A//www.mckinseyquarterly.com/privacy.asp) for the most accurate reproduction.*
 
 # The McKinsey Quarterly: Privacy policy
 
@@ -54,13 +54,7 @@ We collect the following transaction information: physical contact information a
 
 User Information
 
-We collect the following user information: unique identifiers, e-mail address, and user's name. At the user's option, we may also collect the following data: 
-
-  * Preference data 
-  * User's Job Title 
-  * Name of User's Employer 
-
-
+We collect the following user information: unique identifiers, the user's name and e-mail address, user's job title, and name of user's employer. At the user's option, we may also collect preference data.
 
 This data may be used by us and our agents for the following purposes:
 
@@ -73,7 +67,7 @@ This data may be used by us and our agents for the following purposes:
 
 
 
-For example, this data helps us in controlling access to certain content on our site and in alerting users to new site content and services. We will not share user information with outside companies for their use for marketing purposes. In addition, we will not share any user information with any outside company or with any divisions of McKinsey outside the _McKinsey Quarterly_ except (i) in aggregated form for generalized user analysis, in which case such aggregated data may be shared with any outside persons or companies or (ii) periodically, to review whether users qualify for complimentary Premium Membership through special programs, in which case user information may be shared with other divisions of McKinsey and with organizations with which you are affiliated (e.g., your employer, college, or an association to which you belong). You will only be contacted by e-mail or otherwise by the _McKinsey Quarterly_ (or occasionally by other McKinsey staff or an organization with which you are affiliated as described above regarding complimentary premium membership), and you may opt out of such contacts.
+For example, this data helps us in controlling access to certain content on our site and in alerting users to new site content and services. By signing up for any of our newsletter or alerts, you agree to receive occasional other correspondence from The McKinsey Quarterly. We will not share user information with outside companies for their use for marketing purposes. In addition, we will not share any user information with any outside company or with any divisions of McKinsey outside the _McKinsey Quarterly_ except (i) in aggregated form for generalized user analysis, in which case such aggregated data may be shared with any outside persons or companies or (ii) periodically, to review whether users qualify for complimentary Premium Membership through special programs, in which case user information may be shared with other divisions of McKinsey and with organizations with which you are affiliated (e.g., your employer, college, or an association to which you belong). You will only be contacted by e-mail or otherwise by the _McKinsey Quarterly_ (or occasionally by other McKinsey staff or an organization with which you are affiliated as described above regarding complimentary premium membership), and you may modify your e-mail preferences and/or opt out of such contacts by clicking here: <http://www.mckinseyquarterly.com/unsubscribe.asp>
 
 Links to third-party sites
 
