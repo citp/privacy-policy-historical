@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401183125id_/http%3A//www.mygeek.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygeek.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207054837id_/http%3A//www.mygeek.com/privacy.jsp) for the most accurate reproduction.*
 
 # myGeek Keyword Account System
 
@@ -87,7 +87,7 @@ If you have any questions regarding our privacy policy please contact [CustomerS
 
 U.S. Mail: myGeek.com  
 Attn: Customer Service  
-3636 N. Hayden  
-Suite 590  
-Phoenix, AZ 85012  
+2375 E Camelback Road  
+Suite 500  
+Phoenix, AZ 85016  
 
