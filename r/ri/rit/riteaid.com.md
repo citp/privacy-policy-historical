@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riteaid.com privacy policy that was archived on 2002-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021014123624id_/http%3A//www.riteaid.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riteaid.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622074557id_/http%3A//www.riteaid.com/home/privacy.php) for the most accurate reproduction.*
 
 # Rite Aid - Privacy Statement
 
@@ -18,3 +18,7 @@ We may occasionally send useful information to you by e-mail, including new prod
 **Security**
 
 Riteaid.com utilize Secure Socket Layer (SSL) technology, which encrypts your personal and medical information as it is transmitted over the Internet. Rite Aid is committed to securing your personal information, and this technology is designed for use with secure Web servers.
+
+**Notice of Privacy Practices**
+
+This notice describes how medical information about patients may be used and disclosed and how patients can get access to this information. To read this notice, see [The Health Insurance Portability and Accountability Act (“HIPAA”)](https://web.archive.org/web/20030622074557id_/http%3A//www.riteaid.com/home/Hipaa_privacy.pdf) document. For state laws more stringent, see [The State Laws More Stringent than HIPAA](https://web.archive.org/web/20030622074557id_/http%3A//www.riteaid.com/home/Hipaa_all_states.pdf) document.
