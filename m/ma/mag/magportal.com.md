@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607185126id_/http%3A//www.magportal.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magportal.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210050814id_/http%3A//www.magportal.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy (MagPortal.com)
 
@@ -6,7 +6,7 @@
 ---|---  
 Hot Hot Neuron LLC respects your privacy and we have drafted this document to try to address any concerns that you may have about the information we collect and how it is used on MagPortal.com. Hot Neuron LLC may revise this Privacy Policy at any time without notice. It is your responsibility to check this policy periodically. 
 
-_Last revised: $Date: 2001/12/01 00:13:32 $_
+_Last revised: $Date: 2002/09/10 19:32:18 $_
 
 **What personally identifiable information is collected?**  
 We do not currently require users to provide any personally identifying information (name, email address, street address, etc.) to use the MagPortal.com service. In the future, we may require such information in exchange for providing additional services, such as but not limited to: delivery of physical products, entrance into a sweepstakes, or the privilege of posting on message boards. If you send correspondence to us, we may store a copy (which means that we will have your email address and name). 
@@ -28,10 +28,6 @@ The MagPortal.com site records the IP addresses of people using the site. This i
 **Advertisers and Third Parties**  
 Please be aware that advertisers on MagPortal.com and third party sites which MagPortal.com links to are not subject to the MagPortal.com privacy policy. Our advertisers may use cookies for various reasons. They may, for example, use cookies to avoid showing you the same advertisement many times, to measure which ads you respond to, or to track your behavior when you leave the MagPortal.com site. 
 
-Statement provided by DoubleClick on their ad serving policy: 
-
-> We [MagPortal.com] use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.sonar.com/content/privacy.htm). 
-
 Hot Neuron LLC does not provide personally identifying information (e.g. your name, email address, etc.) that we collect from you (for example from feedback which you email to us or your subscription to our mailing lists) to third parties unless it is with your explicit consent (generally for the purpose of providing an additional contracted or co-branded service) or if we believe in good faith that it is necessary for the enforcement of the law or our [Terms of Use](https://web.archive.org/help/terms.html) agreement. We do not rent or sell your personal information. 
 
 We may provide aggregated statistics about the users of MagPortal.com to third parties. 
@@ -42,4 +38,5 @@ You should keep your password secret and be extremely cautious when using shared
 Please be aware that whenever data is transmitted or stored there is always some risk of theft or misuse. 
 
 [Help](https://web.archive.org/help/)   [Home](https://web.archive.org/)   [Site Map](https://web.archive.org/sitemap.html)   [Privacy Policy](https://web.archive.org/help/privacy.html)   [Terms of Use](https://web.archive.org/help/terms.html)   [Contact Us](https://web.archive.org/help/contact.html)   [Advertise](https://web.archive.org/help/custom/advertise.html) Copyright © 2002 Hot Neuron LLC. All Rights Reserved.  
-MagPortal.com and Hot Neuron are service marks owned by Hot Neuron LLC.
+MagPortal.com is a registered service mark of Hot Neuron LLC.  
+Hot Neuron is a service mark of Hot Neuron LLC.
