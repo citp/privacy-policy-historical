@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vokle.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607092120id_/http%3A//startupbank.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vokle.com privacy policy that was archived on 2004-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040717075543id_/http%3A//www.startupbank.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Startupbank.com: Privacy Policy
 
