@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605034206id_/http%3A//www.directionsmag.com/privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directionsmag.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204195643id_/http%3A//www.directionsmag.com/privacy_statement.php) for the most accurate reproduction.*
 
 # Directions Magazine Web Site Privacy Statement - Directions Magazine
 
-|  |   
----  
-[Become a sponsor...](http://www.directionsmag.com/ads.php?p=16#sponsor_button)  
-|  |    
+| 
+
+|  |  |    
 |  **Directions Magazine Web Site Privacy Statement**  
 ---  
 Directions Magazine respects the privacy of every individual who visits our Web sites. This Privacy Statement outlines the information we collect via our various Web sites and how we use that information. 
