@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209093400id_/http%3A//www.aplus.net/privstat.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aplus.net privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409101955id_/http%3A//www.aplus.net/privstat.html) for the most accurate reproduction.*
 
 # A+Net Internet Access & Web Hosting - Privacy Statement
 
@@ -41,6 +41,10 @@ If you do not want to accept cookies from A+Net or other sites, your browser sof
 A+Net contains many links to other sites. A+Net is not responsible for the privacy practices or the content of such Web sites. A+Net does not share any of the individual personal information you provide A+Net with the sites to which A+Net links, although A+Net may share aggregate data with such sites (such as how many people use our site). This includes other third party sites on the Internet for which A+Net provides search services. 
 
 Please check with those sites to determine their privacy policy. 
+
+**BANNER ADVERTISEMENT**
+
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.247media.com/privacy). 
 
   
 **OPT-OUT**
