@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2000-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001007051317id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfat.gov.au privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604010135id_/http%3A//www.dfat.gov.au/privacy.html) for the most accurate reproduction.*
 
 # DFAT Privacy Policy
 
@@ -36,8 +36,4 @@ The staff who operate this site are subject to the [_Commonwealth Privacy Act 19
 
 [Home](https://web.archive.org/index.html) | [Search](http://www.dfat.gov.au/search) | [Site Index](https://web.archive.org/directory.html)
 
-© [Commonwealth of Australia 2000](https://web.archive.org/copyright.html) | [Disclaimer](https://web.archive.org/disclaim.html) | [Privacy](https://web.archive.org/privacy.html)
-
-This page last modified: Tuesday, 25-Jul-2000 09:52:00 EST
-
-Local Date: Saturday, 07-Oct-2000 15:12:10 EST
+© [Commonwealth of Australia 2001](https://web.archive.org/copyright.html) | [Disclaimer](https://web.archive.org/disclaim.html) | [Privacy](https://web.archive.org/privacy.html)
