@@ -1,27 +1,54 @@
-> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2002-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020908222100id_/http%3A//www.nysed.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysed.gov privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622140939id_/http%3A//usny.nysed.gov/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy: Information
+# Internet Privacy and Security Policy
 
-|  |  |    | SED Website Privacy Policy | SED Online Privacy Details |     
-Cookies and Web Bugs |  Children's Online Privacy |    
- | SED Contact Information  | **NEW YORK STATE EDUCATION DEPARTMENT (SED)** **PRIVACY OF YOUR ONLINE INFORMATION AT THE SED WEBSITE** **  
-**  NYSED posted this updated privacy policy on June 17, 2002  in response to the Internet Security and Privacy Act  and  in recognition of the growing public interest in and concern for information privacy. **  
+| 
+
+**Resources for:**  
   
-** Your online privacy is important. This section of the State Education Department’s Website provides information about this agency's approach to information from online visitors as well as general information about online privacy.     This section of the Website is divided into several topics. You can scroll through the entire section. Or you can go directly to one of the topics listed below and on the navigation bar above.  | **TOPIC 1.**| SED Internet Privacy Policy  
+---  
+**-** [Citizens](https://web.archive.org/web/20030622140939id_/http%3A//citizens/)  
+**-** [Individuals with Disabilities](https://web.archive.org/web/20030622140939id_/http%3A//disa/)  
+**-** [Licensed Professionals](https://web.archive.org/web/20030622140939id_/http%3A//professionals/)  
+**-** [Parents](https://web.archive.org/web/20030622140939id_/http%3A//parents/)  
+**-** [School Administrators](https://web.archive.org/web/20030622140939id_/http%3A//schooladmin/)  
+**-** [Students](https://web.archive.org/web/20030622140939id_/http%3A//students/)  
+**-** [Teachers](https://web.archive.org/web/20030622140939id_/http%3A//teachers/)  
+  
+**Information about:**  
+  
+**-** [Grants & Finance](https://web.archive.org/web/20030622140939id_/http%3A//grants/)  
+**-** [Higher Education](https://web.archive.org/web/20030622140939id_/http%3A//highered/)  
+**-** [Laws & Regulations](https://web.archive.org/web/20030622140939id_/http%3A//lawsregs/)  
+**-** [Licensing & Certification](https://web.archive.org/web/20030622140939id_/http%3A//licensing/)  
+**-** [Museum, Library & Archives](https://web.archive.org/web/20030622140939id_/http%3A//museum/)  
+**-** [PreK-Adult Education](https://web.archive.org/web/20030622140939id_/http%3A//prekadult/)  
+**[SED PORTAL Log In](http://portal.nysed.gov/pls/portal30/)**  
+|  |  |  [SED Home](http://www.nysed.gov/) > [Disclaimers and Notices](https://web.archive.org/web/20030622140939id_/http%3A//usny.nysed.gov/notice.html) > **Internet Privacy and Security Policy**   
+
+
+Internet Privacy and Security Policy
+
+**NEW YORK STATE EDUCATION DEPARTMENT (SED)  
+PRIVACY OF YOUR ONLINE INFORMATION AT THE SED WEBSITE**   
+ NYSED posted this updated privacy policy on June 17, 2002  in response to the Internet Security and Privacy Act and in recognition of the growing public interest in and concern for information privacy. Your online privacy is important. This section of the State Education Department’s Website provides information about this agency's approach to information from online visitors as well as general information about online privacy. 
+
+This section of the Website is divided into several topics. You can scroll through the entire section. Or you can go directly to one of the topics listed below and on the navigation bar above.   
+ 
+
+| **TOPIC 1.**|  SED Internet Privacy Policy  
 ---|---  
-**TOPIC 2.**| Details on SED Online Information Practices  
-**TOPIC 3.**| General Information about Internet Privacy  
-**TOPIC 4.**| General Information about Cookies and Web Bugs  
-**TOPIC 5.**| General Information about Children's Online Privacy  
-**TOPIC 6.**| Click here for Contact Information  
- |    
- |   
+**TOPIC 2.**|  Details on SED Online Information Practices  
+**TOPIC 3.**|  General Information about Internet Privacy  
+**TOPIC 4.**|  General Information about Cookies and Web Bugs  
+**TOPIC 5.**|  General Information about Children's Online Privacy  
+**TOPIC 6.**|  Click here for Contact Information  
   
 * * *
 
-**TOPIC 1. SED INTERNET PRIVACY POLICY**
+TOPIC 1. SED INTERNET PRIVACY POLICY
 
-    This section describes the State Education Department's online information practice regarding the information collected from visitors to our Website and ways in which the office uses and maintains this information. 
+This section describes the State Education Department's online information practice regarding the information collected from visitors to our Website and ways in which the office uses and maintains this information. 
 
 The SED Website has three main purposes:
 
@@ -37,7 +64,10 @@ The SED Website collects two kinds of information:
 
   1. Information you decide to give us, which may include personally identifiable information (PII); and  
 
-  2. Non-personal information your computer automatically provides to every Website you visit. This is sometimes referred to as "navigation" information. The SED retains this information only for a short time. Click here for details on information your computer automatically transmits. 
+  2. Non-personal information your computer automatically provides to every Website you visit. This is sometimes referred to as "navigation" information. The SED retains this information only for a short time.
+
+ Click here for details on information your computer automatically transmits. 
+
 
   | **Information you decide to give the SED** | **Information your computer automatically transmits to all Websites**   
 Click here for details  
@@ -60,16 +90,18 @@ Click here for details on PII.
 
 Click below for details on: 
 
-  1. identifiability of domain names and IP addresses.
+  1. Identifiability of domain names and IP addresses.
   2. SED use of information your computer automatically transmits.
+
 
   
 **Sensitive Information** | There may be particular privacy concerns with certain kinds of information such as financial or medical records. SED uses such information **only** for authorized government purposes. | Automatic information typically does not include any sensitive information about you. 
 
 Click on the following topics for details on: 
 
-  1. information your computer automatically transmits.
+  1. Information your computer automatically transmits.
   2. SED use of information your computer automatically transmits.
+
 
   
 **Information practices the SED does not use** |  SED does not have a profile database of all online visitors. |  SED does not use persistent cookies, clear GIFs ("Web bugs"), or any kind of anonymous identifier to try to track or recognize you  from visit to visit.
@@ -85,6 +117,7 @@ SED does not draw conclusions about you based on pages you view or search terms 
 
 
 
+
 Click here for details on sharing information you provide the SED.
 
 | SED does not sell or rent the automatic navigation information your computer transmits.  
@@ -92,23 +125,30 @@ Click here for details on sharing information you provide the SED.
 
   1.  SED does not store information submitted by all our visitors in an office-wide, master database. 
   2. SED takes appropriate technical measures to protect the security and integrity of information the SED receives. 
+
   3. Access to information provided by visitors online is limited to SED personnel who have authorization to access the data. 
+
   4. The same rules of confidentiality that apply to information you might send the SED offline apply to information provided online. 
+
 
 | 
 
   1. SED temporarily stores the automatic navigation information in a computer database. After six months, it purges this information from the SED databases. 
   2. SED takes appropriate technical measure to protect the security and integrity of this information. 
 
+
   
   
-**The following notices apply generally to any information the SED receives:**
+**The following notices apply generally to any information the SED receives:**   
+ 
 
 **Exceptions** | 
 
-  1. Legal obligations to disclose information:  SED may disclose information to comply with a court order, authorized law enforcement request, subpoena, or a request under federal or state "freedom of information" law. 
+  1. Legal obligations to disclose information: SED may disclose information to comply with a court order, authorized law enforcement request, subpoena, or a request under federal or state "freedom of information" law. 
   2. Emergency exceptions: If necessary to protect health or safety in an emergency situation, the SED may use, share or disclose information other than outlined in this policy. 
+
   3. If there are other exceptions or special needs for handling information in a specific case, the SED will provide notice as appropriate. 
+
 
   
 ---|---  
@@ -120,12 +160,11 @@ Back to Top
 
 * * *
 
-  
-**TOPIC 2. Details on SED Online Information Practices**
+TOPIC 2. DETAILS ON SED ONLINE INFORMATION PRACTICES
 
-**Details:**
+**Details: **
 
- **Personally identifiable  
+**Personally identifiable  
 information you  
 give the SED**
 
@@ -133,14 +172,16 @@ give the SED**
 
   1. If you send the SED a message and want a reply, the SED needs at least your name and your e-mail address or telephone number. 
   2. If you request a publication, the SED needs your name and street address to send it to you. 
+
   3. If you are the authorized agent for a local educational agency which transacts business over the internet (e.g. submitting required data or processing payment payment claims).  
+
 
 
 Back to Top  
 ---|---  
-**Details:**
+**Details: **
 
- **Sharing information you  
+**Sharing information you  
 give the SED**
 
 | The SED may need to share your information to perform government functions, just as if you had sent the SED the information by mail. For example -
@@ -150,46 +191,54 @@ give the SED**
   2. If you apply for employment, the SED may need to contact your references and perform other appropriate verification. 
 
 Back to top  
-**Details:**
+**Details: **
 
- **Information your computer  
+**Information your computer  
 automatically provides  
 to all Websites**
 
 | While you are browsing, your computer automatically provides certain "navigation" information to every Website you visit, including the SED Website. The navigation information includes:
 
   1. The address (also known as URL, short for "uniform resource locator") of any Web page you visited before you linked to an SED Web page. 
-  2. Your Internet Protocol address (or "IP address"). This is the Internet's address for your particular computer. A Website's computer must know your IP address so the site can send the Web page you ask to view. 
-
+  2. Your Internet Protocol address (or "IP address"). This is the Internet's address for your particular computer. A Website's computer must know your IP address so the site can send the Web page you ask to view.  
 Click here for more details on domain names and IP addresses.
 
   3. The Web-browsing software you are using. 
+
   4. Whether your computer is configured to display English or some other language. 
+
   5. Your online service provider. 
+
   6. Note: Your computer _does not_ automatically provide your e-mail address. 
+
 
 For example, if you have an AOL account, were visiting a page on the Yahoo site, and clicked on a link to the SED home page, your computer would transmit to the SED Website that: 
   1. You are an AOL subscriber; 
   2. You use a particular browser software version such as Internet Explorer 5.0. 
+
   3. You were just visiting a particular page on www.yahoo.com. 
+
   4. You linked to **www.nysed.gov** on a particular date at a particular time. 
 
-Back to top  
-**Details:**
 
- **Use of information  
+Back to top  
+**Details: **
+
+**Use of information  
 your computer automatically  
 provides to all Websites**
 
 | The SED Website uses automatic navigation information for internal, site-monitoring purposes.
 
   1. This data allows SED staff to measure visitors' interest in different sections of the Website, so the SED can make the site more useful to visitors. 
-  2. The SED generates internal reports that identify the number of web users on a given day who requested pages through particular online service providers. This information may report the volume of requests originating from a service provider associated with a particular school or company or from foreign countries.  
-**  
-The SED does _not_ :**
-  3. analyze our visitors' automatic navigation information to attempt to identify unique or repeat visitors 
-  4. routinely retain permanent records of automatic navigation information 
-  5. attempt to identify individual visitors by analyzing their IP (Internet Protocol) addresses except in cases of attempted security breaches and/or intrusions 
+  2. The SED generates internal reports that identify the number of web users on a given day who requested pages through particular online service providers. This information may report the volume of requests originating from a service provider associated with a particular school or company or from foreign countries.
+
+
+**The SED does _not_ :**
+
+  1. analyze our visitors' automatic navigation information to attempt to identify unique or repeat visitors 
+  2. routinely retain permanent records of automatic navigation information
+  3. attempt to identify individual visitors by analyzing their IP (Internet Protocol) addresses except in cases of attempted security breaches and/or intrusions.
 
 
 
@@ -197,16 +246,18 @@ Click here for details on identifiability of domain names and IP addresses.
 
 Back to top  
   
-**Details:**
+**Details: **
 
- **Identifiability of domain  
+**Identifiability of domain  
 names and IP addresses**
 
 | 
 
-  1. _Identifiability of your domain name_ : If you access the Internet through facilities provided by an organization such as your school or business, your automatic navigation information may reveal the name of your organization. For example, a student's navigation information might let a Website know that the student accesses the Internet through www.myuniversity.edu. 
-  2. _Geographic area_ : Similarly, if you access the Internet through an Internet Service Provider (ISP) located in a particular geographic area, a Website may be able to use the ISP's identity to infer that to be your geographic location. 
-  3. _Identifiability of your IP address_ : Whether your IP address is identifiable depends on whether it is dynamic or static. If it is dynamic, your ISP (Internet Service Provider) assigns a different IP address for each online visit that does not identify any person or machine. 
+  1. **Identifiability of your domain name** : If you access the Internet through facilities provided by an organization such as your school or business, your automatic navigation information may reveal the name of your organization. For example, a student's navigation information might let a Website know that the student accesses the Internet through www.myuniversity.edu. 
+  2. **Geographic area** : Similarly, if you access the Internet through an Internet Service Provider (ISP) located in a particular geographic area, a Website may be able to use the ISP's identity to infer that to be your geographic location. 
+
+  3. **Identifiability of your IP address** : Whether your IP address is identifiable depends on whether it is dynamic or static. If it is dynamic, your ISP (Internet Service Provider) assigns a different IP address for each online visit that does not identify any person or machine. 
+
 
 
 
@@ -216,10 +267,10 @@ Back to top
   
 * * *
 
-####   
-**TOPIC 3. General Information about Internet Privacy**
+TOPIC 3. GENERAL INFORMATION ABOUT INTERNET PRIVACY
 
-SED handles information about visitors to the SED Website in the following manner: 
+SED handles information about visitors to the SED Website in the following manner:   
+ 
 
 **Notice and disclosure** | SED provides notice and disclosure of its information practices by posting its privacy policy.  
 ---|---  
@@ -231,19 +282,21 @@ Back to Top
 
 * * *
 
-  
-**TOPIC 4. General Information about Cookies and Clear GIFs ("Web Bugs")**
+TOPIC 4. GENERAL INFORMATION ABOUT COOKIES AND CLEAR GIFs ("WEB BUGS")
 
 Although the SED does not use persistent cookies or clear GIFs ("Web bugs") on this Website, many sites do use this technology. Here is some helpful information. 
 
-**_Cookies_**
+**Cookies   
+ **
 
 **A cookie is...** | 
 
   * A cookie is a small data file placed on your hard drive by a Website so it can "remember" information about you or your computer. 
     * A Website may assign you an ID and create a temporary cookie with that ID number on your computer. 
     * The Website then can create a profile with your ID number on the Website's server. 
+
     * In your profile, the Website can store information about your interests and other characteristics. For example, a site that carries news and weather might record your zip code so it can display local weather and news each time you visit the site. A credit card or bank site might use your profile to store your password, so that it has a way to recognize you and display your account information. 
+
   * A cookie can be read and updated only by the Website that created it. One Website cannot "peek" at another Website's cookies. 
 
   
@@ -252,7 +305,9 @@ Although the SED does not use persistent cookies or clear GIFs ("Web bugs") on t
 
   * A cookie is not a program. It is a data file. 
   * A cookie is not a spy device that can read files on your computer. 
+
   * A cookie is not a way for a Website to secretly discover your personal information.  
+
 
 
   
@@ -262,7 +317,8 @@ Although the SED does not use persistent cookies or clear GIFs ("Web bugs") on t
 
   
   
-**_Clear GIFs or "Web bugs"_**
+**Clear GIFs or "Web bugs"  
+ **
 
 **A clear GIF is...** | 
 
@@ -279,20 +335,18 @@ Back to Top
 
 * * *
 
-**TOPIC 5. General Information about Children's Online Privacy**
+TOPIC 5. GENERAL INFORMATION ABOUT CHILDREN'S ONLINE PRIVACY
 
-    The SED does not solicit information from children under the age of thirteen. If the SED receives information submitted by children under the age of thirteen, those communications are accorded the same protections as if the information had been submitted offline. 
+The SED does not solicit information from children under the age of thirteen. If the SED receives information submitted by children under the age of thirteen, those communications are accorded the same protections as if the information had been submitted offline. 
 
-The Children's Online Privacy Protection Act of 1998 ("COPPA") imposes restrictions on commercial Websites, not government agency websites. Although COPPA does not apply to the SED Website, the SED practices are consistent with its mandates. If you would like more information about COPPA, please visit the FTC's official COPPA page at:   
-
+The Children's Online Privacy Protection Act of 1998 ("COPPA") imposes restrictions on commercial Websites, not government agency websites. Although COPPA does not apply to the SED Website, the SED practices are consistent with its mandates. If you would like more information about COPPA, please visit the FTC's official COPPA page at: 
 
 <http://www.ftc.gov/bcp/conline/pubs/online/kidsprivacy.htm>   
 Back to Top
 
 * * *
 
-  
-**Topic 6. SED CONTACT INFORMATION **
+TOPIC 6. SED CONTACT INFORMATION
 
 If you have questions about the SED Website privacy statement or this Website, please contact the SED by e-mailing the Information Security Officer at [ infosec@mail.nysed.gov](mailto:infosec@mail.nysed.gov)
 
@@ -305,7 +359,3 @@ You can also write SED at:
 > Albany, New York 12234 
 
 Back to Top
-
-* * *
-
-| 
