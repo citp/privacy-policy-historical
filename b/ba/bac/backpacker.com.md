@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811085647id_/http%3A//www.rodale.com/corp/sub/1%2C1874%2C1-28%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpacker.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401085339id_/http%3A//www.rodale.com/corp/sub/1%2C1874%2C1-28%2C00.html) for the most accurate reproduction.*
 
-# Rodale - Meet RODALE - Privacy Policy
+# Rodale
 
-**Privacy Policy**
-
-****_Protecting Your Privacy and Servicing Your Needs_****  
-_May 2002_
+  
+|  |  ****_Protecting Your Privacy and Servicing Your Needs_****
 
 Rodale is the world's leader in health and well-being. Through our brands ( _Backpacker, Bicycling, Men's Health, Mountain Bike, OG, Organic Style, Prevention, Rodale's Scuba Diving, Runner's World_ , and Rodale Books) Rodale brings you the ideas, insights, inspiration and information you need to live life to the fullest. 
 
@@ -60,34 +58,29 @@ Responsibility for what is posted in the discussion groups or other public forum
 **Member Conduct**   
 You understand that all information, data, text, software, music, sound, photographs, graphics, video, messages or other materials ("Content"), whether publicly posted or privately transmitted, are the sole responsibility of the person from which such Content originated. This means that you, and not Rodale, Inc., are entirely responsible for all Content that you upload, post or otherwise transmit. Rodale does not control the Content posted and, as such, does not guarantee the accuracy, integrity or quality of such Content. You understand that by using a Rodale site, you may be exposed to Content that is offensive, indecent or objectionable. 
 
-You agree to not use the Rodale sites in order to: 
+You agree to not use the Rodale sites in order to:
 
-  * upload, post or otherwise transmit any Content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable; 
-  * harm minors in any way; 
-  * impersonate any person or entity, including, but not limited to, a Rodale official, forum leader, guide or host, or falsely state or otherwise misrepresent your affiliation with a person or entity; 
+  * upload, post or otherwise transmit any Content that is unlawful, harmful, threatening, abusive, harassing, tortious, defamatory, vulgar, obscene, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise objectionable;
+  * harm minors in any way;
+  * impersonate any person or entity, including, but not limited to, a Rodale official, forum leader, guide or host, or falsely state or otherwise misrepresent your affiliation with a person or entity;
   * forge headers or otherwise manipulate identifiers in order to disguise the origin of any Content transmitted through the Service or develop restricted or password-only access pages, or hidden pages or images (those not linked to from another accessible page); 
-  * upload, post or otherwise transmit any Content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements); 
-  * upload, post or otherwise transmit any Content that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party; 
-  * upload, post or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or any other form of solicitation, except in those areas of the Service that are designated for such purpose; 
+  * upload, post or otherwise transmit any Content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
+  * upload, post or otherwise transmit any Content that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party;
+  * upload, post or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes," or any other form of solicitation, except in those areas of the Service that are designated for such purpose;
   * upload, post or otherwise transmit any material that contains software viruses or any other computer code, files or programs designed to interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment; 
   * interfere with or disrupt the servers or networks connected to the Rodale site, or disobey any requirements, procedures, policies or regulations of networks connected to the site; 
-  * intentionally or unintentionally violate any applicable local, state, national or international law, including, but not limited to, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, including, without limitation, the New York Stock Exchange, the American Stock Exchange or the NASDAQ, and any regulations having the force of law; 
+  * intentionally or unintentionally violate any applicable local, state, national or international law, including, but not limited to, regulations promulgated by the U.S. Securities and Exchange Commission, any rules of any national or other securities exchange, including, without limitation, the New York Stock Exchange, the American Stock Exchange or the NASDAQ, and any regulations having the force of law;
   * "stalk" or otherwise harass another; 
-  * collect or store personal data about other users; 
+  * collect or store personal data about other users;
   * promote or provide instructional information about illegal activities, promote physical harm or injury against any group or individual, or promote any act of cruelty to animals. 
-  * use your home page (or directory) as storage for remote loading or as a door or signpost to another home page 
-  * engage in commercial activities without the express written consent of Rodale, Inc. This includes, but is not limited to, the following activities:   
-  
-
+  * use your home page (or directory) as storage for remote loading or as a door or signpost to another home page
+  * engage in commercial activities without the express written consent of Rodale, Inc. This includes, but is not limited to, the following activities:
     * offering for sale any products or services; 
     * soliciting for advertisers or sponsors; 
     * conducting raffles or contests that require any type of entry fee; 
-    * displaying a sponsorship banner of any kind, including those that are generated by banner or link exchange services 
+    * displaying a sponsorship banner of any kind, including those that are generated by banner or link exchange services
     * displaying banners for services that provide cash or cash-equivalent prizes to users in exchange for hyperlinks to their web sites. 
-  
 
-
-  
 **Rights**   
 You acknowledge that we acquire all Rights to use any posted materials as described above so that we do not violate any Rights you may have in materials you post. By submitting content to or through our sites, you grant us the non-exclusive right to reproduce, modify and distribute it as we see fit in any medium and for any purpose in any form, media, or technology now known or later developed. You also permit any other user to access, display, and print such content for personal use. You vouch that any material you submit does not violate, plagiarize or infringe upon the right of any third party, including copyright, trademark or proprietary rights. If non-original content is included in your posting, you must obtain permission from the content owner and attribute it. 
 
@@ -96,14 +89,6 @@ If you have any questions regarding this privacy policy statement or if you feel
 
 Additionally, you may contact your state or local consumer protection office, The Direct Marketing Association's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), the [Better Business Bureau](http://www.bbb.org/), or The Federal Trade Commission by phone at (202) FTC-HELP (202/382-4357) and online at [www.ftc.gov](https://rn.ftc.gov/dod/wsolcq$.startup?Z_ORG_CODE=PU01). 
 
-Note: This privacy policy applies only to Rodale's owned and operated websites, and is not applicable to Rodale's other information gathering activities. 
+Note: This privacy policy applies only to Rodale's owned and operated websites, and is not applicable to Rodale's other information gathering activities.
 
-  
-  
 Rodale complies with all the stringent standards of ethical conduct set forth by the [Direct Marketing Association](http://www.the-dma.org/). 
-
-  
-We inspire and enable people to improve their lives and the world around them.
-
-  
-
