@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203024617id_/http%3A//careerperfect.com/CareerPerfect/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604195236id_/http%3A//careerperfect.com/CareerPerfect/privacy.htm) for the most accurate reproduction.*
 
 # CareerPerfect® Privacy Policy
 
