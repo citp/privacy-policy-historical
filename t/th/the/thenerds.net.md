@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thenerds.net privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607223222id_/http%3A//www.thenerds.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenerds.net privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210043210id_/http%3A//www.thenerds.net/privacy.asp) for the most accurate reproduction.*
 
 # TheNerds.net
 
 **Privacy**
 
-At **TheNerds.Net** , we are committed to protecting your privacy online. Below is a brief overview of the highlights of our Privacy Policy. This will give you a summary sketch about how information is collected from you and how it is used, but does not include all important information. You should read our complete privacy policy. For more information, please read our complete Privacy Policy by clicking here. 
+At **TheNerds.Net** , we are committed to protecting your privacy online. Below is an overview our Privacy Policy. This will give you a summary sketch about how information is collected from you and how it is used.
 
 **Information Collected**  
 When you shop on our site, we collect personal information from you such as your name, e-mail address, billing address, shipping address, telephone number, product selections, credit card or other payment information and a password. We may also collect, or our third party ad server and content server will collect the URL you came from, IP address, domain types (e.g. .com or .org, etc.), your browser type, the country, state and telephone area code where your server is located, the pages of our site that were viewed during a visit, the advertisements you clicked, and any search terms that you entered on our site. 
