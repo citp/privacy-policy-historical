@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotnet247.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215085303id_/http%3A//www.dotnet247.com/247reference/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotnet247.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622104606id_/http%3A//dotnet247.com/247reference/privacy.aspx) for the most accurate reproduction.*
 
-# .NET 247 : The first, independent .NET Programmers Reference
+# Matthew Reynolds' .NET 247 : The first, independent .NET Programmers Reference
 
 **.NET 247 is owned and operated by RedPiranha.com Ltd.**  
 Registered in England number 3894116 
