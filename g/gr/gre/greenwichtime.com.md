@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenwichtime.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207163635id_/http%3A//www.greenwichtime.com/go/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenwichtime.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206224500id_/http%3A//www.greenwichtime.com/go/services/privacy) for the most accurate reproduction.*
 
 # Greenwich Time - Privacy Policy
 
@@ -99,4 +99,4 @@ Governing law.
 
 This policy and the use of this Site are governed by Illinois law. Any claim related to the Site or this policy shall be brought in a federal or state court in Chicago, Illinois, within one year after the claim arises. Users of **Greenwichtime.com** consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. **Greenwichtime.com** is controlled, operated and administered entirely within the United States. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
 
-Copyright © 2003, Southern Connecticut Newspapers, Inc.
+Copyright © 2004, Southern Connecticut Newspapers, Inc.
