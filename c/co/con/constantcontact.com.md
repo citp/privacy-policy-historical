@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the constantcontact.com privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627084833id_/http%3A//www.constantcontact.com/privacy_guarantee.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the constantcontact.com privacy policy that was archived on 2004-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041217092735id_/http%3A//constantcontact.com/privacy_guarantee.jsp) for the most accurate reproduction.*
 
-# Constant Contact :: Privacy Guarantee
+# Constant Contact :: Do-It-Yourself Email Marketing :: Privacy Guarantee
 
 At Constant Contact®, we respect and protect the privacy of our customers and those who use our websites. The following Privacy Statement provides details about how your personal information is collected and used. This privacy statement applies to the network of Constant Contact websites, products and services that are located in, but not limited to the roving.com and constantcontact.com domains. 
 
