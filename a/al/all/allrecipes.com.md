@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206051500id_/http%3A//allrecipes.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604063013id_/http%3A//allrecipes.com/privacy.asp) for the most accurate reproduction.*
 
 # All Recipes | Privacy Policy
 
@@ -12,6 +12,7 @@ Registration
 Ordering Online  
 Security  
 Cookies  
+Third Party  
 Other Sites  
 Correcting/updating Personal Information  
 Policies Changes  
@@ -39,6 +40,7 @@ In order to sign up for the following features you must first complete an online
   * RecipeNotes newsletter
   * Email-a-Friend
   * Contest, Promotions and Surveys
+  * Coupons and other offers
 
 During registration you are required to give contact information (such as your name and email address). This information is used to provide the services that you have requested, or to contact you about the service on our site for which you have expressed interest. We may contact you from time to time with news as well as for internal marketing and promotional purposes. 
 
@@ -50,11 +52,19 @@ Your personally identifying information may be used for editorial purposes (such
 **Recipe request**  
 When you subscribe to this feature, we ask for your name and email address and the description of the recipe that you are requesting. Allrecipes.com then posts your name and your recipe description to the site. The email address you provided is only used for us to contact you when your request has been filled. 
 
+**My Recipe Box / Savings Club**  
+When you subscribe to My Recipe Box, you are automatically given a free membership to the AllRecipes Savings Club. Likewise, if you register for the Savings Club, you are automatically given a subscription to My Recipe Box. For more information regarding these services, please read the following more specific information. 
+
 **My Recipe Box**  
 When you subscribe to My Recipe Box, we ask for contact information such as your name, email address and zip code. The information collected allows us to provide you with access to grocery coupons, offers, events and promotions in the your area and/or region. If you have subscribed to My Recipe Box, we may contact you from time to time with news and promotional information. We also make your aggregate information (without any personal identification) available to our business partners in order to obtain information about products, services and offers, which we believe is useful to you. You always have the ability to change your preference for follow-up contacts by e-mailing us at [thestaff@allrecipes.com](mailto:thestaff@allrecipes.com). 
 
-**Recipe Notes**  
-When you subscribe to our newsletter, we ask for contact information such as your name and email address. If you have subscribed to our newsletter, we may contact you periodically with news and promotional information. You always have the ability to change your preference for follow-up contacts by e-mailing us at thestaff@allrecipes.com. [thestaff@recipenotes.com](mailto:thestaff@recipenotes.com). 
+**Savings Club**  
+The Allrecipes Savings Club provides access to coupons and other offers available from our couponing partner, Save.com. The information collected when registering for the Savings Club is required to access these offers, and may be used by Allrecipes to help you to find recipes, coupons, and other information we believe is useful to you. When accessing coupons from our partner for the first time, we will ask your permission to pass along your Savings Club Registration information (first name, email address, zipcode, and password) to our couponing partner, Save.com. To find out more detailed information regarding our couponing partner's privacy policies, please click on the link provided below: 
+
+[Save.com Privacy Policy](http://www.save.com/privacy-shared.html). 
+
+**Recipe Notes / What's Cooking / News Bites**  
+When you subscribe to one of our newsletters, we ask for contact information such as your name and email address. If you have subscribed to a newsletter, we may contact you periodically with news and promotional information. You always have the ability to change your preference for follow-up contacts by e-mailing us at thestaff@allrecipes.com. [thestaff@recipenotes.com](mailto:thestaff@recipenotes.com). 
 
 **E-mail-A-Friend**  
 When you elect to use our referral service for emailing a recipe to a friend, we ask you for your friend's name and email address. Allrecipes.com will automatically send your friend a one-time email inviting them to visit the site. Allrecipes.com stores this information for the sole purpose of sending this one-time email. Your friend may contact Allrecipes.com at [thestaff@allrecipes.com](mailto:thestaff@allrecipes.co) to request their information to be removed from our database. 
@@ -88,18 +98,21 @@ Some of our business partners also use cookies on our site. See next reference:
 
 TOP
 
+**Third Party Advertising**   
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that might be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.net/naiprivacy). 
+
+**Third Party Cookies**   
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
+
 **IV. DoubleClick**   
-DoubleClick is a third-party advertising company that we partner with to display the advertisements on our site. These advertisements also contain "cookies." "Cookies" received with banner ads are collected by our ad company and used to provide broad demographic information for better advertisement targeting. Privacy issues surrounding DoubleClick's use of certain non-personally identifiable user information by its technology are discussed in DoubleClick's privacy policy, and are the sole responsibility of DoubleClick. That policy can be viewed on DoubleClick's [Privacy Policy page](http://www.doubleclick.net:8080/privacy_policy/). 
+DoubleClick is a third-party advertising company we partner with to display the advertisements on our site. These advertisements also contain "cookies." "Cookies" received with DoubleClick's banner ads are collected by DoubleClick and used to provide broad demographic information for better advertisement targeting. Privacy issues surrounding DoubleClick's use of certain non-personally identifiable user information by its technology are discussed in DoubleClick's privacy policy, and are the sole responsibility of DoubleClick. That policy can be viewed on DoubleClick's [Privacy Policy page](http://www.doubleclick.net:8080/privacy_policy/). 
 
 TOP
 
 **V. Sonar Network**   
-Sonar is another third-party advertising company that we partner with to deliver ads to you. In the course of delivering an ad, Sonar Network collects certain non-personally identifiable information about you. Sonar's collection and use of your information is the responsibility of Sonar. For more information about their information gathering practices and "opt-out" procedure of Sonar Network, please click here: Sonar's [Privacy Policy page](http://www.sonar.com/content/privacy.htm). 
+Sonar, a division of DoubleClick, is another third-party advertising company that we partner with to deliver ads to you. In the course of delivering an ad, Sonar Network collects certain non-personally identifiable information about you. Sonar's collection and use of your information is the responsibility of Sonar. For more information about their information gathering practices and "opt-out" procedure of Sonar Network, please click here: Sonar's [Privacy Policy page](http://www.sonar.com/naiprivacy). 
 
 TOP
-
-**VI. 24/7 Media**   
-24/7 Media is another third-party advertising company that we partner with to deliver ads to you. 24/7 Media is committed to the responsible management of consumer information. Internet user privacy is a high priority to 24/7 Media, our advertisers and our Web publishers. Please click here to find out more about [24/7 Media's Privacy Policy](http://www.247media.com/privacy.html). 
 
 **VII. Log Files**   
 Each time an Allrecipes.com page is requested from your browser, we log your computer's IP address into our log files. Your computer has been pre-assigned a 12-digit number. This number is the IP address. We use your IP addresses to analyze trends, administer the site, track your movements on the site, and gather broad demographic information for aggregate use. IP addresses are not linked to your personally identifiable information. 
@@ -129,7 +142,7 @@ By using our Websites, you consent to the collection and use of your information
 If you have any questions about this privacy statement, the practices of this site, or your dealings with Allrecipes.com, please contact us at [thestaff@allrecipes.com](mailto:thestaff@allrecipes.com) or use the following address:   
   
 **Allrecipes.com**  
-321 Minor Avenue North  
+534 Dexter Avenue North  
 Seattle, WA 98109  
 USA
 
