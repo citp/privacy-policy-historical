@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 1999-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19990420105735id_/http%3A//www.poise.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poise.com privacy policy that was archived on 2000-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000416233122id_/http%3A//www.poise.com/privacy.asp) for the most accurate reproduction.*
 
 # The Depend Poise Legal Statement
 
-|  **Privacy Policy**
+**Privacy Policy**
 
 This website is owned and operated by Kimberly-Clark Corporation. Here at Kimberly-Clark, we recognize that many visitors to our site are concerned about the information they provide and how we treat that information. So we've developed a Privacy Policy to address those concerns. We may update the Policy from time to time, so please check in occasionally. 
 
@@ -20,7 +20,7 @@ If you are twelve (12) years old or under, before providing your name, address, 
 
 **If You Want to Buy Products**
 
-Some of our sites, such as, Feminine Care (www.kotex.com), Adult Care (www.depend.com), Infant Care (www.huggies.com), Away From Home (www.k-caway.com) and Professional Health Care (www.kchealthcare.com), offer products that are sold through distributors rather than retail stores. If you write, phone or e-mail us that you are interested in products, such as, KOTEX® WONDERFORM® belts or KOTEX PERSONALS® protective panties, straps for DEPEND® undergarments, HUGGIES® diapers in preemie size, FLUIDSHIELD® disposable face masks or KAYDRY® EX-L wipers, we will ask you if we may pass your name and postal and e-mail addresses to a distributor of these products who can help you to get product information or products, or both. If you agree, we will pass on your name. 
+Some of our sites, such as, Adult Care (www.depend.com), Infant Care (www.huggies.com), Away From Home (www.k-caway.com) and Professional Health Care (www.kchealthcare.com), offer products that are sold through distributors rather than retail stores. If you write, phone or e-mail us that you are interested in products, such as, straps for DEPEND® undergarments, HUGGIES® diapers in preemie size, FLUIDSHIELD® disposable face masks or KAYDRY® EX-L wipers, we will ask you if we may pass your name and postal and e-mail addresses to a distributor of these products who can help you to get product information or products, or both. If you agree, we will pass on your name.
 
 **Cookies**
 
