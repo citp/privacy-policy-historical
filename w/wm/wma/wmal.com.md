@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616221106id_/http%3A//www.wmal.com/abcprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207014000id_/http%3A//wmal.com/abcprivacypolicy.asp) for the most accurate reproduction.*
 
 # WMAL
 
-|  [ ](http://www.adclub.net/cgi-bin/go/fimcnet/Other/01) | [](https://web.archive.org/goout.asp?u=http://www.abcnews.com)  
+|  [](http://adcreatives.radcity.net/event.ng/Type=click&ProfileID=233&RunID=70&AdID=78&GroupID=1&FamilyID=1&TagValues=240&Redirect=http://www.adclub.net/cgi-bin/go/fimcnet/Other/01)  
+  
+|   
+December 6, 2000  
 ---|---  
-| June 16, 2000  
   
 | 
 
@@ -15,7 +17,9 @@
 
 | 
 
-|  |  |  |    
+|  |  |  |  |   
+---|---|---|---|---  
+  
 Any person accessing this site agrees to the following:  
   
 WMAL-AM PRIVACY POLICY  
@@ -85,15 +89,14 @@ By using this site, you signify your assent to the ABC Privacy Policy. If you do
 © ABC. All rights reserved.  
   
 [**Join our Loyal Listener Club Today!**](http://wmal.fimc.net/jointheclub.asp)  
-|  |   
----|---|---|---|---|---  
+|   
   
-[News & Info](https://web.archive.org/newsandinfo.asp) I [Traffic](https://web.archive.org/traffic.asp) I [Program Schedule](https://web.archive.org/complexprogramschedule.asp) I [Personalities](https://web.archive.org/complexpersonalities.asp) I [Your Turn to Speak](https://web.archive.org/yourturntospeak.asp)  
+[News & Info](https://web.archive.org/newsandinfo.asp) I [Traffic](https://web.archive.org/traffic.asp) I [Program Schedule](https://web.archive.org/complexprogramschedule.asp) I [Hosts & Shows](https://web.archive.org/hostsandshows.asp) I [Your Turn to Speak](https://web.archive.org/yourturntospeak.asp)  
 [WMAL Events](https://web.archive.org/wmalevents.asp) I [Contests](https://web.archive.org/contests.asp) I [WMAL Scrapbook](https://web.archive.org/wmalscrapbook.asp) I [Community](https://web.archive.org/community.asp) I [E-Mail Your Lawmaker](https://web.archive.org/goout.asp?u=http://www.house.gov/writerep/)   
-[Lifestyle](https://web.archive.org/lifestyle.asp) I [Money](https://web.archive.org/goout.asp?u=http://www.abcnews.go.com/sections/business) [WMAL Sports](https://web.archive.org/wmalsports.asp) I [Downloads](https://web.archive.org/downloads.asp) I [Destination Disney](https://web.archive.org/destinationdisney.asp) I [Join The Club](https://web.archive.org/jointheclub.asp)  
+[Adopt-A-Pet](https://web.archive.org/adoptapet.asp) I [Money](https://web.archive.org/goout.asp?u=http://www.abcnews.go.com/sections/business) [WMAL Sports](https://web.archive.org/wmalsports.asp) I [Downloads](https://web.archive.org/downloads.asp) I [Destination Disney](https://web.archive.org/destinationdisney.asp) I [Join The Club](https://web.archive.org/jointheclub.asp)  
 [Free E-Mail](http://www.wmalfreemail.com/) I [Contact Us](https://web.archive.org/contactus.asp) I [WMAL Advertisers](https://web.archive.org/wmaladvertisers.asp) I [Buy This](https://web.archive.org/marketplace/default.asp) I [Listen Live](https://web.archive.org/listenlive.asp)   
-[FAQ's](https://web.archive.org/faqs.asp) I [Advertise on WMAL](https://web.archive.org/advertiseonwmal.asp) I  [About This Website](https://web.archive.org/aboutthiswebsite.asp) I  [Home](https://web.archive.org/default.asp) [](http://www.radcity.net/)  
-Copyright © 2000 WMAL-ABC Radio  
-and [ First Internet Media Corp.](https://web.archive.org/goout.asp?u=http://www.fimc.net)[ABC Privacy Policy](https://web.archive.org/abcprivacypolicy.asp)  
+[FAQ's](https://web.archive.org/faqs.asp) I [Advertise on WMAL](https://web.archive.org/advertiseonwmal.asp) I  [About This Website](https://web.archive.org/aboutthiswebsite.asp) I  [Home](https://web.archive.org/default.asp)   
+Copyright © 2000 WMAL-ABC Radio and [Innuity](http://www.innuitymedia.com/)  
+Powered by [Innuity](http://www.innuitymedia.com/) [ABC Privacy Policy](https://web.archive.org/abcprivacypolicy.asp)  
   
 | 
