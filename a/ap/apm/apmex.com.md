@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2004-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040923063051id_/http%3A//apmex.com/privacy.asp%3Forderid%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmex.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402122438id_/http%3A//apmex.com/privacy.asp%3Forderid%3D0) for the most accurate reproduction.*
 
-# Our Commitment To You -- APMEX.com
+# Our Commitment To You - APMEX.com
 
 American Precious Metals Exchange respects your privacy. We will never willfully disclose individually identifiable information about our customers to any third party.
 
@@ -31,4 +31,4 @@ American Precious Metals Exchange uses cookies only to enable you to retrieve fr
 
 ### Change/Update Information
 
-To change or update your information please send an email to [info@APMEX.com](mailto:info@APMEX.com) or [Edit your account online](https://web.archive.org/shop/auth_account.asp?orderid=0)
+To change or update your information please send an email to [info@APMEX.com](mailto:info@APMEX.com) or [Edit your account online](https://web.archive.org/shop/auth_account2_test.asp?orderid=0)
