@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204085138id_/http%3A//www.originlab.com/index.aspx%3Fs%3D1%26lm%3D%2B55%26pid%3D168) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the originlab.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404201644id_/http%3A//www.originlab.com/index.aspx%3Fs%3D1%26lm%3D%2B55%26pid%3D168) for the most accurate reproduction.*
 
 # OriginLab web site - Privacy Policy
 
@@ -87,13 +87,9 @@ Questions about cookies? Read more.....
 
 When you visit **OriginLab.com** , you can surf the site anonymously and access important information without revealing your identity. In order to improve our site, we use "cookies" to track your visit. A cookie is small amount of data that is transferred to your browser by a Web server and can only be read by the server that gave it to you. It functions as your identification card, recording your passwords, purchases, and preferences. It cannot be executed as code or deliver viruses. Most browsers are initially set to accept cookies. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. (For some Web pages that require an authorization, cookies are not optional. Users choosing not to accept cookies will probably not be able to access those pages.) While OriginLab uses cookies to track your visit to **OriginLab.com** , and our Web servers automatically log the IP/Internet address of your computer, this information does not identify you personally and you remain anonymous unless you have otherwise provided OriginLab with personal information.
 
-**TRUSTe Certification**
-
-OriginLab.com is a member of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build trust and confidence in the Internet by promoting the use of fair information practices. Because OriginLab.com wants to demonstrate its commitment to your privacy, we have agreed to publish our information practices and have our privacy practices reviewed for compliance by TRUSTe. 
-
 **Enforcement of this Privacy Statement**
 
-If you have questions regarding this statement, you should first contact OriginLab.com by e-mail. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at their [Web site](http://www.truste.org/users/users_watchdog.html). TRUSTe will serve as a liaison with OriginLab.com to resolve your concerns. 
+If you have questions regarding this statement, you should contact OriginLab.com by e-mail. 
 
 **Changes to this Statement**
 
@@ -106,4 +102,4 @@ OriginLab welcomes your comments regarding this privacy statement, please contac
 [OriginLab.com](mailto:info@originlab.com)  
 OriginLab Corporation  
 One Roundhouse Plaza  
-Northampton, MA 01060  
+Northampton, MA 01060 
