@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cunard.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202000911id_/http%3A//cunard.com/index.cfm%3Fmethod%3DPrivacyPolicy%26shipline%3Dhome%26content%3DPrivacyPolicy%26Lang%3Dus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cunard.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002134527id_/http%3A//cunard.com/home/privacypolicy.asp) for the most accurate reproduction.*
 
 # Cunard Line
 
@@ -10,7 +10,7 @@ You can generally visit our web site without telling us who you are or revealing
 
 Cunard Line may use the information it gathers for its own internal purposes. Cunard's goal in collecting personal information online is to continually improve the content of our web site and to offer consumers with cruise products that best meet your preferences and desires. Cunard Line may use the personal data you provide online to send you information about new products and services, or offers that we feel may be of interest to you. However, we will protect your online information in the same manner that we protect our passenger information obtained through other means. 
 
-Cunard Line reserves the right to change this policy at any time. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. By using the Cunard.com site, you signify your agreement with the terms of our privacy statement. If you have any questions about Cunard's privacy policy, please contact us.  
+Cunard Line reserves the right to change this policy at any time. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. By using the Cunard.com site, you signify your agreement with the terms of our privacy statement. If you have any questions about Cunard's privacy policy, please contact us.   
 
 
 | 
