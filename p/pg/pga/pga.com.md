@@ -1,26 +1,32 @@
-> *The following text is extracted and transformed from the pga.com privacy policy that was archived on 2000-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000302232921id_/http%3A//www.pga.com/About_Us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pga.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205155900id_/http%3A//www.pga.com/About_Us/privacy.html) for the most accurate reproduction.*
 
 # PGA.com Privacy Statement
-
-| 
 
 PGA.com Privacy Statement
 
   
 
 
-We respect your privacy. Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to PGA.com will be held with the utmost care, and will not be used in ways that you have not consented to. A more detailed explanation about how we safeguard your personal information is described below. If you have any questions, please don't hesitate to let us know. 
+PGA.com’s policy is to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. 
 
-**Resale or disclosure of information to third parties:**
+**Aggregate and Personal Information**
 
-PGA.com does not sell, rent, loan, trade, or lease any personal information collected at our site, including membership forms or email lists. 
+PGA.com shares aggregate information about our users with advertisers, business partners, sponsors, and other third parties. For example, we will share information indicating what percentages of PGA.com’s users are female and male. This data is used to customize PGA.com’s content and advertising to deliver a more relevant product to our users. 
 
-**Browser information collected on the website:** PGA.com analyzes our website logs to constantly improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site. 
+Personal information, such as your name, e-mail address, and birth date, provided by users of PGA.com who are 13 years of age or over may be used for marketing and promotional purposes by PGA.com, our affiliates, and parent, and by companies that have been prescreened by PGA.com. To keep you in control of your personal information, we allow you to "opt-out" by indicating that you do not wish to receive communications from PGA.com about new features or services, and/or receive communications from third-party companies that offer a product or service that we think would be of value to you. 
 
-**Use of cookies:** We do not use cookies on this site at this time, however we currently are in development of a system that will utilize cookies so that we will better be able to manage our data. 
+**Policies for Children Under 13 Years Old**
 
-**Privacy of our email lists:** PGA.com maintains several email lists to keep PGA.com users, the golf industry, and interested members of the general public informed about current events. Individuals must affirmatively request to join our mailing lists by signing up through a form on our web site. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized PGA.com staff, including other list subscribers. 
+PGA.com will not collect or maintain any personal information from children under 13 years of age without the express consent of their parent or guardian. 
 
-If you have any further questions or concerns, please feel free to [contact us directly.](https://web.archive.org/Contact_Us/index.cfm)  
-  
----|---
+Certain interactive features of PGA.com require registration to participate. All registrants will be required to enter their full name, age, zip code, e-mail address and such other information as we may on occasion request. When a child under 13 years of age tries to register for such features on PGA.com, we also request an e-mail address of the child’s parent or guardian, which is only used to notify the parent or guardian of the child’s attempted registration. By following the instructions provided in the notice, the parent or guardian will be given the option to approve or decline the child’s registration. If the parent or guardian declines the child’s registration or fails to approve the registration within the time period specified in the notice, the registration will not be activated and PGA.com will not retain any personal information submitted by the child. PGA.com only requests the disclosure of personal information that is reasonably necessary to participate in the feature for which the child is attempting to register. Even after a child’s registration is approved by his or her parent or guardian, PGA.com will not share such information with third-party companies. PGA.com will not contact users who are under the age of 13 about special offers or for marketing purposes. 
+
+**Links to Other Sites**
+
+Users should be aware that there are links on our site that take you outside our site to other sites that are beyond our control. The PGA.com Privacy Policy addresses only the use and disclosure of information we collect from you on the PGA.com site. 
+
+**Your Acceptance of These Terms**
+
+By using PGA.com, you signify your consent to the collection and use of personal information by PGA.com as outlined in this Privacy Policy. If you do not agree to this policy, please do not use this Web site. If we make any material changes to the PGA.com Privacy Policy, those changes will be posted on this page so that you are always aware of what personal information PGA.com collects and how that information is used. Since this policy may change from time to time, you should check back periodically. Your continued use of PGA.com following the posting of changes to these terms will mean you accept those changes. 
+
+If you have any questions or concerns regarding PGA.com’s Privacy Policy, you should contact PGA.com at [info@pga.com](mailto:info@pga.com)
