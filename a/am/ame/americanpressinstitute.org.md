@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the americanpressinstitute.org privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001235643id_/http%3A//americanpressinstitute.org/news.cfm%3Fid%3D83) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanpressinstitute.org privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210045929id_/http%3A//americanpressinstitute.org/news.cfm%3Fid%3D83) for the most accurate reproduction.*
 
 # Privacy Policy - American Press Institute
 
-[](https://web.archive.org/mailto/?page_to_send=83)   
-Published: Tuesday, September 24, 2002
+[](https://web.archive.org/mailto/?page_to_send=83) [AIM THIS PAGE](aim:goim?message=I+saw+this+on+API's+Web+site+and+thought+you+might+be+interested:<br><b>Privacy+Policy</b><br>http://www.americanpressinstitute.org/news.cfm?id=83)   
+  
+
 
 The American Press Institute has a long tradition of honoring the privacy of its users. 
 
