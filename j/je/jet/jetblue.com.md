@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jetblue.com privacy policy that was archived on 2002-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020406024713id_/http%3A//jetblue.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetblue.com privacy policy that was archived on 2002-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020802085120id_/http%3A//www.jetblue.com/privacy.html) for the most accurate reproduction.*
 
-# privacy policy - JetBlue
+# your privacy - JetBlue
 
 JetBlue Airways has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: JetBlue.com.
 
