@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nysegov.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605131937id_/http%3A//www.nysegov.com/citguide.cfm%3Fdisplaymode%3Dnormal%26fontsize%3D100%26contrast%3Dlod%26context%3Dcitguide%26content%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nysegov.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205124841id_/http%3A//nysegov.com/citGuide.cfm%3Fdisplaymode%3Dnormal%26fontsize%3D100%26contrast%3Dlod%26context%3Dcitguide%26content%3Dprivacy) for the most accurate reproduction.*
 
 # New York State | Citizen Guide
 
@@ -62,7 +62,7 @@ Further, the disclosure of information, including personal information, collecte
 
 **Retention of Information Collected Through this Website**
 
-The information collected through this website is retained by the State in accordance with the records retention and disposition requirements of the New York State Arts and Cultural Affairs Law. Information on the requirements of the Arts and Cultural Affairs Law may be found at <http://www.archives.nysed.gov/a/nysaservices/ns_gov_start_records-dis.shtml>. In general,  Internet services logs, comprising electronic files or automated logs created to monitor access and use of state agency services provided through this website, are retained for one year and then destroyed. Information, including personal information that you submit in an e-mail or when you initiate an online transaction such as a survey, registration form, or order form is retained in accordance with the records retention and disposition schedule established for the records of the State agency program unit to which you submitted the information.  Information concerning these record retention and disposition schedules may be obtained through the Internet privacy policy contact listed in this policy.
+The information collected through this website is retained by the State in accordance with the records retention and disposition requirements of the New York State Arts and Cultural Affairs Law. Information on the requirements of the Arts and Cultural Affairs Law may be found at <http://www.archives.nysed.gov/a/nysaservices/ns_mgr_start_rmlaw.shtml>. In general,  Internet services logs, comprising electronic files or automated logs created to monitor access and use of state agency services provided through this website, are retained for one year and then destroyed. Information, including personal information that you submit in an e-mail or when you initiate an online transaction such as a survey, registration form, or order form is retained in accordance with the records retention and disposition schedule established for the records of the State agency program unit to which you submitted the information.  Information concerning these record retention and disposition schedules may be obtained through the Internet privacy policy contact listed in this policy.
 
 **Access to and Correction of Personal Information Collected Through this Website**
 
@@ -92,4 +92,4 @@ Information provided on this website is intended to allow the public immediate a
 
 For questions regarding this Privacy Policy please contact NYECOM@oft.state.ny.us. 
 
-Policy Last Update Date: June 25, 2002. 
+Policy Last Update Date: November 7, 2003. 
