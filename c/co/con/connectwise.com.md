@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the connectwise.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610015721id_/http%3A//www.connectwise.com/main.cfm%3Fpageid%3D247) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the connectwise.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217040400id_/http%3A//www.connectwise.com/main.cfm%3Fpageid%3D247) for the most accurate reproduction.*
 
 # ConnectWise - Privacy Statement
 
@@ -9,7 +9,7 @@
 ---|---  
   
   
-» | **[Contact us](https://web.archive.org/web/20000610015721id_/http%3A//www.connectwise.com/main.cfm?action=getpage&pageid=250&contactabout=Privacy%20Statement) **  
+» | **[Contact us](https://web.archive.org/web/20001217040400id_/http%3A//www.connectwise.com/main.cfm?action=getpage&pageid=250&contactabout=Privacy%20Statement) **  
 Click to contact us about:  
 "Privacy Statement"  
   
@@ -75,5 +75,5 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact ConnectWise, Inc. |  | 
 
-What's a Weblication? A full featured, desktop-like application that runs inside of a Web browser. Why ConnectWise? We've pioneered fast and simple Weblications to take business to the next level. Check out our [innovations](http://www.connectwise.com/main.cfm?action=getpage&pageid=279) today.  
+Connectwise makes it easy for your company to splash onto the Internet. Take a look at our [Internet expertise](http://www.connectwise.com/main.cfm?action=getpage&pageid=278) today.  
 
