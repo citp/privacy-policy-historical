@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602131211id_/http%3A//www.govexec.com/fyi/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govexec.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216041616id_/http%3A//www.govexec.com/fyi/privacy.htm) for the most accurate reproduction.*
 
 # Government Executive Magazine -
 
@@ -14,6 +14,11 @@ The information we collect is used to improve the content of our Web sites and t
 
 **What We Tell Others About You**   
 We do not furnish the information that we automatically gather about you personally to third parties unless we are legally required to do so. We may provide statistical usage data in the aggregate—never information about you personally—to our partners about how visitors use _GovExec.com_. From time to time, we may also be approached by third parties with an interest in identifying subscribers to _Government Executive_. We may provide _Government Executive_ 's mailing list to such third parties if we believe you would be interested in hearing from them. And in some cases, we may be required by law to disclose information about you to a third party. 
+
+**DoubleClick**   
+_GovExec.com_ contracts with [DoubleClick](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&) for internet advertising technologies and services. DoubleClick does not use your name, address, email address, or phone number to deliver Internet ads. Web site users can opt-out of the DoubleClick cookie, so that no unique information or number is associated with your computer's browser by [clicking here](http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp?asp_object_1=&).
+
+For complete information on DoubleClick's privacy policy, [click here](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&). 
 
 **Any Questions?**   
 For more information on our Privacy Assurance Policy, contact us via e-mail at [webmaster@govexec.com](mailto:webmaster@govexec.com). 
