@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202222948id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the npr.org privacy policy that was archived on 2004-06-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040621225815id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -39,397 +39,210 @@
 
 
 <noindex>
-<script language="JavaScript">
-if (window != top)
-	{
-		top.location.href = location.href;
-	}
-
-function checkPrograms(queryText)
+<div id="header">
+	<script type="text/javascript">
+	if (window != top)
 		{
-						returnVal=false; //unless changed later in the function
-						queryText=queryText.toLowerCase();
-
-						if (queryText=="morning edition") {
-								window.location="http://www.npr.org/programs/morning/index.html";
-						}
-						else if (queryText=="day to day" || queryText=="d2d") {
-								window.location="http://www.npr.org/programs/day/index.html";
-						}
-						else if (queryText=="fresh air" || queryText=="terry gross") {
-								window.location="http://freshair.npr.org";
-						}
-						else if (queryText=="tavis smiley" || queryText=="tavis smiley show" || queryText=="the tavis smiley show" || queryText=="tavis") {
-								window.location="http://www.npr.org/programs/tavis/index.html";
-						}
-						else if (queryText=="all things considered") {
-								window.location="http://www.npr.org/programs/atc/index.html";
-						}
-						else if (queryText=="talk of the nation" || queryText=="totn") {
-								window.location="http://www.npr.org/programs/totn/index.html";
-						}
-						else if (queryText=="car talk") {
-								newWindow=window.open("http://cartalk.cars.com/","CarTalk","scrollbars=yes,width=640,height=480");
-								if (((navigator.appName=="Netscape") && ((navigator.appVersion).charAt(0) > 2)))
-										{
-												newWindow.focus()
-										}
-						}
-						else if (queryText=="performance today") {
-								window.location="http://www.npr.org/programs/pt/index.html";
-						}
-						else if (queryText=="creators at carnegie"){
-								window.location="http://www.npr.org/programs/creators/index.html";
-						}
-						else if (queryText=="weekend edition saturday") {
-								window.location="http://www.npr.org/programs/wesat/index.html";
-						}
-						else if (queryText=="weekend edition sunday") {
-								window.location="http://www.npr.org/programs/wesun/index.html";
-						}
-						else if (queryText=="science friday") {
-								window.location="http://www.npr.org/programs/scifri/index.html";
-						}
-						else if (queryText=="weekend all things considered") {
-								window.location="http://www.npr.org/programs/atc/index.html";
-						}
-						else if (queryText=="national press club") {
-								window.location="http://www.npr.org/programs/npc/index.html";
-						}
-						else if (queryText=="national story project") {
-								window.location="http://www.npr.org/programs/watc/storyproject/index.html";
-						}
-						else if (queryText=="news") {
-								window.location="http://news.npr.org/index.html";
-						}
-						else {
-								returnVal=true;
-						}
-						return(returnVal);
-
-		}
-	function searchFields(queryText)
-		{
-			if (queryText.value=="Enter Keywords")
-				{
-					queryText.value="";
-				}
-			else if (queryText.value=="")
-				{
-					queryText.value="Enter Keywords";
-				}
+			top.location.href = location.href;
 		}
 
-	function changeLocation(selVal) {
-		if(selVal != "null"){
-			if(selVal.indexOf('?') != -1){
-				selVal = selVal.slice(0,-1);
-				var newWindow = window.open(selVal, '', 'scrollbars,resizable,toolbar,status,menubar,location');
-			} else {
-				window.location.href = selVal;
+	function checkPrograms(queryText)
+			{
+							returnVal=false; //unless changed later in the function
+							queryText=queryText.toLowerCase();
+
+							if (queryText=="morning edition") {
+									window.location="http://www.npr.org/programs/morning/";
+							}
+							else if (queryText=="day to day" || queryText=="d2d") {
+									window.location="http://www.npr.org/programs/day/";
+							}
+							else if (queryText=="fresh air") {
+									window.location="http://freshair.npr.org";
+							}
+							else if (queryText=="tavis smiley" || queryText=="tavis smiley show" || queryText=="the tavis smiley show" || queryText=="tavis") {
+									window.location="http://www.npr.org/programs/tavis/";
+							}
+							else if (queryText=="all things considered") {
+									window.location="http://www.npr.org/programs/atc/";
+							}
+							else if (queryText=="all songs considered" || queryText=="asc") {
+									window.location="http://www.npr.org/programs/asc/";
+							}
+							else if (queryText=="talk of the nation" || queryText=="totn") {
+									window.location="http://www.npr.org/programs/totn/";
+							}
+							else if (queryText=="car talk") {
+									newWindow=window.open("http://cartalk.cars.com/","CarTalk","scrollbars=yes,width=640,height=480");
+									if (((!navigator.appname=="Netscape") || ((!navigator.appVersion).charAt(0) > 2)))
+											{
+													newWindow.focus()
+											}
+							}
+							else if (queryText=="performance today") {
+									window.location="http://www.npr.org/programs/pt/";
+							}
+							else if (queryText=="creators at carnegie"){
+									window.location="http://www.npr.org/programs/creators/";
+							}
+							else if (queryText=="weekend edition saturday") {
+									window.location="http://www.npr.org/programs/wesat/";
+							}
+							else if (queryText=="weekend edition sunday") {
+									window.location="http://www.npr.org/programs/wesun/";
+							}
+							else if (queryText=="science friday") {
+									window.location="http://www.npr.org/programs/scifri/";
+							}
+							else if (queryText=="weekend all things considered") {
+									window.location="http://www.npr.org/programs/atc/";
+							}
+							else if (queryText=="national press club") {
+									window.location="http://www.npr.org/programs/npc/";
+							}
+							else if (queryText=="national story project") {
+									window.location="http://www.npr.org/programs/watc/storyproject/";
+							}
+							else if (queryText=="news") {
+									window.location="http://news.npr.org/";
+							}
+							else if (queryText == "wait wait" || queryText == "wait wait don\'t tell me") {
+									window.location="http://www.npr.org/programs/waitwait/";
+							}
+							else if (queryText == "motley fool") {
+									window.location="http://www.npr.org/programs/fool/";
+							}
+							else if (queryText == "radio expeditions") {
+									window.location="http://www.npr.org/programs/re/";
+							}
+							else if (queryText == "marketplace" || queryText == "market place") {
+								window.location="http://www.npr.org/programs/day/marketplace/";
+							}
+							else {
+									returnVal=true;
+							}
+							return(returnVal);
+
+			}
+		function searchFields(queryText)
+			{
+				if (queryText.value=="Enter Keywords")
+					{
+						queryText.value="";
+					}
+				else if (queryText.value=="")
+					{
+						queryText.value="Enter Keywords";
+					}
+			}
+
+		function changeLocation(selVal) {
+			if(selVal != "null"){
+				if(selVal.indexOf('?') != -1){
+					selVal = selVal.slice(0,-1);
+					var newWindow = window.open(selVal, '', 'scrollbars,resizable,toolbar,status,menubar,location');
+				} else {
+					window.location.href = selVal;
+				}
 			}
 		}
-	}
 
-</script>
-<table border="0" cellpadding="0" cellspacing="0" width="746">
-	<tbody><tr>
-		<td class="borders" width="2" valign="top"><a name="top"><img src="http://www.npr.org/images/spacer.gif" width="2" height="2" border="0"></a></td>
-		<td class="leftcol" width="140" valign="bottom"><p class="textonly">Visit our <a class="textonly" href="http://www.npr.org/about/textonly.html">text-only</a> page</p><a href="http://www.npr.org/"><img src="http://www.npr.org/images/logo_npr.gif" alt="npr" width="140" height="47" border="0"></a></td>
-		<td width="602" align="center" valign="bottom" background="http://www.npr.org/images/nav_background.gif">
-		<table border="0" cellpadding="5" cellspacing="0" width="602">
-		 	<tbody><tr>
-		 		    <td width="1" valign="top" background=""><img src="http://www.npr.org/images/spacer.gif" width="1" height="2" border="0"></td>
-<form name="frmPrograms" method="post" action="http://discover.npr.org/redirect/redirect.jhtml"></form><td valign="middle" background="">
-
-<!--
-HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
-	To open the page in a new window add a ? to the end of the url.  Otherwise, the page will open in the existing window.
--->
-<select name="selPrograms" onchange="changeLocation(document.frmPrograms.selPrograms.options[document.frmPrograms.selPrograms.selectedIndex].value)">
-
-
-<option value="http://www.npr.org/about/programs/allnprprograms.html">NPR Programming</option>
-
-<option value="null"></option>
-
-<option value="http://www.npr.org/about/programs/allnprprograms.html">List All NPR Programming</option>
-
-<option value="null"></option>
-
-<option value="null">--------------------------</option>
-
-<option value="null">Most Requested</option>
-
-<option value="null">--------------------------</option>
-
-<option value="http://www.npr.org/programs/morning/index.html">Morning Edition</option>
-
-<option value="http://www.npr.org/programs/day/index.html">Day to Day</option>
-
-<option value="http://www.npr.org/programs/atc/index.html">All Things Considered</option>
-
-<option value="http://www.npr.org/programs/wesat/index.html">Weekend Edition Saturday</option>
-
-<option value="http://www.npr.org/programs/wesun/index.html">Weekend Edition Sunday</option>
-
-<!-- <option value="http://www.npr.org/programs/watc/index.html">Weekend All Things Considered</option> -->
-
-<option value="http://www.npr.org/programs/totn/index.html">Talk of the Nation</option>
-
-<option value="http://www.npr.org/programs/scifri/index.html">Talk of the Nation Science Friday</option>
-
-<option value="http://freshair.npr.org/?">Fresh Air with Terry Gross</option>
-
-<option value="http://www.npr.org/about/programs/cartalkjump.html?">Car Talk</option>
-
-<option value="http://www.npr.org/programs/pt/index.html">Performance Today</option>
-
-<option value="http://www.npr.org/programs/tavis/index.html">The Tavis Smiley Show</option>
-
-<option value="null"></option>
-
-<option value="null">--------------------------</option>
-
-<option value="http://www.npr.org/about/programs/news.html">NPR News</option>
-
-<option value="null">--------------------------</option>
-
-<option value="http://www.npr.org/programs/atc/index.html">All Things Considered</option>
-
-<option value="http://www.npr.org/programs/day/index.html">Day to Day</option>
-
-<option value="http://www.npr.org/audiohelp/hourlynews.html">Hourly News</option>
-
-<option value="http://www.npr.org/programs/morning/index.html">Morning Edition</option>
-
-<option value="http://www.npr.org/programs/nprnow/index.html">NPR Now</option>
-
-<!-- <option value="http://www.npr.org/programs/watc/index.html">Weekend All Things Considered</option> -->
-
-<option value="http://www.npr.org/programs/wesat/index.html">Weekend Edition Saturday</option>
-
-<option value="http://www.npr.org/programs/wesun/index.html">Weekend Edition Sunday</option>
-
-<option value="null"></option>
-
-<option value="null">--------------------------</option>
-
-<option value="http://www.npr.org/about/programs/talk.html">Talk</option>
-
-<option value="null">--------------------------</option>
-
-<option value="http://www.theconnection.org/?">The Connection</option>
-
-<option value="http://www.wamu.org/dr/?">The Diane Rehm Show</option>
-
-<option value="http://freshair.npr.org/?">Fresh Air with Terry Gross</option>
-
-<option value="http://www.npr.org/programs/fool/index.html">The Motley Fool Radio Show</option>
-
-<option value="http://www.npr.org/programs/nprtalk/index.html">NPR Talk</option>
-
-<option value="http://www.npr.org/programs/totn/index.html">Talk of the Nation</option>
-
-<option value="http://www.npr.org/programs/scifri/index.html">Talk of the Nation Science Friday</option>
-
-<option value="http://www.npr.org/programs/tavis/index.html">The Tavis Smiley Show</option>
-
-<option value="null"></option>
-
-<option value="null">--------------------------</option>
-
-<option value="http://www.npr.org/about/programs/music.html">Music</option>
-
-<option value="null">--------------------------</option>
-
-<option value="http://www.npr.org/programs/asc/index.html">All Songs Considered</option>
-
-<option value="http://www.npr.org/programs/creators/index.html">Creators at Carnegie</option>
-
-<option value="http://www.npr.org/programs/inrehearsal/index.html">In Rehearsal</option>
-
-<option value="http://www.npr.org/programs/jazzprofiles/index.html">Jazz Profiles</option>
-
-<option value="http://www.npr.org/programs/jazzset/index.html">JazzSet with Dee Dee Bridgewater</option>
-
-<option value="http://www.pianojazz.org/?">Marian McPartland's Piano Jazz</option>
-
-<!-- <option>Music played between segments</option> -->
-
-<option value="http://www.nprjazz.org/links/?">NPR Basic Jazz Record Library</option>
-
-<option value="http://www.nprjazz.org?">NPRJazz.org</option>
-
-<option value="http://www.npr.org/programs/specials/vote/index.html">The NPR 100</option>
-
-<option value="http://www.npr.org/programs/worldofopera/index.html">World of Opera</option>
-
-<option value="http://www.npr.org/programs/pt/index.html">Performance Today</option>
-
-<option value="http://www.npr.org/programs/pt/features/pt50.html">PT 50</option>
-
-<option value="http://www.npr.org/programs/symphonycast/index.html">SymphonyCast</option>
-
-<option value="http://www.sundaybaroque.org?">Sunday Baroque</option>
-
-<option value="http://www.npr.org/programs/thistle/index.html">The Thistle and Shamrock</option>
-
-<option value="null"></option>
-
-<option value="null">--------------------------</option>
-
-<option value="null">Additional Programming</option>
-
-<option value="null">--------------------------</option>
-
-<option value="http://www.npr.org/programs/theride/index.html">Along for the Ride</option>
-
-<option value="http://www.americanradioworks.org/?">American Radio Works</option>
-
-<option value="http://cartalk.cars.com/?">Car Talk</option>
-
-<option value="http://www.npr.org/programs/specials/cfoa/index.html">The Changing Face of America</option>
-
-<option value="http://www.dnafiles.org/?">The DNA Files</option>
-
-<option value="http://www.justicetalking.org/?">Justice Talking</option>
-
-<option value="http://www.latinousa.org/?">Latino USA</option>
-
-<option value="http://www.loe.org/?">Living On Earth</option>
-
-<option value="http://www.npr.org/programs/lnfsound/?">Lost and Found Sound</option>
-
-<option value="http://www.npr.org/programs/musings/index.html">Musings with Alphonse Vinh</option>
-
-<option value="http://www.npr.org/programs/npc/index.html">National Press Club</option>
-
-<option value="http://www.npr.org/programs/watc/storyproject/index.html">National Story Project</option>
-
-<option value="http://www.npr.org/programs/now/index.html">NOW with Bill Moyers</option>
-
-<option value="http://www.npr.org/programs/specials/poll/index.html">The NPR/Kaiser/Kennedy School Polls</option>
-
-<option value="http://www.onlyagame.org/?">Only A Game</option>
-
-<option value="http://www.onthemedia.org?">On the Media</option>
-
-<option value="http://www.npr.org/programs/morning/features/patc/index.html">Present at the Creation</option>
-
-<option value="http://www.npr.org/programs/re/index.html">Radio Expeditions</option>
-
-<option value="http://www.wgbh.org/radio/saysyou/?">Says You!</option>
-
-<option value="http://www.symphonyspace.org/genres/shorts_static.php?id=31?">Selected Shorts</option>
-
-<option value="http://www.npr.org/programs/talkingplants/index.html">Talking Plants</option>
-
-<option value="http://www.npr.org/programs/waitwait/index.html">Wait Wait... Don't Tell Me!</option>
-
-<option value="http://www.npr.org/programs/atc/features/2002/yiddish/index.html">Yiddish Radio Project</option>
-
-<option value="null"></option>
-
-<option value="null">---------------------------</option>
-
-<option value="null"></option>
-
-<option value="http://www.npr.org/about/programs/other.html">Other Public Radio Programs . . .</option>
-
-<option value="null"></option>
-
-<option value="http://www.npr.org/archives/index.html">Search the Audio Archives</option>
-
-<option value="null"></option>
-
-<option value="http://www.npr.org/stations/index.php">Find a local station</option>
-
-<option value="null"></option>
-
-<option value="http://www.npr.org/worldwide/index.html">NPR Worldwide</option>
-
-<option value="null"></option>
-
-<option value="http://www.npr.org/transcripts/index.html">Tapes and Transcripts</option>
-
-<option value="null"></option>
-
-<option value="http://www.npr.org/audiohelp/audioplayers.html">Download Audio Players</option>
-
-<option value="null"></option>
-
-<option value="http://www.npr.org/audiohelp/index.html">Audio Help</option>
-
-<option value="null"></option>
-
-<option value="http://www.npr.org/about/programs/allnprprograms.html">List All NPR Programs</option>
-
-<option value="null"></option>
-
-<option value="http://www.npr.org/about/sirius.html">NPR on Sirius Satellite Radio</option>
-
-<option value="null"></option>
-
-</select>
-		 		   </td>
-		 		   <td width="28" valign="middle" background=""><input type="image" src="http://www.npr.org/images/go.gif" alt="go" width="28" height="20" border="0" onclick="if (document.frmPrograms.selPrograms.options[document.frmPrograms.selPrograms.selectedIndex].value=='null') document.frmPrograms.selPrograms.options.selectedIndex=0;"></td>
-
-		 		   <td width="100%" align="center" valign="middle" background=""><img src="http://www.npr.org/images/spacer.gif" width="1" height="1" border="0"></td>
-		 		   <form method="GET" action="http://search1.npr.org/search97cgi/s97_cgi" name="search" onsubmit="return checkPrograms(document.search.CleanQuery.value);"></form><td align="right" valign="middle" background=""><input size="18" name="CleanQuery" value=""></td>
-<input type="hidden" name="ResultTemplate" value="allow_re_sort.hts">
-		<input type="hidden" name="SortSpec" value="Date Desc Score Desc">
-		<input type="hidden" name="ViewTemplate" value="docview.hts">
-  		<input type="hidden" name="collection" value="ALL02">
-		<input type="hidden" name="Action" value="FilterSearch">
-		<input type="hidden" name="filter" value="topic_filter.NEW.hts">
-		<input type="hidden" name="QueryText" value="">
-
-		 		   <td width="51" valign="middle" background=""><input type="image" src="http://www.npr.org/images/search.gif" alt="FIND" width="51" height="20" border="0"></td>
- 		   			<td valign="middle" background=""> <a href="http://www.npr.org/archives/searchhelp.html" class="teaserlink">Help</a></td>
- 		   			<td width="1" valign="top" background=""><img src="http://www.npr.org/images/spacer.gif" width="1" height="2" border="0"></td>
-		 	</tr>
-		 </tbody></table>
-		 		 <table border="0" cellpadding="0" cellspacing="5" width="580">
-		 	<tbody><tr>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://news.npr.org/index.html">news</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/archives/index.html">audio archives</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/transcripts/index.html">transcripts</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/yourturn/index.html">discussions</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/stations/index.php">find a station</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/nprshop_top_nav.html" target="_blank">shop</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/about/index.html?loc=topnav">about npr</a></p></td>
-				<td align="center" valign="bottom" background=""><p class="topnav"><a class="topnav" href="http://www.npr.org/contact/index.html">contact npr</a></p></td>
-		 	</tr>
-		 </tbody></table>
-		</td>
-		<td class="borders" width="2" valign="top"><img src="http://www.npr.org/images/spacer.gif" width="2" height="2" border="0"></td>
-	</tr>
-</tbody></table>
-
-<script language="JavaScript">
-	url = window.location.href;
-	httpFind = url.indexOf("://");
-	periodFind = url.indexOf(".", httpFind + 3)
-	web_dir = url.substring(httpFind + 3, periodFind);
-
-	if (web_dir == "search")
-		{
-			pagetype = "title";
-		}
-	else
-		{
-			pagetype = "index.html";
-		}
-
-</script>
-
-<!-- BEGIN IBM SURFAID CODE -->
-<!-- Copyright IBM Corporation, 2001, 2002 -->
-<script language="JavaScript1.1">var SA_ID="nprpix;npr";</script>
-<script language="JavaScript1.1" src="http://stats.surfaid.ihost.com/sacdcoc.js"></script>
-<noscript><img src="http://stats.surfaid.ihost.com/rc/images/uc.GIF?1.11&nprpix&npr&noscript" height="1" width="1" alt="" border="0"></noscript>
-<!-- END IBM SURFAID CODE -->
+	</script>
+
+	<div id="skipnav"><a href="#content">Skip Navigation</a></div>
+
+	<a href="http://www.npr.org/"><img src="http://www.npr.org/images/logo_npr.gif" alt="NPR Home Page" height="47" width="140" id="logo"></a>
+
+	<div id="searchcontainer">
+		<div id="selectprograms">
+			<form name="frmPrograms" id="frmPrograms" method="post" action="http://discover.npr.org/redirect/redirect.jhtml">
+			<!--
+			HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
+				To open the page in a new window add a ? to the end of the url.  Otherwise, the page will open in the existing window.
+			-->
+				<select name="selPrograms" id="selPrograms" onchange="changeLocation(document.frmPrograms.selPrograms.options[document.frmPrograms.selPrograms.selectedIndex].value)">
+					<option value="null" selected="selected">Programs and Schedules</option>
+					<option value="null"></option>
+					<option value="http://www.npr.org/programs/">All Programs A-Z</option>
+					<option value="http://www.npr.org/about/schedules/">All Schedules</option>
+					<option value="null"></option>
+					<option value="null">MOST VISITED PROGRAMS</option>
+					<option value="http://www.npr.org/programs/asc/">All Songs Considered</option>
+					<option value="http://www.npr.org/programs/atc/">All Things Considered</option>
+					<option value="http://cartalk.cars.com?">Car Talk</option>
+					<option value="http://www.npr.org/programs/day/">Day to Day</option>
+					<option value="http://www.wamu.org/dr/?">The Diane Rehm Show</option>
+					<option value="http://freshair.npr.org/?">Fresh Air with Terry Gross</option>
+					<option value="http://www.npr.org/programs/morning/">Morning Edition</option>
+					<option value="http://www.npr.org/programs/fool/">The Motley Fool Radio Show</option>
+					<option value="http://www.npr.org/programs/pt/">Performance Today</option>
+					<option value="http://www.npr.org/programs/totn/">Talk of the Nation</option>
+					<option value="http://www.npr.org/programs/tavis/">The Tavis Smiley Show</option>
+					<option value="http://www.npr.org/programs/waitwait/">Wait Wait... Don't Tell Me!</option>
+					<option value="http://www.npr.org/programs/wesat/">Weekend Edition Saturday</option>
+					<option value="http://www.npr.org/programs/wesun/">Weekend Edition Sunday</option>
+					<option value="null"></option>
+					<option value="http://www.npr.org/about/schedules/">SCHEDULES</option>
+					<option value="http://www.npr.org/stations/index.php">NPR Stations' Schedules</option>
+					<option value="http://www.npr.org/audiohelp/progstream.html">NPR.org Program Stream</option>
+					<option value="http://www.npr.org/worldwide/">NPR Worldwide</option>
+					<option value="http://www.npr.org/about/sirius.html">NPR on Sirius Satellite Radio</option>
+					<option value="null"></option>
+				</select>
+				<input type="button" value="select" class="button" id="btnSelect" onclick="if (document.frmPrograms.selPrograms.options[document.frmPrograms.selPrograms.selectedIndex].value=='null') document.frmPrograms.selPrograms.options.selectedIndex=0;">
+			</form>
+		</div>
+
+		<div id="searchtext">
+			<form method="get" action="http://search1.npr.org/search97cgi/s97_cgi" name="searchForm" onsubmit="return checkPrograms(document.searchForm.cleanQuery.value);">
+					<p>
+						<input type="text" name="cleanQuery" id="cleanQuery" value="Search NPR.org" onfocus="this.value='';" onblur="if(this.value==''){this.value='Search NPR.org';}">
+						<input type="button" value="search" class="button" id="btnSearch" onclick="if(checkPrograms(document.searchForm.cleanQuery.value)){this.form.submit();}">
+						<input type="hidden" name="ResultTemplate" value="allow_re_sort.hts">
+						<input type="hidden" name="SortSpec" value="Date Desc Score Desc">
+						<input type="hidden" name="ViewTemplate" value="docview.hts">
+						<input type="hidden" name="collection" value="ALL02">
+						<input type="hidden" name="Action" value="FilterSearch">
+						<input type="hidden" name="filter" value="topic_filter.NEW.hts">
+						<input type="hidden" name="QueryText" value="">
+					</p>
+			</form>
+		</div>
+	</div>
+
+	<ul id="nav">
+		<li><a href="http://www.npr.org/archives/">archives</a></li>
+		<li><a href="http://www.npr.org/transcripts/">transcripts</a></li>
+		<li><a href="http://www.npr.org/yourturn/">discussions</a></li>
+		<li><a href="http://www.npr.org/stations/">stations</a></li>
+		<li><a href="http://shop.npr.org" target="_blank">npr shop</a></li>
+		<li><a href="http://www.npr.org/about/">about npr</a></li>
+		<li><a href="http://www.npr.org/help/">help</a></li>
+	</ul>
+
+	<script type="text/javascript">
+		url = window.location.href;
+		httpFind = url.indexOf("://");
+		periodFind = url.indexOf(".", httpFind + 3)
+		web_dir = url.substring(httpFind + 3, periodFind);
+
+		if (web_dir == "search")
+			{
+				pagetype = "title";
+			}
+		else
+			{
+				pagetype = "index.html";
+			}
+	</script>
+
+	<!-- BEGIN IBM SURFAID CODE -->
+	<!-- Copyright IBM Corporation, 2001, 2002 -->
+	<script language="JavaScript1.1" type="text/javascript">var SA_ID="nprpix;npr";</script>
+	<script language="JavaScript1.1" type="text/javascript" src="http://stats.surfaid.ihost.com/sacdcoc.js"></script>
+	<noscript><img src="http://stats.surfaid.ihost.com/rc/images/uc.GIF?1.11&amp;nprpix&amp;npr&amp;noscript" height="1" width="1" alt="" border="0" /></noscript>
+	<!-- END IBM SURFAID CODE -->
+</div>
 </noindex>
 
 
@@ -512,78 +325,51 @@ HEADS UP TO ANYONE ADDING OPTIONS/URLS TO THIS DROP-DOWN SELECT LIST:
 
 
 
-		<table border="0" cellpadding="0" cellspacing="0" width="130" align="center">
-	<tbody><tr>
-		<td bgcolor="#333333">
-			<table border="0" cellpadding="4" cellspacing="1" width="130">
-				<tbody><tr valign="top">
-					<td bgcolor="#999999" valign="top"><div class="leftbartitle">NPR Audio Online</div></td>
-				</tr>
-
-				<tr valign="top">
-					<td bgcolor="#ffffff">
-					<div class="leftcontentbucket">
-						<table cellpadding="3" cellspacing="0">
-							<tbody><tr valign="middle">
-								<td>
-									<a href="javascript:getNewsCast()"><img src="http://www.npr.org/images/icon_audio_tiny.gif" alt="Listen" width="13" height="13" border="0" hspace="0" vspace="0"></a></td><td><a class="leftcontentlink" href="javascript:getNewsCast()">NPR Hourly News</a></td></tr>
-							<tr valign="middle">
-								<td>
-									<a href="javascript:getProgramStream()"><img src="http://www.npr.org/images/icon_audio_tiny.gif" alt="Listen" width="13" height="13" border="0" hspace="0" vspace="0"></a></td><td><a class="leftcontentlink" href="javascript:getProgramStream()">NPR Program Stream</a></td></tr>
-							<tr valign="top"><td>&nbsp;</td><td><a class="rightcontentlinklight" href="http://www.npr.org/audiohelp/progstream.html">Schedule</a></td></tr>
-						</tbody></table>
-<!--
-						<a CLASS="leftcontentlink" href="javascript:getLatestShow('ATC');">All Things Considered</a><BR><BR>
-						<a CLASS="leftcontentlink" href="javascript:getLatestShow('ME');">Morning Edition</A><BR><BR>
-						<a CLASS="leftcontentlink" href="javascript:getLatestShow('TOTN');">Talk of the Nation</A><BR><BR>
-						<a CLASS="leftcontentlink" href="javascript:getLatestShow('TAVIS');">The Tavis Smiley Show</a><BR><BR>
-						<a CLASS="leftcontentlink" href="javascript:getLatestShow('FA');">Fresh Air</A><BR><BR>
-						<a CLASS="leftcontentlink" href="javascript:getLatestShow('WESAT');">Weekend Edition Saturday</A><BR><BR>
-						<a CLASS="leftcontentlink" href="javascript:getLatestShow('WESUN');">Weekend Edition Sunday</A><BR><BR>
-						<a CLASS="leftcontentlink" href="javascript:getLatestShow('FOOL');">Motley Fool Radio Show</A><BR>
--->					</div>
-				</td>
-			</tr>
-
-			<tr>
-				<td bgcolor="#999999" valign="top"><a class="leftbartitle" href="http://www.npr.org/audiohelp/audioplayers.html"><b>Download Players</b></a><br>
-					<a class="leftbartitle" href="http://www.npr.org/audiohelp/index.html"><b>Audio Help</b></a>
-				</td>
-			</tr>
-
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<br>
-<table border="0" cellpadding="0" cellspacing="0" width="130" align="center">
-	<tbody><tr>
-		<td bgcolor="#333333">
-			<table border="0" cellpadding="4" cellspacing="1" width="130">
-				<tbody><tr valign="top">
-					<td bgcolor="#999999" valign="top"><div class="leftbartitle">NPR Programming</div></td>
-				</tr>
-
-				<tr valign="top">
-					<td bgcolor="#ffffff">
-					<div class="leftcontentbucket">
-						<a class="leftcontentlink" href="http://www.npr.org/programs/morning/index.html">Morning Edition</a><br><br>
-						<a class="leftcontentlink" href="http://www.npr.org/programs/atc/index.html">All Things Considered</a><br><br>
-						<a class="leftcontentlink" href="http://www.npr.org/programs/day/index.html">Day to Day</a><br><br>
-						<a class="leftcontentlink" href="http://www.npr.org/programs/totn/index.html">Talk of the Nation</a><br><br>
-						<a class="leftcontentlink" href="http://freshair.npr.org/">Fresh Air</a><br><br>
-						<a class="leftcontentlink" href="http://www.npr.org/programs/tavis/index.html">The Tavis Smiley Show</a><br><br>
-						<a class="leftcontentlink" href="http://www.npr.org/programs/wesat/index.html">Weekend Edition Saturday</a><br><br>
-						<a class="leftcontentlink" href="http://www.npr.org/programs/wesun/index.html">Weekend Edition Sunday</a><br><br>
-						<a class="leftcontentlink" href="http://www.npr.org/programs/fool/index.html">Motley Fool Radio Show</a><br>
-					</div>
-				</td>
-			</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-<br>
+		<noindex>
+<div id="topics">
+	<ul>
+		<li><a href="http://news.npr.org/">News</a></li>
+		<li><a href="http://www.npr.org/politics/">Politics</a></li>
+		<li><a href="http://www.npr.org/iraq/">Iraq</a></li>
+		<li><a href="http://www.npr.org/healthscience/">Health &amp; Science</a></li>
+		<li><a href="http://www.npr.org/books/">Books</a></li>
+		<li><a href="http://www.npr.org/music/">Music</a></li>
+		<li><a href="http://www.npr.org/movies/" class="last">Movies</a></li>
+	</ul>
+</div>
+<div id="programs">
+	<ul>
+		<li><a href="http://www.npr.org/programs/morning/">Morning Edition</a></li>
+		<li><a href="http://www.npr.org/programs/atc/">All Things Considered</a></li>
+		<li><a href="http://www.npr.org/programs/day/">Day to Day</a></li>
+		<li><a href="http://www.npr.org/programs/totn/">Talk of the Nation</a></li>
+		<li><a href="http://freshair.npr.org/">Fresh Air</a></li>
+		<li><a href="http://www.npr.org/programs/tavis/">Tavis Smiley Show</a></li>
+		<li><a href="http://www.npr.org/programs/wesat/">Weekend Edition Saturday</a></li>
+		<li><a href="http://www.npr.org/programs/wesun/">Weekend Edition Sunday</a></li>
+		<li><a href="http://www.npr.org/programs/fool/">Motley Fool Radio</a></li>
+		<li class="more"><a href="http://www.npr.org/programs/">More Programs</a></li>
+	</ul>
+</div>
+<div id="audiolinks">
+	<p>
+		<a href="javascript:getNewsCast();" class="audio">Hourly Newscast</a>
+	</p>
+	<p>
+		<a href="javascript:getProgramStream();" class="audio">Program Stream</a> <span>24-Hour <a href="http://www.npr.org/audiohelp/progstream.html">schedule</a></span>
+	</p>
+</div>
+<div id="housekeeping">
+	<ul>
+		<li><a href="http://www.npr.org/contact/">Contact NPR</a></li>
+		<li><a href="http://www.npr.org/about/place/corpsupport/">Sponsor NPR</a></li>
+		<li><a href="http://www.npr.org/about/press/">Press Room</a></li>
+		<li><a href="http://www.npr.org/about/pitch/">Submit Story Ideas</a></li>
+		<li><a href="http://www.npr.org/corrections/">Corrections</a></li>
+		<li><a href="http://www.npr.org/features/columns/column.php?columnId=2781901">Ombudsman</a></li>
+	</ul>
+</div>
+</noindex>
 
 
 
@@ -669,7 +455,7 @@ At NPR Online, we recognize the importance of privacy to visitors of our Web sit
 <br>
 NPR collects personally-identifying information (such as your name, e-mail address, address, telephone number and/or credit card information) from the NPR Web site only if you choose to provide that information to us.
 <br><br>
-NPR asks visitors to provide certain personal information when they register for the NPR Discussions, when they request a transcript and/or audio tape/CD of NPR programs, when they e-mail a page of the NPR Web site to another person, when they make a purchase from the NPR Online Shop, and when they register for contests. NPR also may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered. Any information that you post when participating in the Discussions becomes public.
+NPR asks visitors to provide certain personal information when they register for the NPR Discussions, when they request a transcript and/or audio CD of NPR programs, when they e-mail a page of the NPR Web site to another person, when they make a purchase from the NPR Online Shop, and when they register for contests. NPR also may ask visitors to provide personal information in other limited circumstances specified at the time the information is gathered. Any information that you post when participating in the Discussions becomes public.
 <br><br>
 Like all other Web servers, NPR's Web server automatically creates log files for each visitor who accesses our site. These "access logs" allow us to make our site more useful to our visitors. The access logs do NOT record a visitor's name, address, phone number, credit card numbers, or any other personally-identifying information. Rather, they contain some or all of the following information:
 </p>
@@ -692,11 +478,11 @@ NPR uses cookies to track users' activity through the site in order to improve t
 <br><br>
 <b>Use of Information</b>
 <br>
-The use of personally-identifying information is limited to the following: responding to user e-mails; fulfillment of transcript and/or audio tape/CD orders; fulfillment of NPR Online Shop orders; contest management; editorial purposes such as contacting users for an online survey; sending communications, including marketing and promotional communications, from NPR or NPR member stations to users who have “opted in” to the receipt of such communications; other internal NPR or NPR member station purposes; and other purposes specified at the time the information is gathered.
+The use of personally-identifying information is limited to the following: responding to user e-mails; fulfillment of transcript and/or audio CD orders; fulfillment of NPR Online Shop orders; contest management; editorial purposes such as contacting users for an online survey; sending communications, including marketing and promotional communications, from NPR or NPR member stations to users who have “opted in” to the receipt of such communications; other internal NPR or NPR member station purposes; and other purposes specified at the time the information is gathered.
 <br><br>
 Any information that you disclose when participating in the Discussions becomes public.  Moreover, by participating in the Discussions, your e-mail address becomes available to any third parties accessing our Web site and as a result, you may receive unsolicited e-mail from such third parties.
 <br><br>
-Personally-identifying information collected by NPR is not provided to outside parties except NPR member stations, NPR service vendors (such as NPR’s transcript and audio tape/CD fulfillment service, the NPR Online Shop fulfillment service, and NPR’s list manager), and other third parties when the user specifically consents to such distribution.  In these circumstances, the information is provided for the sole purpose of – and only to the extent necessary for -- delivering the requested transcript, audio tape/CD, or goods to the user, delivering communications from NPR or NPR member stations to users who have “opted in” to the receipt of these communications, or serving other internal NPR or NPR member station purposes.
+Personally-identifying information collected by NPR is not provided to outside parties except NPR member stations, NPR service vendors (such as NPR’s transcript and audio CD fulfillment service, the NPR Online Shop fulfillment service, and NPR’s list manager), and other third parties when the user specifically consents to such distribution.  In these circumstances, the information is provided for the sole purpose of – and only to the extent necessary for -- delivering the requested transcript, audio CD, or goods to the user, delivering communications from NPR or NPR member stations to users who have “opted in” to the receipt of these communications, or serving other internal NPR or NPR member station purposes.
 <br><br>
 NPR also may disclose personal information if required to do so by law or if it believes that such action is necessary to (a) comply with the law or with legal process, (b) protect against misuse or unauthorized use of the NPR Web site, or (c) protect the personal safety or property of NPR Web site users, the public or NPR and its employees.
 <br><br>
@@ -710,9 +496,9 @@ NPR has in place what we believe to be appropriate physical, electronic, and man
 <br><br>
 <b>Children</b>
 <br>
-Under 13: You must be at least 13 years old in order to register for the Discussions, order NPR tapes/CDs and transcripts, or place an order on the NPR Online Shop. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
+Under 13: You must be at least 13 years old in order to register for the Discussions, order NPR CDs and transcripts, or place an order on the NPR Online Shop. If you are under 13 years of age, please do not send any information about yourself, including your name, address or e-mail address. If we discover that we have collected any personally-identifying information from a child under the age of 13, we will remove that information from our database as soon as possible.
 <br><br>
-13 -18: Unless otherwise specified, you must be a least 18 years old in order to participate in any online contests. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for the Discussions, ordering NPR tapes/CDs or transcripts, placing an order on the NPR Online Shop, or otherwise sending any personally-identifying information.
+13 -18: Unless otherwise specified, you must be a least 18 years old in order to participate in any online contests. Visitors between the ages of 13 and 18 must obtain permission from their parents or guardians before registering for the Discussions, ordering NPR CDs or transcripts, placing an order on the NPR Online Shop, or otherwise sending any personally-identifying information.
 <br><br>
 <b>Corrections to Personal Data; Opting Out</b>
 <br>
