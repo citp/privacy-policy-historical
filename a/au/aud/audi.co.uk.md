@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audi.co.uk privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004002734id_/http%3A//www.audi.co.uk/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audi.co.uk privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410185049id_/http%3A//www.audi.co.uk/privacy.jsp) for the most accurate reproduction.*
 
 # Audi UK : Privacy
 
