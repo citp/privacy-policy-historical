@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608153711id_/http%3A//www.nokiausa.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiausa.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204051230id_/http%3A//www.nokiausa.com/privacypolicy) for the most accurate reproduction.*
 
 # NokiaUSA: Privacy Policy
 
@@ -16,8 +16,9 @@ This Policy is applicable to the following and only the following Nokia Inc. (No
 www.NokiaUSA.com;  
 www.Nokia.com/US;  
 www.Nokiapromos.com;  
-www.Nokiaconnections.com; and  
-www.nokiahowto.com 
+www.Nokiaconnections.com;  
+www.nokiahowto.com;  
+www.NokiaUnwired.com 
 
 All of the above web sites are collectively referred in this Policy as the "Site". This Policy is not applicable to any other of Nokia's web sites or website-like channels or any other channels or aspects of Nokia's operations, including but not limited, to sales from other sites. 
 
@@ -30,7 +31,7 @@ Nokia only collects, uses or discloses personal information that is necessary fo
 
 By using this Site, you acknowledge and consent to the collection, use and disclosure of personally identifying information of the type and for the purposes described in this Policy.
 
-Nokia, including its affiliates in the "Nokia Group" family of companies (those under common control of Nokia's ultimate parent company), may share personal information within the Nokia Group for the purposes described in this Policy. Nokia also may provide aggregate statistics, and share general information about this Site's sales, traffic patterns and related site information to reputable third parties, but these statistics will include no personally identifying information. 
+Nokia, including its affiliates in the "Nokia Group" family of companies (those under common control of Nokia's ultimate parent company), may share personal information within the Nokia Group for the purposes described in this Policy. Such sharing may involve transferring data to and from other countries in the world, including countries in the European Union where Nokia has operation and does business. Some countries may provide less legal protection of your personal data. However, in such countries Nokia will still handle information in the manner described in this Policy. Nokia also may provide aggregate statistics, and share general information about this Site's sales, traffic patterns and related site information to reputable third parties, but these statistics will include no personally identifying information. 
 
 Visitor identification  
 In general, you can use this Site for informational purposes without telling Nokia who you are and without providing Nokia any personal information about yourself. From time to time, Nokia or its third party designees may place information on your computer to allow Nokia to identify you. This information is commonly known as "cookies" and many web sites use them and their use for such purposes has become commonplace in the consumer ecommerce industry. Cookies are pieces of data stored on your computer's hard drive, and not on this Site. Nokia and/or its third party designees will only view information put on your computer in cookies set by Nokia and/or its third party designees from this Site or other Nokia web sites. 
