@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213093500id_/http%3A//theatermania.com/extras/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theatermania.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603155011id_/http%3A//www.theatermania.com/extras/privacy.cfm) for the most accurate reproduction.*
 
 # TheaterMania.com - Privacy Policy
 
