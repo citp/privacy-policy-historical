@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zionsbank.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205052554id_/http%3A//zionsbank.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zionsbank.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603013343id_/http%3A//zionsbank.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Zions Bank: Privacy Policy
 
