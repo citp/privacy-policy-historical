@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ski.com.au privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605120733id_/http%3A//www.ski.com.au/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ski.com.au privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207050630id_/http%3A//www.ski.com.au/aboutus/privacy.html) for the most accurate reproduction.*
 
-# Your Privacy (ski.com.au About Us)
+# Your Privacy (ski.com.au)
 
 **Overall Privacy Statement**  
 Your privacy on the Internet is of the utmost importance to us. Because we gather certain types of information about the users of ski.com.au, we feel you should fully understand the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather, how we use it, and how to correct or change it. 
