@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211174532id_/http%3A//www.discogs.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604190836id_/http%3A//www.discogs.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
