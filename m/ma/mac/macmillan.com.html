@@ -1,0 +1,311 @@
+<!--The following is the downloaded HTML source of the macmillan.com privacy policy that was archived on 2004-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040602235712id_/http%3A//www.macmillan.com/privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Welcome to macmillan publishers</title>
+<script language="JavaScript"><!--
+
+/*
+The ultimate DHTML drop-down code
+Nick Nettleton
+www.computerarts.co.uk || www.fluid7.co.uk
+--
+This must be the single most requested bit of code in the history of Computer Arts, so we've decided to make it user-friendly and adaptable for everyone. Stacks more goodies to come too - head to one of the above sites for regular infoa nd updates.
+Works with v4 and v5 browsers - both IE and NS. Update for NS6 coming. Also, be aware there's no way to automatically centre layers in the window - a JS for this coming soon. In the meantime, stick with left-aligned.
+Keep an eye out for update for NS6.
+--
+You can adapt, use and distribute this code under GNU public licence, as long as:
+(1) You leave all the comment and credit lines in, including these ones
+(2) You don't sell it for profit
+--
+If you want to tweak the code yourself, use the f7_droplayer to set the names of the dropdowns, and just call f7_showdrop(n) and f7_hdidedrop from onmouseover, onmouseout and other events. Swap n for the number of the layer as in the array.
+--
+Enjoy!!!
+*/
+
+//names of dropdowns stored here
+f7_droplayer=new Array()
+f7_droplayer[0]="drop1"
+f7_droplayer[1]="drop2"
+f7_droplayer[2]="drop3"
+f7_droplayer[3]="drop4"
+f7_droplayer[4]="drop5"
+f7_droplayer[5]="drop6"
+f7_droplayer[6]="drop7"
+
+
+//simple browser check
+f7_v4=(parseInt(navigator.appVersion)>=4 && parseInt(navigator.appVersion)<=5)?1:0
+f7_ie=(document.all && f7_v4)?1:0
+f7_ns=(document.layers && f7_v4)?1:0
+
+
+//code for drops
+
+function f7_showdrop(thelayer){
+	f7_keep=thelayer; f7_hideall(); f7_showitnow=1
+	f7_showit(thelayer)
+	}
+
+function f7_showit(thelayer){
+		if(f7_ie){ eval(f7_droplayer[thelayer]+'.style.visibility="visible"') }
+		if(f7_ns){ eval('document.'+f7_droplayer[thelayer]+'.visibility="show"');}
+	}
+
+
+function f7_hidedrop(){
+	f7_keep=-1; setTimeout('f7_hideall()',500)
+	}
+
+f7_keep=-1
+
+function f7_hideall(){
+	for(i=0;i<f7_droplayer.length;i++){  
+		f7_hideit=0; f7_checkmousepos(i)
+		if(f7_ie && f7_keep!=i){ 
+			if(f7_hideit){ eval(f7_droplayer[i]+'.style.visibility="hidden"') } 
+			}
+		if(f7_ns && f7_keep!=i){ 
+			if(f7_hideit){ eval('document.'+f7_droplayer[i]+'.visibility="hide"') }
+			}
+		}
+	}
+
+//deal with cursor over layer
+document.onmousemove = f7_getmousepos
+if (f7_ns) document.captureEvents(Event.MOUSEMOVE)
+
+function f7_getmousepos(e){
+	if(f7_ns){f7_mousex=e.pageX; f7_mousey=e.pageY}
+	if(f7_ie){f7_mousex=event.clientX; f7_mousey=event.clientY;}
+	}
+
+function f7_checkmousepos(i){          
+	if(f7_ns){     
+		f7_x_min=eval('document.'+f7_droplayer[i]+'.left')
+		f7_x_max=f7_x_min+eval('document.'+f7_droplayer[i]+'.clip.width')
+		f7_y_min=eval('document.'+f7_droplayer[i]+'.top')
+		f7_y_max=f7_y_min+eval('document.'+f7_droplayer[i]+'.clip.height')
+		}    
+	if(f7_ie){     
+		f7_x_min=eval(f7_droplayer[i]+'.style.pixelLeft')
+		f7_x_max=f7_x_min+eval(f7_droplayer[i]+'.style.pixelWidth')
+		f7_y_min=eval(f7_droplayer[i]+'.style.pixelTop')
+		f7_y_max=f7_y_min+eval(f7_droplayer[i]+'.style.pixelHeight')
+		}
+	if (f7_mousex>=f7_x_min && f7_mousex<=f7_x_max && f7_mousey>=f7_y_min && f7_mousey<=f7_y_max){
+		f7_hideit=0; setTimeout('f7_hideall()',500)
+		}
+	else { f7_hideit=1 }
+	return f7_hideit
+	}
+
+//--></script><script language="JavaScript"><!--
+
+//browser stylesheets
+
+if(f7_ie){
+document.write('<style type="text/css"><!--')
+
+document.write('.dropdown {padding-left:0px; padding-top:0px; padding-right:0px; padding-bottom:0px}')
+document.write('a { text-decoration: none }')
+document.write('a:hover { color: #800000; text-decoration: underline }')
+document.write('--></style>')
+}
+
+//--></script>
+
+
+
+
+<style type="text/css">
+<!--
+
+p {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; line-height:17px}
+td {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px;}
+
+.header {  font: bold 24px Arial, Verdana, Helvetica, sans-serif }
+.subhead {  font-weight: bold; font-size: 12px  }
+.list {  font-family: Arial, Verdana, Helvetica, sans-serif; font-size: 12px; text-decoration: none  }
+.forms {  font-size: 12px; font-family: Arial, Verdana, Helvetica, sans-serif }
+
+.dropdown { position: absolute; color:black; width:140px;  border: #000000; border-style: solid; border-top-width: 1px; border-right-width: 1px; border-bottom-width: 1px; border-left-width: 1px; background-color: #EFEFEF; layer-background-color: #EFEFEF; top:71px; z-index:1; visibility: hidden ;}
+.drophead { }
+.dropitem { text-decoration:none; color:black; font: 12px Arial, Verdana, Helvetica, sans-serif;}
+.drophead:hover { }
+.dropitem:hover { color:black; font: bold }
+
+-->
+</style>
+<title></title>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#FF0000" vlink="#800000" alink="#FF6666">
+
+<div id="drop1" class="dropdown" style="left:0px;; background-color: #FF6666; layer-background-color: #000000; border: 1px none #000000; width: 118px" onmouseover="f7_showdrop(0)" onmouseout="f7_hidedrop()"> 
+  <p><a href="/aboutus.asp"><img src="/images/topimages/paboutus.jpg" border="0" width="119" height="28"></a><br>
+  <a href="../history.asp" class="dropitem"><img border="0" src="../images/sideimages/abhist.jpg" width="119" height="28"></a><br>
+  <a href="../Education.asp" class="dropitem"><img border="0" src="../images/sideimages/abEDUC.jpg" width="119" height="28"></a><br>
+    <a href="../Academic.asp" class="dropitem"><img border="0" src="../images/sideimages/abacad.jpg" width="119" height="28"></a><br>
+    <a href="../science.asp" class="dropitem"><img border="0" src="../images/sideimages/absci.jpg" width="119" height="28"></a><br>
+    <a href="../fnf.asp" class="dropitem"><img border="0" src="../images/sideimages/abFICTION.jpg" width="119" height="28"></a><br>
+    <a href="../Services.asp" class="dropitem"><img border="0" src="../images/sideimages/abPUB.jpg" width="119" height="28"></a><br>
+    <a href="../Online.asp" class="dropitem"><img border="0" src="../images/sideimages/ONLINeres.gif" width="119" height="28"></a><br>
+  <a href="../News.asp" class="dropitem"><img border="0" src="../images/sideimages/NEWS.jpg" width="119" height="28"></a><br>
+  <a href="../Keydates.asp" class="dropitem"><img border="0" src="../images/sideimages/abkeydates.jpg" width="119" height="28"></a></p>
+</div>
+<div id="drop2" class="dropdown" style="left:119px;; background-color: #FF6666; layer-background-color: #FF6666; border: 1px none #000000; width: 109px" onmouseover="f7_showdrop(1)" onmouseout="f7_hidedrop()"> 
+  <p><a href="/Permissions.asp"><img src="/images/topimages/ppermissions.jpg" border="0" width="109" height="28"></a><br>
+</p></div>
+<div id="drop3" class="dropdown" style="left:228px;; background-color: #FF6666; layer-background-color: #FF6699; border: 1px none #000000; width: 84px" onmouseover="f7_showdrop(2)" onmouseout="f7_hidedrop()"> 
+  <p><a href="../careers.asp"><img src="/images/topimages/pcareers.jpg" border="0" width="84" height="28"></a><br>
+<a href="../vacancy.asp" class="dropitem"><img border="0" src="../images/sideimages/vac.jpg" width="84" height="28"></a><br>
+<a href="../grad.asp" class="dropitem"><img border="0" src="../images/sideimages/grs.jpg" width="84" height="42"></a><br>
+  </p>
+</div>
+<div id="drop4" class="dropdown" style="left:312px;; background-color: #FF6666; layer-background-color: #FF6666; border: 1px none #000000; width: 84px" onmouseover="f7_showdrop(3)" onmouseout="f7_hidedrop()"> 
+  <p><a href="../websites.asp"><img src="/images/topimages/pwebsites.jpg" border="0" width="88" height="28"></a></p>
+</div>
+<div id="drop5" class="dropdown" style="left:400px;; background-color: #FF6666; layer-background-color: #FF6666; border: 1px none #000000; width: 99px" onmouseover="f7_showdrop(4)" onmouseout="f7_hidedrop()"> 
+  <p><a href="../CONTACT.ASP"><img src="../images/topimages/pcontactus.jpg" border="0" width="100" height="28"></a><br><a href="../contactfaqs.asp" class="dropitem"><img border="0" src="../images/sideimages/faqs.jpg" width="100" height="28"></a><br>
+  <a href="/asp/feedback.asp" class="dropitem"><img border="0" src="../images/sideimages/cform.jpg" width="100" height="28"></a><br>
+<a href="/catreq.asp" class="dropitem"><img border="0" src="../images/sideimages/creq.jpg" width="100" height="38"></a><br>
+<a href="/Paymente.asp" class="dropitem"><img border="0" src="../images/sideimages/PEQ.jpg" width="100" height="38"></a><br>
+  <a href="/press.asp"><img border="0" src="../images/sideimages/press1.gif" width="100" height="28"></a><br>
+<a href="/moWorldwide.asp" class="dropitem"><img border="0" src="../images/topimages/MOW.jpg" width="100" height="42"></a></p>
+</div>
+<div id="drop6" class="dropdown" style="left:500px;; background-color: #FF6666; layer-background-color: #FF6666; border: 1px none #000000; width: 67px" onmouseover="f7_showdrop(5)" onmouseout="f7_hidedrop()"> 
+  <p><a href="../help.asp"><img src="../images/topimages/phelp.jpg" border="0" width="67" height="28"></a></p>
+</div>
+<div id="drop7" class="dropdown" style="left:567px;; background-color: #FF6666; layer-background-color: #FF6666; border: 1px none #000000; width: 197px" onmouseover="f7_showdrop(6)" onmouseout="f7_hidedrop()"> 
+  <p><a href="../index.asp"><img border="0" src="/images/topimages/ppublishingdiv.jpg" width="199" height="28"></a><br><a href="../Education.asp" class="dropitem"><img border="0" src="../images/sideimages/babeduc.jpg" width="199" height="28"></a><br>
+	<a href="../Academic.asp" class="dropitem"><img border="0" src="../images/sideimages/babacad.jpg" width="197" height="28"></a><br>
+	<a href="../science.asp" class="dropitem"><img border="0" src="../images/topimages/babsci.jpg" width="197" height="28"></a><br>
+	<a href="../fnf.asp" class="dropitem"><img border="0" src="../images/sideimages/babFICTION.jpg" width="197" height="28"></a><br>
+	<a href="../Services.asp" class="dropitem"><img border="0" src="../images/sideimages/babpub.jpg" width="197" height="28"></a><br>
+	<a href="../Online.asp" class="dropitem"><img border="0" src="../images/topimages/bonline.jpg" width="197" height="28"></a></p>
+</div>
+
+<form method="GET" action="/asp/newsearch.asp">
+<table border="0" cellspacing="0" width="100%" cellpadding="0">
+  <tbody><tr>
+    <td width="482" valign="top" align="left">
+            <a href="/index.asp">
+			<img src="/images/topimages/logo.jpg" border="0" width="482" height="71"></a></td>
+    <td valign="top" align="right"> 
+    </td>
+    <td valign="top" align="right"> 
+      <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tbody><tr>
+          <td width="90%" valign="top" align="left" nowrap=""><img src="../images/otherimages/white.jpg" width="16" height="5"></td>
+          <td width="10%" valign="top" align="left">
+          </td>
+        </tr>
+        <tr>
+          <td width="90%" valign="top" align="left" nowrap="">
+            <p align="right"> <font color="#000000">Search</font> 
+              
+<input type="text" name="Any" size="20"></p>
+          </td>
+          <td width="10%" valign="top" align="left">
+            <input type="image" src="/images/otherimages/button.jpg" name="Submit" id="Submit" class="submit" value="Submit" width="25" height="22"></td>
+        </tr>
+        <tr>
+          <td width="90%" valign="top" align="right" nowrap=""><table border="0" cellpadding="0" cellspacing="0" width="20%">
+              <tbody><tr>
+                <td align="right"><font size="1" color="#000000">site&nbsp;</font></td>
+                <td align="right"><input type="radio" value="site" checked="" name="R1"></td>
+              </tr>
+              <tr>
+                <td align="right"><font size="1" color="#000000">books</font><font size="1">&nbsp;</font></td>
+                <td align="right"><input type="radio" value="books" checked="" name="R1">
+                </td></tr></tbody></table></td>
+              </tr>
+            </tbody></table></td>            
+      </tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tbody><tr> 
+    <td valign="top" align="left" height="28" background="../images/topimages/endpixel.jpg"><a href="/aboutus.asp" class="drophead" onmouseover="f7_showdrop(0)" onmouseout="f7_hidedrop()"><img src="../images/topimages/aboutus.jpg" border="0" width="119" height="28"></a><a href="/Permissions.asp" class="drophead" onmouseover="f7_showdrop(1)" onmouseout="f7_hidedrop()"><img src="../images/topimages/Permissions.jpg" border="0" width="109" height="28"></a><a href="../careers.asp" class="drophead" onmouseover="f7_showdrop(2)" onmouseout="f7_hidedrop()"><img src="../images/topimages/careers.jpg" border="0" width="84" height="28"></a><a href="../websites.asp" class="drophead" onmouseover="f7_showdrop(3)" onmouseout="f7_hidedrop()"><img src="../images/topimages/websites.jpg" border="0" width="88" height="28"></a><a href="../CONTACT.ASP" class="drophead" onmouseover="f7_showdrop(4)" onmouseout="f7_hidedrop()"><img src="../images/topimages/contactus.jpg" border="0" width="100" height="28"></a><a href="../help.asp" class="drophead" onmouseover="f7_showdrop(5)" onmouseout="f7_hidedrop()"><img src="../images/topimages/help.jpg" border="0" width="67" height="28"></a></td>
+<td width="50%" height="28" valign="top" align="left" background="../images/topimages/endpixel.jpg">
+        <div align="left"></div>
+      </td>
+  </tr>
+</tbody></table>
+
+<table border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td valign="top" align="left"><img border="0" src="images/otherimages/white.jpg" width="25" height="25"></td>
+    <td width="100%" valign="top" align="left">
+      <br>
+      <b><font color="#FF0000" face="Arial" size="4">Privacy Statement</font></b><br>
+      &nbsp;<p class="spec">Macmillan are committed to protecting your 
+      privacy.&nbsp;Any information we collect from you is used to process orders and 
+      requests and to provide you with more relevant products and services. </p>
+      <p><b>Collection and Use of Customer Information<br>
+      </b>We collect email addresses or other contact details together with any 
+      comments provided to us voluntarily via this web site. We also collect 
+      information on the pages that are visited. All the information you provide 
+      is used to improve the content of our web site and to make contact for 
+      marketing and commercial purposes. </p>
+      <ul>
+        <li>When you order online, we ask you for your name, email address, 
+        delivery address, credit or debit card number and expiry date. Our 
+        Customer Services department can then process and fulfil your order and 
+        notify you of your order status. </li>
+        <li>We also ask for your telephone number which enables us to contact 
+        you urgently if there is a problem with your order or your email 
+        address. </li>
+        <li>When you enter a competition or other promotion, we may ask for your 
+        name, address and email address so we can administer the competition and 
+        notify winners. </li>
+        <li>We use your comments, specified subject interests and any orders to 
+        shape our recommendations about the books that might be of interest to 
+        you. We also monitor customer traffic patterns and site usage to help us 
+        develop the design and structure of our site. </li>
+        <li>We may also use the information we collect to occasionally notify 
+        you about important functionality changes to the web site, new Macmillan 
+        services and special offers we think you will find valuable. </li>
+      </ul>
+      <p><b>Protection of Customer Information</b><br>
+      As required by the UK Data Protection Acts of 1984 and 1998, we follow 
+      strict security procedures in the storage and disclosure of information 
+      which you have given us, to prevent unauthorised access.</p>
+      <p>Macmillan uses the industry standard, Secure Socket Layer (SSL) 
+      encryption, to ensure our online ordering facility is fully secured for 
+      credit card transactions. Your credit card details will be transmitted to 
+      Macmillan securely ONLY if you are using a secure connection (SSL) aware 
+      browser. </p>
+      <p><b>Disclosure of Information to Third Parties</b><br>
+      Macmillan will not sell, trade or rent your personal information to third 
+      parties outside the Macmillan Group. </p>
+      <p><b>Your Consent</b> <br>
+      By using our web site, you consent to the collection and use of your 
+      information by Macmillan&nbsp; Macmillan. Any changes to our privacy 
+      policy will be posted on this page so that you are always aware of what 
+      information we collect, how we use it and under what circumstances we 
+      disclose it. </p>
+      <p>We welcome comments and suggestions which will help us improve our web 
+      site. Please contact us by email: <a href="mailto:hostmaster@macmillan.co.uk">
+      hostmaster@macmillan.com</a> </p>
+      <p>&nbsp;</p></td>
+  </tr>
+</tbody></table><br>
+<table style="BORDER-TOP: #000000 1px solid" cellspacing="0" cellpadding="0" width="100%" border="0">
+  <tbody>
+    <tr>
+      <td valign="top" align="left" width="100%">
+        <table cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td width="100%"><br>
+                <font size="1">Copyright © Macmillan Publishers Limited<br>
+                Brunel Road, Houndmills, Basingstoke Hampshire RG21 6XS, England</font><br>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+  </tbody>
+</table></form></body></html>
