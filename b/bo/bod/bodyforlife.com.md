@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209033302id_/http%3A//www.bodyforlife.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyforlife.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622124404id_/http%3A//www.bodyforlife.com/privacy.shtml) for the most accurate reproduction.*
 
 # Body-for-LIFE®
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy**
 
-Experimental and Applied Sciences, Inc. (EAS) has created this privacy statement as part of our commitment to protect the privacy and security of information obtained on-line concerning our customers and visitors to our Web site. The following discloses our information gathering and dissemination practices for EAS web sites, including EAS.com, BodyforLIFE.com, MuscleMedia.com, BodyofWork.com, EASPiranha.com and EASResults.com. Using our web sites demonstrates your consent to the collection and use of information pursuant to EAS' disclosures in this policy statement.
+Experimental and Applied Sciences, Inc. (EAS) has created this privacy statement as part of our commitment to protect the privacy and security of information obtained on-line concerning our customers and visitors to our Web site. The following discloses our information gathering and dissemination practices for EAS web sites, including EAS.com, BodyforLIFE.com, MuscleMedia.com, BodyofWork.com, EASAdvantEdge.com, EASPiranha.com and EASResults.com. Using our web sites demonstrates your consent to the collection and use of information pursuant to EAS' disclosures in this policy statement.
 
 **Information collected and how used by EAS**  
 We collect log information that is not personally identifying and personal information you supply when utilizing a service offered at this Web site.
@@ -50,7 +50,7 @@ EAS occasionally uses e-mail to send announcements regarding new products, servi
 
 **Correcting Personal Information**
 
-  * If you need to change your name, address, phone number or e-mail address, simply go to the [Opt Out](http://www.bodyforlife.com/bfl_email.asp) page and enter your new information. Or you may e-mail the request to us at [Service](mailto:service@eas.com) or by calling 1-800-297-9776. 
+  * If you need to change your name, address, phone number or e-mail address, simply e-mail the request to us at [Service](mailto:service@eas.com) or by calling 1-800-297-9776. 
   * Information provided in Challenge questionnaires or promotional surveys is not available for updates, corrections, or changes. 
 
 **Changes to the privacy policy**  
