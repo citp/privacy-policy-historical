@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ents24.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207184130id_/http%3A//www.ents24.com/web/content/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ents24.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403182033id_/http%3A//www.ents24.com/web/content/Privacy.html) for the most accurate reproduction.*
 
 # Ents24 What's On Guide. Gigs, Clubs, Theatre, Cinema
 
@@ -14,7 +14,7 @@ Ents24 collects information about you when your register for an account, and the
 
 **Other Information.** Ents24 automatically receives and records information from your browser including your IP address and the page you requested. 
 
-**Cookies.** [Read further information here about Ents24's use of cookies.](https://web.archive.org/web/20041207184130id_/http%3A//www.ents24.com/web/content/Cookies.html)
+**Cookies.** [Read further information here about Ents24's use of cookies.](https://web.archive.org/web/20050403182033id_/http%3A//www.ents24.com/web/content/Cookies.html)
 
 #### Sharing of Information
 
