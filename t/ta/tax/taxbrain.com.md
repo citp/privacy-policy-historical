@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205010808id_/http%3A//www.taxbrain.com/about/complete_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxbrain.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203202147id_/http%3A//www.taxbrain.com/about/privacy.asp) for the most accurate reproduction.*
 
-# TaxBrain: Complete Privacy Policy
+# Tax Brain Privacy Policy
 
 Privacy Policy Effective Date: October 20, 2004
 
-[ ](http://www.truste.org/ivalidate.php?url=www.taxbrain.com) **Petz Enterprises, Incorporated (PEI) takes privacy seriously.** We process millions of financial transactions each year and have implemented a variety of technologies and policies to protect privacy. Please read the following to learn more about our privacy policy.
+**Petz Enterprises, Incorporated (PEI) takes privacy seriously.** We process millions of financial transactions each year and have implemented a variety of technologies and policies to protect privacy. Please read the following to learn more about our privacy policy.
 
-  
 As an Authorized IRS e-file provider our company adheres to Federal and state regulations designed to ensure the security and confidentiality of personal information shared with our company. TaxBrain exceeds the federal requirements and meets or exceeds our industry standards for security and privacy. 
 
-  
-Petz Enterprises, Inc. has created a web-based tax product designed to quickly and easily fulfill tax compliance requirements in the United States. We have developed this application using the most sophisticated encryption technology on the market. Security is our top priority and protecting privacy is what you should expect from PEI. 
+Petz Enterprises, Inc. has created a web-based tax product designed to quickly and easily fulfill tax compliance requirements in the United States. We have developed this application using the most sophisticated encryption technology on the market. Security is our top priority and protecting privacy is what you should expect from PEI.
 
-Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. Therefore, we do not knowingly attempt to solicit or receive any information from children. Petz Enterprises, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.taxbrain.com/ (TaxBrain, TaxBrain.com). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+Because of the financial nature of our business, our Web sites are not designed to appeal to children under the age of 13. Therefore, we do not knowingly attempt to solicit or receive any information from children. Petz Enterprises, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site http://www.taxbrain.com/ (TaxBrain, TaxBrain.com). Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-Questions regarding the TaxBrain Web sites' privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web sites should be directed to us at [support@TaxBrain.com](https://web.archive.org/web/20041205010808id_/http%3A//www.taxbrain.com/about/support@TaxBrain.com) . If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://truste.org/consumers/watchdog_complaint.php) . TRUSTe will serve as a liaison with the Web site to resolve users concerns. 
+Questions regarding the TaxBrain Web sites' privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web sites should be directed to us at [support@TaxBrain.com](mailto:support@TaxBrain.com) . If you do not receive acknowledgment of your inquiry or your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the [TRUSTe Watchdog Dispute Resolution Process](http://truste.org/consumers/watchdog_complaint.php) . TRUSTe will serve as a liaison with the Web site to resolve users concerns.
 
   * What personally identifiable information TaxBrain collects. 
   * What organization collects the information. 
@@ -26,10 +24,10 @@ Questions regarding the TaxBrain Web sites' privacy statement, our online privac
 
 
 
-  
 Below is detailed information on how users can correct any inaccuracies in the information
 
-| Information Collection and Use  
+  
+Information Collection and Use  
 ---  
   
 **Information Collection**
@@ -42,15 +40,11 @@ In order to use this Web site, a user must first complete the registration form.
 
 **Order Information**
 
-We request information from users on our order form. A user must provide contact information such as name, email, address and phone number and financial information such as credit card number, expiration date and bank account information. All financial information collected on our site will remain absolutely confidential and will never be disclosed to any non-affiliated companies except as required by law. Financial information includes information such as credit card numbers and bank account information. We may store such information on our secure servers to expedite processing of certain services and products we provide to you. We may use your contact information to notify you of important product updates, significant tax law changes or promotional opportunities – if you have chosen to receive such offers. 
+We request information from users on our order form. A user must provide contact information such as name, email, address and phone number and financial information such as credit card number, expiration date and bank account information. All financial information collected on our site will remain absolutely confidential and will never be disclosed to any non-affiliated companies except as required by law. Financial information includes information such as credit card numbers and bank account information. We may store such information on our secure servers to expedite processing of certain services and products we provide to you. We may use your contact information to notify you of important product updates, significant tax law changes or promotional opportunities - if you have chosen to receive such offers. 
 
 **Tax Related Information**
 
 When a tax return is prepared on TaxBrain the information contained in the tax return will be treated with extreme care and confidence. To prepare a tax return on our site you will have to enter the personal information, which is required to file. In addition to your own personally identifying information you will have to enter the information for anyone else listed on the return, such as your spouse or dependents. As a method for detecting fraud in tax information transmitted via the Internet, the Internal Revenue Service (IRS) requires Petz Enterprises to provide to the IRS, in connection with the electronic filing of tax returns, the Internet Protocol (IP) address of the computer from which the return originated. We are also required to notify the IRS whether the e-mail address of the person electronically filing the return has been collected. 
-
-**Tax Estimator and W-4 Calculator**
-
-Information entered into the Tax Estimator and W-4 Calculator is used solely to provide tax estimates and does not collect personally identifiable information. The information that you provide is not saved or transferred to any other party. 
 
 **Identifying and Contact Information**
 
@@ -61,7 +55,7 @@ From time to time, users may be asked to provide certain Identifying and Contact
 Cookies**
 
 A "cookie" is a small piece of information that our Web sites may provide to a user's browser while they are at our site. Registered users on TaxBrain will receive a cookie when they login. This cookie is maintained by their browser and contains their unique identifier. This cookie is also used to authenticate their identity and provide access to areas of our Web site that are limited to registered users, such as those for tax return preparation and electronic filing. The cookie is tied to the user's account id. Only TaxBrain knows what personal information matches the account id number. There is no way any personally identifiable information could be directly extracted from our cookie. However, if a user has opted to have their username and password remembered, the information is stored in the cookie.   
-We also contract with Coremetrics, a service provider, to provide us with a data collection and reporting service. This service allows us to better provide our product and services to you. Coremetrics’ only role is to help us conduct our business and deliver the most relevant products and services. Coremetrics is contractually restricted from using your information in any other manner. If you would like to deactivate our ability to analyze youranonymous browsing and purchase behavior through the use of this service, or find out moreabout our service provider, including its privacy policy and how to opt out, go to:  
+We also contract with Coremetrics, a service provider, to provide us with a data collection and reporting service. This service allows us to better provide our product and services to you. Coremetrics' only role is to help us conduct our business and deliver the most relevant products and services. Coremetrics is contractually restricted from using your information in any other manner. If you would like to deactivate our ability to analyze your anonymous browsing and purchase behavior through the use of this service, or find out more about our service provider, including its privacy policy and how to opt out, go to:  
 <http://www.coremetrics.com/info_eluminate2.html>.
 
 **Log Files**
@@ -86,7 +80,7 @@ We partner with other third party banks, such as the Santa Barbara Bank & Trust,
 **  
 Live Chat**
 
-To better serve our users we contract with LivePerson to offer live chat. LivePerson’s privacy policy can be reviewed at <http://www.liveperson.com/help/privacy.asp>. To use the chat service you will be required to enter your email address. Upon exiting the chat session you will be given an option of having a transcript of your chat emailed to you. LivePerson may store a log of your chat session for up to 13 months, however they will not share your information with anyone unless it is required by law.   
+To better serve our users we contract with LivePerson to offer live chat. LivePerson's privacy policy can be reviewed at <http://www.liveperson.com/help/privacy.asp>. To use the chat service you will be required to enter your email address. Upon exiting the chat session you will be given an option of having a transcript of your chat emailed to you. LivePerson may store a log of your chat session for up to 13 months, however they will not share your information with anyone unless it is required by law.   
 
 
 **  
@@ -119,7 +113,7 @@ Customer Service **
 
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the your wishes.
 
-Our site does link to other sites in order to provide all of the tax and financial services users might need. PEI has partnered with these sites for content use and may share user information disclosed on our site with them on an aggregate basis for advertisement tracking only. We will not disclose personally Identifying information without prior consent. TaxBrain provides services in conjunction with third party companies. With your permission, your TaxBrain account will have the ability to log into accounts, and upload information to your TaxBrain account, that you hold with third party partners. This upload of information to TaxBrain.com is done to fulfill the full service of our site and no other purpose. For example, we can upload W-2s from employers and other content for forms from our partner organizations. These are the instances in which we will share users' personal information.
+Our site does link to other sites in order to provide all of the tax and financial services users might need. PEI has partnered with these sites for content use and may share user information disclosed on our site with them on an aggregate basis for advertisement tracking only. We will not disclose personally identifying information without prior consent. TaxBrain provides services in conjunction with third party companies. With your permission, you will have the ability upload information to your TaxBrain account, from accounts you hold with third party partners. This upload of information to TaxBrain.com is done to fulfill the full service of our site and no other purpose. For example, we can upload W-2s from employers and other content for forms from our partner organizations. These are the instances in which we will share users' personal information.
 
 Back to Top  
   
@@ -154,6 +148,7 @@ Contact Us
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 > Postal Address:  
+>  PEI, TaxBrain  
 >  PO Box 611  
 >  Tracy, CA 95378
 > 
@@ -176,5 +171,3 @@ Back to Top
 
   
 
-
->  
