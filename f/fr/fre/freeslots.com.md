@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630080612id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeslots.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # FreeSlots.com - Privacy Policy
 
 [](http://www.freeslots.com/)  
   
 [Slots Home](http://www.freeslots.com/)  
-[Free Slots 1](https://web.archive.org/web/20040630080612id_/http%3A//www.freeslots.com/Page1.htm)  
-[Free Slots 2](https://web.archive.org/web/20040630080612id_/http%3A//www.freeslots.com/Page2.htm)  
-[Free Slots 3](https://web.archive.org/web/20040630080612id_/http%3A//www.freeslots.com/Page3.htm)  
-[Free Slots 4](https://web.archive.org/web/20040630080612id_/http%3A//www.freeslots.com/ClassicSlots.htm)  
-[Multi-Payline Slots](https://web.archive.org/web/20040630080612id_/http%3A//www.freeslots.com/MultiPayline1.htm)  
-[Winners List](https://web.archive.org/web/20040630080612id_/http%3A//www.freeslots.com/Winners.htm)  
-[FAQ](https://web.archive.org/web/20040630080612id_/http%3A//www.freeslots.com/FAQ.htm)
+[Free Slots 1](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/Page1.htm)  
+[Free Slots 2](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/Page2.htm)  
+[Free Slots 3](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/Page3.htm)  
+[Free Slots 4](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/ClassicSlots.htm)  
+[Multi-Payline Slots](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/MultiPayline1.htm)  
+[Winners List](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/Winners.htm)  
+[FAQ](https://web.archive.org/web/20041229082724id_/http%3A//www.freeslots.com/FAQ.htm)
 
 **Play more slots:**  
   
@@ -22,7 +22,7 @@
 [English Harbour Casino](http://www.englishharbour.com/index.html?ID=simslots)  
 [SuperSlots](http://www.superslots.com/index.html?ID=simslots)
 
-|  [](http://www.freeslots.com/banman/banman.asp?Task=Click&ZoneID=1&CampaignID=3&AdvertiserID=2&BannerID=1228&SiteID=0)
+|  [](http://www.freeslots.com/banman/banman.asp?Task=Click&ZoneID=1&CampaignID=3&AdvertiserID=2&BannerID=167&SiteID=0)
 
 [Back to FreeSlots Home](http://www.freeslots.com/)
 
@@ -31,7 +31,7 @@
 **General Information**  
 At FreeSlots we respect the privacy of our users. Here you will find details on our privacy policy.
 
-FreeSlots provides online information and services related to gaming and any other subjects considered to be of interest to its audience. The term "FreeSlots" means any and all pages located on all sections of the FreeSlots web site (http://www.freeslots.com).
+FreeSlots provides online information and services related to gaming and any other subjects considered to be of interest to its audience. The term "FreeSlots" refers to any and all pages located on all sections of the FreeSlots and FreeVideoPoker web sites (http://www.freeslots.com and http://www.freevideopoker.com).
 
 **Standard User Data**  
 The standard data we collect about our users is not personally identifiable information. This means it is not information which identifies them as an individual. By using any of FreeSlots' services or reading its content, you agree that you understand the nature of this data collection.
