@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the iii.co.uk privacy policy that was archived on 2004-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607202012id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the iii.co.uk privacy policy that was archived on 2004-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041209071515id_/http%3A//www.iii.co.uk/about/%3Ftype%3Dlegal%26subtype%3Dprivacy) for the most accurate reproduction.-->
 
-<html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>
-Ample - About us 
+Interactive Investor - About us 
 </title>
 <meta name="keywords" content="">
 <meta name="description" content="The most comprehensive UK investment service on the web. All the information you need to make an investment decision. Prices for UK and international shares, stocks, unit trusts, investment trusts and pension funds. News, analysis, performance information, tools, discussion groups and a powerful portfolio to track all your investments.">
@@ -13,1245 +13,447 @@ Ample - About us
 <meta name="robots" content="INDEX">
 <meta name="distribution" content="Global">
 <meta name="rating" content="Safe For Kids">
-<style type="text/css">
+<link rel="stylesheet" href="/print.css" media="print" type="text/css">
+<link rel="stylesheet" href="/css/css.epl?ext=1" media="screen" type="text/css">
+<script language="JavaScript" type="text/javascript">
 <!--
-/*
-Browser	= 
-OS  	= 
-Style	= 
-*/
+/* Load javascript dependant styles */
+document.write("<link rel='stylesheet' href='/javascript.css' media='screen' type='text/css' />");
 
-/* HTML Elements */
+// Tabbed editorial stories
+NewTab = new Array ();
+var ids;
+var TabNum = 0;
+var TabLength = NewTab.length - 1;
+var delay = 6000;
+var lock = false;
+var run;
 
-BODY, TD, TH, FONT, P, B, I, STRONG, U, EM, BLOCKQUOTE, LI, OL, UL, CAPTION, A, DL, DT, DD, H1, H2, H3, H4, H5, H6, div, span {
-	font-family: Arial, Helvetica, Tahoma, Sans-serif ;
-}
-
-BODY {
-background: #FFFFFF;
-}
-PRE {
-	font-family: courier new;
-	font-size: 100%;
-	color: black;
-}
-B, STRONG {
-	font-weight: bold;
-}
-I, EM {
-	font-style: italic;
-}
-A:link {
-	color: #0000CC;
-}
-A:visited {
-	color: #5A5A5A;
-}
-A:hover {
-	color: #6699FF;
-}
-A:active {
-	color: #B30F41;
-}
-DT {
-	font-weight: bold;
-}
-H1, .h1, H2, .h2, H3, .h3, H4, .h4, H5, .h5, H6, .h6 {
-	font-weight: bold;
-/*	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif ; # not yet # */
-}
-H1, .H1 {
-	font-size: 180%;
-	color: #990099;
-}
-H2, .H2 {
-	font-size: 140%;
-	color: #990099;
-}
-H3, .H3 {
-	font-size: 110%;
-	color: #990099;
-}
-H4, .H4	{
-	font-size: 90%;
-	color: #0000CC;
-}
-H5, .H5	{
-	font-size: 75%;
-	color: #0000CC;
-}
-H6, .H6	{
-	font-size: 65%;
-	color: #0000CC;
+function assignTabs(ids) {
+	myNewTab = ids.split('/');
+	NewTab = myNewTab;
+	TabLength = NewTab.length - 1;
 }
 
-
-/* Generic classes */
-
-
-.emphasise {
-	font-family: 'Arial Black';
-	line-height: 90%;
-	font-size: 110%
-}
-.date {
-	color: #B30F41;
-	font-size: 70%;
-}
-
-/* colour 00 */
-	.background0, .background00 {
-	background-color: #FFFFFF;
-}
-	.highlight0, HR.type0, .highlight00, HR.type00 {
-	color: #FFFFFF;
-}
-	TABLE.keyline0, TD.keyline0, TABLE.keyline00, TD.keyline00 {
-	background-color: #FFFFFF;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 01 */
-	.background1, .background01 {
-	background-color: #EFEFEF;
-}
-	.highlight1, HR.type1, .highlight01, HR.type01 {
-	color: #EFEFEF;
-}
-	TABLE.keyline1, TD.keyline1, TABLE.keyline01, TD.keyline01 {
-	background-color: #EFEFEF;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 02 */
-	.background2, .background02 {
-	background-color: #CDDFFF;
-}
-	.highlight2, HR.type2, .highlight02, HR.type02 {
-	color: #CDDFFF;
-}
-	TABLE.keyline2, TD.keyline2, TABLE.keyline02, TD.keyline02 {
-	background-color: #CDDFFF;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 03 */
-	.background3, .background03 {
-	background-color: #0000CC;
-}
-	.highlight3, HR.type3, .highlight03, HR.type03 {
-	color: #0000CC;
-}
-	TABLE.keyline3, TD.keyline3, TABLE.keyline03, TD.keyline03 {
-	background-color: #0000CC;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 04 */
-	.background4, .background04 {
-	background-color: #CCCCCC;
-}
-	.highlight4, HR.type4, .highlight04, HR.type04 {
-	color: #CCCCCC;
-}
-	TABLE.keyline4, TD.keyline4, TABLE.keyline04, TD.keyline04 {
-	background-color: #CCCCCC;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 05 */
-	.background5, .background05 {
-	background-color: #B30F41;
-}
-	.highlight5, HR.type5, .highlight05, HR.type05 {
-	color: #B30F41;
-}
-	TABLE.keyline5, TD.keyline5, TABLE.keyline05, TD.keyline05 {
-	background-color: #B30F41;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 06 */
-	.background6, .background06 {
-	background-color: #D9F0D3;
-}
-	.highlight6, HR.type6, .highlight06, HR.type06 {
-	color: #D9F0D3;
-}
-	TABLE.keyline6, TD.keyline6, TABLE.keyline06, TD.keyline06 {
-	background-color: #D9F0D3;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 07 */
-	.background7, .background07 {
-	background-color: #FED184;
-}
-	.highlight7, HR.type7, .highlight07, HR.type07 {
-	color: #FED184;
-}
-	TABLE.keyline7, TD.keyline7, TABLE.keyline07, TD.keyline07 {
-	background-color: #FED184;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 08 */
-	.background8, .background08 {
-	background-color: #EFEFEF;
-}
-	.highlight8, HR.type8, .highlight08, HR.type08 {
-	color: #EFEFEF;
-}
-	TABLE.keyline8, TD.keyline8, TABLE.keyline08, TD.keyline08 {
-	background-color: #EFEFEF;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 09 */
-	.background9, .background09 {
-	background-color: #FFFFF7;
-}
-	.highlight9, HR.type9, .highlight09, HR.type09 {
-	color: #FFFFF7;
-}
-	TABLE.keyline9, TD.keyline9, TABLE.keyline09, TD.keyline09 {
-	background-color: #FFFFF7;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 10 */
-	.background10 {
-	background-color: #990099;
-}
-	.highlight10, HR.type10 {
-	color: #990099;
-}
-	TABLE.keyline10, TD.keyline10 {
-	background-color: #990099;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 11 */
-	.background11 {
-	background-color: #00685C;
-}
-	.highlight11, HR.type11 {
-	color: #00685C;
-}
-	TABLE.keyline11, TD.keyline11 {
-	background-color: #00685C;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 12 */
-	.background12 {
-	background-color: #5A5A5A;
-}
-	.highlight12, HR.type12 {
-	color: #5A5A5A;
-}
-	TABLE.keyline12, TD.keyline12 {
-	background-color: #5A5A5A;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 13 */
-	.background13 {
-	background-color: #DAE3E5;
-}
-	.highlight13, HR.type13 {
-	color: #DAE3E5;
-}
-	TABLE.keyline13, TD.keyline13 {
-	background-color: #DAE3E5;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 14 */
-	.background14 {
-	background-color: #000099;
-}
-	.highlight14, HR.type14 {
-	color: #000099;
-}
-	TABLE.keyline14, TD.keyline14 {
-	background-color: #000099;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 15 */
-	.background15 {
-	background-color: #560F6b;
-}
-	.highlight15, HR.type15 {
-	color: #560F6b;
-}
-	TABLE.keyline15, TD.keyline15 {
-	background-color: #560F6b;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 16 */
-	.background16 {
-	background-color: #6699FF;
-}
-	.highlight16, HR.type16 {
-	color: #6699FF;
-}
-	TABLE.keyline16, TD.keyline16 {
-	background-color: #6699FF;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 17 */
-	.background17 {
-	background-color: #F8F4EA;
-}
-	.highlight17, HR.type17 {
-	color: #F8F4EA;
-}
-	TABLE.keyline17, TD.keyline17 {
-	background-color: #F8F4EA;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 18 */
-	.background18 {
-	background-color: #D3F2F6;
-}
-	.highlight18, HR.type18 {
-	color: #D3F2F6;
-}
-	TABLE.keyline18, TD.keyline18 {
-	background-color: #D3F2F6;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-/* colour 99 */
-	.background99 {
-	background-color: black;
-}
-	.highlight99, HR.type99 {
-	color: black;
-}
-	TABLE.keyline99, TD.keyline99 {
-	background-color: black;
-	border-style: solid;
-	border-width: 2px;
-	border-color: #FFFFFF;
-/* test	border-color: #5A5A5A;*/
-}
-TABLE.bordercolour02, TD.bordercolour02 {
-	border-style: solid;
-	border-color: #CDDFFF;
-	border-width: 2px;
+// Auto news panel rotating
+function autoTab(myids, newdelay) {
+	ids = myids;
+	if (newdelay) {
+		delay = newdelay;
+	}
+	if (lock == true) {
+		lock = false;
+		window.clearInterval(run);
+	} else if (lock == false) {
+		lock = true;
+		run = setInterval("chgTab(ids, 1)", delay);
+	}
 }
 
-TABLE.keyline09, TD.keyline09 {
-	background-color: #FFFFF7;
-	border-style: solid;
-	border-width: 1px;
-	border-color: #5A5A5A;
+function chgTab(myids, direction) {
+	if (myids) {
+		assignTabs(myids);
+	}
+	var currpanel = document.getElementById(NewTab[TabNum]);
+	TabNum = TabNum + direction;
+		if (TabNum > TabLength) {
+			TabNum = 0;
+		}
+		if (TabNum < 0) {
+			TabNum = TabLength;
+		}
+	var nextpanel = document.getElementById(NewTab[TabNum]);
+	nextpanel.style.zIndex = 2;
+	currpanel.style.zIndex = 1;
 }
 
-SELECT.border, TEXTAREA.border, INPUT.border {
-	background-color: #FFFFFF;
- 	border-bottom: #CCCCCC 2px solid;
-	border-left: #5A5A5A 2px solid;
-	border-right: #CCCCCC 2px solid;
-	border-top: #5A5A5A 2px solid;
-	padding-bottom: 1px;
-	padding-left: 1px;
-	padding-right: 1px;
-	padding=top: 1px;
-	font-family: verdana, san-serif;
-font-size: 8pt;
+// Show or hide id
+function swap(show, hide) {
+	var showpanel = document.getElementById(show);
+	var hidepanel = document.getElementById(hide);
+	showpanel.className = 'hide';
+	hidepanel.className = 'show';
 }
 
-TABLE.keyline, TD.keyline {
-	border-style: solid;
-	border-width: 1px;
-	border-color: #5A5A5A;
+/* Display tabbed panel's contents (using .tabpanel, .tab, .tabactive, tabpanelcontents) */
+function selectTab(n, numDiv, panelID) {
+	// iterate all tab-panels
+	for (var i = 0; i < numDiv; i++) {
+		var panel = window.document.getElementById(panelID + "panel" + i);
+		var tab = document.getElementById(panelID + "tab" + i);
+		z = panel.style.zIndex
+		// if clicked and not front, move to front
+		if (i == n && z != ((numDiv * 2) - 1)) {
+			z = numDiv + 98;
+			t = numDiv + 99;
+			c = 'tabactive';
+		} else {
+			z = (numDiv - i);
+			t = z;
+			c = 'tab';
+		}
+		panel.style.zIndex = z;
+		tab.style.zIndex = t;
+		tab.className = c;
+	}
 }
-TABLE.componentkeyline, TD.componentkeyline {
-	border-style: solid;
-	border-width: 1px;
-	border-width-bottom: 0px;
-	border-color: #5A5A5A;
-}
-
-/* Editorial components */
-
-.headline {
-	background: #FFFFFF;
-	font-size: 80%;
-	font-weight: bold;
-	padding-right: 2px;
-	text-decoration: none;
-}
-A.headline:link {
-	text-decoration: none;
-}
-A.headline:active {
-	text-decoration: none;
-}
-A.headline:visited {
-	text-decoration: none;
-}
-A.headline:hover {
-	text-decoration: underline;
-}
-.summary {
-	font-size: 75%;
-	color: black;
-}
-.more {
-	font-size: 65%;
-}
+-->
+</script><link rel="stylesheet" href="/javascript.css" media="screen" type="text/css">
 
 
-A.reverse {
-	font-family: Arial, Helvetica, Tahoma, Sans-serif ;
-	color: darkblue; ;
-	font-weight: normal;
-	text-decoration: none;
-}
-A.reverse:link {
-	text-decoration: none;
-	color: #0000CC;
-}
-A.reverse:active {
-	text-decoration: underline;
-	color: #0000CC;
-}
-A.reverse:visited {
-	text-decoration: none;
-	color: #0000CC;
-}
-A.reverse:hover {
-	text-decoration: underline;
-}
+<script>
 
-/* Printer specific */
+<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
+<!--COPYRIGHT 1997-2004 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
+var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
+var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="ehg-interactive.hitbox.com";
 
-/* Centre components */
+hbx.acct="DM541020K6CS";
+hbx.pn="legal/privacy";
+hbx.mlc="Investing+About+us";
+hbx.pndef="title";
+hbx.ctdef="full";
+hbx.fv="";
+hbx.lt="auto";
+hbx.dlf="n";
+hbx.dft="n";
+hbx.elf="n";
 
+hbx.seg="";
+hbx.fnl="";
 
-.verticaldots {
-	border-style: dotted;
-	border-color: #990099;
-	border-width:0px, 0px, 0px, 1px;
-}
+hbx.cmp="";
+hbx.cmpn="";
+hbx.dcmp="";
+hbx.dcmpn="";
+hbx.dcmpe="";
+hbx.dcmpre="";
+hbx.hra="";
+hbx.hqsr="";
+hbx.hqsp="";
+hbx.hlt="";
+hbx.hla="";
+hbx.gp="";
+hbx.gpn="";
+hbx.hcn="";
+hbx.hcv="";
 
-.componentheader {
-color: #0000CC;
-	background-color: #CDDFFF;
-	padding-left: 5px;
-	padding-right: 5px;
-font-size: 75%;
-	font-weight: bold;
-	line-height: 18px;
-}
+hbx.cp="null";
+hbx.cpd="";
 
-.componentheader1, .componentheader01 {
-color: #5A5A5A;
-	background-color: #EFEFEF;
-	padding-left: 5px;
-	padding-right: 5px;
-font-size: 75%;
-	font-weight: bold;
-	line-height: 18px;
-}
+hbx.ci="";
+hbx.hc1="";
+hbx.hc2="";
+hbx.hc3="";
+hbx.hc4="";
+hbx.hrf="";
+hbx.pec="";
 
-.componentheader2, .componentheader02 {
-color: #FFFFFF;
-	background-color: #0000CC;
-	padding-left: 5px;
-	padding-right: 5px;
-font-size: 75%;
-	font-weight: bold;
-	line-height: 18px;
-}
-
-.componentheader4, .componentheader04 {
-color: #5A5A5A;
-	background-color: #CCCCCC;
-	padding-left: 5px;
-	padding-right: 5px;
-font-size: 75%;
-	font-weight: bold;
-	line-height: 18px;
-}
-
-.componentheader6, .componentheader06 {
-color: #5A5A5A;
-	background-color: #D9F0D3;
-	padding-left: 5px;
-	padding-right: 5px;
-font-size: 75%;
-	font-weight: bold;
-	line-height: 18px;
-}
-
-.componentheader7, .componentheader07 {
-color: #5A5A5A;
-	background-color: #FED184;
-	padding-left: 5px;
-	padding-right: 5px;
-font-size: 75%;
-	font-weight: bold;
-	line-height: 18px;
-}
-
-TABLE.componentheader07 {
-color: #5A5A5A;
-	background-color: #FED184;
-	padding-left: 5px;
-	padding-right: 5px;
-font-size: 75%;
-	font-weight: bold;
-	line-height: 18px;
-	border-style: solid;
-	border-width: 1px;
-	border-bottom-style: none;
-	border-color: #5A5A5A;
-}
-
-.componentheader13 {
-color: #0000CC;
-	background-color: #DAE3E5;
-	padding-left: 5px;
-	padding-right: 5px;
-font-size: 75%;
-	font-weight: bold;
-	line-height: 18px;
-}
-
-.componentheader15, .componentheader10 {
-color: #FFFFFF;
-	background-color: #990099;
-	padding-left: 5px;
-	padding-right: 5px;
-font-size: 75%;
-	font-weight: bold;
-	line-height: 18px;
-}
-
-/* Data Tables */
-
-.tableheader, th {
-	font-size: 70%;
-	color: #0000CC;
-	font-weight: normal;
-}
-.data {
-font-size: 70%;
-color:black;
-}
-.datastrong {
-font-size: 70%;
-font-weight: bold;
-	color:black;
-}
-.tablefooter {
-	font-size: 65%;
-}
-.dividetop {
-	background-color: #0000CC;
-	line-height: 1px;
-	font-size: 1px;
-}
-.dividemid {
-	line-height: 1px;
-	font-size: 1px;
-}
-.dividebot {
-	background-color: #0000CC;
-	line-height: 2px;
-	font-size: 2px;
-}
-.dividenone {
-	line-height: 1px;
-	font-size: 1px;
-}
-.dividehighlight {
-	background-color: #FFFFFF;
-	line-height: 1px;
-	font-size: 1px;
-}
-.divide04 {
-	background-color: #CCCCCC;
-	line-height: 1px;
-	font-size: 1px;
-}
-
-
-/* Centre navigation */
-
-.navhead {
-font-size: 75%;
-	color: #D9F0D3;
-	background-color: #0000CC;
-font-weight: bold;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif 
-}
-.navdate {
-color: #FFFFFF;
-	background-color: #0000CC;
-font-size: 65%;
-	font-weight: bold;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif 
-}
-.navbody {
-color: #FFFFFF;
-background-color: #CDDFFF;
-	border-color: #CDDFFF;
-	font-size: 70%;
-	padding: 2px 3px;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif 
-}
-
-
-.navselected {
-	color: black;
-	background-color: #EFEFEF;
-	border-color:  #EFEFEF;
-	font-size: 70%;
-	padding: 2px 3px;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif 
-}
-.navbg {
-	background-color:  #EFEFEF;
-}
-.navdividetop {
-	background-color: #FFFFFF;
-	line-height: 1px;
-	font-size: 1px;
-}
-.navdividemid {
-	background-color: #FED184;
-	line-height: 2px;
-	font-size: 2px;
-}
-.navdividebot {
-	background-color: #0000CC;
-	line-height: 1px;
-	font-size: 1px;
-}
-.navbg {
-	background-color: #EFEFEF;
-}
-A.nav:link {
-	color: #0000CC;
-	text-decoration: none;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif ;
-}
-A.nav:active {
-	color: #FFFFFF;
-	text-decoration: none;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif ;
-}
-A.nav:visited {
-	color: #0000CC;
-	text-decoration: none;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif ;
-}
-A.nav:hover {
-	color: #FFFFFF;
-	text-decoration: none;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif ;
-}
-
-.smallprint {
-	font-size: 60%;
-	color:black;
-}
-
-/* Portfolio */
-
-.fundtype {
-	color: #0000CC;
-	background-color: #CDDFFF;
-	padding-left: 5px;
-	padding-right: 5px;
-	font-size: 75%;
-	font-weight: bold;
-	line-height: 18px;
-}
-.delay {
-	color: #0000CC;
-	background-color: #CDDFFF;
-	padding-left: 5px;
-	padding-right: 5px;
-	font-size: 75%;
-	line-height: 18px;
-}
-.results {
-	font-size: 80%;
-	color: #CDDFFF;
-	background-color: #0000CC;
-}
-.columntitle {
-	color: black;
-	background-color: #CCCCCC;
-	padding-left: 5px;
-	padding-right: 5px;
-	font-size: 75%;
-	line-height: 18px;
-}
-.row, .row0, .row1, .row2, .row4 {
-	font-family: Arial, Helvetica, Tahoma, Sans-serif ;
-	background-color: #EFEFEF;
-	font-size: 75%;
-	color: black;
-	padding-left: 5px;
-	padding-right: 5px;
-	font-weight: normal;
-}
-.row, .row0 {
-	background-color: #EFEFEF;
-}
-.row1 {
-	background-color: #DAE3E5;
-}
-.row2 {
-	background-color: #CDDFFF;
-}
-.row4 {
-	background-color: #CCCCCC;
-}
-
-	
-
-/* New nav bar */
-
-.topnav, A.topnav:link, A.topnav:visited, A.topnav:hover {
-	background-color: #0000CC;
-	color: #FFFFFF;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif ;
-	font-weight: bold;
-	text-decoration: none;
-	font-size: 75%;
-}
-.topnavselected, A.topnavselected:link, A.topnavselected:visited, A.topnavselected:hover {
-	background-color: #CDDFFF;
-	color: #0000CC;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif ;
-	font-weight: bold;
-	text-decoration: none;
-	font-size: 75%;
-}
-.topnav2, A.topnav2:link, A.topnav2:visited, A.topnav2:hover {
-	background-color: #CDDFFF;
-	color: #0000CC;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif ;
-	text-decoration: none;
-	font-size: 75%; 
-}
-.topnavhighlight0 {
-	background-color: #CDDFFF;
-	font-size: 1px;
-	line-height: 1px ;
-}
-.topnavhighlight1 {
-	background-color: #8989E7;
-	font-size: 1px;
-	line-height: 1px ;
-}
-.topnavhighlight2 {
-	background-color: #A9A9EE;
-	font-size: 1px;
-	line-height: 1px;
-}
-.topnavhighlight3 {
-	background-color: #CACAF4;
-	font-size: 1px;
-	line-height: 1px ;
-}
-.topnavhighlight4 {
-	background-color: #333399;
-	font-size: 1px;
-	line-height: 1px ; 
-}
-.topnavhighlight5 {
-	background-color: #000066;
-	font-size: 2px;
-	line-height: 2px ; 
-}
-.topnavhighlight6 {
-	background-color: black;
-	font-size: 1px;
-	line-height: 1px ; 
-}
-
-.navdividebot {
-	background-color: #000099;
-	line-height: 1px;
-	font-size: 1px;
-}
-.sidenavselected {
-color: black;
-background-color: #EFEFEF;
-	border-color: #EFEFEF;
-	font-size: 70%;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif 
-}
-.sidenavbody {
-color: #FFFFFF;
-background-color: #CDDFFF;
-	border-color: #CDDFFF;
-	font-size: 70%;
-	font-family: Verdana, Arial, Helvetica, Tahoma, Sans-serif 
-}
-
-
- -->
-</style>
-<!------ OAS SETUP begin ------>
-<script language="JavaScript">
-<!--
-//configuration
-OAS_url ='http://multi1.rmuk.co.uk/RealMedia/ads/';
-OAS_listpos = 'Left1,Left2,Left3,Position1,Right,Top,TopRight,x01,x02,x03';
-OAS_query = '?';
-OAS_sitepage = 'iii.co.uk/home';
-//end of configuration
-OAS_version = 10;
-OAS_rn = '001234567890'; OAS_rns = '1234567890';
-OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
-function OAS_NORMAL(pos) { 
-	document.write('<a href="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '" TARGET=_top>');
-	document.write('<img src="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '!' + pos + OAS_query + '"  BORDER=0 ALT="Click!"></A>');
-}
-//-->
 </script>
-<script language="JavaScript1.1">
-<!--
-OAS_version = 11;
-if (navigator.userAgent.indexOf('Mozilla/3') != -1)
-OAS_version = 10;
-if (OAS_version >= 11)
-document.write('<SC'+'RIPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + OAS_query + '"><\/SCRIPT>');
-//-->
-</script><script language="JavaScript1.1" src="http://multi1.rmuk.co.uk/RealMedia/ads/adstream_mjx.ads/iii.co.uk/home/1938220175@Left1,Left2,Left3,Position1,Right,Top,TopRight,x01,x02,x03?"></script>
+
+<!-- OAS SETUP begin -->
+
 <script language="JavaScript">
+var adds_lookup= new Array();
+adds_lookup['Right2']='Left2';
+adds_lookup['Top1']='Top';
+adds_lookup['Right3']='Left3';
+adds_lookup['MastHead']='MastHead';
+adds_lookup['Top2']='Top';
+adds_lookup['MPU']='MPU';
+adds_lookup['Top']='Top';
+adds_lookup['Centre1']='Middle1';
+adds_lookup['Centre2']='Middle2';
+adds_lookup['Right1']='Left1';
+
+function convert_tag(tag)
+{
+        if (tag)
+        {
+                var theirtag = adds_lookup[tag];
+                return theirtag;
+        }
+        return;
+}
+</script>
+<script language="JavaScript">
+var adds_xy_lookup= new Array();
+adds_xy_lookup['Left1']='120x90';
+adds_xy_lookup['']='200x200';
+adds_xy_lookup['Middle1']='468x30';
+adds_xy_lookup['Left2']='120x60';
+adds_xy_lookup['Middle2']='180x150';
+adds_xy_lookup['Left3']='120x600';
+adds_xy_lookup['Top']='468x60';
+
+function xypos(tag)
+{
+        if (tag)
+        {
+                var xypos = adds_xy_lookup[tag];
+                return xypos;
+        }
+        return;
+}
+
+
+
+</script>
+<script language="javascript" type="text/javascript">
 <!-- 
 document.write('');
+ord=Math.random()*10000000000000000;
+var my_tile=0;
 function OAS_AD(pos) {
-	if (OAS_version >= 11 && typeof(OAS_RICH!='undefined'))
-		OAS_RICH(pos);
+	var undefined;
+	my_tile++;
+
+	var III_OAS_list_array = new Array();
+	
+	III_OAS_list_array['Top']='1';
+	III_OAS_list_array['Left1']='1';
+	III_OAS_list_array['Left2']='1';
+	III_OAS_list_array['Left3']='1';
+	III_OAS_list_array['MPU']='1';
+	III_OAS_list_array['MastHead']='1';
+
+	if (III_OAS_list_array[pos] == null)	
+	{
+		//alert("You are trying to use an advertising tag of '" + pos + "' on this page. Please, contact your nearest friendliest developer and ask them to add this tag to the configuration for this page '/about/'. This message will automatically dissapear when it's done, thank you.");
+	}
 	else
-		OAS_NORMAL(pos);
+	{
+	var my_dcopt;
+	if (pos == convert_tag('Top'))
+	{
+		my_dcopt = 'ist';
+	}
+	else if(pos == convert_tag('Top1'))
+	{
+		my_dcopt = 'ist';
+	}
+	else if(pos == convert_tag('Top2'))
+	{
+		my_dcopt = 'ist';
+	}
+	else
+	{
+		my_dcopt='';
+	}
+
+	//alert('Pos = ' + pos + ' tile = ' + my_tile + ' dcopt = ' + my_dcopt);
+		
+
+string = '<SCRIPT LANGUAGE="JavaScript" SRC="http://ad.uk.doubleclick.net/adj/ii_top_bottom_nav/;zone=;pos='+pos+';env=;dcopt=' + my_dcopt + ';sz='+xypos(pos) + ';tile=' + my_tile + ';ord=' + ord + '?" ><\/SCRIPT>';
+
+//alert (string);
+document.write(string);
+
+        // SITE = ii_top_bottom_nav
+ // ZONE = 
+ // ENV =  
+	}
 }
 //-->
 </script>
-<!------ OAS SETUP end ------>
-
+<!-- OAS SETUP end -->
+<script language="javascript1.1" src="/js/hbx.js"></script>
 </head>
 
-<body bgcolor="#ffffff" topmargin="0" marginheight="0" marginwidth="0" leftmargin="0" rightmargin="0">
-	<!-- setting the cookie -->
-<div align="left">
-<table width="100%" border="0">
-  <tbody><tr>
-     <!-- DISPLAY LOGO -->
-     <td align="left">
-     &nbsp;&nbsp;<a href="/" target=""><img src="/icons/logos/uk_logo.gif" width="140" height="67" border="0" alt="logo"></a>
-     </td>
+<body bgcolor="#ffffff">
+<div class="hide"><a href="#content" title="Skip navigation" accesskey="2">Skip navigation</a></div>
 
-     <!-- DISPLAY ADVERT -->
-     <td align="right">
-       <script language="JavaScript">
-        <!--
-        OAS_AD('Top');
-        //-->
-        </script>
-	    </td>
-     </tr>
-</tbody></table>
-
-<script language="JavaScript">
+<div id="top">
+<table style="margin:0; padding:0" width="770" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr valign="middle">
+	<td class="brand" align="left" nowrap="nowrap">
+<a href="/"><img src="/icons/logos/uk_logo.gif" width="140" height="67" border="0" alt="logo"></a>
+<script language="JavaScript" type="text/javascript">
 <!--
-	OAS_AD('Position1');
-//-->
+OAS_AD(convert_tag('RichPop'));
+-->
 </script>
-
-<!-- NAV BAR -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr class="background3">
-	<td>
-	<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	  	<tbody><tr class="topnavhighlight1">
-	<td class="topnavhighlight0">&nbsp;<br></td>
-		<td class="topnavhighlight1">&nbsp;<br></td>
-  		<td class="topnavhighlight1">&nbsp;<br></td>
-  		<td class="topnavhighlight1">&nbsp;<br></td>
-  		<td class="topnavhighlight1">&nbsp;<br></td>
-  		<td class="topnavhighlight1">&nbsp;<br></td>
-  		<td class="topnavhighlight1" width="100%">&nbsp;<br></td>
-		</tr>
-	
-		<tr class="topnavhighlight2">
-	<td class="topnavhighlight0">&nbsp;<br></td>
-		<td class="topnavhighlight2">&nbsp;<br></td>
-  		<td class="topnavhighlight2">&nbsp;<br></td>
-  		<td class="topnavhighlight2">&nbsp;<br></td>
-  		<td class="topnavhighlight2">&nbsp;<br></td>
-  		<td class="topnavhighlight2">&nbsp;<br></td>
-  		<td class="topnavhighlight2" width="100%">&nbsp;<br></td>
-		</tr>
-	
-		<tr class="topnavhighlight3">
-	<td class="topnavhighlight0">&nbsp;<br></td>
-		<td class="topnavhighlight3">&nbsp;<br></td>
-  		<td class="topnavhighlight3">&nbsp;<br></td>
-  		<td class="topnavhighlight3">&nbsp;<br></td>
-  		<td class="topnavhighlight3">&nbsp;<br></td>
-  		<td class="topnavhighlight3">&nbsp;<br></td>
-  		<td class="topnavhighlight3">&nbsp;<br></td>
-		</tr>
-	
-		<tr>
-	<td align="center" class="background2" title="Register, update your profile, get help and find out about us" onclick="location.href='/'" onmouseover="this.style.cursor='hand'"><a class="topnavselected" target="" href="/">&nbsp;&nbsp;&nbsp;Home&nbsp;&nbsp;&nbsp;</a><br></td>
-		<td align="center" class="background3" title="Track and manage your shares and funds" onclick="location.href='/portfolio'" onmouseover="this.style.cursor='hand'"><a class="topnav" target="" href="/portfolio">&nbsp;&nbsp;&nbsp;Portfolio&nbsp;&nbsp;&nbsp;</a><br></td>
-			<td align="center" class="background3" title="Beat the market with all the share news and information you need" onclick="location.href='/shares/'" onmouseover="this.style.cursor='hand'"><a class="topnav" target="" href="/shares/">&nbsp;&nbsp;&nbsp;Shares&nbsp;&amp;&nbsp;CFDs&nbsp;&nbsp;&nbsp;</a><br></td>
-			<td align="center" class="background3" title="Find, buy and manage your ISA all in one place" onclick="location.href='/isa/'" onmouseover="this.style.cursor='hand'"><a class="topnav" target="" href="/isa/">&nbsp;&nbsp;&nbsp;ISAs&nbsp;&amp;&nbsp;funds&nbsp;&nbsp;&nbsp;</a><br></td>
-			<td align="center" class="background3" title="Bringing you competitive deals" onclick="location.href='/money/'" onmouseover="this.style.cursor='hand'"><a class="topnav" target="" href="/money/">&nbsp;&nbsp;&nbsp;Everyday&nbsp;finances&nbsp;&nbsp;&nbsp;</a><br></td>
-			<td align="center" class="background3" title="Discuss your investments, vote, complain, learn, have your say" onclick="location.href='/insider/'" onmouseover="this.style.cursor='hand'"><a class="topnav" target="" href="/insider/">&nbsp;&nbsp;&nbsp;Learn&nbsp;&nbsp;&nbsp;</a><br></td>
-			<td nowrap="" align="right" valign="middle" class="smallprint"><a href="/help/" class="nav" style="color:white; font-family:arial"><img align="absmiddle" hspace="2" vspace="2" src="/common/icons/generic/contact_us.gif" width="18" height="18" border="0" alt="">Contact us</a>&nbsp;&nbsp;<a href="/logout/" class="nav" style="color:white; font-family:arial"><img align="absmiddle" hspace="3" vspace="2" src="/common/icons/generic/login_off.gif" width="16" height="18" border="0">Log out</a>&nbsp;&nbsp;</td>
-
-	</tr>
-	
-		<tr class="topnavhighlight4">
-	<td class="topnavhighlight0">&nbsp;<br></td>
-		<td class="topnavhighlight4">&nbsp;<br></td>
-  		<td class="topnavhighlight4">&nbsp;<br></td>
-  		<td class="topnavhighlight4">&nbsp;<br></td>
-  		<td class="topnavhighlight4">&nbsp;<br></td>
-  		<td class="topnavhighlight4">&nbsp;<br></td>
-  		<td class="topnavhighlight4">&nbsp;<br></td>
-		</tr>
-	
-		<tr class="topnavhighlight5">
-	<td class="topnavhighlight0">&nbsp;<br></td>
-		<td class="topnavhighlight5">&nbsp;<br></td>
-  		<td class="topnavhighlight5">&nbsp;<br></td>
-  		<td class="topnavhighlight5">&nbsp;<br></td>
-  		<td class="topnavhighlight5">&nbsp;<br></td>
-  		<td class="topnavhighlight5">&nbsp;<br></td>
-  		<td class="topnavhighlight5">&nbsp;<br></td>
-		</tr>
-	</tbody></table>
 	</td>
-	</tr>
-
-<tr align="left" class="background2" height="23">
-	<td class="background2" height="23" valign="top" colspan="2">
-
-	<table cellpadding="1" cellspacing="0" border="0">
-  		<tbody><tr>
-		<td width="154" height="23" valign="top" class="background2">&nbsp;</td>
-		<td class="background2">
-	<nobr><a class="topnav2" target="" href="/registration/">Register</a>&nbsp;</nobr>
-			<nobr><a class="topnav2" target="" href="/profile/">My profiles</a>&nbsp;</nobr>
-			<nobr><a class="topnav2" target="" href="/help/">Customer services</a>&nbsp;</nobr>
-			<nobr><a class="topnav2" target="" href="/home/sitemap/">Site map</a>&nbsp;</nobr>
-			<nobr><a class="topnav2" target="" href="/about/">About us</a>&nbsp;&nbsp;</nobr>
-			&nbsp;
-		</td>
-		</tr>
-	</tbody></table>
-
+	<td class="advert" align="right">
+<script language="JavaScript" type="text/javascript">
+<!--
+OAS_AD(convert_tag('Top'));
+-->
+</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ii_top_bottom_nav/;zone=;pos=Top;env=;dcopt=ist;sz=468x60;tile=2;ord=345292184751582.2?"></script>
 	</td>
 	</tr>
 </tbody></table>
+
 </div>
-
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-
-<tbody><tr>
-	<td rowspan="3" width="134" valign="top" class="background1">
+<div id="usertools">
 <ul>
-			</ul><table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr class="background2">
-	<td class="background2" height="25">&nbsp;&nbsp;&nbsp;</td>
-	<td class="h2" valign="bottom"><a class="nav" href="?type="><span style="color:#0000CC;" align="right">About us&nbsp;<br>
-	<div style="font-size:30%;position: relative; top: -4px;" align="right">&nbsp;</div>
-	</span></a></td>
-	<td class="background2" height="25">&nbsp;&nbsp;&nbsp;</td>
-	</tr>
-
-
-<tr><td class="navdividebot" colspan="3">&nbsp;<br></td></tr>
-				<tr><td class="navdividetop" colspan="3">&nbsp;<br></td></tr>
-			<tr>
-				<td class="sidenavbody" height="18">&nbsp;&nbsp;</td>
-				<td class="sidenavbody" height="18"> 
-				<a class="nav" href="?type=press&#9;">
-				Press centre	</a></td>
-				<td class="sidenavbody" height="18">&nbsp;&nbsp;</td>
-				</tr>
-
-			<tr><td class="navdividebot" colspan="3">&nbsp;<br></td></tr>
-				<tr><td class="navdividetop" colspan="3">&nbsp;<br></td></tr>
-			<tr>
-				<td class="sidenavbody" height="18">&nbsp;&nbsp;</td>
-				<td class="sidenavbody" height="18"> 
-				<a class="nav" href="?type=advertising&#9;">
-				Advertising on Ample	</a></td>
-				<td class="sidenavbody" height="18">&nbsp;&nbsp;</td>
-				</tr>
-
-			<tr><td class="navdividebot" colspan="3">&nbsp;<br></td></tr>
-				<tr><td class="navdividetop" colspan="3">&nbsp;<br></td></tr>
-			<tr>
-				<td class="sidenavselected" height="18">&nbsp;&nbsp;</td>
-				<td class="sidenavselected" height="18"> Legal terms</td>
-				<td class="sidenavselected" height="18">&nbsp;&nbsp;</td>
-				</tr>
-			<tr class="background1">
-				<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-					<td class="sidenavselected" height="15"><img src="/icons/pixel.gif" width="8" height="8" alt="" border="0">&nbsp;
-
-					<a class="xxx" href="?subtype=terms&amp;type=legal" title="Terms and conditions">
-					General site</a>
-					</td>
-
-					<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-				</tr>
-			<tr class="background1">
-				<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-					<td class="sidenavselected" height="15"><img src="/icons/pixel.gif" width="8" height="8" alt="" border="0">&nbsp;
-
-					<a class="xxx" href="?subtype=secure_account&amp;type=legal" title="Secure account">
-					Secure account</a>
-					</td>
-
-					<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-				</tr>
-			<tr class="background1">
-				<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-					<td class="sidenavselected" height="15"><img src="/icons/pixel.gif" width="8" height="8" alt="" border="0">&nbsp;
-
-					<a class="xxx" href="?subtype=isapep&amp;type=legal" title="ISA &amp; PEP">
-					ISA &amp; PEP</a>
-					</td>
-
-					<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-				</tr>
-			<tr class="background1">
-				<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-					<td class="sidenavselected" height="15"><img src="/icons/pixel.gif" width="8" height="8" alt="" border="0">&nbsp;
-
-					<a class="xxx" href="?subtype=unwrapped&amp;type=legal" title="ISA &amp; PEP">
-					Unwrapped</a>
-					</td>
-
-					<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-				</tr>
-			<tr class="background1">
-				<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-					<td class="sidenavselected" height="15"><img src="/icons/pixel.gif" width="8" height="8" alt="" border="0">&nbsp;
-
-					<a class="xxx" href="?subtype=discussion&amp;type=legal" title="Discussions">
-					Discussions</a>
-					</td>
-
-					<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-				</tr>
-			<tr class="background1">
-				<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-					<td class="sidenavselected" height="15"><img src="/icons/pixel.gif" width="8" height="8" alt="" border="0">&nbsp;
-
-					<a class="xxx" href="?subtype=secure&amp;type=legal" title="Risk warning">
-					Risk warning</a>
-					</td>
-
-					<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-				</tr>
-			<tr class="background1">
-				<td class="sidenavselected" height="15">&nbsp;</td>
-					<td class="sidenavselected" onmouseover="this.style.cursor='help'" style="CURSOR: help" title="Currently displayed - Privacy" height="15"><img src="/icons/centres/navarrow.gif" width="8" height="8" alt=">" border="0">&nbsp;Privacy</td>
-					<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-				</tr>
-			<tr class="background1">
-				<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-					<td class="sidenavselected" height="15"><img src="/icons/pixel.gif" width="8" height="8" alt="" border="0">&nbsp;
-
-					<a class="xxx" href="?subtype=security&amp;type=legal" title="Security">
-					Security</a>
-					</td>
-
-					<td class="sidenavselected" height="15">&nbsp;&nbsp;</td>
-				</tr>
-			
-				
-			<tr class="background1"><td height="2" colspan="3"><span style="font-size:6pt">&nbsp;&nbsp;</span></td></tr>
-		<tr><td class="navdividebot" colspan="3">&nbsp;<br></td></tr>
-<tr><td class="navdividetop" colspan="3">&nbsp;<br></td></tr>
-
-</tbody></table>
-
-<div align="center">
-
-
+	<li><a id="last" title="General site conditions, discussion board terms, ISA and PEP terms, etc." href="/about/?type=legal">Terms &amp; Conditions</a></li>
+	<li><a title="Common questions, FAQs, online support, forgotten password" href="/help/">Help</a></li>
+	<li><a title="Define all those tricky finance words." href="http://www.finance-glossary.com/pages/home.htm?ginPtrCode=12738&amp;PopupMode=false">Glossary</a></li>
+	<li><a title="An overview of the main site areas" href="/home/?type=sitemap">Site Map</a></li>
+	<li><a title="The history of Interactive Investor, formerly known as Ample (Ample.com)." href="/about/">About Us</a></li>
+	<li><a title="Update your address and subscribe for finance newsletters." href="/profile/">My Profiles</a></li>
+	<li><a title="Register on Interactive Investor for a portfolio, to set up a share dealing account, to buy funds and ISAs, to sign up for newsletters and to access some of our share trading tools and information. It's free to register, click here." href="/registration/">Register</a></li>
+	<li>&nbsp;&nbsp;Thursday  9 December 2004</li>
+</ul>
 </div>
-		</td>
-	<td width="20" rowspan="3">&nbsp;&nbsp;&nbsp;</td>
-	<td style="line-height:20px; font-size:20px;">&nbsp;</td>
-	<td>&nbsp;&nbsp;</td>
-	</tr>
-	<tr>
-	<td valign="top">
-<h3>Privacy Policy</h3>
+<div id="breadcrumbs">
+	<div style="float:left">
+<a href="/">Home</a>
+	/ <a href="/news/">Investing</a>
+	/ <a href="/about/">About us</a>
+	/ <a href="/about/?subtype=privacy&amp;type=legal">Legal terms</a>
+	</div>
+	<div class="dontprint" style="float:right; padding-right:160px">
+<img src="/i/generic/pad_lock_blue.gif" alt="" width="12" height="15" border="0" align="absmiddle"> Login: <a title="Login to Share dealing account" href="/reg/sharedealing/?type=myshares">Shares</a> | <a title="Login to My Funds account" href="/reg/wealth/?type=shares_and_funds&amp;action=holdings_bounce">Funds</a> | <a title="Login to CFDs Trading account" href="http://www.iii.co.uk/go?c=x9j5xj">CFDs</a> | <a href="/logout/">Logout</a>
+	</div>
+</div>
+<div id="container">
+<div id="leftcol">
 
-<p class="smallprint">Version: 17 December 2003</p>
+		<div id="navcontainer">
 
-<h4>Introduction</h4>
-<p class="summary">1.	We take our obligations under the Data Protection Act 1998 and all related regulations ("the Act") very seriously and have taken steps to ensure compliance with the provisions of the Act.  </p>
-<p class="summary">2.	This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below.  Defined terms in this Privacy Policy have the same meanings as in the <a href="?subtype=terms&amp;type=legal">General Site Conditions</a> and the Act. </p>
+	<ul><li><a title="Get a snapshot of the tools and services provided by one of the UK's leading finance  websites." href="/">Home</a></li><li><a title="Get the latest investment news and ideas from our investment experts." href="/news/">Investing</a><ul class="subnav"><li><a title="Business and finance news from Reuters and AFX." href="/news/" class="inactive">News</a></li><li><a title="Latest summaries and updates, plus newspaper tips, world investment markets, share prices, share quotes, winners and losers and most active traders." href="/markets/" class="inactive">Markets</a></li><li><a title="Sign up for a snapshot of your wealth in our free portfolio. Track your stocks and shares, funds, property and more." href="/wealth/" class="inactive">Portfolio</a></li><li><a title="Buy and sell stocks and shares. Share dealing news, how to's and information." href="/sharedealing/" class="inactive">Share Trading</a></li><li><a title="Sign up to trade Contracts For Difference. Short or go long." href="/cfd/" class="inactive">CFD Trading</a></li><li><a title="Buy a UK ISA from our ISA fund supermarket or transfer." href="/isas/" class="inactive">ISAs</a></li><li><a title="Buy funds, ISAs, unit trusts and OEICs online or complete a PEP transfer." href="/funds/" class="inactive">Funds</a></li><li><a title="Find a property, UK or abroad, value your home, commercial property, land for sale, buy to let, property as your pension, mortgages, conveyancing and much more" href="http://personalfinance.iii.co.uk/property/" class="inactive">Property</a></li><li><a title="Exchange tips on Interactive Investor's bulletin boards and message boards." href="/community/" class="inactive">Community</a></li></ul></li><li><a title="Maximise your money. View a large range of personal finance articles and tools." href="http://personalfinance.iii.co.uk">Personal Finance</a><ul class="subnav"><li><a title="Improve your spending, saving and budgeting by using our financial planning tools." href="http://personalfinance.iii.co.uk/planning/" class="inactive">Planning</a></li><li><a title="Free review service. Mortgage calculator . Get the best rate. Endowments, repayment, buy to let, property abroad." href="http://personalfinance.iii.co.uk/mortgages/" class="inactive">Mortgages</a></li><li><a title="Compare credit cards , APR, interest rates, platinum cards, etc." href="http://personalfinance.iii.co.uk/creditcards/" class="inactive">Credit cards</a></li><li><a title="Compare loan rates, APR, interest rates, repayment periods." href="http://personalfinance.iii.co.uk/loans/" class="inactive">Loans</a></li><li><a title="Find the highest interest rates on savings accounts. Cash ISAs." href="http://personalfinance.iii.co.uk/savings/" class="inactive">Savings</a></li><li><a title="Compare current accounts and banks, interest rates, overdraft facilities, cheque books, branch networks." href="http://personalfinance.iii.co.uk/banking/" class="inactive">Banking</a></li><li><a title="Review pension information for your retirement, SIPPs, annuities, tax savings, pension guides." href="http://personalfinance.iii.co.uk/pensions/" class="inactive">Pensions</a></li><li><a title="Find cheap home insurance, travel insurance, car insurance and pet insurance. Plus protection products from LloydsTSB and Hiscox." href="http://personalfinance.iii.co.uk/insurance/" class="inactive">Insurance</a></li><li><a title="Get help finding the most appropriate life insurance protection policy." href="http://personalfinance.iii.co.uk/lifeinsurance/" class="inactive">Life Insurance</a></li><li><a title="Tax tips and links to the Inland Revenue's online services. Guides to higher and lower rates of tax, tax saving tips, pensions, SIPPS, CGT." href="http://personalfinance.iii.co.uk/tax/" class="inactive">Tax</a></li><li><a title="Compare and save on gas, electricity and telephone bills. Utilities made easy." href="http://personalfinance.iii.co.uk/cutbills/" class="inactive">Cut your bills</a></li></ul></li></ul>
 
-<h4>What Personal Data do we collect and why</h4>
 
-<p class="summary">3.	When you register and use the Site, we will ask you to provide certain data, such as your contact details and demographic information.  We may supplement the information that you provide us with information we receive from our Service Providers and/or other third parties.</p>
-<p class="summary">4.	The principal purposes for which we process and store your Personal Data are:</p>
-<ul class="summary">
+	</div>
+
+	</div>
+<div id="advert_right" class="advert oas_left">
+		<div class="smallprint" align="center">ADVERTISEMENT</div>
+<!-- OAS AD 'Left1' begin -->
+<script language="javascript">
+<!--
+	OAS_AD(convert_tag('Right1'));
+//-->
+</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ii_top_bottom_nav/;zone=;pos=Left1;env=;dcopt=;sz=120x90;tile=3;ord=345292184751582.2?"></script>
+<!-- OAS AD 'Left1' end -->
+
+<!-- OAS AD 'Left2' begin -->
+<script language="javascript">
+<!--
+	OAS_AD(convert_tag('Right2'));
+//-->
+</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ii_top_bottom_nav/;zone=;pos=Left2;env=;dcopt=;sz=120x60;tile=4;ord=345292184751582.2?"></script>
+<!-- OAS AD 'Left2' end -->
+
+<!-- OAS AD 'Left3' begin -->
+<script language="javascript">
+<!--
+	OAS_AD(convert_tag('Right3'));
+//-->
+</script><script language="JavaScript" src="http://ad.uk.doubleclick.net/adj/ii_top_bottom_nav/;zone=;pos=Left3;env=;dcopt=;sz=120x600;tile=5;ord=345292184751582.2?"></script>
+<!-- OAS AD 'Left3' end -->
+	</div>
+	<div id="content">
+
+<h1>Privacy Policy</h1>
+
+<p class="smallprint">Version: 14 September 2004</p>
+
+<h2>Introduction</h2>
+
+<p>1.	We take our obligations under the Data Protection Act 1998 and all related regulations ("the Act") very seriously and have taken steps to ensure compliance with the provisions of the Act.  </p>
+
+<p>2.	This Privacy Policy sets out the principles governing our use of your Personal Data. By registering to use the services available on our website (the "Site") and by using the Site generally, you agree to the principles set out below.  Defined terms in this Privacy Policy have the same meanings as in the <a href="http://iiidev3.iii.co.uk/help/help.epl?page=terms.epl">General Site Conditions</a> and the Act. </p>
+
+<h2>What Personal Data do we collect and why</h2>
+
+<p>3.	When you register and use the Site, we will ask you to provide certain data, such as your contact details and demographic information.  We may supplement the information that you provide us with information we receive from our Service Providers and/or other third parties.</p>
+
+<p>4.	The principal purposes for which we process and store your Personal Data are:</p>
+
+<ul>
 	<li>to allow you to personalise services provided via the Site (for example, allowing you to create and customise your own portfolios);
 	</li><li>to speed up the application process for Trading Services (for example, by collecting personal details we can pre-populate new applications and other forms on the Site saving you time in filling in those details);
 	</li><li>to monitor, improve and administer the Site and the services provided on the Site;
-	</li><li>to enable Service Providers to assist in providing, maintaining and operating the Trading Services; 
+	</li><li>to enable Service Providers to assist in providing, maintaining and operating the Trading Services;
 	</li><li>to enable us to conduct surveys and aggregate user profiles;
 	</li><li>to enable us to conduct prize draws which you have entered via the Site;
 	</li><li>to provide you with information on selected products and selected services that we think may be of interest to you (unless you have asked us not to do so); and
 	</li><li>to enable us to comply with our legal and regulatory obligations.
 </li></ul>
-<p class="summary">Full details of the purposes are set out in our Data Protection registration.</p>
 
-<p class="summary">5.	As part of our customer service we may also share your Personal Data with other HHG Group companies so that we can provide you with appropriate information about our or other HHG Group products and selected services.  You will be able to indicate on the Site if you do not wish to receive such information.  You may also notify us at any time on the "My Profile" page on the Site or by contacting the Ample Contact Centre on 0845 88 00 267 if you decide you do not want to receive such information.</p>
+<p>Full details of the purposes are set out in our Data Protection registration.</p>
 
-<h4>Use of Cookies</h4>
+<p>5.	As part of our customer service we may also share your Personal Data with other companies so that we can provide you with appropriate information about our or other company’s products and selected services. You will be able to indicate on the Site if you do not wish to receive such information. You may also notify us at any time on the "My Profile" page on the Site or by contacting the Interactive Investor Contact Centre on 0845 88 00 267 if you decide you do not want to receive such information.</p>
 
-<p class="summary">6.	To enable us to provide the services available on the Site and to monitor and improve the Site, we may gather certain information about you, including details of your operating system, browser version, domain name and IP address, the details of the web site you linked from to the Site.</p>
-<p class="summary">7.	We may use cookies only to store information such as your User name and your session identifiers to enable us to identify whether you are registered on to the Site and, if so, to shortcut your access to the Site.  We will only read cookies from your cookie file placed there through your web browser's interaction with the Site. </p>
+<h2>Use of Cookies</h2>
 
-<h4>Security of your Personal Data</h4>
+<p>6.	To enable us to provide the services available on the Site and to monitor and improve the Site, we may gather certain information about you, including details of your operating system, browser version, domain name and IP address, the details of the web site you linked from to the Site.</p>
 
-<p class="summary">8.	We endeavour to take all reasonable steps to protect your Personal Data including the use of encryption technology, but cannot guarantee the security of any Personal Data you disclose online. You accept the inherent security implications of dealing online over the internet and will not hold us responsible for any breach of security unless we have been negligent or in wilful default. </p>
-<p class="summary">9.	For further information on the security of the Site and your Personal Data please click here to view our Security Policy.</p>
+<p>7.	We may use cookies only to store information such as your User name and your session identifiers to enable us to identify whether you are registered on to the Site and, if so, to shortcut your access to the Site.  We will only read cookies from your cookie file placed there through your web browser's interaction with the Site. </p>
 
-<h4>Communications between us</h4>
+<h2>Security of your Personal Data</h2>
 
-<p class="summary">10.	We may intercept, record and/or monitor any communication(s) (including telephone calls or other electronic communications) between you and us.  We may do so in order to resolve queries in the future and for the purposes of ensuring security, staff training and complying with our regulatory and legal responsibilities.</p>
-<p class="summary">11.	In the case of communications by email you should note that as emails are not currently encrypted (and may therefore be intercepted by third parties) and as the identity of the sender cannot be confirmed you must NOT provide your security details by email and should avoid providing any Personal Data to us by email.  We will not provide Personal Data to you be email.</p>
-<p class="summary">12.	We have certain responsibilities under the Money Laundering Regulations 1993 and the FSA Rules to verify the identity of clients and may need to make certain enquiries and obtain certain information from you for that purpose. You confirm that all information you supply will be accurate and that we may disclose such information as we consider necessary to comply with any reporting or legal and regulatory requirements. </p>
-<p class="summary">13.	You agree that we may disclose to the FSA and to any other regulatory authority to which we are subject and to any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them), or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you or, if relevant, any of your clients. </p>
+<p>8.	We endeavour to take all reasonable steps to protect your Personal Data including the use of encryption technology, but cannot guarantee the security of any Personal Data you disclose online. You accept the inherent security implications of dealing online over the internet and will not hold us responsible for any breach of security unless we have been negligent or in wilful default. </p>
 
-<h4>Obtaining copies of and changing your Personal Data</h4>
+<p>9.	For further information on the security of the Site and your Personal Data please click here to view our Security Policy.</p>
 
-<p class="summary">14.	In the event that you wish to see a copy of your Personal Data held by us please visit the "My Profiles" page on the Site or write to:</p>
-<blockquote class="summary">
-The Ample Data Protection Officer<br>
+<h2>Communications between us</h2>
+
+<p>10.	We may intercept, record and/or monitor any communication(s) (including telephone calls or other electronic communications) between you and us.  We may do so in order to resolve queries in the future and for the purposes of ensuring security, staff training and complying with our regulatory and legal responsibilities.</p>
+
+<p>11.	In the case of communications by email you should note that as emails are not currently encrypted (and may therefore be intercepted by third parties) and as the identity of the sender cannot be confirmed you must NOT provide your security details by email and should avoid providing any Personal Data to us by email.  We will not provide Personal Data to you be email.</p>
+
+<p>12.	We have certain responsibilities under the Money Laundering Regulations 2003 and the FSA Rules to verify the identity of clients and may need to make certain enquiries and obtain certain information from you for that purpose. You confirm that all information you supply will be accurate and that we may disclose such information as we consider necessary to comply with any reporting or legal and regulatory requirements. </p>
+
+<p>13.	You agree that we may disclose to the FSA and to any other regulatory authority to which we are subject and to any investment exchange on which we may deal or to its related clearing house (or to investigators, inspectors or agents appointed by them), or to any person empowered to require such information by or under any legal enactment, any information they may request or require relating to you or, if relevant, any of your clients. </p>
+
+<h2>Obtaining copies of and changing your Personal Data</h2>
+
+<p>14.	In the event that you wish to see a copy of your Personal Data held by us please visit the "My Profiles" page on the Site or write to:</p>
+
+<address>
+The Interactive Investor Data Protection Officer<br>
 Interactive Investor Trading Limited<br>
 Dashwood House,<br>
 69 Old Broad Street,<br>
 London<br>
 EC2M 1QS
-</blockquote>
-<p class="summary">15.	We will amend or delete any Personal Data relating to you which is found to be incorrect or not relevant in accordance with the Act.  If you are aware of any changes that should be made to your Personal Data please visit the "My Profiles" page on the Site or otherwise notify the Ample Contact Centre on <nobr>0845 88 00 267</nobr> as soon as possible.</p>
-</td>
-	<td>&nbsp;&nbsp;</td>
-	</tr>
-</tbody></table>
+</address>
 
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td>&nbsp;&nbsp;</td>
-	<td><br>
-	<table width="100%" cellspacing="0" cellpadding="0" border="0">
- 	   <tbody><tr>
-	<td colspan="2" background="/i/generic/dash_white.gif" class="dividenone">&nbsp;<br></td>
-	</tr>
+<p>15.	We will amend or delete any Personal Data relating to you which is found to be incorrect or not relevant in accordance with the Act.  If you are aware of any changes that should be made to your Personal Data please visit the "My Profiles" page on the Site or otherwise notify the Interactive Investor Contact Centre on <span style="white-space:nowrap">0845 88 00 267</span> as soon as possible.</p>
+</div>
 
-	<tr>
-	<td class="summary" height="21">
-&nbsp;&nbsp;&nbsp;
-<a href="/about/?type=legal" class="reverse">Legal terms</a>
-&nbsp;&nbsp;&nbsp;
-<a href="/about/?type=legal&amp;subtype=secure" class="reverse">Risk warning</a>
-&nbsp;&nbsp;&nbsp;
-<a href="/about/?type=legal&amp;subtype=privacy" class="reverse">Privacy</a>
-&nbsp;&nbsp;&nbsp;
-<a href="/about/?type=legal&amp;subtype=security" class="reverse">Security</a>
-&nbsp;&nbsp;&nbsp;
-</td>
-	<td align="right" nowrap="">
-<span class="summary"><a href="/help/" class="reverse">Contact us</a></span>&nbsp;&nbsp;<span class="h4"><span class="highlight10">0845 88 00 267</span></span>&nbsp;&nbsp;
-	</td>
-	</tr>
-	    <tr>
-	<td colspan="2" background="/i/generic/dash_white.gif" class="dividenone">&nbsp;<br></td>
-	</tr>
+</div>
 
-	<tr>
-	<td colspan="2" style="font-size:5px">&nbsp;<br></td>
-	</tr>
+<div id="footer">
 
-	<tr>
 
-<td colspan="2" align="center" class="smallprint">
-Interactive Investor Trading Limited, trading as "Ample", is an independent intermediary authorised and regulated by the Financial Services Authority.<br>
-Registered Office: Dashwood House, 69 Old Broad Street, London EC2M 1QS, telephone <span style="white-space: nowrap">0845 88 00 267</span>. Registered in England with Company Registration number 3699618.<br>
+<div id="footernav">
+	<div id="footernavleft">
+<a href="/about/?type=legal">Legal terms</a>
+<a href="/about/?type=legal&amp;subtype=secure">Risk warning</a>
+<a href="/about/?type=legal&amp;subtype=privacy">Privacy</a>
+<a href="/about/?type=legal&amp;subtype=security">Security</a>
+	</div>
+
+
+	<div id="footernavright">
+<a href="/help/">Contact us</a> <strong>0845 88 00 267</strong>
+	</div>
+</div>
+            <table>
+<tbody><tr valign="top"><td width="55"><a href="http://www.fsa.gov.uk"><img src="/icons/ii/3rd_party/FSA.gif" width="55" height="50" alt="Authorised and regulated by the Financial Services Authority" border="0"></a></td>
+<td>
+<p class="company" style="width:540px">
+Interactive Investor Trading Limited, trading as "Interactive Investor", is authorised and regulated by the Financial Services Authority.
+</p>
+
+
+<p class="office" style="width:540px">
+Registered Office: Dashwood House, 69 Old Broad Street, London EC2M 1QS, telephone <span style="white-space: nowrap">0845 88 00 267</span>. Registered in England with Company Registration number 3699618.
 Group VAT registration number 832 6732 26.<br>
-We may record and/or monitor telephone calls or intercept other telecommunications between us.  This is to protect both of us and for training purposes.<br>
-	</td>
-	</tr>
-</tbody></table>
+We may record and/or monitor telephone calls or intercept other telecommunications between us.  This is to protect both of us and for training purposes.
+</p>
+</td><td width="145"><a href="/about/"><img src="/icons/ii/3rd_party/awards.gif" width="145" height="51" border="0" alt="Web User Gold Award for Best New Website and Online Finance Awards Best Share Dealing Website"></a></td></tr></tbody></table>
 
-	</td>
-	<td>&nbsp;&nbsp;</td>
-	</tr>
-</tbody></table>
-	
+</div>
+
+<div class="hide"><a href="#navcontainer">Jump back to site navigation</a></div>
+
+
 
 
 </body></html>
