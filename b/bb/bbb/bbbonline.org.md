@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbbonline.org privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623190423id_/http%3A//bbbonline.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbbonline.org privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207183549id_/http%3A//www.bbbonline.org/about/privacy.asp) for the most accurate reproduction.*
 
 # BBBOnLine, Inc.
 
@@ -42,6 +42,10 @@ Our web sites also recognize the online site where a visitor "clicked-to-check" 
 A cookie is a small amount of data that is sent to your browser from a Web server and stored on your computer's hard drive. CBBB uses non-identifying cookies to provide easier site navigation and access to forms. You can still use the CBBB sites if your browser is set to reject cookies. Our cookies do not generate personal data, do not read personal data from your machine and are never tied to anything that could be used to identify you. 
 
 **Problems or Complaints with CBBB Privacy Policy**   
-If you have a complaint about CBBB compliance with this privacy policy, you may contact us at [privacyreview@bbb.org](mailto:privacyreview@bbb.org). If we are unable to resolve your complaint to your satisfaction, you may elect to proceed with BBB _OnLine_ 's Privacy Policy Review Service by completing the [complaint form](http://www.bbbonline.org/consumer/complaint/). 
+If you have a complaint about CBBB compliance with this privacy policy, you may contact us at [privacyreview@bbb.org](mailto:privacyreview@bbb.org). If we are unable to resolve your complaint to your satisfaction, you may elect to proceed with BBB _OnLine_ 's Privacy Policy Review Service* by completing the [complaint form](http://www.bbbonline.org/consumer/complaint/). 
+
+* * *
+
+* **Privacy Policy Review Service:** Complaints are first reviewed internally by BBB _OnLine_ Privacy Program staff. Complainants may appeal to the Privacy Review Appeals Board, an independent three-person panel consisting of public, data expert and company members. You may find the [Dispute Resolution Procedures here](http://www.bbbonline.org/privacy/dr.pdf). 
 
 revised March 9, 2004 
