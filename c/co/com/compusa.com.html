@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the compusa.com privacy policy that was archived on 2001-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011204000536id_/http%3A//www.compusa.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the compusa.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605050132id_/http%3A//www.compusa.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Welcome to CompUSA.com - Contact</title>
@@ -68,6 +68,7 @@ window.location.href = page;
  function openpage(page) {
  OpenWin = window.open(page, "CtrlWindow", "resizable=yes,toolbar=yes,menubar=yes,location=yes,scrollbars=yes,status=yes,height=400,width=640");
 }
+
  </script><script language="javascript"><!--open small window script-->
  function opensmallpage(page) {
  OpenWin = window.open(page, "CtrlWindow", "resizable=yes,toolbar=no,menubar=no,location=no,scrollbars=yes,status=yes,height=300,width=425");
@@ -94,74 +95,140 @@ window.onerror = errorHandler;
 
 //-->
 </script>
-	<style>
-	body {background:#006600;}
+
+<script language="JavaScript">
+	<!--
+	function bundleproductdetail(prodID,opt) {
+		var url;
+		url = "/products/bundle_product.asp?product_code=" + prodID + '#p' + opt; 
+		var storeAvailWind = window.open(url,"bundle_product","directories=0,height=300,width=525,scrollbars=yes,dependent=yes,resizable=yes"); 
+	}
+	
+	function CheckStoreAvailability(prodID) {
+		var url;
+		url = "/products/availability.asp?product_code=" + prodID + "&stores=1&zip=" + escape(document.frm_zip.prodzip.value); 
+		var storeAvailWind = window.open(url,"storeavail","directories=0,height=500,width=425,scrollbars=yes,dependent=yes,resizable=yes"); 
+		return false;
+	}
+	function showrebate(prodID) {
+		var url;
+		url = "/products/rebate.asp?product_code=" + prodID; 
+		var storeAvailWind = window.open(url,"rebate","directories=0,height=300,width=425,scrollbars=yes,dependent=yes,resizable=yes"); 
+	}
+	function CheckInStore(prodID) {
+		var url, storeAvailWind;
+		url = "/products/availability.asp?product_code=" + prodID + "&stores=1#avail"; 
+		storeAvailWind = window.open(url,"storeavail","directories=0,height=300,width=425,scrollbars=yes,dependent=yes,resizable=yes"); 
+	}
+	//-->
+</script><style>
+	body {background:#000066;}
 	body.availability {background:#FFFFFF;}
 	body.popup {background:black;}
+	body.dvd {color:black; background:#003366; font-size:10pt; font-family:arial;}
 </style>
 
 <link rel="STYLESHEET" href="/include/cusa_style.css" type="text/css">
 <link rel="SHORTCUT ICON" href="http://www.compusa.com/favicon.ico">
+
+<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; l gen true for &quot;http://www.compusa.com&quot; r (cz 1 lz 1 nz 1 oz 1 vz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.compusa.com&quot; r (n 0 s 0 v 0 l 0))">
 
 <meta name="revisit-after" content="2 days">
 </head>
 
 <body>
 
+
 <!--nav bar: slogan, logo and links-->
 <div name="topnav" style="position:absolute; left:6px; top:0px; z-index:3">
-<table width="740" border="0" cellspacing="0" cellpadding="0">
+<table width="730" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td rowspan="2" width="256" valign="top"><img src="/media/nav_images/happy_holiday_topleft.gif" border="0" alt="Happy Holidays" width="256" height="50"></td>
-<td align="right" width="484" colspan="15"><a href="http://www.compusa.com/default.asp"><img src="/media/nav_images/complogo_holiday.gif" width="370" height="53" border="0" alt="CompUSA.com"></a></td>
+
+<td width="256" valign="top" colspan="3"><a href="http://www.compusa.com/default.asp"><img src="/media/nav_images/compusa_logo.gif" border="0" alt="CompUSA.com" width="256" height="50"></a></td>
+
+
+<td align="right" width="470" colspan="15" valign="middle" height="53">
+
+	<table cellspacing="0" cellpadding="0" border="0">
+
+	<tbody><tr><td colspan="3"><p class="legaltext">
+	<a href="https://www.compusa.com/shop/my_account.asp" class="legaltext">MY ACCOUNT</a>:
+	<a href="https://www.compusa.com/shop/account_logon.asp" class="cartheader">LOG ON</a> &nbsp;|&nbsp;
+	<a href="https://www.compusa.com/shop/account_add.asp" class="cartheader">CREATE</a> &nbsp;|&nbsp;
+	<a href="https://www.compusa.com/shop/order_status.asp" class="cartheader">ORDER STATUS</a> &nbsp;|&nbsp;
+	<a href="http://www.compusa.com/terms.asp" class="cartheader">TERMS AND CONDITIONS</a>
+	
+	</p>
+	</td>
+	
+	</tr>
+	
+	<tr><td colspan="3" class="cartsummarywhite"><img src="/media/1x1.gif" height="1"></td></tr>
+	
+	<tr>
+	<td valign="middle" width="65%"><p class="legaltext">You have <a href="http://www.compusa.com/shop/basket.asp" class="legaltext">0 item(s)</a> in your <a href="http://www.compusa.com/shop/basket.asp" class="cartsummary"><img src="/media/nav_images/cart_yellow.gif" border="0" alt="shopping cart" width="19" height="16"></a>
+	 Subtotal: $0.00</p></td>
+	
+	<td valign="bottom" align="left" width="35%"><p class="legaltext"><a href="http://www.compusa.com/shop/basket.asp" class="legaltext">View Cart</a>
+	
+	
+		
+			&nbsp;
+		
+		</p>
+	</td>
+	</tr>  
+	
+	</tbody></table>
+	
+</td>
 </tr>
+
 <tr>
-<td width="20" align="right"><img src="/media/nav_images/topnav_leftend.gif" width="9" height="20" border="0" alt="." hspace="0" vspace="0"></td>
+
+
+	<form name="frm_mfg" action="http://www.compusa.com/products/products.asp" method="POST" id="frm_mfg"></form>
+	<input type="HIDDEN" name="validate" value="1">
+	
+	<input type="HIDDEN" name="srch_type" value="key">
+	<td class="leftnavlight" align="center" width="120"><input type="text" class="topsearch" name="keyword" value="Search" size="8" maxlength="30" onfocus="this.select(value='')"></td>
+
+<td width="30" class="leftnavlight"><input type="image" src="/media/nav_images/go_blue_new.gif" border="0" alt="go!" name="go" value="Go!" width="30" height="24"></td>
+
+
+<td class="leftnavlight" width="106" align="center"><a href="http://www.compusa.com/products/powersearch.asp" class="cartheader">Advanced</a> | <a href="javascript:opensmallpage('/searchtips.asp');" class="cartheader">Tips</a></td>
 
 
 
-<td class="navitems" width="33" align="right"><a href="http://www.compusa.com/default.asp" onmouseover="homelink.src=homeover.src" onmouseout="homelink.src=home.src"><img name="homelink" src="/media/nav_images/home_mouseout.gif" width="33" height="12" border="0" alt="Home" hspace="0" vspace="0"></a></td>
+<td class="leftnavlight"><img src="/media/1x1.gif" width="10" height="30" border="0" alt="." hspace="0" vspace="0"></td>
 
 
-<td class="navitems"><img src="/media/nav_images/topnav_spacer.gif" width="8" height="12" border="0" alt="." hspace="0" vspace="0"></td>
+<td class="leftnavlight" align="right"><a href="http://www.compusa.com/adproducts/default.asp" class="cartheader">Advertised&nbsp;Specials</a></td>
 
 
-<td class="navitems" width="109" align="right"><a href="http://www.compusa.com/adproducts/default.asp" onmouseover="specialslink.src=advertisedover.src" onmouseout="specialslink.src=advertised.src"><img name="specialslink" src="/media/nav_images/specials_mouseout.gif" width="109" height="12" border="0" alt="Specials" hspace="0" vspace="0"></a></td>
+<td class="leftnavlight"><img src="/media/1x1.gif" width="10" height="30" border="0" alt="." hspace="0" vspace="0"></td>
 
 
-<td class="navitems"><img src="/media/nav_images/topnav_spacer.gif" width="8" height="12" border="0" alt="." hspace="0" vspace="0"></td>
+<td class="leftnavlight" align="right"><a href="http://www.compusa.com/locations/default.asp" class="cartheader">Locations</a></td>
 
 
-<td class="navitems" width="59" align="right"><a href="http://www.compusa.com/locations/default.asp" onmouseover="locationslink.src=locationsover.src" onmouseout="locationslink.src=locations.src"><img name="locationslink" src="/media/nav_images/locations_mouseout.gif" width="59" height="12" border="0" alt="Locations" hspace="0" vspace="0"></a></td>
+<td class="leftnavlight"><img src="/media/1x1.gif" width="10" height="30" border="0" alt="." hspace="0" vspace="0"></td>
 
 
-<td class="navitems"><img src="/media/nav_images/topnav_spacer.gif" width="8" height="12" border="0" alt="." hspace="0" vspace="0"></td>
+<td class="leftnavlight" align="right"><a href="http://www.compusa.com/support/default.asp" class="legaltext">Support</a></td>
 
 
-<td class="navitems" width="39" align="right"><a href="http://www.compusa.com/guides/default.asp" onmouseover="guidelink.src=guidesover.src" onmouseout="guidelink.src=guides.src"><img name="guidelink" src="/media/nav_images/guides_mouseout.gif" width="39" height="12" border="0" alt="Guides" hspace="0" vspace="0"></a></td>
+<td class="leftnavlight"><img src="/media/1x1.gif" width="10" height="30" border="0" alt="." hspace="0" vspace="0"></td>
 
 
-
-<td class="navitems"><img src="/media/nav_images/topnav_spacer.gif" width="8" height="12" border="0" alt="." hspace="0" vspace="0"></td>
-
-
-<td class="navitems" width="36" align="right"><a href="http://www.compusa.com/shops/default.asp" onmouseover="shoplink.src=shopsover.src" onmouseout="shoplink.src=shops.src"><img name="shoplink" src="/media/nav_images/shops_mouseout.gif" width="36" height="12" border="0" alt="Shops" hspace="0" vspace="0"></a></td>
+<td class="leftnavlight" align="right"><a href="http://www.compusa.com/category/default.asp" class="cartheader">All&nbsp;Categories</a></td>
 
 
+<td class="leftnavlight"><img src="/media/1x1.gif" width="10" height="30" border="0" alt="." hspace="0" vspace="0"></td>
 
-<td class="navitems"><img src="/media/nav_images/topnav_spacer.gif" width="8" height="12" border="0" alt="." hspace="0" vspace="0"></td>
+<td class="leftnavlight" colspan="3" align="center"><a href="http://www.compusabusiness.com" target="new" class="cartheader">Business&nbsp;Sales</a></td>
 
-
-<td class="navitems" width="47" align="right"><a href="http://www.compusa.com/support/default.asp"><img name="supportlink" src="/media/nav_images/support_active.gif" width="47" height="12" border="0" alt="Support" hspace="0" vspace="0"></a></td>
-
-
-<td class="navitems"><img src="/media/nav_images/topnav_spacer.gif" width="8" height="12" border="0" alt="." hspace="0" vspace="0"></td>
-
-
-<td class="navitems" width="83" align="right"><a href="http://www.compusa.com/category/default.asp" onmouseover="categorylink.src=categoryover.src" onmouseout="categorylink.src=category.src"><img name="categorylink" src="/media/nav_images/categories_mouseout.gif" width="83" height="12" border="0" alt="All Categories" hspace="0" vspace="0"></a></td>
-
-
-<td width="20" align="left"><img src="/media/nav_images/topnav_rightend.gif" width="9" height="20" border="0" alt="." hspace="0" vspace="0"></td>
+<td width="9" align="left" class="leftnavlight"><img src="/media/1x1.gif" width="9" height="30" border="0" alt="." hspace="0" vspace="0"></td>
 </tr>
 </tbody></table>
 </div>
@@ -169,93 +236,33 @@ window.onerror = errorHandler;
 
 
 
-
 <!--canvas start-->
-<div name="maincanvas" style="position:absolute; left:60px; top:65px; z-index:2; width:686px;">
-<table cellpadding="0" cellspacing="0" width="686" border="0">
+<div name="maincanvas" style="position:absolute; left:6px; top:75px; z-index:2; width:731px;">
+<table cellpadding="0" cellspacing="0" width="731" border="0">
 <tbody><tr>
 <td colspan="3" class="canvasborder" width="150"><img src="/media/1x1.gif" width="1" height="1" border="0" alt="."></td>
 </tr>
 <tr>
 <td class="canvasborder" width="2"><img src="/media/1x1.gif" width="1" height="1" border="0" alt="."></td>
-<td class="canvasbackground" align="center" width="684">
-<!--search block area, nested table-->
-	<table align="center" width="670" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-	<td colspan="2" width="193" valign="bottom"><img src="/media/nav_images/cart_search/search_guy2.gif" width="203" height="57" border="0" alt=""></td>
-	<td width="390" rowspan="3" valign="bottom" align="right">
-			
-			<!--cart area-->
-			
-	<table cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-	<td valign="bottom" colspan="2"><img src="/media/shop_images/cart_summary/account.gif" alt="account" width="75" height="11"></td>
-	</tr>
-	<tr><td class="cartsummarygrey" colspan="2">
-	<a href="https://www.compusa.com/shop/account_logon.asp" class="cartsummary"><img src="/media/shop_images/cart_summary/log_on.gif" alt="log on" width="64" height="19" hspace="2" border="0"></a>
-	<a href="https://www.compusa.com/shop/account_add.asp" class="cartsummary"><img src="/media/shop_images/cart_summary/create.gif" alt="create" width="64" height="19" hspace="2" border="0"></a>
-	<a href="http://www.compusa.com/terms.asp" onmouseover="termsimg.src=termsover.src" onmouseout="termsimg.src=terms.src"><img name="termsimg" src="/media/shop_images/cart_summary/terms_mouseout.gif" alt="terms and conditions" hspace="2" border="0" width="99" height="19"></a>
-	</td></tr>
-	<tr>
-	<td><a href="https://www.compusa.com/shop/my_account.asp" class="cartsummary">MY ACCOUNT</a> | <a href="https://www.compusa.com/shop/order_status.asp" class="cartsummary">ORDER STATUS</a></td>
-	<td><a href="http://www.compusa.com/shop/basket.asp" class="cartsummary"><img src="/media/shop_images/cart_summary/view_cart.gif" width="81" height="19" border="0"></a></td>
-	</tr>
-	<tr>
-	<td class="cartsummarywhite">You have <a href="http://www.compusa.com/shop/basket.asp" class="cartsummary">0 item(s)</a> in your <a href="http://www.compusa.com/shop/basket.asp" class="cartsummary"><img src="/media/shop_images/cart_summary/cart.gif" width="19" height="14" border="0" alt="shopping cart"></a>
-	<br>Subtotal: $0.00</td>
-	<td>
-		
-			<img src="/media/1x1.gif" width="81" height="19" border="0" alt="">
-		
-	</td>
-	</tr>  
-	
-	</tbody></table>
-	
-	
-		
-		
-			
-	</td>
-	</tr>
-	<form name="frm_mfg" action="http://www.compusa.com/products/products.asp" method="POST" id="frm_mfg"></form>
-	<input type="HIDDEN" name="validate" value="1">
-				
-				<input type="HIDDEN" name="srch_type" value="key">
-	<tr>
-	<td width="175"><input type="text" class="text" name="keyword" size="16" maxlength="30" value=""></td>
-	<td width="100">&nbsp;<input type="image" src="/media/nav_images/cart_search/search_go2.gif" border="0" alt="go get it!" name="go" value="Go!" width="40" height="24"></td>
-	</tr>
-	
-	<tr>
-	<td colspan="2"><a href="http://www.compusa.com/products/powersearch.asp"><img src="/media/nav_images/cart_search/advanced_search.gif" width="111" height="11" border="0" alt=""></a></td>
-	</tr>
-	</tbody></table>
-	<br>
-	
+<td class="canvasbackground" align="center" width="729">
 
+<br>
+<table width="719" border="0" cellpadding="0">
 
-<table border="0">
-<!--header-->
-<tbody><tr><td colspan="3" width="462">
-<img src="/media/support/support.gif" border="0" alt="Support" width="430" height="35">
-<hr class="topsep" width="674">
-</td></tr>
-<tr>
-<td><img src="/media/support/privacy_statement.gif" border="0" alt="Privacy Statement" width="430" height="24"></td>
-<td align="right" width="72"><img src="/media/support/browse_supporttopics.gif" border="0" alt="Browse Support Topics" width="72" height="24"></td>
-<form></form><td width="140" align="right"><select name="supportnav" class="pageswap" onchange="javascript:SwapPage(this)"><option value="http://www.compusa.com/default.asp">Support</option><option value="https://www.compusa.com/shop/account_logon.asp">My Account</option><option value="http://www.compusa.com/support/faq.asp">FAQs</option><option value="http://www.compusa.com/support/howtoshop.asp">How to Shop</option><option value="http://www.compusa.com/support/shipping_info.asp">Shipping Info</option><option value="http://www.compusa.com/terms.asp#returns">Returns</option><option value="http://www.compusa.com/rebates/default.asp">Rebates</option><option value="http://www.compusa.com/terms.asp">Terms and Conditions</option><option value="http://www.compusa.com/privacy.asp">Privacy</option><option value="http://www.compusa.com/about/default.asp">About Us</option></select></td>
+<tbody><tr>
+<td colspan="2">&nbsp;&nbsp;<font class="bold3"><a href="http://www.compusa.com/default.asp" class="underline">Home</a> » <a href="http://www.compusa.com/support/default.asp" class="underline">Support</a> » <font class="redtextbold3">Privacy</font></font></td>
+<td><img src="/media/1x1.gif" height="30" width="1" border="0"></td>
 </tr>
-<tr><td colspan="3">
-<hr class="topsep" width="674">
-</td></tr>
+<tr>
+<td colspan="3" height="2" class="browsebluedark"><img src="/media/1x1.gif" width="1" height="2"></td>
+</tr>
 
 
 <tr><td colspan="3">
-
+<br>
 <p><img src="/media/support/our_priority.gif" alt="Your privacy is our priority" width="275" height="14"><br>
 At CompUSA, your privacy is very important to us. We appreciate our customers and understand the value of protecting your rights. We hope to address all of your concerns through this list of privacy-related Frequently Asked Questions.
-For our  younger shoppers, our <a href="/kid_privacy.asp">Kids' Privacy Policy</a> explains additional measures we have taken to ensure their privacy and safety online.
+For our  younger shoppers, our <a href="http://www.compusa.com/kid_privacy.asp">Kids' Privacy Policy</a> explains additional measures we have taken to ensure their privacy and safety online. Our site is also <a href="http://www.compusa.com/p3pcompliance.asp">P3P compliant</a>.
 </p>
 
 <p>
@@ -328,24 +335,24 @@ If you have any additional questions about our privacy practices, please contact
 <!--ad blocks, legal text-->
 
 <center><!--Inserted HTML code from MSASv1.0-->
-<a href="/banners/ad_redirect.asp?ciid=91&amp;url=http://gamefixx.compusa.com" target="_top"><img src="/media/gamefixx/fixx_footer_badge.gif" hspace="0" vspace="0" width="110" height="63" border="0" alt="CompUSA's Game Fixx"></a>&nbsp;&nbsp;<!--Inserted HTML code from MSASv1.0-->
-<a href="/banners/ad_redirect.asp?ciid=165&amp;url=/orderaday.asp" target="_top"><img src="/media/page_graphics/free_badge110x62.gif" hspace="0" vspace="0" width="110" height="63" border="0" alt="You could win!"></a>&nbsp;&nbsp;<!--Inserted HTML code from MSASv1.0-->
-<a href="/banners/ad_redirect.asp?ciid=95&amp;url=http://www.compusa.com/promos/hard_rock/default.asp" target="_top"><img src="/media/promo_graphics/hrc_frontbadge.gif" hspace="0" vspace="0" width="110" height="63" border="0" alt="Hard Rock Promo"></a>&nbsp;&nbsp;<!--Inserted HTML code from MSASv1.0-->
-<a href="/banners/ad_redirect.asp?ciid=34&amp;url=/finance_deal.asp" target="_top"><img src="/media/page_graphics/6months.gif" hspace="0" vspace="0" width="110" height="63" border="0" alt="6 Months Finance Deal"></a>&nbsp;&nbsp;<br></center>
+<a href="/banners/ad_redirect.asp?ciid=91&amp;url=http://gamefixx.compusa.com/default.asp%3Fref=comp" target="_top"><img src="/media/gamefixx/fixx_footer_badge.gif" hspace="0" vspace="0" width="110" height="63" border="0" alt="CompUSA's Game Fixx"></a>&nbsp;&nbsp;<!--Inserted HTML code from MSASv1.0-->
+<a href="/banners/ad_redirect.asp?ciid=203&amp;url=/cozone/default.asp" target="_top"><img src="/media/cozone_badge.gif" hspace="0" vspace="0" width="110" height="63" border="0" alt="Cozone!"></a>&nbsp;&nbsp;<!--Inserted HTML code from MSASv1.0-->
+<a href="/banners/ad_redirect.asp?ciid=60&amp;url=/giftcard.asp" target="_top"><img src="/media/page_graphics/card_badge.gif" hspace="0" vspace="0" width="110" height="63" border="0" alt="CompUSA Gift Card"></a>&nbsp;&nbsp;<!--Inserted HTML code from MSASv1.0-->
+<a href="/banners/ad_redirect.asp?ciid=38&amp;url=http://www.digitalriver.com/dr/v2/ec_MAIN.Entry17c%3FSID=7144%26SP=10007%26PID=533%26PN=3%26CID=0" target="_top"><img src="/media/page_graphics/download_it_here.gif" hspace="0" vspace="0" width="110" height="63" border="0" alt="Software Download Store"></a>&nbsp;&nbsp;<br></center>
 
 
 <p class="legaltext" align="center">
-<a href="http://www.compusa.com/default.asp" class="legaltext">Home</a> | <a href="http://www.compusa.com/adproducts/default.asp" class="legaltext">Ad Specials</a> | <a href="http://www.compusa.com/locations/default.asp" class="legaltext">Locations</a> | <a href="http://www.compusa.com/guides/default.asp" class="legaltext">Guides</a> | <a href="http://www.compusa.com/shops/default.asp" class="legaltext">Shops</a> | <a href="http://www.compusa.com/support/default.asp" class="legaltext">Support</a> | <a href="http://www.compusa.com/category/default.asp" class="legaltext">All Categories</a> | <a href="http://www.compusa.com/employment/default.asp" class="legaltext">Careers</a> | <a href="http://www.compusa.com/sitemap.asp" class="legaltext">Site Map</a>
+<a href="http://www.compusa.com/default.asp" class="legaltext">Home</a> | <a href="http://www.compusa.com/adproducts/default.asp" class="legaltext">Ad Specials</a> | <a href="http://www.compusa.com/locations/default.asp" class="legaltext">Locations</a> | <a href="http://www.compusa.com/guides/default.asp" class="legaltext">Guides</a> | <a href="http://www.compusa.com/shops/default.asp" class="legaltext">Shops</a> | <a href="http://www.compusa.com/support/default.asp" class="legaltext">Support</a> | <a href="http://www.compusa.com/category/default.asp" class="legaltext">All Categories</a> | <a href="http://compusa.newjobs.com" class="legaltext" target="new">Careers</a> | <a href="http://www.compusa.com/sitemap.asp" class="legaltext">Site Map</a>
 <br>Have questions about an online order? Call 1-800-653-3831
 </p>
 
-<p class="legaltext" align="center">
+<!--<p class="legaltext" align="center">
  <sup>1</sup> Products with this notation are refurbished, please <a href="http://www.compusa.com/terms.asp#refurb" class="legaltext">click here</a> for more details.
-</p>
+</p>-->
 
 
 <p class="legaltext" align="center">
-We accept the <a href="http://www.compusa.com/finance_deal.asp" class="legaltext">CompUSA Credit Card</a>, as well as Visa, Mastercard, Discover, American Express, and Diners Club. Copyright© 2001 CompUSA Management Company, All Rights Reserved. CompUSA is a registered service mark of CompUSA Management Company. Your use of this site is subject to these <a href="http://www.compusa.com/terms.asp" class="legaltext">Terms &amp; Conditions</a>, and please read our <a href="http://www.compusa.com/privacy.asp" class="legaltext">Privacy Statement</a>. 
+We accept the <a href="http://www.compusa.com/finance_deal.asp" class="legaltext">CompUSA Consumer Credit Card</a>, as well as Visa, Mastercard, Discover, American Express, and Diners Club. Copyright© 2002 CompUSA Management Company, All Rights Reserved. CompUSA is a registered service mark of CompUSA Management Company. Your use of this site is subject to these <a href="http://www.compusa.com/terms.asp" class="legaltext">Terms &amp; Conditions</a>, and please read our <a href="http://www.compusa.com/privacy.asp" class="legaltext">Privacy Statement</a>. 
 </p>
 
 
