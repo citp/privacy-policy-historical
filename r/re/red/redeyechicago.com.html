@@ -1,0 +1,763 @@
+<!--The following is the downloaded HTML source of the redeyechicago.com privacy policy that was archived on 2003-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030415215421id_/http%3A//www.redeyechicago.com/policy.htm) for the most accurate reproduction.-->
+
+<html><head>
+<title>RedEye Privacy Policy</title>
+<script language="JavaScript">
+
+<!-- Begin
+var isDOM = (document.getElementById ? true : false); 
+var isIE4 = ((document.all && !isDOM) ? true : false);
+var isNS4 = (document.layers ? true : false);
+function getRef(id) {
+if (isDOM) return document.getElementById(id);
+if (isIE4) return document.all[id];
+if (isNS4) return document.layers[id];
+}
+function getSty(id) {
+return (isNS4 ? getRef(id) : getRef(id).style);
+} 
+
+var popTimer = 0;
+
+var litNow = new Array();
+function popOver(menuNum, itemNum) {
+clearTimeout(popTimer);
+hideAllBut(menuNum);
+litNow = getTree(menuNum, itemNum);
+changeCol(litNow, true);
+targetNum = menu[menuNum][itemNum].target;
+if (targetNum > 0) {
+thisX = parseInt(menu[menuNum][0].ref.left) + parseInt(menu[menuNum][itemNum].ref.left);
+thisY = parseInt(menu[menuNum][0].ref.top) + parseInt(menu[menuNum][itemNum].ref.top);
+with (menu[targetNum][0].ref) {
+left = parseInt(thisX + menu[targetNum][0].x);
+top = parseInt(thisY + menu[targetNum][0].y);
+visibility = 'visible';
+      }
+   }
+}
+function popOut(menuNum, itemNum) {
+if ((menuNum == 0) && !menu[menuNum][itemNum].target)
+hideAllBut(0)
+else
+popTimer = setTimeout('hideAllBut(0)', 500);
+}
+function getTree(menuNum, itemNum) {
+
+
+itemArray = new Array(menu.length);
+
+while(1) {
+itemArray[menuNum] = itemNum;
+if (menuNum == 0) return itemArray;
+itemNum = menu[menuNum][0].parentItem;
+menuNum = menu[menuNum][0].parentMenu;
+   }
+}
+
+
+function changeCol(changeArray, isOver) {
+for (menuCount = 0; menuCount < changeArray.length; menuCount++) {
+if (changeArray[menuCount]) {
+newCol = isOver ? menu[menuCount][0].overCol : menu[menuCount][0].backCol;
+// Change the colours of the div/layer background.
+with (menu[menuCount][changeArray[menuCount]].ref) {
+if (isNS4) bgColor = newCol;
+else backgroundColor = newCol;
+         }
+      }
+   }
+}
+function hideAllBut(menuNum) {
+var keepMenus = getTree(menuNum, 1);
+for (count = 0; count < menu.length; count++)
+if (!keepMenus[count])
+menu[count][0].ref.visibility = 'hidden';
+changeCol(litNow, false);
+}
+
+
+
+function Menu(isVert, popInd, x, y, width, overCol, backCol, borderClass, textClass) {
+this.isVert = isVert;
+this.popInd = popInd
+this.x = x;
+this.y = y;
+this.width = width;
+this.overCol = overCol;
+this.backCol = backCol;
+this.borderClass = borderClass;
+this.textClass = textClass;
+this.parentMenu = null;
+this.parentItem = null;
+this.ref = null;
+}
+
+function Item(text, href, frame, length, spacing, target) {
+this.text = text;
+this.href = href;
+this.frame = frame;
+this.length = length;
+this.spacing = spacing;
+this.target = target;
+this.ref = null;
+}
+
+function writeMenus() {
+if (!isDOM && !isIE4 && !isNS4) return;
+
+for (currMenu = 0; currMenu < menu.length; currMenu++) with (menu[currMenu][0]) {
+var str = '', itemX = 0, itemY = 0;
+
+for (currItem = 1; currItem < menu[currMenu].length; currItem++) with (menu[currMenu][currItem]) {
+var itemID = 'menu' + currMenu + 'item' + currItem;
+
+var w = (isVert ? width : length);
+var h = (isVert ? length : width);
+
+if (isDOM || isIE4) {
+str += '<div id="' + itemID + '" style="position: absolute; left: ' + itemX + '; top: ' + itemY + '; width: ' + w + '; height: ' + h + '; visibility: inherit; ';
+if (backCol) str += 'background: ' + backCol + '; ';
+str += '" ';
+}
+if (isNS4) {
+str += '<layer id="' + itemID + '" left="' + itemX + '" top="' + itemY + '" width="' +  w + '" height="' + h + '" visibility="inherit" ';
+if (backCol) str += 'bgcolor="' + backCol + '" ';
+}
+if (borderClass) str += 'class="' + borderClass + '" ';
+
+
+str += 'onMouseOver="popOver(' + currMenu + ',' + currItem + ')" onMouseOut="popOut(' + currMenu + ',' + currItem + ')">';
+str += '<table width="' + (w - 8) + '" border="0" cellspacing="0" cellpadding="' + (!isNS4 && borderClass ? 3 : 0) + '"><tr><td align="left" height="' + (h - 7) + '">' + '<a class="' + textClass + '" href="' + href + '"' + (frame ? ' target="' + frame + '">' : '>') + text + '</a></td>';
+if (target > 0) {
+
+menu[target][0].parentMenu = currMenu;
+menu[target][0].parentItem = currItem;
+
+if (popInd) str += '<td class="' + textClass + '" align="right">' + popInd + '</td>';
+}
+str += '</tr></table>' + (isNS4 ? '</layer>' : '</div>');
+if (isVert) itemY += length + spacing;
+else itemX += length + spacing;
+}
+if (isDOM) {
+var newDiv = document.createElement('div');
+document.getElementsByTagName('body').item(0).appendChild(newDiv);
+newDiv.innerHTML = str;
+ref = newDiv.style;
+ref.position = 'absolute';
+ref.visibility = 'hidden';
+}
+
+if (isIE4) {
+document.body.insertAdjacentHTML('beforeEnd', '<div id="menu' + currMenu + 'div" ' + 'style="position: absolute; visibility: hidden">' + str + '</div>');
+ref = getSty('menu' + currMenu + 'div');
+}
+
+if (isNS4) {
+ref = new Layer(0);
+ref.document.write(str);
+ref.document.close();
+}
+
+for (currItem = 1; currItem < menu[currMenu].length; currItem++) {
+itemName = 'menu' + currMenu + 'item' + currItem;
+if (isDOM || isIE4) menu[currMenu][currItem].ref = getSty(itemName);
+if (isNS4) menu[currMenu][currItem].ref = ref.document[itemName];
+   }
+}
+with(menu[0][0]) {
+ref.left = x;
+ref.top = y;
+ref.visibility = 'visible';
+   }
+}
+
+
+
+var menu = new Array();
+
+var defOver = '#333333', defBack = '#990000';
+
+var defLength = 22;
+
+menu[0] = new Array();
+menu[0][0] = new Menu(false, '', 88, 83, 12, '#000000', '#000000', '', 'itemText');
+menu[0][1] = new Item('  : EVENTS', '', '', 70, 5, 1);
+menu[0][2] = new Item('  : ABOUT US', '', '', 80, 5, 2);
+menu[0][3] = new Item('  : COOL LINKS', '', '', 90, 5, 3);
+menu[0][4] = new Item('  : COLUMNISTS', '', '', 90, 5, 4);
+menu[0][5] = new Item('  : SUBSCRIBE', 'https://subscribe.redeyechicago.com', '', 80, 5, 0);
+menu[0][6] = new Item('  : PLACE AN AD', 'classifieds.htm', '', 92, 5, 0);
+menu[0][7] = new Item('  : REDEYE REWARDS', 'rewards.htm', '', 120, 5, 0);
+
+
+
+
+
+// Events menu.
+menu[1] = new Array();
+menu[1][0] = new Menu(true, '>', 0, 10, 100, defOver, defBack, 'itemBorder', 'itemText');
+menu[1][1] = new Item('Listings', 'listings.htm', '', defLength, 0, 0);
+menu[1][2] = new Item('Photos', 'photos.htm', '', defLength, 0, 0);
+
+
+
+
+
+// About us menu.
+menu[2] = new Array();
+menu[2][0] = new Menu(true, '>', 0, 10, 100, defOver, defBack, 'itemBorder', 'itemText');
+menu[2][1] = new Item('Meet the Team', 'team.htm', '', defLength, 0, 0);
+menu[2][2] = new Item('Current Campaign', 'cards.htm', '', defLength, 0, 0);
+
+
+
+
+// COOL LINKS menu.
+menu[3] = new Array();
+menu[3][0] = new Menu(true, '>', 0, 10, 100, defOver, defBack, 'itemBorder', 'itemText');
+menu[3][1] = new Item('metromix.com', 'http://metromix.com', '_new', defLength, 0, 0);
+menu[3][2] = new Item('chicagotribune.com', 'http://chicagotribune.com', '_new', defLength, 0, 0);
+menu[3][3] = new Item('ChicagoSports.com', 'http://chicagosports.com', '_new', defLength, 0, 0);
+menu[3][4] = new Item('WGN-TV', 'http://wgntv.com', '_new', defLength, 0, 0);
+menu[3][5] = new Item('The WB', 'http://thewb.com', '_new', defLength, 0, 0);
+menu[3][6] = new Item('CLTV', 'http://cltv.trb.com', '_new', defLength, 0, 0);
+
+
+
+
+// Columnists menu.
+menu[4] = new Array();
+menu[4][0] = new Menu(true, '>', 0, 10, 125, defOver, defBack, 'itemBorder', 'itemText');
+menu[4][1] = new Item('Alison Neumer', 'neumer.htm', '', defLength, 0, 0);
+menu[4][2] = new Item('Jimmy Greenfield', 'greenfield.htm', '', defLength, 0, 0);
+menu[4][3] = new Item('Mark Bazer', 'bazer.htm', '', defLength, 0, 0);
+menu[4][4] = new Item('Steve Rosenbloom', 'rosenbloom.htm', '', defLength, 0, 0);
+menu[4][5] = new Item('Chris Malcolm', 'malcolm.htm', '', defLength, 0, 0);
+
+
+
+
+// Subscribe menu.
+menu[5] = new Array();
+menu[5][0] = new Item('', '#', '', defLength, 0, 0);
+
+
+
+// Classified menu.
+menu[6] = new Array();
+menu[6][0] = new Item('', 'classified.htm', '', defLength, 0, 0);
+
+
+
+var popOldWidth = window.innerWidth;
+nsResizeHandler = new Function('if (popOldWidth != window.innerWidth) location.reload()');
+
+if (isNS4) document.captureEvents(Event.CLICK);
+document.onclick = clickHandle;
+
+function clickHandle(evt)
+{
+ if (isNS4) document.routeEvent(evt);
+ hideAllBut(0);
+}
+
+
+
+function moveRoot()
+{
+ with(menu[0][0].ref) left = ((parseInt(left) < 100) ? 100 : 5);
+}
+//  End -->
+</script>
+
+
+
+<style>
+
+.itemBorder { border: 1px solid black }
+.itemText { text-decoration: none; color: #FFFFFF; font: 9px Arial }
+
+.crazyBorder { border: 2px outset #663399 }
+.crazyText { text-decoration: none; color: #FFCC99; font: Bold 9px Arial }
+
+.copy { color: #CCCCCC; font: 11px Arial }
+.copy2 { color: #999999; font: 11px Arial }
+.copybold { color: #CCCCCC; font: Bold 12px Arial }
+
+
+.header1 { color: #FFFFFF; font: Bold 13px Arial }
+.header2 { color: #CCCCCC; font: Bold 13px Arial }
+
+</style>
+
+
+</head>
+
+
+
+
+<!------------------------------------------------ DO NOT TOUCH | BEGINNING OF PAGE ---------------------------------------------------->
+
+
+<body bgcolor="#000000" text="#FFFFFF" link="#FFFFFF" vlink="#666666" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="writeMenus()" onresize="if (isNS4) nsResizeHandler()">
+
+
+
+
+
+
+
+
+
+
+
+<!--------------------------------------------------- DO NOT TOUCH | HEADER/NAVIGATION -->
+<p>
+<a name="top"></a><table width="760" border="0" cellpadding="0" cellspacing="0">
+	<tbody><tr>
+	
+	
+	<!-- REDEYE LOGO -->
+		<td width="67" valign="top"><a href="index.html"><img src="imgs/redeyelogo.gif" border="0"></a></td>
+		<td width="693" valign="top">
+			<table width="693" border="0" cellspacing="0" cellpadding="0">
+			
+				<!-- GRAY LINE -->
+				<tbody><tr bgcolor="#333333">
+					<td height="5"><img src="imgs/graypixel.gif" width="693" height="1"></td>
+				</tr>
+				
+				
+				<!-- BANNER -->
+				<tr bgcolor="#333333">
+					<td align="center" height="70"><a href="https://subscribe.redeyechicago.com" target="blank"><img src="imgs/rehome.gif" border="0"></a></td>
+				</tr>
+				
+				
+				<!-- GRAY LINE -->
+				<tr bgcolor="#333333">
+					<td height="5"><img src="imgs/graypixel.gif" width="693" height="1"></td>
+				</tr>
+				
+				
+				<!-- ROW SPACER  -->
+				<tr>
+					<td height="17">&nbsp;</td>
+				</tr>
+
+				
+				<!-- OVERLAPPING EYE GRAPHIC -->
+				<tr>
+					<td><img src="imgs/headergraphic.jpg" border="0"></td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table>	
+<!--------------------------------------------------- DO NOT TOUCH | END HEADER/NAVIGATION -->
+	
+	
+	
+	
+	
+	
+	
+
+<!------------------------------------------------- DO NOT TOUCH | BEGIN PAGE TITLE & LINKS -->			
+	
+<table width="760" border="0" cellpadding="0" cellspacing="0">		
+	<tbody><tr bgcolor="#333333">
+		
+		
+		<!-- COLUMN SPACER -->
+		<td width="67"><img src="imgs/clear.gif" width="67" height="1"></td>
+		<td width="693">
+			<table width="693" border="0" cellpadding="0" cellspacing="0">
+				
+				
+				<!-- ROW SPACER -->
+				<tbody><tr>
+					<td width="30">&nbsp;</td>
+					<td width="633">&nbsp;</td>
+					<td width="30">&nbsp;</td>
+				</tr>
+				
+				
+				
+				<!-- PRIVACY POLICY HEADER -->
+				<tr>
+					<td colspan="3"><span class="header2">p r i v a c y &nbsp; p o l i c y</span></td>
+				</tr>
+				
+				
+				
+				<!-- GRAY LINE -->
+				<tr>
+					<td colspan="3" valign="top"><img src="imgs/graypixel.gif" width="693" height="1"></td>
+				</tr>
+		
+		
+		
+				<!-- LAST UPDATED COPY -->
+				<tr>
+					<td colspan="3"><span class="copy">Last updated Jaunuary 2002</span></td>
+				</tr>
+		
+		
+		
+				<!-- ROW SPACER -->
+				<tr>
+					<td colspan="3">&nbsp;</td>
+				</tr>
+			</tbody></table>	
+		</td>
+	</tr>
+<!------------------------------------------------- DO NOT TOUCH | END PAGE TITLE & LINKS -->	
+
+
+
+
+
+
+
+
+
+<!------------------------------------------------------- DO NOT TOUCH | BEGIN ROW SPACER -->
+	<tr bgcolor="#333333">
+		<td colspan="2" height="20">&nbsp;</td>
+	</tr>
+<!--------------------------------------------------------- DO NOT TOUCH | END ROW SPACER -->
+
+
+
+
+
+
+
+
+
+<!--------------------------------------------------------------  BEGIN EDITORIAL CONTENT -->	
+	<tr bgcolor="#333333">
+		<td width="67">&nbsp;</td>
+		<td width="693">
+			<table width="693" border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr>
+					<td width="30">&nbsp;</td>
+					
+					
+<!---------------------------------------------------- TOUCH THIS SECTION ONLY ------------------------------------------------------>
+					<td width="633">
+					<span class="copy"> RedEye
+                        strives to offer its visitors the many advantages of Internet 
+                        technology and to provide an interactive and personalized 
+                        experience. We may use Personally Identifiable Information 
+                        (your name, e-mail address, street address, telephone 
+                        number) subject to the terms of this privacy policy. Please 
+                        note this policy applies only to information collected 
+                        by RedEye online and does not impact information 
+                        collected or used by RedEye or its affiliates 
+                        through other means. </span> <br>
+                        <br>
+                        <span class="copybold">How we gather information from 
+                        users.</span> <br>
+                        <br>
+                        <span class="copy">How we collect and store information 
+                        depends on the page you are visiting, the activities in 
+                        which you elect to participate and the services provided. 
+                        For example, you may be asked to provide information when 
+                        you register for access to certain portions of our site 
+                        or request certain features, such as newsletters, news 
+                        updates and other products, or when you make a purchase, 
+                        such as a newspaper subscription. You may provide information 
+                        when you participate in sweepstakes and contests, voting 
+                        and polling activities, message boards and chat rooms, 
+                        and other interactive areas of our site. Like most Web 
+                        sites, RedEye also collects information automatically 
+                        and through the use of electronic tools that may be transparent 
+                        to our visitors. For example, we may log the name of your 
+                        Internet Service Provider or use cookie technology to 
+                        recognize you and hold information from your visit. Among 
+                        other things, the cookie may store your user name and 
+                        password, sparing you from having to re-enter that information 
+                        each time you visit, or may control the number of times 
+                        you encounter a particular advertisement while visiting 
+                        our site. As we adopt additional technology, we may also 
+                        gather information through other means. In certain cases, 
+                        you can choose not to provide us with information, for 
+                        example by setting your browser to refuse to accept cookies, 
+                        but if you do you may be unable to access certain portions 
+                        of the site or may be asked to re-enter your user name 
+                        and password, and we may not be able to customize the 
+                        site's features according to your preferences. </span> 
+                        <br>
+                        <br>
+                        <span class="copybold">What we do with the information 
+                        we collect.</span> <br>
+                        <br>
+                        <span class="copy">Like other Web publishers, we collect 
+                        information to enhance your visit and deliver more individualized 
+                        content and advertising, and we sometimes permit our advertising 
+                        and promotional partners to call to your attention products, 
+                        special offers and unique content we believe might be 
+                        of interest to you. We offer you the opportunity to elect 
+                        not to receive direct communications sent by our advertisers 
+                        or promotional partners, as described below. <br>
+                        <br>
+                        Aggregated Information (information that does not personally 
+                        identify you) may be used in many ways. For example, we 
+                        may combine information about your usage patterns with 
+                        similar information obtained from other users to help 
+                        enhance our site and services (e.g., to learn which pages 
+                        are visited most or what features are most attractive). 
+                        Aggregated Information may occasionally be shared with 
+                        our advertisers and business partners. Again, this information 
+                        does not include any Personally Identifiable Information 
+                        about you or allow anyone to identify you individually. 
+                        <br>
+                        <br>
+                        We may use Personally Identifiable Information collected 
+                        on RedEye to communicate with you about your 
+                        registration and customization preferences; our Terms 
+                        of Service and privacy policy; services and products offered 
+                        by Tribune Interactive, Inc., and other Tribune Company 
+                        affiliates and partners; and other topics we think you 
+                        might find of interest. We reserve the right to share 
+                        this information with other Tribune Company business units 
+                        and affiliates, including for example our affiliated newspapers. 
+                        This policy does not apply to the newspaper's use of such 
+                        information. <br>
+                        <br>
+                        Personally Identifiable Information collected by RedEye
+                        may also be used for other purposes, including but not 
+                        limited to site administration, troubleshooting, processing 
+                        of e-commerce transactions, administration of sweepstakes 
+                        and contests, and other communications with you. Certain 
+                        third parties who provide technical support for the operation 
+                        of our site (our Web hosting service and our newsletter 
+                        provider, for example) may access such information. We 
+                        will use your information only as permitted by law. In 
+                        addition, from time to time as we continue to develop 
+                        our business, we may sell, buy, merge or partner with 
+                        other companies or businesses. In such transactions, user 
+                        information may be among the transferred assets. We may 
+                        also disclose your information in response to a court 
+                        order, at other times when we believe we are reasonably 
+                        required to do so by law, in connection with the collection 
+                        of amounts you may owe to us, and/or to law enforcement 
+                        authorities whenever we deem it appropriate or necessary. 
+                        Please note we may not provide you with notice prior to 
+                        disclosure in such cases. </span> <br>
+                        <br>
+                        <span class="copybold">Your choice to opt out.</span> 
+                        <br>
+                        <br>
+                        <span class="copy"> From time to time our advertising 
+                        and promotional partners may use Personally Identifiable 
+                        Information to call to your attention products and offers 
+                        they believe might interest you. If you prefer not to 
+                        receive direct communications sent by our advertisers 
+                        or promotional partners, you will be given an opportunity 
+                        to decline before you provide us information we might 
+                        use for this purpose. If you decline at the time you provide 
+                        us with such information, you will not receive e-mail 
+                        or other communications sent directly by our advertisers 
+                        using information collected from our site, though we may 
+                        on occasion send you information on their behalf. </span> 
+                        <br>
+                        <br>
+                        <span class="copybold">Affiliated sites, linked sites 
+                        and advertisements.</span> <br>
+                        <br>
+                        <span class="copy">RedEye expects its partners, 
+                        advertisers and affiliates to respect the privacy of our 
+                        users. Be aware, however, that third parties, including 
+                        our partners, advertisers, affiliates and other content 
+                        providers accessible through our site, may have their 
+                        own privacy and data collection policies and practices. 
+                        For example, during your visit to our site you may link 
+                        to, or view as part of a frame on a RedEye
+                        page, certain content that is actually created or hosted 
+                        by a third party. Also, through RedEye you 
+                        may be introduced to, or be able to access, information, 
+                        Web sites, features, contests or sweepstakes offered by 
+                        other parties. RedEye is not responsible for 
+                        the actions or policies of such third parties. You should 
+                        check the applicable privacy policies of those third parties 
+                        when providing information on a feature or page operated 
+                        by a third party. <br>
+                        <br>
+                        While on our site, our advertisers, promotional partners 
+                        or other third parties may use cookies or other technology 
+                        to attempt to identify some of your preferences or retrieve 
+                        information about you. For example, some of our advertising 
+                        is served by third parties and may include cookies that 
+                        enable the advertiser to determine whether you have seen 
+                        a particular advertisement before. Other features available 
+                        on our site may offer services operated by third parties 
+                        and may use cookies or other technology to gather information. 
+                        RedEye does not control the use of this technology 
+                        by third parties or the resulting information, and is 
+                        not responsible for any actions or policies of such third 
+                        parties. <br>
+                        <br>
+                        You should also be aware that if you voluntarily disclose 
+                        Personally Identifiable Information on message boards 
+                        or in chat areas, that information can be viewed publicly 
+                        and can be collected and used by third parties without 
+                        our knowledge and may result in unsolicited messages from 
+                        other individuals or third parties. Such activities are 
+                        beyond the control of RedEye and this policy. 
+                        </span> <br>
+                        <br>
+                        <span class="copybold">Children.</span> <br>
+                        <br>
+                        <span class="copy"> RedEye does not knowingly 
+                        collect or solicit Personally Identifiable Information 
+                        from or about children under 13 except as permitted by 
+                        law. If we discover we have received any information from 
+                        a child under 13 in violation of this policy, we will 
+                        delete that information immediately. If you believe RedEye 
+                        has any information from or about anyone under 13, please 
+                        contact us at the address listed below. </span> <br>
+                        <br>
+                        <span class="copybold">Contacting us.</span> <br>
+                        <span class="copy">We can be reached by contacting: <br>
+                        <br>
+                        RedEye <br>
+                        c/o Melissa Lamb <br>
+                        redeyechicago.com <br>
+                        435 N. Michigan Ave. <br>
+                        Floor LL-2 <br>
+                        Chicago, IL 60611<br>
+                        Email: <a href="mailto:mlamb@tribune.com">mlamb@tribune.com</a></span> <br>
+                        <br>
+                        <span class="copybold">Changes to this policy.</span> 
+                        <br>
+                        <br>
+                        <span class="copy"> RedEye reserves the right 
+                        to change this policy at any time. Please check this page 
+                        periodically for changes. Your continued use of our site 
+                        following the posting of changes to these terms will mean 
+                        you accept those changes. Information collected prior 
+                        to the time any change is posted will be used according 
+                        to the rules and laws that applied at the time the information 
+                        was collected. </span> <br>
+                        <br>
+                        <span class="copybold">Governing law.</span> <br>
+                        <br>
+                        <span class="copy"> This policy and the use of this Site 
+                        are governed by Illinois law. Any claim related to the 
+                        Site or this policy shall be brought in a federal or state 
+                        court in Chicago, Illinois, within one year after the 
+                        claim arises. Users of RedEye consent to the 
+                        jurisdiction and venue of such court as the most convenient 
+                        and appropriate for the resolution of disputes concerning 
+                        this policy. RedEyeis controlled, operated 
+                        and administered entirely within the United States. This 
+                        statement and the policies outlined herein are not intended 
+                        to and do not create any contractual or other legal rights 
+                        in or on behalf of any party. <br>
+                        <br>
+                        Copyright © 2003, RedEye</span>
+					
+					</td>
+<!---------------------------------------------------- TOUCH THIS SECTION ONLY ------------------------------------------------------>
+					
+					
+					<td width="30">&nbsp;</td>
+				</tr>
+			</tbody></table>	
+		</td>
+	</tr>
+	
+<!--------------------------------------------------------------  END EDITORIAL CONTENT -->	 	
+	
+	
+
+
+
+	
+	
+	
+	
+	
+<!------------------------------------------------------ DO NOT TOUCH | BEGIN ROW SPACER -->
+	<tr bgcolor="#333333">
+		<td colspan="2" height="20">&nbsp;</td>
+	</tr>
+<!--------------------------------------------------------- DO NOT TOUCH | END ROW SPACER -->
+
+
+
+
+
+
+
+<!------------------------------------------------------- DO NOT TOUCH | BACK TO TOP LINK -->
+	<tr bgcolor="#333333">
+		<td width="67">&nbsp;</td>
+		<td width="693"><a href="#top"><span class="copy">top</span></a></td>
+	</tr>
+<!-------------------------------------------------------- DO NOT TOUCH | END TO TOP LINK -->	
+
+
+
+
+
+
+
+
+
+<!------------------------------------------------------ DO NOT TOUCH | BEGIN ROW SPACER -->
+	<tr bgcolor="#333333">
+		<td colspan="2" height="20">&nbsp;</td>
+	</tr>
+<!--------------------------------------------------------- DO NOT TOUCH | END ROW SPACER -->
+
+				
+
+
+
+
+
+
+
+
+<!-------------------------------------------------- GRAY PIXEL AT BOTTOM -->	
+				<tr>
+					<td colspan="2"><img src="imgs/graypixel.gif" width="760" height="1"></td>
+				</tr>	
+<!-------------------------------------------------- GRAY PIXEL AT BOTTOM -->		
+		
+
+
+
+
+
+<!--------------------------------------------------------- BOTTOM LINKS -->
+				<tr>
+					<td colspan="2" height="38" align="center"><span class="copybold"><a href="admarket.htm">Advertiser Information</a> &nbsp;| <a href="policy.htm">Privacy Policy</a> | <a href="copyright.htm">Copyright and Terms of Service</a></span></td>
+				</tr>
+<!----------------------------------------------------  END BOTTOM LINKS -->
+
+
+
+
+<!---------------------------------------------------- GRAY BAR AT BOTTOM -->
+				<tr>
+					<td colspan="2" height="28" bgcolor="#333333">&nbsp;</td>
+				</tr>
+<!------------------------------------------------ END GRAY BAR AT BOTTOM -->
+
+
+
+				
+						
+<!--------------------------------------------------- END OF ENTIRE TABLE -->		
+</tbody></table>
+
+
+</p><div style="position: absolute; visibility: visible; left: 88px; top: 83px;"><div id="menu0item1" style="position: absolute; left: 0; top: 0; width: 70; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,1)" onmouseout="popOut(0,1)"><table width="62" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="">  : EVENTS</a></td></tr></tbody></table></div><div id="menu0item2" style="position: absolute; left: 75; top: 0; width: 80; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,2)" onmouseout="popOut(0,2)"><table width="72" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="">  : ABOUT US</a></td></tr></tbody></table></div><div id="menu0item3" style="position: absolute; left: 160; top: 0; width: 90; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,3)" onmouseout="popOut(0,3)"><table width="82" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="">  : COOL LINKS</a></td></tr></tbody></table></div><div id="menu0item4" style="position: absolute; left: 255; top: 0; width: 90; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,4)" onmouseout="popOut(0,4)"><table width="82" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="">  : COLUMNISTS</a></td></tr></tbody></table></div><div id="menu0item5" style="position: absolute; left: 350; top: 0; width: 80; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,5)" onmouseout="popOut(0,5)"><table width="72" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="https://subscribe.redeyechicago.com">  : SUBSCRIBE</a></td></tr></tbody></table></div><div id="menu0item6" style="position: absolute; left: 435; top: 0; width: 92; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,6)" onmouseout="popOut(0,6)"><table width="84" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="classifieds.htm">  : PLACE AN AD</a></td></tr></tbody></table></div><div id="menu0item7" style="position: absolute; left: 532; top: 0; width: 120; height: 12; visibility: inherit; background: #000000; " onmouseover="popOver(0,7)" onmouseout="popOut(0,7)"><table width="112" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" height="5"><a class="itemText" href="rewards.htm">  : REDEYE REWARDS</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu1item1" style="position: absolute; left: 0; top: 0; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(1,1)" onmouseout="popOut(1,1)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="listings.htm">Listings</a></td></tr></tbody></table></div><div id="menu1item2" style="position: absolute; left: 0; top: 22; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(1,2)" onmouseout="popOut(1,2)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="photos.htm">Photos</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu2item1" style="position: absolute; left: 0; top: 0; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(2,1)" onmouseout="popOut(2,1)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="team.htm">Meet the Team</a></td></tr></tbody></table></div><div id="menu2item2" style="position: absolute; left: 0; top: 22; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(2,2)" onmouseout="popOut(2,2)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="cards.htm">Current Campaign</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu3item1" style="position: absolute; left: 0; top: 0; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(3,1)" onmouseout="popOut(3,1)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://metromix.com" target="_new">metromix.com</a></td></tr></tbody></table></div><div id="menu3item2" style="position: absolute; left: 0; top: 22; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(3,2)" onmouseout="popOut(3,2)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://chicagotribune.com" target="_new">chicagotribune.com</a></td></tr></tbody></table></div><div id="menu3item3" style="position: absolute; left: 0; top: 44; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(3,3)" onmouseout="popOut(3,3)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://chicagosports.com" target="_new">ChicagoSports.com</a></td></tr></tbody></table></div><div id="menu3item4" style="position: absolute; left: 0; top: 66; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(3,4)" onmouseout="popOut(3,4)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://wgntv.com" target="_new">WGN-TV</a></td></tr></tbody></table></div><div id="menu3item5" style="position: absolute; left: 0; top: 88; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(3,5)" onmouseout="popOut(3,5)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://thewb.com" target="_new">The WB</a></td></tr></tbody></table></div><div id="menu3item6" style="position: absolute; left: 0; top: 110; width: 100; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(3,6)" onmouseout="popOut(3,6)"><table width="92" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="http://cltv.trb.com" target="_new">CLTV</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"><div id="menu4item1" style="position: absolute; left: 0; top: 0; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,1)" onmouseout="popOut(4,1)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="neumer.htm">Alison Neumer</a></td></tr></tbody></table></div><div id="menu4item2" style="position: absolute; left: 0; top: 22; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,2)" onmouseout="popOut(4,2)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="greenfield.htm">Jimmy Greenfield</a></td></tr></tbody></table></div><div id="menu4item3" style="position: absolute; left: 0; top: 44; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,3)" onmouseout="popOut(4,3)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="bazer.htm">Mark Bazer</a></td></tr></tbody></table></div><div id="menu4item4" style="position: absolute; left: 0; top: 66; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,4)" onmouseout="popOut(4,4)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="rosenbloom.htm">Steve Rosenbloom</a></td></tr></tbody></table></div><div id="menu4item5" style="position: absolute; left: 0; top: 88; width: 125; height: 22; visibility: inherit; background: #990000; " class="itemBorder" onmouseover="popOver(4,5)" onmouseout="popOut(4,5)"><table width="117" border="0" cellspacing="0" cellpadding="3"><tbody><tr><td align="left" height="15"><a class="itemText" href="malcolm.htm">Chris Malcolm</a></td></tr></tbody></table></div></div><div style="position: absolute; visibility: hidden;"></div><div style="position: absolute; visibility: hidden;"></div></body></html>
