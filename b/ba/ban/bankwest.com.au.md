@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603174526id_/http%3A//www.bankwest.com.au/legal/p_and_s_0201.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankwest.com.au privacy policy that was archived on 2001-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010803160717id_/http%3A//www.bankwest.com.au/legal/p_and_s_0201.asp) for the most accurate reproduction.*
 
 # BankWest - Bank of Western Australia Ltd. ABN 22 050 494 454
 
