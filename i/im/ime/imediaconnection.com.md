@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imediaconnection.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008162424id_/http%3A//imediaconnection.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imediaconnection.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605083029id_/http%3A//www.imediaconnection.com/company/26.asp) for the most accurate reproduction.*
 
-# imedia Connection - Privacy Policy
+# iMedia Connection: Privacy Page
 
 **  
 Privacy policy**  
