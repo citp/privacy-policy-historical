@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the wxii12.com privacy policy that was archived on 2002-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021212145242id_/http%3A//www.wxii12.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wxii12.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622110156id_/http%3A//www.wxii12.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # WXII12.com - News
 
-|   
----|---  
-  
 [](https://web.archive.org/news//detail.html)
 
 Internet Broadcasting Systems and its affiliates ("IBS") have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [www.WXII12.com](http://www.wxii12.com/). This privacy policy applies only to information collected by or through this website. It does not apply to information obtained by other means. 
