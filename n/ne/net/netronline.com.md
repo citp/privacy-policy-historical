@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204220837id_/http%3A//www.netronline.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netronline.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606214832id_/http%3A//www.netronline.com/privacy.htm) for the most accurate reproduction.*
 
 # NETRonline's Privacy Statement
 
@@ -34,9 +34,13 @@ Advertisers
 
 > ** Top **
 
-####  External Links
+####  Links
 
 > This site contains links to other sites. **NETRonline** is not responsible for the privacy practices or the content of such Web sites.
+> 
+> You may establish a hypertext link to this Web site so long as the link does not state or imply any sponsorship of your site by **NETRonline**.  However, you may not, without the prior written permission of **NETRonline** , frame any of the content of the Service, or incorporate into another website or other service any intellectual property of **NETRonline**.
+> 
+> Some link suggestions to **NETRonline** may be found here: <http://www.netronline.com/listing.htm#link>.
 > 
 > ** Top **
 
@@ -90,7 +94,7 @@ Advertisers
 > 
 > Demographic Information is used to understand the needs of our visitors so that we may tailor our site content to best suit them.  The survey that is indicated by the graphic to below is maintained by a third party advertising agency and may share the survey responses with other parties.  **NETRonline __** has no control over how the information given there is handled.
 >
->> [](https://web.archive.org/web/20021204220837id_/http%3A//www.netronline.com/survey.html)
+>> [](https://web.archive.org/web/20030606214832id_/http%3A//www.netronline.com/survey.html)
 > 
 > Contact information from the surveys is used to ship purchases or information about our company. The customer's contact information is also used to get in touch with the visitor when necessary, or to provide them with requested information about the company.
 > 
