@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the lastminutetravel.com privacy policy that was archived on 2001-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011018114003id_/http%3A//www.lastminutetravel.com/coinfo/pripol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminutetravel.com privacy policy that was archived on 2002-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020126121033id_/http%3A//www.lastminutetravel.com/coinfo/pripol.html) for the most accurate reproduction.*
 
-# LastMinuteTravel.com - Last minute travel (R) airfares, lodging, vacations, car rentals and cruises.
+# Last Minute Travel(R) - Company Info - Privacy Policy
 
 |   
 ---  
 |  |  |   
-|  |    [About Us](https://web.archive.org/web/20011018114003id_/http%3A//www.lastminutetravel.com/coinfo/about.html)  
-  [News Releases](https://web.archive.org/web/20011018114003id_/http%3A//www.lastminutetravel.com/coinfo/prerel.html)  
-  [Privacy Policy](https://web.archive.org/web/20011018114003id_/http%3A//www.lastminutetravel.com/coinfo/pripol.html)  
-  [Terms and Conditions](https://web.archive.org/web/20011018114003id_/http%3A//www.lastminutetravel.com/coinfo/tercon.html)  
-  [Jobs](https://web.archive.org/web/20011018114003id_/http%3A//www.lastminutetravel.com/coinfo/job.html)  
-  [Advertise With Us](https://web.archive.org/web/20011018114003id_/http%3A//www.lastminutetravel.com/coinfo/advus.html) |  |   
+|  |    [About Us](https://web.archive.org/web/20020126121033id_/http%3A//www.lastminutetravel.com/coinfo/about.html)  
+  [News Releases](https://web.archive.org/web/20020126121033id_/http%3A//www.lastminutetravel.com/coinfo/prerel.html)  
+  [Privacy Policy](https://web.archive.org/web/20020126121033id_/http%3A//www.lastminutetravel.com/coinfo/pripol.html)  
+  [Terms & Conditions](https://web.archive.org/web/20020126121033id_/http%3A//www.lastminutetravel.com/coinfo/tercon.html)  
+  [Jobs](https://web.archive.org/web/20020126121033id_/http%3A//www.lastminutetravel.com/coinfo/job.html)  
+  [Advertise With Us](https://web.archive.org/web/20020126121033id_/http%3A//www.lastminutetravel.com/coinfo/advus.html) |  |   
 |  |   
   
 Privacy Policy
