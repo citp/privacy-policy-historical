@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edwinwatts.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202011833id_/http%3A//www.edwinwatts.com/edwinwatts/aux_page/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edwinwatts.com privacy policy that was archived on 2004-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040213073545id_/http%3A//www.edwinwatts.com/AB1936000/webpage.cfm%3F%26DID%3D8%26Webpage_ID%3D26%26file%3Daux_page/privacy.cfm) for the most accurate reproduction.*
 
-# Edwin Watts Golf- Golf's Most Trusted Retailer Since 1968
+# Edwin Watts Golf | online golf retailer
 
 Edwin Watts Golf respects your privacy. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. We do not sell, rent or loan any identifiable information regarding our customers to any third party. Any information you share with us is held with the utmost care and security.
 
