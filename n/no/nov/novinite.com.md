@@ -1,27 +1,27 @@
-> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2004-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040614145737id_/http%3A//novinite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novinite.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204052151id_/http%3A//www.novinite.com/privacy.html) for the most accurate reproduction.*
 
-# novinite.com - Privacy
+# Sofia News Agency - Privacy
 
 **What this Privacy Policy Covers**
 
-This Privacy Policy covers Novinite.com treatment of personally identifiable information that the site automatically collects when you are on the Novinite.com site, and when you use other Novinite.com's services. 
+This Privacy Policy covers Novinite.com (Sofia News Agency) treatment of personally identifiable information that the site automatically collects when you are on the Novinite.com (Sofia News Agency) site, and when you use other Novinite.com's services. 
 
 **Information Collection and Use**
 
 We collect personal information from you through:  
 \- the use of the registration form for Sofia Morning News service,  
-\- the use of the registration form for Novinite.com News Alert,  
+\- the use of the registration form for News Alert,  
 \- the forms for sending news to a friend,   
 \- every time you e-mail us your details.  
-When you register with Тhe News services or when you send news to a friend, we ask ONLY for email address and name. Once you register with Novinite.com and sign in to our services or you send news to a friend, your name and e-mail address are not anonymous to us. 
+When you register with Тhe News services or when you send news to a friend, we ask ONLY for email address and name. Once you register with Novinite.com (Sofia News Agency) and sign in to our services or you send news to a friend, your name and e-mail address are not anonymous to us. 
 
 **Information Sharing and Disclosure**
 
-Novinite.com staff treats your e-mail address as strictly confidential information. Novinite.com will NOT sell or rent your personally identifiable information to anyone in any case and any price and will not use your name and e-mail address for any other purposes than the purposes of the daily The News Services. 
+Novinite.com (Sofia News Agency) staff treats your e-mail address as strictly confidential information. Novinite.com (Sofia News Agency) will NOT sell or rent your personally identifiable information to anyone in any case and any price and will not use your name and e-mail address for any other purposes than the purposes of the news services. 
 
 **Cookies**
 
-We use "cookies" to identify you when you visit Novinite.com. A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. Find out more about the use of cookies on [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
+We use "cookies" to identify you when you visit Novinite.com (Sofia News Agency). A cookie is a small piece of information sent by a web server to a web browser, which enables the server to collect information back from the browser. Find out more about the use of cookies on [http://www.cookiecentral.com](http://www.cookiecentral.com/). 
 
 **Security**
 
