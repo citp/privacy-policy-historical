@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unionleader.com privacy policy that was archived on 2004-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040613193505id_/http%3A//www.theunionleader.com/articles_showa.html%3Farticle%3D15748) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unionleader.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208121925id_/http%3A//www.theunionleader.com/articles_showa.html%3Farticle%3D15748) for the most accurate reproduction.*
 
-# The Union Leader and New Hampshire Sunday News - 13-Jun-04 - Privacy Statement
+# The Union Leader and New Hampshire Sunday News - 08-Dec-04 - Privacy Statement
 
 **Privacy Statement**  
 ****
