@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the milwaukeejobs.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604010212id_/http%3A//www.milwaukeejobs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milwaukeejobs.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206060644id_/http%3A//www.milwaukeejobs.com/privacy.asp) for the most accurate reproduction.*
 
 # Milwaukee jobs and resumes - the premier employment site for Milwaukee and Wisconsin
 
