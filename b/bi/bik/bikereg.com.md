@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603200126id_/http%3A//www.bikereg.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikereg.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204074435id_/http%3A//www.bikereg.com/Privacy.asp) for the most accurate reproduction.*
 
-# BikeReg.com - online event registration
+# BikeReg.com - online cycling event registration
 
 BikeReg.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BikeReg.com. 
 
