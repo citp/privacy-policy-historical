@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624170428id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irs.gov privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211115244id_/http%3A//www.irs.gov/privacy/index.html) for the most accurate reproduction.*
 
 # IRS Privacy Policy
 
 [Para ver esta página en español haga clic aquí](https://web.archive.org/privacy/article/0,,id=120920,00.html).
 
-**Office of the Privacy Advocate**  
+**IRS Office of Privacy**  
 **IRS Privacy Policy**  
 **Your Privacy Rights**  
 **Access to Privacy Impact Assessments  
@@ -16,17 +16,19 @@ Statistical Information**
 
 * * *
 
-### Office of the Privacy Advocate
+### IRS Office of Privacy
 
-The Internal Revenue Service's Office of the Privacy Advocate ensures that your personal information is protected whenever you visit the IRS website. If you have any questions or comments regarding the IRS's website privacy policy, please contact us via e-mail at [privacy.advocate@irs.gov](mailto:privacy.advocate@irs.gov) or by conventional mail at the address below.
+**_PLEASE NOTE the following:  _** Do not respond to unsolicited e-mails that claim to come from the IRS, or any e-mail from an unknown party asking you to submit personal, tax, or financial data.  The Internal Revenue Service does not use e-mail to request this type of information.
 
-The Office of the Privacy Advocate  
+The Internal Revenue Service's Privacy Office ensures that your personal information is protected whenever you visit the IRS website. If you have any questions or comments regarding the IRS's website privacy policy, please contact us at the address below.
+
+Director, Office of Privacy  
 Internal Revenue Service  
 Room 7050 OS:PA  
 1111 Constitution Ave. NW  
 Washington, DC 20224
 
-BEFORE YOU WRITE, please note the following: We cannot assist you with individual tax matters. Our office may only address questions about IRS privacy policies or concerns you may have regarding how IRS uses and collects personal information.
+BEFORE YOU WRITE, note that we cannot assist you with any type of tax matter. Our office may only address questions about IRS privacy policies or concerns you may have regarding how IRS uses and collects personal information.
 
 * * *
 
@@ -34,21 +36,21 @@ BEFORE YOU WRITE, please note the following: We cannot assist you with individua
 
 You have entered the Internal Revenue Service's website, an official United States Government System. The IRS uses this website to provide information about IRS services and programs. This website includes specific applications which provide more services or enable us to respond to specific questions from web site visitors.
 
-We will not collect personal information about you just because you visit this Internet site. There are applications on this web site that provide you with the opportunity to order forms, ask questions requiring a response, sign up for electronic newsletters, participate in focus groups, or learn the status of filed returns or anticipated payments. Using these services is voluntary and may require that you provide additional personal information to us. Providing the requested information implies your consent for us to use this data in order to respond to your specific request.
+We will not collect personal information about you just because you visit this Internet site. There are applications on this web site that provide you with the opportunity to order forms, ask questions requiring a response, sign up for electronic newsletters, participate in focus groups and customer surveys, or learn the status of filed returns or anticipated payments. Using these services is voluntary and may require that you provide additional personal information to us. Providing the requested information implies your consent for us to use this data in order to respond to your specific request.
 
 * * *
 
 ### Your Privacy Rights
 
-The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fget-cfr.cgi%3FTITLE%3D26%26PART%3D601%26SECTION%3D702%26TYPE%3DTEXT), the [Privacy Act of 1994](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fgetdoc.cgi%3Fdbname%3Dbrowse_usc%26docid%3DCite%3A%2B5USC552a), the [Freedom of Information Act](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fgetdoc.cgi%3Fdbname%3Dbrowse_usc%26docid%3DCite%3A%2B5USC552), the [Internal Revenue Restructuring and Reform Act of 1998](https://web.archive.org/individuals/article/0,,id=97702,00.html) and IRS policies and practices. For more information about these laws, visit the [IRS Electronic Freedom of Information Act Reading Room](https://web.archive.org/foia/article/0,,id=98716,00.html) .
+The IRS is committed to protecting the privacy rights of America's taxpayers. These rights are protected by the [Internal Revenue Code](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fget-cfr.cgi%3FTITLE%3D26%26PART%3D601%26SECTION%3D702%26TYPE%3DTEXT), the [Privacy Act of 1974](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fgetdoc.cgi%3Fdbname%3Dbrowse_usc%26docid%3DCite%3A%2B5USC552a), the [Freedom of Information Act](https://web.archive.org/app/scripts/exit.jsp?dest=http%3A%2F%2Ffrwebgate.access.gpo.gov%2Fcgi-bin%2Fgetdoc.cgi%3Fdbname%3Dbrowse_usc%26docid%3DCite%3A%2B5USC552), the [Internal Revenue Restructuring and Reform Act of 1998](https://web.archive.org/individuals/article/0,,id=97702,00.html) and IRS policies and practices. For more information about these laws, visit the [IRS Electronic Freedom of Information Act Reading Room](https://web.archive.org/foia/article/0,,id=98716,00.html) .
 
 * * *
 
 ### Access to Privacy Impact Assessments
 
-Privacy Impact Assessments (PIAs) are performed on computer systems and applications in order to evaluate any risks these systems may pose to personally identifiable information.  For a copy of a PIA, go to our [Privacy Impact Assessments](https://web.archive.org/privacy/article/0,,id=122989,00.html) site. Versions are available in Adobe Acrobat, MicroSoft Word, and plain text formats.  If you prefer to receive a paper copy, you may send a request to: 
+Privacy Impact Assessments (PIAs) are performed on computer systems and applications in order to evaluate any risks these systems may pose to personally identifiable information. To view a PIA and/or to print one using your browser, go to our [Privacy Impact Assessments](https://web.archive.org/privacy/article/0,,id=122989,00.html) site.  If you prefer to receive a paper copy, you may send a request to: 
 
-The Office of the Privacy Advocate  
+Director, Office of Privacy  
 Internal Revenue Service  
 Room 7050  OS:PA  
 1111 Constitution Ave. NW  
@@ -68,6 +70,7 @@ In order to improve service on our website, we automatically collect and maintai
   * The web pages on [www.irs.gov](https://web.archive.org/index.html) that you visit. This helps to determine which information on our site the public finds most useful and enables us to make it easier to access.
   * Transmission Control Protocol/Internet Protocol (TCP/IP) packet data. This information is used to detect malicious activity on our website.
   * Session cookie ID. This helps us determine which sequences of pages users typically view. We use this information to make the site easier to use.
+  * Other cookies used to validate voluntary customer survey results.  These are of limited duration and cannot be used to identify survey participants or track their page or web site visits.
   * Visitor Display Color Depth (e.g., 32 bits, 24 bits, etc.) and Visitor Screen Resolution (e.g., 1024 x 768 pixels, 800 x 600 pixels, etc.). This information helps determine the colors and sizes of graphics and other design elements that work best on our site.
   * Number of bytes received helps determine the computer and network capacity required to make the site available to the public.
 
@@ -79,7 +82,7 @@ All of this data is retained for a minimum of 90 days to comply with federal rec
 
 ### Security
 
-We make no attempts to identify individual users unless we suspect illegal behavior. To keep this service available and secure, we monitor network traffic to identify unauthorized attempts to add or change information, or otherwise cause damage to the website. By using this website you consent to such monitoring. Unauthorized attempts to upload information and/or change information on this website are strictly prohibited and are subject to prosecution under the _Computer Fraud and Abuse Act of 1986_ and _Title 18 USC Sections 1001_ and _1030_.
+We make no attempts to identify individual users unless we suspect illegal behavior. To keep this service available and secure, we monitor network traffic to identify unauthorized attempts to add or change information, or otherwise cause damage to the website. By using this website you consent to such monitoring. Unauthorized attempts to upload information and/or change information on this website are strictly prohibited and are subject to prosecution under the _Computer Fraud and Abuse Act of 1986,_ the _National Information  Infrastructure Protection Act,_ and _Title 18 USC Sections 1001_ and _1030_.
 
 * * *
 
@@ -97,11 +100,11 @@ The confidentiality of Internet transactions is not guaranteed. You must decide 
 
 ### Cookies
 
-“Persistent cookies” collect personal information to recognize your computer in the future. The IRS does not use “persistent cookies” or other technology to collect personally identifiable information about visitors to our website. 
+“Persistent cookies” collect personal information to recognize your computer in the future. The IRS does not use “persistent cookies” or other technology to collect personally identifiable information about visitors to our website.   Cookies of a limited nature may be used for voluntary customer surveys.  Their purpose is to validate feedback, and cannot be used to identify survey participants or track web usage.
 
-“Temporary” or “session” cookies are used on all IRS.gov web pages. These cookies are stored in memory and are only available during an active browser session.  Session cookies are used by some of the IRS applications deployed on our website as well as to accurately analyze how visitors navigate through our website at an aggregated-level. These cookies do not collect personal information on visitors, and they are erased as soon as you close your web browser.  No personally identifiable information about you is maintained as a result of a temporary or session cookie.
+“Temporary” or “session” cookies are used on all IRS.gov web pages. These cookies are stored in memory and are only available during an active browser session.  Session cookies are used by some of the IRS applications deployed on our website as well to accurately analyze how visitors navigate through our website at an aggregated-level. These cookies do not collect personal information on visitors, and they are erased as soon as you close your web browser.  No personally identifiable information about you is maintained as a result of a temporary or session cookie.
 
-You can configure your web browser to accept or decline cookies, or to alert you when cookies are in use. You do not have to accept session cookies from us, but if you choose not to, some of the functions on our site may not be available to you.
+You can configure your web browser to accept or decline cookies, or to alert you when cookies are in use. You do not have to accept cookies from us, but if you choose not to, some of the functions on our site may not be available to you.
 
 * * *
 
