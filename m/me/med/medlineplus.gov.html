@@ -1,12 +1,152 @@
-<!--The following is the downloaded HTML source of the medlineplus.gov privacy policy that was archived on 2000-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000607100754id_/http%3A//www.nlm.nih.gov/medlineplus/disclaimer.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medlineplus.gov privacy policy that was archived on 2000-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001203021700id_/http%3A//www.nlm.nih.gov/medlineplus/disclaimer.html) for the most accurate reproduction.-->
 
 <html><head>
-	<link rel="STYLESHEET" href="/medlineplus/stylesheet.css" type="text/css">
-	
-	<title>MEDLINEplus: Copyright and Privacy Policy</title>
+
+
+<link rel="STYLESHEET" href="/medlineplus/stylesheet.css" type="text/css">
+
+
+<title>MEDLINEplus: Copyright and Privacy Policy</title>
+
+
 <script language="JavaScript">
-        function openOutWin(url) {
+   if (document.images)   {
+        
+            
+       
+            
+       
+            
+       
+            
+       
+            
+       
+            
+       
+            
+       
+            
+       
+            
+       
+            
+       
+            
+            
+                healthtopicsOff = new Image();
+                healthtopicsOn = new Image();
+
+                healthtopicsOff.src = "/medlineplus/images/healthtopics_button1.gif";
+                healthtopicsOn.src = "/medlineplus/images/healthtopics_button2.gif";
+             
+       
+            
+            
+                druginformationOff = new Image();
+                druginformationOn = new Image();
+
+                druginformationOff.src = "/medlineplus/images/druginformation_button1.gif";
+                druginformationOn.src = "/medlineplus/images/druginformation_button2.gif";
+             
+       
+            
+            
+                dictionariesOff = new Image();
+                dictionariesOn = new Image();
+
+                dictionariesOff.src = "/medlineplus/images/dictionaries_button1.gif";
+                dictionariesOn.src = "/medlineplus/images/dictionaries_button2.gif";
+             
+       
+            
+            
+                directoriesOff = new Image();
+                directoriesOn = new Image();
+
+                directoriesOff.src = "/medlineplus/images/directories_button1.gif";
+                directoriesOn.src = "/medlineplus/images/directories_button2.gif";
+             
+       
+            
+            
+                otherresourcesOff = new Image();
+                otherresourcesOn = new Image();
+
+                otherresourcesOff.src = "/medlineplus/images/otherresources_button1.gif";
+                otherresourcesOn.src = "/medlineplus/images/otherresources_button2.gif";
+             
+       
+            
+       
+            
+       
+            
+       
+            
+       
+            
+       
+            
+       
+            
+       
+            
+       
+            
+       
+    }
+	function depress(thisImg) {
+                if (document.images) {
+                        imgOn = eval(thisImg + "On.src");
+                        document.mplusSearch [thisImg].src = imgOn;
+                }
+        }
+
+        function unpress(thisImg) {
+                if (document.images) {
+                        imgOff = eval(thisImg + "Off.src");
+                        document.mplusSearch [thisImg].src = imgOff;
+                }
+        }
+
+</script>
+
+
+<script language="JavaScript">
+//<!--
+function openOutWin(url) {
+         var isNav3 = false;
+         var isIE5 = false;
+         var feature = "toolbar=yes,directories=yes,status=yes,scrollbars=yes,resize=yes,resizable=yes,menubar=yes,location=yes"; if (window.screen != null)
+         {
+            if (navigator.appName.substring(0,8) == "Netscape")
+            {
+               w = window.innerWidth * 0.9;
+               h = window.innerHeight * 0.9;
+               feature = feature + ",width=" +w+ ",height=" +h;
+            }
+            else
+            {
+               pos =navigator.appVersion.indexOf('MSIE');
+               if (parseInt(navigator.appVersion.charAt(pos+5)) > 4)
+               {
+                  isIE5 = true;
+               }
+            }
+         }
+         else
+         {
+            isNav3 = true;
+         }
+         newWin = window.open(url,"TheNewWin",feature);
+
+         if (navigator.appName.substring(0,8) == "Netscape" || isIE5)
+            newWin.focus();
+            return false;
+}
+        function openNewWin(windowName) {
                 var isNav3 = false;
                 var isIE5 = false;
                 var feature = "toolbar=yes,directories=yes,status=yes,scrollbars=yes,resize=yes,resizable=yes,menubar=yes,location=yes";
@@ -33,7 +173,7 @@
                 }
 
 
-                newWin = window.open(url,"TheNewWin",feature);
+                newWin = window.open('',windowName,feature);
 
                 if (navigator.appName.substring(0,8) == "Netscape" || isIE5)
                         newWin.focus();
@@ -41,289 +181,272 @@
 
                 return false;
         }
+        function isEmpty(inputStr) {
+                for(var i=0; i<inputStr.length; i++) {
+                        oneChar = inputStr.charAt(i);
+                        if ((oneChar != ' ') && (oneChar != '\n') && (oneChar !='\t'))
+                                return false;
+                }
+                return true;
+        }
+        function isNetscape() {
+                if (navigator.appName == 'Netscape')
+                        return true;
+                else
+                        return false;
+        }
+        function copyVal(FormFieldObj,theText,theValue) {
+                if (FormFieldObj) {
+                        FormFieldObj.options[FormFieldObj.length] = new Option(theText,theValue);
+                        FormFieldObj.selectedIndex = null;
+                        FormFieldObj.options[0].selected = true;
+                }
+        }
+//-->
 </script>
 </head>
-<body bgcolor="#FFFFFF" text="#33009D" link="#0000FF" vlink="#960044">
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-	<td align="LEFT" valign="BOTTOM" nowrap="">
-	
-	<a href="/cgi/medlineplus/leavemedplus.pl?theURL=http%3A%2F%2Fwww%2Enlm%2Enih%2Egov" onclick="openOutWin('')" target="TheNewWin">
-		<img src="/medlineplus/images/sunburst.gif" alt="National Library of Medicine" width="62" height="58" border="0"></a></td>
-	<td align="RIGHT" valign="BOTTOM" nowrap=""><a href="http://medlineplus.gov/">
-		<img src="/medlineplus/images/mpluscolor.gif" alt="MEDLINEplus -- Health Information Selected for You by the National Library of Medicine" width="291" height="53" border="0" align="LEFT"></a><img src="/medlineplus/images/purpleverticalbar.gif" width="10" height="53" border="0">
-		
-			<a href="/medlineplus/topic_categories.html"><img alt="Topic Categories" src="/medlineplus/images/categoriestop.gif" width="65" height="53" border="0"></a>
-		
-		<img src="/medlineplus/images/purpleverticalbar.gif" alt="" width="10" height="53" border="0">
-		
-			<a href="/medlineplus/healthtopics.html"><img alt="Health Topics A-Z" src="/medlineplus/images/healthtopicstop.gif" width="72" height="53" border="0"></a>
-		
-		<img src="/medlineplus/images/purpleverticalbar.gif" alt="" width="10" height="53" border="0">
-		
 
-			<a href="http://medlineplus.gov/"><img alt="MEDLINEplus Home" src="/medlineplus/images/medlineplushometop.gif" width="73" height="53" border="0"></a>
+<body bgcolor="#FFFFFF" link="#660099" vlink="#990000" alink="#990000"> 
+
+<noscript>
+Javascript code is used to roll images, open new browser window 
+and detect browser type. This Javascript code is not necessary to 
+use the site.
+</noscript>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#330066">
+        <tbody><tr><td width="205" height="40" align="left" valign="top">
+
+	<a href="http://medlineplus.gov/"><img src="/medlineplus/images/headerleft.gif" alt="MEDLINEplus Health Information: Return to home page" border="0" width="205" height="40"></a></td>
+<td width="113" height="40" align="left" valign="top"><img src="/medlineplus/images/spacer1.gif" border="0" width="113" height="40" alt=""></td>
+        <td width="100%" height="40" align="left" valign="top">&nbsp;</td>
+        <td width="322" height="40" align="left" valign="top">
+	<a href="/cgi/medlineplus/leavemedplus.pl?theURL=http%3A%2F%2Fwww%2Enlm%2Enih%2Egov%2F" onclick="openOutWin('')" target="TheNewWin"><img src="/medlineplus/images/headerright.gif" alt="A service of the National Library of Medicine: Go to NLM home page" border="0" width="322" height="40"></a></td>
+        </tr>
+        <tr>
+                <td width="100%" colspan="4" valign="middle" bgcolor="#CCCCCC">
+
+		<form method="post" action="http://wwwindex.nlm.nih.gov/cgi/htsearch" name="mplusSearch">
+
 		
-		<img src="/medlineplus/images/purpleverticalbar.gif" alt="" width="10" height="53" border="0">
-		<br clear="ALL"><img src="/medlineplus/images/purplefade.gif" alt="line" width="578" height="4" border="0"></td>
-</tr>
-<tr>
-	<td align="RIGHT" colspan="2"><img src="/medlineplus/images/health_info.gif" alt="" width="335" height="20" border="0" align="RIGHT"></td>
-</tr>
+		<font class="minusOne"><b>Search</b></font>
+		<input type="text" name="words" size="20" maxlength="60"> 
+		<input type="image" src="/medlineplus/images/go.gif" align="TOP" alt="Go" border="0" value="Go"> 
+		<input type="hidden" name="config" value="MEDPL_fuzzy">
+		<input type="hidden" name="method" value="and">
+		<input type="hidden" name="format" value="builtin-short">
+		<input type="hidden" name="exclude" value="/medlineplus.adam.com/">
+		
+		&nbsp;&nbsp;&nbsp;
+
+		<a class="minusTwo" href="/medlineplus/advancedsearch.html">Advanced&nbsp;Search</a>&nbsp;&nbsp;&nbsp;
+		<a class="minusTwo" href="/medlineplus/sitemap.html">Site&nbsp;Map</a>&nbsp;&nbsp;&nbsp; 
+		<a class="minusTwo" href="/medlineplus/aboutmedlineplus.html">About&nbsp;MEDLINE<i>plus</i></a>&nbsp;&nbsp;&nbsp; 
+
+		<a class="minusTwo" href="http://medlineplus.gov/">Home</a>
+
+		</form></td></tr>
+
 </tbody></table>
-<img src="/medlineplus/images/clear.gif" width="640" height="10" border="0" alt=""><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
 
-<table cellpadding="0" cellspacing="0" border="0">
-	<tbody><tr>
-		<td align="LEFT" valign="TOP" width="81">
 
-	
+        
 
-	
+        
 
-	
+        
 
-	
+        
 
-	
+        
 
-	
-		
-		
-		
-		
-                        
-                        
-			
-                                <a href="/medlineplus/druginformation.html"><img name="druginformation" src="/medlineplus/images/druginformation_button1.gif" alt="Drug Information: Generic and brand name drugs" width="81" height="40" border="0"></a><br>
-                        
-		
-	
+        
 
-	
-		
-		
-		
-		
-                        
-                        
-			
-                                <a href="/medlineplus/dictionaries.html"><img name="dictionaries" src="/medlineplus/images/dictionaries_button1.gif" alt="Dictionaries: Find definitions of medical terms" width="81" height="26" border="0"></a><br>
-                        
-		
-	
+        
 
-	
-		
-		
-		
-		
-                        
-                        
-			
-                                <a href="http://medlineplus.adam.com">
- 				<img name="medicalencyclopedia" src="/medlineplus/images/medicalencyclopedia_button1.gif" alt="Medical Encyclopedia: Diseases, surgery, nutrition, symptoms, testing and more" width="81" height="40" border="0"></a><br>
-                        
-		
-	
+        
 
-	
-		
-		
-		
-		
-                        
-                        
-			
-                                <a href="/medlineplus/doctorsdentists.html"><img name="doctorsdentists" src="/medlineplus/images/doctorsdentists_button1.gif" alt="Doctors/Dentists: Find a doctor or a dentist" width="81" height="26" border="0"></a><br>
-                        
-		
-	
+        
 
-	
-		
-		
-		
-		
-                        
-                        
-			
-                                <a href="/medlineplus/hospitals.html"><img name="hospitals" src="/medlineplus/images/hospitals_button1.gif" alt="Hospitals: Find a hospital or other health facility" width="81" height="26" border="0"></a><br>
-                        
-		
-	
+        
 
-	
-		
-		
-		
-		
-                        
-                        
-			
-                                <a href="/medlineplus/organizations.html"><img name="organizations" src="/medlineplus/images/organizations_button1.gif" alt="Organizations: Health-related groups" width="81" height="26" border="0"></a><br>
-                        
-		
-	
+        
 
-	
+		<td align="left" valign="top">
 		
 		
-		
-		
-                        
-                        
-			
-                                <a href="/medlineplus/medline.html"><img name="medline" src="/medlineplus/images/medline_button1.gif" alt="MEDLINE - Search for journal articles and abstracts on your topic" width="81" height="26" border="0"></a><br>
-                        
-		
-	
 
-	
 		
+			<a href="/medlineplus/healthtopics.html" onmouseover="depress('healthtopics');" onmouseout="unpress('healthtopics');"><img name="healthtopics" src="/medlineplus/images/healthtopics_button1.gif" alt="Health Topics: conditions, diseases and wellness" height="20" border="0"></a>
 		
-		
-		
-                        
-                        
-			
-                                <a href="/medlineplus/databases.html"><img name="databases" src="/medlineplus/images/databases_button1.gif" alt="Databases - Find additional articles, clinical trials, and more" width="81" height="26" border="0"></a><br>
-                        
-		
-	
-
-	
-		
-		
-		
-		
-                        
-                        
-			
-                                <a href="/medlineplus/publicationsnews.html"><img name="publicationsnews" src="/medlineplus/images/publicationsnews_button1.gif" alt="Publications: Read health information and news online" width="81" height="40" border="0"></a><br>
-                        
-		
-	
-
-	
-		
-		
-		
-		
-                        
-                        
-			
-                                <a href="/medlineplus/libraries.html"><img name="libraries" src="/medlineplus/images/libraries_button1.gif" alt="Libraries--for health consumers" width="81" height="26" border="0"></a><br>
-                        
-		
-	
-
-	
-		
-		
-		
-		
-                        
-                        
-			
-                                <a href="/medlineplus/aboutmedlineplus.html"><img name="aboutmedlineplus" src="/medlineplus/images/aboutmedlineplus_button1.gif" alt="About MEDLINEplus" width="81" height="40" border="0"></a><br>
-                        
-		
-	
-
-	
-		
-		
-		
-		
-                        
-                        
-			
-                                <a href="/medlineplus/searchmedlineplus.html"><img name="searchmedlineplus" src="/medlineplus/images/searchmedlineplus_button1.gif" alt="Search MEDLINEplus" width="81" height="40" border="0"></a><br>
-                        
-		
-	
 
 		</td>
+	
 
-		<td valign="TOP" align="LEFT" width="20"><img src="/medlineplus/images/clear.gif" border="0" width="20" alt="clear"></td>
-		<td valign="TOP" align="LEFT">
-
-
-
-
-<p>
-</p><p>
-</p><p>
-<img src="/medlineplus/images/disclaimer_head.gif" alt="Copyright &amp; Privacy Policy" border="0" width="300" height="25"><br>
-<img src="/medlineplus/images/smallpurplefade.gif" alt="Line" width="400" height="6" border="0"><br><br>
-</p><p>
-<strong>Copyright Status:</strong> Most information at this site is in the public domain.  Unless otherwise stated, these documents may be freely distributed and used for non-commercial, scientific, educational or personal purposes.  However, you may encounter documents or portions of documents contributed by private companies or organizations.  Other parties may retain all rights to publish or reproduce these documents.  Commercial use of the documents on this site may be protected under U.S. and foreign copyright laws.
-</p>
-<p>
-<strong>Disclaimer of Liability: </strong> For documents available from this
-server, the U.S. Government does not warrant or assume any legal
-liability or responsibility for the accuracy, completeness, or
-usefulness of any information, apparatus, product, or process disclosed.
-</p>
-<strong>Disclaimer of Endorsement</strong>
-<p>
-<b>-- General --</b><br>
-NLM does not endorse or recommend any
-commercial products, processes, or services.  The views and opinions of
-authors expressed on NLM Web sites do not necessarily state or reflect
-those of the U.S. Government, and they may not be used for advertising
-or product endorsement purposes.
-</p>
-<p>
-<b>-- External Links --</b><br>
-MEDLINE<em>plus</em> links to many other Internet sites to organize health information for consumers.
-NLM is not responsible for the availability or content of these external
-sites, nor does NLM endorse, warrant or guarantee the products, services
-or information described or offered at these other Internet sites. 
-</p> 
-<p>
-<strong>Medical Information:</strong>
-It is not the intention of NLM to provide specific medical advice, but rather to provide users with
-information to better understand their health and their diagnosed disorders.  Specific medical advice will not be provided, and NLM urges
-you to consult with a qualified physician for diagnosis and for answers to your personal questions.
-</p>
-<strong>Privacy Notice:</strong>
-This Web site is provided as a public service by the National Library of Medicine.
-
-<ul>
-<li>Of the information we learn about you from your visit to "http://www.nlm.nih.gov/medlineplus" we store only the following: the domain name from which you access the Internet, the date and time, the Internet address of the web site from which you linked directly to our site, the name of the file or the words you searched, and the browser used to access our site. This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas.  We also use this information to help us expand the coverage of the site to assist users in finding health information.
-</li><li>We do not give, share, sell or transfer any personal information to a third party.
-</li><li>When inquiries are e-mailed to us, we store the question and the e-mail address information so that we can respond electronically.  Unless otherwise required by statute, we do not identify publicly who sends questions or comments to our web site.  We will not obtain information that will allow us to personally identify you when you visit our site, unless you chose to provide such information to
- us. 
-</li></ul>
-<p>
-Questions about NIH privacy policies should be sent to the <a href="mailto:Wheeles@od.nih.gov"> NIH Privacy Act Officer.</a>
-</p>
-
-
-
-
-
-	</td>
-</tr>
-<tr>
-	<td></td>
-	<td colspan="2"></td>
-</tr>
-<tr>
-	<td></td>
-	<td align="CENTER" colspan="2"><hr width="100%"></td>
-</tr>
-<tr>
-	<td></td>
-	<td align="CENTER" colspan="2" class="minusOne"><div align="CENTER" class="minusOne">
         
-	<a href="/cgi/medlineplus/leavemedplus.pl?theURL=http%3A%2F%2Fwww%2Enlm%2Enih%2Egov" onclick="openOutWin('')" target="TheNewWin">
-	U.S. National Library of Medicine</a>, 8600 Rockville Pike, Bethesda, MD 20894<br>
-	<a href="/medlineplus/feedback.html">We welcome your comments.</a><br>
-	<a href="/medlineplus/disclaimer.html">Copyright and Privacy Policy</a>
-	<br>Last updated: 03 May 2000</div></td>
+
+		<td align="left" valign="top">
+		
+		
+
+		
+			<a href="/medlineplus/druginformation.html" onmouseover="depress('druginformation');" onmouseout="unpress('druginformation');"><img name="druginformation" src="/medlineplus/images/druginformation_button1.gif" alt="Drug Information: generic and brand name drugs" height="20" border="0"></a>
+		
+
+		</td>
+	
+
+        
+
+		<td align="left" valign="top">
+		
+		
+
+		
+			<a href="/medlineplus/dictionaries.html" onmouseover="depress('dictionaries');" onmouseout="unpress('dictionaries');"><img name="dictionaries" src="/medlineplus/images/dictionaries_button1.gif" alt="Dictionaries: spellings and definitions of medical terms" height="20" border="0"></a>
+		
+
+		</td>
+	
+
+        
+
+		<td align="left" valign="top">
+		
+		
+
+		
+			<a href="/medlineplus/directories.html" onmouseover="depress('directories');" onmouseout="unpress('directories');"><img name="directories" src="/medlineplus/images/directories_button1.gif" alt="Directories: doctors, dentists and hospitals" height="20" border="0"></a>
+		
+
+		</td>
+	
+
+        
+
+		<td align="left" valign="top">
+		
+		
+
+		
+			<a href="/medlineplus/otherresources.html" onmouseover="depress('otherresources');" onmouseout="unpress('otherresources');"><img name="otherresources" src="/medlineplus/images/otherresources_button1.gif" alt="Other Resources: organizations, libraries, publications, MEDLINE" height="20" border="0"></a>
+		
+
+		</td>
+	
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+        
+
+<td></td>
+</tr></tbody></table>
+
+<br>
+
+
+
+
+<h3>Copyright &amp; Privacy Policy</h3>
+
+<p class="minusOne">
+<b>Copyright Status:</b> Most information at this site is in the public domain.  Unless otherwise stated, these documents may be freely distributed and used for non-commercial, scientific, educational or personal purposes.  However, you may encounter documents or portions of documents contributed by private companies or organizations.  Other parties may retain all rights to publish or reproduce these documents.  Commercial use of the documents on this site may be protected under U.S. and foreign copyright laws.
+</p>
+
+<p class="minusOne">
+<b>Disclaimer of Liability: </b> For documents available from this server, the U.S. Government does not warrant or assume any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed.
+</p>
+
+<p class="minusOne">
+<b>Disclaimer of Endorsement</b><br>
+<br>
+<b>-- General --</b><br>
+NLM does not endorse or recommend any commercial products, processes, or services.  The views and opinions of authors expressed on NLM Web sites do not necessarily state or reflect those of the U.S. Government, and they may not be used for advertising or product endorsement purposes.
+</p>
+
+<p class="minusOne">
+<b>-- External Links --</b><br>
+MEDLINE<em>plus</em> links to many other Internet sites to organize health information for consumers.  NLM is not responsible for the availability or content of these external sites, nor does NLM endorse, warrant or guarantee the products, services or information described or offered at these other Internet sites. 
+</p> 
+
+<p class="minusOne">
+<b>Medical Information:</b>
+It is not the intention of NLM to provide specific medical advice, but rather to provide users with information to better understand their health and their diagnosed disorders.  Specific medical advice will not be provided, and NLM urges you to consult with a qualified physician for diagnosis and for answers to your personal questions.
+</p>
+
+<p class="minusOne">
+<b>Privacy Notice:</b>
+This Web site is provided as a public service by the National Library of Medicine.
+</p>
+
+<ul class="minusOne">
+<li>Of the information we learn about you from your visit to "http://www.nlm.nih.gov/medlineplus" we store only the following: the IP address from which you access the Internet, the date and time, the Internet address of the web site from which you linked directly to our site, the name of the file or the words you searched, and the browser used to access our site. This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas.  We also use this information to help us expand the coverage of the site to assist users in finding health information.
+</li><li>We do not give, share, sell or transfer any personal information to a third party.
+</li><li>When inquiries are e-mailed to us, we store the question and the e-mail address information so that we can respond electronically.  Unless otherwise required by statute, we do not identify publicly who sends questions or comments to our web site.  We will not obtain information that will allow us to personally identify you when you visit our site, unless you chose to provide such information to us. 
+</li></ul>
+
+<p class="minusOne">
+<b>Cookies:</b>  A "cookie" is information stored on your computer by a web server and used to customize your web service in some way.  The MEDLINE<i>plus</i> site (URLs beginning with  "http://www.nlm.nih.gov/medlineplus" or "http://medlineplus.adam.com") does not send cookies; however, many of the sites to which MEDLINE<i>plus</i> links do send cookies.  You can set your browser software to disable cookies or to prompt you before a cookie is accepted.  MEDLINE<i>plus</i> includes preformatted searches of MEDLINE using the PubMed search service. PubMed uses cookies to store information about your interactions with the database. When you select a MEDLINE search from MEDLINE<i>plus</i>, PubMed sends a cookie to your computer immediately, unless you have disabled cookies.  Please see the PubMed Privacy Policy (http://www.ncbi.nlm.nih.gov:80/entrez/query/static/privacy.html) for more information.
+</p>
+
+<p class="minusOne">
+Questions about NIH privacy policies should be sent to the <a href="mailto:Wheeles@od.nih.gov">NIH Privacy Act Officer.</a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+<tbody><tr>
+<td width="100%" align="CENTER" bgcolor="DDDDDD">
+<font class="minusOne">
+<a href="/medlineplus/healthtopics.html">Health Topics</a>  |
+<a href="/medlineplus/druginformation.html">Drug Information</a>  |
+<a href="/medlineplus/dictionaries.html">Dictionaries</a>  |
+<a href="/medlineplus/directories.html">Directories</a>  |
+<a href="/medlineplus/otherresources.html">Other Resources</a>
+</font>
+</td>
+</tr>
+</tbody></table>
+
+<form name="FeedbackForm" action="/medlineplus/feedback.html">
+<input type="HIDDEN" name="from" value="">
+</form>
+
+<table width="100%">
+<tbody><tr>
+<td align="CENTER">
+<div align="CENTER" class="minusOne">
+<a href="/cgi/medlineplus/leavemedplus.pl?theURL=http%3A%2F%2Fwww%2Enlm%2Enih%2Egov" onclick="openOutWin('')" target="TheNewWin">U.S. National Library of Medicine</a>, 8600 Rockville Pike, Bethesda, MD 20894<br>
+<a href="/medlineplus/disclaimer.html">Copyright and Privacy Policy</a>,
+<a href="javascript:document.FeedbackForm.from.value=location;document.FeedbackForm.submit();">We welcome your comments.</a>
+<br>Last updated: 26 September 2000
+</div>
+</td>
 </tr>
 </tbody></table>
 
@@ -332,5 +455,6 @@ Questions about NIH privacy policies should be sent to the <a href="mailto:Wheel
 
 
 
-			
+
+
 </body></html>
