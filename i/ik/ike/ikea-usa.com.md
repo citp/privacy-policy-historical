@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikea-usa.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209111256id_/http%3A//www.ikea-usa.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikea-usa.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630140942id_/http%3A//www.ikea-usa.com/ms/en_US/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # IKEA | privacy policy
 
@@ -8,7 +8,10 @@ We at IKEA North American Services LLC (IKEA) respect your concerns about privac
 We collect and use information about you to communicate with you about our products, services and promotions. We also collect information to improve the shopping experience of IKEA consumers. Here are the ways we obtain information about you and the types of information we obtain. We also tell you how we use the information.
 
  **Catalog**  
-When you request a catalog from us, you provide us with contact information, such as your name, address, phone number and email address, so we may fulfill your request. You also may choose to provide us with information about products that interest you and other lifestyle information.
+When you request a catalog from us, you provide us with contact information, such as your name, address, phone number and email address, so we may fulfill your request.
+
+ **Email**  
+When you subscribe to our email list, you provide us information such as your email address, name and ZIP code so we may communicate with you via email. We will send you email only if you have provided us with your email address and have asked us to communicate with you this way. To update your email communication preferences, or to unsubscribe, please [**click here.**](http://65.17.227.36/IkeaOptin/Registration.aspx)
 
  **Purchases**  
 When you order or purchase an IKEA product, you may be required to give us contact and payment information (such as credit card information) so we may process your order. When you pay for an IKEA product using a credit card, we use your credit card information only to fulfil your order and for other internal purposes. If you place an order through our website, one of our customer service representatives will call you after you have placed the order to fulfil the transaction you have requested.
@@ -17,22 +20,20 @@ When you order or purchase an IKEA product, you may be required to give us conta
 If you contact one of our customer service representatives, we may ask you for information such as your name, address and email address so we can respond to your questions or comments. With your consent, we may retain this information to personalize your experience with us and better assist you the next time you contact us.
 
  **Website**  
-We collect information on our website using transient cookies, sometimes called session cookies. A transient cookie is a small file that contains information about a user, and disappears when the user's browser is closed. Unlike a persistent cookie, a transient cookie is not stored on the user's hard drive; it is stored only in temporary memory that is erased when the web browser is closed. We use transient cookies to determine, for example, how you use our website so we can improve the design of our site. Transient cookies are not linked to any personally identifiable information about you. Cookies can be disabled in your web browser.
+Many web surfers are concerned about their privacy and the use of 'cookies' on the Internet. Cookies are small files that can be used to store information you have already provided. Cookies cannot be used to "steal" information about you or your computer system. 
+
+The IKEA web site uses cookies to remember your preferences. For example, the web site may remember which IKEA store page you view, in order to make your next visit more convenient (by displaying information more relevant to that store location).
+
+Nevertheless, if you don't like having any cookies at all they can be disabled in your web browser's Internet Options.
 
  **Kid's Ballroom**  
 To take advantage of our supervised children's play area and ballroom while you shop, we require you to fill out a registration card that asks for the child's name and age, and the caretaker's name, address, telephone number and signature. We ask for this information to help ensure the safety and security of the child.
-
- **IKEA Credit Card, expired 12/31/02**  
-The IKEA Credit Card program ended on December 31, 2002. If you have an IKEA credit card from Household Bank (Household), the issuer of the IKEA credit card, we obtained application and account information about you from Household. Household also has its own privacy notice that we suggest you review if you have any questions about the information Household Bank collected about you.
 
  **Other information you provide to us** Through surveys, you may provide us with information such as product preferences, reasons for purchasing a product, family and lifestyle information to help us learn more about your shopping preferences. You also may provide such information when you fill out a warranty card about a product you purchased from IKEA. In addition, you may give us such information if you register for or redeem IKEA special offers, discount coupons or other promotions.
 
  **Does IKEA share the information it obtains about me with third parties?**  
 IKEA does not share personal information about its consumers with any third parties outside the IKEA corporate family for their own marketing purposes. However, we may do so within the IKEA corporate family. We do share this information with service providers we have retained to perform services on our behalf, but these service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or to comply with legal requirements. We also may disclose information about you as required by law.  
 We reserve the right to transfer any information we have about you in the event we sell or transfer all or a portion of our business or assets. If the business is transferred, we will provide you with the opportunity to tell us that you would prefer that information about you not be transferred. Should such a transfer occur, we will use reasonable efforts to try to ensure that the transferee uses personal information about you in a manner that is consistent with this Privacy Notice.
-
- **Whose privacy notice applies to my IKEA credit card?**  
-If you apply for an IKEA credit card, this privacy notice applies to your application and account information provided to IKEA by the credit card issuer, Household Bank. In addition, Household Bank's separate Privacy Statement applies to information Household Bank collects about you. We encourage you to read Household's Privacy Statement. To obtain the Household Privacy Statement that applies to the IKEA credit card program, visit www.household.com.
 
  **How does IKEA protect personal information?**  
 The security of personal information is a high priority for us. We maintain administrative, technical and physical safeguards to protect against unauthorized disclosure, use, alteration and destruction of the personal information in our possession. We are committed to providing appropriate security controls to protect personal information we have about you against foreseeable hazards.
@@ -43,21 +44,15 @@ IKEA services and promotions will change over time. This Privacy Notice will be 
  **Does the IKEA website contain links to other websites?**  
 The IKEA website may contain links to other websites that operate independently of IKEA and are not under our control. We provide links to other websites solely for your convenience and information. Other websites may have their own privacy notices, which we suggest you review if you visit any linked websites. IKEA is not responsible for information that is provided by, or collected through, those websites or for any other use of those websites.
 
- **How can I update my person information and privacy preferences?**  
-We recognize that having accurate and up-to-date information about you and your preferences is important to our ability to properly serve your interests. You can update the contact information you give us by calling, writing or emailing us using one of the options provided below.
-
- **Will I receive email from IKEA?**  
-We will send you email only if you have provided us with your email address and have asked us to communicate with you this way. Email about IKEA may be sent to you either from an IKEA website or from www.intercontent.com (a website operated by an IKEA service provider).
+ **How can I update my personal information and privacy preferences, or remove myself from your mailing/email lists?**  
+We recognize that having accurate and up-to-date information about you and your preferences is important to our ability to properly serve your interests. You can update your email contact information by [**clicking here,**](http://65.17.227.36/IkeaOptin/Registration.aspx) or by using one of the options provided below.
 
  **What if I prefer not to receive communications from IKEA?**  
 If you prefer not to receive product information or promotions from us, please contact us using one of the options provided below.
 
  **How can I contact IKEA?**  
-If you would like us to update your contact information or remove your name from our mailing list, or if have any questions about IKEA's privacy practices or about your personal information, please contact us by:  
-[clicking here](http://now.ikea-usa.com/contactus) to contact us via our website,
-
-calling us at 1-800-434-4532, 
-
+If you would like us to update your contact information or remove your name from our mailing list, or if have any questions about IKEA's privacy practices or about your personal information, please [contact us here](http://now.ikea-usa.com/contactus/default.asp) or call  
+1-800-434-4532,  
 or write us at:  
 IKEA North America Services, LLC  
 Attention: Privacy Notice  
@@ -66,4 +61,4 @@ Plymouth Meeting, PA 19462
 
 We will respond to your inquiry or investigate your concern as quickly as possible.
 
-DATED: December 10, 2002
+DATED: June 23, 2004
