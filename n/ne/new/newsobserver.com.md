@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010060644id_/http%3A//www.newsobserver.com/member_center/help/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsobserver.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403213838id_/http%3A//www.newsobserver.com/member_center/help/privacy_policy) for the most accurate reproduction.*
 
 # newsobserver.com | Privacy Policy
 
 |  |   
+  
+  
 
 
 The News & Observer has a firm commitment to privacy. We take your privacy concerns seriously and want to make every effort to address them. That is why we have adopted the following policy, which explains our position on information-gathering and disclosure. 
