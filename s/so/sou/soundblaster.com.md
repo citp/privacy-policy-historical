@@ -1,66 +1,127 @@
-> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602092850id_/http%3A//www.soundblaster.com/legal/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundblaster.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202022055id_/http%3A//www.soundblaster.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Soundblaster.com -- Privacy Policy
 
+**CREATIVE'S ONLINE PRIVACY POLICY**  
+Last Revised June 17, 2003
+
+**Overview**
+
+Creative is an international corporation and has developed these global information practices to assure that your privacy is respected and your personal data is protected. Our Privacy Policy discloses Creative's online information practices for handling personal and non-personal information, which is meant to comply with applicable local laws and regulations. Please read this Privacy Policy carefully before you use any of Creative's web sites ("Site(s)").
+
+**Table of Contents**  
+**How your information is used**  
+Important Note for European Visitors  
+**Information we collect** **  
+Non-personally identifiable information**  
+Cookies  
+**Personally identifiable information** **  
+Why we collect your personal information**  
+Creative Online Shop  
+Online Registration  
+Surveys and Promotions  
+Mailing Lists  
+**How we protect your information** **  
+Access to your information  
+Children's Information  
+Contacting Us**
+
+ **How your information is used**  
+Creative will not sell, rent, loan or lease your personally identifiable information to others unless we have your permission or are required by law to do so. Creative will not use or share the personally identifiable information that you provide to us online in ways unrelated to those described herein without first letting you know and offering you a choice to opt out.
+
+Because Creative operates globally, we may need to share your personal information with our worldwide business units. We will only share your information with other Creative entities (including subsidiaries and affiliates) and/or business partners who are acting on our behalf to provide the necessary service or information requested by you, to consolidate data storage, or to simplify the management of customer information. Such Creative entities and/or business partners are governed by our Privacy Policy with respect to the use of this data and are bound by appropriate confidentiality agreements.
+
+If you have any problems exercising your choice to opt out, please [ Contact Us](http://www.creative.com/privacy/contactus/).
+
+  * Important Note for European Visitors  
+For those of you visiting us from the European Economic Area, please note that Creative may transfer your personally identifiable data outside the European Economic Area for use for any of the purposes described herein. By using our web site and providing us with your personal data, you consent to such transfer of your personal data. 
+
+
+
+**Information we collect**
+
+**Non-personally identifiable information**  
+As a visitor to our Site, you can engage in many activities without providing any personal information. We do, however, collect and aggregate information indicating, among other things, which pages were visited, the order in which they were visited, and which hyperlinks were "clicked" with Cookies. Such information is not linked to any personally identifiable information. The non-personally identifiable information we collect help us identify the most popular areas of our Site and determine the effectiveness of our promotional activities.
+
+  * Cookies  
+Cookies are text files that store some information on your computer's hard drive and allow our systems to recognize your browser. Cookies collect information like IP addresses, operating systems and browser software, but they do not collect any personal information. Cookies let you customize your experience at our Site.
+
+We also use cookies to record anonymous information pertaining to particular web pages viewed, which helps us in analyzing trends, tracking user's movement, and gathering broad demographic information for aggregate use. In this effort, we also use measurement technology from RedSheriff, an independent measurement and market research company. To find out more about RedSheriff, their technology, and their privacy policy, please visit [www.redsheriff.com](http://www.redsheriff.com/). 
+
+
   
-**Privacy Policy**  
-\- last updated May 30, 2001
 
-1\. Introduction
 
-Creative is committed to respecting and protecting your privacy. This corporate wide Online Privacy Policy discloses the information practices for Creative's sites on the Web.
+**Personally identifiable information**  
+At some Creative sites, you can order products, register for materials, make requests, download software, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services, such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. Data collected online may also be combined with information you provide when you register your ownership of Creative products. Creative uses your information to better understand your needs and to provide you with better service.
 
-You can visit most of Creative's sites without providing us any information about yourself. However we will sometimes ask you to submit your personal information in order to provide services such as to respond to your inquiry, process your order, provide you access to specific account information. Please read this Privacy Policy carefully before you use any of Creative's web sites. The application of this Privacy Policy is only to sites controlled by Creative or its subsidiaries and not to web sites controlled by other companies or organizations we link to.
+**Why we collect your personal information**  
 
-2\. Collection of information
 
-Information we collect
+  * Creative Online Shop  
+To process your order, we will ask you for your personal information such as: name, e-mail address, delivery address, telephone number and credit card information. 
 
-(1) Non-personally identifiable information
-
-When you visit one of our web sites, we may store some information on your computer's hard drive in the form of a "Cookie". Cookies are text files that identify your computer to our server and do not collect any personal information in themselves. We may use cookies to serve you better and more efficiently, and to personalize your experience at our Sites. To do so, the cookies we use may record non-personally identifiable information pertaining to your preferences for viewing particular web pages. We may also use cookies to collect non-personally identifiable information to help us in analyzing trends, tracking user's movement, and gathering broad demographic information for aggregate use.
-
-(2) Personally identifiable information
-
-At some Creative sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. We will not sell, rent, or lease your personally identifiable information to others.
-
-3\. Why information is collected
-
-  * Creative online shop  
-To process your order, we will ask you for your personal information such as: name, e-mail address, delivery address, telephone number and credit card information.  
-
-  
 
   * Online Registration  
-During product installation you will be asked to register your product using an online registration application. By registering your product you become eligible for telephone and online technical support. Information collected from online registration will be used to improve our products and services and internal reports will not contain individual data. With your permission, we will send you information about new products or services from Creative.  
+You can register your product using an online registration application or via [ www.creative.com/register](http://www.creative.com/register/). By registering your product, you will be eligible to receive product support. The level of support available is dependent on the type of product purchased. For more details, visit [www.creative.com/support](http://www.creative.com/support/). Information collected from online registration will be used to improve our products and services and internal reports will not contain individual data. With your permission, we will send you information about new products or services from Creative. 
 
   
 
+
   * Surveys and Promotions  
-From time to time our site requests information from you via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as postal code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.   
+From time to time our Sites may request information from you via surveys or contests. Participation in these surveys or contests is completely voluntary and you have a choice whether or not to disclose any information. Information requested may include contact information, such as your name and your shipping address, to notify the winner(s) and demographic information, such as your age for eligibility purposes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of our Site. 
 
-  * Mailing lists  
-Creative occasionally provides the opportunity for visitors to supply their email address for the purpose of receiving specific newsletter or product information. These email addresses will only be used for this purpose and will never be shared with third parties unless you have provided your consent through online registration, the online store or other channels.  
+  
 
 
-4\. Access to personal information and Security of personal information
+  * Mailing Lists  
+Creative occasionally provides the opportunity for visitors to supply their email address for the purpose of receiving a specific newsletter or product information. These email addresses will only be used for this purpose and will never be shared with unaffiliated third parties unless you have provided your consent for us to do so. At a minimum, we will always give you the opportunity to opt out of receiving such materials. In addition, where applicable, we will follow all local requirements, such as allowing you to opt in before receiving unsolicited contact. 
 
-How does Creative protect consumer information?
+  
 
-Creative takes significant steps to protect your personally identifiable information with secure servers, from simple name registration to encrypted financial data used in e-commerce transactions. Any information you provide us is maintained and accessible only by Creative and its Network Sites.
 
-Third Party Partners
+**How we protect your information**  
+To prevent unauthorized access or disclosure, to maintain data accuracy and to ensure the appropriate use of information, we have put into place physical, electronic and managerial procedures to safeguard the information that we collect online. We use encryption when collecting or transferring data such as credit card information.
 
-Creative may work with other companies to provide offers and promotions that may be of interest to you. You will only receive notification of these offers if you have indicated your willingness to be contacted for such purposes. In these cases, your data remains secure with us. Creative will not sell or loan your data to third parties nor will any of the third parties be allowed access to your data.
+**Access to your information**  
+You have the right to access and correct your personal information at any time. To review, update or make changes to your personal information, please [ Contact Us](http://www.creative.com/privacy/contactus/). 
 
-5\. Children's information
+**Children's Information**  
+Creative does not target its web sites to children, and we will never knowingly collect personally identifiable information from children without obtaining prior verifiable parental consent. We ask that children have their parents review our Privacy Policy and complete the registration process for their children. If we become aware that a subscriber is under the age of 14 and has registered without prior verifiable parental consent, we will remove their personally identifiable information from our files.
 
-While Creative's web sites publish few, if any, contents that are targeted at children, we are committed to comply with applicable laws and requirements, such as the United States' Children's Online Privacy Protection Act (COPPA). Children without the consent of their parent or guardian should submit no personally identifiable information to Creative's web sites. Creative will not knowingly collect from or use any personally identifiable information of children for any purpose, including disclosure to third parties.
+**Third Party Web Sites**  
+Please note that our Privacy Policy only applies to sites controlled by Creative and links to third party web sites are provided solely as a convenience to you. You are advised to check the privacy policies of those sites before providing your personal information to them. Creative has not reviewed all of these third party web sites, does not control and is not responsible for any of these sites, their content or their privacy policies. Thus, Creative does not endorse or make any representations about these sites, or any information, products or other materials that may be found there.
 
-6\. Europe's data protection 
+**Contacting Us**  
+We value your opinions. If you have any questions or comments about our Privacy Policy, please [ Contact Us](http://www.creative.com/privacy/contactus/). You can also send your request to: 
 
-Because Creative operates globally, we make information we collect available to our worldwide business units. For those of you visiting us from the European Economic Area, please note that Creative will transfer your personally identifiable data outside the European Economic Area for use for any of the purposes described above. By using our web site and providing us with your personal data, you consent to such transfer of your personal data. 
+|  | 
 
-7\. Contact Information
+**Asia, Oceania, Middle East & Africa:**  
+Data Privacy (Legal Department)  
+Creative Technology Ltd  
+31, International Business Park  
+Creative Resource  
+Singapore 609921  
+Singapore   
 
-Comments and questions regarding this Privacy Policy should be directed to [us](mailto:feedback@creative.com?subject=Queries%20on%20Privacy%20Policy). 
+
+**Europe:**  
+Data Privacy (Legal Department)  
+Creative Labs (Irl) Ltd.  
+Ballycoolin Business Park  
+Blanchardstown  
+Dublin 15  
+Ireland  
+Registered in Ireland (No. 207960)  
+
+
+**Americas:**  
+Data Privacy (Legal Department)  
+Creative Labs, Inc.  
+1901 McCarthy Blvd.  
+Milpitas, CA 95035  
+USA  
+  
+  
+---|---
