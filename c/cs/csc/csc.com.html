@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the csc.com privacy policy that was archived on 2001-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010405015434id_/http%3A//www.csc.com/privacy/index.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the csc.com privacy policy that was archived on 2001-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011216091135id_/http%3A//www.csc.com/privacy/index.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2 Final//EN"><html><head>
 
@@ -12,47 +12,77 @@
 	
 <!----============End of Title/Meta Tags===================---->
 <!---==========================================================---->
+<link rel="SHORTCUT ICON" href="http://www.csc.com/csc.ico">
 <script>
-if(navigator.appVersion.indexOf("MSIE")==-1)
+// variables used for browser check in the homepageNav.ssi and mainNav.ssi
+var MACIE = false;
+var NOTNETSCAPE = false;
+
+if(navigator.appVersion.indexOf('MSIE')==-1)
 	{
-	if(navigator.appVersion.indexOf("Win")!=-1)	
+	if(navigator.appVersion.indexOf('Win')!=-1)	
 		{
-		document.write("<LINK REL=\"Stylesheet\" HREF=\"/includes/NetWin.css\" type=\"text/css\">");
+		document.write('<LINK REL="Stylesheet" HREF="/includes/NetWin.css" type="text/css">');
 		}
-	else if(navigator.appVersion.indexOf("Mac")!=-1) 
+	else if(navigator.appVersion.indexOf('Mac')!=-1) 
 		{
-		document.write("<LINK REL=\"Stylesheet\" HREF=\"/includes/NetMac.css\" type=\"text/css\">");
+		document.write('<LINK REL="Stylesheet" HREF="/includes/NetMac.css" type="text/css">');
 		}
 	}
-if(navigator.appVersion.indexOf("MSIE")!=-1 )
+if(navigator.appVersion.indexOf('MSIE')!=-1 )
 	{
 	if(navigator.appVersion.indexOf("Mac")!=-1) 
 		{
-		document.write("<LINK REL=\"Stylesheet\" HREF=\"/includes/IEMac.css\" type=\"text/css\">");
+		document.write('<LINK REL="Stylesheet" HREF="/includes/IEMac.css" type="text/css">');
 		}
-	else if(navigator.appVersion.indexOf("Win")!=-1) 
+	else if(navigator.appVersion.indexOf('Win')!=-1) 
 		{
-		document.write("<LINK REL=\"Stylesheet\" HREF=\"/includes/IEWin.css\" type=\"text/css\">");
+		document.write('<LINK REL="Stylesheet" HREF="/includes/IEWin.css" type="text/css">');
 		}
 	}
-if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)
+if(navigator.appVersion.indexOf('MSIE 4')!=-1 && navigator.appVersion.indexOf("Mac")!=-1)
 	{
-		document.write("<LINK REL=\"Stylesheet\" HREF=\"/includes/NetMac.css\" type=\"text/css\">");
+		MACIE = true;
+		document.write('<LINK REL="Stylesheet" HREF="/includes/NetMac.css" type="text/css">');
 	}
+	
+if( navigator.appName!='Netscape')
+{
+	NOTNETSCAPE = true;
+}
 
-</script> 
+</script>
+
+<noscript><LINK REL="Stylesheet" HREF="/includes/IEWin.css" type="text/css"></noscript> 
 
 <style>
+td.navBg{background-image:url(/images/master/navBg.gif); }
 TD.nav {font-family:verdana,arial,sans; font-size:11px; width:160; cursor:hand; color:FFFFFF; font-weight:bold;}
+TD.lnav {font-family:verdana,arial,sans; font-size:10px; width:160; cursor:hand; color:FFFFFF; font-weight:normal;}
 TD.pop {font-family:verdana,arial,sans; font-size:11px; width:160; cursor:hand;color:FFFFFF; font-weight:bold;}
  TD.country {font-family:verdana,arial,sans; font-size:11px; width:160; cursor:hand;color:FFFFFF; font-weight:bold;}
-P.nnav	{margin-top: 2px; margin-left:6px; margin-right:6px; margin-bottom:2px;}
+P.nnav	{margin-top: 2px; margin-left:6px; margin-right:12px; margin-bottom:2px;}
+P.lnnav	{margin-top: 2px; margin-left:6px; margin-right:12px; margin-bottom:2px;}
 
-a.MainNav:link {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bold; text-decoration:none}
-a.MainNav:visited {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bold; text-decoration:none}
-a.MainNav:hover {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bold; text-decoration:underline}
+a.MainNav:link {font-family:verdana; font-size:11px; color:FFFFFF; font-weight:bold; text-decoration:none}
+a.MainNav:visited {font-family:verdana; font-size:11px; color:FFFFFF; font-weight:bold; text-decoration:none}
+a.MainNav:hover {font-family:verdana; font-size:11px; color:FFFFFF; font-weight:bold; text-decoration:underline}
+
+a.LangNav:link {font-family:verdana; font-size:11px; color:FFFFFF; font-weight:normal	; text-decoration:none}
+a.LangNav:visited {font-family:verdana; font-size:11px; color:FFFFFF; font-weight:normal; text-decoration:none}
+a.LangNav:hover {font-family:verdana; font-size:11px; color:FFFFFF; font-weight:normal; text-decoration:underline}
+
+
+a.CountryNav:link {font-family:verdana; font-size:12px; color:FFFFFF; font-weight:bold; text-decoration:none}
+a.CountryNav:visited {font-family:verdana; font-size:12px; color:FFFFFF; font-weight:bold; text-decoration:none}
+a.CountryNav:hover {font-family:verdana; font-size:12px; color:FFFFFF; font-weight:bold; text-decoration:underline}
+h1 {font-size:2px;color:000000;}
+h2 {font-size:2px;color:000000}
 </style>
-<noscript><LINK REL="Stylesheet" HREF="/includes/IEWin.css" type="text/css"></noscript> 
+<script language="JavaScript">
+da_image = new Image();
+da_image.src="http://www.csc.com/csc.ico";
+</script>
  <!--This will get replaced by the js platform/browser detection that will ref the proper .css file-->
   <script src="/includes/navScript.js" language="JavaScript" type="TEXT/JAVASCRIPT"></script>
 
@@ -74,7 +104,7 @@ a.MainNav:hover {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bo
 			<td bgcolor="CC6666"><img src="/images/public/Px_Clear.gif" width="12" height="18" border="0"></td>
 			<td bgcolor="990000"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="CC0000" class="nav" id="aboutus"><p class="nnav"><noscript>&nbsp;<FONT COLOR="#FFFFFF" FACE=ARIAL SIZE=2><B><a  href='/aboutus/' class='MainNav'>About Us</a></b></FONT></noscript>
-			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/aboutus/' class='MainNav'>About Us</a></b>");else if( navigator.appName!='Netscape') document.write("About Us"); else document.write("<IMG SRC='images/Px_Clear.gif'  WIDTH='138' HEIGHT='12' BORDER='0'>");</script><img src="images/Px_Clear.gif" width="138" height="12" border="0"></p></td>
+			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/aboutus/' class='MainNav'>About Us</a></b>");else if( navigator.appName!='Netscape') document.write("About Us"); else document.write("<IMG SRC='/images/Px_Clear.gif'  WIDTH='138' HEIGHT='12' BORDER='0'>");</script><img src="/images/Px_Clear.gif" width="138" height="12" border="0"></p></td>
 			<td bgcolor="CC0000"><img src="/images/public/navArrowBullet.gif" width="4" height="18" name="bullaboutus"></td>
 
 		</tr> 
@@ -88,7 +118,7 @@ a.MainNav:hover {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bo
 			<td bgcolor="CC6666"><img src="/images/public/Px_Clear.gif" width="12" height="18" border="0"></td>
 			<td bgcolor="990000"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="CC0000" class="nav" id="solutions"><p class="nnav"><noscript>&nbsp;<FONT COLOR="#FFFFFF" FACE=arial SIZE=2><B><a href='/solutions/' class='MainNav'>Solutions</a></b></FONT></noscript>
-			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a href='/solutions/' class='MainNav'>Solutions</a></b>");else if( navigator.appName!='Netscape') document.write("Solutions"); else document.write("<IMG SRC='images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
+			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a href='/solutions/' class='MainNav'>Solutions</a></b>");else if( navigator.appName!='Netscape') document.write("Solutions"); else document.write("<IMG SRC='/images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="/images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
 			<td bgcolor="CC0000"><img src="/images/public/navArrowBullet.gif" width="4" height="18" name="bullsolutions"></td>
 		</tr>
 		<tr>
@@ -98,7 +128,7 @@ a.MainNav:hover {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bo
 			<td bgcolor="CC6666"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="990000"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="CC0000" class="nav" id="industries"><p class="nnav"><noscript>&nbsp;<FONT COLOR="#FFFFFF" FACE=arial SIZE=2><B><a  href='/industries/' class='MainNav'>Industries</a></b></FONT></noscript>
-			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/industries/' class='MainNav'>Industries</a></b>");else if( navigator.appName!='Netscape') document.write("Industries") ;else document.write("<IMG SRC='images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
+			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/industries/' class='MainNav'>Industries</a></b>");else if( navigator.appName!='Netscape') document.write("Industries") ;else document.write("<IMG SRC='/images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="/images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
 			<td bgcolor="CC0000"><img src="/images/public/navArrowBullet.gif" width="4" height="18" name="bullindustries"></td>
 		</tr>
 		<tr>
@@ -109,7 +139,7 @@ a.MainNav:hover {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bo
 			<td bgcolor="CC6666"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="990000"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="CC0000" class="nav" id="alliancepartners" valign="middle"><p class="nnav"><noscript>&nbsp;<FONT COLOR="#FFFFFF" FACE=arial SIZE=2><B><a  href='/alliancepartners/' class='MainNav' >Alliance Partners</a></b></FONT></noscript>
-			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/alliancepartners/' class='MainNav' >Alliance Partners</a></b>");else if( navigator.appName!='Netscape') document.write("Alliance Partners"); else document.write("<IMG SRC='images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
+			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/alliancepartners/' class='MainNav' >Alliance Partners</a></b>");else if( navigator.appName!='Netscape') document.write("Alliance Partners"); else document.write("<IMG SRC='/images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="/images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
 			<td bgcolor="CC0000"><img src="/images/public/navArrowBullet.gif" width="4" height="18" name="bullalliancepartners"></td>
 		</tr>
 		<tr>
@@ -120,7 +150,7 @@ a.MainNav:hover {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bo
 			<td bgcolor="CC6666"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="990000"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="CC0000" class="nav" id="investorrelations" valign="middle"><p class="nnav"><noscript>&nbsp;<FONT COLOR="#FFFFFF" FACE=arial SIZE=2><B><a  href='/investorrelations/' class='MainNav' >Investor Relations</a></b></FONT></noscript>
-			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/investorrelations/' class='MainNav' >Investor Relations</a></b>");else if( navigator.appName!='Netscape') document.write("Investor Relations"); else document.write("<IMG SRC='images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
+			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/investorrelations/' class='MainNav' >Investor Relations</a></b>");else if( navigator.appName!='Netscape') document.write("Investor Relations"); else document.write("<IMG SRC='/images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="/images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
 			<td bgcolor="CC0000"><img src="/images/public/navArrowBullet.gif" width="4" height="18" name="bullinvestorrelations"></td>
 		</tr>
 		<tr>
@@ -131,7 +161,7 @@ a.MainNav:hover {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bo
 			<td bgcolor="CC6666"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="990000"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="CC0000" class="nav" id="mediarelations" valign="middle"><p class="nnav"><noscript>&nbsp;<FONT COLOR="#FFFFFF" FACE=arial SIZE=2><B><a  href='/mediarelations/' class='MainNav' >Media Relations</a></b></FONT></noscript>
-			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/mediarelations/' class='MainNav' >Media Relations</a></b>");else if( navigator.appName!='Netscape') document.write("Media Relations");else document.write("<IMG SRC='images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
+			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/mediarelations/' class='MainNav' >Media Relations</a></b>");else if( navigator.appName!='Netscape') document.write("Media Relations");else document.write("<IMG SRC='/images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="/images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
 			<td bgcolor="CC0000"><img src="/images/public/navArrowBullet.gif" width="4" height="18" name="bullmediarelations"></td>
 		</tr>
 		<tr>
@@ -142,7 +172,7 @@ a.MainNav:hover {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bo
 			<td bgcolor="CC6666"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="990000"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>			
 			<td bgcolor="CC0000" class="nav" id="newsandevents" valign="middle"><p class="nnav"><noscript>&nbsp;<FONT COLOR="#FFFFFF" FACE=arial SIZE=2><B><a  href='/newsandevents/' class='MainNav'>News & Events</a></b></FONT></noscript>
-			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/newsandevents/' class='MainNav'>News & Events</a></b>");else if( navigator.appName!='Netscape') document.write("News &amp; Events"); else document.write("<IMG SRC='images/Px_Clear.gif'  WIDTH='136' HEIGHT='12' BORDER='0'>")</script><img src="images/Px_Clear.gif" width="136" height="12" border="0"></p></td>
+			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/newsandevents/' class='MainNav'>News & Events</a></b>");else if( navigator.appName!='Netscape') document.write("News &amp; Events"); else document.write("<IMG SRC='/images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="/images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
 			<td bgcolor="CC0000"><img src="/images/public/navArrowBullet.gif" width="4" height="18" name="bullnewsandevents"></td>
 
 		</tr>
@@ -154,7 +184,7 @@ a.MainNav:hover {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bo
 			<td bgcolor="CC6666"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>
 			<td bgcolor="990000"><img src="/images/public/Px_Clear.gif" width="1" height="18" border="0"></td>			
 			<td bgcolor="CC0000" class="nav" id="clients" valign="middle"><p class="nnav"><noscript>&nbsp;<FONT COLOR="#FFFFFF" FACE=arial SIZE=2><B><a  href='/clients/' class='MainNav'>Clients</a></b></FONT></noscript>
-			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/clients/' class='MainNav'>Clients</a></b>");else if( navigator.appName!='Netscape') document.write("Clients"); else document.write("<IMG SRC='images/Px_Clear.gif'  WIDTH='136' HEIGHT='12' BORDER='0'>")</script><img src="images/Px_Clear.gif" width="136" height="12" border="0"></p></td>
+			<script>if(navigator.appVersion.indexOf("MSIE 4")!=-1 && navigator.appVersion.indexOf("Mac")!=-1)document.write("<B><a  href='/clients/' class='MainNav'>Clients</a></b>");else if( navigator.appName!='Netscape') document.write("Clients"); else document.write("<IMG SRC='/images/Px_Clear.gif'  WIDTH='135' HEIGHT='12' BORDER='0'>")</script><img src="/images/Px_Clear.gif" width="135" height="12" border="0"></p></td>
 			<td bgcolor="CC0000"><img src="/images/public/navArrowBullet.gif" width="4" height="18" name="bullclients"></td>
 
 		</tr>
@@ -162,6 +192,7 @@ a.MainNav:hover {font-family:arial; font-size:11px; color:FFFFFF; font-weight:bo
 			<td bgcolor="990000" colspan="4"><img src="/images/public/Px_Clear.gif" width="142" height="1" border="0"></td>
 		</tr>
 	</tbody></table>
+
 
 	
 	</td>
@@ -332,15 +363,15 @@ for (i=0;i<=8;i++)
 	dataArray[i] = new Array();
 	}
 dataArray=new Array();
-dataArray[0]=new Array('About Us','aboutus','Main Page','/aboutus','CSC At A Glance','/aboutus/content/glance.shtml','Point of View &amp; Mission','/aboutus/content/mission.shtml','Our History','/aboutus/content/history.shtml','CSC Difference','/aboutus/cscdifference','Publications','/aboutus/content/publications.shtml','Client Results','/aboutus/content/client.shtml','Strategic Programs','/aboutus/content/programs.shtml','Chairman&#180;s Message','/aboutus/content/message.shtml');
+dataArray[0]=new Array('About Us','aboutus','Main Page','/aboutus','CSC At A Glance','/aboutus/content/glance.shtml','Point of View &amp; Mission','/aboutus/content/mission.shtml','Our History','/aboutus/content/history.shtml','CSC Difference','/aboutus/cscdifference','Publications','/aboutus/content/publications.shtml','Client Results','/aboutus/content/client.shtml','Strategic Programs','/aboutus/content/programs.shtml','Chairman&#180;s Message','/aboutus/content/message.shtml','Sponsorships','/aboutus/sponsorships/index.shtml');
 
-dataArray[1]=new Array('Solutions','solutions','Main Page','/solutions' ,'Applications Outsourcing', '/solutions/applicationsoutsourcing' ,'Business Process Outsourcing', '/solutions/businessprocessoutsourcing' ,'Credit Services', '/solutions/creditservices' ,'Customer Relationship Management', '/solutions/customerrelationshipmanagement' ,'Enterprise Application Integration', '/solutions/enterpriseapplicationintegration' ,'Enterprise Solutions', '/solutions/enterprisesolutions' ,'Hosting Services', '/solutions/hostingservices' ,'Information Security', '/solutions/informationsecurity' ,'IT Infrastructure Outsourcing', '/solutions/itinfrastructureoutsourcing' ,'Knowledge Management', '/solutions/knowledgemanagement' ,'Management Consulting', '/solutions/managementconsulting' ,'Research Services', '/solutions/researchservices' ,'Supply Chain Management', '/solutions/supplychainmanagement'  );
+dataArray[1]=new Array('Solutions','solutions','Main Page','/solutions' ,'Application Outsourcing', '/solutions/applicationoutsourcing' ,'Business Process Outsourcing', '/solutions/businessprocessoutsourcing' ,'Credit Services', '/solutions/creditservices' ,'Customer Relationship Management', '/solutions/customerrelationshipmanagement' ,'Enterprise Application Integration', '/solutions/enterpriseapplicationintegration' ,'Enterprise Solutions', '/solutions/enterprisesolutions' ,'Hosting Services', '/solutions/hostingservices' ,'Information Security', '/solutions/informationsecurity' ,'IT Infrastructure Outsourcing', '/solutions/itinfrastructureoutsourcing' ,'Knowledge Management', '/solutions/knowledgemanagement' ,'Management Consulting', '/solutions/managementconsulting' ,'Research Services', '/solutions/researchservices' ,'Supply Chain Management', '/solutions/supplychainmanagement'  );
 
-dataArray[2]=new Array('Industries','industries','Main Page','/industries' ,'Aerospace &amp; Defense', '/industries/aerospacedefense' ,'Consumer Products', '/industries/consumerproducts' ,'Financial Services', '_/' ,'Government', '/industries/government' ,'Health Services', '/industries/healthservices' ,'Retail', '/industries/retail'  );
+dataArray[2]=new Array('Industries','industries','Main Page','/industries' ,'Aerospace &amp; Defense', '/industries/aerospacedefense' ,'Chemical', '/industries/chemical' ,'Communications &amp; High Tech', '/industries/communicationshightech' ,'Consumer Products', '/industries/consumerproducts' ,'Financial Services', '_/' ,'Government', '/industries/government' ,'Health Services', '/industries/healthservices' ,'Retail', '/industries/retail'  );
 
 dataArray[3]=new Array('Alliance Partners','alliancepartners','Main Page','/alliancepartners') ; ;
 
-dataArray[4]=new Array('Investor Relations','investorrelations','Main Page','/investorrelations','Financial Reports','/investorrelations/reports.shtml','Stock Information','/investorrelations/historical.shtml','Company Information','/investorrelations/management.shtml','Press Releases','/investorrelations/news','Events','/investorrelations/events','FAQs','/investorrelations/faq.shtml','Contact Us','/investorrelations/contactus') ;;
+dataArray[4]=new Array('Investor Relations','investorrelations','Main Page','/investorrelations','Financial Reports','/investorrelations/reports.shtml','Stock Information','/investorrelations/historical.shtml','Company Information','/investorrelations/management.shtml','Financial Press Releases','/investorrelations/news','Events','/investorrelations/events','FAQs','/investorrelations/faq.shtml','Contact Us','/investorrelations/contactus') ;;
 
 dataArray[5]=new Array('Media Relations','mediarelations','Main Page','/mediarelations','Press Releases','/newsandevents/news/index_1.shtml','Events','/newsandevents/events/index_1.shtml','CSC Press Kit','/mediarelations/presskit.shtml','Contacts','/mediarelations/contactus') ;
 
@@ -368,7 +399,7 @@ if (navigator.appName!='Netscape')
 else
 	{
 	var layerTop=0;
-	document.writeln('<layer name="baseLayer" zIndex=99  top="80"  width="135" left="13" clip="110"  visibility="hidden" >');
+	document.writeln('<layer name="baseLayer" zIndex=99  top="80"  width="140" left="13" clip="110"  visibility="hidden" >');
 	for(var i=0; i<dataArray.length;i++)
 		{
 		document.writeln('<layer name="'+dataArray[i][1]+'" top="'+layerTop+'" clip="110,18" bgColor="#CC0000"><p class="nnav"><a href="javascript:engage()"  class="nnav"> '+dataArray[i][0]+'</a></p>&#160;</layer>');
@@ -381,7 +412,7 @@ else
 		document.writeln('<layer name="'+dataArray[i][1]+'" visibility="hidden" bgColor="#990000">');
 		for(var j=2; j<dataArray[i].length;j=j+2)
 			{
-			document.writeln('<layer name="'+dataArray[i][j+1]+'" width="135" top="'+layerTop+'" width=138 	bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();"  class="nnav">'+dataArray[i][j]+'</a></p>	&#160;</layer>');
+			document.writeln('<layer name="'+dataArray[i][j+1]+'"  width="160" top="'+layerTop+'" 	bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();"  class="nnav">'+dataArray[i][j]+'</a></p>&#160;</layer>');
 			layerTop=layerTop+22;
 			}
 		layerTop=0;	
@@ -389,7 +420,7 @@ else
 		}
 	}
 
-</script><layer name="baseLayer" zindex="99" top="80" width="135" left="13" clip="110" visibility="hidden">
+</script><layer name="baseLayer" zindex="99" top="80" width="140" left="13" clip="110" visibility="hidden">
 <layer name="aboutus" top="0" clip="110,18" bgcolor="#CC0000"><p class="nnav"><a href="javascript:engage()" class="nnav"> About Us</a></p>&nbsp;</layer>
 <layer name="solutions" top="22" clip="110,18" bgcolor="#CC0000"><p class="nnav"><a href="javascript:engage()" class="nnav"> Solutions</a></p>&nbsp;</layer>
 <layer name="industries" top="44" clip="110,18" bgcolor="#CC0000"><p class="nnav"><a href="javascript:engage()" class="nnav"> Industries</a></p>&nbsp;</layer>
@@ -400,70 +431,72 @@ else
 <layer name="clients" top="154" clip="110,18" bgcolor="#CC0000"><p class="nnav"><a href="javascript:engage()" class="nnav"> Clients</a></p>&nbsp;</layer>
 </layer>
 <layer name="aboutus" visibility="hidden" bgcolor="#990000">
-<layer name="/aboutus" width="135" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>	&nbsp;</layer>
-<layer name="/aboutus/content/glance.shtml" width="135" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">CSC At A Glance</a></p>	&nbsp;</layer>
-<layer name="/aboutus/content/mission.shtml" width="135" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Point of View &amp; Mission</a></p>	&nbsp;</layer>
-<layer name="/aboutus/content/history.shtml" width="135" top="66" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Our History</a></p>	&nbsp;</layer>
-<layer name="/aboutus/cscdifference" width="135" top="88" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">CSC Difference</a></p>	&nbsp;</layer>
-<layer name="/aboutus/content/publications.shtml" width="135" top="110" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Publications</a></p>	&nbsp;</layer>
-<layer name="/aboutus/content/client.shtml" width="135" top="132" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Client Results</a></p>	&nbsp;</layer>
-<layer name="/aboutus/content/programs.shtml" width="135" top="154" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Strategic Programs</a></p>	&nbsp;</layer>
-<layer name="/aboutus/content/message.shtml" width="135" top="176" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Chairman´s Message</a></p>	&nbsp;</layer>
+<layer name="/aboutus" width="160" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>&nbsp;</layer>
+<layer name="/aboutus/content/glance.shtml" width="160" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">CSC At A Glance</a></p>&nbsp;</layer>
+<layer name="/aboutus/content/mission.shtml" width="160" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Point of View &amp; Mission</a></p>&nbsp;</layer>
+<layer name="/aboutus/content/history.shtml" width="160" top="66" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Our History</a></p>&nbsp;</layer>
+<layer name="/aboutus/cscdifference" width="160" top="88" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">CSC Difference</a></p>&nbsp;</layer>
+<layer name="/aboutus/content/publications.shtml" width="160" top="110" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Publications</a></p>&nbsp;</layer>
+<layer name="/aboutus/content/client.shtml" width="160" top="132" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Client Results</a></p>&nbsp;</layer>
+<layer name="/aboutus/content/programs.shtml" width="160" top="154" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Strategic Programs</a></p>&nbsp;</layer>
+<layer name="/aboutus/content/message.shtml" width="160" top="176" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Chairman´s Message</a></p>&nbsp;</layer>
+<layer name="/aboutus/sponsorships/index.shtml" width="160" top="198" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Sponsorships</a></p>&nbsp;</layer>
 </layer>
 <layer name="solutions" visibility="hidden" bgcolor="#990000">
-<layer name="/solutions" width="135" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>	&nbsp;</layer>
-<layer name="/solutions/applicationsoutsourcing" width="135" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Applications Outsourcing</a></p>	&nbsp;</layer>
-<layer name="/solutions/businessprocessoutsourcing" width="135" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Business Process Outsourcing</a></p>	&nbsp;</layer>
-<layer name="/solutions/creditservices" width="135" top="66" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Credit Services</a></p>	&nbsp;</layer>
-<layer name="/solutions/customerrelationshipmanagement" width="135" top="88" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Customer Relationship Management</a></p>	&nbsp;</layer>
-<layer name="/solutions/enterpriseapplicationintegration" width="135" top="110" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Enterprise Application Integration</a></p>	&nbsp;</layer>
-<layer name="/solutions/enterprisesolutions" width="135" top="132" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Enterprise Solutions</a></p>	&nbsp;</layer>
-<layer name="/solutions/hostingservices" width="135" top="154" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Hosting Services</a></p>	&nbsp;</layer>
-<layer name="/solutions/informationsecurity" width="135" top="176" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Information Security</a></p>	&nbsp;</layer>
-<layer name="/solutions/itinfrastructureoutsourcing" width="135" top="198" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">IT Infrastructure Outsourcing</a></p>	&nbsp;</layer>
-<layer name="/solutions/knowledgemanagement" width="135" top="220" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Knowledge Management</a></p>	&nbsp;</layer>
-<layer name="/solutions/managementconsulting" width="135" top="242" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Management Consulting</a></p>	&nbsp;</layer>
-<layer name="/solutions/researchservices" width="135" top="264" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Research Services</a></p>	&nbsp;</layer>
-<layer name="/solutions/supplychainmanagement" width="135" top="286" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Supply Chain Management</a></p>	&nbsp;</layer>
+<layer name="/solutions" width="160" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>&nbsp;</layer>
+<layer name="/solutions/applicationoutsourcing" width="160" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Application Outsourcing</a></p>&nbsp;</layer>
+<layer name="/solutions/businessprocessoutsourcing" width="160" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Business Process Outsourcing</a></p>&nbsp;</layer>
+<layer name="/solutions/creditservices" width="160" top="66" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Credit Services</a></p>&nbsp;</layer>
+<layer name="/solutions/customerrelationshipmanagement" width="160" top="88" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Customer Relationship Management</a></p>&nbsp;</layer>
+<layer name="/solutions/enterpriseapplicationintegration" width="160" top="110" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Enterprise Application Integration</a></p>&nbsp;</layer>
+<layer name="/solutions/enterprisesolutions" width="160" top="132" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Enterprise Solutions</a></p>&nbsp;</layer>
+<layer name="/solutions/hostingservices" width="160" top="154" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Hosting Services</a></p>&nbsp;</layer>
+<layer name="/solutions/informationsecurity" width="160" top="176" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Information Security</a></p>&nbsp;</layer>
+<layer name="/solutions/itinfrastructureoutsourcing" width="160" top="198" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">IT Infrastructure Outsourcing</a></p>&nbsp;</layer>
+<layer name="/solutions/knowledgemanagement" width="160" top="220" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Knowledge Management</a></p>&nbsp;</layer>
+<layer name="/solutions/managementconsulting" width="160" top="242" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Management Consulting</a></p>&nbsp;</layer>
+<layer name="/solutions/researchservices" width="160" top="264" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Research Services</a></p>&nbsp;</layer>
+<layer name="/solutions/supplychainmanagement" width="160" top="286" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Supply Chain Management</a></p>&nbsp;</layer>
 </layer>
 <layer name="industries" visibility="hidden" bgcolor="#990000">
-<layer name="/industries" width="135" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>	&nbsp;</layer>
-<layer name="/industries/aerospacedefense" width="135" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Aerospace &amp; Defense</a></p>	&nbsp;</layer>
-<layer name="/industries/consumerproducts" width="135" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Consumer Products</a></p>	&nbsp;</layer>
-<layer name="_/" width="135" top="66" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Financial Services</a></p>	&nbsp;</layer>
-<layer name="/industries/government" width="135" top="88" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Government</a></p>	&nbsp;</layer>
-<layer name="/industries/healthservices" width="135" top="110" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Health Services</a></p>	&nbsp;</layer>
-<layer name="/industries/retail" width="135" top="132" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Retail</a></p>	&nbsp;</layer>
+<layer name="/industries" width="160" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>&nbsp;</layer>
+<layer name="/industries/aerospacedefense" width="160" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Aerospace &amp; Defense</a></p>&nbsp;</layer>
+<layer name="/industries/chemical" width="160" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Chemical</a></p>&nbsp;</layer>
+<layer name="/industries/communicationshightech" width="160" top="66" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Communications &amp; High Tech</a></p>&nbsp;</layer>
+<layer name="/industries/consumerproducts" width="160" top="88" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Consumer Products</a></p>&nbsp;</layer>
+<layer name="_/" width="160" top="110" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Financial Services</a></p>&nbsp;</layer>
+<layer name="/industries/government" width="160" top="132" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Government</a></p>&nbsp;</layer>
+<layer name="/industries/healthservices" width="160" top="154" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Health Services</a></p>&nbsp;</layer>
+<layer name="/industries/retail" width="160" top="176" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Retail</a></p>&nbsp;</layer>
 </layer>
 <layer name="alliancepartners" visibility="hidden" bgcolor="#990000">
-<layer name="/alliancepartners" width="135" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>	&nbsp;</layer>
+<layer name="/alliancepartners" width="160" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>&nbsp;</layer>
 </layer>
 <layer name="investorrelations" visibility="hidden" bgcolor="#990000">
-<layer name="/investorrelations" width="135" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>	&nbsp;</layer>
-<layer name="/investorrelations/reports.shtml" width="135" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Financial Reports</a></p>	&nbsp;</layer>
-<layer name="/investorrelations/historical.shtml" width="135" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Stock Information</a></p>	&nbsp;</layer>
-<layer name="/investorrelations/management.shtml" width="135" top="66" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Company Information</a></p>	&nbsp;</layer>
-<layer name="/investorrelations/news" width="135" top="88" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Press Releases</a></p>	&nbsp;</layer>
-<layer name="/investorrelations/events" width="135" top="110" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Events</a></p>	&nbsp;</layer>
-<layer name="/investorrelations/faq.shtml" width="135" top="132" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">FAQs</a></p>	&nbsp;</layer>
-<layer name="/investorrelations/contactus" width="135" top="154" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Contact Us</a></p>	&nbsp;</layer>
+<layer name="/investorrelations" width="160" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>&nbsp;</layer>
+<layer name="/investorrelations/reports.shtml" width="160" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Financial Reports</a></p>&nbsp;</layer>
+<layer name="/investorrelations/historical.shtml" width="160" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Stock Information</a></p>&nbsp;</layer>
+<layer name="/investorrelations/management.shtml" width="160" top="66" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Company Information</a></p>&nbsp;</layer>
+<layer name="/investorrelations/news" width="160" top="88" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Financial Press Releases</a></p>&nbsp;</layer>
+<layer name="/investorrelations/events" width="160" top="110" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Events</a></p>&nbsp;</layer>
+<layer name="/investorrelations/faq.shtml" width="160" top="132" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">FAQs</a></p>&nbsp;</layer>
+<layer name="/investorrelations/contactus" width="160" top="154" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Contact Us</a></p>&nbsp;</layer>
 </layer>
 <layer name="mediarelations" visibility="hidden" bgcolor="#990000">
-<layer name="/mediarelations" width="135" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>	&nbsp;</layer>
-<layer name="/newsandevents/news/index_1.shtml" width="135" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Press Releases</a></p>	&nbsp;</layer>
-<layer name="/newsandevents/events/index_1.shtml" width="135" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Events</a></p>	&nbsp;</layer>
-<layer name="/mediarelations/presskit.shtml" width="135" top="66" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">CSC Press Kit</a></p>	&nbsp;</layer>
-<layer name="/mediarelations/contactus" width="135" top="88" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Contacts</a></p>	&nbsp;</layer>
+<layer name="/mediarelations" width="160" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>&nbsp;</layer>
+<layer name="/newsandevents/news/index_1.shtml" width="160" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Press Releases</a></p>&nbsp;</layer>
+<layer name="/newsandevents/events/index_1.shtml" width="160" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Events</a></p>&nbsp;</layer>
+<layer name="/mediarelations/presskit.shtml" width="160" top="66" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">CSC Press Kit</a></p>&nbsp;</layer>
+<layer name="/mediarelations/contactus" width="160" top="88" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Contacts</a></p>&nbsp;</layer>
 </layer>
 <layer name="newsandevents" visibility="hidden" bgcolor="#990000">
-<layer name="/newsandevents" width="135" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>	&nbsp;</layer>
-<layer name="/newsandevents/news/index_1.shtml" width="135" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Press Releases</a></p>	&nbsp;</layer>
-<layer name="/newsandevents/events/index_1.shtml" width="135" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Events</a></p>	&nbsp;</layer>
+<layer name="/newsandevents" width="160" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>&nbsp;</layer>
+<layer name="/newsandevents/news/index_1.shtml" width="160" top="22" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Press Releases</a></p>&nbsp;</layer>
+<layer name="/newsandevents/events/index_1.shtml" width="160" top="44" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Events</a></p>&nbsp;</layer>
 </layer>
 <layer name="clients" visibility="hidden" bgcolor="#990000">
-<layer name="/clients" width="135" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>	&nbsp;</layer>
+<layer name="/clients" width="160" top="0" bgcolor="CC6666"><p class="nnav"><a href="javascript:engage();" class="nnav">Main Page</a></p>&nbsp;</layer>
 </layer>
-
 
 
 
