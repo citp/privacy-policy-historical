@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209040537id_/http%3A//federalreserve.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalreserve.gov privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203213543id_/http%3A//www.federalreserve.gov/privacy.htm) for the most accurate reproduction.*
 
 # Federal Reserve Board: Accessibility
 
@@ -37,4 +37,4 @@ For the security of our site and to ensure that the site remains available to al
 
 ### How to Contact Us about the Web Site
 
-If you have a question about the way your information is used in connection with this web site or about the Board's privacy policy and information practices, you may send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551, or send a [Privacy Policy Comment](https://web.archive.org/web/20041209040537id_/http%3A//federalreserve.gov/privacy.cfm).
+If you have a question about the way your information is used in connection with this web site or about the Board's privacy policy and information practices, you may send a letter to Privacy Comments, Board of Governors of the Federal Reserve System, Mail Stop 804, Washington, DC 20551, or send a [Privacy Policy Comment](https://web.archive.org/web/20050203213543id_/http%3A//www.federalreserve.gov/privacy.cfm).
