@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204230404id_/http%3A//www.loopnet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loopnet.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623034938id_/http%3A//www.loopnet.com/privacy.asp) for the most accurate reproduction.*
 
 # LoopNet - PRIVACY POLICY
 
