@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615085108id_/http%3A//cruisedeals.com/display.asp%3FkeyPageID%3D17%26display%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisedeals.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208130759id_/http%3A//www.cruisedeals.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Cruise Deals And Vacation Deal - Carnival Cruise Line / Royal Caribbean Cruises
 
   
-|    
-
+  
+|  | 
 
 **Online Privacy Policy**  
 CruiseDeals.com (Cruise Deals, Inc.) respects your privacy. CruiseDeals.com understands that making purchases online involves a great deal of trust on your part; we take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide us
@@ -32,4 +32,4 @@ Cruise Deals Inc. may update this policy in the future to address new services t
 CruiseDeals.com takes precautions to protect users’ Personal Information. To prevent unauthorized access, maintain data accuracy and ensure the appropriate use of information, we have established reasonable procedures to safeguard and secure the information collected online.
 
 **Contact Us**  
-If you have any questions or concerns about this policy, you may contact CruiseDeals.com at [service@cruisedeals.com](mailto:service@cruisedeals.com). We will attempt to respond to your query right away.
+If you have any questions or concerns about this policy, you may contact CruiseDeals.com at [service@cruisedeals.com](mailto:service@cruisedeals.com). We will attempt to respond to your query right away. 
