@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204191358id_/http%3A//www.cyberguys.com/templates/privacy.asp%3Fureq%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605190952id_/http%3A//www.cyberguys.com/templates/privacy.asp%3Fureq%3DY) for the most accurate reproduction.*
 
 # Cyberguys!® - Privacy and Security
 
-|   
----  
-  |  |   
+|   |  |   
 ---  
   
 
