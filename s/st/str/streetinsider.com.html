@@ -1,13 +1,83 @@
-<!--The following is the downloaded HTML source of the streetinsider.com privacy policy that was archived on 2002-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020603161631id_/http%3A//streetinsider.com/index.cfm%3Fmethod%3Dsite_disclaimer) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the streetinsider.com privacy policy that was archived on 2002-12-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021209180857id_/http%3A//streetinsider.com/index.cfm%3Fmethod%3Dsite_disclaimer) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Welcome to Street Insider</title>
 	
 		<link href="js/streetinsider.css" rel="stylesheet" type="text/css">
 	
+	<script language="Javascript">
+	<!--//
+	var exit=true;
+	
+	function exitInterview()
+	 {
+		var expdate = new Date ();
+		var surveyCookieName = "streetinsider";
+		//CHANGE THIS PARAMETER TO CONTROL SAMPLING RATE
+		var percentOfferedSurvey = 25;  
+		var surveyLocation="http://www.insightexpress.com/ix/showSurvey.asp?id=44888&accessCode=2771214482&websiteid=6&onfinish=close";
+		//or show the survey in the same window.
+		var popupNewWindow = true;  
+		// 1 year from now
+		expdate.setTime(expdate.getTime() 
+			+ (365 * 24 * 60 * 60 * 1000)); 
+	        var stored_value = GetCookie(surveyCookieName);
+		var dd=new Date();
+		cn= Math.round(dd.getTime() / 100) % 100;
+		if ((cn <= percentOfferedSurvey) && (stored_value == null))
+		{
+		if (exit)
+		{
+	       	SetCookie(surveyCookieName, "alreadyOffered", expdate);
+		window.open(surveyLocation,'new_window',
+		'width=660,height=500,resizable=yes,scrollbars=yes');
+		}
+		}
+	 }
+	
+	function SetCookie (name,value,expires,path,domain,secure)
+	{
+	        document.cookie = name + "=" + escape (value) +
+	        ((expires) ? "; expires=" + expires.toGMTString() : "") +
+	        ((path) ? "; path=" + path : "") +
+	        ((domain) ? "; domain=" + domain : "") +
+	        ((secure) ? "; secure" : "");
+	}
+	
+	function getCookieVal (offset)
+	{
+	        var endstr = document.cookie.indexOf (";", offset);
+	        if (endstr == -1)
+	         endstr = document.cookie.length;
+	        return unescape(document.cookie.substring(offset, endstr));
+	}
+	
+	function GetCookie (name)
+	{
+	        var arg = name + "=";
+	        var alen = arg.length;
+	        var clen = document.cookie.length;
+	        if( (document.cookie == null) 
+	        	|| (document.cookie.length == null))
+	        {
+	                return null;
+	        }
+	        var i = 0;
+	        while (i < clen)
+	        {
+	                var j = i + alen;
+	                if (document.cookie.substring(i, j) == arg)
+	                        return getCookieVal (j);
+	                i = document.cookie.indexOf(" ", i) + 1;
+	                if (i == 0) break;
+	        }
+	        return null;
+	}
+	//-->
+	</script>
 </head>
-<body leftmargin="0" topmargin="0" bottommargin="0" marginwidth="0" rightmargin="0" marginheight="0">
+<body leftmargin="0" topmargin="0" bottommargin="0" marginwidth="0" rightmargin="0" marginheight="0" onunload="exitInterview()">
 	
 	
 
@@ -98,7 +168,7 @@
 				<td>
 					<table border="0" cellpadding="0" cellspacing="0">
 						<tbody><tr>
-							<td width="496" align="left" valign="top" nowrap=""><img height="20" width="14" src="ui/si_images/si_whitebar_leftend.gif"><a href="http://si1.streetinsider.com/index.cfm?linkto_tab_id=159" onmouseover="document.x1.src='ui/si_images/si_member_roll.gif'" onmouseout="document.x1.src='ui/si_images/si_member_static.gif'"><img src="ui/si_images/si_member_static.gif" width="77" height="20" name="x1" border="0"></a><a href="http://si1.streetinsider.com/index.cfm?linkto_tab_id=160" onmouseover="document.x2.src='ui/si_images/si_spotlight_roll.gif'" onmouseout="document.x2.src='ui/si_images/si_spotlight_static.gif'"><img src="ui/si_images/si_spotlight_static.gif" width="89" height="20" name="x2" border="0"></a><a href="http://si1.streetinsider.com/index.cfm?linkto_tab_id=164" onmouseover="document.x3.src='ui/si_images/si_rumors_roll.gif'" onmouseout="document.x3.src='ui/si_images/si_rumors_static.gif'"><img src="ui/si_images/si_rumors_static.gif" width="44" height="20" name="x3" border="0"></a><a href="http://si1.streetinsider.com/index.cfm?linkto_tab_id=187" onmouseover="document.x4.src='ui/si_images/si_news_roll.gif'" onmouseout="document.x4.src='ui/si_images/si_news_static.gif'"><img src="ui/si_images/si_news_static.gif" width="77" height="20" name="x4" border="0"></a><a href="http://si1.streetinsider.com/index.cfm?linkto_tab_id=165" onmouseover="document.x5.src='ui/si_images/si_portfolio_roll.gif'" onmouseout="document.x5.src='ui/si_images/si_portfolio_static.gif'"><img src="ui/si_images/si_portfolio_static.gif" width="83" height="20" name="x5" border="0"></a><a href="http://si1.streetinsider.com/index.cfm?linkto_tab_id=166" onmouseover="document.x6.src='ui/si_images/si_tools_roll.gif'" onmouseout="document.x6.src='ui/si_images/si_tools_static.gif'"><img src="ui/si_images/si_tools_static.gif" width="80" height="20" name="x6" border="0"></a><a href="http://si1.streetinsider.com/index.cfm?linkto_tab_id=167" onmouseover="document.x7.src='ui/si_images/si_links_roll.gif'" onmouseout="document.x7.src='ui/si_images/si_links_static.gif'"><img src="ui/si_images/si_links_static.gif" width="32" height="20" name="x7" border="0"></a></td><td width="272" align="left" valign="top"><img height="20" width="272" src="ui/si_images/si_whitebar_spacer.gif"></td><td width="109" align="left" valign="top"><img height="20" width="14" src="ui/si_images/si_whitebar_rightend.gif"></td>
+							<td width="496" align="left" valign="top" nowrap=""><img height="20" width="14" src="ui/si_images/si_whitebar_leftend.gif"><a href="http://si3.streetinsider.com/index.cfm?linkto_tab_id=159" onmouseover="document.x1.src='ui/si_images/si_member_roll.gif'" onmouseout="document.x1.src='ui/si_images/si_member_static.gif'"><img src="ui/si_images/si_member_static.gif" width="77" height="20" name="x1" border="0"></a><a href="http://si3.streetinsider.com/index.cfm?linkto_tab_id=160" onmouseover="document.x2.src='ui/si_images/si_spotlight_roll.gif'" onmouseout="document.x2.src='ui/si_images/si_spotlight_static.gif'"><img src="ui/si_images/si_spotlight_static.gif" width="89" height="20" name="x2" border="0"></a><a href="http://si3.streetinsider.com/index.cfm?linkto_tab_id=164" onmouseover="document.x3.src='ui/si_images/si_rumors_roll.gif'" onmouseout="document.x3.src='ui/si_images/si_rumors_static.gif'"><img src="ui/si_images/si_rumors_static.gif" width="44" height="20" name="x3" border="0"></a><a href="http://si3.streetinsider.com/index.cfm?linkto_tab_id=187" onmouseover="document.x4.src='ui/si_images/si_news_roll.gif'" onmouseout="document.x4.src='ui/si_images/si_news_static.gif'"><img src="ui/si_images/si_news_static.gif" width="77" height="20" name="x4" border="0"></a><a href="http://si3.streetinsider.com/index.cfm?linkto_tab_id=165" onmouseover="document.x5.src='ui/si_images/si_portfolio_roll.gif'" onmouseout="document.x5.src='ui/si_images/si_portfolio_static.gif'"><img src="ui/si_images/si_portfolio_static.gif" width="83" height="20" name="x5" border="0"></a><a href="http://si3.streetinsider.com/index.cfm?linkto_tab_id=166" onmouseover="document.x6.src='ui/si_images/si_tools_roll.gif'" onmouseout="document.x6.src='ui/si_images/si_tools_static.gif'"><img src="ui/si_images/si_tools_static.gif" width="80" height="20" name="x6" border="0"></a><a href="http://si3.streetinsider.com/index.cfm?linkto_tab_id=167" onmouseover="document.x7.src='ui/si_images/si_links_roll.gif'" onmouseout="document.x7.src='ui/si_images/si_links_static.gif'"><img src="ui/si_images/si_links_static.gif" width="32" height="20" name="x7" border="0"></a></td><td width="272" align="left" valign="top"><img height="20" width="272" src="ui/si_images/si_whitebar_spacer.gif"></td><td width="109" align="left" valign="top"><img height="20" width="14" src="ui/si_images/si_whitebar_rightend.gif"></td>
 						</tr>
 					</tbody></table>
 				</td>
@@ -121,20 +191,50 @@
 			</tr>
 			
 			<tr>
-				<td colspan="3" align="center" bordercolor="red">
-					<table border="1" bordercolorlight="FF9664" cellpadding="0" cellspacing="1"><tbody><tr><td>
+				<td colspan="3" align="center" bgcolor="white" height="31">
+					<table border="1" cellpadding="0" cellspacing="1" bgcolor="CECECE" bordercolorlight="BLACK" width="100%" align="center">
+					<tbody><tr>
+					<td width="88" align="left"> 
+						<!-- Begin AdButler Code v6.01 -->
+						<iframe src="http://imgserv.adbutler.com/adserve/;ID=133972;size=88x31;setID=53374;type=iframe" width="88" height="31" frameborder="0" border="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" scrolling="NO">						<![if lt IE 4]>
+						<SCRIPT SRC="http://imgserv.adbutler.com/adserve/;ID=133972;size=88x31;setID=53374;type=js" LANGUAGE="JAVASCRIPT"></SCRIPT>
+						<NOSCRIPT>
+						<a href="http://imgserv.adbutler.com/go2/;ID=133972;size=88x31;setID=53374">
+							<img src="http://imgserv.adbutler.com/adserve.ibs/;ID=133972;size=88x31;setID=53374;type=img" border="0" height="31" width="88">
+						</a>
+						</NOSCRIPT><![endif]>
+						</iframe>
+						<!-- End AdButler Code  -->
+					</td>
+					<td align="center" width="604">
+						<!-- Begin AdButler Code v6.01 -->
+						<iframe src="http://imgserv.adbutler.com/adserve/;ID=133972;size=292x18;setID=51290;type=iframe" width="292" height="18" frameborder="0" border="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" scrolling="NO">
+						<![if lt IE 4]>
+						<SCRIPT SRC="http://imgserv.adbutler.com/adserve/;ID=133972;size=292x18;setID=51290;type=js" LANGUAGE="JAVASCRIPT">
+						</SCRIPT>
+						<NOSCRIPT>
+						<a href="http://imgserv.adbutler.com/go2/;ID=133972;size=292x18;setID=51290" target="_blank">
+						<img src="http://imgserv.adbutler.com/adserve.ibs/;ID=133972;size=292x18;setID=51290;type=img" border="0" 	height="18" width="292"></a>
+						</NOSCRIPT><![endif]>
+						</iframe>
+						<!-- End AdButler Code  -->
+					</td>
+					<td width="88" align="right">
 					<!-- Begin AdButler Code v6.01 -->
-					<iframe src="http://imgserv.adbutler.com/adserve/;ID=133972;size=292x18;setID=51290;type=iframe" width="292" height="18" frameborder="0" border="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" scrolling="NO">
+					<iframe src="http://imgserv.adbutler.com/adserve/;ID=133972;size=88x31;setID=53375;type=iframe" width="88" height="31" frameborder="0" border="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" scrolling="NO">
 					<![if lt IE 4]>
-					<SCRIPT SRC="http://imgserv.adbutler.com/adserve/;ID=133972;size=292x18;setID=51290;type=js" LANGUAGE="JAVASCRIPT">
-					</SCRIPT>
+					<SCRIPT SRC="http://imgserv.adbutler.com/adserve/;ID=133972;size=88x31;setID=53375;type=js" LANGUAGE="JAVASCRIPT"></SCRIPT>
 					<NOSCRIPT>
-					<a href="http://imgserv.adbutler.com/go2/;ID=133972;size=292x18;setID=51290" target="_blank">
-					<img src="http://imgserv.adbutler.com/adserve.ibs/;ID=133972;size=292x18;setID=51290;type=img" border="0" 	height="18" width="292"></a>
-					</NOSCRIPT><![endif]>
+					<a href="http://imgserv.adbutler.com/go2/;ID=133972;size=88x31;setID=53375">
+						<img src="http://imgserv.adbutler.com/adserve.ibs/;ID=133972;size=88x31;setID=53375;type=img" border="0" height="31" width="88">
+					</a>
+					</NOSCRIPT>
+					<![endif]>
 					</iframe>
 					<!-- End AdButler Code  -->
-					</td></tr></tbody></table>
+					</td>
+					</tr>
+					</tbody></table>
 				</td>
 			</tr>
 			
@@ -536,20 +636,20 @@
 						
 							
 						
-						<tr bgcolor="EEEEEE"><td class="quoteFontAlt"><b>DJI</b></td><td class="quoteFontAlt" align="right">&nbsp;<b>  9,821.10</b></td></tr>
-						<tr bgcolor=""><td class="quoteFontAlt"><img src="ui/si_images/arrowdown.gif"></td><td class="quoteFontAlt" align="right"><font color="red"><b>    104.15</b></font></td></tr>
+						<tr bgcolor="EEEEEE"><td class="quoteFontAlt"><b>DJI</b></td><td class="quoteFontAlt" align="right">&nbsp;<b>  8,704.12</b></td></tr>
+						<tr bgcolor=""><td class="quoteFontAlt"><img src="ui/si_images/arrowdown.gif"></td><td class="quoteFontAlt" align="right"><font color="red"><b>     38.81</b></font></td></tr>
 					
 						
 							
 						
-						<tr bgcolor="EEEEEE"><td class="quoteFontAlt"><b>COMP</b></td><td class="quoteFontAlt" align="right">&nbsp;<b>  1,585.28</b></td></tr>
-						<tr bgcolor=""><td class="quoteFontAlt"><img src="ui/si_images/arrowdown.gif"></td><td class="quoteFontAlt" align="right"><font color="red"><b>     30.45</b></font></td></tr>
+						<tr bgcolor="EEEEEE"><td class="quoteFontAlt"><b>COMP</b></td><td class="quoteFontAlt" align="right">&nbsp;<b>  1,423.46</b></td></tr>
+						<tr bgcolor=""><td class="quoteFontAlt"><img src="ui/si_images/arrowdown.gif"></td><td class="quoteFontAlt" align="right"><font color="red"><b>     25.50</b></font></td></tr>
 					
 						
 							
 						
-						<tr bgcolor="EEEEEE"><td class="quoteFontAlt"><b>SP500</b></td><td class="quoteFontAlt" align="right">&nbsp;<b>  1,053.08</b></td></tr>
-						<tr bgcolor=""><td class="quoteFontAlt"><img src="ui/si_images/arrowdown.gif"></td><td class="quoteFontAlt" align="right"><font color="red"><b>     14.06</b></font></td></tr>
+						<tr bgcolor="EEEEEE"><td class="quoteFontAlt"><b>SP500</b></td><td class="quoteFontAlt" align="right">&nbsp;<b>    914.89</b></td></tr>
+						<tr bgcolor=""><td class="quoteFontAlt"><img src="ui/si_images/arrowdown.gif"></td><td class="quoteFontAlt" align="right"><font color="red"><b>      5.86</b></font></td></tr>
 					
     
 	                <tr><td colspan="2" class="verySmallNarrowFont"><br>Delayed at least 15 min</td></tr>
@@ -614,19 +714,19 @@
 					
 					
 						
-						<tr bgcolor="EEEEEE"><td class="quoteFont">ALDA</td><td class="quoteFont" align="right">$0.81</td><td class="quoteFontGreen" align="right">200</td></tr>
+						<tr bgcolor="EEEEEE"><td class="quoteFont">TESTE</td><td class="quoteFont" align="right">$59.00</td><td class="quoteFontGreen" align="right">5800</td></tr>
 					
 						
-						<tr bgcolor=""><td class="quoteFont">TESTR</td><td class="quoteFont" align="right">$18.00</td><td class="quoteFontGreen" align="right">125</td></tr>
+						<tr bgcolor=""><td class="quoteFont">TESTB</td><td class="quoteFont" align="right">$248.60</td><td class="quoteFontGreen" align="right">517</td></tr>
 					
 						
-						<tr bgcolor="EEEEEE"><td class="quoteFont">BBUCU</td><td class="quoteFont" align="right">$0.43</td><td class="quoteFontGreen" align="right">79</td></tr>
+						<tr bgcolor="EEEEEE"><td class="quoteFont">ELANZ</td><td class="quoteFont" align="right">$0.13</td><td class="quoteFontGreen" align="right">117</td></tr>
 					
 						
-						<tr bgcolor=""><td class="quoteFont">VDATW</td><td class="quoteFont" align="right">$0.07</td><td class="quoteFontGreen" align="right">40</td></tr>
+						<tr bgcolor=""><td class="quoteFont">INEI</td><td class="quoteFont" align="right">$0.95</td><td class="quoteFontGreen" align="right">102</td></tr>
 					
 						
-						<tr bgcolor="EEEEEE"><td class="quoteFont">IMMT</td><td class="quoteFont" align="right">$4.06</td><td class="quoteFontGreen" align="right">31</td></tr>
+						<tr bgcolor="EEEEEE"><td class="quoteFont">ZVZZT</td><td class="quoteFont" align="right">$102.20</td><td class="quoteFontGreen" align="right">70</td></tr>
 					
                     <tr><td colspan="2" class="verySmallNarrowFont"><br>Delayed at least 15 min</td></tr>                            
 					
@@ -674,19 +774,19 @@
 					
 					
 						
-						<tr bgcolor="EEEEEE"><td class="quoteFont">CCU</td><td class="quoteFont" align="right">$53.40</td><td class="quoteFontGreen" align="right">773</td></tr>
+						<tr bgcolor="EEEEEE"><td class="quoteFont">BLI</td><td class="quoteFont" align="right">$12.16</td><td class="quoteFontGreen" align="right">24</td></tr>
 					
 						
-						<tr bgcolor=""><td class="quoteFont">PGR</td><td class="quoteFont" align="right">$59.48</td><td class="quoteFontGreen" align="right">21</td></tr>
+						<tr bgcolor=""><td class="quoteFont">CDG</td><td class="quoteFont" align="right">$1.65</td><td class="quoteFontGreen" align="right">12</td></tr>
 					
 						
-						<tr bgcolor="EEEEEE"><td class="quoteFont">FDY</td><td class="quoteFont" align="right">$0.51</td><td class="quoteFontGreen" align="right">19</td></tr>
+						<tr bgcolor="EEEEEE"><td class="quoteFont">PME</td><td class="quoteFont" align="right">$0.83</td><td class="quoteFontGreen" align="right">12</td></tr>
 					
 						
-						<tr bgcolor=""><td class="quoteFont">NPO</td><td class="quoteFont" align="right">$6.92</td><td class="quoteFontGreen" align="right">13</td></tr>
+						<tr bgcolor=""><td class="quoteFont">DRF</td><td class="quoteFont" align="right">$2.75</td><td class="quoteFontGreen" align="right">11</td></tr>
 					
 						
-						<tr bgcolor="EEEEEE"><td class="quoteFont">FWC1A</td><td class="quoteFont" align="right">$3.90</td><td class="quoteFontGreen" align="right">11</td></tr>
+						<tr bgcolor="EEEEEE"><td class="quoteFont">TRI</td><td class="quoteFont" align="right">$31.07</td><td class="quoteFontGreen" align="right">11</td></tr>
 					
                     <tr><td colspan="2" class="verySmallNarrowFont"><br>Delayed at least 15 min</td></tr>                            
 					
