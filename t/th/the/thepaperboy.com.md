@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the thepaperboy.com privacy policy that was archived on 2004-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040625093531id_/http%3A//www.thepaperboy.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaperboy.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210190134id_/http%3A//www.thepaperboy.com/privacy.html) for the most accurate reproduction.*
 
-# The Paperboy: Privacy Policy
+# Privacy Policy | ThePaperboy.com
 
 **_The Paperboy And Your Privacy_**
 
 At the Paperboy, we are committed to protecting your privacy. We use the information we collect about you in order to respond efficiently to your requests and to provide a more personalised experience. 
 
 **_What information do we collect? How do we use it?_**
+
+When you sign up as a **Paperboy Member** we collect your payment details, name, email address and country. Payment details our collected via an encrypted connection via a secure server by our credit card processing partner [Paypal](http://www.paypal.com/). Your contact details will never be provided to a third party and will not be used by us except to inform you of news specifically associated with your status as a Paperboy Member. 
 
 When you sign up for the **Paperboy Affiliate Program** we collect your name, email address and site URL. This allows us to review your site for inclusion in the program, send out your HTML code and let you know about any news specifically relating to the affiliate program. Your email address will never be provided to a third party and will not be used by us except to inform you of news specifically associated with your participation in the affiliate program. 
 
@@ -22,8 +24,11 @@ From time to time we may send out email to inform users of news or other relevan
 
 **_Third Party Advertisements_**
 
-This site, The Paperboy, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to http://www.engage.com/privacy. 
+This site, ThePaperboy.com, uses the services of various 3rd party advertising networks for the serving and/or targeting of ads, promotions and other marketing messages. To do this, these networks often collect anonymous data through the use of cookies. 
 
-**_Tell us what you think_**
+**_Tell me what you think_**
 
-The Paperboy welcomes your questions and comments about privacy. Please [click here](http://www.thepaperboy.com/email.html) to contact us. 
+I welcome your questions and comments about privacy. Please [click here](http://www.thepaperboy.com/email.html) to contact me. 
+
+Regards,  
+Ian Duckworth 
