@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the hire.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205024328id_/http%3A//www.hire.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hire.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606220707id_/http%3A//www.hire.com/company/privacy.html) for the most accurate reproduction.*
 
 # Hire.com - Company: Overview
 
-**Hire.com's Commitment to Confidentiality**  
 Hire.com has gone to great lengths to respect the privacy of the individuals that visit our powered site. The "Powered By Hire.com" sticker provides you with the knowledge that the information you entrusted with us is confidential. All of the information you provide to us is voluntary. We promote the use of anonymity and confidentiality within the system. This privacy statement discloses how we use the information you choose to provide in your navigation through our site.
 
 **TRUSTe Certification**  
