@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616152428id_/http%3A//www.my3cents.com/cgi-bin/privacy.tps) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the my3cents.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211212453id_/http%3A//my3cents.com/cgi-bin/privacy.tps) for the most accurate reproduction.*
 
 # My3cents.com - Let your voice be heard!
 
-The policy explains how we will gather and use the information at this Web site: http://www.My3cents.com
+The policy explains how we will gather and use the information at this Web site: http://www.my3cents.com
 
 **How we use your IP address**  
 We may use your Internet Protocol (IP) address to help diagnose problems with our server and track movement within our web site only to optimize your experience. We may also collect the referring URL, access times and browser type. We will not link this information to any personally identifiable information.
@@ -45,7 +45,7 @@ This site contains links to Web sites operated by third parties. My3cents.com is
 My3cents.com has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
 **Updating Your Information**  
-If you need to update information about your account or any opinions/letters you have posted on our website, please contact us via email using the [feedback tool](https://web.archive.org/cgi-bin/mailUs.tps) provided on our website!
+If you need to update information about your account or any opinions/letters you have posted on our website, please contact us via email using at [admin@my3cents.com](mailto:admin@my3cents.com)!
 
 **Notification of Changes**  
 If we change our privacy policy, we will post a notice on our site so our users are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by e-mail. Users will have a choice as to whether or not we use their previously submitted information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
@@ -54,4 +54,4 @@ If we change our privacy policy, we will post a notice on our site so our users 
 If you have any questions about this privacy statement, the practices of this site or your dealings with this Web site, you can contact: 
 
 My3cents.com  
-[Contact Us!](https://web.archive.org/cgi-bin/mailUs.tps)
+[Contact Us!](mailto:admin@my3cents.com)
