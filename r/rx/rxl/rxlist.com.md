@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rxlist.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205004948id_/http%3A//rxlist.com/about.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rxlist.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622233803id_/http%3A//rxlist.com/about.htm%23privacy) for the most accurate reproduction.*
 
 # About RxList
 
@@ -9,6 +9,12 @@ Frequently Asked Questions:
 Q.  Why does your RxList search find drug names I was not looking for?  
 A.  The search uses 'fuzzy' logic and attempts to match patterns similar to your input assuming you may not know how to spell the drug name you're searching for. If you are certain of your spelling, an asterisk (*) placed in the search string (such as prozac*) will turn off the fuzzy logic feature and the search will perform exact pattern matches only. If you type in the first few letters of a drug name without the asterisk (*) the search will match any brand or generic drug that matches that pattern and will also provide fuzzy results to increase the chances of finding your drug on the very first search.
 
+Q.  I placed an order, my credit card was charged and I didn't get my medications. Why?  
+
+
+A.  We do not sell anything on RxList, and we did not charge your credit card. Chances are you've visited an offshore site www.rx-list.com which has no connection to RxList.com. It is they who have billed your card not RxList.com. Based upon the number of e-mails we receive like this it appears that you may never receive your medications and we suggest you contact your credit card company for a refund and/or the authorities to register a complaint!  
+
+
 Q.  I am no longer able to see the "Side Effects" tab. Why is this? That is the section I use the most often.  
 
 
@@ -18,7 +24,7 @@ A.  You are probably using Norton Internet Security which conflicts with certai
 Q. I went to your advanced search page and found several different search boxes, what's the difference?  
 
 
-A.  Let's list and describe the 5 searches found on the [advanced search](https://web.archive.org/web/20031205004948id_/http%3A//rxlist.com/interact.htm) page:  
+A.  Let's list and describe the 5 searches found on the [advanced search](https://web.archive.org/web/20040622233803id_/http%3A//rxlist.com/interact.htm) page:  
 
 
   * RxList Search: Search the RxList database for brand name, generic name and pharmacologic category. Many of the most popular entries have links to professional and/or patient oriented material.
@@ -37,13 +43,13 @@ A.  You can look each product up individually in RxList and read the Drug Inter
 
 Please note: The information provided on this site is designed to support, not replace, the relationship that exists between a patient/site visitor and his/her existing physician. 
 
-Q. Users of Norton Internet Security Software please [click here!](https://web.archive.org/web/20031205004948id_/http%3A//rxlist.com/norton.htm)
+Q. Users of Norton Internet Security Software please [click here!](https://web.archive.org/web/20040622233803id_/http%3A//rxlist.com/norton.htm)
 
 Q. How often do you update RxList?  
 A.  The database of approximately 5,000 product names is updated every several days.   The professional monographs, derived from FDA approved labeling, are reviewed annually and revised when necessary (licensed material is updated quarterly). Dates of revision are located at the bottom of each page.
 
 Q.  I searched for a drug name but the only information I found was the brand name, generic name, and category. Where's the rest of the information?  
-A.  There are approximately 5,000 products listed in the RxList database. Of these, there are nearly 1300 professional monographs and about 1,500 patient oriented monographs. RxList is adding new material all the time and strives to meet the needs of most of the users most of the time. RxList Alternatives are original works created by RxList.com. A list of references is located [here](https://web.archive.org/web/20031205004948id_/http%3A//rxlist.com/cgi/alt/echinacea_ids.htm#Ref). 
+A.  There are approximately 5,000 products listed in the RxList database. Of these, there are nearly 1300 professional monographs and about 1,500 patient oriented monographs. RxList is adding new material all the time and strives to meet the needs of most of the users most of the time. RxList Alternatives are original works created by RxList.com. A list of references is located [here](https://web.archive.org/web/20040622233803id_/http%3A//rxlist.com/cgi/alt/echinacea_ids.htm#Ref). 
 
 Q.  Can I purchase my prescriptions from RxList?  
 
@@ -54,13 +60,13 @@ Q.  I e-mailed a question to info@rxlist.com and received an auto-reply that sa
 A.  RxList is run by a very small staff who keep pretty busy maintaining the site leaving little time to research your questions. Your questions/comments are always read even if you do not get a personal reply. 
 
 Q. What's your privacy policy?  
-A. **Privacy Policy:** RxList uses non-personal information derived from server logs and cookies to help identify usage patterns on the site. Personal information posted in the public forums known as [RxBoard ](https://web.archive.org/web/20031205004948id_/http%3A//rxlist.com/rxboard.htm)are, however, freely viewable by the public. Personally identifiable information provided to RxList via e-mail or surveys are not shared with any third parties and are kept confidential. Information provided in e-mails and/or surveys, however, may be aggregated and shared with third parties but, in no case, will aggregated data contain personally identifiable information (i.e., name, address, phone, e-mail, etc.) As e-mails and form submissions are not encrypted unless specifically stated otherwise, the possibility of interception by 'snoopers' should be considered.
+A. **Privacy Policy:** RxList uses non-personal information derived from server logs and cookies to help identify usage patterns on the site. Personal information posted in the public forums known as [RxBoard ](https://web.archive.org/web/20040622233803id_/http%3A//rxlist.com/rxboard.htm)are, however, freely viewable by the public. Personally identifiable information provided to RxList via e-mail or surveys are not shared with any third parties and are kept confidential. Information provided in e-mails and/or surveys, however, may be aggregated and shared with third parties but, in no case, will aggregated data contain personally identifiable information (i.e., name, address, phone, e-mail, etc.) As e-mails and form submissions are not encrypted unless specifically stated otherwise, the possibility of interception by 'snoopers' should be considered.
 
-**Third Party Advertising:** RxList derives revenue from advertising. Advertising badges, banners and text links are located across the top and bottom of most pages and along the left and right borders or many pages, as well. The ads appearing on this Web site are delivered to you by Choicemedia, Inc., our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. 
+**Third Party Advertising:** RxList derives revenue from advertising. Advertising badges, banners and text links are located across the top and bottom of most pages and along the left and right borders or many pages, as well. The ads appearing on this Web site are delivered to you by E-HealthcareSolutions, Inc., our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. 
 
 **Third Party Cookies** In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
-While you're at it, why not read our [use agreement](https://web.archive.org/web/20031205004948id_/http%3A//rxlist.com/use_agreement.htm)?  
+While you're at it, why not read our [use agreement](https://web.archive.org/web/20040622233803id_/http%3A//rxlist.com/use_agreement.htm)?  
 
 
 Q.  Who runs RxList?  
