@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ac-markets.com privacy policy that was archived on 2004-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040626112510id_/http%3A//ac-markets.com/EN/ressources.privacy_notice.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ac-markets.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205165037id_/http%3A//www.ac-markets.com/EN/ressources.privacy_notice.asp) for the most accurate reproduction.*
 
 # Web privacy notice - Advanced currency markets - forex trading
 
 **Web privacy notice** The user should note that information contained on the ACM website is not intended for broadcast in any one particular country nor does ACM target any specific members of the general public or companies located in any particular country where broadcasting over the internet would be contrary to local law.
 
-ACM Advanced Currency Markets SA respects each individual's right to privacy. ACM certifies that any information collected through ACM's website concerning the user's identity, address, birth date, telephone number(s), and other personla information pertaining to the user will remain within ACM and will not be exchanged, sold or given to any third parties without the user's prior consent.
+ACM Advanced Currency Markets SA respects each individual's right to privacy. ACM certifies that any information collected through ACM's website concerning the user's identity, address, birth date, telephone number(s), and other personal information pertaining to the user will remain within ACM and will not be exchanged, sold or given to any third parties without the user's prior consent.
 
 **Usage of cookies**
 
