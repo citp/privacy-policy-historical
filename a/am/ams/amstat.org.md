@@ -1,9 +1,25 @@
-> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2001-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010815124932id_/http%3A//amstat.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2002-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020623041224id_/http%3A//amstat.org/PUBLICATIONS/amstat_online/policy/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for www.amstat.org
 
-Below: Choice/Opt Out | Contacting the Web Site | Cookie Information    
+Below: Choice/Opt Out | Contacting the Web Site | Cookie Information     
 Correct/Update User Profile | Security and more!
+
+This Web site wants to demonstrate its commitment to your privacy. We disclose information practices below concerning:
+
+  1. What personally identifiable information of yours or third party personal identification is collected from you through the web site
+  2. The organization collecting the information 
+  3. How the information is used 
+  4. With whom the information may be shared 
+  5. What choices are available to you regarding collection, use and distribution of the information 
+  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under ASA control 
+  7. How you can correct any inaccuracies in the information. 
+
+
+
+If you have questions or concerns regarding this statement, please contact the ASA webmaster by email at [webmaster@amstat.org](mailto:webmaster@amstat.org) or by phone, (703) 684-1221.
+
+* * *
 
 The American Statistical Association (ASA) has a strong commitment to privacy, balanced by a recognition that we are a public association. This statement discloses policies and procedures concerning information gathering and dissemination practices for this Web site: [www.amstat.org](http://www.amstat.org/). 
 
@@ -25,7 +41,7 @@ The American Statistical Association (ASA) has a strong commitment to privacy, b
 
 Users of this Web site may differ in their access or needs. We recommend that you read this policy in its entirety to understand your and our responsibilities. We use your IP address to help diagnose problems with our server and to administer our Web site. 
 
-The information nn this statement is summarized into two broad headings \-- customer information and member information. Members who place orders should also read the customer information section. Our site uses cookies when we need to keep track from one screen to another, such as when you log in to [Members Only](https://web.archive.org/membersonly/) using a password or when you use a shopping cart. See below for more information on cookies. 
+The information nn this statement is summarized into two broad headings -- customer information and member information. Members who place orders should also read the customer information section. Our site uses cookies when we need to keep track from one screen to another, such as when you log in to [Members Only](https://www.amstat.org/membersonly/) using a password or when you use a shopping cart. See below for more information on cookies. 
 
 #### Customer Information
 
@@ -43,7 +59,7 @@ Secured Server Certificate from VeriSign, Inc. is utilized to identify your secu
 
 ### Correct/Update
 
-Members can change their address and related information at [ www.amstat.org/membersonly/default.asp](https://web.archive.org/membersonly/default.asp)
+Members can change their address and related information at [ www.amstat.org/membersonly/](https://www.amstat.org/membersonly/)
 
 Members and other customers can send corrections to ASA by email ([asainfo@amstat.org](mailto:asainfo@amstat.org)) or by regular mail (address below).
 
@@ -51,16 +67,16 @@ Members and other customers can send corrections to ASA by email ([asainfo@amsta
 
 Our site provides users the opportunity to opt out of (e.g. stop or discontinue) receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database so as to not receive future communications or to no longer receive our service.
 
-  1. Members can visit the following URL: [https://www.amstat.org/MembersOnly](https://web.archive.org/membersonly/)
+  1. Members can visit the following URL: [https://www.amstat.org/MembersOnly](https://www.amstat.org/membersonly)
   2. Members and customers can send mail to the following postal address: 
-WebMaster, American Statistical Association, 1429 Duke St., Alexandria, VA 22314-3402, USA 
+Webmaster, American Statistical Association, 1429 Duke St., Alexandria, VA 22314-3402, USA 
 
 
 ### Contacting the Web Site
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
-WebMaster   
+Webmaster   
 American Statistical Association   
 1429 Duke St.   
 Alexandria, VA 22314-3402, USA
@@ -73,7 +89,7 @@ Also you can contact Customer Service with any questions about ASA: [asainfo@ams
 
 This policy may be revised over time as new features are added to the Web site. We will post those changes prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this site for information about revisions to our privacy policy.
 
-### **Links to Other Sites**
+###  **Links to Other Sites**
 
 This site contains links to other sites. The American Statistical Association is not responsible for the privacy practices or the content of such other Web sites. We encourage you to read the privacy statements of each and every Web site that collects your personally identifiable information.
 
@@ -108,4 +124,10 @@ Our online surveys may ask visitors for contact information (such as email addre
 
 This site may make chat rooms, list servers, forums, message boards, and/or news groups available to its members. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
 
-Top of page
+This page was constructed with assistance from [TRUSTe](http://www.truste.org/). However, the American Statistical Association (ASA) no longer is a licensee of the TRUSTe Privacy Program. 
+
+* * *
+
+[Copyright](https://web.archive.org/site/copyright.html) | [Privacy Statement](https://web.archive.org/publications/amstat_online/policy/privacy.html) | [Disclaimer](https://web.archive.org/publications/amstat_online/policy/disclaimer.html)  
+© 2002 American Statistical Association. All Rights Reserved.  
+Upgrading to the latest version of browser software [Microsoft](http://www.microsoft.com/windows/ie/), [Netscape](http://www.netscape.com/download/), or [Opera](http://www.opera.com/download) may enhance your online experience.
