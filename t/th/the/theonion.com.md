@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theonion.com privacy policy that was archived on 2002-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021019003900id_/http%3A//www.theonion.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonion.com privacy policy that was archived on 2003-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030512154123id_/http%3A//theonion.com/info/privacy.html) for the most accurate reproduction.*
 
 # The Onion | Privacy Policy
 
@@ -56,7 +56,12 @@ Onion, Inc. also counts, tracks, and aggregates the visitor's activity into our 
 **E-mail Services**  
 Any/all e-mail addresses sent to us as the result of correspondence with the consumers of Onion, Inc. will not be used or collected for the purposes of reselling to a third party and will not be added to a bulk e-mailing list.
 
-As an opt-in feature only, we may use your email address to send you newsletters about new products or special offers.
+The Onion provides users the opportunity to opt-in and opt-out of receiving e-mail communications from us. This is made available during sign-up for our e-mail lists and in e-mail messages delivered from The Onion. For any list managed by The Onion, users can use the link in the footer of most e-mail messages to unsubscribe.
+
+* * *
+
+**Sharing and Usage Of Information**  
+The Onion never shares, sells, or rents any personal information without your permission, unless ordered by a court of law. Information submitted to us is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information.
 
 * * *
 
@@ -69,7 +74,7 @@ Copyright
 
 **The Onion ®** uses invented names in all its stories, except in cases when public figures are being satirized. Any other use of real names is accidental and coincidental.
 
-The content of this web-site—graphics, text and other elements—is © Copyright 2002 by Onion, Inc., and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher.
+The content of this web-site—graphics, text and other elements—is © Copyright 2003 by Onion, Inc., and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher.
 
 **The Onion ®** is not intended for readers under 18 years of age.
 
