@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patagonia.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610034856id_/http%3A//www.patagonia.com/custserv/privacy_security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patagonia.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210012402id_/http%3A//www.patagonia.com/custserv/privacy_security.shtml) for the most accurate reproduction.*
 
 # Patagonia Customer Service: Privacy/Security
 
@@ -69,8 +69,6 @@ Symbol**
 **Internet Explorer (all versions)** |  |   
   
 You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "e;http"e; to "e;https"e;. 
-
-[]()
 
 We have implemented the strongest security available for Patagonia.com from VeriSign. VeriSign software enables the use of digital certificates which confirm that your browser in communicating securely with Patagonia.com. You may click on the VeriSign logo to the right to verify that your browser is communicating securely with Patagonia.com. 
 
