@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the advocatehealth.com privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604013718id_/http%3A//www.advocatehealth.com/system/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the advocatehealth.com privacy policy that was archived on 2001-12-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217003448id_/http%3A//advocatehealth.com/system/privacy.html) for the most accurate reproduction.-->
 
 <html><!-- 
   Developed by Imaginary Landscape (http://www.imaginarylandscape.com)
@@ -15,29 +15,24 @@
 
 <script language="JavaScript">
 <!--
-	// This code is by Doug Sheppard for
-	// Imaginary Landscape LLC (http://www.imagescape.com/)
-	// Thank you for looking at our code!
 
-	var isImageCapable;
-	if (document.images) {
-        	isImageCapable = 1;
-	} else {
-        	isImageCapable = 0;
+// This code is by Doug Sheppard for
+// Imaginary Landscape LLC (http://www.imagescape.com/)
+// Thank you for looking at our code!
+
+var isImageCapable;
+if (document.images) { isImageCapable = 1;
+} else { isImageCapable = 0;
+}
+
+/* This is the constructor for our pair of ON/OFF images. */
+function Flicker(x, y, z) {
+	if (isImageCapable) {
+		this.on = new Image(); this.on.src = x;
+		this.off = new Image(); this.off.src = y;
+		if (z) { this.click = new Image(); this.click.src = z; }
 	}
-
-
-	/* This is the constructor for our pair of ON/OFF images. */
-	function Flicker(x, y, z) {
-		if (isImageCapable)
-		{
-			this.on = new Image(); this.on.src = x;
-			this.off = new Image(); this.off.src = y;
-			if (z) { this.click = new Image(); this.click.src = z; }
-		}
-
-	}
-
+}
 
 
 	/* For each flash pair we want, generate a new Flicker with the 
@@ -60,43 +55,41 @@
 
 
 
-	/* Feed it the name of the image you want to flip, the Flicker pair you
-	   want to use, and whether you want it ON (1) or OFF (0). */
-	function flash(imagename, flickname, state)
-	{
-		if (isImageCapable)
-		{
-			if (state == 0)
-				{ document.images[imagename].src = flashset[flickname].on.src; }
-			else if (state == 1)
-				{ document.images[imagename].src = flashset[flickname].off.src;	}
-			else if (state == 2)
-				{ document.images[imagename].src = flashset[flickname].click.src; }
-		}
-		return true;
-	}
+/* Feed it the name of the image you want to flip, the Flicker pair you
+   want to use, and whether you want it ON (1) or OFF (0). */
 
+function flash(imagename, flickname, state)
+{ if (isImageCapable)
+  { if (state == 0) 
+    { document.images[imagename].src = flashset[flickname].on.src; }
+    else if (state == 1)
+    { document.images[imagename].src = flashset[flickname].off.src; }
+    else if (state == 2)
+    { document.images[imagename].src = flashset[flickname].click.src; }
+    return true;
+  }
+}
 
-	/* These are values that appear in the document */
+/* These are values that appear in the document */
 	
-	// URLs for the header
-	var URLhome = "http://www.advocatehealth.com"
-	var URLguide = "http://www.advocatehealth.com/siteguide.html"
-	var URLcontact = "http://www.advocatehealth.com/contact.html"
-	var URLabout = "http://www.advocatehealth.com/about/index.html"
-	var URLhealth = "http://www.advocatehealth.com/healthinfo/index.html"
-	var URLclasses = "http://www.advocatehealth.com/community/index.html"
-	var URLphysicians = "http://www.advocatehealth.com/doctors/index.html"
-	var URLhospitals = "http://www.advocatehealth.com/sites/hospitals/index.html"
-	var URLcenters = "http://www.advocatehealth.com/sites/index.html"
-	var URLcareers = "http://www.advocatehealth.com/careers/index.html"
-	var URLemploy = "http://www.advocatehealth.com/employer/index.html"
-	var URLservices = "http://www.advocatehealth.com/services/index.html"
-        var URLpersonal = "http://www.advocatehealth.com/cgi-bin/personal/login.pl"
-	var URLdocdir = "http://www.advocatehealth.com/doctors/directory.html"
+// URLs for the header
+var URLhome = "http://www.advocatehealth.com";
+var URLguide = "http://www.advocatehealth.com/siteguide.html";
+var URLcontact = "http://www.advocatehealth.com/contact.html";
+var URLabout = "http://www.advocatehealth.com/about/index.html";
+var URLhealth = "http://www.advocatehealth.com/healthinfo/index.html";
+var URLclasses = "http://www.advocatehealth.com/community/index.html";
+var URLphysicians = "http://www.advocatehealth.com/doctors/index.html";
+var URLhospitals = "http://www.advocatehealth.com/sites/hospitals/index.html";
+var URLcenters = "http://www.advocatehealth.com/sites/index.html";
+var URLcareers = "http://www.advocatehealth.com/careers/index.html";
+var URLemploy = "http://www.advocatehealth.com/employer/index.html";
+var URLservices = "http://www.advocatehealth.com/services/index.html";
+var URLpersonal = "http://www.advocatehealth.com/cgi-bin/personal/login.pl";
+var URLdocdir = "http://www.advocatehealth.com/doctors/directory.html";
 
-	// Messages (status bar, etc)
- 	var msg1 = "Advocate Health Care 1.800.3.ADVOCATE"
+// Messages (status bar, etc)
+var msg1 = "Advocate Health Care 1.800.3.ADVOCATE";
 
 // -->
 </script>
@@ -164,7 +157,7 @@
   <font face="Helvetica,Arial" size="-1">
   <form method="POST" action="/cgi-bin/search/search132.pl">
   <img src="/images/search/search-clgrey.gif" vspace="1" width="46" height="10" alt="Search"><br>
-  <input type="text" name="terms" size="20"><br>
+  <input class="searchbar" type="text" name="terms" size="19">
   <a href="/search/searchhelp.html"><img src="/images/search/help-clgrey.gif" width="80" height="12" vspace="1" alt="Search help" border="0"></a> 
   &nbsp; &nbsp; &nbsp;
   <input type="image" src="/images/search/go-clgrey.gif" name="Submit Search" vspace="1" width="30" height="12" border="0">
@@ -390,7 +383,8 @@ Please send your comments via e-mail comments to our Web Manager at
   </td>
   <td width="15">&nbsp;</td>	<!-- gutter -->
   <td width="320" valign="top">
-  <font face="helvetica,arial" size="1">
+<div class="footer">
+<font face="helvetica,arial" size="1">
   <p>[ <a href="/search/index.html">search</a>&nbsp;| 
        <a href="/search/searchhelp.html">search&nbsp;help</a>&nbsp;| 
        <a href="/cgi-bin/personal/jump.pl" onmouseover="window.status=(URLhome); return true;" onmouseout="window.status=(msg1); return true;">home</a>&nbsp;| 
@@ -398,20 +392,19 @@ Please send your comments via e-mail comments to our Web Manager at
        <a href="/contact.html">contact&nbsp;us</a>&nbsp;]<br>
      [ <a href="/about/index.html">advocate</a>&nbsp;| 
        <a href="/healthinfo/index.html">health&nbsp;&amp;&nbsp;fitness</a>&nbsp;| 
-       <a href="/community/index.html">classes&nbsp;&amp;&nbsp;screenings</a>&nbsp;| 
-       <a href="/sites/hospitals/index.html">hospitals</a>&nbsp;]<br> 
-     [ <a href="/doctors/index.html">physicians</a>&nbsp;|
-       <a href="/careers/index.html">careers&nbsp;&amp;&nbsp;education</a>&nbsp;| 
-       <a href="/services/index.html">advocate&nbsp;services</a>&nbsp;]<br>
-     [ <a href="/about/foundation/form.html">make a gift</a>&nbsp;]</p>
+       <a href="/community/index.html">classes&nbsp;&amp;&nbsp;screenings</a>&nbsp;]<br>
+     [ <a href="/sites/hospitals/index.html">hospitals</a>&nbsp;|
+       <a href="/doctors/index.html">physicians</a>&nbsp;|
+       <a href="/careers/index.html">careers&nbsp;&amp;&nbsp;education</a>&nbsp;]<br> 
+     [ <a href="/services/index.html">advocate&nbsp;services</a>&nbsp;|
+       <a href="/about/foundation/howtogive2.html">make a gift</a>&nbsp;]</p>
 
-<p>Use of our site constitutes acceptance of our 
-<a href="/system/terms.html">Terms of Use</a>. Advocate Health Care respects
-your privacy. We invite you to view our 
-<a href="/system/privacy.html">Privacy Policy</a>.</p>
+<p>Use of our site constitutes acceptance of our <a href="/system/terms.html">Terms of
+Use</a>. Advocate Health Care respects your privacy. We invite you to view our <a href="/system/privacy.html">Privacy Policy</a>.</p>
 
 <p>Copyright © 2001 Advocate Health Care, Oak Brook, Illinois, USA</p>
-  </font>
+</font>
+</div>
 
 </td></tr>
 </tbody></table>
