@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowpages.com privacy policy that was archived on 2002-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021202092014id_/http%3A//info.yellowpages.com/asp/static/corpinfo/p3p.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowpages.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603201213id_/http%3A//info.yellowpages.com/asp/static/corpinfo/p3p.asp) for the most accurate reproduction.*
 
 # YellowPages.Com ...Means Business
 
@@ -12,7 +12,8 @@ Anonymous and Aggregate Data
   * Some of the banner and display ads on our site are provided by third party ad servers. These ads may contain cookies. Information collected through cookies associated with third party ads are collected by the third party and we do not always have access to this information. We use reputable third parties to serve some or all of the advertisements that are placed within our site. If you would like to know more about the information gathering practices and 'opt-out' procedures of our third party ad servers, please take a look at their privacy policies at:  
 <http://www.doubleclick.net/us/corporate/privacy>  
 <http://www.realmedia.com/privacy.html>  
-<http://www.advertising.com/privacy/privacy.html>  
+<http://www.advertising.com/privacy_policy.htm>  
+<http://www.specificclick.com/privacy.htm>  
 
 
 
@@ -39,7 +40,8 @@ You may choose not to provide certain personally identifiable information, but t
 If you would like to know more about the 'opt-out' procedures of our third party ad servers, please take a look at their privacy policies at:  
 <http://www.doubleclick.net/us/corporate/privacy>  
 <http://www.realmedia.com/privacy.html>  
-<http://www.advertising.com/privacy/privacy.html>  
+<http://www.advertising.com/privacy_policy.htm>  
+<http://www.specificclick.com/privacy.htm>  
 
 
 Security
