@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208055444id_/http%3A//www.emarketingassociation.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketingassociation.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401230123id_/http%3A//www.emarketingassociation.com/privacy.htm) for the most accurate reproduction.*
 
 # eMA privacy policy
 
@@ -14,6 +14,9 @@
 > 
 > **Sharing**  
 >  We will share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
+> 
+> **eMail**  
+>  All email from the eMA contains opt-out instructions. Newsletter subscribers, members, ecourse students, board members, sponsors, event attendees, certified marketers, inquiries and suppliers may from time to time receive email announcements from the eMA. The eMA does not rent, sell, or transfer it's list to any third parties.
 > 
 > We use an outside credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes. We partner with another party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services. 
 > 
