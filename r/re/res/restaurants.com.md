@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209221235id_/http%3A//www.restaurants.com/Resources/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608185614id_/http%3A//restaurants.com/Resources/privacy.asp) for the most accurate reproduction.*
 
 # 
 
