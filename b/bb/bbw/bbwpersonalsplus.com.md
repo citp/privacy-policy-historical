@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bbwpersonalsplus.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411163821id_/http%3A//www.bbwpersonalsplus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbwpersonalsplus.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209004819id_/http%3A//www.bbwpersonalsplus.com/privacy.html) for the most accurate reproduction.*
 
-# BBW PERSONALS PLUS FOR BIG BEAUTIFUL WOMEN AND ADMIRERS - BBWPersonalsPlus.com - - 2004-04-11
+# BBW PERSONALS PLUS FOR BIG BEAUTIFUL WOMEN AND ADMIRERS - BBWPersonalsPlus.com - - 2004-12-08
 
 Privacy Policy
 
@@ -46,8 +46,9 @@ BBWPersonalsPlus.com provides users the following options for modifying informat
 3\. You can send mail to the following postal address: 
 
 BBW Personals Plus  
-P.O. Box 867  
-Orem, UT 84057-0867
+P.O. Box 739  
+Orem, UT 84059-0739  
+U.S.A.
 
 **Email Choice/Opt-out**  
 BBWPersonalsPlus.com users may use the following options if they do not wish to receive future communications.   
@@ -64,7 +65,8 @@ If we are going to use your personally identifiable information in a manner diff
 If you have any questions about this privacy statement, the practices of this site, or your dealings with the BBWPersonalsPlus.com website, you can contact: 
 
 BBW Personals Plus  
-P.O. Box 867  
-Orem, UT 84057-0867
+P.O. Box 739  
+Orem, UT 84059-0739  
+U.S.A.
 
 Or, send email via the [contact form](https://web.archive.org/contact.html) on the site. 
