@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604030031id_/http%3A//www.pfizer.com/privacyfrm.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205223617id_/http%3A//www.pfizer.com/privacyfrm.html) for the most accurate reproduction.*
 
 # Pfizer Inc: Internet Privacy Policy
 
