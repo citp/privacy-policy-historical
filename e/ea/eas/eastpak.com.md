@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastpak.com privacy policy that was archived on 1999-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991128051937id_/http%3A//www.eastpak.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastpak.com privacy policy that was archived on 2000-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000417204141id_/http%3A//eastpak.com/privacy.htm) for the most accurate reproduction.*
 
 # Eastpak: Privacy Policy
 
