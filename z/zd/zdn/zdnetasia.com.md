@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zdnetasia.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203022500id_/http%3A//www.zdnetasia.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zdnetasia.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604003237id_/http%3A//www.zdnetasia.com/services/privacy) for the most accurate reproduction.*
 
 # ZDNetAsia: Privacy Statement
 
