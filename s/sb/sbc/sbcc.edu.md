@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2004-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040406134414id_/http%3A//www.sbcc.edu/index.cfm%3Fsec%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbcc.edu privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204171732id_/http%3A//www.sbcc.edu/index.php%3Fsec%3D71) for the most accurate reproduction.*
 
 # Santa Barbara City College
 
 Privacy
 
-**PLEASE READ THE FOLLOWING CAREFULLY. THIS PAGE PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE.**
+ **PLEASE READ THE FOLLOWING CAREFULLY. THIS PAGE PROVIDES GENERAL INFORMATION ABOUT THE PRIVACY POLICY OF THIS WEBSITE.**
 
 1\. The contents of this website are owned and operated by Santa Barbara City College (SBCC), whose address is 721 Cliff Drive, Santa Barbara, CA, 93109. You can contact us by telephone at 805-965-0581 or by email at webmaster@sbcc.net. SBCC is very concerned about the protection of online privacy for all our website visitors and especially children. SBCC's policy is to respect and protect the privacy of our users. This statement tells you if and how we collect personally-identifying information from you and how we use it. Using the Internet should be a fun and safe experience and we want to help you make it so.
 
