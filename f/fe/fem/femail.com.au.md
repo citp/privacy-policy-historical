@@ -1,11 +1,9 @@
-> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202144235id_/http%3A//www.femail.com.au/privacypol.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femail.com.au privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207035859id_/http%3A//femail.com.au/privacypol.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-
-
-[](https://web.archive.org/include/banner?a=4&b=4)
+[](http://adserver.trellian.com/adclick.php?bannerid=88&zoneid=7&source=%2Fcontactus%2Fprivacypol&dest=http%3A%2F%2Fmembers.commissionmonster.com%2Fz%2F67779%2F65)
 
 This site has been provided by Femail.com.au/Female.com.au for the Australian Internet Community as a whole. We expect that whilst using this site that respect is given to any other users of the site. That is, we expect that no abusive, inappropriate or racial language is used in the chat or discussion areas of the site.
 
