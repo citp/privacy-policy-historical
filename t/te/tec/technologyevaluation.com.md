@@ -1,19 +1,30 @@
-> *The following text is extracted and transformed from the technologyevaluation.com privacy policy that was archived on 2001-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011026084533id_/http%3A//www.technologyevaluation.com%3A9001/Copyright_legal/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technologyevaluation.com privacy policy that was archived on 2003-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030416125918id_/http%3A//technologyevaluation.com%3A9002/Privacy.asp) for the most accurate reproduction.*
 
-# TechnologyEvaluation.Com
+# TechnologyEvaluation.Com (TEC)
 
+| 
+
+| 
+
+**P R I V A C Y    S T A T E M E N T**  
   
-1\. We are strongly committed to protecting your privacy on-line and have taken steps to protect the information you share with us. 
-
-2\. To help us protect your privacy, you should maintain the secrecy of the user identification and password you may have set up in connection with your participation in the TEC website. These identifiers give you privileged access to certain areas of our website and allow you to navigate the website more smoothly. 
-
-3\. TEC may use information you have provided us to inform you about other TEC publications, products and services, unless you notify us that you do not wish to receive this information. TEC may also deliver additional messages about us to you by e-mail. Users may opt-out of receiving future mailings by emailing: [  
-](mailto:U-A50.149.tmistretta#Dtechnologyevaluation#Pcom@lists.technologyevaluation.com)[webmaster@technologyevaluation.com](mailto:webmaster@technologyevaluation.com)
-
-4\. TEC uses cookie technology to enable clients who register to move quickly and securely through areas of the site which have restricted access. We hope you will want the better service that cookies provide, but you may set your browser to refuse cookies. The cookie does not track any personal information about you, provide us with any way to contact you, or extract any information from your computer. 
-
-5\. This site has security measures in place to protect the loss, misuse and alteration of information under our control. Security measures include the use of "firewalls" to restrict access to authorized employees and encryption technology to protect passwords, credit card numbers and sensitive information such as credit information. 
-
-6\. This site contains links to other sites. TEC is not responsible for the privacy practices or the content of such websites.
-
-7\. Technology Evaluation works with a third party that serves ads to this site. To find out more about how Engage Business Media manages the privacy of information in conjunction with serving ads on this site, please visit [Engage Web Site](http://www.engage.com/privacy/).
+---  
+  
+| _**Acceptance of Terms**_ | Your use of our Website constitutes acceptance of the Privacy Statement. We may modify the Privacy Statement herein at any time without prior notice. Your continued use of our Website site shall constitute acceptance of the new conditions.  
+---|---  
+|    
+_**Confidentiality**_ | To help us protect your privacy, you must insure the secrecy of your user identification and password.  
+|     
+_**Information Submitted**_ | You may submit information to us through forms available on our Website, namely our newsletter registration and information request forms. Also, you may submit information to us via direct email messages. This information may be stored, in part or in its entirety, on our mail server for future reference and may be added to our database.  
+|    
+_**Use of the Information**_ | The information submitted may be shared, at our discretion, with affiliates, subsidiaries and other partners to offer you the best customer service possible.   
+|    
+_**Opting-out**_ | This information submitted to us may also be used to inform you, and other partners, of our publications, products and services, namely via e-mail. However, it must be noted that we always send such promotional messages from our own physical network, without releasing any email address to any other company, even if we work with sponsors. You may, at any time, opt-out from receiving future messages by following the instructions provided within the messages themselves.  
+|    
+_**Access to your Profile**_ | You may access the information you have submitted to us by going to the  [**Profile**](http://www.technologyevaluation.com/mp.asp) section on our web site at which point you may choose to update or modify your information.   
+|    
+_**Use of Cookies**_ | We use cookies to enable registered clients to move quickly and securely through restricted areas of our Website. Although cookies are designed to improve your online experience, you may choose to set your browser to refuse cookies. However, it must be noted that our cookies do not track personal information, extract information from your computer or provide us with a way of contacting you.  
+|    
+_**Security**_ | This site contains links to other sites. TEC is not responsible for the privacy practices or the content of such websites.  
+|    
+_**Hypertext Links**_ | Our Website contains hypertext links to other Websites for your convenience. However, TEC is not, in any way, responsible for the privacy practices of other Websites.
