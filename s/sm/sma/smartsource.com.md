@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205150300id_/http%3A//smartsource.com/aboutus/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartsource.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604063417id_/http%3A//smartsource.com/aboutus/privacy.shtml) for the most accurate reproduction.*
 
-# SmartSource - Home to America's Great Brands
+# Grocery coupons, health coupons and household coupons from SmartSource.com. Save with exclusive online offers redeemable nationwide. Free samples, money and time saving recipes, and homekeeping and wellness tips.
 
 | | |  By using this site, you agree to the Privacy Policy of SMARTSOURCE. If you do not agree to this Policy, please do not use this site. SMARTSOURCE reviews its Privacy Policy periodically and reserves the right, at its discretion, to modify or remove portions of this Policy at any time. This page should be reviewed from time to time so that you are updated on any changes. If you want to communicate with us about our Policy, or about the use of or changes to personal information you may have submitted, please e-mail us at:  
 [webmaster@smartsource.com](mailto:webmaster@smartsource.com).  
