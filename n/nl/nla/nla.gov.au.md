@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2000-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001117163300id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nla.gov.au privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607025109id_/http%3A//www.nla.gov.au/privacy.html) for the most accurate reproduction.*
 
 # National Library of Australia - Privacy statement
 
@@ -35,15 +35,13 @@ Because there are risks associated with using the Internet as a transmission med
 
 We will only publish personal information on this site if it has been collected for this purpose with your knowledge or if you have consented to the disclosure. When giving such consent you should be aware that information published on this site is accessible to millions of users from all over the world, that it will be indexed by search engines and that it may be copied and used by any web user. This means that, once the information is published on this site, we will have no control over its subsequent use and disclosure.
 
-* * *
-
-|  **[Enquiries](https://web.archive.org/contact/) | [Feedback](https://web.archive.org/contact/feedback.html)
-
-NATIONAL LIBRARY OF AUSTRALIA
-
-**, Canberra, ACT 2600, AUSTRALIA    
-Telephone + 61 2 6262 1111; Facsimile +61 2 6257 1703; Telephone Typewriter Number: 1800 026 372  |   
----|---|---  
   
-**_Last updated Friday 14-Jul-2000  
- _http://www.nla.gov.au/privacy.html__**
+[](https://web.archive.org/) |  | [](https://web.archive.org/library/) |  | [](https://web.archive.org/events/) |  | [](https://web.archive.org/collect/) |  | [](https://web.archive.org/services/) |  | [](https://web.archive.org/initiatives/) |  | [](https://web.archive.org/pub/) |  | [](https://web.archive.org/search.html)  
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
+  
+[](https://web.archive.org/anniversary/) |  | [](https://web.archive.org/)  
+---|---|---  
+| 
+
+_Last updated Friday 22-Dec-2000  
+ _http://www.nla.gov.au/privacy.html__
