@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206140800id_/http%3A//www.outsidemag.com/system/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outsideonline.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603172019id_/http%3A//www.outsidemag.com/system/privacy.html) for the most accurate reproduction.*
 
 # Outside Online
 
@@ -14,7 +14,7 @@ Mariah Media Inc. will not disclose to third parties information that a Customer
 Mariah Media Inc. will not disclose to third parties information about the usage patterns, purchases, or habits of individual Customers, unless the Customer expressly authorizes dissemination of such individual user information. 
 
 **No disclosure to advertisers without consent**  
-By clicking on an advertisement appearing on our service, a Customer will not reveal his/her identity or e-mail address unless the Customer expressly gives the authority to do so. This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>
+By clicking on an advertisement appearing on our service, a Customer will not reveal his/her identity or email address unless the Customer expressly gives the authority to do so. This site uses the services of DoubleClick, an advertising network, to provide ads to our site. Outsidemag.com does not provide any personal information about our members or people using our site to DoubleClick. Viewing ads will cause a cookie to be set in your browser. DoubleClick uses these cookies to develop a profile on your Web site usage. This will allow DoubleClick to provide the ads that are most suited to your interests. No personal information such as name or email address is tracked in the DoubleClick cookies. DoubleClick does track the types of sites you visit and can associate this information with an ID number set in the cookie. To learn more about DoubleClick, including your ability to opt out of the DoubleClick system, go tos<http://www.doubleclick.net/us/corporate/privacy/>
 
 **Use of aggregated information and usage patterns**  
 Mariah Media Inc. may aggregate information concerning its Customers and, based on such aggregate information, prepare demographic profiles of its Customers and summaries of usage patterns for advertisers, content providers, and companies that monitor use of Mariah Media Inc.'s online service. 
