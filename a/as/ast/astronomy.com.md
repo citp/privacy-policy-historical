@@ -1,7 +1,17 @@
-> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2002-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020813141206id_/http%3A//www.astronomy.com/content/static/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002053239id_/http%3A//www.astronomy.com/content/static/misc/privacy.asp) for the most accurate reproduction.*
 
-# Astronomy.com -- Privacy Policy
+# Astronomy.com | title
 
+  
+| 
+
+| 
+
+ASTRONOMY MAGAZINE
+
+|  |   
+---|---|---  
+  
 Astronomy.com is committed to providing service that exceeds the expectations of site visitors and those who register for our services or conduct e-commerce via our web site. This commitment extends to the expectations you may have about maintaining your privacy and that of the members of your family, when it comes to use of any "personally identifiable information" you may provide.
 
 We believe it is important to explain our information gathering practices and the choices you can make about the way your information is collected and used, including any personally identifiable information which Astronomy.com's business partners may share with us. Our policy naturally does not apply to the practices of companies that we do not own or control nor to any persons whom we do not employ or manage. Although Astronomy.com is affiliated with Kalmbach Publishing Co., Astronomy.com's privacy policy is separate and distinct from Kalmbach's.
@@ -41,7 +51,7 @@ All personally identifiable information which you provide is password-protected 
 
 At the time you volunteer personally identifiable information—and at anytime thereafter—you can direct us _not_ to use this information for marketing or informational mailings or to otherwise share this information with business partners, participating merchants, advertisers or other reputable third parties. If you do so, your personally identifiable information will be flagged in our system as "do not promote" to correspond with your request. The easiest way to do this is to go to our home page, select the "update profile" option, and answer "no" to the question that pertains to the use of your personally identifiable information for promotional purposes.
 
-You can also "opt out" by sending such directions to Astronomy.com, c/o Kalmbach Publishing Co., P.O. Box 1612, Waukesha WI 53187-1612, or simply e-mail us at [customerservice@kalmbach.com](mailto:customerservice@kalmbach.com). You can also reach us by calling toll-free, 800-446-5489, 8:30am—5:00pm Central Time, Monday—Friday. Outside the US and Canada, call 262-796-8776. The fax number is 262-796-1615.
+You can also "opt out" by sending such directions to Astronomy.com, c/o Kalmbach Publishing Co., P.O. Box 1612, Waukesha WI 53187-1612, or simply e-mail us at [customerservice@kalmbach.com](mailto:customerservice@kalmbach.com). You can also reach us by calling toll-free, 888-350-2413, 8:30am—5:00pm Central Time, Monday—Friday. Outside the US and Canada, call 262-796-8776, ext. 826. The fax number is 262-796-1615.
 
 In addition, there are also national clearinghouse organizations where you can register to suppress unwanted postal, electronic mail and telephone solicitations by third parties who have obtained your personally identifiable information . The most prominent of these is the Direct Marketing Association (DMA), of which Astronomy.com is a member. The DMA provides mail, e-mail and telephone data base "preference services" free of charge to consumers who wish to block unsolicited direct mail, e-mail and telemarketing contacts, respectively. For more information, visit DMA's web site at [www.the-dma.org](http://www.the-dma.org/), or contact them at (202) 955-5030.
 
