@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202205843id_/http%3A//globest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globest.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402045830id_/http%3A//globest.com/privacy.html) for the most accurate reproduction.*
 
 # GlobeSt.com - Real Estate is our domain
 
