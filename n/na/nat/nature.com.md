@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604013144id_/http%3A//npg.nature.com/npg/servlet/Content%3Fdata%3Dxml/08_privacy.xml%26style%3Dxml/08_privacy.xsl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nature.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206182649id_/http%3A//npg.nature.com/npg/servlet/Content%3Fdata%3Dxml/08_privacy.xml%26style%3Dxml/08_privacy.xsl) for the most accurate reproduction.*
 
 # Nature Publishing Group
 
