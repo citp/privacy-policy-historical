@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbuzzy.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008080106id_/http%3A//www.mbuzzy.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbuzzy.com privacy policy that was archived on 2004-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040215091224id_/http%3A//www.mbuzzy.com/pp.php) for the most accurate reproduction.*
 
 # mbuzzy.com - images, ringtones, applications for your phone
 
