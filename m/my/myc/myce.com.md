@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myce.com privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628025941id_/http%3A//www.myce.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myce.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008164852id_/http%3A//www.myce.com/privacy.htm) for the most accurate reproduction.*
 
 # MYCE.COM Privacy Policy
 
