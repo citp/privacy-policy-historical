@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shsu.edu privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202043924id_/http%3A//www.shsu.edu/administrative/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shsu.edu privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603033459id_/http%3A//www.shsu.edu/administrative/policies/privacy.html) for the most accurate reproduction.*
 
 # Sam Houston State University Web Privacy Policy
 
@@ -12,7 +12,7 @@ We do not use cookies to collect information. ( _Note: A cookie file contains un
 
 If you send us an electronic mail message with a question or comment that contains personally identifying information, or fill out a form that e-mails us this information, we will only use the personally-identifiable information to respond to your request and analyze trends. We may redirect your message to another government agency or person who is in a better position to answer your question. 
 
-For site management functions, information is collected for analysis and [statistical purposes](http://www.shsu.edu/stats/shsu-weekly/). This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
+For site management functions, information is collected for analysis and [statistical purposes](http://www.shsu.edu/stats/). This information is not reported or used in any manner that would reveal personally identifiable information, and will not be released to any outside parties unless legally required to do so in connection with law enforcement investigations or other legal proceedings. 
 
 **Public Forums**
 
