@@ -1,162 +1,1308 @@
-<!--The following is the downloaded HTML source of the newark.com privacy policy that was archived on 2002-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021212024915id_/http%3A//www.newark.com/custsrv/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newark.com privacy policy that was archived on 2004-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040604163041id_/http%3A//www.newark.com/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp) for the most accurate reproduction.-->
 
-<html><head>
-<title>newark.com</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<script language="JavaScript" src="/js/search.js"></script>
-<script language="JavaScript" src="/js/help.js"></script>
-<script language="JavaScript" src="/js/ua.js"></script>
-<script language="JavaScript" src="/js/xbStyle.js"></script>
-<script language="JavaScript" src="/js/xbCollapsibleLists.js"></script>
-<script language="JavaScript" src="/js/sidenav2.js"></script>
-<script language="JavaScript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<title>Newark InOne</title>
+	<link rel="stylesheet" href="http://www.newark.com/r2a_base/css/standard.css">
+</head>
+<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="ffffff">
 
-onload = init
 
- 
-function init() {
 
-	sidenav();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
+	
+	
+
+
+<script language="javascript">
+var NS4 = ((navigator.userAgent.indexOf("4") != -1) && document.layers) ? true: false
+
+function jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
 }
 
-if(window.event + "" == "undefined") event = null;
-function HM_f_PopUp(){return false};
-function HM_f_PopDown(){return false};
-popUp = HM_f_PopUp;
-popDown = HM_f_PopDown;
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+
+function findObject(n, d) { //v2
+  var p,i,x;
+   if(!d) d=document;
+   if((p=n.indexOf("?"))>0&&parent.frames.length) //if submit url & in a frame
+    {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p); //set document to teh calling frames doc
+	}
+  if(!(x=d[n])&&d.all) x=d.all[n]; //is therean x array yet? do we have objects
+  for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=findObject(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n);
+  return x;
+}
+
+function bgColorChange(obj, bgColor) { //v2
+	obj.style.backgroundColor=bgColor;
+	null
+}
+
+function layerMenuSwaper() { //v2
+ var g,b,k,f,args=layerMenuSwaper.arguments;
+ if(bMenuActive){
+// 	alert("pre woo");
+	 if(!document.setArrayCreated) {menuItems=new Array();document.setArrayCreated=true;} //create the array, adn make sure not to recreate
+//	alert("woo");
+	 for(k=0; k<menuItems.length; k++)
+	 	{
+		if((g=findObject(menuItems[k]))!=null) { //as long as not null
+		 b=(document.layers)?g:g.style; //if layers work then set b to array item   (Style for ie, just name for NS )
+		 b.visibility="hidden";} //hide b which is array item which is everything in the array which leeds us to...
+//		alert("woo2 "+ k);
+		 }
+	 for(k=0; k<args.length; k++) {
+		if((g=findObject(args[k])) != null) { //set g to whatever the layer name is
+		 b=(document.layers)?g:g.style; //if layers work then set b to array item (Style for ie, just name for NS )
+		 b.visibility="visible";  //make the aray item (the arg) visible...
+		 f=false;
+		 for(j=0;j<menuItems.length;j++) {
+			if(args[k]==menuItems[j]) {f=true;}} // mechanism to only run this once
+		if(!f) {menuItems[menuItems.length++]=args[k];}}} //
+//		alert("woo3 "+ k);
+ }
+}
+
+//tmtC_NNresizeFix
+if (document.layers)
+  {
+  origWidth = innerWidth;
+  origHeight = innerHeight;
+  }
+
+
+function reDo()
+  {
+  if (innerWidth != origWidth || innerHeight != origHeight) location.reload();
+  }
+
+if (document.layers) onresize = reDo;
+
+//tmtC_NNresizeFixEnd
+
+function newImages()
+{
+if (document.images)
+	{
+	for (var i=0; i < newImages.arguments.length; i++)
+		{
+		rname = "rollover_" + newImages.arguments[i];
+		eval (rname + "_off = new Image()");
+		eval (rname + "_off.src  = \"" + imageBase + newImages.arguments[i] + "_off.gif\"");
+		eval (rname + "_on = new Image()");
+		eval (rname + "_on.src  = \"" + imageBase + newImages.arguments[i] + "_on.gif\"");
+//		alert(rname + "_on.src  = \"" + imageBase + newImages.arguments[i] + "_over.gif\"");
+		}
+	}
+}
+
+function turnOn()
+{
+//	document.obj.src = eval("rollover_" + obj + "_on.src");
+// /*
+if (document.images && (bMenuActive == true) && (NS4 == false ))
+	{
+	for (var i=0; i < turnOn.arguments.length; i++)
+		{
+//		if (checkOn(turnOn.arguments[i]))
+//			{
+//			debug("rollover("+turnOn.arguments[i]+")");
+//			debug("rollover_" + turnOn.arguments[i] + "_over.src");
+//			alert(eval("rollover_" + turnOn.arguments[i] + "_on.src"));
+
+//			document.men1trigger.document[turnOn.arguments[i]].src = eval("rollover_" + turnOn.arguments[i] + "_on.src");
+			document[turnOn.arguments[i]].src = eval("rollover_" + turnOn.arguments[i] + "_on.src");
+//			}
+//		alert(i);
+		}
+	}
+//	*/
+}
+
+function turnOff()
+{
+if (document.images && (bMenuActive == true) && (NS4 == false ))
+	{
+	for (var i=0; i < turnOff.arguments.length; i++)
+		{
+//		if (checkOn(turnOff.arguments[i]))
+//			{
+			document[turnOff.arguments[i]].src = eval("rollover_" + turnOff.arguments[i] + "_off.src");
+//			}
+		}
+	}
+}
+
+	/**
+	   *  Function to pop-up a resizeable window of size 450 x 450
+	   *
+	   **/
+	function showWin(url)
+	{
+		var settings = "";
+
+		settings+="width=450,height=450,directories=no,toolbar=no,resizable=yes,menubar=no,status=no,scrollbars=yes" ;
+
+		w=window.open(url, "popup", settings);
+	}
+
+MM_reloadPage(true);
+var preloadFlag = 1;
+var imageBase ="http://www.newark.com/r2a_base/images/"
+var bMenuActive = false;
+newImages('products','about','order','contact','services');
 
 </script>
 
-<link rel="stylesheet" href="/css/newark.css">
-</head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="765" border="0" cellpadding="0" cellspacing="0">
+
+
+
+
+
+
+
+
+
+<script language="JavaScript1.1">
+
+function TextHelpErase(field, message)
+{
+ if (field.value == message)
+ 	{
+ 	field.value ="";
+ 	} 
+}
+
+function TextMaxLength(field, maxchar)
+{
+ if (field.value.length > maxchar)
+ {
+ var s = field.value;
+ field.value = s.substr(0,maxchar)
+ field.focus();
+ return false
+ }
+}
+
+function bulkcheck(theForm)
+{
+
+var Count = theForm.elements.length -1;
+for (var i=1; i < Count; i=i+2)
+	{
+	qntValue = theForm.elements[i].value;
+	skuValue = theForm.elements[i + 1].value;
+	if ((skuValue == "") && (qntValue != ""))
+		{
+		alert("Please enter a part number for each quantity.");
+		theForm.elements[i+1].focus()	
+		return false;
+		}
+	}
+	//alert(i+ " " + qntValue);
+	
+	return true;
+}
+
+// form_check accepts the form object and a list of fields to check. each field is sent
+// with its field name, the type of check, and the verbose name of the field for
+// error reporting. e.g.:
+//
+// form_check(this, "phone_num", "req", "Phone Number", "addr1", "req", "Address (line 1)");
+//
+// if there are errors, it produces a javascript alert and returns false, otherwise
+// returns true.
+
+function form_check(theForm)
+{
+var theResult = true;
+var errCount = 0;
+var errString = "";
+
+for (var i=1; i < form_check.arguments.length; i+=3)
+	{
+
+
+	theCheck = form_check.arguments[i+1];	
+	//alert(theCheck);
+	theName  = form_check.arguments[i+2];
+	
+	if(theCheck == "drop" )
+	{
+	//alert("woot!!")
+	theElemant = theForm[form_check.arguments[i]]	
+	thedropValue = theElemant.options[theElemant.selectedIndex]	
+	}
+	else {
+	theValue = theForm[form_check.arguments[i]].value;
+	theValue = theValue.replace(/ /gi,"");
+	}
+
+	switch (theCheck) {
+		case "req" :
+			//if (!theValue.match("/^\s*$/"))
+			if ((theValue.length==0) || (theValue==""))
+				{
+				errCount++;
+				errString += theName + "\n";
+				}
+			break;
+			
+		case "drop" :
+			//if (!theValue.match("/^\s*$/"))
+			if (thedropValue.value=='-1')
+				{
+				errCount++;
+				errString += theName + "\n";
+				}
+			break;
+			
+			
+		}
+	}
+
+
+
+if (errCount != 0)
+	{
+	alert("Please enter all required information. The following was not entered:\n"+errString);
+	errCount = 0;
+	return false;
+	}
+
+return true;
+}
+
+function conditionalform_check(theForm, checkPoint, checkValue)
+{
+var testvar = 0;
+//var theResult = false;
+//var errCount = 1;
+var theResult = true;
+var errCount = 0;
+var errString = "";
+
+ // before the check
+for (var i=3; i < (checkPoint * 3); i+=3) 
+	{
+
+
+	theCheck = conditionalform_check.arguments[i+1];	
+	//alert(theCheck);
+	theName  = conditionalform_check.arguments[i+2];
+	
+	if(theCheck == "drop" )
+	{
+	//alert("woot!!")
+	theElemant = theForm[conditionalform_check.arguments[i]]	
+	thedropValue = theElemant.options[theElemant.selectedIndex]	
+	}
+	else {
+	theValue = theForm[conditionalform_check.arguments[i]].value;
+	theValue = theValue.replace(/ /gi,"");
+	}
+
+	switch (theCheck) {
+		case "req" :
+			//if (!theValue.match("/^\s*$/"))
+			if ((theValue.length==0) || (theValue==""))
+				{
+				errCount++;
+				errString += theName + "\n";
+				}
+			break;
+			
+		case "drop" :
+			//if (!theValue.match("/^\s*$/"))
+			if (thedropValue.value=='-1')
+				{
+				errCount++;
+				errString += theName + "\n";
+				}
+			break;
+			
+			
+		}
+	}
+
+//after the check
+
+if (checkValue == true)
+{
+	
+	
+	for (var i=(checkPoint*3); i < conditionalform_check.arguments.length; i+=3)
+
+		{
+		theCheck = conditionalform_check.arguments[i+1];	
+		//alert(theCheck);
+		theName  = conditionalform_check.arguments[i+2];
+	
+		if(theCheck == "drop" )
+		{
+		theElemant = theForm[conditionalform_check.arguments[i]]	
+		thedropValue = theElemant.options[theElemant.selectedIndex]	
+		}
+		else {
+		theValue = theForm[conditionalform_check.arguments[i]].value;
+		theValue = theValue.replace(/ /gi,"");
+		}
+
+		switch (theCheck) {
+			case "req" :
+				//if (!theValue.match("/^\s*$/"))
+				if ((theValue.length==0) || (theValue==""))
+					{
+					errCount++;
+					errString += theName + "\n";
+					}
+				break;
+			
+			case "drop" :
+				if (thedropValue.value=='-1')
+					{
+					errCount++;
+					errString += theName + "\n";
+					}
+				break;
+		}
+	}	
+}	
+
+
+
+if (errCount != 0)
+	{
+	alert("Please enter all required information. The following was not entered:\n"+errString);
+	errCount = 0;
+	theResult = false;
+	//testvar += 1;
+	}
+
+//alert(testvar)
+return theResult;
+}
+
+function othercheck(theFeildDrop,theFeild,Country)
+{
+
+/*3 feilds passed in, the drop theFeildDrop which gets changed to the last option,
+ when theFeild is empty and Country is not default. 
+*/
+
+OtherState = theFeildDrop
+OtherStateValue = OtherState.options[OtherState.selectedIndex].value;
+//OtherStateValue = theFeildDrop.name
+
+//alert(Country)
+//alert(Country.value)
+//alert(Country.selectedIndex)
+
+if ((OtherStateValue == "XX") && (theFeild.value.length == 0))
+	{
+	theFeild.focus();
+	return false;
+	}
+if ( ((OtherStateValue != "XX") && (theFeild.value.length != 0)) && Country.selectedIndex != "0")
+	{
+	//OtherState
+	//alert("OtherStateValue: " +OtherStateValue);
+	//alert("theFeild.value.length: " +theFeild.value.length);
+	//alert("Country.selectedIndex: " +Country.selectedIndex);	
+	
+	OtherState.selectedIndex = (OtherState.length - 1);
+	//OtherState.options[OtherState.selectedIndex].value = "XX";
+	//alert(OtherStateValue);	
+	return false;
+	}
+}
+
+</script>
+
+
+
+
+<script language="JavaScript1.1">
+
+// livehelp simpley creates a widnow to start up the live help text chat app...
+
+function livehelp() { 
+	var browserName = navigator.appName; 
+	browserVer = parseInt ( navigator.appVersion ); 
+	if (browserName == 'Netscape' && browserVer < 4) { 
+		window.open('http://www.newark.com/custsrv/newark_service_form.html','getting_started','width=410,height=320,resizable=yes'); 
+	} else { 
+		window.open('http://www.newark.com/custsrv/newark_service_form.html?'+document.url,'getting_started','width=410,height=320,resizable=yes'); 
+	} 
+} 
+
+</script>
+
+
+
+
+	
+	
+	
+
+<div id="men1trigger" style="Z-INDEX: 4; LEFT: 192px; WIDTH: 65px; POSITION: absolute; TOP: 59px; HEIGHT: 26px">
+<a href="/NewarkWebCommerce/newark/en_US/support/checkout/buyBulk.jsp" onclick="bMenuActive=true;turnOn('order');turnOff('products','services','about','contact');layerMenuSwaper('men1sub','menucloser');" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men1sub','menucloser');turnOn('order');turnOff('products','services','about','contact');return false"><img src="http://www.newark.com/r2a_base/images/order_off.gif" border="0" width="65" height="26" name="order"></a>
+  <map name="Map"> 
+    <area onmouseover="layerMenuSwaper('men1sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwaper('men1sub','menucloser');return false" shape="RECT" coords="0,0,65,27" href="#">
+  </map>
+</div>
+<div id="men1sub" style="Z-INDEX: 7; LEFT: 192px; VISIBILITY: hidden; WIDTH: 120px; POSITION: absolute; TOP: 83px"> 
+<table cellspacing="0" cellpadding="0" width="120" border="0" class="menuout">
+    <tbody><tr> 
+      <td class="menuout"><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="1" width="120"></td>
+    </tr>
+  </tbody></table>  
+</div>
+<div id="men2trigger" style="Z-INDEX: 4; LEFT: 258px; WIDTH: 113px; POSITION: absolute; TOP: 59px; HEIGHT: 26px">
+<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('products');turnOff('order','services','about','contact');layerMenuSwaper('men2sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','menucloser');turnOn('products');turnOff('order','services','about','contact');return false"><img src="http://www.newark.com/r2a_base/images/products_off.gif" border="0" width="113" height="26" name="products"></a>
+  <map name="Map"> 
+    <area onmouseover="layerMenuSwaper('men2sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwaper('men2sub','menucloser');return false" shape="RECT" coords="0,0,113,27" href="#">
+  </map>
+</div>
+<div id="men2sub" style="Z-INDEX: 7; LEFT: 258px; VISIBILITY: hidden; WIDTH: 170px; POSITION: absolute; TOP: 83px"> 
+  <table cellspacing="0" cellpadding="0" width="130" border="0" class="menuout">
+    <tbody><tr> 
+      <td class="menuout"><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="1" width="170"></td>
+    </tr>
+<tr><td>
+  <table cellspacing="2" cellpadding="2" width="170" border="0">
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/index.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','men2opt1','menucloser')">Catalog Browse</a><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" border="0" width="49"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/mfr/list.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','men2opt2','menucloser')">Manufacturers List</a><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" border="0" width="30"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></td>
+    </tr>    
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="/NewarkWebCommerce/newark/en_US/manufacturers/smp/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','menucloser')">Manufacturers Spotlight</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/excess/excess.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','menucloser')">Excess &amp; Obsolete</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.spctechnology.com/asp/index.asp" class="menutxt" target="_blank" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men2sub','menucloser')">SPC Technology</a></td>
+    </tr>    			
+  </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+<div id="men2opt1" style="Z-INDEX: 10; LEFT: 426px; VISIBILITY: hidden; WIDTH: 190px; POSITION: absolute; TOP: 84px"> 
+  <table cellspacing="0" cellpadding="0" width="190" border="0" class="menuout">
+<tbody><tr><td>
+  <table cellspacing="2" cellpadding="2" width="190" border="0">
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/5.html" class="menutxt" onfocus="if(this.blur)this.blur()">Passives</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/7.html" class="menutxt" onfocus="if(this.blur)this.blur()">Semis &amp; Prototyping</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/4.html" class="menutxt" onfocus="if(this.blur)this.blur()">Optoelectronics</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/1.html" class="menutxt" onfocus="if(this.blur)this.blur()">EM Industrial Controls</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/0.html" class="menutxt" onfocus="if(this.blur)this.blur()">Electrical &amp; Protection</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/6.html" class="menutxt" onfocus="if(this.blur)this.blur()">Power Products</a></td>
+    </tr>     
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/3.html" class="menutxt" onfocus="if(this.blur)this.blur()">Interconnect &amp; Wire/Cable</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/9.html" class="menutxt" onfocus="if(this.blur)this.blur()">Tools &amp; Production</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/8.html" class="menutxt" onfocus="if(this.blur)this.blur()">Test &amp; Measurement</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/2.html" class="menutxt" onfocus="if(this.blur)this.blur()">Enclosures &amp; Datacom</a></td>
+    </tr>                               
+  </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+<div id="men2opt2" style="Z-INDEX: 10; LEFT: 426px; VISIBILITY: hidden; WIDTH: 145px; POSITION: absolute; TOP: 104px"> 
+  <table cellspacing="0" cellpadding="0" width="145" border="0" class="menuout">
+<tbody><tr><td>
+  <table cellspacing="2" cellpadding="2" width="145" border="0">
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/mfr/list.html" class="menutxt" onfocus="if(this.blur)this.blur()">Alphabetical</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/mfr/category.html" class="menutxt" onfocus="if(this.blur)this.blur()">Product Category</a></td>
+    </tr>		
+  </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="men3trigger" style="Z-INDEX: 4; LEFT: 372px; WIDTH: 76px; POSITION: absolute; TOP: 59px; HEIGHT: 26px">
+<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('services');turnOff('products','order','about','contact');layerMenuSwaper('men3sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','menucloser');turnOn('services');turnOff('products','order','about','contact');return false"><img src="http://www.newark.com/r2a_base/images/services_off.gif" border="0" width="76" height="26" name="services"></a>
+  <map name="Map"> 
+    <area onmouseover="layerMenuSwaper('men3sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwaper('men3sub','menucloser');return false" shape="RECT" coords="0,0,76,27" href="#">
+  </map>
+</div>
+<div id="men3sub" style="Z-INDEX: 7; LEFT: 372px; VISIBILITY: hidden; WIDTH: 169px; POSITION: absolute; TOP: 83px"> 
+<table cellspacing="0" cellpadding="0" width="169" border="0" class="menuout">
+    <tbody><tr> 
+      <td class="menuout"><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="1" width="169"></td>
+    </tr>
+<tr><td>
+  <table cellspacing="2" cellpadding="2" width="169" border="0">
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/ProductLines.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','menucloser')">Millions of Products</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/TimesavingServices.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','men3opt2','menucloser')">Timesaving Services</a><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" border="0" width="14"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/fedgov/index.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','men3opt3','menucloser')">Federal Government</a><img src="/r2a_base/images/spacer.gif" height="12" border="0" width="15"><img src="/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/design/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','menucloser')">Design Engineer</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/eprocurement/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men3sub','men3opt6','menucloser')">e-procurement<img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" border="0" width="53"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></a></td>
+    </tr>  
+  </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="men3opt2" style="Z-INDEX: 10; LEFT: 539px; VISIBILITY: hidden; WIDTH: 145px; POSITION: absolute; TOP: 104px"> 
+  <table cellspacing="0" cellpadding="0" width="145" border="0" class="menuout">
+<tbody><tr><td>
+  <table cellspacing="2" cellpadding="2" width="145" border="0">
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/itracker.html" class="menutxt" onfocus="if(this.blur)this.blur()"><i>i</i>-tracker resources</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/stockroom/products/" class="menutxt" onfocus="if(this.blur)this.blur()">Stockroom Products</a></td>
+    </tr>		
+  </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="men3opt3" style="Z-INDEX: 10; LEFT: 539px; VISIBILITY: hidden; WIDTH: 165px; POSITION: absolute; TOP: 124px"> 
+  <table cellspacing="0" cellpadding="0" width="165" border="0" class="menuout">
+<tbody><tr><td>
+  <table cellspacing="2" cellpadding="2" width="165" border="0">
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/fedgov/index.html" class="menutxt" onfocus="if(this.blur)this.blur()">Home</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/fedgov/easy_ordering.html" class="menutxt" onfocus="if(this.blur)this.blur()">Easy Ordering Options</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/products/browse/" class="menutxt" onfocus="if(this.blur)this.blur()">Browse Our Catalog</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/fedgov/gsa_approved.html" class="menutxt" onfocus="if(this.blur)this.blur()">GSA Contract Terms</a></td>
+    </tr>				
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/fedgov/contact_us.html" class="menutxt" onfocus="if(this.blur)this.blur()">Contact Us</a></td>
+    </tr>	
+  </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="men3opt6" style="Z-INDEX: 10; LEFT: 539px; VISIBILITY: hidden; WIDTH: 120px; POSITION: absolute; TOP: 164px"> 
+  <table cellspacing="0" cellpadding="0" width="120" border="0" class="menuout">
+<tbody><tr><td>
+  <table cellspacing="2" cellpadding="2" width="120" border="0">
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/eprocurement/capabilities.html" class="menutxt" onfocus="if(this.blur)this.blur()">Capabilities</a></td>
+    </tr>
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/eprocurement/platforms.html" class="menutxt" onfocus="if(this.blur)this.blur()">Platforms</a></td>
+    </tr>		
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/eprocurement/partner.html" class="menutxt" onfocus="if(this.blur)this.blur()">Partnerships</a></td>
+    </tr>		    
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/eprocurement/faq.html" class="menutxt" onfocus="if(this.blur)this.blur()">FAQ</a></td>
+    </tr>		        
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/services/eprocurement/news.html" class="menutxt" onfocus="if(this.blur)this.blur()">News &amp; Events</a></td>
+    </tr>		        
+  </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+
+
+<div id="men4trigger" style="Z-INDEX: 4; LEFT: 449px; WIDTH: 84px; POSITION: absolute; TOP: 59px; HEIGHT: 26px">
+<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('about');turnOff('products','order','services','contact');layerMenuSwaper('men4sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men4sub','menucloser');turnOn('about');turnOff('products','order','services','contact');return false"><img src="http://www.newark.com/r2a_base/images/about_off.gif" border="0" width="84" height="26" name="about"></a>
+  <map name="Map"> 
+    <area onmouseover="layerMenuSwaper('men4sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwaper('men4sub','menucloser');return false" shape="RECT" coords="0,0,84,27" href="#">
+  </map>
+</div>
+<div id="men4sub" style="Z-INDEX: 7; LEFT: 449px; VISIBILITY: hidden; WIDTH: 130px; POSITION: absolute; TOP: 83px"> 
+<table cellspacing="0" cellpadding="0" width="130" border="0" class="menuout">
+    <tbody><tr> 
+      <td class="menuout"><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="1" width="130"></td>
+    </tr>
+<tr><td>
+  <table cellspacing="2" cellpadding="2" width="130" border="0">
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/inside/profile.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men4sub','menucloser')">Corporate Profile</a></td>
+    </tr>        
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/inside/history.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men4sub','menucloser')">History</a></td>
+    </tr>    
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/inside/press/" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men4sub','men4opt3','menucloser')">Press Releases<img src="http://www.newark.com/r2a_base/images/spacer.gif" height="12" width="12" border="0"><img src="http://www.newark.com/r2a_base/images/arrow_right.gif" border="0" width="8" height="9"></a></td>
+    </tr>  
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://newark.kenexa.com/newarkv36/external/" class="menutxt" target="_blank" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men4sub','menucloser')">Careers</a></td>
+    </tr>             		
+  </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+<div id="men4opt3" style="Z-INDEX: 10; LEFT: 577px; VISIBILITY: hidden; WIDTH: 65px; POSITION: absolute; TOP: 124px"> 
+  <table cellspacing="0" cellpadding="0" width="65" border="0" class="menuout">
+<tbody><tr><td>
+  <table cellspacing="2" cellpadding="2" width="65" border="0">
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/inside/press/archive.html" class="menutxt" onfocus="if(this.blur)this.blur()">Archive</a></td>
+    </tr>
+  </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="men5trigger" style="Z-INDEX: 4; LEFT: 534px; WIDTH: 94px; POSITION: absolute; TOP: 59px; HEIGHT: 26px">
+<a href="/NewarkWebCommerce/newark/en_US/common/#" onclick="bMenuActive=true;turnOn('contact');turnOff('products','order','services','about');layerMenuSwaper('men5sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser');turnOn('contact');turnOff('products','order','services','about');return false"><img src="http://www.newark.com/r2a_base/images/contact_off.gif" border="0" width="94" height="26" name="contact"></a>
+  <map name="Map"> 
+    <area onmouseover="layerMenuSwaper('men5sub','menucloser');return false" onfocus="if(this.blur)this.blur()" onclick="bMenuActive=true;layerMenuSwaper('men5sub','menucloser');return false" shape="RECT" coords="0,0,94,27" href="#">
+  </map>
+</div>
+<div id="men5sub" style="Z-INDEX: 7; LEFT: 534px; VISIBILITY: hidden; WIDTH: 185px; POSITION: absolute; TOP: 83px"> 
+<table cellspacing="0" cellpadding="0" width="185" border="0" class="menuout">
+    <tbody><tr> 
+      <td class="menuout"><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="1" width="185"></td>
+    </tr>
+<tr><td>
+  <table cellspacing="2" cellpadding="2" width="185" border="0"> 
+    <tbody><tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/contact.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser')">Contact Information</a></td>
+    </tr>  
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/locations.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser')">US Sales Offices</a></td>
+    </tr>              		
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/nwkintl.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser')">Worldwide Sales Offices</a></td>
+    </tr> 
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/custsrv/sendmail.html" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser')">Send an Email</a></td>
+    </tr> 
+    <tr> 
+      <td onmouseover="bgColorChange(this, '#ffffff')" class="menuin" onmouseout="bgColorChange(this, '#e4e4e4')"> <a href="http://www.newark.com/NewarkWebCommerce/webApps/webForms/SurveyRequest.jsp" class="menutxt" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper('men5sub','menucloser')">Request a Catalog</a></td>
+    </tr>                      		
+  </tbody></table></td>
+    </tr>
+  </tbody></table>
+</div>
+
+<div id="menucloser" style="Z-INDEX: 3; LEFT: 0px; VISIBILITY: hidden; WIDTH: 98%; POSITION: absolute; TOP: 0px; HEIGHT: 400px"><a href="/NewarkWebCommerce/newark/en_US/common/javascript:;" onfocus="if(this.blur)this.blur()" onmouseover="layerMenuSwaper();turnOff('products','order','services','about','contact');bMenuActive=false;"><img src="http://www.newark.com/r2a_base/images/spacer.gif" height="400" width="100%" border="0"></a></div>
+
+
+
+
+
+
+
+
+	
+			
+			
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+	
+	 
+		
+		
+		
+	
+
+
+
+
+
+
+
+
+
+<table width="760" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td rowspan="4"><a href="http://www.newarkinone.com"><img src="http://www.newark.com/r2a_base/images/header_logo.gif" border="0" width="189" height="73"></a></td>
+	<td align="right" valign="bottom" width="571" height="54" class="txtgreyHEADER">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr><td valign="middle" align="right"><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="350" height="56"></td>
+          <td class="txtgreyHEADER"><img src="http://www.newark.com/r2a_base/images/us_flag.gif"></td>
+	<form name="jumpMenuForm" action="#" method="post"></form>
+    <td align="right" valign="middle"><select name="countrychoice" onchange="jumpMenu('parent',this,1)" style="HEIGHT:16px;WIDTH:150;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">
+	        <option value="">International Sites</option>
+			<option value="http://www.farnell-newarkinone.com.br/">Brazil</option>	        
+			<option value="http://canada.newark.com/">Canada</option>						
+			<option value="http://mexico.newark.com/">Mexico</option>
+			<option value="http://www.newark.com/">United States</option>			
+			<option value="">---------</option>
+			<option value="http://uk.farnell.com/jsp/home/homepage.jsp">Farnell InOne</option>
+			<option value="http://mcm.newark.com/">MCM, an InOne Company </option>
+			<option value="http://www.premierfarnell.com/">Premier Farnell</option>									
+	</select></td>
+	</tr></tbody></table>	
+
+	</td>
+</tr>
+<tr>	
+	<td class="blueBGNAV" align="right" valign="center">
+	
+	<table width="571" border="0" cellpadding="2" cellspacing="0" class="table-line-blue"><tbody><tr><td class="table-line-blue">
+	
+	<table width="567" cellpadding="0" cellspacing="0" border="0" class="table-body-blue"><tbody><tr><td class="table-body-blue" align="right">
+
+	<a href="/NewarkWebCommerce/newark/en_US/support/checkout/shoppingCart.jsp"><img src="http://www.newark.com/r2a_base/images/btn_cartbb.gif" width="24" height="21" border="0" align="middle" alt="Cart"></a>
+	 	
+		
+		
+		
+	 	
+		
+					
+			<a href="/NewarkWebCommerce/newark/en_US/common/redirectFromHome.jsp"><img src="http://www.newark.com/r2a_base/images/btn_myaccount_greybb.gif" width="91" height="19" border="0" align="middle" alt="My Account"></a>
+		
+		
+	
+	<img src="http://www.newark.com/r2a_base/images/spacer.gif" align="middle" width="1" height="25"><br>
+	</td></tr></tbody></table> 
+	</td></tr></tbody></table> 
+	
+	</td>
+</tr>
+<tr>
+	<td class="txtgreyHEADER" align="right">
+		 	
+			
+			
+				
+		<img src="http://www.newark.com/r2a_base/images/spacer.gif" width="5" height="12">
+	</td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+<table width="760" cellpadding="0" cellspacing="0" border="0">
+<tbody><tr valign="top">
+	<td>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+<table width="163" border="0" cellpadding="0" cellspacing="0"><tbody><tr valign="top"><td width="143">
+
+
+<table width="145" border="0" cellpadding="2" cellspacing="0" class="table-line-blue"><tbody><tr><td class="table-line-blue">
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" class="table-body-blue">
+<tbody><tr>
+	<td>
+	<img src="http://www.newark.com/r2a_base/images/spacer.gif" width="139" height="10"><br>
+
+
+
+	
+	
+
+
+
+
+
+	
+	
+	
+	
+
+	
+	
+	
+	
+
+		
+
+
+
+
+
+
+
+
+	
+	
+	
+	</td></tr><tr>
+		<td class="txtwhiteSMALL">
+
+<table width="100%" align="center" cellpadding="0" cellspacing="0" border="0" class="table-body-blue">
+<form action="/NewarkWebCommerce/newark/en_US/support/search/searchResults.jsp" method="get" name="QuickSearchForm" onsubmit="return form_check(this, 'QText', 'req', 'A search item');"></form>
+<input type="hidden" name="_dyncharset" value="ASCII">
+
+<input type="hidden" name="action" value="0">
+<input type="hidden" name="First" value="0">
+<tbody><tr>
+	<td class="txtwhiteSMALL" colspan="2" align="left">&nbsp;&nbsp;Quick Search<br>
+	</td>
+	</tr>
+	<tr>
+	<td class="txtwhiteSMALL" colspan="2" align="center">
+	<input type="text" name="QText" maxlength="255" size="8" style="HEIGHT:16px;width:103;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">&nbsp;<input type="image" src="http://www.newark.com/r2a_base/images/btn_searchgobb.gif" align="top" alt="GO" border="0"></td></tr>
+	<tr>
+	<td class="txtwhiteSMALL"><input type="checkbox" name="NIC" value="YE"></td>
+	<td class="txtsuperSMALL"><img src="http://www.newark.com/r2a_base/images/NIC_TITLE.gif" align="middle" alt="GO" border="0"></td>
+	</tr>
+	<tr>
+	<td colspan="2" valign="bottom" align="center" class="txtwhiteSMALL">
+	<a href="/NewarkWebCommerce/newark/en_US/support/search/searchPage.jsp" class="txtwhiteSMALL">Advanced Search &gt;&gt;</a><br>&nbsp;
+	</td>
+</tr>	
+
+</tbody></table>
+
+
+
+
+	
+
+	
+
+
+
+
+	
+	
+
+	
+	
+
+	
+		
+			
+			
+			
+		
+			
+			
+			
+				
+					
+					
+					
+					
+				
+					
+					
+					
+					
+				  
+	<img src="http://www.newark.com/r2a_base/images/left_nav_break.gif" width="139" height="3">
+
+					
+				
+			
+		
+		
+		
+
+		
+			
+			
+			
+		
+			
+			
+			
+
+	<img src="http://www.newark.com/r2a_base/images/spacer.gif" width="10" height="10"><br>
+
+	<div align="center">
+	<a href="/NewarkWebCommerce/newark/en_US/support/registration/register.jsp"><img src="http://www.newark.com/r2a_base/images/btn_registerbb.gif" border="0" alt="Register"></a> 
+	<a href="/NewarkWebCommerce/newark/en_US/support/login/login.jsp"><img src="http://www.newark.com/r2a_base/images/btn_loginbb.gif" border="0" alt="Login"></a>
+	</div>
+
+	<img src="http://www.newark.com/r2a_base/images/spacer.gif" width="139" height="10"><br>
+
+			
+		
+
+	
+
+	<table cellpadding="0" cellspacing="0" border="0" class="table-body-blue">
 	<tbody><tr>
-		<td rowspan="2">
-			<table width="295" border="0" cellpadding="0" cellspacing="0" bgcolor="#33CC33">
-				<tbody><tr>
-					<td colspan="2">
-					<img src="/images/logo_UL.gif" width="295" height="7"></td>
-				</tr>
-				<tr>
-					
-          <td colspan="2"> <img src="/images/spacer.gif" width="1" height="100"><a href="http://www.newark.com"><img src="/images/newark_logo.gif" width="293" height="100" border="0"></a></td>
-				</tr>
-				<tr>
-					<td>
-					<img src="/images/logo_LL.gif" width="116" height="33"></td>
-					
-          <td> <img src="/images/logo_privacy.gif" width="179" height="33"></td>
+		<td class="table-body-blue"><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="139" height="6"><br></td>
+	</tr>
+	<tr>
+		<td class="table-body-blue">
+		
+	
+		
+			
 
-				</tr>
-			</tbody></table>
-		</td>
-		<td>
-			<table id="search_table" width="470" border="0" cellpadding="0" cellspacing="0" class="NS_search_bg" bgcolor="#336699">
-				<tbody><tr>
-					<td>
-					<img src="/images/search_UL.gif" width="53" height="7"></td>
-					<td>
-					<img src="/images/search_UM.gif" width="402" height="7"></td>
-					<td>
-					<img src="/images/search_UR.gif" width="15" height="7"></td>
-				</tr>
-				<tr>
-					
-          <td> <img src="/images/search_incline.gif" width="53" height="52"></td>
-					<td valign="top">			            <table width="402" border="0" cellspacing="0" cellpadding="0"><form name="QuickSearchForm" action="http://www.newark.com/NewarkWebCommerce/newark/en_US/support/search/searchResults.jsp" method="get"></form>
-			<input type="hidden" name="_dyncharset" value="ASCII">            
-			<input type="hidden" name="action" value="0">
-			<input type="hidden" name="First" value="0">
-                <tbody><tr><td valign="bottom" align="left"><input type="text" name="QText" maxlength="255" size="15" style="HEIGHT:18px;width:140;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:12px"></td>
-			      <td rowspan="2"><a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/support/search/searchPage.jsp"><img src="http://www.newark.com/images/search_center.gif" height="46" border="0"></a> 
-                  </td>                  
-			    <td rowspan="2">&nbsp;</td>                  
-			    <td rowspan="2"><a href="http://canada.newark.com/"><img src="http://www.newark.com/images/canada_flag.gif" width="55" height="47" border="0"></a><img src="http://www.newark.com/images/spacer.gif" width="3" height="47" border="0"><a href="http://mexico.newark.com"><img src="http://www.newark.com/images/mexico_flag.gif" width="52" height="47" border="0"></a></td>
-                </tr>
-                <tr><td><a href="javascript:document.QuickSearchForm.submit()"><img value="Search" src="http://www.newark.com/images/search_go.gif" height="22" border="0"></a></td>
-                </tr></tbody></table>
+			
+			
+			
 
-</td>
-					
-          <td> <img src="/images/search_R.gif" width="15" height="52"></td>
-				</tr><tr>
-					<td>
-					<img src="/images/search_LL.gif" width="53" height="15"></td>
-					<td>
-					<img src="/images/search_LM.gif" width="402" height="15"></td>
-					<td>
-					<img src="/images/search_LR.gif" width="15" height="15"></td>
-				</tr>
-			</tbody></table>	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+			
+			
+
+		
+			
+
+			
+			
+			
+
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+
+			
+			
+
+		<img src="http://www.newark.com/r2a_base/images/left_nav_break.gif" width="139" height="3"><br>
+
+			
+
+		
+	
 		</td>
 	</tr>
 	<tr>
-		<td>
-			<table width="470" border="0" cellpadding="0" cellspacing="0" bgcolor="#33CC33">
-				<tbody><tr>				
-			         <td><img src="/images/spacer.gif" width="1" height="33"></td>			
-			         <td><img src="/images/top_nav_R.gif" width="15" height="33"></td>
-				</tr>
-				<tr>
-					
-          <td> <img src="/images/top_nav_LM.gif" width="455" height="33"></td>
-					<td>
-					<img src="/images/top_nav_LR.gif" width="15" height="33"></td>
-				</tr>
-			</tbody></table>	
-		</td>
+		<td class="table-body-blue"><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="139" height="6"><br></td>
 	</tr>
+	</tbody></table>
+
+		
+	
+		<div class="txtwhiteSMALL" align="center">Don't know what to do?<br>
+		<a href="javascript:livehelp();"><img src="http://www.newark.com/r2a_base/images/btn_livehelpbb.gif" border="0" alt="Live Help" vspace="3"></a>
+		</div>
+		
+	
+	
+
+
+	<img src="http://www.newark.com/r2a_base/images/spacer.gif" width="139" height="10"><br>
+	</td> 
+</tr>
 </tbody></table>
-<table width="765" border="0" cellpadding="0" cellspacing="0">
+
+</td></tr></tbody></table> 
+
+	</td>
+	<td width="18"><img src="http://www.newark.com/r2a_base/images/left_nav_titlestart.gif" width="18" height="30">
+	</td></tr>
+</tbody></table> 
+
+
+
+
+	
+	
+
+	
+	
+
+
+<img src="http://www.newark.com/r2a_base/images/spacer.gif" width="145" height="10">
+
+	
+		
+	
+
+	
+	
+	
+		
+		
+	
+
+
+
+
+
+
+
+
+	
+	
+
+
+<form action="/NewarkWebCommerce/newark/en_US/support/checkout/buyBulkFromLink.jsp?_DARGS=/NewarkWebCommerce/newark/en_US/common/quickbuy.jsp" method="post">
+<input type="hidden" name="_dyncharset" value="ASCII">
+
+<input type="hidden" value="5" name="number">
+<table width="143" cellpadding="2" cellspacing="0" border="0" class="table-line-blue">
+<tbody><tr>
+	<td class="table-line-blue">
+	<table width="100%" cellpadding="0" cellspacing="0" border="0" class="table-body-blue">
 	<tbody><tr>
-		<td rowspan="1" valign="top"><img src="/images/spacer.gif" width="112" height="1"><br>
-			<div class="sidenav">&nbsp;<a href="http://www.newark.com/" class="sidenav">Home </a><br>&nbsp;<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/support/login/login.jsp" class="sidenav">Log In </a><br>&nbsp;<a href="http://www.newark.com/NewarkWebCommerce/newark/en_US/support/registration/register.jsp" class="sidenav">Register</a><br>&nbsp;</div>
-			
-		</td>
-		<td background="/images/drop_line.gif">&nbsp;</td>
-    <!-- news cell --> 
-    <td>
-<br>
-        <span class="title">We Are Committed to Your Right to Privacy</span>
-      <p class="blackblurb">Newark respects your right to privacy. We developed this 
+		  <td class="table-head" valign="top" width="17"><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="1" height="20" border="0" align="top"></td>
+		  <td class="table-head" align="center" valign="center" width="100%">Quick Buy</td>
+	</tr>
+	<tr><td colspan="2"><img src="http://www.newark.com/r2a_base/images/left_nav_break.gif" width="139" height="3"></td> </tr>
+	</tbody></table> 
+<table width="100%" cellpadding="2" cellspacing="0" border="0" class="table-body">
+	<tbody><tr><td class="table-body-blue" align="center"><span class="txtwhiteSMALL">Newark InOne<br>Part No.</span></td><td class="table-body-blue" align="center"><span class="txtwhiteSMALL">Qty.</span></td></tr>
+	<tr>
+	        <td class="table-body-blue"><input type="text" name="skuId0" maxlength="15" size="5" style="HEIGHT:16px;width:60;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">
+        </td>	
+        <td class="table-body-blue"><input type="text" name="q0" maxlength="9" size="5" style="HEIGHT:16px;width:60;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">
+        </td>
+      </tr> 
+       <tr>
+      	        <td class="table-body-blue"><input type="text" name="skuId1" maxlength="15" size="5" style="HEIGHT:16px;width:60;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">
+              </td>     
+              <td class="table-body-blue"><input type="text" name="q1" maxlength="9" size="5" style="HEIGHT:16px;width:60;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">
+              </td>    
+      </tr>
+       <tr>          
+      	        <td class="table-body-blue"><input type="text" name="skuId2" maxlength="15" size="5" style="HEIGHT:16px;width:60;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">
+              </td>
+              <td class="table-body-blue"><input type="text" name="q2" maxlength="9" size="5" style="HEIGHT:16px;width:60;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">
+              </td>              
+      </tr>
+       <tr>      
+      	        <td class="table-body-blue"><input type="text" name="skuId3" maxlength="15" size="5" style="HEIGHT:16px;width:60;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">
+              </td>
+              <td class="table-body-blue"><input type="text" name="q3" maxlength="9" size="5" style="HEIGHT:16px;width:60;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">
+              </td>              
+      </tr>
+       <tr>
+      	        <td class="table-body-blue"><input type="text" name="skuId4" maxlength="15" size="5" style="HEIGHT:16px;width:60;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">
+              </td>      
+              <td class="table-body-blue"><input type="text" name="q4" maxlength="9" size="5" style="HEIGHT:16px;width:60;FONT-FAMILY:Verdana,Arial,Helvetica;FONT-SIZE:10px">
+              </td>      
+      </tr>
+      <tr>
+		<td class="table-body-blue" align="center" colspan="2"><input type="image" src="http://www.newark.com/r2a_base/images/btn_addtocartbb.gif" alt="add to cart" border="0"></td>      
+	</tr>
+	<tr><td class="table-body-blue" colspan="2" align="center"><a href="/NewarkWebCommerce/newark/en_US/support/checkout/buyBulk.jsp" class="txtwhiteSMALL">Bulk Order Form</a><br><br></td> </tr>	
+    </tbody></table>
+    
+    </td>
+</tr><tr>
+</tr></tbody></table>    
+    </form>
+
+
+
+
+	
+		
+	
+
+
+
+	
+
+
+	 
+
+
+
+
+</td>
+	<td>
+
+
+
+
+<img src="http://www.newark.com/r2a_base/images/title_helpcenter.gif" border="0" alt=""><br>
+
+<a name="top"></a><br><a href="index.jsp" class="std"><b>Help Center Index</b></a><br><br>
+<p class="stdbig"><b>Privacy Policy and Terms of Use</b></p>
+        <span class="stdbig"><b>We Are Committed to Your Right to Privacy</b></span>
+      <p class="std">Newark InOne respects your right to privacy. We developed this 
         Privacy Statement to inform you about our practices. Questions regarding 
-        this Privacy Statement should be directed to <a href="mailto:webmaster@newark.com?subject=privacy">webmaster@newark.com</a>. 
+        this Privacy Statement should be directed to <a href="http://www.newark.com/custsrv/sendmail.html">our websupport team</a>. 
       </p>
-      <p class="title">Overview<br>
+      <p class="stdbig"><b>Overview</b><br>
         <br>
       
-      </p><p span="" class="blackblurb"> Privacy is a concern to most Internet users. 
-        Newark is acutely aware of, and sensitive to, the privacy concerns of 
+      </p><p span="" class="std"> Privacy is a concern to most Internet users. 
+        Newark InOne is acutely aware of, and sensitive to, the privacy concerns of 
         our customers. We assure you that we do not collect personal information 
         from you unless you provide it to us. If you are registering to use the 
         site you will be asked to provide certain information. We are asking for 
-        this information solely the purpose of providing the services offered 
+        this information solely for the purpose of providing the services offered 
         and authenticating your identity when you login. Be assured that we do 
         not sell information about our customers or site visitors to third parties. 
-      </p><p class="title">Privacy Policy Enforcement<br>
+      </p><p class="stdbig"><b>Privacy Policy Enforcement</b><br>
         <br>
-      </p><p span="" class="blackblurb"> If you feel that Newark is violating this Privacy 
-        Statement, please contact us at <a href="mailto:webmaster@newark.com?subject=privacy">webmaster@newark.com</a>. 
-      </p><p class="title">Traffic Data<br>
+      </p><p span="" class="std"> If you feel that Newark InOne is violating this Privacy 
+        Statement, please contact <a href="http://www.newark.com/custsrv/sendmail.html">our websupport team</a>. 
+      </p><p class="stdbig"><b>Traffic Data</b><br>
         <br>
-      </p><p span="" class="blackblurb"> Each time a visitor comes to Newark's site, 
+      </p><p span="" class="std"> Each time a visitor comes to Newark InOne's site, 
         information is collected including your domain name / IP address, referring 
         URL, browser and platform, time of visit, pages visited and searches performed, 
         if any. These statistics are used to help us improve the performance of 
         our website.<br><br>Aggregated traffic data may be shared with potential advertisers, research firms, and business partners for demographic purposes. When used in this aggregated form no one will be able to identify or contact you.
-      </p><p class="title">Use of E-mail Addresses<br>
+      </p><p class="stdbig"><b>Use of E-mail Addresses</b><br>
         <br>
-      </p><p span="" class="blackblurb"> Registered Newark users may "opt out" 
+      </p><p span="" class="std"> Registered Newark InOne users may "opt out" 
         of the e-mail communications offered in the "My Profile" section 
         of the site. If you change your mind you can always reverse your decision 
         later. E-mails that confirm business transactions will always be sent 
         to you.
-      </p><p class="title">Use of Cookies<br>
+      </p><p class="stdbig"><b>Use of Cookies</b><br>
         <br>
-      </p><p span="" class="blackblurb"> A "cookie" is a piece of information 
+      </p><p span="" class="std"> A "cookie" is a piece of information 
         that our website sends to your browser, which then stores this information 
         on your system. A cookie allows our website to "remember" information 
         about your preferences either until you exit your current browser window 
@@ -164,113 +1310,236 @@ popDown = HM_f_PopDown;
         Many users prefer to use cookies to help them navigate a website as seamlessly 
         as possible.<br>
         <br>
-      </p><p span="" class="blackblurb"> You should be aware that cookies contain no 
+      </p><p span="" class="std"> You should be aware that cookies contain no 
         more information than you volunteer, and they are not able to "invade" 
         your hard drive and return to the sender with personal or other information 
         from your computer. If you choose not to accept a cookie, you will still 
         be able to use our website.
-      </p><p class="title">Sending You Responses and Updates<br>
+      </p><p class="stdbig"><b>Sending You Responses and Updates</b><br>
         <br>
-      </p><p span="" class="blackblurb"> We generally respond to any e-mail questions, 
+      </p><p span="" class="std"> We generally respond to any e-mail questions, 
         requests for service or information, and other inquiries we receive. We 
         may also retain this correspondence to improve our products, services 
         and website. Frequently we retain contact information so that we can send 
         individuals updates or other important information about our services 
         and products. 
-      </p><p class="title">Surveys<br>
+      </p><p class="stdbig"><b>Surveys</b><br>
         <br>
-      </p><p span="" class="blackblurb"> From time-to-time we may request information 
+      </p><p span="" class="std"> From time-to-time we may request information 
         via surveys. Participation in these surveys is completely voluntary and 
         you always have a choice whether or not to disclose this information. 
         Survey information will be used to monitor or improve this website, and 
         to improve our customer service and product offerings.
-      </p><p class="title">&nbsp;
-      </p><p>&nbsp; 
-    </p></td>
-    <!-- end news cell -->		
-    	<td rowspan="2" valign="top" align="center"><img src="/images/spacer.gif" width="176" height="1"><br>
-		 	
-      <table width="176" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr> 
-          <td>
+      </p><p class="stdbig"><b>Security</b><br>
+        <br>
+      </p><p span="" class="std"> Find out how we maintain a high level of <a href="security.jsp">security</a> on our site.
 
-<table width="176" border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td>
-			<img src="/images/rightsidenav_1.gif" width="20" height="10"></td>
-		<td>
-			<img src="/images/rightsidenav_2.gif" width="156" height="10"></td>
-	</tr>
-	<tr>
-		<td valign="top">
-			<img src="/images/rightsidenav_3.gif" width="20" height="48"></td>
-		        <td> <a href="/products/mfr/list.html"><img src="/images/bullet_arrow_right_black.gif" width="18" height="17" border="0" align="absmiddle"></a><a class="blackblurb" href="/products/mfr/list.html">Manufacturer 
-                  List</a><br>
-                  <a href="javascript:former2()"><img src="/images/bullet_arrow_right_black.gif" width="18" height="17" border="0" align="absmiddle"></a><a class="blackblurb" href="javascript:former2()">Live 
-                  Chat</a><br>
-                  <br>
-		</td>
-	</tr>
-</tbody></table>
+      </p><p class="stdbig"><b>Terms of Use</b><br>
+        <br>
+      </p><p span="" class="std">The Newark InOne website may contain links to third-party sites. The linked sites are not under the control of Newark InOne, and the Newark InOne is not responsible for the contents of any linked site, any link contained in a linked site, any changes or updates to such linked sites, or any transmission from any linked site. Newark InOne is providing these links to third-party sites only as a convenience, and the inclusion of any link does not imply endorsement by Newark InOne of the site.
+
+      </p><p class="stdbig"><b>License and Site Access</b><br>
+        <br>
+      </p><p span="" class="std">Newark InOne grants you a limited license to access and make personal use of this site and not to download (other than page caching) or modify it, or any portion of it, except with express written consent of Newark InOne. This license does not include any resale or commercial use of this site or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of this site or its contents; any downloading or copying of account information for the benefit of another merchant; or any use of data mining, robots, or similar data gathering and extraction tools. This site or any portion of this site may not be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of Newark InOne. <br><br>
+	You are granted a limited, revocable, and nonexclusive right to create a hyperlink to the home page of newarkinone.com so long as the link does not portray Newark InOne, its parent company, or their products or services in a false, misleading, derogatory, or otherwise offensive matter. You may not use any Newark InOne logo or other proprietary graphic or trademark as part of the link without express written permission. 
+
+	</p><p span="" class="std"><a href="copyright.jsp">Click here for Copyright and Trademark information</a>
+
+
+      </p><p align="center">&nbsp;</p>
+      
+      
+      
+
+
+
+<img src="http://www.newark.com/r2a_base/images/spacer.gif" border="0" width="597" height="1" alt=""><br>
+
+
 </td>
-        </tr>
-        <form name="SURVEY" target="surveyResults" method="POST" action="http://apps.newark.com:8900/servlet/SurveyResultServlet" onsubmit="window.open('','surveyResults','width=540,height=400,directories=no,toolbar=no,resizable=no,menubar=no,status=no')"></form>
-          <tr> 
-            <td><img src="/images/spacer.gif" height="30" width="1"></td>
-          </tr>
-          <tr> 
-            <td align="center"><br>
-              &nbsp;
-            </td>
-          </tr>
-          <tr> 
-            <td align="center">&nbsp;</td>
-          </tr>
-          <tr> 
-            <td><img src="/images/spacer.gif" height="30" width="1"></td>
-          </tr>
-        
-      </tbody></table>
-			
-			
-      </td>
-	</tr>
-	<tr>
+</tr>
+</tbody></table>
+
+
 		
-    <td valign="bottom"><span class="small"><br>
-      <br>
-      © 2001 <br>
-      Newark Electronics<br>
-      </span><a href="/custsrv/copyright.html"><span class="small">Copyright information</span></a><br>
-      <a href="/custsrv/privacy.html"><span class="small">Privacy statement</span></a> </td>
-		<td background="/images/drop_line.gif">
-			<img src="/images/spacer.gif" width="30" height="15"></td>
-		<td>
-			<img src="/images/spacer.gif" width="447" height="15"></td>
-	</tr>
-
-</tbody></table> 
-
-<br>
-
-<form method="POST" action="http://search.newark.com/shopping_cart.phtml" name="buyform" onsubmit="swap_value('buyform')"> 
-<input type="HIDDEN" name="VALUE" value="">
-<input type="HIDDEN" name="ATTR_ID" value="">
-<input type="HIDDEN" name="SHOPCART_ACTION" value="FUZZYADD">
-<input type="HIDDEN" name="PART_ID" value="250">
-<input type="HIDDEN" name="VID" value="250">
-<input type="HIDDEN" name="OPERATOR" value="starts with">
-<input type="HIDDEN" name="UNITS" value="null">
-</form>
-<form method="POST" action="http://search.newark.com/search_results.phtml" name="searchform" onsubmit="swap_value('searchform')">
-<input type="hidden" name="OPERATOR" value="starts with">
-<input type="hidden" name="UNITS" value="">
-<input type="hidden" name="PART_ID" value="250">
-<input type="HIDDEN" name="VALUE" value="">
-<input type="HIDDEN" name="ATTR_ID" value=""></form>										
+			
+		
 
 
-<script language="JavaScript" src="/js/HM_Loader.js" type="text/javascript"></script>  
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+	
+
+
+
+
+
+	
+	
+
+	
+	
+
+		<table width="760" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr><td class="blackBGNAV"><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="760" height="2"></td>
+		</tr>
+		<tr align="center">
+			<td class="greyTEXTFOOTER" nowrap=""><span class="greyTEXTFOOTER"><a href="/products/browse/index.html" class="blueTEXTFOOTER">Catalog Browse</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/common/javascript:livehelp();" class="blueTEXTFOOTER">Live&nbsp;Help</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/" class="blueTEXTFOOTER">Help&nbsp;Center</a> |&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp" class="blueTEXTFOOTER">Privacy Policy</a>&nbsp;|&nbsp;<a href="/sitemap.html" class="blueTEXTFOOTER">Site Map</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/terms.jsp" class="blueTEXTFOOTER">Terms and Conditions</a>&nbsp;|&nbsp;<a href="/NewarkWebCommerce/newark/en_US/support/help/privacy.jsp" class="blueTEXTFOOTER">Terms of Use</a></span></td>
+		</tr>
+		<tr align="center">
+			<td class="greyTEXTFOOTER">
+			<table width="300" cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr><td align="center" nowrap=""><span class="helpTITLE">Web Site Support:<br>1-800-NEWARK-T</span><br><span class="greyTEXTFOOTER">(1-800-639-2758)</span></td><td><img src="http://www.newark.com/r2a_base/images/spacer.gif" width="15" height="2"></td><td align="center" nowrap=""><span class="helpTITLE">Contact Newark InOne:<br>1-800-4-NEWARK</span><br><span class="greyTEXTFOOTER">(1-800-463-9275)</span></td></tr>
+			</tbody></table>
+			</td>
+		</tr>		
+		<tr align="center">
+			<td class="greyTEXTFOOTER"><a href="/NewarkWebCommerce/newark/en_US/support/help/copyright.jsp" class="greyTEXTFOOTER"><span class="greyTEXTFOOTER">© 2004 Newark InOne</span></a>
+
+			</td>
+		</tr>				
+		</tbody></table>
+
+	
+
+
+
+			
+	
+	
+	
+			
+	
+	
+
+	
+		
+		
+		
+	
+		
+		
+		
+
+
+
+
+
+
+
+
+
+	
+	
+	
+		
+	
+
+	
+	
+		
+<!-- BEGIN WEBSIDESTORY CODE v9.0.0 -->
+<!-- COPYRIGHT 1997-2003 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479 B1. Privacy notice at: http://websidestory.com/privacy -->
+<script language="javascript">
+var _acct="DM53050759EA93EN3"; 	//account number(s)
+var _pn="PUT+PAGE+NAME+HERE"; 	//page name(s)
+var _mlc="CONTENT+CATEGORY";	//multi-level content category
+var _seg=""; // visitor segmentation
+var _cmp="null"; // campaign id
+var _gp="null";  // campaign goal
+var _cmpn="";// campaign id in query
+var _gpn=""; // campaign goal in query
+var _fnl=""; // funnels
+var _pec=""; // error codes
+var _fv="";  // form validation function name
+var _dcmp="";// dynamic campaign id
+var _dcmpn="";//dynamic campaign id in query
+var _hra=""; // response attribute
+var _hcn=""; // conversion
+var _hcv=""; // conversion value
+var _hlt=""; // lead tracking
+var _hla=""; // lead attribute
+var _hqsr="";// response attribute in referral query
+var _hqsp="";// response attribute in query
+var _hc1=""; // custom 1
+var _hc2=""; // custom 2
+var _hc3=""; // custom 3
+var _hc4=""; // custom 4
+var _lt="none";// link tracking
+var _ci="";  //customer id
+var _cp="null";//campaign
+var _cpd="";//campaign domain
+var _pndef="title";	//default page name
+var _ctdef="full"; 	//default content category
+var _dlf="n"; // download filter
+var _elf="n"; // exit link filter
+var _dft="n"; // download file tracker variable, set to y to use the name reference
+var _hrf=""; // custom referrer. use valid url or param name
+var _epg="n"; // event page identifier
+var _vpc="090101u"; //page code version
+var _gn="ehg-newarkinone.hitbox.com"; //gateway name
+function $a(v){return escape(v)};var _sv=10,_bn=navigator.appName,_mn="we36",
+_bv=parseInt(navigator.appVersion),_rf=$a(document.referrer),_bnN=(_bn=="Netsc"+
+"ape");function $ii(a,b,c){return a.indexOf(b,c?c:0)};if($ii(_bn,"Microsoft")==0
+)_bn="MSIE";if(_bn=="MSIE"&&_bv==2)_bv=3;function $is(a,b, c){return b>a.length?
+"":a.substring(b,c!=null?c:a.length)};function $l(a,b){return(a=="/")?a:(($ii(a,
+"/")?"/":"")+(a.lastIndexOf("/")==b?$is(a,0,b):a)) };function $n(a,b){return(a==
+""|| a=="/")?"/": $is( a,(_ctdef!="full")?a.lastIndexOf("/",b-2):$ii(a,"/"),b)};
+function $o(a,b,c){ var d=location.pathname,e=$is(d,d.lastIndexOf("/")+1);if(a&&
+b==c){return(_pndef == "title"&&document.title!=""&&document.title!=location&&!(
+_bnN&&$ii(document.title,"http")>0))?document.title:e?e:_pndef}else{return b==c?
+$n(d,d.lastIndexOf("/")): $l( b,b.length-1)}};function $p(a,b,c,d){return ""+(c>
+-1?$o(b,$is(a,0,c),d)+";"+$p($is(a,c+1),b,$ii($is(a,c+1),";")):$o(b,a,d))};_mlc=
+$p(_mlc,0, $ii( _mlc, ";"), "CONTEN"+"T+CAT"+"EGORY");_pn=$p(_pn,1,$ii(_pn,";"),
+"PUT+PA" + "GE+NAME+HERE") </script><script language="javascript1.1">_sv=11
+</script><script language="javascript1.1" defer="" src="http://www.newark.com/r2a_base/hitbox/hbe.js">
+</script><script language="javascript"> if( _sv+0<11 ){ if( ( document.cookie)&&
+$ii(document.cookie,"CP=")>-1){_ce="y"}else{document.cookie="CP=null*; path=/;"+
+(_cpd!=""?(" domain=."+_cpd+"; "):"")+"expires=Wed, 1 Jan 2020 00:00:00 GMT";if(
+($ii(document.cookie,"CP="))+0>-1){_ce="y"}else{_ce="n"}}if((_rf==null)||( _rf==
+""))_rf="bookmark"; document.write( "<img src='"+( location.protocol== 'https:'?
+'https://':'http://') + _gn+"/HG?hc="+_mn+"&hb="+$a(_acct)+"&n="+$a(_pn)+(_bnN?(
+"&bn="+$a(_bn)):"")+ "&ce="+ _ce + "&ss=na&sc=na&dt=" + (new Date()).getHours()+
+"&sv="+_sv+"&con=&vcon="+$a(_mlc)+"&epg="+_epg+"&hv=6&cd=1&pl=&hp=u&cy=u&ja=na"+
+"&ln=na&cp="+$a(_cp)+ "&seg="+ _seg+ "&dcmp="+$a(_dcmp)+"&cmp="+_cmp+"&gp="+_gp+
+"&fnl="+$a(_fnl)+"&pec="+$a(_pec)+"&ra="+$a(_hra)+"&gn="+$a(_hcn)+"&ld="+$a(_hlt
+)+"&la="+$a(_hla)+"&cv="+$a(_hcv)+"&c1="+$a(_hc1)+"&c2="+$a(_hc2)+"&c3="+$a(_hc3
+)+"&c4="+$a(_hc4)+"&customerid="+$a(_ci)+"&rf="+_rf+"' border=0 height=1 widt"+
+"h=1>")}if(_bnN&&_bv==4)document.write("<\!"+"--")</script><noscript><img 
+src="http://ehg-newarkinone.hitbox.com/HG?hc=we36&cd=1&hv=6&ce=u&hb=DM53050759EA93EN3&n=PUT+PAGE+NAME+HERE&vcon=CONTENT+CATEGORY&seg=&cmp=&gp=&fnl=&pec=&dcmp=&ra=&gn=&ld=&la=&cv=&c1=&c2=&c3=&c4=&customerid=vpc=090101un" border="0" width="1" height="1">
+</noscript><!--//-->
+<!-- END WEBSIDESTORY CODE  -->
+	
+	
+		
+	
+	
+
+
+
+		
+		
+	
+	
+	
+	
+		
+	
+
+
+
+
 
 
 
