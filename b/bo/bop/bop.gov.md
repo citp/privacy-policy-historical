@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the bop.gov privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405163234id_/http%3A//www.bop.gov/policy/privacypolicy.jsp) for the most accurate reproduction.*
+
+# Federal Bureau of Prisons
+
+**Information Collected and Stored Automatically**
+
+If you visit our site to read or download information, we collect and store the following information about your visit: 
+
+The name of the Internet domain (e.g., "xcompany.com" if you use a private Internet access account or "yourschool.edu" if you are connecting from a university's domain) and the IP address (a number that is automatically assigned to your computer when you are using the Internet) from which you access our site; the type of browser and operating system used to access our site; the date and time you access our site; the Internet address of the website from which you linked directly to our site; and the pages you visit and the information you request. This information is primarily collected for statistical analysis and technical improvements to the site. This government computer system uses software programs to create summary statistics, which may be used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. In certain circumstances, however, we may take additional steps to identify you based on this information and we may share this information, including your identity, with other government agencies. 
+
+**If You Send Us Personal Information**
+
+You do not have to provide any personal information to visit this website. If you choose to provide us with personal information, such as by sending a message to an e-mail address on this website or by filling out a form and submitting it through our website, we will use that information to respond to your message or to fulfill the stated purpose of the communication. If you submit your resume to us electronically, we will use your personal information to consider your application for employment. The Bureau of Prisons does not collect or use information for commercial marketing. 
+
+We may share information you give us with contractors acting on our behalf or with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, we may be required by law to disclose information you submit. If you provide comments in response to a request for public comments, we may make those comments, as well as your identity, available to the public in a publication or by posting them on our website. Where possible, we may give you more specific guidance at the point of collection regarding how your personal information may be used or disclosed. 
+
+Electronically-submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found here: <http://www.pueblo.gsa.gov/call/foia.htm>. 
+
+Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it by postal mail instead. 
+
+**Cookies**
+
+"Cookies" are small bits of text that are either used for the duration of a session ("session cookies"), or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a website ("persistent cookies"). BOP's website and its component sites do not use persistent cookies. Session cookies are deleted from BOP's server soon after your session ends and are not collected or saved. You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set. You can still use our website if you do not accept the cookies, but you may be unable to use certain cookie-dependent features. 
