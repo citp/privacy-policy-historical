@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607122930id_/http%3A//www.ringsidenews.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ringsidenews.com privacy policy that was archived on 2004-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041019043622id_/http%3A//www.ringsidenews.com/html/blank%2520version/privacy.shtml) for the most accurate reproduction.*
 
-# Indy Wrestling News - Privacy Policy
+# Wrestling News and Information
 
-   
+**Privacy Policy**
+
+[](http://www.1and1.com/?k_id=7437731)  
+  
 ---  
-   
-   
   
 **Privacy Policy**
 
@@ -31,4 +32,5 @@ You can send email to steven@ringsidenews.com
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [Steven David](mailto:steven@stevendavid.com)
 
 
+  
 
