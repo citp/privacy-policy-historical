@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welchs.com privacy policy that was archived on 2001-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011221142259id_/http%3A//consumer.welchs.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welchs.com privacy policy that was archived on 2002-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020606104335id_/http%3A//www.welchs.com/consumer/privacy.asp) for the most accurate reproduction.*
 
 # Welch's Privacy Policy
 
