@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricequotes.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604170124id_/http%3A//pricequotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricequotes.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208184108id_/http%3A//www.pricequotes.com/privacy.html) for the most accurate reproduction.*
 
 # PriceQuotes.com - Online Privacy Policy
 
@@ -14,7 +14,7 @@ As an online referral service, PriceQuotes.com collects personally identifiable 
 
 From time to time, PriceQuotes.com may also collect and temporarily store personal information that visitors voluntarily submit to us via email correspondence. For example, PriceQuotes.com provides a link through which an online visitor can send email to Support. Any personal information contained in such email is used by PriceQuotes.com for the sole purpose of responding to your questions and/or comments and is deleted immediately after we've responded. Regardless of whether we've successfully responded, any personal information submitted to us in email is deleted within 30 days of its receipt.
 
-In addition, we only collect and use personal information to the extent deemed reasonably necessary to appropriately respond to your estimate-request, or emailed question and/or comment. Please note that your refusal to provide personal information (e.g., name, address, etc.) in an estimate-request or email correspondence may limit our ability to re[ ](https://web.archive.org/web/20040604170124id_/http%3A//pricequotes.com/\(EmptyReference!\))spond to your request, question or comment in a timely fashion. However, you never have to provide personal information to PriceQuotes.com in order to use our Web site.
+In addition, we only collect and use personal information to the extent deemed reasonably necessary to appropriately respond to your estimate-request, or emailed question and/or comment. Please note that your refusal to provide personal information (e.g., name, address, etc.) in an estimate-request or email correspondence may limit our ability to re[ ](https://web.archive.org/web/20041208184108id_/http%3A//www.pricequotes.com/\(EmptyReference!\))spond to your request, question or comment in a timely fashion. However, you never have to provide personal information to PriceQuotes.com in order to use our Web site.
 
 **Log Files**
 
