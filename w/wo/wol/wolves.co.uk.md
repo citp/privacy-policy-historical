@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolves.co.uk privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603175852id_/http%3A//www.wolves.co.uk/home/view/privacy_statement/0%2C%2C10307%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolves.co.uk privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004122209id_/http%3A//www.wolves.co.uk/home/view/privacy_statement/0%2C%2C10307%2C00.html) for the most accurate reproduction.*
 
 # Wolverhampton Wanderers Football Club
 
