@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uptilt.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620065224id_/http%3A//www.uptilt.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uptilt.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207145210id_/http%3A//uptilt.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Uptilt
 
