@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401123839id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linesmaker.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229205922id_/http%3A//linesmaker.com/support/privacy.htm) for the most accurate reproduction.*
 
 # LinesMaker.com: Get your lines and make your bet.
 
