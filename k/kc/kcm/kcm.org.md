@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the kcm.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203003323id_/http%3A//www.kcm.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kcm.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622153248id_/http%3A//www.kcm.org/about/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Kenneth Copeland Ministries | About Us
 
 | [Home](https://web.archive.org/index.html)  
 ---  
 [About Us](https://web.archive.org/about/)  
-[Partnership](https://web.archive.org/about/partnership/)  
+[Partnership](https://web.archive.org/2003partnership/)  
 [Privacy Policy](https://web.archive.org/about/privacy.html)  
 [Employment](https://web.archive.org/about/employment/)  
 [Mission](https://web.archive.org/about/mission/)  
 [Faith Statement](https://web.archive.org/about/faith_statement/)  
-[TV ](https://web.archive.org/tv/)  
+[TV](https://web.archive.org/tv/)  
 [Radio](http://www.bvovradio.org/)  
-[Magazines](https://web.archive.org/magazines/)  
+[Magazines](https://contact.kcm.org/index.html?F=mV5VKsBJ)  
 [Meetings](https://web.archive.org/meetings/)  
 [Study Center](https://web.archive.org/studycenter/)  
-[Finances](http://lists.kcm.org/financial/)  
+[Finances](https://web.archive.org/studycenter/financial/)  
+[Spiritual Heritage](https://web.archive.org/studycenter/t/spiritualheritage/)  
 [Articles](https://web.archive.org/studycenter/articles/)  
 [MP3](http://www.bvov.org/mp3/index.php)  
 [Webcast](http://www.bvov.org/webcasts/index.php)  
@@ -26,9 +27,9 @@
 [Email Subscriptions](http://lists.kcm.org/)  
 [Church](http://www.emic.org/)  
 [Contact Us](https://web.archive.org/contact/)  
-[Prayer Requests](https://web.archive.org/contact/prayer_request/)  
-[Service](https://web.archive.org/contact/partner_request/)  
-[Support](https://web.archive.org/support/)  
+[Prayer Requests](https://contact.kcm.org/index.html?F=aUV9Ud7w)  
+[Service](https://contact.kcm.org/index.html?F=7UjuUd7w)  
+[Technical Support](https://web.archive.org/support/)  
 [Store](https://web.archive.org/store/)  
 [Contributions](https://secure.kcm.org/store/contribute.php3)  
 [Audio](http://www.kcm.org/store/display.php3?cat=3)  
@@ -68,7 +69,7 @@ Online Privacy
 
 The following online privacy principles apply when you visit our Web site at www.kcm.org: 
 
-You can visit us on the Internet without telling us who you are or revealing any information about yourself, including your email address. Our web servers collect the domain name you used to access the Internet, such as aol.com or NBCi.com, and the Web site you came from and visit next. 
+You can visit us on the Internet without telling us who you are or revealing any information about yourself, including your e-mail address. Our web servers collect the domain name you used to access the Internet, such as aol.com or NBCi.com, and the Web site you came from and visit next. 
 
 KCM uses this information to measure the number of visits, average time spent, pages viewed, and other statistics about visitors coming to our Web site in general. We may also use this data to monitor site performance and to make the site easier and more convenient to use. 
 
