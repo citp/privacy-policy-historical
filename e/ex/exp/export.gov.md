@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2001-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011222053529id_/http%3A//www.ita.doc.gov/foia/Priv2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605031040id_/http%3A//www.export.gov/privacy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Statement
 
 **International Trade Administration Web Site Privacy Policy**
 
@@ -38,5 +38,3 @@ This information does not identify you personally. This information is used to p
 
 
 For more information, please review the Department of Commerce Privacy Statement at [http://204.193.246.62/public.nsf/docs/privacy-statement](http://204.193.246.62/public.nsf/docs/privacy-statement).
-
-> 
