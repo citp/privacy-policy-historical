@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktm.com privacy policy that was archived on 2002-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021011105443id_/http%3A//www.ktm.com/privicy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktm.com privacy policy that was archived on 2003-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030407061926id_/http%3A//www.ktm.com/privicy_policy.htm) for the most accurate reproduction.*
 
 # New Page 1
 
