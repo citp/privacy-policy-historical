@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204225122id_/http%3A//www.topcoder.com%3Ft%3Dabout_tc%26c%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topcoder.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404022317id_/http%3A//www.topcoder.com/tc%3Fmodule%3DStatic%26d1%3Dabout%26d2%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy of TopCoder
 
@@ -6,11 +6,11 @@ Because we value privacy as much as we value programmers, TopCoder is committed 
 
 Our security and Privacy Commitment are periodically reviewed and enhanced as necessary. However, you should understand that "perfect security" does not exist on the Internet. The information that you submit to us is used only for the purposes as set forth herein, as required by law, or when we believe in good faith that disclosure is legally required to protect our rights. We will not use your personal information for any other purpose other than as set out here without first obtaining your permission. The following reflects our commitment to you.
 
- **Information About All TopCoder Visitors**  
+**Information About All TopCoder Visitors**  
 We gather information about all of our users collectively, including (a) what area users visit most frequently, (b) their Internet domain and their computer's IP address, (c) the type of browser and operating system they use and (d) if the user linked to our Web site from another Web site, the address of that other Web site. This information does not in any way personally identify a user; we only use this data anonymously and in the aggregate. We use this information to analyze trends and statistics to help us improve our services, plan site enhancements and measure overall site effectiveness. From time to time we may reveal general, anonymous, aggregated statistical information about our site, services and users, such as the number of visits and users and what site features they use. 
 
-**Information About You Specifically**  
-If you choose to register as a member in order to participate in TopCoder tournaments, you will provide us with additional information about yourself, including name and address. If you are a winner, we will also request your date of birth. In addition, if you are a U.S. person (including U.S resident aliens), we will request your social security number (or taxpayer identification number) on IRS form W-9. If you are a winner, and you are not a U.S person, we will request a Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding on IRS form W-8BEN. We use this information to verify your eligibility to participate in specific tournaments, and to contact you and properly notify the IRS should you be a winner. From time to time, we may use the contact information to alert members of new competitions and communicate news, events and reminders. If you do not want to be alerted of any of these items, do not check the "Contest Notification" box on the registration form or at any time thereafter you can send us an e-mail asking to be removed from this notification listing to service@topcoder.com. During competition, users participating will be shown and identified only by their handles, which are their public login names. A TopCoder member's handle, rating, date registered, winnings to date, skill set, and personal quote will be publicly available to any participants of the TopCoder web site and competition applications.
+**Information About You Specifically**   
+If you choose to register as a member in order to participate in TopCoder tournaments, you will provide us with additional information about yourself, including name and address. If you are a winner, we will also request your date of birth. In addition, if you are a U.S. person (including U.S resident aliens), we will request your social security number (or taxpayer identification number) on IRS form W-9. If you are a winner, and you are not a U.S person, we will request a Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding on IRS form W-8BEN. We use this information to verify your eligibility to participate in specific tournaments, and to contact you and properly notify the IRS should you be a winner. From time to time, we may use the contact information to alert members of new competitions and communicate news, events and reminders. If you do not want to be alerted of any of these items, do not check the "Contest Notification" box on the registration form or at any time thereafter you can send us an e-mail asking to be removed from this notification listing to service@topcoder.com. During competition, users participating will be shown and identified only by their handles, which are their public login names. A TopCoder member's handle, rating, country, school, competition statistics, date registered, winnings to date, skill set, and personal quote will be publicly available to any participants of the TopCoder web site and competition applications.
 
 Spectators are allowed to view the competition without identifying themselves, but competition participants must be members and must login to prove it. All source code created during the competition will be available to anyone - spectators, members and sponsors and may be subject to challenge from other members. Your performance in a competition will allow us to help balance the competition. It will be recorded to calculate competition rating values and it will be posted on the web site and in the competition area. Winners' names may also be released to governmental authorities as required by law and to those requesting such information from TopCoder. At registration, we will ask you to answer questions regarding certain demographic information as it relates to your status as a student or a professional. 
 
@@ -22,22 +22,22 @@ TopCoder sponsors may contact you proactively based upon your skills, experience
 
 The personal information you provide must be accurate and complete and all registration details (where applicable) must contain your real name, address and other requested details. You are solely responsible for your personal information and we may take any action with respect to your personal information we deem necessary or appropriate if we believe it may cause us to suffer any loss, liability or commercial damage.
 
- **Round Tables**  
+**Round Tables**   
 TopCoder Round Tables make forum style discussion topics available to our members and sponsors. These forums will identify TopCoder members by their user handles. Those simply viewing the discussions may do so without identifying themselves, but those who wish to participate must be members or sponsors and must login to prove it. Please remember that any information you disclose in these areas becomes public information. Accordingly, you should always exercise caution when deciding to disclose any personal information. 
 
-**Cookies**  
+**Cookies**   
 To enhance your experience at TopCoder, we may use a feature on your Internet browser called a "cookie". As you may already know, cookies are small files that your Web browser places on your computer's hard drive. We use cookies for remembering user names and passwords and preferences, tracking click streams, and for load balancing. Because of our use of cookies, we can deliver faster service, consistent, updated results, and a more personalized site experience. You have the option of setting your browser to reject cookies. However, doing this may hinder performance and negatively impact your experience on our site. 
 
-**Feedback**  
+**Feedback**   
 TopCoder may ask you for feedback and comments about the site or the tournaments and we encourage your participation. Any feedback that is submitted becomes the property of TopCoder. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further feedback on the site. 
 
-**Links to Other Sites**  
+**Links to Other Sites**   
 We may provide links to other Web sites that we believe can offer you useful information. However, we are not responsible for the privacy policies of other Web sites, including those sites on which our logo or other information supplied by us appears. We suggest that you access these sites' online policies regarding their data collection. 
 
-**Access to Your Information**  
+**Access to Your Information**   
 TopCoder will provide you with a reasonable opportunity to review the information that it has compiled about you, as well as a reasonable opportunity to correct any erroneous information. To view or correct your information, log in to the TopCoder web site, click on "Update Profile" on your "Member Home" page, or contact us at [service@topcoder.com](mailto:service@topcoder.com). 
 
-**Privacy Commitment Changes**  
+**Privacy Commitment Changes**   
 If we decide to change our privacy commitment for TopCoder, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. In the event that we make any significant changes to our Privacy Statement, we will also provide you with the opportunity to consent to different uses of your personal information. If, at any time, you have questions or concerns about TopCoder's privacy commitment, please feel free to e-mail us at [service@topcoder.com](mailto:service@topcoder.com). 
 
 Thank you for visiting our site. We'll keep working hard to earn your loyalty. 
