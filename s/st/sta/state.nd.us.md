@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.nd.us privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202231000id_/http%3A//www.discovernd.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nd.us privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603122258id_/http%3A//discovernd.com/privacy.html) for the most accurate reproduction.*
 
 # Government Services Online
 
@@ -8,6 +8,7 @@
 [](https://web.archive.org/education/)  
 [](https://web.archive.org/employment/)  
 [](https://web.archive.org/government/)  
+[](https://web.archive.org/law/)  
 [](https://web.archive.org/healthsafety/)  
 [](https://web.archive.org/living/)  
 [](https://web.archive.org/visiting/)  
@@ -39,7 +40,7 @@
 > 
 >   * To protect the information being gathered this site has security measures in place including firewalls, encryption, and authenticated access to internal databases where needed. 
 >   * Specific information regarding encryption, credit card information, social security numbers and cookies will be addressed on the pages that use this information.
->   * If you during your visit to our site you send an email, the email address will be collected as a means to reply to you. We may forward your message to another agency for appropriate action. 
+>   * If you send an email from DiscoverND, the email address will be collected as a means to reply to you. We may forward your message to another agency for appropriate action. 
 > 
 
 > 
