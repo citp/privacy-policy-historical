@@ -1,6 +1,19 @@
-> *The following text is extracted and transformed from the evga.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022310id_/http%3A//www.evga.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evga.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306192854id_/http%3A//www.evga.com/privacy.asp) for the most accurate reproduction.*
 
-# eVGA.com Home Page
+# EVGA | Intelligent Innovation
+
+**_Principles_  
+**  
+· eVGA.com, Inc. will not release your personal data to anyone else without your consent.
+
+· eVGA.com, Inc does not monitor individual traffic patterns on our site \- only aggregate user behavior is collected. 
+
+· You may change the status of whether you wish to receive eVGA.com, Inc offers and communications at anytime.
+
+ _ **  
+**_
+
+**_Gathering of Information_**
 
 **· Optional Registration**  
 eVGA.com, Inc offers free, voluntary registration to users. By registering, users can enter the site without having to log on each time; users who register will have complete access to all content and resources on the site. During registration the user is required to supply a username, password and email address, and must answer mandatory survey questions about of a general nature
@@ -18,10 +31,15 @@ Occasionally eVGA.com, Inc conducts user surveys to better target our content to
 A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited and to allow easy access to restricted areas of the website. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. eVGA.com, Inc uses cookies to simplify access to restricted areas and to track user traffic in aggregate. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You can refuse cookies by turning them off in your browser. You do not need to have cookies turned on to use eVGA.com.
 
  _ **Use of the Information  
-**_  
+**_
+
 eVGA.com, Inc uses any information voluntarily given by our users to enhance their experience, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users.   
 As stated above, eVGA.com, Inc uses information that users voluntarily provide in order to send out electronic newsletters and to enable users to move seamlessly through the website. We send out newsletters to subscribers on a regular and occasionally send out special editions when we think subscribers might be particularly interested in something we are doing.   
-We use tracking information to determine which areas our site users like and don't like based on traffic to those areas. eVGA.com, Inc does not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. _**Maintenance Policy**_ The Industry Standard gives users options wherever necessary and practical. Such choices include: 
+We use tracking information to determine which areas our site users like and don't like based on traffic to those areas. eVGA.com, Inc does not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. 
+
+_**Maintenance Policy**_
+
+The Industry Standard gives users options wherever necessary and practical. Such choices include: 
 
 · Opting not to receive our electronic newsletters when registering.   
 · Opting not to provide certain personal information when registering or when participating in surveys.   
