@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202151618id_/http%3A//thehuddle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehuddle.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606204045id_/http%3A//thehuddle.com/site/privacy.htm) for the most accurate reproduction.*
 
-# Fantasy Football in The Huddle
+# Fantasy Football in The Huddle :: Privacy Policy
 
 InterSport, Inc. ("InterSport") respects your right to the privacy of the personal information you provide us on our web sites. Unless you designate otherwise, or we state otherwise in this policy or at the time information is collected, any personal information you provide to InterSport will not be disclosed to outside parties. The following policy is intended to explain how your personal information will be treated as you make use of our sites and their features. Personal information includes your name, street and e-mail addresses, billing information, click-through activity and any other personal information you may provide here. 
 
