@@ -1,52 +1,32 @@
-<!--The following is the downloaded HTML source of the chiefs.com privacy policy that was archived on 2001-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011128155043id_/http%3A//sports.nfl.com/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chiefs.com privacy policy that was archived on 2002-02-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020205134042id_/http%3A//www.nfl.com/help/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>NFL.com: Privacy Policy</title>
 <script language="javascript" type="text/javascript" src="/index.js"></script>
 <script language="javascript">
 //-- begin CSS loader --
-//window.name = "_thewindow";
-browser = navigator.appName;
-version = navigator.appVersion;
-os = navigator.platform;
-ie = "Microsoft Internet Explorer";
-netscape = "Netscape";
-mac = "MacPPC";
+var NS4 = (document.layers) ? 1 : 0;
+var IE = (document.all) ? 1 : 0;
+var DOM = (parseInt(navigator.appVersion) >=5) ? 1 : 0;
+var MAC = ((navigator.appVersion.indexOf("PPC") >0) || (navigator.appVersion.indexOf("Mac") >0)) ? 1 : 0;
 
-if(browser == netscape && os != mac) {
-   document.write('<link rel=stylesheet type="text/css" href="/includes/css/index_net.css" title=master>');
-} else if(browser == ie && os == mac && version == '4.0 (compatible; MSIE 5.0; Macintosh; I; PPC)') {
-   document.write('<link rel=stylesheet type="text/css" href="/includes/css/index_ie_mac.css" title=master>');
-} else if(browser == netscape && os == mac) {
-   document.write('<link rel=stylesheet type="text/css" href="/includes/css/index_nn_mac.css" title=master>');
-} else if(browser == ie && os == mac) {
-   document.write('<link rel=stylesheet type="text/css" href="/includes/css/index_ie_mac.css" title=master>');
-}  else {
-   document.write('<link rel=stylesheet type="text/css" href="/includes/css/index.css" title=master>');
-}
+if (NS4 && !MAC) {document.write('<link rel=stylesheet type="text/css" href="/includes/css/index_net.css" title=master>');}
+else if (NS4 && MAC) {document.write('<link rel=stylesheet type="text/css" href="/includes/css/index_nn_mac.css" title=master>');}
+else if (IE && MAC) {document.write('<link rel=stylesheet type="text/css" href="/includes/css/index_ie_mac.css" title=master>');}
+else if (DOM && !IE) {document.write('<link rel=stylesheet type="text/css" href="/includes/css/index_ns6.css" title=master>');}
+else {document.write('<link rel=stylesheet type="text/css" href="/includes/css/index.css" title=master>'); }
+
 //-- end CSS loader --
 
 //-- begin AOL Frameset code --
 var ua = 'ia_archiver';
-var isAOL = false;
-if (ua.indexOf("AOL") > 0 ) {
-	document.domain="nfl.com";
-	isAOL = true;
-	}
-
-var thePage= unescape(document.location); 
-var parentPage =  unescape(window.parent.location.href); 
-
-if ((parentPage == thePage) && (document.all) && (isAOL)) 	{
-	window.location.replace("http://www.nfl.com/includes/AOLframe.html?row2col1=" +thePage);
-	}
-	
-
+if ((ua.indexOf("AOL") > 0 ) && (!parent.frames[1]))
+	top.location.href = 'http://www.nfl.com/partners/aol/frameset.htm?' + location.href;
 //-- end AOL Frameset code --
 
-</script><link rel="stylesheet" type="text/css" href="/includes/css/index_net.css" title="master">
-<!--Deployed By kriess 10.7.2001 13:49:10 Log#:20011007134905_17048_kriess-->
+</script><link rel="stylesheet" type="text/css" href="/includes/css/index_ns6.css" title="master">
+<!--Deployed By jonathan 12.11.2001 16:24:28 Log#:20011211162426_23868_jonathan-->
 
 </head>
 
@@ -79,7 +59,7 @@ if (!random) {var abc = Math.random() + "";	var random = abc.substring(2,abc.len
 /*banner spot*/
 document.write('<script src="http://ad.doubleclick.net/adj/nfl.com/'+vTag+';team='+dclkteam+';sz=468x60;tile=1;ord='+random+'?"><\/script>');
 // -->
-</script><script src="http://ad.doubleclick.net/adj/nfl.com/stories;feat=stories;arena=nfl;type=psa;page=lower;team=NUL;sz=468x60;tile=1;ord=13138028369877297?"></script>
+</script><script src="http://ad.doubleclick.net/adj/nfl.com/stories;feat=stories;arena=nfl;type=psa;page=lower;team=NUL;sz=468x60;tile=1;ord=6856093916613464?"></script>
 <!-- BEGIN WEBSIDESTORY CODE v6.5 (no 1.0)-->
 <!-- COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy -->
 <script language="javascript" id="_hbc">
@@ -109,7 +89,7 @@ document.write("<\!--");
 /*shop spot*/
 document.write('<script src="http://ad.doubleclick.net/adj/buttons.store.nfl.com/'+vTag+';team='+dclkteam+';pos=store;sz=155x60;tile=4;ord='+random+'?"><\/script>');
 // -->
-</script><script src="http://ad.doubleclick.net/adj/buttons.store.nfl.com/stories;feat=stories;arena=nfl;type=psa;page=lower;team=NUL;pos=store;sz=155x60;tile=4;ord=13138028369877297?"></script>
+</script><script src="http://ad.doubleclick.net/adj/buttons.store.nfl.com/stories;feat=stories;arena=nfl;type=psa;page=lower;team=NUL;pos=store;sz=155x60;tile=4;ord=6856093916613464?"></script>
 </center></td>
 </tr>
 </tbody></table>
@@ -145,7 +125,11 @@ document.write('<script src="http://ad.doubleclick.net/adj/buttons.store.nfl.com
 	<tbody><tr><td width="130" height="20" bgcolor="FFFFFF"><spacer type="block" width="130" height="20"></spacer></td></tr>
 	<tr><td valign="top" bgcolor="FFFFFF"><!--include virtual="/includes/ln1.htm" -->
 <table border="0" cellspacing="0" cellpadding="0" width="128">
-<tbody><tr><td height="17" class="lnH">&nbsp;<a href="http://www.nfl.com/fantasy/">FANTASY</a></td></tr>
+<tbody><tr><td height="17"><a href="http://www.superbowl.com/"><img src="http://images.nfl.com/includes/playoffsLogo.gif" width="128" height="36" border="0" alt=""></a></td></tr>
+<tr><td height="2"><spacer type="BLOCK" width="1" height="2"></spacer></td></tr>
+<tr><td height="17" class="ln">&nbsp;<a href="http://www.superbowl.com">SUPERBOWL.COM</a></td></tr>
+<tr><td height="2"><spacer type="BLOCK" width="1" height="2"></spacer></td></tr>
+<tr><td height="17" class="ln">&nbsp;<a href="http://fantasy.superbowl.com/mp/splash/home?product=pc&amp;r=nasbt_home">FANTASY</a></td></tr>
 <tr><td height="2"><spacer type="BLOCK" width="1" height="2"></spacer></td></tr>
 <tr><td height="17" class="ln">&nbsp;<a href="http://www.nfl.com/teams/">TEAMS</a></td></tr>
 <tr><td height="2"><spacer type="BLOCK" width="1" height="2"></spacer></td></tr>
@@ -157,21 +141,24 @@ document.write('<script src="http://ad.doubleclick.net/adj/buttons.store.nfl.com
 <tr><td height="2"><spacer type="BLOCK" width="1" height="2"></spacer></td></tr>
 <tr><td height="17" class="ln">&nbsp;<a href="http://www.nfl.com/tvradio/">TV &amp; RADIO</a></td></tr>
 <tr><td height="2"><spacer type="BLOCK" width="1" height="2"></spacer></td></tr>
-<tr><td height="17" class="ln">&nbsp;<a href="http://newsletter.nfl.com/signup/f&amp;&amp;&amp;hpotf/" target="_blank">NEWSLETTER</a></td></tr>
-<tr><td height="2"><spacer type="BLOCK" width="1" height="2"></spacer></td></tr>
+<!--
+<tr><td height="17" class="ln">&nbsp;<a href="http://newsletter.nfl.com/signup/f&&&hpotf/" target="_blank">NEWSLETTER</a></td></tr>
+<tr><td HEIGHT="2"><SPACER TYPE=BLOCK WIDTH=1 HEIGHT=2></td></tr>
+-->
 <tr><td height="17" class="ln">&nbsp;<a href="http://www.nfl.com/tickets/">TICKETS</a></td></tr>
 <tr><td height="2"><spacer type="BLOCK" width="1" height="2"></spacer></td></tr>
 <tr><td height="17" class="ln">&nbsp;<a href="http://auctions.nfl.com/" target="_blank">AUCTIONS</a></td></tr>
 <tr><td height="2"><spacer type="BLOCK" width="1" height="2"></spacer></td></tr>
 <tr><td height="17" class="ln">&nbsp;<a href="http://search.nfl.com/nfl/">SEARCH</a></td></tr>
 <tr><td height="2"><spacer type="BLOCK" width="1" height="2"></spacer></td></tr>
-<tr><td height="17" class="ln">&nbsp;<a href="http://www.nflshop.com/home/default.cfm?SID=7227">NFL SHOP</a></td></tr>
+<tr><td height="17" class="ln">&nbsp;<a href="http://www.nflshop.com/home/default.cfm?SID=7193">NFL SHOP</a></td></tr>
 <tr><td height="2"><spacer type="BLOCK" width="1" height="2"></spacer></td></tr>
 </tbody></table>
 
 
 
-<!--Deployed By andrade 10.23.2001 11:24:2 Log#:20011023112358_25939_andrade-->
+
+<!--Deployed By ldivock 1.29.2002 10:52:17 Log#:20020129105209_20400_ldivock-->
 </td></tr>
 	<tr><td width="130" height="10" bgcolor="ffffff"><spacer type="block" width="130" height="10"></spacer></td></tr>
 	<tr><td width="130" height="10" bgcolor="000A78"><spacer type="block" width="130" height="10"></spacer></td></tr>
@@ -192,6 +179,8 @@ window.top.location.href = selectedURL;
 <select name="stand" onchange="JumpURL(this)" class="blk" size="2">
 <option value="http://www.nflplayers.com/" class="blk">NFLPlayers.com</option>
 <option value="http://www.nfl.com/games/" class="blk">Games</option>
+<option value="http://www.superbowl.com/" class="blk">SuperBowl.com</option>
+<option value="http://www.probowl.com/" class="blk">Pro Bowl</option>
 <option value="http://www.nfl.com/espanol/" class="blk">Español</option>
 <option value="http://www.nfl.com/wireless/" class="blk">Wireless</option>
 <option value="http://www.playfootball.com" class="blk">Kids</option>
@@ -203,11 +192,12 @@ window.top.location.href = selectedURL;
 <option value="http://www.nfl.com/qbclub/" class="blk">QB Club</option>
 <option value="http://www.nfl.com/coachesclub/" class="blk">Coaches Club</option>
 <option value="http://www.nfl.com/ticket/" class="blk">NFL Sunday Ticket</option>
-<option value="http://www.nfl.com/nflforher" class="blk">NFL For Her</option>
+<option value="http://www.nfl.com/nflforher/" class="blk">NFL For Her</option>
+<option value="http://www.nfl.com/fans/index.html" class="blk">In the Community</option>
 <option value="http://www.sportsline.com/links/6/1/125/linktonflcontestpagefromleftnavdropdown.cgi" class="blk">Contests</option>
 </select></font>
 </center></td></tr>
-</tbody></table><!--Deployed By jonathan 11.8.2001 12:33:48 Log#:20011108123346_2574_jonathan-->
+</tbody></table><!--Deployed By ldivock 1.8.2002 15:55:59 Log#:20020108155556_1048_ldivock-->
 
 	<br>&nbsp;
 </td>
@@ -383,7 +373,7 @@ Ft. Lauderdale, Florida 33309
 <tbody><tr><td colspan="2" width="772" height="3"><spacer type="block" width="772" height="3"></spacer></td></tr>
 <tr><td width="5" height="1"><spacer type="block" width="5" height="1"></spacer></td><td valign="top">
 <font class="foot">
-© 2001, NFL Enterprises, L.P. NFL and the NFL shield design are registered trademarks of the National Football League. The team names, logos and uniform designs are registered trademarks of the teams indicated. NFL footage © NFL Productions LLC. <a href="http://www.nfl.com/help/index.html">NFL.COM Help Section</a> | <a href="http://www.nfl.com/help/privacy.html">Privacy Policy</a><br>&nbsp;
+© 2002, NFL Enterprises, L.P. NFL and the NFL shield design are registered trademarks of the National Football League. The team names, logos and uniform designs are registered trademarks of the teams indicated. NFL footage © NFL Productions LLC. <a href="http://www.nfl.com/help/index.html">NFL.COM Help Section</a> | <a href="http://www.nfl.com/help/privacy.html">Privacy Policy</a> | <a href="http://www.nfl.com/help/terms.html">Terms and Conditions</a><br>&nbsp;
 </font>
 </td></tr></tbody></table>
  
@@ -494,7 +484,7 @@ if (ableToPop != false) { // if not AOL write popup tags
 		}	// end if nHits >0
 } // end if ableToPop (AOL filter)
 //-->
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/popups.nfl.com/stories;feat=stories;arena=nfl;type=psa;page=lower;sz=1x1;tile=6;ord=13138028369877297?" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" hspace="0" vspace="0" scrolling="no"></iframe></nolayer><layer src="http://ad.doubleclick.net/adl/popups.nfl.com/stories;feat=stories;arena=nfl;type=psa;page=lower;sz=1x1;tile=6;ord=13138028369877297?" width="1" height="1" visibility="show"></layer>
+</script><nolayer><iframe src="http://ad.doubleclick.net/adi/popups.nfl.com/stories;feat=stories;arena=nfl;type=psa;page=lower;sz=1x1;tile=6;ord=6856093916613464?" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" hspace="0" vspace="0" scrolling="no"></iframe></nolayer><layer src="http://ad.doubleclick.net/adl/popups.nfl.com/stories;feat=stories;arena=nfl;type=psa;page=lower;sz=1x1;tile=6;ord=6856093916613464?" width="1" height="1" visibility="show"></layer>
   
 <script language="JavaScript1.2" src="http://adcontroller.unicast.com/java32/wrapper/wrapper.js"></script> 
 
