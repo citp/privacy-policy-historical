@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605163105id_/http%3A//gopetition.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopetition.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210150714id_/http%3A//www.gopetition.com/privacy.php) for the most accurate reproduction.*
 
-# - Apolitical, free, online petition hosting service
+# - Free, online petition hosting/writing
 
 **Understanding**  
 gopetition.com recognises that your privacy is very important to you and that you have a right to control your personal information. We know that providing personal information is an act of trust and we take that seriously. Petition signature information you provide us is not displayed anywhere publicly on the site, unlike other online petition hosting services. This means that your email address cannot be taken from our site and added to bulk mailing lists. The only people who have access to your personal information are gopetition.com staff and the author of the particular petition/s you have signed. The authors name and email address can be found at the bottom of each petitions information page. If you have any doubts about how the author will be using your information, then please feel free to email them directly.
