@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brittany-ferries.co.uk privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604162616id_/http%3A//brittany-ferries.co.uk/index.cfm%3Farticleid%3D688) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brittany-ferries.co.uk privacy policy that was archived on 2002-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021213215545id_/http%3A//brittany-ferries.co.uk/index.cfm%3Farticleid%3D688) for the most accurate reproduction.*
 
 # Brittany Ferries - Security & Privacy
 
