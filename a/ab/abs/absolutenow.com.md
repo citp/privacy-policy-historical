@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutenow.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604064930id_/http%3A//www.absolutenow.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutenow.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201154055id_/http%3A//www.absolutenow.com/privacypolicy.html) for the most accurate reproduction.*
 
 # AbsoluteNow > Privacy Policy
 
@@ -9,9 +9,9 @@
 | **[Home](http://www.absolutenow.com/) > Privacy Policy**  
 ---  
   
-**Please note, AbsoluteNow is an eFront Media Company. To view eFront's[privacy policy](tp://www.efront.com/privacy.php), click here.**
+**Please note, AbsoluteNow is an AbsoluteNow Media Company. To view AbsoluteNow's[privacy policy](tp://www.efront.com/privacy.php), click here.**
 
-Privacy on the Internet has become a growing concern for both webmasters and web surfers. AbsoluteNow's policy is to respect and protect the privacy of our users. This page will allow you to see how we collect information from you and how we use it. When you register with our mailing list or send a suggestion or trivia answer to AbsoluteNow, you're personal information will be kept highly confidential. There are some instances where your name and message will be reproduced, but this will be done solely with your consent. There are also instances where certain emails will be used as examples on this [page](https://web.archive.org/web/20010604064930id_/http%3A//www.absolutenow.com/crazyletters.html), however personal information will not be used, and the option to have these mailings removed will be yours, and your desire will be immediately met.
+Privacy on the Internet has become a growing concern for both webmasters and web surfers. AbsoluteNow's policy is to respect and protect the privacy of our users. This page will allow you to see how we collect information from you and how we use it. When you register with our mailing list or send a suggestion or trivia answer to AbsoluteNow, you're personal information will be kept highly confidential. There are some instances where your name and message will be reproduced, but this will be done solely with your consent. There are also instances where certain emails will be used as examples on this [page](https://web.archive.org/web/20011201154055id_/http%3A//www.absolutenow.com/crazyletters.html), however personal information will not be used, and the option to have these mailings removed will be yours, and your desire will be immediately met.
 
 We will not disclose your personal information to third parties without your consent. AbsoluteNow may disclose user information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) AbsoluteNow's rights or property, other AbsoluteNow users, or anyone else that could be harmed by such activities. AbsoluteNow may disclose user information when we believe in good faith that the law requires it.
 
@@ -80,11 +80,7 @@ Here is a quick run down on some privacy issues at AbsoluteNow:
 
 * * *
 
-The following are third parties that AbsoluteNow currently works with.
-
-[Engage Media](http://www.flycast.com/)
-
-> This site, Absolute Celebrities, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [http://www.engage.com/privacy.](http://www.engage.com/privacy)
+The following are third parties that AbsoluteNow currently works with
 
 [Music Vision](http://www.musicvision.com/)
 
