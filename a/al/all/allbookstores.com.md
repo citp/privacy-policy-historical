@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2001-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010404223314id_/http%3A//allbookstores.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201071954id_/http%3A//allbookstores.com/privacy.htm) for the most accurate reproduction.*
 
 # AllBookstores.com - Privacy Policy
 
