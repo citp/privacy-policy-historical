@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the wordmagicsoft.com privacy policy that was archived on 2002-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021204095420id_/http%3A//www.wordmagicsoft.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wordmagicsoft.com privacy policy that was archived on 2003-06-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030620183517id_/http%3A//www.wordmagicsoft.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
   <title>Word Magic Software: English-Spanish Translation Software and Language Tools: dictionary, thesaurus, verb conjugator, spell checker</title>
@@ -14,10 +14,12 @@
 p {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: normal; color: #000000; text-decoration: none; margin-top: 3px; margin-right: 5px; margin-bottom: 3px; margin-left: 5px}
 h1 {  font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #006699; text-decoration: none; margin-top: 3px; margin-right: 5px; margin-bottom: 3px; margin-left: 5px}
 h2 {  font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; color: #006699; text-decoration: none; margin-top: 3px; margin-right: 5px; margin-bottom: 3px; margin-left: 5px}
+h3 {  font-family: Arial, Helvetica, sans-serif; font-size: 16px; font-weight: bold; color: #FF9900; text-decoration: none; margin-top: 3px; margin-right: 5px; margin-bottom: 3px; margin-left: 5px}
+h4 {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FFFFFF; text-decoration: none; margin-top: 3px; margin-right: 5px; margin-bottom: 3px; margin-left: 5px}
 a {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #006699; text-decoration: none; font-weight: bold}
 a:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FF9900; text-decoration: none; font-weight: bold}
-.nav {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; text-decoration: none; font-weight: normal}
-.nav:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFCC00; text-decoration: none; font-weight: normal}
+.nav {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFFFFF; text-decoration: none; font-weight: bold}
+.nav:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; color: #FFCC00; text-decoration: none; font-weight: bold}
 .menu {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: normal; color: #FFFFFF; text-decoration: none;}
 .menu:hover {  font-family: Arial, Helvetica, sans-serif; font-size: 11px; font-weight: bold; color: #FF9900; text-decoration: none;}
 .press {  font-family: Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FFFFFF; text-decoration: none; margin: 5px;}
@@ -62,26 +64,16 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 }
 
 function SearchForWord() {
+window.open("","windowDictionary","dependent,resizable,scrollbars,titlebar,width=400,height=272");
+	document.searchform.submit();
+  document.searchform.editWord.value = ""
+}
 
-window.open("",
-	              "windowDictionary",
-				  "dependent,resizable,scrollbars,titlebar,width=400,height=272");
-
-      document.searchform.submit();
-	  
-	  document.searchform.editWord.value = ""
-
-    }
-
-function LoadTutorial(tutorial)
-	{
-		if (window.confirm("Loading this tutorial may take several minutes depending on your Internet connection.  Do you wish to continue?"))
-			{
-				window.open(tutorial,
-							"windowTutorial",
-							"dependent,resizable,scrollbars,titlebar,fullscreen,width=800,height=600");
-			}
+function LoadTutorial(tutorial){
+	if (window.confirm("Loading this tutorial may take several minutes depending on your Internet connection.  Do you wish to continue?")){
+		window.open(tutorial,"windowTutorial","dependent,resizable,scrollbars,titlebar,fullscreen,width=800,height=600");
 	}
+}
 		
 function MM_nbGroup(event, grpName) { //v3.0
   var i,img,nbArr,args=MM_nbGroup.arguments;
@@ -116,23 +108,13 @@ function MM_nbGroup(event, grpName) { //v3.0
 
 function fwLoadMenus() {
   if (window.fw_menu_0) return;
-  window.fw_menu_0 = new Menu("root",235,18,"Arial, Helvetica, sans-serif",11,"#ffffff","#ffffff","#0571b0","#0099ff");
+  window.fw_menu_0 = new Menu("root",175,18,"Arial, Helvetica, sans-serif",11,"#ffffff","#ffffff","#0571b0","#0099ff");
   fw_menu_0.addMenuItem("Products Page","location='/products'");
-  fw_menu_0.addMenuItem("Professional Suite Premier","location='/wmsuitepremier'");
-  fw_menu_0.addMenuItem("Professional Suite Deluxe","location='/wmsuitedeluxe'");
-  fw_menu_0.addMenuItem("English Spanish Interpreter Professional","location='/esipro'");
-  fw_menu_0.addMenuItem("English Spanish Interpreter Standard","location='/esistd'");
-  fw_menu_0.addMenuItem("English Spanish Interpreter Beginner's","location='/esibgn'");
-  fw_menu_0.addMenuItem("Translation Dictionary &amp; Tools Professional","location='/tdtpro'");
-  fw_menu_0.addMenuItem("Translation Dictionary &amp; Tools Standard","location='/tdtstd'");
-  fw_menu_0.addMenuItem("Translation Dictionary &amp; Tools Beginner's","location='/tdtbgn'");
-  fw_menu_0.addMenuItem("Point and Click Translator Professional","location='/pctpro'");
-  fw_menu_0.addMenuItem("Point and Click Translator Standard","location='/pctstd'");
-  fw_menu_0.addMenuItem("Point and Click Translator Beginner's","location='/pctbgn'");
-  fw_menu_0.addMenuItem("Business &amp; Finance Dictionary","location='/wmtbus'");
-  fw_menu_0.addMenuItem("Legal Dictionary","location='/wmtlaw'");
-  fw_menu_0.addMenuItem("Information Technology Dictionary","location='/wmtit'");
-  fw_menu_0.addMenuItem("Combined Package Dictionary","location='/wmtcom'");
+  fw_menu_0.addMenuItem("Professional Suite","location='/wmsuite'");
+  fw_menu_0.addMenuItem("English Spanish Interpreter","location='/esi'");
+  fw_menu_0.addMenuItem("Translation Dictionary &amp; Tools","location='/tdt'");
+  fw_menu_0.addMenuItem("Point and Click Translator","location='/pct'");
+  fw_menu_0.addMenuItem("Field-Specific Dictionaries","location='/wmtcom'");
    fw_menu_0.hideOnMouseOut=true;
   window.fw_menu_1 = new Menu("root",150,18,"Arial, Helvetica, sans-serif",11,"#ffffff","#ffffff","#0571b0","#0099ff");
   fw_menu_1.addMenuItem("Professional Line","location='/buynow#proline'");
@@ -179,7 +161,7 @@ function fwLoadMenus() {
   fw_menu_6.addMenuItem("Translation Jokes","location='/entertainment#spa'");
   fw_menu_6.addMenuItem("My Spell Checker","location='/entertainment#mys'");
    fw_menu_6.hideOnMouseOut=true;
-  window.fw_menu_7 = new Menu("root",165,18,"Arial, Helvetica, sans-serif",11,"#ffffff","#ffffff","#0571b0","#0099ff");
+  window.fw_menu_7 = new Menu("root",200,18,"Arial, Helvetica, sans-serif",11,"#ffffff","#ffffff","#0571b0","#0099ff");
   fw_menu_7.addMenuItem("Purchasing","location='/faq#Q_01'");
   fw_menu_7.addMenuItem("Installation","location='/faq#Q_02'");
   fw_menu_7.addMenuItem("Registration","location='/faq#Q_03'");
@@ -187,6 +169,8 @@ function fwLoadMenus() {
   fw_menu_7.addMenuItem("Installation in a New Computer","location='/faq#Q_05'");
   fw_menu_7.addMenuItem("Accuracy","location='/faq#Q_06'");
   fw_menu_7.addMenuItem("Colloquial & Mexican Spanish","location='/faq#Q_07'");
+  fw_menu_7.addMenuItem("Word Magic Software: 4.0 Release ","location='/faq#Q_08'");
+  fw_menu_7.addMenuItem("Downloading Updates and Upgrades","location='/faq#Q_09'");
    fw_menu_7.hideOnMouseOut=true;
    fw_menu_7.childMenuIcon="images2/menu/arrows.gif";
   fw_menu_7.writeMenus();
@@ -246,73 +230,57 @@ function fwLoadMenus() {
   </tr>
       <tr> 
     <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/cart" class="menu">View 
-            Shopping Cart&nbsp;</a></p>
+          <p>&nbsp;• <a href="/products" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_0,150,144);">Products&nbsp;</a></p>
         </td>
       </tr>
       <tr> 
     <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/products" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_0,150,154);">Products&nbsp;</a></p>
-        </td>
-      </tr>
+          <p>&nbsp;• <a href="/download" class="menu" onmouseover="MM_nbGroup('out');hideActiveMenus();">Free Trial &nbsp;</a></p>
+      </td></tr>
       <tr> 
     <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/buynow" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_1,150,174);"> 
-            Buy Now&nbsp;</a></p>
-        </td>
-      </tr>
-      <tr> 
-    <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/awards" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_2,150,194);">Awards&nbsp;</a></p>
-        </td>
-      </tr>
-      <tr> 
-    <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;•<a href="/translator" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_3,150,214);"> 
-          <!--p>&nbsp;&#149;<a href="/offline" class="menu"-->
+          <p>&nbsp;•<a href="/translator" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_3,150,184);"> 
             Try Online&nbsp;</a></p>
         </td>
       </tr>
       <tr> 
     <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/whatto" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_4,150,234);">Translation 
+          <p>&nbsp;• <a href="/buynow" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_1,150,204);"> 
+            Buy Now&nbsp;</a></p>
+        </td>
+      </tr>
+      <tr> 
+    <td bgcolor="#0571B0" colspan="2"> 
+          <p>&nbsp;• <a href="/cart" class="menu" onmouseover="MM_nbGroup('out');hideActiveMenus();">View Shopping Cart&nbsp;</a></p>
+        </td>
+      </tr>
+      <tr> 
+    <td bgcolor="#0571B0" colspan="2"> 
+          <p>&nbsp;• <a href="/faq" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_7,150,244);">FAQ's&nbsp;</a></p>
+      </td></tr>
+      <!--tr> 
+    <td bgcolor="#0571B0" colspan="2"> 
+          <p>&nbsp;&#149; <a href="/whatto" class="menu" onMouseOut="MM_nbGroup('out');FW_startTimeout();"  onMouseOver="window.FW_showMenu(window.fw_menu_4,150,234);" >Translation 
             Software&nbsp;</a></p>
-      </td></tr>
+      </tr-->
       <tr> 
     <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/testimonials_editorial" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_5,150,254);">Testimonials&nbsp;</a></p>
+          <p>&nbsp;• <a href="/support" class="menu" onmouseover="MM_nbGroup('out');hideActiveMenus();">Support&nbsp;</a></p>
       </td></tr>
+      <!--tr> 
+    <td bgcolor="#0571B0" colspan="2"> 
+          <p>&nbsp;&#149; <a href="/entertainment" class="menu" onMouseOut="MM_nbGroup('out');FW_startTimeout();"  onMouseOver="window.FW_showMenu(window.fw_menu_6,150,310);" >Humor&nbsp;</a></p>
+      </tr-->
       <tr> 
     <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/support" class="menu">Support&nbsp;</a></p>
-      </td></tr>
-      <tr> 
-    <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/entertainment" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_6,150,310);">Humor&nbsp;</a></p>
-      </td></tr>
-      <tr> 
-    <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/aboutus" class="menu">About 
-            Us&nbsp;</a></p>
-      </td></tr>
-      <tr> 
-    <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/download" class="menu">Downloads&nbsp;</a></p>
-      </td></tr>
-      <tr> 
-    <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/faq" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_7,150,250);">FAQ's&nbsp;</a></p>
-      </td></tr>
-      <tr> 
-    <td bgcolor="#0571B0" colspan="2"> 
-          <p>&nbsp;• <a href="/contactus" class="menu">Contact 
+          <p>&nbsp;• <a href="/contactus" class="menu" onmouseover="MM_nbGroup('out');hideActiveMenus();">Contact 
             Us&nbsp;</a></p>
       </td></tr>
       <tr> 
     	  <td height="1" colspan="2" bgcolor="#FFFFFF"><img src="/images2/spacer.gif" width="145" height="1" border="0"></td>
 	  </tr> 
         <tr><td bgcolor="#676767" height="25" colspan="2" valign="middle"> 
-            <p><b><a href="presscenter" class="press">Press Center</a></b></p>
+            <p><b><a href="presscenter" class="menu" onmouseover="MM_nbGroup('out');hideActiveMenus();">Press Center</a></b></p>
         </td>
   	</tr>
   <tr> 
@@ -320,43 +288,55 @@ function fwLoadMenus() {
   </tr>
   <tr> 
     <td bgcolor="#0571B0" colspan="2"> 
-          <p>• <a href="/corporate_backgrounder" class="menu">Corporate 
+          <p>• <a href="/corporate_backgrounder" class="menu" onmouseover="MM_nbGroup('out');hideActiveMenus();">Corporate 
             Backgrounder</a></p>
      </td>
   </tr>
   <tr> 
     <td bgcolor="#0571B0" colspan="2"> 
-          <p>•<a href="/immediate_release" class="menu"> 
+          <p>•<a href="/immediate_release" class="menu" onmouseover="MM_nbGroup('out');hideActiveMenus();"> 
             Press Releases</a></p>
      </td>
   </tr>
-  <tr> 
+	<tr> 
     <td bgcolor="#0571B0" colspan="2"> 
-          <p>• <a href="/products_services" class="menu">Fast 
+          <p>• <a href="/testimonials_editorial" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_5,150,384);">Testimonials&nbsp;</a></p>
+	</td></tr>
+	<tr> 
+    <td bgcolor="#0571B0" colspan="2"> 
+          <p>• <a href="/awards" class="menu" onmouseout="MM_nbGroup('out');FW_startTimeout();" onmouseover="window.FW_showMenu(window.fw_menu_2,150,394);">Awards&nbsp;</a></p>
+		</td>
+	</tr>
+		<tr> 
+    <td bgcolor="#0571B0" colspan="2"> 
+          <p>• <a href="/aboutus" class="menu" onmouseover="MM_nbGroup('out');hideActiveMenus();">About Us&nbsp;</a></p>
+      </td></tr>
+  <!--tr> 
+    <td bgcolor="#0571B0" colspan="2"> 
+          <p>&#149; <a href="/products_services" class="menu">Fast 
             Facts on Products</a></p>
      </td>
-  </tr>
-  <tr> 
+  </tr-->
+  <!--tr> 
     <td bgcolor="#0571B0" colspan="2"> 
-          <p>• <a href="/facts_trends" class="menu">Trends 
+          <p>&#149; <a href="/facts_trends" class="menu">Trends 
             in Translation</a></p>
      </td>
-  </tr>
-  <tr> 
+  </tr-->
+  <!--tr> 
     <td bgcolor="#0571B0" colspan="2"> 
-          <p>• <a href="/comparatively" class="menu">Comparatively 
+          <p>&#149; <a href="/comparatively" class="menu">Comparatively 
             Speaking</a></p>
      </td>
-  </tr>
+  </tr-->
 </tbody></table>
-    </td></tr><tr>
+</td></tr><tr>
 	<td>
 		<form name="formcart" action="cart" method="post">
 			<input type="hidden" name="prda">
 		</form>
 	</td>
 </tr>
-
 
 		</tbody></table>
     </td>
@@ -390,13 +370,13 @@ ntz=new Date();if((location.href.substr(0,6)=='https:') ||
 data='&an='+escape(navigator.appName)+ '&ck='+document.cookie.length+
 '&rf='+escape(rf)+ '&sl='+escape(navigator.systemLanguage)+
 '&av='+escape(navigator.appVersion)+ '&l='+escape(navigator.language)+
-'&pf='+escape(navigator.platform)+ '&pg='+escape(location.pathname);
+'&pf='+escape(navigator.platform)+ '&pg='+escape('/privacy');
 if(navigator.appVersion.substring(0,1)>'3') {data=data+'&cd='+
 screen.colorDepth+'&rs='+escape(screen.width+ ' x '+screen.height)+
 '&tz='+ntz.getTimezoneOffset()+'&je='+ navigator.javaEnabled()};
 document.write('<img border=0 hspace=0 '+
  'vspace=0 width=1 height=1 src="'+nhp+'://counter2.hitslink.com/'+
- 'statistics.asp?v=1&s=203&acct=wordmagic'+data+'">');</script><img border="0" hspace="0" vspace="0" width="1" height="1" src="https://counter2.hitslink.com/statistics.asp?v=1&amp;s=203&amp;acct=wordmagic&amp;an=Netscape&amp;ck=17&amp;rf=&amp;sl=undefined&amp;av=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;l=en-US&amp;pf=Linux%20x86_64&amp;pg=/web/20021204095420id_/http%253A//www.wordmagicsoft.com/privacy&amp;cd=24&amp;rs=800%20x%20600&amp;tz=0&amp;je=false">
+ 'statistics.asp?v=1&s=203&acct=wordmagic'+data+'">');</script><img border="0" hspace="0" vspace="0" width="1" height="1" src="https://counter2.hitslink.com/statistics.asp?v=1&amp;s=203&amp;acct=wordmagic&amp;an=Netscape&amp;ck=17&amp;rf=&amp;sl=undefined&amp;av=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;l=en-US&amp;pf=Linux%20x86_64&amp;pg=/privacy&amp;cd=24&amp;rs=800%20x%20600&amp;tz=0&amp;je=false">
 <script language="javascript1.2">document.write('<');
 document.write('!--  ');</script><!--  <noscript>
 <img border=0 hspace=0 vspace=0 width=1 height=1 
@@ -419,58 +399,55 @@ src="http://counter2.hitslink.com/stats-ns.asp?acct=wordmagic&v=1&s=203">
     <td width="8" valign="top">&nbsp;</td>
     <td valign="top"> 
       <p><b><br>
-        Word Magic Software: Translation Software and Dictionaries</b> has created 
-        this privacy statement in order to demonstrate our firm commitment to 
-        privacy. The following discloses the information gathering and dissemination 
-        practices for this Web site: <b>Word Magic Software: Translation Software and Dictionaries.</b><br>
-        <br>
-        <b>Registration Forms:</b><br>
-        Our site's registration form requires users to give us contact information 
-        (like their name, email, and postal address), and demographic information 
-        (like their zip code, age, or income level).<br>
-        <br>
-        Contact information from the registration forms is used to ship purchases, 
-        information about our company. The customer's contact information is also 
-        used to get in touch with the customer when necessary.<br>
-        <br>
-        Users may opt-out of receiving future mailings; see the choice/opt-out 
-        section below.<br>
-        <br>
-        Demographic and profile data is also collected at our site.<br>
-        <br>
-        <b>Order Forms:</b><br>
-        Our site uses an order form for customers to request information, products, 
-        and services. We collect contact information (like their email address), 
-        financial information (like their account or credit card numbers), and 
-        demographic information (like their zip code, age, or income level).<br>
-        <br>
-        Contact information from the order forms is used to ship purchases, information 
-        about our company. The customer's contact information is also used to 
-        get in touch with the visitor when necessary.<br>
-        <br>
-        Users may opt-out of receiving future mailings; see the choice/opt-out 
-        section below.<br>
-        <br>
-        Financial information that is collected is used to bill the user for products 
-        and services.<br>
-        <br>
-        Demographic and profile data is also collected at our site.<br>
-        <br>
-        <b>External Links:</b><br>
-        This site contains links to other sites. <b>Word Magic Software: Translation 
-        Software and Dictionaries</b> is not responsible for the privacy practices 
-        or the contents of such Web sites.<br>
-        <br>
-        <b>Choice/Opt-Out:</b><br>
-        Our site provides users the opportunity to opt-out of receiving promotional/marketing 
-        information from us . You can send email to: <a href="mailto:remove@wordmagicsoft.com">remove@wordmagicsoft.com<br>
-        <br>
-        </a><b>Contacting the Web Site</b>:<br>
-        If you have any questions about this privacy statement, the practices 
-        of this site, or your dealings with this Web site, you can contact: <a href="mailto:magicw@wordmagicsoft.com">magicw@wordmagicsoft.com<br>
-        <br>
-      </a></p><a href="mailto:magicw@wordmagicsoft.com">
-    </a></td>
+        Word Magic Software (WMS): Translation Software and Dictionaries </b>is 
+        adamant about preserving the rights of our customers. The following discloses 
+        the information gathering and dissemination practices of this website: 
+        <b>Word Magic Software: Translation Software and Dictionaries. </b></p>
+      <p>&nbsp;</p>
+      <p> </p>
+      <p><b>Registration and Order Forms:</b> Our site’s registration form 
+        requires users to give us contact information (their name, email, and 
+        postal address), and demographic information (zip code, age, income level).</p>
+      <p>&nbsp;</p>
+      <p> </p>
+      <p>Our site uses an order form for customers to request information, products, 
+        and services. We collect contact information (email address), financial 
+        information (account or credit card numbers), and demographic information 
+        (zip code, age, income level).</p>
+      <p>&nbsp;</p>
+      <p> </p>
+      <p>Contact information from either the Registration or Order Form is used 
+        to ship purchases and/or information about the company. The customer’s 
+        contact information is also used to get in touch with the customer when 
+        necessary.</p>
+      <p>&nbsp;</p>
+      <p> </p>
+      <p>Users may opt-out of receiving future mailings: see the choice/opt-out 
+        section below.</p>
+      <p>&nbsp;</p>
+      <p> </p>
+      <p>Financial information that is collected is used to bill the user for 
+        products and services.</p>
+      <p>&nbsp;</p>
+      <p> </p>
+      <p><b>External Links:</b> This site contains links to other web sites. We 
+        do not share any information provided by our users with these or any other 
+        sites. <b>Word Magic Software: Translation Software and Dictionaries</b> 
+        is not responsible for the privacy practices or the contents of such web 
+        sites. </p>
+      <p>&nbsp;</p>
+      <p> </p>
+      <p><b>Choice/Opt-out: </b>Our site provides users the opportunity to opt-out 
+        of receiving promotional/marketing information from us. You can send all 
+        “opt-out” email to: <a href="mailto:remove@wordmagicsoft.com">remove@wordmagicsoft.com.</a></p>
+      <p>&nbsp;</p>
+      <p> </p>
+      <p>Contacting the Web Site: If you have any questions about this privacy 
+        statement, the practices of this site, or your dealings with this Web 
+        site, please contact: <a href="mailto:magicw@wordmagicsoft.com">magicw@wordmagicsoft.com. 
+        </a></p>
+      <p>&nbsp;</p>
+      </td>
   </tr>
   <tr> 
     <td width="8" valign="top"></td>
@@ -490,16 +467,14 @@ src="http://counter2.hitslink.com/stats-ns.asp?acct=wordmagic&v=1&s=203">
 												<a href="/download">(Downloads)</a> 
 												<a href="/faq">(FAQ)</a> 
 												<a href="/contactus">(Contact us)</a><br>
-        <a href="/return">(Our Return Policy)</a> 
-        <a href="/index">(Home)</a> <a href="/sitemap.html">(Site 
-        map)</a> </p>
+        								<a href="/return">(Our Return Policy)</a> 
+        								<a href="/index">(Home)</a> <a href="/sitemap.html">(Site map)</a> </p>
 											</td>
 										</tr>
 									</tbody></table>
-								
-								</td><td width="170" bgcolor="#CCCCCC" valign="top">
-									
-<table width="170" border="0" cellspacing="0" cellpadding="0">
+								</td>
+								<td width="170" bgcolor="#CCCCCC" valign="top">
+									<table width="170" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
     <td bgcolor="#0571B0"> 
       <script language="JavaScript">
@@ -511,7 +486,7 @@ function zdnet(){
   NewWindow("http://wordmagicsoft.com/zdnetreview","windowresults",500,275,"no");
 }
 function Search(){
-  NewWindow("","windowresults",500,350,"yes");
+  NewWindow("","windowresults",600,600,"yes");
   document.dictionaryform.action = "http://translation.wordmagicsoft.com:9000/onlineESI/wmtserver.dll";
   document.dictionaryform.submit();
 //  document.dictionaryform.editWord.value = "";
@@ -566,7 +541,44 @@ function NewWindow(mypage, myname, w, h, scroll){
 </tbody></table>
     </td>
   </tr>
-	<tr> 
+  <tr> 
+    <td bgcolor="#F19608" valign="top">
+		<table width="170" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr> 
+    <td bgcolor="#FFFFFF" height="1"><img src="/images2/spacer.gif" width="145" height="1" border="0"></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#F19608" width="170" height="25" valign="middle" align="center">
+      <p><font color="#FFFFFF"><strong>News</strong></font></p>
+    </td>
+  </tr>
+  <tr> 
+    <td bgcolor="#FFFFFF" height="1"><img src="/images2/spacer.gif" width="145" height="1" border="0"></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#FFFFFF"><a href="/newsvrelease_4"><img src="/images2/new-version-4_top.gif" width="170" height="85" border="0"></a></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#FFFFFF"><img src="/images2/new-version-4.gif" width="170" height="85" border="0" usemap="#Map"></td>
+  </tr>
+  <tr> 
+    <td bgcolor="#FFFFFF" height="1"><img src="/images2/spacer.gif" width="145" height="1" border="0"></td>
+  </tr>
+  <tr valign="top"> 
+    <td> 
+      <p> Great new release of version 4.0! <font color="#006699"><a href="/newsvrelease_4" class="nav">(more)</a></font></p>
+    </td>
+  </tr>
+</tbody></table>
+<map name="Map">
+  <area shape="rect" coords="-3,67,68,91" href="/download" alt="Download">
+  <area shape="rect" coords="102,68,174,110" href="/buynow" alt="Buy now">
+  <area shape="rect" coords="3,3,167,65" href="/newsvrelease_4">
+</map>
+
+	</td>
+  </tr>
+  <tr>
     <td bgcolor="#CCCCCC" valign="top"> 
       <table width="170" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr> 
@@ -609,31 +621,8 @@ function NewWindow(mypage, myname, w, h, scroll){
     </td>
  </tr>
 </tbody></table>
-	</td>
-  </tr><tr> 
-    <td bgcolor="#CCCCCC" valign="top">
-	
-<table width="170" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td bgcolor="#FFFFFF" height="1"><img src="/images2/spacer.gif" width="145" height="1" border="0"></td>
-  </tr>
-  <tr> 
-    <td bgcolor="#676767" width="170" height="25" valign="middle" align="center">
-      <p><font color="#FFFFFF">News</font></p>
-    </td>
-  </tr>
-  <tr> 
-    <td bgcolor="#FFFFFF" height="1"><img src="/images2/spacer.gif" width="145" height="1" border="0"></td>
-  </tr>
-  <tr valign="top"> 
-    <td> 
-      <p> New software version release! <font color="#006699"><a href="/newsmainpage">(more)</a></font></p>
-    </td>
-  </tr>
-</tbody></table>
-
-	</td>
-  </tr><tr> 
+	</td></tr>
+  <tr>
     <td bgcolor="#FFFFFF" width="170" height="1"><img src="/images2/spacer.gif" width="145" height="1" border="0"></td>
   </tr>
   <tr> 
@@ -669,15 +658,15 @@ function NewWindow(mypage, myname, w, h, scroll){
   </tr>
 </tbody></table>
 								</td>
-         			
-						       
-					
-				
-          
-		
-	
-  
+         			</tr>
+						</tbody></table>       
+					</td>
+				</tr>
+      </tbody></table>    
+		</td>
+	</tr>
+</tbody></table>  
 
 
 
-</tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></body></html>
+</body></html>
