@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publish.csiro.au privacy policy that was archived on 2003-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031003001241id_/http%3A//www.publish.csiro.au/nid/50/aid/285.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publish.csiro.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610105428id_/http%3A//www.publish.csiro.au/nid/50/aid/285.htm) for the most accurate reproduction.*
 
 # CSIRO PUBLISHING - About Us
 
@@ -24,7 +24,7 @@ This site is operated by **CSIRO** PUBLISHING without the use of an external ser
 
 
 
-No attempt will be made to identify users or their browsing activities, except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect the our logs.
+No attempt will be made to identify users or their browsing activities, except in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect our logs.
 
 ### Collection of Personal Information
 
