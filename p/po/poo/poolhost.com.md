@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603200601id_/http%3A//poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolhost.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203174929id_/http%3A//www.poolhost.com/index.asp%3Fpage%3Dprivacy.asp) for the most accurate reproduction.*
 
 # Manage your NFL Football Office Pool Online - PoolHost.com
 
@@ -12,8 +12,4 @@ Users have the option of making their e-mail addresses and last names available 
 
 PoolHost.com reserves the right to change this policy at any time. Should this policy change in such a way as to make some information available outside of PoolHost.com, users would be notified and allowed to opt out of such information sharing first.
 
-[Home](https://web.archive.org/web/20030603200601id_/http%3A//poolhost.com/index.asp?page=main.asp) \- [Contact PoolHost.com](https://web.archive.org/web/20030603200601id_/http%3A//poolhost.com/index.asp?page=contact.asp) \- [Help](https://web.archive.org/web/20030603200601id_/http%3A//poolhost.com/index.asp?page=help.asp) \- [Links](https://web.archive.org/web/20030603200601id_/http%3A//poolhost.com/index.asp?page=links.asp) \- [Privacy Statement](https://web.archive.org/web/20030603200601id_/http%3A//poolhost.com/index.asp?page=privacy.asp)
-
-copyright - © 2002 PoolHost.com - All rights reserved.
-
-|   
+[Home](https://web.archive.org/web/20031203174929id_/http%3A//www.poolhost.com/index.asp?page=main.asp) \- [Contact PoolHost.com](https://web.archive.org/web/20031203174929id_/http%3A//www.poolhost.com/index.asp?page=contact.asp) \- [Help](https://web.archive.org/web/20031203174929id_/http%3A//www.poolhost.com/index.asp?page=help.asp) \- [Links](https://web.archive.org/web/20031203174929id_/http%3A//www.poolhost.com/index.asp?page=links.asp) \- [Privacy Statement](https://web.archive.org/web/20031203174929id_/http%3A//www.poolhost.com/index.asp?page=privacy.asp) \- [Terms of Service](https://web.archive.org/web/20031203174929id_/http%3A//www.poolhost.com/index.asp?page=tos.asp) |   
