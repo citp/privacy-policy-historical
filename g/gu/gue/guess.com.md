@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guess.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602030246id_/http%3A//www.guess.com/section.asp%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guess.com privacy policy that was archived on 2001-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011004213932id_/http%3A//www.guess.com/section.asp%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # GUESS?
 
@@ -6,7 +6,7 @@
 
 **At GUESS.com, we are committed to protecting your privacy.** We firmly believe that electronic security and privacy are necessary for the continued success of the Internet. In support of this, we only use the personal information that you provide to create a more personalized and entertaining experience for you, in accordance with the terms outlined below. 
 
-**Kids policy (individuals under 13 years of age).** GUESS.com is committed to protecting the safety of children online. In compliance with the Children's Privacy Protection Act of 1998, GUESS.com will never knowingly request or use personal information from children under 13 years of age without prior parental consent. If GUESS.com receives actual knowledge that a subscriber is under 13 years of age, GUESS.com will eliminate all personal information relating to this subscriber from our files. 
+**Kid's policy (individuals under 13 years of age).** GUESS.com is committed to protecting the safety of children online. In compliance with the Children's Privacy Protection Act of 1998, GUESS.com will never knowingly request or use personal information from children under 13 years of age without prior parental consent. If GUESS.com receives actual knowledge that a subscriber is under 13 years of age, GUESS.com will eliminate all personal information relating to this subscriber from our files. 
 
 **Information We Gather**
 
@@ -30,6 +30,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Customer Service  
 GUESS.com   
-1901 15th Street   
+1444 Alameda St.  
 Los Angeles, CA 90021  
 [customerservice@guess.com](mailto:customerservice@guess.com)
