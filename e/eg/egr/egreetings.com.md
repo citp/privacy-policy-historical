@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401191815id_/http%3A//www.egreetings.com/warrants.pd) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egreetings.com privacy policy that was archived on 2004-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041228214205id_/http%3A//www.egreetings.com/warrants.pd) for the most accurate reproduction.*
 
 # Find out more about Egreetings.com!
 
@@ -104,7 +104,7 @@ Your IP address can be accessed by eCard recipients in the header of the notific
 
 **YOUR CONTROL OVER YOUR PERSONAL INFORMATION**  
 **Opt-Out/Changing Your Status**  
-At any time, you can change choices you have previously made as to the use of your personal information. Every communication Egreetings.com sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank e-mail to [nomaileg@privacy.Egreetings.com](mailto:nomaileg@privacy.Egreetings.com) and type "unsubscribe" in the subject field. This system is automated and must be contacted from the email address you wish to have removed. Permission changes will be honored as soon as possible after receipt. Please allow 5 to 7 days for processing. Permission changes will not affect any information which you provided to us and which we previously shared with our Business Partners. 
+At any time, you can change choices you have previously made as to the use of your personal information. Every communication Egreetings.com sends you will contain a clearly worded "Opt-Out" or "Unsubscribe" link allowing you to withdraw your permission for future mailings. Alternatively, you can send a blank e-mail to [nomail@privacy.Egreetings.com](mailto:nomail@privacy.Egreetings.com) and type "unsubscribe" in the subject field. This system is automated and must be contacted from the email address you wish to have removed. Permission changes will be honored as soon as possible after receipt. Please allow 5 to 7 days for processing. Permission changes will not affect any information which you provided to us and which we previously shared with our Business Partners. 
 
 **Editing Your Profile**  
 If you are a Member, you have the ability to review and correct your personally identifiable information at any time. Simply click the "My Account" link at the top of each page. From there, you can change your address information, e-mail type, sign-in, and e-mail permissions. You can revise, add, delete, or completely cancel all alerts by clicking the "Reminder" links on the headers of each page. 
@@ -126,7 +126,7 @@ When you place orders for purchased products or access your payment information,
 
 In addition to our online security efforts, we take steps to protect your personal data offline, as well. All of your information, not just the sensitive information mentioned above, is restricted in our offices. Employees are granted access on a need-to-know basis (for example, our billing clerk or a customer service representative). Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Finally, the servers on which we store personally identifiable information are kept in a secure environment, behind a locked cage. 
 
-Egreetings.com' main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms. If you have any questions about the security at our website, you can send an email to [solutions@Egreetings.com.](mailto:solutions@Egreetings.com.)
+Egreetings.com' main servers are operated from a dedicated Internet hosting facility with state-of-the-art physical security features, including smoke detection and fire suppression systems, motion sensors, and 24x7 secured access, as well as video camera surveillance and security breach alarms. If you have any questions about the security at our website, you can send an email to [Customer Service](http://www.egreetings.com/customer/emailus.pd). 
 
 **Changes to the Privacy Policy**  
 Egreetings.com will occasionally update this Privacy Policy in response to changing business circumstances and legal developments. When Egreetings.com posts changes to this Policy, you will see the word "updated" next to the Privacy Policy link on the front page of Egreetings.com Sites. If there are material changes to this Policy or in how Egreetings.com uses your personally identifiable information, Egreetings.com will prominently post such changes prior to implementing the change. Egreetings.com encourages you to periodically review this Policy to be informed of how we are protecting your information. 
@@ -142,4 +142,4 @@ Beware of scams in which persons unknown to you request your screen name, passwo
 
 Always monitor your children's on-line activities and educate them as to the rules for safe Internet use. For more information, [click here](http://www.getnetwise.org/) for the Internet Education Foundation's Online Safety Guide for Kids. 
 
-As always, if you have any questions, please feel free to contact us at [solutions@Egreetings.com. ](mailto:solutions@Egreetings.com.)
+As always, if you have any questions, please feel free to contact us at [Customer Service](http://www.egreetings.com/customer/emailus.pd). 
