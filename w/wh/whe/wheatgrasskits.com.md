@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wheatgrasskits.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405144640id_/http%3A//wheatgrasskits.com/privacy.asp%3Fcid%3D0%26pass%3D%26ctid%3D2759087) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheatgrasskits.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029102420id_/http%3A//wheatgrasskits.com/privacy.asp%3Fctid%3D4723739) for the most accurate reproduction.*
 
 # 10kplus
 
