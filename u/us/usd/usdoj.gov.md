@@ -1,32 +1,39 @@
-> *The following text is extracted and transformed from the usdoj.gov privacy policy that was archived on 2003-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030514012053id_/http%3A//www.usdoj.gov/privacy-file.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdoj.gov privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609191836id_/http%3A//www.usdoj.gov/privacy-file.htm) for the most accurate reproduction.*
 
-# PRIVACY AND SECURITY NOTICE
+# DOJ Privacy Policy
 
-**Thank you for visiting the Department of Justice's Web site and reviewing our privacy and security notice. We remind you that if you link to a site outside of the Department of Justice, you are subject to the policies of the new site.**
+Thank you for visiting the Department of Justice's Web site and reviewing our Privacy Policy. We remind you that if you link to a site outside of the Department of Justice, you are subject to the policies of the new site.
 
- **             A.    Information Collected and Stored Automatically**
+**A. Information Collected and Stored Automatically**
 
-                 If you visit our site to read or download information, we collect and store the  
-                 following information about your  visit: 
+If you visit our site to read or download information, we collect and store the following information about your visit:
 
-> \-   The name of the Internet domain (for example, "xcompany.com" if you use a private Internet access account, or  "yourschool.edu" if you are connecting from a university's domain) and the IP address (a number that is automatically assigned to your computer when you are using the Internet) from which you access our site; 
->
->> > \-    The type of browser and operating system used to access our site; \-    The date and time you access our site; \-    The Internet address of the Web site from which you linked directly to our site; and \-    The pages you visit and the information you request. 
+\- The name of the Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you are connecting from a university's domain) and the IP address (a number that is automatically assigned to your computer when you are using the Internet) from which you access our site;
 
-> This information is primarily collected for statistical analysis and technical improvements to the site. This government computer system uses software programs to create summary statistics, which may be used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. In certain circumstances, however, we may take additional steps to identify you based on this information and we may share this information, including your identity, with other government agencies.
+\- The type of browser and operating system used to access our site;
 
-> **  B.   If You Send Us Personal Information**
+\- The date and time you access our site;
 
-> If you choose to provide us with personal information, such as by sending an e-mail or by filling out a form and submitting it through our Web site, we will use that information to respond to your message or to fulfill the stated purpose of the communication. Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it by postal mail instead. 
-> 
-> We may share the information you give us with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, we may be required by law to disclose information you submit. Before you submit personal information, such as on an online form, you may be given more specific guidance as to how your personal information may be used.
-> 
-> Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act.
+\- The Internet address of the Web site from which you linked directly to our site; and
 
-**  C.   Cookies**
+\- The pages you visit and the information you request.
 
-> "Cookies" are small bits of text that are either used for the duration of a session ("session cookies"), or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a Web site ("persistent cookies"). The Department's Web site and its component sites do not use persistent cookies. One or more of the Department's component sites may use session cookies to provide streamlined navigation throughout their sites. These session cookies are deleted from the component's server soon after your session ends and are not collected or saved. 
+This information is primarily collected for statistical analysis and technical improvements to the site. This government computer system uses software programs to create summary statistics, which may be used for such purposes as assessing what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. In certain circumstances, however, we may take additional steps to identify you based on this information and we may share this information, including your identity, with other government agencies.
 
-> **SECURITY**
+**B. If You Send Us Personal Information**
+
+You do not have to provide any personal information to visit this Web site. If you choose to provide us with personal information, such as by sending a message to an e-mail address on this Web site or by filling out a form and submitting it through our Web site, we will use that information to respond to your message or to fulfill the stated purpose of the communication. If you submit your resume to us electronically we will use your personal information to consider your application for employment. The Department of Justice does not collect or use information for commercial marketing.
+
+We may share information you give us with contractors acting on our behalf or with another government agency if your inquiry relates to that agency. In other limited circumstances, such as responses to requests from Congress and private individuals, we may be required by law to disclose information you submit. If you provide comments in response to a request for public comments we may make those comments as well as your identity available to the public in a publication or by posting them on our Web site. Where possible we may give you more specific guidance at the point of collection regarding how your personal information may be used or disclosed.
+
+Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and subject to the Freedom of Information Act. A discussion of your rights under these laws can be found here: [.http://www.pueblo.gsa.gov/call/foia.htm.](https://web.archive.org/cgi-bin/outside.cgi?http://www.pueblo.gsa.gov/call/foia.htm)
+
+Remember that e-mail is not necessarily secure against interception. If your communication is sensitive or includes personal information you may prefer to send it by postal mail instead.
+
+**C. Cookies**
+
+"Cookies" are small bits of text that are either used for the duration of a session ("session cookies"), or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on to a Web site ("persistent cookies"). The Department's Web site and its component sites do not use persistent cookies. One or more of the Department's component sites may use session cookies to provide streamlined navigation throughout their sites and for statistical analysis. These session cookies are deleted from the component's server soon after your session ends and are not collected or saved. You can set up your Web browser to inform you when cookies are set or to prevent cookies from being set. You can still use our Web site if you do not accept the cookies, but you may be unable to use certain cookie-dependent features.
 
 For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996.
+
+To return to the previous page, use the back button on your browser.
