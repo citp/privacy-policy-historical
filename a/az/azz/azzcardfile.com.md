@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603015603id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azzcardfile.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010033647id_/http%3A//www.azzcardfile.com/privacy.html) for the most accurate reproduction.*
 
 # AZZ Cardfile : Privacy and Security
 
@@ -12,7 +12,7 @@
 
 **Support correspondence.** In the process clients disclose their contact details including names, E-mails, addresses, phone numbers.
 
-We **guarantee the privacy** of all the above mentioned information. It is kept for our records only and used exclusively for lost software registration codes recovery, our business statistics and trend analysis. The data is kept on computers and backup discs that are well protected physically and electronically. All unnecessary information is destroyed. We do not disclose any personal details to third parties under any circumstances and will not do so in future.
+We **guarantee the privacy** of all the above mentioned information. It is kept for our records only and used exclusively for lost software registration codes recovery, our business statistics and trend analysis. The data is kept on computers and backup discs that are well protected physically and electronically. All unnecessary information is being destroyed. We do not disclose any personal details to third parties under any circumstances and will not do so in future.
 
 ### Web site logs
 
