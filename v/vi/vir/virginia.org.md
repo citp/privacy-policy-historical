@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215154009id_/http%3A//www.virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.org privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605153440id_/http%3A//virginia.org/site/main.asp%3Freferrer%3Dprivacy) for the most accurate reproduction.*
 
 # Virginia Is For Lovers: Statewide
 
   
-If you feel that this company is not abiding by its posted privacy policy, contact Mary Bishop, Electronic Marketing Specialist by phone at (804)371-0275 or email [mbishop@virginia.org.](mailto:mbishop@virginia.org)
+If you feel that this company is not abiding by its posted privacy policy, contact Wirt Confroy, Electronic Marketing Manager by phone at (804) 371-8168 or email [wconfroy@virginia.org.](mailto:wconfroy@virginia.org)
 
 **Information Collection and Use**
 
-Virginia Tourism Corporation (VTC) is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. VTC collects information from our users at several different points on our website.
+Virginia Tourism Corporation (VTC) collects information from our users at several different points on our website. If you choose to offer us your e-mail address, name, address, phone or comments, we store this information in a tourism database and it is available to tourism facilities. Information about contests, surveys, special offers and savings and newsletters may be sent to you from VTC and Virginia tourism partners. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see our opt-out below. 
 
 **Order**
 
