@@ -1,141 +1,85 @@
-> *The following text is extracted and transformed from the lagalaxy.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401192045id_/http%3A//lagalaxy.com/fanforum/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lagalaxy.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215100001id_/http%3A//www.mlsnet.com/MLS/about/privacy.jsp) for the most accurate reproduction.*
 
-# Los Angeles Galaxy Official Website : Major League Soccer
+# MLSnet.com - About - Privacy
 
-|  [](https://web.archive.org/)  
----  
-|  [ ](https://web.archive.org/schedule/) |  [ ](https://web.archive.org/tickets/) |  [ ](https://web.archive.org/pressbox.php) |  [ ](https://web.archive.org/team/) |  [ ](https://web.archive.org/fanforum/) |  [ ](https://web.archive.org/youthsoccer/) |  [ ](https://web.archive.org/community/) |  [ ](http://www.homedepotcenter.com/) |  [ ](https://web.archive.org/hotlinks/) |  [ ](https://web.archive.org/contact/) |   
-  
-  
-  
+l About MLS
 
+## MLSnet.com Privacy Statement
 
-**Privacy Policy / Statement  
-General Overview**  
-The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you.
+Major League Soccer, L.L.C. ("MLS"), in association with SportsOnEarth, L.L.C. ("SOE") produces MLSnet.com, the Official Website of MLS (the "Website"). We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website only. 
 
-The Los Angeles Galaxy/Anschutz L.A. Soccer, LLC is committed to protecting your privacy. We use the information we collect about you to facilitate commercial transactions and to provide you with a more personalized experience. We have created this privacy policy statement in order to demonstrate our firm commitment to protecting the privacy of all of our customers and visitors. The following Privacy Statement discloses the information-gathering and dissemination practices and policies of the Los Angeles Galaxy/Anschutz L.A. Soccer, LLC NAME.
+#### General
 
-Except as otherwise discussed in this Privacy Policy, this document only addresses the use and disclosure of information we collect from you online. For some services, we either collect and transfer personal information to a service provider you have selected, or you may visit other merchants through links on our site who may collect and use your personal information. We encourage you to ask questions and to be very cautious before you disclose your personal information to others.
+You can visit and enjoy the Website without disclosing any personal information about yourself. However, we offer some special services, and for these services to work properly we will need you to share with us certain personal information about yourself. If you submit any personal information to us, or to our third party service providers acting on our behalf, you can be assured that we will not sell, lease, or share your personal information with or to anyone else, except as follows: (1) to our third party service providers, and only so that they may help us provide the services you've requested and in certain circumstances to provide you with ticket related offers; (2) to one or more MLS Member Clubs, to the extent that you've submitted information that relates specifically to them (e.g., you've asked to receive the newsletter of one or more Member Clubs via email; or you've purchased Member Club-specific merchandise from the store), so that they may learn more about fans like you, and provide better services to you; and (3) on occasion, we may offer a special promotion (such as a sweepstakes, contest, fantasy soccer or a free subscription to goods and services) on the Website in conjunction with a third party service provider, sponsor, or promotional partner, and share your information with that third party service provider, sponsor, or promotional partner so that it can send you other special promotions it offers, but only if you give us permission to do so. 
 
-**Please read the following to learn more about our data collection policies and practices:**  
-1\. Types of information that may be collected 2  
-2\. How is information collected 3  
-3\. How we use the information we collect 4  
-4\. With whom the information may be shared 5  
-5\. What choices do I have about the Los Angeles Galaxy/Anschutz L.A. Soccer, LLC collecting, using, and sharing my information 5  
-6\. What security precautions are in place to protect against the loss, misuse, or alteration of your information 5  
-7\. Chat Rooms, Forums, and Message Boards 6  
-8\. Links to other Websites 6  
-9\. A special note for parents concerning privacy 6  
-10\. Limitation of Liability 6  
-11\. Notification of changes and acceptance of the Privacy Policy 7  
-12\. Correcting and updating personal information 7  
-13\. Whom do I contact with questions or concerns about this privacy policy 7
+_Special Offers and Promotions._ With your permission, we may also send you e-mails with special offers and promotions. If you don't want to receive these, you may change your preferences. 
 
-**Types of information that may be collected  
-**The personally identifiable information we collect is used to facilitate delivery of products and/or services to our customers. In the process of providing these products and/or services, we require our customers to provide certain personally identifiable information. Specific details may include, but is not limited to the following and may be subject to change:
+_Cookies._ To help us serve you better, we collect information that does not identify you personally, but rather identifies your computer or browser. This is done by using little files called "cookies" and by tracking IP addresses. A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a Website's computers and stored on your computer's hard drive. Cookies operate in the background, and you can turn them off if you wish, but doing so may impair your ability to use some of the features on the Website. We may use cookies to make the Website work better by, for example, keeping track of your login name, password and, if you want to buy things while on the Website, your "shopping cart." 
 
-· In the case of contests, promotions, and/or newsletter registrations: We require all users and/or customers wishing to participate in any of our contests, drawings, sweepstakes, promotions, or newsletters to complete a Participant Registration Form. During this registration process we generate and collect certain personally identifiable information.
+We may also allow other companies that are presenting advertisements or providing services on our pages to set and access cookies on your computer. Those companies' use of cookies will be covered by their own privacy policies, not ours. 
 
-· The personally identifiable information that may be collected from our customers in completion of a registration form: Customer's first name, last name, zip code, phone number, age and email address. Winners of contests, drawings, sweepstakes, and/or promotions will be required to provide additional personally identifiable information such as a shipping address and telephone number.
+Specifically, we use a third-party advertising company to serve ads when you visit certain pages of the Website. This company may use aggregated information (not including your name, address, email address or telephone number) about your visits to the Website in order to provide advertisements about goods and services of interest to you. If you would like more information about the information collection practices of this third-party advertising company, [click here](http://www.doubleclick.com/us/). 
 
-· In the case of product and/or service purchases: In order to complete the purchase of a product and/or service, an online credit card transaction is required. During this process we generate and collect certain verifiable personally identifiable information.
+If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to accept or reject cookies. If you set your browser not to accept cookies, you may not be able to take advantage of certain services on the Website. 
 
-· The personally identifiable information that may be collected from our customers in completion of a product and/or service purchase: The verifiable personally identifiable information required includes the customer's first and last name, first and last name of the credit card owner, credit card billing address, credit card number, credit card expiration date, customer's shipping address, phone number, and email address. 
+We may also use IP addresses to analyze trends, help us administer the Website, track the movement of visitors, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information, except as may be necessary to verify users' locations to determine the applicability of blackout restrictions for MLSnet.com video/audio subscription products, as applicable. 
 
-· If a customer sends us personal correspondence, such as emails or letters, we may collect such information into a file specific to you.
+_Aggregated Demographic Information._ We may share aggregated demographic information with third parties, but this information is not linked to any personal information that can identify you or another individual person. Therefore, no personal information is disclosed in this manner. 
 
-**How is information collected**  
-We may collect information from you in several different areas on the Site, including but not limited to those described below: 
+_Business Transfers._ As time passes, Major League Soccer, L.L.C., may be sold along with its assets, or other transactions may occur in which customer information is one of the business assets transferred. In such a case, the customer information which we have gathered may be one of the business assets we transfer. 
 
-· Registration  
-You may be asked first to complete a registration form and provide personally identifiable information; you may also be asked to choose a user ID and password in order to take advantage of certain features the Site may choose to offer, including, but not limited to, Newsletters, Contests, Forums, Fantasy or other subscription based services. 
+_Disclosure for Legal Purposes._ The law requires that we may be required to share your personal information and non-personal information (see "Cookies" section above for examples of non-personal information) pursuant to judicial or governmental subpoenas, warrants or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use and disclose share your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Website's Terms of Service, or as otherwise required by law. 
 
-· Newsletters and Site Emails  
-We may offer free newsletters to share information with you about the Site, about us and our affiliates and subsidiaries, or about our business partners and advertisers and sponsors. You may receive a newsletter either by registering for a particular newsletter or in conjunction with a special feature or membership for which you have registered on the Site. You may cancel your free email subscription by following the instructions provided on the Site or, in some instances, in the designated area of certain newsletters or emails. 
+#### Our Security Practices 
 
-· Contests or Sweepstakes  
-We may operate contests and sweepstakes through the Site, which may require registration. Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes. We may ask your permission to allow us to post publicly some of your information on the Site, such as on a winners' page, in the event you win a contest or sweepstakes. Except as required by applicable law, we will not post your information without your permission. In some instances, a third party advertiser or sponsor may operate or host a contest or sweepstakes on the Site, and collect your information. In those cases, where we are not the operator or host of the contest or sweepstakes, we have no control over the information collected and accordingly urge you to review the advertiser's or sponsor's privacy policy applicable to the contest or sweepstakes before participating. 
+Your preferences are password protected for your privacy and security. In certain areas, we use industry-standard SSL encryption to protect data transmissions. 
 
-· Surveys or Voting  
-From time-to-time we may request personally identifiable information from you via surveys or voting polls. Participation is voluntary and you will have the opportunity to decide whether or not to disclose information. At times, you may have to register to vote or to take part in a survey. 
+#### How You Can Review Your Personal Information 
 
-· Cookies  
-As with many Websites, the Site uses standard technology called "cookies," which are small data files that are transferred to your computer when you allow your browser to accept cookies. Cookies automatically identify your Web browser to the Site whenever you visit the Site, and make using the Site easier for you by saving your passwords, purchases, and preferences. By tracking how and when you use the Site, cookies help us determine which areas are popular and which are not. Many improvements and updates to the Site are based on data obtained from cookies. Accepting cookies allows you, among other things, to personalize your experience on the Site. Cookies may also allow the Site to present to you advertising which may be of interest to you. If you do not want information collected through the use of cookies, you generally can opt out of providing this information by turning the cookies off in your browser; however, some areas of the Site may not provide you with a personalized experience if you have disabled the use of cookies. 
+If you want to review your personal information, you can revise your preferences. Your preferences include your shipping, payment and account information, as well as whether you want to receive communications from us. 
 
-· IP Addresses and Click-stream Data  
-We may collect IP addresses and/or click-stream data for purposes of system administration and to report aggregate information to our advertisers and sponsors. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. Our computers identify your computer by its IP address. When you request Web pages from the Site, our computers log your IP address. 
+If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact our [Privacy Administrator](mailto:privacy@mlsnet.com). 
 
-Click-stream data is information collected by our computers when you request Web pages from the Site. Click-stream data may include such information as the page served, the time, the source of the request, the type of browser making the request, the preceding page view and other such non-personal information. When analyzed, this data helps us analyze how visitors arrive at the Site, what type of content is most popular, what type of visitors in the aggregate are interested in particular kinds of content and advertising, and the like. 
+#### Choice
 
-· Transaction Information   
-If you order any information from our Site, buy any of our products or subscribe for any of the services offered on our Site, we will ask you to complete an order form that will request certain information from you, including financial information such as a credit card number and expiration date and general contact, billing and shipping information. We will use this information to complete the transaction that you have requested, i.e., to deliver the information, products or other services that you order, and to invoice you. Such information is collected and stored through encrypted means for your protection. 
+Our registration and order forms contain a box for you to indicate whether or not you consent to receive special offers and promotions from us. Unless you give us your consent to use your personal information for these purposes, we and our partners will only use it to complete the transaction or provide the service or product you have requested. If you indicate that you consent to receive communications or solicitations, but you later change your mind, you can revise your preferences. 
 
-· Fantasy Games  
-When you register to play Fantasy games, you may be asked to provide personally identifiable information.
+#### Links 
 
-**How we use the information we collect**  
-We internally use personally identifiable information about our customers to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our site's content and layout. We believe these uses allow us to improve our site and provide better service to our customers. 
+The Website contain links to other sites produced by MLS and/or SOE and websites operated by unrelated third parties. Please note that we are not responsible for the privacy practices of third party websites. We encourage you to be aware of this when your leave the Website and to read the privacy policies of every website that collects personally identifiable information from you. The Privacy Policy applies only to this Website. 
 
-We may occasionally use a customer's email address and, in rare situations mailing address or phone number, to contact a customer regarding administrative matters or notices.
+#### Special Rules For Children 
 
-We may use information in the file we maintain about a customer to resolve disputes and troubleshoot problems.
+Because of federal law, we cannot collect any personal information from a child under the age of thirteen without the consent of that child's parent. The statements in this Privacy Policy generally about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen, with the added protection of the special rules that follow. 
 
-**With whom the information may be shared**  
-Information we collect may be accessed by a variety of parties, depending upon the project for which the information was originally collected, the terms of that engagement, and the policies into or out of which the consumer has opted. From time to time, we may send you offers from Los Angeles Galaxy/Anschutz L.A. Soccer, LLC, its affiliated properties, and our promotional partners based on the information you have provided us. In addition, we may provide information we collect about you with third party companies regarding promotions, sweepstakes and other opportunities / offers. These third parties are subject to stringent data security and confidentiality requirements and, upon completion of their fulfillment services, all information is returned to Los Angeles Galaxy/Anschutz L.A. Soccer, LLC or is destroyed. 
+#### Parental Consent 
 
-While we believe this disclosure of your information will result in opportunities that may be of interest to you, you have the right to tell us not to give your information to any third party. If you want Los Angeles Galaxy/Anschutz L.A. Soccer, LLC to keep all of your information we have collected confidential and not share it with any third party, please mail your written request to:
+Some services on the Website (e.g., Shop, Ticketing) require the submission of a credit card number along with personal information, and are therefore not available to children. Other services on the Website (e.g., fantasy soccer) are not available to children under the age of thirteen. For services that are available to children under the age of thirteen, if a child under the age of thirteen attempts to complete any registration form on the Website a screen will appear that says "Get Your Mom or Dad." We will then instruct the child to have a parent complete the registration form, either in person or by e-mail. We will provide the parent with a notice describing the Privacy Policy and will ask for the parent's consent to our collection and use of personal information from or about their child. The parent will also be asked to submit a credit card number (the card will not be charged) for verification purposes only. 
 
-**LOS ANGELES GALAXY  
-The Home Depot Center  
-18400 Avalon Blvd. - Suite 200  
-Carson, CA 90746**
+If the registration form is not completed with a credit card number to verify parental consent, the child will not be able to access those of our activities requiring registration and we will not collect any personal information from that child. Failure to complete the registration form will also prevent the child from entering chat rooms or otherwise making personal information available to the public on the Website. A child's parent has the option to consent to the collection and use of their child's personal information without consenting to the disclosure of that information to third parties, but if such disclosure is necessary to make available a service which has been requested, then the child will not have access to such service. 
 
-Your request must include your name, email address, mailing address and must be signed. (Signature only required for written request sent by regular mail). Please allow six weeks to process your request. After your request has been fulfilled, the only disclosures we will make are those required by law.
+#### Information Collected 
 
-**What choices do I have about Los Angeles Galaxy/Anschutz L.A. Soccer, LLC collecting, using, and sharing my information**  
-It is possible for you to use much of our site without giving us any personally identifiable information. When you do register with us or give us personally identifiable information, you will have an opportunity at the time we collect your information -- to limit e-mail communications from Los Angeles Galaxy/Anschutz L.A. Soccer, LLC and from our third-party partners. You can request at any time that Los Angeles Galaxy/Anschutz L.A. Soccer, LLC not send future e-mail to you either by unsubscribing from the communication or by contacting us at http://www.lagalaxy.com/contact/. Also, as mentioned above, there are ways to limit the information collected through technology -- though some of our features won't work if you decide to do this.
+Depending on the special service requested, personal information collected may include a name, email address, address or age of a child. We will not condition a child's participation in any activity on the Website, such as fantasy soccer, on the child's disclosing more information than is reasonably necessary to participate in that activity. A parent can review his or her child's personal information by accessing the child's preferences. A parent can instruct us to delete the child's personal information or to stop collecting or using the child's personal information by contacting the [Privacy Administrator](mailto:privacy@mlsnet.com). 
 
-**What security precautions are in place to protect against the loss, misuse, or alteration of your information**  
-We use industry standard efforts to safeguard the confidentiality of your personally identifiable information. However, please keep in mind that "perfect security" does not exist on the Internet and/or the World Wide Web.
+#### Information Use 
 
-**Chat Rooms, Forums, and Message Boards**  
-The Site may make chat rooms, forums and message boards available to its users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties. Los Angeles Galaxy/Anschutz L.A. Soccer, LLC cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas.
+We may use the personal information to provide the child with the special services for which he or she has registered, as well as for fulfilling a requested transaction, record keeping, marketing back to the child or making it publicly available through a chat room. (Please note that when anyone, including a child, uses a message board or chat room on the Website, the communications are publicly available to the other participants.) 
 
-**Links to other Websites**  
-You should be aware that when you are on the Site you could be directed to other sites beyond our control. For example, if you "click" on a banner advertisement, the "click" may take you off the Site onto a different Website. This includes links from advertisers, sponsors and partners that may use the Site's logo as part of a co-branding agreement. These other Websites may send their own cookies to you, independently collect data or solicit personal information and may or may not have their own published privacy policies. If you visit a Website that is linked to our Site, you should consult that site's privacy policy before providing any personal information.
+#### Information Disclosure 
 
-**A special note for parents concerning privacy**  
-We do not encourage children to participate in providing us with any personally identifiable information. We ask that children (12 years of age and under) do not submit any personal information to us. If you are a minor under the age of 13 years, please use our services only under the approval and supervision of your parents or legal guardian(s). 
+After obtaining the consent of the child's parent, we, our service providers, and one or more Member Clubs (to the extent that any information disclosed is specific to them), will maintain the confidentiality, security, and integrity of the personal information collected about the child. A child's information will only be disclosed to our third party service providers and the applicable Member Club(s) as described in this Privacy Policy. The following are third party service providers of our services which may collect or maintain personal information from children under 13 on our behalf: Synacor, Inc. (vanity e-mail); and Prospero, Inc. (message boards). They can't use your child's personal information without your consent for any purpose other than the service you've requested on behalf of your child. 
 
-We support the guidelines and regulatory requirements provided in the Children's Online Privacy Protection Act (COPPA):  
-http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html
+#### Contact Us 
 
-**Limitation of Liability  
-**By providing us with any personal information you expressly and unconditionally release and hold harmless Anschutz Entertainment Group, Inc., Los Angeles Galaxy/Anschutz L.A. Soccer, LLC and its subsidiaries, affiliates, directors, officers, employees and agents from any and all liability for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information. In addition, while AEG takes efforts to ensure the proper and appropriate use of AEG data provided by AEG to third party companies, promotional partners or vendors, AEG is not liable for any injuries, loss or damage of any kind arising from or in connection with the use and/or misuse of your collected personal information by AEG or the above-mentioned non-AEG entities.
+If you have questions or concerns about this Privacy Policy, you can contact us at: 
 
-**Notification of changes and acceptance of the Privacy Policy**  
-By using this Site, you signify your agreement to the terms of our privacy policy. Los Angeles Galaxy/Anschutz L.A. Soccer, LLC may change this policy from time to time. If so, any such changes will be posted on this page, so that Los Angeles Galaxy/Anschutz L.A. Soccer, LLC may keep its users informed of its information collection practices. Accordingly, we recommend that you consult this page frequently so that you are aware of our latest policy. Your continued use of the Site shall constitute your acceptance of such revised privacy policy.
+SportsOnEarth, L.L.C. Privacy Administrator 75 Ninth Avenue New York, New York 10011 Phone: (212) 485-8421 Fax: (212) 485-8111 
 
-**Correcting and updating personal information**  
-If your personally identifiable information changes (such as your zip code), or if you no longer desire to access our Site, we will endeavor to provide a way to correct, update or remove the personal data you have provided to us. This can be done by making changes to your profile, by using an option out message in an email, or by emailing us at http://www.lagalaxy.com/contact/. Please click here to make any changes to your profile and/or opt out of the Los Angeles Galaxy/Anschutz L.A. Soccer, LLC.  
-Whom do I contact with questions or concerns about this privacy policy  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact Los Angeles Galaxy by sending a letter to:   
-**  
-Attn: Privacy Policy  
-LOS ANGELES GALAXY  
-The Home Depot Center  
-18400 Avalon Blvd. - Suite 200  
-Carson, CA 90746**
+Or send an e-mail to [privacy@mlsnet.com](mailto:privacy@mlsnet.com). 
 
-You may also contact us by [e-mail](https://web.archive.org/web/20040401192045id_/http%3A//lagalaxy.com/contact/).
+#### Notification of Changes
 
-|   
-  
----|---  
-  
+If we decide to make an important change to our Privacy Policy, we will post a notification and link on our homepage so that you can review the updated policy. If at any point we wish to use your personal information in a manner different from that stated at the time it was collected, we will notify you by means of an e-mail and give you the opportunity to indicate whether you consent to the proposed use. 
 
-
-  
-
+**LAST UPDATED: April 16, 2004**
