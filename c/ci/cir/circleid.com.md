@@ -1,35 +1,32 @@
-> *The following text is extracted and transformed from the circleid.com privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417142505id_/http%3A//circleid.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circleid.com privacy policy that was archived on 2003-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031121170022id_/http%3A//www.circleid.com/internal/privacy.php) for the most accurate reproduction.*
 
-# CircleID Network
+# CircleID: Privacy Policy
 
-**Information Collection and Use**
+CircleID Network believes in your right to privacy and is committed to the use of fair information practices on the Internet. This CircleID Privacy Statement applies to CircleID's web site at www.CircleID.com (the "CircleID Site") and the services offered via the CircleID Site (the "CircleID Services"). By using the CircleID Site and/or the CircleID Services (collectively, "CircleID Site/Services"), you agree to the terms of this Privacy Statement.
 
-CircleID Network is the sole owner of the information collected on this site. This policy describes the ways we collect and use this information. We reserve the right to change this policy.
+**TYPES OF INFORMATION COLLECTED**  
+Personal Information. When you register to become a member of CircleID, you will be asked to provide certain personal information. Examples of the personal information that we collect include your name, e-mail address, professional biography and occupation.
 
-**Cookies**
+_IP Addresses_. An Internet protocol address ("IP address") is the unique number that identifies the computer you are using to browse the Internet. CircleID uses IP addresses to analyze trends, administer the CircleID Site, and gather broad demographic information for aggregate use.
 
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Some of our business partners, including advertisers, use cookies on our site. However, we have no access to or control over these cookies.
+**DISCLOSURE AND USE OF INFORMATION COLLECTED**  
+Information Provided During Registration. The information you provide us when registering as a member of CircleID is publicly available on the CircleID Site as part of your member profile.
 
-**Links**
+This means that your member profile may be viewed by other members and visitors of CircleID. You may choose to opt-out of this public disclosure of your member profile by [contacting us](https://web.archive.org/web/20031121170022id_/http%3A//www.circleid.com/internal/contact.php). You may change or edit information about yourself in your member profile at any time using your Profile Manager in the member control panel area (My Control Panel).
 
-This web site contains links to other sites. Please be aware that CircleID Network is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+_Posted Information_. The CircleID Site allows you to post information in public forums. Any information you voluntarily disclose through this medium is necessarily disclosed to the public.
 
-**Newsletter**
+_E-Mail and Promotional Materials_. We send all new members a welcome e-mail to verify password and username. In addition CircleID publishes a weekly email newsletter called "CircleID Email Alert". This service is optional and may be administrated from the member control panel.  
 
-If a user wishes to subscribe to our newsletter, we ask for contact information such as e-mail address, first name, and last name.
 
-**Surveys and Contests**
+**LINKS**  
+The CircleID Site may contain images of and links to third party web sites ("Linked Sites"). The Linked Sites are not under the control of CircleID and CircleID is not responsible for the content of any Linked Site. Use of information collected at Linked Sites is subject to any privacy policies at those sites.
 
-From time-to-time our site may request information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code and age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site, and may be shared in aggregate with our partners.
+**DATA FROM CHILDREN**  
+CircleID does not collect data from individuals that identify themselves as children under the age of thirteen, and the CircleID Site/Services are not intended for use by children under the age of thirteen. If CircleID becomes aware that it has received information from a child under the age of thirteen, we will delete all personally identifiable information concerning that child from our records.
 
-**Security**
+**SECURITY**  
+CircleID wants your personal information to remain as secure as reasonably possible. CircleID secures the personal information you provide on computer servers in a controlled, secure environment, protected from unauthorized access. When highly confidential information, such as a credit card number, is transmitted over the Internet, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line.
-
-**Choice/Opt-out**
-
-Users who no longer wish to receive our newsletter may opt-out by replying with unsubscribe in the subject line.
-
-**Notification of Changes**
-
-CircleID Network reserves the right to change its privacy policy. If we decide to change our privacy policy, we will post those changes prominently so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+**CHANGES TO THIS PRIVACY STATEMENT**  
+The CircleID Privacy Statement is subject to change at any time. If any material changes are made to this Privacy Statement, we will notify you by posting the revised date next to the privacy policy link on our home page. By using the site after any such announcement, you agree to the terms of the amended Privacy Statement.
