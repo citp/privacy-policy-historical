@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202231018id_/http%3A//www.ubs.com/e/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubs.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402134024id_/http%3A//ubs.com/e/privacy_policy.html) for the most accurate reproduction.*
 
 # UBS - Privacy Policy
 
@@ -24,6 +24,8 @@ UBS does not collect personally identifying Data from this Website except when s
 
 UBS may use session specific cookies* or web bugs** to obtain non-personal information Data regarding your use of this Website including IP address*** and session number****. This Data will be collected primarily for purposes of administering or compiling demographic information, and of monitoring usage and performance of this Website. We may also use such cookies to facilitate your movement within this Website (e.g. remembering passwords during the session and recording any country of residency selection you may have made.)
 
+You may disable web bugs by disabling the javascript in your browser within the security settings. However, once javascript is disabled the site may not function correctly. You may also set your browser in order to disable any cookies that may be used by UBS: **Netscape 6.0** : (1) Task Bar (2) Edit (3) Preferences (4) Advanced (5) Cookies; **Netscape 7.0** : (1) Edit (2) Preferences (3) Category column (on the left hand side) (4) Privacy & Security (5) Cookies (6) Disable cookies (7) OK; **Internet Explorer 6.0** : (1) Tools (2) Internet Options (3) Privacy (4) Custom Level (5) Advanced (6) Override automatic cookie handling - Accept, Block or Prompt; **Internet Explorer 5.0 or 5.5** : (1) Tools (2) Internet Options (3) Security (4) Custom Level (5) Cookies option - Accept, Disable, or Prompt.
+
 **Data Security**
 
 Within UBS your personal Data will be transmitted and stored in a protected environment (e.g. firewalls). We undertake to take all reasonable steps in order not to allow your personal Data to be seen by any third parties other than those, which have been engaged by UBS to provide services to you. We will only disclose your Data to other third parties, if compelled to do so for legal or regulatory purposes.
@@ -32,6 +34,6 @@ We may store Data in locations other than your country of residence. In such cas
 
 For further information please read [our disclaimer](https://web.archive.org/e/disclaimer.html).
 
-This Policy was last updated in May, 2002.
+This Policy was last updated in December 2003.
 
-www.ubs.com © Copyright by UBS AG, 2003 - All rights reserved.
+www.ubs.com © Copyright by UBS AG, 2004 - All rights reserved.
