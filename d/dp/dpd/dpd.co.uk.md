@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dpd.co.uk privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413183719id_/http%3A//www.dpd.co.uk/website/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpd.co.uk privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206025801id_/http%3A//www.gold-vision.com/website/privacy.asp) for the most accurate reproduction.*
 
 # DPD - Privacy Statement
 
