@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestepahead.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610153830id_/http%3A//www.onestepahead.com/custserv/contenttemplate1main.jsp%3FruleID%3D40%26itemID%3D31%26itemType%3DCustomer%2BService) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestepahead.com privacy policy that was archived on 2005-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050402023826id_/http%3A//www.onestepahead.com/custserv/contenttemplate1main.jsp%3FruleID%3D40%26itemID%3D31%26itemType%3DCustomer%2BService%26change%3D117) for the most accurate reproduction.*
 
 # One Step Ahead Baby
 
