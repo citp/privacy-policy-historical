@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sccu.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602171514id_/http%3A//sccu.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sccu.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606033215id_/http%3A//www.sccu.com/privacy.asp) for the most accurate reproduction.*
 
 # SCCU.COM - Privacy Policy
 
