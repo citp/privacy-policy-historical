@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the edp24.co.uk privacy policy that was archived on 2004-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040621173238id_/http%3A//www.edp24.co.uk/asp/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edp24.co.uk privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206234325id_/http%3A//www.edp24.co.uk/asp/Privacy.asp) for the most accurate reproduction.*
 
 # EDP24
 
 Privacy statement for Archant Regional websites
 
 **Our privacy policy**  
-Archant Regional is committed to respecting your privacy. This statement sets out how Archant Regional's websites comply with European Community data protection requirements. We are registered under the Data Protection Act 1998.  
+Archant is committed to respecting your privacy. This statement sets out how Archant Regional websites comply with European Community data protection requirements. We are registered under the Data Protection Act 1998.  
 This privacy statement applies to this website only – it does not cover other websites to which we may provide links, or to Archant websites other than those operated by Archant Regional.
 
 **Is it possible to access the website without disclosing personal data?**  
@@ -42,7 +42,7 @@ We have put in place technology measures and security policies and procedures to
 Yes. A cookie is a piece of text which asks permission to be placed on your computer’s hard drive. Your browser adds that text in a small file. A cookie helps us to analyse web traffic and allows websites to respond to you as an individual. For example cookies are used for membership details on the property, jobs and business sections.
 
 **Do you gather any other information?**  
-RedSheriff, an independent measurement and research company, gathers non-personal data regarding the visitors to our site on our behalf using cookies and code. Both the cookies and the embedded code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. Archant uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users.
+Nielson Net Ratings, an independent measurement and research company, gathers non-personal data regarding the visitors to our site on our behalf using cookies and code. Both the cookies and the embedded code provide non-personal statistical information about visits to pages on the site, the duration of individual page view, paths taken by visitors through the site, data on visitors' screen settings and other general information. Archant uses this type of information, as with that obtained from other cookies used on the site, to help it improve the services to its users.
 
   
 
