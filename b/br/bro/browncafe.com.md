@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205152700id_/http%3A//browncafe.net/statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browncafe.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405160608id_/http%3A//browncafe.net/statement.shtml) for the most accurate reproduction.*
 
 # Privacy Statement
+
+Brown Cafe: Internet Resources for the UPS community, not sponsored by United Parcel Service
 
 ## Privacy Statement for Brown Cafe
 
@@ -18,7 +20,7 @@ Our Site uses cookies to save the password of registered users at the Brown Cafe
 
 Syndicated content providers and outside ad companies display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.
 
-Brown Cafe works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.flycast.com/about_us/about-privacy.html](http://www.flycast.com/about_us/about-privacy.html)
+#### 
 
 #### Personal Information
 
@@ -63,4 +65,36 @@ We care about children and understand that they have special privacy needs. Ther
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-[webmaster@browncafe.com](mailto:webmaster@browncafe.com)
+[webmaster@browncafe.com](mailto:webmaster@browncafe.com)  
+  
+---  
+  
+[Stock](http://browncafe.org/stock.htm)
+
+| 
+
+[News](http://browncafe.net/news.htm)
+
+| 
+
+**[B rownCafe](http://browncafe.com/)**
+
+| 
+
+[People](http://browncafe.net/people.htm)
+
+| 
+
+[Work](http://browncafe.net/work.htm)  
+  
+[Boards](http://browncafe.org/boards.htm)
+
+| 
+
+[Chat](http://www.browncafe.net/chat.html)  
+  
+[Our Privacy Policy](http://browncafe.net/statement.shtml) **~** [Information Integrity](http://browncafe.net/integrity.shtml)  
+  
+The Fine Print
+
+The information herein is obtained from sources that are considered reliable, but accuracy is not guaranteed. By providing links to other sites, BrownCafe does not guarantee, approve or endorse the information or products available at these sites, nor does a link indicate any association with or endorsement by the linked site to BrownCafe. Selected content on the BrownCafe is freely available. We do not claim this information as our own. If, for any reason, we provide information that is copyrighted, please let us know so that we can delete the content from our site.
