@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the x-plane.org privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603042809id_/http%3A//www.x-plane.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the x-plane.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216222522id_/http%3A//www.x-plane.org/privacy.htm) for the most accurate reproduction.*
 
 # x-plane.org - The Web's Community & Source for Laminar Research's X-Plane Flight Simulator
 
@@ -43,4 +43,4 @@ x-plane.org
 This is NOT the commercial, official X-Plane site  
 run by [Laminar Research](http://www.laminarresearch.com/), but instead a "3rd party" site.   
 © 2000 [RISNY.com](mailto:webmaster@x-plane.org)  
-[Terms of Use.](https://web.archive.org/web/20010603042809id_/http%3A//terms.htm) [Privacy Statement. ](https://web.archive.org/web/20010603042809id_/http%3A//www.x-plane.org/privacy.htm)
+[Terms of Use.](https://web.archive.org/web/20011216222522id_/http%3A//terms.htm) [Privacy Statement. ](https://web.archive.org/web/20011216222522id_/http%3A//www.x-plane.org/privacy.htm)
