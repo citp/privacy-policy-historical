@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginia.edu privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405084925id_/http%3A//www.virginia.edu/copyright.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginia.edu privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214120144id_/http%3A//www.virginia.edu/copyright.html) for the most accurate reproduction.*
 
 # Copyright and Privacy Policy at UVA
 
@@ -24,25 +24,33 @@ Questions may be directed to the [University's Webmaster](mailto:webmaster@virgi
 **Links to Other Sites**  
 Provision of links from official University of Virginia web sites to sites located outside of the University of Virginia domain does not imply endorsement or credibility of the service, information, or product offered through the linked sites. 
 
-**Complaints Alleging Copyright Infringement in the University of Virginia Domain**  
-Pursuant to 37 C.F.R. § 201.38, the University of Virginia has designated the following person to receive notification of claimed infringement of copyright under § 512(c)(2) of Title 17 of the United States Code, as amended:
+**Respect for Copyrights of Digital Materials and Software**  
+_July 2001 (Revision of the previous Software Copyright Policy approved October 1995)  
+Effective on interim basis pending review by the Office of the General Counsel_
 
-R. F. German Jr  
-Claimed Copyright Infringement  
-University of Virginia  
-108 Cresap Road  
-Charlottesville, VA 22904-4217  
-(telephone) (804) 982-2249  
-(facsimile) (804) 924-3579  
-(e-mail) DMCA@virginia.edu
+It is the policy of the University to respect the copyright protections given by federal law to owners of digital materials and software. It is against University policy for faculty, staff, or students to use University equipment or services to access, use, copy or otherwise reproduce, or make available to others any copyright-protected digital materials or software except as permitted under copyright law (especially with respect to "fair use") or specific license.
+
+The software provided through the University for use by faculty, staff, and students may be used only on computing equipment as specified in the various software licenses. 
+
+The University regards violation of this policy as a serious matter, and any such violation is without its consent and is subject to disciplinary action. Repeated violations will result in loss of computing privileges, among other sanctions. 
+
+Pursuant to 37 CFR 201.38, the University has designated the following person to receive notification from copyright owners of claimed infringement of copyright: 
+
+R. F. German Jr.  
+Claimed Copyright Infringement   
+University of Virginia   
+108 Cresap Road Charlottesville, VA 22904-4217   
+(telephone) (434) 982-2249   
+(facsimile) (434) 924-3579   
+(e-mail) DMCA@virginia.edu 
 
 **Privacy Notice **
 
-**Commitment To Privacy.** Individuals' privacy is important to the University of Virginia. To better protect your privacy we provide this notice explaining our online information policy and practices. To make this notice easy to find, we make it available through a link on our homepage.
+**Commitment to Privacy.** Individuals' privacy is important to the University of Virginia. To better protect your privacy we provide this notice explaining our online information policy and practices. To make this notice easy to find, we make it available through a link on our homepage.
 
 Our privacy and public records obligations are governed solely by applicable Virginia statutes, including, but not limited to, the Virginia Privacy Protection Act of 1976, the Virginia Freedom Of Information Act, and by any applicable U.S. federal laws.
 
-**Notice About The Information We Collect.** This notice applies to all information collected by or submitted to official University of Virginia web sites (see the definition above). The following information explains the Internet privacy policy and practices that the University has adopted for its official web sites In legal terms, it shall not be construed as a contractual promise, and the University reserves the right to amend it at any time without notice. 
+**Notice About the Information We Collect.** This notice applies to all information collected by or submitted to official University of Virginia web sites (see the definition above). The following information explains the Internet privacy policy and practices that the University has adopted for its official web sites In legal terms, it shall not be construed as a contractual promise, and the University reserves the right to amend it at any time without notice. 
 
 In addition to this explanation of policy and practice, the University encourages its schools, departments, divisions and other units contributing to its official web pages to provide specific notices about the collection and use of any personal information associated with those pages. The following information is therefore general, and we encourage you to read page-specific notices to ensure that you understand precisely the applicable privacy policies and practices.
 
@@ -59,9 +67,11 @@ When you access our web pages, the client information and the essential and none
 ->
 
 _when you complete online forms_ :  
-• all the data you choose to fill in or confirm, including credit or debit card information if you are ordering a product or making a payment, as well as information about other people if you are ordering a gift and want it sent directly to the recipient's address. 
+• all the data you choose to fill in or confirm, including credit or debit card information if you are ordering a product or making a payment, as well as information about other people if you are ordering a gift and want it sent directly to the recipient's address.
 
 
+
+The University of Virginia uses Web Trends Live to analyze traffic to much of the virginia.edu Web site. Web Trends Live does not create individual profiles for visitors. Unlike some tracking services Web Trends Live does not have a database of individual profiles for each visitor. Web Trends Live only collects aggregate data. [More information](http://www.webtrendslive.com/privacy_policy.htm).
 
 **The Way We Use Information.** Client information is used to route the requested web page to your computer for viewing. In theory, the requested web page and the routing information could be discerned by other entities involved in transmitting the requested page to you. We do not control the privacy practices of those entities. Essential and nonessential technical information helps us respond to your request in an appropriate format [or in a personalized manner] and helps us plan web site improvements. Optional information enables us to provide services or information tailored more specifically to your needs or to forward your message or inquiry to another entity that is better able to do so, and also allows us to plan web site improvements.
 
@@ -93,4 +103,4 @@ Path: /
 
 **How To Contact Us** Should you have other questions or concerns about these privacy policies and practices, please call us at (804) 924-4524 or send us an e-mail at webmaster@virginia.edu. If you wish to review or change information gathered about you via an official University of Virginia web site but you do not know how, the University webmaster will assist in locating the persons responsible for that site so that you may make your request for that review or change directly to them.
 
-[**More Site Information**](http://www.virginia.edu/siteinfo.html)
+[**More Site Information**](https://web.archive.org/web/20011214120144id_/http%3A//www.virginia.edu/siteinfo.html)
