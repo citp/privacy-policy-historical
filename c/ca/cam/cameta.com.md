@@ -1,37 +1,52 @@
-> *The following text is extracted and transformed from the cameta.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606191500id_/http%3A//cameta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cameta.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204045051id_/http%3A//www.cameta.com/privacy.html) for the most accurate reproduction.*
 
 # Cameta Camera
 
-Privacy Statement  
-Cameta Camera has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Cameta.com. 
+  
+The Information We Collect   
+This notice applies to all information collected or submitted on the Cameta website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
-We use your IP address only to help diagnose problems with our server, and to administer our Web site.
+Name   
+Address   
+Email address   
+Phone number   
+Credit/Debit Card Information   
+(Etc.)
 
-This site contains links to other sites. Cameta.com is not responsible for the privacy practices or the content of such Web sites.
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services.
+Name   
+Address   
+Phone number   
+(Etc.) 
 
   
-Security  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. The use of a secure server protects the storage and transmission of sensitive data such as your personal and payment information. Our hosting company is running a firewall and has other measures in place to prevent unauthorised access to our data.
+The Way We Use Information   
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
+
+You can register with our website if you would like to updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
+
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.   
+
+
+Our Commitment To Data Security   
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+Our Commitment To Children's Privacy  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+
+How You Can Access Or Correct Your Information   
+You can access your personally identifiable information that we collect online. We use this procedure to better safeguard your information.
+
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
   
-Choice/Opt-Out  
-Our site provides users the opportunity to opt-out of receiving communications from us. Those who place orders or join our mailing list may use any of the following options for removing their information from our system and not receive future communications.   
-You can send email to [photo@cameta.com ](mailto:photo@cameta.com%20)  
-You can follow the unsubscribe process mentioned in the mailing list email you received.  
+How To Contact Us   
+Should you have other questions or concerns about these privacy policies, please call us at 631-389-2138 and ask for customer service or send customer service an email at [auctions@cameta.com](mailto:auctions@cameta.com).   
 
-
-Correct/Update  
-This site gives users the following options for changing and modifying information previously provided.   
-email [photo@cameta.com](mailto:photo@cameta.com)
-
-Call the following telephone number: 631-598-3350
-
-Contacting Online:  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
-
-Cameta Camera  
-253 Broadway  
-Amityville, NY 11701  
-[photo@cameta.com](mailto:photo@cameta.com)
