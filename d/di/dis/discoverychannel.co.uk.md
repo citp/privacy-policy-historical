@@ -1,43 +1,66 @@
-> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604125244id_/http%3A//www.discoveryeurope.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discoverychannel.co.uk privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208024508id_/http%3A//discoverychannel.co.uk/_terms/privacy.shtml) for the most accurate reproduction.*
 
-# Discoveryeurope.com | Policy
+# Discovery Channel - Terms & Conditions
 
-**Privacy Policy:**
+**PRIVACY POLICY**
 
-Discovery.com respects your privacy, and we want you to understand the ways in which we do and don't use the information that you transmit when you visit our website. This statement discloses the privacy practices for all Discovery.com websites except for Discovery Kids, which has its own policy specially developed to protect kids. The Discovery Kids privacy policy can be found at [ www.discoverykids.com/KIDS/privacy.html](http://www.discoverykids.com/KIDS/privacy.html)
+The following sets out the privacy policy of Discovery Communications Europe ("us/we") part of the Discovery Communications Inc. group of companies. This policy explains how we use any personal information that you might provide to us on any of our web-sites, including discoverychannel.co.uk, animalplanettv.co.uk, discoveryhealth.co.uk, discovery-kids.co.uk, homeandleisure.co.uk, discoverycivilisation.co.uk, discoveryscience.co.uk, discoverytravelandadventure.co.uk and discoverywings.co.uk (the **"Discovery Sites"** ). This policy does not however apply to Discovery's US sites and we recommend that you review the privacy policies and terms and conditions on any such US sites that you visit.
 
-**A Note to Kids:**   
-If you've left the Discovery Kids Site and you're exploring the other places that Discovery.com has to offer — good for you! Do a little digging and have some fun! But remember you should still get permission from your parents before sending any information about yourself (such as your names, email address, and phone numbers) over the Internet, to us or to anyone else. And a Note to Parents: We won't knowingly allow anyone under 13 to register with any of our sites or to access those features that require registration. 
+Personal information means any information that personally identifies you (such as your name, address or email address). 
 
-**Basics**   
-The information gathered by Discovery.com falls into two categories: (1) information voluntarily supplied by visitors to our websites through optional registration and (2) tracking information routinely gathered as visitors navigate through our sites. 
+We may collect and use personal information about you through your use of the Discovery Sites. In general, we will use this information for administration of the Discovery Sites and any services provided on them (such as competitions), to identify personal preferences and to match your needs with relevant products and services. Information provided when you register is used to enable you to access certain parts of the Discovery Sites and to enable you to post messages on any message boards or in any chat rooms on the Discovery Sites. 
 
-To make use of certain features on our websites (such as My Discovery, free Discovery.com email and email reminders, Conversations, chatrooms and other interactive forums, Smart Viewer, and Shop Discovery) visitors need to register and to provide certain information as part of the registration process. (We may ask, for example, for your name, email address, sex, age, and zip code, and we might request information on your interest in science, animals, nature, travel, sports, books, television programs, and the like.) The information you supply will help us to offer you more personalised features, to tailor our sites to your interests and make them more useful to you. 
+As set out below in more detail, your information may sometimes be used by us and our associated companies and trusted third parties to inform you about changes to the Discovery Sites, new services and offers that you might find interesting. By using the Discovery Sites you agree to our use of your personal information in accordance with this policy.
 
-The more you tell us about yourself, the more value we can offer you. Supplying such information is entirely voluntary. But if you don't supply the information we need, we may be unable to provide you with services we make available to other visitors to our sites. For example, we can't offer you personalised TV Listings listings and program reminders for Discovery Channel, The Learning Channel, Animal Planet, or any of our other TV offerings if you don't tell us which programs and topics you're interested in. And we can't send you email alerting you to the next Mind Game, health news bulletins, any new service we're offering, or breaking news that may interest you if you don't tell us your preferences and give us your email address. Similarly, we can't notify you that you've been lucky enough to win a prize in a promotional contest if we don't know how to contact you. 
+**What and How Do We Collect Information about you and How Is It Used?**
 
-Of course, even if you want to remain completely anonymous, you're still free to take advantage of the wealth of content available on our sites without registration. 
+We may collect and use your information in the following ways. In general, when you submit information, we will ask for your explicit consent to use your information in these ways. 
 
-**For Users of DiscoveryHealth.com.**  
-We recognise that the confidentiality of medical and health-related information is of special concern to many visitors to DiscoveryHealth.com. Discovery is committed to safeguarding your medical privacy. We will not share with ANY third party personally identifiable information relating to medical conditions or health-related interests that you might disclose on DiscoveryHealth.com. 
+  1. If you send us information, we may ask you to enter your name, age, e-mail address and/or postal address. If the information you send us is to be posted on the Discovery Sites, you can elect not to have your name and/or e-mail address displayed alongside your posting. 
+  2. When you order a service or product from us, you may need to input your name, age, e-mail address and/or postal or other delivery address. Sometimes we may ask for your telephone number. We might also ask for your credit or debit card details if you purchase products or other services from the Discovery Sites. These details may also be given to organisers or providers of products or services that you have requested for the purposes of providing you with further information or with those products or services and fulfilling any orders.
+  3. If you enter a contest or promotion we may ask for your name, age, address and e-mail address. This is so we (or any relevant third party) can administer the contest or promotion and to notify the winners.
+  4. We will collect information about your tastes and preferences both when you tell us what these are and by analysis of customer traffic, including by using cookies (see below).
+  5. We may use information collected about you to personalise your visits to the Discovery Sites and recommend goods or services to you. We also use the information to help us develop the design and layout of our websites to ensure that they are as useful and enjoyable as possible.
+  6. We may use the information we collect, with your consent, to contact you from time to time by post, email, telephone and/or SMS to inform you about functionality changes to our web-sites, new goods, services or offers and other information that you may find interesting.
+  7. We, or third parties on our behalf, might also use your personal information to conduct market research.
+  8. In addition, we may provide aggregate statistics about customers, traffic patterns and other site information to third parties, but these statistics will not include any information that could personally identify you.
 
-**Cookies**   
-To help make our sites more responsive to the needs of our visitors, we invoke a standard feature found in browser software, called a "cookie," to assign each visitor a unique, random number, a sort of anonymous user ID that resides on your computer. The cookie doesn't actually identify the visitor, just the computer that a visitor uses to access our site. Unless you voluntarily identify yourself (through registration, for example), we won't know who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply. A cookie can't read data off your hard drive. Our advertisers may also assign their own cookies to your browser, a process that we don't control. 
 
-We use cookies to help us tailor our site to your needs, to deliver a better, more personalised service. It is a cookie, for example, that allows you to post messages in the Conversations area without having to login and give your password every time you come back, even if you've been away for awhile. And we use cookies to avoid showing you the same ad, repeatedly, during a single visit. In addition, we may use cookies to track the pages on our sites visited by our users. We can build a better site if we know which pages our users are visiting and how often. Of course, you can set your browser not to accept cookies, but if you do, you may not be able to take advantage of the personalised features enjoyed by other visitors to our sites. 
 
-**IP Addresses**  
-Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our sites. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our sites to the interests of our users, and to measure traffic within our sites. 
+Additionally we reserve the right to access and disclose your personal information to comply with applicable laws and lawful government requests, law enforcement agencies or other parties whose requests we reasonably consider to be justified in connection with any allegations about your mis-use of our services, to operate our systems properly or to protect ourselves or our users. 
 
-**Information Sharing and Sites Beyond DCOL**  
-To make our sites more valuable to our visitors, we offer some features in conjunction with other providers. Our chat and free email services, for example, are made available through cooperative arrangements with providers that specialise in operating such services. And, of course, our sites include links to plenty of other websites whose privacy policies we don't control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you're visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information. 
+**Will We Disclose the Information We Collect to Third Parties?**
 
-When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our websites -- it is usually in the form of aggregated statistics on traffic to various pages within our sites. From time to time, we may share information on visitors to our sites with those marketing products and services that we believe might be of interest to you. Please indicate on our registration form if you'd prefer we not share such information with them. If you so indicate on our registration form, we won't share information about you with anyone other than those identified when the information is collected. And, of course, you are always free not to input the information we request (though this may make it impossible for us to provide certain services we make available to other visitors to our sites). If you want to change your election (or to review, update, or delete the information you provided on registering), just return to the registration form, enter the changes you want to make, and re-submit the form. Sometimes, we might also contact you directly about our own or our advertisers' products and services. If you'd prefer that we not do so, just indicate on your registration form that you prefer not to receive offers and information. And remember, you can always change your preferences. 
+We may choose to transfer your personal information to trustworthy third parties a list of whom can be seen at so that they can also send you information, offers or other material that you may find interesting. You may instruct us not to do so at any time by sending an e-mail message to [mail_us@discovery-europe.com.](mailto:mail_us@discovery-europe.com)
 
-**Encryption and Security**  
-All information gathered on any DISCOVERY.COM website is encrypted for storage within a Discovery.com-controlled database. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any chatroom, forum or other public posting area is available to anyone with Internet access. If you don't want people to know your email address, for example, don't include it in any message you post publicly. 
+Your personal data may be transferred outside of the European Economic Area for processing. Any transfer of your data is done in circumstances ensuring that your data is processed only in accordance with this privacy policy and the UK's data protection legislation. By registering on a Discovery Site and consenting to these terms, you are consenting to this transfer.
 
-**A final note:**  
-The Web is an evolving medium. If we need to change our privacy policy at some point in the future, we'll post the changes here. Of course, our use of information gathered while the current policy is in effect will always be consistent with the current policy, even if we change that policy later. If you have any questions about our privacy policy, please send an email to [[privacypolicy@discovery.com](mailto:privacypolicy@discovery.com)]. Thanks for making the Discovery.com ine family of websites a part of your discoveries online! The Web is an evolving medium.
+In the event that we sell or otherwise dispose of some or all of our business to another party, we reserve the right to transfer your information as part of any assets sold or disposed of.
 
-Thank you for joining the Discovery.com team! 
+**How Do We Protect Your Information?**
+
+When you review your information, we offer the use of a secure server. The secure server software encrypts the information that you input before it is transmitted to us. In addition, we have security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with the UK data protection legislation. This means that sometimes we may ask for proof of your identity before we disclose personal information to you. 
+
+**Cookies**
+
+A cookie is a piece of information that is stored on your computer's hard drive by your web browser. On revisiting a Discovery Site our computer server will recognise the cookie, giving us information about your last visit. Most browsers accept cookies automatically, but usually you can alter the settings of your browser to prevent automatic acceptance (see the "Help" toolbar). If you choose not to receive cookies, you may still use most of the features of our web site. 
+
+**How Do I Un-subscribe or Amend my Personal Information?**
+
+You can amend or delete from our databases the information that you have given via the Discovery Sites at any time. If you do not wish to receive any particular information, or if you would like to amend the personal data that we hold about you, please send an e-mail to [mail_us@discovery-europe.com](mailto:mail_us@discovery-europe.com) or write to Viewer Relations at Discovery Communications Europe, PO Box 4424, London W1A 7Qu. Alternatively you can call us on 0870 600 5646 on weekdays between the hours of 9am and 6pm.
+
+We may also use a "Personal Profile Page", which enables you to update your personal information at any time and/or request that we delete your information from our records. This allows us to maintain accurate and up-to-date personal data about you.
+
+**Changes to our Privacy Policy**
+
+We will try to inform you if there are any changes to this policy that materially affect how we use your information. However, we encourage users to be responsible about their privacy and to check this policy from time to time and to update their preferences.
+
+**Discovery Health**
+
+You should remember that all information that is disclosed in the chat rooms, forums and/or other public-posting areas on the Discovery Sites becomes public information and you should exercise caution when deciding to share any of your personal information. If you post any sensitive personal information you are expressly consenting to our processing and use of such data in connection with our operation of the Discovery Health website.
+
+Additional terms and conditions apply to the use of the [Discovery Health Forum](http://discoveryhealth.co.uk/forum3/). In the event of any inconsistency between these Terms and the additional terms and conditions on the Discovery Health Forum, the latter will prevail.
+
+**Customer Feedback and Complaints**
+
+We welcome your questions and comments about privacy issues and the design of our web site. Should you have such comments or have a complaint about how we are using your personal data, please e-mail us at [mail_us@discovery-europe.com.](mailto:mail_us@discovery-europe.com)
