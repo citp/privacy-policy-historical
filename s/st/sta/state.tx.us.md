@@ -1,31 +1,17 @@
-> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/page.jsp%3Flanguage%3Deng%26pageId%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.tx.us privacy policy that was archived on 2004-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041216214236id_/http%3A//www.state.tx.us/page.jsp%3Flanguage%3Deng%26pageId%3Dprivacy) for the most accurate reproduction.*
 
 # TexasOnline : TexasOnline Authority Privacy and Security Policy
 
-| [About Texas](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=1)|   
----|---  
-[Business and Consumer Services](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=2)|   
-[Education and Training](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=3)|   
-[Employment and Labor](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=4)|   
-[Environment and Natural Resources](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=5)|   
-[Government](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=6)|   
-[Health and Family Services](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=7)|   
-[Laws and Criminal Justice](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=8)|   
-[Licenses, Permits, Registration, and Public Records](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=9)|   
-[Online Services](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=10)|   
-[Regional and Community Resources](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=11)|   
-[Travel and Recreation](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=12)|   
-  
-| 
+| | 
 
-[ Home](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/home.jsp?language=eng) : TexasOnline Authority Privacy and Security Policy[](https://web.archive.org/web/20040607032054id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=)   
+[ Home](https://web.archive.org/web/20041216214236id_/http%3A//www.state.tx.us/home.jsp?language=eng) : TexasOnline Authority Privacy and Security Policy[](https://web.archive.org/web/20041216214236id_/http%3A//www.state.tx.us/category.jsp?language=eng&categoryId=)   
 
 
 ### Statement of Purpose
 
 This policy describes the privacy practices regarding information collected from visitors to TexasOnline. It contains information about what data is collected and how it is used. The TexasOnline Privacy and Security Policy applies only to the TexasOnline site. **This policy does not apply whenever visitors leave the TexasOnline domains and follow a link to another site, including the sites of state agencies and local governments..** If the address in the browser does not indicate one of the TexasOnline domains, you are no longer on the TexasOnline site. The privacy and security policy of the site owner of each site visited should be reviewed to determine how each site owner addresses personally identifiable information. This policy may be updated periodically.
 
-The TexasOnline Authority approved the current version of this policy on October 10, 2003.
+The TexasOnline Authority approved the policy on October 10, 2003. It was amended October 2004.
 
 ### Origin
 
@@ -38,10 +24,10 @@ Throughout this document unless otherwise specified:
   * "Authority" means the TexasOnline Authority;
   * "DIR" means the Department of Information Resources; 
   * "Governmental body" means those entities identified in the definition of governmental body found at Texas Government Code, Section 552.003, which is part of the Texas Public Information Act.
-  * "Personally identifiable information" means information that could be used to name or distinguish an individual conducting business on TexasOnline from others. Personally identifiable information includes, but is not limited to: name; address; Social Security Number; credit card, debit card, or bank account information numbers; driver?s license number, professional license number, occupational license number, and tax identification numbers; and email address.
+  * "Personally identifiable information" means information that could be used to name or distinguish an individual conducting business on TexasOnline from others. Personally identifiable information includes, but is not limited to: name; address; Social Security Number; credit card, debit card, or bank account information numbers; driver's license number, professional license number, occupational license number, and tax identification numbers; and email address.
   * "TexasOnline" refers to any content or applications residing on the TexasOnline domains; or the Authority, the TexasOnline Division, and/or the staff of the primary contractor who manage, oversee or operate said content and applications;
-  * "TexasOnline Division" means the TexasOnline Division of the Department of Information Resources;
-  * "TexasOnline domains" refer to the following: [http://www.texasonline.com](http://www.texasonline.com/), [http://www.state.tx.us](http://www.state.tx.us/), [http://www.texasonline.state.tx.us](http://www.texasonline.state.tx.us/), [http://info.texas.gov](http://info.texas.gov/), [http://www.tx.gov](http://www.tx.gov/) and [http://www.texas.gov](http://www.texas.gov/).
+  * "TexasOnline Division" means the TexasOnline operation of the Department of Information Resources;
+  * "TexasOnline domains" refer to the following: [http://www.texasonline.com](http://www.texasonline.com/), [http://www.state.tx.us](http://www.state.tx.us/), [http://www.texasonline.state.tx.us](http://www.texasonline.state.tx.us/), [http://info.texas.gov](http://info.texas.gov/), [http://www.tx.gov](http://www.tx.gov/), [http://www.texasonline.gov](http://www.texasonline.gov/) and [http://www.texas.gov](http://www.texas.gov/).
 
 
 
@@ -75,9 +61,9 @@ TexasOnline uses contractors to provide various products and services required f
 
 TexasOnline will not disclose the email addresses of members of the public that have communicated electronically with a governmental body without the affirmative consent of the affected individual. Personally identifiable information contained in a question or comment sent to TexasOnline in an email message or submitted in an online form is only used by TexasOnline to respond to the question or comment. TexasOnline may redirect the message to a specific state agency or local government for response if TexasOnline staff believes that the state agency or local government may be in a better position to answer the question than the staff of TexasOnline.
 
-The TexasOnline Division or Authority may be required by law enforcement or judicial authorities to provide personally identifiable information to the appropriate governmental authorities. The Authority and the TexasOnline Division will cooperate with law enforcement agencies in identifying those who appear to be using our services for illegal activities. The Authority and the TexasOnline Division reserve the right to report to law enforcement agencies any activities that they in good faith believe to be unlawful.
+The Department of Information Resources or the TexasOnline Authority may be required by law enforcement or judicial authorities to provide personally identifiable information to the appropriate governmental authorities. The Authority and the TexasOnline Operation will cooperate with law enforcement agencies in identifying those who appear to be using our services for illegal activities. The Authority and the TexasOnline Operation reserve the right to report to law enforcement agencies any activities that they in good faith believe to be unlawful.
 
-**TexasOnline does not sell or release personally identifiable information.** Information provided to any governmental body may be subject to disclosure pursuant to the Texas Public Information Act and applicable federal legislation. Information about the [Texas Public Information Act](http://www.oag.state.tx.us/AG_Publications/txts/publicinformation99.shtml) is available from the Office of the Attorney General and at [Texas Government Code, Chapter 552](http://www.capitol.state.tx.us/statutes/docs/GV/content/htm/gv.005.00.000552.00.htm#552.001.00). Additionally, although TexasOnline does not sell or release personally identifiable information, certain state agencies or local governments whose sites are accessible through TexasOnline may have different policies concerning the sale or release of personally identifiable information. Information about those policies should be obtained from the appropriate state agency or local government.
+**TexasOnline does not sell or release personally identifiable information.** Information provided to any governmental body may be subject to disclosure pursuant to the Texas Public Information Act and applicable federal legislation. Information about the [Texas Public Information Act](http://www.oag.state.tx.us/AG_Publications/txts/2004publicinfohb_3_01.shtml) is available from the Office of the Attorney General and at [Texas Government Code, Chapter 552](http://www.capitol.state.tx.us/statutes/docs/GV/content/htm/gv.005.00.000552.00.htm#552.001.00). Additionally, although TexasOnline does not sell or release personally identifiable information, certain state agencies or local governments whose sites are accessible through TexasOnline may have different policies concerning the sale or release of personally identifiable information. Information about those policies should be obtained from the appropriate state agency or local government.
 
 ### Access to Information
 
@@ -113,6 +99,6 @@ To the extent allowed by the laws that establish the framework of open governmen
 
 ### Contact Information
 
-If you have any questions or concerns about the TexasOnline Privacy and Security Policy, please contact us at [privacy@dir.state.tx.us](mailto:privacy@dir.state.tx.us). If you have any questions or concerns about how state agencies and local governments handle personal information, please contact those governmental bodies directly.
+If you have any questions or concerns about the TexasOnline Privacy and Security Policy, please contact us at [webmaster@www.state.tx.us](mailto:webmaster@www.state.tx.us). If you have any questions or concerns about how state agencies and local governments handle personal information, please contact those governmental bodies directly.
 
 | 
