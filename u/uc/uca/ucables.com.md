@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucables.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602073955id_/http%3A//ucables.com/orders/policy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucables.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206083353id_/http%3A//ucables.com/orders/policy.phtml) for the most accurate reproduction.*
 
 # Orders > Privacy Policy
 
