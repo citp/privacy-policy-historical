@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the infomine.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211104835id_/http%3A//www.infomine.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infomine.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207043957id_/http%3A//infomine.com/about/privacy.html) for the most accurate reproduction.*
 
 # InfoMine - The Internet's Premier Mining Information Site
 
   
-
-
-[](http://www.infomine.com/banners/banner.asp?a=click&c=t1&n=58)
-
   
 
 
