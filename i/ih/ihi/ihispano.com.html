@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ihispano.com privacy policy that was archived on 2004-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040408233128id_/http%3A//www.ihispano.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ihispano.com privacy policy that was archived on 2004-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204061753id_/http%3A//www.ihispano.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<!--  Best site for Hispanics and bilinguals to find jobs, salary information, company information, and products and services for the Hispanic community  -->
@@ -21,16 +21,16 @@
 	function goTo(theInput) {
 	//opens url passed from selection list, unless no link (#noLink) is specified
 	url=theInput.options[theInput.selectedIndex].value
-	document.location.href = "http://ihispano.com/marketplace/market.asp?id=" + url
+	document.location.href = "http://www.ihispano.com/marketplace/market.asp?id=" + url
 	}
 	function pop(str)
 	{
-		popupzz = open("http://ihispano.com/" + str,"popupzz","location=no,toolbar=yes,scrollbars=yes,resizable=yes,width=500,height=375");
+		popupzz = open("http://www.ihispano.com/" + str,"popupzz","location=no,toolbar=yes,scrollbars=yes,resizable=yes,width=500,height=375");
 		popupzz.focus();
 	}
 	function resumepop(str)
 	{
-		popupzz = window.open("http://ihispano.com/" + str,"popupzz","location=no,toolbar=yes,scrollbars=yes,resizable=yes,width=600,height=400");
+		popupzz = window.open("http://www.ihispano.com/" + str,"popupzz","location=no,toolbar=yes,scrollbars=yes,resizable=yes,width=600,height=400");
 		popupzz.focus();
 	}
 	function pop2(str)
@@ -54,10 +54,38 @@
 	}
 	// end hide -->bru
 	</script>
+	<!-- Slideshow -->
+<script language="JavaScript1.1">
+<!--
+
+var slideimages=new Array()
+var slidelinks=new Array()
+function slideshowimages(){
+for (i=0;i<slideshowimages.arguments.length;i++){
+slideimages[i]=new Image()
+slideimages[i].src=slideshowimages.arguments[i]
+}
+}
+function slideshowlinks(){
+for (i=0;i<slideshowlinks.arguments.length;i++)
+slidelinks[i]=slideshowlinks.arguments[i]
+}
+function gotoshow(){
+if (!window.winslide||winslide.closed)
+winslide=window.open(slidelinks[whichlink])
+else
+winslide.location=slidelinks[whichlink]
+winslide.focus()
+}
+//-->
+</script>
+
 	</head>
 
 	<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" alink="#003399" link="#003399" vlink="#003399">
-
+	<!--Carlos made an ooopsie... bgcolor=white, text=white... just what a diversity company needs! -DS 6/30/2004
+	<BODY bgcolor="#FFFFFF" text="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" alink="#003399" link="#003399" vlink="#003399">
+    -->
 	
 	<table width="790" border="0" cellpadding="0" cellspacing="0" background="../images/index_int_.jpg">
 	 <tbody><tr>
@@ -97,7 +125,58 @@
 	     <td width="20"></td>
 	    </tr>
 	    <tr> 
-	     <td height="60" colspan="8"><a href="/banner.asp?id=1805575&amp;url=http%3A%2F%2Fwww%2Eihispano%2Ecom%2Fjobs%2Fviewclient%2Easp%3Fclientid%3D1972" target="_blank"><img alt="ihispano.com hispano and diversity job board" src="http://66.77.116.50/banner_images/pbbanner.gif" border="0"></a></td>
+	     <td height="60" colspan="8"><!-- banner rotator -->
+		<a href="javascript:gotoshow()">
+		<img src="https://www.ihispano.com/banner_images/pbbanner.gif" name="slide" border="0" width="468" height="60"></a>
+		 <script>
+		<!--
+		slideshowimages(
+            "https://www.ihispano.com/banner_images/pbbanner.gif",
+            "https://www.ihispano.com/banner_images/cendantBanner.gif",
+            "https://www.ihispano.com/banner_images/486x60MS.gif",
+            "https://www.ihispano.com/banner_images/radioshack_seasonal.gif",
+            "https://www.ihispano.com/banner_images/Guy_Carpenter.jpg",
+            "https://www.ihispano.com/banner_images/Hewitt_468x60.jpg",
+            "https://www.ihispano.com/banner_images/Sodexho.jpg",
+            "https://www.ihispano.com/banner_images/banner_cia.gif",
+            "https://www.ihispano.com/banner_images/banner_latinastyle.gif",
+            "https://www.ihispano.com/banner_images/banner_usta.gif",
+            "https://www.ihispano.com/banner_images/banner_mercer.jpg",
+            "https://www.ihispano.com/banner_images/banner_nish.gif"
+            )
+		slideshowlinks(
+            "http://www.pb.com/cgi-bin/pb.dll/jsp/Home.do",
+            "http://www.cendant.com/",
+            "http://www.microsoft.com/",
+            "http://www.radioshackcorporation.com/careers/retail_011_rd.html",
+            "http://www.guycarp.com/portal/extranet/index.html?vid=71",
+            "http://was4.hewitt.com/hewitt/",
+            "http://www.sodexo.com/",
+            "http://www.cia.gov/",
+            "http://www.latinastyle.com/",
+            "http://usta.recruitmax.com/ENG/candidates/",
+            "http://www.mercer.com/",
+            "http://www.nish.org/"
+            )
+
+		var slideshowspeed=10000
+
+		var whichlink=0
+		var whichimage=0
+		function slideit(){
+		if (!document.images)
+		return
+		document.images.slide.src=slideimages[whichimage].src
+		whichlink=whichimage
+		if (whichimage<slideimages.length-1)
+		whichimage++
+		else
+		whichimage=0
+		setTimeout("slideit()",slideshowspeed)
+		}
+		slideit()
+		//-->
+	</script></td>
 	    </tr>
 	    <tr> 
 	     <td height="1" width="124"></td>
@@ -117,11 +196,11 @@
 	    </tr>
 	    <tr>
 	     <td valign="top" height="82"> 
-	      <p><img alt="ihispano.com hispano and diversity job board" src="../images/spacer.gif" width="5" height="80" align="left"><a href="/client/login.asp" class="Heading2">Post Jobs</a><br>
+	      <p><img alt="ihispano.com hispano and diversity job board" src="../images/spacer.gif" width="5" height="80" align="left"><a href="/client/ManageJobs.asp" class="Heading2">Post Jobs</a><br>
 	      <br>
-	      <a href="/client/login.asp" class="Heading2">View Resumes</a><br>
-	      <br>
-	      <a href="/client/login.asp" class="Heading2">Search Database</a></p>
+	      <a href="/client/resumes.asp" class="Heading2">View Resumes</a><br>
+	      <!--<br>
+	      <a href="/client/login.asp" class="Heading2">Search Database</a>--></p>
 	     </td>
 	     <td height="72"></td>
 	    </tr>
@@ -356,7 +435,7 @@ As a user of ihispano.com, you may interact with, purchase goods and/or services
 	document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="https://statse.webtrendslive.com/S009-00-10-23-200334-32564/button3.asp?'+W+'">');
 	document.write('</A>');
 	//-->
-	</script><a target="_blank" href="https://www.webtrendslive.com/redirect.asp?siteID=32564"><img border="0" width="1" height="1" src="https://statse.webtrendslive.com/S009-00-10-23-200334-32564/button3.asp?tagver=3&amp;SiteId=32564&amp;Sid=009-00-10-23-200334-32564&amp;Tz=-600&amp;firstwkday=sunday&amp;Edition=ecommerce&amp;Button=&amp;server=&amp;order=&amp;Group=&amp;browserDate=Thu%20Jan%2030%202020%2020%3A37%3A40%20GMT+0000%20%28Coordinated%20Universal%20Time%29&amp;title=ihispano.com%3A%20Privacy%20Statement&amp;url=https://web.archive.org/web/20040408233128id_/http%3A//www.ihispano.com/privacy.asp&amp;referrer=&amp;appname=Netscape&amp;appversion=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;cookieOK=Yes&amp;userLanguage=en-US&amp;platform=Linux x86_64&amp;bgColor=%23FFFFFF&amp;javaOK=Yes&amp;screenResolution=800x600&amp;colorDepth=24&amp;NSpluginList="></a>
+	</script><a target="_blank" href="https://www.webtrendslive.com/redirect.asp?siteID=32564"><img border="0" width="1" height="1" src="https://statse.webtrendslive.com/S009-00-10-23-200334-32564/button3.asp?tagver=3&amp;SiteId=32564&amp;Sid=009-00-10-23-200334-32564&amp;Tz=-600&amp;firstwkday=sunday&amp;Edition=ecommerce&amp;Button=&amp;server=&amp;order=&amp;Group=&amp;browserDate=Thu%20Jan%2030%202020%2020%3A37%3A44%20GMT+0000%20%28Coordinated%20Universal%20Time%29&amp;title=ihispano.com%3A%20Privacy%20Statement&amp;url=https://web.archive.org/web/20041204061753id_/http%3A//www.ihispano.com/privacy.asp&amp;referrer=&amp;appname=Netscape&amp;appversion=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;cookieOK=Yes&amp;userLanguage=en-US&amp;platform=Linux x86_64&amp;bgColor=%23FFFFFF&amp;javaOK=Yes&amp;screenResolution=800x600&amp;colorDepth=24&amp;NSpluginList="></a>
 	<noscript>
 	<A TARGET="_blank" HREF="https://www.webtrendslive.com/redirect.asp?siteID=32564">
 	<IMG alt="ihispano.com hispano and diversity job board" BORDER="0" WIDTH="1" HEIGHT="1" SRC="https://statse.webtrendslive.com/S009-00-10-23-200334-32564/button3.asp?tagver=3&SiteId=32564&Sid=001-00-3-10-6692-7351&Tz=-600&firstwkday=sunday&Edition=ecommerce&Button=&title=NO%20SCRIPT&url=http://noscript&javaOK=No&">
