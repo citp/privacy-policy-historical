@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yaledailynews.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615184536id_/http%3A//www.yaledailynews.com/ydn/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yaledailynews.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205031500id_/http%3A//www.yaledailynews.com/ydn/privacy.asp) for the most accurate reproduction.*
 
 # Yale Daily News
 
@@ -24,10 +24,14 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 
 Some ads which may appear on the _Yale Daily News_ Online website are served and processed by third-party associates. The _Yale Daily News_ has attempted to ensure that only reputable advertising brokers with strong privacy policies may place advertisements on this website. Some advertisers may collect personal information for the purpose of responding to inquiries, others may collect information in aggregate form in order to better understand the needs of the users of this website. Once you have left yaledailynews.com, we cannot ensure your privacy protection and we strongly urge you to investigate the privacy policies of all other websites you visit.
 
-The following statement is required for disclosure of our relationship with a third party ad serving affiliate:
+The following statements are required for disclosure of our relationship with third party ad serving affiliates:
 
-THE _YALE DAILY NEWS_ ONLINE WORKS WITH A THIRD PARTY THAT SERVES SOME ADS TO THIS SITE. TO FIND OUT MORE ABOUT HOW FLYCAST MANAGES THE PRIVACY OF INFORMATION IN CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO [HTTP://WWW.FLYCAST.COM/about_us/about-privacy.html ](http://www.flycast.com/about_us/about-privacy.html)
-
+Flycast Network  
+THE _YALE DAILY NEWS_ ONLINE WORKS WITH A THIRD PARTY THAT SERVES SOME ADS TO THIS SITE. TO FIND OUT MORE ABOUT HOW FLYCAST MANAGES THE PRIVACY OF INFORMATION IN CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO [HTTP://WWW.FLYCAST.COM/about_us/about-privacy.html ](http://www.flycast.com/about_us/about-privacy.html)  
+---  
+SONAR Network  
+"Our Web site uses a reputable third party to serve some of the advertisements that you see on the pages of our Web site. If you would like to know more about the information gathering practices and "opt-out" procedures of our third party ad server, please [click here](http://www.sonar.com/content/privacy.htm)"   
+  
 **Protecting Your Privacy Online**
 
 The _Yale Daily News_ Online is committed to protecting your privacy. If you are concerned about your privacy at other sites, we recommend that you investigate their privacy policies. You may also wish to investigate your browser's security and privacy settings, especially relating to "cookie files" and "proxy servers". 
