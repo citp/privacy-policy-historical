@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2003-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030606212302id_/http%3A//www.thedjlist.com/privacy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedjlist.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203184837id_/http%3A//www.thedjlist.com/privacy.php3) for the most accurate reproduction.*
 
 # The DJ List > Privacy Statement
 
@@ -77,7 +77,7 @@ Many promotions offer opportunities to request additional information from spons
 
 From time to time, you may be offered the opportunity to receive materials or special offers from third parties. If you opt-in to receive information from these third parties, The DJ List will (with your permission) share your name and email address with them . 
 
-_Third Party Data & Data in the Aggregate_: Under confidentiality agreements, The DJ List may match user information with third party data. Also, The DJ List discloses aggregated user statistics (for example, 45% of our users are female) in order to describe our services to current and prospective partners, advertisers, and other third parties, and for other lawful purposes. _Market Research Data in the Aggregate_ : The DJ List sells aggregated user statistics to third parties (for example, males aged 13 to 25 currently rate their interest in your product as "7.3X"). This data will never be provided in any fashion that could be connected with you as an individual. _Other_ : The DJ List may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating The DJ List's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) The DJ List's rights or property, other The DJ List users, or anyone else that could be harmed by such activities. The DJ List may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
+_Third Party Data & Data in the Aggregate_: Under confidentiality agreements, The DJ List may match user information with third party data. Also, The DJ List discloses aggregated user statistics (for example, 45% of our users are female) in order to describe our services to current and prospective partners, advertisers, and other third parties, and for other lawful purposes. _Market Research Data in the Aggregate_ : The DJ List sells aggregated user statistics to third parties (for example, males aged 18 to 25 currently rate their interest in your product as "7.3X"). This data will never be provided in any fashion that could be connected with you as an individual. _Other_ : The DJ List may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating The DJ List's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) The DJ List's rights or property, other The DJ List users, or anyone else that could be harmed by such activities. The DJ List may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. 
 
 (top)
 
@@ -104,7 +104,7 @@ Unfortunately, no data transmission over the Internet or any wireless network ca
 (top)
 
 **What about children's privacy?**   
-The DJ List is not directed to children under the age of 13. We prohibit registration by and will not knowingly collect personally identifiable information from anyone under 13. This requirement will be posted at points of data collection within the The DJ List, such as registration for services.
+The DJ List is not directed to children. We prohibit registration by and will not knowingly collect personally identifiable information from anyone under 18.
 
 (top)
 
