@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the jref.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401184509id_/http%3A//www.jref.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jref.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211215140id_/http%3A//www.jref.com/privacy) for the most accurate reproduction.*
 
 # JREF - Privacy Statement
 
   
-**JapanReference** (JREF) is committed to providing you with information tailored to your individual needs and, at the same time, to protecting your privacy. We do not collect personally identifying information with the sole exception of your specific knowledge and consent thereof. We do not share such information with any third parties, and no third party has access to your stored information. 
+**Japan Reference** (JREF) is committed to providing you with information tailored to your individual needs and, at the same time, to protecting your privacy. We do not collect personally identifying information with the sole exception of your specific knowledge and consent thereof. We do not share such information with any third parties, and no third party has access to your stored information. 
 
 JREF stores usernames, passwords and email addresses in password protected directories and publicly inaccessible databases. 
 
