@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the ifloor.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206013200id_/http%3A//www.ifloor.com/html/cs/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifloor.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604084414id_/http%3A//www.ifloor.com/html/cs/privacy.shtml) for the most accurate reproduction.*
 
 # iFLOOR.com - The Internet's Flooring Store
 
----  
+#### Privacy Statement
+
 At **i FLOOR.com**, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.   
   
+---  
 **What information do we collect? How do we use it?**  
   
   * When you order, we need to know your name, e-mail address, mailing address, shipping address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. 
