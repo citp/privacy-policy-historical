@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valentine.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207094632id_/http%3A//www.infospace.com/info.valent/about/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valentine.com privacy policy that was archived on 2003-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030413165024id_/http%3A//www.infospace.com/info.valent/about/corporate/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Valentine.com
 
