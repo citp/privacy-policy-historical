@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618153622id_/http%3A//www.lungusa.org/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lungusa.org privacy policy that was archived on 2000-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001010111436id_/http%3A//www.lungusa.org/privacy/index.html) for the most accurate reproduction.*
 
 # Registration Information/Privacy Policy
 
