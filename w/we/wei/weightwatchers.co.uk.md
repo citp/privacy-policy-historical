@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2003-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030811182835id_/http%3A//www.weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weightwatchers.co.uk privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602222213id_/http%3A//weightwatchers.co.uk/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Welcome to Weight Watchers
 
@@ -82,7 +82,7 @@ Finally, please note that advertisers and other third parties may also use their
 
 **_Internet Products._**
 
-We collect information, some of which may be Personally Identifiable Information, that you voluntarily provide to us when you choose to use some of our Internet Products (available either for free or on a subscription basis) such as the "My Favourites" feature, the online "Points� Tracker" tool, and the "Weight Tracker" tool. We also collect information that you provide voluntarily through responses to special Internet Products such as surveys, questionnaires, self-assessment quizzes, contests and the like. Some of these Internet Products may ask you for health related information. We collect this information in order to personalize your Internet experience.
+We collect information, some of which may be Personally Identifiable Information, that you voluntarily provide to us when you choose to use some of our Internet Products (available either for free or on a subscription basis) such as the "My Favourites" feature, the online "Points® Tracker" tool, and the "Weight Tracker" tool. We also collect information that you provide voluntarily through responses to special Internet Products such as surveys, questionnaires, self-assessment quizzes, contests and the like. Some of these Internet Products may ask you for health related information. We collect this information in order to personalize your Internet experience.
 
 **_Public Forums and the Public Profile Feature._**
 
