@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the traditionalhome.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206101235id_/http%3A//www.traditionalhome.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traditionalhome.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401100151id_/http%3A//traditionalhome.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Traditional Home Magazine®
 
   
-|  [ ](https://web.archive.org/web/20021206101235id_/http%3A//www.traditionalhome.com/inthisissue.htm)  
+|  [ ](https://web.archive.org/web/20030401100151id_/http%3A//traditionalhome.com/inthisissue.htm)  
 ---  
-[ ](https://web.archive.org/web/20021206101235id_/http%3A//www.traditionalhome.com/ppp.htm)  
+[ ](https://web.archive.org/web/20030401100151id_/http%3A//traditionalhome.com/ppp.htm)  
 [ ](https://secure.bhg.com/bhg/store/checkout/partner/?promoCode=I201PDF11&site=bhg)  
-[ ](https://web.archive.org/web/20021206101235id_/http%3A//www.traditionalhome.com/mediakit.htm)  
-[ ](https://web.archive.org/web/20021206101235id_/http%3A//www.traditionalhome.com/designerservice/default.html)  
+[ ](https://web.archive.org/web/20030401100151id_/http%3A//traditionalhome.com/mediakit.htm)  
+[ ](https://web.archive.org/web/20030401100151id_/http%3A//traditionalhome.com/designerservice/default.html)  
 |  |  |     
 
 
@@ -54,21 +54,21 @@ To make your online experience more useful and enjoyable, our sites include link
 
 In addition, we may share some personal information (but not your email address) with other companies that offer marketing information or products that we think will be of interest to you. If you do not wish to receive such mailings, please tell us. Send your request with your name and complete address to Circulation Department, Meredith Corporation, 1716 Locust Street, Des Moines, Iowa 50309-3023.
 
-We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Visitor Agreement](https://web.archive.org/web/20021206101235id_/http%3A//www.traditionalhome.com/termsofuse.htm), or to protect the rights, property or safety of visitors to our sites, the public, or Meredith Corporation. As our business grows, we may buy or sell various assets. In the unlikely event that Meredith Corporation, substantially all of our assets, or one or more of our sites (or substantially all of its assets) is acquired by another company, information on our visitors would be among the transferred assets.
+We may occasionally release information about our visitors when release is appropriate to comply with law, to enforce our [Visitor Agreement](https://web.archive.org/web/20030401100151id_/http%3A//traditionalhome.com/termsofuse.htm), or to protect the rights, property or safety of visitors to our sites, the public, or Meredith Corporation. As our business grows, we may buy or sell various assets. In the unlikely event that Meredith Corporation, substantially all of our assets, or one or more of our sites (or substantially all of its assets) is acquired by another company, information on our visitors would be among the transferred assets.
 
 **How to correct or update your information** :  
-Meredith Corporation believes strongly in providing you with the ability to access and edit the personal information that you have provided to us. To update the information retained about you please visit our [Member Services](https://web.archive.org/web/20021206101235id_/http%3A//www.traditionalhome.com/membercenter.htm) area.
+Meredith Corporation believes strongly in providing you with the ability to access and edit the personal information that you have provided to us. To update the information retained about you please visit our [Member Services](https://web.archive.org/web/20030401100151id_/http%3A//traditionalhome.com/membercenter.htm) area.
 
 **Opt-out Information for** :   
-Newsletters: If you no longer wish to receive e-mail newsletters, you can either (1) follow the 'update newsletter preferences' link located near the bottom of each message or (2) go to the [Member Center](https://web.archive.org/web/20021206101235id_/http%3A//www.traditionalhome.com/membercenter.htm) and click on the link to 'update your profile' and change your newsletter selections on the third page.
+Newsletters: If you no longer wish to receive e-mail newsletters, you can either (1) follow the 'update newsletter preferences' link located near the bottom of each message or (2) go to the [Member Center](https://web.archive.org/web/20030401100151id_/http%3A//traditionalhome.com/membercenter.htm) and click on the link to 'update your profile' and change your newsletter selections on the third page.
 
 Promotional E-mails: If you do not wish to receive email promotions from us, send an e-mail to [dropme@mdp.com](mailto:dropme@mdp.com) with "Opt-out of Marketing" in the subject line to "opt out." Of course, you may change your preferences at any time. We will make any changes you request as quickly as we can. 
 
 **Security and Passwords** :  
-The personally identifiable information we collect is securely stored within our database, and we use standard, industry-wide procedures such as encryption, firewalls and SSL (Secure Socket Layers) for protecting your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. Please see our [Visitor Agreement](https://web.archive.org/web/20021206101235id_/http%3A//www.traditionalhome.com/termsofuse.htm) for more information related to posting materials on our sites, including our use of such materials.
+The personally identifiable information we collect is securely stored within our database, and we use standard, industry-wide procedures such as encryption, firewalls and SSL (Secure Socket Layers) for protecting your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. Please see our [Visitor Agreement](https://web.archive.org/web/20030401100151id_/http%3A//traditionalhome.com/termsofuse.htm) for more information related to posting materials on our sites, including our use of such materials.
 
 **Miscellaneous** :   
-The Internet is an evolving medium. If we need to change our Privacy Policy at some point in the future, we'll post the changes before they take effect. By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our [Visitor Agreement](https://web.archive.org/web/20021206101235id_/http%3A//www.traditionalhome.com/termsofuse.htm). Please read both carefully before using or registering with any of our sites.
+The Internet is an evolving medium. If we need to change our Privacy Policy at some point in the future, we'll post the changes before they take effect. By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Privacy Policy and our [Visitor Agreement](https://web.archive.org/web/20030401100151id_/http%3A//traditionalhome.com/termsofuse.htm). Please read both carefully before using or registering with any of our sites.
 
 Copyright 2001 Meredith Corporation. All rights reserved.   
 
