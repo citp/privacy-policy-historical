@@ -1,809 +1,738 @@
-<!--The following is the downloaded HTML source of the superpages.com privacy policy that was archived on 2002-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604021611id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the superpages.com privacy policy that was archived on 2004-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041010150147id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.-->
 
-<html><head><base href="http://superpages.com/">
-
-
+<html><head>
 <title>SuperPages.com: About Us &amp; Help: Privacy Policy</title>
 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/sp.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/javascript">
 
-<script language="JavaScript">
 <!--
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-//-->
+
+  function spNewWindow(anchor) {
+
+    var av = navigator.appVersion;
+
+    if(av.indexOf('2.0') != -1) { return false; }
+
+    anchor.target = ""; // set the target to empty so we don't spawn 2 windows.
+
+   var args = "toolbar=yes,location=yes,directories=yes,status=yes,menubar=yes,scrollbars=yes,resizable=yes";
+
+    // if the shopping window is not created, or was closed, set the default width, height.
+
+    if(window.shopSite == null || window.shopSite.closed == true) args += ",width=620,height=450";
+
+    shopSite = window.open(anchor.href, "newWindow", args);
+
+   if ( (av.indexOf('MSIE') == -1) || ( av.indexOf('5.0') != -1 ) ) {
+
+      shopSite.focus();
+
+    } else {
+
+     // this.blur();
+
+    }
+
+    return true;
+
+  }
+
+// -->
 </script>
-</head>
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" vlink="#666666">
+<script language="JavaScript" type="text/javascript">
 
+<!--
 
-<!--master nav-->
+name = 'yellowpages';
 
-<table width="770" border="0" cellspacing="0" cellpadding="0">
+function buildURL(stype)
+
+{
+
+  if (((navigator.appName == "Netscape") ||
+
+  (navigator.appName == "Microsoft Internet Explorer")) &&
+
+  (parseFloat(navigator.appVersion) >= 3.0))
+
+       {
+
+var str="?SRC="+escape(document.ypform.SRC.value)+"&STYPE="+stype+"&C="+
+
+escape(document.ypform.C.value)+"&N="+escape(document.ypform.N.value)
+
+if (stype == "D") {
+
+  return str+"&RT="+escape(document.ypform.T.value)+"&RS="+
+
+  escape(document.ypform.S.options[document.ypform.S.selectedIndex].value)}
+
+else {
+
+  return str+"&T="+escape(document.ypform.T.value)+"&S="+
+
+  escape(document.ypform.S.options[document.ypform.S.selectedIndex].value)}
+
+}
+
+  else {
+
+return "?SRC=&STYPE=S&PG=L&R=N&C=&N=&T=&S="}
+
+}
+
+function verify() {
+
+if ((document.ypform.C.value == "")&&(document.ypform.N.value == "")) {
+
+alert("You must enter a Keyword, Category, or Business Name.");
+
+document.ypform.C.focus();
+
+return false;
+
+}
+       return true;
+
+}
+
+// -->
+
+</script> 
+
+</head> 
+
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" vlink="#666666" link="#0000FF">
+
+<!--masterheader-->
+<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000">
 <tbody><tr>
-<td width="13" bgcolor="#000000">&nbsp;</td>
-<td width="77"><img src="http://img.superpages.com/images-yp/decor/images/new/770_nav_vzlogo.gif" width="77" height="79" alt="Verizon!"></td>
-<td width="119"><img src="http://img.superpages.com/images-yp/decor/images/new/770_nav_curve.gif" width="119" height="79" alt=""></td>
-
-    <td width="561"><a href="http://www.superpages.com"><img src="http://img.superpages.com/images-yp/decor/images/new/770_nav_splogo.gif" width="561" height="79" alt="SuperPages.com - Better Pages For Better Decisions" border="0" usemap="#Map"><map name="Map"><area shape="RECT" coords="372,62,428,78" href="http://espanol.superpages.com"><area shape="POLY" coords="3,1,403,1,403,57,310,57,310,71,3,71" href="http://www.superpages.com"></map></a></td>
+<td width="37" align="LEFT" nowrap="">&nbsp;</td>
+<td width="82" align="LEFT"><img src="http://img.superpages.com/images-yp/sp/images/header_vzlogo.gif" width="83" height="57" alt="Verizon" border="0"></td>
+<td width="57" align="LEFT" nowrap="">&nbsp;</td>
+<td width="279" align="LEFT"><img src="http://img.superpages.com/images-yp/sp/images/header_splogo.gif" width="278" height="57" alt="SuperPages.com" border="0"></td>
+<td width="142" align="LEFT" nowrap="">&nbsp;</td>
+<td width="55" valign="MIDDLE" align="LEFT"><img src="http://img.superpages.com/images-yp/sp/images/header_languagelink2.gif" width="55" height="57" alt="Español" border="0" usemap="#languagemap"></td>
+<td width="118" nowrap="">&nbsp;</td>
+<td width="100%">&nbsp;</td>
 </tr>
-</tbody></table>
 
-
-<table width="770" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<td width="13" bgcolor="#000000">&nbsp;</td>
-
-    <td><a href="http://www.superpages.com/"><img src="http://img.superpages.com/images-yp/decor/images/new/770b_nav_tab_home.gif" width="84" height="29" border="0" alt="Home Page"></a></td>
-    <td><a href="http://yp.superpages.com/profiler/abook.phtml?SRC="><img src="http://img.superpages.com/images-yp/decor/images/new/770b_nav_tab_md.gif" width="84" height="29" border="0" alt="My Directory"></a></td>
-    <td><a href="http://yp.superpages.com/sform.phtml?SRC=&amp;STYPE=S"><img src="http://img.superpages.com/images-yp/decor/images/new/770b_nav_tab_yp.gif" width="84" height="29" border="0" alt="Yellow Pages"></a></td>
-    <td><a href="http://yp.superpages.com/cgi/clicker.cgi?ACTION=log,red&amp;FL=bc_tab&amp;TL=bc_hm&amp;LOC=http://www.superpages.com/business/"><img src="http://img.superpages.com/images-yp/decor/images/new/770b_nav_tab_bc.gif" width="84" height="29" border="0" alt="Business Center"></a></td>
-    <td><a href="http://wp.superpages.com/people.phtml?SRC="><img src="http://img.superpages.com/images-yp/decor/images/new/770b_nav_tab_pp.gif" width="84" height="29" border="0" alt="People Pages"></a></td>
-    <td><a href="http://www.superpages.com/supertopics/"><img src="http://img.superpages.com/images-yp/decor/images/new/770b_nav_tab_st.gif" width="84" height="29" border="0" alt="Super Topics"></a></td>
-    <td><a href="http://cg.superpages.com/cgi-bin/php/index.html"><img src="http://img.superpages.com/images-yp/decor/images/new/770b_nav_tab_cg.gif" width="85" height="29" border="0" alt="Consumer Guide"></a></td>
-    <td><a href="http://www.superpages.com/cities/"><img src="http://img.superpages.com/images-yp/decor/images/new/770b_nav_tab_cp.gif" width="84" height="29" border="0" alt="City Pages"></a></td>
-    <td><a href="http://www.superpages.com/about/"><img src="http://img.superpages.com/images-yp/decor/images/new/770b_nav_tab_aux.gif" width="84" height="29" border="0" alt="About Us and Help"></a></td>
-</tr>
 <tr>
-<td height="12" bgcolor="#000000" width="13"><span style="font-size: xx-small;">&nbsp;</span></td>
-<td height="12" bgcolor="#CCCCCC" width="757" colspan="9"><span style="font-size: xx-small;">&nbsp;</span></td>
+<td align="LEFT" bgcolor="#CC0000" colspan="7"><img src="http://img.superpages.com/images-yp/sp/images/header2004b_nav_noselection.gif" width="770" height="23" alt="navigation" border="0" usemap="#navmap"></td>
+<td width="100%" bgcolor="#CC0000">&nbsp;</td>
 </tr>
 </tbody></table>
 
-<!--/master nav-->
+<map name="navmap">
+<area shape="RECT" coords="7,0,89,23" href="http://www.superpages.com" alt="Home Page">
+<area shape="RECT" coords="102,0,200,23" href="http://yellowpages.superpages.com/profiler/abook.jsp" alt="My Directory">
+<area shape="RECT" coords="214,0,308,23" href="http://yellowpages.superpages.com/yp.basic.jsp?STYPE=S" alt="Yellow Pages">
+<area shape="RECT" coords="320,0,414,23" href="http://directory.superpages.com/people.jsp" alt="People Pages">
+<area shape="RECT" coords="425,0,502,23" href="http://www.superpages.com/cities/" alt="City Pages">
+<area shape="RECT" coords="516,0,629,23" href="http://www.superpages.com/consumercenter/" alt="Consumer Center">
+<area shape="RECT" coords="642,0,760,23" href="http://www.superpages.com/advertisewithus/" alt="Advertise With Us">
+</map>
+<map name="languagemap">
+<area shape="RECT" coords="0,18,55,37" href="http://espanol.superpages.com/" alt="Español">
+</map>
+<!--/masterheader-->
 
-
-
-
-
-<!--spacer 17 pixel table-->
-<table width="635" border="0" cellspacing="0" cellpadding="0">
+<table width="100%" border="0" bgcolor="#868585" cellpadding="0" cellspacing="0">
 <tbody><tr>
-<td bgcolor="#000000"><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="150" height="17"></td>
-<td><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="485" height="17"></td>
+<td><img src="http://img.superpages.com/about/titlebar_aboutushelp.gif" width="624" height="23" alt="About Us &amp; Help"></td>
 </tr>
 </tbody></table>
-<!--/spacer 17 pixel table-->
 
-
-
-
-<table width="635" border="0" cellspacing="0" cellpadding="0">
-        
-<tbody><tr valign="TOP">
-          
-<td width="13" bgcolor="#000000">
-<img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" height="17" width="13" alt=" ">
-</td>
-
-          
-<td width="137" bgcolor="#000000">
-
+<table width="770" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="150" bgcolor="#000000" valign="TOP"> 
+<!--sidebar content area, begin master sidebar with search-->
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="#000000" width="150">
+<tbody><tr>   
+<td width="13"> </td>
+<td width="137">
+<!--Start Left1 Ad-->
+ 
+<a href="http://superpages.com/RealMedia/ads/click_lx.ads/sp/about/privacy.html/11845/Left1/MSN_ROS_Left1_Left2_2004/MSNmessB.html/64316564656561643431363934656430?2004.10.10.15.01.45" target="_top"><img src="http://img.superpages.com/adcode/images/msn8/MSNmessB_ROS_120x60.gif" width="120" height="60" alt="" border="0"></a>
+ 
+<!--End Left1 Ad-->
+ <br>
+<img src="http://img.superpages.com/images-yp/sp/images/spacer.gif" width="137" height="17" alt=""><br>
+<!--Start Left2 Ad-->
+ 
+<a href="http://superpages.com/RealMedia/ads/click_lx.ads/sp/about/privacy.html/15332/Left2/apartmentguide_ros_Left/apartmentguide_insur_120x60.html/64316564656561643431363934656430?2004.10.10.15.01.45" target="_top">
+<img src="http://img.superpages.com/adcode/images/apartmentguide/120x60/apartmentguide_insur_120x60.gif" width="120" height="60" alt="" border="0"></a>
+ 
+<!--End Left2 Ad-->
+<br>
+<br>
+</td></tr></tbody></table>
+<link href="/sp.css" rel="stylesheet" type="text/css">
+<script>
+<!--
+function avoidNationwideOption(stateSelectMenu,code) {
+    if(((code == 110) || (code == 78)) && (stateSelectMenu.selectedIndex == 0)) {
+        stateSelectMenu.selectedIndex = 28;
+    }
+}
+// -->
+</script>
+<table cellpadding="0" cellspacing="0" border="0" bgcolor="#000000" width="150">
+<tbody><tr>
+<td width="13" bgcolor="#000000">&nbsp;</td>
+<td width="137" bgcolor="#000000" valign="TOP">
 <!--sidebar content area, begin master sidebar with search-->
 
-<form name="ypform" method="get" action="http://yp.superpages.com/listings.phtml">         
-    
-<input type="hidden" name="SRC" value=""><input type="hidden" name="STYPE" value="S"><input type="hidden" name="PG" value="L"><input type="hidden" name="R" value="N"><input type="hidden" name="R" value="N">
 
-            <!--Start Left1 Ad--> <a href="http://sp9.superpages.com/RealMedia/ads/click_lx.ads/sp/about/privacy.html/23945/Left1/ST_ros_real/realestate1.gif/34323163666161653363666332326530?" target="_top"><img src="http://sp9.superpages.com/RealMedia/ads/adstream_lx.ads/sp/about/privacy.html/23945/Left1/ST_ros_real/realestate1.gif/34323163666161653363666332326530" width="120" height="60" alt="SuperTopics Real Estate!" border="0"></a> <!--End Left1 Ad--> <br>
-            <img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="137" height="17" alt=" "><br>
+<form name="ypform" method="get" action="http://yellowpages.superpages.com/listings.jsp" onsubmit="return verify();">
+ 
+<input type="hidden" name="SRC" value="">
+<input type="hidden" name="STYPE" value="S">
+<input type="hidden" name="PG" value="L">
+<input type="hidden" name="R" value="N">
+<input type="hidden" name="R" value="N">
 
-            <!--Start Left2 Ad--> <a href="http://superpages.com/RealMedia/ads/click_lx.ads/sp/about/privacy.html/15631/Left2/house-cg-ros-120x60/houseads041902.html/34323163666161653363666332326530?2002.06.04.02.16.11" target="_top">
-<img src="http://img.superpages.com/adcode/house/houseads-04-19-02/consumer_120x60.gif" width="120" height="60" alt="" border="0"></a>
+<img src="http://img.superpages.com/images-yp/sp/images/sidebar_searchforusbiz.gif" width="137" height="48" alt="Search for U.S. Businesses"><br>
+<img src="http://img.superpages.com/adcntr/images/spacer.gif" width="137" height="7" alt=" "><br>
 
- <!--End Left2 Ad--><br>
-                        <img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="137" height="17" alt=" "><br>
+<font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">1. Keyword </font>
 
-                        <img src="http://img.superpages.com/images-yp/decor/images/new/sidebar_searchyp.gif" width="127" height="23" alt="Simple Search"><br>
-                        <img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="137" height="7" alt=" "><br>
-                        
+<br>
+<a href="http://yellowpages.superpages.com/categorybrowser.jsp?SRC=&amp;STYPE=S"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">(browse categories)</font></a><br>
 
-<font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">1. Category </font>
-<a href="http://yp.superpages.com/categorybrowser.phtml" onclick="this.href=&quot;http://yp.superpages.com/topcats.phtml&quot;+buildURL(&quot;S&quot;)"><font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">(browse)</font></a><br>
-
-              <input name="C" tabindex="1" type="text" size="13" value=""><br>
-              
-                          <img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="137" height="7" alt=" "><br>
-             
+<input name="C" tabindex="1" type="text" size="13" value="">
+<br>
+<img src="http://img.superpages.com/adcntr/images/spacer.gif" width="137" height="7" alt=" "><br>
 <font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">or Business Name</font><br>
-              
-              <input name="N" tabindex="2" type="text" size="13" value=""><br>
-             
-                          <img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="137" height="7" alt=" "><br>
-
-<font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">2. City</font><br>
-                          <input name="T" tabindex="3" type="text" size="13" value=""><br>
-
-                <img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="137" height="7" alt=" "><br>
-
-        
-<font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">and State (required)</font><br>
-
-
-              <select name="S" tabindex="4">
-
-                <option selected="" value="">(choose)</option>
-
-                <option value="AK">AK</option>
-
-                <option value="AL">AL</option>
-
-                <option value="AR">AR</option>
-
-                <option value="AZ">AZ</option>
-
-                <option value="CA">CA</option>
-
-                <option value="CO">CO</option>
-
-                <option value="CT">CT</option>
-
-                <option value="DC">DC</option>
-
-                <option value="DE">DE</option>
-
-                <option value="FL">FL</option>
-
-                <option value="GA">GA</option>
-
-                <option value="HI">HI</option>
-
-                <option value="IA">IA</option>
-
-                <option value="ID">ID</option>
-
-                <option value="IL">IL</option>
-
-                <option value="IN">IN</option>
-
-                <option value="KS">KS</option>
-
-                <option value="KY">KY</option>
-
-                <option value="LA">LA</option>
-
-                <option value="MA">MA</option>
-
-                <option value="MD">MD</option>
-
-                <option value="ME">ME</option>
-
-                <option value="MI">MI</option>
-
-                <option value="MN">MN</option>
-
-                <option value="MO">MO</option>
-
-                <option value="MS">MS</option>
-
-                <option value="MT">MT</option>
-
-                <option value="NC">NC</option>
-
-                <option value="ND">ND</option>
-
-                <option value="NE">NE</option>
-
-                <option value="NH">NH</option>
-
-                <option value="NJ">NJ</option>
-
-                <option value="NM">NM</option>
-
-                <option value="NV">NV</option>
-
-                <option value="NY">NY</option>
-
-                <option value="OH">OH</option>
-
-                <option value="OK">OK</option>
-
-                <option value="OR">OR</option>
-
-                <option value="PA">PA</option>
-
-                <option value="RI">RI</option>
-
-                <option value="SC">SC</option>
-
-                <option value="SD">SD</option>
-
-                <option value="TN">TN</option>
-
-                <option value="TX">TX</option>
-
-                <option value="UT">UT</option>
-
-                <option value="VA">VA</option>
-
-                <option value="VT">VT</option>
-
-                <option value="WA">WA</option>
-
-                <option value="WI">WI</option>
-
-                <option value="WV">WV</option>
-
-                <option value="WY">WY</option>
-
-              </select>
-
-                          <img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="137" height="7" alt=" "><br>
-      
-             <font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">3. 
-</font><input type="hidden" name="search" value="Find It"><input type="image" name="Find It!" src="http://img.superpages.com/images-yp/decor/images/new/findit.gif" width="89" height="20" tabindex="5" alt="Find It" border="0"><br>
-
-             
-                <img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="137" height="17" alt=" "><br> 
-                <img src="http://img.superpages.com/images-yp/decor/images/new/redpixel.gif" width="127" height="1" alt="rule"><br>
-
-                <img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="137" height="17" alt=" "><br>             
-                <img src="http://img.superpages.com/images-yp/decor/images/new/sidebar_natsearch.gif" width="73" height="23" alt="Nationwide Searches"><br>
-                <img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="137" height="5" alt=" "><br>
-             
-                        
-&nbsp;&nbsp;<a href="http://yp.superpages.com/nform.phtml?SRC="><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Business Name</font></a><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="1" height="15" alt=""><br>
-
-&nbsp;&nbsp;<a href="http://yp.superpages.com/rform.phtml?SRC="><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Telephone Number</font></a><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="1" height="15" alt=""><br>
-
-                <img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="137" height="12" alt=" "><br>
-                                
-
-<a href="http://yp.superpages.com/ypform.phtml?SRC="><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Detailed Search</font></a><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="1" height="15" alt=""><br>
-
-                        
-<a href="http://yp.superpages.com/dsearch.phtml?SRC="><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Search by Distance</font></a><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="1" height="15" alt=""><br>
-
-
-<a href="http://yp.superpages.com/tips.phtml?SRC="><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Search Tips</font></a> <font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">|</font> <a href="http://yp.superpages.com/help/help.phtml?SRC="><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Help</font></a><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="1" height="15" alt=""><br>
-
-
-<p><a href="http://yp.superpages.com/profiler/abook.phtml?SRC="><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">My Directory</font></a></p>
-
-
-<p><a href="http://wp.superpages.com/people.phtml?SRC="><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">People 
-Pages</font></a> </p>
-
-
-            
-<a href="http://yp.superpages.com/supermaps/mapform.phtml"><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Maps</font></a><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="1" height="15" alt=""><br>
-
-
-<a href="http://yp.superpages.com/mapquest/cgi-bin/mqtripplus.cgi?var1=&amp;var2=none&amp;var9=&amp;var10="><font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">Driving Directions</font></a><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="1" height="15" alt="">
+<input name="N" tabindex="2" type="text" size="13" value="">
+<br>
+<img src="http://img.superpages.com/adcntr/images/spacer.gif" width="137" height="7" alt=" "><br>
+<font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">2. City (optional)</font><br>
+<input name="T" tabindex="3" type="text" size="13" value="">
+<br>
+<img src="http://img.superpages.com/adcntr/images/spacer.gif" width="137" height="7" alt=" "><br>
+<font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="2">State or Nationwide</font><br>
+
+<select name="S" tabindex="4" onkeypress="avoidNationwideOption(this,window.event.keyCode);">
+<option value="">Select One
+</option><option value="">NATIONWIDE
+</option><option value="AL">Alabama
+</option><option value="AK">Alaska
+</option><option value="AZ">Arizona
+</option><option value="AR">Arkansas
+</option><option value="CA">California
+</option><option value="CO">Colorado
+</option><option value="CT">Connecticut
+</option><option value="DE">Delaware
+</option><option value="DC">D.C.
+</option><option value="FL">Florida
+</option><option value="GA">Georgia
+</option><option value="HI">Hawaii
+</option><option value="ID">Idaho
+</option><option value="IL">Illinois
+</option><option value="IN">Indiana
+</option><option value="IA">Iowa
+</option><option value="KS">Kansas
+</option><option value="KY">Kentucky
+</option><option value="LA">Louisiana
+</option><option value="ME">Maine
+</option><option value="MD">Maryland
+</option><option value="MA">Massachusetts
+</option><option value="MI">Michigan
+</option><option value="MN">Minnesota
+</option><option value="MS">Mississippi
+</option><option value="MO">Missouri
+</option><option value="MT">Montana
+</option><option value="NE">Nebraska
+</option><option value="NV">Nevada
+</option><option value="NH">New Hampshire
+</option><option value="NJ">New Jersey
+</option><option value="NM">New Mexico
+</option><option value="NY">New York
+</option><option value="NC">North Carolina
+</option><option value="ND">North Dakota
+</option><option value="OH">Ohio
+</option><option value="OK">Oklahoma
+</option><option value="OR">Oregon
+</option><option value="PA">Pennsylvania
+</option><option value="RI">Rhode Island
+</option><option value="SC">South Carolina
+</option><option value="SD">South Dakota
+</option><option value="TN">Tennessee
+</option><option value="TX">Texas
+</option><option value="UT">Utah
+</option><option value="VT">Vermont
+</option><option value="VA">Virginia
+</option><option value="WA">Washington
+</option><option value="DC">Washington D.C.
+</option><option value="WV">West Virginia
+</option><option value="WI">Wisconsin
+</option><option value="WY">Wyoming
+</option></select>
+
+<img src="http://img.superpages.com/adcntr/images/spacer.gif" width="137" height="7" alt=" "><br>
+<font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF">3.&nbsp; </font>
+<input type="hidden" name="search" value="Find It">
+<input type="image" name="Find It!" src="http://img.superpages.com/adcntr/images/button_findit.gif" width="73" height="17" tabindex="5" alt="Find It" border="0" align="MIDDLE">
+<br><br>
+<img src="http://img.superpages.com/adcntr/images/redpixel.gif" width="127" height="1" alt="rule">
+<br>
+<br>
 </form>
 </td>
-
-<!--/sidebar content area, end master sidebar with search-->
-
-
-<!--spacer only -  no content-->
-<td>
-<img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="17" height="1"><br>
-</td>
-
-<td width="468">
-
-<!--content area-->
-
-<div align="LEFT"><img src="http://img.superpages.com/images-yp/decor/images/new/hdr_aboutus_help.gif" width="180" height="15" alt="About Us &amp; Help"><br>
-
-<img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="468" height="12" alt=""><br>
-
-
-<font face="Arial, Helvetica, sans-serif" size="2">
-<a href="http://www.superpages.com">     Home</a> <img src="http://img.superpages.com/images-yp/images/arrow.gif" border="0" width="16" height="7" alt=">"> <a href="http://www.superpages.com/about/">About Us &amp; Help</a> <img src="http://img.superpages.com/images-yp/images/arrow.gif" border="0" width="16" height="7" alt=">"> Privacy Policy</font><br>
-
-   
-<img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="468" height="15"><br>
-
-<!--Start Top Ad--> <a href="http://superpages.com/RealMedia/ads/click_lx.ads/sp/about/privacy.html/9635/Top/house-pp-ros-468x60/houseads041902.html/34323163666161653363666332326530?2002.06.04.02.16.11" target="_top">
-<img src="http://img.superpages.com/adcode/house/houseads-04-19-02/people_pages_468x60H.gif" width="468" height="60" alt="" border="0"></a>
-
- <!--End Top Ad-->
-
-<img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="468" height="17"><br>
-    
-
-</div>
-<table width="468" border="0" cellspacing="0" cellpadding="0">
-
-<tbody><tr>
-<td bgcolor="#666699">&nbsp;</td>
-<td colspan="2" bgcolor="#666699">
-<font face="Arial, Helvetica, sans-serif" size="2" color="#FFFFFF"><b>Privacy Policy</b></font>
-</td>
+</tr><tr>   
+<td width="13"> </td>
+<td width="137"><img src="http://img.superpages.com/images-yp/sp/images/sidebar_yellowpages.gif" width="137" height="31" alt="Yellow Pages"></td>
 </tr>
 
-<tr valign="TOP">
+<tr>    
 <td>&nbsp;</td>
 <td>
-<img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="461" height="17" alt=" "><br>
+<span class="SBtextextend"><a class="sbar" href="http://yellowpages.superpages.com/yp.basic.jsp?SRC=&amp;STYPE=M">Map-Based Search</a></span><br>
+<span class="SBtextextend"><a class="sbar" href="http://yellowpages.superpages.com/yp.basic.jsp?SRC=&amp;STYPE=D">Search by Distance</a></span><br>
+<span class="SBtextextend"><a class="sbar" href="http://yellowpages.superpages.com/yp.advanced.jsp?SRC=&amp;STYPE=AD">Advanced Search</a></span><br>
+ 
+<span class="SBtextextend"><a class="sbar" href="http://yellowpages.superpages.com/categorybrowser.jsp?SRC=&amp;STYPE=S">Category Search</a></span><br>
+<span class="SBtextextend"><a class="sbar" href="http://yellowpages.superpages.com/yp.advanced.jsp?SRC=&amp;STYPE=AP">Reverse Lookup</a></span><br>
+<span class="SBtextextend"><a class="sbar" href="http://www.superpages.com/edu/usearch.html">University Search</a></span><br><br>
+<img src="http://img.superpages.com/images-yp/sp/images/sidebar_tools.gif" width="137" height="31" alt="Tools"><br>
+<span class="SBtextextend"><a class="sbar" href="http://yellowpages.superpages.com/profiler/abook.jsp">My Directory</a></span><br>
+<span class="SBtextextend"><a class="sbar" href="http://yp.superpages.com/supermaps/mapform.phtml?SRC=&amp;STYPE=">Maps</a></span><br>
+<span class="SBtextextend"><a class="sbar" href="http://yp.superpages.com/mapquest/cgi-bin/mqtripplus.cgi?SRC=&amp;var1=&amp;var2=none&amp;var9=&amp;var10=">Driving Directions</a></span><br>
 </td>
 </tr>
 
-<tr valign="TOP">
-<td>&nbsp;
+<tr>    
+<td colspan="2"><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="150" height="1" alt="" border="0"></td>
+</tr>
+</tbody></table>
+
+
+
+
+
 </td>
-<td> 
-<p> <font face="Arial,Helvetica,sans-serif" size="2"><b>This privacy policy applies only to the the privacy of users of the SuperPages.com web site.  It does not apply to the offline activities of Verizon Directories Corp. or any of its affiliates.
 
-</b><b><br>
+<td width="20" align="LEFT"> <img src="http://img.superpages.com/images-yp/sp/images/spacer.gif" width="20" height="8" alt="">
+</td>
+
+<td width="620" valign="TOP" align="LEFT">
+
+<table cellpadding="0" cellspacing="0" border="0" width="603">
+<tbody><tr valign="TOP"> 
+<td height="25" align="left"> <font face="Arial, Helvetica, sans-serif" size="2"> 
+<a href="http://www.superpages.com">Home</a> <img src="http://img.superpages.com/images-yp/decor/images/new/arrow.gif" border="0" width="16" height="7" alt=">"> <a href="http://www.superpages.com/about/">About Us &amp; Help </a><img src="http://img.superpages.com/images-yp/decor/images/new/arrow.gif" border="0" width="16" height="7" alt=">"> Privacy Policy</font><img src="http://img.superpages.com/images-yp/sp/images/spacer.gif" height="18" width="1" alt=""> 
+
+ &nbsp;<br>
+ &nbsp;<br>
+ <!--Start Top Ad--> <a href="http://superpages.com/RealMedia/ads/click_lx.ads/sp/about/privacy.html/30175/Top/house-filler-468-top/468x60_weather_house.html/64316564656561643431363934656430?2004.10.10.15.01.45" target="_top">
+<img src="http://img.superpages.com/adcode/house/2004house/468x60_weather_house.gif" width="468" height="60" alt="Find your local weather forcast on SuperPages!" border="0"></a> <!--End Top Ad--><br><br>
+</td>
+</tr>
+</tbody></table>
+
+<a name="maincontent"></a><table width="600" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td width="25"><img src="http://img.superpages.com/images-yp/sp/images/spacer.gif" width="25" height="2" alt=""></td>
+<!--skip to main content accessibility -->
+<td width="575"><img src="http://img.superpages.com/about/head_privacypolicy.gif" width="263" height="55" alt="Privacy Policy"></td>
+</tr>
+</tbody></table>
+
+<table width="600" border="0" cellspacing="0" cellpadding="0">
+       
+<tbody><tr>         
+<td width="421" valign="TOP">
+<table width="525" border="0" cellspacing="0" cellpadding="0">
+        
+<tbody><tr>         
+<td width="25"><img src="http://img.superpages.com/products/images/spacer.gif" width="25" height="2" alt=""></td>
+<td width="500" valign="TOP"><img src="http://img.superpages.com/products/images/spacer.gif" width="3" height="17" alt=""><br>
+<font face="Arial,Helvetica,sans-serif" size="2"><b>This privacy policy applies only to the the privacy of users of the SuperPages.com web site.  It does not apply to the offline activities of Verizon Directories Corp. or any of its affiliates.</b> </font>
 <br>
-Straight talk about Internet 
-privacy</b><br>
+<img src="http://img.superpages.com/about/sh_thestrghttalk.gif" width="125" height="32" alt="The straight talk"><br>
+<font face="Arial,Helvetica,sans-serif" size="2">Verizon Information Services, Inc. ("Verizon") respects your right to privacy. When you visit this site you may provide information on two different levels about your visit: </font><font face="Arial, Helvetica, sans-serif" size="2"><br>
 <br>
 
-</font><font face="Arial,Helvetica,sans-serif" size="2">Verizon New Media Services, 
-Inc. ("Verizon") respects your right to privacy. When you visit this 
-site you may provide information on two different levels about your visit: </font></p>
-<ul>
-<li><font face="Arial,Helvetica,sans-serif" size="2">Anonymous statistics collected 
-as you browse the site, and </font> 
-</li><li><font face="Arial,Helvetica,sans-serif" size="2">Personal information you 
-knowingly give us.</font> </li>
-</ul>
+<table width="500" border="0" cellspacing="0" cellpadding="0">              
+<tbody><tr>                
+<td valign="MIDDLE" width="9"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17" width="491">&nbsp;<font face="Arial,Helvetica,sans-serif" size="2">Anonymous statistics collected as you browse the site</font></td>
+</tr>
+              
+<tr>                
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17">&nbsp;<font face="Arial,Helvetica,sans-serif" size="2">Personal information you knowingly give us</font></td>
+</tr>
+            
+</tbody></table>
+</font>
+
 <!------ TRUSTe info START ------
 
+
+
 <P><FONT FACE="Arial,Helvetica,sans-serif" SIZE="2"><B>
-  What it means to me for Verizon to be a TRUSTe licensee?</B></FONT><BR>
-  <FONT FACE="Arial,Helvetica,sans-serif" SIZE="2">This confirms that Verizon is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified regarding: </FONT></P>
+What it means to me for Verizon to be a TRUSTe licensee?</B></FONT><BR>
+
+<FONT FACE="Arial,Helvetica,sans-serif" SIZE="2">This confirms that Verizon is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified regarding: </FONT></P>
+
 <UL>
-  <LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">What identifiable information is collected about you </FONT></LI>
-  <LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">What organization is collecting the information </FONT></LI>
-  <LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">How the information is used </FONT></LI>
-  <LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">With whom the information may be shared </FONT></LI>
-  <LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">What choices are available to you regarding collection, use and distribution of the information </FONT></LI>
-  <LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control, and </FONT></LI>
-  <LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">How you can correct any inaccuracies in the information.</FONT></LI>
+<LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">What identifiable information is collected about you </FONT></LI>
+<LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">What organization is collecting the information </FONT></LI>
+<LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">How the information is used </FONT></LI>
+<LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">With whom the information may be shared </FONT></LI>
+<LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">What choices are available to you regarding collection, use and distribution of the information </FONT></LI>
+<LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">What kind of security procedures are in place to protect the loss, misuse or alteration of information under the company's control, and </FONT></LI>
+<LI><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">How you can correct any inaccuracies in the information.</FONT></LI>
 </UL>
 
-
 <P><FONT FACE="Arial,Helvetica,sans-serif" SIZE="2">
+
 If you have questions or concerns regarding this statement, you should first <A HREF="http://www.superpages.com/about/contact.html">Contact Us</A>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 </FONT></P>
 
 <P><IMG SRC="http://img.superpages.com/images-yp/decor/images/new/truste.gif" WIDTH="91" HEIGHT="73"></P>
 
-----TRUSTe info END---> 
-<p> <font face="Arial,Helvetica,sans-serif" size="2"><b>What information does 
-the Web site gather?<br>
-</b></font><font face="Arial,Helvetica,sans-serif" size="2">Please be assured 
-that we do not collect personal information about you from the website unless 
-you provide it to us. This means that you can visit our Web sites without telling 
-us who you are or revealing any personally identifiable information about yourself 
-(such as your e-mail address). </font></p>
-<p><font face="Arial,Helvetica,sans-serif" size="2">As you browse the site, our 
-web servers collect information about your visit, not about you personally. Via 
-web server logs, we monitor statistics such as:</font></p>
-<ul>
-<li><font face="Arial, Helvetica, sans-serif" size="2">How many people visit our 
-site </font></li>
-<li><font face="Arial, Helvetica, sans-serif" size="2">Which pages people visit 
-on our site </font></li>
-<li><font face="Arial, Helvetica, sans-serif" size="2">From which domains our 
-visitors come (e.g., aol.com) </font></li>
-<li><font face="Arial, Helvetica, sans-serif" size="2">Which browsers people use 
-to visit our site</font></li>
-</ul>
-<p><font face="Arial,Helvetica,sans-serif" size="2">None of this information is 
-associated with you as an individual (see information about cookies below). We 
-use these statistics to improve our Web site, to monitor its performance, and 
-to make the Web site easier for you and other visitors to use. </font></p>
-<p><font face="Arial,Helvetica,sans-serif" size="2"><b> What about pages that 
-ask for personal information?<br>
-</b></font><font face="Arial,Helvetica,sans-serif" size="2">When visitors supply 
-information about themselves for a specific purpose, we use the information for 
-that purpose (such as to provide the service or information the visitor has requested). 
-For example, you may be asked to give us individual information to purchase a 
-product or service, receive information, manage online account registration, or 
-apply for a job. The information may range from your zip code, to your phone number, 
-account number, a credit card number, age, gender, mother's maiden name, social 
-security number, e-mail address, organization URL, resume, or mailing address.</font></p>
-<p><font face="Arial,Helvetica,sans-serif" size="2">When visitors use our Web 
-site to order services, we may use this personally identifiable information as 
-we would use the same information obtained in a traditional non-electronic manner. 
-For example, to publish your name, address, and phone number in our directories 
-(unless you have requested a non-published number), or to evaluate your service 
-needs and contact you regarding additional services you may find useful. If you 
-do not want us to contact you, you can remove your name from our telephone or 
-mail solicitation lists by clicking on <a href="http://www.superpages.com/about/contact.html">Contact 
-Us</a>. Please note that this removes your name from SuperPages, however, to be 
-removed from other websites in the Verizon family of companies ("Verizon 
-Family"), contact them directly. </font></p>
-<p><font face="Arial,Helvetica,sans-serif" size="2"><b>What happens to information 
-when I fill out registration forms?</b> <br>
-The registration forms request accurate contact information (like name and e-mail 
-address) and preferences that help us better serve you. Your name and e-mail address 
-are used to send you information about our company, product updates, special offers, 
-and newsletters. You may change your email, user ID or password online; or you 
-can choose to remove your name from our user list by going to Contact Us and emailing 
-us a request to remove your name. <br>
+----TRUSTe info END--->
+ 
+
 <br>
-To improve the services we can offer you, we may decide to expand the site's capabilities 
-for obtaining information about users in the future. We will update this privacy 
-statement as policies change to ensure that you are aware of developments in this 
-area. <br>
+<font face="Arial,Helvetica,sans-serif" size="2"><b>What information does 
+
+the Web site gather?<br>
+</b>Please be assured that we do not collect personal information about you from the website unless you provide it to us. This means that you can visit our Web sites without telling us who you are or revealing any personally identifiable information about yourself 
+(such as your e-mail address).
+<br>
+<br>
+As you browse the site, our web servers collect information about your visit, not about you personally. Via 
+web server logs, we monitor statistics such as:</font>
+<br>
+<br>
+
+<table width="500" border="0" cellspacing="0" cellpadding="0">             
+<tbody><tr>                
+<td valign="MIDDLE" width="9"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17" width="491"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;How many people visit our site</font></td>
+</tr>
+             
+<tr>               
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17"><font face="Arial, Helvetica, sans-serif" size="2"> &nbsp;Which pages people visit on our site</font></td>
+</tr>
+             
+<tr>                
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;From which domains our visitors come (e.g., aol.com)</font></td>
+</tr>
+             
+<tr>                
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17"><font face="Arial, Helvetica, sans-serif" size="2">&nbsp;Which browsers people use to visit our site</font></td>
+</tr>
+           
+</tbody></table>
+<br>
+
+<font face="Arial,Helvetica,sans-serif" size="2">None of this information is associated with you as an individual (see information about cookies below). We use these statistics to improve our Web site, to monitor its performance, and to make the Web site easier for you and other visitors to use.
+<br>
+<br>
+<b>What about pages that ask for personal information?</b>
+<br>
+When visitors supply information about themselves for a specific purpose, we use the information for that purpose (such as to provide the service or information the visitor has requested). For example, you may be asked to give us individual information to purchase a 
+product or service, receive information, manage online account registration, or apply for a job. The information may range from your zip code, to your phone number, account number, a credit card number, age, gender, mother's maiden name, social security number, e-mail address, organization URL, resume, or mailing address.
+<br>
+<br>
+When visitors use our Web site to order services, we may use this personally identifiable information as we would use the same information obtained in a traditional non-electronic manner. For example, to publish your name, address, and phone number in our directories (unless you have requested a non-published number), or to evaluate your service needs and contact you regarding additional services you may find useful. If you do not want us to contact you, you can remove your name from our telephone or mail solicitation lists by clicking on <a href="http://www.superpages.com/about/contact.html">Contact Us</a>. Please note that this removes your name from SuperPages, however, to be 
+removed from other websites in the Verizon family of companies ("Verizon Family"), contact them directly.
+<br>
+<br>
+<b>What happens to information when I fill out registration forms?</b> <br>
+The registration forms request accurate contact information (like name and e-mail address) and preferences that help us better serve you. Your name and e-mail address are used to send you information about our company, product updates, special offers, and newsletters. You may change your email, user ID or password online; or you can choose to remove your name from our user list by going to Contact Us and emailing 
+us a request to remove your name. 
+<br>
+<br>
+To improve the services we can offer you, we may decide to expand the site's capabilities for obtaining information about users in the future. We will update this privacy statement as policies change to ensure that you are aware of developments in this 
+area. 
+<br>
 <br>
 <b>Do you sell or give my information to companies outside of the "Verizon Family?"</b> 
 <br>
-We do not sell or disclose personally identifiable information obtained online 
-about our visitors, to anyone outside of the "Verizon Family" unless you specifically 
-authorize it, to complete a transaction that you initiated, it is required by 
-law, or disclosure is necessary to protect the safety of customers, employees 
-or property. If you provide personally identifiable information to us in the context 
-of an event Verizon sponsors with another company, such as a contest, or if you 
-register on a co-sponsored site or feature, you may also be providing the personally 
-identifiable information to the co-sponsor. This will be made clear to you before 
-you submit the information and you can decide whether or not to participate. <br>
+We do not sell or disclose personally identifiable information obtained online about our visitors, to anyone outside of the "Verizon Family" unless you specifically authorize it, to complete a transaction that you initiated, it is required by law, or disclosure is necessary to protect the safety of customers, employees or property. If you provide personally identifiable information to us in the context of an event Verizon sponsors with another company, such as a contest, or if you register on a co-sponsored site or feature, you may also be providing the personally identifiable information to the co-sponsor. This will be made clear to you before you submit the information and you can decide whether or not to participate. 
 <br>
-Verizon may share non-personally identifiable information with non-"Verizon Family" 
-companies in order to assess the results of a promotion or event or to enhance 
-your online experience. For example, we may provide statistical information that 
-is not identified with you: </font></p>
-<ul>
-<li><font face="Arial,Helvetica,sans-serif" size="2">The number of people who 
-visit the website, which pages were visited and for how long, and the referral 
-URL. </font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">When we host co-branded versions 
-of the superpages.com site (or portions of the superpages.com site). Our co-branded 
-sites may also contain clear GIFs (electronic images that allow this site to collect 
-anonymous information about your visit to the site). </font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">Non-personally identifiable 
-information may also be disclosed to non-Verizon-Family companies if it is required 
-by law, or disclosure is necessary to protect the safety of customers, employees 
-or property. </font></li>
-</ul>
-<p><font face="Arial,Helvetica,sans-serif" size="2"><b>This information does not 
-contain any information that would personally identify you. </b><br>
 <br>
-In addition, Verizon may support features and content that appear on other companies' 
-web sites that you may visit. These companies may collect information about you, 
-but Verizon does not have control over the collection practices of these companies. 
-If you are visiting a web site which indicates that it is "powered by superpages.com," 
-please read the privacy policy of that web site for its policies regarding information 
+Verizon may share non-personally identifiable information with non-"Verizon Family" companies in order to assess the results of a promotion, event or third party relationship, to provide information to current or prospective customers, or to enhance your online experience. For example, we may provide statistical information that is not identified with you: </font>
+<br>
+<br>
+<table width="500" border="0" cellspacing="0" cellpadding="0">			  
+<tbody><tr>                
+<td valign="TOP"><img src="http://img.superpages.com/products/images/awu_reddotspacer.gif" width="9" height="11" alt=""></td>
+<td height="17" width="2"><img src="http://img.superpages.com/products/images/spacer.gif" width="2" height="1" alt=""></td>
+<td height="17" width="489"><font face="Arial,Helvetica,sans-serif" size="2">The number of people who visit the website, which pages were visited and for how long, and the referral URL.</font></td>
+</tr>
+
+<tr>                
+<td valign="TOP"><img src="http://img.superpages.com/products/images/awu_reddotspacer.gif" width="9" height="11" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17"><font face="Arial,Helvetica,sans-serif" size="2">When we host co-branded versions of the superpages.com site (or portions of the superpages.com site). Our co-branded sites may also contain clear GIFs (electronic images that allow this site to collect 
+anonymous information about your visit to the site). </font></td>
+</tr>
+
+<tr>                
+<td valign="TOP"><img src="http://img.superpages.com/products/images/awu_reddotspacer.gif" width="9" height="11" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17"><font face="Arial,Helvetica,sans-serif" size="2">Non-personally identifiable information may also be disclosed to non-Verizon-Family companies if it is required by law, or disclosure is necessary to protect the safety of customers, employees or property. </font></td>
+</tr>
+</tbody></table>
+<br>
+
+<font face="Arial,Helvetica,sans-serif" size="2"><b>This does not contain any information that would personally identify you.</b> In addition, Verizon may support features and content that appear on other companies' web sites that you may visit. These companies may collect information about you, but Verizon does not have control over the collection practices of these companies. If you are visiting a web site which indicates that it is "powered by superpages.com," please read the privacy policy of that web site for its policies regarding information 
 collection and usage. <br>
-<b><br>
-Does this site send e-mail to site visitors?</b> <br>
-At times, online surveys are conducted in which you can choose to participate. 
-In addition, we may use e-mail to communicate with our customers, to respond to 
-visitors' e-mail, to confirm orders placed online, and to send information that 
-a visitor has requested. Occasionally, we may use opt-in e-mail lists from third 
-parties to promote our latest specials. If you receive an unwanted e-mail from 
-us, you can click Contact Us and simply ask us to remove you from our list. <br>
-<b><br>
-Do you accommodate links to other sites?</b> <br>
-This website contains links to other websites. We are not responsible for the 
-content or the privacy practices employed by other sites. We are committed to 
-safeguarding customer privacy on our website. Verizon may, however, host (or contract 
-with third parties to host) web site advertising linked to the superpages.com 
-site (the "Verizon-Hosted Web Site Ad(s)"). If you provide personally identifiable 
-information while visiting any Verizon-Hosted Web Site Ad, you will also be providing 
-the personally-identifiable information to the advertiser. In addition, Verizon 
-may share non-personally identifiable information collected from any Verizon-Hosted 
-Web Site Ad with non-"Verizon Family" companies in order to complete a transaction 
-that you initiated or to assess and report the results of the ad. Verizon is not 
-responsible for the privacy practices employed by the advertiser. <br>
-<b><br>
-What is Verizon's position regarding online advertising and third party ad servers? 
-</b><br>
-Verizon accepts advertisements from third parties that serve advertising into 
-the SuperPages site. Verizon may use "clear gifs" provided by such third parties 
-in the pages containing the ad(s) that Verizon sends to your browser. These "clear 
-gifs" provide usage pattern information about the ads to third parties. The data 
-does not contain personally identifiable information. <br>
 <br>
-As part of the online advertising process, we may use information supplied from 
-third party ad serving companies as well as other third party companies in several 
-ways such as to:</font></p>
-<ul>
-<li><font face="Arial,Helvetica,sans-serif" size="2">gain a better understanding 
-of the type of individuals viewing or visiting different web sites</font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">evaluate and prioritize site 
-selection when developing online media plan</font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">geographically target advertising 
-</font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">deliver product and pricing 
-advertising/information applicable to the customers' state </font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">gauge the effectiveness of 
-our online advertising </font></li>
-</ul>
-<p><font face="Arial,Helvetica,sans-serif" size="2"><b>Non Personally Identifiable 
-Information Collected Automatically</b> <br>
-A cookie is a small, encrypted data string our server writes to your hard drive 
-that contains your unique User ID for our Web site. Cookies help us to identify 
-returning visitor's to our websites, which allows us to give you a more personalized, 
-useful experience on our website. <br>
+<b>Does this site send e-mail to site visitors?</b> <br>
+At times, online surveys are conducted in which you can choose to participate. In addition, we may use e-mail to communicate with our customers, to respond to visitors' e-mail, to confirm orders placed online, and to send information that a visitor has requested. Occasionally, we may use opt-in e-mail lists from third parties to promote our latest specials. If you receive an unwanted e-mail from us, you can click Contact Us and simply ask us to remove you from our list.
 <br>
-Cookies help Verizon to enhance the user's online experience and are used to:</font></p>
-<ul>
-<li><font face="Arial,Helvetica,sans-serif" size="2"> deliver the appropriate 
-geographic message </font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">manage frequency of ad exposure; 
-avoid over delivery of the same message</font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2"> tailor an advertisement 
-to better match your interests and preferences </font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">ensure that you see the correct 
-products and pricing applicable to the state in which you live </font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">understand advertising effectiveness 
-</font></li>
-</ul>
-<p><font face="Arial,Helvetica,sans-serif" size="2">However, customers are free 
-to delete website cookies. Most internet browsers enable you to erase cookies 
-from your computer hard drive, block all cookies, or receive a warning before 
-a cookie is stored. To disable cookies, see "Setting Cookie Preferences" at the 
-end of this policy. <br>
 <br>
-However, you need to understand that some websites/adserving companies have the 
-ability to reestablish your history even after cookie deletion, if you reenter 
-the same site on another occasion, or some other site tracked by the adserving 
-company/network, and specifically provide personal data. <br>
+<b>Do you accommodate links to other sites?</b> <br>
+This website contains links to other websites. We are not responsible for the content or the privacy practices employed by other sites. We are committed to safeguarding customer privacy on our website. Verizon may, however, host (or contract with third parties to host) web site advertising linked to the superpages.com site (the "Verizon-Hosted Web Site Ad(s)"). If you provide personally identifiable information while visiting any Verizon-Hosted Web Site Ad, you will also be providing the personally-identifiable information to the advertiser. In addition, Verizon may share non-personally identifiable information collected from any Verizon-Hosted Web Site Ad with non-"Verizon Family" companies in order to complete a transaction that you initiated or to assess and report the results of the ad. Verizon is not responsible for the privacy practices employed by the advertiser.
 <br>
-Deletion of cookies alone does not prevent adserving companies from reestablishing 
-history on a visitor. The visitor must either continue to decline cookies each 
-time it reenters the site to keep the tracking severed, if desired, or opt-out. 
-When you opt-out, your unique user ID cookie is erased and you are reassigned 
-an anonymous, non-id cookie. This new cookie tells websites that you have opted 
-out and they will then know not to attempt to assign other cookies to you in the 
-future. Opt-out cookies do not contain a unique user ID number therefore websites 
-are not able to identify your computer uniquely. <br>
 <br>
-Customers who choose to continually delete cookies and not opt out can have their 
-browser advise them each time a web site attempts to send a cookie to your system. 
-At that time, you can choose to either Accept or Cancel a cookie.<br>
+<b>What is Verizon's position regarding online advertising and third party ad servers? </b><br>
+Verizon accepts advertisements from third parties that serve advertising into the SuperPages site. Verizon may use "clear gifs" provided by such third parties in the pages containing the ad(s) that Verizon sends to your browser. These "clear gifs" provide usage pattern information about the ads to third parties. The data does not contain personally identifiable information.
 <br>
-Customers who choose to "opt out" after deleting cookies will receive an anonymous/non 
-personally identifiable cookie. <br>
 <br>
-<b>Who do I contact if I am concerned about online advertising and privacy?<br>
-</b> All concerns or questions about your privacy related to online advertising 
-should be addressed through our Customer Care Center which can be reached by clicking 
-on <a href="http://www.superpages.com/about/contact.html">Contact Us</a>. <br>
+As part of the online advertising process, we may use information supplied from third party ad serving companies as well as other third party companies in several ways such as to:</font>
+<br>
+<br>
+<table width="500" border="0" cellspacing="0" cellpadding="0">			  
+<tbody><tr>                
+<td valign="TOP"><img src="http://img.superpages.com/products/images/awu_reddotspacer.gif" width="9" height="11" alt=""></td>
+<td height="17" width="2"><img src="http://img.superpages.com/products/images/spacer.gif" width="2" height="1" alt=""></td>
+<td height="17" width="489"><font face="Arial,Helvetica,sans-serif" size="2">gain a better understanding of the type of individuals viewing or visiting different web sites</font></td>
+</tr>
+
+<tr>                
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17" valign="TOP"><font face="Arial,Helvetica,sans-serif" size="2">evaluate and prioritize site selection when developing online media plan</font></td>
+</tr>
+
+<tr>                
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17"><font face="Arial,Helvetica,sans-serif" size="2">geographically target advertising</font></td>
+</tr>
+
+<tr>                
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17"><font face="Arial,Helvetica,sans-serif" size="2">deliver product and pricing advertising/information applicable to the customers' state</font></td>
+</tr>
+
+<tr>                
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17"><font face="Arial,Helvetica,sans-serif" size="2">gauge the effectiveness of our online advertising</font></td>
+</tr>
+</tbody></table>
+<br>
+
+<font face="Arial,Helvetica,sans-serif" size="2"><b><img src="http://img.superpages.com/about/sh_cookies.gif" width="59" height="32" alt="Cookies"><br>
+Non Personally Identifiable Information Collected Automatically</b> <br>
+A cookie is a small, encrypted data string our server writes to your hard drive that contains your unique User ID for our Web site. Cookies help us to identify returning visitor's to our websites, which allows us to give you a more personalized, useful experience on our website. <br>
+<br>
+Cookies help Verizon to enhance the user's online experience and are used to:
+<br>
+<br>
+</font>
+
+<table width="500" border="0" cellspacing="0" cellpadding="0">			  
+<tbody><tr>                
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17" width="2"><img src="http://img.superpages.com/products/images/spacer.gif" width="2" height="1" alt=""></td>
+<td height="17" width="489"><font face="Arial,Helvetica,sans-serif" size="2">deliver the appropriate geographic message</font></td>
+</tr>
+
+<tr>                
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17" valign="TOP"><font face="Arial,Helvetica,sans-serif" size="2">manage frequency of ad exposure; avoid over delivery of the same message</font></td>
+</tr>
+
+<tr>                
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17"><font face="Arial,Helvetica,sans-serif" size="2">tailor an advertisement to better match your interests and preferences</font></td>
+</tr>
+
+<tr>                
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><img src="http://img.superpages.com/products/images/awu_reddotspacer.gif" width="9" height="11" alt=""></font></td>
+<td height="17">&nbsp;</td>
+<td height="17"><font face="Arial,Helvetica,sans-serif" size="2">ensure that you see the correct products and pricing applicable to the state in which you live</font></td>
+</tr>
+
+<tr>                
+<td valign="MIDDLE"><img src="http://img.superpages.com/products/images/awu_reddot.gif" width="9" height="7" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17"><font face="Arial,Helvetica,sans-serif" size="2">understand advertising effectiveness</font></td>
+</tr>
+</tbody></table>
+<br>
+
+<font face="Arial,Helvetica,sans-serif" size="2">However, customers are free to delete website cookies. Most internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. To disable cookies, see "Setting Cookie Preferences" at the end of this policy. 
+<br>
+<br>
+However, you need to understand that some websites/adserving companies have the ability to reestablish your history even after cookie deletion, if you reenter the same site on another occasion, or some other site tracked by the adserving company/network, and specifically provide personal data. 
+<br>
+<br>
+Deletion of cookies alone does not prevent adserving companies from reestablishing history on a visitor. The visitor must either continue to decline cookies each time it reenters the site to keep the tracking severed, if desired, or opt-out. When you opt-out, your unique user ID cookie is erased and you are reassigned an anonymous, non-id cookie. This new cookie tells websites that you have opted out and they will then know not to attempt to assign other cookies to you in the future. Opt-out cookies do not contain a unique user ID number therefore websites 
+are not able to identify your computer uniquely. 
+<br>
+<br>
+Customers who choose to continually delete cookies and not opt out can have their browser advise them each time a web site attempts to send a cookie to your system. At that time, you can choose to either Accept or Cancel a cookie.
+<br>
+<br>
+Customers who choose to "opt out" after deleting cookies will receive an anonymous/non personally identifiable cookie. 
+<br>
+<br>
+<b>Who do I contact if I am concerned about online advertising and privacy?</b> 
+<br>
+All concerns or questions about your privacy related to online advertising should be addressed through our Customer Care Center which can be reached by clicking on <a href="http://www.superpages.com/about/contact.html">Contact Us</a>. 
+<br>
 <br>
 <b>Does Verizon use the information provided online to profile its customers?</b> 
 <br>
-The combination of offline and online information provided by the customer has 
-the ability to enhance the customer experience, and make the consumer's interaction 
-with Verizon more meaningful and relevant. Verizon requires notification of any 
-consumer profiling or purchasing behavior being captured by Verizon online and 
-combined with offline information be clearly stated to the consumer at the time 
-of online data collection. The consumer will have the ability to choose not to 
-have that information aggregated and be part of subsequent marketing campaigns 
-by so indicating at the point of the application, or by choosing to Opt-Out of 
-future marketing campaigns from Verizon by clicking on <a href="http://www.superpages.com/about/contact.html">Contact 
-Us</a>. <br>
+The combination of offline and online information provided by the customer has the ability to enhance the customer experience, and make the consumer's interaction with Verizon more meaningful and relevant. Verizon requires notification of any consumer profiling or purchasing behavior being captured by Verizon online and combined with offline information be clearly stated to the consumer at the time of online data collection. The consumer will have the ability to choose not to have that information aggregated and be part of subsequent marketing campaigns 
+by so indicating at the point of the application, or by choosing to Opt-Out of future marketing campaigns from Verizon by clicking on <a href="http://www.superpages.com/about/contact.html">Contact Us</a>. 
+<br>
 <br>
 <b>Please note:</b> <br>
-We may disclose personal information when required by law or in the good faith 
-belief that such action is necessary in order to conform to the edicts of the 
-law or to comply with a legal process served relating to our web site. <br>
+We may disclose personal information when required by law or in the good faith belief that such action is necessary in order to conform to the edicts of the law or to comply with a legal process served relating to our web site. 
 <br>
-<b>Security Issues</b> <br>
-<br>
+<img src="http://img.superpages.com/about/sh_securityissues.gif" width="111" height="32" alt="Security Issues"><br>
 <b>How do I know I am on a secured site?</b> <br>
-Every secure page on our web sites has been secured with a digital certificate 
-by CyberTrust. To view this certificate, click on image of the closed lock on 
-the bottom bar of your browser window. This certificate will show that you are 
-sending your personal information to Verizon. <br>
-<b><br>
-How does Verizon prevent unauthorized access to my information?</b> <br>
-Your password is set at a minimum of six characters, which provides added protection 
-for your personal information. On secured pages, this site uses SSL encryption 
-up to 128-bits.<b> <br>
-<br>
-What security measures are in place to restrict access to personal data?</b> There 
-are a variety of security measures in place that limits internal access to data 
-stored by the Verizon site. Access is restricted to authorized personnel only 
-and requires an employee to have a secure ID and password to access the information. 
-In addition, logs are reviewed regularly to spot any inconsistencies. The site 
-is continually updated with the latest known security patches that are periodically 
-published by the system vendor. Any information that you give is password protected. 
-For your protection, the system automatically locks out a user after 3 incorrect 
-tries and after 20 minutes of idle time per secure session. If you forget your 
-password, you will be prompted to supply your customer ID number and your password 
-will be e-mailed to you. <br>
-<b><br>
-What information is stored by the site or in cookies?</b> <br>
-Registration information, bill and online shopping, data and contact e-mail addresses 
-are stored in Verizon databases which are physically secure environments that 
-are not accessible via the Internet. This information is only available to you 
-through the use of a secure ID and password, and the information is transferred 
-from our databases for your viewing. <br>
-<br>
-A cookie is a small, encrypted data string our server writes to your hard drive 
-that contains your unique User ID for our web site. Cookies help us to identify 
-returning visitor's to our web sites, which allow us to give you a more personalized, 
-useful experience on our web site. We use cookies for purposes such as delivering 
-web content specific to your interests, and to keep track of your order as you 
-order services. A cookie cannot be used to access or otherwise compromise the 
-data on your hard drive. You can choose to change your browser settings to disable 
-cookies if you do not want us to establish and maintain a unique Verizon.com User 
-ID. Please be aware that cookies may be required to complete certain functions 
-on this web site, such as My Directory. To disable cookies, see next section. 
+Every secure page on our web sites has been secured with a digital certificate by CyberTrust. To view this certificate, click on image of the closed lock on the bottom bar of your browser window. This certificate will show that you are 
+sending your personal information to Verizon. 
 <br>
 <br>
-<b>Here is How to Set Your Cookie Preferences:</b> </font></p>
-<ul>
-<li><font face="Arial,Helvetica,sans-serif" size="2">Netscape Navigator 3.x: In 
-the Options menu, select Network Preferences. In Network Preferences, click on 
-the Protocols tab and there you may choose to be warned before accepting cookies. 
-</font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">Netscape Navigator 4.x: In 
-the Edit menu, select Preferences. In the Preferences dialog box, in the left 
-hand side menu, click on 'Advanced' and 4 options concerning cookies appear on 
-the lower right. Choose Help for further details. You can find more information 
-about cookies and Netscape on the Netscape web site. </font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">Microsoft Internet Explorer 
-3.x: In the view menu, select Options. Click on Advanced tab. You may choose to 
-be warned before accepting cookies </font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">Microsoft Internet Explorer 
-4.x: In the view menu, select Options. Click on Advanced tab and scroll down to 
-a yellow triangle icon with an exclamation labeled "Cookies" where you have 3 
-options. </font></li>
-<li><font face="Arial,Helvetica,sans-serif" size="2">Other Browsers: Contact the 
-manufacturer of the browser for information. </font></li>
-</ul>
-<p><font face="Arial,Helvetica,sans-serif" size="2"><b>Privacy Policy Updates</b> 
+<b>How does Verizon prevent unauthorized access to my information?</b> <br>
+Your password is set at a minimum of six characters, which provides added protection for your personal information. On secured pages, this site uses SSL encryption up to 128-bits. 
 <br>
-Our business changes constantly. This Privacy Policy Notice will change also, 
-and use of information that we gather now is subject to the Privacy Policy Notice 
-in effect at the time of use. We may e-mail periodic reminders of our notices 
-and conditions, unless you have instructed us not to, but you should check our 
-web site frequently to see recent changes. </font></p>
-</td>
-
+<br>
+<b>What security measures are in place to restrict access to personal data?</b> <br>
+There are a variety of security measures in place that limits internal access to data stored by the Verizon site. Access is restricted to authorized personnel only and requires an employee to have a secure ID and password to access the information. In addition, logs are reviewed regularly to spot any inconsistencies. The site is continually updated with the latest known security patches that are periodically published by the system vendor. Any information that you give is password protected. For your protection, the system automatically locks out a user after 3 incorrect tries and after 20 minutes of idle time per secure session. If you forget your password, you will be prompted to supply your customer ID number and your password will be e-mailed to you.
+<br>
+<br>
+<b>What information is stored by the site or in cookies?</b> <br>
+Registration information, bill and online shopping, data and contact e-mail addresses are stored in Verizon databases which are physically secure environments that are not accessible via the Internet. This information is only available to you through the use of a secure ID and password, and the information is transferred from our databases for your viewing.
+<br>
+<br>
+A cookie is a small, encrypted data string our server writes to your hard drive that contains your unique User ID for our web site. Cookies help us to identify returning visitor's to our web sites, which allow us to give you a more personalized, useful experience on our web site. We use cookies for purposes such as delivering web content specific to your interests, and to keep track of your order as you order services. A cookie cannot be used to access or otherwise compromise the data on your hard drive. You can choose to change your browser settings to disable cookies if you do not want us to establish and maintain a unique Verizon.com User ID. Please be aware that cookies may be required to complete certain functions on this web site, such as My Directory. To disable cookies, see next section. 
+<br>
+<br>
+<b>Here is How to Set Your Cookie Preferences:</b> </font>
+<br>
+<br>
+<table width="500" border="0" cellspacing="0" cellpadding="0">			  
+<tbody><tr>                
+<td valign="TOP"><img src="http://img.superpages.com/products/images/awu_reddotspacer.gif" width="9" height="11" alt=""></td>
+<td height="17" width="2"><img src="http://img.superpages.com/products/images/spacer.gif" width="2" height="1" alt=""></td>
+<td height="17" width="489"><font face="Arial,Helvetica,sans-serif" size="2">Netscape Navigator 3.x: In the Options menu, select Network Preferences. In Network Preferences, click on the Protocols tab and there you may choose to be warned before accepting cookies.</font></td>
 </tr>
 
+<tr>                
+<td valign="TOP"><img src="http://img.superpages.com/products/images/awu_reddotspacer.gif" width="9" height="11" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17"><font face="Arial,Helvetica,sans-serif" size="2">Netscape Navigator 4.x: In the Edit menu, select Preferences. In the Preferences dialog box, in the left hand side menu, click on 'Advanced' and 4 options concerning cookies appear on the lower right. Choose Help for further details. You can find more information about cookies and Netscape on the Netscape web site</font></td>
+</tr>
+
+<tr>                
+<td valign="TOP"><img src="http://img.superpages.com/products/images/awu_reddotspacer.gif" width="9" height="11" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17"><font face="Arial,Helvetica,sans-serif" size="2">Microsoft Internet Explorer 3.x: In the view menu, select Options. Click on Advanced tab. You may choose to be warned before accepting cookies</font></td>
+</tr>
+
+<tr>                
+<td valign="TOP"><img src="http://img.superpages.com/products/images/awu_reddotspacer.gif" width="9" height="11" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17"><font face="Arial,Helvetica,sans-serif" size="2">Microsoft Internet Explorer 4.x: In the view menu, select Options. Click on Advanced tab and scroll down to a yellow triangle icon with an exclamation labeled "Cookies" where you have 3 options.</font></td>
+</tr>
+
+<tr>                
+<td valign="TOP"><img src="http://img.superpages.com/products/images/awu_reddotspacer.gif" width="9" height="11" alt=""></td>
+<td height="17">&nbsp;</td>
+<td height="17" valign="TOP"><font face="Arial,Helvetica,sans-serif" size="2">Other Browsers: Contact the manufacturer of the browser for information.</font></td>
+</tr>            
+</tbody></table>
+<br>
+
+<font face="Arial,Helvetica,sans-serif" size="2"><b>Privacy Policy Updates</b> <br>
+Our business changes constantly. This Privacy Policy Notice will change also, and use of information that we gather now is subject to the Privacy Policy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our web site frequently to see recent changes. <br>
+<br>
+<br>
+</font></td>
+</tr>     
 </tbody></table>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<!--/content area-->
+</td>
+</tr>
+      
+</tbody></table>
 </td>
 </tr>
 </tbody></table>
-
 <!--master footer-->
-
-
-
-<table width="770" border="0" cellspacing="0" cellpadding="0" bgcolor="#666699">
-
-
-
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-
-
-
-    <td bgcolor="#000000" width="150"><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="150" height="50" alt="&quot; &quot;"></td>
-
-
-
-<td width="17" bgcolor="#FFFFFF"><img src="http://img.superpages.com/images-yp/decor/images/new/spacer.gif" width="17" height="1" alt="&quot; &quot;"></td>
-
-
-
-    <td width="603" bgcolor="#FFFFFF">
-
-
-
-<center>
-
+<td bgcolor="#000000" width="150" align="center" valign="middle" height="50">
+<img src="http://img.superpages.com/images-yp/sp/images/spacer.gif" width="150" height="1" alt="">
+</td>
+<td width="620" bgcolor="#FFFFFF" align="center" height="50">  
 <font face="Arial, Helvetica, sans-serif" size="1">
-
-
-
-<a href="http://www.superpages.com/">Home</a> | 
-
-
-
-<a href="http://yp.superpages.com/profiler/abook.phtml?SRC=">My Directory</a> | 
-
-
-
-<a href="http://yp.superpages.com/sform.phtml?SRC=&amp;STYPE=S">Yellow Pages</a> |  
-
-
-<a href="http://www.superpages.com/business/">Business Center</a> |  
-
-
-
-<a href="http://wp.superpages.com/people.phtml?SRC=">People Pages</a> | 
-
-
-
-<a href="http://www.superpages.com/supertopics/">SuperTopics</a> | 
-
-
-
-<a href="http://cg.superpages.com/cgi-bin/php/index.html">Consumer Guide</a><br>
-
-
-
+<a href="http://www.superpages.com/">Home</a>  | 
+<a href="http://yellowpages.superpages.com/profiler/abook.jsp">My Directory</a>  | 
+<a href="http://yellowpages.superpages.com/yp.basic.jsp?STYPE=S">Yellow Pages</a> | 
+<a href="http://directory.superpages.com/people.jsp">People Pages</a> | 
 <a href="http://www.superpages.com/cities/">City Pages</a> | 
-
-
-
+<a href="http://www.superpages.com/consumercenter/">Consumer Center</a>
+<br>  
+<a href="http://www.superpages.com/advertisewithus/">Advertise With Us</a> | 
 <a href="http://www.superpages.com/about/">About Us / Help</a> | 
-
-
-
-<a href="http://www.superpages.com/products/">Advertise on SuperPages</a> | 
-
-
-
-<a href="http://www.superpages.com/about/new_chg_listing.html">Add / Change Listing</a><br>
-
-
-
-<a href="http://www.superpages.com/about/privacy.html">Privacy Policy</a> | 
-
-
-
-<a href="http://www.superpages.com/about/feedback.html">Feedback</a> |
-
-
-
-<a href="http://www.verizon.com/prodserv/index_ps.html">Verizon Products / Services</a> | 
-
-
-
-<a href="http://www.verizon.com/about/careers/vis.html">Jobs</a>
-
-
-</font>            
-
-
-
-</center>
-
-    </td>
-
-
-
+<a href="http://www.superpages.com/about/new_chg_listing.html">Add  / Change Listing</a> | 
+<a href="http://www.superpages.com/about/privacy.html">Privacy Policy</a>  | 
+<a href="http://www.superpages.com/about/contact.html">Contact Us</a>
+<br>
+<a href="http://www.superpages.com/about/copyright.html">Terms &amp; Conditions</a> | 
+<a href="http://www.superpages.com/about/sitemap.html">Site Index</a> |
+<a href="http://www.verizon.com/">Verizon Products / Services</a> | 
+<a href="http://www22.verizon.com/about/careers/vis.html">Careers at SuperPages</a>
+</font> 
+<!-- Copyright IBM Corporation, 2001, 2003 -->
+<!-- Copyright IBM Corporation, 2001, 2003 -->
+<script language="JavaScript1.1" type="text/javascript">var SA_ID="verpix;verpix";</script>
+<script language="JavaScript1.1" type="text/javascript" src="http://stats.surfaid.ihost.com/sacdcg3p_verpix_verpix.js?verpix"></script>
+<noscript><img src="http://stats.surfaid.ihost.com/crc/images/uc.GIF?1.9&verpix&verpix&noscript" height="1" width="1" alt="" border="0"/></noscript>
+<br>
+<img src="http://img.superpages.com/images-yp/sp/images/spacer.gif" width="620" height="1" alt=""><br> </td>
+<td width="100%" nowrap="" bgcolor="#FFFFFF">&nbsp;</td>
 </tr>
-
-
-
+	
 <tr>
-
-
-
-<td>&nbsp;</td>
-
-
-
-<td>&nbsp;</td>
-
-
-
-<td>
-
-
-
-<center>
-
-<font color="#FFFFFF" face="Geneva, Arial, Helvetica, sans-serif" size="1"> Copyright © 1996 - 2002 Verizon Inc. All rights reserved.</font> 
-
-</center>
-
-
-
+<td bgcolor="#000000" width="150" height="20">&nbsp;</td>
+<td bgcolor="#CC0000" align="center" width="620" valign="MIDDLE" height="20">
+<font color="#FFFFFF" face="Arial, Helvetica, sans-serif" size="1"> Copyright © 1996 - 2004 Verizon. All rights reserved.<br>
+</font>
 </td>
 
-
+<td bgcolor="#CC0000" width="100%" nowrap="" height="20">&nbsp;</td>
 
 </tr>
-
-
-
-</tbody></table>
-
-
-
-<!--/master footer-->
-
+</tbody></table> 
+<!--master footer-->
 
 
 </body></html>
