@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621174713id_/http%3A//export.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004175121id_/http%3A//www.export.gov/privacy.html) for the most accurate reproduction.*
 
 # Terms & Privacy Statement
 
@@ -23,7 +23,7 @@ This information does not identify you personally. This information is used to p
 ### Information Collected from E-Mail, Forms and through Site Registration:
 
 If you send us an email, information you submit may be viewed by various people within the International Trade Administration, in an effort to respond to your request(s). Users are reminded that email is not necessarily secure against interception. If your communication is sensitive or includes personal information, you may want to send it to us by postal mail instead. If you register on one of our web sites to obtain a benefit, report a trade complaint or use any of our services, you may submit identifying information, such as name, title, name/size of company, address, phone number, and personal email address. Certain ITA services are reserved for U.S. firms only and we may use the registration information to contact you for verification purposes before allowing access to the requested ITA service. All information collected from the public on this site has been authorized by **[The Office of Management and Budget (OMB)](http://www.whitehouse.gov/omb/index.html)** as required under the [**Paperwork Reduction Act**](http://www.whitehouse.gov/omb/inforeg/pra_memo111401.pdf).  
-If you submit your information to become a registered user of the Export.gov community, that information will be shared with all the federal government partner agencies for purposes of providing trade assistance, including providing you information about specific trade events and opportunities. For more information about these activities and partners, **[click here](https://web.archive.org/web/20030621174713id_/http%3A//export.gov/aboutus.html)**. 
+If you submit your information to become a registered user of the Export.gov community, that information will be shared with all the federal government partner agencies for purposes of providing trade assistance, including providing you information about specific trade events and opportunities. For more information about these activities and partners, **[click here](https://web.archive.org/web/20031004175121id_/http%3A//www.export.gov/aboutus.html)**. 
 
 ### Security, Intrusion, and Detection:
 
