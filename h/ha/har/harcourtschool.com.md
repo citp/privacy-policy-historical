@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harcourtschool.com privacy policy that was archived on 2000-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000606041339id_/http%3A//www.harcourtschool.com/frontmatter/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harcourtschool.com privacy policy that was archived on 2001-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010201165000id_/http%3A//www.harcourtschool.com/frontmatter/privacy.html) for the most accurate reproduction.*
 
 # Harcourt School Publishers: Customer Privacy Policy
 
