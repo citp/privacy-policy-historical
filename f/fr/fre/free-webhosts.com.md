@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the free-webhosts.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610142844id_/http%3A//www.free-webhosts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-webhosts.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205004134id_/http%3A//www.free-webhosts.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy for Free-Webhosts.com
+# Privacy Policy for "Free Web Hosting" (Free-Webhosts.com)
 
-**Free Webspace Directory (Free-Webhosts.com) takes your privacy seriously. Please read the following to learn more about our privacy policy. This statement covers how we use the info collected about our visitors.**
+**Free Web Hosting Directory (Free-Webhosts.com) takes your privacy seriously. Please read the following to learn more about our privacy policy. This statement covers how we use the info collected about our visitors.**
 
 **General**  
 We do NOT collect personal information from you unless you provide it to us.  
@@ -31,4 +31,4 @@ Free-Webhosts.com and its advertisers may set and access cookies on your compute
 By using this website, you signify your assent to the Free-Webhosts.com privacy policy. We reserve the right to change this privacy policy at any time by posting such changes on this web page, so please check this web page periodically for changes. If you do not agree to the current private policy, please do not use this website.
 
 **Contacting Us**  
-See our [contact](https://web.archive.org/web/20040610142844id_/http%3A//www.free-webhosts.com/contact.php) page.
+See our [contact](https://web.archive.org/web/20041205004134id_/http%3A//www.free-webhosts.com/contact.php) page.
