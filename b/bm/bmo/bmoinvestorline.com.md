@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209012700id_/http%3A//www.bmoinvestorline.com/FAQs/FAQ_II.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmoinvestorline.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604105516id_/http%3A//www.bmoinvestorline.com/FAQs/FAQ_II.html) for the most accurate reproduction.*
 
 # BMO InvestorLine - FAQs - Security and Privacy
 
@@ -27,7 +27,7 @@ If you still want more information, go to our [Browsers and Security](https://we
 **How do I know if my web browser supports 128-bit encryption?**   
 The answer to this question will vary, depending on the type and version of browser that you are using. You will need to consult the section in your browser that discusses security information for full details. Chances are that if you haven't specifically obtained a strong encryption browser (128-bit), you aren't using one. If you are trying to view the Account Access section of this web site and you are receiving an "Insufficient Encryption" message, you will need to obtain a [strong encryption browser](https://web.archive.org/General_Info/BrowsersSecurity.html "Obtain security and browser information").
 
-If you're a BMO InvestorLine client and you do not have a 128-bit encryption browser, BMO InvestorLine can provide you with one. Please [contact us](https://web.archive.org/General_Info/ContactUs.html "Contact BMO InvestorLine"). As well, you can download the browser from the web sites of either [Netscape](javascript:launchRemote\('http://home.netscape.com/download/'\)) or [Microsoft](javascript:launchRemote\('http://www.microsoft.com/windows/ie/download/all.htm?bShowPage'\)).  
+If you do not have a 128-bit encryption browser you can download your preferred browser from the either [Netscape](javascript:launchRemote\('http://home.netscape.com/download/'\)) or [Microsoft](javascript:launchRemote\('http://www.microsoft.com/windows/ie/download/all.htm?bShowPage'\)).  
 [[back](https://web.archive.org/FAQs/Default.html#SecurityAndPrivacy)]   [top] 
 
 **Are there other steps that I should take to protect my account?**   
