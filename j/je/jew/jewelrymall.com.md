@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelrymall.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203040012id_/http%3A//jewelrymall.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelrymall.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610192830id_/http%3A//www.jewelrymall.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -10,7 +10,7 @@ Jewelry Mall Privacy Policy:
   * Our bulletin board uses cookies in order to enhance your user experience if you wish however you may disable cookies and most of it's features will still work properly. 
   * Our online survey only serves to let us know what types of features best suit our users. The only thing your e-mail address is used for with the survey is to notify you if you have won the monthly drawing.
   * JEWELRY MALL WORKS WITH A THIRD PARTY THAT SERVES ADS TO THIS SITE. TO FIND OUT MORE ABOUT HOW FLYCAST MANAGES THE PRIVACY OF INFORMATION IN CONJUNCTION WITH SERVING ADS ON THIS SITE, PLEASE GO TO [HTTP://WWW.FLYCAST.COM/ABOUT_US/ABOUT-PRIVACY.HTML](http://www.flycast.com/ABOUT_US/ABOUT-PRIVACY.HTML)
-  * If you have any additional questions about Jewelry Mall's dedication to consumer privacy, please contact us at [privacy@jewelrymall.com ](https://web.archive.org/web/20031203040012id_/http%3A//jewelrymall.com/privacy@jewelrymall.com%20)
+  * If you have any additional questions about Jewelry Mall's dedication to consumer privacy, please contact us at [privacy@jewelrymall.com ](https://web.archive.org/web/20040610192830id_/http%3A//www.jewelrymall.com/privacy@jewelrymall.com%20)
   * As an additional note although SPAM is not considered strictly a privacy issue at this time we do not use SPAM in our promotions and if we become aware of any of the companies we list using SPAM we will eliminate their listing from our site
 
 
