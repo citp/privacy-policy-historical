@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equipmenttrader.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211131101id_/http%3A//usediron.point2.com/Xhtml/LegalNotice/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equipmenttrader.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603152817id_/http%3A//usediron.point2.com/Xhtml/LegalNotice/Privacy.html) for the most accurate reproduction.*
 
 # Privacy - Point2 UsedIron
 
