@@ -1,80 +1,60 @@
-> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2000-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001209114100id_/http%3A//www.autoworld.com.my/auto2000/helpfiles/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoworld.com.my privacy policy that was archived on 2001-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010617071912id_/http%3A//www.autotrade.com.my/Aw/help/details.asp%3Fproductid%3D37) for the most accurate reproduction.*
 
-# Privacy Policy Autoweb Sdn Bhd
+# 
 
-**_Autoweb Sdn Bhd Privacy Policy Statement_**
+**_Autoweb Sdn Bhd_** ** _Privacy Policy Statement_**
 
-Autoweb Sdn Bhd is the owner and developer of http://www.autoworld.com.my. Our postal and office address is
+This is the website of Autoworld.com.my, an automotive portal service provided by Autoweb Sdn.Bhd. (AW). Our postal and office address is 
 
-> > F 513, Pusat Dagangan Phileo Damansara  
->  No. 9, Jalan 16/11, Petaling Jaya  
->  46350 Selangor, Malaysia
+> > 2nd Floor, Bangunan Teo Cheow Seng  
+>  No. 78, Jalan SS22/21  
+>  Damansara Jaya   
+> 47400 Petaling Jaya  
+>  Selangor Darul Ehsan, Malaysia
 >> 
->> Tel : 603-4608283  Fax : 603-4608287
+>> Tel : 603-7722 2820   
+>  Fax : 603-7722 2830
 >> 
->> Email [support@autoworld.com.my](mailto:support@autoworld.com.my)
+>> E-mail : [support@Autoworld.com.my](mailto:support@Autoworld.com.my)
 
-We are a fully internet based company which provide web services to the public. Autoweb Sdn Bhd is committed to safeguarding your privacy online. Please read the following to fully understand our practices regarding the use of your personal Information.
+As a fully internet based company which provides web services to the public, Autoweb Sdn.Bhd is committed to safeguarding your privacy online. Please read the following to fully understand our practices regarding the use of your personal Information. 
 
-> ****In General, Autoweb Sdn.Bhd will never intentionally disclose individually identifiable information about our users to any third parties without first getting that user's permission.****
+> ****In General, Autoweb Sdn.Bhd will never intentionally disclose individually identifiable information about our users to any third party without first receiving that users permission.** **
 
-This policy applies specifically to your name, email address, phone number, and any other individually identifiable information which we collect from our users, except where these information is displayed on our site.
+This policy applies specifically to your name, e-mail address, phone number, and any other individually identifiable information which we collect from our users. 
 
-_**What We Collected**_
+_**What We Collect**_
 
-Autoweb Sdn. Bhd's general policy is to collect only individually identifiable information that is absolutely necessary for the transaction or useful for our own internal operations. During registration with our service, we collect e-mail address, phone contact, address (where possible) of visitors to our web page, the e-mail addresses of those who post messages and comment, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our discussion areas, aggregate information on what pages consumers access or visit, information volunteered by consumers and merchants, such as survey information and/or site registration data, and the e-mail address of those posting comments on merchants, our buyers, sellers and bidders.
+AW's general policy is to only collect individually identifiable information that is absolutely necessary for the transaction or useful for our own internal operations. During the registration process for our services, we collect a user's e-mail address, phone contact, address (where possible) and IC number. 
 
-We will also track certain information about you. This information includes the URL that you come from (whether this URL is on our site or not), which URL you go to next (whether this URL is on our site or not), what browser you are using, and your IP address. Many site automatically collect this information using widely available site web statistical tools.
+Also, AW will record the e-mail addresses of those who post messages and comments, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our dicussion areas, aggregate information on what pages consumers access or visit, information volunteered by consumers and merchants, such as survey information and/or site registration data, and the e-mail address of those posting comments on merchants, our buyers, sellers and bidders. 
 
-In addition, we use cookies on certain pages of our site, for example in "My Favourite".  Among other reasons, cookies allow you to enter your password less frequently during a session. At the same time, cookies can also help us to provide personalized information targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are "session cookies", meaning they are automatically deleted at the end of a session. You are always free to decline our cookies if your browser permits. In this case you may be required to re-enter your password more frequently during a session.
+We will also track certain particulars about you. This information includes the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), what browser you are using, and your IP address. Many sites automatically collect this information using widely available site web statitical tools. 
 
-If you choose to establish a credit account with us, we collect some additional information, including billing address, but not your credit card details.
+In addition, we use cookies on certain pages of our site, for example in "My Autoworld". Among other reasons, cookies allow you to enter your password less frequently during a session. At the same time, cookies can also help us provide personalised information targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may be required to reenter your password more frequently during a session. 
 
-If you choose to post messages in our discussion forum or other message areas or leave feedback for other users, we will collect such information about you as you choose to disclose.
+If you choose to bid, buy or sell on our site, we collect information about your bidding, buying and selling behavior. We also collect other users’ comments about you in our feedback area. 
+
+If you choose to establish a credit account with us, we collect some additional information, including billing address, and your credit cards details. If you choose to post messages in our dicussion rooms or other message areas or leave feedback for other users, we will collect such information about you as you choose to disclose. 
 
 _**What We Do With Information Collected**_
 
-For accountability and control purposes, real name, email addresses, residential address and phone contact are required during registration of account.
+For accountability and control purposes, we do require a user's full name, e-mail address, residential address, phone contact and IC number during the registration for an account. 
 
-We rarely use your email address or your mailing address or phone number, except for the following :
+We rarely use your e-mail address, mailing address or phone number, except for the following : 
 
   1. To contact you regarding administrative notices from time to time.
-  2. We will use the address and billing information to bill you.
-  3. We use the information and past archives and activities to resolve disputes, troubleshoot problems and enforce our terms and condition of using our services.
-  4. For order fulfillment purposes, we do need to provide your name, address, contact and email address to our dealer in order to delivery the your merchandise to your doorstep.
+  2. We will use the address and billing information to bill you. 
+  3. We use the information and past archives and activities to resolve disputes, troubleshoot problems and enforce our terms and conditions of using our services. 
+  4. For order fulfillment purposes, we do need to provide your name, address, contact and e-mail address to our dealers in order for delivery of mechandise to your doorstep.
 
 
 
-> **We do not sell, lease or share our email lists, or list of any other individually identifiable information to other parties.**
+**We do not sell, lease or share our email lists, or list of any other individually identifiable information to other parties.**
 
-This Privacy Policy is incorporated into and subject to the terms of the autoworld.com.my User Agreement.
+**_Collection of photocopy IC / driving license_**
 
-   
----  
-| **Autoworld Auction**
+AW is a site where the identities of a member are important. This helps reduce fraud between members and enhance credibility.   
+AW assures all members of the following : - Copies and details of the IC / driving license are kept securely by us and will never be used for marketing purposes - Copies and details of the IC / driving license will never be disclosed or given to any third party by electronic means or print. 
 
-* * *
-
-[Home](http://www.autotrade.com.my/),  [Browse](http://www.autotrade.com.my/aw/list/automobile/br.asp?cat=RT.AM&DataAction=Apply),  [Search](http://www.autotrade.com.my/aw/list/automobile/searchfrm.asp?DataAction=Search&Cat=RT.AM),  [Sell](http://www.autotrade.com.my/Aw/Member/Item/Chooser.asp),  [Register](http://www.autotrade.com.my/Aw/Registration/Register.asp),  [My Account](http://www.autotrade.com.my/Aw/Member/),  [Help](http://www.autotrade.com.my/Aw/help/index.asp?name=help),  [Feedback](http://www.autotrade.com.my/Aw/Gen/Feedback.asp)
-
-[New Today](http://www.autotrade.com.my/aw/list/automobile/br.asp?Cat=RT.AM&DataAction=Apply&New=Y&SI=3),  [Closing Today](http://www.autotrade.com.my/aw/list/automobile/br.asp?Cat=RT.AM&DataAction=Apply&Closing=Y),  [Hot Items](http://www.autotrade.com.my/aw/list/automobile/br.asp?Cat=RT.AM&DataAction=Apply&Hits=100&SI=5),  [Suggest A Category](http://www.autotrade.com.my/Aw/Gen/Suggest.asp) ,  [Browse By State](http://www.autotrade.com.my/Aw/List/BrowseByState.asp)
-
-| **Autoworld.com.my**
-
-* * *
-
-[Home](http://www.autoworld.com.my/),  [Auction](http://www.autotrade.com.my/),  [Used Car](http://www.autoworld.com.my/auto2000/usedcar/usedcarhome.asp),  [Dealers](http://www.autoworld.com.my/auto2000/dealers/dealerhome.asp),  [Financing](https://www.ecloan.com.my/carloan/getloan.asp?client=autoworld),  [AAM](http://www.autoworld.com.my/aam/),  [Emzine](http://www.autotrade.com.my/emzine/),  [CarTalk](http://www.autotrade.com.my/iforum/forums/),  [Chinese](http://www.autoworld.com.my/auto2000/chinese/cdefault.asp)
-
-[Employment](http://www.autoworld.com.my/employment.asp)
-
-|  | **Related Links:**
-
-* * *
-
-[Hong Leong Finance Berhad](http://www.hongleongfinance.com.my/)  
-[Lelong.com.my](http://www.lelong.com.my/)  
-[EC Loan](https://www.ecloan.com.my/carloan/getloan.asp?client=autoworld)  
-[The SaxyClub](https://www.thesaxyclub.com.my/)  
-[Fragrance](https://www.fragrance.com.my/)  
-  
-  ©2000 Autoweb Sdn Bhd. All rights reserved. [Disclaimer](http://www.autoworld.com.my/auto2000/helpfiles/disclaimer.asp)   [Privacy Policy](http://www.autoworld.com.my/auto2000/helpfiles/privacy.asp)  Email: support@autoworld.com.my  Tel: 603-7722 2820 
+This Privacy Policy is incorporated into and subject to the terms of the Autoworld.com.my User Agreement.
