@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408052125id_/http%3A//www.naplesnews.com/cgi-bin/sendto.pl%3Flocation%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naplesnews.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207172825id_/http%3A//www.naplesnews.com/cgi-bin/sendto.pl%3Flocation%3Dprivacy) for the most accurate reproduction.*
 
 # naplesnews.com | Privacy Policy
 
@@ -78,11 +78,9 @@ The right to download and store or output the materials in our sites is granted 
 
 |  |  |  |    
   
-[](http://www.goshopnaples.com/)  
-Searchable Directory of Online Advertisers  
-  
 [](http://admaster.scripps.com/cfapps/2/jobs_more.cfm?&site_id=2&rail_type=jobs)  
 Employment ads from The Naples Daily News  
+  
   
   
   
@@ -90,6 +88,10 @@ Employment ads from The Naples Daily News
   
 [](http://www.winktv.com/)  
   
+[  
+**Circulation:**](http://chatter.naplesnews.com/transactiontype.asp)  
+Use our online WEB service any time you need to contact circulation
+
 **[Postcards:](http://www.naplesnews.com/postcard/index.html)**  
 Send an electronic postcard to somebody you know.
 
@@ -99,11 +101,11 @@ Save at local area businesses.
 **[Ad Rates:](http://www.naplesnews.com/advertising/)**  
 For Naples Daily News and naplesnews.com
 
+[**E-commerce**](http://www.naplesnews.com/ecommerce/open/)  
+Sell Your Products or Services on the Internet
+
 **[CD Business Cards](http://www.naplesnews.com/business_cds/)**  
-Impress your business associates and clients with this new sales tool
+Convenient, impressive sales tool for businesses
 
 **[BillPay](http://www.naplesnews.com/billpay/)**  
 Manage your advertising account payments
-
-[**Circulation Customer Service**](http://chatter.naplesnews.com/transactiontype.asp)  
-Use our NEW automated WEB service to report delivery problems, start or stop delivery, change of address and for any other reason you need to contact the circulation department.
