@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610050206id_/http%3A//www.fi.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fi.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/privacy.shtml) for the most accurate reproduction.*
 
 # Fisher Investments Inc. Online Privacy Policy
 
@@ -11,7 +11,7 @@ Our postal address is
 Woodside, CA 94062  
 We can be reached via e-mail at [privacy@fi.com](mailto:privacy@fi.com) or you can reach us by telephone at 650.851.3334 
 
-Fisher Investments, Inc. [FI] is focused on providing all users with a satisfying experience while at FI.com. The following online privacy policy illustrates FI's commitment to developing an insightful online environment for high net worth investors. Please keep in mind that this policy encompasses privacy issues affecting U.S. online marketing initiatives and [www.fi.com](http://www.fi.com/). 
+Fisher Investments, Inc. [FI] is focused on providing all users with a satisfying experience while at FI.com. The following online privacy policy illustrates FI's commitment to developing an insightful online environment for high net worth investors. Please keep in mind that this policy encompasses privacy issues affecting U.S. and Canadian online marketing initiatives and the websites, [www.fi.com](http://www.fi.com/) and [www.fi-canada.com](http://www.fi-canada.com/). 
 
 #### Email
 
@@ -65,15 +65,15 @@ We do not disclose any nonpublic personal information about our customers or for
 
   
   
-[Welcome](https://web.archive.org/web/20020610050206id_/http%3A//www.fi.com/index.html) | [Profile](https://web.archive.org/web/20020610050206id_/http%3A//www.fi.com/about.html)[](https://web.archive.org/web/20020610050206id_/http%3A//www.fi.com/philosophy.html) | [Private Client](https://web.archive.org/web/20020610050206id_/http%3A//www.fi.com/private.html) | [Institutional](https://web.archive.org/web/20020610050206id_/http%3A//www.fi.com/inst.html) | [Philosophy](https://web.archive.org/web/20020610050206id_/http%3A//www.fi.com/philosophy.html)   
-[Publications](https://web.archive.org/web/20020610050206id_/http%3A//www.fi.com/pub.html) | [Employment](http://recruit.fi.com/candidates/jobopportunities.cfm) | [Contact Us](http://pcg.fisherinvestments.com/newrespond/letter.asp?site=fi-com&KC=08A0000000000) | Top of Page
+[Welcome](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/index.html) | [Profile](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/about.html)[](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/philosophy.html) | [Private Client](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/private.html) | [Institutional](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/inst.html) | [Philosophy](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/philosophy.html)   
+[Publications](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/pub.html) | [Employment](http://recruit.fi.com/candidates/jobopportunities.cfm) | [Contact Us](https://ad.doubleclick.net/clk;4738068;7598877;m?https://pcg.fisherinvestments.com/0602cap/usletter.asp?KC=%epid!_%erid!_%eaid!_01) | Top of Page
 
 **Fisher Investments, Inc.**  
 13100 Skyline Blvd., Woodside CA 94062  
 **Phone:** 800-851-8845    **Fax:** 650-851-3514  
 **E-mail:** [info@fi.com](mailto:%20info@fi.com)
 
-Copyright 2002 Fisher Investments, Inc. All rights reserved. [Privacy Policy](https://web.archive.org/web/20020610050206id_/http%3A//www.fi.com/privacy.shtml)
+Copyright 2002 Fisher Investments, Inc. All rights reserved. [Privacy Policy](https://web.archive.org/web/20021211051018id_/http%3A//www.fi.com/privacy.shtml)
 
   
 
