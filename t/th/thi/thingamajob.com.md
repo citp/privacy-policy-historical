@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thingamajob.com privacy policy that was archived on 2000-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000619184346id_/http%3A//www.thingamajob.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingamajob.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815062408id_/http%3A//www.thingamajob.com/privacy_statement.html) for the most accurate reproduction.*
 
 # thingamajob.com
 
-|  [](https://web.archive.org/web/20000619184346id_/http%3A//www.thingamajob.com/job_search.html)  
-[](https://web.archive.org/web/20000619184346id_/http%3A//www.thingamajob.com/account_info.html)  
-[](https://web.archive.org/web/20000619184346id_/http%3A//www.thingamajob.com/online_resume.html)  
-[](https://web.archive.org/web/20000619184346id_/http%3A//www.thingamajob.com/job_alerts.html)  
-[](https://web.archive.org/web/20000619184346id_/http%3A//www.thingamajob.com/need_help.html)  
+|  [](https://web.archive.org/web/20000815062408id_/http%3A//www.thingamajob.com/job_search.html)  
+[](https://web.archive.org/web/20000815062408id_/http%3A//www.thingamajob.com/account_info.html)  
+[](https://web.archive.org/web/20000815062408id_/http%3A//www.thingamajob.com/online_resume.html)  
+[](https://web.archive.org/web/20000815062408id_/http%3A//www.thingamajob.com/job_alerts.html)  
+[](https://web.archive.org/web/20000815062408id_/http%3A//www.thingamajob.com/need_help.html)  
 |   | 
 
   
@@ -27,7 +27,7 @@ Technology referred to as cookies makes the web more useful by storing informati
 
 **Questions**
 
-If at any time, you have any questions or concerns about the **thingama job.com** site or our policy, please feel free to contact us at 1-877-42-THING (1-877-428-4464) or submit an [online help form](https://web.archive.org/web/20000619184346id_/http%3A//www.thingamajob.com/help_form.html).
+If at any time, you have any questions or concerns about the **thingama job.com** site or our policy, please feel free to contact us at 1-877-42-THING (1-877-428-4464) or submit an [online help form](https://web.archive.org/web/20000815062408id_/http%3A//www.thingamajob.com/help_form.html).
 
 Thank you again for visiting **thingama job.com**.
 
