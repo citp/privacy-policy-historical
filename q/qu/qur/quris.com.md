@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quris.com privacy policy that was archived on 2002-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020705154221id_/http%3A//www.quris.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quris.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621085333id_/http%3A//quris.com/about/privacy.html) for the most accurate reproduction.*
 
 # Quris, Inc. :: About Us
 
