@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2002-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020415042115id_/http%3A//www.meed.com/nav%3Fpage%3Dmeed.static.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meed.com privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015104523id_/http%3A//www.meed.com/nav%3Fpage%3Dmeed.static.privacy) for the most accurate reproduction.*
 
 # MEED - The Middle East Business Weekly
 
