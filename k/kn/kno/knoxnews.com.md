@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knoxnews.com privacy policy that was archived on 2000-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000815064302id_/http%3A//www.knoxnews.com/talktous/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knoxnews.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604055640id_/http%3A//www.knoxnews.com/talktous/privacy) for the most accurate reproduction.*
 
 # KnoxNews.com - Talk to Us
 
@@ -28,6 +28,8 @@ We may perform statistical analyses of aggregate user behavior. This allows us t
 
 We do not share personal identifying information with any third party without your permission. We disclose _only in aggregate form_ our statistical analyses or demographics of users to third parties, such as advertisers or other business partners. In some instances, we operate shared web sites with businesses affiliated with us. Our privacy policy will apply to these web sites, and our affiliates adhere to our privacy policy and will not share personal information with any third party without your permission. PLEASE BE AWARE that when you voluntarily disclose personal information (such as your name, e-mail address) in chat areas or bulletin boards to third parties, that information may be collected by others outside the control of us and may result in unsolicited messages from others.
 
+This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
+
 **IV. Accuracy of User Information**
 
 In order to ensure the accuracy of personal information provided for registration, you may return to the registration form online in order to change information you have provided at any time. Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to [**webmaster@knoxnews.com**](mailto:webmaster@knoxnews.com), or you can reach us by telephone at **(865) 342-6801**. You can also write us at:
@@ -50,4 +52,4 @@ At any time while assessing our site(s), any user while online may "opt-out" of 
 
 **VII. Use of Materials**
 
-The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [**webmaster@knoxnews.com**](mailto:webmaster@knoxnews.com). To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](https://web.archive.org/web/20000815064302id_/http://www.knoxnews.com/talktous/privacy/user.shtml).
+The right to download and store or output the materials in our **site(s)** is granted for the user's personal use only, and materials may not be reproduced in any edited form. Any other reproduction, transmission, performance, display or editing of these materials by any means mechanical or electronic without the express written permission of us is strictly prohibited. Users wishing to obtain permission to reprint or reproduce any materials appearing on these sites may contact us at [**webmaster@knoxnews.com**](mailto:webmaster@knoxnews.com). To link to the full Terms of Use Agreement pertaining to use of our **site(s)** , please [**click here**](https://web.archive.org/web/20010604055640id_/http://www.knoxnews.com/talktous/privacy/user.shtml).
