@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collarme.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806085954id_/http%3A//collarme.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collarme.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606044922id_/http%3A//collarme.com/privacy.asp) for the most accurate reproduction.*
 
-# BDSM personals for every slave, mistress & master in the BDSM community
+# CollarMe.com - Free BDSM Personals and Chat
 
 **Privacy Policy Statement**
 
