@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2003-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030626155527id_/http%3A//www.educationplanet.com/us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204195725id_/http%3A//www.educationplanet.com/us/privacy.html) for the most accurate reproduction.*
 
 # Education Planet - Privacy Policy
 
@@ -23,7 +23,7 @@ Education Planet aggregates data from cookies to anonymously determine visitor u
 Other sites listed in the Education Planet site may send you their own cookies or solicit you to gather your personal information. We do not control these cookies or the content of these third parties. The site that you are visiting can contain its own privacy policy and may differ from ours.
 
 **Children Under Age 13**  
-Education Planet is committed to protecting the privacy of all of its visitors, especially children. In compliance with the Children's Online Privacy Protection Act of 1998, Education Planet does not sign up students under the age of 13 for any marketing or promotional purpose. Also any children under age 13 do not have access to sign up for weekly newsletter or complete the Education Planet survey. The FTC (Federal Trade Commission) enforces this act for their protection. At Education Planet we are working hard to keeping children safe on the Internet. If you have any question regarding privacy and safety questions, please e-mail us at [info@educationplanet.com](mailto:info@educationplanet.com). Also, listed below are a few web privacy and safety sites that may also help to answer any questions you may have. It is our objective to continue making Education Planet the best resource for high quality, safe educational resources and services on the web.
+Education Planet is committed to protecting the privacy of all of its visitors, especially children. In compliance with the Children's Online Privacy Protection Act of 1998, Education Planet does not sign up students under the age of 13 for any marketing or promotional purpose. Also any children under age 13 do not have access to sign up for weekly newsletter or complete the Education Planet survey. The FTC (Federal Trade Commission) enforces this act for their protection. At Education Planet we are working hard to keeping children safe on the Internet. If you have any question regarding privacy and safety questions, please e-mail us at [support@educationplanet.com](mailto:support@educationplanet.com). Also, listed below are a few web privacy and safety sites that may also help to answer any questions you may have. It is our objective to continue making Education Planet the best resource for high quality, safe educational resources and services on the web.
 
 [Electronic Frontier Foundation](http://www.eff.org/) \- EFF, the Electronic Frontier Foundation, is a non-profit, non-partisan organization working in the public interest to protect fundamental civil liberties, including privacy and freedom of expression, in the arena of computers and the Internet.  
 [How to Protect Your Privacy](http://www.ftc.gov/privacy/index.html) \- The Federal Trade Commission is educating consumers about the importance of personal information privacy. Read more about our efforts, what we've learned, and what you can do to protect the privacy of your personal information.  
@@ -33,7 +33,7 @@ Education Planet is committed to protecting the privacy of all of its visitors, 
 Unfortunately, no data transmission over the Internet can be guaranteed 100% secure. We make every reasonable attempt to ensure the security of your information on our system. Your information is stored on secure servers and is only accessible to qualified Education Planet personnel.
 
 **How can you update (edit or delete) your information?**  
-If you would like to update, correct your information you can contact us at [info@educationplanet.com](mailto:info@educationplanet.com). If you would like to be removed from the weekly newsletter list you can unsubscribe at <http://www.educationplanet.com/unsubscribe.html>
+If you would like to update, correct your information you can contact us at [support@educationplanet.com](mailto:support@educationplanet.com). If you would like to be removed from the weekly newsletter list you can unsubscribe at <http://www.educationplanet.com/unsubscribe.html>
 
 **Links to other sites**  
 Education Planet's editors and teacher reviewers go to great efforts to provide only high quality education-related web resources that are valuable and appropriate for children. However, because Education Planet does not have control over the changing nature of content on sites that are listed in its directories, Education Planet lists Internet sites for use at the visitor's risk and explicitly disclaims any responsibility for the accuracy, content, or availability of information the resources may contain. Subsequently, Education Planet does not warrant or guarantee that information from a listed site will not contain material which some individuals may deem inappropriate or objectionable.
@@ -42,6 +42,6 @@ Education Planet's editors and teacher reviewers go to great efforts to provide 
 Education Planet partners with a number of sites and companies to provide additional features for our visitors. We work hard to select quality partners that are COPPA compliant, but are not responsible for the content on our partner sites. Please read the privacy policy for partner sites.
 
 **Comments**  
-In case if you have any questions and feedback concerning the Education Planet privacy policy. Please send us your questions and comments to [info@educationplanet.com](mailto:info@educationplanet.com).
+In case if you have any questions and feedback concerning the Education Planet privacy policy. Please send us your questions and comments to [support@educationplanet.com](mailto:support@educationplanet.com).
 
 Last updated 3/01/01
