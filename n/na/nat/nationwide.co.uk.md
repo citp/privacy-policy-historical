@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621143111id_/http%3A//www.nationwide.co.uk/NewsInformation/about/Privacy.htm%3Fs%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217000854id_/http%3A//www.nationwide.co.uk/NewsInformation/about/Privacy.htm%3Fs%3Dhome) for the most accurate reproduction.*
 
 # Nationwide Building Society - news and information
 
-Privacy Statement
+Cookie and Privacy Policy
 
 Nationwide Building Society will only collect, process and store information about you that 
 
@@ -24,9 +24,9 @@ If you use standard e-mail for communication with Nationwide, information will n
 
 All e-mail sent to Nationwide will be monitored and checked to ensure our systems operate effectively.
 
-_This privacy policy only covers the Nationwide branded web sites. Links within this site to external web sites are not covered by this policy. Please note that any changes that Nationwide makes to this policy will be communicated electronically on the home-page of this site and not by individual written communication._
+_This Privacy and Cookie Policy only covers the Nationwide branded web sites. Links within this site to external web sites are not covered by this policy. Please note that any changes that Nationwide makes to this policy will be communicated electronically on the home-page of this site and not by individual written communication._
 
- Click here to learn more about how Nationwide uses your information.
+[_How Nationwide uses your personal information_](https://web.archive.org/web/20031217000854id_/http%3A//www.nationwide.co.uk/banking/pc/personal_information.htm)
 
 **Cookies**
 
@@ -44,7 +44,7 @@ _You are offered this cookie on the Internet Banking sign on page._
 
 _When we use a cookie for this purpose, we do not record any information that will uniquely identify you. We put together the information from a very large number of users of our web site to give us an overall picture of how people visit our site._
 
-  * from time to time we use a third party company to monitor and analyse traffic to, from and within our web site. Cookies may be used as part of this process.
+  * From time to time we use a third party company to monitor and analyse traffic to, from and within our web site. Cookies may be used as part of this process.
 
 _Again no information will be recorded that uniquely identifies you._
 
@@ -52,7 +52,9 @@ _Again no information will be recorded that uniquely identifies you._
 
 
 
-_Before we record any information about you, we will ask your permission. You may refuse to accept these cookies and we will not record the information._
+You may choose to set your browser to not accept any cookies - click on the link below to see how. Please be aware that in doing this certain websites (excluding Nationwide) may not operate correctly.
+
+[Find out more about _how Nationwide keeps your account secure_ in our Security and Access Centre](https://web.archive.org/Security_and_access/whatyoucando.asp?state=7#cookies)
 
 **Definitions**
 
