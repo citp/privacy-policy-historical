@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602174931id_/http%3A//www.davesite.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davesite.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201161402id_/http%3A//www.davesite.com/privacy.shtml) for the most accurate reproduction.*
 
 # Our Privacy Policy - davesite.com
 
@@ -14,9 +14,7 @@ Davesite.com does not use cookies to track users' usage of our site, although ou
 
   * [Burst!Media Privacy Policy](http://www.burstmedia.com/release/privacy.asp)
 
-added 8/11/2000:  
 We use third-party advertising companies to serve ads when you visit our website. These companies MAY use information (not including your name, address, email address, or telephone number) about your visits to this and all other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, view: 
-
   * [ValueClick Privacy Statement](http://valueclick.com/privacy.html)
 
 
@@ -27,7 +25,13 @@ Davesite.com maintains usage log files which may collect IP addresses from users
 
 ## Surveys
 
-From time to time users may see surveys available on our site. These help our advertisers determine the type of people that visit our site. Data submitted through these surveys is aggregated with data of other respondents and stripped of all personal infomation. Although we encourage users to take part in these surveys they are not required to do so. 
+From time to time users may see surveys available on our site. These help our advertisers determine the type of people that visit our site. Data submitted through these surveys is aggregated with data of other respondents and stripped of all personal infomation. Although we encourage users to take part in these surveys they are not required to do so.   
+added 8/11/2000:  
+
+
+## Third-Party Contests and Subscriptions
+
+Our advertisers may offer contests and newsletter-like subscriptions. Please use your discretion when signing up for these services. Frequently, it takes these companies ten days or longer to remove you from their contest/newsletter mailing lists. 
 
 ## Links
 
@@ -39,7 +43,7 @@ On some pages in our site there is a box that allows our servers to e-mail users
 
 ## Changes in Policy
 
-Any change to our privacy policy will be posted on our web site. This policy was posted on April 27, 2000, and modified August 11, 2000. 
+Any change to our privacy policy will be posted on our web site. This policy was posted on April 27, 2000, and modified August 11, 2000 / July 28, 2001. 
 
 ## Contact
 
