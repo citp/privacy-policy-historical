@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206072335id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsh.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607200310id_/http%3A//www.hsh.com/privacy.html) for the most accurate reproduction.*
 
 # HSH Associates: Disclaimers and our Privacy Policy
 
-HSH.com, Homeplans.hsh.com, bestrates.com and bankrates.com are subsidiaries of [HSH Associates, Financial Publishers](http://www.hsh.com/abouthsh.html). We are totally committed to protecting your privacy. This is a summary of the various ways we treat the information you provide us while visiting our Web site.
+**HSH.com** , **Homeplans.HSH.com** , **BestRates.com** and **Bankrates.com** (as well as other domains registered by us) are subsidiaries of [HSH Associates, Financial Publishers](http://www.hsh.com/abouthsh.html). We are totally committed to protecting your privacy. This is a summary of the various ways we treat the information you provide us while visiting our Web site.
 
 (If you believe that you were spammed by our Bestrates.com site, please [click here](http://www.hsh.com/spamalert.html) to discover how the real spammer fooled you.)
 
@@ -31,6 +31,6 @@ We may _offer_ to send you information or updates from HSH Associates via e-mail
 
 Finally, while your individual information is protected as outlined above, we do analyze our 'hit' logs to see how we're doing. However, we only use aggregated, anonymous data about our users as a group. For instance, we like to know that a certain percentage of our users appear to be in the market for a certain loan type, based on the pages they view.
 
-Our privacy policy may be modified from time to time; the last update was on April 8, 2002.
+Our privacy policy may be modified from time to time; the last update was on July 30, 2003.
 
-If you ever have any concerns or questions about our privacy policy, please [send us e-mail](mailto:info@hsh.com). We welcome your feedback. You can also write to us at the following address:
+If you ever have any concerns or questions about our privacy policy, please [send us e-mail](http://www.hsh.com/bnbform.html). We welcome your feedback. You can also write to us at the following address:
