@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the ausaid.gov.au privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206152912id_/http%3A//www.ausaid.gov.au/legal/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ausaid.gov.au privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410132920id_/http%3A//www.ausaid.gov.au/legal/privacy.cfm) for the most accurate reproduction.*
 
 # AusAID: Privacy
-
-  
-
-
-## Privacy statement
 
 Personal information collected by AusAID is treated as confidential and is protected by the Privacy Act 1988. Personal information is information relating to an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion provided.
 
@@ -46,11 +41,11 @@ Other personal information collected by us, for example through the use of an on
 
 
 
-### Cookies
+## Cookies
 
 Cookies are pieces of information that a website can transfer to an individual's computer hard drive for record keeping. Cookies can make using websites easier to use by storing information about your preferences on a particular website. The information remains on your computer after the Internet session finishes.
 
-AusAID only uses cookies in a very limited way, to maintain navigation information during your site visit. These cookies will not remain on your computer at the end of each Internet session. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to refuse cookies or to warn you when cookies are being used.
+AusAID only uses cookies in a very limited way, to maintain navigation information during your site visit or to ensure the operation of the AusAID website. These cookies do not store personal information. Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to refuse cookies or to warn you when cookies are being used.
 
 **Security of information**
 
@@ -58,4 +53,4 @@ Your personal information will not be released unless the law permits it or your
 
 * * *
 
-This page last updated 26 March 2002
+Updated 26 March 2002
