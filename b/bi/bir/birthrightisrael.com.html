@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the birthrightisrael.com privacy policy that was archived on 2003-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031202164112id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/privacy.jsp%26) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the birthrightisrael.com privacy policy that was archived on 2004-04-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040407215633id_/http%3A//www.birthrightisrael.com/bin/en.jsp%3FenPage%3DBlankPage%26enDisplay%3Dview%26enDispWhat%3DZone%26enInfolet%3D../Include/Static/privacy.jsp%26) for the most accurate reproduction.-->
 
 <html><head>
 <!-- CSS link -->
@@ -17,367 +17,9 @@
 <meta name="description" content="providing a gift of first time, peer group, educational trips to Israel for Jewish young adults ages 18 to 26. Over 40,000 young adults from all over the world have been to Israel on a birthright israel trip!">
 <meta name="keywords" content="Jewish, Jew, community, tour, summer, program, Israel, trips, free, teen, gift, birthrightisrael, birthright israel, travel, free trip, Bronfman, Steinhardt, touring, 10 day, young, leadership, zionist, youth, Jewish girls, Jewish guys, Jewish singles, singles, single girls, single guys, Jewish dating, online personals">
 
-<script language="JavaScript">
-<!--
-function MM_findObj(n, d) { //v4.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
-}
+<!-- birthrightisrael basic script. -->
+<script type="text/javascript" language="JavaScript" src="../Static/Include/birthrightisraelUtils.js"></script>
 
-function MM_showHideLayers() { //v3.0
-  var i,p,v,obj,args=MM_showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//enValidation Constructor function
-function enValidationConstructor()
-{
-var isDate=function (sDate,sFormat,bConvert){
-		if(!sDate)return false;
-		//default format
-		if(!sFormat)sFormat=enValidation.DATEFORMAT;
-		sFormat=sFormat.toUpperCase();
-
-		var aDaysInMonth=new Array(31,28,31,30,31,30,31,31,30,31,30,31);
-		// Fetch the date separator from the user's input
-		var sSepDate=sDate.charAt(sDate.search(/\D/));
-		// Fetch the date separator from the format
-		var sSepFormat=sFormat.charAt(sFormat.search(/[^MDY]/i));
-		// Compare separators
-		if (sSepDate!=sSepFormat)return false;
-
-		// Fetch the three pieces of the date from the user's input and the format
-		var aValueMDY=sDate.split(sSepDate,3);
-		var aFormatMDY=sFormat.split(sSepFormat,3);
-		
-		var dayPos,monthPos,yearPos,yearLen;
-		//search format
-		for(var i=0;i<3;i++){
-			if(aFormatMDY[i].indexOf("D")!=-1)dayPos=i;
-			if(aFormatMDY[i].indexOf("M")!=-1)monthPos=i;
-			if(aFormatMDY[i].indexOf("Y")!=-1)yearPos=i;
-		}
-		yearLen=aFormatMDY[yearPos].length;
-		
-		// Assign day, month, year based on format
-		var iMonth,iDay,iYear;
-		iMonth = aValueMDY[monthPos];
-		iDay   = aValueMDY[dayPos];
-		iYear  = aValueMDY[yearPos];
-
-		// Validate that all pieces of the date are numbers
-		if (  !isNum( iMonth )
-			||!isNum( iDay   )
-			||!isNum( iYear  ) )return false;
-
-		// Require year digits
-		if(yearLen!=2 && yearLen!=4)yearLen=4;
-		if(iYear.length!=yearLen && iYear.length!=4)return false;
-
-		// Check for leap year
-		var iDaysInMonth=(iMonth!=2)?aDaysInMonth[iMonth-1]:
-			((iYear%4==0 && iYear%100!=0 || iYear % 400==0)?29:28);
-		if (iDay!=null && iMonth!=null && iYear!=null
-				&& iMonth<13 && iMonth>0 && iDay>0 && iDay<=iDaysInMonth){
-			if(bConvert){
-				return new Date(iYear,iMonth-1,iDay);
-			}else return true;
-		}else return false;
-	}
-}
-
-//enUtils construstor function
-function enUtilsConstrustor()
-{
-
-	//is parame set
-	var isSet=function(prm){
-		var und;
-		return(prm!=und && prm!=null);
-	}
-	this.isSet=isSet;
-	
-	//is parame empty
-	var isEmpty=function(prm){
-		return(!isSet(prm) || prm=="");
-	}
-	this.isEmpty=isEmpty;
-	
-	//is numeric
-	var isNum=function (v){
-		if(isEmpty(v))return false;
-		return (v.toString() && !/\D/.test(v));
-	}
-	this.isNum=isNum;
-
-	//make sure param is not null or undefined
-	var ntz=function(prm,def){
-		if(!isSet(def))def="";
-		return(isEmpty(prm)?def:prm);
-	}
-	this.ntz=ntz;
-		
-	//get object by id
-	var objectOrGetId=function(oElement,type)
-	{
-		if(isEmpty(oElement))return null;
-		type=ntz(type);
-		if(typeof oElement!='object')
-		{
-			switch(type.toLowerCase())
-			{
-				//when we use names
-				case "img":
-					oElement=document.images[oElement];
-					break;		
-				case "form":
-					oElement=document.forms[oElement];
-					break;
-				case "id":
-				default:
-					oElement=document.getElementById(oElement);
-					break;				
-			}
-		}	
-		return oElement;
-	}
-	this.objectOrGetId=objectOrGetId;
-	
-	/*
-		toggle class name of an element
-		params:
-			elmnt - element refrence or id
-			restore - resore orig class (def false)
-			newClassName - class name to assign
-	*/
-	var elmntToggleClass=function (elmnt,restore,newClassName)
-	{
-		elmnt = objectOrGetId(elmnt);
-		if(isEmpty(elmnt))return;
-		if(!isSet(restore))restore=false;		
-
-		//switch (save last state first)
-		var last=elmnt.enLastClassName;
-		elmnt.enLastClassName=elmnt.className;
-		if(restore)
-		{
-			elmnt.className=(isEmpty(last)?"":last);
-		}
-		else elmnt.className=newClassName;	
-	}
-	//expose
-	this.elmntToggleClass=elmntToggleClass;
-	
-	/*
-		toggles element's display style - shows or hides the element
-		params:
-			elmnt - element refrence or id
-			show - optional show or hide flag (true (def) / false)
-			hiddenClassName - optional class name to hide element (def 'hiddenEl')
-	*/
-
-	var elmntShowHide=function (elmnt,show,hiddenClassName)
-	{
-		elmnt = objectOrGetId(elmnt);
-		if(isEmpty(elmnt))return;
-		if(!isSet(hiddenClassName))hiddenClassName="hiddenEl";
-		var currShown=(elmnt.className!=hiddenClassName);	
-		if(!isSet(show))show=(!currShown);		
-		if(show==currShown)return;
-		
-		elmntToggleClass(elmnt,show,hiddenClassName);
-	}
-	//expose
-	this.elmntShowHide=elmntShowHide;
-
-	/*
-		get the nth position of an expression
-		params:
-			text - text to search
-			expr - expression to find
-			n - nth position
-		returns - pos, or -1 if not found
-	*/
-	var getNthIndexOf=function(text,expr,n)
-	{
-		if(isEmpty(text)||isEmpty(expr)||!isNum(n))return -1;
-		var pos=0;
-		var len=expr.length;
-		for(var i=1;i<=n;i++)
-		{
-			pos=text.indexOf(expr,pos+len);
-			if(pos==-1)return -1;
-		}
-		return pos;
-	}
-	this.getNthIndexOf=getNthIndexOf;
-	
-	/*
-		get base url for Calendar from window location
-		for location of http://domain/site/file
-		returns http://domain/site/
-		params:
-			win - window to examine. optional. if ommited gets the current window
-	*/
-	var getBaseUrlForCalendar=function(win)
-	{
-		var url=isEmpty(win)?window.location.href:win.location.href;
-		var pos=getNthIndexOf(url,"/",4);
-		if(pos==-1)return "";
-		var newUrl = url.substring(0,pos+1);
-		var index = url.indexOf("/bin/");
-		if (index != -1)
-			newUrl = newUrl.substring(0,index+1);
-		return newUrl;
-	}
-	this.getBaseUrlForCalendar=getBaseUrlForCalendar;
-	
-	//get selected value of radio buttons group
-	var getRadioValue=function(r){
-		if(isEmpty(r))return null;
-		r=objectOrGetId(r);
-		//check if an array
-		var len=r.length;
-		if(len>0)
-		{
-			if(r[0].type!="radio")return null;
-			//loop through multiple options
-			for(var intLoop=0;intLoop<r.length;intLoop++)
-			{
-				if(r[intLoop].checked) return r[intLoop].value;
-			}
-		}
-		else 
-		{
-			if(r.type!="radio")return null;
-			if(r.checked)
-			{
-				return isSet(r.value) ? r.value : true;
-			}
-		}
-		return null;
-	}
-	this.getRadioValue=getRadioValue;
-
-}//end of construstor function
-
-//instanciate object
-if(!window.enUtils)window.enUtils=new enUtilsConstrustor();
-
-//enMsg construstor function
-function enMsgConstrustor()
-{
-	//get localized text
-	var get=function(key)
-	{
-		return msgs[key];
-	}
-	this.get=get;
-	
-	//messages repository
-	var msgs=
-	{
-		//enformiaRequired
-		"enRequired.confirtDelete" : "Are you sure you want to delete this item ?" ,
-		"enRequired.confirtDeleteItem" : "Are you sure you want to delete item '~1~' ?"
-	};
-}//end of construstor function
-
-//instanciate object
-if(!window.enMsg)window.enMsg=new enMsgConstrustor();
-
-//popup calendar
-function enformiaCalendarPopup(qstring){
-	var path=enUtils.getBaseUrlForCalendar()+"Static/Common/Calendar/calendar.htm";
-	if(qstring){
-		if(qstring.substring(0,1)!="?")qstring="?"+qstring;
-		path=path+qstring;
-	}
-	if(!this.openedCaledar || this.openedCaledar && this.openedCaledar.closed){
-		this.openedCaledar = window.open(path,null,
-			"width=275,height=180,resizable=0,status=0,menubar=0,scrollbars=0,fullscreen=0");
-	}else{
-		this.openedCaledar.location.href=path;
-	}
-	this.openedCaledar.focus();
-	return this.openedCaledar;
-}
-
-//prompt user to confirm delete
-function confirmDelete(URL,item,customMsg)
-{
-	var msg="";
-	if(item)
-		msg=enMsg.get("enRequired.confirtDeleteItem").replace("~1~",item);
-	else
-		msg=enMsg.get("enRequired.confirtDelete");
-	if(customMsg)
-		msg=customMsg;
-	
-	var ret=confirm(msg);
-	if(ret && URL)
-		location.href=URL;
-	else if(!URL)
-		return ret;
-}
-
-//repopulate date select list when month or year changes
-function enformiaPopulateDates(theYear,theMonth,theDay){
-	var e=theDay.options[0].value;
-	var selectedDay=theDay.options[theDay.selectedIndex].value;
-	//skip if not both month and year are non blanck
-	if(!theYear.options[theYear.selectedIndex].text ||
-		!theMonth.options[theMonth.selectedIndex].value)return;
-	//get no of days in month
-	var getDaydInMonth=function(y, m){
-		timeA = new Date(y, m, 1);
-		timeDifference = timeA - 86400000;
-		timeB = new Date(timeDifference);
-		return timeB.getDate();
-	}
-	var daysInMonth=getDaydInMonth(theYear.options[theYear.selectedIndex].text,
-		theMonth.options[theMonth.selectedIndex].value);
-	//empty all options
-	theDay.options.length=0;
-	//replace with new options
-	var j=0;
-	//first blank option - if was present
-	if(!e){
-		theDay.options[j] = new Option("","");
-		j++; 
-	}
-	if(!selectedDay)selectedDay=1;
-	if(selectedDay>daysInMonth)selectedDay=daysInMonth;
-	var k=1;
-    for (var i = j; i-j < daysInMonth; i++){
-     	theDay.options[i] = new Option(k,k);
-		if(k==selectedDay){
-			theDay.options[i].selected=true;
-			//theDay.options[i].defaultSelected=true;			
-		}
-		k++;
-    }
-}
-//-->
-</script>
 
 </head>
 <body bgcolor="#FFFFFF" text="#000000" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" link="#003366" vlink="#003366" onload="MM_preloadImages('../Static/Images/nav_about_on.gif','../Static/Images/nav_trip_on.gif','../Static/Images/nav_israel_on.gif','../Static/Images/nav_jewish_on.gif','../Static/Images/nav_interactive_on.gif','../Static/Images/nav_back_on.gif','../Static/Images/nav_avichai_on.gif')">
@@ -404,7 +46,7 @@ function enformiaPopulateDates(theYear,theMonth,theDay){
 	
 	
 		<tr> 
-	      <td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El1060&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip&amp;type=Profile" class="V11boldwhite">&nbsp;BRI in the News</a></td>
+	      <td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El1252&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip&amp;type=Profile" class="V11boldwhite">&nbsp;BRI in the News</a></td>
 	    </tr>
 	
     <tr> 
@@ -434,7 +76,7 @@ function enformiaPopulateDates(theYear,theMonth,theDay){
 	  <td rowspan="11" width="15" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" width="15" border="0" height="150" vspace="0" hspace="0"></a></td>
 </tr>
 <tr> 
-	<td width="162" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=AboutUs&amp;enZone=Trips&amp;enInfolet=TripsOptions.jsp&amp;&amp;channel=AboutUs" class="V11boldwhite">&nbsp;Trip Options</a></td>
+	<td width="162" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El696&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip&amp;type=Opinion" class="V11boldwhite">&nbsp;Trip Options</a></td>
 </tr>
 <tr> 
 	<td width="162" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El696&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip&amp;type=Opinion" class="V11boldwhite">&nbsp;Registration</a></td>
@@ -458,7 +100,7 @@ function enformiaPopulateDates(theYear,theMonth,theDay){
 	<td width="162" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=TheTrip&amp;enZone=Faqs&amp;&amp;channel=TheTrip" class="V11boldwhite">&nbsp;FAQs</a></td>
 </tr>
 <tr>  
-	<td width="162" valign="middle" bgcolor="#6589BA"><a href="javascript:;" onclick="window.open('http://www.birthrightisrael.com/bin/../WEBINF/Infolets/Include/Static/frame_video.jsp','israel','width=520,height=400,left=100,top=100')" class="V11boldwhite">&nbsp;BRI video</a></td>
+	<td width="162" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El305&amp;enZone=Features&amp;channel=TheTrip" class="V11boldwhite">&nbsp;Video/Audio/Shows</a></td>
 </tr>
 <tr>  
 	<td width="162" valign="middle" bgcolor="#6589BA" class="v1space">&nbsp;</td>
@@ -504,12 +146,12 @@ function enformiaPopulateDates(theYear,theMonth,theDay){
     </tr>
 
 <tr> 
-	<td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=WeeklyPortion%5El36&amp;enZone=WeeklyPortion&amp;enVersion=0&amp;&amp;channel=JewishLife" class="V11boldwhite">&nbsp;This week's<br>&nbsp;Torah Portion</a></td>
+	<td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=WeeklyPortion%5El7&amp;enZone=WeeklyPortion&amp;enVersion=0&amp;&amp;channel=JewishLife" class="V11boldwhite">&nbsp;This week's<br>&nbsp;Torah Portion</a></td>
 </tr>
 
 
 	<tr> 
-		<td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El382&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=JewishLife" class="V11boldwhite">&nbsp;This week's<br>&nbsp;Torah Commentary</a></td>
+		<td width="142" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El112&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=JewishLife" class="V11boldwhite">&nbsp;This week's<br>&nbsp;Torah Commentary</a></td>
 	</tr>
 
     <tr> 
@@ -594,7 +236,7 @@ function enformiaPopulateDates(theYear,theMonth,theDay){
         Back</a></td>
     </tr>
     <tr> 
-      <td width="144" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El533&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip&amp;type=Profile" class="V11boldwhite">&nbsp;Contest Winners</a></td>
+      <td width="144" valign="middle" bgcolor="#6589BA"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Features%5El1070&amp;enZone=Features&amp;enVersion=0&amp;&amp;channel=TheTrip&amp;type=Profile" class="V11boldwhite">&nbsp;Contest Winners</a></td>
     </tr>
      <tr> 
       <td width="144" valign="middle" bgcolor="#6589BA"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enDispWho=Events&amp;enZone=Events&amp;" class="V11boldwhite">&nbsp;Events Calendar</a></td>
@@ -611,12 +253,11 @@ function enformiaPopulateDates(theYear,theMonth,theDay){
   </tbody></table>
   <a href="javascript:;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../static/images/transparent.gif" border="0" height="10" width="160" vspace="0" hspace="0" align="top"></a></div>
 <!--END OF LAYER 6-->
-<table border="0" width="770" cellspacing="0" cellpadding="0" align="top">
+<table width="770" border="0" cellspacing="0" cellpadding="0">
 <!--NAVIGATION TABLE-->
 
-	<tbody><tr> 
-		<td colspan="3" height="92">
-		<a href="en.jsp?enPage=HomePage" onmouseover="MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide')"><img src="../Static/Images/logo_home.gif" width="338" height="94" border="0"></a><img src="../Static/Images/divider_home.gif" width="2" height="94"><a href="en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=AboutUs&amp;" onmouseover="MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide');MM_showHideLayers('Layer6','','hide')"><img src="../Static/Images/slogan_home.gif" width="430" height="94" border="0"></a></td>
+	<tbody><tr> 	
+	<td colspan="3" height="92"><a href="en.jsp?enPage=HomePage" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../Static/Images/logo_home.gif" width="338" height="94" border="0"></a><img src="../Static/Images/divider_home.gif" width="2" height="94"><a href="%en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=AboutUs&amp;" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../Static/Images/slogan_home.gif" width="430" height="94" border="0" vspace="0" hspace="0"></a></td>
 	</tr>
 
 <tr>
@@ -626,8 +267,7 @@ function enformiaPopulateDates(theYear,theMonth,theDay){
 			<td background="../Static/Images/pixel_blue.jpg" height="4"><img src="../Static/Images/transparent.gif" width="770" height="4" vspace="0" hspace="0" border="0"></td>
 		</tr>
 		<tr bgcolor="afc2dc">
-			<td align="center" height="21">
-			<a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=HomePage" onmouseover="MM_showHideLayers('Layer1','','hide');MM_swapImage('homepage','','../Static/Images/nav_home_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../Static/Images/nav_home.gif" width="32" height="21" vspace="0" border="0" hspace="0" name="homepage" alt="Return to the BRI homepage."></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image1" onmouseover="MM_showHideLayers('Layer1','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=AboutUs" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image01','','../Static/Images/nav_about_on.gif',1);MM_showHideLayers('Layer1','','show');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide')"><img src="../Static/Images/nav_about.gif" width="56" height="21" vspace="0" border="0" hspace="0" name="Image01"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image1" onmouseover="MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=TheTrip" onmouseout="MM_swapImgRestore();MM_showHideLayers('Layer1','','hide')" onmouseover="MM_swapImage('Image21','','../Static/Images/nav_trip_on.gif',1);MM_showHideLayers('Layer2','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide');MM_showHideLayers('Layer6','','hide')"><img src="../Static/Images/nav_trip.gif" width="49" height="21" vspace="0" border="0" hspace="0" name="Image21"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image3" onmouseover="MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=InsideIsrael" onmouseover="MM_swapImage('Image51','','../Static/Images/nav_israel_on.gif',1);MM_showHideLayers('Layer3','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide');MM_showHideLayers('Layer6','','hide')" onmouseout="MM_swapImgRestore()"><img src="../Static/Images/nav_israel.gif" width="80" height="21" border="0" name="Image51"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image0" onmouseover="MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=JewishLife" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','../Static/Images/nav_jewish_on.gif',1);MM_showHideLayers('Layer4','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer5','','hide');MM_showHideLayers('Layer6','','hide')"><img src="../Static/Images/nav_jewish.gif" width="69" height="21" vspace="0" border="0" hspace="0" name="Image11"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" name="Image2" onmouseover="MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer5','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=Interactive" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image31','','../Static/Images/nav_interactive_on.gif',1);MM_showHideLayers('Layer5','','show');MM_showHideLayers('Layer1','','hide');MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide');MM_showHideLayers('Layer4','','hide');MM_showHideLayers('Layer6','','hide');"><img src="../Static/Images/nav_interactive.gif" width="72" height="21" vspace="0" border="0" hspace="0" name="Image31"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" border="0" name="Image5" onmouseover="MM_showHideLayers('Layer5','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enDisplay=view&amp;enDispWho=AlumnCentral&amp;enDispWhat=Zone&amp;enZone=AlumnCentral&amp;enPage=BlankPage&amp;" onmouseout="MM_swapImgRestore()" onmouseover="MM_showHideLayers('Layer6','','show');MM_showHideLayers('Layer5','','hide');MM_swapImage('Image4','','../Static/Images/nav_alumni_on.gif',1)"><img src="../Static/Images/nav_alumni.gif" width="99" height="21" name="Image4" border="0" alt=""></a><img src="../Static/Images/nav_dot.gif" width="21" height="21"><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enDisplay=view&amp;enZone=Books&amp;enPage=BookPage&amp;enInfolet=MainBook.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','../Static/Images/avichailink_on.gif',1)"><img src="../Static/Images/avichailink.gif" width="116" height="21" name="Image6" border="0" alt="The AVI CHAI Foundation offers all North American and Australian birthright israel participants a gift of free books and periodicals."></a></td>
+		  <td align="center" height="21"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=HomePage" onmouseover="MM_swapImage('homepage','','../Static/Images/nav_home_on.gif',1)" onmouseout="MM_swapImgRestore()"><img src="../Static/Images/nav_home.gif" width="32" height="21" vspace="0" border="0" hspace="0" name="homepage" alt="Return to the BRI homepage."></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" onmouseover="MM_showHideLayers('Layer1','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=AboutUs" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','../Static/Images/nav_about_on.gif',1);MM_showHideLayers('Layer1','','show','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../Static/Images/nav_about.gif" width="56" height="21" vspace="0" border="0" hspace="0" name="about"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=TheTrip" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('trip','','../Static/Images/nav_trip_on.gif',1);MM_showHideLayers('Layer1','','hide','Layer2','','show','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../Static/Images/nav_trip.gif" width="49" height="21" vspace="0" border="0" hspace="0" name="trip"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" onmouseover="MM_showHideLayers('Layer2','','hide');MM_showHideLayers('Layer3','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=InsideIsrael" onmouseover="MM_swapImage('israel','','../Static/Images/nav_israel_on.gif',1);MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','show','Layer4','','hide','Layer5','','hide','Layer6','','hide')" onmouseout="MM_swapImgRestore()"><img src="../Static/Images/nav_israel.gif" width="80" height="21" border="0" name="israel"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" onmouseover="MM_showHideLayers('Layer3','','hide','Layer4','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=JewishLife" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('jewish','','../Static/Images/nav_jewish_on.gif',1);MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','show','Layer5','','hide','Layer6','','hide')"><img src="../Static/Images/nav_jewish.gif" width="69" height="21" vspace="0" border="0" hspace="0" name="jewish"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" vspace="0" border="0" hspace="0" onmouseover="MM_showHideLayers('Layer4','','hide','Layer5','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enPage=BlankPage&amp;enDisplay=view&amp;enDispWhat=Zone&amp;enZone=Interactive" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('interactive','','../Static/Images/nav_interactive_on.gif',1);MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','show','Layer6','','hide')"><img src="../Static/Images/nav_interactive.gif" width="72" height="21" vspace="0" border="0" hspace="0" name="interactive"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21" border="0" onmouseover="MM_showHideLayers('Layer5','','hide','Layer6','','hide')"><a href="http://www.birthrightisrael.com/bin/en.jsp?enDisplay=view&amp;enDispWho=AlumnCentral&amp;enDispWhat=Zone&amp;enZone=AlumnCentral&amp;enPage=BlankPage&amp;" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('alumni','','../Static/Images/nav_alumni_on.gif',1);MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','show')"><img src="../Static/Images/nav_alumni.gif" width="99" height="21" name="alumni" border="0" vspace="0" hspace="0"></a><img src="../Static/Images/nav_dot.gif" width="21" height="21"><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enDisplay=view&amp;enZone=Books&amp;enPage=BookPage&amp;enInfolet=MainBook.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('avichai','','../Static/Images/avichailink_on.gif',1);MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')"><img src="../Static/Images/avichailink.gif" width="116" height="21" name="avichai" border="0" alt="The AVI CHAI Foundation offers all North American and Australian birthright israel participants a gift of free books and periodicals." vspace="0" hspace="0"></a></td>
 		</tr>
 		<tr>
 			<td height="2" width="770"><img src="../Static/Images/transparent.gif" width="1" height="2" vspace="0" hspace="0" border="0"></td>
@@ -640,8 +280,7 @@ function enformiaPopulateDates(theYear,theMonth,theDay){
 </tr>
 </tbody></table>
 
-
-<table border="0" width="770" cellspacing="0" cellpadding="0">
+<table border="0" width="770" cellspacing="0" cellpadding="0" onmouseover="MM_showHideLayers('Layer1','','hide','Layer2','','hide','Layer3','','hide','Layer4','','hide','Layer5','','hide','Layer6','','hide')">
 <tbody><tr>
 	<td width="770">
 	
@@ -792,10 +431,10 @@ function enformiaPopulateDates(theYear,theMonth,theDay){
 				<table border="0" cellpadding="0" cellspacing="0">
 				<tbody><tr>
 				
-					<td><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El137&amp;enZone=SpiritualQ"><img src="http://www.birthrightisrael.com/Static/Binaries/Avichai/newbook0907_1.jpg" width="71" height="50" align="left" hspace="1" border="1" vspace="0"></a></td>
-					<td><img src="../Static/Images/transparent.gif" width="6" height="50" hspace="0" border="0" align="left" vspace="0"><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El137&amp;enZone=SpiritualQ" class="V11darkgreenbold">Teshuvah</a><br>
-					<span class="V10black">A spiritually rewarding path toward increased religious consciousness and observance</span><br>
-					<a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El137&amp;enZone=SpiritualQ" class="V10darkgreenbold">Read more &gt;&gt;</a>
+					<td><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El167&amp;enZone=ShabHol"><img src="http://www.birthrightisrael.com/Static/Binaries/Avichai/167_1_1.jpg" width="71" height="50" align="left" hspace="1" border="1" vspace="0"></a></td>
+					<td><img src="../Static/Images/transparent.gif" width="6" height="50" hspace="0" border="0" align="left" vspace="0"><a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El167&amp;enZone=ShabHol" class="V11darkgreenbold">A Different Night</a><br>
+					<span class="V10black">An experimental Haggadah designed to lead an interactive and intellectually stimulating Seder.</span><br>
+					<a href="http://avichai.birthrightisrael.com/bin/en.jsp?enPage=BookPage&amp;enDisplay=view&amp;enDispWhat=object&amp;enDispWho=Books%5El167&amp;enZone=ShabHol" class="V10darkgreenbold">Read more &gt;&gt;</a>
 					
 					</td>
 					</tr>
