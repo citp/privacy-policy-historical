@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamate.com privacy policy that was archived on 2004-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040411222508id_/http%3A//www.streamate.com/docs.php%3Fdoc%3Dprivacy%26sakey%3Dad23d6a975f90444) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamate.com privacy policy that was archived on 2004-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040812143009id_/http%3A//streamate.com/docs.php%3Fdoc%3Dprivacy%26) for the most accurate reproduction.*
 
 # Streamate - Privacy Policy
 
@@ -93,6 +93,6 @@ The address for correspondence by post is
 ---|---|---  
   
   
-[Support](https://web.archive.org/web/20040411222508id_/http%3A//www.streamate.com/docs.php?doc=support&sakey=ad23d6a975f90444) | [Become a Model](http://broadcaster.streamate.com/?sakey=ad23d6a975f90444) | [Affiliate Program](http://wm.mtree.com/webmasters/) | [Terms & Conditions](https://web.archive.org/web/20040411222508id_/http%3A//www.streamate.com/docs.php?doc=tandc&sakey=ad23d6a975f90444) | [Privacy Policy](https://web.archive.org/web/20040411222508id_/http%3A//www.streamate.com/docs.php?doc=privacy&sakey=ad23d6a975f90444) | [Custodian of Records](https://web.archive.org/web/20040411222508id_/http%3A//www.streamate.com/docs.php?doc=usc18&sakey=ad23d6a975f90444)  
+[Support](https://web.archive.org/web/20040812143009id_/http%3A//streamate.com/docs.php?doc=support&) | [Become a Model](http://broadcaster.streamate.com/?) | [Affiliate Program](http://wm.mtree.com/webmasters/) | [Terms & Conditions](https://web.archive.org/web/20040812143009id_/http%3A//streamate.com/docs.php?doc=tandc&) | [Privacy Policy](https://web.archive.org/web/20040812143009id_/http%3A//streamate.com/docs.php?doc=privacy&) | [2257/Custodian of Records](https://web.archive.org/web/20040812143009id_/http%3A//streamate.com/docs.php?doc=usc18&)  
   
 © 2003-2004 Streamates Limited. All rights reserved.
