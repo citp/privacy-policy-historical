@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019050025id_/http%3A//www.prowrestling.com/other/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prowrestling.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604020007id_/http%3A//www.prowrestling.com/other/privacy.shtml) for the most accurate reproduction.*
 
 # ProWrestling.com > Other > Privacy Policy
 
@@ -6,7 +6,11 @@
 **ProWrestling.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site, [**ProWrestling.com**](http://www.prowrestling.com/). Prowrestling.com is a web site for General Audiences, including adolescent, teen's or adults and no content will ever disclose any information or picture that is not appropriate for ALL audiences. However, our content is based around professional wrestling, and they sometimes create television angles that may not be appropriate for all audiences. Prowrestling.com will do its best to filter out this content at all time, rendering this site appropriate for ALL audiences. We urge you to beware of Chat rooms, Forums and/or any other device that allows fans to post their own comment because ProWrestling.com has no means of filtering out content of that nature. 
 
 **_Advertisers_**   
-We use an outside ad company to display ads on our site. To find out more information about L90, view their full privacy statement by [clicking here](http://www.l90.com/corporate/privacy_policy/index.html). 
+_Third Party Advertising_  
+We use DoubleClick and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+_Third Party Cookies_  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 **_External Links_**   
 This site contains links to other sites. ProWrestling.com is not responsible for the privacy practices or the content of such Web sites. 
