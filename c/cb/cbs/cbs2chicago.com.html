@@ -1,924 +1,158 @@
-<!--The following is the downloaded HTML source of the cbs2chicago.com privacy policy that was archived on 2001-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217165359id_/http%3A//cbs2chicago.com/now/story/0%2C1597%2C53940-225%2C00.shtml) for the most accurate reproduction.-->
-
-<html><head>
- 
-<title>CBS.com--CBS.com Privacy Statement</title>
-
-<script language="JavaScript">
-<!--
-if (document.layers)
-{
-	document.write('<link rel=stylesheet type="text/css" href="/common/css/main_nn.css">')
-}
-// -->
-</script>
-
-<script language="JavaScript">
-<!--
-if (document.all)
-{
-	document.write('<link rel=stylesheet type="text/css" href="/common/css/main_ie.css">')
-}
-
-function gothereNow(selectElement)
-{
-var theLocation = selectElement.options[selectElement.selectedIndex].value;
-if(theLocation)
-{
-parent.location.replace(theLocation);
-}
-else
-{
-return false;
-}
-}
-
-function no_externals()
-{
-	if( confirm("The function you have requested is notnsupported by your browser.nnTo see a further explanation of the problem,nas well as instructions on how to downloadna more up-to-date browser, simply click [OK]."))
-		self.location.href =  "story_112201.html";
-}
-
-function PopUp(url,w,h) {
-var dim = eval('"width=' + w + ',height=' + h + '"');
-Npop = window.open(url,"pop",dim);
-}
-
-// -->
-</script>
-
-<script language="JavaScript" src="/common/js/vlaunch_flat.js">
-<!--
-vlaunch = no_externals;
-// -->
-</script>
-<script language="JavaScript">
-
-
-function generateOrd() {
-// returns time in milliseconds
-var now = new Date();
-	return now.getTime();
-}
-
-function getAdCode (p_Type) {
-var affiliateCode =  'wbbm';
-if (affiliateCode == 'cbs') {
-	affiliateCode = 'network';
-}
-
-switch (p_Type) {
-    
-	case 'network':
-		return 'network.now.com/' + affiliateCode + ';';
-
-	case 'affiliate':
-		return affiliateCode + '.now.com/' + affiliateCode + ';';
-
-	case 'cbs':
-		return 'network.now.com/network;';
-
-	case 'CBS':
-		return 'network.now.com/network;';
-
-	case 'split':
-		if (generateOrd() % 2 == 1) {
-			return getAdCode ('network');
-		} else {
-			return getAdCode ('affiliate');
-		}
-	default:
-		return getAdCode ('affiliate');
-	}
-}
-
-function getAdTag (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// a href tag
-adText =			"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0></A>"
-
-return adText;
-}
-
-
-function rightrail(p_Width, p_Height, p_Tile, p_AdType) {
- var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-	      
-		  adText =			"<NOLAYER><IFRAME src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " marginwidth=0 marginheight=0 "
-adText = adText	+	"hspace=0 vspace=0 frameborder=0 scrolling=no ALIGN=\"top\">"
-
-// a href tag
-adText = adText +	"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0>"
-adText = adText	+	"</A><BR></IFRAME></NOLAYER>"
-
-// ilayer tag
-
-
-return adText;
-}
-
-function rightrailclose(p_Width, p_Height, p_Tile, p_AdType) {		
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// layer tag
-adText =			"<LAYER src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " visibility=hidden "
-adText = adText	+	"onload=\"moveToAbsolute((rightRail.pageX), (rightRail.pageY)); "
- 
-adText = adText	+	"clip.width=" + p_Width + "; clip.height=" + p_Height
-adText = adText	+	"; visibility='show';\"></LAYER>"
-
-return adText;
-}
-
-function getEnhancedAd (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// iframe tag
-adText =			"<NOLAYER><IFRAME src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " marginwidth=0 marginheight=0 "
-adText = adText	+	"hspace=0 vspace=0 frameborder=0 scrolling=no ALIGN=\"top\">"
-
-// a href tag
-adText = adText +	"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0>"
-adText = adText	+	"</A><BR></IFRAME></NOLAYER>"
-
-// ilayer tag
-adText = adText	+	"<ILAYER id=topbanner visibility=hidden width=" + htmlSize + "></ILAYER>"
-
-return adText;
-}
-
-function getEnhancedLayer (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// layer tag
-adText =			"<LAYER src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " visibility=hidden "
-adText = adText	+	"onload=\"moveToAbsolute((topbanner.pageX), (topbanner.pageY)); "
-adText = adText	+	"clip.width=" + p_Width + "; clip.height=" + p_Height
-adText = adText	+	"; visibility='show';\"></LAYER>"
-
-return adText;
-}
-
-// ** end of AD TAG procedures **********
-
-
-
-//-->
-
-</script></head>
-
-
-<body bgcolor="#FFFFFF" text="#000000" link="#000099" alink="#CC0000" vlink="#660000" leftmargin="4" topmargin="4">
-
-<!-- Vignette StoryServer 4 Tue Dec 04 01:55:58 2001 -->
-<!-- BEGIN TOP BAR -->
-
-
-<script language="JavaScript">
-<!--
-if (navigator.appName=='Microsoft Internet Explorer' && !document.all)
-	{
-        document.write('<link rel=stylesheet type="text/css" href="/common/css/sec_35.css">')
-	}
-// -->
-</script>
-<script language="JavaScript">
-
-
-function generateOrd() {
-// returns time in milliseconds
-var now = new Date();
-	return now.getTime();
-}
-
-function getAdCode (p_Type) {
-var affiliateCode =  'wbbm';
-if (affiliateCode == 'cbs') {
-	affiliateCode = 'network';
-}
-
-switch (p_Type) {
-    
-	case 'network':
-		return 'network.now.com/' + affiliateCode + ';';
-
-	case 'affiliate':
-		return affiliateCode + '.now.com/' + affiliateCode + ';';
-
-	case 'cbs':
-		return 'network.now.com/network;';
-
-	case 'CBS':
-		return 'network.now.com/network;';
-
-	case 'split':
-		if (generateOrd() % 2 == 1) {
-			return getAdCode ('network');
-		} else {
-			return getAdCode ('affiliate');
-		}
-	default:
-		return getAdCode ('affiliate');
-	}
-}
-
-function getAdTag (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// a href tag
-adText =			"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0></A>"
-
-return adText;
-}
-
-
-function rightrail(p_Width, p_Height, p_Tile, p_AdType) {
- var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-	      
-		  adText =			"<NOLAYER><IFRAME src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " marginwidth=0 marginheight=0 "
-adText = adText	+	"hspace=0 vspace=0 frameborder=0 scrolling=no ALIGN=\"top\">"
-
-// a href tag
-adText = adText +	"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0>"
-adText = adText	+	"</A><BR></IFRAME></NOLAYER>"
-
-// ilayer tag
-
-
-return adText;
-}
-
-function rightrailclose(p_Width, p_Height, p_Tile, p_AdType) {		
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// layer tag
-adText =			"<LAYER src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " visibility=hidden "
-adText = adText	+	"onload=\"moveToAbsolute((rightRail.pageX), (rightRail.pageY)); "
- 
-adText = adText	+	"clip.width=" + p_Width + "; clip.height=" + p_Height
-adText = adText	+	"; visibility='show';\"></LAYER>"
-
-return adText;
-}
-
-function getEnhancedAd (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// iframe tag
-adText =			"<NOLAYER><IFRAME src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " marginwidth=0 marginheight=0 "
-adText = adText	+	"hspace=0 vspace=0 frameborder=0 scrolling=no ALIGN=\"top\">"
-
-// a href tag
-adText = adText +	"<A HREF=\"http://ad.doubleclick.net/jump/"
-adText = adText	+	adCode + tile + section + size + ordNumber + "\">"
-
-// image tag
-adText = adText	+	"<IMG src=\"http://ad.doubleclick.net/ad/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	"align=\"top\" " + htmlSize + " border=0>"
-adText = adText	+	"</A><BR></IFRAME></NOLAYER>"
-
-// ilayer tag
-adText = adText	+	"<ILAYER id=topbanner visibility=hidden width=" + htmlSize + "></ILAYER>"
-
-return adText;
-}
-
-function getEnhancedLayer (p_Width, p_Height, p_Tile, p_AdType) {
-
-var adText;
-var adCode = getAdCode(p_AdType);
-var size = 'sz=' + p_Width + 'x' + p_Height + ';';
-var tile = 'tile=' + p_Tile + ';';
-var htmlSize = 'width=' + p_Width + ' height=' + p_Height;
-
-// layer tag
-adText =			"<LAYER src=\"http://ad.doubleclick.net/adi/" 
-adText = adText	+	adCode + tile + section + size + ordNumber + "\" "
-adText = adText	+	htmlSize + " visibility=hidden "
-adText = adText	+	"onload=\"moveToAbsolute((topbanner.pageX), (topbanner.pageY)); "
-adText = adText	+	"clip.width=" + p_Width + "; clip.height=" + p_Height
-adText = adText	+	"; visibility='show';\"></LAYER>"
-
-return adText;
-}
-
-// ** end of AD TAG procedures **********
-
-
-
-//-->
-
-</script><table cellspacing="0" cellpadding="0" border="0" bgcolor="#CCCCCC" width="610">
-<tbody><tr>
-  <td rowspan="3" width="120" valign="top" bgcolor="#CCCCCC" nowrap=""><a href="/now/section/0,1636,100-225,00.shtml" target="_top"><img src="http://a1800.g.akamai.net/7/1800/121/1003158730/newsimages.cbsig.net/common/images/logos/logo_WBBM_boom.gif" width="120" height="64" hspace="0" vspace="0" border="0" alt="HOME"></a><br>
-  </td>
-  <td width="340" bgcolor="#000000" colspan="2" height="14">
-    <table width="340" cellspacing="0" cellpadding="0" border="0" height="14">
-    <tbody><tr>
-      <td width="160"><img src="http://a1800.g.akamai.net/f/1800/121/1h/newsimages.cbsig.net/common/images/elements/date_CDT.gif" width="153" height="11" hspace="0" vspace="1" border="0"><br></td>
-      <td width="180"><img src="http://a1800.g.akamai.net/7/1800/121/917997706/newsimages.cbsig.net/common/images/cities/city_WBBM.gif" width="180" height="11" hspace="0" vspace="1" border="0"><br></td>
-    </tr>
-	</tbody></table>
-  </td>
-  <td rowspan="3" width="150" valign="top">
-   <script language="javascript">
- var section = 'sec=' + 10340 +';';
- var ordNumber = 'ord=' + generateOrd() + '?';
-
-var affiliate1 = 'WBBM';
-document.write(getAdTag(150,64,1,'split'));
-</script><a href="http://ad.doubleclick.net/jump/wbbm.now.com/wbbm;tile=1;sec=10340;sz=150x64;ord=1580379308370?"><img src="http://ad.doubleclick.net/ad/wbbm.now.com/wbbm;tile=1;sec=10340;sz=150x64;ord=1580379308370?" align="top" width="150" height="64" border="0"></a>
-  </td>
-</tr>
-<tr>
-  <form name="formy" method="post" action="/topnav/go/1,1715,,00.html"></form>
-  <input type="hidden" name="affiliateID" value="225">
-  <td valign="top" align="center" nowrap="" height="49">
-    <table cellspacing="0" cellpadding="0" border="0">
-    <tbody><tr>
-	  <td nowrap="" height="4" colspan="3"></td>
-    </tr>
-	    <tr>
-      <td rowspan="3" valign="top" width="11"><img src="http://a1800.g.akamai.net/7/1800/121/918654803/newsimages.cbsig.net/common/images/elements/curv_forms_l.gif" width="11" height="26" hspace="0" vspace="0" border="0"><br></td>
-      <td height="1" bgcolor="#666666"><table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td>
-      <td rowspan="3" valign="top" width="26"><input type="Image" src="http://a1800.g.akamai.net/7/1800/121/918654802/newsimages.cbsig.net/common/images/elements/curv_forms_go.gif" border="0" width="26" height="26" vspace="0" hspace="0" alt="go" class="form"><br></td>
-    </tr>
-    <tr>
-      <td bgcolor="#ffffff" align="center" height="16" nowrap=""><font face="arial, helvetica" size="2" color="#000000" class="toptext"><b>navigate</b></font></td>
-    </tr>
-    <tr>
-      <td valign="top" height="24">
-<select name="goWhere" onchange="gothereNow(this)">
-
-<option value="/now/section/0,1636,10340-225,00.shtml">HELP</option>
-<option></option>
-
-
-	
+<!--The following is the downloaded HTML source of the cbs2chicago.com privacy policy that was archived on 2002-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604050937id_/http%3A//www.cbs2chicago.com/site_content.asp%3FPAGE%3D396) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+	<title>CBS 2 Chicago : Privacy Policy</title>
+	<link rel="stylesheet" href="/include/main.css" type="text/css">
+	<script src="/include/mouseover.js"></script>
+	<meta name="DESCRIPTION" content="Privacy Policy   (CBS)  (Updated 07/03/01) We take your electronic privacy seriously. Questions regarding this statement or our practices should be di ...">
 		
-			<option value="/now/eframeset/1,1616,225,00.html?URL=%2Fsitemap%2F0%2C1585%2C225%2C00%2Ehtml">SITE MAP</option>
-		 
-	
-		
-			<option value="/now/eframeset/1,1616,225,00.html?URL=%2Fnow%2Ffeedback%2F0%2C1611%2C225%2C00%2Ehtml">FEEDBACK</option>
-		 
-	
-		
-			<option value="/now/eframeset/1,1616,225,00.html?URL=%2Fnow%2Fchange%5Fcity">CHANGE CITY</option>
-		 
-	
-<option value="/now/section/0,1636,100-225,00.shtml">HOME</option>
-	<option></option>
+</head>
 
+<body background="/img/bg.jpg" leftmargin="0" topmargin="0" marginheight="0" marginwidth="0" link="#333399" vlink="#CC6600" alink="#CC6600">
 
-	
-<option value="/now/section/0,1636,9006-225,00.shtml">CBS 2 NEWS</option>
-	
-	
-<option value="/now/section/0,1636,9007-225,00.shtml">PROBLEM SOLVERS</option>
-	
-	
-<option value="/now/section/0,1636,200-225,00.shtml">NATIONAL NEWS</option>
-	
-	
-		
-<option vaule="http://www.cbs.com">CBS SHOWS</option>
-		 
-	
-<option value="/now/section/0,1636,10250-225,00.shtml">DR. BREEN</option>
-	
-	
-<option value="/now/section/0,1636,9005-225,00.shtml">2 FOR LIFE</option>
-	
-	
-<option value="/now/section/0,1636,301-225,00.shtml">WEATHER</option>
-	
-	
-<option value="/now/section/0,1636,400-225,00.shtml">SPORTS</option>
-	
-	
-		
-			<option value="/now/eframeset/1,1616,225,00.html?URL=http%3A%2F%2Fwbbm%2Etitantv%2Ecom">ON AIR</option>
-		 
-	
-		
-<option vaule="http://cbs.marketwatch.com">MONEY</option>
-		 
-	
-<option value="/now/section/0,1636,204-225,00.shtml">HEALTH</option>
-	
-	
-		
-<option vaule="http://store.cbs.com/">SHOPPING</option>
-		 
-	
-<option value="/now/section/0,1636,10260-225,00.shtml">CONTACT CBS2</option>
-	
-	
-<option value="/now/story/0,1597,196947-225,00.shtml">JOB OPENINGS</option>
-	</select>
-	  </td>
-    </tr>
-    </tbody></table>
-  </td>
+<!-- BEGIN MASTHEAD -->
+	<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="141"><a href="/home.asp"><img src="/img/logo.jpg" width="141" height="67" alt="CBS2 Chicago" border="0"></a></td><td valign="TOP" width="371"><img src="/img/banners/works/works-banner.jpg" width="371" height="67" alt="Works For You" border="0"></td><form action="/search/search.asp" method="get"></form><td valign="TOP" bgcolor="#660000" width="90%"><a href="http://wbbm.titantv.com/apg/apg_grid.asp" target="new"><img src="/img/l_tvschedule.gif" width="117" height="22" alt="TV Schedule" border="0"></a><br><label for="Search CBS 2"><img src="/img/t_search.gif" width="117" height="18" alt="Search CBS 2" border="0"><br>&nbsp;&nbsp;&nbsp;<input type="Text" name="qu" value="Site Search" size="15" onfocus="javascript: void 0; this.value=''; return false;"></label>&nbsp;<input type="hidden" name="ct" value="cbs2" size="15">&nbsp;<input type="Submit" value="GO" class="sbttn"></td></tr><tr><td valign="top" width="141"><a href="/home.asp"><img src="/img/workforyou.jpg" width="141" height="51" alt="Works For You" border="0"></a></td><td valign="TOP" background="/img/bg_ps.gif" width="371"><img src="/img/problemsolvers.jpg" width="371" height="39" alt="Need A Problem Solved? Problem Solver Complaint Form" border="0" usemap="#solvers"></td><td valign="top" background="/img/bg_ps.gif"><img src="/img/problemsolversb.jpg" width="158" height="39" alt="Call our Problem Solvers (312)951-1570" border="0"></td></tr></tbody></table>
   
+  
+<map name="solvers">
+  <area shape="rect" coords="7,21,199,34" href="/works/solvers_form.asp" alt="Need A Problem Solved? Problem Solver Complaint Form">
+</map> 
+<!-- END MASTHEAD -->
 
-<form name="keyword" method="get" action="/now/shortcuts/1,1608,225,00.shtml" target="_top"></form>
-    <td valign="top" align="center">
-<table cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-	<td nowrap="" height="4" colspan="3"></td>
-</tr>
-<tr>
-    <td rowspan="3" valign="top" width="11"><img src="http://a1800.g.akamai.net/7/1800/121/918654803/newsimages.cbsig.net/common/images/elements/curv_forms_l.gif" width="11" height="26" hspace="0" vspace="0" border="0"><br></td>
-        <td height="1" bgcolor="#666666"><table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td>
-    <td rowspan="3" valign="top" width="26"><input type="Image" src="/common/images/elements/curv_forms_go.gif" border="0" width="26" height="26" vspace="0" hspace="0" alt="go" class="form"><br><a href="/now/shortcuts/help/0,1607,225,00.shtml" target="_top"><img src="http://a1800.g.akamai.net/7/1800/121/918654843/newsimages.cbsig.net/common/images/elements/question.gif" width="13" height="13" hspace="4" vspace="2" border="0" alt="View Our Shortcut List"></a><br></td>
-</tr>
-<tr>
-        <td bgcolor="#ffffff" align="center" height="16" nowrap=""><font face="arial, helvetica" size="2" color="#000000" class="toptext"><b>shortcut</b></font></td>
-</tr>
-<tr>
-    <td valign="top" height="24">
-<input type="text" size="11" maxlength="64" name="p_key" class="form"><br>
-	</td>
-</tr>
-</tbody></table>
-	</td>
+<!-- BEGIN MAIN TABLE -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top" width="141">
 
-</tr>
-
-<tr>
-	<td colspan="2" height="1" bgcolor="#000000">
-		<table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table>
-	</td>
-</tr>
-</tbody></table><table width="610" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-    <td width="108" valign="top" nowrap="">
-<!-- Vignette StoryServer 4 Tue Dec 04 01:55:58 2001 -->
- <table width="108" cellspacing="0" cellpadding="0" border="0" bgcolor="#CCCCCC">
-				<tbody><tr>
-					<td colspan="3">
-					<table width="108" cellspacing="0" cellpadding="0" border="0">
-        			<tbody><tr>
-               			<td colspan="3" width="108"><a href="/now/section/0,1636,100-225,00.shtml"><img src="http://a1800.g.akamai.net/7/1800/121/918654840/newsimages.cbsig.net/common/images/elements/home_curve.gif" width="108" height="23" hspace="0" vspace="0" border="0" alt="HOME"></a><br>
-						</td>
-					</tr>
-				
-				</tbody></table>
-
-
-	 
-		 <!-- nav_level = 1 curr_level = -1 -->
-					<!-- begin open_level 1 -->
-        			</td></tr><tr>
-					<td colspan="3" width="108" bgcolor="#000000" height="14" align="center" nowrap=""><font face="arial, helvetica" size="1" color="#ffffff" class="navhead">&nbsp; U T I L I T I E S &nbsp;</font><br></td>
-					</tr>
-					<tr>
-				<td colspan="3" class="bgon" bgcolor="#999999">
-				<!-- close open_level 1 -->
-			 <div class="dl1on"><a href="/now/section/0,1636,10340-225,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;<b>HELP</b></font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 1 -->
-			<!-- begin open_level 2 -->
-   			</td></tr>
-			<tr>
-        		<td rowspan="3" width="6" nowrap="" bgcolor="#999999"><div class="nbsp">&nbsp;</div></td>
-	   			<td colspan="2" bgcolor="#000000" width="101" height="1">
-					<table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table>
-				</td>
-			</tr>
-			<tr>
-	    		<td width="1" bgcolor="#000000"><div class="nbsp"><br></div></td>
-        		<td width="101">
-    		<table width="101" cellspacing="0" cellpadding="0" border="0">
-			<tbody><tr>
-			<td colspan="3" width="101" bgcolor="#CCCCCC">
-			<!-- close open_level 2 -->
-			 <div class="dl2off"><a href="/now/story/0,1597,31133-225,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Browsers</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31142-225,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Cookies</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31147-225,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Plug-ins</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31163-225,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Start Page</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,31165-225,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Multimedia</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,41194-225,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Shortcuts</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/section/0,1636,10345-225,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Copyright</font></a></div>
-	 
-	 <!-- nav_level = 2 curr_level = 2 --> <div class="dl2off"><a href="/now/story/0,1597,53940-225,00.shtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;Privacy Statement</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 2 -->
-				</td>
-			    </tr>
-				</tbody></table>
-				</td>
-				</tr>
-				<tr>
-			    <td colspan="2" bgcolor="#000000" height="1">
-				<table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table>
-				</td>
-			    </tr>
-				<tr>
-	        <td colspan="3" width="101" bgcolor="#999999">
-			 <div class="dl1off"><a href="/now/eframeset/1,1616,225,00.html?URL=%2Fsitemap%2F0%2C1585%2C225%2C00%2Ehtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;SITE MAP</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/eframeset/1,1616,225,00.html?URL=%2Fnow%2Ffeedback%2F0%2C1611%2C225%2C00%2Ehtml"><font size="1" color="000000" face="arial, helvetica"> &nbsp;FEEDBACK</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/eframeset/1,1616,225,00.html?URL=%2Fnow%2Fchange%5Fcity"><font size="1" color="000000" face="arial, helvetica"> &nbsp;CHANGE CITY</font></a></div>
-	 
-	 
-		 <!-- nav_level = 1 curr_level = -1 -->
-				</td>
-			    </tr>
-			
-					<!-- begin open_level 1 -->
-        			<tr>
-					<td colspan="3" width="108" bgcolor="#000000" height="14" align="center" nowrap=""><font face="arial, helvetica" size="1" color="#ffffff" class="navhead">&nbsp; N A V I G A T E &nbsp;</font><br></td>
-					</tr>
-					<tr>
-				<td colspan="3" class="bgon" bgcolor="#000066">
-				<!-- close open_level 1 -->
-			 <div class="dl1off"><a href="/now/section/0,1636,9006-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;CBS 2 NEWS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,9007-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;PROBLEM SOLVERS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,200-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;NATIONAL NEWS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://www.cbs.com"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;CBS SHOWS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,10250-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;DR. BREEN</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,9005-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;2 FOR LIFE</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,301-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;WEATHER</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,400-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;SPORTS</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/eframeset/1,1616,225,00.html?URL=http%3A%2F%2Fwbbm%2Etitantv%2Ecom"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;ON AIR</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://cbs.marketwatch.com"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;MONEY</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,204-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;HEALTH</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="http://store.cbs.com/"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;SHOPPING</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/section/0,1636,10260-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;CONTACT CBS2</font></a></div>
-	 
-	 <!-- nav_level = 1 curr_level = 1 --> <div class="dl1off"><a href="/now/story/0,1597,196947-225,00.shtml"><font size="1" color="FFFFFF" face="arial, helvetica"> &nbsp;JOB OPENINGS</font></a></div>
-	 </td></tr><tr><td colspan="3" height="11">
-<img src="http://a1800.g.akamai.net/7/1800/121/918654841/newsimages.cbsig.net/common/images/elements/nav_cap.gif" width="108" height="11" hspace="0" vspace="0" border="0"><br>
-</td></tr>
-</tbody></table>
-
-<br><br><center>
-</center> </td>
-	<td width="502" valign="top" nowrap="">
-
-	<table width="502" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-    	<td rowspan="3" width="6" nowrap=""></td>
-    	<td nowrap="" height="6"></td>
-	</tr>
-	<tr>
-    	<td width="468" height="60">
-		 <script language="javascript">
-var affiliate1 = 'WBBM';
-var section = 'sec=' + 10340 +';';
- var ordNumber = 'ord=' + generateOrd() + '?';
-document.write(getEnhancedAd(468,60,2,'split'));
- 
-</script><nolayer><iframe src="http://ad.doubleclick.net/adi/network.now.com/wbbm;tile=2;sec=10340;sz=468x60;ord=1580379308399?" width="468" height="60" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no" align="top"><A HREF="http://ad.doubleclick.net/jump/network.now.com/wbbm;tile=2;sec=10340;sz=468x60;ord=1580379308399?"><IMG src="http://ad.doubleclick.net/ad/network.now.com/wbbm;tile=2;sec=10340;sz=468x60;ord=1580379308399?" align="top" width=468 height=60 border=0></A><BR></iframe></nolayer><ilayer id="topbanner" visibility="hidden" width="width=468" height="60"></ilayer>
-		</td>
-	</tr>
-	<tr>
-    	<td nowrap="" height="6"></td>
-	</tr>
-	</tbody></table>
-<!-- Vignette StoryServer 4 Tue Dec 04 01:56:01 2001 -->
- <table width="502" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr>
-        <td rowspan="2" width="6" nowrap=""> </td>
-    <td bgcolor="#CCCCCC" width="441" height="19" nowrap="">
-	       <nobr>&nbsp;&nbsp;
-
-
-	<a href="/now/section/0,1636,10340-225,00.shtml"><b><font face="Arial" size="3" color="#000066" class="link">HELP</font></b></a> </nobr>
-        </td>
-        <td width="55" bgcolor="#CCCCCC" valign="top" align="right">
-        <img src="http://a1800.g.akamai.net/7/1800/121/918654799/newsimages.cbsig.net/common/images/elements/cbs_CCCCCC.gif" width="55" height="19" hspace="0" vspace="0" border="0" alt="CBS"><br>
-        </td>
-</tr>
-<tr>
-    <td colspan="2" height="1" bgcolor="#000000"><table width="1" height="1" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td></td></tr></tbody></table></td>
-</tr>
-</tbody></table><table width="502" cellspacing="0" cellpadding="0" border="0" align="left">
-<tbody><tr>
-    <td width="6" nowrap="">&nbsp;</td>
-    <td width="370" valign="top">
-
-<table cellpadding="0" cellspacing="0" border="0" width="370">
-<tbody><tr>
-<td nowrap="" height="10"> </td>
-</tr>
-<tr>
-<td align="left" valign="top"><font size="5" face="arial, helvetica" color="#333333"><b>CBS.com Privacy Statement</b></font></td>
-</tr>
-<tr>
-<td nowrap="" height="5"> </td>
-</tr>
-
-<tr>
-<td><ul><font color="#333333" face="Times New Roman" size="3">
-	<i>
-		 </i>
-	</font>
-</ul></td>
- 
-</tr>
-
-<tr>
-<td nowrap="" height="10"> </td>
-</tr>
-<tr>
- 
-<td align="left"><font size="1" font="" face="arial,helvetica"><b></b>
-<br>Tuesday, July 03, 2001 - 05:02 PM ET</font></td>
-</tr>
-<tr>
-<td nowrap="" height="5"> </td>
-</tr>
-<tr>
-<td valign="top">
-<font size="2" face="verdana, arial, helvetica"><b>(CBS)</b>&nbsp;<i>(Updated 07/03/01)</i><br>We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the cbs.com Privacy Coordinator by email at <a href="mailto:privacy@cbs.com">privacy@cbs.com</a>. You may also send inquiries by mail to: 
-<br>
-<br><b>Privacy Coordinator
-<br>CBS.com (555/13)
-<br>524 West 57th Street
-<br>New York, New York 10019</b>
-<br>
-<br>We reserve the right to change our policy from time to time as we deem appropriate in our sole discretion.
-<br> 
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>KINDS OF INFORMATION</b></font>
-<br>
-<br>There are two kinds of information web sites can obtain about you:
-<br>
-<br><b>Aggregate Information</b>: Aggregate Information is anonymous data that web sites use to diagnose problems on the sites’ servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address. 
-<br>
-<br><b>Personally Identifiable Information</b>: Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online or subscribe to an email newsletter. Other times, web sites collect this information to help target advertising and marketing. 
-<br>
-<br>We collect Aggregate Information – such as your IP address (a number that’s automatically assigned to your computer whenever you’re surfing the Internet), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. We share Aggregate Information with third parties for advertising and promotional purposes.  None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>COOKIES</b></font>
-<br>
-<br>We use <a href="/now/story/0,1597,31142-225,00.shtml">cookies</a> to remember your zip code so that you can maintain a customized view of CBS.com showing your city’s CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, chat rooms and contests to limit multiple responses and registrations. 
-<br>
-<br>We will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. We do not use information transferred through cookies for any promotional or marketing purposes.
-<br>
-<br>You may occasionally get cookies from our advertisers and our vendors. We do not control these cookies, and these cookies are not subject to our privacy policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry.
-<br>
-<br>Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the polls, surveys, contest, and game areas, will not function properly if you do so. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SURVEYS AND REGISTRATION FORMS</b></font> 
-<br>
-<br>Sometimes CBS.com posts surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information: 
-<br><ul>
-<br><li type="1">To send you information about CBS and this Web site</li>
-<br><li type="1">To give to our content partners, who may send you promotional material</li>
-<br><li type="1">To give to our advertisers, who may send you information about their products and services</li></ul>
-<br>The choice is yours – you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates.
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CONTESTS AND SWEEPSTAKES</b></font>
-<br>
-<br>From time to time we run contests and sweepstakes in which we ask for Personally Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect: 
-<br><ul>
-<br><li type="1">To notify you if you are a winner</li>
-<br><li type="1">To send you information about CBS and our site</li>
-<br><li type="1">To give to content partners, who may send you promotional email</li>
-<br><li type="1">To give to advertisers, who may send you emails about their products and services</li></ul>
-<br>We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates.
-<br>
-<br>If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the Site unless you give us your permission. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>OPT OUT</b></font>
-<br>
-<br>If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don’t want us to share the information or if you don’t want to receive promotional and/or marketing information about products, services, and offerings from CBS.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SUBPOENAS AND LAW ENFORCEMENT AGENCIES</b></font>
-<br>
-<br>We reserve the right to cooperate with government and law enforcement agencies engaged in investigations of activities that are, or are believed to be, illegal.  Further, we may share your Personally Identifiable Information with such agencies if we believe that a crime or any act that endangers the health and safety of others may have been or may be committed.  We may also share your Personally Identifiable Information in response to an appropriate subpoena. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>COMMUNITY AND PUBLIC AREAS</b></font>
-<br>
-<br>Information posted to message boards or chat areas is available to the general public.  Please use caution when posting any such information.  Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. We reserve the right to, but are not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. Please see our Terms of Service for additional information.
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>FEEDBACK AND EMAIL</b></font>
-<br>
-<br>On every page at CBS.com there is a link to a <a href="javascript:openWin();">"feedback"</a> email form so you can comment, complaint, make suggestions, and ask questions.  Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way.  We may also track your browser type and referring URL to better diagnose technical issues you may be having.  We do not share this information with third parties and we will use it only to answer your correspondence.
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CBS-TV AFFILIATES</b></font>
-<br> 
-<br>CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be “branded” to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. 
-<br>
-<br>Some of our affiliates provide their own content, such as local news stories. This content may be mixed with the content we produce. And some affiliates sell ads or run contests that will appear on their branded sites only.
-<br>
-<br>We are not responsible for content or contests posted by our affiliates or for the use of any information that an affiliate may collect.
-<br>
-<br>We use reasonable efforts to require that all content on our site conforms to our privacy policy. But we do not control, and we are not responsible for, the content or privacy policies of our affiliates. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>LINKS TO OTHER SITES</b></font>
-<br>
-<br>When you visit our site, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave our site. This includes links to sites operated by advertisers, sponsors and partners that may use our logo as part of an agreement with us. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to our privacy policy and we are not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect. 
-<br> 
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>CBS STORE</b></font>
-<br>
-<br>The CBS Store uses a third-party fulfillment house to accept orders for CBS products purchased online. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders or for billing questions when necessary. However, neither CBS nor the fulfillment house shares this information with third parties. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>DELETING OR MODIFYING YOUR INFORMATION</b></font>
-<br>
-<br>If you've given us personally identifiable information in the past and then have second thoughts or want to update it, here are your choices:
-<br>
-<br>Email to <a href="mailto:privacy@cbs.com">privacy@cbs.com</a>.
-<br>
-<br>Regular mail to:
-<br>
-<br><b>Privacy Coordinator
-<br>CBS.com (555/13)
-<br>524 West 57th Street
-<br>New York, New York 10019</b>
-<br>
-<br>Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above and we've already passed it on, we cannot delete or change the information. 
-<br>
-<br><font face="arial,helvetica,sans-serif" size="3" color="#336699"><b>SECURITY OF PRIVATE INFORMATION</b></font>
-<br>
-<br>Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at <a href="/now/section/0,1636,100-225,00.shtml">CBS.com</a>, to protect your information from theft, misuse and alteration.
-<br>
- </font></td></tr><tr><td nowrap="" height="10"> </td></tr><tr><td><font face="arial,helvetica" size="-2"></font></td></tr><tr><td height="10"></td></tr>
-
-
-</tbody></table>
-
- <!-- BEGIN FOOTER OBJECT -->
-
-<br>
-	<table width="370" cellspacing="0" cellpadding="0" border="0">
-		<tbody><tr>
-			<td nowrap="" width="15" bgcolor="#999999" rowspan="2" height="15"><a href="#top"><img width="9" src="http://a1800.g.akamai.net/7/1800/121/918654794/newsimages.cbsig.net/common/images/elements/arrow_top.gif" height="7" hspace="3" border="0"></a></td>
-			<td valign="top" width="355" height="14" nowrap="">
-			<a href="#top" style="TEXT-DECORATION: none"><font color="#000000" face="arial, verdana, helvetica" size="2">&nbsp;back to top</font></a>
-			<br>
-			</td>
-		</tr>
-		<tr>
-			<td bgcolor="#cccccc" height="1">
-				<table width="355" cellspacing="0" cellpadding="0" border="0" height="2">
-					<tbody><tr>
-						<td>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" bgcolor="#000000" height="1">
-				<table width="370" cellspacing="0" cellpadding="0" border="0" height="1">
-					<tbody><tr>
-						<td>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" align="middle">
-				<br>
-				<a href="/now/section/0,1636,100-225,00.shtml" target="_top"><img width="83" src="http://a1800.g.akamai.net/7/1800/121/925508327/newsimages.cbsig.net/common/images/elements/footer_logo.gif" alt="CBS.com" height="70" hspace="0" border="0"></a><br>
-				<font face="arial,helvetica" size="1">
-				
-					© 2001, CBS Worldwide Inc. , All Rights Reserved.  </font><br>
-				<font face="arial,helvetica" size="1">
-				<a href="/now/story/0,1597,284172-225,00.shtml" target="_top">Advertise With Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-				<a href="/now/section/0,1636,10345-225,00.shtml" target="_top">Copyright Information</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="/now/story/0,1597,53940-225,00.shtml" target="_top">Privacy Statement</a> </font>
-				<br>
-				<br>
-			</td>
-		</tr>
-		 </tbody></table>
-<!-- END FOOTER OBJECT --> </td>
-    <td width="6" nowrap="">&nbsp;</td>
-    <td width="120" valign="top" align="center" bgcolor="#dddddd">
-
- </td>
-</tr>
-</tbody></table>
-
-</td>
-</tr>
-</tbody></table>
+<!-- BEGIN SIDE NAV -->
 	
+<a href="/home.asp" onmouseover="blnIsOver=true;change('home','/img/lo_home.gif');" onmouseout="change('home','/img/l_home.gif');"><img src="/img/l_home.gif" width="141" height="23" alt="Home" border="0" name="home"></a><br>
+
+<img src="/img/t_works.gif" width="141" height="14" alt="Works For You" border="0"><br>
+<font face="Verdana" size="-2" color="White">
+<!--&nbsp;<a href="/works/team.asp" id="l">Your CBS 2 Team</a><br>-->
+&nbsp;<a href="/works/team.asp" id="l">Your CBS 2 Team</a><br>
+<!--&nbsp;<a href="/works/feature.asp?type=solvers" id="l">Problem Solvers</a><br>-->
+&nbsp;<a href="/works/feature.asp?type=323003" id="l">Problem Solvers</a><br>
+&nbsp;<a href="/works/feature.asp?type=337003" id="l">Dr. Breen</a><br>
+&nbsp;<a href="/works/feature.asp?type=326003" id="l">2 For Life</a><br>
+&nbsp;<a href="/works/feature.asp?type=325003" id="l">2 For Education</a><br>
+&nbsp;<a href="/works/features.asp" id="l">CBS 2 Features</a><br>
+&nbsp;<a href="/works/calendar.asp" id="l">Community Calendar</a><br>
+<img src="/img/spacer.gif" width="1" height="6" alt="" border="0"><br>
+
+<img src="/img/t_news.gif" width="141" height="26" alt="News, Weather and Sports" border="0"><br>
+&nbsp;<a href="/news/local.asp" id="l">CBS 2 News</a><br>
+&nbsp;<a href="http://www.cbsnews.com" target="newwindow" id="l">National News</a><br>
+&nbsp;<a href="/news/weather.asp" id="l">Weather</a><br>
+&nbsp;<a href="http://www.emergencyclosings.com/ecc/" target="newwindow" id="l">School Closings</a><br>
+
+&nbsp;<a href="/works/feature.asp?type=346003" id="l">Sports</a><br>
+<img src="/img/spacer.gif" width="1" height="6" alt="" border="0"><br>
+
+<img src="/img/t_contact.gif" width="141" height="14" alt="Contact Us" border="0"><br>
+&nbsp;<a href="/contact/contact.asp" id="l">Contact Us</a><br>
+&nbsp;<a href="/admin/advertise.asp" id="l">Advertise with CBS 2</a><br>
+&nbsp;<a href="/site_content.asp?PAGE=393" id="l">Station Directory</a><br>
+<img src="/img/spacer.gif" width="1" height="6" alt="" border="0"><br>
+
+<img src="/img/t_about.gif" width="141" height="14" alt="About CBS 2" border="0">
+&nbsp;<a href="/site_content.asp?PAGE=394" id="l">About CBS 2</a><br>
+&nbsp;<a href="/about/careers.asp" id="l">CBS 2 Careers</a><br>
+&nbsp;<a href="/about/press.asp" id="l">Press Releases</a><br>
+&nbsp;<a href="/site_content.asp?PAGE=392" id="l">FAQ</a><br>
+<img src="/img/spacer.gif" width="1" height="6" alt="" border="0"><br>
+
+<img src="/img/t_partner.gif" width="141" height="14" alt="CBS Partner Sites" border="0">
+
+<form id="form1" name="form1">&nbsp;<select style="font-family: verdana,arial,helvetica; font-size : 8pt" onchange="javascript: if(!(this.selectedIndex==0)) {window.open(this.options[this.selectedIndex].value,'cbs2','HEIGHT=600,WIDTH=800,toolbar,location,resizable,scrollbars');}"><option value="">Choose a Site</option><option value="http://www.askthepros.com/CityPage.asp?State=IL&amp;City=Chicago">Ask the Pro</option><option value="http://cbs.marketwatch.com/news/default.asp?siteid=mktw">CBS Marketwatch</option><option value="http://store.cbs.com/">CBS Online</option><option value="http://store.cbs.com/">&nbsp;&nbsp;Store</option><option value="http://cbs.sportsline.com/">CBS SportsLine</option><option value="http://www.cbs.com/">CBS.com</option><option value="http://www.hollywood.com/">Hollywood.com</option><option value="http://home.iwon.com/index_gen.html">iWon</option><option value="http://www.emmyonline.org/CHICAGO/">NATAS</option><option value="http://nfl.com/">NFL.com</option><option value="http://www.cbs.com/primetime/survivor4/">Survivor</option></select></form>
+
+<div align="center">
+<a href="http://www.askthepros.com/CityPage.asp?State=IL&amp;City=Chicago" target="_blank"><img src="/img/banners/askthepros.gif" width="123" height="250" alt="Ask the Pros" border="0"></a><br><br>
+<a href="http://cbs2chicago.com/works/feature.asp?type=41094214"><img src="/files/tbl_s24SiteNavigation/Image1152/11/springshapuppromographic.jpg" alt="Promotional Ad" border="0"></a>
+<br><br>
+
+<br><br>
+
+</div>
 
 
+</font>
+
+<!-- ENDSIDE NAV -->
+
+</td><td width="10"><img src="/img/spacer.gif" width="10" height="5" alt="" border="0"></td><td valign="TOP" width="100%"><img src="/img/spacer.gif" width="519" height="1" alt="" border="0"><br>
+
+<!-- BEGIN BODY TABLE -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="9" valign="TOP" bgcolor="F8A800"><img src="/img/p_header.jpg" width="9" height="16" alt="Header Image" border="0"></td><td valign="top" bgcolor="F8A800" width="100%"><span class="header">PRIVACY POLICY</span></td></tr><tr><td width="100%" valign="TOP" colspan="2"><img src="/img/spacer.gif" width="9" height="9" alt="" border="0"></td></tr></tbody></table><table width="100%" border="0" cellspacing="0" cellpadding="9"><tbody><tr><td valign="TOP"><span class="body"><p><strong>(CBS)</strong> (Updated 07/03/01)<br>We take your electronic privacy seriously. Questions regarding this statement or our practices should be directed to the cbs.com Privacy Coordinator by email at <a href="mailto:privacy@cbs.com" target="newwindow">privacy@cbs.com</a>. You may also send inquiries by mail to: </p>
+<blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
+<p>Privacy Coordinator <br>CBS.com (555/13) <br>524 West 57th Street <br>New York, New York 10019 </p></blockquote>
+<p>We reserve the right to change our policy from time to time as we deem appropriate in our sole discretion. </p>
+<p><strong>KINDS OF INFORMATION</strong> </p>
+<p>There are two kinds of information web sites can obtain about you: </p>
+<p><strong>Aggregate Information:</strong> Aggregate Information is anonymous data that web sites use to diagnose problems on the sites’ servers, administer the sites, and to help improve the quality of the Web pages. It may be your domain name (i.e. "XYZ.com") or your IP address. </p>
+<p><strong>Personally Identifiable Information:</strong> Personally Identifiable Information is any information that personally identifies you. It can be your first and last name, your email address, your home address, or your telephone number. Sometimes this personal information is needed when you order products online or subscribe to an email newsletter. Other times, web sites collect this information to help target advertising and marketing. </p>
+<p>We collect Aggregate Information – such as your IP address (a number that’s automatically assigned to your computer whenever you’re surfing the Internet), browser type (e.g., Netscape or Internet Explorer), and domain (e.g., "XYZ.com"). We do this in the background so it does not interrupt your cruising speed. We use this information to help diagnose problems with our servers, to administer our site, and to gather broad demographic information. We share Aggregate Information with third parties for advertising and promotional purposes. None of this information is connected with Personally Identifiable Information. So, when you enter our site, you are anonymous and will remain that way unless you choose otherwise. </p>
+<p><strong>COOKIES </strong></p>
+<p>We use cookies to remember your zip code so that you can maintain a customized view of CBS.com showing your city’s CBS-TV affiliate Web site. We may also use cookies when we conduct polls, surveys, chat rooms and contests to limit multiple responses and registrations. </p>
+<p>We will never use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. We do not use information transferred through cookies for any promotional or marketing purposes. </p>
+<p>You may occasionally get cookies from our advertisers and our vendors. We do not control these cookies, and these cookies are not subject to our privacy policy. The use of advertising cookies sent by third-party servers is standard in the Internet industry. </p>
+<p>Most browsers are initially set to accept cookies. If you'd prefer, you can set yours to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of the site, such as the polls, surveys, contest, and game areas, will not function properly if you do so. </p>
+<p><strong>SURVEYS AND REGISTRATION FORMS</strong> </p>
+<p>Sometimes CBS.com posts surveys and registration forms in which we ask for Personally Identifiable Information. Here are some ways we might use that information: </p>
+<p>To send you information about CBS and this Web site </p>
+<p>To give to our content partners, who may send you promotional material </p>
+<p>To give to our advertisers, who may send you information about their products and services</p>
+<p>The choice is yours – you do not have to answer surveys or register for newsletters or service. If you choose to answer the survey or complete the registration, we will tell you on the survey or registration form how we will use the Personally Identifiable Information. If we are asking for optional information, we will mark it with an asterisk (*) so you know you can skip it if you want. And on that same page we will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. </p>
+<p><strong>CONTESTS AND SWEEPSTAKES</strong> </p>
+<p>From time to time we run contests and sweepstakes in which we ask for Personally Identifiable Information such as your name, email address or telephone number. That's so we can let you know if you win. Sometimes we request additional Personally Identifiable Information such as your age, gender, and income level. And once in a while - though not often - we require this additional information in exchange for allowing you to enter the contest. Here are some of the ways we might use the information that we collect: </p>
+<p>To notify you if you are a winner </p>
+<p>To send you information about CBS and our site </p>
+<p>To give to content partners, who may send you promotional email </p>
+<p>To give to advertisers, who may send you emails about their products and services</p>
+<p>We may share Aggregate Information with our partners and advertisers. We will not share your Personally Identifiable Information with third parties unless we tell you otherwise when asking for it. We will give you a way to "opt out" of being contacted by CBS.com and any third parties. We may share Personally Identifiable Information with CBS-TV affiliates and other sites operated by CBS and its affiliates. </p>
+<p>If you win one of our contests or sweepstakes, we will not publish your name, hometown, or other Personally Identifiable Information on the Site unless you give us your permission. </p>
+<p><strong>OPT OUT</strong> </p>
+<p>If we ask you for Personally Identifiable Information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don’t want us to share the information or if you don’t want to receive promotional and/or marketing information about products, services, and offerings from CBS.com and/or any third parties. Let us know and we will use your name and address only to tell you if you win a contest. </p>
+<p><strong>SUBPOENAS AND LAW ENFORCEMENT AGENCIES</strong> </p>
+<p>We reserve the right to cooperate with government and law enforcement agencies engaged in investigations of activities that are, or are believed to be, illegal. Further, we may share your Personally Identifiable Information with such agencies if we believe that a crime or any act that endangers the health and safety of others may have been or may be committed. We may also share your Personally Identifiable Information in response to an appropriate subpoena. </p>
+<p><strong>COMMUNITY AND PUBLIC AREAS</strong> </p>
+<p>Information posted to message boards or chat areas is available to the general public. Please use caution when posting any such information. Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. We reserve the right to, but are not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. Please see our Terms of Service for additional information. </p>
+<p><strong>FEEDBACK AND EMAIL</strong> </p>
+<p>On every page at CBS.com there is a link to a "feedback" email form so you can comment, complaint, make suggestions, and ask questions. Your email address is required on this form so we can answer your questions, and we want your name, too, so we can address our answer in a mannerly way. We may also track your browser type and referring URL to better diagnose technical issues you may be having. We do not share this information with third parties and we will use it only to answer your correspondence. </p>
+<p><strong>CBS-TV AFFILIATES</strong> </p>
+<p>CBS.com has a unique relationship with some of our CBS Television affiliates. If you are interested in local information, we will give you the option to choose a local affiliate or enter a zip code. We asked for this information so that your view of the site could be “branded” to your local CBS Television affiliate, or to any other CBS-Television affiliate you choose. You'll see their logo at the top of your screen. </p>
+<p>Some of our affiliates provide their own content, such as local news stories. This content may be mixed with the content we produce. And some affiliates sell ads or run contests that will appear on their branded sites only. </p>
+<p>We are not responsible for content or contests posted by our affiliates or for the use of any information that an affiliate may collect. </p>
+<p>We use reasonable efforts to require that all content on our site conforms to our privacy policy. But we do not control, and we are not responsible for, the content or privacy policies of our affiliates. </p>
+<p><strong>LINKS TO OTHER SITES</strong> </p>
+<p>When you visit our site, you may be directed to other sites outside our service. For example, if you click on a banner advertisement, you will leave our site. This includes links to sites operated by advertisers, sponsors and partners that may use our logo as part of an agreement with us. These other sites may send their own cookies to users, collect data, or solicit personal information. These other sites are not subject to our privacy policy and we are not responsible for the privacy policies for these other sites, nor for the use of any information that these sites may collect. </p>
+<p><strong>CBS STORE</strong> </p>
+<p>The CBS Store uses a third-party fulfillment house to accept orders for CBS products purchased online. Names, street addresses, and financial information are required to complete these orders, and may also be used to contact customers about their orders or for billing questions when necessary. However, neither CBS nor the fulfillment house shares this information with third parties. </p>
+<p><strong>DELETING OR MODIFYING YOUR INFORMATION</strong> </p>
+<p>If you've given us personally identifiable information in the past and then have second thoughts or want to update it, here are your choices: </p>
+<p>Email to <a href="mailto:privacy@cbs.com" target="newwindow">privacy@cbs.com</a>. </p>
+<p>Regular mail to: </p>
+<blockquote dir="ltr" style="MARGIN-RIGHT: 0px">
+<p>Privacy Coordinator <br>CBS.com (555/13) <br>524 West 57th Street <br>New York, New York 10019 </p></blockquote>
+<p>Although it is not always possible to remove or modify information in the databases, we will make reasonable efforts to do so. If you've given us information for one of those third parties we mentioned above and we've already passed it on, we cannot delete or change the information. </p>
+<p><strong>SECURITY OF PRIVATE INFORMATION</strong> </p>
+<p>Any personal information you give us is kept in secure files. Access is limited to the few employees who have a need to know. We would like to tell you that your information is as safe with us as it is in your head, but, as hackers have proved worldwide, no computer security system is entirely foolproof. The most any Web site can do is make reasonable efforts, which is what we do at CBS.com, to protect your information from theft, misuse and alteration.</p><br><br></span></td></tr></tbody></table>
+<!-- END BODY TABLE -->
+</td></tr></tbody></table>
+<!-- END MAIN TABLE -->
 
 
-<script language="javascript">
-var affiliate1 = 'WBBM';
-document.write(getEnhancedLayer(468,60,2,'split'));
- 
-</script><layer src="http://ad.doubleclick.net/adi/wbbm.now.com/wbbm;tile=2;sec=10340;sz=468x60;ord=1580379308399?" width="468" height="60" visibility="hidden" onload="moveToAbsolute((topbanner.pageX), (topbanner.pageY)); clip.width=468; clip.height=60; visibility='show';"></layer>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td width="151"><img src="/img/spacer.gif" width="151" height="1" alt="" border="0"></td><td valign="TOP" background="/img/dots.gif"><img src="/img/spacer.gif" width="1" height="1" alt="" border="0"></td></tr>
+
+<tr><td width="151"><img src="/img/spacer.gif" width="151" height="1" alt="" border="0"></td><td valign="top" width="90%"><font size="-2" face="verdana" color="666666"><br><br><a href="/site_content.asp?PAGE=395">Disclaimer</a> | <a href="/site_content.asp?PAGE=396">Privacy Policy</a> | <a href="/site_content.asp?PAGE=397">Site Map</a> | <a href="/admin/advertise.asp">Advertise with CBS 2</a></font></td></tr></tbody></table>
+<br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="TOP" background="/img/dots.gif" colspan="2"><img src="/img/spacer.gif" width="1" height="1" alt="" border="0"></td></tr>
+
+<tr><td valign="MIDDLE" bgcolor="Black"><font size="-2" face="verdana" color="ffffff">
+© MMII CBS Worldwide Inc. All Right Reserved</font></td><td align="RIGHT" bgcolor="Black">
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><font size="-2" face="verdana" color="ffffff">Website by <a href="http://www.hubbardone.com" target="new" id="wht">Hubbard One</a>.  Powered by&nbsp;</font></td><td width="15"><a href="http://www.hubbardone.com" target="new" id="wht"><img src="/img/h4logo.gif" width="15" height="15" alt="" border="0" vspace="3"></a></td><td><font size="-2" face="verdana" color="ffffff">&nbsp;<a href="http://www.hubbardone.com" target="new" id="wht">software</a>.&nbsp;</font></td></tr></tbody></table></td></tr></tbody></table>
+
 
 
 </body></html>
