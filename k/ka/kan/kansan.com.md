@@ -1,18 +1,11 @@
-> *The following text is extracted and transformed from the kansan.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607055409id_/http%3A//www.kansan.com/account/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kansan.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305041143id_/http%3A//www.kansan.com/privacy) for the most accurate reproduction.*
 
-# Kansan.com - Privacy Policy
-
-[ Kansan.com](https://web.archive.org/web/20040607055409id_/http%3A//www.kansan.com/default.aspx) > Privacy Policy | Monday, June 07, 2004  
----|---  
-  
-## Kansan.com Privacy Policy
+# Privacy Policy | Kansan.com
 
 Kansan.com is committed to providing the best online campus experience within a trusted environment. Privacy and safety issues are important to us.
 
-**PRIVACY POLICY**
-
 **Question regarding our policies**  
-Questions regarding our policies should be directed to our web editor by e-mail at webeditor@kansan.com, or by phone at (785) 864-4810, or by postal mail at: Kansan.com ATTN: Privacy Policy Coordinator 119 Stauffer-Flint Hall, Lawrence, KS 66045.
+Questions regarding our policies should be directed to our web editor by e-mail at [webeditor@kansan.com](mailto:webeditor@kansan.com), or by phone at (785) 864-4810, or by postal mail at: Kansan.com ATTN: Privacy Policy Coordinator 119 Stauffer-Flint Hall, Lawrence, KS 66045.
 
 **The Internet, Privacy, and Kansan.com**  
 The Internet contains a wealth of information; unfortunately, it may also contain personal details about you that you don't want everyone to know. For example, your real name (lots of people on the Internet use aliases, alter egos or nicknames), street address, phone number, or e-mail addresses. When you go online, sites you visit may be gathering information about you without your knowledge. At Kansan.com we strive to help our customers protect their privacy while using our services.
@@ -65,4 +58,8 @@ The importance of security for all personally identifiable information associate
 **Your Acceptance of These Terms**  
 By using this site, you signify your assent to the Kansan.com Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of the Kansan.com sites following the posting of changes to these terms will mean you accept those changes.
 
-**Last Updated 8/27/2003**
+Last Updated 8/27/2003
+
+###### Advertisement
+
+###### Advertisement
