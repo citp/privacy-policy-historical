@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fox19.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413091838id_/http%3A//www.fox19.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fox19.com privacy policy that was archived on 2001-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010816125503id_/http%3A//fox19.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Station’s Privacy Policy
 
