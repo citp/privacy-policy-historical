@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402105058id_/http%3A//www.consumerinput.com/privacy.csp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumerinput.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204073042id_/http%3A//www.consumerinput.com/privacy.csp) for the most accurate reproduction.*
 
 # Consumer Input
 
   
 
+
+Effective date: February 1, 2004
 
 Protecting your privacy is our highest priority. Consumer Input is designed to be an anonymous research forum. As such, we go to great lengths to ensure that your anonymity will remain intact. Our data collection techniques have been designed to purge personally identifiable information from our databases.
 
