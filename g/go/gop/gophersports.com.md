@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gophersports.com privacy policy that was archived on 2003-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031231022955id_/http%3A//www.privacy.umn.edu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gophersports.com privacy policy that was archived on 2004-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040623083014id_/http%3A//www.privacy.umn.edu) for the most accurate reproduction.*
 
 # Online Privacy at the University of Minnesota
 
