@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the builtinnyc.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204191459id_/http%3A//www.builtinnewyork.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtinnyc.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307173612id_/http%3A//builtinnewyork.com/privacy.html) for the most accurate reproduction.*
 
 # Built in New York™ Architecture, Design, Construction and Real Estate Community - NY, NYC
 
 **Privacy Statement**
 
-**[Return to Built in New York Home](https://web.archive.org/web/20041204191459id_/http%3A//www.builtinnewyork.com/index.html)**
+**[Return to Built in New York Home](https://web.archive.org/web/20050307173612id_/http%3A//builtinnewyork.com/index.html)**
 
   
 
