@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momcentral.com privacy policy that was archived on 2003-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031209133416id_/http%3A//www.momcentral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momcentral.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610193849id_/http%3A//www.momcentral.com/privacy.html) for the most accurate reproduction.*
 
 # Mom Central | Privacy Policy
 
