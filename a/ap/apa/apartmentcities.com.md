@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentcities.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622071604id_/http%3A//apartmentcities.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentcities.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205015931id_/http%3A//apartmentcities.com/privacy.asp) for the most accurate reproduction.*
 
 # Apartments for Rent - PRIVACY POLICY by ApartmentCities.com
 
