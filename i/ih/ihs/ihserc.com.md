@@ -1,52 +1,36 @@
-> *The following text is extracted and transformed from the ihserc.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621132613id_/http%3A//www.ihserc.com/engineering/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihserc.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403165505id_/http%3A//www.ihserc.com/about-ihs/privacy.html) for the most accurate reproduction.*
 
-# IHS Privacy Statement
+# Privacy Statement for IHS
 
-#### Privacy Statement for IHS
+| 
 
-Your right to privacy and to protect your personal information is important to IHS. We recognize that when you provide us with information about yourself, you trust us to act in a responsible manner. 
+### Privacy Statement for IHS Inc.  
+  
 
-The following discloses our information gathering and usage practices for www.ihs.com, www.ihsengineering.com, www.ihsgroup.com, global.ihs.com, and www.techsavvy.com. This site contains links to other Web sites, but IHS is not responsible for the privacy practices of other Web sites or companies.
 
-#### How IHS Gets And Uses Your Information
+Your right to privacy and to protect your personal information is important to IHS. We recognize that when you provide us with information about yourself, you trust us to act in a responsible manner.
 
-Orders - IHS requires users to provide contact, billing, and shipping information when they place an order. Financial information (like credit card number and expiration date) is required for online purchases. Sales representatives may collect additional information when orders are processed offline. All this information is necessary to fill your order and contact you if there is a problem. Customer information is also used to announce new products, provide support, and maintain relationships.
+__
 
-**Registrations And Free Trials** \- Some Web pages may require or request registration information (like name and e-mail address). This information is used to manage usage, announce changes to the online resources, and provide news related to the resources you are registered to use.
+The following discloses our information gathering and usage practices for www.ihs.com and associated websites. This site contains links to other Web sites, but IHS is not responsible for the privacy practices of other Web sites or companies.
 
-**E-Newsletters** \- To keep you up to date with the product changes and news offerings, IHS provides many announcement services, including e-mail newsletters. E-newsletters are managed by a subscription model and require you to provide minimal contact information (like name and e-mail address). Your subscription information is used to send out announcements on a regular basis. You may unsubscribe at any time.
+**General Principals.**   IHS Inc. ("IHS" or "we") respect our customers’ wishes with regard to the collection, use and transfer of certain personal information. Personal information as we use it here refers to certain data about an identified or identifiable individual, such as set forth in the European Community Directive on Data Protection (the "EU Directive"). Proper use of personal information is of a high priority to our company, particularly as we are in the data gathering business. We self-certify our policies to the U.S. Department of Commerce Safe Harbor Program (see <http://www.export.gov/safeharbor/>). IHS is committed to protecting its users’ personal information in accordance with the privacy principles set forth in the Safe Harbor Program, as well as other applicable laws and regulations. This Privacy Policy is additionally incorporated into and is a part of the Terms and Conditions of Use of IHS online use and/or online access of products and services.
 
-**Surveys And Feedback Forms** \- At times, IHS requests voluntary information to measure effectiveness in serving customers. Your information is used in aggregate to help us make decisions about the services we provide. The information is also used for follow-up responses and to provide news on the subject areas related to the surveys and forms.
+**Types of Data Collection.**   IHS operates globally, with offices and operations in over 100 countries. While our primary data centers are in the United States, we will transfer certain information provided by customers to the appropriate office, agent or consultant in order to deliver the products and services requested by our clients. In addition to collecting information via telephone calls, electronic mail and voicemail, IHS may collect, process, use and transfer personally identifiable information directly from its users when the user voluntarily enters information during the registration process. Additionally, use of the various IHS websites may also result in data being collected, processed and transferred. This information may be received by IHS as part of the standard electronic greeting between your computer, the network, and our servers and typically consists of network routing information, equipment (browser) information, date and time. IHS also collects website usage data using third-party code from WebSideStory. Data collected by WebSideStory is used only by IHS and is not shared with, nor is it accessible to, other companies except as stated herein. At this time our server will also query your computer to see if there are "cookies" previously set by IHS to facilitate the log in process. Some IHS websites use cookies to collect information about visitors’ use of its website and to enhance the type of website procedures used by IHS. Cookies collected may include the following information: a unique identifier, user preferences and profile information used to personalize the content shown to the individual users. You may be able to set your web browser to alert you when a cookie is being used, and may use your browser to accept or reject the cookie; additionally, you may also disable the cookie feature on your browser entirely.
 
-####  How You Can Manage Your Information
+**Types of Data Collected and How We Use It.**   In the paragraph above, we described how we collect certain information, including personal information. The types of personally identifiable information which IHS may collect are primarily used for business contact information. This information may include your e-mail address, internet domain, IP address, full name, title, company affiliation, address, and work phone numbers. IHS currently uses the information for the purposes of providing its users with information or products requested by the user, for providing information on extent of use, whether or not requested by user, to provide customized product and service information, and to allow the user to voluntarily participate in mailings or other events. Additionally, if users of our website are already our customers, or become our customers during the online registration process, we will use personally identifiable user information to provide the user with product service, updates, information and alerts. IHS may also disclose personal information, without notice, if required to do so by law or in the good faith belief that such action is necessary to: (i) comply with legal process served on IHS; or (ii) protect and defend IHS's property rights in and to its products, or the security or safety of its users and website.
 
-Account Management - Where possible, IHS provides you with password-protected access to your account contact information. You can update this information as needed on the Web site where you provided the information.
+**Notice to Employees.**   IHS may collect personal information from its employees. This information may be transferred between IHS and its affiliates. Personal information on employees of IHS and its affiliates will only be used in accordance with the IHS Human Resources policy and other appropriate and reasonable guidelines.
 
-**Unsubscribe** \- All e-newsletters and announcements contain unsubscribe instructions. 
+**Choices and Preferences.**   IHS allows its customers to opt-out of email marketing that may result from use of the site. The ability to do so is offered through the registration process and by links in the email marketing materials. Customers may also send an opt out message to [customerservice@ihsenergy.com](mailto:customerservice@ihsenergy.com) or [change_email@ihs.com](mailto:change_email@ihs.com). Customers may also update or change their registration profile, including changing the email marketing preferences. There are a few limited exceptions to this opt out ability, but notice is always provided in such communications. The exceptions include: providing updates and patches to currently licensed products, security related information, customer service information for currently licensed products, product downloads, training class information, contract or license related information for currently licensed products.
 
-Contact Us - If at any time you wish to stop receiving information from IHS, you can e-mail your request to info@ihs.com or write to the address below. Please include your name, company, address, and e-mail address. 
+IHS customers may also change or update their profile (entered by the user during the registration process, or in some cases, by IHS from information provided by its corporate customers if the individual user is an employee of a corporate customer who participates in IHS Energy’s "Single Sign On Process"). To change your profile information, please login as usual and follow the prompts to "update my profile." If you need help with this process, please contact [customerservice@ihsenergy.com](mailto:customerservice@ihsenergy.com) or [change_email@ihs.com](mailto:change_email@ihs.com).
 
-####  How IHS Group Will Protect Your Information
+**Security:**   IHS takes very seriously the need to protect all personal information from unauthorized access or disclosure. IHS does not lend, lease or sell any personal information collected from its users. Other steps to protect personal information include password protected log-in, ability to audit system access, and robust security computer systems, such as firewalls and screens in place on all of our servers and computer systems. We believe that our security measures provide reasonable barriers against disclosure, unauthorized access, alteration or destruction of personal information in accordance with generally accepted industry standards. Additionally, any IHS employee who has access to personal information are bound by IHS confidentiality obligations.
 
-IHS takes appropriate steps to protect your privacy and your information. Sensitive information submitted via this Web site is protected both online and offline. Credit Card information, for example, is protected by SSL encryption and managed by secure third-party applications such as CyberCash. All IHS databases reside behind a firewall, which is the best defense against theft or manipulation of your data. 
+**Enforcement.**   IHS has established internal procedures to monitor our compliance with the Safe Harbor Program and applicable privacy laws. Part of our compliance is performing an annual review of our privacy policy, including internal audits and reviews by third party computer and security consultants, as appropriate.
 
-IHS does not sell or rent online user information to different companies. IHS considers your information a business asset and will take the appropriate steps to protect it from theft and improper use by others.
-
-**Child Access**
-
-IHS Web sites are not targeted towards children under the age of 13. However, we know that children's curiosity could lead them to IHS. None of the content on our Web pages deals with topics of a sexual or inappropriate nature. However, parental guidance and consent are recommended.
-
-**Cookies**
-
-IHS uses cookies (a small file passed from our server to your computer) to gather information about the type of browser you are using, your user name and password, your shopping cart contents, and other preferences. Cookies make your online experience faster and more convenient. If your browser is set to "accept cookies," you will never see the cookie being sent to you. If your browser is set to "prompt me before accepting a cookie," a box will pop up asking you to accept or decline the cookie. If your browser is set to "decline cookies," no cookie will be accepted by your computer and some IHS Web pages may not function properly. Please change your browser settings to accept cookies. Generally speaking, cookies do not create a security risk nor endanger your privacy rights.
-
-**Usage Data**
-
-IHS uses the aggregate information available in server logs to analyze Web page traffic, improve content, manage user sessions, and gather broad demographic information. Aggregate information is shared with our advertisers and third-party service providers, but this information is not linked to your personal information and will not be used for purposes other than those necessary for the services we provide.
-
-**Third Party Services**
-
-IHS contracts with third-party service providers, such as CyberCash, ClickAction, and Engage to manage some online customer services. To provide these services (like order processing, e-newsletter delivery, and content serving) your information is used by these third parties, but does not leave their control and is not sold or rented to other companies in accordance with the permissions you provide. The following statements and links are provided by third-party service providers:
+Any user who feels that his or her personal information has been misused should direct any questions or complaints to [customerservice@ihsenergy.com](mailto:customerservice@ihsenergy.com) or [change_email@ihs.com](mailto:change_email@ihs.com). IHS will then take reasonable steps to investigate such questions or complaints. If a user feels that IHS has not appropriately handled the complaint or question, they may then send a written description of their complaint to Legal Department, IHS Energy or IHS Engineering, who will contact the user to try and resolve his or her concerns. IHS will cooperate with the European Union Data Protection Authorities in the applicable European Union Member States and data protection authorities under any applicable privacy laws to resolve the issues.
 
 Some IHS Web pages use VeriSign for processing secure credit card orders. VeriSign Privacy Statement: <http://www.verisign.com/truste/index.html>
 
@@ -54,11 +38,28 @@ IHS uses ClickAction to deliver e-mail messages to IHS customers and Web site us
 
 #### Notification of Change
 
-If IHS decides to change its privacy policy, those changes will be posted here and on other IHS Web sites. Please refer to this page if you have questions about IHS activities. If you have questions about the IHS privacy policy, you can contact:   
+If IHS decides to change its privacy policy, those changes will be posted here and on other IHS Web sites. Please refer to this page if you have questions about IHS activities. If you have questions about the IHS privacy policy, you can contact:
 
-
-Doug Marshall  
-Director of Marketing  
-IHS Group   
-15 Inverness Way East   
+Sean Radcliffe  
+VP, SEC Counsel  
+IHS  
+15 Inverness Way East  
 Englewood, CO 80112
+
+|  | 
+
+About IHS
+
+[Corporate Profile](https://web.archive.org/about-ihs/index.html)
+
+[History](https://web.archive.org/about-ihs/history.html)
+
+[Executive Team](https://web.archive.org/about-ihs/executive-team.html)
+
+[Careers](https://web.archive.org/employment/career-ihs.html)
+
+[News Releases](https://web.archive.org/news/press-releases/index.html)
+
+[Events](https://web.archive.org/events/index.html)
+
+[CEO Message](https://web.archive.org/about-ihs/ceo-message.html)
