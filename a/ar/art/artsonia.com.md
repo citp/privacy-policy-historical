@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609131754id_/http%3A//artsonia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artsonia.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207191740id_/http%3A//www.artsonia.com/privacy.asp) for the most accurate reproduction.*
 
 # Artsonia Teachers - Privacy Policy
 
@@ -14,6 +14,8 @@ At Artsonia, we are committed to protecting your privacy. We use the information
 > The information you provide to us through the website is used to process orders, to provide enhanced and more personalized service, and to properly index and display your artwork. The data in our databases is protected against unauthorized access through state-of-the-art security procedures and software.
 > 
 > The information you provide to us is for internal business use only by Artsonia and its partners, subsidiaries, sponsors and affiliates. We do not sell this information to unaffiliated third parties. However, in connection with an assignment, sale, joint venture or other disposition of assets of Artsonia, we may accordingly assign, sell, license or transfer any information, including personally identifying information.
+> 
+> Personally identifying information that you provide when you register as a member of a kid's fanclub may be revealed to the kid's parents but not to any other third parties. Your first name and relationship to the child may be posted alongside the kid's artwork to enable kids and parents to see who all have joined the kid's fanclub and have seen the kid's art.
 > 
 > Artsonia may disclose personal information if we believe, in good faith, that such disclosure is necessary to comply with the law, enforce or apply the terms of our user agreements or to protect the property, rights or safety of Artsonia, our users or others.
 > 
@@ -35,7 +37,7 @@ At Artsonia, we are committed to protecting your privacy. We use the information
 > 
 
 > 
-> Kids under 13 years of age are not allowed to register for our newsletter and kids under 18 are not allowed to purchase any products from Artsonia.
+> Kids under 13 years of age are not allowed to register for our newsletter or the fan clubs and kids under 18 are not allowed to purchase any products from Artsonia.
 > 
 > If you are a parent of a child under 18 and you want us to remove your child's artwork that has already been published on our website (either by your child with your permission or by your child's school), you can request that the artwork and all information about the child be removed from our records. Please write a signed letter to the address noted below indicating your child's screenname and the artid(s) of the artwork(s) that you want removed.
 >
