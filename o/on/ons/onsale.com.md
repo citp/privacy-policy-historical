@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onsale.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203173422id_/http%3A//www.onsale.com/companyinfo/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsale.com privacy policy that was archived on 2004-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040722035500id_/http%3A//www.onsale.com/companyinfo/privacy_policy.aspx) for the most accurate reproduction.*
 
 # OnSale.com - World's Premiere Marketplace!
 
