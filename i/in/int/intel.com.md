@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2000-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000511224628id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3Dintelhome%2Bprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intel.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214211800id_/http%3A//www.intel.com/sites/corporate/privacy.htm%3Fiid%3Dintelhome%2Bprivacy%26) for the most accurate reproduction.*
 
 # Personal Information Privacy Policy
 
@@ -7,70 +7,112 @@
 **Intel’s Online Privacy Policy**   
 
 
+|   
+---  
+|  |   
+|    
 [](https://www.truste.org/validate/2723)
 
-Your right to privacy is very important. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner. We believe this information should only be used to help us provide you with better service. That's why we have put a policy in place to protect your personal information. Intel Corporation is a Premier Sponsor and member of the TRUSTe Privacy Program. 
+This policy covers Intel's family of corporate web sites, which include: [www.intel.com](http://www.intel.com/)   
+[www.intelweboutfitter.com](http://www.intelweboutfitter.com/)   
+[www.shop-intel.com](http://www.shop-intel.com/)   
+[www.intelonlineservices.com](http://www.intelonlineservices.com/)   
+[www.intc.com](http://www.intc.com/)   
+[www.pcparents.com](http://www.pcparents.com/). 
 
-This policy covers Intel's family of corporate web sites, which include [www.intel.com](http://www.intel.com/), [www.intelweboutfitter.com](https://web.archive.org/intelweboutfitter/site/index.htm), [www.shop-intel.com](http://www.shop-intel.com/), [www.intelonlineservices.com](https://web.archive.org/onlineservices/index.htm), [www.intc.com](https://web.archive.org/intel/finance/index.htm), and [www.pcparents.com](https://web.archive.org/education/pcparents/index.htm). This statement is not applicable to the following subsidiary web sites: [www.dialogic.com](http://www.dialogic.com/), [www.level1.com](http://www.level1.com/), [www.dspc.com](http://www.dspc.com/), [www.icat.com](http://www.icat.com/), [www.gatherround.com](http://www.gatherround.com/), [www.pc.com](http://www.pc.com/), and [www.artmuseum.net](http://www.artmuseum.net/), which each have their own posted privacy policies. We encourage you to take the time to read this privacy policy and those of any web site you visit. 
+This statement is not applicable to the following subsidiary web sites:   
+[www.dialogic.com](http://www.dialogic.com/)   
+[www.level1.com](http://www.level1.com/)   
+[www.dspc.com](http://www.dspc.com/)   
+[www.icat.com](http://www.icat.com/)   
+[www.gatherround.com](http://www.gatherround.com/)   
+[www.pc.com](http://www.pc.com/)   
+[www.artmuseum.net](http://www.artmuseum.net/)   
+These sites each have their own posted privacy policies. We encourage you to take the time to read this privacy policy and those of any web site you visit.    
+  
+**Need access or update help?** Contact the Support Team at: [support@mailbox.intel.com](mailto:support@mailbox.intel.com). 
 
-Below is a summary of Intel's online privacy policy. 
+To aid in processing your request, please include: 
 
-**What personal information do we collect?**  
-In general, when you visit our web sites and access information you remain anonymous. Before we ask you for information, we will explain how this information will be used. We will not provide any of your personal information to other companies or individuals without your permission. 
+* Contact information: Your name, address, email, etc. 
+* Name of the program: Where do we apply the update. 
+* Details of the request: New email address, review your information, unsubscribe from a newsletter, etc. 
 
-Some of our web sites require registration to access, although typically all that's requested is your e-mail address and some basic information about you, such as job function. 
+**Note:** _This policy also covers information provided to Intel Customer Support._
 
-There are occasions where we will ask for additional information. We do this to be able to better understand your needs, and provide you with services that we believe may be valuable to you. Some examples of information our web sites collect are name, address and phone number. We give you the opportunity to elect not to receive materials from us. If you sign up for an Intel electronic newsletter or e-mail list, each message will include instructions on how to "unsubscribe" from that list. 
+|   
+Intel respects your privacy choices. If you give us personal information, we will treat it according to this policy. 
 
-**Protecting your privacy**  
-We will take appropriate steps to protect your privacy. We will also take reasonable security measures to protect your personal information in storage. For example, if you supply us with your credit card information to make an online purchase, we encrypt the card number. Additionally, access to personally identifiable information is limited to individuals needing such access to perform their job function. 
+This policy covers Intel's corporate web sites. Some of our subsidiaries or programs have their own, possibly different, policies (see lists at right). 
 
-We will not provide any of your personal information to other companies or individuals without your permission. However, we may need to provide your name and delivery address to third parties that Intel uses for the purposes of delivering specific services to you (e.g., customer support, or a shipping company if you have asked us to send something to you). Likewise, we will share your credit card information with the appropriate authorization and processing companies, in the event you were to purchase something via credit card. These companies will not use this information for any other purpose and will not disclose the information to anyone else. 
+Intel encourages you to read this privacy policy and those of all web sites you visit. Below is a summary of Intel's online privacy policy. 
 
-We provide links to third party sites. Since we do not control those web sites, we encourage you to review the privacy policies posted on these third party sites. 
+**Types and uses of personal information.**  
+Your personal information is used in the following ways: 
 
-**Children's privacy**  
-None of the Web sites covered by this policy knowingly collect personally identifiable information from children under age 13. If we discover that a child under the age of 13 has provided us with any personally identifiable information, we will delete that information from our systems. 
-
-Intel encourages parents to go online with their children. Parents should understand the sites their kids are visiting and which sites are appropriate. There are parental control tools available such as browsers and filtering software that prevent children from accessing inappropriate sites. Children should never give out personal information on the Internet, such as name, address, phone number, or name of school, unless supervised by a parent or responsible adult. Look for a privacy policy on a web site and find out how information collected from children is treated. Parents should teach their children to look for sites that display a privacy policy. 
-
-**Use of cookies**  
-Intel web sites use cookies for various reasons. Cookies enable us to provide you with a better experience by allowing us to understand what areas of the web site are of interest to our visitors. Intel also uses cookies when you register for one of our web programs. In this situation, a cookie will store useful information that enables our web site to remember you when you return to visit us. Intel can only read cookies from Intel web sites. If you choose to disable cookies in your browser, you can still access most of our web sites. 
-
-**Data storage and processing in the United States**  
-Many of our web sites that collect information will process and store that information in databases located in the United States. 
-
-**How can you update the personal information you have provided to Intel?**  
-You can help Intel maintain the accuracy of your information by notifying Intel of any changes to your address, title, phone number or e-mail address. Most of our programs allow you to make the changes yourself by following the instructions on the program's membership profile pages. 
-
-If you need assistance in updating your information, please contact the Customer Support team ([support@mailbox.intel.com](mailto:support@mailbox.intel.com)). To aid the agents in processing your request, please include your contact information (name, address, e-mail), the name of the Intel program or service you need the changes applied to, and the details of the change (e.g., update email address, unsubscribe from a newsletter). This information you provide to Intel Customer Support will also be covered by this policy. 
-
-**How to unsubscribe from email newsletters**  
-If at any time you wish to stop receiving an electronic newsletter from Intel you can unsubscribe as explained in the newsletter. 
-
-**Newsgroups / Forums / Message Boards**  
-Keep in mind that information posted to an Intel forum is public. 
-
-**Oversight**  
-Intel Corporation is a Premier Sponsor and member of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because this site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-By participating in the TRUSTe program, Intel Corporation agrees in the importance of notifying you of the following: 
-
-  1. What information of yours is collected. 
-  2. How the information is used. 
-  3. With whom the information may be shared. 
+  * **User IDs and Passwords.** Provides you with access to your profile areas and to protected content. 
+  * **Account Information.** These tell us more about who you are, how to contact you, and your shipping and billing information. Also contains any preferences you have provided, such as language, email format and interests. 
+  * **Customer Feedback and Support.** Provides a mechanism for requesting information from Intel. Also used to tell us how we can improve our products, services and site designs. 
+  * **Email Correspondence.** Used to raise and respond to issues and inquiries of all types. Also used to distribute information about Intel, our products, and services. 
+  * **Transactions.** Shows which products and services you have requested. 
 
 
+
+We will not change the way in which we use your personal information without your consent. 
+
+**Security measures.**  
+We protect the personal information you share with us. For example, if you make an online purchase with us, we encrypt your credit card number. Access to your personal information is limited to people who need it to do their job. 
+
+Authorized third parties may need access to some of your personal information. For example, if we need to ship something to you, we must share your name and address with a shipping company. We limit such third parties in their access and use of your personal information. We do not otherwise share your personal information with third parties, unless you have granted us permission to do so. 
+
+**Linked web sites.**  
+We provide links to third party sites. Since we do not control these web sites, we encourage you to review the privacy policies posted on these (and all) third party sites. 
+
+**Children's privacy.**  
+We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. 
+
+**Intel encourages parents to go online with their kids.** Here are a few tips to help make a child's online experience safer: 
+
+  * Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. 
+  * Know the sites your kids are visiting and which sites are appropriate. 
+  * Look for web site privacy policies. Know how your child's information is treated. 
+
+
+
+**Cookies.**  
+Most Intel web sites use "cookies." Cookies help us provide a better user experience by measuring which web site areas are of greatest interest. Intel also uses cookies when you register for one of our web programs. In this situation, a cookie will store useful information that enables our web site to remember you when you return. Intel can only read cookies from Intel web sites. If you choose to disable cookies in your browser, you can still access most of our web sites. 
+
+We may display advertisements from third parties. Third party ad-serving companies control which ads are shown. These ad-serving companies may use cookies to collect non-personal information from you. They use this information to tailor the advertisements 
+
+**Accessing and updating information.**  
+We need your help in making sure your personal information is correct in our systems. Please notify us of changes to your name, address, title, phone number or email address. Most of our sites allow you to make these updates yourself via the program's member profile pages. 
+
+**Unsubscribing.**  
+Each email newsletter has instructions on how to unsubscribe. Refer to the box at right if you need additional help. 
+
+**Newsgroups / Forums.**  
+Intel forums are public. Please consider this before posting. 
+
+**Transfer of personal information to the U.S.**  
+We may process or store your information in our U.S. databases. 
+
+**Oversight.**  
+Intel wants to further demonstrate our commitment to your privacy. To do this, we have agreed to have our privacy practices reviewed for compliance by both TRUSTe and BBB _OnLine_ ®. 
+
+  * Intel is a Premier Sponsor of TRUSTe and is a proud holder of their privacy seal. By participating in the TRUSTe privacy program, Intel agrees in the importance of notifying you of the following:   
+    1\. What information of yours is collected.   
+    2\. How your information is used.   
+    3\. With whom we may share your information. 
+  * Intel is a Corporate Sponsor of BBB _OnLine_ privacy and is a proud holder of their privacy seal. The BBB _OnLine_ privacy seal applies to our English language web sites. 
+
+**Policy updates:**  
+All updates to this policy will be posted here. Last update: July 11, 2000. 
 
 **Questions?**  
-Intel welcomes comments and questions on this policy. We are dedicated to protecting your personal information, and will make every reasonable effort to keep that information secure. Due to the rapidly evolving technologies on the Internet, we may occasionally update this policy. All revisions will be posted to this site. 
-
-Questions regarding this statement should be directed to [privacy.feedback@intel.com](mailto:privacy.feedback@intel.com). If we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/users_watchdog.html). 
+Please send any questions or comments on our privacy practices to [privacy.feedback@intel.com](mailto:privacy.feedback@intel.com). If you are not satisfied with our response, please contact [TRUSTe](http://www.truste.org/users/users_watchdog.html) or [BBB _OnLine_](http://www.bbbonline.com/). 
 
 Intel is committed to user privacy in our products and services. Read Intel's "[Privacy Principles](https://web.archive.org/sites/corporate/privacy2.htm)." 
 
   
   
-_*[Legal Information](https://web.archive.org/sites/corporate/tradmarx.htm) and [Privacy Policy](https://web.archive.org/sites/corporate/privacy.htm) © 2000 Intel Corporation_  
-  
----|---
+_*[Legal Information](https://web.archive.org/sites/corporate/tradmarx.htm) and [Privacy Policy](https://web.archive.org/sites/corporate/privacy.htm) © 2000 Intel Corporation_
