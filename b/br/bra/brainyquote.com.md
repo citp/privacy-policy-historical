@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204222339id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainyquote.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402211448id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.*
 
 # BrainyQuote - Privacy
 
@@ -23,6 +23,6 @@ Do not duplicate or redistribute in any form.  |  [Home](https://web.archive.org
 [Privacy](https://web.archive.org/inquire/privacy.html)  
 [Terms](https://web.archive.org/inquire/terms.html)  
 [Copyright](https://web.archive.org/inquire/copyright.html)  
-So shines a good deed in a weary world.   
-William Shakespeare   
+Modesty is the conscience of the body.   
+Honore de Balzac   
 
