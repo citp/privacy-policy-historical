@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbusinessnotes.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203131205id_/http%3A//www.smallbusinessnotes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusinessnotes.com privacy policy that was archived on 2004-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040415102956id_/http%3A//www.smallbusinessnotes.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policies of Small Business Notes
 
