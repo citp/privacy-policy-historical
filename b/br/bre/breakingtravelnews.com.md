@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingtravelnews.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603054955id_/http%3A//www.breakingtravelnews.com/staticpages/index.php%3Fpage%3D200308102157433) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingtravelnews.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209005953id_/http%3A//www.breakingtravelnews.com/staticpages/index.php%3Fpage%3D200308102157433) for the most accurate reproduction.*
 
 # Breaking Travel News - Privacy Policy
 
