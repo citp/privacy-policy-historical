@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608174524id_/http%3A//www.iprimus.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iprimus.com.au privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205045945id_/http%3A//www.iprimus.com.au/privacy.asp) for the most accurate reproduction.*
 
 # iPrimus > Privacy
 
@@ -73,13 +73,3 @@ If you believe that we hold personal information that you consider to be inaccur
 ## Privacy Complaints and Organisational Details
 
 You can complain about breaches of your Privacy in writing (e-mail, fax or letter) to:
-
-iPrimus Customer Service
-
-500 Collins Street
-
-Melbourne VIC 3000
-
-Fax: 1300 85 11 58
-
-E-mail address: [feedback@iprimus.com.au](mailto:feedback@iprimus.com.au)
