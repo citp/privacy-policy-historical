@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrevolver.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604065255id_/http%3A//www.adrevolver.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrevolver.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207145823id_/http%3A//adrevolver.com/privacy.html) for the most accurate reproduction.*
 
 # AdRevolver - Privacy Policy
 
