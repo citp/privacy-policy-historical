@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernsalon.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202110624id_/http%3A//modernsalon.com/privacy.ihtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernsalon.com privacy policy that was archived on 2003-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031212055644id_/http%3A//www.modernsalon.com/privacy.ihtml) for the most accurate reproduction.*
 
 # ModernSalon Media
 
