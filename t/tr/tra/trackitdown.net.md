@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trackitdown.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204165915id_/http%3A//www.trackitdown.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trackitdown.net privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403185725id_/http%3A//www.trackitdown.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Trackitdown.net
 
