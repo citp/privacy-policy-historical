@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2001-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010622100938id_/http%3A//www.number10.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the number10.gov.uk privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216231915id_/http%3A//www.number10.gov.uk/Privacy) for the most accurate reproduction.*
 
 # 10 Downing Street - Privacy Policy
 
