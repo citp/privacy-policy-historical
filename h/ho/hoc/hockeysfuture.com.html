@@ -1,137 +1,352 @@
-<!--The following is the downloaded HTML source of the hockeysfuture.com privacy policy that was archived on 2003-06-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030601142119id_/http%3A//www.hockeysfuture.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hockeysfuture.com privacy policy that was archived on 2003-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031206100824id_/http%3A//www.hockeysfuture.com/privacypolicy.php) for the most accurate reproduction.-->
 
-<html><head><base href="http://hockeysfuture.com/">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<title>Hockey's Future: The Hockey Prospects Resource (Covering the WHL, QMJHL,AHL, OHL, College, The NHL Entry Draft, and All Junior Hockey)</title>
+<meta name="description" content="The 1 Hockey Prospects site on the Internet">
+<meta name="keywords" content="hockey, prospects, ahl, ihl, chl, whl future, stars, future stars, qmjhl, ohl, entry draft, college, ncaa, he, wcha, ccha, hockey prospects, whl, future, top, nhl, ice, young, farm team, affiliate, farm, kids, ice time, reports, news,report, quality, super, upcoming, develop, development, program, forward, defenseman, goalie, good, evaluation, scouting, scouts, skill, skills, solid, playmaker, scorer, rated, ranking, daily, writers, Canada, USA, European, strong, fast, skaters, puck, shot, shooting, passing, CSB, Russian, czech republic, sweden, sedin twins, lecavalier, wingers, hockey report, sedins, slovenia, swiss, netminder">
+<link href="style.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/javascript" src="nav.js"></script>
+<script language="JScript">
+<!--
+// DDMenu
 
+  var eOpenMenu = null;
+  function OpenMenu(eSrc,eMenu){
+    eMenu.style.left = eSrc.parentElement.offsetLeft + divMenuBar.offsetLeft;
+    eMenu.style.top = divMenuBar.offsetHeight + divMenuBar.offsetTop;
+    eMenu.style.visibility = "visible";
+    eOpenMenu = eMenu;
+  }
 
+  function CloseMenu(eMenu){
+    eMenu.style.visibility = "hidden";
+    eOpenMenu = null;
+  }
 
-<title>Hockey's Future: Organizational Rankings</title>
-<meta name="description" content="The #1 Hockey Prospects site on the Internet">
-<meta name="keywords" content="hockey, prospects, ahl, ihl, chl, whl future, stars, future stars, qmjhl, ohl, entry draft, college, ncaa, he, wcha, ccha, hockey prospects, whl, future, top, nhl, ice, young, farm team, affiliate, farm, kids, ice time, reports, news,
-report, quality, super, upcoming, develop, development, program, forward, defenseman, goalie, good, evaluation, scouting, scouts, skill, skills, solid, playmaker, scorer, rated, ranking, daily, writers, Canada, USA, European, strong, fast, skaters, puck, shot, shooting, passing, CSB, Russian, czech republic, sweden, sedin twins, lecavalier, wingers, hockey report, sedins, slovenia, swiss, netminder">
+  function MenuBar_over(){
+    var eSrc = window.event.srcElement;
+    if ("A" == eSrc.tagName.toUpperCase()){
+      var eMenu = document.all[eSrc.parentElement.id.replace("tdMenuBarItem","divMenu")];
+      if (eOpenMenu && eOpenMenu != eMenu){
+        CloseMenu(eOpenMenu);}
+      if (eMenu){
+		  OpenMenu(eSrc,eMenu);}
+    }
+  }
+
+  function MenuBar_out(){
+    var eTo = window.event.toElement;
+    if (eOpenMenu && eTo && !eOpenMenu.contains(eTo) && "tblMenuBar" != eTo.id){
+      CloseMenu(eOpenMenu)}
+	}
+
+  function Menu_out(){
+    var eSrc = window.event.toElement;
+    if (eOpenMenu && !eOpenMenu.contains(eSrc) && !divMenuBar.contains(eSrc)){
+      CloseMenu(eOpenMenu)}
+	}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_showHideLayers() { //v6.0
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) if ((obj=MM_findObj(args[i]))!=null) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v; }
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+function initArray() {
+ for(i=0;i<initArray.arguments.length; i++)
+  this[i] = initArray.arguments[i];
+}
+var isnMonths=new initArray("January","February","March","April","May","June","July","August","September","October","November","December");
+var isnDays= new initArray("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday");
+today=new Date();
+hrs=today.getHours();
+min=today.getMinutes();
+sec=today.getSeconds();
+clckh=""+((hrs>12)?hrs-12:hrs); 
+clckm=((min<10)?"0":"")+min;
+clcks=((sec<10)?"0":"")+sec;
+clck=(hrs>=12)?"p.m.":"a.m.";
+
+var stnr="";
+var ns="0123456789";
+var a="";
+
+function formHandler(form){
+var URL = document.form.site.options[document.form.site.selectedIndex].value;
+window.location.href = URL;
+}
+
+//-->
+</script>
+<script src="setcookie.js"></script>
+<style type="text/css">
+	BODY { font-family:"Verdana, Arial, Helvetica, sans-serif"; font-size:70%;}
+
+	DIV#divMenuBar { background-color:#009999; }
+	TABLE#tblMenuBar TD { font-size:60%; color:#FFFFFF; padding:0px 5px 0px 5px; cursor:default; }
+	TABLE#tblMenuBar TD.clsMenuBarItem { font-weight:bold; cursor:default; }
+
+	/* These two style rules added for links in MenuBar */
+	TABLE#tblMenuBar TD.clsMenuBarItem A { text-decoration:none; color:#000000; font-weight:bold; }
+	TABLE#tblMenuBar TD.clsMenuBarItem A:hover { color:#FFFFFF; }
+	DIV.clsMenu {
+	font-size:90%;
+	background-color:#009999;
+	position:absolute;
+	visibility:hidden;
+	width:130px;
+	padding:5px 5px 5px 8px;
+	border-top:1 white solid;
+	left: 124px;
+	top: 64px;
+	}
+	DIV.clsMenu A { text-decoration:none; color:#000000; font-weight:bold; }
+	DIV.clsMenu A:hover { color:#FFFFFF; }
+</style>
 </head>
 
-<body topmargin="0" leftmargin="0" bgcolor="white">
-<center>
-<table width="100%" cellspacing="0">
-<tbody><tr>
-    <td valign="top" colspan="3" width="100%" background="leafsfill.jpg" height="2"><img src="http://www.hockeysfuture.com/images/pixel.gif" width="2" height="2"></td>
+<body bgcolor="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_showHideLayers('Layer1','','hide');MM_preloadImages('../images-new/b_home_on.gif','../images-new/b_hftop50_on.gif','../images-new/b_playerinterviews_on.gif','../images-new/b_sponsorspotlight_on.gif','../images-new/b_nhlentrydraft_on.gif','../images-new/b_newsrooms_on.gif','../images-new/b_hfboard_on.gif','../images-new/b_nhlorgrankings_on.gif')">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td background="../images-new/bg_header.gif">
+      <div align="left">
+        <table width="746" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td bgcolor="#000000"><img src="../images-new/spacer.gif" width="13" height="13"></td>
+            <td bgcolor="#000000"><img src="../images-new/hfnetwork.gif" width="83" height="20" alt=""><a href="http://www.hfboards.com"><img src="../images-new/hfboard.gif" width="77" height="20" alt="" border="0"></a></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td width="196"><a href="./"><img src="../images-new/logo.gif" width="196" height="79" alt="" border="0"></a></td>
+                  <td width="480" background="../images-new/bg_bannertop.jpg"><div align="center"><a href="allproregister.php"><img src="../images-new/apr468X60_1.gif" width="468" height="60" hspace="5" border="0"></a> </div>
+                  </td>
+                  <td><a href="http://www.hfboards.com"><img src="../images-new/b_hfboard.gif" alt="" name="Image8" width="69" height="79" border="0" id="Image8" onmouseover="MM_swapImage('Image8','','../images-new/b_hfboard_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                </tr>
+              </tbody></table>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
+    </td>
   </tr>
-<tr><td bgcolor="white" align="left" valign="center" width="13%">
-<img src="blank20.gif" width="10"><a href="http://www.hockeysfuture.com"><img src="/index_ffffff.gif" width="240" height="80" valign="center" border="0" alt=""></a>
-</td>
-<td bgcolor="white" align="CENTER" valign="middle" width="85%">
-
-<div align="center">
-<a href="http://www.hockeysfuture.com/admanager/click.php?n=mainbanner"><img src="http://www.hockeysfuture.com/admanager/phpads.php?what=mainbanner&amp;n=mainbanner" width="468" height="80" alt="" border="0"></a></div>
-
-</td>
-<td bgcolor="white" align="CENTER" valign="center" width="2%">
-<br>
-</td>
-</tr>
   <tr>
-    <td valign="top" colspan="3" width="100%" background="leafsfill.jpg" height="2"><img src="http://www.hockeysfuture.com/images/pixel.gif" width="2" height="2"></td>
-  </tr>
+    <td valign="top" background="../images-new/bg_lines.gif">
+      <div align="left">
+        <table width="100%" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td colspan="4" valign="top" bgcolor="#004278"><div align="center">
+                    <script language="JavaScript" src="display.js"></script><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><div align="center"><img src="../images-new/banner/top_header_expand.gif" width="750" height="27" id="Out2" class="Outline" style="cursor: hand"><br><a href="http://www.sitevalley.com/?refid=27"><img src="../images-new/banner/01.gif" width="252" height="125" border="0"><img src="../images-new/banner/02.gif" width="247" height="125" border="0"><img src="../images-new/banner/03.gif" width="251" height="125" border="0"></a></div></td></tr></tbody></table>
+                      <script language="JavaScript" src="clickhandler.js"></script>
+                  </div></td>
+                </tr>
+                <tr>
+                  <td width="13" rowspan="3" valign="top" background="../images-new/left.gif"><img src="../images-new/spacer.gif" width="13" height="50"></td>
+                  <td colspan="2" valign="top" bgcolor="#FFFFFF"><table width="100%" border="0" cellpadding="0" cellspacing="0" background="../images-new/bg_orange.gif">
+                    <tbody><tr>
+                      <td width="19"><img src="../images-new/left_menu.gif" width="19" height="22" alt=""></td>
+                      <td width="35"><a href="./"><img src="../images-new/b_home.gif" name="Image1" width="35" height="22" border="0" id="Image1" onmouseover="MM_swapImage('Image1','','../images-new/b_home_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                      <td width="141"><a href="top50.php"><img src="../images-new/b_hftop50.gif" name="Image2" width="141" height="22" border="0" id="Image2" onmouseover="MM_showHideLayers('Layer1','','show');MM_swapImage('Image2','','../images-new/b_hftop50_on.gif',1)" onmouseout="MM_showHideLayers('Layer1','','hide');MM_swapImgRestore()"></a></td>
+                      <td width="113"><a href="orgrankings.php"><img src="../images-new/b_nhlorgrankings.gif" name="Image5" width="113" height="22" border="0" id="Image5" onmouseover="MM_swapImage('Image5','','../images-new/b_nhlorgrankings_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                      <td width="117"><a href="playersinterviews.php"><img src="../images-new/b_playerinterviews.gif" alt="" name="Image3" width="117" height="22" border="0" id="Image3" onmouseover="MM_swapImage('Image3','','../images-new/b_playerinterviews_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                      <td width="122"><a href="sponsorspotlight.php"><img src="../images-new/b_sponsorspotlight.gif" alt="" name="Image4" width="122" height="22" border="0" id="Image4" onmouseover="MM_swapImage('Image4','','../images-new/b_sponsorspotlight_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                      <td width="106"><a href="nhlentrydraft.php"><img src="../images-new/b_nhlentrydraft.gif" alt="" name="Image6" width="106" height="22" border="0" id="Image6" onmouseover="MM_swapImage('Image6','','../images-new/b_nhlentrydraft_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                      <td width="77"><a href="newsrooms.php"><img src="../images-new/b_newsrooms.gif" alt="" name="Image7" width="77" height="22" border="0" id="Image7" onmouseover="MM_swapImage('Image7','','../images-new/b_newsrooms_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                      <td align="right"><img src="../images-new/menu_right.gif" width="16" height="22" alt=""></td>
+                    </tr>
+                  </tbody></table>
+                  <div id="Layer1" style="position: absolute; left: 69px; top: 145px; width: 170px; height: 254px; z-index: 90; background-color: rgb(235, 82, 0); border: 1px none rgb(0, 0, 0); visibility: hidden;" class="text" onmouseover="MM_showHideLayers('Layer1','','show')" onmouseout="MM_showHideLayers('Layer1','','hide')">
+                      <table width="100%" border="0" cellpadding="4" cellspacing="1" class="textlayer">
+                        <tbody><tr>
+                          <td width="12%" bgcolor="FF5F13"><div align="center"><strong>1.</strong></div></td>
+                          <td width="88%" bgcolor="FF5F13"><a href="http://www.apple.com" class="Navwhite">Nikolai
+                          Zherdev</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="FF5F13"><div align="center"><strong>2.</strong></div></td>
+                          <td bgcolor="FF5F13"> <a href="#" class="Navwhite">Pascal Leclaire</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="FF5F13"><div align="center"><strong>3.</strong></div></td>
+                          <td bgcolor="FF5F13"> <a href="#" class="Navwhite">Danny Fritsche</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="FF5F13"><div align="center"><strong>4.</strong></div></td>
+                          <td bgcolor="FF5F13"> <a href="#" class="Navwhite">Aaron Johnson</a> </td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="FF5F13"><div align="center"><strong>5.</strong></div></td>
+                          <td bgcolor="FF5F13"> <a href="#" class="Navwhite">Joakim Lindström</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="FF5F13"><div align="center"><strong>6.</strong></div></td>
+                          <td bgcolor="FF5F13"> <a href="#" class="Navwhite">Andrej Nedorost</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="FF5F13"><div align="center"><strong>7.</strong></div></td>
+                          <td bgcolor="FF5F13"> <a href="#" class="Navwhite">Dimitri Kosmachev</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="FF5F13"><div align="center"><strong>8.</strong></div></td>
+                          <td bgcolor="FF5F13"> <a href="#" class="Navwhite">Tim Jackman</a> </td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="FF5F13"><div align="center"><strong>9.</strong></div></td>
+                          <td bgcolor="FF5F13"> <a href="#" class="Navwhite">Ole Kristian</a></td>
+                        </tr>
+                        <tr>
+                          <td bgcolor="FF5F13"><div align="center"><strong>10.</strong></div></td>
+                          <td bgcolor="FF5F13"> <a href="#" class="Navwhite">Ivan Tkachenko</a></td>
+                        </tr>
+                        <tr bgcolor="#000000">
+                          <td colspan="2" bgcolor="#000000"><div align="center"></div>                            <a href="#" class="Navwhite"><img src="../images-new/spacer.gif" width="10" height="10" border="0" align="absmiddle">View all »</a></td>
+                        </tr>
+                      </tbody></table>
+                    </div>
+                  </td>
+                  <td width="13" rowspan="3" valign="top" background="../images-new/right.gif"><img src="../images-new/spacer.gif" width="13" height="50"></td>
+                </tr>
+                <tr>
+                  <td valign="bottom" bgcolor="#FFFFFF" class="smalldate"><div align="right">
 
-</tbody></table>
+        <script language="JavaScript">
+<!--Hide JavaScript from Java-Impaired Browsers
+// fixes a Netscape 2 and 3 bug
+function getFullYear(d) { // d is a date object
+ yr = d.getYear();
+ if (yr < 1000)
+  yr+=1900;
+ return yr;
+}
+document.write(" "+isnMonths[today.getMonth()]+" "+today.getDate()+", "+getFullYear(today)+" ");
+// End hiding -->
+</script> February 19, 2020 
 
-
-
-<table width="100%" cellpadding="5" cellspacing="0">
-<tbody><tr><td background="leafsfill.jpg" align="CENTER" colspan="4"><font size="+1" color="#FFFFFF" face="VERDANA, ARIAL">
-    <table border="0" cellpadding="0" cellspacing="0" width="100%">
-      <tbody><tr>
-        <td width="25%" align="center">
-        <b><font size="2" color="#FFFFFF" face="VERDANA, ARIAL">
-         Hockey's Future </font>
-        </b></td>
-        <form name="form"></form><td width="75%" align="CENTER"><font size="2" color="#FFFFFF" face="VERDANA, ARIAL"><b><font size="2" color="#FFFFFF" face="VERDANA, ARIAL"><img src="blank20.gif"><img src="blank20.gif">Welcome to Hockey's Future<img src="blank20.gif"><img src="blank20.gif"><img src="blank20.gif">
-<select name="site" size="1" onchange="javascript:formHandler()">
+		    </div>
+                  </td>
+		   <td width="252" rowspan="2" valign="top" bgcolor="#FFFFFF">    
+               <table width="245" border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                     <form name="form"></form> <td colspan="2"><div align="center">
+                        <select name="site" size="1" class="searchbox" onchange="javascript:formHandler()">
               <option value="./">Your Navigational Menu</option>
               <option value="./">Home</option>
-              <option value="./">   -------- BOARDS --------  </option> 
+              <option value="./">   -------- BOARDS --------  </option>	
               <option value="http://hfboards.com/">HF Boards</option>
               <option value="http://hfboards.com/prospects">Prospect Board</option>
               <option value="http://hfboards.com/traderumors">TradeRumors Board</option>
-              <option value="http://hfboards.com/cgi-bin/fantasyboard.pl">Fantasy Board</option>                                                  
-              <option value="./">   -------- TEAMS -------- </option>   
-                              <option value="/team.php?team=3">Anaheim Mighty Ducks</option>
-                              <option value="/team.php?team=25">Atlanta Thrashers</option>
-                              <option value="/team.php?team=15">Boston Bruins</option>
-                              <option value="/team.php?team=16">Buffalo Sabres</option>
-                              <option value="/team.php?team=8">Calgary Flames</option>
-                              <option value="/team.php?team=26">Carolina Hurricanes</option>
-                              <option value="/team.php?team=4">Chicago Blackhawks</option>
-                              <option value="/team.php?team=9">Colorado Avalanche</option>
-                              <option value="/team.php?team=47">Columbus Blue Jackets</option>
-                              <option value="/team.php?team=12">Dallas Stars</option>
-                              <option value="/team.php?team=5">Detroit Red Wings</option>
-                              <option value="/team.php?team=10">Edmonton Oilers</option>
-                              <option value="/team.php?team=1">Florida Panthers</option>
-                              <option value="/team.php?team=14">Los Angeles Kings</option>
-                              <option value="/team.php?team=48">Minnesota Wild</option>
-                              <option value="/team.php?team=17">Montreal Canadiens</option>
-                              <option value="/team.php?team=6">Nashville Predators</option>
-                              <option value="/team.php?team=21">New Jersey Devils</option>
-                              <option value="/team.php?team=2">New York Islanders</option>
-                              <option value="/team.php?team=22">New York Rangers</option>
-                              <option value="/team.php?team=18">Ottawa Senators</option>
-                              <option value="/team.php?team=23">Philadelphia Flyers</option>
-                              <option value="/team.php?team=13">Phoenix Coyotes</option>
-                              <option value="/team.php?team=24">Pittsburgh Penguins</option>
-                              <option value="/team.php?team=19">San Jose Sharks</option>
-                              <option value="/team.php?team=7">St. Louis Blues</option>
-                              <option value="/team.php?team=27">Tampa Bay Lightning</option>
-                              <option value="/team.php?team=20">Toronto Maple Leafs</option>
-                              <option value="/team.php?team=11">Vancouver Canucks</option>
-                              <option value="/team.php?team=28">Washington Capitals</option>
-                                                                  
+              <option value="http://hfboards.com/cgi-bin/fantasyboard.pl">Fantasy Board</option>			  			  
+              <option value="./">   -------- TEAMS -------- </option>	
+		              <option value="/team.php?team=3">Anaheim Mighty Ducks</option>
+		              <option value="/team.php?team=25">Atlanta Thrashers</option>
+		              <option value="/team.php?team=15">Boston Bruins</option>
+		              <option value="/team.php?team=16">Buffalo Sabres</option>
+		              <option value="/team.php?team=8">Calgary Flames</option>
+		              <option value="/team.php?team=26">Carolina Hurricanes</option>
+		              <option value="/team.php?team=4">Chicago Blackhawks</option>
+		              <option value="/team.php?team=9">Colorado Avalanche</option>
+		              <option value="/team.php?team=47">Columbus Blue Jackets</option>
+		              <option value="/team.php?team=12">Dallas Stars</option>
+		              <option value="/team.php?team=5">Detroit Red Wings</option>
+		              <option value="/team.php?team=10">Edmonton Oilers</option>
+		              <option value="/team.php?team=1">Florida Panthers</option>
+		              <option value="/team.php?team=14">Los Angeles Kings</option>
+		              <option value="/team.php?team=48">Minnesota Wild</option>
+		              <option value="/team.php?team=17">Montreal Canadiens</option>
+		              <option value="/team.php?team=6">Nashville Predators</option>
+		              <option value="/team.php?team=21">New Jersey Devils</option>
+		              <option value="/team.php?team=2">New York Islanders</option>
+		              <option value="/team.php?team=22">New York Rangers</option>
+		              <option value="/team.php?team=18">Ottawa Senators</option>
+		              <option value="/team.php?team=23">Philadelphia Flyers</option>
+		              <option value="/team.php?team=13">Phoenix Coyotes</option>
+		              <option value="/team.php?team=24">Pittsburgh Penguins</option>
+		              <option value="/team.php?team=19">San Jose Sharks</option>
+		              <option value="/team.php?team=7">St. Louis Blues</option>
+		              <option value="/team.php?team=27">Tampa Bay Lightning</option>
+		              <option value="/team.php?team=20">Toronto Maple Leafs</option>
+		              <option value="/team.php?team=11">Vancouver Canucks</option>
+		              <option value="/team.php?team=28">Washington Capitals</option>
+							  	  
               <option value="./">   -------- LEAGUES -------- </option>
-                              <option value="/team.php?team=32">AHL </option>
-                              <option value="/team.php?team=35">AJHL </option>
-                              <option value="/team.php?team=36">ECHL </option>
-                              <option value="/team.php?team=50">NAHL </option>
-                              <option value="/team.php?team=29">OHL </option>
-                              <option value="/team.php?team=31">QMJHL </option>
-                              <option value="/team.php?team=33">USHL </option>
-                              <option value="/team.php?team=53">USNTDP </option>
-                              <option value="/team.php?team=30">WHL </option>
-                              <option value="./">   -------- COUNTRY --------  </option>                          
-                              <option value="/team.php?team=42">Czech Republic </option>
-                              <option value="/team.php?team=38">Finland </option>
-                              <option value="/team.php?team=49">Germany </option>
-                              <option value="/team.php?team=40">Norway </option>
-                              <option value="/team.php?team=41">Russia </option>
-                              <option value="/team.php?team=43">Slovakia </option>
-                              <option value="/team.php?team=37">Sweden </option>
-                              <option value="/team.php?team=39">Switzerland </option>
-                              <option value="/team.php?team=44">United Kingdom </option>
-                        
-              <option value="./">   -------- OTHER --------  </option>                            
+		              <option value="/team.php?team=32">AHL </option>
+		              <option value="/team.php?team=35">AJHL </option>
+		              <option value="/team.php?team=119">CIS </option>
+		              <option value="/team.php?team=36">ECHL </option>
+		              <option value="/team.php?team=50">NAHL </option>
+		              <option value="/team.php?team=57">NCAA </option>
+		              <option value="/team.php?team=29">OHL </option>
+		              <option value="/team.php?team=98">Other League OTH</option>
+		              <option value="/team.php?team=31">QMJHL </option>
+		              <option value="/team.php?team=76">UHL </option>
+		              <option value="/team.php?team=33">USHL </option>
+		              <option value="/team.php?team=30">WHL </option>
+		              <option value="./">   -------- COUNTRY --------  </option>			  
+		              <option value="/team.php?team=42">Czech Republic </option>
+		              <option value="/team.php?team=104">Denmark </option>
+		              <option value="/team.php?team=38">Finland </option>
+		              <option value="/team.php?team=49">Germany </option>
+		              <option value="/team.php?team=40">Norway </option>
+		              <option value="/team.php?team=41">Russia </option>
+		              <option value="/team.php?team=43">Slovakia </option>
+		              <option value="/team.php?team=37">Sweden </option>
+		              <option value="/team.php?team=39">Switzerland </option>
+		              <option value="/team.php?team=44">United Kingdom </option>
+			
+              <option value="./">   -------- OTHER --------  </option>				  
               <option value="./contactus.html">Contact Us</option>
-            </select>          
-</font></b></font></td>
-      </tr>
-    </tbody></table>
-    </font> 
-</td>
-</tr></tbody></table>
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-
-<td valign="top" width="95%" bgcolor="white">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td width="22" valign="top">
+                          </select>
+                        </div>
+		       </td>
+                      </tr>
+                    <tr>
+                      <td colspan="2"><img src="images/spacer.gif" width="252" height="5"></td>
+                      </tr>
+                    <tr>
+    </tr>
+</tbody></table>
 </td>
 </tr>
-</tbody></table>
+<tr>
+      </tr></tbody></table><table width="93%" valign="top" align="center" bgcolor="#FFFFFF">
+	<tbody><tr>
+       <td width="100%" colspan="3"><div align="left">
+                      <table width="100%" border="0" cellspacing="3" cellpadding="0">
+                        <tbody><tr>
+                          <td colspan="2" background="images-new/bg_title.gif" width="80%"><img src="images-new/t_privacypolicy.gif" width="141" height="33" alt=""></td>
+                        </tr>
 
-<center><table width="95%">
-<tbody><tr>
-        <td width="100%">
+		<tr>
+        <td width="100%" class="text">
+<blockquote>
 <b>Hockeysfuture.com's Privacy Policy</b><p> 
 
 hockeysfuture.com believes in keeping your confidential information just that...confidential. Subject to the terms below, we will not sell to or share with anyone your personally identifiable information. We will share with potential advertisers only aggregate visitor information. </p><p>
@@ -206,8 +421,8 @@ We may change this Privacy Policy from time to time and will post notices on thi
 
 If you have questions or concerns regarding est1967.com's Privacy Policy, please e-mail hockeysfuture.com at owner@hockeysfuture.com. 
 
-
-        </p></td>
+</p></blockquote>
+        </td>
       </tr>
 
 
@@ -215,30 +430,49 @@ If you have questions or concerns regarding est1967.com's Privacy Policy, please
       
 
 </tbody></table>
-<p>
+<p></p><div align="center">
 <b>Go back to <a href="http://www.hockeysfuture.com">Hockey's Future</a></b>
-
-</p></center></td>
-</tr>
-</tbody></table></center>
-
-
-
-
-
-<table border="0" width="768">
-<tbody><tr>
-<td>
-<hr>
-<center><font size="-1">
-Site Designed by: <a href="mailto:Owner@hockeysfuture.com">Beano Publishing</a> <br>
-Site Hosted by: <a href="http://www.hosting4less.com">Hosting4Less</a><br>
-Copyright © 1998-1999, Hockey's Future<br>
-All logos property of their respective teams. If we have any copyrighted photos that I am not aware of email me below and they will be taken down immediately.<br>
-</font></center></td>
+</div>
+</div></td>
 </tr>
 </tbody></table>
 
+</td>
+</tr>
+</tbody></table>
+
+
+                        </div></td>
+                      </tr>
+
+                    </tbody></table>
+                    
+                
+              
+            
+          
+        
+      
+    
+  
+  
+    <table width="100%" border="0" cellspacing="10" cellpadding="0">
+      <tbody><tr>
+        <td width="50%" class="Copyrights">All NHL logos and marks and NHL team logos and marks
+          as well as all other proprietary materials depicted herein are the property of the
+          NHL and the respective NHL teams and may not be reproduced without
+          the prior written consent of NHL Enterprises,  </td>
+        <td valign="top" class="Copyrights"><div align="right"><a href="advertising.php" class="Navorange">Advertise</a>&nbsp;|&nbsp;<a href="privacypolicy.php" class="Navorange">Privacy
+            Policy</a>&nbsp;| <a href="termsofuse.php" class="Navorange">Terms of Service</a> |
+          <a href="mailto:owner@hockeysfuture.com" class="Navorange">Feedback</a><br>
+	<span class="Copyrights">Hockeysfuture.com ©
+          2003. All Rights Reserved.</span> </div></td>
+      </tr>
+    </tbody></table>
+  
+
+<p>&nbsp;</p>
+<ddmenu></ddmenu>
 
 
 </body></html>
