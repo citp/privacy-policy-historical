@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obln.org privacy policy that was archived on 2003-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031224125307id_/http%3A//www.obln.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obln.org privacy policy that was archived on 2004-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040612142214id_/http%3A//www.obln.org/privacy.php) for the most accurate reproduction.*
 
 # Oregon Business Leadership Network
 
