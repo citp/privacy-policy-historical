@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the loqal.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602202328id_/http%3A//www.loqal.com/yp2/pg/privacy_policy/style/loqal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loqal.com privacy policy that was archived on 2004-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041212075722id_/http%3A//www.loqal.com/yp1/pg/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Loqal
+# Privacy Policy - loqal.com
 
 **Privacy Policy**
 
