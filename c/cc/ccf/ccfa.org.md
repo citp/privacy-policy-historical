@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204084705id_/http%3A//www.ccfa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccfa.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403160332id_/http%3A//www.ccfa.org/privacy) for the most accurate reproduction.*
 
-# CCFA.org: Privacy Page
+# CCFA.org: Privacy
 
 | 
 
@@ -25,19 +25,23 @@ We encourage you to note the following safeguards as to the information, service
   1. Names, addresses, and all other personal information supplied by participants in the Crohn's & Colitis Foundation of America (CCFA) and its Web Site are kept strictly confidential. CCFA does not supply this information to other parties. Users of this Web site may, however, receive communications, by e-mail or post, from CCFA from time to time. To the extent such information is submitted directly to CCFA, CCFA will endeavor to keep names, addresses, and all other personal information supplied by participants of the Crohn's & Colitis Web Site strictly confidential. Please keep in mind, however, that whenever you voluntarily disclose personal information online-for example on message boards, through e-mail, or in chat areas-that information can be collected and used by others.
   2. CCFA reserves the right to block individual access to this Web site for any reason it deems necessary.
 
-  
+|  |   
+[](http://content.ccfa.org/site/lookup.asp?c=hwKTJbNOJwF&b=308017)  
+[](http://content.ccfa.org/site/lookup.asp?c=hwKTJbNOJwF&b=390419)  
+[](http://content.ccfa.org/site/lookup.asp?c=hwKTJbNOJwF&b=394495)  
+[](https://web.archive.org/myccfa/volunteer)  
+[](https://web.archive.org/chapters/)   
 |   
-
-
+---  
+|  |   
   
-|  |  |   
----|---|---  
-  
-The Crohn's & Colitis Foundation of America is proud to recognize the support of the members of our [President's Corporate Circle](https://web.archive.org/pharmasponsors).  We wish to thank these companies for joining with us in the battle against inflammatory bowel disease.
-
-To view the members of our President's Corporate Circle, and the sponsors of this Web site, please [click here](https://web.archive.org/pharmasponsors).  
+[](https://web.archive.org/about/membermonth)  
   
   
   
+[](http://www.imodium.com/)  
   
-
+[](https://web.archive.org/pharmasponsors)  
+  
+  
+[](https://web.archive.org/physician/)
