@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the mediacorpsingapore.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604012244id_/http%3A//www.mediacorpsingapore.com/ect_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacorpsingapore.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207065408id_/http%3A//www2.mediacorpsingapore.com/privacy.php) for the most accurate reproduction.*
 
-# MediaCorp Singapore
+# Media Corporation of Singapore
 
-Privacy Policy Statement
+**
+
+## Privacy Policy Statement
+
+**
 
 This Privacy Policy Statement sets forth the privacy policy pertaining to this Site maintained by Media Corporation of Singapore - **www.mediacorpsingapore.com** , and all sites of the Media Corporation of Singapore which are linked to this Site (collectively, the "Sites"). By using any Site, you are agreeing to the terms set forth in this Privacy Policy Statement. 
 
@@ -27,5 +31,3 @@ It is Media Corporation of Singapore’s policy to keep Personal Information onl
 To make any request described above, send an e-mail to [editor@mediacorptv.com ](mailto:editor@mediacorptv.com%20)or write to Media Corporation of Singapore, Caldecott Broadcast Centre, Andrew Road, Singapore 299939. When contacting us, please be sure to provide us with your exact e-mail address, name, address and/or telephone number(s) in order to be sure we handle your request correctly. 
 
 Media Corporation of Singapore reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy Statement at any time. You should check this page periodically for changes. Your continued use of this Site following the posting of changes to this Privacy Policy Statement will mean that you accept those changes. 
-
-TOP
