@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotster.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203025346id_/http%3A//dotster.com/policy/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotster.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611164959id_/http%3A//dotster.com/policy/privacy/index.php) for the most accurate reproduction.*
 
 # Web Hosting - Domain Registration - E-mail Services
 
@@ -102,3 +102,5 @@ If we decide to change our privacy policy, we will post a notice on our Home pag
 8\. Final Statement
 
 We at Dotster will use your information in accordance with the privacy policy that is currently in effect.
+
+(Effective Date - August 11, 2003)
