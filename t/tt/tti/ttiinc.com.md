@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ttiinc.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609084137id_/http%3A//www.ttiinc.com/object/Internet_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ttiinc.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208165811id_/http%3A//www.ttiinc.com/object/Internet_Privacy_Policy.html) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
