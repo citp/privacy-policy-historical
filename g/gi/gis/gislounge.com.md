@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203214436id_/http%3A//gislounge.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gislounge.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607001126id_/http%3A//gislounge.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Statement - GIS Lounge
 
