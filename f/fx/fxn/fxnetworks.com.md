@@ -1,45 +1,78 @@
-> *The following text is extracted and transformed from the fxnetworks.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331020435id_/http%3A//www.fxnetworks.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxnetworks.com privacy policy that was archived on 2001-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011202132723id_/http%3A//www.fxnetworks.com/registration/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# FX Networks
 
-| 
+**FX NETWORKS, LLC PRIVACY POLICY**
 
-  
-**Privacy Policy**
+FX Networks, LLC ("FX") is part of the News America Group, which has adopted a set of Privacy Principles applicable to all its U.S.-based companies. FX has implemented those Principles in this Privacy Policy, which describes how we collect, use and share personally identifiable information ("PII") we obtain from and about individuals located in the U.S. 
 
-We at FX Networks, LLC and fXM Networks, Inc. (collectively "FX") understand that the Internet presents an opportunity for us to reach you, the public, in new and exciting ways with information about our programming, fun sweepstakes and contests, and other forms of interaction. Visitors to our web sites can be confident that we are very respectful of their privacy concerns. Specifically, we recognize the importance of protecting the privacy of personally identifiable information collected about our visitors. As a general policy, no personally identifiable information, such as name, address or e-mail address, is automatically collected from visitors to our site.
+From time to time FX may revise this Privacy Policy to reflect changes in the law, technology or industry initiatives. Therefore, you should review it periodically so that you are up to date on our most current policies and practices. 
 
-**IP ADDRESSES**
+COLLECTION: COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION ("PII") BY FX 
 
-We may collect and disclose certain non-personal information from your IP address. This information is used only to provide an enhanced on-line experience for our visitors by optimizing our web pages for your computer (i.e., the identity of your Internet browser, the type of operating system you use, and the domain name of your Internet service provider). We may also use this non-personal information to determine the total number of visitors to our web sites.
+   General. FX collects personally identifiable information ("PII" -- that is, information such as your full name, email address, mailing address or telephone number) only in order to create or enhance our relationship with you. When we collect PII from you it is because you are voluntarily submitting the information to us in order to participate in activities like sweepstakes, contests, games, surveys, forums, subscription registrations, content or suggestions you submit to us, chats or bulletin boards, or because you want us to furnish you with products, services or information. On those occasions when we obtain PII from a third party, we use only reputable sources of such information. 
 
-**USE OF COOKIES**
+   Cookies. Cookies are small bits of information that the Internet sites operated by FX place on the hard drive of your computer. Cookies remember information about your activities on our site(s) and enable FX to make your visits to our site(s) more enjoyable. For example, cookies can store your password for easy logon to a site you have previously visited, can save your preferences for a personalized home page or can track the items you have placed in your "shopping cart" during a visit to our online store. The cookie itself does not contain PII, and FX does not combine cookies with PII. 
 
-When you view our web site, we may store some information on your computer. This information will be in the form of a 'Cookie' or similar file and will help us in many ways. For example, Cookies allow us to tailor a web site to better match your interests and preferences. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions.
+Third party advertisements displayed on Internet site(s) operated by FX may also contain cookies. FX does not control these advertiser cookies and visitors to our web site(s) should check the privacy policy of the advertiser to see whether and how it uses cookies. 
 
-**PERSONALLY IDENTIFIABLE INFORMATION**
+On occasion, FX may use cookies to relate your use of our web site(s) to personally identifiable information you have submitted to us. For example, if you've asked us to send you information about our upcoming products or promotions, cookie information may allow us to limit the materials we send you to items we know you will find interesting, based on your prior online activities and preferences. However, if FX wishes to coordinate personal and cookie information in this manner, we will obtain your express prior consent (i.e., "opt in"). 
 
-Personally identifiable information about our visitors is collected only when knowingly and voluntarily submitted by those visitors. FX uses such information only for the purpose for which it was is submitted, unless we disclose other uses at the time of collection. FX does not sell or transfer personal information to third parties. FX may share personally identifiable information with other parts of our company. FX maintains appropriate safeguards to ensure the security, integrity, and privacy of personally identifiable information in its possession. FX may use such personally identifiable information in the aggregate (non-identifiable) form to make our web site better and more responsive to the needs of our visitors. This statistical compilation of non-identifiable information may also be used by or provided to others for marketing, advertising, or research purposes.
+You can program your computer to warn you each time a cookie is being sent or to refuse cookies completely. However, without cookies you won't have access to certain features on FX 's web site(s), such as the FX Networks Backlot. 
 
-**SWEEPSTAKES AND/OR CONTESTS**
+NOTICE: FX WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII COLLECTION PRACTICES 
 
-Sweepstakes, contests, games and other promotions run on FX's web sites may require the visitor to provide some personally identifiable information such as full name, address, e-mail address, and phone number, in order to participate. FX may use a reputable third party to manage and administer some of its sweepstakes and/or contests. This third party may have access to some of the personally identifiable information that is provided by the visitor in order to participate in the sweepstakes and/or contest. In those instances, the third party will be instructed by FX to use the personally identifiable information only for the specific sweepstakes and/or contest related purpose for which it was requested. Most often this information is used only to select and contact winners of the sweepstakes and/or contests. Any other use of the personally identifiable information by the third party is strictly prohibited. Our sweepstakes and/or contests are targeted to individuals 18 years of age and older, individuals under 18 years of age are not eligible to participate. FX requires proof of age in order to collect any prizes awarded.
+When FX collects PII from you, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses FX will make of the information. 
 
-**LINKS TO OTHER SITES**
+This Policy describes the types of other companies that may want to send you information about their products and services and therefore want to share your personal information (See "Use" below). However, at the time your PII is collected, FX will notify you of your options regarding our use of your personally identifiable information, including whether we can share it with outside companies (See "Choice" below). 
 
-FX chooses its advertisers and business partners carefully. However, FX is not responsible for the content or privacy practices of web sites operated by third parties that are linked to our web sites. These links are meant for the visitor's convenience only. Links to third party web sites do not constitute sponsorship, endorsement, or approval by FX of content, policies or practices of such sites. Once you have left a FX web site via such a link, you should check the applicable privacy policy of the third party site. FX's web site may also be linked to web sites operated by companies affiliated with FX. Visitors to those sites should refer to their separate privacy policies and practices.
+Sometimes we collect personally identifiable information from consumers in manual format, such as a post card or subscription form. Providing detailed notice in those situations often proves impractical, so consumers will instead be provided with a short notice that describes how to obtain the full text of this Policy and other relevant information from us. 
 
-*************************************************************************************
+FX 's web site(s) may be linked to Internet sites operated by other companies. Some of these third party sites may be co-branded with an FX logo, even though they are not operated or maintained by FX (for example, the NASCAR Family Chat Super Site). FX 's web site(s) also carry advertisements from other companies as well as advertisements placed by national Internet ad agencies. Although we choose our business partners and advertisers carefully, FX is not responsible for the privacy practices of web sites operated by third parties that are linked to our site[s] or for the privacy practices of third party or so-called national advertisers. Once you've left an FX site via such a link or by clicking on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine how they will handle any PII they collect from you. 
 
-By using our web sites, you agree to the Privacy Policy of FX. If you do not agree to the Policy, please do not use our web sites. FX reviews its Privacy Policy periodically and reserves the right in its discretion, to modify or remove portions of this Policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you would like to communicate with us about our Policy, please write to us at:
+FX 's web site(s) may also be linked to sites operated by companies affiliated with FX . Visitors to those affiliated sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Policy. 
 
-FX Networks, LLC  
-Business & Legal Affairs  
-1440 South Sepulveda Blvd.  
-Los Angeles, California 90025
+CHOICE: FX WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII 
 
-or e-mail us
+FX will provide you with the opportunity to choose whether your PII may be used for purposes different from the purpose for which it was submitted. You will also be able to choose whether your information is shared with companies that are not affiliated with FX (i.e., not part of the News America Group). 
 
-[Next -->](https://web.archive.org/web/20010331020435id_/http%3A//www.fxnetworks.com/registration/privacy2.html)
+USE: FX'S USE OF PII 
 
-| 
+FX will use your PII in a manner that is consistent with this Policy and only for the purpose for which it is submitted, unless other uses are disclosed at the time of collection and you allow us to use your information in these other ways. 
+
+FX may share your PII with companies that are affiliated with us, that is part of the News America Group of companies. FX may also share your PII with companies that are not affiliated with FX , but would like to send you information about their products and services. For example, some of the companies who supply prizes for FX 's contests may have special offers or promotions that might be of interest to FX Networks viewers. However, you will always have the opportunity to instruct us not to share your information with third parties. 
+
+FX employees, agents and contractors must have a legitimate business reason to obtain access to your PII. Outside contractors or agents who help us manage our information activities (i.e., sweepstakes administration, order fulfillment, statistical analyses) may only use PII to provide FX with a specific service and not for any other purpose. 
+
+If FX obtains PII from a third party, such as a business partner, our use of this information is governed by this Policy. 
+
+FX may be required to disclose PII to comply with legal requirements, such as a court order, and to protect the safety and security of visitors to our web sites. 
+
+SECURITY: FX PROTECTS THE SECURITY OF PII 
+
+FX uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, FX uses reasonable methods to make sure that PII is accurate, up-to-date and appropriately complete. 
+
+ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR PII 
+
+In most cases, FX will retain PII for ninety (90) days or less. In the event PII is retained for longer, FX has implemented a procedure for you to access, correct or delete your PII. 
+
+To access your PII, send an e-mail with the word "Privacy" in the subject line to user@FXNetworks.com, or a write to the FX Internet Privacy Officer at FX Networks, LLC, 1440 South Sepulveda Boulevard, Los Angeles, California 90025, requesting a listing of the PII that is on file for you. FX will respond no later than fifteen (15) business days from receipt of your request with a list of the PII on file. There may be certain instances when FX may not be able to provide the PII, such as when access would violate the privacy of another individual, when access is prohibited by law, or when the PII has been lawfully obtained from third party sources. 
+
+In the event the PII on file is incorrect, you may correct the PII by sending a written request for correction to the FX Internet Privacy Officer at FX Networks, LLC, 1440 South Sepulveda Boulevard, Los Angeles, California 90025, including all of the incorrect PII, the PII that you wish to change, and your signature authorizing such changes. FX will then correct the PII in its database and send a written confirmation to you within fifteen (15) business days. 
+
+If for any reason you wish to stop all future communications from FX, you may send an e-mail with the word "Privacy" in the subject line to user@FXNetworks.com, or a write to the FX Internet Privacy Officer at FX Networks, LLC, 1440 South Sepulveda Boulevard, Los Angeles, California 90025, requesting that your PII be permanently removed form any FX database. FX will send a written confirmation of such removal to you within fifteen (15) business days of receipt of your request. 
+
+REMEDIES AND COMPLIANCE: HOW TO CONTACT FX ABOUT PRIVACY CONCERNS 
+
+If you have concerns regarding privacy, your use of the FX websites, or the collection and use of PII, you may contact the following FX representative.: 
+
+Robert B. Carrasco  
+Manager, Business & legal Affairs   
+FX Networks, LLC   
+1440 South Sepulveda Boulevard  
+Los Angeles, California 90025  
+Telephone: (310) 444-8135  
+Telecopier: (310) 444-8510  
+e-mail: Privacy@FoxCable.com 
+
+You may also request a written response to your concerns, which will be made no later than thirty (30) days after you contact FX. 
