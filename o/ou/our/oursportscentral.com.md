@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602062931id_/http%3A//www.oursportscentral.com/ospage.cfm%3Ftopic%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oursportscentral.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214033229id_/http%3A//oursportscentral.com/ospage.cfm%3Ftopic%3Dprivacy) for the most accurate reproduction.*
 
-# OurSports Central
+# OurSports Central- Independent and Minor League Sports News
 
-## Privacy Policy
-
-Effective 9/26/00 
+Effective 9/28/01 
 
 Privacy Notice Table Of Contents: 
 
