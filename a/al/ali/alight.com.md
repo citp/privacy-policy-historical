@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402075329id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alight.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606141044id_/http%3A//www.alight.com/privacy-statement.html) for the most accurate reproduction.*
 
 # privacy statement
 
-alight.com is a Yahoo! Store. Yahoo! hosts our store pages, ordering system, and order data.   
-While Yahoo! automatically collects order information, it does not make it available to any other party. If you accessed us through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information. ********
+alight.com is committed to respecting the privacy of our customers and all visitors to our web site. We take this matter very seriously, and have instituted many policies and procedures to insure that none of your privacy rights are ever violated. alight.com is a part of the Yahoo! network of stores. Yahoo! hosts our store pages, ordering system, and order data.   
+While Yahoo! automatically collects order information, it does not make it available to any other party. If you accessed us through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the [Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information.
+
+********
 
 **What personally identifiable information is collected and how is it used?**   
   
