@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herzing.edu privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611180903id_/http%3A//www.herzing.edu/en/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herzing.edu privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402195426id_/http%3A//www.herzing.edu/en/privacy-policy.php) for the most accurate reproduction.*
 
 # Herzing System
 
