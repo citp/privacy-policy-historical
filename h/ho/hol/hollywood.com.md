@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010174126id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywood.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305225926id_/http%3A//www.hollywood.com/about_us/info/id/468709) for the most accurate reproduction.*
 
 # Hollywood.com
 
