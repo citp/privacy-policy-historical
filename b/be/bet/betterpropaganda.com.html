@@ -1,0 +1,301 @@
+<!--The following is the downloaded HTML source of the betterpropaganda.com privacy policy that was archived on 2004-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040524164713id_/http%3A//betterpropaganda.com/privacy_policy.asp) for the most accurate reproduction.-->
+
+<html><head>
+
+<title>betterPropaganda</title>
+
+<link rel="stylesheet" href="betterPropaganda.css" type="text/css">
+
+<script src="i_event_handlers.js" language="javascript" type="text/javascript"></script></head>
+
+<body bgcolor="#000000" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
+
+<center>
+
+<!-- HEADER, NAV -->
+<script>
+	function OnLoad( div_id )
+	{
+		//' called by all pages
+		if( div_id != "" )
+			ShowPanel( div_id, true)
+
+		setTimeout( "OnAdTimer()", 40000 )
+	}
+ad_ary[0] = new AD( "radiant_banner.gif", "http://www.radiantinc.com/" )
+ad_ary[1] = new AD( "file13banner.gif", "http://www.file-13.com/" )
+ad_ary[2] = new AD( "hostitoBanner.jpg", "http://www.hostito.com/vvc1.0/index.php?engine_id=35&aid_id=66告on=main" )
+ad_ary[3] = new AD( "Amnesty.gif", "http://www.musicforhumanrights.com/" )
+ad_ary[4] = new AD( "RTV_468x60-v3.gif", "http://www.rockthevote.com/rtv_register_betterprop.php" )
+ad_ary[5] = new AD( "LKNewRelease-011.gif", "http://www.lookoutrecords.com/index.php3" )
+ad_ary[6] = new AD( "TinoCorpAd.gif", "http://www.tinocorp.com" )
+ad_ary[7] = new AD( "bp_theobanner.gif", "http://www.ubiquityrecords.com" )
+ad_ary[8] = new AD( "XLR8R_banner04.gif", "http://www.xlr8r.com" )
+
+</script>
+
+<iframe id="music_player" width="0" height="0" frameborder="0" scrolling="no" src="blank.htm"></iframe>
+<div id="song_saved" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
+
+Notice: your song has been saved to your playlist.
+<br><br>
+<a href="my_playlist.asp" class="popup_alert_button">View</a>&nbsp;&nbsp;
+<a href="javascript:ShowPanel( 'song_saved', false)" class="popup_alert_button">Close</a>
+
+</div>
+
+<div id="delete_warning" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
+
+Warning: this action will remove all selected songs from your playlist.
+<br><br>
+<a href="javascript:DeleteOK()" class="popup_alert_button">OK</a>&nbsp;&nbsp;
+<a href="javascript:ShowPanel( 'delete_warning', false)" class="popup_alert_button">Cancel</a>
+
+</div>
+
+<div id="coming_soon" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
+
+This feature will be online soon.
+<br><br>
+<a href="javascript:ShowPanel( 'coming_soon', false)" class="popup_alert_button">Close</a>
+
+</div>
+
+<div id="stream_only" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
+
+Sorry, but this song is stream only. You can click the 'Listen' button to hear the song, but you can't save the file on your computer.
+<br><br>
+<a href="javascript:ShowPanel( 'stream_only', false)" class="popup_alert_button">Close</a>
+
+</div>
+
+
+<div id="forgot_pw" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
+
+Your password has been sent to your email account.
+<br><br>
+<a href="javascript:ShowPanel( 'forgot_pw', false)" class="popup_alert_button">Close</a>
+
+</div>
+
+<div id="listen_song" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px; width:300px">
+
+Please wait while we load the selected song...
+<br><br>
+
+</div>
+
+<div id="no_song" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
+
+Sorry, no sample is available for this song.
+<br><br>
+<a href="javascript:ShowPanel( 'no_song', false)" class="popup_alert_button">Close</a>
+
+</div>
+
+<div id="no_buy_cd" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px; width:300px">
+
+Sorry, no site is available for purchasing this CD.
+<br><br>
+<a href="javascript:ShowPanel( 'no_buy_cd', false)" class="popup_alert_button">Close</a>
+
+</div>
+
+<div id="artist_song" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px; width:300px">
+
+<b>NOW PLAYING:</b><br> unknown
+<br><br>
+<a href="javascript:ShowPanel( 'artist_song', false)" class="popup_alert_button">Close</a>
+
+</div>
+
+<div id="bp_radio" class="popup_alert" style="visibility:hidden; position:absolute; top:150px; left:250px;">
+<table>
+<tbody><tr><td colspan="2" class="black"><b>Select a channel:</b></td></tr>
+<tr>
+	<td class="black">1 </td>
+	<td class="black"><a href="javascript:OnBpRadioPlay(0,32)" class="bp_radio_hi_low">low</a><font class="bp_radio_hi_low"> | </font><a href="javascript:OnBpRadioPlay(0,128)" class="bp_radio_hi_low">high</a> &nbsp;All music</td>
+</tr>
+<tr><td class="black">2 </td>
+<td class="black"><a href="javascript:OnBpRadioPlay(3, 32 )" class="bp_radio_hi_low">low</a><font class="bp_radio_hi_low"> | </font><a href="javascript:OnBpRadioPlay(3, 128 )" class="bp_radio_hi_low">high</a> &nbsp;Electronic</td></tr>
+<tr><td class="black">3 </td>
+<td class="black"><a href="javascript:OnBpRadioPlay(2, 32 )" class="bp_radio_hi_low">low</a><font class="bp_radio_hi_low"> | </font><a href="javascript:OnBpRadioPlay(2, 128 )" class="bp_radio_hi_low">high</a> &nbsp;Hip Hop</td></tr>
+<tr><td class="black">4 </td>
+<td class="black"><a href="javascript:OnBpRadioPlay(4, 32 )" class="bp_radio_hi_low">low</a><font class="bp_radio_hi_low"> | </font><a href="javascript:OnBpRadioPlay(4, 128 )" class="bp_radio_hi_low">high</a> &nbsp;Rock</td></tr>
+<tr><td class="black">5 </td>
+<td class="black"><a href="javascript:OnBpRadioPlay(7, 32 )" class="bp_radio_hi_low">low</a><font class="bp_radio_hi_low"> | </font><a href="javascript:OnBpRadioPlay(7, 128 )" class="bp_radio_hi_low">high</a> &nbsp;Other</td></tr>
+
+<tr><td colspan="2" align="center" class="black"><br><a href="javascript:OnBpRadioPlay(-1)" class="popup_alert_button"><b>CANCEL</b></a></td></tr>
+</tbody></table>
+</div>
+
+<table width="790" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<td valign="top" height="40" width="390" bgcolor="#999999"><a href="http://betterpropaganda.com/home_page.asp" target="_top"><img src="images/BetterPropaganda_40x300.gif" width="300" height="40" border="0"></a></td>
+	<td valign="top" align="right" height="40" width="400" bgcolor="#999999">
+		<img src="images/clear.gif" width="1" height="20"><br>
+		<a href="about.asp" class="topnavsmallbutton">About Us</a><a href="javascript:OnBpRadio()" class="topnavsmallbutton">BP Radio</a><a href="login.asp" class="topnavsmallbutton">Login</a><a href="_logout.asp" class="topnavsmallbutton">Logout</a><a href="Blank" class="topnavsmallbutton3">&nbsp;</a>
+	</td>
+</tr>
+</tbody></table>
+
+<table bgcolor="white" width="790" height="17" border="0" cellpadding="0" cellspacing="0" style="height:17px" class="white4pxtop white4pxbottom">
+<tbody><tr>
+<td bgcolor="white"><img src="images/clear.gif" width="3" height="17"></td>
+
+<td class="topnavback" background="images/nav_button.gif" height="17" width="112">
+<a href="reviews.asp" class="topnavbutton">Reviews</a></td>
+<td class="topnavback" background="images/nav_button.gif" height="17" width="112">
+<a href="content_overview.asp" class="topnavbutton">Archive</a></td>
+<td class="topnavback" background="images/nav_button.gif" height="17" width="112">
+<a href="new_releases.asp" class="topnavbutton">NewReleases</a></td>
+<td class="topnavback" background="images/nav_button.gif" height="17" width="112">
+<a href="my_playlist.asp" class="topnavbutton">My Playlist</a></td>
+
+<td class="topnavback" background="images/nav_button.gif" height="17" width="112">
+<a href="top_downloads.asp" class="topnavbutton">TopDownloads</a></td>
+<td class="topnavback" background="images/nav_button.gif" height="17" width="112">
+<a href="artist_overview.asp" class="topnavbutton">Artists</a></td>
+<td class="topnavback" background="images/nav_button.gif" height="17" width="112">
+<a href="label_overview.asp" class="topnavbutton">Labels</a></td>
+<td bgcolor="white"><img src="images/clear.gif" width="3" height="17"></td>
+</tr></tbody></table>
+
+<!-- END HEADER, NAV -->
+
+<!-- MAIN BODY -->
+<table width="790" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="artistbodygray">
+<table width="774" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="artistbody">
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top" class="back_gray">
+<table height="484" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+	<!-- LEFT NAV -->
+	<td valign="top" class="white4pxright back_gray">
+		<form name="search_form" action="search_results.asp" method="post" style="margin:0px;padding:0px">			
+		<table name="search" border="0" cellpadding="0" cellspacing="0">
+		<tbody><tr>
+			<td valign="top" class="artistleftnav">
+			<img src="images/clear.gif" width="100" height="1" border="0"><br>
+			Search<br>
+			<input type="text" name="search_text" class="searchfield">
+			<img src="images/clear.gif" width="55" height="1" border="0"><input type="submit" class="searchbutton" value="Go" align="right">
+			</td>
+		</tr>
+		<tr>
+			<td class="artistleftnav" style="padding-top:4px;padding-bottom:4px;border-bottom:1px white solid; white solid">
+			Genres
+			</td>
+		</tr>
+		<tr>
+			<td class="artistleftnav" valign="top">
+			<a href="genre_page.asp?genre=3" class="artistleftnavlink"><img src="images/yellow.gif" width="8" height="8" border="0"> Electronic</a><br>
+<a href="genre_page.asp?genre=2" class="artistleftnavlink"><img src="images/yellow.gif" width="8" height="8" border="0"> Hip Hop</a><br>
+<a href="genre_page.asp?genre=4" class="artistleftnavlink"><img src="images/yellow.gif" width="8" height="8" border="0"> Rock</a><br>
+<a href="genre_page.asp?genre=7" class="artistleftnavlink"><img src="images/yellow.gif" width="8" height="8" border="0"> Other</a><br>
+
+			<br>
+			<br>
+			<a href="preferences.asp?redirect=registration.asp" class="artistleftnavlink2">Sign Up for<br>Weekly Propaganda</a>
+			<br>
+			<br>
+			<a href="advertise.asp" class="artistleftnavlink2">Advertise on BP</a>
+			<br>
+			<br>
+			<a href="download_mp3_player.asp" class="artistleftnavlink2">Download an MP3 Player</a>
+			<br>
+			<br>
+			<a href="javascript:OnRegister()" class="artistleftnavlink2">Register</a>
+
+			</td>
+		</tr>
+		</tbody></table>
+		</form>
+	</td>
+	<!-- END LEFT NAV -->
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="652" height="484" name="downloadsprofile"><tbody><tr>
+
+<td class="artistheadline" valign="top" height="22">
+Better Propaganda    Privacy Policy
+</td></tr><tr>
+<td valign="top" class="aboutprofile" height="460" style="padding-right:90px">
+
+
+We at Better Propaganda respect the privacy concerns of the users of this site and have created this privacy policy to explain (1) what information we gather from you when you visit our site, (2) how we may use such information, (3) your choices concerning how we may use such information and (4) the security measures we take to protect such information. Some information is collected on this site automatically through our technology; other information is collected only when you choose to give it to us (e.g., when you listen to music, register for a contest or sign up for a specific online transaction).
+<p>
+<b>Information We Gather Automatically</b><br>
+When you visit this site, certain non-personally identifying information is recorded automatically by the standard operation of our Internet servers. Information such as the type of browser being used, its operating system, and your computer's Internet Protocol ("IP") address (a number that your Internet service provider assigns to your computer whenever you surf the Internet) is gathered in order to facilitate our online operations and to assure an efficient online experience for you. We may also use or share this information for security purposes, to generate group statistics about our user community, or as required by law.
+</p><p>
+We may use your IP address or other automatically recorded information, in cooperation with your Internet provider, to identify you if it is necessary to contact you or to bring legal action against you because you are violating the <a class="bodylink" href="http://www.betterpropaganda.com/terms&amp;conditions.asp">Terms and Conditions</a> of use for this site or may be causing injury to or interference (intentionally or unintentionally) with our company's rights or property, other users of this site or anyone else who could be harmed by your activities.
+</p><p>
+<b>Personal Information You Provide To Us</b><br>
+We may request personally identifying information from you in a variety of contexts. For example, you may provide such data to us if you: (1) complete an online registration form (e.g., various sign-up forms for receiving email newsletters, registering for special offers, registering for an account, entering a contest or responding to a survey); (2) fill out an order form to request information; or (3) register to participate in chat rooms and other community features.
+</p><p>
+In such cases, the personally identifying information we request may include your name, email address, mailing address and zip code, phone number, and, where appropriate, a valid credit card number with expiration date (collectively, "Personal Information"). In addition, we may collect other non-personally identifying information such as your date of birth, gender, country of residence, language preference, hobbies and other information regarding your interaction with our site such as your listening habits, preferences and other customized activities in which you participate. Of course, you never have to answer any of the questions we ask you, but refusal to do so may limit the products or services we can offer or provide to you.
+</p><p>
+When you provide Personal Information to us, we will use that data to create a <a class="bodylink" href="http://betterpropaganda.com/preferences.asp">Account Information and Preferences</a> page for you, which will be held in a secure database. Others outside Better Propaganda Universal will not be allowed to see the data on your Account Information and Preferences page, except with your consent (see below). However, you will be able to access your Account Information and Preferences page at any time in order to update your individual Personal Information or to change your preferences (see below under "How Can You Correct or Review Your Personal Information?" for more details).
+</p><p>
+<b>How Can Your Personal Information Be Used?</b><br>
+When you purchase products or services from Better Propaganda, we will use your Personal Information to fulfill your order and for customer service. Many online customers are particularly concerned about their credit card information, which we will share only as required by companies involved in your transaction (e.g., fulfillment, billing, mailing, storage or delivery services). We will not share your credit card information with any other company unless it is involved in the fulfillment or delivery of your order. We will not rent, sell, or share credit card information with any promotional partners or other third parties.
+</p><p>
+We may use your Personal Information and non-personally identifying information we collect to update you about our products or services or to contact you about exciting offers of new Better Propaganda products or services that are of interest to you. You always have the option to receive fewer or no communications in the future from us by opting out. You may opt out by following the instructions included in the registration process or the specific communication you no longer wish to receive, by marking the appropriate item(s) on your Account Information and Preferences page, or by sending an email to <a class="bodylink" href="mailto:admin@betterpropaganda.com">admin@betterpropaganda.com</a> and explaining how you would like to modify your preferences.
+</p><p>
+<b>With third parties</b><br>
+When you give Personal Information to Better Propaganda, we may ask you to allow us to share that data (together with non-personally identifying information you may provide) with our promotional partners and third-party advertisers. In such instances, our general practice is to ask you to "opt-in" to share such data and information on either (i) a specific promotion, registration page or sweepstakes; or (ii) on your Account Information and Preferences page, whereby you can make an affirmative, specific choice about which kinds of promotional partners or advertisers may receive your Personal Information (e.g., only those in the music business, only those in the travel business, etc.). However, in some instances, we may ask you to "opt-out" from sharing such data and information with a given promotional partner or third party advertiser in connection with a specific promotion, registration page or sweepstakes. If you prefer, you may give us blanket permission to share your Personal Information with all of our promotional partners and third-party advertisers.
+</p><p>
+If you consent to share your Personal Information with our promotional partners and third-party advertisers, you are allowing such parties to use such Personal Information and to contact you in accordance with their own privacy policies. You have the option to change your mind and to stop us from further sharing your Personal Information with our promotional partners and third-party advertisers by "opting out" on your Account Information and Preferences page (as applicable), or by sending an email to <a class="bodylink" href="mailto:admin@betterpropaganda.com">admin@betterpropaganda.com</a>. We will not retrieve any Personal Information shared with our promotional partners and third-party advertisers prior to your decision to opt-out. If you wish to limit or discontinue receiving further communications from a promotional partner or third-party advertiser, please contact that company directly in the manner indicated in its own communications with you.
+</p><p>
+Finally, without any specific approval from you, Better Propaganda may develop general aggregate data (i.e., data that cannot be used to identify specific individuals) about you that is partly based on information about you and your transactions us. We may share such aggregate statistics with promotional partners and third-party advertisers without your consent. 
+</p><p>
+<b>For Legal Enforcement Purposes</b><br>
+We reserve the right to disclose your Personal Information, including credit card information, as required by law or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against you if you are violating the <a class="bodylink" href="http://www.betterpropaganda.com/terms&amp;conditions.asp">Terms and Conditions</a> of use for this site or may be causing injury to or interference (intentionally or unintentionally) with our company's rights or property, other users of this site or anyone else who could be harmed by your activities.
+</p><p>
+<b>How Can You Correct or Review Your Personal Information?</b><br>
+You can access, review, update and correct the Personal Information you have provided us, and review or change the "opt-in" or "opt-out" choices you have made, by clicking on your <a class="bodylink" href="http://betterpropaganda.com/preferences.asp">Account Information and Preferences</a> page. If you prefer, you can also contact us by email at <a class="bodylink" href="mailto:admin@betterpropaganda.com">admin@betterpropaganda.com</a>. 
+</p><p>
+<b>Safeguarding Your Personal Information</b><br>
+Better Propaganda cares about the security of your Personal Information. We follow generally accepted industry security standards to safeguard and help prevent unauthorized access, maintain data security and correctly use such Personal Information. When you provide credit card information, we use secure socket layer (SSL) encryption for that data. 
+</p><p>
+However, unfortunately, despite many advances in information security technology and procedures, no commercially deployed method of information transfer over the Internet or electronic data storage is known to be 100% secure. As a result, while we do strive to use modern and commercially reasonable means to protect your Personal Information, we cannot guarantee the absolute security of that information during its transmission or its storage in our systems.
+</p><p>
+<b>For Parents Concerning the Privacy of Information on Their Children</b><br>
+We are a general audience site that does not knowingly collect data or accept registrations from children under 13 years of age. We take reasonable steps to ensure that any users who may be under 13 years of age (and who attempt to complete the registration process on our site) are directed to another site outside of Better Propaganda which specifically complies with the notification requirements of the Children's Online Privacy Protection Act, or COPPA.
+</p><p>
+<b>Cookies</b><br>
+A "cookie" is a small text file that an Internet site can place on your computer's hard drive for record-keeping purposes. Cookies make using this site easier by, among other things, saving your passwords and preferences for you, keeping track of your shopping cart when you visit our online store or other similar purposes, and to help identify you whenever you return to our site, so you do not need to reenter your identification information.
+</p><p>
+Most Internet browsers are initially set up to accept cookies. However, you can reset your browser to refuse all cookies or to alert you when a cookie is being sent (note: you may need to consult your browser's "Help" area for instructions on how to do that). If you choose to disable your cookies setting or refuse to accept a cookie, some parts of this site will not function properly or may perform considerably slower. For example, without cookies, you will not be able to set personalized preferences or you may have difficulty completing shopping transactions, listening to music or playing games.
+</p><p>
+<b>Links to Other Sites</b><br>
+We do not endorse and are not responsible for the content or practices of web sites operated by companies outside of Better Propaganda Universal that may be linked to this site. You should not assume that their privacy policies or practices are the same as those followed by our company.
+</p><p>
+<b>How to Contact Us</b><br>
+If you have any questions or complaints about our Privacy Policy, please contact us at <a class="bodylink" href="mailto:admin@betterpropaganda.com">admin@betterpropaganda.com</a>. When we receive such inquiries about our Privacy Policy, we will use the Personal Information (such as your email address) only to respond to your question or comment. However, if your question raises one or more issues that affect our promotional partners, we may also share your question with them in order to provide a response.
+</p><p>
+<b>Changes in This Privacy Policy</b><br>
+We reserve the right to modify, alter or otherwise update this Privacy Policy at any time, so we encourage you to review this Privacy Policy from time to time. When we make changes, which we consider material in our privacy practices, we will notify you. We may also attempt to notify you of any such material changes to our privacy practices via email or by placing a notice on our home page.
+</p><p>
+<b>Acceptance of This Privacy Policy</b><br>
+By using this site, you consent to the collection and use of your Personal Information by Better Propaganda in accordance with this Privacy Policy. 
+
+
+
+
+
+</p></td></tr></tbody></table>
+<!-- END RIGHT HAND COLUMN -->
+
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+</td></tr></tbody></table>
+
+<!-- END MAIN BODY -->
+<script language="javascript" type="text/javascript" src="footer.js"></script><style> .footerlink:hover { text-decoration:underline } .footerfont  { font-family:arial,helvetica; font-size:9px; line-height:11px; color:#999999 } .footerlink  { font-family:arial,helvetica; font-size:9px; line-height:11px; color:999999; text-decoration:none } </style> <br><table width="790" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="footerfont">©&nbsp;2004 <a class="footerlink" href="http://www.betterpropaganda.com" target="_top">BetterPropaganda</a>. All rights reserved. <a class="footerlink" href="http://betterpropaganda.com/privacy_policy.asp">Privacy Policy</a>. <a class="footerlink" href="http://betterpropaganda.com/terms&amp;conditions.asp">Terms &amp; Conditions</a>.
+
+
+
+
+
+</td></tr></tbody></table></center></body></html>
