@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204234338id_/http%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbuyingtips.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605032432id_/http%3A//www.carbuyingtips.com/privacy.htm) for the most accurate reproduction.*
 
 # CarBuyingTips.com new car buying guide, avoiding dealer scams, used car buying and selling
 
@@ -13,7 +13,7 @@ We collect aggregate information on what pages consumers access or visit, inform
 
 The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, and not shared with other organizations for commercial purposes.
 
-With respect to cookies: We do not set any cookies. 
+With respect to cookies: We do set cookies but they are only used to remember the state of your session.  No information gathered from cookies is shared with any third party and no personally identifiable information is gathered using cookies. 
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. Each advertiser has their own privacy privacy that can be viewed on their web site.
 
