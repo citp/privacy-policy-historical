@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reunion.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604114907id_/http%3A//www.reunion.com/site-root/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reunion.com privacy policy that was archived on 2004-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041229081253id_/http%3A//www.reunion.com/site-root/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Reunion.com - Reunite With Old High School Friends and Old Flames Today!
 
