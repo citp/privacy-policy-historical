@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thingamajob.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607214435id_/http%3A//www.thingamajob.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thingamajob.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216182432id_/http%3A//thingamajob.com/privacy_statement.html) for the most accurate reproduction.*
 
-# thingamajob.com - Privacy Statement
+# Privacy Statement
 
-  |  [](https://web.archive.org/web/20010607214435id_/http%3A//www.thingamajob.com/job_search.html)[](https://web.archive.org/web/20010607214435id_/http%3A//www.thingamajob.com/account_info.html)[](https://web.archive.org/web/20010607214435id_/http%3A//www.thingamajob.com/online_resume.html)[](https://web.archive.org/web/20010607214435id_/http%3A//www.thingamajob.com/job_alerts.html)[](https://web.archive.org/web/20010607214435id_/http%3A//www.thingamajob.com/need_help.html) |   | 
+  |  [](https://web.archive.org/web/20011216182432id_/http%3A//thingamajob.com/job_search.html)[](https://web.archive.org/web/20011216182432id_/http%3A//thingamajob.com/account_info.html)[](https://web.archive.org/web/20011216182432id_/http%3A//thingamajob.com/online_resume.html)[](https://web.archive.org/web/20011216182432id_/http%3A//thingamajob.com/job_alerts.html)[](https://web.archive.org/web/20011216182432id_/http%3A//thingamajob.com/need_help.html) |   | 
 
 **thingamajob.com** is strongly committed to protecting the privacy of all visiting job seekers that post personal information on the site. We understand the sensitivity felt by job seekers when conducting a job search via the Internet and we want to provide a safe and secure environment. **thingamajob.com** firmly believes in our job seeker's right to privacy and security; therefore we have implemented a privacy statement aimed at your protection.
 
@@ -20,8 +20,9 @@ Technology referred to as cookies makes the web more useful by storing informati
 
 **Questions**
 
-If at any time, you have any questions or concerns about the **thingamajob.com** site or our policy, please feel free to contact us at 1-877-42-THING (1-877-428-4464) or submit an [online help form](https://web.archive.org/web/20010607214435id_/http%3A//www.thingamajob.com/help_form.html).
+If at any time, you have any questions or concerns about the **thingamajob.com** site or our policy, please feel free to contact us at 1-877-42-THING (1-877-428-4464) or submit an [online help form](https://web.archive.org/web/20011216182432id_/http%3A//thingamajob.com/help_form.html).
 
 Thank you again for visiting **thingamajob.com**.
 
+  
 |  
