@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alldaychemist.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611182147id_/http%3A//alldaychemist.com/privacy-policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alldaychemist.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205222942id_/http%3A//alldaychemist.com/privacy-policies.asp) for the most accurate reproduction.*
 
 # Privacy Policies
 
