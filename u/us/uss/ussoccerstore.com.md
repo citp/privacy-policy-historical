@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ussoccerstore.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205010629id_/http%3A//www.ussoccerstore.com/ussoccerstore/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussoccerstore.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607203731id_/http%3A//www.ussoccerstore.com/ussoccerstore/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| | [](https://web.archive.org/web/20021205010629id_/http%3A//www.ussoccerstore.com/ussoccerstore/index.html)
+| | [](https://web.archive.org/web/20040607203731id_/http%3A//www.ussoccerstore.com/ussoccerstore/index.html)
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
@@ -58,13 +58,13 @@ We use industry standard efforts to safeguard the confidentiality of your person
   8. **Contacting Us**   
 If you have any questions about this privacy policy statement, the practices of this site, or your dealings with this web site, please contact: Customer Service  
 US Soccer Store  
-P.O. Box 2058  
-Roanoke, Texas 76262
+P.O. Box 5218  
+Granbury, Texas 76049
 
 [customerservice@ussoccerstore.com  
 ](mailto:customerservice@ussoccerstore%20.com)  
-Tel: 817-491-8824  
-Fax: 817-491-8834
+Tel: 817-279-6349  
+Fax: 817-573-8309
 
 
 
