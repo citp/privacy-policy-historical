@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008172122id_/http%3A//www.vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitadigest.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605201109id_/http%3A//vitadigest.com/privacypolicy.html) for the most accurate reproduction.*
 
 # VitaDigest - The Vitamins Supplement & Sports Nutrition SuperStore Privacy Policy
 
