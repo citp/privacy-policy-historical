@@ -1,30 +1,28 @@
-> *The following text is extracted and transformed from the txlottery.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203012502id_/http%3A//www.txlottery.org/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the txlottery.org privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603223725id_/http%3A//www.txlottery.org/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Lottery Commission Information
 
 | [](https://web.archive.org/index.cfm)  
 ---  
-[](https://web.archive.org/newsalert.cfm)  
-[](https://web.archive.org/info/askdir.cfm)  
-[](https://web.archive.org/legal/)  
-[](https://web.archive.org/jobs.cfm)  
-[](https://web.archive.org/faq.cfm)  
-[](https://web.archive.org/claimloc.cfm)  
-[](https://web.archive.org/contact.cfm)  
-[](https://web.archive.org/news/news.cfm)  
-[](https://web.archive.org/playerconnect/pcintro.cfm)  
-[](https://web.archive.org/applications/appforms.cfm)  
-[](https://web.archive.org/sitemap.cfm)  
-    
-    
-[ ](http://www.cast.org/bobby "Bobby's Home Page")  
+|  |   
+| [Results & More](https://web.archive.org/online/online.cfm) |   
+   
+| [Scratch  
+Offs](https://web.archive.org/scratchoffs/scratchoffs.cfm) |   
+   
+| [From the Executive Director](https://web.archive.org/info/askdir.cfm) |   
+   
+| [Claim Centers](https://web.archive.org/claimloc.cfm) |   
+   
+| [License & Retailer Forms](https://web.archive.org/applications/appforms.cfm) |   
+   
 |  | [](https://web.archive.org/online/lotto.cfm) |  | [](https://web.archive.org/online/txtwostep.cfm)  
 ---|---|---  
-**$6 Million**   
+**$33 Million**   
 ESTIMATED JACKPOT  
-for **12/04/02** |  **$1.1 Million**   
+for **06/04/03** |  **$ 900,000**   
 ESTIMATED JACKPOT  
-for **12/03/02**  
+for **06/03/03**  
  |   
  **Texas Lottery Commission Privacy Policy**
 
