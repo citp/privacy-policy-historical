@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201024926id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604051451id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
 
 # AllAboutVision.com Privacy Policy
 
@@ -10,7 +10,7 @@
 
 All About Vision’s policy is to respect the privacy of visitors to our website. This policy describes how we gather information from our site’s visitors and what we do with it.
 
-How We Collect Information
+### How We Collect Information
 
 Our web server automatically recognizes each visitor’s domain name and we collect the domain name of visitors to our website for the purposes of system administration. A domain name does not provide us with personally identifiable information.
 
@@ -18,7 +18,7 @@ You can visit our website without revealing any information about yourself. Our 
 
 We use electronic records to compile statistics about how collectively our visitors interact with our website. These statistics contain no personal information. **By voluntarily providing us with information about yourself, you are consenting to our use of it in accordance with this policy.**
 
-How We Use Information
+### How We Use Information
 
 We use the personally identifiable information we collect for internal purposes such as improving our products and services, sending you e-mail (at your request only) about topics you have specified, to show you the categories of banner ads in which you are most likely to be interested and learning about our users’ needs.
 
@@ -38,11 +38,11 @@ We are very concerned about protecting the children who use our site. We never s
 
 In some cases, such as our e-mail newsletter sign-up, we require a parent's written permission for children under 13 to participate. In cases where we would normally post a person's first name on our site (such as a contest winner), we will choose a false name for any child under 18, if a parent asks us to do so.
 
-Other Sites
+### Other Sites
 
 You have the opportunity to access other sites from AllAboutVision.com, by either clicking on a site's link or on an advertisement. Please be aware these sites are outside the control of All About Vision, LLC, and that their privacy policies are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection. 
 
 For more articles about vision and eye health, use the pull-down menu at the top of this page.  
  
 
-|  |  |  |  |  | 
+|  |  |  |   |  | 
