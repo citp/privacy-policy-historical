@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204071100id_/http%3A//i-love-cats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-love-cats.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602052122id_/http%3A//www.i-love-cats.com/privacy.html) for the most accurate reproduction.*
 
 # I-Love-Cats.com - Privacy
 
-**I-Love-Cats.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [I-Love-Cats.com ](http://www.i-love-cats.com/)
+**I-Love-Cats.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [I-Love-Cats.com ]()
 
 #### Advertisers
 
@@ -37,4 +37,4 @@ Our site provides users the opportunity to opt-out of receiving promotional/mark
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
 
 
-[meow@i-love-cats.com ](mailto:meow@i-love-cats.com)
+[meow@i-love-cats.com](mailto:meow@i-love-cats.com)[ ](mailto:meow@i-love-cats.com)
