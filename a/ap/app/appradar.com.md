@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203102941id_/http%3A//www.appsecinc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appradar.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611213710id_/http%3A//www.appsecinc.com/privacy.html) for the most accurate reproduction.*
 
 # Application Security Inc. - Securing Business by Securing Enterprise Applications
 
