@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seapointgolflinks.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211210544id_/http%3A//www.seapointgolflinks.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seapointgolflinks.com privacy policy that was archived on 2005-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050329102713id_/http%3A//www.seapointgolflinks.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome To Seapoint Golf Club
 
