@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biz-logo.com privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210023300id_/http%3A//www.biz-logo.com/geninfo/rights.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biz-logo.com privacy policy that was archived on 2001-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010807160221id_/http%3A//www.biz-logo.com/geninfo/rights.html) for the most accurate reproduction.*
 
 # Disclaimer & Privacy Policy
 
@@ -21,6 +21,6 @@ The following information is our policy of how your personal information will be
 
 BizLOGO collects information based upon information that you provide in order to give you the products and services you seek. You should be aware BizLOGO's Internet access partners, advertisers, and web sites that have links on our site may collect personally identifiable information about you. The information practices of those Internet access partners, advertisers, and web sites linked to BizLOGO are not covered by this privacy statement, nor are we responsible for their policies and/or practices. By clicking on a banner you acknowledge that certain information about you may be collected. Occasionally, opportunities may arise that we believe our visitors and clients would be interested in. In such event this information may be supplied to those companies, unless you notify us otherwise. You may email us with instructions to remove you from any e-mail and promotions list that we maintain.
 
-Document Last Modified 01/31/2020 12:49:11 
+Document Last Modified 01/31/2020 12:49:10 
 
 ### [Return to HOME Page](http://www.biz-logo.com/index.html)
