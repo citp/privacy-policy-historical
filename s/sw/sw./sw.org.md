@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sw.org privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607145540id_/http%3A//www.sw.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sw.org privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204153500id_/http%3A//sw.org/privacy.htm) for the most accurate reproduction.*
 
 # Scott & White Privacy Policy Statement
 
@@ -9,7 +9,7 @@
 >  2401 South 31st Street  
 >  Temple, TX 76508**
 > 
-> We can be reached via e-mail at [webmaster](mailto:webmaster@mailbox.sw.org), or by telephone at 254-724-8302. 
+> We can be reached via e-mail at [webmaster](mailto:webmaster@mailbox.sw.org), or by telephone at 254-724-4080. 
 > 
 > For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address.
 > 
@@ -42,5 +42,5 @@
   
 
 
-Copyright © 1998 by Scott & White Hospital and Clinic.  
+Copyright © 1998-2000 by Scott & White Hospital and Clinic.  
 All rights reserved.
