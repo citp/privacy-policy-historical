@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamtalk.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610195535id_/http%3A//www.teamtalk.com/Privacy_Agreement/0%2C5397%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtalk.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205081908id_/http%3A//www.teamtalk.com/Privacy_Agreement/0%2C5397%2C%2C00.html) for the most accurate reproduction.*
 
 # Welcome to TEAMtalk
 
