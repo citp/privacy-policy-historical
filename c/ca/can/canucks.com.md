@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622080009id_/http%3A//canucks.com/subpage.asp%3FsectionID%3D181) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canucks.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205020825id_/http%3A//www.canucks.com/subpage.asp%3FsectionID%3D181) for the most accurate reproduction.*
 
 # Canucks.com - Security & Privacy
 
