@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smcm.edu privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208175910id_/http%3A//www.smcm.edu/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smcm.edu privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401164400id_/http%3A//www.smcm.edu/privacy.cfm) for the most accurate reproduction.*
 
 # St. Mary's College of Maryland at Historic St. Mary's City
 
