@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the pitb.gov.pk privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211144354id_/http%3A//www.pitb.gov.pk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitb.gov.pk privacy policy that was archived on 2005-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050323221957id_/http%3A//www.pitb.gov.pk/contact/privacy.asp) for the most accurate reproduction.*
 
-# PITB Privacy Policy
+# PITB Privacy Policy!
+
+**Privacy Policy**
 
 The Punjab Information Technology Board (PITB) is committed to protecting privacy of the users (the Users) of www.pitb.gov.pk (the Website) and to making the Users’ online experience secure, comfortable, valuable and pleasant.
 
