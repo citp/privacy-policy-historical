@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the shwedream.com privacy policy that was archived on 2004-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041208010907id_/http%3A//www.shwedream.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shwedream.com privacy policy that was archived on 2005-03-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050306190909id_/http%3A//www.shwedream.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -40,7 +40,7 @@
 </script>
 <script type="text/javascript" src="./popmenu/popmenu_var.js"></script>
 <script type="text/javascript" src="./popmenu/popmenu_com.js"></script>
-<script language="JavaScript" src="dropads.js"></script>
+<!---- <script language="JavaScript" src="dropads.js"></script> ---->
 
 <div align="left">
 <table border="0" width="80%"><tbody><tr><td>
@@ -48,7 +48,7 @@
 </td>
 <td align="center">
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="468" height="60">
-    <param name="movie" value="mkm_actc_banner.swf">
+    <param name="movie" value="alex_chit_thu_banner.swf">
     <param name="quality" value="high">
     <param name="menu" value="false">
     <embed src="mkm_actc_banner.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="468" height="60"> 
@@ -93,9 +93,12 @@
 			<img src="images/home1.gif" alt=""></td>
 		<td background="images/middletab.gif" valign="bottom">
 		<div id="MenuPos2" style="position:relative; width:105; height:1;"><a onmouseover="PopMenu('PopMenu2',event)" onmouseout="OutMenu('PopMenu2')" class="menu" href="./index.php?action=myaccount" id="menu2">Your Media Station</a></div>		</td>
+
 		<td align="left" valign="bottom">
 			<img src="images/righttab.gif" alt=""></td>
-
+			
+		<td align="left" valign="bottom">
+			<a href="./community/index.php"><img src="images/community.gif" alt="" border="0"></a></td>
         <td align="right" valign="bottom">
 			<img src="images/ecard.gif" alt=""></td>
 		<td background="images/middletab.gif" valign="bottom">
@@ -126,7 +129,50 @@
 <table border="0" cellpadding="0" cellspacing="0" width="80%" bgcolor="white">
 <tbody><tr>
 <td background="./images/mainwin_02.gif" class="w">
-December 7, 2004, 8:08 pm</td>
+<script language="JavaScript">
+<!--
+function GetDay(nDay)
+{
+	var Days = new Array("Sunday","Monday","Tuesday","Wednesday",
+	                     "Thursday","Friday","Saturday");
+	return Days[nDay]
+}
+
+function GetMonth(nMonth)
+{
+	var Months = new Array("January","February","March","April","May","June",
+	                       "July","August","September","October","November","December");
+	return Months[nMonth] 	  	 
+}
+
+function DateString()
+{
+	var Today = new Date();
+	var suffix = "th";
+	switch (Today.getDate())
+	{
+		case 1:
+		case 21:
+		case 31: 
+			suffix = "st"; break;
+		case 2:
+		case 22:
+			suffix = "nd"; break;
+		case 3:
+		case 23:
+			suffix = "rd"; break;
+	};
+
+	var strDate = GetDay(Today.getDay()) + " " + Today.getDate();
+	strDate += suffix + " " + GetMonth(Today.getMonth()) + ", " + Today.getYear();
+	return strDate
+}
+//document.write(DateString());
+//-->
+</script>
+<!-----
+March 6, 2005, 11:09 am---->
+</td>
     <td width="6" height="26"><img src="./images/mainwin_04.gif" width="6" height="26"></td>
     <td background="./images/mainwin_06.gif">&nbsp;</td>
     <td width="6" height="26"><img src="./images/mainwin_08.gif" width="6" height="26"></td>
@@ -217,7 +263,7 @@ function emailMedia(id,type) {
       </tr>
 
 
-<tr><td align="left"><b>Shwe Dream Album 4<font color="red">[Video]</font></b><br>Chaw Su Khin, Kabyar Bwe Mu, Twel Tar, Graham, Sai Sai Khan Hlaing, Yadanar Oo, Examplex, Alex, Tinzar Maw, Tun Tun, Rebecca Win<br><div align="right"><img src="./images/video.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('102','album');"><img src="./images/albumphotos/album4.gif" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr><tr><td align="left"><b>Kan Sat Ka Chay Yar Myar-2<font color="red">[Video]</font></b><br>Sone Thin Par, Chaw Su Khin, Tint Tint Tun, Nge Nge, Tin Zar Maw, Mie Mie Khane, Yuzana, Khin Bone, Connie, Shin Phone<br><div align="right"><img src="./images/video.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('101','album');"><img src="./images/albumphotos/kansat2_video.jpg" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr><tr><td align="left"><b>Nga Ko Chit Tal Thu<font color="red">[Video]</font></b><br>R Zar Ni<br><div align="right"><img src="./images/video.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('100','album');"><img src="./images/albumphotos/KP1209A.jpg" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr>
+<tr><td align="left"><b>Yay Pyaw Nget Toe Ye Yin Khone Than-2<font color="red">[Video]</font></b><br>Zaw Win Htut, Myo Kyawt Myaing, Graham, R Zarni, Phyo Gyi, E-Toe, Tint Tint Htun, Tin Zar Maw, Yuzana, ACID, EXAMPLEZ, NO<br><div align="right"><img src="./images/video.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('116','album');"><img src="./images/albumphotos/yay2.gif" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr><tr><td align="left"><b>Yay Pyaw Nget Toe Ye Yin Khone Than-1<font color="red">[Video]</font></b><br>Zaw Win Htut, Myo Kyawt Myaing, Graham, R Zarni, Phyo Gyi, E-Toe, Tint Tint Htun, Tin Zar Maw, Yuzana, ACID, EXAMPLEZ, NO<br><div align="right"><img src="./images/video.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('115','album');"><img src="./images/albumphotos/yay1.gif" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr><tr><td align="left"><b>Hay Mar Nay Win Live Show - 2<font color="red">[Video]</font></b><br>Kyel Ta Pwint Mway Phwar Chin<br><div align="right"><img src="./images/video.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('114','album');"><img src="./images/albumphotos/haymarvcd2.gif" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr>
 
 
     </tbody></table></td>
@@ -264,8 +310,12 @@ function emailMedia(id,type) {
 		<a href="http://www.shwenet.com" target="_blank">&nbsp;•&nbsp;ShweNet.com</a>	
 		</td>
       </tr>
-
-
+      <tr>
+        <td>
+		<a href="http://www.redmyanmar.net" target="_blank">&nbsp;•&nbsp;RedMyanmar.Net</a>	
+		</td>
+      </tr>
+ 
       <tr>
         <td><br>
 		Please contact us to link your website.
@@ -502,7 +552,7 @@ window.open("./exit.php?adid="+id)
 </font><div class="Myborder" align="center"><font color="white">
 
 
-30 users online.
+67 users online.
 <!---<div style="padding:5px;">
 <div class=Myborder align="center"><SCRIPT language=javascript src="slide2.js"></SCRIPT></div>
 </div>
@@ -532,7 +582,7 @@ window.open("./exit.php?adid="+id)
 
 
 
-<tr><td align="left"><b>Kaungkin Yel Kyel Sin<font color="red">[Audio]</font></b><br>Lon Loon<br><div align="right"><img src="./images/audio.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('103','album');"><img src="./images/albumphotos/lonloon.jpg" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr><tr><td align="left"><b>Chit Lar<font color="red">[Audio]</font></b><br>R Zarni, Thiha, Graham, Zine, Bo Bo,Yadanar Oo, Chaw Su Khin, Sone Thin Par, Shin Phone<br><br>Provided by www.myanmarmp3.net<br><div align="right"><img src="./images/audio.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('99','album');"><img src="./images/albumphotos/chitlar.jpg" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr><tr><td align="left"><b>Kyar Sa Gar<font color="red">[Audio]</font></b><br>Than Thar Win<br><div align="right"><img src="./images/audio.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('97','album');"><img src="./images/albumphotos/kyarsagar.jpg" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr>
+<tr><td align="left"><b>A chit shi thaw nay swel myar<font color="red">[Audio]</font></b><br>Myo Kyawt Myaing, Sai Sai Khan Hlaing, Phyo Gyi, R Zarni, Han Htoo Lwin, Zay Yar Taw, Lil Kaung Myat, Sone Thin Par, NgeNge, Moet Moet, Khin Bone, Shwe Htike, Zan Noo <br>Provided by <font color="green">FlashBand.net</font><br><br><div align="right"><img src="./images/audio.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('107','album');"><img src="./images/albumphotos/achitshi.jpg" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr><tr><td align="left"><b>Kaungkin Yel Kyel Sin<font color="red">[Audio]</font></b><br>Lon Loon<br><div align="right"><img src="./images/audio.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('103','album');"><img src="./images/albumphotos/lonloon.jpg" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr><tr><td align="left"><b>Chit Lar<font color="red">[Audio]</font></b><br>R Zarni, Thiha, Graham, Zine, Bo Bo,Yadanar Oo, Chaw Su Khin, Sone Thin Par, Shin Phone<br><br>Provided by www.myanmarmp3.net<br><div align="right"><img src="./images/audio.gif" border="0"></div><font color="red">Click on album photo to 	play.</font><div align="center"><a href="javascript:showMedia('99','album');"><img src="./images/albumphotos/chitlar.jpg" border="0" width="130" height="130"></a></div></td></tr><tr><td><hr class="yellow"></td></tr>
 
 
 
@@ -749,45 +799,45 @@ Search by keywords:<br>
 
 
 
-<!---- ads box --->
-</p><div id="dropin" style="position: absolute; visibility: visible; left: 250px; top: 78px; width: 405px; height: 200px; background-color: transparent;">
+<!---- ads box 
+<div id="dropin" style="position:absolute;visibility:hidden;left:250px;top:100px;width:405px;height:200px;background-color:transparent">
 
 <div style="padding:5px;">
-<table height="205" width="405" bgcolor="#008000">
-  <tbody>
-  <tr>
-    <td>
-<!---	#f0fff0 --->
-      <table height="200" width="400" bgcolor="#378AE7">
-        <tbody>
-        <tr>
-         <td valign="center">
-  	    <div align="right" style="position:absolute;right:10px;top:10px"><img src="./images/logo_trans.gif"></div><font color="white" face="verdana" size="2">
-		</font><div style="padding:4px;"><font color="white" face="verdana" size="2">
+<TABLE height=205 width=405 bgColor=#008000>
+  <TBODY>
+  <TR>
+    <TD>
+
+      <TABLE height=200 width=400 bgColor=#378AE7>
+        <TBODY>
+        <TR>
+         <TD vAlign=center >
+  	    <div align="right" style="position:absolute;right:10px;top:10px"><img src="./images/logo_trans.gif"></div><font color=white face=verdana size="2">
+		<div style="padding:4px;">
 		<br><br><br>
-		<b>WE ARE STILL MOVING.</b><br><br> 
-		<b>We have moved all of our music files to the new server. From now on, all music files are streamed from Windows Media Server. But we are still moving our main website and database. 
+		<b>Welcome to ShweDream.com</b><br><br> 
+		<b>If you see this message, we have moved everything to the new server. From now on, all music files are streamed from Windows Media Server. 
 		<br><br>
 		Please use our contact us page to report any problems with our site. 
 		<br><br>
-		Date posted : 2004-12-06 
+		Date posted : Demcember 11, 2004
 		<br><br>
 		Posted by : admin </b></font>
-  	    <div align="right"><a href="#" onclick="dismissbox();return false">[Close]</a></div>
+  	    <div align="right"><a href="#" onClick="dismissbox();return false">[Close]</a></div>
 		</div>
-  	    </td>
-        </tr>
-		</tbody>
-	  </table>
-    </td>
-   </tr>
-   </tbody>
-</table>
+  	    </TD>
+        </TR>
+		</TBODY>
+	  </TABLE>
+    </TD>
+   </TR>
+   </TBODY>
+</TABLE>
 
 </div>
 
 </div>
 
-<!---- end of ads box -->
+end of ads box -->
 
-</body></html>
+</p><div id="PopMenu1_1c" style="visibility: hidden; position: absolute; background-color: rgb(66, 66, 66); width: 97px; height: 102px; z-index: 101; top: 94px; left: 397px;"><div id="PopMenu1_1" style="position: absolute; visibility: inherit; width: 93px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: default; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 1px;">Videos<img src="./popmenu/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 88px;"></div><div id="PopMenu1_2" style="position: absolute; visibility: inherit; width: 93px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: default; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 21px;">Audios<img src="./popmenu/tri.gif" style="position: absolute; width: 5px; height: 10px; top: 5px; left: 88px;"></div><div id="PopMenu1_3" style="position: absolute; visibility: inherit; width: 93px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 41px;">Male Artists</div><div id="PopMenu1_4" style="position: absolute; visibility: inherit; width: 93px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 61px;">Female Artists</div><div id="PopMenu1_5" style="position: absolute; visibility: inherit; width: 93px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 81px;">Groups Artists</div></div><div id="PopMenu1_1_1c" style="visibility: hidden; position: absolute; background-color: rgb(66, 66, 66); width: 152px; height: 62px; z-index: 102; top: 0px; left: 96px;"><div id="PopMenu1_1_1" style="position: absolute; visibility: inherit; width: 148px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 1px;">Single Albums</div><div id="PopMenu1_1_2" style="position: absolute; visibility: inherit; width: 148px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 21px;">Couple Albums</div><div id="PopMenu1_1_3" style="position: absolute; visibility: inherit; width: 148px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 41px;">Various Albums</div></div><div id="PopMenu1_2_1c" style="visibility: hidden; position: absolute; background-color: rgb(66, 66, 66); width: 152px; height: 62px; z-index: 102; top: 20px; left: 96px;"><div id="PopMenu1_2_1" style="position: absolute; visibility: inherit; width: 148px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 1px;">Single Albums</div><div id="PopMenu1_2_2" style="position: absolute; visibility: inherit; width: 148px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 21px;">Couple Albums</div><div id="PopMenu1_2_3" style="position: absolute; visibility: inherit; width: 148px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 41px;">Various Albums</div></div><div id="PopMenu2_1c" style="visibility: hidden; position: absolute; background-color: rgb(66, 66, 66); width: 162px; height: 102px; z-index: 101; top: 94px; left: 437px;"><div id="PopMenu2_1" style="position: absolute; visibility: inherit; width: 158px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 1px;">Music Station</div><div id="PopMenu2_2" style="position: absolute; visibility: inherit; width: 158px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 21px;">Horoscopes</div><div id="PopMenu2_3" style="position: absolute; visibility: inherit; width: 158px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 41px;">Edit Your Profile</div><div id="PopMenu2_4" style="position: absolute; visibility: inherit; width: 158px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 61px;">View Member Profiles</div><div id="PopMenu2_5" style="position: absolute; visibility: inherit; width: 158px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 81px;">Weekly DVD Review</div></div><div id="PopMenu3_1c" style="visibility: hidden; position: absolute; background-color: rgb(66, 66, 66); width: 102px; height: 22px; z-index: 101; top: 94px; left: 542px;"><div id="PopMenu3_1" style="position: absolute; visibility: inherit; width: 98px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 1px;">E-cards</div></div><div id="PopMenu4_1c" style="visibility: hidden; position: absolute; background-color: rgb(66, 66, 66); width: 117px; height: 42px; z-index: 101; top: 94px; left: 587px;"><div id="PopMenu4_1" style="position: absolute; visibility: inherit; width: 113px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 1px;">Contact Us</div><div id="PopMenu4_2" style="position: absolute; visibility: inherit; width: 113px; height: 18px; padding-left: 2px; padding-top: 2px; overflow: hidden; cursor: pointer; background-color: white; color: rgb(95, 98, 254); font-family: arial; font-size: 11px; font-weight: normal; font-style: normal; left: 1px; top: 21px;">Guest Book</div></div></body></html>
