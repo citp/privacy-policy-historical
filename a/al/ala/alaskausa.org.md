@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405044802id_/http%3A//www.alaskausa.org/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskausa.org privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207091153id_/http%3A//www.alaskausa.org/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,26 +16,33 @@ Alaska USA will:
   * Investigate member inquiries and correct any inaccuracies promptly.
   * Never sell its member list to third parties.
   * Share membership information with credit union subsidiaries and companies that assist Alaska USA in providing services to members.  These subsidiaries and companies will be given only the information they need in order to provide the service, and must agree to protect confidential member information.
-  * Disclose the identity of any third-party contractor upon request.REV 03/99
+  * Disclose the identity of any third-party contractor upon request.
 
 
+
+  
+[Download a copy of our Member Privacy Disclosure](http://www.alaskausa.org/downloads/MemberPrivacy.pdf) (pdf format)REV 03/01
 
 * * *
 
-**Additional privacy details regarding our Web Site**
+ **Additional privacy details regarding Alaska USA's Web Site**
 
- **Browsing our site**
+ **Browsing the site**
 
-All web servers record information about each page request.  These server log files contain no personally identifiable information other than the IP address of the machine used to access the site.  We retain and aggregate this information and analyze it to better understand the nature of the use of our site and to improve the usability of the site.
+Alaska USA web servers record information about each page request.  These server log files contain no personally identifiable information other than the IP address of the machine used to access the site.  Alaska USA retains and aggregates this information and analyzes it to better understand the nature of the use of the site and to improve its usability.
 
  **Cookies**
 
-A cookie is a piece of data that a website can send to your browser.  Our site does not currently use cookies.
+A cookie is a piece of data that a website can send to your browser.  No personal information will be stored in a cookie provided by Alaska USA's web site.
 
- **Submitting comments**
+ **Linked Sites**
 
-Our site contains multiple pages where a user may provide comments about our website.  Information submitted on these pages is retained and used to improve the functionality of the site.
+As a convenience, Alaska USA provides links to a number of web sites hosted by other organizations.  These organizations do not have a contractual relationship with Alaska USA and the credit union is not responsible for the accuracy of the content presented at these sites.  Similarly, Alaska USA does not control security on the site or information collected at the site and does not represent either party in any transactions entered into at the site.  You are encouraged to review posted privacy and/or user agreements for all sites outside an Alaska USA domain address.1
 
- **Linked sites**
+ **Contract Service Providers**
 
-From our website you may access a variety of sites maintained by third parties.  These sites are managed by organizations that may or may not have a business relationship with the credit union.  The content presented at these sites and information collected at these sites is not controlled by Alaska USA.  Refer to the privacy statement at each site for additional information about how that particular organization manages information.
+Alaska USA uses a number of contract service organizations to provide members online access to financial information or services.  These sites may display Alaska USA's logo, but are not part of Alaska USA's domain (web site).  Security and privacy are controlled by the site's host and not by Alaska USA.  While generally similar, security practices and privacy policies may be different at these sites.  Refer to the posted privacy statement and/or user agreements at each site for additional information about how that particular organization manages information.  Alaska USA requires all service providers to agree to adhere to the principles in its privacy policy.
+
+* * *
+
+ **(1)** A domain address is a key part of all web page addresses (URLs) and identifies the host that provides the page. A URL contains a primary domain address (ex. "alaskausa.org"), and may in addition contain a local server name and local page address.  AlaskaUSA.org is Alaska USA's primary domain address.  Alaska USA also maintains the primary domains AlaskaUSAMortgage.com, AlaskaUSAInsurance.com and AlaskaUSATrust.com
