@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rage3d.com privacy policy that was archived on 2000-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000616184415id_/http%3A//rage3d.com/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rage3d.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208151400id_/http%3A//www.rage3d.com/info/privacy.shtml) for the most accurate reproduction.*
 
 # Rage3D Privacy Statement
+
+| 
 
 ##   
 Dear Rage3D Visitors
@@ -36,4 +38,6 @@ Rage3D [news@rage3d.com](mailto:news@rage3d.com)
 
 **Advertising Policy**
 
-Rage3D works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to [http://www.flycast.com/about_us/about-privacy.html. ](http://www.flycast.com/about_us/about-privacy.html)
+This site, Rage3D, uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, go to [http://www.engage.com/privacy. ](http://www.engage.com/privacy)
+
+|  
