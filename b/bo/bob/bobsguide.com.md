@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621154202id_/http%3A//www.bobsguide.com/cgi-bin/guide/vinfo.pl%3FID%3Dbg%26hkey%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobsguide.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008062032id_/http%3A//www.bobsguide.com/cgi-bin/guide/vinfo.pl%3FID%3Dbg%26hkey%3Dprivacy) for the most accurate reproduction.*
 
 # Bobsguide Privacy statement for visitors
 
-This privacy statement is issued by MyGuides Ltd. It applies to visitors to the site. This does not apply to information collected from Vendors.
+This privacy statement is issued by MyGuides Ltd. It applies to visitors to the site. This does not apply to information collected from Vendors who contribute nformation to the site.
 
  **Information this site gathers  
 ** We collect names, email, job title, type of business, main uses of the guide, company, address, web site, telephone and fax number. 
@@ -51,7 +51,7 @@ The system records your member code and if you access your member area, an encry
 Some graphics (advertisements) on the site may be provided by a third party. We do not provide personal information to any such third party which would allow them to associate your personal information with any information they may gather.
 
  **Visitor's book (Guest Book)**  
-Additions to the visitor's book are shown on the site.
+The site no longer has a visitors book.
 
  **Security**  
 Access to data is limited to key employees through use of passwords. 
