@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602110608id_/http%3A//ldproducts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldproducts.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803102658id_/http%3A//www.ldproducts.com/privacy.html) for the most accurate reproduction.*
 
 # LD Products - Privacy statement
 
 | **LD Products : Privacy Notice**  
-Effective **12/01/1999**
+Updated: **07/01/2002**
 
 **Privacy Notice Table Of Contents:**
     Our Commitment To Privacy
@@ -73,6 +73,20 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 Should you have other questions or concerns about these privacy policies, please call us at [888-321-2552] or send us an email.
 
+    **  
+**
+****Transactional Information:** **
+    
+
+We make every effort to ensure that your purchase experience at LD Products is secure. We use state-of-the-art data encryption technology to protect against loss, misuse or alteration of your user information. Secure Socket Layers (SSL) encrypt the information sent between your computer and our database. In addition, we use Internet fraud screening to protect credit card transactions. 
+
+To be sure you're browsing secure pages, check your Web browser's status bar (located at the bottom of the window) for the closed padlock icon. This icon appears in the latest versions of Internet Explorer and Netscape Navigator to tell you that you are viewing a secure web page. Also, all browsers display an "s" after the "http" (https://…) in the Web site address to indicate that you're in a secure environment. 
+
+We also protect your purchase by preventing the shipment of merchandise to a fraudulent address. All billing addresses are verified electronically with UPS and the US Postal Service and all alternate shipping addresses are verified manually. Any customer shipping to an address that differs from the billing address must put this alternate address on file with his or her credit card company. We then call the credit card issuer to verify that the customer has indeed put the information on file. 
+
+****
+**
+
 * * *
 
 | 
@@ -93,3 +107,4 @@ Any actual, proclaimed, or inferred trademarks mentioned are the property of the
 ---|---|---  
   
  
+**********
