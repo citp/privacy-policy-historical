@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfwmd.gov privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605103732id_/http%3A//www.sfwmd.gov/misce/1_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfwmd.gov privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205011921id_/http%3A//www.sfwmd.gov/misce/1_privacy.html) for the most accurate reproduction.*
 
 # SFWMD Internet Privacy Policy
 
@@ -14,7 +14,7 @@ If you have other questions about the South Florida Water Management District's 
 
  
 
-[SFWMD's Internet Privacy Policy](http://www.sfwmd.gov/misce/1_privacy.html)  
-Use of information herein constitutes acceptance of our [disclaimer](https://web.archive.org/web/20030605103732id_/http%3A//www.sfwmd.gov/misce/1_disclaim.html).
+[SFWMD's Internet Privacy Policy](https://web.archive.org/misce/1_privacy.html)  
+Use of information herein constitutes acceptance of our [disclaimer](https://web.archive.org/web/20031205011921id_/http%3A//www.sfwmd.gov/misce/1_disclaim.html).
 
-  [Who to Contact](https://web.archive.org/web/20030605103732id_/http%3A//www.sfwmd.gov/misce/1_contact.html) || [Site Map](https://web.archive.org/web/20030605103732id_/http%3A//www.sfwmd.gov/misce/1_sitemap.html) || [Search](https://web.archive.org/web/20030605103732id_/http%3A//www.sfwmd.gov/misce/1_search.html) || [Webmaster](https://web.archive.org/web/20030605103732id_/http%3A//www.sfwmd.gov/misce/1_webmastr.html) || [Site Design](https://web.archive.org/web/20030605103732id_/http%3A//www.sfwmd.gov/misce/1_sitedes.html) || [Issues in Review](https://web.archive.org/web/20030605103732id_/http%3A//www.sfwmd.gov/misce/1_issuesrev.html) || [Special Features](https://web.archive.org/web/20030605103732id_/http%3A//www.sfwmd.gov/misce/1_spfeatur.html) || [Home](https://web.archive.org/web/20030605103732id_/http%3A//www.sfwmd.gov/misce/1_textonly.html) (text version) || [E-Mail](mailto:mkirchho@sfwmd.gov,pkochan@sfwmd.gov)
+  [Who to Contact](https://web.archive.org/web/20031205011921id_/http%3A//www.sfwmd.gov/misce/1_contact.html) || [Site Map](https://web.archive.org/web/20031205011921id_/http%3A//www.sfwmd.gov/misce/1_sitemap.html) || [Search](https://web.archive.org/web/20031205011921id_/http%3A//www.sfwmd.gov/misce/1_search.html) || [Webmaster](https://web.archive.org/web/20031205011921id_/http%3A//www.sfwmd.gov/misce/1_webmastr.html) || [Site Design](https://web.archive.org/web/20031205011921id_/http%3A//www.sfwmd.gov/misce/1_sitedes.html) || [Issues in Review](https://web.archive.org/web/20031205011921id_/http%3A//www.sfwmd.gov/misce/1_issuesrev.html) || [Special Features](https://web.archive.org/web/20031205011921id_/http%3A//www.sfwmd.gov/misce/1_spfeatur.html) || [Home](https://web.archive.org/web/20031205011921id_/http%3A//www.sfwmd.gov/misce/1_textonly.html) (text version) || [E-Mail](mailto:mkirchho@sfwmd.gov,pkochan@sfwmd.gov)
