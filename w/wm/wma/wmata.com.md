@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408132202id_/http%3A//www.wmata.com/about/datause.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmata.com privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215191027id_/http%3A//www.wmata.com/about/datause.cfm) for the most accurate reproduction.*
 
 # Metro privacy and data use policy
 
@@ -80,8 +80,8 @@ Metro diligently protects its intellectual property and will take all steps to p
 **Please note:  
 We are required to release personal information if it is subpoenaed by a court or grand jury. We may also provide statistics based on the information automatically collected from your visit to federal, state and city officials.**
 
-If you have any questions or concerns about our privacy policy, please [contact customer service](https://web.archive.org/web/20020408132202id_/http%3A//www.wmata.com/riding/ridercomment.cfm). 
+If you have any questions or concerns about our privacy policy, please [contact customer service](https://web.archive.org/web/20021215191027id_/http%3A//www.wmata.com/riding/ridercomment.cfm). 
 
 | 
 
-[](https://web.archive.org/riding/metrochek/metrochek.cfm)
+[ ](https://web.archive.org/tile_rotator/redirect.cfm?BanID=3)
