@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech-recipes.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204234624id_/http%3A//www.tech-recipes.com/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-recipes.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404041220id_/http%3A//www.tech-recipes.com/modules.php%3Fname%3DContent%26pa%3Dshowpage%26pid%3D1) for the most accurate reproduction.*
 
 # Tech-Recipes.com - Content
 
@@ -10,7 +10,7 @@ Personally identifiable information is data that uniquely refers to a specific u
 
 We use third-party advertising companies to serve ads when users visit our websites. These companies may use information about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. This information does not include information such as name, address, email address or telephone number. If you would like more information about this practice, please reference the privacy pages of those specific companies. 
 
-[Amazon’s Privacy Policy](https://web.archive.org/web/20041204234624id_/http%3A//www.tech-recipes.com/%E2%80%9Dhttp://www.amazon.com/exec/obidos/tg/browse/-/468496/102-3875138-5537765%E2%80%9D) [Google’s Privacy Policy](http://www.google.com/privacy.html)
+[Amazon’s Privacy Policy](https://web.archive.org/web/20050404041220id_/http%3A//www.tech-recipes.com/%E2%80%9Dhttp://www.amazon.com/exec/obidos/tg/browse/-/468496/102-3875138-5537765%E2%80%9D) [Google’s Privacy Policy](http://www.google.com/privacy.html)
 
 The functioning of this web site uses cookies for basic functions, such as the ability to recognize a logged-in user. Our third-party advertisers may place or identify unique cookies within your system. 
 
@@ -25,6 +25,6 @@ Questions regarding this privacy policy may be directed to [privacy@tech-recipes
 
 Copyright © by Tech-Recipes.com All Right Reserved.
 
-Published on: 2003-10-04 (365 reads)
+Published on: 2003-10-04 (762 reads)
 
 [ Go Back ]
