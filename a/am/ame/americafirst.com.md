@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americafirst.com privacy policy that was archived on 2001-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010613085251id_/http%3A//www.americafirst.com/privacy_security/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americafirst.com privacy policy that was archived on 2001-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011023235101id_/http%3A//americafirst.com/privacy_security/index.html) for the most accurate reproduction.*
 
 # AFCU - Privacy/Security
 
