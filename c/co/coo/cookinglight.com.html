@@ -1,660 +1,107 @@
-<!--The following is the downloaded HTML source of the cookinglight.com privacy policy that was archived on 2002-01-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020127091237id_/http%3A//www.cookinglight.com/customerservice/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cookinglight.com privacy policy that was archived on 2002-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021211220402id_/http%3A//cgi.timeinc.net/cgi-bin/magsubs/privacy/privacy_central.pl/cooklight) for the most accurate reproduction.-->
 
 <html><head>
-<title>Cooking Light - Privacy Policy</title>
-<link rel="stylesheet" href="../includes/clstyles.css">
-<script language="JavaScript1.1" src="http://ads.web.aol.com/file/adsWrapper.js"></script>
-<script language="JavaScript">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Uniform Time Inc. Online Privacy Policy</title>
+<!-- Style Sheet Drop-in -->
+</head><body bgcolor="#FFFFFF"><font face="Times New Roman" ,arial=""> 
 
 
-<!--
-var P_isLoaded = false;
-function P_checkUnload() {
-        if(P_isLoaded && (document.layers||document.all))P_closeDown();
-}
-// -->
-
-</script><script language="JavaScript1.2">
-
-<!--
-if(!document.cookie) { 
-        document.cookie = "PopUpCalls=0;path=/;";
-}
-if ((document.layers || document.all) && document.cookie) { 
-        var P_showPop=true;
-} else {
-        var P_showPop=false; 
-}
-
-if (P_showPop) {
-        P_Rules = new Array();
-// section 2: magazine rules
-        P_Mag="CookingLight";
-        P_Rules[0] = "~cookinglight.com/"; // rules array contains definitions of internal links (links that will not get a popup).  "~" means contains and "!" means does not contain.  Rules can be combined with logical "and" using "&&": ~time.com/&&!/digital/ is one way of combining these tools.     
-        P_Rules[1] = "~www.cookinglight.com/";
-        P_Rules[2] = "~www.southernprogress.com/";
-        P_Rules[3] = "~secure.customersvc.com/";
-	P_Rules[4] = "~cookinglight.allrecipes.com/";
-        //P_Hours = 0; // number of hours till next popup
-        P_Hours = 3.00; // number of hours till next popup
-        P_Source = "http://www.cookinglight.com/popups/ONEXIT.asp";// /URL of popup
-	
-        P_Height = 236; // height of popup window
-        P_Width = 389; // width of popup window
-        P_cookieDomain = false; // if you want to specify a domain for this cookie, add it here, e.g. ".pathfinder.com";
-// section 3: program. minimal comments follow
-        P_today = new Date();
-        P_todayNum = P_today.valueOf();
-        var P_LeftChip="";
-        var P_RightChip="";
-        var P_Chip="";
-        var P_DocCookie = unescape(document.cookie);
-        if(P_DocCookie.length>0) {
-                P_begin=P_DocCookie.indexOf("PopUpCalls=");
-                if(P_begin != -1) {
-                        P_begin += 11; // 11 is length of string "PopUpCalls="
-                        P_end=P_DocCookie.indexOf(";", P_begin);
-                        if (P_end==-1) P_end=P_DocCookie.length;
-                        P_Cookie=P_DocCookie.substring(P_begin, P_end);
-                        P_ChipStart=P_Cookie.indexOf(P_Mag+"=");
-                        if(P_ChipStart>-1) {
-                                P_LeftChip=P_Cookie.substring(0,P_ChipStart);
-                                P_ChipStart+=1+P_Mag.length
-                                P_ChipEnd=P_Cookie.indexOf("|",P_ChipStart);
-                                if(P_ChipEnd==-1) P_ChipEnd = P_Cookie.length;
-                                P_Chip=P_Cookie.substring(P_ChipStart,P_ChipEnd);
-                                P_RightChip=P_Cookie.substring(P_ChipEnd);
-                                if(P_todayNum < parseInt(P_Chip)) P_showPop = false;
-                        } else {
-                                P_LeftChip=P_Cookie;
-                                P_RightChip="";
-                        }
-                }
-        }
-}
-function P_checkClick(ev) { // onClick function
-        if(P_showPop) {
-                P_Link="";
-                if(document.layers) {
-                        P_Test=ev.target.toString().toLowerCase();
-
-                        if(P_Test.substring(0,6)=="<input") {
-                                P_showPop = false;
-                        } else {
-                                P_Link=P_Test;
-                        }
-                } else if (document.all) {
-                                                P_myElement = window.event.srcElement;
-                                                while(P_myElement.tagName.toLowerCase()!="a" &&
-                                                  P_myElement.tagName.toLowerCase()!="body" &&
-                                                  P_myElement.tagName.toLowerCase()!="input" &&
-                                                  P_myElement.tagName.toLowerCase()!="area" ) {
-                                                        P_myElement = P_myElement.parentElement;
-                                                }
-                        P_tag = P_myElement.tagName.toLowerCase();
-                        if (P_tag=="a" || P_tag=="area") {
-                                P_Link=P_myElement.href;
-                        } else if(P_tag=="input") {
-                                P_showPop=false;
-                        }
-
-                }
-                P_Link=P_Link.toLowerCase();
-
-        var P_ToReplace = /\x2F/g;
-        P_URL = self.location.pathname;
-        P_URL = P_URL.replace(P_ToReplace, "\[\/\]"); 
-        var P_ToMatch = new RegExp(P_URL + "[/]{0,1}(index.|default.){0,1}[^.]*#", "i");
-                var P_RV = P_Link.search(P_ToMatch);
-
-                if(P_Link!="" && (P_RV==-1) && (P_Link.substring(0,4)=="http")) {
-                        if(P_isInternal(P_Link)) {
-                                P_showPop=false;
-                        }
-                }
-                if(document.layers) {
-                        routeEvent(ev);
-                        return true;
-                }
-        }
-}
-function P_isInternal(P_URL) { // function to evaluate whether a URL is internal (should not get a popup)
-        for (i=0;i < P_Rules.length;i++) {
-                P_Parts = P_Rules[i].split("&&");
-                P_Result = true;
-                for (j=0;j < P_Parts.length;j++) {
-                        P_Search = P_URL.indexOf(P_Parts[j].substring(1));
-                        P_Call = P_Parts[j].charAt(0);
-                        if ((P_Search==-1 && P_Call=="~") || (P_Search>-1 && P_Call=="!")) {
-                                P_Result = false;
-                                break;
-                        }
-                }
-                if(P_Result) return true; 
-        }
-        return false; 
-}
-function P_closeDown() { // onunload function
-        if(P_showPop) { 
-                popupWin = window.open(P_Source, "POPUPCK", "height=" + P_Height + ",width=" + P_Width + ","); 
-                P_Chip = P_todayNum + (P_Hours * 60 * 60 * 1000);
-                P_today.setTime(P_today.getTime() + (31 * 24 * 60 * 60 * 1000));
-                document.cookie = "PopUpCalls=" + escape(P_LeftChip + P_Mag + "=" + P_Chip + (P_RightChip.charAt(0)=="|"?"":"|") + P_RightChip) + ";path=/; expires=" + P_today.toGMTString()+(P_cookieDomain?";domain="+P_cookieDomain:"")+";";  //
-        }
-} 
-
-function P_popupoff() { // added by JQ 3/27/00 to disable popup
-    P_showPop = false;
-}
-
-function P_NSform (ev) { // Netscape 4.x form submit capture
- P_showPop = false;
-    routeEvent(ev);
-    return true;
-}
- 
-if (P_showPop) { // setting up click capture
-  if(document.layers) { 
-    window.captureEvents(Event.CLICK | Event.SUBMIT);
-    window.onClick=P_checkClick;
-    window.onSubmit=P_NSform;
-  }
-  if(document.all) {
-    document.onclick=P_checkClick;
-  }
-}
-
-// code (vanity plate): Gary Poster, with essential assists from Galyn Norwood, Phiroon Phihakendr, Jose Quijada, Pavandeep Kalra. Copyright 2000 Time Inc.
-// note: we tried to eliminate the need for all body tag event handlers but onunload proved to be necessary because otherwise Netscape produces security errors when the cookie is set (even when the unload event is captured).
-// -->
-P_isLoaded=true;
-function PopWindow_CKPopup(sWebRoot)
-{
-     var wName= "Popup";
-     var wOptions= 	"toolbar=no"					+ "," + 
-					"location=no"					+ "," + 
-					"directories=no"				+ "," + 
-					"status=no"						+ "," + 
-					"menubar=no"					+ "," + 
-					"scrollbars=no"					+ "," + 
-					"resizable=no"					+ "," + 
-					"width=430"	+ "," + 
-					"height=430";
- 
-  if (bShowSLPopup)
-  {
-  	pWindow = window.open(sWebRoot + 'includes/CKPopup/CKpopup.asp', 'CKPopup', wOptions);
-  	bShowSLPopup = 0;
-  }
-}
-</script></head>
-<!-- The following seven lines are the error catching routine and should only be necessary on flat pages.  When used, the body tag
- should address P_checkUnload rather than P_closeDown 
-'''''''''''''''''''''''''''''Revision  1''''''''''''''''''''''''''''''''
-'Date:04/01/01
-'Name:jeff Carlisle
-'Project Number:00186
-'Change:Change the pop up source to
-http://www.CookingLight.com/includes/popups/ck2free/ck2free.asp
-and pop up size
-''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
--->
-
-<!-- the following is the main script, to be placed in the includes.  If it is divided into three segments as listed below, it will be more flexible in the future, but it is not necessary-->
-<!-- section 1: initialize -->
 
 
-<body onunload="P_checkUnload();" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" link="#CC0000" vlink="#666633" alink="#CCCC99" onload="MM_preloadImages('../images/nav_food_on.gif','#932686072240');
-MM_preloadImages('../images/nav_comm_on.gif','#933003781130');
-MM_preloadImages('../images/pi_questions_on.gif','#933004157260');
-MM_preloadImages('../images/pi_about_us_on.gif','#933004180820');
-MM_preloadImages('../images/pi_advertising_on.gif','#933004227120');
-MM_preloadImages('../images/pi_jobs_on.gif','#933004249970');
-MM_preloadImages('../images/pi_site_map_on.gif','#933004278150');
-MM_preloadImages('../images/pi_notices_on.gif','#933004299570');
-MM_preloadImages('../images/pi_annual_indexes_on.gif','#933004321150')">
-<a name="topofpage"></a> 
-
-<table width="620" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td>
-<script language="Javascript">
-tophat=("<IFRAME SRC=\"http://toolbar.netscape.com/tw_hat/iframe/filter_ckl.html\" WIDTH=\"100%\" FRAMEBORDER=\"0\" HEIGHT=\"26\" MARGINHEIGHT=\"0\" MARGINWIDTH=\"0\" SCROLLING=\"no\">\n");
-middlehat = "";
-bottomhat=("\n</IFRAME>\n");
-</script>
-
-<script language="Javascript" src="http://toolbar.netscape.com/toolbar.twhat?template=wbn&amp;dom=ckl">
-</script>
-
-<script language="Javascript">
-document.write(tophat + middlehat + bottomhat);
-</script><iframe src="http://toolbar.netscape.com/tw_hat/iframe/filter_ckl.html" width="100%" frameborder="0" height="26" marginheight="0" marginwidth="0" scrolling="no">
-
-</iframe>
-
-</td>
-</tr>
-</tbody></table>
-<!--Begin Top Ad Block-->
-<table border="0" width="620" valign="top" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td valign="top">
-		<!--Begin Top Left Ad-->
-
-<script language="JavaScript1.1">
-<!--
-htmlAdWH('93101260', '468', '60');
-//-->
-</script>
-<noscript>
-<A HREF="http://ads.web.aol.com/link/93101260/aol">
-<IMG SRC="http://ads.web.aol.com/image/93101260/aol" ALT="Click here to visit our
-advertiser." WIDTH=468 HEIGHT=60 BORDER=0></A>
-</noscript>
-
-<!--End Top Left Ad-->
-		</td>
-		<td align="right" valign="top">
-		<!--Begin Top Right Ad-->
-
-<script language="JavaScript1.1">
-<!--
-htmlAdWH('93100949', '120', '60');
-//-->
-</script>
-<noscript>
-<A HREF="http://ads.web.aol.com/link/93100949/aol">
-<IMG SRC="http://ads.web.aol.com/image/93100949/aol" ALT="Click here to visit our
-advertiser." WIDTH=120 HEIGHT=60 BORDER=0></A>
-</noscript>
-
-<!--End Top Right Ad-->
-		</td>
-	</tr>
-</tbody></table>	
-<!--End Top Ad Block--><br><script language="JavaScript">
-<!--
-function MM_swapImgRestore() { //v2.0
-  if (document.MM_swapImgData != null)
-    for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
-      document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
-}
-
-function MM_preloadImages() { //v2.0
-  if (document.images) {
-    var imgFiles = MM_preloadImages.arguments;
-    if (document.preloadArray==null) document.preloadArray = new Array();
-    var i = document.preloadArray.length;
-    with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#"){
-      preloadArray[i] = new Image;
-      preloadArray[i++].src = imgFiles[j];
-  } }
-}
-
-function MM_swapImage() { //v2.0
-  var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
-  for (i=0; i < (MM_swapImage.arguments.length-2); i+=3) {
-    objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
-    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
-        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
-      objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
-    obj = eval(objStr);
-    if (obj != null) {
-      swapArray[j++] = obj;
-      swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
-      obj.src = MM_swapImage.arguments[i+2];
-  } }
-  document.MM_swapImgData = swapArray; //used for restore
-}
-//-->
-</script>
-
-<table width="619" border="0" cellspacing="0" cellpadding="0" height="89">
-<!--# include virtual="/includes/NetscapeHat.asp"-->
-	<tbody><tr>
-		<td width="151" height="89"><a href="/default.asp"><img src="/images/cllogo2.gif" width="151" height="89" alt="home" border="0"></a></td><td width="401" height="89"><img src="/images/nav_top.gif" width="401" height="12"><br><a href="/food/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.food','document.food','/images/nav_food_on.gif','#932686072240')"><img name="food" border="0" src="/images/nav_food_off.gif" width="55" height="33" alt="food"></a><a href="/healthyliving/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.health','document.health','/images/nav_health_on.gif','#931314044200')"><img src="/images/nav_health_off.gif" width="66" height="33" border="0" alt="healthy" living="" name="health"></a><a href="http://cookinglight.recipes.aol.com/pls/search.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.recipes','document.recipes','/images/nav_recipe_on.gif','#931314057990')"><img src="/images/nav_recipe_off.gif" width="57" height="33" border="0" alt="recipe" finder="" name="recipes"></a><a href="/customerservice/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.service','document.service','/images/nav_service_on.gif','#931314131590')"><img src="/images/nav_service_on.gif" width="76" height="33" border="0" alt="customer" service="" name="service"></a><a href="/store/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.store','document.store','/images/nav_store_on.gif','#931314144610')"><img src="/images/nav_store_off.gif" width="53" height="33" border="0" name="store" alt="store"></a><a href="/community/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.comm','document.comm','/images/nav_comm_on.gif','#933003781130')"><img src="/images/nav_comm_off.gif" width="94" height="33" border="0" name="comm" alt="community"></a><br><font size="1" face="Verdana," arial,="" helvetica,="" sans-serif=""><img src="/images/sub_nav_level1_left.gif" width="7" height="18" border="0"><a href="https://secure.customersvc.com/servlet/Show?WESPAGE=ck/home.html&amp;MSRSMAG=CK" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image9','document.Image9','/images/pi_subscriber_services_on.gif','#940433714810')"><img src="/images/pi_subscriber_services_off.gif" width="96" height="18" border="0" name="Image9"></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/questions.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image1','document.Image1','/images/pi_questions_on.gif','#933004157260')"><img src="/images/pi_questions_off.gif" width="49" height="18" border="0" name="Image1" alt="questions"></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/about_us.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image2','document.Image2','/images/pi_about_us_on.gif','#933004180820')"><img src="/images/pi_about_us_off.gif" width="44" height="18" border="0" name="Image2" alt="about" us=""></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/ad.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image3','document.Image3','/images/pi_advertising_on.gif','#933004227120')"><img src="/images/pi_advertising_off.gif" width="60" height="18" border="0" name="Image3" alt="advertising"></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="http://www.southernprogress.com/employ.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image4','document.Image4','/images/pi_jobs_on.gif','#933004249970')"><img src="/images/pi_jobs_off.gif" width="22" height="18" border="0" name="Image4" alt="jobs"></a></font><img src="/images/sub_nav_level_filler.gif" width="61" height="18"><img src="/images/sub_nav_level1_right.gif" width="10" height="18"><br><img src="/images/sub_nav_level2_top.gif" width="401" height="2"><br><img src="/images/sub_nav_level2_left.gif" width="7" height="18"><a href="/customerservice/site_map.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image5','document.Image5','/images/pi_site_map_on.gif','#933004278150')"><img src="/images/pi_site_map_off.gif" width="45" height="18" border="0" name="Image5" alt="site" map=""></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/notices.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image6','document.Image6','/images/pi_notices_on.gif','#933004299570')"><img src="/images/pi_notices_off.gif" width="37" height="18" border="0" name="Image6" alt="notices"></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="/customerservice/annual_indexes.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image7','document.Image7','/images/pi_annual_indexes_on.gif','#933004321150')"><img src="/images/pi_annual_indexes_off.gif" width="77" height="18" border="0" name="Image7" alt="annual" indexes=""></a><img src="/images/sub_nav_bullet.gif" width="13" height="18"><a href="http://cookinglight.m0.net/m/p/clt/login.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('document.Image8','document.Image8','/images/pi_email_newsletter_on.gif','#940100221160')"><img src="/images/pi_email_newsletter_off.gif" width="88" height="18" border="0" name="Image8"></a><img src="/images/sub_nav_level_filler.gif" width="98" height="18"><img src="/images/sub_nav_level2_right.gif" width="10" height="18"><br><img src="/images/sub_nav_level2_bottom.gif" width="401" height="6"></td>
-		<td width="67" height="89"><a href="/customerservice/sos_form.asp?trkid=10037S67705&amp;Type=1&amp;coverimg=/DCM_Images/sos/gift/givagift.gif"><img src="/DCM_Images/sos/gift/givagift.gif" width="67" height="89" border="0" alt="subscribe now!"></a></td>
-	</tr>
-</tbody></table>
-
-<table width="620" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr valign="top" align="left"> 
-    <td width="162" valign="top" align="center" bgcolor="#999966" rowspan="2"> 
-      
-<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr bgcolor="#CCCC99" valign="top"> 
-<td bgcolor="#CCCC99" align="center">
-<table border="0" width="100%" cellspacing="0" cellpadding="0" align="center">
-  <tbody><tr valign="center" align="center" bgcolor="#CCCC99"> 
-    <td bgcolor="#999966"> 
-      <p align="center"><a href="http://cookinglight.recipes.aol.com/pls/search.jsp"><img src="/images/recipe_finder9.gif" width="142" height="72" border="0" vspace="10"></a> <br>
-        &nbsp; 
-    </p></td>
-</tr>
-<tr align="left" valign="top"> 
-	<td height="1"><img src="/images/white.gif" width="162" height="1"></td>
-</tr>
-<tr valign="center" bgcolor="#999966">	 
-	<td>
-	<table border="0" cellspacing="0" cellpadding="5" align="center">
-		<tbody><tr>
-		<td><!--Begin Top Side Ad-->
-
-<script language="JavaScript1.1">
-<!--
-htmlAdWH('93101264', '120', '60');
-//-->
-</script>
-<noscript>
-<A HREF="http://ads.web.aol.com/link/93101264/aol">
-<IMG SRC="http://ads.web.aol.com/image/93101264/aol" ALT="Click here to visit our
-advertiser." WIDTH=120 HEIGHT=60 BORDER=0></A>
-</noscript>
-
-<!--End Top Side Ad--></td>
-		</tr>
-	</tbody></table>
-	</td>
-</tr>
-<tr align="left" valign="top"> 
-	<td height="1"><img src="/images/white.gif" width="162" height="1"></td>
-</tr>
-</tbody></table>
-
-<table border="0" width="100%" cellspacing="0" cellpadding="10" align="center">
-<tbody><tr bgcolor="#CCCC99" valign="top" align="center"> 
-<td bgcolor="#CCCC99" colspan="3"> <font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-<img src="../images/ha_giftsubscribe.gif" height="26" width="136" alt="Subscribe to the Magazine" border="0"> 
 <br>
-<b><font color="#CC0000">SAVE 50%!</font> 
-<a href="/customerservice/sos_form.asp?type=1&amp;trkid=10037S67705"><img src="../images/button_small.gif" width="10" height="11" align="absbottom" border="0"></a> 
-</b></font></td>
-</tr>
-</tbody></table>
-<table width="162" border="0" cellspacing="0" cellpadding="0" height="1" align="center">
-  <tbody><tr align="left" valign="top"> 
-    <td height="1"><img src="../images/white.gif" width="162" height="1"></td>
-  </tr>
-</tbody></table>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="10" align="center">
-  <tbody><tr bgcolor="#CCCC99" valign="top"> 
-<td bgcolor="#CCCC99" align="center"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"> 
-<img src="../images/ha_annualindex.gif" height="13" width="136" alt="Annual Indexes" border="0"> 
-<br>
-These year-by-year lists of all Cooking Light recipe titles make finding just the right recipe a snap. <a href="../customerservice/annual_indexes.asp?trkid=10048S67708"><img src="../images/button_small.gif" width="10" height="11" align="absbottom" border="0"></a> 
-</font> </td>
-    </tr>
-</tbody></table>
-<table width="162" border="0" cellspacing="0" cellpadding="0" height="1" align="center">
-  <tbody><tr align="left" valign="top"> 
-    <td height="1"><img src="../images/white.gif" width="162" height="1"></td>
-  </tr>
-</tbody></table>
+<b><div align="center"><u><font size="+1">Time Inc. Online Privacy Notice</font></u></div></b><br>
 
-<table border="0" width="100%" cellspacing="0" cellpadding="10" align="center">
-<tbody><tr bgcolor="#CCCC99" valign="top" align="center"> 
-<td bgcolor="#CCCC99" colspan="3"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><img src="../images/ha_events.gif" height="13" width="136" alt="Events" border="0"> 
-<br>
-We're always on the move. Find out where you can meet <i>Cooking Light</i> in or near your hometown.<a href="../community/events.asp?trkid=10044S67702"><img src="../images/button_small.gif" width="10" height="11" align="absbottom" border="0"></a></font></td>
-</tr>
-</tbody></table>
-<table width="162" border="0" cellspacing="0" cellpadding="0" height="1" align="center">
-  <tbody><tr align="left" valign="top"> 
-    <td height="1"><img src="../images/white.gif" width="162" height="1"></td>
-  </tr>
-</tbody></table>
- 
-</td>
-    </tr>
-</tbody></table>
-    </td>
-    <td width="458" valign="top" align="left" rowspan="2"> <img src="../images/hd_privacy_policy.gif" width="454" height="34" alt="online notices"> 
-      <table width="454" border="0" cellpadding="15">
-        <tbody><tr align="left" valign="top"> 
-          <td> 
-            
-  <p align="center"> <b><font size="+1"><br>
-    Time Warner Online Privacy Notice</font></b> </p>
-  <p> Thank you for visiting Cooking Light Online, a Time Warner site. Your privacy 
-    is important to us. To better protect your privacy, we provide this notice 
-    explaining our online information practices and the choices you can make about 
-    the way your information is collected and used at this Time Warner site. <a href="/special/time_props.asp">Click 
-    here</a> for a list of the Time Warner businesses whose sites are governed 
-    by this Privacy Notice. </p>
-  <p> <b>The Information We Collect</b></p>
-  <p> At some Time Warner sites, you can order products, enter contests, vote 
-    in polls or otherwise express an opinion, subscribe to one of our services 
-    such as our online newsletters, or participate in one of our online forums 
-    or communities. The types of personally identifiable information that may 
-    be collected at these pages include: name, address, e-mail address, telephone 
-    number, fax number, credit card information, and information about your interests 
-    in and use of various products, programs, and services. </p>
-  <p> At some other Time Warner sites, you can submit information about other 
-    people. For example, you might submit a person's name and e-mail address to 
-    send an electronic greeting card and, if you order a gift online and want 
-    it sent directly to the recipient, you might submit the recipient's name and 
-    address. The types of personally identifiable information that may be collected 
-    about other people at these pages include: recipient's name, address, e-mail 
-    address, and telephone number. </p>
-  <p> At certain parts of some of our sites, only persons who provide us with 
-    the requested personally identifiable information will be able to order products, 
-    programs, and services or otherwise participate in the site's activities and 
-    offerings. </p>
-  <p> We also may collect certain non-personally identifiable information when 
-    you visit many of our web pages such as the type of browser you are using 
-    (e.g., Netscape, Internet Explorer), the type of operating system you are 
-    using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet 
-    service provider (e.g., America Online, Earthlink). </p>
-  <p> <b>How We Use the Information</b> </p>
-  <p>We may use the information you provide about yourself to fulfill your requests 
-    for our products, programs, and services, to respond to your inquiries about 
-    our offerings, and to offer you other products, programs or services that 
-    we believe may be of interest to you. </p>
-  <p> We sometimes use this information to communicate with you, such as to notify 
-    you when you have won one of our contests or when we make changes to our subscriber 
-    agreements, to fulfill a request by you for an online newsletter, or to contact 
-    you about your account with us. </p>
-  <p> We use the information that you provide about others to enable us to send 
-    them your gifts or cards. From time to time, we also may use this information 
-    to offer our products, programs, or services to them. The information we collect 
-    in connection with our online forums and communities is used to provide an 
-    interactive experience. We use this information to facilitate participation 
-    in these online forums and communities and, from time to time, to offer you 
-    products, programs, or services. </p>
-  <p> If you choose to submit content for publication (e.g., a "letter to our 
-    editors"), we may publish your screen name and other information you have 
-    provided to us. </p>
-  <p> We sometimes use the non-personally identifiable information that we collect 
-    to improve the design and content of our site and to enable us to personalize 
-    your Internet experience. We also may use this information in the aggregate 
-    to analyze site usage, as well as to offer you products, programs, or services. 
-    We may disclose personally identifiable information in response to legal process, 
-    for example, in response to a court order or a subpoena. We also may disclose 
-    such information in response to a law enforcement agency's request. </p>
-  <p> Agents and contractors of Time Warner who have access to personally identifiable 
-    information are required to protect this information in a manner that is consistent 
-    with this Privacy Notice by, for example, not using the information for any 
-    purpose other than to carry out the services they are performing for Time 
-    Warner. Although we take appropriate measures to safeguard against unauthorized 
-    disclosures of information, we cannot assure you that personally identifiable 
-    information that we collect will never be disclosed in a manner that is inconsistent 
-    with this Privacy Notice. </p>
-  <p> Certain Time Warner sites may disclose personally identifiable information 
-    to companies whose practices are not covered by this privacy notice (e.g., 
-    other marketers, magazine publishers, retailers and non-profit organizations) 
-    that want to market products or services to you. If a site shares personally 
-    identifiable information, it will provide you with an opportunity to opt out 
-    or block such uses. For instructions on how to opt out from such disclosures, 
-    please send an e-mail along with your first and last name to <a href="mailto:privacy@cookinglight.customersvc.com">privacy@cookinglight.customersvc.com</a>.
-  </p>
-  <p> Time Warner may on occasion combine information we receive online with outside 
-    records to enhance our ability to market to you those products or services 
-    that may be of interest to you. If you prefer not to receive marketing information 
-    from this site, please send an e-mail along with your first and last name 
-    to <a href="mailto:privacy@cookinglight.customersvc.com">privacy@cookinglight.customersvc.com</a> for instructions 
-    on how to make your request. Finally, Time Warner sites will not use or transfer 
-    personally identifiable information provided to us in ways unrelated to the 
-    ones described above without also providing you with an opportunity to opt 
-    out of these unrelated uses. </p>
-  <p> <b>Collection of Information by Third-Party Sites and Sponsors</b></p>
-  <p> Some of our sites contain links to other sites whose information practices 
-    may be different than ours. Visitors should consult the other sites' privacy 
-    notices as we have no control over information that is submitted to, or collected 
-    by, these third parties. </p>
-  <p> Time Warner sites sometimes may offer content (e.g., contests, sweepstakes, 
-    or promotions) that is sponsored by or co-branded with identified third parties. 
-    By virtue of these relationships, the third parties may obtain personally 
-    identifiable information that visitors voluntarily submit to participate in 
-    the site activity. Time Warner has no control over the third-party's use of 
-    this information. The Time Warner site will notify you at the time of requesting 
-    personally identifiable information if these third parties will obtain such 
-    information. Some Time Warner sites may use a reputable third party to present 
-    or serve the advertisements that you may see at its Web pages. Our privacy 
-    policy does not cover any use of information that a third-party ad server 
-    may have collected from you. For more information on this site's use of such 
-    third-party ad servers, please click here <a href="http://www.doubleclick.net/us/corporate/privacy/default.asp?asp_object_1=&amp;"> 
-    http://www.doubleclick.net/us/corporate/privacy/default.asp?aspobject1=&amp;</a> 
-  </p>
-  <p> <b>Cookies</b></p>
-  <p> To enhance your experience with our sites, many of our web pages use "cookies." 
-    Cookies are text files we place in your computer's browser to store your preferences. 
-    Cookies, by themselves, do not tell us your e-mail address or other personally 
-    identifiable information unless you choose to provide this information to 
-    us by, for example, registering at one of our sites. However, once you choose 
-    to furnish the site with personally identifiable information, this information 
-    may be linked to the data stored in the cookie. </p>
-  
-<p> We use cookies to understand site usage and to improve the content and offerings 
-  on our sites. For example, we may use cookies to personalize your experience 
-  at our web pages (e.g. to recognize you by name when you return to our site), 
-  save your password in password-protected areas, and enable you to use shopping 
-  carts on our sites. We also may use cookies to offer you products, programs, 
-  or services. </p>
-<p><b>Our Commitment to Security </b></p>
-<p> We have put in place appropriate physical, electronic, and managerial procedures 
-  to safeguard and help prevent unauthorized access, maintain data security, and 
-  correctly use the information we collect online. </p>
-<p><b>How You can Access or Correct Information </b></p>
-  <p> For instructions on how you can access the personally identifiable information 
-    that this Time Warner site has collected about you online, or how to correct 
-    factual errors in such information, please send an e-mail along with your 
-    first and last name to <a href="mailto:privacy@cookinglight.customersvc.com">privacy@cookinglight.customersvc.com</a> 
-    To protect your privacy and security, we will take reasonable steps to help 
-    verify your identity before granting access or making corrections. </p>
-  <p> <b>Special Note for Parents</b> </p>
-  <p> The site you are visiting is one of the Time Warner general audience sites. 
-    For more information about our online privacy practices for children's sites, 
-    consult the privacy notice at the children's site in which you are interested. 
-  </p>
-  <p> <b>How to Contact Us</b> </p>
-  <p> If you have any questions or concerns about the Time Warner online policy 
-    for this site or its implementation you may <a href="../community/contact_cl.asp">contact 
-    us</a> . </p>
+Thank you for visiting CookingLight.com, a Time Inc. site.  Your privacy is important to us.  To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Time Inc. site.  <a href="http://www.timeinc.net/legal/titles.html" target="new">Click here</a> for a list of the Time Inc. businesses whose sites are governed by this Privacy Notice.<br><br>
 
-          </td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr valign="top" align="left"></tr>
-  <tr valign="middle" align="left" bgcolor="#999966"> 
-	<td colspan="2" align="left" height="7">
-	<div align="right"> <a href="#topofpage"> <img src="../images/topofpage.gif" border="0" alt="Top of Page" width="95" height="14"><img src="../images/clear.GIF" width="67" height="12" border="0"></a></div>
-	</td>
-</tr>
-</tbody></table>
-<table width="620" border="0" cellspacing="0" cellpadding="3">
-	<tbody><tr>
-		<td width="441" align="left" valign="top">
-		 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td colspan="3" height="11"> <font face="Verdana, Arial, Helvetica, sans-serif" size="2"> 
-      <img src="../images/infofromsponsors.gif" width="159" height="17"><img src="../images/dark_green.gif" width="329" height="1" align="absmiddle"> 
-      </font></td>
-  </tr>
-  <tr> 
-    <td valign="top" align="left" height="48" width="32%"> 
-      <table border="0" cellpadding="1" cellspacing="0" width="268">
-        <tbody><tr> 
-          <td valign="bottom"><img src="../images/button_small.gif" width="10" height="11"></td>
-          <td valign="top"><a href="http://www.mediaservicesinc.com/readerresponse/cookinglight/advertiser1.asp?app=TAKE&amp;mag=CK&amp;category=9999"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Take@Byte</font></a></td>
-        </tr>
-        <tr> 
-          <td valign="bottom"><img src="../images/button_small.gif" width="10" height="11"></td>
-          <td valign="top"><a href="http://www.mediaservicesinc.com/readerresponse/cookinglight/advertiser.asp?mag=CK&amp;category=0001&amp;app=SCOP"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Inside 
-            Scoop</font></a></td>
-        </tr>
-        <tr> 
-          <td valign="bottom"><img src="../images/button_small.gif" width="10" height="11"></td>
-          <td valign="top"><a href="/special/travel_service.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">CL 
-            Travel Service</font></a></td>
-        </tr>
-        <tr> 
-          <td valign="top"><img src="../images/button_small.gif" width="10" height="11"></td>
-          <td valign="top"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="/community/onthemove.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">CL 
-            On the Move Tour</font></a></font></td>
-        </tr>
-      </tbody></table>
-    </td>
-    <td valign="top" align="left" height="48" width="7%">&nbsp; </td>
-    <td valign="top" align="left" height="48" width="61%"> 
-      
-      <table border="0" cellpadding="1" cellspacing="0" width="360">
-        <tbody><tr> 
-          <td valign="top" width="10"><img src="../images/button_small.gif" width="10" height="11"></td>
-          <td valign="top" width="346"><a href="/customerservice/ad.asp"></a><a href="/customerservice/ad.asp"></a><a href="http://www.mediaservicesinc.com/readerresponse/cookinglight/category.asp?app=clsd&amp;mag=CK"></a><font size="1" face="Verdana, Arial, Helvetica, sans-serif"><a href="/customerservice/ad.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Advertise 
-            With Us</font></a></font></td>
-        </tr>
-        <tr> 
-          <td valign="bottom" width="10"><img src="../images/button_small.gif" width="10" height="11"></td>
-          <td valign="top" width="346"><a href="/market/"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">The 
-            Market </font></a></td>
-        </tr>
-        <tr> 
-          <td valign="top" width="10"><img src="../images/button_small.gif" width="10" height="11"></td>
-          <td valign="top" width="346"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="http://www.experiencewashington.com/cooking" target="blank"> 
-            </a><a href="/special/contestwinners.asp"><font face="Verdana, Arial, Helvetica, sans-serif" size="1">Contest 
-            Winners</font></a></font></td>
-        </tr>
-        <tr> 
-          <td valign="top" width="10" height="15"><img src="../images/button_small.gif" width="10" height="11"></td>
-          <td valign="top" width="346"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><a href="/special/cooks/"><font face="Verdana, Arial, Helvetica, sans-serif" size="1"><b>Enter 
-            Cook's Ham Recipe Contest Now</b></font></a></font></td>
-        </tr>
-        <tr> 
-          <td valign="top" width="10" height="15">&nbsp;</td>
-          <td valign="top" width="346">&nbsp;</td>
-        </tr>
-        <tr>
-          <td valign="top" width="10" height="15">&nbsp;</td>
-          <td valign="top" width="346">&nbsp;</td>
-        </tr>
-      </tbody></table>
-    </td>
-  </tr>
-  <tr valign="middle"> 
-    <td align="left" height="75" colspan="3"><font face="Verdana, Arial, Helvetica, sans-serif" size="2"><img src="../images/dark_green.gif" width="488" height="1" align="top"></font></td>
-  </tr>
-</tbody></table>
+<b><u>Netscape Network Registered Users</u></b><br><br>
+If you have registered with the Netscape Network, the <a href="http://about.netscape.com/networkprivacy/index.html" target="new">Netscape Network's Privacy Policy</a> and <a href="http://about.netscape.com/networkterms/index.html" target="new">Registered User Agreement</a> govern the information practices and terms and conditions of use that apply to you when you use the Netscape Network.<br><br>
+<b><u>The Information We Collect</u></b><br><br>
+
+At some Time Inc. sites, you can order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities.  The types of personally identifiable information that may be collected at these pages include:  name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.<br><br> 
+
+
+At some other Time Inc. sites, you can submit information about other people.  For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online and want it sent directly to the recipient, you might submit the recipient's name and address.  The types of personally identifiable information that may be collected about other people at these pages include:  recipient's name, address, e-mail address, and telephone number.<br><br>  
+
+At certain parts of some of our sites, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the site's activities and offerings.<br><br>
+
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink).<br><br>
+
+<b><u>How We Use the Information</u></b><br><br>
+
+We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you.<br><br> 
+
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to our subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.<br><br>
+
+We use the information that you provide about others to enable us to send them your gifts or cards.  From time to time, we also may use this information to offer our products, programs, or services to them.<br><br>  
+
+The information we collect in connection with our online forums and communities is used to provide an interactive experience.  We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.<br><br>
+
+If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your screen name and other information you have provided to us.<br><br>
+
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience.  We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.<br><br>  
+
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena.  We also may disclose such information in response to a law enforcement agency's request.<br><br>
+
+Agents and contractors of Time Inc. who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Time Inc..<br><br>
+
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice.  Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.<br><br>
+
+If a Time Inc. site discloses personally identifiable information to companies not owned by Time Inc. who want to market products or services to you, it will provide you with an opportunity to opt out or block such uses. For instructions on how to opt out from such disclosures, please <a href="mailto:privacy@cookinglight.customersvc.com">privacy@cookinglight.customersvc.com</a>.<br><br> 
+
+Time Inc. may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you. If you prefer not to receive marketing information from this site, <a href="mailto:privacy@cookinglight.customersvc.com">privacy@cookinglight.customersvc.com</a>.<br><br>
+
+Finally, Time Inc. sites will not use or transfer personally identifiable information provided to us in ways unrelated to the ones described above without also providing you with an opportunity to opt out of these unrelated uses.<br><br>
+
+<b><u>Collection of Information by Third-Party Sites, Advertisers and Sponsors</u></b><br><br>
+
+Some of our sites contain links to other sites whose information practices may be different than ours.  Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.<br><br>
+
+Time Inc. sites sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties.  By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion.  Time Inc. has no control over the third-party sponsors' use of this information.  The Time Inc. site will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information.<br><br>
+
+Time Inc. sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. Our privacy policy does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). For more information on this site's use of such third-parties, please <a href="http://www.timeinc.net/legal/parties.html">click here</a>.<br><br>
+
+<b><u>Cookies</u></b><br><br>
+
+To enhance your experience with our sites, many of our web pages use "cookies."  Cookies are text files we place in your computer's browser to store your preferences.  Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites.  However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.<br><br>
+
+We use cookies to understand site usage and to improve the content and offerings on our sites.  For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites.  We also may use cookies to offer you products, programs, or services.<br><br>
+
+We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy.<br><br>
+
+<b><u>Our Commitment to Security</u></b><br><br>
+
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.<br><br>
+
+<b><u>How You can Access or Correct Information</u></b><br><br>
+
+For instructions on how you can access the personally identifiable information that this Time Inc. site has collected about you online, or how to correct factual errors in such information,  <a href="mailto:privacy@cookinglight.customersvc.com">privacy@cookinglight.customersvc.com</a>.<br><br>
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.<br><br>
+
+<b><u>Special Note for Parents</u></b><br><br>
+
+The site you are visiting is one of the Time Inc. general audience sites.  For more information about our online privacy practices for children's sites, consult the privacy notice at the children's site in which you are interested.<br><br>  
+
+<b><u>How to Contact Us</u></b><br><br>
+
+If you have any questions or concerns about the Time Inc. online policy for this site or its implementation you may contact us at Cooking Light <a href="http://www.cookinglight.com/cooking/contact">by clicking here</a> or at the following address:<br><br>
+
+     Time Customer Service<br>
+     Attention: Consumer Affairs<br>
+     3000 University Center Drive<br>
+     Tampa, Florida 33612-6408 <br>
+<br><br>
+
+
+</font><p><font face="Times New Roman" ,arial="">
+Return to <a href="http://www.CookingLight.com">www.CookingLight.com</a>
+
+</font>
 
 
 
-		</td>	
-	</tr>
-</tbody></table>
-<font face="Verdana, Arial, Helvetica, sans-serif" size="1">| <a href="/default.asp">HOME</a> 
-| <a href="/food/default.asp">FOOD</a> | <a href="/healthyliving/default.asp">HEALTHY 
-LIVING</a> | <a href="http://cookinglight.recipes.aol.com/pls/search.jsp">RECIPE FINDER</a> | <a href="/customerservice/default.asp">CUSTOMER 
-SERVICE</a> | <a href="/store/default.asp">STORE</a> | <a href="/community/default.asp">COMMUNITY</a> 
-|</font><br>
- <font face="Verdana, Arial, Helvetica, sans-serif" size="1">© Copyright 
-Southern Progress Corporation, 2000. All rights reserved. <a href="/customerservice/privacy_policy.asp">Privacy 
-Policy</a> </font>
-<script language="JavaScript1.1" src="http://ads.web.aol.com/file/adsEnd.js"></script>
-
-
-</body></html>
+ <!--Pathinfo = cooklight
+TemplateFile = /www/legal/privacy/central_privacy.template -->
+</p></body></html>
