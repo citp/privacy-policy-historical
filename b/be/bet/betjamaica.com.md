@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betjamaica.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605184830id_/http%3A//betjamaica.com/default.aspx%3FP%3D9000%26S%3D9000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betjamaica.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206181812id_/http%3A//www.betjamaica.com/default.aspx%3FP%3D9000%26S%3D9000) for the most accurate reproduction.*
 
 # Bet Jamaica - The Player's Paradise
 
@@ -40,7 +40,7 @@ Periodically, we may use the non-personally identifiable information that we col
 **We do not report to any government, or other entity, customer balances or transactions that are placed in accounts. It is the customers responsibility to report any wins or losses if applicable in their country. We reserve the right to disclose personally identifiable information in response to a court order or a subpoena or in response to a law enforcement agency's request.**
 
  **No Minors, Please!**  
-Our Web sites and their material are not suitable for minors, nor, obviously, are they directed to children below the age of 13. We do not permit, and wherever possible, we actively seek to prevent or dissuade registration from persons below these ages. We do not knowingly collect personally identifiable information from children under 13 years of age.
+Our Web sites and their material are not suitable for minors, nor, obviously, are they directed to persons below the age of 21. We do not permit, and wherever possible, we actively seek to prevent or dissuade registration from persons below these ages. We do not knowingly collect personally identifiable information from persons under 21 years of age.
 
  **Third-Party Sites Which Collect Information**  
 Some of our Web sites may contain links to other sites whose information practices may differ from ours. In some cases, we have entered into agreements with these other sites or companies in order to allow them to bring you the services you may find displayed on our sites. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. As a general rule, we maintain no control over these third parties' use of this information. Visitors and Members should consult the other sites' privacy policies as we have no control over information that is submitted to, or collected by, these third parties.
