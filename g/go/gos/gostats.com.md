@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gostats.com privacy policy that was archived on 2004-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040628025343id_/http%3A//gostats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gostats.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204032041id_/http%3A//gostats.com/privacy.html) for the most accurate reproduction.*
 
 # GoStats Privacy Statement
 
@@ -53,7 +53,7 @@ If our registration/order form asks users to enter sensitive information (such a
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line.
 
-If you have any questions about the security at our website, you can send an email to support@gostats.com.
+If you have any questions about the security at our website, you can [contact gostats](https://web.archive.org/contact.html).
 
 **  
 Special Offers  
@@ -70,3 +70,8 @@ Site and Service Updates
   
 **Notification of Changes  
 **If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.  If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email.  Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+
+Sponsor: [Football Tickets](http://www.buyselltix.com/nfl/)  
+[Baseball tickets](http://www.buyselltix.com/mlb/)  
+[World Series Tickets](http://www.buyselltix.com/mlb/worldSeries.php)  
+
