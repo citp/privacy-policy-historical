@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012222148id_/http%3A//www.logicalexpressions.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602211201id_/http%3A//logicalexpressions.com/privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions, Inc.
 
   
 | **LEI Privacy Policies**
 
-At Logical Expressions, Inc., we know that you value your privacy, so we want you to know that your personal information is completely confidential. This privacy policy applies not only to our main Logical Expressions, Inc. site (http://www.logicalexpressions.com), but also to all the publication sites we produce, including:
+At Logical Expressions, Inc., we know that you value your privacy, so we want you to know that your personal information is completely confidential. This privacy policy applies not only to our main Logical Expressions, Inc. site (http://www.logicalexpressions.com), but also to the other sites we produce, including:
 
+  * The LEI Ezine Power Publisher - [http://www.pointclickpublish.com](http://www.pointclickpublish.com/)
   * Computor Companion - [http://www.computorcompanion.com](http://www.computorcompanion.com/)
-  * CC Tips - [http://www.cc-tips.com](http://www.cc-tips.com/)
+  * Logical Tips (CC Tips) - [http://www.logicaltips.com](http://www.logicaltips.com/)
   * Many Veggie Recipes - [http://www.manyveggierecipes.com](http://www.manyveggierecipes.com/)
   * Pet Tails - [http://www.pet-tails.com](http://www.pet-tails.com/)
+  * Newsletter Help - [http://www.newsletterhelp.com](http://www.newsletterhelp.com/)
 
 
 
@@ -52,7 +54,7 @@ If you feel that we are not abiding by this privacy policy or if you have any qu
 Logical Expressions, Inc.  
 311 Fox Glen Road  
 Sandpoint, Idaho 83864  
-Phone: (208) 265-3646  
+Phone: 208-265-3636  
 E-mail: _webmaster_ AT logicalexpressions.com   
   
 |   
