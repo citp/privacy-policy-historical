@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203201311id_/http%3A//www.mouken.com/info/policy.php3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geckotribe.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606212909id_/http%3A//www.geckotribe.com/info/policy.php3) for the most accurate reproduction.*
 
-# Mouken, L.C. Privacy & Content Policies
+# Gecko Tribe, LLC Privacy & Content Policies
 
-|  [](http://doodle.mouken.com/doodle_gear/)  
+|  [](http://doodle.geckotribe.com/postcard/)  
 ---  
   
-Mouken, L.C. Policy Page   
+Gecko Tribe, LLC Policy Page   
   
 **Privacy Policy** :   
   
-Mouken, L.C. policies are designed to protect your privacy. 
+Gecko Tribe, LLC policies are designed to protect your privacy. 
 
 **Personal Information** : There are a few places on our web site where we ask for personal information like names, email addresses, etc. These are our promises regarding this information: 
 
@@ -29,10 +29,10 @@ Mouken, L.C. policies are designed to protect your privacy.
   
 **Content Policy** :  
   
-**Decency** : Mouken, L.C. is committed to providing internet content that is suitable for viewers of any age, and is in line with traditional values. We will never post anything pornographic, graphically violent, supportive of "alternative lifestyles", or otherwise unsuitable for some viewers. 
+**Decency** : Gecko Tribe, LLC is committed to providing internet content that is suitable for viewers of any age, and is in line with traditional values. We will never post anything pornographic, graphically violent, supportive of "alternative lifestyles", or otherwise unsuitable for some viewers. 
 
 **Intellectual Property** : Some areas of our web sites allow visitors to post content directly. Any postings which, in our opinion, violate the intellectual property rights of others will be removed. Examples include posts which violate copyright laws, plagerize material, etc.   
   
 * * *
 
-© 2001, Mouken, L.C. 
+© 2001, Gecko Tribe, LLC 
