@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrology-online.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602200613id_/http%3A//astrology-online.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrology-online.com privacy policy that was archived on 2003-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031208180312id_/http%3A//www.astrology-online.com/policy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
