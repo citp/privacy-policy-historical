@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602233608id_/http%3A//www.nationalexpress.com/p.cfm%3Fn%3Dpg-pri) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpress.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209031312id_/http%3A//www.nationalexpress.com/p.cfm%3Fn%3Dpg-pri) for the most accurate reproduction.*
 
 # National Express Privacy Statement
 
