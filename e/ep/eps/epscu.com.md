@@ -1,25 +1,23 @@
-> *The following text is extracted and transformed from the epscu.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331212333id_/http%3A//epscu.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epscu.com privacy policy that was archived on 2001-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011029195107id_/http%3A//epscu.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
 Payment Systems for Credit Unions, Inc. (PSCU) is one of the largest 24x7 call centers and transaction card service providers for credit unions in the U.S. In addition, PSCU is the largest credit union service organization (CUSO) in the nation. PSCU is a cooperative organization dedicated to promoting the success of our members by delivering financial services, technology through its ePSCU division, and operational support exclusively for credit unions.
 
-PSCU and ePSCU intend for pscusci.com and epscu.com to complement the services that each organization respectively provides. Collectively PSCU and ePSCU believe that online security and privacy is important to the future success of the Internet and electronic commerce to our member credit unions as well as their members.
+PSCU and ePSCU intend for pscu.net and epscu.com to complement the services that each organization respectively provides. Collectively PSCU and ePSCU believe that online security and privacy are important to the future success of the Internet and electronic commerce. We also believe that online security and privacy are important to our member credit unions and to their members as well.
 
-PSCU and ePSCU have a strong commitment to the issues of trust and privacy on the World Wide Web as demonstrated by our membership in the Online Privacy Alliance and TRUSTe. Accordingly, this privacy policy is consistent with the model set in place by the Online Privacy Alliance and the standards established by TRUSTe.
-
-In addition, PSCU has an agreement with ICSA.net, the worldwide leader in Internet security assurance services, to provide TruSecure™ certification for PSCU's security policies and technical internetworking infrastructure.
+PSCU and ePSCU have a strong commitment to the issues of trust and privacy on the World Wide Web as demonstrated by our agreement with ICSA.net, the worldwide leader in Internet security assurance services, to provide TruSecure™ certification for PSCU's security policies and technical internetworking infrastructure.
 
 We are committed to guarding your data, protecting your members' privacy, and developing technology that gives consumers the most powerful, safe, online experience available anywhere.
 
 After all, isn't that what you expect from us?
 
 **Privacy**   
-PSCU defines "Privacy" as the measures in place to ensure that any information provided to us in maintained in strict confidence and not distributed, shared, or otherwise used without the expressed permission of the information provider.
+PSCU defines "Privacy" as the measures in place to ensure that any information provided to us is maintained in strict confidence and not distributed, shared, or otherwise used without the expressed permission of the information provider.
 
-Should you merely visit either site, pscusci.com or epscu.com, we do not collect any personal information about you. Should you decide you would like additional information about PSCU or ePSCU you will be asked to register online. During registration the information disclosed is retained, such as your name and email address. 
+Should you merely visit either site, pscu.net or epscu.com, we do not collect any personal information about you. Should you decide you would like additional information about PSCU or ePSCU, you will be asked to register online. During registration the information disclosed is retained, such as your name and email address. 
 
-We also request and retain during registration other demographic information such as address, credit union affiliation and purpose for your visit. We use demographic information in the aggregate only for statistical analysis and internal research purposes to help us understand who is using our site and become better equipped to serve your needs. Neither PSCU nor ePSCU sells, distributes or discloses your personally identifiable information collected at registration to any third parties.
+We also request and retain during registration other demographic information such as address, credit union affiliation and purpose for your visit. We use demographic information in the aggregate only for statistical analysis and internal research purposes to help us understand who is using our site and become better equipped to serve your needs. **Neither PSCU nor ePSCU sells, distributes or discloses your personally identifiable information collected at registration to any third parties.**
 
 Our website may contain links to other websites. Accordingly, neither PSCU nor ePSCU can be responsible for the privacy practices or the content of the linked websites and encourages you to read the privacy statement of any linked websites to become acquainted with their specific privacy practices.
 
