@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficbee.com privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620095045id_/http%3A//www.trafficbee.com/about/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficbee.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008150119id_/http%3A//www.trafficbee.com/about/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Southern California Highway Traffic Information
 
