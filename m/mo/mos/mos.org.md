@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mos.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603060018id_/http%3A//www.mos.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mos.org privacy policy that was archived on 2004-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041020083903id_/http%3A//www.mos.org/doc/1280) for the most accurate reproduction.*
 
-# MoS | Privacy Policy
+# MoS | Privacy
 
-| 
+## Museum of Science Online Privacy Policy
 
 An educational institution that serves 1.7 million adults and children each year and receives 2 million visits to its website — the Museum of Science, Boston, is dedicated to providing the best possible experience for our visitors. To that end, we are committed to protecting the private information of those who interact with us online. The Museum of Science website adheres to the following policy for ensuring the privacy of your — and your children's — personally identifiable information (such as full name, address, email address, telephone number, and/or other identifiable information).
 
@@ -68,5 +68,3 @@ Boston, MA 02114
 617-723-2500
 
 [privacy@mos.org](mailto:privacy@mos.org)
-
-August 16, 2001
