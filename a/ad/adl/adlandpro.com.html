@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adlandpro.com privacy policy that was archived on 2001-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010616133020id_/http%3A//www.adlandpro.com/PrivacyStatement.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adlandpro.com privacy policy that was archived on 2001-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011204203927id_/http%3A//www.adlandpro.com/PrivacyStatement.asp) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -20,25 +20,12 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<meta name="keywords" content="advertising, announcements, hits, agency, traffic, internet,
+					free,  banner, online, business, opportunity, classifieds,
+					computer, software, employment, MLM, list, mailing, promotion, submission, website, 
+					search, engine, job, affiliate, work, canada, us, mp3, discount, marketing">
+   <meta name="description" content="AdlandPro Free World's classifieds. Get linked from thousands of sites with just one click for FREE. Join AdlandPro Digest and learn marketing tips from experts">
+   <meta name="ROBOTS" content="index, follow">
 
 
 
@@ -73,7 +60,10 @@ color: darkblue;
 
 <script language="JavaScript"> <!--
 function leavesession() {
-window.open('http://www.free-irewards.com/cgi-bin/adlandpro','','scrollbars=yes,menubars=no,toolbars=yes,resizable=yes');
+//window.open('http://www.freebonanza.com/partner.asp?ref=A-963','','scrollbars=yes,menubars=yes,toolbars=yes,resizable=yes');
+
+window.open('http://www.adlandpro.com/submit.asp?ref=popup');
+
 }
 
 
@@ -87,18 +77,104 @@ function SelectIt(){
 
 
 
+var expDays = 1; // number of days the cookie should last
+
+// var page = "http://www.adlandpro.com/submit.asp?ref=";
+
+var page = "http://www.freebonanza.com/partner.asp?ref=A-963";
+
+// var windowprops ="status,left=10,top=10,width=550,height=650,resizable=yes,scrollbars=yes,menubars=no";
+
+ var windowprops =""
+
+
+function GetCookie (name) {
+var arg = name + "=";
+var alen = arg.length;
+var clen = document.cookie.length;
+var i = 0;
+while (i < clen) {
+var j = i + alen;
+if (document.cookie.substring(i, j) == arg)
+return getCookieVal (j);
+i = document.cookie.indexOf(" ", i) + 1;
+if (i == 0) break;
+}
+return null;
+}
+function SetCookie (name, value) {
+var argv = SetCookie.arguments;
+var argc = SetCookie.arguments.length;
+var expires = (argc > 2) ? argv[2] : null;
+var path = (argc > 3) ? argv[3] : null;
+var domain = (argc > 4) ? argv[4] : null;
+var secure = (argc > 5) ? argv[5] : false;
+document.cookie = name + "=" + escape (value) +
+((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+((path == null) ? "" : ("; path=" + path)) +
+((domain == null) ? "" : ("; domain=" + domain)) +
+((secure == true) ? "; secure" : "");
+}
+function DeleteCookie (name) {
+var exp = new Date();
+exp.setTime (exp.getTime() - 1);
+var cval = GetCookie (name);
+document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
+var exp = new Date();
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+function amt(){
+var count = GetCookie('count')
+if(count == null) {
+SetCookie('count','1')
+return 1
+}
+else {
+var newcount = parseInt(count) + 1;
+DeleteCookie('count')
+SetCookie('count',newcount,exp)
+return count
+   }
+}
+function getCookieVal(offset) {
+var endstr = document.cookie.indexOf (";", offset);
+if (endstr == -1)
+endstr = document.cookie.length;
+return unescape(document.cookie.substring(offset, endstr));
+}
+
+function leave() {
+var count = GetCookie('count');
+if (count == null) {
+count=1;
+SetCookie('count', count, exp);
+
+window.open(page, "", windowprops);
+
+}
+else {
+count++;
+SetCookie('count', count, exp);
+   }
+}
+	
+//  End -->	
+
+
 
 
 //--></script>
 
 
-<script language="JavaScript1.2" src="http://www.everyone.net/main/scripts/ContestJavaScript.pl?cid=30743" type="text/javascript"></script> 
 
 
 
+
+   
 </head>
 
-<body bgcolor="#FFFFFF" topmargin="0">
+<body bgcolor="#FFFFFF" topmargin="0" onunload="leave();window.focus();">
+
 
 
 
@@ -122,40 +198,69 @@ function SelectIt(){
               <td bgcolor="#1759BD" valign="top" height="51">
                 <p align="left"><b><img align="left" border="0" hspace="0" src="http://www.adlandpro.com/images/adbar_top2.gif"></b><a href="http://www.adlandpro.com" target="_top"><img src="http://www.adlandpro.com/adimages/smallad.gif" width="248" height="42" alt="AdlandPro World's Classifieds" border="0" target="_top" align="absbottom"></a></p>
               </td>
-              <td bgcolor="#1759BD" valign="middle" width="95" height="51">
-                <table border="1" width="100%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
+              <td bgcolor="#1759BD" valign="middle" height="51">
+                <div align="center">
+                  <center>
+                <table border="1" width="80%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
       <tbody><tr>
         <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="">
-          <p align="center"><font face="Verdana,Arial" size="1"><b><a href="http://www.adlandpro.com/redir/myssr.asp">INSTANT<br>
-          TRAFFIC&nbsp;<br>
-          Click HERE</a></b></font></p></td>
+          <p align="center"><font face="Verdana,Arial" size="1"><b><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1912107">Guaranteed&nbsp;<br>
+          </a></b></font><font size="1" color="#FF0000">
+          <marquee behavior="alternate" loop="4" width="57" height="13">*N e w*</marquee>
+          </font><font face="Verdana,Arial" size="1"><b><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1912107"><br>
+          Traffic</a></b></font></p></td>
       </tr>
     </tbody></table>
+                  </center>
+                </div>
               </td>
-              <td bgcolor="#1759BD" valign="middle" width="114" height="51">
-                <table border="1" width="100%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
+              <td bgcolor="#1759BD" valign="middle" height="51">
+                <div align="center">
+                  <center>
+                <table border="1" width="80%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
       <tbody><tr>
-        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" bgcolor="#FFFF00"><p align="center"><a href="http://www.free-advertising-promotion.com/submit.asp?ref=" target="_top"><b><font face="Verdana,Arial" color="#000000" size="1">60,000</font><font face="Verdana,Arial" size="1"><br>
-          Search*Engines Submission</font></b></a></p></td>
+        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="">
+          <p align="center"><font face="Verdana,Arial" size="1"><b><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1907044">F
+          R E E<br>
+          Home Business<br>
+          Tools</a></b></font></p></td>
       </tr>
     </tbody></table>
+                  </center>
+                </div>
               </td>
-              <td bgcolor="#1759BD" valign="middle" width="59" height="51">
-                <table border="1" width="52%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
+              <td bgcolor="#1759BD" valign="middle" height="51">
+                <div align="center">
+                  <center>
+                <table border="1" width="81%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
       <tbody><tr>
-        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap=""><p align="center"><a href="http://www.adlandpro.com/redirbonus.asp?url_text=http://www.ezinfocenter.com/359052.0001/FREE&amp;page_id=3&amp;rep_id=SFI" target="_blank"><font face="Verdana,Arial" size="1"><b>F
-          R E E :-0</b>&nbsp;<br>
-          <font color="#008000">
-          <marquee behavior="alternate" direction="right" scrolldelay="300" loop="2">$$$$$$</marquee>
-          </font><br>
-          <font color="#008000">
-          <marquee behavior="alternate" scrolldelay="300" loop="5">$$$$$$</marquee>
-          </font></font></a></p></td>
+        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap=""><font size="1"><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1908302">F
+          R E E&nbsp;</a><br>
+          *&nbsp;<br>
+          <a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1908302">Advertising</a></font></td>
       </tr>
     </tbody></table>
+                  </center>
+                </div>
               </td>
-              <td bgcolor="#1759BD" valign="middle" width="103" height="51">
-                <table border="1" width="52%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
+              <td bgcolor="#1759BD" valign="middle" height="51">
+                <div align="center">
+                  <center>
+                <table border="1" width="80%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
+      <tbody><tr>
+        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#FFFFFF"><p align="center"><font face="Verdana,Arial" size="1"><a href="http://www.adlandpro.com/redirbonus.asp?url_text=http://www.ezinfocenter.com/359052.0001/FREE&amp;page_id=3&amp;rep_id=SFI" target="_blank"><b>F
+          R E E&nbsp;<br>
+          </b></a></font><font size="1" color="#FF0000">*</font><font face="Verdana,Arial" size="1"><a href="http://www.adlandpro.com/redirbonus.asp?url_text=http://www.ezinfocenter.com/359052.0001/FREE&amp;page_id=3&amp;rep_id=SFI" target="_blank">&nbsp;<br>
+          Business</a></font></p></td>
+      </tr>
+    </tbody></table>
+                  </center>
+                </div>
+              </td>
+              <td bgcolor="#1759BD" valign="middle" height="51">
+                <div align="center">
+                  <center>
+                <table border="1" width="80%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
       <tbody><tr>
         <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="">
           <p align="center"><a href="http://www.adlandpro.com/redir.asp?url_text=http://www.adlandpro.com/redir/FastLoad.asp&amp;rep=FastLoad&amp;flag=N" target="_blank"><font size="1" face="Verdana,Arial">Get
@@ -164,49 +269,59 @@ function SelectIt(){
           Board</font></a></p></td>
       </tr>
     </tbody></table>
+                  </center>
+                </div>
               </td>
-              <td bgcolor="#1759BD" valign="middle" width="74" height="51">
-                <table border="1" width="52%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
+              <td bgcolor="#1759BD" valign="middle" height="51">
+                <div align="center">
+                  <center>
+                <table border="1" width="80%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
       <tbody><tr>
-        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap=""><p align="center"><font size="1" face="Verdana,Arial"><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1906588"><b>F
-          R E E</b><br>
-          -&nbsp;<br>
-          LEADS</a></font></p></td>
+        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#000000"><p align="center"><a href="http://www.free-advertising-promotion.com/submit.asp?ref=" target="_top"><b><font face="Verdana,Arial" size="1" color="#FFFFFF">300,000<br>
+          Directories<br>
+          &nbsp;Submission</font></b></a></p></td>
       </tr>
     </tbody></table>
+                  </center>
+                </div>
               </td>
-              <td bgcolor="#1759BD" valign="middle" width="150" height="51">
-                <table border="1" width="50" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
+              <td bgcolor="#1759BD" valign="middle" height="51">
+                <div align="center">
+                  <center>
+                <table border="1" width="80" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="1">
       <tbody><tr>
-        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap=""><b><font size="1"><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1906589">&nbsp;F
-          R E E&nbsp;<br>
-          3.9Mill<br>
-          Permanent Ads</a></font></b></td>
+        <td width="100%" valign="middle" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap=""><font size="1"><a href="http://www.adlandpro.com/AdvTrack.asp?ad_id=1906589">600
+          Million Ads<br>
+          Click Here<br>
+          Now!</a></font></td>
       </tr>
     </tbody></table>
+                  </center>
+                </div>
               </td>
             </tr>
            
             <tr valign="top">
              
-              <td bgcolor="#E6E6E6" colspan="7" width="100%" valign="bottom" bordercolor="#808080">
+              <td bgcolor="#E6E6E6" colspan="8" width="100%" valign="bottom" bordercolor="#808080">
                 <table border="1" width="100%" bgcolor="#C0C0C0" bordercolor="#000000" bordercolorlight="#FFFFFF" bordercolordark="#000000" cellspacing="0" cellpadding="0">
+     
+    
+    
       <tbody><tr>
         <td width="100%" valign="top" align="center" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" nowrap="" bgcolor="#E6E6E6">
-          <p align="left"><font face="Verdana,Arial"><font size="1">
-          
-
-          &nbsp;&nbsp;&nbsp;&nbsp;
-          
-          
-          </font><a href="javascript:{}" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.adlandpro.com');"><font size="1">Make
-                us your homepage!</font></a><font size="1">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#FFFFFF" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <p align="left"><a href="javascript:{}" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.adlandpro.com');"><font size="1">Make
+                us your homepage!</font></a><font size="1">&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#FFFFFF" size="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font size="2"><a href="http://www.adlandpro.com/submit.asp?ref="><b><span style="background-color: #000000"><font color="#FFFFFF">S
+          u b m i t&nbsp;&nbsp;&nbsp; t o&nbsp; over&nbsp; 300,000 d i r e c t o
+          r i e&nbsp; s</font></span></b></a><span style="background-color: #000000">&nbsp;</span></font><font size="1">&nbsp;&nbsp;
+          <marquee width="100" loop="1" height="13">&lt;---Click Here&nbsp;&nbsp;&nbsp;
+          &lt;---Click Here&nbsp;&nbsp;&nbsp;&nbsp;&lt;---Click Here&nbsp;</marquee>
+          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</font><font color="#FFFFFF" size="1">
           </font><font size="1"><a href="http://www.freebonanza.com/partner.asp?ref=A-963">Free
-                Resources at FreeBonanza</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          <a href="http://www.adlandpro.com/redir/browserHeader.asp">Free Web
-          Tools</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.free-irewards.com/adlandpro" target="_blank">Free
-          Stuff</a></font></font></p></td>
+          Bonanza</a>&nbsp; </font></p></td>
       </tr>
+     
+
     </tbody></table>
               </td>
              
@@ -220,6 +335,10 @@ function SelectIt(){
     </center></td>
   </tr>
 </tbody></table>
+
+
+
+
 
 
 
@@ -472,9 +591,9 @@ function SelectIt(){
 <tbody><tr>
 <td align="center">
 <font size="1">
-            <a href="http://www.adlandpro.com/ContactUs.asp" target="_top">Contact US</a> |
+            <a href="http://www.adlandpro.com/AdIntro.asp">New Ad</a> |<a href="http://www.adlandpro.com/ContactUs.asp" target="_top">Contact US</a> |
             <a href="http://www.adlandpro.com/default.asp?rep=adland" target="_top"> Home
-            </a> |&nbsp; <a href="http://members.adlandpro.com/logon.asp" target="_top">Affiliate/Advertiser/Free Member Login
+            </a> |&nbsp; <a href="http://www.adlandpro.com/logon.asp" target="_top">Affiliate/Advertiser/Free Member Login
             </a> | <a href="http://www.adlandpro.com/Services.asp" target="_top"> Advertising
             </a> | <a href="http://www.adlandpro.com/testimonials.asp" target="_top"> Testimonials
             </a> | <a href="http://www.adlandpro.com/adland_digest_success_story_of_the_year.asp" target="_top"> Adland Digest Success Story</a> </font>
@@ -515,6 +634,60 @@ o s t i n g</font></a>
 
 </tbody></table>
 
+
+
+
+
+<!-- BEGIN WEBSIDESTORY CODE -->
+ <!-- COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy -->
+ 
+ <script language="javascript">
+ var _pn='/PrivacyStatement.asp'; //page name(s)
+ var _mlc="PLAIN"; //multi-level content category
+ var _cp="null"; //campaign
+ var _acct="WE511126JFVN01EN3"; //account number(s)
+ var _pndef="title"; //default page name
+ var _ctdef="full"; //default content category
+ var _dlf="n"; //download filter
+ var _elf="n"; //exit link filter
+ var _epg="n"; //event page identifier
+ var _hcv=65; //code version
+ var _mn="wp169"; //machine name
+ var _gn="phg.hitbox.com"; //gateway name
+ function _wn(_nm){if((_nm.indexOf("NAME")>0&&_nm.indexOf("PUT")>=0)||
+ (_nm.indexOf("CONTENT")>=0&&_nm.indexOf("CATEGORY")>0))return true;return false;}
+ function _gd(_x,_w){_ed = (_x.lastIndexOf("/"));
+ _be = (_w!="full")?(_x.lastIndexOf("/",(_ed-2))):(_x.indexOf("/"));
+ _dn = (_be==_ed)?"/":(_x.substring(_be, _ed));return _dn;}
+ function _gf(_x){_ed = (_x.length);_be = ((_x.lastIndexOf("/"))+1);
+ _fn = (_x.substring(_be, _ed));return _fn;}
+ function _vc(_ml){_mll=_ml.length-1;if(_ml.lastIndexOf("/")==_mll){_ml=_ml.substring(0,_mll)}
+ if(_ml.indexOf("/")!=0){_ml="/"+_ml;}return _ml;}
+ function _ps(_ip,_pml){if(!_ip){_pml=(_wn(_pml))?_gd(location.pathname,_ctdef):_vc(_pml);}
+ else{if (_wn(_pml)){if (_pndef=="title"){_pt=document.title; if(_pt!=""){_pml=_pt};}
+ else{_pml=_gf(location.pathname);if (_pml==""){_pml=_pndef};}};}return _pml;}
+ function _pm(_ml,_fml,_ipn){if(_ml.indexOf(";")!=-1){_nml=_ml.substring(0,(_ml.indexOf(";")));
+ _rm=_ml.substring((_ml.indexOf(";")+1),_ml.length);_fml+=_ps(_ipn,_nml)+";";
+ _gp=_pm(_rm,_fml,_ipn);return _gp;}else {_fml+=_ps(_ipn,_ml);return _fml;}}
+ var _sv=10;var _bn=navigator.appName;if(_bn.substring(0,9)=="Microsoft"){_bn="MSIE";};
+ var _bv=(Math.round(parseFloat(navigator.appVersion)*100));if((_bn=="MSIE")&&(parseInt(_bv)==2))_bv=301;
+ var _rf=escape(document.referrer);_mlc=_pm(_mlc,"",false);_pn=_pm(_pn,"",true);
+ </script><script language="javascript1.1" id="_hbc">_sv=11;</script>
+ <script language="javascript1.1" defer="" src="http://stats.hitbox.com/js/hbp.js"></script>
+ <script language="javascript">if (_sv==10){if
+ (document.cookie.indexOf("CP=")!=-1){_ce="y";}else{
+ document.cookie="CP=null*; path=/; expires=Wed, 1 Jan 2020 00:00:00 GMT";
+ _ce=(document.cookie.indexOf("CP=")!=-1)?"y":"n";};if((_rf=="undefined")||(_rf=="")){_rf="bookmark";};
+ _x2="<img src='http://"+_gn+"/HG?hc="+_mn+"&hb="+escape(_acct)+"&n="+escape(_pn);
+ _x3="&cd=1&hv=6' border=0 height=1 width=1>";
+ _ar="&bn="+escape(_bn)+"&bv="+_bv+"&ce="+_ce+"&ss=na&sc=na&dt=&sv="+_sv+"&con="+escape(_ct);
+ _ar+="&vcon="+escape(_mlc)+"&epg="+_epg+"&hp=u&cy=u&ja=na&ln=na&cp="+escape(_cp)+"&pl=&rf="+_rf;
+ document.write(_x2+_ar+_x3);}document.write("<\!--");</script><!--
+ <noscript><img src="http://phg.hitbox.com/HG?hc=wp169&cd=1&hv=6&ce=u&hb=WE511126JFVN01EN3&n=/PrivacyStatement.asp&vcon=PLAIN" border='0' width='1' height='1'>
+ </noscript><!--//-->
+ 
+ <!-- END WEBSIDESTORY CODE  -->
+ 
 
 
 
