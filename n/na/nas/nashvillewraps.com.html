@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nashvillewraps.com privacy policy that was archived on 2001-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011217085854id_/http%3A//nashvillewraps.com/ShowPage.ww%3FPage%3DPOLICY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nashvillewraps.com privacy policy that was archived on 2002-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020607192149id_/http%3A//www.nashvillewraps.com/ShowPage.ww%3FPage%3DPOLICY) for the most accurate reproduction.-->
 
 <html><head>
 <meta name="GENERATOR" content="West Wind Web Connect">
@@ -57,6 +57,22 @@ function validateSearch(form){
 function askWinGo(text,action){
 	if (confirm(text))
 	location.href = action;}
+function dropCard() {
+	var cnum = document.ViewCart.CardFile.value;
+	var cmon = cnum.slice(5,7);
+	var cyear = cnum.slice(8,10);
+	var cyearnum = parseInt(cyear,10);
+	var cyearsel = (cyearnum < 2 || cyearnum > 10) ? 0 : cyearnum-1
+	if (cnum == 'CARD-00/00') {
+		document.ViewCart.CardNumber.value = '';
+		document.ViewCart.CardExpMon.selectedIndex = 0;
+		document.ViewCart.CardExpYear.selectedIndex = 0;
+		document.ViewCart.CardNumber.focus();
+	} else {
+		document.ViewCart.CardNumber.value = 'xxxx-xxxx-xxxx-'+cnum.slice(0,4);
+		document.ViewCart.CardExpMon.selectedIndex = parseInt(cmon,10);
+		document.ViewCart.CardExpYear.selectedIndex = cyearsel;
+		if (cyearsel == 0) document.ViewCart.CardExpYear.focus();}}
 function confirmHold() {
 	if (document.ViewCart.TaxHold.checked) 
 	if (confirm('Your order will be held until we receive a completed and SIGNED Certificate of Resale. Are you sure?')) {
@@ -137,16 +153,15 @@ function OpenCertDetails()	{
 		<a href="/ShowType.ww?Class=36&amp;Link=LeftNav" class="LeftNav"><font size="1">Bags-Shoppers Plastic</font></a><br>
 		<a href="/ShowType.ww?Class=29&amp;Link=LeftNav" class="LeftNav"><font size="1">Bags-Specialty</font></a><br>
 		<a href="/ShowType.ww?Class=23&amp;Link=LeftNav" class="LeftNav"><font size="1">Balloons</font></a><br>
-		<a href="/ShowType.ww?Class=26&amp;Link=LeftNav" class="LeftNav"><font size="1">Baskets</font></a><br>
+		<a href="/ShowType.ww?Class=26&amp;Link=LeftNav" class="LeftNav"><font size="1">Baskets/Accessories</font></a><br>
 		<a href="/ShowType.ww?Class=2&amp;Link=LeftNav" class="LeftNav"><font size="1">Bows</font></a><br>
 		<a href="/ShowType.ww?Class=3&amp;Link=LeftNav" class="LeftNav"><font size="1">Boxes</font></a><br>
 		<a href="/ShowType.ww?Class=4&amp;Link=LeftNav" class="LeftNav"><font size="1">Cards/Seals</font></a><br>
 		<a href="/ShowType.ww?Class=19&amp;Link=LeftNav" class="LeftNav"><font size="1">Cellophane</font></a><br>
 		<a href="/ShowType.ww?Class=5&amp;Link=LeftNav" class="LeftNav"><font size="1">Equipment/Supplies</font></a><br>
-		<a href="/ShowType.ww?Class=7&amp;Link=LeftNav" class="LeftNav"><font size="1">Garland/Confetti/Sprays</font></a><br>
+		<a href="/ShowType.ww?Class=7&amp;Link=LeftNav" class="LeftNav"><font size="1">Garland &amp; Sprays</font></a><br>
 		<a href="/ShowType.ww?Class=6&amp;Link=LeftNav" class="LeftNav"><font size="1">Giftwrap/Counter Rolls</font></a><br>
 		<a href="/ShowType.ww?Class=27&amp;Link=LeftNav" class="LeftNav"><font size="1">Giftwrap/Cutter Boxes</font></a><br>
-		<a href="/ShowType.ww?Class=28&amp;Link=LeftNav" class="LeftNav"><font size="1">Giftwrap/Resale</font></a><br>
 		<a href="/ShowType.ww?Class=37&amp;Link=LeftNav" class="LeftNav"><font size="1">Literature</font></a><br>
 		<a href="/ShowType.ww?Class=11&amp;Link=LeftNav" class="LeftNav"><font size="1">Packing/Shipping</font></a><br>
 		<a href="/ShowType.ww?Class=9&amp;Link=LeftNav" class="LeftNav"><font size="1">Ribbon Basics</font></a><br>
@@ -199,7 +214,7 @@ function OpenCertDetails()	{
 		<b>Privacy Policy</b></a></td></tr>
 	<tr bgcolor="#B3E3EE"><td colspan="2" height="2"><img src="/1px.gif" height="2"></td></tr>
 	<tr bgcolor="#B3E3EE"><td width="12"><img src="/1px.gif" width="12"></td>
-		<td><a href="/CatNew.ww" class="SmallLink">
+		<td><a href="/SendCat.ww" class="SmallLink">
 		<b>Request Free Catalog</b></a></td></tr>
 	<tr bgcolor="#B3E3EE"><td colspan="2" height="8"><img src="/1px.gif" height="8"></td></tr>
 </tbody></table>
@@ -208,22 +223,26 @@ function OpenCertDetails()	{
 <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#172260">
 	<tbody><tr bgcolor="#172260"><td height="8"><img src="/1px.gif" height="8"></td></tr>
 	<tr bgcolor="#172260" align="center">
-		<td><a href="/catnew.ww?Link=AdText"><font color="White"><b>Request A <br>
+		<td><a href="/SendCat.ww?Link=AdText"><font color="White"><b>Request A <br>
 		Free Catalog</b></font></a></td></tr>
 	<tr bgcolor="#172260"><td height="8"><img src="/1px.gif" height="8"></td></tr>
-	<tr bgcolor="#172260" align="center"><td><a href="/catnew.ww?Link=AdImage">
+	<tr bgcolor="#172260" align="center"><td><a href="/SendCat.ww?Link=AdImage">
 		<img src="/images/common/cvr_small.jpg" border="0" width="95" height="123"></a></td></tr>
 	<tr bgcolor="#172260"><td height="10"><img src="/1px.gif" height="10"></td></tr>
 </tbody></table>
 <!-- End BoxCat -->
 <!-- Start BoxFreight -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr bgcolor="White"><td align="center"><a href="/html/orderinginfo.htm?Link=AdBox#freight">
-		<img src="/images/home/usmap99_small.jpg" border="0"></a></td></tr>
+	<tbody><tr bgcolor="White"><td align="center"><font size="4" color="red">FREE FREIGHT</font><br>
+		<font size="1">on orders of $300 or more<br>for stock merchandise<br>in the 48 contiguous states<br>
+		<font color="red">Plus SAVE an additional<br>5% on any order of $1000</font></font></td></tr>
+	<tr bgcolor="White"><td align="center"><a href="/html/orderinginfo.htm?Link=AdBox#freight" class="SmallLink">
+		click here for more details</a></td></tr>
+	<tr bgcolor="White"><td height="4"><img src="/1px.gif" height="4"></td></tr>
 	<tr bgcolor="#172260"><td height="1"><img src="/1px.gif" height="1"></td></tr>
 </tbody></table>
 <!-- End BoxFreight -->
-<!-- End BoxShip -->
+<!-- Start BoxShip -->
 <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="White">
 	<tbody><tr bgcolor="White"><td height="4"><img src="/1px.gif" height="4"></td></tr>
 	<tr bgcolor="White"><td align="center">We Ship By:</td></tr>
@@ -271,70 +290,70 @@ A "Cookie" is a small text file that a Web site employs to use applications that
 </td><td width="8"></td></tr>
 		</tbody></table></td><td width="140" valign="top" bgcolor="white">
 <!-- Start BoxSpec -->
-<table width="125" border="0" cellspacing="0" cellpadding="3" height="341" background="/images/home/herald1.gif" align="center">
-  <tbody><tr valign="top"> 
-    <td> 
-      <div align="center">
-        <p><font face="Arial, Helvetica, sans-serif" size="1"><b><font color="#FFFFFF">&nbsp;Use 
-          Promo Code<br>
-          WS205 At Checkout</font></b></font></p>
-        <p align="left"><font face="Arial, Helvetica, sans-serif" size="1"><b><a href="/images/home/1.html"><font color="#FFFF33" size="1">Click 
-          here<br>
-          for all the<br>
-          good news</font></a></b></font></p>
-      </div>
-    </td>
+<table border="0" cellspacing="0" cellpadding="0" align="center" width="140" height="110">
+<tbody><tr><td height="4"><img src="/1px.gif" height="4"></td></tr>
+
+<tr>
+    <td valign="top"><a href="/ShowSku.ww?Class=3&amp;Type=394&amp;Link=Listpic"> </a></td>
   </tr>
-</tbody></table><!-- End BoxSpec -->
-<table width="85" border="1" cellspacing="0" cellpadding="0" align="center">
-<tbody><tr height="3"><!--3-->
-  </tr><tr>
-    <td>
-      <table width="125" border="0" cellpadding="0" cellspacing="0">
-        <tbody><tr bgcolor="#FFFFFF"> 
-          <td> 
-            <div align="center"><font face="Arial, Helvetica, sans-serif" size="1" color="#000000"><b><font face="Verdana, Arial, sans-serif, Tahoma">Paw 
-              Prints Theme<br>
-              Is Top Seller</font></b></font></div>
-          </td>
+<tr>
+    <td valign="top" height="90"> 
+      <table cellspacing="0" cellpadding="0" width="100%">
+        <tbody><tr> 
+          <td align="center" valign="top"><b><font face="Arial, Helvetica, sans-serif" size="2">New 
+            Idea!<br>
+            Tapestry Gift<br>
+            Basket Box<br>
+            <a href="/ShowSku.ww?Class=3&amp;Type=394&amp;Link=Listpic"><font size="1">- 
+            Click Here -</font></a><a href="/ShowSku.ww?Class=3&amp;Type=394&amp;Link=Listpic"><img src="/images/home/heart_basket.jpg" height="138" width="140" border="0"></a></font></b></td>
         </tr>
-        <tr> 
-          <td> <img src="/images/home/doggon_images/doggone2_02.jpg" width="125" height="243"></td>
-        </tr>
-        <tr> 
-          <td> <a href="/ShowSearch.ww?Query=paw"><img src="/images/home/doggon_images/doggone2_03.gif" width="125" height="50" border="0" alt="ARF!"></a></td>
-        </tr>
-        <tr bgcolor="#FFFFFF"> 
-          <td> 
-            <div align="center"><b><font face="Verdana, Arial, sans-serif, Tahoma" size="1" color="#000000">Doggone 
-              Good Gift<br>
-              Basket Packaging!</font></b> </div>
-          </td>
+        <tr>
+          <td align="center" height="34"><font color="#000000" size="1" face="Arial, Helvetica, sans-serif"> 
+            Basket Creation by<br>
+            <i><a href="http://www.confettigiftbaskets.com" target="_new">confettigiftbaskets.com</a></i></font></td>
         </tr>
       </tbody></table>
+</td></tr>
+<tr><td height="4"><img src="/1px.gif" height="4"></td></tr>
+</tbody></table><!-- End BoxSpec -->
+<table width="136" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tbody><tr> 
+          <td><a href="/ViewCart.ww"><img src="images/home/coupon3_01.gif" width="136" height="39" alt="" border="0"></a></td>
+        </tr>
+        <tr> 
+          <td><a href="/ViewCart.ww"><img src="images/home/coupon3_02.jpg" width="136" height="154" alt="" border="0"></a></td>
+        </tr>
+        <tr> 
+          <td><a href="/ViewCart.ww"><img src="images/home/coupon3_03.gif" width="136" height="47" alt="" border="0"></a></td>
+        </tr>
+</tbody></table><table><tbody><tr><td height="3"><img src="/1px.gif" height="3"></td></tr></tbody></table>
+<table width="83" border="0" cellspacing="0" cellpadding="0" align="center" bgcolor="#000066">
+<tbody><tr><td align="center"><a href="/ShowSku.ww?Class=024&amp;Type=381">
+<img src="/images/home/usa_box.jpg" border="0" width="137"></a>
+<font face="Times New Roman, Times, serif" color="#ffffff" size="3"><b><i>Hot Item!<br></i></b><i>
+Order Now to<br>insure availability<br></i></font>
+<a href="/ShowSku.ww?Class=024&amp;Type=381"><font color="RED"><b>- Click Here -</b></font></a><br>
+<font face="Times New Roman, Times, serif" color="#ffffff" size="3"><i>or to see all our<br>
+Patriotic Products<br></i></font>
+<a href="/ShowSearch.ww?Query=Patriotic&amp;Images=1"><font color="RED"><b>- Click Here -</b></font></a>
+</td></tr>
+<tr bgcolor="#000066"><td height="3"><img src="/1px.gif" height="3"></td></tr>
+</tbody></table>
+<br>
+<table width="140" border="0" cellspacing="0" cellpadding="0" height="100" background="images/home/small_bluebox.gif">
+  <tbody><tr valign="middle"> 
+    <td> 
+      <div align="center"> <font face="Times New Roman, Times, serif" size="5"><b><i><font size="4">Be 
+        featured <br>
+        on our site!</font></i></b></font><br>
+        <font face="Times New Roman, Times, serif" size="2">
+        <a href="javascript:void(0)" onclick="javascript:window.open('/ShowMini.ww?Page=FEATURED','New','Title')">
+        Click Here<br>
+        For More Info</a></font></div>
     </td>
   </tr>
 </tbody></table>
-<table width="122" border="0" cellspacing="2" cellpadding="2" align="center">
-  <tbody><tr bgcolor="#000000" height="77"> 
-    <td>
-      <div align="center"><font face="Verdana, Arial, sans-serif, Tahoma" size="2" color="#FFFFFF"><b>Wraphia<br>
-        $4.75<br>
-        and More!<br>
-        </b></font><b><a href="/ShowSpec.ww?Link=HomeAd&lt;b&gt;"><font color="ffff33" size="1">-Click 
-        Here-</font></a></b></div>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <div align="center"><a href="/ShowSku.ww?Class=3&amp;Type=357=Link=TopAd"><img src="/images/home/giftboxes_80.jpg" width="116" height="160" border="0"><br>
-        </a><font color="#000000" face="Times New Roman, Times, serif" size="1"><b><i><font size="2">Limited Offer:<br>Gift Boxes <br>
-        Under $11 per 100!</font></i></b><br>
-        <a href="/ShowSku.ww?Class=3&amp;Type=357=Link=TopAd">-Click Here-</a></font></div>
-    </td>
-  </tr>
-</tbody></table><!-- Start BoxSSL -->
+<!-- Start BoxSSL -->
 <table border="0" cellpadding="2" cellspacing="0" width="100%" bgcolor="White">
 	<tbody><tr bgcolor="White"><td height="4"><img src="/1px.gif" height="4"></td></tr>
 	<tr bgcolor="White"><td align="center">		<a href="javascript:OpenCertDetails()">		<img src="/images/common/stamp.gif" border="0" alt="Click here for more details"></a></td></tr>
@@ -348,6 +367,11 @@ A "Cookie" is a small text file that a Web site employs to use applications that
 	<tr bgcolor="White"><td height="4"><img src="/1px.gif" height="4"></td></tr>
 </tbody></table>
 <!-- End BoxBrowser -->
+<!-- Start BoxRibbon -->
+<table border="0" cellpadding="2" cellspacing="0" width="100%" bgcolor="White">
+	<tbody><tr><td align="center"><img src="/images/home/ribbon_we_rem.gif"></td></tr>
+</tbody></table>
+<!-- End BoxRibbon -->
 		</td>
 <!-- Start BottomNav -->
 </tr><tr bgcolor="#172260"><td>&nbsp;<font size="1">
@@ -363,7 +387,7 @@ A "Cookie" is a small text file that a Web site employs to use applications that
 	<td align="Right"><font size="1">
 	<a href="#Top" class="BottomNav">Return to Top</a></font>&nbsp;</td></tr>
 	<tr bgcolor="#172260"><td>&nbsp;</td><td height="24" align="center">
-		<font color="White">© 2001 Copyright - Nashville Wraps, LLC.</font></td>
+		<font color="White">© 2002 Copyright - Nashville Wraps, LLC.</font></td>
 		<td align="Right">&nbsp;</td></tr>
 <!-- End BottomNav -->
 </tbody></table>
