@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 247spares.co.uk privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610104850id_/http%3A//www.247spares.co.uk/docs/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 247spares.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204144545id_/http%3A//www.247spares.co.uk/docs/privacy.php) for the most accurate reproduction.*
 
 # 247spares - Customer Support. We provide several way to get help and support in your spare car part purchases.
 
@@ -12,7 +12,7 @@
 
 **Third party sites** Many of our sites operate with third party sites (such as online shops). We may, on occasion, share non-personal aggregated information to these third parties. 
 
-**Cookies** We use ‘cookies’ to track advertising information and website usage. On certain sites, or third party sites we may utilise cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. 
+**Cookies** We use �cookies� to track advertising information and website usage. On certain sites, or third party sites we may utilise cookies for other purposes such as order tracking in online shops or for targeting advertisements to particular types of visitor. 
 
 **Surveys** On occasion we may conduct online surveys. This is used to gauge our service, collect demographic information and other information that we may find useful. These surveys are optional. We may share non-personal, aggregated information with third parties. 
 
