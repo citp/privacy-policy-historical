@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savethechildren.org privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602021622id_/http%3A//www.savethechildren.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org privacy policy that was archived on 2002-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020408043710id_/http%3A//savethechildren.org/privacy.shtml) for the most accurate reproduction.*
 
 # Save the Children: Privacy Policy
 
@@ -90,7 +90,7 @@ From time to time, Save the Children may add features or services to our website
 
 **K. Who do I contact with questions or comments about the privacy policy or acceptable use agreements?**
 
-If you have any questions about our privacy policy or acceptable use policy, please use our contact form at <http://www.savethechildren.org/email.shtml>. Or, in the alternative you may contact us by:
+If you have any questions about our privacy policy or acceptable use policy, please [e-mail us](mailto:webmaster@savechildren.org). Or, in the alternative you may contact us by:
 
 **Mail:**   
 Save the Children.   
@@ -104,6 +104,4 @@ Westport, CT 06880
 1-800-SAVETHECHILDREN   
 1-800-728-3843   
   
----|---  
-  
-© 2001 Save the Children
+---|---
