@@ -1,11 +1,7 @@
-> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202213009id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipelink.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606031521id_/http%3A//www.recipelink.com/privacy.html) for the most accurate reproduction.*
 
 # recipelink.com Privacy Policy
 
-|  |  |  |   
-  
----|---|---|---|---  
-  
 **Recipelink.com Privacy Policy**
 
 The Recipelink.com E-Newsletter is an opt-in, subscription-only service and is sent only to visitors who have requested it by submitting their e-mail address through the [online subscription form](http://www.recipelink.com/tklnewsletter.html). Subscribers may opt out of their subscriptions at any time by using the  [online subscription form](http://www.recipelink.com/tklnewsletter.html) or by e-mail: [Newsletter@recipelink.com](mailto:newsletter@recipelink.com?subject=Subscription%20Change)
