@@ -1,0 +1,557 @@
+<!--The following is the downloaded HTML source of the comcastsupport.com privacy policy that was archived on 2004-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041231092444id_/http%3A//www.comcast.net/privacy) for the most accurate reproduction.-->
+
+<html><head>
+
+<title>Welcome to Comcast High-Speed Internet!</title>
+
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="Mon, 01 Jan 1990 12:00:00 GMT">
+<meta http-equiv="Cache-control" content="no-cache">
+<meta http-equiv="Cache-control" content="must-revalidate">
+<meta http-equiv="Cache-control" content="max-age=0">
+
+<link href="/styles/main.css" type="text/css" rel="STYLESHEET">
+<link href="/styles/component.css" type="text/css" rel="STYLESHEET">
+
+<style type="text/css">
+body {
+	background-color: #001A33;
+	margin: 0px;
+}
+</style>
+
+<script src="/js/browser.js"></script>
+<script src="/js/main.js"></script>
+<script src="/js/checkNetwork.js"></script>
+<script src="/js/flash_detection.js"></script>
+<script src="/js/wt_lib.js"></script>
+<script language="JavaScript">
+
+    updateBrowser("browserUpgrade.html");
+
+    function launchPopup(url, name, width, height) {
+        popup_window = window.open( url, name, 'width=' + width + ',height=' + height +',resizable=yes,scrollbars=yes');
+        popup_window.focus();
+    }
+
+    var subWindow;
+
+    function outsidePopup(url, name, width, height) {
+        if (subWindow) {
+            subWindow.close();
+        }
+        subWindow = window.open( url, name, 'width=' + width + ',height=' + height +',resizable=yes,scrollbars=yes');
+        subWindow.focus();
+    }
+    </script>
+
+</head>
+
+<body>
+
+  <script>
+    if (loggedin) {
+        setFirstName(firstName);
+        setZipCode(zipCode);
+    }
+  </script>
+
+<div id="container_main">
+
+	<!-- Header -->
+	<div id="header">
+
+		<script>
+// checks the status of the Video Mail Active X control
+function checkVideoMailStatus() {
+	var launcher = document.getElementById("launcher");
+	if( launcher==null || launcher.checkInstall() == 0 ) {
+    	window.open("http://www.comcast.net/videomail", "videomail");
+	} else {
+    	launcher.run("", "");
+	}
+}
+
+// alerts non-Windows IE users that Video Mail is not supported
+function videoMailAlert() {
+	alert("Comcast Video Mail is currently only supported on Windows computers running Windows 98SE, ME, 2000, XP Professional or XP Home.");
+}
+
+if (actualVersion >= 6) {
+    writeFlash("topnav", "/providers/topnav/topnav.swf?user=" + user + "&chost=http://www.comcast.net&win=" + is_win + "&isie=" + is_ie + "&ax=false&u=" + window.location.href, "749", "67", "#001A33");
+} else {
+    document.writeln("<div class='blacksmall'>Macromedia Flash 6 or higher is required to use this feature.  The latest version of this free software can be downloaded <a href='http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash' target='_blank'>here</a></div>");
+}
+
+</script><div class="blacksmall">Macromedia Flash 6 or higher is required to use this feature.  The latest version of this free software can be downloaded <a href="http://www.macromedia.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank">here</a></div>
+
+     	<script>
+//var is_home = (loggedin == true && (location.pathname.indexOf("/home.jsp")==0 || location.pathname.indexOf("/home.html")==0 || location.pathname.indexOf("/qry/myhome")==0));
+if (actualVersion >= 6 && is_win && is_ie) {
+    document.writeln('<div id="fanWrapper" style="z-index: 600; position: relative; top: 0; left: 0">');
+    document.writeln('  <div id="fanLayer" style="position: absolute; top: 0; left: -2500; z-index: 650; visibility: hidden;">');
+    writeFlash("theFan", "/providers/fan/fanLoad.swf?ili="+loggedin+"&ui=http://wwwj.comcast.net&config=/providers/fan/homeConfig.xml", "560", "625", "#001A33", "transparent");
+    document.writeln('  </div>');
+    document.writeln('</div>');
+}
+</script>
+<script>
+    function viewTheFan(source) {
+        var vlyr = document.getElementById("fanLayer");
+        vlyr.style.left = 170;
+        vlyr.style.visibility = "visible";
+        //add tracking line here
+        var extra = "";
+        if (typeof source == "undefined" || source == null) {
+            source = "";
+        } else if (typeof source != "string") {
+            source += "";
+        }
+        if (source.length > 0) {
+            extra = "&CM.fan=" + source;
+        }
+        trackFlash("/fan.swf", "Fan", null, extra);
+    }
+
+    function hideTheFan() {
+        var vlyr = document.getElementById("fanLayer");
+        vlyr.style.left = -2500;
+        vlyr.style.visibility = "hidden";
+    }
+
+    function popTheFan(vid,conf) {
+        window.open("/providers/fan/popup.html?"+vid+"&config="+conf,'thefan',"width=560,height=625");
+    }
+</script>
+
+	</div>
+	<!-- End Header -->
+
+	<!-- Outer Most Border (cyan) -->
+	<div id="border_outer">
+
+		<!-- Top Content Area -->
+		<div id="content_top">
+
+			<table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+			<td height="18" width="338" class="whitesmallbold"><script>document.write(displayGreetingYHM());</script></td>
+			<td height="18" width="145" align="right"><span id="hp" style="behavior:url(#default#homepage)"></span><script>document.write(displaySetHomePageButton());</script></td>
+			<td height="18" width="103" align="right"><script>document.write(displayPersonalizeButton());</script></td>
+			<td height="18" width="75" align="right"><script>document.write(displayEditGreetingButton());</script></td>
+			<td height="18" width="70" align="right"><script>document.write(displayLoginLogoutButton());</script></td>
+			</tr></tbody></table>
+
+		</div>
+		<!-- End Top Content Area -->
+
+
+		<!-- Middle Border (thick blue, main border) -->
+		<div id="border_middle">
+
+			<!-- Inner Border (dark blue) -->
+			<div id="border_inner">
+
+				<!-- Inner Most Border (black) -->
+				<div id="border_innermost">
+
+					<table cellpadding="0" cellspacing="0" border="0" width="729">
+					<tbody><tr valign="top">
+
+  
+  <td width="729" bgcolor="#ffffff" valign="top">
+ 
+  <!-- START CONTENT -->
+
+
+<meta name="category" content="Privacy">
+<meta name="title" content="Privacy">
+<table cellpadding="0" cellspacing="0" border="0" width="729" height="38">
+    <tbody><tr><td width="729" height="38"><img alt="" border="0" height="38" src="/privacy/images/header.jpg" width="729"></td></tr>
+</tbody></table>
+<table cellpadding="0" cellspacing="0" border="0" width="650" height="450" align="center">
+    <tbody><tr><td height="20"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Comcast High-Speed Internet Privacy Statement</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td class="blacktext" valign="top"><a href="http://www.truste.org/ivalidate.php?url=www.comcast.net" target="truste"><img align="right" src="/privacy/images/clickseal.gif" width="91" height="73" border="0" hspace="10" vspace="5"></a>
+            This Privacy Policy statement covers the Web site <a href="http://www.comcast.net">www.comcast.net</a> and the Comcast High-Speed Internet Service. We encourage you to read the entire Policy and check this page periodically for any changes or updates. Click the links below to go directly to a specific section of the Policy.
+            <br><br>
+            <table cellpadding="0" cellspacing="0" border="0">
+                <tbody><tr valign="top">
+                    <td><img src="/images/pixelclear.gif" width="25" height="1" border="0"></td>
+                    <td>
+                        <a class="bluebold" href="#truste">Comcast is a Member of TRUSTe</a><br>
+                        <a class="bluebold" href="#collection">Information Collection</a><br>
+                        <a class="bluebold" href="#disclosure">Information Use and Disclosure</a><br>
+                        <a class="bluebold" href="#software">Software and Configuration</a><br>
+                        <a class="bluebold" href="#preferences">Preferences</a><br>
+                        <a class="bluebold" href="#cookies">Cookies</a><br>
+                        <a class="bluebold" href="#logs">Log Files and Web Site and E-mail Management</a><br>
+                        <a class="bluebold" href="#communications">Communications from Comcast</a><br>
+                        <a class="bluebold" href="#choice">Choice and Contact Preferences</a>
+                    </td>
+                    <td><img src="/images/pixelclear.gif" width="55" height="1" border="0"></td>
+                    <td>
+                        <a class="bluebold" href="#links">Links</a><br>
+                        <a class="bluebold" href="#security">Security</a><br>
+                        <a class="bluebold" href="#correcting">Correcting and Accessing Information</a><br>
+                        <a class="bluebold" href="#enforcement">Enforcement</a><br>
+                        <a class="bluebold" href="#information">Retention of Information</a><br>
+                        <a class="bluebold" href="#notification">Notification of Changes to this Policy</a><br>
+                        <a class="bluebold" href="#customers">Comcast Cable and Voice Customers</a><br>
+                        <a class="bluebold" href="#contact">Contact Information</a><br>
+                        <a class="bluebold" href="#children">Special Note about Children</a>
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr><td height="30"><a name="truste">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Comcast is a Member of TRUSTe</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td class="blacktext" valign="top">
+Comcast Cable Communications, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This Privacy Policy statement (the "Policy") covers the Web site <a href="/">www.comcast.net</a> and the Comcast High-Speed Internet Service (collectively, the "Service"). By using the Service, you expressly consent to the terms of this Policy.
+<br><br>
+Comcast is committed to maintaining your privacy and believes that, as a subscriber to its high-speed Internet service, you are entitled to know Comcast's information practices. This includes the limitations which Comcast observes in the collection and disclosure of personally identifiable subscriber information, the type of personally identifiable information we collect, how we use subscriber information, under what conditions we may disclose this information, the period during which we maintain it and the rights of subscribers concerning this information and its disclosure. As a further demonstration of our commitment to our subscribers' privacy, Comcast has voluntarily agreed to have its privacy practices reviewed for compliance by TRUSTe. The Policy notifies Comcast's subscribers about the following:
+<br><br>
+<ul>
+	<li>What personally identifiable information is collected about you.</li>
+	<li>What personally identifiable information third parties collect through the Service.</li>
+	<li>What organization collects the information.</li>
+	<li>How the information is used.</li>
+	<li>With whom the information may be shared.</li>
+	<li>What choices are available to you regarding collection, use, and distribution of the information.</li>
+	<li>What types of security procedures are in place to protect information under Comcast's control.</li>
+	<li>How you can correct any inaccuracies in the information.</li>
+	<li>How you can enforce this Policy.</li>
+	<li>How long information is retained.</li>
+</ul>
+If you have questions or concerns regarding this Policy, you should first contact Comcast at the contact information near the end of this Policy. If you do not receive acknowledgment of your inquiry or it's not satisfactorily addressed, you should then contact TRUSTe through the <a href="http://www.truste.org/consumers/watchdog_complaint.php" target="_blank">TRUSTe Watchdog Dispute Resolution Process</a>. TRUSTe will serve as a liaison with Comcast to resolve your concerns.
+<br><br>
+<font class="bluebold">Special Note:</font>
+The TRUSTe program covers only information that is collected through the Service by Comcast, and does not cover information that may be collected through software used in connection with the Service. This Privacy Policy does not apply to any other Web sites, products, or services, even if accessed through the Service and even if co-branded with the Service. You should read the privacy policies of the Web sites you visit to learn how they treat your personal information.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="collection">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Information Collection</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td class="blacktext" valign="top">
+In this Policy, the terms "Comcast," "we," "us," or "our" refer to the operating company subsidiary of Comcast Corporation that owns and/or operates the cable television system in your area pursuant to a cable television franchise with the local franchising authority.  The term "you" refers to you as a subscriber to the Services. Comcast collects information from you at several different points on the Service. Some of this information is personally identifiable information, but much of it is not. Personally identifiable information is information that identifies a particular person.
+<br><br>
+Applicable law authorizes Comcast to use the cable system to collect personally identifiable information about our subscribers as necessary in order to render the Service and Service features and other services and to detect unauthorized reception or use of the Service and Service features.  Applicable law prohibits us from using the cable system to collect personally identifiable information concerning any subscriber for any purposes other than those listed above without the subscriber's prior written or electronic consent.  When you establish an account for the Service we collect information such as your name, address, telephone number, e-mail address, as well as information used for credit checks, billing, and payment, and other information we may need to establish and service an account. During the initial provisioning of the Service, and any subsequent changes or updates to that provisioning, Comcast collects technical information about your computer hardware and software, cable modem and/or other cable service-related devices, and customization settings and preferences. If you rent your residence, we may have a record of whether landlord permission was required prior to installing our cable facilities as well as your landlord's name and address.  Comcast also collects personally identifiable information about you when you communicate with us for support, maintenance, and billing, send us e-mails, respond to our surveys or e-mails, engage in chat sessions with us, register for information, or participate in promotions or contests, for example. In addition, Comcast may combine personally identifiable information, which we collect as part of our regular business records, with personally identifiable information obtained from third parties for the purpose of creating an enhanced personal database to use in marketing and other activities related to the Service and our other services.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="disclosure">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Information Use and Disclosure</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+Comcast considers the personally identifiable information contained in our business records to be confidential.  Applicable law authorizes Comcast to disclose personally identifiable information concerning any subscriber for the following purposes if the disclosure is:
+<ul>
+	<li>necessary to render, or conduct a legitimate business activity related to, the Service and Service features or other services provided to the subscriber;</li>
+	<li>required by law or legal process (as described below in this Policy); or</li>
+	<li>of the names and addresses of subscribers for "mailing list" or other purposes (subject to each subscriber's right to prohibit or limit this disclosure as described below in this Policy).</li>
+</ul>
+Applicable law prohibits us from disclosing personally identifiable information concerning any subscriber for any purposes other than those listed above without the subscriber's prior written or electronic consent.  The frequency of any information disclosure varies in accordance with our business activities and needs.  
+<br><br>
+Comcast may use and disclose personally identifiable information collected on the Service as provided for by applicable law in order to: 
+<ul>
+	<li>install, configure, operate, provide, support, and maintain the Service;</li>
+	<li>confirm that you are receiving the service requested and are properly billed for it;</li>
+	<li>identify you when changes are made to your Service account;</li>
+	<li>make you aware of new products or services that may be of interest to you;</li>
+	<li>understand the use of, and identify improvements to, our Service;</li>
+	<li>detect unauthorized reception, use, or abuse of the Service;</li>
+	<li>determine whether there are violations of any applicable policies and terms of service;</li>
+	<li>manage the Service network;</li>
+	<li>configure cable modems and/or other cable service-related devices; and</li>
+	<li>comply with law.</li>
+</ul>
+Comcast may also use and disclose personally identifiable information as provided for by applicable law in order to perform, for example:
+<ul>
+	<li>billing and invoicing;</li>
+	<li>administration;</li>
+	<li>surveys;</li>
+	<li>collection of fees and charges;</li>
+	<li>marketing;</li>
+	<li>service delivery and customization;</li>
+	<li>maintenance and operations;</li>
+	<li>technical support;</li>
+	<li>hardware and software upgrades; and</li>
+	<li>fraud prevention.</li>
+</ul>
+We sometimes disclose personally identifiable information about you to our affiliates or to others who work for us. We sometimes also disclose personally identifiable information about you to our employees for Comcast's internal business purposes, as well as to outside auditors, professional advisors and service providers, potential business transition partners, and regulators. Typically, we make these disclosures when the disclosure is necessary to render, or conduct a legitimate business activity related to, the Service or other services we provide to you.  We may be required by law or legal process to disclose certain personally identifiable information about you to lawyers and parties in connection with litigation and to law enforcement personnel.  We may also disclose certain personally identifiable information about you to third parties such as, for example, charities, marketing organizations, or other businesses, in connection with disclosures made for "mailing list" or other purposes as described below in this Policy.
+
+<br><br>
+<font class="bluebold">Legal Disclaimer</font><br>
+We make every reasonable effort to protect subscriber privacy as described in this Policy. Nevertheless, we may be required by law to disclose personally identifiable information about a subscriber without his or her consent and without notice in order to comply with a valid legal process such as a subpoena, court order, or search warrant.. We may also use or disclose personally identifiable information about you without your consent to protect our customers, employees, or property, in emergency situations, to enforce our rights in court or elsewhere, or directly with you, and for violations of the Service's terms of service and policies (including our Acceptable Use Policy).
+<br><br>
+<font class="bluebold">Transmission of Information</font><br>
+Comcast transmits personally identifiable and non-personally identifiable information about you over the Service when you send and receive e-mail, video mail, and instant messages, transfer and share files, make files accessible, visit Web sites, or otherwise use the Service and its features. Our transmission of this information is necessary to render the Service. Comcast uses third parties to deliver some features and functions of the Service, such as support, e-mail, video mail, instant messaging, and web hosting, for example, and those third parties collect or transmit personally identifiable and non-personally identifiable information about you. These third parties are not permitted to use your personally identifiable information except for the purpose of providing their services. We will not read your outgoing or incoming e-mail, video mail, private chat, or instant messages, but we (or our third party providers) do store e-mail messages and video mail messages on computer systems for a period of time. We could be required to disclose these messages and communications along with other personally identifiable information about you to comply with law or to protect our Service as described in the Legal Disclaimer section of this Policy. We also monitor the performance of our Service and your Service connection in order to manage, maintain, and improve the Service and your connection to it. We (or our third party providers) use tools to help prevent and block "spam" e-mails, viruses, spyware, and other harmful or unwanted communications and programs on the Service. These tools may automatically scan your e-mails, video mails, instant messages, file attachments, and other files and communications in order to help us protect you and the Service against these harmful or unwanted communications and programs. However, these tools do not collect or disclose personally identifiable information about you.
+<br><br>
+<font class="bluebold">Service Providers</font><br>
+We contract with third parties to provide specific services and features for the Service. For example, our newsgroups are provided by a third party. When you use these particular services, generally you provide your name and specific Service-related information directly to the third party service provider. If you become a customer of these third parties directly, then you will be subject to their terms of service and privacy policies. You should carefully read their terms and policies to understand how they may use personally identifiable information about you.
+<br><br>
+<font class="bluebold">Aggregate Information</font><br>
+Comcast or our contractors may from time to time share aggregate (non-personally identifiable) information such as the number of Service subscribers who match certain statistical profiles (for example, the number of subscribers in various parts of the country) with our advertisers, content providers, or other third parties with whom we have a relationship. We will not provide our advertisers, content providers, or these other third parties with personally identifiable information about you unless we have received your consent first. Likewise, Comcast will not share personally identifiable information about where you go on the Service or on the Web unless we have received your consent first. We also use aggregate information to better understand how the Service is being used, to improve it, and for network management, bandwidth usage, maintenance, performance measurement, and security.
+<br><br>
+<font class="bluebold">Third Party Advertisers</font><br>
+We use a third-party ad serving company, 24/7 Real Media, Inc. to serve certain advertisements to you when you visit this Web site. Our third-party ad serving company may use anonymous information related to your visit to the Service's Web site to better provide advertisements to you about goods and services that may be of interest to you. Our third-party ad serving company does not have access to your name, address, e-mail address or telephone number unless you or others provide that information to it directly, or you consent to us providing that information to it. In the course of serving advertisements to this Web site, our third-party ad serving company may place or recognize a unique "cookie" through your browser. If you would like more information about our third-party ad serving company or regarding your ability to opt-out of the use of cookies, please go to <a href="http://www.247realmedia.com/opt-out.html" target="_blank">http://www.247realmedia.com/opt-out.html</a> or go to <a href="http://www.247realmedia.com/privacy.html" target="_blank">http://www.247realmedia.com/privacy.html</a>.
+<br><br>
+<font class="bluebold">Business Transitions</font><br>
+In the event Comcast (or its parent company) enters into a merger, acquisition, or sale of all or a portion of our assets, subscribers' personally identifiable information will, in most instances, be one of the items transferred as part of the transaction. If, as a result of the business transition this Policy will be changed, you should refer to the Notification of Changes to this Policy section. Aggregate information may also be transferred in connection with a business transition.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="software">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Software and Configuration</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+Comcast uses information that you provide to Comcast's support software to assist you with technical support for the use of the Service. When you make use of the Comcast supplied support software and forward a request for assistance or choose to chat with a technical support representative, the support software records certain information relating to the request and interaction. You have the choice to provide any information to the support software or a support representative, and you have the ability to confirm your decision before sending any information to our systems. The information collected by the support software is limited to the hardware and software configurations of your computer systems and to any e-mails you send or discussions you type during a live support session. This information is available only to authorized personnel for maintaining and supporting the use of the Service. Comcast also provides customer contact and support pages on the Service that you can use to communicate with Comcast about technical support. Comcast uses the information provided by you on these pages to support your use of the Service
+<br><br>
+Comcast may also offer or provide software directly or though third parties for your use in connection with the Service.  For example, we may provide software you can use for security, parental controls, digital photographs, gaming, instant messaging, and video e-mails.  These programs may be subject to their owns terms of service and other policies.  You should carefully read their terms and policies to understand how they may use personally identifiable information about you.
+<br><br>
+In certain cases, at your request or with or without prior notice to you, Comcast may configure your Service or Service-related equipment to resolve a technical support issue or otherwise render or deliver the Service.  Comcast may perform these configurations remotely over the cable network and/or the Internet.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="preferences">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Preferences</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+We store information that you provide to personalize your settings on the Service so that you don't have to change these settings each time you use the Service. We do not share your preferences with third parties except for service providers or other third parties who may provide certain components of the Service.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="cookies">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Cookies</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+Cookies are small files stored on a computer's hard drive to simplify and improve a user's Web experience. A Web site may store information in a cookie about your computer configuration so that it can more efficiently provide information to you the next time you visit the site. Or, your browser program might save a cookie with your username and password so that a Web site's server will automatically recognize you the next time you access the site.
+<br><br>
+Comcast uses cookies to remember your username and password, if you choose to store them, from the home page of the Service at <a href="/">www.comcast.net</a>, as well as to remember some of your personalization preferences. Comcast also uses cookies to determine when your current session on the Service's Web site should be logged out after a period of no activity, as well as for efficient management of the servers providing our Web site including when you access the Personal Web Pages and Online Storage services.  In addition, Comcast uses cookies to determine whether you are accessing the website at <a href="/">www.comcast.net</a> or features of the Service from our Service or another Internet service provider.  We do this in order to authenticate access to certain features of the Service, and to enable certain communications between Service subscribers.  Aside from this information, Comcast does not store your name or other personal information in cookies.
+<br><br>
+Some of our business relationships are with vendors who may use cookies (for example, search engines) or in connection with their own advertisers and other business partners. However, we have no access to or control over these cookies. For more information about how these vendors and their business partners use cookies, and how you may be able to "opt-out" of those cookies, read the privacy policy that applies to each vendor's Web site. This Policy covers the use of cookies by Comcast on the <a href="/">www.comcast.net</a> Web site only; it does not cover the use of cookies by any other party or Web site unless stated otherwise.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="logs">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Log Files and Web Site and E-mail Management</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="../images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+Like many Web sites, the Service's Web site servers use log files. These logs record aggregate (non-personally identifiable) information about site usage such as Internet protocol (IP) addresses, browser types, Internet service providers, referring/exit pages, pages accessed, platform types, date/time stamps, times of use, and numbers of clicks, for example. This information is necessary to analyze trends, administer the Service's Web site, balance web traffic, evaluate users' electronic browsing in the aggregate, and gather broad demographic information for aggregate use. We do not link IP addresses to personally identifiable information except as may be required to comply with law and as described in the Legal Disclaimer section.
+<br><br>
+We use a software technology called clear gifs (also known as Web Beacons/Web Bugs) with the log files for the Service's Web site <a href="/">www.comcast.net</a>. These clear gifs are usually 1 by 1 pixel invisible images on our Web site's pages. When a user visits one of these Web pages, the clear gif contacts our Web servers and creates an entry in the log for the Web site <a href="/">www.comcast.net</a>. These clear gifs do not use personally identifiable information and they provide us with more accurate Web site visit and session information in the log files. We also use clear gifs on the Service's Web site to help format graphic elements.
+<br><br>
+We (or our third party providers) also use clear gifs in some of the e-mails that we send to you as described in this Policy. These clear gifs (also known as e-mail sensors) are small invisible images included in HTML-based e-mails. These clear gifs have two functions. First, they determine whether an e-mail recipient has opened a particular e-mail. This helps us improve the wording of subject lines and content as well as determine readership levels. Second, they determine whether an e-mail recipient is capable of receiving an HTML-based e-mail. This helps us customize e-mail content and improve your overall customer experience. Comcast owns the information collected by using e-mail sensors, and our third party providers are obligated to keep this information confidential and not share this information with anyone else or use it for any other purpose. If you do not want to receive e-mails that use e-mail sensors, you can set up your e-mail program so that it does not accept HTML-based e-mail, and instead uses only plain text format for e-mail.
+<br><br>
+Finally, some of the content we make available over the Service's Web site <a href="/">www.comcast.net</a> may use clear gifs to protect against piracy of the content. These clear gifs (also known as digital water marks) are usually 1 by 1 pixel invisible images that communicate with the content provider's servers and send a content partner identification number specific to Comcast to the servers. The content provider's servers keep track of how many times the digital water mark is requested by each content partner's Web site and from which uniform resource locator ("URL") the content is being requested. The digital water marks do not collect or send personally identifiable information about users of the Service's Web site.
+      </td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="communications">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Communications from Comcast</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+      <td valign="top" class="blacktext">
+<font class="bluebold">Special Offers and Updates</font><br>
+We send all new subscribers to the Service a welcome e-mail and sometimes other information. Subscribers who would like to receive information from us about products, services, and special offers, promotions, and features may do so. See the Choice and Contact Preferences section of this Policy to learn how to opt in or opt out of receiving these types of promotional communications.
+<br><br>
+<font class="bluebold">Service Announcements</font><br>
+We send subscribers Service-related announcements from time to time. For example, we may send you an e-mail announcement about a pricing change, a change in operating policies, or new features of the Service. You may not opt-out of these Service-related communications, though you can deactivate your Service account if you wish. If you fail to check your Service account and primary e-mail address for Service-related announcements, you may miss important information about the Service, including legal notices, for example.
+<br><br>
+<font class="bluebold">Customer Service</font><br>
+We communicate with you to provide requested services and support for questions and issues relating to your Service account. We will reply to your requests for customer service by e-mail, phone, discussion forum, or through any other reasonable means.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="choice">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Choice and Contact Preferences</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+      <td valign="top" class="blacktext">
+We do not send e-mails with special offers or promotions to Service subscribers unless you tell us you want to receive them. You can request these e-mails by going to the My Account (formerly Service Center) page on the <a href="/">www.comcast.net</a> Web site and changing your contact preferences on the E-mail Contact Preferences page. We may ask for additional information on the E-mail Contact Preferences page such as your zip code, for example. By providing this additional information to us we will be able to better inform you of the availability of special offers and promotions in your area. Subscribers who no longer wish to receive these e-mails may opt-out of receiving them by going to the same page and changing their contact preferences accordingly. 
+<br><br>
+You may also contact Comcast at 1-800-COMCAST at any time to ask us to put your name on our "do not call" and "do not mail" lists so that you do not receive marketing or promotional telephone calls or printed mail from us or made at our request.
+<br><br>
+Applicable law authorizes Comcast as a cable operator to disclose limited personally identifiable information to others, such as charities, marketing organizations, or other businesses, for cable or non-cable "mailing list" or other purposes.  From time to time we may disclose your name and address for these purposes.  However, you have the right at any time to prohibit or limit this kind of disclosure by contacting us by telephone at 1-800-COMCAST.  Any "mailing list" and related disclosures that we may make are limited by applicable law to disclosures of subscriber names and addresses where the disclosures do not reveal, directly or indirectly, (i) the extent of any viewing or other use by the subscriber of the Service; or (ii) the nature of any transaction made by the subscriber over our Service.
+<br><br>
+In the event Comcast transitions subscribers from another Internet service to the Service, wherever feasible Comcast will transition subscribers' existing preferences and settings to the Service including those pertaining to subscriber choice. Once transitioned to the Service, subscribers can follow the instructions in this Choice and Contact Preferences section of the Policy to change their preferences and settings.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="links">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Links</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+The Service's Web site contains links to other sites. Some of these other sites may be co-branded with Comcast and may look like Service features, but Comcast is not responsible for the privacy practices of these other sites. We encourage you to be aware when you leave our Web site and to read the privacy policies of every Web site that collects personally identifiable information about you, whether the site is co-branded with Comcast or not.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="security">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Security</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+Comcast takes the security of our subscribers' personally identifiable information seriously.  We follow industry-standard practices to take such actions as are necessary to prevent unauthorized access to personally identifiable information by a person other than the subscriber or us.  However, we cannot guarantee that these practices will prevent every unauthorized attempt to access, use, or disclose personally identifiable information.
+<br><br>
+<font class="bluebold">Special Note:</font> In no case will Comcast or one of our authorized service providers ask you for your password in an e-mail or over the telephone. Do not give your password to anyone in an e-mail or over the telephone.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="correcting">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Correcting and Accessing Information</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+If your personally identifiable information changes, if you wish to confirm the accuracy of your personally identifiable information, or if you no longer want to subscribe to the Service, we provide a way to correct that information and a way to deactivate a Service account. You can correct some personally identifiable information at the Account Management functions page accessible through the My Account (formerly Service Center) link at <a href="/">www.comcast.net</a>. You may also contact us by telephone at the contact information listed below to correct information or deactivate your Service account. In addition, you may examine and copy any personally identifiable information we collect and maintain relating to you at your local Comcast office upon reasonable notice and during regular business hours. If you wish to inspect those records, please contact us by telephone at 1-800-COMCAST, giving us a reasonable period of time to locate and, if necessary, prepare the information for review, and to arrange an appointment during regular business hours. We will correct our records if you make a reasonable showing that any of the personally identifiable information we have collected about you is inaccurate. You will only be permitted to examine records that contain information about you and no one else.  Comcast reserves the right to charge you for the cost of photocopying any documents that you request.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="enforcement">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Enforcement</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+You, as a subscriber to the Service, may enforce the limitations imposed on Comcast by applicable federal law with respect to the collection and disclosure of personally identifiable information about you.  You may do so through a civil action under federal law, in addition to other rights and remedies that may be available to you under federal or other applicable laws.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="information">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Retention of Information</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+Comcast maintains personally identifiable information about you in our regular business records while you are a subscriber to the Service.  We also maintain this information for a period of time after you are no longer a subscriber if the information is necessary for the purposes for which it was collected or to satisfy legal requirements.  These purposes typically include business, legal, or tax purposes.  If there are no pending requests, orders, or court orders for access to this personally identifiable information, we will destroy the information after it is no longer necessary for the purposes for which it was collected.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="notification">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Notification of Changes to this Policy</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+If we change this Policy, we will post those changes on the homepage of the Service Web site, or in other places we deem appropriate, so our subscribers are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the Privacy Policy under which the information was collected. Your decision to continue receiving the Service after we make any changes to this Policy shall be deemed to be your express consent to the changes in the revised Policy.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="customers">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Comcast Cable and Voice Customers</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">
+If you are a Comcast Cable television customer, the privacy policy for that service is described in the Comcast Cable Subscriber Privacy Notice.  If you are a Comcast voice service customer, the privacy policy for that service is described in Comcast's Privacy and CPNI Policies for Voice Services.  Both policies are available from <a href="/">www.comcast.com</a>.</td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="contact">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Contact Information</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+      <td valign="top" class="blacktext">
+If you have any questions or suggestions regarding this Policy, or wish to contact us about your personal information, please contact us at:
+<br><br>
+<font class="bluebold">Phone:</font> 1-800-COMCAST<br>
+<font class="bluebold">Web site URL:</font> <a href="http://www.comcast.net/memberservices/contactus/contact_us.jsp">http://www.comcast.net/memberservices/contactus/contact_us.jsp</a></td>
+    </tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="20"><a name="children">&nbsp;</a><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" height="28" class="blacktitle">Special Note about Children</td></tr>
+    <tr><td bgcolor="#999999" valign="top" height="1" width="90%"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td height="10"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr>
+        <td valign="top" class="blacktext">The Service is not directed to children under the age of 13, and Comcast does not knowingly collect personally identifiable information from anyone under the age of 18 on the Service unless expressly specified on the appropriate pages of the Service website.  On those pages, Comcast or its service providers will provide a special notice or other information describing any additional privacy protections that may apply.  Children should always get permission from a parent or legal guardian before sending any information about themselves (such as their names, e-mail addresses, and telephone numbers) over the Internet, to us or to anyone else.</td>
+    </tr>
+    <tr><td height="25"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+    <tr><td valign="top" class="blacktext">Revised and effective: December 2004</td></tr>
+    <tr><td height="30"><img src="/images/pixelclear.gif" width="1" height="1" alt="" border="0"></td></tr>
+</tbody></table>
+					</td></tr>
+					</tbody></table>    				
+				
+				</div>
+				<!-- End Inner Most Border (black) -->
+				
+			</div>
+			<!-- End Inner Border (dark blue) -->
+
+		</div>
+		<!-- End Middle Border (thick blue, main border) -->
+		
+		
+		<!-- Bottom Content Area -->
+		<div id="content_bottom">
+		
+			<table cellpadding="0" cellspacing="0" border="0">
+			<tbody><tr>
+			<td height="18" width="345" class="whitesmall">
+                		<a href="/privacy" target="_blank" class="whitesmallunderline">Privacy Statement</a>&nbsp;
+                		<a href="/terms" target="_blank" class="whitesmallunderline">Terms of Service</a>&nbsp;
+                		<a href="/memberservices/contactus/contact_us.jsp" class="whitesmallunderline">Contact Comcast</a>&nbsp;
+              		</td>
+              		<td height="18" width="381" align="right" class="whitesmall2">
+                		<a href="http://www.comcast.com" target="_blank" class="whitesmall2">© 
+                		<script language="Javascript" type="text/javascript">
+                		var now = new Date;
+                		document.write(now.getFullYear());
+                		</script>2020 Comcast Cable Communications, LLC. All rights reserved.</a>
+              		</td>
+              		</tr>
+              		</tbody></table>
+		                	
+		</div>
+		<!-- End Bottom Content Area -->
+		
+	</div>
+	<!-- End Outer Most Border (cyan) -->
+
+</div>
+<!-- End Main Container -->
+
+          <script language="Javascript"><!--
+          gVersion="1.0";
+          //-->
+          </script>
+          <script language="Javascript1.1"><!--
+          gVersion="1.1";
+          //-->
+          </script>
+          <script language="Javascript1.2"><!--
+          gVersion="1.2";
+          //-->
+          </script>
+          <script language="Javascript1.3"><!--
+          gVersion="1.3";
+          //-->
+          </script>
+          <script language="Javascript1.4"><!--
+          gVersion="1.4";
+          //-->
+          </script>
+          <script language="Javascript1.5"><!--
+          gVersion="1.5";
+          //-->
+          </script>
+          <script>
+              //webtrends functions
+              dcsVar();
+              dcsMeta();
+              dcsTag();
+          </script>
+
+
+</body></html>
