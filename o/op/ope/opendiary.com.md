@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opendiary.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206034900id_/http%3A//opendiary.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opendiary.com privacy policy that was archived on 2001-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010608033620id_/http%3A//www.opendiary.com/privacy.asp) for the most accurate reproduction.*
 
 # The Open Diary
 
@@ -15,10 +15,6 @@ The Open Diary uses a feature of your Internet Web browser called a "cookie" to 
 The Open Diary only uses cookies to keep track of screens visited, user ID, and user name. These cookies are stored temporarily only, and are erased at the end of your Open Diary session. The Open Diary does not and cannot use cookies to retrieve personal information about you from your computer. 
 
 **Advertising**  
-The Open Diary works with a third party that serves ads to this site. To find out more about how Flycast manages the privacy of information in conjunction with serving ads on this site, please go to http://www.flycast.com/about_us/about-privacy.html. 
+The Open Diary works with a third party that serves ads to this site. 
 
 **The Open Diary respects your privacy, and will always preserve it.**
-
-* * *
-
-Site design and software © 1998-2000, The Open Diary. All rights reserved. 
