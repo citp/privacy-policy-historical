@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fast411.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405204756id_/http%3A//fast411.com/%26aft/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast411.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218021237id_/http%3A//fast411.com/%26aft/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information
 
