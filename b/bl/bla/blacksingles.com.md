@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blacksingles.com privacy policy that was archived on 2000-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000610053441id_/http%3A//www.blacksingles.com/includes/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacksingles.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206034900id_/http%3A//www.blacksingles.com/includes/privacy.cfm) for the most accurate reproduction.*
 
-# BlackSingles - The Premier Gathering Place For People of Color
+# BlackSingles - The World's Largest Singles Network for People of Color African-American dating service, single afro american man, single afro american woman, personal ads of black women, black men, photos of black men and women. Meet black singles online.
 
 BlackSingles.com's Privacy Statement
 
