@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the sonyclassics.com privacy policy that was archived on 2004-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040629232509id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonyclassics.com privacy policy that was archived on 2004-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041220033847id_/http%3A//www.sonypictures.com/corp/privacy.html) for the most accurate reproduction.*
 
 # Sony Pictures - Privacy Policy
 
 PRIVACY STATEMENT 
+
+This site's Privacy Policy will be updated on January 1, 2005. Until then, this Privacy Policy will remain in effect. To read the updated Privacy Policy, [click here](https://web.archive.org/web/20041220033847id_/http%3A//www.sonypictures.com/corp/privacy2005.html). 
 
 PLEASE READ THIS PRIVACY STATEMENT CAREFULLY  
 BEFORE USING THIS WEB SITE OR ANY SONY PICTURES FORUM.
@@ -59,5 +61,5 @@ As part of your use of the Services, you are responsible for maintaining and upd
 
 Sony Pictures Entertainment reserves the right to change this policy at any time. In case of any material change, we will replace the "Privacy Policy" link on the home page of our sites with a link entitled "Updated Privacy Policy." All changes to the Privacy Policy will be effective when posted, and your continued use of any Sony Pictures Entertainment site or service after the posting will constitute acceptance of, and agreement to be bound by, the new Privacy Policy. 
 
-Effective Date: 5/3/00  
-Last Updated: 5/18/04 
+Effective Date: 05/03/00  
+Last Updated: 12/01/04 
