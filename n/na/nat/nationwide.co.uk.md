@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2003-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031217000854id_/http%3A//www.nationwide.co.uk/NewsInformation/about/Privacy.htm%3Fs%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationwide.co.uk privacy policy that was archived on 2004-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040222024032id_/http%3A//www.nationwide.co.uk/NewsInformation/about/Privacy.htm%3Fs%3Dhome) for the most accurate reproduction.*
 
 # Nationwide Building Society - news and information
 
@@ -26,7 +26,7 @@ All e-mail sent to Nationwide will be monitored and checked to ensure our system
 
 _This Privacy and Cookie Policy only covers the Nationwide branded web sites. Links within this site to external web sites are not covered by this policy. Please note that any changes that Nationwide makes to this policy will be communicated electronically on the home-page of this site and not by individual written communication._
 
-[_How Nationwide uses your personal information_](https://web.archive.org/web/20031217000854id_/http%3A//www.nationwide.co.uk/banking/pc/personal_information.htm)
+[_How Nationwide uses your personal information_](https://web.archive.org/web/20040222024032id_/http%3A//www.nationwide.co.uk/banking/pc/personal_information.htm)
 
 **Cookies**
 
