@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216010706id_/http%3A//www.publix.com/servlet/MainController%3Faction%3DpreparePrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publix.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604120350id_/http%3A//www.publix.com/servlet/MainController%3Faction%3DpreparePrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy Page
 
-All information in the refill form is required in order to fulfill your prescription request. By filling out the refill form, you are consenting to receive e-mail or telephone calls from us or our agents. 
+All information in the refill form is required in order to fulfill your prescription request. By filling out the refill form, you are consenting to receive e-mail or telephone calls from us or our agents. For more detail on our Pharmacy privacy practices, see the Publix Pharmacy Notice of Privacy Practices. 
 
 **Other Information**  
 We collect additional information about how you use and access our Web site. This information enables us to improve the site by making it more accessible and easier to navigate. 
@@ -34,6 +34,6 @@ If we decide to change our privacy policy, we will post those changes on our hom
 Please let us know if you have any questions about our Privacy Policy. Simply send us an e-mail. 
 
 **COPYRIGHT NOTICE**  
-Copyright© 2002 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved. 
+Copyright© 2003 Publix Asset Management Company. All rights reserved. Any rights not expressly granted herein are reserved. 
 
-Last modified: 10/2002 
+Last modified: 04/2003 
