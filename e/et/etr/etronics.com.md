@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204233803id_/http%3A//www.etronics.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etronics.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619115146id_/http%3A//www.etronics.com/privacy.asp) for the most accurate reproduction.*
 
 # Etronics.com - Discount camcorders, DVD players, home audio, digital and 35mm cameras, VCR's, televisions plus small appliances.
 
@@ -16,7 +16,7 @@ Etronics is a licensee of the TRUSTe Privacy Program. This statement discloses t
 
 5-What choices are available to you regarding collection, use and distribution of this information 
 
-6-The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Supremevideo.net control 
+6-The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Etronics.com control 
 
 7-How you can correct any inaccuracies in your personally identifiable information 
 
@@ -33,7 +33,7 @@ Information we gather from you.
 
 When you visit Etronics.com, we collect information about your visit. We collect your IP address, browser type, domain name, and we log the length of time of your visit and the number of times you visit and purchase from us. We use this information to gather aggregate demographic information about our visitors, and we use it to personalize the information you see on our website. Even more so, the IP Address is used to help identify you, your wish list and you’re past purchases.  The IP address is not at all linked to any personal identifiable information. We keep this information for our internal use; in order to personalize the site. For example, in the future, we may recommend products or features you may like based on what you have liked in the past
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). We use a third party to authorize and verify all credit card transaction made through on etronics.com. The billing address and phone number is used for verification purposes only your email address is used for multiple purposes; verification, log in and email order confirmations. The Contact information from the order form may be used to send information about order status to our customers. All users have the option of opting out of any communication to etronics.com by sending an email to [Webmaster@etronics.com](mailto:Webmaster@etronics.com) or by calling our customer service department at 800-541-1490. 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). We use a third party to authorize and verify all credit card transaction made through on etronics.com. The billing address and phone number is used for verification purposes only your email address is used for multiple purposes; verification, log in and email order confirmations. The Contact information from the order form may be used to send information about order status to our customers. All users have the option of opting out of any communication to etronics.com by sending an email to [Webmaster@etronics.com](mailto:Webmaster@etronics.com) or by emailing our customer service department at  [Customer Services](mailto:service@etronics.com?subject=Privacy)
 
 We also personalize your shopping experience by using your purchases to shape our recommendations For Electronics, Music, Games and other merchandise that might be of interest to you. 
 
@@ -47,7 +47,7 @@ Our site uses cookies to store information. Cookies are small pieces of informat
 
 Special Relationships  
   
-We have an affiliate program through Commission Junction that allows other websites to earn money by directing people to our website. When you sign up as an affiliate, your contact information (website address and related information, email address, mailing and payment addresses, and contact information) is sent directly to us were we activate your affiliate status and pays you based on the sales you generate. We do not share any information with these affiliates other than the order total, which is needed for commission purposes. Commission Junctions  [privacy policy](http://www.cj.com/privacy.asp) can also be evaluated at www.cj.com
+We have an affiliate program through Commission Junction that allows other websites to earn money by directing people to our website. When you sign up as an affiliate, your contact information (website address and related information, email address, mailing and payment addresses, and contact information) is sent directly to us were we activate your affiliate status and pays you based on the sales you generate. We do not share any information with these affiliates other than the order total, which is needed for commission purposes. Commission Junctions  [privacy policy](http://www.cj.com/privacy.asp) can also be evaluated at [www.cj.com](http://www.cj.com/)
 
 This web site contains links to other web sites. Please note that when you click on one of these links, you are 'clicking' to another web site. We encourage you to read the privacy statement of those linked sites as their privacy policy may differ from ours. Etronics is not responsible for the privacy practices or the content of such Web sites.
 
@@ -66,8 +66,8 @@ Our site provides users the opportunity to opt-out of receiving communications f
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
   1. Online via my account 
-  2. You can send email to [Service@Etronics.com](mailto:Service@supremevideo.com)
-  3. You can call the following telephone number: 1800-541-1490 
+  2. You can send email to [Service@Etronics.com](mailto:Service@etronics.com)
+  3. You can call the following telephone number: 212-475-2450
   4. You can send mail to the following postal address: 
 
 Customer Service  
@@ -81,8 +81,8 @@ We believe you should have the ability to access and edit the personal informati
 This site gives users the following options for changing and modifying information previously provided. 
 
   1. Online via my account 
-  2. You can send email to [Service@Etronics.com](mailto:Service@supremevideo.com)
-  3. You can call the following telephone number: 1800-541-1490 
+  2. You can send email to [Service@Etronics.com](mailto:Service@etronics.com)
+  3. You can call the following telephone number: 212-475-2450
   4. You can send mail to the following postal address: 
 
 Customer Service  
