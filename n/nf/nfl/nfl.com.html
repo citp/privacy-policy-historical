@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nfl.com privacy policy that was archived on 2002-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021204095916id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nfl.com privacy policy that was archived on 2003-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030629070220id_/http%3A//nfl.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 
@@ -14,7 +14,8 @@ var MAC = ((navigator.appVersion.indexOf("PPC") >0) || (navigator.appVersion.ind
 var ua = 'ia_archiver';
 
 if (ua.indexOf("AOL") > 0) {
-	var _seg="1"; // for HitBox
+        var s_prop9="AOL"; // for Omniture
+        var dclk_seg="aol"; // for Doubleclick
 	if (!parent.frames[1]) {
 		var thePage=new String(unescape(location.href)); 
 		window.location.replace('http://www.nfl.com/partners/aol/index.html?' + thePage);
@@ -79,11 +80,12 @@ A.optselwhite {font-family:Arial, Helvetica, sans-serif; font-size:12px; color:#
 /* team page html form pulldoen class */
 .dd {font-size:10px; font-family:verdana, arial, helvetica, sans-serif;}
 .dot {list-style-image: url(http://images.nfl.com/images/ln_arrow.gif);} 
+.not {list-style-image: url(http://images.nfl.com/images/spacer10.gif);} 
 B.films {color:#CB0000;}
 .lnOn {text-transform:uppercase; background-color:#ffffff; border-color:#000066; border-width:3; border-style:solid; border-bottom: White;}
 .lnOn A {text-transform:uppercase; font-family: Arial, Helvetica, sans-serif; font-size:12px; line-height:12px; font-weight:bold; color:#000066; text-decoration:none;}
 .ln, .ln A, .lnHdr, .ln2, .ln2 A {text-transform:uppercase; font-family:Arial, Helvetica, sans-serif; font-size:12px; line-height:12px; font-weight:bold; color:#FFFFFF; text-decoration:none;}
-.ln, .ln A {background-color: #000066;}
+.ln, .ln A, .lpad {background-color: #000066;}
 .ln2, .ln2 A {background-color: #CB0000;}
 .head, .head A	{color:#000000; font-size:22px; font-weight:bold; font-family:Arial, Helvetica, Geneva, sans-serif;}
 .head A {text-decoration: none;}	
@@ -118,7 +120,37 @@ B.films {color:#CB0000;}
 .space5 {font-size:5px; line-height:5px; font-family:Arial, Helvetica;}
 .space10 {font-size:10px; line-height:10px; font-family:Arial, Helvetica;}
 form {display:inline;}
+
+
+/* classes for Fantasy */
+.arena1, .arena1 A:link, .arena1 A:visited { font-family: arial, helvetica, sans-serif; font-size: 12px; font-weight: bold;  text-decoration: none; color: #000000}
+.arena2, .arena2 A:link, .arena2 A:visited { font-family: arial, helvetica, sans-serif; font-size: 22px; font-weight: bold; text-decoration: none; color: #000000}
+.gnsbhl {background-color: #dddddd;}
+.cbreakbg0 {background-color: #fffbb3;}
+.cbreaklbl {font-size: 13px; font-family: verdana, arial, helvetica, sans-serif; color: #A50000; font-weight: bold; text-decoration: none;}
+.ff, .ff A, .ff A:link, .ff A:visited, .ff TD {font-size: 11px; font-family: arial, helvetica, sans-serif; color: #000175; font-weight: bold; text-decoration: none;}
+.ff A:hover {color: #a50000;}
+.ffbg {background-color:#dddddd;}
+.cmLff, .cmLff A, .cmLff A:link, .cmLff A:visited {font-size: 10px; font-family: verdana, arial, helvetica, sans-serif; font-weight: bold; color: #234A6C; text-decoration: none; background-color: #E7E7E7;}   
+.cmLff A:hover {color: #a50000;}   
+.cmFAN  {display: inline; position : absolute; visibility : hidden; width : 120; padding : 0; layer-background-color : #234A6C; background-color : #234A6C; z-Index : 2000; }   
+.lnbg0 {background-color: #dddddd;}
+.lnhdg {font-size: 10px; font-family: verdana, arial, helvetica, sans-serif;color: #A50000;font-weight: bold;text-decoration: none;}
+.lntxt {font-size: 13px; font-family: arial, helvetica, sans-serif; color: #000000;}
+.lbbc {font-size: 10px;font-family:verdana, arial, helvetica, sans-serif;color:#ffffff; background-color:#000175;text-align:center;font-weight:bold;text-decoration:none;}
+.ctophdl {font-size: 32px;color: #000000;font-weight: bold;}
+.ctopcap {font-size: 10px; font-family: verdana, arial, helvetica, sans-serif;color: #777777;font-weight: bold;}
+.cexclusivehdl {font-size: 18px; font-family: verdana, arial, helvetica, sans-serif; color: #A50000; font-weight: bold; text-decoration: none; }
+.hrcolor0 {background-color: #A50000;}
+.cexclusivetxt {font-size: 13px; font-family: arial, helvetica, sans-serif;color: #000000;}
+.cmarkbg0 {background-color: #000175; }
+.cmarktxt {font-size: 10px; font-family: verdana, arial, helvetica, sans-serif;color: #000000;background-color: #ffffee;}
+.cshoptxt2 {font-size: 10px; font-family: verdana, arial, helvetica, sans-serif; color: #000248;background-color: #ececec; line-height: 12px;}
+.cnewshdl {font-size: 18px; font-family: verdana, arial, helvetica, sans-serif; color: #A50000; font-weight: bold; text-decoration: none;}
+.cnewstxt2 {font-size: 13px; font-family: arial, helvetica, sans-serif;color: #000000;color: #000175;}
+/* end classes for Fantasy */ 
 </style>
+
 <script language="JavaScript" type="text/javascript"> 
 <!--
 // Browser / OS Detection
@@ -235,11 +267,13 @@ function openGDL(url) {
 var height=(ua.indexOf('AOL') > -1)?'600':'550';
 var width=(ua.indexOf('AOL') > -1)?'775':'770';
 //openPopup(url, width, height);
-  popupWin = window.open(url, 'GameDayLive', 'menubar=0,toolbar=0,location=0,directories=0,status,scrollbars=0,resizable=0,width='+width +',height=' +height +',left=50,top=50');
+  popupWin = window.open(url, 'GameDayLive', 'menubar=0,toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,width='+width +',height=' +height +',left=50,top=50');
 }
 
-function openPopup(url,width,height) {
-  popupWin = window.open(url, 'NFLPopup', 'menubar=0,toolbar=0,location=0,directories=0,status,scrollbars=0,resizable=0,width=' +width +',height=' +height +',left=50,top=50');
+function openPopup(arg1,arg2,arg3,arg4) {
+	if (arguments.length == 3) {var url = arg1; var name='NFLPopup'; var width = arg2; var height = arg3;	}
+	if (arguments.length == 4) {var url = arg1; var name=arg2; var width = arg3; var height = arg4;}
+	popupWin = window.open(url, name, 'menubar=0,toolbar=0,location=0,directories=0,status=0,scrollbars=0,resizable=0,width=' +width +',height=' +height +',left=50,top=50');
 }
 
 function SW(url, name, type){//translate legacy popup function to new openPopup
@@ -295,88 +329,478 @@ function getValue(cookieName,name) {
 	}
 	else {return false;}
 }
+
+// Begin RealOne
+var realPremURL = "/partners/real/premium";
+var realFreeURL = "/partners/real/free";
+var realAolURL = "/partners/real/aol";
+var realOtherURL = "/partners/real/otherOS";
+
+document.write('<OBJECT ID="IERPCtl" WIDTH=0 HEIGHT=0 CLASSID="CLSID:FDC7A535-4070-4B92-A0EA-D9994BCC0DC5"></OBJECT>');
+
+function isRealOne() {
+	RealOneInst = 'undetermined';
+	var agt=navigator.userAgent.toLowerCase();
+	var is_nav  = ((agt.indexOf('mozilla')!=-1) && (agt.indexOf('spoofer')==-1)
+		&& (agt.indexOf('compatible') == -1) && (agt.indexOf('opera')==-1)
+		&& (agt.indexOf('webtv')==-1) && (agt.indexOf('hotjava')==-1));
+	if (is_nav) {IERPCtl = 0;}
+	
+	if (navigator.plugins) {
+		if ((navigator.userAgent.charAt(8)) >= ('3')) {
+			var nPlayerInstalled=2;
+			var i=0;
+			while (navigator.plugins[i]){
+				if ((navigator.plugins[i].name) == 'RealOne Player Version Plugin'){
+					nPlayerInstalled=1;
+					szPlayerVersion=navigator.plugins[i].description;
+					break;
+					}
+				i++;
+			}
+			if ( nPlayerInstalled == 2 ){
+				var nRPVersion = IERPCtl.RealPlayerVersion;
+				if ( nRPVersion == null ){nPlayerInstalled=2;} 
+				else {nPlayerInstalled=1;}
+				}
+			}       
+			if (nPlayerInstalled == 1){RealOneInst = 'installed';} 
+			if (nPlayerInstalled == 2){RealOneInst = 'notinstalled';}
+			} 
+			else {RealOneInst = 'undetermined';}
+			if (RealOneInst == 'installed') {
+				if (agt.indexOf("(r1 ") != -1) {RealOneInst = 'using';}
+				}
+			return RealOneInst;
+			}
+
+function loadlink(page,premium) {
+	var agt=navigator.userAgent.toLowerCase();
+	var is_aol = (agt.indexOf("aol") != -1);
+
+	if (is_aol){window.location=realAolURL;}
+	else{
+		var checkbrowser = isRealOne(); 
+
+		if (checkbrowser == 'using') {window.location = (page);}
+		if (checkbrowser == 'installed') {window.location = (page);}
+		if (checkbrowser =='undetermined' || checkbrowser =='notinstalled') {
+
+			numPlugins = navigator.plugins.length;
+			oldRealPlayer = 'false';
+			for (i = 0; i < numPlugins; i++) {
+				plugin = navigator.plugins[i];
+				if (plugin.name.substring(0,10)=="RealPlayer") {oldRealPlayer = 'true';}
+				}	
+			}		
+		if (navigator.userAgent.indexOf("Mac") != -1) {
+			if (oldRealPlayer == 'true'){window.location = (page);}
+			else {
+				if (premium == 'yes') {openPopup(realPremURL,'r1popup',250,300);}
+				if (premium == 'no') {openPopup(realFreeURL,'r1popup',250,300);}
+				}
+			}
+		else {
+			if (navigator.userAgent.indexOf("95") != -1) {
+				oldRealPlayer = 'false';
+
+				var realVB = '<script language="VBscript">'
+				+'on error resume next'
+				+'RealPlayerG2 = not IsNull(CreateObject("rmocx.RealPlayer G2 Control"))'
+				+'if (RealPlayerG2) then oldRealPlayerIE=\"true\"'
+				+'else oldRealPlayerIE=\"false\"'
+				+'end if'
+				+'</scr' + 'ipt>';
+				document.writeln(realVB);
+			
+				numPlugins = navigator.plugins.length;
+				for (i = 0; i < numPlugins; i++) {
+					plugin = navigator.plugins[i];
+					if (plugin.name.substring(0,10)=="RealPlayer")	{oldRealPlayer = 'true';}
+				}
+				if (oldRealPlayer == 'true' || oldRealPlayerIE == 'true'){window.location = (page); }
+				else {
+					if (premium == 'yes') {openPopup(realPremURL,'r1popup',250,300);}
+					if (premium == 'no') {openPopup(realFreeURL,'r1popup',250,300);}
+					}	 	
+				}	
+			else {if (navigator.userAgent.indexOf("Win") != -1) {
+				if (checkbrowser == 'using' || checkbrowser =='installed') {window.location = (page);}
+				else {
+					if (premium == 'yes') {openPopup(realPremURL,'r1popup',250,300);}
+					if (premium == 'no') {openPopup(realFreeURL,'r1popup',250,300);}
+			  		}
+				}
+			else {openPopup(realOtherURL,'r1popup',250,160);}
+			}
+		}
+	}
+}
+
+
+function getEl(el) {
+        return document.all ? document.all[el] : document.getElementById(el);
+}
+
 //-->
-</script> 
+</script></head><body bgcolor="#FFFFFF" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" text="#000000" link="#000a78"><object id="IERPCtl" width="0" height="0" classid="CLSID:FDC7A535-4070-4B92-A0EA-D9994BCC0DC5"></object> 
 
 
 <link rel="SHORTCUT ICON" href="http://images.nfl.com/favicon.ico">
-</head>
-<body bgcolor="FFFFFF" leftmargin="0" marginwidth="0" topmargin="0" marginheight="0" text="000000" link="000a78">
-
-
-<table width="770" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr align="center">
-<td height="1"></td>
-<td><spacer type="block" height="1" width="1"></spacer></td>
-</tr>
-</tbody></table>
 
 
 
+	<script language="JavaScript"><!--
+	/*  */
+	var vTag = "helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;myspl=no;fteam=NFL-none;fteam=NBA-none;fteam=MLB-none;fteam=NHL-none;fteam=NCAAF-none;fteam=NCAAB-none"; 
+
+	if (!_mlc) {var _mlc="/nflcom;/other/helpcenter";}
+	if (!_aff) {var _aff="1,59";}else{_aff +=",1,59";}
+	var _acct="DM51072221AE95EN3;DM5108274LMR95EN3";
+	var s_pageName="/help/privacy";
+	var s_server="nfl.com";
+	if (!s_pageType) {var s_pageType="";}
+	var s_prop1="NFL.com";
+	var s_prop2="Other";
+	var s_prop3="Help Center";
+	var s_prop4="";
+	var s_prop5="";
+	var s_prop6="";
+	var s_prop7="";
+	var s_prop8="NFL.com:Other:Help Center:/help/privacy";
+	if (!s_prop9) {var s_prop9="Other";}
+	var s_prop10="Anonymous";
+	var s_prop11="Unknown";
+	var s_prop12="Unknown";
+        var s_prop13="Unknown";
+	var s_prop14="Unknown";
+        var s_prop15="Unknown";
+	var s_prop16="Unknown";
+	var s_prop17="";
+        var s_prop18="";
+        var s_prop19="";
+        var s_prop20="";
+	//--></script>
 <script language="javascript">
-var vTag = "helpcenter;arena=nfl;feat=helpcenter;type=psa"; 
-if (!_mlc) {var _mlc="/nflcom;/other/helpcenter";} 
-if (!_aff) {var _aff="1,59";}else{_aff +=",1,59";} 
-var _acct="DM51072221AE95EN3;DM5108274LMR95EN3"; 
-</script>
-<table border="0" cellspacing="0" cellpadding="0" align="right"><tbody><tr><td>
-
-<noscript> 
-<img src="http://ehg-sportsline.hitbox.com/HG?hc=we70&cd=1&hv=6&ce=u&hb=DM51072221AE95EN3;DM5108274LMR95EN3&n=noscript&vcon=/nflcom;/other/helpcenter" border='0' width='1' height='1'> 
-</noscript>
-
-</td></tr></tbody></table>
-
-
-<script language="javascript">
-var rewMem='none';
-var myspl=('') ? 'yes' : 'no';
-if (!rewMem) {var rewMem='no';}
+var adLookup='media/nfl/nfl/reg/free/help';
 var _uid='';
-var vTarget=''; 
-if (!random) {var abc=Math.random() + ''; var random=abc.substring(2,abc.length);}
-var dclkpage=('') ? 'index' : 'lower';
-if (dclkpage) {vTag += ';page='+dclkpage;}
-var dclkteam=''; 
+if (!dclk_seg) {var dclk_seg='nonaol';}
+if (dclk_seg != 'NUL') {vTag += ';seg='+dclk_seg;}
+if (!dclkteam) {var dclkteam='';}
 if (!dclkteam) {var dclkteam='NUL';}
 if (dclkteam != 'NUL') {_mlc += '_'+dclkteam;}
-var dclkplayer='';
-if (!dclkplayer) {var dclkplayer='NUL';}
-if (dclkteam) {vTag += ';team='+dclkteam;}
-if (dclkplayer) {vTag += ';pid='+dclkplayer;}
-if (rewMem) {vTag += ';rw='+rewMem;}
-if (myspl) {vTag += ';myspl='+myspl;}
+if (!document.layers) {
+        if (document.body.addBehavior) {
+                document.body.addBehavior("#default#clientCaps");
 
-function readAdCookie(name) {
-    if(document.cookie == '') { 
-                        return false; 
-        } else { 
-        var firstChar, lastChar;
-        var theBigCookie = document.cookie;
-        name = name + '=';
-        firstChar = theBigCookie.indexOf(name); 
-        if (firstChar != -1) {
-            firstChar += name.length;
-            lastChar = theBigCookie.indexOf(';', firstChar); 
-            if(lastChar == -1) lastChar = theBigCookie.length;
-            return unescape(theBigCookie.substring(firstChar, lastChar));
-        } else {return false;}
- }      
-} 
-
-var splntarget = readAdCookie('SplnTarget');
-if (splntarget) {
-    var cookie_value_array = splntarget.split("&");
-    for (var i = 0; i < cookie_value_array.length-1; i++) {
-        if (i % 2 == 0) {vTarget = vTarget + cookie_value_array[i] + "=" + cookie_value_array[i+1] + ";";}
-    }
+                dclk_TempStr =  ";ctype=" + document.body.connectionType +
+                                ";lang=" + document.body.systemLanguage +
+                                ";lang=" + document.body.userLanguage;
+        }
 }
-var must_be_passed=new Array('fbcom','fbmgr','fbsgl','bbcom','bbmgr','bbsgl','bbsgg', 'bkcom','bkmgr','bksgl','hcom','hmgr','hsgl');
-// these key-values will always be passed to DCLK
-for (i = 0; i < must_be_passed.length; i++) {
-if (vTarget.indexOf(must_be_passed[i]) == -1) {vTarget += must_be_passed[i] + "=no;";}
-}
+if (!dclk_TempStr) {var dclk_TempStr='NUL';}
+if (dclk_TempStr != 'NUL') {vTag +=dclk_TempStr;}
+if (!vTarget) {var vTarget='vt=null;';}
+if (!random) {var abc=Math.random() + ''; var random=abc.substring(2,abc.length);}
 </script>
+
+<!-- SiteCatalyst code version: G.2-Custom.
+Copyright 1997-2003 Omniture, Inc. More info available at
+http://www.omniture.com --><script language="JavaScript"><!--
+/*************** DO NOT ALTER THE FOLLOWING 2 LINES ! ***************/
+var s_code=' '//--></script>
+<script language="JavaScript"><!--
+/************************ ADDITIONAL FEATURES ************************
+     Style Sheet Usage
+     Dynamic Account Selection
+     Plugins
+	Custom:
+		Removal Of NO-JavaScript Support
+		Addition Of s_account Variable Support
+*/
+/************************** CONFIG SECTION **************************/
+/* You may add or alter any code config here.                       */
+/* Specify the Report Suite ID(s) to track here */
+var s_account="cbsnfl"
+//var s_account="devcbsnfl"
+var s_dynamicAccountSelection=false
+var s_dynamicAccountList=""
+/* E-commerce Config */
+var s_eVarCFG=""
+/* Link Tracking Config */
+var s_trackDownloadLinks=true
+var s_trackExternalLinks=true
+var s_trackInlineStats=true
+var s_linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,doc,pdf,xls,ram"
+var s_linkInternalFilters="javascript:,nfl,superbowl,playfootball,probowl,sundayticket"
+var s_linkLeaveQueryString=false
+/* Plugin Config */
+var s_usePlugins=true
+function s_doPlugins() {
+	/* Add calls to plugins here */
+}
+/************************** PLUGINS SECTION *************************/
+/* You may insert any plugins you wish to use here.                 */
+/*
+ * Plugin: Get Plugin Modified Value
+ */
+function s_vp_getValue(vs)
+	{var k=vs.substring(0,2)=='s_'?vs.substring(2):vs;return s_wd[
+	's_vpm_'+k]?s_wd['s_vpv_'+k]:s_gg(k)}
+/*
+ * Plugin: Get Query String CGI Variable Value
+ */
+function s_vp_getCGI(vs,k)
+	{var v='';if(k&&s_wd.location.search){var q=s_wd.location.search,
+	qq=q.indexOf('?');q=qq<0?q:q.substring(qq+1);v=s_pt(q,'&',s_cgif,
+	k)}s_vpr(vs,v)}function s_cgif(t,k){if(t){var te=t.indexOf('='),
+	sk=te<0?t:t.substring(0,te),sv=te<0?'True':t.substring(te+1);if(
+	sk==k)return s_epa(sv)}return ''}
+/*
+ * Plugin: Get State Of Form On Abandon
+ */
+function s_vp_getFormAbandonState(vs,lt,ln)
+	{if(!s_wd.s_vp_faolr){s_wd.s_vp_faol=s_wd.onload;s_wd.onload=
+	s_vp_fas;s_wd.s_vp_favs=vs;s_wd.s_vp_falt=lt;s_wd.s_vp_faln=ln
+	s_wd.s_vp_faolr=1}}var s_vp_faolr=0;function s_vp_fas(e){var r=
+	true;if(s_wd.s_vp_faol)r=s_wd.s_vp_faol(e);if(s_d.forms&&
+	s_d.forms.length>0){var vs=s_wd.s_vp_favs,p=s_gg('pageName'),fn,
+	f,en,el,t,oc,och;for(fn=0;fn<s_d.forms.length;fn++){f=s_d.forms[
+	fn];if(vs&&!s_wd[vs])s_wd[vs]=(f.name?f.name:(p?p:''))
+	+':No Data Entered';for(en=0;en<f.elements.length;en++){el=
+	f.elements[en];t=el.type;if(t&&t.toUpperCase){t=t.toUpperCase()
+	oc=el.onclick?el.onclick.toString():'';och=el.onchange?
+	el.onchange.toString():'';if(oc.indexOf("s_vp_fac(")<0&&
+	och.indexOf("s_vp_fac(")<0){if(t=='BUTTON'||t=='CHECKBOX'||t==
+	'RADIO'||t=='RESET'||t=='SUBMIT'||t=='IMAGE'){el.s_vp_faoc=
+	el.onclick;if(((f.name&&oc.indexOf(f.name)>=0)||(oc.indexOf(
+	'form.')>=0))&&oc.indexOf("submit(")>=0)el.onclick=s_vp_fasu;else
+	el.onclick=s_vp_fac}else{el.s_vp_faoch=el.onchange;if(((f.name&&
+	och.indexOf(f.name)>=0)||(och.indexOf('form.')>=0))&&och.indexOf(
+	"submit(")>=0)el.onchange=s_vp_fasu;else el.onchange=s_vp_fac }}}
+	}f.s_vp_faos=f.onsubmit;f.onsubmit=s_vp_fasu}s_wd.s_vp_faul=
+	s_wd.onunload;s_wd.onunload=s_vp_fa}return r}function s_vp_fa(e){
+	var vs=s_wd.s_vp_favs;if(vs&&s_wd[vs]){s_lnk=new Object
+	s_linkType=s_wd.s_vp_falt;s_linkName=s_wd.s_vp_faln;s_gs('')
+	s_lnk=''}if(s_wd.s_ful)return s_wd.s_ful(e);return true}
+	function s_vp_fasu(e){var vs=s_wd.s_vp_favs;if(vs)s_wd[vs]='';if(
+	this.s_vp_faos)return this.s_vp_faos(e);if(this.s_vp_faoc)
+	return this.s_vp_faoc(e);if(this.s_vp_faoch)
+	return this.s_vp_faoch(e);return true}function s_vp_fac(e){var b=
+	"s_gs(",vs=s_wd.s_vp_favs,f=this.form,p=s_gg('pageName');if(vs)
+	s_wd[vs]=(f.name?f.name:(p?p:''))+':'+(this.name?this.name:'')
+	if(this.s_vp_faoc)return this.s_vp_faoc(e);if(this.s_vp_faoch)
+	return this.s_vp_faoch(e);return true}
+/*
+ * Plugin Utilities v2.0 (Required For All Plugins)
+ */
+function s_vpr(vs,v){if(s_wd[vs])s_wd[vs]=s_wd[vs];else s_wd[vs]=''
+if(vs.substring(0,2) == 's_')vs=vs.substring(2);s_wd['s_vpv_'+vs]=v
+s_wd['s_vpm_'+vs]=1}function s_dt(tz,t){var d=new Date;if(t)d.setTime(
+t);d=new Date(d.getTime()+(d.getTimezoneOffset()*60*1000))
+return new Date(Math.floor(d.getTime()+(tz*60*60*1000)))}
+function s_vh_gt(k,v){var vh='|'+s_c_r('s_vh_'+k),vi=vh.indexOf('|'+v
++'='),ti=vi<0?vi:vi+2+v.length,pi=vh.indexOf('|',ti),t=ti<0?'':
+vh.substring(ti,pi<0?vh.length:pi);return t}function s_vh_gl(k){var
+vh=s_c_r('s_vh_'+k),e=vh?vh.indexOf('='):0;return vh?(vh.substring(0,
+e?e:vh.length)):''}function s_vh_s(k,v){if(k&&v){var e=new Date,st=
+e.getTime(),y=e.getYear(),c='s_vh_'+k,vh='|'+s_c_r(c)+'|',t=s_vh_gt(k,
+v);e.setYear((y<1900?y+1900:y)+5);if(t)vh=s_rep(vh,'|'+v+'='+t+'|','|'
+);if(vh.substring(0,1)=='|')vh=vh.substring(1);if(vh.substring(
+vh.length-1,vh.length)=='|')vh=vh.substring(0,vh.length-1);vh=v
++'=[PCC]'+(vh?'|'+vh:'');s_c_w(c,vh,e);if(s_vh_gt(k,v)!='[PCC]')
+return 0;vh=s_rep(vh,'[PCC]',st);s_c_w(c,vh,e)}return 1}
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_un,s_ios=0,s_csss=0,s_q='',s_code='',code='',s_bcr=0,s_lnk='',
+s_eo='',s_vb,s_tfs=0,s_etfs=0,s_wd=window,s_ssl=(
+s_wd.location.protocol.toLowerCase().indexOf('https')>=0),s_d=
+s_wd.document,s_n=navigator,s_u=s_n.userAgent,s_apn=s_n.appName,s_v=
+s_n.appVersion,s_apv,s_i,s_ie=s_v.indexOf('MSIE '),s_ns6=s_u.indexOf(
+'Netscape6/');if(s_v.indexOf('Opera')>=0||s_u.indexOf('Opera')>=0)
+s_apn='Opera';var s_isie=(s_apn=='Microsoft Internet Explorer'),
+s_isns=(s_apn=='Netscape'),s_isopera=(s_apn=='Opera'),s_ismac=(
+s_u.indexOf('Mac')>=0);if(s_ie>0){s_apv=parseInt(s_i=s_v.substring(
+s_ie+5));if(s_apv>3)s_apv=parseFloat(s_i)}else if(s_ns6>0)s_apv=
+parseFloat(s_u.substring(s_ns6+10));else s_apv=parseFloat(s_v)
+function s_co(o){if(!o)return o;var n=new Object;for(x in o)n[x]=o[x]
+return n}function s_num(x){var s=x.toString(),g='0123456789',p,d
+for(p=0;p<s.length;p++){d=s.substring(p,p+1);if(g.indexOf(d)<0)
+return 0}return 1}function s_rep(s,o,n){var i=s.indexOf(o),l=n.length>
+0?n.length:1;while(s&&i>=0){s=s.substring(0,i)+n+s.substring(i
++o.length);i=s.indexOf(o,i+l)}return s}function s_ape(s){return s_rep(
+escape(s),'+','%2B')}function s_epa(s){return unescape(s_rep(s,'+',' '
+))}function s_pt(s,d,f,a){var t=s,x=0,y,r;while(t){y=t.indexOf(d);y=y<
+0?t.length:y;t=t.substring(0,y);r=f(t,a);if(r)return r;x+=y+d.length
+t=s.substring(x,s.length);t=x<s.length?t:''}return ''}function s_fl(s,
+l){return (s+'').substring(0,l)}var s_c_d='';function s_c_gdf(t,a){if(
+!s_num(t))return 1;return 0}function s_c_gd(){var d=
+s_wd.location.hostname,p;if(d&&!s_c_d){p=d.indexOf('.');while(p>=0&&
+d.substring(p+1).indexOf('.')>=0){d=d.substring(p+1);p=d.indexOf('.')}
+s_c_d=d.indexOf('.')>=0&&s_pt(d,'.',s_c_gdf,0)?'.'+d:''}return s_c_d}
+function s_c_r(k){k=s_ape(k);var c=' '+s_d.cookie,s=c.indexOf(' '+k
++'='),e=s<0?s:c.indexOf(';',s),v=s<0?'':s_epa(c.substring(s+2
++k.length,e<0?c.length:e));return v}function s_c_w(k,v,e){var d=
+s_c_gd();if(k)s_d.cookie=k+'='+s_ape(v)+'; path=/;'+(e?' expires='
++e.toGMTString()+';':'')+(d?' domain='+d+';':'');return s_c_r(k)==v}
+function s_cet(f,a,et,oe,fb){var r,d=0
+/*@cc_on@if(@_jscript_version>=5){try{return f(a)}catch(e){return et(e)}d=1}@end@*/
+if(!d){if(s_ismac&&s_u.indexOf('MSIE 4')>=0)return fb(a);else{
+s_wd.s_oe=s_wd.onerror;s_wd.onerror=oe;r=f(a);s_wd.onerror=s_wd.s_oe
+return r}}}function s_gtfset(e){return s_tfs}function s_gtfsoe(e){
+s_wd.onerror=s_wd.s_oe;s_etfs=1;var code=s_gs(s_un);if(code)s_d.write(
+code);s_etfs=0;return true}function s_gtfsfb(a){return s_wd}
+function s_gtfsf(w){var p=w.parent,l=w.location;s_tfs=w;if(p&&
+p.location!=l&&p.location.host==l.host){s_tfs=p;return s_gtfsf(s_tfs)}
+return s_tfs}function s_gtfs(){if(!s_tfs){s_tfs=s_wd;if(!s_etfs)s_tfs=
+s_cet(s_gtfsf,s_tfs,s_gtfset,s_gtfsoe,s_gtfsfb)}return s_tfs}
+function s_ca(un){un=un.toLowerCase()
+if(!s_csss&&s_d.styleSheets&&s_isie&&!s_ismac&&s_apv>=5)s_csss=1;if(
+s_csss){if(s_d.styleSheets.length<1)s_d.write('<st'+'yle type="text/c'
++'ss"></st'+'yle>');if(!s_d.styleSheets[0]||!s_d.styleSheets[0
+].addImport)s_csss=0}
+var ci=un.indexOf(','),fun=ci<0?un:un.substring(0,ci),imn='s_i_'+fun
+if(!s_ios&&s_d.images&&s_apv>=3&&!s_isopera&&(s_ns6<0||s_apv>=6.1))
+s_ios=1;if(!s_csss&&s_ios&&!s_d.images[imn]){s_d.write('<im'
++'g name="'+imn+'" height=1 width=1 border=0>');if(!s_d.images[imn])
+s_ios=0}}function s_it(un){s_ca(un)}function s_mr(un,sess,q){un=
+un.toLowerCase();var ci=un.indexOf(','),fun=ci<0?un:un.substring(0,ci
+),imn='s_i_'+fun,unc=s_rep(fun,'_','-'),rs='http'+(s_ssl?'s':'')
++'://'+(s_ssl?'102':unc)+'.112.2O7.net/b/ss/'+un+'/'+(s_csss?0:1)+'/G.2-XPD-FC/'
++sess+'?'+'[AQB]&ndh=1'+(q?q:'')+(s_q?s_q:'')+'&[AQE]'
+if(s_csss)s_d.styleSheets[0].addImport(rs);else
+if(s_ios)s_d.images[imn].src=rs;if(s_csss||s_ios){if(rs.indexOf('&pe='
+)>=0){var b=new Date,e=new Date;while(e.getTime()-b.getTime()<500)e=
+new Date}return ''}return '<im'+'g sr'+'c="'+rs
++'" width=1 height=1 border=0>'}function s_gg(v){var g='s_'+v
+return s_wd[g]?s_wd[g]:s_wd[v]}var s_qav='';function s_havf(t,a){var
+b=t.substring(0,4),s=t.substring(4),n=parseInt(s),k='s_g_'+t,m=
+'s_vpm_'+t,q=t;if(!s_wd['s_'+t])s_wd['s_'+t]='';s_wd[k]=s_wd[m]?s_wd[
+'s_vpv_'+t]:s_gg(t);s_wd[m]=0;if(t=='charSet')q='ce';else if(t==
+'cookieDomainPeriods')q='cdp';else if(t=='channel')q='ch';else if(t==
+'campaign')q='v0';else if(s_num(s)){if(b=='prop')q='c'+n;else if(b==
+'eVar')q='v'+n}if(s_wd[k]&&t!='linkName'&&t!='linkType')s_qav+='&'+q
++'='+s_ape(s_wd[k]);return ''}function s_hav(){var n,av='charSet,cook'
++'ieDomainPeriods,pageName,channel,server,pageType,campaign,state,zip'
++',events,products,purchaseID,eVarCFG,linkName,linkType'
+for(n=1;n<26;n++)av+=',prop'+n+',eVar'+n;s_qav='';s_pt(av,',',s_havf,0
+);return s_qav}function s_lnf(t,h){t=t?t.toLowerCase():'';h=h?
+h.toLowerCase():'';var te=t.indexOf('=');if(t&&te>0&&h.indexOf(
+t.substring(te+1))>=0)return t.substring(0,te);return ''}
+function s_ln(h){if(s_gg('linkNames'))return s_pt(s_gg('linkNames'),
+',',s_lnf,h);return ''}function s_ltdf(t,h){t=t?t.toLowerCase():'';h=
+h?h.toLowerCase():'';var qi=h.indexOf('?');h=qi>=0?h.substring(0,qi):h
+if(t&&h.substring(h.length-(t.length+1))=='.'+t)return 1;return 0}
+function s_ltef(t,h){t=t?t.toLowerCase():'';h=h?h.toLowerCase():'';if(
+t&&h.indexOf(t)>=0)return 1;return 0}function s_lt(h){var lft=s_gg(
+'linkDownloadFileTypes'),lif=s_gg('linkInternalFilters')?s_gg(
+'linkInternalFilters'):s_wd.location.hostname;h=h.toLowerCase();if(
+s_gg('trackDownloadLinks')&&lft&&s_pt(lft,',',s_ltdf,h))return 'd';if(
+s_gg('trackExternalLinks')&&lif&&!s_pt(lif.toLowerCase(),',',s_ltef,h)
+)return 'e';return ''}function s_lc(e){s_lnk=s_co(this);s_gs('')
+s_lnk='';if(this.s_oc)return this.s_oc(e);return true}function s_ls(){
+var l,ln,oc;for(ln=0;ln<s_d.links.length;ln++){l=s_d.links[ln];oc=
+l.onclick?l.onclick.toString():'';if(oc.indexOf("s_gs(")<0&&
+oc.indexOf("s_lc(")<0){l.s_oc=l.onclick;l.onclick=s_lc}}}
+function s_bc(e){s_eo=e.srcElement?e.srcElement:e.target;s_gs('')
+s_eo=''}function s_ot(o){var x=o.type,y=o.tagName;return (x&&
+x.toUpperCase?x:y&&y.toUpperCase?y:o.href?'A':'').toUpperCase()}
+function s_oid(o){var t=s_ot(o),p=o.protocol,c=o.onclick,n='',x=0;if(
+!o.s_oid){if(o.href&&(t=='A'||t=='AREA')&&(!c||!p||p.toLowerCase(
+).indexOf('javascript')<0))n=o.href;else if(c){n=s_rep(s_rep(s_rep(
+s_rep(c.toString(),"\r",''),"\n",''),"\t",''),' ','');x=2}else if(
+o.value&&(t=='INPUT'||t=='SUBMIT')){n=o.value;x=3}else if(o.src&&t==
+'IMAGE')n=o.src;if(n){o.s_oid=s_fl(n,100);o.s_oidt=x}}return o.s_oid}
+function s_rqf(t,un){var e=t.indexOf('='),u=e>=0?','+t.substring(0,e)
++',':'';return u&&u.indexOf(','+un+',')>=0?s_epa(t.substring(e+1)):''}
+function s_rq(un){var c=un.indexOf(','),v=s_c_r('s_sq'),q='';if(c<0)
+return s_pt(v,'&',s_rqf,un);return s_pt(un,',',s_rq,0)}var s_sqq,s_squ
+function s_sqp(t,a){var e=t.indexOf('='),q=e<0?'':s_epa(t.substring(e
++1));s_sqq[q]='';if(e>=0)s_pt(t.substring(0,e),',',s_sqs,q);return 0}
+function s_sqs(un,q){s_squ[un]=q;return 0}function s_sq(un,q){s_sqq=
+new Object;s_squ=new Object;s_sqq[q]='';var k='s_sq',v=s_c_r(k),x,c=0
+s_pt(v,'&',s_sqp,0);s_pt(un,',',s_sqs,q);v='';for(x in s_squ)s_sqq[
+s_squ[x]]+=(s_sqq[s_squ[x]]?',':'')+x;for(x in s_sqq)if(x&&s_sqq[x]&&(
+x==q||c<2)){v+=(v?'&':'')+s_sqq[x]+'='+s_ape(x);c++}return s_c_w(k,v,0
+)}function s_wdl(e){s_wd.s_wd_l=1;var r=true;if(s_wd.s_ol)r=s_wd.s_ol(
+e);if(s_wd.s_ls)s_wd.s_ls();return r}function s_wds(un){un=
+un.toLowerCase();s_wd.s_wd_l=1;if(s_apv>3&&(!s_isie||!s_ismac||s_apv>=
+5)){s_wd.s_wd_l=0;if(!s_wd.s_unl)s_wd.s_unl=new Array;s_wd.s_unl[
+s_wd.s_unl.length]=un;if(s_d.body&&s_d.body.attachEvent){if(
+!s_wd.s_bcr&&s_d.body.attachEvent('onclick',s_bc))s_wd.s_bcr=1}
+else if(s_d.body&&s_d.body.addEventListener){if(!s_wd.s_bcr&&
+s_d.body.addEventListener('click',s_bc,false))s_wd.s_bcr=1}else{var
+ol=s_wd.onload?s_wd.onload.toString():'';if(ol.indexOf("s_wdl(")<0){
+s_wd.s_ol=s_wd.onload;s_wd.onload=s_wdl}}}}function s_vs(un,x){var s=
+s_gg('visitorSampling'),g=s_gg('visitorSamplingGroup'),k='s_vsn_'+un+(
+g?'_'+g:''),n=s_c_r(k),e=new Date,y=e.getYear();e.setYear(y+10+(y<
+1900?1900:0));if(s){s*=100;if(!n){if(!s_c_w(k,x,e))return 0;n=x}if(n%
+10000>s)return 0}return 1}
+function s_dyasmf(t,m){if(t&&m&&m.indexOf(t)>=0)return 1;return 0}
+function s_dyasf(t,m){var i=t?t.indexOf('='):-1,un,s;if(i>=0&&m){var
+un=t.substring(0,i),s=t.substring(i+1);if(s_pt(s,',',s_dyasmf,m))
+return un}return 0}function s_dyas(un,l,m){if(!m)m=s_wd.location.host
+if(!m.toLowerCase)m=m.toString();l=l.toLowerCase();m=m.toLowerCase()
+var nun=s_pt(l,';',s_dyasf,m);if(nun)return nun;return un}
+function s_gs(un){un=un.toLowerCase()
+var dyas=s_gg('dynamicAccountSelection'),dyal=s_gg(
+'dynamicAccountList'),dyam=s_gg('dynamicAccountMatch');if(dyas&&dyal)
+un=s_dyas(un,dyal,dyam);
+s_un=un;var trk=1,tm=new Date,sed=Math&&Math.random?Math.floor(
+Math.random()*10000000000000):tm.getTime(),sess='s'+Math.floor(
+tm.getTime()/10800000)%10+sed,yr=tm.getYear(),t,q='',qs='';yr=yr<1900?
+yr+1900:yr;t=tm.getDate()+'/'+tm.getMonth()+'/'+yr+' '+tm.getHours()
++':'+tm.getMinutes()+':'+tm.getSeconds()+' '+tm.getDay()+' '
++tm.getTimezoneOffset();if(!s_q){s_d.cookie='s_cc=true; path=/';var
+tfs=s_gtfs(),tl=tfs.location,r=tfs.document.referrer,s='',c='',v='',
+p='',bw='',bh='',j='1.0',vb=s_vb?s_vb:'',g=s_wd.location,k=
+s_d.cookie.indexOf('s_cc=')>=0?'Y':'N',hp='',ct='';if(s_apv>=4)s=
+screen.width+'x'+screen.height;if(s_isns||s_isopera){if(s_apv>=3){j=
+'1.1';var i1=0,i2=0,sta;while(i2<30&&i1<navigator.plugins.length){sta=
+navigator.plugins[i1].name;if(sta.length>100)sta=sta.substring(0,100)
+sta+=';';if(p.indexOf(sta)<0)p+=sta;i1++;i2++}v=navigator.javaEnabled(
+)?'Y':'N'}if(s_apv>=4){j='1.2';c=screen.pixelDepth;bw=s_wd.innerWidth
+bh=s_wd.innerHeight}if(s_apv>=4.06)j='1.3'}else if(s_isie){if(s_apv<4)
+r='';if(s_apv>=4){v=navigator.javaEnabled()?'Y':'N';j='1.2';c=
+screen.colorDepth}if(s_apv>=5){bw=s_d.documentElement.offsetWidth;bh=
+s_d.documentElement.offsetHeight;j='1.3';if(!s_ismac&&s_d.body){
+s_d.body.addBehavior("#default#homePage");hp=s_d.body.isHomePage(tl)?
+"Y":"N";s_d.body.addBehavior("#default#clientCaps");ct=
+s_d.body.connectionType}}}s_q=(g?'&g='+s_ape(s_fl(g,255)):'')+(r?'&r='
++s_ape(s_fl(r,255)):'')+(s?'&s='+s_ape(s):'')+(c?'&c='+s_ape(c):'')+(
+j?'&j='+j:'')+(v?'&v='+v:'')+(k?'&k='+k:'')+(bw?'&bw='+bw:'')+(bh?
+'&bh='+bh:'')+(vb?'&vb='+vb:'')+(ct?'&ct='+s_ape(ct):'')+(hp?'&hp='
++hp:'')+(p?'&p='+s_ape(p):'')}if(s_gg('usePlugins'))s_wd.s_doPlugins()
+q+=(t?'&t='+s_ape(t):'')+s_hav();if(s_lnk||s_eo){var o=(s_eo?s_eo:
+s_lnk);if(!o)return '';var p=s_wd.s_g_pageName,w=1,t=s_ot(o),n=s_oid(o
+),x=o.s_oidt,h,l,i,oc;if(s_eo&&o==s_eo){while(o&&!n&&t!='BODY'){o=
+o.parentElement?o.parentElement:o.parentNode;if(!o)return '';t=s_ot(o)
+n=s_oid(o);x=o.s_oidt}oc=o.onclick?o.onclick.toString():'';if(
+oc.indexOf("s_gs(")>=0)return ''}h=o.href?o.href:'';i=h.indexOf('?')
+h=s_gg('linkLeaveQueryString')||i<0?h:h.substring(0,i);l=s_gg(
+'linkName')?s_gg('linkName'):s_ln(h);t=s_gg('linkType')?s_gg(
+'linkType').toLowerCase():s_lt(h);if(t&&(h||l))q+='&pe=lnk_'+(t=='d'||
+t=='e'?s_ape(t):'o')+(h?'&pev1='+s_ape(h):'')+(l?'&pev2='+s_ape(l):'')
+else trk=0;if(s_gg('trackInlineStats')){if(!p){p=s_wd.location.href;w=
+0}p=p?s_fl(p,255):'';if(s_gg('objectID')){n=s_gg('objectID');x=1}t=
+s_ot(o);i=o.sourceIndex;if(p&&n&&t)qs='&pid='+s_ape(p)+(w?'&pidt='+w:
+'')+'&oid='+s_ape(n)+(x?'&oidt='+x:'')+'&ot='+s_ape(t)+(i?'&oi='+i:'')
+}s_wd.linkName=s_wd.s_linkName=s_wd.linkType=s_wd.s_linkType=
+s_wd.objectID=s_wd.s_objectID=s_lnk=s_eo=''}if(!trk&&!qs)return '';var
+code='';if(un){if(trk&&s_vs(un,sed))code+=s_mr(un,sess,q+(qs?qs:s_rq(
+un)));s_sq(un,trk?'':qs)}else if(s_wd.s_unl)
+for(var unn=0;unn<s_wd.s_unl.length;unn++){un=s_wd.s_unl[unn];if(trk&&
+s_vs(un,sed))code+=s_mr(un,sess,q+(qs?qs:s_rq(un)));s_sq(un,trk?'':qs)
+}return code}function s_dc(un){un=un.toLowerCase()
+var dyas=s_gg('dynamicAccountSelection'),dyal=s_gg(
+'dynamicAccountList'),dyam=s_gg('dynamicAccountMatch');if(dyas&&dyal)
+un=s_dyas(un,dyal,dyam);
+s_wds(un);s_ca(un);return s_gs(un)}
+s_code=s_dc(s_account);if(s_code)document.write(s_code)
+//--></script><img name="s_i_cbsnfl" height="1" width="1" border="0" src="https://102.112.2O7.net/b/ss/cbsnfl/1/G.2-XPD-FC/s82107992068574?[AQB]&amp;ndh=1&amp;t=31/0/2020%207%3A2%3A45%205%200&amp;pageName=/help/privacy&amp;server=nfl.com&amp;c1=NFL.com&amp;c2=Other&amp;c3=Help%20Center&amp;c8=NFL.com%3AOther%3AHelp%20Center%3A/help/privacy&amp;c9=Other&amp;c10=Anonymous&amp;c11=Unknown&amp;c12=Unknown&amp;c13=Unknown&amp;c14=Unknown&amp;c15=Unknown&amp;c16=Unknown&amp;g=https%3A//web.archive.org/web/20030629070220id_/http%253A//nfl.com/help/privacy&amp;s=800x600&amp;c=24&amp;j=1.3&amp;v=N&amp;k=Y&amp;bw=1366&amp;bh=768&amp;[AQE]"><script language="JavaScript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><img src="http://cbsnfl.112.2O7.net/b/ss/cbsnfl/1/G.2-XPD-F" height="1" width="1" border="0" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: G.2-Custom. -->
 
 <!-- v6.5 (no 1.0) COPYRIGHT 1997-2001 WEBSIDESTORY, INC. ALL RIGHTS RESERVED. U.S.PATENT PENDING. Privacy notice at: http://websidestory.com/privacy -->
 <script language="JavaScript" id="_hbc">
@@ -399,38 +823,45 @@ var _hcv=65;
 var _mn="we70";
 var _gn="ehg-sportsline.hitbox.com";
 </script>
-<script language="javascript1.1" defer="" src="http://images.nfl.com/includes/ads/hbe-v65-no10-aff.js"></script>
+
+<!-- Begin Hitbox : hbe-v65-no10-aff.js -->
+<script language="JavaScript1.1" type="text/javascript" defer=""> 
+<!--
+_hbi=new Image();_ot=0;_cmp=eval("window._cmp")||'';_cmpn=eval("window._cmpn");_gpn=eval("window._gpn")||'';_gp=eval("window._gp")||'';if(_cmpn && _cmpn!="undefined" && ((location.search.indexOf("?"+_cmpn+"=")==0)||location.search.indexOf("&"+_cmpn+"=")>-1)){var _tls=location.search.indexOf("?"+_cmpn+"=")==0?0:location.search.indexOf("&"+_cmpn+"=");_cmp=location.search.substring(_tls+2+_cmpn.length,(location.search.indexOf('&',_tls+1)>-1)?location.search.indexOf('&',_tls+1):location.search.length);};if(_gpn && _gpn!="undefined" && ((location.search.indexOf("?"+_gpn+"=")==0)||location.search.indexOf("&"+_gpn+"=")>-1)){var _tls=location.search.indexOf("?"+_gpn+"=")==0?0:location.search.indexOf("&"+_gpn+"=");_gp=location.search.substring(_tls+2+_gpn.length,(location.search.indexOf('&',_tls+1)>-1)?location.search.indexOf('&',_tls+1):location.search.length);};_useg=eval("window._seg");_et=0;_ce="";_oe=0;_ss="na";_sc="na";_ln="";_pl="";_ja="na";_sv=11;_cy="u";_hp="u";_tp=eval("window._ptc");function _wn(_nm){if((_nm.indexOf("NAME")>0&&_nm.indexOf("PUT")>=0)||(_nm.indexOf("CONTENT")>=0&&_nm.indexOf("CATEGORY")>0))return true;return false;};function _gd(_x,_w){_ed=(_x.lastIndexOf("/"));_be=(_w!="full")?(_x.lastIndexOf("/",(_ed-2))):(_x.indexOf("/"));_dn=(_be==_ed)?"/":(_x.substring(_be,_ed));return _dn;};function _gf(_x){_ed=(_x.length);_be=((_x.lastIndexOf("/"))+1);_fn=(_x.substring(_be,_ed));return _fn;};function _vc(_ml){_mll=_ml.length-1;if(_ml.lastIndexOf("/")==_mll){_ml=_ml.substring(0,_mll)}if(_ml.indexOf("/")!=0){_ml="/"+_ml;}return _ml;};function _ps(_ip,_pml){if(!_ip){_pml=(_wn(_pml))?_gd(location.pathname,_ctdef):_vc(_pml);}else{if(_wn(_pml)){if(_pndef=="title"){_pt=document.title;if(_pt!=""){_pml=_pt};}else{_pml=_gf(location.pathname);if(_pml==""){_pml=_pndef};}};}return _pml;};function _pm(_ml,_fml,_ipn){if(_ml.indexOf(";")!=-1){_nml=_ml.substring(0,(_ml.indexOf(";")));_rm=_ml.substring((_ml.indexOf(";")+1),_ml.length);_fml+=_ps(_ipn,_nml)+";";_gp=_pm(_rm,_fml,_ipn);return _gp;}else{_fml+=_ps(_ipn,_ml);return _fml;}};_bn=navigator.appName;if(_bn.substring(0,9)=="Microsoft"){_bn="MSIE";};_bv=(Math.round(parseFloat(navigator.appVersion)*100));if((_bn=="MSIE")&&(parseInt(_bv)==2))_bv=301;_rf=escape(document.referrer);_mlc=_pm(_mlc,"",false);_pn=_pm(_pn,"",true);function _re(_ms,_ur,_el){return false;};function _se(_ms,_ur,_el){if((_rf=="undefined")||(_rf=="")){_rf="bookmark";};if(_et==1){window.onerror=_we;}else{window.onerror=_re;};_oe=1;_ar+=_rf+"&ec=1&pl="+escape(_pl);_hbi.src=_ar;return true;};_iie5=(navigator.userAgent.indexOf('MSIE 5')>=0)?true:false;_imac=(navigator.userAgent.indexOf('Mac')>=0)?true:false;if(!_imac){if(window.onerror){_we=window.onerror;_et=1;};};window.onerror=_se;function _sb(_k){eval("var _gt=/(\\w*\\.)*(\\w*\\.)/i;");var _s=_k.href;if(_s.indexOf('://')){_s=_s.substring(_s.indexOf('://')+3,_s.length);}_gt.exec(location.hostname);var _fr="co.com.org.net.";if(_fr.indexOf(RegExp.$2)!=-1){eval("var _uf=/(\\w*\\.)*(\\w*\\.)(\\w*\\.)/;");_uf.exec(location.hostname);}if(_s.indexOf(RegExp.$2)==0){if(_ctdts(_s)<=1){return true;}else{_hk=_k.href;if(_hk.charAt(_hk.length-1)=='/'){_hk=_hk.substring(0,_hk.length-1);};setTimeout("_hbi.src=_ar+'&el='+escape(_hk);",1);}}else if((_s.indexOf(RegExp.$2)==-1)&&(_k.protocol!="javascript:")){if(_bn=="Netscape"){_hk=_k.href;if(_hk.charAt(_hk.length-1)=='/'){_hk=_hk.substring(0,_hk.length-1);};setTimeout("_hbi.src=_ar+'&el='+escape(_hk);",1);}else{_hbi.src=_ar+"&el="+escape(_k);}}return true;};function _ctdts(_l){var t=0;for(var i=0;i<_l.length;i++){if(_l.charAt(i)=='.'){t++;}}return t;};function _ri(_k,_w){var _ilc=0;_rv=true;while(document.links[_ilc]!=_k){_ilc++;}if(_w.li[_ilc]){_rv=_w.li[_ilc].oc();}_fl=_gf(_k.pathname);if(_fl!=""){var _pt=new RegExp("\..?html?|\.asp|\.cfm|\.jsp|\.cgi|\.php[3-4]?|\.pl|\.taf|\.dll","i");if((!_pt.test(_fl))&&(_fl.indexOf(".")!=-1)){if(_bn=="Netscape"){setTimeout("_hbi.src=_ar+'&fn='+escape(_fl);",1);}else{_hbi.src=_ar+"&fn="+escape(_fl);}}else{_sb(_k);}}else{_sb(_k);}return _rv;};function _it(){if(_ot==1)_wo();_lo=new Object();_lo.li=new Array(document.links.length);for(var i=0;i<document.links.length;i++){if(document.links[i].onclick){_lo.li[i]=document.links[i];_lo.li[i].oc=document.links[i].onclick;}eval("document.links[i].onclick=function(){return _ri(this,_lo);}");}};function _cr(_x,_w){_ed=(_w=="*")?(_x.indexOf("*")):(_x.length);if(_x.indexOf("CP=")>=0){_be=(_x.indexOf("CP=")+3)}else{return"null";}_cv=(_x.substring(_be,_ed));return(_cv);};_dt=(new Date()).getHours();_lm=(Date.parse(document.lastModified));if((_bn=="MSIE")&&(_bv>=400)){_ln=navigator.userLanguage;}if(_bn=="Netscape"){if(_bv>=400)_ln=navigator.language;if(_bv>300)for(var i=0;i<navigator.plugins.length;i++)_pl+=navigator.plugins[i].name+":"};if(location.search&&_cp=="null"){_cp=_cr(location.search,"x")};if(document.cookie.indexOf("CP=")!=-1){_ce="y";_hd=(_cr(document.cookie,"*"));if((_hd!="null")&&(_cp=="null")){_cp=_hd;}else{document.cookie="CP="+_cp+"*; path=/; expires=Wed, 1 Jan 2020 00:00:00 GMT";};}else{document.cookie="CP="+_cp+"*; path=/; expires=Wed, 1 Jan 2020 00:00:00 GMT";_ce=(document.cookie.indexOf("CP=")!=-1)?"y":"n";};_ja=(navigator.javaEnabled()==true)?"y":"n";if(window.screen){_sv=12;_ss=screen.width+'*'+screen.height;_sc=(_bn=='MSIE')?screen.colorDepth:screen.pixelDepth;if(_sc=='undefined'){_sc='na';}}_ra=new Array();if(_ra.toSource){_sv=13;};if((_bn=="MSIE")&&(_ra.shift)){_sv=13;};if((_iie5)&&(!_imac)){if(navigator.appMinorVersion.toString().indexOf("Privacy")!=-1){_ce="p";};if(document.body){document.body.addBehavior("#default#homePage");_hp=(document.body.isHomePage(location.href))?"y":"n";document.body.addBehavior("#default#clientCaps");_cy=document.body.connectionType;}}_ar="http://"+_gn+"/HG?hc="+_mn+"&hb="+escape(_acct)+"&cd=1&hv=6&n="+escape(_pn);_ar+="&bn="+escape(_bn)+"&bv="+_bv+"&ce="+_ce+"&ss="+_ss+"&sc="+_sc+"&dt="+_dt+"&sv="+_sv+"&vcon="+escape(_mlc);_ar+="&epg="+_epg+"&seg="+_useg+"&cmp="+_cmp+"&gp="+_gp+"&aff="+_aff+"&bon="+_bon+"&uid="+_uid+"&rew="+_rew+"&lm="+_lm+"&cy="+_cy+"&hp="+_hp+"&ja="+_ja+"&ln="+_ln+"&cp="+escape(_cp);if(_tp){_ar+="&pt="+_tp;};_ar+="&rf=";if(_iie5){eval("try {_rf=escape(top.document.referrer)+\"\";}catch (_e) {_rf=escape(document.referrer)+\"\";}");}else{if(top.document){_rf=escape(top.document.referrer)+"";}};if((_rf=="undefined")||(_rf=="")){_rf="bookmark";};_ar+=_rf+"&pl="+escape(_pl);if(_oe==0){if(_et==1){window.onerror=_we;}else{window.onerror=_re;}_hbi.src=_ar;};if((_sv>11)&&(!_imac)){if(window.onload){_wo=window.onload;_ot=1;};window.onload=_it;}
+//-->
+</script> 
+<!-- end Hitbox -->
 <table width="772" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr>
-	<td width="130" rowspan="3" valign="bottom">
-		<a href="/index"><img src="http://images.nfl.com/images/logo_sub.gif" width="127" height="80" border="0" alt="NFL.com"></a></td>
-	<td width="642" height="15" colspan="3" align="right" valign="bottom">
-		<font face="verdana,arial,helvetica" size="1"><b>
-		<a href="http://www.sportsline.com/links/3/5/nflcbs.cgi" target="_blank" class="breadc">CBS</a> -
-		<a href="http://www.sportsline.com/links/3/5/nflspln.cgi" target="_blank" class="breadc">CBS SportsLine</a> -
-		<a href="http://www.sportsline.com/links/3/5/nflaol.cgi" target="_blank" class="breadc">AOL</a>
-		</b></font>
-	</td>
+<td width="130" rowspan="3" valign="bottom"><a href="/index"><img src="http://images.nfl.com/images/logo_sub.gif" width="127" height="80" border="0" alt="NFL.com"></a></td>
+<td width="642" height="15" colspan="3" align="right" valign="bottom">
+	<font face="verdana,arial,helvetica" size="1"><b>
+	<a href="http://www.sportsline.com/links/3/5/nflcbs.cgi" target="_blank" class="breadc">CBS</a> -
+	<a href="http://www.sportsline.com/links/3/5/nflspln.cgi" target="_blank" class="breadc">CBS SportsLine</a> -
+	<a href="http://www.sportsline.com/links/3/5/nflaol.cgi" target="_blank" class="breadc">AOL</a>
+	</b></font>
+</td>
 </tr>
-<tr><td height="5" colspan="3"><spacer type="block" width="15" height="10"></spacer></td></tr>
-	<tr><td valign="top" width="468">
-		<script language="JavaScript">
+<tr>
+<td height="5" colspan="3"><spacer type="block" width="15" height="10"></spacer></td></tr>
+<tr><td valign="top" width="468">
+<script language="JavaScript">
 <!--//
-document.write('<script src="http://ad.doubleclick.net/adj/nfl.com/'+vTag+';'+vTarget+'u='+_uid+';sz=468x60;tile=1;ord='+random+'?"><\/script>');
+document.write('<script src="http://ad.doubleclick.net/adj/banners.nfl.com/'+vTag+';'+vTarget+'u='+_uid+';sz=468x60;tile=1;ord='+random+'?"><\/script>');
 // -->
-</script><script src="http://ad.doubleclick.net/adj/nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;page=lower;team=NUL;pid=NUL;rw=none;myspl=no;fbcom=no;fbmgr=no;fbsgl=no;bbcom=no;bbmgr=no;bbsgl=no;bbsgg=no;bkcom=no;bkmgr=no;bksgl=no;hcom=no;hmgr=no;hsgl=no;u=;sz=468x60;tile=1;ord=17879154009135823?"></script>
+</script><script src="http://ad.doubleclick.net/adj/banners.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;myspl=no;fteam=NFL-none;fteam=NBA-none;fteam=MLB-none;fteam=NHL-none;fteam=NCAAF-none;fteam=NCAAB-none;seg=nonaol;vt=null;u=;sz=468x60;tile=1;ord=6631334457002238?"></script>
 
-	</td>
-	<td width="19" height="1"><spacer type="block" width="19" height="1"></spacer></td>
-	<td valign="top" width="155">
-               <a href="http://www.nflshop.com/home/default.cfm?SID=7126" target="_blank"><img src="http://images.nfl.com/images/store/nflshop_155X60index.gif" height="60" width="155" border="0"></a><!-- NFL  NFL -->
-	</td>
-</tr></tbody></table>
+</td>
+<td width="19" height="1"><spacer type="block" width="19" height="1"></spacer></td>
+<td valign="top" width="155">
+<a href="http://www.nflshop.com/home/default.cfm?SID=7126" target="_blank"><img src="http://images.nfl.com/images/store/nflshop_155x60.gif" height="60" width="155" border="0"></a><!-- NFL  NFL -->
+</td></tr>
+</tbody></table>
 <table width="772" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr valign="bottom">
+<tbody><tr valign="bottom" class="bg3">
 <td width="130"><a href="http://www.sportsline.com/links/3/5/splnassoc.cgi" target="_blank"><img src="http://images.nfl.com/images/cbsspln.gif" width="124" height="29" alt="in Association with CBS.SportsLine.com" border="0"></a></td>
 <td width="500">
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="white"><tbody><tr align="center"><td height="20" class="ln"><a href="/index">&nbsp;home&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="/scores">&nbsp;scores&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="/stats">&nbsp;stats&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="/schedules">&nbsp;schedules&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="/standings">&nbsp;standings&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="/teams">&nbsp;teams&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="/players">&nbsp;players&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td></tr></tbody></table>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="white"><tbody><tr align="center"><td height="20" class="ln"><a href="http://www.nfl.com/index">&nbsp;home&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="http://www.nfl.com/scores">&nbsp;scores&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="http://www.nfl.com/stats">&nbsp;stats&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="http://www.nfl.com/schedules">&nbsp;schedules&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="http://www.nfl.com/standings">&nbsp;standings&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="http://www.nfl.com/teams">&nbsp;teams&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td><td height="20" class="ln"><a href="http://www.nfl.com/players">&nbsp;players&nbsp;</a></td><td width="2"><spacer type="BLOCK" width="2" height="2"></spacer></td></tr></tbody></table>
 </td>
 <td width="142">
 <table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td height="20" class="ln">&nbsp;</td></tr></tbody></table>
@@ -452,9 +883,11 @@ document.write('<script src="http://ad.doubleclick.net/adj/nfl.com/'+vTag+';'+vT
 <tbody><tr><td height="1" bgcolor="#000000"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln2"><li class="dot"><a href="http://www.nfl.com/fantasy/index.html">FANTASY</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="/draft">NFL Draft</a></li></td></tr>
+<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/news">NEWS</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="/tvradio/">TV &amp; RADIO</a></li></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="/tvradio">TV &amp; RADIO</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/rosters">ROSTERS</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
@@ -462,13 +895,11 @@ document.write('<script src="http://ad.doubleclick.net/adj/nfl.com/'+vTag+';'+vT
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="http://www.nfl.com/nflfilmstv">NFL FILMS</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="/insider">NFL INSIDER</a></li></td></tr>
-<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/tickets">TICKETS</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/auctions">AUCTIONS</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="http://www.nflhs.com/nflprograms">YOUTH FOOTBALL</a></li></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="/youth">YOUTH FOOTBALL</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="http://www.nfl.com/reebok/index.html">UNDER THE HELMET</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
@@ -484,17 +915,13 @@ document.write('<script src="http://ad.doubleclick.net/adj/nfl.com/'+vTag+';'+vT
 <tbody><tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="http://www.playfootball.com">KIDS</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="http://nfl.ea.com/sports_nfl/games/home.jsp">GAMES</a></li></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="http://www.profootballhof.com/">HALL OF FAME</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="http://www.nflplayers.com/">NFLPLAYERS.COM</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="http://www.superbowl.com/">SUPER BOWL</a></li></td></tr>
-<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="http://www.probowl.com/">PRO BOWL</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="http://www.nfleurope.com">NFL EUROPE</a></li></td></tr>
-<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="http://www.profootballhof.com/">HALL OF FAME</a></li></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="http://www.nfleurope.com">NFL Europe</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="http://www.nflalumni.org/">NFL ALUMNI</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
@@ -505,23 +932,33 @@ document.write('<script src="http://ad.doubleclick.net/adj/nfl.com/'+vTag+';'+vT
 </tbody></table>
 <table border="0" cellspacing="0" cellpadding="0" width="100%" bgcolor="#5961A6">
 <tbody><tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="http://www.superbowl.com/">SUPERBOWL.COM</a></li></td></tr>
+<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="/rookies">ROOKIES</a></li></td></tr>
+<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/espanol">ESPAÑOL</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/fans">IN THE COMMUNITY</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="/ticket">NFL SUNDAY TICKET</a></li></td></tr>
-<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="/basics">BASICS</a></li></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="http://www.nflplayerdevelopment.com">PLAYER</a></li></td></tr>
+<tr><td height="18" class="ln"><li class="not"><a href="http://www.nflplayerdevelopment.com">DEVELOPMENT</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/history">HISTORY</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/international">INTERNATIONAL</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
+<tr><td height="18" class="ln"><li class="dot"><a href="/ticket">NFL SUNDAY TICKET</a></li></td></tr>
+<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 <tr><td height="18" class="ln"><li class="dot"><a href="/wireless">WIRELESS</a></li></td></tr>
 <tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
-<tr><td height="18" class="ln"><li class="dot"><a href="/coachesclub">COACHES CLUB</a></li></td></tr>
-<tr><td height="1"><spacer type="BLOCK" width="1" height="1"></spacer></td></tr>
 </tbody></table>
+
+
+
+
+
+
+
 
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td height="100"><spacer type="block" width="1" height="100"></spacer></td></tr></tbody></table>
@@ -693,10 +1130,9 @@ Ft. Lauderdale, Florida 33309
 		<table width="100%" cellpadding="0" cellspacing="0" border="0"><tbody><tr><td height="10"></td></tr></tbody></table>
 		<script language="JavaScript">
 <!--//
-/*skyscraper*/
-document.write('<script src="http://ad.doubleclick.net/adj/superspots.nfl.com/'+vTag+';'+vTarget+'u='+_uid+';sz=120x600;tile=7;ord='+random+'?"><\/script>');
+document.write('<script src="http://ad.doubleclick.net/adj/skyscrapers.nfl.com/'+vTag+';'+vTarget+'u='+_uid+';sz=120x600;tile=7;ord='+random+'?"><\/script>');
 // -->
-</script><script src="http://ad.doubleclick.net/adj/superspots.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;page=lower;team=NUL;pid=NUL;rw=none;myspl=no;fbcom=no;fbmgr=no;fbsgl=no;bbcom=no;bbmgr=no;bbsgl=no;bbsgg=no;bkcom=no;bkmgr=no;bksgl=no;hcom=no;hmgr=no;hsgl=no;u=;sz=120x600;tile=7;ord=17879154009135823?"></script>
+</script><script src="http://ad.doubleclick.net/adj/skyscrapers.nfl.com/helpcenter;arena=nfl;feat=helpcenter;type=psa;user=Anonymous;myspl=no;fteam=NFL-none;fteam=NBA-none;fteam=MLB-none;fteam=NHL-none;fteam=NCAAF-none;fteam=NCAAB-none;seg=nonaol;vt=null;u=;sz=120x600;tile=7;ord=6631334457002238?"></script>
 
 	</td>	
 </tr>
@@ -704,19 +1140,26 @@ document.write('<script src="http://ad.doubleclick.net/adj/superspots.nfl.com/'+
 <table width="772" cellpadding="0" cellspacing="0" border="0">
 <tbody><tr bgcolor="#e5e5e5">
 <td width="5" height="28"><spacer type="block" width="5" height="1"></spacer></td>
-<td colspan="2" width="770" height="3" class="foot"><a href="/help">NFL.COM Help Section</a> | <a href="/help/privacy">Privacy Policy</a> | <a href="/help/terms">Terms and Conditions</a></td>
+<td colspan="2" width="770" height="3" class="foot"><a href="http://www.nfl.com/help">NFL.COM Help Section</a> | <a href="http://www.nfl.com/help/privacy">Privacy Policy</a> | <a href="http://www.nfl.com/help/terms">Terms and Conditions</a> | <a href="http://footballjobs.teamworkonline.com" target="_blank">Team Employment Opportunities</a></td>
 </tr>
 <tr bgcolor="#000000">
 <td width="5" height="1"><spacer type="block" width="5" height="1"></spacer></td>
-<td valign="top" class="foot">© 2002, NFL Enterprises, L.P. NFL and the NFL shield design are registered trademarks of the National Football League. The team names, logos and uniform designs are registered trademarks of the teams indicated. NFL footage © NFL Productions LLC. <br>&nbsp;<br>&nbsp;</td>
+<td valign="top" class="foot">© 2003, NFL Enterprises, L.P. NFL and the NFL shield design are registered trademarks of the National Football League. The team names, logos and uniform designs are registered trademarks of the teams indicated. NFL footage © NFL Productions LLC. <br>&nbsp;<br>&nbsp;</td>
 </tr>
 </tbody></table>
-<script language="JavaScript"><!--// 
-var aolPopcheck=''; 
-var autoplay="off"; 
-var adCategory=""; 
-var codebase="http://cache.unicast.com/java50/classes/"; 
-// --></script> 
+<script language="JavaScript">
+  <!--//
+    var aolPopcheck='ia_archiver';
+    var autoplay='off';
+    var adCategory='';
+    
+    var codebase="http://cache.unicast.com/java50/classes/";
+  // -->
+</script>
+	
+<script language="JavaScript1.2" src="http://cache.unicast.com/java50/wrapper/wrapper.js"></script> 
+
+
 
 
 
