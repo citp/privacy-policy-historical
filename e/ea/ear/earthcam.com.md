@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthcam.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604183420id_/http%3A//www.earthcam.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthcam.com privacy policy that was archived on 2002-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020810163939id_/http%3A//www.earthcam.com/company/privacy.html) for the most accurate reproduction.*
 
 # EarthCam - Privacy Policy - Find the Webcam you've been looking for. The best live video pictures from Internet cameras.
 
@@ -34,7 +34,7 @@ This site gives users the following options for removing their information from 
 
 1\. At the bottom of all EarthCam newsletters and advisory notices regarding new services, products and/or software upgrades, a user can elect to unsubscribe. 
 
-2\. Send an e-mail to [cammaster@earthcam.com](mailto:cammaster@tv.earthcam.com), re: Unsubscribe. 
+2\. Send an e-mail to [newsletter@earthcam.com](mailto:newsletter@earthcam.com?subject=unsubscribe), re: Unsubscribe. 
 
 Correct/Update 
 
