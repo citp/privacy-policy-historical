@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605134735id_/http%3A//www.convio.com/site/PageServer%3Fpagename%3Dbla_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convio.com privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211185653id_/http%3A//www.convio.com/site/PageServer%3Fpagename%3Dbla_privacy) for the most accurate reproduction.*
 
-# Convio, Inc.
+# Convio, Inc.: Privacy Policy
 
-  
+Privacy Policy
+
 Registering with us allows you to take advantage of all our unique services as a Convio.com registered user, including reports on critical developments affecting the world of nonprofits, stories on Internet technology for nonprofits from leading consultants in the field, best practices in technology for nonprofits, tips and strategies from your peers in nonprofits on how to get the most out of technology, and announcements of new Convio releases. 
 
 Convio, Inc. ("Convio") has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL www.convio.com and any other site provided by Convio (collectively, the "Site").
