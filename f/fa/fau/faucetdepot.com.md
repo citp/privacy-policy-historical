@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faucetdepot.com privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618092009id_/http%3A//www.faucetdepot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faucetdepot.com privacy policy that was archived on 2000-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001211031000id_/http%3A//www.faucetdepot.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for faucetdepot.com
 
@@ -42,8 +42,8 @@ The Faucet Depot
 Van Nuys CA 91411  
 (818)756-3580  [tarcher@faucetdepot.com](mailto:tarcher@faucetdepot.com)
 
-[](https://web.archive.org/web/20000618092009id_/http%3A//www.faucetdepot.com/_vti_bin/shtml.exe/privacy.html/map)
+[](https://web.archive.org/web/20001211031000id_/http%3A//www.faucetdepot.com/_vti_bin/shtml.exe/privacy.html/map)
 
-[**Faucet Depot Home Page**](https://web.archive.org/web/20000618092009id_/http%3A//www.faucetdepot.com/index.html)
+[**Faucet Depot Home Page**](https://web.archive.org/web/20001211031000id_/http%3A//www.faucetdepot.com/index.html)
 
-_Copyright © 1997-99 The Faucet Depot. All Rights Reserved._
+_Copyright © 1997-2000 The Faucet Depot. All Rights Reserved._
