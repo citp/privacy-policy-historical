@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207035325id_/http%3A//www.shiekhshoes.com/customer/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2003-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030625132750id_/http%3A//shiekhshoes.com/customer/Privacy.html) for the most accurate reproduction.*
 
 # Shiekh Shoes | Privacy
 
@@ -15,7 +15,7 @@ We also have a mail list which you can opt-in.  By joining, you receive product
 
 **Why Collect Order information?**
 
-Your order information such as billing address, shipping address, e-mail, name, and telephone number allows us to process a transaction completely, and securely.   It also allows for us to ship the product properly, and off course if you have any questions, or concerns, we need the info to help provide answers to your questions.  We also enter your info into a Bonus Club ([Click here](https://web.archive.org/web/20021207035325id_/http%3A//www.shiekhshoes.com/customer/Bonus.html)) for more info. 
+Your order information such as billing address, shipping address, e-mail, name, and telephone number allows us to process a transaction completely, and securely.   It also allows for us to ship the product properly, and off course if you have any questions, or concerns, we need the info to help provide answers to your questions.  We also enter your info into a Bonus Club ([Click here](https://web.archive.org/web/20030625132750id_/http%3A//shiekhshoes.com/customer/Bonus.html)) for more info. 
 
 For those of you who choose to opt-in our mailing program, we collect info such as e-mail to help provide you the services you requested.
 
