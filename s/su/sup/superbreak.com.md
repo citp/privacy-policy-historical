@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810193620id_/http%3A//www.superbreak.com/hotelnet/superbreak/new/home.cfm%3Fcompany%3DAdmin%26Content%3DPrivacy%26referid%3Dtextmenuprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbreak.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607184342id_/http%3A//www.superbreak.com/hotelnet/superbreak/new/home.cfm%3Fcompany%3DAdmin%26Content%3DPrivacy%26referid%3Dtextmenuprivacy) for the most accurate reproduction.*
 
 # Online hotel reservations, short breaks UK & Europe from Superbreak
 
