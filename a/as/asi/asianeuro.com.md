@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianeuro.com privacy policy that was archived on 2001-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010812213204id_/http%3A//asianeuro.com/AE_Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianeuro.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604021631id_/http%3A//www.asianeuro.com/AE_Privacy.htm) for the most accurate reproduction.*
 
 # asianeuro.com - Privacy Policy
 
@@ -29,7 +29,7 @@ We use the following information to evaluate our website performance and to impr
 
 
 
-If you become a member we collect all of the information that you fill out in the registration form. With the exception of your email address and family name, this information is made available to other **asianeuro.com** members as part of your profile. **We do not disclose your email address or family name to other asianeuro.com members or any other companies, individuals or organisations.**
+If you become a member we collect all of the information that you fill out in the registration form. With the exception of your email address and family name, this information is made available to other asianeuro.com members as part of your profile. **We do not disclose your email address or family name to other asianeuro.com members or any other companies, individuals or organisations.**
 
 **How we store your information**
 
@@ -60,5 +60,7 @@ If you become a member we collect all of the information that you fill out in th
 **Application of our Privacy Statement**
 
 This Privacy Statement was last reviewed in April 2001. It is subject to change from time to time due to developments in technology and new laws.
+
+[Home ](https://web.archive.org/web/20020604021631id_/http%3A//www.asianeuro.com/default.htm)
 
  
