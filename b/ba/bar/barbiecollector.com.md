@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the barbiecollector.com privacy policy that was archived on 2003-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031002053710id_/http%3A//www.barbiecollectibles.com/contact/policies.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbiecollector.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207025242id_/http%3A//www.barbiecollector.com/contact/policies.asp) for the most accurate reproduction.*
 
-# Barbie Collectibles - Privacy Policy
+# Barbie Collector - Privacy Policy
 
 **Mattel, Inc. Online Privacy Policy**  
 
 
-Updated May 2002
+Updated September 2004
 
 Mattel is committed to protecting your online privacy when visiting a Web site operated by us or our family of companies. We do not collect and keep any personal information online from you unless you volunteer it and you are 13 or older. We also do not collect and keep personal information online from children under the age of 13 without their parent's consent except in limited circumstances authorized by law and described in this policy. Please review the information below to familiarize yourself with our policies on Web site privacy, so that you can take full advantage of all the fun stuff available at our sites for you and your family. Please remember that this site and the servers that make this site available are located in the U.S. By using this site you agree to the transfer, collection, processing and use of data by this site.
 
@@ -67,7 +67,7 @@ Mattel doesn't require anyone to share any personal information about themselves
 back to top
 
 **What Ordering Information Does Mattel Collect Online in the E-store?**   
-Our Barbie Collectibles E-store offers a range of products available for purchase online, as well as a chance to get our catalog. Customers must be over age 18 with a valid credit card. Fans under age 18 can use the Wish List function while browsing the e-store but cannot make purchases, and we use techniques to avoid collecting personal information from children. When a customer places an order or requests a catalog online, we collect information associated with the transaction. This information includes the customer's name, mailing address, products ordered, shipping addresses, and credit card information. We ask for this information so that we may fulfill the order or catalog request. We use Secure Sockets Layer (SSL) technology to protect credit card data during transmission, and adopt careful internal procedures to safeguard this information in our system. 
+Our Barbie Collector E-store offers a range of products available for purchase online, as well as a chance to get our catalog. Customers must be over age 18 with a valid credit card. When a customer places an order or requests a catalog online, we collect information associated with the transaction. This information includes the customer's name, mailing address, products ordered, shipping addresses, and credit card information. We ask for this information so that we may fulfill the order or catalog request. We use Secure Sockets Layer (SSL) technology to protect credit card data during transmission, and adopt careful internal procedures to safeguard this information in our system. 
 
 Customers have the option of registering certain information for future orders while completing their online order. For the customers who choose to register, we will capture their login name, password, name and mailing address, alternate ship-to addresses, and credit card information. When registered customers return to the site to place subsequent orders, they can identify themselves with login name and password. 
 
@@ -77,16 +77,16 @@ When a customer places an online order, we will send a confirming e-mail message
 
 When a customer requests a catalog or places an order online, we add the customer's name and address to our print catalog mailing list. If a customer does not wish to receive our mailings, they can send the mailing label from their catalogue to the following address: 
 
-Barbie Collectibles: Mail Order Processing Dept.   
+Barbie Collector: Mail Order Processing Dept.   
 8400 Fairway Place P.O. Box 620040   
 Middleton, WI 53562-0040. 
 
-Customers who have recently moved or are planning a move in the near future should let us know by filling out the attached online Change of Address. For all mailing questions and changes, you may also call 1-800-845-0005. 
+Customers who have recently moved or are planning a move in the near future should let us know by filling out the attached online Change of Address. For all mailing questions and changes, you may also call 1-800-491-7514. 
 
 back to top
 
 **Does Mattel Collect Any Personal Information About My Child Under 13?**   
-Barbie Collectibles offers information, and opportunities to sign up to obtain our catalog or to shop online for our adult fans. We use age-screening devices to avoid collecting personal information from children. Visitors must be over 18 and have a valid credit card to place an online order. Underage visitors can use our wish list function, but do not have to provide any personal information to do so.
+Barbie Collector offers information, and opportunities to sign up to obtain our catalog or to shop online for our adult fans. We use age-screening devices to avoid collecting personal information from children. Visitors must be over 18 and have a valid credit card to place an online order. 
 
 back to top
 
