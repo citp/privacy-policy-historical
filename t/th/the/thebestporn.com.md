@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebestporn.com privacy policy that was archived on 2001-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010804234654id_/http%3A//www.ranks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebestporn.com privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601114953id_/http%3A//www.ranks.com/privacy.html) for the most accurate reproduction.*
 
 # Ranks.com - Privacy Policy
 
