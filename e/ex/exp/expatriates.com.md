@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expatriates.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607084628id_/http%3A//expatriates.com/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expatriates.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201183741id_/http%3A//expatriates.com/html/privacy.html) for the most accurate reproduction.*
 
 # Expatriates.com - Privacy statement
 
@@ -21,7 +21,7 @@ In our subscription form we ask for your email address and optionally your name.
 
 #### Public Forums
 
-Expatriates.com provides a bulletin board for classified ads and a discussion board accessible to any visitor. Please remember that any information you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. When you post a message either on the bulletion board or the discussion board, your email address is optional. 
+Expatriates.com provides a bulletin board for classified ads and a discussion board accessible to any visitor. Please remember that any information you disclose in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. When you post a message either on the bulletin board or the discussion board, your email address is optional. 
 
 #### Contacting Us
 
