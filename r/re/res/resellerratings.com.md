@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603181842id_/http%3A//www.resellerratings.com/statement.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204201823id_/http%3A//resellerratings.com/statement.pl) for the most accurate reproduction.*
 
 # ResellerRatings.com - Customer reviews of online retailers
 
@@ -28,15 +28,17 @@ We use information in different ways, depending on the type of information: User
 
 Web Server Logs: This information helps us identify which areas of our site are of interest to our visitors. ResellerRatings.com also collects the Internet Protocol (IP) addresses of its visitors for the purposes of system administration and to report aggregate information to our advertisers. 
 
-Cookies: We use cookies to let you use our services more easily and to let us keep track of certain statistical information that helps us improve our site. Cookies allow us to save passwords and preferences for you so that you won't have to re-enter them the next time you visit. 
+Cookies: We use cookies to let you use our services more easily and to let us keep track of certain statistical information that helps us improve our site. Cookies allow us to save passwords and preferences for you so that you won't have to re-enter them the next time you visit.
 
-**How We Protect Your Information:**
+Your Email Address: We use your email address to send you information about your ResellerRatings account, such as your username and password, and confirmations of reviews that you have submitted to the site. From time to time, we may email you to let you know about new site features no more frequently than once per month but generally only a few times per year. Your email address is never sold or otherwise provided to a 3rd party.
+
+ **How We Protect Your Information:**
 
 The privacy and protection of your personal information is vitally important to us. ResellerRatings.com does not make personal information available to any third parties without your permission. Any user statistics that we may provide to prospective advertisers or partners regarding your ResellerRatings.com usage are provided in the aggregate only and do not include any personally identifiable information about any individual user. 
 
 Your access to some services and content is password protected. We recommend that you do not divulge your password to anyone. ResellerRatings.com will never ask you for your password in an unsolicited phone call or in an unsolicited email. You should not disclose your user name and password to others. In addition, if applicable, you should remember to sign out of your ResellerRatings.com account or service at the end of each session. You may also wish to close your browser window when you have finished your work. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet cafe. 
 
-Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, despite our efforts to protect your personal information, ResellerRatings.com cannot ensure or warrant the security of any information you transmit to us, or to or from our online products or services. You transmit all such information to us at your own risk. However, once we receive your trandmission, we make our best effort to ensure its security on our systems. 
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, despite our efforts to protect your personal information, ResellerRatings.com cannot ensure or warrant the security of any information you transmit to us, or to or from our online products or services. You transmit all such information to us at your own risk. However, once we receive your transmission, we make our best effort to ensure its security on our systems. 
 
 **Who Has Access to the Information:**
 
