@@ -1,52 +1,79 @@
-> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401220450id_/http%3A//www.idg.net/content/bonus_content/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestandard.com privacy policy that was archived on 2003-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030826064515id_/http%3A//www.thestandard.com/index.php%3Fid%3D103) for the most accurate reproduction.*
 
-# IDG.net - Privacy
+# The Industry Standard: Internet Economy news and analysis for business leaders: Privacy Policy
 
-IDG.net has created this privacy statement in order to demonstrate our firm commitment to the confidentiality of user data. IDG.net is a network of sites for Information Technology professionals, and is a business unit of International Data Group.
+Below is the current policy regarding the usage of data collected by TheStandard.com. We reevaluate this policy on an ongoing basis based on feedback from readers. 
 
-It is our commitment to notify you of the following:
+**Visitor Data**
 
-  * What personally identifiable information this web site collects from you and how the information is used. 
-  * With whom this site shares the information it collects. 
-  * How you can correct or make changes to this information. 
-  * What choices are available to you regarding the collection, use, and distribution of information. 
-  * What security procedures are in place to protect the loss, misuse, or alteration of information under IDG.net's control. 
-  * If you have questions or concerns regarding this statement, please contact us via our [feedback](https://web.archive.org/web/20030401220450id_/http%3A//www.idg.net/content/bonus_content/feedback.index.shtml) page.
+For each visitor to our Web page, our Web server automatically records the consumer's domain name and IP address. We collect only the domain name of visitors to our web page, aggregate information on what pages consumers access or visit, and information volunteered by the consumer, such as survey information and/or site registrations. We do not collect e-mail addresses of unregistered visitors. Cookies may be used to collect information. 
 
+The aggregated information we collect is used for the following purposes: 
 
+1\. to improve the content of our Web pages 
 
-#### Ad Serving Technology
+2\. shared with advertisers and potential advertisers to help them assess TheStandard.com's suitability for their ad campaigns 
 
-IDG.net has contracted with DoubleClick to serve all advertising on www.idg.net both on the Web site itself and through our e-mail newsletters. When DoubleClick is serving ads to the user, it is also using cookies to track certain types of non-personally identifiable information such as a user's IP address, his or her browser version or type, operating system, service provider, and his or her local time. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit: [www.doubleclick.net/privacy_policy/](http://www.doubleclick.net/privacy_policy/). Although DoubleClick does share with IDG.net non-personally identifiable information such as user profiles based on click-stream profile data, such information is strictly in the aggregate. Any pages the users calls up on IDG.net will not be connected with personally-identifiable information collected either at IDG.net or elsewhere. 
+3\. set by our audit bureau to verify our claims of traffic to the site 
 
-#### What information does IDG.net collect and how is it used?
+In regards to cookies, TheStandard.com's ad-serving partner, Double-Click, records cookies in cookie files only to prevent repetitious ad banner placements. If you do not want the frequency of ad exposure controlled, you can deny this feature by following instructions at: 
 
-IDG.net collects optional data supplied by visitors to our web site through registration, surveys, sweepstakes and/or contests, as well as information that we gather from visitors via our server log. This information enables us to better tailor our content to your interests, and to help our advertisers better understand the audience they are reaching. Our site is completely free, and is supported by paid advertisements and it is therefore critically important for us to be able to identify our audience. Information is only shared with advertisers or any other third parties in aggregate form. We are also firmly committed to identifying whether information presented on our sites is written by our editorial staff or is contributed by a user or vendor. 
+<http://www.doubleclick.net/us/corporate/privacy/opt-out.asp?asp_object_1>=&. 
 
-#### IP Addresses
+To read Doubleclick's entire privacy policy, go to: 
 
-For each visitor to our site, our web server automatically records the visitor's domain and IP address. We use your IP address to help diagnose problems with our server, and to administer our Web site.
+<http://www.doubleclick.net/us/corporate/privacy/>. 
 
-#### How is our registration data used? 
+NOTE: TheStandard.com will not be participating in any program to identify visitors using DoubleClick's data base partner Abacus. To read more about the "Abacus Alliance" program go here: 
 
-Some optional services that IDG.net offers require registration. Our site's registration process requests that users give us contact information (like their name and email address), unique identifiers for authentication, and demographic information that pertains to their profession such as business industry and job function. We use customer contact information from the registration form to send the user relevant information about our company and promotional material from some of our partners, but only to those who opt to receive it. These messages are delivered by us, and we never allow email addresses or other contact information out of our control. Users may opt-out of receiving future mailings; see the choice/opt-out section below. The customer's contact information is also used to contact the visitor when necessary, for the administration of prizes, rewards, or to respond to customer service requests. We also use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is only shared with advertisers on an aggregate basis. Unique identifiers such as passwords, are collected to verify the user's identity and for use as account numbers in our database. This site contains links to other sites and IDG.net is not responsible for the privacy practices or the content of such Web sites. 
+<http://www.doubleclick.net/us/corporate/privacy/>. 
 
-#### Surveys
+**Registered User Data**
 
-We occasionally run surveys that are optional to participate in. We only ask participants for contact information (like their email address) and demographic information that pertains to their profession or professional interests. The customer's contact information is also used to contact the visitor when necessary, or for the delivery of prizes or rewards. Users may opt-out of receiving future survey mailings; please see the choice/opt-out section below. The survey data is only used in aggregate form and may be used to guide our editorial process or site development process. 
+Registered users are asked to complete a questionnaire with identifying information and demographic information. The information we collect on registered users is used in the following ways: 
 
-#### Partner Sites
+1\. to improve the content of our Web pages 
 
-IDG.net has several partners that produce IDG.net branded services for us. Information that is shared with or collected at partner sites is used to provide the services that the user selects at that site. Communication by our partners with IDG.net customers is limited to the services that our customers select. For example, if a customer requests to be notified when information on a selected topic becomes available, the partner site may contact our customers. Customers are given the option to discontinue services at any time. Additionally a user name and password may be shared with partner sites for the purpose of logging a customer in to an IDG.net service hosted in another domain. If desired, customers may choose to exclude the sharing of this information during the registration process, or by modifying their profile and service selections.
+2\. used to notify users via e-mail newsletters about updates to our Web site 
 
-#### Public Forums
+3\. used by us for marketing TheStandard.com products and services 
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
+4\. used by our audit bureau to verify cumulative demographic statistics 
 
-#### Security
+5\. if the user has given permission, names and addresses may be shared with other reputable organizations (including IDG sister companies) for marketing purposes 
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. These hardened security systems include firewalls, authenticated access to internal databases, and audit of regular procedures. 
+6\. used by TheStandard.com, IDG, and IDC for research surveys 
 
-#### Choice/Opt-Out
+7\. used by Editorial for consultation with readers 
 
-IDG.net gives visitors the opportunity to opt-out of receiving communications from us, at the point we request information from you.
+Telephone numbers of registered users will not be rented to outside firms for sales purposes. TheStandard.com may use the telephone numbers for surveys or editorial consultation with users, and may allow outside firms to use them for surveys. IDG Sister publications may be allowed to use TheStandard.com subscribers' phone numbers to promote free subscriptions. 
+
+Currently, E-mail and postal mail addresses may be used by TheStandard.com to promote TheStandard.com and IDG products and services, surveys, and for editorial consultations with users. 
+
+We allow each registered user to "opt out" of receiving e-mail and postal mail from outside firms and IDG sister companies at the time of registration. When the user has given permission, his e-mail address may be rented to outside firms for promotional purposes. Offers for which the names are rented are screened, and renters are required to target their offers carefully. Users who later decide they want to change their preferences may write to us at: 
+
+TheStandard.com.com List Rentals 
+
+501 Second Street 
+
+San Francisco, CA 94107 
+
+and request that their name be removed from the promotion list, or click here to unsubscribe from mailing lists. 
+
+**TheStandard.com Partner Services Data**
+
+TheStandard.com.com will from time to time partner with other companies to provide services to our subscribers and registered users that we feel may be valuable to them. Only in cases where you need to subscribe or register to use these services, TheStandard.com.com will share your registration information with the partner company. We share this information to provide the service to you and for better customer service. 
+
+If any of these services are discontinued, registered users and subscribers of the service on TheStandard.com.com will be given the option to opt out of being contacted by the partner company. 
+
+**TheStandard.com Events and Conferences**
+
+E-mail addresses, postal addresses, fax and phone numbers will be used for notification of information pertaining to the conferences you register for or express interest in. 
+
+Postal addresses of attendees and registrants will be used to promote other TheStandard.com and IDG products and services, and may be rented to selected outside firms for promotional purposes. When the attendee has given permission, his e-mail address may be shared with sponsors or rented to other firms for promotional purposes. Offers for which the names are rented are carefully reviewed, and renters are required to target their offers carefully. Attendees and registrants may remove their name from the promotional list for events by e-mailing us at: [eventprivacy@thestandard.com](mailto:eventprivacy@thestandard.com)
+
+Credit card information is gathered through a secure server. 
+
+**Comments**
+
+If you have any questions or comments about this privacy policy, please send e-mail to: [privacy@thestandard.com](mailto:privacy@thestandard.com)
