@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ultimatesoftware.com privacy policy that was archived on 2004-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040607130912id_/http%3A//www.ultimatesoftware.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ultimatesoftware.com privacy policy that was archived on 2004-12-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041224073941id_/http%3A//ultimatesoftware.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Ultimate Software :: Privacy Policy</title>
@@ -26,7 +26,7 @@ function acrobatWin()  {
 <link rel="stylesheet" type="text/css" href="CSS_Font.css">
 </head>
 
-<body bgcolor="#FFFFFF" topmargin="0" bottommargin="0" rightmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="MM_preloadImages('images03/btn-customer-over.jpg')">
+<body bgcolor="#FFFFFF" topmargin="0" bottommargin="0" rightmargin="0" leftmargin="0" marginheight="0" marginwidth="0" onload="MM_preloadImages('images03/btn-customer-over.jpg');document.frmSearch.queryText.focus();">
 
 
 
@@ -60,7 +60,7 @@ function mmLoadMenus() {
   mm_menu_0530104454_0.addMenuItem("Customer&nbsp;Support","location='services/support.asp'");
   mm_menu_0530104454_0.addMenuItem("Professional&nbsp;Services/Implementation","location='services/implem.asp'");
   mm_menu_0530104454_0.addMenuItem("Education&nbsp;Services","location='services/education-services.asp'");
-  mm_menu_0530104454_0.addMenuItem("Hosting","location='services/hosting.asp'");
+  mm_menu_0530104454_0.addMenuItem("Hosting","location='products/uphosting.asp'");
    mm_menu_0530104454_0.hideOnMouseOut=true;
    mm_menu_0530104454_0.menuBorder=1;
    mm_menu_0530104454_0.menuLiteBgColor='#FFFFFF';
@@ -140,6 +140,16 @@ function MM_swapImage() { //v3.0
 //-->
 </script>
 <script language="JavaScript" src="mm_menu.js"></script>
+<script language="Javascript">
+	function ValidateAskUSSearch()
+	{
+		document.frmSearch.action = "search-results.asp";
+		document.frmSearch.queryText.value = escape(document.frmSearch.queryText.value);
+		document.frmSearch.method = "POST";
+		
+		return true;
+	}
+</script>
 
 
 
@@ -225,16 +235,43 @@ function MM_swapImage() { //v3.0
 </div>
 </span>
 
+
 <table width="770" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr>
     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
           <td valign="top" bgcolor="#CCCCCC"><img src="images03/space.gif" width="1" height="10"></td>
-          <td><img src="images03/uslogo.jpg" width="202" height="40"></td>
-          <td valign="top" background="images03/swatch-peach.jpg"><img src="images03/space.gif" width="13" height="10"></td>
-          <td valign="top" background="images03/swatch-red.jpg"><img src="images03/space.gif" width="20" height="10"></td>
-          <td valign="center" bgcolor="#990000"><img src="images/space.gif" width="10" height="18"><font face="Arial" size="2" color="#FF9966"><b>HRMS/Payroll. It's All We Do.</b></font><img src="images/space.gif" width="200" height="18"></td>
-          <td align="right" valign="top" bgcolor="#990000"><a href="customerlogin/index.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('customerlogin','','images03/btn-customer-over.jpg',1)"><img src="images03/btn-customer.jpg" name="customerlogin" width="135" height="20" border="0"></a></td>
+          <td align="center" width="202"><img src="images03/uslogo.jpg" width="202" height="40"></td>
+          <td valign="top" background="images03/swatch-peach.jpg" width="13"><img src="images03/space.gif" width="13" height="65"></td>
+          <td valign="top" background="images03/swatch-red.jpg" width="20"><img src="images03/space.gif" width="20" height="65"></td>
+          <td valign="center" bgcolor="#990000"><img src="images/space.gif" width="10" height="18"><font face="Arial" size="2" color="#FF9966"><b>HRMS/Payroll. It's All We Do.</b></font><img src="images/space.gif" width="60" height="18"></td>
+
+          
+          <td align="right" valign="top" bgcolor="#990000">
+
+              <table width="225 border=" 0"="" cellspacing="0" cellpadding="0" bgcolor="#990000">
+                <tbody><tr>
+                  <td valign="top" align="right"><a href="customerlogin/index.asp"><img src="images03/btn-customer.jpg" width="135" height="20" border="0"></a></td>
+                </tr>
+                <tr>
+                  <td valign="top" align="right"><img src="images/space.gif" width="10" height="23"></td>
+                </tr>
+                <tr>
+                  <td align="right">
+          
+
+                    <table width="180 border=" 0"="" cellspacing="0" cellpadding="0">
+                    <form id="frmSearch" name="frmSearch" onsubmit="return ValidateAskUSSearch();"></form>
+                      <tbody><tr>
+                        <td bgcolor="#990000"><input type="text" name="queryText" style="width:125px;height:18px;font-size:8pt;" value=""></td>
+                        <td bgcolor="#990000"><input type="image" name="btnSubmit" value="" src="images03/btn-search.jpg" width="55" height="20" alt="search now"></td>
+                      </tr></tbody></table>
+
+                  </td>
+                </tr> 
+              </tbody></table>
+
+		  </td>
         </tr>
       </tbody></table>
     </td>
@@ -328,6 +365,9 @@ function MM_swapImage() { //v3.0
 	  
   
 
+<script language="javascript" type="text/javascript">
+	document.write('<s'+'cript language="javascript" type="text/javascript" src="'+document.location.protocol+'//ct.360i.com/cgi-bin/ctasp-server.cgi?i=0jI03GJ8JJaRemkc"></s'+'cript>');
+</script><script language="javascript" type="text/javascript" src="https://ct.360i.com/cgi-bin/ctasp-server.cgi?i=0jI03GJ8JJaRemkc"></script>
 
 
 </body></html>
