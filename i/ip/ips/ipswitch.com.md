@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211152051id_/http%3A//www.ipswitch.com/Company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitch.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621084823id_/http%3A//ipswitch.com/company/privacy.html) for the most accurate reproduction.*
 
 # Ipswitch - Privacy Policy
 
@@ -92,6 +92,6 @@ If you have any questions about this privacy statement, please contact:
 
 Webmaster  
 Ipswitch, Inc.  
-81 Hartwell Avenue  
+10 Maguire Road - Suite 220  
 Lexington, MA 02421   
 [webmaster@ipswitch.com](mailto:webmaster@ipswitch.com)
