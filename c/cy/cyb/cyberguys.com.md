@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204190119id_/http%3A//www.cyberguys.com/templates/privacy.asp%3Fureq%3DY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2005-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050405183437id_/http%3A//www.cyberguys.com/templates/privacy.asp%3Fs%3DPR%26ureq%3DY) for the most accurate reproduction.*
 
-# Cyberguys!® - Privacy and Security
+# Cyberguys.com - Privacy and Security
 
-|  | 
-
-  
-
+|   |  |    
+---|---|---  
+  |   
+     | 
 
 This is the web site of Cyberguys!®   
 |   |  Our postal address is:  
@@ -69,4 +69,6 @@ Company Guidelines
 **16.** | Upon request, we provide site visitors with access to financial information (e.g., credit card account information) that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them.  
 **17.** | Consumers can access this information by write to us at the above address, writing to us at the above address.  
 **18.** | Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information, transaction information.  
-**19.** | Consumers can have this information corrected by calling us at the above telephone number, writing to us at the above address.
+**19.** | Consumers can have this information corrected by calling us at the above telephone number, writing to us at the above address.  
+  
+     | 
