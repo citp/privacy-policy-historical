@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettermarks.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207094724id_/http%3A//www.wrc-uk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettermarks.com privacy policy that was archived on 2003-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030624132838id_/http%3A//www.wrc-uk.com/privacy.html) for the most accurate reproduction.*
 
 # WRC (UK) - Privacy Policy
 
@@ -20,8 +20,8 @@ WRC (UK) respects your privacy and only collects the minimum information necessa
 **Information collected during order processing, delivery, installation, support and maintenance of our Services may for the purposes of providing our Services be processed by WRC (UK), its provisioning entities, affiliates and agents both within and outside the European Economic Area, and outside the country or countries where the data is collected. Specifically:
 
   * For the purposes of opening an individual Domain Account and registering domain names, Contact and Financial information is submitted to Dotster, Inc ([http://www.dotster.com](http://www.qksrv.net/click-1061526-514796)), a top ten ICANN-accredited domain registrar.
-  * For the purposes of administering domain names, Contact information is submitted to Network Solutions, Inc. (http://www.netsol.com) or one of our other ICANN-accredited domain registrars.
-  * For the purposes of processing credit card transactions for Web Hosting orders, Contact information and Financial information is shared with Planet Payment (http://www.planetpayment.com).
+  * For the purposes of administering domain names, Contact information is submitted to Network Solutions, Inc. ([http://www.netsol.com](http://www.netsol.com/)) or one of our other ICANN-accredited domain registrars.
+  * For the purposes of processing credit card transactions for Web Hosting orders, Contact information and Financial information is shared with Card Service International ([http://www.cardservice.com](http://www.cardservice.com/)) and American Express International ([http://www.americanexpress.com](http://www.americanexpress.com/)) as appropriate.
   * For the purposes of search engine submission, Contact information including web site URL must be sent to the Search Engines listed on the Search Engine Submission Page.
 
 
