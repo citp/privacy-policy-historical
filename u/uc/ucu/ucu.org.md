@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucu.org privacy policy that was archived on 2000-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001210070200id_/http%3A//ucu.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucu.org privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405020246id_/http%3A//www.ucu.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - University Credit Union, Los Angeles, CA
 
