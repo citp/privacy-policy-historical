@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billmatrix.com privacy policy that was archived on 2004-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041125090819id_/http%3A//www.billmatrix.com/priv_legal.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billmatrix.com privacy policy that was archived on 2005-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050319084524id_/http%3A//www.billmatrix.com/priv_legal.html) for the most accurate reproduction.*
 
 # BillMatrix - The payment experts.™
 
@@ -25,7 +25,7 @@ How BillMatrix May Use Personal Information Collected Online
 BillMatrix will not use your personal information other than for the purpose for which it was submitted without your consent. We typically use personal information to respond to informational literature requests and to organize meetings. At any time you can add or remove your name from our mailing list by contacting us at [info@billmatrix.com](mailto:info@billmatrix.com). Any e-mail communication or newsletter also has instructions on how to unsubscribe.
 
 How Your Information May Be Shared   
-BillMatrix will not sell or distribute your personal information without your consent, provided that we may transfer such information in connection with the sale of our business. We may provide aggregate statistics about our customers, sales and related site information to outside parties interested in demographics, but no personally identifiable information or company data will ever be shared for such purposes. We may be required to share information in connection with the enforcement of laws or regulation or other legal action or in connection with violations of our [Terms of Use](https://web.archive.org/web/20041125090819id_/http%3A//www.billmatrix.com/terms_of_use.html).
+BillMatrix will not sell or distribute your personal information without your consent, provided that we may transfer such information in connection with the sale of our business. We may provide aggregate statistics about our customers, sales and related site information to outside parties interested in demographics, but no personally identifiable information or company data will ever be shared for such purposes. We may be required to share information in connection with the enforcement of laws or regulation or other legal action or in connection with violations of our [Terms of Use](https://web.archive.org/web/20050319084524id_/http%3A//www.billmatrix.com/terms_of_use.html).
 
 Accuracy of Your Personal Information   
 If your personal information changes or you would like to review the personal information we may have on file, please email us with the new information or your review request at [info@billmatrix.com](mailto:info@billmatrix.com). We will make every reasonable effort to make sure your requests are honored.
