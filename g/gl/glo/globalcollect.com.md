@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalcollect.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205230443id_/http%3A//www.globalcollect.com/Index%3Fpublicationid%3D1167) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcollect.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604232905id_/http%3A//www.globalcollect.com/Index%3Fpublicationid%3D1167) for the most accurate reproduction.*
 
 # GlobalCollect Privacy
 
