@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610144122id_/http%3A//achooallergy.com/index.asp%3Fpageid%3D1072) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the achooallergy.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206120132id_/http%3A//www.achooallergy.com/index.asp%3Fpageid%3D1072) for the most accurate reproduction.*
 
-# achoo! ALLERGY & Air Products
+# Privacy Policy
 
 |    
   
@@ -45,7 +45,10 @@ Achooallergy.com does not sell products for purchase by children. We sell childr
 
 If you choose to visit Achooallergy.com, your visit and any dispute over privacy is subject to this Notice and our User Agreement, including limitations on damages, arbitration of disputes, and application of the law of the state of Georgia. If you have any concern about privacy at Achooallergy.com, please contact us with a thorough description, and we will try to resolve it. 
 
-|  |  [](https://web.archive.org/index.asp?pageid=1025)  
-  
+|  | 
+
+[](https://web.archive.org/index.asp?pageid=1025)  
+
+
   
 
