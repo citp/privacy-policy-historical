@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sciam.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602140408id_/http%3A//www.sciam.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciam.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205191044id_/http%3A//www.sciam.com/page.cfm%3Fsection%3Dprivacy) for the most accurate reproduction.*
 
 # Scientific American
 
 **Scientific American Privacy Policy**
 
-**The ScientificAmerican.com respects and protects the privacy of our users.**   
+**ScientificAmerican.com respects and protects the privacy of our users.**   
 Please read the following statement to understand how your personal information will be treated. Note that by using the Services and/or the Sites you signify your agreement to this Privacy Policy. This Privacy Policy may change from time to time. Changes to this Privacy Policy will become effective when those changes are posted to the Site. Your continued use of the Services and the Site subsequent to any changes to this Privacy Policy constitutes your acceptance of the changes. Please review this statement periodically to ensure continuing familiarity with its most current provisions. 
 
 **Safe Harbor**  
@@ -64,6 +64,4 @@ If you have any questions or concerns regarding our Privacy Policy, please direc
 **RE:** | Privacy Policy   
 Scientific American, Inc.   
 415 Madison Avenue   
-New York, NY 10017   
-  
-Back to Top
+New York, NY 10017 
