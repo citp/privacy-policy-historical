@@ -1,36 +1,62 @@
-> *The following text is extracted and transformed from the pgp.com privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409010502id_/http%3A//www.pgp.com/aboutus/privacy-policy/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgp.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621122916id_/http%3A//pgp.com/privacy.html) for the most accurate reproduction.*
 
-# PGP Security - Privacy Policy Statement
+# PGP Corporation - Privacy Statement
 
-**Privacy Policy Statement**  
-**This is a Network Associates' web site**
+| 
 
-**PGP Security Statement of Privacy:**
+  
+  
+|  | 
 
-At PGP Security, a Network Associates business, we recognize the increased importance of electronic commerce and the growth of the Internet as a part of everyday business transactions. As a world leader in network security and network management solutions, we understand and appreciate your need to control your personal data as you take advantage of the Internet. That's why we maintain strict internal policies that exceed industry standards concerning your privacy. 
+PGP Corporation (the Company) respects your privacy and is committed to protecting all personal information that you provide. This Privacy Statement is created to inform you of the Company's privacy policies and practices and to explain how your information is collected and used.
 
-Questions regarding this statement should be directed to [customer_service_na@nai.com](mailto:customer_service_na@nai.com). 
+This Privacy Statement covers collection of personal information and non-personal information. Personal information is any information associated with your name or personal identity. Non-personal information is data about usage patterns, reported in aggregate, which is not associated with a specific personal identity. 
 
-**PGP Security and Your Privacy:**
+PGP Corporation uses personal information to better understand customer needs and interests and to provide better service. Personal information will only be used to support customer relationships with the company. 
 
-PGP Security may ask you to register and provide information that personally identifies you, including when you register as a customer or purchase a product from PGP Security, download free evaluation software, upgrades, or whitepapers, order email newsletters, respond to a marketing campaign, or to place orders on the www.nai.com site. The information gathered is used to enhance the user experience on our site and to identify frequent visitors. We use your personal information for three primary purposes: 
+In general, you can visit the PGP® website without providing any personal information. If you order products or services or request information on the site, however, you will be asked to provide personal information, including name, address, phone, email address, and credit card information. Credit card information is used only for payment and order processing and fraud prevention, and is not used for any other purpose. 
 
-  * To improve the content of our web site, products and services
-  * To alert you to product upgrades, updates and renewal information regarding your product
-  * To share special offers, product announcements and updated information, and other new services from Network Associates 
+Non-personal information collected may include the pages visited on <http://www.pgp.com/>, browser type, browser language, operating system, and IP address. Non-personal data is aggregated to understand PGP website usability and performance. 
 
-You may receive periodic mailings from us with information on new products and services or upcoming events. We may also carefully select other companies to send you information about their products and services. If you do not wish to receive such mailings, please let us know by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. Please provide us with your name and information you want on our do-not-share list. We will be sure your name is removed from the list we share with other organizations. 
+**Cookies**  
+Most non-personal information is collected via cookies. PGP Corporation may use cookies to enhance the user experience and personalize content. A cookie is a small data file that is transferred to your hard drive and identifies you as a unique user. Cookies help the Company understand which areas of the website are most popular to help improve the user experience on future visits. 
 
-Additionally, if you do not want PGP Security to contact you for marketing purposes by email, postal mail, fax and/or phone, you may opt out by sending email to us at the above address, calling us at the above telephone number, or writing to us at the above address. Please provide us with your name and the information you wish to unsubscribe. Place the word UNSUBSCRIBE in the subject. 
+**IP Addresses**  
+PGP Corporation may use your IP address to help diagnose problems or to gather demographic information, such as country of origin. 
 
-PGP Security will take appropriate steps to protect the information you share with us. When you provide us with a Credit Card number (and other sensitive information), PGP Security will take commercially reasonable steps to protect this information through a secure connection with your web browser. Credit card numbers are only used for payment processing and are not retained for marketing purposes. 
+**JavaScript**  
+PGP Corporation uses JavaScript code to gather information about a user's browser. This non-personal information includes window and screen size, browser language, color depth, and plug-ins installed. 
 
-If you have questions or comments regarding PGP Security privacy practices you can contact us at [customer_service_na@nai.com](mailto:customer_service_na@nai.com) and we will be sure to address your needs. 
+**Financial Information**  
+The PGP website includes forms that you complete to request information, products, and services. These forms may collect your financial information, such as your credit card details. Any financial information you submit will only be used for billing, payment, and order processing purposes. 
 
-**Cookies**
+PGP Corporation employs secure server technology for online purchasing. The secure server technology used encrypts your personal financial information before it is transmitted over the Internet, making it secure. You can only purchase products on the PGP website using a browser that supports secure server technology. 
 
-PGP Security uses software tags called "cookies" to identify customers when they visit our site. Among other things Cookies help us identify returning users so that we don't ask them to register with every visit. They help us understand your buying preferences and customize our service to your needs. By understanding which areas of the site you visit, cookies allow us to present information, products and specials that are of personal interest. 
+  
+PGP Corporation will not sell, rent, or lease your personal information to third parties. The Company will not share your personal information with business partners or any other third-party company, except as described below: 
 
-**Suppression Procedures**
+> **Agents:** PGP Corporation employs other companies and people to perform tasks on its behalf and may need to share your information with them to provide products or services to you. Examples include providing customer service, processing credit card payments, fulfilling orders, and providing marketing assistance. Unless advised otherwise, these agents do not have any right to use your information PGP Corporation shares with them beyond what is necessary to assist the Company. You hereby consent to our sharing of your information for the above purposes. 
 
-To be suppressed from future marketing announcements, send an email to [subscribe@nai.com](mailto:subscribe@nai.com). In the subject, type UNSUBSCRIBE. In the body of the email, please include the information you would like us to suppress from future mailings or information you do not want us to share with other reputable organizations. (Name, Company, Address, PO Box/Suite/Department, City, State, Zip, Email, Phone, Fax) 
+> **Business Transfers:** In some cases, PGP Corporation may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that is transferred. Moreover, if PGP Corporation or substantially all of its assets were acquired, or in the unlikely event that the Company goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of PGP Corporation may continue to use your information as set forth in this policy.
+
+> **Promotional Offers:** PGP Corporation may send promotional offers to you. However, you will be provided the opportunity to opt not to receive such promotional offers.
+
+> **Protection of PGP Corporation and others:** The Company may release your information when it believes in good faith that release is necessary to comply with law; enforce or apply its conditions of use and other agreements; or protect the rights, property, or safety of PGP Corporation, its employees, its users, or others. This release includes exchanging information with other companies and organizations for fraud protection and credit risk reduction (as described above) and to comply with export laws.
+
+> **With your Consent:** Except as set forth above, you will be notified when your information may be shared with third parties, and will be able to prevent the sharing of this information.
+
+**Data Integrity and Security**  
+PGP Corporation strives to maintain the reliability, accuracy, and completeness of personal information in its databases and to protect the privacy and security of its databases. PGP servers and databases are protected by reliable security technology. 
+
+**Your Choices Relating to Your Personal Information**  
+As stated previously, you can always opt not to disclose personal information to PGP Corporation, even though it may be needed to make a purchase or take advantage of certain PGP features. You may request an update or deletion of your PGP account by sending an email to [customersupport at pgp dot com](mailto:customersupport@pgp.com). 
+
+Please note that some information may remain in backups of the Company's records after deletion of your account, although diligent efforts will be employed to remove your information. However, the Company may retain certain of your information if it believes in good faith that retaining such information is necessary to comply with law; enforce or apply its conditions of use and other agreements; or protect the rights, property, or safety of PGP Corporation, its employees, its users, or others. 
+
+**Your Consent and Our Revisions to the Privacy Statement**  
+PGP Corporation occasionally reviews and modifies this Privacy Statement. Therefore, the Company recommends that you review the terms from time to time to ensure that you are aware of how it collects and uses personal information. By using the PGP website, you consent to the collection and use of your personal information as outlined here. 
+
+**Further Information**  
+If you have questions regarding our Privacy Statement, please contact us at [customersupport at pgp dot com](mailto:customersupport@pgp.com). For other general questions, please go to our Contact Us page [http://www.pgp.com/company/contactus.html](https://web.archive.org/web/20030621122916id_/http%3A//pgp.com/company/contactus.html). 
+
+| 
