@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the details.com privacy policy that was archived on 2003-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031005223458id_/http%3A//condenet.com/mags/details/site/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the details.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606025709id_/http%3A//condenet.com/mags/details/site/privacypolicy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines: Details.com Privacy Policy
 
