@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web2mail.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216034800id_/http%3A//www.web2mail.com/privacy/policy.php%3Fuser_id%3D%26username%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web2mail.com privacy policy that was archived on 2004-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040609061234id_/http%3A//web2mail.com/privacy/policy.php%3Fuser_id%3D%26username%3D) for the most accurate reproduction.*
 
 # Web2Mail - Privacy policy
 
@@ -6,7 +6,7 @@
 
 ### Web2Mail privacy policy
 
-This site is operated by Web2Mail Ltd (company number 3857685 whose registered office is at Roman House, 296 Golders Green Road, London, NW11 9PT UK). All correspondence should be sent to [info@web2mail.com](mailto:info@web2mail.com) or Web2Mail Ltd. 
+This site is operated by Legendum LLC, 83 Speen Street, 2nd Floor, Natick, MA 01760, USA. All correspondence should be sent to [info@web2mail.com](mailto:info@web2mail.com) or Legendum LLC. 
 
 Your privacy is very important to you and to us. Our continued success depends on the trust of our customers. 
 
