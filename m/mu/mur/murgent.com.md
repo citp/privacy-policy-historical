@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the murgent.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204044450id_/http%3A//www.murgent.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murgent.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404075044id_/http%3A//www.murgent.com/privacy.php) for the most accurate reproduction.*
 
 # mUrgent Privacy Policy
 
@@ -8,7 +8,7 @@
   
 We can be reached by email at [support@murgent.com](mailto:support@murgent.com) or by phone at 714.918.3732 M-F from 8am to 5pm Pacific Standard Time. 
 
-Your trust in our company is just as important to us as your business. If you feel we are not following the privacy policy dictated herein, please contact us via email or phone at the above address and phone number. This privacy policy applies to registered users and site visitors of [mUrgent.com](http://www.murgent.com/), [emarketing-manager.com](http://www.emarketing-manager.com/), [emarketingautomation.com](http://www.emarketingautomations.com/), affiliate sites owned by mUrgent, and EMPACT software. If you have questions regarding the practices of our paid customers, please contact that company directly. mUrgent Corporation does not condone or approve email or SMS abuse or email campaigns that are demeaning, vulgar, or otherwise offensive. To view more on mUrgent’s strict anti-spam policy, [Anti-Spam Policy](https://web.archive.org/web/20041204044450id_/http%3A//www.murgent.com/anti-spam.php).
+Your trust in our company is just as important to us as your business. If you feel we are not following the privacy policy dictated herein, please contact us via email or phone at the above address and phone number. This privacy policy applies to registered users and site visitors of [mUrgent.com](http://www.murgent.com/), [emarketing-manager.com](http://www.emarketing-manager.com/), [emarketingautomation.com](http://www.emarketingautomations.com/), affiliate sites owned by mUrgent, and EMPACT software. If you have questions regarding the practices of our paid customers, please contact that company directly. mUrgent Corporation does not condone or approve email or SMS abuse or email campaigns that are demeaning, vulgar, or otherwise offensive. To view more on mUrgent’s strict anti-spam policy, [Anti-Spam Policy](https://web.archive.org/web/20050404075044id_/http%3A//www.murgent.com/anti-spam.php).
 
 **  
 Secure Login and Information Transfer for EMPACT**  
