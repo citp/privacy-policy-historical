@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the alabama.gov privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202162303id_/http%3A//www.alabama.gov/utility/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alabama.gov privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401145213id_/http%3A//www.alabama.gov/utility/privacystatement.html) for the most accurate reproduction.*
 
-# Alabama.Gov - Privacy Statement
+# alabama.gov - Privacy Statement
 
 Privacy Statement
 
-Alabama.gov site may use cookies to carry user information from one page to another. An example is a search criterion. This information is not stored on our server but on your workstation. We do not track this information on our server. The cookies we use are set to expire at the end of your browser session. This means that when you close your browser they are deleted. 
+alabama.gov site may use cookies to carry user information from one page to another. An example is a search criterion. This information is not stored on our server but on your workstation. We do not track this information on our server. The cookies we use are set to expire at the end of your browser session. This means that when you close your browser they are deleted. 
 
 Our server does track statistical information (through the use of server logs) to help agencies hosted on this server analyze the use of their site. This is how we will handle information we learn about you from your visit to our website.
 
