@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2003-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030627102304id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutvision.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008114630id_/http%3A//www.allaboutvision.com/privacy.htm) for the most accurate reproduction.*
 
 # AllAboutVision.com Privacy Policy
 
-| 
-
-|  |  | 
+| |  | 
 
 ## Privacy Statement
 
@@ -42,7 +40,4 @@ In some cases, such as our e-mail newsletter sign-up, we require a parent's writ
 
 You have the opportunity to access other sites from AllAboutVision.com, by either clicking on a site's link or on an advertisement. Please be aware these sites are outside the control of All About Vision, LLC, and that their privacy policies are likely to differ from ours. We suggest contacting these sites for relevant information about their data collection. 
 
-For more articles about vision and eye health, use the pull-down menu at the top of this page.  
- 
-
-|  |  |  |   |  | 
+ | 
