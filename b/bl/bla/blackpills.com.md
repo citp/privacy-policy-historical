@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackpills.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607094836id_/http%3A//www.blackpills.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackpills.com privacy policy that was archived on 2001-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010816012955id_/http%3A//blackpills.com/privacy.htm) for the most accurate reproduction.*
 
 # 1-Source Domain Names - Make a good name for yourself.tm Domain sales, leasing, registration, appraisals
 
