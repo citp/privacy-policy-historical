@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the designnews.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602233555id_/http%3A//designnews.com/index.asp%3Flayout%3DsiteInfoWebzine%26doc_id%3D131097%26view%3DANY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designnews.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208224224id_/http%3A//www.designnews.com/index.asp%3Flayout%3DsiteInfoWebzine%26doc_id%3D131097%26view%3DANY) for the most accurate reproduction.*
 
-# Design News for Mechanical and Design Engineers
+# Design News for Mechanical and Design Engineers siteInfoWebzine
 
   
 Overview
