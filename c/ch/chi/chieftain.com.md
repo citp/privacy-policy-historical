@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2000-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001204042200id_/http%3A//www.chieftain.com/privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chieftain.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603111857id_/http%3A//www.chieftain.com/privacy_statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -41,6 +41,6 @@ or e-mail our [Webmaster](mailto:webmaster@chieftain.com).
 [View our Privacy Statement](http://www.chieftain.com/privacy_statement.htm)  
 
 
-©1996-2000 [Chieftain.com](http://www.chieftain.com/)  
+©1996-2001 [Chieftain.com](http://www.chieftain.com/)  
 The Star-Journal Publishing Corp.  
-Pueblo, Colorado U.S.A.
+Pueblo, Colorado U.S.A. [ ](http://www.chieftain.com/archive/search.php)
