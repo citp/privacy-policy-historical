@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horoscope.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603130355id_/http%3A//www.horoscope.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscope.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207070423id_/http%3A//www.horoscope.com/privacy.htm) for the most accurate reproduction.*
 
 # Horoscope.com
 
