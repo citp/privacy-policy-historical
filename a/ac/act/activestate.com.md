@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603165403id_/http%3A//activestate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activestate.com privacy policy that was archived on 2004-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040202153757id_/http%3A//activestate.com/privacy.html) for the most accurate reproduction.*
 
 # ActiveState - ActiveState Privacy Statement
-
-  
-
 
 ActiveState is committed to respecting your right to privacy while using our site. This Privacy Policy contains information regarding our privacy practices for the entire ActiveState site (including www.ActiveState.com and ASPN.ActiveState.com). 
 
@@ -21,6 +18,9 @@ Our website servers generate standard traffic log files. We use these files to p
 
 Requested Services and Product Evaluations  
 We communicate with the user to provide requested services and in regards to issues relating to their account via email or phone. Two expiration reminder notices are sent by email to users who have obtained a trial license for one of our products. 
+
+Webcast Registration  
+When you register to attend or view an ActiveState webcast, a third party provider will request personally identifiable information such as: email address, first name, last name, company, title, etc. By registering for a webcast, you agree to be contacted by an ActiveState representative regarding the product or service featured in the webcast. ActiveState does not control or own the data collected from the webcast registration process. For information regarding the data collection practices of the third party provider site, please contact them directly. 
 
 Language Downloads  
 When a user downloads one of the free ActiveState language distributions, they will be given the option of opting in to receive marketing material and information on free programming resources via email. 
@@ -64,7 +64,7 @@ If you would prefer not to receive these notifications, please update your prefe
 Please be aware that you may not opt out of receiving information regarding the initial use, evaluation, or expiration of our products or services. 
 
 Notification of Changes  
-If we change our privacy policy, we will post notification of those changes on our homepage so our users are aware changes to the information we collect, how it is used, and under which circumstances, if any, it is disclosed. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collec ted, we will notify users by email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
+If we change our privacy policy, we will post notification of those changes on our homepage so our users are aware of changes to the information we collect, how it is used, and under which circumstances, if any, it is disclosed. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected. 
 
 Questions  
 If you have questions, or if you feel we are in violation of this privacy policy, please email website-feedback@ActiveState.com. 
