@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solidworks.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617074057id_/http%3A//solidworks.com/pages/company/footer_pages/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solidworks.com privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215152520id_/http%3A//www3.solidworks.com/pages/company/footer_pages/privacy_policy.html) for the most accurate reproduction.*
 
 # SolidWorks Privacy Policy
 
@@ -42,7 +42,7 @@ If at any time you wish to "opt out" of receiving information from SolidWorks, p
 ****Changes to this Policy  
 SolidWorks may change this policy from time to time. Any changes will be posted to this site, so we encourage you to review our privacy policy from time to time. 
 
-[See also Terms of Use.](https://web.archive.org/web/20040617074057id_/http%3A//solidworks.com/pages/company/footer_pages/Terms_Of_Use.html)   
+[See also Terms of Use.](https://web.archive.org/web/20041215152520id_/http%3A//www3.solidworks.com/pages/company/footer_pages/Terms_Of_Use.html)   
 
 
 This Privacy Policy Statement was last updated in April 2003. 
