@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgal.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203141853id_/http%3A//www.thewgalchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgal.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606111145id_/http%3A//www.thewgalchannel.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # TheWGALChannel.com - News
 
