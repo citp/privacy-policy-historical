@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wndu.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207045118id_/http%3A//wndu.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wndu.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205175146id_/http%3A//www.wndu.com/about/privacy.php) for the most accurate reproduction.*
 
 # WNDU-TV: About WNDU - Privacy Guidelines
 
@@ -42,4 +42,4 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 If you have any questions or concerns about the WNDU-TV's online policy for this site or its implementation you may contact us at [programming@wndu.com](mailto:programming@wndu.com). 
 
-[](http://www.wndu.com/ads/click.php3?bannerID=120)
+[](http://www.wndu.com/ads/click.php3?bannerID=113)
