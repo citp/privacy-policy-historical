@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigeriaworld.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208033000id_/http%3A//nigeriaworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigeriaworld.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408174142id_/http%3A//nigeriaworld.com/privacy.html) for the most accurate reproduction.*
 
 # Nigeriaworld: Privacy
 
@@ -19,11 +19,13 @@ One of the biggest issues facing the internet today is the protection of the pri
 
 NigeriaWorld works with third parties that serves ads to this site. They include: 
 
-  * Flycast
-  * Busrtmedia
+  * Engage
+  * Burstmedia
 
 
 
-> To find out more about how **_Flycast_** manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.flycast.com/about_us/about-privacy.html>
+> This site uses the services of Engage for the serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data typically through the use of cookies. 
+> 
+> To learn more about **_Engage_** , including your ability to opt out of the Engage system, go to <http://www.engage.com/privacy>. 
 > 
 > To find out more about how **_Burstmedia_** manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.burstmedia.com/release/privacy.asp>
