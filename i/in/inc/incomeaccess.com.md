@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomeaccess.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630215401id_/http%3A//www.incomeaccess.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomeaccess.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204133458id_/http%3A//www.incomeaccess.com/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -8,9 +8,9 @@ Income Access User Privacy Policy
 
 Income Access was created to manage relationships between Members and Merchants, while maintaining the privacy of its users. We understand the need to safeguard sensitive information that you have entrusted to us by using our services. Consequently, we maintain standards and procedures designed to prevent misuse of this information. 
 
-This document explains Income Access ("Income Access" "we" "our") policies for the collection, use and disclosure of personal information. The following policies are only in effect for the web pages, newsletters and opt-in announcement lists owned and operated by Income Access. This policy forms part of, and should be read in conjunction with, our [Terms and Conditions](https://web.archive.org/web/20040630215401id_/http%3A//www.incomeaccess.com/members/terms_and_conditions.asp). 
+This document explains Income Access ("Income Access" "we" "our") policies for the collection, use and disclosure of personal information. The following policies are only in effect for the web pages, newsletters and opt-in announcement lists owned and operated by Income Access. This policy forms part of, and should be read in conjunction with, our [Terms and Conditions](https://web.archive.org/web/20041204133458id_/http%3A//www.incomeaccess.com/members/terms_and_conditions.asp). 
 
-You may contact us regarding this Privacy Policy by e-mail, [info@incomeaccess.com](https://web.archive.org/web/20040630215401id_/http%3A//www.incomeaccess.com/info@incomeaccess.com) or by mail at our headquarters address: 
+You may contact us regarding this Privacy Policy by e-mail, [info@incomeaccess.com](https://web.archive.org/web/20041204133458id_/http%3A//www.incomeaccess.com/info@incomeaccess.com) or by mail at our headquarters address: 
 
 **Income Access**   
 2020 University, Suite 1320   
@@ -24,7 +24,7 @@ Information submitted through the electronic registration page on the Income Acc
 
 Information submitted through the electronic Member registration page on the Income Access website is shared with Merchants for the purpose of assessing potential affiliate partnerships, and once affiliate partnerships are established, for the purpose of fulfilling merchant compensation obligations. 
 
-If you have not registered or do not intend to register as a Merchant or as a Member with Income Access then our privacy policy may not be directly applicable to you, as we do not collect any identifiable information from or about any user arriving at this website with the exception of the following users (i) persons or entities who have entered into our program as a Merchant pursuant to a legally binding written contract ( "Merchant Agreement") that is signed and physically delivered and (ii) persons or entities who have entered into our program as a Member pursuant to the completion of an online contract and the acceptance of our "[Terms and Conditions](https://web.archive.org/web/20040630215401id_/http%3A//www.incomeaccess.com/members/terms_and_conditions.asp)" prior to clicking the "submit" button. 
+If you have not registered or do not intend to register as a Merchant or as a Member with Income Access then our privacy policy may not be directly applicable to you, as we do not collect any identifiable information from or about any user arriving at this website with the exception of the following users (i) persons or entities who have entered into our program as a Merchant pursuant to a legally binding written contract ( "Merchant Agreement") that is signed and physically delivered and (ii) persons or entities who have entered into our program as a Member pursuant to the completion of an online contract and the acceptance of our "[Terms and Conditions](https://web.archive.org/web/20041204133458id_/http%3A//www.incomeaccess.com/members/terms_and_conditions.asp)" prior to clicking the "submit" button. 
 
 By completing the registration process, Members and Merchants agree to be solicited by Merchants and Members (respectively). All other personally identifiable information of Merchants and Members that is provided by them during the sign-up process is retained and used by Income Access in order to serve the Member and the Merchants through processes such as performance reporting and commission payments to Members.   
 
