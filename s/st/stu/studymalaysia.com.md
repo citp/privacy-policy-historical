@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studymalaysia.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/corporate/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studymalaysia.com privacy policy that was archived on 2002-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/corporate/privacy.shtml) for the most accurate reproduction.*
 
 # Study Malaysia Privacy Statement
 
@@ -6,22 +6,22 @@
 ---  
    
  Site  |  Articles   
-[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/my/index.shtml)  
-[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/uni/index.shtml)  
-[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/finance/index.shtml)  
-[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/who/index.shtml)  
-[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/student/index.shtml)  
-[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/is/index.shtml)  
-[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/info/index.shtml)  
+[](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/my/index.shtml)  
+[](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/uni/index.shtml)  
+[](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/finance/index.shtml)  
+[](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/who/index.shtml)  
+[](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/student/index.shtml)  
+[](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/is/index.shtml)  
+[](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/info/index.shtml)  
   
   
-[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/helpdesk/helpdesk2.shtml?TYPE=PROMOTE)   
-[](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/study.htm)   
-[](http://mlvk.trainingmalaysia.com/)  
-  
-|  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/uni/cprofile.shtml) | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/info/onfocus.shtml) | [](http://www.studymalaysia.com/cgi-bin/studyforum/studyforum.cgi) | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/helpdesk/helpdesk.shtml) | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/student/eventc.shtml) | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/info/hotlinks.shtml)  
+[](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=STAMFORD&type=side)   
+[](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=ICOM&type=side)   
+[](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/study.htm)   
+[](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/corporate/smh.shtml)  
+|  | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/uni/cprofile.shtml) | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/info/onfocus.shtml) | [](http://www.studymalaysia.com/cgi-bin/studyforum/studyforum.cgi) | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/helpdesk/helpdesk.shtml) | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/student/eventc.shtml) | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/info/hotlinks.shtml)  
 ---|---|---|---|---|---|---  
-|  |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=ONE) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=KBU) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=INFORMATICS) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=SYSTEMATIC) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=ICOM) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=APIIT) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=INTI) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=SUNWAY) |  | [](https://web.archive.org/web/20020603153504id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=NILAI) |   
+|  |  | [ ](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=ONE) |  | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=KBU) |  | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=INFORMATICS) |  | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=SYSTEMATIC) |  | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=TAYLOR) |  | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=APIIT) |  | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=INTI) |  | [](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=SUNWAY) |  | [ ](https://web.archive.org/web/20021206053831id_/http%3A//www.studymalaysia.com/cgi-bin/banner_tracker/click.pl?url=NILAI) |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
   
 | 
