@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uslegalforms.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605082732id_/http%3A//www.uslegalforms.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uslegalforms.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101601id_/http%3A//www.uslegalforms.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
