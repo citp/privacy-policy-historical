@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wlwt.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621062043id_/http%3A//www.channelcincinnati.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wlwt.com privacy policy that was archived on 2003-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030806092114id_/http%3A//www.channelcincinnati.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # channelcincinnati.com - News
 
