@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2001-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011020014947id_/http%3A//autoanything.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoanything.com privacy policy that was archived on 2002-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020203064621id_/http%3A//www.autoanything.com/privacy.asp) for the most accurate reproduction.*
 
 # autoanything.com | Privacy Policy
 
