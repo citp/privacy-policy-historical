@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212170600id_/http%3A//www.allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstays.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405032657id_/http%3A//allstays.com/Services/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - AllStays(tm)
 
@@ -30,7 +30,7 @@ AllStays is concerned about privacy on the internet. Please read the following t
     * We have your consent to share the information; 
     * We need to share your information to provide the product or service you have requested; 
     * We respond to subpoenas, court orders or legal process; or 
-    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20001212170600id_/http%3A//www.allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
+    * We find that your actions on our web site violate our [AllStays Terms of Service](https://web.archive.org/web/20010405032657id_/http%3A//allstays.com/Services/termsservice.htm) or any of our usage guidelines for specific products or services found on AllStays. 
 
 **Cookies And AllStays**  
 
