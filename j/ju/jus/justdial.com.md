@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the justdial.com privacy policy that was archived on 2000-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001202033700id_/http%3A//www.indiainfo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justdial.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603103222id_/http%3A//www.indiainfo.com/privacy.html) for the most accurate reproduction.*
 
 # Indiainfo: Privacy Policy
 
+[ **Home**](http://www.indiainfo.com/) -> **Privacy Policy**
+
 **Privacy Policy**
 
-Indiainfo.com Pvt Ltd values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our portal or information that you may give us, such as your name, address, email address or telephone number, to any outside sources. 
+Indiainfo.com Ltd values the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our portal or information that you may give us, such as your name, address, email address or telephone number, to any outside sources. 
 
 We will not use information about you without your permission and will provide the means for you to manage and control the information that you have provided. 
 
