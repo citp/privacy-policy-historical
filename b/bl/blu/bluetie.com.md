@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204224457id_/http%3A//www.bluetie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2005-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050305041657id_/http%3A//www.bluetie.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: BlueTie is a leading provider of hosted email, messaging, and collaboration solutions.
 
@@ -11,7 +11,7 @@ BlueTie, Inc. ("BlueTie")
 Protecting your privacy is important to us. We do not sell or exchange names or any other personally identifying information about our customers or visitors. 
 
 1\. General  
-BlueTie respects the privacy of every individual who visits www.bluetie.com (the "Web Site" or "Site"). This Privacy Policy outlines the information we will collect and how we will use and share that information. This Policy will also tell you what to do if you do not want your personal information collected or shared. If you have any questions about our policy, please email us at [privacy@bluetie.com](mailto:privacy@bluetie.com).
+BlueTie respects the privacy of every individual who visits www.bluetie.com (the "Web Site" or "Site"). This Privacy Policy outlines the information we will collect and how we will use and share that information. This Policy will also tell you what to do if you do not want your personal information collected or shared. If you have any questions about our policy, please email us at [privacy@bluetie.com](mailto:privacy@bluetie.com "privacy@bluetie.com").
 
 2\. Your Acceptance Of These Terms  
 By using the Web Site, you signify your assent to our Privacy Policy. If you do not agree to this Policy, please do not use the Site. Your continued use of the Web Site following the posting of changes to its terms means you accept those changes.
@@ -85,7 +85,7 @@ The importance of security for all personally-identifiable information associate
 
 In certain areas BlueTie uses SSL-encryption to protect data transmissions.
 
-Your account on the Web Site is password protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. BlueTie will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Remember to sign out of your account on the Web Site and close your browser window when you have finished your work. This will ensure that others cannot access your personal information and correspondence if your computer is accessible to others, if you share a computer with someone else, or if you use a computer in a public place like a library or Internet café.
+Your account on the Web Site is password protected so that only you can access it and view the member information relevant to the account. We recommend that you do not divulge your password to anyone. BlueTie will never ask you for your password in an unsolicited phone call or email. Ultimately, you are responsible for maintaining the secrecy of your passwords and any account information. Remember to sign out of your account on the Web Site and close your browser window when you have finished your work. This will ensure that others cannot access your personal information and correspondence if your computer is accessible to others, if you share a computer with someone else, or if you use a computer in a public place like a library or Internet cafè.
 
 [top]
 
@@ -102,6 +102,6 @@ If you have any questions about this privacy statement, the practices of this si
 >  1050 Pittsford Victor Road   
 >  Pittsford, NY 14534
 
-Or email us at: [privacy@bluetie.com](mailto:privacy@bluetie.com)
+Or email us at: [privacy@bluetie.com](mailto:privacy@bluetie.com "privacy@bluetie.com")
 
 [top]
