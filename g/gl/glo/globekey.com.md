@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globekey.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408170639id_/http%3A//www.globekey.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globekey.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205072630id_/http%3A//globekey.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Globekey - Internet-based software for hotels to accept real-time reservations from their websites.
 
