@@ -1,81 +1,9 @@
-> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602192635id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportingnews.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205033702id_/http%3A//www.sportingnews.com/privacy.html) for the most accurate reproduction.*
 
 # SportingNews.com
 
   
-  
-  
-|  | [](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1969790005/Top/OasDefault/House_top_ROS_468/468x60_dadsday.html/64316564656561643365646261346530?2003.06.02.19.26.34)  
----|---  
-  
-[](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1256465092/Left1/default/empty.gif/64316564656561643365646261346530)
-
-[**MLB**](https://web.archive.org/baseball)[](https://web.archive.org/baseball/scoreboard/)  
-  
-| [ **NBA**](https://web.archive.org/nba)  
-  
-| [ **NFL**](https://web.archive.org/nfl)[](https://web.archive.org/nfl/scoreboard/)  
-  
-| [ **NHL**](https://web.archive.org/nhl)[](https://web.archive.org/nhl/scoreboard/)  
-  
-| [ **C Football**](https://web.archive.org/cfootball)[](https://web.archive.org/cfootball/scoreboard/)  
-  
-| [ **C Hoops**](https://web.archive.org/cbasketball)  
-  
-| [ **NASCAR**](https://web.archive.org/nascar/)  
-  
-  
----|---|---|---|---|---|---  
-  
-[](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1201411708/BottomLeft/default/empty.gif/64316564656561643365646261346530)   
-|   
-|   
-**BASEBALL  
-[Ult. Fantasy Baseball](http://www.sportingnews.com/r/navult1) Hot Item  
-[Draft & Trade Baseball](http://www.sportingnews.com/r/navult2)  
-[Ult. Fantasy Source](http://www.sportingnews.com/r/navult3)  
-  
-** |   
-|   
-  
----|---|---|---  
-  
-|   
-|   
-|   
-  
-  
-|   
-**FOOTBALL  
-[Draft Central](http://www.sportingnews.com/r/navult4)  
-[Season Ticket](http://www.sportingnews.com/r/navult5) NEW!  
-  
-** |   
-|   
-  
-  
-|   
-|   
-|   
-  
-  
-|   
-**STOCK CAR  
-[Draft Kit](http://www.sportingnews.com/r/navult6)  
-  
-** |   
-|   
-  
-  
-|   
-|   
-|   
-  
-  
-  
-|  [](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1111274931/Top2/default/empty.gif/64316564656561643365646261346530) |   
-|    
-Vulcan Sports Media Privacy Policy
+|  Vulcan Sports Media Privacy Policy
 
 _changes as of March 18, 2003 in italics below_
 
@@ -143,30 +71,13 @@ In addition, notwithstanding any other provision of this Privacy Policy, in the 
   
 **VIII. Children.** TSN believes that it is particularly important to protect the privacy of children. TSN does not willingly or knowingly allow anyone under the age of 13 to register to become a member of the TSN community . In order to register at TSN and become a member, visitors must first certify that they are at least 13 years old and have read and accepted the TSN privacy guidelines as well as rules and regulations pertaining to fantasy games and contests. 
 
->> Back to top
-|   
-  
----|---|---  
-  
-[](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1830868421/TopRight/default/empty.gif/63376439383963343364633135356330)
+|    
+|    
 
-[](https://www.truste.org/validate/6383)  
-  
-[**MLB**](https://web.archive.org/baseball)[](https://web.archive.org/baseball/scoreboard/)  
-  
-| [ **NBA**](https://web.archive.org/nba)  
-  
-| [ **NFL**](https://web.archive.org/nfl)[](https://web.archive.org/nfl/scoreboard/)  
-  
-| [ **NHL**](https://web.archive.org/nhl)[](https://web.archive.org/nhl/scoreboard/)  
-  
-| [ **C Football**](https://web.archive.org/cfootball)[](https://web.archive.org/cfootball/scoreboard/)  
-  
-| [ **C Hoops**](https://web.archive.org/cbasketball)  
-  
-| [ **NASCAR**](https://web.archive.org/nascar/)  
-  
-  
----|---|---|---|---|---|---  
+
+[](http://www.sportingnews.com/RealMedia/ads/click_lx.ads/www.sportingnews.com/privacy.html/1574761978/TopRight/default/empty.gif/64316564656561323366636666643530)
+
   
 
+
+[](https://www.truste.org/validate/6383)
