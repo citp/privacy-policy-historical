@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simon.com privacy policy that was archived on 2003-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031009140324id_/http%3A//www.simon.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simon.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607062850id_/http%3A//www.simon.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Simon.com - Privacy Policy
 
@@ -7,9 +7,9 @@ At Simon.com, we are committed to protecting your privacy and ensuring that your
 As part of the normal operation of our services, Simon.com collects and, in some cases, discloses information about you. This Privacy Policy describes the information we collect about you and what may happen to that information. Please read on. 
 
 What Information Do We Collect?  
-In order to use certain services provided on the site, you will need to register with Simon.com. When you register, we will gather such information as your name, mailing address and email address, and demographic information, such as zip code, age, or income level. If you make a purchase, we may also ask you for your credit card information to process your order. This information will not be used for any other purpose than order processing and/or referencing of your order and will not be shared with anyone outside of Simon Property Group.
+In order to use certain services provided on the site, you will need to register with Simon.com. When you register, we will gather such information as your name, mailing address and email address, and demographic information, such as zip code, age, or income level. If you make a purchase, we may also ask you for your credit card information to process your order. This information will not be used for any other purpose than order processing and/or referencing of your order and will not be shared with anyone outside of Simon Property Group. We may also track certain information about how you use our website.
 
-We may also track certain information about how you use our website.
+Simon.com uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to [ http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy).
 
   
 How Do We Use It?  
@@ -53,4 +53,4 @@ We are always improving and updating our website to further enhance your shoppin
 
   
 Want To Share Your Thoughts on Privacy With Us?  
-We welcome your comments and suggestions. [Click here](https://web.archive.org/web/20031009140324id_/http%3A//www.simon.com/about_simon/contact_spg/) to send your comments.
+We welcome your comments and suggestions. [Click here](https://web.archive.org/web/20040607062850id_/http%3A//www.simon.com/about_simon/contact_spg/) to send your comments.
