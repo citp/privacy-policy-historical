@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazingmoms.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603173021id_/http%3A//amazingmoms.com/htm/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazingmoms.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205012327id_/http%3A//www.amazingmoms.com/htm/privacy.htm) for the most accurate reproduction.*
 
 # Amazingmoms Privacy Statement
 
@@ -11,11 +11,11 @@
  [Family Fun](http://oemcomputer/amazingmoms/htm/familyfun.htm)  
  [Holidays](http://oemcomputer/amazingmoms/htm/holiday.htm)  
  [Kid's Kitchen](http://oemcomputer/amazingmoms/htm/kidscooking.htm)  
- [Create Your Site](https://web.archive.org/web/20020603173021id_/http%3A//amazingmoms.com/htm/webdesign.htm)  
- [Work at Home](https://web.archive.org/web/20020603173021id_/http%3A//amazingmoms.com/htm/webearnings.htm)  
+ [Create Your Site](https://web.archive.org/web/20021205012327id_/http%3A//www.amazingmoms.com/htm/webdesign.htm)  
+ [Work at Home](https://web.archive.org/web/20021205012327id_/http%3A//www.amazingmoms.com/htm/webearnings.htm)  
  [Newsletter](http://oemcomputer/amazingmoms/htm/newsletter.htm)  
  [Membership](http://oemcomputer/amazingmoms/htm/membership.htm)  
- [Favorite Sites](https://web.archive.org/web/20020603173021id_/http%3A//amazingmoms.com/htm/links.htm)  
+ [Favorite Sites](https://web.archive.org/web/20021205012327id_/http%3A//www.amazingmoms.com/htm/links.htm)  
  [Talk to MOM](mailto:mom@amazingmoms.com)  
   |  **Amazingmoms Privacy Statement**   
   Your Family's safety is very important to us! We also understand the frustration regarding SPAM  and "junk mail"...Who has the time? This statement is to inform our visitors of our company policy to ensure privacy while using this site.. If we make any changes to this statement they will be posted on this page and will be effective upon posting. Your continued use of this Site, following the posting of any change shows your acceptance of the changes. 
