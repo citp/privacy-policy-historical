@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ieee.org privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603023625id_/http%3A//www.ieee.org/portal/index.jsp%3FpageID%3Dcorp_level1%26path%3Dabout/documentation/copyright%26file%3Dprivacy.xml%26xsl%3Dgeneric.xsl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ieee.org privacy policy that was archived on 2004-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041010013257id_/http%3A//www.ieee.org/portal/index.jsp%3FpageID%3Dcorp_level1%26path%3Dabout/documentation/copyright%26file%3Dprivacy.xml%26xsl%3Dgeneric.xsl) for the most accurate reproduction.*
 
 # Terms & Conditions for Use of the IEEE Web Site
 
@@ -7,7 +7,7 @@
 
  **www.ieee.org Privacy Policy**
 
-This security and privacy policy ("Privacy Policy") constitutes a part of the **_[Terms& Conditions ](https://web.archive.org/web/20040603023625id_/http%3A//www.ieee.org/portal/index.jsp%3FpageID%3Dcorp_level1%26path%3Dabout/documentation/index.jsp?pageID=corp_level1&path=about/documentation/copyright&file=legal.xml&xsl=generic.xsl)_** ("Terms and Conditions") of the IEEE Web Site, which governs your use of this Site.  The Terms and Conditions, including this Privacy Policy, may be amended by the IEEE at any time by posting the amended Terms and Conditions on this Site.  The Terms and Conditions were last amended on 21 December 2001.
+This security and privacy policy ("Privacy Policy") constitutes a part of the **_[Terms& Conditions ](https://web.archive.org/web/20041010013257id_/http%3A//www.ieee.org/portal/index.jsp%3FpageID%3Dcorp_level1%26path%3Dabout/documentation/index.jsp?pageID=corp_level1&path=about/documentation/copyright&file=legal.xml&xsl=generic.xsl)_** ("Terms and Conditions") of the IEEE Web Site, which governs your use of this Site.  The Terms and Conditions, including this Privacy Policy, may be amended by the IEEE at any time by posting the amended Terms and Conditions on this Site.  The Terms and Conditions were last amended on 21 December 2001.
 
 In addition to this Privacy Policy, certain IEEE services on or accessible from this Site have Supplemental Terms that will govern your use of such services. These also form a part of the Terms and Conditions and govern your use of such services.  
 
@@ -76,4 +76,4 @@ The IEEE cooperates with law enforcement inquiries, as well as other third parti
 
 **Questions**
 
-Please email us at **[member-comments@ieee.org](mailto:member-comments@ieee.org?Subject=Privacy%20Statement%20Member%20Comments)** with any questions you have about our [Privacy Policy](https://web.archive.org/web/20040603023625id_/http%3A//www.ieee.org/portal/index.jsp%3FpageID%3Dcorp_level1%26path%3Dabout/documentation/index.jsp?pageID=corp_level1&path=about/documentation/copyright&file=privacy.xml&xsl=generic.xsl) or [Terms and Conditions](https://web.archive.org/web/20040603023625id_/http%3A//www.ieee.org/portal/index.jsp%3FpageID%3Dcorp_level1%26path%3Dabout/documentation/index.jsp?pageID=corp_level1&path=about/documentation/copyright&file=legal.xml&xsl=generic.xsl).
+Please email us at **[member-comments@ieee.org](mailto:member-comments@ieee.org?Subject=Privacy%20Statement%20Member%20Comments)** with any questions you have about our [Privacy Policy](https://web.archive.org/web/20041010013257id_/http%3A//www.ieee.org/portal/index.jsp%3FpageID%3Dcorp_level1%26path%3Dabout/documentation/index.jsp?pageID=corp_level1&path=about/documentation/copyright&file=privacy.xml&xsl=generic.xsl) or [Terms and Conditions](https://web.archive.org/web/20041010013257id_/http%3A//www.ieee.org/portal/index.jsp%3FpageID%3Dcorp_level1%26path%3Dabout/documentation/index.jsp?pageID=corp_level1&path=about/documentation/copyright&file=legal.xml&xsl=generic.xsl).
