@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2003-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030411082805id_/http%3A//www.responsibletravel.com/Copy/Copy100068.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsibletravel.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202014738id_/http%3A//www.responsibletravel.com/Copy/Copy100068.htm) for the most accurate reproduction.*
 
 # world's best responsible/ecotourism holidays
 
 |  | [Africa/Middle East](http://www.responsibletravel.com/TripSearch/Africa_Middle%20East/Region100001.htm)  
 ---|---  
+  | [Antarctica/Arctic](http://www.responsibletravel.com/TripSearch/Antarctica_Arctic/Region100002.htm)  
   | [Asia](http://www.responsibletravel.com/TripSearch/Asia/Region100003.htm)  
   | [Australia/Oceania](http://www.responsibletravel.com/TripSearch/Australia_Oceania/Region100004.htm)  
   | [Caribbean](http://www.responsibletravel.com/TripSearch/Caribbean/Region100006.htm)  
@@ -11,20 +12,22 @@
   | [Europe](http://www.responsibletravel.com/TripSearch/Europe/Region100007.htm)  
   | [Indian Ocean](http://www.responsibletravel.com/TripSearch/Indian%20Ocean/Region100011.htm)  
   | [North America](http://www.responsibletravel.com/TripSearch/North%20America/Region100010.htm)  
-  | [Polar Regions](http://www.responsibletravel.com/TripSearch/Polar%20Regions/Region100002.htm)  
   | [South America](http://www.responsibletravel.com/TripSearch/South%20America/Region100008.htm)  
   | [UK](http://www.responsibletravel.com/TripSearch/UK/Region100009.htm)  
 | Activity search  
 ---|---  
-| [Active over 50's](http://www.responsibletravel.com/TripSearch/Active%20over%2050_s/ActivityCategory100015.htm)  
-  | [Active/Adventure](http://www.responsibletravel.com/TripSearch/Active_Adventure/ActivityCategory100007.htm)  
-  | [Beach](http://www.responsibletravel.com/TripSearch/Beach/ActivityCategory100003.htm)  
+| [Adventure holidays](http://www.responsibletravel.com/TripSearch/Adventure%20holidays/ActivityCategory100007.htm)  
+  | [Beach holidays](http://www.responsibletravel.com/TripSearch/Beach%20holidays/ActivityCategory100003.htm)  
+  | [Budget travel](http://www.responsibletravel.com/TripSearch/Budget%20travel/ActivityCategory100010.htm)  
   | [Community](http://www.responsibletravel.com/TripSearch/Community/ActivityCategory100009.htm)  
-  | [Culture](http://www.responsibletravel.com/TripSearch/Culture/ActivityCategory100002.htm)  
-  | [Family](http://www.responsibletravel.com/TripSearch/Family/ActivityCategory100004.htm)  
+  | [Cultural holidays](http://www.responsibletravel.com/TripSearch/Cultural%20holidays/ActivityCategory100002.htm)  
+  | [Family holidays](http://www.responsibletravel.com/TripSearch/Family%20holidays/ActivityCategory100004.htm)  
   | [Gap year](http://www.responsibletravel.com/TripSearch/Gap%20year/ActivityCategory100012.htm)  
-  | [Independent/Budget](http://www.responsibletravel.com/TripSearch/Independent_Budget/ActivityCategory100010.htm)  
-  | [Volunteering](http://www.responsibletravel.com/TripSearch/Volunteering/ActivityCategory100011.htm)  
+  | [Honeymoon ideas](http://www.responsibletravel.com/TripSearch/Honeymoon%20ideas/ActivityCategory100017.htm)  
+  | [Over 50's holidays](http://www.responsibletravel.com/TripSearch/Over%2050_s%20holidays/ActivityCategory100015.htm)  
+  | [Short breaks](http://www.responsibletravel.com/TripSearch/Short%20breaks/ActivityCategory100018.htm)  
+  | [Special interest](http://www.responsibletravel.com/TripSearch/Special%20interest/ActivityCategory100016.htm)  
+  | [Volunteer travel](http://www.responsibletravel.com/TripSearch/Volunteer%20travel/ActivityCategory100011.htm)  
   | [Walking holidays](http://www.responsibletravel.com/TripSearch/Walking%20holidays/ActivityCategory100013.htm)  
   | [Well-being](http://www.responsibletravel.com/TripSearch/Well-being/ActivityCategory100008.htm)  
   | [Wildlife safaris](http://www.responsibletravel.com/TripSearch/Wildlife%20safaris/ActivityCategory100001.htm)  
@@ -34,10 +37,17 @@
 | [B&B](http://www.responsibletravel.com/AccommodationSearch/B%26B/AccommodationCategory100005.htm)  
   | [Backpackers](http://www.responsibletravel.com/AccommodationSearch/Backpackers/AccommodationCategory100006.htm)  
   | [Beach resorts](http://www.responsibletravel.com/AccommodationSearch/Beach%20resorts/AccommodationCategory100007.htm)  
-  | [Eco-lodge](http://www.responsibletravel.com/AccommodationSearch/Eco-lodge/AccommodationCategory100003.htm)  
-  | [Large hotel](http://www.responsibletravel.com/AccommodationSearch/Large%20hotel/AccommodationCategory100001.htm)  
-  | [Small hotel](http://www.responsibletravel.com/AccommodationSearch/Small%20hotel/AccommodationCategory100002.htm)  
+  | [Eco lodge](http://www.responsibletravel.com/AccommodationSearch/Eco%20lodge/AccommodationCategory100003.htm)  
+  | [Farmstays](http://www.responsibletravel.com/AccommodationSearch/Farmstays/AccommodationCategory100008.htm)  
+  | [Honeymoon hotels](http://www.responsibletravel.com/AccommodationSearch/Honeymoon%20hotels/AccommodationCategory100002.htm)  
   | [Wilderness](http://www.responsibletravel.com/AccommodationSearch/Wilderness/AccommodationCategory100004.htm)  
+| Travel services  
+---|---  
+| [Car hire](http://www.responsibletravel.com/Copy/Copy101079.htm)  
+  | [Guide books](http://www.responsibletravel.com/Copy/Copy101383.htm)  
+  | [Insurance](http://www.responsibletravel.com/Copy/Copy100889.htm)  
+  | [Travel clothing](http://www.responsibletravel.com/Copy/Copy101688.htm)  
+  | [Travel magazines](http://www.responsibletravel.com/Copy/Copy101570.htm)  
   
 |  |    
 ---|---  
@@ -57,6 +67,4 @@ We keep all personal information in a secure server that is only accessible by d
 
 **Justin Francis**   
 Co-Founder & CEO   
-January 2001  
-  
-responsible travel, responsible holidays, ecotourism, eco travel, green travel, adventure travel overseas, wildlife safaris africa, cultural holidays abroad, family holidays abroad, beach holidays, nature tourism abroad, hiking and trekking, community based tourism, ecolodge, eco lodge.
+January 2001
