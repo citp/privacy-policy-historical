@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2001-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010622122630id_/http%3A//weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weatherforyou.com privacy policy that was archived on 2002-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020211013023id_/http%3A//www.weatherforyou.com/privacy.shtm) for the most accurate reproduction.*
 
 # Independent Weather Stations - Weather for You
 
-| [**Home**](https://web.archive.org/web/20010622122630id_/http%3A//index.shtm)  
+| [**Home**](https://web.archive.org/web/20011224214801id_/http%3A//index.shtm)  
 ---  
    
-[**National & International**](http://www.weather4you.com/cgi-bin/hamweather.cgi?forecast=nf&state=us&map=1)  
+[**National & International**](http://www.weatherforyou.com/cgi-bin/hamweather.cgi?user=weather4you&forecast=nf&state=us&map=1)  
 Forecasts, conditions,  
 radar, warnings, satellite  
    
@@ -17,15 +17,15 @@ selected default page
 See what happened today  
 in weather history  
    
-**[Private Stations](https://web.archive.org/web/20010622122630id_/http%3A//iws/index.shtm)**  
+**[Private Stations](https://web.archive.org/web/20011224214801id_/http%3A//iws/index.shtm)**  
 Now over 250 stations in  
 our list!  Find one near you.  
    
-**[Hurricanes](http://www.weather4you.com/cgi-bin/hamweather.cgi?user=weather4you&theme=default&forecast=pass&pass=hcane)**  
+**[Hurricanes](http://www.weatherforyou.com/cgi-bin/hamweather.cgi?user=weather4you&theme=default&forecast=pass&pass=hcane)**  
 Info on hurricanes and  
 tropical storms  
    
-[**Weather Computer**](https://web.archive.org/web/20010622122630id_/http%3A//weather_computer.shtm)  
+[**Weather Computer**](https://web.archive.org/web/20011224214801id_/http%3A//weather_computer.shtm)  
 Convert °F to°C, calculate  
 wind chill and more.  
    
