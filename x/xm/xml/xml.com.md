@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607192231id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xml.com privacy policy that was archived on 2004-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041011142409id_/http%3A//www.xml.com/pub/a/admin/policy.html) for the most accurate reproduction.*
 
-# XML.com: O'Reilly & Associates, Inc. Privacy Policy [Feb. 06, 2001]
+# XML.com: O'Reilly & Associates, Inc. Privacy Policy
 
 |  |     
   
@@ -41,6 +41,7 @@
    
 [<taglines/>](https://web.archive.org/pub/at/20)  
 [Dive into XML](https://web.archive.org/pub/at/25)  
+[Hacking Congress](https://web.archive.org/pub/at/33)  
 [Hacking the Library](https://web.archive.org/pub/at/30)  
 [Jon Udell](https://web.archive.org/pub/at/26)  
 [Perl and XML](https://web.archive.org/pub/at/15)  
@@ -51,6 +52,7 @@
 [Standards Lowdown](https://web.archive.org/pub/at/31)  
 [Transforming XML](https://web.archive.org/pub/at/16)  
 [XML Q&A](https://web.archive.org/pub/at/13)  
+[XML Tourist](https://web.archive.org/pub/at/32)  
 [XML-Deviant](https://web.archive.org/pub/at/17)  
 
 
