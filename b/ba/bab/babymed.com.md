@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210101557id_/http%3A//www.babymed.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babymed.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622060059id_/http%3A//www.babymed.com/privacy.asp) for the most accurate reproduction.*
 
 # BabyMed.com
 
-|  [Home](https://web.archive.org/) |  [Tools](https://web.archive.org/tools/) |  [Topics](https://web.archive.org/docs/) |  [Community](https://web.archive.org/community/) |  [Success Stories](https://web.archive.org/docs/english/452.asp) |  [My BabyMed](https://web.archive.org/members/) |  [Map](https://web.archive.org/site_map.asp) |  [Search](https://web.archive.org/search/) |  [Help](https://web.archive.org/docs/english/803.asp)  
+|  [**Home**](https://web.archive.org/) |  [**Tools**](https://web.archive.org/tools/) |  [**Topics**](https://web.archive.org/docs/) |  [**Community**](https://web.archive.org/community/) |  [**Success Stories**](https://web.archive.org/docs/english/452.asp) |  [**My BabyMed**](https://web.archive.org/members/) |  [**Map**](https://web.archive.org/site_map.asp) |  [**Search**](https://web.archive.org/search/) |  [**Help**](https://web.archive.org/docs/english/803.asp)  
 ---|---|---|---|---|---|---|---|---  
   
 ### BabyMed.com Privacy Statement
