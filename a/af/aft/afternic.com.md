@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620090810id_/http%3A//www.afternic.com/index.cfm%3Fa%3Dhelp%26sa%3Dgetstart%26tab%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afternic.com privacy policy that was archived on 2000-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001207010700id_/http%3A//afternic.com/index.cfm%3Fa%3Dhelp%26sa%3Dgetstart%26tab%3Dprivacy) for the most accurate reproduction.*
 
 # Afternic.com - Getting Started
 
-Your privacy is very important to us. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to [http://www.Afternic.com](https://web.archive.org/web/20000620090810id_/http%3A//www.afternic.com/index.cfm) (hereafter, the Site).
+Your privacy is very important to us. As part of the normal operation of our business services, we collect and, in some cases, disclose information about you. This Privacy Policy outlines the information that we collect about you and what may happen to that information. The privacy policies of this notice apply to [http://www.Afternic.com](https://web.archive.org/web/20001207010700id_/http%3A//afternic.com/index.cfm) (hereafter, the Site).
 
-As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the User Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC.COM, Inc. User Agreement](https://web.archive.org/web/20000620090810id_/http%3A//www.afternic.com/index.cfm?a=help&sa=getstart&tab=useragreement).
+As described below, some of your personally identifiable information is disclosed to third parties and used by us and third parties. By accepting the User Agreement, you expressly consent to our use and disclosure of your personally identifiable information. This Privacy Policy is incorporated into and subject to the terms of the [AFTERNIC.COM, Inc. User Agreement](https://web.archive.org/web/20001207010700id_/http%3A//afternic.com/index.cfm?a=help&sa=getstart&tab=useragreement).
 
 AFTERNIC.COM reserves the right to change its privacy policy from time to time. Before policy changes take effect, however we will post notices prominently.
 
