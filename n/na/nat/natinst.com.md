@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the natinst.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205024500id_/http%3A//www.ni.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natinst.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413034341id_/http%3A//www.ni.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # National Instruments Online Privacy Statement
 
-|  |    
+  
 Legal Information
 
 National Instruments Online Privacy Statement
@@ -32,7 +32,7 @@ The National Instruments Online Store is registered with Web site identification
 
 If you do not feel comfortable giving us your payment information online, we do offer a [print and fax](https://web.archive.org/store/payment.htm#printandfax) option in the Online Store that enables you to print the contents of your shopping cart and fax your order to us. You can also contact us to place your order via phone, fax, or e-mail: 
 
-|  U.S., Canada, and Latin America:   
+U.S., Canada, and Latin America:   
 ---  
   
   * Phone: 800-258-7019 
@@ -65,5 +65,7 @@ National Instruments Corp.
 Austin, TX  78759-3504  
 phone: 512-794-0100  
 [webmaster@ni.com](mailto:webmaster@ni.com)
+
+Back to previous page 
 
 * * *
