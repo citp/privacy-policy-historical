@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhn.ca privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204202431id_/http%3A//www.uhn.ca/home/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhn.ca privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607164057id_/http%3A//www.uhn.ca/home/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,5 +19,5 @@ The [Terms and Conditions](https://web.archive.org/home/terms.asp) for our Web s
 
 **Contact Information** \- If you have any questions, please contact us at [UHN.Info@uhn.on.ca](mailto:UHN.Info@uhn.on.ca)
 
-Thank you for visiting [www.uhn.ca](https://web.archive.org/web/20031204202431id_/http%3A//www.uhn.ca/index.asp). We hope you find your visit to be worthwhile and useful.  
+Thank you for visiting [www.uhn.ca](https://web.archive.org/web/20040607164057id_/http%3A//www.uhn.ca/index.asp). We hope you find your visit to be worthwhile and useful.  
 
