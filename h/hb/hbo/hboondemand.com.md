@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hboondemand.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211173107id_/http%3A//www.hbo.com/corpinfo/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hboondemand.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605033112id_/http%3A//www.hbo.com/corpinfo/privacy.shtml) for the most accurate reproduction.*
 
 # HBO.com: Corporate Information: Privacy Policy
 
