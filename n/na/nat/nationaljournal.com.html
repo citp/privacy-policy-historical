@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nationaljournal.com privacy policy that was archived on 2000-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001202224300id_/http%3A//nationaljournal.com/help/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationaljournal.com privacy policy that was archived on 2001-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010606203343id_/http%3A//nationaljournal.com/help/privacy.htm) for the most accurate reproduction.-->
 
 <html><head><title>NationalJournal.com Help</title><script language="javascript">
 <!--
@@ -53,7 +53,10 @@ menuInfo["campaigns"] = new menuInfo("campaigns",3);
 menuInfo["daybook"] = new menuInfo("daybook",4);
 menuInfo["early"] = new menuInfo("early",5);
 menuInfo["markups"] = new menuInfo("markups",6);
-menuInfo["poll"] = new menuInfo("poll",7);
+menuInfo["news"] = new menuInfo("news",7);
+menuInfo["poll"] = new menuInfo("poll",8);
+menuInfo["reviews"] = new menuInfo("reviews",9);
+
 //
 // ***********************************
 // *                                 *
@@ -307,9 +310,9 @@ if (document.images){
         roll12 = new Image();
         roll12.src = "/img/nav/p_tech_on.gif";
         roll13 = new Image();
-        roll13.src = "/img/nav/p_greenwire_on.gif";
+        roll13.src = "/img/nav/p_american_on.gif";
         roll14 = new Image();
-        roll14.src = "/img/nav/p_american_on.gif";
+        roll14.src = "/img/nav/p_about_on.gif";
 } else {
         cripple=1
 }
@@ -324,6 +327,48 @@ function rollover(img,file){
 
 //-->
 
+</script><script language="javascript">
+function setCookie (name, value, expires, path, domain, secure) {
+      document.cookie = name + "=" + escape(value) +
+        ((expires) ? "; expires=" + expires : "") +
+        ((path) ? "; path=" + path : "") +
+        ((domain) ? "; domain=" + domain : "") +
+        ((secure) ? "; secure" : "");
+}
+
+function getCookie(name) {
+	var cookie = " " + document.cookie;
+	var search = " " + name + "=";
+	var setStr = null;
+	var offset = 0;
+	var end = 0;
+	if (cookie.length > 0) {
+		offset = cookie.indexOf(search);
+		if (offset != -1) {
+			offset += search.length;
+			end = cookie.indexOf(";", offset)
+			if (end == -1) {
+				end = cookie.length;
+			}
+			setStr = unescape(cookie.substring(offset, end));
+		}
+	}
+	return(setStr);
+}
+
+function getRandom() {
+	var raw = Math.random();
+	var ranged = Math.floor(raw * 899999999) + 100000000;
+	return ranged;
+}
+
+function getlongRandom() {
+	var raw = Math.random();
+	var ranged = Math.floor(raw * 899999999999999) + 100000000000000;
+	return ranged;
+}
+
+mylongrandom = getlongRandom();
 </script></head>
 
 <!-- ************************************** -->
@@ -339,10 +384,12 @@ function rollover(img,file){
 <!-- the following script preloads the rollover images for the right-hand and top navigations -->
         
 
-
 <!-- end of script -->
-        
-        
+
+<!-- Begin Random Number Script -->
+
+<!-- end random number script -->
+       
 
 
 
@@ -359,11 +406,10 @@ function rollover(img,file){
 <td><img src="/img/pixel.gif" width="380" height="4"></td>
 <td rowspan="3"><img src="/img/pixel.gif" height="1" width="27"></td>
 <td rowspan="5" valign="top">
-<a href="http://capitalcareersource.com"><img src="/img/adgraphics/ccs-blue.gif" width="101" height="57" border="0" align="absmiddle" alt="NationalJournal.com's Career Site For Washington Insiders"></a><br>
 
-<img src="/img/pixel.gif" width="98" height="40"><br>
+<img src="/img/pixel.gif" width="98" height="105"><br>
 
-<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#CCCC99"><b>Saturday,<br> Dec.  2, 2000</b></font><br>
+<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#CCCC99"><b>June  6, 2001</b></font><br>
 
 </td>
 </tr>
@@ -377,20 +423,31 @@ function rollover(img,file){
 </td>
 <td colspan="3" align="left">
 
- 
-<nolayer> 
-<iframe src="http://ad.doubleclick.net/adi/www.nationaljournal.com/common;pos=top;sz=468x60;tile=1;ord=975814852?" name="frame468601" width="468" height="60" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"> 
-<!-- Default Call --> 
-<a href="http://ad.doubleclick.net/jump/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=468x60;tile=1;ord=975814852?"
-> 
-<img src="http://ad.doubleclick.net/ad/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=468x60;tile=1;ord=975814852?"
-height=60 width=468 border=0 ></a> 
-</iframe> 
-</nolayer> 
-<ilayer id="layer468601" visibility="hide" height="60"></ilayer> 
+<script language="JavaScript"> 
+myVar = getCookie("number");
+var expdate = new Date ();
+expdate.setTime (expdate.getTime() + (365 * 24 * 60 * 60 * 1000));
+if (! myVar) {
+	myVar = getRandom();
+	setCookie("number", myVar, expdate.toGMTString(), "/");
+}
+
+document.write("<NOLAYER>"); 
+document.write("<IFRAME src=\"http://ad.doubleclick.net/adi/www.nationaljournal.com/common;pos=top;sz=468x60;tile=1;u=",myVar,";ord=",mylongrandom," name=\"frame468601\" width=468 height=60 border=\"0\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" scrolling=\"no\" > ");
+document.write("<a href=\"http://ad.doubleclick.net/jump/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=468x60;tile=1;u=",myVar,";ord=",mylongrandom," > ");
+document.write("<img src=\"http://ad.doubleclick.net/ad/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=468x60;tile=1;u=",myVar,";ord=",mylongrandom," height=60 width=468 border=0 ></a> ");
+document.write("</IFRAME> ");
+document.write("</NOLAYER> ");
+document.write("<ILAYER id=\"layer468601\" visibility=hide height=60></ILAYER> ");
+</script><nolayer><iframe src="http://ad.doubleclick.net/adi/www.nationaljournal.com/common;pos=top;sz=468x60;tile=1;u=500774238;ord=351669809477855 name=" frame468601"="" width="468" height="60" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"> <a href="http://ad.doubleclick.net/jump/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=468x60;tile=1;u=500774238;ord=351669809477855 > <img src="http://ad.doubleclick.net/ad/www.nationaljournal.com/common;pos=top;abr=!ie4;abr=!ie4;sz=468x60;tile=1;u=500774238;ord=351669809477855 height=60 width=468 border=0 ></a> </iframe> </nolayer> <ilayer id="layer468601" visibility="hide" height="60"></ilayer> 
 
 
 
+<noscript>
+<A HREF="http://ad.doubleclick.net/www.nationaljournal.com/common;sz=468x60;tile=1;ord=1?">
+<IMG SRC="http://ad.doubleclick.net/ad/www.nationaljournal.com/common;sz=468x60;tile=1;ord=1?" border=0 height=60
+width=468 ></A>
+</noscript>
 <!-- THE INCLUDE TOP2.HTM CLOSES OUT THE AD TABLE CELL, -->
 <!-- AND INCLUDES ALL CODING FOR PUB NAVIGATION ACROSS -->
 <!-- THE TOP OF THE PAGE -->
@@ -400,7 +457,7 @@ height=60 width=468 border=0 ></a>
 <td colspan="6"><img src="/img/pixel.gif" width="13" height="5"></td>
 </tr>
 <tr>
-<td colspan="7" align="left" valign="top"><a href="/pubs/nj/" target="_top" onmouseover="rollover('nj','p_nj_pollt_on.gif'); window.status='National Journal Magazine'; return true;" onmouseout="rollover('nj','p_nj_pollt.gif'); window.status=''; return true;"><img name="nj" src="/img/nav/p_nj_pollt.gif" width="123" height="26" border="0"></a><a href="/pubs/hotline/" target="_top" onmouseover="rollover('hotline','p_hotline_on.gif'); window.status='The Hotline'; return true;" onmouseout="rollover('hotline','p_hotline.gif'); window.status=''; return true;"><img name="hotline" src="/img/nav/p_hotline.gif" width="85" height="26" border="0"></a><a href="/pubs/congressdaily/" target="_top" onmouseover="rollover('congress','p_congress_on.gif'); window.status='CongressDaily'; return true;" onmouseout="rollover('congress','p_congress.gif'); window.status=''; return true;"><img name="congress" src="/img/nav/p_congress.gif" width="100" height="26" border="0"></a><a href="/pubs/techdaily/" target="_top" onmouseover="rollover('tech','p_tech_on.gif'); window.status='Technology Daily'; return true;" onmouseout="rollover('tech','p_tech.gif'); window.status=''; return true;"><img name="tech" src="/img/nav/p_tech.gif" width="115" height="26" border="0"></a><a href="/pubs/greenwire/" target="_top" onmouseover="rollover('greenwire','p_greenwire_on.gif'); window.status='Greenwire'; return true;" onmouseout="rollover('greenwire','p_greenwire.gif'); window.status=''; return true;"><img name="greenwire" src="/img/nav/p_greenwire.gif" width="75" height="26" border="0"></a><a href="/pubs/healthline/" target="_top" onmouseover="rollover('american','p_american_on.gif'); window.status='American Health Line'; return true;" onmouseout="rollover('american','p_american.gif'); window.status=''; return true;"><img name="american" src="/img/nav/p_american.gif" width="145" height="26" border="0"></a><img src="/img/r_curve_top.gif" width="22" height="26"></td>
+<td colspan="7" align="left" valign="top"><a href="/pubs/nj/" target="_top" onmouseover="rollover('nj','p_nj_pollt_on.gif'); window.status='National Journal Magazine'; return true;" onmouseout="rollover('nj','p_nj_pollt.gif'); window.status=''; return true;"><img name="nj" src="/img/nav/p_nj_pollt.gif" width="123" height="26" border="0"></a><a href="/pubs/hotline/" target="_top" onmouseover="rollover('hotline','p_hotline_on.gif'); window.status='The Hotline'; return true;" onmouseout="rollover('hotline','p_hotline.gif'); window.status=''; return true;"><img name="hotline" src="/img/nav/p_hotline.gif" width="85" height="26" border="0"></a><a href="/pubs/congressdaily/" target="_top" onmouseover="rollover('congress','p_congress_on.gif'); window.status='CongressDaily'; return true;" onmouseout="rollover('congress','p_congress.gif'); window.status=''; return true;"><img name="congress" src="/img/nav/p_congress.gif" width="100" height="26" border="0"></a><a href="/pubs/techdaily/" target="_top" onmouseover="rollover('tech','p_tech_on.gif'); window.status='Technology Daily'; return true;" onmouseout="rollover('tech','p_tech.gif'); window.status=''; return true;"><img name="tech" src="/img/nav/p_tech.gif" width="115" height="26" border="0"></a><a href="/pubs/healthline/" target="_top" onmouseover="rollover('american','p_american_on.gif'); window.status='American Health Line'; return true;" onmouseout="rollover('american','p_american.gif'); window.status=''; return true;"><img name="american" src="/img/nav/p_american.gif" width="145" height="26" border="0"></a><a href="/about/" target="_top" onmouseover="rollover('about','p_about_on.gif'); window.status='About National Journal Group'; return true;" onmouseout="rollover('about','p_about.gif'); window.status=''; return true;"><img name="about" src="/img/nav/p_about.gif" width="75" height="26" border="0"></a><img src="/img/r_curve_top.gif" width="22" height="26"></td>
 </tr>
 
 <!-- Main table and left column included below -->
@@ -435,28 +492,37 @@ height=60 width=468 border=0 ></a>
 <!-- INTO THE HOME PAGE AND ALL COMMON FEATURES -->
 <font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-2" color="#000000">
 
-<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#6666CC"><b>Need A Job?</b></font><br>
-Check out <a href="http://capitalcareersource.com">Capital Career Source</a> -- our new career site for Washington insiders. Search for jobs, post your resume and more!
+
+
+
+<a href="http://capitalcareersource.com"><img src="/img/adgraphics/ccs/interior_tile2.gif" width="103" height="86" border="0" alt="CapitalCareerSource.com"></a>
 <br>
 <br>
 
+
+<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#6666CC"><b>Go Wireless</b></font><br>
+Get <a href="/help/avantgo.htm">daily political updates</a> on your handheld computer.
+<br>
+<br>
+
+<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#6666CC"><b>Advertise With Us</b></font><br>
+Details on advertising with National Journal Group -- both online and in print -- can be found in our online <a href="/mediakit/2001/njg/">media kit</a>.
+<br>
+<br>
 <font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#6666CC"><b>Get It All</b></font><br>
 <a href="/qpass/"><img align="left" src="/img/qpasslogos/3D_4c-vert_sm.gif" width="40" height="49" border="0" alt="Purchase complete site access through Qpass"></a> Non-subscribers can get short-term access to all our insider coverage through <a href="/qpass/">Qpass</a>.<br>
 <br>
 
 
 
-<font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#6666CC"><b>How To Advertise</b></font><br>
-Details on advertising with National Journal Group -- both online and in print -- can be found in our online <a href="/mediakit/">media kit</a>.
-<br>
-<br>
 
 <font face="Trebuchet MS, Arial, Verdana, Helvetica" size="-1" color="#6666CC"><b>Make This Your Home Page</b></font><br>
 <a href="/help/home.htm">Click here</a> for step-by-step help in starting your day with NationalJournal.com<br>
-			<br>
+<br>
+<br>
 
 
-
+<a href="http://www.govexec.com"><img src="/img/adgraphics/ge_logo.gif" width="110" height="33" border="0" alt="GovExec.com - Covering The Business Of The Federal Government"></a>
 
 </font>
 <!-- MARKETING/PROMO TEXT ENDS HERE-->
@@ -518,6 +584,10 @@ For more information on our Privacy Assurance Policy, contact Greg Hamilton, Mar
 	</td>
     <td valign="top">                       
 
+<!-- This Include Pulls In The Actual Nav Graphics -->
+<!-- THIS INCLUDE CONTAINS THE RIGHT-COLUMN BUTTONS -->
+<!-- THAT ARE PULLED IN BY RIGHT-NAV INCLUDES SITEWIDE -->
+
 <a href="/members/adspotlight/" onmouseover="mainOver('adspot');" onmouseout="mainOut('adspot');"><img src="/img/popups/f2_adspot0.gif" alt="" width="95" height="22" border="0" name="adspot_navimage"></a><br>
 <a href="/members/almanac/" onmouseover="mainOver('almanac');" onmouseout="mainOut('almanac');"><img src="/img/popups/f2_almanac0.gif" alt="" width="95" height="22" border="0" name="almanac_navimage"></a><br>
 <a href="/members/buzz/" onmouseover="mainOver('buzz');" onmouseout="mainOut('buzz');"><img src="/img/popups/f2_buzz0.gif" alt="" width="95" height="22" border="0" name="buzz_navimage"></a><br>
@@ -525,7 +595,11 @@ For more information on our Privacy Assurance Policy, contact Greg Hamilton, Mar
 <a href="/members/calendar/" onmouseover="mainOver('daybook');" onmouseout="mainOut('daybook');"><img src="/img/popups/f2_daybook0.gif" alt="" width="95" height="22" border="0" name="daybook_navimage"></a><br>
 <a href="/members/earlybird/" onmouseover="mainOver('early');" onmouseout="mainOut('early');"><img src="/img/popups/f2_early0.gif" alt="" width="95" height="22" border="0" name="early_navimage"></a><br>
 <a href="/members/markups/" onmouseover="mainOver('markups');" onmouseout="mainOut('markups');"><img src="/img/popups/f2_markups0.gif" alt="" width="95" height="22" border="0" name="markups_navimage"></a><br>
+<a href="/members/news/" onmouseover="mainOver('news');" onmouseout="mainOut('news');"><img src="/img/popups/f2_news0.gif" alt="" width="95" height="22" border="0" name="news_navimage"></a><br>
 <a href="/members/polltrack/" onmouseover="mainOver('poll');" onmouseout="mainOut('poll');"><img src="/img/popups/f2_poll0.gif" alt="" width="95" height="22" border="0" name="poll_navimage"></a><br>
+<a href="/members/reviews/" onmouseover="mainOver('reviews');" onmouseout="mainOut('reviews');"><img src="/img/popups/f2_reviews0.gif" alt="" width="95" height="22" border="0" name="reviews_navimage"></a><br>
+
+
 
 
 
@@ -556,42 +630,38 @@ For more information on our Privacy Assurance Policy, contact Greg Hamilton, Mar
 
 
 <!-- CODING FOR TABLE ROW CONTAINING BOTTOM AD -->
-<tr><td colspan="3"></td><td colspan="3">
+<tr><td colspan="3"></td><td colspan="3" align="center">
 
 
 
- 
-<nolayer> 
-<iframe src="http://ad.doubleclick.net/adi/www.nationaljournal.com/common;pos=bottom;sz=468x60;tile=2;ord=975814852?" name="frame468602" width="468" height="60" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no"> 
-<!-- Default Call --> 
-<a href="http://ad.doubleclick.net/jump/www.nationaljournal.com/common;pos=bottom;abr=!ie4;abr=!ie4;sz=468x60;tile=2;ord=975814852?" > 
-<img src="http://ad.doubleclick.net/ad/www.nationaljournal.com/common;pos=bottom;abr=!ie4;abr=!ie4;sz=468x60;tile=2;ord=975814852?" height=60 width=468 border=0 ></a> 
-</iframe> 
-</nolayer> 
-<ilayer id="layer468602" visibility="hide" height="60"></ilayer> 
-
-
+<!-- Placeholder include. Backup containing  -->
+<!-- ad call is saved as default_bottom.0122.bak -->
 <!-- FOOTER2.HTM CLOSES THE AD CELL -->
 <!-- COMPLETES THE PAGE HTML -->
 <!-- INCLUDES THE SECOND-TIER NAVIGATION  -->
 <br><center><font size="-1" face="Trebuchet MS, Arial, Verdana, Helvetica" color="#000000">
-[ <a href="mailto:feedback@nationaljournal.com">E-mail NationalJournal.com</a> ]<br>
-[ <a href="/help/index.htm">Site Index</a> |
-<a href="/members/help/contact.htm">Staff</a> |
-<a href="/members/search/">Search</a> ]<br>
+[ <a href="/help/feedback.htm">E-mail NationalJournal.com</a> ]<br>
+[ <a href="/members/help/contact.htm">Staff</a> |
+<a href="/help/privacy.htm">Privacy Policy</a> | <a href="/members/help/emailalerts.htm">E-Mail Alerts</a> ]<br>
 [ <a href="/help/home.htm">Make NationalJournal.com Your Homepage</a> ]<br>
-[ <a href="/members/help/emailalerts.htm">Sign Up For E-Mail Alerts</a> ]<br>
-[ <a href="/help/privacy.htm">Privacy Policy</a> | <a href="/about/">About National Journal Group Inc.</a> ]<br>
+[ <a href="/about/">About National Journal Group Inc.</a> ]<br>
+[ <a href="/about/contactjobs.htm">Employment Opportunities</a> ]<br>
 
-Copyright 2000 by National Journal Group Inc.<br>
+Copyright 2001 by National Journal Group Inc.<br>
 1501 M St., NW #300  Washington, DC 20005<br>
 202-739-8400 · fax 202-833-8069
 </font></center></td>
 <td colspan="2"></td></tr></tbody></table>
 
-<layer src="http://ad.doubleclick.net/adl/www.nationaljournal.com/common;pos=top;sz=468x60;tile=1;ord=2000?" visibility="hide" onload="moveToAbsolute(layer468601.pageX, layer468601.pageY);clip.height=60;clip.width=468;visibility='show';"></layer> 
 
-<layer src="http://ad.doubleclick.net/adl/www.nationaljournal.com/common;pos=bottom;sz=468x60;tile=2;ord=2000?" visibility="hide" onload="moveToAbsolute(layer468602.pageX, layer468602.pageY);clip.height=60;clip.width=468;visibility='show';"></layer>
+
+<script language="JavaScript"> 
+document.write("<LAYER SRC=\"http://ad.doubleclick.net/adl/www.nationaljournal.com/common;pos=top;sz=468x60;tile=1;u=",myVar,";ord=",mylongrandom,"\" visibility=hide onload=\"moveToAbsolute(layer468601.pageX, layer468601.pageY);clip.height=60;clip.width=468;visibility=\'show\';\"></layer> ");
+</script><layer src="http://ad.doubleclick.net/adl/www.nationaljournal.com/common;pos=top;sz=468x60;tile=1;u=500774238;ord=351669809477855" visibility="hide" onload="moveToAbsolute(layer468601.pageX, layer468601.pageY);clip.height=60;clip.width=468;visibility='show';"></layer> 
+
+
+<!-- Bottom Ad code temporarily removed. -->
+<!-- Backup is footer2.0122.bak -->
 
 
 
