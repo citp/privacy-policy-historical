@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the esrb.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621090522id_/http%3A//esrb.org/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esrb.org privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/privacy_statement.asp) for the most accurate reproduction.*
 
 # ESRB - Privacy Statement
 
   
-[](https://web.archive.org/web/20030621090522id_/http%3A//esrb.org/index.asp)  
-[](https://web.archive.org/web/20030621090522id_/http%3A//esrb.org/esrbratings.asp)  
-[](https://web.archive.org/web/20030621090522id_/http%3A//esrb.org/esrbiratings.asp)  
-[](https://web.archive.org/web/20030621090522id_/http%3A//esrb.org/privacy.asp)  
-[](https://web.archive.org/web/20030621090522id_/http%3A//esrb.org/arc.asp)  
-[](https://web.archive.org/web/20030621090522id_/http%3A//esrb.org/about.asp)  
-[](https://web.archive.org/web/20030621090522id_/http%3A//esrb.org/publisher/index.asp)  
-[](https://web.archive.org/web/20030621090522id_/http%3A//esrb.org/retailer/index.asp)  
+[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/index.asp)  
+[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/esrbratings.asp)  
+[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/privacy.asp)  
+[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/arc.asp)  
+[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/about.asp)  
+[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/publisher/index.asp)  
+[](https://web.archive.org/web/20031202194251id_/http%3A//www.esrb.org/retailer/index.asp)  
 [](https://web.archive.org/consumer_online_hotline.asp)  
 |  |  |   
 ---|---|---  
