@@ -1,0 +1,470 @@
+<!--The following is the downloaded HTML source of the netcraft.com privacy policy that was archived on 2005-03-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050308084305id_/http%3A//news.netcraft.com/archives/2003/01/01/privacy_statement.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<base href="http://news.netcraft.com/" target="_blank">
+
+<title>Netcraft: Privacy Statement</title>
+
+<link rel="stylesheet" href="styles-site.css" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="index.rdf">
+<link rel="shortcut icon" href="/favicon.ico">
+
+<link rel="start" href="/" title="Home">
+<link rel="prev" href="http://news.netcraft.com/archives/2003/01/01/fair_use_copyright.html" title="Fair Use, Copyright">
+
+<link rel="next" href="http://news.netcraft.com/archives/2003/01/01/visiting_netcraft.html" title="Visiting Netcraft">
+
+<link rel="shortcut icon" href="/favicon.ico">
+
+<script type="text/javascript" language="javascript">
+<!--
+
+function OpenTrackback (c) {
+    window.open(c,
+                    'trackback',
+                    'width=480,height=480,scrollbars=yes,status=yes');
+}
+
+var HOST = 'news.netcraft.com';
+
+// Copyright (c) 1996-1997 Athenia Associates.
+// http://www.webreference.com/js/
+// License is granted if and only if this entire
+// copyright notice is included. By Tomer Shiran.
+
+function setCookie (name, value, expires, path, domain, secure) {
+    var curCookie = name + "=" + escape(value) + ((expires) ? "; expires=" + expires.toGMTString() : "") + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure" : "");
+    document.cookie = curCookie;
+}
+
+function getCookie (name) {
+    var prefix = name + '=';
+    var c = document.cookie;
+    var nullstring = '';
+    var cookieStartIndex = c.indexOf(prefix);
+    if (cookieStartIndex == -1)
+        return nullstring;
+    var cookieEndIndex = c.indexOf(";", cookieStartIndex + prefix.length);
+    if (cookieEndIndex == -1)
+        cookieEndIndex = c.length;
+    return unescape(c.substring(cookieStartIndex + prefix.length, cookieEndIndex));
+}
+
+function deleteCookie (name, path, domain) {
+    if (getCookie(name))
+        document.cookie = name + "=" + ((path) ? "; path=" + path : "") + ((domain) ? "; domain=" + domain : "") + "; expires=Thu, 01-Jan-70 00:00:01 GMT";
+}
+
+function fixDate (date) {
+    var base = new Date(0);
+    var skew = base.getTime();
+    if (skew > 0)
+        date.setTime(date.getTime() - skew);
+}
+
+function rememberMe (f) {
+    var now = new Date();
+    fixDate(now);
+    now.setTime(now.getTime() + 365 * 24 * 60 * 60 * 1000);
+    setCookie('mtcmtauth', f.author.value, now, '', HOST, '');
+    setCookie('mtcmtmail', f.email.value, now, '', HOST, '');
+    setCookie('mtcmthome', f.url.value, now, '', HOST, '');
+}
+
+function forgetMe (f) {
+    deleteCookie('mtcmtmail', '', HOST);
+    deleteCookie('mtcmthome', '', HOST);
+    deleteCookie('mtcmtauth', '', HOST);
+//    f.email.value = '';
+//    f.author.value = '';
+//    f.url.value = '';
+}
+
+//-->
+</script>
+
+
+
+</head>
+
+<body>
+<table border="0">
+<tbody><tr><td colspan="3">
+<div id="banner">
+<table width="100%">
+<tbody><tr>
+<td align="left">
+  <h1><a href="http://news.netcraft.com/" accesskey="1" target="_top">
+<img src="http://news.netcraft.com/images/n2s.gif" alt="Netcraft" border="0" width="200" height="57">
+</a>
+</h1>
+  <span class="description"></span>
+</td>
+<td align="center">
+  <div id="letterbox">
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://banners.netcraft.com/banneradmin/adjs.php?n=a98ae9f3");
+   document.write ("&amp;what=zone:1&amp;source=newsletterbox&amp;target=_blank&amp;withText=0");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://banners.netcraft.com/banneradmin/adjs.php?n=a98ae9f3&amp;what=zone:1&amp;source=newsletterbox&amp;target=_blank&amp;withText=0&amp;exclude=,"></script><noscript><a href='http://banners.netcraft.com/banneradmin/adclick.php?n=a98ae9f3' target='_blank'><img src='http://banners.netcraft.com/banneradmin/adview.php?what=zone:1&amp;source=newsletterbox&amp;target=_blank&amp;n=a98ae9f3' border='0' alt=''></a></noscript>
+</div>
+</td>
+<td align="right" valign="top">
+  <div class="sitesearch">
+  <form method="get" action="/cgi-bin/search.cgi" target="_top">
+    <input type="hidden" name="IncludeBlogs" value="1">
+    <label for="search" accesskey="4">Site Search</label><br>
+    <input id="search" name="search" size="20"><br>
+  </form>
+</div>
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</td></tr>
+<tr valign="top">
+<td width="20%"><div id="links">
+  <div class="sidetitle">Webserver Search</div>
+<div class="side">
+ <form name="f" method="get" action="http://searchdns.netcraft.com/">
+ <small><strong>What's that site running?...</strong></small>
+ <input type="text" name="host" value="" size="23" maxlength="80">
+ <input type="hidden" name="position" value="limited">
+ <input type="submit" name="lookup" value="Search" class="button" onclick="f.lookup.value=&quot;Wait..&quot;;return true">
+ </form>
+ <small>Example:&nbsp;<a href="http://searchdns.netcraft.com/?restriction=site+ends+with&amp;host=.sco.com">.sco.com</a></small><br>
+ <small>Example:&nbsp;<a href="http://uptime.netcraft.com/up/graph?site=www.netcraft.com" target="_top">www.netcraft.com</a></small>
+</div>
+  <div class="syndicate"><a href="/index.rdf" target="_top">RSS feed</a></div>
+  <div class="subscription">
+<p align="center">
+</p><form action="http://www.netcraft.com/cgi-bin/Survey/subscription">
+<input type="submit" value="Subscribe to Netcraft News" class="button">
+</form>
+<p></p>
+</div>
+  <div class="sidetitle">Netcraft Services</div>
+<div class="sidelinks">
+<div class="linktitle">Internet Exploration</div>
+<a href="http://toolbar.netcraft.com" target="_top">Netcraft Toolbar</a><br>
+<a href="http://www.netcraft.com/whats" target="_top">Whats that site running?</a><br>
+<a href="http://searchdns.netcraft.com/?host" target="_top">SearchDNS</a><br>
+<a href="http://uptime.netcraft.com/netmove/today" target="_top">Sites on the Move</a><br>
+
+<br>
+<div class="linktitle">Internet Data Mining</div>
+<a href="http://news.netcraft.com/archives/2003/06/18/hosting_provider_switching_analysis_available.html" target="_top">Hosting Provider Switching Analysis</a><br>
+<a href="http://news.netcraft.com/archives/2003/04/14/netcraft_hosting_provider_server_count_available.html" target="_top">Hosting Provider Server Count</a><br>
+<a href="http://news.netcraft.com/archives/2003/05/10/site_operator_survey.html" target="_top">Hosting Reseller Survey</a><br>
+<a href="http://news.netcraft.com/archives/2003/04/09/netcraft_ssl_survey.html" target="_top">SSL Survey</a><br>
+<a href="http://www.netcraft.com/survey/archive.html">Web Server Survey Archive</a><br>
+<br>
+
+<div class="linktitle">Performance</div>
+<a href="http://news.netcraft.com/archives/2004/06/15/hosting_prospect_monitoring_and_outage_alerting.html" target="_top">Hosting Prospects Performance Alerts</a><br>
+<a href="http://uptime.netcraft.com/perf/reports/Hosters" target="_top">Hosting Providers Network Performance</a><br>
+<a href="http://news.netcraft.com/archives/2003/01/01/dedicated_server_monitoring.html" target="_top">Dedicated Server Monitoring</a><br>
+<br>
+
+<div class="linktitle">Security</div>
+<a href="http://toolbar.netcraft.com" target="_top">Anti-Phishing Toolbar</a><br>
+<a href="http://news.netcraft.com/archives/2004/05/11/audited_by_netcraft.html" target="_top">Audited by Netcraft</a><br>
+<a href="http://news.netcraft.com/archives/2004/05/11/audited_by_netcraft_frequently_asked_questions.html" target="_top">Audited by Netcraft FAQ</a><br>
+<a href="http://news.netcraft.com/archives/2004/01/02/phishing_identity_theft_and_banking_fraud_detection.html" target="_top">Bank Fraud Detection</a><br>
+
+<a href="http://news.netcraft.com/archives/2005/01/03/fraud_hosting_and_phishing_site_countermeasures.html" target="_top">Phishing Site Countermeasures</a><br>
+
+<a href="http://news.netcraft.com/archives/2003/01/01/automated_security_testing.html" target="_top">Automated Security Testing</a><br>
+<a href="http://news.netcraft.com/archives/2003/01/01/dedicated_server_monitoring.html" target="_top">Dedicated Server Monitoring</a><br>
+<a href="http://news.netcraft.com/archives/2003/01/01/ecommerce_security_testing.html" target="_top">Web Application Security Testing</a><br>
+<a href="http://news.netcraft.com/archives/2004/08/17/netcraft_web_application_security_course.html" target="_top">Web Application Security Course</a>
+<br>
+
+<div class="linktitle">Advertising</div>
+<a href="http://news.netcraft.com/archives/banner_advertising.html" target="_top">Banner Advertising on Netcraft</a><br>
+<br>
+
+<div class="linktitle">About Netcraft</div>
+<a href="http://news.netcraft.com/archives/2003/01/01/about_netcraft.html" target="_top">About Netcraft</a><br>
+<a href="http://news.netcraft.com/archives/2004/07/10/software_development_opportunities_at_netcraft.html" target="_top">Jobs at Netcraft</a><br>
+<a href="http://news.netcraft.com/archives/2003/01/01/fair_use_copyright.html" target="_top">Fair Use, Copyright</a><br>
+<a href="http://news.netcraft.com/archives/2003/01/01/privacy_statement.html" target="_top">Site Privacy Statement</a><br>
+<a href="http://news.netcraft.com/archives/2003/01/01/visiting_netcraft.html" target="_top">Visiting Netcraft</a><br>
+<br>
+
+<div class="linktitle">Contact Us</div>
+<a href="mailto:webmaster@netcraft.com">Webmaster</a><br>
+
+</div>
+
+  <div class="sidetitle">Categories</div>
+<div class="side">
+      <a href="http://news.netcraft.com/archives/about_netcraft.html" target="_top">About Netcraft</a><br>
+      <a href="http://news.netcraft.com/archives/around_the_net.html" target="_top">Around the Net</a><br>
+      <a href="http://news.netcraft.com/archives/banner_advertising.html" target="_top">Banner Advertising</a><br>
+      <a href="http://news.netcraft.com/archives/dogfood.html" target="_top">Dogfood</a><br>
+      <a href="http://news.netcraft.com/archives/hosting.html" target="_top">Hosting</a><br>
+      <a href="http://news.netcraft.com/archives/interviews.html" target="_top">Interviews</a><br>
+      <a href="http://news.netcraft.com/archives/netcraft_services.html" target="_top">Netcraft Services</a><br>
+      <a href="http://news.netcraft.com/archives/performance.html" target="_top">Performance</a><br>
+      <a href="http://news.netcraft.com/archives/security.html" target="_top">Security</a><br>
+      <a href="http://news.netcraft.com/archives/web_server_survey.html" target="_top">Web Server Survey</a><br>
+  
+  <a href="/fullindex.html" target="_top">Full Index</a><br>
+</div>
+<div class="sidetitle">Dates</div>
+<div class="side">
+      <a href="http://news.netcraft.com/archives/2005/01/index.html" target="_top">January 2005</a><br>
+      <a href="http://news.netcraft.com/archives/2004/12/index.html" target="_top">December 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2004/11/index.html" target="_top">November 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2004/10/index.html" target="_top">October 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2004/09/index.html" target="_top">September 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2004/08/index.html" target="_top">August 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2004/07/index.html" target="_top">July 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2004/06/index.html" target="_top">June 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2004/05/index.html" target="_top">May 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2004/04/index.html" target="_top">April 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2004/03/index.html" target="_top">March 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2004/02/index.html" target="_top">February 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2004/01/index.html" target="_top">January 2004</a><br>
+      <a href="http://news.netcraft.com/archives/2003/12/index.html" target="_top">December 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2003/11/index.html" target="_top">November 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2003/10/index.html" target="_top">October 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2003/09/index.html" target="_top">September 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2003/08/index.html" target="_top">August 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2003/07/index.html" target="_top">July 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2003/06/index.html" target="_top">June 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2003/05/index.html" target="_top">May 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2003/04/index.html" target="_top">April 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2003/03/index.html" target="_top">March 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2003/02/index.html" target="_top">February 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2003/01/index.html" target="_top">January 2003</a><br>
+      <a href="http://news.netcraft.com/archives/2002/09/index.html" target="_top">September 2002</a><br>
+      <a href="http://news.netcraft.com/archives/2002/03/index.html" target="_top">March 2002</a><br>
+  
+</div>
+
+</div>
+</td>
+<td>
+<div id="content">
+<div class="navmenu">
+« <a href="http://news.netcraft.com/archives/2003/01/01/fair_use_copyright.html" target="_top">Previous</a> |
+
+<a href="/" target="_top">Up</a>
+| <a href="http://news.netcraft.com/archives/2003/01/01/visiting_netcraft.html" target="_top">Next</a> »
+
+</div>
+
+<div class="blog">
+
+<div class="blogtitle">
+<table width="100%">
+<tbody><tr>
+<td align="left">Privacy Statement</td>
+<td align="right"><a href="http://news.netcraft.com/archives/about_netcraft.html" target="_top">About Netcraft</a></td>
+</tr>
+</tbody></table>
+</div>
+<div class="blogbody">
+<p>
+Netcraft has created this privacy statement covering its web sites in order to
+demonstrate our commitment to privacy. This Privacy Policy explains the
+information gathering and dissemination practices for our Web sites in the
+netcraft.com, netcraft.co.uk, and netcraft.net domains, and for people using
+the Netcraft Toolbar and how this information is used. If you have any queries
+or requests concerning your personal information, please contact us at
+<a href="mailto:webmaster@netcraft.com">webmaster@netcraft.com</a>.
+
+</p>
+
+
+<ul>
+
+<li><b>Information Automatically Logged</b>
+<p>
+We use your IP address to help diagnose problems with our server and to
+administer our Web site. Your IP address may also used to display regional
+advertising banners. 
+</p>
+</li>
+
+<li><b>Advertisers</b>
+<p>
+Sometimes advertisers may use third party banner servers to display banners on
+our site. These servers are not under Netcraft's control. 
+</p>
+
+</li>
+
+<li><b>Cookies</b>
+<p>
+Netcraft uses cookies in areas of the site requiring authentication, and as
+part of its banner serving system.
+</p>
+
+</li><li><b>Registration Forms</b>
+<p>
+Forms exist on our site that require users to submit contact information (an
+email address). This information is used to send Netcraft articles and
+promotional information to interested visitors. Users may unsubscribe from
+receiving automated mail as a result of submitting this information. 
+</p>
+</li>
+
+<li><b>Enquiry and Order Forms</b>
+
+<p>
+Our site use enquiry and order forms for customers to request details of, and
+purchase, services. We collect contact information (such as invoice and mail
+addresses) and financial information (a credit card number). This information
+is used for contacting customers and for billing. 
+</p>
+</li>
+
+
+<li><b>External Links</b>
+<p>
+This site contains links to many other Web sites. Netcraft is not responsible for the privacy practices or the content of these sites. 
+</p>
+</li>
+
+<li><b>Security</b>
+<p>
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
+
+</p>
+</li>
+
+<li><b>The Netcraft Toolbar</b>
+
+<p>
+The Toolbar collects the following information:<br>
+</p><ul>
+<li>
+A unique identification reference is generated for each Toolbar installation.
+This is sent back to us when the Toolbar attempts to download updated versions
+of its software and is used for planning and licensing purposes. This is not
+sent as part of the Toolbar's normal operation when browsing the web. 
+</li>
+
+<li>
+Web sites (not URLs) visited when browsing the web. These are used to provide
+contextual reports and popularity ranking information for the site being
+browsed. 
+</li>
+
+<li>
+Secure hashes of URLs visited when browsing the web. These are used to defend
+against phishing sites by comparing the hash against a list of hashes of
+previously reported phishing URLs and blocking the page if a match is found.
+There is no other case in which we can determine the URL of the page you have
+visited from the hash which we receive. 
+</li>
+
+<li>
+The Toolbar does not collect any personal information except that described
+above. In particular, we do not collect personal information which can identify
+the browsing habits of individual users. 
+</li>
+</ul>
+<p></p>
+</li>
+
+<li><b>Use of Personal Information</b>
+<p>
+We process personal information collected through the web site and the Toolbar
+for the purposes of:<br>
+
+</p><ul>
+<li>
+Dealing with your enquiries, requests and reports of phishing URLs. 
+</li>
+<li>
+Providing you with information about updates and enhancements to our products and services. 
+</li>
+<li>
+Please contact us at <a href="mailto:webmaster@netcraft.com">webmaster@netcraft.com</a>
+if, at any time, you do not wish to receive information about our products or
+services. 
+</li>
+</ul>
+<p></p>
+</li>
+
+<li><b>Disclosures</b>
+<p>
+We will not sell or disclose personal information to any third parties except
+successors in title to our business and, if required, government bodies and law
+enforcement agencies. 
+</p>
+</li>
+
+<li><b>Access Rights</b>
+<p>
+You have a right to access the personal information held about you. To obtain a
+copy of the personal information we hold about you, please mail us at
+<a href="mailto:webmaster@netcraft.com">webmaster@netcraft.com</a>.
+</p>
+</li>
+
+<li><b>Contacting the Web Site</b>
+
+<p>
+If you have any questions about this privacy statement, contact
+<a href="mailto:webmaster@netcraft.com">webmaster@netcraft.com</a>.
+</p>
+</li>
+
+</ul>
+<a name="more"></a>
+
+<div class="posted">Posted by magnus at January  1, 2003 09:44 AM
+
+| <a href="http://www.netcraft.com/cgi-bin/Survey/subscription" target="_top">Subscribe</a>
+<br></div>
+
+</div>
+
+
+</div>
+<div class="navmenu">
+« <a href="http://news.netcraft.com/archives/2003/01/01/fair_use_copyright.html" target="_top">Previous</a> |
+
+<a href="/" target="_top">Up</a>
+| <a href="http://news.netcraft.com/archives/2003/01/01/visiting_netcraft.html" target="_top">Next</a> »
+
+</div>
+</div>
+</td>
+<td><div id="skyscraper">
+<script language="JavaScript" type="text/javascript">
+<!--
+   if (!document.phpAds_used) document.phpAds_used = ',';
+   document.write ("<" + "script language='JavaScript' type='text/javascript' src='");
+   document.write ("http://banners.netcraft.com/banneradmin/adjs.php?n=a7a0d565");
+   document.write ("&amp;what=zone:2&amp;source=newsskyscraper&amp;target=_blank&amp;withText=0");
+   document.write ("&amp;exclude=" + document.phpAds_used);
+   document.write ("'><" + "/script>");
+//-->
+</script><script language="JavaScript" type="text/javascript" src="http://banners.netcraft.com/banneradmin/adjs.php?n=a7a0d565&amp;what=zone:2&amp;source=newsskyscraper&amp;target=_blank&amp;withText=0&amp;exclude=,"></script><noscript><a href='http://banners.netcraft.com/banneradmin/adclick.php?n=a7a0d565' target='_blank'><img src='http://banners.netcraft.com/banneradmin/adview.php?what=zone:2&amp;source=newsskyscraper&amp;target=_blank&amp;n=a7a0d565' border='0' alt=''></a></noscript>
+</div>
+</td>
+</tr>
+<tr><td colspan="3">
+<div class="copyright">
+Copyright © Netcraft Ltd 2005<br>
+</div>
+
+</td></tr></tbody></table>
+
+
+</body></html>
