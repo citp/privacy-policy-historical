@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topdownloads.net privacy policy that was archived on 2004-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040624004923id_/http%3A//www.topdownloads.net/popups/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdownloads.net privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209192225id_/http%3A//www.topdownloads.net/popups/legal/privacy-policy.php) for the most accurate reproduction.*
 
-# Software Downloads - Download freeware and shareware software.
+# Software free software offers thousands of downloads - Download freeware software.
 
   
 At Topdwonloads Networks, we are committed to protecting your privacy. This privacy policy covers the exchange of personal information on this web site. The following points will be explained more detailed below: 
@@ -17,6 +17,6 @@ Information you provide when contacting us will only be used to respond adequatl
 
 Topdwonloads Networks will not disclose any of your personal information to any outside organization. All information you provide at this web site will be kept confidential. 
 
-* Make sure you've read the [Terms of Use](https://web.archive.org/web/20040624004923id_/http%3A//www.topdownloads.net/popups/legal/terms-of-use.php), which describes certain usage conditions. In short it says that the use of any of our services is at your own risk.
-* Topdwonloads Networks uses cookies so that you can create a personalized starpage. If you want to learn more about cookies, please read our [Cookie Statement](https://web.archive.org/web/20040624004923id_/http%3A//www.topdownloads.net/popups/legal/cookie-statement.php).
-* We are very concerned about your privacy. We don't provide any personal information to third parties. Please read our [Privacy Policy](https://web.archive.org/web/20040624004923id_/http%3A//www.topdownloads.net/popups/legal/privacy-policy.php) for more information on this subject. 
+* Make sure you've read the [Terms of Use](https://web.archive.org/web/20041209192225id_/http%3A//www.topdownloads.net/popups/legal/terms-of-use.php), which describes certain usage conditions. In short it says that the use of any of our services is at your own risk.
+* Topdwonloads Networks uses cookies so that you can create a personalized starpage. If you want to learn more about cookies, please read our [Cookie Statement](https://web.archive.org/web/20041209192225id_/http%3A//www.topdownloads.net/popups/legal/cookie-statement.php).
+* We are very concerned about your privacy. We don't provide any personal information to third parties. Please read our [Privacy Policy](https://web.archive.org/web/20041209192225id_/http%3A//www.topdownloads.net/popups/legal/privacy-policy.php) for more information on this subject. 
