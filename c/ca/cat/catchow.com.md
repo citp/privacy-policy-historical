@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catchow.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205054200id_/http%3A//catchow.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchow.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606233336id_/http%3A//www.catchow.com/privacy.asp) for the most accurate reproduction.*
 
-# Purina Cat Chow
+# Purina Cat Chow: Ralston Purina Internet Privacy Policy Notice
 
 |    
 
@@ -13,9 +13,7 @@ Ralston Purina ('Ralston') is dedicated to protecting your privacy on its Intern
 ****
 
 **Personally Volunteered Information**  
-We only collect personal information from our visitors on a voluntary basis. Personal information may include name, address, e-mail, types and names of pets, credit card information (in the case of electronic commerce only), etc. The personal information you volunteer to us is used to fulfill your request, provide you with information or to market products, events, and/or services which may be of interest to you. These offers may come directly from us, from our affiliates or from other reputable organizations whose privacy policies are in line with our own. Each offer is carefully examined to ensure that it meets our standards. Additionally, we try to make sure that these offers reach only those individuals most likely to be interested in them. If your personal information is to be used in any fashion other than the above mentioned, this intent will be expressly stated. 
-
-****
+We only collect personal information from our visitors on a voluntary basis. Personal information may include name, address, e-mail, types and names of pets, credit card information (in the case of electronic commerce only), etc. The personal information you volunteer to us is used to fulfill your request, provide you with information or to market products, events, and/or services which may be of interest to you. These offers may come directly from us, from our affiliates or from other reputable organizations whose privacy policies are in line with our own. Each offer is carefully examined to ensure that it meets our standards. Additionally, we try to make sure that these offers reach only those individuals most likely to be interested in them. Also, any information may be transferred (a) to an organization that purchases all or substantially all of Ralston Purina Company's assets or stock, (b) as required by law or by court order, or (c) as part of a reorganization or insolvency proceeding. If your personal information is to be used in any fashion other than the above mentioned, this intent will be expressly stated. ****
 
 **Other Personal Information**  
 Our Web server collects the domain names (not the e-mail addresses) of visitors to our Websites. This information is aggregated to measure basic usage data such as the number of visits, average time spent on the site, pages reviewed, etc. which is used by Ralston to improve the content of our Websites. 
