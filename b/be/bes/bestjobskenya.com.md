@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestjobskenya.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206031558id_/http%3A//www.bestjobskenya.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobskenya.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207103856id_/http%3A//www.bestjobskenya.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy policy - bestjobskenya.com
+# Privacy policy :: Best Jobs Kenya
 
 **PRIVACY POLICY**  
 ---  
