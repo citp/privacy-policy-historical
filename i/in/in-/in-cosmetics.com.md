@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the in-cosmetics.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211051730id_/http%3A//www.in-cosmetics.com/page.cfm/Link%3D3/NewSection%3DYes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the in-cosmetics.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410103324id_/http%3A//www.in-cosmetics.com/page.cfm/Link%3D3/NewSection%3DYes) for the most accurate reproduction.*
 
 # Privacy Pledge - in-cosmetics 2003 Exhibition : 1 Apr 2003 - 3 Apr 2003
 
