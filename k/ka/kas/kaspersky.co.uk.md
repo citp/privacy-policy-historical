@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaspersky.co.uk privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622151026id_/http%3A//www.kaspersky.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaspersky.co.uk privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204121436id_/http%3A//www.kaspersky.co.uk/privacy) for the most accurate reproduction.*
 
-# Kaspersky Labs - antivirus protection - protect your cyberspace
+# Kaspersky Lab - antivirus protection - protect your cyberspace
 
 ## Privacy policy
 
