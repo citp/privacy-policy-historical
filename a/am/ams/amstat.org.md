@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2003-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030620075033id_/http%3A//www.amstat.org/publications/amstat_online/policy/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amstat.org privacy policy that was archived on 2003-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031222211215id_/http%3A//www.amstat.org/publications/amstat_online/policy/privacy.html) for the most accurate reproduction.*
 
 # American Statistical Association
 
@@ -57,10 +57,14 @@ Members' contact information is made available through the Member Directory. Mem
 
 ### Security
 
+| [](https://digitalid.verisign.com/as2/PASTE%20YOUR%20ISSUER%20DIGEST%20NUMBER%20HERE) | 
+
 This site has security measures in place to protect against the loss, misuse, and alteration of the information under our control. Member personal information is behind a firewall, modifiable by each member only by password access through secure forms pages. Member Directory information is not accessible by search engines that hunt for HTML pages.
 
-Secured Server Certificate from VeriSign, Inc. is utilized to identify your secured connection to our Web site. Personal information ("Basic Contact Information") collected through our site are entered and transmitted over Secure Socket Layer (SSL) with a maximum encryption strength of 128-bit, which creates an encrypted session between the user browser and the Web server.
-
+Secured Server Certificate from VeriSign, Inc. is utilized to identify your secured connection to our Web site. Personal information ("Basic Contact Information") collected through our site are entered and transmitted over Secure Socket Layer (SSL) with a maximum encryption strength of 128-bit, which creates an encrypted session between the user browser and the Web server.  
+  
+---|---  
+  
 ### Correct/Update
 
 Members can change their address and related information at [ www.amstat.org/membersonly/](https://www.amstat.org/membersonly/)
