@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realcommercial.com.au privacy policy that was archived on 2003-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031211191605id_/http%3A//www.realcommercial.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dyz-all%26ag%3D%26cu%3Dfn-realcom%26id%3D734) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcommercial.com.au privacy policy that was archived on 2004-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040627115322id_/http%3A//www.realcommercial.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dyz-all%26ag%3D%26cu%3Dfn-realcom%26id%3D734) for the most accurate reproduction.*
 
-# realcommercial.com.au - commercial property for sale and lease
+# Commercial Real Estate and Business for Sale - realcommercial.com.au
 
 > **www.realcommercial.com.au** powered by realestate.com.au Ltd ("We", "our" and "us" in this Internet Privacy Policy). By using this site, you agree to the Internet Privacy Policy of our **www.realcommercial.com.au** web site ("the web site"), which is set out below. The Internet Privacy Policy relates to the collection and use of personal information you may supply to us through your conduct on the web site.
 > 
