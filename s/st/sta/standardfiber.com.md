@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the standardfiber.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611173510id_/http%3A//rfcoax.com/main/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardfiber.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207033212id_/http%3A//rfcoax.com/main/policy.html) for the most accurate reproduction.*
 
 # coaxial cable, rf connectors, rf cables
 
