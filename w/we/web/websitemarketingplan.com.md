@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203024521id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitemarketingplan.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603163537id_/http%3A//www.websitemarketingplan.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -34,7 +34,7 @@ In the event Web Site Marketing Plan.com goes through a business transition, suc
 
 The primary means of communication from the site is via the newsletter. When a user wishes to subscribe to the newsletter we ask for contact information such as email address. We send all new subscribers a welcoming email that includes unsubscribe instructions.
 
-Users who no longer wish to receive our newsletter and service announcements may opt-out of receiving these communications by sending an email to unsubscribe@WebSiteMarketingPlan.com with "unsubscribe" in the subject line. The subscriber may also contact us via facsimile at 413-793-2409, telephone at 314-477-8090, or postal mail at PO Box 270374, St. Louis, MO 63127.
+Users who no longer wish to receive our newsletter and service announcements may opt-out of receiving these communications by sending an email to unsubscribe@WebSiteMarketingPlan.com with "unsubscribe" in the subject line. The subscriber may also contact us via facsimile at 413-793-2409, telephone at 314-397-2050, or postal mail at PO Box 270374, St. Louis, MO 63127.
 
 **Special Offers and Updates**
 
@@ -60,9 +60,9 @@ This Web site contains links to other sites. Please be aware that we, Web Site M
 
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-Email: [Bobette@websitemarketingplan.com](mailto:Bobette@websitemarketingplan.com)  
+Email: [bkyle@websitemarketingplan.com](mailto:bkyle@websitemarketingplan.com)   
 Postal Mail: WebSiteMarketingPlan.com  
                       PO Box 270374  
                       St. Louis, MO 63127  
 Facsimile: 413-793-2409  
-Telephone: 314-477-8090
+Telephone: 314-397-2050
