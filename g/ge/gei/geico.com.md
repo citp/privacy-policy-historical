@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206133600id_/http%3A//geico.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geico.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330195130id_/http%3A//geico.com/privacy.htm) for the most accurate reproduction.*
 
-# Welcome to the GEICO Direct Insurance Web Site, The Sensible Alternative
+# Welcome to GEICO Direct®, The Sensible Alternative, Privacy Policy
 
 GEICO respects the fact that your on-line privacy is very important to you. We are continually developing our site with these concerns in mind. You have trusted us with your insurance needs for over 60 years, and it is important to us to maintain a high degree of integrity.  Therefore, GEICO does not sell or disclose your personal information to third parties for marketing purposes. In addition, we hold our employees to strict guidelines when collecting and/or reviewing your personal information. Below we discuss specific issues that may be of concern to you and your family. If you have additional questions after reviewing this policy, please contact us at the addresses provided at the end of this privacy policy statement.
 
