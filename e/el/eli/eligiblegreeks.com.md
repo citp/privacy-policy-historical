@@ -1,12 +1,16 @@
-> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2004-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040617180208id_/http%3A//eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41%26CFID%3D14259743%26CFTOKEN%3D71777307%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eligiblegreeks.com privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205224023id_/http%3A//eligiblegreeks.com/personals/privacy.cfm%3FsiteIDD%3D41) for the most accurate reproduction.*
 
-# Eligible Greeks - Privacy Policy
+# Eligible Greeks - Safe Online Dating Site for Greek Men and Women
 
-This Site(s) is owned and operated by World Singles Networks (“World Singles”). World Singles may be reached at (301) 294-0131, or by clicking [here](https://web.archive.org/web/20040617180208id_/http%3A//eligiblegreeks.com/personals/contact.cfm?siteIDD=41&CFID=944604&CFTOKEN=31711070&) . The following policies apply to this Site(s) and all other Affiliate/Partner websites.
+World Singles has created this Privacy Statement (Policy) in order to demonstrate our firm commitment to helping our users better understand what information we collect about them and what may happen to that information. 
+
+This Privacy Statement applies to all World Singles sites, including this one.
+
+This Site(s) is owned and operated by World Singles. World Singles may be reached at (301) 294-0131, or by clicking [here](https://web.archive.org/web/20041205224023id_/http%3A//eligiblegreeks.com/personals/contact.cfm?siteIDD=41) . The following policies apply to this Site(s) and all other Affiliate/Partner websites.
 
 **ABOUT WORLD SINGLES**
 
-World Singles is an online matchmaking service designed to provide an easy way for people to meet each other on the Internet. World Singles’ members create their own unique profile and may contact other paid/non-paid members through the system by purchasing a Platinum Membership. World Singles is a membership based service. World Singles collects credit card, address, or bank information only from those who choose to join its Site(s). All visitors to these Site(s) may browse the Site(s), search the ads and view any articles or features on the Site(s) without entering any personal information. 
+World Singles is an online matchmaking service designed to provide an easy way for Greek men and women to meet each other for friendship or dating on the Internet. World Singles’ members create their own unique profile and may contact other paid/non-paid members through the system by purchasing a Platinum Membership. World Singles is a membership based service. World Singles collects credit card, address, or bank information only from those who choose to join its Site(s). All visitors to these Site(s) may browse the Site(s), search the ads and view any articles or features on the Site(s) without entering any personal information. 
 
 **INFORMATION SUBMITTED TO WORLD SINGLES**
 
@@ -41,6 +45,21 @@ World Singles takes every reasonable precaution to protect its users' informatio
 
 World Singles reserves the right to change or update at any time its Privacy Policy, or any other World Singles policy or practice. Any changes or updates will be effective immediately upon posting to the World Singles Site(s).
 
-**CONTACTING THE SITE(S)**
+**CORRECTING/UPDATING OR REMOVING INFORMATION**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact World Singles by clicking [here](https://web.archive.org/web/20040617180208id_/http%3A//eligiblegreeks.com/personals/contact.cfm?siteIDD=41&CFID=944604&CFTOKEN=31711070&) \- Thank you for your continued support!
+EligibleGreeks.com provides members the following options for modifying information previously submitted. 
+
+  1. Members may change their credit card, password and other information by going to View/Edit Profile page. 
+  2. Send email via the [contact form](https://web.archive.org/web/20041205224023id_/http%3A//eligiblegreeks.com/personals/contact.cfm?siteIDD=41) on the site.
+  3. You can send mail to the following postal address: 
+
+Eligible Greeks / World Singles  
+P.O. Box 34177  
+West Bethesda, MD 20827-0177  
+U.S.A.
+
+**CONTACTING THE WEBSITE**
+
+If you have any questions about this Privacy Statement, the practices of this site, or your dealings with the EligibleGreeks.com website, you can contact: 
+
+[info@worldsingles.com](mailto:info@worldsingles.com) or call us at +1-301-294-0131.
