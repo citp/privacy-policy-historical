@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the united.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205025127id_/http%3A//www.united.com/page/article/0%2C1360%2C1002%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the united.com privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622031651id_/http%3A//www.united.com/page/article/0%2C6722%2C1002%2C00.html) for the most accurate reproduction.*
 
 # united.com - Privacy Policy
 
 | | Quick links:  
 ---|---  
-|  [ Shop for flights](https://web.archive.org/link/0,1394,600,00.html?navSource=QuickLinks&linkTitle=Shop+for+flights)  
-|  [ Fly with Ted](https://web.archive.org/page/article/0,1360,50626,00.html?navSource=QuickLinks&linkTitle=Fly+with+Ted)  
-|  [ Special deals](https://web.archive.org/link/0,1394,601,00.html?navSource=QuickLinks&linkTitle=Special+deals)  
-|  [ Vacation packages](https://web.archive.org/page/article/0,1360,1028,00.html?navSource=QuickLinks&linkTitle=Vacation+packages)  
-|  [ Mileage summary](https://web.archive.org/link/0,1394,3120,00.html?navSource=QuickLinks&linkTitle=Mileage+summary)  
-|  [ Customer support](https://web.archive.org/page/article/0,1360,1277,00.html?navSource=QuickLinks&linkTitle=Customer+support)  
+|  [ Special deals](https://web.archive.org/link/0,6746,601,00.html?navSource=QuickLinks&linkTitle=Special+deals)  
+|  [ Fly with Ted](https://web.archive.org/link/0,6746,52696,00.html?navSource=QuickLinks&linkTitle=Fly+with+Ted)  
+|  [ Shop for flights](https://web.archive.org/link/0,6746,600,00.html?navSource=QuickLinks&linkTitle=Shop+for+flights)  
+|  [ Vacation packages](https://web.archive.org/page/article/0,6722,1028,00.html?navSource=QuickLinks&linkTitle=Vacation+packages)  
+|  [ Mileage summary](https://web.archive.org/link/0,6746,3120,00.html?navSource=QuickLinks&linkTitle=Mileage+summary)  
+|  [ Customer support](https://web.archive.org/page/article/0,6722,1277,00.html?navSource=QuickLinks&linkTitle=Customer+support)  
   
 | 
 
