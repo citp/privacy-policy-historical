@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604190027id_/http%3A//www.doctorswithoutborders.org/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doctorswithoutborders.org privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017064757id_/http%3A//www.doctorswithoutborders.org/privacy.shtml) for the most accurate reproduction.*
 
 # MSF-USA: Privacy Policy
 
