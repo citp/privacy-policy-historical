@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktools.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604014008id_/http%3A//www.clicktools.com/generic.php3%3Foption%3Dprivacy%26playerID%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktools.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209135047id_/http%3A//www.clicktools.com/generic.php3%3Foption%3Dprivacy%26playerID%3D) for the most accurate reproduction.*
 
 # clicktools.com - generic
 
