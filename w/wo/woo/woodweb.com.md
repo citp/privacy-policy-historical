@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the woodweb.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607222531id_/http%3A//www.woodweb.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodweb.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207062107id_/http%3A//www.woodweb.com/privacypolicy.html) for the most accurate reproduction.*
 
 # WOODWEB's Privacy Policy
 
-|        
+[](https://web.archive.org/) |        
 ---|---  
   
-[Return to previous page](https://web.archive.org/web/20020607222531id_/http%3A//www.woodweb.com/\(none\))
+[Return to previous page](https://web.archive.org/web/20021207062107id_/http%3A//www.woodweb.com/\(none\))
 
 Your use of the WOODWEB Web site constitutes your agreement to this privacy policy and consent to the terms herein.
 
@@ -53,4 +53,4 @@ If you have any questions regarding this privacy policy you can contact WOODWEB 
 
 WOODWEB may from time to time change this privacy policy with or without notice, so please check it regularly for any changes or updates. For future reference, WOODWEB will make a link to the current privacy policy available to you on your screen when you are on our Web site. Your use of the site constitutes your agreement to this privacy policy and your assent to any modification thereto.
 
-[Return to previous page](https://web.archive.org/web/20020607222531id_/http%3A//www.woodweb.com/\(none\))
+[Return to previous page](https://web.archive.org/web/20021207062107id_/http%3A//www.woodweb.com/\(none\))
