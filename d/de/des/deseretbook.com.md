@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the deseretbook.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205083700id_/http%3A//deseretbook.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deseretbook.com privacy policy that was archived on 2001-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010204143500id_/http%3A//deseretbook.com/help/privacy.html) for the most accurate reproduction.*
 
 # DeseretBook.com's Privacy Policy
 
-[](https://web.archive.org/) | [Books](https://web.archive.org/browse/books/index.html) | [Music](https://web.archive.org/browse/music/index.html) | [Art](https://web.archive.org/browse/art/index.html) | [Jewelry](https://web.archive.org/browse/jewelry/index.html) | [Scriptures](https://web.archive.org/browse/scriptures/index.html) | [Clothing](https://web.archive.org/browse/clothing/index.html) | [Software](https://web.archive.org/browse/software/index.html) | [ _More..._](https://web.archive.org/browse/)   
----|---  
-[](https://web.archive.org/) |     
-   **[Home](https://web.archive.org/ "Return to the DeseretBook.com home page")** **·** **[Bestsellers](https://web.archive.org/bestsellers/ "Browse our bestellers")** **·** **[Browse Categories](https://web.archive.org/browse/ "Browse titles by subject")** **·** **[Gift Ideas](https://web.archive.org/gifts/ "Looking for that perfect gift? We can help...")** **·** **[On Sale](https://web.archive.org/sale/ "Our current sale items and other hot deals")** **·** **[Your Account](https://deseretbook.com/account/ "Review the status of your current and past orders")** **·** **[Help](https://web.archive.org/help/ "Need assistance? Click here for help.")** **·** [](https://web.archive.org/cart/?back_url=%2fhelp%2fprivacy%2ehtml)  
-  
 ## [Help](https://web.archive.org/help/) / Privacy Policy
 
 > DeseretBook.com is committed to providing you with a secure and private online shopping experience. This privacy policy is our promise to you that the data we collect through this Web site will be used in a manner consistent with that commitment. 
