@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2001-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010627182117id_/http%3A//www.solveyourproblem.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solveyourproblem.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611204235id_/http%3A//www.solveyourproblem.com/privacy.html) for the most accurate reproduction.*
 
 # SolveYourProblem.com - Our Privacy Policy
 
@@ -26,6 +26,6 @@ If you send an e-mail message to us or complete a questionnaire, form, or other 
 
 We do not disclose, give, sell, or transfer any personal information about our web site visitors unless required for law enforcement or otherwise required by law.
 
-This site is maintained by SolveYourProblem.com, Inc. and is copyrighted and protected by various U.S. Laws. Violations are subject to criminal prosecution in federal court.
+This site is owned by Launch 3, LLC and is copyrighted and protected by various U.S. Laws. Violations are subject to criminal prosecution in federal court.
 
 For site security purposes and to ensure that this service remains available to all users, we employ software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
