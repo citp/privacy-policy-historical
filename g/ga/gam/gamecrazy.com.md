@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607015233id_/http%3A//www.gamecrazy.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamecrazy.com privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202105825id_/http%3A//www.gamecrazy.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,13 +25,13 @@ Our site's Features registration form requires users to give us their name and e
 This site gives users the following options for removing their information from our database to not receive further communication or to no longer receive our service.
 
   1. You can follow the instructions in the e-mail that you receive. 
-  2. You can send e-mail to [privacy@gamecrazy.com](mailto:privacy@gamecrazy.com)
+  2. You can send e-mail to [privacy@hollywoodvideo.com](mailto:privacy@hollywoodvideo.com)
 
 
 
 **Correct/Update**
 
-You may change or update information previously provided to us by sending an e-mail to [webprod@gamecrazy.com](mailto:webprod@gamecrazy.com) with the correct information. You must promptly update your information if it changes.
+You may change or update information previously provided to us by sending an e-mail to [games-webproducer@hlyw.com](mailto:games-webproducer@hlyw.com) with the correct information. You must promptly update your information if it changes.
 
 **Contacting the Website**
 
@@ -42,4 +42,4 @@ Game Crazy Stores
 Hollywood Entertainment Corporation  
 9275 SW Peyton Lane  
 Wilsonville, OR 97070  
-[webprod@gamecrazy.com](mailto:webprod@gamecrazy.com)
+[games-webproducer@hlyw.com](mailto:games-webproducer@hlyw.com)
