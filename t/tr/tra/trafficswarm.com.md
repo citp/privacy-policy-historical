@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207062936id_/http%3A//www.trafficswarm.com/privacy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficswarm.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602172701id_/http%3A//trafficswarm.com/privacy.pl) for the most accurate reproduction.*
 
-# A Swarm of Traffic to Your Site! - TrafficSwarm.com
+# A Swarm of Free Traffic to Your Site Guaranteed! Get Targeted Free Advertising with TrafficSwarm.com
 
   
   
@@ -52,4 +52,5 @@ If you have any questions about this privacy statement, the practices of this we
 **[Home](https://web.archive.org/) • [How It Works](https://web.archive.org/howitworks.pl) • [Join for Free](https://web.archive.org/joinfree.pl) • [Contact Us](https://web.archive.org/contactus.pl)**
 
 Copyright © 2002. TrafficSwarm.com. All Rights Reserved.  
-[Advertise](https://web.archive.org/advertise.pl) • [Terms of Service](https://web.archive.org/tos.pl) • Privacy Policy • [Cancel Account](https://web.archive.org/cancelacct.pl) • [Report Abuse](https://web.archive.org/abuse.pl)
+[Advertise](https://web.archive.org/advertise.pl) • [Terms of Service](https://web.archive.org/tos.pl) • [Anti-Cheat](https://web.archive.org/anticheat.pl) • Privacy Policy • [Cancel Account](https://web.archive.org/cancelacct.pl) • [Report Abuse](https://web.archive.org/abuse.pl)  
+
