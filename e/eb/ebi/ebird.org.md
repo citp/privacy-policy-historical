@@ -1,25 +1,26 @@
-> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004151530id_/http%3A//www.ebird.org/content/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebird.org privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611030127id_/http%3A//www.ebird.org/content/privacyStatement.html) for the most accurate reproduction.*
 
 # eBird || North America's destination for birding on the Web
 
-PRIVACY POLICY  
+**PRIVACY POLICY**  
 eBird is designed to gather and disseminate information about bird distribution and abundance across the United States and Canada. 
 
 Submitted Information  
 Personal Information is voluntarily supplied by you when you register and submit data to eBird. By registering, you allow us to associate your bird observations with a unique identifier (login name), so that you can track your personal observations (e.g., life lists and backyard lists). If you submit an unusual observation, we may e-mail you to request more details. Profile Information allows us to gain a better understanding of the eBird participants and to determine how best to improve the web site for eBird users. 
 
-Bird Observations are the most important pieces of information that we collect. All details of an observation and its associated location (species, numbers, etc.) are available to all users registered with eBird. However, only information pertaining to bird observations is available to eBird users; no personal information is ever made public. 
+Bird observations are the most important pieces of information that we collect. All details of an observation and its associated location (species, numbers, etc.) are available to all users registered with eBird. However, only information pertaining to bird observations is available to eBird users; no personal information is ever made public. 
 
-Sensitive Species Because a primary goal of eBird is to maintain a universally accessible, centralized database of bird observations, the bird observations you submit are available to all eBird users (eBirders), scientists, and others who are interested in examining the distribution, abundance, and trends of North American bird species. 
+Sensitive Species  
+Because a primary goal of eBird is to maintain a universally accessible, centralized database of bird observations, the bird observations you submit are available to all eBird users (eBirders), scientists, and others who are interested in examining the distribution, abundance, and trends of North American bird species. 
 
 eBirders are able to view their personal observations, observations of others, and observations made at Birding Hot Spots. Please be aware that your observations of sensitive species and their locations will be available to other eBird users. 
 
-As conservation organizations, the Cornell Lab of Ornithology and the National Audubon Society seek to limit disturbance to birds especially at sensitive locations such as nest and roost sites. If you are not familiar with the American Birding Associations Principles of Birding Ethics
+As conservation organizations, the Cornell Lab of Ornithology and the National Audubon Society seek to limit disturbance to birds especially at sensitive locations such as nest and roost sites. If you are not familiar with the American Birding Association's [Principles of Birding Ethics](http://www.americanbirding.org/abaethics.htm), we encourage you to review them. 
 
-, we encourage you to review them. 
-
-Cookies Cookies are pieces of data that we store on your computer to tie your information to the eBird program. Cookies allow you to store your login information, so that you will not be required to log in each time you visit the eBird web site. 
+Cookies  
+Cookies are pieces of data that we store on your computer to tie your information to the eBird program. Cookies allow you to store your login information, so that you will not be required to log in each time you visit the eBird web site. 
 
 Internet browsers allow you to determine whether or not to accept cookies (check under the preferences or options in the browser menu). If you decide not to accept cookies, you can still use the eBird site, but you will need to re-enter login information each time you visit. 
 
-Changes to This Privacy Policy We may occasionally update or amend eBirdÃs Privacy Statement. If we make changes, we will post the changes here. 
+Changes to This Privacy Policy  
+We may occasionally update or amend eBird's Privacy Statement. If we make changes, we will post the changes here. 
