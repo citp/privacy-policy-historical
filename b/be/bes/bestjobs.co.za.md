@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bestjobs.co.za privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206221447id_/http%3A//www.bestjobs.co.za/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobs.co.za privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204080008id_/http%3A//www.bestjobs.co.za/privacy.htm) for the most accurate reproduction.*
 
-# Privacy policy - bestjobs.co.za
+# Privacy policy :: Best Jobs South Africa
 
 | [](https://web.archive.org/) |  |  |   
 ---|---|---|---|---  
@@ -103,7 +103,6 @@ Click here to add Best Jobs South Africa to your favorites
 
 **Click here to make Best Jobs South Africa your home page**
 
-This site is a member of the **[Best Jobs Network](http://www.bestjobsnetwork.com/) & [CompuTrabajo](http://www.computrabajo.com/)**  
 Copyright © DGnet Ltd.
 
 | 
