@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamaicandates.com privacy policy that was archived on 2004-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040605164427id_/http%3A//jamaicandates.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamaicandates.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206230604id_/http%3A//www.jamaicandates.com/ppolicy.php) for the most accurate reproduction.*
 
 # Jamaican Dates - Jamaica's Online Dating Service, Jamaica Personals, Find an online friend here, Meet your future soulmate, Jamaican Dating
 
