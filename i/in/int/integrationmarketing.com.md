@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integrationmarketing.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208024625id_/http%3A//www.integrationmarketing.com/privacy_policy.omm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integrationmarketing.com privacy policy that was archived on 2005-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050313030106id_/http%3A//www.integrationmarketing.com/privacy_policy.omm) for the most accurate reproduction.*
 
 # Privacy Policy
 
