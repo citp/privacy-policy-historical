@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017031545id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diversalertnetwork.org privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621084855id_/http%3A//www.diversalertnetwork.org/privacy.asp) for the most accurate reproduction.*
 
 # Divers Alert Network : Privacy Policy
 
@@ -40,7 +40,6 @@ Will DAN disclose the information it collects to outside parties?
 Other than DAN, what companies provide DAN membership benefits? 
 
   * **MBNA America:** DAN Members are eligible to apply for the DAN/MBNA MasterCard credit card from MBNA America. Each time the card is used, DAN receives additional funding that supports its mission of improving dive safety. Although MBNA may contact existing DAN/MBNA MasterCard cardholders regarding their account, MBNA is legally prevented from using the Member’s information for any other purpose. If you do not want to receive information about the DAN/MBNA MasterCard, please contact DAN Membership Services at 1-800-446-2671 or +1-919-684-2948. 
-  * **Skin Diver Magazine:** DAN Members automatically receive a subscription to Skin Diver magazine, Alert Diver Edition. In return for being able to offer this additional membership benefit, Skin Diver has agreed to pay for the printing and distribution costs of Alert Diver magazine. To protect your privacy, both magazines are mailed, under contract, by a third party distribution facility. This contract legally prevents Skin Diver and the distribution facility from using DAN information for any other purposes. If you do not wish to receive Skin Diver, Alert Diver Edition, please contact DAN Membership Services at 1-800-446-2671 or +1-919-684-2948. 
   * **Palancar Industries:** DAN Members are eligible to purchase the DAN Tag™, which is manufactured by Palancar Industries. Palancar only receives what personal information the DAN Member voluntarily submits when ordering the product. DAN does not provide any additional information about a DAN Member to Palancar Industries. 
 
 
@@ -63,4 +62,4 @@ Other than DAN, what companies provide DAN membership benefits?
 
 
 
-[](mailto:?subject=Interesting%20Page%20on%20DAN%20Site&body=http%3A%2F%2Fwww%2EDiversAlertNetwork%2Eorg%2Fprivacy%2Easp%3F%26ASIMPR%3D19%26ASTAGS%3DAd%2ESize%2EBanner%2Bhome)
+[](mailto:?subject=Interesting%20Page%20on%20DAN%20Site&body=http%3A%2F%2Fwww%2EDiversAlertNetwork%2Eorg%2Fprivacy%2Easp%3F%26ASIMPR%3D23%26ASTAGS%3DAd%2ESize%2EBanner%2Bhome)
