@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jumpstart.com privacy policy that was archived on 2002-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020610080216id_/http%3A//www.education.com/home/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jumpstart.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214013943id_/http%3A//www.education.com/home/privacy.jsp) for the most accurate reproduction.*
 
 # education.com
 
@@ -26,7 +26,7 @@ Whenever you visit a web site that displays the ESRB Privacy Online certificatio
 
 
 
-If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact Jane Kern, Member Services by email at [jkern@education.com](mailto:jkern@education.com), by phone toll free at (877) 508-1124, or by postal mail at: education.com, ATTN: Jane Kern, 19840 Pioneer Avenue, Torrance, CA 90503. You can also contact ESRB Privacy Online directly at (212) 759-0700 or by regular mail at 845 Third Avenue, New York, NY 10022. 
+If you have any questions, complaints, or comments regarding our privacy statement or policies, please contact Ted Spence, Member Services by email at [privacy@education.com](mailto:privacy@education.com), by postal mail at: education.com, ATTN: Ted Spence, 10940 Wilshire Blvd., 9th Floor, Los Angeles, CA 90024. You can also contact ESRB Privacy Online directly at (212) 759-0700 or by regular mail at 845 Third Avenue, New York, NY 10022. 
 
 **
 
@@ -42,7 +42,7 @@ Tell-A-Friend
 
 _
 
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. education.com will automatically send the friend a one-time email inviting them to visit the site. education.com stores this information for the sole purpose of sending this one-time email. The friend may contact education.com at [jkern@education.com](mailto:jkern@education.com) to request the removal of this information from our database.
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. education.com will automatically send the friend a one-time email inviting them to visit the site. education.com stores this information for the sole purpose of sending this one-time email. The friend may contact education.com at [privacy@education.com](mailto:privacy@education.com) to request the removal of this information from our database.
 
 **
 
@@ -92,7 +92,7 @@ Opt-Out
 
 **
 
-To keep you in control of your personal information and the communications directed to you, you may opt-out from: (1) having your personal information shared with our partners; (2) receiving communications from education.com about new features or services; (3) receiving communications from third-party companies offering a product or service that we think would be of value to you; and/or, (4) any marketing or promotional use of your personal information. To stop any of the uses above, simply send an email to [jkern@education.com](mailto:jkern@education.com) or modify your member information online by visiting the Member profile/preferences section at education.com.
+To keep you in control of your personal information and the communications directed to you, you may opt-out from: (1) having your personal information shared with our partners; (2) receiving communications from education.com about new features or services; (3) receiving communications from third-party companies offering a product or service that we think would be of value to you; and/or, (4) any marketing or promotional use of your personal information. To stop any of the uses above, simply send an email to [privacy@education.com](mailto:privacy@education.com) or modify your member information online by visiting the Member profile/preferences section at education.com.
 
 **
 
@@ -100,7 +100,7 @@ What do I do if I want to correct or review my personal information?
 
 **
 
-To access, review, correct or delete the personal information already collected about you; or, to remove or modify the services provided to you by education.com, please visit the Member profile/preferences section of our site or contact our Customer Support organization at [jkern@education.com](mailto:jkern@education.com), and we will be happy to review, update or remove information as appropriate. 
+To access, review, correct or delete the personal information already collected about you; or, to remove or modify the services provided to you by education.com, please visit the Member profile/preferences section of our site or contact our Customer Support organization at [privacy@education.com](mailto:privacy@education.com), and we will be happy to review, update or remove information as appropriate. 
 
 **
 
@@ -148,8 +148,8 @@ What if I have a question or complaint?
 
 **
 
-Any questions or complaints about education.com or this privacy policy can be resolved by contacting (877) 508-1124, via email at [jkern@education.com](mailto:jkern@education.com), or by writing to Jane Kern, Member Services at: education.com, ATTN: Jane Kern, 19840 Pioneer Avenue, Torrance, CA 90503. 
+Any questions or complaints about education.com or this privacy policy can be resolved by contacting via email at [privacy@education.com](mailto:privacy@education.com), or by writing to Ted Spence, Member Services at: education.com, ATTN: Ted Spence, 10940 Wilshire Blvd., 9th Floor, Los Angeles, CA 90024. 
 
 _Last Updated April 25, 2002_
 
-Back
+  Back
