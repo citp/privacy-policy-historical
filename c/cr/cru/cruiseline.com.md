@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruiseline.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211185415id_/http%3A//www.mytravelco.com/about_us/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruiseline.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604050605id_/http%3A//www.mytravelco.com/about_us/privacy.asp) for the most accurate reproduction.*
 
 # MyTravel.com
 
