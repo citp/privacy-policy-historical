@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ablongman.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405043242id_/http%3A//www.ablongman.com/privacy/1%2C2909%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ablongman.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211233415id_/http%3A//www.ablongman.com/privacy/1%2C2909%2C%2C00.html) for the most accurate reproduction.*
 
 # Allyn & Bacon/Longman: Online Privacy Policy
 
@@ -17,8 +17,8 @@ In addition, users should be reminded that any Personal Identifying Information 
 * * *
 
   
-**COLLEGE:** [Catalog](http://www.ablongman.com/catalog/1,2360,,00.html) | [Faculty Center](http://www.ablongman.com/faculty/1,2599,,00.html) | [Student Center](http://www.ablongman.com/student/1,2211,,00.html) | [Author Center](http://www.ablongman.com/author/1,2185,,00.html)
+**COLLEGE:** [Catalog](http://www.ablongman.com/catalog/1,2360,,00.html) | [Faculty Center](http://www.ablongman.com/faculty/1,2599,,00.html) | [Student Center](http://www.ablongman.com/student/1,2211,,00.html) | [Author Center](http://www.ablongman.com/author/1,2185,,00.html) | [Adjunct Center](http://www.ablongman.com/adjuncts/0,4648,,00.html)
 
-[Customer Support](http://www.ablongman.com/contact/1,2214,,00.html) | [Technology Solutions](http://www.abinteractive.com/techsolutions/1,3034,,00.html) | [Allyn & Bacon/Longman Home](http://www.ablongman.com/)
+[Customer Support](http://www.ablongman.com/contact/1,2214,,00.html) | [Technology Solutions](http://www.ablongman.com/html/techsolutions) | [Allyn & Bacon/Longman Home](http://www.ablongman.com/)
 
- **A &B PROFESSIONAL BOOKS:** [Professional Catalog](http://www.ablongman.com/professional/catalog/1,2319,,00.html)
+**A &B PROFESSIONAL BOOKS:** [Professional Catalog](http://www.ablongman.com/professional/catalog/1,2319,,00.html)
