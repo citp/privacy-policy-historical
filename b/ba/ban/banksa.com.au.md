@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the banksa.com.au privacy policy that was archived on 2001-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011123210039id_/http%3A//banksa.com.au/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banksa.com.au privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603162520id_/http%3A//banksa.com.au/banksa/privacy_policy.asp) for the most accurate reproduction.*
 
-# Welcome to BankSA
+# BankSA Privacy Policy
+
+Privacy Policy   
+
+Protecting your Privacy  - 
 
 **Our privacy assurance to you**
 
