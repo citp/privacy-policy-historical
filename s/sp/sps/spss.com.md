@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2000-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001206125800id_/http%3A//www.spss.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spss.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604155152id_/http%3A//www.spss.com/privacy.htm) for the most accurate reproduction.*
 
 # Product and Service Inquiries
 
@@ -138,7 +138,7 @@ SPSS gives you options wherever necessary and practical. Such choices include:
 
 _**
 
-SPSS offers you the ability to correct and update the information collected during registration for our site. The instructions for doing this can be found in our Customer Services area at [http://www.spss.com/service/](https://web.archive.org/service/). You may change this information at any time and as often as necessary. In addition to changing your personal registration information, you may also change your e-mail subscription status to receive or not receive e-mail newsletters and other types of e-mail communication from SPSS Inc. If you are experiencing problems or have any questions about how our services work, you can contact us at [webmaster@spss.com](mailto:webmaster@spss.com) .
+SPSS offers you the ability to correct and update the information collected during registration for our site. The instructions for doing this can be found in our Customer Services area at [http://www.spss.com/custsrv/](https://web.archive.org/custsrv/). You may change this information at any time and as often as necessary. In addition to changing your personal registration information, you may also change your e-mail subscription status to receive or not receive e-mail newsletters and other types of e-mail communication from SPSS Inc. If you are experiencing problems or have any questions about how our services work, you can contact us at [webmaster@spss.com](mailto:webmaster@spss.com) .
 
  ** _
 
