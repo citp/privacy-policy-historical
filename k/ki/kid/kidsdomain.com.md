@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the kidsdomain.com privacy policy that was archived on 2000-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000611010751id_/http%3A//www.kidsdomain.com/FAQ/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidsdomain.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205050800id_/http%3A//kidsdomain.com/FAQ/privacy.html) for the most accurate reproduction.*
 
-# Kid's Domain Privacy Policy
+# Kids Domain Privacy Policy
 
 | 
 
 ##  PRIVACY STATEMENT
 
 Hey Kids!  
-Hey Parents! We at the Kid's Domain want everyone's visit here to be safe. This statement tells you how we do that. Specifically, we'll tell you what information we collect from visitors ("Visitors") to the the Kidsdomain.com Web site (the "Site"), and how we use such information. If we make any changes to this statement they will be posted on this page and will be effective when posted. Your continued use of this Site following the posting of any change shows your acceptance of the changes. 
+Hey Parents! We at Kids Domain want everyone's visit here to be safe. This statement tells you how we do that. Specifically, we'll tell you what information we collect from visitors ("Visitors") to the Kidsdomain.com Web site (the "Site"), and how we use such information. If we make any changes to this statement they will be posted on this page and will be effective when posted. Your continued use of this Site following the posting of any change shows your acceptance of the changes. 
+
+We are compliant with the Children's Online Privacy Protection Act (Coppa). 
 
 **KIDS NOTICE**
 
@@ -55,7 +57,7 @@ Our Site uses industry standard security measures to protect against the loss, m
 
 **V. OTHER WEB SITES; LINKS**
 
-The content of the Kid's Domain Site is designed for family use. In addition to our own content, we also provide links to software publishers and sites children may be interested in. We do screen the other sites initially, but in the end, we cannot be responsible for what appears on other sites. We are also not responsible for the privacy policies of those other sites. 
+The content of the Kids Domain Site is designed for family use. In addition to our own content, we also provide links to software publishers and sites children may be interested in. We do screen the other sites initially, but in the end, we cannot be responsible for what appears on other sites. We are also not responsible for the privacy policies of those other sites. 
 
 **VI. ACCESS; CORRECT; UPDATE**
 
@@ -70,7 +72,7 @@ For the Grownups Newsletter: [www.kidsdomain.com/grown/grown_newsletter.cgi](htt
 
 
    
-Thanks, and we hope your visit to the Kid's Domain is fun! 
+Thanks, and we hope your visit to the Kids Domain is fun! 
 
 Kids Domain  
 PMB 245  
@@ -80,9 +82,9 @@ Bedford, TX 76022
 [Tigger@KidsDomain.com](mailto:tigger@kidsdomain.com) 
 
 
-[Kids Home](https://web.archive.org/web/20000611010751id_/http%3A//www.kidsdomain.com/kids.html) \- [Grownups Place](https://web.archive.org/web/20000611010751id_/http%3A//www.kidsdomain.com/grown.html) \- [KD Review](https://web.archive.org/web/20000611010751id_/http%3A//www.kidsdomain.com/review/) \- [Downloads](https://web.archive.org/web/20000611010751id_/http%3A//www.kidsdomain.com/down/)
+[Kids Home](https://web.archive.org/web/20001205050800id_/http%3A//kidsdomain.com/kids.html) \- [Grownups Place](https://web.archive.org/web/20001205050800id_/http%3A//kidsdomain.com/grown.html) \- [KD Review](https://web.archive.org/web/20001205050800id_/http%3A//kidsdomain.com/review/) \- [Downloads](https://web.archive.org/web/20001205050800id_/http%3A//kidsdomain.com/down/)
 
-The Kid's Domain - www.kidsdomain.com  
+The Kids Domain - www.kidsdomain.com  
 © 2000 Attitude Network, Ltd., part of theglobe.com network, All Rights Reserved  
-Kid's Domain and the Kid's Domain Logo are service marks of Attitude Network, Ltd.  
+Kid's Domain and the Kids Domain Logo are service marks of Attitude Network, Ltd.  
 Send comments and suggestions to: [tigger@kidsdomain.com](mailto:tigger@kidsdomain.com)
