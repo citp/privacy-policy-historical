@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2001-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011019040359id_/http%3A//www.kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinderart.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152952id_/http%3A//kinderart.com/legal/privacy.htm) for the most accurate reproduction.*
 
 # KinderArt - Privacy Policy
 
@@ -10,7 +10,7 @@ KinderArt c/o Jarea Art Studio
 
 Our e-mail address is: [learn@kinderart.com](mailto:learn@kinderart.com)
 
-You can reach us via telephone (10am - 8pm eastern time) at: 506-529-8417 
+You can reach us via telephone at: 506-529-8417 
 
 For each visitor to our Web page, our Web server automatically recognizes the visitor's domain name (where possible). We sometimes view the domain names of visitors (as a whole) to our Web page, the e-mail addresses of those who sign up for the free KinderArt Newsletter and of those who post messages to our Bulletin Boards. 
 
