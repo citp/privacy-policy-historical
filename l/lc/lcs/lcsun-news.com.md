@@ -1,41 +1,39 @@
-> *The following text is extracted and transformed from the lcsun-news.com privacy policy that was archived on 2002-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020403021158id_/http%3A//www.lcsun-news.com/Stories/0%2C1002%2C7494%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lcsun-news.com privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216041648id_/http%3A//www.lcsun-news.com/Stories/0%2C1413%2C115%25257E7494%25257E%2C00.html) for the most accurate reproduction.*
 
 # Las Cruces Sun~News
 
-| [Privacy Policy](https://web.archive.org/Stories/0,1002,7494,00.html)  
+| [News](https://web.archive.org/Stories/0,1413,115%257E7444%257E,00.html)  
 ---  
-   
- [Medical Directory Spring 2002](http://adserver1.harvestadsdepot.com/mednmlcsn/ss/000407/)  
-   
- [New Mexico Cars](http://newmexico.autochooser.com/publisher_files/index.html)  
-   
- [Classifieds](http://localnet.abracat.com/lascruces/index.html)  
-  [Health Care Employment Opportunities](http://adserver1.harvestadsdepot.com/mednmlcsn/ss/HealthCare/)  
-  [MoreCities-Choices](http://www.abracat.com/abracat/index.jsp)  
-   
- [News](https://web.archive.org/Stories/0,1002,7434,00.html)  
-  [Art and Entertainment](https://web.archive.org/Stories/0,1002,11547,00.html)  
-  [Business](https://web.archive.org/Stories/0,1002,7436,00.html)  
-  [Editorial](https://web.archive.org/Stories/0,1002,7439,00.html)  
-  [Headline Stories](https://web.archive.org/Stories/0,1002,7442,00.html)  
-  [Local News](https://web.archive.org/Stories/0,1002,7444,00.html)  
-  [Obituaries](https://web.archive.org/Stories/0,1002,7445,00.html)  
-  [Sports](https://web.archive.org/Stories/0,1002,7449,00.html)  
-  [Weather](https://web.archive.org/Stories/0,1002,7453,00.html)  
-   
- [Entertainment](https://web.archive.org/Stories/0,1002,7459,00.html)  
-  [Audio](https://web.archive.org/Stories/0,1002,11551,00.html)  
-  [Book Reviews](https://web.archive.org/Stories/0,1002,10006,00.html)  
-  [Connections](http://www.datefinder.com/lascruces)  
-  [Movies](https://web.archive.org/Stories/0,1002,11553,00.html)  
-  [News](https://web.archive.org/Stories/0,1002,11552,00.html)  
-  [Trivia](https://web.archive.org/Stories/0,1002,11554,00.html)  
-   
- [Services](https://web.archive.org/Stories/0,1002,7467,00.html)  
-  [Info/Feedback](https://web.archive.org/Stories/0,1002,7469,00.html)  
-  [Search Archives](http://search.newschoice.com/)  
-  [Subscriptions](https://web.archive.org/Stories/0,1002,7474,00.html)  
-|  [ ](http://ad.doubleclick.net/jump/www.lcsun-news.com/fea;pos=t;;sz=468x60;tile=3;ord=23799754146661?)
+[Art and Entertainment](https://web.archive.org/Stories/0,1413,115%257E11547%257E,00.html)  
+[Local Reviews](https://web.archive.org/Stories/0,1413,115%257E24957%257E,00.html)  
+[Business](https://web.archive.org/Stories/0,1413,115%257E7436%257E,00.html)  
+[Editorial](https://web.archive.org/Stories/0,1413,115%257E7439%257E,00.html)  
+[Headline Stories](https://web.archive.org/Stories/0,1413,115%257E7442%257E,00.html)  
+[Local News](https://web.archive.org/Stories/0,1413,115%257E7444%257E,00.html)  
+[Obituaries](https://web.archive.org/Stories/0,1413,115%257E7445%257E,00.html)  
+[Sports](https://web.archive.org/Stories/0,1413,115%257E7449%257E,00.html)  
+[Weather](https://web.archive.org/Stories/0,1413,115%257E7453%257E,00.html)  
+[New Mexico Cars](http://newmexico.autochooser.com/publisher_files/index.html)  
+    
+[Classifieds](http://lascruces.abracat.com/)  
+    
+[Health Care     Employment     Opportunities](http://adserver1.harvestadsdepot.com/mednmlcsn/ss/HealthCare/)  
+    
+[Career Source](http://adserver1.harvestadsdepot.com/mednmlcsn/ss/003049/)  
+[MoreCities-Choices](http://www.abracat.com/abracat/index.jsp)  
+[Entertainment](https://web.archive.org/Stories/0,1413,115%257E7459%257E,00.html)  
+    
+[Book Reviews](https://web.archive.org/Stories/0,1413,115%257E10006%257E,00.html)  
+[Connections](http://www.datefinder.com/lascruces)  
+[Movies](https://web.archive.org/Stories/0,1413,115%257E11553%257E,00.html)  
+[Services](https://web.archive.org/Stories/0,1413,115%257E7467%257E,00.html)  
+[News Search](https://web.archive.org/Stories/0,1413,115%257E23649%257E,00.html)  
+[Info/Feedback](https://web.archive.org/Stories/0,1413,115%257E7469%257E,00.html)  
+[Search Archives](http://search.newschoice.com/)  
+[Subscriptions](https://web.archive.org/Stories/0,1413,115%257E7474%257E,00.html)  
+[Privacy Policy](https://web.archive.org/Stories/0,1413,115%257E7494%257E,00.html)  
+  
+| 
 
 |    
 |  | **General Privacy Policy**  
@@ -47,12 +45,12 @@
   
   
 **What personally identifiable information does the website collect from me?**  
-Information is collected in several ways. Some personal information is gathered through server log files. Personal information is also gathered when you enter a contest or promotion, request vacation delivery stop, or when you post an online ad. During these instances, denverpost.com asks for information such as your name, e-mail address, street address, zip code, phone number, subscriber status, and credit card number. We may also ask you for other information at other times. Whenever we collect information about you, we will make an effort to link to our privacy policy.   
+Information is collected in several ways. Some personal information is gathered through server log files. Personal information is also gathered when you enter a contest or promotion, request vacation delivery stop, or when you post an online ad. During these instances, our paper asks for information such as your name, e-mail address, street address, zip code, phone number, subscriber status, and credit card number. We may also ask you for other information at other times. Whenever we collect information about you, we will make an effort to link to our privacy policy.   
   
 **How is my information used?**  
-Our primary goal in collecting personal information is to provide you with a customized experience. Denverpost.com uses information collected from server log files, such as IP addresses, to help diagnose problems with our services, to administer our Web site, and to report and gather aggregate information about site usage and user demographics. The aggregated data may be shared with advertisers or business partners. 
+Our primary goal in collecting personal information is to provide you with a customized experience. Our paper uses information collected from server log files, such as IP addresses, to help diagnose problems with our services, to administer our Web site, and to report and gather aggregate information about site usage and user demographics. The aggregated data may be shared with advertisers or business partners. 
 
-Cookies are used to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer's hard drive. Cookies are used to deliver targeted advertising based on your behavior or demographics and to track your number of entries in some of our promotions and contests. You can set your browser to refuse to accept cookies, but if you do we will not be able to customize the Web site's features according to your preferences. Advertising networks that serve ads into our site, such as Real Media or DoubleClick, may also use their own cookies. For more information about Real Media's use of cookies, visit <http://www.realmedia.com/privacy.html>. For more information about DoubleClick's use of cookies, visit [http://www. privacychoices.org](http://www.%20privacychoices.org/). 
+Cookies are used to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from a Web service and stored on your computer's hard drive. Cookies are used to deliver targeted advertising based on your behavior or demographics and to track your number of entries in some of our promotions and contests. You can set your browser to refuse to accept cookies, but if you do we will not be able to customize the Web site's features according to your preferences. Advertising networks that serve ads into our site, such as Real Media or DoubleClick, may also use their own cookies. For more information about Real Media's use of cookies, visit <http://www.realmedia.com/privacy.html>. For more information about DoubleClick's use of cookies, visit [http://www.privacychoices.org](http://www.privacychoices.org/). 
 
   
   
@@ -70,7 +68,7 @@ Aggregate information compiled by the newspaper Web site may be shared with adve
   
   
 **Linked Sites**  
-Please be aware that the newspaper Web site's promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through denverpost.com may have their own privacy and data collection policies and practices. The newspaper and Web site are not responsible for any actions or policies of such third party parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-sponsored, affiliated or linked sites. 
+Please be aware that the newspaper Web site's promotional partners, advertisers, sponsors, third-party Internet sites, and content providers accessible through our paper may have their own privacy and data collection policies and practices. The newspaper and Web site are not responsible for any actions or policies of such third party parties. Users should check the applicable privacy policies of those third parties when providing personally identifiable information through co-sponsored, affiliated or linked sites. 
 
   
   
@@ -127,30 +125,39 @@ Please include your email address and telephone number where we can reach you. T
   
   
 **Contact Us**  
-If you have any questions, comments or concerns regarding our privacy policy and/or practices, please send an e-mail to [feedback@newschoice.com](mailto:feedback@newschoice.com?Subject=Privacy%20Policy%20Feedback%20\(MidCru\)).   
-  
-[ ](http://ad.doubleclick.net/jump/www.lcsun-news.com/fea;pos=b;;sz=468x60;tile=9;ord=23799754146661?)
+If you have any questions, comments or concerns regarding our privacy policy and/or practices, please visit our contact us page or feedback form and contact the webmaster.
 
+  
+  
+**DoubleClick's Privacy Disclosure**  
+  
+We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please visit <http://www.doubleclick.net/us/corporate/privacy>. 
+
+  
+  
+  
 * * *
 
-**© 1999-2002 MediaNews Group, Inc. and Mid-States Newspapers, Inc.** | 
+**© 1999-2002 MediaNews Group, Inc. and Mid-States Newspapers, Inc.** |  Sunday, December 15, 2002  
+9:16 PM MST
 
-| **Today's Date**  
+| [New Mexico Newspapers](https://web.archive.org/Stories/0,1413,115%257E7443%257E,00.html)  
 ---  
-Tuesday, April 02, 2002   
-**Today's Weather**  
-  
-[ ](http://newmexico.autochooser.com/publisher_files/index.html)
-
- [Lifestyles](https://web.archive.org/Stories/0,1002,7461,00.html)  
----  
-  [Health & Nutrition](https://web.archive.org/Stories/0,1002,7461,00.html)  
-  [Horoscopes](https://web.archive.org/Stories/0,1002,7462,00.html)  
-  [Lottery Results](https://web.archive.org/Stories/0,1002,7463,00.html)  
-  [Soap Opera Recaps](https://web.archive.org/Stories/0,1002,7464,00.html)  
-   
- [Featured Channels](http://www.newschoice.com/)  
-  [Mapquest](http://www.mapquest.com/)  
-  [Headbone Zone](http://www.headbone.com/home/home.new.html)  
-  [NewsChoice](http://www.newschoice.com/)  
-  [Travel](https://web.archive.org/Stories/0,1002,7490,00.html)
+[Alamogordo Daily    News](http://www.alamogordonews.com/)  
+[Carlsbad Current-  Argus](http://www.currentargus.com/)  
+[Deming Headlight](http://www.demingheadlight.com/)  
+[Farmington Daily   Times](http://www.daily-times.com/)  
+[Ruidoso News](http://www.ruidosonews.com/)  
+[Silver City Sun-News](http://www.scsun-news.com/)  
+[New Mexico Travel](http://travel.lcsun-news.com/)  
+    
+[Lifestyles](https://web.archive.org/Stories/0,1413,115%257E7461%257E,00.html)  
+[Health & Nutrition](https://web.archive.org/Stories/0,1413,115%257E7461%257E,00.html)  
+[Horoscopes](https://web.archive.org/Stories/0,1413,115%257E7462%257E,00.html)  
+[Lottery Results](https://web.archive.org/Stories/0,1413,115%257E7463%257E,00.html)  
+[Soap Opera Recaps](https://web.archive.org/Stories/0,1413,115%257E7464%257E,00.html)  
+[Featured Channels](http://www.newschoice.com/)  
+[Mapquest](http://www.mapquest.com/)  
+[Headbone Zone](http://www.headbone.com/home/home.new.html)  
+[NewsChoice](http://www.newschoice.com/)  
+[Travel](https://web.archive.org/Stories/0,1413,115%257E7490%257E,00.html)
