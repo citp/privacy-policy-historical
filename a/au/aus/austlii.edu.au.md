@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the austlii.edu.au privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008064811id_/http%3A//www.austlii.edu.au/austlii/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the austlii.edu.au privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610161711id_/http%3A//www.austlii.edu.au/austlii/privacy.html) for the most accurate reproduction.*
 
 # AustLII - About AustLII: Privacy Policy
 
