@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blackamericaweb.com privacy policy that was archived on 2002-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021207171330id_/http%3A//www.blackamericaweb.com/index.cfm%3FCatID%3D997) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blackamericaweb.com privacy policy that was archived on 2003-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030605123319id_/http%3A//www.blackamericaweb.com/index.cfm%3FCatID%3D997) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 	<title>BlackAmericaWeb.com Home</title>
@@ -8,43 +8,51 @@
 	
 	<script src="javascripts/javascript.js"></script>
 	
-	
-	<script language="javascript">
-	<!--
-			OAS_url = 'http://ads.nandomedia.com/RealMedia/ads/';
-			
-			OAS_sitepage = 'www.blackamericaweb.com/PrivacyPolicy';
-			//OAS_sitepage = window.location.hostname + window.location.pathname;
-			//OAS_listpos = 'Button1,Button2,Button3,Button4,Button5,234x60One,Button6,Button7,Button8,468x60Top,468x60Bottom';
-			OAS_listpos = 'Button2,Button3,468x60Top,Text1,Text2,Text3,Text4,Text5,Text6,Text7,Text8,Text9,Text10,Text11,Text12,Text13,Text14';
-			OAS_query = '';
-			OAS_target = '_top';
-			//end of configuration
-			OAS_version = 10;
-			OAS_rn = '001234567890'; OAS_rns = '1234567890';
-			OAS_rn = new String (Math.random()); OAS_rns = OAS_rn.substring (2, 11);
-	
-			function OAS_NORMAL(pos) {
-			  document.write('<A HREF="' + OAS_url + 'click_nx.ads/' + OAS_sitepage + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + OAS_rns + '" TARGET=' + OAS_target + '>');
-			  document.write('<IMG SRC="' + OAS_url + 'adstream_nx.ads/' + OAS_sitepage + '@' + OAS_listpos + '!' + pos + '?' + OAS_query + OAS_rns + '" BORDER=0></A>');
-			}
-		
-			OAS_version = 11;
-			if (navigator.userAgent.indexOf('Mozilla/3') != -1 || navigator.userAgent.indexOf('Mozilla/4.0 WebTV') != -1)
-			  OAS_version = 10;
-			if (OAS_version >= 11)
-			  document.write('<SCR'+'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' + OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');
-		
-			document.write('');
-			function OAS_AD(pos) {
-			  if (OAS_version >= 11)
-			    OAS_RICH(pos);
-			  else
-			    OAS_NORMAL(pos);
-			}
-		<!--  RealMedia OAS Ad Tracking - SETUP end -->
-	//->
-	</script><script language="JavaScript1.1" src="http://ads.nandomedia.com/RealMedia/ads/adstream_mjx.ads/www.blackamericaweb.com/PrivacyPolicy/1557610080@Button2,Button3,468x60Top,Text1,Text2,Text3,Text4,Text5,Text6,Text7,Text8,Text9,Text10,Text11,Text12,Text13,Text14?"></script>
+	<!-- ##### begin OAS browser test ##### -->
+
+<script language="JavaScript"> <!-- 
+_version=10; //--> </script>
+<script language="JavaScript1.1"> <!--
+_version=11;
+if (navigator.userAgent.indexOf('Mozilla/3') != -1){
+_version=10;} 
+// --> 
+</script>
+
+<!-- # end OAS browser test # -->
+
+
+
+
+<!-- ##### begin OAS function definition ##### -->
+
+<script language="JavaScript"> <!-- 
+
+<!-- here are oas site, page, and random number variables  -->
+var oas='http://ads.nandomedia.com/RealMedia/ads/';
+var sitepage = "www.blackamericaweb.com/PrivacyPolicy";
+var RN = new String (Math.random());
+var RNS = RN.substring (2, 11);
+
+
+<!-- here is the ad insertion function -->
+function DisplayAds (position, width, height)
+{
+var oaspage= sitepage + '/1' + RNS + '@' + position;
+
+if (_version < 11) {
+document.write ('<A HREF="' + oas + 'click_nx.cgi/'+ oaspage + '" TARGET="_top" ><IMG SRC="' + oas + 'adstream_nx.cgi/' + oaspage + '" BORDER="0" WIDTH="' + width + '" HEIGHT="' + height + '"></a>');
+} else {
+document.write ('<SCRIPT LANGUAGE="JavaScript1.1" SRC="' + oas + 'adstream_jx.cgi/' + oaspage + '">');
+document.write ('\<\!-- --\>');
+document.write ('\<\/SCRIPT\>');
+document.write ('\<\!-- --\>');
+}
+}
+// -->
+</script>
+
+<!-- # end OAS function definition # -->
 	
 	<!-- START OF WEBTRENDS LIVE TAG -->
 	<!-- Copyright 2002 NetIQ Corporation -->
@@ -124,19 +132,18 @@
 	</script>
 	
 	
+ 
+	
 
-							
-		
-		
+
 	
 	
+
+
 	<script language="JavaScript">
 	<!-- Begin
 	var expDays = .125; // number of days the cookie should last
-	
-	var page = "/shopping/promos/dsp_popup.html";
-	var windowprops = "width=300,height=151,location=no,toolbar=no,menubar=no,scrollbars=no,resizable=yes";
-	
+		
 	function GetCookie (name) {  
 	var arg = name + "=";  
 	var alen = arg.length;  
@@ -198,7 +205,8 @@
 	count=1;
 	SetCookie('count', count, exp);
 	
-	window.open(page, "", windowprops);
+	//UNCOMMENT THIS LINE FOR POPUPS!!!!!
+	//window.open(page, "", windowprops);
 	
 	}
 	else {
@@ -309,6 +317,7 @@ function  _CF_checkform(_CF_this)
 
 </head>
 
+
 <body bgcolor="#ffffff" onload="checkCount();">
 
 
@@ -321,7 +330,7 @@ function  _CF_checkform(_CF_this)
 	<tbody><tr>
 		<td align="right" valign="top"><span style="font-family:Verdana,Helvetica,Arial,san-serif;font-size:10px;font-weight:bold;color:silver;">LOGIN</span></td>
 	</tr>
-	<form name="form" action="login.cfm" method="POST" onsubmit="return _CF_checkform(this)"></form><input type="hidden" name="Location" value="http://blackamericaweb.com/index.cfm?CatID=997"> 
+	<form name="form" action="login.cfm" method="POST" onsubmit="return _CF_checkform(this)"></form><input type="hidden" name="Location" value="http://www.blackamericaweb.com/index.cfm?CatID=997"> 
 	<tr>
 		<td>
 			<span style="font-family:Verdana,Helvetica,Arial,san-serif;font-size:11px;font-weight:bold;color:white;">Username:</span><br>
@@ -367,7 +376,7 @@ function  _CF_checkform(_CF_this)
  <script language="JavaScript">
 	<!--
 		function openWindow(url, name) {
-			var popupWin = window.open(url, name,"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=775,height=450");
+			var popupWin = window.open(url, name,"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=800,height=600");
 		}
 	//-->
 </script> 
@@ -376,7 +385,7 @@ function  _CF_checkform(_CF_this)
 	
 	<tbody><tr>
 		<td valign="top" nowrap="">
-		<a href="javascript:openWindow('http://click.linksynergy.com/fs-bin/click?id=aB90ir2I92Y&amp;offerid=32532.10000057&amp;type=4&amp;subid=0','Sephora');"><img src="http://www.sephora.com/images/browse/affiliate/summer_120x60.gif" width="120" height="60" alt="Sephora" border="0" hspace="0" vspace="0" align="absbottom"></a><img src="images/clear_spacer.gif" width="124" height="1" alt="Blank" border="0" vspace="0" hspace="0"><a href="javascript:openWindow('http://www.abcnews.go.com','ABCNews');"><img src="images/banners/abcnewslogo.gif" width="120" height="60" alt="ABCNews" border="0" hspace="0" vspace="0" align="absbottom"></a><img src="images/clear_spacer.gif" width="124" height="1" alt="Blank" border="0" vspace="0" hspace="0"><a href="javascript:openWindow('http://service.bfast.com/bfast/click?bfmid=2181&amp;sourceid=37970781&amp;categoryid=rn_bestsellers','BN_120x60');"><img src="images/banners/book_gen120X60F.gif" width="120" height="60" alt="BN_120x60" border="0" hspace="0" vspace="0" align="absbottom"></a>
+		<a href="javascript:openWindow('http://click.linksynergy.com/fs-bin/click?id=aB90ir2I92Y&amp;offerid=32532.10000057&amp;type=4&amp;subid=0','Sephora');"><img src="http://www.sephora.com/images/browse/affiliate/summer_120x60.gif" width="120" height="60" alt="Sephora" border="0" hspace="0" vspace="0" align="absbottom"></a><img src="images/clear_spacer.gif" width="368" height="1" alt="Blank" border="0" vspace="0" hspace="0"><a href="javascript:openWindow('http://www.abcnews.go.com','ABCNews');"><img src="images/banners/abcnewslogo.gif" width="120" height="60" alt="ABCNews" border="0" hspace="0" vspace="0" align="absbottom"></a>
 		</td>
 	</tr>
 </tbody></table>
@@ -400,7 +409,7 @@ function  _CF_checkform(_CF_this)
  <script language="JavaScript">
 	<!--
 		function openWindow(url, name) {
-			var popupWin = window.open(url, name,"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=775,height=450");
+			var popupWin = window.open(url, name,"toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=800,height=600");
 		}
 	//-->
 </script> 
@@ -475,7 +484,7 @@ function  _CF_checkform(_CF_this)
 		<td valign="top" align="left" bgcolor="#FFCC00" onmouseover="this.bgColor='#FFFFFF'" onmouseout="this.bgColor='#FFCC00'">
 			<ilayer width="100%">
 			<layer onmouseover="this.bgColor='#FFFFFF'" onmouseout="this.bgColor='#FFCC00'" width="100%">
-				<a href="shopping/index.cfm" class="SecIndexNav">MARKET STREET</a><br><img src="images/white_spacer.gif" align="left" alt="" width="100%" height="1" border="0" vspace="0" hspace="0">
+				<a href="shopping/index.cfm" class="SecIndexNav">SHOPPING</a><br><img src="images/white_spacer.gif" align="left" alt="" width="100%" height="1" border="0" vspace="0" hspace="0">
 			</layer>
 			</ilayer>
 		</td>
@@ -614,6 +623,8 @@ function  _CF_checkform(_CF_this)
 	</tr>
 	
 
+	    
+  
 	  
   
   
@@ -893,15 +904,14 @@ function  _CF_checkform(_CF_this)
 <table width="760">
 <tbody><tr>
 	<td valign="bottom" bgcolor="white" align="center">
-		<span style="color: #FF6600; font-size: 8pt;">Copyright ©2001-2002 BlackAmericaWeb.com, Inc. All Rights Reserved.
+		<span style="color: #FF6600; font-size: 8pt;">Copyright ©2001-2003 BlackAmericaWeb.com, Inc. All Rights Reserved.
 		<br>
 		<a href="mailto:webmaster@blackamericaweb.com" style="color: #FF6600;">Technical Problems or Comments</a>
 		&nbsp;|&nbsp;
 		<a href="index.cfm?CatID=997" style="color: #FF6600;">Privacy Policy</a>
 		&nbsp;|&nbsp;
 		<a href="index.cfm?CatID=996" style="color: #FF6600;">Terms of Service</a>
-		&nbsp;|&nbsp;
-		<a href="http://www.imaginuity.com" target="_blank" style="color: #FF6600;">Site Design by Imaginuity</a>
+		
 		</span>
 	</td>
 </tr>
@@ -949,4 +959,4 @@ function  _CF_checkform(_CF_this)
 
 
 
-</body></html>
+	</body></html>
