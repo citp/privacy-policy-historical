@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604041244id_/http%3A//mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810193949id_/http%3A//mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
 
 # Orange Mobile Phones 01923-804444 Mobiles.co.uk - Privacy Statement
 
@@ -6,9 +6,9 @@ We are committed to protecting your privacy. We will only use the information th
 
 We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service.
 
-We will not e-mail you in the future unless you have given us your consent.
+We will not e-mail you in the future unless you have given us your consent. We will give you the chance to refuse any marketing e-mail from us now and in the future.
 
-We will give you the chance to refuse any marketing e-mail from us now and in the future. We will never sell or pass on your details to a third party unless we believe an order has been placed fraudulently.
+We will never sell or pass on your details to a third party unless we believe an order has been placed fraudulently. If you are ordering a contract mobile phone then we will need to pass on your details to the Service Provider so that they can perform a credit check to assess your credit worthiness.
 
 The type of information we will collect about you includes: 
 
@@ -32,5 +32,5 @@ If we believe an order has been placed fraudulently, or our online auction syste
 
 If you have any questions or comments about privacy, please e-mail the business manager, [Lisa Green](mailto:lisa@mobiles.co.uk). 
 
-[](https://web.archive.org/web/20030604041244id_/http%3A//mobiles.co.uk/azindex.htm)**Mobiles Online, Watford - Tel 0870 080 4444 - Fax 0870 080 5555  
-_(c) 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003[Mobiles.co.uk Ltd](https://web.archive.org/web/20030604041244id_/http%3A//mobiles.co.uk/mobiles.htm) \- _sales@mobiles.co.uk**
+[](https://web.archive.org/web/20030810193949id_/http%3A//mobiles.co.uk/azindex.htm)**Mobiles Online, Watford - Tel 0870 080 4444 - Fax 0870 080 5555  
+_(c) 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003[Mobiles.co.uk Ltd](https://web.archive.org/web/20030810193949id_/http%3A//mobiles.co.uk/mobiles.htm) \- _sales@mobiles.co.uk**
