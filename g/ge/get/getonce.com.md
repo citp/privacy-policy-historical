@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getonce.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211141655id_/http%3A//www.getonce.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getonce.com privacy policy that was archived on 2005-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050214123123id_/http%3A//www.getonce.com/privacy.html) for the most accurate reproduction.*
 
 # GetOnce Privacy Policy
 
@@ -45,7 +45,7 @@ Upon presentation of appropriate identification, we will allow you access to inf
 We may revise and update this Privacy Policy by posting a revised Privacy Policy on our Site as and when we see fit. 
 
 **Other terms and conditions**   
-The General Terms and Conditions of Use of our Site are available at [Terms & Conditions](https://web.archive.org/web/20041211141655id_/http%3A//www.getonce.com/terms.html)
+The General Terms and Conditions of Use of our Site are available at [Terms & Conditions](https://web.archive.org/web/20050214123123id_/http%3A//www.getonce.com/terms.html)
 
 **Last update**   
 This Privacy Policy was last updated on 26th March 2004.
