@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the catherines.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209154236id_/http%3A//catherines.charmingshoppes.com/custsvc/catherines/priv_security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catherines.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810043635id_/http%3A//catherines.charmingshoppes.com/custsvc/catherines/priv_security.asp) for the most accurate reproduction.*
 
-# Catherines—plus-size fashion for women. Comfortable, classic styles for the full-figured woman looking for casual, career or special occasion clothing in sizes 16W-34W, including petites.
+# Catherines – plus size clothing and lingerie for women sizes 16W – 34W.
 
    
 _(last updated October 2001)_  
@@ -28,7 +28,7 @@ top
 
 mailing lists
 
-When you register with CSI or participate in a contest or promotion online through this Site you may choose to receive e-mails or postal mail from us regarding our company, corporate information, products, services, contests and promotions. From time to time, we may also send you e-mails to help us learn more about your online preferences. To find out how to remove yourself from a mailing list, [click here](https://web.archive.org/web/20021209154236id_/http%3A//catherines.charmingshoppes.com/custsvc/catherines/faq.asp#maillist).
+When you register with CSI or participate in a contest or promotion online through this Site you may choose to receive e-mails or postal mail from us regarding our company, corporate information, products, services, contests and promotions. From time to time, we may also send you e-mails to help us learn more about your online preferences. To find out how to remove yourself from a mailing list, [click here](https://web.archive.org/web/20030810043635id_/http%3A//catherines.charmingshoppes.com/custsvc/catherines/faq.asp#maillist).
 
 If prior to participating in a contest or promotion you opted not to receive information from us, you may still receive information from or about CSI in connection with the specific contest or promotion if you choose to participate in it. You may opt not to participate in these contests or promotions if you do not want to receive information about CSI or share your information with us and the other companies sponsoring those contests or promotions.
 
