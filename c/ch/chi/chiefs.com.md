@@ -1,39 +1,42 @@
-> *The following text is extracted and transformed from the chiefs.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204095916id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiefs.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205044210id_/http%3A//www.nfl.com/help/privacy) for the most accurate reproduction.*
 
 # NFL.com - Privacy Policy
 
+[](http://www.nfl.com/)
+
 |   
 ---  
-* [FANTASY](http://www.nfl.com/fantasy/index.html)  
-* [NEWS](https://web.archive.org/news)  
-* [TV & RADIO](https://web.archive.org/tvradio/)  
+* [FANTASY](http://fantasy.nfl.com/)  
+* [FIELD PASS](https://web.archive.org/fieldpass)  
 * [ROSTERS](https://web.archive.org/rosters)  
 * [DEPTH CHARTS](https://web.archive.org/depthcharts)  
-* [NFL FILMS](http://www.nfl.com/nflfilmstv)  
-* [NFL INSIDER](https://web.archive.org/insider)  
+* [TV & RADIO](https://web.archive.org/tvradio)  
+* [NFL NETWORK](https://web.archive.org/nflnetwork)  
+* [YOUTH FOOTBALL](https://web.archive.org/youth)  
 * [TICKETS](https://web.archive.org/tickets)  
 * [AUCTIONS](https://web.archive.org/auctions)  
-* [YOUTH FOOTBALL](http://www.nflhs.com/nflprograms)  
-* [UNDER THE HELMET](http://www.nfl.com/reebok/index.html)  
 * [NFL SHOP](http://www.nflshop.com/home/default.cfm?SID=7193)  
+  
+[](http://www.nflshop.com/home/default.cfm?SID=7126)  
+  
 ---  
 * [KIDS](http://www.playfootball.com/)  
-* [GAMES](http://nfl.ea.com/sports_nfl/games/home.jsp)  
-* [NFLPLAYERS.COM](http://www.nflplayers.com/)  
-* [SUPER BOWL](http://www.superbowl.com/)  
-* [PRO BOWL](http://www.probowl.com/)  
-* [NFL EUROPE](http://www.nfleurope.com/)  
 * [HALL OF FAME](http://www.profootballhof.com/)  
+* [NFLPLAYERS.COM](http://www.nflplayers.com/)  
+* [SUPERBOWL.COM](http://www.superbowl.com/)  
+* [PRO BOWL](http://www.probowl.com/)  
+* [NFL Europe](http://www.nfleurope.com/)  
 * [NFL ALUMNI](http://www.nflalumni.org/)  
+* [IN THE COMMUNITY](http://www.jointheteam.com/)  
 ---  
-* [ESPAÑOL](https://web.archive.org/espanol)  
-* [IN THE COMMUNITY](https://web.archive.org/fans)  
-* [NFL SUNDAY TICKET](https://web.archive.org/ticket)  
-* [BASICS](https://web.archive.org/basics)  
-* [HISTORY](https://web.archive.org/history)  
+* [ROOKIES](https://web.archive.org/rookies)  
+* [CONTESTS](http://www.nfl.com/redir?url=2689)  
+* [PLAYER](http://www.nflplayerdevelopment.com/)  
+* [PROGRAMS](http://www.nflplayerdevelopment.com/)  
 * [INTERNATIONAL](https://web.archive.org/international)  
+* [NFL SUNDAY TICKET](https://web.archive.org/ticket)  
+* [USA FOOTBALL](http://www.usafootball.com/)  
 * [WIRELESS](https://web.archive.org/wireless)  
-* [COACHES CLUB](https://web.archive.org/coachesclub)  
 |   |  | |   
 ---|---  
 [Play football Privacy Policy](http://www.playfootball.com/site/privacy.html) **·** [NFL Shop Privacy Policy](http://www.nflshop.com/Templates/Cm/cssecurity.tem#privacystatements) **PRIVACY POLICY**  
