@@ -1,12 +1,22 @@
-> *The following text is extracted and transformed from the architecturaldigest.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210130305id_/http%3A//condenet.com/mags/archdigest/site/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldigest.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207153515id_/http%3A//www.architecturaldigest.com/site/privacypolicy.html) for the most accurate reproduction.*
 
-# CondéNet and Condé Nast Magazines: ArchitecturalDigest.com Privacy Policy
+# CondéNet and Condé Nast Magazines: Architectural Digest: Privacy Policy
 
-|  |  |  Last Revised June27, 2002
+|    
+|   
+|  |   
+|  |   
+|  |   
+|  |  |   
+---  
+  
+Privacy Policy
+
+Last Revised June 27, 2002
 
 Kids and parents click here! 
 
-In addition to reviewing this privacy policy, please read our [User Agreement](http://condenet.com/mags/archdigest/site/useragreement.html). Your use of ArchitecturalDigest.com constitutes agreement to its terms and conditions.
+In addition to reviewing this privacy policy, please read our [User Agreement](http://architecturaldigest.com/site/useragreement/useragreement.html). Your use of ArchitecturalDigest.com constitutes agreement to its terms and conditions.
 
 ArchitecturalDigest.com is produced by CondéNet, Inc. This policy does not cover information collected on sites linked to from ArchitecturalDigest.com.
 
@@ -76,4 +86,4 @@ ArchitecturalDigest.com
 New York, NY 10036
 
 
-| 
+
