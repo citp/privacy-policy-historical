@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaakateeya.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603221903id_/http%3A//www.kaakateeya.com/cfm/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaakateeya.com privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813115151id_/http%3A//www.kaakateeya.com/cfm/privacy.cfm) for the most accurate reproduction.*
 
 # Kaakateeya.com - Largest Collection of Indian Matrimonials
 
@@ -48,7 +48,8 @@ If a user elects to use our referral service for informing a friend about our si
 
 **Security**
 
-[ ](https://digitalid.verisign.com/as2/1fae9b5a8e7d15f0546b615e068401c9)   
+  
+  
 Kaakateeya.com is a verisign secure site. Click the Image to verify. 
 
 This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.   
