@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uettaxila.edu.pk privacy policy that was archived on 2001-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010423163434id_/http%3A//www.uettaxila.edu.pk/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uettaxila.edu.pk privacy policy that was archived on 2001-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011222171803id_/http%3A//www.uettaxila.edu.pk/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # University of Engineering & Technology, Taxila - Privacy Policy
 
