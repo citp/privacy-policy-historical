@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the evliving.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604014328id_/http%3A//www.evliving.com/about.php%3Faction%3Dfullnews%26showcomments%3D1%26id%3D133) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evliving.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223174837id_/http%3A//www.evliving.com/about.php%3Faction%3Dfullnews%26showcomments%3D1%26id%3D133) for the most accurate reproduction.*
 
-# EVLiving - Your guide to the East Valley - About EVLiving.com and Forden Gorden Ventures, Inc.
+# East Valley Living - Your guide to the East Valley - About EVLiving.com, Community Partners, Advertising, Contributors and Forden Gorden Ventures, Inc.
 
 ###  Privacy Policy for EVLiving.com 
 
-March 05 , 2004 by [Editor](http://www.evliving.com/bylines.php?action=fullnews&showcomments=1&id=21)
+March 04 , 2004 by [Editor](http://www.evliving.com/bylines.php?action=fullnews&showcomments=1&id=21)
 
 EVLiving.com takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
