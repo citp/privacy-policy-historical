@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smarttech.com privacy policy that was archived on 2002-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021210160447id_/http%3A//www.smarttech.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarttech.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604065543id_/http%3A//smarttech.com/company/privacy.asp) for the most accurate reproduction.*
 
 # SMART Technologies Inc.
 
@@ -17,5 +17,4 @@ SMART does not use cookies to retrieve information from your computer that was n
 
 By using SMART's Web site, you signify your agreement with the SMART Privacy Policy. SMART reserves the right, at its discretion, to change, modify, add, or remove portions of this policy at any time. Your continued use of this Web site following changes to these terms means you accept those changes. 
 
-Copyright 2002 SMART Technologies Inc. All rights reserved.  
-
+Copyright 2003 SMART Technologies Inc. All rights reserved.
