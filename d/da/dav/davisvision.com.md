@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the davisvision.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605041424id_/http%3A//www.davisvision.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davisvision.com privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211033350id_/http%3A//www.davisvision.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy and Security Policy
 
