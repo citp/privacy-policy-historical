@@ -1,0 +1,27 @@
+> *The following text is extracted and transformed from the bankoftexas.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207231736id_/http%3A//www.bankoftexas.com/privacy.cfm) for the most accurate reproduction.*
+
+# Bank of Texas
+
+At Bank of Texas, we know how important confidentiality is to our customers. We are committed to protecting your privacy. As part of that commitment, we have developed the following Privacy Practices.
+
+As we continue to offer state-of-the-art-banking technology, Bank of Texas will ensure that strict privacy standards are maintained.
+
+**Privacy Expectations**  
+We understand that customers expect privacy and security in handling their financial transactions. Therefore, we recognize the need to safeguard sensitive information about you and your banking. We strive to maintain high standards and procedures to protect you.
+
+**Collection, Retention and Use of Information**  
+Bank of Texas collects, retains and uses information concerning you and your financial transactions only when we believe that it will help us develop new products and services as well as to determine opportunities to better serve you or to comply with certain laws and regulations. We are happy to provide you with information on why we are collecting and retaining information upon your request.
+
+**Restrictions on Disclosing Information to Outside Parties**  
+We do not disclose specific information about your accounts or other personal data to outside parties for their independent use except if: (a) you request or authorize it; (b) the information is provided to process a transaction initiated by you; (c) the information is provided to a reputable credit bureau or similar information reporting agency; or (d) the disclosure otherwise is lawfully permitted or required.
+
+**Privacy in Business Relationships with Outside Third Parties**  
+Sometimes we are required to provide personal information about you to a third party, such as a vender, to provide support for one of our services. These companies agree to maintain our confidential information about you and your products/services with us and must abide by applicable law.
+
+Bank of Texas reserves the right to modify these Privacy Practices as needed, along with related provisions, at any time.  
+A recent federal law, the Gramm-Leach-Bliley Act ("GLB"), requires that all financial institutions provide notice to consumer customers about the types of information financial institutions collect and with whom and under what circumstances the information is shared. Please click [here](https://web.archive.org/web/20021207231736id_/http%3A//www.bankoftexas.com/privacy_bot.htm) for our policy. 
+
+[Bank of Texas Home](https://web.archive.org/) | [Personal](https://web.archive.org/personal/) | [Small Business](https://web.archive.org/smallbusiness/)  
+[Commercial Services](https://web.archive.org/commercial/) | [Investor Info](https://web.archive.org/investor/) | [Infocenter](https://web.archive.org/infocenter/) | [Contact](https://www.bankoftexas.com/contact/index.cfm?x=0.24052683)  
+[Jobs](https://web.archive.org/employment/) | [Locations](http://www.vicinity.com/bankoftx/startprx.hm)   
+
