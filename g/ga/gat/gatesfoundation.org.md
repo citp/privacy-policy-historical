@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2002-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021216101030id_/http%3A//www.gatesfoundation.org/mediacenter/relatedinfo/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gatesfoundation.org privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622122603id_/http%3A//gatesfoundation.org/MediaCenter/RelatedInfo/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Related Info - Bill & Melinda Gates Foundation
+
+Privacy Policy and Copyright
+
+The Bill & Melinda Gates Foundation is committed to  protecting the privacy of its visitors.  Information that our visitors  provide or that is derived from internal web tracking is not sold, rented or  shared with any individual or organization. 
+
+* * *
+
+[](https://web.archive.org/MediaCenter/RelatedInfo/PrivacyPolicy.htm?version=print)    
 
 **Personal Information  
 ** The Bill & Melinda Gates Foundation collects personal information upon a visitor's request to subscribe to newsletters, announcements (press releases) and multimedia stories.  The information provided is not sold, rented or shared with any individual or organization.
@@ -20,8 +28,5 @@ Text, photo and other materials cannot be reproduced without prior written consi
 
 
 If you have any further questions or request for use of materials, please send your feedback/request to [feedback@gatesfoundation.org](mailto:feedback@gatesfoundation.org)   
-Copyright ©1999, 2000,  2001   
-
-
-  
+Copyright ©1999, 2000,  2001, 2002, 2003   
 
