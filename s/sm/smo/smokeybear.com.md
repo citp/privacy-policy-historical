@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smokeybear.com privacy policy that was archived on 2000-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000620222345id_/http%3A//www.smokeybear.com/cgi-bin/rbox/smo_pol.cgi%3Ffr%3Dindex) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smokeybear.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212062900id_/http%3A//www.smokeybear.com/cgi-bin/rbox/smo_pol.cgi%3Ffr%3Dindex) for the most accurate reproduction.*
 
 # Smokey Bear - Smokey Mail - Privacy Policy
 
