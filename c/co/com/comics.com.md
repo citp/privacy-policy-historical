@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207194521id_/http%3A//www.comics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comics.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404112935id_/http%3A//www.comics.com/uminfo/um_privacy_policy.html) for the most accurate reproduction.*
 
 # Comics.com Privacy Policy
 
@@ -7,8 +7,7 @@
   
 |  [](https://web.archive.org/whatsnew/index.html) |  [](http://www.comics.com/) |  [](https://web.archive.org/categories/index.html) |  [](https://web.archive.org/editoons/) |  [](https://web.archive.org/store/index.html) |  [](https://web.archive.org/ecards/index.html) |  [](https://members.comics.com/members/registration/giftSubStart.do) |   
 ---|---|---|---|---|---|---|---  
-|  |  |  |   
----|---  
+|  |   
 |  | [](https://web.archive.org/uminfo/index.html)  
 ---  
 |   
@@ -47,5 +46,6 @@ The [Comics.com](http://www.comics.com/) website is intended for domestic viewer
 
 |   
 ---|---|---  
-[ABOUT UNITED MEDIA](https://web.archive.org/uminfo/um_unitedmedia.html) | [TERMS OF USE](https://web.archive.org/uminfo/um_termsofuse.html) | [COMICS NEWSLETTER](https://web.archive.org/comics_update/index.html)  
-[FAQS AND CONTACT](https://web.archive.org/uminfo/faq.html) | [PRIVACY STATEMENT](https://web.archive.org/uminfo/um_privacy_policy.html)
+  
+|  |   
+---|---
