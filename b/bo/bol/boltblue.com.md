@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boltblue.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402055353id_/http%3A//boltblue.com/privacy.php%3F_T%3DOjEwNDg5ODEyMjA%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltblue.com privacy policy that was archived on 2004-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040407205951id_/http%3A//boltblue.com/privacy.php%3F_T%3DOjEwODEwNTQ2MDU%3D) for the most accurate reproduction.*
 
 # Boltblue - Privacy Statement
 
@@ -6,10 +6,9 @@
 Boltblue is operated by:
 
 Boltblue International Limited  
-c/o Osborne Clarke  
-7th Floor, Hillgate House  
-26 Old Bailey  
-London EC4M 7HW
+16 Earl Street  
+London  
+EC2A 2LY
 
 This privacy policy explains our commitments and your rights concerning your personal information. You should read it carefully.
 
