@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204194135id_/http%3A//www.namescout.com/privacy-statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namescout.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402132403id_/http%3A//www.namescout.com/privacy-statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
