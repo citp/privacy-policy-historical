@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oreillyauto.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211205550id_/http%3A//www.oreillyauto.com/B2C/help/help_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oreillyauto.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207072918id_/http%3A//www.oreillyauto.com/B2C/help/help_privacy.html) for the most accurate reproduction.*
 
 # O'Reilly Auto Parts - Privacy Information
 
