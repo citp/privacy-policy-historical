@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2003-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030630132311id_/http%3A//mamma.com/n_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamma.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205054141id_/http%3A//mamma.com/n_privacy.html) for the most accurate reproduction.*
 
 # Mamma.com - The Mother Of All Search Engines
 
@@ -17,7 +17,7 @@ This policy does not apply to our partners, advertisers or any other web site th
 
    _THIRD-PARTY LINKS_
 
-As a search engine, and as an advertising publisher, you will find various kinds of links on our site, including but not limited to: meta-search results, Mamma Favorites, banners, Mamma Classifieds, and Mamma's Partners. These sites are owned and maintained by outside companies, over which Mamma.com has no control, and who are not covered by this privacy policy. Mamma.com is not responsible for the content of these sites, or their collection of information and its use. If you have any concerns about your privacy at one of these sites, please review their sites' policies or contact them directly.
+As a search engine, and as an advertising publisher, you will find various kinds of links on our site, including but not limited to: metasearch results, Mamma Favorites, banners, Mamma Classifieds, and Mamma's Partners. These sites are owned and maintained by outside companies, over which Mamma.com has no control, and who are not covered by this privacy policy. Mamma.com is not responsible for the content of these sites, or their collection of information and its use. If you have any concerns about your privacy at one of these sites, please review their sites' policies or contact them directly.
 
    _BANNER ADVERTISEMENTS_
 
