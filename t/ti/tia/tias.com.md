@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604052059id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tias.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204210631id_/http%3A//www.tias.com/other/privacy_statement.html) for the most accurate reproduction.*
 
 # TIAS Privacy Statement
 
@@ -49,16 +49,15 @@ e-mail:
   
 ---|---  
   
+U.S. mail:
+
+| 
+
+1000 S Main #200  
+Grapevine, Texas 75051  
+  
 telephone:
 
 | 
 
-1-888-OLD-STUF  
-  
-postal address:
-
-| 
-
-**TIAS.COM, Inc.  
-P.O. Box 837  
-Palm Harbor, FL 34682-0837**
+1-888-OLD-STUF
