@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notebookreview.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604152456id_/http%3A//www.notebookreview.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notebookreview.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204110235id_/http%3A//www.notebookreview.com/privacy.asp) for the most accurate reproduction.*
 
 # NotebookReview.com - The Webs Best Source For Laptop Notebook Info
 
