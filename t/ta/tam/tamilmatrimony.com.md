@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilmatrimony.com privacy policy that was archived on 2001-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010804015723id_/http%3A//tamilmatrimony.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilmatrimony.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609064525id_/http%3A//www.tamilmatrimony.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -32,4 +32,4 @@ NO, All visitors to our site may browse the site, search the ads and view any ar
 
 We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company.
 
-If you have any questions regarding our Privacy Statement, please write in to [privacy@bharatmatrimony.com](mailto:privacy@bharatmatrimony.com)
+If you have any questions regarding our Privacy Statement, please write in to [**_privacy@bharatmatrimony.com_**](mailto:privacy@bharatmatrimony.com)
