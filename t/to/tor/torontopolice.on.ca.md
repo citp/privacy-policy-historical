@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torontopolice.on.ca privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206045625id_/http%3A//www.torontopolice.on.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torontopolice.on.ca privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403204804id_/http%3A//www.torontopolice.on.ca/privacy.php) for the most accurate reproduction.*
 
 # Toronto Police Service :: To Serve and Protect
 
@@ -24,6 +24,4 @@ Cookies: The Toronto Police Service employs "cookies" to provide a user with tai
 
 Comments?
 
-We welcome any comments and suggestions about this site. Please contact us at webmaster(at)torontopolice.on.ca. 
-
- 
+We welcome any comments and suggestions about this site. Please contact us at webmaster(at)torontopolice.on.ca.  
