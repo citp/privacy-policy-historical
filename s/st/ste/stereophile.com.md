@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stereophile.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604103944id_/http%3A//www.stereophile.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stereophile.com privacy policy that was archived on 2001-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011201153638id_/http%3A//www.stereophile.com/privacy.shtml) for the most accurate reproduction.*
 
 # Stereophile Magazine / Privacy
 
