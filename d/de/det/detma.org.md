@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the detma.org privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212070326id_/http%3A//detma.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the detma.org privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604181923id_/http%3A//www.detma.org/privacy.htm) for the most accurate reproduction.*
 
 # MDET:Privacy Policy
 
@@ -160,8 +160,6 @@ DET provides links to other sites simply as a service and a convenience to its c
 Databases accessible through DET's Mass Job Bank site may contain job listings in which applicants are instructed to apply directly to employers or private placement agencies. DET is not responsible for any arrangements concerning employment interviews or terms of employment made directly between applicants and employers or placement agencies.
 
 The contents and links on this Web site are subject to change without notice. top
-
-* * *
 
 **
 
