@@ -1,333 +1,660 @@
-<!--The following is the downloaded HTML source of the 2dayfm.com.au privacy policy that was archived on 2002-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020602131135id_/http%3A//www.2dayfm.com.au/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 2dayfm.com.au privacy policy that was archived on 2003-12-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031206062106id_/http%3A//www.2dayfm.com.au/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
-<title>104.1 2DAY FM - Sydney's Radio - General Terms and Conditions</title>
-<meta name="keywords" content="terms and conditions, australian, music, music, 2dayfm.com.au, 2dayfm, 2Day FM, Today FM, 2DAY FM, 104.1, 1041, australia, artist, radio, song, vote, download, today's best music">
-<meta name="description" content="Interactive website of 104.1 2Day FM! With the Morning Crew, Jamie Angel, Jason Sole, Zoe Sheridan, Byron Cooke, Kyle Sandilands, Jacki O">
-<meta name="ROBOTS" content="ALL">
-<script language="JavaScript">
-
-// \\\\\\\\\\>>WEBSITE/PAGE ENTRY TIME AND DATE
-// \\\\\\\\\\>>PLEASE FEEL FREE TO USE THIS CODE WHERE AND WHEN EVER YOU LIKE
-// \\\\\\\\\\>>THE INTERNET IS A PLACE TO SHARE IDEAS (BIG OR SMALL) - THIS IS ONE OF MY CONTRIBUTIONS
-
-// array function
- 
-        function makeArray(len) 
-        {       for (var i = 0; i < len; i++)
-                {       this[i] = null
-                }
-                this.length = len
-        }
-
-
-// array of day names
-
-        var daynames = new makeArray(7)
-        daynames[0] = "Sunday"
-        daynames[1] = "Monday"
-        daynames[2] = "Tuesday"
-        daynames[3] = "Wednesday"
-        daynames[4] = "Thursday"
-        daynames[5] = "Friday"
-        daynames[6] = "Saturday"
-        
-
-// array of month names
-
-        var monthnames = new makeArray(12)
-        monthnames[0] = "January"
-        monthnames[1] = "February"
-        monthnames[2] = "March"
-        monthnames[3] = "April"
-        monthnames[4] = "May"
-        monthnames[5] = "June"
-        monthnames[6] = "July"
-        monthnames[7] = "August"
-        monthnames[8] = "September"
-        monthnames[9] = "October"
-        monthnames[10] = "November"
-        monthnames[11] = "December"
-
-
-// array of hour names
-
-        var hournames = new makeArray(24)
-        hournames[0] = "00"
-        hournames[1] = "01"
-        hournames[2] = "02"
-        hournames[3] = "03"
-        hournames[4] = "04"
-        hournames[5] = "05"
-        hournames[6] = "06"
-        hournames[7] = "07"
-        hournames[8] = "08"
-        hournames[9] = "09"
-        hournames[10] = "10"
-        hournames[11] = "11"
-        hournames[12] = "12"
-        hournames[13] = "13"
-        hournames[14] = "14"
-        hournames[15] = "15"
-        hournames[16] = "16"
-        hournames[17] = "17"
-        hournames[18] = "18"
-        hournames[19] = "19"
-        hournames[20] = "20"
-        hournames[21] = "21"
-        hournames[22] = "22"
-        hournames[23] = "23"
-
-
-// array of minute names
-
-        var minutenames = new makeArray(60)
-        minutenames[0] = "00"
-        minutenames[1] = "01"
-        minutenames[2] = "02"
-        minutenames[3] = "03"
-        minutenames[4] = "04"
-        minutenames[5] = "05"
-        minutenames[6] = "06"
-        minutenames[7] = "07"
-        minutenames[8] = "08"
-        minutenames[9] = "09"
-        minutenames[10] = "10"
-        minutenames[11] = "11"
-        minutenames[12] = "12"
-        minutenames[13] = "13"
-        minutenames[14] = "14"
-        minutenames[15] = "15"
-        minutenames[16] = "16"
-        minutenames[17] = "17"
-        minutenames[18] = "18"
-        minutenames[19] = "19"
-        minutenames[20] = "20"
-        minutenames[21] = "21"
-        minutenames[22] = "22"
-        minutenames[23] = "23"
-        minutenames[24] = "24"
-        minutenames[25] = "25"
-        minutenames[26] = "26"
-        minutenames[27] = "27"
-        minutenames[28] = "28"
-        minutenames[29] = "29"
-        minutenames[30] = "30"
-        minutenames[31] = "31"
-        minutenames[32] = "32"
-        minutenames[33] = "33"
-        minutenames[34] = "34"
-        minutenames[35] = "35"
-        minutenames[36] = "36"
-        minutenames[37] = "37"
-        minutenames[38] = "38"
-        minutenames[39] = "39"
-        minutenames[40] = "40"
-        minutenames[41] = "41"
-        minutenames[42] = "42"
-        minutenames[43] = "43"
-        minutenames[44] = "44"
-        minutenames[45] = "45"
-        minutenames[46] = "46"
-        minutenames[47] = "47"
-        minutenames[48] = "48"
-        minutenames[49] = "49"
-        minutenames[50] = "50"
-        minutenames[51] = "51"
-        minutenames[52] = "52"
-        minutenames[53] = "53"
-        minutenames[54] = "54"
-        minutenames[55] = "55"
-        minutenames[56] = "56"
-        minutenames[57] = "57"
-        minutenames[58] = "58"
-        minutenames[59] = "59"
-
-
-// define date variables
-
-        var now = new Date()
-        var day = now.getDay()
-        var month = now.getMonth()
-        var year = now.getYear()
-        var date = now.getDate()
-        var hour = now.getHours()
-        var minutes = now.getMinutes()
-
-
-// write date
-
-        function writeDate()
-        {       document.write("<strong><FONT FACE='verdana' COLOR='white' SIZE='1'> " +      daynames[day] + " - " +      monthnames[month] + " " + date + ", 2002"+"  "      +"</FONT></strong>")
-        }
-
-</script></head>
- 
-<body bgcolor="#102C79" text="#FFFFFF" link="#FFCC33" vlink="#FF9933" alink="#FF6633" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table width="764" border="0" cellpadding="0" cellspacing="0" align="center">
+<title>2DayFM - 2Day's Best Music</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="today.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" background="images/bg_2day.jpg" text="#333333" link="#0066FF" vlink="#0066FF" alink="#0066FF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr> 
-    <td><img src="images/spacer.gif" width="4" height="1"></td>
-    <td><img src="images/spacer.gif" width="119" height="1"></td>
-    <td><img src="images/spacer.gif" width="161" height="1"></td>
-    <td><img src="images/spacer.gif" width="363" height="1"></td>
-    <td><img src="images/spacer.gif" width="111" height="1"></td>
-    <td><img src="images/spacer.gif" width="6" height="1"></td>
-  </tr>
-  <tr> 
-    <td colspan="6"><img src="images/site_01.gif" width="764" height="7"></td>
-  </tr>
-  <tr> 
-    <td><img src="images/site_02.gif" width="4" height="78"></td>
-    <td><img src="images/site_03.gif" width="119" height="78"></td>
-    <td><img src="images/site_04.gif" width="161" height="78"></td>
-    <td colspan="2" background="images/site_05.gif" align="center"> 
-      <a href="/banners/adclick.php"><img src="/banners/adview.php?clientID=1" border="0"></a>
-    </td>
-    <td> <img src="images/site_06.gif" width="6" height="78"></td>
-  </tr>
-  <tr> 
-    <td><img src="images/site_07.gif" width="4" height="52"></td>
-    <td colspan="4"> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="754" height="52">
-        <param name="movie" value="flash/navigation.swf">
+    <td width="632" colspan="5" background="images/positionerbgtrans.gif"> <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="632" height="81" align="">
+        <param name="movie" value="flash/positioner_db.swf">
+        <param name="menu" value="false">
         <param name="quality" value="high">
-        <embed src="flash/navigation.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="754" height="52"></object></td>
-    <td><img src="images/site_09.gif" width="6" height="52"></td>
+        <param name="wmode" value="transparent">
+        <param name="bgcolor" value="#FFFFFF">
+        <embed src="flash/positioner_db.swf" menu="false" quality="high" wmode="transparent" bgcolor="#FFFFFF" width="632" height="81" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"> 
+      </object> </td>
+    <td width="126" height="81" colspan="2" valign="bottom" background="images/signup.gif"><div align="center">
+<form action="http://www.2dayfm.com.au/live-feed/PopFiction/pop_fiction.php" method="post">
+          <table width="126" height="100%" border="0" cellpadding="0">
+            <tbody><tr> 
+              <td valign="bottom">
+<input name="pop_fiction_email" type="text" id="pop_fiction_email" size="8" maxlength="50">
+              </td>
+              <td valign="bottom"> <div align="center"> 
+                  <input name="imageField" type="image" src="images/button_go.gif" border="0">
+                </div></td>
+            </tr>
+          </tbody></table>
+        </form>
+      </div></td>
+    <td> <img src="images/indexx_03.gif" width="2" height="81"></td>
   </tr>
   <tr> 
-    <td valign="top"><img src="images/site_10.gif" width="4" height="1050"></td>
-    <td colspan="4" background="images/new_12.gif" valign="top"> 
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td width="121" colspan="3" rowspan="5" valign="top" background="images/bglh.gif"> 
+      <table width="121" border="0" cellpadding="0" cellspacing="0">
         <tbody><tr> 
-          <td> 
-            <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td align="right"> 
-                  <script language="JavaScript">
-writeDate();
-</script><strong><font face="verdana" color="white" size="1"> Friday - January 31, 2002  </font></strong>
-                </td>
-              </tr>
-              <tr> 
-                <td><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>PRIVACY 
-                  POLICY</b> </font> 
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">2Day 
-                    FM is committed to the protection of your personal information 
-                    and follows the National Privacy principles for the fair handling 
-                    of Information. This policy may be reviewed from time to time 
-                    so it is best to read it at any time you are proposing to 
-                    supply personal information. By using our site you agree to 
-                    this policy. </font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">This 
-                    privacy policy sets out what sort of information we hold, 
-                    for what purpose, and how we collect hold and use that information 
-                    and also advises you of any matters of which you should be 
-                    aware regarding information we may collect about you. </font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">So 
-                    that we can provide opportunities and services to you we may 
-                    ask for personal details like name, address, email address, 
-                    age, telephone number and gender. </font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">If 
-                    your information is provided as part of an entry in a contest 
-                    then we will need the contact information to notify winners 
-                    and enable you to be registered in any prize draw by chance. 
-                    Depending on the contest, each entrant's information might 
-                    also be included in a database which may be used to provide 
-                    special offers to you from time to time. </font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Sometimes 
-                    in relation to a particular contest or registration we will 
-                    seek additional information and in each of those cases we 
-                    will advise you of the purpose of that additional information 
-                    at the time it is sought.</font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">The 
-                    data base demographic make-up will be researched on an aggregated 
-                    basis to see how successfully we are reaching our target audience 
-                    and providing services and items of interest to them.</font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We 
-                    will not sell your name or contact details to a third party 
-                    without your permission, but we may provide advertisers with 
-                    general information concerning the demographic make-up of 
-                    traffic to our website. This information does not enable you 
-                    to be identified as it is aggregated. . </font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We 
-                    will not use or disclose your personal information without 
-                    your consent unless -<br>
-                    · required by law<br>
-                    · we believe it necessary to provide you with a service 
-                    which you have requested<br>
-                    · to protect rights or property of [station] or any 
-                    of its related companies or any other user of their services<br>
-                    · to lessen a serious threat to a person's health or 
-                    safety <br>
-                    <br>
-                    You do need to be aware that our website will contain links 
-                    to other websites. If you click on a link to another site 
-                    you will leave our website and will need to refer to that 
-                    other party's privacy conditions and policy because ours will 
-                    then no longer apply. </font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Cookies 
-                    are pieces of information that are stored on your computer's 
-                    hard disk. Most web-browsers are set to accept cookies but 
-                    you can set your web-browser to refuse cookies. Cookies themselves 
-                    do not identify users but they do allow the tracking of a 
-                    customer's use of a website. Cookies have become commonplace.</font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Advertisers 
-                    or sponsors on this site may collect information when you 
-                    view or click on their advertisements. We do not have any 
-                    control over this data collection. </font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">There 
-                    are security measures in place to protect the loss misuse 
-                    or alteration of information under our control. Please refer 
-                    any queries you may have concerning these to <a href="mailto:mail@2dayfm.com.au">mail@2dayfm.com.au</a></font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">If 
-                    you want to correct or alter information that may be out of 
-                    date concerning you please email <a href="mailto:mail@2dayfm.com.au">mail@2dayfm.com.au</a>. 
-                    </font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">We 
-                    will provide you with access to any of your personal information 
-                    that we hold. If you require access to any of your personal 
-                    information please contact. <br>
-                    <br>
-                    The Internet Team<br>
-                    GPO BOX 22<br>
-                    SYDNEY NSW 2001 </font></p>
-                  <p><font size="2" face="Verdana, Arial, Helvetica, sans-serif">If 
-                    you no longer wish to receive any communication from 2Day 
-                    FM you can elect to opt out from communications by notifying 
-                    <a href="mailto:mail@2dayfm.com.au">mail@2dayfm.com.au</a>.</font></p>
-                  <p></p>
-                </td>
-              </tr>
-            </tbody></table>
-          </td>
+          <td> <img src="images/menubox_01.gif" width="4" height="14"></td>
+          <td width="124" height="14" background="images/menubox_02.gif"><a href="http://www.2dayfm.com.au" class="titles">:: 
+            MENU</a></td>
         </tr>
       </tbody></table>
-    </td>
-    <td valign="top"><img src="images/site_12.gif" width="6" height="1050"></td>
+      <link href="../today.css" rel="stylesheet" type="text/css"> 
+
+
+
+<table width="121" border="0" cellpadding="0">
+  <tbody><tr> 
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr class="titles"> 
+    <td width="7"><a href="http://www.2dayfm.com.au" class="titles">:: </a></td>
+    <td width="109"><a href="http://www.2dayfm.com.au" class="titles">HOME</a></td>
   </tr>
   <tr> 
-    <td><img src="images/site_13.gif" width="4" height="57"></td>
-    <td colspan="3" background="images/site_14.jpg" align="right"><font size="1" face="Verdana, Arial, Helvetica, sans-serif"> 
-      <a href="http://www.2dayfm.com.au">[home]</a> <a href="http://www.2dayfm.com.au/search.shtml">[search]</a> 
-      <a href="http://www.2dayfm.com.au/terms.shtml">[general terms and conditions]</a> 
-      <a href="http://www.2dayfm.com.au/privacy.shtml">[privacy policy]</a> <a href="http://www.2dayfm.com.au/comments.shtml">[comments 
-      and feedback]</a> <a href="http://www.2dayfm.com.au/contact.shtml">[contact 
-      us]</a> <a href="http://www.2dayfm.com.au/help.shtml">[help]</a> </font> 
-    </td>
-    <td><img src="images/site_15.gif" width="111" height="57"></td>
-    <td><img src="images/site_16.gif" width="6" height="57"></td>
+    <td valign="top" class="titles"><a href="http://www.2dayfm.com.au/morningcrew/index.php" class="titles">::</a></td>
+    <td class="titles"><a href="http://www.2dayfm.com.au/morningcrew/index.php" class="titles">THE 
+      MORNING CREW</a></td>
   </tr>
   <tr> 
-    <td colspan="6"><img src="images/site_17.gif" width="764" height="4"></td>
+    <td class="items">&nbsp;</td>
+    <td><a href="http://www.2dayfm.com.au/morningcrew/index.php" class="items">Crew 
+      today</a></td>
+  </tr>
+  <tr> 
+    <td class="items">&nbsp;</td>
+    <td><a href="http://www.2dayfm.com.au/morningcrew/battle.php" class="items">Battle 
+      of the Sexes</a></td>
+  </tr>
+  <tr> 
+    <td class="items">&nbsp;</td>
+    <td><a href="http://www.2dayfm.com.au/gallery/index.php" class="items">Photo 
+      Gallery</a></td>
+  </tr>
+  <tr> 
+    <td class="items">&nbsp;</td>
+    <td><a href="http://vfpxt.vodafone.com.au/events/2dayfm/studio/" target="_blank" class="items">Vodafone 
+      In Studio PXT</a></td>
+  </tr>
+  <tr> 
+    <td class="titles">::</td>
+    <td class="titles">MUSIC</td>
+  </tr>
+  <tr> 
+    <td class="items">&nbsp;</td>
+    <td><a href="http://www.2dayfm.com.au/music/gigs.php" class="items">Gigs</a></td>
+  </tr>
+  <tr> 
+    <td class="items">&nbsp;</td>
+    <td><a href="http://www.2dayfm.com.au/music/net4.php" class="items">Net 4 
+      @ 4</a></td>
+  </tr>
+  <tr> 
+    <td class="items">&nbsp;</td>
+    <td><a href="http://www.2dayfm.com.au/p_cat/index.php" class="items">Australian 
+      First</a></td>
+  </tr>
+  <tr class="titles"> 
+    <td><a href="http://www.2dayfm.com.au/prizes/index.php" class="titles">::</a></td>
+    <td><a href="http://www.2dayfm.com.au/prizes/index.php" class="titles">PRIZES 
+      &amp; OFFERS</a></td>
+  </tr>
+  <tr class="titles"> 
+    <td class="items">&nbsp;</td>
+    <td><a href="http://www.2dayfm.com.au/prizes/winners.php" class="items">Winners</a></td>
+  </tr>
+  <tr class="titles"> 
+    <td><a href="http://www.2dayfm.com.au/mobile/index.php" class="titles">::</a></td>
+    <td><a href="http://www.2dayfm.com.au/gallery/index.php" class="titles">PHOTO 
+      GALLERY</a></td>
+  </tr>
+  <tr class="titles"> 
+    <td><a href="http://www.2dayfm.com.au/mobile/index.php" class="titles">::</a></td>
+    <td><a href="http://www.2dayfm.com.au/mobile/ringtones.php" class="titles">MOBILE</a></td>
+  </tr>
+  <!--<tr> 
+    <td class="titles"><a href="http://www.2dayfm.com.au/chat/index.php" class="titles">::</a></td>
+    <td class="titles"><a href="http://www.2dayfm.com.au/chat/index.php" class="titles">CHAT</a></td>
+  </tr> -->
+  <tr class="titles"> 
+    <td>::</td>
+    <td>ON AIR</td>
+  </tr>
+  <tr> 
+    <td class="items">&nbsp;</td>
+    <td><a href="http://www.2dayfm.com.au/djs/index.php" class="items">DJs</a></td>
+  </tr>
+  <tr> 
+    <td class="items">&nbsp;</td>
+    <td><a href="http://www.2dayfm.com.au/djs/shows.php" class="items">Shows</a></td>
+  </tr>
+  <tr class="titles"> 
+    <td><a href="http://www.2dayfm.com.au/thunders/index.php" class="titles">::</a></td>
+    <td><a href="http://www.2dayfm.com.au/thunders/index.php" class="titles">THUNDERS</a></td>
+  </tr>
+  <tr class="titles"> 
+    <td><a href="http://www.2dayfm.com.au/2days_syd/index.php" class="titles">::</a></td>
+    <td><a href="http://www.2dayfm.com.au/live-feed/PopFiction/pop_fiction.php" class="titles">GET 
+      POP FICTION</a></td>
+  </tr>
+  <tr class="titles"> 
+    <td><a href="http://www.2dayfm.com.au/2days_syd/index.php" class="titles">::</a></td>
+    <td><a href="http://www.2dayfm.com.au/2days_syd/index.php" class="titles">2DAY'S 
+      SYDNEY</a></td>
+  </tr>
+  <tr> 
+    <td class="items">&nbsp;</td>
+    <td><a href="http://www.2dayfm.com.au/2days_syd/bella.php" class="items">Bella</a></td>
+  </tr>
+  <tr> 
+    <td class="items">&nbsp;</td>
+    <td><a href="http://www.2dayfm.com.au/2days_syd/crave.php" class="items">Crave</a></td>
+  </tr>
+  <tr> 
+    <td class="items"><a href="http://www.2dayfm.com.au/2days_syd/index.php" class="titles">::</a></td>
+    <td><a href="http://www.austereo.com.au/live-feed/researchlab/entry.php?station=2DAY" target="_blank" class="titles">RESEARCH 
+      LAB</a></td>
+  </tr>
+  <tr class="titles"> 
+    <td><a href="http://www.hot30.com" class="titles">::</a></td>
+    <td><a href="http://www.hot30.com" class="titles">HOT30</a></td>
   </tr>
 </tbody></table>
-<map name="MapMap"> 
-  <area shape="rect" coords="96,28,158,49" href="http://www.2dayfm.com.au/search.shtml">
-  <area shape="rect" coords="158,27,342,48" href="http://www.2dayfm.com.au/terms.shtml">
-  <area shape="rect" coords="342,29,506,49" href="http://www.2dayfm.com.au/comments.shtml">
-  <area shape="rect" coords="505,28,587,48" href="http://www.2dayfm.com.au/contact.shtml">
-  <area shape="rect" coords="588,29,641,49" href="http://www.2dayfm.com.au/help.shtml">
-  <area shape="rect" coords="49,30,95,50" href="http://www.2dayfm.com.au">
-</map>
+ <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p>&nbsp;</p>
+      <p><br>
+      </p></td>
+    <td width="511" colspan="2"> </td>
+    <td colspan="3" rowspan="5" align="center" valign="top" background="images/bgrh.gif"> 
+      <table width="128" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr> 
+
+
+
+    <td> <img src="http://www.2dayfmcom.au/images/contentbox_01.gif" width="12" height="14"></td>
+
+
+
+    <td width="116" height="14" background="http://www.2dayfm.com.au/images/contentbox_02.gif" class="titles">:: 
+
+
+
+      CD OF THE WEEK </td>
+
+
+
+  </tr>
+
+
+
+  <tr> 
+
+
+
+    <td colspan="2"> <a href="http://www.2dayfm.com.au/p_cdweek/index.php"><img src="http://www.2dayfm.com.au/images/contentbox_03.gif" alt="CD of the Week" width="128" height="87" border="0"></a></td>
+
+
+
+  </tr>
+
+
+
+</tbody></table>
+
+
+
+
+<br><!--
+<script language='JavaScript' src='http://www.2dayfm.com.au/live-feed/banners/adjs.php?clientID=84&target=blank&withText=0'></script> -->
+<br>
+ </td>
+  </tr>
+  <tr> 
+    <td width="511" colspan="2"><div align="center"> 
+        <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="511" height="25" align="">
+          <param name="movie" value="flash/justplayed.swf">
+          <param name="quality" value="high">
+          <param name="wmode" value="transparent">
+          <param name="bgcolor" value="#FFFFFF">
+          <embed src="flash/justplayed.swf" quality="high" wmode="transparent" bgcolor="#FFFFFF" width="511" height="25" align="" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer"> 
+        </object>
+      </div></td>
+  </tr>
+  <tr> 
+    <td colspan="2">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td colspan="2"> <table width="511" border="0" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td> <img src="images/tier1_01.gif" width="13" height="21"></td>
+          <td width="498" height="21" valign="bottom" background="images/tier1_02.gif"> 
+            <a href="http://www.2dayfm.com.au" class="titles">:: PRIVACY POLICY</a></td>
+        </tr>
+        <tr> 
+          <td background="images/tier1_03.gif"> <img src="images/tier1_03.gif" width="13" height="180"></td>
+          <td valign="top" background="images/tier1_04.gif"> <h3><br>
+              This Privacy Policy applies to the collection of Personal Information 
+              by or on behalf of Austereo Pty Ltd, Consolidated Broadcasting System 
+              (WA) Pty Ltd, Perth FM Radio Pty Ltd and all other members of the 
+              Austereo Pty Ltd group of companies (“Austereo”).
+            <p>On some occasions we may conduct a promotion or other activity 
+              which has its own specific Privacy Policy. In this case, notice 
+              of that policy will be provided at the time any Personal Information 
+              is sought and that policy will apply to that promotion or activity 
+              and will override this policy to the extent of any inconsistency.</p>
+            <p>INTRODUCTION<br>
+              Austereo operates a number of broadcast radio stations throughout 
+              Australia. Through our varied operations, we gather information 
+              for a variety of reasons, for example to enable us to improve the 
+              nature of the services we provide and to facilitate the running 
+              of various competitions.</p>
+            <p>We collect personal information from you in various ways, for example, 
+              when you enter competitions, advertise with us, supply goods or 
+              services to us or send us your comments or other correspondence. 
+              For the purposes of this Privacy Policy all parties we deal with 
+              are referred to as “Individuals”. The personal information 
+              we collect from you may include your contact details, buying habits, 
+              opinions, product preferences, transactional details or other information 
+              which may lead you to be identified (herein referred to as “PI”).</p>
+            <p>We are committed to the protection of PI in a manner which is fair 
+              and unobtrusive. We meet the standards set out in the Privacy Act 
+              1988 (Commonwealth) (“the Act”) and the National Privacy 
+              Principles (“NPPs”) regarding the way in which we will 
+              collect, hold, use and disclose PI and respond to your requests 
+              to access and/or correct it. This policy sets out how we handle 
+              your PI and the rights and obligations that we both have in relation 
+              to that information.</p>
+            <p>This policy may be reviewed from time to time so it is best to 
+              read it at any time you are proposing to supply us with PI. By using 
+              our website or providing PI, you agree to be bound by the terms 
+              of this Privacy Policy and consent to any use of PI that is in accordance 
+              with this policy. Any proposed use of PI that is not covered by 
+              this policy will be disclosed at or prior to the time of collection 
+              and where practicable, your consent will be obtained.</p>
+            <p>ANONYMITY<br>
+              In accordance with the NPPs, you may deal with us on an anonymous 
+              basis where practical. However, as a provider of a wide range of 
+              services, we find that it is often necessary to collect PI from 
+              you during the course of transactions, for example, to facilitate 
+              the running of a competition.</p>
+            <p>CONSENT<br>
+              Wherever practical, we will obtain your express consent when collecting 
+              PI. In some situations, we will interpret your actions as indicating 
+              your consent to the collection of PI. For example, this may occur 
+              when you have provided PI for a particular purpose and that purpose 
+              cannot be achieved without using your PI.</p>
+            <p>WHY WE COLLECT PERSONAL INFORMATION<br>
+              We collect PI for a number of reasons, including:</p>
+            <p>• to provide you with our products or services; <br>
+              • to administer our relationship with you; <br>
+              • to facilitate the running of trade promotions and other 
+              competitions (see below); <br>
+              • to facilitate the running of listener loyalty programs such 
+              as the Freq Club;<br>
+              • to monitor activity on our websites, for the purpose of 
+              maintaining the security of those websites;<br>
+              • to compile Individual and listener databases to enable us 
+              to market goods and services more accurately;<br>
+              • to provide advertisers with information to assist them in 
+              their decision making processes and marketing of goods and services; 
+              <br>
+              • for internal administrative purposes, such as procedural 
+              assessments, risk management, staff training, accounting, billing 
+              and product and service reviews; and <br>
+              • to identify and inform you about other products or services 
+              that may be of interest to you.</p>
+            <p>If our relationship with you is not solely one of broadcaster-listener, 
+              we may use your information in other ways, for example, to assess 
+              goods or services that you supply or to pay your account.</p>
+            <p>COMPETITIONS<br>
+              If you provide us with PI as part of an entry into a competition 
+              then we will use that information to contact you in connection with 
+              the competition and in accordance with this Privacy Policy. </p>
+            <p>Depending on the nature of the competition or offer, we will ask 
+              for your personal details such as your name, address, email address, 
+              age, telephone number/s and/or gender. Sometimes in relation to 
+              a particular competition we may also seek additional information.</p>
+            <p>PI collected during competitions will be governed by the terms 
+              set out in this Privacy Policy unless otherwise stated in the conditions 
+              of entry for the competition, or an alternate Privacy Policy applies.</p>
+            <p>CONSEQUENCES OF NOT PROVIDING ALL REQUIRED INFORMATION<br>
+              We may not be able to provide a complete service to you if PI is 
+              not provided upon request. For example, providing incomplete information 
+              could render a competition entry invalid.</p>
+            <p>HOW WE COLLECT PERSONAL INFORMATION<br>
+              We primarily collect PI directly from you through written and/or 
+              verbal means of communication. However, PI may be collected in a 
+              variety of ways, including:</p>
+            <p>• competition entry forms;<br>
+              • application forms;<br>
+              • participation in the Freq Club or other listener loyalty 
+              programs;<br>
+              • email;<br>
+              • posted mail;<br>
+              • websites (including in some instances cookies);<br>
+              • online transactions;<br>
+              • networking functions (eg business cards);<br>
+              • in person;<br>
+              • over the telephone;<br>
+              • credit card details via credit card purchases;<br>
+              • public surveys;<br>
+              • employee applications and surveys;<br>
+              • business contacts (eg contractual documents);<br>
+              • information collected from third parties (eg marketing databases);<br>
+              • information collected from public sources (eg telephone 
+              directories); and<br>
+              • other forms of written and verbal communication.</p>
+            <p>We may also obtain details about you or your business from sources 
+              that are publicly available such as websites, journals, legal directories 
+              and phone books. We will only collect information about you from 
+              third parties in rare circumstances, for example where one of your 
+              friends indicates to us that one of our services or products may 
+              be of interest to you. If we do collect PI in this manner, it will 
+              only comprise of your name and contact details and we will endeavor 
+              to make you aware of the collection of this information, the third 
+              party’s contact details and this Privacy Policy.</p>
+            <p>We may also collect anonymous information through the use of cookies 
+              on our website. Cookies are pieces of information that are stored 
+              on your computer’s hard disk. Most web-browsers are set to 
+              accept cookies but you can set your web-browser to refuse cookies. 
+              Cookies themselves do not identify users personally but they do 
+              allow the tracking of an Individual’s use of a website. Cookies 
+              have become commonplace.</p>
+            <p>THE TYPE OF INFORMATION WE HOLD ABOUT YOU<br>
+              We only hold information about you that is relevant to our relationship 
+              with you. Generally, the PI we hold will include (where relevant) 
+              your name, contact details, membership/card/account number/s, records 
+              of correspondence, subscription and payment details, type of business 
+              and billing statements.</p>
+            <p>If our relationship with you is not solely one of broadcaster-listener, 
+              we may collect other information that we consider necessary in the 
+              circumstances, such as the nature of the products or services that 
+              you supply, quotes that you provide, your credit details and, if 
+              you are a non-profit organisation that we have agreed to assist, 
+              how you make use of the products or services that we provide you. 
+            </p>
+            <p>Sensitive Information<br>
+              Sensitive information includes information about your race or ethnic 
+              origins, political opinions, religious or philosophical beliefs, 
+              trade union membership, or details of health, disability or sexual 
+              activity or orientation. We rarely ask for sensitive information, 
+              but may do so occasionally as part of competition, promotion or 
+              survey, for example. We will not ask for sensitive information unless:</p>
+            <p>• you have consented;<br>
+              • the collection of the information is specifically authorised 
+              by law;<br>
+              • the collection is necessary to lessen a serious or imminent 
+              threat to the health or safety or any person; or<br>
+              • the collection of the information is necessary for the establishment, 
+              exercise or defence of a legal claim.</p>
+            <p>HOW WE HOLD YOUR PERSONAL INFORMATION<br>
+              Depending on the circumstances, we may hold PI in hardcopy or electronic 
+              form, or both. Generally, we keep hardcopies of all correspondence 
+              that we enter into and maintain details about Individuals that we 
+              interact with in our electronic database/s. </p>
+            <p>HOW WE SECURE YOUR PERSONAL INFORMATION<br>
+              We hold all hardcopy and electronic records of PI in a secure manner 
+              to ensure that it is protected from loss, misuse, unauthorised access, 
+              modification or disclosure. PI held in hardcopy form is, wherever 
+              practical, kept under lock and key. Pl held in electronic form is, 
+              wherever practical, password protected and/or encrypted.</p>
+            <p>Our staff follows strict information handling procedures and only 
+              those whose tasks require use of your information are able to access 
+              it.</p>
+            <p>We regularly de-identify and/or destroy PI in a secure manner, 
+              for example by using shredding machines and/or secure disposal units, 
+              once it is no longer needed or required to be kept by law. <br>
+              Where possible and practical, we endeavour to comply with recognised 
+              Australian and international standards relating to information security.</p>
+            <p>USE AND DISCLOSURE OF PERSONAL INFORMATION<br>
+              We will only disclose your PI in certain, limited circumstances.</p>
+            <p>In general, only our officers, employees or contractors who require 
+              the information in order to perform their functions may access PI. 
+            </p>
+            <p>We will only disclose PI to parties other than our officers, employees 
+              and contractors where:</p>
+            <p>• that disclosure is required to give effect to the purpose/s 
+              for which we collected the PI, for example, to provide you with 
+              a service you have requested, and we believe that you would reasonably 
+              expect us to use the information; or<br>
+              • you have consented to that disclosure; or<br>
+              • we believe that the disclosure may lessen a risk of harm 
+              to the health or safety of any person; or<br>
+              • we believe that the disclosure is required to protect our 
+              rights or property or any other user of our services; or<br>
+              • we believe an unlawful activity is being undertaken and 
+              the PI is disclosed as part of our investigation into or reporting 
+              of suspected unlawful activity; or<br>
+              • we are required by law to disclose the PI; or <br>
+              • the disclosure is required for the investigation of a possible 
+              breach or enforcement of a criminal law or a law imposing a pecuniary 
+              penalty, or for the protection of public revenue. </p>
+            <p>Generally, disclosure of PI will only be made for a purpose that 
+              is directly related to the product or service that we are providing 
+              you. This may include disclosure to organisations that provide us 
+              with professional advice, such as solicitors and accountants, and 
+              to contractors to whom we outsource functions, such as mailing houses, 
+              collators, electronic network administrators or debt collection 
+              agencies. However, where possible, we take contractual measures 
+              and, in all other circumstances, all reasonable measures with our 
+              contractors to ensure that they comply with the standards set out 
+              in the Act and the NPPs. Where practicable and appropriate, we require 
+              our contractors to perform their work in-house and do not permit 
+              them to disclose PI that we have disclosed to them to their sub-contractors 
+              (if any).<br>
+              The only other circumstances in which disclosure of PI may occur 
+              are those which are expressly permitted under the Act. For example, 
+              where the disclosure takes place with your consent or where we are 
+              legally required to disclose the information, such as under a court 
+              order or Australian taxation laws.<br>
+              Overseas Transfers of Information<br>
+              We will only transfer your Personal Information overseas if the 
+              transfer is to yourself, to one of your authorised representatives, 
+              or with your express consent.</p>
+            <p>If obtaining your consent is not practical, then the information 
+              may still be transferred if, as part of the agreement for the transfer 
+              of that information, the other organisation agrees to comply with 
+              the privacy obligation we owe to you. </p>
+            <p>PI may be transferred to our majority shareholder Village Roadshow, 
+              for the purpose of providing you with information regarding upcoming 
+              offers and opportunities offered by Village Roadshow.</p>
+            <p>PI may be transferred to Fairwest Direct Inc (“Fairwest”) 
+              and Level 3 Communications Inc (“Level 3”) in the United 
+              States of America in order to facilitate the listener loyalty program 
+              known as the Freq Club. By participating in the Freq Club, you consent 
+              to the transfer of your PI overseas. Fairwest and Level 3 do not 
+              have permission to use, sell, transfer or access PI in any way except 
+              in connection with facilitating the Freq Club. Our agreement in 
+              relation to the Freq Club requires that all third parties adhere 
+              to the NPPs in every respect.</p>
+            <p>We will not send your information outside of Australia in any other 
+              circumstances, unless we have your consent.</p>
+            <p>Aggregated Information<br>
+              The demographic make-up of our database is researched on an aggregated 
+              basis to see how successfully we are reaching our target audience 
+              and providing services and items of interest to them.</p>
+            <p>We will not sell your name or contact details to a third party 
+              without your permission, but we may provide advertisers with general 
+              information concerning, for example, the demographic make-up of 
+              our listener base and/or traffic to our website. This information 
+              does not enable you to be identified as it is aggregated.</p>
+            <p>OTHER SITES<br>
+              Please note that our website contains links to other websites which 
+              are not administered by us. If you click on a link to another website 
+              and subsequently leave our website, our Privacy Policy will no longer 
+              apply, and we suggest that you refer to the privacy policy relating 
+              to the other website. </p>
+            <p>ADVERTISEMENTS<br>
+              Advertisers or sponsors on our websites may collect information 
+              when you view or click on their advertisements. We do not have any 
+              control over this data collection.</p>
+            <p>YOUR RIGHT OF ACCESS<br>
+              You may request access to your PI at any time by written request 
+              to Austereo’s Privacy Officer by mail at GPO Box 107.1 Adelaide 
+              South Australia 5000, or by email to privacy@austereo.com.au.</p>
+            <p>We may impose a reasonable charge for providing access to Personal 
+              Information in accordance with the Act.</p>
+            <p>When we may withhold access to PI<br>
+              Access to PI may be withheld in several circumstances, including 
+              where:</p>
+            <p>• providing access would pose a serious and imminent threat 
+              to the life or health of any person;<br>
+              • providing access would have an unreasonable impact on the 
+              privacy of others;<br>
+              • the information is subject to confidentiality where the 
+              person who provided the information to us did so expressly on the 
+              condition that it remain confidential;<br>
+              • the request is vexatious or frivolous;<br>
+              • the information relates to current or anticipated legal 
+              proceedings between Austereo and the person and the information 
+              would not be required to be discovered to a court;<br>
+              • we are in commercial negotiations with the person and the 
+              information would reveal our intentions or otherwise prejudice those 
+              negotiations;<br>
+              • providing access would reveal information relating to our 
+              commercially sensitive decision making processes;<br>
+              • providing access would be unlawful or we are required by 
+              law to withhold access; or<br>
+              • providing access could prejudice the investigation, detection 
+              or prosecution by Austereo or by a government body of possible unlawful 
+              activity or serious or improper misconduct, or is likely to cause 
+              damage to the security of Australia.<br>
+              Where we are unable to provide you with access to PI, we will provide 
+              written reasons and may instead, at our discretion, choose to give 
+              you a summary of that information. We may also consider, at our 
+              discretion, whether the provision of access to an independent third 
+              party will meet both of our requirements. </p>
+            <p>YOU MAY CORRECT YOUR PERSONAL INFORMATION<br>
+              We regularly monitor the quality and accuracy of PI that we maintain 
+              and, where practicable, update that information. In addition, you 
+              may request that your PI be updated at any time. </p>
+            <p>If your PI is out-of-date or otherwise incorrect, please contact 
+              Austereo’s Privacy Officer with your written advice regarding 
+              the inaccuracy of the information and we will endeavour to correct 
+              it for you wherever possible. </p>
+            <p>In the unlikely event that we disagree about the accuracy of the 
+              information such that we are unable to change it, you may provide 
+              us with a statement that you dispute its accuracy and we will associate 
+              the statement with your information in such a manner that it will 
+              be brought to the attention of each person who uses that information. 
+            </p>
+            <p>YOUR RIGHT TO LODGE A COMPLAINT<br>
+              If you are not satisfied with the manner in which we have handled 
+              your PI, you may lodge a complaint in writing with Austereo’s 
+              Privacy Officer. We will inform you as to who will handle your complaint.</p>
+            <p>PROMOTIONAL INFORMATION<br>
+              We would like to send you promotional information about goods and 
+              services that we believe may be of interest to you. However, we 
+              understand that you may not wish to receive such material. You will 
+              have an opportunity to “opt in” and/or “opt out” 
+              (as applicable) in connection with promotions except in some cases 
+              where you would be notified that opting in was a condition of participation. 
+              If this is the case, please inform our Privacy Officer and we will 
+              promptly remove your name from our mailing list. </p>
+            <p>DIRECT MARKETING<br>
+              PI collected for direct marketing purposes will only be collected, 
+              used or disclosed with your consent as provided for in this Privacy 
+              Policy. </p>
+            <p>In circumstances where we cannot practicably obtain your consent, 
+              we may still engage in direct marketing to you, but will:</p>
+            <p>(a) advise you that you can be taken off the mailing list at any 
+              time following receipt of a request from you to that effect; and</p>
+            <p>(b) display our contact details clearly in each direct marketing 
+              publication.</p>
+            <p>You may be removed from any Austereo mailing list at any time. 
+              Simply send a written request to Austereo’s Privacy Officer.</p>
+            <p>WE MAY NEED TO CHANGE OUR PRIVACY POLICY FROM TIME TO TIME<br>
+              Due to changing business circumstances and legal requirements, we 
+              may need to amend this Privacy Policy from time to time. If so, 
+              we will publish the revised policy on our website/s. Any action 
+              that was undertaken prior to the policy change will continue to 
+              be regulated by the policy as it existed at the time the action 
+              was taken. </p>
+            <p>FURTHER INFORMATION<br>
+              Further information about privacy may be obtained from the Office 
+              of the Federal Privacy Commissioner of Australia at: http://www.privacy.gov.au.</p>
+            <p>CONTACT US<br>
+              If you have any queries about this Privacy Policy, please contact 
+              Austereo’s Privacy Officer by mail at GPO Box 107.1 Adelaide 
+              South Australia 5000 or by email to privacy@austereo.com.au.</p>
+            <p>Contact details for of our radio stations can be found below.</p>
+            <p>Copyright © 2003 Austereo Pty Ltd. All rights reserved.</p>
+            <p>Austereo Pty Ltd (ACN 007 914 641) trading as the following radio 
+              stations:</p>
+            <p>2DAY FM<br>
+              GPO Box 22<br>
+              Sydney NSW 2001<br>
+              Ph: 02 9375 1041</p>
+            <p>Triple M Sydney<br>
+              GPO Box 4442<br>
+              Sydney NSW 2001<br>
+              Ph: 02 9367 1000</p>
+            <p>FOX FM<br>
+              PO Box 1019<br>
+              St Kilda VIC 3182<br>
+              Ph: 03 9205 1111</p>
+            <p>Triple M Melbourne<br>
+              PO Box Triple M<br>
+              St. Kilda VIC 3182<br>
+              Ph: 03 9230 1051</p>
+            <p>B105 FM<br>
+              GPO Box 105<br>
+              Brisbane QLD 4001<br>
+              Ph: 07 3837 1053</p>
+            <p>Triple M Brisbane<br>
+              GPO Box 1041<br>
+              Brisbane QLD 4001<br>
+              Ph: 07 3361 0104</p>
+            <p>SA.FM<br>
+              PO Box 107.1<br>
+              Unley SA 5061<br>
+              Ph: 08 8301 1071</p>
+            <p>Triple M Adelaide<br>
+              PO Box 104.7<br>
+              Unley SA 5061<br>
+              Ph: 08 8290 1047</p>
+            <p>Consolidated Broadcasting System (WA) Pty Ltd (ABN 17 008 670 460) 
+              trading as 92.9<br>
+              PO Box 157<br>
+              Subiaco WA 6904<br>
+              Ph: 08 9382 0929</p>
+            <p>Perth FM Radio Pty Ltd (ABN 22 077 569 110) trading as MIX94.5<br>
+              PO Box 945<br>
+              Subiaco WA 6904<br>
+              Ph: 08 9382 0945<br></p></h3><p></p></td>
+        </tr>
+        <tr> 
+          <td> <img src="images/tier1_05.gif" width="13" height="6"></td>
+          <td> <img src="images/tier1_06.gif" width="498" height="6"></td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr> 
+    <td valign="top">&nbsp;</td>
+    <td valign="top">&nbsp;</td>
+  </tr>
+  <tr> 
+    <td background="images/indexx_24.gif"><img src="images/indexx_24.gif" width="3" height="2"></td>
+    <td background="images/indexx_25.gif"><img src="images/indexx_25.gif" width="115" height="2"></td>
+    <td background="images/indexx_25.gif"><img src="images/indexx_26.gif" width="3" height="2"></td>
+    <td background="images/indexx_25.gif"><img src="images/indexx_27.gif" width="256" height="2"></td>
+    <td background="images/indexx_25.gif"><img src="images/indexx_28.gif" width="255" height="2"></td>
+    <td background="images/indexx_25.gif"><img src="images/indexx_29.gif" width="7" height="2"></td>
+    <td background="images/indexx_25.gif"><img src="images/indexx_30.gif" width="119" height="2"></td>
+    <td background="images/indexx_25.gif"><img src="images/indexx_31.gif" width="2" height="2"></td>
+  </tr>
+</tbody></table>
+<div align="center"><a href="http://www.2dayfm.com.au/faq.php" class="titles">FAQ</a> 
+  <span class="titles">:: </span> <a href="http://www.2dayfm.com.au/advertise.php" class="titles">ADVERTISE 
+  ON 2DAYFM</a> <span class="titles">:: </span><a href="http://www.2dayfm.com.au/privacy.php" class="titles">PRIVACY 
+  POLICY</a> <span class="titles">::</span> <a href="http://www.2dayfm.com.au/terms.php" class="titles">TERMS 
+  &amp; CONDITIONS</a><a href="http://www.2dayfm.com.au/privacy.php" class="titles"></a> 
+  <span class="titles">::</span> <a href="http://www.2dayfm.com.au/terms.php" class="titles"></a><a href="http://www.2dayfm.com.au/contact.php" class="titles">CONTACT</a></div>
 
 </body></html>
