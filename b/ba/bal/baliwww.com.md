@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2003-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030402212432id_/http%3A//www.baliwww.com/index/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baliwww.com privacy policy that was archived on 2005-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050306114357id_/http%3A//baliwww.com/hotel/policy.html) for the most accurate reproduction.*
 
-# Bali Indonesia Travel Villa Hotel Portal - Baliwww.com
+# Bali Indonesia Travel Hotel Villa Accommodation Portal
 
   
 Access Bali Online, which is sister company of ABL Tours & Travel Ltd., committed to safeguarding your privacy online. Even when you visit us as a visitor and or general user, we stay give our high commitment to make you feel safe and free. In order to contact us, for instance, we provide you with various safe ways which you can prefer and use according to your own conditions. All are in safe and fair way. Please read the following  
@@ -36,9 +36,9 @@ The following sites are included and covered with and into this Privacy Policy :
 [http://bali-plus.com](http://bali-plus.com/) or [http://www.bali-plus.com](http://www.bali-plus.com/) and or pages under its.  
 [http://villas-bali.com](http://villas-bali.com/) or [http://www.villas-bali.com](http://www.villas-bali.com/) and or pages under its.  
 [http://balibackpacker.com](http://balibackpacker.com/) or [http://balibackpacker.com](http://balibackpacker.com/) and or pages under its.  
-[http://baliroomfinder.com](http://baliroomfinder.com/) or [http:/baliroomfinder.com](http://baliroomfinder.com/) and or pages under its.  
+[http://asiapacifichotel.com](http://asiapacifichotel.com/) or [http://www.asiapacifichotel.com](http://asiapacifichotel.com/) and or pages under its.  
 [http://aseanwww.com](http://aseanwww.com/) or [http://aseanwww.com](http://aseanwww.com/) and or pages under its.   
 [http://asianwww.com](http://asianwww.com/) or [http://asianwww.com](http://asianwww.com/) and or pages under its. 
 
 **More About Privacy**  
-More information about this Privacy Policy could be asked directly to our President Director via email : abldirector@baliwww.com or voice at (62-361) 731520 or 081-2391-2002.
+More information about this Privacy Policy could be asked directly to our [President Director](http://baliwww.com/index/about/contact.html) or via voice at (62-361) 731520 or 081-2391-2002.
