@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inkjetsuperstore.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208164553id_/http%3A//www.inkjetsuperstore.com/Merchant2/merchant.mv%3FScreen%3DCTGY%26Store_Code%3DT%26Category_Code%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inkjetsuperstore.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605021306id_/http%3A//www.inkjetsuperstore.com/Merchant2/merchant.mv%3FScreen%3DCTGY%26Store_Code%3DT%26Category_Code%3Dprivacy) for the most accurate reproduction.*
 
 # Inkjetsuperstore.com: Privacy Statement
 
