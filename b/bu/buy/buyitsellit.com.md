@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603072202id_/http%3A//buyitsellit.com/newbuyitsellit/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyitsellit.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209100632id_/http%3A//www.buyitsellit.com/newbuyitsellit/corp/privacy.html) for the most accurate reproduction.*
 
 # BuyItSellIt.com Auctions and Classifieds: Don't Pay Unless You Sell!
 
@@ -69,12 +69,6 @@ If you have any questions about this privacy statement, the practices of this si
 **Featured BuyItSellIt.com StoreFronts**  
 ---  
 Visit our Featured [BuyItSellIt.com StoreFronts](http://store.buyitsellit.com/) and take advantage of their special offers.  
-  
-[](http://www.gatodiablo.net/)
-
-| **Casa Del Gato Diablo :**  **Gemstones, fine jewelry and other treasures**  
-Gato Diablo has made the leap from eBay. Come see his jewelry and gems.  
-[http://www.gatodiablo.net](http://www.gatodiablo.net/)  
   
 [](http://www.gardenbuilt.com/)
 
