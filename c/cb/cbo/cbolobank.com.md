@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbolobank.com privacy policy that was archived on 2001-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011017085148id_/http%3A//www.cbolobank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbolobank.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604151048id_/http%3A//www.cbolobank.com/privacy.htm) for the most accurate reproduction.*
 
 # Central Bank - About Us - Privacy
 
@@ -6,32 +6,82 @@
 
 [](http://cbolo.mortgagewebcenter.com/)
 
+Tell us what you think.  Fill out our [Customer Satisfaction Survey](http://www.clientsatisfaction.com/survey.asp?n=cbolobank)
+
 **PRIVACY POLICY**
 
-Central Bank of Lake of the Ozarks understands that confidentiality is important to you and essential in our business. It is our policy that all personal information you supply to us will be considered confidential. We commit to our customers that we will take reasonable steps to protect the privacy of the information shared with us. This policy holds true no matter how we receive your personal information: over the phone, at our branches, or online at this Web site.
+As required by law, we are providing to you our Privacy Policy. We will provide notice of our Privacy Policy annually as long as you maintain an ongoing relationship with us.
 
-**Use, Collection and Retention of Customer Information**  
-Central Bank of Lake of the Ozarks collects your personal information to administer our business and uses your personal information to make products, services and other opportunities available to you. We also use information we collect to identify you, to communicate with you and to help us respond to your questions. **                                         **
+  
+**Our Promise**  
+As a valued customer, Central Bancompany affiliates are committed to providing you with exceptional service and product offers. We are also committed to the belief that maintaining the confidentiality of our customer's information is at the core of our relationship with our customers. Our Board of Directors has adopted this Privacy Policy so that you will understand what information we collect and how we use it. 
 
-**Maintenance of Accurate Information**  
-We strive to maintain customer financial information that is accurate, current and complete in accordance with reasonable commercial standards. We respond to requests to correct inaccurate information as promptly as possible.                                                                  
+  
+**Information We Collect**  
+We collect and retain personally identifiable information about you when we believe that the information will assist us in providing products, services and other opportunities to you and in managing your accounts and services. One of the main reasons we collect certain information is to protect your account and to identify you. The information we collect will be used to comply with certain laws and regulations that may apply to us and to help us understand your financial needs as we design or improve our products and services. We will also use your information to administer your account and transactions and to provide you with products and services that will best assist you. We collect nonpublic personal information about you from the following sources.
 
-**Employee Access and Use of Customer Information**  
-All Central Bank of Lake of the Ozarks employees are required to follow our Code of Ethics. The Code of Ethics provides that employees are obligated to keep customer information confidential and never to discuss or disclose such information inside or outside of Central Bank of Lake of the Ozarks unless required to transact proper Central Bank of Lake of the Ozarks business. Their obligation still exists even if they are no longer employed by Central Bank of Lake of the Ozarks. **                  **
-
-**  Restrictions on the Disclosure of Account Information**  
-Central Bank of Lake of the Ozarks does not reveal specific information about our customer accounts or other personally identifiable data to unaffiliated third parties for their independent use, except for the exchange of information with reputable information reporting agencies (such as credit bureaus) to maximize the accuracy and security of such information or in the performance of bona fide corporate due diligence, unless  
-
-
-  1. the information is provided to help complete a customer initiated transaction;
-  2. the customer requests it;
-  3. the disclosure is required by/or allowed by law;
-  4. the customer has been informed about the possibility of such disclosure for marketing or similar purposes through a prior communication and is given the opportunity to decline (i.e. "opt out").
+  * Information we receive from you on an application or other form; 
+  * Information about your transactions with us, our affiliates or others; 
+  * Information we receive from a credit bureau. 
 
 
 
-**Maintaining Customer Privacy in Business Relationship with Third Parties**  
-If personally identifiable customer information is provided to a third party, Central Bank of Lake of the Ozarks insists that the third party adhere to similar privacy principles that provide for keeping such information confidential.  
+Examples of nonpublic personal information include information regarding your account balance, credit card use and payment history.
+
+  
+**Information We Disclose**  
+We understand that you expect the personal information you have entrusted to us will be handled with great care. We do not disclose any nonpublic personal information about our customers or former customers to anyone, except as permitted by law. Please be assured that we will NEVER provide medical information that we may obtain in insurance applications to any affiliate or to any associate without a need to know. 
+
+  
+**Central Bancompany Affiliates**  
+We are permitted by law to share information about our experiences or transactions involving you or your account with us with companies related to us by common ownership or control ("affiliates"). We may also share other information about you or your account (such as information we receive from you in applications and information from credit bureaus) with our affiliates. Our affiliates provide important services and products designed to provide you with the highest quality financial services. We may share information about you within our family of companies so we can serve you more efficiently, offer you products and services that we know would benefit you and make it easier to do business with us. You may "opt-out" of sharing certain information with our affiliates. Even if you "opt-out", however, we will continue to share information relating to our affiliates' experiences or transactions with you or your account. If you prefer that we not share information with our affiliates that does not relate solely to our affiliates' experiences or transactions with you or your account (such as application information and credit bureau information), you may direct us not to share this information by completing the return card and mailing. You cannot "opt-out" on behalf of any other customer. 
+
+  
+**Third Parties**  
+We work with select outside companies to develop special offers for you, which many of our customers find valuable. **We do not sell or share customer information to unrelated third parties for the third parties to use for their own purposes.** We do share information with companies that print checks for us, mail customer statements or letters or provide data processing services. These companies are acting on our behalf when they provide these services and are obligated to maintain the information they receive in a confidential manner. They are never authorized to use the information for any other purposes.
+
+  
+For example, we also provide information:
+
+  * When you authorize us to release information; 
+  * To credit reporting agencies; 
+  * To other parties when it is necessary or helpful in processing transactions at your request, including other financial institutions and networks involved in processing your transactions; 
+  * In connection with maintaining or servicing your account with us or with another entity as part of a private label credit card program; 
+  * To comply with a law, regulation, court order or subpoena; 
+  * To verify the existence of your account and general information about the condition of your account for a merchant or other financial institution; 
+  * To local, state and federal authorities if we believe a crime may have been committed involving your account; 
+  * To our independent auditors, consultants or attorneys and to agencies that regulate us. 
+
+
+
+We may disclose all of the information we collect as described above to companies that perform marketing services on our behalf or to other financial institutions with which we have joint marketing agreements. Of course, those third parties would contractually agree not to use the information for any other purpose. If you close your account(s) with us, we will continue to follow this Privacy Policy.
+
+**  
+Our Security Procedures**  
+One of the ways we protect your information is by limiting access to information about you to those associates with a reason to know your information in order to provide products or services to you. In addition, we train our associates about the importance of maintaining the confidentiality of customer's information. We take appropriate disciplinary action to enforce our associate's privacy responsibilities. We maintain physical, electronic and procedural safeguards that comply with federal standards to guard your nonpublic personal information.
+
+  
+**Our Family**
+
+  * Bank of Jacomo 
+  * Boone County National Bank 
+  * Central Bank 
+  * Central Bank of Lake of the Ozarks 
+  * City Bank 
+  * First Central Bank 
+  * First National Bank of Audrain County 
+  * Jefferson Bank of Missouri 
+  * Ozark Mountain Bank 
+  * First National Bank of Missouri 
+  * Empire Bank 
+  * First National Bank of St. Louis 
+  * Third National Bank 
+  * Central Mortgage Company 
+  * Guaranty Trust Company of Missouri 
+
+
+
+**Opt-Out**  
 
 
 | **Equal Housing Lender**  
@@ -39,6 +89,6 @@ If personally identifiable customer information is provided to a third party, Ce
   
 _
 
-[© Copyright ](mailto:joe_loth@cbolobank.com)[2000 Central Bank of Lake of the Ozarks](mailto:joe_loth@cbolobank.com)
+[© Copyright ](mailto:cecilia_thomson@cbolobank.com)[2001 Central Bank of Lake of the Ozarks](mailto:cecilia_thomson@cbolobank.com)
 
 _
