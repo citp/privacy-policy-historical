@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabonline.com.au privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622104555id_/http%3A//tabonline.com.au/corporate/disclaimer.stm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabonline.com.au privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202221149id_/http%3A//tabonline.com.au/corporate/disclaimer.stm%23privacy) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy
 
