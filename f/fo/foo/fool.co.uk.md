@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2003-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030618111158id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.co.uk privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206010131id_/http%3A//www.fool.co.uk/Community/Register/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # The Motley Fool UK: Privacy Statement
 
@@ -76,13 +76,17 @@ The Motley Fool does not give, rent, lend or sell individual information to any 
 
 The Motley Fool is committed to protecting your personal information. All information that you provide to us is stored on our secure servers. Access to personalised areas of the site, such as My Fool and My Portfolio is password-protected for your privacy and security. While we do our best to protect your personal information, The Motley Fool cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. What does all this mean? Just as in the investing world, you must protect yourself. You are responsible for maintaining the secrecy of your passwords and/or any account information. If you need to change your password, please follow the steps outlined below.
 
+**Direct Mailings**
+
+If you register with The Motley Fool or sign up for or buy any of our products or services, we will send you information about our various products and services, or other products and services we feel may interest you. Only The Motley Fool will send you these notices. If you do not want to receive such offers and mailings, you can let us know on our [Email Unsubscribe page](http://www.fool.co.uk/community/freemail/emailenter.htm), or via email to [UK Privacy](mailto:ukprivacy@fool.co.uk) or send snail mail to: Privacy at The Motley Fool, 3-8 Carburton Street, London W1W 5AJ. We'll remove your name from our lists as soon as we can. Another way is to simply to click the [unsubscribe link](http://www.fool.co.uk/community/freemail/emailenter.htm) found in our email messages.
+
 **Deactivating Your Account or Editing Your Information**
 
 You have the ability to edit your information and preferences at any time, including whether you want us to contact you about our various products and services. If you would rather not hear from us, you can let us know on our [never mail page](https://web.archive.org/community/nevermail.htm). Another way is to simply to [click the unsubscribe link](http://www.fool.com/community/nevermail.htm), which you will find on our email messages.
 
 If you want to correct or change the information in your Profile, or any other information we have about you, please go to [ http://boards.fool.co.uk/editsettings.asp](http://boards.fool.co.uk/editsettings.asp). You will either be able to make your changes right there, or we'll give you instructions as to how to do what you want.
 
-If you want to change your email address for delivery of your email subscriptions or unsubscribe, you should go to [ http://www.fool.co.uk/weekly/entrance.htm](https://web.archive.org/weekly/entrance.htm) and follow the prompts.
+If you want to change your email address for delivery of your email subscriptions or unsubscribe, you should go to [ http://www.fool.co.uk/community/freemail/emailenter.htm](http://www.fool.co.uk/community/freemail/emailenter.htm) and follow the prompts.
 
 **Other Data Processors**
 
