@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the nhpr.org privacy policy that was archived on 2002-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020601103749id_/http%3A//nhpr.org/static/aboutNHPR/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhpr.org privacy policy that was archived on 2002-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020805134405id_/http%3A//www2.nhpr.org/static/aboutNHPR/privacy.php) for the most accurate reproduction.*
 
 # /static/aboutNHPR/privacy.php
 
 [Home](https://web.archive.org/)  
+[**Discuss!!**](https://web.archive.org/phpBB/)  
 [Events Calendar](http://events.publicbroadcasting.net/nhpr/events.eventsmain)  
 [NH News](https://web.archive.org/content/summary_view.php/4/)  
 [The Exchange](https://web.archive.org/content/summary_view.php/3/)  
