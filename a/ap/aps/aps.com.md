@@ -1,14 +1,17 @@
-> *The following text is extracted and transformed from the aps.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202191508id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aps.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608215921id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_1.html) for the most accurate reproduction.*
 
 # APS :: Privacy Policy
 
-Revision:  September 4, 2003
+Revision:  April 29, 2004
 
 Our postal address is:  
 P.O. Box 53999  
-Phoenix, AZ 85072-3999 
-
-We can be reached by [e-mail](https://web.archive.org/general_info/contactus/default.html) or by telephone at (602) 371-7171 in the Phoenix area or (800) 253-9405 elsewhere. Business customers may call (602) 371-6767 in the Phoenix area or (800)253-9407 elsewhere.
+Phoenix, AZ 85072-3999  | Our physical address is:  
+2121 W Cheryl Dr.  
+Phoenix, AZ 85021  
+---|---  
+  
+We can be reached by [e-mail](https://www.aps.com/general_info/contactus/default.html) or by telephone at (602) 371-7171 in the Phoenix area or (800) 253-9405 elsewhere. Business customers may call (602) 371-6767 in the Phoenix area or (800)253-9407 elsewhere. 
 
 APS sets high standards and has a strong commitment to protect customers' privacy. When a user enters the APS Web site, our web server automatically recognizes the consumer's domain name, but not the e-mail address. This enables us to collect aggregate information on what pages consumers visit, information volunteered by the consumer, such as survey information and/or site registrations, and the e-mail address of those who communicate with us via e-mail. 
 
@@ -36,4 +39,4 @@ APS reserves the right to change this policy at any time and encourages you to p
 
 If you feel that this site is not following its stated information policy, you may contact us at the above address or phone number. 
 
-The [Terms of Use](https://web.archive.org/web/20031202191508id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_3.html) provide further information governing your use of aps.com.
+The [Terms of Use](https://web.archive.org/web/20040608215921id_/http%3A//www.aps.com/general_info/privacy/privacypolicy_3.html) provide further information governing your use of aps.com.
