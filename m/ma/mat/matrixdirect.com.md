@@ -1,11 +1,14 @@
-> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609145627id_/http%3A//www.matrixdirect.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrixdirect.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209025624id_/http%3A//www.matrixdirect.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Notice
+# Matrix Direct Insurance Services
+
+**PRIVACY POLICY**
 
 **Information Collection and Use**
 
 **Information Collection**  
-Matrix Direct Insurance Services is the sole owner of the information collected on matrixdirect.com. Matrix Direct Insurance Services collects information from our users at several different points on our Web site. 
+Matrix Direct Insurance Services is the sole owner of the information collected on matrixdirect.com. Matrix Direct Insurance Services collects information from our users at several different points on our Web site.   
+We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **Information Use**   
 Information collected on this site is used for analyzation purposes, mostly on an aggregate level. 
@@ -14,8 +17,8 @@ Information collected on this site is used for analyzation purposes, mostly on a
 Matrix Direct, Inc. ("Matrix Direct"), recognizes that protecting the privacy and security of the personal information we obtain about our customers is an important responsibility. This Privacy Notice generally describes our policy about how we treat that information. This notice refers to Matrix Direct using the terms "we," "us," and "our." 
 
 _How we obtain information._   
-We obtain most of the information we need directly from you on your application or other forms you complete, or from those you have authorized to provide information to us in connection with providing our services to you. We also obtain information in the course of processing and recording your transactions with us. 
-
+We obtain most of the information we need directly from you on your application or other forms you complete, or from those you have authorized to provide information to us in connection with providing our services to you. We also obtain information in the course of processing and recording your transactions with us. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here.  
+](http://www.networkadvertising.org/optout_nonppii.asp)  
 _Information we may obtain._  
 The type of information we obtain depends on the type of product or service in which you express interest. The types of information we may obtain fall into the following three general categories: 
 
@@ -51,7 +54,7 @@ _Changes to our Privacy Notice._
 Our policy about obtaining and disclosing information may change from time to time. We will provide you with notice of any material change to this policy before we implement the change. 
 
 **Cookies**  
-A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If users reject the cookie, they may still use our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. 
+A cookie is a piece of data stored on the user's computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies and persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user's hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions. If users reject the cookie, they may still use our site. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 **Third Party Cookies**  
 This privacy statement covers the use of cookies by matrixdirect.com only and does not cover the use of cookies by any advertisers or partner/linked sites. 
@@ -94,5 +97,3 @@ San Diego, CA 92123
 Fax: 858-309-3002 **  
 Email: info@matrixdirect.com   
 
-
-**[Privacy Notice](https://web.archive.org/web/20020609145627id_/http%3A//www.matrixdirect.com/privacy.htm) \- [Terms and Conditions](https://web.archive.org/web/20020609145627id_/http%3A//www.matrixdirect.com/terms.htm)**
