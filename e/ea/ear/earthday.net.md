@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthday.net privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202220307id_/http%3A//www.earthday.net/about/privacy-policy.stm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthday.net privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607053300id_/http%3A//www.earthday.net/about/privacy-policy.stm) for the most accurate reproduction.*
 
 # Earth Day Network - About Us
 
