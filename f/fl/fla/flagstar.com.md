@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602201823id_/http%3A//flagstar.com/inside/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flagstar.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203031615id_/http%3A//flagstar.com/inside/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Flagstar Bank - Privacy Policy
 
@@ -51,4 +51,4 @@ Flagstar is committed to protecting the privacy of its customers. You can help b
 
 This notice is provided pursuant to Title V of the Gramm-Leach-Bliley Act (GLBA) of 1999, 12 CFR 40.
 
-[Top of Page](https://web.archive.org/web/20030602201823id_/http%3A//flagstar.com/inside/privacy_policy_content.jsp#topofpage)
+[Top of Page](https://web.archive.org/web/20031203031615id_/http%3A//flagstar.com/inside/privacy_policy_content.jsp#topofpage)
