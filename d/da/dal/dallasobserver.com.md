@@ -1,29 +1,26 @@
-> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 1999-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991127231645id_/http%3A//www.dallasobserver.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallasobserver.com privacy policy that was archived on 2000-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000611103452id_/http%3A//www.dallasobserver.com/about/privacy_policy.html) for the most accurate reproduction.*
 
-# Dallas Observer Online - dallasobserver.com | About
+# Dallas Observer Online -- dallasobserver.com | About
 
-  
-Our Privacy Policy   
+**Our Privacy Policy   
+**
 
+**New Times Inc.**   
+Parent of _Dallas Observer_ and dallasobserver.com 
 
-New Times Inc.   
-Parent of Dallas Observer and dallasobserver.com
-
-New Times, Inc. respects your privacy. Here's our privacy policy for this site: 
+New Times Inc. respects your privacy. Here's our privacy policy for this site: 
 
 **Personally Identifiable Information**   
 We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters. We will not, however, release your name, e-mail address or any other personal information to anyone else outside New Times unless we have your consent, we are under a legal order to do so, or there is an emergency involving personal danger. **This means that we will not provide our advertisers or anyone else outside New Times with any information specific to you unless we have your consent.** The only New Times employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution. 
 
 **Cookies**   
-"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system. New Times does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a New Times cookie, such as a user code. We have no control over whether and how our advertisers use cookies **_that originate from their website_**. 
+"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system. New Times does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a New Times cookie, such as a user code. We have no control over whether and how our advertisers use cookies **that originate from their website**. 
 
-**Your Feedback/Letters to the Editor Contributions**   
-As with our print editions, we insist that you supply your real name, daytime telephone number and e-mail address when providing feedback on our material or when commenting on other readers' comments. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line. 
+**Your Letter to the Editor Contributions**   
+As with our print editions, we insist that you supply your real name, daytime telephone number or e-mail address. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line. 
 
-**Threads (Coming Soon)**   
-_Threads_ is our interactive discussion area. Unlike our Feedback and Letters sections, comments posted here are not edited by New Times personnel prior to posting on that portion of the site. We only require that you provide us with your on-line name (real or fictitious), your correct e-mail address and that you accept our 
-
-_User Agreement_. Any personal information you may disclose in _Threads_ can be collected and used by third parties beyond New Times' control. 
+**Discussion boards**   
+_Discussions_ is our interactive discussion area. Unlike our Letters section, comments posted here are not edited by New Times personnel prior to posting on that portion of the site. We only require that you provide us with your on-line name (real or fictitious), your correct e-mail address and that you accept our **User Agreement**. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. Any personal information you may disclose in _Discussions_ can be collected and used by third parties beyond New Times' control. 
 
 **Communication from New Times**   
 Any ongoing communication you may receive from New Times via e-mail, such as newsletters, subscriptions, contest results, survey inquiries, etc. may be terminated via a simple "opt out" procedure. You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. 
@@ -38,6 +35,4 @@ This site provides links and pointers to Web sites maintained by other organizat
 This privacy policy is effective as of July 28, 1999. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will post any changes to this policy as soon as they go into effect. 
 
 **More Questions?**   
-If you have any questions about this privacy policy, e-mail them to 
-
-[_privacyadministrator@newtimes.com_](mailto:privacyadministrator@newtimes.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. 
+If you have any questions about this privacy policy, e-mail them to [_privacyadministrator@newtimes.com_](mailto:privacyadministrator@newtimes.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. 
