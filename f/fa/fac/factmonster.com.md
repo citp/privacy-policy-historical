@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factmonster.com privacy policy that was archived on 2002-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021129081037id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factmonster.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621102030id_/http%3A//fen.com/resources/privacyStatement.html) for the most accurate reproduction.*
 
 # Fen.com - Privacy Statement
 
@@ -20,6 +20,7 @@ _
 Information You Provide to Us  
 How We Use the Information You Provide   
 Choice/Opt-out   
+Our Email Newsletters  
 We Protect Kids' Privacy   
 Notification and Verifiable Parental Consent  
 What Are Cookies?   
@@ -45,11 +46,17 @@ Family Education Network uses your personal information to tailor the content pr
 
 Family Education Network also collects information on our audience as a whole. Here, no audience members are identified by their personal information -- we are only interested in how Family Education Network looks demographically and statistically. This basic market research allows us to identify the trends, developments, and needs of our audience. The information is organized into reports that are used internally and only shared with partners and sponsors to make sure that their product or services are appropriately suited to our audience. Every audience member remains completely anonymous. 
 
-  
+Family Education Network uses WebTrends Live, a third party service, to collect anonymous visitor data on our network of sites. The WebTrends Live service does not collect any personal information such as names, ages, phone numbers, addresses or e-mail addresses from visitors to any Family Education Network site. Family Education Network uses the WebTrends Live service to collect anonymous visitor information like IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited and time spent on a particular site. Family Education Network uses the WebTrends Live service to collect this non-personally identifiable information for the following purposes: (1) to provide anonymous statistical analysis of web page traffic patterns; (2) to administer our site and servers; (3) to allow for auditing of our services by third parties; and (4) to improve our services. If you would like to learn more about the WebTrends Live service and to view the complete WebTrends Live privacy statement, please click here:   
+<http://www.webtrendslive.com/privacy_policy.htm>
+
 Choice/Opt-out:
 
-When you register, you may be given the option to receive important Family Education Network news, events, products, and special offers. If you wish not to be contacted, you must simply "opt-out" by unchecking the demarcated box (you will find the box already checked). At any time, you may change this decision and either opt-in or opt-out of this service by sending an email to: [CustomerCare@fen.com](mailto:customercare@fen.com). When emailing, please provide your first name and last name, and also tell us if you are opting out of an email or postal mail communication. If you would like to be contacted by one of our partners or sponsors, you must actively opt-in to this service by checking the demarcated box (you will find the box unchecked).  
-  
+When you register, you may be given the option to receive important Family Education Network news, events, products, and special offers. If you wish not to be contacted, you must simply "opt-out" by unchecking the demarcated box (you will find the box already checked). At any time, you may change this decision and either opt-in or opt-out of this service by sending an email to: [CustomerCare@fen.com](mailto:customercare@fen.com). When emailing, please provide your first name and last name, and also tell us if you are opting out of an email or postal mail communication. If you would like to be contacted by one of our partners or sponsors, you must actively opt-in to this service by checking the demarcated box (you will find the box unchecked).
+
+Our Email Newsletters:
+
+Please be advised that our email newsletters are part of a wide distribution, and that neither FEN nor any third party involved in these offers/newsletters is monitoring, reviewing or screening the recipient list of this email prior to its distribution. This email is being distributed to everyone who has expressly opted-in to receive these types of offers and/or newsletters from FEN. If local, state or federal rules or regulations prohibit you from receiving these types of offers and/or newsletters or you simply do not wish to receive same in the future or this email was sent to you in error, please immediately opt-out from receiving similar future offers and/or newsletters by visting the [FEN Newsletter Center](http://newsletters.fen.com/) and updating your subscription. You can always opt back in to receive future offers and/or newsletters at any time by going to the [Newsletter Center](http://newsletters.fen.com/). To review and modify the categories of offers and/or newsletters which you have opted-in, please go to [http://newsletters.fen.com](http://newsletters.fen.com/).
+
 We Protect Kids' Privacy:
 
 Family Education Network encourages parents and guardians to spend time online with their children. We urge parents to instruct their children to never give out their real names, addresses, or phone numbers without permission when using the Internet. We recognize a special obligation to protect personal information obtained from children. 
