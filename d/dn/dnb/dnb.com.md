@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008110351id_/http%3A//www.dnb.com/US/home/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2004-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040616214942id_/http%3A//www.dnb.com/US/home/privacy_policy/index.html) for the most accurate reproduction.*
 
 # Learn about the Dun & Bradstreet United States Privacy Policy at dnb.com.
 
   
-Version 1.6 June 2003  
+Version 1.7 July 2003  
 
 
 Driven by requests from its customers, D&B delivers products and services through the Internet faster and more efficiently than ever before. The free flow of information must be balanced against data protection interests, and D&B believes that a fair balance makes good business sense. 
 
 This Internet Privacy Policy describes the privacy policies applicable to D&B's U.S. Internet websites, [www.dnb.com](http://www.dnb.com/),  [www.dnbsearch.com](http://www.dnbsearch.com/), [sbs.dnb.com](http://sbs.dnb.com/), and [www.zapdata.com](http://www.zapdata.com/). These sites provide links to non-U.S. D&B sites that may carry different privacy notices. 
 
-Africa | Argentina | Australia | Austria | Belgium  
+| Africa | Argentina | Australia | Austria | Belgium  
 ---|---|---|---|---  
 Brazil | Canada | China | Czech Republic | Denmark  
 Eastern Europe | Finland | France | Germany | Hong Kong  
@@ -33,9 +33,11 @@ Web site visitors may choose to submit business profile information in order to 
 
 **Cookies**
 
-We sometimes use an Internet device called a cookie to store login or other information on your computer. A cookie is a small amount of information that a web site transfers to your computer's hard drive. We use cookies to simplify your access and to tailor our services to your needs and interests. For some services, we offer users the choice of having an ID or password stored in a cookie so that you do not need to re-enter it when you return to the site. 
+We sometimes use an Internet device called a cookie to store login or other information on your computer. A cookie is a small amount of information that a web site transfers to your computer's hard drive. We use cookies to simplify your access and to tailor our services to your needs and interests. For some services, we offer users the choice of having an ID or password stored in a cookie so that you do not need to re-enter it when you return to the site.  We do not store credit card numbers in cookies.  No other site can read a cookie set by D&B, and we cannot read a cookie that another web site wrote to your computer.   Most Internet browsers are set to accept cookies. Users can reset browsers to refuse cookies and still use our web site, although access may be slower and less convenient.  
+ 
 
-We use a third-party contractor to monitor how our guests use our web site and to determine which of our online features they prefer. To provide this service, our contractor uses cookies on our behalf to report information about our customers and the products and services they order, as well as aggregated, non-identifiable information about our guests' use of our site, solely for our internal use. For further information, including how to opt out, visit <http://www.coremetrics.com/info_eluminate2.html>. We do not store credit card numbers in cookies. No other site can read a cookie set by D&B, and we cannot read a cookie that another web site wrote to your computer. Most Internet browsers are set to accept cookies. Users can reset browsers to refuse cookies and still use our web site, although access may be slower and less convenient. 
+We use a third-party contractor to monitor how our guests use our web site and to determine which of our online features they prefer.  We report information to our contractor about our customers and the products and services they order, as well as aggregated, non-identifiable information about our guests' use of our site, solely for our internal use. For further information, including how to opt out, visit _[http://www.dnb.com/US/opt_out.htm _l_](https://web.archive.org/US/opt_out.html)_.  
+
 
 **Use, Disclosure, and Choice**
 
