@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the psdschools.org privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208150120id_/http%3A//www.psdschools.org/misc/privacy.aspx%3Faffid%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psdschools.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403190104id_/http%3A//www.psdschools.org/misc/privacy.aspx%3Faffid%3D0) for the most accurate reproduction.*
 
 # PSD Privacy Policy
 
   
-Poudre School District is committed to ensuring the privacy of all our website users. This page explains our collection and use of personal information.
+Poudre School District is committed to ensuring the privacy of all our website users and the accuracy of all data within it.  As we strive to maintain the currency of all data contained within the website, no data within the website is guaranteed or deemed reliable. 
 
- **Collection of Personal Information**  
+**Collection of Personal Information**  
 The Poudre School District website does not collect personal information about individuals without their knowledge. Personal information may be requested when you engage in any of the following online activities: 
 
   * Register on our site to use services available only to registered users 
