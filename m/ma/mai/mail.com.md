@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2003-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030812094304id_/http%3A//www.mail.com/templates/common/us/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mail.com privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630050200id_/http%3A//mail01.mail.com/templates/common/us/privacypolicy.htm) for the most accurate reproduction.*
 
 # mail.com
 
-| **Privacy Policy**
+**Mail.com's Privacy Policy**
 
 * * *
 
-**Mail.com's Privacy Policy**
-
 When you **register** for an account:
 
-| **_We Will:_** |   | **_We Won't:_**  
+**_We Will:_** |   | **_We Won't:_**  
 ---|---|---  
   
 1\. Collect personally identifiable (e.g. name, address) and demographic (e.g. age, gender) information about you. We will use the demographic data to post ads (appealing to your demographic) on our Web site when you log in. 
@@ -66,12 +64,12 @@ The information we collect is aggregated to reflect the population as a whole ra
 
 **Questions?**
 
-For any questions or comments concerning Mail.com's privacy policy, please write to: [privacydirector@mail.com](mailto:privacydirector@mail.com)
+For any questions or comments concerning Mail.com's privacy policy, please write to: [PrivacyDirector@corp.mail.com](mailto:privacydirector@corp.mail.com)
 
-Law Enforcement inquiries can be directed to [legalcompliance@mail.com](mailto:legalcompliance@mail.com). 
+Law Enforcement inquiries can be directed to [LegalCompliance@corp.mail.com](mailto:LegalCompliance@corp.mail.com). 
 
 All spam, UCE and general abuse issues should be directed to: [abuse@mail.com](mailto:abuse@mail.com).
 
-General problems with your account should be directed to: [support@mail.com](mailto:support@mail.com). 
+For general problems with your account, please [click here](http://mail01.mail.com/templates/common/us/contactUsExt.htm).
 
 Last updated 8/22/02
