@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesszone.co.uk privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203123341id_/http%3A//www.businesszone.co.uk/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesszone.co.uk privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607011349id_/http%3A//www.businesszone.co.uk/help/privacy.html) for the most accurate reproduction.*
 
 # BusinessZone - Privacy Policy
 
