@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2002-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020210135624id_/http%3A//learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803031742id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
 
 # Learn 2 Type Privacy Statement
 
