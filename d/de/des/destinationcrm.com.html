@@ -1,0 +1,656 @@
+<!--The following is the downloaded HTML source of the destinationcrm.com privacy policy that was archived on 2000-12-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20001204041700id_/http%3A//destinationcrm.com/dcrm_privacy.asp) for the most accurate reproduction.-->
+
+<html><head>
+
+
+<script language="JavaScript" type="text/javascript">
+
+<!--
+
+     NS4 = (document.layers);
+     IE4 = (document.all);
+    ver4 = (NS4 || IE4);
+	 IE5 = (IE4 && navigator.appVersion.indexOf("5.")!=-1);
+   isMac = (navigator.appVersion.indexOf("Mac") != -1);
+  isMenu = (NS4 || (IE4 && !isMac) || (IE5 && isMac));
+function popUp(){return};
+function popDown(){return};
+if (!ver4) event=null;
+//-->
+</script>
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+if (isMenu) {
+menuVersion = 3;
+menuWidth = 120;
+childOverlap = 20;
+childOffset = 5;
+perCentOver = null;
+secondsVisible = .5;
+fntCol = "white";
+fntSiz = "7";
+
+
+fntBold = true;
+
+fntItal = false;
+fntFam = "verdana";
+backCol = "#336699";
+activeBackColor="#000000";
+overCol = "#000000";
+overFnt = "#FFFFCC";
+borWid = 3;
+
+
+borCol = "#000000";
+
+
+borSty = "double";
+itemPad = 3;
+imgSrc = "tri.gif";
+imgSiz = 10;
+separator = 1;
+separatorCol = "#ffffff";
+isFrames = false;
+keepHilite = true; 
+clickStart = false;
+clickKill = true;
+}
+//-->
+</script>
+<script language="JavaScript1.2">
+<!--
+if (isMenu) {
+document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='hierArrays.js'><\/SCR" + "IPT>");
+document.write("<SCR" + "IPT LANGUAGE='JavaScript1.2' SRC='hierMenus.js'><\/SCR" + "IPT>");
+}
+//-->
+</script>
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta http-equiv="Content-Language" content="en-us">
+<!--this is a placeholder include file which will contain meta tags for keywords and descriptions-->
+
+<!--begin dcrm home page javascript include-->
+<script language="JavaScript">
+<!-- Begin
+function tellme() {
+self.name = "main";
+
+var windowprops = "toolbar=0,location=0,directories=0,status=0, " +
+"menubar=0,scrollbars=0,resizable=0,width=400,height=300";
+
+OpenWindow = window.open("tell.html", "tell", windowprops);
+}
+var pong;
+
+function makeArray(n){
+  this.length = n;
+  for (i=1;i<=n;i++){
+    this[i]=0;
+  }
+  return this;
+}
+function displayDay() {
+	var this_week = new makeArray(7);
+    this_week[0]  = "dcrm_sunday.gif";
+    this_week[1]  = "dcrm_monday.gif";
+    this_week[2]  = "dcrm_tuesday.gif";
+    this_week[3]  = "dcrm_wednesday.gif";
+    this_week[4]  = "dcrm_thursday.gif";
+    this_week[5]  = "dcrm_friday.gif";
+    this_week[6]  = "dcrm_saturday.gif";
+    
+	var today = new Date();
+	var weekday = today.getDay(today.getDate());
+	
+	// var dayword = today.getday();
+	
+  return(this_week[weekday]);
+}
+function displayDate() {
+	var this_month = new makeArray(12);
+    this_month[0]  = "January";
+    this_month[1]  = "February";
+    this_month[2]  = "March";
+    this_month[3]  = "April";
+    this_month[4]  = "May";
+    this_month[5]  = "June";
+    this_month[6]  = "July";
+    this_month[7]  = "August";
+    this_month[8]  = "Sept.";
+    this_month[9]  = "October";
+    this_month[10] = "November";
+    this_month[11] = "December";
+    var today = new Date();
+	var day   = today.getDate();
+	var month = today.getMonth();
+	var year  = today.getYear();
+	// var dayword = today.getday();
+	
+	if (year <= 100){
+		year += 1900;
+	}
+  return(this_month[month]+" "+day+", "+year);
+}
+//  End -->
+</script>
+
+<!--end dcrm home page javascript include-->
+
+
+<title>destinationCRM - Privacy </title>
+</head>
+
+<body bgcolor="#ffffff" topmargin="0" leftmargin="0" rightmargin="0" marginheight="0" marginwidth="0" link="#000000" vlink="#000000" alink="#000000">
+<!--begin top dcrm home include bar-->
+<!--begin top dcrm nav bar-->
+<script language="JavaScript">
+
+// trims leading and trailing white spaces of a given string
+// should function much like trim() in VBScript
+function trim(str) {
+	var i = 0;
+	var j = str.length;
+
+	while ((i < str.length) && ((str.charAt(i) == " ") || (str.charAt(i) == "\t")))
+		i++;
+	while ((j > 0) && ((str.charAt(j) == " ") || (str.charAt(j) == "\t")))
+		j--;
+	return str.substring(i, j);
+}
+// checks to see if the email address has the xxx@yyy.zzz format
+function isValidEmail(theAddress) {
+	var i = 0;
+	var j = 0;
+	i = theAddress.indexOf("@");
+	if ((i > 0) && (i < (theAddress.length-1))) {
+		j = theAddress.indexOf(".");
+		return (((j > 0) && (j < (theAddress.length-1))) ? 1 : 0);
+ 	} else {
+		return 0;	
+	  }
+}
+
+
+// find out that the required field's value is not empty
+function TextNotNull(elem, field) {
+	if (trim(elem.value) == "") {
+		alert("Please enter the " + field );
+		elem.focus();
+		
+		return false;
+	}
+	return true;
+}
+
+// check all required fields in the form
+
+function validateregform(f) {
+	if (!TextNotNull(f.firstname, "First Name")) return false;
+	if (!TextNotNull(f.lastname, "Last Name")) return false;
+	if (!TextNotNull(f.jobtitle, "Job Title")) return false;
+	if (!TextNotNull(f.streetaddress1, "Address")) return false;
+	if (!TextNotNull(f.city, "City")) return false;
+	if (!TextNotNull(f.country, "Country")) return false;
+	if (!isSelectOther(f.country, f.state)) return false;
+	
+	if (!TextNotNull(f.zip , "Zip Code/Postal Code")) return false;
+	if (!TextNotNull(f.email , "e-mail")) return false;
+	if (f.email.value != "") {  
+		if (!isValidEmail(f.email.value)) {
+			alert("Please enter valid email address for example; xxx@yyy.yy");
+			return false;
+		}
+			}
+			
+}
+
+function validatelogform(f) {
+	if (!TextNotNull(f.email , "e-mail")) return false;
+	if (f.email.value != "") {  
+		if (!isValidEmail(f.email.value)) {
+			alert("Please enter valid email address for example; xxx@yyy.yy");
+			return false;
+		}
+	}
+}
+// check if the date entered is valid
+function isValidDate(thedate) {
+	var redate = /^(([a-zA-Z]+\/[a-zA-Z]+\/[a-zA-Z]+)|([a-zA-Z]+))$/
+	var redate1 = /^(([0-9])|([0][0-9])|([1][0-2]))\/(([0-9])|([0-2][0-9])|(30)|(31))\/[0-9][0-9]$/
+	a = redate.test(thedate)
+	b = redate1.test(thedate)
+	if (b) {
+		return true;
+	}
+	return false;
+	
+}
+
+
+// find out that the required field's value is not empty
+function TextNotassearch(elem) {
+	if (trim(elem.value) == "") {
+		// alert("Please enter the " + field );
+		elem.focus();
+		return false;
+	}
+	return true;
+}
+
+// validate top bar search form
+
+function validatesrform(f) {
+	if (!TextNotNull(f.key, "Search Text")) return false;
+}
+
+
+// validate advance search form
+function validateassearch(f) {
+
+	if (!TextNotassearch(f.magname)) {
+	  if (!TextNotassearch(f.department)) {
+	    alert("You need to either select a Magazine or Department");	
+	    return false; }
+	}
+
+	if (f.magname.value != "") {
+	  if (!(TextNotassearch(f.bdate) || TextNotassearch(f.edate))) 	               { alert("Please enter at least one date");
+	     return false; }
+	  if (f.bdate.value != "") {
+	    if (!isValidDate(f.bdate.value)) {
+	      alert("Please enter valid date in the mm/dd/yy format");
+	      f.bdate.focus();
+	      return false; }
+	  }
+	  if (f.edate.value != "") {
+	    if (!isValidDate(f.edate.value)) {
+	      alert("Please enter valid date in the mm/dd/yy format");
+	      f.edate.focus();
+	      return false; }
+	  }
+
+	if (!TextNotassearch(f.keyword1)) {
+		  alert("Please enter a Keyword");
+		  return false;}
+	}
+		
+	if (f.department.value != "" ) {
+	 if (!TextNotassearch(f.keyword2)) {
+	   alert("Please enter a Keyword"); return false; }
+        } 
+}
+
+function isSelectOther(selem, felem) 
+{
+
+	if ((selem.value) == "United States") {
+		if ((felem.value) == "") {
+			alert("Please enter the State For USA");
+			felem.focus();
+			return false;
+		}
+	}
+	return true;
+}
+
+
+function validate(f)
+{
+if (!TextNotNull(f.state, "State")) return false;
+}
+
+
+// check e-mail address in the index page
+
+function validateemailform(f) {
+	if (!TextNotNull(f.email , "e-mail")) return false;
+	if (f.email.value != "") {  
+		if (!isValidEmail(f.email.value)) {
+			alert("Please enter valid email address for example; xxx@yyy.yy");
+			return false;
+		}
+			}
+	return true;
+}
+
+// check all the required fields of the subscription forms
+
+
+function validatesubscribeform(f){
+	if (!TextNotNull(f.name, "Name")) return false; 
+	if (!TextNotNull(f.address1, "Address")) return false;
+	if (!TextNotNull(f.city, "City")) return false;
+	if (!TextNotNull(f.state, "State")) return false;
+	if (!TextNotNull(f.zcode, "Code")) return false;
+	if (f.email.value != "") {  
+		if (!isValidEmail(f.email.value)) {
+			alert("Please enter valid email address for example; xxx@yyy.yy");
+			return false;
+		}
+	
+	}
+	
+	return true;
+}
+</script>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="11">
+<tbody><tr>
+<td width="50%" background="images/dcrm_still1.gif" height="16" valign="bottom"><img border="0" src="images/dcrm_logo_top.gif"></td>
+<td width="50%" background="images/dcrm_still1.gif" align="center" height="16"><font face="Arial, Verdana, Helvetica" size="1"><b><a href="dcrm_rg_index.asp">Register</a>&nbsp;&nbsp;&nbsp;
+<a href="dcrm_au_index.asp">About Us</a>&nbsp;&nbsp;&nbsp; <a href="dcrm_sb_index.asp">Subscribe</a>&nbsp;&nbsp;&nbsp;
+<a href="dcrm_mk_index.asp">Media
+Kit</a>&nbsp;&nbsp;&nbsp; <a href="dcrm_sitemap.asp">Site Map</a>&nbsp;</b></font></td>
+</tr>
+</tbody></table>
+<!--end top dcrm nav bar-->
+<!--begin top logo and ad bar-->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#999999"><tbody><tr bgcolor="#999999"><td width="0%" align="left" bgcolor="#999999"><img border="0" src="images/dcrm_logo_bot.gif"><iframe width="468" height="60" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adforce.imgis.com/?adiframe|2.0|398|160852|1|1|ADFORCE;">
+<script language=javascript src="http://adforce.imgis.com/?addyn|2.0|398|160852|1|1|ADFORCE;loc=700;">
+</script>
+<noscript>
+<a href="http://adforce.imgis.com/?adlink|2.0|398|160852|1|1|ADFORCE;loc=300;" target=_top>
+<img src="http://adforce.imgis.com/?adserv|2.0|398|160852|1|1|ADFORCE;loc=300;" border=0 width=468 height=60></a>
+</noscript>
+</iframe></td></tr></tbody></table>
+<!--end top logo and ad bar-->
+<!--begin search and date row-->
+<div align="left">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="54%"><div align="left"><table border="0" cellpadding="0" cellspacing="0" width="584"><tbody><tr><td width="309" background="images/dcrm_still2.gif">
+<form method="post" action="topbar_search.asp" onsubmit="return validatesrform(this)">
+<font face="Arial, Helvetica" size="1">
+<img border="0" src="images/dcrm_ar_search.gif" align="top" hspace="2"><input type="text" size="10" name="key"><input type="image" src="images/dcrm_go_search.gif" align="top" hspace="2" alt="go" border="0"></font><input type="hidden" name="wh" value="2"></form></td>
+<td bgcolor="#FFFFFF" valign="top" align="right" width="500"><p align="center"><font face="Verdana,Arial,Helvetica" size="2"><script language="JavaScript">
+<!-- 
+var datefile = displayDay();
+document.write("<img border=0 src=images/"+ datefile + " align='top'>");
+//-->
+</script><img border="0" src="images/dcrm_wednesday.gif" align="top">   &nbsp;<b><script language="JavaScript">
+
+// document.write (displayDay());
+document.write(displayDate()); 
+//-->
+</script>February 19, 120</b></font></p></td>
+<td bgcolor="#FFFFFF" valign="top" align="right" width="22"><img border="0" src="images/dcrm_still3.gif"></td>
+</tr>
+</tbody></table>
+</div></td>
+<td width="46%" background="images/dcrm_still4.gif" height="28">&nbsp;</td>
+</tr>
+</tbody></table>
+</div>
+<!--end search and date row-->
+<!--end top dcrm home include bar-->
+
+<div align="left">
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="291">
+  <tbody><tr>
+<!--begin dcrm home left nav include-->
+<td width="191" valign="top">
+<div align="left">
+<table border="0" cellpadding="0" cellspacing="0" width="93%">
+<tbody><tr>
+<td width="100%" valign="top" height="100%">
+
+<map name="FPMap1">
+<area onmouseover="hideAll();" href="dcrm_as_login.asp?frpg=as" shape="rect" coords="15, 0, 107, 12">
+   
+<area onmouseover="popUp('elMenu6',event)" onmouseout="popDown('elMenu6')" href="dcrm_ni_index.asp?category=index" shape="rect" coords="1, 17, 126, 34">
+   
+<area onmouseover="popUp('elMenu7',event)" onmouseout="popDown('elMenu7')" href="dcrm_ac_index.asp" shape="rect" coords="1, 37, 102, 54">
+   
+<area onmouseover="popUp('elMenu8',event)" onmouseout="popDown('elMenu8')" href="dcrm_ch_index.asp" shape="rect" coords="2, 56, 102, 73">
+
+ 
+<area onmouseover="hideAll();" href="dcrm_bg_index.asp" shape="rect" coords="1, 76, 94, 94">
+
+   
+<area onmouseover="popUp('elMenu9',event)" onmouseout="popDown('elMenu9')" href="dcrm_pb_index.asp" shape="rect" coords="0, 96, 88, 116">
+
+</map><img border="0" src="images/dcrm_sidenav_top.gif" usemap="#FPMap1"></td>
+</tr>
+<tr>
+<td width="100%" height="200" valign="top">
+<map name="FPMap0">
+
+	<area onmouseover="hideAll();" href="index.asp" shape="rect" coords="4, 6, 54, 25">
+</map><img border="0" src="images/dcrm_sidenav_home.gif" usemap="#FPMap0" width="189" height="95" <br="">
+<img border="0" src="images/null.gif" width="1" height="10"><br>
+
+<center> 
+
+<iframe width="125" height="125" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adforce.imgis.com/?adiframe|2.0|398|160854|1|6|ADFORCE;">
+<script language=javascript src="http://adforce.imgis.com/?addyn|2.0|398|160854|1|6|ADFORCE;loc=700;">
+</script>
+<noscript>
+<a href="http://adforce.imgis.com/?adlink|2.0|398|160854|1|6|ADFORCE;loc=300;" target=_top>
+<img src="http://adforce.imgis.com/?adserv|2.0|398|160854|1|6|ADFORCE;loc=300;" border=0 width=125 height=125></a>
+</noscript>
+</iframe>
+
+</center>
+
+</td>
+</tr>
+</tbody></table>
+</div>
+
+</td>
+<!--end dcrm home left nav include-->
+
+
+    <td width="778" valign="top" height="291"><div align="left"><table border="0" cellspacing="0" width="400">
+      <tbody><tr>
+        <td width="400"><font face="Arial, Verdana, Helvetica" size="3"><b><img border="0" src="images/dcrm_h_privpol.gif" width="300" height="15">&nbsp;</b> <p><font face="Arial, Verdana, Helvetica" size="2">This privacy statement informs all visitors of
+        our dedication to them and to their privacy. Our statement consists of:</font></p><ul type="disc"><font face="Arial, Verdana, Helvetica" size="2">
+          <li>What identifiable information we gather/track about you on this web site </li>
+          <li>What we do with personally identifiable information we gather/track on this web site </li>
+          <li>Whether any of your personally identifiable information will be shared with any third
+            party </li>
+          <li>Questions regarding this statement should be directed to the destinationCRM site
+            coordinator at <a href="mailto:radik@destinationcrm.com">radik@destinationCRM.com</a></li>
+        </font></ul><font face="Arial, Verdana, Helvetica" size="2">
+        </font><p><font face="Arial, Verdana, Helvetica" size="2"><br>
+        <b>destinationCRM General Privacy Principles</b>&nbsp;<br>
+        <br>
+        <i>destinationCRM and Your Privacy</i><br>
+        <br>
+        destinationCRM is committed to protecting your personal information and respecting your
+        privacy. Our goal is to give you as much control and information about your personal
+        information and how we use it in the course of our business. We want to be a leader in
+        providing comprehensive privacy information to our customers.<br>
+        <br>
+        In general, you can visit destinationCRM on the Web without telling us who you are or
+        revealing any information about yourself. destinationCRM will never sell or rent your
+        personally identifiable information to outside parties without your consent unless
+        compelled by law or court order to do so. With your permission, destinationCRM and its
+        co-branded partners may send you e-mail regarding Industry news and information, new
+        products in the CRM field, special events, and/or special features and offers involving
+        third parties. But we do not disclose your personally identifiable information to such
+        third parties. Please continue reading to learn how our privacy policy applies when you
+        purchase third party products on our web site and on co-branded sites.<br>
+        <br>
+        <b>destinationCRM Privacy Statement</b><br>
+        <br>
+        <i>What Information We Gather and Track</i><br>
+        <br>
+        There are times when we may need to collect information from you through our Web site.
+        This generally involves filling out forms so you can become a member, to view special
+        materials on the site, or order third-party products from destinationCRM's and its
+        co-branded web sites. When you become a member, we require you to fill out a form with
+        your name, title, company, company size, field, postal address, and email address. During
+        this process, you are given the opportunity to decline further e-mail notification of
+        important news and events from destinationCRM and its co-branded sites. In addition, you
+        can remove yourself from the mailing list at any time by going here: <a href="dcrm_rg_unsubscribe.asp">Unsubscribe</a><br>
+        <br>
+        When you submit an order on-line, your credit card number is submitted with encryption to
+        the credit institution for normal, routine processing. destinationCRM does not share
+        credit history or credit card information with other companies or third parties, unless
+        compelled by law or court order to do so.<br>
+        <br>
+        <i>What We Do With the Information We Gather and Track</i><br>
+        <br>
+        The personally identifiable information gathered from the forms you filled out on our web
+        site is used to:</font> </p><ul type="disc">
+          <li><font face="Arial, Verdana, Helvetica" size="2">To provide you with information about
+            Industry news, special events, and/or special features and offers suited for you and your
+            field</font> </li>
+          <li><font face="Arial, Verdana, Helvetica" size="2">To improve the destinationCRM service</font>
+          </li>
+          <li><font face="Arial, Verdana, Helvetica" size="2">To allow you to purchase and download
+            products</font> </li>
+          <li><font face="Arial, Verdana, Helvetica" size="2">To gather broad demographic information
+            about user trends</font></li>
+        </ul>
+        <p><font face="Arial, Verdana, Helvetica" size="2"><br>
+        destinationCRM uses various methods to collect certain other kinds of information,
+        including:</font> </p><ul type="disc">
+          <li><font face="Arial, Verdana, Helvetica" size="2">Cookies</font> </li>
+          <li><font face="Arial, Verdana, Helvetica" size="2">Referrers</font> </li>
+          <li><font face="Arial, Verdana, Helvetica" size="2">IP addresses</font> </li>
+          <li><font face="Arial, Verdana, Helvetica" size="2">System information</font></li>
+        </ul>
+        <p><font face="Arial, Verdana, Helvetica" size="2">With the exception of cookies, which
+        can optionally store information that you may enter in forms on our web site as described
+        below, none of these methods can personally identify you. A cookie is an element of data
+        that a web site such as destinationCRM can send to your browser, which then you may or may
+        not choose to store it on your system. It is used to provide you with a tailored user
+        experience.<br>
+        <br>
+        Some destinationCRM pages use cookies. Cookies are used to better personalize the content,
+        banners, and promotions that you and other users will see. We may use the information to
+        research and understand how our users' habits in the aggregate are similar or different so
+        that we can enhance your experience on destinationCRM's sites. With your consent, cookies
+        can optionally store information from forms that you fill out on our site so that next
+        time you visit, you do not have to reenter this information. For example, this would allow
+        you to enter your city so that next time you visit, you can automatically see local
+        content from your area. We treat any personally identifiable information with the same
+        confidentiality as when you purchase something on our Web site. You can set your browser
+        to notify you when you receive a cookie, giving you the chance to decide whether to accept
+        or reject it.<br>
+        <br>
+        destinationCRM does not require that you accept cookies.<b><br>
+        </b><br>
+        A <i>referrer</i> is the information passed along by a Web browser that references the Web
+        URL you linked from, and is automatically gathered by our Web server. This information is
+        used by destinationCRM to identify broad demographic trends that may be used to provide
+        information tailored to your interests.</font> </p>
+        <p><font size="2">You will not be personally identified from this information.</font><b><br>
+        </b><br>
+        <font size="2"><i>IP addresses</i> are used by your computer every time you are connected
+        to the Internet. Your IP address is a number that is used by computers on the network to
+        identify your computer so that data (such as the Web pages you request) can be sent to
+        you. Our Web server automatically gathers your IP.<br>
+        <br>
+        destinationCRM will not use your IP address to attempt to identify your personal
+        information. </font></p>
+        <p><font size="2">The <i>system information</i> we gather includes time, type of Web
+        browser being used, the operating system/platform, and CPU speed. This information is sent
+        automatically by your Web browser when you are connected to a Web site and is used by
+        destinationCRM only for broad demographic statistics.<br>
+        <br>
+        This information is used by destinationCRM in identifying broad demographic trends and may
+        be used to provide information appropriate for your computer system. </font></p>
+        <font size="2"></font></font><p><font face="Arial, Verdana, Helvetica" size="3"><font size="2">You will not be personally identified from this information.<br>
+        <br>
+        destinationCRM contains links to other Web sites. However, destinationCRM is not
+        responsible for the privacy practices or the content of such Web sites.<br>
+        <br>
+        <b>What Sites This Covers</b><br>
+        <br>
+        Information collected at Appcenter is co-owned by destinationCRM, MINDMatrix, Mimeo and
+        our other co-branded partners. This information is collected and used as described above
+        by destinationCRM. It cannot be used by our co-branded partners without our permission and
+        your consent at the time of registration; it may then only be used in the ways described
+        above.&nbsp;<br>
+        <br>
+        <i>What We Do with Information Gathered When You Acquire Third Party-Products</i><br>
+        <br>
+        destinationCRM will never sell, rent, or disclose to non-co-branded third parties our
+        users' personally identifiable information collected from thedestinationCRM membership
+        form or gathered on a promotional offer at the destinationCRM Web site. If you purchase a
+        product or service developed or owned by a third party, destinationCRM may provide to the
+        product owner or licensor the same information you provide to us.<br>
+        <br>
+        <b>Contacting Us About Privacy</b><br>
+        <br>
+        If you have any questions about this privacy statement, or our Web sites, you may contact
+        us at:<br>
+        <br>
+        Privacy Policy<br>
+        destinationCRM.com&nbsp;<br>
+        Freedom Technology Media Group&nbsp;<br>
+        156 West 56th St., Third Floor<br>
+        New York, NY 10019<br>
+        Phone (212) 314-7674<br>
+        </font></font>&nbsp;&nbsp; </p></td>
+      </tr>
+    </tbody></table>
+    </div></td>
+  </tr>
+</tbody></table>
+</div><!--begin dcrm home footer include-->
+<div align="left">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" background="ff/images/dcrm_ff_still5.gif">
+<tbody><tr>
+<td width="50%" background="images/dcrm_still5.gif"><b><font face="Arial, Verdana, Helvetica" size="1">&nbsp;&nbsp;&nbsp;&nbsp; <a href="index.asp">Home</a>&nbsp; |&nbsp;<a href="dcrm_sitemap.asp">Site Map</a>&nbsp; |&nbsp; <a href="dcrm_au_index.asp">About Us</a>&nbsp; |&nbsp; <a href="dcrm_privacy.asp">Privacy
+Policy</a></font></b></td>
+<td width="50%" align="right" background="images/dcrm_still5.gif"><b><font face="Arial, Verdana, Helvetica" size="1">©2000
+Freedom Technology Media Group</font></b></td>
+</tr>
+</tbody></table>
+</div>
+<div align="left">
+<table border="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td height="5">
+<p align="center">&nbsp;</p></td>
+<td>
+<p align="center"></p></td>
+</tr>
+<tr>
+<td>
+<p align="center">
+
+<iframe width="468" height="60" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adforce.imgis.com/?adiframe|2.0|398|160853|1|1|ADFORCE;">
+<script language=javascript src="http://adforce.imgis.com/?addyn|2.0|398|160853|1|1|ADFORCE;loc=700;">
+</script>
+<noscript>
+<a href="http://adforce.imgis.com/?adlink|2.0|398|160853|1|1|ADFORCE;loc=300;" target=_top>
+<img src="http://adforce.imgis.com/?adserv|2.0|398|160853|1|1|ADFORCE;loc=300;" border=0 width=468 height=60></a>
+</noscript>
+</iframe></p></td><td>
+<p align="center">
+
+<iframe width="245" height="60" noresize="" scrolling="No" frameborder="0" marginheight="0" marginwidth="0" src="http://adforce.imgis.com/?adiframe|2.0|398|162228|1|553|ADFORCE;">
+<script language=javascript src="http://adforce.imgis.com/?addyn|2.0|398|162228|1|553|ADFORCE;loc=700;">
+</script>
+<noscript>
+<a href="http://adforce.imgis.com/?adlink|2.0|398|162228|1|553|ADFORCE;loc=300;" target=_top>
+<img src="http://adforce.imgis.com/?adserv|2.0|398|162228|1|553|ADFORCE;loc=300;" border=0 width=245 height=60></a>
+</noscript>
+</iframe>
+
+</p></td></tr>
+<tr>
+<td height="5">&nbsp;</td>
+<td></td>
+</tr>
+</tbody></table>
+</div>
+<!--end dcrm home footer include-->
+
+
+
+
+
+
+</body></html>
