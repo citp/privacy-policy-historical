@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the hcsc.net privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404005630id_/http%3A//www.hcsc.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcsc.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204055632id_/http%3A//hcsc.net/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
 |   
 ---  
-[](https://web.archive.org/web/20040404005630id_/http%3A//www.hcsc.net/index.htm)  
-[](https://web.archive.org/web/20040404005630id_/http%3A//www.hcsc.net/abouthcsc.htm)  
-[](https://web.archive.org/web/20040404005630id_/http%3A//www.hcsc.net/div_and_subsid.htm)  
-[](https://web.archive.org/web/20040404005630id_/http%3A//www.hcsc.net/newsroom.htm)  
-[](https://web.archive.org/web/20040404005630id_/http%3A//www.hcsc.net/contact_us.htm)  
+[](https://web.archive.org/web/20041204055632id_/http%3A//hcsc.net/index.htm)  
+[](https://web.archive.org/web/20041204055632id_/http%3A//hcsc.net/abouthcsc.htm)  
+[](https://web.archive.org/web/20041204055632id_/http%3A//hcsc.net/div_and_subsid.htm)  
+[](https://web.archive.org/web/20041204055632id_/http%3A//hcsc.net/newsroom.htm)  
+[](https://web.archive.org/web/20041204055632id_/http%3A//hcsc.net/contact_us.htm)  
 | 
 
 At Health Care Service Corporation, a Mutual Legal Reserve Company (HCSC), we know how important your privacy is to you. Whether you are a current customer or just visiting our Web site, we are committed to attempting to protect the information you provide in the same way that we protect it when you provide it to us over the phone, in person or through the mail. 
