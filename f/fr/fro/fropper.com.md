@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fropper.com privacy policy that was archived on 2004-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041210084951id_/http%3A//www.fropper.com/help/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fropper.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404063919id_/http%3A//www.fropper.com/help/policy.php) for the most accurate reproduction.*
 
 # Fropper.com Help – Privacy Policy
 
@@ -138,7 +138,7 @@ Top
   
 Tell me about Fropper.com's policy on correcting, updating or removing personal information.
 
-Fropper.com gives users several options for modifying or removing their information from our database. Please visit the [My Fropper](https://web.archive.org/web/20041210084951id_/http%3A//www.fropper.com/my-home/index.php) page to modify/remove your information or [contact us.](https://web.archive.org/help/contact-us.php)  
+Fropper.com gives users several options for modifying or removing their information from our database. Please visit the [My Fropper](https://web.archive.org/my-home/index.php) page to modify/remove your information or [contact us.](https://web.archive.org/help/contact-us.php)  
   
 Top  
   
