@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igf.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607065820id_/http%3A//www.gdconf.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igf.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208215614id_/http%3A//www.gdconf.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Game Developers Conference 2004 - Privacy Policy
+# Game Developers Conference 2005 - Privacy Policy
 
 CMP MEDIA LLC and its affiliates CME, INC. and SAN FRANCISCO HEALTHCARE LLC, both operating under the umbrella of CMP HEALTHCARE MEDIA (collectively referred to in this Privacy Statement as "we" or "CMP") recognize the importance of protecting the privacy of all information provided by users of our web sites, subscribers to our magazines, registrants for our events, recipients of our e-mail newsletters and all of our customers. We created this policy with a fundamental respect for our users’ right to privacy and to guide our relationships with our users. This privacy statement discloses the privacy practices for all products and services owned by CMP. A current list of our publications, web sites, online webcasts and trade shows can be found at [http://www.cmp.com](http://www.cmp.com/). 
 
@@ -85,7 +85,7 @@ For questions about this site, you can contact us at:
 
 Game Developers Conference  
 (A Division of CMP Media LLC)  
-600 Harrison St., 2nd Floor  
+600 Harrison St., 6th Floor  
 San Francisco, CA 94107  
 c/o: Alex Dunne, Group Web Producer  
 [adunne@cmp.com](mailto:adunne@cmp.com)
