@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allergybuyersclub.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607072535id_/http%3A//www.allergybuyersclub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allergybuyersclub.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204205021id_/http%3A//www.allergybuyersclub.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information from Allergy Buyers Club Home
 
