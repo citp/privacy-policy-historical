@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corcoran.com privacy policy that was archived on 2000-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000517065743id_/http%3A//corcoran.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corcoran.com privacy policy that was archived on 2000-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001212042700id_/http%3A//corcoran.com/company/privacy.html) for the most accurate reproduction.*
 
 # 
 
