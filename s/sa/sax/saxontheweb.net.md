@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saxontheweb.net privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609070336id_/http%3A//www.saxontheweb.net/Resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saxontheweb.net privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012102413id_/http%3A//www.saxontheweb.net/Resources/privacy.html) for the most accurate reproduction.*
 
 # Sax on the Web > Privacy Policy
 
