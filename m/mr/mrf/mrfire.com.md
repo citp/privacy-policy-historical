@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mrfire.com privacy policy that was archived on 2001-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010408073717id_/http%3A//www.mrfire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrfire.com privacy policy that was archived on 2001-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011030000106id_/http%3A//www.mrfire.com/privacy.html) for the most accurate reproduction.*
 
 # Joe Vitale's Privacy Policy
 
