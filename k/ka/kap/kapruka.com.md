@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kapruka.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604085400id_/http%3A//lanka.info/contactUs/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kapruka.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203000639id_/http%3A//lanka.info/contactUs/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Kapruka - www.lanka.info
 
