@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610180034id_/http%3A//www.jorgecruise.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2004-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040805073200id_/http%3A//jorgecruise.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Jorge Cruise - Privacy Policy
 
