@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the changeyourlife.com privacy policy that was archived on 2000-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001218064600id_/http%3A//changeyourlife.com/Company/company.asp%3Fxml%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the changeyourlife.com privacy policy that was archived on 2001-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010619102241id_/http%3A//www.changeyourlife.com/Company/company.asp%3Fxml%3Dprivacy) for the most accurate reproduction.*
 
 # Self Improvement: Learn Online with Dreamlife Experts
 
