@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331201749id_/http%3A//mbayaq.org/sg/sg_policies.asp%23children) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2001-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010813051041id_/http%3A//www.mbayaq.org/sg/sg_policies.asp%23children) for the most accurate reproduction.*
 
 # Monterey Bay Aquarium: Site Guide - Privacy Policy
 
@@ -36,7 +36,7 @@ Please note the following:
 
 
 
-You may consent to our collection of personal information from your child by sending us an [e-mail](mailto:siteinfo@mbayaq.org) identifying yourself and your child and authorizing us to collect personal information from the child. You can also reach us at Monterey Bay Aquarium, 886 Cannery Row, Monterey, California USA 93953, telephone: (831) 648-4800.
+You may consent to our collection of personal information from your child by sending us an [e-mail](mailto:equarist@mbayaq.org) identifying yourself and your child and authorizing us to collect personal information from the child. You can also reach us at Monterey Bay Aquarium, 886 Cannery Row, Monterey, California USA 93953, telephone: (831) 648-4800.
 
 Please remember that no one can guarantee the complete security of information transmitted over the Internet. Therefore, you should be careful about the personal information which you provide to us or any other site. Rest assured that we will do everything we can to safeguard your information.
 
