@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eplans.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208184157id_/http%3A//www.eplans.com/privacy.asp%3Fmscssid%3D%26serviceID%3D4%26refer%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplans.com privacy policy that was archived on 2005-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050406000427id_/http%3A//www.eplans.com/privacy.asp%3Fmscssid%3D%26serviceID%3D4%26refer%3D0) for the most accurate reproduction.*
 
 # House plans & privacy
 
@@ -57,9 +57,9 @@ This policy was last updated on March 31, 2004.
 
 [HOME](http://www.eplans.com/default.asp?mscssid=&serviceID=4&refer=0 "home") |  [House Plan Search](http://www.eplans.com/house-plans-search.asp?mscssid=&serviceID=4&refer=0 "House Plan Search") |  [Browse House Plans](http://www.eplans.com/browse-house-plans.asp?mscssid=&serviceID=4&refer=0 "Browse House Plans") |  [My eplans](http://www.eplans.com/myplans.asp?mscssid=&serviceID=4&refer=0 "My House Plans") |  [About eplans](http://www.eplans.com/aboutus.asp?mscssid=&serviceID=4&refer=0 "About House Plans") |  [View Cart](http://www.eplans.com/basket.asp?mscssid=&serviceID=4&refer=0 "Buy House Plans") |  [Contact Us](http://www.eplans.com/contact.asp?mscssid=&serviceID=4&refer=0 "House Plans Contact")  
 ---  
-[Affiliate Program](http://www.eplans.com/affiliatemain.asp?mscssid=&serviceID=4&refer=0 "House Plans Affiliates") |  [For the Builder](http://www.eplans.com/forthebuilder.asp?mscssid=&serviceID=4&refer=0 "House Plans Builders") |  [Book Store](http://books.eplans.com/ "House Plans Books") |  [Register](http://www.eplans.com/register-part1.asp?mscssid=&serviceID=4&refer=0 "House Plans") |  [Help Center](http://eplans.custhelp.com/) |  [Privacy Statement](http://www.eplans.com/privacy.asp?mscssid=&serviceID=4&refer=0 "House Plans Privacy") |  [Site Map](http://www.eplans.com/sitemap.asp?mscssid=&serviceID=4&refer=0 "House Plans Map")  
+[Newsletter Signup](http://www.eplans.com/newsletter-signup.asp?mscssid=&serviceID=4&refer=0 "Newsletter Signup") |  [Affiliate Program](http://www.eplans.com/affiliatemain.asp?mscssid=&serviceID=4&refer=0 "House Plans Affiliates") |  [For the Builder](http://www.eplans.com/forthebuilder.asp?mscssid=&serviceID=4&refer=0 "House Plans Builders") |  [Book Store](http://books.eplans.com/ "House Plans Books") |  [Register](http://www.eplans.com/register-part1.asp?mscssid=&serviceID=4&refer=0 "House Plans") |  [Help Center](http://eplans.custhelp.com/) |  [Privacy Statement](http://www.eplans.com/privacy.asp?mscssid=&serviceID=4&refer=0 "House Plans Privacy") |  [Site Map](http://www.eplans.com/sitemap.asp?mscssid=&serviceID=4&refer=0 "House Plans Map")  
   
-To ask us a question or to order by phone, call toll free at **888-846-8188** 24 hours a day, 7 days a week.   
+To ask us a question or to order house, floor or garage plans by phone, call toll free at **888-846-8188** 24 hours a day, 7 days a week.   
   
 |  All construction plans ordered through Hanley Wood, LLC are provided as is. Hanley Wood, LLC disclaims all other warranties, express or implied, including merchantability or fitness of purpose. Construction plans may not be returned for credit and/or refund under any circumstances. Hanley Wood, LLC is not liable for incidental, special, consequential, or indirect damages of any kind, including, but not limited to, loss of anticipated profits, business opportunity or other economic loss arising out of the use of services or any construction plans received from Hanley Wood, LLC, even if Hanley Wood, LLC has been advised of the possibility of such damage.  
 ---  
@@ -67,8 +67,8 @@ To ask us a question or to order by phone, call toll free at **888-846-8188** 24
 It is the customer's responsibility to ensure the accuracy, compliance with applicable statute(s) or regulation(s), and fitness of purpose of any plans or construction information received from Hanley Wood, LLC prior to the use thereof. In the event that any liability is imposed on Hanley Wood, LLC, Hanley Wood, LLC 's liability to you or any third party shall not exceed the price paid for the Hanley Wood, LLC House Plans product.  
 This is the eplans.com House Plans Superstore featuring: House plans, homeplans, floorplans, blueprints   
 Republication or reproduction of this site's content is expressly prohibited without the written permission of Hanley Wood, LLC  
-This site's house plans © copyright 2004 by designers, all rights reserved.   
+This site's house plans © by designers, all rights reserved.   
 [](http://www.hanleywood.com/)  
 the [eplans.com House Plans Superstore](http://www.eplans.com/default.asp?mscssid=&serviceID=4&refer=0) is part of the [Hanley Wood network](http://www.eplans.com/hwnetwork.asp) of construction-industry Web sites:   
-[](http://www.ebuild.com/) [](http://www.builderonline.com/) [](http://www.toolsofthetrade.net/) [](http://www.jlconline.com/) [](http://www.meyersgroup.com/)  
+[](http://www.ebuild.com/) [](http://www.builderonline.com/) [](http://www.toolsofthetrade.net/) [](http://www.jlconline.com/) [](http://www.meyersgroup.com/) [](http://www.dreamhomesource.com/?AID=309)  
 © Copyright 2004, Hanley Wood, LLC. All Rights Reserved 
