@@ -1,46 +1,9 @@
-> *The following text is extracted and transformed from the commercepc.com privacy policy that was archived on 2000-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001020164753id_/http%3A//www.commercepc.com/inside_commerce/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercepc.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607061026id_/http%3A//www.commercepc.com/inside_commerce/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Commerce Bank Serving Central PA - Privacy Policy
 
-[](http://www.commercepc.com/)   
+In the course of doing business, Commerce Bank/Harrisburg, N.A. must collect and maintain non-public, personal information such as credit history, account balances, account numbers, employment information, real estate holdings, contact information, personal identification numbers, and other financial data from customers and all categories of applicants. When a relationship ends or becomes inactive, we will maintain this information only as long as required by law. 
 
+Commerce Bank/Harrisburg, N.A. will not sell or give away this information. We will share it only with third parties under contract to provide account-related services such as data processing, check printing, loan review and participation, collections, electronic transactions, call center servicing, or credit reporting. In these cases, we will verify that these parties have privacy policies in place to protect this information. 
 
-|  |  |   
----  
-**Overview**  
-At Commerce we want you to know that your relationship with us is treated with the confidentiality that you expect and deserve. Trust, privacy and confidentiality are the guiding principles upon which Commerce's relationship with you is built. Our Privacy Policy has been created to provide you with a thorough understanding of our commitment to upholding these vital principles. Because we are committed to servicing the needs of our customers, we will take all reasonable steps to protect the privacy of their relationship with us. Therefore, customers are protected not only by applicable state and federal law, but by Commerce's commitment to you as well. **Commerce Employees Are Responsible For Protecting Customer Information**   
-Commerce employees are informed of their responsibility to protect confidential customer information and are bound by this Privacy Policy. They are governed by Commerce's code of ethics which includes the responsibility to protect the confidentiality of customers' financial and other personal information. Only employees actively engaged in the discharge of their assigned duties are authorized to access or use customer information. **Information Collection**  
-We will limit the use and collection of information about our customers to that which is necessary to administer our business, provide superior service and offer opportunities that we think will be of interest to customers. This means that we will use information to help us identify and mitigate potential risks or loss to Commerce as well as identify additional products or services which we believe our customers might want to know about. **Records Security**  
-We will maintain and grant access to customer information only in accordance with Commerce's internal security standards. The on-line forms offered by Commerce are filled-out, submitted and serviced within a server protected by 40-bit-data encryption (the unbroken key or closed lock on your screen indicates that the connection is secure). These forms provide a far higher level of security for your information than that offered by standard e-mail. **Accuracy**  
-Commerce makes every effort to ensure that the information we collect is accurate. We strive to ensure that information we report concerning our customers is accurate. If we become aware of any inaccuracies in our records, we will take prompt steps to make appropriate corrections. **Sharing Consumer Information**  
-As part of our effort to provide customers with superior service we may use some customer information to determine whether customers might want to know about other Commerce products and services. To protect customer privacy, we will carefully control the way in which any information is shared. 
-
-**Within Commerce Bank and Our Affiliate Companies**  
-We are permitted to share information concerning a customer's account history and experiences within Commerce. The sharing of information in these situations is governed by the Fair Credit Reporting Act and we will be guided by those provisions. **Medical Information**  
-In situations where customer disclosure of medical information is required as part of an application for a specific insurance product, we will not allow this information to be viewed elsewhere within Commerce or otherwise used for any other purpose. **With 3rd Party Participants & 3rd Party Vendors**  
-Commerce may hire a specific reputable company or vendor to provide operational support, to participate with us in supplying products and services to customers, or to promote products and services on our behalf. These companies are not permitted to use our customer information for any purposes other than the service intended. We will share your information with these companies only if they agree to treat it confidentially. Commerce may make a decision to sell a particular line of business (for example, mortgage servicing rights). Usually, an integral part of that business is its customer database. Commerce reserves the right, in circumstances such as these, to transfer ownership of such customer databases to the purchaser. **With Consumer Reporting Agencies & Other Companies**  
-We will exchange information about our customers with reputable credit reporting agencies, financial institutions, and merchants, in accordance with standard industry practice, so we can verify the existence and condition of customers' accounts and to prevent fraud. We do not share specific personal customer information with independent companies for any other purpose without the customer's consent. **With the Government**  
-The Right to Financial Privacy Act, the Welfare Reform Act, the Bank Secrecy Act, Internal Revenue Code and various other laws and regulations require us or our contractors, under certain circumstances, to provide certain customer information to government agencies. We will only disclose customer information to the government or others when we are required to do so by such laws, regulations, or by court order. State and federal laws impose certain mandatory disclosures of customer information by financial institutions. We must comply with laws that require mandatory production or disclosure. **With 3rd Party Litigants**  
-If you are involved in a legal proceeding, both federal and state law provide parties to the litigation the right to compel the production of records and information from banks and other third party record keepers in certain situations. We will only disclose customer information to third party litigants when we are required to do so by lawful judicial process or by court order. 
-**Privacy on the Internet**  
-We want Commerce customers to know that their information is secure, that such information is covered by our Privacy Policy, and that they are aware of and can control Commerce's use of their personal information obtained via the Internet. If you choose to contact us via e-mail, we will use your e-mail information only for the specific purpose of responding to your requests or comments. Your e-mail address will not be sold, nor will it be shared with others outside the bank unless we are compelled to do so by law. Commerce is committed to maintaining the privacy of customers in the Internet world. **What Can You Do To Protect Your Financial Information**  
-An important part of the responsibility of protecting your financial information rests with you. What can you do? 
-
-
-**Customer Inquiries**  
-Customers may contact Commerce, particularly by telephone at 1-800-YES-2003, seeking information with regard to their accounts. In some of these situations, we may be unable to disclose information due to privacy concerns and customer identification issues. We reserve the right to change this policy at any time by posting a new privacy policy.   
-  
-* * *
-
-  
-
-
-* * *
-
-[Home](http://www.commercepc.com/) | [Online Banking](http://www.commercepc.com/bank_col/index.cfm) | [Locations & Hours](http://www.commercepc.com/locations_hours/index.cfm)  
-[Personal Banking](http://www.commercepc.com/personal_banking/index.cfm) | [Business Banking](http://www.commercepc.com/business_banking/Index.cfm) | [Online Trading](http://demo.pcinvest.com/home.html)   
-[Inside Commerce](http://www.commercepc.com/inside_commerce/index.cfm) | [Employment Opportunities](http://www.commercepc.com/jobs/index.cfm) | [Privacy Policy](http://www.commercepc.com/inside_commerce/privacy_policy.cfm) | [Contact Us](https://secure.designfx.com/commercepc/forms/bank/general_cb.cfm) _Serving Central Pennsylvania_
-
-###### Copyright © 1999, 2000 Commerce Bank
-
- 
+Commerce Bank/Harrisburg, N.A. will maintain and enforce policies and procedures to prevent unnecessary access to this information from Bank employees. 
