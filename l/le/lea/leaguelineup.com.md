@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209050927id_/http%3A//leaguelineup.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguelineup.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603215900id_/http%3A//www.leaguelineup.com/privacy.asp) for the most accurate reproduction.*
 
 # LeagueLineup.com - The Youth Sports and Amateur Sports Portal (Free Web Sites and more)
 
