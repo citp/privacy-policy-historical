@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inmatrix.com privacy policy that was archived on 2001-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011205220359id_/http%3A//www.inmatrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inmatrix.com privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605031030id_/http%3A//www.inmatrix.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement.
 
@@ -12,6 +12,6 @@ Inmatrix may use cookies to improve your web browsing experience. When you are f
 
 **Disclosure**
 
-Inmatrix openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to blight@inmatrix.com. 
+Inmatrix openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to our [eMail](http://www.inmatrix.com/email.shtml). 
 
 Inmatrix reserves the right to change our policy from time to time. A revised policy will apply to information collected after the date the policy is changed. 
