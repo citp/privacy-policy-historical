@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinkerfcu.org privacy policy that was archived on 2002-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021211053742id_/http%3A//www.tinkerfcu.org/Disclaimer/Disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinkerfcu.org privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401225153id_/http%3A//tinkerfcu.org/Disclaimer/Disclaimer.html) for the most accurate reproduction.*
 
 # Disclaimer and Privacy Policy
 
@@ -11,14 +11,14 @@ Member Privacy Policy
   
   
 [Disclaimer and Privacy Statement  
-](https://web.archive.org/web/20021211053742id_/http%3A//www.tinkerfcu.org/Disclaimer/Disclaimer.html)  
-[](https://web.archive.org/web/20021211053742id_/http%3A//www.tinkerfcu.org/index.shtml)  
+](https://web.archive.org/web/20030401225153id_/http%3A//tinkerfcu.org/Disclaimer/Disclaimer.html)  
+[](https://web.archive.org/web/20030401225153id_/http%3A//tinkerfcu.org/index.shtml)  
 ****  
 ****_  
 _ Each member account federally insured to $100,000 by the National Credit Union Administration _  
 __  
 _ Copyright ©2002 Tinker Federal Credit Union[  
-](https://web.archive.org/web/20021211053742id_/http%3A//www.tinkerfcu.org/Disclaimer/Disclaimer.html)
+](https://web.archive.org/web/20030401225153id_/http%3A//tinkerfcu.org/Disclaimer/Disclaimer.html)
 
 | 
 
@@ -158,4 +158,6 @@ Federal law allows us to disclose the information listed above with other financ
   
 **Reasons For Disclosing**  
 Here is why we may disclose nonpublic personal information about you to other financial institutions with whom we have joint marketing agreements: • | To provide our members with information about additional products and services  
----|---
+---|---  
+  
+
