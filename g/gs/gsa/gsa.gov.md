@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the gsa.gov privacy policy that was archived on 1999-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991111003413id_/http%3A//www.gsa.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gsa.gov privacy policy that was archived on 2000-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000618153226id_/http%3A//www.gsa.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for GSA Websites
 
-**************************************WARNING*******************************************
+|           |   
+**Privacy Policy for GSA Websites** ************************************WARNING*********************************
 
-This is a U.S. General Services Administration Federal government computer system that  
-is "FOR OFFICIAL USE ONLY." This system is subject to monitoring. Therefore, no  
-expectation of privacy is to be assumed. Individuals found performing unauthorized  
-activities are subject to disciplinary action including criminal prosecution.
+This is a U.S. General Services Administration Federal government computer system that is "FOR OFFICIAL USE ONLY." This system is subject to monitoring. Therefore, no expectation of privacy is to be assumed. Individuals found performing unauthorized activities are subject to disciplinary action including criminal prosecution.
 
-*****************************************************************************************
+**********************************************************************************
 
 **How we handle the information we gather when you visit our web site -** ****We collect and store _only_ the following information about you:** The name of the domain from which you access the Internet (i.e., erols.com, if you are connecting from an Erols account, or harvard.edu if you are connecting from Harvard University's domain); the date and time you access our site; and the Internet address of the web site from which you linked directly to our site. If your browser accepts cookies we use a cookie to determine if you have visited one of our sites recently. 
 
@@ -23,6 +21,9 @@ When you send us personally-identifying information, i.e., in an electronic mail
 
 _**We want to make it clear that we will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us. Except for authorized law enforcement investigations, we do not share any information we receive with any outside parties.**_
 
-If you have any questions about these policies, [**contact us.**](https://web.archive.org/contacts.htm)
+  
+
+
+If you have any questions about these policies, [**contact us.**](https://web.archive.org/web/20000618153226id_/http%3A//www.gsa.gov/contacts.htm)
 
 **
