@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the page3.com privacy policy that was archived on 2001-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010330205623id_/http%3A//www.page3.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the page3.com privacy policy that was archived on 2004-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040208030803id_/http%3A//www.page3.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Page3.com - PRIVACY POLICY
 
-|  |  |  PRIVACY POLICY - NEWS GROUP NEWSPAPERS LTD. 
+PRIVACY POLICY - NEWS GROUP NEWSPAPERS LTD. 
 
 **News Group Newspapers Limited** takes the privacy of all its users and customers very seriously, and takes great care with user and customer information. This Privacy Statement outlines how your personal information is treated and forms part of the [Terms and Conditions](https://web.archive.org/termsandconds.html) of this site. We may occasionally modify our Privacy Statement, and when this happens, we will notify you via our homepage. 
 
@@ -98,10 +98,8 @@ Some of our associated companies may themselves use cookies on their own website
 
 We hope that you will be delighted with the range of services you are offered. However, you may request that your personal information is not used in the ways outlined above. This is called unsubscribing, and may be achieved by any of the following methods:
 
-Email us at [unsubscribe@newsint.co.uk](mailto:unsubscribe@newsint.co.uk), or Telephone us between 9.00am and 5.00pm seven days per week on: 020 7860 1133 Or write to us at: Unsubscribe, The Customer Liaison Department, 1, Virginia Street, London, E98 1RL.  
+Email us at [master@page3.com](mailto:master@page3.com), or Telephone us between 9.00am and 5.00pm seven days per week on: 020 7860 1133 Or write to us at: Unsubscribe, The Customer Liaison Department, 1, Virginia Street, London, E98 1RL.  
 Please allow forty days for the unsubscribe process to be completed. 
 
 
-  
----  
-« BACK
+
