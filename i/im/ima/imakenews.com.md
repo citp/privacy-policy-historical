@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204132244id_/http%3A//www.imninc.com/imn_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imakenews.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403153636id_/http%3A//www.imakenews.com/imn_privacy.asp) for the most accurate reproduction.*
 
-# IMN - Create newsletters and ezines, manage lists, send as HTML email, track results.
+# iMakeNews - Create HTML email marketing newsletters, manage lists, track results.
 
 **Privacy Policy**  
 IMN is committed to your privacy and your rights as our customer. Any information gathered by IMN will be kept strictly confidential and will only be used or shared in ways for which you have specifically consented. The following statement discloses our standard practice regarding the information we collect and the information we hold on behalf of our customers. 
@@ -58,7 +58,7 @@ IMN does not share personal information regarding its customers with any of its 
 You remain in control of your information. When you provide your information you can select whether you want to receive further communications about our products and services or other marketing information. When you opt-in to receive marketing communications from IMN, you can opt-out whenever you want. There is an opt-out feature located in the footer of all IMN email communications. IMN wants your personal data to be accurate and complete. If you want to change any of the personal data or preferences you can email us at [support@imninc.com](mailto:support@imninc.com) or call 617-964-4400 x215
 
  **Data Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer accounts are password-protected so that only the customer has access to his/her personal information. It is incumbent on the customer not to divulge their password to anyone. We will never ask for a customer's password in an unsolicited phone call or in an unsolicited email. Although we make every effort to ensure security of customer information, no data transmission can be guaranteed to be 100% secure over the Internet. [Click here for more information.](https://web.archive.org/web/20041204132244id_/http%3A//www.imninc.com/imn_security.asp)
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer accounts are password-protected so that only the customer has access to his/her personal information. It is incumbent on the customer not to divulge their password to anyone. We will never ask for a customer's password in an unsolicited phone call or in an unsolicited email. Although we make every effort to ensure security of customer information, no data transmission can be guaranteed to be 100% secure over the Internet. [Click here for more information.](https://web.archive.org/web/20050403153636id_/http%3A//www.imakenews.com/imn_security.asp)
 
  **Questions and Contact Information**  
 If you have any questions about this privacy Policy, you can email us at [support@imninc.com](mailto:support@imninc.com). Or, send correspondence to the following address:
