@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602071628id_/http%3A//www.rba.gov.au/PrivacyStatement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rba.gov.au privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203220921id_/http%3A//www.rba.gov.au/PrivacyStatement/index.html) for the most accurate reproduction.*
 
 # RBA: Privacy Statement
 
@@ -42,7 +42,8 @@ We will record your e-mail address if:
   * you send us an e-mail message;
   * purchase a publication via our online Publication Form;
   * apply for registration as a public user of the Bank's archives;
-  * apply for a job; or
+  * apply for a job; 
+  * include your e-mail address when submitting a completed Education Survey; or
   * register for our e-mail notification service.
 
 
@@ -171,6 +172,4 @@ The Privacy Officer
 Reserve Bank of Australia  
 GPO Box 3947  
 SYDNEY NSW 2001  
-AUSTRALIA  
-  
-> 
+AUSTRALIA
