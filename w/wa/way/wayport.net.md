@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wayport.net privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603001622id_/http%3A//www.wayport.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wayport.net privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204092809id_/http%3A//www.wayport.net/privacy) for the most accurate reproduction.*
 
 # Wayport Privacy Policy
 
@@ -54,6 +54,6 @@ Wayport may change or modify its privacy policy from time to time. Please check 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact:
 
 **Wayport, Inc.**  
-8303 Mo-pac, Suite A-300.  
-Austin, Texas 78759  
+4509 Freidrich Lane Building III Suite 300  
+Austin, Texas 78744  
 [webmaster@wayport.net](mailto:webmaster@wayport.net)
