@@ -1,42 +1,31 @@
-> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606143214id_/http%3A//www.state.oh.us/ohio/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2002-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020126185656id_/http%3A//ohio.gov/privacy.htm) for the most accurate reproduction.*
 
-# Ohio Privacy Policy
+# State of Ohio Government Info and Services
 
-_**Ohio Server Project  
-Internet Privacy Statement**_
+  |  **OHIO'S INTERNET PORTAL PRIVACY NOTICE**
 
-  
-The Ohio Server Project, a service provided by the Department of Administrative Services (DAS), recognizes the importance of privacy to our Web site visitors. We collect personal information from our Web site visitors only when information is provided voluntarily. **What Information is Collected and How it is Used**
+The Ohio Internet Portal, a service provided by the Department of Administrative Services, recognizes the importance of privacy to our web site visitors. Therefore, visitors should be aware of the following information. **_PUBLIC RECORDS_**
 
-**Usage Statistics.** In order to generate usage statistics to help us improve our Web site, we automatically collect information on every visit without identifying the visitor. The following information is compiled to produce Web usage statistics and is destroyed after three months:
+Visitors should be aware that, subject to certain statutory exceptions, most documents and records maintained by the state of Ohio, including but not limited to electronic data, are public records under Ohio law. Therefore, information submitted through this web site may be subject to disclosure pursuant to a public records request. 
 
-  * the visitor's IP address, 
-  * the date and time the visitor accesses our site and 
-  * the Internet address of the site from which the visitor linked to our site. 
+**_USAGE STATISTICS_**
 
+In order to generate usage statistics to help us improve our web site, we automatically collect certain information on every visitor to the web site. However, this information does not disclose "personal identifiers" (such as name, address, telephone number, e-mail address, etc.). Each time a request is made to view a page within this web site, our web site creates a log file capturing generic user information. Examples of this type of information includes the type of Internet browser or computer operating system you are using, the date and time you accessed this site, the Internet protocol address of the individual computer (or proxy server) making the request, and the Internet address of the site from which you may have linked to this site. 
 
+All information collected by way of server log files is used in aggregate form only, and may be analyzed for trends and statistics. 
 
-  
-**Web Cookies.** The use of Web cookies is discouraged on our Web sites. Temporary cookies, however, may be used when necessary to complete a transaction. If a persistent Web cookie is required, the Web page discloses to visitors that a persistent cookie is being used. _Information collected on our Web sites including information from persistent Web cookies is generally subject to Ohio Public Records Law except as otherwise provided by Ohio or federal law._  
-  
-**Online Forms and E-mail.** We only collect personal information when necessary to provide a service to the public or state agencies. Any personal information voluntarily provided by visitors, including personal information from online forms and e-mail, will be used for the purpose stated on the web page on which it was collected and may be shared with our staff and other state agencies to respond to or process the e-mail or online form. In addition, information may also be shared with our staff and other agencies as required by law or pursuant to agency authority. _Information collected on our Web site and e-mail sent to us is generally subject to Ohio Public Records Law except as otherwise provided by Ohio or federal law._ **Choices Available to Visitors Regarding Collection, Use and Distribution of Information**
+**_ONLINE FORMS AND E-MAIL_**
 
-Visitors will only receive information from us in response to a request. There may be instances where we send ongoing updates or announcements to interested parties. In such cases, visitors will have the choice whether or not to receive these updates or announcements.
+This web site will not collect personally identifiable information (such as name, address, telephone number, etc.) unless you provide such information voluntarily. We may ask for such information so that we can tailor interactive features of this web site to your specific interests and needs (including periodically forwarding information that matches your selected interests). You are free to provide or not to provide the requested information. If you choose not to provide this type of information, you can still visit most of the web site, but you may be unable to participate in certain online forums. Any personal information voluntarily provided by visitors, including personal information submitted on online forms and e-mail, will be used for the purposes stated on the web page and may also be shared with other agencies as required by law or pursuant to agency authority. Information submitted through this web site also may be subject to disclosure pursuant to a public records request. 
 
- **Security Measures to Protect Information Under Our Control**
+**_WEB COOKIES_**
 
-We take very seriously the integrity of the information and systems that we maintain. As such, we have instituted security measures for all information systems under our control so that information will not be lost, misused or altered.
+Visitors who submit information via this web site should be aware that data linking your computer to this web site (a "cookie") may be created. Temporary cookies may be used when necessary to complete a transaction, to process data submitted to us online or to facilitate ongoing Internet interaction. Information collected on our web sites, including cookies, may also be subject to disclosure pursuant to a public records request. 
 
-For site security purposes and to ensure that our Internet services remain available to all users, we employ software programs to monitor traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. In the event of authorized law enforcement investigations and pursuant to any required legal process, information from these sources may be used to help identify an individual.
+**_SECURITY MEASURES_**
 
- **Contact**
+We take very seriously the integrity of the information and systems that we maintain. Therefore, we have instituted security measures for all information systems under our control. These security measures are designed to identify attempts to tamper with this web site. Information collected through these security measures may be used in connection with a criminal prosecution or other legal proceedings. 
 
-If you would like information on how to review or correct your information, contact:
+**_CONTACT_**
 
-Ohio Server Project Manager  
-Department of Administrative Services  
-1320 Arthur Adams Drive  
-Columbus, OH 43221  
-[Webmaster@das.state.oh.us](mailto:webmaster@das.state.oh.us)
-
-[DAS Homepage](http://www.state.oh.us/das/)
+If you would like information on how to review or correct information submitted through this web site, please contact:        [webmaster@das.state.oh.us](https://web.archive.org/web/20020126185656id_/http%3A//ohio.gov/feedback.htm)
