@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2003-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031001213903id_/http%3A//news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-miner.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603015223id_/http%3A//news-miner.com/Stories/0%2C1413%2C113%25257E7496%25257E%2C00.html) for the most accurate reproduction.*
 
 # News-Miner - Privacy Policy
 
-October 01, 2003   
+June 02, 2004   
 Fairbanks, AK
 
 | [Home Page](https://web.archive.org/Stories/0,1413,113%257E7250%257E,00.html)  
 ---  
+[Archives](https://web.archive.org/Stories/0,1413,113%257E31141%257E,00.html)  
 [Past News](https://web.archive.org/Stories/0,1413,113%257E7244%257E,00.html)  
 [Sports](https://web.archive.org/Stories/0,1413,113%257E7248%257E,00.html)  
 [Opinion](https://web.archive.org/Stories/0,1413,113%257E7252%257E,00.html)  
@@ -14,15 +15,13 @@ Fairbanks, AK
 [Health & Wellness](http://newsminer.healthology.com/)  
 [Special Sections](https://web.archive.org/Stories/0,1413,113%257E27660%257E,00.html)  
 [Photos](http://209.165.153.5/indexslideshow.htm)  
-[ArcticCam](https://web.archive.org/Stories/0,1413,113%257E7202%257E,00.html)  
-[Weekly Poll](https://web.archive.org/Stories/0,1413,113%257E7259%257E,00.html)  
+[ArcticCam](http://www.arcticcam.com/cam.html)  
 [Classifieds](https://web.archive.org/Stories/0,1413,113%257E7239%257E,00.html)  
 [Home Delivery](https://web.archive.org/Stories/0,1413,113%257E7281%257E,00.html)  
 [Contact Us](https://web.archive.org/Stories/0,1413,113%257E26933%257E,00.html)  
 [Privacy Policy](https://web.archive.org/Stories/0,1413,113%257E7496%257E,00.html)  
-    
   
-  | 
+  |   | 
 
 |    
 |  | **General Privacy Policy**  
@@ -125,4 +124,4 @@ We use a third-party advertising company to serve ads when you visit our Web sit
   
   
   
-  | 
+  |   | 
