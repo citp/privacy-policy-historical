@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2000-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001217062300id_/http%3A//www.productionhub.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productionhub.com privacy policy that was archived on 2001-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010413085350id_/http%3A//productionhub.com/privacy.asp) for the most accurate reproduction.*
 
 # ProductionHub.com The Portal for Film, Video, and Digital Media Production
 
@@ -12,6 +12,22 @@ The ProductionHUB has taken all reasonable measures to ensure the accuracy of th
 ProductionHUB makes no claims, guarantees or warranties in regard to accuracy or completeness of information and cannot accept responsibility for any errors or omissions or any liability resulting from the use or misuse of any such information. The provider reserves the right to refuse any material not in keeping with the professional standards of the ProductionHUB. 
 
 Further, there is no claim made to the legality or decency of material contained within linked sights, and all links are to be accessed at the user’s own risk. Production HUB.com, at its sole discretion, may choose to change the terms, conditions and operation of this website at anytime.  
+  
+Welcome to ProductionHUB.com, By using our services, you agree to abide by the terms of this Member/Visitor Agreement; PLEASE READ IT CAREFULLY. 1\. Provisions for Equipment Broker The products that appear on ProductionHUB.com are for informational purposes only. Despite our efforts to provide useful and accurate information, errors may appear from time to time. Before purchasing goods or services you've read about on ProductionHUB.com, you should confirm with the vendor any information, including the price, that is important to your purchasing decision. ProductionHUB.com is not responsible for, and does not guarantee the performance of, any such goods or services. 
+
+ProductionHUB.com's Equipment Broker is a service that brings buyers and sellers together. Information about a particular piece of equipment is supplied by the seller, not by ProductionHUB.com. The price and other terms of any sale remain subject to direct negotiation between the buyer and the seller. Though we hope that all who come to ProductionHUB.com will act honorably and treat each other fairly, we can't verify the information they supply or guarantee the equipment they offer. When using this service to find a buyer for your equipment or equipment you may want to purchase, we urge you to use the same common sense and good judgment you would in selling goods through, or responding to, a classified ad in the newspaper. 
+
+Those who offer equipment for sale through ProductionHUB.com should be prepared to sell the equipment they advertise at the price(s) at which, and the terms of which, they advertise them. To list any equipment for sale on ProductionHUB.com, sellers are required to provide certain identifying and contact information. The information must accurately identify the seller and the method of contact must permit buyers to communicate directly with the seller without any alteration to the content of their communications. ProductionHUB.com reserves the right to deny use of this service to anyone who does not comply with these requirements or who otherwise uses the service in manner we consider inappropriate. 
+
+ProductionHUB.com respects the privacy of its users. Please take time to review our privacy policy. 
+
+We invite you to bring to our attention any information you believe to be inaccurate. Please respond to 
+
+[info@productionhub.com](mailto:info@productionhub.com), along with an explanation of your objection. 
+
+For your convenience, ProductionHUB.com has listed a variety of links to other websites, not operated by ProductionHUB.com, where you can obtain information on specific equipment manufacturers and their products. While ProductionHUB.com encourages you to consult such websites, ProductionHUB.com cannot guarantee nor be responsible for the prices, terms, quality, reliability or performance of the products or services provided by these vendors. 
+
+The Web is an evolving medium. ProductionHUB.com may change the terms of this agreement from time to time. By continuing to use this service following such changes, you agree to be bound by this agreement, as modified. ProductionHUB.com may change, restrict access to, suspend, or discontinue this service, or any portion of this service, at any time.   
   
 ******Collection of Personal Information**  
 ProductionHUB has created this statement to demonstrate our firm commitment to the privacy of our users. We also want to make the user's experience on the site as valuable and efficient as possible. The following discloses the information gathering and dissemination practices for our web site: www.productionhub.com. 
