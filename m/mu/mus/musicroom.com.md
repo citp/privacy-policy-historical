@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the musicroom.com privacy policy that was archived on 2002-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020201221309id_/http%3A//www.musicroom.com/infoprivacy.ihtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicroom.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602040304id_/http%3A//www.musicroom.com/infoprivacy.html) for the most accurate reproduction.*
 
-# Info - Privacy Policy at Musicroom.com
+# Help and Information - Privacy Policy - Musicroom.com
 
 **Privacy Policy**
 
