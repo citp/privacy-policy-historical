@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the roanoke.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603151927id_/http%3A//www.roanoke.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roanoke.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208093417id_/http%3A//www.roanoke.com/aboutus/privacy.html) for the most accurate reproduction.*
 
-# The Roanoke Times/roanoke.com Advertise
+# roanoke.com
 
-Last updated 4/19/2002
+  
+Updated 8/9/2002
 
 Welcome to roanoke.com, The Roanoke Times, space in the Internet, located in southwestern Virginia. We believe in your right to know what information is collected from you when doing business with us or visiting our Web sites -- and how that information is used and safeguarded. 
 
@@ -42,11 +43,11 @@ The Children's Online Privacy Protection Act stipulates that Web site operators 
 
 **Opt out procedures**
 
-From time to time, we may send you information about various products and services. If you do not want to receive this information, you may send your unsubscribe request via e-mail to Jim Ellison, online editor: [jime@roanoke.com](mailto:jime@roanoke.com)
+From time to time, we may send you information about various products and services. If you do not want to receive this information, you may send your unsubscribe request via [e-mail](mailto:jim.ellison@roanoke.com) to Jim Ellison, online editor.
 
 **Correcting and updating your private information**
 
-The information that you provide to roanoke.com may be stored by us for an indefinite time. However, please feel free to request a change or deletion of this information at any time by sending an e-mail to [jime@roanoke.com](mailto:jime@roanoke.com)
+The information that you provide to roanoke.com may be stored by us for an indefinite time. However, please feel free to request a change or deletion of this information at any time by sending us an [e-mail.](mailto:jim.ellison@roanoke.com)
 
 **Usage tracking**
 
@@ -54,7 +55,7 @@ Some information about you is automatically collected via server logs. This info
 
 **Cookies**
 
-A "cookie" is a small text file that is placed in your browser and allows a Web site to recognize you each time you visit its pages. roanoke.com does not use cookies to collect personal information. Other parts of our site that are not administered by roanoke.com, such as CNet, do. 
+A "cookie" is a small text file that is placed in your browser and allows a Web site to recognize you each time you visit its pages. roanoke.com does not use cookies to collect personal information. Other parts of our site that are not administered by roanoke.com, such as the TV listings, do. 
 
 **Security**
 
@@ -70,7 +71,7 @@ Our partners and other Internet sites or services that may be accessible through
 
 For any questions or comments regarding our privacy policy, you may contact us: 
 
-by e-mail: Jim Ellison, online editor, [jime@roanoke.com](mailto:jime@roanoke.com)
+by [e-mail](mailto:jim.ellison@roanoke.com): Jim Ellison, online editor
 
 by phone: (540) 981-3198 or (800) 346-1234 ext. 198 
 
