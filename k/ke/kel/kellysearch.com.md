@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kellysearch.com privacy policy that was archived on 2001-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010422154350id_/http%3A//www.kellysearch.com/marketing/aboutkellys/privpolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellysearch.com privacy policy that was archived on 2002-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020803183436id_/http%3A//www.kellysearch.com/hpp/homepage/privacy-policy.htms) for the most accurate reproduction.*
 
-# Kellysearch.com | About kellysearch.com | The CIPS
+# Kellysearch - Privacy Policy
 
 **Privacy Policy - www.kellysearch.com**
 
@@ -26,3 +26,5 @@ If your personal information changes you can alter the details we hold by sendin
 
 **Your comments**  
 Please send any comments about this website or privacy policy to: [neil.cooper@reedinfo.co.uk](mailto:neil.cooper@reedinfo.co.uk)
+
+[Home](https://web.archive.org/) [Products and Services](https://web.archive.org/psp/products/a.htms) [Companies](https://web.archive.org/csp/companies/a.htms) [Trade Names and Brand Names](https://web.archive.org/tsp/tradenames/a.htms) [Cities and Towns](https://web.archive.org/wsp/towns/a.htms)
