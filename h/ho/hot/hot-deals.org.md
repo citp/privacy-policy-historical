@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hot-deals.org privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224005838id_/http%3A//hot-deals.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot-deals.org privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403213201id_/http%3A//www.hot-deals.org/privacy) for the most accurate reproduction.*
 
 # Hot Deals Club - Privacy Policy
 
@@ -8,7 +8,7 @@ TheHotDeals.com
 TheDeals.Net  
 Hot-Deals.org 
 
-Hot Deals Club is an independent, non-profit organization whose mission is to find the best deals on the Internet and encourage fair information exchange practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and will notify you of: 
+Hot Deals Club is an independent organization whose mission is to find the best deals on the Internet and encourage fair information exchange practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and will notify you of: 
 
   1. What personally identifiable information of yours or third party personally identification is collected from you through the web site 
   2. The organization collecting the information 
