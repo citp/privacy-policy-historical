@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmyers.com privacy policy that was archived on 2001-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011214093249id_/http%3A//www.bmyers.com/public/department26.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmyers.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609090810id_/http%3A//www.bmyers.com/public/department26.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,4 +32,4 @@ We use a variety of security measures including encryption and authentication fr
 Our site gives users the opportunity to opt-in to receive communications from us. You can be assured that we never reveal, sell, or make available your email address to anyone for any purpose. This site also gives users options for removing their information from our database in order to stop receiving our communications. 
 
 **Other**  
-If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20011214093249id_/http%3A//www.bmyers.com/public/main.cfm?page=7).
+If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20020609090810id_/http%3A//www.bmyers.com/public/main.cfm?page=7).
