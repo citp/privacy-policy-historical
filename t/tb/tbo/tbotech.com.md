@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2001-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010607070452id_/http%3A//tbotech.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tbotech.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211222808id_/http%3A//tbotech.com/privacy.htm) for the most accurate reproduction.*
 
 # TBO-TECH Privacy Policy
 
-## TBO-TECH Privacy Policy
+### _Privacy Policy_
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's IP address, but not the e-mail address. 
 
