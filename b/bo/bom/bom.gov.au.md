@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207033203id_/http%3A//www.bom.gov.au/other/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bom.gov.au privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602173005id_/http%3A//www.bom.gov.au/other/legal/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Notice
 
@@ -42,7 +42,10 @@ Some pages of this web site provide the facility for users to fill out an online
 
 ### Cookies
 
-A cookie is an electronic token that is passed to your browser and your browser passes it back to the server whenever a page is sent to you. We do not use cookies to collect personal information or to track your activities.
+A cookie is an electronic token that is passed between browser and server to transfer small amount of information.  
+We do not use cookies to collect personal information or to track your activities. 
+
+Limited use of the cookies has been implemented to enhance the rain and river height map displays. Please refer to [the use of cookies within the Flood Warning Centre Pages](https://web.archive.org/other/legal/cookies_use.shtml) for more details.
 
 ### Searches
 
