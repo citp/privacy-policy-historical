@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digitalplanet.co.za privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603090503id_/http%3A//www.digitalplanet.co.za/dp/about/default.asp%3FID%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalplanet.co.za privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207074527id_/http%3A//www.digitalplanet.co.za/dp/about/default.asp%3FID%3D10) for the most accurate reproduction.*
 
 # Digital Planet - About Us
 
-**Digital Planet respects your privacy** This statement discloses the privacy practices for both our Web site and email system. 
+**Digital Planet respects your privacy** This statement discloses the privacy practices for both our web site and email system. 
 
-We have designed Digital Planet so that **no personal identifying information is displayed online** or is accessible to the general public. **We do not sell or rent our customer information to any outside parties.**
+We have designed Digital Planet so that **no personal identifying information is displayed online** or is accessible to the general public. **_We do not sell or rent our customer information to any outside parties._**
 
 Described below is our privacy policy in these areas: 
 
