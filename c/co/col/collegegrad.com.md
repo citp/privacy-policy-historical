@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2002-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021209093435id_/http%3A//www.collegegrad.com/Privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegegrad.com privacy policy that was archived on 2003-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030623004821id_/http%3A//www.collegegrad.com/privacy/index.shtml) for the most accurate reproduction.*
 
 # CollegeGrad.com Internet Privacy Statement
-
-  
-| 
 
 Privacy Statement  
 
@@ -19,8 +16,10 @@ You may voluntarily post your resume at our site. It will be included in our res
 
 We produce an e-mail newsletter, the CollegeGrad.com Job Hunter Newsletter, which will be sent to you if you register at our site. You are given an opportunity to opt out of this newsletter if you do not wish to receive it. Your e-mail address is not sold or given out to anyone external to our site. 
 
+We may also send you periodic e-mails giving you further instructions on how to utilize the information at our site. You may opt out of receiving these e-mails at any time. 
+
 **Online advertising**   
-CollegeGrad.com has certain companies help us deliver our banner ads and other online communications. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers. The information they collect is aggregated so it is not identifiable to a specific individual. If, however, you would prefer that these companies not collect information from your experience, please visit the PrivacyChoices site at [www.privacychoices.org](http://www.privacychoices.org/) and follow the “opt-out” instructions. 
+CollegeGrad.com has certain companies help us deliver our banner ads and other online communications. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers. The information they collect is aggregated so it is not identifiable to a specific individual. If, however, you would prefer that these companies not collect information from your experience, please visit the PrivacyChoices site at [www.privacychoices.org](http://www.privacychoices.org/) and follow the "opt-out" instructions. 
 
 **Business relationships**   
 Our site contains links to other Web sites. CollegeGrad.com is not responsible for the privacy practices or the content of such Web sites. 
@@ -35,4 +34,4 @@ CollegeGrad.com, Inc.
 Cedarburg, WI 53012-9399   
 Phone: 262-376-1000   
 Fax: 262-376-1030
-| 
+
