@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2003-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030410143941id_/http%3A//www.48hourprint.com/cgi-bin/ccp5/cp-app.cgi%3F%26pg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 48hourprint.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207151946id_/http%3A//www.48hourprint.com/cgi-bin/ccp5/cp-app.cgi%3F%26pg%3Dprivacy) for the most accurate reproduction.*
 
-# 48hourprint.com - Online Ordering
+# 48hourprint.com - Secure Online Ordering
 
 We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site.
 
@@ -22,16 +22,16 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive mail list messages.
 
-  * [You can send email to us by visiting the Contact Page](https://www.48hourprint.com/cgi-bin/ccp5/cp-app.cgi?usr=50X983114&rnd=4472062&rrc=N&cip=209.237.238.159&pg=contact)  
+  * [You can send email to us by visiting the Contact Page](https://www.48hourprint.com/cgi-bin/ccp5/cp-app.cgi?usr=50X8882796&rnd=7237363&rrc=N&cip=209.237.238.174&pg=contact)  
 
-  * [You can visit the Mail List Page to un-subscribe](https://www.48hourprint.com/cgi-bin/ccp5/cp-app.cgi?usr=50X983114&rnd=4472062&rrc=N&cip=209.237.238.159&pg=maillist)  
+  * [You can visit the Mail List Page to un-subscribe](https://www.48hourprint.com/cgi-bin/ccp5/cp-app.cgi?usr=50X8882796&rnd=7237363&rrc=N&cip=209.237.238.174&pg=maillist)  
 
 
 **Correct/Update**
 
 This site gives users the following options for changing and modifying information previously provided.
 
-  * [You can send email to us by visiting Contact Page](https://www.48hourprint.com/cgi-bin/ccp5/cp-app.cgi?usr=50X983114&rnd=4472062&rrc=N&cip=209.237.238.159&pg=contact)  
+  * [You can send email to us by visiting Contact Page](https://www.48hourprint.com/cgi-bin/ccp5/cp-app.cgi?usr=50X8882796&rnd=7237363&rrc=N&cip=209.237.238.174&pg=contact)  
 
 
 
