@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foxsports.com.au privacy policy that was archived on 2003-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20030402062205id_/http%3A//foxsports.news.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foxsports.com.au privacy policy that was archived on 2003-12-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031211072105id_/http%3A//foxsports.news.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 	<title>FOX SPORTS | Privacy</title>
@@ -52,18 +52,18 @@
 	
 	// preload leftnav images
  	mouseoverImg = new Image(120,16);
-  	mouseoverImg.src = "/images/leftnav_over_bg.gif";
+  	mouseoverImg.src = "http://foxsports.news.com.au/images/leftnav_over_bg.gif";
 	
 	mouseoutImg = new Image(120,16);
-  	mouseoutImg.src = "/images/leftnav_out_bg.gif";
+  	mouseoutImg.src = "http://foxsports.news.com.au/images/leftnav_out_bg.gif";
 	
 	function LHNRollOver(item) {
-	 item.style.backgroundImage="url(/images/leftnav_over_bg.gif)";
+	 item.style.backgroundImage="url(http://foxsports.news.com.au/images/leftnav_over_bg.gif)";
 	 item.style.color='#4B4B4B';
 	}
 	
 	function LHNRollOut(item) {
-	 item.style.backgroundImage="url(/images/leftnav_out_bg.gif)";
+	 item.style.backgroundImage="url(http://foxsports.news.com.au/images/leftnav_out_bg.gif)";
 	 item.style.color='#F4C700';
 	}
 
@@ -92,58 +92,66 @@
 <table width="760" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td width="87"><a href="/"><img src="/images/header_left.gif" width="87" height="70" border="0" alt=""></a></td>
-		<td width="140"><img src="/images/header_middle.jpg" width="140" height="70" border="0" alt=""></td>
+		<td width="140"><img src="/images/header_middle.gif" width="140" height="70" border="0" alt=""></td>
 		<td width="533" align="right" class="padding" background="/images/header_right.gif"></td>
 	</tr>
 </tbody></table><table width="760" cellpadding="0" cellspacing="0" border="0">
 	<tbody><tr>
 		<td width="120" valign="top" bgcolor="#C4C4C4">
 		 <!-- Start Left Nav //-->
-		<table width="120" cellpadding="0" cellspacing="0" border="0">
-			<form action="http://search.news.com.au/search" name="webSearch" id="webSearch" target="_parent" style="margin: 1px 0px 0px 0px"></form>
-			<tbody><tr>
-				<td bgcolor="#4B4B4B" style="padding: 0px 0px 11px 8px">
-				<p class="white10b">SEARCH<input type="image" src="/images/doubeArrow.gif" width="12" height="11" border="0" alt=">>" style="margin: 6px 4px 0px 16px" name="Submit"><a href="javascript:void(0)" onclick="document.webSearch.submit();"><span class="yellow12b">Go!</span></a>
-				<input type="text" name="q" class="leftNavForm" value="Search the web" onfocus="emptyField(this);">
-				</p>
-				</td>
-			</tr>
-		</tbody></table>
-		<table width="120" cellpadding="0" cellspacing="0" border="0">
+		
+	<table width="120" cellpadding="0" cellspacing="0" border="0" bgcolor="#4B4B4B">
+	<form action="http://searchresults.news.com.au/servlet/Search" method="post"></form>
+	<input type="hidden" name="site" value="foxsports">
+	<tbody><tr>
+		<td style="padding: 5px 2px 0px 3px;">
+		<span class="white11b">Search</span><br>
+		<input type="Text" style="width: 111px; font-size: 10px; background-color: #F8F8D8; color: #2A272C;" name="queryterm"><br>
+		<select name="searchoption" style="width: 81px; font-size: 10px; background-color: #F8F8D8; margin-top: 2px; color: #2A272C;">
+			<option value="no" selected="">The Web</option>
+			<option value="yes">This Site</option>
+		</select><input type="image" src="http://foxsports.news.com.au/images/google_fs_go.gif" value="submit" name="submit" style="margin-left: 4px;">
+		<img src="http://foxsports.news.com.au/images/google_fs_logo.gif" width="111" height="19" border="0" alt="" style="margin-top: 5px;">
+		</td>
+	</tr>
+	
+</tbody></table>
+  <table width="120" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
 				<td valign="top" background="/images/leftnav_table_bg.gif">
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/'">FOX SPORTS</div>
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/results/'">RESULTS</div>
-				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/experts/'">EXPERTS</div>
+				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/tipping/'">TIPPING</div>
+				 <div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/experts/'">EXPERTS</div>
 		
-			  
+			    
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/afl'">AFL</div>
 				 
-			  
+			    
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/basketball'">BASKETBALL</div>
 				 
-			  
+			    
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/cricket'">CRICKET</div>
 				 
-			  
+			    
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/golf'">GOLF</div>
 				 
-			  
+			    
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/league'">LEAGUE</div>
 				 
-			  
+			    
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/motorsports'">MOTOR SPORTS</div>
 				 
-			  
+			    
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/soccer'">SOCCER</div>
 				 
-			  
+			    
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/tennis'">TENNIS</div>
 				 
-			  
+			    
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/union'">UNION</div>
 				 
-			  
+			    
 				<div class="lnavp" onmouseover="LHNRollOver(this)" onmouseout="LHNRollOut(this)" onclick="window.location='/othersports'">MORE</div>
 				  </td>
 			</tr>
@@ -153,15 +161,12 @@
 				<td>
 				<a href="javascript:void(0)" onclick="window.open('/gallery/','PhotoGallery','toolbar=no,scrolling=no,status=no,menubar=no,scrollbars=no,resizable=no,width=560,height=508,left=200,top=100')" class="leftNavWhite"><img src="/images/leftnav_square.gif" width="16" height="14" border="0" alt="">Sport Gallery</a><br>
 				<a href="/todayspapers/" class="leftNavWhite"><img src="/images/leftnav_square_2.gif" width="16" height="14" border="0" alt="">Today's Papers</a><br>
-				<a href="javascript:void(0)" onclick="openWin('http://foxsports.news.com.au/audionews/0,8656,,00.html','terms','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=490,height=358')" class="leftNavWhite"><img src="/images/leftnav_headphones.gif" width="16" height="14" border="0" alt="">Audio News</a><br><br>
-				
+				<a href="javascript:void(0)" onclick="openWin('http://foxsports.news.com.au/audionews/0,8656,,00.html','terms','toolbar=no,location=no,scrolling=auto,directories=no,status=no,menubar=no,scrollbars=no,resizable=no,width=490,height=358')" class="leftNavWhite"><img src="/images/leftnav_headphones.gif" width="16" height="14" border="0" alt="">Audio News</a><br>
+				<a href="/wicketball/" class="leftNavWhite"><img src="/images/icon_wicketball.gif" width="16" height="14" border="0" alt="">Wicketball</a><br><br>
 				<a href="/shows" class="leftNavWhite"><img src="/images/leftnav_tv.gif" width="16" height="14" border="0" alt="">FOX SPORTS TV</a><br>
 				<a href="/events/" class="leftNavWhite"><img src="/images/leftnav_expl.gif" width="16" height="14" border="0" alt="">Coming Events</a><br>
 				<a href="http://tvguide.foxsports.news.com.au/servlet/Search" class="leftNavWhite"><img src="/images/leftnav_square_3.gif" width="16" height="14" border="0" alt="">TV Guide</a><br>
-				<a href="/help/" class="leftNavWhite"><img src="/images/leftnav_question.gif" width="16" height="14" border="0" alt="">FAQ</a><br><br>
-				
-				<a href="http://foxsports.news.com.au/competition/" class="leftNavWhite">WIN A FOX PACK</a><br>
-				</td>
+				<a href="/help/" class="leftNavWhite"><img src="/images/leftnav_question.gif" width="16" height="14" border="0" alt="">FAQ</a><br> </td>
 			</tr>
 			<tr>
 				<td style="padding-left: 0px; padding-bottom: 0px;"><img src="/images/leftnav_black_blue.gif" width="120" height="24" border="0" alt=""></td>
@@ -268,8 +273,9 @@
 				</td>
 			</tr>
 			<tr>
-				<td style="padding-left: 0px; padding-bottom: 0px;" bgcolor="#C4C4C4">
-				<img src="/images/leftnav_blue_grey.gif" border="0" alt="" width="120" height="24">
+				<td style="padding-left: 0px; padding-bottom: 0px;" valign="top" bgcolor="#EDB200">
+				<img src="/images/fs_leftNav_logo.gif" border="0" alt="" width="120" height="101"><br>
+				<img src="/images/fs_leftNav_bg.jpg" border="0" alt="" width="120" height="388">
 				</td>
 			</tr>
 		</tbody></table>
@@ -446,13 +452,14 @@ information about our approach to privacy.
 						</p></td>
 					</tr>
 				</tbody></table>
+				 <!-- Debug: infoURL privacy //-->
 				 <!-- End Left Section of Main Page //-->
 				</td>
 				<td width="135" valign="top">
 				<!-- Begin Right Section of Main Page //-->
 				  <table width="120" cellpadding="0" cellspacing="0" border="0" style="margin-left: 13px;">
 	 
-	<!-- Vignette StoryServer 4 Wed Apr 02 15:50:53 2003 -->
+	<!-- Vignette StoryServer 4 Thu Dec 11 17:34:03 2003 -->
 
 	 
 <tbody><tr>
@@ -461,7 +468,7 @@ information about our approach to privacy.
 <tr>
 	<td>
 	<ul class="linkList" style="margin-left: 20px; margin-top: 3px; margin-bottom: 5px;">
-		<li><a href="/story/0,8659,6226555-23210,00.html">Windies sorry for coaching bungle</a></li><li><a href="/story/0,8659,6226469-23210,00.html">Aussie ice hockey moves up</a></li><li><a href="/story/0,8659,6226390-23210,00.html">Dokic out, Molik advances</a></li><li><a href="/story/0,8659,6225725-23210,00.html">Eagles appeal star's ban</a></li> </ul>
+		<li><a href="/story/0,8659,8132912-23210,00.html">'New Maradona' to be unleashed</a></li><li><a href="/story/0,8659,8132791-23210,00.html">Raiders sign sleeve sponsor</a></li><li><a href="/story/0,8659,8132746-23210,00.html">Tour verdict in new year</a></li><li><a href="/story/0,8659,8132571-23210,00.html">Dettori fit for Hong Kong</a></li> </ul>
 	</td>
 </tr>
   
@@ -487,10 +494,10 @@ information about our approach to privacy.
 		<td width="511" bgcolor="#A7A7A7" style="padding-left: 10px;">
 		<table width="501" cellpadding="0" cellspacing="0" border="0">
 			<tbody><tr>
-				<td><a href="/about" class="grey10n">About FOX SPORTS</a> | <a href="http://www.advertising.ni.com.au/" class="grey10n">Advertise with us</a> | <a href="/help" class="grey10n">Help and contacts</a> | <a href="/privacy" class="grey10n">Privacy statement</a></td>
+				<td><a href="/about" class="grey10n">About FOX SPORTS</a> | <a href="http://www.advertising.ni.com.au/" class="grey10n">Advertise with us</a> | <a href="/help" class="grey10n">Help and contacts</a> | <a href="/privacy" class="grey10n">Privacy statement</a> | <a href="http://www.astra.org.au/article.asp?section=2&amp;option=4&amp;content=1" target="_blank" class="grey10n">Piracy</a></td>
 			</tr>
 			<tr>
-				<td><a href="/copyright/"><span class="grey11b">Copyright 2002 News Limited.</span></a> All times AEDT (GMT+11).</td>
+				<td><a href="/copyright/"><span class="grey11b">Copyright 2003 News Limited.</span></a> All times AEST (GMT+10).</td>
 			</tr>
 		</tbody></table>
 		</td>
