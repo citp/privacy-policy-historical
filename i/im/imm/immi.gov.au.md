@@ -1,47 +1,87 @@
-> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017002622id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immi.gov.au privacy policy that was archived on 2003-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030409205342id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
 
 # Immigration Department Website: Privacy Statement
 
-The _Privacy Act 1988_ defines personal information as '....information, about an individual whose identity is apparent or can be reasonably ascertained from the information or opinion'.
+Privacy statement   
+Security of information   
+Site visit data   
+Cookies   
+Collection, use and disclosure of personal information   
+Further information 
 
-The Department of Immigration and Multicultural and Indigenous Affairs (DIMIA) treats personal information as confidential. Information received by DIMIA is protected from unauthorised disclosure by virtue of the _Migration Act 1958, Crimes Act 1914,_ the _Privacy Act 1988, Public Service Act 1999_ and the Public Service Regulations 1999. A breach of these laws makes an officer liable to criminal and/or civil penalty.
+## Privacy statement
+
+The _Privacy Act 1988_ defines personal information as 'information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion'.
+
+The Department of Immigration and Multicultural and Indigenous Affairs (DIMIA) manages this website and treats personal information as confidential.
+
+The _Privacy Act 1988_ is the key law designed to protect your rights and prevent misuse of personal information collected by government agencies such as this department. 
+
+Also, information received by this department is protected from unauthorised use and disclosure by virtue of specific provisions in the _Migration Act 1958_ , _Crimes Act 1914_ , _Public Service Act 1999_ and the _Public Service Regulations 1999_.
+
+A breach of these laws may make an officer liable to criminal and/or civil penalty.
+
+As a general rule, we do not collect personal information about you when you visit this site. You can generally visit this site without telling us who you are, unless you choose to provide such information.
+
+This website contains links to other sites. The immigration website is not responsible for the content and the privacy practices of other websites and the department encourages you to read each site's privacy policies.
 
 ## Security of information
 
-The _Migration Act 1958_ has specific provisions that prohibit any officer of DIMIA (or any other government department) from accessing, recording or disclosing anyone's personal information except in performing their duties or in specific situations permitted by migration laws. Along with the legislation mentioned above, the Migration Act has severe penalties for breaking these provisions. 
+The _Privacy Act 1988_ has specific provisions that prohibit any officer of this department (or any other government department) from collecting, using or disclosing anyone's personal information except in performing their duties and in specific situations permitted by law. 
 
-Your personal information will not be released unless the law permits it or your permission is given. While DIMIA provides a secure environment, you should be aware there are inherent risks associated with the transmission of information via the Internet. For those who do not wish to use the Internet, DIMIA provides alternate ways (for example, fax, letter and office visits) of obtaining and providing information. For alternative contact details, please see the relevant entry in the DIMIA [World Index](https://web.archive.org/wwi/contents.htm). In some circumstances, DIMIA guidelines may require us to send particular information by non-electronic means.
+Your personal information will not be disclosed unless the law permits it or your permission is given.
 
-To improve security, some (not all) of the electronic forms that include personal information have been secured under the HTTPS protocol ( **H** yper **T** ext **T** ransport **P** rotocol **S** ecure). HTTPS is a standard Web communication protocol that encrypts and decrypts a message for online transmission. In Netscape Navigator 3.0 and earlier, the broken key symbol in the lower-left corner of your browser window becomes solid when you are in secure mode. In Netscape Communicator 4.0 and above, the padlock symbol in the corner, usually open, is closed in secure mode. In Internet Explorer 4.0 and above, a closed padlock appears when you are in secure mode.
+While the department provides a secure environment, you should be aware there are inherent risks associated with the transmission of information via the Internet.
 
 ## Site visit data
 
-This website is operated by DIMIA with outsourced technical assistance. When visiting this site, a record of your visit is logged. Information is recorded for statistical purposes and is used by DIMIA to monitor the use of the site, and to make improvements. The information we log when you access our website is:
+The department operates this web site with outsourced technical assistance. 
 
-  * the user's IP address; 
-  * the date and time of the visit to the site; 
-  * the pages accessed and the documents downloaded; 
-  * the user's operating system (for example, Windows NT, Windows 95, MAC etc); 
-  * the user's web browser version (for example, IE4, IE5, Netscape 4 etc); 
-  * the time taken to transmit the information to the user. 
+When visiting this site, a record of your visit is logged. Information is recorded for statistical purposes and is used by the department to monitor the use of the site, discover what information is most and least used and to make the site more useful to visitors.
+
+The information we log when you access this web site includes:
+
+  * your IP or server's address;
+  * the date and time of your visit to the site; 
+  * the pages accessed; 
+  * your operating system (for example, Windows NT, Windows 95, MAC etc); 
+  * your web browser version and type (for example, IE4, IE5, Netscape 4 etc); 
+  * the time taken to transmit information to you; and 
+  * the previous Internet address from which you came directly to this website.   
 
 
 
-No attempt is made to identify users or their browsing activities except in the event of an investigation into apparent improper use of the Department's Internet facility, or where a law enforcement agency exercises a warrant to inspect the Internet Service Provider's logs.
+
+No attempt is made to identify you or your browsing activities except in the event of an investigation into apparent improper use of the department's Internet facility, or where a law enforcement agency exercises a warrant to inspect the Internet Service Provider's logs.
 
 ## Cookies
 
-Cookies are pieces of information that a website can transfer to an individual's computer hard drive for record keeping. Cookies can make using websites easier to use by storing information about your preferences on a particular website. The information remains on your computer after the Internet session finishes.
+Cookies are pieces of information or small files that a website can send to your computer's hard drive for record keeping.
 
-Most Internet browsers are pre-set to accept cookies. If you prefer not to receive cookies, you can adjust your Internet browser to refuse cookies or to warn you when cookies are being used.
+Cookies can make using websites easier to use by storing information about your preferences on a particular website. The information may remain on your computer after the Internet session finishes.
+
+This website does not use cookies.
 
 ## Collection, use and disclosure of personal information
 
-When the Department receives your email or fill-in form, your message becomes accessible to staff, and your email address may be recorded. However, personal information provided to us will be treated confidentially and will only be used and/or disclosed in accordance with your consent and/or the provisions of the Migration and Privacy Acts.
+When the department receives your email or fill-in form, your message becomes accessible by staff, and your email address may be recorded.
+
+However, personal information provided to us will be treated confidentially and will only be used and/or disclosed in accordance with your consent and/or the provisions of the _Migration Act 1958_ and _Privacy Act 1988_ .
 
 ## Further information
 
-Further information is available on this website, and in the DIMIA Personal Information Digest ([PID](https://web.archive.org/department/pid/intro.htm)). If you have privacy concerns, please contact your nearest DIMIA Office for advice. You can also obtain further information from the Privacy Commissioner's website at [www.privacy.gov.au](http://www.privacy.gov.au/). 
+You can find more information from the [Privacy Commissioner's website](http://www.privacy.gov.au/). 
+
+If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please contact:
+
+> DIMIA Privacy Officer:  
+>  Peter Lee  
+>  Email: [peter.lee@immi.gov.au](mailto:peter.lee@immi.gov.au)  
+>  Telephone: (02) 6264 1842
+
+Please note the Privacy Officer will only respond to queries on privacy matters. Inquiries about other matters will not be answered. 
+
+**[ Return to Previous Page ]**
 
   
-Last update: 13 February 2002 at 13:18 AEST 
+Last update: 14 February 2003 at 15:37 AEST 
