@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jessops.com privacy policy that was archived on 2002-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604053356id_/http%3A//www.jessops.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jessops.com privacy policy that was archived on 2002-12-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021201165209id_/http%3A//www.jessops.com/privacy.cfm) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript" src="clientsniffer.js"></script>
 	<script language="JavaScript">
@@ -72,6 +72,12 @@ if ( typ == "secure" )
 	}
 }
 </script>
+<script language="JavaScript">
+<!--
+if (window != window.top)
+   top.location.href = self.location.href
+//-->
+</script>
 
 
  
@@ -122,14 +128,15 @@ if ( typ == "secure" )
     </tr>  
 	
 	<tr bgcolor="00004B"> 
-	      <td colspan="2" rowspan="2"> <img src="images/banner/header3_01.gif" width="300" height="68"></td>
+	      <td colspan="2" rowspan="2">
+		  <a href="http://www.jessops.com/shop.cfm"><img src="images/banner/header3_01.gif" width="300" height="68" border="0"></a></td>
 	      <td colspan="3" rowspan="2"> <img src="images/banner/header3_02.gif" width="136" height="68"></td>
 	      <td colspan="2" rowspan="2"> <img src="images/banner/header3_03.gif" width="94" height="68" border="0" usemap="#LinkMap">
 		  <map name="LinkMap"><area shape="rect" coords="4,5,86,30" href="javascript:MM_openBrWindow('http://www.jessops.com/search/compare/index.cfm?action=default', 'Comparison')"><area shape="rect" coords="4,30,86,56" href="javascript:MM_openBrWindow('http://www.jessops.com/search/wish/index.cfm?action=default', 'Wishlist')"></map>
 		  	</td>
 	      <td colspan="2" rowspan="2">
 			<a href="http://www.jessops.com/shop/cartdisplay.cfm"> <img src="images/banner/header3_04.gif" width="70" height="68" border="0"></a></td>
-	      <td colspan="3">
+	      <td colspan="3" bgcolor="003060">
 	        <table width="132" border="0" cellspacing="0" cellpadding="0">
 			
 	          <tbody><tr bgcolor="003060"> 
@@ -152,7 +159,7 @@ if ( typ == "secure" )
 			 </tr>
 			</tbody></table>
 		  </td>
-		  <td colspan="2" rowspan="2"> <img src="images/banner/header3_06.gif" width="28" height="68"></td>
+		  <td colspan="2" rowspan="2"> <img src="images/banner/header3_06.gif" width="28" height="69"></td>
 
 		  </tr>
 
@@ -203,85 +210,93 @@ if ( typ == "secure" )
 
 
 	    	<table width="130" border="0" cellspacing="0" cellpadding="0" align="LEFT" valign="TOP">		
-				<tbody><tr align="LEFT" valign="TOP">
-				<td colspan="2" align="CENTER" valign="TOP">
+			<tbody><tr align="LEFT" valign="TOP">
+				<td colspan="2">
+				
+				<table border="0" cellspacing="0" cellpadding="0">
+				<form action="http://www.jessops.com/search/dointellisearch.cfm" method="post"></form>
+				<input type="hidden" name="action" value="search_verity">
+				<input type="hidden" name="ORD" value="ASC">
+				<tbody><tr>
+					<td class="smallWhite" align="left" colspan="2"><img src="images/clearpixel.gif" border="0" height="10" width="10"><b>Quick Search:</b></td>
+				</tr>	
+				<tr>
+					<td colspan="2"><img src="images/clearpixel.gif" border="0" height="1" width="5">
+					<input type="text" maxlength="100" name="search_for" size="9" class="quick"></td>
+				</tr>	
+				<tr>
+					<td align="left"><img src="images/clearpixel.gif" border="0" height="1" width="10"><a href="JavaScript:Pop('hints')"><img src="images/button_hints.gif" border="0"></a></td>
+					<td align="right"><input type="Image" src="images/button_searchgo.gif" border="0"><img src="images/clearpixel.gif" border="0" height="10" width="1"></td>
+				</tr>
+				<tr>
+					<td colspan="2"><img src="images/clearpixel.gif" border="0" height="17" width="65"></td>
+				</tr>	
+				</tbody></table>	
 					
-					<form action="http://www.jessops.com/search/dointellisearch.cfm" method="post">
-					<img src="images/label_quicksearch.gif" border="0" alt="">						
-					<input type="text" maxlength="100" name="search_for" size="9">
-					<input type="hidden" name="action" value="search_verity">
-					<input type="hidden" name="ORD" value="ASC">
-					
-					<a href="JavaScript:Pop('hints')"><img src="images/button_hints.gif" border="0"></a>
-					&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-					<input type="Image" src="images/button_searchgo.gif" border="0">									
-					</form>	
-								
-					
-				</td>	
+						
+				</td>
 				</tr>
 				<tr>	
-					<td width="5"><img src="images/clearpixel.gif" height="5"></td>
-					<td><img src="images/label_chooseacategory.gif" height="18"></td>
-				</tr>				
-				
-				
+					<td width="10">&nbsp;</td>
+					<td class="smallWhite"><b>Choose A Category:</b></td>
+				</tr>	
+  				
 					
    <tr> <td width="10">&nbsp;</td><td width="120">
-		<a href="http://www.jessops.com/search/showsubdept.cfm?node=136" class="regularWhite">Cameras</a>
+		<a href="http://www.jessops.com/search/showsubdept.cfm?node=136" class="CatLink">Cameras</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=150" class="regularWhite">Digital</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=150" class="CatLink">Digital</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=170" class="regularWhite">Camcorder</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=170" class="CatLink">Camcorder</a>
 		</td></tr>
 		<tr><td width="10">&nbsp;</td><td><img src="images/banner_lineunderform.gif" width="110" height="6"> </td></tr> 
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=132" class="regularWhite">Accessories</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=132" class="CatLink">Accessories</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=134" class="regularWhite">Bags and Cases</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=134" class="CatLink">Bags and Cases</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=192" class="regularWhite">Batteries</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=192" class="CatLink">Batteries</a>
 		</td></tr>
-		<tr><td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showcase.cfm?node=133&amp;showcaseid=18&amp;type=intelli" class="regularWhite">Binoculars</a>
+		<tr><td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showcase.cfm?node=133&amp;showcaseid=18&amp;type=intelli" class="CatLink">Binoculars</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=156" class="regularWhite">Books</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=156" class="CatLink">Books</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=145" class="regularWhite">Darkroom</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=145" class="CatLink">Darkroom</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=365" class="regularWhite">Exposure Meters</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=365" class="CatLink">Exposure Meters</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showcase.cfm?node=186&amp;showcaseid=26&amp;type=intelli" class="regularWhite">Film</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showcase.cfm?node=186&amp;showcaseid=26&amp;type=intelli" class="CatLink">Film</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=194" class="regularWhite">Filters</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=194" class="CatLink">Filters</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=182" class="regularWhite">Flash</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=182" class="CatLink">Flash</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=143" class="regularWhite">Lenses</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=143" class="CatLink">Lenses</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showcase.cfm?node=228&amp;showcaseid=74&amp;type=intelli" class="regularWhite">Printers</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showcase.cfm?node=228&amp;showcaseid=74&amp;type=intelli" class="CatLink">Printers</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=161" class="regularWhite">Projection/Viewer</a>		
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=161" class="CatLink">Projection/Viewer</a>		
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showcase.cfm?node=230&amp;showcaseid=72&amp;type=intelli" class="regularWhite">Scanners</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showcase.cfm?node=230&amp;showcaseid=72&amp;type=intelli" class="CatLink">Scanners</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=157" class="regularWhite">Storage/Mounting</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=157" class="CatLink">Storage/Mounting</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=262" class="regularWhite">Studio Lighting</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=262" class="CatLink">Studio Lighting</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=167" class="regularWhite">Telescopes</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/intellisearch.cfm?node=167" class="CatLink">Telescopes</a>
 		</td></tr>
-		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=166" class="regularWhite">Tripods/Supports</a>
+		<tr> <td width="10">&nbsp;</td><td width="120"><a href="http://www.jessops.com/search/showsubdept.cfm?node=166" class="CatLink">Tripods/Supports</a>
 		</td></tr>		
 	
 	<tr><td width="10">&nbsp;</td>    
 		<td>
 		<img src="images/banner_lineunderform.gif" width="110" height="6">
-		<a href="http://www.jessops.com/search/clearanceshowdept.cfm" class="regularWhite">
+		<a href="http://www.jessops.com/search/clearanceshowdept.cfm" class="CatLink">
 		Clearance Items</a></td>
 	</tr>
 	<tr><td width="10">&nbsp;</td>
 		<td>
 		<img src="images/banner_lineunderform.gif" width="110" height="6">
-		<a href="http://www.jessops.com/search/catsearch.cfm" class="regularWhite">
+		<a href="http://www.jessops.com/search/catsearch.cfm" class="CatLink">
 		Catalogue Number</a></td>
 	</tr>	
 
