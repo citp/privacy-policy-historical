@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2001-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010407063132id_/http%3A//www.cobragolf.com/clubhouse/Corp_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cobragolf.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218105014id_/http%3A//cobragolf.com/clubhouse/Corp_privacy.htm) for the most accurate reproduction.*
 
 # Cobra - Corporate Privacy Policy
 
@@ -18,4 +18,4 @@ From time to time, we may also share your information for marketing and promotio
 
 Acushnet Company reserves the right to change or update this policy at any time by posting a notice to that effect on this Site. 
 
-**LEGAL NOTICE:** Please see [Acushnet Company's legal notice](https://web.archive.org/web/20010407063132id_/http%3A//www.cobragolf.com/clubhouse/Corp_legal.htm) for more information.
+**LEGAL NOTICE:** Please see [Acushnet Company's legal notice](https://web.archive.org/web/20011218105014id_/http%3A//cobragolf.com/clubhouse/Corp_legal.htm) for more information.
