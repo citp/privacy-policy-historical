@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206075116id_/http%3A//www.commercialrealestate.com.au/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commercialrealestate.com.au privacy policy that was archived on 2004-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040630011353id_/http%3A//www.commercialrealestate.com.au/privacy.asp) for the most accurate reproduction.*
 
-# Real Estate Australia - Australian Commercial Real Estate
-
-CRE Internet Services - Privacy Policy
+# Real Estate Australia - Privacy Statement
 
 Thank you for taking the time to learn more about how CRE Internet Services (“CRE”) manages your personal information. 
 
@@ -18,7 +16,9 @@ You can use this Site without telling us who you are. The only personal informat
 
 How Information is used
 
-Personal information that visitors submit to this Site is used only for the purpose for which it is submitted unless we tell you otherwise in this Privacy Policy or at the time of collection. Certain information you submit to this Site (for example, through the “Register your requirement” and/or “List your Property” features), will be forwarded to the real estate agents in the State/s you nominate and may be stored in archives for approximately 4 months from the date of receipt. You should be aware that providing information to a real estate agent through our site including through the “Register your requirement” and “List your Property” features will result in the information being passed to the real estate agent and your information may then be held in any way that does not conform with this Privacy Policy.
+Personal information that visitors submit to this Site is used only for the purpose for which it is submitted unless we tell you otherwise in this Privacy Policy or at the time of collection. Certain information you submit to this Site (for example, through the “List Your Requirement” and/or “List Your Real Estate” features), will be forwarded to the real estate agents in the State/s you nominate and may be stored in archives for approximately 4 months from the date of receipt. You should be aware that providing information to a real estate agent through our site including through the “List Your Requirement” and “List Your Real Estate” features will result in the information being passed to the real estate agent/s and your information may then be held in any way that does not conform with this Privacy Policy.
+
+If CRE receives a request not to send commercial electronic messages to certain email addresses, CRE may indefinitely retain details of those addresses and the request so that it can comply with the request.
 
 Other organisations that you come into contact with through this service 
 
