@@ -1,38 +1,67 @@
-> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2002-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021022182519id_/http%3A//www.bestquotes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestquotes.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606061526id_/http%3A//bestquotes.com/privacy.htm) for the most accurate reproduction.*
 
-# Best Quotes Privacy Statement
+# macc unlimited
 
-**Privacy Policy **
+**Privacy Policy Statement**  
+This is the web site of macc unltd.  
+We can be reached via e-mail at[ info@macc.com](mailto:info@macc.com)
 
-Best Quotes Corporation ("Best Quotes") is committed to protecting the privacy of personal information collected from visitors to our web site.
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-**Our Security Measures**  
-Best Quotes uses appropriate technologies to ensure the security of information transmitted via our web site and maintained in our possession.
+We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-**Your Personal Information**  
-Best Quotes does not collect personally identifiable information on our website, such as your name, address, e-mail address or telephone number, without your knowledge. Such information is collected only when you knowingly and voluntarily submit it to us (as, for example, when you contact us via e-mail). Best Quotes uses such voluntarily submitted information for the purposes for which it was submitted.
+The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, shared with other reputable organizations to help them contact consumers for marketing purposes, not shared with other organizations for commercial purposes.
 
-The personal information you submit when filling out our online mortgage application is treated as confidential by Best Quotes. We use this information to process your transaction, and we share the information with trusted parties necessary to qualify, process, close and service your mortgage.
+With respect to cookies: We do not set any cookies. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling or faxing us.
 
-When you engage in certain activities on this site, such as receiving daily rates via email, Best Quotes may ask you to provide certain information about yourself, such as your name, mailing address, or e-mail address, by filling out and submitting an online form. Best Quotes does not sell or share this information with third parties. This information is collected in order to support your participation in the activities you select.
+From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or We do not make e-mail addresses available to other organizations.
 
-Best Quotes may also use information provided by you to give you information and special offers on other services that we may provide that we think would be useful to your needs. However, at any time, you may choose to not receive such information or offers from Best Quotes simply by contacting us at the email address listed below.
+From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by or We do not make e-mail addresses available to other organizations.
 
-At any time, you may also access and correct personal information that you have submitted to Best Quotes by contacting us at the email address listed below.
+If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address or by faxing us.
 
-**Non-Personal Information**  
-Best Quotes collects non-personal user information (for example, IP addresses) in aggregate form. An IP address is a number given to you by a web server. Examples of information provided by an IP address include service provider, type of browser and type of system used. An IP address is not used to obtain personal information about a user. Best Quotes may use non-personal user information to make its site better and more responsive to your needs. This non-personal information is also shared with third parties for marketing, advertising or research purposes.
+Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
 
-Best Quotes does not utilize cookies, although our online mortgage application suite may require that your browser be enabled to accept cookies in order for the browser to access our technology. (Cookies are small bits of information that are placed on your hard drive when you visit a web site, making it possible to track your activity on the site. Cookies are used by most major sites on the Internet. Most major browsers can be adjusted not to accept cookies.)
+Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
 
-**Contact Us**  
-If you want to communicate with us about our Privacy Policy please write to us at:
+Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
-Best Quotes Corporation  
-1880 Hylan Boulevard  
-Staten Island, NY 10305  
-718-979-8800 Phone  
-718-979-8600 Fax  
-Or e-mail us at: [info@bestquotes.com](mailto:info@bestquotes.com) 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above, e-mailing us at the above address or by faxing us.
 
-Best Quotes reserves the right to change this Privacy Policy at any time.
+Upon request we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them.
+
+Consumers can access this information by e-mail us at the above address, write to us at the above address.
+
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, financial information.
+
+Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number or by faxing us.
+
+**Why is macc.com so safe?**  
+Our Secure Sockets Layer (SSL) software is the industry standard and among the best software available for secure online transactions. It encrypts all of your personal information, including credit card number, name, and address, so that it can't be read as the information travels over the Internet.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+
+We can be reached via e-mail at[ info@macc.com](mailto:info@macc.com) [](mailto:mail@macc.com)**Information Collected  
+** We respect the privacy of children, and do not collect any more personal information than reasonably necessary to enable them to participate in the activities we offer at our Web site.
+
+With respect to our online information collection practices from children under 13 years of age:
+
+We do not collect personally identifiable information.
+
+Please note that parents may consent to the above collection and use without necessarily consenting to the disclosure of personal information to third parties.
+
+With respect to the collection by other organizations of personal information from children at our site, our policy is: We do not have any agreements with outside organizations to collect personal information at our site.
+
+**Use and Sharing of Information  
+** The information we collect from children is used: for record keeping for marketing to enable them to participate in a chat room or bulletin board to respond to children's specific requests to participate in activities such as:
+
+contests or sweepstakes subscription to an online newsletter voting in polls or otherwise expressing an opinion to tailor/customize the visitors experience at our site
+
+With respect to sharing information: we do not share children's personal information with anyone other than those who provide support for the internal operations of the Web site and our agents (e.g., contractors who provide fulfillment services or technical support to the Web site).
+
+We have received the following commitments for security of information from third parties with whom we share personal information
+
+All third parties with whom we share information have agreed to maintain security and integrity of personal information
+
+**Parental Review  
+** Parents can review the information that we have collected from their children online, prevent the further use or maintenance of such information, or direct the deletion of their childrens personal information by calling us at the telephone number provided above.
