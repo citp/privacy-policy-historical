@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the economist.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216035329id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the economist.com privacy policy that was archived on 2002-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021127131124id_/http%3A//www.economist.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # Economist.com
 
-|  [](https://web.archive.org/opinion/index.cfm)  
+|  [](https://web.archive.org/opinion/)  
 ---  
-[](https://web.archive.org/world/index.cfm)  
-[](https://web.archive.org/business/index.cfm)  
-[](https://web.archive.org/finance/index.cfm)  
-[](https://web.archive.org/science/index.cfm)  
-[](https://web.archive.org/people/index.cfm)  
-[](https://web.archive.org/books/index.cfm)  
-[](https://web.archive.org/markets/index.cfm)  
-[](https://web.archive.org/diversions/index.cfm)  
+[](https://web.archive.org/world/)  
+[](https://web.archive.org/business/)  
+[](https://web.archive.org/finance/)  
+[](https://web.archive.org/science/)  
+[](https://web.archive.org/people/)  
+[](https://web.archive.org/books/)  
+[](https://web.archive.org/markets/)  
+[](https://web.archive.org/diversions/)  
   
   
 
@@ -19,65 +19,54 @@
 [](http://store.eiu.com/index.asp?promo=economist)
 
   
-|  |   
----|---|---  
-|   
-  
-  
-|   
-|  |  [Articles by subject](https://web.archive.org/library/articlesBySubject/index.cfm)  
-[Backgrounders](https://web.archive.org/library/backgrounders/index.cfm)  
-[Surveys](https://web.archive.org/surveys/index.cfm)  
-[Style guide](https://web.archive.org/library/StyleGuide/index.cfm)  
-[Internet guide](https://web.archive.org/library/InternetGuide/index.cfm)  
+[](https://web.archive.org/research)  
+|  |  [Articles by subject](https://web.archive.org/research/articlesBySubject/)  
+[Backgrounders](https://web.archive.org/research/backgrounders/)  
+[Surveys](https://web.archive.org/surveys/)  
+[Style guide](https://web.archive.org/research/StyleGuide/)  
+[Internet guide](https://web.archive.org/research/InternetGuide/)  
+[Business database](https://web.archive.org/businessDatabase)  
   
 |  |   
-|  |   
+---|---|---|---|---  
   
-  
-|  |   
----|---|---  
-|   
-[](https://web.archive.org/globalexecutive/)  
-  
-|   
-|  | **[Global Executive](https://web.archive.org/globalexecutive/)**  
-with Whitehead MannCareer guidance, personalised advice, job postings and more. [Click here](https://web.archive.org/globalexecutive/) |  |   
-|  |   
+[](https://web.archive.org/printedition/)  
+|  |  [](https://web.archive.org/printedition/)  
+[Full contents](https://web.archive.org/printedition/)  
+[Subscriptions](https://web.archive.org/subscriptions)  
   
 |  |   
----|---|---  
-|   
+---|---|---|---|---  
   
+[ ](https://web.archive.org/globalexecutive/)  
+|  |  Executive thinking, business education and more. [Click here](https://web.archive.org/globalexecutive/)  
   
-|   
-|  | [   
+|  |   
+---|---|---|---|---  
+  
+[](http://www.economistshop.com/)  
+|  |  [  
 Books, diaries and more](http://www.economistshop.com/)  
   
 |  |   
-|  |   
+---|---|---|---|---  
+  
+[](https://web.archive.org/classifieds/)  
+|  |  Business education, recruitment, business and personal: [click here](https://web.archive.org/classifieds)  
   
 |  |   
----|---|---  
-|   
-[](https://web.archive.org/globalExecutive/Toolkit/Classifieds.cfm)  
+---|---|---|---|---  
   
-|   
-|  | Business education, recruitment, business and personal: [click here](https://web.archive.org/globalExecutive/Toolkit/Classifieds.cfm) |  |   
-|  |   
-  
-|  |   
----|---|---  
-|   
-  
-  
-|   
+[](https://web.archive.org/index.cfm)  
 |  |  [Economist.com](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_Economistcom)  
 [The Economist](https://web.archive.org/help/DisplayHelp.cfm?folder=663377#About_The_Economist)  
 [Global Agenda](https://web.archive.org/help/DisplayHelp.cfm?folder=663358#What_is_The_Global_Agenda)  
 [Contact us](https://web.archive.org/help/DisplayHelp.cfm?folder=663392)  
-[Advertising info](http://ads.economist.com/) |  |   
+[Advertising info](http://ads.economist.com/)  
+[](http://mmm.economist.com/jobs)  
+  
 |  |   
+---|---|---|---|---  
   
 |  |  |    
 **Economist.com Website Privacy policy**
@@ -149,7 +138,7 @@ Economist.com uses reputable third parties to deliver the e-mails you will recei
 To find out more about these technologies as used in the e-mails sent on behalf of Economst.com by DoubleClick Inc., please click [here](http://www.doubleclick.net/us/corporate/privacy/privacy/email/default.asp). Content and some ad services in these e-mails are provided by Economist.com or another third party ad server.
 
 **Adverts**   
-Our advert-serving software may place or use a cookie on your computer in order to make sure that you do not receive the same advert many times in the same session. Some of the advertisers on Economist.com do not use our in-house advert-serving software and their adverts are served by third-parties who may place cookies.
+Economist.com uses DoubleClick to deliver the advertisements that are placed within the site. DoubleClick may note some of the pages you visit on our site through the use of pixel tags (also called "clear gifs"). In the course of serving advertisements to this site, DoubleClick may place or recognise a unique "cookie" on your computer on behalf of Economist.com in order to bring to you more relevant information and in order to make sure that you do not receive the same advert many times in the same session. Some of the advertisers on Economist.com do not use DoubleClick advert-serving software and their adverts are served by third-parties who may place cookies. To find out more about these sensing methods and to know your choices about not having this information used by DoubleClick, please click [here](http://www.doubleclick.net/us/corporate/privacy/).
 
 ****
 
