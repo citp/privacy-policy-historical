@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameshadow.com privacy policy that was archived on 2000-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001208063800id_/http%3A//gameshadow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameshadow.com privacy policy that was archived on 2001-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010406152443id_/http%3A//www.gameshadow.com/privacy.html) for the most accurate reproduction.*
 
 # This confirms that (Company X) is a licensee of the TRUSTe Privacy Program
 
