@@ -1,22 +1,23 @@
-> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208040430id_/http%3A//www.raiders.com/team/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raiders.com privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622082127id_/http%3A//www.raiders.com/team/privacy.jsp) for the most accurate reproduction.*
 
 # Oakland Raiders
 
   
+  
+  
+Oakland Raiders |    
 
 
-[](http://store.raiders.com/conmoc.html)  
+[](http://www.raidersenespanol.com/)  
 
 
   
 
 
-[](http://www.raiders.com/fanzone/sbclub.jsp)  
+[](http://store.raiders.com/noname.html)  
 
 
 |  |   
-  
-  
 |    
 |  | 
 
