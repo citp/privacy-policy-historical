@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008035433id_/http%3A//www.nutritionexpress.com/pls/ne/nut_exp%3FID%3D%26treq%3Dps%26mid%3D%26sub%3D%26itm%3D%26dgp%3D%26pg%3D%26ent%3D1002) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2004-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040608145237id_/http%3A//www.nutritionexpress.com/pls/ne/nut_exp%3FID%3D%26treq%3Dps%26mid%3D%26sub%3D%26itm%3D%26dgp%3D%26pg%3D%26ent%3D1002) for the most accurate reproduction.*
 
 # Nutrition Express Privacy Statement
 
   
   
-The privacy of Nutrition Express online customers is treated with utmost respect. The personally identifiable information on you and your purchases will not be sold, rented or given away to any other company or agency without your explicit permission. This document should answer any questions you may have regarding user privacy and our web site. _(Please see our_ [Terms of Use Agreement](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=ts&mid=&sub=&itm=&dgp=&pg=) _for information on use and liability.)_
+The privacy of Nutrition Express online customers is treated with utmost respect. The personally identifiable information on you and your purchases will not be sold, rented or given away to any other company or agency without your explicit permission. This document should answer any questions you may have regarding user privacy and our web site. _(Please see our_ [Terms of Use Agreement](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=ts&mid=&sub=&itm=&dgp=&pg=) _for information on use and liability.)_
 
 **Information Collection and Use**  
 Nutrition Express is the sole owner of the information collected on this site. We will not sell, share, rent or give this information to others in ways different from what is disclosed in this statement. Nutrition Express collects information from our users at several different points on our web site. 
@@ -47,42 +47,42 @@ If you have any questions about security at our web site, you can write to [webm
 If we decide to change our privacy policy, notification will be linked from our homepage to the new policy so that our users are always up-to-date on what information we collect, how we use it and under what circumstances (if any) we disclose it. Users will be notified via email and presented with an opportunity to opt-out should we decide to use information in a manner that is inconsistent with the way in which it was collected. 
 
 |  |    
-  
 
 
 |  |   
 ---  
   
   
-**[Home](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=hm&mid=&sub=&itm=&dgp=&pg=)**  
-[Request a Catalog](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=rc&mid=&sub=&itm=&dgp=&pg=)  
-[About Us](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=au&mid=&sub=&itm=&dgp=&pg=)  
-[Privacy Statement](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=ps&mid=&sub=&itm=&dgp=&pg=)  
-[Advanced Search](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=s2&mid=&sub=&itm=&dgp=&pg=)  
-| **[Shop](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=mi&mid=&sub=&itm=&dgp=&pg=)**  
-[By Brand](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=mi&mid=&sub=&itm=&dgp=&pg=)  
-[Quick Order](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=qo&mid=&sub=&itm=&dgp=&pg=)  
-[Recommendations](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=r1&mid=&sub=&itm=&dgp=&pg=1)  
-[New Products](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=ns&mid=&sub=&itm=&dgp=&pg=)  
-[Hot Specials](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=ht&mid=&sub=&itm=&dgp=&pg=)  
-[Super Buys](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=ws&mid=&sub=&itm=&dgp=&pg=)  
-| **[Articles](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=ai&mid=aa&sub=&itm=&dgp=&pg=)**  
-[By Topic](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=a1&mid=aa&sub=&itm=&dgp=&pg=)  
-[By Author](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=a2&mid=aa&sub=&itm=&dgp=&pg=)  
-[By Manufacturer](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=a3&mid=aa&sub=&itm=&dgp=&pg=)  
-[Interviews & Testimonials](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=a4&mid=aa&sub=&itm=&dgp=&pg=)  
-| **[Customer Service](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=cu&mid=&sub=&itm=&dgp=&pg=)**  
-[Ship/Order Policies](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=sp&mid=&sub=&itm=&dgp=&pg=)  
-[Guarantee & Returns](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=gr&mid=&sub=&itm=&dgp=&pg=)  
-[International Orders](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=io&mid=&sub=&itm=&dgp=&pg=)  
-[Contact Us & FAQs](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=cu&mid=&sub=&itm=&dgp=&pg=)  
+**[Home](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=hm&mid=&sub=&itm=&dgp=&pg=)**  
+[Request a Catalog](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=rc&mid=&sub=&itm=&dgp=&pg=)  
+[About Us](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=au&mid=&sub=&itm=&dgp=&pg=)  
+[Privacy Statement](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=ps&mid=&sub=&itm=&dgp=&pg=)  
+[Advanced Search](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=s2&mid=&sub=&itm=&dgp=&pg=)  
+| **[Shop](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=mi&mid=&sub=&itm=&dgp=&pg=)**  
+[By Brand](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=mi&mid=&sub=&itm=&dgp=&pg=)  
+[By Category](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=di&mid=&sub=&itm=&dgp=&pg=)  
+[By Condition](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=ti&mid=&sub=&itm=&dgp=&pg=)  
+[Quick Order](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=qo&mid=&sub=&itm=&dgp=&pg=)  
+[Recommendations](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=r1&mid=&sub=&itm=&dgp=&pg=1)  
+[New Products](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=ns&mid=&sub=&itm=&dgp=&pg=)  
+[Closeouts](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=ws&mid=&sub=&itm=&dgp=&pg=)  
+| **[Articles](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=ai&mid=aa&sub=&itm=&dgp=&pg=)**  
+[By Topic](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=a1&mid=aa&sub=&itm=&dgp=&pg=)  
+[By Author](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=a2&mid=aa&sub=&itm=&dgp=&pg=)  
+[By Manufacturer](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=a3&mid=aa&sub=&itm=&dgp=&pg=)  
+[Interviews & Testimonials](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=a4&mid=aa&sub=&itm=&dgp=&pg=)  
+| **[Customer Service](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=cu&mid=&sub=&itm=&dgp=&pg=)**  
+[Ship/Order Policies](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=sp&mid=&sub=&itm=&dgp=&pg=)  
+[Guarantee & Returns](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=gr&mid=&sub=&itm=&dgp=&pg=)  
+[International Orders](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=io&mid=&sub=&itm=&dgp=&pg=)  
+[Contact Us & FAQs](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=cu&mid=&sub=&itm=&dgp=&pg=)  
   
-**[View Cart](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=vc&mid=&sub=&itm=&dgp=&pg=)**  
+**[View Cart](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=vc&mid=&sub=&itm=&dgp=&pg=)**  
   
 Questions? 1-800-338-7979  
-[Terms of Use](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=292020503332084&treq=ts&mid=&sub=&itm=&dgp=&pg=)  
+[Terms of Use](http://www.nutritionexpress.com/pls/ne/nut_exp?ID=31650743545275&treq=ts&mid=&sub=&itm=&dgp=&pg=)  
   
-Copyright 2000, 2001 Nutrition Express Corporation. All rights reserved.  
+Copyright 2000-2004 Nutrition Express Corporation. All rights reserved.  
 
 
 Information provided on this site is solely for informational purposes only. It is not a substitute for professional medical advice. Do not use this information for diagnosing or treating a health problem or disease, or prescribing of any medications or supplements. Only your healthcare provider should diagnose your healthcare problems and prescribe treatment. 
