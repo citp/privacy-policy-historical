@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curriculumassociates.com privacy policy that was archived on 2000-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001215154800id_/http%3A//www.curriculumassociates.com//privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curriculumassociates.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405050832id_/http%3A//curriculumassociates.com/privacy.shtml) for the most accurate reproduction.*
 
 # CURRICULUM ASSOCIATES: Privacy Statement
 
