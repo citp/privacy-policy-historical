@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2003-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030207230535id_/http%3A//www.medhunters.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202181644id_/http%3A//www.medhunters.com/privacy.html) for the most accurate reproduction.*
 
 # MedHunters.com: Privacy Policy
 
 **_MedHunters' Privacy Policy_**
+
+**Your privacy is guaranteed!**
+
+> When you add your resume to MedHunters.com, your contact information is kept confidential until you give MedHunters permission to release it to an employer. Only direct healthcare employers who purchase a subscription to post jobs on MedHunters have access to our resume database. Employers that search our resume database only see your resume profile and NOT your contact information or the names of your current and previous employer and educational institution.
 
 **Protecting Your Privacy is Important to Us**
 
