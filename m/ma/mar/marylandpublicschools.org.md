@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marylandpublicschools.org privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604163306id_/http%3A//marylandpublicschools.org/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marylandpublicschools.org privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203190020id_/http%3A//marylandpublicschools.org/privacy_statement.html) for the most accurate reproduction.*
 
 # MSDE Privacy Statement
 
