@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eudora.com privacy policy that was archived on 2001-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010611041729id_/http%3A//www.eudora.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eudora.com privacy policy that was archived on 2001-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011211185120id_/http%3A//eudora.com/privacy) for the most accurate reproduction.*
 
 # Eudora Privacy Statement
 
