@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2003-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030628053945id_/http%3A//www.allianz.com.au/internet/allianz.nsf/docs/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allianz.com.au privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207025049id_/http%3A//www.allianz.com.au/internet/allianz.nsf/docs/Privacy) for the most accurate reproduction.*
 
 # Privacy | Allianz Australia
 
@@ -35,7 +35,7 @@ From time to time we may advise or offer you information on other Allianz produc
 
 In the course of using this site you may provide Allianz with personal information. Allianz will use all reasonable measures to 
 
-[protect any such information](https://web.archive.org/web/20030628053945id_/http%3A//www.allianz.com.au/internet/allianz.nsf/docs/Security) from being used for any other purpose other than the provision of Allianz or any Related Body Corporates insurance products or services. 
+[protect any such information](https://web.archive.org/web/20031207025049id_/http%3A//www.allianz.com.au/internet/allianz.nsf/docs/Security) from being used for any other purpose other than the provision of Allianz or any Related Body Corporates insurance products or services. 
 
 If you would like further information regarding Privacy in general or the National Privacy Principles, please visit the Privacy Commissioner's website [www.privacy.gov.au](http://www.privacy.gov.au/)
 
