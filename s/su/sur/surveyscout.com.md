@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyscout.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619042138id_/http%3A//www.surveyscout.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyscout.com privacy policy that was archived on 2004-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041211182945id_/http%3A//www.surveyscout.com/privacy.cgi) for the most accurate reproduction.*
 
 # SurveyScout.com :: Where your "2 cents" are worth more than you think!
 
@@ -24,7 +24,7 @@ Users may opt-out of receiving future mailings; see the opt-out/modify section b
 
 **Information Dissemination**
 
-None of the information that is collected by this web site is rented, sold, or shared with any 3rd parties at any time for any reason - except as required by a court of law.
+We may use the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via email.  These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
 
 **Links to Other Sites**
 
@@ -47,12 +47,16 @@ This web site has security measures in place to protect against loss, misuse and
 SurveyScout.com provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether. You may do so in any of the following ways:
 
 1\. Email: [support@surveyscout.com](mailto:support@surveyscout.com)  
-2\. Website: [http://www.surveyscout.com/contact.cgi](https://web.archive.org/web/20040619042138id_/http%3A//www.surveyscout.com/contact.cgi)  
-3\. Postal Mail: 15741 US 36 East, PMB 317 • Marysville, OH 43040  
+2\. Website: [http://www.surveyscout.com/mcenter](https://web.archive.org/mcenter/index.cgi)  
+3\. Postal Mail: 15741 US 36 East, PMB 305 • Marysville, OH 43040  
 4\. Facsimile: (937)303-0005
 
 **Contacting SurveyScout.com**
 
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above.
 
-This Privacy Policy was last revised on April 1, 2004. 
+**Policy Changes**
+
+SurveyScout reserves the right to change this privacy policy at any time.
+
+  This Privacy Policy was last revised on October 6, 2004. 
