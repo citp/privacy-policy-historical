@@ -1,16 +1,100 @@
-<!--The following is the downloaded HTML source of the variety.com privacy policy that was archived on 2001-06-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010604165202id_/http%3A//www.variety.com/index.asp%3Flayout%3Dabout_privacy_layout) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the variety.com privacy policy that was archived on 2001-12-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011216222316id_/http%3A//www.variety.com/index.asp%3Flayout%3Dabout_privacy_layout) for the most accurate reproduction.-->
 
-<html><head><title>Variety.com - About Variety Privacy Policy</title>
-<link href="http://ev.variety.com/css/variety.css" rel="stylesheet" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 3.2//EN"><html><head><meta http-equiv="Expires" content="Sun, 16 Dec 2001 22:24:27 GMT"><meta http-equiv="Cache-Control" content="no-cache"><meta name="ROBOTS" content="INDEX,FOLLOW"><meta name="Copyright" content="Copyright 2001 Cahners Business Information"><meta name="Reply-To" content="webeditors@variety.cahners.com"><link rev="made" href="mailto:webeditors@variety.cahners.com"><link rel="copyright" href="http://www.variety.com/index.asp?layout=terms"><link rel="home" href="http://www.variety.com/"><link rel="toc" href="http://www.variety.com/index.asp?layout=site_index"><link rel="SHORTCUT ICON" href="http://www.variety.com/favicon.ico"> <title>Variety.com - About Variety Privacy Policy</title>
+<link href="http://www.variety.com/css/variety.css" rel="stylesheet" type="text/css">
 </head>
 <body bgcolor="#ffffff" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0">
-<table width="760" cellpadding="0" cellspacing="0" border="0">
+<table width="760" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td width="190"><a name="ev_top"></a><a href="http://www.cahners.com" target="_new"><img src="http://a330.g.akamai.net/7/330/2540/0fbb80e31c1fbf/www.variety.com/graphics/newimages/cahnerslogo.gif" border="0" alt="Cahners" width="77" height="22"></a></td>
-<td width="190"></td>
-<td class="searchbox" colspan="2">&nbsp;<font size="-2" face="verdana,arial,helvetica,sans-serif">
-<script language="javascript">
+<td><a name="ev_top"></a><a href="http://www.cahners.com" target="_new"><img src="http://a330.g.akamai.net/7/330/2540/0fbb80e31c1fbf/www.variety.com/graphics/newimages/cahnerslogo.gif" border="0" alt="Cahners" width="77" height="22"></a>
+
+<!-- Begin: For Ad Tags  -->
+<script language="JavaScript">
+<!--
+  var time = new Date();
+  ord = (time.getTime());
+  var mdesc='%categoryid%';
+  
+  var lyout='about_privacy_layout';
+  var lyout=lyout.toLowerCase();
+  
+  var brklayout='%lay' + 'out%'
+  
+  var pagename='%dept%';
+  var pagename=pagename.toLowerCase();
+  
+  var tile = 0;
+
+if (pagename=='film' || mdesc=='13' || mdesc=='31'){
+	pagename = 'film'
+}else if (pagename=='tv' || mdesc=='14' || mdesc=='32'){
+	pagename = 'tv'
+}else if (pagename=='world' || mdesc=='19'){
+	pagename = 'world'
+}else if (pagename=='business' || mdesc=='18'){
+	pagename = 'business'
+}else if (pagename=='music' || mdesc=='16'){
+	pagename = 'music'
+}else if (pagename=='legit' || mdesc=='15'){
+	pagename = 'legit'
+}else if (pagename=='internet' || mdesc=='1009'){
+	pagename = 'internet'
+}else{
+	pagename = ''
+}
+
+if (lyout=='front_page' || lyout==brklayout || lyout==''){
+	pagename = 'front_home';
+}
+
+if (lyout=='vpage'  || lyout=='slideshow' || lyout=='vstory' || lyout=='vpage_category' || mdesc=='38'){
+
+	if (pagename == ''){
+		pagename = 'vpage'
+	}else{
+		pagename = pagename + '_vpage'
+	}
+}
+
+if (lyout=='b_o_weekend' || lyout=='b_o_layout' || lyout=='b_o_foreign' || lyout=='chart_top_openers' || lyout=='bo_chart'){
+	pagename = 'boxoffice';
+}
+
+var charttype='%charttype%';
+if (lyout=='chart_pass' && (charttype=='chart_boytd0101')){
+	pagename = 'boxoffice';
+}
+
+//BEGIN AMPAS//
+
+function getCookie1(Name) {   
+	var search = Name + "=";
+	if (document.cookie.length > 0) { //if there are any cookies      
+		offset = document.cookie.indexOf(search);     
+		if (offset != -1) { // if cookie exists          
+			offset += search.length;    //set index of beginning of value         
+			end = document.cookie.indexOf(";", offset);  // set index of end of cookie value         
+			if (end == -1){end = document.cookie.length;}
+			return unescape(document.cookie.substring(offset,end))          
+		}
+	}
+}
+
+
+var ampasid = getCookie1('ampasID');
+
+if ( (pagename == 'front_home') && (ampasid != null && ampasid != '' && ampasid != 'none' && ampasid != 'undefined')){
+	pagename = 'ampas';
+
+}
+
+//END AMPAS//
+
+//-->
+</script>
+<!-- End: For Ad Tags  --></td>
+<td align="right" class="searchbox"><span class="welcome">&nbsp;<script language="javascript">
 function getCookie1(Name) {   
 var search = Name + "=";
 if (document.cookie.length > 0) { //if there are any cookies      
@@ -24,94 +108,103 @@ return unescape(document.cookie.substring(offset,end))
 }
 }
 var mfname=getCookie1('FirstName');
-if (mfname==null || mfname=='' || mfname=='undefined'){mfname=getCookie1('FN');}
+/*if (mfname==null || mfname=='' || mfname=='undefined'){mfname=getCookie1('FN');}*/
 var mfullname='';
 if ( (mfname!=null) && (mfname!='') ) {mfullname=mfname.replace("+"," ");}
 var mlname=getCookie1('LastName');
-if (mlname==null || mlname=='' || mlname=='undefined'){mlname=getCookie1('LN');}
+/*if (mlname==null || mlname=='' || mlname=='undefined'){mlname=getCookie1('LN');}*/
 if ( (mlname!=null) && (mlname!='') ) {mfullname=mfullname+' '+mlname.replace("+"," ");}
 if ( mfullname=='' ) {
  mlname=getCookie1('FullName');
  if ( (mlname!=null) && (mlname!='') ){mfullname=mlname.replace("+"," ");}
 }
+if ( mfullname=='' ) {mfullname=getCookie1('UName');if(mfullname==null || mfullname=='undefined'){mfullname='';}}
 if ( mfullname!='' ) {
- document.write('<b><font color=#006633>Welcome <a href=subscribe/>'+mfullname+'</a> &#40;<a href=index.asp?layout=logout><font color=#006633>Click to sign out</font></a>&#41;</font></b>');
+ document.write('<a href=http://www.variety.com/crawler/search.asp><img src=images/spacer.gif width=1 height=1 alt="" border=0></a><b><font color=#006633>Welcome <a href=subscribe/>'+mfullname+'</a> &#40;<a href=index.asp?layout=logout><font color=#006633>Click to sign out</font></a>&#41;</font></b>');
 }
 else {
-document.write('<a name=w href=javascript:go_login()><font color=#ff0000><b>Subscribers log in here</b></font></a>');
+document.write('<a href=http://www.variety.com/crawler/search.asp><img src=images/spacer.gif width=1 height=1 alt="" border=0></a><a name=w href=javascript:go_login()><font color=#ff0000><b>Subscribers log in here</b></font></a>');
 }
 
-</script><a name="w" href="javascript:go_login()"><font color="#ff0000"><b>Subscribers log in here</b></font></a>
-</font>
-
-<script language="javascript">
 function go_login() {
   m_page=window.location.href;
   m_request=getCookie1('pageRequested');
-  if ('online_login'=='login_link'){m_page='index.asp?layout=front_page';}
+  if ('about_privacy_layout'=='login_link'){m_page='index.asp?layout=front_page';}
   if (m_request!='' && m_request!=null && m_request!='undefined'){m_page=m_request;}
   setCookie('pageRequested',m_page);
   window.location.href = "index.asp?layout=online_login";
 }
-</script><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
-</tr>
-<tr valign="top"> 
-<td colspan="2" width="380">
-<a href="index.asp?layout=channel"><img src="http://a330.g.akamai.net/7/330/2540/398e76be6355ad/www.variety.com/graphics/spacer.gif" alt="Text-only version" border="0" width="14" height="1"></a>
-<a href="index.asp?layout=front_page"><img src="http://a330.g.akamai.net/7/330/2540/3bec5002b8b490/www.variety.com/graphics/varietycom.gif" alt="Variety.com" border="0" width="314" height="72"></a>
-</td>
-<td class="searchbox" width="182"><table cellpadding="3" cellspacing="0" border="0" width="185">
-<form action="process_search2.asp" name="vsearch"></form>
-<input type="hidden" name="fromLayout" value="v_search_Variety">
+</script><a href="http://www.variety.com/crawler/search.asp"><img src="images/spacer.gif" width="1" height="1" alt="" border="0"></a><a name="w" href="javascript:go_login()"><font color="#ff0000"><b>Subscribers log in here</b></font></a></span><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="1" alt=""></td>
+</tr></tbody></table><table width="760" border="0" cellspacing="0" cellpadding="0">
 <tbody><tr>
-<td valign="top"><img src="http://a330.g.akamai.net/7/330/2540/52fee3e7d653c5/www.variety.com/graphics/lft-hdr-search-var.gif" width="108" height="12" alt="Search Variety"><br>
-<input type="text" name="query" value="" size="17">
-<input type="image" src="http://a330.g.akamai.net/7/330/2540/f455877147801e/www.variety.com/graphics/v_go3.gif" align="absmiddle" border="0" alt="Go" width="24" height="25"><br>
-<select name="page">
+<td><a href="index.asp?layout=front_page"><img src="http://a330.g.akamai.net/7/330/2540/f890f2fbfbef66/www.variety.com/graphics/v_logo.gif" width="284" height="60" border="0" alt="Variety.com"></a></td>
+<td align="right" class="searchbox">
 
+<img src="http://a330.g.akamai.net/7/330/2540/398e76be6355ad/www.variety.com/graphics/spacer.gif" height="1" width="100%" alt=""><center>
+<!-- Begin Top 468x60 Banner -->
+<script language="JavaScript">
+<!--
+	var tile = tile + 1;
+	document.write('<SCR'+'IPT language="JavaScript" SRC="http://ad.doubleclick.net/adj/variety.dart/' + pagename + ';sz=468x60;tile=' + tile + ';ord='+ ord +'?">');
+	document.write ('<A HREF="http://ad.doubleclick.net/jump/variety.dart/' + pagename + ';abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=468x60;tile=' + tile + ';ord='+ ord +'?" target="_top">');
+	document.write('<IMG SRC="http://ad.doubleclick.net/ad/variety.dart/' + pagename + ';abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=468x60;tile=' + tile + ';ord='+ ord +'?" border=0 width="468" height="60"></A>');
+	document.write('<' + '/SCRIPT>');
 
-<option value="all">All</option>
-<option value="news">News</option>
-<option value="columns">Columns</option>
-<option value="reviews">Reviews</option>
-<option value="people">People</option>
-<option value="events">Events</option>
-<option value="vpage">VPage</option>
-
-
-</select><br><script>	
-function openWindow(){
-sameWindow = window.open('index.asp?layout=search_help','help',',scrollbars,status,menubar,resizable,width=400,height=300');
-sameWindow.focus();
-
-}
-</script>
-<a href="index.asp?layout=search_help" onclick="openWindow();return false;" class="contentSmall">Click For Help</a>
-</td>
-</tr></tbody></table>
-</td>
-<td class="searchbox" width="198"><table valign="bottom" border="0" cellspacing="0" cellpadding="3">
-<form action="index.asp" method="get"></form>
+//-->
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/variety.dart/;sz=468x60;tile=1;ord=1582149442687?"><A HREF="http://ad.doubleclick.net/jump/variety.dart/;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=468x60;tile=1;ord=1582149442687?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/variety.dart/;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=468x60;tile=1;ord=1582149442687?" border=0 width="468" height="60"></A></script>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/variety.dart/;sz=468x60;ord=4449817?"><IMG SRC="http://ad.doubleclick.net/ad/variety.dart/;sz=468x60;ord=4449817?" border=0 width="468" height="60"></A>
+</noscript>
+<!-- End Top 468x60 Banner -->
+</center><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="2" alt=""><br></td>
+</tr></tbody></table><table width="760" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr>
-<td valign="bottom">
-<img src="http://a330.g.akamai.net/7/330/2540/16195ab9739909/www.variety.com/graphics/lft-hdr-google.gif" alt="Search the Web" width="109" height="12"><br><input type="hidden" name="layout" value="google_results">
-<input type="text" size="17" maxlength="128" name="q" value=""> <input type="image" src="http://a330.g.akamai.net/7/330/2540/f455877147801e/www.variety.com/graphics/v_go3.gif" align="absmiddle" border="0" alt="Go" width="24" height="25"><br><span class="contentSmall">Powered by Google</span><br><input type="hidden" value="web" name="cat">
-</td>
-</tr>
-
-</tbody></table></td>
+<td class="navbarGlobalBorder"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="2" alt=""></td>
+<td rowspan="2"><img src="http://a330.g.akamai.net/7/330/2540/f50d4feb1a19df/www.variety.com/graphics/navcorner.gif" width="23" height="22" alt=""></td>
 </tr>
 <tr>
-<td class="navbarGlobalBorder" colspan="4"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="2" alt=""></td>
+<td class="navbarGlobal" align="center" width="737"><table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="4" height="20" alt=""></td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal"><a href="http://www.variety.com/index.asp?layout=dept_main&amp;dept=Film" class="navbarGlobal">FILM</a></td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal">|</td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal"><a href="http://www.variety.com/index.asp?layout=dept_main&amp;dept=TV" class="navbarGlobal">TV</a></td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal">|</td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal"><a href="http://www.variety.com/index.asp?layout=dept_main&amp;dept=World" class="navbarGlobal">WORLD</a></td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal">|</td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal"><a href="http://www.variety.com/index.asp?layout=dept_main&amp;dept=Business" class="navbarGlobal">BUSINESS</a></td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal">|</td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal"><a href="http://www.variety.com/index.asp?layout=dept_main&amp;dept=Music" class="navbarGlobal">MUSIC</a></td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal">|</td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal"><a href="http://www.VideoBusiness.com/" target="_blank" class="navbarGlobal">VIDEO</a></td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal">|</td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal"><a href="http://www.variety.com/index.asp?layout=dept_main&amp;dept=Legit" class="navbarGlobal">LEGIT</a></td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal">|</td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal"><a href="http://www.variety.com/index.asp?layout=ev_homepage" class="navbarGlobal">INTERNET</a></td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td>
+<td class="navbarGlobal">|</td>
+<td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal"><a href="http://www.variety.com/awards2002" class="navbarGlobal">AWARD CENTRAL 2002</a></td>
+<td class="navbarGlobalBlue"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td></tr></tbody></table></td></tr></tbody></table><table width="760" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+<td class="navbarGlobalBorder"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="758" height="2" alt=""></td><td class="navbarGlobalBorder" rowspan="3" width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 </tr>
 <tr>
-<td colspan="4" class="navbarGlobal"><center><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="4" height="20" alt=""></td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal"><a href="index.asp?layout=dept_main&amp;dept=Film" class="navbarGlobal">FILM</a></td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal">|</td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal"><a href="index.asp?layout=dept_main&amp;dept=TV" class="navbarGlobal">TV</a></td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal">|</td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal"><a href="index.asp?layout=dept_main&amp;dept=World" class="navbarGlobal">WORLD</a></td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal">|</td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal"><a href="index.asp?layout=dept_main&amp;dept=Business" class="navbarGlobal">BUSINESS</a></td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal">|</td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal"><a href="index.asp?layout=dept_main&amp;dept=Music" class="navbarGlobal">MUSIC</a></td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal">|</td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal"><a href="http://www.VideoBusiness.com/" target="_blank" class="navbarGlobal">VIDEO</a></td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal">|</td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal"><a href="index.asp?layout=dept_main&amp;dept=Legit" class="navbarGlobal">LEGIT</a></td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal">|</td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td><td class="navbarGlobal"><a href="index.asp?layout=ev_homepage" class="navbarGlobal">INTERNET</a></td><td class="navbarGlobal"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="8" height="20" alt=""></td></tr></tbody></table></center></td>
-</tr>
-<tr>
-<td class="navbarGlobalBorder" colspan="4"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="2" alt=""></td>
-</tr>
-<tr>
-<td colspan="4" class="breadcrumb"><script language="javascript">
+<td class="breadcrumb"><script language="javascript">
 function setCookie(name, value, expire) {   
 document.cookie = name + "=" + escape(value)   + ((expire == null) ? "" : ("; expires=" + expire.toGMTString()))
 }
@@ -131,7 +224,7 @@ return unescape(document.cookie.substring(offset,end))
 
 
 function MakeCookieCrumb() {
-var m_layout='online_login'; 
+var m_layout='about_privacy_layout'; 
 m_layout=m_layout.toLowerCase();
 var m_dept='FILM';
 var m_type='MORE';
@@ -264,25 +357,24 @@ document.write(mCrumb);
 </script>
 
 
-<table width="760" cellspacing="0" cellpadding="2" border="0">
+<table width="100%" cellspacing="0" cellpadding="2" border="0">
 <tbody><tr>
 <td class="breadcrumb"><!---<SCRIPT>MakeCookieCrumb();</SCRIPT>--->&nbsp;<a href="index.asp?layout=front_page" class="breadcrumb">Home</a></td>
-<td align="right" class="breadcrumb">Last Updated <b>Jun. 4, 2001, 7:26am&nbsp;PT</b>&nbsp;</td></tr>
+<td align="right" class="breadcrumb">Last Updated <b>Dec. 16, 2001, 12:28pm&nbsp;PT</b>&nbsp;</td></tr>
 </tbody></table>
 </td>
 </tr>
 <tr>
-<td class="breadcrumbBorder" colspan="4"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="2" alt=""></td>
-</tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="603" align="left">
+<td class="navbarGlobalBorder"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="758" height="2" alt=""></td>
+</tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" width="603" align="left">
 <tbody><tr>
 <td width="128" valign="top" class="leftnav"><!-- E=email only -->
 <!-- T=FT only -->
 <!-- O=online sub -->
-<!-- P=print sub --><script language="javascript">
+<!-- P=print sub (PWD,PW,PD) --><script language="javascript">
 var mname=getCookie1('UName');
 var mtype=getCookie1('Utype');
+if ( (mtype!=null) && (mtype!='') && (mtype!='undefined') ) {mtype=mtype.substr(0,1);}
 var status=getCookie1('UStatus');
 var mexpdate=getCookie1('expDate');
 
@@ -291,7 +383,7 @@ if (mexpdate!=''&&mexpdate!=null&&mexpdate!='undefined'){
 	m_day=mexpdate.substring(mexpdate.indexOf('/')+1, mexpdate.indexOf('/',mexpdate.indexOf('/')+1));
 	m_year=mexpdate.substring(mexpdate.indexOf('/',mexpdate.indexOf('/')+1)+1);
 	//give four digit year if server returns a two digit year
-	if(m_year.length==2){m_year='20'+m_year}	
+	if(m_year.length==2){m_year='20'+m_year}
 	var m_exp_date=new Date();
 	m_exp_date.setDate(m_day);
 	m_exp_date.setMonth(m_month-1);
@@ -305,62 +397,124 @@ if (mexpdate!=''&&mexpdate!=null&&mexpdate!='undefined'){
 
 switch (mtype) {
  case 'E':
-    document.write('<a href=subscribe/><img src=graphics/subscribe_box.gif border=0 alt="Become a Variety.com subscriber today!" width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a>');
+    document.write('<a href=subscribe/><img src=graphics/subscribe_box.gif border=0 alt="Become a Variety.com subscriber today!" width=128 height=195></a>');
+    document.write('<br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a>');
     break;
  case 'T':
 	if (status=='X'){
 		if (m_exp_date<=today){
-			document.write('<div align="center"><a href=index.asp?layout=login_link><img src=graphics/subscribe_box.gif border=0 alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater & music reviews; and much more... (sign up today!)" width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a></div>');
+			document.write('<a href=index.asp?layout=login_link><img src=graphics/subscribe_box.gif border=0 alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater & music reviews; and much more... (sign up today!)" width=128 height=195></a>');
 		}else{
-			document.write('<a href=/subscribe/><img src=graphics/registration/2A.gif border=0 alt="Your 30-day trial subscription has to an end! Dont miss out on full access to Variety.com. Click here to subscribe." width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a>');
+			document.write('<a href=/subscribe/><img src=graphics/registration/2A.gif border=0 alt="Your 30-day trial subscription has to an end! Dont miss out on full access to Variety.com. Click here to subscribe." width=128 height=195></a>');
 		}
+                document.write('<br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a>');
 	}else{
+
   		if(counter>30 || counter<=0 || counter=='' || counter==null){
-          document.write('<a href=subscribe/><img src=graphics/registration/1h.gif border=0 alt="Become a Variety.com subscriber today!" width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a>');
+          document.write('<a href=subscribe/><img src=graphics/registration/1h.gif border=0 alt="Become a Variety.com subscriber today!" width=128 height=195></a>');
 		}else{
-		   for(i=1;i<=30;i++){
-		     if (i==counter){
-		       document.write('<div align="center"><a href=subscribe/><img src=graphics/registration/1b'+counter+'.gif border=0 alt="Become a Variety.com subscriber today!" width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a></div>');
-		       break;
-		     }
-		   }
+			//not expired
+		    var num=Math.floor(5*Math.random()+1);
+			if (num==1) {
+				document.write('<a href=index.asp?layout=charts_layout><img src=graphics/registration/1c.gif alt="Charts - Click here" border=0 width=128 height=195></a>');
+			}
+			if (num==2) {
+				document.write('<a href=index.asp?layout=columns_front><img src=graphics/registration/1D.gif alt="Columns: Click here" border=0 width=128 height=195></a>');
+			}
+			if (num==3) {
+				document.write('<a href=index.asp?layout=hot_topics_main&verticalId=363&verticalName=Hot+Topics><img src=graphics/registration/1F.gif alt="Hot Topics: Click here" border=0 width=128 height=195></a>');
+			}
+			if (num==4) {
+				document.write('<a href=index.asp?layout=columns_top5&categoryid=1><img src=graphics/registration/1_bart.gif alt="Peter Bart - The Backlot" border=0 width=128 height=195></a>');
+			}
+			if (num==5) {
+				for(i=1;i<=30;i++){
+				     if (i==counter){
+				       document.write('<a href=subscribe/><img src=graphics/registration/1b'+counter+'.gif border=0 alt="Become a Variety.com subscriber today!" width=128 height=195></a>');
+				      break;
+				     }
+				}
+			}
 		}
+            var num=Math.floor(1*Math.random()+1);
+			if (num==1) {
+				document.write('<br><a href=subs_printsub.asp?dv=1><img src=graphics/dv2amarq.gif border=0 alt="Subscribe to Daily Variety" width=128 height=64></a>');
+			}
+			//if (num==2) {
+			//	document.write('<br><a href=subs_printsub.asp?wv=1><img src=graphics/wv2amarq.gif border=0 alt="Subscribe to Weekly Variety" width=128 height=64></a>');
+			//}
+
     }
     break;
  case 'P':
 	if (status=='X'){
 		if (m_exp_date>today){
-			document.write('<div align="center"><a href=/printsub/><img src=graphics/registration/2C.gif border=0 alt="Your subscription to Variety has come to an end!  Dont miss out on full access, click here to renew." width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a></div>');
+			document.write('<a href=/printsub/><img src=graphics/registration/2C.gif border=0 alt="Your subscription to Variety has come to an end!  Dont miss out on full access, click here to renew." width=128 height=195></a></center>');
 		}
 		else{
-			document.write('<a href=index.asp?layout=login_link><img src=graphics/subscribe_box.gif border=0 alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater & music reviews; and much more... (sign up today!)" width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a>');
+			document.write('<a href=index.asp?layout=login_link><img src=graphics/subscribe_box.gif border=0 alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater & music reviews; and much more... (sign up today!)" width=128 height=195></a>');
 		}
 	}else{
-		document.write('<div align="center"><a href=index.asp?layout=columns_front><img src=graphics/registration/1D.gif border=0 alt="Read what the top columnists have to say!" width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a></div>');
-	} 
+		//not expired
+		var num=Math.floor(4*Math.random()+1);
+		if (num==1) {
+			document.write('<a href=index.asp?layout=charts_layout><img src=graphics/registration/1c.gif alt="Charts - Click here" border=0 width=128 height=195></a>');
+		}
+		if (num==2) {
+			document.write('<a href=index.asp?layout=columns_front><img src=graphics/registration/1D.gif alt="Columns: Click here" border=0 width=128 height=195></a>');
+		}
+		if (num==3) {
+			document.write('<a href=index.asp?layout=hot_topics_main&verticalId=363&verticalName=Hot+Topics><img src=graphics/registration/1F.gif alt="Hot Topics: Click here" border=0 width=128 height=195></a>');
+		}
+		if (num==4) {
+			document.write('<a href=index.asp?layout=columns_top5&categoryid=1><img src=graphics/registration/1_bart.gif alt="Peter Bart - The Backlot" border=0 width=128 height=195></a>');
+		}
+	}
+        document.write('<br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a>');
     break;
  case 'O':
 	if (status=='X'){
 		if (m_exp_date>today){
-			document.write('<div align="center"><a href=/subscribe/><img src=graphics/registration/2B.gif border=0 alt="Your subscription to Variety.com has come to an end!  Dont miss out on full access, click here to subscribe." width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a></div>');
+			document.write('<center><a href=/subscribe/><img src=graphics/registration/2B.gif border=0 alt="Your subscription to Variety.com has come to an end!  Dont miss out on full access, click here to subscribe." width=128 height=195></a></center>');
 		}
 		else{
-			document.write('<a href=index.asp?layout=login_link><img src=graphics/subscribe_box.gif border=0 alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater & music reviews; and much more... (sign up today!)" width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a>');
+			document.write('<a href=index.asp?layout=login_link><img src=graphics/subscribe_box.gif border=0 alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater & music reviews; and much more... (sign up today!)" width=128 height=195></a>');
 		}
+                document.write('<br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a>');
 	}else{
-		document.write('<div align="center"><a href=index.asp?layout=columns_front><img src=graphics/registration/1D.gif border=0 alt="Read what the top columnists have to say!" width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a></div>');
-	} 
+		//not expired
+		var num=Math.floor(4*Math.random()+1);
+
+		if (num==1) {
+			document.write('<a href=index.asp?layout=charts_layout><img src=graphics/registration/1c.gif alt="Charts - Click here" border=0 width=128 height=195></a>');
+		}
+		if (num==2) {
+			document.write('<a href=index.asp?layout=columns_front><img src=graphics/registration/1D.gif alt="Columns: Click here" border=0 width=128 height=195></a>');
+		}
+		if (num==3) {
+			document.write('<a href=index.asp?layout=hot_topics_main&verticalId=363&verticalName=Hot+Topics><img src=graphics/registration/1F.gif alt="Hot Topics: Click here" border=0 width=128 height=195></a>');
+		}
+		if (num==4) {
+			document.write('<a href=index.asp?layout=columns_top5&categoryid=1><img src=graphics/registration/1_bart.gif alt="Peter Bart - The Backlot" border=0 width=128 height=195></a>');
+		}
+		
+		var num=Math.floor(1*Math.random()+1);
+		if (num==1) {
+			document.write('<br><a href=subs_printsub.asp?dv=1><img src=graphics/dv2amarq.gif border=0 alt="Subscribe to Daily Variety" width=128 height=64></a>');
+		}
+		//if (num==2) {
+		//	document.write('<br><a href=subs_printsub.asp?wv=1><img src=graphics/wv2amarq.gif border=0 alt="Subscribe to Weekly Variety" width=128 height=64></a>');
+		//}
+	}
     break;
 default:
-	document.write('<div align="center"><a href=index.asp?layout=login_link><img src=graphics/subscribe_box.gif border=0 alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater & music reviews; and much more... (sign up today!)" width=128 height=195></a><br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a></div>');
+	document.write('<a href=index.asp?layout=login_link><img src=graphics/subscribe_box.gif border=0 alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater & music reviews; and much more... (sign up today!)" width=128 height=195></a>');
+        document.write('<br><a href=index.asp?layout=print_login><img src=graphics/Pr_Sub_Gr.gif border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a>');
    break;
 } //end of switch mtype
-
-
-</script><div align="center"><a href="index.asp?layout=login_link"><img src="graphics/subscribe_box.gif" border="0" alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater &amp; music reviews; and much more... (sign up today!)" width="128" height="195"></a><br><a href="index.asp?layout=print_login"><img src="graphics/Pr_Sub_Gr.gif" border="0" alt="Print Subscribers Register for Variety.com FREE" width="128" height="64"></a></div>
-<noscript><a href=index.asp?layout=login_link><img src="http://a330.g.akamai.net/7/330/2540/b68cb89fc786b4/www.variety.com/graphics/subscribe_box.gif" border=0 alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater & music reviews; and much more... (sign up today!)" width=128 height=195></a><br><a href=index.asp?layout=print_login><img src="http://a330.g.akamai.net/7/330/2540/aa3c2481a9e9c6/www.variety.com/graphics/Pr_Sub_Gr.gif" border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a></noscript>
-<table width="128" cellpadding="1" cellspacing="0" border="0">
-<tbody><tr><td rowspan="41"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="4" height="1" alt=""></td>
+</script><a href="index.asp?layout=login_link"><img src="graphics/subscribe_box.gif" border="0" alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater &amp; music reviews; and much more... (sign up today!)" width="128" height="195"></a><br><a href="index.asp?layout=print_login"><img src="graphics/Pr_Sub_Gr.gif" border="0" alt="Print Subscribers Register for Variety.com FREE" width="128" height="64"></a>
+<noscript><a href=index.asp?layout=login_link><img src="http://a330.g.akamai.net/7/330/2540/b68cb89fc786b4/www.variety.com/graphics/subscribe_box.gif" border=0 alt="Subscribe to Variety.com. SPECIAL OFFER: 30-Day Free Trial. exclusive industry news; in-depth reports; box office charts, film, TV, theater & music reviews; and much more... (sign up today!)" width=128 height=195></a><br><a href=index.asp?layout=print_login><img src="http://a330.g.akamai.net/7/330/2540/aa3c2481a9e9c6/www.variety.com/graphics/Pr_Sub_Gr.gif" border=0 alt="Print Subscribers Register for Variety.com FREE" width=128 height=64></a></noscript><table width="128" cellpadding="1" cellspacing="0" border="0">
+<tbody><tr><td rowspan="100"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="4" height="1" alt=""></td>
 <td class="leftnav"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="8" alt=""></td></tr>
 <tr><td class="leftnav"><img src="http://a330.g.akamai.net/7/330/2540/85cf60e8451b1f/www.variety.com/graphics/lft-hdr-sections.gif" alt="Sections" width="62" height="11" vspace="3"></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=news_front" class="leftnav2">News</a></b></td></tr>
@@ -374,120 +528,99 @@ default:
 <tr><td class="leftnav"><b><a href="index.asp?layout=reports&amp;type=AWARDS" class="leftnav2">Awards</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=reports&amp;type=FESTIVALS" class="leftnav2">Festivals</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=reports&amp;type=MARKETS" class="leftnav2">Markets</a></b></td></tr>
-<tr><td class="leftnav"><b><a href="index.asp?layout=showbizexpo2001&amp;articleID=VR1117800249" class="leftnav2">ShowBiz Expo 2001</a></b></td></tr>
-<tr><td class="leftnav"><b><a href="http://www2.variety.com/tentowatch_2001/" class="leftnav2">Ten to Watch</a></b></td></tr>
+<tr><td class="leftnav"><b><a href="listings" class="leftnav2">Submit Listings</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=about_special_c" class="leftnav2">Editorial Calendar</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=reports" class="leftnav2">More Reports</a></b></td></tr>
+<tr><td class="leftnav"><b><a href="/awards2002" class="leftnav2">Award Central 2002</a></b></td></tr>
 <tr><td class="leftnav"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="8" alt=""></td></tr>
 <tr><td class="leftnav"><img src="http://a330.g.akamai.net/7/330/2540/5a749693ca5569/www.variety.com/graphics/lft-hdr-tools.gif" alt="Tools" width="41" height="11" vspace="3"></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=advanced_search" class="leftnav2">Archives</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=charts_layout" class="leftnav2">Charts</a></b></td></tr>
+<tr><td class="leftnav"><b><a href="legal" class="leftnav2">Legal Resource</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=credits_reviews" class="leftnav2">Search Credits</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=chart_pass&amp;charttype=prodcharts" class="leftnav2">Production Charts</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=calendar" class="leftnav2">Showbiz Calendar</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=weblinks_front" class="leftnav2">Web Links</a></b></td></tr>
-<tr><td class="leftnav"><b><a href="index.asp?layout=big_talk_discussion&amp;talkid=57" class="leftnav2">Discussions</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=handheld_access" class="leftnav2">Handheld Access</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="index.asp?layout=slanguage" class="leftnav2">Slanguage</a></b></td></tr>
 <tr><td class="leftnav"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="8" alt=""></td></tr>
 <tr><td class="leftnav"><img src="http://a330.g.akamai.net/7/330/2540/1eb7b63c67cdc0/www.variety.com/graphics/lft-hdr-mktplace.gif" alt="Marketplace" width="120" height="16"></td></tr>
 <tr><td class="leftnav"><b><a href="printsub" class="leftnav2">Print Subscription</a></b></td></tr>
-<tr><td class="leftnav"><b><a href="index.asp?layout=v_eletter_jump" class="leftnav2">Email Newsletters
-</a></b></td></tr>
-<tr><td class="leftnav"><b><a href="index.asp?layout=classified_layout" class="leftnav2">Classifieds</a></b></td></tr>
-<tr><td class="leftnav"><b><a href="index.asp?layout=cannes2001_page&amp;internal=cannes2001_pitchme_wins" class="leftnav2">Pitch Me Winners</a></b></td></tr>
+<tr><td class="leftnav"><b><a href="index.asp?layout=v_eletter_jump" class="leftnav2">Email Newsletters</a></b></td></tr>
+<tr><td class="leftnav"><b><a href="index.asp?layout=classifieds" class="leftnav2">Classifieds</a></b></td></tr>
+<tr><td class="leftnav"><b><a href="http://www.variety.com/philanthropy" target="_blank" class="leftnav2">Philanthropy</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="http://www.instat.com/variety" class="leftnav2">Research Reports</a></b></td></tr>
-<tr><td class="leftnav"><b><a href="http://www.la411publishing.com/" target="_blank" class="leftnav2">LA411 Directories</a></b></td></tr>
-<tr><td class="leftnav"><b><a href="http://www.kftv.com/" target="_blank" class="leftnav2">Kemps</a></b></td></tr>
+<tr><td class="leftnav"><b><a href="http://www.la411publishing.com/" target="_blank" class="leftnav2">411 Publishing</a></b></td></tr>
+<tr><td class="leftnav"><b><a href="http://www.ee411.com/" target="_blank" class="leftnav2">Ent. Execs 411</a></b></td></tr>
+<tr><td class="leftnav"><b><a href="http://www.kftv.com" target="_blank" class="leftnav2">Kemps</a></b></td></tr>
+<tr><td class="leftnav"><b><a href="https://www.webapply.com/variety-zvzo" class="leftnav2">Variety Credit Card</a></b></td></tr>
 <tr><td class="leftnav"><b><a href="http://variety.studiostore.com/" target="_blank" class="leftnav2">Variety Store</a></b></td></tr>
-<tr><td class="leftnav"><b><a href="http://www.firstuse.com/cobrand/variety/variety.htm" target="_blank" class="leftnav2">FirstUse.com</a></b></td></tr>
-</tbody></table>&nbsp;<br>
+</tbody></table>&nbsp;<br><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" height="4" width="1" alt=""><br>
+
 <center>
-<a href="index.asp?layout=advanced_search"><img src="http://a330.g.akamai.net/7/330/2540/2d0532f1da6343/www.variety.com/graphics/archives.gif" width="128" height="72" border="0" alt="Search Archives: articles, reviews and much more... (Go)"></a>
-</center><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" height="4" width="1" alt=""><br>
+
+<!-- Begin Bottom 120x600 Banner -->
+<script language="JavaScript">
+<!--
+   var protocol = window.location.protocol;
+if (pagename == 'front_home') {
+
+	var tile = tile + 1;
+	document.write('<span class=content><font color=white><B>ADVERTISEMENT</B></font></span><br>');
+	document.write('<SCR'+'IPT language="JavaScript" SRC="' + protocol + '//ad.doubleclick.net/adj/variety.dart/' + pagename + '_bot;sz=120x600;tile=' + tile + ';ord='+ ord +'?">');
+	document.write ('<A HREF="http://ad.doubleclick.net/jump/variety.dart/' + pagename + '_bot;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=120x600;tile=' + tile + ';ord='+ ord +'?" target="_top">');
+	document.write('<IMG SRC="' + protocol + '//ad.doubleclick.net/ad/variety.dart/' + pagename + '_bot;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=120x600;tile=' + tile + ';ord='+ ord +'?" border=0 width="120" height="600"></A>');
+	document.write('<' + '/SCRIPT>');
+
+}
+
+//-->
+</script>
+</center><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="8" alt=""><br>
 <table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tbody><tr><td>
 <img src="http://a330.g.akamai.net/7/330/2540/fcb0ef81dd76bc/www.variety.com/graphics/powered-by.gif" alt="Variety.com Powered by:" width="128" height="47"></td>
 </tr>
-<tr><td valign="middle" align="center" height="31"><a href="http://www.google.com/" target="_new"><img src="http://a330.g.akamai.net/7/330/2540/f28d2d6b4f19cf/www.variety.com/graphics/p_google.gif" width="88" height="31" alt="Google" border="0"></a><br></td></tr>
-<tr><td valign="middle" align="center" height="42"><img src="http://a330.g.akamai.net/7/330/2540/66976b609c856f/www.variety.com/graphics/poweredby_elogic.gif" width="88" height="31" alt="eLogic" border="0"><br></td></tr>
-</tbody></table></td>
+<tr><td valign="middle" align="center" height="42"><a href="http://www.espcomp.com/" target="_new"><img src="http://a330.g.akamai.net/7/330/2540/9e4d61f7558ee7/www.variety.com/graphics/ESPlogosmall.jpg" width="88" height="26" alt="ESP" border="0"></a><br></td></tr>
+<tr><td valign="middle" align="center" height="42"><a href="http://www.elogic.com" target="_new"><img src="http://a330.g.akamai.net/7/330/2540/66976b609c856f/www.variety.com/graphics/poweredby_elogic.gif" width="88" height="31" alt="eLogic" border="0"></a><br></td></tr>
+</tbody></table>
+</td> 
 <td width="2" class="leftnavBorder"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td width="5"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td width="468" valign="top"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="8" alt=""><br>
+<td width="468" valign="top"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="8" alt=""><br><table width="100%" cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top">
+<td><table width="100%"><tbody><tr valign="bottom">
+<td><script language="javascript" type="text/javascript">
+dept = "";
+if (dept != ""){
+	if (dept == "Film" || dept == "TV" || dept == "World" || dept == "Business" || dept == "Music" || dept == "Legit" ){
 
-<img src="http://a330.g.akamai.net/7/330/2540/398e76be6355ad/www.variety.com/graphics/spacer.gif" height="1" width="100%" alt=""><center>
-<script language="javascript">
-var mdesc='%categoryid%';
-var lyout='online_login';
-var dept='%dept%';
-var tStamp= ((10000000 - 1000000 + 1) * Math.random() + 1000000);
-var sType;
-var lyt = new Array('news_front','news_layout');
-var lyt2 = new Array('columns_front','columns_top5','columns_categories');
-var colID = new Array('1','2','3','4','5','6','7','8','9','1001','1002','1007');
-var newsID = new Array('13','14','15','16','17','18','19','20','21','22','23','1000','1009','1011');
-for(b=0;b<lyt.length;b++){
-if(lyout == lyt[b]){
-	sType = 'NEWS'
-}
-}
-for(y=0;y<lyt2.length;y++){
-if(lyout == lyt2[y]){
-	sType = 'COLUMNS'
-}
-}
-for(z=0;z<colID.length;z++){
-if(mdesc == colID[z]){
-sType = 'COLUMNS'
-}
-}
-for(a=0;a<newsID.length;a++){
-if(mdesc == newsID[a]){
-sType = 'NEWS'
-}
-}
-var stId = new Array('27007','27009','27028','27006','27003','27031','28206','28204','28203','28205','28208','28210','27027','28207','28209','27004','27026','27005','27018','28211','27011','28213','28214','28212');
-var desc = new Array('1','3','1007','2','13','14','1009','16','17','18','21','23','1011','19','22','26','28','25','1010','31','1008','33','34','32');
-var stpLoop = desc.length + 1;
-
-if (dept=='Film'){
-	document.write('<!-- Sabela Media Project OTS.  Copyright Sabela Media 1998-2000 --><!-- Sabela Media Project OTS.  Place HTML Ad using Javascript --><SCRIPT SRC=http:/' + '/van.ads.link4ads.com/bin/wadredir?req=ad&siteid=28218&pageid=1.1&VPOS=TOP&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>');
-}else{
-
-	for (x=0;x<stpLoop;x++)
-	{
-		if (x==desc.length)
-		{
-			statAd();
+		//dont show if vpage
+		var tmpDept = dept.toLowerCase();
+		
+		if (pagename != tmpDept + '_vpage'){
+			document.write('<img src=graphics/v_'+dept+'_137.gif width=137 height=31 alt="Variety '+dept+'"></td>');
+			document.write('<td class=contentSmall><a href=index.asp?layout=v_eletter_jump><b>Sign up to get a FREE daily ' + dept + ' email newsletter</b></a></td>');
 		}
-		if (mdesc==desc[x])
-		{
-			document.write('<!-- Sabela Media Project OTS.  Copyright Sabela Media 1998-2000 --><!-- Sabela Media Project OTS.  Place HTML Ad using Javascript --><SCRIPT SRC=http:/' + '/van.ads.link4ads.com/bin/wadredir?req=ad&siteid=' + stId[x] + '&pageid=1.1&VPOS=TOP&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>');
-			x=stpLoop;
-		}
-	}}
-function statAd()
-{
-document.write('<SCRIPT SRC=http:/' + '/van.ads.link4ads.com/bin/wadredir?req=ad&siteid=26969&pageid=1.1&VPOS=TOP&tag=script&time=7349928" type=text/javascript>' + '<' + '/SCRIPT>');
+	
+
+	}
 }
-</script><script src="http://van.ads.link4ads.com/bin/wadredir?req=ad&amp;siteid=26969&amp;pageid=1.1&amp;VPOS=TOP&amp;tag=script&amp;time=7349928&quot;" type="text/javascript"></script>
-
-
-	<noscript><A HREF=http://van.ads.link4ads.com/bin/wadredir?req=clickthru&siteid=26969&pageid=1.1 target=_top><IMG src=http://van.ads.link4ads.com/bin/wadredir?req=ad&tag=img&siteid=26969&pageid=1.1&VPOS=TOP&topcat=%subType&subcat=%categoryid&tag=script&mode=via&time=%tStamp width=468 height=60 Alt="Click Here!"></A></noscript></center><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="2" alt=""><br>
-<img src="http://a330.g.akamai.net/7/330/2540/24d2778d83f72e/www.variety.com/graphics/1x1blue.gif" width="100%" height="1" alt="" vspace="1"><br>
+</script></td>
+</tr></tbody></table><img src="http://a330.g.akamai.net/7/330/2540/24d2778d83f72e/www.variety.com/graphics/1x1blue.gif" width="100%" height="1" alt="" vspace="1"><br>
 <span class="contentLargeHeader">Privacy Policy</span><br>
 <img src="http://a330.g.akamai.net/7/330/2540/24d2778d83f72e/www.variety.com/graphics/1x1blue.gif" width="100%" height="1" alt="" vspace="1"><br>
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
 <tbody><tr>
 	<td>&nbsp;</td>
-	<td class="content"><br>January 1st, 2000
+	<td class="content"><br>June 25, 2001
 <p><b>For Cahners Business Information, a division of Reed Elsevier Inc. publications.</b></p>
 
 <p>This Privacy Policy will be continuously assessed against new technologies, business practices and our customers' changing needs.  We may change our privacy practices from time to time.  If we make any changes, we'll update this privacy statement accordingly (the date of the most recent change is displayed at the top of this statement).</p>
 
 <p>Many of our publications are available free of charge or may be subscribed to at reduced rates because they are supported by advertisers.  Qualification and registration questionnaires and other processes ensure that our advertisers reach the appropriate audiences.  We may use the information we collect from you individually or aggregated with other user's information to improve our publications, to customize these publications, and to notify you about updates or new features.  In addition, we may use information we collect to notify you of third-party products and services in which you may be interested.</p>
+
+<p>Some of the materials included on this Web site, including advertising, are served by third parties. These third parties, in the course of serving such materials, may collect information regarding use of this Web site, including by placing a "cookie" on a user's hard drive.  Collection, use, disclosure and security of information collected by third parties are subject to their own privacy policies.  You may view the privacy policy of DoubleClick, a third party ad server to this Web site, at <a target="_blank" href="http://www.privacychoices.org">www.privacychoices.org</a>.</p>
 
 <p>In addition to the options made available to you, if any, when we collect information, you may elect to "opt out" of having your individually identifiable information shared with third-parties that are not affiliated with Cahners (except for uses specifically requested by you and legitimate business uses).  Separate third-party opt out request for each medium (mail or telephone or email) must be submitted in writing to our Privacy Manager in one of the following ways:</p>
 	<div style="padding-left:25px">
@@ -523,73 +656,38 @@ document.write('<SCRIPT SRC=http:/' + '/van.ads.link4ads.com/bin/wadredir?req=ad
 <tr>
 	<td colspan="3"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="20" border="0" alt=""></td>
 </tr>
-</tbody></table></td>
+</tbody></table></td></tr></tbody></table></td>
 </tr>
 <tr>
 <td width="128" class="leftnav"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="128" height="1" alt=""></td>
 <td width="2" class="leftnavBorder"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td width="5"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td width="468"><br>&nbsp;<br><center><!-- Sabela Media Project OTS.  Copyright Sabela Media 1998-2000 -->  <!-- Sabela Media Project OTS.  Place HTML Ad using Javascript --><!-- Sabela OTS. Remove the CENTER and TABLE tags if the ad is not centered -->
-<script language="javascript">
-var mdesc='13';
-var lyout='story';
-var tStamp= ((10000000 - 1000000 + 1) * Math.random() + 1000000);
-var sType;
-var lyt = new Array('news_front','news_layout');
-var lyt2 = new Array('columns_front','columns_top5','columns_categories');
-var colID = new Array('1','2','3','4','5','6','7','8','9','1001','1002','1007');
-var newsID = new Array('13','14','15','16','17','18','19','20','21','22','23','1000','1009','1011');
-for(b=0;b<lyt.length;b++){
-	if(lyout == lyt[b]){
-		sType = 'NEWS'
-	}
-}
-
-for(y=0;y<lyt2.length;y++){
-	if(lyout == lyt2[y]){
-		sType = 'COLUMNS'
-	}
-}
-
-for(z=0;z<colID.length;z++){
-	if(mdesc == colID[z]){
-	sType = 'COLUMNS'
-	}
-}
-
-for(a=0;a<newsID.length;a++){
-	if(mdesc == newsID[a]){
-	sType = 'NEWS'
-	}
-}
-
-var stId = new Array('27007','27009','27028','27006','27003','27031','28206','28204','28203','28205','28208','28210','27027','28207','28209','27004','27026','27005','27018','28211','27011','28213','28214','28212');
-var desc = new Array('1','3','1007','2','13','14','1009','16','17','18','21','23','1011','19','22','26','28','25','1010','31','1008','33','34','32');
-var stpLoop = desc.length + 1;
-
-
-for (x=0;x<stpLoop;x++){
-	if (x==desc.length){
-		statAd();
-	}
-	if (mdesc==desc[x]){
-		actual_ad = '<SCRIPT SRC=http:/' + '/van.ads.link4ads.com/bin/wadredir?req=ad&siteid=' + stId[x] + '&pageid=2.1&VPOS=BOT&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT></CENTER>'
-		x=stpLoop;
-	}
-}
-function statAd(){
-	actual_ad = '<SCRIPT SRC=http:/' + '/van.ads.link4ads.com/bin/wadredir?req=ad&siteid=26969&pageid=2.1&VPOS=BOT&tag=script&time=7349928 type=text/javascript>' + '<' + '/SCRIPT>'
-}
-
-document.write(actual_ad);
-</script><script src="http://van.ads.link4ads.com/bin/wadredir?req=ad&amp;siteid=27003&amp;pageid=2.1&amp;VPOS=BOT&amp;topcat=NEWS&amp;subcat=13&amp;tag=script&amp;mode=via&amp;time=9705063.628555492" type="text/javascript"></script></center>
-<noscript>'<A HREF=http://van.ads.link4ads.com/bin/wadredir?req=clickthru&siteid=26969&pageid=2.1 target=_top><IMG src=http://van.ads.link4ads.com/bin/wadredir?req=ad&tag=img&siteid=26969&pageid=2.1&VPOS=BOT&topcat=%subType&subcat=%categoryid&tag=script&mode=via&time=6164607 width=468 height=60 Alt="Click Here!"></A></noscript><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="2" alt=""><br>
-<center><table border="0" cellspacing="0" cellpadding="0">
+<td width="468">
+<br>&nbsp;<br><center>
+<!-- Begin Bottom 468x60 Banner -->
+<script language="JavaScript">
+<!--
+	var tile = tile + 1;
+	document.write('<SCR'+'IPT language="JavaScript" SRC="http://ad.doubleclick.net/adj/variety.dart/' + pagename + '_bot;sz=468x60;tile=' + tile + ';ord='+ ord +'?">');
+	document.write ('<A HREF="http://ad.doubleclick.net/jump/variety.dart/' + pagename + '_bot;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=468x60;tile=' + tile + ';ord='+ ord +'?" target="_top">');
+	document.write('<IMG SRC="http://ad.doubleclick.net/ad/variety.dart/' + pagename + '_bot;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=468x60;tile=' + tile + ';ord='+ ord +'?" border=0 width="468" height="60"></A>');
+	document.write('<' + '/SCRIPT>');
+//-->
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/variety.dart/_bot;sz=468x60;tile=2;ord=1582149442687?"><A HREF="http://ad.doubleclick.net/jump/variety.dart/_bot;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=468x60;tile=2;ord=1582149442687?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/variety.dart/_bot;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=468x60;tile=2;ord=1582149442687?" border=0 width="468" height="60"></A></script>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/variety.dart/;sz=468x60;ord=4449817?"><IMG SRC="http://ad.doubleclick.net/ad/variety.dart/;sz=468x60;ord=4449817?" border=0 width="468" height="60"></A>
+</noscript>
+<!-- End Bottom 468x60 Banner -->
+</center><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="2" alt=""><br><center><table border="0" cellspacing="0" cellpadding="0">
 
 
 <tbody><tr><td align="center">&nbsp;<br><img src="http://a330.g.akamai.net/7/330/2540/24d2778d83f72e/www.variety.com/graphics/1x1blue.gif" width="350" height="1" alt=""><br></td></tr>
 <tr>
 <td align="center" class="contentSmall">&nbsp;<br>
+<a href="#link" onclick="window.open('http://www.research.net/MPA/magnet/variety','Main','menubar=no,scrollbars=yes,toolbar=no,location=no,directories=no,resizable=yes,width=640,height=480,left=0,top=0');
+return
+false">Take this survey</a> -- you may win $250<br>
+&nbsp;<br>
 <a href="index.asp?layout=front_page">Home</a>&nbsp;&nbsp;
 <a href="index.asp?layout=about_variety_layout">About</a>&nbsp;&nbsp;
 <a href="index.asp?layout=about_media">Advertise</a>&nbsp;&nbsp;
@@ -617,12 +715,12 @@ document.write('<a href=index.asp?layout=login_link>Subscribe</a>');
 }
 </script><a href="index.asp?layout=login_link">Subscribe</a>
 <noscript><a href=index.asp?layout=login_link>Subscribe</a></noscript>
-
+<span class="contentSmall">
 &nbsp;&nbsp;
 <a href="index.asp?layout=site_index">Site Index</a>&nbsp;&nbsp;
 <a href="index.asp?layout=about_contact_layout">Contact Us</a><br>
 Copyright 2001, Cahners Business Information, a division of Reed Elsevier Inc.<br>
-All rights reserved. Use of this Website is subject to <a href="index.asp?layout=terms">Terms of Use.</a>&nbsp;<a href="index.asp?layout=about_privacy_layout">Privacy Policy</a><br>&nbsp;<br>&nbsp;<br></td></tr>
+All rights reserved. Use of this Website is subject to <a href="index.asp?layout=terms">Terms of Use.</a>&nbsp;<a href="index.asp?layout=about_privacy_layout">Privacy Policy</a><br>&nbsp;<br>&nbsp;<br></span></td></tr>
 </tbody></table></center></td>
 </tr>
 </tbody></table>
@@ -630,108 +728,74 @@ All rights reserved. Use of this Website is subject to <a href="index.asp?layout
 <tbody><tr>
 <td rowspan="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td width="2" class="rightnavBorder"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
-<td valign="top" class="rightnav" width="150"><center><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="6" border="0"><br clear="all"><script language="javascript" type="text/javascript">
-var mdesc='*';
-var lyout='advanced_result';
-var dept='%dept%';
-var dept=dept.toLowerCase();
-var lyout=lyout.toLowerCase();
-var tStamp= ((10000000 - 1000000 + 1) * Math.random() + 1000000);
-var sType;
-var lyt = new Array('news_front','news_layout');
-var lyt2 = new Array('columns_front','columns_top5','columns_categories');
-var lyt3 = new Array('reviews_front','reviews_layout','reviews_archive','reviews_tv_layout');
-var colID = new Array('1','2','3','4','5','6','7','8','9','1001','1002','1007');
-var newsID = new Array('13','14','15','16','17','18','19','20','21','22','23','1000','1009','1011');
-var reviewsID = new Array('31');
-var linkVal = '<SCRIPT SRC=http:/' + '/van.ads.link4ads.com/bin/wadredir?req=ad&siteid='
-var stId='274507'
-var flag=true
-var key = 0
-if(lyout=='front_page'){
-stId = '26970';
-	linkVal += stId+'&pageid=1.1&VPOS=TOP&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-	flag=false;key=1
+<td valign="top" class="rightnav" width="150"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="5" alt=""><table border="0" cellspacing="3" cellpadding="0" width="138"><form action="process_search3.asp"></form>
+<input type="hidden" name="fromLayout" value="v_search_Variety">
+<tbody><tr>
+<td><img src="http://a330.g.akamai.net/7/330/2540/72e0e733af6d0f/www.variety.com/graphics/v_search.gif" width="49" height="9" alt="Search"></td>
+<td class="contentSmall"><b><script language="javascript" type="text/javascript">	
+function openWindow(){
+sameWindow = window.open('index.asp?layout=search_help','help',',scrollbars,status,menubar,resizable,width=400,height=300');
+sameWindow.focus();
 }
-
-if(mdesc=='31'){stId='274743'}
-
-for(j=0;j<lyt3.length;j++){
-	if(lyout == lyt3[j] && flag==true){
-		sType = 'REVIEWS'
-		linkVal += stId+'&pageid=1.1&VPOS=TOP&topcat='+ sType +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
-	}
-}
-
-
-
-for(x=0;x<lyt.length;x++){
-	if(lyout == lyt[x] && flag==true){
-		sType = 'NEWS'
-		linkVal += stId+'&pageid=1.1&VPOS=TOP&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
-	}
-}
-for(y=0;y<lyt2.length;y++){
-	if(lyout == lyt2[y] && flag==true){
-		sType = 'COLUMNS'
-		linkVal += stId+'&pageid=1.1&VPOS=TOP&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
-	}
-}
-
-for(z=0;z<colID.length;z++){
-	if(mdesc == colID[z] && flag==true){
-		sType = 'COLUMNS'
-		linkVal += stId+'&pageid=1.1&VPOS=TOP&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
-	}
-}
-
-for(a=0;a<newsID.length;a++){
-	if(mdesc == newsID[a] && flag==true){
-		sType = 'NEWS'
-		linkVal += stId+'&pageid=1.1&VPOS=TOP&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
-	}
-}
-
-for(a=0;a<reviewsID.length;a++){
-	if(mdesc == reviewsID[a] && flag==true){
-		sType = 'REVIEWS'
-		linkVal += stId+'&pageid=1.1&VPOS=TOP&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
-	}
-}
-
-if(key==0){
-	linkVal += stId+'&pageid=1.1&VPOS=TOP&tag=script type=text/javascript>' + '<' + '/SCRIPT>'
-}
-
-if (dept=='film'){
-	document.write('<!-- Sabela Media Project OTS.  Copyright Sabela Media 1998-2000 --><!-- Sabela Media Project OTS.  Place HTML Ad using Javascript --><SCRIPT SRC=http:/' + '/van.ads.link4ads.com/bin/wadredir?req=ad&siteid=27015&pageid=1.1&VPOS=TOP&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>');
-}else{
-	document.write(linkVal);
-}
-
-</script><script src="http://van.ads.link4ads.com/bin/wadredir?req=ad&amp;siteid=274507&amp;pageid=1.1&amp;VPOS=TOP&amp;tag=script" type="text/javascript"></script>
-
-
-	<noscript><A HREF=http://van.ads.link4ads.com/bin/wadredir?req=clickthru&siteid=274507&pageid=1.1 target=_new><IMG src=http://van.ads.link4ads.com/bin/wadredir?req=ad&tag=img&siteid=274507&pageid=1.1&VPOS=TOP&topcat=%subtype&subcat=%categoryid&tag=script&mode=via&time=6741946 width=120 height=180 Alt="Click Here!"></A></noscript>
+</script>
+<a href="index.asp?layout=search_help" onclick="openWindow();return false;"><font color="#666666">Help</font></a></b></td>
+</tr>
+<tr> 
+<td colspan="2"><select name="page">
+<option value="all">All</option>
+<option value="news">News</option>
+<option value="columns">Columns</option>
+<option value="reviews">Reviews</option>
+<option value="people">People</option>
+<option value="events">Events</option>
+<option value="vpage">VPage</option>
+</select></td>
+</tr>
+<tr> 
+<td><input type="text" name="query" size="14" value=""></td>
+<td valign="bottom"><input type="image" src="http://a330.g.akamai.net/7/330/2540/f455877147801e/www.variety.com/graphics/v_go3.gif" width="24" height="25" alt="go" border="0"></td>
+</tr></tbody></table><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="4" height="1"><br>
 <table width="100%" cellspacing="0" cellpadding="0" border="0">
-<tbody><tr><td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td></tr>
-<tr><td class="rightNavBorder"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
-<tr><td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td></tr>
-<tr><td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt="">
-<img src="http://a330.g.akamai.net/7/330/2540/fd001fbd2f950d/www.variety.com/graphics/rt-hdr-spotlights2.gif" alt="Spotlights" width="78" height="11">
+<tbody><tr>
+<td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td>
+</tr>
+<tr>
+<td class="rightnavBorder"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
+</tr>
+<tr>
+<td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td>
+</tr>
+</tbody></table>
+<center><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="6" border="0"><br clear="all"><!-- Begin Top 120x180 -->
+<script language="JavaScript">
+<!--
+	var tile = tile + 1;
+	document.write('<SCR'+'IPT language="JavaScript" SRC="http://ad.doubleclick.net/adj/variety.dart/'+ pagename + ';sz=120x180;tile=' + tile + ';ord='+ ord +'?">');
+	document.write ('<A HREF="http://ad.doubleclick.net/jump/variety.dart/'+ pagename + ';abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=120x180;tile=' + tile + ';ord='+ ord +'?" target="_top">');
+	document.write('<IMG SRC="http://ad.doubleclick.net/ad/variety.dart/'+ pagename + ';abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=120x180;tile=' + tile + ';ord='+ ord +'?" border=0 width="120" height="180"></A>');
+	document.write('<' + '/SCRIPT>');
+
+//-->
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/variety.dart/;sz=120x180;tile=3;ord=1582149442687?"><A HREF="http://ad.doubleclick.net/jump/variety.dart/;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=120x180;tile=3;ord=1582149442687?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/variety.dart/;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=120x180;tile=3;ord=1582149442687?" border=0 width="120" height="180"></A></script>
+
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/variety.dart/;sz=120x180;ord=4449817?"><IMG SRC="http://ad.doubleclick.net/ad/variety.dart/;sz=120x180;ord=4449817?" border=0 width="120" height="180"></A>
+</noscript>
+<!-- End Top 120x180 --><!--
+<table width=100% cellspacing=0 cellpadding=0 border=0>
+<tr><td><img src=http://www.variety.com/images/spacer.gif width=1 height=4 alt=""></td></tr>
+<tr><td class=rightNavBorder><img src=http://www.variety.com/images/spacer.gif width=1 height=1 alt=""></td></tr>
+<tr><td><img src=http://www.variety.com/images/spacer.gif width=1 height=4 alt=""></td></tr>
+<tr><td><img src=http://www.variety.com/images/spacer.gif width=2 height=1 alt="">
+<img src=http://www.variety.com/graphics/rt-hdr-spotlights2.gif alt="Spotlights" width=78 height=11>
 </td></tr>
-<tr><td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td></tr>
-<tr><td align="center"><a href="http://www2.variety.com/lwsa2001/"><img src="http://a330.g.akamai.net/7/330/2540/89f1ca5923bc40/www.variety.com/graphics/spot_lwsa2001.jpg" width="120" height="60" alt="Laureus World Sports Awards" border="0"></a></td></tr>
-<tr><td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td></tr>
-<tr><td align="center"><a href="http://www.variety.com/index.asp?layout=summer2001"><img src="http://a330.g.akamai.net/7/330/2540/5276f7f6a1731a/www.variety.com/graphics/spot_summer2001.gif" width="120" height="60" alt="Variety's Summer Movie Guide" border="0"></a></td></tr>
-<tr><td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td></tr>
-</tbody></table></center><table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr><td><img src=http://www.variety.com/images/spacer.gif width=1 height=4 alt=""></td></tr>
+<tr><td align=center><a href=http://www.variety.com/index.asp?layout=showtime25&articleID=VR1117801026><img src=http://www.variety.com/graphics/spot_showtime25.jpg width=120 height=60 alt="Showtime At 25" border=0></a></td></tr>
+<tr><td><img src=http://www.variety.com/images/spacer.gif width=1 height=4 alt=""></td></tr>
+<tr><td align=center><a href=http://www.variety.com/index.asp?layout=summer2001><img src=http://www.variety.com/graphics/spot_summer2001.gif width=120 height=60 alt="Variety's Summer Movie Guide" border=0></a></td></tr>
+<tr><td><img src=http://www.variety.com/images/spacer.gif width=1 height=4 alt=""></td></tr>
+</table>
+--></center><table width="100%" cellspacing="0" cellpadding="0" border="0">
 <tbody><tr><td align="center"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td></tr>
 <tr><td align="center" class="rightNavBorder"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
 <tr><td align="center"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td></tr></tbody></table><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""><img src="http://a330.g.akamai.net/7/330/2540/86a4d84a869748/www.variety.com/graphics/rt-hdr-stockwatch.gif" width="88" height="11" alt="Stock Watch">
@@ -744,70 +808,71 @@ if (dept=='film'){
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=AOL&amp;search=list">AOL</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">51.98</td>
-<td class="stockbox" align="right" width="42" nowrap="">-0.77</td>
+<td class="stockbox" align="right" width="50" nowrap="">32.98</td>
+<td class="stockbox" align="right" width="42" nowrap="">-0.31</td>
 <td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.variety.com/graphics/arrow-down.gif" width="10" height="10" alt="Down"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=CMCSK&amp;search=list">CMCSK</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">40.63</td>
-<td class="stockbox" align="right" width="42" nowrap="">0.06</td>
-<td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/824ad9d4923e01/www.variety.com/graphics/arrow-up1.gif" width="10" height="10" alt="Up"></td>
+<td class="stockbox" align="right" width="50" nowrap="">38.64</td>
+<td class="stockbox" align="right" width="42" nowrap="">-1.02</td>
+<td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.variety.com/graphics/arrow-down.gif" width="10" height="10" alt="Down"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=DIS&amp;search=list">DIS</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">31.29</td>
-<td class="stockbox" align="right" width="42" nowrap="">-0.43</td>
+<td class="stockbox" align="right" width="50" nowrap="">20.97</td>
+<td class="stockbox" align="right" width="42" nowrap="">-0.63</td>
 <td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.variety.com/graphics/arrow-down.gif" width="10" height="10" alt="Down"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=GE&amp;search=list">GE</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">49.23</td>
-<td class="stockbox" align="right" width="42" nowrap="">0.23</td>
+<td class="stockbox" align="right" width="50" nowrap="">37.65</td>
+<td class="stockbox" align="right" width="42" nowrap="">0.60</td>
 <td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/824ad9d4923e01/www.variety.com/graphics/arrow-up1.gif" width="10" height="10" alt="Up"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=MGM&amp;search=list">MGM</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">22.96</td>
-<td class="stockbox" align="right" width="42" nowrap="">0.37</td>
-<td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/824ad9d4923e01/www.variety.com/graphics/arrow-up1.gif" width="10" height="10" alt="Up"></td>
+<td class="stockbox" align="right" width="50" nowrap="">19.00</td>
+<td class="stockbox" align="right" width="42" nowrap="">-0.87</td>
+<td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.variety.com/graphics/arrow-down.gif" width="10" height="10" alt="Down"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=NWS&amp;search=list">NWS</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">35.94</td>
-<td class="stockbox" align="right" width="42" nowrap="">0.22</td>
+<td class="stockbox" align="right" width="50" nowrap="">31.00</td>
+<td class="stockbox" align="right" width="42" nowrap="">0.02</td>
 <td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/824ad9d4923e01/www.variety.com/graphics/arrow-up1.gif" width="10" height="10" alt="Up"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=SNE&amp;search=list">SNE</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">78.80</td>
-<td class="stockbox" align="right" width="42" nowrap="">-0.39</td>
-<td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.variety.com/graphics/arrow-down.gif" width="10" height="10" alt="Down"></td>
+<td class="stockbox" align="right" width="50" nowrap="">46.20</td>
+<td class="stockbox" align="right" width="42" nowrap="">0.92</td>
+<td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/824ad9d4923e01/www.variety.com/graphics/arrow-up1.gif" width="10" height="10" alt="Up"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=T&amp;search=list">T</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">21.37</td>
-<td class="stockbox" align="right" width="42" nowrap="">-0.12</td>
+<td class="stockbox" align="right" width="50" nowrap="">16.13</td>
+<td class="stockbox" align="right" width="42" nowrap="">-0.02</td>
 <td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.variety.com/graphics/arrow-down.gif" width="10" height="10" alt="Down"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=USAI&amp;search=list">USAI</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">25.87</td>
-<td class="stockbox" align="right" width="42" nowrap="">-0.15</td>
+<td class="stockbox" align="right" width="50" nowrap="">23.82</td>
+<td class="stockbox" align="right" width="42" nowrap="">-0.01</td>
 <td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.variety.com/graphics/arrow-down.gif" width="10" height="10" alt="Down"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=V&amp;search=list">V</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">63.85</td>
-<td class="stockbox" align="right" width="42" nowrap="">0.10</td>
+<td class="stockbox" align="right" width="50" nowrap="">48.95</td>
+<td class="stockbox" align="right" width="42" nowrap="">0.42</td>
 <td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/824ad9d4923e01/www.variety.com/graphics/arrow-up1.gif" width="10" height="10" alt="Up"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
 <td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=VIA.B&amp;search=list">VIA.B</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">56.68</td>
-<td class="stockbox" align="right" width="42" nowrap="">-0.08</td>
+<td class="stockbox" align="right" width="50" nowrap="">41.18</td>
+<td class="stockbox" align="right" width="42" nowrap="">-0.82</td>
 <td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.variety.com/graphics/arrow-down.gif" width="10" height="10" alt="Down"></td>
-</tr><script language="JavaScript">
+</tr></tbody></table><table cellpadding="0" cellspacing="0" width="150" border="0">
+<script language="JavaScript">
 function ConvertDow( strName ) {
 if (strName.substr(0,1) == "D") {
 document.write("DJIA");
@@ -817,29 +882,29 @@ document.write(strName);
 }
 </script>
 
-<tr><td class="stockbox" colspan="5"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="8" alt=""></td></tr><tr>
+<tbody><tr><td class="stockbox" colspan="5"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="8" alt=""></td></tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
-<td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=COMPX&amp;search=list"><script language="javascript">
-var alt = 'NASDAQ+COMPOSITE'.toLowerCase();
+<td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=COMPX&amp;search=listBottom"><script language="javascript">
+var alt = '%name'.toLowerCase();
 document.write('')</script><script language="javascript">ConvertDow('NASDAQ')</script>NASDAQ</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">2,150.01</td>
-<td class="stockbox" align="right" width="42" nowrap="">0.57</td>
+<td class="stockbox" align="right" width="50" nowrap="">1,953.17</td>
+<td class="stockbox" align="right" width="42" nowrap="">6.66</td>
 <td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/824ad9d4923e01/www.variety.com/graphics/arrow-up1.gif" width="10" height="10" alt="Up"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
-<td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=INDU&amp;search=list"><script language="javascript">
-var alt = 'DOW+JONES+INDUSTRIALS'.toLowerCase();
+<td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=INDU&amp;search=listBottom"><script language="javascript">
+var alt = '%name'.toLowerCase();
 document.write('')</script><script language="javascript">ConvertDow('DOW JON')</script>DJIA</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">10,986.37</td>
-<td class="stockbox" align="right" width="42" nowrap="">-4.04</td>
-<td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/609e8644719997/www.variety.com/graphics/arrow-down.gif" width="10" height="10" alt="Down"></td>
+<td class="stockbox" align="right" width="50" nowrap="">9,811.15</td>
+<td class="stockbox" align="right" width="42" nowrap="">44.70</td>
+<td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/824ad9d4923e01/www.variety.com/graphics/arrow-up1.gif" width="10" height="10" alt="Up"></td>
 </tr><tr>
 <td width="2"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""></td>
-<td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=INX&amp;search=list"><script language="javascript">
-var alt = 'S&P+500'.toLowerCase();
+<td class="stockbox" nowrap=""><a href="index.asp?layout=ticker_quote&amp;searchType=symbol&amp;ticker=INX&amp;search=listBottom"><script language="javascript">
+var alt = '%name'.toLowerCase();
 document.write('')</script><script language="javascript">ConvertDow('S&P 500')</script>S&amp;P 500</a></td>
-<td class="stockbox" align="right" width="50" nowrap="">1,261.30</td>
-<td class="stockbox" align="right" width="42" nowrap="">0.63</td>
+<td class="stockbox" align="right" width="50" nowrap="">1,123.07</td>
+<td class="stockbox" align="right" width="42" nowrap="">3.69</td>
 <td class="stockbox" width="10"><img src="http://a330.g.akamai.net/7/330/2540/824ad9d4923e01/www.variety.com/graphics/arrow-up1.gif" width="10" height="10" alt="Up"></td>
 </tr></tbody></table><table width="150" border="0" cellpadding="0" cellspacing="0">
 <form action="stockparser.asp"></form>
@@ -848,216 +913,140 @@ document.write('')</script><script language="javascript">ConvertDow('S&P 500')</
 <tbody><tr><td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td></tr>
 <tr><td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""><img src="http://a330.g.akamai.net/7/330/2540/3f66b02210f864/www.variety.com/graphics/rt-subhd-get-quote.gif" width="132" height="11" border="0" alt="Get Quote/Company Info"></td></tr>
 <tr><td><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td><input type="radio" name="searchType" value="symbol" checked=""></td><td class="stocksMenu">Ticker Symbol</td><td><input type="radio" name="searchType" value="name"></td><td class="stocksMenu">Company Name</td></tr></tbody></table></td></tr><tr><td valign="middle"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td colspan="2" align="center"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="2" height="1" alt=""><input type="text" name="ticker" size="14" tabindex="101" maxlength="75"></td><td class="stocksMenu"><input type="image" src="http://a330.g.akamai.net/7/330/2540/f455877147801e/www.variety.com/graphics/v_go3.gif" width="24" height="25" alt="Go" border="0"></td></tr></tbody></table></td></tr>
-<tr><td class="stocksMenu">&nbsp;20 min. delay on quotes</td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="0" width="150">
-
-<tbody><tr><td><img src="http://a330.g.akamai.net/7/330/2540/5f289f764f6120/www.variety.com/graphics/rt-hdr-box-office_weekend.gif" border="0" height="16" width="150" alt="Box Office Weekend Top Ten Estimate"></td></tr>
-
-<tr><td class="BObg">&nbsp;Weekend:<br>
-&nbsp;Sun.,  June 3, 2001</td></tr>
-
+<tr><td class="stocksMenu">&nbsp;20 min. delay on quotes</td></tr></tbody></table>&nbsp;<br>
+<!--center><span class=contentSmall><font color=#006633><b>Sponsored by:</b></font><br></span><img src=graphics/Pr_Sub_Gr.gif width=88 height=31 alt="Sample 88x31 ad"></center--><table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr><td><img src="http://a330.g.akamai.net/7/330/2540/5f289f764f6120/www.variety.com/graphics/rt-hdr-box-office.gif" border="0" height="16" width="150" alt="Box Office Top Ten"></td></tr>
+<tr><td class="BObg">&nbsp;<font color="#006633"><b>Weekly</b></font><br>
+&nbsp;Thu.,  Dec. 13, 2001</td></tr>
 <tr><td align="right" class="BObg"><b>in millions</b></td></tr>
-
 <tr><td class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
 </tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" width="150">
-
-<tbody><tr valign="top"><td class="BObg"><table cellspacing="0" cellpadding="0" border="0">
-
-<tbody><tr valign="top">
+<table border="0" cellspacing="0" cellpadding="0" width="150"><tbody><tr valign="top">
+<td class="BObg"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top">
 <td align="right" width="10" class="BObg">1</td>
 <td width="5" class="BObg"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td class="BObg">Pearl Harbor</td></tr></tbody></table></td>
+<td class="BObg">Ocean's Eleven</td></tr></tbody></table></td>
 <td width="1" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
-<td align="right" class="BObg">$30.0</td></tr>
-
-<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
-
-<tr valign="top"><td class="BObg"><table cellspacing="0" cellpadding="0" border="0">
-
-<tbody><tr valign="top">
+<td align="right" class="BObg">$50.23</td></tr>
+<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr><tr valign="top">
+<td class="BObg"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top">
 <td align="right" width="10" class="BObg">2</td>
 <td width="5" class="BObg"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td class="BObg">Shrek</td></tr></tbody></table></td>
+<td class="BObg">Harry Potter and the Sorcerer's Stone</td></tr></tbody></table></td>
 <td width="1" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
-<td align="right" class="BObg">$28.4</td></tr>
-
-<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
-<tr valign="top"><td class="BObg"><table cellspacing="0" cellpadding="0" border="0">
-
-<tbody><tr valign="top">
+<td align="right" class="BObg">$18.43</td></tr>
+<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr><tr valign="top">
+<td class="BObg"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top">
 <td align="right" width="10" class="BObg">3</td>
 <td width="5" class="BObg"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td class="BObg">The Animal</td></tr></tbody></table></td>
+<td class="BObg">Behind Enemy Lines</td></tr></tbody></table></td>
 <td width="1" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
-<td align="right" class="BObg">$19.8</td></tr>
-
-<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
-<tr valign="top"><td class="BObg"><table cellspacing="0" cellpadding="0" border="0">
-
-<tbody><tr valign="top">
+<td align="right" class="BObg">$10.26</td></tr>
+<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr><tr valign="top">
+<td class="BObg"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top">
 <td align="right" width="10" class="BObg">4</td>
 <td width="5" class="BObg"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td class="BObg">Moulin Rouge</td></tr></tbody></table></td>
+<td class="BObg">Monsters, Inc.</td></tr></tbody></table></td>
 <td width="1" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
-<td align="right" class="BObg">$14.2</td></tr>
-
-<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
-<tr valign="top"><td class="BObg"><table cellspacing="0" cellpadding="0" border="0">
-
-<tbody><tr valign="top">
+<td align="right" class="BObg">$8.04</td></tr>
+<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr><tr valign="top">
+<td class="BObg"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top">
 <td align="right" width="10" class="BObg">5</td>
 <td width="5" class="BObg"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td class="BObg">What's The Worst That Can Happen?/td&gt;</td></tr></tbody></table></td>
+<td class="BObg">Spy Game</td></tr></tbody></table></td>
 <td width="1" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
-<td align="right" class="BObg">$13.3</td></tr>
-
-<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
-<tr valign="top"><td class="BObg"><table cellspacing="0" cellpadding="0" border="0">
-
-<tbody><tr valign="top">
+<td align="right" class="BObg">$5.89</td></tr>
+<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr><tr valign="top">
+<td class="BObg"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top">
 <td align="right" width="10" class="BObg">6</td>
 <td width="5" class="BObg"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td class="BObg">The Mummy Returns</td></tr></tbody></table></td>
+<td class="BObg">Black Knight</td></tr></tbody></table></td>
 <td width="1" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
-<td align="right" class="BObg">$7.54</td></tr>
-
-<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
-<tr valign="top"><td class="BObg"><table cellspacing="0" cellpadding="0" border="0">
-
-<tbody><tr valign="top">
+<td align="right" class="BObg">$3.81</td></tr>
+<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr><tr valign="top">
+<td class="BObg"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top">
 <td align="right" width="10" class="BObg">7</td>
 <td width="5" class="BObg"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td class="BObg">A Knight's Tale</td></tr></tbody></table></td>
+<td class="BObg">Shallow Hal</td></tr></tbody></table></td>
 <td width="1" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
-<td align="right" class="BObg">$3.4</td></tr>
-
-<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
-<tr valign="top"><td class="BObg"><table cellspacing="0" cellpadding="0" border="0">
-
-<tbody><tr valign="top">
+<td align="right" class="BObg">$3.27</td></tr>
+<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr><tr valign="top">
+<td class="BObg"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top">
 <td align="right" width="10" class="BObg">8</td>
 <td width="5" class="BObg"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td class="BObg">Bridget Jones's Diary</td></tr></tbody></table></td>
+<td class="BObg">Out Cold</td></tr></tbody></table></td>
 <td width="1" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
-<td align="right" class="BObg">$2.1</td></tr>
-
-<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
-
-<tr valign="top"><td class="BObg"><table cellspacing="0" cellpadding="0" border="0">
-
-<tbody><tr valign="top">
+<td align="right" class="BObg">$1.70</td></tr>
+<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr><tr valign="top">
+<td class="BObg"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top">
 <td align="right" width="10" class="BObg">9</td>
 <td width="5" class="BObg"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td class="BObg">Angel Eyes</td></tr></tbody></table></td>
+<td class="BObg">Amelie</td></tr></tbody></table></td>
 <td width="1" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
-<td align="right" class="BObg">$1.8</td></tr>
-
-<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
-
-<tr valign="top"><td class="BObg"><table cellspacing="0" cellpadding="0" border="0">
-
-<tbody><tr valign="top">
+<td align="right" class="BObg">$1.44</td></tr>
+<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr><tr valign="top">
+<td class="BObg"><table cellspacing="0" cellpadding="0" border="0"><tbody><tr valign="top">
 <td align="right" width="10" class="BObg">10</td>
 <td width="5" class="BObg"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="5" height="1" alt=""></td>
-<td class="BObg">Memento</td></tr></tbody></table></td>
+<td class="BObg">Domestic Disturbance</td></tr></tbody></table></td>
 <td width="1" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
-<td align="right" class="BObg">$1.1</td></tr>
-
-<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr>
-
-<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr></tbody></table>
-<table border="0" cellspacing="0" cellpadding="2" width="150">
-
-<tbody><tr align="right"><td background="http://a330.g.akamai.net/7/330/2540/f9f1ebdfcc51bf/www.variety.com/graphics/rt-hdr-box-office-bkgrnd.gif"><a href="index.asp?layout=b_o_weekend&amp;dept=Film" class="contentSmall"><font color="#ffcc00">Estimate.<br>Full chart updated Mon.</font></a></td>
+<td align="right" class="BObg">$1.15</td></tr>
+<tr><td colspan="3" class="BOline"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td></tr></tbody></table><table border="0" cellspacing="0" cellpadding="2" width="150"><tbody><tr align="right"><td class="contentSmall" align="center">&nbsp;<br><a href="index.asp?layout=b_o_layout&amp;dept=Film"><b>view 
+full charts</b></a><br>&nbsp;</td>
 </tr>
 </tbody></table>
+<center><span class="contentSmall"><font color="#006633"><b>Sponsored by:</b></font><br></span>
+
+<!-- Begin BO 120x60 Button -->
+<script language="JavaScript">
+<!--
+  	var tile = tile + 1;
+
+	document.write('<A HREF=http://ad.doubleclick.net/jump/variety.dart/boxoffice;sz=120x60;tile=' + tile + ';ord=' + ord + '?>');
+	document.write('<IMG SRC=http://ad.doubleclick.net/ad/variety.dart/boxoffice;sz=120x60;tile=' + tile + ';ord=' + ord + '? border=0 width=120 height=60>');
+	document.write('</A>');
+
+//-->
+</script><a href="http://ad.doubleclick.net/jump/variety.dart/boxoffice;sz=120x60;tile=4;ord=1582149442687?"><img src="http://ad.doubleclick.net/ad/variety.dart/boxoffice;sz=120x60;tile=4;ord=1582149442687?" border="0" width="120" height="60"></a>
+
+<!-- End BO 120x60 Button -->
 
 
-<center><script language="javascript" type="text/javascript">
-var mdesc='-1';
-var lyout='online_login';
-var lyout=lyout.toLowerCase();
-var tStamp= ((10000000 - 1000000 + 1) * Math.random() + 1000000);
-var sType;
-var lyt = new Array('news_front','news_layout');
-var lyt2 = new Array('columns_front','columns_top5','columns_categories');
-var lyt3 = new Array('reviews_front','reviews_layout','reviews_archive','reviews_tv_layout');
-var colID = new Array('1','2','3','4','5','6','7','8','9','1001','1002','1007');
-var newsID = new Array('13','14','15','16','17','18','19','20','21','22','23','1000','1009','1011');
-var reviewsID = new Array('31');
-var linkVal = '<SCRIPT SRC=http:/' + '/van.ads.link4ads.com/bin/wadredir?req=ad&siteid='
-var stId='274507'
-var flag=true
-var key = 0
-if(lyout=='front_page'){
-stId = '26970';
-	linkVal += stId+'&pageid=4.1&VPOS=BOT&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-	flag=false;key=1
-}
+</center>
 
-if(mdesc=='31'){stId='274743'}
-
-for(j=0;j<lyt3.length;j++){
-	if(lyout == lyt3[j] && flag==true){
-		sType = 'REVIEWS'
-		linkVal += stId+'&pageid=4.1&VPOS=BOT&topcat='+ sType +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
+<table width="100%" cellspacing="0" cellpadding="0" border="0">
+<tbody><tr>
+<td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td></tr>
+<tr> 
+<td class="rightnavBorder"><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="1" alt=""></td>
+</tr>
+<tr>
+<td><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="4" alt=""></td></tr>
+</tbody></table>
+<center><img src="http://a330.g.akamai.net/7/330/2540/72e040039c5a29/www.variety.com/images/spacer.gif" width="1" height="6" border="0"><br clear="all"><!-- Begin Bottom 120x180 -->
+<script language="JavaScript">
+<!--
+	var tile = tile + 1;
+	if(pagename != ''){
+		var pagename = pagename + '_bot';
 	}
-}
+	document.write('<SCR'+'IPT language="JavaScript" SRC="http://ad.doubleclick.net/adj/variety.dart/'+ pagename + ';sz=120x180;tile=' + tile + ';ord='+ ord +'?">');
+	document.write ('<A HREF="http://ad.doubleclick.net/jump/variety.dart/'+ pagename + ';abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=120x180;tile=' + tile + ';ord='+ ord +'?" target="_top">');
+	document.write('<IMG SRC="http://ad.doubleclick.net/ad/variety.dart/'+ pagename + ';abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=120x180;tile=' + tile + ';ord='+ ord +'?" border=0 width="120" height="180"></A>');
+	document.write('<' + '/SCRIPT>');
 
+//-->
+</script><script language="JavaScript" src="http://ad.doubleclick.net/adj/variety.dart/;sz=120x180;tile=5;ord=1582149442687?"><A HREF="http://ad.doubleclick.net/jump/variety.dart/;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=120x180;tile=5;ord=1582149442687?" target="_top"><IMG SRC="http://ad.doubleclick.net/ad/variety.dart/;abr=!ie4;abr=!ie5;abr=!nn2;abr=!nn3;abr=!nn4;sz=120x180;tile=5;ord=1582149442687?" border=0 width="120" height="180"></A></script>
 
-
-for(x=0;x<lyt.length;x++){
-	if(lyout == lyt[x] && flag==true){
-		sType = 'NEWS'
-		linkVal += stId+'&pageid=4.1&VPOS=BOT&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
-	}
-}
-for(y=0;y<lyt2.length;y++){
-	if(lyout == lyt2[y] && flag==true){
-		sType = 'COLUMNS'
-		linkVal += stId+'&pageid=4.1&VPOS=BOT&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
-	}
-}
-
-for(z=0;z<colID.length;z++){
-	if(mdesc == colID[z] && flag==true){
-		sType = 'COLUMNS'
-		linkVal += stId+'&pageid=4.1&VPOS=BOT&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
-	}
-}
-
-for(a=0;a<newsID.length;a++){
-	if(mdesc == newsID[a] && flag==true){
-		sType = 'NEWS'
-		linkVal += stId+'&pageid=4.1&VPOS=BOT&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
-	}
-}
-
-for(a=0;a<reviewsID.length;a++){
-	if(mdesc == reviewsID[a] && flag==true){
-		sType = 'REVIEWS'
-		linkVal += stId+'&pageid=4.1&VPOS=BOT&topcat='+ sType +'&subcat='+ mdesc +'&tag=script&mode=via&time='+ tStamp +' type=text/javascript>' + '<' + '/SCRIPT>'
-		flag=false;key=1
-	}
-}
-
-if(key==0){ 	linkVal += stId+'&pageid=4.1&VPOS=BOT&tag=script type=text/javascript>' + '<' + '/SCRIPT>'
-}
-
-document.write(linkVal);
-</script><script src="http://van.ads.link4ads.com/bin/wadredir?req=ad&amp;siteid=274507&amp;pageid=4.1&amp;VPOS=BOT&amp;tag=script" type="text/javascript"></script>
-<noscript><A HREF=http://van.ads.link4ads.com/bin/wadredir?req=clickthru&siteid=274507&pageid=1.1 target=_top><IMG src=http://van.ads.link4ads.com/bin/wadredir?req=ad&tag=img&siteid=274507&pageid=1.1&VPOS=BOT&topcat=%subtype&subcat=%categoryid&tag=script&mode=via&time=6741946 width=120 height=180 Alt="Click Here!"></A></noscript></center>
+<noscript>
+<A HREF="http://ad.doubleclick.net/jump/variety.dart/;sz=120x180;ord=4449817?"><IMG SRC="http://ad.doubleclick.net/ad/variety.dart/;sz=120x180;ord=4449817?" border=0 width="120" height="180"></A>
+</noscript>
+<!-- End Bottom 120x180 --></center>
 </td>
 </tr>
 <tr>
 <td colspan="2"><img src="http://a330.g.akamai.net/7/330/2540/a826bd55017ff4/www.variety.com/graphics/rt_nav_curve.gif" width="152" height="20" alt=""></td>
 </tr>
-</tbody></table><img src="http://van.ads.link4ads.com/bin/wadredir?req=ad&amp;siteid=277588&amp;pageid=1.1&amp;mode=via" width="1" height="1">
+</tbody></table>
 
 
 </body></html>
