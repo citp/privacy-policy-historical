@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603222700id_/http%3A//www.quickbase.com/p/privacy.asp%3Fps%3DHM) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickbase.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206022700id_/http%3A//www.quickbase.com/p/privacy.asp%3Fps%3DHM) for the most accurate reproduction.*
 
 # QuickBase | QuickBase.com privacy statement
 
   
-At Intuit, we dedicate ourselves to revolutionizing the way individuals manage their financial lives and small businesses manage their business. In that effort, we respect and protect the privacy of those who visit or use our Web sites. When we collect information from you, we want you to know how it is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines. Intuit is a Premier Sponsor of TRUSTe and a member of the TRUSTe Privacy Program.
+At Intuit, we dedicate ourselves to revolutionizing the way individuals manage their financial lives and small businesses manage their business. In that effort, we respect and protect the privacy of those who visit or use our Web sites. When we collect information from you, we want you to know how it is used.
 
 This privacy statement defines privacy aspects specific to the QuickBase.com Web site and affiliated Intuit Web servers (referred to as the “QuickBase Web site”).
 
@@ -43,6 +43,9 @@ QuickBase Workgroups
 QuickBase Workgroups allow access and control over database information dependent upon the roles assigned to specific members of the workgroup.
 
 A workgroup owner can delete your data without your permission. However, the workgroup owner will not have privileges to view or alter the data unless you grant such access. Workgroup members will be able to see each other's e-mail addresses in addition to their QuickBase screen names. This will increase your ability to correctly identify a QuickBase user within your workgroup, which is helpful when granting access permissions. Workgroup administrators will also be able to deactivate a workgroup member's user account. Please exercise caution when assigning workgroup administration rights.
+
+QuickBase Developer Program  
+When you apply for the QuickBase Developer Program, you are required to provide your company's address, contact information, and tax ID (or social security number) in order for QuickBase to contact you regarding the QuickBase Developer program and to properly process payments. On occasion, we may use your contact information, such as your name, billing address, and e-mail address, to send you other QuickBase related communications. Intuit does not share your contact information except as disclosed in this privacy statement.
 
 Technical Support and Feedback  
 To obtain technical support, we ask you to provide your name and e-mail address. This information may be used to contact you regarding your technical support request. We also offer you the opportunity to provide feedback. When submitting feedback to us, your name and e-mail address may be used to respond to your comments or suggestions.
@@ -105,8 +108,7 @@ We use industry standard security safeguards to help protect the personally iden
 We work to protect personally identifiable information stored on the site’s servers from unauthorized access using industry standard computer security products, such as firewalls, as well as carefully developed security procedures and practices. All Intuit employees must review and sign a written statement of these practices, which include limiting access to sensitive information to only those employees who require the information and enforcing strict password protocols for all employees. We use both internal and external resources to review the adequacy of our security measures on a regular basis.  
   
 We provide various ways to contact us about our information practices and other aspects of privacy  
-Questions regarding the QuickBase Web site’s privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web site should be directed to us at [https://privacy.intuit.com](https://privacy.intuit.com/cpi/do/home?p_sourceid=12) or by writing to us at Intuit Inc., Customer Communication, 2800 East Commerce Center Place, Tucson, AZ 85206.
+Questions regarding the QuickBase Web site’s privacy statement, our online privacy policy, our information practices or other aspects of privacy on our Web site should be directed to us at [https://privacy.intuit.com](https://privacy.intuit.com/cpi/do/home?p_sourceid=12) or by writing to us at Intuit Inc., Customer Communication, 2800 East Commerce Center Place, Tucson, AZ 85706.
 
-If we have not responded to your inquiry, or if your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://www.truste.org/users/users_watchdog.html).
-
-Last updated January 10, 2003
+  
+Last updated Sept 12, 2003
