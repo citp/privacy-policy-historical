@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2003-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030607202814id_/http%3A//herroom.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203153615id_/http%3A//www.herroom.com/privacy.cfm) for the most accurate reproduction.*
 
 # Lingerie, bras, panties, slips and shapewear from HerRoom.com
 
@@ -19,7 +19,7 @@ We use order forms that allow you to buy our products. We collect your name, e-m
 
 When you enter a contest or other promotional feature, we may collect your name, e-mail address, and other demographic information, such as zip code, age, or income level. We use this contact information to send you information about our company and to contact you, if necessary. 
 
-We also use data collected when you register, enter a contest, and make purchases to enhance and personalize your shopping experience. If you give us permission, we will send you email about HerRoom updates and product offerings. 
+We also use data collected when you register, enter a contest, and make purchases to enhance and personalize your shopping experience. We may also send you email about HerRoom updates and product offerings. You can unsubscribe to these emails at any time. 
 
 We use your IP address to help diagnose problems with our server and to administer this website. We log IP addresses for the purposes of system administration, to track a user's specific session, or to investigate cases of fraud or other security violations on our site. Any personally identifiable information contained in our IP address logs will be treated with the same respect for your privacy that order and registration information is treated. 
 
