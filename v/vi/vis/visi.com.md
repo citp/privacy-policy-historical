@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the visi.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207011748id_/http%3A//home.visi.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visi.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207080145id_/http%3A//home.visi.com/about/privacy.html) for the most accurate reproduction.*
 
 # VISI.com | About VISI.com | Privacy Statement
+
+| 
 
 Effective January 14, 2003
 
@@ -46,4 +48,5 @@ Users may request all changes by either: (a) sending an e-mail request to: [priv
 > 
 > **d.   Entire Agreement.**   This Privacy Statement contains the entire agreement between VISI and User regarding VISI's collection and use of information from User and supersedes any prior representations, advertisements, statements, proposals, negotiations, discussions, understandings, or agreements regarding the same subject matter. User acknowledges that it has not been induced to agree to the terms of this Privacy Statement by any representations or statements, oral or written, not expressly contained in this Privacy Statement.
 
-|  
+  
+
