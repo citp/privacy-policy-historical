@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203184614id_/http%3A//greenfieldonline.com/memberservices/Privstate.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfieldonline.com privacy policy that was archived on 2002-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020628020804id_/http%3A//www.greenfieldonline.com/memberservices/Privstate.htm) for the most accurate reproduction.*
 
 # Greenfield Online
 
-This overall Privacy Statement verifies that **Greenfield Online** is a member of the **TRUSTe** program and is in compliance with **TRUSTe** privacy principles. This statement discloses the privacy practices for the entire greenfieldonline.com website. 
+This overall Privacy Statement verifies that **Greenfield Online** is a member of the [**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html) program and is in compliance with [**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html) privacy principles. This statement discloses the privacy practices for the entire greenfieldonline.com website. 
 
-**TRUSTe** is an independent, nonprofit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because **Greenfield Online** wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed and audited for compliance by **TRUSTe**. When you visit a website displaying the **TRUSTe** mark, you can expect to be notified of the following: 
+[**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html) is an independent, nonprofit initiative whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. Because **Greenfield Online** wants to demonstrate its commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed and audited for compliance by [**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html). When you visit a website displaying the [**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html) mark, you can expect to be notified of the following: 
 
   * What information this site gathers/tracks about you. 
   * What this site does with the information it gathers/tracks. 
@@ -19,7 +19,7 @@ This overall Privacy Statement verifies that **Greenfield Online** is a member o
   * This site’s policy regarding legal disclaimers. 
   * This site’s policy regarding children's privacy.
 
-Questions regarding this statement should be directed to the **Greenfield Online** site coordinator at privacy@greenfieldonline.com or **TRUSTe** for clarification. To return to our site, please use the "Back" button on your browser. 
+Questions regarding this statement should be directed to the **Greenfield Online** site coordinator at privacy@greenfieldonline.com or [**TRUSTe**](http://www.truste.org/users/users_watchdog_intro.html) for clarification. To return to our site, please use the "Back" button on your browser. 
 
 ### Overall Privacy Commitment 
 
@@ -82,5 +82,3 @@ We may disclose personal information when required by law or in the good-faith b
 ### Children's Privacy
 
 **Greenfield Online** will not knowingly collect any information from any individual under the age of 13 without permission from his/her parents or legal guardian. **Greenfield Online** is in adherence to all COPPA rules and regulations. 
-
-[](https://www.truste.org/validate/347)
