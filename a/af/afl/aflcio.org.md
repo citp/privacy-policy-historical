@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aflcio.org privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205032209id_/http%3A//www.aflcio.org/siteguides/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aflcio.org privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610132140id_/http%3A//aflcio.org/siteguides/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
