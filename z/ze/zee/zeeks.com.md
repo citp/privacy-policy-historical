@@ -1,53 +1,109 @@
-> *The following text is extracted and transformed from the zeeks.com privacy policy that was archived on 2002-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020607191846id_/http%3A//www.zeeks.com/PT/SafetyPrivacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeeks.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204125458id_/http%3A//www.kaboose.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Kaboose, Inc - Privacy Policy
 
-**GENERAL INFORMATION**  
-Zeeks.com has created this privacy statement in order to demonstrate our firm commitment to privacy and to explain our information gathering and dissemination practices for this Web site. 
+  
 
-We do not require that anyone become a member of our site. We do not require a child or parent to disclose more personal information than is reasonably necessary to participate in any activity. 
 
-**CLUB ZEEKS**  
-Zeeks.com does not collect personal contact information from children, such as name or physical address. To Zeeks, all children are anonymous. Zeeks does however invite its users to provide their email address that we use solely to mail a notice to parents (in order to be made aware of new feature introductions, special offers or other information pertinent to the web site). Once the notice is emailed, we delete the email address from our system, and do not retain it unless you, the user, has requested to be kept informed. 
+WELCOME
 
-**INTERACTIVE FEATURES**  
-All visitors to Zeeks are given access to our interactive features. All users should practice safe computing, and parents should advise their children not to give out any personal information without their parent's permission. These features are open to all children that visit Zeeks.com and do not need membership. 
+Kaboose Inc. works hard to provide you with the best services, information and the highest quality interaction on the Internet. We respect the privacy of our users and the concerns of parents for their children visiting our sites.
 
-**Game Reviews**  
-ZeekGames, with hundreds of child-appropriate games, is one of the most popular areas of our site. In our Game Reviews, children can write their own reviews of the games. All the reviews are pre-screened for personal information and any other inappropriate content. We strip out any personal information submitted to us and delete it from our system, and we do not post any personal information. 
+The Internet is a vast resource and we encourage you to become actively involved in your child's online experience and urge you to participate in their development. In keeping with the Children's Online Privacy Protection Act (COPPA) we have created this privacy policy to demonstrate our firm commitment to our users' privacy and to explain our information gathering and dissemination practices.
 
-**Contests**  
-From time to time, we offer contests and sweepstakes to our visitors. We collect only the child's email address which we use only in order to enter them in the contest -- and their parent's email address, so that we can alert the parents that their child has entered the contest and give them a chance to ask us to remove their child's entry and information. We will only use this information to contact potential contest winners. If we need additional personal information, we will obtain that from the parent. Once a contest has ended, we delete all the personal information collected from children. 
+If you are interested in reading more about COPPA you can visit the FTC web site at <http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/>
 
-**ZeekCards**  
-Children can send three different types of cards; Emoz, Animated Cards and Zeeks Cards, which are electronic postcards, including our Tell-A-Friend postcards. Children may choose from a variety of pre-approved messages when sending cards, and may send them to anyone. The ZeekCards are available on our Web site only to the recipient, who is given a link to view the card. The user is required to enter a nickname but nothing more. No personal information is collected. The recipient's email address is removed once they have viewed their card. 
+PERSONALLY IDENTIFIABLE INFORMATION
 
-**Nikki's Place**  
-Children can submit questions or comments to the Zeeks family of characters. Some of the comments and responses are publicly posted. We delete all email and do not save it in a database. Messages that are publicly posted are pre-screened for personal information and any other inappropriate content. We strip out any personal information submitted to us and delete it from our system, and we do not post any personal information. 
+What We Collect And How We Use It
 
-**ZeekSearch**  
-Our search engine allows children to search appropriate Web sites. In addition, a word filter keeps children from searching other sites for information deemed inappropriate or harmful for children. 
+Anybody can access Kaboose. In particular, children can surf this site, view content and play some games without any personally identifiable information being collected. However, some activities may require that a person provide personally identifiable information. We do not collect more personally identifiable information than necessary to participate in any of the site's activities, and we do not sell or transfer any personally identifiable information collected at this site to third parties without consent.
 
-**Feedback**  
-We offer a feedback feature for all our users. There is a text box for users to write whatever they want to tell us. Also, users have the option of providing their email address, so that we can respond to them. Once we respond, we delete the email address and the feedback form from our system. 
+Kaboose does not collect more personally identifiable information from kids under 13 than is necessary for them to participate in our online activities. We urge parents to instruct their children never to give out their real names, addresses or phone numbers when using the Internet.
 
-**LINKS TO OTHER SITES**  
-We try to provide as safe and private an environment as possible at Zeeks.com. For the enjoyment of your child, we also link to other sites. We are not responsible for other sites, and we advise you to check their privacy policies as well. 
+We do not actively solicit, request, or re-use any information from visitors except in the following instances:
 
-**COOKIES AND OTHER INFORMATION**  
-Zeeks.com does not store any personal information in cookies. Our cookies simply contain a unique number for each member that identifies who is visiting our website. The information that the cookie number relates to is what we have gathered from members when they join, and related information gathered from parents during the permission process. The cookie number does not relate to any kind of personal tracking, surfing, browsing, clicks, etc. Some features of Zeeks.com may not function properly if you disable cookies in your browser. 
+Requests For Information and Feedback
 
-**ADVERTISING**  
-At this time we target ads by the content area of Zeeks such as Games, Nikki's Place, etc. We do not track any personal information on Zeeks and therefore do not provide any such information to advertisers. We can provide advertisers with aggregate information such as "30% of users did this...". 
+We offer a feedback feature so users can communicate with us. There is a text box for users to write whatever they want to tell us and they are invited to share certain information about themselves although it is not required. If people e-mail us with questions or comments and wish a reply, they need to provide an e-mail address or mailing address. Real names need not be used to request e-mail replies.
 
-**IP Addresses**  
-We do not attempt to use your IP address to identify you personally. Your IP address is used to gather broad demographic information. 
+If a user requests to receive communications from Kaboose (newsletters or company updates, for example) they need to provide a valid e-mail address. Real names need not be used to request newsletters.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
+Contests, Promotions and Electronic Mailing
 
-Zeeks.com, c/o Kaboose.com Inc.  
-505 University Avenue, Suite 1400  
-Toronto, ON M5G 1X3  
-[privacy@zeeks.com](mailto:privacy@zeeks.com)  
-416-593-3000 
+Email addresses that are submitted for entry in a contest or sweepstakes will only be used for the purpose of determining a winner. When entering, children under the age of 13 are required to provide the email address of a parent/guardian. Kaboose will send an email to the parent giving them the option of removing their child from the contest if they so choose. Should a user under the age of 13 be selected as the winner (depending on eligibility and legal requirements per the contest rules and regulations), Kaboose will notify that child that he/she has won and request the parent or guardian complete a release and waiver form so that we may award the prize. Also, if permission is granted by a parent/guardian, we may post the winner's first name, age and home state/province. Once the prize is awarded, only information related to the winner will be maintained for internal administrative purposes.
+
+Similarly, if a child wants to receive a newsletter, we will require a parent's email address so that we may notify the parent or guardian of the child's request and allow the parent or guardian the opportunity to rescind that specific request.
+
+Parents can request to have their child's information deleted and refuse to permit further collection of information by us. In order to do that, simply [contact us](javascript:openContactUs\(2,1\);).
+
+Cards
+
+Children can send different types of cards; Emoz, Animated Cards and Zeeks Cards, which are electronic postcards, including a Tell-A-Friend postcards. Children may choose from a variety of pre-approved messages when sending cards, and may send them to anyone they wish. The sender is required to enter a nickname but nothing more. No personal information is collected. The recipient's email address is removed once they have viewed their card.
+
+NON-PERSONAL INFORMATION COLLECTION
+
+Polls and Surveys
+
+From time to time we may ask our site visitors to answer survey questions. Surveys generally deal with the site, our products or categories of products. We may ask for age or age ranges, gender, and other non-personally identifiable information. No personally identifiable information is requested and the information collected from a child is not tied to any personally identifiable information that may have been previously provided. We may have agencies administering our surveys, but these agencies are acting solely on our behalf. We may post sample answers to polls or surveys at the site, no identifying information is ever included. Information gathered from polls and surveys are for internal use by Kaboose, but aggregate information may be shared with others.
+
+COOKIES AND TRACKING TECHNOLOGY
+
+This site uses cookie and tracking technology. A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a Web site's computers and stored on your computer's hard drive. Cookies are an essential part of how the Internet works today, and allow server computers to recognize your computer's browser when you return. This enables Web sites to store information about your preferences on its site. Since cookies are only text files, they cannot "run" on your computer and have no ability to search your computer for other information, or transmit it to anyone. Cookie and tracking technology is useful for gathering information such as browser type and operating system, tracking the number of visitors to the web site, and understanding how visitors use the site. Cookies can also help tailor the site to visitors' needs and help customize the site for visitors. For example, we may use cookies to keep track of game high scores or to make sure a visitor does not see the same information repeatedly. The site may also use cookies to deliver content specific to a visitor's interest. We use general IP address information to better understand how the site is utilized. Personal information cannot be collected via cookies and other tracking technology, however, if personally identifiable information was previously provided, cookies may be tied to such information. Aggregate, but not individual, cookie and tracking information may be shared with third parties.
+
+Third Party Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+SHARING INFORMATION
+
+Except for the following limited and necessary instances, we do not share personally identifiable information collected at this site with third parties:
+
+  * Kaboose has your consent to share the information;
+  * Kaboose needs to share your information to provide a product or service you have requested;
+  * Kaboose needs to send the information to companies who work on behalf of Kaboose to provide a product or service to you;
+  * Kaboose responds to subpoenas, court orders or legal process; or
+  * Kaboose finds that your actions while using Kaboose services violate the Kaboose Terms of Use; or any of our usage guidelines for specific products or services.
+
+
+
+Kaboose may sometimes share "general" information about our site visitors with our advertisers, potential partners, or other third parties. This information will only be provided in the aggregate.
+
+LINKS
+
+The content of the Kaboose Network is designed for family use. In addition to our own content, we also provide links to software publishers and sites children may be interested in. We make every effort to link only to sites with content suitable for all ages, but in the end, we cannot be responsible for what appears on other sites. Additionally, we cannot be responsible for the privacy policies and information gathering practices of those other sites.
+
+SECURITY, REVIEW AND DELETION OF INFORMATION
+
+Kaboose uses industry standard security measures to protect against the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we try our best to make sure that your transmissions to and from the Site are kept secure. Information is kept secure. Only authorized Kaboose employees and its agents (who have agreed to keep information secure) have access to information and only to help Kaboose administer the site. The limited personally identifiable information collected from a child is password protected.
+
+You may request at any time that the information collected about your child be deleted. Parents may contact us at privacy@kaboose.com about reviewing or deleting the information collected. You may also use this email address to contact us about any questions you may have about this policy or our practices.
+
+CONTACTING US
+
+If you have any questions about this privacy statement, the practices of this site you can contact us at:
+
+Kaboose Inc.  
+505 University Avenue  
+Suite 1400  
+Toronto, ON  
+M5G 1X3  
+Canada
+
+To contact Kaboose by e-mail please [click here](javascript:openContactUs\(\);).  
+416-593-6489 
+
+Kaboose hopes this document answers your questions and concerns about our privacy policies. Protecting the privacy of our visitors is vitally important to us. When Kaboose makes any changes to its Privacy Statement, the updated Privacy Statement will be posted on this page. We encourage you to periodically review this Privacy Statement.
+
+© 2004 Kaboose Inc., All Rights Reserved
+
+Thanks for stopping by! We hope your visit to the Kaboose Network is fun, safe and enjoyable!
+
+Last updated: 12 July 2004
+
+  
+
