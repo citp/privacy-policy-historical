@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computer.org privacy policy that was archived on 2003-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031222045656id_/http%3A//www.computer.org/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computer.org privacy policy that was archived on 2004-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040214132911id_/http%3A//www.computer.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Guidlines
 
