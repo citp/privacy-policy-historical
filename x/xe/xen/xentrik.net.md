@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the xentrik.net privacy policy that was archived on 2002-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021012033415id_/http%3A//www.xentrik.net/home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xentrik.net privacy policy that was archived on 2003-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030417111219id_/http%3A//www.xentrik.net/home/privacy.php) for the most accurate reproduction.*
 
-# XentriK
+# XentriK Free Hosting
 
-** Privacy Policy
-
+  
+  
+  
+  
+|   |    
 Because protecting your privacy is very important to Xentrik, we operate our website under the following guidelines to safeguard your personally identifiable information: 
 
 What personal information does Xentrik collect?  
@@ -24,4 +27,4 @@ Xentrik may provide links to its partners and other Internet sites. These sites 
 Will Xentrik share my personal information with any third parties?  
 Xentrik will NOT disclose any Personal Information except as described in this policy or in the Xentrik Terms and Conditions. Xentrik may disclose user information, including demographic data, in 4 instances only: 1) in an aggregated form that does not identify individual users in order to describe its services to prospective partners, advertisers and other third parties, and for other lawful purposes, 2) when we believe in good faith that the law requires it, 3) to protect the rights or property of Xentrik or its visitors, and/or 4) to the agent who referred a user to Xentrik. 
 
-**
+If you have any questions about our Privacy Policy, or if you believe Xentrik has not adhered to these principles, please [contact us](https://web.archive.org/web/20030417111219id_/http%3A//www.xentrik.net/home/contact.php). 
