@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the self.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204212554id_/http%3A//www.self.com/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the self.com privacy policy that was archived on 2005-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050401015515id_/http%3A//www.self.com/services/privacypolicy.html) for the most accurate reproduction.*
 
 # CondéNet and Condé Nast Magazines: Self: Privacy Policy
 
