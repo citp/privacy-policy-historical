@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2002-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021208082546id_/http%3A//www.bellaonline.com/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellaonline.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621181541id_/http%3A//www.bellaonline.com/misc/privacy.asp) for the most accurate reproduction.*
 
 # Privacy at BellaOnline
 
@@ -17,15 +17,13 @@ This statement discloses the privacy practices for BellaOnline.com ("Website"). 
 
 Questions regarding this statement should be directed to BellaOnline.com by sending an email to [info@bellaonline.com](mailto:info@bellaonline.com) and writing "Privacy Policy" in the subject line.
 
-BellaOnline is currently seeking review and certification of its Privacy Policy by an independent privacy organization. The terms of this Privacy Policy are subject to revision in order to obtain certification.
-
-This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement](https://web.archive.org/web/20021208082546id_/http%3A//www.bellaonline.com/misc/terms.asp). Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
+This Privacy Policy is incorporated into and subject to the terms of our [Terms of Use Agreement](https://web.archive.org/web/20030621181541id_/http%3A//www.bellaonline.com/misc/terms.asp). Pursuant to the Terms of Use, this Privacy Policy is subject to modification at any time. You are responsible to review the Privacy Policy before using the site or providing any information.
 
 How We Collect Information 
 
 This Website collects information that falls into one of two categories -- personally identifiable information and aggregated information. Personally identifiable information is information that can be used to identify you. Aggregated information is information that is not associated with a specific user, such as the number of people who visit the Website from various states.
 
-We collect personally identifiable information whenever you voluntarily submit it to the Website. Examples of this type information include when you answer our polls, enter sweepstakes or contests, fill out the registration page, send us feedback or post in our chat rooms or message boards. You always have the option of choosing not to reveal this personally identifiable information to us, although certain services may be unavailable if you do not. In the event of a complaint, we may also receive and collect personally identifiable information about you from other parties in our Website or from other users or third parties who may communicate information to us about you in relation to that complaint.
+We collect personally identifiable information whenever you voluntarily submit it to the Website. Examples of this type information include when you enter sweepstakes, create a message board account, or send us feedback. You always have the option of choosing not to reveal this personally identifiable information to us, although certain services may be unavailable if you do not. In the event of a complaint, we may also receive and collect personally identifiable information about you from other parties in our Website or from other users or third parties who may communicate information to us about you in relation to that complaint.
 
 In addition, we collect and store statistics and other information about the online activities of our visitors on an aggregated (collective) basis. For example, we track the number of people who view each page, the order in which pages are viewed, and other information to learn which features are the most popular and to refine our design and marketing efforts.
 
@@ -50,13 +48,13 @@ Except as described below or otherwise indicated, we do not sell your personally
 
 We produce aggregate reports for advertisers. For example, we tell advertisers how many people saw or clicked on an ad and additionally, how many people saw or clicked on ads in different portions of our service. Where available, we may offer additional information about viewer characteristics. _However this does **not** include personally identifiable information about you or your online usage patterns._ Our advertisers allow us to provide our service to you. In return, they need to know how to effectively place their ads to potential customers. 
 
-We'll use your email contact information to provide you with newsletters to which you subscribe, or for similar information we think you may find of interest. However, you can choose to opt out of these mailings. By providing your contact information you will be eligible to acquire user IDs and passwords that will allow you to participate in our community features, including chat and bulletin boards. 
+We use your email contact information to provide you with newsletters to which you subscribe. The newsletter you subscribe to will be the ONLY thing sent to you. You can choose to opt out of these newsletter mailings at any time. A separate account may be created to use our bulletin boards. The email address there will only be used to send you your bulletin board password if it is lost, or to send important updates about bulletin board functionality. 
 
-We also share or sell your personally identifiable information with third parties who provide services to our Website or are affiliated with our Website in order to enhance the functionality available to you as part of the Website, and to provide you with new products and services such as email and Member services. 
+If you enter our on line sweepstakes, we may share or sell your personally identifiable information with the sponsor of that sweepstakes. We do so with the understanding that that sponsor will only use your information to contact you with further information on their products, and will give you an easy method of opting out of further contacts.
 
-Some online activities necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in a postcard or when you order merchandise in the Store. For such activities, a separate warning may not be provided. Your choice to disclose personally identifiable information in these cases is voluntary.
+Some online activities necessarily lead to disclosure of your personally identifiable information to third parties, such as when you include your name and email address in a postcard. That information is solely used for the single purpose stated and is never stored or redistributed. For such activities, a separate warning may not be provided. Your choice to disclose personally identifiable information in these cases is voluntary.
 
-In addition, you agree that BellaOnline.com may assign, sell, license, or otherwise transfer to a third party, your name, address, e-mail address, member name and any other personal information in connection with an assignment, sale, joint venture, or other transfer or disposition of a portion or all of the assets or stock of BellaOnline.com or its affiliated entities.
+BellaOnline.com may assign, sell, license, or otherwise transfer to a third party, your name, address, e-mail address, member name and any other personal information in connection with an assignment, sale, joint venture, or other transfer or disposition of a portion or all of the assets or stock of BellaOnline.com or its affiliated entities.
 
 Who Can Use Collected Information and How
 
@@ -68,7 +66,7 @@ Who Can Use Collected Information and How
 
 Controlling or Changing Your Information
 
-You can access and update your personal information, including changing your subscriptions to our email newsletters, by going to the [members.bellaonline.com](http://members.bellaonline.com/) and following the instructions on that page. There you can review, modify, or delete the personally identifiable information we maintain about you. You can also opt in or out of receiving commercial communications from us or having your information shared with or sold to third parties. While you can modify or delete the information that we maintain, we cannot modify or delete the information that has already been provided to a third party. In addition, some personally identifiable information is required by the Terms of Use to maintain your Membership on BellaOnline.com. If you delete that information, you may lose access to the Website.
+The two member databases we maintain are for newsletter subscriptions and for message board accounts. Each of these databases provides clearly marked means of removing an account. Neither database is made available to any third party for any reason.
 
 Cookies and Other Tracking Methods
 
