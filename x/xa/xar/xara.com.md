@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2002-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021201191737id_/http%3A//www.xara.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xara.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621122705id_/http%3A//www.xara.com/privacy.asp) for the most accurate reproduction.*
 
 # Xara.com Privacy Statement
 
@@ -31,7 +31,7 @@ This site does contain links to other sites. **Xara is not responsible for the p
 This site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site also gives users the following options for **removing information from our database** if they no longer wish to receive information from Xara:
 
   * Send **e-mail** to: [webmaster@xara.com](mailto:webmaster@xara.com)
-  * **Post** mail to: **Xara Ltd, Gaddesden Place, Hemel Hempstead, Herts, HP2 6EX, UK**
+  * **Post** mail to: **Xara Group Ltd, Gaddesden Place, Hemel Hempstead, Herts, HP2 6EX, UK**
   * **Call** the following **telephone** number: **int + 44 1442 350000**
 
 
@@ -42,7 +42,7 @@ This site gives users the following options for **changing and modifying informa
 
   * **Change your details directly** in your Xara Account at <http://www.club.xara.com/>
   * E-mail [xaraclub@xara.com](mailto:xaraclub@xara.com)
-  * **Post** mail to: **Xara Ltd, Gaddesden Place, Hemel Hempstead, Herts, HP2 6EX, UK**
+  * **Post** mail to: **Xara Group Ltd, Gaddesden Place, Hemel Hempstead, Herts, HP2 6EX, UK**
   * **Call** the following telephone number: **int + 44 1442 350000**
 
 
@@ -52,7 +52,7 @@ This site gives users the following options for **changing and modifying informa
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
      **Kate Moir,  
-    Xara Ltd,  
+    Xara Group Ltd,  
     Gaddesden Place,  
     Hemel Hempstead,  
     Herts, HP2 6EX,  
