@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tech-connect.biz privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207044758id_/http%3A//tech-connect.biz/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-connect.biz privacy policy that was archived on 2005-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050218025759id_/http%3A//www.tech-connect.biz/privacy_policy.htm) for the most accurate reproduction.*
 
 # Home
 
