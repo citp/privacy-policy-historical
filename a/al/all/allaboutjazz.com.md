@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205223647id_/http%3A//www.allaboutjazz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603202053id_/http%3A//www.allaboutjazz.com/privacy.htm) for the most accurate reproduction.*
 
-# Jazz Magazine and Resource | ALL ABOUT JAZZ | The Web's Ultimate Guide to Jazz
+# Jazz | ALL ABOUT JAZZ | The Web's Ultimate Guide to Jazz
 
   
 **Secure Shopping Guarantee and Privacy Information**
