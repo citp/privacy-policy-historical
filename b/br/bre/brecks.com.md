@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206052212id_/http%3A//brecks.com/article_disp.asp%3Farticle_id%3D139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604210729id_/http%3A//brecks.com/article.asp%3Fai%3D139) for the most accurate reproduction.*
 
-# Breck's Bulbs From Holland Since 1818
+# Breck's - Breck's Privacy Policy
 
-**Breck's Privacy Policy**
+Breck's Privacy Policy
 
 This is the web site of Breck's We can be reached via e-mail at service@brecks.com
 
@@ -18,7 +18,7 @@ With respect to cookies: We use cookies to store visitors' preferences, record s
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.
 
-The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. To learn more about our marketing partner, click here.
+The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest.
 
 If you do not want to receive e-mail from us in the future or if you do not wish to receive the above-mentioned mailings, please let us know by sending e-mail to us at the above address, or calling us at the above telephone number, or writing to us at the above address.
 
