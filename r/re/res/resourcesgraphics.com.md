@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resourcesgraphics.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603155438id_/http%3A//www.jarvisgroup.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcesgraphics.com privacy policy that was archived on 2002-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021214032453id_/http%3A//www.jarvisgroup.net/privacy_policy.html) for the most accurate reproduction.*
 
 # Jarvis Network Privacy Policy
 
@@ -25,4 +25,6 @@ From time to time, JEG and/or its partners may wish to contact individual users 
 **Disclosure**  
 JEG reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, JEG will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties. 
 
-  **[JEG corporate home page...](http://www.jarvisgroup.net/)**
+**Spam & Network Abuse**  
+In any event of spam or network abuse, JEG reserves the right in it's sole discretion to immediately terminate the account. Accounts terminated for abuse issues are not eligible for refunds. Moreover, accounts associated with abuse will be responsible for paying Jarvis Network's costs and expenses of identifying, terminating and correcting such abuse.  
+To report any instance of abuse, contact: [ abuse@jarvisgroup.net ](mailto:abuse@jarvisgroup.net)**[JEG corporate home page...](http://www.jarvisgroup.net/)**
