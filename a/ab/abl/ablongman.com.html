@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ablongman.com privacy policy that was archived on 2001-12-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011211233415id_/http%3A//www.ablongman.com/privacy/1%2C2909%2C%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ablongman.com privacy policy that was archived on 2002-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020604024340id_/http%3A//www.ablongman.com/privacy/1%2C2909%2C%2C00.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -40,7 +40,18 @@ function launch(url) {
   remote = open(url, "remote", "resizable,scrollbars,width=400,height=400");
 }
 
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
 
+function MM_findObj(n, d) { //v4.0
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && document.getElementById) x=document.getElementById(n); return x;
+}
 // -->
 </script>
 </head>
@@ -94,7 +105,7 @@ function launch(url) {
 	</tr>
 	<tr valign="BOTTOM">
 	<td></td>
-	<td><!-- Vignette V/5 Tue Dec 11 18:34:17 2001 -->
+	<td><!-- Vignette V/5 Mon Jun 03 22:43:40 2002 -->
 <font face="Verdana, Arial" size="1">
 		
 	<form name="menu1">
@@ -120,6 +131,8 @@ function launch(url) {
 		<option value="/catalog/disciplines?DISC_CODE=SH&amp;DISC_NAME=History&amp;SMP_NAME=Social+Science">--History</option>	
 		<option value="/catalog/disciplines?DISC_CODE=SI&amp;DISC_NAME=Interdisciplinary+Studies&amp;SMP_NAME=Social+Science">--Interdisciplinary Studies</option>
  		<option value="/catalog/disciplines?DISC_CODE=SE10&amp;DISC_NAME=Literacy+Education&amp;SMP_NAME=Education">--Literacy Education</option>
+		<option value="/catalog/disciplines?DISC_CODE=HP&amp;DISC_NAME=Philosophy&amp;SMP_NAME=Humanities">--Philosophy</option>
+		
 		<option value="/catalog/disciplines?DISC_CODE=SL&amp;DISC_NAME=Political+Science&amp;SMP_NAME=Social+Science">--Political Science</option>
 		<option value="/catalog/disciplines?DISC_CODE=SP&amp;DISC_NAME=Psychology&amp;SMP_NAME=Social+Science">--Psychology</option>
 		<option value="/catalog/disciplines?DISC_CODE=SW&amp;DISC_NAME=Social+Work+%2F+Family+Therapy&amp;SMP_NAME=Social+Science">--Social Work/Family Therapy</option>	
