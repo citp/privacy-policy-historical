@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604092800id_/http%3A//www.ibackup.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibackup.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206082424id_/http%3A//ibackup.com/policy.htm) for the most accurate reproduction.*
 
-# IBackup
+# Online Backup - Online Storage, Offsite Backup, Internet Hard Drive , Online File Storage and Collaboration
 
   |  | 
 
