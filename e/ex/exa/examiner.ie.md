@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207180058id_/http%3A//www.examiner.ie/pport/web/Privacy_Policy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the examiner.ie privacy policy that was archived on 2004-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041224044253id_/http%3A//www.irishexaminer.com/pport/web/Privacy_Policy/index.asp) for the most accurate reproduction.*
 
-# Irish news - business, sport, world and local breaking news from Ireland's Examiner newspaper online - examiner.ie
+# Examiner
 
-Irish Examiner has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.irishexaminer.com](http://www.examiner.ie/). 
+|  **  
+Privacy Policy** Irish Examiner has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: [http://www.irishexaminer.com](http://www.examiner.ie/). 
 
 * * *
 
@@ -18,7 +19,7 @@ Registration Form**
 
 Irishexaminer.com and its sister company Thomas Crosbie Media (TCM) respects your right to privacy. 
 
-By providing the registration data for the purpose of completing the registration process you are providing TCM with personal information. 
+By providing the registration data for the purpose of completing the registration process you are providing TCM with personal information. HOWEVER, PLEASE NOTE YOUR EMAIL ADDRESS WILL NOT BE DISTRIBUTED TO ANY THIRD PARTIES.
 
 This information will be used by TCM for the purpose for which it was provided by you and for verification purposes and statistical analysis.
 
@@ -107,7 +108,7 @@ This site gives users the following options for changing and modifying informati
 **1.** Email [ feedback@tcm.ie](mailto:feedback@tcm.ie)
 
 **2.** Send mail to the following postal address:  
-Webmaster, TCM, 97 South Mall,  Ireland
+Webmaster, TCM, 97 South Mall, Cork, Ireland
 
 **3.** Call the following telephone number: +353 21 2304000
 
@@ -123,3 +124,5 @@ TCM,
 97 South Mall,  
 Cork, Ireland.  
 [ webmaster@examiner.ie](mailto:webmaster@examiner.ie)
+
+| 
