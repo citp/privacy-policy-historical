@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnancytoday.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017060648id_/http%3A//iparenting.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancytoday.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401221507id_/http%3A//iparenting.com/privacy.htm) for the most accurate reproduction.*
 
 # iParenting: Privacy Policy Statement
 
