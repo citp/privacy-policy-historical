@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the up.com privacy policy that was archived on 2002-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021202041108id_/http%3A//www.up.com/uprr/info/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the up.com privacy policy that was archived on 2003-12-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031210221835id_/http%3A//www.up.com/uprr/info/privacy.shtml) for the most accurate reproduction.-->
 
 <html><head>
 <title>UP-Web site Privacy Policy</title>
 
+<noscript><link href="/css/static/static_ie6.css" rel="stylesheet" type="text/css"></noscript>
 <script language="JavaScript">
 <!--
 function MM_reloadPage(init) {  //Updated by PVII. Reloads the window if Nav4 resized
@@ -38,41 +39,55 @@ var Netscape4MAC=(det.indexOf("MAC",0) != -1) && (det.indexOf("MOZILLA/4",0) != 
 var Netscape6MAC=(det.indexOf("MAC",0) != -1) && (det.indexOf("NETSCAPE6",0) != -1) && (navigator.appName == "Netscape");
 var OperaMAC=(det.indexOf("MAC",0) != -1) && (det.indexOf("OPERA",0) != -1);
 var MozillaMAC=(det.indexOf("MAC",0) != -1) && (det.indexOf("GECKO",0) != -1);
-
+var debugSniffer=new String("");
 
 if (IE4PC) {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_test.css\" type=\"text/css\">");
+	debugSniffer+="IE4PC ";
 } else if (IE5PC) {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_test.css\" type=\"text/css\">");
+	debugSniffer+="IE5PC ";
 } else if (IE6PC) {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_ie6.css\" type=\"text/css\">");
+	debugSniffer+="IE6PC ";
 } else if (Netscape4PC) {
 //	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_nav.css\" type=\"text/css\">");
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_nav_branded.css\" type=\"text/css\">");
+	debugSniffer+="Netscape4PC ";
 } else if (Netscape6PC) {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_nav6_pub.css\" type=\"text/css\">");
+	debugSniffer+="Netscape6PC ";
 } else if (MozillaPC) {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_nav6_pub.css\" type=\"text/css\">");
+	debugSniffer+="MozillaPC ";
 } else if (OperaPC) {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_nav6_pub.css\" type=\"text/css\">");
+	debugSniffer+="OperaPC ";
 } else if (IE4MAC) {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_ie5mac.css\" type=\"text/css\">");
+	debugSniffer+="IE4MAC ";
 } else if (IE5MAC) {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_ie5mac.css\" type=\"text/css\">");
+	debugSniffer+="IE5Mac ";
 } else if (IE6MAC) {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_ie5mac.css\" type=\"text/css\">");
+	debugSniffer+="IE6MAC ";
 } else if (Netscape4MAC) {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_nmac.css\" type=\"text/css\">");
+	debugSniffer+="Netscape4MAC ";
 } else if (Netscape6MAC) {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_nmac.css\" type=\"text/css\">");
+	debugSniffer+="Netscape6MAC ";
 } else {
 	document.write("<LINK rel=\"stylesheet\" href=\"/css/static/static_nav.css\" type=\"text/css\">");
+	debugSniffer+="Unidentified ";
 }
-
-
+if (!Netscape4PC) {
+	document.write("<LINK HREF=\"/css/static/print.css\" REL=\"stylesheet\" TYPE\"text/css\" MEDIA=\"print\">");
+}
 // -->
-</script><link rel="stylesheet" href="/css/static/static_nav.css" type="text/css">
-<noscript><LINK REL=STYLESHEET TYPE="text/css" HREF="/css/static/static_nav.css"></noscript>
+</script><link rel="stylesheet" href="/css/static/static_nav.css" type="text/css"><link href="/css/static/print.css" rel="stylesheet" type"text="" css"="" media="print">
+
 
 <script language="JavaScript">
 <!--
@@ -104,18 +119,19 @@ var det=navigator.userAgent.toUpperCase();
 var Netscape4PC=(det.indexOf("WIN",0) != -1) && (det.indexOf("MOZILLA/4",0) != -1) && (navigator.appName == "Netscape");
 
 if (Netscape4PC) {
-	document.write("<DIV CLASS=\"logo\"><A HREF=\"/uprr/index.shtml\"><IMG SRC=\"/graphics/uplogo_main_n.gif\" WIDTH=\"153\" HEIGHT=\"45\" BORDER=\"0\" NAME=\"UPRRLOGO\" ALT=\"Home\"></A><BR><A HREF=\"/uprr/info/browsers.shtml\" CLASS=\"clear\">Browsers Supported by uprr.com</A></DIV>");
+	document.write("<DIV id=\"logo\"><A HREF=\"/uprr/index.shtml\"><IMG SRC=\"/graphics/uplogo_main_n.gif\" WIDTH=\"153\" HEIGHT=\"45\" BORDER=\"0\" NAME=\"UPRRLOGO\" ALT=\"Home\"></A><BR><A HREF=\"/uprr/info/browsers.shtml\" CLASS=\"clear\">Browsers Supported by uprr.com</A></DIV>");
 } else {
-	document.write("<DIV CLASS=\"logo\"><A HREF=\"/uprr/index.shtml\"><IMG SRC=\"/graphics/uplogo_main_n.gif\" OnMouseOver=\"window.status='Return to the Union Pacific Railroad Homepage';this.src='/graphics/uplogo_main_y.gif';return true;\" OnMouseOut=\"window.status='';this.src='/graphics/uplogo_main_n.gif';return true;\" WIDTH=\"153\" HEIGHT=\"45\" BORDER=\"0\" NAME=\"UPRRLOGO\" ALT=\"Home\"></A><BR><A HREF=\"/uprr/info/browsers.shtml\" CLASS=\"clear\">Browsers Supported by uprr.com</A></DIV>");
+	document.write("<DIV id=\"logo\"><A HREF=\"/uprr/index.shtml\"><IMG SRC=\"/graphics/uplogo_main_n.gif\" OnMouseOver=\"window.status='Return to the Union Pacific Railroad Homepage';this.src='/graphics/uplogo_main_y.gif';return true;\" OnMouseOut=\"window.status='';this.src='/graphics/uplogo_main_n.gif';return true;\" WIDTH=\"153\" HEIGHT=\"45\" BORDER=\"0\" NAME=\"UPRRLOGO\" ALT=\"Home\"></A><BR><A HREF=\"/uprr/info/browsers.shtml\" CLASS=\"clear\">Browsers Supported by uprr.com</A></DIV>");
 }
 
 //-->
-</script><div class="logo"><a href="/uprr/index.shtml"><img src="/graphics/uplogo_main_n.gif" onmouseover="window.status='Return to the Union Pacific Railroad Homepage';this.src='/graphics/uplogo_main_y.gif';return true;" onmouseout="window.status='';this.src='/graphics/uplogo_main_n.gif';return true;" width="153" height="45" border="0" name="UPRRLOGO" alt="Home"></a><br><a href="/uprr/info/browsers.shtml" class="clear">Browsers Supported by uprr.com</a></div>
+</script><div id="logo"><a href="/uprr/index.shtml"><img src="/graphics/uplogo_main_n.gif" onmouseover="window.status='Return to the Union Pacific Railroad Homepage';this.src='/graphics/uplogo_main_y.gif';return true;" onmouseout="window.status='';this.src='/graphics/uplogo_main_n.gif';return true;" width="153" height="45" border="0" name="UPRRLOGO" alt="Home"></a><br><a href="/uprr/info/browsers.shtml" class="clear">Browsers Supported by uprr.com</a></div>
 <noscript>
-<DIV CLASS="logo"><A
+<DIV id="logo"><A
 HREF="/uprr/index.shtml"><IMG SRC="/graphics/uplogo_main_n.gif" OnMouseOver="window.status='Return to the Union Pacific Railroad Homepage';this.src='/graphics/uplogo_main_y.gif';return true;" OnMouseOut="window.status='';this.src='/graphics/uplogo_main_n.gif';return true;"
 WIDTH="153" HEIGHT="45" BORDER="0" NAME="UPRRLOGO" ALT="Home"></A><BR><A HREF="/uprr/info/browsers.shtml" CLASS="clear">Browsers Supported by uprr.com</A></DIV>
 </noscript>
+<div id="logoPrint"><img src="/graphics/uplogo_print.gif"></div>
 <!--UP Website Information--><div class="section3"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000">
 <tbody><tr><td height="21" colspan="3">&nbsp;</td></tr>
 <tr><td rowspan="2"><img src="/graphics/space.gif" width="1" height="1"></td><td valign="top" align="center" width="598"><span class="sectionwhite">UP Web Site Information</span><br>
