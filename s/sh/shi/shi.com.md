@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shi.com privacy policy that was archived on 2002-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021207225414id_/http%3A//www.shi.com/Global/Content/About/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shi.com privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206054302id_/http%3A//shi.com/Global/Content/About/privacy.asp) for the most accurate reproduction.*
 
 # SHI.COM - About SHI
 
@@ -12,7 +12,14 @@ Order
 We request information from the user on our order form. Here a user must provide shipping information to indicate where their products are to be shipped, organizational or financial information as required to meet customer reporting requirements, and payment information to indicate how the user will be billed for their purchases. This information is used for billing purposes, reporting, and to fill customer's orders. 
 
 Cookies  
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie simply terminates. These cookies are used to maintain a session for a customer during a visit to our site. 
+A cookie is a piece of data stored on the user's hard drive containing information related to the user's visit to our site. Usage of a cookie on the SHI web sites is in no way linked to any personally identifiable information. Two types of cookies are used by the SHI.COM family of web sites
+
+  * Session level cookies: These cookies are used to maintain a session for a customer during a visit to our site. Once the user closes their browser, the cookie simply terminates. It is not persistently trackable, or connected to personally identifying information.
+  * User preference cookies: These cookies are used to tune a number of web site functions to a user's tastes; for example, to indicate whether a user last selected our basic or advanced product search mode. These do not contain personally identifiable information, and are simply used by an individual web page to remember how the user adjusted settings on that page.
+
+
+
+SHI only uses these cookies to facilitate the operation of the site; they are not and will not be used for any other purpose, and no data related to those will be made available to any third party now or in the future. 
 
 Log Files  
 We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. 
