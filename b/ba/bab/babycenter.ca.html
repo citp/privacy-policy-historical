@@ -1,0 +1,428 @@
+<!--The following is the downloaded HTML source of the babycenter.ca privacy policy that was archived on 2000-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20000527211013id_/http%3A//babycenter.ca/general/7814.html) for the most accurate reproduction.-->
+
+<html><head><title>Privacy Policy</title>
+
+<!-- Viewer.template set -->
+	<!-- $Id: default.jhtml,v 1.19 2000/03/03 18:45:49 aaronp Exp $ -->
+
+	
+
+
+
+
+
+
+
+
+
+<!-- $Id: popup.jhtml,v 1.6 2000/02/25 22:07:48 aaronp Exp $ -->
+<script>
+<!--
+defwin = new Object;
+defwin.closed = true;
+
+function defwinupdate(inword, inaka, indef) {
+  tempvar = navigator.appVersion.substring(0,1);
+  browver = parseInt(tempvar);
+  if (browver < 3) { return true; } else {
+    if (!defwin.closed) { defwin.close(); }
+    defwin = window.open("","","height=130,width=370,scrollbars=yes,resizable=yes");
+    defwin.document.writeln("<HTML><HEAD><TITLE>"+inword+"</TITLE>");
+    defwin.document.writeln("<SCR"+"IPT>");
+    defwin.document.writeln("function goglo() {");
+    defwin.document.writeln("if (window.opener.closed) { window.open('/glossary/index.html') } else");
+    defwin.document.writeln("{ window.opener.location = '/glossary/index.html' }");
+    defwin.document.writeln("self.close()");
+    defwin.document.writeln("}");
+    defwin.document.writeln("</SCR"+"IPT>");
+    defwin.document.writeln("</HEAD><BODY BGCOLOR=#ffffff>");
+    defwin.document.writeln("<TABLE WIDTH=340><TR><TD VALIGN='TOP'>");
+    defwin.document.writeln("<B>"+inword+"</B><BR>"+inaka);
+    defwin.document.writeln("</TD><TD>"+indef+"</TD></TR>");
+    defwin.document.writeln("<TR><TD ALIGN='CENTER' COLSPAN=2>");
+    defwin.document.writeln("<FORM><INPUT TYPE='BUTTON' VALUE='Close This Window' onClick='self.close()'>");
+    defwin.document.writeln("<INPUT TYPE='BUTTON' VALUE='Go To Glossary' onClick='goglo()'>");
+    defwin.document.writeln("</FORM></TD></TR>");
+    defwin.document.writeln("</TABLE>");
+    defwin.document.close();
+    defwin.focus();
+    return false;
+  }
+  return true;
+}
+//-->
+</script>
+
+
+<!-- $Id: header.jhtml,v 1.110 2000/05/17 05:27:59 svenn Exp $ -->
+
+<!-- $Id: javascript_cookies.jhtml,v 1.1 2000/03/24 00:37:48 aaronp Exp $ -->
+<script language="JavaScript" type="text/javascript">
+<!--
+function setCookie(name,value,expires){
+	document.cookie = name+"="+value+"; expires="+expires+";path=/ ;domain="+document.location.hostname+";";
+};
+
+function getCookie(cookieName){
+	var arg = cookieName + "=";
+	var save=document.cookie;
+	if(save.indexOf(arg)==-1){ return null; }
+	save = save.substring(save.indexOf(arg)+arg.length,save.length);
+	if(save.indexOf(";")!=-1){save=save.substring(0,save.indexOf(";"));};
+	return save;
+};
+//-->
+</script>
+
+ 
+<script language="JavaScript" type="text/javascript">
+<!--// Set cookie to hide regpop for 1 month
+tempvar = navigator.appVersion.substring(0,1);
+browver = parseInt(tempvar);
+if(browver>=4 || (browver >=3 && navigator.appName.indexOf("Netscape") != -1)){
+	var expdate = new Date();
+	expdate.setMonth(expdate.getMonth()+1);
+	expdate=expdate.toGMTString();
+	var reg = getCookie("regpop");
+	if ( reg!="alreadyOffered" && document.cookie ){
+		setCookie("regpop", "alreadyOffered", expdate);
+//--------- Launching the regpop window
+		if ( navigator.appName.indexOf("Netscape") != -1 ){xsize=212; ysize=380;}
+			else{ xsize=224; ysize=415; };
+		regpop = new Object();
+		regpop = window.open("/popup/register.jhtml?pop=y","getregistered","height="+ysize+",width="+xsize+",scrollbars=auto,resizable=yes,screenx=400,screeny=15,left=400,top=15");
+		regpop.focus();
+	}
+}
+// -->
+</script>
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+<!--
+function display_status(stuff) { window.status = stuff;return true;}
+if (document.images){
+  switch1on =new Image(120,22);  switch1on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy2a.gif';
+  switch1off=new Image(120,22);  switch1off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy1a.gif';
+  switch2on =new Image(120,22);  switch2on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy4.gif';
+  switch2off=new Image(120,22);  switch2off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy3.gif';
+  switch3on =new Image(120,22);  switch3on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy6.gif';
+  switch3off=new Image(120,22);  switch3off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy5.gif';
+  switch4on =new Image(120,22);  switch4on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy8.gif';
+  switch4off=new Image(120,22);  switch4off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy7.gif';
+  switch5on =new Image(120,22);  switch5on.src ='/i/pad/pregnancy10.gif';
+  switch5off=new Image(120,22);  switch5off.src='/i/pad/pregnancy9.gif';
+  switch6on =new Image(120,22);  switch6on.src ='/i/pad/pregnancy12.gif';
+  switch6off=new Image(120,22);  switch6off.src='/i/pad/pregnancy11.gif';
+  switch7on =new Image(120,22);  switch7on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy14.gif';
+  switch7off=new Image(120,22);  switch7off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy13.gif';
+
+  switch8on =new Image(120,22);  switch8on.src ='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy16.gif';
+  switch8off=new Image(120,22);  switch8off.src='http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy15.gif';
+}
+
+function HighLight(musswitch) {
+	if (document.images) {
+		switchnavn=eval(musswitch + "on");
+		document[musswitch].src=switchnavn.src;
+	}
+}
+
+function UndoHighLight(musswitch) {
+	if (document.images) {
+		switchnavn=eval(musswitch + "off");
+		document[musswitch].src=switchnavn.src;
+	}
+}
+
+function goPage(form) {
+	if (document[form]) {document[form].submit();
+	return true;} 
+}
+// end cache 
+
+
+var has_ads;//def var in case page has BAA
+// -->
+</script>
+</head>
+<body bgcolor="#ffffff" link="#006666" alink="#33CCCC" vlink="#009999">
+<map name="tablinks">
+<area alt="" coords="10,5,117,32" href="/members/">
+<area alt="" coords="10,33,117,59" href="/mybabycenter/">
+</map><!--stopindex--><base target="_top">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td><img src="/i/trans.gif" width="120" height="1" border="0" alt=""></td>
+<td><img src="/i/trans.gif" width="20" height="1" border="0" alt=""></td>
+<td><img src="/i/trans.gif" width="155" height="1" border="0" alt=""></td>
+<td><img src="/i/trans.gif" width="1" height="1" border="0" alt=""></td>
+<td><img src="/i/trans.gif" width="154" height="1" border="0" alt=""></td>
+<td><img src="/i/trans.gif" width="20" height="1" border="0" alt=""></td>
+<td><img src="/i/trans.gif" width="130" height="1" border="0" alt=""></td>
+</tr>
+<tr>
+<td colspan="6" align="center"><table><tbody><tr><td>
+
+
+<!-- ad number 1(unknown browser) -->
+<a href="http://ad.doubleclick.net/jump/babycenter.com/ARTICLE.3956.7814.;area=.3956.7814.;sz=468X60;pos=top;tile=1;ord=1813937?">
+<img src="http://ad.doubleclick.net/ad/babycenter.com/ARTICLE.3956.7814.;area=.3956.7814.;sz=468X60;pos=top;tile=1;ord=1813937?" width="468" height="60"></a></td></tr></tbody></table></td>
+<td rowspan="2" valign="bottom" align="right"><table border="0" cellpadding="0" cellspacing="0" bgcolor="#009999"><tbody><tr><td><map name="tablinks">
+<area shape="rect" coords="5,31,85,57" href="/mybabycenter/">
+<area shape="rect" coords="5,0,62,27" href="/members/">
+</map><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/nav/tab.gif" width="120" height="64" border="0" alt="" usemap="#tablinks"></td></tr></tbody></table></td>
+</tr>
+<tr>
+<td colspan="6"><img src="/i/trans.gif" width="1" height="4" border="0" alt=""></td>
+</tr>
+<tr bgcolor="#009999">
+<td valign="top"><img src="/i/crn/tl.gif" width="8" height="8" border="0" alt=""></td>
+<td rowspan="2"><img src="/i/trans.gif" width="20" height="1" border="0" alt=""></td>
+<td rowspan="2" align="center"><!-- slug --><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/slug/bc.gif" width="144" height="9" border="0"></td>
+<td bgcolor="#FFFFFF" rowspan="2"><img src="/i/trans.gif" width="1" height="1" border="0" alt=""></td>
+<td rowspan="2" align="center" colspan="2"><table border="0" cellpadding="0" cellspacing="0"><form method="get" action="http://search.babycenter.com/query.html"></form>
+<tbody><tr>
+<td><input type="text" name="qt" size="10" maxlength="100" value=""></td><td><input type="image" src="/images/nav/search.gif" width="46" height="21" border="0" value="submit"></td>
+</tr></tbody></table></td>
+<td rowspan="2"><img src="/i/trans.gif" width="20" height="1" border="0" alt=""></td>
+</tr>
+<tr bgcolor="#009999">
+<td width="120" valign="bottom" bgcolor="#009999">
+<!-- logotop -->
+<!-- start cache --><a href="/"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/logo/top_009999.gif" width="120" height="9" border="0" alt=""></a></td>
+</tr>
+<tr>
+<td width="120" valign="top" rowspan="2"><font face="arial,helvetica,sans-serif" size="2"><!-- left nav -->
+<a href="/"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/logo/bc_sm_bot.gif" width="120" height="41" border="0" alt=""></a><br>
+
+<a href="/mybabycenter" onmouseover="HighLight('switch1'); display_status('Information tailored to your stage'); return true;" onmouseout="UndoHighLight('switch1'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy1a.gif" width="120" height="18" border="0" name="switch1" align="BOTTOM"></a><br>
+
+
+<a href="/preconception/" onmouseover="HighLight('switch2'); display_status('Preconception'); return true;" onmouseout="UndoHighLight('switch2'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy3.gif" width="120" height="22" border="0" name="switch2" align="BOTTOM"></a><br>
+
+
+<a href="/pregnancy/" onmouseover="HighLight('switch3'); display_status('Pregnancy'); return true;" onmouseout="UndoHighLight('switch3'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy5.gif" width="120" height="22" border="0" name="switch3" align="BOTTOM"></a><br>
+
+
+<a href="/baby/" onmouseover="HighLight('switch4'); display_status('Baby'); return true;" onmouseout="UndoHighLight('switch4'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy7.gif" width="120" height="22" border="0" name="switch4" align="BOTTOM"></a><br>
+
+
+<a href="/toddler/" onmouseover="HighLight('switch5'); display_status('Toddler'); return true;" onmouseout="UndoHighLight('switch5'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy9.gif" width="120" height="22" border="0" name="switch5" align="BOTTOM"></a><br>
+
+
+<a href="http://store.babycenter.com/" onmouseover="HighLight('switch6'); display_status('BabyCenter Store'); return true;" onmouseout="UndoHighLight('switch6'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy11.gif" width="120" height="22" border="0" name="switch6" align="BOTTOM"></a><br>
+
+
+<a href="/community/" onmouseover="HighLight('switch7'); display_status('BabyCenter Community'); return true;" onmouseout="UndoHighLight('switch7'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy13.gif" width="120" height="22" border="0" name="switch7" align="BOTTOM"></a><br>
+
+
+
+<a href="/topicsaz/" onmouseover="HighLight('switch8'); display_status('Topics A-Z'); return true;" onmouseout="UndoHighLight('switch8'); display_status('');"><img src="http://us.bcimg.com/f/1652/403/12h/www.babycenter.com/i/pad/pregnancy15.gif" width="120" height="22" border="0" name="switch8" align="BOTTOM"></a><br>
+
+
+<p><a href="/rcindex.html"><font color="#000000"><b>Site Index</b></font></a>
+<!-- ###WHAT'S NEW -->
+</p><p><a href="/general/5278.html"><font color="#000000"><b>What's New</b></font></a><br>
+
+<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
+
+<a href="/toddevelopment/">Toddler Development</a><br>
+
+
+<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
+
+<a href="/theme/">Family Travel</a><br>
+<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
+<a href="/babyhealth/">Baby Health</a><br>
+<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
+<a href="/toddlerhealth">Toddler Health</a><br>
+<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
+<a href="/freestuff/">Free Stuff!</a><br>
+<img src="/images/trans.gif" width="1" height="4" border="0" alt=""><br>
+
+
+
+<br>
+<table border="0" width="120" cellspacing="0" cellpadding="1" bgcolor="#999999">
+		<tbody><tr><td><table width="100%" border="0" cellspacing="0" cellpadding="4">
+		<tbody><tr><td bgcolor="#009999"><font face="arial,helvetica,sans-serif" size="2" color="#FFFFFF"><b>GoodStuff!</b></font></td></tr>
+		<tr><td bgcolor="#FFFFcc"><font face="verdana,geneva,sans-serif" size="1"><font color="#cc0000">•</font><img src="http://ad.doubleclick.net/ad/babycenter.textad.com/Ad16;kw=16" width="1" height="1" border="0"> <a href="http://ad.doubleclick.net/clk;454944;3399873;b?http://www.babycenter.com/bringingbaby/">Enter our weekly drawing</a> to win a Q-tips Cotton Swabs Baby Pack.<br><br><font color="#cc0000">•</font><img src="http://ad.doubleclick.net/ad/babycenter.textad.com/Ad41;kw=41" width="1" height="1" border="0"> Is your baby ready for solid foods?  <a href="http://ad.doubleclick.net/clk;585095;3526958;z?http://www.babycenter.com/solidfoods">Click here</a> to find out, brought to you by Beech-Nut.</font></td></tr></tbody></table>
+		</td></tr></tbody></table><!--No sponsorship found.-->
+</p><p><table border="0" cellpadding="2" width="125">
+<tbody><tr><td colspan="2"><font face="arial,helvetica,sans-serif" size="2"><b>Features</b></font><img src="http://ad.doubleclick.net/activity;src=201365;type=all;cat=cn;ord=1814054?" width="1" height="1" border="0"></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/babyname/">Baby Namer</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/babyshowers/">Baby Shower Planner</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/birthannouncements/">Birth Announcements</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/dads/">Dads</a><br><font size="1">Everything a new father needs to know, from diapering to postpartum depression.</font></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/calendar/">Pregnancy Calendar</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/babycalendar/getinfo">Baby Calendar</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/childcarefinder/">Childcare Finder</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/tools.html">Tools &amp; Calculators</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/photocenter/">HP Cartogra's Photo Center</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/bobby/">Bobby: A New Life</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/jennifer/">Jennifer's Journal</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/poll/">Surveys &amp; Polls</a><br><font size="1">Vote in the poll of the day.</font></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/essay/">Life Stories</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/news/">In the News</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/expert/">Sound Advice</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/health/search/">Find a Healthcare Provider</a></font></td></tr><tr><td valign="TOP"><font face="Verdana,Geneva" color="#CC0000" size="2">•</font></td>
+<td valign="TOP"><font face="Arial, Helvetica, sans-serif" size="2"><a href="/classifieds/">Classifieds</a></font></td></tr></tbody></table>
+
+
+
+
+</p></font><p><font face="arial,helvetica,sans-serif" size="2"><table border="0" width="120" cellspacing="0" cellpadding="1" bgcolor="#999999">
+<tbody><tr><td>
+<table width="118" border="0" cellspacing="0" cellpadding="4">
+<tbody><tr><td width="100%" bgcolor="#009999"><font face="arial,helvetica" size="-1" color="#FFFFFF"><b><font color="#FFFFFF">Free BabyCenter Membership!</font></b></font></td></tr>
+<tr><td width="100%" bgcolor="#FFFFFF">
+<font face="verdana,arial,helvetica,sans-serif" size="1">Track your baby’s development<br>
+<img src="/images/trans.gif" width="10" height="6" border="0" alt=""><br>
+<font color="#FF9900"><b>•&nbsp;</b></font>News and features, personalized for you and your baby<br>
+<img src="/images/trans.gif" width="10" height="6" border="0" alt=""><br>
+<font color="#FF9900"><b>•&nbsp;</b></font>Weekly developmental newsletters</font><br>
+<img src="/images/trans.gif" width="10" height="6" border="0" alt=""></td></tr>
+<tr><td bgcolor="#FFFFFF"><!-- $Id: formlet.jhtml,v 1.30 2000/04/21 20:42:00 webdevel Exp $ --> <!-- modified -->
+<table border="0" cellpadding="0" cellspacing="2"><form method="POST" action="/members/profile/"></form>
+<input type="hidden" name="formletSubmitPage" value="contentFormlet">
+<tbody><tr><td align="center" bgcolor="#ffffff"><font face="verdana,geneva,sans-serif" size="1"><b>E-mail</b>&nbsp;address:</font><br><input type="text" name="formletEmail" size="11" maxlength="50"><br><input type="image" src="/images/homepage/signupbut.gif" width="64" height="18" border="0" vspace="5" hspace="0" alt="Go!" name="enter" value="Submit"></td></tr>
+</tbody></table></td></tr>
+</tbody></table></td></tr>
+</tbody></table>
+
+
+
+</font></p></td>
+<td width="20" rowspan="2"><!-- gutter 20 --><img src="/i/trans.gif" width="20" height="4" border="0" alt=""></td>
+
+
+<td colspan="5" valign="top"><!-- breadcrumb 8x1 --><font face="Arial, Helvetica, sans-serif" size="2" color="#666666">
+
+		
+		
+		<a href="/">Home</a>
+		
+        
+		
+		
+        
+</font></td>
+<!-- default -->
+</tr>
+<tr><td colspan="5" valign="top"><!-- content cell  --><br>
+<!--startindex-->
+	
+<font face="arial,helvetica,sans-serif" size="2">
+<!-- no sponser for this page at this time --><p>
+
+
+	</p><p>
+	
+		</p><p><font size="5">BabyCenter Privacy Policy</font>
+
+</p><p><b>BabyCenter Respects Your Privacy</b>
+</p><p>BabyCenter respects your privacy and pledges to earn and keep your trust. All personal information you give us is kept confidential and protected with the utmost care, and will not be used in ways to which you have not consented. We will not sell or disclose any information that identifies you to a third party without your approval.  In addition, when you place an order at the BabyCenter Store, your personal information and credit card information is safe.  Please continue to read our privacy policy for more details.  
+
+</p><p><br><b>TRUSTe Certified</b><br>
+</p><p><table width="100" border="0" cellpadding="0" cellspacing="0" align="LEFT" valign="TOP"><tbody><tr><td width="100" align="LEFT"><a href="https://www.truste.org/validate/3098"><img src="/images/truste/truste_seal_box.gif" width="91" height="73" border="0" alt="TRUSTe: Click to Verify"></a></td></tr></tbody></table>
+BabyCenter is a member of the TRUSTe program and follows TRUSTe's privacy principles.  TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent.  Because BabyCenter wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed and audited for compliance by TRUSTe.
+</p><p>Questions regarding this statement should be directed to the BabyCenter site coordinator at <a href="mailto:feedback@babycenter.com">feedback@babycenter.com</a>.  If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact <a href="http://www.truste.org/users/watchdog.html">TRUSTe</a>.<!--  (<A HREF="http://www.truste.org/users/watchdog.html">http://www.truste.org/users/watchdog.html</A>).  -->
+
+</p><p><br><b>Your Personal Information</b>
+</p><p>BabyCenter will not collect any personal information about you except when you specifically and knowingly provide such information.  For example, if you would like to register on our site to take advantage of certain features, like a customized personal page, then we ask for your e-mail address.
+</p><p>If you register, you can also sign up to receive other offers and information from BabyCenter and other qualified merchants.  These qualified merchants are prescreened organizations or companies whose products or services we believe are of interest to parents and parents-to-be.  But if you don't want these offers, simply check the "no information" box as you register.  If you sign up to receive the offers but later decide you don't want them, then <a href="/register/unsubscribe">follow this link</a> to unsubscribe to any mailings.
+
+
+</p><p>Our site has public areas such as chat rooms and message boards.  Please remember that any information you share in these areas becomes public, so you should exercise caution when deciding to disclose your personal information.  If you post comments about BabyCenter products or services on our site, there's a chance we may publish them for editorial purposes or in promotional advertising and/or marketing materials (especially if you say nice things about us). 
+
+</p><p><br><b>E-mail Services</b>
+</p><p><a href="/register/getnews">Sign up</a> for free e-mail newsletters at BabyCenter including:
+
+</p><ul>
+<li>BabyCenter This Week<sup><font size="1">SM</font></sup> -- our general newsletter with features, news and polls.</li>
+<li>My Baby This Week -- a newsletter written specially for your stage of pregnancy or your baby's age. </li>
+<li>@ the BabyCenter Store -- Buying guidance and special notice of store sales and events.</li></ul>
+
+
+
+<p>To unsubscribe to any of our e-mail newsletters, follow the instructions at the end of the newsletter(s) or <a href="/register/unsubscribe">click here</a>.
+
+</p><p><br><b>E-mail This to a Friend Service</b>
+</p><p>You can choose to electronically forward a story from our site to a friend by entering their e-mail address.  We do not use the e-mail address for any purpose other than to send your e-mail.  We do not rent or sell these e-mail addresses.
+
+</p><p><b>Security</b>
+</p><p>When you place an order at the BabyCenter Store, your personal information and credit card information is safe.  That's because we've taken steps to ensure a secure and superior shopping environment.  We have state-of-the-art encryption technology that protects the transmission and storage of your credit card information.  So it's virtually impossible for your information to be stolen or intercepted while being transferred to BabyCenter.  And, of course, we won't sell or disclose your personal credit card information to others.
+
+
+</p><p><br><b>Cookies</b>
+</p><p>At times, we use a feature of your Web browser to send your computer a "cookie," a small data file that's stored on your hard drive.  We do not and cannot use cookies to retrieve personal information from your computer.  We use cookies to enhance your experience at BabyCenter, and to give you better, more personalized service once you've purchased or registered.  We use this information for internal use only, we don't share it with others.
+
+</p><p><br><b>Online Surveys and Contests </b>
+</p><p>Sometimes we conduct user surveys to improve our site for you.  We may share aggregate, or summary, information about our users with partners or other third parties.  For example, we might disclose that a certain percentage of our users are female.  But we will not sell or share any information at the individual user level.   Sometimes we offer contests and sweepstakes in which we request certain personal information.  For example, we might require your name and e-mail address.  Because the rules and terms of each promotion can vary, all information about the contest is posted during the event.  
+
+</p><p><br><b>Online  Birth Announcements</b>
+</p><p>If you create a birth announcement, we will send you a URL specific to you alone. Your birth announcement is not searchable on our site.  However, some people might be able to guess your URL and see your announcement.  So if you are concerned about including certain information in the announcement, don't add it to your page. <br>
+
+</p><p><br><b>Sponsored Educational Areas</b>
+</p><p>BabyCenter hosts sponsored content pages that are paid for by advertisers.  They are designed to provide high-quality, educational information that we believe will be of interest to you.  We clearly identify these pages so that you know what area of the site you're visiting. The sponsored content pages are written, edited, and fact-checked by the BabyCenter staff before being sent to the sponsor for review. We accept sponsorships only from trusted, reputable companies, such as Johnson &amp; Johnson or Procter &amp; Gamble.  These sponsored educational areas are held to the same high standards as BabyCenter content that is not sponsored.  We will never publish any information we believe to be erroneous or misleading. 
+
+
+</p><p><br><b>Sponsored Promotional Pages</b>
+</p><p>BabyCenter also hosts sponsored promotional pages for advertisers who offer product and promotional information that might be of interest to you, including contests, free samples, discounts, etc.  These pages are clearly identified.  Sometimes the advertiser or BabyCenter will request personal information to enter the promotion.  Because the rules and terms of each promotion can vary, all information is posted during the event.  And, the personal information that is obtained is only used in relation to the promotion.
+
+</p><p><br><b>Reviewing and Changing Your Personal Profile</b>
+</p><p>Once you register, you will be able to review and change your personal profile at any time.  To do that now, <a href="/live/personalize.html?registered=1">click here</a>.
+
+</p><p><br><b>Your Consent</b>
+</p><p>By using our Web site, you consent to our terms of use policy.  To review that now, <a href="/disclaimer.html">click here</a>.
+
+</p><p><br><b>Your Questions and Comments</b>
+</p><p>Feel free to contact us any time and we'll answer any additional questions you may have. Our toll-free phone number is 888-397-5544. Our email address is feedback@babycenter.com .  Our mailing address is  163 Freelon Street, San Francisco, CA 94107.  See <a href="/about/">About BabyCenter</a> to find out more about our company and our policies.  
+
+
+	
+
+
+	
+
+<!--stopindex-->
+<!-- $Id: footer.jhtml,v 1.29 2000/05/17 05:27:58 svenn Exp $ -->
+</p></font></td></tr></tbody></table><br clear="all">
+<p><table border="0" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td bgcolor="#FFFFFF"><!-- AD GOES HERE --><!-- ad number 2(unknown browser) -->
+<a href="http://ad.doubleclick.net/jump/babycenter.com/ARTICLE.3956.7814.;area=.3956.7814.;sz=468X60;pos=bottom;tile=2;ord=1813937?">
+<img src="http://ad.doubleclick.net/ad/babycenter.com/ARTICLE.3956.7814.;area=.3956.7814.;sz=468X60;pos=bottom;tile=2;ord=1813937?" width="468" height="60"></a></td></tr></tbody></table>
+</p><p><table border="0" width="100%" cellspacing="0" cellpadding="0" align="center"><tbody><tr><td align="CENTER" bgcolor="#FFFFFF"><!-- $Id: footer_text.html,v 1.5 2000/05/16 18:13:38 svenn Exp $ -->
+<font face="arial,helvetica,sans-serif" size="-1"><a href="/about/index.html">About BabyCenter</a> | 
+<a href="/general/7814.html">Privacy</a> | 
+<a href="/feedback.html">Feedback</a> | 
+<a href="/general/3877.html">FAQ</a> | 
+<a href="/search">Search</a> | 
+<a href="/">Home</a> | 
+<a href="/contact.html">Contact Us</a> | 
+<a href="/advertising.html">Advertising</a>
+<p><a href="http://www.babycenter.com">http://www.BabyCenter.com/</a>
+</p></font><p><font face="arial,helvetica,sans-serif" size="-1"><font size="1" color="#999999">All contents <a href="/copyright.html">copyright</a> © 1997-2000 BabyCenter, Inc. All rights reserved. This internet site provides information of a general nature and is designed for educational purposes only. If you have any concerns about your own health or the health of your child, you should always consult with a physician or other healthcare professional. Please review the <a href="/disclaimer.html">Terms of Use</a> before using this site. Your use of the site indicates your agreement to be bound by the Terms&nbsp;of&nbsp;Use.<br>
+<!-- do NOT remove used to switch in BAA --><img src="/images/trans.gif" width="1" height="1" onload="if (has_ads){get_ads()}"><br>
+ <a href="/disclaimer.html">Terms of Use</a> | 
+<a href="/photocredits.html">Photo  Credits</a></font></font>
+</p></td></tr></tbody></table><br>
+<table><tbody><tr><td></td></tr></tbody></table>
+<!--startindex-->
+
+
+    
+
+
+	
+
+
+
+
+</p></body></html>
