@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607060758id_/http%3A//www.indextools.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2004-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041223135028id_/http%3A//indextools.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: IndexTools Web Site Tracking and Analysis
 
