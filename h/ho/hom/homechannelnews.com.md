@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homechannelnews.com privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810030024id_/http%3A//www.homechannelnews.com/users/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homechannelnews.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602212443id_/http%3A//www.homechannelnews.com/users/privacy_policy.htm) for the most accurate reproduction.*
 
 # Home Channel News - User Account
 
