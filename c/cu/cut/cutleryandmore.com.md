@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604181549id_/http%3A//cutleryandmore.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cutleryandmore.com privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216062751id_/http%3A//cutleryandmore.com/privacy.htm) for the most accurate reproduction.*
 
-# CutleryAndMore.com Privacy Statement - At CutleryAndMore.com, your privacy is important to us!
+# CutleryAndMore.com: Privacy Policy
 
 Northwestern CutleryAndMore.com has created this privacy statement in order to  demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website Northwestern CutleryAndMore.com.  
   
