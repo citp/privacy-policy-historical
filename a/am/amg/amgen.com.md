@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204113959id_/http%3A//www.amgen.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amgen.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311083619id_/http%3A//www.amgen.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
