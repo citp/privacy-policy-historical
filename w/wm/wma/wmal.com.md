@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602114324id_/http%3A//www.wmal.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmal.com privacy policy that was archived on 2002-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021204094846id_/http%3A//www.wmal.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # WMAL
 
-| [](https://web.archive.org/ad/click.asp?adID=1550&adRunID=1879)  
+| [](https://web.archive.org/ad/click.asp?adID=3887&adRunID=8312)  
   
 |   
-June 2, 2002  
+December 4, 2002  
 ---|---  
   
 | 
@@ -95,8 +95,8 @@ By using this site, you signify your assent to the ABC Privacy Policy. If you do
 [WMAL Events](https://web.archive.org/wmalevents.asp) I [Contests](https://web.archive.org/contests.asp) I [WMAL Scrapbook](https://web.archive.org/wmalscrapbook.asp) I [Community](https://web.archive.org/community.asp) I [E-Mail Your Lawmaker](https://web.archive.org/goout.asp?u=http://www.house.gov/writerep/)   
 [Adopt-A-Pet](https://web.archive.org/adoptapet.asp) I [Money](https://web.archive.org/goout.asp?u=http://www.abcnews.go.com/sections/business) I [WMAL Sports](https://web.archive.org/wmalsports.asp) I [Downloads](https://web.archive.org/downloads.asp) I [Destination Disney](https://web.archive.org/destinationdisney.asp) I [Join The Club](https://web.archive.org/jointheclub.asp)  
 [Free E-Mail](http://www.wmalfreemail.com/) I [Contact Us](https://web.archive.org/contactus.asp) I [WMAL Advertisers](https://web.archive.org/wmaladvertisers.asp) I [Buy This](https://web.archive.org/marketplace/default.asp) I [Listen Live](https://web.archive.org/listenlive.asp) I [Closings and Delays](https://web.archive.org/closingsanddelays.asp)   
-[Womble Carlyle Business Report](https://web.archive.org/womblecarlylebusinessreport.asp) I [FAQ's](https://web.archive.org/faqs.asp) I [Advertise on WMAL](https://web.archive.org/advertiseonwmal.asp) [Washington Gas Energy Tips](https://web.archive.org/gasenergytips.asp)   
-[WMAL Advertisers/Online Coupons](https://web.archive.org/coupons.asp) I [About This Website](https://web.archive.org/aboutthiswebsite.asp) I  [Home](https://web.archive.org/default.asp)   
+[WMAL Business Report](https://web.archive.org/wmalbusinessreport.asp) I [FAQ's](https://web.archive.org/faqs.asp) I [Advertise on WMAL](https://web.archive.org/advertiseonwmal.asp) I [About This Website](https://web.archive.org/aboutthiswebsite.asp)   
+[Legal Resource Center](http://wmal.lawinfo.com/) I [WMAL Advertisers/Online Coupons](https://web.archive.org/coupons.asp) I  [Home](https://web.archive.org/default.asp)   
 Copyright © 2002 WMAL-ABC Radio and [First MediaWorks](javascript:displayNotice\(\);)  
 [Powered by First MediaWorks](http://www.firstmediaworks.com/)   
 [Terms of Use](https://web.archive.org/termsofuse.asp)   [Privacy Policy](https://web.archive.org/privacypolicy.asp)  
