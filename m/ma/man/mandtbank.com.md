@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621125700id_/http%3A//www.mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mandtbank.com privacy policy that was archived on 2003-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031004162505id_/http%3A//www.mandtbank.com/customerservice/privacy.cfm) for the most accurate reproduction.*
 
 # M&T Bank : Customer Service
 
@@ -94,7 +94,7 @@ At M&T, we understand how important it is to protect your personal and financial
 
 Within M&T, we educate our employees about the importance of confidentiality and privacy, and we train them in related policies and procedures. We also take appropriate disciplinary measures whenever necessary to enforce these rules.
 
-Due to the unique nature of Internet transactions, M&T has additional safeguards and procedures in place to protect your personal and financial information on the Internet. For more details, [please click here](https://web.archive.org/web/20030621125700id_/http%3A//www.mandtbank.com/customerservice/Internet_privacy.cfm).
+Due to the unique nature of Internet transactions, M&T has additional safeguards and procedures in place to protect your personal and financial information on the Internet. For more details, [please click here](https://web.archive.org/web/20031004162505id_/http%3A//www.mandtbank.com/customerservice/Internet_privacy.cfm).
 
 _Back to Top_
 
