@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demon.net privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602072359id_/http%3A//www.demon.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demon.net privacy policy that was archived on 2003-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030810050706id_/http%3A//www.demon.net/privacypolicy) for the most accurate reproduction.*
 
 # Demon Internet: Privacy Policy
 
@@ -12,7 +12,7 @@ This document outlines our privacy policy relating to usage of THUS websites. Th
 
 Even where allowed by this policy, THUS will not use your personal data in such a way as to breach the Data Protection Act or any other relevant UK legislation.
 
-This policy may change from time to time, without notice. Please see [www.demon.net/privacypolicy](https://web.archive.org/web/20030602072359id_/http://www.demon.net/privacypolicy/index.shtml) for the latest version.
+This policy may change from time to time, without notice. Please see [www.demon.net/privacypolicy](https://web.archive.org/web/20030810050706id_/http://www.demon.net/privacypolicy/index.shtml) for the latest version.
 
 ### What information does THUS collect from me when I visit a THUS web site?
 
