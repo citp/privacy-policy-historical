@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the levistrauss.com privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203013853id_/http%3A//www.levistrauss.com/help/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levistrauss.com privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605060831id_/http%3A//levistrauss.com/help/privacy.htm) for the most accurate reproduction.*
 
 # Levi Strauss & Co. | Privacy Policy
 
