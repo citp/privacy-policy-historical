@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cheapflights.com.au privacy policy that was archived on 2003-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20031203000414id_/http%3A//www.cheapflights.com.au/misc/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cheapflights.com.au privacy policy that was archived on 2004-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040606131734id_/http%3A//cheapflights.com.au/misc/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <!-- #BeginEditable "doctitle" -->
@@ -8,6 +8,88 @@
 <meta name="keywords" content="flight, cheap flight, cheap flights, privacy, air ticket, air tickets, air, ticket, charter flight, charter flights, bargain fares, bargain, discounted, discount, discount tickets, travel, travel agents, agents, student fare, students, student fares, youth fare, consolidator, consolidators, late deal, late deals, bucket shop, bucket shops, budget, fly, Australia and New Zealand, from Australia and New Zealand, airline, airlines, flying, special offers, special offer, discount business class.">
 <!-- #EndEditable -->
 <link rel="stylesheet" href="../style/global.css">
+
+ <script language="JavaScript">
+
+<!-- Begin
+var expDays = 365; // number of days the cookie should last
+
+var page = "../signup.html";
+var windowprops = "width=450,height=200,location=no,toolbar=no,menubar=no,scrollbars=no,resizable=yes";
+
+function GetCookie (name) {
+var arg = name + "=";
+var alen = arg.length;
+var clen = document.cookie.length;
+var i = 0;
+while (i < clen) {
+var j = i + alen;
+if (document.cookie.substring(i, j) == arg)
+return getCookieVal (j);
+i = document.cookie.indexOf(" ", i) + 1;
+if (i == 0) break;
+}
+return null;
+}
+function SetCookie (name, value) {
+var argv = SetCookie.arguments;
+var argc = SetCookie.arguments.length;
+var expires = (argc > 2) ? argv[2] : null;
+var path = (argc > 3) ? argv[3] : null;
+var domain = (argc > 4) ? argv[4] : null;
+var secure = (argc > 5) ? argv[5] : false;
+document.cookie = name + "=" + escape (value) +
+((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+((path == null) ? "" : ("; path=" + path)) +
+((domain == null) ? "" : ("; domain=" + domain)) +
+((secure == true) ? "; secure" : "");
+}
+function DeleteCookie (name) {
+var exp = new Date();
+exp.setTime (exp.getTime() - 1);
+var cval = GetCookie (name);
+document.cookie = name + "=" + cval + "; expires=" + exp.toGMTString();
+}
+var exp = new Date();
+exp.setTime(exp.getTime() + (expDays*24*60*60*1000));
+function amt(){
+var count = GetCookie('count')
+if(count == null) {
+SetCookie('count','1')
+return 1
+}
+else {
+var newcount = parseInt(count) + 1;
+DeleteCookie('count')
+SetCookie('count',newcount,exp)
+return count
+   }
+}
+function getCookieVal(offset) {
+var endstr = document.cookie.indexOf (";", offset);
+if (endstr == -1)
+endstr = document.cookie.length;
+return unescape(document.cookie.substring(offset, endstr));
+}
+
+function checkCount() {
+var count = GetCookie('count');
+if (count == null) {
+count=1;
+SetCookie('count', count, exp);
+
+window.open(page, "", windowprops);
+
+}
+else {
+count++;
+SetCookie('count', count, exp);
+   }
+}
+//  End -->
+</script>
+
+
 <script language="JavaScript">
 <!--
 function MM_openBrWindow(theURL,winName,features) { //v2.0
@@ -16,7 +98,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
 //-->
 </script>
 </head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#0033CC" text="#000000" vlink="#0033CC" alink="#0033CC">
+<body onload="checkCount()" bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#0033CC" text="#000000" vlink="#0033CC" alink="#0033CC">
 <a name="top"></a>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -66,7 +148,7 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
     </tbody></table><table width="134" cellspacing="0" cellpadding="0" border="0" background="../images/PatternLightOrange.gif"><tbody><tr valign="middle">
           <td><a href="booking.html" class="index"><img src="../images/shim.gif" width="9" height="5" border="0">Book flights online</a><br>
             <img src="../images/pxLBlu.gif" width="133" height="1"><br>
-            <a href="booking.html" class="index"><img src="../images/shim.gif" width="9" height="5" border="0"></a><a class="index" href="holiday_booking.html">Book flight + hotel</a><br>
+            <a href="booking.html" class="index"><img src="../images/shim.gif" width="9" height="5" border="0"></a><a class="index" href="holiday_booking.html">Holiday Search</a><br>
             <img src="../images/pxLBlu.gif" width="133" height="1"><br><a href="../offers/hotdeals_ausnz.html" class="index"><img src="../images/shim.gif" width="9" height="5" border="0">Hot deals</a></td>
         </tr></tbody></table>
       <table width="134" cellspacing="0" cellpadding="0" border="0" background="../images/PatternLBlu.gif">
@@ -176,27 +258,25 @@ The banners appearing on this website are delivered to you, on our behalf, by Do
 
 <tbody><tr><td class="bodytext" align="center"><p>
       <b>International departures: &nbsp;</b><a href="http://www.cheapflights.co.uk">Cheap
-      Flights UK</a>&nbsp; <a href="http://www.cheapflights.com/">Cheap Flights
-      USA</a> &nbsp;<a href="http://www.cheapflights.ca">Cheap Flights Canada</a><br>
-      <a href="http://www.cheapflights.com.hk">Cheap Flights Hong Kong</a>&nbsp;
-      <a href="http://www.cheapflights.co.za">Cheap Flights South Africa</a>&nbsp;
+      Flights - UK</a>&nbsp; <a href="http://www.cheapflights.com/">Cheap
+      Flights - USA</a> &nbsp;<a href="http://www.cheapflights.ca">Cheap Flights
+      - Canada</a><br>
+      <a href="http://www.cheapflights.com.hk">Cheap Flights - Hong Kong</a>&nbsp;
+      <a href="http://www.cheapflights.co.za">Cheap Flights - South Africa</a>&nbsp;
       <a href="http://www.vols123.com">Vols 123 - France</a>&nbsp; <a href="http://www.offertevoli.it">Offerte
       Voli - Italia</a>&nbsp; <a href="http://www.cheapflights.dk">Billig
       Flyrejser - Danmark</a><br>
       <a href="http://www.billigfliegen123.de">Billig Fliegen 123 - Germany</a>&nbsp;&nbsp;<a href="http://www.vuelosbaratos123.com">
       Vuelos Baratos 123 - Spain</a>&nbsp; <a href="http://www.cheapflights.com.ru">Cheap
-      Flights - Russia</a>&nbsp; <a href="http://www.billigflug.com">Billigflug
-      - Deutschland</a><br>
-      <a href="http://www.billige-flybilletter-123.com">Billige Flybilletter 123
-      - Norge</a>&nbsp; <a href="http://www.vliegtickets-123.nl">Goedkope
-      Vliegtickets 123 - Nederland</a>&nbsp; <a href="http://www.cheapflights.ch">Billig
-      fliegen - Schweiz</a><br>
-      &nbsp; <a href="http://www.billigaflyg.se">Billiga Flyg - Sverige</a>&nbsp;
-      <a href="http://www.cheapflights.at">Flugreise Österreich</a>&nbsp; <a href="http://www.halvat-lennot-123.com">Halvat
+      Flights - Russia</a>&nbsp; <a href="http://www.billige-flybilletter-123.com">Billige
+      Flybilletter 123 - Norge</a><br>
+      <a href="http://www.vliegtickets-123.nl">Goedkope Vliegtickets 123 -
+      Nederland</a>&nbsp; <a href="http://www.cheapflights.ch">Billig fliegen -
+      Schweiz</a>&nbsp; <a href="http://www.billigaflyg.se">Billiga Flyg -
+      Sverige</a><br>
+      <a href="http://www.cheapflights.at">Flugreise - Österreich</a>&nbsp; <a href="http://www.halvat-lennot-123.com">Halvat
       Lennot 123 - Suomi</a><br>
-    <b>Our sister sites:&nbsp;</b> <a href="http://www.cheapaccommodation.com">Cheap
-Accommodation</a>&nbsp; <a href="http://www.cheap-hotels-123.com">Cheap Hotels
-123</a>&nbsp; <a href="http://www.cheapholidaydeals.co.uk">Cheap Holidays</a><br>
+      &nbsp;<br>
 <b>Site Information:&nbsp;</b>  <a href="feedback.html">Feedback</a>&nbsp; &nbsp;<a href="about.html">About Us</a>&nbsp;&nbsp;
     <a href="../alerts.html">Email alerts</a></p>
 </td></tr>
@@ -207,11 +287,14 @@ Accommodation</a>&nbsp; <a href="http://www.cheap-hotels-123.com">Cheap Hotels
               </tr>
             </tbody></table>
   </td></tr>
-<tr valign="top"><td class="smallText" align="center"><font color="#000000"><b>Quickfinder info &amp; site maps:&nbsp;</b>
-    <a href="cheapflightsse.html">Cheapflights.com Info</a>&nbsp;&nbsp; <a href="cheapnightsse.html">Cheapaccommodation.com
-    Info</a>&nbsp;&nbsp; <a href="others.html">Other domains we own</a><br>
+<tr valign="top"><td class="smallText" align="center"><font color="#000000"><b>Other products:</b>&nbsp;
+    <a href="http://www.cheapaccommodation.com">Discounted Accommodation</a><img height="8" hspace="4" src="../images/pxGrey.gif" width="1">USA users:
+      <a href="http://www.cheapflights.com">Discount Airline tickets</a><img height="8" hspace="4" src="../images/pxGrey.gif" width="1"><a href="http://www.cheapestflights.com">Cheapest Airfares?</a>
+      (Fun site)<br>
+      UK users: <a href="http://www.cheap-hotels.co.uk">Discounted and cheap hotels</a><img height="8" hspace="4" src="../images/pxGrey.gif" width="1"><a href="http://www.cheapholidaydeals.co.uk/short-breaks/">Short Breaks &amp; City Breaks</a><img height="8" hspace="4" src="../images/pxGrey.gif" width="1"><a href="http://www.cheapholidaydeals.co.uk">Cheap Holidays &amp; Last minute holiday deals</a><br>
+      <!--<a href="cheapflightsse.html">Cheapflights.co.uk Info</a>&nbsp;&nbsp;<IMG height="8" hspace="4" src="../images/pxGrey.gif" width="1">--><a href="cheapnightsse.html">Cheapaccommodation.com Info</a><img height="8" hspace="4" src="../images/pxGrey.gif" width="1"><a href="others.html">Other domains we own</a><br>
     &nbsp;<br>
-    © 1996-2003 Cheapflights Ltd. All rights reserved &nbsp;&nbsp;</font><a href="terms_conditions.html">Terms
+    © 1996-2004 Cheapflights Ltd. All rights reserved &nbsp;&nbsp;</font><a href="terms_conditions.html">Terms
     &amp; conditions</a>&nbsp;&nbsp; <a href="http://www.world-of-cheap-flights.com">www.world-of-cheap-flights.com</a></td></tr>
 <tr><td>
             <table border="0" cellpadding="0" cellspacing="0" width="100%" bgcolor="#CCCCFF">
