@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the t-mobile.com privacy policy that was archived on 2004-06-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040629224029id_/http%3A//www.t-mobile.com/info/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the t-mobile.com privacy policy that was archived on 2004-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041231023513id_/http%3A//www.t-mobile.com/info/legal/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>T-Mobile Privacy Policy</title>
+<!-- title --><!-- VOICESTREAM PRIVACY NOTICE --><!-- /title -->
+
+<meta http-equiv="Cache-Control" content="public">
 <meta name="PUBLISHER" content="T-Mobile USA"> 
 <meta name="LANGUAGE" content="English">
 <meta name="COPYRIGHT" content="2002-2004">  
@@ -39,37 +42,62 @@
 								location.href=url;
 							}
 						}
-							
-		//-->
-		</script>
+		
+		<!-- Alert prompt when the Store Locator tool is not enabled -->
+function storeLocator(url, isActive)
+{
+	
+	if ( isActive == 'False') {
+		alert('Sorry, but we are currently unable to perform your search.\nPlease try again later, or call 1-877-387-4324 to find the\nT-Mobile location nearest you.');
+	}
+	else 
+	{
+		document.location = url;
+	}
+}
+
+<!-- End Alert -->
+
+<!-- Alert prompt when the jobs site is not enabled -->
+function jobsStatus(url, isActive)
+{
+	
+	if ( isActive == 'False') {
+		alert('Sorry, our jobs site is temporarily unavailable.');
+	}
+	else 
+	{
+		document.location = url;
+	}
+}
+
+<!-- End Alert -->
+
+
+
+		//-->	
+</script>
+
+
 
 
 </head>
 <body marginwidth="0" marginheight="0">
+
 <div id="topNav">
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-	<tbody><tr class="international">
-		<td><img src="/spacer.gif" width="212" height="6" alt=""></td>
-		<td><img src="/spacer.gif" width="230" height="1" alt=""></td>
-		<td><img src="/spacer.gif" width="85" height="1" alt=""></td>
-		<td width="2000"><img src="/spacer.gif" alt=""></td>
-	</tr>
-	<tr>
-		<td class="border" colspan="4"><img src="/spacer.gif" alt=""></td>
-	</tr>
-	<tr>
-		<td><img src="/masthead/images/masthead_tmobile.gif" width="151" height="46" alt="T-Mobile"></td>
-		<td class="banner-home"><img src="/masthead/images/spacer.gif" width="13" height="46" alt=""><!-- 
-		 --><img src="/masthead/images/mh_color_green.gif" width="4" height="46" alt=""><!-- 
-		  --><img src="/masthead/images/mh_home_lft.jpg" width="211" height="47" alt=""></td>
-		<td align="right" valign="top"><p><a href="javascript:window.close();" class="plain"><img src="/images/arrow.gif" alt="" border="0">Close</a>&nbsp;&nbsp;</p></td>
-		<td class="banner-popup"><img src="/spacer.gif" width="1" height="1" alt=""></td>
-	</tr>
-	<tr>
-		<td class="border" colspan="4"><img src="/spacer.gif" alt=""></td>
-	</tr>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-image:url(/masthead/images/masthead_popup.gif); background-repeat:no-repeat;">
+<tbody><tr>
+	<td><img src="/spacer.gif" width="212" height="87" alt=""></td>
+	<td><img src="/spacer.gif" width="267" height="1" alt=""></td>
+	<td valign="top"><img src="/spacer.gif" width="46" height="1" alt=""><p><a href="javascript:window.close();" class="plain"><img src="/images/arrow.gif" alt="" border="0">Close</a>&nbsp;&nbsp;</p></td>
+	<td width="2000"><img src="/spacer.gif" alt=""></td>
+</tr>
+<tr>
+	<td class="border" colspan="4"><img src="/spacer.gif" alt=""></td>
+</tr>
 </tbody></table>
 </div>
+
 
 <!--Begin main div & body table-->
 
@@ -84,6 +112,43 @@
 	<tr>
 		<td valign="top">
 <!-- ++ -- ++ -- ++ -- ++ -- ++ -- BEGIN PAGE CONTENT -- ++ -- ++ -- ++ -- ++ -- ++ -->
+<script>
+	function popUp(url, width, height, left, top, toolbar) {
+			var intWidth=568;
+			var intHeight=400;
+			var intLeft=30;
+			var intTop=45;
+			var intTool=0;
+			if(width > 0) intWidth = width;
+		    if(height > 0) intHeight = height;
+		    if(left > 0) intLeft = left;
+		    if(top > 0) intTop = top;
+			if(toolbar < 2) intTool = toolbar;
+			//var winPopUp = window.open(url,'popup','width=' + intWidth + ',height=' + intHeight + ',left=' + intLeft + ',top=' + intTop + ',toolbar=' + intTool + ',scrollbars=1,resizable=1');
+			var winPopUp = window.open('privacypolicypopup.asp','pop1','width=' + intWidth + ',height=' + intHeight + ',toolbar=' + intTool + ',scrollbars=1,resizable=1');
+		    if(typeof window.focus != 'undefined')  javascript: winPopUp.focus();
+
+		}
+</script>
+
+<table border="0" cellpadding="0" cellspacing="0" width="425">
+<!-- FZ 11-10-04: Before production rollout, remember to replace href="/t-mobile/info with -->
+<!---              http://www.t-mobile.com/info....  --->
+<tbody><tr>
+    <td width="162"><img height="8" alt="" src="/images/spacer.gif" width="162"></td>
+    <td width="10"><img height="8" alt="" src="/images/spacer.gif" width="10"></td>
+    <td class="border2"><img src="/images/spacer.gif" width="1" height="8" alt=""></td>
+    <td width="10">&nbsp;</td>
+    <td width="242"><img alt="Print" src="/images/print.gif">&nbsp;<a class="plain" onclick="popUp(this); return false" href="http://www.t-mobile.com/info/legal/privacypolicypopup.asp">
+       Printer Friendly Version </a><br></td>
+  </tr>
+      <!--
+   <td width ="300"><IMG alt=Print src="/images/print.gif">&nbsp;<A
+      class="plain" onclick="popUp(this); return false"
+       href="/cabortest/info/legal/returnpolicypopup.asp" >Print return policy</A></td>
+      </tr>-->
+</tbody></table>
+
 <table border="0" cellpadding="0" cellspacing="0" width="525">
 	<tbody><tr>
 		<td><img src="/images/spacer.gif" width="162" height="1" alt=""></td>
@@ -112,11 +177,11 @@
 
 			<!-- START Content Block -->
 
-<strong class="header">T-Mobile Privacy Notice</strong><br>
-
+<strong class="header"><br>T-Mobile Privacy Notice</strong><br>
 <hr size="1" class="border">
-<p>T-Mobile USA, Inc. and its affiliates (collectively "T-Mobile") has prepared this privacy notice ("Notice") to describe what information about you is collected and how that information may be used, disclosed and protected when you access or use any of our services via the Internet or through any wireless device that allows Internet access. This Notice does not apply to information that may be collected offline. T-Mobile may revise or update this Notice from time to time, so you should refer back to this page often for the latest information.</p>
-			<div class="arrowList">
+T-Mobile USA, Inc. and its affiliates (collectively "T-Mobile") has prepared this privacy notice ("Notice") to describe what information about you is collected and how that information may be used, disclosed and protected when you access or use any of our services via the Internet or through any wireless device that allows Internet access. This Notice does not apply to information that may be collected offline. T-Mobile may revise or update this Notice from time to time, so you should refer back to this page often for the latest information.
+<p>
+			</p><div class="arrowList">
 				<p><span class="spcr">&nbsp;</span><a href="privacy2.asp"><img src="/images/arrow.gif" alt="" border="0">What is "Personally Identifiable" information and how does it relate to me?</a></p>
 				<p><span class="spcr">&nbsp;</span><a href="privacy3.asp"><img src="/images/arrow.gif" alt="" border="0">When and how is information collected?</a></p>
 				<p><span class="spcr">&nbsp;</span><a href="privacy4.asp"><img src="/images/arrow.gif" alt="" border="0">How do you use "Personally Identifiable" information?</a></p>
@@ -126,9 +191,10 @@
 				<p><span class="spcr">&nbsp;</span><a href="privacy8.asp"><img src="/images/arrow.gif" alt="" border="0">How do you check account information?</a></p>
 				<p><span class="spcr">&nbsp;</span><a href="privacy9.asp"><img src="/images/arrow.gif" alt="" border="0">Will this notice be changed in the future?</a></p>
 				<p><span class="spcr">&nbsp;</span><a href="privacy10.asp"><img src="/images/arrow.gif" alt="" border="0">How can you contact us?</a></p>
-				<p><span class="spcr">&nbsp;</span><a href="T-MobilePrivacyNotice.doc" target="_blank"><img src="/images/arrow.gif" alt="" border="0">Downloadable Version [Word Document]</a></p>
-			</div>
+				<p><span class="spcr">&nbsp;</span><a href="t-mobileprivacynotice.pdf" target="_blank"><img src="/images/arrow.gif" alt="" border="0">Downloadable Version [PDF]</a></p>
 
+			</div>
+<p></p>
 			<!-- END Content Block -->
 
 		</td>
@@ -252,7 +318,6 @@ dcs_TAG(TagPath);
 <noscript>
 <IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcs.t-mobile.com/njs.gif?dcsuri=/nojavascript">
 </noscript>
-
 
 
 </body></html>
