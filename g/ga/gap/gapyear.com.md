@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207181231id_/http%3A//gapyear.com/home.php%3Fop%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gapyear.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610163345id_/http%3A//gapyear.com/home.php%3Fop%3Dpolicy) for the most accurate reproduction.*
 
 # GAPYEAR.COM
 
   
-[Home](https://web.archive.org/web/20031207181231id_/http%3A//gapyear.com/index.php) :: Privacy policy
+[Home](https://web.archive.org/web/20040610163345id_/http%3A//gapyear.com/index.php) :: Privacy policy
 
  **Privacy Statement**
 
