@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204101042id_/http%3A//fpl.com/contents/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpl.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308034132id_/http%3A//www.fpl.com/contents/privacy_policy.shtml) for the most accurate reproduction.*
 
 # FPL | Privacy Policy
 
@@ -6,11 +6,11 @@ Dispute resolution and privacy information | Who can use the online forms | Data
 
 At FPL, we take steps to ensure the privacy of your business transactions.
 
-Our home page on the Web is located at [www.fpl.com](http://www.fpl.com/). This is the full text of our privacy policy. Customers who do not wish to receive FPL promotional e-mails on new products and services may [click here to notify us](https://app.fpl.com/optout/OptOutHtmlController?command=update). 
+Our home page on the Web is located at [www.FPL.com](http://www.fpl.com/). This is the full text of our privacy policy. Customers who do not wish to receive FPL promotional e-mails on new products and services may [click here to notify us](https://app.fpl.com/optout/OptOutHtmlController?command=update). 
 
 We may send out periodic e-mails informing customers of offers related to a service they requested. Customers will not be able to choose to unsubscribe to these mailings, as they are considered an essential service.
 
-We invite you to contact us if you have questions about this policy. You may contact us [by e-mail](https://web.archive.org/web/20041204101042id_/http%3A//fpl.com/contact/contents/index.shtml#E-mail) or standard mail at the following address: 
+We invite you to contact us if you have questions about this policy. You may contact us [by e-mail](https://web.archive.org/web/20050308034132id_/http%3A//www.fpl.com/contact/contents/index.shtml#E-mail) or standard mail at the following address: 
 
 Florida Power & Light   
 PO Box 025576   
@@ -18,17 +18,13 @@ Miami, FL 33102
 
 ## Dispute resolution and privacy information
 
-**Customer Service** : To contact us, [visit us on the Web](https://web.archive.org/web/20041204101042id_/http%3A//contact/contents/index.shtml). FPL will reply to your e-mail within four business days of receiving it (Monday through Friday, excluding holidays). 
+**Customer Service** : To contact us, [visit us on the Web](https://web.archive.org/web/20050308034132id_/http%3A//contact/contents/index.shtml). FPL will reply to your e-mail within four business days of receiving it (Monday through Friday, excluding holidays). 
 
-**Federal Trade Commission** : The [Federal Trade Commission](http://www.ftc.gov/) is educating consumers and businesses about the importance of personal information privacy. Read more about their efforts, what they've learned, and what you can do to protect the privacy of your personal information. 
-
-Top of Page
+**Federal Trade Commission** : The Federal Trade Commission is educating consumers and businesses about the importance of personal information privacy. Read more about their efforts, what they've learned, and what you can do to protect the privacy of your personal information. 
 
 ## Who can use the online forms
 
 FPL online service request forms are available to residential and business customers. These forms require the use of cookies to complete a secure connection with your computer.
-
-Top of Page
 
 ## Data collection
 
@@ -63,13 +59,9 @@ If you supply us with your personal information online, it will be used only for
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Top of Page
-
 ## What cookies are
 
 Cookies are a technology that can be used to provide you with tailored information from a Web site. A cookie is a small amount of data exchanged between your computer and ours. It's a code widely used by Web sites to track how customers access information. It also can be used to customize information and recall data so that you don't have to retype it. 
-
-Top of Page
 
 ## How cookies work
 
@@ -87,13 +79,9 @@ Check the Help menu on your browser for more information on your cookie settings
 
 If you reject all cookies, you will not be able to use FPL's online applications that require you to log in. Other information on the Web site, however, still may be accessed. 
 
-Top of Page
-
 ## Cookies are safe
 
 It is important to note that cookies are safe. They cannot be executed as code or be used to deliver a virus, and personal information is not gathered from them, or stored on them.
-
-Top of Page
 
 ## Web site security
 
@@ -101,15 +89,11 @@ The FPL Web site is secure. We use industry-standard encryption technologies whe
 
 You must keep your user ID and password confidential and notify FPL immediately if you detect a security breach.
 
-For more information on Internet browser settings affecting our security features, visit [Recommended Browser Settings](https://web.archive.org/web/20041204101042id_/http%3A//fpl.com/faqs/contents/settings.shtml).
-
-Top of Page
+For more information on Internet browser settings affecting our security features, visit [Recommended Browser Settings](https://web.archive.org/web/20050308034132id_/http%3A//www.fpl.com/faqs/contents/settings.shtml).
 
 ## Confidentiality
 
 FPL does not reveal any personal information that is provided by our customers through our Web site to any third parties, including other subsidiaries of the FPL Group, except when requested to do so by a governmental agency having jurisdiction, or by a court of competent jurisdiction or other operation of law. All information provided by customers using our online forms is kept strictly confidential and secure to prevent unauthorized use of personal information. 
-
-Top of Page
 
 ## Disclaimer
 
