@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nursingtimes.net privacy policy that was archived on 2001-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010410031839id_/http%3A//www.nursingtimes.net/help/hapage.asp%3FID%3DPrivacyDoc2001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nursingtimes.net privacy policy that was archived on 2002-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020202180540id_/http%3A//www.nursingtimes.net/help/hapage.asp%3FID%3DPrivacyDoc2001) for the most accurate reproduction.*
 
 # Nursing Times Net
 
