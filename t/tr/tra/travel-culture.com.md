@@ -1,31 +1,42 @@
-> *The following text is extracted and transformed from the travel-culture.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610002931id_/http%3A//www.travel-culture.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-culture.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204022444id_/http%3A//www.travel-culture.com/privacy.shtml) for the most accurate reproduction.*
 
 # Our Privacy Policy.
 
-In this oceon of networks We have unluckily been abused by certain elements. [Travel & Culture Services](http://www.travel-culture.com/company.shtml) condem such uses of the internet. We believe Internet should be purly a mean of information and good business communication.Some of our privacy policies are as under.
+This is the web site of **Travel & Culture Services**.  
 
-#### 1) WHAT information is being collected
 
-If you are simply visiting our site NONE of your information including your IP addresses, browser tags, user origins your addresses, email Fax etc. Your browsing this site is a pleasure for us but we do not want to bug you for it.
+Our postal address is   
+**36 National Square Khayaban e Clifton  
+Karachi, Sindh, 75530**
 
-If you fill out a form all data is sent by secure email to us and we guarantee that your information remains purely with us. We do not put your info on any other un-secure server nor we sell it to any 3rd party, nor we use it for our own emailing unless you have expressed a wish.
+We can be reached via e-mail by [clicking here](http://www.travel-culture.com/contact.shtml)  
+or you can reach us by telephone at 92-21-5832632  
 
-#### 2) WHY the information is being collected
 
-Your data is kept in our records With the help of that we can send you the necessary reply, confirmation of your booking or if you have subscribed to our ezine we mail you the ezine.
+For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
 
-#### 3) WHEN that information is being collected
+We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, information volunteered by the consumer, such as survey information and/or site registrations, no information on consumers who browse our Web page.
 
-Only when you fill a form and hit the " Send" Button.
+The information we collect is used for internal review and is then discarded, not shared with other organizations for commercial purposes.
 
-#### 4) WHO will be using that information
+With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
 
-No one except us.We send a booking code to hotels. Your name is sent to the hotels 2 days prior to your arrival.
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address, visiting us at <http://www.travel-culture.com/contact.shtml>.
 
-#### 5) WHERE the information is actually stored
+If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
-In the hard drive of our main computer.
+calling us at the number provided above. 
 
-#### 6) HOW to remove or modify that information
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above.
 
-Simply send us a return email mentioning about the removal. We remove your name address mannually leaving no flaws
+Upon request we provide site visitors with access to transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them , a description of information that we maintain about them.
+
+Consumers can access this information by e-mail us at the above address, write to us at the above address. 
+
+Upon request we offer visitors the ability to have inaccuracies corrected in contact information, communications that the consumer/visitor has directed to the site.
+
+Consumers can have this information corrected by sending us e-mail at the above address. 
+
+With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site, When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local consumer protection office.
