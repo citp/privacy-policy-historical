@@ -1,22 +1,20 @@
-> *The following text is extracted and transformed from the ivcc.edu privacy policy that was archived on 2004-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041215093710id_/http%3A//www.ivcc.edu/1-815-220-IVCC/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivcc.edu privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403182446id_/http%3A//www.ivcc.edu/contactus/privacy) for the most accurate reproduction.*
 
-# IVCC > Students
+# IVCC » Contact Us
 
-## IVCC Privacy Statement
-
-### General Statement of Privacy
+## General Statement of Privacy
 
 Illinois Valley Community College (IVCC) is committed to protecting your privacy. This statement explains how IVCC uses information that is collected from you when you give information to us through our Web sites.
 
-### Collecting and Controlling Your Personal Information
+## Collecting and Controlling Your Personal Information
 
 IVCC will tell you when it collects information from you. This information is usually sent by you on a volunteer basis, usually through our online application, contact us form, or via e-mail.
 
-### Use of Personal Information
+## Use of Personal Information
 
 This information is collected to provide better customer service, for research purposes, to reply to inquiries and to meet Federal and State reporting requirements.
 
-### Disclosure of information to outside parties
+## Disclosure of information to outside parties
 
 IVCC will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to:
 
@@ -26,13 +24,13 @@ IVCC will disclose your personal information, without notice, only if required t
 
 
 
-### Management of Your Personal Information
+## Management of Your Personal Information
 
 E-mail received is distributed to the appropriate individual.
 
 Information is put into our administrative software.
 
-### Access to Your Personal Information
+## Access to Your Personal Information
 
 Individuals who apply to the college should review our [FERPA page](http://www.ivcc.edu/admissions/ferpa.html) for more information.
 
@@ -41,11 +39,11 @@ Individuals who apply to the college should review our [FERPA page](http://www.i
 
 
 
-### Security of your Personal Information
+## Security of your Personal Information
 
 Please note that information will be submitted via **non** -secure e-mail.  Please do not send your Social Security Number or other information that you would not want someone else to know.  Individuals under the age of 13 should not use this form.
 
-### Protection of Children’s Personal Information
+## Protection of Children’s Personal Information
 
 Individuals under the age of 13 must get parental consent to send personal information through our Web site or via e-mail.  For more information on the Children's Online Privacy Protection Act of 1998 please visit the [Federal Trade Commission](http://www.ftc.gov/ogc/coppa1.htm) Web site.
 
@@ -65,11 +63,11 @@ The term "personal information" means individually identifiable information abou
 
 (G) information concerning the child or the parents of that child that the website collects online from the child and combines with an identifier described in this paragraph.
 
-### Changes to this Statement
+## Changes to this Statement
 
 IVCC reserves the right to make changes to this statement when necessary. If the college does, the notice of update will be placed on the [home page](http://www.ivcc.edu/) of our Web site.
 
-### Contact Information
+## Contact Information
 
 IVCC welcomes any comments that you might have on this statement. Please send e-mail to [webmaster@ivcc.edu](mailto:webmaster@ivcc.edu) or postal correspondence to:
 
