@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegetennisonline.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602200721id_/http%3A//www.collegetennisonline.com/view/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegetennisonline.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203140753id_/http%3A//collegetennisonline.com/view/privacy.asp) for the most accurate reproduction.*
 
 # College Tennis Online: NCAA results, ITA collegiate tennis rankings, and college tennis news
 
