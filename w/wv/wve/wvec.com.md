@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wvec.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607155356id_/http%3A//www.wvec.com/registration/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wvec.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206092708id_/http%3A//www.wvec.com/registration/privacy.html) for the most accurate reproduction.*
 
 # WVEC.com | News for Hampton Roads, Virginia | Privacy Policy
 
@@ -88,7 +88,7 @@ When any site user chooses to opt-out of a specific advertiser program, to compl
 You may access all of the Personal Information that we collect from you online and maintain by using the procedure that follows. We use this procedure to better safeguard your Personal Information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.  
 You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain areas of our Site may no longer be accessible to you.
 
-1\. Enter (or click) http://signin.wvec.com in your browser.  
+1\. Enter (or click) <http://www.wvec.com/sharedcontent/registration/membercenter.jsp> in your browser.  
 2\. Sign in by entering your e-mail address and password. Your account information will then be displayed.  
 3\. To change your contact options select "Contact Options," make your selections, and submit the form.  
 4\. To remove your registration profile from our database, select "Delete My Account," make your selections, and submit the form.
@@ -107,10 +107,8 @@ This Privacy Policy is effective as of March 5, 2004. Belo Interactive reserves 
 
 Advertising 
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/1137862103/Position1/default/empty.gif/7a2f486f654634304a4f6f414476744e?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/267752014/Position1/default/empty.gif/7a2f4868396c34304a4f6f4143745236?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/1693502657/Position4/default/empty.gif/7a2f486f654634304a4f6f414476744e?x)
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/1960389918/Position4/default/empty.gif/7a2f4868396c34304a4f6f4143745236?x)
 
-[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/2055440546/Position5/default/empty.gif/7a2f486f654634304a4f6f414476744e?x)
-
-Search local ads and more!
+[](https://web.archive.org/save/http://ads.belointeractive.com/RealMedia/ads/click_lx.ads/www.wvec.com/aboutus/508816529/Position5/default/empty.gif/7a2f4868396c34304a4f6f4143745236?x)
