@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2004-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040821092013id_/http%3A//www.decisionanalyst.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decisionanalyst.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403170156id_/http%3A//www.decisionanalyst.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,10 +15,10 @@ We believe that consumers have an inalienable right to privacy. We protect your 
 We take your trust, and our responsibilities, very seriously. Here are our privacy practices regarding the information you entrust to us. 
 
 Who We Are  
-The site [www.DecisionAnalyst.com](https://web.archive.org/web/20040821092013id_/http%3A//www.decisionanalyst.com/index.asp) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20040821092013id_/http%3A//www.decisionanalyst.com/index.asp).  Tell me more.
+The site [www.DecisionAnalyst.com](https://web.archive.org/web/20050403170156id_/http%3A//www.decisionanalyst.com/index.asp) is owned and operated by [Decision Analyst, Inc](https://web.archive.org/web/20050403170156id_/http%3A//www.decisionanalyst.com/index.asp).  Tell me more.
 
   
-We only collect the personal identifying information (name, address, phone number, and email address, etc.) you voluntarily provide to us when downloading our Stats™ Statistical Software.  Tell me more.
+We only collect the personal identifying information (name, address, phone number, and email address, etc.) you voluntarily provide to us when downloading our marketing research data, white papers, and Stats™ Statistical Software.  Tell me more.
 
   
 We use the information you provide us to measure our advertising efforts. Tell me more.
@@ -27,7 +27,7 @@ We use the information you provide us to measure our advertising efforts. Tell m
 We don't share any information that personally identifies you with any business, client, or business partner. Decision Analyst does not sell or rent your personal information to anyone.  Tell me more.
 
   
-We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20040821092013id_/http%3A//www.decisionanalyst.com/index.asp) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion® website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20040821092013id_/http%3A//www.decisionanalyst.com/index.asp). We do collect information in our log files.  Tell me more.
+We do not use cookies for the [www.decisionanalyst.com](https://web.archive.org/web/20050403170156id_/http%3A//www.decisionanalyst.com/index.asp) corporate site. We may, however, use cookies to track our advertising efforts for our American Consumer Opinion® website. Some of this tracking is conducted through the site [www.decisionanalyst.com](https://web.archive.org/web/20050403170156id_/http%3A//www.decisionanalyst.com/index.asp). We do collect information in our log files.  Tell me more.
 
   
 The www.decisionanalyst.com website contains links to other websites whose privacy policies may differ from ours.  Tell me more.
@@ -50,7 +50,7 @@ The www.DecisionAnalyst.com website is owned and operated by [Decision Analyst, 
 
 Back to top
 
-The only information we collect from you is the information you give us when you download Stats Statistical Software. 
+The only information that we collect from you is the information you voluntarily give to us when you download marketing research data, white papers, and Stats™ Statistical Software. 
 
   * We collect your name, company name, company phone number, company fax number, mailing address, and email address.
 
@@ -58,7 +58,7 @@ The only information we collect from you is the information you give us when you
 
 Back to top
 
-We use the information you give us to measure the effectiveness of our advertising and to update you of any change in Stats™ Statistical Software. 
+We use the information you provide to us while downloading marketing research data, white papers, and Stats™ Statistical Software to measure the effectiveness of our advertising, to update you of any change in Stats™ Statistical Software, and to contact you about information contained in our white papers upon your request. 
 
 Back to top
 
