@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.tn.us privacy policy that was archived on 2000-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001213064000id_/http%3A//www.state.tn.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.tn.us privacy policy that was archived on 2001-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010401032053id_/http%3A//www.state.tn.us/privacy.html) for the most accurate reproduction.*
 
 # Public Safety
 
@@ -44,4 +44,4 @@ The State welcomes comments regarding this privacy statement. Please convey any 
 
 Bonnie Heithcock, State Portal Manager Department of Finance and Administration Office for Information Resources Voice: (615) 741-3704 E-mail: [Bonnie Heithcock](mailto:bheithcock@mail.state.tn.us)
 
-[](http://www.state.tn.us/index.html)[](http://www.state.tn.us/finance/ceg/info.html)[](http://www.state.tn.us/search/)[](https://web.archive.org/web/20001213064000id_/http%3A//www.state.tn.us/sitemap.html)[](https://web.archive.org/web/20001213064000id_/http%3A//www.state.tn.us/contact.html)
+[](http://www.state.tn.us/index.html)[](http://www.state.tn.us/finance/ceg/info.html)[](http://www.state.tn.us/search/)[](https://web.archive.org/web/20010401032053id_/http%3A//www.state.tn.us/sitemap.html)[](https://web.archive.org/web/20010401032053id_/http%3A//www.state.tn.us/contact.html)
