@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204225427id_/http%3A//www.e-myth.com/corporate/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611215005id_/http%3A//www.e-myth.com/pub/htdocs/20) for the most accurate reproduction.*
 
-# E-Myth Worldwide - About Us: e-myth.com Privacy Policy
+# E-Myth Worldwide
 
-We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
+|  Small business owners, you’ve come to the right place . . .  
+E-Myth Privacy Policy  
+_Because running a small business should be easy_ We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information. 
 
 **Why did you receive an email from us?**  
 If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
 
-**How we protect your privacy**  
+**How we protect your privacy?**  
 We use security measures to protect against the loss, misuse and alteration of data used by our system.
 
 **Sharing and Usage**  
@@ -17,7 +19,7 @@ Information submitted to us is available to employees managing this information 
 Please send an email to webmaster@e-myth.com from the email address that you wish to remove from our system. If you have received unwanted, unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to webmaster@e-myth.com for review.
 
 **Traffic Analysis**  
-We use WebTrends Live to analyze traffic to this website. The information we collect is used to improve the content of our website. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. For more information about WebTrends Live privacy policy, please [click here](http://www.webtrendslive.com/privacy_policy.htm).
+We use WebTrends Live to analyze traffic to this website. The information we collect is used to improve the content of our website. WebTrends Live does not create individual profiles for visitors. Unlike some tracking services, WebTrends Live does not have a database of individual profiles for each visitor. WebTrends Live only collects aggregate data. We recommend that you also review the [WebTrends Live privacy policy](http://www.webtrendslive.com/privacy_policy.htm).
 
   
 
