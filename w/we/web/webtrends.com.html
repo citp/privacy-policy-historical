@@ -1,153 +1,61 @@
-<!--The following is the downloaded HTML source of the webtrends.com privacy policy that was archived on 2002-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020408183730id_/http%3A//webtrends.com/privacy_statement.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webtrends.com privacy policy that was archived on 2002-12-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021205083745id_/http%3A//www.netiq.com/About_NetIQ/PrivacyPolicy.asp) for the most accurate reproduction.-->
 
-<html><head>
-<title>Your Privacy, WebTrends</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
+<meta name="postinfo" content="/scripts/postinfo.asp">
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<meta name="keywords" content="NetIQ, NetIQ Corporation, e-business infrastructure management">
+<meta name="Description" content="NetIQ is the leading provider of solutions for systems management, security and web analytics.">
+<link rel="stylesheet" type="text/css" href="/shared/pageframework/styles/generic.css">
+<title>NetIQ: Privacy Policy</title>
+</head>
 
 
 
-<!-- BEGIN CHANNEL BUTTON CODE -->
-<script language="Javascript">
 
-var images = new Array();
-/*
-function	- go
-summary		- This function handles the central page navigation, this is a fairly specific function to deal with just that section
-			  the basic functionality is this for each button (from left to right one and two) there are three slices when you mouse
-			  over any of the three slices all three go to the on state if you mouse over sections one or two that graphic goes into
-			  what i call the on_on state .. or extra on state. There is an exception .. if the id = sp there is only one section and
-			  no subsections ...
-input	-  id	- string	-  the button rolled over (ent|sb|sp) 
-			- sec	- integer	-  the section of the button that was rolled over (1..3)
-			- state	- string	-  wether to turn it on or off (on|off)
-			- quote - string - sets which statment to display below the channel, i.e., bus or tech
+<body marginwidth="0" marginheight="0" topmargin="0" leftmargin="0" bgcolor="#ffffff">
+<script language="JavaScript1.2" src="/shared/scripts/js_glb_toolkit.js" type="text/javascript"></script>
+<script language="JavaScript1.2" src="/shared/scripts/js_glb_resources.js" type="text/javascript"></script>
 
-*/
-function go(id, sec, state1, state2, quote) {
-		if (sec == 1) { 
-			document.images[id + "_1"].src = "/images/ch_" + id + "_1_" + state1 + "_" + state2 + ".gif"; //see comment for id=2
-		}
-		else {
-			document.images[id + "_1"].src = "/images/ch_" + id + "_1_" + state1 + "_off.gif"; 
-		}
-		if (sec == 2) { 
-			//if they have rolled over the 2nd level of the button turn the 2nd level all the way on, if they roll off the 1st level, turn it part of the way on
-			document.images[id + "_2"].src = "/images/ch_" + id + "_2_" + state1 + "_" + state2 + ".gif"; //see comment for id=2
-			document.images[id + "_4"].src = "/images/ch_" + id + "_4_" + state1 + "_" + state2 + "_" + quote + ".gif"; // the 5 image is on or off with the rest of them (its the text bellow the button that turns on)
-			document.images[id + "_1"].src = "/images/ch_" + id + "_1_" + state1 + "_" + state2 + ".gif"; //see comment for id=2
-		}
-		else {
-			document.images[id + "_2"].src = "/images/ch_" + id + "_2_" + state1 + "_off.gif";    // else just turn it half on or off
-		} 
-		if (sec == 3) { 
-			document.images[id + "_3"].src = "/images/ch_" + id + "_3_" + state1 + "_" + state2 + ".gif"; //see comment for id=2
-			document.images[id + "_4"].src = "/images/ch_" + id + "_4_" + state1 + "_" + state2 + "_" + quote + ".gif"; // the 5 image is on or off with the rest of them (its the text bellow the button that turns on)
-			document.images[id + "_1"].src = "/images/ch_" + id + "_1_" + state1 + "_" + state2 + ".gif"; //see comment for id=2
-		}
-		else {
-			document.images[id + "_3"].src = "/images/ch_" + id + "_3_" + state1 + "_off.gif"; 
-		}
-}
+<script language="JavaScript" src="/shared/scripts/js_functions.js"></script>
 
-/* 
-fucntion		- jsLoadImages
-summary		- This function preloads all the images it is passed, its optimized for size.
-input			  - an array of images to preload.
-*/
-function jsLoadImages(){ 
-	for (var i=0; i < jsLoadImages.arguments.length; i++){
-		images[i] = new Image();
-		images[i].src = jsLoadImages.arguments[i];
-	}
-}
 
-/*
-function		- jsSwapImage
-summary			- This function swaps an image for another image. It supports multiple images to be swaped on a single mouse command.
-inputs			- A bit odd here you manipulate more than one image with one call, you can pass mutiples of three params lets call the params (div, id, and img) in the fuction we will refer to them using the arguments property of the function object.
-					- div	- string	- if the image is nested in a layer or div in netscape we have to dig through the dom to talk to it if it isnt pass ''.
-					- id	- string	- the id of the image to swap (remember you need a name= param in netscape 4 (ugh)).
-					- img	- string	- the image you want to swap the id image for.
-*/
-function jsSwapImage(){
-	for (var i=0; i < jsSwapImage.arguments.length; i=i+3){ // iterate the arguments in groups of three
-		if ((HM_NS4) && (jsSwapImage.arguments[i] != '')) { // if its netscape and your image is nested in a div
-			eval('document.' + jsSwapImage.arguments[i] + '.document.images[jsSwapImage.arguments[i+1]].src = jsSwapImage.arguments[i+2];'); // target the nested image and swap it out with img
-		} else {
-			document.images[jsSwapImage.arguments[i+1]].src = jsSwapImage.arguments[i+2];  // if its not netscape or its netscape and not nested we can talk straight to the image,
-		}
-	}
-}
 
-//preload the rollovers
-jsLoadImages('/images/ch_ent_1_on_off.gif',
-	'/images/ch_ent_1_on_on.gif',
-	'/images/ch_ent_2_on_off.gif',
-	'/images/ch_ent_2_on_on.gif',
-	'/images/ch_ent_3_on_off.gif',	
-	'/images/ch_ent_3_on_on.gif',
-	'/images/ch_ent_4_off_off_eb.gif',
-	'/images/ch_ent_4_off_off_et.gif',
-	'/images/ch_ent_4_on_off_eb.gif',
-	'/images/ch_ent_4_on_off_et.gif',
-	'/images/ch_ent_4_on_on_eb.gif',
-	'/images/ch_ent_4_on_on_et.gif',	
-	'/images/ch_sb_1_on_off.gif',
-	'/images/ch_sb_1_on_on.gif',
-	'/images/ch_sb_2_on_off.gif',
-	'/images/ch_sb_2_on_on.gif',
-	'/images/ch_sb_3_on_off.gif',
-	'/images/ch_sb_3_on_on.gif',	
-	'/images/ch_sb_4_off_off_eb.gif',
-	'/images/ch_sb_4_off_off_et.gif',
-	'/images/ch_sb_4_on_off_eb.gif',
-	'/images/ch_sb_4_on_off_et.gif',
-	'/images/ch_sb_4_on_on_eb.gif',
-	'/images/ch_sb_4_on_on_et.gif',
-	'/images/ch_sp_1_on_off.gif',
-	'/images/ch_sp_1_on_on.gif',
-	'/images/ch_sp_2_on_off.gif',
-	'/images/ch_sp_2_on_on.gif',
-	'/images/ch_sp_3_on_off.gif',
-	'/images/ch_sp_3_on_on.gif',
-	'/images/ch_sp_4_on_off_xsp.gif',
-	'/images/ch_sp_4_on_on_xsp.gif',
-	'/images/mn_arrow.gif'
-	);
+<!-- Outer Table -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
 
-	function openWindow(newURL, newWidth, newHeight) {
-	// Declare and initialize top and left variables
-	var calcLeft = 100;
-	var calcTop = 100;
-	
-  // Update properties if comp. browser
-	if (parseInt(navigator.appVersion) >= 4){
-	  calcTop = screen.availHeight /2 - newHeight / 2;
-	  calcLeft = screen.availWidth / 2 - newWidth / 2;}
+<!-- Outer Table: Navbar -->
+<tbody><tr>
+<td>
+<!-- Begin NavBar -->
 
-  // Open the new window using top and left properties
-  	remoteWindow = window.open(newURL, 'remote', 'status=no,toolbar=no,menubar=no,location=no,scrollbars=yes,resize=no,width=' + newWidth + ',height=' + newHeight + ',left=' + calcLeft + ',top=' + calcTop + ',resizable=yes');
-  remoteWindow.focus();
-	}   
+<script language="JavaScript">
+<!-- Hide from older browsers.
 
+// declare the variables that will be used by client side javascript
+// for referencing urls, other .js files and images
+HM_RootLinkPath = "http://www.netiq.com/";
+
+HM_RootLoadPath = "http://www.netiq.com/";
+
+
+//-->
 </script>
-<!-- END CHANNEL BUTTON CODE -->
 
-<!-- BEGIN TOP NAV -->
-	<!-- End for if print = yes -->
+<script language="JavaScript">
+<!-- Hide from older browsers.
 
-<script language="JavaScript" type="text/javascript">
-	<!--
-	function writeServerName() 								// Called by HM_Arrays to dynamically 
-	{ 														// populate the HM_Arrays' URL parameters
-		var aspServerName									// with the full URL path. This enables 
-		aspServerName = "http://webtrends.com"		// status bar in browser (lower left corner)
-		return(aspServerName);								// to show full URL, not just relative path.
-	}
+jsLoadImages('/shared/pageframework/images/glb_mnu_products_on.gif',
+						'/shared/pageframework/images/glb_mnu_services_on.gif',
+						'/shared/pageframework/images/glb_mnu_support_on.gif',
+						'/shared/pageframework/images/glb_mnu_about_on.gif',
+						'/shared/pageframework/images/glb_mnu_partners_on.gif',
+						'/shared/pageframework/images/glb_mnu_contact_on.gif');
 
-	function getStartPosition_Array1() {					// Called by HM_Arrays, left_position parameter.
+function getStartPosition_Array1() {					// Called by HM_Arrays, left_position parameter.
 		var objImg
-		objImg = document.images['aboutGIF']
+		objImg = document.images['products']
 		// alert(objImg);
 		if (HM_NS4){
 			return eval(objImg).x
@@ -158,7 +66,7 @@ jsLoadImages('/images/ch_ent_1_on_off.gif',
 	
 	function getStartPosition_Array2()						// Called by HM_Arrays, left_position parameter.
 	{
-		return getStartPosition_Array1() + 116;
+		return getStartPosition_Array1() + 127;
 	}	
 	
 	function getXPosition(imgElem) {						// Called by getStartPosition_Array1.
@@ -170,260 +78,319 @@ jsLoadImages('/images/ch_ent_1_on_off.gif',
 	  	}
 		return xPos;
 	}
-
-	function loadCSSFile(){									// IMPORTANT: loadCSSFile() is called at 
-		var cssFile											// the bottom of HM_Loader.js, where the browser detect occurs.
-															
-		if (HM_NS4) {										// Netscape 4
-			cssFile = "webtrends_ns.css"
-		} else {											// IE4, IE5, Netscape 6, + anything else
-			cssFile = "webtrends_ie.css"			
-		}		
-		
-		stylesheetURL = "<LINK REL='stylesheet' HREF='/includes/stylesheets/" + cssFile + "' TYPE='text/css'>";
-		document.write(stylesheetURL);
-	}
 	
-	function openProductWizard(loc){					// Opens product wizard in a popup
-		var newWindow
-	
-		newWindow = window.open(loc,"popup","width=525,height=370,location=no,status=no,scrollbars=yes,toolbar=no,resizable=yes");		
-		newWindow.focus();
+	function getStartPosition_Array3()						// Called by HM_Arrays, left_position parameter.
+	{
+		return getStartPosition_Array2() + 83;
 	}	
-
-	function openWin(winName, loc){					// Opens a std new window
-		var newWindow
 	
-		newWindow = window.open(loc,winName,"location=yes,status=yes,scrollbars=yes,toolbar=yes,menubar=yes,directories=yes,resizable=yes");		
-		newWindow.focus();
-	}			
-	//-->
-</script>
-<script language="JavaScript1.2" src="/includes/HM_Loader.js" type="text/javascript"></script><script language="JavaScript1.2" src="/includes/HM_Arrays.js" type="text/javascript"></script><script language="JavaScript1.2" src="/includes/HM_ScriptDOM.js" type="text/javascript"></script><link rel="stylesheet" href="/includes/stylesheets/webtrends_ie.css" type="text/css">
-<!-- END TOP NAV -->
-
-</head>
-
-<body topmargin="1" leftmargin="1" rightmargin="0" marginheight="1" marginwidth="1" bgcolor="#FFFFFF">
-
-<!-- Navigation -->
+	function getXPosition(imgElem) {						// Called by getStartPosition_Array2.
+		xPos = eval(imgElem).offsetLeft;
+		tempEl = eval(imgElem).offsetParent;
+	  	while (tempEl != null) {
+	  		xPos += tempEl.offsetLeft;
+	  		tempEl = tempEl.offsetParent;
+	  	}
+		return xPos;
+	}	
 	
-
-
-<table width="100%" cellpadding="0" cellspacing="0" border="0"><!--  onresize="javascript: if (HM_IE || HM_DOM){location.reload();}" -->
-<tbody><tr>
-		<td bgcolor="#FF9933"><img src="/images/glb_pix_ff9933.gif" width="1" height="1" alt="" border="0"></td>
-		<td width="100%" bgcolor="#FF9933"><img src="/images/glb_pix_ff9933.gif" width="259" height="1" alt="" border="0"></td>
-		<td><img src="/images/glb_pix_ff9933.gif" width="116" height="1" alt="" border="0"></td>
-		<td><img src="/images/glb_pix_ff9933.gif" width="126" height="1" alt="" border="0"></td>
-		<td><img src="/images/glb_pix_ff9933.gif" width="55" height="1" alt="" border="0"></td>
-		<td><img src="/images/glb_pix_ff9933.gif" width="42" height="1" alt="" border="0"></td>
-		<td><img src="/images/glb_pix_ff9933.gif" width="51" height="1" alt="" border="0"></td>
-		<td><img src="/images/glb_pix_ff9933.gif" width="63" height="1" alt="" border="0"></td>
-		<td><img src="/images/glb_pix_ff9933.gif" width="61" height="1" alt="" border="0"></td>
-		<td align="right" bgcolor="#FF9933"><img src="/images/glb_pix_ff9933.gif" width="1" height="1" alt="" border="0"></td>
-		<td rowspan="3"><img src="/images/glb_spacer.gif" width="20" height="1" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td bgcolor="#213C7B"><img src="/images/glb_pix_ff9933.gif" width="1" height="23" alt="" border="0"></td>
-		<td width="100%" colspan="8" align="right" bgcolor="#213C7B"><a href="http://www.netiq.com/" target="WINDOW"><img src="/images/mn_netiq.gif" width="293" height="23" alt="" border="0"></a></td>
-		<td align="right" bgcolor="#213C7B"><img src="/images/glb_pix_ff9933.gif" width="1" height="23" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td colspan="10" bgcolor="#FF9933"><img src="/images/glb_pix_ff9933.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-
-	<tr>
-		<td><img src="/images/glb_pix_ff9933.gif" width="1" height="17" alt="" border="0"></td>
-		<td width="314"><a href="http://webtrends.com/default.htm"><img src="/images/mn_home.gif" width="60" height="17" alt="" border="0"></a></td>
-		<td width="116"><a href="#" onmouseover="popUp('elMenu1',event)" onmouseout="popDown('elMenu1',event)" class="cursor" style="cursor: default"><img id="aboutGIF" name="aboutGIF" src="/images/mn_about.gif" width="116" height="17" alt="" border="0"></a></td>
-		<td width="126"><a href="#" onmouseover="popUp('elMenu2',event)" onmouseout="popDown('elMenu2',event)" class="cursor" style="cursor: default"><img src="/images/mn_prodserv.gif" width="126" height="17" alt="" border="0"></a></td>
-		<td width="55"><a href="http://webtrends.com/partners/default.htm"><img src="/images/mn_partners.gif" width="55" height="17" alt="" border="0"></a></td>
-		<td width="42"><a href="http://webtrends.com/order/default.htm"><img src="/images/mn_order.gif" width="42" height="17" alt="" border="0"></a></td>
-		<td width="51"><a href="http://webtrends.com/support/default.htm"><img src="/images/mn_support.gif" width="51" height="17" alt="" border="0"></a></td>
-		<td width="63"><a href="http://webtrends.com/contact.htm"><img src="/images/mn_contact.gif" width="63" height="17" alt="" border="0"></a></td>
-		<td width="61"><a href="http://webtrends.com/site_download/default.htm"><img src="/images/mn_tryit.gif" width="61" height="17" alt="" border="0"></a></td>
-		<td align="right" bgcolor="#CC6600"><img src="/images/glb_pix_ff9933.gif" width="1" height="17" alt="" border="0"></td>
-	</tr>
-	<tr>
-		<td colspan="10" bgcolor="#FF9933"><img src="/images/glb_pix_ff9933.gif" width="1" height="1" alt="" border="0"></td>
-	</tr>
-</tbody></table>
-	<!-- End for if print = yes -->
-<!-- /Navigation --><!--  BEGIN PHOTO ROW -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td bgcolor=" #243D7E"><img src="/images/pb_L1_entmark_lftclr.gif" border="0" alt="" width="7" height="63"></td>
-<td><img src="/images/pb_L1_entmark_lftphoto.jpg" border="0" alt="" width="165" height="63"></td>
-<td><img src="/images/pb_L1_entmark_quote.gif" border="0" alt="" width="231" height="63"></td>
-<td><img src="/images/pb_L1_entmark_cntrphoto.jpg" border="0" alt="" width="78" height="63"></td>
-<td><img src="/images/pb_L1_entmark_cntrclr.gif" border="0" alt="" width="109" height="63"></td>
-<td><img src="/images/pb_L1_entmark_rtphoto.jpg" border="0" alt="" width="63" height="63"></td>
-<td><img src="/images/pb_L1_entmark_rtclr.gif" border="0" alt="" width="118" height="63"></td>
-<td width="100%" bgcolor="#243D7E"><img src="/images/glb_spacer.gif" width="4" height="63"></td>
-<td><img src="/images/glb_spacer.gif" width="20" height="1" alt="" border="0"></td>
-</tr>
-</tbody></table>
-<!-- END PHOTO ROW -->
-
-
-<!-- BEGIN MAIN CONTENT -->
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<!-- Left Col -->
-	<td width="184" valign="top"><a href="/default.htm"><img src="/images/L1_wtlogo_ent.gif" width="184" height="54" alt="WebTrends" border="0"></a>
-		<table width="184" cellpadding="0" cellspacing="0" border="0">
-		<tbody><tr>
-			<td width="5"><img src="/images/glb_spacer.gif" width="5" height="1" border="0"></td>
-			<td>
-				<p class="stdLarge"></p>
-			</td>
-		</tr>
-		</tbody></table>
-	</td>
-<!-- /Left Col -->
-	<td width="20"><img src="/images/glb_spacer.gif" width="20" height="1" border="0" alt=""></td>
-<!-- Middle Col -->
-	<td width="100%" valign="top">
-		<img src="/images/glb_spacer.gif" width="380" height="1" alt="" border="0"><br>
-			<!-- End for if print = yes -->			
-		<img src="/images/hdr_L2_dflt_privacy.gif" border="0" alt="">
-		<div class="std"><br>
-		NetIQ is committed to preserving your trust and confidence.  That is why we want you to understand how we handle information we learn about you from your visit to this web site, what measures we take to safeguard that information and our commitment to data security. Because your privacy is important to us, NetIQ will not sell, rent or trade your personal information collected on this site except as outlined in this privacy policy. This privacy policy describes our privacy policies for <a href="http://www.webtrends.com/">www.webtrends.com</a>.  Other NetIQ sites, including but not limited to <a href="http://www.netiq.com/" target="WINDOW">www.netiq.com</a> and <a href="http://www.webtrendslive.com/" target="WINDOW">www.webtrendslive.com</a>, may have different policies.  
-		<p>
-		We use our own product, WebTrends Live, to analyze traffic to this web site. Unlike some tracking services, WebTrends Live does not create individual profiles for visitors or maintain a database of individual profiles for each visitor. WebTrends Live collects only anonymous data like IP addresses, browser types, referring pages, pages visited and time spent on our site. This information is used in aggregate to analyze and improve our web sites. For more information about WebTrends Live's privacy policy, please <a href="http://www.webtrendslive.com/privacy_policy.htm" target="WINDOW">click here</a>. 
-		</p><p>
-		Names, phone numbers, e-mail, credit card numbers, mailing addresses, and other personal information are collected only as part of explicit registration processes such as purchasing or registering products, requesting additional information, trial downloads, or registering for one of our training courses or events. This information allows us to process and fulfill your order, to register your subscriptions and contact you if we need additional information. We also use this information in conjunction with cookies in order to help us better understand individual customer needs and behavior, as well as to tailor web site content and marketing messages to your interests. 
-		</p><p>
-		We will not make your personal information available to anyone, with the exception of our resellers and other affiliates, without your express consent unless NetIQ has a good faith belief that such action is necessary to: (1) conform to legal requirements or comply with legal process; (2) protect and defend the rights or property of NetIQ; or (3) enforce the agreements with you. 
-		</p><p>
-		We may also use the information we collect to notify you about important new releases, new WebTrends or NetIQ services, and offers we think you'll find valuable. By registering you agree to allow us and our Distributors and Resellers to contact you for promotional purposes. 
-		</p><p>
-		When you submit feedback on our products via the feedback command, we also ask for your e-mail address. This is to allow us or one of our resellers or partners to contact you if there are questions about your feedback. 
-		</p><p>
-		You may have your name removed from our e-mailing list at any time, by visiting <a href="http://www.webtrends.com/remove.asp">http://www.webtrends.com/remove.asp</a> and entering your e-mail address.
-<!-- 		<ol>			<li>Go to <a href="http://www.webtrends.com/remove.asp">http://www.webtrends.com/remove.asp</a> and enter your e-mail address</li>			<li>Update your visitor information and preferences on webtrends.com at this URL: <a href="http://www.webtrends.com/myaccount/default.htm">http://www.webtrends.com/myaccount/default.htm</a>. On the form that displays your information and preferences, deselect the check box that says, "Please add me to your mailing list to receive promotional, product or technical support information from NetIQ".</li>		</ol> -->
-<!--		<p>
-		If you prefer to receive e-mail in text-only format instead of HTML, go to <a href="http://www.webtrends.com/newsletter/newsletter-html.asp">http://www.webtrends.com/newsletter/newsletter-html.asp</a>. -->
-		</p><p>
-		<i>How does NetIQ allow customers or prospective customers to update or change their information?</i><br>
-To change account or contact information collected at webtrends.com, please call a WebTrends sales representative at 1-888-932-8736.<!-- <a href="http://www.webtrends.com/myaccount/default.htm">http://www.webtrends.com/myaccount/default.htm</a>. On the form that displays your information and preferences, update the information and resubmit the form. -->
-		</p><p>
-		<i>How does NetIQ protect customer information?</i><br>
-When you place orders or register your account information at webtrends.com, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, we have implemented industry standard security mechanisms to protect from loss, misuse and unauthorized access, disclosure, alteration and destruction.
-		</p><p>
-		<i>What about Children's Information?</i><br>
-		WebTrends.com does not currently knowingly collect, use or disclose personally identifiable data on children under the age of 13. In the event that WebTrends.com were to collect, use or disclose personally identifiable data on children, we are committed to compliance with the Children's Online Privacy Protection Act of 1998 ("COPPA"), including but not limited to verifiable parental consent, choice regarding disclosures to third parties, and parental access to information. 
-		</p><p>
-		<i>What are "cookies" and how do we use them? </i><br>
-		"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. They allow us to better analyze our site traffic patterns and to provide improved content, advertisements, products and services. They also allow us to refine and enhance visitor registration and to add personalization.  Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use. If you decide to not to accept cookies, you can still use most of the features of our web sites, including purchasing items. 
-		</p><p>
-		<i>Will NetIQ disclose the information it collects to outside parties?</i><br>
-		NetIQ will not sell, trade, or rent your personal information collected at webtrends.com to others except as outlined in the privacy policy. We may provide aggregate and individual statistics about our customers, sales, traffic patterns and related site information to reputable resellers and other partners. We may also provide information to our resellers and other partners to use to contact you for the purpose of marketing WebTrends and NetIQ products. Distributors and resellers are independent third parties who are authorized to sell our products. NetIQ takes steps to protect the confidentiality, privacy and security of personal information communicated to these third parties.  How distributors and resellers handle your information, however, is not subject to the exclusive control of NetIQ and these third parties are not subject to this privacy statement. 
-		</p><p>
-		<b>In summary</b><br>
-		We are committed to preserving your trust and confidence. We use the information we collect to better understand your preferences and enhance your overall experience on our web site. We do not sell, trade or rent your personal information to others except as outlined in this privacy policy. 
-		</p><p>
-		<b>Your consent</b><br>
-		By using our web site, you consent to the collection and use of this information as outlined in this privacy policy. We may change our privacy policy at any time and without notice. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-		</p></div>
-		<p>
-
-	</p></td>
-<!-- /Middle Col -->
-	<td width="20"><img src="/images/glb_spacer.gif" width="20" height="1" border="0" alt=""></td>
-<!-- right col -->
-	<td width="164" align="center" valign="top" bgcolor="#E5EEF5" background="/images/L1_bg_ent_rc.gif">
-		<img src="/images/glb_spacer.gif" width="164" height="25" border="0" alt=""><br>
-		&nbsp;
-		<br><br><br>
-		&nbsp;
-	</td>
-<!-- /right col -->
-	<td width="1" bgcolor="#999999"><img src="/images/glb_spacer.gif" width="1" height="1" border="0" alt=""></td>
-	<td rowspan="3"><img src="/images/glb_spacer.gif" width="20" height="1" alt="" border="0"></td></tr>
-<tr>
-	<td colspan="4"></td>
-	<td width="165" colspan="2" bgcolor="#E5EEF5" background="/images/L1_bg_ent_rc.gif" align="right" valign="bottom"><img src="/images/glb_rcbotright_ent_L1.gif" width="18" height="12" alt="" border="0"></td>
-</tr>
-<!-- END MAIN CONTENT -->
-<tr>
-	<td colspan="5">
-				<!-- End for if print = yes -->
+	function getStartPosition_Array4()						// Called by HM_Arrays, left_position parameter.
+	{
+		return getStartPosition_Array3() + 84;
+	}	
 	
-
-
-<!-- BEGIN BOTTOM NAV -->
-
-<script language="javascript">
-<!--
-	jsLoadImages('/images/glb_search_on.gif');
-// -->
-	function searchSubmit(){
-		document.seek.submit();
+	function getXPosition(imgElem) {						// Called by getStartPosition_Array3.
+		xPos = eval(imgElem).offsetLeft;
+		tempEl = eval(imgElem).offsetParent;
+	  	while (tempEl != null) {
+	  		xPos += tempEl.offsetLeft;
+	  		tempEl = tempEl.offsetParent;
+	  	}
+		return xPos;
 	}
-</script>
 	
-<table width="100%" cellpadding="0" cellspacing="0" border="0" bordercolor="red">
+	function getStartPosition_Array5()						// Called by HM_Arrays, left_position parameter.
+	{
+		return getStartPosition_Array4() + 87;
+	}	
+	
+	function getXPosition(imgElem) {						// Called by getStartPosition_Array4.
+		xPos = eval(imgElem).offsetLeft;
+		tempEl = eval(imgElem).offsetParent;
+	  	while (tempEl != null) {
+	  		xPos += tempEl.offsetLeft;
+	  		tempEl = tempEl.offsetParent;
+	  	}
+		return xPos;
+	}
+
+//-->
+</script>
+
+<script language="JavaScript1.2" src="/shared/pageframework/scripts/HM_Loader.js" type="text/javascript"></script><script language="JavaScript1.2" src="http://www.netiq.com/shared/pageframework/scripts/HM_Arrays.js" type="text/javascript"></script><script language="JavaScript1.2" src="http://www.netiq.com/shared/pageframework/scripts/HM_ScriptDOM.js" type="text/javascript"></script>
+
+<table cellspacing="0" cellpadding="0" border="0" width="100%">
 <tbody><tr>
-	<td><img src="/images/glb_leftline.gif" width="19" height="1" alt="" border="0"></td>
-	<td><img src="/images/glb_pix_949494.gif" width="300" height="1" border="0"></td>
-	<td width="100%" bgcolor="#949494"><img src="/images/glb_pix_949494.gif" width="334" height="1" border="0"></td>
-	<td rowspan="3" valign="top" width="13"><img src="/images/glb_rightline.gif" width="13" height="1" alt="" border="0"></td>
+    <td rowspan="3" width="186" bgcolor="#CCCCCC"><a href="http://www.netiq.com/default.asp"><img src="/shared/pageframework/images/glb_mnu_logo.gif" alt="" width="186" height="45" border="0"></a></td>
+    <td background="/shared/pageframework/images/glb_mnu_sprCCCCCC.gif" width="100%"><img src="/shared/images/glb_spr_clear.gif" alt="" width="100%" height="1" border="0"></td>
+    <td colspan="3" bgcolor="#CCCCCC" width="282"><img src="/shared/images/glb_spr_clear.gif" alt="" width="282" height="13" border="0"></td>
+    <td width="87"><img src="/shared/pageframework/images/glb_mnu_mosaic_Blank1A.jpg" alt="" width="87" height="13" border="0"></td>
+    <td width="83"><a href="http://www.netiq.com/trial/default.asp"><img src="/shared/pageframework/images/glb_mnu_mosaic_TryIT.jpg" alt="" width="83" height="13" border="0"></a></td>
+    <td width="99"><a href="http://www.netiq.com/order/default.asp"><img src="/shared/pageframework/images/glb_mnu_mosaic_BuyIT.jpg" alt="" width="99" height="13" border="0"></a></td>
 </tr>
 <tr>
-	<td valign="top"><img src="/images/glb_leftcap_top.gif" width="19" height="32" alt="" border="0"></td>
-	<td colspan="2" valign="top" rowspan="2">
-		<table width="100%" border="0" cellspacing="5" cellpadding="0" bordercolor="Blue">
-		<tbody><tr>
-			<td valign="top" width="300">
-				<span class="copyright"><a href="/disclaimer.htm" class="copyright">legal</a> and <a href="/privacy_statement.htm" class="copyright">privacy</a> information © NetIQ 2002</span>
-			</td>
-			<td valign="top">
-				<form method="get" action="http://search.webtrends.com/newsite_query.html" name="seek">
-					<a href="javascript:searchSubmit();" onmouseover="document.search.src='/images/glb_search_on.gif';" onmouseout="document.search.src='/images/glb_search_off.gif';"><img src="/images/glb_search_off.gif" border="0" alt="" name="search"></a>&nbsp;
-					<input type="text" size="6" name="qt">
-					<input type="hidden" name="col" value="web2001">
-					<input type="hidden" name="qp" value="">
-					<input type="hidden" name="qs" value="">
-					<input type="hidden" name="qc" value="">
-					<input type="hidden" name="pw" value="100%">
-					<input type="hidden" name="ws" value="0">
-					<input type="hidden" name="qm" value="0">
-					<input type="hidden" name="st" value="1">
-					<input type="hidden" name="nh" value="10">
-					<input type="hidden" name="lk" value="1">
-					<input type="hidden" name="rf" value="0">
-					<input type="hidden" name="oq" value="">
-					<input type="hidden" name="rq" value="0">
-				</form>
-			</td>
-			<td align="right">
-				<table width="347" border="0" cellspacing="0" cellpadding="0" bordercolor="Maroon">
-				<tbody><tr>
-					<td width="50%" align="center">
-						&nbsp;
-						
-					</td>
-					<td width="50%" align="center">
-						<a href="/privacy_statement.htm?print=yes" target="_blank"><img src="/images/ftr_format.gif" width="160" height="41" alt="" border="0"></a>
-					</td>
-				</tr>
-				</tbody></table>						
-			</td>
-		</tr>
-		</tbody></table>
-	</td>
+    <td background="/shared/pageframework/images/glb_mnu_spr666666.gif" width="100%"><img src="/shared/images/glb_spr_clear.gif" alt="" width="1" height="1" border="0"></td>
+    <td width="115"><a href="http://www.netiq.com/solutions/default.asp" onmouseover="HM_f_PopUp('elMenu1',event); document.products.src='/shared/pageframework/images/glb_mnu_products_on.gif';" onmouseout="HM_f_PopDown('elMenu1'); document.products.src='/shared/pageframework/images/glb_mnu_products_off.gif';"><img src="/shared/pageframework/images/glb_mnu_products_off.gif" alt="" width="127" height="18" border="0" name="products"></a></td>
+    <td width="83"><a href="http://www.netiq.com/services/default.asp" onmouseover="HM_f_PopUp('elMenu2',event); document.services.src='/shared/pageframework/images/glb_mnu_services_on.gif';" onmouseout="HM_f_PopDown('elMenu2'); document.services.src='/shared/pageframework/images/glb_mnu_services_off.gif';"><img src="/shared/pageframework/images/glb_mnu_services_off.gif" alt="" width="83" height="18" border="0" name="services"></a></td>
+    <td width="84"><a href="http://www.netiq.com/support/default.asp" onmouseover="HM_f_PopUp('elMenu3',event); document.support.src='/shared/pageframework/images/glb_mnu_support_on.gif';" onmouseout="HM_f_PopDown('elMenu3'); document.support.src='/shared/pageframework/images/glb_mnu_support_off.gif';"><img src="/shared/pageframework/images/glb_mnu_support_off.gif" alt="" width="84" height="18" border="0" name="support"></a></td>
+    <td width="87"><a href="http://www.netiq.com/about_netiq/default.asp" onmouseover="HM_f_PopUp('elMenu4',event); document.about.src='/shared/pageframework/images/glb_mnu_about_on.gif';" onmouseout="HM_f_PopDown('elMenu4'); document.about.src='/shared/pageframework/images/glb_mnu_about_off.gif';"><img src="/shared/pageframework/images/glb_mnu_about_off.gif" alt="" width="87" height="18" border="0" name="about"></a></td>
+    <td width="83"><a href="http://www.netiq.com/partners/default.asp" onmouseover="HM_f_PopUp('elMenu5',event); document.partners.src='/shared/pageframework/images/glb_mnu_partners_on.gif';" onmouseout="HM_f_PopDown('elMenu5'); document.partners.src='/shared/pageframework/images/glb_mnu_partners_off.gif';"><img src="/shared/pageframework/images/glb_mnu_partners_off.gif" alt="" width="83" height="18" border="0" name="partners"></a></td>
+    <td width="99"><a href="http://www.netiq.com/about_netiq/contactus.asp" onmouseover="document.contact.src='/shared/pageframework/images/glb_mnu_contact_on.gif';" onmouseout="document.contact.src='/shared/pageframework/images/glb_mnu_contact_off.gif';"><img src="/shared/pageframework/images/glb_mnu_contact_off.gif" alt="" width="99" height="18" border="0" name="contact"></a></td>
 </tr>
-</tbody></table><!-- END BOTTOM NAV -->
+<tr>
+    <td background="/shared/pageframework/images/glb_mnu_sprCCCCCC.gif" width="100%"><img src="/shared/images/glb_spr_clear.gif" alt="" width="1" height="1" border="0"></td>
+    <td colspan="3" bgcolor="#CCCCCC" width="282"><img src="/shared/images/glb_spr_clear.gif" alt="" width="282" height="14" border="0"></td>
+    <td width="87"><img src="/shared/pageframework/images/glb_mnu_mosaic_Blank2A.jpg" alt="" width="87" height="14" border="0"></td>
+    <td width="83"><a href="/worldwide/welcome.asp"><img src="/shared/pageframework/images/glb_mnu_mosaic_Blank2B.jpg" alt="" width="83" height="14" border="0"></a></td>
+    <td width="99"><a href="http://www.netiq.com/search/default.asp"><img src="/shared/pageframework/images/glb_mnu_mosaic_Search.jpg" alt="" width="99" height="14" border="0"></a></td>
+</tr>
+</tbody></table>
+<!-- End NavBar -->
 
-<!-- End for if print = yes -->
+</td>
+</tr>
+
+<!-- Outer Table: Banner -->
+<tr>
+<td>
+
+<table border="0" cellpadding="0" cellspacing="0" bgcolor="#221010" width="100%">
+<tbody><tr>
+<td><img src="/shared/pageframework/images/glb_bnr_aboutus.jpg" width="665" height="50" border="0" alt=""></td>
+<td><img src="/shared/images/glb_spr_clear.gif" width="83" height="1" border="0" alt="" align="top"></td>
+</tr>
+</tbody></table>
+
+</td>
+</tr>
+
+<!-- Outer Table: Content -->
+<tr>
+<td>
+
+
+<!-- Column 1: Menu -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
+<tbody><tr>
+<td width="185" valign="top" bgcolor="#FFFFFF">
+<!--Begin Menu--><table width="185" cellpadding="0" cellspacing="0" border="0" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://NetIQ.com/UserNamespace">
+<tbody><tr>
+<td width="10" bgcolor="#FFFFFF"><img src="/shared/images/glb_spr_clear.gif" width="10" height="1" alt="" border="0"></td>
+<td width="10" bgcolor="#FFFFFF"><img src="/shared/images/glb_spr_clear.gif" width="10" height="1" alt="" border="0"></td>
+<td width="10" bgcolor="#FFFFFF"><img src="/shared/images/glb_spr_clear.gif" width="10" height="1" alt="" border="0"></td>
+<td width="150" bgcolor="#FFFFFF"><img src="/shared/images/glb_spr_clear.gif" width="150" height="1" alt="" border="0"></td>
+<td width="5" bgcolor="#FFFFFF"><img src="/shared/images/glb_spr_clear.gif" width="5" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D6BE5A" width="10">
+<p class="nav"><img src="/shared/images/glb_spr_clear.gif" width="10" alt="" border="0"></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" colspan="3" width="170">
+<p class="nav"><a class="nav" href="/about_netiq/default.asp">Company Profile</a></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" width="5"><img src="/shared/images/glb_spr_clear.gif" width="5" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td colspan="5" width="185"><img src="/shared/images/glb_spr_clear.gif" width="185" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D6BE5A" width="10">
+<p class="nav"><img src="/shared/images/glb_spr_clear.gif" width="10" alt="" border="0"></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" colspan="3" width="170">
+<p class="nav"><a class="nav" href="/about_netiq/investor_relations/default.asp">Investor Relations</a></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" width="5"><img src="/shared/images/glb_spr_clear.gif" width="5" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td colspan="5" width="185"><img src="/shared/images/glb_spr_clear.gif" width="185" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D6BE5A" width="10">
+<p class="nav"><img src="/shared/images/glb_spr_clear.gif" width="10" alt="" border="0"></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" colspan="3" width="170">
+<p class="nav"><a class="nav" href="/news/default.asp">Press Room</a></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" width="5"><img src="/shared/images/glb_spr_clear.gif" width="5" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td colspan="5" width="185"><img src="/shared/images/glb_spr_clear.gif" width="185" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D6BE5A" width="10">
+<p class="nav"><img src="/shared/images/glb_spr_clear.gif" width="10" alt="" border="0"></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" colspan="3" width="170">
+<p class="nav"><a class="nav" href="/events/default.asp">Events</a></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" width="5"><img src="/shared/images/glb_spr_clear.gif" width="5" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td colspan="5" width="185"><img src="/shared/images/glb_spr_clear.gif" width="185" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D6BE5A" width="10">
+<p class="nav"><img src="/shared/images/glb_spr_clear.gif" width="10" alt="" border="0"></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" colspan="3" width="170">
+<p class="nav"><a class="nav" href="/library/default.asp">eBooks and Newsletters</a></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" width="5"><img src="/shared/images/glb_spr_clear.gif" width="5" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td colspan="5" width="185"><img src="/shared/images/glb_spr_clear.gif" width="185" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D6BE5A" width="10">
+<p class="nav"><img src="/shared/images/glb_spr_clear.gif" width="10" alt="" border="0"></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" colspan="3" width="170">
+<p class="nav"><a class="nav" href="/careers/default.asp">Careers at NetIQ</a></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" width="5"><img src="/shared/images/glb_spr_clear.gif" width="5" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td colspan="5" width="185"><img src="/shared/images/glb_spr_clear.gif" width="185" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D6BE5A" width="10">
+<p class="nav"><img src="/shared/images/glb_spr_clear.gif" width="10" alt="" border="0"></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" colspan="3" width="170">
+<p class="nav"><a class="nav" href="/about_netiq/customers.asp">Customers</a></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" width="5"><img src="/shared/images/glb_spr_clear.gif" width="5" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td colspan="5" width="185"><img src="/shared/images/glb_spr_clear.gif" width="185" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td valign="top" bgcolor="#D6BE5A" width="10">
+<p class="nav"><img src="/shared/images/glb_spr_clear.gif" width="10" alt="" border="0"></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" colspan="3" width="170">
+<p class="nav"><a class="nav" href="/about_netiq/contactus.asp">Contact Us</a></p>
+</td>
+<td valign="top" bgcolor="#D6BE5A" width="5"><img src="/shared/images/glb_spr_clear.gif" width="5" height="1" alt="" border="0"></td>
+</tr>
+<tr>
+<td colspan="5" width="185"><img src="/shared/images/glb_spr_clear.gif" width="185" height="1" alt="" border="0"></td>
+</tr>
+</tbody></table><!--End Menu-->
+
+<br>
+<img src="/shared/images/glb_spr_clear.gif" width="185" height="370" border="0" alt=""></td>
+
+<!-- Column 2: Gray Divider -->
+<td width="1" valign="top" bgcolor="#666666"><img src="/shared/images/glb_spr_clear.gif" width="1" height="370" border="0" alt=""></td>
+
+<!-- Start Column 3: Internal Margin -->
+<td width="15" valign="top" bgcolor="#FFFFFF"><img src="/shared/images/glb_spr_clear.gif" width="15" height="1" border="0" alt=""></td> 
+
+<!-- Column 4: Page Content -->
+<td width="100%" valign="top" bgcolor="#FFFFFF"><img src="/shared/images/glb_spr_clear.gif" width="185" height="15" border="0" alt=""><br>
+<!--Begin Bread Crumb--><div class="breadcrumb" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:user="http://NetIQ.com/UserNamespace"><a class="breadcrumb" href="/default.asp">Home</a></div><!--End Bread Crumb-->
+
+<img src="/shared/images/glb_spr_clear.gif" width="359" height="15" border="0" alt=""><br>
+<!-- Page Content Starts Here -->
+
+
+<h1 class="title">NetIQ's Privacy Policy</h1>
+
+<p>NetIQ is committed to preserving your trust and confidence. That is why we want you to understand how we handle information we learn about you from your visit to this web site, what measures we take to safeguard that information and our commitment to data security. Because your privacy is important to us, NetIQ will not sell, rent or trade your personal information collected on this site except as outlined in this Privacy Policy. </p>
+
+<p class="standSubHeader">Collection and Use of Data</p>
+
+<p>We use our own products, WebTrends Live, WebTrends Reporting Center, Data Collection Server, and Webhouse Builder to analyze traffic to this web site. This information is used in aggregate to analyze and improve this web site. For more information about WebTrends Live's privacy policy, please <a href="http://www.webtrendslive.com/wtl_marcom/privacy_policy.htm" target="_blank">click here</a>. </p>
+
+<p>We also may ask you for information that personally identifies you, such as your name, phone number, e-mail address, credit card number, and mailing address. Such personal information is collected only as part of an explicit registration process, such as that used in connection with purchasing or registering products, requesting additional information, participating in contests or surveys, receiving trial downloads, or registering for one of our training courses or events.  This information allows us to process and fulfill your order, to register your subscriptions, to inform you of new products, services or offers, and to contact you if we need to obtain or provide additional information. We also use some personally identifiable information in conjunction with cookies and web behavioral data in order to help us better understand individual customer needs and behavior, as well as to tailor web site content and marketing messages to your interests.</p>
+
+<p class="standSubHeader">Disclosure of Data</p>
+
+<p>You agree that we may provide your information to our affiliates, resellers and business partners so that they may contact you for promotional purposes relating to NetIQ products.  As well, we may provide your information to third party service providers, such as fulfillment centers, mailing houses, event providers and customer support organizations.  We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.   Your information also may be transferred in connection with a sale, merger, transfer, exchange or other disposition (whether of assets, stock or otherwise) of all or a portion of a business of NetIQ and/or its subsidiaries.</p>
+
+<p>While NetIQ takes steps to protect the confidentiality, privacy and security of personal information communicated to these third parties, their activities are not subject to the exclusive control of NetIQ and they are not subject to this privacy statement.</p>
+
+<p>With the above exceptions, NetIQ will not disclose your personal information without your express consent unless required to do so by law or unless NetIQ has a good faith belief that such action is necessary to: (1) conform to legal requirements or comply with legal process served on NetIQ or this web site; (2) protect and defend the rights or property of NetIQ and this web site; or (3) enforce its agreements with you. </p>
+
+<p class="standSubHeader">Updating and Removal of Data</p>
+
+<p>You may have your name removed from our direct and e-mail marketing lists at any time, by visiting  <a href="/account/lists.asp">http://netiq.com/account/lists.asp</a>, entering your e-mail address, and selecting the option, "Please remove me from all e-mail lists."</p>
+
+<p>If you prefer to receive e-mail in text-only format instead of HTML, visit <a href="/account/lists.asp">http://netiq.com/account/lists.asp</a>, and select the option, "Send text-only messages."</p>
+
+<p class="standSubHeader">Security of Your Personal Information</p>
+
+<p>When you place orders at netiq.com, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, we have implemented industry standard security mechanisms and procedures to protect data from loss, misuse and unauthorized access, disclosure, alteration and destruction. </p>
+
+<p class="standSubHeader">Children's Information</p>
+
+<p>NetIQ.com is not a site that publishes content that is targeted to children, and we do not knowingly collect, use or disclose personally identifiable data on children under the age of 13. </p>
+
+<p class="standSubHeader">Use of Cookies</p>
+
+<p>Cookies are small pieces of information that are stored by your browser on your computer's hard drive. They allow us to better analyze our site traffic patterns and to provide improved content, advertisements, products and services. They also allow us to refine and enhance the visitor registration process and to add personalization. Most Web browsers automatically accept cookies, but you can usually change your browser to prevent that if you would rather not store the information for future use.  If you disable the operation of cookies, you will be unable to access certain functionality on this web site and will not be able to purchase products directly through the web site.   </p>
+
+<p class="standSubHeader">Questions </p>
+
+<p>If you have any questions regarding this privacy policy or its application, you should email us at <a href="mailto:privacy@netiq.com">privacy@netiq.com</a>.</p>
+
+<p class="standSubHeader">Your consent</p>
+
+<p>By using our web site, you consent to the collection and use of this information as outlined in this privacy policy. We may change our privacy policy at any time and without notice. If we decide to change our privacy policy, we will post those changes on this page so that you are aware of what information we collect, how we use it, and under what circumstances we disclose it. </p>
+
+<br>
+<img src="/shared/images/glb_spr_clear.gif" width="1" height="15" alt=""></td>
+<!-- Column 5: Internal Margin -->
+<td width="15" valign="top" bgcolor="#FFFFFF"><img src="/shared/images/glb_spr_clear.gif" width="15" height="1" alt=""></td> 
+
+<!-- Column 6: Sidebar-->
+<td width="170" valign="top" bgcolor="#E5E5E5"><img src="/shared/images/glb_spr_clear.gif" width="170" height="15" border="0" alt=""><br>
+<!--Begin Marketing Mods Group: IRWebcast_Careers--><img src="/shared/images/glb_spr_clear.gif" width="1" height="15" border="0" xmlns:fo="http://www.w3.org/1999/XSL/Format"><br xmlns:fo="http://www.w3.org/1999/XSL/Format"><div align="center" xmlns:fo="http://www.w3.org/1999/XSL/Format"><a href="/netconnect/register.asp" target=""><img src="/Shared/Promotions/NetConnect03Register.gif" width="120" height="90" border="0" alt="Register Now for NetConnect 2003!"></a><br><img src="/shared/images/glb_spr_clear.gif" width="1" height="15" border="0"></div>
+<div align="center" xmlns:fo="http://www.w3.org/1999/XSL/Format"><a href="/invwebcast/" target=""><img src="/Shared/Promotions/investor_130x90.gif" width="130" height="90" border="0" alt="Analysis and Investor Webcast"></a><br><img src="/shared/images/glb_spr_clear.gif" width="1" height="15" border="0"></div>
+<div align="center" xmlns:fo="http://www.w3.org/1999/XSL/Format"><a href="/careers/default.asp" target=""><img src="/Shared/Promotions/hireme_130X90.gif" width="130" height="90" border="0" alt="Careers at NetIQ"></a><br><img src="/shared/images/glb_spr_clear.gif" width="1" height="15" border="0"></div><!--End Marketing Mods Group: IRWebcast_Careers-->
 
 </td>
 </tr>
 </tbody></table>
 
+<!-- Outer Table: Footer -->
+</td>
+</tr>
+<tr>
+<td>
 
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<tbody><tr>
+<td width="186" bgcolor="#666666"><img src="/shared/images/ftr_logo.gif" width="110" height="38" alt="" border="0"></td>
+<td bgcolor="#666666" valign="middle" width="100%"><nobr><div class="footer" style="text-align:center; vertical-align: top;">
+	<a class="footer" href="http://www.netiq.com/About_NetIQ/LegalNotices.asp">Copyright © 1995-2002</a> NetIQ Corporation. All rights reserved. | <a class="footer" href="http://www.netiq.com/About_NetIQ/PrivacyPolicy.asp">Privacy policy.</a>
+	<br>
+	Site performance ensured by <a class="footer" href="http://www.netiq.com/products/am/default.asp">AppManager</a>. | Site traffic analysis by <a class="footer" href="http://www.webtrendslive.com/" target="_blank">WebTrends Live.</a>
+</div>
+</nobr></td>
+<td bgcolor="#666666"><img src="/shared/images/ftr_tagline.gif" width="131" height="38" alt="" border="0"></td> 
+</tr>
+</tbody></table>
+
+<!-- /Outer Table -->
+</td>
+</tr>
+</tbody></table>
+
+<!-- WebTrends Live Scripts -->
 
 <!-- START OF WEBTRENDS LIVE TAG -->
 <!-- Copyright 2001 NetIQ Corporation -->
@@ -435,12 +402,12 @@ When you place orders or register your account information at webtrends.com, we 
 <script language="JavaScript">
 <!--
 // Modification of this code is not allowed and will permanently disable your account!
-// SiteName:   WebTrends Corporation
+// SiteName:  NetIQ
 
-function wtl_Tag6_2778()
+function wtl_Tag6_59785()
 {
 	var ORDER= "";
-	var SERVER= "";
+	var SERVER= "10.60.64.94";
 	var CONTENTGROUP= "";
 	var INVOICE= "";
 	var CARTVIEW= "";
@@ -471,7 +438,7 @@ function wtl_Tag6_2778()
 	}
 	
 	var t = new Date();
-	var W="http"+(document.URL.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S001-00-3-10-6692-7351/button6.asp?tagver=6&si=2778&fw=0";
+	var W="http"+(document.URL.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S007-01-3-12-221819-59785/button6.asp?tagver=6&si=59785&fw=0";
 	A( "server", typeof(SERVER)== "string" ? SERVER : "");
 	A( "order", typeof(ORDER)== "string" ? ORDER : "");
 	A( "Group", typeof(CONTENTGROUP)== "string" ? CONTENTGROUP : "");
@@ -502,13 +469,109 @@ function wtl_Tag6_2778()
 	document.write('<IMG ID="WTL_TAG" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+W+'">');
 }
 
-wtl_Tag6_2778();
+wtl_Tag6_59785();
 
 //-->
-</script><img id="WTL_TAG" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S001-00-3-10-6692-7351/button6.asp?tagver=6&amp;si=2778&amp;fw=0&amp;server=&amp;order=&amp;Group=&amp;invoice=&amp;cartview=&amp;cartadd=&amp;cartremove=&amp;checkout=&amp;cartbuy=&amp;adcampaign=&amp;tz=0&amp;ch=9&amp;cl=K1U9UR7&amp;ti=Your%20Privacy%2C%20WebTrends&amp;url=https%3A//web.archive.org/web/20020408183730id_/http%253A//webtrends.com/privacy_statement.htm&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
+</script><img id="WTL_TAG" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S007-01-3-12-221819-59785/button6.asp?tagver=6&amp;si=59785&amp;fw=0&amp;server=10.60.64.94&amp;order=&amp;Group=&amp;invoice=&amp;cartview=&amp;cartadd=&amp;cartremove=&amp;checkout=&amp;cartbuy=&amp;adcampaign=&amp;tz=0&amp;ch=9&amp;cl=K1U9UT7&amp;ti=NetIQ%3A%20Privacy%20Policy&amp;url=https%3A//web.archive.org/web/20021205083745id_/http%253A//www.netiq.com/About_NetIQ/PrivacyPolicy.asp&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
 <noscript>
-<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S001-00-3-10-6692-7351/button6.asp?tagver=6&si=2778&fw=0&js=No&">
+<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S007-01-3-12-221819-59785/button6.asp?tagver=6&si=59785&fw=0&js=No&">
 </noscript>
 <!-- END OF WEBTRENDS LIVE TAG -->
 
-<div id="HM_Menu1" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 143px; border-width: 1px; border-color: rgb(153, 204, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 101px;"><div id="HM_Item1_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 121px; left: 0px; top: 0px;">Company Info</div><div id="HM_Item1_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 121px; left: 0px; top: 17px;">Investor Relations</div><div id="HM_Item1_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 121px; left: 0px; top: 34px;"><img src="/images/mn_arrow.gif" hspace="0" vspace="0" width="16" style="position: relative; margin-top: -3px; margin-right: -18px; float: right;">Press Box</div><div id="HM_Item1_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 121px; left: 0px; top: 51px;"><img src="/images/mn_arrow.gif" hspace="0" vspace="0" width="16" style="position: relative; margin-top: -3px; margin-right: -18px; float: right;">Events</div><div id="HM_Item1_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 121px; left: 0px; top: 68px;"><img src="/images/mn_arrow.gif" hspace="0" vspace="0" width="16" style="position: relative; margin-top: -3px; margin-right: -18px; float: right;">Customers</div><div id="HM_Item1_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; width: 121px; left: 0px; top: 85px;">Employment</div></div><div id="HM_Menu1_3" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 143px; border-width: 1px; border-color: rgb(153, 204, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 67px;"><div id="HM_Item1_3_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 121px; left: 0px; top: 0px;">Press Releases</div><div id="HM_Item1_3_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 121px; left: 0px; top: 17px;">Media Coverage</div><div id="HM_Item1_3_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 121px; left: 0px; top: 34px;">Awards</div><div id="HM_Item1_3_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; width: 121px; left: 0px; top: 51px;">Analyst Opinion</div></div><div id="HM_Menu1_4" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 143px; border-width: 1px; border-color: rgb(153, 204, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 50px;"><div id="HM_Item1_4_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 121px; left: 0px; top: 0px;">Trade Shows</div><div id="HM_Item1_4_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 121px; left: 0px; top: 17px;">Seminars</div><div id="HM_Item1_4_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; width: 121px; left: 0px; top: 34px;">On-line Events</div></div><div id="HM_Menu1_5" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 143px; border-width: 1px; border-color: rgb(153, 204, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 33px;"><div id="HM_Item1_5_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 121px; left: 0px; top: 0px;">Customer List</div><div id="HM_Item1_5_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; width: 121px; left: 0px; top: 17px;">Case Studies</div></div><div id="HM_Menu2" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 168px; border-width: 1px; border-color: rgb(153, 204, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 118px;"><div id="HM_Item2_1" style="position: absolute; visibility: inherit; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 146px; left: 0px; top: 0px;"><img src="/images/mn_arrow.gif" hspace="0" vspace="0" width="16" style="position: relative; margin-top: -3px; margin-right: -18px; float: right;">Enterprise</div><div id="HM_Item2_2" style="position: absolute; visibility: inherit; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 146px; left: 0px; top: 17px;"><img src="/images/mn_arrow.gif" hspace="0" vspace="0" width="16" style="position: relative; margin-top: -3px; margin-right: -18px; float: right;">Small/Medium Business</div><div id="HM_Item2_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 146px; left: 0px; top: 34px;">Service Providers</div><div id="HM_Item2_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 146px; left: 0px; top: 51px;">Public Sector</div><div id="HM_Item2_5" style="position: absolute; visibility: inherit; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 146px; left: 0px; top: 68px;"><img src="/images/mn_arrow.gif" hspace="0" vspace="0" width="16" style="position: relative; margin-top: -3px; margin-right: -18px; float: right;">Product List</div><div id="HM_Item2_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 146px; left: 0px; top: 85px;">Solution Selector</div><div id="HM_Item2_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px 20px 2px 2px; font: 8pt Verdana, Arial, Helvetica; width: 146px; left: 0px; top: 102px;">Services</div></div><div id="HM_Menu2_1" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 168px; border-width: 1px; border-color: rgb(153, 204, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 33px;"><div id="HM_Item2_1_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 164px; left: 0px; top: 0px;">Marketing or Business User</div><div id="HM_Item2_1_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; width: 164px; left: 0px; top: 17px;">IT or Technical User</div></div><div id="HM_Menu2_2" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 168px; border-width: 1px; border-color: rgb(153, 204, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 33px;"><div id="HM_Item2_2_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 164px; left: 0px; top: 0px;">Marketing or Business User</div><div id="HM_Item2_2_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; width: 164px; left: 0px; top: 17px;">IT or Technical User</div></div><div id="HM_Menu2_5" style="position: absolute; visibility: hidden; left: -500px; top: 0px; width: 168px; border-width: 1px; border-color: rgb(153, 204, 255); border-style: solid; z-index: 5000; overflow: hidden; cursor: default; height: 135px;"><div id="HM_Item2_5_1" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 164px; left: 0px; top: 0px;">CommerceTrends</div><div id="HM_Item2_5_2" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 164px; left: 0px; top: 17px;">Enterprise Reporting Server</div><div id="HM_Item2_5_3" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 164px; left: 0px; top: 34px;">WebTrends Live</div><div id="HM_Item2_5_4" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 164px; left: 0px; top: 51px;">Enterprise Suite</div><div id="HM_Item2_5_5" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 164px; left: 0px; top: 68px;">Professional Suite</div><div id="HM_Item2_5_6" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 164px; left: 0px; top: 85px;">Log Analyzer</div><div id="HM_Item2_5_7" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; border-bottom: 1px solid rgb(153, 204, 255); width: 164px; left: 0px; top: 102px;">Firewall Suite</div><div id="HM_Item2_5_8" style="position: absolute; visibility: inherit; cursor: pointer; background-color: rgb(51, 102, 153); color: white; padding: 2px; font: 8pt Verdana, Arial, Helvetica; width: 164px; left: 0px; top: 119px;">Security Analyzer</div></div></body></html>
+<!-- START OF Data Collection Server TAG -->
+<!-- Copyright 2002 NetIQ Corporation -->
+<!-- V2.0 -->
+<script language="JavaScript">
+<!--
+function dcs_2_0(dcs_URI,dcs_QRY,dcs_EXT)
+{
+       var dCurrent = new Date();
+       var P = "";
+       P+="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://dcs.wtlive.com/DCS001000_8M6S/dcs.gif?";
+       P+="dcsuri="+escape(dcs_URI);
+       P+="&dcsqry="+escape(dcs_QRY);
+       if ((window.document.referrer != "") && (window.document.referrer != "-"))
+       {
+              if (!(navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) < 4) )
+              {
+                     P+="&dcsref="+window.document.referrer;
+              }
+       }
+       P+=dcs_EXT;
+       P+="&dcssip=www.netiq.com";  //For Cross domain tracking, replace 'yourdomain' and remove the leading '//'.
+       P+="&dcsdat="+escape(dCurrent.getTime());
+       P+="&WT.ti="+escape(document.title);
+       document.write('<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="'+P+'">');
+       
+       // start beta code
+       P = "";
+       P+="http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://dcsbeta.wtlive.com/DCS000997_2O9T/dcs.gif?";
+       P+="dcsuri="+escape(dcs_URI);
+       P+="&dcsqry="+escape(dcs_QRY);
+       if ((window.document.referrer != "") && (window.document.referrer != "-"))
+       {
+              if (!(navigator.appName == "Microsoft Internet Explorer" && parseInt(navigator.appVersion) < 4) )
+              {
+                     P+="&dcsref="+window.document.referrer;
+              }
+       }
+       P+=dcs_EXT;
+       P+="&dcssip=www.netiq.com";  //For Cross domain tracking, replace 'yourdomain' and remove the leading '//'.
+       P+="&dcsdat="+escape(dCurrent.getTime());
+       P+="&WT.ti="+escape(document.title);
+       document.write('<IMG BORDER="0" NAME="DCSIMGTEST" WIDTH="1" HEIGHT="1" SRC="'+P+'">');
+       // end beta code
+}
+//-->
+</script>
+<script language="JavaScript">
+<!--
+function dcsExtend(N,V)
+{
+       dcsEXT+="&"+N+"="+escape(V);
+}
+function dcsMeta() 
+{
+       var F=false;
+       var myDocumentElements;
+       if (document.all)
+       {
+              F = true;
+              myDocumentElements=document.all.tags("meta");
+       }
+       if (!F && document.documentElement)
+       {
+              F = true;    
+              myDocumentElements=document.getElementsByTagName("meta");
+       }
+       if (F)
+       {
+              for (var i=1; i<=myDocumentElements.length;i++)
+              {
+                     myMeta=myDocumentElements.item(i-1);
+                     if (myMeta.name.indexOf('WT.')==0)
+                           dcsExtend(myMeta.name,myMeta.content);
+              }
+       }      
+}
+ 
+var dcsURI=window.location.pathname;
+var dcsQRY=window.location.search;
+var dcsEXT="";
+dcsMeta();
+dcs_2_0(dcsURI,dcsQRY,dcsEXT);
+//-->
+</script><img border="0" name="DCSIMG" width="1" height="1" src="https://dcs.wtlive.com/DCS001000_8M6S/dcs.gif?dcsuri=/web/20021205083745id_/http%253A//www.netiq.com/About_NetIQ/PrivacyPolicy.asp&amp;dcsqry=&amp;dcssip=www.netiq.com&amp;dcsdat=1580376629813&amp;WT.ti=NetIQ%3A%20Privacy%20Policy"><img border="0" name="DCSIMGTEST" width="1" height="1" src="https://dcsbeta.wtlive.com/DCS000997_2O9T/dcs.gif?dcsuri=/web/20021205083745id_/http%253A//www.netiq.com/About_NetIQ/PrivacyPolicy.asp&amp;dcsqry=&amp;dcssip=www.netiq.com&amp;dcsdat=1580376629813&amp;WT.ti=NetIQ%3A%20Privacy%20Policy">
+<noscript>
+<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcs.wtlive.com/DCS001000_8M6S/njs.gif?dcsuri=/nojavascript">
+<!-- start beta code -->
+<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://dcsbeta.wtlive.com/DCS000997_2O9T/njs.gif?dcsuri=/nojavascript">
+<!-- end beta code -->
+</noscript>
+<!-- END OF Data Collection Server TAG -->
+
+
+
+
+
+</body></html>
