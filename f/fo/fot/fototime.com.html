@@ -1,259 +1,88 @@
-<!--The following is the downloaded HTML source of the fototime.com privacy policy that was archived on 2001-08-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010803005553id_/http%3A//fototime.com/ftweb/bin/ft.dll/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fototime.com privacy policy that was archived on 2002-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20020605025652id_/http%3A//www.fototime.com/privacy) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="Content-Language" content="en-us">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
-<meta name="GENERATOR" content="Microsoft FrontPage 4.0">
-<meta name="ProgId" content="FrontPage.Editor.Document">
-<title>FotoTime.com</title>
-<style>
-</style>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><title>FotoTime.com</title>
+<link rel="stylesheet" type="text/css" href="/ftweb/bin/ft.dll/styles.css">
+<script src="/ftweb/scripts/common.js?uniqueid={33A36439-5D50-426F-9796-C75633BA4517}"></script></head>
 
-<link rel="stylesheet" type="text/css" href="/ftweb/styles/ftstyles.css">
 
-</head>
+
 
 <body topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF">
 
-
-
-<!-- Include /ftweb/scripts/navigation.inc Start -->
-<script>
-   var browser = "";
-   var version = "";
-   var agent = "";
-
-  if (agent == "")
-  {
-    agent = navigator.userAgent;
-  }
-  
-  if (browser == '')
-  {
-	if (agent.indexOf('Opera') != -1)
-	  browser = 'Opera'
-	 else
-    if (navigator.appName.indexOf('Microsoft') != -1)
-     browser = 'IE'
-    else 
-    if (navigator.appName.indexOf('Netscape') != -1)
-      browser = 'Netscape'
-    else 
-      browser = 'NN';
-  }
-
-  if (version == '')
-  {
-    version= navigator.appVersion;
-    var paren = version.indexOf('(');
-    var whole_version = navigator.appVersion.substring(0,paren-1);
-    version = parseInt(whole_version);
-  }
-
-  function IsBrowserIE3()
-  {
-    var retval = false;
-    if (browser == 'IE') 
-    {
-      if (version <4) 
-        retval = true;
-    }
-    return(retval);
-  }    
-
-  var NewTop, NewLeft = 0;
-
-  function Center(NewWinHeight, NewWinWidth) 
-  { 
-    NewTop  = 0; 
-    NewLeft = 0; 
-    //alert(navigator.userAgent);
-    if ((!IsBrowserIE3()) && (navigator.userAgent.indexOf("AOL") <0))
-    {
-      NewTop = ((screen.availHeight-25) - NewWinHeight) / 2; 
-      NewLeft = ((screen.availWidth-25) - NewWinWidth) / 2; 
-    }
-  } 
-
-
-
-  function BtnStatusOver()
-  {
-    if ((event.srcElement.tagName == 'TD') && (event.srcElement.name != ''))
-    {
-      var el = document.all[event.srcElement.name];
-      if ((el) && (!event.srcElement.contains(event.fromElement)))
-      {
-        status = el.href;
-        event.srcElement.style.cursor = 'hand';
-      }
-    } 
-  }
-
-  function BtnStatusOut()
-  {
-    if ((event.srcElement.tagName == 'TD') && (!event.srcElement.contains(event.toElement)))
-    {
-       status = '';
-       event.srcElement.style.cursor = 'auto';
-    } 
-  }
-
-  function Nav_OnMouseOver(srcEle)
-  {
-    if (!srcEle.contains(event.fromElement))
-    {
-      if (srcEle.className == "dropdownmenuitem") 
-      {
-        srcEle.style.backgroundColor = "#000080";
-        srcEle.style.color = "#FFFFFF"
-        srcEle.firstChild.style.color = "#FFFFFF";
-      }
-      else
-      {
-        srcEle.style.borderLeftColor = "#FFFFFF"
-        srcEle.style.borderTopColor = "#FFFFFF"
-        srcEle.style.borderRightColor = "#666666"
-        srcEle.style.borderBottomColor = "#666666"
-      }
-      
-      BtnStatusOver();
-    }
-  }	
-
-  function Nav_OnMouseOut(srcEle)
-  {
-    if (!srcEle.contains(event.toElement))
-    {
-      srcEle.style.borderLeftColor = "#C0C0C0"
-      srcEle.style.borderTopColor = "#C0C0C0"
-      srcEle.style.borderRightColor = "#C0C0C0"
-      srcEle.style.borderBottomColor = "#C0C0C0"
-
-      srcEle.style.backgroundColor = "#C0C0C0"
-      srcEle.style.color = "#000000"
-      srcEle.firstChild.style.color = "#000000";
-      BtnStatusOut();
-    }
-  }
-
-
-  function SelNav_OnMouseOver(srcEle)
-  {
-    if (!srcEle.contains(event.fromElement))
-    {
-      BtnStatusOver();
-    }
-  }	
-
-  function SelNav_OnMouseOut(srcEle)
-  {
-    if (!srcEle.contains(event.toElement))
-    {
-      BtnStatusOut();
-    }
-  }
-
-
-  function CellClick()
-  {
-    if (event.srcElement.tagName == 'TD')
-    { 
-      if (event.srcElement.name != '')
-      {
-        var el = document.all[event.srcElement.name]
-        if (el)
-        {
-          var Url = document.all[event.srcElement.name].href; 
-		  var Target = document.all[event.srcElement.name].target;
-		  if (Target != '')
-		  {
-		    window.open(Url); 
-		  }
-		  else
-		  {
-            location.href = Url;
-		  }
-        }
-      } 
-    }
-  }  
-
-  function SetStatusBar(str)
-  {
-    str = unescape(str);
-    window.status = str;
-  }
-
-  function changeImages(imgname, imgurl)
-  {
-    //var el = document.all[imgname];
-    imgname.src = imgurl;
-  }
-      
-
-</script>
-<!-- Include /ftweb/scripts/navigation.inc End -->
-
-<table border="0" cellspacing="0" cellpadding="2" background="/ftweb/images/header.gif" width="100%">  <tbody><tr>    <td height="60" valign="top" width="50%"><a href="/"><img border="0" src="/ftweb/images/fototimesmalllogo.gif" height="60"></a></td>    <td width="50%" align="right" class="headerlabel" height="60" valign="middle">Privacy</td>  </tr></tbody></table>
-<table name="menu" id="menu" border="0" width="100%" cellspacing="0" cellpadding="0" bordercolor="#00095E" bgcolor="#00095E">
+<table id="headertable" border="0" cellspacing="0" cellpadding="2" background="/ftweb/images/header.gif" width="100%">  <tbody><tr>    <td height="60" valign="top" width="50%"><a href="/"><img border="0" src="/ftweb/images/fototimesmalllogo0.gif" height="60"></a></td>    <td width="50%" align="right" class="headerlabel" height="60" valign="middle">Privacy</td>  </tr></tbody></table>
+<!-- Nav Bar -->
+<table name="hdrmenu" id="hdrmenu" border="0" width="100%" cellspacing="0" cellpadding="0" bordercolor="#00095E" bgcolor="#00095E">
   <tbody><tr height="21">
-    <td class="lblueheader">&nbsp;
-      <script language="Javascript1.1">
-      <!--
-        var d = new Date();
-        var x = new Array("Sunday", "Monday", "Tuesday", "Wednesday","Thursday", "Friday", "Saturday");
-        var y = new Array("January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December");
-        document.write(x[d.getDay()]+ ", " );
-        document.write(y[d.getMonth()]);
-        document.write(" " + d.getDate() + ", ");
-        document.write(d.getFullYear());
-      //-->
-      </script>Thursday, January 30, 2020
-    </td>
-<td height="21" class="blueheader" width="70"><a title="Return to FotoTime home page" class="blueheader" href="http://fototime.com"><img border="0" src="/ftweb/images/home.gif" width="21" height="10">Home</a></td>
-<td class="blueheader">|</td>    <td height="21" class="blueheader" width="70"><a title="Create your own FotoTime account" class="blueheader" href="http://fototime.com/register">Join</a></td>
-<td class="blueheader">|</td><td height="21" class="blueheader" width="70"><a title="Show what products our store offers" class="blueheader" href="http://fototime.com/shop">Shop</a></td>
-<td class="blueheader">|</td>    <td height="21" class="blueheader" width="70"><a title="Learn about FotoTime, Inc." class="blueheader" href="http://fototime.com/aboutus">About Us</a></td>
-<td class="blueheader">|</td>    <td height="21" class="blueheader" width="70"><a title="Get help with FotoTime and FotoAlbum" class="blueheader" href="http://fototime.com/help">Help</a></td>
+    <td class="lftheader">&nbsp;<script language="Javascript1.1">document.write(currentDateString());</script><noscript>Tuesday, June 4, 2002</noscript></td>
+    <td height="21" class="ftheader" width="70"><a title="Return to FotoTime home page" class="ftheader" href="http://www.fototime.com"><img border="0" src="/ftweb/images/home.gif" width="21" height="10">Home</a></td>
+    <td class="ftheader">|</td>
+    <td height="21" class="ftheader" width="70"><a title="Create your own FotoTime account" class="ftheader" href="http://www.fototime.com/register">Join</a></td>
+    <td class="ftheader">|</td>
+    <td height="21" class="ftheader" width="70"><a title="Show what products our store offers" class="ftheader" href="http://www.fototime.com/shop">Shop</a></td>
+    <td class="ftheader">|</td>
+    <td height="21" class="ftheader" width="70"><a title="Learn about FotoTime, Inc." class="ftheader" href="http://www.fototime.com/aboutus">About Us</a></td>
+    <td class="ftheader">|</td>
+    <td height="21" class="ftheader" width="70"><a title="Get help with FotoTime and FotoAlbum" class="ftheader" href="http://www.fototime.com/help">Help</a></td>
   </tr>
 </tbody></table>
 
-        
 
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tbody><tr> 
   
-    <td width="5" class="LeftFrame">&nbsp;&nbsp;</td>
+    
+<!-- start template SPACER -->
+<td width="5" class="leftframe">&nbsp;&nbsp;</td>
+<!-- end template SPACER -->
+
   
-    <td class="leftframe" width="163" valign="top">
-     <table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tbody><tr><td align="right" width="100%"><img border="0" src="/ftweb/images/upperright.gif" width="17" height="17"></td></tr>
+    <td class="leftframe" width="163" valign="top" nowrap="">
+     
+<!-- start template RIGHTCORNER -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tbody><tr><td align="right" width="100%"><img border="0" src="/ftweb/images/upperright0.gif" width="17" height="17"></td></tr>
 </tbody></table>
+<!-- end template RIGHTCORNER -->
+
      About your privacy.
+	 
+<!-- start template FIXWIDTH -->
+<img src="/ftweb/images/transparent.gif" width="163" height="1">
+
+<!-- end template FIXWIDTH -->
+
     </td>
     
-    <td width="3" class="blueheader"><font size="0">&nbsp;</font></td>
+    
+<!-- start template DIVIDER -->
+<td width="3" class="ftheader"><font size="0">&nbsp;</font></td>
+<!-- end template DIVIDER -->
+
         
-    <td valign="top" bgcolor="#FFFFFF">
-      <table border="0" cellspacing="0" cellpadding="0" width="100%">
-  <tbody><tr><td align="left" width="100%"><img border="0" src="/ftweb/images/upperleft.gif" width="17" height="17"></td></tr>
+    <td valign="top" bgcolor="#FFFFFF" width="100%">
+      
+<!-- start template LEFTCORNER -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tbody><tr><td align="left" width="100%"><img border="0" src="/ftweb/images/upperleft0.gif" width="17" height="17"></td></tr>
 </tbody></table>
+<!-- end template LEFTCORNER -->
+
       <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
           <tbody><tr>
             <td class="statlabel">
             <table>
               <tbody><tr>
                 <td width="10">&nbsp;</td>
-                <td><font face="helvetica, arial, verdana" size="3">
-                  <h3>FotoTime's Privacy Policy</h3>
-                  </font>
-                  <p><font face="helvetica, arial, verdana" size="2">FotoTime</font><font face="helvetica, arial, verdana" size="2">.com
+                <td class="righttext">
+                  <h3 class="rightheading">FotoTime's Privacy Policy</h3>
+                  <p>FotoTime.com
                   has created this privacy statement in order to demonstrate our
                   firm commitment to privacy. The following discloses our
                   information gathering and dissemination practices for this
-                  website: www.FotoTime.com.</font></p><p><font face="helvetica, arial, verdana" size="2">We keep log files that track each
+                  website: www.FotoTime.com.</p><p>We keep log files that track each
                   picture sent to FotoTime.com through the FotoAlbum sync
                   process.&nbsp; The log files are used to help us track
                   problems you may encounter.&nbsp; We have a database that
@@ -266,25 +95,25 @@
                   information and summary system information to the FotoTime 
                   server(s) as part of the FotoAlbum Sync process.  This 
                   information is only used to help solve problems within FotoAlbum.
-                  </font></p><p><font face="helvetica, arial, verdana" size="2">Our site's registration form requires users to provide
+                  </p><p>Our site's registration form requires users to provide
                   contact information (like their name and email address). We use customer contact information
                   from the registration form to send information to our users
                   about our company and promotional material from some of our
                   partners.&nbsp;
-                  </font></p><p><font face="helvetica, arial, verdana" size="2">This site contains links to other sites. www.FotoTime.com is
+                  </p><p>This site contains links to other sites. www.FotoTime.com is
                   not responsible for the privacy practices or the content of
                   such Web sites.
-                  </font></p><p><font face="helvetica, arial, verdana" size="2">We use an outside ad company to display ads on our site.
+                  </p><p>We use an outside ad company to display ads on our site.
                   These ads may contain cookies. While we use cookies in other
                   parts of our Web site, cookies received with banner ads are
                   collected by our ad company, and we do not have access to this
                   information.
-                  </font></p><p><font face="helvetica, arial, verdana" size="2">&nbsp;
-                  </font></p><h4><font face="helvetica, arial, verdana" size="2">Security</font></h4><font face="helvetica, arial, verdana" size="2">
+                  </p><p>&nbsp;
+                  </p><h4 class="rightheading">Security</h4>
                   FotoTime.com has security measures in place to protect the loss,
                   misuse and alteration of the information under our control.
                   <p>&nbsp;
-                  </p><h4>Children's Guidelines</h4>
+                  </p><h4 class="rightheading">Children's Guidelines</h4>
                   This site allows for users to provide both online and
                   personally identifiable offline contact information from
                   children without prior parental consent or parental
@@ -292,16 +121,16 @@
                   post or distribute personally identifiable contact information
                   without prior parental consent.
                   <p>&nbsp;
-                  </p><h4>Correct/Update</h4>
+                  </p><h4 class="rightheading">Correct/Update</h4>
                   FotoTime.com gives users the following option for changing and
                   modifying information previously provided.
                   <ol>
-                    <li>Visit <a href="http://www.fototime.com">http://www.fototime.com</a>
+                    <li>Visit <a href="http://www.fototime.com" class="rightlinks">http://www.fototime.com</a>
                     </li><li>Enter your username and password to log in, then press the login button
                     </li><li>Select the user information link to change your profile
                     </li><li>Click Save
                   </li></ol>
-                  <h4>Contacting the Web Site</h4>
+                  <h4 class="rightheading">Contacting the Web Site</h4>
                   If you have any questions about this privacy statement, the
                   practices of this site, or your dealings with this Web site,
                   you can contact
@@ -318,9 +147,9 @@
                   <address>Colleyville, TX 76034
                   </address>
                   <address>
-                    <a href="mailto:privacy@fototime.com">privacy@FotoTime.com</a>
+                    <a href="mailto:privacy@fototime.com" class="rightlinks">privacy@FotoTime.com</a>
                   </address>
-                  </font></td>
+                  </td>
               </tr>
             </tbody></table>           
             </td>
@@ -331,7 +160,7 @@
   </tr>
 </tbody></table>
 
-<p align="center">  <font face="helvetica, arial, verdana" size="1" color="#000000">    2 - Copyright © 2001 FotoTime, Inc. All Rights Reserved.&nbsp;&nbsp;&nbsp;    <a onmousemove="javascript:SetStatusBar('Privacy%20Policy')" onmouseout="javascript:SetStatusBar('')" href="http://fototime.com/ftweb/bin/ft.dll/privacy">Privacy Policy</a> |     <a onmousemove="javascript:SetStatusBar('Terms%20of%20Service')" onmouseout="javascript:SetStatusBar('')" href="http://fototime.com/ftweb/bin/ft.dll/termsofuse">Terms of Service</a> |     <a onmousemove="javascript:SetStatusBar('Feedback')" onmouseout="javascript:SetStatusBar('')" href="http://fototime.com/ftweb/bin/ft.dll/supportquestion">Feedback</a>  </font></p><br>
+<p align="center" class="copyright">  <font class="copyright">    1 - Copyright © 2001 FotoTime, Inc. All Rights Reserved.&nbsp;&nbsp;&nbsp;    <a class="copyright" onmousemove="javascript:SetStatusBar('Privacy%20Policy')" onmouseout="javascript:SetStatusBar('')" href="http://www.fototime.com/privacy">Privacy Policy</a> |     <a class="copyright" onmousemove="javascript:SetStatusBar('Terms%20of%20Service')" onmouseout="javascript:SetStatusBar('')" href="http://www.fototime.com/terms">Terms of Service</a> |     <a class="copyright" onmousemove="javascript:SetStatusBar('Feedback')" onmouseout="javascript:SetStatusBar('')" href="http://www.fototime.com/supportquestion">Feedback</a>  </font></p><br>
 
 
 
