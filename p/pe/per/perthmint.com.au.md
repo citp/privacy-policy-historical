@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2002-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021015104430id_/http%3A//www.perthmint.com.au/gc/help/help_layout.asp%3Furl%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perthmint.com.au privacy policy that was archived on 2003-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030610044707id_/http%3A//perthmint.com.au/gc/help/help_layout.asp%3Furl%3D2) for the most accurate reproduction.*
 
 # 
+
+[Using The Site](https://web.archive.org/gc/help/help_layout.asp?file=shop)  
+[Privacy](https://web.archive.org/gc/help/help_layout.asp?url=2)  
+[Security](https://web.archive.org/gc/help/help_layout.asp?url=2)  
+[Terms & Conditions](https://web.archive.org/gc/help/help_layout.asp?file=terms)  
+[Site Map](https://web.archive.org/gc/help/help_layout.asp?file=shop)  
+
 
 Contact
 
