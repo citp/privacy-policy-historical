@@ -1,112 +1,99 @@
-<!--The following is the downloaded HTML source of the snapnames.com privacy policy that was archived on 2001-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20010603014911id_/http%3A//www.snapnames.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the snapnames.com privacy policy that was archived on 2001-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20011025025455id_/http%3A//www.snapnames.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
-<title>SnapNames: Privacy Statement</title>
+<title>SnapNames - Privacy Statement</title>
 <meta name="description" content="SnapNames">
-<link href="styles/snapNames.css" rel="stylesheet">
+<link href="styles/snapnames.css" rel="stylesheet">
 
 <script language="JavaScript">
-<!-- hide this script from non-javascript-enabled browsers
+<!--
 
 /********** Variable Declarations ***********/
 
-//GLOBAL VARIABLES
+// Global variables
+
 var strMsg = "";         //used by validation scripts
 
 /*********** Various Functions **********/
 
-// FUNCTION TO HALT SUBMISSION AND GENERATE ALERT MESSAGE
-// IF GLOBAL VARIABLE strMsg IS NOT EMPTY.
+// Function to halt submission and generate alert message
 function checkIt() {
-  //CHECK GLOBAL VAR strMsg.
-  //IF NOT EMPTY PRINT CONTENTS AND RETURN VALUE OF FALSE
-  if (strMsg != "") {
-    //PRINT ALERT BOX
-    alert('________________________________________________________\n\n' +
-      'The following question(s) was not completed properly:\n\n' + strMsg +
-      '\n________________________________________________________\n\n' +
-      'Please correct and re-submit form.');
-    return false;
-  }
-  else {
-    return true;
-  }
+    if (strMsg != "") {
+        alert('________________________________________________________\n\n' +
+        'The following item(s) was not completed properly:\n\n' + strMsg +
+        '\n________________________________________________________\n\n' +
+        'Please correct and re-submit form.');
+        return false;
+    }
+    else {
+        return true;
+    }
 }
 
 
-// FUNCTION TO VERIFY REQUIRED TEXTBOXES
-function verText(entry,strQuestName) {
-  if ((entry == "") || (entry == null)) {
-    strMsg += "  " + strQuestName + " is required.\n";
-    return false;
-  }
-  else {
-    return true;
-  }
+// Function to trim leading and trailing spaces
+function trim(strText) {
+    // this will get rid of leading spaces 
+    while (strText.substring(0,1)==String.fromCharCode(32)){
+        strText = strText.substring(1, strText.length);
+        // this will get rid of trailing spaces 
+    }
+    while (strText.substring(strText.length-1,strText.length)==String.fromCharCode(32)){
+        strText = strText.substring(0, strText.length-1);
+    }
+    return strText;
 }
 
-// Function for strict textbox validation
-function verTextStrict(strValue,strLabel) {
-    var bTest = false;
-    if (verText(strValue,strLabel)) {
-        for (var i=0; i<strValue.length; i++) {
-            if (strValue.charCodeAt(i) < 33 || 
-                strValue.charCodeAt(i) > 126) {
-                strMsg += "  " + strLabel + " cannot contain spaces or non-printable characters.\n";
+// Function to verify textboxes (bOptional indicates a non-required field)
+function verText(entry,strQuestName,bOptional) {
+    entry = trim(entry);
+    if (entry == "" || entry == null) {
+        if (!bOptional) {
+            strMsg += "  " + strQuestName + " is required.\n";
+        }
+        return false;
+    }
+    else {
+        return true;
+    }
+}
+
+// Function to validate search box
+function verSearch(strValue,strLabel,bOptional) {
+    var bTest = true;
+    strValue = trim(strValue);
+    for (var i=0; i<strValue.length; i++) {
+        if (strValue.charAt(i) != "-" &&
+            strValue.charAt(i) != ".") {
+            if ((strValue.charCodeAt(i) < 48 || 
+                strValue.charCodeAt(i) > 57) &&
+                (strValue.charCodeAt(i) < 65 ||
+                strValue.charCodeAt(i) > 90) &&
+                (strValue.charCodeAt(i) < 97 ||
+                strValue.charCodeAt(i) > 122)) {
+                strMsg += "  " + strLabel + ": Only letters, numbers, and hyphens are valid\n" +
+                          "     characters in a domain name\n";
+                bTest = false;
                 return bTest;
             }
         }
-        bTest = true;
     }
+    if (strValue.length == 0 && !bOptional) {
+        bTest = false;
+        strMsg += "  Please enter a domain name to search for.\n";
+    }    
     return bTest;
 }
 
-// Function to disallow commas, colons, and semicolons
-function verNoCommas(strValue,strLabel) {
-    var bTest = false;
-    if (verTextStrict(strValue,strLabel)) {
-        for (var i=0; i<strValue.length; i++) {
-            if (strValue.charAt(i) == "," || 
-                strValue.charAt(i) == ";" ||
-                strValue.charAt(i) == ":") {
-                strMsg += "  " + strLabel + " must contain a single domain name only\n";
-                return bTest;
-            }
-        }
-        bTest = true;
-    }
-    return bTest;
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
 
-// Cache Images
-
-if (document.images) {
-  home_nav_logIn_f2 = new Image(104 ,37); home_nav_logIn_f2.src = "images/home_nav_logIn_f2.gif";
-  home_nav_logIn_f1 = new Image(104 ,37); home_nav_logIn_f1.src = "images/home_nav_logIn.gif";
-  home_nav_products_f2 = new Image(77 ,37); home_nav_products_f2.src = "images/home_nav_products_f2.gif";
-  home_nav_products_f1 = new Image(77 ,37); home_nav_products_f1.src = "images/home_nav_products.gif";
-  home_nav_support_f2 = new Image(71 ,37); home_nav_support_f2.src = "images/home_nav_support_f2.gif";
-  home_nav_support_f1 = new Image(71 ,37); home_nav_support_f1.src = "images/home_nav_support.gif";
-  home_nav_press_f2 = new Image(55 ,37); home_nav_press_f2.src = "images/home_nav_press_f2.gif";
-  home_nav_press_f1 = new Image(55 ,37); home_nav_press_f1.src = "images/home_nav_press.gif";
-  home_nav_newsletter_f2 = new Image(92 ,37); home_nav_newsletter_f2.src = "images/home_nav_newsletter_f2.gif";
-  home_nav_newsletter_f1 = new Image(92 ,37); home_nav_newsletter_f1.src = "images/home_nav_newsletter.gif";
-  home_nav_about_f2 = new Image(82 ,37); home_nav_about_f2.src = "images/home_nav_about_f2.gif";
-  home_nav_about_f1 = new Image(82 ,37); home_nav_about_f1.src = "images/home_nav_about.gif";
-  home_nav_lawyers_f2 = new Image(116 ,37); home_nav_lawyers_f2.src = "images/home_nav_lawyers_f2.gif";
-  home_nav_lawyers_f1 = new Image(116 ,37); home_nav_lawyers_f1.src = "images/home_nav_lawyers.gif";
-  
-  nav_execTeam_f2 = new Image(104, 50); nav_execTeam_f2.src = "images/nav_execTeam_f2.gif";
-  nav_execTeam_f1 = new Image(104, 50); nav_execTeam_f1.src = "images/nav_execTeam.gif";
-  nav_partners_f2 = new Image(104, 50); nav_partners_f2.src = "images/nav_partners_f2.gif";
-  nav_partners_f1 = new Image(104, 50); nav_partners_f1.src = "images/nav_partners.gif";
-  nav_contact_f2 = new Image(104, 50); nav_contact_f2.src = "images/nav_contact_f2.gif";
-  nav_contact_f1 = new Image(104, 50); nav_contact_f1.src = "images/nav_contact.gif";
-  nav_jobs_f2 = new Image(104, 50); nav_jobs_f2.src = "images/nav_jobs_f2.gif";
-  nav_jobs_f1 = new Image(104, 50); nav_jobs_f1.src = "images/nav_jobs.gif";
-  nav_privacy_f2 = new Image(104, 50); nav_privacy_f2.src = "images/nav_privacy_f2.gif";
-  nav_privacy_f1 = new Image(104, 50); nav_privacy_f1.src = "images/nav_privacy.gif";
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
 
 function MM_findObj(n, d) { //v3.0
@@ -116,279 +103,279 @@ function MM_findObj(n, d) { //v3.0
   for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
 }
 
-/* Functions that swaps images. */
 function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-// stop hiding -->
+//-->
 </script>
 </head>
 
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-
-<!-- Begin Standard Banner with Nav -->
-
-<form method="post" action="orderForm.jsp" name="formSearch" onsubmit="strMsg='';
-         verNoCommas(document.formSearch.txtSearch.value, 'Search request');
-         return checkIt();">
-<table border="0" cellpadding="0" cellspacing="O" width="778">
-    <tbody><tr>
-        <td>
-            <a href="index.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home_logo','','images/home_logo_on.gif',1);">
-            <img name="home_logo" src="images/home_logo.gif" width="307" height="96" border="0" alt="SnapNames Home"><br></a>
-        </td>
-        <td align="right" valign="bottom">
-        
-        <!-- START: Search feature -->		
-            
-            <table border="0" cellpadding="0" cellspacing="0" width="442">
-                <tbody><tr><!-- Shim row, height 1. -->
-                    <td><img src="images/shim.gif" width="79" height="1" border="0"></td>
-                    <td><img src="images/shim.gif" width="200" height="1" border="0"></td>
-                    <td><img src="images/shim.gif" width="48" height="1" border="0"></td>
-                    <td><img src="images/shim.gif" width="115" height="1" border="0"></td>
-                    <td><img src="images/shim.gif" width="1" height="1" border="0"></td>
-                </tr>
-                <tr valign="top"><!-- row 1 -->
-                    <td colspan="4"><img src="images/shim.gif" width="442" height="6" border="0"></td>
-                    <td><img src="images/shim.gif" width="1" height="6" border="0"></td>
-                </tr>
-                <tr valign="top"><!-- row 2 -->
-                    <td align="right">
-                        <img src="images/logInSearch_lblSearch.jpg" width="56" height="27" border="0" alt="Search"><br>
-                    </td>
-                    <td align="center" valign="middle">
-                        <input type="text" name="txtSearch" size="24" maxlength="67">
-                    </td>
-                    <td>
-                        <input type="image" border="0" name="submitSearch" src="images/logInSearch_btnGo.gif" width="48" height="27" alt="Snap It!"><br>
-                    </td>
-                    <td>
-                        <a href="search.jsp">
-                        <img name="logInSearch_btnMulti" src="images/logInSearch_btnMulti.gif" width="115" height="27" border="0" alt="Multiple Name Search"></a><br>
-                    </td>
-                    <td><img src="images/shim.gif" width="1" height="27" border="0"></td>
-                </tr>
-                <tr valign="top"><!-- row 3 -->
-                    <td rowspan="3" colspan="3"><img src="images/shim.gif" width="327" height="62" border="0"></td>
-                    <td><img src="images/shim.gif" width="115" height="5" border="0"></td>
-                    <td><img src="images/shim.gif" width="1" height="5" border="0"></td>
-                </tr>
-                <tr valign="top"><!-- row 4 -->
-                    <td>&nbsp;</td>
-                    <td><img src="images/shim.gif" width="1" height="18" border="0"></td>
-                </tr>
-                <tr valign="top"><!-- row 5 -->
-                    <td><img src="images/shim.gif" width="115" height="39" border="0"><br></td>
-                    <td><img src="images/shim.gif" width="1" height="39" border="0"></td>
-                </tr>
-            </tbody></table>
-            
-        <!-- END: Search feature -->
-            
-        </td>
+<body bgcolor="#FFFFFF" onload="MM_preloadImages('images/logo_on.gif','images/nav_home_on.gif','images/nav_products_on.gif','images/nav_support_on.gif','images/nav_pressroom_on.gif','images/nav_partners_on.gif','images/nav_corporate_on.gif','images/nav_domaintoolkit_on.gif','images/nav_newsletter_on.gif')"> 
+<!--Begin Standard Header Table --> 
+<div align="center"> 
+  <table border="0" width="640" cellpadding="0" cellspacing="0">
+    <tbody><tr> 
+      <td valign="bottom"><a href="index.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Logo','','images/logo_on.gif',1)"><img name="Logo" border="0" src="images/logo_off.gif" width="259" height="61"></a></td>
+      <td valign="bottom"> 
+        <!-- Start of search form -->
+        <form name="searchForm" action="orderForm.jsp" method="POST" onsubmit="strMsg='';
+                  verSearch(document.searchForm.txtSearch.value, 'Search Request',false);
+                  document.searchForm.dom.value = document.searchForm.txtSearch.value;
+                  return checkIt();">
+        <table border="0" width="250" cellpadding="0" cellspacing="0" align="right">
+            <tbody><tr> 
+                <td><span class="btext">Type in a name you would like to<br>
+                back-order or protect...</span></td>
+                <td rowspan="3"><img src="images/spacer.gif" height="1" width="5" alt=""></td>
+             </tr>
+            <tr>
+                <td>
+                <table border="0" cellpadding="0" cellspacing="0">
+                    <tbody><tr>
+                        <td align="right" valign="middle"><input type="text" name="txtSearch"></td>
+                        <td valign="middle"><input type="image" border="0" name="submitSearchForm" value="Submit" src="images/go_button.gif" alt="Go!" hspace="3">
+                        <input type="hidden" name="aff" value="0">
+                        <input type="hidden" name="dom" value=""></td>
+                    </tr>
+                </tbody></table>
+                </td>
+            </tr>
+            <tr> 
+                <td align="right"><a href="search.jsp">Search Multiple 
+                Names</a></td>
+            </tr>
+        </tbody></table>
+        </form>
+<!-- End of search form -->
+      </td>
     </tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td>
-            <a href="login.jsp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('home_nav_logIn','','images/home_nav_logIn_f2.gif',1);">
-            <img name="home_nav_logIn" src="images/home_nav_logIn.gif" width="104" height="37" border="0" alt="My Account"><br></a>
-        </td>
-        <td>
-            <a href="products.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('home_nav_products','','images/home_nav_products_f2.gif',1);">
-            <img name="home_nav_products" src="images/home_nav_products.gif" width="77" height="37" border="0" alt="Products"><br></a>
-        </td>
-        <td>
-            <a href="support.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('home_nav_support','','images/home_nav_support_f2.gif',1);">
-            <img name="home_nav_support" src="images/home_nav_support.gif" width="71" height="37" border="0" alt="Support"><br></a>
-        </td>
-        <td>
-            <a href="press.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('home_nav_press','','images/home_nav_press_f2.gif',1);">
-            <img name="home_nav_press" src="images/home_nav_press.gif" width="55" height="37" border="0" alt="Press"><br></a>
-        </td>
-        <td>
-            <a href="newsltr_reg.jsp" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('home_nav_newsletter','','images/home_nav_newsletter_f2.gif',1);">
-            <img name="home_nav_newsletter" src="images/home_nav_newsletter.gif" width="92" height="37" border="0" alt="Newsletter"><br></a>
-        </td>
-        <td>
-            <a href="about.html" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('home_nav_about','','images/home_nav_about_f2.gif',1);">
-            <img name="home_nav_about" src="images/home_nav_about.gif" width="82" height="37" border="0" alt="About Snapnames"><br></a>
-        </td>
-        <td>
-            <img name="home_lockMidNull" src="images/home_lockMidNull.gif" width="297" height="37" border="0"><br>
-        </td>
+    <tr> 
+      <td colspan="2"> 
+        <table border="0" cellpadding="0" cellspacing="0">
+          <tbody><tr> 
+            <td colspan="2"><!--Main nav bar starts --> 
+        <table width="640" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr> 
+                  <td><a href="products.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('products','','images/nav_products_on.gif',1)"><img name="products" border="0" src="images/nav_products_off.gif" width="82" height="27" alt="Products"></a></td>
+                  <td><a href="http://snapnames.custhelp.com/cgi-bin/snapnames.cfg/php/enduser/home.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('support','','images/nav_support_on.gif',1)"><img name="support" border="0" src="images/nav_support_off.gif" width="66" height="27" alt="Support"></a></td>
+                  <td><a href="pressroom.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('pressroom','','images/nav_pressroom_on.gif',1)"><img name="pressroom" border="0" src="images/nav_pressroom_off.gif" width="92" height="27" alt="Press Room"></a></td>
+                  <td><a href="partners.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('partners','','images/nav_partners_on.gif',1)"><img name="partners" border="0" src="images/nav_partners_off.gif" width="73" height="27" alt="Partners"></a></td>
+                  <td><a href="corporate.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('corporate','','images/nav_corporate_on.gif',1)"><img name="corporate" border="0" src="images/nav_corporate_off.gif" width="80" height="27" alt="Corporate"></a></td>
+                  <td><a href="domaintoolkit.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('toolkit','','images/nav_toolkit_on.gif',1)"><img name="toolkit" border="0" src="images/nav_toolkit_off.gif" width="61" height="27" alt="Tool Kit"></a></td>
+                  <td><a href="newsltr_reg.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('newsletter','','images/nav_newsletter_on.gif',1)"><img name="newsletter" border="0" src="images/nav_newsletter_off.gif" width="86" height="27" alt="Newsletter"></a></td>
+            <td><a href="snapfolio.jsp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('My Account','','images/nav_myaccount_on.gif',1)"><img name="My Account" border="0" src="images/nav_myaccount_off.gif" width="100" height="27"></a></td>
+          </tr>
+        </tbody></table>
+<!--Main nav bar ends --> 
+            </td>
+          </tr>
+        </tbody></table>
+      </td>
     </tr>
-</tbody></table>
-</form>
-<!-- End Standard Banner with Nav -->
+  </tbody></table>
+</div>
+<!--End Standard Header Table --> 
 
-<!-- CONTENT TABLE -->   
-<table border="0" cellpadding="0" cellspacing="0" width="700">
-    <tbody><tr valign="top"><!-- row 1 -->
-        <td>
-<!-- NAVIGATION --> 
-
-        </td>
-        <td>
-            <img name="sblvl_1_content_r1_c2" src="images/sblvl_1_content_r1_c2.gif" width="37" height="278" border="0"><br>
-        </td>
-        <td>
-            <!-- HEADER -->
-            <p class="Header"><img src="images/hd_privacy.gif" width="559" height="30" border="0" alt="Privacy Statement"></p>
-            
-      <!-- CONTENT --> 
-      <p class="text"> April 20, 2001<br>
-        <br>
-        <b>At SnapNames, we take providing high quality service and protecting 
-        your privacy very seriously.</b> The following information outlines the 
-        commitment SnapNames has made to protect the privacy of you and your organization. 
-        <br>
-        <br>
-        SnapNames reserves the right to change this agreement. Any changes made 
-        will be posted on this page. <br>
-        <br>
-        SnapNames does not govern and is not responsible for the privacy policy, 
-        content, or information collected on any Web site linked to or from the 
-        SnapNames Web site. <br>
-        <br>
-        <b>I. Information Collected by SnapNames</b><br>
-        SnapNames.com, Inc. (SnapNames) is the sole owner of the information collected 
-        on this site. <br>
-        <br>
-        <b>SnapNames collects information in the following activities: </b><br>
-        <br>
- 		Account Registration: When you become a subscriber of SnapNames services, SnapNames collects information that may include, but is not limited to, the following information:  your full name, company name, e-mail address, physical address, phone number, fax number, demographic information, and credit card number.  This information is used for billing purposes and to fill customer's orders.  If we have trouble processing an order, this contact information is used to get in touch with the user.  
-		<br><br>
-		Credit Card Information: If you subscribe to the SnapNames service via our online subscription process, we will collect your credit card information, including credit card number, expiration date and billing address.  This information is used for billing purposes and to fill customer's orders.  If we have trouble processing an order or need to issue a refund, this contact information is used to get in touch with the user.  We will take every reasonable measure to ensure that your data is secure, including the use of  SSL (Secure Socket Layer) technology.  
-		<br><br>
-		Site Usage Tracking:  SnapNames monitors Web site traffic and usage patterns in order to continually enhance and improve the service we offer.  In this process, we may collect IP addresses (which indicate the location of your computer on the Internet) to ensure effective technical operations.
-		<br><br>
-		Cookies: A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use cookies to recognize the user and track the order status while the user is logged in.  For the site to function properly, at least session-level cookies must be enabled in Internet Explorer or the first or second choice for cookies in Netscape.  These cookies are not accessible by any other web site and are removed by the browser at the end of the session.
-		<br><br>
-        <b>II. How SnapNames uses collected information </b><br>
-        <br>
-		Analysis of Site Behavior Information:  SnapNames may monitor and analyze site activity to gather information to determine interest in different areas of the SnapNames site.  This information aids us in improving our product offerings, enhancing our user acquisition strategies, and ensuring high-quality service at all times.  Additionally, we may inform our partners of how many site visitors have visited or purchased services, so that they may enhance their services.
-		<br><br>
-		Site Security: To ensure data security for our subscribers, the SnapNames site uses SSL (Secure Socket Layer) security technology to prevent unauthorized access to data.  Additionally, we house our site servers in a secure environment, and only allow site information to be viewed by authorized SnapNames staff members.
-		<br><br>
-		Subscriber Contact Information:  During the subscription process, we collect contact information for all subscribers (for further detail, see "Account Registration" above).  We may use this information to inform you about changes or additions to our Web site, send you information about effective ways to utilize SnapNames, and to facilitate customer support services.  If you wish, you may choose not to receive these communications.  See the "Opt Out Policy" below for further details.
-		<br><br>
-		Contact by SnapNames:  We reserve the right to contact subscribers of any of our services directly ourselves to inform them of new developments and new product information or offerings.
-		<br><br>
-        <b>III. How SnapNames shares information </b><br>
-        <br>
-		Other than what is specified in this document, SnapNames does not rent, sell or trade your personal or organizational information to others. We may provide aggregate statistics about sales, user traffic patterns, and other site information to third parties. These statistics will never contain personally identifiable information.
-		<br><br>
-        <b>IV. Links </b><br>
-        <br>
-		This Web site contains links to other sites.  Please be aware that SnapNames is not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information.  This privacy statement applies solely to information collected by this Web site.
-		<br><br>
-        <b>V. Newsletter</b> <br>
-        <br>
-        If you wish to subscribe to our newsletter, please go to our web site 
-        and you will be able to <a href="https://www.snapnames.com/newsltr_reg.jsp">subscribe</a> 
-        (no purchase is necessary.) <br>
-        <br>
-        <b>VI. Corrections </b><br>
-        <br>
-		You may contact SnapNames to correct organizational information. You can correct personal information on the SnapNames site, or via your account administrator.  Please access the SnapNames help system for further assistance.
-		<br><br>
-        <b>VII. Your Consent </b><br>
-        <br>	
-		By using SnapNames, you consent to the collection and use of information as outlined above.  SnapNames reserves the right to make changes to this privacy policy, and will post any and all changes on this Web page.  We will work to secure all information at all times; however, by using the SnapNames site, you are voluntarily transmitting information to us, and we cannot ensure or warrant the security said information.
-		<br><br>
-        We welcome any comments on this policy. You may e-mail any thoughts to 
-        <a href="mailto:info@SnapNames.com">info@SnapNames.com</a>. <br>
-        <br><br>
-        See our <a href="terms.html">Terms &amp; Conditions</a></p>
-        </td>
+<!--Begin Body Table -->  
+<div align="center"> 
+  <table border="0" width="640" cellpadding="0" cellspacing="0">
+    <tbody><tr> 
+      <td valign="top" colspan="3" rowspan="2"><img src="images/hd_privacy.gif" width="440" height="30"> 
+      </td>
     </tr>
-</tbody></table>   
-<p><br>
-</p>
-<p><br>
-</p>
-<p><br>
-</p>
-<p><br>
-</p>
-<table border="0" cellpadding="0" cellspacing="0" width="778">
-    <tbody><tr>
-        <td align="center">
-            <hr width="90%">
-            <p class="text"><a href="privacy.html">Privacy Statement</a>&nbsp;|&nbsp;<a href="terms.html">Terms &amp; Conditions</a>&nbsp;|&nbsp;<a href="disclaimer.html">Disclaimer</a><br>
-            All contents of this site copyright ©2001, ©2000 SnapNames.com, Inc. - All
-            Rights Reserved</p>
-        </td>
-    </tr>    
-</tbody></table>
+    <tr> </tr>
+    <tr> 
+      <td valign="top" colspan="3"> <br>
+        <div align="center"> 
+          <table width="550" border="0" cellpadding="0" cellspacing="0">
+            <tbody><tr> 
+              <td>
+                <p class="text">July 30, 2001
+<br>
+<br>
+At SnapNames, we take providing high quality service and protecting your privacy very seriously. The following information outlines the commitment SnapNames has made to protect the privacy of you and your organization. 
+<br><br>
+SnapNames reserves the right to change this agreement. Any changes made will be posted on this page. 
+<br><br>
+SnapNames does not govern and is not responsible for the privacy policy, content, or information collected on any Web site linked to or from the SnapNames Web site. 
+<br><br>
+I. Information Collected by SnapNames
+<br><br>
+SnapNames.com, Inc. (SnapNames) is the sole owner of the information collected on this site. 
+<br><br>
+SnapNames collects information in the following activities: 
+<br><br>
+Account Registration: When you become a subscriber of SnapNames services, SnapNames collects information that may include, but is not limited to, the following information: your full name, company name, e-mail address, physical address, phone number, fax number, demographic information, and credit card number. This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order, this contact information is used to get in touch with the user. 
+<br><br>
+Credit Card Information: If you subscribe to the SnapNames service via our online subscription process, we will collect your credit card information, including credit card number, expiration date and billing address. This information is used for billing purposes and to fill customer's orders. If we have trouble processing an order or need to issue a refund, this contact information is used to get in touch with the user. We will take every reasonable measure to ensure that your data is secure, including the use of SSL (Secure Socket Layer) technology. 
+<br><br>
+Site Usage Tracking: SnapNames monitors Web site traffic and usage patterns in order to continually enhance and improve the service we offer. In this process, we may collect IP addresses (which indicate the location of your computer on the Internet) to ensure effective technical operations. 
+<br><br>
+Cookies: A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use cookies to recognize the user and track the order status while the user is logged in. For the site to function properly, at least session-level cookies must be enabled in Internet Explorer or the first or second choice for cookies in Netscape. These cookies are not accessible by any other web site and are removed by the browser at the end of the session. 
+<br><br>
+II. How SnapNames uses collected information 
+<br>
+<br>
+Analysis of Site Behavior Information: SnapNames may monitor and analyze site activity to gather information to determine interest in different areas of the SnapNames site. This information aids us in improving our product offerings, enhancing our user acquisition strategies, and ensuring high-quality service at all times. Additionally, we may inform our partners of how many site visitors have visited or purchased services, so that they may enhance their services. 
+<br><br>
+Site Security: To ensure data security for our subscribers, the SnapNames site uses SSL (Secure Socket Layer) security technology to prevent unauthorized access to data. Additionally, we house our site servers in a secure environment, and only allow site information to be viewed by authorized SnapNames staff members. 
+<br><br>
+Subscriber Contact Information: During the subscription process, we collect contact information for all subscribers (for further detail, see "Account Registration" above). We may use this information to inform you about changes or additions to our Web site, send you information about effective ways to utilize SnapNames, and to facilitate customer support services. 
+<br><br>
+Contact by SnapNames: We reserve the right to contact subscribers of any of our services directly ourselves to inform them of new developments and new product information or offerings. 
+<br><br>
+III. How SnapNames shares information 
+<br><br>
+Other than what is specified in this document, SnapNames does not rent, sell or trade your personal or organizational information to others. We may provide aggregate statistics about sales, user traffic patterns, and other site information to third parties. These statistics will never contain personally identifiable information. 
+<br><br>
+IV. Links 
+<br><br>
+This Web site contains links to other sites. Please be aware that SnapNames is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+<br><br>
+V. Newsletter 
+<br><br>
+If you wish to subscribe to our newsletter, please go to our web site and you will be able to subscribe (no purchase is necessary.) 
+<br><br>
+VI. Corrections 
+<br><br>
+You may contact SnapNames to correct organizational information. You can correct personal information on the SnapNames site, or via your account administrator. Please access the SnapNames help system for further assistance. 
+<br><br>
+VII. Your Consent 
+<br><br>
+By using SnapNames, you consent to the collection and use of information as outlined above. SnapNames reserves the right to make changes to this privacy policy, and will post any and all changes on this Web page. We will work to secure all information at all times; however, by using the SnapNames site, you are voluntarily transmitting information to us, and we cannot ensure or warrant the security said information. 
+<br><br>
+                  We welcome any comments on this policy. You may e-mail any thoughts 
+                  to <a href="mailto:info@SnapNames.com">info@SnapNames.com</a>. 
+                  <br>
+                  <br>
+                  See our <a href="terms.html">Terms &amp; Conditions</a> </p>
+              </td>
+            </tr>
+          </tbody></table>
+        </div>
+      </td>
+    </tr>
+    <tr> 
+      <td colspan="3">&nbsp;</td>
+    </tr>
+  </tbody></table>
+</div>
+<!--End Body Table -->
+ 
+<!--Begin Standard Footer Table --> 
+<div align="center"> 
+  <table border="0" width="640" cellpadding="0" cellspacing="0">
+    <tbody><tr> 
+      <td><div align="center"><img src="images/line_horizontal.gif" width="597" height="5"></div></td>
+    </tr>
+    <tr> 
+      <td> 
+        <div align="center"><a href="index.jsp"><b>Home</b></a> | <a href="products.html"><b>Products</b></a> 
+          | <a href="http://snapnames.custhelp.com/cgi-bin/snapnames.cfg/php/enduser/home.php"><b>Support</b></a> 
+          | <a href="pressroom.html"><b>Press Room</b></a> | <a href="partners.html"><b>Partners</b></a> 
+          | <a href="corporate.html"><b>Corporate</b></a> | <a href="domaintoolkit.html"><b>Tool Kit</b></a> | <a href="newsltr_reg.jsp"><b>Newsletter</b></a> | <a href="snapfolio.jsp"><b>My Account</b></a><br>
+          <br>
+          <a href="privacy.html">Privacy Statement</a> | <a href="terms.html">Terms 
+          &amp; Conditions</a> | <a href="disclaimer.html">Disclaimer</a><br>
+          <span class="text">All contents of this site copyright ©2000-2001 
+          SnapNames.com, Inc. - All Rights Reserved</span></div>
+      </td>
+    </tr>
+  </tbody></table>
+</div>
+<!--End Standard Footer Table --> 
+
 <!-- START OF WEBTRENDS LIVE TAG -->
-<!-- Copyright 1999-2000 WebTrends Corporation -->
+<!-- Copyright 2001 NetIQ Corporation -->
+<!--  For privacy concerns, check our Privacy Policy at http://www.webtrendslive.com/privacy_policy.htm -->
+
 <!-- eCommerce Revenue Tracking (patent pending) -->
-
-<!-- Visit us at http://www.webtrendslive.com -->
-
-<script language="JavaScript">
-<!--
-// You may customize the values of the variables below to suit your website.
-// Simply insert your own values between the double-quotes.
-// Here are some examples:
-//   var ORDER= "D2,Business to Consumer,Pocket FM Radio,Audio Products,10,499.99;";
-//   var SERVER= "MyServerName";
-//   var CONTENTGROUP= "ContentGroupOfThisPage";
-
-var ORDER= "";
-var SERVER= "";
-var CONTENTGROUP= "";
-//-->
-</script>
-
+<!-- For eCommerce implementation, visit the following page: -->
+<!-- http://www.webtrendslive.com/support/online_help/open_help.asp?helppage=techsupport_code_ecommerce&redirection=help -->
 <script language="JavaScript">
 <!--
 // Modification of this code is not allowed and will permanently disable your account!
-// SiteName: SnapNames
-var W="tagver=3&SiteId=68181&Sid=005-01-4-11-234545-68181&Tz=-800&firstwkday=sunday&Edition=ecommerce&Button=";
-W+="&server="+escape(SERVER);
-W+="&order="+escape(ORDER);
-W+="&Group="+escape(CONTENTGROUP);
-W+="&browserDate="+escape(new Date());
-W+="&title="+escape(document.title);
-W+="&url="+window.document.URL;
-W+="&referrer="+window.document.referrer;
-W+="&appname="+escape(navigator.appName);
-W+="&appversion="+escape(navigator.appVersion);
-W+="&cookieOK="+(navigator.cookieEnabled?"Yes":"No");
-W+="&userLanguage="+(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);
-W+="&platform="+navigator.platform;
-W+="&bgColor="+escape(document.bgColor);
-W+="&javaOK=Yes";
-if(typeof(screen)=="object")
-{
-W+="&screenResolution="+screen.width+"x"+screen.height;
-W+="&colorDepth="+screen.colorDepth;
-W+="&NSpluginList=";
-for( var i=0; i< navigator.plugins.length; i++)
-W+=escape(navigator.plugins[i].name)+";";
-}
-document.write('<A TARGET="_blank" HREF="http://www.webtrendslive.com/redirect.asp?siteID=68181">');
-document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S005-01-4-11-234545-68181/button3.asp?'+W+'">');
-document.write('</A>');
-//-->
-</script><a target="_blank" href="http://www.webtrendslive.com/redirect.asp?siteID=68181"><img border="0" width="1" height="1" src="http://statse.webtrendslive.com/S005-01-4-11-234545-68181/button3.asp?tagver=3&amp;SiteId=68181&amp;Sid=005-01-4-11-234545-68181&amp;Tz=-800&amp;firstwkday=sunday&amp;Edition=ecommerce&amp;Button=&amp;server=&amp;order=&amp;Group=&amp;browserDate=Thu%20Jan%2030%202020%2015%3A20%3A06%20GMT+0000%20%28Coordinated%20Universal%20Time%29&amp;title=SnapNames%3A%20Privacy%20Statement&amp;url=https://web.archive.org/web/20010603014911id_/http%3A//www.snapnames.com/privacy.html&amp;referrer=&amp;appname=Netscape&amp;appversion=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;cookieOK=Yes&amp;userLanguage=en-US&amp;platform=Linux x86_64&amp;bgColor=%23FFFFFF&amp;javaOK=Yes&amp;screenResolution=800x600&amp;colorDepth=24&amp;NSpluginList="></a>
+// SiteName:  SnapNames
 
+function wtl_Tag6_68181()
+{
+	var ORDER= "";
+	var SERVER= "";
+	var CONTENTGROUP= "";
+	var INVOICE= "";
+	var CARTVIEW= "";
+	var CARTADD= "";
+	var CARTREMOVE= "";
+	var CHECKOUT= "";
+	var CARTBUY= "";
+	var ADCAMPAIGN= "";
+	
+	var wtl_URL= document.URL;
+	var wtl_Title= document.title;
+
+	function D8( d)
+	{
+		var fwd=0, seed= new Date('01/01/2000'), key= "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz";
+		var s= key.charAt( d.getFullYear()-2000)+key.charAt( d.getMonth()+1)+key.charAt( d.getDate());
+		s+= key.charAt( d.getHours())+key.charAt( d.getMinutes())+key.charAt( d.getSeconds());
+		while( seed.getDay()!=fwd) seed= new Date(seed.getTime() + 86400000);
+		var w= Math.floor( (d.getTime()-(seed.getTime()+86400000)) / 604800000 );
+		s+= key.charAt( (w-(w%16))/16 );
+		s+= key.charAt( w%16);
+		return s;
+	}
+
+	function A( B, C)
+	{
+		W+="&"+B+"="+escape(C);
+	}
+	
+	var t = new Date();
+	var W="http"+(document.URL.indexOf('https:')==0?'s':'')+"://statse.webtrendslive.com/S/button6.asp?tagver=6&si=68181&fw=0";
+	A( "server", typeof(SERVER)== "string" ? SERVER : "");
+	A( "order", typeof(ORDER)== "string" ? ORDER : "");
+	A( "Group", typeof(CONTENTGROUP)== "string" ? CONTENTGROUP : "");
+	A( "invoice", typeof(INVOICE)== "string" ? INVOICE : "");
+	A( "cartview", typeof(CARTVIEW)== "string" ? CARTVIEW : "");
+	A( "cartadd", typeof(CARTADD)== "string" ? CARTADD : "");
+	A( "cartremove", typeof(CARTREMOVE)== "string" ? CARTREMOVE : "");
+	A( "checkout", typeof(CHECKOUT)== "string" ? CHECKOUT : "");
+	A( "cartbuy", typeof(CARTBUY)== "string" ? CARTBUY : "");
+	A( "adcampaign", typeof(ADCAMPAIGN)== "string" ? ADCAMPAIGN : "");
+	A( "tz", t.getTimezoneOffset());
+	A( "ch", t.getHours());
+	A( "cl", D8(t));
+	A( "ti", typeof(wtl_Title)== "string" ? wtl_Title : document.title);
+	A( "url", typeof(wtl_URL)== "string" ? wtl_URL : document.URL);
+	A( "rf", window.document.referrer);
+	A( "js", "Yes");
+	A( "ul", navigator.appName=="Netscape" ? navigator.language : navigator.userLanguage);
+	if(typeof(screen)=="object")
+	{
+	A( "sr", screen.width+"x"+screen.height);
+	A( "cd", screen.colorDepth);
+	A( "jo", navigator.javaEnabled() ? "Yes" : "No");
+	}
+	if( W.length>2048 && navigator.userAgent.indexOf('MSIE')>=0)
+		W= W.substring( 0, 2043)+"&tu=1";
+
+	document.write('<IMG ID="WTL_TAG" BORDER="0" WIDTH="1" HEIGHT="1" SRC="'+W+'">');
+}
+
+wtl_Tag6_68181();
+
+//-->
+</script><img id="WTL_TAG" border="0" width="1" height="1" src="https://statse.webtrendslive.com/S/button6.asp?tagver=6&amp;si=68181&amp;fw=0&amp;server=&amp;order=&amp;Group=&amp;invoice=&amp;cartview=&amp;cartadd=&amp;cartremove=&amp;checkout=&amp;cartbuy=&amp;adcampaign=&amp;tz=0&amp;ch=15&amp;cl=K1UFK87&amp;ti=SnapNames%20-%20Privacy%20Statement&amp;url=https%3A//web.archive.org/web/20011025025455id_/http%253A//www.snapnames.com/privacy.html&amp;rf=&amp;js=Yes&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
 <noscript>
-<a target="_blank" href="http://www.webtrendslive.com/redirect.asp?siteID=68181">
-<img border="0" width="1" height="1" src="http://statse.webtrendslive.com/S005-01-4-11-234545-68181/button3.asp?tagver=3&SiteId=68181&Sid=001-00-3-10-6692-7351&Tz=-800&firstwkday=sunday&Edition=ecommerce&Button=&title=NO%20SCRIPT&url=http://noscript&javaOK=No&">
-</a>
+<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/S/button6.asp?tagver=6&si=68181&fw=0&js=No&">
 </noscript>
 <!-- END OF WEBTRENDS LIVE TAG -->
 
 
+<!--
+$Author: stephenb $
+$Revision: 1.12 $
+-->
 
 </body></html>
