@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the xl.com privacy policy that was archived on 2001-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011025022423id_/http%3A//www.xl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xl.com privacy policy that was archived on 2002-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020206043548id_/http%3A//www.xl.com/privacy.html) for the most accurate reproduction.*
 
 # Lucent - Privacy Statement
+
+Lucent Technologies privacy statement
 
 Lucent Technologies Inc. has long recognized that individuals with whom we conduct business value their privacy. However, in order to conduct global business in this increasingly electronic economy, the collection of personal information is often necessary and desirable. It is Lucent's goal to balance the benefits of e-commerce with the right of individuals to prevent the misuse of their personal information. 
 
