@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the loveandfriends.com privacy policy that was archived on 2004-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040401194641id_/http%3A//www.loveandfriends.com/privacystatement.asp%3FUNme%3D%26ID%3D%26CDI%3D%26SCode%3D%26WL%3D%26NoFr%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveandfriends.com privacy policy that was archived on 2004-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041009175445id_/http%3A//www.loveandfriends.com/privacystatement.asp%3FUNme%3D%26ID%3D%26CDI%3D%26SCode%3D%26WL%3D%26NoFr%3D) for the most accurate reproduction.*
 
 # Love and Friends : Internet dating for thinking people . . . And it's free
-
-free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions Love and Friends : Internet dating for thinking people . . . And it's free free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions Internet dating for thinking people . . . And it's free - the best UK dating site I've seen free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions  [free dating](https://web.archive.org/web/20040401194641id_/http%3A//www.loveandfriends.com/default.htm) [dating uk](https://web.archive.org/web/20040401194641id_/http%3A//www.loveandfriends.com/default.htm) [london dating](https://web.archive.org/web/20040401194641id_/http%3A//www.loveandfriends.com/default.htm) [internet dating](https://web.archive.org/web/20040401194641id_/http%3A//www.loveandfriends.com/default.htm) [dating agency](https://web.archive.org/web/20040401194641id_/http%3A//www.loveandfriends.com/default.htm) [online dating](https://web.archive.org/web/20040401194641id_/http%3A//www.loveandfriends.com/default.htm) [personals](https://web.archive.org/web/20040401194641id_/http%3A//www.loveandfriends.com/default.htm) [introductions](https://web.archive.org/web/20040401194641id_/http%3A//www.loveandfriends.com/default.htm) [Searchengineering](http://www.yuki-onna.co.uk/)
-
-[ISP,hosting,design,online shopping](http://www.b-1st.com/) free dating, dating uk, london dating, internet dating, dating agency, online dating, personals, introductions 
-
-|    
----|---  
-  |   | 
-
-_**A great place to meet!**_
-
-|   |    
-  |   |   |   |    
-|   |  |   | __  
-**__**
-
-P **rivacy Policy**
 
 Please read the following privacy statement to understand how loveandfriends.com will treat your personal information when you use this site. 
 
