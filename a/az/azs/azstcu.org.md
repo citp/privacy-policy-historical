@@ -1,51 +1,51 @@
-> *The following text is extracted and transformed from the azstcu.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216082450id_/http%3A//azstcu.org/disclosure.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azstcu.org privacy policy that was archived on 2002-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020605063926id_/http%3A//azstcu.org/disclosure.htm) for the most accurate reproduction.*
 
-# Site Use Disclosure
+# Home
 
-|  |  **
+|  | **
 
 PRIVACY NOTICE
 
 **
 
-Arizona State Savings & Credit Union, your member owned financial institution is committed to providing you financial products and services to meet your needs and reach your financial goals. 
+Arizona State Savings & Credit Union, your member owned financial institution is committed to providing you financial products and services to meet your needs and reach your financial goals.
 
-We are equally committed to protecting our members’ privacy. You can be confident that your financial privacy is a priority of this credit union. We are required by law to give you this privacy notice to explain how we collect, use and safeguard your personal financial information. If you have any questions, please contact a member service representative at Arizona State Savings & Credit Union. 
+We are equally committed to protecting our members’ privacy. You can be confident that your financial privacy is a priority of this credit union. We are required by law to give you this privacy notice to explain how we collect, use and safeguard your personal financial information. If you have any questions, please contact a member service representative at Arizona State Savings & Credit Union.
 
 **Information We Collect and Disclose About You**
 
  ****
 
-We collect nonpublic personal information about you from the following sources: 
+We collect nonpublic personal information about you from the following sources:
 
-  * Information we receive from you on applications and other forms;
-  * Information about your transactions with us or others;
-  * Information we receive from a consumer reporting agency;
+  * Information we receive from you on applications and other forms; 
+  * Information about your transactions with us or others; 
+  * Information we receive from a consumer reporting agency; 
   * Information obtained when verifying the information you provide on an application or other forms.
 
 
 
-This may be obtained from your current or past employers, or from other institutions where you conduct financial transactions. We may disclose all information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. To protect our members’ privacy we only work with companies that agree to maintain strong confidentiality protections and limit the use of information we provide. We do not permit these companies to sell the member information we provide to other third parties. 
+This may be obtained from your current or past employers, or from other institutions where you conduct financial transactions. We may disclose all information we collect, as described above, to companies that perform marketing services on our behalf or to other financial institutions with whom we have joint marketing agreements. To protect our members’ privacy we only work with companies that agree to maintain strong confidentiality protections and limit the use of information we provide. We do not permit these companies to sell the member information we provide to other third parties.
 
-In order to conduct business of the credit union, we may also disclose nonpublic personal information about you under other circumstances as permitted or required by law. These disclosures typically include information to process transactions on your behalf, conduct the operations of our credit union, follow your instructions as you authorize, or protect the security of our financial records. 
+In order to conduct business of the credit union, we may also disclose nonpublic personal information about you under other circumstances as permitted or required by law. These disclosures typically include information to process transactions on your behalf, conduct the operations of our credit union, follow your instructions as you authorize, or protect the security of our financial records.
 
-If you terminate your membership with Arizona State Savings & Credit Union, we will not share information we have collected about you, except as permitted or required by law. 
-
-**
-
-How We Protect Your Information 
+If you terminate your membership with Arizona State Savings & Credit Union, we will not share information we have collected about you, except as permitted or required by law.
 
 **
 
-We restrict access to nonpublic personal information about you to those employees who have a specific business purpose in utilizing your data. Our employees are trained in the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard your nonpublic personal information. 
+How We Protect Your Information
 
 **
 
-What You Can Do to Help Protect Your Privacy 
+We restrict access to nonpublic personal information about you to those employees who have a specific business purpose in utilizing your data. Our employees are trained in the importance of maintaining confidentiality and member privacy. We maintain physical, electronic, and procedural safeguards that comply with federal regulations and leading industry practices to safeguard your nonpublic personal information.
 
 **
 
-Arizona State Savings & Credit Union is committed to protecting the privacy of its members. Members can help by following these simple guidelines: 
+What You Can Do to Help Protect Your Privacy
+
+**
+
+Arizona State Savings & Credit Union is committed to protecting the privacy of its members. Members can help by following these simple guidelines:
 
   * Protect your account numbers, card numbers, PINs (personal identification numbers) and passwords. Never keep your PIN with your credit or debit card which can provide free access to your account if your card is lost or stolen.
 
@@ -58,7 +58,7 @@ Arizona State Savings & Credit Union is committed to protecting the privacy of i
 
 
 
-If you have any questions concerning this notice, please do not hesitate to call us – we are your financial partner. 
+If you have any questions concerning this notice, please do not hesitate to call us – we are Your Financial Partner.
 
 Arizona State Savings & Credit Union requires that all visitors to our site on the Internet (the "Site") adhere to the following rules and regulations.  Arizona State Savings & Credit Union maintains this Site to provide you with information about Arizona State Savings & Credit Union products and services and to facilitate communication with Arizona State Savings & Credit Union.
 
