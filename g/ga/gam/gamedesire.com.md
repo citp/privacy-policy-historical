@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamedesire.com privacy policy that was archived on 2003-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031216010312id_/http%3A//www.gamedesire.com/dd-10%2Cn-1%2C0-0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamedesire.com privacy policy that was archived on 2004-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040402031421id_/http%3A//www.gamedesire.com/la-en%2Cdd-10%2Cn-1.html) for the most accurate reproduction.*
 
 # Free online multiplayer games - GameDesire - play tournaments, ranking and money games...
 
