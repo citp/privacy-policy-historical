@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3fatchicks.com privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603152743id_/http%3A//www.3fatchicks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3fatchicks.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806074013id_/http%3A//www.3fatchicks.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled
 
