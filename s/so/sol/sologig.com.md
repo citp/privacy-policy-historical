@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203191333id_/http%3A//www.sologig.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sologig.com privacy policy that was archived on 2004-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040212064816id_/http%3A//sologig.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Sologig - Privacy
 
