@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthscout.com privacy policy that was archived on 2003-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031207170040id_/http%3A//www.healthscout.com/nav/policy/1/main.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthscout.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606165823id_/http%3A//www.healthscout.com/nav/policy/1/main.html) for the most accurate reproduction.*
 
 # HealthScout
 
