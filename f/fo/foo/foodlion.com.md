@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602204721id_/http%3A//foodlion.com/shp_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodlion.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209051235id_/http%3A//www.foodlion.com/PrivacyStatement.asp) for the most accurate reproduction.*
 
-# Food Lion
+# Privacy Statement - foodlion.com
 
 **Our Online Data Collection and Use Practices**  
 This statement explains the online data collection and use practices of Foodlion.com; the statement and its description of our online data practices does not apply to other online sites or to other services provided by Food Lion, LLC, Delhaize America, Inc. or the Delhaize Group. This statement does not apply to the offline data collection and use practices of Food Lion, LLC, Delhaize America, Inc. or the Delhaize Group, such as data collection in a Food Lion Store. Please be aware that this privacy statement and the choices you make on this site will not necessarily apply to personal information you may have provided or will provide to Food Lion in other settings. 
@@ -35,8 +35,7 @@ If you have submitted personally identifiable information through our website an
 **Our Data Security Measures**  
 Rest assured that we have put into place physical, electronic and managerial procedures to prevent unauthorized access, maintain data accuracy, ensure the correct use of information and safeguard and secure the information we collect about you. However, Foodlion.com cannot guarantee that unauthorized access or disclosure of information will never occur. 
 
-**Children's Privacy**
-
+**Children's Privacy**  
 Foodlion.com does not collect or maintain information at our website from those we actually know are under 13. From time to time we may display information that is specifically aimed at children, for example coloring pages. However, registration is never required to access these pages and we do not collect personal information in connection with these activities. 
 
 **Restrictions**  
