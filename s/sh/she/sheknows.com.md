@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheknows.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205175900id_/http%3A//myria.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheknows.com privacy policy that was archived on 2001-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010331175340id_/http%3A//myria.com/privacy.htm) for the most accurate reproduction.*
 
 # Myria Media, Inc. Privacy Policy Statement
 
@@ -41,4 +41,4 @@ Once you access an another Web site through a off-site link, whether to an adver
 **Advertisers**  
 Myria Media, Inc. works with third parties to serve ads to this site. To find out more about how Engage, one such agency we use, serving and/or targeting of ads, promotions and other marketing messages. To do this, Engage collects anonymous data through the use of cookies. To learn more about Engage, including your ability to opt out of the Engage system, please go to <http://www.engage.com/privacy>. For information regarding DoubleClick ad serving, see <http://doubleclick.com/privacy_policy/>. For information regarding merchants appearing on the site via BeFree/Reporting.net, see <http://www.befree.com/includes/stopspam.htm>. 
 
-**Shop Online:** [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/myriamagazine) | [Lands' End](http://click.linksynergy.com/fs-bin/stat?id=pK6BePRVrJE&offerid=9854&type=3&subid=0) | [BabyCenter Store](http://service.bfast.com/bfast/click/babycenter?bfsiteid=381096&bfpage=home) | [Garden.com](http://service.bfast.com/bfast/click?bfmid=9664445&siteid=12551089&bfpage=home) | [PlanetRx](http://service.bfast.com/bfast/click/mid1000057?siteid=1339250&bfpage=products)
+**Shop Online:** [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/myriamagazine) | [Lands' End](http://click.linksynergy.com/fs-bin/stat?id=pK6BePRVrJE&offerid=9854&type=3&subid=0) | [GeoParent Baby Shop](http://geoparentshop.com/) | [eBags.com](http://service.bfast.com/bfast/click?bfmid=383361&siteid=33087118&bfpage=logos) | [Drugstore.com](http://www.drugstore.com/category.asp?catid=10&aid=328461)
