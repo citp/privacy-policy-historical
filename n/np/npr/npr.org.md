@@ -1,15 +1,9 @@
-> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2002-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020603124749id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2002-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021203005445id_/http%3A//www.npr.org/about/privacypolicy.html) for the most accurate reproduction.*
 
 # NPR Linking and Privacy Policy
 
-Legal and Privacy Policy  
-Updated December 2001
-
-**NPR Online's Linking Policy**
-
-Linking to or framing of any material on this site without the prior written consent of NPR is prohibited. If you would like to link to NPR from your Web site, please fill out the [link permission request form](http://www.npr.org/about/linking_form.html). 
-
-**NPR Online's Privacy Policy**
+Privacy Policy  
+Updated June 27, 2002
 
 At NPR Online, we recognize the importance of privacy to visitors of our Web site. This privacy policy explains what type of information is collected from you when you visit our Web site. 
 
@@ -52,7 +46,7 @@ Credit card information provided to the NPR Online Shop is protected against una
 
 **Corrections to Personal Data; Opting Out**
 
-Upon request to the NPR Webmaster, webmaster@npr.org, NPR Online will permit you to a)correct or update any personal information in the NPR Online database that you state is erroneous, b)opt-out of future promotional communications from NPR Online or c)request NPR to make reasonable efforts to remove your personal information from the NPR Online database, thereby canceling your Discussions registration. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions. 
+Please write to nprhelp@npr.org to a)correct or update any personal information in the NPR Online database that you state is erroneous, b)opt-out of future promotional communications from NPR Online or c)request NPR to make reasonable efforts to remove your personal information from the NPR Online database, thereby canceling your Discussions registration. The user understands that it may be impossible to delete personal information entirely because of backups and records of deletions. 
 
 NPR reserves the right to change this policy. Any changes to this policy will be posted to this page as soon as reasonably possible, so please check this page periodically. Use of the NPR Web site constitutes consent to any policy then in effect. 
 
