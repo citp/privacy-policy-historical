@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apexpacific.com privacy policy that was archived on 2001-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010616114326id_/http%3A//www.apexpacific.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexpacific.com privacy policy that was archived on 2002-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020611042416id_/http%3A//www.apexpacific.com/privacy.html) for the most accurate reproduction.*
 
-# Apex web promotion software - professional web promotion search engine and site submission software, meta tag generator, we site optimizer, web ranking and position,keyword builder, doorway page generator, web search, email marketing and newsgroup posting software.
+# web site promotion search engine site submission internet marketing software
 
 Apex Pacific Pty Ltd has been doing business online since 1997. In order to demonstrate our firm's commitment to you, and protect your privacy, we'd like to share our policies on information gathering, customer privacy, security, returns, unsolicited email, and more..
 
