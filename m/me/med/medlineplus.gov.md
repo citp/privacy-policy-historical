@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203021700id_/http%3A//www.nlm.nih.gov/medlineplus/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medlineplus.gov privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603054921id_/http%3A//www.nlm.nih.gov/medlineplus/disclaimer.html) for the most accurate reproduction.*
 
 # MEDLINEplus: Copyright and Privacy Policy
 
@@ -19,7 +19,7 @@
 NLM does not endorse or recommend any commercial products, processes, or services. The views and opinions of authors expressed on NLM Web sites do not necessarily state or reflect those of the U.S. Government, and they may not be used for advertising or product endorsement purposes. 
 
 **\-- External Links --**  
-MEDLINE _plus_ links to many other Internet sites to organize health information for consumers. NLM is not responsible for the availability or content of these external sites, nor does NLM endorse, warrant or guarantee the products, services or information described or offered at these other Internet sites. 
+MEDLINEplus links to many other Internet sites to organize health information for consumers. NLM is not responsible for the availability or content of these external sites, nor does NLM endorse, warrant or guarantee the products, services or information described or offered at these other Internet sites. 
 
 **Medical Information:** It is not the intention of NLM to provide specific medical advice, but rather to provide users with information to better understand their health and their diagnosed disorders. Specific medical advice will not be provided, and NLM urges you to consult with a qualified physician for diagnosis and for answers to your personal questions. 
 
@@ -31,7 +31,7 @@ MEDLINE _plus_ links to many other Internet sites to organize health information
 
 
 
-**Cookies:** A "cookie" is information stored on your computer by a web server and used to customize your web service in some way. The MEDLINE _plus_ site (URLs beginning with "http://www.nlm.nih.gov/medlineplus" or "http://medlineplus.adam.com") does not send cookies; however, many of the sites to which MEDLINE _plus_ links do send cookies. You can set your browser software to disable cookies or to prompt you before a cookie is accepted. MEDLINE _plus_ includes preformatted searches of MEDLINE using the PubMed search service. PubMed uses cookies to store information about your interactions with the database. When you select a MEDLINE search from MEDLINE _plus_ , PubMed sends a cookie to your computer immediately, unless you have disabled cookies. Please see the PubMed Privacy Policy (http://www.ncbi.nlm.nih.gov:80/entrez/query/static/privacy.html) for more information. 
+**Cookies:** A "cookie" is information stored on your computer by a web server and used to customize your web service in some way. The MEDLINEplus site (URLs beginning with "http://www.nlm.nih.gov/medlineplus") does not send cookies; however, many of the sites to which MEDLINEplus links do send cookies. You can set your browser software to disable cookies or to prompt you before a cookie is accepted. MEDLINEplus includes preformatted searches of MEDLINE using the PubMed search service. PubMed uses cookies to store information about your interactions with the database. When you select a MEDLINE search from MEDLINEplus, PubMed sends a cookie to your computer immediately, unless you have disabled cookies. Please see the PubMed Privacy Policy (http://www.ncbi.nlm.nih.gov:80/entrez/query/static/privacy.html) for more information. 
 
 Questions about NIH privacy policies should be sent to the [NIH Privacy Act Officer.](mailto:Wheeles@od.nih.gov)
 
