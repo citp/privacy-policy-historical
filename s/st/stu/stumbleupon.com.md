@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2002-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020609070139id_/http%3A//stumbleupon.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumbleupon.com privacy policy that was archived on 2002-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020806194416id_/http%3A//www.stumbleupon.com/privacy.html) for the most accurate reproduction.*
 
 # StumbleUpon Privacy Policy
 
@@ -32,7 +32,7 @@ StumbleUpon may share information about you with advertisers, business partners,
 
  **Your consent and changes to the Privacy Policy**
 
-By using the StumbleUpon Toolbar and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms & Conditions](https://web.archive.org/web/20020609070139id_/http%3A//stumbleupon.com/terms.html). StumbleUpon may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
+By using the StumbleUpon Toolbar and our web site, you consent to the collection and use of your information as we have outlined in this policy and to our [Terms & Conditions](https://web.archive.org/web/20020806194416id_/http%3A//www.stumbleupon.com/terms.html). StumbleUpon may decide to change this Privacy Policy from time to time. When we do, we will post those changes on this page so that you are always aware of the information we collect, how we use it, and under what circumstances we disclose it.
 
  **Who can I ask if I have additional questions?**
 
