@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the moodys.com privacy policy that was archived on 1999-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991005055934id_/http%3A//www.moodys.com/moodys/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodys.com privacy policy that was archived on 2000-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000606005105id_/http%3A//www.moodys.com/moodys/privacy.htm) for the most accurate reproduction.*
 
 # Moody's Investors Service
 
-**[History](https://web.archive.org/web/19991005055934id_/http%3A//www.moodys.com/moodys/mdyindex.htm) | [Rating Methodologies](https://web.archive.org/web/19991005055934id_/http%3A//www.moodys.com/ratproc.nsf/web/research?OpenDocument) | [Rating Approach](https://web.archive.org/web/19991005055934id_/http%3A//www.moodys.com/moodys/mdyappr.htm) | [Track Record](https://web.archive.org/web/19991005055934id_/http%3A//www.moodys.com/moodys/mdytrack.htm)   
-[Career Opportunities](https://web.archive.org/web/19991005055934id_/http%3A//www.moodys.com/moodys/mdyjobs.htm) | [Moody's Directory](https://web.archive.org/web/19991005055934id_/http%3A//www.moodys.com/directry/dirindex.htm) | Privacy Policy | [Year 2000 Status](https://web.archive.org/web/19991005055934id_/http%3A//www.moodys.com/y2k.nsf/web/readiness?opendocument) **
+**[History](https://web.archive.org/web/20000606005105id_/http%3A//www.moodys.com/moodys/mdyindex.htm) | [Rating Methodologies](https://web.archive.org/web/20000606005105id_/http%3A//www.moodys.com/ratproc.nsf/web/research?OpenDocument) | [Rating Approach](https://web.archive.org/web/20000606005105id_/http%3A//www.moodys.com/moodys/mdyappr.htm) | [Track Record](https://web.archive.org/web/20000606005105id_/http%3A//www.moodys.com/moodys/mdytrack.htm)   
+[Career Opportunities](https://web.archive.org/web/20000606005105id_/http%3A//www.moodys.com/moodys/mdyjobs.htm) | [Moody's Directory](https://web.archive.org/web/20000606005105id_/http%3A//www.moodys.com/directry/dirindex.htm) | Privacy Policy | [Year 2000 Status](https://web.archive.org/web/20000606005105id_/http%3A//www.moodys.com/y2k.nsf/web/readiness?opendocument) **
 
 * * *
 
@@ -48,11 +48,11 @@ The practices outlined above represent current (as of September 1998) Web guidel
 
 Questions or concerns regarding Moody's data protections practices should be addressed to Tom Hughes at (212) 553-7116 or [HughesT@MOODYS.COM](mailto:HughesT@MOODYS.COM).
 
-Please direct [comments or questions](https://web.archive.org/web/19991005055934id_/http%3A/mdyemail.htm) to Moody's. 
+Please direct [comments or questions](https://web.archive.org/web/20000606005105id_/http%3A/mdyemail.htm) to Moody's. 
 
-This site is designed to accommodate a [wide range of browsers](https://web.archive.org/web/19991005055934id_/http%3A/mdyhelp.htm#browser) to ensure broad [compatibility and accessibility](https://web.archive.org/web/19991005055934id_/http%3A/mdyhelp.htm#compatibility). 
+This site is designed to accommodate a [wide range of browsers](https://web.archive.org/web/20000606005105id_/http%3A/mdyhelp.htm#browser) to ensure broad [compatibility and accessibility](https://web.archive.org/web/20000606005105id_/http%3A/mdyhelp.htm#compatibility). 
 
-[© Copyright](https://web.archive.org/web/19991005055934id_/http%3A/mdycpyrt.htm) 1999 by Moody's Investors Service, 99 Church Street, New York, NY 10007 
+[© Copyright](https://web.archive.org/web/20000606005105id_/http%3A/mdycpyrt.htm) 2000 by Moody's Investors Service, 99 Church Street, New York, NY 10007 
 
   
 
