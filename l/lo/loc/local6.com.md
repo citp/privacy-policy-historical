@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2004-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040404052747id_/http%3A//www.local6.com/news/1014422/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the local6.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204111140id_/http%3A//www.local6.com/news/1014422/detail.html) for the most accurate reproduction.*
 
 # local6.com - News
 
@@ -51,3 +51,14 @@ Mendota Heights, MN 55120
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will generally use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify our users via email or by posting a notice on the site for 30 days. 
 
 Last Revised 11/03 
+
+| 
+
+|   
+---  
+  
+[](http://local6.premiumweather.com/info/?c=IBS-newstory-11-17-04)
+
+How will the weather affect you? Know for sure. Monitor storms, animate your forecast, create personal alerts! [Try it now! ](http://local6.premiumweather.com/info/?c=IBS-newstory-11-17-04)or [Log in here.](http://local6.premiumweather.com/)  
+  
+
