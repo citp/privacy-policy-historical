@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihlondon.com privacy policy that was archived on 2004-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040606160639id_/http%3A//ihlondon.com/london-school/data-protection.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihlondon.com privacy policy that was archived on 2004-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040810133841id_/http%3A//www.ihlondon.com/london-school/data-protection.asp) for the most accurate reproduction.*
 
 # Data Protection and Privacy Statements - International House London
 
