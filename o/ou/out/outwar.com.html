@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2004-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041204042807id_/http%3A//outwar.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the outwar.com privacy policy that was archived on 2005-03-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050305013704id_/http%3A//outwar.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -265,14 +265,72 @@ function disableForm(theform) {
 	* Please keep this notice intact
 	***********************************************/
 </script>
-				
+
+<script language="JavaScript">
+
+// please keep these lines on when you copy the source
+// made by: Nicolas - http://www.javascript-page.com
+
+var clockID = 0;
+var srvHour = 19;
+var srvMin = 00;
+var srvSec = 00;
+var tDate = new Date();
+
+tDate.setHours(srvHour);
+tDate.setMinutes(srvMin);
+tDate.setSeconds(srvSec);
+
+function UpdateClock() {
+	
+	var startTime = new Date();
+	
+	if(clockID) {
+    	clearTimeout(clockID);
+      	clockID = 0;
+   	}
+   	
+   	hour = tDate.getHours();
+	min = tDate.getMinutes();
+	sec = tDate.getSeconds();
+	
+	ap = 'am';
+	if(hour > 12){
+		hour = hour-12;
+		ap = 'pm';
+	}
+	if(hour == 0) hour = 12;
+	if(min < 10) min = '0' + min;
+	if(sec < 10) sec = '0' + sec;
+	
+   	document.getElementById('owtime').innerHTML = hour + ":" + min + ap;
+   	//document.getElementById('owtime').innerHTML = curtime;
+   	
+    var endTime = new Date();
+    timeout = endTime.getTime() - startTime.getTime();
+    
+   	tDate.setSeconds(sec+1);
+   	clockID = setTimeout("UpdateClock()", 1000 - timeout);
+}
+
+function StartClock() {
+	clockID = setTimeout("UpdateClock()",0);
+}
+
+function KillClock() {
+   	if(clockID) {
+    	clearTimeout(clockID);
+    	clockID  = 0;
+   	}
+}
+</script>
+
 </head>
 
 <body topmargin="0" leftmargin="0">
-
+<center>
 
 <iframe id="2" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=2" framespacing="0" frameborder="no" scrolling="no" width="0" height="0" allowtransparency="true"></iframe>
-
 
 <div id="dek" style="visibility: visible; display: none;"></div>
 
@@ -298,7 +356,7 @@ document.onmousemove=get_mouse;
 
 function popup(msg,bak){
 var content="<TABLE BORDER=1 BORDERCOLOR=black CELLPADDING=2 CELLSPACING=0 "+
-"BGCOLOR="+bak+"><TD ALIGN=center background=\"http://www.outwar.com/images/stone.jpg\";><FONT COLOR=white SIZE=3>"+msg+"</FONT></TD></TABLE>";
+"BGCOLOR="+bak+"><TD width=\"250\" ALIGN=\"center\" background=\"http://www.outwar.com/images/stone.jpg\";><FONT COLOR=white SIZE=3>"+msg+"</FONT></TD></TABLE>";
 yyy=Yoffset;
  document.getElementById("dek").innerHTML=content;
  document.getElementById("dek").style.display='';
@@ -328,105 +386,50 @@ document.getElementById("dek").style.display="none";
 
 //-->
 </script>
-
-<div name="bar" id="bar" style="visibility: hidden; text-align: center; position: absolute; left: 35%; top: 300px;">
-	<span style="font-size:14pt;font-weight:bold;">LOADING...</span><br>
-	<script type="text/javascript">
-		var bar1 = createBar(250,20,'white',1,'red','red',85,7,3,"");
-	</script><div id="_xpbar0" style="visibility: hidden; position: relative; overflow: hidden; width: 250px; height: 20px; background-color: white; border-color: red; border-width: 1px; border-style: solid; font-size: 1px;"><span id="blocks0" style="left: 274px; position: absolute; font-size: 1px;"><span style="background-color:red; left:-0px; font-size:1px; position:absolute; width:20px; height:20px; -Moz-opacity:1"></span><span style="background-color:red; left:-21px; font-size:1px; position:absolute; width:20px; height:20px; -Moz-opacity:0.8571428571428571"></span><span style="background-color:red; left:-42px; font-size:1px; position:absolute; width:20px; height:20px; -Moz-opacity:0.7142857142857143"></span><span style="background-color:red; left:-63px; font-size:1px; position:absolute; width:20px; height:20px; -Moz-opacity:0.5714285714285714"></span><span style="background-color:red; left:-84px; font-size:1px; position:absolute; width:20px; height:20px; -Moz-opacity:0.42857142857142855"></span><span style="background-color:red; left:-105px; font-size:1px; position:absolute; width:20px; height:20px; -Moz-opacity:0.2857142857142857"></span><span style="background-color:red; left:-126px; font-size:1px; position:absolute; width:20px; height:20px; -Moz-opacity:0.14285714285714277"></span></span></div>
-	<br>
-	<div style="width:150px">
-		<!-- Begin: AdBrite -->
-		<script type="text/javascript" src="http://3.adbrite.com/mb/text_group.php?sid=21008&amp;newwin=1&amp;col=1&amp;br=1"></script>
-		<!-- End: AdBrite -->
-	</div>
-</div>
-				
+<div name="loadingwrapper" id="loadingwrapper" style="text-align:center;"></div>
 
 <script type="text/javascript">
-	bar1.hideBar();
-	document.getElementById('bar').style.visibility = "hidden";
+	document.getElementById('loadingwrapper').innerHTML = "";
 </script>
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bgcolor="#010101" id="AutoNumber1">
+<table border="0" cellpadding="0" cellspacing="0" width="1024" style="border-collapse: collapse" bgcolor="#000000" id="AutoNumber1">
 
   <tbody><tr>
 
-    <td width="100%">
-
-    <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" bgcolor="#990000" id="AutoNumber3">
-
-      <tbody><tr>
-
-        <td align="left" valign="top">
-
-		<a href="index.php"><img border="0" src="http://www.outwar.com/images/interface_topleft18.gif"></a></td>
-
-        <td>
-
-        <p align="center">
-
-<iframe id="1" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=1" framespacing="0" frameborder="no" scrolling="no" width="468" height="60" allowtransparency="true"></iframe>
-
-</p></td>
-
-<td width="100%" align="center">
-
-<a href="advertising.php"><b>Advertise on Outwar</b> (buy ads realtime!)</a><br>
-Ads start serving within<br>24 hours of online purchase.
-
-</td>
-
-        
-
-        <td>
-
-        <p align="right"><img border="0" src="http://www.outwar.com/images/interface_rightcell3.gif"></p></td>
-
-      </tr>
-
-    </tbody></table>
-
-    </td>
-
-    <td rowspan="8" align="left" valign="top">
-
-    <img border="0" src="http://www.outwar.com/images/interface_rightside3.gif"><br>
-	
-	
-	</td>
-
-  </tr>
-
-  <tr>
-
     <td>
 
-    <table border="0" cellpadding="0" cellspacing="0" style="border:0px;padding:0px" width="100%" id="AutoNumber4" bgcolor="#990000">
-
-      <tbody><tr>
-
-        <td align="left" valign="top">
-
-		<a href="index.php"><img border="0" src="http://www.outwar.com/images/interface_roundnum5.gif"></a></td>
-
-        <td align="center">&nbsp;
+    <table border="0" cellpadding="0" cellspacing="0" width="1024" style="border-collapse: collapse" bordercolor="#111111" bgcolor="#990000">
+	
+		<tbody><tr>
 		
-      </td>
+			<td rowspan="2"><a href="index.php"><img src="images/dcilogo.jpg" border="0"></a></td>
 		
-        <td bgcolor="#990000" align="right" style="padding:0px;">
+    		<td colspan="2" style="padding-top:1px">
+			<iframe id="5" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=5" framespacing="0" frameborder="no" scrolling="no" width="728" height="90" allowtransparency="true"></iframe>
+			</td>
 
-		<iframe id="5" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=5" framespacing="0" frameborder="no" scrolling="no" width="728" height="90" allowtransparency="true"></iframe>
-
-		</td>
+  		</tr>
 		
-      </tr>
+  		<tr>
+		
+    		<td width="468" style="padding:1px">
+			<iframe id="1" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=1" framespacing="0" frameborder="no" scrolling="no" width="468" height="60" allowtransparency="true"></iframe>
+			</td>
+			
+    		<td align="center" width="267" style="padding:2px">
+			
+			<a href="advertising.php"><b>Advertise on Outwar</b> (buy ads realtime!)</a><br>
+			
+			</td>
+			
+  		</tr>
 
     </tbody></table>
 
     </td>
 
   </tr>
+
   <tr>
 
     <td bgcolor="#000000">
@@ -449,7 +452,9 @@ Ads start serving within<br>24 hours of online purchase.
 
           <tbody><tr>
 <td valign="middle" align="center">
-<iframe style="margin:1px;border:1px inset #660000;" id="71" name="94" src="marketbanker2.php" framespacing="0" frameborder="no" scrolling="no" width="100%" height="20" allowtransparency="true"></iframe>
+
+<iframe id="71" name="94" src="marketbanker_top.php" framespacing="0" frameborder="no" scrolling="no" width="100%" height="20" allowtransparency="true"></iframe>
+
 </td>
           </tr>
 
@@ -477,9 +482,9 @@ Ads start serving within<br>24 hours of online purchase.
 
         <td align="center" width="95">
 
-        <a href="downloads.php">
+        <a href="submititems.php">
 
-        <img border="0" src="http://www.outwar.com/images/menutop_downloads.gif"></a></td>
+        <img border="0" src="http://www.outwar.com/images/menutop_idea.gif"></a></td>
 
               </tr>
 
@@ -503,30 +508,37 @@ Ads start serving within<br>24 hours of online purchase.
 				
             <img border="0" src="http://www.outwar.com/images/interface_charlogin.gif" width="139" height="26"><br>
             <table border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber7" bgcolor="#330000">
-<form method="POST" action="members.php"></form>
+			<form method="POST" action="members.php"></form>
               <tbody><tr>
-                <td width="100%" colspan="2"><font color="#FFFFFF"><b><font size="1" face="Verdana">
+                <td width="100%"><font color="#FFFFFF"><b><font size="1" face="Verdana">
                 EMAIL:</font></b><br>
                 <input type="text" size="17" name="email"></font></td>
               </tr>
               <tr>
-                <td width="100%" colspan="2"><font color="#FFFFFF"><b><font face="Verdana" size="1">
-                PASSWORD:</font></b><br>
-                <input type="password" size="17" name="password"></font></td>
-              </tr>
-              <tr>
-                <td width="100%" colspan="2">
-                <input type="checkbox" value="1" name="remember"><font size="1"><b>Remember
-              Me</b></font>                
+                <td width="100%"><font color="#FFFFFF"><b><font face="Verdana" size="1">
+                PASSWORD:</font></b>
+                <font size="1" face="Arial Narrow"><a href="lostpass.php">
+                	Forgot?</a></font><br>
+              	 <input type="password" size="17" name="password"></font><br>
                 </td>
               </tr>
               <tr>
-                <td><font size="1" face="Arial Narrow"><a href="lostpass.php">
-                Forgot Password?</a></font></td>
-                <td><input type="submit" value="Login" name="submit">
-                <input type="hidden" value="1" name="login_submit"></td>
+                <td width="100%">
+                	<div style="font-size:10px;font-family:Arial Narrow">
+                	<input type="checkbox" value="1" name="remember">
+                	Remember My Login
+               		<input type="hidden" value="1" name="login_submit">
+					<input style="width:120px;height:" type="submit" value="Login" name="submit">
+					</div>
+                </td>
               </tr>
-
+              <tr>
+                <td><font size="1" face="Arial Narrow">
+                	By logging in, you agree to our <a href="outwar_tos.php">Terms of Service</a>
+                </font></td>
+              </tr>
+              <tr><td>&nbsp;</td></tr>
+			
            </tbody></table>
 
 
@@ -540,21 +552,13 @@ Ads start serving within<br>24 hours of online purchase.
 				</tbody></table>
 				<iframe id="3" name="2" src="http://ads.rampidads.com/rampidads/showad.php?p=2&amp;t=3" framespacing="0" frameborder="no" scrolling="no" width="120" height="600" allowtransparency="true"></iframe>
 <br>
-<iframe style="margin:1px;border:1px inset #660000;" id="55" name="99" src="marketbanker.php" framespacing="0" frameborder="no" scrolling="no" width="140" height="700" allowtransparency="true"></iframe>
+<iframe style="margin:1px;border:1px inset #660000;" id="55" name="99" src="marketbanker.php" framespacing="0" frameborder="no" scrolling="no" width="140" height="825" allowtransparency="true"></iframe>
 
 			</td>
 		  </tr>
 		</tbody></table>
 
-<p align="center">
-
-        <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber6">
-          <tbody><tr>
-            <td width="100%">
-            </td>
-          </tr>
-        </tbody></table>
-    </p></td>
+    </td>
 	
 	<td align="left" valign="top" width="100%" bordercolor="#202020" bgcolor="#202020">
         <table border="0" cellpadding="0" cellspacing="8" style="border-collapse: collapse" width="100%">
@@ -627,17 +631,23 @@ site, or your dealings with this Web site, you can contact:
         <a href="index.php">HOME</a> |
         <a href="faq.php">FAQ</a> |
         <a href="news.php">NEWS</a> |
+		<a href="downloads.php">DOWNLOADS</a> |
 		<a href="staff.php">STAFF</a> |
+		<a href="job.php">JOBS</a> |
         <a href="contact.php">CONTACT</a> |
-        <a href="advertising.php"><b><font size="2">ADVERTISE</font></b></a>
-		</font></p><p align="center">
+        <a href="advertising.php"><b><font size="2">ADVERTISE</font></b></a> |
+			   <a href="monitorfaq.php">MONITORS</a> |
+			
+					</font></p><p align="center">
         <font size="1"> <a href="privacy.php">Privacy Policy</a>
         | </font><b>
         <font size="2"> <a href="spampolicy.php">Anti-Spam Policy</a></font></b><font size="1">
         | </font><b>
-        <font size="1"> <a href="outwar_tos.html" target="_blank">Terms of Service</a>
+        <font size="1"> <a href="outwar_tos.php" target="_blank">Terms of Service</a></font>
         <br>
-srv 45 Page was generated in 0.001608 seconds</font>    </b></p></td></tr></tbody></table></td></tr></tbody></table>
-
+srv 139 Page was generated in 0.000776 seconds    
+	
     
- </body></html>
+    
+
+ </b></p></td></tr></tbody></table></td></tr></tbody></table></center></body></html>
