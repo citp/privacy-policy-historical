@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the papajohns.com privacy policy that was archived on 2002-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020402214629id_/http%3A//www.papajohns.com/policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papajohns.com privacy policy that was archived on 2003-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030602031722id_/http%3A//papajohns.com/policy/index.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Papa John's Pizza Privacy Policy
 
 **Your privacy is important to us.**   
 Safeguarding your privacy and the security of your personal information is important to us. Please take a few minutes to read the following policy so that you understand how we treat your personal information. As we continuously improve and expand our services, this policy might change. So please check it out periodically. If you have questions about our policy, please click on our customer feedback page to contact us via our electronic feedback form or call us at 1-888-777-7272.
@@ -27,9 +27,9 @@ If you contact us by letter, phone, or email through the contact information on 
 **Our use of cookies.**   
 Like many websites on the Internet, our website uses cookies. Cookies are small strings of data placed on users' personal computer hard drives during the exchange of data that happens when your browser points to our website. Cookies enable a website to identify a user's browser as a previous visitor by means of a unique string of numbers assigned on a previous visit. Our cookies assist us in collecting information on what pages of our website you access or visit, and in recording any preferences you indicate on our website. We also use cookies to make your experience on papajohns.com more personalized, and convenient.
 
-Our cookies cannot and do not retrieve any other data from your hard drive or pass on computer viruses. If you are just browsing our website, a cookie identifies only your browser (and not your identity). If you place orders with us, we use cookies to assist in storing your preferences and recording other session information (a "session" is a single visit by you to our website).
+Our cookies cannot and do not retrieve any other data from your hard drive or pass on computer viruses. If you are just browsing our website, a cookie identifies your browser and user id (and not your identity). If you place orders with us, we use cookies to assist in storing your preferences and recording other session information (a "session" is a single visit by you to our website).
 
- **How we store the information we collect.**   
+**How we store the information we collect.**   
 We store the information you provide to us and the information we collect electronically in our computer databases. We own, maintain and operate our computer servers containing our databases. Access to our computer servers is controlled by firewalls and security gatekeepers.
 
 **How we use the information we collect.**   
@@ -53,10 +53,11 @@ This is our current privacy and security policy, but we reserve the right to cha
 **You can access your information.**   
 Upon your request, we will provide you with access to your unique account-related information and information from contacts that we maintain about you. In your request, please provide us with your current specific contact information so that we can accurately check our records.
 
- **How is my information protected?**   
+**How is my information protected?**   
 Your information is password-protected. In order to maintain this protection, we caution you not to provide your password to anyone. We do not give your password to anyone. We recommend that, if you share your computer with other people, you close your browser window when your session is completed. Signing off will protect your information if you share a computer with someone else or are using a computer in a public place like a library.
 
- **Please contact us with any questions or comments.**   
+**Please contact us with any questions or comments.**   
 We want you to enjoy your use of papajohns.com's service. If you have any questions, or believe that a violation of this policy may have occurred, please let us know. Our complete contact information is provided on the Customer Feedback link on our website at [www.papajohns.com](http://www.papajohns.com/).
 
-©Copyright 2002 Papa John's International, Inc. All Rights Reserved.
+©Copyright 2002 Papa John's International, Inc.  
+All Rights Reserved.
