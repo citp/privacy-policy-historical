@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ril.com privacy policy that was archived on 2003-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031218004510id_/http%3A//www.ril.com/eportal/VirtualPageView.jsp%3Fpage_id%3D539) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ril.com privacy policy that was archived on 2005-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050319013506id_/http%3A//www.ril.com/privacypolicy/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
