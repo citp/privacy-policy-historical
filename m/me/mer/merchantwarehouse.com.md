@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merchantwarehouse.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208181823id_/http%3A//www.merchantwarehouse.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merchantwarehouse.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404061945id_/http%3A//www.merchantwarehouse.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy at MerchantWarehouse.com
 
@@ -11,7 +11,7 @@
 
 This is a privacy policy for Merchant Warehouse.com Inc. It describes the data we collect on the site and what we do with it. Keeping the information private and secured is important to us. 
 
-Merchant Warehouse is a member of the [BBB (Better Business Bureau) OnLine Reliability Program](https://web.archive.org/web/20041208181823id_/http%3A//www.merchantwarehouse.com/privacy.htm). 
+Merchant Warehouse is a member of the [BBB (Better Business Bureau) OnLine Reliability Program](https://web.archive.org/web/20050404061945id_/http%3A//www.merchantwarehouse.com/privacy.htm). 
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: 
 
