@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jambands.com privacy policy that was archived on 2000-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000930065247id_/http%3A//www.jambands.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambands.com privacy policy that was archived on 2001-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010602133022id_/http%3A//www.jambands.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
