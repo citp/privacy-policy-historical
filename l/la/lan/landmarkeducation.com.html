@@ -1,0 +1,374 @@
+<!--The following is the downloaded HTML source of the landmarkeducation.com privacy policy that was archived on 2002-12-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20021203001733id_/http%3A//www.landmarkeducation.com/display_content.jsp%3Ftop%3D502) for the most accurate reproduction.-->
+
+<html><head>
+	<title>privacy statement</title>
+	<meta http-equiv="Content-Type" content="text/html;">
+		<script language="JavaScript">
+		var newWindow;
+		function makeNewWindow(siteObjectID, publish){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("publish_unpublish_survey.jsp?siteObjectID=" + siteObjectID + "&publish=" + publish,"","scrollbars,resizable");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function makeSurveyWindow(siteObjectID, respInd){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("view_survey.jsp?siteObjectID=" + siteObjectID + "&start=0&pagenumber=1&admin=false&respInd=" + respInd,"","toolbar,location,dependent,scrollbars,resizable");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function makeSurveyResponseWindow(siteObjectID){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("view_survey_responses.jsp?siteObjectID=" + siteObjectID + "&start=0&pagenumber=1","","toolbar,dependent,scrollbars,resizable");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function makeLinkWindow(newURL){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open(newURL,"","toolbar,location,statusbar,menubar,dependent,scrollbars,resizable,height=600,width=800");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function openPublishWindow(siteObjectID,publish){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("publish_unpublish_site_object.jsp?siteObjectID=" + siteObjectID + "&action=" + publish,"","scrollbars,resizable,height=400,width=600");
+			}else{
+				newWindow.focus();
+			}
+		}
+		function openPublishWindowForContent(siteObjectID){
+			if(!newWindow || newWindow.closed){
+				newWindow = window.open("publish_content.jsp?siteObjectID=" + siteObjectID + "&action=publish","","scrollbars,resizable,height=400,width=600");
+			}else{
+				newWindow.focus();
+			}
+		}
+		//	MM/DD/YY
+		function checkDate(TestDate)
+		{
+			var rightDate = true;
+			if(TestDate.indexOf("/") == -1)
+			{
+				rightDate = false;
+			}	
+			else
+			{
+				var theTokens = TestDate.split("/");
+				if ( theTokens.length != 3 )
+				{
+					rightDate = false;
+				}
+				else
+				{
+					var tokenIndex;
+					for ( tokenIndex = 0; tokenIndex < theTokens.length; tokenIndex++ ) 
+					{
+						theTokens[tokenIndex] = new String(theTokens[tokenIndex])			
+						if ( theTokens[tokenIndex].charAt(0) == '0' )
+							theTokens[tokenIndex] = theTokens[tokenIndex].substring(1, theTokens[tokenIndex].length);
+					}
+					// MM/dd/yy
+					if(theTokens[2] < 0)
+					{
+						rightDate = false;
+					}
+					if(theTokens[0]>12 || theTokens[0]<0)
+					{
+						rightDate = false;
+					}
+					if(theTokens[1]>31 || theTokens[1]<0)
+					{
+						rightDate = false;
+					}
+				}
+			
+			}
+			if(!rightDate)
+			{
+				return false;
+			}
+			return true;
+		}
+		
+		function checkTime(TestTime)
+		{
+			var rightTime = true;
+			var sTime = new String(TestTime);
+			if(sTime.indexOf(" ") == -1)
+			{
+				rightTime = false;
+			}
+			if(sTime.indexOf(":") == -1)
+			{
+				rightTime = false;
+			}
+			if((sTime.toLowerCase().indexOf("pm") == -1) && (sTime.toLowerCase().indexOf("am") == -1))
+			{
+				rightTime = false;
+			}
+			if(!rightTime)
+			{
+				return false;
+			}
+			return true;
+		}
+		
+		
+	</script>
+
+	
+	
+	<meta name="description" content="
+">
+
+	<meta name="keywords" content="">
+
+
+	
+</head>
+
+
+
+<body bgcolor="#FFFFFF" topmargin="0" leftmargin="0" marginheight="0" marginwidth="0">
+<link rel="STYLESHEET" href="assets/sitestyle.css" type="text/css">
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
+		<td width="195" nowrap=""><a href="index.jsp"><img src="assets/logo_home.jpg" width="195" height="47" border="0"></a></td>
+		<td background="assets/home_header_background.jpg"><img src="assets/home_header_background.jpg" width="575" height="47" border="0"></td>
+		<td width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
+	</tr>
+</tbody></table>
+
+<!--main navigation-->
+<table width="100%" cellpadding="0" cellspacing="0" border="0" bgcolor="#666666">
+	<tbody><tr>
+		<td>
+			<table width="780" cellpadding="0" cellspacing="0" border="0" bgcolor="#666666">
+				<tbody><tr bgcolor="#666666">
+					<td height="20" width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
+					<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
+<td height="20" nowrap=""><a href="index.jsp?top=20" class="topnav">home</a></td>
+<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
+<td height="20" nowrap=""><a href="section.jsp?top=21" class="topnav">the landmark forum</a></td>
+<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
+<td height="20" nowrap=""><a href="section.jsp?top=22" class="topnav">graduate center</a></td>
+<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
+<td height="20" nowrap=""><a href="event_search.jsp?top=23" class="topnav">events and locations</a></td>
+<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
+<td height="20" nowrap=""><a href="menu.jsp?top=24" class="topnav">register now</a></td>
+<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
+<td height="20" nowrap=""><a href="menu.jsp?top=25" class="topnav">about us</a></td>
+<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
+<td height="20" nowrap=""><a href="menu.jsp?top=26" class="topnav">for the media</a></td>
+<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
+<td height="20" nowrap=""><a href="display_content.jsp?top=27" class="topnav">contact us</a></td>
+<td bgcolor="#666666" class="topnav" width="16" nowrap="">&nbsp;</td>
+
+				</tr>
+			</tbody></table>
+		</td>
+		<td bgcolor="#666666" class="topnav" width="100%">&nbsp;</td>
+		<td height="20" width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif" height="20" width="5"></td>
+	</tr>
+</tbody></table>
+		
+
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0" background="assets/pixel_ffcc00.gif">
+	<tbody><tr>
+		<td width="20" height="20" bgcolor="#FFCC00" background="assets/pixel_ffcc00.gif" nowrap="">&nbsp;</td>
+		<td width="100%" height="20" bgcolor="#FFCC00" background="assets/pixel_ffcc00.gif" class="topnav-breadcrumb"><span class="topnav-breadcrumb"><a href="index.jsp" class="topnav-breadcrumb">home</a> : privacy statement
+</span><!--bcS--></td>
+	</tr>
+</tbody></table> 
+
+
+ 
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
+		<td width="195" nowrap="" valign="top">
+			<table cellpadding="1" cellspacing="1" border="0" bgcolor="#FFFFFF">
+
+<tbody><tr>
+<td width="10" nowrap="" valign="top"><a href="display_content.jsp?top=502&amp;mid=740"><img src="assets/box1.gif" width="8" height="12" border="0"></a></td>
+<td colspan="4" valign="top"><a href="display_content.jsp?top=502&amp;mid=740" class="rightnav-link">Parental Consent</a></td>
+</tr>
+
+</tbody></table>
+
+	
+
+			<img src="assets/dashed_line_horizontal.gif" height="1" width="195">
+					<form name="qsearch" action="search_results.jsp?qsearch=true" method="post">
+			<table width="195" cellpadding="0" cellspacing="0" border="0">
+				<tbody><tr>
+					<td rowspan="2"><img src="assets/search_image.gif" width="16" height="49"></td>
+				</tr>
+				<tr>
+					<td>
+						<span class="textbody-adbox">site search</span><br>
+						<input type="textbox" name="searchphrase" size="15"> <input type="image" src="assets/go_button.gif" border="0"><br>
+						<a href="search.jsp" class="textbody-adbox">advanced search</a>
+					</td>
+				</tr>
+			</tbody></table>
+			</form>
+
+		</td>
+		<td width="1" nowrap="" background="assets/dashed_line.gif"><img src="assets/dashed_line.gif"></td>
+		<td width="100%" valign="top">
+			<table cellpadding="5" cellspacing="0" border="0">
+				<tbody><tr><td class="textbody">
+					
+						
+							<p class="text-title">Privacy Statement</p><p>
+						
+					
+					
+					
+					
+
+
+
+						</p><p class="textbody">
+					
+						
+							</p><p align="center"><u><strong>LANDMARK EDUCATION CORPORATION<br>PRIVACY POLICY STATEMENT<br></strong></u>(Effective 08/01/02)<br></p>
+<p><em><strong><u>Introduction: Our Commitment To Your Privacy.</u></strong></em> Landmark Education Corporation (“Landmark”) is highly sensitive to the confidentiality of information provided by you to Landmark. As a result, Landmark has adopted the following Privacy Policy which is applicable to all information that you provide to Landmark and that Landmark maintains electronically, whether you provide the information through Landmark’s World Wide Web Site (the “Site”) or through other means. You should also review our <a href="../display_content.jsp?top=31">Terms and Conditions of Use</a> as they are also applicable and govern your use of the Site. This Policy does not apply to any information that you may provide to third parties, such as through other sites linked to the Landmark Site. You should contact such third parties directly to determine their respective Privacy Policies.</p>
+<p>Landmark expressly reserves in its sole discretion, and at times and intervals of its choosing, the right to change its Policies and Practices periodically in the future without prior notice to Site Users. You should review our Privacy Policy Statement regularly to be sure you are fully current with our practices and procedures in this area. At present, Landmark uses and discloses the information provided by you for the purposes described below.</p>
+<p>This written Policy discloses the information-gathering and dissemination practices for Landmark’s Site. This Notice applies to all information collected or submitted on Landmarkeducation.com. As noted above, this Privacy Policy Statement may change from time to time, so please revisit this Notice periodically to ensure your usage of the Site is correct with the policies and practices governing it.</p>
+<p><em><strong><u>What Information Do We Collect?</u></strong></em>&nbsp; Landmark may collect information in conjunction with its marketing and registration for programs and related services and follow up as well as from its program registrants, as part of the registration process for Landmark programs such as the Landmark Forum. From time-to-time, we may also conduct surveys or offer contests or other promotional events, and gather additional information from you in connection with those events. Other than in aggregated, derivative form, we do not share such information with anyone outside Landmark. Any personal information will be kept confidential and used solely by us in accordance with this Policy. </p>
+<p><em><strong><u>What do We Use this Information for?</u></strong></em>&nbsp; Primarily, we use your information to provide you with the services available to you. We use your IP Address to help diagnose problems with our server, and to administer Landmark’s Site. Your IP Address is also used to help identify you and to gather broad demographic information, some of which we aggregate and then share with our strategic alliance partners. We also use your IP address to keep track of the information you have seen on our Sites. We use your name, email address and mailing address, to assist us in communicating with you if you ask us to do so. We use information on your resume to assist you with job placement.</p>
+<p><em><u><strong>With Whom do We Share Your Information?</strong></u></em>&nbsp; We may share your information only in aggregated, derivative form with related companies of Landmark and third party organizations with whom we have entered into marketing agreements, strategic alliances, or other business relationships. </p>
+<p><em><strong><u>Use of Cookies.</u></strong></em> Cookies are a standard technology used by commercial web services to store small pieces of information on your hard drive, by sending a small string of text to your browser. They make your use of our Site more pleasing and efficient by, for example, “personalizing” your user interface or identifying which parts of a site you have previously visited. Most web browsers automatically accept cookies unless you have configured yours not to accept them. In order for us to provide you with services, your browser must accept cookies, as they are essential for site administration and security. We also use cookies to tailor the information that you receive and for other purposes. </p>
+<p><em><strong><u>Disclaimer of Responsibility for Privacy Policy And Content At Linked Sites.</u></strong></em> Landmark’s Site may provide you with links to other websites. We are not responsible for those sites and cannot control the use of information that you submit once you reach those sites, nor can we control the content of what is offered on those sites or on links from those sites. </p>
+<p><em><strong><u>Our Use of Information from Third Parties.</u></strong></em> We may obtain information about you provided to us by third parties such as credit reporting agencies or strategic alliance partners in order to offer you their services and products, to improve our services, or to evaluate your eligibility for our services. However, we will not release personal information about you to them other than in aggregated, derivative form.</p>
+<p><strong><em><u>Parental or Legal Guardian Permission to Participate.</u></em></strong> The Children’s Online Privacy Protection Act (COPPA) requires that the Parent or Adult Legal Guardian of children under the age of thirteen (13) must read our Privacy Policy Statement and then sign and return the attached form. Upon receipt, we are then permitted to allow such child/children to post materials and generally participate in the activities of our Site. In addition, Landmark requires the permission of a parental or adult legal guardian for anyone under the age of 18 to participate in the activities of our Site. </p>
+<p><em><strong><u>Consent for Participation of Children–Children's Online Privacy Protection Act (COPPA)</u></strong></em>&nbsp; Landmark's own internal policy guidelines and compliance with COPPA require the consent of a parent or legal guardian before allowing anyone under the age of 18 to register, online or otherwise, for one of its programs. Consent of the parent or adult legal guardian of any such minors must be provided by completing and returning the <a href="../display_content.jsp?top=502&amp;mid=740">Parental/Legal Guardian Consent form</a>.</p>
+<p><strong>Once the information on the foregoing form has been completed, including the signature of the parent/or adult legal guardian of each child for whom consent is being given, then it can be returned by:</strong></p>
+<p><strong><u>FAXING IT TO:</u></strong> 
+</p><p>LANDMARK EDUCATION<br>FAX: 415.616.2411 <br>ATTN:&nbsp; Legal Department Manager 
+</p><p>&nbsp;<u><strong>OR</strong></u></p>
+<p><strong><u>MAILING IT&nbsp;TO:</u></strong> 
+</p><p>LANDMARK EDUCATION<br>ATTN:&nbsp; Legal Department Manager<br>353 Sacramento Street, Suite #200<br>San Francisco, CA&nbsp; 94111</p>
+						
+					
+						<p></p>
+					
+						
+			</td></tr>
+			</tbody></table>		
+		</td>
+		
+		
+		
+			
+		
+		
+
+		<td width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
+	</tr>
+</tbody></table>
+
+<table width="100%" cellpadding="0" cellspacing="0" border="0">
+	<tbody><tr>
+		<td width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
+		<td with="100%" align="center" class="textbody"><br><br><br>
+<p>
+
+					
+					<a href="index.jsp?top=20" class="footernav">home</a>
+					
+				
+			
+					<span class="footernav"> | </span>
+
+					<a href="section.jsp?top=21" class="footernav">the landmark forum</a>
+					
+				
+			
+					<span class="footernav"> | </span>
+
+					<a href="section.jsp?top=22" class="footernav">graduate center</a>
+					
+				
+			
+					<span class="footernav"> | </span>
+
+					<a href="event_search.jsp?top=23" class="footernav">events and locations</a>
+					
+				
+			
+					<span class="footernav"> | </span>
+
+					<a href="menu.jsp?top=24" class="footernav">register now</a>
+					
+				
+			
+					<span class="footernav"> | </span>
+
+					<a href="menu.jsp?top=25" class="footernav">about us</a>
+					
+				
+			
+					<span class="footernav"> | </span>
+
+					<a href="menu.jsp?top=26" class="footernav">for the media</a>
+					
+				
+			
+					<span class="footernav"> | </span>
+
+					<a href="display_content.jsp?top=27" class="footernav">contact us</a>
+					
+				
+			
+		
+	<br>
+
+	
+
+					<nobr><a href="display_content.jsp?top=502" class="footernav">privacy statement</a></nobr>
+				
+			<span class="footernav"> | </span>
+
+					<nobr><a href="display_content.jsp?top=31" class="footernav">terms of use</a></nobr>
+				
+			<span class="footernav"> | </span>
+
+					<nobr><a href="search.jsp?top=30" class="footernav">search</a></nobr>
+				
+			
+		
+
+
+	
+
+
+	
+
+		<br>©2002 Landmark Education. All Rights Reserved.
+		<br><br><br><br>
+		</p></td>
+		<td width="5" nowrap="" background="assets/pixel_ffcc00.gif"><img src="assets/pixel_ffcc00.gif"></td>
+	</tr>
+</tbody></table>
+	<p></p>
+<br><br><br>
+
+
+
+	
+
+
+
+</body></html>
