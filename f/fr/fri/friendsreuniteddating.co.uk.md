@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the friendsreuniteddating.co.uk privacy policy that was archived on 2004-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040611053242id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.ASP%3Fwci%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsreuniteddating.co.uk privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205090024id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.ASP%3Fwci%3Dprivacy) for the most accurate reproduction.*
 
 # Dating UK • Friends Reunited Dating
 
 **FriendsReunitedDating Privacy Policy**
 
-This is a legal document which sets out how FriendsReunitedDating handles data which identifies you. You should read it in conjunction with the [FriendsReunitedDating Terms and Conditions](https://web.archive.org/web/20040611053242id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=terms), of which this Privacy Policy forms part.
+This is a legal document which sets out how FriendsReunitedDating handles data which identifies you. You should read it in conjunction with the [FriendsReunitedDating Terms and Conditions](https://web.archive.org/web/20041205090024id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=terms), of which this Privacy Policy forms part.
 
-At FriendsReunitedDating, we believe strongly in protecting the privacy of our users' personal information. This statement describes the privacy practices we apply for the FriendsReunitedDating Service. As part of that, it also expresses our approach to complying with the data protection laws which apply in the United Kingdom. If we change this Privacy Policy, we will notify you of the changed document in the same way as we notify changes to the [FriendsReunitedDating Terms and Conditions](https://web.archive.org/web/20040611053242id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=terms).
+At FriendsReunitedDating, we believe strongly in protecting the privacy of our users' personal information. This statement describes the privacy practices we apply for the FriendsReunitedDating Service. As part of that, it also expresses our approach to complying with the data protection laws which apply in the United Kingdom. If we change this Privacy Policy, we will notify you of the changed document in the same way as we notify changes to the [FriendsReunitedDating Terms and Conditions](https://web.archive.org/web/20041205090024id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=terms).
 
 If you have questions or concerns regarding this statement, you should contact FriendsReunitedDating's [Customer Service Department - link]. 
 
@@ -51,14 +51,14 @@ We have security measures in place to protect our customer database and access t
 **4.** |  **Opt-out policy**  
 
 
-  * You may have your registration details removed at any time. To remove yourself please [click here](https://web.archive.org/web/20040611053242id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=unregister) and we will remove all your Member Details. 
+  * You may have your registration details removed at any time. To remove yourself please [click here](https://web.archive.org/web/20041205090024id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=unregister) and we will remove all your Member Details. 
   * We provide Members with the opportunity to opt-out of receiving e-mailed Newsletters which they have previously opted to receive. This opt-out can be effected by making appropriate selections in your Member Details. 
 
   
 **5.** | **Disclosure for legal reasons**  
 We reserve the right to communicate such of a Member's personal information as we hold to third parties which seek the disclosure of it, and which make a legally-compliant request for its disclosure.  
 **6.** | **Contacting FriendsReunitedDating**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with FriendsReunitedDating, you can contact us [support@FriendsReunitedDating.co.uk](https://web.archive.org/web/20040611053242id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=contactus&email=support&subject=Privacy%20Policy%20Query). You can also use this address if you wish to request from FriendsReunitedDating a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information.   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with FriendsReunitedDating, you can contact us [support@FriendsReunitedDating.co.uk](https://web.archive.org/web/20041205090024id_/http%3A//www.friendsreuniteddating.co.uk/newfriends.asp?wci=contactus&email=2&subject=Privacy%20Policy%20Query). You can also use this address if you wish to request from FriendsReunitedDating a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information.   
 **7.** | **Links to third party sites**   
 Our site contains links to other sites. FriendsReunitedDating is not responsible for the privacy practices, or the content, of those web sites.  
 **8.** | **Data Protection Information**  
