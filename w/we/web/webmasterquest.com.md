@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the webmasterquest.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603083946id_/http%3A//www.webmasterquest.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterquest.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204112530id_/http%3A//www.webmasterquest.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for WebmasterQuest
 
-| 
-
-[](https://web.archive.org/click.php?ButtonID=2)
-
-  
+|    
 |  | 
 
 Privacy statement:  
@@ -61,6 +57,4 @@ Contacting the Web Site
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
 [ webmaster@webmasterquest.com ](mailto:webmaster@webmasterquest.com)  
-   
-  
-
+ 
