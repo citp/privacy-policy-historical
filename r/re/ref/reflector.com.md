@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013043247id_/http%3A//www.reflector.com/search/content/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reflector.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210100412id_/http%3A//www.reflector.com/search/content/privacypolicy.html) for the most accurate reproduction.*
 
 # Reflector.com: Privacy Policy
 
