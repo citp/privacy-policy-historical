@@ -1,99 +1,99 @@
-> *The following text is extracted and transformed from the intelligentedu.com privacy policy that was archived on 2004-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligentedu.com privacy policy that was archived on 2005-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Intelligentedu.com Privacy Policy
 
-**[Learn New Skills & Increase Your Earning Power With FREE Computer Training!](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/best_online_computer_it_training.html)**
+**[Learn New Skills & Increase Your Earning Power With FREE Computer Training!](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/best_online_computer_it_training.html)**
 
-Learn programming for Free and how to develop and write computer programs and IT applications. Get Free knowledge, information, references, and resources about computers now. Many **Free** training [courses,](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/cat1.html) [tutorials](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/freecourses.html?cobrand=intelligentedu), [books](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/free_computer_books.html), training guides, tips, articles, and helps are available to you. 
+Learn programming for Free and how to develop and write computer programs and IT applications. Get Free knowledge, information, references, and resources about computers now. Many **Free** training [courses,](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/cat1.html) [tutorials](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/freecourses.html?cobrand=intelligentedu), [books](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/free_computer_books.html), training guides, tips, articles, and helps are available to you. 
 
-For help finding what you need go to [Navigation by Topic to Free Training](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/index.html#navigation) or [use pop-up.](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/site_navigation.html)
+For help finding what you need go to [Navigation by Topic to Free Training](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/index.html#navigation) or [use pop-up.](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/site_navigation.html)
 
- **[Subscribe to our Free semimonthly Newsletter to Get the Latest & Best FREE Computer IT Training!](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/sign-up/newsletters/optin_newsletter.html)** \- You'll stay current with all the New Free Computer Training and Education sites we discover - Subscribe now because you'll have access to these great new sites a month before our web site visitors do, and with each issue you'll receive our 2 non-public links containing 97 Pages of Free Training with _over 10,000_ Free IT training and tutorial resources. Plus, you'll receive our new 21 chapter e-book "[Understanding Computer Security](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/sign-up/newsletters/signup2.html#ucs)" for Free!
+ **[Subscribe to our Free semimonthly Newsletter to Get the Latest & Best FREE Computer IT Training!](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/sign-up/newsletters/optin_newsletter.html)** \- You'll stay current with all the New Free Computer Training and Education sites we discover - Subscribe now because you'll have access to these great new sites a month before our web site visitors do, and with each issue you'll receive our 2 non-public links containing 97 Pages of Free Training with _over 10,000_ Free IT training and tutorial resources. Plus, you'll receive our new 21 chapter e-book "[Understanding Computer Security](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/sign-up/newsletters/signup2.html#ucs)" for Free!
 
   
 **I.T. Education & Training:**
 
- **[Home Page](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/index.html)**
+ **[Home Page](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/index.html)**
 
- **[Free Computer Training & Courses](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/cat1.html)**
+ **[Free Computer Training & Courses](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/cat1.html)**
 
- **[Free Computer Books](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/free_computer_books.html)**
+ **[Free Computer Books](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/free_computer_books.html)**
 
- **[Free Tutorials, Guides, Support & Help](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/cat2.html)**
+ **[Free Tutorials, Guides, Support & Help](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/cat2.html)**
 
- **[Free University Course Websites](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/cat3.html)**
+ **[Free University Course Websites](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/cat3.html)**
 
-[ **Best FREE Online Computer IT Courses**](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/sign-up/index.html)
+[ **Best FREE Online Computer IT Courses**](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/sign-up/index.html)
 
- **[Lower Fee Distance Learning Sites](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/cat4.html)**
+ **[Lower Fee Distance Learning Sites](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/cat4.html)**
 
- **[Higher Fee Distance Learning Sites](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/cat5.html)**
+ **[Higher Fee Distance Learning Sites](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/cat5.html)**
 
- **[Link and Resource Sites](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/cat6.html)**
+ **[Link and Resource Sites](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/cat6.html)**
 
- **[Free Certification Exam Study Guides](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/free_it_certification_study_guides.html)**
+ **[Free Certification Exam Study Guides](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/free_it_certification_study_guides.html)**
 
- **[Free IT Training Tutorials](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/freecourses.html?cobrand=intelligentedu)**
+ **[Free IT Training Tutorials](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/freecourses.html?cobrand=intelligentedu)**
 
- **[Free IT Training Downloads](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/software.html)**
+ **[Free IT Training Downloads](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/software.html)**
 
- **[eBiz Web Building](http://intelinfo3.subportal.com/ebiz/build/)**
+ **[eBiz Web Building](http://intelligentedu3.subportal.com/ebiz/build/)**
 
- **[Free Programming Software](http://intelinfo2.subportal.com/sn/Programming/)**
+ **[Free Programming Software](http://intelligentedu2.subportal.com/sn/Programming/)**
 
- **[Monthly Newsletter: New Free Sites](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/newsletter.html)**
+ **[Monthly Newsletter: New Free Sites](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/newsletter.html)**
 
-[ **IT Sites Worth Mentioning**](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/it_sites_worth_mentioning.html)
+[ **IT Sites Worth Mentioning**](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/it_sites_worth_mentioning.html)
 
- **[Free Site of the Month](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/sotm.html)**
+ **[Free Site of the Month](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/sotm.html)**
 
- **[Best Course & Degree Locators](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/search.html)**
+ **[Best Course & Degree Locators](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/search.html)**
 
- **[Free Desktop & Office Tutorials](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/office.html)**
+ **[Free Desktop & Office Tutorials](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/office.html)**
 
- **[Link To This Site](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/link_to_this_site.html)**
+ **[Link To This Site](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/link_to_this_site.html)**
 
  **Additional Site Content:**
 
- **[Member Info & Sign Up](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/sign-up/index.html)**
+ **[Member Info & Sign Up](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/sign-up/index.html)**
 
- **[Member Login](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/members/index.html)**
+ **[Member Login](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/members/index.html)**
 
 [ **Intelligentedu.com's Computer Open Web Directory**](http://intelligentedu.master.com/texis/master/search/+/Top/Computers)
 
- **[IT Certification Counselor and Complete List](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/itcerts.html)**
+ **[IT Certification Counselor and Complete List](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/itcerts.html)**
 
- **[Financial Aid Resources](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/finaid.html)**
+ **[Financial Aid Resources](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/finaid.html)**
 
  **[Intelligentedu.com's IT Career Center](http://intelinfo.tech-engine.com/)**
 
- **[Online IT Publications](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/pubs.html)**
+ **[Online IT Publications](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/pubs.html)**
 
- **[IT Associations & Organizations](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/orgs.html)**
+ **[IT Associations & Organizations](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/orgs.html)**
 
- **[The Latest Technology News](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/news.html)**
+ **[The Latest Technology News](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/news.html)**
 
  **[IT Stock Quotes and News](http://intelligentedu.master.com/texis/master/search/stock.html)**
 
- **[Great Free Software](http://intelinfo.subportal.com/sn/)**
+ **[Great Free Software](http://intelligentedu.subportal.com/sn/)**
 
- **[eBiz: Build, Promote,& Profit](http://intelinfo3.subportal.com/ebiz/)**
+ **[eBiz: Build, Promote,& Profit](http://intelligentedu3.subportal.com/ebiz/)**
 
  **[Great Free Stuff and Trial Offers](http://intelligentedu.trialoffers.com/)**
 
- **[Online Games](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/games/games.html)**
+ **[Online Games](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/games/games.html)**
 
- **[Music and Movies](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/entertainment.html)**
+ **[Music and Movies](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/entertainment.html)**
 
- **[Travel Reservations, Flight Schedules & Tracking](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/travel.html)**
+ **[Travel Reservations, Flight Schedules & Tracking](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/travel.html)**
 
- **[The Best of the Web](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/bestlinks.html)**
+ **[The Best of the Web](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/bestlinks.html)**
 
- **[Best Developer Books at Amazon.com](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/books1.html)**
+ **[Best Developer Books at Amazon.com](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/books1.html)**
 
- **[How You Can Support Our IT Training Mission](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/support.html)**
+ **[How You Can Support Our IT Training Mission](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/support.html)**
 
- **[Health](http://intelinfo4.subportal.com/health/), [Cooking](http://intelinfo4.subportal.com/recipes/), [Weather](http://intelinfo4.subportal.com/cgi-bin/weather/hamweather.cgi), [World News](http://intelinfo4.subportal.com/cgi-bin/news/topstory.cgi)**
+ **[Health](http://intelligentedu4.subportal.com/health/), [Cooking](http://intelligentedu4.subportal.com/recipes/), [Weather](http://intelligentedu4.subportal.com/cgi-bin/weather/hamweather.cgi), [World News](http://intelligentedu4.subportal.com/cgi-bin/news/topstory.cgi)**
 
 ##### **Community Content:**
 
@@ -113,7 +113,7 @@ For help finding what you need go to [Navigation by Topic to Free Training](http
 
  **[Take Our Survey](http://pub20.bravenet.com/vote/vote.php?usernum=1647373161)**
 
- **[Tell a Friend about this Site](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/friend.html)**   
+ **[Tell a Friend about this Site](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/friend.html)**   
 
 
 [](http://intelligentedu.free2try.com/)
@@ -125,8 +125,7 @@ For help finding what you need go to [Navigation by Topic to Free Training](http
 
 **  
    
- If you would like a **Free Copy** of our current IT Education & Training Newsletter without subscribing:  
-Make us your homepage! (IE only)| 
+ Make us your homepage! (IE only)| 
 
 > > | 
 >> 
@@ -136,7 +135,7 @@ Make us your homepage! (IE only)|
 >>  
 >>> This privacy statement discloses the privacy practices for [http://www.intelligentedu.com](http://www.intelligentedu.com/). If you have questions or concerns regarding this statement, you can contact Scott Turton at [scott_turton@intelligentedu.com](mailto:scott_turton@intelligentedu.com).
 >>> 
->>> We collect email address information volunteered by our visitors, for our free, opt-in monthly [newsletter](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/newsletter.html). We display ads using the services of websponsors.com and cj.com.
+>>> We collect email address information volunteered by our visitors, for our free, opt-in monthly [newsletter](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/newsletter.html). We display ads using the services of websponsors.com and cj.com.
 >>> 
 >>> We respect the privacy of our **Newsletter** subscribers, it is our policy:
 >>> 
@@ -146,7 +145,7 @@ Make us your homepage! (IE only)|
 >>> 
 >>>   *  **Third party use.** To not sell, rent, or loan our subscriber or customer lists to third parties for commercial purposes . While we may sell advertising in our e-mail publications to other companies, we do not allow third parties any other use of these subscriber lists.
 >>> 
->>>   *  **Unsubscriptions.** To send our periodicals only to those who request them, and immediately unsubscribe those who request it. Every issue of our free newsletter explains how to subscribe and unsubscribe at the bottom, or you can go [here](https://web.archive.org/web/20041207045147id_/http%3A//www.intelligentedu.com/newsletr_sub_unsub.html).
+>>>   *  **Unsubscriptions.** To send our periodicals only to those who request them, and immediately unsubscribe those who request it. Every issue of our free newsletter explains how to subscribe and unsubscribe at the bottom, or you can go [here](https://web.archive.org/web/20050308013620id_/http%3A//www.intelligentedu.com/newsletr_sub_unsub.html).
 >>> 
 >>> 
 
