@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the milwaukeejobs.com privacy policy that was archived on 2000-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001214085000id_/http%3A//www.milwaukeejobs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milwaukeejobs.com privacy policy that was archived on 2001-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010604010212id_/http%3A//www.milwaukeejobs.com/privacy.asp) for the most accurate reproduction.*
 
 # Milwaukee jobs and resumes - the premier employment site for Milwaukee and Wisconsin
 
 MILWAUKEEJOBS PRIVACY POLICY
 
-At MilwaukeeJobs.com, we are committed to protecting your privacy. We use the information we collect about you to assist with your employment and/or recruiting efforts, and to provide a more personalized experience. Please read on for more details about our privacy policy 
+At MilwaukeeJobs.com, we are committed to protecting your privacy. We use the information we collect about you to assist with your employment and/or recruiting efforts, and to provide a more personalized experience. Please read on for more details about our privacy policy. 
 
 INFORMATION COLLECTED AND HOW IT IS USED
 
@@ -22,12 +22,12 @@ Cookies" are small pieces of information that are stored by your browser on your
 
 PERSONAL INFORMATION AND THIRD PARTIES
 
-MilwaukeeJobs.com will not share, release or sell your personal information to outside or third parties. We may provide aggregate statistics about our customers, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. MilwaukeeJobs.com may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property, or safety of MilwaukeeJobs.com, our users, or others. 
+Infosoft Group, Inc. will not share, release or sell your personal information to outside or third parties. We may provide aggregate statistics about our customers, traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personally identifying information. Infosoft Group, Inc. may release account information when we believe, in good faith, that such release is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect the rights, property, or safety of MilwaukeeJobs.com, our users, or others. 
 
 POLICY ON LINKS TO THIRD PARTY WEB SITES
 
-When you click on links and/or ad banners that take you to third-party Web sites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, MilwaukeeJobs.com cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any Web site. 
+When you click on links and/or ad banners that take you to third-party Web sites, you will be subject to the third parties' privacy policies. While we support the protection of privacy on the Internet, Infosoft Group, Inc. cannot be responsible for the actions of third parties. We encourage you to read the posted privacy statement whenever interacting with any Web site. 
 
 YOUR CONSENT
 
-By using our Web site, you consent to the collection and use of this information by MilwaukeeJobs.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+By using our Web site, you consent to the collection and use of this information by Infosoft Group, Inc.. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
