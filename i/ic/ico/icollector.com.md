@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icollector.com privacy policy that was archived on 2000-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000607120524id_/http%3A//www.icollector.com/live/services/Info_center/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icollector.com privacy policy that was archived on 2000-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000930103554id_/http%3A//www.icollector.com/live/services/Info_center/privacy_policy.htm) for the most accurate reproduction.*
 
-# icollector: the premium online auction service for art, antiques and collectibles
+# icollector.com: the marketplace & resource for experts in arts, antiques & collectibles
 
 | 
 
