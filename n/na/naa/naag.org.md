@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naag.org privacy policy that was archived on 2001-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010409130525id_/http%3A//www.naag.org/NAAG/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naag.org privacy policy that was archived on 2001-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011216213111id_/http%3A//www.naag.org/NAAG/privacy.cfm) for the most accurate reproduction.*
 
 # Welcome to the Homepage of State Attorneys General!
 
