@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2002-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021217030939id_/http%3A//www.startups.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startups.co.uk privacy policy that was archived on 2003-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030608094047id_/http%3A//www.startups.co.uk/privacy) for the most accurate reproduction.*
 
 # Comprehensive resource for people in business providing the latest news and business information
 
@@ -6,16 +6,18 @@ We are [_startups.co.uk_](http://www.startups.co.uk/), trading as Crimson Publis
 
 Our Postal address is:  
 Crimson Publishing  
-14 Northfields  
-London  
-SW18 1UU  
+Gainsborough House  
+2 Sheen Road  
+Richmond  
+Surrey  
+TW9 1AE  
 
 
 Telephone  
-020 8875 5600 
+020 8334 1600 
 
 Fax  
-020 8875 5601 
+020 8334 1601 
 
 Email  
 [_contact@startups.co.uk_](mailto:contact@startups.co.uk)
