@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wesh.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603231909id_/http%3A//www.newschannel2000.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesh.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218001517id_/http%3A//www.newschannel2000.com/sh/miscellaneous/stories/termsofuse-20001211-130824.html) for the most accurate reproduction.*
 
 # NewsChannel2000.com - Privacy Policy
 
@@ -6,13 +6,14 @@
 |  |  |  |   
 ---|---|---|---  
 |  |    
+[Traffic Report](https://web.archive.org/news/traffic/)  
 [Hometown Heroes](https://web.archive.org/hometownheroes/)  
 [Florida Legislature](https://web.archive.org/news/floridalegislature/)  
 [Crime & Justice](https://web.archive.org/news/crimeandjustice/)  
 [Environment](https://web.archive.org/news/environment/)  
 [Lottery](https://web.archive.org/news/lotto/)  
 [Theme Park News](https://web.archive.org/news/themeparknews/)  
-[Inside Education](https://web.archive.org/news/insideeducation/)  
+[Inside Education](https://web.archive.org/education/)  
 |  |  |   
 |  |  |  |  |   
 |  |  |   
@@ -21,9 +22,11 @@
 [WEATHER](https://web.archive.org/weather/)  
 [SPORTS](https://web.archive.org/sports/)  
 [2 YOUR HEALTH](https://web.archive.org/health/)  
+[INSIDE EDUCATION](https://web.archive.org/education/)  
 [CONSUMER WATCH](https://web.archive.org/news/consumerwatch/)  
 [SPACE NEWS](https://web.archive.org/news/spacenews/)  
 [YOUR MONEY](https://web.archive.org/money/)  
+[HOLIDAYS](https://web.archive.org/holidays/)  
 [ENTERTAINMENT](https://web.archive.org/entertainment/)  
 [TECHNOLOGY](https://web.archive.org/technology/)  
 [GARDEN REBEL](https://web.archive.org/gardenrebel/)  
