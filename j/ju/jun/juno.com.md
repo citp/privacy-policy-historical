@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2001-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011218072402id_/http%3A//help.juno.com/privacy/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juno.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604182222id_/http%3A//help.juno.com/privacy/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -16,10 +16,17 @@ TRUSTe is an independent, non-profit initiative whose mission is to build Intern
 
 When you see the TRUSTe mark, you can expect to be notified of:
 
-     • What types of information are being collected about you  
-     • How you can update or correct such information   
-     • How the information will be used  
-     • With whom the information will be shared
+  * What types of information are being collected about you  
+     
+  * How you can update or correct such information  
+     
+  * How the information will be used  
+     
+  * With whom the information will be shared  
+  
+
+
+
 
 Since TRUSTe certification is available only for Web sites, TRUSTe certifies our Privacy Statement only with respect to our Web site. You can review TRUSTe's policies at [http://www.truste.org](http://www.truste.org/) or contact them with any concerns at <http://www.truste.org/watchdog.html>. 
 
@@ -31,7 +38,7 @@ In addition to Member Profile and other survey data obtained from our subscriber
 In the course of operating the Site, Juno may sometimes use standard industry techniques to collect information about use of the Site (for example, how often our visitors use a certain part of the Site). However, we never provide third parties with information about personal usage characteristics in conjunction with information that might identify you. To help our partners understand how visitors use our Site, we may share certain information about our Site with them. This information is normally disclosed in the aggregate, meaning that information from many users is grouped together, and is disclosed in a way that does not reveal the identity of any particular user.
 
 **We keep confidential any personal information that might identify you.**  
-Some of the information we collect from our users could identify them personally. Such "Identifier Information" includes a person's name, address, e-mail address, credit card number, and telephone number. We will not share any individual's personal Identifier Information with a third party without that individual's consent (except as required or requested by law, regulation or governmental authority \-- it is Juno's policy to cooperate fully with legal authorities \-- or during emergencies when we believe physical safety is at risk, or as set forth in this Privacy Statement). 
+Some of the information we collect from our users could identify them personally. Such "Identifier Information" includes a person's name, address, e-mail address, credit card number, and telephone number. We will not share any individual's personal Identifier Information with a third party without that individual's consent (except as required or requested by law, regulation or governmental authority -- it is Juno's policy to cooperate fully with legal authorities -- or during emergencies when we believe physical safety is at risk, or as set forth in this Privacy Statement). 
 
 We will never use any personal information you provide on the Site for purposes unrelated to the services or promotions for which you sign up, unless we notify you in advance and give you the opportunity to choose not to provide this information to us. When you provide personal information to us on the Site, you will always have the opportunity to review, correct or update it through the Site, or by contacting Juno's customer service department.
 
