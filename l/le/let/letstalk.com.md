@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2000-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20000615045912id_/http%3A//letstalk.com/security.htm%3FdepId%3D0%26pgId%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letstalk.com privacy policy that was archived on 2000-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001205100700id_/http%3A//www.letstalk.com/security.htm) for the most accurate reproduction.*
 
 # LetsTalk.com - Shop, Research, Buy wireless phones, cellular phones, cellular services, phone accessories, pagers
 
