@@ -1,47 +1,55 @@
-> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2003-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030603161940id_/http%3A//www.nist.gov/public_affairs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nist.gov privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231084206id_/http%3A//www.nist.gov/public_affairs/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement/Security Notice/Accessibility Statement
 
-**Privacy Statement | Security Notice | Accessibility Statement**
+**Privacy Policy | Security Notice | Accessibility Statement**
 
-**Privacy Statement** **  
-** This is how we will handle information we learn about you from your visit to our website. The information we receive depends upon what you do when visiting our site. Please note that we collect no personally identifying information about you when you visit our site, unless you choose to provide that information to us.
+**Privacy Policy**
 
-_If you visit our site to read or download information such as career opportunities, press releases, or online databases, we collect and store_ ** _only_** _the following information about your visit:_
+**** Thank you for visiting the National Institute of Standards and Technology Web site. We are committed to the privacy of our visitors. We collect no personal information about you when you visit our Web site unless you choose to provide that information to us. 
 
-  * The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account) and the Internet Protocol (IP) address or host name which may or may not identify a specific computer.
+Here is how we handle information about your visit to our Web site.
 
+**Information collected and stored automatically:** If you do nothing during your visit but browse through the Web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store information like the following concerning your visit:
 
-  * The date and time you access our site.
-
-
-  * The pages you visit.
-
-
-  * The Internet address of the website from which you linked directly to our site.
-
+  * The Internet domain (for example, “xcompany.com” if you use a private Internet access account or “yourschool.edu” if you connect from a university’s domain);
+  * Your IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our Web site;
+  * The type of browser and operating system used to access our site;
+  * The date and time you access our site;
+  * The pages you visit; and
+  * If you linked to our Web site from another Web site, the address of that Web site.
 
 
-These web access logs may be preserved indefinitely and used at any time and in any way necessary to prevent security breaches and to insure the integrity of the data on our servers. We generally do not collect information through the use of web browser cookies, unless noted on a particular web page. With the exception of web access and email log data that is collected from all visitiors, we do not collect any information on-line from children.
 
-_If you **send us** E-mail:_
+We use this information to help us make our site more useful to visitors, to learn about the number of visitors to our site, and the types of technology our visitors use. We do not track or record information about individuals and their visits. 
 
-You may decide to send us personally identifying information (for example, your mailing address) in an electronic mail message or web-based form requesting that information or products be mailed to you. Information collected in this manner is used solely for responding to your request unless noted in the specific web page where your request is made **.** We generally do not share this information with other government agencies, commercial and non-commercial entities, or the public unless noted on a particular web page. Any information that you provide us in an email may be subject to disclosure under a Freedom of Information Act request. We also retain an email log of the time each message is received by the server, the source and destination address of each message, the time each message is forwarded, the delivery status of each message, and a unique email identifier number.  The email log may be retained up to 90 days. 
+**Information protection:** For site security purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. If such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act or other law.
 
-For **_SITE MANAGEMENT_** , information from web access and email logs is collected for statistical purposes. This Government computer system uses software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+**Information that you voluntarily provide:** We do not collect personally identifiable information unless you choose to provide it to us. If you provide us with personally identifiable information, for example, by sending an e-mail or by filling out a form and submitting it through our Web site, we use that information to respond to your message and to help us provide you with the information and services that you request. All uses of that information are described on the Web page containing the form.
 
-**Security Notice**
+Submitting voluntary information constitutes your consent to the use of the information for the stated purpose. When you click the “Submit” button on any of the Web forms found on our sites, you are indicating your voluntary consent to use of the information you submit for the purpose stated.
 
-For **_SITE SECURITY_** purposes and to ensure that this service remains available to all users, this Government computer system employs software programs to monitor network traffic, to identify unauthorized attempts to upload or change information, and to prevent denial of services attacks or other attacks intended to cause damage. Unauthorized modification of any information stored on this system may result in criminal prosecution.
+**How information is used:** The information we collect is used for a variety of purposes (e.g., to register you for a conference, to respond to requests for information, and to fill orders). We make every effort to disclose clearly how information is used at the point where it is collected so you can determine whether you wish to provide the information.
 
-Our website contains links to various other federal agencies and private organizations. Once you link to another site, please be aware that you are then subject to the privacy policies of the new site.  Also, NIST is not responsible for the privacy practices employed by non-NIST sites that may link to the NIST website or non-NIST sites hosted on NIST computers (e.g. web sites of professional organizations).
+**Retention of Information:** We destroy the information we collect when the purpose for which it was provided has been fulfilled unless we are required to keep it longer by statute or official policy. Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules approved by the National Archives and Records Administration, and in some cases information submitted to us may become an agency record and therefore might be subject to a Freedom of Information Act request.
 
-**Accessibility Statement**
+Also, NIST is not responsible for the privacy practices employed by non-NIST sites that may link to the NIST web site or non-NIST sites hosted on NIST computers (e.g. web sites of professional organizations.
 
-The National Institute of Standards and Technology is committed to making its websites accessible to all NIST customers and staff. All of the Institute's websites are undergoing redesign in accordance with provisions of Section 508 of the Rehabilitation Act Amendments of 1998\. 
+**Cookies:** “Cookies” are small bits of text that are either used for the duration of a session (“session cookies”) or saved on a user’s hard drive in order to identify that user, or information about that user, the next time the user logs on the a Web site (“persistent cookies”). This Web site does not use persistent cookies or any other persistent tracking technology.
 
-Thank you very much for your patience through this redesign process. If you have difficulty obtaining information from any NIST website, please contact the webmaster or contact point for that website directly to get the material in another format. 
+Currently, we are using session cookies as part of a Web customer satisfaction survey we are conducting in collaboration with ForeSee Results. The sole purpose of the session cookies is to cause the survey to be displayed to a small percentage of our Web site visitors as they leave the NIST Web site. NIST does not retain any information collected by these session cookies. Session cookies are automatically deleted at the end of a session, that is, when you close your browser. Additional privacy information related to the survey is available from a link on the survey itself. 
 
-If you have any 508-related questions, comments, or suggestions for improvement, please contact the NIST Office of the Chief Information Officer by email at [nistcio@nist.gov](mailto:nistcio@nist.gov). 
+**Interaction with children:** This Web site offers some educational content to children under 13. No personally identifiable information is collected from these visitors unless voluntarily submitted as a request for information or services. The information supplied is used to respond to the user’s inquiries or to provide services requested by the user.
 
-**[See NIST Disclaimer](http://www.nist.gov/public_affairs/disclaim.htm)**
+**Links to other sites:** Our Web site contains links to various other federal agencies and private organizations. Once you link to another site, you are then subject to the privacy policies of the new site. It is always a good idea to read the Privacy Policy of any site you visit.
+
+Your right under the Privacy Act: Information on the Privacy Act can be found on the following web site: <http://www.cftc.gov/foia/foiprivacyact.htm>
+
+**Accessibility:** The National Institute of Standards and Technology is committed to making its web sites accessible to all NIST customers and staff in accordance with provisions of Section 508 of the Rehabilitation Act Amendments of 1998. 
+
+If you have difficulty obtaining information from any NIST Web site, please contact [inquiries@nist.gov](mailto:inquiries@nist.gov) to get the material in another format. You should provide the URL of the Web site referencing that information.
+
+If you have any 508-related questions, comments, or suggestions for improvement, please contact the NIST Office of the Chief Information Officer by email at [nistcio@nist.gov](mailto:nistcio@nist.gov).
+
+[**See NIST disclaimer**](http://www.nist.gov/public_affairs/disclaim.htm).  
+
