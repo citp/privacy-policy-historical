@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2002-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021215144330id_/http%3A//www.ticketmaster7.com/help/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com.au privacy policy that was archived on 2003-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030605101704id_/http%3A//www.ticketmaster7.com/help/privacy.asp) for the most accurate reproduction.*
 
 # ticketmaster7.com
 
-|   
----  
+|  |  [](http://www.ticketmaster7.com/) |   
+---|---  
 |  |  |  |  |  |  Privacy Policy  
 ---|---  
 |  |  |  |   
@@ -14,7 +14,7 @@
 ---|---|---  
 |  |   
   
-[](https://web.archive.org/include/ad/adgo.asp?url=http://www.lgm.com.au/passthrough.asp?refID=27&image=/images/ad/120x240_hewitt.jpg)  
+  
 |  |  |   
 ---|---|---  
 | 
