@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2003-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031229132603id_/http%3A//sellmytimesharenow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellmytimesharenow.com privacy policy that was archived on 2004-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/privacy.php) for the most accurate reproduction.*
 
 # timeshare resales and rentals, buy and sell timeshare fast and easy
 
@@ -60,61 +60,60 @@ We also permit other companies that show advertisements on some of our pages to 
   
 
 
-[Kona Coast Resort II  
-Asking $9,500 Neg(sale)  
-](https://web.archive.org/web/20031229132603id_/http%3A//sellmytimesharenow.com/details.php?idadd=7023)
+[Carlsbad Seapointe Resort  
+$15,000(sale)  
+](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=18550)
 
-[Kona Hawaiian Village  
-Asking $1,500(rent)  
-Asking $17,500(sale)  
-](https://web.archive.org/web/20031229132603id_/http%3A//sellmytimesharenow.com/details.php?idadd=6998)  
+[Tristram's Landing  
+$2,400 - NANTUCKET !!! AVAILABLE FRIDY, JULY 30 - FRIDAY, AUGUST 6TH(rent)  
+](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=18547)  
   
   
   
 
 
-[Jockey Club  
-Asking $10,900 Each Week or $19,900 For Both(sale)  
-](https://web.archive.org/web/20031229132603id_/http%3A//sellmytimesharenow.com/details.php?idadd=6945)
+[Summer Bay Las Vegas  
+$7,500 **LAS VEGAS GETAWAY1 1BD/1BA W/ ANNUAL USAGE!!**(sale)  
+](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=18220)
 
-[Westgate Vacation Villas  
-PRICED TO SELL FAST AT $7,000 NEG !!!(sale)  
-](https://web.archive.org/web/20031229132603id_/http%3A//sellmytimesharenow.com/details.php?idadd=6818)  
+[Playa Grande Resort  
+$1,500 FOR A WEEK!(rent)  
+$15,500 **WONDERFUL MEXICO!!**(sale)  
+](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=18048)  
   
   
   
 
 
-[Shell Vacations Club at The Legacy Golf Resort  
-Asking $12,500(sale)  
-](https://web.archive.org/web/20031229132603id_/http%3A//sellmytimesharenow.com/details.php?idadd=6563)
+[Fairmont Vacation Villas at Hillside  
+REDUCED TO $9,900 PLUS INCLUDES 4 BANKED WEEKS AND APPROX. 3 YEARS OF INTERVAL INTERNATIONAL(sale)  
+](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=17153)
 
-[Pelican Resort Club  
-$10,900(sale)  
-](https://web.archive.org/web/20031229132603id_/http%3A//sellmytimesharenow.com/details.php?idadd=6307)  
+[Marriott's Manor Club at Ford's Colony  
+$15,000 NEGOTIABLE(sale)  
+](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=16775)  
   
   
   
 
 
-[Plaza Suite Hotel Resort  
-$1,500 Neg(rent)  
-](https://web.archive.org/web/20031229132603id_/http%3A//sellmytimesharenow.com/details.php?idadd=7118)
+[Grand Seas Resort  
+JUST REDUCED !! $6,000 - DAYTONA!! MOTIVATED SELLER!!!(sale)  
+](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=16147)
 
-[Pueblo Bonito Rose Spa & Resort  
-$1,800 each wk(2bd), $950 (1bd)(rent)  
-$16,500 each wk(2bd), $7,500 (1bed)(sale)  
-](https://web.archive.org/web/20031229132603id_/http%3A//sellmytimesharenow.com/details.php?idadd=7071)  
+[Sheraton's Vistana Resort  
+$14,500(sale)  
+](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=15707)  
   
   
   
 
 
-[Pueblo Bonito at Sunset Beach  
-$1800(rent)  
-$17500(sale)  
-](https://web.archive.org/web/20031229132603id_/http%3A//sellmytimesharenow.com/details.php?idadd=7070)
+[Westgate Miami Beach  
+$1,100(rent)  
+PLENTY OF FUN AND SUN IN VIBRANT, EXCITING MIAMI!! $8,900(sale)  
+](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=11911)
 
-[Tahoe Seasons Resort  
-LAST MINUTE GETAWAY Ski Week for Only $890 !!(rent)  
-](https://web.archive.org/web/20031229132603id_/http%3A//sellmytimesharenow.com/details.php?idadd=7052)
+[Vacation Village at Weston  
+JUST REDUCED TO ONLY $2,500 (NEG) - TRIANNUAL - **A STEAL!!!**(sale)  
+](https://web.archive.org/web/20040615090000id_/http%3A//sellmytimesharenow.com/details.php?idadd=10527)
