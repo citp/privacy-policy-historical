@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212083317id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2002-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021017065230id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp) for the most accurate reproduction.*
 
 # Hard Rock Information
 
   
-|  [Privacy Policy](https://web.archive.org/web/20011212083317id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp)   
-[Terms of Use](https://web.archive.org/web/20011212083317id_/http%3A//www.hardrock.com/corporate/policy/terms.asp)   
+|  [Privacy Policy](https://web.archive.org/web/20021017065230id_/http%3A//www.hardrock.com/corporate/policy/privacy.asp)   
+[Terms of Use](https://web.archive.org/web/20021017065230id_/http%3A//www.hardrock.com/corporate/policy/terms.asp)   
   
 |  **Information Collection and Use**   
 Hard Rock Cafe is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Hard Rock Cafe collects information from our users at several different points on our website. 
@@ -69,7 +69,7 @@ If we decide to change our privacy policy, we will post those changes on our Hom
 [](https://web.archive.org/corporate/management/)  
 [](https://web.archive.org/corporate/history/)  
 [](https://web.archive.org/corporate/press/)  
-[](https://web.archive.org/corporate/careers/)  
+[](http://careers.hodes.com/hardrock)  
 [](https://web.archive.org/corporate/faq/)  
 [](https://web.archive.org/corporate/community/)  
 [](https://web.archive.org/corporate/logos/)  
