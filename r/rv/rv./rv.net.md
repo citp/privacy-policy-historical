@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2002-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020602084412id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2002-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021205100520id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
 
 # RV.NET :: Serving Enthusiasts of the Open Road
 
 ## Privacy Policy
 
 We are committed to helping you make the most of your free time on the Internet within a trusted environment. This privacy policy discloses how we collect, protect, use, and share information gathered about you on our family of Web sites which includes all of the sites listed below. This privacy policy is the same for all of our sites. We hope that this disclosure will help increase your confidence in our sites and enhance your experience on the Internet. [www.affinitygroup.com](http://www.affinitygroup.com/)  
-[www.americanrider.com](http://www.americanrider.com/)  
+[www.americanrider.com](http://www.riderreport.com/)  
 [www.atvnews.com](http://www.atvnews.com/)  
-[www.bowhuntingnews.com](http://www.bowhuntingnews.com/)  
+[www.bowhuntingworld.com](http://www.bowhuntingworld.com/)  
 [www.campingworld.com](http://www.campingworld.com/)  
 [www.coastresorts.com](http://www.coastresorts.com/)  
 [www.cruisingrider.com](http://www.cruisingrider.com/)  
@@ -18,7 +18,6 @@ We are committed to helping you make the most of your free time on the Internet 
 [www.motorcyclereport.com](http://www.motorcyclereport.com/)  
 [www.motorhomeamericaclub.com](http://www.motorhomeamericaclub.com/)  
 [www.motorhomemagazine.com](http://www.motorhomemagazine.com/)  
-[www.pwcmagazine.com](http://www.pwcmagazine.com/)  
 [www.ridermagazine.com](http://www.ridermagazine.com/)  
 [www.rv.net](http://www.rv.net/)  
 [www.rvbg.com](http://www.rvbg.com/)  
@@ -30,12 +29,9 @@ We are committed to helping you make the most of your free time on the Internet 
 [www.rvroadservice.com](http://www.rvroadservice.com/)  
 [www.rvsearch.com](http://www.rvsearch.com/)  
 [www.rvtoday.tv](http://www.rvtoday.tv/)  
-[www.rvview.com](http://www.rvview.com/)  
 [www.snowgoer.com](http://www.snowgoer.com/)  
 [www.snowmobilemagazine.com](http://www.snowmobilemagazine.com/)  
 [www.snowmobilenews.com](http://www.snowmobilenews.com/)  
-[www.snowweek.com](http://www.snowweek.com/)  
-[www.tlbooks.com](http://www.tlbooks.com/)  
 [www.tldirectory.com](http://www.tldirectory.com/)  
 [www.trailerlife.com](http://www.trailerlife.com/)  
 [www.watercraftnews.com](http://www.watercraftnews.com/)  
@@ -134,5 +130,3 @@ The DMA's committee of Ethical Practices at mgoldberg@the-DMA.org.
 State or local chapters of the Better Business Bureau. 
 
 The federal trade commission by phone @ (202) FTC-HELP. 
-
-[ ](http://ads.rv.net/RealMedia/ads/click_nx.cgi/www.rv.net/index.cfm@Top)
