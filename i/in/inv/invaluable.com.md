@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2004-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040607204347id_/http%3A//www.invaluable.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invaluable.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206213856id_/http%3A//www.invaluable.com/about/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Invaluable > About Invaluable > Privacy Policy
 
@@ -110,7 +110,7 @@ Change requests will be made within 10 working days of your request.
 
 #### 7\. Invaluable details
 
-This web site is operated by Invaluable Group Limited a company registered in England and Wales (registered number 3943402) whose registered office is at: Invaluable Ltd., The Mews, 1a Birkenhead Street, London, WC1H 8BA.
+This web site is operated by Invaluable Group Limited a company registered in England and Wales (registered number 2374256) whose registered office is at: Invaluable Ltd., The Mews, 1a Birkenhead Street, London, WC1H 8BA.
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with Invaluable, you can contact Invaluable by email at [register@invaluable.com](mailto:register@invaluable.com) or write to us at Invaluable Ltd., Mill Court, Furrlongs, Newport, Isle of Wight, PO30 2AA, United Kingdom. You may also use this address if you wish to request from Invaluable a copy of the personal data we hold about you or a description of that data. Please note that by English law we are entitled to charge you a small sum for providing this information. 
 
