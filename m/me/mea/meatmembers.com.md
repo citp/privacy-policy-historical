@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meatmembers.com privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603020709id_/http%3A//meatmembers.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meatmembers.com privacy policy that was archived on 2004-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040807020130id_/http%3A//www.meatmembers.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
