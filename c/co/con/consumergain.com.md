@@ -1,0 +1,54 @@
+> *The following text is extracted and transformed from the consumergain.com privacy policy that was archived on 2005-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050311074313id_/http%3A//www.consumergain.com/policy.html) for the most accurate reproduction.*
+
+# Consumer Gain: Privacy Policy
+
+**Privacy Policy**
+
+ConsumerGain.com (the “Site”) is owned and managed by Member Source Media, LLC. Protecting your privacy is extremely important to us. We hope the information on this page will allow you to understand how we collect, use and protect the information that you provide to us. Please note that the ConsumerGain.com service is only available to U.S. Residents 18 years of age or older. ConsumerGain.com does not knowing collect and therefore is not responsible for information submitted to us by Persons under the age of 18. Any Changes to the Privacy policy will be immediately updated on this page.   
+**  
+How do you collect personal information?**  
+Each time you provide information to take advantage of a promotional offer, enter to win a contest, send us an email, or otherwise transmit information via the Site, ConsumerGain.com may obtain and collect personally identifiable information including (but not limited to) your name, email address, mailing address, and telephone number. You may also provide us with information that, when combined with personally identifiable information, provides us with a better idea of who you are, such as your gender, birthday, marital status, and education level (collectively with the personally identifiable information, "personal information"). If you choose to use our services, we may require you to provide information as indicated on the forms throughout the Site. 
+
+**How do you use the personal information that is collected**?   
+ConsumerGain.com uses all of the collected information to: 
+
+•  enhance your overall experience with our service. 
+
+•  contact you regarding additional promotions and services. 
+
+•  provide your contact information to ConsumerGain.com marketing partners. 
+
+•  manage and execute any of your requests. 
+
+•  send you targeted email advertisements. 
+
+ConsumerGain.com may also use personal information for any marketing and survey purpose on behalf of itself and its affiliates and subsidiaries. ConsumerGain.com may disclose personal information to third party agents and independent contractors that help us conduct our marketing and survey efforts. Further, ConsumerGain.com may disclose personal information to other companies in connection with marketing efforts including but not limited to direct marketing, which may have no relationship to ConsumerGain.com. Finally, if ConsumerGain.com or any of its assets are acquired by or merged with another entity, member information will be one of the transferred assets. 
+
+Additionally, ConsumerGain.com will use or disclose your personal information under the following circumstances: (1) in response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; (2) in the event you violate or breach an agreement with ConsumerGain.com; (3) we believe you will harm the property or rights of ConsumerGain.com or those of ConsumerGain.com's other customers, (4) we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of ConsumerGain.com's terms of use, or as otherwise required by law, or (5) personal information may also be shared with or sold to any successor to, or purchaser of, part or all of the assets of ConsumerGain.com. 
+
+**How do I cancel my membership?**  
+You may cancel your ConsumerGain.com membership at any time by visiting the unsubscribe page. If you decide to cancel your membership and later wish to re-enroll, you will not receive credit gifts earned using your previous account. ConsumerGain.com reserves the right to terminate or suspend any account at any time with or without notice. ConsumerGain.com does not tolerate any abuse, harassment, or fraudulent activity aimed towards other members or ConsumerGain.com. 
+
+**How do I opt out from your program?**  
+ConsumerGain.com members are automatically opted-in to receive ConsumerGain.com newsletters and offer e-mails at the time of enrollment. You may opt-out by visiting the unsubscribe page. 
+
+**Do you use “ Cookies”?**  
+"Cookies" are a feature on your browser software. If enabled, cookies may store small amounts of data on your computer about your visit to any of this Site. Cookies assist us in tracking which of our features appeal the most to you and what content you may have viewed on past visits. When you visit this Site again, cookies can enable us to customize our content according to your preferences. We may use cookies to: keep track of the number of return visits to this Site; accumulate and report aggregate, statistical information on website usage; deliver specific content to you based on your interests or past viewing history; save your password for ease of access to our Site. You can disable cookies, although the Site may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. 
+
+**Do you obtain information regarding Computer Profiles?**  
+ConsumerGain.com may also collect and accumulate other anonymous data which will help us understand and analyze the Internet experience of our visitors. For instance, ConsumerGain.com may accumulate visitor data relating to referring domain names, the type of browsers used, operating system software, screen resolutions, color capabilities, browser plug-ins, language settings, cookie preferences, search engine keywords and JavaScript enablement. Unless you provide us with personally identifiable information, we will not use such visitor data to identify you. 
+
+  
+**Do you track information by IP Addresses ?**  
+We automatically track certain information based upon your behavior on the Site. We may use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve you and our community. This information may include the URL that you just came from (whether this URL is on the Site or not), which URL you next go to (whether this URL is on the Site or not), your computer browser information, and your IP address. Your Internet Protocol ("IP") is a unique Internet "address" which is assigned to you by your Internet Service Provider ("ISP"). For local area network ("LAN"), DSL, or cable modem users, an IP address may be permanently assigned to a particular computer. IP addresses are automatically logged by Web servers, collecting information about a user's traffic patterns. While the IP address does not identify an individual by name, it may, with the cooperation of the ISP, be used to locate and identify an individual using the Web. Your IP address can, however, reveal what geographic area you are connecting from, or which ISP you are using. Finally, other websites you visit have IP addresses, and we may collect the IP addresses of those websites and their pages.   
+
+
+**In what location do you store data?**  
+Your information may be stored and processed in the United States or any other country in which ConsumerGain.com or its affiliates, subsidiaries or agents maintain facilities, and by using this Site, you consent to any such transfer of information outside of your country. 
+
+We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy, including encryption, and "firewalls." We employ many different security techniques to protect such data from unauthorized access by users inside and outside the company. However, perfect security does not exist on the Internet. 
+
+  
+**Are there restrictions to this privacy policy?**  
+Yes, this Privacy Policy applies only to the Site. The Site contains links that direct you to websites owned and operated by other companies. In particular, when you take advantage of a promotional offer, you will be directed to the web sites of our marketing partners that will also collect your personal information, such as credit card companies. ConsumerGain.com does not control, and assumes no responsibility for, the content, privacy policies, or practices of any third party websites, which may employ cookies and/or collect personal information. In addition, ConsumerGain.com will not and cannot censor or edit the content of any third party site. Please be sure to read the privacy policy of each third party website that you visit.   
+****
