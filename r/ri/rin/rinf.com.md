@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rinf.com privacy policy that was archived on 2003-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031203204201id_/http%3A//www.rinf.com/main/resources/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rinf.com privacy policy that was archived on 2004-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040209212409id_/http%3A//rinf.com/main/resources/privacypolicy.html) for the most accurate reproduction.*
 
 # Infotx: Terms of service
 
