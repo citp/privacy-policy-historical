@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2004-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040619040217id_/http%3A//www.lifescript.com/www/PrivacyPolicy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209001827id_/http%3A//www.lifescript.com/www/PrivacyPolicy/index.asp) for the most accurate reproduction.*
 
 # :: LifeScript - Privacy Policy ::
 
@@ -44,7 +44,12 @@ Though we make every effort to preserve your privacy we may need to disclose per
 
 **Contact**
 
-Privacy and security are important to us all. We pursue a full-disclosure approach to care responsibly for the information you have entrusted with us. We welcome your feedback and thoughts on privacy and confidentiality. We depend on information-sharing as our principal means to best serve you. This is why we are impassioned to building a trusting relationship with you. We will continually monitor customer feedback and seek to improve our services to meet your needs. If you wish to provide comments, you may contact us at [service@lifescript.com](mailto:service@lifescript.com) or **(800) 637-9382**. 
+Privacy and security are important to us all. We pursue a full-disclosure approach to care responsibly for the information you have entrusted with us. We welcome your feedback and thoughts on privacy and confidentiality. We depend on information-sharing as our principal means to best serve you. This is why we are impassioned to building a trusting relationship with you. We will continually monitor customer feedback and seek to improve our services to meet your needs.   
+If you wish to provide comments, you may contact us at [service@lifescript.com](mailto:service@lifescript.com), **(800) 637-9382** or 
+
+LifeScript Nutrition Research Laboratories  
+26001 Pala Drive  
+Mission Viejo, CA 92691
 
   
 A wholly owned subsidiary of the Council of Better Business Bureaus, BBBOnLine's mission is to promote trust and confidence on the Internet through the BBBOnLine Reliability and the BBBOnLine Privacy programs. Launched in March 1999, BBBOnLine Privacy awards seals to online businesses that have been verified to be following good information practices. Further information about this program is available at [www.bbbonline.org](http://www.bbbonline.org/).  
