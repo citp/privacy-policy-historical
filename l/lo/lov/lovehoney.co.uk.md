@@ -1,0 +1,23 @@
+> *The following text is extracted and transformed from the lovehoney.co.uk privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604023045id_/http%3A//www.lovehoney.co.uk/includes/privacy.cfm) for the most accurate reproduction.*
+
+# LoveHoney - Sexy and secure adult shopping
+
+**LoveHoney Privacy Policy**  
+LoveHoney respects your privacy. When you shop at LoveHoney, we will ask for personal information such as your name, e-mail address, billing address, product selections, credit card or other payment information.
+
+We may also collect information about where you are on the Internet (such as the Web site you came from, IP address, domain types like .co.uk and .com), your browser type, the country where your computer is located, the pages of LoveHoney that were viewed during your visit, and any search terms that you used. 
+
+Personal information you provide is used by us only for the following purposes:
+
+* To improve your shopping experience at LoveHoney 
+* To process your order 
+* With your permission, to notify you of products or special offers that may be of  
+      interest to you
+
+We hate junk mail too. Will never pass on your e-mail address or personal information to a third party.
+
+**Data Protection**  
+We treat all your personal information as confidential. We comply with all applicable UK Data Protection and consumer legislation.
+
+**Cookies**  
+We use cookies to keep track of your current shopping session to personalise your experience and so that you may retrieve your shopping basket at any time - if you do not accept cookies you will not be able to use the LoveHoney web site. 
