@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingsnake.com privacy policy that was archived on 2001-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010603113345id_/http%3A//www.onlinehobbyist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingsnake.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204182028id_/http%3A//www.onlinehobbyist.com/privacy.html) for the most accurate reproduction.*
 
 # OnlineHobbyist
 
