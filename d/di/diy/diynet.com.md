@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diynet.com privacy policy that was archived on 2001-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010412234119id_/http%3A//www.diynet.com/DIY/privacyPolicy/0%2C1034%2C%2CFF.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynet.com privacy policy that was archived on 2001-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011217231909id_/http%3A//diynet.com/DIY/privacyPolicy/0%2C1034%2C%2CFF.html) for the most accurate reproduction.*
 
 # About DIY - Privacy Policy
 
@@ -19,6 +19,7 @@ Categories
 [Project Index](https://web.archive.org/DIY/projectIndex/0,2039,,FF.html)  
 [DIY Kits](https://web.archive.org/DIY/kitsMain/0,1800,,FF.html)  
 [Ask DIY](https://web.archive.org/DIY/askDiy/0,1317,,FF.html)  
+[Cool Tools](https://web.archive.org/DIY/toolsMain/0,2324,,FF.html)  
 [Chats/Boards](https://web.archive.org/DIY/community/0,2016,,FF.html)  
 [Workshops](https://web.archive.org/DIY/workshopList/0,1026,,FF.html)  
 [Program Guide](https://web.archive.org/DIY/dailyPg/0,2004,,FF.html)  
