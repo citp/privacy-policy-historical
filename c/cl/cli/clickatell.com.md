@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606163108id_/http%3A//www.clickatell.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2001-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011203224853id_/http%3A//clickatell.com/privacy.php) for the most accurate reproduction.*
 
-# Clickatell Privacy Policy - send sms messages from the web - bulk SMS, web SMS and desktop SMS
+# Clickatell - Privacy Policy - send sms messages from the web - bulk SMS, web SMS and SMS marketing
 
 **PLEASE READ THIS AGREEMENT CAREFULLY**
 
-**Clickatell (Pty) Ltd Privacy Policy**
+Clickatell (Pty) Ltd Privacy Policy
 
 At Clickatell we respect and take steps to protect your privacy. We strive to make our site a safe environment for everyone who visits and uses Clickatell services. We are committed to providing you the best possible online service and experience as well as the best products and services. The purpose of this policy statement is to fully share with you:
 
-  * How we use the information
+  * How we use the information 
+
+
 
   * With whom we share the information
 
-  * How you can change the information 
+  * How you can change the information
 
 
 
@@ -24,9 +26,6 @@ We use information which you provide us to keep track of the Clickatell services
 
 **Disclosure of Your Information**  
 We do not sell or rent any personally identifiable information about you to any third party. We do aggregate personally identifiable information and disclose such information in aggregate to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. Clickatell offers features on our site where we will by necessity, need to provide some of your information to the third party offering such services. To the extent that that third party requires your information to enable you to use their service, we will notify you of the specific information that will be provided to such third parties. Before you use the service you should evaluate whether you will accept the terms and conditions of the third party service, and give Clickatell the right to pass your information on to that third party. In addition, we must comply with court orders, information requests from government agencies and regulators and other legal and regulatory processes that may require the disclosure of your personally-identifiable information. 
-
-**Cookies**  
-Our site does not use Cookies. However at some stage we may decide to implement Cookies to speed up and personalise your Clickatell experience. You can choose not to enable your browser to accept cookies however still be able to use the Clickatell Interface.
 
 **Frequently Asked Questions**  
 _Will you send advertising messages to my cell phone, without my consent ?_  
