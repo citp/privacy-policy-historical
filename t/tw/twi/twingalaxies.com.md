@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twingalaxies.com privacy policy that was archived on 2001-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011215102423id_/http%3A//twingalaxies.com/cgi-perl/help_privacypolicy.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twingalaxies.com privacy policy that was archived on 2002-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020205024515id_/http%3A//www.twingalaxies.com/cgi-perl/help_privacypolicy.pl) for the most accurate reproduction.*
 
 # Privacy Statement for Twingalaxies.com
 
