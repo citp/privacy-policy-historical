@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the triangle.com privacy policy that was archived on 2002-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021123172138id_/http%3A//www.triangle.com/triangle.com/help/policies/story/1612714p-1345629c.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triangle.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621090707id_/http%3A//triangle.com/triangle.com/help/policies/story/1612714p-1345629c.html) for the most accurate reproduction.*
 
-# triangle.com
+# newsobserver.com /triangle.com/help/policies
 
-****
-
-Privacy Policy  
- ****  
-
+Privacy Policy
 
 **The News & Observer Privacy Policy **
 
@@ -58,5 +54,3 @@ You should know that when you voluntarily disclose personal information on the T
 **Tell Us How We're Doing**
 
 If you have any questions or comments about our policies, please contact us by sending an e-mail to [webstaff@newsobserver.com.](mailto:webstaff@newsobserver.com)
-
-* * *
