@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2003-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031204153120id_/http%3A//www.dma.org.uk/Shared/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2004-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040622071707id_/http%3A//www.dma.org.uk/Shared/Privacy.asp) for the most accurate reproduction.*
 
 # The Direct Marketing Association
 
@@ -22,7 +22,7 @@ In addition, personal information may be used for statistical analysis.
 Personal data will be collected and processed by the DMA for the following purposes: 
 
   * to provide goods and services, including the DMA Weekly Bulletin and to process orders placed with the DMA Bookshop; 
-  * administration; and 
+  * administration 
   * marketing, advertising and promotions, unless a user elects to opt-out of receiving such communications; 
   * notification of events, workshops and training session, unless a user elects to opt-out of receiving such communications. 
 
@@ -51,7 +51,7 @@ W1W 8SS
   
 ---|---  
 8\. Disclosure of Data to Third Parties  
-|  At each point of data collection users are given the opportunity to opt-out of having their personal data passed on to selected third parties. If users do not opt-out, the DMA may, in limited circumstances, share such data with carefully selected third parties who may contact users regarding events, products, services, and training and education programmes that may be of interest to them. If at any stage users want the DMA to stop using their personal data in this way they should write to: 
+|  At each point of data collection users are given the appropriate opportunity to opt-out of having their personal data passed on to selected third parties. If users do not opt-out, the DMA may, in limited circumstances, share such data with carefully selected third parties who may contact users regarding events, products, services, and training and education programmes that may be of interest to them. If at any stage users want the DMA to stop using their personal data in this way they should write to: 
 
 DMA (UK) Ltd  
 DMA House  
@@ -75,11 +75,13 @@ Verification, updating or amendment of personal data takes place within 40 days 
   
 ---|---  
 10\. Cookies  
-|  A "cookie" is a small text file that is put by a website on a user’s computer hard drive. Internet browsers normally accept cookies by default; however, it is possible to set a browser to reject cookies. If a member sets up his or her browser to reject the DMA’s cookie, he or she may still use the website. 
+|  A "cookie" is a small text file that is placed on a user's computer hard drive by a website. There are several types of cookie and the most common are often referred to as a 'session' cookies. These are used to keep track of information needed by a user as they travel from page to page within a website. These cookies have a short lifetime and expire within a few minutes of the user leaving the site. 
 
-Cookies are often used to tell the website a user is registered and to personalise the user’s visit to the website. 
+Other types of cookies can be used to track internet activity after the user has left a website, these are usually sponsored by organisations external to the website being visited and are generally known as 'third party' cookies. These usually have a long lifetime with several months being quite common. They are 'harvested' and 'refreshed' whenever the user visits a page where the same or a similar cookie is being used. 
 
-Cookies used by the DMA track movement by the Member purely for statistical analysis. The DMA’s cookies do not analyse visits to other websites or track any Internet searches undertaken whilst on the DMA website.   
+The DMA uses benign, short lived, session cookies to tell a website user has logged, in, where to find details that can be used to pre-fill parts of on-line forms and to personalise the user's visit to the website. They are also used to anonymously track which areas of the site are popular and which are not used, this allows us to carefully target our website resources. DMA cookies do not analyse visits to other website or any searches undertaken whilst on the DMA website. 
+
+Internet browsers normally accept cookies by default; however, it is possible to set a browser to reject cookies. If this is done it is important not to exclude the benign and useful session cookies. Choose an option that rejects all third party and log lived cookies.   
   
 ---|---  
 11\. Links to Third Party Websites  
