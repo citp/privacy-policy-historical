@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2003-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030622084617id_/http%3A//www.stgeorge.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206091042id_/http%3A//www.stgeorge.com.au/privacy/default.asp%3Forc%3Dhome) for the most accurate reproduction.*
 
 # St.George Bank - Privacy & Security
 
-Privacy & Security    
-
- **Privacy** : 
+**Privacy** : 
 
   * Our privacy assurance to you
   * This policy and other privacy statements
@@ -27,6 +25,7 @@ Privacy & Security    
 
   * [Your Security](https://web.archive.org/about/your_security/default.asp?orc=personal)
   * [Internet Banking Security](https://web.archive.org/int_bank/security/default.asp?orc=personal)
+  * [St.George Secure](https://web.archive.org/about/your_security/secure.asp?orc=personal)
 
 
 
