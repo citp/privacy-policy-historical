@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the homestore.com privacy policy that was archived on 2000-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001219024100id_/http%3A//www.homestore.com/AboutUs/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homestore.com privacy policy that was archived on 2001-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010609081706id_/http%3A//www.homestore.com/AboutUs/Privacypop.asp) for the most accurate reproduction.*
 
-# 
+# Homestore: All About - Privacy Policy
 
-Privacy Policy  
-**Last updated 10/5/2000  
-**
+    |  **All About Privacy Policy**   
+Last updated 10-5-2001
 
 HOMESTORE.COM™ TAKES YOUR PRIVACY SERIOUSLY. Please read the following to learn more  about our privacy policy. This privacy policy may be updated from time to time, so please check back  frequently. 
 
 [Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee/index.html) for information on Internet safety and security from the Federal Trade Commission. 
 
-The Homestore.com family of sites, including but not limited to Homestore.com, REALTOR.com®,  HomeBuilder.com™, SpringStreet.com™, Remodel.com™, CommercialSource.com™, and  HomeFair.com™, is committed to your privacy and security and wants to provide you with the best  possible online experience. To that end, we want you to understand what kinds of information we gather  from you, how this information is used and safeguarded, and how you can control its use. 
+The Homestore.com family of sites, including but not limited to Homestore.com, REALTOR.com®,  HomeBuilder.com™, Homestore.com™ apartments & rentals, Remodel.com™, CommercialSource.com™, and  HomeFair.com™, is committed to your privacy and security and wants to provide you with the best  possible online experience. To that end, we want you to understand what kinds of information we gather  from you, how this information is used and safeguarded, and how you can control its use. 
 
-**What information is collected from me?**
+**  
+What information is collected from me?**
 
 The kinds of information we collect from you will vary, depending on how you use our Web sites. It’s  possible to browse our sites without submitting any personally identifiable information (“personal  information”) at all, but if you choose to take advantage of some of our products and services, you may  be asked to provide information such as a user name and password, your real name, e-mail address,  phone number, address, or—for certain financial products or services—your Social Security number  and banking information, and—for certain e-commerce transactions—your credit card information.  Whenever we ask for this kind of information, we strive to provide a link to this Privacy Policy to help  you understand how your personal information will be used before you decide whether to disclose it. 
 
@@ -93,6 +93,6 @@ Homestore.com, Inc.
 225 W. Hillcrest Drive, Suite 100  
 Thousand Oaks, CA 91360  
 Fax: (805) 557-2680  
-E-mail: [Privacy@Homestore.com](mailto:Privacy@Homestore.com)
+E-mail: [Privacy@Homestore.com](mailto:Privacy@Homestore.com) ****
 
-
+|  
