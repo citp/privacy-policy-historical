@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204195445id_/http%3A//www.photonics.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604070737id_/http%3A//www.photonics.com/Privacy.html) for the most accurate reproduction.*
 
 # Photonics.com - Laurin Publishing Co. Inc.: Privacy Policy
 
@@ -28,7 +28,7 @@ Laurin Publishing may offer from time to time voluntary, optional contests in wh
 Because the rules and terms of each contest can vary, all information about each contest is clearly posted during the event. All contests are conducted in full accordance with United States federal and state laws. 
 
 * **Electronic newsletters**  
-Laurin Publishing offers a free newsletter to users of its Photonics.com site. Laurin Publishing gathers the e-mail addresses of users who voluntarily subscribe to this newsletter. Users may remove themselves from this mailing list by sending an e-mail to [listserver@photonicsworld.com](mailto:listserver@photonicsworld.com) and including in the body of the message the following text: **unsubscribe newtoday {user's e-mail address}**. (This "unsubscribe" information is repeated in every newsletter.) 
+Laurin Publishing offers a free newsletter to users of its Photonics.com site. Laurin Publishing gathers the e-mail addresses of users who voluntarily subscribe to this newsletter. (This "unsubscribe" information is repeated in every newsletter.) 
 * **E-mail**  
 Users of the Laurin Publishing Web sites may voluntarily e-mail Laurin Publishing from time to time with requests for information on advertising rates or to order copies of our publications (such as the Photonics Directory, the Photonics Handbook, or the Photonics Spectra Job & Salary Survey). Such e-mails may include the user's name and other contact information in addition to his or her e-mail address. **Under no circumstances will Laurin Publishing divulge this information to a third party.**
 * **Resume postings**  
@@ -77,8 +77,6 @@ _Mailing List
 Laurin Publishing Co., Inc.  
 P.O. Box 4949  
 Pittsfield, MA 01202-4949_
-
-Users may unsubscribe to our electronic newsletter at any time by sending an e-mail to [listserver@photonicsworld.com](mailto:listserver@photonicsworld.com) and including the following text in the body of the message: **unsubscribe newtoday {user's e-mail address}**. (These instructions are repeated in every newsletter.) 
 
 **For additional information:**
 
