@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anonymizer.com privacy policy that was archived on 2001-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011204210904id_/http%3A//www.anonymizer.com/docs/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anonymizer.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604073833id_/http%3A//anonymizer.com/docs/privacy_statement.shtml) for the most accurate reproduction.*
 
 # Anonymizer.com -- Online Privacy Services
 
@@ -31,7 +31,7 @@ No information connecting a user name or the identity of a user (IP address for 
 
 ## Information this Site Gathers/Tracks
 
-The only personally identifiable information we collect is user email addresses for paying customers. For users who choose to pay by credit card we must collect personal information such as the card number, expiration date, card holders name, card verification value (CVV2) (except when using an American Express card), and billing address for AVS security. This information is stored in our credit card database for payment, refund, and charge back purposes only. The credit card database does not indicate the username associated with each payment. 
+The only personally identifiable information we collect is user email addresses for paying customers. For users who choose to pay by credit card we must collect personal information such as the card number, expiration date, card holders name, card verification value (CVV2) (except when using an American Express card), and billing address for AVS security. This information is stored in our credit card database for payment, refund, and charge back purposes only. 
 
 ## Use of the Information this Site Gathers/Tracks
 
