@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205020744id_/http%3A//wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2004-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040604022635id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
-| | [**ABOUT WCHS-TV8**](https://web.archive.org/about.shtml)  
+| | [**CONTACT WCHS-TV8**](https://web.archive.org/about.shtml)  
 ---|---  
 | [**WCHS-TV8 FREQUENTLY ASKED QUESTIONS**](https://web.archive.org/faq.shtml)  
 | [**PROGRAM CONTACTS & PROGRAM FAQ**](https://web.archive.org/programfaq.shtml)  
-| [**JOBS @ TV8 & FOX11**](https://web.archive.org/jobs.shtml)  
+| [**JOBS @ TV8 & FOX11**](http://jobs.sbgnet.com/sbghire/JobCulture.jsp?marketID=10)  
 | [**GUESTBOOK**](https://web.archive.org/register.shtml)  
 | [**SEARCH**](https://web.archive.org/8search.shtml)  
 | [**DIGITAL TV INFORMATION**](https://web.archive.org/aboutdtv.shtml)  
@@ -32,8 +32,10 @@ WINNING NUMBERS**
   
 [](https://web.archive.org/aboutdtv.shtml)  
   
-[](https://web.archive.org/newsroom/wx/tcamlive.shtml)  
 **W E B C A M S**  
+[](https://web.archive.org/newsroom/wx/tcamlive.shtml)  
+[**Charleston**](https://web.archive.org/newsroom/wx/tcamlive.shtml)  
+[**Hurricane**](https://web.archive.org/newsroom/wx/hurricanecamlive.shtml)  
   
 [](https://web.archive.org/homelawn/)  
 
