@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2000-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20001203164900id_/http%3A//www.inboxdollars.com/privacy.php%3Fref%3Dblank) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxdollars.com privacy policy that was archived on 2001-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010606161221id_/http%3A//www.inboxdollars.com/privacy.php%3Fref%3Dblank) for the most accurate reproduction.*
 
 # InboxDollars.com -- Privacy Policy
 
@@ -13,6 +13,7 @@
 > [**Begin Tour**](http://www.inboxdollars.com/adv_begin.php?ref=blank)  
 >  [**Testimonials**](http://www.inboxdollars.com/adv_testimonials.php?ref=blank)  
 >  [**Signup Now!**](http://www.inboxdollars.com/adv_signup.php?ref=blank)  
+>  [**Order Now!**](http://www.inboxdollars.com/adv_order.php?ref=blank)  
 >  [**Advertiser Login**](http://www.inboxdollars.com/adv_login.php?ref=blank)
 
 |   | 
