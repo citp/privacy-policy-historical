@@ -1,28 +1,18 @@
-> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2003-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030404052830id_/http%3A//www.studentcity.com/about/privacypolicies.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentcity.com privacy policy that was archived on 2003-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031205055044id_/http%3A//studentcity.com/about/privacypolicies.html) for the most accurate reproduction.*
 
-# StudentCity.com - College Spring Break Packages and High School Senior Class Trips
+# StudentCity Spring Break -- College Spring Break 2004 Vacation Package Trips to Cancun, Acapulco, Jamaica, Bahamas.
 
-[](http://book.studentcity.com/pricing/DestListing.cgi?user=&SRTID=&RTID=)  
-[](https://web.archive.org/special/hotdeals.cgi?user=&SRTID=&RTID=)  
-[](https://web.archive.org/dest/maps.cgi?user=&SRTID=&RTID=)  
-[](https://web.archive.org/special/partypackages.cgi?user=&SRTID=&RTID=)  
-[](http://book.studentcity.com/pricing/DestListing?user=&SRTID=&RTID=)  
-[](http://book.studentcity.com/salesreps/Login.cgi?user=&SRTID=&RTID=)  
-[](http://book.studentcity.com/salesreps/Login.cgi?user=&SRTID=&RTID=)  
-[](http://book.studentcity.com/salesreps/RepInfo.cgi?user=&SRTID=&RTID=)  
-[](https://web.archive.org/travelagents/InfoAgent.cgi?user=&SRTID=&RTID=)  
-[](http://book.studentcity.com/salesreps/RepInfo.cgi?user=&SRTID=&RTID=)  
-[](https://web.archive.org/about/forms.cgi?user=&SRTID=&RTID=)  
-[](https://web.archive.org/about/faq.cgi?user=&SRTID=&RTID=)  
-[](https://web.archive.org/photogallery/index.cgi)  
-[](https://web.archive.org/special/cooljobs.cgi)  
-  
-[ ]()   
-|  [](https://web.archive.org/index.cgi?user=&SRTID=&RTID=) [](https://web.archive.org/college/college.cgi?user=&SRTID=&RTID=) [](https://web.archive.org/highschool/highschool.cgi?user=&SRTID=&RTID=) [](http://book.studentcity.com/salesreps/Login.cgi?user=&SRTID=&RTID=) [](https://web.archive.org/about/AboutUs.cgi?user=&SRTID=&RTID=)   
 |    
+
+
+[ ](http://www.studentuniverse.com/studentcity/?cmp=BA14306)
+
+  
+|  |   
+---  
 |  **
 
-## Privacy  Policy
+## Privacy Policy
 
 **  
 ---  
@@ -47,7 +37,7 @@ StudentCity.com, and the StudentCity.com internet site, collect information in o
 * **Membership Application and Online Registration** \-- To process your StudentCity.com Membership and/or your online registration, we may ask you common required information including name, address, email address, school, class, date of birth, school ID (for student verification). To process a StudentCity.com purchase, separate from the StudentCity.com Membership, we will also require credit card or checking account information. In order to access your online account, you will be asked to select a username and password. We then ask for additional optional information including: student status, gender, expected graduation date, and class affiliations. In the future, you will also have the option to personalize your own site by providing additional optional information including: interests, Greek affiliation, major, and more. 
 * **Co-branded Membership Applications and Offers** \-- In order to receive special offers from SCC and/or other SCC co-branded partners or affiliates, you may be asked to provide additional personally identifiable information. Information submitted as part of any co-branded or any other offer may be shared with these partners and affiliates in which case the partners’ use of such information will be governed by the privacy policy of that particular partner. 
 * **Contests/Promotions** \-- When you enter a contest or other promotional feature, we may ask for your name, address, e-mail address and other contact information. Other times, you may enter by simply entering your username and password. At no time will eligibility require a purchase on your part, but you may be required to become a Member of the site. 
-* **Discussions and Community Tools** \-- StudentCity.com offers a community section including discussions (chat and threaded discussion pages) and, in the future, individual profile pages available to all users. Your posts to the Web site become available for the public to view immediately after you post. Please be considerate and respectful of others while using the community to share your opinion, see [Terms of Use](https://web.archive.org/web/20030404052830id_/http%3A//www.studentcity.com/about/terms.asp) for complete community rules. 
+* **Discussions and Community Tools** \-- StudentCity.com offers a community section including discussions (chat and threaded discussion pages) and, in the future, individual profile pages available to all users. Your posts to the Web site become available for the public to view immediately after you post. Please be considerate and respectful of others while using the community to share your opinion, see [Terms of Use](https://web.archive.org/web/20031205055044id_/http%3A//studentcity.com/about/terms.asp) for complete community rules. 
 * **Other Site Features** \-- Certain other features of the StudentCity.com Web may also require us to collect personally identifiable information such as name and email address of both the sender and the recipient. 
 
 2\. 
@@ -87,31 +77,10 @@ The restrictions above will not apply in the event that you engage in certain im
 We make a diligent effort to ensure that our secure server software (SSL) is the industry standard and among the best software available today for secure commerce transactions. Our SSL encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet. 
 
 7\. _Protection for Children_   
-We have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). Where appropriate, we take reasonable measures to inform children not to submit such information to our site or in response to advertisements. If a child has provided us with individually identifiable information, that child's parent or guardian should contact our Customer Care Department at [info@studentcity.com](mailto:info@studentcity.com) or call if they would like this information deleted from our records. 
+We have no intention of collecting personally identifiable information from children (i.e., individuals under the age of 13). Where appropriate, we take reasonable measures to inform children not to submit such information to our site or in response to advertisements. If a child has provided us with individually identifiable information, that child's parent or guardian should contact our Customer Care Department at [info](mailto:info@studentcity.com) or call if they would like this information deleted from our records. 
 
 8\. _Your Consent_   
 By using any web site in the StudentCity.com or any other site that we own or control, you consent to the collection and use of information by StudentCity.com in the manner explained above. If we decide to change this privacy policy, we will correct it to reflect those changes so you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
 
 9\. _Contacting Us_   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact us at: [_privacy@studentcity.com_](mailto:privacy@studentcity.com).   
-  
-|  | 
-
-**1.800.293.1443**   
-  
-  
-  
----  
-  
-  
-**Receive StudentCity updates on hot deals for spring break and grad trip!**
-
-  
-  
-  
-  
-| [Home](https://web.archive.org/index.cgi) | [Privacy](https://web.archive.org/about/privacypolicies.cgi) | [Terms of Use](https://web.archive.org/about/termsofuse.cgi) | [Contact Us](https://web.archive.org/about/ContactUs.cgi) | [Jobs](https://web.archive.org/special/cooljobs)| 
-
-© 2002 StudentCity.com All rights reserved []()
-
-| 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact us at: [_privacy@studentcity.com_](mailto:privacy@studentcity.com). 
