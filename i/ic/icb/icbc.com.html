@@ -1,22 +1,23 @@
-<!--The following is the downloaded HTML source of the icbc.com privacy policy that was archived on 2004-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041009124226id_/http%3A//www.icbc.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icbc.com privacy policy that was archived on 2005-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20050403163257id_/http%3A//www.icbc.com/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
-<title>ICBC.com Privacy Statement</title>
+<title>ICBC.com - Privacy Statement</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link rel="stylesheet" type="text/css" href="style_sheet.css">
-<meta name="author" content="fh">
+<meta name="description" content="This privacy statement describes the information we collect via the ICBC Web site, how we collect and use that information and how we protect your privacy.>
+<meta name=" keywords="">
+<meta name="author" content="rpm">
 <meta name="copyright" content="ICBC 2004">
 <meta name="robots" content="All">
 <script language="JavaScript">
-<!--
+
 function MM_findObj(n, d) { //v3.0
   var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
     d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
   if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
   for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
 }
-
 function MM_nbGroup(event, grpName) { //v3.0
   var i,img,nbArr,args=MM_nbGroup.arguments;
   if (event == "init" && args.length > 2) {
@@ -49,13 +50,30 @@ function MM_nbGroup(event, grpName) { //v3.0
       nbArr[nbArr.length] = img;
   } }
 }
-
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
 }
-//-->
+
+function GetENVAXicbccom(sys, st, extra){
+  var qstr = document.simple.QUERY.value
+  qstr = escape(qstr);
+  var nthome = "Simple Search Launch Page http://onlinebusiness.icbc.com/rware/simplesearch.html" + escape("&") + "startqs" + escape("&") + qstr + escape("&") + "endqs" + escape("&") + "lib=" + sys + escape("&")
+  if (st == 'sim')
+    nthome += "simple" + escape("&")
+  else
+    nthome += "advanced" + escape("&")
+  if (extra != '')
+    nthome += "xx" + extra + escape("&")
+
+  username = "icbccom";
+  password = "test";  
+  nthome += "uid=" + username + "&passwd=" + password   
+  var html = "http://onlinebusiness.icbc.com/rware/icbccom_simple.html?env=icbccom.env&CQ_SAVE[DE_HOME_PAGE]=" + nthome 
+  self.document.location = html
+}
+
 </script>
 </head>
 
@@ -127,37 +145,29 @@ function MM_preloadImages() { //v3.0
 	<table width="160" align="center" bgcolor="#000000" border="0" cellspacing="1" cellpadding="0"><tbody><tr><td align="center" valign="middle" bgcolor="#000000">
          <table width="160" bgcolor="#606060" align="center" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>
                     <table width="160" border="0" cellspacing="0" cellpadding="5">
-                      <tbody><tr>
-                            
+<!-- Search Box -->
+                      <tbody><tr> 
                       <td width="135" align="center" valign="bottom"><img src="nav/search_label.gif" width="40" height="7"></td>
-                      <td width="25" height="22" valign="center" align="center"></td>
-                    </tr>
-                    <form action="http://icbc.mondosearch.com/cgi-bin/MsmFind.exe" name="MONDOSEARCHFORM" method="GET"></form>
-
-<input type="HIDDEN" name="RESMASK" value="MssRes.msk">
-<input type="HIDDEN" name="CFGNAME" value="MssFind.cfg">
-                      <tr> 
-                        <td width="135" valign="center" align="center">
+                      </tr>
+                    <form name="simple" onsubmit="GetENVAXicbccom('s_icbccom', 'sim', 'Auto Crime &amp; Fraud Autoplan Insurance Claims &amp; Repairs Driver Licensing Geared 2 Youth Insid[e] ICBC Library Other Road Safety Buying a Car'); return false;"></form>
+                     <tr> 
+                        <td width="135" height="22" align="center" valign="center"> 
                           <input type="text" name="QUERY" size="13">
-                        </td>
-                        <td width="25" height="22" valign="center" align="center">
-                          <input type="image" src="nav/go_button.gif" width="22" border="0" height="22">
+                          <input type="image" src="nav/go_button.gif" width="22" height="22" class="rwaregobutton" name="go">
                         </td>
                       </tr>
                     
                     <tr> 
-                      <td width="135" align="center" class="smallhyperlinkswhite"><a href="http://icbc.mondosearch.com/cgi-bin/MsmMask.exe?mask=MssSearch.msk" class="smallhyperlinkswhite">Advanced 
-                        Search</a></td>
-                         <td width="25" height="22" valign="center" align="center"></td>
-                    </tr>
+                      <td width="135" align="center"><a href="http://onlinebusiness.icbc.com/rware/icbccom/help.html" target="sh" class="smalltextwhite" onclick="nirvana_positionWindow('http://onlinebusiness.icbc.com/rware/icbccom/help.html','sh','menubar=yes,scrollbars=yes,resizable=yes,width=600,height=400,left=50,top=50')">Search 
+                        Help</a></td>
+                      </tr>
                 </tbody></table>
             </td>
           </tr>
         </tbody></table></td>
           </tr>
-        </tbody></table>
-             
-       <p align="center">&nbsp;</p>
+      </tbody></table>
+	  <p align="center">&nbsp;</p>
       <p align="center"><span class="smalltextwhite">This site is optimized for 
         Version 4 and newer browsers with JavaScript enabled.<br>
         </span> </p>
@@ -259,7 +269,7 @@ function MM_preloadImages() { //v3.0
           </td>
         </tr>
       </tbody></table>
-      <p class="bullet1"><!-- #BeginLibraryItem "/Library/20pix wide transparent.lbi" --><img src="images/Library%20items/20pix_wide_transparent.gif" width="20" height="10"><!-- #EndLibraryItem --><span class="verysmalltext">10.04.04</span></p>
+      <p class="bullet1"><!-- #BeginLibraryItem "/Library/20pix wide transparent.lbi" --><img src="images/Library%20items/20pix_wide_transparent.gif" width="20" height="10"><!-- #EndLibraryItem --><span class="verysmalltext">22.11.04</span></p>
       <p class="bullet1"><!-- #BeginLibraryItem "/Library/20pix wide transparent.lbi" --><img src="images/Library%20items/20pix_wide_transparent.gif" width="20" height="10"><!-- #EndLibraryItem --><!-- #BeginLibraryItem "/Library/up button.lbi" --><a href="#top"><img src="images/Library%20items/top%20button.gif" width="22" height="22" border="0"></a><!-- #EndLibraryItem --></p>
       </td>
   </tr>
