@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2004-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040603221131id_/http%3A//www.ingdirect.co.uk/html/footer/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingdirect.co.uk privacy policy that was archived on 2004-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041205043033id_/http%3A//www.ingdirect.co.uk/html/footer/privacypolicy.html) for the most accurate reproduction.*
 
 # ING Direct > Privacy Policy
 
@@ -24,7 +24,7 @@ Netscape Communicator or Navigator: Choose Preferences from the Edit menu. From 
 Microsoft Internet Explorer: Choose Internet Options from the Tool menu. Choose the Privacy tab and move the slider to accept "Cookies", usually the Medium setting. You will have several options - accept cookies, ask permission before accepting cookies or disallow cookies.
 
 **Spotlight Tags**  
-In order to improve our website and understand how it, and links to it, are used, we are working with DoubleClick to track usage on our website. DoubleClick uses pixel tags, also known as beacons or spotlight tags, to improve our understanding of web traffic, visitor behaviour and response to promotional campaigns. Information on how to disable pixel tags, and DoubleClick’s own privacy policy can be read by [clicking here](http://www2.doubleclick.com/emea/htm/privacy_policy.asp).
+In order to improve our website and understand how it, and links to it, are used, we are working with third parties to track usage on our website. These third parties use pixel tags, also known as beacons or spotlight tags, to improve our understanding of web traffic, visitor behaviour and response to promotional campaigns. Pixel tags can be disabled by modifying the settings on your browser. For more information please contact your internet provider.
 
 Changes to our privacy policy  
 This privacy policy may be modified from time to time. Any changes to our privacy policy will be indicated on this page so you may want to check back here periodically.
