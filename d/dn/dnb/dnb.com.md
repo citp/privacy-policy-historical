@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2003-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030621205128id_/http%3A//www.dnb.com/US/home/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnb.com privacy policy that was archived on 2003-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031008110351id_/http%3A//www.dnb.com/US/home/privacy_policy/index.html) for the most accurate reproduction.*
 
 # Learn about the Dun & Bradstreet United States Privacy Policy at dnb.com.
 
   
-Version 1.5 July 2002  
+Version 1.6 June 2003  
 
 
 Driven by requests from its customers, D&B delivers products and services through the Internet faster and more efficiently than ever before. The free flow of information must be balanced against data protection interests, and D&B believes that a fair balance makes good business sense. 
 
-This Internet Privacy Policy describes the privacy policies applicable to D&B's U.S. Internet web sites, www.dnb.com, www.dnbsearch.com, and sbs.dnb.com. These sites provide links to non-U.S. D&B sites that may carry different privacy notices. 
+This Internet Privacy Policy describes the privacy policies applicable to D&B's U.S. Internet websites, [www.dnb.com](http://www.dnb.com/),  [www.dnbsearch.com](http://www.dnbsearch.com/), [sbs.dnb.com](http://sbs.dnb.com/), and [www.zapdata.com](http://www.zapdata.com/). These sites provide links to non-U.S. D&B sites that may carry different privacy notices. 
 
-| Africa | Argentina | Australia | Austria | Belgium  
+Africa | Argentina | Australia | Austria | Belgium  
 ---|---|---|---|---  
 Brazil | Canada | China | Czech Republic | Denmark  
 Eastern Europe | Finland | France | Germany | Hong Kong  
