@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2004-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040610184032id_/http%3A//www.thomasville.com/Other/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2004-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041206235433id_/http%3A//www.thomasville.com/Other/Privacy.asp) for the most accurate reproduction.*
 
 # Thomasville Furniture Ind. - Privacy Policy
 
