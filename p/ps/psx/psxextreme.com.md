@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2001-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20011212134037id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psxextreme.com privacy policy that was archived on 2002-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20020604055348id_/http%3A//www.psxextreme.com/home/pp.asp) for the most accurate reproduction.*
 
-# PSX Extreme - Privacy Policy
+# PSX Extreme - Privacy Policy -
 
 | 
 
@@ -9,21 +9,18 @@
   [Previews](http://www.psxextreme.com/scripts/previews/previews.asp)   
   [Reviews](http://www.psxextreme.com/scripts/reviews/reviews.asp)   
   [Cheats](http://www.psxextreme.com/scripts/cheats/cheats.asp)   
-  [Guides](http://www.psxextreme.com/scripts/guides/guides.asp)   
-  [Screenshots](http://www.psxextreme.com/scripts/scrs/scrs.asp)   
-  [Reader Reviews](http://www.psxextreme.com/scripts/advtrace/advtrace.asp?url=http://www.psxextreme.com/scripts/urevs/urevs.asp)**  
+  [Walkthroughs](http://www.psxextreme.com/scripts/guides/guides.asp)   
+  [Screenshots](http://www.psxextreme.com/scripts/scrs/scrs.asp) **  
 **Playstation 2    
 ****   [News](http://www.psxextreme.com/scripts/news2/news.asp)   
   [Previews](http://www.psxextreme.com/scripts/previews2/previews.asp)   
   [Reviews](http://www.psxextreme.com/scripts/reviews2/reviews.asp)   
   [Cheats](http://www.psxextreme.com/scripts/cheats2/cheats.asp)   
-  [Guides](http://www.psxextreme.com/scripts/guides2/guides.asp)   
-  [Screenshots](http://www.psxextreme.com/scripts/scrs2/scrs.asp)   
-  [Reader Reviews  
+  [Walkthroughs](http://www.psxextreme.com/scripts/guides2/guides.asp)   
+  [Screenshots](http://www.psxextreme.com/scripts/scrs2/scrs.asp) [  
 ](http://www.psxextreme.com/scripts/advtrace/advtrace.asp?url=http://www.psxextreme.com/scripts/urevs2/urevs.asp) Other**   
 **   [Special/Features](http://www.psxextreme.com/scripts/misc/spec.asp)   
-****   [Letters/Q&A  
-](http://www.psxextreme.com/scripts/letters/letters.asp)  **[**Release Dates**](http://www.psxextreme.com/home/release_dates.asp)  
+****   **[ **Release Dates**](http://www.psxextreme.com/home/release_dates.asp)  
 **   [Gaming Trivia  
 ](http://www.gamingtrivia.com/gt/scripts/advtrace.asp?url=http://www.gamingtrivia.com/gt/home/default.asp?tr=psxmenu) **
 
@@ -33,7 +30,7 @@
 
 * * *
 
-********|  |  |  |  | **Privacy Statement for PSX Extreme**  
+****************|  |  |  |  | **Privacy Statement for PSX Extreme**  
 ---|---  
   
 PSX Extreme has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [PSX Extreme](http://www.psxextreme.com/)
@@ -116,6 +113,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 |  |  |    
   
- [](http://www.dnadv.com/rd/sc.cgi?oid=225&lid=5240&sid=PSXcube)   
+    
     
 | 
